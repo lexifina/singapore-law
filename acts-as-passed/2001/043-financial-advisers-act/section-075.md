@@ -1,0 +1,9 @@
+# 75. Powers where books not produced
+Part: PART VI SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority
+
+Where a person contravenes a requirement made by the Authority under section 72 to produce any book, the Authority may require the person to state, to the best of his knowledge and belief —
+
+(a) the place where such book may be found; or
+
+(b) the person who last had possession, custody or control of such book and the place where that person may be found.
