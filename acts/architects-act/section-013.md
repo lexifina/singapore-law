@@ -1,0 +1,4 @@
+# 13. Minor building works
+Part: PART III PRIVILEGES OF ARCHITECTS
+
+Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act from carrying out work in respect of the construction of or repairs to any building or part thereof in any case in which plans are not required by any written law to be submitted to the Commissioner of Building Control.
