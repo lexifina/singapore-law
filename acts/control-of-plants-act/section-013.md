@@ -1,9 +1,9 @@
 # 13. Suspension or cancellation of certification of pesticide operator
 Part: PART III CONTROL OF CULTIVATION OF PLANTS
 
-The Director may suspend or cancel the certification of a person as a pesticide operator if the pesticide operator —
+The Director-General may suspend or cancel the certification of a person as a pesticide operator if the pesticide operator —
 
-(a) uses or supervises the use of any pesticide which is not registered with the Director;
+(a) uses or supervises the use of any pesticide which is not registered with the Director-General;
 
 (b) uses or supervises the use of any pesticide otherwise than in accordance with the instructions specified by the manufacturer of the pesticide;
 
@@ -11,6 +11,6 @@ The Director may suspend or cancel the certification of a person as a pesticide 
 
 (d) disposes or causes or allows the disposal of any pesticide container otherwise than in the prescribed manner; or
 
-(e) fails to keep such records of the use of any pesticide as the Director may require.
+(e) fails to keep such records of the use of any pesticide as the Director-General may require.
 
-[14
+[16/2000]

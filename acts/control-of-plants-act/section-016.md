@@ -1,15 +1,15 @@
 # 16. Circumstances where protection under section 15 does not apply
 Part: PART III CONTROL OF CULTIVATION OF PLANTS
 
-(1) Notwithstanding section 15, the Director may, during the protected period in relation to confidential supporting information —
+(1) Notwithstanding section 15, the Director-General may, during the protected period in relation to confidential supporting information —
 
 (a) disclose that confidential supporting information, or use that confidential supporting information for the purposes of determining whether to grant any application other than the application to which it relates or related, as the case may be —
 
 (i) with the consent of the applicant who made the application to which the confidential supporting information relates or related; or
 
-(ii) if that disclosure or use is, in the opinion of the Director, necessary to protect the health or safety of members of the public;
+(ii) if that disclosure or use is, in the opinion of the Director-General, necessary to protect the health or safety of members of the public;
 
-(b) disclose that confidential supporting information to a Government department or statutory body for the purposes of the Government department or statutory body if, in the opinion of the Director, the Government department or statutory body will take reasonable steps to ensure the confidential supporting information is kept confidential; or
+(b) disclose that confidential supporting information to a Government department or statutory body for the purposes of the Government department or statutory body if, in the opinion of the Director-General, the Government department or statutory body will take reasonable steps to ensure the confidential supporting information is kept confidential; or
 
 (c) disclose that confidential supporting information to any one or more of the following:
 
@@ -23,22 +23,20 @@ Part: PART III CONTROL OF CULTIVATION OF PLANTS
 
 (v) any person or organisation, or a person or an organisation within a class or classes of persons or organisations, approved by any rules made under this Act, if the disclosure is in accordance with such conditions as may be specified in the rules.
 
-[32/98]
+[32/98; 16/2000]
 
 (2) The power to grant consent under subsection (1) (a) (i) may be exercised by a person other than the applicant referred to in that subsection if —
 
 (a) that applicant —
 
-(i) has notified the Director in writing that that other person may grant that consent; and
+(i) has notified the Director-General in writing that that other person may grant that consent; and
 
-(ii) has not notified the Director in writing that that person’s authority to grant that consent has been withdrawn; or
+(ii) has not notified the Director-General in writing that that person’s authority to grant that consent has been withdrawn; or
 
-(b) that applicant’s rights in respect of the relevant confidential supporting information have been transferred to that person and the applicant or that other person has notified the Director in writing of the transfer.
+(b) that applicant’s rights in respect of the relevant confidential supporting information have been transferred to that person and the applicant or that other person has notified the Director-General in writing of the transfer.
 
-[32/98]
+[32/98; 16/2000]
 
 (3) For the purposes of this section, ‘‘WTO Country’’ means a country that is a party to the Agreement establishing the World Trade Organisation adopted at Marrakesh on 15th April 1994.
-
-[15B
 
 [32/98]

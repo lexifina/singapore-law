@@ -6,5 +6,3 @@ If any prohibited plant is found growing on any land in contra- vention of any o
 (a) that the plant was planted without his knowledge and consent; and
 
 (b) that on becoming aware of the existence of the plant he forthwith effectually eradicated and destroyed it.
-
-[17

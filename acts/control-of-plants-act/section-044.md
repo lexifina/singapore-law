@@ -10,5 +10,3 @@ Part: PART VIII MISCELLANEOUS
 (c) sending it by registered post addressed to the person to be served at his usual or last known place of residence or business.
 
 (2) Any notice, order or document required or authorised by this Act to be served on the owner or the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the ‘‘owner’’ or ‘‘occupier’’ of the premises without further name or description.
-
-[42

@@ -7,6 +7,4 @@ Part: PART VIII MISCELLANEOUS
 
 (2) A report of the result of an analysis which is signed by an authorised analyst shall be admissible in evidence in any proceedings under this Act or any rules made thereunder and, in the absence of evidence to the contrary, is proof of the matters stated in the report.
 
-[37
-
 [32/98]

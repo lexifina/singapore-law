@@ -1,6 +1,14 @@
-# 47. Exemption
+# 47. Composition of offences
 Part: PART VIII MISCELLANEOUS
 
-The Minister may, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person from all or any of the provisions of this Act or any rules made thereunder.
+(1) The Director-General may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
-[45
+[16/2000]
+
+(2) The Minister may prescribe the offences which may be compounded.
+
+(3) Where an offence is compounded under this Act or any rules made thereunder, any article seized shall be forfeited to the Authority.
+
+[46
+
+[16/2000]

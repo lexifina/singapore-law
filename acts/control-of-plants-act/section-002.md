@@ -3,15 +3,17 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘authorised analyst’’ means any person appointed by the Director as an authorised analyst under section 3 (2);
+‘‘authorised analyst’’ means any person appointed by the Director- General as an authorised analyst under section 3 (3);
 
-‘‘authorised officer’’ means any person appointed by the Director as an authorised officer under section 3 (1);
+‘‘authorised officer’’ means any person appointed by the Director-General as an authorised officer under section 3 (2);
+
+‘‘Authority’’ means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000);
 
 ‘‘certified pesticide operator’’ means a person who is certified as a pesticide operator under section 12;
 
 ‘‘conveyance’’ includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically propelled or otherwise used or capable of being used as a means of transport on land, water or air;
 
-‘‘Director’’ means the Director of Primary Production and includes the Deputy Director of Primary Production and any Divisional Director of the Primary Production Department;
+‘‘Director-General’’ means the Director-General, Agri-food and Veterinary Services appointed under section 3 (1) of the Animals and Birds Act (Cap. 7);
 
 ‘‘diseased’’ means attacked by or infected with any pest;
 
@@ -79,4 +81,4 @@ and
 
 ‘‘treatment’’ means disinfection and disinfestation to ensure the removal, sterilisation or killing of any pest by appropriate means.
 
-[32/98]
+[32/98; 16/2000]

@@ -1,10 +1,8 @@
-# 46. Composition of offences
+# 46. Fees, etc., payable to Authority
 Part: PART VIII MISCELLANEOUS
 
-(1) The Director may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
 
-(2) The Minister may prescribe the offences which may be compounded.
+[45A
 
-(3) Where an offence is compounded under this Act or any rules made thereunder, any article seized shall be forfeited to the Government.
-
-[44
+[16/2000]
