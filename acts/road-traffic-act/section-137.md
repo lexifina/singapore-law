@@ -1,0 +1,6 @@
+# 137. Moneys received under this Act
+Part: PART VII MISCELLANEOUS PROVISIONS
+
+Except as otherwise provided in the Land Transport Authority of Singapore Act (Cap. 158A), all moneys received by the Deputy Commissioner of Police and by the Registrar under this Act shall be paid into the Consolidated Fund.
+
+[28/95]
