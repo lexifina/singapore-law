@@ -1,0 +1,6 @@
+# 29. Service of documents on absconders
+Part: PART IV APPLICATION TO ABSCONDED PERSONS
+
+Where any document is required under this Act to be served on a person who cannot be found or who is outside Singapore and cannot be compelled to attend before a court in respect of proceedings under this Act, the court may dispense with service of the document upon him and the proceedings may be continued to their final conclusion in his absence.
+
+[25
