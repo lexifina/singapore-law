@@ -1,12 +1,32 @@
-# 42. Default in compliance with notice
+# 42. Appeal against notice
 Part: PART VII ENFORCEMENT
 
-(1) Where a person on whom a notice under section 5 (5) or (6), 7, 11, 12, 13, 15, 16, 21, 24, 25, 26, 27 or 31 is served fails to comply with the notice within the time specified in the notice —
+(1) Where a person is aggrieved by a notice referred to in section 41 (1) served on him —
 
-(a) he shall, unless he satisfies the court that he has used all due diligence to comply with the notice, be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000; and
+(a) he may, within 14 days from the date of service of the notice and in the prescribed form and manner, appeal to the Minister; and
 
-(b) the Director or any authorised officer may enter the premises under section 45 and execute the works specified in the notice.
+(b) until after the determination or abandonment of the appeal —
 
-(2) Any expenses reasonably incurred by the Director under subsection (1) (b) may be recovered from the person in default and section 49 and, if that person is the owner of the premises, section 51 shall apply in respect of those expenses.
+(i) no liability to a fine under section 41 (1) (a) shall arise except as provided for in this section; or
 
-(3) Nothing in this section shall be construed as prohibiting the Director from carrying out any works specified in any such notice at the request of a person who has been served with the notice upon an undertaking by that person to pay the costs and expenses in executing the works.
+(ii) no proceedings shall be taken or work done under the notice.
+
+(2) Where an appeal is brought under this section, the Minister may dismiss or allow the appeal unconditionally or subject to such conditions as he considers fit, and any decision made by the Minister on the appeal shall be final.
+
+(3) Where an appeal has been brought under this section, and the Minister is of the opinion that —
+
+(a) the non-execution of the notice will be injurious or dangerous to the public health; and
+
+(b) the immediate execution of the notice will not cause any injury to the person against whom the notice was made which cannot be compensated by damages, the Minister may authorise the Board immediately to execute the work.
+
+[8/2001]
+
+(4) The Board shall, if it carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
+
+[8/2001]
+
+(5) The Board may, if it carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 48 and, if the appellant is the owner of the premises in respect of which the notice was made, section 50 shall apply to any sum recoverable from him hereunder.
+
+[43
+
+[8/2001]

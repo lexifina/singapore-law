@@ -1,18 +1,34 @@
-# 9. Vesting of sewerage systems in Government
+# 9. Vesting of private sewers in Government
 Part: PART III SEWERAGE
 
-(1) Where any premises have been set aside or are being used for any sewerage system pursuant to any development proposals approved by the competent authority and the owner of the premises has agreed to surrender the premises to the Government, the Director may, by an instrument in the form approved by the Registrar of Titles or the Registrar of Deeds, as the case may be, declare that the premises shall vest in the Government.
+(1) The Board may, at any time, declare that any private sewer shall, as from such date as may be specified in the declaration, vest in the Government.
 
-(2) Any plan prepared by the Director under subsection (1) shall comply with the requirements of the Land Titles Act (Cap. 157) in respect of registered land and of the Registration of Deeds Act (Cap. 269) in respect of other land and shall show thereon the premises which will vest in the Government.
+[8/2001]
 
-(3) Any declaration made by the Director under subsection (1) shall be published in the Gazette.
+(2) Before the Board makes a declaration under subsection (1), it shall give notice in writing of its intention to do so to the owner of the sewer in question.
 
-(4) Where any premises that are to be vested in the Government under this section consist of premises included in separate lots already set aside for a sewerage system, the declaration shall be registered against those lots under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
+[8/2001]
 
-(5) Where any premises that are to be vested in the Government under this section consist of premises included in an existing lot or lots, those premises forming the sewerage system shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
+(3) Any owner who is aggrieved by a notice issued by the Board under subsection (2) may appeal to the Minister within 28 days from the date of service of the notice.
 
-(6) Upon the registration of a declaration made under subsection (1), the premises including every sewerage system installed therein shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
+[8/2001]
 
-(7) No compensation shall be payable for any premises that are vested in the Government pursuant to this section.
+(4) Upon the hearing of an appeal under this section, the Minister may allow the appeal and the Board shall not take any further action on the matter.
 
-(8) When any premises are vested in the Government under this section, the Director may take possession of the premises and proceed to demolish and remove any building or portion of any building forming part thereof.
+[8/2001]
+
+(5) Where no appeal has been filed within the time specified in subsection (3) or an appeal has been dismissed by the Minister, the Board may proceed to make the declaration.
+
+[8/2001]
+
+(6) Where a declaration has been made in respect of a private sewer under this section, the Board shall maintain the sewer and, if it sees fit, enlarge, alter or otherwise improve such sewer and may discontinue, close up or destroy such sewer as it thinks necessary as if it is a sewer constructed by the Board.
+
+[8/2001]
+
+(7) If by reason of the alteration, discontinuation, closing up or destruction of any private sewer vested in the Government under this section any person is deprived of the lawful use of the sewer, the Board shall with due diligence provide some other sewer as effectual as the one so deprived.
+
+[8/2001]
+
+(8) The declaration under subsection (1) shall be registered against those lands under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+
+[10

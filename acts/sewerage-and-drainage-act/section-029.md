@@ -1,6 +1,30 @@
-# 29. Areas not provided with effectual drainage
+# 29. Vesting of drainage reserves in Government
 Part: PART IV DRAINAGE
 
-(1) If it appears to the Director that any area is not provided with effectual drainage, the Director may cause to be executed such drainage works as he considers necessary to provide for the desired drainage of the area.
+(1) The Board may by an instrument in the form approved by the Registrar of Titles or the Registrar of Deeds, as the case may be, declare that a drainage reserve described in the instrument shall vest in the Government.
 
-(2) The Director may apportion as he thinks just the costs and expenses of such drainage works among the owners of the premises in such area and recover the sums apportioned from such owners.
+[8/2001]
+
+(2) Any plan prepared by the Board for the purposes of subsection (1) shall comply with the requirements of the Land Titles Act (Cap. 157) in respect of registered land and of the Registration of Deeds Act (Cap. 269) in respect of other land and shall show thereon the drainage reserve which will vest in the Government.
+
+[8/2001]
+
+(3) Any declaration made by the Board under subsection (1) shall be published in the Gazette.
+
+[8/2001]
+
+(4) Where any drainage reserve that is to be vested in the Government under this section consists of premises included in separate lots already set aside as part of the drainage reserve, the declaration shall be registered against those lots under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
+
+(5) Where any drainage reserve that is to be vested in the Government under this section consists of premises included in an existing lot or lots, those premises forming the drainage reserve shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
+
+(6) Upon the registration of the declaration made under subsection (1), the premises forming the drainage reserve shall vest in the Government free from all encumbrances.
+
+(7) Where the premises are held under a statutory land grant, such vesting under this section shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
+
+(8) No compensation shall be payable for any premises that are vested in the Government under this section.
+
+(9) When any drainage reserve is vested in the Government under this section, the Board may take possession of the drainage reserve and proceed to demolish and remove any building or portion of any building forming part thereof.
+
+[30
+
+[8/2001]

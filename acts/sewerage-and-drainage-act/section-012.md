@@ -1,16 +1,18 @@
-# 12. Sewerage systems, etc., not to be constructed or altered without Director’s certificate or approval
+# 12. Buildings without adequate sanitary facilities
 Part: PART III SEWERAGE
 
-(1) Except as otherwise provided in section 38, no person shall construct, alter, discontinue or close up any sewerage system or sanitary facilities without obtaining in respect of those works a clearance certificate or the approval of the Director under section 34.
+(1) If it appears to the Board that any building or part thereof is without adequate sanitary facilities, it may by notice in writing require the owner or occupier of the building —
 
-(2) Where any sewerage system or sanitary facilities are constructed, altered, discontinued or closed up in contravention of subsection (1), the Director may serve upon any person specified in subsection (3) a notice requiring him to demolish or make good the sewerage system or sanitary facilities to its original state and condition within such time as may be specified in the notice.
+(a) to provide or install such sanitary facilities as the Board may consider adequate; or
 
-(3) The notice referred to in subsection (2) may be served on all or any of the following persons:
+(b) to alter, improve, demolish or resite any sanitary facilities in such manner as the Board may require, within such time as may be specified in the notice.
 
-(a) any person who did or caused or permitted to be done any of the acts referred to in subsection (1);
+[8/2001]
 
-(b) the owner or occupier of the premises to which the sewerage system or sanitary facilities referred to in subsection (2) belong or for the use of which they are maintained;
+(2) All sanitary facilities provided or installed in any building shall be maintained, repaired and renewed to the satisfaction of the Board by the owner or occupier of the building.
 
-(c) any person having power to construct, alter or demolish the sewerage system or sanitary facilities referred to in subsection (2).
+[8/2001]
 
-(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+(3) All costs and expenses incurred for the provision, installation, alteration, demolition or re-siting of sanitary facilities under this section shall be borne by the owner or occupier of the building or the relevant part of the building.
+
+[13

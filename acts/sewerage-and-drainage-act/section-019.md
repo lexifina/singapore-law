@@ -1,18 +1,18 @@
-# 19. Discharge of sewage, etc.
+# 19. Restrictions on use of public sewers
 Part: PART III SEWERAGE
 
-(1) Any person who, without the written approval of the Director, discharges or causes or permits the discharge of any sewage, waste matter or effluent into any public sewer or any drain-line or sewer communicating with a public sewer —
+(1) No person shall throw, empty or pass, or suffer or permit to be thrown or emptied or passed, into any public sewer, or into any drain-line or sewer communicating with a public sewer —
 
-(a) directly or indirectly, from any conveyance or mobile toilet;
+(a) any matter or other substance likely to injure the sewer or drain-line, to interfere with the free flow of its contents or to affect prejudicially the treatment and disposal of its contents;
 
 or
 
-(b) by opening a manhole or an inspection chamber or any other means of access to the public sewer, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+(b) any sand, earth, gravel, cement, cement grout, brick, timber, wood or other building materials.
 
-(2) Subsection (1) shall not apply to any discharge from a conveyance or mobile toilet which may be lawfully made into any public sewer pursuant to any regulations made under this Act.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
-(3) For the purposes of this section —
+(3) The court may order any person who is convicted of an offence under this section to pay the cost incurred by the Board or the owner or occupier of any premises who has carried out any work to restore the sewerage system to its original condition, or to clear the sewerage system of any obstruction to the free flow of its contents.
 
-‘‘conveyance’’ includes any vessel, train, aircraft, vehicle or trailer, and any fixed or floating platform in a marine environment;
+[20
 
-‘‘mobile toilet’’ means a sanitary convenience which is not part of a sewerage system, including a sanitary convenience which is mobile or in a conveyance.
+[8/2001]

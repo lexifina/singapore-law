@@ -1,14 +1,12 @@
-# 28. Construction and maintenance of private drains
+# 28. Areas not provided with effectual drainage
 Part: PART IV DRAINAGE
 
-(1) The Director may authorise any person to construct any drain through, across or under any private property or to alter, repair or otherwise deal with such drain as the Director thinks fit.
+(1) If it appears to the Board that any area is not provided with effectual drainage, the Board may cause to be executed such drainage works as it considers necessary to provide for the desired drainage of the area.
 
-(2) Any authorisation given under subsection (1) may be subject to such conditions as the Director thinks fit.
+[8/2001]
 
-(3) Before authorising any person to construct any drain under subsection (1), the Director shall serve a notice on the owner and occupier of the premises —
+(2) The Board may as it thinks just apportion the costs and expenses of such drainage works among the owners of the premises in such area and recover the sums apportioned from such owners.
 
-(a) describing the nature of the works to be carried out; and
+[29
 
-(b) stating that if no objection is received within 28 days from the date of service of the notice, the works will commence on the date specified in the notice.
-
-(4) A person served with a notice under subsection (3) shall submit his objections, if any, to the Director within the prescribed time and the Director may allow or disallow the objections or allow the objections in part.
+[8/2001]

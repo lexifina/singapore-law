@@ -1,10 +1,24 @@
-# 45. Power of entry
+# 45. Power to enter on land adjacent to works
 Part: PART VII ENFORCEMENT
 
-(1) The Director or any authorised officer may, for the purposes of this Act or any regulations made thereunder, enter at all reasonable hours in the day time any premises with such assistants and workmen as are necessary for the purpose of making any survey, inspection or soil investigation and executing any work authorised by this Act or any regulations made thereunder.
+(1) Any authorised officer may, with such assistants and workmen as are necessary, enter upon any land, adjoining or being within 100 metres of any works authorised to be executed by this Act —
 
-(2) Unless otherwise provided in this Act or any regulations made thereunder, the Director or any authorised officer shall, before entering any premises under subsection (1), give reasonable notice in writing to the owner or occupier of the premises of his intention to enter any premises under subsection (1).
+(a) for the purpose of depositing upon that land any soil, gravel, sand, lime, brick, stone or other materials; or
 
-(3) Unless the consent of the occupier has been obtained therefor, no person shall enter any dwelling-house in actual occupation under this section without 6 hours’ previous notice to the occupier.
+(b) for any other purposes connected with the formation of those works, without making any previous payment, tender or deposit and doing as little damage as may be in the exercise of the powers under this subsection.
 
-(4) For the purposes of this section, the Minister may declare that any class of premises is liable to night inspection, and thereupon the Director and any authorised officer, with such assistants and workmen as are necessary, may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
+[8/2001]
+
+(2) The Board shall make compensation —
+
+(a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as any such temporary occupation is taken or any such temporary damage done; and
+
+(b) to the owner for the permanent injury, if any, to the land.
+
+[8/2001]
+
+(3) Before the Board makes any use of any land under subsection (1), it shall give 7 days’ notice of its intention to the owner and the occupier of the land.
+
+[46
+
+[8/2001]

@@ -1,10 +1,48 @@
-# 4. Delegation of Director’s functions, duties and powers
-Part: PART II ADMINISTRATION
+# 4. Construction and maintenance of public sewerage systems
+Part: PART III SEWERAGE
 
-(1) The Director may, with the approval of the Minister, authorise any member, employee or agent of a Town Council or a statutory board by name or office to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act upon the Director subject to the direction and control of the Director.
+(1) The Board —
 
-(2) Any person who is authorised under subsection (1) to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act upon the Director shall be deemed to be —
+(a) may cause to be made and constructed any public sewerage system;
 
-(a) a public officer for the purposes of this Act; and
+(b) shall maintain and keep in repair every public sewerage system; and
 
-(b) a public servant within the meaning of the Penal Code (Cap. 224).
+(c) may enlarge, alter or otherwise improve or discontinue, close up or destroy any public sewerage system which the Board thinks is useless or unnecessary.
+
+[8/2001]
+
+(2) For the purposes of subsection (1), the Board may —
+
+(a) lay pipes in, under or over any premises, street or building and keep the pipes there;
+
+(b) tunnel or bore under any premises, street or building;
+
+(c) carry the sewerage system across, through, along or under any premises or the cellar, basement or vault of any building;
+
+and
+
+(d) carry out any works requisite for, or incidental to, the purposes of subsection (1).
+
+[8/2001]
+
+(3) In the carrying out of any works under this section, the Board shall cause as little damage as possible and shall make full compensation for any damage done.
+
+[8/2001]
+
+(4) If by reason of the alteration or closing up of any public sewerage system any person is deprived of the lawful use of any sewer, the Board shall with due diligence provide some other sewer as effectual as the one so deprived.
+
+[8/2001]
+
+(5) The Board may serve a notice on the owner or supplier of any gas, electricity, water or telecommunication services to alter the course or position of any wire, line, cable, pipe, tube, casing, duct, post, structure or other apparatus which belongs to that owner or is maintained by that owner or supplier and to repair any road surface thereby disturbed if, in the opinion of the Board, such alteration is required for the purposes of subsection (1).
+
+[8/2001]
+
+(6) The Board may give notice to the owner or occupier of any premises requiring him to remove any object or structure described in the notice which is erected on or attached to, or projects from, the land or building if in the opinion of the Board the removal of the object or structure is required for the purposes of subsection (1).
+
+[8/2001]
+
+(7) Any costs and expenses incurred by an owner, supplier or occupier under subsection (5) or (6) shall be borne by the Board.
+
+[5
+
+[8/2001]

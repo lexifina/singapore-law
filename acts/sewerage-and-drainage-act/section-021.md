@@ -1,10 +1,20 @@
-# 21. Damage caused to public sewer, etc.
-Part: PART III SEWERAGE
+# 21. Board may construct storm water drainage systems
+Part: PART IV DRAINAGE
 
-(1) Any person who —
+(1) The Board may cause to be made, constructed and maintained any storm water drainage system or drain.
 
-(a) causes any damage to any public sewer or any sewer or drain-line communicating with a public sewer; or
+[8/2001]
 
-(b) does any act which renders any public or private sewer to be dangerous or injurious to health or to cause a nuisance, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both.
+(2) For the purposes of subsection (1), the Board may carry the drainage system across, through, along or under any premises or any cellar, basement or vault of any building.
 
-(2) The Director may, by notice in writing, require any person who contravenes subsection (1) to carry out any works to restore the sewerage system to its original condition within such time as may be specified in the notice.
+[8/2001]
+
+(3) Any authorised officer may enter any premises under section 44 to execute any work necessary for the purposes of subsection (1).
+
+[8/2001]
+
+(4) In the carrying out of any works under this section, the Board shall cause as little damage as possible and shall make full compensation for any damage done.
+
+[22
+
+[8/2001]

@@ -1,6 +1,20 @@
-# 39. Power to demand names and addresses
+# 39. Powers of Board to examine and secure attendance
 Part: PART VII ENFORCEMENT
 
-(1) The Director or any authorised officer may require any owner or occupier of any premises to give his name and address and such other proof of identity as he may require and to furnish such other particulars as the Director or authorised officer may require for the purposes of this Act or any regulations made thereunder.
+(1) Any authorised officer may —
 
-(2) Any person who, upon being required by the Director or any authorised officer to give his name and address or to furnish any particulars under subsection (1), refuses to do so or wilfully mis-states his name and address or furnishes false particulars shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(a) examine orally any person who is supposed to be acquainted with the facts and circumstances of matters under this Act, and to reduce to writing any statement made by the person so examined; and
+
+(b) require by order in writing the attendance before himself of any person, being within the limits of Singapore, who, from information given or otherwise, appears to be acquainted with the facts and circumstances of matters under this Act and that person shall attend as so required.
+
+[8/2001]
+
+(2) The person mentioned in subsection (1) (a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning matters under this Act, except only that he may decline to make with regard to any fact or circumstance, a statement which would have a tendency to expose him to a criminal charge, penalty or forfeiture.
+
+(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
+
+(4) If any person fails to attend as required by an order under subsection (1) (b), the Board may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+
+[40
+
+[8/2001]

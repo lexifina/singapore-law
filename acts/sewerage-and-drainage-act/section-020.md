@@ -1,14 +1,14 @@
-# 20. Restrictions on use of public sewers
+# 20. Damage caused to public sewer, etc.
 Part: PART III SEWERAGE
 
-(1) No person shall throw, empty or pass, or suffer or permit to be thrown or emptied or to pass, into any public sewer, or into any drain-line or sewer communicating with a public sewer —
+(1) Any person who —
 
-(a) any matter or other substance likely to injure the sewer or drain-line, to interfere with the free flow of its contents or to affect prejudicially the treatment and disposal of its contents;
+(a) causes any damage to any public sewer or any sewer or drain-line communicating with a public sewer; or
 
-or
+(b) does any act which renders any public or private sewer to be dangerous or injurious to health or to cause a nuisance, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-(b) any sand, earth, gravel, cement, cement grout, brick, timber, wood or other building materials.
+(2) The Board may, by notice in writing, require any person who contravenes subsection (1) to carry out any works to restore the sewerage system to its original condition within such time as may be specified in the notice.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+[21
 
-(3) The court may order any person who is convicted of an offence under this section to pay the cost incurred by the Director or the owner or occupier of any premises who has carried out any work to restore the sewerage system to its original condition, or to clear the sewerage system of any obstruction to the free flow of its contents.
+[8/2001]

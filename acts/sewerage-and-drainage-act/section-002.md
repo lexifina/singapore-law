@@ -3,19 +3,13 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘authorised officer’’ means —
+‘‘authorised officer’’ means any person appointed as an authorised officer under section 3 (2);
 
-(a) a Deputy or an Assistant Director of Sewerage and Drainage appointed under section 3 (1);
-
-(b) a public officer who is authorised by the Director to act on his behalf under section 3 (3); or
-
-(c) a member, an employee or agent of a Town Council or statutory board who is authorised under section 4 (1) to perform or exercise all or any of the functions, duties or powers of the Director under this Act;
+‘‘Board’’ means the Public Utilities Board reconstituted under section 3 of the Public Utilities Act 2001 (Act 8 of 2001);
 
 ‘‘building’’ has the same meaning as in the Building Control Act (Cap. 29);
 
 ‘‘competent authority’’ means an authority appointed under section 5 of the Planning Act (Cap. 232);
-
-‘‘Director’’ means the Director of Sewerage and Drainage appointed under section 3 (1);
 
 ‘‘drain’’ includes any canal, culvert, conduit, river or watercourse;
 
@@ -45,25 +39,25 @@ In this Act, unless the context otherwise requires —
 
 (a) sewerage systems which were vested in the Government before 1st April 1999 under the repealed Water Pollution Control and Drainage Act (Cap. 348, 1985 Ed.) or any other written law;
 
-(b) sewerage systems with respect to which a declaration of vesting has been made under section 9;
+(b) sewerage systems with respect to which a declaration of vesting has been made under section 8;
 
-(c) sewerage systems constructed by the Government on any private property at its expense or acquired by the Government; and
+(c) sewerage systems constructed by the Government or the Board on behalf of the Government on any private property at the expense of the Government or acquired by the Government; and
 
-(d) sewerage systems which are constructed on any private property and are maintained by the Government;
+(d) sewerage systems constructed on any private property and maintained by the Board;
 
 ‘‘public sewers’’ includes —
 
 (a) sewers which were vested in the Government before 1st April 1999 under the repealed Water Pollution Control and Drainage Act or any other written law;
 
-(b) sewers with respect to which a declaration of vesting has been made under section 10;
+(b) sewers with respect to which a declaration of vesting has been made under section 9;
 
-(c) sewers constructed by the Government on any private property at its expense or acquired by the Government; and
+(c) sewers constructed by the Government or the Board on behalf of the Government on any private property at the expense of the Government or acquired by the Government; and
 
-(d) sewers erected on private property which are maintained by the Government;
+(d) sewers constructed on any private property and maintained by the Board;
 
 ‘‘qualified person’’, in relation to any sewerage or drainage works, means a qualified person appointed under section 6 (3) or 9 (1) (b) of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
 
-‘‘registered plumber’’ means a plumber whose name is entered in the register of plumbers maintained under section 37;
+‘‘registered plumber’’ means a plumber whose name is entered in the register of plumbers maintained under section 36;
 
 ‘‘Registrar of Deeds’’ means the Registrar of Deeds appointed under the Registration of Deeds Act (Cap. 269);
 
@@ -95,4 +89,6 @@ In this Act, unless the context otherwise requires —
 
 ‘‘trade effluent’’ means any liquid, including particles of matter and other substances in suspension in the liquid, which is the outflow from any trade, business or manufacture or of any works of engineering or building construction;
 
-‘‘works’’ has the same meaning as ‘‘building works’’ in the Building Control Act and includes sewerage works, drainage works and the construction and alteration of sanitary facilities.
+‘‘works’’ has the same meaning as ‘‘building works’’ in the Building Control Act (Cap. 29) and includes sewerage works, drainage works and the construction and alteration of sanitary facilities.
+
+[8/2001]

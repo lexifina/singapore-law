@@ -1,4 +1,14 @@
-# 70. Saving of prosecutions under other written laws
+# 70. Composition of offences
 Part: PART IX MISCELLANEOUS PROVISIONS
 
-Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or any regulations made thereunder except that no person shall be punished twice for the same offence.
+(1) The Board may, in its discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
+
+[8/2001]
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of that offence except that any compensation, damages, fees, costs or expenses which are provided to be paid under this Act shall remain payable.
+
+(3) Nothing in this section shall prevent the Board from issuing any further notice referred to in section 41 in respect of the same matter to the person who has paid such sum of money.
+
+[71
+
+[8/2001]

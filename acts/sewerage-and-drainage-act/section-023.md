@@ -1,18 +1,22 @@
-# 23. Vesting of private drains in Government
+# 23. Storm water drainage system not to be constructed or altered without Board’s certificate or approval
 Part: PART IV DRAINAGE
 
-(1) The Director may at any time declare that any private drain shall, as from the date specified in the declaration, vest in the Government.
+(1) No person shall construct, alter, discontinue or close up any storm water drainage system or drain without obtaining in respect of those works, a clearance certificate or the approval of the Board under section 33.
 
-(2) Before the Director makes a declaration under subsection (1), he shall give notice of his intention to do so to the owner of the drain in question.
+[8/2001]
 
-(3) Any owner who is aggrieved by a notice issued by the Director under subsection (2) may appeal to the Minister within 28 days from the date of service of the notice.
+(2) Where any storm water drainage system or drain has been constructed, altered, discontinued or closed up in contravention of subsection (1), the Board may serve upon any person specified in subsection (3) a notice requiring him to demolish or make good the storm water drainage system to its original condition within such time as may be specified in the notice.
 
-(4) Upon the hearing of an appeal under this section, the Minister may allow the appeal and the Director shall not take any further action on the matter.
+[8/2001]
 
-(5) Where no appeal has been filed within the time specified in subsection (3), or an appeal has been dismissed by the Minister, the Director may proceed to make the declaration.
+(3) The notice referred to in subsection (2) may be served on all or any of the following persons:
 
-(6) Where a declaration has been made in respect of a private drain under this section, the Director shall maintain the drain and, if he sees fit, enlarge, alter or otherwise improve such drain and may discontinue, close up or destroy such drain as he thinks necessary as if it is a drain constructed by the Director.
+(a) any person who does or causes or permits to be done any of the acts referred to in subsection (1);
 
-(7) If by reason of the alteration, discontinuation, closing up or destruction of any drain vested in the Government under this section, any person is deprived of the lawful use of the drain, the Director shall with due diligence provide some other drain as effectual as the one so deprived.
+(b) the owner or occupier of the premises to which the storm water drainage system or drain referred to in subsection (2) belongs or for the use of which it is maintained;
 
-(8) The declaration under subsection (1) shall be registered against those lands under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+(c) any person having power to construct, alter or demolish the storm water drainage system or drain referred to in subsection (2).
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[24

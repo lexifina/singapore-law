@@ -1,6 +1,8 @@
-# 65. Furnishing of deposits
+# 65. Inaccuracies in document
 Part: PART IX MISCELLANEOUS PROVISIONS
 
-(1) Where any clearance certificate is issued or approval is granted by the Director under section 34 for the execution of any works, the Director may require a deposit to be furnished by the person applying for the certificate or approval to secure the execution of the works.
+(1) No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in the document as to be identifiable.
 
-(2) Where any such works are not executed to the satisfaction of the Director, he may utilise the deposit or any part thereof to make good the defects.
+(2) No proceedings taken under or by virtue of this Act or any such regulations shall be invalid for want of form.
+
+[66

@@ -1,8 +1,14 @@
-# 7. Premises not provided with adequate sewerage system
+# 7. Board may take over control, etc., of private sewerage systems
 Part: PART III SEWERAGE
 
-(1) If it appears to the Director that any premises are not provided with an adequate sewerage system, he may by notice in writing require the owner or occupier of the premises to construct such sewerage system, or to make such alteration to the existing sewerage system as he considers necessary.
+(1) The Board may take over the control, supervision, maintenance and repair of any private sewerage system to such extent as the Board thinks fit and may charge fees therefor.
 
-(2) The Director may, at any time by notice in writing, require the owner or occupier of any premises served by any sewerage system to make a sufficient drain-line emptying into any public sewer and to disconnect and demolish at his own expense any sewerage system rendered useless or unnecessary thereby.
+[8/2001]
 
-(3) The Director may, by notice in writing, require the owner or occupier of any premises to cause all sewage therefrom to be discharged into such sewerage system as he may direct.
+(2) The Board may, at any time, vary or rescind any decision to control, supervise, maintain and repair a private sewerage system.
+
+[8/2001]
+
+(3) Fees charged by the Board for the control, supervision, maintenance and repair of a private sewerage system under subsection (1) shall be payable by the owner of the sewerage system.
+
+[8

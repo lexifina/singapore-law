@@ -1,20 +1,12 @@
-# 38. Works to be performed by registered plumber
-Part: PART VI REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
+# 38. Power to demand names and addresses
+Part: PART VII ENFORCEMENT
 
-(1) No person except a registered plumber shall perform any act which, under this Act or any regulations made thereunder or under any condition imposed by the Director in issuing a clearance certificate or approval under section 34, may only be performed by a registered plumber.
+(1) Any authorised officer may require any owner or occupier of any premises to give his name and address and such other proof of identity as he may require and to furnish such other particulars as the authorised officer may require for the purposes of this Act.
 
-(2) Notwithstanding sections 12 and 15, a registered plumber may, subject to subsection (3) —
+[8/2001]
 
-(a) repair, alter, replace, remove or add to existing sanitary facilities or sanitary appliances in any existing building, temporary building or construction site; or
+(2) Any person who, upon being required by any authorised officer to give his name and address or to furnish any particulars under subsection (1), refuses to do so or wilfully mis-states his name and address or furnishes false particulars shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-(b) divert or demolish any existing sewage treatment plant.
+[39
 
-(3) Every registered plumber shall notify the Director in such form and manner and within such time as the Director may require —
-
-(a) before commencing or carrying out any works referred to in subsection (2); and
-
-(b) after the completion of those works.
-
-(4) Subsection (3) shall not apply if the Director has issued a clearance certificate or granted his approval under section 34 in respect of those works.
-
-(5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+[8/2001]

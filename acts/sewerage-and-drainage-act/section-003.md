@@ -1,8 +1,18 @@
-# 3. Appointment of Director and Deputy and Assistant Directors
+# 3. Administration of Act
 Part: PART II ADMINISTRATION
 
-(1) The Minister may appoint a Director of Sewerage and Drainage and such number of Deputy and Assistant Directors of Sewerage and Drainage as he may consider necessary for the proper carrying out of the provisions of this Act.
+(1) The Board shall be responsible for the administration of this Act subject to the general and special directions of the Minister.
 
-(2) The Director shall have the superintendence of all matters relating to this Act or any regulations made thereunder subject to the general or special directions of the Minister.
+[8/2001]
 
-(3) The functions, duties and powers which are imposed or conferred upon the Director under this Act or any regulations made thereunder may be performed or exercised by any Deputy or Assistant Director of Sewerage and Drainage and by any public officer who is duly authorised in writing by the Director to act on his behalf subject to the direction and control of the Director.
+(2) The Board may in writing appoint any public officer or any officer of the Board or of any other statutory authority to be an authorised officer for the purposes of this Act.
+
+[8/2001]
+
+(3) The functions, duties and powers which are imposed or conferred upon the Board under this Act may be performed or exercised by any authorised officer subject to the direction and control of the Board.
+
+[8/2001]
+
+(4) Every authorised officer shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+
+[8/2001]

@@ -1,18 +1,22 @@
-# 48. Appeal to Minister against notices, orders, directions, etc.
-Part: PART VII ENFORCEMENT
+# 48. Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court
+Part: PART VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) Any person who is aggrieved by any notice, order, direction, authorisation or declaration by the Director under this Act or, unless otherwise expressly provided, any regulations made thereunder may appeal in writing to the Minister within 14 days of the date of service of the notice, order, direction or authorisation or within 28 days of the date of service of the declaration.
+(1) Except as otherwise provided, in all cases where compensation, damages, fees, costs or expenses are provided under this Act to be paid, the amount and, if necessary, the apportionment of the amount and any question of liability shall, in case of dispute, or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount claimed exceeds the Magistrate’s Court limit, by a District Court.
 
-(2) Upon any appeal under subsection (1), the execution of the notice or the doing of the thing required to be done shall be stayed.
+(2) In any proceeding under subsection (1), the Magistrate’s Court or the District Court may —
 
-(3) The Minister may confirm, vary or rescind the notice, order, direction, authorisation or declaration or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Director is competent to make under this Act and the decision of the Minister shall be final.
+(a) inquire whether those expenses ought to be borne wholly or in part by some person other than the defendant in the proceedings;
 
-(4) This section shall not apply to —
+(b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
-(a) a notice or declaration under section 10 or 23;
+(c) where those expenses were incurred under section 41 (1) (b) by the Board in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
 
-(b) an authorisation under section 28;
+[8/2001]
 
-(c) a decision under section 37; or
+(3) The Magistrate’s Court or the District Court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the Court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
 
-(d) a notice under section 5 (5) or (6), 7, 11, 12, 13, 15, 16, 21, 24, 25, 26, 27 or 31.
+(4) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay it within 7 days after demand, that amount may be reported to a Magistrate’s Court or a District Court and recovered in the same way as if it were a fine imposed by a Magistrate’s Court or a District Court.
+
+(5) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
+
+[49

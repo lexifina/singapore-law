@@ -1,14 +1,28 @@
-# 37. Register of plumbers
+# 37. Works to be performed by registered plumber
 Part: PART VI REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
-(1) The Director may maintain a register of plumbers who satisfy him that they have the necessary qualifications and skills to carry out works for the construction and alteration of sanitary facilities.
+(1) No person except a registered plumber shall perform any act which may, under this Act or under any condition imposed by the Board in issuing a clearance certificate or approval under section 33, only be performed by a registered plumber.
 
-(2) A plumber whose name is on the register of plumbers shall pay such registration and annual fees as may be prescribed for his name to be entered and kept in the register.
+[8/2001]
 
-(3) For the purposes of subsection (1), the Director may conduct such examinations or tests as he thinks fit.
+(2) Notwithstanding sections 11 and 14, a registered plumber may, subject to subsection (3) —
 
-(4) The Director may suspend or remove from the register of plumbers, the name of a plumber for a breach of or failure to comply with any provision of this Act or any regulations made thereunder or any code of practice issued by the Director from time to time.
+(a) repair, alter, replace, remove or add to existing sanitary facilities or sanitary appliances in any existing building, temporary building or construction site; or
 
-(5) Any person who is aggrieved by any decision of the Director under this section may, within 14 days of being notified in writing of the decision, appeal to the Minister whose decision shall be final.
+(b) divert or demolish any existing sewage treatment plant.
 
-(6) Any person whose name has been removed from the register of plumbers under subsection (4) shall, if his appeal to the Minister is allowed, have his name reinstated as soon as possible.
+(3) Every registered plumber shall notify the Board in such form and manner and within such time as the Board may require —
+
+(a) before commencing or carrying out any works referred to in subsection (2); and
+
+(b) after the completion of those works.
+
+[8/2001]
+
+(4) Subsection (3) shall not apply if the Board has issued a clearance certificate or granted its approval under section 33 in respect of those works.
+
+[8/2001]
+
+(5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[38

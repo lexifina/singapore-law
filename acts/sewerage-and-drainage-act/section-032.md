@@ -1,14 +1,20 @@
-# 32. Prohibition on extraction of water
-Part: PART V PROTECTION OF WATER RESOURCES
+# 32. Codes of practice and specifications
+Part: PART VI REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
-(1) No person shall, without the approval of the Director, construct any works for taking or intercepting water from any place or sea, within the territorial limits of Singapore.
+(1) The Board may issue or approve and from time to time review specifications for sewerage works, sewerage systems, sanitary facilities, sanitary appliances, drains, drainage works and storm water drainage systems, and codes of practice for professionals engaged in the design and construction of the same.
 
-(2) An application for approval to construct any works for taking or intercepting water from any such place or sea shall be made in such form as the Director may require.
+[8/2001]
 
-(3) In considering an application made under this section, the Director may require the applicant to furnish such particulars and plans for the proposed works as he thinks fit.
+(2) If any provision in any code of practice or specifications issued or approved by the Board under subsection (1) is inconsistent with any regulation made under this Act, such provision shall, to the extent of the inconsistency —
 
-(4) In granting any approval under this section, the Director may impose such conditions as he thinks fit.
+(a) have effect subject to such regulation; or
 
-(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months.
+(b) where appropriate having regard to such regulation, not have effect.
 
-(6) This section shall not apply to the lands, buildings and installations of the Public Utilities Board.
+[8/2001]
+
+(3) The Board may, generally or for such time as the Board may specify, exempt any premises or class of premises from the requirements of any provision in any code of practice or specifications issued or approved by it.
+
+[33
+
+[8/2001]

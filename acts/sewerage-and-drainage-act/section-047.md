@@ -1,8 +1,24 @@
-# 47. Penalty for obstructing Director in his duty
+# 47. Appeal to Minister against notices, orders, directions, etc.
 Part: PART VII ENFORCEMENT
 
-Any person who —
+(1) Any person who is aggrieved by any notice, order, direction, authorisation or declaration by the Board under this Act or, unless otherwise expressly provided, any regulations made thereunder may appeal in writing to the Minister within 14 days from the date of service of the notice, order, direction or authorisation or within 28 days from the date of service of the declaration.
 
-(a) hinders or obstructs the Director or any authorised officer in the performance or execution of his duty or of any thing which he is empowered or required to do under this Act or any regulations made thereunder; or
+[8/2001]
 
-(b) interferes with any work authorised to be done under this Act or any regulations made thereunder, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both.
+(2) Upon any appeal under subsection (1), the execution of the notice or the doing of the thing required to be done shall be stayed.
+
+(3) The Minister may confirm, vary or rescind the notice, order, direction, authorisation or declaration or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Board is competent to make under this Act and the decision of the Minister shall be final.
+
+[8/2001]
+
+(4) This section shall not apply to —
+
+(a) a notice or declaration under section 9 or 22;
+
+(b) an authorisation under section 27;
+
+(c) a decision under section 36; or
+
+(d) a notice under section 4 (5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26 or 30.
+
+[48

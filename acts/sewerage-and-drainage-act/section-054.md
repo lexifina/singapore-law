@@ -1,8 +1,18 @@
-# 54. Attachment
+# 54. Application of proceeds of sale
 Part: PART VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) The attachment referred to in section 53 (1) (a) may be made by a person appointed for the purpose by the Director who shall give public notice of the attachment in the prescribed manner and shall take an inventory of the property attached.
+(1) The proceeds of a sale under section 52 (1) and (2) shall be applied in the first place in satisfaction of the arrears together with interest thereon at the prescribed rates and costs.
 
-(2) A person appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+(2) Where there is any surplus remaining, the Board shall —
 
-(3) Such a person may break open in the day time any house or building for the purpose of effecting the attachment.
+(a) if satisfied as to the right of any person claiming the surplus, pay the amount thereof to that person; or
+
+(b) if not so satisfied, shall hold the amount in trust for the person who may ultimately succeed in due course of law in establishing his title thereto.
+
+[8/2001]
+
+(3) If no title is established to the surplus within a period of 5 years from the date of the sale, it shall be paid into the funds of the Board.
+
+[55
+
+[8/2001]

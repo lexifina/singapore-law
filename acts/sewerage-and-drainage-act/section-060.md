@@ -1,6 +1,14 @@
-# 60. Liability of transferor who has not given notice
+# 60. Proceedings where occupier opposes execution of work
 Part: PART VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) Every person who sells or transfers any property in respect of which costs and expenses have been incurred by the Government in connection with the execution of any work which are, under this Act or any regulations made thereunder, recoverable from the owner or owners thereof shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or any regulations made thereunder upon the owner of the property which become payable or are to be performed at any time before such notice of transfer as is required by section 19 of the Property Tax Act (Cap. 254) has been given.
+(1) If the occupier of any premises prevents the owner thereof from carrying into effect in respect of the premises any of the provisions of this Act after notice of his intention to do so has been given by the owner to that occupier, a Magistrate’s Court, upon proof thereof and upon application by the owner, may —
 
-(2) Nothing in subsection (1) shall affect the liability of the purchaser or transferee to pay such costs and expenses in respect of the property or affect the right of the Director to recover such costs and expenses or to enforce any obligation under this Act or any regulations made thereunder.
+(a) make an order in writing, requiring the occupier to permit the owner to execute all such works with respect to the premises as are necessary for carrying into effect the provisions of this Act; and
+
+(b) if it thinks fit, order the occupier to pay to the owner the costs relating to the application or order.
+
+(2) If after the expiration of 8 days from the date of the order the occupier continues to refuse to permit the owner to execute the works, the occupier shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day during which he so continues to refuse.
+
+(3) Every such owner shall, during the continuance of such refusal, be discharged from any penalty to which he might otherwise have become liable by reason of his default in executing the works.
+
+[61

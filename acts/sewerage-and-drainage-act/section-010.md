@@ -1,18 +1,16 @@
-# 10. Vesting of private sewers in Government
+# 10. Sewerage systems to be kept in proper order at cost of owners
 Part: PART III SEWERAGE
 
-(1) The Director may, at any time, declare that any private sewer shall, as from such date as may be specified in the declaration, vest in the Government.
+(1) Every sewerage system shall be altered, repaired and kept in proper order at the cost and expense of the owner of the premises to which the sewerage system belongs or for the use of which it is maintained.
 
-(2) Before the Director makes a declaration under subsection (1), he shall give notice in writing of his intention to do so to the owner of the sewer in question.
+(2) The Board may, by notice in writing, require the owner of any premises referred to in subsection (1) to alter, repair or put the sewerage system in good order in the manner required by the Board.
 
-(3) Any owner who is aggrieved by a notice issued by the Director under subsection (2) may appeal to the Minister within 28 days from the date of service of the notice.
+[8/2001]
 
-(4) Upon the hearing of an appeal under this section, the Minister may allow the appeal and the Director shall not take any further action on the matter.
+(3) Where the Board is satisfied that it is immediately necessary to alter, repair or put in good order and condition any sewer, drain-line, privy, cesspool, septic or other tank, toilet, urinal, water-closet, sink, bath or lavatory or any appurtenance thereof, any authorised officer may enter upon any premises and carry out or cause to be carried out such alterations, repairs, works, acts or things as are necessary for any of those purposes.
 
-(5) Where no appeal has been filed within the time specified in subsection (3) or an appeal has been dismissed by the Minister, the Director may proceed to make the declaration.
+[8/2001]
 
-(6) Where a declaration has been made in respect of a private sewer under this section, the Director shall maintain the sewer and, if he sees fit, enlarge, alter or otherwise improve such sewer and may discontinue, close up or destroy such sewer as he thinks necessary as if it is a sewer constructed by the Director.
+(4) Any expenses reasonably and necessarily incurred in carrying out the works referred to in subsection (3) may be recovered from the owner of the premises when the work is completed.
 
-(7) If by reason of the alteration, discontinuation, closing up or destruction of any private sewer vested in the Government under this section any person is deprived of the lawful use of the sewer, the Director shall with due diligence provide some other sewer as effectual as the one so deprived.
-
-(8) The declaration under subsection (1) shall be registered against those lands under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+[11
