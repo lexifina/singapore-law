@@ -1,10 +1,32 @@
-# 20. Power of Registrar to obtain further information
-Part: PART III MISCELLANEOUS
+# 20. Electronic filing service
+Part: PART II REGISTRATION
 
-(1) In order to obtain such information as the Registrar may consider necessary for the purposes of carrying out the provisions of this Act regarding any person the particulars of whom and of his business are required to be registered under this Act, the Registrar may —
+(1) The Registrar may require any document to be lodged under this Act to be filed electronically with the Registrar using the service provided by the Registry of Businesses whereby documents under this Act may be filed with or submitted to the Registrar electronically.
 
-(a) require any person responsible for the management of his business to answer any question in writing which the Registrar may consider necessary to ask for the purposes specified in this subsection; or
+[13/2002]
 
-(b) summon that person to appear before him or an inspector or any other public officer whom the Registrar may designate to answer any such question orally.
+(2) Where any document is required to be filed with or submitted to the Registrar electronically by any person using the service referred to in subsection (1), the Registrar may allow the document to be filed or submitted by a prescribed person on behalf of the first-mentioned person.
 
-(2) The Registrar may further require the person referred to in subsection (1) to make such further declaration or supply such further particulars as the Registrar may require.
+[13/2002]
+
+(3) Where the Registry of Businesses provides a service whereby documents required under this Act may be filed electronically with the Registry, neither the Government nor any of its employees shall be liable for any loss or damage, suffered by any person by reason of any error or omission, of whatever nature or however caused, appearing in any document obtained by any person under the service if the error or omission —
+
+(a) is made in good faith and in the ordinary course of the discharge of the duties of any of these employees; or
+
+(b) has occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+
+[13/2002]
+
+(4) A copy of or extract from any document electronically filed with or submitted to the Registrar using the service referred to in subsection (1) which is supplied or issued by the Registrar and certified under his hand and seal to be a true copy thereof or extract therefrom shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+
+[13/2002]
+
+(5) Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall, in any proceedings, be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
+
+[13/2002]
+
+(6) Subsections (4) and (5) shall have effect notwithstanding the provisions of any other written law.
+
+[16B
+
+[13/2002]

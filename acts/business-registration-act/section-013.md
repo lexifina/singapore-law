@@ -1,34 +1,62 @@
-# 13. Cessation of business
+# 13. Restrictions on registration of business names
 Part: PART II REGISTRATION
 
-(1) Where any person registered under this Act has ceased to carry on business, he shall, within 14 days of the cessation, lodge with the Registrar a notice in such form as the Registrar may determine notifying the Registrar that he has ceased to carry on business.
+(1) Except with the consent of the Minister, the Registrar shall refuse to register a person under this Act to carry on business under a name which, or to allow a person to change the name under which he carries on business to one which, in the opinion of the Registrar —
 
-[40/99]
+(a) is undesirable;
 
-(2) The Registrar may, if he thinks fit, allow a person registered under this Act to lodge with the Registrar a notice, in such form as the Registrar may determine, notifying the Registrar in advance that he shall cease to carry on business on the date specified in the notice.
+(b) is identical to that of any corporation or to any other business name;
 
-[40/99]
+(c) is identical to a name that is being reserved under this section or under section 27 of the Companies Act (Cap. 50);
 
-(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+or
 
-[40/99]
+(d) is a name of a kind that the Minister has directed the Registrar, by notification in the Gazette, not to accept for registration.
 
-(4) On receipt of the notice under subsection (1) or on the date specified in the notice under subsection (2), as the case may be, the Registrar may cancel the registration of the person and remove from the register the name under which he carries on business.
+[13/2002]
 
-[40/99]
+(2) A person may apply in the prescribed manner to the Registrar for the reservation of a name set out in the application as —
 
-(5) Where the Registrar has reasonable cause to believe that any person registered under this Act is not carrying on business, he may send by registered post to that person a notice to the effect that if an answer showing cause to the contrary is not received within one month from the date thereof, the registration of that person may be cancelled and the name under which he carries on business removed from the register.
+(a) the name of an intended business; or
 
-[40/99]
+(b) the new name of the registered business of the person.
 
-(6) If the Registrar either receives an answer from the person referred to in subsection (5) to the effect that he is not carrying on business, or does not within one month after sending the notice receive an answer showing cause to the contrary, he may cancel the registration of that person and remove from the register the name under which he carries on business.
+[13/2002]
 
-[40/99]
+(3) Upon receipt of an application under subsection (2) and payment of the prescribed fee, the Registrar may, if he is satisfied that the name to be reserved is not one which may be rejected on any ground referred to in subsection (1) (a), (b), (c) or (d), reserve the name for a period of 2 months from the date of lodgment of the application or such longer period as the Registrar may allow.
 
-(7) The Registrar shall, by notification in the Gazette, publish such particulars as he thinks fit in respect of any person whose registration has been cancelled under this section.
+[13/2002]
 
-[40/99]
+(4) Notwithstanding anything in this section, where the Registrar is satisfied that a person has been registered (whether through inadvertence or otherwise and whether originally or by a change of name) to carry on business under a name which —
 
-(8) Where the registration of a person is cancelled under this section, the certificate of registration issued to that person shall be deemed to be cancelled.
+(a) is a name referred to in subsection (1) (a), (b) or (d); or
 
-[40/99]
+(b) so nearly resembles the name of any corporation or any other business name as to be likely to be mistaken for it, the Registrar may direct the person to change the name under which he carries on business, and the person shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+
+[13/2002]
+
+(5) Any person may apply, in writing, to the Registrar to give a direction to any other person, on a ground referred to in subsection (4) (a) or (b), to change the name under which the second- mentioned person carries on business.
+
+[13/2002]
+
+(6) The Registrar shall not consider any application under subsection (5) to give a direction to a person on the ground referred to in subsection (4) (b) unless the Registrar receives the application within 12 months from the date of registration of the person.
+
+[13/2002]
+
+(7) The Registrar may cancel the registration of any person who fails to comply with a direction given under subsection (4).
+
+[13/2002]
+
+(8) The Registrar may, if he is satisfied that a person who is directed under subsection (4) to change the name under which he carries on business had applied for registration under that name in bad faith, require that person to pay the Registrar such fees as may be prescribed, and such fees shall be recoverable as a debt due to the Government.
+
+[13/2002]
+
+(9) Any person who is aggrieved by a direction of the Registrar under subsection (4) or a requirement of the Registrar under subsection (8) may, within 30 days of the date of the direction or requirement, appeal to the Minister whose decision shall be final.
+
+[13/2002]
+
+(10) The Registrar may, by publication in the Gazette, make such rules as he considers appropriate for the purposes of determining the matters referred to in subsections (1) to (4).
+
+[11
+
+[13/2002]

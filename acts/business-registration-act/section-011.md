@@ -1,16 +1,12 @@
-# 11. Restriction on registration of similar business names
+# 11. Supplemental provision to sections 9 and 10
 Part: PART II REGISTRATION
 
-(1) Where the Registrar is satisfied that any person registered under this Act carries on business, or any person applying for registration under this Act intends to carry on business, under a name which —
+(1) For the purpose of sections 9 and 10, a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that it would be contrary to the national security or interest for the person named in the certificate to be registered or to continue to be registered under this Act shall be conclusive evidence of the matters so stated.
 
-(a) is identical to that of any other corporation or the name under which another person carries on business or a name that is being reserved under section 27 of the Companies Act (Cap. 50);
+[36/2000]
 
-(b) so nearly resembles the name of any corporation or the name under which another person carries on business or a name that is being reserved under section 27 of the Companies Act as to be calculated to mislead, except where such other corporation is in the course of being dissolved or wound up or such other person signifies its or his consent in such manner as the Registrar may require; or
+(2) Section 10 (2) shall not apply in a case where the Registrar cancels the registration of a person under section 10 (1) (a) pursuant to a certificate referred to in subsection (1).
 
-(c) is, in the opinion of the Registrar, undesirable or is a name of a kind which the Minister has directed the Registrar not to accept for registration, the Registrar may cancel his registration or refuse to register him, as the case may be, unless he changes the name within 30 days from the date the Registrar requested him to do so.
+[9C
 
-[40/99]
-
-(2) Any person aggrieved by a decision of the Registrar under subsection (1) may, within 30 days of the date of the decision, appeal to the Minister whose decision shall be final.
-
-[40/99]
+[36/2000]

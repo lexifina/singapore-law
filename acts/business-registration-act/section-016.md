@@ -1,16 +1,14 @@
-# 16. Request for copy of certificate of registration, etc.
+# 16. Rectification of register
 Part: PART II REGISTRATION
 
-(1) Any person may, upon payment of such fees as may be prescribed, require a copy of a certificate of registration issued to any person, or a copy of or an extract from any document filed with the Registrar, to be certified by the Registrar.
+(1) Where it appears to the High Court, as a result of evidence adduced before it, that —
 
-(2) Any copy or extract, including a copy produced by way of such medium as determined by the Registrar, given under subsection (1) which is certified to be a true copy or extract under the hand and seal of the Registrar shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+(a) any of the particulars recorded in a register is incorrect;
 
-[40/99]
+(b) a misleading business name has been registered; or
 
-(3) A register shall not be open to inspection by the public.
+(c) the use of a business name should be prohibited, the High Court may, by order, direct the Registrar to rectify the register in the manner specified in the order.
 
-(4) The Registrar shall not be required to issue under subsection
+(2) The Registrar shall, upon receipt of the order, rectify the register accordingly.
 
-(1) a copy of or extract from a document forming part of the register where that document has been destroyed under section 26.
-
-[40/99]
+[14

@@ -2,6 +2,8 @@
 
 Section 7
 
+ADDITIONAL PARTICULARS
+
 Description of person The additional particulars
 
 1. Where the person carries on The name, nationality and usual place of business as nominee or trustee residence of every person on whose behalf of another person the business is carried on and, if such person is a corporation, the name of the corporation, its registered office and the general nature of its business. Where the beneficiaries are a class of children or other persons, a description of the class.

@@ -1,20 +1,8 @@
-# 31. Service of summons, notices, etc.
+# 31. Destruction of old records
 Part: PART III MISCELLANEOUS
 
-(1) Any notice, written communication, certificate or other document required to be given or served under the provisions of this Act shall be deemed to have been duly given or served if posted by the Registrar to the registered principal place of business of the person to whom it is addressed.
+The Registrar may destroy or give to the National Archives of Singapore any document lodged, filed or registered with the Registrar and which has been microfilmed or converted to electronic form if in his opinion it is no longer necessary or desirable to retain the document.
 
-[40/99]
-
-(2) Every summons issued by a court in connection with any offence under this Act may be served on the person concerned —
-
-(a) by delivering it to him;
-
-(b) by delivering it to any adult person residing at his last known place of residence; or
-
-(c) by forwarding it by registered post in a cover addressed to him at his last known place of residence or business or at any address furnished by him.
-
-[40/99]
-
-(3) In proving service by registered post, it shall be sufficient to prove that the cover containing the summons was properly addressed, stamped and posted by registered post.
+[26
 
 [40/99]

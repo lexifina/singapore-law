@@ -1,18 +1,16 @@
-# 23. Offences
+# 23. Inspection
 Part: PART III MISCELLANEOUS
 
-Any person who —
+(1) The Registrar may authorise in writing any public officer to be an inspector for the purposes of this Act.
 
-(a) being a person required to be registered under this Act carries on business without having obtained a certificate of registration or continues to carry on business after the expiry or cancellation of a certificate of registration;
+(2) The Registrar or any inspector shall, for the purposes of ascertaining whether the provisions of this Act are being complied with, have power at all reasonable times to enter into any premises at which he has reason to believe any person is carrying on business and there to make such examination and inquiry as may be necessary for those purposes.
 
-(b) fails to submit any change of particulars which is required to be submitted to the Registrar under section 12;
+(3) The Registrar and every inspector when exercising any power under this Act shall declare his office and shall produce his authority in writing to any person affected by the exercise of that power.
 
-(c) without lawful excuse fails to comply with any summons or requisition of the Registrar under section 20;
-
-(d) makes any statement or furnishes any information to the Registrar under the provisions of this Act which is false in any material particular or by reason of the omission of any material particular and which he either knows or has reason to believe is false;
-
-(e) being a person registered under this Act carries on business without exhibiting a valid certificate of registration or a certified copy thereof in a conspicuous place at the principal place of business of the person referred to in the certificate and at every place where that person carries on business; or
-
-(f) fails to comply with any of the regulations made under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) Any person who fails to comply with a request made by or resists or obstructs the Registrar or an inspector in the performance of his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [40/99]
+
+(5) It shall not be an offence for any person to refuse to comply with any request made by the Registrar or an inspector, or to resist or obstruct the Registrar or an inspector in the performance of any of his duties under this Act, if the Registrar or inspector fails to declare his office and to produce his authority in writing.
+
+[19

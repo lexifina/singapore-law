@@ -1,6 +1,8 @@
 # FIRST SCHEDULE
 
-Section 2 (1)
+Sections 2 (1) and 4 (1)
+
+EXCLUDED BUSINESSES
 
 1. Any business of a licensed hawker, whether itinerant or otherwise, who sells or exposes for sale any food, drink, goods, wares or merchandise of any kind, or who offers for hire his skill in handicraft or craftsmanship.
 
@@ -11,6 +13,8 @@ Section 2 (1)
 (b) does not display the products of his craftsmanship for sale in public; and
 
 (c) does not employ any person other than members of his immediate family for the purpose of his business.
+
+FIRST SCHEDULE — continued
 
 3. Any business of —
 

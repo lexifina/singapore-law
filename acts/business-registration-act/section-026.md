@@ -1,6 +1,16 @@
-# 26. Destruction of old records
+# 26. Restriction on undischarged bankrupt being manager
 Part: PART III MISCELLANEOUS
 
-The Registrar may destroy or give to the National Archives of Singapore any document lodged, filed or registered with the Registrar and which has been microfilmed or converted to electronic form if in his opinion it is no longer necessary or desirable to retain the document.
+(1) Any person who, being an undischarged bankrupt (whether he was adjudicated bankrupt by a Singapore court or a foreign court having jurisdiction in bankruptcy), directly or indirectly, takes part in or is concerned in the management of any business carried on by any person required to be registered under this Act, without the leave of the High Court or the written permission of the Official Assignee, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[40/99]
+[37/99; 9/2003]
+
+(2) On an application by an undischarged bankrupt under subsection (1) to the High Court or the Official Assignee, as the case may be, the High Court or the Official Assignee may refuse the application or approve the application subject to such condition as the High Court or the Official Assignee, as the case may be, may impose.
+
+[37/99]
+
+(3) The leave of the High Court for the purpose of this section shall not be given unless notice of intention to apply therefor has been served on the Official Assignee and the Official Assignee is heard on the application.
+
+[22
+
+[37/99]

@@ -7,7 +7,7 @@ Part: PART I PRELIMINARY
 
 (b) any statutory authority or other body established under any written law;
 
-(c) any institution, society or person specified in the First Schedule to the Income Tax Act (Cap. 134);
+(c) any institution, authority, person or fund specified in the First Schedule to the Income Tax Act (Cap. 134);
 
 (d) any society registered under the Societies Act (Cap. 311);
 
@@ -17,7 +17,7 @@ Part: PART I PRELIMINARY
 
 (g) any person carrying on any business consisting solely of the exercise of any profession which under the provisions of any written law can be exercised only by those who possess certain qualifications prescribed by the written law and whose names are registered or otherwise recorded in the manner prescribed by any written law;
 
-(h) any charitable institution which is exempt from tax under section 13 (1) (g) of the Income Tax Act (Cap. 134);
+(h) any charitable institution which is exempt from tax under section 13 (1) (e) of the Income Tax Act;
 
 (i) the Public Trustee or the Official Assignee of the property of a bankrupt;
 
@@ -27,6 +27,6 @@ Part: PART I PRELIMINARY
 
 [40/99]
 
-(2) This Act shall not apply to any company registered under the Companies Act or any previous legislation carrying on business under its corporate name.
+(2) This Act shall not apply to any company registered under the Companies Act (Cap. 50) or any previous legislation carrying on business under its corporate name.
 
 [40/99]

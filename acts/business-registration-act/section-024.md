@@ -1,10 +1,12 @@
-# 24. Composition of offences
+# 24. Power of Registrar to obtain further information
 Part: PART III MISCELLANEOUS
 
-(1) The Registrar may, in his discretion, compound any such offence under this Act as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+(1) In order to obtain such information as the Registrar may consider necessary for the purposes of carrying out the provisions of this Act regarding any person the particulars of whom and of his business are required to be registered under this Act, the Registrar may —
 
-[40/99]
+(a) require any person responsible for the management of his business to answer any question in writing which the Registrar may consider necessary to ask for the purposes specified in this subsection; or
 
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+(b) summon that person to appear before him or an inspector or any other public officer whom the Registrar may designate to answer any such question orally.
 
-(3) The Minister may make regulations to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
+(2) The Registrar may further require the person referred to in subsection (1) to make such further declaration or supply such further particulars as the Registrar may require.
+
+[20
