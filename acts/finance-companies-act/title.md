@@ -1,0 +1,32 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+FINANCE COMPANIES ACT
+(CHAPTER 108)
+Act
+43 of 1967
+Amended by
+21 of 1969
+1970 Ed. Cap. 191
+Amended by
+33 of 1984
+1985 Ed. Cap. 108
+Amended by
+27 of 1994
+9 of 1995
+1995 Ed. Cap. 108
+Amended by
+37 of 1998
+25 of 1999
+REVISED EDITION 2000
+(30th December 2000)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2000
+
+
+
+An Act to license and control finance companies and for matters connected therewith.
+
+[10th January 1968]
