@@ -1,12 +1,44 @@
-# 38. Meetings of Council
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 38. Removal from Register of Public Accounting Corporations
+Part: PART V DISCIPLINARY PROCEEDINGS
 
-(1) The Council shall meet at such time and place and as often as may be necessary.
+(1) There shall be removed from the Register of Public Accounting Corporations the name and other particulars of any accounting corporation —
 
-(2) Nine members present at any meeting of the Council shall constitute a quorum for the transaction of any business.
+(a) which has been wound up;
 
-(3) A decision of the majority of the members of the Council present and voting at any meeting of the Council shall be a decision of the Council.
+(b) the approval for which has been revoked under section 35; or
 
-(4) The chairman or the person lawfully acting as chairman at any meeting of the Council shall have an original as well as a casting vote.
+(c) which has applied for its approval as an accounting corporation to be cancelled.
 
-(5) The Council may regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+[37/2000]
+
+(2) The Board shall not grant an application by an accounting corporation to cancel its approval under subsection (1) (c) if the Board is satisfied that —
+
+(a) disciplinary action is pending against the accounting corporation; or
+
+(b) the conduct of business of the accounting corporation is the subject of an inquiry or investigation by an Inquiry Committee.
+
+[37/2000]
+
+(3) Notwithstanding any provision in this Part, the Board may also revoke its approval of an accounting corporation and order the removal of its name and particulars from the Register of Public Accounting Corporations if the Board is satisfied that the accounting corporation —
+
+(a) has obtained approval as an accounting corporation under Part IV by fraud or misrepresentation;
+
+(b) has made any arrangement with his creditors;
+
+(c) has ceased to provide public accountancy services in Singapore;
+
+(d) is no longer in a position to provide public accountancy services effectively; or
+
+(e) has failed to comply with an order of the Board referred to in section 35 (2) (d).
+
+[37/2000]
+
+(4) The Board shall, before exercising its powers under subsection (3), notify the accounting corporation concerned of its intention to take such action and shall give the accounting corporation an opportunity to submit reasons, within such period as the Board may determine, why its approval should not be revoked.
+
+[37/2000]
+
+(5) Any accounting corporation who is aggrieved by an order under subsection (3), may within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
+
+[23A
+
+[37/2000]

@@ -3,7 +3,9 @@ Part: PART III REGISTRATION OF PUBLIC ACCOUNTANTS
 
 (1) No person shall be registered as a public accountant by the Board if he is below the age of 21 years or if in the opinion of the Board he is not of good character or reputation or is engaged in any business or occupation inconsistent with the integrity of a public accountant.
 
-(2) A body corporate shall not be eligible for registration.
+(2) A body corporate shall not be eligible for registration under this Part.
+
+[37/2000]
 
 (3) Subject to subsections (1) and (2), every person shall be entitled, on payment of such registration fee as may be prescribed by the Board, to be registered as a public accountant under this Part if he —
 

@@ -1,30 +1,24 @@
-# 26. Members of Institute
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 26. Requirements as to alteration of memorandum or articles of association
+Part: PART IV ACCOUNTING CORPORATIONS
 
-(1) Any person who desires to be a member of the Institute shall make an application to the Institute in such form or manner as the Institute may require.
+(1) The memorandum and articles of association of an accounting corporation shall at all times comply with all the requirements specified in section 19 (3) (a) and (c) or section 19 (3) (a) and (4), whichever is applicable, and any rules made under section 74 relating thereto.
 
-(2) Every person who, immediately before 11th February 1989, was registered with the Society as a public accountant, registered accountant, licensed accountant or provisional member shall be deemed to be a member of the Institute under the corresponding provisions of this Act.
+[37/2000]
 
-(3) Any person aggrieved by the refusal of the Institute to register him as a member may, within 30 days of the receipt of the notice in writing of such refusal, appeal to the Minister whose decision shall be final.
+(2) An accounting corporation shall, within 30 days of the occurrence of —
 
-(4) The members of the Institute shall be classified as —
+(a) any amendment to its memorandum or articles of association;
 
-(a) practising members;
+(b) any change in the composition of its board of directors who are public accountants;
 
-(b) non-practising members;
+(c) any change in the proportion of its voting shares owned by corporate practitioners; or
 
-(c) honorary members; and
+(d) any change in the number of its corporate practitioners, furnish the Board with a true report in writing giving full particulars of the amendment or change.
 
-(d) provisional members.
+[37/2000]
 
-(5) Practising members of the Institute shall consist of —
+(3) In addition to the requirements in subsection (2), every accounting corporation shall in every year, not later than a date specified by the Board, send to the Registrar an annual report relating to the accounting corporation in the prescribed form.
 
-(a) members who are public accountants; and
+[18H
 
-(b) members who, in any place outside Singapore, are accountants in public practice.
-
-(6) Non-practising members of the Institute shall consist of members who are registered in accordance with the rules of the Institute as non-practising members.
-
-(7) Honorary members of the Institute shall consist of members who are registered in accordance with the rules of the Institute as honorary members.
-
-(8) Provisional members of the Institute shall consist of members who are registered in accordance with the rules of the Institute as provisional members.
+[37/2000]

@@ -1,12 +1,12 @@
-# 57. Composition of offences
-Part: PART VI GENERAL
+# 57. General meetings of Institute
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-(1) The Board or any person authorised in writing in that behalf by the Board may, in its or his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+(1) A general meeting, other than the annual general meeting, shall be known as an extraordinary general meeting.
 
-[48/98]
+(2) The Council —
 
-(2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+(a) shall convene an extraordinary general meeting upon a requisition in writing made by not less than 50 members of the Institute entitled to vote within 3 months from the date of such requisition; and
 
-[56A
+(b) may convene an extraordinary general meeting on such other occasions as it thinks fit.
 
-[48/98]
+[42

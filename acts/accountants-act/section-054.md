@@ -1,8 +1,10 @@
-# 54. Holding out as certified public accountant
-Part: PART VI GENERAL
+# 54. Expenses of members of Council
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-Any person who, not being a member of the Institute —
+(1) No fee shall be paid to any member of the Council in the performance of his duties as such a member.
 
-(a) describes himself as a certified public accountant; or
+[37/2000]
 
-(b) uses in connection with his name, or with the name under which he carries on business, the initials ‘‘CPA’’, or an abbreviation of the words ‘‘certified public accountant’’, or any combination of such initials or abbreviations, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months and, in the case of a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(2) A member may be reimbursed from the funds of the Institute for out-of-pocket and travelling expenses incurred by him in relation to the affairs of the Institute.
+
+[39

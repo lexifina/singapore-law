@@ -1,34 +1,20 @@
-# 29. Council
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 29. Management of accounting corporation
+Part: PART IV ACCOUNTING CORPORATIONS
 
-(1) The Institute shall have a Council which shall consist of —
+(1) Only members of an accounting corporation may be appointed as directors of the accounting corporation.
 
-(a) 8 practising members of the Institute to be elected by the practising members of the Institute;
+[37/2000]
 
-(b) 8 non-practising members of the Institute to be elected by the non-practising members of the Institute; and
+(2) The business of an accounting corporation, so far as it relates to the provision of public accountancy services, shall be under the control and management of one or more directors who are public accountants.
 
-(c) 3 members nominated by the Government all of whom shall be appointed by the Minister.
+[37/2000]
 
-(2) The Council may, from time to time, in its discretion appoint any member of the Institute to be a co-opted member of the Council except that there shall not be more than 2 co-opted members in office at any one time.
+(3) Where, for any reason, the office of director required to be held by a public accountant under section 19 (3) (c) (i) or (4), as the case may be, is vacated, the accounting corporation shall, as soon as practicable but no later than one month after the date of vacation of office, appoint another public accountant to fill the vacancy.
 
-(3) A practising member —
+[37/2000]
 
-(a) who has been suspended from practice as a public accountant for a period of 6 months or more;
+(4) The directors of an accounting corporation shall ensure that every invoice or official correspondence of the accounting corporation bears the statement that it is incorporated with limited liability.
 
-(b) whose registration has been cancelled under section 21; or
+[18K
 
-(c) who has been convicted of an offence involving fraud or dishonesty, shall not be eligible for election or appointment as a member of the Council.
-
-(4) A non-practising member who ceases to be a member of the Institute or has been convicted of an offence involving fraud or dishonesty shall not be eligible for election or appointment as a member of the Council.
-
-(5) The President, the Vice-President and the Treasurer of the Institute shall be elected by the Council from among its members.
-
-(6) In the event of any casual vacancy arising in respect of the office of the President, Vice-President or Treasurer of the Institute, the Council shall at its next meeting or as soon as possible thereafter elect one of its members to fill the vacancy.
-
-(7) The President of the Institute shall be the chairman of the Council and shall preside at all its meetings.
-
-(8) In the absence of the President of the Institute at any meeting of the Council, the Vice-President of the Institute shall preside and in the absence of the President and the Vice-President of the Institute at any such meeting the members present shall elect one of their number to preside.
-
-(9) A practising member or non-practising member shall before his appointment or election as a member of the Council file a declaration with the Institute stating that he is not disqualified from holding office as a member of the Council by virtue of subsection (3) or (4).
-
-(10) Any person who fails to comply with subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+[37/2000]

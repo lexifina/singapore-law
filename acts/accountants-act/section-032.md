@@ -1,32 +1,46 @@
-# 32. Vacation of office of member
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 32. Applications and complaints
+Part: PART V DISCIPLINARY PROCEEDINGS
 
-If a member of the Council —
+(1) Any application by any person that a public accountant or an accounting corporation be dealt with under this Part, and any complaint about the conduct of any public accountant or the conduct of business by any accounting corporation shall be made to the Board which shall, subject to section 31 (2) and if satisfied that the application or complaint discloses a prima facie case for an inquiry into the matter, without delay appoint an Inquiry Committee to inquire into the application or complaint.
 
-(a) dies;
+[37/2000]
 
-(b) resigns his seat on the Council;
+(2) Subject to section 31 (2), the Board may, of its own motion, appoint an Inquiry Committee to inquire into any information that touches on the conduct of any public accountant or the conduct of business by any accounting corporation if the Board is satisfied that the information discloses a prima facie case for an inquiry into the matter.
 
-(c) fails to attend 3 consecutive meetings of the Council without leave of the Council;
+[37/2000]
 
-(d) becomes insolvent or enters into a composition with any creditor or is adjudged a bankrupt;
+(3) Every application or complaint shall be in writing and shall be supported by such statutory declarations as the Board may require.
 
-(e) becomes of unsound mind;
+(4) The Board may require any person making any application or complaint against a public accountant or an accounting corporation under this section to deposit with the Board a reasonable sum not exceeding $1,000 to cover any costs and expenses as may necessarily be incurred by the Board in dealing with the application or complaint.
 
-(f) is in arrears for not less than 6 months of any fees prescribed by the Council;
+[48/98; 37/2000]
 
-(g) ceases to be a practising member, if he was elected or appointed as a member of the Council from among members of the Institute who are practising members;
+(5) Where the application or complaint is found to be frivolous or vexatious or is dismissed under subsection (8), the sum so deposited or such part thereof as the Board may determine shall be applied for the payment of those costs and expenses; otherwise the sum so deposited shall be returned to the person making the application or complaint.
 
-(h) ceases to be a non-practising member, if he was elected or appointed as a member of the Council from among members of the Institute who are non-practising members;
+[48/98]
 
-(i) has his appointment under section 29 (1) (c) revoked;
+(6) Where the applicant or complainant withdraws his application or complaint to the Board before the Board has referred the application or complaint to an Inquiry Committee or before the conclusion of an inquiry by an Inquiry Committee, the Board may, notwithstanding such withdrawal, refer the original application or complaint to an Inquiry Committee or (as the case may be) direct an Inquiry Committee to continue with its inquiry, and all future proceedings by the Inquiry Committee in accordance with those directions shall be taken as if the application or complaint had been made by the Registrar.
 
-(j) has been suspended from practice as a public accountant for a period of 6 months or more or whose registration has been cancelled under section 21;
+[37/2000]
 
-(k) ceases to be a member of the Institute;
+(7) In order that the Board may satisfy itself whether any application, complaint or information referred to in subsection (1) or (2) discloses a prima facie case for an inquiry into the matter, the Board or the Registrar may require —
 
-(l) after due inquiry is found by the Council to have been guilty of professional misconduct;
+(a) the person making the application or complaint; and
 
-(m) has been convicted of an offence involving fraud or dishonesty; or
+(b) the public accountant or accounting corporation against whom the application or complaint is made or in respect of whom the information relates, to furnish such information or to produce such document as the Board or the Registrar may require.
 
-(n) is removed from his office before the expiration of his period of office by the members of the Institute in accordance with this Act or any rules made thereunder, his seat shall become vacant, and the vacancy thereby created shall be deemed to be a casual vacancy.
+[48/98; 37/2000]
+
+(8) If any person making an application or complaint against a public accountant or an accounting corporation refuses or fails, without lawful excuse, to furnish any information or to produce any document as may be required by the Board or the Registrar under subsection (7), the Board may dismiss the application or complaint.
+
+[48/98; 37/2000]
+
+(9) If any public accountant or an accounting corporation against whom an application or complaint is made refuses or fails, without lawful excuse, to furnish any information or to produce any document as may be required by the Board or the Registrar under subsection (7), he or (as the case may be) it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[48/98; 37/2000]
+
+(10) In any proceedings under this Part against any public accountant or accounting corporation consequent upon his or its conviction for a criminal offence, the Inquiry Committee, the Board and the High Court on appeal from any order of the Board shall accept the conviction as final and conclusive.
+
+[20
+
+[37/2000]

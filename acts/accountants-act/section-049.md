@@ -1,4 +1,8 @@
-# 49. No remuneration recoverable in respect of appointment as public accountant except by public accountant
-Part: PART VI GENERAL
+# 49. Council may act notwithstanding vacancies
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-No person shall be entitled to recover any expenses or remuneration for or in respect of any appointment as a public accountant unless he has been registered as a public accountant under this Act.
+(1) The Council may act notwithstanding any vacancy in its membership.
+
+(2) If and so long as its number of members is reduced below the number fixed by section 53 (2) as the necessary quorum, the Council may act for the purpose of increasing the number of members to that number or of holding a general meeting.
+
+[34

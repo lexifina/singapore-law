@@ -1,36 +1,36 @@
-# 47. Council may make rules
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 47. Vacation of office of member
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-(1) Subject to subsection (2), the Council may make such rules as may be necessary or expedient for giving effect to this Part and, in particular, may make rules for any of the following matters:
+If a member of the Council —
 
-(a) the admission of members to the Institute and the manner in which they shall cease to be members thereof;
+(a) dies;
 
-(b) the election, resignation and removal of members of the Council;
+(b) resigns his seat on the Council;
 
-(c) the election, appointment, resignation and removal of the President, the Vice-President and the Treasurer of the Institute;
+(c) fails to attend 3 consecutive meetings of the Council without leave of the Council;
 
-(d) the qualifications of persons for admission as members of the Institute;
+(d) becomes insolvent or enters into a composition with any creditor or is adjudged a bankrupt;
 
-(e) the classification from time to time of the members of the Institute;
+(e) becomes of unsound mind;
 
-(f) the manner of voting at any meeting of the Council or of the members of the Institute and at any meeting held by the Institute;
+(f) is in arrears for not less than 6 months of any fees prescribed by the Council;
 
-(g) the regulation of the professional conduct and ethics of members of the Institute;
+(g) ceases to be a practising member, if he was elected or appointed as a member of the Council from among members of the Institute who are practising members;
 
-(h) the fees payable by members of the Institute;
+(h) ceases to be a non-practising member, if he was elected or appointed as a member of the Council from among members of the Institute who are non-practising members;
 
-(i) the holding of meetings of the Council and of the members of the Institute;
+(i) has his appointment under section 44 (1) (c) revoked;
 
-(j) the training, education or examination of candidates in subjects relating to accountancy and the fees payable therefor;
+(j) is imposed with any order of the Board referred to in section 34 (2);
 
-(k) the use and custody of the common seal of the Institute;
+(k) ceases to be a member of the Institute;
 
-(l) the custody, investment and expenditure of the funds and property of the Institute;
+(l) is disciplined by the Council or any committee appointed by the Council;
 
-(m) the regulation and administration of the Institute in all matters within its powers; and
+(m) has been convicted of an offence involving fraud or dishonesty; or
 
-(n) the discipline of members of the Institute.
+(n) is removed from his office before the expiration of his period of office by the members of the Institute in accordance with this Act, his seat shall become vacant, and the vacancy thereby created shall be deemed to be a casual vacancy.
 
-(2) The Council shall not make rules for the matters prescribed in subsection (1) (a), (b), (c), (d), (e), (f) and (g) without the approval of the Minister.
+[32
 
-(3) All such rules shall be published in the Gazette.
+[37/2000]

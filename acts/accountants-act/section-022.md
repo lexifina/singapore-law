@@ -1,6 +1,16 @@
-# 22. Appeal against suspension or cancellation of registration
-Part: PART IV DISCIPLINARY PROCEEDINGS
+# 22. Register of Public Accounting Corporations
+Part: PART IV ACCOUNTING CORPORATIONS
 
-Any person who is aggrieved by any order of suspension or cancellation or any imposition of penalty made by the Board under section 21 may, within a period of 30 days or within such further period as may be allowed by the Board on the application of the person in any particular case, after the service on him of the notice of the order, appeal to the High Court whose decision shall be final.
+(1) The Board shall —
 
-[48/98]
+(a) keep and maintain, in such form as the Board may determine, a register to be called the Register of Public Accounting Corporations containing the names and particulars of all accounting corporations approved under section 19; and
+
+(b) allow any person to inspect the Register of Public Accounting Corporations in such manner and on such terms as the Board thinks fit.
+
+[37/2000]
+
+(2) The Registrar shall, under the general direction of the Board, enter all approvals and revocation of approvals of companies as accounting corporations in the Register of Public Accounting Corporations.
+
+[18D
+
+[37/2000]

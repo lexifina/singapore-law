@@ -1,8 +1,10 @@
-# 45. Chairman of general meetings of Institute
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 45. Tenure of office of members of Council
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-(1) The President of the Institute shall preside as chairman at every general meeting.
+(1) Every member of the Council except a member appointed under section 44 (1) (c) shall hold office for a term of 2 years, commencing from the date of his election under section 44 (1) (a) or (b) or appointment under section 44 (2) or 46 but may continue in office until the election or appointment of his successor in office.
 
-(2) In the absence of the President of the Institute at any general meeting, the Vice-President of the Institute shall preside.
+(2) Every member of the Council appointed under section 44 (1) (c) shall hold office for a term of 3 years.
 
-(3) In the absence of the President and the Vice-President of the Institute at any such meeting the chairman shall be elected from among themselves by those members of the Institute present at the meeting.
+(3) Every member of the Council shall be eligible for re-election or reappointment.
+
+[30

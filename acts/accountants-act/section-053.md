@@ -1,16 +1,14 @@
-# 53. Fraudulent practices in relation to registration
-Part: PART VI GENERAL
+# 53. Meetings of Council
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-Any person who —
+(1) The Council shall meet at such time and place and as often as may be necessary.
 
-(a) procures or attempts to procure registration or a certificate of registration as a public accountant under this Act or registration as a member of the Institute by knowingly making or producing or causing to be made any false or fraudulent declaration, certificate, application or represen- tation, whether in writing or otherwise;
+(2) Nine members present at any meeting of the Council shall constitute a quorum for the transaction of any business.
 
-(b) wilfully makes or causes to be made any falsification in the Register of Public Accountants or any register of membership maintained by the Institute;
+(3) A decision of the majority of the members of the Council present and voting at any meeting of the Council shall be a decision of the Council.
 
-(c) forges, alters or counterfeits any certificate of registration as a public accountant issued under this Act;
+(4) The chairman or the person lawfully acting as chairman at any meeting of the Council shall have an original as well as a casting vote.
 
-(d) uses any forged, altered or counterfeited certificate of registration as a public accountant under this Act knowing the certificate to have been forged, altered or counterfeited;
+(5) The Council may regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
-or
-
-(e) personates a public accountant or buys, sells or fraudulently obtains a certificate of registration as a public accountant issued under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+[38

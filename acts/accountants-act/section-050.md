@@ -1,10 +1,10 @@
-# 50. Saving
-Part: PART VI GENERAL
+# 50. General powers of Council
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-Section 49 shall not apply to —
+(1) The management and control of the affairs of the Institute and of its funds shall be vested in the Council.
 
-(a) the Auditor-General or any public officer authorised by him;
+(2) All such powers, acts or things as may be exercised or done by the Institute which are not by this Act expressly directed or required to be exercised or done by the Institute in general meeting may, subject to the provisions of this Act and any resolutions passed from time to time by the Institute in general meeting, be exercised or done by the Council.
 
-or
+(3) Notwithstanding subsection (2), no resolution of the Institute shall invalidate the exercise of any power or the doing of any act or thing by the Council previously which would have been valid if the resolution had not been passed.
 
-(b) any public officer or any officer of any statutory authority authorised by the Minister in the exercise of their powers or in the performance of their official duties.
+[35

@@ -1,16 +1,14 @@
-# 59. Continuation and completion of disciplinary proceedings against public accountants
-Part: PART VII SAVINGS AND TRANSITIONAL PROVISIONS
+# 59. Quorum at general meetings of Institute
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-(1) Where on 11th February 1989 —
+(1) The quorum at any general meeting of the Institute shall be 100 members of the Institute entitled to vote.
 
-(a) any disciplinary proceedings were pending against any public accountant, the proceedings shall be carried on and completed by the Board under this Act;
+(2) If within half an hour after the time appointed for a general meeting a quorum is not present, the meeting shall —
 
-(b) any matter in respect of a public accountant was in the course of being investigated by the Investigation Committee, the Investigation Committee shall continue to exist to complete the hearing and to refer, when it thinks fit, such matter to the Disciplinary Committee; and
+(a) if convened by the Council on the requisition of members of the Institute under section 57 (2) (a), be dissolved; or
 
-(c) any matter in respect of a public accountant was in the course of being referred to the Disciplinary Committee, the Investigation Committee shall continue to exist to refer the matter to the Disciplinary Committee.
+(b) if convened by the Council other than on the requisition of members of the Institute under section 57 (2) (a), stand adjourned to the same day, 14 days thereafter at such place and time as the Council may determine.
 
-(2) The Disciplinary Committee shall continue to exist for the purpose of dealing with any matter referred to it under subsection
+(3) If at the adjourned meeting referred to in subsection (2) (b) a quorum is not present within half an hour after the time appointed for the meeting, those members of the Institute who are present shall constitute a quorum.
 
-(1) (b) or (c) and may, notwithstanding the repeal of the Accountants Act, make such order, ruling or direction as it could have made under the power conferred upon it by the repealed Accountants Act (Cap. 2, 1985 Ed.).
-
-(3) Any order, ruling or direction made or given by the Disciplinary Committee under subsection (2) shall be treated as an order, ruling or direction under this Act and shall have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
+[44

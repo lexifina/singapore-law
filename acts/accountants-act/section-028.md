@@ -1,16 +1,18 @@
-# 28. General powers of Institute
-Part: PART V INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 28. Professional indemnity insurance
+Part: PART IV ACCOUNTING CORPORATIONS
 
-For the purposes of carrying out of its functions under this Act, the Institute may —
+(1) Every accounting corporation registered under this Act shall be covered by professional indemnity insurance of not less than one of the following amounts, whichever is the highest:
 
-(a) take up and subscribe for or otherwise acquire shares in any company, if membership of the company is essential or advantageous to the Institute in connection with the acquiring and holding of any lease or tenancy from the company of land required for any of its purposes;
+(a) $1 million;
 
-(b) borrow money whether by way of bank overdraft or otherwise for any of its purposes;
+(b) a sum equal to the total of $500,000 for every corporate practitioner in the accounting corporation; or
 
-(c) guarantee any contract of any company from which the Institute holds or intends to hold any lease or tenancy in accordance with paragraph (a) and any other contract in which the Institute may have a financial interest and to which it may lawfully be a party in accordance with this section;
+(c) where applicable, a sum equal to two and a half times the gross income of the accounting corporation in the last completed financial year of the accounting corporation subject to a maximum sum of $50 million.
 
-(d) issue diplomas or certificates to members of the Institute;
+[37/2000]
 
-and
+(2) The Board may, by rules under section 74, vary the amount of coverage under a professional indemnity insurance required by subsection (1).
 
-(e) generally do all things which are necessary for carrying out the functions of the Institute.
+[18J
+
+[37/2000]

@@ -1,8 +1,10 @@
-# 52. Acts by body corporate or firm implying public accountancy qualification
-Part: PART VI GENERAL
+# 52. Institute may accept gifts
+Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
 
-(1) Any act done by a body corporate or by any director, officer or employee thereof of such a nature or in such a manner as to be calculated to imply that the body corporate is a public accountant shall be an offence under this Act and the body corporate shall be liable on conviction to a fine not exceeding $5,000.
+(1) The Institute may accept, by way of grant, gift, testamentary disposition or otherwise, property or moneys in aid of the finances of the Institute on such conditions as it may determine.
 
-(2) Where any act mentioned in subsection (1) is done by a director, officer or employee of a body corporate that director, officer or employee shall also be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(2) Registers shall be kept of all donations to the Institute including the names of donors and any special conditions on which any donation may have been given.
 
-(3) Where any firm does any act which in the case of a person would be an offence under any provision of this Act, every member of the firm shall be deemed to have committed the offence unless he proves that he was unaware of the commission of the act.
+(3) All property, moneys or funds donated to the Institute for any specific purpose shall be applied and administered in accordance with the purpose for which they may have been donated and shall be separately accounted for.
+
+[37

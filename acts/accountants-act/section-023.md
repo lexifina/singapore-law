@@ -1,40 +1,20 @@
-# 23. Removal from Register of Public Accountants
-Part: PART IV DISCIPLINARY PROCEEDINGS
+# 23. Effect of company becoming accounting corporation
+Part: PART IV ACCOUNTING CORPORATIONS
 
-(1) There shall be removed from the Register of Public Accountants the name and other particulars of any registered public accountant —
+(1) An accounting corporation is authorised to do anything that a public accountant can do by law and is required to do all that a public accountant is required to do by law.
 
-(a) who has died;
+[37/2000]
 
-(b) who has failed to renew his certificate of registration as a public accountant within one month of the date of the expiry thereof;
+(2) Subsection (1) shall not apply to the doing of anything that can only be done by a public accountant as a natural person.
 
-(c) whose registration has been cancelled under section 21;
+[37/2000]
 
-(d) who has failed to comply with section 18;
+(3) A public accountant who provides public accountancy services as a director or an employee of an accounting corporation shall be subject to the same standards of professional conduct and competence in respect of such services as if he were personally providing the public accountancy services as a public accountant in an accounting firm.
 
-(e) whose application under section 18 has been refused by the Institute;
+[37/2000]
 
-(f) who has ceased to be registered as a member of the Institute;
+(4) The mere fact that a public accountant personally provides public accountancy services as a director or an employee of an accounting corporation shall not affect the personal liability of that public accountant at law.
 
-(g) who has been adjudged a bankrupt;
+[18E
 
-(h) who has become of unsound mind; or
-
-(i) who has applied for his registration to be cancelled.
-
-[48/98]
-
-(2) Notwithstanding subsection (1) (d), the Board may, in its discretion, allow any person who has failed to comply with section 18 to remain registered in the Register of Public Accountants or, where the name of such person has been removed from the Register under that subsection, to be reinstated if it is shown to the satisfaction of the Board that —
-
-(a) the person was prevented from lodging the application in due time owing to absence from Singapore, sickness or other reasonable cause; and
-
-(b) there has been no unreasonable delay on the part of the person.
-
-(3) The Board shall not grant an application under subsection
-
-(1) (i) if the Board is satisfied that —
-
-(a) disciplinary action is pending against the applicant; or
-
-(b) the conduct of the applicant is the subject of an inquiry or investigation by an Inquiry Committee.
-
-[48/98]
+[37/2000]
