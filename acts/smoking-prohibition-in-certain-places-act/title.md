@@ -1,0 +1,25 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+SMOKING (PROHIBITION IN CERTAIN PLACES) ACT
+(CHAPTER 310)
+Act
+6 of 1992
+1993 Ed. Cap. 310
+Amended by
+13 of 1994
+1998 Ed. Cap. 310
+Amended by
+4 of 2002
+REVISED EDITION 2002
+(31st December 2002)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2002
+
+
+
+An Act to prohibit smoking in specified places and vehicles, and to provide for matters connected therewith.
+
+[6th April 1992]
