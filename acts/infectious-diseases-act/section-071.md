@@ -1,6 +1,6 @@
-# 71. Other written law not affected
-Part: PART VI MISCELLANEOUS
+# 71. Exemption
+Part: PART VIII MISCELLANEOUS
 
-Except so far as may be expressly provided in this Act, nothing in this Act shall be construed so as to limit or affect in any way the provisions of any other written law.
+The appropriate Minister may, subject to such conditions and for such period or periods as he thinks fit, exempt any person, premises, vessel, vehicle or article or any class of persons, premises, vessels, vehicles or articles from any of the provisions of this Act.
 
-[68
+[70

@@ -1,8 +1,8 @@
-# 36. Pratique
-Part: PART IV PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
+# 36. Discharge of waste or matter
+Part: PART V PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
-(1) A ship not granted pratique shall remain in the quarantine anchorage while in the waters of Singapore or may continue its voyage to other ports.
+The discharge of human dejecta, solid or liquid waste or any matter, which the Director-General or a Port Health Officer considers to be contaminated, from any vessel shall be subject to such measures as the Director-General or the Port Health Officer may impose.
 
-(2) The master or agent of any ship which has not been granted pratique who suffers or permits the ship to be anchored or berthed in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[37
 
-[31
+[4/2002]

@@ -1,5 +1,5 @@
 # 31. Vaccination
-Part: PART IV PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
+Part: PART V PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 (1) Every person on an international voyage whether leaving or arriving in Singapore shall —
 
@@ -12,5 +12,3 @@ Part: PART IV PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 (3) The Port Health Officer may, in his discretion, return any person, not being a citizen of Singapore, who refuses or fails to comply with subsection (2), to his place of origin or embarkation at the expense of the owner or agent of the vessel by which he arrived in Singapore.
 
 (4) The owner, master or agent of any vessel shall ensure compliance with subsection (1) in respect of any person on board his vessel.
-
-[26

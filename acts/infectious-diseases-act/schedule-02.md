@@ -6,6 +6,8 @@ DANGEROUS INFECTIOUS DISEASES
 
 (1) Plague.
 
-(2) Yellow Fever.
+(2) Severe Acute Respiratory Syndrome (SARS).
 
-[S 119/90]
+(3) Yellow Fever.
+
+[S 119/90; S 127/2003]

@@ -1,20 +1,8 @@
-# 35. Unauthorised boarding or disembarking from infected vessel
-Part: PART IV PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
+# 35. Pratique
+Part: PART V PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
-(1) The master of any infected vessel shall while it is subject to quarantine —
+(1) A ship not granted pratique shall remain in the quarantine anchorage while in the waters of Singapore or may continue its voyage to other ports.
 
-(a) prevent and, if necessary, detain any person disembarking from the vessel without being authorised by a Port Health Officer;
+(2) The master or agent of any ship which has not been granted pratique who suffers or permits the ship to be anchored or berthed in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(b) detain any person from Singapore who without the permission of a Port Health Officer boards the vessel;
-
-(c) deliver any person detained to a Port Health Officer;
-
-(d) prevent any baggage or cargo from being discharged from the vessel; and
-
-(e) prevent any rodent from leaving or entering the vessel.
-
-(2) A master who fails to comply with any of the provisions of subsection (1) and any person aiding or abetting a master shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-(3) For the purposes of section 34 and this section, ‘‘infected’’ means infected with a dangerous infectious disease.
-
-[30
+[36

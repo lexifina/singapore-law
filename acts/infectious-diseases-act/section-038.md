@@ -1,16 +1,10 @@
-# 38. Vessels within the waters of Singapore
-Part: PART IV PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
+# 38. Person supplying food and water
+Part: PART V PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
-(1) The master, owner or agent of any vessel whilst in Singapore shall —
+(1) The master, owner or agent of every vessel and any person supplying food and water to the vessel shall ensure that the food and water supplied to the vessel is fit for human consumption.
 
-(a) take such precautions as may be directed by a Port Health Officer to prevent rodents from leaving or entering the vessel, and take such measures for the destruction of rodents on board the vessel;
+(2) The master, owner or any person in charge of any vessel or vehicle employed for carrying food or water intended for human consumption shall ensure that his vessel or vehicle and the food and water receptacles therein are in a clean and sanitary condition.
 
-(b) take all measures directed by a Port Health Officer to abate any nuisance that may be present on board the vessel within such time as may be specified by the Port Health Officer;
+(3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-and
-
-(c) take such measures to clean, disinfect, whitewash or any other measures which a Port Health Officer may direct to improve the condition of the water tanks, living spaces or any other part of the vessel.
-
-(2) Any master, owner or agent who fails to comply with any directions of the Port Health Officer under subsection (1) within the specified time shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $500 for every day during which the offence continues after conviction.
-
-[33
+[39

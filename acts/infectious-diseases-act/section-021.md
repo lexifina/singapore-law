@@ -9,8 +9,4 @@ Part: PART III CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (3) Any person aggrieved by any order of the Director under subsection (2) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
 
-(4) Any person who contravenes any order made under subsection
-
-(1) or (2) shall be guilty of an offence.
-
-[20
+(4) Any person who contravenes any order made under subsection (1) or (2) shall be guilty of an offence.

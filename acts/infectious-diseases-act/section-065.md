@@ -1,8 +1,10 @@
-# 65. General penalty for offences
-Part: PART VI MISCELLANEOUS
+# 65. General penalty
+Part: PART VIII MISCELLANEOUS
 
-Any person who is guilty of an offence under this Act for which no penalty is otherwise prescribed shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent like offence, shall be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+Any person guilty of an offence under this Act for which no penalty is expressly provided shall —
 
-[60
+(a) in the case of a first offence, be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
-[5/92]
+(b) in the case of a second or subsequent offence, be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[7/2003]

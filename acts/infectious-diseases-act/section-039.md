@@ -1,10 +1,20 @@
-# 39. Person supplying food and water
-Part: PART IV PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
+# 39. Powers of Director-General or Port Health Officer regarding food and water
+Part: PART V PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
-(1) The master, owner or agent of every vessel and any person supplying food and water to the vessel shall ensure that the food and water supplied to the vessel is fit for human consumption.
+(1) The Director-General or a Port Health Officer may —
 
-(2) The master, owner or any person in charge of any vessel or vehicle employed for carrying food or water intended for human consumption shall ensure that his vessel or vehicle and the food and water receptacles therein are in a clean and sanitary condition.
+(a) take samples of any food and water intended for human consumption or for sale to a vessel;
 
-(3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(b) order the owner or any person in charge of a vessel supplying food to carry out an analysis of the food and to supply the results of that analysis to the Director-General or the Port Health Officer;
 
-[34
+(c) if he has reason to believe that any food intended for human consumption is liable to be contaminated or is unfit for human consumption, order the food to be destroyed; and
+
+(d) order the owner, master or agent of any vessel to immediately cleanse the water tanks of the vessel to his satisfaction.
+
+[4/2002]
+
+(2) Any person who fails to comply with an order of the Director- General or a Port Health Officer under subsection (1) within the time specified therein shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[40
+
+[4/2002]

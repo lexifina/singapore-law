@@ -9,8 +9,6 @@ Part: PART III CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 [13/99]
 
-(2) For the purposes of this section, ‘‘material information’’ means any information directly relating to the likelihood of transmission of an infectious disease by the use of any blood or blood product.
-
-[10A
+(2) In this section, ‘‘material information’’ means any information directly relating to the likelihood of transmission of an infectious disease by the use of any blood or blood product.
 
 [13/99]

@@ -1,6 +1,6 @@
-# 67. Protection for certain persons
-Part: PART VI MISCELLANEOUS
+# 67. Immunity of Government, Agency, etc.
+Part: PART VIII MISCELLANEOUS
 
-No person shall be personally liable in respect of any act done by him in the execution or purported execution of this Act and within the scope of his employment if he did it in the honest belief that his duty under this Act required or entitled him to do it.
+No suit or other legal proceedings shall lie against the Government, the Agency or any other person for anything which is in good faith done or omitted to be done in the exercise of any power or the performance of any duty or function under this Act.
 
-[62
+[5/2003]

@@ -1,5 +1,5 @@
 # 23. Sexual intercourse by person with AIDS or HIV Infection
-Part: PART IIIA CONTROL OF AIDS AND HIV INFECTION
+Part: PART IV CONTROL OF AIDS AND HIV INFECTION
 
 (1) A person who knows that he has AIDS or HIV Infection shall not have sexual intercourse with another person unless, before the sexual intercourse takes place, the other person —
 
@@ -26,7 +26,5 @@ Part: PART IIIA CONTROL OF AIDS AND HIV INFECTION
 (a) sexual connection occasioned by the introduction into the vagina, anus or mouth of any person of any part of the penis of another person; or
 
 (b) cunnilingus.
-
-[20B
 
 [5/92]
