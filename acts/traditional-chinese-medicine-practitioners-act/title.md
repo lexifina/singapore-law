@@ -1,0 +1,22 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+TRADITIONAL CHINESE MEDICINE
+PRACTITIONERS ACT
+(CHAPTER 333A)
+Act
+34 of 2000
+REVISED EDITION 2001
+(31st December 2001)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2001
+
+
+
+An Act to provide for the registration of traditional Chinese medicine practitioners and for purposes connected therewith.
+
+[7th February 2001 —
+
+except sections 24 and 25]
