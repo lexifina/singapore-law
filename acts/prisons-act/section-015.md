@@ -1,0 +1,8 @@
+# 15. Admissibility of evidence
+Part: PART III COMMITTEE OF INQUIRY
+
+No statement made in the course of any inquiry and no report of a committee of inquiry shall be admissible as evidence in any proceedings other than proceedings, whether criminal or disciplinary, for an offence of giving or fabricating false evidence under any written law.
+
+[7H
+
+[8/2000]
