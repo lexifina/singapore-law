@@ -1,0 +1,4 @@
+# 43. Prima facie evidence of signature
+Part: PART VI MISCELLANEOUS
+
+Whenever the fiat, authorisation or sanction of the President, a Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or any public officer is necessary before any prosecution or action is commenced or for any purpose whatsoever in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, Minister, Attorney- General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be.
