@@ -1,0 +1,72 @@
+# 2. Interpretation
+Part: PART I PRELIMINARY
+
+In this Act, unless the context otherwise requires —
+
+‘‘allied professional’’ means —
+
+(a) an architect who is registered under the Architects Act (Cap. 12); or
+
+(b) a professional engineer who is registered under the Professional Engineers Act (Cap. 253);
+
+‘‘approved assistant surveyor’’ means a person approved to be employed as an assistant surveyor under Part VI;
+
+‘‘assistant surveyor’’ means a person who performs or executes any survey or engages in any survey work under the direction or supervision of a registered surveyor;
+
+‘‘assurance plan’’ means any plan showing approximate boundaries or dimensions and areas for the purpose of identifying land which has not been surveyed to the satisfaction of the Chief Surveyor but is required to be surveyed under the provisions of any written law;
+
+‘‘authorised surveyor’’ means a surveyor who is employed by the Authority, whether or not registered under section 12, and includes any other surveyor registered under section 12 appointed by the Chief Surveyor to be an authorised surveyor;
+
+‘‘Authority’’ means the Singapore Land Authority established under the Singapore Land Authority Act (Cap. 301);
+
+‘‘Board’’ means the Land Surveyors Board established under section 4;
+
+‘‘cadastral survey’’ means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
+
+‘‘cadastral survey work’’ means any work which is part of or related to a cadastral survey;
+
+‘‘certificate of registration’’ means the certificate of registration issued under section 14;
+
+‘‘Chief Surveyor’’ means the Chief Surveyor appointed under section 3 (1) of the Boundaries and Survey Maps Act (Cap. 25);
+
+‘‘Investigation Committee’’ means an Investigation Committee appointed under section 29 (1);
+
+‘‘licence’’ means a licence to supply survey services in Singapore granted under section 22;
+
+‘‘licensed’’, in relation to a corporation or partnership, means a corporation or partnership which has in force a licence;
+
+‘‘manager’’, in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof;
+
+‘‘nominee’’, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on advice given by that other person in a professional capacity;
+
+‘‘practising certificate’’ means an annual practising certificate issued under section 15 authorising the holder thereof to engage in survey work in Singapore;
+
+‘‘President’’ means the President of the Board;
+
+‘‘register of licensees’’ means the annual register of licensed corporations and partnerships kept by the Board under section 9 (1) (c);
+
+‘‘register of practitioners’’ means the annual register of practitioners kept by the Board under section 9 (1) (b);
+
+‘‘register of surveyors’’ means the register of surveyors kept by the Board under section 9 (1) (a);
+
+‘‘registered surveyor’’ means a person registered as a land surveyor under section 12;
+
+‘‘Registrar’’ means the Registrar of the Board appointed under section 8;
+
+‘‘survey’’ means the act or process of —
+
+(a) determining the form, contour, position, area, height, depth or any other particulars of —
+
+(i) the earth’s surface, whether of land or water; or
+
+(ii) any natural or artificial features on, below or above any part of the earth’s surface; or
+
+(b) planning the position or the boundary lines of any part of the earth’s surface, or of any natural or artificial features referred to in paragraph (a) (ii), and includes the act or process of making or obtaining any plan therefrom;
+
+‘‘survey services’’ means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any survey;
+
+‘‘survey work’’ means any work which is part of or related to a survey;
+
+‘‘unlimited corporation’’ means a corporation formed on the principle of having no limit placed on the liability of its members.
+
+[35/98; 34/99; 17/2001]
