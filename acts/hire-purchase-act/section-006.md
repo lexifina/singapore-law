@@ -1,0 +1,28 @@
+# 6. Conditions and warranties to be implied in every hire-purchase agreement
+Part: PART III PROTECTION OF HIRERS AND GUARANTORS Warranties and conditions
+
+(1) In every hire-purchase agreement there shall be —
+
+(a) an implied warranty that the hirer shall have and enjoy quiet possession of the goods;
+
+(b) an implied condition on the part of the owner that he shall have a right to sell the goods at the time when the property is to pass; and
+
+(c) an implied warranty that the goods shall be free from any charge or encumbrance created by the owner in favour of any third party at the time when the property is to pass.
+
+(2) In every hire-purchase agreement there shall be an implied condition that the goods shall be of merchantable quality, but such a condition shall not be implied —
+
+(a) where the hirer has examined the goods or a sample thereof, as regards defects which the examination ought to have revealed; or
+
+(b) if the goods are secondhand goods and the agreement contains a statement to the effect —
+
+(i) that the goods are secondhand goods; and
+
+(ii) that all conditions and warranties as to quality are expressly negatived, and the owner proves that the hirer has acknowledged in writing that the statement was brought to his notice.
+
+(3) Where the hirer expressly or by implication makes known to the owner or the dealer or to any servant or agent of the owner or the dealer the particular purpose for which the goods are required, there shall be implied in the hire-purchase agreement a condition that the goods shall be reasonably fit for that purpose, but such a condition shall not be implied if the goods are secondhand goods and the agreement contains a statement to the effect —
+
+(a) that the goods are secondhand goods; and
+
+(b) that all conditions and warranties of fitness and suitability are expressly negatived, and the owner proves that the hirer has acknowledged in writing that the statement was brought to his notice.
+
+(4) Nothing in this section shall prejudice the operation of any other written law or rule of law whereby any condition or warranty is to be implied in any hire-purchase agreement.

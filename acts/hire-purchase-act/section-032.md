@@ -1,0 +1,34 @@
+# 32. Power of court to reopen certain hire-purchase transactions
+Part: PART VII GENERAL
+
+(1) In any proceedings under this Act or arising out of a hire-purchase agreement, or instituted under subsection (4), where it appears to the court that the transaction is harsh and unconscionable or is otherwise such that it will be just to give relief the court may reopen the transaction.
+
+(2) The court reopening any transaction under this section may, notwithstanding any statement or settlement of accounts or any agreement purporting to close previous dealings and create a new obligation —
+
+(a) reopen any account already taken between the parties;
+
+(b) relieve the hirer and any guarantor from payment of any sum in excess of such sum in respect of the cash price, terms charges, and other charges as the court adjudges to be fairly and reasonably payable;
+
+(c) set aside either wholly or in part or revise or alter any agreement made or security given in connection with the transaction;
+
+(d) give judgment for any party for such amount as having regard to the relief (if any) that the court thinks fit to grant, is justly due to that party under the agreement; and
+
+(e) if it thinks fit give judgment against any party for delivery of the goods if they are in his possession.
+
+(3) Where it appears to the court that any person other than the owner has shared in the profits of or has any beneficial interest prospectively or otherwise in the transaction that the court holds to be harsh and unconscionable, the court may —
+
+(a) add that person as a party to the case; and
+
+(b) give judgment against that person for such amount as it thinks fit or for the delivery of the goods if they are in his possession; and
+
+(c) may make such other order in respect of that person as it thinks fit.
+
+(4) Subject to subsection (5), proceedings may be instituted in the court by the hirer or any guarantor under a hire-purchase agreement for the purpose of obtaining relief under this section.
+
+(5) A hirer or guarantor under a hire-purchase agreement shall not be entitled to institute proceedings under this section —
+
+(a) in a case where the owner has taken possession of the goods comprised in the agreement after the expiration of a period of 4 months after the date on which the owner serves on the hirer the notice required by section 15 (3) to be served on him; or
+
+(b) in any other case, after the expiration of a period of 4 months from the time when the transaction is closed.
+
+(6) In any proceedings under this section, the court shall have and may exercise all or any of the powers conferred by subsections (1), (2) and (3) notwithstanding that the time for the payment of any of the amounts payable under the agreement may not have arrived.

@@ -1,0 +1,18 @@
+# 18. Power of hirer to regain possession of goods in certain circumstances
+Part: PART IV HIRERS Statutory rights of hirers
+
+(1) If, within 14 days after giving notice to the owner under section 17 (1) (a), the hirer —
+
+(a) pays or tenders to the owner any amount due by the hirer under the hire-purchase agreement in respect of the period of hiring up to the date of the payment or tender (and for the purposes of this paragraph the hiring shall be deemed to have continued up to that date);
+
+(b) remedies any breach of the agreement or (where he is unable to remedy the breach by reason of the fact that the owner has taken possession of the goods) pays or tenders to the owner the costs and expenses reasonably and actually incurred by the owner in doing any act, matter or thing necessary to remedy the breach; and
+
+(c) pays or tenders to the owner the reasonable costs and expenses of the owner of and incidental to his taking possession of the goods and of his returning them to the hirer, the owner shall forthwith return the goods to the hirer.
+
+(2) The goods shall be received and held by the hirer pursuant to the terms of the hire-purchase agreement as if the breach had not occurred and the owner had not taken possession thereof.
+
+(3) Where goods are returned to the hirer under subsection (1) and any breach of the hire-purchase agreement has not been remedied, the owner has no right arising out of the breach to take possession of the goods unless —
+
+(a) by notice in writing given to the hirer at the time of the return of the goods he specifies the breach and requires it to be remedied; and
+
+(b) the hirer fails within 14 days or within the time specified in the notice (whichever is the longer) after receiving the notice to remedy the breach.
