@@ -11,4 +11,6 @@ No liability shall be incurred by —
 
 (d) any person who has assumed control of the business of a bank pursuant to a direction or order of the Authority under section 49 (2) (c) or 50 (b); or
 
-(e) any person appointed under section 44 (2), as a result of anything done by him bona fide in the exercise of any power, or the performance of any function or duty, conferred or imposed by or under this Act.
+(e) any person appointed under section 44A (3), as a result of anything done by him bona fide in the exercise of any power, or the performance of any function or duty, conferred or imposed by or under this Act.
+
+[23/2001]

@@ -1,7 +1,7 @@
 # 29. Credit facilities and limits
 Part: PART V PROHIBITED BUSINESS
 
-(1) Subject to subsection (3), a bank shall not —
+(1) Subject to subsection (3), a bank in Singapore shall not —
 
 (a) grant or permit to be outstanding to any one person or to any group of persons under the control or influence of any one person, any credit facilities if the aggregate amount of such credit facilities exceeds 25% of its capital funds or such other percentage not exceeding 100% of its capital funds as the Authority may approve;
 
@@ -15,13 +15,13 @@ Part: PART V PROHIBITED BUSINESS
 
 (ii) to a firm in which the bank or any of its directors has an interest as a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
 
-(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on the Stock Exchange of Singapore or any other stock exchange which the Authority may approve, and the subsidiaries of such public companies; or
+(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on any securities exchange approved under the Securities and Futures Act (Cap. 289) or such other securities exchange which the Authority may approve, and the subsidiaries of such public companies; or
 
-(iv) to any corporation, other than a bank, that is deemed to be related to the bank as described in section 6 of the Companies Act (Cap. 50); or
+(iv) to any corporation, other than a bank, that is a related corporation of the bank;
 
 (e) grant to any of its officers (other than a director) or its employees or other persons, being persons receiving remuneration from the bank (other than any persons receiving remuneration from a bank in respect of their professional services) unsecured credit facilities which in the aggregate and outstanding at any one time exceed one year’s emoluments of that officer or employee or person.
 
-[28/93]
+[28/93; 23/2001; 42/2001]
 
 (2) Subsection (1) (a) and (b) shall not apply to —
 
@@ -35,13 +35,13 @@ Part: PART V PROHIBITED BUSINESS
 
 (e) any other type of transactions which the Authority may from time to time approve.
 
-(3) Subsection (1) (b) shall not apply to a bank whose total Singapore dollar credit facilities to its customers, excluding banks, do not exceed $100 million.
+(3) Subsection (1) (b) shall not apply to a bank in Singapore whose total Singapore dollar credit facilities to its customers, excluding banks, do not exceed $100 million.
 
-[28/93]
+[28/93; 23/2001]
 
-(4) All the directors of a bank shall be liable jointly and severally to indemnify the bank against any loss arising from the making of any unsecured credit facility or any credit facility which subsequently becomes an unsecured credit facility under subsection (1) (d) whether the bank has contravened that provision or not.
+(4) All the directors of a bank in Singapore shall be liable jointly and severally to indemnify the bank against any loss arising from the making of any unsecured credit facility or any credit facility which subsequently becomes an unsecured credit facility under subsection (1) (d) whether the bank has contravened that provision or not.
 
-[28/93]
+[28/93; 23/2001]
 
 (5) In this section —
 

@@ -3,7 +3,7 @@ Part: PART IX MISCELLANEOUS
 
 (1) In order to facilitate the clearing of cheques and other credit instruments for banks and other financial institutions approved by the Authority, the Authority shall, in conjunction with such banks and institutions, by regulations, establish a Clearing House.
 
-[28/93; 37/98]
+[28/93;37/98]
 
 (2) The Authority may, from time to time, inspect under conditions of secrecy the operations, books, accounts and transactions of a Clearing House.
 
@@ -17,7 +17,7 @@ Part: PART IX MISCELLANEOUS
 
 (c) assume control of and carry on the business of the Clearing House or direct some other person to assume control of and carry on the business of the Clearing House.
 
-[28/93; 37/98]
+[28/93;37/98]
 
 (4) The Authority may at any time fix the remuneration and expenses to be paid by the operator of the Clearing House to any person appointed by the Authority under subsection (3) (b) or (c), whether or not the appointment of such person has terminated.
 

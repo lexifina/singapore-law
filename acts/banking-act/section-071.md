@@ -1,4 +1,6 @@
 # 71. General penalty
 Part: PART IX MISCELLANEOUS
 
-Any bank which contravenes or fails to comply with any provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+Any bank which contravenes any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001]

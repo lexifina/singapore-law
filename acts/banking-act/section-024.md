@@ -1,4 +1,4 @@
-# 24. Dividends
+# 24. (Repealed by Act 23 of 2001)
 Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
-A bank shall not pay any dividend on its shares until all its capitalised expenditure (including preliminary expenses, organisation expenses, share selling commission, brokerage, amount of losses and any item of expenditure not represented by tangible assets) has been completely written off.
+(Repealed by Act 23 of 2001)

@@ -3,9 +3,9 @@ Part: PART IX MISCELLANEOUS
 
 (1) The Authority may, at any time by notice in the Gazette, declare any day or days to be a bank holiday or holidays.
 
-(2) No bank shall do any business without the approval of the Authority on any day declared a bank holiday under subsection (1).
+(2) No bank in Singapore shall do any business without the approval of the Authority on any day declared a bank holiday under subsection (1).
 
-[2/84]
+[2/84; 23/2001]
 
 (3) A bank holiday declared under subsection (1) shall not necessarily be a public holiday and nothing in this section shall be deemed to affect any written law which may from time to time be in force in Singapore relating to public holidays.
 

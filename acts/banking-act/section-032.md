@@ -1,26 +1,52 @@
-# 32. Control over banks in the acquisition of shares in companies
+# 32. Investments in companies undertaking non-financial businesses
 Part: PART V PROHIBITED BUSINESS
 
-(1) No bank shall enter into an agreement to acquire the share capital of any company by virtue of which the bank would, if the agreement is carried out, acquire or hold, directly or indirectly, an interest of 20% or more of the share capital of that company, without first notifying the Authority of its intention to enter into the agreement and obtaining the approval of the Authority to its entering into the agreement.
+(1) No bank in Singapore shall acquire or hold a major stake in any company without the prior approval of the Authority.
 
-[2/84]
+[23/2001]
 
-(2) The Authority may approve the entering into the agreement with or without conditions or may disapprove it without giving any reasons.
+(2) The Authority shall not ordinarily grant its approval under subsection (1) if the company carries on, whether as its principal business or otherwise, any prohibited business.
 
-[2/84]
+[23/2001]
 
-(3) Subsection (1) shall not apply to an agreement by virtue of which the bank would acquire an interest of 20% or more of the share capital in a company by way of enforcement of security to satisfy debts due to it by the company, if, upon making the acquisition, the bank obtains the approval of the Authority to retain the shareholdings as an investment.
+(3) Notwithstanding subsection (2), the Authority may, in the circumstances of a particular case, grant its approval for a bank in Singapore to acquire or hold a major stake in a company which carries on any prohibited business, subject to such conditions as it may impose.
 
-[2/84]
+[23/2001]
 
-(4) In the event however that the Authority does not grant approval, the bank shall dispose of the shareholdings at the earliest opportunity.
+(4) This section shall not apply to —
 
-[2/84]
+(a) any interest held by way of security for the purposes of a transaction entered into in the ordinary course of the business of the bank in Singapore; and
 
-(5) A bank which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(b) any shareholding or interest acquired or held by a bank in Singapore in the course of satisfaction of debts due to it which is disposed of at the earliest suitable opportunity.
 
-[2/84]
+[23/2001]
 
-(6) In this section, ‘‘company’’ means a company whether incorporated in or outside Singapore.
+(5) The Authority may, by regulations —
 
-[2/84]
+(a) exclude the operation of this section in respect of any company or class of companies, subject to such conditions as may be prescribed; and
+
+(b) provide for the manner of computation of major stakes.
+
+[23/2001]
+
+(6) Any bank which contravenes this section or fails to comply with any condition imposed or prescribed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001]
+
+(7) In this section —
+
+‘‘major stake’’ means —
+
+(a) any beneficial interest exceeding 10% in the share capital of a company;
+
+(b) control over more than 10% of the voting power in a company; or
+
+(c) any interest in a company, where the directors of the company are accustomed or under an obligation, whether formal or informal, to act in accordance with the bank’s directions, instructions or wishes, or where the bank is in a position to determine the policy of the company;
+
+‘‘prohibited business’’ means any business other than the businesses referred to in section 30 (1) (a) to (d).
+
+[23/2001]
+
+(8) This section shall not affect any acquisition or holding of a major stake which was approved by the Authority before 18th July 2001.*
+
+[23/2001]

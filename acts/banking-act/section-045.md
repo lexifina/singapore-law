@@ -1,46 +1,48 @@
-# 45. Inspection by foreign supervisory authority
+# 45. Inspection in Singapore by parent supervisory authority
 Part: PART VII POWERS OF CONTROL OVER BANKS
 
-(1) A supervisory authority which is responsible for regulating the head office of a bank incorporated outside Singapore may conduct an inspection, solely for supervisory purposes and under conditions of secrecy, of the books and accounts of any branch of that bank in Singapore if the following conditions are satisfied:
+(1) In relation to a bank incorporated outside Singapore, a parent supervisory authority may, with the prior written approval of the Authority and under conditions of secrecy, conduct an inspection in Singapore of the books, accounts and transactions of any branch or office of that bank in Singapore in accordance with this section if the following conditions are satisfied:
 
-(a) where it has obtained the prior written approval of the Authority;
+(a) the inspection is required by the parent supervisory authority for the sole purpose of carrying out its supervisory functions;
 
-(b) where the supervisory authority is prohibited by its domestic law from divulging information obtained in the course of the inspection to any other person or where the supervisory authority has given such written undertaking, as to the confidentiality of the information obtained, as the Authority may determine; and
+(b) the parent supervisory authority —
 
-(c) where it has given to the Authority a written undertaking to comply with the provisions of this Act and any condition imposed by the Authority under this section.
+(i) is prohibited by the laws applicable to the parent supervisory authority from disclosing information obtained by it in the course of the inspection to any other person; or
 
-[21/96; 27/98]
+(ii) has given to the Authority such written undertaking, as to the confidentiality of the information obtained, as the Authority may determine; and
 
-(1A) A supervisory authority may, with the prior written approval of the Authority, appoint another body to conduct the inspection referred to in subsection (1); and in such event the provisions of this section and section 46 (3) shall apply to the appointed body as they apply to a supervisory authority.
+(c) the parent supervisory authority has given a written undertaking to the Authority to comply with the provisions of this Act and such conditions as the Authority may impose under subsection (2).
 
-[27/98]
+[23/2001]
 
-(2) Subject to any condition imposed by the Authority under subsection (3), the supervisory authority, in carrying out an inspection under subsection (1) —
+(2) The Authority may at any time, whether before, on or after giving written approval for an inspection under this section, require the parent supervisory authority to comply with conditions relating to —
 
-(a) may examine the credit facilities in or of the branch and the internal control systems of the branch (including internal control systems relating to the treasury and other operations in the branch) and, with the prior approval of the Authority, other matters relating to the branch; and
-
-(b) shall not have access to information relating to the deposits of customers of the branch and such other information as the Authority may specify.
-
-[21/96]
-
-(3) The Authority shall, at any time before or after granting approval for an inspection under this section, require the supervisory authority to comply with the conditions relating to —
-
-(a) the classes of information to which the supervisory authority shall or shall not have access in the course of the inspection;
+(a) the classes of information to which the parent supervisory authority shall or shall not have access in the course of the inspection;
 
 (b) the conduct of the inspection;
 
-(c) the disclosure of information obtained in the course of the inspection; and
+(c) the use or disclosure of any information obtained in the course of the inspection; and
 
 (d) such other matters as the Authority may determine.
 
-[21/96]
+[23/2001]
 
-(4) For the purposes of ensuring the confidentiality of any information obtained in the course of an inspection by a supervisory authority under this section —
+(3) Subject to compliance by a parent supervisory authority with such conditions as the Authority may impose under subsection (2), a bank under inspection —
 
-(a) subsections (1) and (2) of section 47 shall apply to the supervisory authority and the references to the Authority in those subsections shall be read as references to the supervisory authority; and
+(a) shall afford the parent supervisory authority access to such books, accounts and documents of the branch or office of the bank under inspection, and provide such information (including information relating to the bank’s internal control systems) and facilities as may be required to conduct the inspection; and
 
-(b) section 47 (3) shall apply to any official of the supervisory authority as if such official is an official of any bank.
+(b) shall not be required to afford the parent supervisory authority access to its books, accounts and documents or to provide information or facilities at such times or at such places as would unduly interfere with the proper conduct of the normal daily business of the bank.
 
-[45A
+[23/2001]
 
-[21/96]
+(4) A parent supervisory authority may, with the prior written approval of the Authority, appoint another body to conduct the inspection under subsection (1), and in such event the provisions of this section shall apply to the appointed body as they apply to the parent supervisory authority.
+
+[23/2001]
+
+(5) For the purposes of ensuring the confidentiality of any information obtained in the course of an inspection by a parent supervisory authority under this section, section 47 (1) shall, with the necessary modifications, apply to any official of the parent supervisory authority as if the official is an officer of a bank.
+
+[23/2001]
+
+(6) Any bank which refuses or neglects, without reasonable excuse, to afford access to any book, account or document or provide any information or facility as may be required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[23/2001]

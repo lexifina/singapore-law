@@ -1,24 +1,30 @@
-# 16. Arrangements affecting control of banks incorporated in Singapore
+# 16. Power to make directions
 Part: PART III LICENSING OF BANKS
 
-(1) No person shall enter into any arrangement in relation to any bank that is incorporated in Singapore by virtue of which he would, if the arrangement is carried out, obtain control of the bank without first notifying the Authority of his intention to enter into the arrangement and obtaining the approval of the Authority to his entering into the arrangement.
+(1) Without prejudice to section 17, if the Minister is satisfied that any person has contravened section 15A, 15B, 15C (4) or 15E (5) or has failed to comply with any condition imposed under section 15C (2) or (5), or if the Minister has served a written notice of objection under section 15E, the Minister may, by notice in writing —
 
-[2/84]
+(a) direct the transfer or disposal of all or any of the shares in the designated financial institution held by the person or any of his associates (referred to in this section as the specified shares) within such time or subject to such conditions as the Minister considers appropriate;
 
-(2) For the purposes of this section —
+(b) restrict the transfer or disposal of the specified shares; or
 
-(a) a person shall be regarded as entering into an arrangement by virtue of which he would obtain control of a bank if he alone or acting together with an associate or associates would be in a position to determine the policy of the bank;
+(c) make such other direction as the Minister considers appropriate.
 
-(b) the reference to entering into any arrangement is a reference to any formal or informal scheme, arrangement or under- standing, whether expressly or by implication, and without limiting the generality of the foregoing includes a reference —
+[23/2001]
 
-(i) creating a trust whether express or implied; and
+(2) Any person to whom a notice is given under subsection (1) shall comply with such direction or directions as may be specified in the notice.
 
-(ii) entering into a transaction or agreement, and references to an arrangement shall be construed accordingly; and
+[23/2001]
 
-(c) the reference to associates of a person has the same reference as under section 15.
+(3) In the case of any direction made under subsection (1) (a) or (b), until a transfer or disposal is effected in accordance with the direction or until the restriction on the transfer or disposal is removed, as the case may be, notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the designated financial institution —
 
-[2/84]
+(a) no voting rights shall be exercisable in respect of the specified shares unless the Minister expressly permits such rights to be exercised;
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(b) no shares of the designated financial institution shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares unless the Minister expressly permits such issue or offer; and
 
-[2/84]
+(c) except in a liquidation of the designated financial institution, no payment shall be made by the designated financial institution of any amount (whether by way of dividends or otherwise) in respect of the specified shares unless the Minister expressly authorises such payment.
+
+[23/2001]
+
+(4) In this section, ‘‘associate’’ has the same meaning as in section 15B (4) (c).
+
+[23/2001]

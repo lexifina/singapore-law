@@ -1,22 +1,22 @@
-# 34. Loans secured by immovable property
+# 34. Grace period for sections 30 to 33
 Part: PART V PROHIBITED BUSINESS
 
-(1) A bank shall not make any loans or advances exceeding in the aggregate 30% of the amount of its deposits in Singapore (including the deposits and borrowings from any other bank at that bank) on the security of immovable property for the purpose of purchasing, improving or altering the immovable property.
+(1) Notwithstanding sections 30 to 33, where any business was carried on, or any property or investment was held, by a bank in Singapore immediately before 18th July 2001* with the approval of the Authority (where required) or which did not require the approval of the Authority, the bank may continue to carry on such business or hold such property or investment, as the case may be, for a period of 3 years from 18th July 2001.
 
-(1A) Any bank whose business is principally in those loans or advances may, with the prior written consent of the Authority, make those loans or advances in an aggregate amount up to, but not in excess of 60% of the amount of its deposits in Singapore (including the deposits and borrowings from any other bank at that bank).
+[23/2001]
 
-(2) A loan or advance secured solely by a mortgage, deed of trust, or other such instrument upon immovable property or by notes or other obligations which are so secured, is, for the purpose of subsections (1) and (1A), a loan or advance secured by immovable property.
+(2) The Authority may, on application by a bank in Singapore, extend the period referred to in subsection (1) for such further period as the Authority considers appropriate.
 
-(2A) A loan or advance secured in part by —
+[23/2001]
 
-(a) mortgage, deed of trust;
+(3) The Authority may, in granting an application for extension under subsection (2) —
 
-(b) other instrument upon immovable property;
+(a) levy a charge of an amount not exceeding $10,000 for every day of the period of extension; or
 
-(c) notes or other obligations which are so secured; or
+(b) impose such conditions as it considers appropriate.
 
-(d) any other form of security, is, for the purposes of subsection (2), a loan or advance secured by immovable property to the extent, but only to the extent, of the value of that immovable property as a security as determined by the Authority.
+[23/2001]
 
-(3) Nothing in this section shall be construed to prohibit any bank from accepting as security for a loan or advance made in good faith without security or upon security subsequently found to be inadequate, a mortgage, deed of trust, or other instrument upon immovable property, or notes or other obligations which are so secured.
+(4) The Authority may, on application by a bank in Singapore, waive any requirement in section 30, 31, 32 or 33, on such conditions as the Authority may impose, where in the opinion of the Authority, the waiver is reasonably necessary for the bank to divest the business, property or investment referred to in subsection (1) by the end of the period referred to in that subsection or the further period referred to in subsection (2).
 
-(4) Any bank which contravenes subsection (1) shall be guilty of an offence.
+[23/2001]

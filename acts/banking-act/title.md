@@ -1,3 +1,4 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
 BANKING ACT
 (CHAPTER 19)
 Act
@@ -15,13 +16,23 @@ Amended by
 27 of 1998
 37 of 1998
 25 of 1999
-REVISED EDITION 1999
-(30th December 1999)
+1999 Ed. Cap. 19
+Amended by
+23 of 2001
+42 of 2001
+REVISED EDITION 2003
+(31st July 2003)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
 PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+2003
 
 
 
-An Act to provide for the licensing and regulation of the business of banking.
+An Act to provide for the licensing and regulation of the business of banks and related financial institutions, and matters related thereto.
+
+[23/2001]
 
 [1st January 1971]

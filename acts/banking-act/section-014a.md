@@ -19,24 +19,18 @@ Part: PART III LICENSING OF BANKS
 
 (5) No application to the Minister for a certificate of approval merging 2 or more banks may be made under subsection (1) unless —
 
-(a) the Authority has approved the merger under section 14;
+(a) the merger is between a bank and one or more banks which are wholly owned subsidiaries of that bank;
 
-(b) the merger is between a bank and one or more banks which are wholly owned subsidiaries of that bank;
+(b) the banks proposing to merge have entered into a merger agreement; and
 
-(c) the banks proposing to merge have entered into a merger agreement; and
+(c) the application for the certificate of approval is made within 2 weeks from the date of execution of the merger agreement referred to in paragraph (b).
 
-(d) the application for the certificate of approval is made within 2 weeks from the date of execution of the merger agreement referred to in paragraph (c).
-
-[28/93]
+[28/93; 23/2001]
 
 (6) Where a certificate of approval is issued under subsection (1) merging the banks, those banks shall publish a notice of the approval of the merger at least once in a local Malay, English, Chinese and Tamil language daily newspaper within one week from the date of the certificate of approval.
 
 [28/93]
 
-(7) As from the date of approval of the merger by the Authority under section 14, section 47 (3) shall not apply where the officials of any bank that is a party to the merger agreement referred to in subsection (5) (c) are required to give information which are necessary for the purposes of the merger.
-
-[28/93]
-
-(8) For the avoidance of doubt, it is hereby declared that sections 210 and 212 of the Companies Act (Cap. 50) shall not apply to the banks which have jointly applied for a certificate of approval under subsection (1).
+(7) For the avoidance of doubt, it is hereby declared that sections 210 and 212 of the Companies Act (Cap. 50) shall not apply to the banks which have jointly applied for a certificate of approval under subsection (1).
 
 [28/93]

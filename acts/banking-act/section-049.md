@@ -13,15 +13,15 @@ Part: PART VII POWERS OF CONTROL OVER BANKS
 
 (ii) is insolvent or is likely to become unable to meet its obligations or is about to suspend payment;
 
-(iii) has contravened or failed to comply with any of the provisions of this Act; or
+(iii) has contravened any of the provisions of this Act; or
 
-(iv) has contravened or failed to comply with any condition attached to its licence; or
+(iv) has failed to comply with any condition attached to its licence; or
 
 (d) the Authority considers it in the public interest to do so, the Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary.
 
 (2) Subject to subsection (1), the Authority may —
 
-(a) require the bank concerned forthwith to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
+(a) require the bank concerned immediately to take any action or to do or not to do any act or thing whatsoever in relation to its business as the Authority may consider necessary;
 
 (b) appoint a person to advise that bank in the proper conduct of its business; or
 

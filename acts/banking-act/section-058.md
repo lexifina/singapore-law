@@ -21,9 +21,9 @@ Part: PART IX MISCELLANEOUS
 
 (b) to make a report in accordance with section 207 of the Companies Act (Cap. 50) —
 
-(i) in the case of a bank incorporated in Singapore, upon the annual balance-sheet and profit and loss account that are referred to in section 25 (1) and (5); and
+(i) in the case of a bank incorporated in Singapore, upon the annual balance-sheet and profit and loss account that are referred to in section 25 (1); and
 
-(ii) in the case of a bank incorporated outside Singapore, upon the annual balance-sheet and profit and loss account that are referred to in section 25 (5).
+(ii) in the case of a bank incorporated outside Singapore, upon the annual balance-sheet and profit and loss account showing the assets and liabilities and profit or loss arising out of the bank’s operations in Singapore.
 
 (5) The Authority may impose all or any of the following duties on an auditor in addition to those provided under subsection (4):
 

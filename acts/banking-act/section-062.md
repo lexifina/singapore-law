@@ -11,7 +11,11 @@ Part: PART IX MISCELLANEOUS
 
 [2/84; 27/98]
 
-(2) The deposit liabilities in each class specified in subsection (1) shall rank in the order specified therein but as between deposit liabilities of the same class shall rank equally between themselves and shall be paid in full unless the assets of the bank are insufficient to meet them in which case they shall abate in equal proportions between themselves.
+(2) The deposit liabilities in each class specified in subsection (1) shall —
+
+(a) rank in the order specified therein but as between deposit liabilities of the same class shall rank equally between themselves; and
+
+(b) be paid in full unless the assets of the bank are insufficient to meet them in which case they shall abate in equal proportions between themselves.
 
 [2/84]
 
@@ -19,9 +23,13 @@ Part: PART IX MISCELLANEOUS
 
 (a) under which they will be repaid, with or without interest or at a premium, and either on demand or at a time or in circumstances agreed by or on behalf of the persons making the payments and the bank receiving them; and
 
-(b) which are not referable to the provisions of property or services or to the giving of security.
+(b) which are not referable to the provision of property or services or to the giving of security, but shall not include, in the case of a bank incorporated in Singapore, liabilities of the bank arising from loans —
 
-[2/84]
+(i) granted by creditors whose claims are fully subordinated to the claims of all un-subordinated creditors; and
+
+(ii) the terms of which comply with the criteria for the treatment of the liabilities as capital in the computation of the bank’s capital adequacy ratio under section 10, whether or not the entire amount of such liabilities are treated in the computation as capital.
+
+[2/84; 23/2001]
 
 (4) For the purposes of subsection (3) (b), money is paid on terms which are referable to the provisions of property or services or to the giving of security if, and only if —
 

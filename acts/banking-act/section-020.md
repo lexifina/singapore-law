@@ -9,7 +9,7 @@ Part: PART III LICENSING OF BANKS
 
 (ii) has furnished information or documents to the Authority in connection with its application for a licence which is or are false or misleading in a material particular;
 
-(iii) if it is a foreign bank, has had its licence or authority to operate withdrawn by the regulatory body of the country in which it has its principal place of business;
+(iii) if it is a bank incorporated outside Singapore, has had its licence or authority to operate withdrawn by the supervisory authority which is responsible, under the laws of the country or territory where the bank is incorporated, formed or established, for supervising the bank;
 
 (iv) proposes to make, or has made, any composition or arrangement with its creditors or has gone into liquidation or has been wound up or otherwise dissolved;
 
@@ -21,11 +21,15 @@ Part: PART III LICENSING OF BANKS
 
 (b) if, upon taking action under section 49 (2), the Authority considers that it is in the public interest to revoke the licence.
 
-[2/84]
+[2/84; 23/2001]
 
-(2) The Authority shall before revoking any licence under subsection (1) cause to be given to the bank concerned notice in writing of its intention to do so, specifying a date, not less than 21 days after the date of the notice, upon which the revocation will take effect and calling upon the bank to show cause to the Authority why the licence should not be revoked.
+(2) The Authority shall before revoking any licence under subsection (1) —
 
-(3) When the Authority has revoked a licence under subsection (1), the Authority shall forthwith inform the bank of the revocation.
+(a) cause to be given to the bank concerned notice in writing of its intention to do so, specifying a date, not less than 21 days after the date of the notice, upon which the revocation will take effect; and
+
+(b) call upon the bank to show cause to the Authority why the licence should not be revoked.
+
+(3) When the Authority has revoked a licence under subsection (1), the Authority shall immediately inform the bank of the revocation.
 
 (4) Any bank whose licence has been revoked under this section shall have a right of appeal to the High Court against the order of revocation.
 
