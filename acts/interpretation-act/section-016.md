@@ -13,10 +13,20 @@ Part: PART II GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid; and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the repealing law had not been passed.
 
-(2) This section shall also apply to —
+(2) A reference in this section to the repeal of a written law in whole or in part includes a reference to —
 
-(a) a repeal of a written law by implication; and
+(a) a repeal effected by implication;
 
-(b) the expiry of a temporary Act as if it were repealed by another Act.
+(b) the abrogation or limitation of the effect of the written law or part; and
 
-[11/93]
+(c) the exclusion of the application of the written law or part to any person, subject-matter or circumstance.
+
+[28/2000]
+
+(3) Where a written law expires, lapses or otherwise ceases to have effect, this section applies as if the written law had been repealed by another written law.
+
+[28/2000]
+
+(4) A reference in this section to a part of a written law includes a reference to any provision of, or words, figures, drawings or symbols in, the written law.
+
+[28/2000]

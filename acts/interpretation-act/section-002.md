@@ -7,13 +7,15 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘Accountant-General’’ means the Accountant-General of Singapore;
 
-‘‘act’’, when used with reference to an offence or civil wrong, includes a series of acts, and words which refer to acts done shall be construed as extending to illegal omissions;
+‘‘act’’, in relation to an offence or civil wrong, includes a series of acts, and words which refer to acts done shall be construed as extending to illegal omissions;
 
 ‘‘Act’’ or ‘‘Act of Parliament’’ means an Act of the Parliament of Singapore and includes any Ordinance or Act of Singapore or Malaysia having the force of law in Singapore; and ‘‘Act’’, when used in any subsidiary legislation, means the Act under the authority of which the subsidiary legislation was made;
 
 ‘‘advocate’’ and ‘‘advocate and solicitor’’ mean an advocate and solicitor of the Supreme Court;
 
 ‘‘animal’’ includes bird, reptile, fish and every kind of vertebrate animal and the young thereof;
+
+‘‘appoint’’ includes re-appoint;
 
 ‘‘Attorney-General’’ means the Attorney-General of Singapore;
 
@@ -27,11 +29,11 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘civil list’’ means the provision made under the Constitution for the maintenance of the President;
 
-‘‘commencement’’, when used with reference to an Act, means the time at which the Act comes into operation in Singapore;
+‘‘commencement’’, in relation to an Act, means the time at which the Act comes into operation in Singapore;
 
 ‘‘common law’’ means the common law in so far as it is in operation in Singapore and any custom or usage having the force of law in Singapore;
 
-‘‘Commonwealth’’ or ‘‘British Commonwealth’’ means collec- tively the Commonwealth countries and includes any colony, protectorate or protected state or any other territory administered by any Commonwealth country;
+‘‘Commonwealth’’ or ‘‘British Commonwealth’’ means collectively the Commonwealth countries and includes any colony, protectorate or protected state or any other territory administered by any Commonwealth country;
 
 ‘‘Commonwealth country’’ means any country recognised by the President to be a Commonwealth country, and ‘‘part of the Commonwealth’’ means any Commonwealth country, any colony, protectorate or protected state or any other territory administered by the government of any Commonwealth country;
 
@@ -41,9 +43,11 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘consular officer’’ means consul-general, consul, vice-consul, consular agent and any person for the time being authorised to discharge the duties of consul-general, consul, vice-consul or consular agent;
 
+‘‘contravene’’, in relation to a provision of a written law, includes a failure to comply with a requirement or condition in that provision;
+
 ‘‘court’’ means any court of competent jurisdiction in Singapore;
 
-‘‘Crown Agents’’ means the persons for the time being acting as Crown Agents for Overseas Governments and Adminis- trations in the United Kingdom;
+‘‘Crown Agents’’ means the persons for the time being acting as Crown Agents for Overseas Governments and Administrations in the United Kingdom;
 
 ‘‘Deputy Speaker’’ means the Deputy Speaker of Parliament elected under the Constitution;
 
@@ -69,7 +73,7 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘Judge of the Supreme Court’’ includes the Chief Justice, a Judge of Appeal and a Judge of the High Court;
 
-‘‘legislature’’, when used with reference to any part of the Commonwealth, means the authority competent to make laws for that part of the Commonwealth;
+‘‘legislature’’, in relation to any part of the Commonwealth, means the authority competent to make laws for that part of the Commonwealth;
 
 ‘‘Magistrate’’ means a Magistrate appointed as such under any written law for the time being in force relating to the courts;
 
@@ -79,7 +83,7 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘Malaysian citizen’’ or ‘‘Federal citizen’’ means any person who is a citizen of Malaysia by virtue of the provisions of any law for the time being in force, or any instrument for the time being having the force of law, in Malaysia;
 
-‘‘master’’, when used with reference to a ship, means any person, except a pilot or harbour master, having for the time being control or charge of the ship;
+‘‘master’’, in relation to a ship, means any person, except a pilot or harbour master, having for the time being control or charge of the ship;
 
 ‘‘Minister’’ means the Minister for the time being charged with the responsibility for the department or subject to which the context refers;
 
@@ -115,11 +119,11 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘Public Service Commission’’ means the Public Service Commission constituted under the provisions of the Constitution;
 
-‘‘registered’’, when used with reference to a document, means registered under the provisions of any written law for the time being applicable to the registration of such document;
+‘‘registered’’, in relation to a document, means registered under the provisions of any written law for the time being applicable to the registration of such document;
 
 ‘‘repeal’’ includes rescind, revoke, cancel or replace;
 
-‘‘Rules of Court’’, when used in relation to any court, means rules made by the authority having for the time being power to make rules or orders regulating the practice and procedure of such court, together with the forms necessary thereto;
+‘‘Rules of Court’’, in relation to any court, means rules made by the authority having for the time being power to make rules or orders regulating the practice and procedure of such court, together with the forms necessary thereto;
 
 ‘‘Secretary to the Cabinet’’ means the Secretary to the Cabinet appointed in accordance with the provisions of the Constitution;
 
@@ -137,19 +141,19 @@ Part: PART I GENERAL PROVISIONS OF INTERPRETATION
 
 ‘‘statutory declaration’’, if made —
 
-(a) in Singapore, means a declaration made under the Statutory Declarations Act (Cap. 320);
+(a) in Singapore, means a declaration made under the Oaths and Declarations Act (Cap. 211);
 
 (b) in the United Kingdom or any part of the Common- wealth other than in Singapore, means a declaration made before a justice of the peace, notary public or other person having authority therein under any law for the time being in force to take or receive a declaration;
 
 (c) in any other place, means a declaration made before a consul or vice-consul or before any person having authority under any law for the time being in force to take or receive a declaration;
 
-‘‘subsidiary legislation’’ means any order in council, procla- mation, rule, regulation, order, notification, by-law or other instrument made under any Act, Ordinance or other lawful authority and having legislative effect;
+‘‘subsidiary legislation’’ means any order in council, proclamation, rule, regulation, order, notification, by-law or other instrument made under any Act, Ordinance or other lawful authority and having legislative effect;
 
 ‘‘Supreme Court’’ means the Supreme Court of Singapore constituted under any written law for the time being in force relating to the courts and includes the High Court;
 
 ‘‘United Kingdom’’ means Great Britain and Northern Ireland;
 
-‘‘value’’, when used with reference to a suit, means the value of the subject-matter of the suit;
+‘‘value’’, in relation to a suit, means the value of the subject- matter of the suit;
 
 ‘‘vessel’’ includes floating craft of every description;
 
@@ -167,9 +171,13 @@ words in the singular include the plural and words in the plural include the sin
 
 ‘‘year’’ means a year reckoned according to the Gregorian calendar.
 
-[14/69; 11/91; 16/93; 7/97, 25/98]
+[14/69; 11/91; 16/93; 7/97, 25/98; 28/2000]
 
-(2) In every written law enacted before 28th December 1965 —
+(2) Where a word or expression is defined in a written law, then, unless the contrary intention appears, other parts of speech and grammatical forms of that word or expression, and cognate expressions, have corresponding meanings in that law.
+
+[28/2000]
+
+(3) In every written law enacted before 28th December 1965 —
 
 (a) references to the Colony of the Straits Settlements, the Settlement of Singapore, the Colony of Singapore, the Colony, the State of Singapore or the State, shall be construed as references to Singapore;
 
@@ -195,12 +203,12 @@ words in the singular include the plural and words in the plural include the sin
 
 (l) references to a Judge of the High Court and the Registrar of the High Court shall be construed as references to a Judge of the Supreme Court and the Registrar of the Supreme Court, respectively.
 
-(3) In every written law enacted before or after 26th January 1996, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
+(4) In every written law enacted before or after 26th January 1996, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
 
 [4/96]
 
-(4) Where an Act authorises or requires any document to be served by post, whether the word ‘‘serve’’, ‘‘give’’ or ‘‘send’’ or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
+(5) Where an Act authorises or requires any document to be served by post, whether the word ‘‘serve’’, ‘‘give’’ or ‘‘send’’ or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
 
-(5) Where a Gazette is published in more than one form, the date of publication of that Gazette shall be deemed to be the date that Gazette is first published in any form.
+(6) Where a Gazette is published in more than one form, the date of publication of that Gazette shall be deemed to be the date that Gazette is first published in any form.
 
 [25/98]

@@ -5,4 +5,4 @@ Part: PART II GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (2) Where in any section of an Act there is a reference to a subsection, paragraph or sub-paragraph by number or letter only, the reference shall be construed as a reference to the subsection, paragraph or sub-paragraph of that number or letter contained in the section in which the reference occurs.
 
-(3) This section shall, with suitable modification, apply to subsidiary legislation.
+(3) This section shall apply, with suitable modification, to subsidiary legislation.

@@ -19,3 +19,5 @@
 9. Act 22 of 1998 — Interpretation (Amendment) Act 1998 Date of First Reading : 19.11.97 (Bill No. 17/97 published on 20.11.97) Date of Second Reading : 14.1.98 Referred to Select Committee : Parl. 3 of 1998 presented to Parliament on 1.6.98 Date of Third Reading : 30.6.98 Date of commencement : 2.11.98
 
 10. Act 25 of 1998 — Electronic Transactions Act 1998 (Consequential amendments made by) Date of First Reading : 1.6.98 (Bill No. 23/98 published on 2.6.98) Date of Second and Third Readings : 29.6.98 Date of commencement : 10.7.98
+
+11. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000 Date of First Reading : 25.8.2000 (Bill No. 22/2000 published on 25.8.2000) Date of Second and Third Readings : 9.10.2000 Date of commencement : 1.11.2000
