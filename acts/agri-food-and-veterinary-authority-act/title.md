@@ -1,0 +1,19 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+AGRI-FOOD AND VETERINARY AUTHORITY ACT
+(CHAPTER 5)
+Act
+16 of 2000
+REVISED EDITION 2001
+(31st December 2001)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2001
+
+
+
+An Act to establish the Agri-food and Veterinary Authority, to provide for its functions and powers, and for matters connected therewith.
+
+[1st April 2000]
