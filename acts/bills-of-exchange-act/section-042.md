@@ -1,0 +1,6 @@
+# 42. Non-acceptance
+Part: PART II BILLS OF EXCHANGE Form and interpretation
+
+(1) When a bill is duly presented for acceptance and is not accepted within the customary time, the person presenting it must treat it as dishonoured by non-acceptance.
+
+(2) If he does not, the holder shall lose his right of recourse against the drawer and indorsers.

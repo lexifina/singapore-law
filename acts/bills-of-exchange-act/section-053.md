@@ -1,0 +1,4 @@
+# 53. Funds in hands of drawee
+Part: PART II BILLS OF EXCHANGE Form and interpretation
+
+A bill, of itself, does not operate as an assignment of funds in the hands of the drawee available for the payment thereof, and the drawee of a bill who does not accept as required by this Act is not liable on the instrument.

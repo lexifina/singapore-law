@@ -1,0 +1,12 @@
+# 18. Time for acceptance
+Part: PART II BILLS OF EXCHANGE Form and interpretation
+
+(1) A bill may be accepted —
+
+(a) before it has been signed by the drawer, or while otherwise incomplete;
+
+(b) when it is overdue, or after it has been dishonoured by a previous refusal to accept, or by non-payment.
+
+Date of acceptance after previous dishonour
+
+(2) When a bill payable after sight is dishonoured by non- acceptance, and the drawee subsequently accepts it, the holder, in the absence of any different agreement, is entitled to have the bill accepted as of the date of first presentment to the drawee for acceptance.

@@ -1,0 +1,6 @@
+# 6. Address to drawee
+Part: PART II BILLS OF EXCHANGE Form and interpretation
+
+(1) The drawee must be named or otherwise indicated in a bill with reasonable certainty.
+
+(2) A bill may be addressed to 2 or more drawees whether they are partners or not, but an order addressed to 2 drawees in the alternative or to 2 or more drawees in succession is not a bill of exchange.

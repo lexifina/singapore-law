@@ -1,0 +1,6 @@
+# 90. Joint and several notes
+Part: PART IV PROMISSORY NOTES
+
+(1) A promissory note may be made by two or more makers, and they may be liable thereon jointly, or jointly and severally according to its tenor.
+
+(2) Where a note runs ‘‘I promise to pay’’ and is signed by two or more persons it is deemed to be their joint and several note.

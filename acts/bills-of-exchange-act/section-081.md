@@ -1,0 +1,4 @@
+# 81. Effect of ‘‘not negotiable’’ crossing on holder
+Part: PART III CHEQUES DRAWN ON BANKER
+
+Where a person takes a crossed cheque which bears on it the words ‘‘not negotiable’’, he shall not have and shall not be capable of giving a better title to the cheque than that which the person from whom he took it had.

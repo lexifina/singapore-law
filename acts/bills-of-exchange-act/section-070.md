@@ -1,0 +1,6 @@
+# 70. Suit on lost bill Bill in a set
+Part: PART II BILLS OF EXCHANGE Form and interpretation
+
+In any suit or proceeding upon a bill, the court or a judge may order that the loss of the instrument shall not be set up, provided an indemnity be given to the satisfaction of the court or judge against the claims of any other person upon the instrument in question.
+
+Bill in a set
