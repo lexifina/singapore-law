@@ -1,0 +1,24 @@
+STATISTICS ACT
+(CHAPTER 317)
+Act
+46 of 1973
+1985 Ed. Cap. 317
+Amended by
+19 of 1986
+9 of 1990
+1991 Ed. Cap. 317
+Amended by
+24 of 1995
+4 of 1999
+S 365/98
+S 192/99
+REVISED EDITION 1999
+(30th December 1999)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+1999
+
+
+
+An Act relating to statistics.
+
+[7th September 1973]
