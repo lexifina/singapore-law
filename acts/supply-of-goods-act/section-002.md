@@ -1,0 +1,24 @@
+# 2. Implied terms about title, etc.
+Part: PART I Contracts for transfer of property in goods
+
+(1) In a contract for the transfer of goods, other than one to which subsection (3) applies, there is an implied condition on the part of the transferor that in the case of a transfer of the property in the goods he has a right to transfer the property and in the case of an agreement to transfer the property in the goods he will have such a right at the time when the property is to be transferred.
+
+*Date when this Act was made applicable by the Application of English Law Act (Cap. 7A).
+
+(2) In a contract for the transfer of goods, other than one to which subsection (3) applies, there is also an implied warranty that —
+
+(a) the goods are free, and will remain free until the time when the property is to be transferred, from any charge or encumbrance not disclosed or known to the transferee before the contract is made; and
+
+(b) the transferee will enjoy quiet possession of the goods except so far as it may be disturbed by the owner or other person entitled to the benefit of any charge or encumbrance so disclosed or known.
+
+(3) This subsection applies to a contract for the transfer of goods in the case of which there appears from the contract or is to be inferred from its circumstances an intention that the transferor should transfer only such title as he or a third person may have.
+
+(4) In a contract to which subsection (3) applies, there is an implied warranty that all charges or encumbrances known to the transferor and not known to the transferee have been disclosed to the transferee before the contract is made.
+
+(5) In a contract to which subsection (3) applies, there is also an implied warranty that none of the following will disturb the transferee’s quiet possession of the goods, namely —
+
+(a) the transferor;
+
+(b) in a case where the parties to the contract intend that the transferor should transfer only such title as a third person may have, that person;
+
+(c) anyone claiming through or under the transferor or that third person otherwise than under a charge or encumbrance disclosed or known to the transferee before the contract is made.
