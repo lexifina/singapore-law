@@ -1,24 +1,14 @@
-# 86. Service of summons, notice, etc.
-Part: PART X MISCELLANEOUS
+# 86. Authorised officers may demand names and addresses in certain cases
+Part: PART X ENFORCEMENT
 
-(1) Every summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on any person may be served by —
+(1) Any person who is charged by any police officer or authorised officer with any offence under this Act shall on demand give his name and address and other proof of identity to the police officer or authorised officer, if so required.
 
-(a) delivering it to the person or by delivering it at his last known place of residence to some adult member or employee of his family;
+[4/2002]
 
-(b) leaving it at his usual or last known place of residence or business in a cover addressed to him; or
+(2) The occupier of any premises shall, if required by any police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, if known.
 
-(c) forwarding it by post in a pre-paid letter addressed to him at his usual or last known place of residence or business.
+[4/2002]
 
-(2) When any summons, notice, order or document is to be served on any incorporated company or body, it may be served by —
+(3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
 
-(a) delivering it to the secretary of the company or body at its registered or principal office; or
-
-(b) sending it by registered post addressed to the company or body at its registered or principal office.
-
-(3) A summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises.
-
-(4) Any summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
-
-[92
-
-[2/96]
+[96

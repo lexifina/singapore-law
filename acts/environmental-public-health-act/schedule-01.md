@@ -2,22 +2,24 @@
 
 Section 32
 
-FOOD ESTABLISHMENTS
+DESCRIPTION OF PURPOSES FOR USE OF FOOD ESTABLISHMENTS TO WHICH SECTION 32 APPLIES
 
-1. The preparation or processing or manufacture or packing for sale of food for human consumption.
+1. As a retail food establishment where food is sold wholly by retail (whether or not the food sold is also prepared, stored or packed for sale or consumed at such premises), including —
 
-2. Carrying on of the trade of —
+(a) an eating establishment, such as a restaurant;
 
-(a) eating establishment;
+(b) a cut fruit shop;
 
-(b) cut fruit shop;
+(c) a supermarket;
 
-(c) supermarket;
+(d) a market-produce shop (including any premises used for the sale of fish or crustacean, or meat or vegetable);
 
-(d) market-produce shop, including the sale of fish or crustacean, or meat or vegetable;
+(e) a barbecue meat shop, except a retail food establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act (Cap. 283).
 
-(e) barbecue meat shop;
+2. As a catering establishment providing a catering service whereby —
 
-(f) any other type of food shop.
+(a) food is prepared, packed and thereafter delivered to a consumer for his consumption or use; or
 
-3. Cold rooms used for the storage of food for human consumption.
+(b) food is prepared at premises appointed by a consumer for his consumption or use, except a catering establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act.
+
+[7/2002]

@@ -1,6 +1,8 @@
-# 105. Authorised public officers, etc., to exercise certain powers under Act
-Part: PART X MISCELLANEOUS
+# 105. Inaccuracies in documents
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-Any public officer and any officer of any statutory board authorised by the Commissioner in writing in that behalf may, with the approval of the Minister, exercise such powers under this Act or any regulations made thereunder as the Commissioner may empower him to exercise, subject to such limitations as the Commissioner may specify.
+(1) No misnomer or inaccurate description of any person, premises, building, street or place named or described in any document prepared, issued or served under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in the document as to be identifiable.
 
-[110
+(2) No proceedings taken under this Act shall be invalid for want of form.
+
+[107

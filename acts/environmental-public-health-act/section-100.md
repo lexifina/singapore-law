@@ -1,8 +1,12 @@
-# 100. Prosecution
-Part: PART X MISCELLANEOUS
+# 100. Receipts, notices, etc., may be given by authorised officer
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-Any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner may conduct any proceedings in respect of a corrective work order or any prosecution in respect of any offence under this Act or any regulations made thereunder.
+(1) All notices, orders, receipts, warrants and other documents which the Director-General is empowered to give by this Act may be given by any authorised officer.
 
-[105
+[4/2002]
 
-[32/92]
+(2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or a facsimile thereof of the Director-General or any authorised officer affixed thereto shall be sufficient authentication.
+
+[95
+
+[4/2002]

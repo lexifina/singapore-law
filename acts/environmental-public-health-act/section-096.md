@@ -1,10 +1,12 @@
-# 96. Authorised officers may demand names and addresses in certain cases
-Part: PART X MISCELLANEOUS
+# 96. Protection from personal liability
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-(1) Any person who is charged by any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner with any offence under this Act or any regulations made thereunder shall on demand give his name and address and other proof of identity to the police officer, public health officer or authorised public officer, if so required.
+(1) No matter or thing done and no contract of any kind entered into by the Agency or the Director-General and no matter or thing done by any authorised officer or any other person employed in the administration of this Act or acting under the direction of the Agency, the Director-General or authorised officer shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act, subject them or any of them personally to any action, liability, claim or demand.
 
-(2) The occupier of any premises shall, if required by any police officer, public health officer or public officer authorised in writing in that behalf by the Commissioner, give his name and other proof of identity and the name and address of the owner of the premises, if known.
+[4/2002]
 
-(3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
+(2) Any expense incurred by such persons acting in accordance with subsection (1) shall be borne by the Agency.
 
-[102
+[82
+
+[4/2002]

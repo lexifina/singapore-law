@@ -7,9 +7,11 @@ Part: PART VI INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIRE
 
 (b) keep the building or part thereof free of such conditions as may endanger the lives or health of his employees, members of the public and other users thereof.
 
-(2) Where, in the opinion of the Commissioner, the owner, occupier or lessee of any such building or part thereof fails to comply with subsection (1) (a) or (b), the Commissioner may, by notice in writing, require the owner, occupier or lessee within such period as may be specified therein to take such steps as the Commissioner may think fit.
+(2) Where, in the opinion of the Director-General, the owner, occupier or lessee of any such building or part thereof fails to comply with subsection (1) (a) or (b), the Director-General may, by notice in writing, require the owner, occupier or lessee within such period as may be specified therein to take such steps as the Director-General may think fit.
 
-(3) In the case of an air-conditioned building or part thereof, the Commissioner may, by notice in writing —
+[4/2002]
+
+(3) In the case of an air-conditioned building or part thereof, the Director-General may, by notice in writing —
 
 (a) prescribe temperature and humidity controls for such air-conditioned building or part thereof; and
 
@@ -17,6 +19,6 @@ Part: PART VI INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIRE
 
 (i) to install automatic devices for recording the temperature and humidity level in the building or part thereof; and
 
-(ii) to keep such records and charts of the temperature and humidity level in such building or part thereof as the Commissioner may direct for the inspection of the Commissioner.
+(ii) to keep such records and charts of the temperature and humidity level in such building or part thereof as the Director-General may direct for the inspection of the Director-General.
 
-[63
+[4/2002]

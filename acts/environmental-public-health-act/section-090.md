@@ -1,8 +1,12 @@
-# 90. Exemption of agent who has no funds in hand
-Part: PART X MISCELLANEOUS
+# 90. Damage to property of Agency to be made good in addition to penalty
+Part: PART XI COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, that person gives notice to the Commissioner within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
+(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage to Agency property is committed by that person, he shall be liable to make good the damage as well as to pay the penalty.
 
-(2) In such case, the Commissioner may himself execute the work and the expenses incurred thereby shall be charged and recoverable as provided in section 91.
+[4/2002]
 
-[96
+(2) The amount of such damage shall, in case of dispute, be determined by the court by which the person incurring the penalty was convicted.
+
+(3) The amount of the damage shall be recovered as if it were a fine imposed by the court.
+
+[85

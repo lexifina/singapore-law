@@ -1,8 +1,6 @@
-# 95. Receipts and notices may be given by officer authorised thereunto
-Part: PART X MISCELLANEOUS
+# 95. Limitation of liability to fines and penalties
+Part: PART XI COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) All notices, orders, receipts, warrants and other documents which the Commissioner is empowered to give by this Act or any regulations made thereunder may be given by any officer or employee authorised thereunto by the Commissioner.
+Except in any case where by reason of the act or omission complained of, an injury or danger to health subsists at the date of the complaint, no person shall be liable to any fine or penalty under this Act for any offence under this Act unless the complaint respecting the offence is made within one year after the date of the commission of such offence.
 
-(2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or a facsimile thereof of the Commissioner or any officer or employee authorised thereunto by the Commissioner affixed thereto shall be sufficient authentication.
-
-[101
+[102

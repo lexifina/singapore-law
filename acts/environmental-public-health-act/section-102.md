@@ -1,6 +1,6 @@
-# 102. Limitation of liability to fines and penalties
-Part: PART X MISCELLANEOUS
+# 102. Saving of prosecutions under other laws
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-Except in any case where by reason of the act or omission complained of, an injury or danger to health subsists at the date of the complaint, no person shall be liable to any fine or penalty under this Act or any regulations made thereunder for any offence under this Act or any regulations made thereunder unless the complaint respecting the offence is made within one year after the date of the commission of such offence.
+Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or from being liable under that other written law to any other or higher punishment or penalty than that provided by this Act except that no person shall be punished twice for the same offence.
 
-[107
+[101

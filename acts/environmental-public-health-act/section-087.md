@@ -1,8 +1,24 @@
-# 87. Appeal to Minister against notice, order or decision
-Part: PART X MISCELLANEOUS
+# 87. Power of investigating offences under sections 20 and 23
+Part: PART X ENFORCEMENT
 
-(1) Any person who is aggrieved by any notice, order or decision of the Commissioner may within 7 days of the notice, order or decision appeal in writing to the Minister whereupon the execution of the notice, order or decision shall be stayed.
+(1) For the purpose of investigating any offence under section 20 or 23, the Director-General or any authorised officer may —
 
-(2) The Minister may confirm, vary or rescind the notice or order or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Commissioner is competent to make and the decision of the Minister shall be final.
+(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
 
-[93
+(b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
+
+[22/99; 4/2002]
+
+(2) The person mentioned in subsection (1) (a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
+
+[22/99]
+
+(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
+
+[22/99]
+
+(4) If any person fails to attend as required by an order under subsection (1) (b), the Director-General or any authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+
+[97
+
+[22/99; 4/2002]

@@ -1,24 +1,12 @@
-# 97. Power of investigating offences under sections 20 and 23
-Part: PART X MISCELLANEOUS
+# 97. Exemption of agent who has no funds in hand
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-(1) For the purpose of investigating any offence under section 20 or 23, the Commissioner or any public officer authorised in writing in that behalf by the Commissioner may —
+(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, that person gives notice to the Director-General within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
 
-(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
+[4/2002]
 
-(b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
+(2) In such case, the Director-General may himself execute the work and the expenses incurred thereby shall be charged and recoverable as provided in section 92.
 
-[22/99]
+[90
 
-(2) The person mentioned in subsection (1) (a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
-
-[22/99]
-
-(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
-
-[22/99]
-
-(4) If any person fails to attend as required by an order under subsection (1) (b), the Commissioner or any public officer authorised in writing in that behalf by the Commissioner may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
-
-[102A
-
-[22/99]
+[4/2002]

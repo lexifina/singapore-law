@@ -7,6 +7,6 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 
 (3) The owner and the occupier of any land which is manured with nightsoil or human excreta shall both be guilty of an offence.
 
-(4) The Commissioner may, by notice in writing, require the owner or occupier of such land to remove the nightsoil or receptacles or to fill up such pits, as the case may be.
+(4) The Director-General may, by notice in writing, require the owner or occupier of such land to remove the nightsoil or receptacles or to fill up such pits, as the case may be.
 
-[14
+[4/2002]

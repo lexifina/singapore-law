@@ -5,4 +5,6 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 
 (2) The owner and the occupier of any premises shall cause the immediate vicinity of such premises, including the footways and backyards abutting thereon, and the airwells, courtyards and quadrangles thereof to be kept clean and free of refuse, filth or other matter or any accumulation of water.
 
-(3) The Commissioner may, by notice in writing, require any person upon whom any duty is cast under subsection (1) or (2) to sweep and cleanse and water such street and to collect and remove the refuse, filth and other matter found thereon at such time or times as are stated in the notice.
+(3) The Director-General may, by notice in writing, require any person upon whom any duty is cast under subsection (1) or (2) to sweep and cleanse and water such street and to collect and remove the refuse, filth and other matter found thereon at such time or times as are stated in the notice.
+
+[4/2002]

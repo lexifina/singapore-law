@@ -17,6 +17,6 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 
 [22/99]
 
-(4) The Minister may make regulations, not inconsistent with the provisions of this section, to make further provisions for the manner in which a corrective work order may be carried out including the imposition of additional requirements and the service of any instructions or notice on a person in respect of whom such an order has been made.
+(4) The Agency may, with the approval of the Minister, make regulations, not inconsistent with the provisions of this section, to make further provisions for the manner in which a corrective work order may be carried out including the imposition of additional requirements and the service of any instructions or notice on a person in respect of whom such an order has been made.
 
-[32/92]
+[32/92; 4/2002]

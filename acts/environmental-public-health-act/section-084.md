@@ -1,6 +1,12 @@
-# 84. Commissioner may act in cases of emergency
-Part: PART X MISCELLANEOUS
+# 84. Appeal to Minister against notice, order or decision
+Part: PART X ENFORCEMENT
 
-In cases of emergency, the Commissioner may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Commissioner necessary for public health or for the safety of the public.
+(1) Any person who is aggrieved by any notice, order or decision of the Director-General may within 7 days of the notice, order or decision appeal in writing to the Minister whereupon the execution of the notice, order or decision shall be stayed.
 
-[90
+[4/2002]
+
+(2) The Minister may confirm, vary or rescind the notice or order or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Director-General is competent to make and the decision of the Minister shall be final.
+
+[87
+
+[4/2002]

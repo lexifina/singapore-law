@@ -1,8 +1,14 @@
-# 92. Recovery of costs and expenses by instalments
-Part: PART X MISCELLANEOUS
+# 92. Recovery of costs and expenses payable by owners
+Part: PART XI COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) When the Commissioner has incurred costs and expenses in or about the execution of any work, which are, under this Act, payable by or recoverable from the owner or occupier, the Commis- sioner may either recover the costs and expenses in the manner provided in this Act or, if he thinks fit, may obtain an undertaking from the owner or occupier for the payment by such instalments as will be sufficient to defray the whole amount of the costs and expenses.
+(1) If any sum payable by or recoverable from the owner or occupier in respect of costs and expenses incurred by the Agency in the execution of any work which is, under this Act, recoverable from the owner or occupier of any premises is not paid by the owner or occupier within 14 days after demand that sum may be reported to a Magistrate’s Court or District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or District Court, as the case may be.
 
-(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of the amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 91.
+[4/2002]
 
-[98
+(2) The person liable to pay any sum under subsection (1) shall be the owner at the time when the work was completed.
+
+(3) Any occupier who, when requested by or on behalf of the Director-General to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name of the owner shall, unless he shows cause to the satisfaction of the Magistrate’s Court or the District Court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
+[91
+
+[4/2002]

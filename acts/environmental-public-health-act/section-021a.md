@@ -23,9 +23,9 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 
 (b) the consequences which may follow under section 21C if he fails to comply with any of those requirements; and
 
-(c) that the Court has under section 21D the power to review the order on the application of the offender or the Commis- sioner.
+(c) that the Court has under section 21D the power to review the order on the application of the offender or the Director- General.
 
-[32/92]
+[32/92; 4/2002]
 
 (6) The Minister may, by order published in the Gazette, amend subsection (2) by varying the maximum number of hours for the time being specified in that subsection.
 

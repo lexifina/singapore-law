@@ -1,8 +1,10 @@
-# 3. Appointment of Commissioner, Deputy Commissioners and Assistant Commissioners of Public Health
+# 3. Appointment of Director-General and authorised officers
 Part: PART II ADMINISTRATION
 
-(1) The Minister may, by notification in the Gazette, appoint an officer to be the Commissioner of Public Health and such number of Deputy Commissioners of Public Health and Assistant Commis- sioners of Public Health as he may think fit.
+(1) The Minister may, by notification in the Gazette, appoint any person to be the Director-General of Public Health who shall be responsible for the administration of this Act and any other written law, subject to the general or special directions of the Minister.
 
-(2) The Commissioner shall have the superintendence of all matters relating to this Act subject to the general or special directions of the Minister.
+[4/2002]
 
-(3) The Deputy Commissioners of Public Health and the Assistant Commissioners of Public Health shall have and may exercise all the powers conferred on the Commissioner under this Act, subject to such limitations as the Commissioner may think fit to impose.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority to be an authorised officer for the purposes of this Act.
+
+[4/2002]

@@ -1,6 +1,8 @@
-# 110. Forms
-Part: PART X MISCELLANEOUS
+# 110. Exemption
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-The Commissioner may design and utilise such forms as he may think fit for any of the purposes of this Act and any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
+The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act.
 
-[115
+[112
+
+[4/2002]

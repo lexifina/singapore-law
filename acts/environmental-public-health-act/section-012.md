@@ -9,4 +9,6 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 
 (c) neglects or fails to remove the refuse or noxious or offensive matter from such receptacle and to cleanse the same, shall be guilty of an offence.
 
-(2) The receptacle referred to in subsection (1) shall be placed at such times and places as may be directed by the Commissioner.
+(2) The receptacle referred to in subsection (1) shall be placed at such times and places as may be directed by the Director-General.
+
+[4/2002]

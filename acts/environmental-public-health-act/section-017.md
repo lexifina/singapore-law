@@ -5,7 +5,7 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 
 (a) deposit, drop, place or throw any dust, dirt, paper, ash, carcase, refuse, box, barrel, bale or any other article or thing in any public place;
 
-(b) keep or leave any article or thing whatsoever in any place where it or particles therefrom have passed or are likely to pass into any public place;
+(b) keep or leave any article or thing in any place where it or particles therefrom have passed or are likely to pass into any public place;
 
 (c) dry any article of food or any other article or thing in any public place;
 
@@ -24,5 +24,3 @@ Part: PART III PUBLIC CLEANSING Cleaning of Streets
 (2) No person shall drop, deposit or throw any refuse or any other matter or thing in any channel, drain, lake, reservoir, river, stream or watercourse or upon the bank of any of the same or in any part of the sea abutting on the foreshore.
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
-
-[18

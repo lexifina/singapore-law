@@ -1,6 +1,8 @@
-# 108. Jurisdiction of District and Magistrate’s Courts
-Part: PART X MISCELLANEOUS
+# 108. Forms
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act or any regulations made thereunder and to impose the full penalty or punishment in respect of any such offence.
+The Director-General may design and utilise such forms as he may think fit for any of the purposes of this Act, and may require any person to complete any of the forms for any such purpose.
 
-[112
+[110
+
+[4/2002]

@@ -3,9 +3,11 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘building’’ includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise, and any structure, support or foundation connected to the foregoing;
+‘‘Agency’’ means the National Environment Agency established under the National Environment Agency Act 2002 (Act 4 of 2002);
 
-‘‘Commissioner’’ means the Commissioner of Public Health appointed under section 3 and includes a Deputy Commis- sioner of Public Health and an Assistant Commissioner of Public Health appointed under that section;
+‘‘authorised officer’’ means any person appointed by the Director-General under sections 3 (2) and 4 (2) to be an authorised officer;
+
+‘‘building’’ includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise, and any structure, support or foundation connected to the foregoing;
 
 ‘‘construction site’’ means any premises on which works of the following description are being or are going to be carried out:
 
@@ -27,7 +29,9 @@ In this Act, unless the context otherwise requires —
 
 (d) any substance which owing to its nature, composition or quantity constitutes a danger to property or human life or health; and
 
-(e) such other substance which the Minister may, by notification in the Gazette, declare to be dangerous substance for the purpose of this Act;
+(e) such other substance which the Agency may, with the approval of the Minister, by notification in the Gazette, declare to be dangerous substance for the purpose of this Act;
+
+‘‘Director-General’’ means the Director-General of Public Health appointed under section 3 (1);
 
 ‘‘disposal facility’’ includes a recycling facility, a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
 
@@ -75,23 +79,19 @@ In this Act, unless the context otherwise requires —
 
 ‘‘owner’’, in relation to —
 
-(a) any premises, means the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254);
+(a) any premises, means the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254);
 
 (b) any premises where building works are carried out, includes the developer; and
 
 (c) the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) and a liquidator appointed pursuant to that Act for that management corporation;
 
-‘‘place of public resort’’ means a building or a defined or enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling- house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
+‘‘place of public resort’’ means a building or a defined or an enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
 
 ‘‘premises’’ means messuages, buildings, lands, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority, and includes any place or structure, or any part thereof used or intended to be used for human habitation or for any other purpose whatsoever;
 
 ‘‘private market’’ means a market other than a public market;
 
 ‘‘private street’’ means any street not being a public street;
-
-‘‘public health officer’’ means any environmental health officer or vector control officer, and includes any senior public health overseer or public health overseer in the service of the Government;
-
-‘‘public officer’’ includes any officer of any statutory board or body who is authorised in writing in that behalf by the Commissioner to carry out all or any of the powers conferred on a public officer by any of the provisions of this Act;
 
 ‘‘public market’’ means a market owned, leased or maintained by the Government;
 
@@ -101,7 +101,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘public street’’ means any street over which the public has a right of way and any street vested in the Government;
 
-‘‘public waste collector licensee’’ means a person designated by the Commissioner under section 31 (3);
+‘‘public waste collector licensee’’ means a person designated by the Director-General under section 31 (3);
 
 ‘‘recycling facility’’ means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
 
@@ -141,4 +141,4 @@ In this Act, unless the context otherwise requires —
 
 ‘‘work place’’ means any premises or place used for any industrial, trade, commercial or manufacturing purposes and includes all construction sites, work sites and farms.
 
-[2/96; 22/99]
+[2/96; 22/99; 4/2002]

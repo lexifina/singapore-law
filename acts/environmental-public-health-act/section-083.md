@@ -1,6 +1,8 @@
-# 83. Penalty for obstruction
-Part: PART X MISCELLANEOUS
+# 83. Director-General may act in cases of emergency
+Part: PART X ENFORCEMENT
 
-No person shall at any time hinder, obstruct or molest the Commissioner, any public health officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act, or remove any mark, line, sign or other direction drawn or set up for the purpose of this Act.
+In cases of emergency, the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General necessary for public health or for the safety of the public.
 
-[89
+[84
+
+[4/2002]

@@ -1,8 +1,14 @@
-# 93. Liability of transferor of property in respect of costs and expenses incurred by Commissioner
-Part: PART X MISCELLANEOUS
+# 93. Recovery of costs and expenses by instalments
+Part: PART XI COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Commissioner in or about the execution of any work required to be done under this Act and the costs and expenses are recoverable under this Act from the owner thereof, that person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which became payable or were required to be performed prior to the transfer.
+(1) When the Director-General has incurred costs and expenses in or about the execution of any work, which are, under this Act, payable by or recoverable from the owner or occupier, the Director-General may —
 
-(2) Nothing in this section shall affect the liability of the purchaser or transferee to pay the costs and expenses in respect of the property or the right of the Commissioner to recover the costs and expenses or to perform any obligations under this Act.
+(a) recover the costs and expenses in the manner provided in this Act; or
 
-[99
+(b) if he thinks fit, obtain an undertaking from the owner or occupier for the payment by such instalments as will be sufficient to defray the whole amount of the costs and expenses.
+
+[4/2002]
+
+(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of the amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 92.
+
+[92
