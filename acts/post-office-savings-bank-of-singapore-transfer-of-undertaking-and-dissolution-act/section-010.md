@@ -1,0 +1,6 @@
+# 10. Waiver of prohibition of transfer
+Part: PART II TRANSFER OF UNDERTAKINGS AND EMPLOYEES TO BANK
+
+(1) Any provision in any existing contract, agreement, conveyance, deed, lease, licence, notice, permit, guarantee, bond, indemnity and other instrument or undertaking to which POSB or, as the case may be, Credit POSB or the Bank is a party or may be bound prohibiting or having the effect of prohibiting the transfer of the undertakings under the sale and purchase agreement and this Act shall be deemed by this Act to have been waived.
+
+(2) Any provision in any existing contract, agreement, conveyance, deed, lease, licence, notice, permit, guarantee, bond, indemnity and other instrument or undertaking to which POSB or, as the case may of Singapore (Transfer of 1999 Ed. Undertakings and Dissolution) CAP. 237 17 be, Credit POSB or the Bank is a party or may be bound conferring on the other party or parties thereto any right of first refusal or pre-emption rights in respect of any property or liability comprised in the undertakings to be transferred by reason of or arising from, or to the effect that a default shall occur or be deemed to occur as a result of, the transfer or intended transfer of the undertakings under the sale and purchase agreement and this Act shall be deemed by this Act to have been waived.
