@@ -9,8 +9,6 @@ Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
 
 [11/86; 32/93]
 
-(3) In this Act, ‘‘regulations’’ means regulations made by the Authority, ‘‘prescribed’’ means prescribed by regulations and ‘‘directions’’ includes notices and circulars.
+(3) For the avoidance of doubt, a direction issued under this Act shall be deemed not to be subsidiary legislation.
 
-[66
-
-[11/86; 32/93]
+[41/2001]

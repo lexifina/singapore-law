@@ -5,7 +5,7 @@ Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
 
 [11/86]
 
-(2) If, in any case as is mentioned in subsection (1), estate duty is payable in Singapore on any such policy moneys as are there mentioned, the insurer may, notwithstanding section 44 (2) of the Estate Duty Act (Cap. 96), pay to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer, without the policy moneys having been included in such a schedule or certificate as is mentioned in that subsection.
+(2) If, in any case as is mentioned in subsection (1), estate duty is payable in Singapore on any such policy moneys as are there mentioned, the insurer may, notwithstanding section 43 (2) of the Estate Duty Act (Cap. 96), pay to any proper claimant a prescribed amount of the policy moneys of all such policies issued by the insurer, without the policy moneys having been included in such a schedule or certificate as is mentioned in that subsection.
 
 [11/86]
 
@@ -28,5 +28,3 @@ Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
 (b) ‘‘proper claimant’’ means a person who claims to be entitled to the sums in question as executor of the deceased, or who claims to be entitled to that sum (whether for his own benefit or not) and is the widower, widow, parent, child, brother, sister, nephew or niece of the deceased; and
 
 (c) in deducing any relationship for the purposes of this subsection, an illegitimate person shall be treated as the legitimate child of his actual parents.
-
-[63

@@ -5,7 +5,7 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [11/86]
 
-(2) Section 21 (4) shall apply to a requirement under this section.
+(2) Section 21 (4) shall apply to any requirement under this section.
 
 [11/86]
 
@@ -22,8 +22,6 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 [11/86]
 
 (5) If a mortgage or charge is created by a registered insurer at a time when there is in force a requirement imposed on the insurer by virtue of this section, being a mortgage or charge conferring a security on any assets which are held by a person as trustee for the insurer in compliance with the requirement, the mortgage or charge shall, to the extent that it confers such a security, be void against the liquidator and any creditor of the insurer.
-
-[21
 
 [11/86]
 

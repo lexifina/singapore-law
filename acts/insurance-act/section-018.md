@@ -5,7 +5,7 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 (a) a fund margin of solvency in respect of each of the insurance funds established by the insurer under this Act; and
 
-(b) a margin of solvency, of such amounts as may be prescribed or determined in accordance with regulations made under this Act for the purposes of this section.
+(b) a margin of solvency, of such amounts as may be prescribed for the purposes of this section.
 
 [11/86]
 
@@ -32,7 +32,5 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 (a) the fund margin of solvency in respect of any insurance fund is the excess of the value of the assets over the liabilities of that fund; and
 
 (b) the margin of solvency of a registered insurer is the excess of the value of its assets over the amount of its liabilities, that value and amount being determined in accordance with any applicable valuation regulations.
-
-[17
 
 [11/86]

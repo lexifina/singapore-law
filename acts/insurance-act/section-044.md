@@ -5,7 +5,7 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 [11/86]
 
-(2) Notwithstanding section 101 of the Co-operative Societies Act, any such society which is a registered insurer shall be deemed to be an unregistered company within the meaning of Division 5 of Part X of the Companies Act (Cap. 50) and may be wound up by the court accordingly under that Act.
+(2) Notwithstanding section 101 of the Co-operative Societies Act, any such society which is a registered insurer shall be deemed to be an unregistered company within the meaning of Division 5 of Part X of the Companies Act and may be wound up by the court accordingly under that Act.
 
 (3) In any such winding up —
 
@@ -14,7 +14,5 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 (b) section 89 (3), (4) and (5) of the Co-operative Societies Act (which govern the disposal of any surplus), shall apply, subject to any necessary modifications, as they apply where a society is wound up under that Act.
 
 (4) Where a society has ceased to be a registered insurer, but remains under any liability in respect of Singapore policies or offshore policies, this section shall apply as if the society were an insurer so registered.
-
-[46
 
 [11/86]

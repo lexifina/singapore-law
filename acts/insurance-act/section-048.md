@@ -30,5 +30,3 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 [11/86]
 
 (7) The scheme or proposed scheme referred to in subsection (6) shall include provision as to how that liability is, as between the insurers, to be borne.
-
-[50

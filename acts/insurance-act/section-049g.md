@@ -1,0 +1,18 @@
+# 49G. Appeals to Minister
+Part: PART IIIB APPEALS
+
+(1) Where an appeal is made to the Minister under this Act, the Minister may confirm, vary or reverse the decision of the Authority on appeal, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
+
+[41/2001]
+
+(2) Where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
+
+[41/2001]
+
+(3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2) and may make such recommendations as it thinks fit.
+
+[41/2001]
+
+(4) The Minister shall consider the report submitted under subsection (3) in making his decision under subsection (1) but he shall not be bound by the recommendations in the report.
+
+[41/2001]

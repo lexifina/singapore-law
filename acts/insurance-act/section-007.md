@@ -5,10 +5,8 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [22/73; 11/86; 30/99]
 
-(2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day during which the offence continues after conviction.
 
-[6
-
-[22/73]
+[22/73; 41/2001]
 
 Registration of Singapore insurers

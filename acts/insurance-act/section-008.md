@@ -20,15 +20,3 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 (4) The Authority shall cause notice of any registration or change of name of a Singapore insurer to be published in the Gazette.
 
 [32/93]
-
-(5) For the purposes of this Act —
-
-‘‘captive insurer’’ means an insurer whose registration is restricted to the carrying on of business which consists principally of risks of its related companies, and includes a rent-a-captive insurer;
-
-‘‘direct insurer’’ means any insurer other than a reinsurer or a captive insurer;
-
-‘‘reinsurer’’ means an insurer whose registration is restricted to the carrying on of reinsurance business.
-
-[7
-
-[32/93]

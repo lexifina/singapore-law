@@ -31,6 +31,4 @@ but this shall not affect the operation in relation to a policy of subsection (2
 
 (8) This section shall apply to policies whenever issued; and, subject to subsection (5), shall extend to any Singapore policy and offshore policy.
 
-[62
-
 [11/86]

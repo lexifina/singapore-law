@@ -27,6 +27,4 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 (7) For the purposes of this section, the value of any assets and the amount of any liabilities shall be determined in accordance with any valuation regulations made under this Act.
 
-[20
-
 [11/86]

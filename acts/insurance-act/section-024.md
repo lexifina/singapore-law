@@ -13,14 +13,16 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [11/86; 32/93]
 
-(5) The Authority may, by notice in writing, require any Singapore insurer to obtain and furnish it within the time specified in the notice with a report by an actuary as to the suitability of the rates of premium for the time being chargeable by the insurer for any description of life policy, and if the actuary considers that the rates are not suitable or not in accordance with sound insurance principles, a report as to the rates of premium which the actuary approves for that description of policy.
+(5) The Authority may, by notice in writing, require any Singapore insurer to obtain and furnish it within the time specified in the notice with —
+
+(a) a report by an actuary as to the suitability of the rates of premium for the time being chargeable by the insurer for any description of life policy; and
+
+(b) if the actuary considers that the rates of premium are not suitable or not in accordance with sound insurance principles, a report as to the rates of premium which the actuary approves for that description of policy.
 
 [11/86; 32/93]
 
 (6) For the purposes of subsection (1), regard shall be had to any such report referred to in subsection (5) to the exclusion of any previous approval or report.
 
-(7) For each occasion on which an insurer issues a policy or allows a commission in contravention of this section, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(7) For each occasion on which an insurer issues a policy or allows a commission in contravention of this section, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $12,500.
 
-[23
-
-[11/86]
+[11/86; 41/2001]

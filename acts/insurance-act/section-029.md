@@ -5,7 +5,9 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [30/99]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[41/2001]
 
 (3) For the purposes of this section —
 
@@ -14,7 +16,5 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 (b) a reference to entering into an agreement to acquire shares shall be construed in the same way as under section 27; and
 
 (c) ‘‘voting power’’ shall have the same meaning as in section 27.
-
-[28
 
 [30/99]

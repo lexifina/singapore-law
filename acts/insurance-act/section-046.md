@@ -47,13 +47,9 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 (9) Subject to subsection (10) —
 
-(a) the proceeds of general business levies may be applied only on expenditure incurred by the Authority under subsection
+(a) the proceeds of general business levies may be applied only on expenditure incurred by the Authority under subsection (2) (a) (i); and
 
-(2) (a) (i); and
-
-(b) the proceeds of life business levies may be applied only on expenditure incurred by the Authority under subsection
-
-(2) (a) (ii) and (b).
+(b) the proceeds of life business levies may be applied only on expenditure incurred by the Authority under subsection (2) (a) (ii) and (b).
 
 [11/86]
 
@@ -89,13 +85,11 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 (d) a registered insurer, not being an insurer in liquidation, is an insurer in financial difficulties if —
 
-(i) a provisional liquidator has been appointed in respect of the insurer under section 267 of the Companies Act;
+(i) a provisional liquidator has been appointed in respect of the insurer under section 267 of the Companies Act (Cap. 50);
 
 (ii) it has been proved, in any proceedings on a petition for the winding up of the insurer under the Companies Act, to be unable to pay its debts; or
 
 (iii) an application has been made to the High Court under section 210 of the Companies Act for the sanction of a compromise or arrangement proposed between the insurer and its creditors or any class of them (whether or not any of its members are also parties thereto) and the terms of the compromise or arrangement provide for reducing the liabilities or the benefits provided for under the insurer’s life policies, and the petition is presented or the application is made after that date.
-
-[48
 
 [11/86]
 

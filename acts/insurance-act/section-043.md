@@ -1,7 +1,7 @@
 # 43. Special provision for insurers directed to cease insurance business
 Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS Returns
 
-(1) Where the Authority gives an insurer a direction under section 41 (1) (e) by reason of the insolvency of the fund maintained by the insurer under this Act for either class of insurance business, the affairs of the insurer may be wound up by the court under the Companies Act as if it had suspended its business for a whole year or, in the case of a winding up under Division 5 of Part X of that Act, as if it had ceased to carry on business.
+(1) Where the Authority gives an insurer a direction under section 41 (1) (e) by reason of the insolvency of the fund maintained by the insurer under this Act for either class of insurance business, the affairs of the insurer may be wound up by the court under the Companies Act (Cap. 50) as if it had suspended its business for a whole year or, in the case of a winding up under Division 5 of Part X of that Act, as if it had ceased to carry on business.
 
 [22/73; 11/86]
 
@@ -11,7 +11,7 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 (3) An order made under subsection (2) for a limited winding up shall be of the same effect as an order for the affairs of the insurer to be wound up generally, except in so far as this section otherwise provides.
 
-(4) Where such an order is made, the powers of the liquidator shall be exercisable only for the purpose of applying the assets of the relevant insurance fund (including such part of the deposit as is allocated to the insurance fund by the Authority under section 17 (13)) in discharging the liabilities to which they are applicable, together with the costs, charges and expenses incurred in the winding up.
+(4) Where such an order is made, the powers of the liquidator shall be exercisable only for the purpose of applying the assets of the relevant insurance fund (including such part of the deposit as is allocated to the insurance fund by the Authority under section 17 (12)) in discharging the liabilities to which they are applicable, together with the costs, charges and expenses incurred in the winding up.
 
 [11/86]
 
@@ -30,5 +30,3 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 (a) substitute an order for the affairs of the insurer to be wound up generally; and
 
 (b) give such directions as the court thinks fit as to matters in progress under the previous order, and, subject to any such directions, the winding up shall, for all purposes connected with the substituted order, be deemed to have commenced at the time of the application for that order.
-
-[45

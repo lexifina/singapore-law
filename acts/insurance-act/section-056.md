@@ -1,10 +1,6 @@
-# 56. Jurisdiction of Courts Miscellaneous amendments of law
+# 56. Jurisdiction of court
 Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
 
-A District Court or a Magistrate’s Court shall, notwithstanding the Criminal Procedure Code (Cap. 68), have jurisdiction to try any offence under this Act and may impose the full penalty or punishment in respect of such offence.
-
-[58
+Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 [11/86]
-
-Miscellaneous amendments of law

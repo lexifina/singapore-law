@@ -7,6 +7,4 @@ Regulations made under this Act may make provision for securing that, in such ci
 
 (b) the nature of the assets is appropriate in relation to the currency in which the liabilities of the insurer are or may be required to be met.
 
-[18
-
 [11/86]

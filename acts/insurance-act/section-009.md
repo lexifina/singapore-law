@@ -13,6 +13,4 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 (2) For the purposes of subsection (1) (c), the Authority may prescribe different amounts for different classes of insurance business or for different types of insurers.
 
-[8
-
 [11/86]

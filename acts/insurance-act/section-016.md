@@ -37,12 +37,14 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [11/86]
 
-(8) Subject to subsection (7), any register of policies established by a Singapore insurer shall, notwithstanding that the insurer at any time ceases to carry on in Singapore either class of insurance business, continue to be maintained by the insurer for policies belonging to that class so long as the insurer is under any liability in respect of those policies registered or required to be registered at that time; but no policies belonging to either class of insurance business shall be entered in the register under subsection (3) when the insurer is not carrying on that class of business in Singapore, or is doing so only by the collection or receipt of premiums.
+(8) Subject to subsection (7), any register of policies established by a Singapore insurer shall, notwithstanding that the insurer at any time ceases to carry on in Singapore either class of insurance business, continue to be maintained by the insurer for policies belonging to that class so long as the insurer is under any liability in respect of those policies registered or required to be registered at that time.
 
 [11/86]
 
-(9) A register of policies established and kept by an insurer under this section before 1st January 1987 shall be deemed to be a register of Singapore policies under subsection (1).
+(9) No policies referred to in subsection (8) belonging to either class of insurance business shall be entered in the register under subsection (3) when the insurer is not carrying on that class of business in Singapore, or is doing so only by the collection or receipt of premiums.
 
-[15
+[11/86]
+
+(10) A register of policies established and kept by an insurer under this section before 1st January 1987 shall be deemed to be a register of Singapore policies under subsection (1).
 
 [11/86]

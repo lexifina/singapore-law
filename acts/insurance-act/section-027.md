@@ -7,7 +7,9 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 (2) No person shall, after 1st January 1987, enter into an agreement to acquire shares of a registered insurer that is incorporated in Singapore by virtue of which he would, if the agreement is carried out, obtain effective control of that insurer without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
 
-(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[41/2001]
 
 (4) For the purposes of this section —
 
@@ -48,7 +50,5 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 (x) any corporation in which the person is in a position to control not less than 20% of the voting power in the corporation; and
 
 (xi) where the person is a corporation, a person who is in a position to control not less than 20% of the voting power in the corporation.
-
-[26
 
 [30/99]

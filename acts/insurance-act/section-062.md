@@ -17,6 +17,4 @@ every assurance made contrary to this subsection shall be void.
 
 (4) Nothing in this section shall extend to insurance made by any person on ships or goods, or to contracts of indemnity against loss by fire or loss by other events whatsoever.
 
-[64
-
 [35/93]

@@ -6,5 +6,3 @@ Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
 (2) Subsection (1) shall apply to all Singapore policies, but shall not apply to any other policy issued before 1st January 1967.
 
 (3) In any proceedings for the recovery of policy moneys due under the life policy or of moneys payable on the surrender of a life policy, no set-off or counterclaim shall be allowed except for sums due under the policy or under an agreement charging them on the policy.
-
-[61

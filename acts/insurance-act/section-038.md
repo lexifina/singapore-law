@@ -17,6 +17,4 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 (4) Where directions are given under subsection (2), any document to which they relate shall be deemed not to have been lodged until it is re-submitted with the variations required by the directions, but the insurer shall be deemed to have submitted the document within the time limited by regulations prescribed under section 36 (1) if it is re-submitted with the required variations within the time limited by the directions.
 
-[40
-
 [11/86]

@@ -11,6 +11,4 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 (3) The Authority may exempt wholly or in part any registered insurer from the payment of the annual fees prescribed under this section.
 
-[10
-
 [11/86]

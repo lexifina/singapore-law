@@ -1,6 +1,6 @@
-# FIRST SCHEDULE
+# THE SCHEDULE
 
-Section 2 (8)
+Section 2 (9)
 
 DEFINITION OF INSURANCE TERMS
 
@@ -10,7 +10,7 @@ General
 
 (2) References to a policy of an insurer include any policy in respect of which the insurer is under any liability, whether the policies were issued by the insurer or the liability was transferred to the insurer from another.
 
-2.—(1) Subject to this paragraph and section 16 (3) and (4) of the Act, ‘‘Singapore policy’’, in relation to any insurer, means a policy issued in the course of the insurer’s business in Singapore and falling within one of the following descriptions:
+2.—(1) Subject to this paragraph and section 16 (3) and (4) of the Act, ‘‘Singapore policy’’ in relation to any insurer, means a policy issued in the course of the insurer’s business in Singapore and falling within one of the following descriptions:
 
 (a) a life policy or personal accident policy in the case of which, at the date of issue of the policy and (if the policy was issued before then) at the date of the establishment of the insurer’s register of Singapore policies, the policy owner’s address is or was an address in Singapore;
 
@@ -30,9 +30,9 @@ General
 
 (d) where any risk is in transit in Singapore it shall be deemed to be a risk outside Singapore.
 
-(4) Sub-paragraph (1) (a) shall apply to a policy of reinsurance as if the references to the date of issue of the policy and to the policy owner’s address referred to those of the policy under which the liability reinsured ultimately arises.
+THE SCHEDULE — continued
 
-FIRST SCHEDULE — continued
+(4) Sub-paragraph (1) (a) shall apply to a policy of reinsurance as if the references to the date of issue of the policy and to the policy owner’s address referred to those of the policy under which the liability reinsured ultimately arises.
 
 3. ‘‘Policy owner’’ means, where a policy has been assigned, the assignee for the time being and, where they are entitled as against the insurer to the benefit of the policy, the personal representatives of a deceased policy owner.
 
@@ -59,6 +59,8 @@ Definitions related to general business
 (e) against risks incidental to the construction, repair or docking of vessels, including third-party risks; or
 
 (f) against transit risks (whether the transit is by sea, inland water, land or air, or partly one and partly another) including risks incidental to the transit insured from the commencement of the transit to the ultimate destination covered by the insurance.
+
+THE SCHEDULE — continued
 
 8. ‘‘Personal accident policy’’ means a policy of insurance upon the happening of personal accidents, whether fatal or not, disease or sickness, or any class of personal accidents, disease or sickness.
 

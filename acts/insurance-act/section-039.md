@@ -9,7 +9,7 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 [11/86]
 
-(3) Any person shall have the right, on payment of the prescribed fee, at any time during working hours of the office of the Authority, to inspect at that office any document lodged by an insurer to comply with section 36 or 37 and any document required by sections 36 (10) and 37 (4) to accompany the document so lodged and make a copy of the whole or any part of it.
+(3) Any person shall have the right, on payment of the prescribed fee, at any time during working hours of the office of the Authority, to inspect at that office any document lodged by an insurer to comply with section 36 or 37 and any document required by sections 36 (13) and 37 (9) to accompany the document so lodged and make a copy of the whole or any part of it.
 
 [11/86]
 
@@ -21,10 +21,8 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 [11/86]
 
-(6) Where an insurer fails to comply with section 36 or 37, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(6) Any person who contravenes section 36 or 37 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
-[41
-
-[11/86]
+[41/2001]
 
 Inspections and Investigations

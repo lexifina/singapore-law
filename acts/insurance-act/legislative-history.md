@@ -19,3 +19,5 @@
 9. Act 25 of 1999 — Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999 (Consequential amendments made by) Date of First Reading : 4.5.99 (Bill No. 16/99 published on 5.5.99) Date of Second and Third Readings : 6.7.99 Date of commencement : 13.9.99
 
 10. Act 30 of 1999 — Insurance (Amendment) Act 1999 Date of First Reading : 6.7.99 (Bill No. 19/99 published on 7.7.99) Date of Second and Third Readings : 4.8.99 Date of commencement : 31.12.99
+
+11. Act 41 of 2001 — Insurance (Amendment) Act 2001 Date of First Reading : 25.9.2001 (Bill No. 35/2001 published on 26.9.2001) Date of Second and Third Readings : 5.10.2001 Date of commencement : 8.1.2002 (except section 20) 1.10.2002 (section 20)

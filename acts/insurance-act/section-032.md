@@ -9,6 +9,4 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [32/93; 30/99]
 
-(2) For the purpose of this section, ‘‘director’’ includes the wife, husband, father, mother, son or daughter of a director.
-
-[31
+(2) In this section, ‘‘director’’ includes the wife, husband, father, mother, son or daughter of a director.

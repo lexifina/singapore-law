@@ -1,24 +1,22 @@
-# 65. Miscellaneous definitions
+# 65. Saving provisions
 Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
 
-(1) In this Act —
+(1) The repeal of section 34 shall not —
 
-‘‘accounting period’’, in relation to any insurer, means the period beginning from the commencement of its business in Singapore or 1st January of any year, as the case may be, and ending on 31st December of that year for which accounts relating to the insurance business carried on by the insurer in Singapore are kept and for which an insurance fund has been established under this Act, unless otherwise allowed by the Authority;
+(a) invalidate any existing Lloyd’s policy;
 
-‘‘actuary’’ means a Fellow of any prescribed institute;
+(b) prevent the collection or receipt of premiums on any existing Lloyd’s policy; or
 
-‘‘Authority’’ means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
+(c) prejudice any right or claim against the Lloyd’s underwriter, or by the Lloyd’s underwriter of any right or claim against any policy owner or person, relating to any existing Lloyd’s policy.
 
-‘‘registered insurer’’ means an insurer which is for the time being registered by the Authority under this Act;
+(2) The Authority shall, if satisfied that insurance business is not being carried on in Singapore by any Lloyd’s underwriter under the repealed section 34, transfer any deposit referred to in the repealed section 34 (4) and maintained under the repealed Second Schedule, to Lloyd’s, except such part (if any) that the Authority determines should be kept available for meeting claims against Lloyd’s underwriters in respect of any existing Lloyd’s policy.
 
-‘‘statutory balance-sheet’’ and ‘‘statutory valuation’’ mean respectively a balance-sheet lodged with the Authority in order to comply with section 36 (1), and a valuation of which the results are shown in a valuation balance-sheet lodged with it on an actuarial investigation made in order to comply with section 37 (1).
+(3) For the purposes of this section —
 
-[11/86; 32/93; 30/99]
+‘‘existing Lloyd’s policy’’ means any insurance policy entered into by a Lloyd’s underwriter before 8th January 2002 and which was authorised under the repealed section 34;
 
-(2) In this Act —
+‘‘Lloyd’s’’ has the same meaning as in the repealed section 34;
 
-(a) any reference to the last statutory balance-sheet or to the last statutory valuation shall be construed as referring to that last prepared or made and not superseded by the arrival of the date as at which another is to be prepared or made; and
+‘‘Lloyd’s underwriter’’ has the same meaning as in the repealed section 34.
 
-(b) any reference to there being shown in a statutory balance-sheet or on a statutory valuation a surplus of assets over liabilities of an insurance fund shall be construed accordingly by reference to the prescribed form of balance-sheet or valuation balance-sheet and to the rules to be followed under this Act and the regulations in preparing it.
-
-[67
+[41/2001]

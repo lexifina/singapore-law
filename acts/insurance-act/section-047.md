@@ -15,7 +15,7 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 
 (4) Any registered insurer, not being a company incorporated or established outside Singapore, shall by virtue of this section have power to make such a transfer by a scheme under this section, and the directors shall have authority on behalf of the insurer to arrange for and do all things necessary to give effect to such a transfer.
 
-(5) Subsection (4) shall apply notwithstanding the absence of the power or authority mentioned in that subsection under the consti- tution of the insurer or any limitation imposed by its constitution on its powers or on the authority of its directors.
+(5) Subsection (4) shall apply notwithstanding the absence of the power or authority mentioned in that subsection under the constitution of the insurer or any limitation imposed by its constitution on its powers or on the authority of its directors.
 
 (6) A scheme under this section may provide for the business in question to be transferred to a body not registered as an insurer under this Act in respect of the relevant class of business (including a body not yet in existence), if the scheme is so framed as to operate only in the event of the body becoming so registered.
 
@@ -30,5 +30,3 @@ Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS
 (9) A scheme under this section shall be of no effect unless confirmed by the High Court, but may be prepared and submitted for confirmation to the High Court by any of the insurers concerned.
 
 (10) If so confirmed, the scheme shall have effect according to its tenor notwithstanding anything in the preceding sections of this Act and be binding on any person thereby affected.
-
-[49

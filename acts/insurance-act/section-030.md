@@ -9,6 +9,4 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [11/86]
 
-(2) For the purposes of this section, ‘‘voting shares’’ has the same meaning as in the Companies Act (Cap. 50).
-
-[29
+(2) In this section, ‘‘voting shares’’ has the same meaning as in the Companies Act (Cap. 50).

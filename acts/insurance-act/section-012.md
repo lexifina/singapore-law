@@ -23,7 +23,7 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 (h) that the insurer has failed to effect satisfactory reinsurance arrangements;
 
-(i) that the insurer has contravened any of the provisions of this Act or any regulations made thereunder or any condition imposed or any direction given by the Authority under this Act;
+(i) that the insurer has contravened any of the provisions of this Act or any condition imposed or any direction given by the Authority under this Act;
 
 (j) that any of the officers of the insurer holding a managerial or executive position has been convicted of any offence under this Act;
 
@@ -33,20 +33,26 @@ Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
 
 [11/86]
 
-(3) The Authority shall, before cancelling the registration of an insurer under this section otherwise than at the request of the insurer, cause to be given to the insurer notice in writing of its intention to do so, specifying a date, not less than 14 days after the date of the notice, upon which the cancellation will take effect and calling upon the insurer to show cause to the Authority why the registration should not be cancelled.
+(3) Before cancelling the registration of an insurer under this section otherwise than at the request of the insurer, the Authority shall —
 
-[11/86]
+(a) give the insurer notice in writing of its intention to do so; and
 
-(4) Notwithstanding the fact that the registration of an insurer has been cancelled under this section, so long as the insurer remains under any liability in respect of insurance policies belonging to the class of insurance business to which the registration relates, the insurer shall take such action as it considers necessary or as may be required by the Authority to ensure that reasonable provision has been or will be made for that liability and that adequate arrangements exist or will exist for payment of premiums and claims on those policies.
+(b) in the notice referred to in paragraph (a), call upon the insurer to show cause within such time as may be specified in the notice why his or its registration should not be cancelled.
 
-[11/86]
+[41/2001]
 
-(5) When the Authority has cancelled a registration under this section, it shall forthwith inform the insurer of the cancellation.
+(4) If the insurer referred to in subsection (3) —
 
-[11/86]
+(a) fails to show cause within the time given to him or it to do so or within such extended period of time as the Authority may allow; or
 
-(6) An order of cancellation made by the Authority shall not take effect until the expiration of a period of 14 days after the Authority has informed the insurer of the order.
+(b) fails to show sufficient cause, the Authority shall give notice in writing to the insurer of the date on which the cancellation of registration is to take effect.
 
-[11
+[41/2001]
+
+(5) Any insurer who is aggrieved by a decision of the Authority under subsection (1) to cancel his registration as an insurer otherwise than at his request may, within 30 days of the decision of the Authority, appeal to the Minister in writing in accordance with Part IIIB.
+
+[41/2001]
+
+(6) Notwithstanding the cancellation of the registration of an insurer under this section, so long as the insurer remains under any liability in respect of insurance policies belonging to the class of insurance business to which the registration relates, the insurer shall take such action as it considers necessary or as may be required by the Authority to ensure that reasonable provision has been or will be made for that liability and that adequate arrangements exist or will exist for payment of premiums and claims on those policies.
 
 [11/86]
