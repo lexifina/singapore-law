@@ -1,0 +1,5 @@
+# 36. Transitional and savings provisions
+
+(1) Upon the commencement of this Act, every licence issued for the purposes of the repealed section 37 of the principal Act shall be deemed to be a licence issued under section 53A of the principal Act.
+
+(2) Notwithstanding section 29 of this Act (which incorporates a new section 65 in the principal Act relating to the licensing of veterinary centres), every person who immediately before the commencement of this Act had been using any premises as a veterinary centre shall, upon the commencement of this Act, be entitled to continue to use those premises as a veterinary centre for a period of one month, as if the new section 65 of the principal Act had not been enacted, and if before the expiry of that period he applies for a licence under the new section 65 of the principal Act, he shall be entitled to continue to use those premises as a veterinary centre until the date on which his application for a licence under the new section 65 of the principal Act is granted or refused or withdrawn.

@@ -1,0 +1,3 @@
+# 12. Repeal of section 16
+
+Section 16 of the principal Act is repealed.
