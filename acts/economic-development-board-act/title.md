@@ -1,0 +1,31 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+ECONOMIC DEVELOPMENT BOARD ACT
+(CHAPTER 85)
+Ordinance
+21 of 1961
+Amended by
+9 of 1966
+Reprint
+19 of 1966
+Amended by
+4 of 1969
+1970 Ed. Cap. 189 1985 Ed. Cap. 85 1992 Ed. Cap. 85
+Amended by Amended by Amended by
+3 of 1972 11 of 1989 18 of 1994
+38 of 1973 7 of 1997
+17 of 1975 9 of 1997
+7 of 1983
+REVISED EDITION 2001
+(31st July 2001)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2001
+
+
+
+An Act to establish the Economic Development Board.
+
+[1st August 1961]
