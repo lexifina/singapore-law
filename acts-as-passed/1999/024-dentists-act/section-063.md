@@ -1,0 +1,4 @@
+# 63. Repeal
+Part: PART VII REPEAL, TRANSITIONAL AND CONSEQUENTIAL AMENDMENTS
+
+The Dentists Act (Cap. 76) is repealed.
