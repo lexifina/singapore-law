@@ -1,0 +1,3 @@
+# 22. Repeal of section 43
+
+Section 43 of the principal Act is repealed.
