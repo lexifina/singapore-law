@@ -1,0 +1,36 @@
+# 20A. Undivided shares in goods forming part of bulk
+Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+
+(1) This section applies to a contract for the sale of a specified quantity of unascertained goods if the following conditions are met:
+
+(a) the goods or some of them form part of a bulk which is identified either in the contract or by subsequent agreement between the parties; and
+
+(b) the buyer has paid the price for some or all of the goods which are the subject of the contract and which form part of the bulk.
+
+[43/96]
+
+(2) Where this section applies, then (unless the parties agree otherwise), as soon as the conditions specified in paragraphs (a) and
+
+(b) of subsection (1) are met or at such later time as the parties may agree —
+
+(a) property in an undivided share in the bulk is transferred to the buyer; and
+
+(b) the buyer becomes an owner in common of the bulk.
+
+[43/96]
+
+(3) Subject to subsection (4), for the purposes of this section, the undivided share of a buyer in a bulk at any time shall be such share as the quantity of goods paid for and due to the buyer out of the bulk bears to the quantity of goods in the bulk at that time.
+
+[43/96]
+
+(4) Where the aggregate of the undivided shares of buyers in a bulk determined under subsection (3) would at any time exceed the whole of the bulk at that time, the undivided share in the bulk of each buyer shall be reduced proportionately so that the aggregate of the undivided shares is equal to the whole bulk.
+
+[43/96]
+
+(5) Where a buyer has paid the price for only some of the goods due to him out of a bulk, any delivery to the buyer out of the bulk shall, for the purposes of this section, be ascribed in the first place to the goods in respect of which payment has been made.
+
+[43/96]
+
+(6) For the purposes of this section, payment of part of the price for any goods shall be treated as payment for a corresponding part of the goods.
+
+[43/96]

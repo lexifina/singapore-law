@@ -1,0 +1,4 @@
+# 6. Goods which have perished
+Part: PART II FORMATION OF THE CONTRACT Contract of Sale
+
+Where there is a contract for the sale of specific goods, and the goods without the knowledge of the seller have perished at the time when the contract is made, the contract is void.

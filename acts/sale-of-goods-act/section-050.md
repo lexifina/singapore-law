@@ -1,0 +1,10 @@
+# 50. Damages for non-acceptance Buyer’s Remedies
+Part: PART VI ACTIONS FOR BREACH OF THE CONTRACT Seller’s Remedies
+
+(1) Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against him for damages for non-acceptance.
+
+(2) The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of events, from the buyer’s breach of contract.
+
+(3) Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been accepted or (if no time was fixed for acceptance) at the time of the refusal to accept.
+
+Buyer’s Remedies

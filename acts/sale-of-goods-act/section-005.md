@@ -1,0 +1,8 @@
+# 5. Existing or future goods
+Part: PART II FORMATION OF THE CONTRACT Contract of Sale
+
+(1) The goods which form the subject of a contract of sale may be existing goods, owned or possessed by the seller, or goods to be manufactured or acquired by him after the making of the contract of sale, in this Act called future goods.
+
+(2) There may be a contract for the sale of goods the acquisition of which by the seller depends on a contingency which may or may not happen.
+
+(3) Where by a contract of sale the seller purports to effect a present sale of future goods, the contract operates as an agreement to sell the goods.
