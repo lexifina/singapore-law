@@ -1,0 +1,11 @@
+# SECOND SCHEDULE
+
+Section 2
+
+DANGEROUS INFECTIOUS DISEASES
+
+(1) Plague.
+
+(2) Yellow Fever.
+
+[S 119/90]

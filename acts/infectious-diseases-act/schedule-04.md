@@ -1,0 +1,11 @@
+# FOURTH SCHEDULE
+
+Section 46
+
+DISEASES AGAINST WHICH A CHILD IS TO BE VACCINATED
+
+(1) Diphtheria.
+
+(2) Measles.
+
+[S 61/81; S 196/85]
