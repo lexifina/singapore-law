@@ -1,0 +1,4 @@
+# 17. Public servants for purposes of Penal Code
+Part: PART IV PROVISIONS RELATING TO STAFF
+
+The members, officers, employees and agents of the Authority shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
