@@ -1,0 +1,10 @@
+# 17. Prescribed foreign countries
+Part: PART III REQUESTS TO SINGAPORE Division 1 — Preliminary Provisions
+
+(1) The Minister may, for the purposes of this Part, by order declare a foreign country as a prescribed foreign country if there is in force a treaty, memorandum of understanding or other agreement between Singapore and that country under which that country has agreed to provide assistance in criminal matters to Singapore.
+
+(2) An order under subsection (1) may provide that the provisions of this Part shall apply to the foreign country subject to such conditions, exceptions or qualifications as are specified in the order, and in that event the provisions of this Part shall apply accordingly.
+
+(3) The Minister may by a subsequent order vary or revoke any order previously made under this section.
+
+2001 Ed. Criminal Matters CAP. 190A 17
