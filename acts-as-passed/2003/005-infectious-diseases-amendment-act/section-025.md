@@ -1,0 +1,7 @@
+# 25. Repeal and re-enactment of section 67
+
+Section 67 of the principal Act is repealed and the following section substituted therefor:
+
+“Immunity of Government, Agency, etc.
+
+67. No suit or other legal proceedings shall lie against the Government, the Agency or any other person for anything which is in good faith done or omitted to be done in the exercise of any power or the performance of any duty or function under this Act.”.
