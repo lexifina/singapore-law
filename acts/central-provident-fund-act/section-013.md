@@ -3,15 +3,15 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 (1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
-(a) an ordinary account from which, apart from section 15 (2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51 (b) or 77 (1) (h), (i), (l),
+(a) an ordinary account from which, apart from section 15 (2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51 (b) or 77 (1) (h), (i), (m),
 
-(m) or (p);
+(n) or (r);
 
-(b) a medisave account from which, apart from sections 15 (2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77 (1) (j) and (ja); and
+(b) a medisave account from which, apart from sections 15 (2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77 (1) (j) and (k); and
 
-(c) a special account from which no withdrawal may be made except under section 15 (2) to (5), section 17 or section 45 (2).
+(c) a special account from which no withdrawal may be made except under section 15 (2) to (5), section 17, section 45 (2) or in accordance with any regulations made under section 77 (1) (n).
 
-[32/84; 16/86; 5/87; 23/89; 30/89; 27/92; 10/94; 12/99]
+[32/84; 16/86; 5/87; 23/89; 30/89; 27/92; 10/94; 12/99; 39/2000]
 
 (2) Every ordinary account, medisave account and special account which was maintained by the Board for a member before 28th September 1984 shall be deemed to have been validly maintained.
 

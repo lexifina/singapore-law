@@ -25,9 +25,7 @@ Part: PART I PRELIMINARY
 
 (iii) the book, document or paper may be required as evidence in any proceedings for an offence under this Act or in any proceedings for the recovery of any moneys due to the Fund.
 
-(4) Subsection (3) shall apply, with the necessary modifications, to a person who is required by any regulations made under section 77 (1) (e) to contribute to the Fund as it applies to an employer; and
-
-a reference to salary in that subsection shall be construed as a reference to income of that person.
+(4) Subsection (3) shall apply, with the necessary modifications, to a person who is required by any regulations made under section 77 (1) (e) to contribute to the Fund as it applies to an employer; and a reference to salary in that subsection shall be construed as a reference to income of that person.
 
 [27/92]
 

@@ -3,9 +3,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (1) Except as may be provided for in any regulations made under section 77, no withdrawals made by the authority of the Board from the Fund under section 15 nor the rights of any member of the Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
-(2) Precious metals and securities purchased by a member under any scheme in accordance with any regulations made under section 77 which allow members to withdraw their moneys in the Fund for the purposes of investment.
-
-(2A) The proceeds from the sale of such precious metals and securities which a member is obliged to repay into the Fund shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
+(2) Precious metals and securities purchased by a member under any scheme in accordance with any regulations made under section 77 which allow members to withdraw their moneys in the Fund for the purposes of investment and the proceeds from the sale of such precious metals and securities which a member is obliged to repay into the Fund shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
 (3) Such precious metals, securities or proceeds shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securities or proceeds shall be deemed not to form part of the property of the member.
 

@@ -1,7 +1,13 @@
 # 3. Establishment and constitution of Central Provident Fund Board
 Part: PART I PRELIMINARY
 
-(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of a Chairman, a Deputy Chairman as may be appointed under section 4 (1) and (2) and such other members as may be appointed under section 4 (4).
+(1) For the purposes of this Act, there shall be a Board, called the Central Provident Fund Board, consisting of —
+
+(a) a Chairman appointed under section 4 (1);
+
+(b) a Deputy Chairman appointed under section 4 (2); and
+
+(c) such other members as may be appointed under section 4 (4).
 
 [27/92]
 

@@ -1,7 +1,7 @@
 # 2. Interpretation
 Part: PART I PRELIMINARY
 
-In this Act, unless the context otherwise requires —
+(1) In this Act, unless the context otherwise requires —
 
 ‘‘Board’’ means the Central Provident Fund Board constituted under section 3;
 
@@ -29,7 +29,7 @@ or
 
 (c) any manager, agent or person responsible for the payment of wages to an employee on behalf of an employer; and
 
-(d) the Government and Her Majesty’s Government in the United Kingdom in respect of such categories, classes or descriptions of officers or employees of such Government as may from time to time be declared by the President by notification in the Gazette to be employees for the purposes of this Act, but no such officer or employee employed by or on behalf of such Government shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith;
+(d) the Government and Her Majesty’s Government in the United Kingdom in respect of such categories, classes or descriptions of officers or employees of such Government as may from time to time be declared by the President by notification in the Gazette to be employees for the purposes of this Act;
 
 ‘‘flat’’ means a horizontal stratum of any building or part thereof, whether the stratum or part is on one or more levels or is partially or wholly below the surface of the ground;
 
@@ -61,6 +61,8 @@ or
 
 ‘‘special account’’ means a special account maintained under section 13;
 
-‘‘wages’’ means the remuneration in money, including any bonus, due or granted to a person in respect of his employment.
+‘‘wages’’ means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in the Gazette, specify.
 
-[19/83; 32/84; 16/86; 5/87; 10/94; 30/98]
+[19/83; 32/84; 16/86; 5/87; 10/94; 30/98; 39/2000]
+
+(2) No officer or employee employed by or on behalf of the Government or Her Majesty’s Government in the United Kingdom shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.

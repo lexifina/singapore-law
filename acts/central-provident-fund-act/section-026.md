@@ -17,7 +17,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [31/95]
 
-(5) For the purposes of this section —
+(5) In this section —
 
 ‘‘approved corporation’’ means any corporation approved by the Minister;
 

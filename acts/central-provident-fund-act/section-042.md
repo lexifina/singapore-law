@@ -1,11 +1,7 @@
 # 42. Persons insured under Scheme
 Part: PART V DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
-(1) Subject to the provisions of this Part —
-
-(a) every member of the Fund for whom any contribution has been paid into the Fund during the 6 months prior to 14th May 1989; and
-
-(b) every member of the Fund, other than members described in paragraph (a), for whom any contribution has been paid into the Fund on or after 14th May 1989, shall be insured under the Scheme.
+(1) Subject to the provisions of this Part, every member of the Fund for whom any contribution has been paid into the Fund on or after 14th May 1989 shall be insured under the Scheme.
 
 [23/89]
 

@@ -29,7 +29,7 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 [12/99]
 
-(7) Any moneys received or recovered by the Board from any member under subsection (5) or (6) shall be refunded forthwith to the Government.
+(7) Any moneys received or recovered by the Board from any member under subsection (5) or (6) shall be refunded immediately to the Government.
 
 [12/99]
 

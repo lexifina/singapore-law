@@ -55,7 +55,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (b) where any further advances have been made by a prior mortgagee or chargee after the Board has given notice in writing of the charge under subsection (1) to the prior mortgagee or chargee or after the acceptance by the Registrar of the instrument to register or notify the charge under subsection (4), such further advances shall not rank in priority to the Board’s charge under subsection (1).
 
-[19/83; S 227/95]
+[19/83; S227/95]
 
 (9) Notwithstanding subsections (1) and (8), advances, interest and other moneys secured by a mortgage or charge on an immovable property may, with the agreement of the Board and subject to such conditions as the Board may impose, rank in priority or in pari passu to the Board’s charge under subsection (1) or any mortgage or charge created in favour of the Board.
 

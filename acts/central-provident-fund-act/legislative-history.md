@@ -14,13 +14,13 @@
 
 7. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance 1959 Date of First Reading : 22.9.59 (Bill No. 31/59 published on 30.9.59) Date of Second and Third Readings : 11.11.59 Date of commencement : 20.11.59
 
-8. Ordinance 32 of 1963 — Central Provident Fund (Amendment) Ordinance 1963 Date of First Reading : 28.11.63 (Bill No. 13/63 published on 6.12.63) Date of Second Reading : 24.7.63 Referred to Select Committee : Records not available Date of Third Reading : 20.12.63 Date of commencement : 28.12.63 (section 4) 1.2.64 (sections 2, 3 and 5 to 11)
+8. Ordinance 32 of 1963 — Central Provident Fund (Amendment) Ordinance 1963 Date of First Reading : 28.11.63 (Bill No. 13/63 published on 6.12.63) Date of Second and Third Readings : 20.12.63 Date of commencement : 28.12.63 (section 4) 1.2.64 (sections 2, 3 and 5 to 11)
 
 9. Act 25 of 1968 — Central Provident Fund (Amendment) Act 1968 Date of First Reading : 10.7.68 (Bill No. 26/68 published on 13.7.68) Date of Second and Third Readings : 1.8.68 Date of commencement : 1.9.68
 
-10. Act 55 of 1970 — Central Provident Fund (Amendment) Act 1970 Date of First Reading : 4.11.70 (Bill No. 43/70 published on 9.11.70) Date of Second and Third Readings : 30.12.70 Date of commencement : 1.1.71 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
+10. Act 55 of 1970 — Central Provident Fund (Amendment) Act 1970 Date of First Reading : 4.11.70 (Bill No. 43/70 published on 9.11.70) Date of Second and Third Readings : 30.12.70 Date of commencement : 1.1.71
 
-11. Act 42 of 1973 — Central Provident Fund (Amendment) Act 1973 Date of First Reading : 11.7.73 (Bill No. 21/73 published on 13.7.73) Date of Second and Third Readings : 25.7.73 Date of commencement : 1.9.73
+11. Act 42 of 1973 — Central Provident Fund (Amendment) Act 1973 Date of First Reading : 11.7.73 (Bill No. 21/73 published on 13.7.73) Date of Second and Third Readings : 25.7.73 Date of commencement : 1.9.73 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
 
 12. Act 22 of 1978 — Central Provident Fund (Amendment) Act 1978 Date of First Reading : 22.3.78 (Bill No. 16/78 published on 23.3.78) Date of Second and Third Readings : 7.4.78 Date of commencement : 26.4.78
 
@@ -28,9 +28,9 @@
 
 14. Act 19 of 1981 — Central Provident Fund (Amendment) Act 1981 Date of First Reading : 18.2.81 (Bill No. 3/81 published on 20.2.81) Date of Second Reading : 6.3.81 Referred to Select Committee : Parl 2 of 1981 presented to Parliament on 13.7.81 Date of Third Reading : 14.8.81 Date of commencement : 1.11.81
 
-15. Act 20 of 1981 — Central Provident Fund (Amendment No. 2) Act 1981 Date of First Reading : 21.7.81 (Bill No. 21/81 published on 24.7.81) Date of Second and Third Readings : 14.8.81 Date of commencement : 4.9.81 (except sections 4, 5 and 7) 1.1.81 (section 5) 1.6.81 (sections 4 and 7) LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
+15. Act 20 of 1981 — Central Provident Fund (Amendment No. 2) Act 1981 Date of First Reading : 21.7.81 (Bill No. 21/81 published on 24.7.81) Date of Second and Third Readings : 14.8.81 Date of commencement : 4.9.81 (except sections 4, 5 and 7) 1.1.81 (section 5) 1.6.81 (sections 4 and 7)
 
-16. Act 19 of 1983 — Central Provident Fund (Amendment) Act 1983 Date of First Reading : 30.8.83 (Bill No. 14/83 published on 7.9.83) Date of Second and Third Readings : 20.12.83 Date of commencement : 21.1.84
+16. Act 19 of 1983 — Central Provident Fund (Amendment) Act 1983 Date of First Reading : 30.8.83 (Bill No. 14/83 published on 7.9.83) Date of Second and Third Readings : 20.12.83 Date of commencement : 21.1.84 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
 
 17. Act 32 of 1984 — Central Provident Fund (Amendment) Act 1984 Date of First Reading : 24.7.84 (Bill No. 27/84 published on 3.8.84) Date of Second and Third Readings : 24.8.84 Date of commencement : 28.9.84
 
@@ -40,9 +40,9 @@
 
 20. Act 5 of 1987 — Central Provident Fund (Amendment) Act 1987 Date of First Reading : 9.12.86 (Bill No. 30/86 published on 10.12.86) Date of Second and Third Readings : 26.1.87 Date of commencement : 1.1.87 (except section 5) 1.4.87 (section 5)
 
-21. Act 30 of 1987 — Central Provident Fund (Amendment No. 2) Act 1987 Date of First Reading : 9.11.87 (Bill No. 20/87 published on 11.11.87) Date of Second and Third Readings : 30.11.87 Date of commencement : 1.3.88 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
+21. Act 30 of 1987 — Central Provident Fund (Amendment No. 2) Act 1987 Date of First Reading : 9.11.87 (Bill No. 20/87 published on 11.11.87) Date of Second and Third Readings : 30.11.87 Date of commencement : 1.3.88
 
-22. Act 5 of 1989 — Statutes (Miscellaneous Amendments) Act 1989 Date of First Reading : 16.1.89 (Bill No. 2/89 published on 16.1.89) Date of Second and Third Readings : 26.1.89 Date of commencement : 3.3.89
+22. Act 5 of 1989 — Statutes (Miscellaneous Amendments) Act 1989 Date of First Reading : 16.1.89 (Bill No. 2/89 published on 16.1.89) Date of Second and Third Readings : 26.1.89 Date of commencement : 3.3.89 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
 
 23. Act 23 of 1989 — Central Provident Fund (Amendment) Act 1989 Date of First Reading : 13.3.89 (Bill No. 22/89 published on 14.3.89) Date of Second and Third Readings : 7.4.89 Date of commencement : 14.5.89
 
@@ -52,9 +52,9 @@
 
 26. Act 22 of 1990 — Central Provident Fund (Amendment No. 2) Act 1990 Date of First Reading : 30.8.90 (Bill No. 21/90 published on 31.8.90) Date of Second and Third Readings : 4.10.90 Date of commencement : 1.1.90
 
-27. Act 11 of 1991 — Statutes (Miscellaneous Amendments) Act 1991 Date of First Reading : 3.1.91 (Bill No. 4/91 published on 4.1.91) Date of Second and Third Readings : 14.1.91 Date of commencement : 30.11.91 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
+27. Act 11 of 1991 — Statutes (Miscellaneous Amendments) Act 1991 Date of First Reading : 3.1.91 (Bill No. 4/91 published on 4.1.91) Date of Second and Third Readings : 14.1.91 Date of commencement : 30.11.91
 
-28. Act 3 of 1992 — Central Provident Fund (Amendment) Act 1992 Date of First Reading : 13.1.92 (Bill No. 4/92 published on 14.1.92) Date of Second and Third Readings : 27.2.92 Date of commencement : 1.4.92
+28. Act 3 of 1992 — Central Provident Fund (Amendment) Act 1992 Date of First Reading : 13.1.92 (Bill No. 4/92 published on 14.1.92) Date of Second and Third Readings : 27.2.92 Date of commencement : 1.4.92 LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
 
 29. Act 27 of 1992 — Central Provident Fund (Amendment No. 2) Act 1992 Date of First Reading : 29.5.92 (Bill No. 28/92 published on 1.6.92) Date of Second and Third Readings : 31.7.92 Date of commencement : 28.8.92
 
@@ -80,4 +80,14 @@
 
 40. Act 41 of 1999 — Info-communications Development Authority of Singapore Act 1999 (Consequential amendments made by) Date of First Reading : 11.10.99 (Bill No. 36/99 published on 12.10.99) Date of Second and Third Readings : 23.11.99 Date of commencement : 1.12.99
 
-41. Act 43 of 1999 — Telecommunications Act (Consequential amendments made by) Date of First Reading : 11.10.99 (Bill No. 33/99 published on 12.10.99) Date of Second and Third Readings : 23.11.99 Date of commencement : 1.12.99
+41. Act 43 of 1999 — Telecommunications Act 1999 (Consequential amendments made by) Date of First Reading : 11.10.99 (Bill No. 33/99 published on 12.10.99) Date of Second and Third Readings : 23.11.99 Date of commencement : 1.12.99
+
+42. Act 9 of 2000 — Defence Science and Technology Agency Act 2000 (Consequential amendments made by) Date of First Reading : 17.1.2000 (Bill No. 1/2000 published on 18.1.2000) Date of Second and Third Readings : 21.2.2000 Date of commencement : 15.3.2000
+
+43. Act 22 of 2000 — Auctioneer’s Licences (Amendment) Act 2000 (Consequential amendments made by) Date of First Reading : 22.5.2000 (Bill No. 17/2000 published on 23.5.2000) Date of Second and Third Readings : 3.7.2000 Date of commencement : 1.8.2000
+
+44. Act 39 of 2000 — Central Provident Fund (Amendment) Act 2000 Date of First Reading : 13.11.2000 (Bill No. 34/2000 published on 13.11.2000) Date of Second and Third Readings : 22.11.2000 Date of commencement : 28.12.2000 (except sections 2, 3, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19) 1.1.2001 (sections 2, 3, 4, 6, 8, 17, 18 and 19 (b)) 1.3.2001 (sections 10, 11, 12, 13, 14, 15, 16 and 19 (a)) LEGISLATIVE HISTORY CENTRAL PROVIDENT FUND ACT (CHAPTER 36)
+
+45. Act 3 of 2001 — Intellectual Property Office of Singapore Act 2001 (Consequential amendments made by) Date of First Reading : 12.1.2001 (Bill No. 1/2001 published on 13.1.2001) Date of Second and Third Readings : 22.2.2001 Date of commencement : 1.4.2001
+
+46. Act 17 of 2001 — Singapore Land Authority Act 2001 (Consequential amendments made by) Date of First Reading : 5.3.2001 (Bill No. 17/2001 published on 7.3.2001) Date of Second and Third Readings : 19.4.2001 Date of commencement : 1.6.2001

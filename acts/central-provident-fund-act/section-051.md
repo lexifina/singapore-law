@@ -9,7 +9,7 @@ The Minister may make such regulations as are necessary and expedient for the pu
 
 (c) prescribe the amount of the insured sum;
 
-(d) provide for the refund of any premium and the circum- stances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(d) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
 (e) provide for different periods of cover in respect of different amounts of premium paid by an insured person;
 

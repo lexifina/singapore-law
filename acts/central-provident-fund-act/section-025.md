@@ -9,8 +9,6 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (3) If any person nominated (other than a widow) is below the age of 18 years at the time of payment of the amount payable out of the Fund, his portion of the amount payable shall similarly be paid to the Public Trustee for the benefit of the nominated person.
 
-(4) The receipt of a person or persons nominated under subsection
-
-(1) or of the Public Trustee shall be a discharge to the Board for such portions of the moneys payable out of the Fund on the death of a member as are payable to the person or persons or the Public Trustee under subsection (2) or (3).
+(4) The receipt of a person or persons nominated under subsection (1) or of the Public Trustee shall be a discharge to the Board for such portions of the moneys payable out of the Fund on the death of a member as are payable to the person or persons or the Public Trustee under subsection (2) or (3).
 
 (5) Any nomination made by a member of the Fund under subsection (1) shall be revoked by his marriage, whether the marriage was contracted before or after 15th May 1980.

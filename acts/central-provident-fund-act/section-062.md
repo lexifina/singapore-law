@@ -1,7 +1,7 @@
 # 62. Notice to attend court
 Part: PART VII OFFENCES, PENALTIES AND PROCEEDINGS
 
-(1) Where an officer of the Board has reasonable ground for believing that a person has committed an offence under this Act or any subsidiary legislation made thereunder, he may, in lieu of applying to a court for a summons, serve upon that person a prescribed notice, requiring that person to attend at the court, at the hour and on the date specified in the notice.
+(1) Where an officer of the Board has reasonable ground for believing that a person has committed an offence under this Act, he may, in lieu of applying to a court for a summons, serve upon that person a prescribed notice, requiring that person to attend at the court, at the hour and on the date specified in the notice.
 
 [30/98]
 

@@ -13,7 +13,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) for obtaining a loan to finance or re-finance such purchase; and
 
-(iii) in connection with withdrawals of any money from the Fund, the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+(iii) in connection with withdrawals of any money from the Fund, the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
 
 (1A) Where the immovable property is purchased or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
 

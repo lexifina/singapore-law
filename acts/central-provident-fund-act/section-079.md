@@ -11,7 +11,7 @@ Part: PART VIII MISCELLANEOUS
 
 (2) If any such reciprocal agreement containing such provisions is entered into, the definition of employee in section 2 shall be deemed to be modified accordingly, so that —
 
-(a) no person shall be required to contribute to the Fund in respect of any period during which he was not employed in Singapore; and
+(a) no person shall be required to contribute to the Fund in respect of any period during which he was not employed in Singapore;
 
 (b) no employer shall be required to contribute in respect of any employee during that period; and
 
@@ -23,31 +23,29 @@ Sections 7, 8, 70, 75 and 77
 
 RATES OF CONTRIBUTION
 
-1. Subject to paragraphs 2 to 7, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 2 to 7, with effect from 1st January 2001 the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-Above 55 but not more than Above 60 but not more than 55 Years of Age and below 60 Years of Age 65 Years of Age Above 65 Years of Age Total amount of Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s wages for the employer for the wages for the employer for the wages for the employer for the wages for the employer for the wages for the calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month.
+Above 55 but not more than 60 Years of Above 60 but not more than 65 Years of 55 Years of Age and below Age Age Above 65 Years of Age Total amount of the Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable employee’s wages payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s for the calendar employer for the wages for the employer for the wages for the employer for the wages for the employer for the wages for the month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month.
 
-(1) (2) (3) (4) (5) (6) (7) (8) (9) Not exceeding $50 NIL NIL NIL NIL NIL NIL NIL NIL Exceeding $50 but An amount equal NIL An amount equal NIL An amount equal NIL An amount equal NIL not exceeding $200 to 10% of the total to 4% of the total to 2% of the total to 2% of the total amount of the amount of the amount of the amount of the employee’s wages employee’s wages employee’s wages employee’s wages for the month. for the month. for the month. for the month.
+(1) (2) (3) (4) (5) (6) (7) (8) (9) Not exceeding $50 NIL NIL NIL NIL NIL NIL NIL NIL Exceeding $50 but An amount equal NIL An amount equal NIL An amount equal NIL An amount equal NIL not exceeding $200 to 16% of the total to 6% of the total to 3.5% of the total to 3.5% of the total amount of the amount of the amount of the amount of the employee’s wages employee’s wages employee’s wages employee’s wages for the month. for the month. for the month. for the month.
 
-Exceeding $200 An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal but not exceeding to the sum of — to the sum of — to the sum of — to the sum of 1/4 of to the sum of — to the sum of 1/6 of to the sum of — to the sum of 1/9 of $363 the difference the difference the difference
+Exceeding $200 but An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal not exceeding $363 to the sum of — to the sum of — to the sum of — to the sum of 1⁄4 of to the sum of — to the sum of 1⁄6 of to the sum of — to the sum of 1⁄9 of the difference the difference the difference
 
-(a) 15% of the (a) 5% of the total (a) 4% of the total (a) 2% of the total (a) 2% of the total between the total between the total between the total total amount of amount of the amount of the amount of the amount of the amount of the amount of the amount of the the employee’s employee’s employee’s employee’s employee’s employee’s wages employee’s wages employee’s wages wages for the wages for the wages for the wages for the wages for the for the month and for the month and for the month and month; and month; and month; and month; and month; and
+(a) 21% of the (a) 5% of the total (a) 6% of the total (a) 3.5% of the (a) 3.5% of the between the total between the total between the total total amount of amount of the amount of the total amount of total amount of amount of the amount of the amount of the the employee’s employee’s employee’s the employee’s the employee’s employee’s wages employee’s wages employee’s wages wages for the wages for the wages for the wages for the wages for the for the month and for the month and for the month and month; and month; and month; and month; and month; and
 
 $200. $200. $200.
 
-(b) 1/3 of the (b) 1/3 of the (b) 1/4 of the (b) 1/6 of the (b) 1/9 of the difference difference difference difference difference between the between the between the between the between the total amount of total amount of total amount of total amount of total amount of the employee’s the employee’s the employee’s the employee’s the employee’s wages for the wages for the wages for the wages for the wages for the month and month and month and month and month and $200. $200. $200. $200. $200.
+(b) 1⁄3 of the (b) 1⁄3 of the (b) 1⁄4 of the (b) 1⁄6 of the (b) 1⁄9 of the difference difference difference difference difference between the between the between the between the between the total amount of total amount of total amount of total amount of total amount of the employee’s the employee’s the employee’s the employee’s the employee’s wages for the wages for the wages for the wages for the wages for the month and month and month and month and month and $200. $200. $200. $200. $200.
 
-Above 55 but not more than Above 60 but not more than 55 Years of Age and below 60 Years of Age 65 Years of Age Above 65 Years of Age Total amount of Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s wages for the employer for the wages for the employer for the wages for the employer for the wages for the employer for the wages for the calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month.
+Above 55 but not more than 60 Years of Above 60 but not more than 65 Years of 55 Years of Age and below Age Age Above 65 Years of Age Total amount of the Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable employee’s wages payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s for the calendar employer for the wages for the employer for the wages for the employer for the wages for the employer for the wages for the month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month.
 
 (1) (2) (3) (4) (5) (6) (7) (8) (9) Exceeding $363 An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal to the sum of — to the sum of — to the sum of — to the sum of — to the sum of — to the sum of — to the sum of — to the sum of —
 
-(a) 30% of the (a) 20% of the (a) 16.5% of the (a) 12.5% of the (a) 9.5% of the (a) 7.5% of the (a) 7% of the (a) 5% of the employee’s employee’s employee’s employee’s employee’s employee’s employee’s employee’s ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages for the month for the month for the month for the month for the month for the month for the month for the month subject to a subject to a subject to a subject to a subject to a subject to a subject to a subject to a maximum of maximum of maximum of maximum of maximum of maximum of maximum of maximum of $1,800; and $1,200; and $990; and $750; and $570; and $450; and $420; and $300; and
+(a) 36% of the (a) 20% of the (a) 18.5% of the (a) 12.5% of the (a) 11% of the (a) 7.5% of the (a) 8.5% of the (a) 5% of the employee’s employee’s employee’s employee’s employee’s employee’s employee’s employee’s ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages for the month for the month for the month for the month for the month for the month for the month for the month subject to a subject to a subject to a subject to a subject to a subject to a subject to a subject to a maximum of maximum of maximum of maximum of maximum of maximum of maximum of maximum of $2,160; and $1,200; and $1,110; and $750; and $660; and $450; and $510; and $300; and
 
-(b) 30% of the (b) 20% of the (b) 16.5% of the (b) 12.5% of the (b) 9.5% of the (b) 7.5% of the (b) 7% of the (b) 5% of the amount of the amount of the amount of the amount of the amount of the amount of the amount of the amount of the additional additional additional additional additional additional additional additional wages payable wages payable wages payable wages payable wages payable wages payable wages payable wages payable to the to the employee to the to the employee to the to the employee to the to the employee employee in in the month. employee in in the month. employee in in the month. employee in in the month.
+(b) 36% of the (b) 20% of the (b) 18.5% of the (b) 12.5% of the (b) 11% of the (b) 7.5% of the (b) 8.5% of the (b) 5% of the amount of the amount of the amount of the amount of the amount of the amount of the amount of the amount of the additional additional additional additional additional additional additional additional wages payable wages payable wages payable wages payable wages payable wages payable wages payable wages payable to the to the to the to the to the to the to the to the employee in employee in employee in employee in employee in employee in employee in employee in the month. the month. the month. the month. the month. the month. the month. the month.
 
-the month. the month. the month. the month.
-
-[S 645/98]
+[S 612/2000]
 
 2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
 
@@ -95,83 +93,99 @@ FIRST SCHEDULE — continued
 
 (4) Civil Aviation Authority of Singapore.
 
-(5) Commercial and Industrial Security Corporation.
+(5) Civil Service College.
 
-(6) Building and Construction Authority.
+(6) Commercial and Industrial Security Corporation.
 
-(7) Economic Development Board.
+(7) Building and Construction Authority.
 
-(8) Housing and Development Board.
+(8) Defence Science and Technology Agency.
 
-(9) Info-communications Development Authority of Singapore.
+(9) Economic Development Board.
 
-(10) Inland Revenue Authority of Singapore.
+(10) Energy Market Authority of Singapore.
 
-(11) Institute of Southeast Asian Studies.
+(11) Health Promotion Board.
 
-(12) Institute of Technical Education, Singapore.
+(12) Health Sciences Authority.
 
-(13) Jurong Town Corporation.
+(13) Housing and Development Board.
 
-(14) Majlis Ugama Islam, Singapura.
+(14) Info-communications Development Authority of Singapore.
 
-(15) Maritime and Port Authority of Singapore.
+(15) Inland Revenue Authority of Singapore.
 
-(16) Land Transport Authority of Singapore.
+(16) Institute of Southeast Asian Studies.
 
-(17) Monetary Authority of Singapore.
+(17) Institute of Technical Education, Singapore.
 
-(18) Nanyang Polytechnic.
+(18) Intellectual Property Office of Singapore.
 
-(19) Nanyang Technological University.
+(19) Jurong Town Corporation.
 
-(20) National Arts Council.
+(20) Majlis Ugama Islam, Singapura.
 
-(21) National Heritage Board.
+(21) Maritime and Port Authority of Singapore.
 
-(22) National Library Board.
+(22) Land Transport Authority of Singapore.
 
-(23) National Parks Board.
+(23) Monetary Authority of Singapore.
 
-(24) National Science and Technology Board.
+(24) Nanyang Polytechnic.
+
+(25) Nanyang Technological University.
+
+(26) National Arts Council.
+
+(27) National Heritage Board.
 
 FIRST SCHEDULE — continued
 
-(25) National University of Singapore.
+(28) National Library Board.
 
-(26) Ngee Ann Polytechnic.
+(29) National Parks Board.
 
-(27) People’s Association.
+(30) National Science and Technology Board.
 
-(28) Preservation of Monuments Board.
+(31) National University of Singapore.
 
-(29) Public Utilities Board.
+(32) Ngee Ann Polytechnic.
 
-(30) Science Centre Board.
+(33) People’s Association.
 
-(31) Sentosa Development Corporation.
+(34) Preservation of Monuments Board.
 
-(32) Singapore Broadcasting Authority.
+(35) Public Utilities Board.
 
-(33) Singapore Corporation of Rehabilitative Enterprises.
+(36) Science Centre Board.
 
-(34) Singapore Productivity and Standards Board.
+(37) Sentosa Development Corporation.
 
-(35) Singapore Polytechnic.
+(38) Singapore Broadcasting Authority.
 
-(36) Singapore Sports Council.
+(39) Singapore Corporation of Rehabilitative Enterprises.
 
-(37) Singapore Totalisator Board.
+(40) Singapore Land Authority.
 
-(38) Singapore Tourism Board.
+(41) Singapore Productivity and Standards Board.
 
-(39) Temasek Polytechnic.
+(42) Singapore Polytechnic.
 
-(40) Trade Development Board.
+(43) Singapore Sports Council.
 
-(41) Urban Redevelopment Authority.
+(44) Singapore Totalisator Board.
 
-[29/95; 1/96; 7/96; 4/99; 41/99; S 273/94; S 570/95; S 645/98]
+(45) Singapore Tourism Board.
+
+(46) Temasek Polytechnic.
+
+(47) Trade Development Board.
+
+(48) Urban Redevelopment Authority.
+
+[29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; S 273/94;
+
+S 570/95; S 645/98; S 167/2001; S 313/2001; S 550/2001]
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
@@ -181,6 +195,8 @@ FIRST SCHEDULE — continued
 
 (c) pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the First Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23); and
 
-(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations.
+FIRST SCHEDULE — continued
+
+(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23).
 
 [S 645/98]

@@ -13,21 +13,25 @@ Part: PART IV HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(4) The Board may, on application being made to it by a member, exempt him from the Scheme if the Board is satisfied that —
+(4) The Board may, on the application being made to it by a member, exempt the member from the Scheme.
 
-(a) there is in force an appropriate policy of insurance and the amount payable under the policy is sufficient to discharge the outstanding loan owing to the Housing Authority or approved mortgagee in the event of the death or incapacity of that member; or
+[39/2000]
 
-(b) the amount of the loan owing to the Housing Authority or the approved mortgagee does not exceed $3,000 or such other amount as may be fixed from time to time by the Minister and the loan will be repaid in 2 years or such other period as may be fixed by the Minister.
+(4A) Any exemption by the Board under subsection (4) shall be subject to such terms and conditions as may be prescribed by the Minister.
 
-[30/87]
+[39/2000]
 
 (5) The Scheme shall not apply to —
 
-(a) any member if he is 60 years of age or above or such other age as the Minister may prescribe at the time he is required to join the Scheme; and
+(a) any member if he is 65 years of age or above or such other age as the Minister may prescribe at the time he is required to join the Scheme; and
 
 (b) any member or class of members whom the Minister may, by notification in the Gazette, specify.
 
-[30/87; 10/94]
+[30/87; 10/94; 39/2000]
+
+(5A) Notwithstanding subsection (5), the Scheme shall not apply to any member who is 60 years of age or above but below 65 years of age on 1st March 2001 unless that member opts, in such manner as the Board may determine, to join the Scheme.
+
+[39/2000]
 
 (6) Any person who became a member of the Scheme prior to 1st March 1988 shall continue to be a member of the Scheme subject to the same term, condition and restriction which were in force before that date.
 

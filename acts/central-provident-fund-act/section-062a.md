@@ -1,7 +1,7 @@
 # 62A. Service of notice and summons
 Part: PART VII OFFENCES, PENALTIES AND PROCEEDINGS
 
-(1) Every notice to attend court issued under section 62, and every summons issued by a court, against any person in connection with any offence under this Act or any subsidiary legislation made thereunder may be served on the person —
+(1) Every notice to attend court issued under section 62, and every summons issued by a court, against any person in connection with any offence under this Act may be served on the person —
 
 (a) by delivering it to the person or to some adult member of his family at his last known place of residence;
 

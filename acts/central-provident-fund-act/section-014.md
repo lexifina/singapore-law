@@ -5,7 +5,7 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 [32/84; 31/95]
 
-(2) Any cash grant paid into the Fund under subsection (1) shall be deemed to be contributions for the purposes of this Act and such cash grant or interest thereon may be withdrawn under the provisions of this Act or any regulations made thereunder for such purposes and in such manner as may be prescribed by the regulations.
+(2) Any cash grant paid into the Fund under subsection (1) shall be deemed to be contributions for the purposes of this Act and such cash grant or interest thereon may be withdrawn under the provisions of this Act for such purposes and in such manner as may be prescribed by the regulations.
 
 [31/95]
 

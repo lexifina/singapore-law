@@ -13,6 +13,10 @@ Part: PART I PRELIMINARY
 
 [27/92]
 
+(3A) The Minister, with the President’s concurrence under Article 22A (1) (b) of the Constitution, may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or Deputy Chairman, as the case may be.
+
+[39/2000]
+
 (4) The other members of the Board shall be appointed by the Minister with the President’s concurrence under Article 22A (1) (b) of the Constitution and shall consist of the following persons:
 
 (a) 2 persons holding office of emolument under the Government;
@@ -42,3 +46,7 @@ Part: PART I PRELIMINARY
 [11/91; 27/92]
 
 (10) Any person who is a Member of Parliament shall be disqualified from being appointed to or remaining a member of the Board.
+
+(11) The Chairman may, by instrument in writing, authorise any member of the Board to exercise any power or perform any function conferred on the Chairman by or under this Act.
+
+[39/2000]

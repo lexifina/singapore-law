@@ -6,72 +6,80 @@ SPECIFIED ACTS RELATING TO SELF-EMPLOYED PERSONS 1. Animals and Birds Act (Cap. 
 
 2. Arms and Explosives Act (Cap. 13).
 
-3. Auctioneers’ Licences Act (Cap. 16).
+3. Appraisers and House Agents Act (Cap. 16).
 
 4. Business Registration Act (Cap. 32).
 
 5. Child Care Centres Act (Cap. 37A).
 
-6. Commodity Futures Act (Cap. 48A).
+6. Commodity Trading Act (Cap. 48A).
 
-7. Customs Act (Cap. 70).
+7. Control of Plants Act (Cap. 57A).
 
-8. Electrical Workers and Contractors Licensing Act (Cap. 89).
+8. Control of Vectors and Pesticides Act (Cap. 59).
 
-9. Employment Agencies Act (Cap. 92).
+9. Customs Act (Cap. 70).
 
-10. Environmental Public Health Act (Cap. 95).
+10. Electrical Workers and Contractors Licensing Act (Cap. 89).
 
-11. Environmental Pollution Control Act 1999 (Act 9 of 1999).
+11. Employment Agencies Act (Cap. 92).
 
-12. Factories Act (Cap. 104).
+12. Environmental Pollution Control Act (Cap. 94A).
 
-13. Films Act (Cap. 107).
+13. Environmental Public Health Act (Cap. 95).
 
-14. Fisheries Act (Cap. 111).
+14. Factories Act (Cap. 104).
 
-15. Futures Trading Act (Cap. 116).
+15. Films Act (Cap. 107).
 
-16. Homes for the Aged Act (Cap. 126A).
+16. Fisheries Act (Cap. 111).
 
-17. Maritime and Port Authority of Singapore Act (Cap. 170A).
+17. Futures Trading Act (Cap. 116).
 
-18. Martial Arts Instruction Act (Cap. 171).
+18. Homes for the Aged Act (Cap. 126A).
 
-19. Massage Establishments Act (Cap. 173).
+19. Maritime and Port Authority of Singapore Act (Cap. 170A).
 
-20. Money-changing and Remittance Businesses Act (Cap. 187).
+20. Martial Arts Instruction Act (Cap. 171).
 
-21. Moneylenders Act (Cap. 188).
+21. Massage Establishments Act (Cap. 173).
 
-22. Parking Places Act (Cap. 214).
+22. Money-changing and Remittance Businesses Act (Cap. 187).
 
-23. Pawnbrokers Act (Cap. 222).
+23. Moneylenders Act (Cap. 188).
 
-24. Postal Services Act 1999 (Act 42 of 1999) 25. Planning Act (Cap. 232).
+24. Parking Places Act (Cap. 214).
 
-26. Price Control Act (Cap. 244).
+25. Pawnbrokers Act (Cap. 222).
 
-27. Private Investigation and Security Agencies Act (Cap. 249).
+26. Planning Act (Cap. 232).
 
-28. Public Entertainments Act (Cap. 257).
+27. Postal Services Act (Cap. 237A).
 
-THIRD SCHEDULE — continued 29. Public Utilities Act (Cap. 261).
+28. Price Control Act (Cap. 244).
 
-30. Road Traffic Act (Cap. 276).
+THIRD SCHEDULE — continued 29. Private Investigation and Security Agencies Act (Cap. 249).
 
-31. Rubber Industry Act (Cap. 280).
+30. Public Entertainments and Meetings Act (Cap. 257).
 
-32. Sale of Food Act (Cap. 283).
+31. Public Utilities Act 2001 (Act 8 of 2001).
 
-33. Secondhand Dealers Act (Cap. 288).
+32. Road Traffic Act (Cap. 276).
 
-34. Securities Industry Act (Cap. 289).
+33. Rubber Industry Act (Cap. 280).
 
-35. Sewerage and Drainage Act 1999 (Act 10 of 1999).
+34. Sale of Food Act (Cap. 283).
 
-36. Singapore Tourism Board Act (Cap. 305B).
+35. Secondhand Dealers Act (Cap. 288).
 
-37. Telecommunications Act 1999 (Act 43 of 1999).
+36. Securities Industry Act (Cap. 289).
 
-[27/92; 7/96; 43/99; S 34/93; S 520/99]
+37. Sewerage and Drainage Act (Cap. 294).
+
+38. Singapore Tourism Board Act (Cap. 305B).
+
+39. Telecommunications Act (Cap. 323).
+
+40. Wholesome Meat and Fish Act (Cap. 349A).
+
+[27/92; 7/96; 43/99; 22/2000; S 34/93; S 520/99; S 258/2000; S 343/2000]

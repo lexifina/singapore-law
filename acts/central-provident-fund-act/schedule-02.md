@@ -26,9 +26,9 @@ FINANCIAL PROVISIONS
 
 (d) such other matters arising from the audit as he considers necessary.
 
-(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board, and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
-
 SECOND SCHEDULE — continued
+
+(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board, and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
 
 5.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 

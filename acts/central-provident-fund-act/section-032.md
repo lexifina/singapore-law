@@ -9,18 +9,14 @@ Part: PART IV HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(3) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency —
+(3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act.
 
-(a) may be paid in cash; or
+[39/2000]
 
-(b) may be recovered from the future contributions paid into the Fund for that member.
+(4) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may determine.
 
-[30/87]
+[39/2000]
 
-(4) The deficiency referred to in subsection (3) shall be paid within such time as may be specified by the Board.
+(5) Where a joint-owner of an immovable property is insured under the Scheme, the Board may permit a joint-owner who is a spouse of the first-mentioned joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the first-mentioned joint-owner is liable to pay under the Scheme.
 
-[30/87]
-
-(5) Where the joint-owner of an immovable property is insured under the Scheme, the Board may permit the spouse of that joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the joint-owner is liable to pay under the Scheme.
-
-[30/87]
+[39/2000]

@@ -3,7 +3,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board.
 
-(1A) Subject to sections 14, 14A, 15A and 25 (2) and (3) under subsection (1) and any regulations and rules made under section 77, the authority shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
+(1A) Subject to sections 14, 14A, 15A and 25 (2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
 
 [12/99]
 
@@ -73,13 +73,21 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(9) Where a member or his spouse or both of them jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
 (a) to withdraw the minimum sum from his account with an approved bank or his retirement account; or
 
-(b) to surrender his approved annuity, if the member or his spouse (or both of them), as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, or by them jointly, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+(b) to surrender his approved annuity, if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
 
-[5/87]
+[5/87; 39/2000]
+
+(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+
+(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity, if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+
+[39/2000]
 
 (10) Where a member or his spouse or both of them jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
@@ -88,6 +96,14 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 (b) to surrender his approved annuity, if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6) in the event the property is sold or otherwise disposed of.
 
 [5/87]
+
+(10A) Where a member and one or more persons jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+
+(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity, if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
+
+[39/2000]
 
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
@@ -101,7 +117,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87; 10/94]
 
-(15) The following provisions shall apply to a charge created over any immovable property under subsection (9):
+(15) The following provisions shall apply to a charge created over any immovable property under subsection (9) or (9A):
 
 (a) the charge shall be subject to all prior statutory rights and charges of any public authority over the immovable property and to all encumbrances registered or notified prior to the date of the notification of the charge;
 
@@ -111,7 +127,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) the power to sell, assign and dispose of all rights, benefits and interests under the agreement for the sale and purchase of the immovable property;
 
-(c) the charge shall extend to all the rights, benefits and interests of the member or his spouse or both, as the case may be, under his or their agreement for sale and purchase of the immovable property;
+(c) the charge shall extend to all the rights, benefits and interests of the member or his spouse, or the member and the related person or persons, as the case may be, under his or their agreement for sale and purchase of the immovable property;
 
 (d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge, and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be;
 
@@ -127,8 +143,28 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (v) if the member satisfies any of the grounds for withdrawals under subsection (2) (b) or (c).
 
-[5/87]
+[5/87; 39/2000]
 
-(16) In this section, ‘‘Housing Authority’’ has the same meaning as in section 28.
+(16) In this section and section 15B —
 
-[5/87]
+‘‘approved’’, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
+
+‘‘Housing Authority’’ has the same meaning as in section 28;
+
+‘‘related person’’, in relation to a member, means —
+
+(a) his spouse;
+
+(b) a child of the member, including an adopted child and a step-child;
+
+(c) a father or mother of the member;
+
+(d) a brother or sister of the member;
+
+(e) a grandchild of the member;
+
+(f) a grandparent of the member; or
+
+(g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section.
+
+[39/2000]

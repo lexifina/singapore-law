@@ -13,7 +13,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (a) give an undertaking to the Board; and
 
-(b) if required by the Board, furnish a guarantee by any person acceptable to the Board, for the repayment to the Board to the account of that member in the fund from whose account such withdrawals were made, all such withdrawals plus interest in such manner and within such time as may be prescribed.
+(b) if required by the Board, furnish a guarantee by any person acceptable to the Board, for the repayment to the Board to the account of that member in the Fund from whose account such withdrawals were made, all such withdrawals plus interest in such manner and within such time as may be prescribed.
 
 [30/89]
 
@@ -21,9 +21,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [30/89]
 
-(5) Notwithstanding anything in this Act, any sum not returned to the Board to the account of the member in the Fund under subsection
-
-(3) shall be deemed to be a debt due to the Board and may be sued for by the Board in any court.
+(5) Notwithstanding anything in this Act, any sum not returned to the Board to the account of the member in the Fund under subsection (3) shall be deemed to be a debt due to the Board and may be sued for by the Board in any court.
 
 [30/89]
 
