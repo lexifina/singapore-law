@@ -1,0 +1,14 @@
+# 12. Establishment of Endowment Fund
+Part: PART III FUNCTIONS AND POWERS OF COUNCIL
+
+(1) There shall be established an Endowment Fund which shall vest in the Council and shall consist of —
+
+(a) all donations and gifts accepted by the Council for the Endowment Fund;
+
+(b) all reserves of the Council in excess of 2 years of its operating expenditure; and
+
+(c) such other moneys as the Council may determine to transfer to the Endowment Fund.
+
+(2) Any interest, dividends and other income derived from the Endowment Fund shall be credited to the General Fund.
+
+(3) The Endowment Fund may be applied for such purposes as may be approved by the Minister in writing.
