@@ -1,0 +1,40 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+PENSIONS ACT
+(CHAPTER 225)
+Ordinance
+22 of 1956
+Amended by
+27 of 1958 S 68/69
+21 of 1962 S 268/70
+8 of 1963 S 250/71
+15 of 1968 S 281/75
+14 of 1969 S 283/78
+2 of 1970 S 318/84
+32 of 1970 S 97/85
+S 197/59 S 236/86
+S 223/59 S (NS) 178/59
+S 23/63 S (NS) 179/59
+S 215/66
+1970 Ed. Cap. 55 1985 Ed. Cap. 225
+Amended by Amended by
+21 of 1971 8 of 1995
+26 of 1972 12 of 1995
+20 of 1978 7 of 1997
+5 of 1982 11 of 2003
+36 of 1984 S 484/89
+26 of 1986 S 31/93
+S 19/95
+S 451/98
+REVISED EDITION 2004
+(1st January 2004)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+
+
+
+An Act to regulate the granting of pensions, gratuities and other allowances to officers in the public service of Singapore.
+
+[1st July 1956]
