@@ -1,0 +1,10 @@
+# 28. Property obtained by infringement of this Act
+Part: PART VI MISCELLANEOUS
+
+(1) Where a person —
+
+(a) has made any payment which is prohibited by this Act; or
+
+(b) being bound under this Act to offer or cause to be offered any specified currency to an authorised dealer, has otherwise disposed of that currency, the Authority may direct him to sell or procure the sale of any property which he is entitled to sell or of which he is entitled to procure the sale, being property which represents, whether directly or indirectly, that payment or that specified currency, as the case may be, and may by the same or a subsequent direction specify the manner in which, the persons to whom and the terms on which the property is to be sold.
+
+(2) Without prejudice to the generality of subsection (1) the power conferred thereby on the Authority to give directions shall extend to the giving of directions that the property shall be assigned to the Authority or to a person specified in the directions.

@@ -1,0 +1,11 @@
+# FIRST SCHEDULE
+
+Section 2 (1)
+
+SCHEDULED TERRITORIES
+
+Australia including Christmas Island, Cocos (Keeling) Islands and Norfolk Island Bahamas Bahrain Bangladesh Barbados Belize (British Honduras) Bermuda Botswana British Indian Ocean Territory comprising Aldabra, Chagos Archipelago, Desroches and Farquhar British Solomon Islands Protectorate British Virgin Islands Brunei Darussalam Cayman Islands Cyprus Falkland Islands and Dependencies (South Georgia and South Sandwich Islands) Fiji Gambia, the Ghana Gibraltar Gilbert and Ellice Islands Colony including Central and Southern Line Islands, Gilbert and Ellice Islands, Northern Line Islands, Ocean Island and Phoenix Islands Guyana Hong Kong Special Administrative Region of the People’s Republic of China Iceland India, and Sikkim Indonesia, the Republic of Jamaica Jordan, the Hashemite Kingdom of Kenya Kuwait Leeward Islands comprising Anguilla (including Sombrero), Antigua (with Barbuda), Montserrat, St. Christopher and Nevis Lesotho Malawi FIRST SCHEDULE — continued
+
+Malaysia Maldive Islands Malta Mauritius and Dependency (Rodrigues) Nauru New Zealand including Cook Islands, Niue Island and Tokelau Islands Nigeria Oman Pakistan Papua New Guinea Philippines Pitcairn Islands Qatar St. Helena and Dependencies (Ascension Island and Tristan da Cunha) Seychelles Sierra Leone Singapore, the Republic of South Africa, the Republic of South West Africa, the Territory of Sri Lanka (Ceylon) Swaziland Tanzania Thailand Tonga Trinidad and Tobago Turks and Caicos Islands Uganda United Arab Emirates comprising Abu Dhabi, Ajman, Dubai, Fujairah, Ras al Khaimah, Sharjah and Umm al Qaiwain United Kingdom, the Channel Islands and the Isle of Man Western Samoa Windward Islands comprising Dominica, Grenada, St. Lucia and St. Vincent Yemen, the People’s Democratic Republic of Zambia.
+
+[S 114/76]

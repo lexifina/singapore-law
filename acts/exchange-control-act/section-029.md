@@ -1,0 +1,6 @@
+# 29. Provisions supplemental to preceding provisions of this Part
+Part: PART VI MISCELLANEOUS
+
+(1) Where under this Part the Authority has power to give directions that any right to receive any currency or payment in sterling or local currency or to enforce any security for the receipt thereof, any goods, or any other property shall be assigned to the Authority, the Authority shall also have power to direct that the right, goods or property shall vest in the Authority and it or they shall vest in the Authority accordingly free from any mortgage, pledge or charge, and the Authority may deal with it or them as the Authority thinks fit.
+
+(2) Where, in pursuance of directions under this Part, any right, goods or property is or are assigned to the Authority or to a person specified in the directions, or any right, goods or property vests or vest in the Authority in pursuance of directions given under subsection (1), the Authority shall pay the net sum recovered by it in respect of the right, goods or property to the person making the assignment or, in the case of any right, goods or property vested in the Authority under subsection (1), to the person who, but for the directions, would be entitled to the right, goods or property.
