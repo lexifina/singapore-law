@@ -1,0 +1,36 @@
+# 17. Offences, penalties and defences
+Part: PART III NEWSPAPER COMPANIES
+
+(1) Any person who contravenes section 11, 12 (1) (a) or
+
+(2) (a) or 13 (4) (a), (b) or (c) (i) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[20/2002]
+
+(2) Any person who contravenes section 12 (1) (b) or (2) (b), 13 (4) (c) (ii), 15 (5) or 16 (2) or any condition imposed under section 13 (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[20/2002]
+
+(3) Where a person is charged with an offence in respect of a contravention of section 11 or 12, it shall be a defence for the person to prove that —
+
+(a) he was not aware that he had contravened section 11 or 12, as the case may be; and
+
+(b) he has, within 14 days of becoming aware that he had contravened section 11 or 12, as the case may be, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such actions in relation to his shareholding or control of the voting power in the newspaper company as the Minister may direct.
+
+[20/2002]
+
+(4) Where a person is charged with an offence in respect of a contravention of section 12 (1), it shall also be a defence for the person to prove that, even though he was aware of the contravention —
+
+(a) the contravention occurred as a result of an increase in the shareholding as described in section 12 (4) (a) of, or in the voting power controlled by, any of his associates described in section 12 (4) (c) (i);
+
+(b) he has no agreement or arrangement, whether oral or in writing and whether express or implied, with that associate with respect to the acquisition, holding or disposal of shares or other interests in, or under which they act together in exercising their voting power in relation to, the newspaper company; and
+
+(c) he has, within 14 days of the date of the contravention, notified the Minister of the contravention and, within such time as may be determined by the Minister, taken such action in relation to his shareholding or control of the voting power in the newspaper company as the Minister may direct.
+
+[20/2002]
+
+(5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 11 or 12 to prove that he did not intend to or did not knowingly contravene section 11 or 12, as the case may be.
+
+[10G
+
+[20/2002]

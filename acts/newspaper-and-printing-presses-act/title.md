@@ -1,0 +1,32 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+NEWSPAPER AND PRINTING PRESSES ACT
+(CHAPTER 206)
+Act
+12 of 1974
+Amended by
+6 of 1977
+9 of 1981
+1985 Ed. Cap. 206
+Amended by
+22 of 1986
+4 of 1988
+19 of 1990
+1991 Ed. Cap. 206
+Amended by
+20 of 2002
+34 of 2002
+S 92/97
+REVISED EDITION 2002
+(31st December 2002)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2002
+
+
+
+An Act for the licensing of newspaper companies and for matters connected therewith.
+
+[1st January 1975]
