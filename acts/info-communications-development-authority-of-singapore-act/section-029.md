@@ -1,0 +1,12 @@
+# 29. Rules
+Part: PART VII GENERAL
+
+(1) The Authority may, with the approval of the Minister, make rules for carrying out the purposes and provisions of this Act.
+
+(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make rules for or with respect to all or any of the following matters:
+
+(a) the manner of appointment, conduct and discipline and the terms and conditions of service of the employees of the Authority;
+
+(b) the establishment of funds for the payment of gratuities and other benefits to employees of the Authority;
+
+(c) the fees to be charged in respect of anything done or any services rendered by the Authority under or by virtue of this Act or any other written law.
