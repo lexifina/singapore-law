@@ -1,0 +1,23 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+MEDICAL REGISTRATION ACT
+(CHAPTER 174)
+Act
+5 of 1997
+1998 Ed. Cap. 174
+Amended by
+28 of 2000
+46 of 2002
+REVISED EDITION 2004
+(31st July 2004)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2004
+
+
+
+An Act to provide for the registration of medical practitioners and for matters connected therewith.
+
+[3rd April 1998]

@@ -1,0 +1,22 @@
+# 31. Alterations in registers
+Part: PART IV REGISTRATION OF MEDICAL PRACTITIONERS
+
+The Registrar shall —
+
+(a) insert in a register any alteration which may come to his knowledge in the name or address of any person registered under this Act;
+
+(b) insert in a register such alterations in the qualifications, additional qualifications and other particulars in the register as are required to be altered under this Act;
+
+(c) correct any error in any entry in a register;
+
+(d) remove from a register the name of any person whose name is ordered to be removed under this Act;
+
+(e) remove from a register the name of any person who is deceased;
+
+(f) remove from a register the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 years, and who cannot be contacted or sent any document using his particulars in the register; and
+
+(g) remove from a register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless an inquiry has or proceedings have commenced under Part VII against that person.
+
+[32
+
+[46/2002]
