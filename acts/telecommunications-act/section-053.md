@@ -1,0 +1,10 @@
+# 53. Right to conduct international business dealings
+Part: PART VII INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
+
+For the purposes of the conduct of any international telecom- munication service by a public telecommunication licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted telecom- munication authority of any country or with any duly authorised international agency or organisation concerned with telecom- munication matters —
+
+(a) for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting;
+
+(b) for operational, engineering or administrative purposes; or
+
+(c) for any other purpose necessary for the proper fulfilment of its functions.
