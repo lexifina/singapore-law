@@ -1,0 +1,4 @@
+# 11. Certificate of registration
+Part: PART III REGISTRATION
+
+The Registrar, on registering a trade union under section 10, shall issue to the trade union a certificate of registration in the prescribed form and that certificate, unless proved to have been cancelled or withdrawn, shall be conclusive evidence for all purposes that the trade union has been duly registered under this Act.

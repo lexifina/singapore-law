@@ -1,0 +1,10 @@
+# 62. Act not to affect certain agreements
+Part: PART IX MISCELLANEOUS
+
+This Act shall not affect —
+
+(a) any agreement between partners as to their own business;
+
+(b) any agreement between an employer and those employed by him as to such employment; or
+
+(c) any agreement in consideration of the sale of the goodwill of a business or of instruction in any profession, trade or handicraft.

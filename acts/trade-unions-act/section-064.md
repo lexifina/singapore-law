@@ -1,0 +1,4 @@
+# 64. Service of legal process
+Part: PART IX MISCELLANEOUS
+
+Every summons, notice or other document required to be served on a trade union in any civil or criminal proceeding shall be deemed to be duly served if it is delivered at the registered office of the trade union or if it is served personally on the president or the treasurer or the secretary or on any officer of the trade union provided that such service is otherwise in compliance with the requirements of any relevant written law.
