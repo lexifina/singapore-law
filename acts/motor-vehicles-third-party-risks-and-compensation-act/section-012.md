@@ -1,0 +1,7 @@
+# 12. Settlement between insurers and insured persons
+
+Where —
+
+(a) a person who is insured under a policy issued for the purposes of this Act has become bankrupt; or
+
+(b) in the case of the insured person being a company a winding-up order has been made or a resolution for a voluntary winding up has been passed with respect to the company, no agreement made between the insurer and the insured after liability has been incurred to a third party and after the commencement of the bankruptcy or winding up, as the case may be, nor any waiver, assignment or other disposition made by, or payment made to, the insured after the commencement aforesaid shall be effective to defeat or affect the rights transferred to the third party under this Act but those rights shall be the same as if no such agreement, waiver, assignment, disposition or payment has been made.
