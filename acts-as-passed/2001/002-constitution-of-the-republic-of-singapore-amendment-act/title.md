@@ -1,0 +1,21 @@
+REPUBLIC OF SINGAPORE
+GOVERNMENT GAZETTE
+ACTS SUPPLEMENT
+Published by Authority
+NO. 2] FRIDAY, FEBRUARY 9 [2001
+First published in the Government Gazette, Electronic Edition, on 7th February 2001 at 5:00 pm.
+The following Act was passed by Parliament on 12th January 2001 and
+assented to by the President on 23rd January 2001:—
+REPUBLIC OF SINGAPORE
+No. 2 of 2001.
+I assent.
+S R NATHAN,
+LS President.
+j
+23rd January 2001.
+
+
+
+An Act to amend the Constitution of the Republic of Singapore (1999 Reprint).
+
+Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
