@@ -1,0 +1,8 @@
+# 81. Interim certificate
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+
+(1) If, during the taxation of any bill of costs or the taking of any account between solicitor and client, it appears to the Registrar that there must in any event be moneys due from the solicitor or law corporation to the client, the Registrar may make an interim certificate as to the amount so payable by the solicitor or law corporation.
+
+[4/2000]
+
+(2) Upon the filing of such certificate, the court or a Judge may order the moneys so certified to be forthwith paid to the client or brought into court.
