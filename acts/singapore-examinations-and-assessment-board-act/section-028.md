@@ -1,0 +1,10 @@
+# 28. Accounts
+Part: PART V FINANCIAL PROVISIONS
+
+The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
+
+14 CAP. 299A Assessment Board 2004 Ed.
+
+(a) all payments out of its funds are properly authorised and correctly made; and
+
+(b) adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
