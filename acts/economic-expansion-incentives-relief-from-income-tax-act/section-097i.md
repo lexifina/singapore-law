@@ -17,8 +17,8 @@ Part: PART XIIIB OVERSEAS ENTERPRISE INCENTIVE
 
 [36/93]
 
-100 CAP. 86 (Relief from Income Tax) 2001 Ed.
-
 (4) The Minister may, in his discretion, upon the application of an overseas enterprise, amend its certificate by substituting for the commencement day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the commencement day in relation to that certificate.
 
 [36/93]
+
+2005 Ed. (Relief from Income Tax) CAP. 86 49

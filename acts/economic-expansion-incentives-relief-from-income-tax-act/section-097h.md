@@ -17,12 +17,16 @@ In this Part, unless the context otherwise requires —
 
 ‘‘qualifying income’’ means —
 
-(a) dividends received from any qualifying investment, specified in the certificate issued under section 97I (2), in any overseas company to the extent that the 2001 Ed. (Relief from Income Tax) CAP. 86 99
-
-Comptroller is satisfied that such dividends are paid out of income of the overseas company derived from any qualifying activity; and
+(a) dividends received from any qualifying investment, specified in the certificate issued under section 97I (2), in any overseas company to the extent that the Comptroller is satisfied that such dividends are paid out of income of the overseas company derived from any qualifying activity; and
 
 (b) income derived from Singapore or received in Singapore from outside Singapore from any qualifying activity;
 
-‘‘overseas enterprise’’ means a company approved as an overseas enterprise under section 97I (2) and in respect of which not less than 50% of the paid-up capital is beneficially owned by citizens or permanent residents of Singapore throughout the period during which it holds shares in an overseas company in the case of dividends received from qualifying investment in that overseas company or throughout the period during which it carries out any qualifying activity in the case of income derived from that qualifying activity, unless the Minister otherwise decides.
+48 CAP. 86 (Relief from Income Tax) 2005 Ed.
+
+‘‘overseas enterprise’’ means a company approved as an overseas enterprise under section 97I (2) and in respect of which not less than 50% of the paid-up capital is beneficially owned by citizens or permanent residents of Singapore throughout the period during which it —
+
+(a) holds shares in an overseas company in the case of dividends received from qualifying investment in that overseas company; or
+
+(b) carries out any qualifying activity in the case of income derived from that qualifying activity, unless the Minister otherwise decides.
 
 [36/93]

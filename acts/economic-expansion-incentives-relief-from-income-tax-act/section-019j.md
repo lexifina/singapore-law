@@ -19,26 +19,36 @@ Part: PART IIIB DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
+*From year of assessment 1997.
+
+20 CAP. 86 (Relief from Income Tax) 2005 Ed.
+
 (4) The Minister may, in his discretion, upon an application of a development and expansion company, amend its certificate by substituting for the commencement day specified therein such other date as he thinks fit and thereupon the provisions of this Part shall have effect as if that date were the commencement day in relation to that certificate.
 
 [36/96]
 
-(5) Notwithstanding section 43 of the Income Tax Act (Cap. 134), tax at such concessionary rate, not being less than 10% as the Minister may specify, shall be levied and paid for each year of assessment upon the expansion income derived by a development and expansion company during its tax relief period from its qualifying activities.
+(5) Notwithstanding section 43 of the Income Tax Act (Cap. 134), tax at such concessionary rate, not being less than 5% as the Minister may specify, shall be levied and paid for each year of assessment upon the expansion income derived by a development and expansion company during its tax relief period from its qualifying activities.
 
-[36/96]
+[36/96; 44/2002]
 
-(6) The expansion income shall be the income from such qualifying activities to which the certificate issued under this section relates that exceeds the average corresponding income.
+(6) The expansion income shall be the income from such qualifying activities (referred to in this section and section 19M as qualifying income) to which the certificate issued under this section relates that exceeds the average corresponding income.
 
-[36/96]
+[36/96; 11/2004]
 
-(7) The average corresponding income referred to in subsection
+(7) The average corresponding income referred to in subsection (6) shall be determined by taking one-third of the total of the corresponding qualifying income for the 3 years immediately preceding the commencement day specified in the certificate issued under this section.
 
-(6) shall be determined by taking one-third of the total of the corresponding income from such qualifying activities for the 3 years 2001 Ed. (Relief from Income Tax) CAP. 86 29
+[36/96; 11/2004]
 
-immediately preceding the commencement day specified in the certificate issued under this section.
+(8) Where a development and expansion company which has been granted a tax relief period of at least 10 years is granted an extension or a further extension of its tax relief period under section 19K (1) (b) or (2), the Minister shall compute the average corresponding income for each such extension or further extension in accordance with subsection (9).
 
-[36/96]
+[48/2004]
 
-(8) Notwithstanding subsection (7), the Minister may, if he thinks fit, specify any amount to be the average corresponding income in substitution of the amount determined under that subsection.
+(9) The average corresponding income for each extension or further extension referred to in subsection (8) shall be determined by taking one-third of the total of the corresponding qualifying income for the 3 years immediately preceding the date of that extension or further extension of its tax relief period, as the case may be.
 
-[36/96]
+[48/2004]
+
+(10) Notwithstanding subsections (7), (8) and (9), the Minister may, if he thinks fit, specify any amount to be the average corresponding income in substitution of the amount determined under those subsections.
+
+[48/2004]
+
+2005 Ed. (Relief from Income Tax) CAP. 86 21

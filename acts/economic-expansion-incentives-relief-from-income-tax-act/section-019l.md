@@ -5,9 +5,7 @@ Part: PART IIIB DEVELOPMENT AND EXPANSION INCENTIVE
 
 [36/96]
 
-(2) Where the account is in credit at the date on which any dividends are paid by the development and expansion company out of the net amount of income credited to that account, an amount equal 30 CAP. 86 (Relief from Income Tax) 2001 Ed.
-
-to those dividends or to that credit, whichever is the less, shall be debited to the account.
+(2) Where the account is in credit at the date on which any dividends are paid by the development and expansion company out of the net amount of income credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
 
 [36/96]
 
@@ -15,32 +13,36 @@ to those dividends or to that credit, whichever is the less, shall be debited to
 
 [36/96]
 
-(4) Notwithstanding subsection (3), where a dividend is paid on any share of a preferential nature, it shall not be so exempt in the hands of the shareholder.
+(4) Notwithstanding subsections (3) and (7), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+[11/2004]
+
+(5) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the development and expansion company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the development and expansion company.
+
+[44/2002]
+
+(6) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividends or part thereof which are debited to the account.
 
 [36/96]
 
-(5) Section 44 of the Income Tax Act (Cap. 134) shall not apply in respect of any dividends or part thereof which are debited to the account.
+(7) Where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of 2005 Ed. (Relief from Income Tax) CAP. 86 23
+
+the Income Tax Act (Cap. 134) shall not apply to any such dividends or part thereof.
+
+[44/2002]
+
+(8) A development and expansion company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
 [36/96]
 
-(6) Where any amount has been received by way of dividend from a development and expansion company by a shareholder and the amount is exempt from tax under this Part, if that shareholder is a company (referred to in this section as the holding company) which holds, throughout its tax relief period (or such shorter period as the Minister may approve), the beneficial interest in all the issued shares of the company (or in not less than such proportion of those shares as the Minister may approve) any dividends paid by the holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 of the Income Tax Act shall not apply in respect of any such dividends or part thereof so exempted.
-
-[36/96]
-
-(7) A development and expansion company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
-
-[36/96]
-
-(8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
+(9) Notwithstanding subsections (1) to (8), where it appears to the Comptroller that —
 
 (a) any income of a development and expansion company which has been subject to tax at the concessionary rate under section 19J; or
 
-2001 Ed. (Relief from Income Tax) CAP. 86 31
-
-(b) any dividends, including any dividends paid by a holding company under subsection (6), which have been exempted from tax in the hands of any shareholder, ought not to have been so taxed or exempted for any year of assessment, the Comptroller may, subject to section 74 of the Income Tax Act (Cap. 134) —
+(b) any dividends which have been exempted from tax in the hands of any shareholder, ought not to have been so taxed or exempted for any year of assessment, the Comptroller may, subject to section 74 of the Income Tax Act —
 
 (i) make an assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit the account with such amount as the circumstances require.
 
-[36/96]
+[36/96; 44/2002]

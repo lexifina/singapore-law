@@ -15,16 +15,16 @@ The qualifying income of an overseas enterprise for any accounting period during
 
 (c) the allowances provided for in sections 16 to 22 (where applicable) of the Income Tax Act attributable to the qualifying income during the tax relief period shall be taken into account notwithstanding that no claim for those allowances has been made;
 
-(d) where in any year of assessment full effect cannot, by reason of an insufficiency of qualifying income for that year of assessment, be given to those allowances, the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment, and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment, and shall, during the tax relief period, only be made against the qualifying income and the balance of such allowances shall not be available as a deduction against any other income;
-
-102 CAP. 86 (Relief from Income Tax) 2001 Ed.
+(d) where in any year of assessment full effect cannot, by reason of an insufficiency of qualifying income for that year of assessment, be given to those allowances, the balance of the allowances shall be added to, and be deemed to form part of, the corresponding allowances, if any, for the next succeeding year of assessment, and, if no such corresponding allowances fall to be made for that year, shall be deemed to constitute the corresponding allowances for that year, and so on for subsequent years of assessment, and shall, during the tax relief period, only be made against the qualifying income and the balance of such allowances shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act (Cap. 134);
 
 (e) for the purposes of paragraphs (b) (ii) and (c), the amounts attributable to the qualifying income shall be determined on such basis as the Comptroller thinks reasonable and proper;
 
-(f) where the overseas enterprise has, during its tax relief period, incurred a loss for any year in respect of any qualifying activity, that loss shall during the tax relief period only be deducted against the qualifying income and the balance of such losses shall not be available as a deduction against any other income;
+2005 Ed. (Relief from Income Tax) CAP. 86 51
 
-(g) for the purposes of paragraphs (b), (c) and (f), expenses, donations, allowances and losses attributable to any qualifying income derived from outside Singapore shall only be deducted against such income and the balance of such expenses, donations, allowances and losses shall not be available as a deduction against any other income; and
+(f) where the overseas enterprise has, during its tax relief period, incurred a loss or has unabsorbed donation for any year in respect of its qualifying activity, that loss or donation shall during the tax relief period, subject to section 37 of the Income Tax Act, only be deducted against the qualifying income and the balance of such loss or donation shall not be available as a deduction against any other income or be available for transfer under section 37C of that Act;
 
-(h) subject to sections 23 and 37 of the Income Tax Act (Cap. 134), any allowances and losses attributable to any qualifying income derived from Singapore which remain unabsorbed at the end of its tax relief period shall be available for deduction in its post tax relief period.
+(g) for the purposes of paragraphs (b), (c) and (f), expenses, donations, allowances and losses attributable to any qualifying income derived from outside Singapore shall only be deducted against such income and the balance of such expenses, donations, allowances and losses shall not be available as a deduction against any other income or be available for transfer under section 37C of the Income Tax Act; and
 
-[36/93]
+(h) subject to sections 23 and 37 of the Income Tax Act, any allowances, losses and donations attributable to any qualifying income derived from Singapore which remain unabsorbed at the end of its tax relief period shall be available for deduction in its post tax relief period.
+
+[36/93; 44/2002]

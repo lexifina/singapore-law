@@ -1,4 +1,10 @@
-# 103. Conduct of prosecution
+# 103. Savings provision
 Part: PART XIV MISCELLANEOUS PROVISIONS
 
-Any prosecution in respect of an offence under section 36, 42 or 101 may be conducted by an officer authorised by the Comptroller or a senior officer of customs.
+Notwithstanding the repeal of Parts IIIA, IV, XI and XIIIA by the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004, the repealed Parts IIIA, IV, XI and XIIIA shall continue to apply to and have effect on any approved company approved before and its qualifying activities conducted before the 80 CAP. 86 (Relief from Income Tax) 2005 Ed.
+
+date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 as if that Act had not been enacted.
+
+[109
+
+[11/2004]

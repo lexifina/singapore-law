@@ -10,7 +10,11 @@ ECONOMIC EXPANSION INCENTIVES (RELIEF FROM INCOME TAX) ACT (CHAPTER 86)
 
 4. Act 8 of 1979 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1979 Date of First Reading : 5.3.79 (Bill No. 10/79 published on 12.3.79) Date of Second and Third Readings : 30.3.79 Date of commencement : 20.4.79
 
-5. Act 32 of 1979 — Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 1979 Date of First Reading : 21.9.79 (Bill No. 34/79 published on 25.9.79) Date of Second and Third Readings : 11.12.79 Date of commencement : 28.12.79 LEGISLATIVE HISTORY
+5. Act 32 of 1979 — Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 1979 Date of First Reading : 21.9.79 (Bill No. 34/79 published on 25.9.79) Date of Second and Third Readings : 11.12.79 Date of commencement : 28.12.79
+
+This Legislative History is provided for the convenience of users of the Economic Expansion Incentives (Relief from Income Tax) Act. It is not part of the Economic Expansion Incentives (Relief from Income Tax) Act.
+
+LEGISLATIVE HISTORY
 
 ECONOMIC EXPANSION INCENTIVES (RELIEF FROM INCOME TAX) ACT (CHAPTER 86)
 
@@ -38,6 +42,16 @@ ECONOMIC EXPANSION INCENTIVES (RELIEF FROM INCOME TAX) ACT (CHAPTER 86)
 
 ECONOMIC EXPANSION INCENTIVES (RELIEF FROM INCOME TAX) ACT (CHAPTER 86)
 
-16. Act 36 of 1996 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1996 Date of First Reading : 1.10.96 (Bill No. 32/96 published on 2.10.96) Date of Second and Third Readings : 10.10.96 Date of commencement : 25.10.96
+16. Act 36 of 1996 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1996 Date of First Reading : 1.10.96 (Bill No. 32/96 published on 1.10.96) Date of Second and Third Readings : 10.10.96 Date of commencement : 25.10.96
 
-17. Act 4 of 1998 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1998 Date of First Reading : 14.1.98 (Bill No. 7/98 published on 15.1.98) Date of Second and Third Readings : 19.2.98 Date of commencement : 13.3.98
+17. Act 4 of 1998 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 1998 Date of First Reading : 14.1.98 (Bill No. 7/98 published on 15.1.98) Date of Second and Third Readings : 19.2.98 Date of commencement : 13.3.98 and other dates (see section 1 of the Act)
+
+18. Act 44 of 2002 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002 Date of First Reading : 25.11.2002 (Bill No. 46/2002 published on 26.11.2002) Date of Second and Third Readings : 5.12.2002 Date of commencement : 20.12.2002 and other dates (see section 1 of the Act)
+
+19. Act 4 of 2003 — Customs (Amendment) Act 2003 (Consequential amendments made by) Date of First Reading : 10.3.2003 (Bill No. 6/2003 published on 11.3.2003) Date of Second and Third Readings : 21.3.2003 Date of commencement : 1.4.2003
+
+20. Act 11 of 2004 — Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 Date of First Reading : 27.2.2004 (Bill No. 7/2004 published on 28.2.2004) Date of Second and Third Readings : 20.4.2004 Date of commencement : 28.4.2004 and other dates (see section 1 of the Act) LEGISLATIVE HISTORY
+
+ECONOMIC EXPANSION INCENTIVES (RELIEF FROM INCOME TAX) ACT (CHAPTER 86)
+
+21. Act 48 of 2004 — Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004 Date of First Reading : 19.10.2004 (Bill No. 56/2004 published on 20.10.2004) Date of Second and Third Readings : 17.11.2004 Date of commencement : 25.11.2004 and other dates (see section 1 of the Act)

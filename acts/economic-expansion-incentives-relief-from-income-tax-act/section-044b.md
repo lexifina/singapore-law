@@ -19,8 +19,6 @@ Part: PART VIA EXPORT OF SERVICES
 
 [22/87]
 
-50 CAP. 86 (Relief from Income Tax) 2001 Ed.
-
 (4) The Minister may, in his discretion, upon the application of an export service company or firm, amend its certificate by substituting for the commencement day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Part shall have effect as if the date so substituted were the commencement day in relation to that certificate.
 
 [22/87]

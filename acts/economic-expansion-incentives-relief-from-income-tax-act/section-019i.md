@@ -16,7 +16,3 @@ In this Part, unless the context otherwise requires —
 (c) such other services or activities as may be prescribed.
 
 [36/96]
-
-*From year of assessment 1997.
-
-28 CAP. 86 (Relief from Income Tax) 2001 Ed.

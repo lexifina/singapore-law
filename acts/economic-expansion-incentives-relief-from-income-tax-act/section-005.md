@@ -9,10 +9,10 @@ Part: PART II PIONEER INDUSTRIES
 
 (a) the date on or before which it is expected that the pioneer enterprise will commence to produce in marketable quantities the product specified in the certificate; and
 
-12 CAP. 86 (Relief from Income Tax) 2001 Ed.
-
 (b) the rate of production of that product which it is expected will be attained on or before that date.
 
 (4) The date specified under subsection (3) (a) shall be deemed to be the production day of the pioneer enterprise for the purposes of this Act.
 
 (5) The Minister may, in his discretion, upon the application of any pioneer enterprise, amend its pioneer certificate by substituting for the production day specified therein such earlier or later date as he thinks fit and thereupon the provisions of this Act shall have effect as if the date so substituted were the production day in relation to that pioneer enterprise.
+
+10 CAP. 86 (Relief from Income Tax) 2005 Ed.

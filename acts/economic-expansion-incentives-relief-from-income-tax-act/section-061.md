@@ -5,4 +5,6 @@ Part: PART IX ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
 
 (2) The application shall be in such form containing such particulars as may be prescribed, and shall be accompanied by a copy of the proposed agreement or arrangement certified by the non-resident person.
 
+34 CAP. 86 (Relief from Income Tax) 2005 Ed.
+
 (3) Where the Minister is satisfied as to the bona fides of any application made under this section and that it is expedient in the public interest to do so, he may issue a certificate in the terms of the application, subject to such conditions as he thinks fit.

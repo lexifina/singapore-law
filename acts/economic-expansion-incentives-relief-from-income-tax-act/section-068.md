@@ -1,8 +1,9 @@
 # 68. Investment allowance
-Part: PART IX ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
-Heading: 2001 Ed. (Relief from Income Tax) CAP. 86 5 PART X INVESTMENT ALLOWANCES
+Part: PART X INVESTMENT ALLOWANCES
 
-(1) The investment allowance granted under section 67 shall be a specified percentage, not exceeding 100% of the amount (which may be subject to a specified maximum) of the fixed capital expenditure incurred on each item specified by the Minister under subsection (2) on an approved project if the fixed capital expenditure is incurred —
+(1) The investment allowance granted under section 67 shall be a specified percentage, not exceeding 100% of the amount (which may be subject to a specified maximum) of the fixed capital expenditure 2005 Ed. (Relief from Income Tax) CAP. 86 39
+
+incurred on each item specified by the Minister under subsection (2) on an approved project if the fixed capital expenditure is incurred —
 
 (a) within such period (referred to in this Act as the qualifying period), not exceeding 5 years, commencing from the investment day as the Minister may determine; and
 
@@ -13,8 +14,6 @@ Heading: 2001 Ed. (Relief from Income Tax) CAP. 86 5 PART X INVESTMENT ALLOWANCE
 (2) The Minister —
 
 (a) shall specify the items of the fixed capital expenditure for the purposes of subsection (1); and
-
-2001 Ed. (Relief from Income Tax) CAP. 86 69
 
 (b) may specify the maximum amount of the investment allowance granted for the approved project.
 

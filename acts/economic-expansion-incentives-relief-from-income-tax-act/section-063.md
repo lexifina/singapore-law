@@ -1,4 +1,4 @@
-# 63. (Repealed by Act 1/95)
+# 63. (Repealed)
 Part: PART IX ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
 
 (Repealed by Act 1/95)

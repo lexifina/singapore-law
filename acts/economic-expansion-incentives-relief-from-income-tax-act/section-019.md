@@ -1,6 +1,6 @@
 # 19. Application of sections 7 to 15 to pioneer service company
 Part: PART III PIONEER SERVICE COMPANIES
-Heading: 2 CAP. 86 (Relief from Income Tax) 2001 Ed.
+Heading: 2 CAP. 86 (Relief from Income Tax) 2005 Ed.
 
 Sections 7 to 15 shall apply to a pioneer service company under this Part and for the purposes of such application —
 

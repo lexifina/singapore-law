@@ -1,6 +1,6 @@
 # 73. Recovery of tax exempted
-Part: PART IX ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
-Heading: 2001 Ed. (Relief from Income Tax) CAP. 86 5 PART X INVESTMENT ALLOWANCES
+Part: PART X INVESTMENT ALLOWANCES
+Heading: 4 CAP. 86 (Relief from Income Tax) 2005 Ed.
 
 Notwithstanding any other provisions of this Part, where it appears to the Comptroller that —
 

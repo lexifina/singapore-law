@@ -5,7 +5,9 @@ Part: PART VIII FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
 
 [1/95]
 
-(2) Where a company has contravened section 58 or any conditions imposed by the Minister under section 57 (4), the amount which, but for subsection (1), would have been deductible by the company from the interest paid by it to the foreign lender under section 45 of the Income Tax Act shall be deemed to have been deducted from that interest and shall be a debt due from the company to the Government and be recoverable in the manner provided by section 89 of the Income Tax Act.
+(2) Where a company has contravened section 58 or any conditions imposed by the Minister under section 57 (5), the amount which, but for subsection (1), would have been deductible by the company from the interest paid by it to the foreign lender under section 45 of the Income Tax Act shall be deemed to have been deducted from that interest and shall be a debt due from the company to the Government 2005 Ed. (Relief from Income Tax) CAP. 86 33
+
+and be recoverable in the manner provided by section 89 of the Income Tax Act (Cap. 134).
 
 [1/95]
 
