@@ -1,0 +1,43 @@
+# SECOND SCHEDULE
+
+PART I — continued Loans and Rate of Interest % p.a.
+
+Advances Minimum Maximum Average
+
+16. Printing, publishing, etc. ¨ ¨ .................... .................... .................... ....................
+
+17. Soaps, vegetables and animal oils and fats ¨ ¨ ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+18. Chemicals, chemical products (including petroleum products and coal) ¨ ¨ ¨ ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+19. Basic metals, metal products and machinery (including repairs) ¨ .................... .................... .................... ....................
+
+20. Non-metallic mineral products, including building materials (e.g.
+
+clay, cement, asbestos, plaster, etc.) ¨ ¨ ¨ ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+21. Transport equipment (including repairs) ¨ ¨ ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+22. Other manufacturing ¨ ¨ ¨ .................... .................... .................... ....................
+
+Sub-Total ¨ CONSTRUCTION —
+
+*23. Building and construction ¨ ¨ .................... .................... .................... ....................
+
+Sub-Total ¨ GENERAL COMMERCE —
+
+24. Import, export and wholesale trade ¨ ¨ ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+25. Retail trade ¨ ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+Sub-Total ¨ PROFESSIONAL AND PRIVATE INDIVIDUAL —
+
+26. (a) For business purposes ¨ ¨ .................... .................... .................... ....................
+
+(b) For private purposes ¨ ¨ .................... .................... .................... ....................
+
+Sub-Total ¨ MISCELLANEOUS —
+
+27. Transport, storage and communication ¨ ¨ ¨ ¨ .................... .................... .................... ....................
+
+*Refers to contractors, building and engineering firms.
