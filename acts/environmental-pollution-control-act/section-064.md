@@ -1,9 +1,9 @@
 # 64. Proceedings where occupier opposes execution of work
 Part: PART XII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) If the occupier of any premises prevents the owner thereof from carrying into effect in respect of the premises any of the provisions of this Act or the regulations after notice of his intention to do so has been given by the owner to that occupier, a Magistrate’s Court, upon proof thereof and upon application by the owner, may —
+(1) If the occupier of any premises prevents the owner thereof from carrying into effect in respect of the premises any of the provisions of this Act after notice of his intention to do so has been given by the owner to that occupier, a Magistrate’s Court, upon proof thereof and upon application by the owner, may —
 
-(a) make an order in writing, requiring the occupier to permit the owner to execute all such works with respect to the premises as are necessary for carrying into effect the provisions of this Act or the regulations; and
+(a) make an order in writing, requiring the occupier to permit the owner to execute all such works with respect to the premises as are necessary for carrying into effect the provisions of this Act; and
 
 (b) if it thinks fit, order the occupier to pay to the owner the costs relating to the application or order.
 

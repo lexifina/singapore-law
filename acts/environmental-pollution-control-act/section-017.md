@@ -1,4 +1,4 @@
-# 17. Penalties for discharging toxic substances into inland waters
+# 17. Penalties for discharging toxic substances or hazardous substances into inland waters
 Part: PART V WATER POLLUTION CONTROL
 
 (1) Any person who discharges or causes or permits to be discharged any toxic substance or hazardous substance into any inland water so as to be likely to cause pollution of the environment shall be guilty of an offence and shall —
@@ -7,11 +7,15 @@ Part: PART V WATER POLLUTION CONTROL
 
 (b) be punished on a second or subsequent conviction with both imprisonment for a term of not less than one month and not more than 12 months and a fine not exceeding $100,000.
 
-(2) Where a person carrying on any trade or business has been convicted of a second or subsequent offence under subsection (1) (b) for the discharge of, or for causing or permitting the discharge of, any toxic substance or hazardous substance which is produced by any process or work in connection with that trade or business, the Minister may, by order in writing, direct that person to immediately cease carrying on that process or work either indefinitely or for such period as may be specified in the order.
+(2) Where a person carrying on any trade or business has been convicted of a second or subsequent offence under subsection (1) (b) for the discharge of, or for causing or permitting the discharge of, any toxic substance or hazardous substance which is produced by any process or work in connection with that trade or business, the Agency may, by order in writing, direct that person to immediately cease carrying on that process or work either indefinitely or for such period as may be specified in the order.
+
+[4/2002]
 
 (3) Any person who fails to comply with an order made under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
-(4) If any person fails to comply with an order made under subsection (2), the Director may take such step or measure as is necessary to ensure that the order is complied with and the reasonable costs and expenses incurred by the Director in taking such step or measure shall be recoverable from the person in default as a debt due to the Government.
+(4) If any person fails to comply with an order made under subsection (2), the Director-General may take such step or measure as is necessary to ensure that the order is complied with and the reasonable costs and expenses incurred by the Director-General in taking such step or measure shall be recoverable from the person in default as a debt due to the Agency.
+
+[4/2002]
 
 (5) For the purposes of this section —
 

@@ -8,9 +8,7 @@ SUBJECT MATTERS OF REGULATIONS
 
 2. The prescribing of types of air pollution control equipment that may be used in or on any industrial or trade premises and the manner in which such equipment shall be operated and maintained.
 
-3. The prescribing of assistance and facilities (including access to, and the means of making examinations, inspections and tests) to be provided by the occupiers of industrial or trade premises to enable the Director and authorised officers to exercise their powers under this Act.
-
-THIRD SCHEDULE — continued
+3. The prescribing of assistance and facilities (including access to, and the means of making examinations, inspections and tests) to be provided by the occupiers of industrial or trade premises to enable the Director-General and authorised officers to exercise their powers under this Act.
 
 4. The prescribing of standards of concentration or rates of emission of air impurities from any source of air pollution, including motor vehicles and industrial plant, and the method of making tests for the purposes of ascertaining whether any of the provisions of this Act or any conditions attached to a licence or to an exemption are being or have been complied with.
 
@@ -20,7 +18,9 @@ THIRD SCHEDULE — continued
 
 7. The prescribing of types and composition of fuel to be used.
 
-8. The prescribing of returns of any information, statistics and data relating to air, water or noise pollution to be furnished to the Director and the contents thereof, and the persons or classes of persons who are required to furnish such returns.
+8. The prescribing of returns of any information, statistics and data relating to air, water or noise pollution to be furnished to the Director-General and the contents thereof, and the persons or classes of persons who are required to furnish such returns.
+
+THIRD SCHEDULE — continued
 
 9. The prevention of misuse or contamination of water.
 
@@ -40,8 +40,6 @@ THIRD SCHEDULE — continued
 
 17. The prescribing of noise standards for the purposes of this Act.
 
-THIRD SCHEDULE — continued
-
 18. The prescribing of standards of emission of noise from any source of noise pollution, and the methods of determining level, nature, character or quality of noise made or emitted.
 
 19. The regulation or restriction of import, sale and use of industrial plants for the purpose of noise control.
@@ -53,6 +51,8 @@ THIRD SCHEDULE — continued
 22. The prescribing of codes of practice relating to the control and regulation of noise levels in work places and construction sites.
 
 23. The prescribing of standards, codes of practice for the design, manufacture and use of equipment, appliances, machinery, industrial plant and fuel burning equipment to reduce pollution.
+
+THIRD SCHEDULE — continued
 
 24. The prescribing of fees for licences and the prescribing of fees and charges for any of the purposes of this Act or the regulations.
 

@@ -1,18 +1,6 @@
-# 4. Delegation of Director’s functions, duties and powers
+# 4. Public servants
 Part: PART II ADMINISTRATION
 
-(1) The Director may, with the approval of the Minister, authorise —
+Any authorised officer who is generally or specially authorised under section 3 (2) to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act upon the Director-General shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
 
-(a) any employee or agent of a statutory corporation;
-
-(b) any member of a Town Council;
-
-(c) any member of any committee of a Town Council; or
-
-(d) any employee or agent of a Town Council, generally or specially authorised by name or office to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act or the regulations upon the Director subject to the direction and control of the Director.
-
-(2) Any person who is generally or specially authorised under subsection (1) to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act or the regulations upon the Director shall be deemed to be —
-
-(a) a public officer for the purposes of this Act; and
-
-(b) a public servant within the meaning of the Penal Code (Cap. 224).
+[4/2002]

@@ -20,13 +20,13 @@ Alkali metal bifluorides; Preparations containing not more than Ammonium bifluor
 
 Potassium silicofluoride; Sodium Preparations containing not more than silicofluoride; Silicofluoric acid 0.96%, weight in weight, of potassium fluoride in photographic chemicals;
 
-Substances containing not more than 3%, weight in weight, of sodium fluoride or sodium silicofluoride as a preservative;
-
-Substances containing sodium fluoride intended for the treatment of human ailments.
-
 SECOND SCHEDULE — continued
 
 Substance Exclusions
+
+Substances containing not more than 3%, weight in weight, of sodium fluoride or sodium silicofluoride as a preservative;
+
+Substances containing sodium fluoride intended for the treatment of human ailments.
 
 Ammonia Preparations and solutions of ammonia containing not more than 10%, weight in weight, of ammonia;
 
@@ -46,7 +46,7 @@ Ammonium perchlorate
 
 Anionic surface active agents Preparations containing less than 5% by weight of anionic surface active agents;
 
-Preparations containing anionic surface active agents which are not less than 90% biodegradable under a test carried out in accordance with that part of the OECD method which is referred to as ‘‘Confirmatory Test Procedure’’ in European Communities Council Directive No. 73/405/EEC (C) or other equivalent test methods acceptable to the Director.
+Preparations containing anionic surface active agents which are not less than 90% biodegradable under a test carried out in accordance with that part of the OECD method which is referred to as ‘‘Confirmatory Test Procedure’’ in European Communities Council Directive No. 73/405/EEC (C) or other equivalent test methods acceptable to the Director-General.
 
 Antimony pentachloride Polishes SECOND SCHEDULE — continued
 
@@ -92,10 +92,6 @@ Boron trifluoride
 
 Bromine; Bromine solutions
 
-Bromodichlorofluoromethane (Halon 1211, CFCl2Br) in fire extinguishers
-
-Bromotrifluoromethane (Halon Halon 1301 in fire protection systems 1301, CF3Br) in fire protection with building plans approved on or systems before 17th June 1991 and installed on or before 31st December 1991.
-
 Cadmium-containing silver brazing alloy
 
 Captafol
@@ -114,13 +110,11 @@ Preparations containing not more than 1%, weight in weight, of propoxur and not 
 
 Preparations containing not more than 1%, weight in weight, of methomyl and not containing any other carbamate.
 
-SECOND SCHEDULE — continued
-
-Substance Exclusions
-
 Carbon disulphide
 
-Carbon tetrafluoride
+Carbon tetrafluoride SECOND SCHEDULE — continued
+
+Substance Exclusions
 
 Chlorinated hydrocarbons, the Paper impregnated with not more than following: 0.3%, weight in weight, of benzene hexachloride or gamma − BHC Aldrin provided it is labelled with directions Benzene hexachloride (BHC) that no food, wrapped or unwrapped, or food utensils are to be placed on the Bromocyclen treated paper, and that it is not to be Camphechlor used where food is prepared or served.
 
@@ -200,21 +194,11 @@ Chlorobenzenes, the following:
 
 Monochlorobenzene Meta-dichlorobenzene Ortho-dichlorobenzene Trichlorobenzene Tetrachlorobenzene Pentachlorobenzene Hexachlorobenzene
 
-Chlorofluorocarbons, in Chlorofluorocarbons in air-conditioners non-pharmaceutical aerosol in vehicles registered before 1st January products, polystyrene sheets or 1995;
-
-products; in refrigeration or Chlorofluorocarbons in refrigerators air-conditioning equipment that that are used for domestic purpose;
-
-are installed on or after 1st January 1993, the following: Chlorofluorocarbons in refrigerators having a compressor rating not Trichlorofluoromethane exceeding one horsepower.
-
-(CFC11, CFCl3) Dichlorodifluoromethane (CFC12, CF2Cl2) Trichlorotrifluoroethane (CFC113, C2F3Cl3) Dichlorotetrafluoroethane (CFC114, C2F4Cl2) Chloropentafluoroethane (CFC115, C2F5Cl)
-
 Chlorophenols, the following: Substances containing not more than 1%, weight in weight, of chlorophenols.
 
 Monochlorophenol Dichlorophenol Trichlorophenol Tetrachlorophenol Pentachlorophenol and their salts
 
-Chlorophenoxyacids; their salts, esters, amines SECOND SCHEDULE — continued
-
-Substance Exclusions
+Chlorophenoxyacids; their salts, esters, amines
 
 Chloropicrin
 
@@ -232,9 +216,9 @@ Ferricyanides.
 
 Diborane
 
-Dibromochloropropane
+Dibromochloropropane SECOND SCHEDULE — continued
 
-Dibromotetrafluoroethane (Halon 2402, C2F4Br2)
+Substance Exclusions
 
 Diethyl sulphate
 
@@ -256,9 +240,7 @@ Epichlorohydrin
 
 Ethyl mercaptan Substances containing less than 1%, weight in weight, of ethyl mercaptan.
 
-Ethylene dibromide SECOND SCHEDULE — continued
-
-Substance Exclusions
+Ethylene dibromide
 
 Ethylene dichloride
 
@@ -278,19 +260,19 @@ Photographic glazing or hardening solutions.
 
 Formic acid Substances containing not more than 5%, weight in weight, of formic acid.
 
+SECOND SCHEDULE — continued
+
+Substance Exclusions
+
 Germane
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
-
-Hydrobromofluorocarbons (HBFCs)
 
 Hydrochloric acid Substances containing not more than 9% , weight in weight, of hydrochloric acid.
 
 Hydrofluoric acid Preparations or solutions containing not more than 2%, weight in weight, of hydrofluoric acid.
 
-Hydrogen chloride SECOND SCHEDULE — continued
-
-Substance Exclusions
+Hydrogen chloride
 
 Hydrogen cyanide; Hydrocyanic Preparations of wild cherry;
 
@@ -308,17 +290,19 @@ Pre-polymerised isocyanates in polyurethane paints and lacquers;
 
 Hardeners and bonding agents for immediate use in adhesives.
 
+SECOND SCHEDULE — continued
+
+Substance Exclusions
+
 Lead compounds in paint Lead compounds in paint in which the lead content is not more than 0.06% by weight of the paint;
 
-Lead compounds in paint in which the container is affixed with an appropriate label.
+Lead compounds in paint in which the container is affixed with an appropriate label;
 
 The labels to be used for paints containing lead compounds are in accordance with Part IV of the Second Schedule.
 
 Lead tetra-ethyl and similar lead containing compounds
 
-Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles SECOND SCHEDULE — continued
-
-Substance Exclusions
+Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles
 
 Mercuric chloride; Mercuric Dressings on seeds or bulbs;
 
@@ -334,9 +318,9 @@ Metanil yellow (sodium salt of Dye-indicators used in laboratories.
 
 metanilylazo-diphenylamine)
 
-Methyl bromide
+Methyl chloride SECOND SCHEDULE — continued
 
-Methyl chloride
+Substance Exclusions
 
 Methyl mercaptan Substances containing less than 1%, weight in weight, of methyl mercaptan.
 
@@ -352,9 +336,7 @@ Nicotine sulphate
 
 Nitric acid Substances containing not more than 9%, weight in weight, of nitric acid.
 
-Nitric oxide SECOND SCHEDULE — continued
-
-Substance Exclusions
+Nitric oxide
 
 Nitrobenzene Substances containing less than 0.1%, weight in weight, of nitrobenzene;
 
@@ -376,19 +358,73 @@ Substances and preparations containing not more than 3%, weight in weight, of or
 
 Solutions of not more than 60%, weight in weight, of methyl ethyl ketone peroxides and total aggregate weight of less than 50 kilograms of such solutions.
 
+SECOND SCHEDULE — continued
+
+Substance Exclusions
+
 Organo-tin compounds, the following:
 
 Compounds of fentin
 
 Cyhexatin
 
-Paraquat; its salts Preparation in pellet form containing not more than 5%, weight in weight, of salts of paraquat ion.
+Ozone depleting substances, Products containing any ozone namely: depleting substance other than the following products:
 
-Perchloromethyl mercaptan Substances containing less than 1%, weight in weight, of perchloromethyl mercaptan.
+(a) Chlorofluorocarbons, the following: (a) in the case of chlorofluorocarbons —
+
+Chloroheptafluoropropane (i) air-conditioners in vehicles registered on or after 1st Chloropentafluoroethane January 1995 or intended for Chlorotrifluoromethane such vehicles;
+
+Dichlorodifluoromethane
+
+(ii) equipment for domestic or Dichlorohexafluoropropane commercial refrigeration or Dichlorotetrafluoroethane air-conditioning installed on or after 1st January 1993, or heat Heptachlorofluoropropane pump equipment, which Hexachlorodifluoropropane contains any chlorofluorocarbon Pentachlorofluoroethane substance as a refrigerant or in Pentachlorotrifluoropropane any insulating material of such equipment;
+
+Tetrachlorodifluoroethane
+
+(iii) refrigerators that have a Tetrachlorotetrafluoropropane compressor rating which Trichlorofluoromethane exceeds one horsepower;
+
+Trichloropentafluoropropane
+
+(iv) non-pharmaceutical aerosol Trichlorotrifluoroethane products;
+
+(v) insulation boards, panels or pipe covers;
+
+(vi) polystyrene sheets or finished products;
+
+(b) Halons, the following: (b) in the case of Halons, portable fire extinguishers; and
+
+Bromochlorodifluoromethane
+
+(c) in the case of Bromochloromethane bromotrifluoromethane, fire Bromotrifluoromethane protection systems with building Dibromotetrafluoroethane plans approved after 17th June 1991 and installed after 31st December 1991.
 
 SECOND SCHEDULE — continued
 
 Substance Exclusions
+
+(c) Hydrochlorofluorocarbons, the following:
+
+1,1-dichloro-1-fluoro-ethane 1,1-dichloro-2,2,3,3,3- pentafluoropropane 1,3-dichloro-1,2,2,3,3- pentafluoropropane 1-chloro-1,1-difluoro-ethane Chlorodifluoroethane Chlorodifluoromethane Chlorodifluoropropane Chlorofluoroethane Chlorofluoromethane Chlorofluoropropane Chlorohexafluoropropane Chloropentafluoropropane Chlorotetrafluoroethane Chlorotetrafluoropropane Chlorotrifluoroethane Chlorotrifluoropropane Dichlorodifluoroethane Dichlorodifluoropropane Dichlorofluoroethane Dichlorofluoromethane Dichlorofluoropropane Dichloropentafluoropropane Dichlorotetrafluoropropane Dichlorotrifluoroethane Dichlorotrifluoropropane Hexachlorofluoropropane Pentachlorodifluoropropane Pentachlorofluoropropane Tetrachlorodifluoropropane Tetrachlorofluoroethane Tetrachlorofluoropropane SECOND SCHEDULE — continued
+
+Substance Exclusions
+
+Tetrachlorotrifluoropropane Trichlorodifluoroethane Trichlorodifluoropropane Trichlorofluoroethane Trichlorofluoropropane Trichlorotetrafluoropropane Trichlorotrifluoropropane
+
+(d) Hydrobromofluorocarbons, the following:
+
+Bromodifluoroethane Bromodifluoromethane Bromodifluoropropane Bromofluoroethane Bromofluoromethane Bromofluoropropane Bromohexafluoropropane Bromopentafluoropropane Bromotetrafluoroethane Bromotetrafluoropropane Bromotrifluoroethane Bromotrifluoropropane Dibromodifluoroethane Dibromodifluoropropane Dibromofluoroethane Dibromofluoromethane Dibromofluoropropane Dibromopentafluoropropane Dibromotetrafluoropropane Dibromotrifluoroethane Dibromotrifluoropropane Hexabromofluoropropane Pentabromodifluoropropane Pentabromofluoropropane Tetrabromodifluoropropane Tetrabromofluoroethane SECOND SCHEDULE — continued
+
+Substance Exclusions
+
+Tetrabromofluoropropane Tetrabromotrifluoropropane Tribromodifluoroethane Tribromodifluoropropane Tribromofluoroethane Tribromofluoropropane Tribromotetrafluoropropane Tribromotrifluoropropane
+
+(e) Carbon tetrachloride
+
+(f) 1,1,1-trichloroethane (methyl chloroform)
+
+(g) Methyl bromide
+
+Paraquat; its salts Preparation in pellet form containing not more than 5%, weight in weight, of salts of paraquat ion.
+
+Perchloromethyl mercaptan Substances containing less than 1%, weight in weight, of perchloromethyl mercaptan.
 
 Phenols, the following: Preparations containing less than 1%, weight in weight, of phenols;
 
@@ -404,7 +440,9 @@ Phosgene
 
 Phosphides
 
-Phosphine
+Phosphine SECOND SCHEDULE — continued
+
+Substance Exclusions
 
 Phosphoric acid Substances containing not more than 50%, weight in weight, of phosphoric acid.
 
@@ -426,10 +464,6 @@ Trichlorfon;
 
 Preparations containing not more than 0.5%, weight in weight, of chlorpyrifos and not containing any other phosphorus compound;
 
-SECOND SCHEDULE — continued
-
-Substance Exclusions
-
 Preparations containing not more than 0.5%, weight in weight, of dichlorvos and not containing any other phosphorus compound;
 
 Materials impregnated with dichlorvos and not containing any other phosphorus compound for slow release;
@@ -448,7 +482,9 @@ Polybrominated biphenyls
 
 Polychlorinated biphenyls
 
-Polychlorinated terphenyls
+Polychlorinated terphenyls SECOND SCHEDULE — continued
+
+Substance Exclusions
 
 Potassium chlorate
 
@@ -468,9 +504,7 @@ Propylene oxide
 
 Silane
 
-Sodium chlorate SECOND SCHEDULE — continued
-
-Substance Exclusions
+Sodium chlorate
 
 Sodium hydroxide Substances containing not more than 17%, weight in weight, of sodium hydroxide;
 
@@ -498,6 +532,10 @@ Fire extinguishers;
 
 Photographic developers containing not more than 20%, weight in weight, of sulphuric acid.
 
+SECOND SCHEDULE — continued
+
+Substance Exclusions
+
 Thallium; its salts
 
 Titanium tetrachloride
@@ -506,7 +544,7 @@ Tris (2, 3-dibromo-l-propyl) phosphate
 
 Vinyl bromide
 
-Vinyl chloride monomer SECOND SCHEDULE — continued
+Vinyl chloride monomer
 
 PART II
 
@@ -550,13 +588,17 @@ Motor fuels and lubricants except diesel oil and petrol;
 
 Paints other than paints containing mercury compounds, paints containing lead compounds and paints containing asbestos as defined in Part I of this Schedule;
 
+SECOND SCHEDULE — continued
+
+Pharmaceutical aerosols;
+
 Photographic paper;
 
 Pigments;
 
 Plastics;
 
-Propellants;
+Propellants other than those containing ozone depleting substances;
 
 Rubber;
 
@@ -564,15 +606,11 @@ Varnishes;
 
 Vascular plants and their seeds.
 
-SECOND SCHEDULE — continued
-
 PART III
 
 Label for Vehicle Brake and Clutch Lining Containing Asbestos In The Form of Chrysotile
 
 The following label with words and symbol shall be used:
-
-SECOND SCHEDULE — continued
 
 PART IV
 
@@ -590,6 +628,8 @@ When using, do not eat, drink or smoke.
 
 Do not empty into drains.
 
+SECOND SCHEDULE — continued
+
 Do not breathe vapour/spray mist.
 
 Use only in well-ventilated areas.
@@ -601,8 +641,6 @@ Contains Lead. Should not be used on surfaces liable to be chewed or sucked by c
 Keep out of reach of children.’’
 
 The size of the symbol shall be at least equal to one-tenth of the area of a label and shall not in any case be less than 100 square millimetres.
-
-SECOND SCHEDULE — continued
 
 Type 2 Label: For Paints Containing Red Lead Oxide in which the Lead Content is 0.06% to 1% by Weight of the Paint or for Paints Containing other Lead Compounds in which the Lead Content is 0.06% to 5% by Weight of the Paint:
 
@@ -623,6 +661,10 @@ Dimensions of the Labels in Part IV
 Capacity of Package Dimension of Label
 
 (a) Not exceeding 3 litres not less than 52 × 74 millimetres.
+
+SECOND SCHEDULE — continued
+
+Capacity of Package Dimension of Label
 
 (b) Exceeding 3 litres but not not less than 74 × 105 millimetres.
 

@@ -15,7 +15,9 @@ Part: PART X ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 (4) For the purposes of subsection (3), a defendant shall not be presumed to have exercised due diligence unless he had taken all reasonable measures to prevent the offence from being committed at the construction site, including all the measures prescribed under subsection (5) in respect of the construction site.
 
-(5) For the purposes of subsection (4), the Minister may, by notification in the Gazette, prescribe the measures that are required to be taken by the principal contractor of the construction site.
+(5) For the purposes of subsection (4), the Agency may, with the approval of the Minister, by notification in the Gazette, prescribe the measures that are required to be taken by the principal contractor of the construction site.
+
+[4/2002]
 
 (6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to the same punishment for an offence under section 14, 15 or 17, as the case may be.
 

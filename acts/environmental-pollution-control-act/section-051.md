@@ -1,7 +1,7 @@
 # 51. Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court
 Part: PART XII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) Except as otherwise provided, in all cases where compensation, damages, fees, costs or expenses are provided under this Act or the regulations to be paid, the amount and, if necessary, the apportionment of the amount and any question of liability shall, in case of dispute, or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount claimed exceeds the Magistrate’s Court limit, by a District Court.
+(1) Except as otherwise provided, in all cases where compensation, damages, fees, costs or expenses are provided under this Act to be paid, the amount and, if necessary, the apportionment of the amount and any question of liability shall, in case of dispute, or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount claimed exceeds the Magistrate’s Court limit, by a District Court.
 
 (2) In any proceeding under subsection (1), the Magistrate’s Court or the District Court may —
 
@@ -9,7 +9,9 @@ Part: PART XII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 (b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
-(c) where those expenses were incurred under section 41 (1) (b) by the Director in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
+(c) where those expenses were incurred under section 41 (1) (b) by the Director-General in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
+
+[4/2002]
 
 (3) The Magistrate’s Court or the District Court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the Court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
 

@@ -1,7 +1,9 @@
 # 38. Regulations for mandatory insurance
 Part: PART X ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
-(1) The Minister may make regulations to require an owner or occupier of industrial or trade premises or a person who handles, stores, transports or uses hazardous substances to take out and maintain policies of insurance in such circumstances and against liabilities for such risks, costs or damages as may be prescribed in the regulations.
+(1) The Agency may, with the approval of the Minister, make regulations to require an owner or occupier of industrial or trade premises or a person who handles, stores, transports or uses hazardous substances to take out and maintain policies of insurance in such circumstances and against liabilities for such risks, costs or damages as may be prescribed in the regulations.
+
+[4/2002]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may provide for —
 

@@ -4,7 +4,7 @@ Section 6
 
 SCHEDULED PREMISES
 
-Scheduled Premises are any premises —
+Scheduled premises are any premises —
 
 (a) being used for —
 
@@ -34,11 +34,11 @@ Scheduled Premises are any premises —
 
 (xiii) pulping works, being works in which wood or cellulose material is made into pulp;
 
-(xiv) abrasive blasting works, being works in which equipment or structures are cleaned by abrasive blasting;
-
 FIRST SCHEDULE — continued
 
-(b) on which there is erected any boiler of steam generating capacity of 2,300 kilogrammes or more per hour, incinerator or furnace burning 500 kilogrammes or more of solid combustible material per hour or 220 kilogrammes or more of liquid material per hour;
+(xiv) abrasive blasting works, being works in which equipment or structures are cleaned by abrasive blasting;
+
+(b) on which there is erected any boiler of steam generating capacity of 2,300 kilogrammes or more per hour, incinerator or furnace burning 500 kilogrammes or more of solid combustible material per hour or 220 kilogrammes or more of liquid material per hour; or
 
 (c) being used or intended to be used for storing —
 

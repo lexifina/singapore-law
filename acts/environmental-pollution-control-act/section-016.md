@@ -3,7 +3,9 @@ Part: PART V WATER POLLUTION CONTROL
 
 (1) The occupier of any premises shall treat any trade effluent discharged therefrom in such manner as may be prescribed before such trade effluent is discharged into any drain or land in pursuance of a licence granted under section 15.
 
-(2) A person using, working or operating any plant for the purpose of treating any trade effluent shall use, work or operate and maintain such plant in such manner as the Director may require.
+(2) A person using, working or operating any plant for the purpose of treating any trade effluent shall use, work or operate and maintain such plant in such manner as the Director-General may require.
+
+[4/2002]
 
 (3) Any person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable —
 

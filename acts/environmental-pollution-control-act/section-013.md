@@ -1,7 +1,7 @@
-# 13. Power of Director to require work on any premises
+# 13. Power of Director-General to require work on any premises
 Part: PART IV AIR POLLUTION CONTROL
 
-(1) Where, in the opinion of the Director, any air impurities are being or are likely to be emitted from any industrial or trade premises, the Director may by notice in writing require the owner or occupier of the premises —
+(1) Where, in the opinion of the Director-General, any air impurities are being or are likely to be emitted from any industrial or trade premises, the Director-General may by notice in writing require the owner or occupier of the premises —
 
 (a) to install and operate any industrial plant, air pollution control equipment or additional air pollution control equipment, in or on the premises;
 
@@ -16,5 +16,7 @@ Part: PART IV AIR POLLUTION CONTROL
 (f) to dismantle or disconnect any industrial plant, fuel burning equipment, air pollution control equipment or chimney installed in or on the premises; or
 
 (g) to install and operate such instruments and carry out such tests and keep records thereof, within such time and in such manner as may be specified in the notice.
+
+[4/2002]
 
 (2) The owner or occupier of any industrial or trade premises to whom any notice in writing is given under this section shall comply with all the requirements set out in the notice.

@@ -13,8 +13,14 @@ Part: PART XI ENFORCEMENT
 
 (a) the non-execution of the notice or order will be injurious or dangerous to public health; and
 
-(b) the immediate execution of the notice or order will not cause any injury to the person against whom the notice or order was made which cannot be compensated by damages, the Minister may authorise the Director immediately to execute the work.
+(b) the immediate execution of the notice or order will not cause any injury to the person against whom the notice or order was made which cannot be compensated by damages, the Minister may authorise the Director-General immediately to execute the work.
 
-(4) The Director shall, if he carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
+[4/2002]
 
-(5) The Director may, if he carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 51 and, if the appellant is the owner of the premises in respect of which the notice or order was made, section 53 shall apply to any sum recoverable from him hereunder.
+(4) The Director-General shall, if he carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
+
+[4/2002]
+
+(5) The Director-General may, if he carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 51 and, if the appellant is the owner of the premises in respect of which the notice or order was made, section 53 shall apply to any sum recoverable from him hereunder.
+
+[4/2002]

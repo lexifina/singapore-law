@@ -1,7 +1,7 @@
-# 7. Power of Director to attach conditions to licence
+# 7. Power of Director-General to attach conditions to licence
 Part: PART III USE OF SCHEDULED PREMISES
 
-Without prejudice to the generality of section 32, the Director may, in granting a licence under section 6, impose conditions to ensure that pollution of the environment, as well as hazardous substances are adequately managed and controlled which may include but not be limited to the following:
+Without prejudice to the generality of section 32, the Director- General may, in granting a licence under section 6, impose conditions to ensure that pollution of the environment, as well as hazardous substances are adequately managed and controlled which may include but not be limited to the following:
 
 (a) requiring the owner or occupier —
 
@@ -19,6 +19,8 @@ Without prejudice to the generality of section 32, the Director may, in granting
 
 (vii) to carry out any of the requirements imposed on him under this paragraph within such period as may be specified;
 
-(b) prohibiting the owner or occupier from altering or replacing any control equipment or treatment plant installed in or on the scheduled premises except with the approval of the Director; or
+(b) prohibiting the owner or occupier from altering or replacing any control equipment or treatment plant installed in or on the scheduled premises except with the approval of the Director-General; or
 
-(c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the licence has been granted unless approval to do so has been given by the Director.
+(c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the licence has been granted unless approval to do so has been given by the Director-General.
+
+[4/2002]
