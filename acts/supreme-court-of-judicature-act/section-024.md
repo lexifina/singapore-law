@@ -1,0 +1,4 @@
+# 24. Power of High Court to call for records of civil proceedings in subordinate courts
+Part: PART III THE HIGH COURT General
+
+The High Court may call for and examine the record of any civil proceedings before any subordinate court for the purpose of satisfying itself as to the correctness, legality or propriety of any decision recorded or passed, and as to the regularity of any proceedings of any such subordinate court.
