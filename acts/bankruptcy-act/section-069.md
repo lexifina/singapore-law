@@ -1,0 +1,4 @@
+# 69. Power to dismiss petition against some respondents only
+Part: PART VI PROCEEDINGS IN BANKRUPTCY Bankruptcy petitions and bankruptcy orders
+
+Where there are 2 or more respondents to a petition, the court may dismiss the petition as to one or more of them, without prejudice to the effect of the petition as against the other or others of them.
