@@ -11,6 +11,8 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (5) Any person who, knowing that a direction has been issued under this section for the prevention of his departure from Singapore, voluntarily leaves or attempts to leave Singapore without paying all tax assessed upon him or furnishing security to the satisfaction of the Comptroller for payment thereof shall be guilty of an offence and may be arrested, without warrant, by any police officer or immigration officer.
 
-(6) No civil or criminal proceedings shall be instituted or main- tained against the Government, the Commissioner of Police, the Controller of Immigration or any other police officer or immigration officer, in respect of anything lawfully done under the authority of this section.
+(6) No civil or criminal proceedings shall be instituted or maintained against the Government, the Commissioner of Police, the Controller of Immigration or any other police officer or immigration officer, in respect of anything lawfully done under the authority of this section.
 
-[87
+(7) In this section, ‘‘tax’’ includes any interest imposed under section 85 (2).
+
+[24/2000]

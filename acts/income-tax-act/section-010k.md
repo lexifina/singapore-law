@@ -17,9 +17,7 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 [32/99]
 
-(3) Where the dividend deemed to be paid under subsection
-
-(2) (b) (i) is a dividend to which section 44 applies, the amount of dividend deemed to be so paid by the company shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
+(3) Where the dividend deemed to be paid under subsection (2) (b) (i) is a dividend to which section 44 applies, the amount of dividend deemed to be so paid by the company shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
 
 [32/99]
 
@@ -31,6 +29,6 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 (a) the contributed capital of a company has the same meaning as in section 10I (5) (b); and
 
-(b) where a company redeems any redeemable shares to which this section applies and the redemption is effected before any reduction of its share capital to which section 10I applies or any buyback to which section 10J (2) applies, section 10I (5) (c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the redemption and any reference in that section to the first reduction shall be read as a reference to the redemption.
+(b) where a company redeems any redeemable shares to which this section applies and the redemption is effected before any reduction of its share capital to which section 10I applies or any buyback to which section 10J (2) or 10M applies, section 10I (5) (c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the redemption and any reference in that section to the first reduction shall be read as a reference to the redemption.
 
-[32/99]
+[32/99; 24/2001]

@@ -11,17 +11,19 @@ Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
 
 (b) an amount not exceeding twice the value, both the amount and value to be determined by the Minister, of an approved gift made to an approved museum in the year preceding the year of assessment; and for this purpose, ‘‘approved’’ means approved by the Minister or such person as he may appoint;
 
-(c) an amount in respect of gifts of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character in Singapore approved by the Minister on application by the institution concerned; and
+(c) an amount in respect of gifts of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character in Singapore approved by the Minister on application by the institution concerned;
 
-(d) an amount equivalent to the value of any gift of a computer (including computer software and peripherals) approved by the Minister and made by any company in the year preceding the year of assessment to a prescribed educational , research or other institution in Singapore.
+(d) an amount equivalent to the value of any gift of a computer (including computer software and peripherals) approved by the Minister and made by any company in the year preceding the year of assessment to a prescribed educational, research or other institution in Singapore; and
 
-[31/86; 1/90; 26/93; 31/98]
+(e) an amount in respect of gifts of shares in a company listed on the Singapore Exchange or of units in unit trusts traded in Singapore made by an individual in the year preceding the year of assessment to any institution of a public character in Singapore approved by the Minister on the application by that institution.
+
+[31/86; 1/90; 26/93; 31/98; 24/2001]
 
 (2A) A deduction under subsection (2) (a) shall be made as far as possible from the statutory income of the first year of assessment after the year in which such loss was incurred, and, so far as it cannot be so made, then from the statutory income of the next year of assessment, and so on.
 
-(2B) A deduction under this section to any person in respect of any sum allowable under subsection (2) (b), (c) and (d) shall only be allowed to the extent that it is not in excess of the statutory income, if any, remaining after the deduction authorised by subsection (2) (a).
+(2B) A deduction under this section to any person in respect of any sum allowable under subsection (2) (b), (c), (d) and (e) shall only be allowed to the extent that it is not in excess of the statutory income, if any, remaining after the deduction authorised by subsection (2) (a).
 
-[31/86; 1/90]
+[31/86; 1/90; 24/2001]
 
 (3) For the purposes of subsection (2), the loss incurred during any year shall be computed, where the Comptroller so decides, by reference to the year ending on a day in such year which would have been adopted under section 35 (2) for the computation of the statutory income of the following year of assessment if a profit had arisen.
 
@@ -35,13 +37,13 @@ Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
 
 (a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates, not less than 50% of the paid-up capital of the company was held by or on behalf of the same persons, nor unless, on both those dates, not less than 50% of the nominal value of the allotted shares in the company were held by or on behalf of the same persons; and
 
-(b) shares in a company held by or on behalf of another company shall be deemed to be held by the shareholders of the last-mentioned company, and shares held by or on behalf of the trustee of the estate of a deceased shareholder or by or on behalf of the person entitled to those shares as benefi- ciaries under the will or any intestacy of a deceased shareholder shall be deemed to be held by that deceased shareholder.
+(b) shares in a company held by or on behalf of another company shall be deemed to be held by the shareholders of the last-mentioned company, and shares held by or on behalf of the trustee of the estate of a deceased shareholder or by or on behalf of the person entitled to those shares as beneficiaries under the will or any intestacy of a deceased shareholder shall be deemed to be held by that deceased shareholder.
 
 (8) The Minister or such person as he may appoint may, where there is a substantial change in the shareholders of a company and he is satisfied that such change is not for the purpose of deriving any tax benefit or obtaining any tax advantage, exempt that company from the provisions of subsection (5); and upon such exemption the loss referred to in subsection (2) (a) incurred by that company may be deducted but only against profits from the same trade or business in respect of which that loss was incurred.
 
 [3/89; 11/94]
 
-(9) In subsection (2) (c), ‘‘institution of a public character’’ means an institution or fund in Singapore which is —
+(9) In subsection (2) (c) and (e), ‘‘institution of a public character’’ means an institution or fund in Singapore which is —
 
 (a) a hospital not operated or conducted for profit;
 
@@ -49,7 +51,7 @@ Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
 
 (c) a public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings, where the gift is for such activities;
 
-(d) a university or a public fund for the establishment, main- tenance, enlargement or improvement of a university;
+(d) a university or a public fund for the establishment, maintenance, enlargement or improvement of a university;
 
 (e) an educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution;
 
@@ -61,4 +63,14 @@ Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
 
 (i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports.
 
-[28/80]
+[28/80; 24/2001]
+
+(10) For the purposes of subsection (2) (e) —
+
+(a) the amount in respect of any gift of shares in a company listed on the Singapore Exchange shall be the price of such shares in the open market at the last transaction on the date of the gift;
+
+(b) the amount in respect of any gift of units in unit trusts traded in Singapore shall be the bid price of such units immediately after the date of the gift quoted by the manager of the unit trusts; and
+
+(c) ‘‘date of the gift’’, in relation to any shares or units referred to in paragraph (a) or (b), as the case may be, means the date of legal transfer to the institution of a public character of the gift of such shares or units.
+
+[24/2001]

@@ -17,7 +17,7 @@ Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 [37/75; 1/82; 15/83; 26/93]
 
-(2) In the case of an individual resident in Singapore in the year of assessment who, in the year immediately preceding the year of assessment—
+(2) In the case of an individual resident in Singapore in the year of assessment who, in the year immediately preceding the year of assessment —
 
 Deduction for wife
 
@@ -25,7 +25,7 @@ Deduction for wife
 
 Deduction for alimony
 
-(b) paid alimony to a previous wife whose marriage with him has been dissolved by any court of competent jurisdiction, there shall be allowed a deduction of the amount of such alimony or $2,000 whichever is the less;
+(b) paid alimony to a previous wife whose marriage with him has been dissolved by any court of competent jurisdiction, there shall be allowed a deduction of the amount of such alimony or $2,000, whichever is the less;
 
 Deduction for payments under order or deed
 
@@ -43,13 +43,13 @@ Deduction for handicapped spouse
 
 (iii) in respect of whom no deduction has been claimed by another person under paragraph (i) or (j), there shall be allowed in respect of —
 
-(A) such spouse a deduction of $3,500; or
+(A) such spouse a deduction of $3,500;
 
 (B) such spouse from whom he was separated by an order of court or deed of separation, a deduction of the amount of payments made in accordance with such order or deed or $3,500, whichever is the less; or
 
 (C) such previous spouse whose marriage with him has been dissolved by any court of competent jurisdiction, a deduction of the amount of alimony paid to the previous spouse or $3,500, whichever is the less:
 
-Provided that the total deductions allowed to the indivi- dual under this paragraph and paragraph (a), (b) or (c) shall not exceed $3,500.
+Provided that the total deductions allowed to the individual under this paragraph and paragraph (a), (b) or (c) shall not exceed $3,500.
 
 Deduction for children
 
@@ -83,7 +83,7 @@ Provided that —
 
 (i) in the case of any policy securing a capital sum on death (whether in conjunction with any other benefit or not), the amount to be deducted in respect of that policy shall not exceed 7% of that capital sum, exclusive of any additional benefit by way of bonus, profits or otherwise;
 
-(ii) no deduction shall be allowed in excess of $5,000 except that where the contributions made to an approved pension or provident fund or the Central Provident Fund exceed $5,000, the excess contri- butions shall, subject to subsections (6) to (10), be allowed as a deduction;
+(ii) no deduction shall be allowed in excess of $5,000 except that where the contributions made to an approved pension or provident fund or the Central Provident Fund exceed $5,000, the excess contributions shall, subject to subsections (6) to (10), be allowed as a deduction;
 
 (iii) no such deduction shall include any sum contributed to an approved pension or provident fund or society unless the contribution of such sum thereto was obligatory by reason of any contract of employment or of any provision in the rules or constitution of the fund or society;
 
@@ -91,23 +91,25 @@ Provided that —
 
 (v) no such deduction shall be allowed unless the insurance company has an office or a branch in Singapore but this sub-paragraph shall not apply to any insurance contract entered into by an individual resident in Singapore prior to the coming into operation of this sub-paragraph;
 
-(vi) in the case of an individual who has made contri- butions to an approved pension or provident fund, no such deduction shall exceed the contributions which would have been recoverable under section 7 (2) of the Central Provident Fund Act (Cap. 36) had contri- butions been payable in respect of him to the Central Provident Fund;
+(vi) in the case of an individual who has made contributions to an approved pension or provident fund, no such deduction shall exceed the contributions which would have been recoverable under section 7 (2) of the Central Provident Fund Act (Cap. 36) had contributions been payable in respect of him to the Central Provident Fund;
 
-(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a profes- sional visit pass, an employment pass or a work permit;
+(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit;
+
+(viii) no such deduction shall be allowed where the premiums for such insurance are paid with funds standing in his SRS account;
 
 Deduction for CPF contributions by self-employed
 
-(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act, there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 20% of his assessable income for that year of assessment derived from such trade, business, profession or vocation or $14,400, whichever is the less:
+(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act (Cap. 36), there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 36% or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or $25,920 or such other amount as may be prescribed, whichever is the less:
 
 Provided that —
 
 (i) where the contributions to any approved pension or provident fund or society under paragraph (g) and this paragraph do not exceed $5,000, the total deductions allowable under paragraph (g) and this paragraph shall not exceed $5,000, and where such contributions exceed $5,000 no deduction shall be allowed in respect of premiums for life insurance;
 
-(ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $14,400 where the deduction allowable under paragraph (g) is less than $14,400 in respect of such contributions;
+(ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $25,920 or such other amount as may be prescribed where the deduction allowable under paragraph (g) is less than $25,920 or such other amount as may be prescribed in respect of such contributions;
 
-(iii) no deduction shall be allowed under this paragraph where a deduction of $14,400 or more has been allowed under paragraph (g) in respect of contri- butions to any approved pension or provident fund or society;
+(iii) no deduction shall be allowed under this paragraph where a deduction of $25,920 or such other amount as may be prescribed or more has been allowed under paragraph (g) in respect of contributions to any approved pension or provident fund or society;
 
-(iv) where the total deductions allowable under this paragraph in respect of contributions which are obligatory under the Central Provident Fund Act (Cap. 36) and under paragraph (g) in respect of contributions to any approved pension or provident fund or society exceed $14,400, sub-paragraphs (ii) and (iii) shall not apply to such amount of contri- butions in excess of $14,400 which are allowable under this paragraph;
+(iv) where the total deductions allowable under this paragraph in respect of contributions which are obligatory under the Central Provident Fund Act and under paragraph (g) in respect of contributions to any approved pension or provident fund or society exceed $25,920 or such other amount as may be prescribed, sub-paragraphs (ii) and (iii) shall not apply to such amount of contributions in excess of $25,920 or such other amount as may be prescribed which are allowable under this paragraph;
 
 Deduction for aged parents
 
@@ -123,7 +125,7 @@ and
 
 (iv) in respect of whom no deduction has been claimed by another person under paragraph (a), (b), (c) or (d), there shall be allowed in respect of each such dependant —
 
-(A) a deduction of $4,500, where the dependant was living with him in the same household; or
+(A) a deduction of $5,000, where the dependant was living with him in the same household; or
 
 (B) a deduction of $3,500, where the dependant was not living with him in the same household but in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant:
 
@@ -179,19 +181,29 @@ Deduction in respect of operationally ready national servicemen
 
 (iv) where a parent has more than one child who is an operationally ready national serviceman, the deduction under this paragraph shall be allowed to the parent in respect of only one such national serviceman; and
 
-(v) no deduction under this paragraph shall be allowed to a parent of an operationally ready national serviceman who is not entitled to a deduction under paragraph (l) for that year of assessment.
+(v) no deduction under this paragraph shall be allowed to a parent of an operationally ready national serviceman who is not entitled to a deduction under paragraph (l) for that year of assessment;
 
-[26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91;
+Deduction for contributions under Supplementary Retirement Scheme
 
-2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99]
+(o) has contributed to an SRS account with an SRS operator, there shall be allowed a deduction of the amount of such contribution up to the amount of the SRS contribution cap applicable to him as determined in accordance with regulations made under section 10L (11), except that no deduction shall be allowed if —
 
-(3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his or his parent’s retirement account, there shall be allowed a deduction of the amount of such payment or $6,000, whichever is the less.
+(i) his SRS account is suspended as at 31st December of the year immediately preceding the year of assessment under regulations made under section 10L; or
 
-[1/88]
+(ii) the amount of such contribution is withdrawn from his SRS account within the year immediately preceding the year of assessment:
 
-(4) The total deduction allowed under subsection (3) in respect of any amount paid by a person to his and his parent’s retirement accounts shall not exceed such amount as may be prescribed; and
+Provided that where an SRS member derives income from a trade, business, profession or vocation or the exercise of an employment outside Singapore, the deduction shall not exceed the amount of income remitted to, transmitted or brought into Singapore from outside Singapore.
 
-where more than one person is entitled to claim such deduction in respect of the same parent, the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
+[26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92;
+
+28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001]
+
+(3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his parent’s or his grandparent’s retirement account, there shall be allowed a deduction of the amount of such payment or $6,000, whichever is the less.
+
+[1/88; 24/2000]
+
+(4) The total deduction allowed under subsection (3) in respect of any amount paid by a person to his, his parent’s and his grandparent’s retirement accounts shall not exceed such amount as may be prescribed; and where more than one person is entitled to claim such deduction in respect of the same parent or grandparent, the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
+
+[24/2000]
 
 (5) For the purposes of subsection (3), a claim for deduction shall only be granted if the claim contains such particulars and is supported by such proof as the Comptroller may require.
 
@@ -207,9 +219,7 @@ where more than one person is entitled to claim such deduction in respect of the
 
 (7) Where in any year an individual is employed by 2 or more employers and the employers are related to each other within the meaning of section 10C (4), subsection (6) shall apply, with the necessary modifications, as if all the ordinary and additional wages from those related employers were paid by one employer.
 
-(8) Subsections (6) and (7) shall apply, with the necessary modifi- cations, to contributions made by an individual to an approved pension or provident fund as if those contributions were contri- butions made to the Central Provident Fund; except that paragraphs
-
-(a) and (b) of subsection (6) shall only apply to an approved pension or provident fund designated by the Minister for this purpose.
+(8) Subsections (6) and (7) shall apply, with the necessary modifications, to contributions made by an individual to an approved pension or provident fund as if those contributions were contributions made to the Central Provident Fund; except that subsection (6) (a) and (b) shall only apply to an approved pension or provident fund designated by the Minister for this purpose.
 
 (9) Where in any year an individual has made contributions to the Central Provident Fund or to a pension or provident fund designated under subsection (8), in addition to any other approved pension or provident fund, no deduction shall be allowed in respect of the whole of the contributions made to that approved pension or provident fund.
 
@@ -237,7 +247,7 @@ where more than one person is entitled to claim such deduction in respect of the
 
 ‘‘ordinary wages’’ has the same meaning as ‘‘ordinary wages for the month’’ in the Central Provident Fund Act (Cap. 36);
 
-‘‘overseas additional wages’’, ‘‘overseas ordinary wages’’, ‘‘over- seas total wages’’ and ‘‘relevant employer’’ have the same meanings as in section 10C (7);
+‘‘overseas additional wages’’, ‘‘overseas ordinary wages’’, ‘‘overseas total wages’’ and ‘‘relevant employer’’ have the same meanings as in section 10C (7);
 
 ‘‘proper authority’’ means such person as the Minister may appoint;
 
@@ -245,4 +255,4 @@ where more than one person is entitled to claim such deduction in respect of the
 
 ‘‘year’’ means any year from 1st January to 31st December.
 
-[7/85; 11/94; 28/92; 28/96]
+[7/85; 28/92; 11/94; 28/96]

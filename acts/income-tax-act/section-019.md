@@ -1,4 +1,4 @@
-# 19. Initial and annual allowances, machinery or plant
+# 19. Initial and annual allowances for machinery or plant
 Part: PART VI CAPITAL ALLOWANCES
 
 (1) Where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, there shall be made to him, on due claim for the year of assessment in the basis period for which the expenditure is incurred an allowance, to be known as an ‘‘initial allowance’’, equal to one-fifth of that expenditure or such other allowance as may be prescribed either generally or for any person or class of persons in respect of any machinery or plant or class of machinery or plant.
@@ -7,7 +7,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (1A) For the purposes of subsection (1), in the case of any trade, profession or business —
 
-(a) where two basis periods overlap, the period common to both shall be deemed to fall in the first basis period only;
+(a) where 2 basis periods overlap, the period common to both shall be deemed to fall in the first basis period only;
 
 (b) where there is an interval between the end of the basis period for a year of assessment and the commencement of a basis period for the next succeeding year of assessment, then, unless the second mentioned year of assessment is the year of the permanent discontinuance of the trade, the interval shall be deemed to be part of the second basis period; and
 
@@ -17,7 +17,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (2) Where at the end of the basis period for any year of assessment, a person has in use machinery or plant for the purpose of his trade, profession or business, there shall be made to him, on due claim, in respect of that year of assessment an allowance for depreciation by wear and tear of those assets (to be known as an annual allowance) which shall be calculated in accordance with the following provisions:
 
-(a) the annual allowance in respect of any machinery or plant shall—
+(a) the annual allowance in respect of any machinery or plant shall —
 
 (i) in the case of an asset, other than an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over any initial allowance granted under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
 
@@ -37,7 +37,7 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 [28/80; 32/95]
 
-(2A) Notwithstanding subsections (1) and (2), in respect of a motor car to which this subsection applies —
+(3) Notwithstanding subsections (1) and (2), in respect of a motor car to which this subsection applies —
 
 (a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure incurred in respect of that motor car or $35,000, whichever is the less;
 
@@ -47,9 +47,9 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 [37/75; 5/83]
 
-(2B) Subsection (2A) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers exclusive of the driver and the weight of which unladen does not exceed 3,000 kilograms and which —
+(4) Subsection (3) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms and which —
 
-(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) and the rules made thereunder but excludes such a motor car which is —
+(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) but excludes such a motor car which is —
 
 (i) used principally for instructional purposes; and
 
@@ -59,22 +59,20 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 [32/99]
 
-(2C) No allowance under this section shall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers exclusive of the driver and the weight of which unladen does not exceed 3,000 kilograms except —
+(5) No allowance under this section shall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
 (a) a taxi;
 
-(b) a motor car registered outside Singapore and used exclu- sively outside Singapore;
+(b) a motor car registered outside Singapore and used exclusively outside Singapore;
 
 (c) a private hire car acquired by a person who carries on the business of hiring out cars and which is used by the person principally for hiring;
 
-(d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) and the rules made thereunder;
-
-and
+(d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act; and
 
 (e) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes and acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act.
 
 [32/99]
 
-(3) In subsection (1), ‘‘prescribed’’ means prescribed by an order made by the Minister.
+(6) In subsection (1), ‘‘prescribed’’ means prescribed by an order made by the Minister.
 
-(4) Every order made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+(7) Every order made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.

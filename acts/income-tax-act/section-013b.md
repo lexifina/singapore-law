@@ -31,7 +31,9 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N or 43O; or
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N or 43O;
+
+or
 
 (b) any dividend, including a dividend paid by a holding company under subsection (6), which has been exempted from tax in the hands of any shareholder, ought not to have been so taxed or exempted, as the case may be, the Comptroller, may within the year of assessment or within 6 years after the expiration thereof —
 
@@ -41,6 +43,6 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 [15/83; 1/90; 20/91; 2/92; 28/92; 26/93; 11/94; 1/98; 31/98]
 
-(9) This section shall not, in relation to any income of an insurance company which is subject to the concessionary rate of tax prescribed by regulations made under section 43C, apply to such part of the income ascertained under section 26 (3A) as is apportioned to the policyholders of the company in accordance with those regulations.
+(9) This section shall not, in relation to any income of an insurance company which is subject to the concessionary rate of tax prescribed by regulations made under section 43C, apply to such part of the income ascertained under section 26 (7) as is apportioned to the policyholders of the company in accordance with those regulations.
 
 [28/92]

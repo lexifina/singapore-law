@@ -9,21 +9,21 @@ Part: PART XI RATES OF TAX
 
 (a) in respect of any qualifying service only where the qualifying service and the office, associated company or person to whom the service is rendered have been approved in relation to that headquarters company for such concessionary rate;
 
-(b) in respect of any qualifying treasury, investment or financial activity only where the qualifying activity has been approved in relation to that headquarters company for such conces- sionary rate; and
+(b) in respect of any qualifying treasury, investment or financial activity only where the qualifying activity has been approved in relation to that headquarters company for such concessionary rate; and
 
-(c) subject to such conditions as the Minister or person appointed by him may impose.
+(c) subject to such conditions as the Minister or such person appointed by him may impose.
 
 [20/91]
 
-(2A) Regulations made under subsection (1) may provide for exemption from tax of income derived by an approved headquarters company from the provision of any qualifying service if —
+(3) Regulations made under subsection (1) may provide for exemption from tax of income derived by an approved headquarters company from the provision of any qualifying service if —
 
 (a) the qualifying service and the office, associated company or person to whom the service is rendered have been approved in relation to the approved headquarters company for the purposes of the exemption from tax; and
 
-(b) the approved headquarters company has global responsi- bility for the provision of any qualifying service.
+(b) the approved headquarters company has global responsibility for the provision of any qualifying service.
 
 [32/99]
 
-(3) In this section —
+(4) In this section —
 
 ‘‘associated company’’, in relation to an approved headquarters company, means a company —
 

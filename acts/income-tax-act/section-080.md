@@ -15,7 +15,7 @@ Part: PART XVIII APPEALS
 
 (b) to allow any person so attending any reasonable expenses necessarily incurred by him in so attending; such expenses shall form part of the costs of the appeal and, pending and subject to any order by the Board as to such costs, shall be paid by the appellant or the Comptroller, as the Board may direct;
 
-(c) all the powers of a District Court with regard to the enforce- ment of attendance of witnesses, hearing evidence on oath and punishment for contempt;
+(c) all the powers of a District Court with regard to the enforcement of attendance of witnesses, hearing evidence on oath and punishment for contempt;
 
 (d) subject to section 79 (6), to admit or reject any evidence adduced, whether oral or documentary and whether admissible or inadmissible under the provisions of any written law for the time being in force relating to the admissibility of evidence.
 

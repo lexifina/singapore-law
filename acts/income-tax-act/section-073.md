@@ -26,5 +26,3 @@ Part: PART XVII ASSESSMENTS AND OBJECTIONS
 (5) If it appears to the Comptroller that by reason of such assumption an advance assessment so made has become less favourable to that person than it would have been if made under section 35 (1), he shall amend such assessment as to him seems reasonable.
 
 (6) Nothing in this section shall affect the Comptroller’s right to make any additional assessment due to any change of circumstances and without prejudice to the generality of section 74.
-
-[72A

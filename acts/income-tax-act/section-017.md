@@ -1,4 +1,4 @@
-# 17. Balancing allowances and charges, industrial buildings and structures
+# 17. Balancing allowances and charges for industrial buildings and structures
 Part: PART VI CAPITAL ALLOWANCES
 
 (1) Where any capital expenditure has been incurred on the construction of a building or structure and, in or after the basis period for the first year of assessment under this Act, any of the following events occurs while the building or structure is an industrial building or structure:

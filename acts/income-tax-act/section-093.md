@@ -9,7 +9,7 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (3) Nothing in this section shall operate to extend any time limit for appeal or validate any objection or appeal which is otherwise invalid or authorise the revision of any assessment or other matter which has become final and conclusive.
 
-(4) Any refund to be made under this section shall be reduced by the amount of charge or additional charge which has not been utilized for set-off under section 44 (11) on the date the refund arises, and where the amount of such charge or additional charge exceeds the amount to be refunded no refund shall be made under this section.
+(4) Any refund to be made under this section shall be reduced by the amount of charge or additional charge which has not been utilised for set-off under section 44 (11) on the date the refund arises, and where the amount of such charge or additional charge exceeds the amount to be refunded no refund shall be made under this section.
 
 [1/88]
 

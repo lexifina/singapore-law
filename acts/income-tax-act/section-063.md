@@ -7,6 +7,4 @@ Part: PART XVI RETURNS
 
 (2) Any person who fails or neglects without reasonable excuse to furnish the estimate of his chargeable income as required under subsection (1) shall be guilty of an offence.
 
-[63A
-
 [11/94]

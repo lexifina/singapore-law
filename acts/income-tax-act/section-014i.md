@@ -13,15 +13,13 @@ Part: PART V DEDUCTIONS AGAINST INCOME
 
 [28/96]
 
-(2A) The total amount deemed as trading receipts under subsection (2) shall not exceed the total amount of all deductions previously allowed under this section.
+(3) The total amount deemed as trading receipts under subsection (2) shall not exceed the total amount of all deductions previously allowed under this section.
 
-(3) Where in a scheme of amalgamation involving 2 or more banks or finance companies whereby the whole or substantially the whole of the undertaking of any bank or finance company is transferred to another bank or finance company, the Minister may, if he thinks fit and on such conditions as he may impose, by order declare that any provisions in the account of the transferor bank or transferor finance company which have been transferred to the transferee bank or transferee finance company shall not be deemed under subsection
-
-(2) (b) to be a trading receipt of the transferor bank or transferor finance company; and the provisions so declared shall for the purposes of this section be treated as having been allowed to the transferee bank or transferee finance company as a deduction under this section.
+(4) Where in a scheme of amalgamation involving 2 or more banks or finance companies whereby the whole or substantially the whole of the undertaking of any bank or finance company is transferred to another bank or finance company, the Minister may, if he thinks fit and on such conditions as he may impose, by order declare that any provisions in the account of the transferor bank or transferor finance company which have been transferred to the transferee bank or transferee finance company shall not be deemed under subsection (2) (b) to be a trading receipt of the transferor bank or transferor finance company; and the provisions so declared shall for the purposes of this section be treated as having been allowed to the transferee bank or transferee finance company as a deduction under this section.
 
 [28/96]
 
-(4) Subject to subsection (5), the total amount of the provisions to be allowed as a deduction under this section for any year of assessment shall not exceed the lowest of —
+(5) Subject to subsection (6), the total amount of the provisions to be allowed as a deduction under this section for any year of assessment shall not exceed the lowest of —
 
 (a) 25% of the qualifying profits for the basis period for that year of assessment;
 
@@ -29,27 +27,19 @@ Part: PART V DEDUCTIONS AGAINST INCOME
 
 (b) ⁄2% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment; or
 
-(c) 3% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2) and (2A).
+(c) 3% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2) and (3).
 
 [32/95; 1/98; 32/99]
 
-(5) No deduction shall be allowed for any year of assessment —
+(6) No deduction shall be allowed for any year of assessment —
 
 (a) where there are no qualifying profits in the basis period for that year of assessment; or
 
-(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (2A), is in excess of 3% of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
+(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (3), is in excess of 3% of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
 
 [1/98; 32/99]
 
-(5A) Subsections (4) (a) and (b) and (5) (a) shall not apply to any bank.
-
-[31/98]
-
-(5B) Subsections (4) (a) and (b) and (5) (a) shall not apply to any qualifying finance company.
-
-[32/99]
-
-(6) In this section —
+(7) In this section —
 
 ‘‘bank’’ means a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved by the Monetary Authority of Singapore;
 
@@ -67,13 +57,13 @@ Part: PART V DEDUCTIONS AGAINST INCOME
 
 (e) such other loans or advances as may be prescribed;
 
-‘‘prescribed value’’ of loans and investments in securities in relation to the basis period for any year of assessment means the value (ascertained in such manner as the Comptroller may determine) of the loans and investments in securities (excluding any loan or investment in respect of which any deduction has been allowed under any other section of this Act) as at the last day of each month in that basis period added together and divided by the number of months in that basis period;
+‘‘prescribed value of loans and investments in securities’’, in relation to the basis period for any year of assessment, means the value (ascertained in such manner as the Comptroller may determine) of the loans and investments in securities (excluding any loan or investment in respect of which any deduction has been allowed under any other section of this Act) as at the last day of each month in that basis period added together and divided by the number of months in that basis period;
 
 ‘‘provisions’’ means the provision for doubtful debts arising from the loans of a bank or qualifying finance company and the provision for diminution in the value of its investments in securities;
 
 ‘‘qualifying finance company’’ means a company licensed under the Finance Companies Act (Cap. 108) to carry on financing business which has, in the basis period for any year of assessment for which the deduction under this section is first allowed, capital funds of not less than $50 million and a capital adequacy ratio of not less than 12% as determined under that Act;
 
-‘‘qualifying profit’’ means the net profit (excluding any extra- ordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities;
+‘‘qualifying profit’’ means the net profit (excluding any extraordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities;
 
 ‘‘securities’’ means —
 

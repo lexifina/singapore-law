@@ -17,10 +17,12 @@ Part: PART XI RATES OF TAX
 
 [1/88]
 
-(4) Notwithstanding Part B of the Second Schedule, in respect of the chargeable income of a person other than an individual, the rate of tax applicable to that person on every dollar of his chargeable income shall be 26% where the effective rate of tax arrived at by dividing the income tax chargeable on his chargeable income by the amount of that income exceeds 26%.
+(4) Notwithstanding Part B of the Second Schedule, where the effective rate of tax of a person other than an individual determined by dividing the tax chargeable on his chargeable income by the amount of that income exceeds the effective rate of tax for companies as determined under subsection (5), the rate of tax applicable to that person on every dollar of his chargeable income shall be the effective rate of tax for companies as so determined.
 
-[1/90; 20/91; 28/92; 26/93; 28/96]
+[24/2001]
 
-(5) The reference to 26% in subsection (4) shall for the years of assessment 1994, 1995 and 1996, be read as a reference to 27%.
+(5) For the purposes of subsection (4), the effective rate of tax for companies shall be determined in accordance with the formula A × 100%, B where A is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43 (5) as if the person is a company; and
 
-[28/92; 26/93; 28/96]
+B is the chargeable income of the person for the year of assessment.
+
+[24/2001]

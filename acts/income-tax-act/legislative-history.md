@@ -116,12 +116,22 @@
 
 58. Act 28 of 1996 — Income Tax (Amendment No. 2) Act 1996 Date of First Reading : 12.7.96 (Bill No. 23/96 published on 13.7.96) Date of Second and Third Readings : 27.8.96 Date of commencement : 6.9.96 LEGISLATIVE HISTORY INCOME TAX ACT (CHAPTER 134)
 
-59. Act 1 of 1998 — Income Tax (Amendment) Act 1998 Date of First Reading : 19.11.98 (Bill No. 16/98 published on 20.11.98) Date of Second and Third Readings : 14.1.98 Date of commencement : 23.1.98
+59. Act 1 of 1998 — Income Tax (Amendment) Act 1998 Date of First Reading : 19.11.97 (Bill No. 16/97 published on 20.11.98) Date of Second and Third Readings : 14.1.98 Date of commencement : 23.1.98
 
-60. Act 31 of 1998 — Income Tax (Amendment No. 2) Act 1998 Date of First Reading : 29.6.98 (Bill No. 29/98 published on 30.6.98) Date of Second and Third Readings : 31.7.98 Date of commencement : 14.8.98 and other dates (see section 1 of the Act)
+60. Act 31 of 1998 — Income Tax (Amendment No. 2) Act 1998 Date of First Reading : 29.6.98 (Bill No. 29/98 published on 30.6.98) Date of Second and Third Readings : 31.7.98 Dates of commencement : 14.8.98 and other dates (see section 1 of the Act)
 
-61. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Consequential amendments made by) Date of First Reading : 31.7.98 (Bill No. 34/98 published on 1.8.98) Date of Second and Third Readings : 12.10.98 Date of commencement : 16.11.98 : 16.11.98 (Transfer Date) : 21.5.99 (Appointed Day)
+61. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Consequential amendments made by) Date of First Reading : 31.7.98 (Bill No. 34/98 published on 1.8.98) Date of Second and Third Readings : 12.10.98 Dates of commencement : 16.11.98 : 16.11.98 (Transfer Date) : 21.5.99 (Appointed Day)
 
-62. Act 32 of 1999 — Income Tax (Amendment) Act 1999 Date of First Reading : 6.7.99 (Bill No. 24/99 published on 7.7.99) Date of Second and Third Readings : 17.8.99 Date of commencement : 31.8.99 and other dates (see section 1 of the Act)
+62. Act 32 of 1999 — Income Tax (Amendment) Act 1999 Date of First Reading : 6.7.99 (Bill No. 24/99 published on 7.7.99) Date of Second and Third Readings : 17.8.99 Dates of commencement : 31.8.99 and other dates (see section 1 of the Act)
 
-63. Act 41 of 1999 — Info-communications Development Authority of Singapore Act 1999 (Consequential amendments made by) Date of First Reading : 11.10.99 (Bill No. 36/99 published on 12.10.99) Date of Second and Third Readings : 23.11.99 Date of commencement : 1.12.99
+63. Act 41 of 1999 — Info-communications Development Authority of Singapore Act 1999 (Consequential amendments made by) Date of First Reading : 11.10.99 (Bill No. 36/99 published on 12.10.99) Date of Second and Third Readings : 23.11.99 Date of commencement : 1.12.99 LEGISLATIVE HISTORY INCOME TAX ACT (CHAPTER 134)
+
+64. Act 9 of 2000 — Defence Science and Technology Agency Act 2000 (Consequential amendments made by) Date of First Reading : 17.1.2000 (Bill No. 1/2000 published on 18.1.2000) Date of Second and Third Readings : 21.2.2000 Date of commencement : 15.3.2000
+
+65. Act 24 of 2000 — Income Tax (Amendment) Act 2000 Date of First Reading : 30.6.2000 (Bill No. 20/2000 published on 1.7.2000) Date of Second and Third Readings : 25.8.2000 Dates of commencement : 7.9.2000 and other dates (see section 1 of the Act)
+
+66. Act 3 of 2001 — Intellectual Property Office of Singapore Act 2001 (Consequential amendments made by) Date of First Reading : 12.1.2001 (Bill No. 1/2001 published on 13.1.2001) Date of Second and Third Readings : 22.2.2001 Date of commencement : 1.4.2001
+
+67. Act 17 of 2001 — Singapore Land Authority Act 2001 (Consequential amendments made by) Date of First Reading : 5.3.2001 (Bill No. 17/2001 published on 7.3.2001) Date of Second and Third Readings : 19.4.2001 Date of commencement : 1.6.2001
+
+68. Act 24 of 2001 — Income Tax (Amendment) Act 2001 Date of First Reading : 11.7.2001 (Bill No. 25/2001 published on 12.7.2001) Date of Second and Third Readings : 25.7.2001 Dates of commencement : 10.8.2001 and other dates (see section 1 of the Act)

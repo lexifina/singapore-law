@@ -45,7 +45,7 @@ and
 
 (8) The following provisions shall apply to a company resident in Singapore which is allowed a deduction under this section:
 
-(a) as soon as a deduction is allowed to the company under this section, an amount (referred to in this section as further deduction) computed in accordance with the formula A × B – B 5 shall be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5);
+(a) as soon as a deduction is allowed to the company under this section, an amount (referred to in this section as further deduction) computed in accordance with the formula A × B – B , 5 shall be credited to an account (referred to in this section as further deduction account) to be kept by the company for the purposes of this section, where A and B have the same meanings as in subsection (5);
 
 (b) where for any year of assessment the further deduction account of the company is in credit, the company shall —
 
@@ -57,7 +57,7 @@ and
 
 (d) so much of the amount of any dividends so debited to the tax exempt account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder;
 
-(e) where an amount of dividends exempt from tax under this section has been received by a shareholder, if that share- holder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders;
+(e) where an amount of dividends exempt from tax under this section has been received by a shareholder, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders;
 
 (f) notwithstanding paragraphs (d) and (e), no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder;
 
@@ -93,7 +93,7 @@ and
 
 (a) any reference in section 20 (1) to allowances made under section 19 or 19A shall be read as a reference to a deduction allowed under this section;
 
-(b) the amount of the capital expenditure on the provision of the machinery or plant still unallowed as at the time of the occurrence of the event shall be ascertained by the formula C − C______× D , 5 where C is the amount of capital expenditure incurred on the provision of the machinery or plant; and
+(b) the amount of the capital expenditure on the provision of the machinery or plant still unallowed as at the time of the occurrence of the event shall be ascertained by the formula C − ______ ,C × D 5 where C is the amount of capital expenditure incurred on the provision of the machinery or plant; and
 
 D is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
 

@@ -17,7 +17,9 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (b) where the income tax chargeable depends on the amount received in Singapore, that amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
 
-(c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit; but notwith- standing anything in paragraphs (a) and (b) a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
+(c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit;
+
+but notwithstanding anything in paragraphs (a) and (b) a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
 
 (6) Subsection (5) (a) and (b) shall apply to the computation of assessable income for the purposes of determining the rate mentioned in subsection (3), and shall apply thereto in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 49.
 
@@ -31,7 +33,7 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (9) Any claim for an allowance by way of credit shall be made not later than 2 years after the end of the year of assessment, and in the event of any dispute as to the amount allowable the claim shall be subject to objection and appeal in like manner as an assessment.
 
-(10) Where the amount of any credit given under the arrange- ments is rendered excessive or insufficient by reason of any adjustment of the amount of any tax payable either in Singapore or elsewhere, nothing in this Act limiting the time for the making of assessments or claims for relief shall apply to any assessment or claim to which the adjustment gives rise, being an assessment or claim made not later than 2 years from the time when all such assessments, adjustments and other determinations have been made, whether in Singapore or elsewhere, as are material in determining whether any, and if so what, credit falls to be given.
+(10) Where the amount of any credit given under the arrangements is rendered excessive or insufficient by reason of any adjustment of the amount of any tax payable either in Singapore or elsewhere, nothing in this Act limiting the time for the making of assessments or claims for relief shall apply to any assessment or claim to which the adjustment gives rise, being an assessment or claim made not later than 2 years from the time when all such assessments, adjustments and other determinations have been made, whether in Singapore or elsewhere, as are material in determining whether any, and if so what, credit falls to be given.
 
 (11) Nothing in this section shall authorise the reduction of any tax payable on income accruing in or derived from Singapore by virtue of the allowance of any credit under this section.
 

@@ -14,5 +14,3 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 (a) a statement of the intent of the defendant; or
 
 (b) proceedings for an offence punishable by imprisonment.
-
-[90A

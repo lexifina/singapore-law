@@ -9,9 +9,13 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 (a) derived during the period from 1st January 1992 to 31st December 1992 shall be treated as his statutory income for the year of assessment 1993 and be charged to tax at the rate applicable to him for that year of assessment;
 
-(b) derived during the period from 1st January 1995 to 31st December 1995 shall be treated as his statutory income for the year of assessment 1996 and be charged to tax at the rate applicable to him for that year of assessment.
+(b) derived during the period from 1st January 1995 to 31st December 1995 shall be treated as his statutory income for the year of assessment 1996 and be charged to tax at the rate applicable to him for that year of assessment;
 
-[1/90; 20/91; 28/92; 26/93; 1/98]
+(c) derived during the period from 1st January 1999 to 31st December 1999 shall be treated as his statutory income for the year of assessment 2000 and be charged to tax at the rate applicable to him for that year of assessment;
+
+(d) derived during the period from 1st January 2000 to 31st December 2000 shall be treated as his statutory income for the year of assessment 2001 and be charged to tax at the rate applicable to him for that year of assessment.
+
+[1/90; 20/91; 28/92; 26/93; 1/98; 24/2000; 24/2001]
 
 (3) Where the statutory income of any person from a trade, business, profession or vocation has been computed by reference to an account made up to a certain day, and such person fails for any reason whatsoever to make up an account to the corresponding day in the year following, the statutory income from the trade, business, profession or vocation both of the year of assessment in which such failure occurs and of the 2 years of assessment following shall be computed on such basis as the Comptroller in his discretion thinks fit.
 
@@ -25,7 +29,7 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 (7) The statutory income of a trustee (not being the trustee of an incapacitated person) for any year of assessment shall be computed in accordance with subsections (1) to (4).
 
-(7A) The following income shall not form part of the statutory income of any designated unit trust or any approved CPF unit trust for any year of assessment:
+(8) The following income shall not form part of the statutory income of any designated unit trust or any approved CPF unit trust for any year of assessment:
 
 (a) gains or profits derived from Singapore or elsewhere from the disposal of securities;
 
@@ -35,7 +39,7 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 [32/95; 31/98]
 
-(7B) No deduction under section 14 shall be allowed in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by any designated unit trust or any approved CPF unit trust against any income derived by the unit trust from —
+(9) No deduction under section 14 shall be allowed in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by any designated unit trust or any approved CPF unit trust against any income derived by the unit trust from —
 
 (a) dividends paid by any company resident in Singapore; and
 
@@ -43,7 +47,7 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 [32/95; 31/98]
 
-(7C) In subsections (7A) and (7B) —
+(10) In subsections (8) and (9) —
 
 ‘‘approved CPF unit trust’’ means any unit trust scheme approved for the purposes of any investment scheme under the Central Provident Fund Act (Cap. 36);
 
@@ -55,4 +59,4 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 [32/95; 31/98]
 
-(8) The statutory income for any year of assessment of any beneficiary under a trust shall be that share of the statutory income of the trustee for that year of assessment which corresponds to the share of the trust income to which the beneficiary is entitled for the year preceding the year of assessment.
+(11) The statutory income for any year of assessment of any beneficiary under a trust shall be that share of the statutory income of the trustee for that year of assessment which corresponds to the share of the trust income to which the beneficiary is entitled for the year preceding the year of assessment.

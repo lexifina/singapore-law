@@ -17,7 +17,9 @@ Part: PART XVI RETURNS
 
 (5) Notwithstanding any other written law, in any proceedings under this Act, an electronic return or a copy thereof (including a print-out of that return or copy) —
 
-(a) certified by the Comptroller to contain all or any information transmitted by electronic filing in accordance with this section; and
+(a) certified by the Comptroller to contain all or any information transmitted by electronic filing in accordance with this section;
+
+and
 
 (b) duly authenticated in the manner specified in subsection (7) or is otherwise duly authenticated by showing that there is no material discrepancy between the electronic return or copy thereof certified by the Comptroller and the copy of the same electronic return kept by an independent record keeper appointed by the Minister, shall be admissible as evidence of the facts stated or contained therein.
 
@@ -33,9 +35,7 @@ Part: PART XVI RETURNS
 
 (9) The Comptroller may, for the purpose of facilitating any electronic filing under this section, approve the use in any such electronic filing of symbols, abbreviations or other notations to represent any particulars or information required under this Part.
 
-(10) Notwithstanding section 6, any person having any official duty or being employed in the administration of this Act shall not be treated as having contravened section 6 merely because he communicates to the independent record keeper or his employee or permits the independent record keeper or his employee to have access to any electronic return or any information contained therein;
-
-and section 6 shall apply to the independent record keeper and his employee as if they were persons employed in the administration of this Act.
+(10) Notwithstanding section 6, any person having any official duty or being employed in the administration of this Act shall not be treated as having contravened section 6 merely because he communicates to the independent record keeper or his employee or permits the independent record keeper or his employee to have access to any electronic return or any information contained therein; and section 6 shall apply to the independent record keeper and his employee as if they were persons employed in the administration of this Act.
 
 (11) In this section —
 

@@ -23,7 +23,7 @@ and
 
 (d) in considering whether any, and if so what, balancing allowance or balancing charge falls to be made in respect of the new machinery or plant, the initial allowance in respect thereof shall be deemed to have been increased by an amount equal to the amount on which the charge would have been made.
 
-(4) This section shall not apply to the provision of any new motor car for which no allowance is allowed by virtue of section 19 (2C).
+(4) This section shall not apply to the provision of any new motor car for which no allowance is allowed by virtue of section 19 (5).
 
 [32/99]
 

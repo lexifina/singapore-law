@@ -151,7 +151,9 @@ Provided that —
 
 (ii) any acoustic silencer or muffler;
 
-(iii) any vibration absorption, isolation or damping device; or
+(iii) any vibration absorption, isolation or damping device;
+
+or
 
 (iv) any active noise control device, which has been certified by the Singapore Productivity and Standards Board or the National University of Singapore to have satisfied the prescribed criteria;
 
@@ -195,7 +197,7 @@ Provided that —
 
 (i) is not a vehicle registered under the RU index marks;
 
-(ii) is deregistered on or after 27th February 1999 but not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act (Cap. 276) in respect of the vehicle; and
+(ii) is deregistered on or after 27th February 1999 but not later than one year before the last day on which a renewal of registration licence can be issued under the Road Traffic Act in respect of the vehicle; and
 
 (iii) has, except where the vehicle has been exempted from obtaining a certificate of entitlement, at the date of deregistration of the vehicle —
 
@@ -209,6 +211,6 @@ Provided that —
 
 (i) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle; and
 
-(ii) bears an index mark which is the same as that of the index mark of the existing vehicle.
+(ii) bears an index mark which is the same as that of the index mark of the existing vehicle, and for this purpose, where the new goods vehicle and the existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of the existing vehicle.
 
-[15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99]
+[15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99; 24/2000]

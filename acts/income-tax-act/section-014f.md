@@ -11,7 +11,7 @@ C is the total investment income (whether chargeable to tax or not) for that bas
 
 (2) The deduction allowed under this section for any year of assessment shall not exceed the total interest and dividends chargeable to tax of the approved investment company in the basis period for that year of assessment.
 
-(3) This section shall not apply to any investment company which has been approved under section 10A or any unit trust which has been approved under section 10B or any unit trust designated under section 35 (7C).
+(3) This section shall not apply to any investment company which has been approved under section 10A or any unit trust which has been approved under section 10B or any unit trust designated under section 35 (10).
 
 [3/89; 23/90; 32/95]
 

@@ -1,7 +1,15 @@
 # 40A. Relief for non-resident public entertainers
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
-(1) Any individual who, in any year of assessment, is not resident in Singapore shall, if the tax payable by him in respect of that year is attributable to income derived as a public entertainer, be allowed relief in respect of that year in the following manner:
+(1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who derives income as a public entertainer or derives such income and income from any other source in the year preceding that year of assessment which does not include —
+
+(a) any withdrawal from his SRS account deemed to be income subject to tax under section 10L; or
+
+(b) income from the exercise of any other employment in Singapore.
+
+[24/2001]
+
+(2) Any person to whom this section applies shall, if the tax payable by him in respect of that year is attributable to income derived as a public entertainer, be allowed relief in respect of that year in the following manner:
 
 (a) where the only source of income in Singapore is such activity as a public entertainer, by reduction of the rate of tax to 15% on every dollar of the chargeable income;
 
@@ -9,9 +17,13 @@ Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 (c) where such person possesses any other source of income in Singapore and the total assessable income is equal to or less than the statutory income attributable to such activity as a public entertainer, by reduction of the rate of tax to 15% on every dollar of the chargeable income.
 
-(2) Where any person is entitled to relief under this section and is also entitled to relief under section 40 (1) or (2A), he shall be entitled to whichever relief is the greater in respect of the income to which this section relates.
+[24/2001]
 
-(3) In this section —
+(3) Where any person is entitled to relief under this section and is also entitled to relief under section 40 (1) or (4), he shall be entitled to whichever relief is the greater in respect of the income to which this section relates.
+
+[24/2001]
+
+(4) In this section —
 
 ‘‘public entertainer’’ means a stage, radio or television artiste, a musician, an athlete or an individual exercising any profession, vocation or employment of a similar nature;
 
@@ -19,4 +31,4 @@ Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 ‘‘total assessable income’’ means the remainder of the statutory income of any person after the deduction allowed under section 37 (2) (a) has been made.
 
-[48/70]
+[48/70; 24/2001]

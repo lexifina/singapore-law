@@ -15,4 +15,6 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (2) The Comptroller may for any good cause shown remit the whole or any part of the penalty due under subsection (1).
 
-[88
+(3) In this section, ‘‘tax’’ includes any interest imposed under section 85 (2).
+
+[24/2000]

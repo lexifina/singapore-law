@@ -61,9 +61,7 @@ and
 
 or
 
-(b) any dividend (including a dividend paid by a holding company to which subsection (6) (f) applies) exempted in the hands of any shareholder, ought not to have been so exempt, the Comptroller may at any time within 6 years from the date of the statement referred to in subsection
-
-(4) —
+(b) any dividend (including a dividend paid by a holding company to which subsection (6) (f) applies) exempted in the hands of any shareholder, ought not to have been so exempt, the Comptroller may at any time within 6 years from the date of the statement referred to in subsection (4) —
 
 (i) make such assessment or additional assessment upon the shipping enterprise or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
@@ -71,7 +69,7 @@ or
 
 [11/94]
 
-(9) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifi- cations, as if an assessment or a direction under subsection (8) were a notice of assessment.
+(9) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (8) were a notice of assessment.
 
 (10) Nothing in this section shall affect the operation of section 27 in ascertaining the income of a non-resident person owning or operating Singapore ships or foreign ships.
 

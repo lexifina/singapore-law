@@ -5,7 +5,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (a) shall be exempt from tax; or
 
-(b) notwithstanding section 43, shall be taxed at such conces- sionary rate, not being more than 10%, as the Minister, or such person as the Minister may appoint, may specify for each year of assessment.
+(b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as the Minister may appoint, may specify for each year of assessment.
 
 [31/98]
 
@@ -15,9 +15,9 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (2A) The exemption from tax or tax at a concessionary rate of the income of an approved venture company under regulations made under subsection (1) —
 
-(a) shall be for such period, not exceeding 10 years, as the Minister, or such person as the Minister may appoint, may specify; and
+(a) shall be for such period, not exceeding 10 years, as the Minister, or such person as he may appoint, may specify; and
 
-(b) in any particular case after the period referred to in paragraph (a), shall be for such further period or periods, not exceeding 5 years at any one time for each period, as the Minister, or such person as the Minister may appoint, may specify.
+(b) in any particular case after the period referred to in paragraph (a), shall be for such further period or periods, not exceeding 5 years at any one time for each period, as the Minister, or such person as he may appoint, may specify.
 
 [31/98]
 
@@ -57,7 +57,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (8) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved venture company as exempt from tax pending such statement becoming final and conclusive.
 
-(9) As soon as any amount of the income of an approved venture company has been exempt from tax or subject to tax at a conces- sionary rate under regulations made under subsection (1), the amount of the income exempted or the net amount of the income after deduction of the tax shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
+(9) As soon as any amount of the income of an approved venture company has been exempt from tax or subject to tax at a concessionary rate under regulations made under subsection (1), the amount of the income exempted or the net amount of the income after deduction of the tax shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
 
 [31/98]
 

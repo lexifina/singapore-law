@@ -15,8 +15,8 @@ Part: PART XI RATES OF TAX
 
 (2) In this section —
 
-‘‘commodity’’ has the same meaning as in the Commodity Futures Act (Cap. 48A);
+‘‘commodity’’ has the same meaning as in the Commodity Trading Act (Cap. 48A);
 
-‘‘Commodity Futures Exchange’’ means a body corporate approved as a Commodity Futures Exchange under section 5 of the Commodity Futures Act (Cap. 48A).
+‘‘Commodity Futures Exchange’’ means a body corporate approved as a Commodity Futures Exchange under section 5 of the Commodity Trading Act.
 
 [28/92]

@@ -25,7 +25,7 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 (c) the annual value of any place of residence provided by the employer and for the purposes of this paragraph —
 
-(i) if the place of residence is ‘‘premises’’ within the Control of Rent Act (Cap. 58) and is provided to a director of a company, or, if the remuneration received by a director of a company is less than the annual value of the premises, the full annual value shall be deemed to be gains or profits of the employment;
+(i) if the place of residence is ‘‘premises’’ within the repealed Control of Rent Act (Cap. 58, 1985 Ed.) and is provided to a director of a company, or, if the remuneration received by a director of a company is less than the annual value of the premises, the full annual value shall be deemed to be gains or profits of the employment;
 
 (ii) except as provided in sub-paragraph (i), if the annual value of the premises exceeds 10% of the gains or profits from the employment mentioned in paragraphs (a) and (b) and any gains or profits under subsection (5) less the rent, if any, paid by the employee for the use of the premises, the excess shall be disregarded;
 
@@ -45,7 +45,7 @@ B is the total amount of allowances under section 19 or 19A which have been made
 
 C is the amount of balancing charge;
 
-(b) a foreign ship the income derived from the operation of which would be income of a shipping enterprise within the meaning of section 13A or income of an approved international shipping enterprise within the meaning of section 13A or 13F, as the case may be, but only up to the amount ascertained in accordance with the formula X × Z , Y where X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
+(b) a foreign ship the income derived from the operation of which would be income of a shipping enterprise within the meaning of section 13A or income of an approved international shipping enterprise within the meaning of section 13F, as the case may be, but only up to the amount ascertained in accordance with the formula X × Z , Y where X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
 
 Y is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
 
@@ -63,33 +63,43 @@ Z is the amount of balancing charge.
 
 (b) if it is not possible to determine the gains or profits under paragraph (a), the Comptroller may use the net asset value of the shares, less the amount paid for the shares, as the basis for determining the gains or profits;
 
-(c) notwithstanding paragraphs (a) and (b), any gains or profits derived by him by any exercise of a right or benefit to acquire shares in a company listed on the Stock Exchange of Singapore shall be the last done price on the listing date of the shares so acquired less the amount paid for such shares;
+(c) notwithstanding paragraphs (a) and (b), any gains or profits derived by him by any exercise of a right or benefit to acquire shares in a company listed on the Singapore Exchange shall be the last done price on the listing date of the shares so acquired less the amount paid for such shares;
 
-(d) ‘‘the last done price on the listing date’’, in relation to any shares referred to in paragraph (c), means the price of such shares in the open market at the last transaction on the date on which such shares are first listed on the Stock Exchange of Singapore after the acquisition of such shares by him; and
+(d) ‘‘the last done price on the listing date’’, in relation to any shares referred to in paragraph (c), means the price of such shares in the open market at the last transaction on the date on which such shares are first listed on the Singapore Exchange after the acquisition of such shares by him; and
 
 (e) ‘‘shares’’ includes stocks.
 
 [26/73; 1/98]
 
-(6) For the purposes of subsection (1) (e), the income derived from an annuity for any year shall be deemed to be an amount equal to 3% of the total consideration payable or paid for the purchase of the annuity except that the whole amount of the annuity shall be deemed to be income if the person deriving income from the annuity has previously received sums equal to the total consideration for the annuity exclusive of the amounts deemed to be income under this subsection or if the annuity is purchased by the employer of the person deriving on or after 1st January 1993 such income in lieu of any pension or other benefit payable during his employment or upon his retirement.
+(6) For the purposes of subsection (1) (e), the income derived from an annuity for any year shall be deemed to be an amount equal to 3% of the total consideration payable or paid for the purchase of the annuity except that the whole amount of the annuity shall be deemed to be income if —
+
+(a) the person deriving income from the annuity has previously received sums equal to the total consideration for the annuity exclusive of the amounts deemed to be income under this subsection; or
+
+(b) the annuity is purchased by the employer of the person deriving on or after 1st January 1993 such income in lieu of any pension or other benefit payable during his employment or upon his retirement.
 
 [4/75; 26/93]
 
-(6A) For the purposes of subsection (1) (f) —
+(6A) Subsection (6) shall not apply to any annuity purchased under the SRS.
+
+[24/2001]
+
+(6B) For the purposes of subsection (1) (f) —
 
 (a) ‘‘any other profits arising from property’’ shall be deemed to include the net annual value of property used by or on behalf of the owner for residential purposes and not for the purposes of gain or profit;
 
-(b) ‘‘net annual value’’ in relation to any property means the annual value of such property less the expenses of repair, insurance, interest, maintenance or upkeep and all public rates and taxes paid thereon;
+(b) ‘‘net annual value’’, in relation to any property, means the annual value of such property less the expenses of repair, insurance, interest, maintenance or upkeep and all public rates and taxes paid thereon;
 
 (c) in respect of any one property which is occupied for residential purposes by the owner thereof —
 
 (i) the net annual value of such property; or
 
-(ii) an amount equal to such sum as the Minister may, by order published in the Gazette, specify,* whichever is the less, shall not be deemed to be profits arising from property; and for the purposes of this paragraph any property owned by a married woman living with her husband shall be deemed to be owned by the husband.
-
-[7/70; 9/80]
+(ii) an amount equal to such sum as the Minister may, by order published in the Gazette, specify,*
 
 *For the Year of Assessment 1997 and subsequent Years of Assessment the sum specified is $150,000 — see G.N. No. S 240/96.
+
+whichever is the less, shall not be deemed to be profits arising from property; and for the purposes of this paragraph any property owned by a married woman living with her husband shall be deemed to be owned by the husband.
+
+[7/70; 9/80]
 
 (7) Where a person derives interest from a negotiable certificate of deposit or derives gains or profits from the sale thereof, his income shall be treated as follows:
 
@@ -115,17 +125,25 @@ or
 
 [28/96]
 
-(9) For the purposes of subsection (1) (a) or (f), the income derived by any author or composer or any company in which he beneficially owns all the issued share capital, from any royalties or other payments received from a publisher carrying on the business of publishing in Singapore as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work shall be deemed to be the amount remaining after the deductions allowable under Parts V and VI have been made or an amount equal to 10% of the gross amount of the royalties or other payments, whichever is the less.
+(9) For the purposes of subsection (1) (a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued share capital, from any royalties or other payments received from a person carrying on in Singapore the business of publishing, of recording music or of producing cinematograph films, choreographic works or plays as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
 
-[15/83]
+(a) the amount of the royalties or other payments remaining after the deductions allowable under Parts V and VI have been made; or
+
+(b) an amount equal to 10% of the gross amount of the royalties or other payments, whichever is the less.
+
+[24/2000]
 
 (9A) Subsection (9) shall not apply to royalties or payments received in respect of any work published in any newspaper or periodical.
 
 [1/88]
 
-(10) For the purposes of subsection (1) (a) or (f), the income derived by an individual, being a citizen or permanent resident of Singapore who is an inventor or author of an approved invention or approved product innovation, from any royalties or other payments received as consideration for the assignment of or for the rights in the approved invention or approved product innovation shall be deemed to be the amount remaining after the deductions allowable under Parts V and VI have been made or an amount equal to 10% of the gross amount of the royalties or other payments, whichever is the less.
+(10) For the purposes of subsection (1) (a) and (f), the income derived by an individual who is an inventor, author or proprietor of an approved invention or approved innovation, from any royalties or other payments received as consideration for the assignment of or for the rights in the approved invention or approved innovation shall be deemed to be —
 
-[3/89]
+(a) the amount of the royalties or other payments remaining after the deductions allowable under Parts V and VI have been made; or
+
+(b) an amount equal to 10% of the gross amount of the royalties or other payments, whichever is the less.
+
+[24/2000]
 
 (11) Notwithstanding subsection (10), where it appears to the Comptroller that any amount of income which has been determined under that subsection for the purposes of subsection (1) (a) or (f) ought not to have been so determined for any year of assessment, the Comptroller may, within 6 years after the end of that year of assessment, make such assessment or additional assessment upon the individual as may be necessary in order to make good any loss of tax.
 
@@ -133,15 +151,17 @@ or
 
 (12) In subsection (10) —
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
+‘‘approved’’ means approved for such period not exceeding 5 years by the Minister or such person as he may appoint;
 
-‘‘product innovation’’ means —
+‘‘innovation’’ means —
 
-(a) any new product, or any new method in the manufacture or processing of goods or materials; or
+(a) any new product or new service, or any new method used in the manufacture or processing of goods or materials or in the provision of services; or
 
-(b) a substantial improvement in any product, or in any method in the manufacture or processing of goods or materials, which involves novelty or originality but does not include a computer program unless it is in the nature of a new computer operating system or new language used in a computer program;
+(b) any substantial improvement in any product or in the provision of any service, or in any method used in the manufacture or processing of goods or materials or in the provision of services, which involves novelty or originality;
 
-‘‘rights in the approved invention or approved product inno- vation’’ means the rights relating to any patent, copyright, industrial design or know-how of an approved invention or approved product innovation.
+‘‘rights in the approved invention or approved innovation’’ means the rights relating to any patent, copyright, industrial design, trade mark or know-how of an approved invention or approved innovation where a substantial part of the work in developing the invention or innovation is undertaken in Singapore.
+
+[24/2000]
 
 (13) Any distribution made by a unit trust approved under section 10B out of gains or profits derived on or after 1st July 1989 from the disposal of securities and which have not been subject to tax shall be deemed to be income if received by a unit holder except where the unit holder is —
 
@@ -151,29 +171,29 @@ or
 
 [23/90]
 
-(13A) Any distribution made by a designated unit trust to any unit holder or by an approved CPF unit trust to any unit holder in respect of any unit purchased with moneys other than those standing to his credit in the Central Provident Fund out of —
+(14) Any distribution made by a designated unit trust to any unit holder or by an approved CPF unit trust to any unit holder out of —
 
 (a) gains or profits derived from Singapore or elsewhere from the disposal of securities;
 
 (b) interest (other than interest for which tax has been deducted under section 45); and
 
-(c) dividends derived from outside Singapore and received in Singapore, which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35 (7A) shall, subject to subsection (13B), be deemed to be income of the unit holder if he is not a foreign investor.
+(c) dividends derived from outside Singapore and received in Singapore, which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35 (8) shall, subject to subsection (15), be deemed to be income of the unit holder if he is not a foreign investor.
+
+[32/95; 31/98; 24/2000]
+
+(15) Where any distribution made out of gains or profits referred to in subsection (14) (a) is made to a unit holder who is an individual resident in Singapore, the distribution, if made on or after 28th February 1998, shall not be deemed to be income of that unit holder.
 
 [32/95; 31/98]
 
-(13B) Where any distribution made out of gains or profits referred to in subsection (13A) (a) is made to a unit holder who is an individual resident in Singapore, the distribution, if made on or after 28th February 1998, shall not be deemed to be income of that unit holder.
-
-[32/95; 31/98]
-
-(13C) Where a designated unit trust had also been approved under section 10B, any distribution made by the designated unit trust out of any income (including gains or profits from the disposal of securities) derived by it during the period the designated unit trust was approved under section 10B shall be treated as income of a unit holder in accordance with subsection (13) and section 35 (7) and (8).
+(16) Where a designated unit trust had also been approved under section 10B, any distribution made by the designated unit trust out of any income (including gains or profits from the disposal of securities) derived by it during the period the designated unit trust was approved under section 10B shall be treated as income of a unit holder in accordance with subsection (13) and section 35 (7) and (11).
 
 [32/95]
 
-(13D) For the purposes of subsections (13A), (13B) and (13C) —
+(17) For the purposes of subsections (14), (15) and (16) —
 
-‘‘approved CPF unit trust’’ has the same meaning as in section 35 (7C);
+‘‘approved CPF unit trust’’ has the same meaning as in section 35 (10);
 
-‘‘designated unit trust’’ means any unit trust designated under section 35 (7C);
+‘‘designated unit trust’’ means any unit trust designated under section 35 (10);
 
 ‘‘foreign investor’’ —
 
@@ -193,11 +213,11 @@ or
 
 [32/95; 31/98]
 
-(14) For the purposes of subsection (2) (d), the sum standing to the account of any individual in any pension or provident fund or society, other than a pension or provident fund to which section 10C applies, shall be deemed to accrue to the individual on the date he is entitled to the sum upon retirement or on the date he withdraws any sum before his retirement, as the case may be, except that where upon his retirement an individual is entitled to elect under the rules or consti- tution of the pension or provident fund or society as to the manner and amount of the sum to be withdrawn, only the amount so withdrawn shall be deemed to be income of the individual accruing on the date of withdrawal.
+(18) For the purposes of subsection (2) (d), the sum standing to the account of any individual in any pension or provident fund or society, other than a pension or provident fund to which section 10C applies, shall be deemed to accrue to the individual on the date he is entitled to the sum upon retirement or on the date he withdraws any sum before his retirement, as the case may be, except that where upon his retirement an individual is entitled to elect under the rules or constitution of the pension or provident fund or society as to the manner and amount of the sum to be withdrawn, only the amount so withdrawn shall be deemed to be income of the individual accruing on the date of withdrawal.
 
 [26/93]
 
-(15) It is hereby declared for the avoidance of doubt that the amounts described in the following paragraphs shall be income received in Singapore from outside Singapore whether or not the source from which the income is derived has ceased:
+(19) It is hereby declared for the avoidance of doubt that the amounts described in the following paragraphs shall be income received in Singapore from outside Singapore whether or not the source from which the income is derived has ceased:
 
 (a) any amount from any income derived from outside Singapore which is remitted to, transmitted or brought into, Singapore;
 
@@ -206,3 +226,7 @@ or
 (c) any amount from any income derived from outside Singapore which is applied to purchase any movable property which is brought into Singapore.
 
 [32/95]
+
+(20) Any payment accrued to a self-employed woman under section 9 (2) of the Children Development Co-Savings Act 2001 (Act 13 of 2001) shall be deemed to be income from her trade, business, profession or vocation chargeable to tax under subsection (1) (a).
+
+[24/2001]

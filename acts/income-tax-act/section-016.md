@@ -1,4 +1,4 @@
-# 16. Initial and annual allowances, industrial buildings and structures
+# 16. Initial and annual allowances for industrial buildings and structures
 Part: PART VI CAPITAL ALLOWANCES
 
 (1) Where, in or after the basis period for the first year of assessment under this Act, a person incurs capital expenditure on the construction of a building or structure which is to be an industrial building or structure occupied for the purposes of a trade, there shall be made to the person who incurred the expenditure for the year of assessment in the basis period for which the expenditure was incurred an allowance to be known as an ‘‘initial allowance’’ equal to 25% thereof.
@@ -29,17 +29,15 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (6) No annual allowance shall be made to any person for any year of assessment after the end of the fiftieth year after that in which the building or structure was first used.
 
-(7) For the purposes of application to any industrial building or structure occupied for the purposes of a trade in intensive pig and poultry production and approved by the Minister under section 18 (1), the reference to ‘‘3%’’ in subsections (4) and (5) and in section 18
-
-(6) shall be read as a reference to ‘‘5%’’.
+(7) For the purposes of application to any industrial building or structure occupied for the purposes of a trade in intensive pig and poultry production and approved by the Minister under section 18 (1), the reference to 3% in subsections (4) and (5) and in section 18 (6) shall be read as a reference to 5%.
 
 [7/79]
 
 (8) For the purposes of application to any industrial building or structure occupied for the purposes of a hotel on the island of Sentosa and approved by the Minister under section 18 (1) —
 
-(a) the reference to ‘‘25%’’ in subsection (1) shall be read as a reference to ‘‘20%’’;
+(a) the reference to 25% in subsection (1) shall be read as a reference to 20%;
 
-(b) the reference to ‘‘3%’’ in subsections (4) and (5) and in section 18 (6) shall be read as a reference to ‘‘2%’’; and
+(b) the reference to 3% in subsections (4) and (5) and in section 18 (6) shall be read as a reference to 2%; and
 
 (c) the reference to capital expenditure in subsections (1) and
 

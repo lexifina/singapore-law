@@ -9,7 +9,7 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (4) In determining any application under this section, the Comptroller shall have regard to all the relevant circumstances of the case, and in particular shall consider whether the granting of relief would result in the exclusion from charge to tax of income of the applicant, and for this purpose the Comptroller may take into consideration the liability of the applicant and assessments made upon him in respect of other years.
 
-(5) Section 79 shall apply in respect of an appeal against a deter- mination of the Comptroller under this section except that no such appeal shall be entertained until the sum of $250 has been deposited with the clerk to the Board of Review.
+(5) Section 79 shall apply in respect of an appeal against a determination of the Comptroller under this section except that no such appeal shall be entertained until the sum of $250 has been deposited with the clerk to the Board of Review.
 
 (6) The sum referred to in subsection (5) shall be refunded in the event of the appeal being allowed.
 

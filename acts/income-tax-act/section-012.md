@@ -1,4 +1,4 @@
-# 12. Sources of income. Trading operations carried on partly in Singapore
+# 12. Sources of income
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
@@ -21,7 +21,7 @@ Employment exercised in Singapore
 
 (4) The gains or profits from any employment exercised in Singapore shall be deemed to be derived from Singapore whether the gains or profits from such employment are received in Singapore or not.
 
-Employment exercised outside Singapore on behalf of the Government
+Employment exercised outside Singapore on behalf of Government
 
 (5) The gains or profits from any employment exercised outside Singapore on behalf of the Government by any individual in the discharge of governmental functions shall be deemed to be derived from Singapore except where such individual is not a citizen or a resident of Singapore.
 
@@ -31,7 +31,7 @@ Interest
 
 (a) any interest, commission, fee or any other payment in connection with any loan or indebtedness or with any arrangement, management, guarantee, or service relating to any loan or indebtedness which is —
 
-(i) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore except in respect of any business carried on outside Singapore through a permanent establish- ment outside Singapore or any immovable property situated outside Singapore; or
+(i) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore or any immovable property situated outside Singapore; or
 
 (ii) deductible against any income accruing in or derived from Singapore; or
 
@@ -45,10 +45,10 @@ Royalties, etc.
 
 (a) royalty or other payments in one lump sum or otherwise for the use of or the right to use any movable property;
 
-(b) any payment for the use of or the right to use scientific, technical, industrial or commercial knowledge or informa- tion or for the rendering of assistance or service in connection with the application or use of such knowledge or information;
+(b) any payment for the use of or the right to use scientific, technical, industrial or commercial knowledge or information or for the rendering of assistance or service in connection with the application or use of such knowledge or information;
 
 (c) any payment for the management or assistance in the management of any trade, business or profession; or
 
-(d) rent or other payments under any agreement or arrange- ment for the use of any movable property, which are borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which are deductible against any income accruing in or derived from Singapore.
+(d) rent or other payments under any agreement or arrangement for the use of any movable property, which are borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which are deductible against any income accruing in or derived from Singapore.
 
 [5/77]

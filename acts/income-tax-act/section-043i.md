@@ -69,17 +69,17 @@ Part: PART XI RATES OF TAX
 
 (8) In this section —
 
+‘‘finance lease’’ has the same meaning as in section 10D (3);
+
 ‘‘leasing company’’ means any company carrying on a business of leasing machinery or plant;
+
+‘‘offshore finance leasing’’ means the offshore leasing of any machinery or plant under any finance lease;
 
 ‘‘offshore leasing’’ means the leasing of any machinery or plant, other than those which have been treated as though they had been sold pursuant to regulations made under section 10D (1), where such machinery or plant is used outside Singapore, and the payments under the lease —
 
 (a) are in currencies other than Singapore dollars; and
 
 (b) are not deductible against any income accruing in or derived from Singapore;
-
-‘‘finance lease’’ has the same meaning as in section 10D (3);
-
-‘‘offshore finance leasing’’ means the offshore leasing of any machinery or plant under any finance lease;
 
 ‘‘offshore operating leasing’’ means the offshore leasing of any machinery or plant, other than offshore finance leasing.
 

@@ -1,9 +1,9 @@
 # 10I. Reduction of share capital
 Part: PART III IMPOSITION OF INCOME TAX
 
-(1) This section shall, subject to sections 10J and 10K, apply where a company resident in Singapore reduces its share capital and the reduction of share capital involves a payment to any shareholder of the company.
+(1) This section shall, subject to sections 10J, 10K and 10M, apply where a company resident in Singapore reduces its share capital and the reduction of share capital involves a payment to any shareholder of the company.
 
-[32/99]
+[32/99; 24/2001]
 
 (2) Where the reduction of share capital is made out of the contributed capital of the company, and a payment is made to any shareholder of the company pursuant to such reduction, the payment to the shareholder shall not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account referred to in subsection (5) (c) (i).
 
@@ -39,7 +39,7 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 (e) where a company redeems any redeemable shares subsequent to the first reduction of its share capital referred to in paragraph (c) and section 10K does not apply to that redemption, any payment made to any shareholder for the purpose of that redemption shall be debited to the contributed capital account where the payment is not treated as a payment of dividends for the purpose of this Act;
 
-(f) where any reduction of share capital of a company was made before 18th November 1998 for the purposes of or in connection with a scheme for the reconstruction of any company or companies or the amalgamation of 2 or more companies and such scheme resulted in the transfer of assets of the first-mentioned company, whether directly by that company or indirectly through its shareholders, to another company in exchange for shares in the transferee company, the consideration equal to the value of the assets received by the transferee company for the shares issued shall, notwith- standing paragraph (b), not form part of the contributed capital of the transferee company where the payment made by the first-mentioned company pursuant to the reduction of its share capital was —
+(f) where any reduction of share capital of a company was made before 18th November 1998 for the purposes of or in connection with a scheme for the reconstruction of any company or companies or the amalgamation of 2 or more companies and such scheme resulted in the transfer of assets of the first-mentioned company, whether directly by that company or indirectly through its shareholders, to another company in exchange for shares in the transferee company, the consideration equal to the value of the assets received by the transferee company for the shares issued shall, notwithstanding paragraph (b), not form part of the contributed capital of the transferee company where the payment made by the first-mentioned company pursuant to the reduction of its share capital was —
 
 (i) not treated as a payment of dividend to the shareholder of the first-mentioned company for the purpose of this Act; and
 

@@ -39,10 +39,10 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (6) In this section —
 
-‘‘approved’’ means approved by the Minister subject to such conditions as he may impose;
+‘‘approved’’ means approved by the Minister, or such person as he may appoint, subject to such conditions as he may impose;
 
 ‘‘foreign ship’’ means a sea-going ship other than a Singapore ship within the meaning of section 13A (16);
 
 ‘‘international shipping enterprise’’ means any company resident in Singapore owning or operating foreign ships, approved floating production storage offloading ships or approved floating storage offloading ships.
 
-[32/99]
+[32/99; 24/2001]

@@ -7,7 +7,7 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (a) any person has or may have power, whether immediately or in the future, and whether with or without the consent of any other person, to revoke or otherwise determine the settlement or any provision thereof; and
 
-(b) in the event of the exercise of the power, the settlor or the wife or husband of the settlor will or may become benefi- cially entitled to the whole or any part of the property then comprised in the settlement, or of the income arising from the whole or any part of the property so comprised, all income arising under the settlement from the property comprised in the settlement shall be deemed to be income of the settlor and, subject to section 51, not income of any other person.
+(b) in the event of the exercise of the power, the settlor or the wife or husband of the settlor will or may become beneficially entitled to the whole or any part of the property then comprised in the settlement, or of the income arising from the whole or any part of the property so comprised, all income arising under the settlement from the property comprised in the settlement shall be deemed to be income of the settlor and, subject to section 51, not income of any other person.
 
 (2A) Subsection (2) shall not apply by reason only that the settlor or the wife or husband of the settlor will or may become beneficially entitled to any income or property relating to the interest of any beneficiary under the settlement in the event that the beneficiary should die before him.
 
@@ -15,7 +15,7 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (4) Where under the terms of any settlement to which this section applies any tax is charged on and paid by the person by whom the settlement is made, that person shall be entitled to recover from any trustee or other person to whom income is paid under the settlement the amount of the tax so paid, and for that purpose to require the Comptroller to furnish a certificate specifying the amount of tax so paid; and any certificate so furnished shall be conclusive evidence of the facts appearing therein.
 
-(5) If any question arises as to the amount of any payment of income or as to any apportionment of income under this section that question shall be decided by the Comptroller, whose decision shall be final.
+(5) If any question arises as to the amount of any payment of income or as to any apportionment of income under this section that question shall be decided by the Comptroller whose decision shall be final.
 
 (6) This section shall apply to every settlement wheresoever it was made or entered into and whether it was made or entered into before or after 1st January 1960 and shall (where there is more than one settlor or more than one person who made the settlement) have effect in relation to each settlor as if he were the only settlor.
 
@@ -25,7 +25,7 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 ‘‘relative’’ means any person who is a wife, grandchild, child, brother, sister, uncle, aunt, nephew, niece or cousin of the settlor;
 
-‘‘settlement’’ includes any disposition, trust, covenant, agree- ment, whether reciprocal or collateral, arrangement or transfer of assets or income, but does not include —
+‘‘settlement’’ includes any disposition, trust, covenant, agreement, whether reciprocal or collateral, arrangement or transfer of assets or income, but does not include —
 
 (a) a settlement which in the opinion of the Comptroller is made for valuable and adequate consideration;
 
@@ -34,5 +34,3 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 (c) any agreement made by an employer to pay to an employee or to the widow or any relative or dependant of such employee after his death such remuneration or pension or lump sum as in the opinion of the Comptroller is fair and reasonable;
 
 ‘‘settlor’’, in relation to a settlement, includes any person by whom the settlement was made or entered into directly or indirectly, and any person who has provided or undertaken to provide funds or credit directly or indirectly for the purpose of the settlement, or has made with any other person a reciprocal arrangement for that other person to make or enter into the settlement.
-
-[33A

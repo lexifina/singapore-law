@@ -1,17 +1,21 @@
 # 45. Withholding of tax in respect of interest paid to non-resident persons
 Part: PART XII DEDUCTION OF TAX AT SOURCE
 
-(1) Where a person is liable to pay to another person not known to him to be resident in Singapore any interest which is chargeable to tax under this Act, the person paying the interest shall deduct therefrom tax at the rate of 26% or the rate specified in section 43 (1B), as the case may be, on every dollar of the interest and shall immediately give notice of the deduction of tax in writing and pay to the Comptroller the amount so deducted and every such amount shall be a debt due from him to the Government and shall be recoverable in the manner provided by section 89.
+(1) Where a person is liable to pay to another person not known to him to be resident in Singapore any interest which is chargeable to tax under this Act, the person paying the interest shall deduct therefrom tax at the rate of 24.5% or the rate specified in section 43 (3), as the case may be, on every dollar of the interest and shall immediately give notice of the deduction of tax in writing and pay to the Comptroller the amount so deducted and every such amount shall be a debt due from him to the Government and shall be recoverable in the manner provided by section 89.
 
-[37/75; 31/86; 1/90; 20/91; 28/92; 26/93; 28/96]
+[37/75; 31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001]
+
+(1A) Notwithstanding subsection (1), tax shall be deducted at the rate of 25.5% on every payment (other than payment subject to tax at the rate specified in section 43 (3)) made on or after 1st January 2001 which would be assessable on the person receiving the payment for the year of assessment 2001.
+
+[24/2001]
 
 (2) The Comptroller may —
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine;
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 26% or the rate specified in section 43 (1B), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 24.5% or the rate specified in section 43 (3), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
-[1/90; 20/91; 28/92; 26/93; 28/96]
+[1/90; 20/91; 28/92; 26/93; 28/96; 24/2001]
 
 (3) Where a person fails to make a deduction of tax which he is required to make under subsection (1) any amount which he fails to deduct shall be a debt due from him to the Government and shall be recoverable as such.
 

@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-Section 13 (1) (e)
+Sections 13 (1) (e), 42 (3) and 106 (3)
 
 INSTITUTION, AUTHORITY, PERSON OR FUND EXEMPTED A. Public authorities, boards or funds constituted by statute in Singapore:
 
@@ -22,97 +22,107 @@ INSTITUTION, AUTHORITY, PERSON OR FUND EXEMPTED A. Public authorities, boards or
 
 9. Common Fund Cap. 260.
 
-10. Dental Council Act 24 of 1999 11. Dependents’ Protection Insurance Fund Cap. 36.
+10. Defence Science and Technology Agency Cap. 75A.
 
-12. Economic Development Board Cap. 85.
+11. Dental Council Cap. 76.
 
-13. Education Finance Board Cap. 87.
+12. Dependents’ Protection Insurance Fund Cap. 36.
 
-14. Hindu Endowments Board Cap. 364.
+13. Economic Development Board Cap. 85.
 
-15. Home Protection Fund Cap. 36.
+14. Education Finance Board Cap. 87.
 
-16. Hotels Licensing Board Cap. 127.
+15. Hindu Endowments Board Cap. 364.
 
-17. Housing and Development Board Cap. 129.
+16. Home Protection Fund Cap. 36.
 
-18. Info-communications Development Authority of Act 41 of 1999 Singapore 19. Inland Revenue Authority of Singapore Cap. 138A.
+17. Hotels Licensing Board Cap. 127.
 
-20. Institute of Certified Public Accountants of Cap. 2A.
+18. Housing and Development Board Cap. 129.
 
-Singapore 21. Institute of Technical Education, Singapore Cap. 141A.
+19. Info-communications Development Authority of Cap. 137A.
 
-22. Jurong Town Corporation Cap. 150.
+Singapore 20. Inland Revenue Authority of Singapore Cap. 138A.
 
-23. Land Surveyors Board Cap. 156.
+21. Institute of Certified Public Accountants of Cap. 2.
 
-24. Land Transport Authority of Singapore Cap. 158A.
+Singapore 22. Institute of Technical Education, Singapore Cap. 141A.
 
-25. Law Society of Singapore Cap. 161.
+23. Intellectual Property Office of Singapore Act 3 of 2001.
 
-26. Majlis Ugama Islam. Singapura Cap. 3.
+24. Jurong Town Corporation Cap. 150.
 
-27. Maritime and Port Authority of Singapore Cap. 170A.
+25. Land Surveyors Board Cap. 156.
 
-FIRST SCHEDULE — continued 28. Medical Council of Singapore Cap. 174.
+FIRST SCHEDULE — continued 26. Land Transport Authority of Singapore Cap. 158A.
 
-29. MediShield Fund Cap. 36.
+27. Law Society of Singapore Cap. 161.
 
-30. Monetary Authority of Singapore Cap. 186.
+28. Majlis Ugama Islam, Singapura Cap. 3.
 
-31. Minister for Finance Cap. 183.
+29. Maritime and Port Authority of Singapore Cap. 170A.
 
-32. National Arts Council Cap. 193A.
+30. Medical Council of Singapore Cap. 174.
 
-33. National Council of Social Service Cap. 195A.
+31. MediShield Fund Cap. 36.
 
-34. National Heritage Board Cap. 196A.
+32. Monetary Authority of Singapore Cap. 186.
 
-35. National Library Board Cap. 197.
+33. Minister for Finance Cap. 183.
 
-36. National Parks Board Cap. 198A.
+34. National Arts Council Cap. 193A.
 
-37. National Science and Technology Board Cap. 201A.
+35. National Council of Social Service Cap. 195A.
 
-38. People’s Association Cap. 227.
+36. National Heritage Board Cap. 196A.
 
-39. Pharmacy Board Cap. 230.
+37. National Library Board Cap. 197.
 
-40. Preservation of Monuments Board Cap. 239.
+38. National Parks Board Cap. 198A.
 
-41. Professional Engineers Board Cap. 253.
+39. National Science and Technology Board Cap. 201A.
 
-42. Public Accountants Board Cap. 2A.
+40. People’s Association Cap. 227.
 
-43. Public Transport Council Cap. 259B.
+41. Pharmacy Board Cap. 230.
 
-44. Public Utilities Board Cap. 261.
+42. Preservation of Monuments Board Cap. 239.
 
-45. Science Centre Board Cap. 286.
+43. Professional Engineers Board Cap. 253.
 
-46. Sentosa Development Corporation Cap. 291.
+44. Public Accountants Board Cap. 2.
 
-47. Singapore Academy of Law Cap. 294A.
+45. Public Transport Council Cap. 259B.
 
-48. Singapore Broadcasting Authority Cap. 297.
+46. Public Utilities Board Act 8 of 2001.
 
-49. Singapore Corporation of Rehabilitative Cap. 298.
+47. Science Centre Board Cap. 286.
 
-Enterprises 50. Singapore Nursing Board Cap. 209.
+48. Sentosa Development Corporation Cap. 291.
 
-51. Singapore Productivity and Standards Board Cap. 303A.
+49. Singapore Academy of Law Cap. 294A.
 
-52. Singapore Sports Council Cap. 305.
+50. Singapore Broadcasting Authority Cap. 297.
 
-53. Singapore Totalisator Board Cap. 305A.
+51. Singapore Corporation of Rehabilitative Cap. 298.
 
-54. Singapore Tourism Board Cap. 305B.
+Enterprises 52. Singapore Land Authority Act 17 of 2001.
 
-55. Trade Development Board Cap. 330.
+53. Singapore Nursing Board Cap. 209.
 
-56. Urban Redevelopment Authority Cap. 340.
+54. Singapore Productivity and Standards Board Cap. 303A.
 
-FIRST SCHEDULE — continued B. Clubs, corporations and institutions in Singapore:
+55. Singapore Sports Council Cap. 305.
+
+FIRST SCHEDULE — continued 56. Singapore Totalisator Board Cap. 305A.
+
+57. Singapore Tourism Board Cap. 305B.
+
+58. Trade Development Board Cap. 330.
+
+59. Urban Redevelopment Authority Cap. 340.
+
+B. Clubs, corporations and institutions in Singapore:
 
 1. Catholic Young Men’s Association 2. Kwong-Wai-Shiu Free Hospital Cap. 366.
 
@@ -132,10 +142,12 @@ Servicemen 9. Titular Anglican Bishop of Singapore Cap. 355.
 
 Singapore 11. Young Men’s Christian Association 12. Young Women’s Christian Association
 
-[29/95; 1/96; 7/96; 32/99; 41/99; S 148/76; S 38/77; S 217/80; S 158/82; S 183/83;
+[29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; S 148/76;
 
-S 137/84; S 138/84; S 217/84; S 26/85; S 79/88; S 379/89; S 380/89; S 381/90;
+S 38/77; S 217/80; S 158/82; S 183/83; S 137/84; S 138/84; S 217/84;
 
-S 382/90; S 383/90; S 317/91; S 562/91; S 210/92; S 412/92; S 259/95;
+S 26/85; S 79/88; S 379/89; S 380/89; S 381/90; S 382/90; S 383/90;
 
-S 33/96; S 67/96; S 302/96; S 372/97; S 372/98; S 267/99; S 485/99]
+S 317/91; S 562/91; S 210/92; S 412/92; S 259/95; S 33/96; S 67/96;
+
+S 302/96; S 372/97; S 372/98; S 267/99; S 485/99]

@@ -25,14 +25,12 @@ Part: PART XVI RETURNS
 
 [2/92]
 
-(5A) Any individual who arrives in Singapore during any year of assessment shall give such notice within one month of the date of his arrival.
+(6) Any individual who arrives in Singapore during any year of assessment shall give such notice within one month of the date of his arrival.
 
-(6) Subsections (5) and (5A) shall apply to a married woman in respect of any income derived by her for which her husband is chargeable.
+(7) Subsections (5) and (6) shall apply to a married woman in respect of any income derived by her for which her husband is chargeable.
 
 [2/92]
 
-(7) Any person who fails or neglects without reasonable excuse to comply with any of the provisions of this section shall be guilty of an offence.
-
-[63
+(8) Any person who fails or neglects without reasonable excuse to comply with any of the provisions of this section shall be guilty of an offence.
 
 [2/92]

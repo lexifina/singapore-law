@@ -7,13 +7,11 @@ Part: PART XII DEDUCTION OF TAX AT SOURCE
 
 (b) whose income arising from the disposal of any real property is chargeable to tax under section 10 (1) (a) is a non-resident person; or
 
-(c) who disposes of shares in a relevant company to which section 10G applies is a non-resident person, any designated person shall, before paying to the non-resident person any money which is the whole or part of the consideration for the disposal of such real property or shares, as the case may be, notwith- standing any other written law, immediately deduct therefrom tax at the rate of 15% on every dollar of every such payment.
+(c) who disposes of shares in a relevant company to which section 10G applies is a non-resident person, any designated person shall, before paying to the non-resident person any money which is the whole or part of the consideration for the disposal of such real property or shares, as the case may be, notwithstanding any other written law, immediately deduct therefrom tax at the rate of 15% on every dollar of every such payment.
 
 [23/96]
 
-(2) In relation to any disposal of any real property to which subsection (1) (a) applies, the reference to 15% in subsections (1) and
-
-(3) shall —
+(2) In relation to any disposal of any real property to which subsection (1) (a) applies, the reference to 15% in subsections (1) and (3) shall —
 
 (a) for any disposal of any real property which occurs more than one year but not more than 2 years from the date of acquisition, be read as 10%; and
 
@@ -29,13 +27,15 @@ Part: PART XII DEDUCTION OF TAX AT SOURCE
 
 [23/96]
 
-(5) Section 45 (2) to (8) shall apply, with the necessary modifi- cations, to any designated person as those provisions apply to any person referred to therein.
+(5) Section 45 (2) to (8) shall apply, with the necessary modifications, to any designated person as those provisions apply to any person referred to therein.
 
 [23/96]
 
 (6) For the purpose of payment of any tax due from —
 
-(a) any income which is chargeable to tax under section 10 (1) (a); or
+(a) any income which is chargeable to tax under section 10 (1) (a);
+
+or
 
 (b) any amount deemed to be income under section 10F, in respect of any disposal of any real property which is owned by 2 or more persons as joint owners, the designated person deducting the tax shall retain such amount as is presumed under subsection (7) to be owned by any non-resident person and pay over the tax due from such amount to the Comptroller.
 

@@ -1,9 +1,11 @@
-# 10G. Gains from short-term transactions of shares in private real property
+# 10G. Gains from short-term transactions of shares in private real property companies
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Where —
 
-(a) any person has disposed of any shares in a private company on or after 15th May 1996 before the expiration of the period of 3 years from the date on which he acquired the shares; and
+(a) any person has disposed of any shares in a private company on or after 15th May 1996 before the expiration of the period of 3 years from the date on which he acquired the shares;
+
+and
 
 (b) at the time of the disposal of the shares the company is a relevant company, then, notwithstanding any other provisions of this Act but subject to this section, the relevant amount of any gain arising from the disposal of the shares shall be deemed to be income of the person chargeable to tax under section 10 (1) (g).
 
@@ -77,7 +79,7 @@ A × [X (M − C ) +
 
 1 1 1
 
-X (M − C ) + X (M − C )]
+X (M − C ) + X (M − C )],
 
 2 2 2 3 3 3
 
@@ -165,6 +167,6 @@ all such real property acquired by the relevant company during the following per
 
 (f) any gains or profits arising from the disposal of any shares which are chargeable to tax under section 10 (1) (a); and
 
-(g) any gains or profits derived from the disposal of securities which do not form part of the statutory income of any designated unit trust or approved CPF unit trust under section 35 (7A).
+(g) any gains or profits derived from the disposal of securities which do not form part of the statutory income of any designated unit trust or approved CPF unit trust under section 35 (8).
 
 [23/96; 31/98]

@@ -1,7 +1,7 @@
 # 102. Service of summons
 Part: PART XX OFFENCES AND PENALTIES
 
-(1) Every summons issued by a court against any person in connection with any offence under this Act or any rules or regulations made thereunder may be served on the person —
+(1) Every summons issued by a court against any person in connection with any offence under this Act may be served on the person —
 
 (a) by delivering the summons to the person or to some adult member of his family at his last known place of residence;
 

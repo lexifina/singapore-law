@@ -1,11 +1,15 @@
 # 44. Deduction of tax from dividends of companies
 Part: PART XII DEDUCTION OF TAX AT SOURCE
 
-(1) Every company which is resident in Singapore, shall be entitled to deduct from the amount of any dividend paid to any shareholder tax at the rate of 26% on every dollar of such dividend.
+(1) Every company which is resident in Singapore, shall be entitled to deduct from the amount of any dividend paid to any shareholder tax at the rate of 24.5% on every dollar of such dividend.
 
-[31/86; 1/90; 20/91; 28/92; 26/93; 28/96]
+[31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001]
 
-(2) Every such company shall upon payment of a dividend, whether tax is deducted therefrom or not, furnish each shareholder with a certificate setting forth the amount of the dividend paid to that shareholder and the amount of tax which the company has deducted or is entitled to deduct in respect of that dividend.
+(2) Every such company shall upon payment of a dividend, whether tax is deducted therefrom or not, furnish each shareholder with a certificate setting forth the amount of the dividend paid to that shareholder and the amount of tax which the company has deducted or is entitled to deduct in respect of that dividend; and where a dividend is deemed to have been received by a shareholder under section 10J (3A) (b), such certificate shall also specify that the dividend is in respect of a share buyback through a special trading counter.
+
+[24/2000]
+
+.
 
 (3) The Minister may, if he is satisfied that it is expedient in the public interest to do so, authorise the Comptroller to pay such company in respect of such classes of its shareholders as the Minister may designate, a sum equal to the amount of tax which the designated company would be entitled to deduct under subsection (1) from dividends to be paid to the designated shareholders so as to enable the designated company to pay the dividends to those shareholders as if no tax had been deducted under that subsection.
 
@@ -51,13 +55,13 @@ Part: PART XII DEDUCTION OF TAX AT SOURCE
 
 [1/88]
 
-(13) Notwithstanding anything in this Act, where the tax on any dividend paid in 1996 has been deducted at the rate of 27% —
+(13) Notwithstanding anything in this Act, where the tax on any dividend paid in the year 2001 has been deducted at the rate of 25.5% —
 
-(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 26% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
+(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 24.5% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
 
-(b) the difference between the amount of the tax deducted at 27% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the balance on the 1st day of the year of assessment 1997 and deemed to be a part thereof.
+(b) the difference between the amount of the tax deducted at 25.5% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the balance on the first day of the year of assessment 2002 and deemed to be a part thereof.
 
-[28/96]
+[24/2001]
 
 (14) For the purposes of this section —
 
@@ -75,10 +79,10 @@ Part: PART XII DEDUCTION OF TAX AT SOURCE
 
 (e) tax assessed excludes —
 
-(i) tax assessed at the rate of 10% or such other rate as may be prescribed under section 43 (3); and
+(i) tax assessed at the rate of 10% or such other rate as may be prescribed under section 43 (9); and
 
 (ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N or 43O, or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
 
-(f) any balance or tax assessed which has been taken into account for the purpose of determining the charge or balance under subsection (4) or (5) upon the payment of any dividend shall be regarded as having been utilized for that purpose notwithstanding that no set-off has been allowed in respect of that dividend under section 46 (6).
+(f) any balance or tax assessed which has been taken into account for the purpose of determining the charge or balance under subsection (4) or (5) upon the payment of any dividend shall be regarded as having been utilised for that purpose notwithstanding that no set-off has been allowed in respect of that dividend under section 46 (3).
 
-[1/88; 28/92; 26/93; 32/95; 1/98; 31/98; 32/99]
+[1/88; 28/92; 26/93; 32/95; 1/98; 31/98; 32/99; 24/2000; 24/2001]

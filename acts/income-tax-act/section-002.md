@@ -3,7 +3,7 @@ Part: PART I PRELIMINARY
 
 (1) In this Act, unless the subject or context otherwise requires —
 
-‘‘accountant’’ means a public accountant within the meaning of the Accountants Act (Cap. 2A);
+‘‘accountant’’ means a public accountant within the meaning of the Accountants Act (Cap. 2);
 
 ‘‘advocate and solicitor’’ means an advocate and solicitor within the meaning of the Legal Profession Act (Cap. 161);
 
@@ -19,7 +19,7 @@ Part: PART I PRELIMINARY
 
 ‘‘company’’ means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-‘‘Comptroller’’ means the Comptroller of Income Tax appointed under section 5 and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45 (7), 67 (1) (a), 95, 96 and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+‘‘Comptroller’’ means the Comptroller of Income Tax appointed under section 3 (1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45 (7), 67 (1) (a), 95, 96 and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 ‘‘country’’ includes a territory;
 
@@ -48,6 +48,8 @@ Part: PART I PRELIMINARY
 ‘‘Hindu joint family’’ means what in any system of law prevailing in India is known as a Hindu joint family or a co-parcenary;
 
 ‘‘incapacitated person’’ means any infant, lunatic, idiot or insane person;
+
+‘‘life annuity’’ means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
 
 ‘‘local forces’’ means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
 
@@ -87,6 +89,8 @@ Part: PART I PRELIMINARY
 
 ‘‘prescribed’’ means prescribed by rules or regulations made under this Act;
 
+‘‘prescribed retirement age’’ has the same meaning as in the Retirement Age Act (Cap. 274A);
+
 ‘‘professional visit pass’’ means a professional visit pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
 
 ‘‘replanting’’ means the replacement of the crop of any product on any area of land by the planting on the same area —
@@ -113,9 +117,19 @@ Part: PART I PRELIMINARY
 
 (a) in relation to an individual, means a person who, in the year preceding the year of assessment, resides in Singapore except for such temporary absences therefrom as may be reasonable and not inconsistent with a claim by such person to be resident in Singapore, and includes a person who is physically present or who exercises an employment (other than as a director of a company) in Singapore for 183 days or more during the year preceding the year of assessment; and
 
-(b) in relation to a company or body of persons, means a company or body of persons the control and manage- ment of whose business is exercised in Singapore;
+(b) in relation to a company or body of persons, means a company or body of persons the control and management of whose business is exercised in Singapore;
 
 ‘‘return’’ includes an electronic return under section 71A;
+
+‘‘SRS account’’ means an account opened with an SRS operator by an SRS member;
+
+‘‘SRS contribution cap’’, in relation to an SRS member, means the maximum contribution prescribed under section 10L that may be made by the member to his SRS account in any year under the SRS;
+
+‘‘SRS member’’ means a member of the Supplementary Retirement Scheme;
+
+‘‘SRS operator’’ means any company approved by the Minister, or such person as he may appoint, for the purposes of the Supplementary Retirement Scheme;
+
+‘‘Supplementary Retirement Scheme’’ or ‘‘SRS’’ means the Supplementary Retirement Scheme established by regulations made under section 10L;
 
 ‘‘tax’’ means the income tax imposed by this Act;
 
@@ -123,7 +137,7 @@ Part: PART I PRELIMINARY
 
 ‘‘year of assessment’’ means the period of 12 months commencing on 1st January 1948, and each subsequent period of 12 months.
 
-[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95; 1/98; 31/98; 32/99]
+[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95; 1/98; 31/98; 32/99; 24/2001]
 
 (2) For the purposes of this Act, where an individual is present in Singapore for any part of a day his presence on that day shall be counted as one day.
 

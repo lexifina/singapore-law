@@ -33,7 +33,11 @@ before 1st July 1994 shall not exceed 18 ⁄2%;
 
 (B) commencing on or after 1st July 1994 and before 1st January 1999 shall not exceed 20%;
 
-(C) commencing on or after 1st January 1999 shall not exceed 10%, of the remuneration paid by the employer to the employee for that period, and ‘‘remuneration’’ in this proviso means that part of an employee’s emolu- ments by reference to which his employer’s contri- butions are calculated;
+(C) commencing on or after 1st January 1999 and before 1st April 2000 shall not exceed 10%;
+
+(D) commencing on or after 1st April 2000 and before 1st January 2001 shall not exceed 12%;
+
+(E) commencing on or after 1st January 2001 shall not exceed 16%, of the remuneration paid by the employer to the employee for that period, and ‘‘remuneration’’ in this proviso means that part of an employee’s emoluments by reference to which his employer’s contributions are calculated;
 
 (ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
 
@@ -41,15 +45,17 @@ before 1st July 1994 shall not exceed 18 ⁄2%;
 
 (f) any sum contributed by an employer in any month to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C (1C), subject to a maximum deduction of 1% of the ordinary wages of the employee for that month or $60, whichever is the less, for each employee:
 
-Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
 
 (g) zakat, fitrah or any religious dues, payment of which is made under any written law;
 
 (h) where the income is derived from the working of a mine or other source of mineral deposits of a wasting nature, such deductions in respect of capital expenditure as may be prescribed in rules made under section 7.
 
-[37/75; 7/79; 28/80; 5/83; 7/85; 31/86; 1/90; 23/90; 2/92; 26/93; 11/94; 32/95; 1/98; 32/99]
+[37/75; 7/79; 28/80; 5/83; 7/85; 31/86; 1/90; 23/90;
 
-(2) Notwithstanding subsection (1), payments made by way of compensation for injuries or death, salaries, wages or similar emoluments or death gratuities to an employee (or his legal represen- tative) who is the husband, wife or child of —
+2/92; 26/93; 11/94; 32/95; 1/98; 32/99; 24/2001]
+
+(2) Notwithstanding subsection (1), payments made by way of compensation for injuries or death, salaries, wages or similar emoluments or death gratuities to an employee (or his legal representative) who is the husband, wife or child of —
 
 (a) any employer;
 
@@ -69,7 +75,7 @@ Provided that no deduction shall be allowed in respect of any sum contributed by
 
 (4) Subsections (3) and (3A) shall apply to a motor car which is constructed or adapted for the carriage of not more than 7 passengers exclusive of the driver and the weight of which unladen does not exceed 3,000 kilograms and which —
 
-(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) and the rules made thereunder but excludes such a motor car which is —
+(a) was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) but excludes such a motor car which is —
 
 (i) used principally for instructional purposes; and
 
@@ -79,11 +85,11 @@ Provided that no deduction shall be allowed in respect of any sum contributed by
 
 [32/99]
 
-(5) Notwithstanding subsection (1), where, in the basis period for any year of assessment, any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86)) incurs medical expenses falling within that subsection in excess of 2% of the total renumeration of his employees in that basis period, the amount of the excess medical expenses shall not be allowed as deductions.
+(5) Notwithstanding subsection (1), where, in the basis period for any year of assessment, any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86)) incurs medical expenses falling within that subsection in excess of 2% of the total remuneration of his employees in that basis period, the amount of the excess medical expenses shall not be allowed as deductions.
 
 [26/93]
 
-(6) Where, in the basis period for any year of assessment, any employer derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) and incurs medical expenses in excess of 2% of the total remuneration of his employees in that basis period, an amount equal to the excess medical expenses shall be deemed to be income of the employer chargeable to tax at the rate of tax under section 42 (1) or 43 (1), as the case may be, for that year of assessment.
+(6) Where, in the basis period for any year of assessment, any employer derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act and incurs medical expenses in excess of 2% of the total remuneration of his employees in that basis period, an amount equal to the excess medical expenses shall be deemed to be income of the employer chargeable to tax at the rate of tax under section 42 (1) or 43 (1), as the case may be, for that year of assessment.
 
 [26/93]
 
@@ -103,9 +109,7 @@ Provided that no deduction shall be allowed in respect of any sum contributed by
 
 (d) expenses incurred in or in connection with the provision of insurance against the cost of medical treatment; and
 
-(e) contributions which are deductible under subsection
-
-(1) (f);
+(e) contributions which are deductible under subsection (1) (f);
 
 ‘‘medical treatment’’ includes all forms of treatment for, and procedures for diagnosing, any physical or mental ailment, infirmity or defect;
 

@@ -27,6 +27,6 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 ‘‘rate of tax’’, when applied to tax paid or payable under this Act, means the rate determined by dividing the amount of the tax paid or payable on any income other than specified income for the year (before the deduction of the relief granted under this section) by the amount of the income (other than specified income) in respect of which the tax paid or payable under this Act has been charged for that year except that, where the income (other than specified income) which is the subject of a claim to relief under this section is computed by reference to the provisions of this Act on an amount other than the ascertained amount of the actual profits, the rate of tax shall be determined by the Comptroller; and the rate of Commonwealth income tax shall be computed in a similar manner;
 
-‘‘specified income’’ means any income of a person not resident in Singapore which is subject to tax at the rate specified in section 43 (1B).
+‘‘specified income’’ means any income of a person not resident in Singapore which is subject to tax at the rate specified in section 43 (3).
 
 [28/96]

@@ -25,6 +25,6 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (a) any tax payable on any dividend derived from Singapore from which tax has been deducted under section 44; and
 
-(b) any tax payable on any income which is subject to tax at the rate of 15% under section 43 (1B).
+(b) any tax payable on any income which is subject to tax at the rate of 15% under section 43 (3).
 
 [32/99]

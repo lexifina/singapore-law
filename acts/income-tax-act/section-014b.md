@@ -13,7 +13,7 @@ or
 
 (2) The expenses referred to in subsection (1) are —
 
-(a) expenses in establishing, maintaining or otherwise partici- pating in an approved trade fair, trade exhibition, trade mission or trade promotion activity;
+(a) expenses in establishing, maintaining or otherwise participating in an approved trade fair, trade exhibition, trade mission or trade promotion activity;
 
 (b) expenses in maintaining an approved overseas trade office;
 
@@ -63,7 +63,7 @@ or
 
 [28/92]
 
-(3D) Section 13B (4) to (7) shall apply, with the necessary modifi- cations, in respect of any dividend paid out of the tax exempt account of the company.
+(3D) Section 13B (4) to (7) shall apply, with the necessary modifications, in respect of any dividend paid out of the tax exempt account of the company.
 
 [28/92]
 

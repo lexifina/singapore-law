@@ -9,11 +9,11 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (ii) any qualifying debt securities issued during the period from 27th February 1999 to 27th February 2003 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Common- wealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
+(b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
-(d) (Deleted by Act 29/65);
+(d) any gains or profits, other than dividends derived from Singapore from which tax has been deducted under section 44, arising from sums standing in the SRS account of any SRS member except where section 10L (13) applies;
 
 (e) the income of any institution, authority, person or fund specified in the First Schedule, except dividends received by it from any company in which it holds, at the time such dividends are declared, more than half of the issued share capital of the company unless the Minister otherwise approves;
 
@@ -23,13 +23,13 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (ii) any co-operative society registered under the Co-operative Societies Act (Cap. 62);
 
-(g) subject to subsection (3), the income of any charitable institution or of any body of persons or trust established for charitable purposes only;
+(g) such income derived by the Singapore Exchange Derivatives Clearing Limited from the commencement of its business to 31st December 2003 as may be prescribed;
 
 (h) any sum received by way of commutation of pensions granted under any written law relating to pensions in Singapore or, in the case of any other pension scheme, any sum received by way of commutation of pensions by an individual under such a scheme to the extent of such sum as the Comptroller may determine relating to the period of employment of that individual with the employer before 1st January 1993;
 
 (i) sums received by way of death gratuities or as consolidated compensation for death or injuries;
 
-(j) sums standing to the account of an individual in the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39 (8) or with- drawn therefrom except for sums in respect of dividends (other than dividends derived from outside Singapore) credited to his Investment Account maintained under the Central Provident Fund Act (Cap. 36);
+(j) sums standing to the account of an individual in the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39 (8) or withdrawn therefrom except for sums in respect of dividends (other than dividends derived from outside Singapore) credited to his Investment Account maintained under the Central Provident Fund Act (Cap. 36);
 
 (ja) sums standing to the account of an individual in an approved pension or provident fund (other than the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39 (8)) to the extent of the sum standing to his account as at 31st December 1992 and of such interest on that sum as the Comptroller may determine for the period 1st January 1993 to the date of his retirement and which are withdrawn only upon or after his retirement in accordance with the rules or constitution of the fund;
 
@@ -81,7 +81,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (ii) a person, other than an individual, if that person does not, by himself or in association with others, carry on a business in Singapore, and does not have a permanent establishment in Singapore;
 
-(u) the interest derived by any person from the deposit of moneys in any savings account with the Post Office Savings Bank of Singapore transferred to The Development Bank of Singapore Ltd under the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act (Cap. 237) or in any POSB savings account with The Development Bank of Singapore Ltd approved by the Minister;
+(u) such interest derived during the period 1st January 2002 to 31st December 2004 by any person from the deposit of moneys of up to an aggregate amount of $100,000 in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
 
 (v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
@@ -95,13 +95,13 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N; and
 
-(z) for a period of 20 years from the commencement of its business, such income of the Singapore International Monetary Exchange Limited as may be prescribed.
+(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed.
 
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92;
+[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93;
 
-26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99]
+11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001]
 
-(2) Subsection (1) (a) shall, unless otherwise approved by the Minister or such person as he may appoint, not apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
+(2) Subsection (1) (a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
@@ -109,21 +109,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 [32/99]
 
-(3) For the purposes of subsection (1) (g) —
-
-(a) where a trade or business is carried on by any such institution, body of persons or trust, the income derived from such trade or business shall be exempt from tax only if such income is applied solely for charitable purposes and either —
-
-(i) the trade or business is exercised in the course of the actual carrying out of a primary purpose of such institution, body of persons or trust; or
-
-(ii) the work in connection with the trade or business is mainly carried on by persons for whose benefit such institution, body of persons or trust was established;
-
-(b) the income of any institution, body of persons or trust shall be exempt from tax only if it applies in any year of assessment for charities or charitable objects within Singapore not less than 80% of donations (in money or money’s worth) it received and of its income (after providing for allowable deductions) in the preceding year unless the Comptroller otherwise permits;
-
-(c) if the institution, body of persons or trust applies any amount of its income otherwise than in accordance with its charitable objects, the institution, body of persons or trust shall pay to the Comptroller tax on that amount of its income and a determination and assessment under this paragraph shall be treated as a notice of assessment and shall be subject to the provisions of Parts XVII and XVIII.
-
-[1/82; 32/95]
-
-(3A) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
+(3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
 [26/73]
 

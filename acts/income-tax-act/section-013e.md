@@ -45,7 +45,7 @@ and C is the foreign tax paid, shall be credited to a special account (referred 
 
 (a) make such assessment or additional assessment upon any such shareholder as may be necessary in order to make good any loss of tax; or
 
-(b) direct the company to debit the account or designated account, as the case may be, with such amount as the circum- stances require.
+(b) direct the company to debit the account or designated account, as the case may be, with such amount as the circumstances require.
 
 [11/94; 32/95]
 
@@ -77,7 +77,7 @@ and C is the foreign tax paid, shall be credited to a special account (referred 
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K , 43L , 43M, 43N or 43O or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43M, 43N or 43O or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
 
 (c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore-Malaysia) (Avoidance of Double Taxation Agreement) Order.
 

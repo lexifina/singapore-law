@@ -5,6 +5,6 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 [1/88]
 
-(2) The Comptroller may, in his discretion, extend the time limit within which payment is to be made.
+(2) The Comptroller may, in his discretion and subject to such terms and conditions, including the imposition of interest, as he may impose, extend the time limit within which payment is to be made.
 
-[86
+[24/2000]

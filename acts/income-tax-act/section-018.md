@@ -1,7 +1,7 @@
 # 18. Definitions
 Part: PART VI CAPITAL ALLOWANCES
 
-(1) Subject to this section, in sections 16 and 17 ‘‘industrial building or structure’’ means a building or structure in use —
+(1) Subject to this section, in sections 16 and 17, ‘‘industrial building or structure’’ means a building or structure in use —
 
 (a) for the purposes of a trade carried on in a mill, factory or other similar premises;
 
@@ -17,7 +17,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (g) for the purposes of a trade which consists in the working of a mine or other source of mineral deposits of a wasting nature;
 
-(h) for the purposes of a trade in intensive pig and poultry production as may be approved by the Minister or such other person as he may appoint;
+(h) for the purposes of a trade in intensive pig and poultry production as may be approved by the Minister or such person as he may appoint;
 
 (i) by a research and development organisation in carrying out research and development activities for any manufacturing trade or business;
 
@@ -29,7 +29,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [26/73; 28/80; 1/82; 1/88; 3/89; 2/92]
 
-(1A) A building or structure shall not be deemed, by reason only of its falling or having fallen into temporary disuse, to have thereby ceased altogether to be used for one of the purposes specified in subsection (1) if, immediately prior to falling into such temporary disuse, it was in use for such a purpose and if, during the period of such temporary disuse, it is constantly maintained in readiness to be brought back into use for such a purpose; but if, in such circum- stances, the building or structure at any time during disuse ceases to be ready for use for any of the said purposes, or if at any time, for any reason, the disuse of the building or structure can no longer be reasonably regarded as temporary, then and in any such case, the building or structure shall be deemed to have ceased, on the commencement of the period of disuse, to be used for any of the purposes specified in subsection (1).
+(1A) A building or structure shall not be deemed, by reason only of its falling or having fallen into temporary disuse, to have thereby ceased altogether to be used for one of the purposes specified in subsection (1) if, immediately prior to falling into such temporary disuse, it was in use for such a purpose and if, during the period of such temporary disuse, it is constantly maintained in readiness to be brought back into use for such a purpose; but if, in such circumstances, the building or structure at any time during disuse ceases to be ready for use for any of the said purposes, or if at any time, for any reason, the disuse of the building or structure can no longer be reasonably regarded as temporary, then and in any such case, the building or structure shall be deemed to have ceased, on the commencement of the period of disuse, to be used for any of the purposes specified in subsection (1).
 
 (2) Subsection (1) shall apply in relation to a part of a trade or undertaking as it applies to a trade or undertaking.
 
@@ -45,7 +45,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (5) In sections 16 and 17 —
 
-‘‘relevant interest’’ means, in relation to any expenditure incurred on the construction of a building or structure, the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
+‘‘relevant interest’’, in relation to any expenditure incurred on the construction of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
 
 ‘‘residue of expenditure’’ shall be the amount of the capital expenditure incurred in the construction of a building or structure reduced by —
 

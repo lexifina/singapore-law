@@ -70,4 +70,4 @@ than an adopted child) of the family who is born on or after 1st January 1988
 
 (c) where any question arises as to the ranking of any child for the purpose of any deduction to be granted under this Schedule, it shall be determined by the Comptroller whose decision shall be final.
 
-[26/73; 4/75; 1/88; 1/90; 26/93; 13/84]
+[26/73; 4/75; 13/84; 1/88; 1/90; 26/93]

@@ -23,7 +23,7 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (6) Any person granted any tax credit under subsection (1) or any regulations made thereunder on any income shall not be given any tax relief under section 48 or tax credit under section 50 in respect of that income.
 
-(7) The Minister may, in any particular case, waive the require- ment of 25% share ownership referred to in subsections (3) and (4).
+(7) The Minister may, in any particular case, waive the requirement of 25% share ownership referred to in subsections (3) and (4).
 
 [32/95]
 

@@ -15,7 +15,7 @@ Provided that —
 
 (a) within that period of 10 days, a penalty equal to 5% of that amount shall be payable by the employer to the Comptroller;
 
-(b) within one month after the date of the deduction, an addi- tional penalty equal to 1% of that amount shall be payable by the employer to the Comptroller for each completed month that the amount remains unpaid, but the total additional penalty shall not exceed 12% of the amount outstanding.
+(b) within one month after the date of the deduction, an additional penalty equal to 1% of that amount shall be payable by the employer to the Comptroller for each completed month that the amount remains unpaid, but the total additional penalty shall not exceed 12% of the amount outstanding.
 
 [5/77]
 

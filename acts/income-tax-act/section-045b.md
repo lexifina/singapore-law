@@ -5,6 +5,6 @@ Part: PART XII DEDUCTION OF TAX AT SOURCE
 
 [7/79]
 
-(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 26% on every dollar of the interest.
+(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 24.5% on every dollar of the interest.
 
-[28/96]
+[28/96; 24/2001]

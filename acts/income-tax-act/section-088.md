@@ -14,5 +14,3 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 [28/94]
 
 (3) Any notice or process given or served upon any person by posting the same or a copy thereof by registered post to him at his last known address shall, notwithstanding section 8 (3), be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.
-
-[89

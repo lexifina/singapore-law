@@ -11,6 +11,4 @@ Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (4) This section shall also apply, with the necessary modifications, to any assessment made under subsection (1) or (2) which results in any unabsorbed allowances or losses.
 
-[73
-
 [32/99]

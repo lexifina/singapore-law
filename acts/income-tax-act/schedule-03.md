@@ -4,7 +4,7 @@
 
 FOURTH SCHEDULE
 
-Section 47
+Sections 47 and 106 (3)
 
 NAME OF BOND, SECURITIES, STOCK OR FUND
 

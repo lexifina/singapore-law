@@ -1,4 +1,4 @@
-# 71. Return to be made by a partnership
+# 71. Return to be made by partnership
 Part: PART XVI RETURNS
 
 (1) Where a trade, business, profession or vocation is carried on by 2 or more persons jointly, the precedent partner, that is to say, the partner who, of the partners personally present in Singapore —

@@ -21,9 +21,7 @@ Part: PART II ADMINISTRATION
 
 (6) The Minister, the Auditor-General or any such officer shall be deemed to be a person employed in carrying out the provisions of this Act for the purposes of this section.
 
-(7) Notwithstanding anything in this section, the Comptroller may transmit any document, information or return received by him or in his possession under this Act to the Commissioner of Estate Duties;
-
-and the Commissioner of Estate Duties may, notwithstanding anything contained in any written law for the time being in force in Singapore relating to the proof of documents, produce or cause to be produced in any court, in any proceedings relating to estate or death duties, a copy of any particulars contained in any document or return so transmitted, certified by him or on his behalf to be a correct copy of such particulars.
+(7) Notwithstanding anything in this section, the Comptroller may transmit any document, information or return received by him or in his possession under this Act to the Commissioner of Estate Duties; and the Commissioner of Estate Duties may, notwithstanding anything contained in any written law for the time being in force in Singapore relating to the proof of documents, produce or cause to be produced in any court, in any proceedings relating to estate or death duties, a copy of any particulars contained in any document or return so transmitted, certified by him or on his behalf to be a correct copy of such particulars.
 
 (8) For the purposes of subsection (7), the Commissioner of Estate Duties —
 
