@@ -1,0 +1,25 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+BUSINESS REGISTRATION ACT
+(CHAPTER 32)
+Act
+36 of 1973
+1985 Ed. Cap. 32
+Amended by
+28 of 1994
+37 of 1999
+40 of 1999
+36 of 2000
+REVISED EDITION 2001
+(31st July 2001)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2001
+
+
+
+An Act to provide for the registration of persons carrying on business in Singapore and for matters incidental thereto.
+
+[1st September 1974]
