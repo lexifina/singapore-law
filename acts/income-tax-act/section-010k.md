@@ -1,5 +1,6 @@
-# 10K. Shares redemption
+# 10K. Shares redemption … … … … … … … … 47
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 (1) This section shall apply where a company resident in Singapore redeems from its shareholders any redeemable shares issued after 6th July 1999.
 

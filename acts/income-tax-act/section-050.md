@@ -1,4 +1,4 @@
-# 50. Tax credits
+# 50. Tax credits … … … … … … … … … 271
 Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (1) This section shall have effect where, under arrangements having effect under section 49, tax payable in respect of any income in the territory with the government of which the arrangements are made is to be allowed as a credit against tax payable in respect of that income in Singapore.
@@ -17,9 +17,7 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (b) where the income tax chargeable depends on the amount received in Singapore, that amount shall be increased by the appropriate amount of the foreign tax in respect of the income;
 
-(c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit;
-
-but notwithstanding anything in paragraphs (a) and (b) a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
+(c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and if so what, credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit; but notwithstanding anything in paragraphs (a) and (b) a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
 
 (6) Subsection (5) (a) and (b) shall apply to the computation of assessable income for the purposes of determining the rate mentioned in subsection (3), and shall apply thereto in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 49.
 

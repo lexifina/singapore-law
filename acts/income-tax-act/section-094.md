@@ -1,4 +1,4 @@
-# 94. Penalties
+# 94. General penalties … … … … … … … … 315
 Part: PART XX OFFENCES AND PENALTIES
 
 (1) Any person who contravenes any of the provisions of this Act shall be guilty of an offence.
@@ -11,11 +11,13 @@ Part: PART XX OFFENCES AND PENALTIES
 
 (4) Where any person has been convicted of an offence —
 
-(a) for failing to comply with section 44 (10) and such conviction is subsequent to a conviction for an offence for failing to comply with section 44 (9);
+(a) for failing to comply with section 44 (16) and such conviction is subsequent to a conviction for an offence for failing to comply with section 44 (15);
 
 (b) for failing to comply with section 62 (3) and such conviction is subsequent to a conviction for an offence for failing to comply with section 62 (1);
 
-(c) under section 62 (8) or for failing to comply with section 71 and such conviction is a second or subsequent conviction; or
+(c) under section 62 (8) or for failing to comply with section 71 and such conviction is a second or subsequent conviction;
+
+or
 
 (d) for failing to comply with section 71 and such conviction is subsequent to a conviction for an offence under section 62 (8), in respect of the same year of assessment, he shall be liable to a further penalty of $50 for every day during which the offence is continued after such conviction.
 

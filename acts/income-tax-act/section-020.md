@@ -1,5 +1,6 @@
-# 20. Balancing allowances and charges for machinery or plant
+# 20. Balancing allowances and charges for machinery or plant … 163
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
 (1) Except as provided in this section, where at any time after the setting up and on or before the permanent discontinuance of a trade, profession or business, any event occurs whereby machinery or plant in respect of which allowances under section 19 or 19A have been made to a person carrying on a trade, profession or business —
 
@@ -11,7 +12,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (2) Where machinery or plant continues to belong to that person after the date on which it permanently ceases to be used for the purposes of a trade, profession or business carried on by him in Singapore, it shall be deemed to have been sold on the date of permanent cessation of use at the open-market price on that date.
 
-(2A) Where there are no sale, insurance, salvage or compensation moneys or where the amount of the capital expenditure of the person in question on the provision of the plant or machinery still unallowed as at the time of the event exceeds those moneys, a balancing allowance shall be made, and the amount thereof shall be the amount of the expenditure still unallowed as aforesaid or, as the case may be, the excess thereof over those moneys.
+(2A) Where there are no sale, insurance, salvage or compensation moneys or where the amount of the capital expenditure of the person in question on the provision of the machinery or plant still unallowed as at the time of the event exceeds those moneys, a balancing allowance shall be made, and the amount thereof shall be the amount of the expenditure still unallowed as aforesaid or, as the case may be, the excess thereof over those moneys.
 
 (3) If the sale, insurance, salvage or compensation moneys exceed the amount, if any, of the said expenditure still unallowed as at the time of the event, a balancing charge shall be made, and the amount on which it is made shall be an amount equal to the excess or, where the said amount still unallowed is nil, to those moneys.
 
@@ -23,7 +24,9 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [13/84]
 
-(5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19 (3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with 35,000A , the formula B where A is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
+(5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19 (3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula 35,000A , ————
+
+B where A is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
 
 B is the capital expenditure incurred in respect of the motor car.
 

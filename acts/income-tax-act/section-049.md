@@ -1,4 +1,4 @@
-# 49. Double taxation arrangements
+# 49. Double taxation arrangements … … … … … … 269
 Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (1) If the Minister by order declares that arrangements specified in the order have been made with the government of any country outside Singapore with a view to affording relief from double taxation in relation to tax under this Act and any tax of a similar character imposed by the laws of that country, and that it is expedient that those arrangements should have effect, the arrangements shall have effect notwithstanding anything in any written law.
@@ -15,7 +15,7 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 [5/77]
 
-(2A) In subsection (2) (b), ‘‘effective rate of tax’’ means the rate A , of tax as ascertained in accordance with the formula ———
+(2A) In subsection (2) (b), ‘‘effective rate of tax’’ means the rate of tax as ascertained in accordance with the formula A , ———
 
 B + C where A is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
 

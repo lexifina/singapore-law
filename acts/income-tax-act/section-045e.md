@@ -1,5 +1,6 @@
-# 45E. Application of section 45 to withdrawals by non-citizen SRS members, etc.
+# 45E. Application of section 45 to withdrawals by non-citizen SRS members, etc. … … … … … … … … … 264
 Part: PART XII DEDUCTION OF TAX AT SOURCE
+Heading: Section Pages
 
 (1) Subject to subsection (2), section 45 shall apply in relation to —
 
@@ -31,6 +32,10 @@ or
 
 [24/2001]
 
-(4) This section shall not apply to any withdrawal by an SRS member who is not a citizen of Singapore if the amount of withdrawal from his SRS account in any year does not exceed the amount of contribution to his SRS account in that year.
+(4) Subject to subsection (5), this section shall not apply to any withdrawal by an SRS member who is not a citizen of Singapore if the amount of withdrawal from his SRS account in any year does not exceed the amount of contribution to his SRS account in that year.
 
-[24/2001]
+[24/2001; 37/2002]
+
+(5) Where a deduction for SRS contributions has been allowed in any year to an SRS member who is not a citizen of Singapore under an assessment made under section 73 (1) (b) and within that year the SRS member applies to withdraw an amount up to the amount he has contributed in that year, the SRS operator shall release the amount applied to the SRS member after deducting tax at the rate specified in section 43 (1) (b) on every dollar withdrawn.
+
+[37/2002]

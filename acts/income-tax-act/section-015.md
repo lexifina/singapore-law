@@ -1,13 +1,13 @@
-# 15. Deductions not allowed
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 15. Deductions not allowed … … … … … … … 134
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
 
-(a) domestic or private expenses except as provided by section 14 (1) (g);
+(a) domestic or private expenses except as provided in section 14 (1) (g);
 
 (b) any disbursements or expenses not being money wholly and exclusively laid out or expended for the purpose of acquiring the income;
 
-(c) any capital withdrawn or any sum employed or intended to be employed as capital except as provided by section 14 (1) (h);
+(c) any capital withdrawn or any sum employed or intended to be employed as capital except as provided in section 14 (1) (h);
 
 (d) any capital employed in improvements other than improvements effected in the replanting of a plantation;
 
@@ -35,34 +35,18 @@ Part: PART V DEDUCTIONS AGAINST INCOME
 
 (v) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes if the person is carrying on the business of providing driving instruction and holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act;
 
-(l) any outgoings and expenses incurred in respect of any unit trust designated under section 35 (10) if the person is a unit holder of such trust;
+(l) any outgoings and expenses incurred in respect of any unit trust designated under section 35 (14) if the person is a unit holder of such trust;
 
 (m) any amount of output tax paid or payable under the Goods and Services Tax Act (Cap. 117A) which is borne by the person if he is registered as a taxable person under that Act;
 
-(n) any outgoings and expenses, whether directly or in the form of reimbursements, incurred on or after 1st April 1983 and before 1st April 1998 for the use of any private hire car —
+(n) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35 (14) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund;
 
-(i) where the periods of use of that car by that person, together with the periods of use by that person of any other private hire car or cars, during the basis period for any year of assessment, exceed in the aggregate 183 days; or
+(o) any sum of money, other than any compensatory payment, paid by a transferee to a transferor after the transferee has failed to notify such person within such period as the Comptroller may require under section 10N (6) (b), in place of any dividend derived from Singapore from which tax has been deducted under section 44 in respect of transferred securities under a securities lending or repurchase arrangement to which section 10N applies; and
 
-(ii) which exceed, and only to the extent of the excess, such amount as is in the opinion of the Comptroller reasonable having regard to the periods of use of that car and its requirement by that person during the basis period for any year of assessment; and
+(p) any outgoings and expenses, whether directly or in the form of reimbursements, incurred in respect of any right or benefit granted to any person to acquire shares on or after 1st January 2002 in any company, if the right or benefit is not granted by reason of any office or employment held in Singapore by the person.
 
-(o) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35 (10) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund.
+[7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002]
 
-[7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001]
+(2) Subsection (1) (b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O or 14P.
 
-(2) Subsection (1) (b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14G, 14H, 14I, 14K, 14M or 14N.
-
-[9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99]
-
-(3) For the purposes of subsection (1) (n) (i) —
-
-(a) the use of a car for part of a day shall be counted as one day;
-
-(b) where the periods of use by a person of 2 or more cars overlap, the periods which overlap shall be counted as only one period in determining the aggregate of his periods of use of private hire cars;
-
-(c) the period or periods of use of any private hire car —
-
-(i) by an employer for the purposes of his trade, business, profession or vocation shall, in addition to the periods of use of that car, include the periods of use of any private hire car by any of his employees for those purposes;
-
-(ii) by an employee for the purposes of the trade, business, profession or vocation of his employer shall, in addition to the periods of use of that car, include the periods of use of any private hire car by his employer and any other employee of his employer for those purposes.
-
-[15/83]
+[9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99; 21/2003]

@@ -1,4 +1,4 @@
-# 93A. Relief in respect of error or mistake
+# 93A. Relief in respect of error or mistake … … … … … 314
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) If any person who has paid tax for any year of assessment alleges that an assessment is excessive by reason of some error or mistake in the return or statement made by him for the purposes of the assessment, he may, at any time not later than 6 years after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.

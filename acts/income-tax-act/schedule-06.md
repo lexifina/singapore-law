@@ -46,9 +46,11 @@ Number of years of working life Item of asset
 
 19. Office equipment:
 
-furniture and fixtures (including furniture and fixtures 10 which are not a structural component of a building) data handling equipment (including typewriters, 8 calculators, adding and accounting machines, copiers and duplicating equipment)
+(a) furniture and fixtures (including furniture and fixtures 10 which are not a structural component of a building)
 
-telecommunication equipment 10
+(b) data handling equipment (including typewriters, 8 calculators, adding and accounting machines, copiers and duplicating equipment)
+
+(c) telecommunication equipment 10
 
 20. Plant for recreation and amusement purposes (including 10 assets used in the provision of entertainment services on payment of a fee or admission charge, as in the operation of bowling alleys, billiard and pool establishments, theatres, cinemas, concert halls, amusement parks and miniature golf courses)
 
@@ -56,10 +58,20 @@ telecommunication equipment 10
 
 22. Transport equipment:
 
-buses 6 business service passenger vehicles 6 taxis 5 trucks, lorries, trailers and vans 6 motor cycles and bicycles 8
+(a) buses 6
+
+(b) business service passenger vehicles 6
+
+(c) taxis 5
+
+(d) trucks, lorries, trailers and vans 6
+
+(e) motor cycles and bicycles 8
 
 23. Vessels, barges, tugs and similar water transportation 16 equipment
 
-24. Wholesale and retail trade service assets (including assets 8 used in such activities as the operation of restaurants and cafes)
+24. Wholesale and retail trade service assets (including assets 8.
+
+used in such activities as the operation of restaurants and cafes)
 
 [28/80]

@@ -1,4 +1,4 @@
-# 10B. Profits of unit trusts
+# 10B. Profits of unit trusts … … … … … … … … 32
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Notwithstanding any other provisions of this Act, the Minister may by regulations —
@@ -9,7 +9,7 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 (c) provide for the deduction of expenses allowable under this Act to be granted in such manner as may be prescribed;
 
-(d) provide for the deduction of tax by the trustees of the unit trust on any distribution received by a unit holder which is deemed to be income under section 10 (13).
+(d) provide for the deduction of tax by the trustees of the unit trust on any distribution received by a unit holder which is deemed to be income under section 10 (19).
 
 [23/90]
 

@@ -1,4 +1,4 @@
-# 87. Penalty for non-payment of tax and enforcement of payment
+# 87. Penalty for non-payment of tax and enforcement of payment 307
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) Subject to subsection (2), if any tax is not paid within the periods prescribed in section 85 —

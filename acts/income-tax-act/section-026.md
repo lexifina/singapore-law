@@ -1,4 +1,4 @@
-# 26. Profits of insurance companies
+# 26. Profits of insurance companies … … … … … … 170
 Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (1) This section has effect notwithstanding anything to the contrary in this Act except that nothing in this section shall affect the chargeability to tax of any income of an insurance company under section 10.
@@ -11,7 +11,7 @@ Separate accounts to be maintained for business of insuring and reinsuring offsh
 
 [7/79; 9/80; 20/91]
 
-Insurance companies, other than life insurance
+Insurance companies other than life insurance companies
 
 (3) In the case of an insurance company whether mutual or proprietary (other than a life insurance company) where the gains or profits accrue in part outside Singapore, the gains or profits on which tax is payable shall be ascertained by —
 
@@ -23,15 +23,17 @@ Insurance companies, other than life insurance
 
 (d) from the net amount so arrived at, deducting the actual losses (less the amount recovered in respect thereof under reinsurance), the agency expenses in Singapore and a fair proportion of the expenses of the head office of the company.
 
-(4) For the purposes of subsection (3), in ascertaining the gains or profits derived by an insurance company from carrying on the business (other than the business of life assurance) of insuring and reinsuring offshore risks for the purposes of any concessionary rate of tax prescribed by regulations made under section 43C —
+(4) For the purposes of subsection (3), in ascertaining the gains or profits derived by an insurance company from carrying on the business (other than the business of life assurance) of insuring and reinsuring offshore risks or any other risks for the purposes of any concessionary rate of tax or exemption from tax prescribed by regulations made under section 43C —
 
 (a) no income other than income from premiums or from such dividends, interest and gains or profits realised from the sale of investments as may be specified in those regulations shall be included;
 
-(b) income in respect of dividends, interest and gains or profits realised from the sale of investments shall be apportioned in such manner as may be prescribed by those regulations; and
+(b) income in respect of dividends, interest and gains or profits realised from the sale of investments shall be apportioned in such manner as may be prescribed by those regulations;
+
+and
 
 (c) any item of expenditure not directly attributable to that business shall be apportioned in such manner as may be prescribed by those regulations.
 
-[7/79; 9/80; 20/91; 26/93]
+[7/79; 9/80; 20/91; 26/93; 21/2003]
 
 Export credit insurance companies
 
@@ -77,23 +79,15 @@ Life insurance companies
 
 (ii) the balance of such allowances or losses shall be added to, and be deemed to form part of, the corresponding allowances or losses, if any, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be;
 
-(c) section 37B shall apply, with the necessary modifications, in relation to the deduction of allowances under section 19, 19A, 20, 21, 22 or 23 or losses under section 37 in respect of such part of the income of the company as is subject to tax at the rate of tax under section 43 (1) (a) and of such part of the income of the company as is apportioned to the shareholders of the company in accordance with regulations made under section 43C; and for the purpose of such application any reference in section 37B to —
-
-(i) concessionary income shall be read as a reference to such part of the income of the company as is apportioned to the shareholders of the company in accordance with regulations made under section 43C;
-
-and
-
-(ii) normal income shall be read as a reference to such part of the income of the company as is subject to tax at the rate of tax under section 43 (1) (a);
+(c) section 37B shall apply, with the necessary modifications, in relation to the deduction of allowances under section 19, 19A, 20, 21, 22 or 23 or the losses under section 37 in respect of such part of the income of the company as is subject to tax at the rate of tax under section 43 (1) (a) and of such part of the income of the company as is apportioned to the shareholders of the company in accordance with regulations made under section 43C; and for the purpose of such application any reference in section 37B to income of a company subject to tax at a lower rate of tax or income of the company subject to tax at a lower rate of tax, as the case may be, shall be read as a reference to such part of the income of the company as is apportioned to the shareholders of the company in accordance with regulations made under section 43C; and
 
 (d) where any income of the life insurance company which had been charged to tax at the rate of tax under section 43 (9) is subsequently paid to the shareholders of the company, the Comptroller may make such adjustment to the tax liability of the company as he thinks fit.
 
-[28/92; 26/93; 24/2001]
+[28/92; 26/93; 24/2001; 37/2002]
 
 Composite insurance companies
 
-(9) In the case of an insurance company carrying on life insurance business in conjunction with any other insurance business, the assessment of the gains or profits on which tax is payable shall be made in one sum, but the gains or profits arising from the life insurance business shall be computed in accordance with subsections (6), (7) and
-
-(8) as if such life insurance business were a separate business from the other insurance business carried on by the company.
+(9) In the case of an insurance company carrying on life insurance business in conjunction with any other insurance business, the assessment of the gains or profits on which tax is payable shall be made in one sum, but the gains or profits arising from the life insurance business shall be computed in accordance with subsections (6), (7) and (8) as if such life insurance business were a separate business from the other insurance business carried on by the company.
 
 [28/92]
 
@@ -113,19 +107,19 @@ Definitions
 
 (i) the gross premiums (including consideration paid or payable for the purchase of annuities) from Singapore life policies of any life insurance fund established under the Insurance Act (Cap. 142) (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending balances in the actuarial reserves of any life insurance fund established under the Insurance Act relating to Singapore life policies of the period for which the gains or profits are ascertained, both balances being determined at the lower figure derived from the minimum basis under the Insurance Act or such other basis approved by the Monetary Authority of Singapore thereunder; and
+(ii) the net decrease between the beginning and ending balances in the actuarial reserves of any life insurance fund established under the Insurance Act relating to Singapore life policies of the period for which the gains or profits are ascertained, both balances being determined at the lower figure derived from the minimum basis under the Insurance Act (Cap. 142) or such other basis as approved by the Monetary Authority of Singapore thereunder; and
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund established under the Insurance Act relating to Singapore life policies; and
 
 (b) by deducting from that aggregate —
 
-(i) agency expenses (including agents’ commis- sions) and management expenses incurred in the production of the income referred to in paragraph (a); and, in respect of a branch in Singapore, a fair proportion of the expenses of the head office of the company;
+(i) agency expenses (including agents’ commissions) and management expenses incurred in the production of the income referred to in paragraph (a); and, in respect of a branch in Singapore, a fair proportion of the expenses of the head office of the company;
 
 (ii) policy moneys paid or payable in respect of Singapore life policies (less any amount recovered or recoverable in respect thereof under reinsurance);
 
 (iii) moneys paid or payable on the surrender of Singapore life policies; and
 
-(iv) the net increase between the beginning and ending balances in the actuarial reserves of any life insurance fund established under the Insurance Act (Cap. 142) relating to Singapore life policies of the period for which the gains or profits are ascertained, both balances being determined at the lower figure derived from the minimum basis under the Insurance Act or such basis as approved by the Monetary Authority of Singapore thereunder;
+(iv) the net increase between the beginning and ending balances in the actuarial reserves of any life insurance fund established under the Insurance Act relating to Singapore life policies of the period for which the gains or profits are ascertained, both balances being determined at the lower figure derived from the minimum basis under the Insurance Act or such other basis as approved by the Monetary Authority of Singapore thereunder;
 
 ‘‘life policy’’ has the same meaning as in the Insurance Act;
 
@@ -137,7 +131,9 @@ Definitions
 
 (c) in relation to treaty life reinsurance, a reinsurance policy where —
 
-(i) the ceding party is a company incorporated outside Singapore and not resident in Singapore, or is not a permanent establishment in Singapore; or
+(i) the ceding party is a company incorporated outside Singapore and not resident in Singapore, or is not a permanent establishment in Singapore;
+
+or
 
 (ii) the liability in respect of any life policy referred to in paragraph (a) is ceded by a party which is a company incorporated and resident in Singapore or a permanent establishment in Singapore;
 
@@ -153,13 +149,13 @@ Definitions
 
 (b) by deducting from that aggregate —
 
-(i) agency expenses (including agents’ commis- sions) and management expenses incurred in the production of the income referred to in paragraph (a); and, in respect of a branch in Singapore, a fair proportion of the expenses of the head office of the company;
+(i) agency expenses (including agents’ commissions) and management expenses incurred in the production of the income referred to in paragraph (a); and, in respect of a branch in Singapore, a fair proportion of the expenses of the head office of the company;
 
 (ii) policy moneys paid or payable in respect of offshore life policies (less any amount recovered or recoverable in respect thereof under reinsurance);
 
 (iii) moneys paid or payable on the surrender of offshore life policies; and
 
-(iv) the net increase between the beginning and ending balances in the actuarial reserves of any life insurance fund established under the Insurance Act relating to offshore life policies of the period for which the gains or profits are ascertained, both balances being determined at the lower figure derived from the minimum basis under the Insurance Act (Cap. 142) or such other basis as approved by the Monetary Authority of Singapore thereunder;
+(iv) the net increase between the beginning and ending balances in the actuarial reserves of any life insurance fund established under the Insurance Act (Cap. 142) relating to offshore life policies of the period for which the gains or profits are ascertained, both balances being determined at the lower figure derived from the minimum basis under the Insurance Act or such other basis as approved by the Monetary Authority of Singapore thereunder;
 
 ‘‘offshore life policy’’ means a policy issued in respect of offshore life insurance business;
 
@@ -171,6 +167,6 @@ Definitions
 
 ‘‘policy moneys’’ has the same meaning as in the Insurance Act;
 
-‘‘Singapore life policy’’ means a life policy as described in the definition of ‘‘Singapore policy’’ in the Insurance Act.
+‘‘Singapore life policy’’ means a life policy as described in the definition of ‘‘Singapore policy’’ in the Insurance Act (Cap. 142).
 
 [28/92]

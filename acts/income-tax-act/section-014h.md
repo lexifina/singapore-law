@@ -1,5 +1,5 @@
-# 14H. Expenditure on building modifications for benefit of disabled employees
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 14H. Expenditure on building modifications for benefit of disabled employees … … … … … … … … … … 117
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (1) Subject to subsections (2) and (3), where any person being the owner or lessee of any premises and carrying on a trade, business or profession at those premises has incurred approved expenditure on any addition or alteration to those premises for the purpose of facilitating the mobility or work of any disabled employee, there shall, in ascertaining the income of that person for the basis period during which the expenditure was incurred, be allowed as a deduction an amount equal to that expenditure.
 

@@ -1,4 +1,4 @@
-# 27. Profits of non-resident shipowner or charterer
+# 27. Profits of non-resident shipowner or charterer … … … 178
 Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (1) Where a non-resident person carries on the business of shipowner or charterer, the income on which tax is payable shall be ascertained as provided in this section.
@@ -31,10 +31,10 @@ and
 
 (4) Where, for any period, a non-resident person does not, for any reason, produce a certificate complying with subsection (3), the profits accruing in Singapore shall be deemed to be a sum equal to 5% of the full sum receivable on account of the carriage of passengers, mails, livestock and goods shipped in Singapore.
 
-(4A) Where a non-resident person has been assessed under subsection (4) because a certificate had not been issued at the time of assessment, he shall be entitled, on the subsequent production of such a certificate to claim at any time within 2 years after the end of such year of assessment, or such further time as the Comptroller may consider reasonable in the circumstances, that his liability to tax for the year be determined on the basis provided by subsection (2).
+(5) Where a non-resident person has been assessed under subsection (4) because a certificate had not been issued at the time of assessment, he shall be entitled, on the subsequent production of such a certificate to claim at any time within 2 years after the end of such year of assessment, or such further time as the Comptroller may consider reasonable in the circumstances, that his liability to tax for the year be determined on the basis provided by subsection (2).
 
-(5) Where the Comptroller decides that the call of a ship belonging to a particular non-resident shipowner or charterer at a port in Singapore is casual and that further calls by that ship or others in the same ownership are improbable, this section shall not apply to the profits of that ship and no tax shall be chargeable on them.
+(6) Where the Comptroller decides that the call of a ship belonging to a particular non-resident shipowner or charterer at a port in Singapore is casual and that further calls by that ship or others in the same ownership are improbable, this section shall not apply to the profits of that ship and no tax shall be chargeable on them.
 
-(6) Notwithstanding anything in subsections (1) to (5), if in computing the profits derived by a resident in Singapore from carrying on the business of a shipowner or charterer, the tax authority of a foreign country determines such profits to be an amount which exceeds 5% of the full sum receivable on account of the carriage of passengers, mails, livestock and goods shipped in that foreign country, the Minister may if he thinks fit direct that, in computing the profits derived in Singapore by a non-resident shipowner or charterer who is resident in that foreign country, the Comptroller shall determine the amount of such profits in such manner as may be substantially similar to that adopted by the tax authority of that foreign country.
+(7) Notwithstanding anything in subsections (1) to (6), if in computing the profits derived by a resident in Singapore from carrying on the business of a shipowner or charterer, the tax authority of a foreign country determines such profits to be an amount which exceeds 5% of the full sum receivable on account of the carriage of passengers, mails, livestock and goods shipped in that foreign country, the Minister may if he thinks fit direct that, in computing the profits derived in Singapore by a non-resident shipowner or charterer who is resident in that foreign country, the Comptroller shall determine the amount of such profits in such manner as may be substantially similar to that adopted by the tax authority of that foreign country.
 
 [37/75]

@@ -1,4 +1,4 @@
-# 6. Official secrecy
+# 6. Official secrecy … … … … … … … … … 17
 Part: PART II ADMINISTRATION
 
 (1) Every person having any official duty or being employed in the administration of this Act shall regard and deal with all documents, information, returns, assessment lists and copies of such lists relating to the income or items of the income of any person, as secret and confidential, and shall make and subscribe a declaration in the form prescribed to that effect before the Comptroller or a Magistrate.
@@ -33,7 +33,7 @@ Part: PART II ADMINISTRATION
 
 [1/88; 31/93]
 
-(10) Notwithstanding anything in this section, the Comptroller may furnish to the General Manager of the Central Provident Fund Board any information which may be required by the General Manager of the said Board in the performance of his duties, or may permit such access to any records or documents as may be necessary for that purpose.
+(10) Notwithstanding anything in this section, the Comptroller may furnish to the Chief Executive Officer of the Central Provident Fund Board any information which may be required by him in the performance of his duties, or may permit such access to any records or documents as may be necessary for that purpose.
 
 (11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
 

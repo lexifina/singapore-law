@@ -1,13 +1,21 @@
-# 92. Remission of tax
+# 92. Remission of tax … … … … … … … … 312
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) The Comptroller may remit, wholly or in part, the tax payable by any person on the ground of poverty.
 
 (2) The Minister may, in his discretion, remit, wholly or in part, the tax payable by any person if he is satisfied that it is just and equitable to do so.
 
-(3) Subject to rules made under subsection (4), there shall be remitted the tax payable for the year of assessment 1999 by any company a sum equal to 10% of the specified tax payable by the company for that year of assessment where the Comptroller is satisfied that the remission of tax would be beneficial to the company.
+(3) Subject to rules made under subsection (4), there shall be remitted the tax payable by any company —
 
-[32/99]
+(a) for the year of assessment 2001, a sum equal to —
+
+(i) 50% on every dollar of the first $25,500 of the specified tax payable by the company for that year of assessment; and
+
+(ii) 5% on every dollar exceeding $25,500 of the specified tax payable by the company for that year of assessment; and
+
+(b) for the year of assessment 2002, a sum equal to 5% of the specified tax payable by the company for that year of assessment, where the Comptroller is satisfied that the remission of tax would be beneficial to the company.
+
+[37/2002]
 
 (4) The Minister may make rules to provide for —
 
@@ -21,10 +29,10 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 [32/99]
 
-(5) For the purposes of this section, ‘‘specified tax payable’’, in relation to a company for the year of assessment 1999, means the amount of tax payable by the company ascertained by deducting from the tax payable of the company for that year of assessment computed in accordance with this Act, and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) if the company is given tax relief under that Act —
+(5) In this section, ‘‘specified tax payable’’, in relation to a company for the year of assessment 2001 or 2002, as the case may be, means the amount of tax payable by the company ascertained by deducting from the tax payable of the company for the year of assessment 2001 or 2002, as the case may be, computed in accordance with this Act, and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) if the company is given tax relief under that Act —
 
 (a) any tax payable on any dividend derived from Singapore from which tax has been deducted under section 44; and
 
 (b) any tax payable on any income which is subject to tax at the rate of 15% under section 43 (3).
 
-[32/99]
+[32/99; 37/2002]

@@ -1,16 +1,52 @@
-# 14A. Deductions allowed in relation to certain expenditure on abortive mining operations
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 14A. Deduction for patenting costs … … … … … … 109
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
-(1) For the purpose of ascertaining the income for any period of any person who has incurred expenditure on lawfully searching for, or for discovering and testing, or winning access to any mineral deposits in Singapore, there shall, if the person has within that period permanently abandoned such activities without having carried on any trade which consists of or includes the working of deposits in respect of which the expenditure was incurred, be deducted the amount of the expenditure wholly and exclusively incurred by that person in connection with such activities as if the expenditure were incurred at the time when such activities were so abandoned.
+(1) Subject to this section, where a person carrying on a trade or business has incurred during the period from 1st June 2003 to 31st May 2013 patenting costs for the purposes of that trade or business, there shall be allowed to him a deduction of the amount of such costs.
 
-(2) No deduction shall be made under subsection (1) —
+[21/2003]
 
-(a) in respect of the value at the date of the permanent abandonment of such activities of any machinery or plant used in such activities or, if the machinery or plant is subsequently sold or transferred, any sum of money or other consideration received by that person in respect of it;
+(2) The claim for deduction under subsection (1) shall be allowed to a person only if —
 
-(b) to the extent that any sum of money or other consideration is received by such person from the sale of any rights or other benefits derived from such activities, or from the use of any such machinery or plant by any other person;
+(a) there is an undertaking by the person that he would be the proprietor of the patent when the patent is granted; and
 
-(c) in respect of any sum which is, apart from this section, allowed to be deducted in computing for the purposes of tax the gains or profits of any such person;
+(b) the claim is made by the person in such manner and subject to such conditions as the Comptroller may require.
 
-(d) in respect of any expenditure met, directly or indirectly, by the Government or by any government, public or local authority, whether within Singapore or elsewhere, or by any person other than the person claiming relief.
+[21/2003]
 
-(3) In this section, ‘‘mineral deposits’’ means minerals and mineral substances other than mineral oils, and includes precious metals, precious stones or non-precious minerals, but does not include common clay (other than kaolin or bentonite), sand, sandstone and any sodium compound or any other similar common mineral substance obtainable without underground mining operations and not containing any precious metal or precious stones in economically workable quantities.
+(3) For the purposes of this section, any patenting costs incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day he carries on that trade or business.
+
+[21/2003]
+
+(4) Where a person to whom a deduction for patenting costs has been allowed under this section sells, transfers or assigns in the basis period for any year of assessment all or any part of the rights for which such patenting costs were incurred, the person shall be deemed to have derived an amount of income for that year of assessment equal to the price which the rights were sold, transferred or assigned or the deduction which has been allowed under this section, whichever is the less.
+
+[21/2003]
+
+(5) For the purposes of subsection (4), where there is more than one sale, transfer or assignment of any part of the rights for which such patenting costs were incurred, the total amount deemed as income shall not exceed the total amount of deduction previously allowed under this section.
+
+[21/2003]
+
+(6) In this section —
+
+‘‘patenting costs’’ means the fees paid to —
+
+(a) the Registry of Patents in Singapore or elsewhere for the —
+
+(i) filing of a patent;
+
+(ii) search and examination report on the application for a patent; or
+
+(iii) grant of a patent; and
+
+(b) any registered patent agent for —
+
+(i) applying for any patent in Singapore or elsewhere;
+
+(ii) preparing specifications or other documents for the purposes of the Patents Act (Cap. 221) or the patents law of any other country; or
+
+(iii) giving advice on the validity or infringement of the patent;
+
+‘‘registered patent agent’’ has the same meaning as in the Patents Act (Cap. 221).
+
+[14P
+
+[21/2003]

@@ -1,5 +1,6 @@
-# 12. Sources of income
+# 12. Sources of income … … … … … … … … 59
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 (1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
 

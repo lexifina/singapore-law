@@ -1,7 +1,12 @@
-# 43G. Concessionary rate of tax for Finance and Treasury Centre
+# 43G. Concessionary rate of tax for Finance and Treasury Centre … 241
 Part: PART XI RATES OF TAX
+Heading: Section Pages
 
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate be levied and paid for each year of assessment upon such income as he may specify of a company derived from the operation of its approved Finance and Treasury Centre in respect of such qualifying activities carried out on its own account as may be prescribed or such prescribed qualifying services as may be provided to its offices and associated companies where such offices and associated companies are outside Singapore; and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (2).
+(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate be levied and paid for each year of assessment upon such income as he may specify of a company derived from —
+
+(a) the operation of its approved Finance and Treasury Centre in respect of such qualifying activities carried out on its own account as may be prescribed; or
+
+(b) such prescribed qualifying services as may be provided by its approved Finance and Treasury Centre to its offices and associated companies where such offices and associated companies are outside Singapore, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (3).
 
 [20/91]
 
@@ -19,16 +24,14 @@ Part: PART XI RATES OF TAX
 
 (a) the operations of which are or can be controlled, directly or indirectly, by the company with the approved Centre;
 
-(b) which controls or can control, directly or indirectly, the operations of the company with the approved Centre;
+(b) which controls or can control, directly or indirectly, the operations of the company with the approved Centre; or
 
-or
-
-(c) the operations of which are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of the company with the approved Centre:
-
-Provided that a company shall be deemed to be an associated company in relation to a company with an approved Finance and Treasury Centre if —
-
-(i) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the company with the approved Centre;
-
-(ii) at least 25% of the issued capital of the company with the approved Centre is beneficially owned, directly or indirectly, by the first-mentioned company;
+(c) the operations of which are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of the company with the approved Centre;
 
 ‘‘Finance and Treasury Centre’’ means a division or department of a company which provides treasury, investment or financial services in Singapore for its offices outside Singapore or its associated companies outside Singapore.
+
+(4) For the purposes of subsection (3), a company shall be deemed to be an associated company in relation to a company with an approved Finance and Treasury Centre if —
+
+(a) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the company with the approved Centre; or
+
+(b) at least 25% of the issued capital of the company with the approved Centre is beneficially owned, directly or indirectly, by the first-mentioned company.

@@ -1,5 +1,6 @@
-# 21. Replacement of machinery or plant
+# 21. Replacement of machinery or plant … … … … … 165
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
 (1) Where machinery or plant in the case of which any of the events mentioned in section 20 (1) has occurred is replaced by the owner thereof and a balancing charge falls to be made on him by reason of that event or, but for this section, would have fallen to be made on him by reason thereof, then, if by notice in writing to the Comptroller he so elects, this section shall have effect.
 

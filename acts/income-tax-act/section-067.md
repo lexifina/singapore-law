@@ -1,4 +1,4 @@
-# 67. Keeping of books of account and giving of receipts
+# 67. Keeping of books of account and giving of receipts … … 287
 Part: PART XVI RETURNS
 
 (1) Subject to subsection (3), every person carrying on or exercising any trade, business, profession or vocation —

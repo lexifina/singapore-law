@@ -1,5 +1,6 @@
-# 36. Partnership
+# 36. Partnership … … … … … … … … … 188
 Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
+Heading: Section Pages
 
 (1) Where a trade, business, profession or vocation is carried on by 2 or more persons jointly —
 

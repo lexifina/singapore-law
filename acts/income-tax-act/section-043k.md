@@ -1,5 +1,6 @@
-# 43K. Concessionary rate of tax for members of commodity futures exchange
+# 43K. Concessionary rate of tax for members of commodity futures exchange … … … … … … … … … … 247
 Part: PART XI RATES OF TAX
+Heading: Section Pages
 
 (1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a member of a prescribed Commodity Futures Exchange derived from transactions in specified commodity futures on any specified exchange or in any specified market with —
 
@@ -9,7 +10,7 @@ Part: PART XI RATES OF TAX
 
 (c) a person who is neither a resident of nor a permanent establishment in Singapore; or
 
-(d) a branch office outside Singapore of a company resident in Singapore, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (2).
+(d) a branch office outside Singapore of a company resident in Singapore, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (3).
 
 [28/92]
 

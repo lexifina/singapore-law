@@ -1,15 +1,13 @@
-# 14E. Further deduction for expenditure on research and development project
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 14E. Further deduction for expenditure on research and development project 115
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (1) Subject to this section, where the Comptroller is satisfied that —
 
-(a) a person carrying on a manufacturing trade or business has incurred expenditure in undertaking directly by himself, or in paying a research and development organisation to undertake on his behalf, an approved research and development project in Singapore which is related to that trade or business;
+(a) a person carrying on a manufacturing trade or business, or a trade or business for the provision of any services has incurred expenditure in undertaking directly by himself, or in paying a research and development organisation to undertake on his behalf, an approved research and development project in Singapore which is related to that trade or business; or
 
-(b) a research and development organisation has incurred expenditure in undertaking an approved research and development project in Singapore and no deduction under this section has been allowed to another person in respect of any expenditure for that project or for another project of which that project forms a part; or
+(b) a research and development organisation has incurred expenditure in undertaking an approved research and development project in Singapore and no deduction under this section has been allowed to another person in respect of any expenditure for that project or for another project of which that project forms a part, there shall be allowed to that person or research and development organisation a further deduction of the amount of such expenditure in addition to the deduction allowed under section 14 or 14D.
 
-(c) a person carrying on a trade or business for the provision of any specified services has incurred expenditure in undertaking directly by himself, or in paying a research and development organisation to undertake on his behalf, an approved research and development project in Singapore which is related to that trade or business, there shall be allowed to that person or research and development organisation a further deduction of the amount of such expenditure in addition to the deduction allowed under section 14 or 14D.
-
-[28/80; 3/89]
+[28/80; 3/89; 37/2002]
 
 (2) The Minister may —
 
@@ -21,10 +19,6 @@ Part: PART V DEDUCTIONS AGAINST INCOME
 
 (3) No deduction shall be allowed under this section in respect of any expenditure which is not allowed under section 14 or 14D.
 
-(4) In this section —
+(4) In this section, ‘‘approved’’ means approved by the Minister or such person as he may appoint.
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
-
-‘‘specified services’’ has the same meaning as in section 14D.
-
-[3/89]
+[3/89; 37/2002]

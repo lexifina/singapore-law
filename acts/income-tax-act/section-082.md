@@ -1,5 +1,6 @@
-# 82. Cases stated for High Court
+# 82. Cases stated for High Court … … … … … … 304
 Part: PART XVIII APPEALS
+Heading: Section Pages
 
 (1) The Board may at any time and in regard to any appeal, with or without proceeding to the determination of the appeal, state a case on a question of law for the opinion of the High Court.
 

@@ -1,5 +1,6 @@
-# 10I. Reduction of share capital
+# 10I. Reduction of share capital … … … … … … … 39
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 (1) This section shall, subject to sections 10J, 10K and 10M, apply where a company resident in Singapore reduces its share capital and the reduction of share capital involves a payment to any shareholder of the company.
 

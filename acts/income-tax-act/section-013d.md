@@ -1,4 +1,4 @@
-# 13D. Exemption of certain dividends of approved investment company
+# 13D. Exemption of certain dividends of approved investment company … … … … … … … … … … 78
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) Where an investment company has been approved under section 10A, the provisions of this section shall have effect.

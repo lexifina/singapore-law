@@ -1,5 +1,6 @@
-# 10L. Withdrawals from Supplementary Retirement Scheme
+# 10L. Withdrawals from Supplementary Retirement Scheme … 48
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 (1) Where the amount of withdrawals made by an SRS member from his SRS account in any year exceeds the amount he contributed to his SRS account in that year, the excess amount withdrawn from his SRS account shall, subject to subsections (3), (6), (7), (8) and (9), be deemed to be income of the SRS member chargeable to tax under section 10 (1) (g).
 
@@ -9,9 +10,13 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 [24/2001]
 
+(2A) The Minister may, for any good cause, remit, wholly or in part, any penalty payable by any SRS member under subsection (2).
+
+[37/2002]
+
 (3) Only 50% of the following withdrawals made by an SRS member from his SRS account shall be deemed to be income of the SRS member chargeable to tax under section 10 (1) (g):
 
-(a) withdrawal of all the funds standing in his SRS account at the same time if the SRS member is neither a citizen of Singapore nor a Singapore permanent resident and has maintained his SRS account for a period of not less than 10 years from the date of his first contribution to his SRS account;
+(a) withdrawal of all the funds standing in his SRS account at the same time if the SRS member is neither a citizen of Singapore nor a Singapore permanent resident on the date of the withdrawal and for a continuous period of at least 10 years before that date, and has maintained his SRS account for a period of not less than 10 years from the date of his first contribution to his SRS account;
 
 (b) any withdrawal on or after the SRS member has attained the prescribed retirement age prevailing at the time when the SRS member made his first contribution to his SRS account;
 
@@ -19,9 +24,9 @@ or
 
 (c) any withdrawal made on the ground that the SRS member is physically or mentally incapacitated from ever continuing in any employment, is found to be of unsound mind or is suffering from a terminal illness or disease.
 
-[24/2001]
+[24/2001; 37/2002]
 
-(4) Where any contribution made by an SRS member in any year to his SRS account exceeds his SRS contribution cap for that year (referred to in this section as ‘‘excess contribution’’) —
+(4) Where any contribution made by an SRS member in any year to his SRS account exceeds his SRS contribution cap for that year (referred to in this section as excess contribution) —
 
 (a) the aggregate of the excess contribution and, unless the Comptroller otherwise directs, an amount equal to 5% of the excess contribution, to be compounded yearly in accordance with regulations made under this section; or
 

@@ -1,5 +1,5 @@
-# 14B. Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 14B. Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office … … … … … … … … 111
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (1) Subject to this section, where the Comptroller is satisfied that the expenses specified in subsection (2) have been incurred by an approved company or firm resident in or having a permanent establishment in Singapore for the primary purpose of —
 
@@ -23,11 +23,11 @@ or
 
 [31/98]
 
-(2A) The Minister may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1).
+(3) The Minister may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1).
 
 [26/93; 31/98]
 
-(3) No deduction shall be allowed under this section in respect of —
+(4) No deduction shall be allowed under this section in respect of —
 
 (a) any expenses which are not allowed as deductions under section 14;
 
@@ -47,11 +47,21 @@ or
 
 [26/93; 31/98; 32/99]
 
-(3A) As soon as any amount of further deduction is allowed to any company under this section, section 14E, 14J or 14L, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
+(5) Subject to subsection (6), as soon as any amount of further deduction is allowed to any company under this section, section 14E, 14J or 14L, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
 
-[28/92]
+[28/92; 21/2003]
 
-(3B) Where for any year of assessment a further deduction account of a company is in credit, the company shall —
+(6) Where the company is a transferor company within the meaning of section 37C (19) and where any amount of further deduction allowed under this section, section 14E, 14J or 14L is transferred to a claimant company as part of the loss specified under section 37C (14) (b) —
+
+(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
+
+(b) for the purposes of this section, section 14E, 14J or 14L, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
+
+(c) in relation to the sum transferred under paragraph (a), subsections (7) to (10) shall apply to the claimant company.
+
+[21/2003]
+
+(7) Where for any year of assessment a further deduction account of a company is in credit, the company shall —
 
 (a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
 
@@ -59,27 +69,27 @@ or
 
 [28/92]
 
-(3C) Where a tax exempt account of a company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
+(8) Where a tax exempt account of a company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
 
 [28/92]
 
-(3D) Section 13B (4) to (7) shall apply, with the necessary modifications, in respect of any dividend paid out of the tax exempt account of the company.
+(9) Section 13B (4) to (7) shall apply, with the necessary modifications, in respect of any dividend paid out of the tax exempt account of the company.
 
 [28/92]
 
-(3E) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
+(10) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
 
 (a) any further deduction which has been allowed under this section, section 14E, 14J or 14L; or
 
-(b) any dividend, including a dividend paid by a holding company, which has been exempted from tax in the hands of any shareholder, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years after the expiration thereof —
+(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years after the expiration thereof —
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
 
-[28/92; 11/94; 31/98]
+[28/92; 11/94; 31/98; 37/2002]
 
-(4) In this section —
+(11) In this section —
 
 ‘‘approved’’ means approved by the Minister or such person as he may appoint;
 

@@ -1,5 +1,6 @@
-# 19. Initial and annual allowances for machinery or plant
+# 19. Initial and annual allowances for machinery or plant … … 143
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
 (1) Where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, there shall be made to him, on due claim for the year of assessment in the basis period for which the expenditure is incurred an allowance, to be known as an ‘‘initial allowance’’, equal to one-fifth of that expenditure or such other allowance as may be prescribed either generally or for any person or class of persons in respect of any machinery or plant or class of machinery or plant.
 
@@ -27,7 +28,9 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (c) notwithstanding paragraphs (a) and (b), the annual allowance in respect of any asset for any year of assessment may, at the election of a person to whom a certificate has been issued before 1st January 1981 (or after 1st January 1981 where application for the certificate has been approved before that date) under Part II, IV, VI, VII, XI or XII of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), be ascertained during his tax relief period as determined in accordance with that certificate at the rates applicable immediately before 4th December 1980 and shall be computed on the reducing value of the asset, which shall be the original cost of the asset reduced by any initial allowance and annual allowances granted under this section;
 
-(d) where an election under paragraph (c) has been made by a person with respect to any asset, the annual allowance in respect of the same asset to be made to that person for any year of assessment after his tax relief period shall be computed in accordance with the formula C — , D where C is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period;
+(d) where an election under paragraph (c) has been made by a person with respect to any asset, the annual allowance in respect of the same asset to be made to that person for any year of assessment after his tax relief period shall be computed in accordance with the formula C , —
+
+D where C is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period; and
 
 D is the number of years of working life of the asset as specified in the Sixth Schedule reduced by the number of whole years the asset has been put into use as at the end of the basis period in which his tax relief ends and if the result is less than 1, D shall be deemed to be 1;
 
@@ -67,7 +70,7 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 (c) a private hire car acquired by a person who carries on the business of hiring out cars and which is used by the person principally for hiring;
 
-(d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act; and
+(d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276); and
 
 (e) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes and acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act.
 

@@ -1,21 +1,17 @@
-# 39. Relief and deduction for resident individual and Hindu joint family
+# 39. Relief and deduction for resident individual and Hindu joint family … … … … … … … … … … 207
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
-(1) In the case of an individual or Hindu joint family resident in Singapore in the year of assessment, there shall be allowed —
+(1) In the case of an individual or Hindu joint family resident in Singapore in the year of assessment, there shall be allowed a deduction, in respect of earned income, which shall be —
 
-(a) a deduction of $3,000; and
+(a) in the case of an individual not falling within any other paragraph or a Hindu joint family, the sum of $1,000 or the amount of the earned income;
 
-(b) a deduction, in respect of earned income, which shall be —
+(b) without prejudice to any deduction allowable under paragraph (c) or (d), in the case of an individual who, in the year immediately preceding the year of assessment, was totally blind or suffering from any physical or mental disability which permanently and severely restricted his capacity for work, the sum of $2,000 or the amount of the earned income;
 
-(i) in the case of an individual not falling within any other sub-paragraph or a Hindu joint family, the sum of $1,000 or the amount of the earned income;
+(c) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 55 years of age but was not above 60 years of age, the sum of $3,000 or the amount of the earned income; and
 
-(ii) without prejudice to any deduction allowable under sub-paragraph (iii) or (iv), in the case of an individual who, in the year immediately preceding the year of assessment, was totally blind or suffering from any physical or mental disability which permanently and severely restricted his capacity for work, the sum of $2,000 or the amount of the earned income;
+(d) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 60 years of age, the sum of $4,000 or the amount of earned income, whichever is the less.
 
-(iii) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 55 years of age but was not above 60 years of age, the sum of $3,000 or the amount of the earned income; and
-
-(iv) in the case of an individual who, at any time in the year immediately preceding the year of assessment, was above 60 years of age, the sum of $4,000 or the amount of earned income, whichever is the less.
-
-[37/75; 1/82; 15/83; 26/93]
+[37/75; 1/82; 15/83; 26/93; 37/2002]
 
 (2) In the case of an individual resident in Singapore in the year of assessment who, in the year immediately preceding the year of assessment —
 
@@ -49,13 +45,13 @@ Deduction for handicapped spouse
 
 (C) such previous spouse whose marriage with him has been dissolved by any court of competent jurisdiction, a deduction of the amount of alimony paid to the previous spouse or $3,500, whichever is the less:
 
-Provided that the total deductions allowed to the individual under this paragraph and paragraph (a), (b) or (c) shall not exceed $3,500.
+Provided that the total deductions allowed to the individual under this paragraph and paragraph (a), (b) or (c) shall not exceed $3,500;
 
 Deduction for children
 
 (e) maintained an unmarried child —
 
-(i) being under the age of 16 years at any time during the year preceding the year of assessment;
+(i) being below the age of 16 years at any time during the year preceding the year of assessment;
 
 (ii) receiving full-time instruction at any university, college, school or other educational institution;
 
@@ -65,7 +61,7 @@ Deduction for children
 
 Provided that in the case of any unmarried child incapacitated from maintaining himself by reason of physical or mental infirmity whose income was not more than $2,000 in that year and in respect of whom —
 
-(A) a deduction is allowable under paragraph 1 or 3 of the Fifth Schedule, the deduction shall be increased to $3,500;
+(A) a deduction is allowable under paragraph 1 of the Fifth Schedule, the deduction shall be increased to $3,500;
 
 (B) no deduction is allowable under the Fifth Schedule, there shall be allowed a deduction of $3,500;
 
@@ -89,7 +85,7 @@ Provided that —
 
 (iv) no such deduction shall include any sum which has been claimed and allowed to a husband or wife under this paragraph;
 
-(v) no such deduction shall be allowed unless the insurance company has an office or a branch in Singapore but this sub-paragraph shall not apply to any insurance contract entered into by an individual resident in Singapore prior to the coming into operation of this sub-paragraph;
+(v) no such deduction shall be allowed unless the insurance company has an office or a branch in Singapore but this sub-paragraph shall not apply to any insurance contract entered into by an individual resident in Singapore before 10th August 1973;
 
 (vi) in the case of an individual who has made contributions to an approved pension or provident fund, no such deduction shall exceed the contributions which would have been recoverable under section 7 (2) of the Central Provident Fund Act (Cap. 36) had contributions been payable in respect of him to the Central Provident Fund;
 
@@ -117,19 +113,29 @@ Deduction for aged parents
 
 (i) who was his or his spouse’s parent, grandparent or great-grandparent;
 
-(ii) who was not less than 55 years of age or who was otherwise incapacitated from maintaining himself by reason of physical or mental infirmity;
-
-(iii) whose income was not more than $2,000 in that year;
+(ii) whose income was not more than $2,000 in that year;
 
 and
 
-(iv) in respect of whom no deduction has been claimed by another person under paragraph (a), (b), (c) or (d), there shall be allowed in respect of each such dependant —
+(iii) in respect of whom no deduction has been claimed by another person under paragraph (a), (b), (c) or (d), there shall be allowed, under sub-paragraph (A) or (B) but not both, in respect of —
 
-(A) a deduction of $5,000, where the dependant was living with him in the same household; or
+(A) each such dependant who was not less than 55 years of age —
 
-(B) a deduction of $3,500, where the dependant was not living with him in the same household but in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant:
+(AA) a deduction of $5,000, where the dependant was living with him in the same household;
 
-Provided that a deduction under this paragraph in respect of any one dependant shall be allowed to one person only and no person may obtain a deduction under this paragraph for more than 2 dependants, and where more than one individual claims a deduction in respect of the same dependant, the deduction shall be allowed to such claimant as the individuals may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final;
+or
+
+(AB) a deduction of $3,500, where the dependant was not living with him in the same household but in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant; or
+
+(B) each such dependant who was incapacitated from maintaining himself by reason of physical or mental infirmity —
+
+(BA) a deduction of $8,000, where the dependant was living with him in the same household;
+
+or
+
+(BB) a deduction of $6,500, where the dependant was not living with him in the same household but in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant:
+
+Provided that a deduction under this paragraph in respect of any one dependant shall be allowed to one individual only and no individual may obtain a deduction under this paragraph for more than 2 dependants, and where more than one individual claims a deduction in respect of the same dependant, a deduction shall be allowed to such claimant as the individuals may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final;
 
 Deduction for maintenance for handicapped siblings
 
@@ -147,17 +153,17 @@ Deduction for maintenance for handicapped siblings
 
 Deduction for course fees
 
-(k) had undertaken any course of study for the purpose of gaining an approved academic or professional qualification or such other approved course as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees (including examination and tuition fees) for the course, subject to a maximum deduction of $2,500; but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under section 14;
+(k) had attended any course of study, seminar or conference for the purpose of gaining an approved academic or professional qualification, or had attended such other approved course, seminar or conference as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500; but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under section 14;
 
 Deduction in respect of operationally ready national servicemen
 
 (l) was an operationally ready national serviceman who —
 
-(i) had performed operationally ready national service and held a valid certificate issued by the proper authority certifying that he is entitled to the deduction under this sub-paragraph, there shall be allowed a deduction of $2,000; or
+(i) had performed operationally ready national service and held a valid certificate issued by the proper authority certifying that he is entitled to the deduction under this sub-paragraph, there shall be allowed a deduction of $3,000; or
 
-(ii) had not performed operationally ready national service but held a valid certificate issued by the proper authority certifying that he is entitled to the deduction under this sub-paragraph, there shall be allowed a deduction of $1,000;
+(ii) had not performed operationally ready national service but held a valid certificate issued by the proper authority certifying that he is entitled to the deduction under this sub-paragraph, there shall be allowed a deduction of $1,500;
 
-(m) was the wife or widow of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (n) and had in the case of the wife elected for separate assessment under section 51 (6), there shall be allowed a deduction of $500 subject to the following provisions:
+(m) was the wife or widow of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (n) and had in the case of the wife elected for separate assessment under section 51 (6), there shall be allowed a deduction of $750 subject to the following provisions:
 
 (i) the marriage to such national serviceman had not been dissolved by divorce or annulment at the end of the basis period for that year of assessment;
 
@@ -171,9 +177,9 @@ Deduction in respect of operationally ready national servicemen
 
 (vi) where such national serviceman dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (l), no deduction under this paragraph shall be allowed to his widow for that year of assessment;
 
-(n) was a parent of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (l) or (m), there shall be allowed a deduction of $500 subject to the following provisions:
+(n) was a parent of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (l) or (m), there shall be allowed a deduction of $750 subject to the following provisions:
 
-(i) such national serviceman is a legitimate child, stepchild or child adopted under any written law relating to the adoption of children;
+(i) such national serviceman is a legitimate child, step-child or child adopted under any written law relating to the adoption of children;
 
 (ii) where more than 2 parents claim the deduction under this paragraph in respect of such national serviceman, the deduction in respect of such national serviceman shall be allowed to any 2 parents as such national serviceman may nominate;
 
@@ -193,9 +199,9 @@ Deduction for contributions under Supplementary Retirement Scheme
 
 Provided that where an SRS member derives income from a trade, business, profession or vocation or the exercise of an employment outside Singapore, the deduction shall not exceed the amount of income remitted to, transmitted or brought into Singapore from outside Singapore.
 
-[26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92;
+[26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92;
 
-28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001]
+26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003]
 
 (3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his parent’s or his grandparent’s retirement account, there shall be allowed a deduction of the amount of such payment or $6,000, whichever is the less.
 
@@ -217,7 +223,7 @@ Provided that where an SRS member derives income from a trade, business, profess
 
 [23/90]
 
-(7) Where in any year an individual is employed by 2 or more employers and the employers are related to each other within the meaning of section 10C (4), subsection (6) shall apply, with the necessary modifications, as if all the ordinary and additional wages from those related employers were paid by one employer.
+(7) Where in any year an individual is employed by 2 or more employers and the employers are related to each other within the meaning of section 10C (9), subsection (6) shall apply, with the necessary modifications, as if all the ordinary and additional wages from those related employers were paid by one employer.
 
 (8) Subsections (6) and (7) shall apply, with the necessary modifications, to contributions made by an individual to an approved pension or provident fund as if those contributions were contributions made to the Central Provident Fund; except that subsection (6) (a) and (b) shall only apply to an approved pension or provident fund designated by the Minister for this purpose.
 
@@ -237,9 +243,19 @@ Provided that where an SRS member derives income from a trade, business, profess
 
 [20/91]
 
-(12) In this section —
+(12) Where an individual has commenced a new trade, business, profession, vocation or employment within 2 years of assessment from the year of assessment relating to the year in which he completed any course of study or attended any seminar or conference on or after 1st January 2003 (other than those referred to in subsection (2) (k) or where a deduction in respect of which has been allowed under section 14) which is related to the new trade, business, profession, vocation or employment, there shall be allowed to him on due claim a deduction of the amount incurred by him on the fees for such course, seminar or conference (including examination, tuition and registration fees), subject to a maximum deduction of $3,500 and the following conditions:
 
-‘‘additional wages’’ has the same meaning as in the Central Provident Fund Act;
+(a) the individual is resident in Singapore in the year of assessment in which he makes the claim;
+
+(b) the claim is made within 2 years of assessment from the year of assessment relating to the year in which he completed the course or attended the seminar or conference; and
+
+(c) the claim is made in the year of assessment relating to the year in which he commences the new trade, business, profession, vocation or employment or in the year of assessment immediately following that year of assessment.
+
+[21/2003]
+
+(13) In this section —
+
+‘‘additional wages’’ has the same meaning as in the Central Provident Fund Act (Cap. 36);
 
 ‘‘approved’’ means approved by the Minister or such person as he may appoint;
 
@@ -247,7 +263,7 @@ Provided that where an SRS member derives income from a trade, business, profess
 
 ‘‘ordinary wages’’ has the same meaning as ‘‘ordinary wages for the month’’ in the Central Provident Fund Act (Cap. 36);
 
-‘‘overseas additional wages’’, ‘‘overseas ordinary wages’’, ‘‘overseas total wages’’ and ‘‘relevant employer’’ have the same meanings as in section 10C (7);
+‘‘overseas additional wages’’, ‘‘overseas ordinary wages’’, ‘‘overseas total wages’’ and ‘‘relevant employer’’ have the same meanings as in section 10C (12);
 
 ‘‘proper authority’’ means such person as the Minister may appoint;
 

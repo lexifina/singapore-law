@@ -1,4 +1,4 @@
-# 40C. Relief for non-resident SRS members
+# 40C. Relief for non-resident SRS members … … … … … 224
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 (1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who makes any withdrawal from his SRS account which is deemed to be income subject to tax under section 10L or derives such income and income from any other source in the year preceding that year of assessment which does not include —
@@ -33,7 +33,7 @@ or
 
 ‘‘statutory income attributable to the withdrawals from his SRS account’’ means the statutory income of a person derived from such source as ascertained under section 35 (1);
 
-‘‘total assessable income’’ means the remainder of the statutory income of a person after the deduction allowed under section 37 (2) (a) has been made;
+‘‘total assessable income’’ means the remainder of the statutory income of a person after the deduction allowed under section 37 (3) (a) has been made;
 
 ‘‘withdrawals from his SRS account’’ means all withdrawals from the SRS account of a person which are deemed to be income subject to tax under section 10L.
 

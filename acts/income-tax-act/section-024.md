@@ -1,5 +1,6 @@
-# 24. Special provisions as to certain sales
+# 24. Special provisions as to certain sales … … … … … 169
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
 (1) This section shall have effect in relation to any sale of any property where the buyer is a body of persons over whom the seller has control, or the seller is a body of persons over whom the buyer has control, or both the seller and buyer are bodies of persons and some other person has control over both of them, and the sale is not one to which section 33 applies.
 
@@ -13,13 +14,17 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (ii) in the case of machinery or plant, for a sum equal to the amount of the expenditure on the provision thereof still unallowed immediately before the sale, computed in accordance with section 20;
 
+(iii) in the case of an Indefeasible Right of Use, for a sum equal to the amount of capital expenditure remaining unallowed immediately before the sale, computed in accordance with section 19D;
+
 (b) notwithstanding anything in section 19, where the sale is a sale of machinery or plant, no initial allowance shall be made to the buyer;
 
-(c) notwithstanding anything in section 19A, where the sale is a sale of machinery or plant, the special allowances provided under that section shall continue to be available as if no sale had taken place; and
+(c) notwithstanding anything in section 19A, where the sale is a sale of machinery or plant, the special allowances provided under that section shall continue to be available as if no sale had taken place;
 
-(d) notwithstanding anything in the preceding provisions of this section or in sections 17 and 20, such balancing charge, if any, shall be made on the buyer on any event occurring after the date of the sale as would have fallen to be made on the seller if the seller had continued to own the property and had done all such things and been allowed all such allowances and deductions in connection therewith as were done by or allowed to the buyer.
+(d) notwithstanding anything in section 19D, where the sale is a sale of an Indefeasible Right of Use, the writing-down allowances provided under that section shall continue to be available as if no sale had taken place; and
 
-[13/84]
+(e) notwithstanding anything in the preceding provisions of this section or in sections 17, 19D and 20, such balancing charge, if any, shall be made on the buyer on any event occurring after the date of the sale as would have fallen to be made on the seller if the seller had continued to own the property and had done all such things and been allowed all such allowances and deductions in connection therewith as were done by or allowed to the buyer.
+
+[13/84; 21/2003]
 
 (4) No election may be made under subsection (3) unless before the sale in the case of the seller and after the sale in the case of the buyer the property is used in the production of income chargeable under the provisions of this Act and unless the machinery or plant was not leased by the seller to the buyer before the sale.
 

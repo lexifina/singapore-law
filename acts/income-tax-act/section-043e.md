@@ -1,7 +1,12 @@
-# 43E. Concessionary rate of tax for headquarters company
+# 43E. Concessionary rate of tax for headquarters company … … 239
 Part: PART XI RATES OF TAX
+Heading: Section Pages
 
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved headquarters company derived by it from the provision of such qualifying services as may be prescribed to its offices, associated companies and other persons where such offices, associated companies and persons are outside Singapore, or derived by it from such qualifying treasury, investment or financial activities as may be prescribed; and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (2).
+(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved headquarters company derived by it from —
+
+(a) the provision of such qualifying services as may be prescribed to its offices, associated companies and other persons where such offices, associated companies and persons are outside Singapore; or
+
+(b) such qualifying treasury, investment or financial activities as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (3).
 
 [31/86; 20/91]
 
@@ -31,12 +36,12 @@ Part: PART XI RATES OF TAX
 
 (b) which controls or can control, directly or indirectly, the operations of that headquarters company; or
 
-(c) the operations of which are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of that headquarters company:
-
-Provided that a company shall be deemed to be an associated company in relation to an approved headquarters company if —
-
-(i) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the approved headquarters company; or
-
-(ii) at least 25% of the issued capital of the approved headquarters company is beneficially owned, directly or indirectly, by the first-mentioned company;
+(c) the operations of which are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of that headquarters company;
 
 ‘‘headquarters company’’ means a company carrying on the business in Singapore of providing management, technical or other supporting services to its offices outside Singapore or to its associated companies outside Singapore.
+
+(5) For the purposes of subsection (4), a company shall be deemed to be an associated company in relation to an approved headquarters company if —
+
+(a) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the approved headquarters company; or
+
+(b) at least 25% of the issued capital of the approved headquarters company is beneficially owned, directly or indirectly, by the first-mentioned company.

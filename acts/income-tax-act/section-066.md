@@ -1,4 +1,4 @@
-# 66. Returns to be deemed to be furnished by due authority
+# 66. Returns to be deemed to be furnished by due authority … 287
 Part: PART XVI RETURNS
 
 (1) A return, statement or form purporting to be furnished under this Act by or on behalf of any person shall for all purposes be deemed to have been furnished by that person or by his authority, as the case may be, unless the contrary is proved.

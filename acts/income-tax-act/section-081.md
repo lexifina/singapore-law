@@ -1,5 +1,6 @@
-# 81. Appeals to High Court
+# 81. Appeals to High Court … … … … … … … 304
 Part: PART XVIII APPEALS
+Heading: Section Pages
 
 (1) Except as provided in this section, the decision of the Board shall be final.
 
@@ -7,7 +8,7 @@ Part: PART XVIII APPEALS
 
 (3) The procedure governing such appeals to the High Court shall be the same as for appeals to the High Court from decisions of District Courts in civil matters.
 
-(4) The High Court shall hear and determine any such appeal and may confirm, reduce, increase or annul the assessment determined by the Board and make such further or other order on such appeal, whether as to costs or otherwise, as to the Court may think fit.
+(4) The High Court shall hear and determine any such appeal and may confirm, reduce, increase or annul the assessment determined by the Board and make such further or other order on such appeal, whether as to costs or otherwise, as the Court may think fit.
 
 (5) There shall be such further right of appeal from decisions of the High Court under this section as exists in the case of decisions made by that Court in the exercise of its original civil jurisdiction.
 

@@ -1,4 +1,4 @@
-# 58. Deceased persons
+# 58. Deceased persons … … … … … … … … 281
 Part: PART XV PERSONS CHARGEABLE Husband and wife
 
 (1) Where an individual dies, then as respects income arising before his death all rights and duties which would have attached to him, and any liability to be charged with or to pay tax to which he would have been subject under this Act if he had not died, shall pass to his executor, and the amount of any tax payable by the executor under this section shall be a debt due from and payable out of the estate of the deceased.

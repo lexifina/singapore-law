@@ -1,4 +1,4 @@
-# 76. Service of notices of assessment and revision of assessment
+# 76. Service of notices of assessment and revision of assessment … 297
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (1) The Comptroller shall cause to be served personally on or sent by post to each person assessed to tax —

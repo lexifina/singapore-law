@@ -1,5 +1,6 @@
-# 19C. Writing-down allowances for approved cost-sharing agreement for research and development activities
+# 19C. Writing-down allowances for approved cost-sharing agreement for research and development activities … … 157
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
 (1) Subject to this section, where a person carrying on a trade or business has incurred expenditure under any approved cost-sharing agreement in respect of research and development activities for the purposes of that trade or business (referred to in this section as the relevant trade or business), writing-down allowances in respect of that expenditure shall be made to him during a writing-down period of 5 years, or such shorter period as may be approved, beginning with the year of assessment relating to the basis period in which that expenditure is incurred, subject to such conditions as may be imposed by the Minister or such person as he may appoint.
 

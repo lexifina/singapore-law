@@ -1,4 +1,4 @@
-# 106. Powers to amend Schedules
+# 106. Powers to amend Schedules … … … … … … 322
 Part: PART XXI MISCELLANEOUS
 
 (1) Parliament may, by resolution, add to, vary or revoke the whole or any part of any Schedule.

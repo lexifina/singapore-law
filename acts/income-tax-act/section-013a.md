@@ -1,4 +1,4 @@
-# 13A. Exemption of shipping profits
+# 13A. Exemption of shipping profits … … … … … … 71
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) There shall be exempt from tax the income of a shipping enterprise derived or deemed to be derived from the operation of Singapore ships or foreign ships as hereinafter provided.
@@ -43,31 +43,29 @@ and
 
 (c) so much of the amount of any dividends debited to such account as are received by a shareholder in the shipping enterprise shall, if the Comptroller is satisfied with the entries in such account, be exempt from tax in the hands of such shareholder;
 
-(d) any dividends debited to such account shall be treated as having been distributed to the shareholders of the shipping enterprise or any particular class of such shareholders in the same proportions as such shareholders were entitled to payment of the dividends giving rise to the debit;
+(d) any dividends debited to such account shall be treated as having been distributed to the shareholders of the shipping enterprise or any particular class of such shareholders in accordance with the proportion of their shareholdings in the shipping enterprise;
 
 (e) section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section;
 
-(f) where an amount has been received by way of dividends from the shipping enterprise by a shareholder and such amount is exempt from tax under this section, if that shareholder is a holding company any dividends paid by such holding company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of such amount, shall be exempt from tax in the hands of those shareholders; and section 44 shall not apply to any such dividend or part thereof; and
+(f) where an amount has been received by way of dividends from a company by a shareholder and the amount is exempt from tax under this section, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders, and section 44 shall not apply to any such dividend or part thereof; and
 
-(g) notwithstanding paragraphs (c) and (f), no dividend paid on or after 17th February 1989 on any share of a preferential nature shall be exempt from tax in the hands of the shareholder.
+(g) notwithstanding paragraphs (c) and (f), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
 
-[3/89; 1/90]
+[3/89; 1/90; 37/2002; 21/2003]
 
 (7) A shipping enterprise shall deliver to the Comptroller a copy of the accounts referred to in subsections (2) and (6) made up to any date specified by him whenever called upon to do so by notice in writing.
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a shipping enterprise which has been exempt;
+(a) any income of a shipping enterprise which has been exempted from tax; or
 
-or
-
-(b) any dividend (including a dividend paid by a holding company to which subsection (6) (f) applies) exempted in the hands of any shareholder, ought not to have been so exempt, the Comptroller may at any time within 6 years from the date of the statement referred to in subsection (4) —
+(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may at any time within 6 years from the date of the statement referred to in subsection (4) —
 
 (i) make such assessment or additional assessment upon the shipping enterprise or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
 (ii) direct the shipping enterprise to debit its account kept in accordance with subsection (6) with such amount as the circumstances may require.
 
-[11/94]
+[11/94; 37/2002]
 
 (9) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (8) were a notice of assessment.
 
@@ -95,7 +93,7 @@ or
 
 (b) any capital allowances or the balance thereof which were not made against the income of the shipping enterprise exempt under this section for any year of assessment during which its income was exempt from tax shall not be available to be made under section 23 against its income (other than income exempt under this section) for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment;
 
-(c) any loss or the balance thereof incurred by the shipping enterprise in respect of the operation of a Singapore ship for any year of assessment which was not deducted against its income exempt under this section for any year of assessment during which its income was exempt from tax shall not be available as a deduction under section 37 (2) (a) against its income (other than income exempt under this section) for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment; and
+(c) any loss or the balance thereof incurred by the shipping enterprise in respect of the operation of a Singapore ship for any year of assessment which was not deducted against its income exempt under this section for any year of assessment during which its income was exempt from tax shall not be available as a deduction under section 37 (3) (a) against its income (other than income exempt under this section) for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment; and
 
 (d) any capital allowances in respect of Singapore ships of the shipping enterprise for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment shall be calculated in accordance with subsection (11) as if the Singapore ships were ships which had ceased to be Singapore ships.
 
@@ -104,8 +102,6 @@ or
 (16) In this section —
 
 ‘‘foreign ship’’ has the same meaning as in section 13F;
-
-‘‘holding company’’ means a company which holds not less than 50% beneficial interest in the issued shares of a shipping enterprise;
 
 ‘‘income of a shipping enterprise’’ means the income derived by a shipping enterprise from the carriage (other than within the limits of the port of Singapore) of passengers, mails, livestock or goods —
 
@@ -117,6 +113,6 @@ or
 
 ‘‘shipping enterprise’’ means any company owning or operating Singapore ships or foreign ships;
 
-‘‘Singapore ship’’ means a ship in respect of which a permanent certificate of registry has been issued under any written law in Singapore relating to merchant shipping.
+‘‘Singapore ship’’ means a ship in respect of which a certificate of registry, other than provisionally, has been issued under the Merchant Shipping Act (Cap. 179) and its registry is not closed or deemed to be closed or suspended.
 
-[26/73; 20/91; 31/98]
+[26/73; 20/91; 31/98; 37/2002; 21/2003]

@@ -116,7 +116,7 @@
 
 58. Act 28 of 1996 — Income Tax (Amendment No. 2) Act 1996 Date of First Reading : 12.7.96 (Bill No. 23/96 published on 13.7.96) Date of Second and Third Readings : 27.8.96 Date of commencement : 6.9.96 LEGISLATIVE HISTORY INCOME TAX ACT (CHAPTER 134)
 
-59. Act 1 of 1998 — Income Tax (Amendment) Act 1998 Date of First Reading : 19.11.97 (Bill No. 16/97 published on 20.11.98) Date of Second and Third Readings : 14.1.98 Date of commencement : 23.1.98
+59. Act 1 of 1998 — Income Tax (Amendment) Act 1998 Date of First Reading : 19.11.97 (Bill No. 16/97 published on 20.11.97) Date of Second and Third Readings : 14.1.98 Date of commencement : 23.1.98
 
 60. Act 31 of 1998 — Income Tax (Amendment No. 2) Act 1998 Date of First Reading : 29.6.98 (Bill No. 29/98 published on 30.6.98) Date of Second and Third Readings : 31.7.98 Dates of commencement : 14.8.98 and other dates (see section 1 of the Act)
 
@@ -134,4 +134,20 @@
 
 67. Act 17 of 2001 — Singapore Land Authority Act 2001 (Consequential amendments made by) Date of First Reading : 5.3.2001 (Bill No. 17/2001 published on 7.3.2001) Date of Second and Third Readings : 19.4.2001 Date of commencement : 1.6.2001
 
-68. Act 24 of 2001 — Income Tax (Amendment) Act 2001 Date of First Reading : 11.7.2001 (Bill No. 25/2001 published on 12.7.2001) Date of Second and Third Readings : 25.7.2001 Dates of commencement : 10.8.2001 and other dates (see section 1 of the Act)
+68. Act 24 of 2001 — Income Tax (Amendment) Act 2001 Date of First Reading : 11.7.2001 (Bill No. 25/2001 published on 12.7.2001) Date of Second and Third Readings : 25.7.2001 Dates of commencement : 10.8.2001 and other dates (see section 1 of the Act) LEGISLATIVE HISTORY INCOME TAX ACT (CHAPTER 134)
+
+69. Act 42 of 2001 — Securities and Futures Act 2001 (Consequential amendments made by) Date of First Reading : 25.9.2001 (Bill No. 33/2001 published on 26.9.2001) Date of Second and Third Readings : 5.10.2001 Date of commencement : 1.1.2002 Parts I, VIII, IX, X and XV (except sections 314 and 342 (1) and (3)), First Schedule, Second Schedule and items (4) (o) and (q) and (7) (c) of the Fourth Schedule.
+
+1.7.2002 Parts XIII and XIV, and items (1) (a), (3) (a), (4)
+
+(a) (i), (iii) to (ix), (b), (c), (f), (g), (h), (i), (l), (m), (t) and (u), (7) (b), (12) and
+
+(13) of the Fourth Schedule 1.10.2002 Parts II to VII, XI and XII, sections 314 and 342 (1) and (3), Third Schedule and items (1) (b), (2), (3) (b), (4) (a) (ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7) (a) and (d) and (8) to (11) of the Fourth Schedule.
+
+70. Act 25 of 2002 — Currency (Amendment) Act 2002 (Consequential amendments made by) Date of First Reading : 8.7.2002 (Bill No. 23/2002 published on 9.7.2002) Date of Second and Third Readings : 23.7.2002 Date of commencement : 1.10.2002
+
+71. Act 37 of 2002 — Income Tax (Amendment) Act 2002 Date of First Reading : 31.10.2002 (Bill No. 39/2002 published on 1.11.2002) Date of Second and Third Readings : 25.11.2002 Date of commencement : 10.12.2002 and other dates (see section 1 of the Act) LEGISLATIVE HISTORY INCOME TAX ACT (CHAPTER 134)
+
+72. Act 4 of 2003 — Customs (Amendment) Act 2003 (Consequential amendments made by) Date of First Reading : 10.3.2003 (Bill No. 6/2003 published on 11.3.2003) Date of Second and Third Readings : 21.3.2003 Date of commencement : 1.4.2003
+
+73. Act 21 of 2003 — Income Tax (Amendment) Act 2003 Date of First Reading : 16.10.2003 (Bill No. 28/2003 published on 17.10.2003) Date of Second and Third Readings : 11.11.2003 Date of commencement : 3.12.2003 and other dates (see section 1 of the Act)

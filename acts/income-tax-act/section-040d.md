@@ -1,4 +1,4 @@
-# 40D. Relief for non-resident deriving income from activity as public entertainer and employee, etc.
+# 40D. Relief for non-resident deriving income from activity as public entertainer and employee, etc. … … … … … 226
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 (1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who derives income from 2 or more of the following sources (referred to in this section as relevant income) in the year preceding that year of assessment —
@@ -59,7 +59,7 @@ and
 
 ‘‘statutory income attributable to the withdrawals from his SRS account’’ has the same meaning as in section 40C;
 
-‘‘total assessable income’’ means the remainder of the statutory income of a person after the deduction allowed under section 37 (2) (a) has been made;
+‘‘total assessable income’’ means the remainder of the statutory income of a person after the deduction allowed under section 37 (3) (a) has been made;
 
 ‘‘withdrawals from his SRS account’’ has the same meaning as in section 40C.
 

@@ -1,5 +1,5 @@
-# 14. Deductions allowed
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 14. Deductions allowed … … … … … … … … 104
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (1) For the purpose of ascertaining the income of any person for any period from any source chargeable with tax under this Act (referred to in this Part as the income), there shall be deducted all outgoings and expenses wholly and exclusively incurred during that period by that person in the production of the income, including —
 
@@ -25,11 +25,7 @@ Provided that in the case of any contribution to the Central Provident Fund or a
 
 (i) a deduction in respect of any such contribution by an employer in respect of an employee for any period —
 
-(A) commencing on or after 1st July 1993 and
-
-1
-
-before 1st July 1994 shall not exceed 18 ⁄2%;
+(A) commencing on or after 1st July 1993 and before 1st July 1994 shall not exceed 18 ⁄2%;
 
 (B) commencing on or after 1st July 1994 and before 1st January 1999 shall not exceed 20%;
 
@@ -41,19 +37,19 @@ before 1st July 1994 shall not exceed 18 ⁄2%;
 
 (ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
 
-(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a profes- sional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
 
-(f) any sum contributed by an employer in any month to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C (1C), subject to a maximum deduction of 1% of the ordinary wages of the employee for that month or $60, whichever is the less, for each employee:
+(f) any sum contributed by an employer in any calendar year to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C (4), subject to a maximum deduction of $1,500 for that year for each employee:
 
-Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
 
 (g) zakat, fitrah or any religious dues, payment of which is made under any written law;
 
 (h) where the income is derived from the working of a mine or other source of mineral deposits of a wasting nature, such deductions in respect of capital expenditure as may be prescribed in rules made under section 7.
 
-[37/75; 7/79; 28/80; 5/83; 7/85; 31/86; 1/90; 23/90;
+[37/75; 7/79; 28/80; 5/83; 7/85; 31/86; 1/90; 23/90; 2/92;
 
-2/92; 26/93; 11/94; 32/95; 1/98; 32/99; 24/2001]
+26/93; 11/94; 32/95; 1/98; 32/99; 24/2001; 21/2003]
 
 (2) Notwithstanding subsection (1), payments made by way of compensation for injuries or death, salaries, wages or similar emoluments or death gratuities to an employee (or his legal representative) who is the husband, wife or child of —
 

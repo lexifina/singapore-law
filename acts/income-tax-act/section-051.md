@@ -1,4 +1,4 @@
-# 51. Income of wife Trustees, agents and curators
+# 51. Income of wife … … … … … … … … … 274 Trustees, agents and curators
 Part: PART XV PERSONS CHARGEABLE Husband and wife
 
 (1) Subject to subsection (6), the income of a married woman living with her husband shall, for the purposes of this Act, be deemed to be the income of the husband, and shall be charged in the name of the husband and not in her name nor in that of her trustee.
@@ -17,7 +17,7 @@ Part: PART XV PERSONS CHARGEABLE Husband and wife
 
 (c) she is, and her husband is not, resident in Singapore.
 
-(6) A married woman living with her husband may elect to be chargeable in her own name on her income, including any profits arising from any property owned by her which is deemed to be owned by her husband under section 10 (6B) (c); and where she so elects all her income shall be so chargeable.
+(6) A married woman living with her husband may elect to be chargeable in her own name on her income, including any profits arising from any property owned by her which is deemed to be owned by her husband under section 10 (11) (c); and where she so elects all her income shall be so chargeable.
 
 [26/93]
 

@@ -1,4 +1,4 @@
-# 79. Right of appeal
+# 79. Right of appeal … … … … … … … … … 301
 Part: PART XVIII APPEALS
 
 (1) Any person who, being aggrieved by an assessment made upon him, has failed to agree with the Comptroller in the manner provided in section 76 (6) may appeal to the Board by lodging with the clerk —

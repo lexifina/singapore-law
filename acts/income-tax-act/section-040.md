@@ -1,9 +1,9 @@
-# 40. Relief for non-resident citizens and certain other non-residents
+# 40. Relief for non-resident citizens and certain other non-residents … … … … … … … … … 220
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
-(1) Any individual who in any year of assessment is not resident in, but is a citizen of, Singapore shall be allowed such relief, if any, as will reduce the amount of tax payable by him in respect of that year to an amount which bears the same proportion to the amount of tax which would be so payable if he were resident in Singapore in that year, and if the tax were charged on his aggregate income, reduced by any deductions which would be allowable under section 39 other than paragraph 3 of the Fifth Schedule and section 39 (2) (k), as the amount of his assessable income (other than specified income) bears to his aggregate income.
+(1) Any individual who in any year of assessment is not resident in, but is a citizen of, Singapore shall be allowed such relief, if any, as will reduce the amount of tax payable by him in respect of that year to an amount which bears the same proportion to the amount of tax which would be so payable if he were resident in Singapore in that year, and if the tax were charged on his aggregate income, reduced by any deductions which would be allowable under section 39 (except subsections (2) (k) and (12) thereof), as the amount of his assessable income (other than specified income) bears to his aggregate income.
 
-[4/75; 31/86; 3/89; 28/96]
+[4/75; 31/86; 3/89; 28/96; 21/2003]
 
 (2) The amount of tax which would be so payable if the person referred to in subsection (1) were resident in Singapore for the purposes of this section shall be ascertained in accordance with the rates of tax specified in Part C of the Second Schedule.
 
@@ -23,9 +23,9 @@ Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 ‘‘pension’’ means any pension or annuity derived from Singapore and payable either in respect of services rendered or pursuant to the provisions or rules of an approved pension or provident fund or society;
 
-‘‘specified income’’ means any income of a person not resident in Singapore which is subject to tax at the rate specified in section 43 (3).
+‘‘specified income’’ means any income of a person not resident in Singapore which is subject to tax at the rate specified in section 43 (3) and (4) (a).
 
-[28/96]
+[28/96; 37/2002]
 
 (6) For the purposes of this section —
 

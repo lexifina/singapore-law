@@ -1,4 +1,4 @@
-# 68. Official information and secrecy, and returns by employer
+# 68. Official information and secrecy, and returns by employer … 289
 Part: PART XVI RETURNS
 
 (1) The Comptroller may require any officer in the employment of the Government or of any public authority or body corporate constituted by statute to supply such particulars as may be required for the purposes of this Act and which may be in the possession of the officer.
@@ -14,6 +14,10 @@ Part: PART XVI RETURNS
 [32/95]
 
 (2A) It shall not be necessary to deliver nil returns under subsection (2).
+
+(2B) Where an employer has granted an individual who is a citizen of Singapore or a Singapore permanent resident any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return in such form and manner specified in subsection (2) including any gain or profit derived by the individual as computed under section 10 (6), notwithstanding that the individual has ceased to be employed by him at the time the gain or profit is derived.
+
+[37/2002]
 
 (3) Where the employer is a company or a body of persons, the manager or principal officer shall be deemed to be the employer for the purposes of this section, and any director of a company, or person engaged in the management of a company, shall be deemed to be a person employed.
 

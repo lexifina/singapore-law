@@ -1,4 +1,4 @@
-# 40B. Relief for non-resident employees
+# 40B. Relief for non-resident employees … … … … … 223
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 (1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who derives income from the exercise of any employment in Singapore or derives such income and income from any other source in the year preceding that year of assessment which does not include —
@@ -33,6 +33,6 @@ Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 ‘‘statutory income attributable to such activity as a non-resident employee’’ means the statutory income derived from such source ascertained in accordance with section 35 (1);
 
-‘‘total assessable income’’ means the remainder of the statutory income of any person after the deduction allowed under section 37 (2) (a) has been made.
+‘‘total assessable income’’ means the remainder of the statutory income of any person after the deduction allowed under section 37 (3) (a) has been made.
 
 [26/73; 24/2001]

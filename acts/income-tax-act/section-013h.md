@@ -1,11 +1,11 @@
-# 13H. Exemption of income of venture company
+# 13H. Exemption of income of venture company … … … … 85
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) The Minister may by regulations prescribe that any income of an approved venture company derived by it from making approved investments —
 
 (a) shall be exempt from tax; or
 
-(b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as the Minister may appoint, may specify for each year of assessment.
+(b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as he may appoint, may specify for each year of assessment.
 
 [31/98]
 
@@ -65,11 +65,19 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (11) So much of the amount of any dividends debited to the account under subsection (10) as is received by a shareholder of an approved venture company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
+(11A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
+
+[37/2002]
+
 (12) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
 
-(13) Where an amount of dividends exempt from tax under this section has been received from an approved venture company by a shareholder, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 shall not apply to any such dividend or part thereof.
+(13) Where an amount of dividends exempt from tax under this section has been received from a company by a shareholder, if that shareholder is a company, any dividends paid by that company to its shareholders, to the extent that the Comptroller is satisfied that those dividends are paid out of that amount, shall be exempt from tax in the hands of those shareholders; and section 44 shall not apply to any such dividend or part thereof.
 
-(14) Notwithstanding subsections (11) and (13), no dividend paid on any share of a preferential nature shall be exempt from tax in the hands of the shareholder.
+[37/2002]
+
+(14) Notwithstanding subsections (11) and (13), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+
+[21/2003]
 
 (15) An approved venture company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
@@ -77,13 +85,13 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (a) any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1); or
 
-(b) any dividend (including a dividend paid by a company to which subsection (13) applies) which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment —
+(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment —
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit its account with such amount as the circumstances may require.
 
-[11/94; 31/98]
+[11/94; 31/98; 37/2002]
 
 (17) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (16) were a notice of assessment.
 

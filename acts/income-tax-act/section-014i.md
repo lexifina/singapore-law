@@ -1,5 +1,5 @@
-# 14I. Provisions by banks and qualifying finance companies for doubtful debts and diminution in value of investments
-Part: PART V DEDUCTIONS AGAINST INCOME
+# 14I. Provisions by banks and qualifying finance companies for doubtful debts and diminution in value of investments … 118
+Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of a bank or qualifying finance company, there shall be allowed as a deduction an amount in respect of the provision for doubtful debts arising from its loans and the provision for diminution in the value of its investments in securities, made in that basis period.
 

@@ -1,4 +1,4 @@
-# 53. Chargeability of agent of person residing out of Singapore
+# 53. Chargeability of agent of person residing out of Singapore … 276
 Part: PART XV PERSONS CHARGEABLE Husband and wife
 
 (1) A person not resident in Singapore (referred to in this section as a non-resident person) shall be assessable and chargeable to tax either directly or in the name of his trustee, guardian, or committee, or of any attorney, factor, agent, receiver, branch or manager, whether such attorney, factor, agent, receiver, branch or manager has the receipt of the income or not, in like manner and to the like amount as such non-resident person would be assessed and charged if he were resident in Singapore and in the actual receipt of such income; except that in the case of any individual who is not resident in Singapore, no deduction shall be allowed under section 39 except in such manner as is provided by section 40.

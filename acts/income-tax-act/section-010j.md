@@ -1,5 +1,6 @@
-# 10J. Shares buyback
+# 10J. Shares buyback … … … … … … … … … 42
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 (1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), for the purposes of this section —
 
@@ -17,19 +18,19 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 (a) a dividend paid by the company on the date of the payment, and the provisions relating to payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), shall apply, with the necessary modifications, to the dividend deemed to be paid;
 
-(b) a dividend received by the shareholder where the buyback is an off-market purchase made in accordance with an equal access scheme authorised in advance by the company at a general meeting of the company.
+(b) a dividend received by the shareholder (not being a transferee to whom section 10N applies) where the buyback is an off-market purchase made in accordance with an equal access scheme authorised in advance by the company at a general meeting of the company.
 
-[32/99]
+[32/99; 37/2002]
 
-(3A) Notwithstanding subsection (3), where a company undertakes a buyback described in subsection (1) (a) through a special trading counter established on the Singapore Exchange, any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+(4) Notwithstanding subsection (3), where a company undertakes a buyback described in subsection (1) (a) through a special trading counter established on the Singapore Exchange, any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
 
 (a) a dividend paid by the company on the date of the payment, and section 44 shall apply, with the necessary modifications, to such dividend; and
 
-(b) a dividend received by the shareholder if the conditions in subsection (3B) are satisfied.
+(b) a dividend received by the shareholder if the conditions in subsection (5) are satisfied.
 
 [24/2000]
 
-(3B) The conditions referred to in subsection (3A) (b) are —
+(5) The conditions referred to in subsection (4) (b) are —
 
 (a) the shares sold through the special trading counter are not acquired by the shareholder through any securities lending or repurchase arrangement;
 
@@ -41,35 +42,37 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 [24/2000]
 
-(4) Where the dividend deemed to be paid by a company under subsection (3) (a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3) (b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
+(6) Where the dividend deemed to be paid by a company under subsection (3) (a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3) (b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
 
 [32/99]
 
-(4A) The amount of any dividend deemed to be paid by a company under subsection (3A) (a) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment would be equal to the amount of payment made by the company.
+(7) The amount of any dividend deemed to be paid by a company under subsection (4) (a) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment would be equal to the amount of payment made by the company.
 
 [24/2000]
 
-(4B) The amount of any dividend deemed to be received by a shareholder under subsection (3A) (b) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment by the company would be equal to the amount of payment received by the shareholder.
+(8) The amount of any dividend deemed to be received by a shareholder under subsection (4) (b) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment by the company would be equal to the amount of payment received by the shareholder.
 
 [24/2000]
 
-(5) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3) (b) or (3A) (b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
+(9) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3) (b) or (4) (b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
 
 [32/99; 24/2000]
 
-(6) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3) (b) —
+(10) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3) (b) —
 
 (a) no deduction shall be allowed to him in respect of the costs he incurred to acquire the shares he sold to the company;
 
 and
 
-(b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained A , by the formula N where A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+(b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula A , —
+
+N where A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
 
 N is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
 
 [32/99]
 
-(6A) Notwithstanding any other provisions of this Act, where a shareholder sells his shares through a special trading counter referred to in subsection (3A) and any payment received by the shareholder for the buyback of such shares is deemed to be a dividend received by him under that subsection —
+(11) Notwithstanding any other provisions of this Act, where a shareholder sells his shares through a special trading counter referred to in subsection (4) and any payment received by the shareholder for the buyback of such shares is deemed to be a dividend received by him under that subsection —
 
 (a) no deduction shall be allowed to him in respect of the costs incurred to acquire the shares sold; and
 
@@ -77,7 +80,7 @@ N is the number of remaining shares in the company held by the shareholder after
 
 [24/2000]
 
-(7) For the purposes of this section —
+(12) For the purposes of this section —
 
 (a) the contributed capital of a company has the same meaning as in section 10I (5) (b);
 
@@ -97,7 +100,7 @@ N is the number of remaining shares in the company held by the shareholder after
 
 (C) differences in the offers introduced solely to ensure that each shareholder is left with a whole number of shares;
 
-(d) in determining the duration of beneficial ownership of shares for the purposes of subsection (3B) (b) —
+(d) in determining the duration of beneficial ownership of shares for the purposes of subsection (5) (b) —
 
 (i) the day of acquisition of the shares shall be counted as one day, but the day of sale of the shares shall be excluded;
 

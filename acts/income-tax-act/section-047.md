@@ -1,4 +1,4 @@
-# 47. Special allowance for interest received as trading receipts
+# 47. Special allowance for interest received as trading receipts … 267
 Part: PART XIII ALLOWANCES FOR TAX CHARGED
 
 (1) A person who receives as trading receipts interest on any bonds, securities, stock or fund specified in the Fourth Schedule shall be entitled to a credit of one-half of the tax chargeable on the gross amount of such interest.

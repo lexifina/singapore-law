@@ -1,5 +1,6 @@
-# 10M. Buyback of preferential shares
+# 10M. Buyback of preferential shares … … … … … … 51
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 Section 10K shall apply in relation to any purchase or acquisition by a company resident in Singapore from its shareholders of shares or stocks of a preferential nature issued by it (referred to in this section as a buyback), and for the purpose of such application —
 

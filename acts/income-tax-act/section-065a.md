@@ -1,4 +1,4 @@
-# 65A. Statement of bank accounts, assets, etc.
+# 65A. Statement of bank accounts, assets, etc. … … … … 285
 Part: PART XVI RETURNS
 
 The Comptroller may give notice in writing to any person requiring him to furnish within the time limited by such notice, not being less than 30 days from the date of service of such notice, a statement containing particulars of —

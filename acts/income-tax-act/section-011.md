@@ -1,5 +1,6 @@
-# 11. Ascertainment of income of clubs, trade associations, etc.
+# 11. Ascertainment of income of clubs, trade associations, etc. … 58
 Part: PART III IMPOSITION OF INCOME TAX
+Heading: Section Pages
 
 (1) Where a body of persons, whether corporate or unincorporate, carries on a club or similar institution and receives from its members not less than half of its gross receipts on revenue account (including entrance fees and subscriptions), it shall not be deemed to carry on a business; but where less than half of such gross receipts are received from members, the whole of the income from transactions both with members and others (including entrance fees and subscriptions) shall be deemed to be receipts from a business, and the body of persons shall be chargeable in respect of the profits therefrom.
 

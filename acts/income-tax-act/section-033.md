@@ -1,4 +1,4 @@
-# 33. Comptroller may disregard certain transactions and dispositions
+# 33. Comptroller may disregard certain transactions and dispositions … … … … … … … … … 184
 Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (1) Where the Comptroller is satisfied that the purpose or effect of any arrangement is directly or indirectly —

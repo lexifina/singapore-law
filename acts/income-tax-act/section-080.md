@@ -1,5 +1,6 @@
-# 80. Hearing and disposal of appeals
+# 80. Hearing and disposal of appeals … … … … … … 302
 Part: PART XVIII APPEALS
+Heading: Section Pages
 
 (1) On receipt of a petition of appeal, the clerk shall forthwith forward one copy thereof to the Comptroller and shall, as soon as may be thereafter, fix a time and place for the hearing of the appeal and shall give 14 days’ notice thereof both to the appellant and to the Comptroller.
 
@@ -33,6 +34,6 @@ Part: PART XVIII APPEALS
 
 (12) Every member of the Board, when and so long as he is acting as such, shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224) and shall enjoy the same judicial immunity as is enjoyed by a District Judge.
 
-(13) All proceedings in appeals to the Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
+(13) All proceedings in appeals to the Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code (Cap. 224).
 
 (14) Notice of the amount of tax payable under the assessment as determined by the Board shall be served by the Comptroller either personally or by registered post upon the appellant.

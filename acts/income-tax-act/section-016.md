@@ -1,4 +1,4 @@
-# 16. Initial and annual allowances for industrial buildings and structures
+# 16. Initial and annual allowances for industrial buildings and structures … … … … … … … … … … 136
 Part: PART VI CAPITAL ALLOWANCES
 
 (1) Where, in or after the basis period for the first year of assessment under this Act, a person incurs capital expenditure on the construction of a building or structure which is to be an industrial building or structure occupied for the purposes of a trade, there shall be made to the person who incurred the expenditure for the year of assessment in the basis period for which the expenditure was incurred an allowance to be known as an ‘‘initial allowance’’ equal to 25% thereof.
@@ -19,25 +19,25 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [7/79]
 
-(5) Where at any time in or after the basis period for the first year of assessment under this Act the interest in a building or structure which is the relevant interest in relation to any expenditure is sold while the building or structure is an industrial building or structure, the annual allowance, in the years of assessment the basis periods for which end after the time of that sale, shall be computed by reference to the residue of that expenditure immediately after the sale and shall be —
+(5) Where at any time in or after the basis period for the first year of assessment under this Act the interest in a building or structure which is the relevant interest in relation to any expenditure is sold while the building or structure is an industrial building or structure or after it has ceased to be one, the annual allowance, in the years of assessment the basis periods for which end after the time of that sale, shall be computed by reference to the residue of that expenditure immediately after the sale and shall be —
 
 (a) the fraction of that residue the numerator of which is one and the denominator of which is the number of years of assessment comprised in the period which begins with the first year of assessment for which the buyer is entitled to an annual allowance or would be so entitled if the building or structure had at all material times continued to be an industrial building or structure, and ends with the fiftieth year after that in which the building or structure was first used; or
 
 (b) 3% of that residue, whichever is the greater, and so on for any subsequent sales.
 
-[7/79]
+[7/79; 21/2003]
 
 (6) No annual allowance shall be made to any person for any year of assessment after the end of the fiftieth year after that in which the building or structure was first used.
 
-(7) For the purposes of application to any industrial building or structure occupied for the purposes of a trade in intensive pig and poultry production and approved by the Minister under section 18 (1), the reference to 3% in subsections (4) and (5) and in section 18 (6) shall be read as a reference to 5%.
+(7) For the purposes of application to any industrial building or structure occupied for the purposes of a trade in intensive poultry production and approved by the Minister under section 18 (1), the reference to 3% in subsections (4) and (5) and in section 18 (9) shall be read as a reference to 5%.
 
-[7/79]
+[7/79; 21/2003]
 
 (8) For the purposes of application to any industrial building or structure occupied for the purposes of a hotel on the island of Sentosa and approved by the Minister under section 18 (1) —
 
 (a) the reference to 25% in subsection (1) shall be read as a reference to 20%;
 
-(b) the reference to 3% in subsections (4) and (5) and in section 18 (6) shall be read as a reference to 2%; and
+(b) the reference to 3% in subsections (4) and (5) and in section 18 (9) shall be read as a reference to 2%; and
 
 (c) the reference to capital expenditure in subsections (1) and
 
@@ -45,17 +45,17 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [1/82]
 
-(9) For the purposes of application to any industrial building or structure used for the purposes of a project for the promotion of the tourist industry (other than a hotel) in Singapore and approved by the Minister under section 18 (1) (k) —
+(9) For the purposes of application to any industrial building or structure used for the purposes of a project for the promotion of the tourist industry (other than a hotel) in Singapore and approved by the Minister under section 18 (1) (i) —
 
 (a) the reference to 25% in subsection (1) shall be read as a reference to 20%;
 
-(b) the reference to 3% in subsections (4) and (5) and in section 18 (6) shall be read as a reference to 2%; and
+(b) the reference to 3% in subsections (4) and (5) and in section 18 (9) shall be read as a reference to 2%; and
 
 (c) the reference to capital expenditure in subsections (1), (3) and (4) shall not include any capital expenditure incurred before 1st January 1986.
 
 [1/88]
 
-(10) Notwithstanding anything in sections 16 and 17, where a person carrying out a project for the promotion of the tourist industry approved by the Minister under section 18 (1) (k) fails to comply with any condition imposed by the Minister, the Minister may revoke the approval and thereupon the Comptroller may at any time within 6 years from the date of the revocation make such assessment or additional assessment upon the person as may appear necessary in order to recover any tax which ought to have been paid by that person if any allowances under those sections had not been made to him.
+(10) Notwithstanding anything in this section and section 17, where a person carrying out a project for the promotion of the tourist industry approved by the Minister under section 18 (1) (i) fails to comply with any condition imposed by the Minister, the Minister may revoke the approval and thereupon the Comptroller may at any time within 6 years from the date of the revocation make such assessment or additional assessment upon the person as may appear necessary in order to recover any tax which ought to have been paid by that person if any allowances under those sections had not been made to him.
 
 [1/88; 11/94]
 
