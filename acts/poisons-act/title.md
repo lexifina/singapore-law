@@ -1,0 +1,43 @@
+POISONS ACT
+(CHAPTER 234)
+Ordinance
+39 of 1938
+1970 Ed. Cap. 164 1985 Ed. Cap. 234 S 12/94
+Amended by Amended by S 147/94
+21 of 1973 21 of 1987 S 399/94
+52 of 1975 S 40/88 S 449/94
+14 of 1980 S 82/88 S 465/94
+S 353/73 S 16/89 S 10/95
+S 16/74 S 132/95
+1989 Ed. Cap. 234
+S 363/74 S 190/95
+Amended by
+S 241/78 S 267/95
+9 of 1999
+S 18/75 S 416/95
+S 361/89
+S 233/76 S 227/96
+S 55/90
+S 132/78 S 236/96
+S 51/91
+S 2/80 S 511/97
+S 475/91
+S 186/82 S 456/98
+S 541/91
+S 279/83 S 547/98
+S 9/93
+S 201/84 S 633/98
+S 172/93
+S 205/85 S 53/99
+S 342/85 S 280/99
+S 211/86
+REVISED EDITION 1999
+(30th December 1999)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+1999
+
+
+
+An Act to regulate the importation, possession, manufacture, compounding, storage, transport and sale of poisons.
+
+[1st December 1939]
