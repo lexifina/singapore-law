@@ -1,0 +1,62 @@
+# 36. Annual account and audit
+Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS Returns
+
+(1) A registered insurer shall prepare such statements of account and other statements and in such form and manner as may be prescribed and lodge them with the Authority.
+
+[11/86]
+
+(2) A registered insurer shall —
+
+(a) cause to be kept in Singapore such books and records as will sufficiently explain the transactions and financial position of the insurer in Singapore and enable the insurer to comply with the requirements of this section and section 37; and
+
+(b) cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
+
+[32/93]
+
+(3) A registered insurer shall have its accounts audited for each accounting period for which statements of account are prepared in accordance with regulations prescribed under subsection (1).
+
+(4) No person shall act as auditor for any registered insurer unless —
+
+(a) he has a place of business in Singapore;
+
+(b) he is approved under section 9 of the Companies Act (Cap. 50) as a company auditor for the purposes of that Act;
+
+and
+
+(c) he has the approval of the Authority.
+
+(5) An auditor shall not be approved by the Authority as an auditor for registered insurers unless he is able to comply with such conditions in relation to the discharge of his duties as may be determined by the Authority.
+
+(6) The Authority may impose all or any of the following duties on an auditor:
+
+(a) a duty to submit such additional information in relation to his audit as the Authority considers necessary;
+
+(b) a duty to enlarge or extend the scope of his audit of the business and affairs of the insurer;
+
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
+
+(d) a duty to submit a report on any of the matters referred to in paragraphs (b) and (c), and the insurer shall remunerate the auditor in respect of the discharge by him of all or any of these duties.
+
+(7) An auditor’s report made under subsection (6) shall be lodged with the Authority together with the statements of accounts lodged by the insurer under subsection (1).
+
+(8) If an auditor, in the course of the performance of his duties as an auditor of an insurer, is satisfied that —
+
+(a) there has been a serious breach or non-observance of the provisions of this Act or that a criminal offence involving fraud or dishonesty has been committed;
+
+(b) any transaction or dispute has taken place which will have a material effect on the solvency of any insurance fund established by the insurer under this Act;
+
+(c) serious irregularities have occurred, including irregularities that jeopardise the interests of policy owners; or
+
+(d) where the insurer is incorporated or established in Singapore, the insurer is unable to meet its obligations, the auditor shall immediately report the matter to the Authority.
+
+(9) In the case of a company incorporated or established outside Singapore, the audit required by subsection (3) need not extend beyond the business for which an insurance fund is maintained under this Act.
+
+(10) The documents to be lodged with the Authority under this section for any accounting period of an insurer shall be accompanied by copies of any report submitted to the members of the insurer with respect to that period and (if it is not among the documents so lodged) by any statement of accounts so submitted with respect to that period.
+
+(11) References in this Act to documents lodged with the Authority shall not be taken to include documents required by subsection (10) to accompany documents so lodged.
+
+(12) Where any report or statement referred to in subsection (10) is in a language other than English, the copy required by that subsection shall be in English and shall be certified to be a true translation of the original by the translator.
+
+[38
+
+[11/86]
