@@ -1,5 +1,5 @@
 # 47. Award to be final
-Part: PART V AWARDS
+Part: PART VI AWARDS
 
 (1) Subject to the provisions of this Act, an award shall be final and conclusive.
 

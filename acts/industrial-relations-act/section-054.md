@@ -1,5 +1,5 @@
 # 54. Commissioner’s power to inquire into complaints
-Part: PART V AWARDS
+Part: PART VI AWARDS
 
 (1) The Commissioner may —
 
@@ -21,10 +21,16 @@ Part: PART V AWARDS
 
 (b) no court fees or deposits shall be chargeable in the first instance in respect of the enforcement of the order but the same shall be paid by the person against whom the order is enforced.
 
-(7) Whenever any person complains to the Minister, the Parlia- mentary Secretary to the Minister or to the Commissioner that a trade union or person bound by an award has committed a breach or non-observance of any term of an award, or where the Minister, the Parliamentary Secretary or the Commissioner has reason to believe that such a breach or non-observance has occurred, or where the Minister, the Parliamentary Secretary or the Commissioner wishes to inquire into any matter for which provision is made by an award or any dispute as to such matter, the Minister, the Parliamentary Secretary or the Commissioner may summon any other person who he has reason to believe can give information respecting the matter.
+(7) Where —
 
-(8) The person so summoned shall be legally bound to attend at the time and place specified in the summons and to answer truthfully all questions which the Minister, the Parliamentary Secretary or the Commissioner may put to him.
+(a) any person complains to the Minister, the Parliamentary Secretary to the Minister or to the Commissioner that a trade union or person bound by an award has committed a breach or non-observance of any term of an award;
+
+(b) the Minister, the Parliamentary Secretary to the Minister or the Commissioner has reason to believe that such a breach or non-observance has occurred; or
+
+(c) the Minister, the Parliamentary Secretary to the Minister or the Commissioner wishes to inquire into any matter for which provision is made by an award or any dispute as to such matter, the Minister, the Parliamentary Secretary to the Minister or the Commissioner may summon any other person who he has reason to believe can give information respecting the matter.
+
+(8) The person summoned under subsection (7) shall be legally bound to attend at the time and place specified in the summons and to answer truthfully all questions which the Minister, the Parliamentary Secretary to the Minister or the Commissioner may put to him.
 
 (9) Any person who in any way wilfully obstructs the service of or obedience to such summons, and any person summoned who neglects to attend as required by such summons, and any person who commits in respect of any such inquiry or complaint any offence described in Chapter X of the Penal Code (Cap. 224) shall be punished as provided in that Chapter.
 
-(10) If, upon inquiry under subsection (7), the Commissioner is informed by the Minister or by the Parliamentary Secretary to the Minister or is of the opinion that a breach or non-observance of any term of an award has been committed he shall have the same powers to institute proceedings as he has under Part XV of the Employment Act (Cap. 91) upon inquiry under that Part and the provisions of that Act relating to proceedings instituted by him under that Act shall apply to and in relation to proceedings instituted by him under this subsection.
+(10) If, upon inquiry under subsection (7), the Commissioner is informed by the Minister or by the Parliamentary Secretary to the Minister or is of the opinion that a breach or non-observance of any term of an award has been committed, he shall have the same powers to institute proceedings as he has under Part XV of the Employment Act (Cap. 91) upon inquiry under that Part and the provisions of that Act relating to proceedings instituted by him under that Act shall apply to and in relation to proceedings instituted by him under this subsection.

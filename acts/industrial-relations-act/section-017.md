@@ -1,18 +1,18 @@
-# 17. Invitation to negotiate
+# 17. Recognition of trade union of employees
 Part: PART III COLLECTIVE BARGAINING
 
-(1) A trade union of employees which has been accorded recognition by an employer may serve on that employer or an employer may serve on a trade union of employees a notice in the prescribed form setting out proposals for a collective agreement in relation to any industrial matters and inviting the employer or trade union of employees, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a collective agreement.
+(1) No trade union of employees which has not been given recognition by an employer in the prescribed manner may serve on that employer a notice under section 18.
 
-(2) Notwithstanding subsection (1), no trade union of employees may include in a notice setting out proposals for a collective agreement a proposal in relation to any of the following matters:
+(2) No trade union of employees whose constitution and rules do not permit it to admit as members any class of employees may seek recognition in respect of that class of employees or serve a notice under section 18 in respect of those employees.
 
-(a) the promotion by an employer of any employee from a lower grade or category to a higher grade or category;
+(3) No trade union of employees the majority of whose membership consists of employees in non-managerial or non-executive positions may seek recognition in respect of employees in managerial or executive positions or serve a notice under section 18 in respect of those employees.
 
-(b) the transfer by an employer of an employee within the organisation of an employer’s profession, business, trade or work, provided that such transfer does not entail a change to the detriment of an employee in regard to his terms of employment;
+(4) Where an employer raises the objection that a trade union should not represent certain employees or a class of employees, the employer and the trade union shall make a joint application to a Court for the determination of the question.
 
-(c) the employment by an employer of any person that he may appoint in the event of a vacancy arising in his establishment;
+(5) Until the Court gives its decision, the employer shall recognise the trade union in respect of other employees or class of employees in respect of whom the recognition of the trade union by the employer is not in dispute if the trade union represents the majority of such employees or class of employees.
 
-(d) the termination by an employer of the services of an employee by reason of redundancy or by reason of the reorganisation of an employer’s profession, business, trade or work or the criteria for such termination;
+(6) The powers of a Court under subsection (4) shall be exercisable by the Court constituted by the President alone.
 
-(e) the dismissal and reinstatement of an employee by an employer in circumstances in which section 35 (2) applies; or
+(7) Subsection (1) shall not apply to the extent that a trade union of employees is deemed to be recognised by a transferee under section 18A (8) of the Employment Act (Cap. 91).
 
-(f) the assignment or allocation by an employer of duties or specific tasks to an employee that are consistent or compatible with the terms of his employment.
+[16

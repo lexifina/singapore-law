@@ -17,6 +17,6 @@ Part: PART II INDUSTRIAL ARBITRATION COURTS
 
 (d) is ineligible by reason of section 57 to be nominated for election as an officer of a trade union; or
 
-(e) has within the previous 3 years been convicted of an offence under the Trade Disputes Act (Cap. 331) or this Act, shall not be eligible for appointment to a panel.
+(e) has within the previous 3 years been convicted of an offence under this Act or the Trade Disputes Act (Cap. 331), shall not be eligible for appointment to a panel.
 
 (5) The Minister may exempt any person from subsection (1) or (3).

@@ -1,5 +1,5 @@
 # 55. Inspection
-Part: PART V AWARDS
+Part: PART VI AWARDS
 
 (1) An inspecting officer may —
 
@@ -17,7 +17,7 @@ Part: PART V AWARDS
 
 (a) put questions concerning an employee whom he believes to be entitled to the benefit of an award to the employee or his employer or any other person whom he considers it desirable to question and require such person to answer such questions; and
 
-(b) require the employer to produce before him any books, documents or other records which he is required by an award to keep or which relate to an employee entitled to the benefit of an award.
+(b) require the employer to produce before him any book, document or other record which he is required by an award to keep or which relate to an employee entitled to the benefit of an award.
 
 (4) An inspecting officer who otherwise than in the performance of his duties reveals any manufacturing or commercial secret which may at any time come to his knowledge in the course of his duties shall be guilty of an offence.
 

@@ -1,7 +1,7 @@
 # 80. Employers not to discriminate against members of trade unions
-Part: PART VIII MISCELLANEOUS
+Part: PART IX MISCELLANEOUS
 
-Any employer who, in the engagement of persons for employ- ment, discriminates against a person by reason of the circumstance that that person —
+Any employer who, in the engagement of persons for employment, discriminates against a person by reason of the circumstance that that person —
 
 (a) is or proposes to become an officer or member of a trade union or an association that has applied to be registered as a trade union;
 

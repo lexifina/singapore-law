@@ -1,5 +1,5 @@
 # 69. Offences in relation to Court
-Part: PART VI PROCEDURE AND POWERS OF COURTS
+Part: PART VII PROCEDURE AND POWERS OF COURTS
 
 (1) A person who —
 

@@ -1,12 +1,16 @@
-# 23. Procedure as to notification
+# 23. Compulsory conferences
 Part: PART III COLLECTIVE BARGAINING
 
-(1) A notification by the Commissioner under this Part that a trade dispute exists shall contain —
+(1) The Minister may, where he considers it possible that any trade dispute may be settled by conciliation or further conciliation, direct a person, whether engaged in or connected with the trade dispute or not, to attend at a time and place specified in the direction a conference presided over by the Minister or such person as the Minister directs.
 
-(a) a statement of the parties to the trade dispute;
+(2) A direction under this section may be given orally or in writing signed by the Minister.
 
-(b) the matters in dispute so far as they are known to the Commissioner; and
+(3) Except as otherwise directed by the Minister or presiding person, a conference shall be held in private.
 
-(c) where the trade dispute is notified in accordance with section 19, the reasons for the refusal to negotiate so far as they are known to the Commissioner.
+(4) A person who —
 
-(2) The Registrar shall, upon receiving a notification under this Part, forthwith bring it to the notice of the President.
+(a) on being directed under subsection (1), fails without lawful excuse to attend a conference; or
+
+(b) on being directed to continue his attendance at a conference by the Minister or presiding person, fails without lawful excuse to do so, shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[22

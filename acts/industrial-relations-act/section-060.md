@@ -1,9 +1,9 @@
 # 60. Procedure of Courts
-Part: PART VI PROCEDURE AND POWERS OF COURTS
+Part: PART VII PROCEDURE AND POWERS OF COURTS
 
 (1) In the hearing and determination of a trade dispute or in any other proceedings before a Court —
 
-(a) the procedure of the Court shall, subject to the provisions of this Act and any regulations made thereunder, be within the discretion of the Court;
+(a) the procedure of the Court shall, subject to the provisions of this Act, be within the discretion of the Court;
 
 (b) the Court shall not be bound to act in a formal manner and shall not be bound by the Evidence Act (Cap. 97) but may inform itself on any matter in such manner as it thinks just;
 

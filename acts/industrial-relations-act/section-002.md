@@ -25,15 +25,15 @@ In this Act, unless the context otherwise requires —
 
 (d) a person who owns, or is carrying on, or for the time being responsible for the management or control of a profession, business, trade or work in which an employee is engaged;
 
-(e) for the purposes of Parts IV, V and VI, the transferor of an undertaking whose employment of employees is transferred by virtue of section 18A of the Employment Act (Cap. 91);
+(e) for the purposes of Parts V, VI and VII, the transferor of an undertaking whose employment of employees is transferred by virtue of section 18A of the Employment Act;
 
-‘‘industrial matters’’ means matters pertaining to the relations of employers and employees which are connected with the employment or non-employment or the terms of employ- ment, the transfer of employment or the conditions of work of any person;
+‘‘industrial matters’’ means matters pertaining to the relations of employers and employees which are connected with the employment or non-employment or the terms of employment, the transfer of employment or the conditions of work of any person;
 
 ‘‘industrial relations officer’’ means an industrial relations officer appointed under section 28;
 
-‘‘inspecting officer’’ means a person who is an inspecting officer for the purposes of the Employment Act;
+‘‘inspecting officer’’ means a person who is an inspecting officer for the purposes of the Employment Act (Cap. 91);
 
-‘‘officer’’ , when used with reference to a trade union or a branch of a trade union, includes any member of the body, by whatever name called, to which the management of the affairs of the trade union or branch is entrusted;
+‘‘officer’’, in relation to a trade union or a branch of a trade union, includes any member of the body, by whatever name called, to which the management of the affairs of the trade union or branch is entrusted;
 
 ‘‘President’’ means the President or the Deputy President of the Courts and includes an acting President or acting Deputy President;
 
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘trade union’’ means a trade union of employees or employers registered under any written law for the time being in force relating to the registration of trade unions;
 
-‘‘transfer of employment’’ means the transfer of an employee’s employment from the transferor of an undertaking to the transferee under section 18A of the Employment Act (Cap. 91);
+‘‘transfer of employment’’ means the transfer of an employee’s employment from the transferor of an undertaking to the transferee under section 18A of the Employment Act;
 
 ‘‘transferee’’ means the person to whom an undertaking is transferred and who becomes the employer of the transferor’s employees by virtue of section 18A of the Employment Act;
 

@@ -1,5 +1,5 @@
 # 48. Award to be available at office of Registrar
-Part: PART V AWARDS
+Part: PART VI AWARDS
 
 (1) Every award and every order varying an award or affecting the operation of an award shall be deposited with and registered by the Registrar.
 

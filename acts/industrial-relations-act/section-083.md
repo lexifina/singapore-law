@@ -1,5 +1,5 @@
 # 83. Injuring employer on account of industrial action
-Part: PART VIII MISCELLANEOUS
+Part: PART IX MISCELLANEOUS
 
 An employee who ceases work in the service of his employer by reason of the circumstance that the employer —
 

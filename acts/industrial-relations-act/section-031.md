@@ -1,5 +1,5 @@
 # 31. Court to have cognizance of trade disputes
-Part: PART IV ARBITRATION
+Part: PART V ARBITRATION
 
 A Court shall have cognizance of a trade dispute where —
 
@@ -9,8 +9,14 @@ A Court shall have cognizance of a trade dispute where —
 
 (c) a trade union which or an employer who is a party to a trade dispute as to any matter arising from or connected with a transfer of employment makes a request in writing, whether before or after the transfer of employment, to the Registrar that the trade dispute be submitted to arbitration;
 
-(d) the Minister by notice in the Gazette directs that the trade dispute be submitted to arbitration; or
+(d) the trade dispute relates to —
 
-(e) the President of Singapore by proclamation declares that by reason of special circumstances it is essential in the public interest that a trade dispute be submitted to arbitration.
+(i) the retrenchment benefit payable to an executive employee who is represented by a recognised trade union under section 30A; or
 
-[29/72; 36/95]
+(ii) a breach of contract of employment by an executive employee who is represented by a recognised trade union under section 30A or his employer, and the employer or the recognised trade union representing the executive employee makes a request in writing to the Registrar that the trade dispute be submitted to arbitration;
+
+(e) the Minister by notice in the Gazette directs that the trade dispute be submitted to arbitration; or
+
+(f) the President of Singapore by proclamation declares that by reason of special circumstances it is essential in the public interest that a trade dispute be submitted to arbitration.
+
+[29/72; 36/95; 23/2002]

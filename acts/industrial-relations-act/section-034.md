@@ -1,7 +1,7 @@
 # 34. Court to have regard to certain matters
-Part: PART IV ARBITRATION
+Part: PART V ARBITRATION
 
-(1) In determining a trade dispute a Court may have regard —
+(1) In determining a trade dispute, a Court may have regard —
 
 (a) not only to the interests of the persons immediately concerned but to the interests of the community as a whole and in particular the condition of the economy of Singapore;
 

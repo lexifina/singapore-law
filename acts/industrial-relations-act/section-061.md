@@ -1,5 +1,5 @@
 # 61. Particular powers of Courts
-Part: PART VI PROCEDURE AND POWERS OF COURTS
+Part: PART VII PROCEDURE AND POWERS OF COURTS
 
 A Court may in relation to a trade dispute of which it has cognizance or any other matter before it —
 

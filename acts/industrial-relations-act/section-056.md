@@ -1,5 +1,5 @@
 # 56. Powers of Court
-Part: PART V AWARDS
+Part: PART VI AWARDS
 
 A Court shall have power —
 
