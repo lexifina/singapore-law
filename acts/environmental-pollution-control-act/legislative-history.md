@@ -1,0 +1,3 @@
+# LEGISLATIVE HISTORY ENVIRONMENTAL POLLUTION CONTROL ACT (CHAPTER 94A)
+
+Act 9 of 1999 — Environmental Pollution Control Act 1999 Date of First Reading : 20.1.99 (Bill No. 2/99 published on 21.1.99) Date of Second and Third Readings : 11.2.99 Date of commencement : 1.4.99
