@@ -3,9 +3,9 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill is drawn in a set, each part of the set being numbered, and containing a reference to the other parts, the whole of the parts constitute one bill.
 
-(2) Where the holder of a set indorses two or more parts to different persons, he is liable on every such part, and every indorser subsequent to him is liable on the part he has himself indorsed as if the said parts were separate bills.
+(2) Where the holder of a set indorses 2 or more parts to different persons, he is liable on every such part, and every indorser subsequent to him is liable on the part he has himself indorsed as if the said parts were separate bills.
 
-(3) Where two or more parts of a set are negotiated to different holders in due course, the holder whose title first accrues is as between such holders deemed the true owner of the bill.
+(3) Where 2 or more parts of a set are negotiated to different holders in due course, the holder whose title first accrues is as between such holders deemed the true owner of the bill.
 
 (4) Nothing in subsection (3) shall affect the rights of a person who in due course accepts or pays the part first presented to him.
 

@@ -1,20 +1,8 @@
-# 85. Protection of bankers collecting payment of cheques, or certain other instruments
+# 85. Unindorsed cheques as evidence of payment
 Part: PART III CHEQUES DRAWN ON BANKER
 
-(1) Where a banker, in good faith and without negligence —
+An unindorsed cheque which appears to have been paid by the banker on whom it is drawn is evidence of the receipt by the payee of the sum payable by the cheque.
 
-(a) receives payment for a customer of an instrument to which this section applies; or
+[84
 
-(b) having credited a customer’s account with the amount of such an instrument, receives payment thereof for himself, and the customer has no title, or a defective title, to the instrument, the banker does not incur any liability to the true owner of the instrument by reason only of having received payment thereof.
-
-(2) This section applies to the following instruments, namely:
-
-(a) cheques (including cheques which under section 81A or otherwise are not transferable);
-
-(b) any document issued by a customer of a banker which, though not a bill of exchange, is intended to enable a person to obtain payment from that banker of the sum mentioned in the document; and
-
-(c) any draft payable on demand drawn by a banker upon himself, whether payable at the head office or some other office of his bank.
-
-[34/92]
-
-(3) A banker is not to be treated for the purposes of this section as having been negligent by reason only of his failure to concern himself with absence of, or irregularity in, indorsement of an instrument.
+[Cf. UK Cheques Act, 1957 s. 3]

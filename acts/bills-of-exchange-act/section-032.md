@@ -1,4 +1,4 @@
-# 32. Requisites of valid indorsement
+# 32. Requisites of a valid indorsement
 Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 An indorsement in order to operate as a negotiation must comply with the following conditions:

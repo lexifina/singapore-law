@@ -7,7 +7,7 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (3) Presentment for payment is dispensed with —
 
-(a) where, after the exercise of reasonable diligence, present- ment, as required by this Act, cannot be effected;
+(a) where, after the exercise of reasonable diligence, presentment, as required by this Act, cannot be effected;
 
 (b) where the drawee is a fictitious person;
 

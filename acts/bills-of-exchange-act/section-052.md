@@ -7,6 +7,6 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (3) In order to render the acceptor of a bill liable, it is not necessary to protest it, or that notice of dishonour should be given to him.
 
-(4) Where the holder of a bill presents it for payment, he shall exhibit the bill to the person from whom he demands payment, and when a bill is paid, the holder shall forthwith deliver it up to the party paying it.
+(4) Where the holder of a bill presents it for payment, he shall exhibit the bill to the person from whom he demands payment, and when a bill is paid, the holder shall immediately deliver it up to the party paying it.
 
 Liabilities of parties

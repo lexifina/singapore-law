@@ -15,24 +15,28 @@ Notice of dishonour, in order to be valid and effectual, must be given in accord
 
 (f) the return of a dishonoured bill to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
-(g) a written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication; a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby;
+(g) where a cheque has been presented in accordance with section 89, the presentment of an image return document, as defined under section 90 (6), to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
-(h) where notice of dishonour is required to be given to any person, it may be given either to the party himself, or to his agent in that behalf;
+(h) a written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication; a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby;
 
-(i) where the drawer or indorser is dead, and the party giving notice knows it, the notice must be given to a personal representative if such there be, and with the exercise of reasonable diligence he can be found;
+(i) where notice of dishonour is required to be given to any person, it may be given either to the party himself, or to his agent in that behalf;
 
-(j) where the drawer or indorser is bankrupt, notice may be given either to the party himself or to the trustee;
+(j) where the drawer or indorser is dead, and the party giving notice knows it, the notice must be given to a personal representative if such there be, and with the exercise of reasonable diligence he can be found;
 
-(k) where there are 2 or more drawers or indorsers who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice for the others;
+(k) where the drawer or indorser is bankrupt, notice may be given either to the party himself or to the trustee;
 
-(l) the notice may be given as soon as the bill is dishonoured and must be given within a reasonable time thereafter; in the absence of special circumstances notice is not deemed to have been given within a reasonable time unless —
+(l) where there are 2 or more drawers or indorsers who are not partners, notice must be given to each of them, unless one of them has authority to receive such notice for the others;
+
+(m) the notice may be given as soon as the bill is dishonoured and must be given within a reasonable time thereafter; in the absence of special circumstances notice is not deemed to have been given within a reasonable time unless —
 
 (i) where the person giving and the person to receive notice reside in the same place — the notice is given or sent off in time to reach the latter on the day after the dishonour of the bill;
 
 (ii) where the person giving and the person to receive notice reside in different places — the notice is sent off on the day after the dishonour of the bill, if there be a post at a convenient hour on that day, and if there be no such post on that day, then by the next post thereafter;
 
-(m) where a bill when dishonoured is in the hands of an agent, he may either himself give notice to the parties liable on the bill, or he may give notice to his principal; if he gives notice to his principal, he must do so within the same time as if he were the holder, and the principal upon receipt of such notice has himself the same time for giving notice as if the agent had been an independent holder;
+(n) where a bill when dishonoured is in the hands of an agent, he may either himself give notice to the parties liable on the bill, or he may give notice to his principal; if he gives notice to his principal, he must do so within the same time as if he were the holder, and the principal upon receipt of such notice has himself the same time for giving notice as if the agent had been an independent holder;
 
-(n) where a party to a bill receives due notice of dishonour he has, after the receipt of such notice, the same period of time for giving notice to antecedent parties that the holder has after the dishonour;
+(o) where a party to a bill receives due notice of dishonour he has, after the receipt of such notice, the same period of time for giving notice to antecedent parties that the holder has after the dishonour;
 
-(o) where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
+(p) where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
+
+[22/2002]

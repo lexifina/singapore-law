@@ -1,10 +1,10 @@
-# 88. Promissory note defined
-Part: PART IV PROMISSORY NOTES
+# 88. Saving Special provisions relating to cheque truncation
+Part: PART III CHEQUES DRAWN ON BANKER
 
-(1) A promissory note is an unconditional promise in writing made by one person to another signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money, to, or to the order of, a specified person or to bearer.
+Sections 83 to 87 do not make negotiable any instrument which apart from those sections is not negotiable.
 
-(2) An instrument in the form of a note payable to maker’s order is not a note within the meaning of this section unless it is indorsed by the maker.
+[87
 
-(3) A note is not invalid by reason only that it contains also a pledge of collateral security with authority to sell or dispose thereof.
+[Cf. UK Cheques Act, 1957 s. 6]
 
-(4) A note which is, or on the face of it purports to be, both made and payable within Singapore is an inland note. Any other note is a foreign note.
+Special provisions relating to cheque truncation

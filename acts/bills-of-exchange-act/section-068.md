@@ -3,7 +3,7 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill has been protested for non-payment, any person may intervene and pay it supra protest for the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
 
-(2) Where two or more persons offer to pay a bill for the honour of different parties, the person whose payment will discharge most parties to the bill shall have the preference.
+(2) Where 2 or more persons offer to pay a bill for the honour of different parties, the person whose payment will discharge most parties to the bill shall have the preference.
 
 (3) Payment for honour supra protest, in order to operate as such and not as a mere voluntary payment, must be attested by a notarial act of honour which may be appended to the protest or form an extension of it.
 
@@ -13,7 +13,7 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (6) The payer for honour on paying to the holder the amount of the bill and the notarial expenses incidental to its dishonour is entitled to receive both the bill itself and the protest.
 
-(7) If the holder does not on demand deliver them up he shall be liable to the payer for honour in damages.
+(7) If the holder does not on demand deliver them up, he shall be liable to the payer for honour in damages.
 
 (8) Where the holder of a bill refuses to receive payment supra protest, he shall lose his right of recourse against any party who would have been discharged by such payment.
 

@@ -1,10 +1,16 @@
-# 82. Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.
+# 82. Non-transferable cheques Special provisions relating to indorsement, etc.
 Part: PART III CHEQUES DRAWN ON BANKER
 
-(1) Where a banker in good faith and in the ordinary course of business pays a cheque drawn on him which is not indorsed or is irregularly indorsed, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and he is deemed to have paid it in due course.
+(1) Where a cheque is crossed and bears across its face the words ‘‘account payee’’ or ‘‘a/c payee’’, either with or without the word ‘‘only’’, the cheque shall not be transferable, but shall only be valid as between the parties thereto.
 
-(2) Where a banker in good faith and in the ordinary course of business pays any such instrument as the following:
+[34/92]
 
-(a) a document issued by a customer of his which, though not a bill of exchange, is intended to enable a person to obtain payment from him of the sum mentioned in the document;
+(2) For the purposes of section 80, a banker is not to be treated as having been negligent by reason only of his failure to concern himself with any purported indorsement of a cheque which under subsection (1) or otherwise is not transferable.
 
-(b) a draft payable on demand drawn by him upon himself, whether payable at the head office or some other office of his bank, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and the payment discharges the instrument.
+[81A
+
+[34/92]
+
+[Cf. UK BEA, 1882 s. 81A]
+
+Special provisions relating to indorsement, etc.

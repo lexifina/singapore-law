@@ -5,6 +5,8 @@ In this Act, unless the context otherwise requires —
 
 ‘‘acceptance’’ means an acceptance completed by delivery or notification;
 
+‘‘Authority’’ means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
+
 ‘‘bank holiday’’ and ‘‘public holiday’’ respectively include any day declared to be such under any written law for the time being in force and includes any day (other than a Sunday) observed as a weekly holiday;
 
 ‘‘banker’’ includes a body of persons, whether incorporated or not, who carry on the business of banking;
@@ -31,7 +33,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘value’’ means valuable consideration.
 
-[11/70]
+[11/70; 22/2002]
 
 PART II
 

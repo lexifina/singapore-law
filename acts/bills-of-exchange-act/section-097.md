@@ -1,16 +1,12 @@
-# 97. Computation of time
-Part: PART V SUPPLEMENTARY
+# 97. Liability of maker
+Part: PART IV PROMISSORY NOTES
 
-(1) Where, by this Act, the time limited for doing any act or thing is less than 3 days, in reckoning time non-business days shall be excluded.
+The maker of a promissory note by making it —
 
-(2) For the purposes of this Act, ‘‘non-business days’’ means —
+(a) engages that he will pay it according to its tenor;
 
-(a) Sundays;
+(b) is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
 
-(b) bank or public holidays; and
+[93
 
-(c) in the case of bills other than Singapore bills or bills prescribed by the Minister under sub-paragraph (i) of the proviso to section 14 (a) — Saturday.
-
-(3) Any other day is a business day.
-
-[11/70]
+[Cf. UK BEA, 1882 s. 88]

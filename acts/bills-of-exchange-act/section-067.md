@@ -9,4 +9,4 @@ where the address of the acceptor for honour is in some place other than the pla
 
 (3) Delay in presentment or non-presentment is excused by any circumstance which would excuse delay in presentment for payment or non-presentment for payment.
 
-(4) When a bill of exchange is dishonoured by the acceptor for honour it must be protested for non-payment by him.
+(4) When a bill of exchange is dishonoured by the acceptor for honour, it must be protested for non-payment by him.

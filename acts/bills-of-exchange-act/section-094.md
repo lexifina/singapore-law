@@ -1,18 +1,10 @@
-# 94. Application of Part II to notes
+# 94. Joint and several notes
 Part: PART IV PROMISSORY NOTES
 
-(1) Subject to the provisions in this Part, and except as by this section provided, the provisions of this Act relating to bills of exchange apply, with the necessary modifications, to promissory notes.
+(1) A promissory note may be made by 2 or more makers, and they may be liable thereon jointly, or jointly and severally according to its tenor.
 
-(2) In applying those provisions the maker of a note shall be deemed to correspond with the acceptor of a bill, and the first indorser of a note shall be deemed to correspond with the drawer of an accepted bill payable to drawer’s order.
+(2) Where a note runs ‘‘I promise to pay’’ and is signed by 2 or more persons it is deemed to be their joint and several note.
 
-(3) The following provisions as to bills do not apply to notes, namely, provisions relating to:
+[90
 
-(a) presentment for acceptance;
-
-(b) acceptance;
-
-(c) acceptance supra protest;
-
-(d) bills in a set.
-
-(4) Where a foreign note is dishonoured, protest thereof is unnecessary.
+[Cf. UK BEA, 1882 s. 85]

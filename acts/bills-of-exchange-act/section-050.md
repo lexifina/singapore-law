@@ -3,7 +3,7 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (1) Delay in giving notice of dishonour is excused where the delay is caused by circumstances beyond the control of the party giving notice, and not imputable to his default, misconduct or negligence.
 
-(2) When the cause of delay ceases to operate the notice must be given with reasonable diligence.
+(2) When the cause of delay ceases to operate, the notice must be given with reasonable diligence.
 
 (3) Notice of dishonour is dispensed with —
 

@@ -1,6 +1,8 @@
-# 99. When noting equivalent to protest
+# 99. Good faith
 Part: PART V SUPPLEMENTARY
 
-For the purposes of this Act, where a bill or note is required to be protested within a specified time or before some further proceeding is taken, it is sufficient that the bill has been noted for protest before the expiration of the specified time or the taking of the proceeding; and the formal protest may be extended at any time thereafter as of the date of the noting.
+A thing is deemed to be done in good faith, within the meaning of this Act, where it is in fact done honestly, whether it is done negligently or not.
 
-[98
+[95
+
+[Cf. UK BEA, 1882 s. 90]

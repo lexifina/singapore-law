@@ -1,8 +1,8 @@
-# 93. Liability of maker
+# 93. Delivery necessary
 Part: PART IV PROMISSORY NOTES
 
-The maker of a promissory note by making it —
+A promissory note is inchoate and incomplete until delivery thereof to the payee or bearer.
 
-(a) engages that he will pay it according to its tenor;
+[89
 
-(b) is precluded from denying to a holder in due course the existence of the payee and his then capacity to indorse.
+[Cf. UK BEA, 1882 s. 84]

@@ -1,8 +1,14 @@
-# 96. Signature
-Part: PART V SUPPLEMENTARY
+# 96. Presentment of note for payment
+Part: PART IV PROMISSORY NOTES
 
-(1) Where, by this Act, any instrument or writing is required to be signed by any person, it is not necessary that he should sign it with his own hand, but it is sufficient if his signature is written thereon by some other person by or under his authority.
+(1) Where a promissory note is in the body of it made payable at a particular place, it must be presented for payment at that place in order to render the maker liable.
 
-(2) In the case of a corporation, where, by this Act, any instrument or writing is required to be signed, it is sufficient if the instrument or writing be sealed with the corporate seal.
+(2) In any other case, presentment for payment is not necessary in order to render the maker liable.
 
-(3) Nothing in this section shall be construed as requiring the bill or note of a corporation to be under seal.
+(3) Presentment for payment is necessary in order to render the indorser of a note liable.
+
+(4) Where a note is in the body of it made payable at a particular place, presentment at that place is necessary in order to render an indorser liable; but when a place of payment is indicated by way of memorandum only, presentment at that place is sufficient to render the indorser liable, but a presentment to the maker elsewhere, if sufficient in other respects, shall also suffice.
+
+[92
+
+[Cf. UK BEA, 1882 s. 87]
