@@ -1,0 +1,3 @@
+# 16. Amendment of section 38
+
+Section 38(2) of the principal Act is amended by inserting, immediately after the words “enter in the register” in paragraph (a), the words “, within 7 days after the date of the change,”.
