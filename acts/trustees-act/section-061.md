@@ -1,0 +1,10 @@
+# 61. Power to make beneficiary indemnify for breach of trust Payment into Court
+Part: PART V POWERS OF COURT
+
+(1) Where a trustee commits a breach of trust at the instigation or request or with the consent in writing of a beneficiary, the court may, if it thinks fit, and notwithstanding that the beneficiary may be a married woman restrained from anticipation, make such order as to the court seems just, for impounding all or any part of the interest of the beneficiary in the trust estate by way of indemnity to the trustee or persons claiming through him.
+
+(2) This section shall apply to breaches of trust committed as well before as on or after 1st September 1929.
+
+[64
+
+Payment into Court

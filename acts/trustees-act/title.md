@@ -1,0 +1,31 @@
+TRUSTEES ACT
+(CHAPTER 337)
+Act
+17 of 1967
+Amended by
+42 of 1967
+39 of 1970
+1970 Ed. Cap. 40
+Amended by
+10 of 1975
+8 of 1978
+21 of 1982
+1985 Ed. Cap. 337
+Amended by
+9 of 1987
+39 of 1989
+24 of 1991
+23 of 1992
+7 of 1997
+S 231/96
+S 44/98
+S 322/99
+REVISED EDITION 1999
+(1st August 1999)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+
+
+
+An Act relating to trustees.
+
+[15th July 1967]
