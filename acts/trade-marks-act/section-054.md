@@ -1,0 +1,34 @@
+# 54. Power to make provision giving effect to Madrid Protocol, etc. The Paris Convention and the TRIPS Agreement: supplementary provisions
+Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
+
+(1) The Minister may make rules to give effect in Singapore to the provisions of the Madrid Protocol or of any treaty, convention, arrangement or engagement relating to trade marks to which Singapore is a party.
+
+(2) Rules may, in particular, be made to provide for —
+
+(a) the making of applications for international registrations by way of the Registry as office of origin;
+
+(b) the procedures to be followed where the basic Singapore application or registration fails or ceases to be in force;
+
+(c) the procedures to be followed where the Registry receives from the International Bureau or any body specified in the rules a request for extension of protection to Singapore;
+
+(d) the effects of a successful request for extension of protection to Singapore;
+
+(e) the transformation of an application for an international registration, or an international registration, into a national application for registration;
+
+(f) the communication of information to the International Bureau; and
+
+(g) the payment of fees and amounts prescribed in respect of applications for international registrations, extensions of protection and renewals.
+
+(3) Provision may also be made in the rules to apply in relation to an international trade mark (Singapore) the provisions of section 35 and Parts VI and X.
+
+(4) For the purposes of this section —
+
+‘‘International Bureau’’ has the meaning given by Article 2 (1) of the Madrid Protocol;
+
+‘‘international trade mark (Singapore)’’ means a trade mark which is entitled to protection in Singapore under the Madrid Protocol or a trade mark prescribed by the Minister as an international trade mark (Singapore);
+
+‘‘Madrid Protocol’’ means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time.
+
+The Paris Convention and the TRIPS Agreement:
+
+supplementary provisions

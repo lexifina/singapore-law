@@ -1,0 +1,20 @@
+# 59. Acts of agent or representative: Article 6septies of the Paris Convention, etc.
+Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
+
+(1) Subsections (2) to (6) shall apply where an application for registration of a trade mark is made by a person who is an agent or representative of a person who is the proprietor of the trade mark in a Convention country.
+
+(2) If the proprietor opposes the application, registration shall be refused.
+
+(3) If the application (not being so opposed) is granted, the proprietor may —
+
+(a) apply for a declaration of the invalidity of the registration; or
+
+(b) apply for the rectification of the register so as to substitute his name as the proprietor of the registered trade mark.
+
+(4) The proprietor may (notwithstanding the rights conferred by this Act in relation to a registered trade mark) by injunction restrain any use in the course of trade of the trade mark in Singapore which is not authorised by him.
+
+(5) Subsections (2), (3) and (4) shall not apply if, or to the extent that, the agent or representative justifies his action.
+
+(6) An application under subsection (3) (a) or (b) must be made within 3 years of the proprietor becoming aware of the registration.
+
+(7) No injunction shall be granted under subsection (4) in respect of a use in which the proprietor has acquiesced for a continuous period of 3 years or more.
