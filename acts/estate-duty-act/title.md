@@ -1,0 +1,34 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+ESTATE DUTY ACT
+(CHAPTER 96)
+Ordinance
+11 of 1929
+Reprint 17 of 1966
+1970 Ed. Cap. 137 1985 Ed. Cap. 96
+Amended by Amended by
+48 of 1970 3 of 1987
+16 of 1974 27 of 1987
+19 of 1976 27 of 1996
+12 of 1978 7 of 1997
+10 of 1980 S 8/96
+11 of 1981 S 460/96
+2 of 1983
+1997 Ed. Cap. 96
+14 of 1984
+S 316/80 Amended by
+42 of 1998
+30 of 2000
+REVISED EDITION 2001
+(31st July 2001)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2001
+
+
+
+An Act to provide for the levy of estate duty payable in respect of the estates of deceased persons.
+
+[1st July 1929]
