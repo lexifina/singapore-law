@@ -9,7 +9,7 @@ Part: PART XIII SEARCH, SEIZURE AND ARREST
 
 [23/93]
 
-(3) Whenever any goods, vehicles, vessels or aircraft are seized under this Act, the seizing officer shall forthwith give notice in writing of the seizure and the grounds thereof to the owner of the goods, vehicles, vessels or aircraft, if known, either by delivering the notice to him personally or by post at his place of abode, if known.
+(3) Whenever any goods, vehicles, vessels or aircraft are seized under this Act, the seizing officer shall immediately give notice in writing of the seizure and the grounds thereof to the owner of the goods, vehicles, vessels or aircraft, if known, either by delivering the notice to him personally or by post at his place of abode, if known.
 
 (4) The notice referred to in subsection (3) shall not be required to be given where the seizure is made on the person, or in the presence of the offender or the owner or his agent, or in the case of a vessel or an aircraft, in the presence of the master or pilot, as the case may be.
 
@@ -23,7 +23,7 @@ and
 
 (c) the seizure of conveyances shall apply to all equipment thereof and to any animal by which the same is drawn.
 
-(6) Any goods of a perishable nature or any animal or bird seized under this section may be sold forthwith and the proceeds of sale held to abide the result of any prosecution or claim.
+(6) Any goods of a perishable nature or any animal or bird seized under this section may be sold immediately and the proceeds of sale held to abide the result of any prosecution or claim.
 
 (7) Any goods which are of a dangerous character or which cannot be removed without undue expense may be destroyed on the instructions of a senior officer of customs.
 

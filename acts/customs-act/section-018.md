@@ -1,9 +1,15 @@
 # 18. Recovery of special tax in arrears
 Part: PART III LEVYING OF DUTY AND TAX
 
-(1) Any sum payable in respect of the special tax levied under section 17 which remains due and unpaid on the day when it should have been paid in advance shall be deemed to be in arrears for the purposes of this section and may be recovered in the manner hereinafter provided.
+(1) Any sum payable in respect of the special tax levied under section 17 which remains due and unpaid on the day when it should have been paid in advance shall be deemed to be in arrears for the purposes of this section and may be recovered in the manner as provided in this Act.
 
-(2) For the recovery of arrears of the special tax, the Registrar may seize and sell or otherwise dispose of any vehicle in respect of which the special tax is in arrears and shall apply the proceeds of the sale in satisfaction of the arrears and all licence fees and other taxes due and owing in respect of the vehicle under any other written law and shall refund the balance thereof (if any) to the owner of the seized vehicle.
+(2) For the recovery of arrears of the special tax, the Registrar —
+
+(a) may seize and sell or otherwise dispose of any vehicle in respect of which the special tax is in arrears;
+
+(b) shall apply the proceeds of the sale in satisfaction of the arrears and all licence fees and other taxes due and owing in respect of the vehicle under any other written law; and
+
+(c) shall refund the balance thereof (if any) to the owner of the seized vehicle.
 
 [10/92]
 
@@ -11,7 +17,7 @@ Part: PART III LEVYING OF DUTY AND TAX
 
 [10/92]
 
-(4) Whenever any vehicle is seized under this section, the Registrar shall forthwith give notice in writing of the seizure and the ground thereof to the owner of the vehicle, either by delivering the notice to him personally or by post at his place of abode.
+(4) When any vehicle is seized under this section, the Registrar shall immediately give notice in writing of the seizure and the ground thereof to the owner of the vehicle, either by delivering the notice to him personally or by post at his place of abode.
 
 (5) The purchaser of a vehicle sold by the Registrar under this section shall be deemed to have acquired a good title to the vehicle free from all encumbrances created over it.
 

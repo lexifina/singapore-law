@@ -13,7 +13,7 @@ Part: PART XII MISCELLANEOUS PROVISIONS
 
 (ii) by sending the notice or document addressed to the body of persons or company at its registered office or principal place of business; or
 
-(d) by an electronic notice transmitted in accordance with section 90A.
+(d) by an electronic notice transmitted in accordance with section 86.
 
 [23/93; 24/96]
 

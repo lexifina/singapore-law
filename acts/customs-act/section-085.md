@@ -1,4 +1,8 @@
-# 85. Permit to tap for toddy for sale by wholesale
-Part: PART XI TODDY
+# 85. Documents to be produced on demand
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-The Director-General may issue to any person, to whom a contract has been awarded for the supply to the Director-General of toddy by wholesale, a permit to tap for toddy a specified number of palm trees growing on specified lands and may subject the permit to any conditions he may consider fit.
+(1) On demand by the proper officer of customs, the importer or exporter of any dutiable goods or his agent shall produce to that officer all invoices, bills of lading, certificates of origin or of analysis and any other documents, which that officer may require to test the accuracy of any declaration made by the importer or exporter to any officer of customs.
+
+(2) On demand by a senior officer of customs, the importer or exporter of any dutiable goods or his agent shall produce to that officer all books of accounts, invoices, bills of lading, certificates of origin, or of insurance or of analysis and any other documents including documents on terms of trade relating to the purchase, importation or sale of the goods by the importer or exporter or his agent.
+
+[90

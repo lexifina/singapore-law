@@ -1,13 +1,13 @@
 # 79. Drawback on imported goods on which duty has been paid
 Part: PART IX DRAWBACK
 
-(1) This section and sections 80, 81 and 132 shall apply to all goods which have become dutiable by virtue of an order published under section 10 (1).
+(1) This section and sections 80, 81 and 134 shall apply to all goods which have become dutiable by virtue of an order published under section 10 (1).
 
 (2) This section shall not apply to goods affected —
 
 (a) by section 13, unless the Minister otherwise directs; or
 
-(b) by section 16 or 28.
+(b) by section 15 or 28.
 
 (3) When any goods, referred to in subsection (1), upon which customs duty or excise duty has been paid and not drawn back are re-exported, the whole or such proportion of the duty paid as the Minister may prescribe calculated in accordance with subsection (4) may, in the discretion of the Director-General, be repaid as drawback, if —
 

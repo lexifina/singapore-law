@@ -1,7 +1,13 @@
 # 94. Proper officer of customs may take samples
 Part: PART XII MISCELLANEOUS PROVISIONS
 
-(1) The proper officer of customs may at any time, if his duties so require, take samples of any goods to ascertain whether they are goods of a description liable to any customs duty or excise duty, or to ascertain the customs duty or excise duty payable on the goods or for such other purposes as the proper officer of customs may consider necessary.
+(1) The proper officer of customs may at any time, if his duties so require, take samples of any goods —
+
+(a) to ascertain whether they are goods of a description liable to any customs duty or excise duty;
+
+(b) to ascertain the customs duty or excise duty payable on the goods; or
+
+(c) for such other purposes as the proper officer of customs may consider necessary.
 
 [33/2000]
 

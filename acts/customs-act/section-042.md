@@ -13,7 +13,11 @@ Part: PART IV IMPORTATION AND EXPORTATION
 
 [23/93]
 
-(3) Notwithstanding the provisions of any written law to the contrary, where dutiable goods have been received for storage by the authority administering the free trade zone or the occupier or operator of the premises in which the goods are stored, as the case may be, the authority, occupier or operator shall be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
+(3) Notwithstanding the provisions of any written law to the contrary, where dutiable goods have been received for storage by —
+
+(a) the authority administering the free trade zone; or
+
+(b) the occupier or operator of the premises in which the goods are stored, the authority, occupier or operator shall be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
 
 [23/93]
 

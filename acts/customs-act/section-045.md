@@ -5,6 +5,6 @@ If in any vessel, aircraft or train in Singapore the quantity of dutiable goods,
 
 (a) unless the contrary is proved, be deemed to have illegally removed those goods and landed them in Singapore; and
 
-(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty or excise duty has been paid.
+(b) without prejudice to any proceedings under this Act, be liable to pay immediately to the proper officer of customs the duty leviable on the goods found deficient or missing and the vessel, aircraft or train may be detained by the proper officer of customs until the customs duty or excise duty has been paid.
 
 [23/93; 29/98; 33/2000]

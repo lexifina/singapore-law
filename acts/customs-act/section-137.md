@@ -5,6 +5,8 @@ Any person who —
 
 (a) assaults, abuses or obstructs any officer of customs or other public servant or any person acting in his aid or assistance, or duly employed for the prevention of offences under this Act in the execution of his duty or in the due seizing of any goods liable to seizure under this Act;
 
+*The minimum amount of motor spirit in the fuel supply tank of a motor vehicle referred to in section 136 (1) shall be three-quarters of the total capacity of the fuel supply tank. See O 6, Cap. 70 with effect from 4th February 1991.
+
 (b) rescues or endeavours to rescue, or causes to be rescued, anything which has been duly seized;
 
 (c) before or after any seizure, staves, breaks or otherwise destroys any package or goods to prevent the seizure thereof or the securing of the same; or

@@ -6,7 +6,11 @@
 
 3. Act 2 of 1966 — Customs (Amendment) Act 1966 Date of First Reading : 23.2.66 (Bill No. 16/66) Date of Second and Third Readings : 23.2.66 Date of commencement : 9.8.65 (sections 5, 6, 7, 8, 9, 15, 17, 18, 25, 30 and 43 (a) and (d)) 1.3.66 (remaining provisions of the Act) 4. Act 31 of 1966 — Customs (Amendment No. 2) Act 1966 Date of First Reading : 17.8.66 (Bill No. 30/66 published on 17.8.66) Date of Second and Third Readings : 26.8.66 Date of commencement : 1.9.69 5. Act 40 of 1968 — Customs (Amendment) Ordinance 1968 Date of First Reading : 3.12.68 (Bill No. 38/68 published on 23.2.66) Date of Second and Third Readings : 23.12.68 Date of commencement : 2.1.69
 
-6. Act 50 of 1970 — Customs (Amendment) Act 1970 Date of First Reading : 4.11.70 (Bill No. 50/70 published on 9.11.70) Date of Second and Third Readings : 30.12.70 Date of commencement : 1.2.71 LEGISLATIVE HISTORY CUSTOMS ACT (CHAPTER 70)
+6. Act 50 of 1970 — Customs (Amendment) Act 1970 Date of First Reading : 4.11.70 (Bill No. 50/70 published on 9.11.70) Date of Second and Third Readings : 30.12.70 Date of commencement : 1.2.71
+
+This Legislative History is provided for the convenience of users of the Customs Act. It is not part of the Customs Act.
+
+LEGISLATIVE HISTORY CUSTOMS ACT (CHAPTER 70)
 
 7. Act 18 of 1971 — Customs (Amendment) Act 1971 Date of First Reading : 2.12.71 (Bill No. 28/71 published on 2.12.71) Date of Second and Third Readings : 2.12.71 Date of commencement : 3.12.71
 
@@ -39,3 +43,5 @@
 21. Act 33 of 2000 — Customs (Amendment) Act 2000 Date of First Reading : 13.11.2000 (Bill No. 33/2000 published on 13.11.2000) Date of Second and Third Readings : 22.11.2000 Date of commencement : 1.1.2001
 
 22. Act 4 of 2001 — Health Sciences Authority Act 2001 (Consequential amendments made by) Date of First Reading : 12.1.2001 (Bill No. 3/2001 published on 13.1.2001) Date of Second and Third Readings : 22.2.2001 Date of commencement : 1.4.2001
+
+23. Act 4 of 2003 — Customs (Amendment) Act 2003 Date of First Reading : 10.3.2003 (Bill No. 6/2003 published on 11.3.2003) Date of Second and Third Readings : 21.3.2003 Date of commencement : 1.4.2003

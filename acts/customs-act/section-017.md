@@ -31,7 +31,11 @@ Part: PART III LEVYING OF DUTY AND TAX
 
 [10/92]
 
-(6) No motor vehicle to which this section applies shall be used after the latest date appointed for payment of the special tax until the tax has been paid and no such vehicle shall be used during any period in respect of which a refund of any such tax has been made.
+(6) No motor vehicle to which this section applies shall be used —
+
+(a) after the latest date appointed for payment of the special tax until the tax has been paid; and
+
+(b) during any period in respect of which a refund of any such tax has been made.
 
 (7) If any motor vehicle to which this section applies is knowingly used in contravention of subsection (6), the person driving the vehicle or the owner thereof shall be guilty of an offence.
 

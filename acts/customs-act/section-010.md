@@ -9,8 +9,8 @@ Part: PART III LEVYING OF DUTY AND TAX
 
 [33/2000]
 
-(3) Without prejudice to any other remedy, any customs duty or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Minister as a civil debt due to the Government.
+(3) Without prejudice to any other remedy, any customs duty or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Director-General as a civil debt due to the Government.
 
-[23/93; 33/2000]
+[23/93; 33/2000; 4/2003]
 
 (4) All amounts collected as duties, taxes, fees and other charges under this Act shall be paid into the Consolidated Fund.

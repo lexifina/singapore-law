@@ -11,7 +11,7 @@ Part: PART VI WAREHOUSING
 
 (a) in the absence of proof to the contrary, be presumed to have illegally removed the goods; and
 
-(b) without prejudice to any proceedings under this Act, be liable to pay forthwith to the proper officer of customs the duty leviable on the goods found deficient.
+(b) without prejudice to any proceedings under this Act, be liable to pay immediately to the proper officer of customs the duty leviable on the goods found deficient.
 
 (5) If, it is shown to the satisfaction of the Director-General that the deficiency has been caused by theft or by unavoidable leakage, breakage or other accident, or by evaporation, the Director-General may remit the whole or any part of the duty leviable on the goods found deficient.
 

@@ -1,7 +1,7 @@
 # 126. Composition of offences
 Part: PART XIV PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
-(1) Any senior officer of customs may compound any offence which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $5,000.
+(1) Any senior officer of customs may compound any offence under this Act which is prescribed to be a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
 [23/93]
 

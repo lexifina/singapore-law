@@ -13,6 +13,8 @@ Part: PART VIII SALE OF INTOXICATING LIQUORS
 
 (4) Subject to section 72 (2), the delivery of intoxicating liquors in quantities of 30 litres or less shall, in any proceedings under this Act, be taken to be prima facie evidence of sale by retail and that money or other consideration was given for the same.
 
+[S 270/71]
+
 (5) The Minister may, by order published in the Gazette, exempt any person from subsection (1), subject to such conditions as the Minister may consider fit to impose.
 
 [33/2000]

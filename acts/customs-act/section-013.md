@@ -9,11 +9,13 @@ Part: PART III LEVYING OF DUTY AND TAX
 
 (a) exempt any person from the payment of the whole or any part of the customs duties , excise duties, taxes, fees or other charges which may be payable by that person; or
 
-(b) direct the refund to any person of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which have been paid by that person.
+(b) direct the remission or refund of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
 
-[33/2000]
+[33/2000; 4/2003]
 
-(3) In granting an exemption or directing a refund, the Minister may impose such conditions as he may consider fit.
+(3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions as he may consider fit.
+
+[4/2003]
 
 (4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
 

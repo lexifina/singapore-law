@@ -1,7 +1,7 @@
 # 143. Power to make regulations
 Part: PART XVI REGULATIONS
 
-(1) The Minister may make regulations —
+(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and, in particular, may make regulation —
 
 (a) to regulate the powers and duties to be exercised and performed by officers of customs;
 
@@ -23,45 +23,39 @@ Part: PART XVI REGULATIONS
 
 (j) to prescribe the manner and method of payment of any duty payable or chargeable under this Act;
 
-(k) to prescribe the flag to be flown by vessels employed for the prevention of smuggling of dutiable goods;
+(k) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed factory warehouse or licensed warehouse or bottling warehouse may be open for business;
 
-(l) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed factory warehouse or licensed warehouse or bottling ware- house may be open for business;
+(l) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed factory warehouses and licensed warehouses and bottling warehouses and the management and control of the same;
 
-(m) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed factory ware- houses and licensed warehouses and bottling warehouses and the management and control of the same;
+(m) to prescribe the amount to be paid as warehouse rent on goods deposited in a Government warehouse;
 
-(n) to prescribe the amount to be paid as warehouse rent on goods deposited in a Government warehouse;
+(n) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse, licensed factory warehouse or licensed warehouse;
 
-(o) to prescribe the manner in which intoxicating liquor shall be denatured in a Government warehouse, licensed factory warehouse or licensed warehouse;
+(o) to regulate the erection, inspection, supervision, management and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
 
-(p) to regulate the erection, inspection, supervision, manage- ment and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
+(p) to regulate the hours during which manufacture may or may not take place and during which goods may be removed from a distillery, brewery or tobacco or other factory;
 
-(q) to regulate the hours during which manufacture may or may not take place and during which goods may be removed from a distillery, brewery or tobacco or other factory;
+(q) to regulate the blending, compounding, varying and bottling of intoxicating liquors in bottling warehouses and to fix the fees to be paid for bottling dutiable intoxicating liquor;
 
-(r) to prescribe what accommodation the distiller, brewer or other manufacturer shall provide free of cost for such officers of customs as the Director-General may consider to be necessary for the control of the distillery, brewery or tobacco or other factory;
+(r) to prescribe the books to be kept by licensees, other than licensees under Part VIII;
 
-(s) to regulate the blending, compounding, varying and bottling of intoxicating liquors in bottling warehouses and to fix the fees to be paid for bottling dutiable intoxicating liquor;
+(s) to regulate the grant and transfer of licences other than licences under Part VIII;
 
-(t) to prescribe the books to be kept by licensees, other than licensees under Part VIII;
+(t) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
 
-(u) to regulate the grant and transfer of licences other than licences under Part VIII;
+(u) to regulate the proceedings of the Liquors Licensing Board, the election of their members, the grant and transfer of licences under their authority and the fees for the licences or transfers of licences;
 
-(v) to prescribe the rates of overtime fees to be paid when officers of customs are required to work beyond the ordinary hours prescribed and the conditions under which the overtime shall be permitted;
+(v) to regulate the management of premises licensed by the Liquors Licensing Board;
 
-(w) to regulate the proceedings of the Liquors Licensing Board, the election of their members, the grant and transfer of licences under their authority and the fees for the licences or transfers of licences;
+(w) to prescribe the fees to be paid for the survey of dutiable goods;
 
-(x) to regulate the management of premises licensed by the Liquors Licensing Board;
+(x) to prescribe the offences which may be compounded and the manner in which, and the officers of customs by whom, they may be compounded;
 
-(y) to prescribe the fees to be paid for the survey of dutiable goods;
+(y) to prescribe penalties for any contravention or failure to comply with any of the provisions of the regulations made under this section except that no such penalty shall exceed the penalty prescribed under section 139; and
 
-(z) to prescribe the offences which may be compounded and the manner in which, and the officers of customs by whom, they may be compounded;
+(z) to prescribe anything which is to be or may be prescribed under the provisions of this Act.
 
-(za) to prescribe penalties for any contravention or failure to comply with any of the provisions of the regulations made under this section except that no such penalty shall exceed the penalty prescribed under section 139;
-
-(zb) to prescribe anything which is to be or may be prescribed under the provisions of this Act; and
-
-(zc) generally to give effect to this Act.
-
-[23/93; 24/96]
+[23/93; 24/96; 4/2003]
 
 (2) All regulations and orders made under this Act shall be presented to Parliament as soon as possible after publication in the Gazette.
 

@@ -5,8 +5,6 @@ Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68), the per
 
 Where the fine The period may extend to
 
-does not exceed $50 2 months exceeds $50 but does not exceed $100 4 months exceeds $100 but does not exceed $200 6 months
-
-with one additional month for every $100 after the first $200 of the fine until a maximum period of 6 years is reached.
+does not exceed $50 2 months exceeds $50 but does not exceed $100 4 months exceeds $100 but does not exceed $200 6 months with one additional month for every $100 after the first $200 of the fine until a maximum period of 6 years is reached.
 
 [24/96]

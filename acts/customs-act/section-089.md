@@ -1,24 +1,34 @@
-# 89. Supply of toddy for manufacture of other products or for bottling toddy for retail sale
-Part: PART XI TODDY
+# 89. Information not to be published or disclosed
+Part: PART XII MISCELLANEOUS PROVISIONS
 
-(1) Notwithstanding sections 84 and 87, the Director-General may permit the supply of toddy solely for use in the manufacture of other products or for the purpose of bottling toddy in a modified form (referred to in this section as bottled toddy) for retail sale in premises so authorised by him or in Government Toddy Shops or in both such premises and shops, and for export.
+(1) No particulars, information or document furnished for the purposes of this Act shall, unless with the prior consent in writing of the person having the control, management or superintendence of the goods in relation to which the same was given or furnished —
 
-(2) Any permission granted by the Director-General under subsection (1) shall be subject to such conditions as he may consider fit to impose.
+(a) be published; or
 
-(3) The supply of toddy for use in the manufacture of other products or for the purpose of bottling shall be by a person to whom a contract has been awarded, and the quantity of toddy supplied shall be determined by the Director-General.
+(b) be communicated or disclosed to any person, except where it is necessary for the purposes of —
 
-(4) The Director-General may issue to the person referred to in subsection (3) a permit to tap toddy subject to section 85.
+(i) a prosecution under this Act or the Goods and Services Tax Act (Cap. 117A);
 
-(5) It shall be lawful for the Minister to grant a franchise for the bottling of toddy for retail sale or for export to a person who shall receive his supply of toddy from the contractor who has been awarded a contract under subsection (3).
+(ii) enabling an officer of customs to enforce a provision of this Act;
 
-(6) Any toddy received by the person granted the franchise shall be used only for bottling and for no other purpose.
+(iii) enabling the Comptroller of Goods and Services Tax or an officer of customs to enforce a provision of the Goods and Services Tax Act;
 
-(7) Any senior officer of customs may —
+(iv) enabling an officer of customs to investigate a suspected offence under this Act; or
 
-(a) inspect any factory permitted to use toddy for the manufacture of other products or for manufacturing bottled toddy; and
+(v) enabling the Comptroller of Goods and Services Tax or an officer of customs to investigate a suspected offence under the Goods and Services Tax Act.
 
-(b) examine any documents or accounts relating to the manufacture and to the removal of the manufactured products from the premises of the factory and to subsequent sales thereof.
+[24/96]
 
-(8) The Minister shall fix the price at which bottled toddy may be sold by retail.
+(2) Any officer of customs or any person employed or engaged in the administration of this Act who makes use of, publishes or permits any other person to see or communicates or discloses to any other person the contents of any such particulars, information or document to any other person otherwise than with such consent or for such purpose as is referred to in subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(9) The Director-General may subject any premises authorised to sell bottled toddy to such control as he considers necessary to ensure proper sales, and in so doing he may require the premises to be registered.
+[24/96]
+
+(3) Any person, having possession of any information which to his knowledge has been communicated, disclosed or published in contravention of this section, who publishes or communicates that information to any other person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[24/96]
+
+(4) In this section, ‘‘Comptroller’’, in relation to Goods and Services Tax, has the same meaning as in the Goods and Services Tax Act (Cap. 117A).
+
+[90D
+
+[24/96]

@@ -19,15 +19,23 @@ Part: PART IV IMPORTATION AND EXPORTATION
 
 (a) by an authority administering a free trade zone of any dutiable goods from a vessel directly into the free trade zone, if a full and correct inward manifest as required under section 39 has been furnished to the proper officer of customs;
 
-(b) of dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed $300 or such other amount as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
+(b) of dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed such amount as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
 
-(c) of an amount not exceeding 10 litres of intoxicating liquors and 2 kilogrammes of tobacco in the possession or in the baggage of any person arriving in Singapore;
+(c) of intoxicating liquors or tobacco of such type and quantity as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
 
-(d) of petroleum carried in the fuel supply tank or in a spare container of not more than 10 litres capacity of a motor vehicle or in the fuel supply tanks of aircraft for use in the propulsion thereof; and
+(d) of petroleum for use in the propulsion of a motor vehicle or an aircraft which —
+
+(i) in relation to a motor vehicle —
+
+(A) is carried in the fuel supply tank of the motor vehicle; or
+
+(B) is of such amount as the Minister may by order prescribe and which is carried in a spare container of the motor vehicle; and
+
+(ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft; and
 
 (e) of dutiable goods imported by post unless so required by the proper officer of customs.
 
-[23/93]
+[23/93; 4/2003]
 
 (3) The Director-General may, subject to such conditions as he may impose, authorise any person to remove, without a permit, goods of a class dutiable on import intended for transhipment or in transit —
 

@@ -1,7 +1,7 @@
 # 101. Issue of search warrant
 Part: PART XIII SEARCH, SEIZURE AND ARREST
 
-(1) Whenever it appears to any Magistrate, or any senior officer of customs not below the rank of Senior Superintendent of Customs and Excise, upon information and after any inquiry which he may think necessary, that there is reasonable cause to believe that in any dwelling-house, shop or other building or place, there are concealed or deposited any —
+(1) Where it appears to any Magistrate, or any senior officer of customs not below the rank of Assistant Director-General of Customs, upon information and after any inquiry which he may think necessary, that there is reasonable cause to believe that in any dwelling-house, shop or other building or place, there are concealed or deposited any —
 
 (a) dutiable or uncustomed goods;
 
@@ -17,7 +17,7 @@ Part: PART XIII SEARCH, SEIZURE AND ARREST
 
 (iii) to make copies of and take any reasonable steps to preserve any books, records, documents or other articles referred to in sub-paragraph (i).
 
-[23/93; 24/96]
+[23/93; 24/96; 4/2003]
 
 (2) Such officer may if it is necessary to do so —
 

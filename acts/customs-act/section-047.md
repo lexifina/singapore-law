@@ -1,7 +1,15 @@
 # 47. Power to lock up goods dutiable on import
 Part: PART V GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS
 
-(1) When, in exercise of the powers conferred by this Act, a proper officer of customs boards any vessel, aircraft or train, he shall have free access to every part of the vessel, aircraft or train, and shall have the power to mark any dutiable goods before landing, and to lock up, seal, mark or otherwise secure any dutiable goods, including sea, air or railway stores on board the vessel, aircraft or train.
+(1) When, in exercise of the powers conferred by this Act, a proper officer of customs boards any vessel, aircraft or train, he shall —
+
+(a) have free access to every part of the vessel, aircraft or train;
+
+(b) have the power to mark any dutiable goods before landing;
+
+and
+
+(c) have the power to lock up, seal, mark or otherwise secure any dutiable goods, including sea, air or railway stores on board the vessel, aircraft or train.
 
 (2) No lock, seal or mark shall be opened, broken or altered without the consent of the proper officer of customs while the vessel, aircraft or train is within the limits of the port or airport or before any such goods are delivered to be landed.
 

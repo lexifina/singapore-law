@@ -1,4 +1,4 @@
-# 8. Authority to be produced
+# 8. Authority card to be produced
 Part: PART II APPOINTMENT OF OFFICERS
 
 (1) Every officer of customs when acting against any person under this Act shall, if not in uniform, on demand declare his office and produce to the person against whom he is acting such authority card as the Director-General or, in the case of a police officer, the Commissioner of Police, may direct to be carried by such officers.

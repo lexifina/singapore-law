@@ -9,7 +9,7 @@ Part: PART VIII SALE OF INTOXICATING LIQUORS
 
 (c) a samsu shop licence for the sale by retail of samsu for consumption on or off the premises where it is sold;
 
-(d) a retail liquor shop licence for the sale by retail of intoxi- cating liquors for consumption elsewhere than on the premises or at the place where they are sold;
+(d) a retail liquor shop licence for the sale by retail of intoxicating liquors for consumption elsewhere than on the premises or at the place where they are sold;
 
 (e) a wholesale liquor shop licence for the sale by wholesale of intoxicating liquors;
 

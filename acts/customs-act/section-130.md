@@ -15,7 +15,7 @@ Part: PART XV OFFENCES AND PENALTIES
 
 (f) is in any way concerned in any fraudulent evasion or attempt at fraudulent evasion of any customs duty or excise duty;
 
-(g) is in any way concerned in distilling, fermenting or other- wise manufacturing any dutiable or prohibited goods or manufacturing any tobacco in contravention of section 63;
+(g) is in any way concerned in the manufacture of any dutiable or prohibited goods in contravention of section 63;
 
 (h) is in any way concerned in bottling, blending, compounding or varying any intoxicating liquors in contravention of section 66;
 
@@ -33,7 +33,7 @@ and
 
 (iv) where he has been convicted on a previous occasion of an offence under this section involving goods consisting wholly or partly of tobacco products and such tobacco products exceed 2 kilogrammes in weight, and he is again convicted of such offence — to a fine of not less than 30 times the amount of the customs duty, excise duty or tax and not more than 40 times the amount of the customs duty, excise duty or tax or $20,000, whichever is the greater, or to imprisonment for a term not exceeding 6 years or to both.
 
-[23/93; 24/96; 11/97; 33/2000]
+[23/93; 24/96; 11/97; 33/2000; 4/2003]
 
 (2) In any prosecution against a person for committing, attempting or abetting an offence under this section, any dutiable, uncustomed or prohibited goods shall be deemed to be dutiable, uncustomed or prohibited goods to the knowledge of the defendant unless the contrary is proved by the defendant.
 

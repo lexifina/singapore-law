@@ -9,4 +9,4 @@ Part: PART XII MISCELLANEOUS PROVISIONS
 
 (4) Any such security may be given in relation to any particular transaction or generally with respect to any class of transactions or to all transactions and for such period and amount as the Director- General thinks fit and under such conditions as to forfeiture, penalty or otherwise as he may determine.
 
-(5) If at any time the Director-General is not satisfied with the sufficiency of any security, he may require a new security in substi- tution for or in addition to the security which has been given.
+(5) If at any time the Director-General is not satisfied with the sufficiency of any security, he may require a new security in substitution for or in addition to the security which has been given.

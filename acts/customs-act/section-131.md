@@ -1,12 +1,28 @@
-# 131. Penalty for adding deleterious substances to intoxicating liquor, or storing, keeping, etc., such liquor
+# 131. Evading duty by unauthorised modification of computer program or data
 Part: PART XV OFFENCES AND PENALTIES
 
-(1) Any person who —
+(1) Any person who, without the authority of the Director- General —
 
-(a) is in any way concerned in adding deleterious substances to any intoxicating liquor for consumption or for sale; or
+(a) destroys, damages, erases or otherwise manipulates data stored in, or used in connection with, a computer;
 
-(b) stores, keeps or has in his possession any intoxicating liquor to which has been added deleterious substances, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) introduces into, or records or stores in, a computer by any means data for the purpose of —
 
-(2) The owner or occupier of any premises upon which any intoxicating liquor to which has been added deleterious substances is found or which has been used for the sale of such intoxicating liquor shall be deemed, until the contrary is proved, to have knowingly kept, used or permitted the use of the premises for such purposes.
+(i) destroying, damaging, erasing or altering other data stored in that computer; or
 
-(3) In any prosecution against a person for committing, attempting to commit or abetting an offence under this section, any intoxicating liquor to which has been added deleterious substances shall be deemed to have been so added with the knowledge of the person unless the contrary is proved by him.
+(ii) interfering with, interrupting or obstructing the lawful use of, that computer or the data stored in that computer; or
+
+(c) otherwise uses a computer, the purpose or effect of which is to reduce, avoid or evade any liability to customs duty, excise duty or tax imposed or which would otherwise have been imposed by this Act, or to defeat any provision of this Act, shall be guilty of an offence and shall be liable —
+
+(i) on the first conviction to a fine of not less than 10 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the lesser amount, and of not more than 20 times the amount of the customs duty, excise duty or tax or $5,000 whichever is the greater and where the amount of customs duty or excise duty cannot be ascertained, the penalty shall be a fine not exceeding $5,000;
+
+and
+
+(ii) on the second or subsequent conviction to the fine mentioned in sub-paragraph (i) or to imprisonment for a term not exceeding 2 years or to both.
+
+[24/96; 33/2000]
+
+(2) In subsection (1), ‘‘data’’ includes any computer program or part of a computer program being a program, whether or not approved by the Director-General, for use in relation to the computer service established under section 86.
+
+[130A
+
+[24/96]

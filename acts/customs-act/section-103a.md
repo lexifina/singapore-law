@@ -9,6 +9,6 @@ In connection with the exercise of the powers in section 102 or 103, any senior 
 
 (i) the person by whom or on whose behalf the computer is or has been so used; or
 
-(ii) any person having charge of, or otherwise concerned with the operation of, the computer, device, apparatus or material, to provide the officer or the Magistrate with such reason- able assistance as he may require for the purposes of paragraph (a).
+(ii) any person having charge of, or otherwise concerned with the operation of, the computer, device, apparatus or material, to provide the senior officer of customs or the Magistrate with such reasonable assistance as he may require for the purposes of paragraph (a).
 
 [24/96]

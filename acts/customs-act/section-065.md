@@ -1,4 +1,4 @@
-# 65. (Deleted)
+# 65. [Not in use]
 Part: PART VII MANUFACTURE AND BOTTLING
 
-(Deleted)
+[Not in use]
