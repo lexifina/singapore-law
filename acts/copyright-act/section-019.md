@@ -1,0 +1,4 @@
+# 19. References to sounds and visual images embodied in an article
+Part: PART II INTERPRETATION
+
+For the purposes of this Act, sounds or visual images shall be taken to have been embodied in an article or thing if the article or thing has been so treated in relation to those sounds or visual images that those sounds or visual images are capable, with or without the aid of some other device, of being reproduced from the article or thing.

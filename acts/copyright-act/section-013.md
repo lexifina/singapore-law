@@ -1,0 +1,4 @@
+# 13. Libraries established or conducted for profit
+Part: PART II INTERPRETATION
+
+For the purposes of this Act, a library shall not be taken to be established or conducted for profit by reason only that the library is owned by a person carrying on business for profit.

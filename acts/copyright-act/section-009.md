@@ -1,0 +1,6 @@
+# 9. Acts comprised in copyright
+Part: PART II INTERPRETATION
+
+(1) A reference in this Act to an act comprised in the copyright in a work or other subject-matter shall be read as a reference to any act that, under this Act, the owner of the copyright has the exclusive right to do.
+
+(2) For the purposes of this Act, the exclusive right to do an act in relation to a work, an adaptation of a work or any other subject- matter includes the exclusive right to authorise a person to do that act in relation to that work, adaptation or other subject-matter.

@@ -1,0 +1,10 @@
+# 10. Acts done in relation to substantial part of work or other subject-matter deemed to be done in relation to the whole
+Part: PART II INTERPRETATION
+
+(1) In this Act, unless the contrary intention appears —
+
+(a) a reference to the doing of an act in relation to a work or other subject-matter shall be read as including a reference to the doing of that act in relation to a substantial part of the work or other subject-matter; and
+
+(b) a reference to a reproduction, adaptation or copy of a work shall be read as including a reference to a reproduction, adaptation or copy of a substantial part of the work, as the case may be.
+
+(2) This section shall not affect the interpretation of any reference in sections 27, 185, 196 and 197 to the publication, or absence of publication, of a work.
