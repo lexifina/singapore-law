@@ -1,0 +1,22 @@
+# 33. Appeals
+Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
+
+(1) Any person who is aggrieved by —
+
+(a) the imposition of any condition by the Commissioner in granting or renewing any registration, licence or certificate under section 30 or 31;
+
+(b) the refusal of the Commissioner to grant or renew any registration, licence or certificate under section 30 or 31; or
+
+(c) the decision of the Commissioner to suspend or cancel any registration, licence or certificate under section 32, may, within 14 days of the date of receipt of the notice informing him of such imposition of conditions, refusal, suspension or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
+
+(2) Notwithstanding that any appeal under subsection (1) is pending, any condition imposed by the Commissioner under section 30 or 31 shall take effect from the date specified by the Commis- sioner, unless the Minister otherwise orders.
+
+(3) If within the period referred to in subsection (1) the person whose registration, licence or certificate has been suspended or cancelled by the Commissioner gives due notice of appeal to the Minister, the suspension or cancellation of his registration, licence or certificate, as the case may be, shall not take effect unless it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+
+(4) In this section —
+
+(a) any reference to a licence shall be read as including a reference to a provisional vector control technician’s licence;
+
+and
+
+(b) any reference to a certificate shall be read as including a reference to a provisional vector control worker’s certificate.
