@@ -1,6 +1,8 @@
-# 24. Meeting of deficiencies in Currency Fund
-Part: PART III CURRENCY
+# 24. Counterfeit currency notes and coins to be forfeited
+Part: PART IV MISCELLANEOUS
 
-If the assets of the Currency Fund should at any time prove insufficient to meet legal demands upon the Board, such deficiencies shall be charged upon and paid out of the Consolidated Fund.
+An officer of the Authority shall be empowered to seize any currency note or coin tendered to the Authority, which he believes on reasonable grounds to be counterfeit and, upon such seizure, that note or coin shall be forfeited to the Authority.
 
-[3/91]
+[31
+
+[3/91; 25/2002]

@@ -19,3 +19,5 @@
 9. Act 33 of 1995 — Currency (Amendment) Act 1995 Date of First Reading : 7.8.95 (Bill No. 29/95 published on 8.8.95) Date of Second and Third Readings : 27.9.95 Date of commencement : 1.5.96
 
 10. Act 47 of 1998 — Currency (Amendment) Act 1998 Date of First Reading : 12.10.98 (Bill No. 46/98 published on 13.10.98) Date of Second and Third Readings : 26.11.98 Date of commencement : 31.12.98
+
+11. Act 25 of 2002 — Currency (Amendment) Act 2002 Date of First Reading : 8.7.2002 (Bill No. 23/2002 published on 9.7.2002) Date of Second and Third Readings : 23.7.2002 Date of commencement : 1.10.2002

@@ -1,23 +1,21 @@
 # 20. Restriction on use of photographs, drawing or design of currency notes and coins in advertisements, etc.
 Part: PART III CURRENCY
 
-(1) Except with the permission of the Board, no person shall —
+(1) Except with the permission of the Authority, no person shall —
 
 (a) in any size, scale or colour, use any photograph of or any drawing or design resembling any currency note or coin or part thereof, in any advertisement; or
 
 (b) import, manufacture, sell, circulate or otherwise distribute any merchandise or product containing such a photograph, drawing or design in any size, scale or colour.
 
-[47/98]
+[47/98; 25/2002]
 
-(2) Except with the permission of the Board, no person shall import, manufacture, sell, circulate or otherwise distribute any merchandise or product containing any design or part thereof used in or on any currency note or coin.
+(2) Except with the permission of the Authority, no person shall import, manufacture, sell, circulate or otherwise distribute any merchandise or product containing any design or part thereof used in or on any currency note or coin.
 
-[47/98]
+[47/98; 25/2002]
 
-(3) The Board may, in granting any permission under subsection
+(3) The Authority may, in granting any permission under subsection (1) or (2), impose such conditions as it thinks fit.
 
-(1) or (2), impose such conditions as it thinks fit.
-
-[47/98]
+[47/98; 25/2002]
 
 (4) No person shall make or issue a piece of gold, silver, copper, nickel, bronze or of any other material whether metal or otherwise, of any value, resembling or similar to any coin issued under this Act or any other written law relating to the issue of currency which was in force at any time before 30th April 1982.
 

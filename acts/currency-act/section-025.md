@@ -1,4 +1,12 @@
-# 25. Board of survey
-Part: PART III CURRENCY
+# 25. Power of arrest
+Part: PART IV MISCELLANEOUS
 
-Unissued stocks of currency notes and coins held by the Board shall, on the first business day of each year and at such other times as may be decided by the Board, be verified by a board of survey to be constituted under regulations made by the Board.
+Any police officer may arrest without warrant any person —
+
+(a) offending in his view against section 14, 20 or 23; or
+
+(b) against whom a reasonable complaint has been made or creditable information has been received or a reasonable suspicion exists of his having contravened section 14, 20 or 23.
+
+[32
+
+[11/82]

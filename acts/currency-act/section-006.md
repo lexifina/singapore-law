@@ -1,26 +1,12 @@
-# 6. Composition of Board
-Part: PART II ESTABLISHMENT, CONSTITUTION, PURPOSE AND ADMINISTRATION OF BOARD
+# 6. Transfer of employees
+Part: PART II TRANSFER OF FUNCTIONS, PROPERTY, LIABILITIES AND EMPLOYEES TO AUTHORITY
 
-(1) The Board shall consist of —
+(1) As from 1st October 2002, all persons employed immediately before that date by the Board shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
-(a) the Chairman who shall be appointed by the President on the recommendation of the Cabinet;
+[25/2002]
 
-(b) the Deputy Chairman who shall be appointed by the President; and
+(2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Board shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the employment of the Board.
 
-(c) 4 other members possessing recognised banking, financial or business experience who shall be appointed by the President.
+[5
 
-[47/98]
-
-(2) Subject to subsection (3), every member of the Board shall be appointed for a specific term not exceeding 3 years and shall vacate his office without prejudice to his eligibility for re-appointment at the expiration of that term.
-
-[47/98]
-
-(3) The President, acting in his discretion, may refuse to appoint any person as Chairman, Deputy Chairman or a member of the Board under subsection (1) or to revoke any such appointment if the President does not concur with the advice or recommendation of the Cabinet or a Minister acting under the general authority of the Cabinet.
-
-[11/91]
-
-(4) The Deputy Chairman shall act for the Chairman whenever the Chairman is absent.
-
-(5) If the Deputy Chairman is temporarily absent from Singapore or temporarily incapacitated through illness or any other sufficient reason from the performance of his duties, another person may be appointed by the President during such temporary absence or incapacity.
-
-(6) If a member appointed under subsection (1) (c) suffers an incapacity which is likely to be prolonged, the President may appoint a temporary substitute to act with the full powers of that member until such time as the President determines that the incapacity has ceased.
+[25/2002]

@@ -1,16 +1,12 @@
-# 7. Meetings of Board
-Part: PART II ESTABLISHMENT, CONSTITUTION, PURPOSE AND ADMINISTRATION OF BOARD
+# 7. Service rights, etc., of transferred employees to be preserved
+Part: PART II TRANSFER OF FUNCTIONS, PROPERTY, LIABILITIES AND EMPLOYEES TO AUTHORITY
 
-(1) The Board shall meet at least once in each calendar year and at such times or places as may be considered necessary by the Chairman.
+(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 6 while in the employment of the Board.
 
-(2) The Chairman shall call a meeting as soon as practicable after receiving a request from at least 2 members.
+[25/2002]
 
-(3) A quorum for any meeting of the Board shall be 3 members.
+(2) Any term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Board by the persons transferred under section 6 to be service by them under the Authority.
 
-(4) No meeting of the Board, as provided for in this section, shall be held unless the Chairman or the Deputy Chairman is present.
+[6
 
-(5) The Chairman and the Deputy Chairman shall each have 2 votes and the members appointed under section 6 (1) (c) shall each have one vote.
-
-(6) Any question arising at a meeting of the Board shall be decided by a majority of votes.
-
-(7) In the event of an equality of votes, the Chairman presiding at the meeting shall have a casting vote.
+[25/2002]

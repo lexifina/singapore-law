@@ -1,10 +1,8 @@
-# 10. Preservation of secrecy
-Part: PART II ESTABLISHMENT, CONSTITUTION, PURPOSE AND ADMINISTRATION OF BOARD
+# 10. Misconduct or neglect of duty by employee before transfer
+Part: PART II TRANSFER OF FUNCTIONS, PROPERTY, LIABILITIES AND EMPLOYEES TO AUTHORITY
 
-(1) Except for the purposes of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any law, no person who is or has been a member, officer, employee, consultant or agent of the Board shall disclose to any person any information which he has acquired in the performance of his duties or the exercise of his functions.
+The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Board, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Board and if this Act had not been enacted.
 
-[3/91]
+[9
 
-(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[47/98]
+[25/2002]

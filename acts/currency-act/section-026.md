@@ -1,4 +1,8 @@
-# 26. Financial year
+# 26. Sanction of Public Prosecutor
 Part: PART IV MISCELLANEOUS
 
-The financial year of the Board shall begin on 1st January and end on 31st December of each year.
+No prosecution for any offence under this Act shall be instituted without the sanction of the Public Prosecutor.
+
+[33
+
+[47/98]

@@ -1,20 +1,36 @@
-# 29. Annual accounts and report
+# 29. Savings and transitional provisions
 Part: PART IV MISCELLANEOUS
 
-(1) The Board shall, as soon as practicable, after the close of its financial year, transmit to the President a copy of its annual accounts and report and the accounts shall then be published in the Gazette.
+(1) On 1st October 2002 —
 
-[3/91]
+(a) the Board of Commissioners of Currency, Singapore (referred to in this section as the Board) shall be dissolved;
 
-(2) The annual accounts and report shall be presented to Parliament as soon as possible after such publication.
+(b) currency notes and coins issued by the Board before 1st October 2002 shall for all purposes be deemed to have been issued by the Authority;
 
-(3) The Board shall, as soon as possible, after the end of each quarter, make up and publish in the Gazette an abstract showing the whole amount of currency notes and coins in circulation on that day.
+(c) the reserves accumulated by the Board before the current term of office of the Government shall be added to the reserves accumulated by the Authority before such term;
 
-[47/98]
+and
 
-(4) The Board shall publish at quarterly intervals in the Gazette an abstract showing —
+(d) all assets and moneys of the Currency Reserve Fund shall be transferred to the Currency Fund.
 
-(a) the amount of the Currency Fund determined by the Board to be adequate for the purposes of section 21 (5) and the forms of assets in which that amount is held; and
+[25/2002]
 
-(b) the nominal value and price paid for and, where appropriate, the latest known market price of securities belonging to the Currency Fund.
+(2) Any decision made by the Board under this Act before 1st October 2002 shall be deemed to be a decision made by the Authority.
 
-[47/98]
+[25/2002]
+
+(3) Any permission, consent, approval or authorisation granted by the Board under this Act before 1st October 2002 shall, so far as it is not inconsistent with the provisions of this Act, be deemed to be a permission, consent, approval or authorisation granted by the Authority.
+
+[25/2002]
+
+(4) Any certificate, notice, order, direction or declaration issued or made by the Board or an officer of the Board under this Act before 1st October 2002 shall be deemed to be a certificate, notice, order, direction or declaration issued or made by the Authority or an officer of the Authority.
+
+[25/2002]
+
+(5) Where in any document any reference is made to the Board of Commissioners of Currency, Singapore, such reference shall, as from 1st October 2002, be read as the Monetary Authority of Singapore.
+
+[25/2002]
+
+(6) The Minister may, by order published in the Gazette, make such other savings or transitional provisions which appear to him to be necessary or expedient for the purposes of the Currency (Amendment) Act 2002 (Act 25 of 2002).
+
+[25/2002]

@@ -3,9 +3,7 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘Board’’ means the Board of Commissioners of Currency, Singapore, established by section 3;
-
-‘‘Chief Executive Officer’’ means the Chief Executive Officer of the Board;
+‘‘Authority’’ means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
 ‘‘currency’’ means currency notes and coins which are legal tender in Singapore;
 
@@ -15,4 +13,4 @@ In this Act, unless the context otherwise requires —
 
 ‘‘issue’’ includes reissue.
 
-[11/82]
+[11/82; 25/2002]
