@@ -1,0 +1,3 @@
+# 1. Short title
+
+This Act may be cited as the People’s Association Act.
