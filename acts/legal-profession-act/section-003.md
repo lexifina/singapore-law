@@ -1,5 +1,5 @@
 # 3. Establishment of Board of Legal Education
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
 
 (1) There shall be established a body to be called the Board of Legal Education.
 

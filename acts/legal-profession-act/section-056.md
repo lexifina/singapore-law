@@ -1,5 +1,6 @@
 # 56. President, Vice-Presidents and Treasurer
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 5 — Officers of Council
 
 (1) There shall be a President, 2 Vice-Presidents and a Treasurer of the Society who shall be elected by —
 

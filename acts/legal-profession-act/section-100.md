@@ -19,4 +19,4 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (a) directing the Registrar to remove the applicant’s name from the roll; or
 
-(b) adjourning the application indefinitely or to such date as to the Judge seems fit, and such order for the payment of costs as may be just.
+(b) adjourning the application indefinitely or to such date as the Judge deems fit, and such order for the payment of costs as may be just.

@@ -11,9 +11,9 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (a) no application is made to set aside an order for the payment of a penalty under subsection (1) or if the order is affirmed or varied by the court under section 95 (3) (a); or
 
-(b) an advocate and solicitor has been reprimanded by the Council under section 94 (3) (a), the Council shall, at the expense of the advocate and solicitor, publish in the Gazette a notice of the order if the penalty payable exceeds $1,000 or of the reprimand, as the case may be.
+(b) an advocate and solicitor has been reprimanded by the Council under section 94 (3) (a), the Council shall, at the expense of the advocate and solicitor, publish in the Gazette a notice of the order or of the reprimand, as the case may be.
 
-[41/93]
+[41/93; 35/2001]
 
 (5) Any notice under subsection (4) shall contain the name of the advocate and solicitor, the nature of the misconduct committed by him and the penalty payable by him or the reprimand, as the case may be.
 

@@ -1,5 +1,5 @@
 # 75D. Qualification to use title of consultant
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) No solicitor shall take or use the title of consultant unless he has, for a period of not less than 10 years in the aggregate, been —
 

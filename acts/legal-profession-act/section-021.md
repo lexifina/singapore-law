@@ -1,5 +1,6 @@
 # 21. Ad hoc admissions
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) Notwithstanding anything to the contrary in this Act, the court may, for the purpose of any one case where the court is satisfied that it is of sufficient difficulty and complexity and having regard to the circumstances of the case, admit to practise as an advocate and solicitor any person who —
 

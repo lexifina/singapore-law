@@ -5,9 +5,11 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (a) that no cause of sufficient gravity for disciplinary action exists under section 83;
 
-(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded; or
+(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded or ordered to pay a penalty sufficient and appropriate to the misconduct committed; or
 
 (c) that cause of sufficient gravity for disciplinary action exists under that section.
+
+[35/2001]
 
 (2) In the event of the Disciplinary Committee making a determination under subsection (1) (b) or (c), the Committee may make an order for payment by any party of costs or of such sum as the Committee may consider a reasonable contribution towards costs.
 
@@ -21,11 +23,9 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (b) a copy shall on request be supplied to the advocate and solicitor concerned.
 
-[30/86]
+(5) The findings and determination of the Disciplinary Committee shall be published by the Council in the Singapore Law Gazette or in such other media as the Council may determine which would adequately inform the public of the findings and determination.
 
-(5) The findings and determination of the Disciplinary Committee shall be published.
-
-[30/86]
+[30/86; 35/2001]
 
 (6) A copy of the entire record of the proceedings of the Disciplinary Committee including its findings and determination shall be made public and copies thereof shall be made available to the members of the public upon payment of the prescribed fee.
 

@@ -19,15 +19,13 @@ Part: PART III PRACTISING CERTIFICATES
 
 (4) If —
 
-(a) the Disciplinary Committee determines under section 93 (1)
-
-(a) that no cause of sufficient gravity for disciplinary action against the solicitor exists under section 83 or determines under section 93 (1) (b) that the solicitor should be reprimanded;
+(a) the Disciplinary Committee determines under section 93 (1) (a) that no cause of sufficient gravity for disciplinary action against the solicitor exists under section 83 or determines under section 93 (1) (b) that the solicitor should be reprimanded;
 
 (b) the application under section 98 (1) for an order against the solicitor to show cause is withdrawn or dismissed;
 
 (c) the application under section 98 (5) to make absolute an order against the solicitor to show cause is withdrawn or discharged; or
 
-(d) the order against the solicitor to show cause has been made absolute, the suspension of the practising certificate of the solicitor shall terminate forthwith.
+(d) the order against the solicitor to show cause has been made absolute, the suspension of the practising certificate of the solicitor shall terminate immediately.
 
 [40/96]
 

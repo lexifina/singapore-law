@@ -1,5 +1,5 @@
 # 72. Rules as to keeping of accounts by solicitors
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) The Council shall make rules —
 
@@ -19,4 +19,4 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CL
 
 (3) Such rules shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
 
-(4) Disciplinary proceedings may be taken against any solicitor who fails to comply with any rules made under this section.
+(4) Disciplinary proceedings may be taken against any solicitor who contravenes any rules made under this section.

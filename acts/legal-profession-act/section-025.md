@@ -33,11 +33,11 @@ Part: PART III PRACTISING CERTIFICATES
 
 [40/96]
 
-(3) Every practising certificate shall be signed or approved by the Registrar and shall, subject to sections 26 (5) and 27B, be in force from the date of issue to the end of the year.
+(3) Every practising certificate shall be signed or approved by the Registrar and shall, subject to sections 26 (9) and 27B, be in force from the date of issue to the end of the year.
 
 [40/96; 4/2000]
 
-(4) Where the name of a solicitor is removed from or struck off the roll, the practising certificate, if any, of that solicitor for the time being in force shall expire forthwith and the date of the expiry shall be entered by the Registrar on the register of practitioners.
+(4) Where the name of a solicitor is removed from or struck off the roll, the practising certificate, if any, of that solicitor for the time being in force shall expire immediately and the date of the expiry shall be entered by the Registrar on the register of practitioners.
 
 (5) Every practising certificate issued in the month of April shall be deemed to have been in force from the first day of that month.
 

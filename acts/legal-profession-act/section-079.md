@@ -1,5 +1,5 @@
 # 79. Acting for housing developer and purchaser prohibited
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) Where a solicitor acts for a housing developer in a sale of immovable property developed under a housing development, no specified person shall, in the sale of any immovable property developed under the same housing development, act for the purchaser of the property unless a certificate of fitness for occupation in respect thereof has been issued by the Commissioner of Building Control or other relevant authority.
 

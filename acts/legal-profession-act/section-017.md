@@ -1,5 +1,6 @@
 # 17. Petitions for admission under sections 11 (1) and 15 (1)
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) This section shall apply to every person who proposes to apply to be admitted as an advocate and solicitor by virtue of section 11 (1) (a) or 15 (1).
 
@@ -15,6 +16,6 @@ Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
 
 (c) a certificate of diligence from each master with whom the petitioner served his pupillage in cases where the petitioner is required to serve a period of pupillage or in the absence thereof such other evidence as the court may require that he has served the pupillage with diligence; and
 
-(d) a certificate signed by the Secretary of the Board that the petitioner has satisfactorily served the period of pupillage or articles, has attended the courses of instruction (or has been exempted therefrom under section 12 (2)) and has passed any examinations that may be required in his case under the provisions of this Act.
+(d) a certificate signed by the Secretary of the Board that the petitioner has satisfactorily served the period of pupillage or articles (or has been exempted therefrom under section 14 (5)), has attended the courses of instruction (or has been exempted therefrom under section 12 (2)) and has passed any examinations that may be required in his case under the provisions of this Act.
 
 (5) The petition, notice, affidavit and certificates referred to in this section shall be in the form prescribed by the Board.

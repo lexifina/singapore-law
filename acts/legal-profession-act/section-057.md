@@ -1,5 +1,6 @@
-# 57. Vacation of office of member of Council Powers of Council
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+# 57. Vacation of office of member of Council
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 5 — Officers of Council
 
 (1) A statutory member of the Council shall vacate his office if —
 
@@ -23,12 +24,10 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 
 (c) he is absent from 3 consecutive meetings of the Council without its consent.
 
-(3) For the purposes of subsection (2), a person appointed under section 53 (1) and (2) or under section 55 (1) shall be deemed to have been elected under section 49 (1).
+(3) For the purposes of subsection (2), a person appointed under section 53 (1) and (2) or 55 (1) shall be deemed to have been elected under section 49 (1).
 
 [30/86]
 
 (4) Subsections (1) and (2) shall not apply to a member of the Council who has obtained the leave of the court under section 49 (4) prior to his election or appointment as a member of the Council.
 
 [30/86]
-
-Powers of Council

@@ -1,5 +1,5 @@
 # 75A. Professional indemnity
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) The Council may make rules concerning indemnity against loss arising from claims in respect of civil liability incurred —
 
@@ -33,7 +33,7 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CL
 
 (e) authorise the Council to determine the amount of any premiums or payments required by such rules, subject to such limits, or in accordance with such provisions, as may be prescribed by those rules;
 
-(f) specify circumstances in which, where an advocate and solicitor or a law corporation for whom indemnity is provided has failed to comply with such rules or to make payment for such indemnity, the Society or the insurers may take proceedings against the advocate and solicitor or the law corporation in respect of sums paid by way of indemnity in connection with a matter in relation to which the advocate and solicitor or the law corporation has failed to comply;
+(f) specify circumstances in which, where an advocate and solicitor or a law corporation for whom indemnity is provided has contravened such rules or to make payment for such indemnity, the Society or the insurers may take proceedings against the advocate and solicitor or the law corporation in respect of sums paid by way of indemnity in connection with a matter in relation to which the advocate and solicitor or the law corporation has contravened;
 
 (g) specify the circumstances in which advocates and solicitors or law corporations are exempt from such rules; and
 
@@ -49,6 +49,6 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CL
 
 [10/91]
 
-(6) Nothing in this section shall affect the right of any advocate and solicitor or a law corporation, in addition to the indemnity provided in rules made under this section, to insure himself or the law corporation further against loss arising from such claims as may be instituted against him or the law corporation.
+(6) Nothing in this section shall affect the right of any advocate and solicitor or law corporation, in addition to the indemnity provided in rules made under this section, to insure himself or the law corporation further against loss arising from such claims as may be instituted against him or the law corporation.
 
 [10/91; 4/2000]

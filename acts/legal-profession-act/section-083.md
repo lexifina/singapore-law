@@ -25,7 +25,7 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (i) carries on by himself or any person in his employment any trade, business or calling that detracts from the profession of law or is in any way incompatible with it, or is employed in any such trade, business or calling;
 
-(j) has contravened or failed to comply with any of the provisions of this Act or of any rules made thereunder in relation thereto if such contravention or failure warrants disciplinary action; or
+(j) has contravened any of the provisions of this Act in relation thereto if such contravention warrants disciplinary action; or
 
 (k) has been disbarred, struck off, suspended or censured in his capacity as a legal practitioner by whatever name called in any other country.
 

@@ -15,7 +15,7 @@ Part: PART I PRELIMINARY
 
 (b) in relation to non-contentious business, any person who, as a principal or on behalf of another, or as a trustee, executor or administrator, or in any other capacity, has power, express or implied, to retain or employ, and retains or employs or is about to retain or employ, a solicitor, and any person for the time being liable to pay a solicitor or a law corporation for his or its services any costs;
 
-‘‘contentious business’’ means business done, whether as solicitor or as advocate, in or for the purposes of proceedings begun before a court of justice or before an arbitrator;
+‘‘contentious business’’ means business done, whether as an advocate or a solicitor, in or for the purposes of proceedings begun before a court of justice or before an arbitrator;
 
 ‘‘costs’’ includes fees, charges, disbursements, expenses and remuneration;
 
@@ -27,7 +27,7 @@ Part: PART I PRELIMINARY
 
 ‘‘Faculty’’ means the Faculty of Law of the National University of Singapore;
 
-‘‘Inquiry Committee’’ means an Inquiry Committee constituted under section 85;
+‘‘Inquiry Committee’’ means an Inquiry Committee constituted under section 85 (10);
 
 ‘‘Judge’’ means a Judge of the High Court sitting in chambers;
 
@@ -61,11 +61,13 @@ Part: PART I PRELIMINARY
 
 ‘‘Registrar’’ means the Registrar of the Supreme Court and includes the Deputy Registrar and an Assistant Registrar;
 
+‘‘Review Committee’’ means a Review Committee constituted under section 85 (6);
+
 ‘‘roll’’ means the roll of advocates and solicitors of the Supreme Court kept under section 24;
 
 ‘‘Rules Committee’’ means the Rules Committee constituted under any written law for the time being in force with the power to make rules regulating procedure in the Supreme Court;
 
-‘‘Society’’ means the Law Society of Singapore established under section 36;
+‘‘Society’’ means the Law Society of Singapore established under section 37;
 
 ‘‘trust’’ and ‘‘trustee’’ extend to implied and constructive trusts and to cases where the trustee has a beneficial interest in the trust property and to the duties incident to the office of a personal representative, and ‘‘trustee’’, where the context admits, includes a personal representative.
 
@@ -88,7 +90,3 @@ Part: PART I PRELIMINARY
 (e) include such incidental, supplementary or transitional provisions as may be necessary or expedient.
 
 [41/93]
-
-PART II
-
-ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education

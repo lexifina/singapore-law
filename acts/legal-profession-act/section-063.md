@@ -1,6 +1,5 @@
-# 63. Representation in court Proceedings of Council
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+# 63. Representation in court
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 6 — Powers of Council
 
 The Society may be represented or appear in any court by any advocate and solicitor whether he is a member of the Council or not.
-
-Proceedings of Council

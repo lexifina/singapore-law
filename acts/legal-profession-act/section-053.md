@@ -1,5 +1,6 @@
 # 53. Insufficient nominations
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 4 — Election of Members of Council
 
 (1) If only so many candidates are nominated for election to the Council as are required to be elected, those candidates shall be deemed to be elected; if fewer, the candidates nominated shall be deemed to have been elected and they together with the statutory members of the Council and the continuing elected members of the Council, if any, shall appoint further members to complete the required number to satisfy the requirements of section 49 (1).
 

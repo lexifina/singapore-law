@@ -1,5 +1,5 @@
 # 78. Solicitors’ clerks
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) No solicitor shall in connection with his practice as such, without the consent of the court obtained on an application by originating summons served upon the Attorney-General and upon the Society, employ or remunerate any person who to his knowledge is an undischarged bankrupt or has been —
 
@@ -11,7 +11,7 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CL
 
 (d) convicted of an offence under section 33 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) or under any provision of this Act;
 
-(e) listed as a tout under section 73 of the Supreme Court of Judicature Act (Cap. 322) or section 62 of the Subordinate Courts Act (Cap. 321); or
+(e) listed as a tout under section 62 of the Subordinate Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act (Cap. 322); or
 
 (f) a person in respect of whom an order under subsection (4) has been made.
 
@@ -41,7 +41,7 @@ or
 
 (a) require the person to make a statutory declaration to show that he is not an undischarged bankrupt and that he does not come within the class of persons enumerated in subsection (1) (a) to (f) and had not been employed as a public officer and that he is not a person in respect of whom an order has been made under subsection (4); and
 
-(b) within 14 days of commencing to employ the person deliver to the Society a certified copy of the statutory declaration so made.
+(b) within 14 days of commencing to employ the person, deliver to the Society a certified copy of the statutory declaration so made.
 
 [40/96]
 

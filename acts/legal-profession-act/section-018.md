@@ -1,5 +1,6 @@
 # 18. Petitions for admission under section 15 (2)
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) This section shall apply to every person who applies to be admitted as an advocate and solicitor by virtue of section 15 (2).
 

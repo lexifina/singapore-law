@@ -27,4 +27,4 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 [30/86]
 
-(10) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and under sections 100 and 102, and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of Court (Cap. 322, R 5) may be followed as nearly as the circumstances permit.
+(10) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and under sections 100 and 102, and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of Court may be followed as nearly as the circumstances permit.

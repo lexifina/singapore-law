@@ -1,5 +1,6 @@
 # 15. Admission of Malayan practitioners
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) A Malayan practitioner who does not qualify under subsection (2) may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any courses of instruction, but he shall not be admitted unless he has satisfied the Board in such examinations as may be prescribed by the Board.
 

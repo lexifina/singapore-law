@@ -1,5 +1,6 @@
 # 51. Elections
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 4 — Election of Members of Council
 
 (1) The Council shall, in the month of September every year, fix and publish before the end of that month —
 
@@ -13,7 +14,9 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 
 [17/84]
 
-(2) The annual election of the members of the Council shall take place within 21 days after the annual general meeting and shall subject to section 53 be by secret ballot on the date and place fixed by the Council in accordance with subsection (1).
+(2) The annual election of the members of the Council shall take place within 21 days after the annual general meeting and shall, subject to section 53, be conducted in such manner as may be prescribed by rules made under section 59 on the date and place fixed by the Council in accordance with subsection (1).
+
+[35/2001]
 
 (3) If for any reason whatsoever it is necessary to elect all the elected members of the Council, the Council shall fix and publish —
 
@@ -25,6 +28,8 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 
 (d) the names of 3 scrutineers.
 
-(4) The election under subsection (3) shall subject to section 53 take place by secret ballot on the date and place fixed by the Council in accordance with that subsection.
+(4) The election under subsection (3) shall, subject to section 53, be conducted in such manner as may be prescribed by rules made under section 59 on the date and place fixed by the Council in accordance with that subsection.
+
+[35/2001]
 
 (5) Any accidental failure on the part of the Council to comply with this section or any rules made with respect to elections to the Council shall not invalidate an election.

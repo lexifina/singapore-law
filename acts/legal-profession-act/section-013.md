@@ -1,5 +1,6 @@
 # 13. Periods of pupillage
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) For the purposes of this Part, a qualified person shall, during his period of pupillage, be known as a pupil and a person with whom a pupil serves his period of pupillage or any part thereof shall be known as a master.
 

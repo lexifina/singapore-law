@@ -1,5 +1,5 @@
 # 73. Accountant’s report
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) Every solicitor shall with every application made by him for a practising certificate, unless he satisfies the Council that owing to the circumstances of his case it is unnecessary to do so, deliver to the Registrar a report signed by an accountant (referred to in this section as an accountant’s report) and shall deliver a copy of the accountant’s report to the Society.
 
@@ -43,6 +43,6 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CL
 
 (b) regulating any matters of procedure or matters incidental, ancillary or supplemental to this section.
 
-(6) Rules made under this section shall not come into operation until they have been approved by the Chief Justice who shall consult the Attorney-General and may if he thinks fit consult any of the other Judges before giving his approval.
+(6) Rules made under this section shall not come into operation until they have been approved by the Chief Justice who shall consult the Attorney-General and may, if he thinks fit, consult any of the other Judges before giving his approval.
 
 (7) Disciplinary proceedings may be taken against any solicitor who fails to comply with this section or any rules made thereunder.

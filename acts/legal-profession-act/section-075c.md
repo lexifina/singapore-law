@@ -1,5 +1,5 @@
 # 75C. Qualification to practise as sole proprietor or in partnership or as director of law corporation
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) No solicitor, who is admitted as a solicitor on or after 1st March 1997, may practise as a solicitor on his own account or in partnership or as a director of a law corporation unless he —
 

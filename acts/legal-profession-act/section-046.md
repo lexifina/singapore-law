@@ -1,5 +1,6 @@
-# 46. Annual subscription to Society Council of Society
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+# 46. Annual subscription to Society
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 2 — Members of Society and subscriptions
 
 (1) The amount of the annual subscription payable by members of the Society shall, subject to subsection (4), be fixed from time to time by the Council and shall be payable to the Society by every solicitor in each year prior to his application for a practising certificate.
 
@@ -20,5 +21,3 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 (b) in the case of a subscription paid by a practitioner member of less than 5 years’ standing, a sum of $60.
 
 [17/84]
-
-Council of Society

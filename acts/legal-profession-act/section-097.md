@@ -5,9 +5,9 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (a) that no cause of sufficient gravity for disciplinary action exists under section 83; or
 
-(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded, and the person who made the complaint, the advocate and solicitor or the Council is dissatisfied with the determination, that person, advocate and solicitor or the Council may, within 14 days of being notified of the Disciplinary Committee’s decision, apply to a Judge under this section.
+(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded or ordered to pay a penalty, and the person who made the complaint, the advocate and solicitor or the Council is dissatisfied with the determination, that person, advocate and solicitor or the Council may, within 14 days of being notified of the Disciplinary Committee’s decision, apply to a Judge under this section.
 
-[30/86; 41/93]
+[30/86; 41/93; 35/2001]
 
 (2) Such an application shall be made by originating summons and shall be served on the Society and the secretary of the Disciplinary Committee who shall thereupon file in court the record and report of the hearing and investigation by the Disciplinary Committee.
 

@@ -1,5 +1,6 @@
 # 67. Annual general meeting
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 8 — General meetings of Society
 
 (1) The Council shall each year convene an annual general meeting which shall be held in the month of October of that year.
 

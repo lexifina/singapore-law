@@ -23,7 +23,7 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (a) any other misconduct by the advocate and solicitor which has not been referred to or inquired into by the Inquiry Committee, the Council shall, if it determines that there should be a formal investigation of such misconduct, have power to prefer such charge against the advocate and solicitor as it thinks fit with respect to that misconduct; or
 
-(b) any offence involving fraud or dishonesty by the advocate and solicitor, the Council shall forthwith refer the matter to the police for investigation.
+(b) any offence involving fraud or dishonesty by the advocate and solicitor, the Council shall immediately refer the matter to the police for investigation.
 
 [41/93]
 

@@ -3,7 +3,7 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (1) The Chief Justice may from time to time appoint one or more committees comprising —
 
-(a) a person from a panel of not more than 5 persons appointed by the Chief Justice being retired Judges or persons who have had not less than 12 years’ experience as advocates and solicitors;
+(a) a chairman from a panel appointed by the Chief Justice, being retired Judges or persons who have had not less than 12 years’ standing as advocates and solicitors;
 
 (b) an advocate and solicitor who has in force a practising certificate;
 
@@ -11,13 +11,13 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (d) a member of the Inquiry Panel who is a lay person, to be known for the purposes of this Act as Disciplinary Committees.
 
-[30/86]
+[30/86; 35/2001]
 
 (2) A Disciplinary Committee shall be appointed in connection with one or more matters or for a fixed period of time or as the Chief Justice may think fit.
 
 [30/86]
 
-(3) The Chief Justice may at any time revoke the appointment of any Disciplinary Committee or may remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
+(3) The Chief Justice may at any time revoke the appointment of any Disciplinary Committee or remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
 
 [30/86]
 
@@ -33,6 +33,10 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 [30/86]
 
-(8) A member of a Disciplinary Committee appointed under subsection (1) (a) who is not a practising advocate and solicitor shall be paid for each case such remuneration as the Chief Justice may determine.
+(8) Any question arising at any meeting of a Disciplinary Committee shall be determined by a majority of votes of the members of the Committee, and in the case of an equality of votes, the chairman of the Committee shall have a second or casting vote.
+
+[35/2001]
+
+(9) A member of a Disciplinary Committee appointed under subsection (1) (a) who is not a practising advocate and solicitor shall be paid for each case such remuneration as the Chief Justice may determine.
 
 [30/86]

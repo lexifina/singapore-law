@@ -14,15 +14,15 @@ Circumstances in which Council’s powers may be exercised 1.—(1) The Council 
 
 (b) where proceedings seeking any such remedy have not been begun by the client, have regard to whether it is reasonable to expect the client to begin such proceedings.
 
+SECOND SCHEDULE — continued
+
 Directions which may be given 2.—(1) The directions are —
 
 (a) determining that the costs to which the solicitor or the law corporation of which he is a director or an employee is entitled in respect of his services (referred to in this Schedule as the costs) are to be limited to such amount as may be specified in the determination and directing him to comply, or to secure compliance, with one or more of the permitted requirements as appear to the Council to be necessary in order for effect to be given to the Council’s determination;
 
 (b) directing him to secure the rectification, at his expense or at that of his firm or the law corporation of which he is a director or employee, of such error, omission or other deficiency arising in connection with the matter in question as the Council may specify;
 
-(c) directing him to pay such compensation to the client as the Council sees fit to specify in the direction;
-
-SECOND SCHEDULE — continued
+(c) directing him to pay such compensation to the client as the Council sees fit to specify in the direction; and
 
 (d) directing him to take, at his expense or at that of his firm or the law corporation of which he is a director or an employee, such other action in the interests of the client as the Council may specify.
 
@@ -30,7 +30,7 @@ SECOND SCHEDULE — continued
 
 (a) that the whole or part of any amount already paid by or on behalf of the client in respect of the costs be refunded;
 
-(b) that the whole or part of the costs be remitted;
+(b) that the whole or part of the costs be remitted; and
 
 (c) that the right to recover the costs be waived, whether wholly or to any specified extent.
 
@@ -46,13 +46,13 @@ Taxation of costs 4.—(1) Where the Council has given a direction under paragra
 
 (a) for the purposes of any taxation of a bill covering the costs, the amount charged by the bill in respect of them shall be deemed to be limited to the amount specified in the determination; and
 
+SECOND SCHEDULE — continued
+
 (b) where a bill covering the costs has not been taxed, the client shall, for the purposes of their recovery (by whatever means and notwithstanding any statutory provision or agreement) be deemed to be liable to pay in respect of them only the amount specified in the determination.
 
 (2) Where a bill covering the costs has been taxed, the direction shall, so far as it relates to the costs, cease to have effect.
 
 Failure to comply with direction 5.—(1) If a solicitor or law corporation fails to comply with a direction given under this Schedule, any person may make a complaint in respect of that failure to a Judge; but no other proceedings shall be brought in respect of it except pursuant to an order made under sub-paragraph (2).
-
-SECOND SCHEDULE — continued
 
 (2) On the hearing of such a complaint, the Judge may, if he thinks fit, direct that the direction be treated, for the purpose of enforcement, as if it were contained in an order made by the High Court.
 
@@ -74,9 +74,9 @@ Duty of Judge 8. Where a Judge —
 
 (b) is of the opinion that the Council should consider whether to take any of the steps with respect to that solicitor, he shall inform the Council.
 
-Powers of Society to examine documents in connection with complaints 9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to the solicitor or his firm or the law corporation of which he is a director or an employee requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the solicitor or his firm or the law corporation of which he is a director or an employee in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
-
 SECOND SCHEDULE — continued
+
+Powers of Society to examine documents in connection with complaints 9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to the solicitor or his firm or the law corporation of which he is a director or an employee requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the solicitor or his firm or the law corporation of which he is a director or an employee in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
 
 (2) Sub-paragraphs (2) to (12) of paragraph 13 and paragraphs 15 to 19 of the First Schedule shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 13 (1) of that Schedule and accordingly in those provisions —
 
@@ -84,12 +84,8 @@ SECOND SCHEDULE — continued
 
 (b) any reference to any such documents as are mentioned in that sub-paragraph shall be construed as including a reference to any such documents as are mentioned in sub-paragraph (1).
 
-Exercise of powers by Council
+Exercise of powers by Council 10. The powers of the Council under this Schedule are exercisable in relation to a person even though his name has been removed from, or struck off, the roll and references to a solicitor in this Schedule, so far as they relate to the exercise of those powers, shall be construed accordingly.
 
-10. The powers of the Council under this Schedule are exercisable in relation to a person even though his name has been removed from, or struck off, the roll and references to a solicitor in this Schedule, so far as they relate to the exercise of those powers, shall be construed accordingly.
-
-Rules
-
-11. The Council may, with the concurrence of the Chief Justice, make rules to give full effect to or to carry out the purposes of the provisions of this Schedule.
+Rules 11. The Council may, with the concurrence of the Chief Justice, make rules to give full effect to or to carry out the purposes of the provisions of this Schedule.
 
 [40/96; 4/2000]

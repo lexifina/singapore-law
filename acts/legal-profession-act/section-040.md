@@ -1,5 +1,6 @@
 # 40. Practising solicitors to be members
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 2 — Members of Society and subscriptions
 
 (1) Every advocate and solicitor who has in force a practising certificate shall without election, admission or appointment become a member of the Society and remain a member under this section so long and only so long as he has in force a practising certificate.
 

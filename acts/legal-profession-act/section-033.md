@@ -19,13 +19,13 @@ Part: PART IV PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (e) solicits the right to negotiate, or negotiates in any way for the settlement of, or settles, any claim arising out of personal injury or death founded upon a legal right or otherwise, shall, unless he proves that the act was not done for or in expectation of any fee, gain or reward, be guilty of an offence.
 
-(3) Any unauthorised person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offence.
+(3) Any unauthorised person who, for or in expectation of any fee, gain or reward, offers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offence.
+
+[35/2001]
 
 (4) Subsection (3) shall not apply to any person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor pursuant to a lawful contract of indemnity or insurance.
 
-(5) Every person who is convicted of an offence under subsection
-
-(2) or (3) shall be liable for a first offence to a fine not exceeding $500 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $500 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor, or has the capacity or powers of a law corporation when in fact the body corporate does not, shall be an offence and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $1,000 and for a second or subsequent offence to a fine not exceeding $3,000.
 

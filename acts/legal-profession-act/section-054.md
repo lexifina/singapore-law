@@ -1,5 +1,6 @@
 # 54. Council’s term of office
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 4 — Election of Members of Council
 
 (1) Every Council of the Society constituted after an annual election shall take office on 1st January after that election and shall hold office until 31st December in that year or, if such is the case, until a Council takes office under subsection (2).
 

@@ -1,7 +1,7 @@
 # 89. Application to appoint Disciplinary Committee
 Part: PART VII DISCIPLINARY PROCEEDINGS
 
-(1) Where the Council determines under section 87 that there should be a formal investigation, the Council shall forthwith apply to the Chief Justice to appoint a Disciplinary Committee which shall hear and investigate the matter.
+(1) Where the Council determines under section 87 that there should be a formal investigation, the Council shall immediately apply to the Chief Justice to appoint a Disciplinary Committee which shall hear and investigate the matter.
 
 [30/86; 41/93]
 

@@ -1,5 +1,5 @@
 # 80. Account by solicitor
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) Where the relationship of solicitor and client exists, or has existed, a summons may be issued by the client or his representatives for the delivery of a cash account, or the payment of moneys, or the delivery of securities.
 

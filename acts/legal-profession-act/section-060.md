@@ -1,5 +1,6 @@
 # 60. Appointment of committees of Council
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 6 — Powers of Council
 
 (1) The Council may appoint one or more committees for any such general or special purpose as in the opinion of the Council may be better regulated or managed by means of a committee.
 

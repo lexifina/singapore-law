@@ -36,4 +36,6 @@
 
 18. Act 4 of 2000 — Legal Profession (Amendment) Act 2000 Date of First Reading : 23.11.99 (Bill No. 41/99 published on 24.11.99) Date of Second and Third Readings : 17.1.2000 Date of commencement : 5.5.2000
 
-19. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000 Date of First Reading : 25.8.2000 (Bill No. 22/2000 published on 26.8.2000) Date of Second and Third Readings : 9.10.2000 Date of commencement : 1.11.2000
+19. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000 (Consequential amendments made by) Date of First Reading : 25.8.2000 (Bill No. 22/2000 published on 26.8.2000) Date of Second and Third Readings : 9.10.2000 Date of commencement : 1.11.2000
+
+20. Act 35 of 2001 — Legal Profession (Amendment) Act 2001 Date of First Reading : 25.9.2001 (Bill No. 39/2001 published on 26.9.2001) Date of Second and Third Readings : 5.10.2001 Date of commencement : 1.11.2001

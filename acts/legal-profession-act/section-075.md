@@ -1,5 +1,5 @@
 # 75. Compensation Fund
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) The Society shall maintain and administer in accordance with this section a fund to be known as the Compensation Fund (referred to in this section as the Fund).
 
@@ -55,7 +55,7 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CL
 
 (13) On the making by the Society of any grant under this section to any person in respect of any loss —
 
-(a) the Society shall to the amount of the grant be subrogated to any rights and remedies in respect of the loss of the person to whom the grant is made or of the solicitor, clerk or servant;
+(a) the Society shall, to the amount of the grant, be subrogated to any rights and remedies in respect of the loss of the person to whom the grant is made or of the solicitor, clerk or servant; and
 
 (b) the person to whom the grant is made shall have no right under bankruptcy or other legal proceedings or otherwise to receive any sum out of the assets of the solicitor, clerk or servant in respect of the loss until the Society has been reimbursed the full amount of its grant.
 

@@ -1,5 +1,5 @@
 # 9. Chairman, Deputy Chairman and Secretary
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
 
 (1) The Board shall every year elect a Chairman and a Deputy Chairman who shall so long as they continue to be members of the Board be eligible for re-election.
 

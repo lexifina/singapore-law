@@ -39,6 +39,6 @@ Part: PART IV PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [15/89]
 
-(7) On 21st April 1989, those persons who on the date immediately preceding that date are holding office as the Attorney-General and the Solicitor-General shall be deemed to have been appointed as Senior Counsel under this section.
+(7) On 21st April 1989, those persons who, on the date immediately preceding that date, are holding office as the Attorney-General and the Solicitor-General shall be deemed to have been appointed as Senior Counsel under this section.
 
 [15/89]

@@ -1,5 +1,6 @@
 # 19. Service of documents and objections
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) A copy each of every petition and affidavit required to be filed under section 17 or 18 together with true copies of each document exhibited thereto shall, within 5 days of the document being filed in the Registrar’s office, be served on the Attorney- General, the Board and the Society.
 

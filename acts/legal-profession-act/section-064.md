@@ -1,9 +1,10 @@
 # 64. Meetings of Council
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 7 — Proceedings of Council
 
 (1) The Council may meet at such time and place and as often as may be necessary.
 
-(2) 5 members personally present at any meeting of the Council shall constitute a quorum for the transaction of any business.
+(2) Five members personally present at any meeting of the Council shall constitute a quorum for the transaction of any business.
 
 (3) A decision of the majority of the members of the Council present and voting at any meeting of the Council shall be deemed to be a decision of the Council.
 

@@ -1,5 +1,6 @@
-# 49. Elected members Election of Members of Council
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+# 49. Elected members
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 3 — Council of Society
 
 (1) There shall be 15 elected members of the Council consisting of —
 
@@ -31,7 +32,7 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 
 (7) The court of 3 Judges shall not give leave under subsection (4) unless —
 
-(a) notice of intention to apply therefor and all documents in support thereof have been served at least 14 clear days before the date of the hearing on the Attorney-General and on the Society, either or both of whom may be represented at the hearing of, and may oppose the application;
+(a) notice of intention to apply therefor and all documents in support thereof have been served at least 14 clear days before the date of the hearing on the Attorney-General and on the Society, either or both of whom may be represented at the hearing of, and may oppose, the application;
 
 (b) the applicant satisfies the court that his conduct since his conviction, striking-out or suspension did not make him unfit to be a member of the Council; and
 
@@ -43,7 +44,7 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 
 [30/86]
 
-(9) Any person who fails to comply with subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(9) Any person who contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [30/86]
 
@@ -56,5 +57,3 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE
 (c) 2 members specified in subsection (1) (c), chosen by lot at the first meeting of the Council after such election shall hold office for only one year.
 
 (11) Every elected member of the Council shall be eligible for re-election if he is qualified to be a candidate.
-
-Election of Members of Council

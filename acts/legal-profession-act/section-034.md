@@ -17,7 +17,7 @@ Section 33 does not extend to —
 
 (g) any arbitrator or umpire lawfully acting under any written law relating to arbitration, settling or attempting to settle the dispute between the parties to the arbitration;
 
-(h) any full-time member of the academic staff of the Faculty of Law of the National University of Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed;
+(h) any full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed by an advocate and solicitor;
 
 (i) any accountant drawing or preparing documents in the exercise of his profession;
 
@@ -28,3 +28,5 @@ Section 33 does not extend to —
 (l) any approved company auditor drawing or preparing any instrument which he is empowered to do under any law for the time being in force relating to companies; or
 
 (m) any agent duly authorised to the satisfaction of the Registrar of Trade Marks drawing or preparing documents in any matter relating to trade marks.
+
+[35/2001]

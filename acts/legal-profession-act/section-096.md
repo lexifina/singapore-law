@@ -5,7 +5,7 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (a) that a formal investigation is not necessary; or
 
-(b) that no sufficient cause for a formal investigation exists but that the advocate and solicitor concerned should be ordered to pay a penalty, that person, if he is dissatisfied with the determination, may within 14 days of being notified of the Council’s determination apply to a Judge under this section.
+(b) that no sufficient cause for a formal investigation exists but that the advocate and solicitor concerned should be ordered to pay a penalty, that person may, if he is dissatisfied with the determination within 14 days of being notified of the Council’s determination, apply to a Judge under this section.
 
 [41/93]
 

@@ -1,5 +1,6 @@
 # 43. Privileges of membership
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 2 — Members of Society and subscriptions
 
 (1) Subject to this section and section 44, all members shall have the same rights and privileges.
 

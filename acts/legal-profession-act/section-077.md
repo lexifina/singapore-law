@@ -1,5 +1,5 @@
 # 77. Solicitor not to act as agent for any unauthorised person
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
+Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (1) No solicitor shall —
 

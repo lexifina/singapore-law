@@ -1,5 +1,6 @@
 # 24. Declaration, duty and roll
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) Every person admitted as an advocate and solicitor of the Supreme Court shall make the declaration set out in subsection (2).
 

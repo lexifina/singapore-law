@@ -37,7 +37,7 @@ Part: PART III PRACTISING CERTIFICATES
 
 [40/96]
 
-(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in paragraph (c), (d), (e), (f), (g) or (h) of subsection (1), the solicitor concerned may, upon proof of a change in the circumstances or for other good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
+(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in subsection (1) (c), (d), (e), (f), (g) or (h), the solicitor concerned may, upon proof of a change in the circumstances or for other good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
 
 [40/96]
 
@@ -45,7 +45,9 @@ Part: PART III PRACTISING CERTIFICATES
 
 (a) to grant the application for a practising certificate; or
 
-(b) to remove any condition imposed on the practising certificate under subsection (2) (b), and the Registrar may comply with the request and notify the solicitor in writing.
+(b) to remove any condition imposed on the practising certificate under subsection (2) (b),
+
+and the Registrar may comply with the request and notify the solicitor in writing.
 
 [40/96]
 
@@ -55,7 +57,9 @@ Part: PART III PRACTISING CERTIFICATES
 
 (7) The Registrar shall not refuse an application by a solicitor for a practising certificate where —
 
-(a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in paragraph (a) or (b) of subsection (1); or
+(a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in subsection (1) (a) or (b);
+
+or
 
 (b) disciplinary proceedings against the solicitor under Part VII by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
 

@@ -1,5 +1,6 @@
 # 22. Review of Board’s decision
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) Any person dissatisfied with any decision of the Board may apply to a Judge for a review of the decision.
 

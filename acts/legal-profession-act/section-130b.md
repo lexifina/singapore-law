@@ -41,7 +41,7 @@ Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
 
 [4/2000]
 
-(7) Nothing in this Act or any rules made thereunder shall prevent the constituent law firms in the Joint Law Venture from sharing office premises, profits or client information with respect to the legal practice of the Joint Law Venture.
+(7) Nothing in this Act shall prevent the constituent law firms in the Joint Law Venture from sharing office premises, profits or client information with respect to the legal practice of the Joint Law Venture.
 
 [4/2000]
 
@@ -57,7 +57,7 @@ Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
 
 [4/2000]
 
-(11) Notwithstanding section 27 of the Companies Act (Cap. 50), a Joint Law Venture which is a limited company need not have the word ‘‘Limited’’ or ‘‘Berhad’’ as part of its name and a Joint Law Venture which is a private company need not have the word ‘‘Private’’ or ‘‘Sendirian’’ as part of its name.
+(11) Notwithstanding section 27 of the Companies Act, a Joint Law Venture which is a limited company need not have the word ‘‘Limited’’ or ‘‘Berhad’’ as part of its name and a Joint Law Venture which is a private company need not have the word ‘‘Private’’ or ‘‘Sendirian’’ as part of its name.
 
 [28/2000]
 

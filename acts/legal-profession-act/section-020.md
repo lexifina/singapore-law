@@ -1,5 +1,6 @@
 # 20. Caveats and misrepresentations
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) Any person may enter a caveat against the admission of any petitioner and upon such a caveat being entered, no application for the admission of the petitioner shall be heard except after not less than 3 clear days’ notice has been given to the person entering the caveat.
 

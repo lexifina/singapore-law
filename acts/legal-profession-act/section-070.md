@@ -1,5 +1,6 @@
 # 70. Convening and procedure
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 8 — General meetings of Society
 
 (1) The manner of convening general meetings of the Society and the procedure thereat shall, subject to the provisions of this Act, be regulated by by-laws made by the Society.
 

@@ -1,5 +1,6 @@
 # 44. Expulsion and suspension of rights and privileges
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 2 — Members of Society and subscriptions
 
 (1) Subject to subsection (2), any member of the Society, other than an honorary member, may in the prescribed manner, and upon such grounds, after being given a reasonable opportunity to answer all allegations made against him —
 

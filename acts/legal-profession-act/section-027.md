@@ -7,6 +7,6 @@ Part: PART III PRACTISING CERTIFICATES
 
 (2) Any person may inspect the register of practitioners during office hours without payment.
 
-(3) If there is any change with respect to any solicitor in the particulars referred to in subsection (1) or with respect to the status of his practising certificate, including as to whether it has ceased to be in force under section 26 (5), that solicitor shall within one week thereafter notify the Registrar and the Council, and the Registrar shall thereupon cause the entry in respect of that solicitor in the register of practitioners to be amended.
+(3) If there is any change with respect to any solicitor in the particulars referred to in subsection (1) or with respect to the status of his practising certificate, including as to whether it has ceased to be in force under section 26 (9), that solicitor shall within one week thereafter notify the Registrar and the Council, and the Registrar shall thereupon cause the entry in respect of that solicitor in the register of practitioners to be amended.
 
 [40/96]

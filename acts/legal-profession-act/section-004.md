@@ -1,5 +1,5 @@
 # 4. Purposes of Board
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
 
 The purposes of the Board shall be —
 

@@ -1,5 +1,6 @@
 # 14. Service of pupillage
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) A pupil shall, subject to the approval of the Board, serve his prescribed period of pupillage —
 
@@ -17,13 +18,13 @@ Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
 
 [10/91; 41/93; 40/96]
 
-(3) For the purposes of this section and section 13 (5), ‘‘legal officer’’ includes a legal officer of the Inland Revenue Authority of Singapore.
+(3) For the purposes of this section and section 13 (5), ‘‘legal officer’’ includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory board or authority as the Minister may prescribe.
 
-[41/93]
+[41/93; 35/2001]
 
 (4) The Board may approve a request that a qualified person serve different parts of his period of pupillage with different masters.
 
-(5) The Board may, in its discretion, exempt a qualified person from a maximum of 3 months’ pupillage upon application made supported by satisfactory evidence that the applicant —
+(5) The Board may, in its discretion, exempt a qualified person from pupillage, wholly or for such period as the Board thinks fit, upon application made supported by satisfactory evidence that the applicant —
 
 (a) has been a pupil or read in the chambers of a practising barrister of the United Kingdom or of a member of the Faculty of Advocates in Scotland of more than 7 years’ standing;
 
@@ -33,4 +34,4 @@ Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
 
 (d) has attended such course of instruction and successfully passed such examination as may be approved by the Board for the purposes of this section.
 
-[15/89]
+[15/89; 35/2001]

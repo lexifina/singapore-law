@@ -1,5 +1,6 @@
 # 39. Membership
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 2 — Members of Society and subscriptions
 
 The membership of the Society shall consist of the following:
 

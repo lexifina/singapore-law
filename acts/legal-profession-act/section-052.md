@@ -1,5 +1,6 @@
 # 52. Nominations
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 4 — Election of Members of Council
 
 Every nomination of a candidate for election —
 

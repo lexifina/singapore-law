@@ -1,11 +1,12 @@
 # 11. Admission of advocates and solicitors
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Board of Legal Education
+Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+Division: Division 2 — Qualified persons
 
 (1) The court may, in its discretion and subject to the provisions of this Act, admit as an advocate and solicitor of the Supreme Court —
 
 (a) any qualified person under the provisions of this Part; or
 
-(b) any Malayan practitioner under section 15 or Hong Kong practitioner under section 16.
+(b) any Malayan practitioner under section 15.
 
 [17/84]
 

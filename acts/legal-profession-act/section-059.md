@@ -1,5 +1,6 @@
 # 59. Specific powers of Council
-Part: PART V THE LAW SOCIETY OF SINGAPORE
+Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+Division: Division 6 — Powers of Council
 
 (1) Without prejudice to the general powers conferred by section 58 or the specific powers to make rules conferred by any other provision of this Act, the Council shall have power —
 
