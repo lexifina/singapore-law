@@ -1,38 +1,30 @@
-# 32. Suspension and cancellation of registration, licence or certificate
+# 32. Appeals
 Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
 
-(1) The Commissioner may suspend or cancel the registration of a vector control operator, a vector control technician’s licence or a vector control worker’s certificate if the Commissioner is satisfied that —
+(1) Any person who is aggrieved by —
 
-(a) the grant of the registration, licence or certificate has been obtained by fraud or misrepresentation;
+(a) the imposition of any condition by the Director-General in granting or renewing any registration, licence or certificate under section 29 or 30;
 
-(b) the person to whom the registration, licence or certificate has been granted is contravening, or has contravened or failed to comply with —
+(b) the refusal of the Director-General to grant or renew any registration, licence or certificate under section 29 or 30; or
 
-(i) any of the provisions of this Act or the regulations;
+(c) the decision of the Director-General to suspend or cancel any registration, licence or certificate under section 31, may, within 14 days of the date of receipt of the notice informing him of such imposition of conditions, refusal, suspension or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
-(ii) any condition subject to which the registration, licence or certificate, as the case may be, was granted to him; or
+[4/2002]
 
-(iii) any direction given to him by the Commissioner or a public health officer under this Act or the regulations;
+(2) Notwithstanding that any appeal under subsection (1) is pending, any condition imposed by the Director-General under section 29 or 30 shall take effect from the date specified by the Director-General, unless the Minister otherwise orders.
 
-(c) the person to whom the registration, licence or certificate has been granted has ceased to carry on business as a vector control operator or a vector control technician or a vector control worker, as the case may be;
+[4/2002]
 
-(d) in the case of a person who has been granted a provisional vector control technician’s licence or a provisional vector control worker’s certificate, that person has failed to complete the training referred to in section 30 (6); or
+(3) If within the period referred to in subsection (1) the person whose registration, licence or certificate has been suspended or cancelled by the Director-General gives due notice of appeal to the Minister, the suspension or cancellation of his registration, licence or certificate, as the case may be, shall not take effect unless it is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
 
-(e) it is in the public interest to suspend or cancel the registration, licence or certificate.
+[4/2002]
 
-(2) The Commissioner, before suspending or cancelling any registration, licence or certificate under subsection (1), shall —
+(4) For the purposes of this section —
 
-(a) give to the person to whom the registration, licence or certificate has been granted notice in writing of his intention to do so; and
+(a) any reference to a licence shall be read as including a reference to a provisional vector control technician’s licence;
 
-(b) in the notice referred to in paragraph (a) call upon that person to show cause within such time as may be specified in the notice as to why his registration, licence or certificate should not be suspended or cancelled.
+and
 
-(3) If the person to whom a notice has been given under subsection (2) —
+(b) any reference to a certificate shall be read as including a reference to a provisional vector control worker’s certificate.
 
-(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Commissioner may allow; or
-
-(b) fails to show sufficient cause, the Commissioner shall give notice in writing to that person of the date from which the suspension or cancellation of his registration, licence or certificate, as the case may be, is to take effect.
-
-(4) In this section —
-
-(a) any reference to a vector control technician’s licence shall be read as including a reference to a provisional vector control technician’s licence; and
-
-(b) any reference to a vector control worker’s certificate shall be read as including a reference to a provisional vector control worker’s certificate.
+[33

@@ -1,42 +1,12 @@
-# 11. Cancellation of registration of pesticide or vector repellent
+# 11. Removal of registration marks, surrender of stocks, etc., upon cancellation of registration
 Part: PART III CONTROL OF PESTICIDES AND VECTOR REPELLENTS
 
-(1) The Commissioner may, subject as hereinafter provided, cancel the registration of a pesticide or vector repellent if he is satisfied —
+Upon the cancellation of the registration of a pesticide or vector repellent —
 
-(a) having regard to any information received by him subsequent to the registration of the pesticide or vector repellent concerning the effects thereof, that the hazards arising from the use of the pesticide for the purpose of vector control, or from the use of the vector repellent for the purpose of repelling vectors, outweigh the advantages thereof;
+(a) the person to whom the registration was granted shall, unless the Director-General otherwise directs, immediately take such steps as are reasonable and necessary to have the registration mark removed, cancelled or obliterated from every container, package or label on which he has printed or caused to be printed or to which he has affixed or caused to be affixed, the registration mark; and
 
-(b) that the pesticide or vector repellent is not being prepared in accordance with the particulars registered in respect of the pesticide or vector repellent, as the case may be;
+(b) the Director-General may, in his discretion, by notice in writing addressed to the person to whom the registration was granted, require such person to recall all stocks, or to cease the sale, supply or distribution, of that pesticide or vector repellent within such time as the Director-General may specify in the notice.
 
-(c) that the pesticide or vector repellent no longer conforms to the prescribed standards;
+[12
 
-(d) that the pesticide or vector repellent is no longer available for purchase in Singapore;
-
-(e) that the registrant has procured the registration of the pesticide or vector repellent by providing any particulars, information or document or making any statement or representation, which is false;
-
-(f) that the registrant has failed to comply with any of the conditions subject to which the pesticide or vector repellent has been registered;
-
-(g) that the container or package in which the pesticide or vector repellent is being sold or supplied or the label printed thereon or affixed thereto does not comply with the prescribed requirements;
-
-(h) that the pesticide or vector repellent is being advertised in a manner that is false, misleading or deceptive; or
-
-(i) that the registrant has contravened or failed to comply with any of the provisions of this Act or the regulations.
-
-(2) Before cancelling the registration of a pesticide or vector repellent, the Commissioner shall serve a notice in writing on the registrant requiring him, within such time as may be specified in the notice, to show cause to the Commissioner why the registration of the pesticide or vector repellent should not be cancelled.
-
-(3) If the registrant fails to show cause as mentioned in subsection
-
-(2) within the specified time or within such further period as the Commissioner may allow, the Commissioner may, if he thinks fit, cancel the registration of the pesticide or vector repellent as from a date to be specified by him.
-
-(4) If the registrant complies with the notice, the Commissioner shall consider any representations or submissions made to him by or on behalf of the registrant, and if the Commissioner is satisfied of any of the matters referred to in subsection (1), he may —
-
-(a) cancel the registration of the pesticide or vector repellent as from a date to be specified by him; or
-
-(b) allow the registration of the pesticide or vector repellent to continue, subject to such terms and conditions as he may specify.
-
-(5) Where the Commissioner —
-
-(a) cancels the registration of a pesticide or vector repellent under subsection (3) or (4) (a); or
-
-(b) allows the registration of a pesticide or vector repellent to continue subject to terms and conditions under subsection
-
-(4) (b), the Commissioner shall, as soon as possible, inform the registrant thereof in writing.
+[4/2002]

@@ -1,9 +1,11 @@
 # 60. Regulations
 Part: PART VI MISCELLANEOUS
 
-(1) The Minister may make regulations for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+(1) The Agency may, with the approval of the Minister, make regulations for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations —
+[4/2002]
+
+(2) Without prejudice to the generality of subsection (1), the Agency may, with the approval of the Minister, make regulations —
 
 (a) prescribing the particulars, information and documents to be furnished with any application made under this Act;
 
@@ -17,7 +19,7 @@ Part: PART VI MISCELLANEOUS
 
 (f) prescribing the duties and obligations of registered vector control operators, licensed and provisionally licensed vector control technicians and certified and provisionally certified vector control workers;
 
-(g) providing for the powers and duties of the Commissioner or any public health officer or authorised officer under this Act;
+(g) providing for the powers and duties of the Director-General or authorised officers under this Act;
 
 (h) prohibiting, controlling or regulating the carrying out of any type of vector control work or the use of any type of pesticide for the purpose of vector control;
 
@@ -37,6 +39,10 @@ Part: PART VI MISCELLANEOUS
 
 (p) prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded.
 
-(3) The Minister may, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which such offence continues after conviction.
+[4/2002]
+
+(3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable, except that no such fine shall exceed for any one offence the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which the offence continues after conviction.
+
+[4/2002]
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in the Gazette.

@@ -1,8 +1,8 @@
-# 19. Enforcement of order under section 18
+# 19. Prohibition on clearing undergrowth or vegetation under certain circumstances
 Part: PART IV DESTRUCTION OF VECTORS
 
-If the owner or occupier of any premises, vessel or aircraft on whom an order made under section 18 has been served fails to comply with the terms thereof, the Commissioner or a public health officer may —
+Where on any land there is any stream or seepage or running or standing water to which shade may be afforded by the development of undergrowth or other vegetation, no person shall cut down or clear or cause or permit to be cut down or cleared any undergrowth or vegetation within 6 metres of any such stream or seepage or running or standing water without the prior approval of the Director-General.
 
-(a) enter such premises, vessel or aircraft with such assistants and things as are necessary; and
+[20
 
-(b) perform and do such acts and things as are necessary or as are required by the order to be performed or done and recover the costs and expenses thereof, if any, from the owner or occupier of the premises, vessel or aircraft.
+[4/2002]

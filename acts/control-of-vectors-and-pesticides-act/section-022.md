@@ -1,8 +1,8 @@
-# 22. Spraying or fogging with pesticide
+# 22. Power to require information
 Part: PART IV DESTRUCTION OF VECTORS
 
-(1) The Commissioner may, by notice in writing, require the owner or occupier of any premises, vessel or aircraft or any pond, well, pool or other body of water, to carry out the spraying or fogging thereof with any form of pesticide within the time specified in such notice.
+If, in the opinion of the Director-General, there is reasonable ground for suspecting that any person is in possession of information relating to the propagation of vectors or of the occurrence of any vector-borne disease, the Director-General may require that such information be produced to him, whether immediately or within such time as he may specify.
 
-(2) Notwithstanding subsection (1), the Commissioner may, if he considers necessary, himself carry out such spraying or fogging and recover any costs or expenses incurred by him from the owner or occupier of the premises, vessel or aircraft or pond, well, pool or other body of water, as the case may be.
+[23
 
-(3) No person shall remove or render less effective any pesticide so sprayed or fogged under subsection (1) or (2).
+[4/2002]

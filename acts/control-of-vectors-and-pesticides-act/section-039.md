@@ -1,6 +1,12 @@
-# 39. Penalty for damaging, etc., works
+# 39. Damage to property of Agency to be made good in addition to penalty
 Part: PART VI MISCELLANEOUS
 
-(1) Any person who, without the consent of the Commis- sioner, interferes with, damages, injures, destroys or renders useless any works executed or any materials or things placed in, under or upon any premises by or under the order of the Commissioner, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage is caused by that person to property belonging to the Agency, he shall be liable to make good the damage as well as to pay the penalty.
 
-(2) The Commissioner may in addition recover from the person convicted any costs and expenses incurred in connection with the re-execution of the works or the replacement of the materials or things so interfered with, damaged, injured, destroyed or rendered useless.
+[4/2002]
+
+(2) The amount of such damage shall, in case of dispute, be determined by the court by which the person incurring the penalty was convicted.
+
+(3) The amount of the damage shall be recovered as if it were a fine imposed by the court.
+
+[40

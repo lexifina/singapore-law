@@ -1,22 +1,12 @@
-# 38. Owner and occupier to protect works
+# 38. Penalty for damaging, etc., works
 Part: PART VI MISCELLANEOUS
 
-(1) Where the Commissioner or any department of the Government has constructed any works with the object of preventing the breeding of vectors, the owner or occupier of the premises on which the works stand shall prevent the premises from being used in any manner that —
+(1) Any person who, without the consent of the Director- General, interferes with, damages, injures, destroys or renders useless any works executed or any materials or things placed in, under or upon any premises by or under the order of the Director-General, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-(a) is likely to cause the deterioration of the works; or
+[4/2002]
 
-(b) is likely to lessen the efficiency of the works.
+(2) The Director-General may in addition recover from the person convicted any costs and expenses incurred in connection with the re-execution of the works or the replacement of the materials or things so interfered with, damaged, injured, destroyed or rendered useless.
 
-(2) Where any such premises are used in such a manner as to cause the deterioration of, or to lessen the efficiency of, the works —
+[39
 
-(a) the owner or occupier of such premises shall, subject to subsection (4), be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000; and
-
-(b) the Commissioner may enter the premises with such assistants and things as are necessary and execute any necessary repairs or works thereon and recover from the person convicted the costs and expenses incurred in connection with the repairs or works.
-
-(3) Before any proceedings are taken under this section, the Commissioner shall give to the owner or occupier, as the case may be, notice in writing specifying —
-
-(a) what the Commissioner requires to be done or not to be done; and
-
-(b) the time within which the notice is to be complied with.
-
-(4) If the owner of such premises is, by reason of any contract (not being a contract made with an intention to evade liability under this section), prevented from entering the premises to carry out the duties and obligations mentioned in subsection (1), he shall not be liable to any of the penalties mentioned in subsection (2) unless it can be shown that he has contributed in any way to the refusal or failure of the occupier to carry out such duties and obligations.
+[4/2002]

@@ -1,16 +1,20 @@
-# 6. Pesticides and vector repellents to be registered, etc.
+# 6. Application for registration of pesticides and vector repellents
 Part: PART III CONTROL OF PESTICIDES AND VECTOR REPELLENTS
 
-(1) No person shall —
+An application for the registration of a pesticide or vector repellent shall be made to the Director-General in such form as the Director-General may require and shall be accompanied by —
 
-(a) advertise any pesticide as being suitable for the purpose of vector control;
+(a) the prescribed fee;
 
-(b) sell or supply any pesticide for the purpose of vector control;
+(b) such particulars, information and documents as may be prescribed;
 
-or
+(c) such samples of —
 
-(c) advertise, sell or supply any substance, mixture or preparation as being suitable for repelling vectors, unless the pesticide, substance, mixture or preparation, as the case may be, is registered under section 8.
+(i) the pesticide or vector repellent and its container or package; and
 
-(2) No person shall sell any pesticide or vector repellent registered under section 8 otherwise than in a container or package to which is affixed or on which is printed a label that has been approved by the Commissioner and that shows clearly and distinctly the particulars prescribed by the regulations.
+(ii) the label that is intended to be used in respect of the pesticide or vector repellent, as the Director-General may require; and
 
-(3) No vector control operator, vector control technician or vector control worker shall use any pesticide for the purpose of carrying out any vector control work unless the pesticide is registered under section 8.
+(d) if required by the Director-General, a statutory declaration by the applicant verifying any information contained in or relating to the application.
+
+[7
+
+[4/2002]

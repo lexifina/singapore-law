@@ -1,6 +1,8 @@
-# 61. Savings
+# 61. Transitional provision
 Part: PART VI MISCELLANEOUS
 
-(1) Any appointment, document, permission, resolution or scheme relating to any matter dealt with under this Act which was made, granted or approved under the repealed Destruction of Disease-Bearing Insects Act (Cap. 79) shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been made, granted or approved, as the case may be, under this Act.
+Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 2002* shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-(2) Any form used for the purposes of the repealed Destruction of Disease-Bearing Insects Act which was in force or effected immediately before 1st September 1998 shall continue in force and have effect as though prescribed under this Act until new forms are so prescribed.
+[4/2002]
+
+* Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002).

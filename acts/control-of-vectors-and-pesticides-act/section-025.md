@@ -1,8 +1,6 @@
-# 25. Vector control operators to be registered
+# 25. Vector control technicians to be licensed
 Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
 
-No person shall —
+No person shall act as or carry out the work of a vector control technician unless he is licensed or provisionally licensed as a vector control technician under this Act.
 
-(a) in the course of any trade or business, undertake or engage in vector control work; or
-
-(b) advertise or otherwise hold himself out as a vector control operator, unless he is registered as a vector control operator under this Act.
+[26

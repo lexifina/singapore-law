@@ -1,8 +1,6 @@
-# 28. Vector control operator to employ licensed vector control technicians and certified vector control workers to carry out vector control work
+# 28. Vector control technicians to be assisted only by certified vector control workers
 Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
 
-A registered vector control operator shall not employ or engage any person —
+A vector control technician who is licensed or provisionally licensed under this Act shall not allow any person to assist him, or to partake, in the carrying out of any vector control work unless that person has been certified or provisionally certified as a vector control worker under this Act.
 
-(a) to carry out the work of a vector control technician unless that person has been licensed or provisionally licensed as a vector control technician under this Act; or
-
-(b) to carry out the work of a vector control worker unless that person has been certified or provisionally certified as a vector control worker under this Act.
+[29

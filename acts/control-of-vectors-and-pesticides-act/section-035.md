@@ -1,4 +1,22 @@
-# 35. Penalty under this Part
-Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
+# 35. Power to enter premises, vessel or aircraft
+Part: PART VI MISCELLANEOUS
 
-Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both.
+(1) The Director-General or authorised officer may, with or without assistants, for the purposes of this Act, enter any premises, vessel or aircraft in order to make any survey, inspection or search or to execute any works authorised by this Act.
+
+[4/2002]
+
+(2) Any Medical Officer of Health may —
+
+(a) medically examine any person in the premises, vessel or aircraft for the purpose of ascertaining whether that person is suffering from, or has recently suffered from, or is a carrier of, any vector-borne disease, or whether that person has been recently exposed to infection by any such disease;
+
+(b) medically treat any person residing in the premises, vessel or aircraft who is suffering from any vector-borne disease; and
+
+(c) cause a post-mortem examination to be made on any corpse found in the premises, vessel or aircraft for the purpose of ascertaining whether the cause of death has been due to any vector-borne disease.
+
+(3) No person shall, except with the consent of the occupier thereof, enter any dwelling-house by virtue of the powers conferred by this section without at least 12 hours previous notice being given to the occupier thereof, if any.
+
+(4) The owner or occupier of any premises, vessel or aircraft, as the case may be, shall supply all such information as the Director- General or any authorised officer may require or consider to be reasonably necessary for the purpose of this section.
+
+[36
+
+[4/2002]

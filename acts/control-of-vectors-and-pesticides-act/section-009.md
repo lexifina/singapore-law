@@ -1,6 +1,10 @@
-# 9. Registration mark
+# 9. Register of pesticides and vector repellents
 Part: PART III CONTROL OF PESTICIDES AND VECTOR REPELLENTS
 
-(1) Where a pesticide or vector repellent has been registered by the Commissioner under section 8, the registrant shall cause a registration mark to be shown clearly and in a conspicuous position on the label on every container or package in which the pesticide or vector repellent is to be sold or supplied.
+(1) The Director-General shall maintain, in such form as he thinks fit, a register of all pesticides and vector repellents which have been registered under section 7.
 
-(2) The registration mark shall be in such form and shall contain such particulars as the Commissioner may determine.
+[4/2002]
+
+(2) Any person may, on payment of the prescribed fee, inspect the register at any time during office hours.
+
+[10

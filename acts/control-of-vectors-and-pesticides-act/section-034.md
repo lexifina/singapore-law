@@ -1,6 +1,6 @@
-# 34. Register of vector control operators, vector control technicians and vector control workers
+# 34. Penalty under this Part
 Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
 
-(1) The Commissioner shall maintain, in such form as he thinks fit, a register of all registered vector control operators, licensed and provisionally licensed vector control technicians and certified and provisionally certified vector control workers.
+Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(2) Any person may, on payment of the prescribed fee, inspect the register at any time during office hours.
+[35

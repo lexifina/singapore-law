@@ -1,8 +1,10 @@
-# 41. Compensation, damages, fees, costs and expenses to be determined by Court
+# 41. Recovery of costs and expenses by instalments
 Part: PART VI MISCELLANEOUS
 
-(1) Except as otherwise provided in this Act, in all cases when compensation, damages, fees, costs and expenses are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute or failure to pay, be summarily ascertained and determined by a District Court.
+(1) Where the Director-General has incurred costs and expenses in connection with the execution of any works, which are, under this Act, payable by or recoverable from the owner or occupier of any premises, vessel or aircraft, as the case may be, the Director- General may, if he thinks fit, obtain an undertaking from such owner or occupier for the payment of such instalments as will be sufficient to defray the whole amount of such costs and expenses.
 
-(2) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay such amount within 14 days after demand, such amount may be reported to a District Court and recovered in the same manner as if it were a fine imposed by a District Court.
+[4/2002]
 
-(3) An appeal shall lie to the High Court from any decision of a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifi- cations, to all such appeals.
+(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of such amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises, vessel or aircraft since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 40.
+
+[42

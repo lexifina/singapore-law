@@ -1,10 +1,28 @@
-# 16. Prohibition on creating conditions favourable to vectors
+# 16. Prohibition on breeding, etc., of vectors without Director-General’s permission
 Part: PART IV DESTRUCTION OF VECTORS
 
-(1) No person shall create or cause or permit to be created any condition favourable to the propagation or harbouring of vectors.
+(1) No person shall breed, keep, collect, distribute, sell, import or export any vectors without the permission in writing of the Director-General.
 
-(2) Every person shall comply with all such reasonable directions as may be given by the Commissioner or any public health officer with a view to ensuring that such conditions do not arise or with a view to terminating such conditions.
+[4/2002]
 
-(3) Such directions may be given to the owner or occupier of any premises, vessel or aircraft and to any person therein, including the agents and servants of such owner or occupier.
+(2) An application for the Director-General’s permission to breed, keep, collect, distribute, sell, import or export any vectors shall be made in such form and shall state such particulars as the Director- General may require.
 
-(4) If in any proceedings for a contravention of subsection (1) it is shown that the condition on any premises, vessel or aircraft is favourable to the propagation or harbouring of vectors, it shall be presumed, unless the contrary is proved, that the condition is created, or caused or permitted to be created by the owner or occupier of such premises, vessel or aircraft.
+[4/2002]
+
+(3) The Director-General may, in his discretion, refuse the application without assigning any reason.
+
+[4/2002]
+
+(4) The Director-General shall not grant his permission to any person to breed, keep, collect, distribute, sell, import or export any vectors unless the Director-General is satisfied that the application has been made for a scientific purpose or for purposes of education or research or for such other purpose as may be acceptable to the Director-General.
+
+[4/2002]
+
+(5) The Director-General may, in granting his permission to any person to breed, keep, collect, distribute, sell, import or export any vectors, impose such conditions as the Director-General thinks fit.
+
+[4/2002]
+
+(6) The Director-General may, in his discretion, revoke his permission granted under this section at any time without assigning any reason.
+
+[17
+
+[4/2002]

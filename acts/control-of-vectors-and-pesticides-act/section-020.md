@@ -1,4 +1,8 @@
-# 20. Prohibition on clearing undergrowth or vegetation under certain circum- stances
+# 20. Medical examination of persons suspected of being infected with vector-borne disease
 Part: PART IV DESTRUCTION OF VECTORS
 
-Where on any land there is any stream or seepage or running or standing water to which shade may be afforded by the development of undergrowth or other vegetation, no person shall cut down or clear or cause or permit to be cut down or cleared any undergrowth or vegetation within 6 metres of any such stream or seepage or running or standing water without the prior approval of the Commissioner.
+The Director-General may, by notice in writing, require any person suspected of being infected with vector-borne disease to submit to medical examination and have his blood sample taken for examination within the time specified in such notice, and if the person is found to be infected, the Director-General may require the person to undergo treatment.
+
+[21
+
+[4/2002]
