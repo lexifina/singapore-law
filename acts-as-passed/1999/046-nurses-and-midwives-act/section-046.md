@@ -1,0 +1,4 @@
+# 46. Repeal
+Part: PART VII REPEAL, TRANSITIONAL PROVISIONS AND CONSEQUENTIAL AMENDMENTS
+
+The Nurses and Midwives Act (Cap. 209) is repealed.

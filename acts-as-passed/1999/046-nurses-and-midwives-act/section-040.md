@@ -1,0 +1,10 @@
+# 40. Service of documents
+Part: PART VI MISCELLANEOUS
+
+Any notice, order or document required or authorised to be served or given under this Act or any regulations made thereunder shall be deemed to be sufficiently served or given —
+
+(a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of residence or business of the person on whom it is to be served or given;
+
+or
+
+(b) by sending it by registered post addressed to the person on whom it is to be served or given at his last known place of residence or business.
