@@ -1,0 +1,4 @@
+# 29. Children and young persons not to associate with adult offenders
+Part: PART III JUVENILE COURT
+
+No child or young person while detained in a police station or while being conveyed to or from any court, or while waiting before or after attending in any criminal court, shall be permitted to associate with an adult (not being a relative) who is charged with an offence other than an offence with which the child or young person is jointly charged.
