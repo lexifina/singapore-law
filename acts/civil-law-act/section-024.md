@@ -1,0 +1,5 @@
+# 24. Executor deemed to be trustee for person entitled to residue on intestacy
+
+When any person dies or has died, having by his will appointed any person to be his executor, such executor shall be deemed to be a trustee for the person, if any, who would be entitled to the estate in case the person died intestate in respect of any residue not expressly disposed of, unless it appears by the will that the person so appointed executor was intended to take such residue beneficially.
+
+[16
