@@ -1,0 +1,10 @@
+# 28. Presumptions as to sale for human consumption
+Part: PART V PRESUMPTIONS OF LAW
+
+(1) When any food or appliance is sold or exposed or offered for sale, it shall, unless the contrary is proved, be deemed to be sold or exposed or offered for sale for human consumption or use.
+
+(2) The purchase and sale of a sample of any food under this Act for the purpose of analysis or examination shall be deemed to be a purchase and sale of such food for human consumption or use, unless the seller proves that the bulk from which the sample was taken was not offered, exposed or intended for sale for human consumption or use.
+
+(3) For the purposes of this Act every person shall be deemed to sell or to intend to sell any food if he sells or intends to sell for human consumption any article of which the food is a constituent.
+
+[24
