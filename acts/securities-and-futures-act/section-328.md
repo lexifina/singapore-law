@@ -1,0 +1,16 @@
+# 328. Falsification of records by officers, etc.
+Part: PART XV MISCELLANEOUS
+
+(1) Any officer, auditor, employee or agent of any relevant person who —
+
+(a) wilfully makes, or causes to be made, a false entry in any book, or in any report, slip, document or statement of the business, affairs, transactions, conditions or assets of that relevant person;
+
+(b) wilfully omits to make, or causes to be omitted, an entry in any book, or in any report, slip, document or statement of the business, affairs, transactions, conditions or assets of that relevant person; or
+
+(c) wilfully alters, extracts, conceals or destroys, or causes to be altered, extracted, concealed or destroyed, an entry in any book, or in any report, slip, document or statement of the business, affairs, transactions, conditions or assets of that relevant person, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) In subsection (1) —
+
+‘‘officer’’ includes a person purporting to act in the capacity of an officer;
+
+‘‘relevant person’’ means any exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5 (3) or 6 (3), person operating an exempt market, clearing house, person operating an exempt clearing facility, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.

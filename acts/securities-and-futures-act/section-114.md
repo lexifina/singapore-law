@@ -1,0 +1,11 @@
+# 114. Exchanges, etc., may impose additional obligations on members
+Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
+Division: Division 3 — Audit
+
+Nothing in this Division shall prevent a securities exchange, futures exchange or clearing house from imposing on its members any additional obligation or requirement which it thinks is necessary with respect to —
+
+(a) the audit of accounts;
+
+(b) the information to be given in reports by auditors; or
+
+(c) the keeping of books.
