@@ -1,0 +1,4 @@
+# 25. (Repealed)
+Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+
+(Repealed by Act 28/89)
