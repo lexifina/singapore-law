@@ -1,0 +1,3 @@
+# 4. Repeal of section 5
+
+Section 5 of the principal Act is repealed.
