@@ -1,0 +1,3 @@
+# 1. Short title
+
+This Act may be cited as the High Court (Admiralty Jurisdiction) Act.
