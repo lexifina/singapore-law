@@ -1,0 +1,14 @@
+# 45. Setting aside and variation of award
+Part: PART V AWARDS
+
+(1) Subject to subsections (2) and (3), a Court may, upon application by any person or trade union bound by an award, by order vary or set aside any of the terms of an award and shall vary any of the terms of an award if it considers it desirable to do so for the purpose of removing ambiguity or uncertainty.
+
+(2) During the period for which an award is in force a Court shall not, except for the purpose of removing ambiguity or uncertainty, vary or set aside any of the terms of an award except where the President certifies that by reason of exceptional circumstances it is desirable to do so.
+
+[29/72]
+
+(3) No award of a Court determining a trade dispute shall be varied or set aside except for the purpose of removing ambiguity or uncertainty.
+
+(4) Where an application for an order to vary or set aside any of the terms of an award has been made, under subsection (1), by any person or trade union bound by an award with the prior agreement of the other party affected by the application the powers of the Court under this section shall be exercisable by the Court constituted by the President alone.
+
+[44

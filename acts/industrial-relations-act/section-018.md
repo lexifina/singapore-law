@@ -1,0 +1,4 @@
+# 18. Acceptance of invitation to negotiate
+Part: PART III COLLECTIVE BARGAINING
+
+An employer or a trade union upon whom a notice under section 17 has been served may serve on the trade union or employer by whom the notice was served an acceptance of the invitation to negotiate.

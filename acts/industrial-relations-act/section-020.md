@@ -1,0 +1,6 @@
+# 20. Conciliation
+Part: PART III COLLECTIVE BARGAINING
+
+(1) If after the expiration of 14 days from the date of service of a notice under section 17 or, where the notice has been served on more than one employer or trade union on different dates, from the latest of those dates, a collective agreement has not been reached between all the trade unions and employers by whom and upon whom the notice was served as to all the industrial matters set out in the invitation and a memorandum of its terms delivered to the Registrar, any party to the negotiations may notify the Commissioner.
+
+(2) Upon receiving a notification under subsection (1) the Commissioner may consult, or direct a conciliation officer to consult, with the employers and trade unions concerned in an endeavour to assist them to reach agreement by conciliation.
