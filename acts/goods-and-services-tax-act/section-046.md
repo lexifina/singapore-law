@@ -32,3 +32,5 @@ and
 [25/96]
 
 (6) Any person who without reasonable excuse fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[UK VAT Act 1983, Sch. 7 Para. 7 (1); UK VAT AR Reg. 1989]

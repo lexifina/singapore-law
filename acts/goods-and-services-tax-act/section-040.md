@@ -8,3 +8,5 @@ Part: PART VI SPECIAL CASES
 (b) where the change in the tax renders that supply exempt from tax or reduces the amount of any tax charged or chargeable in relation to that supply, the supplier may deduct from the agreed price in the contract the amount of that tax or the reduction of that tax.
 
 (2) References in this section to a change in the tax charged on a supply include references to a change to or from no tax being charged on the supply whether before or after 1st April 1994.
+
+[UK VAT Act 1983, s. 42]

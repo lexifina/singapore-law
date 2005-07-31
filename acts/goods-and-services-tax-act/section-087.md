@@ -9,9 +9,9 @@ Part: PART XII GENERAL PROVISIONS
 
 (c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business; or
 
-(d) by electronic transmission in accordance with section 42.
+(d) where the person has given his consent for it to be served on him through the electronic service, by transmitting an electronic record of it to his account with the electronic service.
 
-[25/96]
+[25/96; 50/2004]
 
 (2) Where a notice is served by ordinary or registered post, it shall be deemed to have been duly served at the time the notice would have been received in the ordinary course of post if the notice is addressed —
 
@@ -23,8 +23,22 @@ Part: PART XII GENERAL PROVISIONS
 
 (3) Where any notice is served by registered post in accordance with subsection (2), in proving service of the notice, it shall be sufficient to prove that the envelope containing the notice was properly addressed, stamped and posted by registered post.
 
-(4) Except for a notice served by electronic transmission in accordance with section 42, every notice to be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf.
+(3A) Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when an electronic record of the notice enters his account with the electronic service.
+
+[50/2004]
+
+(4) Subject to subsection (7), every notice to be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf.
+
+[50/2004]
 
 (5) Every such notice shall be valid if the signature or an official facsimile thereof of the Comptroller or of such person or persons is duly printed or written thereon.
 
-(6) Any notice under this Act requiring the attendance of any person or witness before the Comptroller shall be signed by the Comptroller or by a person duly authorised by him.
+(6) Subject to subsection (7), any notice under this Act requiring the attendance of any person or witness before the Comptroller shall be signed by the Comptroller or by a person duly authorised by him.
+
+[50/2004]
+
+(7) Where a person has given his consent for any notice referred to in subsection (4) or (6) to be served on him through the electronic service, the notice need not be signed if it is served on him by transmitting an electronic record of the notice to his account with the electronic service.
+
+[Income Tax 1992 Ed., s. 8]
+
+[50/2004]

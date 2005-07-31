@@ -26,3 +26,5 @@ Part: PART VI SPECIAL CASES
 (b) services relating to, or to anything containing, any precious or semi-precious metal or stones;
 
 (c) goods or services comprising in or relating to land or any interest in or right over land, as may be specified or described in regulations made by the Minister.
+
+[UK VAT Act 1983, s. 37C]

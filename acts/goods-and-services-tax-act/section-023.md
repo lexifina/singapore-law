@@ -30,3 +30,5 @@ and
 (b) a supply if an invoice or similar document showing an amount as being tax or as being attributable to tax is issued in respect of the supply; and
 
 (c) any supply by a taxable person where he fails to keep such records and accounts as the Comptroller may in writing specify or to comply with such conditions as the Comptroller may impose.
+
+[UK VAT Act 1983, s. 18]

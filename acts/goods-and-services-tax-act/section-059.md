@@ -21,4 +21,6 @@ and
 
 (ii) be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[Income Tax 1992 Ed., s. 95]
+
 [25/96]

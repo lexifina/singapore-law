@@ -18,3 +18,5 @@ Part: PART X PROCEEDINGS
 [25/96]
 
 (2) Any summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the summons, it shall be sufficient to prove that the envelope containing the summons was properly addressed, stamped and posted by registered post.
+
+[Income Tax 1992 Ed., s. 99A]

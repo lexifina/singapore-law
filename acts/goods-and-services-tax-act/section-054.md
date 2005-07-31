@@ -10,3 +10,5 @@ Part: PART VIII BOARD OF REVIEW
 (4) The High Court shall hear and determine any such appeal and may confirm, vary or annul the decision of the Board on appeal and make such further or other order on such appeal, whether as to costs or otherwise, as to the Court may consider fit.
 
 (5) There shall be such further right of appeal from decisions of the High Court under this section as exists in the case of decisions made by that Court in the exercise of its original civil jurisdiction.
+
+[Income Tax 1992 Ed., s. 81]

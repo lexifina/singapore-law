@@ -12,3 +12,5 @@ Part: PART VI SPECIAL CASES
 (5) Any requirement to pay tax imposed under subsection (4) on any person carrying on the business shall only apply to that person to the extent of the assets of the deceased or incapacitated person over which he has control.
 
 (6) Any person carrying on the business referred to in subsection (4) shall, within 21 days of commencing to do so, inform the Comptroller in writing of that fact and of the date of the death or of the liquidation, receivership or bankruptcy, or of the nature of the incapacity and the date on which it began.
+
+[UK VAT Act 1983, s. 31; NZ GST Act 1985, s. 58 (1) and (3)]

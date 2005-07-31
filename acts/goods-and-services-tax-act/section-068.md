@@ -7,4 +7,6 @@ Part: PART X PROCEEDINGS
 
 (2) Any officer employed in the administration of this Act may conduct such prosecution on behalf of the Comptroller.
 
+[Property Tax 1985 Ed., s. 59]
+
 [25/96]

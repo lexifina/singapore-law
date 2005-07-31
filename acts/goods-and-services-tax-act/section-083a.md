@@ -5,11 +5,11 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 
 [25/96]
 
-(2) Whenever any goods are seized, the authorised person shall forthwith give notice of the seizure and the grounds thereof to the owner of the goods, if known, except that the notice shall not be required to be given where the seizure is made on the person, or in the presence of the offender or the owner or his agent.
+(2) Whenever any goods are seized, the authorised person shall immediately give notice of the seizure and the grounds thereof to the owner of the goods, if known, except that the notice shall not be required to be given where the seizure is made on the person, or in the presence of the offender or the owner or his agent.
 
 [25/96]
 
-(3) Any goods of a perishable nature or any animal or bird seized may be sold forthwith and the proceeds of sale held to abide the result of any prosecution or claim.
+(3) Any goods of a perishable nature or any animal or bird seized may be sold immediately and the proceeds of sale held to abide the result of any prosecution or claim.
 
 [25/96]
 
@@ -22,5 +22,7 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 [25/96]
 
 (6) Where the goods liable to seizure are found in any vehicle, vessel not exceeding 200 tons net registered tonnage or aircraft, such vehicle, vessel or aircraft may be seized in order to facilitate the removal or transportation of those goods.
+
+[Customs 1995 Ed., s. 110]
 
 [25/96]

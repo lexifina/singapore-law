@@ -6,3 +6,5 @@ Part: PART XII GENERAL PROVISIONS
 [25/96]
 
 (2) Where any such notice, order, permit, receipt or other document requires authentication, the signature or an official facsimile thereof of the Comptroller or any officer authorised by the Comptroller affixed thereto shall be sufficient authentication.
+
+[Property Tax 1985 Ed., s. 56]

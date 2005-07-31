@@ -17,13 +17,13 @@ Part: PART VII ACCOUNTING AND ASSESSMENTS
 
 (b) any supply of goods or services, whether or not a taxable supply, that is affected by or is part of any arrangement, to be both made to and made by any taxable person or a person deemed to be taxable under paragraph (a);
 
-(c) any supply of goods and services to take place in any prescribed accounting period that, but for any arrangement affected by this section, would have been the prescribed accounting period in which the supply was made;
+(c) any supply of goods or services to take place in any prescribed accounting period that, but for any arrangement affected by this section, would have been the prescribed accounting period in which the supply was made;
 
-(d) any supply of goods and services to have been made, or consideration for such supply to be given, at open market value.
+(d) any supply of goods or services to have been made, or consideration for such supply to be given, at open market value.
 
 (3) In this section —
 
-‘‘arrangement’’ means any agreement, contract, plan, under- standing, scheme, trust, grant, covenant, disposition, transaction and includes all steps by which it is carried into effect;
+‘‘arrangement’’ means any agreement, contract, plan, understanding, scheme, trust, grant, covenant, disposition, transaction and includes all steps by which it is carried into effect;
 
 ‘‘tax advantage’’ includes —
 
@@ -36,3 +36,5 @@ Part: PART VII ACCOUNTING AND ASSESSMENTS
 (d) any postponement of the time when tax is due or payable.
 
 (4) This section shall not apply to any arrangement carried out for bona fide commercial reasons and had not as one of its main purposes the avoidance or reduction of tax or the obtaining of any tax advantage.
+
+[Income Tax 1992 Ed., s. 33; NZ GST Act 1985, s. 76]

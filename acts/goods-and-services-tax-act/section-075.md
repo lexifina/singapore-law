@@ -10,3 +10,5 @@ Part: PART X PROCEEDINGS
 (3) The Minister may make regulations to prescribe the offences which may be compounded.
 
 (4) All sums received for the composition of offences under this section shall be paid into the Consolidated Fund.
+
+[Customs 1985 Ed., s. 126]

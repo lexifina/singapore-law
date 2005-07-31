@@ -10,3 +10,5 @@ Part: PART VI SPECIAL CASES
 (b) for refunding or crediting, to such persons as may be specified in the regulations, input tax attributable to such dealings on a commodity, futures or securities market or exchange as may be so specified, and may contain such incidental and supplementary provisions as appear to the Minister to be necessary or expedient.
 
 (3) Any regulations made under this section may make different provisions with respect to different markets or exchanges and with respect to different commodities, futures or securities.
+
+[UK VAT Act 1983, s. 34]

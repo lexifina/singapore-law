@@ -15,4 +15,6 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 
 (4) All goods forfeited shall be delivered to an authorised person and shall be disposed of in accordance with the directions of the Comptroller.
 
+[Customs 1995 Ed., ss. 122 and 123]
+
 [25/96]

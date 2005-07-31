@@ -12,3 +12,5 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 (c) if the goods (being sent or taken on approval or sale or return or similar terms) are removed before it is known whether a supply will take place, at the time when it becomes certain that the supply has taken place or 12 months after the removal, whichever is the earlier.
 
 (3) Subject to section 12, a supply of services shall be treated as taking place at the time when the services are performed.
+
+[UK VAT Act 1983, s. 4]

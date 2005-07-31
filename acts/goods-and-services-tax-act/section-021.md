@@ -47,19 +47,27 @@ or
 
 (iii) services ancillary to, including that of organising the performance outside Singapore of the services referred to in sub-paragraphs (i) and (ii);
 
-(j) services supplied for and to a person who belongs in a country other than Singapore and who is outside Singapore at the time the services are performed, not being services which are supplied directly in connection with —
+(j) services supplied —
 
-(i) land or any improvement thereto situated inside Singapore; or
+(i) under a contract with a person who belongs in a country outside Singapore; and
 
-(ii) goods situated inside Singapore at the time the services are performed, other than goods referred to in paragraph (g);
+(ii) which directly benefit a person who belongs in a country other than Singapore and who is outside Singapore at the time the services are performed, not being services which are supplied directly in connection with —
 
-(k) prescribed services supplied for and to a person wholly in his business capacity (and not in his private or personal capacity) who in that capacity belongs in a country other than Singapore;
+(A) land or any improvement thereto situated inside Singapore; or
 
-(l) services provided within any free trade zone or the designated area of a port, terminal or airport for —
+(B) goods situated inside Singapore at the time the services are performed, other than goods referred to in paragraph (g);
 
-(i) the handling of ships or aircraft;
+(k) prescribed services supplied —
 
-(ii) the handling or storage of goods carried in a ship or aircraft;
+(i) under a contract with a person wholly in his business capacity (and not in his private or personal capacity) and who in that capacity belongs in a country outside Singapore; and
+
+(ii) which directly benefit a person wholly in his business capacity (and not in his private or personal capacity) and who in that capacity belongs in a country other than Singapore;
+
+(l) prescribed services in connection with —
+
+(i) the handling of ships or aircraft; or
+
+(ii) the handling or storage of goods carried in any ship or aircraft;
 
 (m) pilotage, salvage or towage services performed in relation to ships or aircraft;
 
@@ -73,19 +81,27 @@ or
 
 (i) from a place outside Singapore to another place outside Singapore;
 
-(ii) from a place in Singapore to a place outside Singapore; or
+(ii) from a place in Singapore to a place outside Singapore;
 
-(iii) from a place outside Singapore to a place in Singapore; or
+or
 
-(r) services supplied by a trustee, where the services and the trustee supplying such services satisfy such conditions as may be prescribed.
+(iii) from a place outside Singapore to a place in Singapore;
 
-[25/96; 31/2000]
+(r) services supplied in relation to a trust, where the services and the person supplying the services satisfy such conditions as may be prescribed; or
+
+(s) services supplied —
+
+(i) under a contract with a person who belongs in a country outside Singapore; and
+
+(ii) which directly benefit a person who belongs in a country other than Singapore, relating to the co-location in Singapore of computer server equipment belonging to the person referred to in sub-paragraph (i) or (ii).
+
+[25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
 (4) For the purposes of subsection (3) —
 
 (a) ‘‘aircraft’’ means an aircraft which is not used or intended for use for recreation or pleasure;
 
-‘‘designated area’’, in relation to a port, terminal or airport, means such area in or land or waters adjacent to a port, terminal or airport as the Minister may by order designate for the purposes of this section;
+‘‘co-location’’, in relation to computer server equipment, means the provision of a physical environment for the operation of the computer server equipment;
 
 ‘‘ship’’ means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Maritime and Port Authority of Singapore Act (Cap. 170A) as a passenger harbour craft or pleasure craft;
 
@@ -107,7 +123,11 @@ or
 
 (v) education, being services performed substantially in Singapore.
 
-[7/96]
+[7/96; 43/2002; 50/2004]
+
+(4A) For the purposes of subsection (3) (j), (k) and (s), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
+
+[50/2004]
 
 (5) Where a description referred to in subsection (3) is a transaction which would not otherwise be a supply of services, the transaction shall, for the purposes of this Act, be treated as a supply of services in Singapore.
 
@@ -123,8 +143,10 @@ or
 
 (a) the goods are found in Singapore after the date on which they were alleged to have been or were to be exported or shipped; or
 
-(b) any condition specified in the regulations made under subsection (6) or (7) or imposed by the Comptroller is not complied with, and the presence of the goods in Singapore after that date or the failure to comply with the condition has not been authorised for the purposes of this subsection by the Comptroller, the tax that would have been chargeable on the supply but for the zero-rating shall become payable forthwith by the person to whom the goods were supplied or by any person in whose possession the goods are found in Singapore and the goods shall be liable to seizure.
+(b) any condition specified in the regulations made under subsection (6) or (7) or imposed by the Comptroller is not complied with, and the presence of the goods in Singapore after that date or the failure to comply with the condition has not been authorised for the purposes of this subsection by the Comptroller, the tax that would have been chargeable on the supply but for the zero-rating shall become payable immediately by the person to whom the goods were supplied or by any person in whose possession the goods are found in Singapore and the goods shall be liable to seizure.
 
 (9) The Comptroller may, if he thinks fit, waive payment of the whole or part of the tax payable under subsection (8).
+
+[UK VAT Act 1983, s. 16; NZ GST Act 1985, s. 11 (2)]
 
 [25/96]

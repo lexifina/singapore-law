@@ -1,7 +1,7 @@
 # 52. Hearing and disposal of appeals
 Part: PART VIII BOARD OF REVIEW
 
-(1) On receipt of a petition of appeal, the secretary shall forthwith forward a copy thereof to the Comptroller and shall, as soon as is possible, fix a time and place for the hearing of the appeal and shall give 14 days’ notice thereof both to the appellant and to the Comptroller.
+(1) On receipt of a petition of appeal, the secretary shall immediately forward a copy thereof to the Comptroller and shall, as soon as is possible, fix a time and place for the hearing of the appeal and shall give 14 days’ notice thereof both to the appellant and to the Comptroller.
 
 (2) The appellant and the Comptroller or an officer authorised by him shall attend, either in person or by an advocate and solicitor or accountant, at such times and places as may be fixed for the hearing of the appeal.
 
@@ -38,3 +38,5 @@ Part: PART VIII BOARD OF REVIEW
 (a) it is found that the amount specified in the assessment is less than it ought to have been; and
 
 (b) the Board gives a direction specifying the correct amount, the assessment shall have effect as an assessment of the amount specified in the direction and that amount shall be deemed to have been notified to the appellant.
+
+[Income Tax 1992 Ed., s. 80]

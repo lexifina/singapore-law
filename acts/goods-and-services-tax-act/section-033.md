@@ -1,7 +1,7 @@
 # 33. Agents
 Part: PART VI SPECIAL CASES
 
-(1) Where a person who is accountable for any tax, or on whom any duties are imposed by or under this Act, does not have his usual place of residence in Singapore, the Comptroller may, by notice in writing served on any agent, manager or factor who has acted on behalf of that person in matters by reference to which that person is accountable or the duties are imposed, direct that he shall be substituted for that person as the person accountable for the tax or that he shall be under an obligation to discharge those duties or any of them.
+(1) Where a person who is accountable for any tax, or on whom any duties are imposed by or under this Act, does not have his usual place of residence in Singapore, the Comptroller may, by notice in writing served on any agent, manager or factor who has acted on behalf of that person in matters by reference to which that person is accountable or on whom the duties are imposed, direct that he shall be substituted for that person as the person accountable for the tax or that he shall be under an obligation to discharge those duties or any of them.
 
 [31/2000]
 
@@ -28,5 +28,7 @@ Part: PART VI SPECIAL CASES
 (a) a person carrying on a business through a branch or an agency in any country shall be treated as having a business establishment there; and
 
 (b) ‘‘usual place of residence’’, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted.
+
+[UK VAT Act 1983, s. 32]
 
 [31/2000]

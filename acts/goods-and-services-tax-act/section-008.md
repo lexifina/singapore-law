@@ -15,4 +15,6 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 
 (4) Tax on the importation of goods shall be charged, levied and payable as if it were customs duty or excise duty and as if all goods imported into Singapore are dutiable and liable to customs duty or excise duty.
 
+[UK VAT Act 1983, s. 2]
+
 [33/2000]

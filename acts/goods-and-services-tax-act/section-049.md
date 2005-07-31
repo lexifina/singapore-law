@@ -19,7 +19,7 @@ Part: PART VIII BOARD OF REVIEW
 
 (h) any refusal to permit the value of supplies to be determined by a method described in a notice issued under section 41 (3) (a);
 
-(i) any requirements imposed by the Comptroller in a particular case under section 43 (2) (b);
+(i) any requirements imposed by the Comptroller in a particular case under section 43 (2);
 
 (j) an assessment —
 
@@ -38,3 +38,5 @@ Part: PART VIII BOARD OF REVIEW
 (2) Any application for review and revision under this section shall be made within 30 days of the date the person has been notified of the decision to which he objects or such other extended time as the Comptroller may allow.
 
 (3) The Comptroller shall consider the application under subsection (2) and shall, within a reasonable time, inform the person of the decision on the application.
+
+[UK VAT Act 1983, s. 40 (1)]

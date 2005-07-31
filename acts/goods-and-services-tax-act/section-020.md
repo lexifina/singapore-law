@@ -7,13 +7,15 @@ Part: PART IV CREDIT FOR INPUT TAX AGAINST OUTPUT TAX
 
 (a) taxable supplies;
 
+(aa) supplies permitted to be made under section 27 or regulations made under section 27 without payment of the tax chargeable on the supplies;
+
 (b) supplies outside Singapore which would be taxable supplies if made in Singapore;
 
 (c) such other supplies outside Singapore as the Minister may by regulations specify for the purposes of this subsection;
 
 (d) supplies which section 37 or regulations made under section 37A provide are to be disregarded for the purposes of this Act and which would otherwise be taxable supplies.
 
-[26/99]
+[26/99; 19/2003]
 
 (3) Regulations may provide for treating some or all supplies of goods or services by any person as taxable supplies —
 
@@ -36,3 +38,5 @@ Part: PART IV CREDIT FOR INPUT TAX AGAINST OUTPUT TAX
 (a) make different provisions for different circumstances and, in particular, for different descriptions of goods or services; and
 
 (b) contain such incidental and supplementary provisions as appear to the Minister necessary or expedient.
+
+[UK VAT Act 1983, s. 15]

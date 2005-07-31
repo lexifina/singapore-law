@@ -10,3 +10,5 @@ Part: PART VII ACCOUNTING AND ASSESSMENTS
 (3) The Comptroller, or an officer duly authorised by him in that behalf, may waive all or any of the provisions of subsection (1) in respect of any taxable person.
 
 (4) Any person who contravenes this section or any direction issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Tourism Cess 1985 Ed., s. 9 (1)]

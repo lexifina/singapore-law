@@ -1,8 +1,8 @@
 # FOURTH SCHEDULE
 
-Section 22
+Sections 14 (1) and 22
 
-EXEMPTIONS
+EXEMPT SUPPLIES
 
 Finance
 
@@ -10,11 +10,11 @@ Finance
 
 (a) the operation of any current, deposit or savings account;
 
-(b) the exchange or grant of an option for the exchange of currency (whether effected by the exchange of bank notes, currency notes or coin, FOURTH SCHEDULE — continued
+(b) the exchange or grant of an option for the exchange of currency (whether effected by the exchange of bank notes, currency notes or coin, by crediting or debiting accounts, or otherwise) other than the supply of a note or a coin as a collector’s item, investment article or item of numismatic interest;
 
-by crediting or debiting accounts, or otherwise) other than the supply of a note or a coin as a collector’s item, investment article or item of numismatic interest;
+(c) any supply by a person carrying on a credit card, charge card or similar payment card operation made directly in connection with that operation FOURTH SCHEDULE — continued
 
-(c) any supply by a person carrying on a credit card, charge card or similar payment card operation made directly in connection with that operation to a person who accepts the card used in the operation when presented to him in payment for goods or services;
+to a person who accepts the card used in the operation when presented to him in payment for goods or services;
 
 (d) the issue, payment, collection or transfer of ownership of any note or order for payment, cheque or letter of credit or the notification of the issue of a letter of credit;
 
@@ -46,17 +46,17 @@ by crediting or debiting accounts, or otherwise) other than the supply of a note
 
 [S 107/94; S 204/2000]
 
-FOURTH SCHEDULE — continued
-
 Land
 
 2. The grant, assignment or surrender of any interest in or right over land of any of the following descriptions or of any licence to occupy such land:
 
 (a) any vacant land zoned ‘‘Residential’’ or ‘‘Rural Centre and Settlement’’ in the Master Plan under the Planning Act (Cap. 232) and used or to be used for residential purposes or for the purposes of condominium development;
 
+FOURTH SCHEDULE — continued
+
 (b) any vacant land approved exclusively for residential or condominium development where the supply is made by such public or statutory authority as may be approved by the Minister or such other person as he may appoint; or
 
-(c) any land or part thereof with any building, flat or tenement thereon, being a building, flat or tenement which is approved exclusively for residential purposes under the Planning Act.
+(c) any land or part thereof with any building, flat or tenement thereon, being a building, flat or tenement which is approved exclusively for residential purposes under the Planning Act (Cap. 232).
 
 Interpretation
 
@@ -80,22 +80,22 @@ Interpretation
 
 [S 107/94]
 
-FOURTH SCHEDULE — continued
-
 Application
 
 4.—(1) Paragraph 1 (other than sub-paragraph (q)) and paragraph 2 shall not apply to any services consisting of arranging, broking, underwriting or advising on any of the activities specified therein in return for a brokerage fee, commission or other similar consideration.
 
 (2) Paragraph 1 (m), (n) and (o) shall not apply to any supply which section 37 provides are to be disregarded for the purposes of this Act.
 
+FOURTH SCHEDULE — continued
+
 (3) Paragraph 2 shall not apply to that part of the supply comprising —
 
 (a) the sale and lease of any furniture, furnishings, fittings, appliances or effects;
 
-(b) services consisting of the maintenance, repair and upkeep of the building, flat or tenement or any common property connected therewith;
-
-and
+(b) services consisting of the maintenance, repair and upkeep of the building, flat or tenement or any common property or limited common property connected therewith; and
 
 (c) any building, flat or tenement which is not approved exclusively for residential purposes under the Planning Act (Cap. 232).
 
-[S 107/94; 25/96]
+[UK VAT Act 1983, Sch. 6; NZ GST Act 1985, s. 3 (1)]
+
+[S 107/94; 25/96; 47/2004]

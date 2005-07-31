@@ -14,3 +14,5 @@ Part: PART VIII BOARD OF REVIEW
 (6) The High Court shall hear and determine any question of law arising on a case stated and may in accordance with its decision thereon confirm, vary or annul any decision by the Board in the appeal, or may remit the case to the Board with the opinion of the Court on that case.
 
 (7) The Board shall give effect to the opinion by its decision in the appeal or by revising any previous decision made by it in the appeal to the extent to which that previous decision does not accord with the opinion of the High Court.
+
+[Income Tax 1992 Ed., s. 82]

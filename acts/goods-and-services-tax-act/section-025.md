@@ -11,7 +11,7 @@ Part: PART V RELIEFS
 
 (c) provide for determining what amount (if any) is the outstanding amount of the consideration in particular cases including but not limited to those cases involving part payment or mutual debts;
 
-(d) provide for the apportionment of tax attributable to the supply of goods and services for the purposes of carrying on the business or of exempt supplies or of any other purpose;
+(d) provide for the apportionment of tax attributable to the supply of goods or services for the purposes of carrying on the business or of exempt supplies or of any other purpose;
 
 (e) require the repayment or recovery of a refund or remission under this section where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed;
 
@@ -20,5 +20,7 @@ Part: PART V RELIEFS
 (g) provide for the seizure and forfeiture of goods referred to in paragraph (f); and
 
 (h) make different provisions for different circumstances.
+
+[UK VAT Act 1983, s. 22 (7)]
 
 [25/96]

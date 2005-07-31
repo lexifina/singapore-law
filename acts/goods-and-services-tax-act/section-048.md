@@ -26,3 +26,5 @@ Part: PART VII ACCOUNTING AND ASSESSMENTS
 (b) has not been convicted of any offence under this Act but no proceedings shall be taken in respect of any offence against a person who has paid the penal tax assessed against him for that same offence.
 
 (5) References in this section to evading tax and to making use of any fraud, art or contrivance whatsoever or authorising the use of any such fraud, art or contrivance shall be construed in accordance with section 62 (5) and (3), respectively.
+
+[NZ GST Act 1985, ss. 67, 68 and 73]

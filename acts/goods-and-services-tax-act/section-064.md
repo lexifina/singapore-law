@@ -15,4 +15,6 @@ Part: PART IX OFFENCES AND PENALTIES
 
 (e) a person acting on behalf of the Government, issues an invoice or receipt showing an amount as being tax or as being attributable to tax, he shall be guilty of an offence and shall on conviction pay a penalty of 3 times the amount of tax so shown, and shall also be liable to a fine not exceeding $10,000.
 
+[UK VAT Act 1983, s. 39 (4); UK FA 1985, s. 15 (2)]
+
 [25/96]

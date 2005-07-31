@@ -15,7 +15,7 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 
 (i) the provision of the document to himself by the first- mentioned taxable person were the issue by the supplier of a tax invoice in respect of the supply; and
 
-(ii) any notice of election given or request made by the first-mentioned taxable person for the purposes of those provisions had been given or made by the supplier.
+(ii) any notice of election given or request made by the first- mentioned taxable person for the purposes of those provisions had been given or made by the supplier.
 
 (5) The Comptroller may, at the request of a taxable person, by direction in writing alter the time at which supplies made by him (or such supplies made by him as may be specified in the direction) are to be treated as taking place, either —
 
@@ -45,10 +45,12 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 
 (c) there is a supply of services by virtue of paragraph 5 (3) of the Second Schedule; or
 
-(d) there is a supply to which sections 37A and 38 apply.
+(d) there is a supply to which sections 27, 37A and 38 apply.
 
-[26/99]
+[26/99; 19/2003]
 
 (9) For any case referred to in subsection (8), the regulations may provide for goods or services to be treated as separately and successively supplied at prescribed times or intervals.
 
 (10) In this section, ‘‘tax invoice’’ means such an invoice as is required under section 41 (1) or would be so required if the person to whom the supply is made were a taxable person.
+
+[UK VAT Act 1983, s. 5]

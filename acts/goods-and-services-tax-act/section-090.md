@@ -6,3 +6,5 @@ Part: PART XII GENERAL PROVISIONS
 (2) The Comptroller may reduce or altogether withhold any refund due under this section to the extent that the refund would unjustly enrich the claimant.
 
 (3) Except as provided in this section, the Comptroller shall not be liable to repay any money which has been overpaid or erroneously paid as tax or penalty under this Act.
+
+[UK FA 1989, s. 24]

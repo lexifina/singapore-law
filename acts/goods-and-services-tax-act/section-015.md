@@ -26,3 +26,5 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 (a) a person carrying on a business through a branch or agency in any country shall be treated as having a business establishment there; and
 
 (b) ‘‘usual place of residence’’, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted.
+
+[UK VAT Act 1983, s. 8]

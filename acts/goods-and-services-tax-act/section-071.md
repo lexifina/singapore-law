@@ -8,3 +8,5 @@ Part: PART X PROCEEDINGS
 (a) under the provisions of section 59 or 62; or
 
 (b) for the recovery of any sum due from him whether by way of tax or penalty.
+
+[Income Tax 1992 Ed., s. 100A]

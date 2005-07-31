@@ -15,7 +15,7 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 
 (i) within 14 days of the receipt of the notice under subsection (1), send a notice by registered post addressed to every owner of such moneys at the address last known to the agent informing the owner of such declaration; and
 
-(ii) retain such amount of the moneys as is presumed under paragraph (b) to be owned by the person from whom tax is due and subject to paragraph (c) within 42 days of the receipt of the notice under subsection (1) pay over the tax due from such amount to the Comptroller;
+(ii) retain such amount of the moneys as is presumed under paragraph (b) to be owned by the person from whom tax is due and, subject to paragraph (c), within 42 days of the receipt of the notice under subsection (1), pay over the tax due from such amount to the Comptroller;
 
 (b) it shall be presumed, until the contrary is proved, that the holders of a joint account at any bank shall have equal share of the moneys in the account as at the date of receipt of the notice under subsection (1) and that the joint owners of any immovable property shall share the proceeds of sale of the property equally;
 
@@ -40,5 +40,7 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 [25/96]
 
 (6) For the purposes of this section, ‘‘tax’’ includes any penalty or any other money which a person is liable to pay to the Comptroller under this Act.
+
+[Income Tax 1992 Ed., s. 57]
 
 [25/96]

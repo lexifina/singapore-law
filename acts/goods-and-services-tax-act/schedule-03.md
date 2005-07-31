@@ -1,6 +1,6 @@
 # THIRD SCHEDULE
 
-Sections 17 (6) and 18 (1)
+Sections 17 (1) and (6), 18 (1) and 49 (1) (g)
 
 VALUATION — SPECIAL CASES
 
@@ -12,9 +12,7 @@ Open market value
 
 (b) the person making the supply is connected with the person to whom it is made; and
 
-(c) if the supply is a taxable supply the person to whom the supply is made is not entitled under sections 19 and 20 to credit for all the tax on the supply,
-
-the Comptroller may direct that the value of the supply shall be taken to be its open market value.
+(c) if the supply is a taxable supply the person to whom the supply is made is not entitled under sections 19 and 20 to credit for all the tax on the supply, the Comptroller may direct that the value of the supply shall be taken to be its open market value.
 
 (2) A direction under this paragraph shall be given by notice in writing to the person making the supply, but no direction may be given more than 3 years after the time of the supply.
 
@@ -22,9 +20,9 @@ the Comptroller may direct that the value of the supply shall be taken to be its
 
 (a) which is made by him after giving of the notice, or after such later date as may be specified in the notice; and
 
-(b) as to which the conditions in sub-paragraph (1) (a) to (c) are satisfied,
+(b) as to which the conditions in sub-paragraph (1) (a) to (c) are satisfied, shall be taken to be its open market value.
 
-shall be taken to be its open market value.
+THIRD SCHEDULE — continued
 
 (4) This paragraph shall not apply to a supply to which paragraph 10 applies.
 
@@ -36,11 +34,7 @@ Imported goods
 
 (b) the person importing the goods and the person entitled to the price are connected; and
 
-(c) the person importing the goods is not entitled under sections 19 and 20 to credit for all the tax paid or payable by him on the importation,
-
-the Comptroller may direct that the value of the goods shall be determined in accordance with section 18 (3).
-
-THIRD SCHEDULE — continued
+(c) the person importing the goods is not entitled under sections 19 and 20 to credit for all the tax paid or payable by him on the importation, the Comptroller may direct that the value of the goods shall be determined in accordance with section 18 (3).
 
 Connected persons
 
@@ -58,6 +52,8 @@ Connected persons
 
 (b) if a group of 2 or more persons has control of each company, and the groups either consist of the same persons or could be regarded as consisting of the same persons by treating (in one or more cases) a member of either group as replaced by a person with whom he is connected.
 
+THIRD SCHEDULE — continued
+
 (6) A company is connected with another person if that person has control of it or if that person and persons connected with him together have control of it.
 
 (7) Any 2 or more persons acting together to secure or exercise control of a company shall be treated in relation to that company as connected with one another and with any person acting on the directions of any of them to secure or exercise control of the company.
@@ -69,8 +65,6 @@ Connected persons
 ‘‘control’’ shall be construed in accordance with paragraph 4;
 
 ‘‘relative’’ means brother, sister, ancestor or lineal descendant.
-
-THIRD SCHEDULE — continued
 
 Meaning of control
 
@@ -90,6 +84,8 @@ Meaning of control
 
 (4) For the purposes of sub-paragraphs (1) and (2), there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
 
+THIRD SCHEDULE — continued
+
 (5) For the purposes of this paragraph, a ‘‘participator’’ is, in relation to any company, a person having a share or interest in the capital or income of the company.
 
 [S 107/94]
@@ -101,8 +97,6 @@ Meaning of control
 (b) any loan creditor of the company;
 
 (c) any person who possesses, or is entitled to acquire, a right to receive or participate in distributions of the company or any amounts payable by the company (in cash or in kind) to loan creditors by way of premium on redemption; and
-
-THIRD SCHEDULE — continued
 
 (d) any person who is entitled to secure that income or assets (whether present or future) of the company will be applied, directly or indirectly, for his benefit.
 
@@ -116,17 +110,31 @@ THIRD SCHEDULE — continued
 
 Token, stamp or voucher
 
-7. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp denoting a value below 35 cents within the meaning of the Postal Services Act (Cap. 237A) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
+7. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp (denoting a value below 35 cents) within the meaning of the Postal Services Act (Cap. 237A)) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
 
 [42/99]
 
+THIRD SCHEDULE — continued
+
 Business assets
 
-8. Where there is a supply of goods by virtue of —
+8.—(1) Where there is a supply of goods by virtue of —
 
 (a) paragraph 5 (1) of the Second Schedule (but otherwise than for a consideration); or
 
-(b) paragraph 7 of the Second Schedule, the value of the supply shall be taken to be the cost of the goods to the person making the supply except where paragraph 10 applies.
+(b) paragraph 7 of the Second Schedule, the value of the supply shall be determined in accordance with sub-paragraphs (2) and (3) except where paragraph 10 applies.
+
+(2) The value of a supply referred to in sub-paragraph (1) shall be taken to be —
+
+(a) such consideration in money as would be payable by the person making the supply if he were, at the time of the supply, to purchase goods identical in every respect (including age and condition) to the goods concerned;
+
+(b) where the value cannot be ascertained in accordance with sub-paragraph (a), such consideration in money as would be payable by the person making the supply if he were, at the time of the supply, to purchase goods similar to, and of the same age and condition as, the goods concerned; or
+
+(c) where the value cannot be ascertained in accordance with sub-paragraph (a) or (b), the cost of producing the goods concerned if they were produced at the time of the supply.
+
+(3) For the purposes of sub-paragraph (2), the amount of consideration in money that would be payable by any person if he were to purchase any goods shall be taken to be the amount that would be payable after the deduction of any amount included in the purchase price in respect of tax on the supply of the goods to that person.
+
+[S 649/2002]
 
 9. Where there is a supply of services by virtue of —
 
@@ -134,13 +142,13 @@ Business assets
 
 (b) paragraph 5 (3) of the Second Schedule (but otherwise than for a consideration), the value of the supply shall be taken to be the full cost to the taxable person of providing the services except where paragraph 10 applies.
 
-THIRD SCHEDULE — continued
-
 Employees’ benefits
 
 10.—(1) This paragraph shall apply to a supply of goods or services, whether or not for a consideration, which is made by an employer and consists of —
 
 (a) the provision in the course of catering of food or beverages to his employees; or
+
+THIRD SCHEDULE — continued
 
 (b) the provision of accommodation for his employees in a hotel, inn, boarding house or similar establishment.
 
@@ -148,7 +156,9 @@ Employees’ benefits
 
 Foreign exchange
 
-11.—(1) Subject to this paragraph, where any sum relevant for determining value is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at the time when the supply takes place or in the case of the import of goods at the rate of exchange determined by the Director-General of Customs and Excise at the time applicable under the Customs Act (Cap. 70) for the calculation of customs or excise duties and valuation.
+11.—(1) Subject to this paragraph, where any sum relevant for determining value is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at the time when the supply takes place or in the case of the import of goods at the rate of exchange determined by the Director-General of Customs at the time applicable under the Customs Act (Cap. 70) for the calculation of customs or excise duties and valuation.
+
+[4/2003]
 
 (2) Where the Comptroller has issued a notice in writing which, for the purposes of this paragraph, specifies —
 
@@ -162,11 +172,11 @@ Foreign exchange
 
 (b) shall not be withdrawn or varied except with the consent of the Comptroller and in such manner as he may require.
 
-(4) The Comptroller may, in a notice in writing issued under sub-paragraph (2), allow a person to apply to the Comptroller for the use, for the purpose of valuing some or all of his supplies, of a rate or method of determining rates of exchange which is different from any which would otherwise apply.
-
-THIRD SCHEDULE — continued
+(4) The Comptroller may, by a notice in writing issued under sub-paragraph (2), allow a person to apply to the Comptroller for the use, for the purpose of valuing some or all of his supplies, of a rate or method of determining rates of exchange which is different from any which would otherwise apply.
 
 (5) On an application made in accordance with any notice under sub-paragraph (4), the Comptroller may authorise the use with respect to the applicant of such a rate or method of determining rates of exchange, in such circumstances, in relation to such supplies and subject to such conditions as he thinks fit.
+
+THIRD SCHEDULE — continued
 
 Taxes or duties imposed by reason of supply
 
@@ -183,3 +193,5 @@ Residential premises
 Motor vehicles
 
 14. Where a taxable person makes a supply (other than a supply to which section 23 applies) of any used motor vehicle which was registered under the Road Traffic Act (Cap. 276) pursuant to a previous supply of that motor vehicle, the value of the supply shall be reduced by 50%.
+
+[UK VAT Act 1983, Sch. 4]

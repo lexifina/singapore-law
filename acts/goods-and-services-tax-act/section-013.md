@@ -14,3 +14,5 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 (b) in another country (and not in Singapore), if the supplier belongs in that other country.
 
 (5) The Minister may by regulations provide, in relation to services generally or to particular services specified in the regulations, for varying the rules for determining where a supply of services is made.
+
+[UK VAT Act 1983, s. 6]

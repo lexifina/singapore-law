@@ -6,3 +6,5 @@ Where a business carried on by a taxable person is transferred to another person
 (a) for the purpose of determining whether the transferee is liable to be registered under this Act he shall be treated as having carried on the business before as well as after the transfer and supplies by the transferor shall be treated accordingly; and
 
 (b) any records relating to the business which under section 46 are required to be preserved for any period after the transfer shall be preserved by the transferee instead of by the transferor, unless the Comptroller, at the request of the transferor, otherwise directs.
+
+[UK VAT Act 1983, s. 33 (1)]

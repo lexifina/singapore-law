@@ -52,3 +52,5 @@ Part: PART IV CREDIT FOR INPUT TAX AGAINST OUTPUT TAX
 (a) any such provision may be framed by reference to the description of goods or services supplied or goods imported, the person by whom they are supplied or imported or to whom they are supplied, the purposes for which they are supplied or imported, or any circumstances whatsoever; and
 
 (b) such regulations may contain provision for consequential relief from output tax.
+
+[UK VAT Act 1983, s. 14]

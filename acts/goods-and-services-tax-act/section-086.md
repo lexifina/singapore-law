@@ -10,3 +10,5 @@ Part: PART XII GENERAL PROVISIONS
 [25/96]
 
 (4) The notice referred to in subsection (3) may be withdrawn or varied by a subsequent notice in writing issued by the Comptroller.
+
+[Income Tax 1992 Ed., s. 7 (3)]

@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 10
+Sections 10, 12 (6), (7) and 8 (c), 39 (5) and 41 (6)
 
 MATTERS TO BE TREATED AS SUPPLY OF GOODS OR SERVICES
 
@@ -17,8 +17,6 @@ but, subject to sub-paragraph (2), the transfer —
 (2) If the possession of goods is transferred —
 
 (a) under an agreement for the sale of the goods; or
-
-SECOND SCHEDULE — continued
 
 (b) under agreements which expressly contemplate that the property also will pass at some time in the future (determined by, or ascertainable from, the agreements but in any case not later than when the goods are fully paid for), it is then in either case a supply of the goods.
 
@@ -40,15 +38,15 @@ Transfer or disposal of business assets
 
 (2) Sub-paragraph (1) does not apply where the transfer or disposal is —
 
-(a) a gift of goods made in the course or furtherance of the business (otherwise than as one forming part of a series or succession of gifts made to the same person from time to time) where the cost to the donor is not more than $200;
+(a) a gift of goods made in the course or furtherance of the business (otherwise than as one forming part of a series or succession of gifts SECOND SCHEDULE — continued
+
+made to the same person from time to time) where the cost to the donor is not more than $200;
 
 (b) a gift, to an actual or potential customer of the business, of an industrial or commercial sample in a form not ordinarily available for sale to the public.
 
-(3) Where by or under the direction of a person carrying on a business, goods held or used for the purposes of the business are put to any private use or are used, or made available to any person for use, for any purpose other than a purpose of the business, whether or not for a consideration that is a supply of services.
+(3) Where by or under the direction of a person carrying on a business, goods held or used for the purposes of the business are put to any private use or are used, or made available to any person for use, for any purpose other than a purpose of the business, whether or not for a consideration, that is a supply of services.
 
 (4) Neither sub-paragraph (1) nor sub-paragraph (3) shall require anything which a person carrying on a business does otherwise than for a consideration in relation to any goods to be treated as a supply except in a case where that person is entitled under sections 19 and 20 to credit for the whole or any part of the tax on the supply or importation of those goods or of anything comprised in them.
-
-SECOND SCHEDULE — continued
 
 (5) Anything which is a supply of goods or services by virtue of sub-paragraph (1) or (3) is to be treated as made in the course or furtherance of the business (if it would not otherwise be so treated); and in the case of a business carried on by an individual —
 
@@ -70,6 +68,8 @@ SECOND SCHEDULE — continued
 
 (a) that no credit for input tax in respect of the supply or importation of the goods has been allowed to him; and
 
+SECOND SCHEDULE — continued
+
 (b) that the goods were not acquired by him as part of the assets of a business which was transferred to him as a going concern by another taxable person.
 
 8.—(1) Subject to sub-paragraphs (2) and (3), paragraphs 5 to 7 shall have effect in relation to land forming part of the assets of, or held or used for the purposes of, a business as if it were goods forming part of the assets of, or held or used for the purposes of, a business.
@@ -77,3 +77,5 @@ SECOND SCHEDULE — continued
 (2) In the application of those paragraphs by virtue of sub-paragraph (1), references to transfer, disposition or sale shall have effect as references to the grant or assignment of any interest in, right over or licence to occupy the land concerned.
 
 (3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5 (1) by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
+
+[UK VAT Act 1983, Sch. 2]

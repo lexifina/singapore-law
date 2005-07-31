@@ -23,4 +23,6 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 
 (6) In any proceedings under subsections (4) and (5), the burden of proof shall lie on the person asserting that he is the owner of the goods and on the person from whom they were seized, as the case may be.
 
+[Customs 1995 Ed., s. 124]
+
 [25/96]

@@ -43,10 +43,12 @@ Part: PART VI SPECIAL CASES
 
 (b) in the case of goods which are not subject to either customs or excise duty, the time when the goods are removed from the warehousing regime;
 
-‘‘warehouse’’ means any warehouse or factory warehouse licensed under the Customs Act (Cap. 70) or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3) (c) where goods may be stored without payment of any one or more of the following, that is to say:
+‘‘warehouse’’ means any warehouse or factory warehouse licensed under the Customs Act or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3) (c) where goods may be stored without payment of any one or more of the following:
 
 (a) customs or excise duty;
 
 (b) goods and services tax on the importation of the goods into Singapore.
 
 (7) A reference in this section to goods being subject to a warehousing regime shall be a reference to goods being kept in a warehouse or within the free trade zone or being transported between warehouses without the payment of any duty or tax; and a reference to the removal of goods from a warehousing regime shall be construed accordingly.
+
+[UK VAT Act 1983, s. 35]

@@ -1,78 +1,116 @@
-# 42. Computer service
+# 42. Electronic service
 Part: PART VII ACCOUNTING AND ASSESSMENTS
 
-(1) The Comptroller may establish or operate a computer service and make provision for any return, declaration, direction, notice, permit, receipt or other document required or authorised by this Act to be served or submitted by electronic transmission (referred to in this Act as an electronic notice).
+(1) The Comptroller may provide an electronic service for —
 
-[25/96]
+(a) the registration of taxable persons;
 
-(2) A registered user may, in accordance with the regulations made under subsection (12), make and serve an electronic notice to the computer account of the Comptroller.
+(b) the filing or submission of any return, declaration or document; and
 
-[25/96]
+(c) the service of any notice, direction, order, permit, receipt or document by the Comptroller.
 
-(3) The Comptroller or any person authorised by him may in accordance with the regulations made under subsection (10), make and serve an electronic notice to the computer account of a registered user.
+[50/2004]
 
-[25/96]
+(2) For the purposes of the electronic service, the Comptroller may assign to any person —
 
-(4) Where an electronic notice is transmitted to the computer account of the Comptroller using the authentication code assigned to a registered user —
+(a) an authentication code; and
 
-(a) with or without the authority of the registered user; and
+(b) an account with the electronic service.
 
-(b) before notification to the Comptroller by the registered user in the prescribed manner of cancellation of the authentication code, that notice shall, for the purposes of this Act, be presumed to be made by the registered user unless he is able to adduce evidence to the contrary, and where he alleges that he has transmitted no such notice, the burden is also on him to adduce evidence of that fact.
+[50/2004]
 
-[25/96]
+(3) Any person may —
 
-(5) For the avoidance of doubt, an electronic notice or copy thereof shall not be inadmissible in evidence merely on the basis that it was transmitted without the making or delivery of any equivalent document or counterpart in paper form.
+(a) register himself, or request to cancel his registration, as a taxable person; or
 
-[25/96]
+(b) file or submit any return, declaration or document, if he is required to do so, through the electronic service.
 
-(6) Notwithstanding any other written law, in any proceedings under this Act, an electronic notice or a copy thereof (including a print-out of that notice or copy) or any database report (including a print-out of that report) relating to that notice —
+[50/2004]
 
-(a) certified by the Comptroller to contain all or any information transmitted by electronic means in accordance with this section; and
+(4) Any agent who is authorised by his principal in the prescribed manner may —
 
-(b) duly authenticated in the manner specified in subsection (7) or is otherwise duly authenticated by showing that there is no material discrepancy between the electronic notice or copy thereof certified by the Comptroller and the copy of the same electronic notice kept by an independent record keeper appointed under regulations made under subsection (12), shall be admissible as evidence of the facts stated or contained therein.
+(a) register his principal, or request to cancel his principal’s registration, as a taxable person; or
 
-[25/96]
+(b) file or submit any return, declaration or document on behalf of his principal, through the electronic service.
 
-(7) For the purposes of this section, a certificate —
+[50/2004]
 
-(a) giving the authentication code and other particulars of any user and device (if known) involved in the production and transmission of, and identifying the nature of, the electronic notice or a copy thereof; and
+(5) Where any return, declaration or document is filed or submitted on behalf of any person under subsection (4) —
 
-(b) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the computer service at the relevant time, shall be sufficient evidence that the electronic notice or copy thereof has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+(a) it shall be deemed to have been filed or submitted with the authority of that person; and
 
-[25/96]
+(b) that person shall be deemed to be cognizant of all matters therein.
 
-(8) Where an electronic notice or a copy thereof is admissible under subsection (6), it shall be presumed, until the contrary is proved, that the contents of the electronic notice or copy thereof have been accurately transmitted.
+[50/2004]
 
-[25/96]
+(6) Where any return, declaration or document is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
 
-(9) The Comptroller may, for the purpose of facilitating any electronic transmission under this section, approve the use in any such electronic transmission of symbols, codes, abbreviations or other notations to represent any particulars or information required under this Act.
+(a) the return, declaration or document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
 
-[25/96]
+(b) where that person alleges that he did not file or submit the return, declaration or document, the burden shall be on him to adduce evidence of that fact.
 
-(10) Notwithstanding section 6, any authorised person or any person being employed or engaged in the administration of this Act shall not be treated as having contravened section 6 merely because he communicates to the independent record keeper or his employee or permits the independent record keeper or his employee to have access to any electronic notice or any information contained therein.
+[50/2004]
 
-[25/96]
+(7) Where any person has given his consent for any notice, direction, order, permit, receipt or other document to be served on him through the electronic service, the Comptroller may serve that document on that person by transmitting an electronic record of that document to that person’s account with the electronic service.
 
-(11) Section 6 shall apply to the independent record keeper and his employee as if they were persons employed in the administration of this Act.
+[50/2004]
 
-[25/96]
+(8) Notwithstanding any other written law, in any proceedings under this Act —
 
-(12) The Minister may make regulations —
+(a) an electronic record of any return, declaration or document that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through the electronic service; or
 
-(a) prescribing the conditions for subscription to the computer service, including the manner in which the authentication codes are to be assigned;
+(b) any copy or print-out of that electronic record, shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
 
-(b) prescribing the returns, declarations, notices, directions, permits, receipts or other documents that may be electronically transmitted under the computer service including the form and manner in which they are to be transmitted;
+(i) is certified by the Comptroller to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
 
-(c) for the correction of errors in or amendments to electronic notices;
+(ii) is duly authenticated in the manner specified in subsection (10) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
 
-(d) prescribing the procedure for use of the computer service including the procedure in circumstances where there is a breakdown or interruption in the service;
+[50/2004]
 
-(e) for the appointment of an independent record keeper to be charged with the duty to maintain for a prescribed period a record of all the electronic notices and transactions made through the data service provider between the Comptroller and the registered users, such a duty to include keeping the database reports;
+(9) For the avoidance of doubt —
 
-(f) for the independent record keeper to produce a copy of the relevant record pertaining to any electronic notice or a copy thereof to either the Comptroller or the registered user, whose electronic notice is in issue, when requested by either party to do so;
+(a) an electronic record of any return, declaration or document that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through the electronic service; or
 
-(g) for the standards of security, confidentiality, data integrity and conduct of the computer service and for the review of the operations and activities of the data service provider by such authority or expert as may be prescribed; and
+(b) any copy or print-out of that electronic record, shall not be inadmissible in evidence merely because the return, declaration or document was filed or submitted, or the notice, direction, order, permit, receipt or document was served, without the delivery of any equivalent document or counterpart in paper form.
 
-(h) generally for the better provision of the computer service.
+[50/2004]
 
-[25/96]
+(10) For the purposes of this section, a certificate —
+
+(a) giving the particulars of —
+
+(i) any person whose authentication code was used to file, submit or serve the return, declaration, notice, direction, order, permit, receipt or document; and
+
+(ii) any person or device involved in the production or transmission of the electronic record of the return, declaration, notice, direction, order, permit, receipt or document, or the copy or print-out thereof;
+
+(b) identifying the nature of the electronic record or copy thereof;
+
+and
+
+(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time, shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+
+[50/2004]
+
+(11) Where the electronic record of any return, declaration, notice, direction, order, permit, receipt or other document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
+
+[50/2004]
+
+(12) The Comptroller may, for the purposes of the electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
+
+[50/2004]
+
+(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
+
+(a) the procedure for the use of the electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
+
+(b) the procedure for the correction of errors in, or the amendment of, any return, declaration or document that is filed or submitted through the electronic service;
+
+(c) the manner in which a person who has given his consent for a notice, a direction, an order, a permit, a receipt or any other document to be served on him through the electronic service shall be notified of the transmission of an electronic record of that document to his account with the electronic service;
+
+(d) the manner in which authentication codes are to be assigned;
+
+and
+
+(e) anything which may be prescribed under this section.
+
+[50/2004]

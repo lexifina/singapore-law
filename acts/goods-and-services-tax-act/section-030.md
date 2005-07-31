@@ -30,3 +30,5 @@ Part: PART VI SPECIAL CASES
 (f) for the circumstances in which the Comptroller may terminate the registration of a group; and
 
 (g) for the application of the provisions of this section, with such exceptions, modifications and adaptations as may be prescribed, where a business, or part of a business, carried on by a taxable person is transferred to another taxable person who is treated as a member of a group under this section.
+
+[UK VAT Act 1983, s. 29]

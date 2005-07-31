@@ -11,6 +11,8 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 
 (4) Payment of the tax to a customs or immigration officer or production of a certificate signed by the Comptroller stating that the tax has been paid or secured, shall be sufficient authority for allowing such person to leave Singapore.
 
-(5) Any person who, knowing that a direction has been issued under subsection (1) for the prevention of his departure from Singapore, voluntarily leaves or attempts to leave Singapore without paying all tax assessed on or due from him under this Act or furnishing security to the satisfaction of the Comptroller for payment thereof shall be guilty of an offence and may be arrested, without warrant, by any immigration officer.
+(5) Any person who, knowing that a direction has been issued under subsection (1) for the prevention of his departure from Singapore, voluntarily leaves or attempts to leave Singapore without paying all tax assessed on or due from him under this Act or furnishing security to the satisfaction of the Comptroller for payment thereof, shall be guilty of an offence and may be arrested, without warrant, by any immigration officer.
 
 (6) No civil or criminal proceedings shall be instituted or maintained against the Government, the Controller of Immigration or any customs or immigration officer in respect of anything lawfully done under this section.
+
+[Income Tax 1992 Ed., s. 87]

@@ -22,3 +22,5 @@ Part: PART III IMPOSITION AND EXTENT OF TAX
 and
 
 (b) to exempt all or any class of persons from the provisions of this section.
+
+[UK VAT Act 1983, s. 7]

@@ -17,4 +17,6 @@ and
 
 (ii) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[NZ GST Act 1985, s. 67 (b)]
+
 [25/96]

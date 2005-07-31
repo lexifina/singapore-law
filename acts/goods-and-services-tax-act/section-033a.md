@@ -19,4 +19,6 @@ Part: PART VI SPECIAL CASES
 
 (c) for generally regulating the methods by which the amount of any repayment is to be determined and the repayment is to be made.
 
+[UK VAT Act 1994, s. 39]
+
 [25/96]

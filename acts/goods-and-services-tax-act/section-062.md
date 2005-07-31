@@ -35,7 +35,9 @@ Part: PART IX OFFENCES AND PENALTIES
 
 (c) otherwise uses a computer, the purpose or effect of which is to evade tax.
 
-(4) For the purposes of subsection (3), ‘‘data’’ includes any computer program or part of a computer program being a program approved by the Comptroller for use in relation to the computer service established under section 42 or for use under section 43, 44 or 46 or any regulations made under section 41.
+(4) For the purposes of subsection (3), ‘‘data’’ includes any computer program or part of a computer program being a program approved by the Comptroller for use in relation to the electronic service or for use under section 43, 44 or 46 or any regulations made under section 41.
+
+[50/2004]
 
 (5) A reference in this section to evading tax includes a reference to obtaining any of the following:
 
@@ -44,3 +46,5 @@ Part: PART IX OFFENCES AND PENALTIES
 (b) credit for input tax under section 19 or 20 or any regulations made thereunder;
 
 (c) a refund under any regulations made under section 25 (1), in circumstances where the person concerned is not entitled to that payment, credit or refund.
+
+[Income Tax 1992 Ed., s. 96]

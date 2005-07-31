@@ -18,3 +18,5 @@ and
 (4) The Minister may by regulations make such further transitional provisions as he may consider necessary and expedient including but not limited to modifying the provisions of this Act in its application to the time and value of any supply of goods or services, for zero-rating or exempting supplies of goods or services the contracts in respect of which were made before 1st April 1994 and for the adjustment of the consideration under such contracts.
 
 (5) In this section, ‘‘customs control’’ has the same meaning as in section 3 (2) of the Customs Act.
+
+[UK VAT Act 1983, Sch. 10 Para. 4; UK FA 1972, Sch. 1 Para. 3]

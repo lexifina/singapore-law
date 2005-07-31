@@ -15,6 +15,8 @@ Part: PART I PRELIMINARY
 
 (5) Anything done in connection with the termination or intended termination of a business is treated as being done in the course or furtherance of that business.
 
-(6) Subject to any order made under section 10 (3), the disposition of a business as a going concern, or of its assets or liabilities (whether or not in connection with its re-organisation or winding up), is a supply made in the course or furtherance of the business.
+(6) Subject to any order made under section 10 (3), the disposition of a business as a going concern, or of its assets or liabilities (whether or not in connection with its re-organisation or winding up), is a supply made in the course or furtherance of that business.
 
 (7) In subsection (2), ‘‘management corporation’’ and ‘‘subsidiary proprietors’’ have the same meanings as in the Land Titles (Strata) Act (Cap. 158).
+
+[UK VAT Act 1983, s. 47]

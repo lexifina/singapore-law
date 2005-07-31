@@ -44,3 +44,5 @@ Part: PART VII ACCOUNTING AND ASSESSMENTS
 (10) The Comptroller may at any time make all such alterations in or additions to an assessment made under this section as he thinks necessary to ensure the correctness thereof and notify the person accordingly.
 
 (11) For the purposes of this section, notification to a personal representative, trustee in bankruptcy, receiver, liquidator or person otherwise acting as aforesaid shall be treated as notification to the person in relation to whom he so acts.
+
+[UK VAT Act 1983, Sch. 7 Para. 4; UK FA 1985, s. 22 (7)]

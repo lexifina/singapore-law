@@ -12,3 +12,5 @@ Any person who —
 (ii) be liable to a fine not exceeding $10,000; and
 
 (iii) be liable to a further penalty of $50 for every day during which the offence continues after conviction.
+
+[UK FA 1985, s. 15 (1)]

@@ -21,7 +21,7 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 
 (5) The Minister may by regulations make provision for —
 
-(a) authorising distress to be levied on the goods and chattels of any person refusing or neglecting to pay any tax due from him or any amount recoverable as if it were tax due from him
+(a) authorising distress to be levied on the goods and chattels of any person refusing or neglecting to pay any tax due from him or any amount recoverable as if it were tax due from him;
 
 (b) the disposal of any goods or chattels on which distress is levied under the regulations; and
 
@@ -32,5 +32,7 @@ Part: PART XI COLLECTION AND ENFORCEMENT
 [25/96]
 
 (7) For the purposes of this section, tax includes any penalty or any other money which a person is liable to pay to the Comptroller under this Act.
+
+[UK VAT Act 1983, Sch. 7 Para. 6]
 
 [25/96]
