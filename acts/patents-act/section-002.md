@@ -5,6 +5,28 @@ Part: PART I PRELIMINARY
 
 ‘‘Convention on International Exhibitions’’ means the Convention relating to International Exhibitions signed in Paris on 22nd November 1928, as amended or supplemented by any protocol to that convention which is for the time being in force;
 
+‘‘corresponding application’’, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed, or treated as filed, with any prescribed patent office that —
+
+(a) forms the basis for a priority claim under section 17 in the application in suit; or
+
+(b) is subject to a priority claim based on —
+
+(i) the application in suit; or
+
+(ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
+
+‘‘corresponding international application’’, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed under the Patent Co-operation Treaty that —
+
+(a) forms the basis for a priority claim under section 17 in the application in suit; or
+
+(b) is subject to a priority claim based on —
+
+(i) the application in suit; or
+
+(ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
+
+‘‘corresponding patent’’, in relation to a corresponding application, means a patent granted in respect of the corresponding application by the prescribed patent office in which the corresponding application was filed or treated as filed;
+
 ‘‘country’’ includes —
 
 (a) a colony, protectorate or territory subject to the authority or under the suzerainty of another country;
@@ -17,7 +39,9 @@ or
 
 ‘‘date of filing’’, in relation to —
 
-(a) an application for a patent made under this Act, means the date of filing that application by virtue of section 26; and
+(a) an application for a patent made under this Act, means the date of filing that application by virtue of section 26;
+
+and
 
 (b) any other application, means the date which, under the law of the country where the application was made or in accordance with the terms of a treaty or convention to which that country is a party, is to be treated as the date of filing that application in that country or is equivalent to the date of filing an application in that country (whatever the outcome of the application);
 
@@ -47,11 +71,21 @@ or
 
 ‘‘international exhibition’’ means an official or officially recognised international exhibition falling within the terms of the Convention on International Exhibitions or falling within the terms of any subsequent treaty or convention replacing that convention;
 
+‘‘international preliminary report on patentability’’ means —
+
+(a) an international preliminary report on patentability (Chapter I of the Patent Co-operation Treaty); or
+
+(b) an international preliminary report on patentability (Chapter II of the Patent Co-operation Treaty), referred to in the Regulations under the Patent Co-operation Treaty;
+
 ‘‘inventor’’, in relation to an invention, means the actual deviser of the invention and ‘‘joint inventor’’ shall be construed accordingly;
 
 ‘‘journal’’ has the same meaning as in section 115 (4);
 
 ‘‘legal officer’’ means a person appointed as a legal officer in the Singapore Legal Service;
+
+‘‘marketing approval’’, in relation to a pharmaceutical product, means a product licence under section 5 of the Medicines Act (Cap. 176);
+
+‘‘medicinal product’’ has the same meaning as in the Medicines Act (Cap. 176);
 
 ‘‘mortgage’’, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
@@ -69,6 +103,18 @@ or
 
 ‘‘person’’ includes the Government;
 
+‘‘pharmaceutical product’’ means a medicinal product which is a substance used wholly or mainly by being administered to a human being for the purpose of treating or preventing disease, but does not include —
+
+(a) any substance which is used solely —
+
+(i) for diagnosis or testing; or
+
+(ii) as a device or mechanism, or an instrument, apparatus or appliance; or
+
+(b) any substance or class of substances specified in paragraph 2 or 3 of the Schedule;
+
+‘‘prescribed form’’ means a form published by the Registrar under section 115A;
+
 ‘‘priority date’’ means the date determined as such under section 17;
 
 ‘‘published’’ means made available to the public (whether in Singapore or elsewhere) and a document shall be taken to be published under any provision of this Act if it can be inspected as of right at any place in Singapore by members of the public, whether on payment of a fee or not, and ‘‘republished’’ shall be construed accordingly;
@@ -81,20 +127,38 @@ or
 
 ‘‘Registry’’ means the Registry of Patents established under this Act;
 
+‘‘relevant authority’’, in relation to a pharmaceutical product, means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
+
 ‘‘right’’, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
 ‘‘scientific adviser’’ means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person.
 
-[40/95; 3/2001; 30/2001]
+[40/95; 3/2001; 30/2001; 19/2004]
 
 (2) Rules may provide for stating in the journal that an exhibition falls within the definition of ‘‘international exhibition’’ in subsection (1) and any such statement shall be conclusive evidence that the exhibition falls within that definition.
 
 (3) For the purposes of this Act, a matter shall be taken to have been disclosed in any relevant application within the meaning of section 17 or in the specification of a patent if it was either claimed or disclosed (otherwise than by way of disclaimer or acknowledgment of prior art) in that application or specification.
 
-(4) References in this Act to an application for a patent, as filed, are references to such an application in the state it was on the date of filing.
+(4) For the purposes of this Act —
 
-(5) References in this Act to an application for a patent being published are references to its being published under section 27.
+(a) a claim is related to another claim if —
 
-(6) References in this Act to the Paris Convention or the Patent Co-operation Treaty are references to that Convention or Treaty or any other international convention or agreement replacing it, as amended or supplemented by any convention or international agreement (including in either case any protocol or annex) to which Singapore is a party, or in accordance with the terms of any such convention or agreement and include references to any instrument made under any such convention or agreement.
+(i) the 2 claims are identical; or
 
-(7) The Arbitration Act (Cap. 10) shall not apply to any proceedings before the Registrar under this Act.
+(ii) each limitation in the second claim —
+
+(A) is identical to a limitation in the first claim; or
+
+(B) differs from a limitation in the first claim only in expression but not in content; and
+
+(b) more than one claim may be related to a single claim.
+
+[19/2004]
+
+(5) References in this Act to an application for a patent, as filed, are references to such an application in the state it was on the date of filing.
+
+(6) References in this Act to an application for a patent being published are references to its being published under section 27.
+
+(7) References in this Act to the Paris Convention or the Patent Co-operation Treaty are references to that Convention or Treaty or any other international convention or agreement replacing it, as amended or supplemented by any convention or international agreement (including in either case any protocol or annex) to which Singapore is a party, or in accordance with the terms of any such convention or agreement and include references to any instrument made under any such convention or agreement.
+
+(8) The Arbitration Act (Cap. 10) shall not apply to any proceedings before the Registrar under this Act.

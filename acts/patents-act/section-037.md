@@ -6,3 +6,5 @@ No person may in any proceeding object to a patent or to an amendment of a speci
 (a) to more than one invention; or
 
 (b) to a group of inventions which are not so linked as to form a single inventive concept.
+
+[UK Patents 1977, s. 26]

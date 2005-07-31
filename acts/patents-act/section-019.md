@@ -12,3 +12,5 @@ Part: PART IV RIGHT TO APPLY FOR AND OBTAIN PATENT
 (c) in any event, to the successor or successors in title of any person or persons mentioned in paragraph (a) or (b) or any person so mentioned and the successor or successors in title of another person so mentioned, and to no other person.
 
 (3) Except so far as the contrary is established, a person who makes an application for a patent shall be taken to be the person who is entitled under subsection (2) to be granted a patent and 2 or more persons who make such an application jointly shall be taken to be the persons so entitled.
+
+[UK Patents 1977, s. 7]

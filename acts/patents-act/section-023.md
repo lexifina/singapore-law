@@ -16,3 +16,5 @@ Part: PART IV RIGHT TO APPLY FOR AND OBTAIN PATENT
 (5) Where an order is made as mentioned in subsection (2), the person in whose name the application is to proceed or any person claiming that he is entitled to be granted any such licence may refer to the Registrar the question whether the latter is so entitled and whether any such period is or terms are reasonable.
 
 (6) The Registrar shall determine the question under subsection (5) and may, if he considers it appropriate, order the grant of such a licence.
+
+[UK Patents 1977, s. 11]

@@ -16,3 +16,5 @@ Part: PART IX EMPLOYEES’ INVENTIONS
 (b) by any person for the purpose of performing or working the invention, shall be taken to infringe any copyright or design right to which, as between him and his employer, his employer is entitled in any model or document relating to the invention.
 
 (4) In subsection (3), the reference to application for a patent includes an application for other protection for an invention, and includes an application for a patent or any other protection under the law of a country other than Singapore or under any treaty to which Singapore is a party.
+
+[UK Patents 1977, s. 39]

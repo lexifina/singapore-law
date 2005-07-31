@@ -16,3 +16,5 @@ Part: PART XIII INFRINGEMENT OF PATENTS
 (b) assign that right, or transmit it on death (or in the case of a body corporate on its dissolution) to any person who acquires that part of the business in the course of which the act was done or the preparations were made.
 
 (4) Where a product is disposed of to another in exercise of the rights conferred by subsection (1) or (3), that other and any person claiming through him may deal with the product in the same way as if it had been disposed of by the registered proprietor of the patent.
+
+[UK Patents 1977, s. 64]

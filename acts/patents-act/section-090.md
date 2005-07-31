@@ -5,7 +5,7 @@ Part: PART XVII LEGAL PROCEEDINGS
 
 (a) a decision falling within section 25 (7);
 
-(b) a decision under section 27 (2) to omit any matter from a specification;
+(b) a decision under section 27 (3) to omit any matter from a specification;
 
 (c) a decision to give directions under section 33 (1) or (2);
 
@@ -19,4 +19,4 @@ Part: PART XVII LEGAL PROCEEDINGS
 
 (b) except where the ground of appeal is that the decision of the court is wrong in law, but an appeal shall only lie to the Court of Appeal under this section if leave to appeal is given by the court or the Court of Appeal.
 
-[91
+[UK Patents 1977, s. 97]

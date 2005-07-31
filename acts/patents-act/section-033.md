@@ -42,3 +42,5 @@ Part: PART VI PROCEDURE FOR GRANT OF PATENT
 (8) Any person who fails to comply with any direction under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (9) Nothing in this section shall prevent the disclosure of information concerning an invention to a Government department or authority for the purpose of obtaining advice as to whether directions under this section with respect to an application for a patent for that invention should be made, amended or revoked.
+
+[UK Patents 1977, s. 22]

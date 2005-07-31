@@ -9,15 +9,37 @@ Part: PART XIV REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 
 (c) the specification of the patent does not disclose the invention clearly and completely for it to be performed by a person skilled in the art;
 
-(d) the matter disclosed in the specification of the patent extends beyond that disclosed in the application for the patent, as filed, or, if the patent was granted on a new application filed under section 20 (3) or 47 (4), or as mentioned in section 26 (6), in the earlier application made under this Act or in the application made under the United Kingdom Patents Act 1977 or the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office from which the filing date and the right of priority has been derived, as the case may be, as filed;
+(d) the matter disclosed in the specification of the patent extends beyond that disclosed —
 
-(e) the protection conferred by the patent has been extended by an amendment which should not have been allowed;
+(i) in the application for the patent, as filed; or
 
-(f) the applicant for the patent has failed to inform the Registrar about any corresponding international application or corresponding application filed by him as required under section 29 (1) (c) or has furnished any information which in any material particular was false; or
+(ii) where the patent was granted on a new application filed under section 20 (3) or 47 (4) or section 116 (6) of the Patents Act (Cap. 221, 1995 Ed.), or in accordance with section 26 (6), in —
 
-(g) the patent was obtained on a misrepresentation.
+(A) the earlier application made under this Act;
 
-(2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1) (a), (c), (d) and (e), the Registrar may, subject to subsections (3) and (4), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
+(B) the application made under the United Kingdom Patents Act 1977; or
+
+(C) the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office, as the case may be, from which the filing date and the right of priority has been derived, as filed;
+
+(e) an amendment or a correction has been made to the specification of —
+
+(i) the patent; or
+
+(ii) the application for the patent, which should not have been allowed;
+
+(f) the patent was obtained —
+
+(i) fraudulently;
+
+(ii) on any misrepresentation; or
+
+(iii) on any non-disclosure or inaccurate disclosure of any prescribed material information, whether or not the person under a duty to provide the information knew or ought reasonably to have known of such information or the inaccuracy;
+
+(g) the patent is one of 2 or more patents for the same invention having the same priority date and filed by the same party or his successor in title.
+
+[19/2004]
+
+(2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1) (a), (c), (d) and (e), the Registrar may, subject to subsection (3), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
 
 (3) The Registrar shall not cause a patent to be re-examined under subsection (2) where, within the prescribed period, the applicant for the revocation of the patent fails to give such security for the costs or expenses of the proceedings as the Registrar may specify; in which case, the application for revocation shall be treated as having been abandoned.
 
@@ -46,3 +68,5 @@ Part: PART XIV REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 (b) accompanied by the prescribed fee.
 
 (10) Section 92 shall not apply in relation to the decision of the Registrar to cause a patent to be re-examined under this section.
+
+[UK Patents 1977, s. 72]

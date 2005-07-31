@@ -18,3 +18,5 @@ Part: PART VI PROCEDURE FOR GRANT OF PATENT
 (b) any reference to either kind of application is a reference to an application under this Act, under the law of any country other than Singapore or under any treaty or international convention to which Singapore is a party; and
 
 (c) ‘‘person resident in Singapore’’ includes a person who, at the material time, is residing in Singapore by virtue of a valid pass lawfully issued to him under the Immigration Act (Cap. 133) to enter and remain in Singapore for any purpose.
+
+[UK Patents 1977, s. 23]

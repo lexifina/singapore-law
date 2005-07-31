@@ -42,3 +42,5 @@ and
 (8) If it appears to the Registrar on a reference under this section that the question referred to him would more properly be determined by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.
 
 (9) The court shall not in the exercise of any such declaratory jurisdiction determine a question whether a patent was granted to a person not entitled to be granted the patent if the proceedings in which the jurisdiction is invoked were commenced after the end of the period of 2 years beginning with the date of the grant of the patent, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.
+
+[UK Patents 1977, s. 37]

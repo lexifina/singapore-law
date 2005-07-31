@@ -34,3 +34,5 @@ Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATIO
 (a) the right of inspection conferred by subsection (5) is a right to inspect the material on the register; and
 
 (b) the right to a copy or extract conferred by subsection (6) or the rules is a right to a copy or extract in a form in which it can be taken away and in which it is visible and legible.
+
+[UK Patents 1977, s. 32]

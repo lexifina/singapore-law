@@ -8,3 +8,5 @@ Part: PART VII PROVISIONS AS TO PATENTS AFTER GRANT
 (3) An amendment of a specification of a patent under this section shall have effect and be deemed always to have had effect from the grant of the patent.
 
 (4) A person may give notice to the Registrar of his opposition to an application under this section by the proprietor of a patent, and if he does so the Registrar shall notify the proprietor and consider the opposition in deciding whether to grant the application.
+
+[UK Patents 1977, s. 27]

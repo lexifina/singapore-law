@@ -5,7 +5,9 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (2) The rules may in particular require the applicant or patentee —
 
-(a) to take such steps as may be prescribed for the purposes of making available to the public samples of the micro- organism; and
+(a) to take such steps as may be prescribed for the purposes of making available to the public samples of the micro-organism;
+
+and
 
 (b) not to impose or maintain restrictions on the uses to which such samples may be put, except as may be prescribed.
 
@@ -14,3 +16,5 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 (4) The rules may identify a description of persons by reference to whether the Registrar has given his certificate as to any matter.
 
 (5) An application for revocation of the patent under section 80 (1) (c) may be made if any of the requirements of the rules ceases to be complied with.
+
+[UK Patents 1977, s. 125A]

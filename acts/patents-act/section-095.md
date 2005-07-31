@@ -9,4 +9,4 @@ Part: PART XVII LEGAL PROCEEDINGS
 
 (2) In this section, ‘‘legal proceedings’’ includes proceedings before the Registrar.
 
-[96
+[UK Patents 1977, s. 280]

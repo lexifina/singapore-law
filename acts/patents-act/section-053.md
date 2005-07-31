@@ -22,3 +22,5 @@ Part: PART XI LICENCES OF RIGHT AND COMPULSORY LICENCES
 (6) If the proprietor refuses or neglects to take proceedings under subsection (5) within 2 months after being so requested, the licensee may institute proceedings for the infringement in his own name as if he were the proprietor, making the proprietor a defendant.
 
 (7) A proprietor so added as defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
+
+[UK Patents 1977, s. 46]

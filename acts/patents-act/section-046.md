@@ -22,3 +22,5 @@ Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATIO
 (a) references to a patent and a patent being granted shall accordingly include references respectively to any such application and to the application being filed; and
 
 (b) the reference in subsection (5) to a patented product shall be construed accordingly.
+
+[UK Patents 1977, s. 36]

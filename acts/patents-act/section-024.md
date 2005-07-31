@@ -10,3 +10,5 @@ Part: PART IV RIGHT TO APPLY FOR AND OBTAIN PATENT
 (b) where the applicant is not the sole inventor or the applicants are not the joint inventors, indicating the derivation of his or their right to be granted the patent, and, if he fails to do so, the application shall be treated as having been abandoned.
 
 (3) Where a person has been mentioned as a sole or joint inventor under this section, any other person who alleges that the former ought not to have been mentioned may at any time apply to the Registrar for a certificate to that effect, and the Registrar may issue such a certificate.
+
+[UK Patents 1977, s. 13]

@@ -41,4 +41,6 @@ or
 
 (b) any other country with which Singapore has entered into a treaty, convention, arrangement or engagement and which is declared by the Minister, by order published in the Gazette, as a convention country.
 
+[UK Patents 1977, s. 5]
+
 [30/2001]

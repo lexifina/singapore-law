@@ -30,3 +30,5 @@ Part: PART XIV REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 (7) Where proceedings with respect to a patent are pending in the court under any provision of this Act mentioned in subsection (1), no proceedings may be instituted without the leave of the court before the Registrar with respect to that patent under section 67 (3), 76, 78 or 80.
 
 (8) It is hereby declared that for the purposes of this Act the validity of a patent is not put in issue merely because the Registrar is considering its validity in order to decide whether to revoke it under section 81.
+
+[UK Patents 1977, s. 74]

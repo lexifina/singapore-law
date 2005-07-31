@@ -20,3 +20,5 @@ Part: PART X CONTRACTS AS TO PATENTED PRODUCTS
 (4) If in any proceedings it is alleged that any condition or term of a contract or licence is void by virtue of this section, it shall lie on the supplier or licensor to prove the matters set out in subsection (3) (a).
 
 (5) A condition or term of a contract or licence shall not be void by virtue of this section by reason only that it prohibits any person from selling goods other than those supplied by a specific person or, in the case of a contract for the hiring of or licence to use a patented product, that it reserves to the bailor or licensor, or his nominee, the right to supply such new parts of the patented product as may be required to put or keep it in repair.
+
+[UK Patents 1977, s. 44]

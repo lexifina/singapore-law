@@ -1,48 +1,132 @@
-# 29. Search and examination and corresponding international applications
+# 29. Search and examination
 Part: PART VI PROCEDURE FOR GRANT OF PATENT
 
-(1) Where an application for a patent complies with all the formal requirements referred to in section 28 (1), the Registrar shall notify the applicant who shall —
+(1) Where an application for a patent complies with all the formal requirements referred to in section 28 (1), the Registrar shall send a notification to the applicant.
 
-(a) file a request in the prescribed form and pay the prescribed fee for a search report within the prescribed period;
+[19/2004]
 
-(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report within the prescribed period; or
+(2) Upon receiving the Registrar’s notification under subsection (1), the applicant shall comply with any of the following paragraphs which is applicable within the period prescribed for that paragraph:
 
-(c) where the applicant has filed, alone or jointly with any other person, a corresponding international application for a patent, not designating Singapore, or a corresponding application for a patent at any prescribed patent office, furnish such detail as prescribed in the prescribed form and within the prescribed period, of all the corresponding international applications and the other corresponding applications filed by him, and if the applicant fails to make such request, pay the prescribed fee or furnish the prescribed detail within the prescribed period, the application shall be treated as having been abandoned at the end of the period prescribed under paragraph (a), (b) or (c), whichever is the latest.
+(a) where the application is not an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86 (3), file a request in the prescribed form and pay the prescribed fee for a search report;
 
-[30/2001]
+(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report;
 
-(2) Where the applicant has filed a request and paid the fee under subsection (1) (a), the Registrar shall cause the application to be subject to a search by an Examiner to discover the relevant prior art contained in such documentation as may be prescribed.
+(c) where a corresponding application for a patent has been filed at any prescribed patent office —
 
-(3) Upon receipt of the report of the search carried out under subsection (2), the Registrar shall send to the applicant a copy of the report, and the applicant may, within the prescribed period, file a request and pay the prescribed fee for an examination report on the application so as to determine whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the search report.
+(i) file —
 
-(4) Upon receipt of the examination report, the Registrar shall send to the applicant a copy of the report.
+(A) a copy of the search report in respect of the corresponding application;
 
-(5) Where the applicant has furnished the prescribed details under subsection (1) (c), he shall, subject to subsection (6), within the prescribed period, file in the prescribed form, the prescribed information in or translated into English relating to any one of the corresponding international applications or other corresponding applications referred to in subsection (1) (c).
+(B) where the search report is not in English, an English translation of the search report;
 
-[30/2001]
+(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
 
-(6) The applicant may, instead of filing the prescribed information referred to in subsection (5), within the prescribed period, either —
+(D) a request in the prescribed form for an examination report, and pay the prescribed fee for an examination report;
 
-(a) file a copy of a search report in respect of any one of the corresponding international applications or other corresponding applications referred to in subsection (1) (c), together with a request in the prescribed form and the prescribed fee, for an examination report; or
+or
 
-(b) file a request in the prescribed form and pay the prescribed fee for a search and examination report.
+(ii) file —
 
-(7) Where the applicant has filed a request and paid the fee under subsection (1) (b) or (6) (b), the Registrar shall cause the application to be subject to —
+(A) in the prescribed form, the prescribed information relating to the corresponding application; and
 
-(a) a search by an Examiner to discover the relevant prior art contained in such documentation as may be prescribed; and
+(B) where the prescribed information includes any document that is not in English, an English translation of such document;
 
-(b) an examination by an Examiner so as to determine whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, discovered in the search; and upon receipt of the search and examination report, the Registrar shall send to the applicant a copy of the report.
+(d) where a corresponding international application for a patent has been filed —
 
-(8) Where the applicant has filed a request and paid the fee under subsection (6) (a), the Registrar shall cause the application to be subject to an examination by an Examiner so as to determine whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the search report.
+(i) file —
 
-(9) Upon receipt of the examination report, the Registrar shall send to the applicant a copy of the report.
+(A) a copy of the international search report in respect of the corresponding international application;
 
-(10) Where an international application for a patent (Singapore) has been filed by the applicant and the international preliminary examination report is not established, the applicant may, within the prescribed period, file a request in the prescribed form and pay the prescribed fee, for an examination report on the application so as to determine whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the international search report.
+(B) where the international search report is not in English, an English translation of the international search report;
 
-(11) Upon receipt of the examination report, the Registrar shall send to the applicant a copy of the report.
+(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
 
-(12) In this Part, ‘‘corresponding international application’’ and ‘‘corresponding application’’, in relation to an invention, mean an application for protection filed, respectively, under the Patent Co-operation Treaty or with any prescribed patent office in respect of the same or substantially the same invention as that which is the subject of the application in suit, the application filed under the Patent Co-operation Treaty or with the prescribed patent office being —
+(D) a request in the prescribed form for an examination report, and pay the prescribed fee for an examination report;
 
-(a) the basis for a priority claim under section 17 in the application in suit; or
+or
 
-(b) subject to a priority claim based on the application in suit or an application which is also the basis for a priority claim under section 17 in the application in suit.
+(ii) file —
+
+(A) in the prescribed form, the prescribed information relating to the corresponding international application; and
+
+(B) where the prescribed information includes any document that is not in English, an English translation of such document;
+
+(e) where the application is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86 (3) —
+
+(i) file —
+
+(A) a copy of the international search report issued in respect of the application;
+
+(B) where the international search report is not in English, an English translation of the international search report;
+
+(C) a copy of each prescribed document and, where required by the rules, an English translation of the document if it is not in English; and
+
+(D) a request in the prescribed form for an examination report, and pay the prescribed fee for an examination report;
+
+or
+
+(ii) file a notice in the prescribed form of the applicant’s intention to rely on the international preliminary report on patentability in respect of that application.
+
+[19/2004]
+
+(3) Where the applicant has filed a request and paid the prescribed fee for a search report under subsection (2) (a), the Registrar shall —
+
+(a) cause the application to be subjected to a search by an Examiner to discover the relevant prior art contained in —
+
+(i) such documentation as may be prescribed; and
+
+(ii) any additional documentation that the Examiner is aware of and considers to be relevant; and
+
+(b) upon receiving the search report prepared by the Examiner, send the applicant a notification and a copy of the search report.
+
+[19/2004]
+
+(4) Upon receiving the search report under subsection (3) (b) from the Registrar, the applicant shall, within the prescribed period, file a request in the prescribed form and pay the prescribed fee for an examination report.
+
+[19/2004]
+
+(5) Where the applicant has filed a request and paid the fee for an examination report under subsection (2) (c) (i), (d) (i) or (e) (i) or (4), the Registrar shall —
+
+(a) cause the application to be subjected to an examination by an Examiner to determine —
+
+(i) whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with;
+
+(ii) whether the application discloses any additional matter referred to in section 84 (1); and
+
+(iii) whether the application discloses any matter extending beyond that disclosed in the application as filed, taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been referred to in the search report or international search report, as the case may be; and
+
+(b) upon receiving the examination report prepared by the Examiner, send the applicant a notification and a copy of the examination report.
+
+[19/2004]
+
+(6) Where the applicant has filed a request and paid the fee for a search and examination report under subsection (2) (b), the Registrar shall —
+
+(a) cause the application to be subjected to —
+
+(i) a search by an Examiner to discover the relevant prior art contained in —
+
+(A) such documentation as may be prescribed; and
+
+(B) any additional documentation that the Examiner is aware of and considers to be relevant; and
+
+(ii) an examination by an Examiner to determine —
+
+(A) whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with;
+
+(B) whether the application discloses any additional matter referred to in section 84 (1);
+
+and
+
+(C) whether the application discloses any matter extending beyond that disclosed in the application as filed, taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search; and
+
+(b) upon receiving the search and examination report prepared by the Examiner, send the applicant a notification and a copy of the search and examination report.
+
+[19/2004]
+
+(7) If, within the prescribed period under —
+
+(a) paragraph (b), (c) (i) or (ii), (d) (i) or (ii) or (e) (i) or (ii) of subsection (2); or
+
+(b) subsection (4), an applicant files a request in the prescribed form and pays the prescribed fee for that period to be extended, the applicant shall perform the acts set out in that provision within the prescribed extended period for performing those acts.
+
+[19/2004]

@@ -1,4 +1,4 @@
-# 63. (Not in use)
+# 63. (Section number not in use)
 Part: PART XII USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
-(Not in use)
+(Section number not in use)

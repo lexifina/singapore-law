@@ -13,6 +13,6 @@ Part: PART XVII LEGAL PROCEEDINGS
 
 (c) notice of opposition is given to the Registrar under section 38 (4), 40 (2), 54 (7) or 107 (2), neither resides nor carries on business in Singapore, the Registrar may require him to give security for the costs or expenses of the proceedings and in default of such security being given may treat the reference, application or notice as abandoned.
 
-[97
+[UK Patents 1977, s. 107]
 
 [40/95]

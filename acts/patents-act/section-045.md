@@ -14,3 +14,5 @@ Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATIO
 (c) any specification of a patent or any application for a patent which has been published, which purports to be a certified copy or a certified extract shall be admitted in evidence without further proof and without production of the original.
 
 (4) In this section, ‘‘certified copy’’ and ‘‘certified extract’’ mean a copy and an extract certified by the Registrar and sealed with the seal of the Registry.
+
+[UK Patents 1977, s. 32]

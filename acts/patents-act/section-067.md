@@ -28,3 +28,7 @@ Part: PART XIII INFRINGEMENT OF PATENTS
 (c) any reference to a defendant includes a reference to any other party to the reference.
 
 (5) If it appears to the Registrar on a reference under subsection (3) that the question referred to him would more properly be determined by the court, he may decline to deal with it and the court shall have jurisdiction to determine the question as if the reference were proceedings brought in the court.
+
+(6) Subject to this Part, in determining whether or not to grant any kind of relief claimed under this section and the extent of the relief granted, the court or the Registrar shall apply the principles applied by the court in relation to that kind of relief immediately before 23rd February 1995.
+
+[UK Patents 1977, s. 61]

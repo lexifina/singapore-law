@@ -29,7 +29,7 @@ Part: PART VII PROVISIONS AS TO PATENTS AFTER GRANT
 
 (b) made in good faith effective and serious preparations to do such an act, he has the right to continue to do the act or, as the case may be, to do the act, notwithstanding the restoration of the patent.
 
-(11) The right referred to in subsection (1) does not extend to granting a licence to another person to do the act.
+(11) The right referred to in subsection (10) does not extend to granting a licence to another person to do the act.
 
 (12) If the act was done, or the preparations were made, in the course of a business, the person entitled to the right conferred by subsection (10) may —
 
@@ -39,4 +39,8 @@ Part: PART VII PROVISIONS AS TO PATENTS AFTER GRANT
 
 (13) Where a product is disposed of to another in exercise of the rights conferred by subsection (10) or (12), that other and any person claiming through him may deal with the product in the same way as if it had been disposed of by the registered proprietor of the patent.
 
-(14) Subsections (8) to (13) shall apply in relation to the use of a patent for the services of the Government as they apply in relation to infringement of the patent.
+(14) Subsections (8) to (13) shall apply in relation to the use of a patent in accordance with section 56 as they apply in relation to infringement of the patent.
+
+[UK Patents 1977, ss. 28 and 28A]
+
+[19/2004]

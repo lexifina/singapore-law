@@ -6,3 +6,5 @@ Where by virtue of a transaction, instrument or event to which section 43 applie
 (a) the transaction, instrument or event is registered within the period of 6 months beginning with its date; or
 
 (b) the court or the Registrar is satisfied that it was not practicable to register the transaction, instrument or event before the end of that period and that it was registered as soon as practicable thereafter.
+
+[UK Patents 1977, s. 68]

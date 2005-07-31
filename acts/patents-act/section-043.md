@@ -28,3 +28,5 @@ Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATIO
 (ii) that an application should proceed in the name of any person, and in either case the event by virtue of which the court or authority had power to make any such order or give any such directions.
 
 (4) Where an application for the registration of a transaction, instrument or event has been made, but the transaction, instrument or event has not been registered, then, for the purposes of subsection (1) (a), registration of the application shall be treated as registration of the transaction, instrument or event.
+
+[UK Patents 1977, s. 33]

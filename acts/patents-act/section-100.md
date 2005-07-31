@@ -13,4 +13,4 @@ Part: PART XVIII OFFENCES
 
 (4) In any proceedings for an offence under this section, it shall be a defence for the accused to prove that he used due diligence to prevent the commission of the offence.
 
-[101
+[UK Patents 1977, s. 111]

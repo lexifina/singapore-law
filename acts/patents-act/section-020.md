@@ -34,3 +34,5 @@ Part: PART IV RIGHT TO APPLY FOR AND OBTAIN PATENT
 (7) If it appears to the Registrar on a reference of a question under this section that the question involves matters which would more properly be determined by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.
 
 (8) No direction shall be given under this section so as to affect the mutual rights or obligations of trustees or of the personal representatives of deceased persons, or their rights or obligations as such.
+
+[UK Patents 1977, s. 8]

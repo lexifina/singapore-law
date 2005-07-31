@@ -10,3 +10,5 @@ Part: PART X CONTRACTS AS TO PATENTED PRODUCTS
 (4) Without prejudice to any other right of recovery, nothing in subsection (1) shall be taken to entitle any person to recover property let under a hire-purchase agreement within the meaning of the Hire-Purchase Act (Cap. 125).
 
 (5) This section shall be without prejudice to any rule of law relating to the frustration of contracts and any right of determining a contract or licence exercisable apart from this section.
+
+[UK Patents 1977, s. 45]

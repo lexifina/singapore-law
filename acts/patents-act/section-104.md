@@ -39,4 +39,6 @@ Part: PART XIX PATENT AGENTS
 
 (4) The rules may provide that a contravention of the rules shall be an offence and may provide penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 12 months or to both.
 
+[UK Patents 1977, s. 275]
+
 [30/2001]

@@ -30,3 +30,5 @@ Part: PART III PATENTABILITY
 (6) In this section, references to the inventor include references to any proprietor of the invention for the time being.
 
 (7) In the case of an invention consisting of a substance or composition for use in a method of treatment of the human or animal body by surgery or therapy or of diagnosis practised on the human or animal body, the fact that the substance or composition forms part of the state of the art shall not prevent the invention from being taken to be new if the use of the substance or composition in any such method does not form part of the state of the art.
+
+[UK Patents 1977, s. 2]

@@ -11,7 +11,7 @@ Part: PART XVI INTERNATIONAL APPLICATIONS FOR PATENTS
 
 (2) If the application, not having been published under this Act, is published in accordance with the Patent Co-operation Treaty, it shall be treated, for purposes other than those mentioned in subsection (3), as published under section 27 when the conditions mentioned in section 86 (3) (a) are complied with.
 
-(3) For the purposes of section 56 (use of invention for service of the Government) and section 76 (infringement of rights conferred by publication) the application, not having been published under this Act, shall be treated as published under section 27 —
+(3) For the purposes of sections 56 and 76, the application, not having been published under this Act, shall be treated as published under section 27 —
 
 (a) if it is published in accordance with the Patent Co-operation Treaty in English, on its being so published; and
 
@@ -21,6 +21,10 @@ Part: PART XVI INTERNATIONAL APPLICATIONS FOR PATENTS
 
 (ii) on the service by the applicant of a translation into English of the specification of the application on the Government department concerned or, as the case may be, on the person committing the infringing act.
 
+[19/2004]
+
 (4) The reference in subsection (3) (b) (ii) to the service of a translation on a Government department or other person is to its being sent by post or delivered to that department or person.
 
 (5) During the international phase of the application, section 20 does not apply (determination of questions of entitlement in relation to application under this Act); but after the end of the international phase section 20 shall apply.
+
+[UK Patents 1977, s. 89B]

@@ -7,6 +7,4 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (2) Subsection (1) shall not apply to fees paid under section 85 which are to be forwarded to the International Bureau.
 
-[115A
-
 [3/2001]

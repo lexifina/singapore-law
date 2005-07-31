@@ -20,3 +20,5 @@ Part: PART XI LICENCES OF RIGHT AND COMPULSORY LICENCES
 (b) in the case of an application under subsection (3), the proprietor of the patent, may, within the prescribed period, give notice to the Registrar of opposition to the cancellation.
 
 (8) The Registrar shall, in considering the application made under this section, determine whether the opposition is justified.
+
+[UK Patents 1977, s. 47]

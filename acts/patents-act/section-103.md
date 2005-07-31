@@ -15,6 +15,4 @@ Part: PART XVIII OFFENCES
 
 (4) All sums collected under this section shall be paid into the funds of the Office.
 
-[103A
-
 [3/2001]

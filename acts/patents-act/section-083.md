@@ -8,3 +8,5 @@ Part: PART XV AMENDMENTS OF PATENTS AND APPLICATIONS
 (3) An amendment of a specification of a patent under this section shall have effect and be deemed always to have had effect from the grant of the patent.
 
 (4) Where an application for an order under this section is made to the court, the applicant shall notify the Registrar, who shall be entitled to appear and be heard and shall appear if so directed by the court.
+
+[UK Patents 1977, s. 75]

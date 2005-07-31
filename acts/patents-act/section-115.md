@@ -7,7 +7,7 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (2) Without prejudice to the generality of subsection (1), the rules may make provision —
 
-(a) prescribing the form and contents of applications for patents and other documents which may be filed at the Registry and requiring copies to be furnished of any such documents;
+(a) prescribing the contents of applications for patents and other documents which may be filed at the Registry and requiring copies to be furnished of any such documents;
 
 (b) regulating the procedure to be followed in connection with any proceeding or other matter before the Registrar or the Registry and authorising the rectification of irregularities of the procedure;
 
@@ -35,10 +35,12 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (n) prescribing anything that is required or permitted to be prescribed under this Act.
 
-[30/2001]
+[30/2001; 19/2004]
 
-(3) The Rules may make different provisions for different cases.
+(3) The rules may make different provisions for different cases.
 
-(4) The Rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
+(4) The rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
 
-(5) The Rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
+(5) The rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
+
+[UK Patents 1977, s. 123]

@@ -5,10 +5,22 @@ Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATIO
 
 (2) Where an order is so made that a patent shall be transferred from the old proprietor or proprietors to one or more persons none of whom was an old proprietor (on the ground that the patent was granted to a person not entitled to be granted the patent), any licences or other rights in or under the patent shall, subject to the provisions of the order and subsection (3), lapse on the registration of that person or those persons as the new proprietor or proprietors of the patent.
 
-(3) Where an order is so made that a patent shall be transferred as mentioned in subsection (2) or that a person other than an old proprietor may make a new application for a patent and before the reference of the question under that section resulting in the making of any such order is registered, the old proprietor or proprietors or a licensee of the patent, acting in good faith, worked the invention in question in Singapore or made effective and serious preparations to do so, the old proprietor or proprietors or the licensee shall, on making a request to the new proprietor or proprietors within the prescribed period, be entitled to be granted a licence (but not an exclusive licence) to continue working or, as the case may be, to work the invention, so far as it is the subject of the new application.
+(3) Where an order is so made that —
+
+(a) a patent shall be transferred as mentioned in subsection (2);
+
+or
+
+(b) a person other than an old proprietor may make a new application for a patent, and before the reference of the question under that section resulting in the making of any such order is registered, the old proprietor or proprietors or a licensee of the patent, acting in good faith —
+
+(i) worked the invention in question in Singapore; or
+
+(ii) made effective and serious preparations to do so, the old proprietor or proprietors or the licensee shall, on making a request to the new proprietor or proprietors within the prescribed period, be entitled to be granted a licence (but not an exclusive licence) to continue working or, as the case may be, to work the invention, so far as it is the subject of the new application.
 
 (4) Any such licence shall be granted for a reasonable period and on reasonable terms.
 
 (5) The new proprietor or proprietors of the patent or any person claiming that he is entitled to be granted any such licence may refer to the Registrar the question whether that person is so entitled and whether any such period is or terms are reasonable.
 
 (6) The Registrar shall determine the question referred to in subsection (5) and may, if he considers it appropriate, order the grant of such a licence.
+
+[UK Patents 1977, s. 38]

@@ -22,3 +22,5 @@ Part: PART XIII INFRINGEMENT OF PATENTS
 (5) It is hereby declared that a mere notification of the existence of a patent does not constitute a threat of proceedings within the meaning of this section.
 
 (6) Nothing in this section shall render an advocate and solicitor or any other person liable to an action under this section in respect of an act done by the advocate and solicitor or the other person in his professional capacity on behalf of a client.
+
+[UK Patents 1977, s. 70]

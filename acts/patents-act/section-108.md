@@ -16,3 +16,5 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 (5) Where an application for a patent is filed, but not published, and a new application is filed in respect of any part of the subject- matter of the earlier application (either in accordance with the rules or in pursuance of an order under section 20) and is published, any person may make a request under subsection (1) relating to the earlier application and on payment of the prescribed fee the Registrar shall give him such information and permit him to inspect such documents as could have been given or inspected if the earlier application had been published.
 
 (6) The publication of the whole or part of a specification of a patent or an application for a patent shall not constitute an infringement of any copyright subsisting under the Copyright Act (Cap. 63) in any literary or artistic work.
+
+[UK Patents 1977, s. 118; Aust. Patents 1990, s. 226]

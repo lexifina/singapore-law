@@ -1,7 +1,7 @@
 # 86. International and national phases of application
 Part: PART XVI INTERNATIONAL APPLICATIONS FOR PATENTS
 
-(1) The provisions of the Patent Co-operation Treaty relating to publication, search, examination and amendment, and not those of this Act, apply to an international application for a patent (Singapore) during the international phase of the application.
+(1) The provisions of the Patent Co-operation Treaty relating to publication, search, examination and amendment, and not those of this Act, shall apply to an international application for a patent (Singapore) during the international phase of the application.
 
 (2) The international phase of the application means the period from the filing of the application in accordance with the Patent Co-operation Treaty until the national phase of the application begins.
 
@@ -32,3 +32,5 @@ or
 (ii) any necessary translation of the amendment into English, otherwise the amendment shall be disregarded.
 
 (7) The Registrar shall on payment of the prescribed fee publish any translation filed at the Registry under subsection (3) or (6).
+
+[UK Patents 1977, s. 89A]

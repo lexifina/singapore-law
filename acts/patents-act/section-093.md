@@ -11,6 +11,6 @@ Part: PART XVII LEGAL PROCEEDINGS
 
 (3) Without prejudice to the right of counsel to appear before the court, an advocate and solicitor who is not in actual practice shall, notwithstanding anything in the Legal Profession Act (Cap. 161), have the right to appear and be heard on behalf of any party to an appeal under this Act from the Registrar to the court.
 
-[94
+[UK Patents 1977, s. 102]
 
 [30/2001]

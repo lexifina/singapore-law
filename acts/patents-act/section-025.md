@@ -34,3 +34,5 @@ Part: PART V APPLICATIONS FOR PATENTS
 (7) The purpose of the abstract is to give technical information and on publication it shall not form part of the state of the art by virtue of section 14 (3), and the Registrar may determine whether the abstract adequately fulfils its purpose and, if it does not, may reframe it so that it does.
 
 (8) An application for a patent may be withdrawn at any time before the patent is granted and any withdrawal of such an application may not be revoked.
+
+[UK Patents 1977, s. 14]

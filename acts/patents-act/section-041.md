@@ -22,3 +22,5 @@ Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATIO
 (b) any assent relating to any patent or any such application or right, shall be void unless it is in writing and is signed by or on behalf of the parties to the transaction (or, in the case of an assent or other transaction by a personal representative, by or on behalf of the personal representative) or in the case of a body corporate is so signed or is under the seal of that body.
 
 (7) An assignment of a patent or any such application or a share in it, and an exclusive licence granted under any patent or any such application, may confer on the assignee or licensee the right of the assignor or licensor to bring proceedings by virtue of section 67 or 76 for a previous infringement or to bring the proceedings under section 58 for a previous act.
+
+[UK Patents 1977, s. 30]

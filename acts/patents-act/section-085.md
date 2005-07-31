@@ -18,3 +18,5 @@ Part: PART XVI INTERNATIONAL APPLICATIONS FOR PATENTS
 (5) The Registry shall act as a receiving Office under Article 2 of the Patent Co-operation Treaty in respect of international applications filed by citizens of Singapore or persons resident in Singapore.
 
 (6) The prescribed transmittal fee, in addition to the fees prescribed by the Patent Co-operation Treaty, shall be paid to the Registry by any person filing an international application under that Treaty.
+
+[UK Patents 1977, s. 89]

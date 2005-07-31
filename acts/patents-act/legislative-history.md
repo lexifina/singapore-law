@@ -7,3 +7,7 @@
 3. Act 3 of 2001 — Intellectual Property Office of Singapore Act (Consequential amendments made by) Date of First Reading : 12.1.2001 (Bill No. 1/2001 published on 13.1.2001) Date of Second and Third Readings : 22.2.2001 Date of commencement : 1.4.2001
 
 4. Act 30 of 2001 — Patents (Amendment) Act 2001 Date of First Reading : 25.7.2001 (Bill No. 28/2001 published on 26.7.2001) Date of Second and Third Readings : 13.8.2001 Date of commencement : 17.10.2001 (except sections 6 and 14) 2.2.2002 (section 14) 25.2.2002 (section 6)
+
+5. Act 19 of 2004 — Patents (Amendment) Act 2004 Date of First Reading : 19.5.2004 (Bill No. 19/2004 published on 20.5.2004) Date of Second and Third Readings : 15.6.2004 Date of commencement : 1.7.2004
+
+This Legislative History is provided for the convenience of users of the Patents Act. It is not part of the Patents Act.

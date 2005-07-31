@@ -8,3 +8,5 @@ Part: PART XIII INFRINGEMENT OF PATENTS
 (b) that the proprietor has refused or failed to give any such acknowledgment.
 
 (2) A declaration made by the Registrar under this section shall have the same effect as a declaration made by the court.
+
+[UK Patents 1977, s. 71]

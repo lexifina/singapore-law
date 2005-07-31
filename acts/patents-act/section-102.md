@@ -11,4 +11,4 @@ Part: PART XVIII OFFENCES
 
 (5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, is also guilty of the offence and liable to be proceeded against and punished accordingly.
 
-[103
+[UK Patents 1977, ss. 113 and 285]

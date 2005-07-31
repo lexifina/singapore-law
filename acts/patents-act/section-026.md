@@ -27,10 +27,14 @@ Part: PART V APPLICATIONS FOR PATENTS
 
 (b) otherwise any reference to the drawing in the application shall be treated as omitted.
 
-(6) Where, after an application for a patent has been filed and before the patent is granted, a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application and the considerations mentioned in subsection (1) are satisfied in relation to the new application (without the new application contravening section 84) the new application shall be treated as having, as its date of filing, the date of filing the earlier application.
+(6) Where, after an application for a patent has been filed and before the conditions in section 30 (2) and (3) are satisfied, a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application and the considerations mentioned in subsection (1) are satisfied in relation to the new application (without the new application contravening section 84) the new application shall be treated as having, as its date of filing, the date of filing the earlier application.
+
+[19/2004]
 
 (7) Nothing in subsection (5) shall be construed as affecting the power of the Registrar under section 107 (1) to correct errors or mistakes with respect to the filing of drawings.
 
 (8) An application for a patent shall be treated as having been abandoned at the end of the prescribed period unless before that period ends the applicant files one or more claims for the purposes of the application.
+
+[UK Patents 1977, s. 15]
 
 [30/2001]

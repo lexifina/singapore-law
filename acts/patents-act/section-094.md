@@ -5,4 +5,4 @@ Part: PART XVII LEGAL PROCEEDINGS
 
 (2) In this section, ‘‘legal proceedings’’ includes proceedings before the Registrar; and references to ‘‘legal proceedings’’ and ‘‘pending or contemplated proceedings’’ include references to applications for a patent and to international applications for a patent.
 
-[95
+[UK Patents 1977, s. 103]

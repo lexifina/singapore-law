@@ -6,3 +6,5 @@ Part: PART III PATENTABILITY
 (2) An invention of a method of treatment of the human or animal body by surgery or therapy or of diagnosis practised on the human or animal body shall not be taken to be capable of industrial application.
 
 (3) Subsection (2) shall not prevent a product consisting of a substance or composition from being treated as capable of industrial application merely because it is invented for use in any such method.
+
+[UK Patents 1977, s. 4]

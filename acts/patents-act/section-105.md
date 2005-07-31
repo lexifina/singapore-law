@@ -91,4 +91,6 @@ Part: PART XIX PATENT AGENTS
 
 ‘‘related company group’’ means a group of 2 or more corporations within the meaning of the Companies Act (Cap. 50) which are related to each other in accordance with section 6 of that Act.
 
+[Aust. Patents 1990, s. 201]
+
 [30/2001]

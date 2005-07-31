@@ -9,4 +9,6 @@ The Office, any officer of the Registry and any Examiner shall not —
 
 (c) incur any liability by reason of an incorrect entry in the register of patent agents maintained under Part XIX.
 
+[UK Patents 1977, s. 116]
+
 [3/2001]

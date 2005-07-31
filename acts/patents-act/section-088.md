@@ -1,7 +1,7 @@
 # 88. Evidence of Patent Co-operation Treaty and its instruments
 Part: PART XVI INTERNATIONAL APPLICATIONS FOR PATENTS
 
-(1) Judicial notice shall be taken of the Patent Co-operation Treaty and any gazette, bulletin or journal published under the Treaty.
+(1) Judicial notice shall be taken of the Patent Co-operation Treaty and any Gazette, bulletin or journal published under the Treaty.
 
 (2) Any such document mentioned in subsection (1) shall be admissible as evidence of any instrument or other act thereby communicated of any institution having functions under the Treaty.
 
@@ -15,6 +15,8 @@ Part: PART XVI INTERNATIONAL APPLICATIONS FOR PATENTS
 
 (b) where the instrument is in the custody of a Government department, by production of a copy certified on behalf of the department to be a true copy by an officer of the department generally or specially authorised to do so.
 
-(6) Any document purporting to be such a copy as is mentioned in subsection 5 (b) of an instrument in the custody of a Government department shall be received in evidence without proof of the official position or handwriting of the person signing the certificate, or of his authority to do so, or of the document being in the custody of the department.
+(6) Any document purporting to be such a copy as is mentioned in subsection (5) (b) of an instrument in the custody of a Government department shall be received in evidence without proof of the official position or handwriting of the person signing the certificate, or of his authority to do so, or of the document being in the custody of the department.
 
 (7) In this section, ‘‘legal proceedings’’ includes proceedings before the Registrar.
+
+[UK Patents 1977, s. 91]
