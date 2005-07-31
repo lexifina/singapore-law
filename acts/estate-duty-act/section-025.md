@@ -8,3 +8,5 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 (a) for the purpose of determining the rate of estate duty in respect of the rest of the estate, the value of the interest shall be its value at the date of the death of the deceased; and
 
 (b) the rate of estate duty in respect of the interest when it falls into possession shall be calculated according to its value when it falls into possession, together with the value of the rest of the estate as previously ascertained.
+
+[UK Finance 1894, s. 7 (6)]

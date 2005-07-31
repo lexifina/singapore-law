@@ -7,4 +7,4 @@ Part: PART II ESTATE DUTY
 
 (3) Estate duty shall not be payable in respect of any pension granted under the Widows’ and Orphans’ Pension Act (Cap. 350) nor in respect of any pension or annuity payable by the government of any part of the Commonwealth to the widow or child of any deceased officer of that government, notwithstanding that the deceased contributed during his lifetime to any fund out of which that pension or annuity is paid.
 
-[11
+[UK Finance 1894, s. 15 (1) (as amended by UK Finance 1935, s. 33)]

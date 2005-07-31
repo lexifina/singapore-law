@@ -21,6 +21,4 @@ C is the amount of the estate duty to be remitted.
 
 (3) There shall be allowed in respect of the principal value, as ascertained in accordance with the provisions of this Act, of all property which passes on the death of a person on or after 1st April 1977 and before 1st April 1984 a remission of estate duty at the rates set out in the Eighth Schedule.
 
-[7
-
 [10/80; 14/84]

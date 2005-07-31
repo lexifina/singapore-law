@@ -13,4 +13,4 @@ Part: PART II ESTATE DUTY
 
 (6) Subsections (4) and (5) shall not apply where such person or persons taking such life or determinable interest had at any time prior to the disposition been himself or themselves competent to dispose of such property.
 
-[9
+[UK Finance 1894, s. 2 (3); UK Finance 1896, s. 15]

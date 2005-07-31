@@ -33,4 +33,8 @@ Part: PART VI COLLECTION OF ESTATE DUTY
 
 (10) The Commissioner, if he is satisfied that the applicant referred to in subsection (9) has not taken possession of, or intermeddled with, any property of the deceased, may issue a certificate of exemption accordingly.
 
-(11) Any certificate of exemption issued under subsection (10) may be revoked by the Commissioner at any time if he is of opinion that the certificate was obtained by fraud or misrepresentation, or on an incorrect statement of facts, or if the holder of the certificate has at any time after the issue thereof taken possession of, or intermeddled with, the property of the deceased.
+(11) Any certificate of exemption issued under subsection (10) may be revoked by the Commissioner at any time —
+
+(a) if he is of opinion that the certificate was obtained by fraud or misrepresentation, or on an incorrect statement of facts; or
+
+(b) if the holder of the certificate has at any time after the issue thereof taken possession of, or intermeddled with, the property of the deceased.

@@ -19,6 +19,4 @@ Part: PART VI COLLECTION OF ESTATE DUTY
 
 (b) shares standing in the name of a deceased person in his CPF Investment Account under the Central Provident Fund Act (Cap. 36) where the aggregate market value of the shares, as at the date of his death, does not exceed $50,000.
 
-[44
-
 [42/98]

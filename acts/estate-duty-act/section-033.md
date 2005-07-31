@@ -5,4 +5,6 @@ Part: PART V LIABILITY FOR ESTATE DUTY
 
 (2) Any dispute as to the proportion of estate duty to be borne by any property or person may be determined upon application by way of originating summons in the High Court.
 
-(3) Any person from whom a rateable part of estate duty can be recovered under this section shall be bound by the accounts and valuations as settled between the person entitled to recover the same and the Commissioner.
+(3) Any person from whom a rateable part of the estate duty can be recovered under this section shall be bound by the accounts and valuations as settled between the person entitled to recover the same and the Commissioner.
+
+[UK Finance 1894, s. 14]

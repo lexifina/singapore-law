@@ -11,7 +11,7 @@ Part: PART II ESTATE DUTY
 
 (i) in the case of any gift inter vivos made for public or charitable purposes, the words ‘‘5 years’’ in this paragraph shall be read as ‘‘12 months’’;
 
-(ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are made to the Government or any institution of a public character within the meaning of section 37 (9) of the Income Tax Act (Cap. 134), or which are proved to the satisfaction of the Commis- sioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
+(ii) nothing in this paragraph shall apply to gifts inter vivos which are made in consideration of marriage, or which are made to the Government or any institution of a public character within the meaning of section 2 (1) of the Income Tax Act (Cap. 134), or which are proved to the satisfaction of the Commissioner to have been part of the normal expenditure of the deceased and to have been reasonable having regard to the amount of his income or to the circumstances, or which in the case of any donee do not exceed in the aggregate $1,000 in value or amount;
 
 (d) property which the deceased, having been absolutely entitled thereto, has caused to be transferred to or vested in himself and any other person jointly, whether by disposition or otherwise, including also any purchase or investment effected by the deceased alone or in concert or by arrangement with any other person, so that the beneficial interest therein or in some part thereof passes or accrues by survivorship on his death to such other person;
 
@@ -25,4 +25,6 @@ Part: PART II ESTATE DUTY
 
 (2) Where an annuity or other interest referred to in subsection (1) (g) has been purchased or provided by the deceased, either by himself alone or in concert or by arrangement with any other person, the extent of any beneficial interest therein accruing or arising by survivorship or otherwise on the death of the deceased shall be ascertained, and shall be deemed always to be ascertainable without regard to any interest in expectancy the beneficiary may have had therein before the death.
 
-[8
+[UK Customs and Inland Revenue 1881, s. 38 (2); UK Customs and Inland Revenue 1889, s. 11;
+
+UK Finance 1894, s. 2 (1); UK Finance 1900, s. 11 (1); UK Finance 1910, s. 59]

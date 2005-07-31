@@ -17,7 +17,7 @@ Part: PART VI COLLECTION OF ESTATE DUTY
 
 (4) The Commissioner may apply to the High Court in a summary manner in the matter to which his inquiry relates for an order enforcing compliance with his reasonable requirements.
 
-(5) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commis- sioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
+(5) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commissioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
 
 (6) When the Commissioner requires a valuation to be made by a person named by him, the costs of the valuation shall be defrayed by the Commissioner.
 

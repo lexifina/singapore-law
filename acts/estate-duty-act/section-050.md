@@ -7,6 +7,4 @@ Where it appears to the Commissioner that the amount of any estate duty or addit
 
 (b) in the case of interest thereon, $5, he may waive the payment of the duty or interest, as the case may be.
 
-[51
-
 [10/80]

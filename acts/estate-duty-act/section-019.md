@@ -11,9 +11,9 @@ and
 
 (2) The sum computed under subsection (1) shall be reduced by the amount, if any, by which the principal value at the date of death —
 
-(i) of the subject of the transfer; or
+(a) of the subject of the transfer; or
 
-(ii) if the subject of the transfer has been sold or exchanged by the company either of the subject of the transfer or of the property in the hands of the company which is or represents the proceeds of the sale or exchange, is shown to the satisfaction of the Commissioner to fall short of that sum.
+(b) if the subject of the transfer has been sold or exchanged by the company either of the subject of the transfer or of the property in the hands of the company which is or represents the proceeds of the sale or exchange, is shown to the satisfaction of the Commissioner to fall short of that sum.
 
 (3) Notwithstanding anything in this section, the value of any property or any interest in property shall not be taken into account, directly or indirectly, for the purpose of assessment of estate duty more than once on the same death.
 
@@ -37,7 +37,7 @@ and
 
 (c) transfers of, or of any interest in, property which by virtue of section 20 is deemed to pass on the death;
 
-(d) transfers of patents or copyrights, or of any movable tangible property except money and securities;
+(d) transfers of patents or copyrights, or of any movable tangible property except money and securities; and
 
 (e) transfers where either the deceased or the company is acting in the capacity of trustee, factor, agent, receiver or manager.
 
@@ -83,7 +83,7 @@ and
 
 ‘‘accounting year’’ —
 
-(a) in relation to a company which at the time of the death of the deceased person has made up accounts for a period of 12 months ending on a date within the 12 months next preceding the death, means a period of 12 months ending either on that date, or on the same date of the year in any previous year; and
+(a) in relation to a company which at the time of the death of the deceased person has made up accounts for a period of 12 months ending on a date within the 12 months next preceding the death, means a period of 12 months ending either on that date, or on the same day of the year in any previous year; and
 
 (b) in relation to any other company, means a period of 12 months ending on such date within the 12 months next preceding the death as may be determined by the Commissioner or on the same day of the year in any previous year;
 

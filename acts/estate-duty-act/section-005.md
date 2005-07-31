@@ -13,6 +13,6 @@ Except as expressly provided in this Act, there shall be levied and paid upon th
 
 (e) in the case of any person dying on or after 28th February 1996 — at the rates specified in the Fifth Schedule.
 
-[6
+[UK Finance 1894, s. 1]
 
 [16/74; 12/78; 10/80; 14/84; 27/96]

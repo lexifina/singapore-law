@@ -8,5 +8,3 @@ Part: PART VII MISCELLANEOUS PROVISIONS
 (3) The Commissioner may of his own motion intervene and be heard, either personally or by counsel in any pending suit or proceeding by which the right to claim or receive estate duty is or is likely to be affected.
 
 (4) The costs of or occasioned by the intervention of the Commissioner shall be in the discretion of the court.
-
-[57

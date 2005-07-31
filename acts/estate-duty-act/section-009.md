@@ -11,4 +11,4 @@ Part: PART II ESTATE DUTY
 
 (2) Where such purchase was made, or such lease or annuity granted, for partial consideration in money or money’s worth paid to the vendor or grantor for his own use or benefit, or in the case of a lease, for the use or benefit of any person for whom the grantor was a trustee, the value of the consideration shall be allowed as a deduction from the value of the property for the purpose of estate duty.
 
-[10
+[UK Finance 1894, s. 3]

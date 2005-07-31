@@ -6,3 +6,5 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 (2) Any property so passing, in which the deceased never had an interest, shall not be aggregated with any other property, but shall be an estate by itself, and the estate duty shall be levied at the proper graduated rate on the principal value thereof.
 
 (3) Property passing on any death shall not be aggregated more than once, nor shall estate duty in respect thereof be more than once levied in respect of the same death.
+
+[UK Finance 1894, s. 4]

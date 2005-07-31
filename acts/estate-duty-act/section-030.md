@@ -5,7 +5,7 @@ Part: PART V LIABILITY FOR ESTATE DUTY
 
 [30/2000]
 
-(2) An executor shall not be liable for any duty in excess of the assets which he has received as executor or might but for his own neglect or default have received.
+(2) An executor shall not be liable for any duty in excess of the assets which he has received as executor or which he might but for his own neglect or default have received.
 
 (3) Where the executor does not know the amount or value of any property which has passed on the death, he may state in the estate duty return that —
 

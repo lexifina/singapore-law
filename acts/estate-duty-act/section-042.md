@@ -15,6 +15,4 @@ Part: PART VI COLLECTION OF ESTATE DUTY
 
 [30/2000]
 
-(2) The onus of proving any of the circumstances mentioned in subsection (1) shall rest on the accountable person, and postpone- ment of payment shall be subject to such conditions, including the payment of interest, and to the giving of such security and undertakings, as the Commissioner may think fit.
-
-[43
+(2) The onus of proving any of the circumstances mentioned in subsection (1) shall rest on the accountable person, and postponement of payment shall be subject to such conditions, including the payment of interest, and to the giving of such security and undertakings, as the Commissioner may think fit.

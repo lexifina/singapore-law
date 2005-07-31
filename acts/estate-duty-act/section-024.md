@@ -6,3 +6,5 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 (2) In estimating such principal value, the Commissioner shall not make any deduction in the estimate on account of the estimate being made on the assumption that the whole property is to be placed on the market at one and the same time.
 
 (3) Where it is proved to the Commissioner that the value of the property has been depreciated by reason of the death of the deceased, the Commissioner in fixing the price shall take such depreciation into account.
+
+[UK Finance 1894, s. 7 (5); UK Finance 1910, s. 60]

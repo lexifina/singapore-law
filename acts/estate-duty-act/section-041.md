@@ -10,5 +10,3 @@ Part: PART VI COLLECTION OF ESTATE DUTY
 (3) Such schedule shall contain a description of all the property passing on the death of a deceased person whether estate duty is leviable on such property or not.
 
 (4) If, after the issue of a grant of representation in respect of a deceased person, it is discovered that any property passing or deemed to pass on his death has not been included in that schedule, then upon payment of all estate duty, if any, in respect of such property the Commissioner shall cause particulars of the property to be entered in that schedule or shall issue a supplementary schedule.
-
-[42

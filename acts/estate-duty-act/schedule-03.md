@@ -2,9 +2,7 @@
 
 Section 5 (c)
 
-RATES OF ESTATE DUTY IN THE CASE OF PERSONS DYING ON OR AFTER 1ST APRIL 1979 AND BEFORE 1ST APRIL 1984
-
-Principal value of the estate Rate of duty For every dollar of the first $15,000 5%
+RATES OF ESTATE DUTY IN THE CASE OF PERSONS DYING ON OR AFTER 1ST APRIL 1979 AND BEFORE 1ST APRIL 1984 Principal value of the estate Rate of duty For every dollar of the first $15,000 5%
 
 1
 

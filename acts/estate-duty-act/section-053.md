@@ -7,6 +7,4 @@ Part: PART VII MISCELLANEOUS PROVISIONS
 
 (b) accept payment of the sum so assessed in full discharge of all claims for estate duties in respect of that property or interest and shall give a certificate of discharge accordingly.
 
-(2) The certificate shall not discharge any person from any duty in case of fraud or failure to disclose material facts.
-
-[54
+(2) The certificate shall not discharge any person from any duty in the case of fraud or failure to disclose material facts.

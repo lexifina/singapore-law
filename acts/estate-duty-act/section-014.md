@@ -63,17 +63,19 @@ or
 
 (a) used wholly or partly for the purposes of any trade, business, profession or vocation by any person at the time of death of the deceased; or
 
-(b) passing on the death of the deceased by virtue of section 7 (1) (c), shall not qualify for the relief under subsection (1) (a), (2) (a), (3) (a) or (4) (a).
+(b) passing on the death of the deceased by virtue of section 7 (1) (c), shall not qualify for relief under subsection (1) (a), (2) (a), (3) (a) or
+
+(4) (a).
 
 [14/84; 27/96]
 
 (7) In the case of a person dying on or after 25th February 2000, subsection (6) (a) shall not apply to any dwelling-house which at the time of his death was used by any person partly for the purposes of any trade, business, profession or vocation —
 
-(a) approved under the Technopreneur Home Office Scheme by the National Science and Technology Board; or
+(a) approved under the Home Office Scheme by the Urban Redevelopment Authority or the Housing and Development Board; or
 
 (b) allowed under the small business guidelines of the Urban Redevelopment Authority or the Housing and Development Board.
 
-[30/2000]
+[30/2000; 51/2004]
 
 (8) In this section —
 

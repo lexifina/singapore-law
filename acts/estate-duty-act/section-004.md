@@ -1,7 +1,7 @@
 # 4. Appointment of Commissioner, etc.
 Part: PART I PRELIMINARY
 
-(1) The Minister may, by notification in the Gazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Estate Duties and such number of Deputy Commis- sioners of Estate Duties as he thinks fit.
+(1) The Minister may, by notification in the Gazette, appoint an officer to carry out the provisions of this Act, to be called the Commissioner of Estate Duties and such number of Deputy Commissioners of Estate Duties as he thinks fit.
 
 (2) A Deputy Commissioner of Estate Duties shall have all the powers conferred by this Act on the Commissioner.
 

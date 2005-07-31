@@ -12,3 +12,5 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 (5) Where any property passing on the death of the deceased is situate in a country to which subsection (1) does not apply and the Commissioner is satisfied that by reason of such death any duty is payable in that country in respect of that property, he shall make an allowance of the amount of that duty from the value of the property.
 
 (6) This section shall have effect as if ‘‘Commonwealth’’ included the Republic of Ireland.
+
+[UK Finance 1894, s. 7 (4)]

@@ -2,9 +2,7 @@
 
 Section 5 (b)
 
-RATES OF ESTATE DUTY IN THE CASE OF PERSONS DYING ON OR AFTER 1ST APRIL 1977 AND BEFORE 1ST APRIL 1979
-
-Principal value of the estate Rate of duty For every dollar of the first $100,000 Nil For every dollar of the next $15,000 5%
+RATES OF ESTATE DUTY IN THE CASE OF PERSONS DYING ON OR AFTER 1ST APRIL 1977 AND BEFORE 1ST APRIL 1979 Principal value of the estate Rate of duty For every dollar of the first $100,000 Nil For every dollar of the next $15,000 5%
 
 1
 

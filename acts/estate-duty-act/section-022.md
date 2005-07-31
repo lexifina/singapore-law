@@ -5,9 +5,7 @@ Part: PART III COMPANIES
 
 (a) there is deemed by virtue of the provisions of this Part to pass on the death a sum of money computed by reference to the value of the total assets of the company; or
 
-(b) the control of the company was immediately before the death in the hands of the deceased,
-
-the principal value of those shares for the purposes of estate duty shall not be ascertained in the manner provided by section 24, but shall be ascertained by reference to the value of the total assets of the company.
+(b) the control of the company was immediately before the death in the hands of the deceased, the principal value of those shares for the purposes of estate duty shall not be ascertained in the manner provided by section 24, but shall be ascertained by reference to the value of the total assets of the company.
 
 (2) In cases falling within subsection (1) (a), the value of the total assets of the company shall, for the purposes of this section, be deemed to be reduced by the sum of money therein referred to.
 
