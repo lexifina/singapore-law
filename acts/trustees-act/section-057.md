@@ -5,4 +5,4 @@ Part: PART V POWERS OF COURT
 
 (2) An order under this Act concerning any interest in land, stock or thing in action subject to a mortgage may be made on the application of any person beneficially interested in the equity of redemption, whether under disability or not, or of any person interested in the money secured by the mortgage.
 
-[60
+[UK Trustee 1925, s. 58; Trustees Ordinance 1955 Ed., s. 57]

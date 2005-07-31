@@ -5,4 +5,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (2) A trust or power to sell or dispose of land includes a trust or power to sell or dispose of part thereof, whether the division is horizontal, vertical, or made in any other way.
 
-[16
+[UK Trustee 1925, s. 12 (1) and (2); Trustees Ordinance 1955 Ed., s. 13]

@@ -7,4 +7,4 @@ All conditions and directions inserted in any certificate of incorporation shall
 
 (b) enforceable by the Attorney-General or other public officer or persons interested under any written law for the time being in force.
 
-[75
+[UK Charitable Trustees 1872, s. 8; Malaya Trustees (Incorporation) 1952, s. 9]

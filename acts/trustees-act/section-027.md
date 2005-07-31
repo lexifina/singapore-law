@@ -1,28 +1,54 @@
-# 27. Power to delegate trusts during absence abroad Indemnities
+# 27. Delegation of trustee’s functions by power of attorney Indemnities
 Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General Powers
 
-(1) A trustee intending to remain out of Singapore for a period exceeding 14 days may, notwithstanding any rule of law or equity to the contrary, by power of attorney, delegate to any person (including a trust corporation) the execution or exercise during his absence from Singapore of all or any trusts, powers and discretions vested in him as such trustee, either alone or jointly with any other person or persons.
+(1) Notwithstanding any rule of law or equity to the contrary, a trustee may, by power of attorney, delegate the execution or exercise of all or any trusts, powers and discretions vested in him as trustee either alone or jointly with any other person or persons.
 
-(1A) A person being the only other co-trustee and not being a trust corporation shall not be appointed to be an attorney under subsection (1).
+[45/2004]
 
-(2) The donor of a power of attorney given under this section shall be liable for the acts or defaults of the donee in the same manner as if they were the acts or defaults of the donor.
+(2) A delegation under this section —
 
-(3) The power of attorney shall not come into operation unless the donor is out of Singapore and shall be revoked by his return.
+(a) shall commence as provided by the instrument creating the power or, if the instrument makes no provision as to the commencement of the delegation, on the date of the execution of the instrument by the donor; and
 
-(4) The power of attorney shall be attested by at least one witness, and shall be deposited in the Registry of the Supreme Court within 10 days after the execution thereof, or where not executed in Singapore within 10 days after its receipt in Singapore, with a statutory declaration by the donor that he intends to remain out of Singapore for a period exceeding 14 days from the date of the declaration, or from a date therein mentioned.
+(b) shall continue for a period of 18 months or any shorter period provided by the instrument creating the power.
 
-(5) The execution of any such instrument and statutory declaration shall be verified in such manner as is required by statute in the case of powers of attorney deposited in the Registry of the Supreme Court.
+[45/2004]
 
-(6) The statutory declaration mentioned in subsections (4) and (5) and a statutory declaration by the donee of the power of attorney that the power has come into operation and has not been revoked by the return of the donor shall be conclusive evidence of the facts stated in favour of any person dealing with the donee.
+(3) The persons who may be donees of a power of attorney under this section include a trust corporation.
 
-(7) In favour of any person dealing with the donee, any act done or instrument executed by the donee shall, notwithstanding that the power has never come into operation or has become revoked by the act of the donor or by his death or otherwise, be as valid and effectual as if the donor were alive and of full capacity, and had himself done that act or executed that instrument, unless the person had actual notice that the power had never come into operation or of the revocation of the power before that act was done or instrument executed.
+[45/2004]
 
-(8) For the purpose of executing or exercising the trusts or powers delegated to him, the donee may exercise any of the powers conferred on the donor as trustee by law or by the instrument creating the trust, including power, for the purpose of the transfer of any inscribed stock, himself to delegate to an attorney power to transfer but not including the power of delegation conferred by this section.
+(4) Before or within 7 days after giving a power of attorney under this section, the donor shall give written notice of it (specifying the date on which the power comes into operation and its duration, the donee of the power, the reason why the power is given and, where only some trusts, powers and discretions are delegated, the trusts, powers and discretions delegated) to —
 
-(9) The fact that it appears from any power of attorney given under this section, or from any evidence required for the purposes of any such power of attorney or otherwise, that in dealing with any stock the donee of the power is acting in the execution of a trust shall not be deemed for any purpose to affect any person in whose books the stock is inscribed or registered with any notice of the trust.
+(a) each person (other than himself), if any, who under any instrument creating the trust has power (whether alone or jointly) to appoint a new trustee; and
 
-(10) No power of attorney shall be operative for the purposes of this section for a longer period than 18 months after the date of execution.
+(b) each of the other trustees, if any, but failure to comply with this subsection shall not, in favour of a person dealing with the donee of the power, invalidate any act done or instrument executed by the donee.
 
-[30
+[45/2004]
+
+(5) A power of attorney given under this section by a single donor —
+
+(a) in the form set out in the Third Schedule; or
+
+(b) in a form to the like effect but expressed to be made under this subsection, shall operate to delegate to the person identified in the form as the single donee of the power, the execution and the exercise of all the trusts, powers and discretions vested in the donor as trustee (either alone or jointly with any other person or persons) under the single trust so identified.
+
+[45/2004]
+
+(6) The donor of a power of attorney given under this section shall be liable for the acts or defaults of the donee in the same manner as if they were the acts or defaults of the donor.
+
+[45/2004]
+
+(7) For the purpose of executing or exercising the trusts or powers delegated to him, the donee may exercise any of the powers conferred on the donor as trustee by statute or by the instrument creating the trust, including power, for the purpose of the transfer of any inscribed stock or securities, for himself to delegate to an attorney the power to transfer, but not including the power of delegation conferred by this section.
+
+[45/2004]
+
+(8) The fact that it appears from any power of attorney given under this section, or from any evidence required for the purposes of any such power of attorney or otherwise, that in dealing with any stock or securities the donee of the power is acting in the execution of a trust shall not be deemed for any purpose to affect the Depository (as defined in section 130A of the Companies Act (Cap. 50)), any person in whose books the stock is inscribed or registered or the issuer of the securities with any notice of the trust.
+
+[45/2004]
+
+(9) This section shall apply to a personal representative as it applies to a trustee except that subsection (4) shall apply as if it required the notice referred therein to be given to each of the other personal representatives, if any, except any executor who has renounced probate.
+
+[UK Trustee 1925, s. 25 (as amended by UK Powers of Attorney Act 1971)]
+
+[45/2004]
 
 Indemnities

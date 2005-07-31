@@ -9,4 +9,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (4) No person advancing money upon a mortgage purporting to be under subsection (3), shall be bound to see that the money is wanted, or that no more is raised than is wanted for the purpose, or otherwise as to the application thereof.
 
-[20
+[Trustees Ordinance 1955 Ed., s. 17]

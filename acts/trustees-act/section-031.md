@@ -7,4 +7,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (3) The person so entitled shall have the same remedy against the person to whom the payment is made as he would have had against the trustee.
 
-[34
+[Trustees Ordinance 1955 Ed., s. 31]

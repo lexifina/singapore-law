@@ -17,9 +17,11 @@ Part: PART II INVESTMENTS
 
 [23/92]
 
-(4) For the purposes of subsection (3), ‘‘dwelling-house’’ means a dwelling-house situated in Singapore and includes a lot on a strata title plan under the Land Titles (Strata) Act (Cap. 158).
+(4) In subsection (3), ‘‘dwelling-house’’ means a place of residence and includes a building or tenement wholly or principally used, constructed or adapted for human habitation.
 
-[23/92]
+[UK Trustee 1925, s. 11; Trustees Ordinance 1955 Ed., s. 12]
+
+[45/2004]
 
 PART III
 

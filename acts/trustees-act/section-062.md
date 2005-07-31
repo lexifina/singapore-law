@@ -11,4 +11,4 @@ Part: PART V POWERS OF COURT
 
 (5) Every transfer, payment and delivery made in pursuance of any such order shall be valid and take effect as if the same had been made on the authority or by the act of all the persons entitled to the money and securities so transferred, paid or delivered.
 
-[65
+[UK Trustee 1925, s. 63; Trustees Ordinance 1955 Ed., s. 62]

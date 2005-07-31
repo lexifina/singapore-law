@@ -19,7 +19,7 @@ Part: PART V POWERS OF COURT
 
 (e) where there is no personal representative of a deceased trustee who was entitled to or possessed of any interest in land, or where it is uncertain who is the personal representative of a deceased trustee who was entitled to or possessed of any interest in land;
 
-(f) where there is no personal representative of a deceased mortgagee who was entitled to or possessed of any interest in land, or where it is uncertain who is the personal represen- tative of a deceased mortgagee who was entitled to or possessed of any interest in land, or where it is uncertain whether any mortgagee entitled to or possessed of any interest in land is living or dead, or where any mortgagee entitled to or possessed of any interest in land is out of the jurisdiction of the court or cannot be found or being a corporation has been dissolved;
+(f) where there is no personal representative of a deceased mortgagee who was entitled to or possessed of any interest in land, or where it is uncertain who is the personal representative of a deceased mortgagee who was entitled to or possessed of any interest in land, or where it is uncertain whether any mortgagee entitled to or possessed of any interest in land is living or dead, or where any mortgagee entitled to or possessed of any interest in land is out of the jurisdiction of the court or cannot be found or being a corporation has been dissolved;
 
 (g) where a trustee jointly or solely entitled to or possessed of any interest in land, or entitled to a contingent right therein, has been required, by or on behalf of a person entitled to require a conveyance of the land or interest or a release of the right, to convey the land or interest or to release the right, and has wilfully refused or neglected to convey the land or interest or release the right for 28 days after the date of the requirement; or
 
@@ -29,4 +29,4 @@ Part: PART V POWERS OF COURT
 
 (3) Where the order relates to a trustee entitled or formerly entitled jointly with another person, and such trustee is under disability or out of the jurisdiction of the court or cannot be found, or being a corporation has been dissolved, the land, interest or right shall be vested in such other person who remains entitled, either alone or with any other person, as the court may appoint.
 
-[48
+[UK Trustee 1925, s. 44; Trustees Ordinance 1955 Ed., s. 45]

@@ -9,4 +9,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (4) This section shall apply to sales made before, on or after 1st September 1929.
 
-[17
+[UK Trustee 1925, s. 13; Trustees Ordinance 1955 Ed., s. 14]

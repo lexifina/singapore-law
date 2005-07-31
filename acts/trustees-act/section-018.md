@@ -5,4 +5,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (2) This section shall apply notwithstanding anything to the contrary contained in the instrument, if any, creating the trust, but shall not apply to trustees of property held for charitable purposes.
 
-[21
+[UK Trustee 1925, s. 16; Trustees Ordinance 1955 Ed., s. 18]

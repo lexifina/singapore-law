@@ -9,4 +9,4 @@ Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (2) The restrictions hereby imposed on the number of trustees shall not apply in the case of property vested in trustees for charitable, religious or public purposes.
 
-[39
+[UK Trustee 1925, s. 34; Trustees Ordinance 1955 Ed., s. 36]

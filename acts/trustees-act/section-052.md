@@ -1,11 +1,11 @@
 # 52. Vesting orders as to stock and thing in action
 Part: PART V POWERS OF COURT
 
-(1) In any of the following cases, namely:
+(1) In any of the following cases:
 
 (a) where the court appoints or has appointed a trustee, or where a trustee has been appointed out of court under any statutory or express power;
 
-(b) where a trustee entitled, whether by way of mortgage or otherwise, alone or jointly with another person to stock or to a thing in action —
+(b) where a trustee entitled, whether by way of mortgage or otherwise, alone or jointly with another person, to stock or to a thing in action —
 
 (i) is under disability;
 
@@ -39,4 +39,4 @@ Part: PART V POWERS OF COURT
 
 (9) The provisions of this Act as to vesting orders shall apply to shares in ships registered under any written law relating to merchant shipping as if they were stock.
 
-[55
+[UK Trustee 1925, s. 51; Trustees Ordinance 1955 Ed., s. 52]

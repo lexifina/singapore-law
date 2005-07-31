@@ -13,4 +13,4 @@ Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (2) Nothing in this Act shall authorise the appointment of a sole trustee, not being a trust corporation, where the trustee, when appointed, would not be able to give valid receipts for all capital money arising under the trust.
 
-[41
+[UK Trustee 1925, s. 37; Trustees Ordinance 1955 Ed., s. 38]

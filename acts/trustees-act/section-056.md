@@ -11,4 +11,4 @@ Part: PART V POWERS OF COURT
 
 (3) An application to the court under this section may be made by the trustees, or by any of them or by any person beneficially interested under the trust.
 
-[59
+[UK Trustee 1925, s. 57; Trustees Ordinance 1955 Ed., s. 56]

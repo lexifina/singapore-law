@@ -7,4 +7,4 @@ Where an infant is beneficially entitled to any property, the court may, with a 
 
 (b) in the case of stock, or a thing in action, vesting in any person the right to transfer or call for a transfer of the stock, or to receive the dividends or income thereof, or to sue for and recover such thing in action, upon such terms as the court may think fit.
 
-[57
+[UK Trustee 1925, s. 53; Trustees Ordinance 1955 Ed., s. 54]

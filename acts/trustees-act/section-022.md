@@ -1,7 +1,9 @@
 # 22. Application of insurance money where policy kept up under any trust, power or obligation
 Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General Powers
 
-(1) Money receivable by trustees or any beneficiary under a policy of insurance against the loss or damage of any property, subject to a trust, whether by fire or otherwise, shall, where the policy has been kept up under any trust in that behalf or under any power statutory or otherwise, or in the performance of any covenant or of any obligation statutory or otherwise, or by a tenant for life impeachable for waste, be capital money for the purpose of the trust.
+(1) Money receivable by trustees or any beneficiary under a policy of insurance against the loss or damage of any property that is subject to a trust shall, where the policy has been kept up under any trust in that behalf or under any power statutory or otherwise, or in the performance of any covenant or of any obligation statutory or otherwise, or by a tenant for life impeachable for waste, be capital money for the purpose of the trust.
+
+[45/2004]
 
 (2) If any such money is receivable by any person, other than the trustees of the trust, that person shall use his best endeavours to recover and receive the money, and shall pay the net residue thereof after discharging any costs of recovering and receiving it, to the trustees of the trust, or, if there are no trustees capable of giving a discharge therefor, into court.
 
@@ -17,4 +19,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (6) This section shall apply to policies effected either before, on or after 1st September 1929, but only to money received on or after that date.
 
-[25
+[UK Trustee 1925, s. 20; Trustees Ordinance 1955 Ed., s. 22]

@@ -7,4 +7,4 @@ Where a judgment is given for the specific performance of a contract concerning 
 
 (b) that the interests of unborn persons who might claim under any party to the action, or under the will or voluntary settlement of any deceased person who was during his lifetime a party to the contract or transaction concerning which the judgment is given, are the interests of persons who, on coming into existence, would be trustees within the meaning of this Act, and thereupon the court may make a vesting order relating to the rights of those persons, born and unborn, as if they had been trustees.
 
-[52
+[UK Trustee 1925, s. 48; Trustees Ordinance 1955 Ed., s. 49]

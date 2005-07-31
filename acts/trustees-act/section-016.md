@@ -15,6 +15,8 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (f) compromise, compound, abandon, submit to arbitration or otherwise settle any debt, account, claim or thing whatever relating to the testator’s or intestate’s estate or to the trust.
 
-(2) For any of the purposes mentioned in subsection (1) (a) to (f), such person may enter into, give, execute and do such agreements, instruments of composition or arrangement, releases, and other things as to him or them seem expedient, without being responsible for any loss occasioned by any act or thing so done by him or them in good faith.
+(2) For any of the purposes mentioned in subsection (1) (a) to (f), such person may enter into, give, execute and do such agreements, instruments of composition or arrangement, releases, and other things as to him or them seem expedient, without being responsible for any loss occasioned by any act or thing so done by him or them if he has or they have discharged the statutory duty of care.
 
-[19
+[UK Trustee 1925, s. 15; Trustees Ordinance 1955 Ed., s. 16]
+
+[45/2004]

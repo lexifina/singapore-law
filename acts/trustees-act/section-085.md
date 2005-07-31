@@ -5,4 +5,6 @@ Part: PART VIII GENERAL PROVISIONS
 
 (2) It shall not be necessary for any person to inquire concerning the propriety of the order, or whether the court by which the order was made had jurisdiction to make it.
 
-[89
+[UK Trustee 1925, s. 66; Trustees Ordinance 1955 Ed., s. 64]
+
+*Part VII is repealed by Trustees (Amendment) Act 2004 (Act 45 of 2004) and any order made under that Part declaring any unit trust scheme to be an authorised unit trust scheme for the purposes thereof shall cease to have effect.

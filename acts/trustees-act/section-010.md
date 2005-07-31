@@ -7,4 +7,6 @@ Part: PART II INVESTMENTS
 
 (2) This section shall apply to investments made before, on or after 26th June 1992.
 
+[UK Trustee 1925, s. 9; Trustees Ordinance 1955 Ed., s. 10]
+
 [23/92]

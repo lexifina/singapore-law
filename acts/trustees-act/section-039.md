@@ -5,4 +5,4 @@ Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (2) In favour of such purchaser, any appointment of a new trustee depending on that statement and any vesting declaration, express or implied, consequent on the appointment, shall be valid.
 
-[42
+[UK Trustee 1925, s. 38; Trustees Ordinance 1955 Ed., s. 39]

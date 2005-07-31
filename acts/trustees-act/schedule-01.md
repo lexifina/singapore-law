@@ -1,101 +1,61 @@
 # FIRST SCHEDULE
 
-Sections 4, 5 and 6
+Sections 3A (1) and 41N
 
-MANNER OF INVESTMENT
+APPLICATION OF STATUTORY DUTY OF CARE UNDER PART IA
 
-PART I
+Investment 1. The duty of care under Part IA applies to a trustee —
 
-1. In any securities of the Government.
+(a) when exercising the general power of investment or any other power of investment, however conferred; or
 
-2. In any securities the repayment of the amount received and the interest on which is or shall be guaranteed by the Government.
+(b) when carrying out any duty imposed on him by this Act in relation to the investment of trust funds.
 
-3. In fixed income securities issued in Singapore by any public authority established under written law.
+Acquisition of land 2. The duty of care under Part IA applies to a trustee —
 
-4. In any interest bearing deposits held in Singapore currency in a bank or finance company in Singapore.
+(a) when exercising any power to acquire land, however conferred; or
 
-5. In negotiable certificates of deposits denominated in Singapore currency and issued by any bank in Singapore.
+(b) when exercising any power in relation to land acquired under a power mentioned in sub-paragraph (a).
 
-PART II
+Agents, nominees and custodians 3.—(1) The duty of care under Part IA applies to a trustee —
 
-1. In any units, or any shares of the investments subject to the trusts, of an authorised unit trust scheme.
+(a) when entering into arrangements under which a person is authorised under section 41B to exercise functions as an agent;
 
-2. In any securities issued by a company (whether incorporated in Singapore or elsewhere) —
+(b) when entering into arrangements under which a person is appointed under section 41G to act as a nominee;
 
-(a) which are listed on the Stock Exchange of Singapore; or
+(c) when entering into arrangements under which a person is appointed under section 41H or 41I to act as a custodian;
 
-(b) for which prices are quoted on the Central Limit Order Book (CLOB) International.
+(d) when entering into arrangements under which, under any other power, however conferred, a person is authorised to exercise functions as an agent or is appointed to act as a nominee or custodian; or
 
-FIRST SCHEDULE — continued
-
-3. In bank bills and trade bills denominated in Singapore currency which —
-
-(a) are endorsed by a bank in Singapore; and
-
-(b) will mature not later than 3 months after the date of the investment.
-
-4. In any land or building (not being a building under construction) in Singapore of the following tenure:
-
-(a) freehold, including a grant in perpetuity; or
-
-(b) leasehold (other than a mining lease) with an unexpired term of not less than 30 years at the time of such investment.
-
-PART III
-
-In any fixed income securities of —
-
-(a) a government outside Singapore; or
-
-(b) an entity owned or controlled by 2 or more governments (which may include the Government), irrespective of whether such ownership or control is shared with any other non-governmental entity, having a Triple A credit rating or equivalent given by one of the following credit rating agencies:
-
-(i) Moody’s Investors Service, Inc., USA;
-
-(ii) Standard and Poor’s Corporation, USA, and to hedge the foreign currency exposure from such investments back into Singapore currency.
-
-[S 322/99]
-
-PART IV
-
-1.—(1) Paragraph 2 of Part II shall not apply to securities of any company unless —
-
-(a) the total issued and paid-up share capital of the company, if incorporated in Singapore, is not less than $15 million and, if incorporated elsewhere, is not less than $30 million;
-
-(b) the company has, in each of the 3 financial years immediately preceding the financial year in which the investment is made, paid a dividend on all shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend for that financial year;
-
-(c) the shareholders equity of the company is not less than $30 million; and
-
-(d) the company has reported a profit (excluding any extraordinary item) in the profit and loss account in the annual accounts of the company in the financial year immediately preceding the financial year in which the investment is made.
+(e) when carrying out his duties under section 41M (Review of agents, nominees and custodians, etc.).
 
 FIRST SCHEDULE — continued
 
-(2) For the purposes of sub-paragraph (1) (a) and (c), the issued and paid-up share capital and the shareholders equity shall, if they are in a currency other than Singapore currency, be converted into Singapore currency at a rate of exchange certified by a bank licensed under the Banking Act (Cap. 19) to be appropriate on the day the trustee exercises his power to invest in such securities.
+(2) For the purposes of sub-paragraph (1), entering into arrangements under which a person is authorised to exercise functions as an agent or is appointed to act as a nominee or custodian includes, in particular —
 
-(3) The securities referred to in paragraph 2 of Part II do not include shares or debenture stock not fully paid-up, except shares or stock which by the terms of issue are required to be fully paid-up within 9 months of the date of issue.
+(a) selecting the person who is to act;
 
-(4) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the total issued and paid-up capital of that company, if incorporated in Singapore, was less than $15 million and, if incorporated elsewhere, was less than $30 million, sub-paragraph (1) (a) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+(b) determining any terms on which he is to act; and
 
-(5) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the shareholders equity of that company was less than $30 million, sub-paragraph
+(c) if the person is being authorised to exercise asset management functions, the preparation of a policy statement under section 41F.
 
-(1) (c) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+Compounding of liabilities 4. The duty of care under Part IA applies to a trustee —
 
-2. The land referred to in paragraph 4 of Part II shall not include land, the gross rental whereof is at the time of such investment less than 7% of the purchase price of such land, in the case of a purchase, or the value of such land ascertained in accordance with paragraph 2 of Part V, in the case of a mortgage.
+(a) when exercising the power under section 16 to do any of the things referred to in that section; or
 
-3. Not more than 30% of the funds belonging to the trust shall at any time be invested in the investments in Part III taken together.
+(b) when exercising any corresponding power, however conferred.
 
-PART V
+Insurance 5. The duty of care under Part IA applies to a trustee —
 
-1. In relation to the investments specified in paragraphs 1, 2 and 3 of Part II and in Part III, proper advice for the purposes of section 5 (2) means the advice of an investment adviser licensed under the Securities Industry Act (Cap. 289) or a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved under the Monetary Authority of Singapore Act (Cap. 186) as to the matters referred to in section 5 (1).
+(a) when exercising the power under section 21 to insure property; or
 
-2. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5 (2) means advice given by an appraiser who is —
+(b) when exercising any corresponding power, however conferred.
 
-(a) licensed under the Auctioneer Licences Act (Cap. 16) to value or appraise land; and
+Reversionary interests, valuations and audit 6. The duty of care under Part IA applies to a trustee —
 
-FIRST SCHEDULE — continued
+(a) when exercising the power under section 24 (1) or (4) to do any of the things referred to therein; or
 
-(b) instructed and employed independently of any owner of the land or building, on the following:
+(b) when exercising any corresponding power, however conferred.
 
-(i) the value of the land or building at the time of the investment; and
+[UK Trustee 2000, Sch. 1]
 
-(ii) the gross rental at which the land or building may reasonably be expected to be let from year to year.
-
-[S 322/99]
+[45/2004]

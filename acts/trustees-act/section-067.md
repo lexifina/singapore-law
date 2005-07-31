@@ -7,4 +7,4 @@ Part: PART VI CHARITABLE TRUSTS
 
 (2) The Minister may require a statutory declaration or other evidence in verification of the statements and particulars in the application, and such other particulars, information and evidence (if any) as he may think necessary or proper.
 
-[70
+[UK Charitable Trustees 1872, s. 3; Malaya Trustees (Incorporation) 1952, s. 4]

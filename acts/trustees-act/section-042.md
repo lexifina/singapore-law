@@ -17,4 +17,4 @@ Part: PART V POWERS OF COURT
 
 (4) Nothing in this section shall give power to appoint an executor or administrator.
 
-[45
+[UK Trustee 1925, s. 41; Trustees Ordinance 1955 Ed., s. 42]

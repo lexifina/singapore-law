@@ -5,4 +5,4 @@ Part: PART VI CHARITABLE TRUSTS
 
 (2) The date of incorporation mentioned in such certificate shall be deemed to be the date at which incorporation has taken place.
 
-[73
+[UK Charitable Trustees 1872, s. 6; Malaya Trustees (Incorporation) 1952, s. 7]

@@ -10,7 +10,7 @@ PARTICULARS TO BE INSERTED IN APPLICATION FOR INCORPORATION OF TRUSTEES
 
 3. The names, residences and descriptions of the trustees of such body or association of persons.
 
-4. The proposed title of the corporate body, of which title the words ‘‘trustees’’ and ‘‘registered’’ shall form part.
+4. The proposed title of the body corporate, of which title the words ‘‘trustees’’ and ‘‘registered’’ shall form part.
 
 5. The proposed device of the common seal.
 

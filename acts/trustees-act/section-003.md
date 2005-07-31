@@ -3,17 +3,7 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘approved company’’ means a company —
-
-(a) incorporated in Singapore and which has a place of business in Singapore; and
-
-(b) having as its sole or primary object the promotion of home ownership by advancing for the purchase of lands and buildings sums of money, repayable by instalments of principal and interest over a fixed period of years, not exceeding at any time the valuation of such lands and buildings made by an approved valuer;
-
-‘‘approved valuer’’ means an appraiser or a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act, and includes any other person approved by the Minister;
-
 ‘‘authorised investments’’ means investments authorised by the instrument, if any, creating the trust for the investment of money subject to the trust, or by law;
-
-‘‘authorised unit trust scheme’’ means any unit trust scheme which has fulfilled to the satisfaction of the Minister the conditions contained in section 83 and which has been declared by an order of the Minister for the time being in force to be an authorised unit trust scheme for the purposes of this Act;
 
 ‘‘contingent right’’, as applied to land, includes a contingent or executory interest, a possibility coupled with an interest, whether the object of the gift or limitation of the interest or possibility is or is not ascertained, also a right of entry, whether immediate or future, and whether vested or contingent;
 
@@ -23,15 +13,13 @@ In this Act, unless the context otherwise requires —
 
 ‘‘debentures’’ includes debenture stock, loan stock, bonds, notes and any other document which creates or acknowledges a debt, whether constituting a charge on assets or not;
 
+‘‘general power of investment’’, in relation to a trustee, means the general power of investment conferred on him by section 4;
+
 ‘‘income’’ includes rents and profits;
 
 ‘‘instrument’’ includes a written law;
 
-‘‘land’’ means —
-
-(a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
-
-(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed in the Survey Department, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto;
+‘‘land’’ has the same meaning as in section 4 of the Land Titles Act (Cap. 157);
 
 ‘‘mentally disordered person’’ means any person found by due course of law to be of unsound mind and incapable of managing himself or his affairs;
 
@@ -61,20 +49,26 @@ In this Act, unless the context otherwise requires —
 
 ‘‘solicitor’’ means an advocate and solicitor of the Supreme Court;
 
+‘‘standard investment criteria’’, in relation to a trust, means the standard investment criteria set out in section 5 (3);
+
+‘‘statutory duty of care’’, in relation to a trustee, means the duty of care required to be exercised by him under Part IA;
+
 ‘‘stock’’ includes fully paid-up shares, and, so far as relates to vesting orders made by the court under this Act, includes any fund, annuity or security transferable in books kept by any corporation, company or society, or by instrument of transfer either alone or accompanied by other formalities or otherwise, and any share or interest therein;
 
 ‘‘transfer’’, in relation to stock or securities, includes the performance and execution of every deed, power of attorney, act, and thing on the part of the transferor to effect and complete the title in the transferee;
 
 ‘‘trust’’ does not include the duties incident to an estate conveyed by way of mortgage, but with this exception ‘‘trust’’ and ‘‘trustee’’ extend to implied and constructive trusts, and to cases where the trustee has a beneficial interest in the trust property, and to the duties incident to the office of a personal representative, and ‘‘trustee’’ where the context admits includes a personal representative, and ‘‘new trustee’’ includes an additional trustee;
 
-‘‘trust corporation’’ means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or registered as a trust company under the Trust Companies Act (Cap. 336);
+*‘‘trust corporation’’ means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or registered as a trust company under the Trust Companies Act (Cap. 336);
+
+*Definition of ‘‘trust corporation’’ will be amended as follows when item 8 of the Fifth Schedule of Trust Companies Act 2005 is brought into operation:
+
+‘‘trust corporation’’ means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;.
 
 ‘‘trust for sale’’, in relation to land, means an immediate binding trust for sale, whether or not exercisable at the request or with the consent of any person, and with or without power at discretion to postpone the sale;
 
-‘‘trustees for sale’’ means the persons (including a personal representative) holding land on trust for sale;
+‘‘trustees for sale’’ means the persons (including a personal representative) holding land on trust for sale.
 
-‘‘unit’’, in relation to a unit trust scheme, means a right or interest (whether described as a unit, sub-unit or otherwise) which may be acquired under the scheme;
+[Trustees Ordinance 1955 Ed., s. 3]
 
-‘‘unit trust scheme’’ means any arrangement made for the purpose, or having the effect, of providing for persons having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of any property.
-
-[8/78; 24/91; 23/92]
+[8/78; 24/91; 23/92; 45/2004]

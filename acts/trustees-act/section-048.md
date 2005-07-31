@@ -5,4 +5,4 @@ Part: PART V POWERS OF COURT
 
 (2) The court may, if it thinks expedient, make an order vesting the land or any part thereof, for such estate or interest as the court thinks fit in the purchaser or mortgagee or in any other person.
 
-[51
+[UK Trustee 1925, s. 47; Trustees Ordinance 1955 Ed., s. 48]

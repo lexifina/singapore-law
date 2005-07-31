@@ -1,11 +1,13 @@
 # 15. Power of trustees to give receipts
 Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General Powers
 
-(1) The receipt in writing of a trustee for any money, securities, or other personal property or effects payable, transferable or deliverable to him under any trust or power shall —
+(1) The receipt in writing of a trustee for any money, securities, investments or other personal property or effects payable, transferable or deliverable to him under any trust or power shall —
 
 (a) be a sufficient discharge to the person paying, transferring or delivering the same; and
 
 (b) effectually exonerate him from seeing to the application or being answerable for any loss or misapplication thereof.
+
+[45/2004]
 
 (2) This section does not, except where the trustee is a trust corporation, enable a sole trustee to give a valid receipt for the proceeds of sale or other capital money arising under a trust for sale of land.
 
@@ -15,4 +17,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (5) This section shall apply notwithstanding anything to the contrary in the instrument, if any, creating the trust.
 
-[18
+[UK Trustee 1925, s. 14; Trustees Ordinance 1955 Ed., s. 15]

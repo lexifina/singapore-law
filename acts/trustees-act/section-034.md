@@ -11,4 +11,4 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (5) This section shall not apply to trusts constituted or created before 1st September 1929.
 
-[37
+[UK Trustee 1925, s. 32; Trustees Ordinance 1955 Ed., s. 34]

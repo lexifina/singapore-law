@@ -3,10 +3,40 @@ Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General P
 
 (1) A trustee may —
 
-(a) insure against loss or damage by fire any building or other insurable property to any amount, including the amount of any insurance already on foot, up to the full value of the building or property; and
+(a) insure any property which is subject to the trust against risks of loss or damage due to any event; and
 
-(b) pay the premiums for the insurance out of the income thereof or out of the income of any other property subject to the same trusts without obtaining the consent of any person who may be entitled wholly or partly to such income.
+(b) pay the premiums out of the trust funds.
 
-(2) This section shall not apply to any building or property which a trustee is bound forthwith to convey absolutely to any beneficiary upon being requested to do so.
+[45/2004]
 
-[24
+(2) In the case of property held on a bare trust, the power to insure is subject to any direction given by the beneficiary or each of the beneficiaries —
+
+(a) that any property specified in the direction is not to be insured; or
+
+(b) that any property specified in the direction is not to be insured except on such conditions as may be so specified.
+
+[45/2004]
+
+(3) If a direction under subsection (2) is given, the power to insure, so far as it is subject to the direction, ceases to be a delegable function for the purposes of section 41B.
+
+[45/2004]
+
+(4) For the purposes of this section —
+
+(a) property is held on a bare trust if it is held on trust for —
+
+(i) a beneficiary who is of full age and capacity and absolutely entitled to the property subject to the trust;
+
+or
+
+(ii) beneficiaries each of whom is of full age and capacity and who (taken together) are absolutely entitled to the property subject to the trust; and
+
+(b) ‘‘trust funds’’ means any income or capital funds of the trust.
+
+[45/2004]
+
+(5) This section shall apply in relation to trusts whether created before, on or after 15th December 2004.
+
+[UK Trustee 2000, s. 34]
+
+[45/2004]

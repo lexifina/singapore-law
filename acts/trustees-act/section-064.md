@@ -7,6 +7,6 @@ Part: PART VI CHARITABLE TRUSTS
 
 (3) This section shall not apply to any trust declared before or to the will of any testator dying before 14th July 1967.
 
-[67
+[UK Charitable Trusts 1954, s. 1]
 
 Incorporation of Trustees

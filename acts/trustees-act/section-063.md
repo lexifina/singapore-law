@@ -14,5 +14,3 @@ Part: PART VI CHARITABLE TRUSTS
 (4) The Public Trustee as such provisional trustee may apply to the court by motion for the appointment of new trustees to administer such trust and on the appointment of the new trustees all such property shall vest in them.
 
 (5) All costs and expenses incurred by the Public Trustee in exercising the powers conferred by this section shall be paid out of the assets of the trusts concerned.
-
-[66

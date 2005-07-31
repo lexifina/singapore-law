@@ -7,4 +7,4 @@ Where any interest in land is subject to a contingent right in an unborn person 
 
 (b) vesting in any person the estate or interest to or of which the unborn person or class of unborn persons would, on coming into existence, be entitled or possessed in the land.
 
-[49
+[UK Trustee 1925, s. 45; Trustees Ordinance 1955 Ed., s. 46]

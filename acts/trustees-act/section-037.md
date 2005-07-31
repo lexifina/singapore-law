@@ -1,11 +1,23 @@
 # 37. Power of appointing new or additional trustees
 Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
 
-(1) Where a trustee, either original or substituted, and whether appointed by a court or otherwise, is dead, or remains out of Singapore for more than 12 months, or desires to be discharged from all or any of the trusts or powers reposed in or conferred on him, or refuses or is unfit to act therein, or is incapable of acting therein, or is an infant, then, subject to the restrictions imposed by this Act on the number of trustees —
+(1) Where a trustee, either original or substituted, and whether appointed by a court or otherwise —
 
-(a) the person or persons nominated for the purpose of appointing new trustees by the instrument, if any, creating the trust; or
+(a) is dead;
 
-(b) if there is no such person, or no such person able and willing to act, then the surviving or continuing trustees or trustee for the time being, or the personal representatives of the last surviving or continuing trustee, may, by writing, appoint one or more other persons (whether or not being the persons exercising the power) to be a trustee or trustees in the place of the trustee so deceased, remaining out of Singapore, desiring to be discharged, refusing, or being unfit or being incapable, or being an infant, as aforesaid.
+(b) remains out of Singapore for more than 12 months;
+
+(c) desires to be discharged from all or any of the trusts or powers reposed in or conferred on him;
+
+(d) refuses or is unfit to act therein;
+
+(e) is incapable of acting therein; or
+
+(f) is an infant, then, subject to the restrictions imposed by this Act on the number of trustees —
+
+(i) the person or persons nominated for the purpose of appointing new trustees by the instrument, if any, creating the trust; or
+
+(ii) if there is no such person, or no such person able and willing to act, then the surviving or continuing trustees or trustee for the time being, or the personal representatives of the last surviving or continuing trustee, may, by writing, appoint one or more other persons (whether or not being the persons exercising the power) to be a trustee or trustees in the place of the trustee so deceased, remaining out of Singapore, desiring to be discharged, refusing, or being unfit or being incapable, or being an infant.
 
 (2) Where a trustee has been removed under a power contained in the instrument creating the trust, a new trustee or new trustees may be appointed in the place of the trustee who is removed, as if he were dead, or, in the case of a corporation, as if the corporation desired to be discharged from the trust, and this section shall apply accordingly, but subject to the restrictions imposed by this Act on the number of trustees.
 
@@ -29,4 +41,4 @@ Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (10) Where a mentally disordered person or a person of unsound mind, being a trustee, is also entitled in possession to some beneficial interest in the trust property, no appointment of a new trustee in his place shall be made by the continuing trustees or trustee, under this section, unless leave has been given by the court to make the appointment.
 
-[40
+[UK Trustee 1925, s. 36; Trustees Ordinance 1955 Ed., s. 37]

@@ -5,6 +5,6 @@ Part: PART V POWERS OF COURT
 
 (2) This section shall apply to breaches of trust committed as well before as on or after 1st September 1929.
 
-[64
+[UK Trustee 1925, s. 62; Trustees Ordinance 1955 Ed., s. 61]
 
 Payment into Court

@@ -5,4 +5,4 @@ Part: PART VI CHARITABLE TRUSTS
 
 (2) Any person may obtain a copy or extract of any such document certified by the Public Trustee on payment of the prescribed fee.
 
-[74
+[UK Charitable Trustees 1872, s. 7; Malaya Trustees (Incorporation) 1952, s. 8]

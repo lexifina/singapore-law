@@ -15,15 +15,7 @@ and
 
 [23/92]
 
-(3) The trustees shall not —
-
-(a) be bound to obtain any report as to the value of the land or other property to be comprised in such mortgage, or any advice as to the making of the loan; and
-
-(b) be liable for any loss which may be incurred by reason only of the security being insufficient at the date of the mortgage.
-
-[23/92]
-
-(4) Where any securities of a company are subject to a trust, the trustees may concur in any scheme or arrangement —
+(3) Where any securities of a company are subject to a trust, the trustees may concur in any scheme or arrangement —
 
 (a) for the reconstruction of the company;
 
@@ -33,19 +25,17 @@ and
 
 (d) for the amalgamation of the company with another company;
 
-(e) for the release, modification, or variation of any rights, privileges or liabilities attached to the securities or any of them, in the like manner as if they were entitled to such securities benefi- cially, with power to accept any securities of any denomination or description of the reconstructed or purchasing or new company in lieu of or in exchange for all or any of the first-mentioned securities.
+(e) for the release, modification, or variation of any rights, privileges or liabilities attached to the securities or any of them, in the like manner as if they were entitled to such securities beneficially, with power to accept any securities of any denomination or description of the reconstructed or purchasing or new company in lieu of or in exchange for all or any of the first-mentioned securities.
 
-(4A) The trustees shall not be responsible for any loss occasioned by any act or thing so done in good faith, and may retain any securities so accepted as specified in subsection (4) for any period for which they could have properly retained the original securities.
+(4) The trustees shall not be responsible for any loss occasioned by any act or thing so done if they have discharged the statutory duty of care, and may retain any securities so accepted as specified in subsection (3) for any period for which they could have properly retained the original securities.
 
-[23/92]
+[23/92; 45/2004]
 
-(5) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in the company, they may, as to all or any of the securities, either exercise such right and apply capital money subject to the trust in payment of the consideration, or renounce such right, or assign for the best consideration that can be reasonably obtained the benefit of such right or the title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them in good faith.
+(5) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in the company, they may, as to all or any of the securities, either exercise such right and apply capital money subject to the trust in payment of the consideration, or renounce such right, or assign for the best consideration that can be reasonably obtained the benefit of such right or the title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them if they have discharged the statutory duty of care.
 
-[23/92]
+[23/92; 45/2004]
 
-(6) The consideration for any assignment referred to in subsection
-
-(5) shall be held as capital money of the trust.
+(6) The consideration for any assignment referred to in subsection (5) shall be held as capital money of the trust.
 
 [23/92]
 
@@ -54,5 +44,7 @@ and
 [23/92]
 
 (8) Where the loan referred to in subsection (1), or the sale referred to in subsection (2), is made under the order of the court, the powers conferred by those subsections, respectively, shall apply only if and as far as the court may by order direct.
+
+[UK Trustee 1925, s. 10; Trustees Ordinance 1955 Ed., s. 11]
 
 [23/92]

@@ -11,4 +11,4 @@ and
 
 (2) Nothing in this section shall diminish or impair any control or authority exercisable by the Attorney-General or other public officer under any written law for the time being in force over the trustees who shall be so incorporated but they shall remain subject jointly and separately to such control and authority as if they were not incorporated.
 
-[72
+[UK Charitable Trustees 1872, s. 5; Malaya Trustees (Incorporation) 1952, s. 6]
