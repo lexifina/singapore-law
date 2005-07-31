@@ -1,12 +1,22 @@
-# 57. General meetings of Institute
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 57. Remuneration for services rendered
+Part: PART VII MISCELLANEOUS
 
-(1) A general meeting, other than the annual general meeting, shall be known as an extraordinary general meeting.
+(1) Subject to this Act, no person shall be entitled to recover any expenses or remuneration for or in respect of any public accountancy services rendered or provided unless the person rendering or providing such services is —
 
-(2) The Council —
+(a) a public accountant;
 
-(a) shall convene an extraordinary general meeting upon a requisition in writing made by not less than 50 members of the Institute entitled to vote within 3 months from the date of such requisition; and
+(b) an accounting corporation; or
 
-(b) may convene an extraordinary general meeting on such other occasions as it thinks fit.
+(c) an accounting firm.
 
-[42
+(2) Subsection (1) shall not apply to —
+
+(a) the Auditor-General or any public officer authorised by him;
+
+or
+
+(b) any public officer or any officer of any statutory authority authorised by the Minister in the exercise of their powers or in the performance of their official duties.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Accountants 2001 Ed., s. 64]

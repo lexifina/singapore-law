@@ -1,18 +1,10 @@
-# 43. General powers of Institute
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 43. Conviction final and conclusive
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-For the purposes of carrying out of its functions under this Act, the Institute may —
+In any proceedings instituted under this Part against a public accountant, an accounting corporation or an accounting firm arising from his or its conviction of a criminal offence, the Registrar, the Oversight Committee, a Complaints Committee, a Disciplinary Committee and the High Court on appeal from any order of the Oversight Committee, shall accept the conviction as final and conclusive unless —
 
-(a) take up and subscribe for or otherwise acquire shares in any company, if membership of the company is essential or advantageous to the Institute in connection with the acquiring and holding of any lease or tenancy from the company of land required for any of its purposes;
+(a) it is subject to review or appeal that has not yet been determined;
 
-(b) borrow money whether by way of bank overdraft or otherwise for any of its purposes;
+(b) it has been quashed or set aside; or
 
-(c) guarantee any contract of any company from which the Institute holds or intends to hold any lease or tenancy in accordance with paragraph (a) and any other contract in which the Institute may have a financial interest and to which it may lawfully be a party in accordance with this section;
-
-(d) issue diplomas or certificates to members of the Institute;
-
-and
-
-(e) generally do all things which are necessary for carrying out the functions of the Institute.
-
-[28
+(c) a pardon has been given in respect of it.

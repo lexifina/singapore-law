@@ -1,38 +1,26 @@
-# 70. Restrictions on employing disqualified persons
-Part: PART VII GENERAL
+# 70. Transitional provisions relating to Institute of Certified Public Accountants of Singapore
+Part: PART VIII SAVINGS AND TRANSITIONAL PROVISIONS
 
-(1) No public accountant shall in connection with his practice as such, and no accounting corporation shall in connection with its business of providing public accountancy services, without the consent of the Board, employ or remunerate any person who to his knowledge —
+(1) As from 1st April 2004 —
 
-(a) is an undischarged bankrupt;
+(a) all movable and immovable property vested in the Institute of Certified Public Accountants of Singapore (hereafter referred to as the Institute) immediately before that date and all assets, interests, rights, privileges, liabilities and obligations of the Institute shall be transferred to and shall vest in its successor company without any further assurance, act or deed;
 
-(b) has had his name removed from the Register of Public Accountants under section 37 (1) (c);
+(b) all persons employed immediately before that date by the Institute shall be transferred to the service of its successor company on terms no less favourable than those enjoyed by them immediately prior to their transfer;
 
-(c) has been suspended from practising as a public accountant under section 34 (1) (a);
+(c) all deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before that date to which the Institute is a party shall continue in force and shall be enforceable by or against its successor company as if the successor company had been named therein or had been a party thereto instead of the Institute;
 
-(d) has had his name removed from the register maintained by the Institute otherwise than at his own request or under section 55 (3); or
+(d) every person who, immediately before that date, was the President, the Vice-President, the Treasurer or a member of the Council of the Institute shall hold office for a period of not more than 6 months therefrom in such capacity in the interim governing committee (by whatever name called) of the Institute’s successor society, until such time as elections are held in accordance with the rules of the successor society to elect a governing committee for the successor society; and
 
-(e) has been convicted of an offence by a court of law and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $5,000.
+(e) all persons who, immediately before that date, were members of the Institute shall become professional members of its successor society, in accordance with such classes of professional membership as may be determined by the successor society.
 
-[37/2000]
+(2) Where, on 1st April 2004, any disciplinary proceedings were pending against any member of the Institute who had become a member of its successor society by virtue of subsection (1) (e), the proceedings may be carried on and completed by the successor society; but where on that date any matter was in the course of being heard or investigated or had been heard and investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made or given under the authority vested in it before that date.
 
-(2) On application made by any person, the Board may make an order directing that, as from the date to be specified in the order, no public accountant shall in connection with his practice as such, or no accounting corporation shall in connection with its provision of public accountancy services, as the case may be, employ or remunerate any person, the subject of the application, who —
+(3) For the purpose of subsection (2), any ruling, order or direction made or given by a committee under that subsection shall be treated as an order, a ruling or a direction of the successor society and have the same force and effect as if it had been made by the successor society.
 
-(a) has been a party to any act or default of a public accountant in respect of which a complaint has been or might properly have been made against that public accountant under the provisions of this Act; or
+(4) In this section —
 
-(b) has so conducted himself while employed by a public accountant that, had he himself been a public accountant, his conduct might have formed the subject of a complaint under the provisions of this Act against him.
+‘‘Institute of Certified Public Accountants of Singapore’’ means the former Institute of Certified Public Accountants of Singapore established under Part VI of the repealed Accountants Act;
 
-[37/2000]
+‘‘successor company’’, in relation to the Institute of Certified Public Accountants of Singapore, means the company incorporated by the successor society of the Institute under the Companies Act (Cap. 50) and designated by the Minister, by notification in the Gazette, to be the successor company of the Institute for the purposes of subsection (1) (a), (b) and (c);
 
-(3) Every application under subsection (2) shall be served upon the person in respect of whom it is made and upon his employer or previous employer if his employer or previous employer is a public accountant or an accounting corporation, not less than 10 days before the application is to be heard.
-
-[37/2000]
-
-(4) Every order made under subsection (2) shall be filed in a file kept for this purpose by the Registrar and such file may be inspected by any public accountant or accounting corporation without fee.
-
-[37/2000]
-
-(5) Disciplinary proceedings may be taken against any public accountant or accounting corporation who contravenes subsection (1) or fails to comply with an order made under subsection (2).
-
-[55
-
-[37/2000]
+‘‘successor society’’, in relation to the Institute of Certified Public Accountants of Singapore, means the society registered under the Societies Act (Cap. 311) that is designated by the Minister, by notification in the Gazette, to be the society succeeding to the functions of the Institute as a professional accountancy body.

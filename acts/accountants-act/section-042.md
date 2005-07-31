@@ -1,16 +1,6 @@
-# 42. Functions of Institute
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 42. Power to proceed with complaint notwithstanding complainant’s withdrawal
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-The functions of the Institute shall be —
+(1) The Oversight Committee may, if it thinks fit, direct that a complaint against a public accountant, an accounting corporation or an accounting firm be proceeded with at an inquiry of a Complaints Committee or a formal inquiry of a Disciplinary Committee notwith- standing that the complainant may have withdrawn the complaint at any time before or after the appointment of the Complaints Committee or Disciplinary Committee.
 
-(a) to establish and administer or to participate in the establishment and administration of any organisation, whether incorporated or not and whether subsidiary to the Institute or not, having as its principal object or one of its principal objects the advancement of the science of accountancy or any part thereof where in the opinion of the Council the interests of the accountancy profession may be most advantageously served through the medium of such an organisation;
-
-(b) to determine the qualifications of persons for admission to membership of the Institute;
-
-(c) to grant prizes and scholarships, to hold exhibitions and to establish and subsidise lectureships in universities and other educational institutions in subjects relating to accountancy;
-
-(d) to grant pecuniary or other assistance to any member of the Institute or any association, institute, society or other body established in Singapore in the interests of the profession of accountancy or of accountancy students; and
-
-(e) to promote, in any manner which the Institute thinks fit, the interests of the profession of accountancy in Singapore.
-
-[27
+(2) Where the Oversight Committee has made a direction under subsection (1), the complaint shall be proceeded with as if it had originated as information which the Oversight Committee had, on its own motion, referred to the Registrar for review under section 41 (2).

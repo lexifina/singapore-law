@@ -1,10 +1,8 @@
-# 50. General powers of Council
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 50. Notice of formal inquiry
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-(1) The management and control of the affairs of the Institute and of its funds shall be vested in the Council.
+(1) Before a Disciplinary Committee commences a formal inquiry into any complaint or information referred to it, the Registrar shall serve on the public accountant, accounting corporation or accounting firm concerned a written notice of the formal inquiry.
 
-(2) All such powers, acts or things as may be exercised or done by the Institute which are not by this Act expressly directed or required to be exercised or done by the Institute in general meeting may, subject to the provisions of this Act and any resolutions passed from time to time by the Institute in general meeting, be exercised or done by the Council.
+(2) A formal inquiry shall not be fixed on a date earlier than 14 days after the date of the notice of formal inquiry except with the agreement of the public accountant, accounting corporation or accounting firm concerned.
 
-(3) Notwithstanding subsection (2), no resolution of the Institute shall invalidate the exercise of any power or the doing of any act or thing by the Council previously which would have been valid if the resolution had not been passed.
-
-[35
+(3) On application to the Disciplinary Committee, the public accountant, accounting corporation or accounting firm concerned may request postponement of the formal inquiry, and the Disciplinary Committee may, in its discretion, grant the application and postpone the formal inquiry to such date as it may determine, or refuse the application.

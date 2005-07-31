@@ -1,10 +1,8 @@
-# 54. Expenses of members of Council
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 54. Appeal against disciplinary orders of Oversight Committee
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-(1) No fee shall be paid to any member of the Council in the performance of his duties as such a member.
+(1) Any public accountant, accounting corporation or accounting firm who or which is aggrieved with any decision made by the Oversight Committee under section 52 or 53 may appeal to the High Court within a period of 30 days (or such further period as the Oversight Committee may allow on application in any particular case) after the service of the decision of the Oversight Committee on the public accountant, accounting corporation or accounting firm, as the case may be.
 
-[37/2000]
+(2) The decision of the High Court on an appeal under subsection (1) shall be final.
 
-(2) A member may be reimbursed from the funds of the Institute for out-of-pocket and travelling expenses incurred by him in relation to the affairs of the Institute.
-
-[39
+[Accountants 2001 Ed., s. 36]

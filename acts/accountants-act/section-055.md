@@ -1,16 +1,12 @@
-# 55. Fees payable by members of Institute
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 55. Reinstatement to Register
+Part: PART VII MISCELLANEOUS
 
-(1) Every member shall pay to the Institute, on admission and thereafter, annually or at such other intervals as the Council may decide, such fees as may be prescribed by the Council, from time to time.
+(1) Where —
 
-(2) The Council may prescribe different fees payable by different classes of members.
+(a) the registration of a public accountant has been cancelled under Part V or VI and his name and particulars removed from the Register of Public Accountants; or
 
-(3) The Council may remove from the appropriate register the name of any member who is in arrears for 6 months or more in the payment of any prescribed fees.
+(b) the approval granted to an accounting corporation or accounting firm under Part IV is revoked under Part VI and its name and particulars removed from the Register of Public Accounting Corporations or the Register of Public Accounting Firms, the public accountant, accounting corporation or accounting firm concerned shall, if his or its appeal to the High Court is allowed, be immediately reinstated to the Register of Public Accountants, the Register of Public Accounting Corporations or the Register of Public Accounting Firms, as the case may be, without payment of any fee.
 
-(4) On notice of such removal under the hand of the Secretary of the Institute being delivered to the member referred to in subsection (3) or posted to his registered postal address, he shall cease to be a member of the Institute.
+(2) The Oversight Committee may, in its discretion, after the expiration of not less than 2 years from the cancellation of the registration of any public accountant or the revocation of the approval granted under Part IV to an accounting corporation or accounting firm, consider any fresh application for registration or approval by such public accountant, accounting corporation or accounting firm.
 
-(5) Any member whose name is so removed from the register may, at any time within 12 months from the date of the notice of the removal referred to in subsection (4), pay to the Council all fees which are in arrears or which would have been in arrears if he had continued to be a member of the Institute together with such penalty as may be prescribed from time to time by the Council and shall thereupon be entitled to have his name restored to the register.
-
-(6) On restoration to the register, the member shall be deemed to be re-admitted as a member of the Institute.
-
-[40
+[Accountants 2001 Ed., s. 39]

@@ -1,14 +1,24 @@
-# 59. Quorum at general meetings of Institute
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 59. Restrictions on employing disqualified persons
+Part: PART VII MISCELLANEOUS
 
-(1) The quorum at any general meeting of the Institute shall be 100 members of the Institute entitled to vote.
+(1) No public accountant shall in connection with his practice as such, and no accounting corporation or accounting firm shall in connection with its business of providing public accountancy services, without the consent of the Oversight Committee, employ or remunerate any person who to his or its knowledge —
 
-(2) If within half an hour after the time appointed for a general meeting a quorum is not present, the meeting shall —
+(a) is an undischarged bankrupt;
 
-(a) if convened by the Council on the requisition of members of the Institute under section 57 (2) (a), be dissolved; or
+(b) has had his registration as a public accountant suspended or cancelled under Part V or VI; or
 
-(b) if convened by the Council other than on the requisition of members of the Institute under section 57 (2) (a), stand adjourned to the same day, 14 days thereafter at such place and time as the Council may determine.
+(c) has been convicted of an offence by a court of law and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $5,000.
 
-(3) If at the adjourned meeting referred to in subsection (2) (b) a quorum is not present within half an hour after the time appointed for the meeting, those members of the Institute who are present shall constitute a quorum.
+(2) On application made by any person, the Oversight Committee may make an order directing that, as from the date to be specified in the order, no public accountant shall in connection with his practice as such, or no accounting corporation or accounting firm shall in connection with its provision of public accountancy services, as the case may be, employ or remunerate any person, the subject of the application, who —
 
-[44
+(a) has been a party to any act or default of a public accountant in respect of which a complaint has been or might properly have been made against that public accountant under the provisions of this Act; or
+
+(b) has so conducted himself while employed by a public accountant that, had he himself been a public accountant, his conduct might have formed the subject of a complaint under the provisions of this Act against him.
+
+(3) Every application under subsection (2) shall be served upon the person in respect of whom it is made and upon his employer or previous employer if his employer or previous employer is a public accountant, an accounting corporation or accounting firm, not less than 10 days before the application is to be heard.
+
+(4) Every order made under subsection (2) shall be filed in a file kept for this purpose by the Registrar and such file may be inspected by any public accountant, accounting corporation or accounting firm without fee.
+
+(5) Disciplinary proceedings may be taken against any public accountant, accounting corporation or accounting firm who or which contravenes subsection (1) or fails to comply with an order made under subsection (2).
+
+[Accountants 2001 Ed., s. 70]

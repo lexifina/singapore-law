@@ -1,18 +1,12 @@
-# 67. Offences by bodies corporate, etc.
-Part: PART VII GENERAL
+# 67. Pending disciplinary proceedings
+Part: PART VIII SAVINGS AND TRANSITIONAL PROVISIONS
 
-(1) Where any offence under this Act is committed by a body corporate, a partnership or an unincorporated association of persons, any person, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer or was purporting to act in any such capacity, he shall be guilty of the same offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+(1) This Act shall not apply to any inquiry, investigation or other proceedings of a disciplinary nature commenced under the repealed Accountants Act before 1st April 2004, and the provisions of the repealed Accountants Act shall, subject to subsection (2) (b), continue to apply to such inquiry, investigation or proceedings as if this Act had not been enacted.
 
-(a) the offence was committed without his consent or connivance;
+(2) For the purposes of subsection (1) —
 
-and
+(a) any Inquiry Committee appointed under the repealed Accountants Act shall continue to exist to complete the inquiry, investigation or proceedings, and may take such action or make such order or decision as it could have taken or made under the relevant provisions of the repealed Accountants Act; and
 
-(b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+(b) any action, order or decision that could have been taken or made by the Public Accountants Board under the relevant provisions of the repealed Accountants Act in connection with such inquiry, investigation or proceedings shall be taken or made in like manner by the Oversight Committee, as if a reference to the Public Accountants Board in those relevant provisions of the repealed Accountants Act were a reference to the Oversight Committee.
 
-[37/2000]
-
-(2) In relation to a body corporate whose affairs are managed by its members, ‘‘director’’ means a member of the body corporate.
-
-[52
-
-[37/2000]
+(3) Nothing in this section shall be taken as prejudicing section 16 (effect of repeal) of the Interpretation Act (Cap. 1).

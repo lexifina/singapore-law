@@ -1,36 +1,40 @@
-# 31. Appointment of Inquiry Committee
-Part: PART V DISCIPLINARY PROCEEDINGS
+# 31. Removal from Register of Public Accounting Corporations or Register of Public Accounting Firms
+Part: PART IV ACCOUNTING CORPORATIONS AND ACCOUNTING FIRMS
 
-(1) The Board may from time to time appoint one or more committees comprising —
+(1) The Registrar shall remove from the Register of Public Accounting Corporations the name and relevant particulars of any accounting corporation if —
 
-(a) 4 certified public accountants; and
+(a) the accounting corporation has been wound up;
 
-(b) a lay person, to be known for the purposes of this Act as Inquiry Committees for any of the purposes specified in subsection (2).
+(b) the approval of the accounting corporation under this Part has been revoked under Part VI; or
 
-[48/98; 37/2000]
+(c) the accounting corporation has applied for its approval under this Part to be revoked.
 
-(2) An Inquiry Committee may be appointed by the Board to inquire into —
+(2) The Registrar shall remove from the Register of Public Accounting Firms the name and relevant particulars of any accounting firm if —
 
-(a) any complaint made to or information received by the Board touching on the conduct of any public accountant;
+(a) the accounting firm has been dissolved;
 
-(b) any complaint made to or information received by the Board touching on the conduct of business by any accounting corporation; or
+(b) the approval of the accounting firm under this Part has been revoked under Part VI; or
 
-(c) any application to the Board that a public accountant or an accounting corporation be dealt with under this Part, other than an application, a complaint or information touching on any matter set out in section 37 or 38.
+(c) the accounting firm has applied for its approval under this Part to be revoked.
 
-[37/2000]
+(3) The Oversight Committee shall not grant an application by an accounting corporation or an accounting firm for the revocation of its approval under subsection (1) (c) or (2) (c), as the case may be, if —
 
-(3) An Inquiry Committee shall be appointed in connection with one or more matters or for a fixed period of time as the Board may think fit.
+(a) it has received any complaint or information under Part VI against the accounting corporation or accounting firm or any public accountant practising therein;
 
-(4) The Board may at any time revoke the appointment of any Inquiry Committee or may remove any member of an Inquiry Committee or fill any vacancy in an Inquiry Committee.
+(b) disciplinary proceedings under Part VI are pending against the accounting corporation or accounting firm or any public accountant practising therein; or
 
-(5) Three members of an Inquiry Committee of whom one shall be a lay person shall constitute a quorum.
+(c) the conduct of business of the accounting corporation or accounting firm is the subject of an inquiry or investigation by a Complaints Committee or a Disciplinary Committee under Part VI.
 
-(6) An Inquiry Committee may act notwithstanding any vacancy in its membership provided that there is a quorum.
+(4) The Oversight Committee may also revoke its approval of an accounting corporation or an accounting firm and order the removal of its name and relevant particulars from the appropriate Register if it is satisfied that —
 
-(7) No act done by or under the authority of the Inquiry Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
+(a) the approval of the accounting corporation or accounting firm under this Part has been obtained by fraud or misrepresentation;
 
-(8) The Board shall appoint a member of the Inquiry Committee to be the Chairman.
+(b) the accounting corporation, or the sole proprietor or any partner of the accounting firm, as the case may be, has made an arrangement with its or his creditors;
 
-(9) The Inquiry Committee shall meet from time to time for the despatch of business and, subject to the provisions of this Act, may regulate its own procedure and the mode of deciding questions before the Committee.
+(c) the accounting corporation or accounting firm has ceased to provide public accountancy services in Singapore; or
 
-[19
+(d) the accounting corporation or accounting firm is no longer in a position to provide public accountancy services effectively.
+
+(5) The Oversight Committee shall, before exercising its powers under subsection (4), notify the accounting corporation or accounting firm concerned of its intention to take such action and shall give the accounting corporation or accounting firm an opportunity to submit reasons, within such period as the Oversight Committee may determine, as to why its approval under this Part should not be revoked.
+
+(6) Any person who is aggrieved by an order under subsection (4) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.

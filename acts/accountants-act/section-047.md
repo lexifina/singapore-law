@@ -1,36 +1,16 @@
-# 47. Vacation of office of member
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 47. Findings of Complaints Committee
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-If a member of the Council —
+Upon due inquiry into the complaint or information referred to it under this Part, a Complaints Committee shall —
 
-(a) dies;
+(a) if it is of the view that no further action should be taken on the complaint or information, dismiss the complaint or information and notify the Oversight Committee, the complainant (if any) and the public accountant, accounting corporation or accounting firm concerned of the dismissal;
 
-(b) resigns his seat on the Council;
+(b) if it is of the view that the complaint or information is valid but that no formal inquiry is necessary, recommend to the Oversight Committee to do any of the following:
 
-(c) fails to attend 3 consecutive meetings of the Council without leave of the Council;
+(i) order that the public accountant, accounting corporation or accounting firm concerned be issued with a letter of advice;
 
-(d) becomes insolvent or enters into a composition with any creditor or is adjudged a bankrupt;
+(ii) order that the public accountant, accounting corporation or accounting firm concerned be warned;
 
-(e) becomes of unsound mind;
+(iii) make such other order as the Complaints Committee considers appropriate; and
 
-(f) is in arrears for not less than 6 months of any fees prescribed by the Council;
-
-(g) ceases to be a practising member, if he was elected or appointed as a member of the Council from among members of the Institute who are practising members;
-
-(h) ceases to be a non-practising member, if he was elected or appointed as a member of the Council from among members of the Institute who are non-practising members;
-
-(i) has his appointment under section 44 (1) (c) revoked;
-
-(j) is imposed with any order of the Board referred to in section 34 (2);
-
-(k) ceases to be a member of the Institute;
-
-(l) is disciplined by the Council or any committee appointed by the Council;
-
-(m) has been convicted of an offence involving fraud or dishonesty; or
-
-(n) is removed from his office before the expiration of his period of office by the members of the Institute in accordance with this Act, his seat shall become vacant, and the vacancy thereby created shall be deemed to be a casual vacancy.
-
-[32
-
-[37/2000]
+(c) if it is of the view that a formal inquiry is necessary, recommend to the Oversight Committee to constitute a Disciplinary Committee to hold the formal inquiry.

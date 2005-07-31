@@ -1,7 +1,7 @@
 # LEGISLATIVE HISTORY ACCOUNTANTS ACT (CHAPTER 2)
 
-1. Act 26 of 1987 — Accountants Act 1987 Date of First Reading : 28.7.87 (Bill No. 13/87 published on 30.7.87) Date of Second and Third Readings : 31.8.87 Date of commencement : 11.2.89
+1. Act 4 of 2004 — Accountants Act 2004 Date of First Reading : 5.1.2004 (Bill No. 2/2004 published on 6.1.2004) Date of Second and Third Readings : 6.2.2004 Date of commencement : 1.4.2004
 
-2. Act 48 of 1998 — Accountants (Amendment) Act 1998 Date of First Reading : 12.10.98 (Bill No. 45/98 published on 13.10.98) Date of Second and Third Readings : 26.11.98 Date of commencement : 1.1.99
+2. Act 28 of 2004 — Statutes (Miscellaneous Amendments) (No. 2) Act 2004 Date of First Reading : 15.6.2004 (Bill No. 27/2004 published on 16.6.2004) Dates of Second and Third Readings : 20.7.2004 Date of commencement : 1.9.2004
 
-3. Act 37 of 2000 — Accountants (Amendment) Act 2000 Date of First Reading : 9.10.2000 (Bill No. 27/2000 published on 10.10.2000) Date of Second and Third Readings : 13.11.2000 Date of commencement : 8.3.2001
+This Legislative History is provided for the convenience of users of the Accountants Act. It is not part of the Accountants Act.

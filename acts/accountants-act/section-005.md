@@ -1,26 +1,50 @@
-# 5. Functions of Board
-Part: PART II PUBLIC ACCOUNTANTS BOARD
+# 5. Functions and powers of Oversight Committee
+Part: PART II ADMINISTRATION OF ACT
 
-The functions of the Board are —
+(1) The Oversight Committee shall assist the Authority in the discharge of the Authority’s functions under section 3 and, in so doing, shall —
 
-(a) to register public accountants;
+(a) keep and maintain —
 
-(b) to keep and maintain a Register of Public Accountants and a Register of Public Accounting Corporations;
+(i) a Register of Public Accountants;
 
-(c) to determine the qualifications of persons for registration as public accountants under this Act;
+(ii) a Register of Public Accounting Corporations;
 
-(d) to control and regulate the practice of the profession of accountancy by public accountants and accounting corporations;
+(iii) a Register of Public Accounting Firms; and
 
-(e) to prescribe the standards, methods and procedures to be followed by public accountants when doing any work in the course of their profession;
+(iv) such other registers as may be necessary for the purposes of this Act;
 
-(f) to determine and develop standards of professional conduct and ethics of the accountancy profession;
+(b) consider and, as appropriate, grant (whether unconditionally or subject to such conditions as it thinks fit) or reject —
 
-(g) to discourage dishonourable conduct and practices by public accountants and for this purpose hold inquiries into the conduct of public accountants;
+(i) all applications for registration made under Part III;
 
-(h) to hold or arrange for the holding of such examinations as the Board considers necessary for the purpose of enabling persons to qualify for registration as public accountants under this Act;
+and
 
-(i) to approve applications for companies or proposed companies to be accounting corporations and to regulate such companies which provide public accountancy services in Singapore; and
+(ii) all applications for approval under Part IV;
 
-(j) generally to do all such acts, matters and things as are necessary to be carried out under this Act except Part VI.
+(c) assist the Authority in determining, prescribing and reviewing the requirements to be satisfied by persons seeking to be registered as public accountants under Part III;
 
-[48/98; 37/2000]
+(d) conduct or arrange for the conduct of such examinations as it thinks necessary for the purposes of registering public accountants;
+
+(e) administer the continuing professional education programmes for public accountants;
+
+(f) administer the practice monitoring programmes under Part V;
+
+(g) assist the Authority in determining, prescribing and reviewing —
+
+(i) the codes of professional conduct and ethics for public accountants; and
+
+(ii) the standards, methods and procedures to be applied by public accountants when providing public accountancy services;
+
+(h) inquire into —
+
+(i) any complaint against any public accountant, accounting corporation or accounting firm; or
+
+(ii) any information relating to any professional misconduct on the part of any public accountant, accounting corporation or accounting firm, and, if necessary, institute disciplinary proceedings in accordance with Part VI;
+
+(i) advise the Authority on any matter which relates to the profession of public accountancy; and
+
+(j) generally do all such acts, matters and things as are necessary to be carried out, or which the Oversight Committee is authorised to carry out, under this Act.
+
+(2) The registers referred to in subsection (1) (a) may be kept in such form or manner as the Oversight Committee may determine.
+
+(3) Subject to any general or special direction given by the Authority, the Oversight Committee shall have the powers to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions.

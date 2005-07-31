@@ -1,4 +1,4 @@
-# 16. Notification of changes in particulars in Register of Public Accountants
+# 16. Publication of list of public accountants
 Part: PART III REGISTRATION OF PUBLIC ACCOUNTANTS
 
-Every public accountant shall notify the Registrar in writing within one month of any change of name or business address bearing on the particulars entered in the Register of Public Accountants.
+The Registrar may, from time to time, prepare and publish in such form or manner as the Oversight Committee may determine a list of the names and particulars of all public accountants.

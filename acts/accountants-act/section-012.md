@@ -1,16 +1,14 @@
-# 12. Qualifications for registration
+# 12. Certificate of registration and record in Register of Public Accountants
 Part: PART III REGISTRATION OF PUBLIC ACCOUNTANTS
 
-(1) No person shall be registered as a public accountant by the Board if he is below the age of 21 years or if in the opinion of the Board he is not of good character or reputation or is engaged in any business or occupation inconsistent with the integrity of a public accountant.
+(1) Upon a person being registered as a public accountant under this Part, the Registrar shall —
 
-(2) A body corporate shall not be eligible for registration under this Part.
+(a) issue to him a certificate of registration; and
 
-[37/2000]
+(b) record his name and relevant particulars in the Register of Public Accountants.
 
-(3) Subject to subsections (1) and (2), every person shall be entitled, on payment of such registration fee as may be prescribed by the Board, to be registered as a public accountant under this Part if he —
+(2) A certificate of registration shall be issued in such form or manner as the Oversight Committee may determine.
 
-(a) has passed such examinations in accountancy and other matters, if any, as may be prescribed by the Board; and
+(3) Subject to the provisions of this Act, every such certificate of registration shall be in force from the date of its issue or renewal to 31st December of the year in respect of which the certificate is issued or renewed.
 
-(b) has complied with all the requirements relating to practical experience as may be prescribed by the Board.
-
-(4) The Minister may after consultation with the Board exempt, subject to such conditions as he thinks fit, any person from such requirements as may be prescribed by the Board under this section.
+[Accountants 2001 Ed., s. 15]

@@ -1,10 +1,12 @@
-# 69. Holding out as certified public accountant
-Part: PART VII GENERAL
+# 69. Savings and transitionals for other written laws
+Part: PART VIII SAVINGS AND TRANSITIONAL PROVISIONS
 
-Any person who, not being a member of the Institute —
+(1) In so far as it is necessary for preserving the effect of any written law or document —
 
-(a) describes himself as a certified public accountant; or
+(a) any reference in such written law or document to the repealed Accountants Act shall be construed as a reference to this Act;
 
-(b) uses in connection with his name, or with the name under which he carries on business, the initials ‘‘CPA’’, or an abbreviation of the words ‘‘certified public accountant’’, or any combination of such initials or abbreviations, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months and, in the case of a second or subsequent conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+and
 
-[54
+(b) any reference in such written law or document to a registered public accountant or an approved accounting corporation shall be construed as a reference to a public accountant registered under this Act or an accounting corporation approved under this Act.
+
+(2) The Minister may, by order published in the Gazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.

@@ -1,12 +1,10 @@
-# 39. Reinstatement
-Part: PART V DISCIPLINARY PROCEEDINGS
+# 39. Appointment of Complaints and Disciplinary Panel
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-(1) Any person whose name has been removed from the Register of Public Accountants under section 37 (1) (b) shall be reinstated as soon as possible after he has notified the Registrar of his desire to be reinstated and upon payment of the prescribed fee.
+(1) For the purpose of enabling Complaints Committees and Disciplinary Committees to be constituted under this Part, the Oversight Committee shall appoint a panel, to be known as the Complaints and Disciplinary Panel, consisting of such number of public accountants and lay persons as the Oversight Committee thinks fit.
 
-(2) Any person whose name has been removed from the Register of Public Accountants under section 37 (1) (c) or from the Register of Public Accounting Corporations under section 38 (1) (b) shall, if his or its appeal to the High Court is allowed, be forthwith reinstated without payment of any fee.
+(2) A member of the Complaints and Disciplinary Panel shall be appointed for a term of 2 years and shall be eligible for reappointment.
 
-[37/2000]
+(3) The Registrar shall be the Chairman of the Complaints and Disciplinary Panel.
 
-(3) The Board may, in its discretion, after expiration of not less than 2 years from the cancellation of registration of any person, consider any application for registration by such person in accordance with Part III.
-
-[24
+(4) The Oversight Committee may at any time remove from office any member of the Complaints and Disciplinary Panel or fill any vacancy in its membership.

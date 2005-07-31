@@ -1,5 +1,5 @@
 # 28. Professional indemnity insurance
-Part: PART IV ACCOUNTING CORPORATIONS
+Part: PART IV ACCOUNTING CORPORATIONS AND ACCOUNTING FIRMS
 
 (1) Every accounting corporation registered under this Act shall be covered by professional indemnity insurance of not less than one of the following amounts, whichever is the highest:
 
@@ -9,10 +9,6 @@ Part: PART IV ACCOUNTING CORPORATIONS
 
 (c) where applicable, a sum equal to two and a half times the gross income of the accounting corporation in the last completed financial year of the accounting corporation subject to a maximum sum of $50 million.
 
-[37/2000]
+(2) The Authority may, by rules, vary the amount of coverage under a professional indemnity insurance required by subsection (1).
 
-(2) The Board may, by rules under section 74, vary the amount of coverage under a professional indemnity insurance required by subsection (1).
-
-[18J
-
-[37/2000]
+[Accountants 2001 Ed., s. 28]

@@ -1,16 +1,8 @@
-# 22. Register of Public Accounting Corporations
-Part: PART IV ACCOUNTING CORPORATIONS
+# 22. Duty to report change in particulars
+Part: PART IV ACCOUNTING CORPORATIONS AND ACCOUNTING FIRMS
 
-(1) The Board shall —
+(1) A public accountant shall notify the Registrar of any change in the name or relevant particulars, as recorded in the Register of Public Accounting Corporations or the Register of Public Accounting Firms (as the case may be) of the accounting corporation or accounting firm in which he is practising.
 
-(a) keep and maintain, in such form as the Board may determine, a register to be called the Register of Public Accounting Corporations containing the names and particulars of all accounting corporations approved under section 19; and
+(2) Any notification under subsection (1) shall be given within 30 days of the change and in such manner as the Oversight Committee may require.
 
-(b) allow any person to inspect the Register of Public Accounting Corporations in such manner and on such terms as the Board thinks fit.
-
-[37/2000]
-
-(2) The Registrar shall, under the general direction of the Board, enter all approvals and revocation of approvals of companies as accounting corporations in the Register of Public Accounting Corporations.
-
-[18D
-
-[37/2000]
+(3) Any person who fails, without reasonable excuse, to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.

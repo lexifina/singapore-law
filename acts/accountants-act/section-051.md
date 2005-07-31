@@ -1,38 +1,42 @@
-# 51. Specific powers of Council
-Part: PART VI INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS OF SINGAPORE
+# 51. Procedure of Disciplinary Committee
+Part: PART VI DISCIPLINARY PROCEEDINGS
 
-Without prejudice to the general powers conferred by section 50, the Council shall have power —
+(1) A Disciplinary Committee shall meet at such times and places as its chairman may appoint.
 
-(a) to prescribe the conditions for applicants for admission as members of the Institute and for changes in the classification of members, either generally or in any particular case;
+(2) All the members of a Disciplinary Committee shall be personally present to constitute a quorum for a meeting of the Disciplinary Committee.
 
-(b) to establish prizes for students and to lay down the conditions for their award as it thinks fit;
+(3) All members of a Disciplinary Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
 
-(c) in its discretion to appoint such officers, employees and agents for permanent, temporary or special services as it may from time to time think fit and to determine their duties and terms of service;
+(4) A Disciplinary Committee shall not be bound to act in any formal manner and shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other written law relating to evidence, but may inform itself on any matter in such manner as it thinks fit.
 
-(d) to appoint from time to time the bankers and legal advisers of the Institute;
+(5) The Oversight Committee may appoint an advocate and solicitor for the purpose of a formal inquiry (whether to prosecute the complaint or to act as a legal advisor to the Disciplinary Committee) and pay to the advocate and solicitor, as part of the expenses of the Oversight Committee, such remuneration as the Oversight Committee may determine.
 
-(e) to purchase, rent or otherwise acquire and furnish suitable premises for the use of the Institute;
+(6) At the formal inquiry —
 
-(f) to take cognizance of anything affecting the Institute or the professional conduct of its members and take such action as it thinks fit in relation thereto;
+(a) a public accountant against whom the complaint has been made may appear in person or be represented by counsel;
 
-(g) with a view to extending the benefits to members of the Institute, to communicate from time to time with other similar bodies and with members of the profession in other places for the purpose of obtaining and communicating information on all matters likely to prove beneficial or interesting to members and to negotiate and arrange with such bodies for the reciprocal recognition of the status of the members of the Institute;
+and
 
-(h) to institute, conduct, defend, compound or abandon any legal proceedings by or against the Institute or its officers or otherwise concerning the affairs of the Institute and to compound and allow time for payment or satisfaction of any debts due or of any claims or demands made by or against the Institute;
+(b) the accounting corporation or accounting firm against which the complaint has been made may be represented by any of its corporate practitioners or partners or be represented by counsel.
 
-(i) to refer any claims or demands by or against the Institute to arbitration and to observe and perform every award made as a result of such arbitration;
+(7) If the public accountant, accounting corporation or accounting firm concerned does not appear, the Disciplinary Committee may proceed with the formal inquiry after satisfying itself that the notice referred to in section 50 was duly served on him or it.
 
-(j) to make and give receipts, releases and other discharges for moneys payable to and for claims and demands of the Institute;
+(8) A Disciplinary Committee may, for the purposes of its formal inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out writs of subpoena ad testificandum and of duces tecum.
 
-(k) to invest and deal with any moneys of the Institute from time to time in securities authorised for the investment of trust funds by any written law for the time being in force;
+(9) The writs referred to in subsection (8) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
 
-(l) from time to time to borrow or raise money by bank overdraft or otherwise by the issue of debentures or any other securities founded or based upon all or any of the property and rights of the Institute or without any such security and upon such terms as to priority or otherwise as the Council shall think fit;
+(10) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
-(m) from time to time as it thinks fit to establish branches of the Institute;
+(11) Persons giving evidence in a formal inquiry shall have the same privileges and immunities in relation to an inquiry as if it was a proceeding in a court of law.
 
-(n) from time to time in its discretion to delegate any of its powers, authorities and discretions to any branch of the Institute on such conditions and for such period as it thinks fit;
+(12) The hearing of a formal inquiry shall not be open to the public.
 
-(o) to appoint committees of the Institute for such purposes and with such powers as may be prescribed; and
+(13) A Disciplinary Committee shall carry out its work expeditiously and may apply to the Oversight Committee for an extension of time and for directions to be given to the Disciplinary Committee if the Disciplinary Committee fails to make its finding and order within 6 months from the date of its appointment.
 
-(p) to exercise all such powers, privileges and discretions as are not by this Act expressly and exclusively required to be exercised by the members of the Institute in general meeting.
+(14) When an application for an extension of time has been made under subsection (13), the Oversight Committee may grant an extension of time for such period as it thinks fit.
 
-[36
+(15) The Oversight Committee may, where it thinks fit, require a Disciplinary Committee to consider further evidence and meet for that purpose except that the public accountant, accounting corporation or accounting firm concerned shall be given not less than 14 days’ notice of such further meeting of the Disciplinary Committee.
+
+(16) The chairman of the Disciplinary Committee shall record its proceedings in writing and in sufficient detail to enable the Oversight Committee to follow the course of the proceedings.
+
+(17) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), ‘‘public servant’’ shall be deemed to include a member of a Disciplinary Committee holding a formal inquiry, and in sections 193 and 228 of the Penal Code, ‘‘judicial proceeding’’ shall be deemed to include such a formal inquiry.
