@@ -1,0 +1,19 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+MANUFACTURE OF OPTICAL DISCS ACT
+(CHAPTER 170C)
+Act
+25 of 2004
+REVISED EDITION 2005
+(31st July 2005)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2005
+
+
+
+An Act to provide for the regulation and control of the manufacture of optical discs, and for matters connected therewith.
+
+[30th July 2004]
