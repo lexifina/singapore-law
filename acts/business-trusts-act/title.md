@@ -1,0 +1,19 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+BUSINESS TRUSTS ACT
+(CHAPTER 31A)
+Act
+30 of 2004
+REVISED EDITION 2005
+(31st July 2005)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2005
+
+
+
+An Act relating to the registration and regulation of business trusts and matters connected therewith.
+
+[12th October 2004]
