@@ -4,3 +4,5 @@ Part: PART IV REGISTERED TRADE MARK AS OBJECT OF PROPERTY
 (1) No notice of any trust (express, implied or constructive) shall be entered in the register, and the Registrar shall not be affected by any such notice.
 
 (2) Subject to the provisions of this Act, equities in respect of a registered trade mark may be enforced in like manner as in respect of other personal or movable property.
+
+[UK Trade Marks Act 1994, s. 26; Trade Marks 1992 Ed., ss. 6, 44]

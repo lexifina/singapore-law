@@ -14,3 +14,5 @@ Part: PART IV REGISTERED TRADE MARK AS OBJECT OF PROPERTY
 (6) A registered trade mark may be the subject of a charge in the same way as other personal or movable property.
 
 (7) Nothing in this Act shall be construed as affecting the assignment or transmission of an unregistered trade mark as part of the goodwill of a business.
+
+[UK Trade Marks Act 1994, s. 24]

@@ -1,5 +1,5 @@
 # 85. Notice of seizure
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
 (1) As soon as is practicable after goods are seized under section 82, the Director-General shall give to the importer and the objector, either personally or by post, a written notice identifying the goods and stating that they have been seized.
 
@@ -22,3 +22,5 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 (b) the Director-General is satisfied that it is reasonable that the request be granted, the Director-General may extend the initial period by such period as is prescribed.
 
 (7) A decision on a request made in accordance with subsection (5) must be made within 2 working days after the request is made, but such a decision cannot be made after the end of the initial period to which the request relates.
+
+[Copyright 1988 Ed., s. 140E]

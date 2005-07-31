@@ -1,10 +1,30 @@
-# 53. Forfeiture of articles, etc., on conviction
+# 53. Forfeiture and destruction of goods, etc., on conviction
 Part: PART VI OFFENCES
 
-(1) A court may, where it considers appropriate, order a person convicted of an offence under any provision of this Part to forfeit to the Government all articles or goods by means of which, or in relation to which, the offence was committed.
+(1) Subject to subsection (2), where any person has been convicted of an offence under any provision of this Part, the court may, where it considers appropriate, order the person to forfeit to the Government all or any —
 
-(2) Such forfeiture is in addition to any punishment referred to in that provision.
+(a) goods in relation to which; or
 
-PART VII
+(b) articles by means of which, the offence was committed.
 
-INTERNATIONAL MATTERS The Madrid Protocol, etc.
+[20/2004]
+
+(2) Where any person has been convicted of an offence under section 47 or 49 in relation to a registered trade mark, the court shall, unless it is of the view that there are exceptional circumstances for deciding otherwise, order to be forfeited to the Government and destroyed any goods which satisfy all of the following conditions:
+
+(a) the goods are goods in relation to which —
+
+(i) the offence was committed; and
+
+(ii) the trade mark has been falsely applied;
+
+(b) the goods or their packaging bear the trade mark or sign giving rise to the false application of the trade mark.
+
+[20/2004]
+
+(3) Any —
+
+(a) forfeiture of goods or articles under subsection (1); or
+
+(b) forfeiture and destruction of goods under subsection (2), shall be in addition to any penalty or punishment that the court may impose for the offence committed.
+
+[20/2004]

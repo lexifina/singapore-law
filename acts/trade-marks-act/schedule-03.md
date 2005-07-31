@@ -20,21 +20,21 @@ Introductory
 
 Existing registered marks
 
-2.—(1) Existing registered marks, whether registered in Part A or B of the register kept under the repealed Act, are registered trade marks for the purposes of this Act.
-
-(2) Existing registered marks registered as certification trade marks in the register kept under the repealed Act are registered certification marks for the purposes of this Act.
-
-(3) Existing registered marks registered as a series of trade marks in the register kept under the repealed Act are similarly registered in the new register for the purposes of this Act.
-
-(4) In any other case notes indicating that existing registered marks are associated with other marks shall cease to have effect on 15th January 1999.
-
-3.—(1) A condition entered on the register kept under the repealed Act in relation to an existing registered mark immediately before 15th January 1999 shall cease to have effect on that date.
+2.—(1) Any existing registered mark, whether registered in Part A or B of the register kept under the repealed Act, is a registered trade mark for the purposes of this Act.
 
 THIRD SCHEDULE — continued
 
+(2) Any existing registered mark registered as a certification trade mark in the register kept under the repealed Act is a registered certification mark for the purposes of this Act.
+
+(3) Any existing registered mark registered as a series of trade marks in the register kept under the repealed Act is similarly registered in the new register for the purposes of this Act.
+
+(4) In any other case, any note indicating that an existing registered mark is associated with any other mark shall cease to have effect on 15th January 1999.
+
+3.—(1) A condition entered in the register kept under the repealed Act in relation to an existing registered mark immediately before 15th January 1999 shall cease to have effect on that date.
+
 (2) Proceedings under section 39 (3) of the repealed Act which are pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
-(3) A disclaimer or limitation entered on the register kept under the repealed Act in relation to an existing registered mark immediately before 15th January 1999 shall be deemed to be transferred to the new register and have effect as if entered on the register in pursuance of section 30 of this Act.
+(3) A disclaimer or limitation entered in the register kept under the repealed Act in relation to an existing registered mark immediately before 15th January 1999 shall be deemed to be transferred to the new register and have effect as if entered in the register in pursuance of section 30 of this Act.
 
 Effects of registration: infringement
 
@@ -52,6 +52,8 @@ Infringing goods, material or articles
 
 5. Section 33 of this Act shall apply to infringing goods, material or articles whether made before or after 15th January 1999.
 
+THIRD SCHEDULE — continued
+
 Rights and remedies of licensee or authorised user
 
 6.—(1) Section 44 of this Act shall apply to licences granted before 15th January 1999, but only in relation to infringements committed after that date.
@@ -62,9 +64,7 @@ Co-ownership of registered mark
 
 7.—(1) Subject to sub-paragraph (2), the provisions of section 37 of this Act apply as from 15th January 1999 to an existing registered mark of which 2 or more persons were immediately before that date registered as joint proprietors.
 
-(2) So long as the relations between the joint proprietors remain such as are described in section 12 (11) of the repealed Act there shall be taken to be an agreement to exclude the operation of section 37 (1) and (3) of this Act.
-
-THIRD SCHEDULE — continued
+(2) So long as the relations between the joint proprietors remain such as are described in section 12 (11) of the repealed Act, there shall be taken to be an agreement to exclude the operation of section 37 (1) and (3) of this Act.
 
 Assignment, etc., of registered mark
 
@@ -78,11 +78,11 @@ Assignment, etc., of registered mark
 
 (5) The Registrar may require the applicant to amend his application so as to conform with the requirements of this Act.
 
-(6) An application for registration under section 43 of the repealed Act which has been determined by the Registrar but not finally determined before 15th January 1999 shall be dealt with under the old law; and sub-paragraphs (2) and
-
-(3) shall apply in relation to any resulting entry in the register.
+(6) An application for registration under section 43 of the repealed Act which has been determined by the Registrar but not finally determined before 15th January 1999 shall be dealt with under the old law; and sub-paragraphs (2) and (3) shall apply in relation to any resulting entry in the register.
 
 (7) Where before 15th January 1999 a person has become entitled by assignment or transmission to an existing registered mark but has not registered his title, any application for registration after that date shall be made under section 39 of this Act.
+
+THIRD SCHEDULE — continued
 
 (8) In cases to which sub-paragraph (4) or (7) applies, section 43 (2) of the repealed Act continues to apply (and section 39 (3) and (4) of this Act do not apply) as regards the consequences of failing to register.
 
@@ -93,8 +93,6 @@ Licensing of registered mark
 (2) Existing entries under section 30 of the repealed Act shall be deemed transferred on 15th January 1999 to the register kept under this Act and have effect as if made under section 39 of this Act.
 
 (3) Provision may be made by rules for putting entries referred to in sub-paragraph (2) in the same form as is required for entries made under this Act.
-
-THIRD SCHEDULE — continued
 
 (4) An application for registration as a registered user which is pending before the Registrar on 15th January 1999 shall be treated as an application for registration of a licence under section 39 (1) of this Act and shall proceed accordingly.
 
@@ -116,15 +114,15 @@ Pending applications for registration
 
 (3) Section 26 of the repealed Act shall be disregarded in dealing after 15th January 1999 with an application for registration.
 
-(4) Subject to sub-paragraph (6), a mark shall not be registered under this paragraph if it contains or consists of a geographical indication in respect of a wine or spirit and the mark is used or intended to be used in relation to a wine or spirit not originating from the geographical origin indicated by the geographical indication.
+(4) Subject to sub-paragraph (6), a mark shall not be registered under this paragraph if it contains or consists of a geographical indication in respect of a wine THIRD SCHEDULE — continued
+
+or spirit and the mark is used or intended to be used in relation to a wine or spirit not originating from the geographical origin indicated by the geographical indication.
 
 (5) Sub-paragraph (4) shall apply whether or not the mark has, or is accompanied by, an indication of the true geographical origin of the wine or spirit (as the case may be) or an expression such as ‘‘kind’’, ‘‘type’’, ‘‘style’’, ‘‘imitation’’ or the like, and irrespective of the language the geographical indication is expressed in that trade mark.
 
 (6) A mark shall not be refused registration by virtue of sub-paragraph (4) if the application had been made in good faith, or if it had been used continuously in good faith in the course of trade by the applicant for its registration or his predecessor in title, either —
 
 (a) before 15th January 1999; or
-
-THIRD SCHEDULE — continued
 
 (b) before the geographical indication concerned is protected in its country of origin.
 
@@ -138,7 +136,7 @@ Conversion of pending application
 
 11.—(1) In the case of a pending application for registration which has not been advertised under section 18 of the repealed Act before 15th January 1999, the applicant may give notice to the Registrar claiming to have the registrability of the mark determined in accordance with the provisions of this Act.
 
-(2) The notice must be in the prescribed form, be accompanied by the appropriate fee and be given no later than 6 months after 15th January 1999.
+(2) The notice must be in the relevant form published by the Registrar under section 76 of this Act, be accompanied by the appropriate fee and be given no later than 6 months after 15th January 1999.
 
 (3) Notice duly given is irrevocable and has the effect that the application shall be treated as if made immediately after 15th January 1999.
 
@@ -146,17 +144,19 @@ Claim to priority from overseas application
 
 12. Section 10 of this Act shall apply to an application for registration under this Act made after 15th January 1999 notwithstanding that the Convention application was made before that date.
 
-13.—(1) Where, before 15th January 1999, a person has duly filed an application for protection of a trade mark in a foreign state to which section 75 of the repealed Act applies which is not a Convention country (referred to in this paragraph as a ‘‘relevant overseas application’’), he, or his successor in title, has a right to priority, for the purposes of registering the same trade mark under this Act for some or all of the same goods or services, for a period of 6 months from the date of filing of the relevant overseas application.
+13.—(1) Where, before 15th January 1999, a person has duly filed an application for protection of a trade mark in a foreign state to which section 75 of the repealed Act applies which is not a Convention country (referred to in this paragraph as a ‘‘relevant overseas application″), he, or his successor in title, has a right to priority, for THIRD SCHEDULE — continued
+
+the purposes of registering the same trade mark under this Act for some or all of the same goods or services, for a period of 6 months from the date of filing of the relevant overseas application.
 
 (2) If the application for registration under this Act is made within that 6 month period —
 
-(a) the relevant date for the purposes of establishing which rights take precedence shall be the date of filing of the relevant overseas application; and
+(a) the relevant date for the purposes of establishing which rights take precedence shall be the date of filing of the relevant overseas application;
+
+and
 
 (b) the registrability of the trade mark shall not be affected by any use of the mark in Singapore in the period between that date and the date of the application under this Act.
 
-(3) Any filing which in a foreign state referred to in sub-paragraph (1) is equivalent to a regular national filing, under its domestic legislation or an interna- tional agreement, shall be deemed to give rise to the right of priority.
-
-THIRD SCHEDULE — continued
+(3) Any filing which in a foreign state referred to in sub-paragraph (1) is equivalent to a regular national filing, under its domestic legislation or an inter- national agreement, shall be deemed to give rise to the right of priority.
 
 (4) For the purposes of sub-paragraph (3), a ‘‘regular national filing’’ means a filing which is adequate to establish the date on which the application was filed in that country, whatever may be the subsequent fate of the application.
 
@@ -176,6 +176,8 @@ Renewal of registration
 
 14. Section 19 of this Act applies where the renewal of an existing registered mark falls due on or after 15th January 1999; and the old law continues to apply in any other case.
 
+THIRD SCHEDULE — continued
+
 Pending application for alteration of registered mark
 
 15. An application under section 38 of the repealed Act which is pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
@@ -186,9 +188,7 @@ Revocation for non-use
 
 (2) An application under section 22 (1) (a) or (b) of this Act may be made in relation to an existing registered mark at any time after 15th January 1999.
 
-(3) However, no application referred to in sub-paragraph (2) for the revocation of the registration of an existing registered mark registered by virtue of THIRD SCHEDULE — continued
-
-section 41 of the repealed Act may be made until more than 5 years after 15th January 1999.
+(3) However, no application referred to in sub-paragraph (2) for the revocation of the registration of an existing registered mark registered by virtue of section 41 of the repealed Act may be made until more than 5 years after 15th January 1999.
 
 Application for rectification, etc.
 
@@ -196,7 +196,7 @@ Application for rectification, etc.
 
 (2) For the purposes of proceedings under section 23 of this Act as it applies in relation to an existing registered mark, the provisions of this Act shall be deemed to have been in force at all material times, except that no objection to the validity of the registration of an existing registered mark may be taken on the ground specified in section 8 (3) of this Act.
 
-Regulations as to use of certification mark
+Regulations governing use of certification mark
 
 18.—(1) Regulations governing the use of an existing registered certification mark transmitted to the Registrar in pursuance of section 68 of the repealed Act shall be treated after 15th January 1999 as if filed under paragraph 6 of the Second Schedule to this Act.
 

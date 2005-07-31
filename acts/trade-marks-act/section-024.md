@@ -9,4 +9,10 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (2) Where subsection (1) applies, the proprietor of the later trade mark is not entitled to oppose the use of the earlier trade mark or, as the case may be, the exploitation of the earlier right, notwithstanding that the earlier trade mark or right may no longer be invoked against his later trade mark.
 
+(3) For the purposes of subsection (1), in deciding whether the registration of the later trade mark was applied for in bad faith, it shall be relevant to consider whether the applicant for the registration of the later trade mark had, at the time his application was made, knowledge of, or reason to know of, the earlier trade mark or other right.
+
+[UK Trade Marks Act 1994, s. 48]
+
+[20/2004]
+
 Miscellaneous

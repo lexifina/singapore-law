@@ -10,8 +10,6 @@ General
 
 (2) For the purposes of this Schedule, ‘‘published’’ means made available to the public (whether in Singapore or elsewhere), and a document shall be taken to be published if it can be inspected as of right at any place in Singapore by members of the public, whether on payment of a fee or not.
 
-SECOND SCHEDULE — continued
-
 Signs of which a certification mark may consist
 
 2. In relation to a certification mark, the reference in the definition of ‘‘trade mark’’ in section 2 (1) to distinguishing goods or services dealt with or provided in the course of trade by a person from those so dealt with or provided by any other person shall be construed as a reference to distinguishing goods or services dealt with or provided in the course of trade and which are certified in the manner referred to in section 61 (1) (b) from those which are not so certified.
@@ -34,6 +32,8 @@ Mark not to be misleading as to character or significance
 
 (3) Notwithstanding section 14 (3), an application may be amended so as to comply with any such requirement.
 
+SECOND SCHEDULE — continued
+
 Regulations governing use of certification mark
 
 6.—(1) An applicant for registration of a certification mark must file with the Registrar regulations governing the use of the mark.
@@ -41,8 +41,6 @@ Regulations governing use of certification mark
 (2) The regulations must indicate who is authorised to use the mark, the characteristics to be certified by the mark, how the certifying body is to test those characteristics and to supervise the use of the mark, the fees (if any) to be paid in connection with the operation of the mark and the procedures for resolving disputes.
 
 (3) Further requirements with which the regulations have to comply may be imposed by rules made under this Act.
-
-SECOND SCHEDULE — continued
 
 Approval of regulations, etc.
 
@@ -68,6 +66,8 @@ Approval of regulations, etc.
 
 (4) If it appears to the Registrar that those requirements, and the other requirements for registration, are met, he shall accept the application and shall proceed in accordance with section 13.
 
+SECOND SCHEDULE — continued
+
 9. The regulations shall be published and notice of opposition may be given relating to the matters mentioned in paragraph 7 (1), in addition to any other grounds on which the application may be opposed.
 
 Regulations to be open to inspection
@@ -78,11 +78,9 @@ Amendment of regulations
 
 11.—(1) An amendment of the regulations governing the use of a registered certification mark is not effective unless and until the amended regulations are filed with the Registrar and accepted by him.
 
-SECOND SCHEDULE — continued
+(2) Before accepting any amended regulations, the Registrar may, in any case where it appears to him expedient to do so, cause them to be published.
 
-(2) Before accepting any amended regulations the Registrar may in any case where it appears to him expedient to do so cause them to be published.
-
-(3) If he does so, notice of opposition may be given relating to the matters mentioned in paragraph 7 (1).
+(3) If the Registrar causes the regulations to be published, notice of opposition may be given relating to the matters mentioned in paragraph 7 (1).
 
 Consent to assignment of registered certification mark
 
@@ -96,13 +94,15 @@ Infringement: rights of authorised users
 
 (b) section 82.
 
-14. In infringement proceedings brought by the proprietor of a registered certification mark any loss suffered or likely to be suffered by authorised users shall be taken into account; and the Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of such users.
+14. In infringement proceedings brought by the proprietor of a registered certification mark, any loss suffered or likely to be suffered by authorised users shall be taken into account; and the Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of such users.
 
 Grounds for revocation of registration
 
 15. Apart from the grounds of revocation provided for in section 22, the registration of a certification mark may be revoked on the ground —
 
 (a) that the proprietor has begun to carry on such a business as is mentioned in paragraph 4;
+
+SECOND SCHEDULE — continued
 
 (b) that the manner in which the mark has been used by the proprietor has caused it to become liable to mislead the public in the manner referred to in paragraph 5 (1);
 
@@ -115,8 +115,6 @@ Grounds for revocation of registration
 (ii) are contrary to public policy or morality; or
 
 (e) that the proprietor is no longer competent to certify the goods or services for which the mark is registered.
-
-SECOND SCHEDULE — continued
 
 Grounds for invalidity of registration
 

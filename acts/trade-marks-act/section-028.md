@@ -9,7 +9,7 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (ii) the name of his predecessor in business or the name of his predecessor’s place of business;
 
-(b) he uses a sign to indicate—
+(b) he uses a sign to indicate —
 
 (i) the kind, quality, quantity, intended purpose, value, geographical origin or other characteristic of goods or services; or
 
@@ -24,3 +24,15 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 (b) the date the proprietor of the registered trade mark, or a predecessor in title, or a person who was a registered user of the trade mark under the repealed Act, first used the trade mark, whichever is the earlier.
 
 (3) Notwithstanding section 27, a registered trade mark is not infringed by the use of another registered trade mark in relation to goods or services for which the latter is registered.
+
+(4) Notwithstanding section 27, a person who uses a registered trade mark does not infringe the trade mark if such use —
+
+(a) constitutes fair use in comparative commercial advertising or promotion;
+
+(b) is for a non-commercial purpose; or
+
+(c) is for the purpose of news reporting or news commentary.
+
+[UK Trade Marks Act 1994, s. 11; Aust. Trade Marks Act 1995, ss. 122, 124]
+
+[20/2004]

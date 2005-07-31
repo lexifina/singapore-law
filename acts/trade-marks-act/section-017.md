@@ -7,4 +7,6 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (3) If the application meets all the requirements under this Act and the Registrar is required under section 15 to register the trade marks, he shall register them as a series in one registration.
 
+[UK Trade Marks Act 1994, s. 41 (2); Aust. Trade Marks Act 1995, s. 51]
+
 Duration, renewal and alteration of registered trade mark

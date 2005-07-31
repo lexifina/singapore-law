@@ -6,3 +6,5 @@ Part: PART IX ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
 (2) A person who has been required by the Registrar to produce a document or article shall not, without lawful excuse, fail to produce the document or article.
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Patents 1995 Ed., s. 9]

@@ -6,3 +6,5 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 (2) No order shall be made under this section unless the Court also makes, or it appears to the Court that there are grounds for making, an order under section 34.
 
 (3) A person to whom any infringing goods, material or articles are delivered up in pursuance of an order under this section shall, if an order under section 34 is not made, retain them pending the making of an order, or the decision not to make an order, under that section.
+
+[Copyright 1988 Ed., s. 120]

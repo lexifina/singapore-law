@@ -1,10 +1,22 @@
 # 32. Order for erasure, etc., of offending sign
 Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights of proprietor of registered trade mark
 
-(1) Where a person is found to have infringed a registered trade mark, the Court may make an order requiring him —
+(1) Subject to subsection (3), where a person is found to have infringed a registered trade mark, the Court may make an order requiring him —
 
 (a) to cause the offending sign to be erased, removed or obliterated from any infringing goods, material or articles in his possession, custody or control; or
 
 (b) if it is not reasonably practicable for the offending sign to be erased, removed or obliterated, to secure the destruction of the infringing goods, material or articles in question.
 
-(2) If an order under subsection (1) is not complied with, or it appears to the Court likely that such an order would not be complied with, the Court may order that the infringing goods, material or articles be delivered to such person as the Court may direct for erasure, removal or obliteration of the sign, or for destruction, as the case may be.
+[20/2004]
+
+(2) If an order under subsection (1) is not complied with, or it appears to the Court likely that such an order would not be complied with, the Court may order that the infringing goods, material or articles be delivered up to such person as the Court may direct for erasure, removal or obliteration of the sign, or for destruction, as the case may be.
+
+(3) Where a person who is found to have infringed a registered trade mark has in his possession, custody or control any counterfeit goods, the Court shall order that the counterfeit goods be delivered up to such person as the Court may direct for destruction if —
+
+(a) the plaintiff applies to the Court for such an order; and
+
+(b) the Court is of the view that there are no exceptional circumstances which justify the refusal of such an order.
+
+[UK Trade Marks Act 1994, s. 15]
+
+[20/2004]

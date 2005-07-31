@@ -1,5 +1,5 @@
 # 86. Inspection, release, etc., of seized goods
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
 (1) The Director-General may permit the objector or the importer to inspect the seized goods.
 
@@ -18,3 +18,5 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 (a) damage to any of the seized goods incurred during that inspection; or
 
 (b) anything done by the objector or any other person to, or in relation to, a sample removed from the custody of the Director-General or any use made by the objector of such a sample.
+
+[Copyright 1988 Ed., s. 140F]

@@ -10,3 +10,5 @@ Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
 (b) the proprietor obtains a final order or judgment in his favour, he is entitled to his costs as between solicitor and client unless the Court directs otherwise.
 
 (3) Subsection (2) does not extend to the costs of an appeal in any such proceedings.
+
+[UK Trade Marks Act 1994, s. 73]

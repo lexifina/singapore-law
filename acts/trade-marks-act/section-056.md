@@ -12,3 +12,5 @@ Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
 (5) Nothing in this section prevents the registration of a trade mark on the application of a national of a country who is authorised to make use of a state emblem, or official sign or hallmark, of that country, notwithstanding that it is similar to that of another country.
 
 (6) Where by virtue of this section the authorisation of the competent authorities of a Convention country is or would be required for the registration of a trade mark, those authorities are entitled to restrain by injunction any use in the course of trade of the trade mark in Singapore without their authorisation.
+
+[UK Trade Marks Act 1994, s. 57]

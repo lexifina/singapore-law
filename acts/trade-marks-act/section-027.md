@@ -11,7 +11,7 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (3) A person infringes a registered trade mark which is well known in Singapore if —
 
-(a) without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with or similar to the trade mark, in relation to goods or services which are not similar to those for which the trade mark is registered;
+(a) without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with or similar to the trade mark in relation to goods or services which are not similar to those for which the trade mark is registered;
 
 (b) the use of the trade mark in relation to those goods or services would indicate a connection between those goods or services and the proprietor;
 
@@ -19,7 +19,7 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (d) the interests of the proprietor are likely to be damaged by such use.
 
-(4) For the purposes of this section, sections 28 and 29, a person uses a sign if, in particular, he —
+(4) For the purposes of this section and sections 28, 29 and 31, a person uses a sign if, in particular, he —
 
 (a) applies it to goods or the packaging thereof;
 
@@ -27,14 +27,16 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (c) imports or exports goods under the sign;
 
-(d) uses the sign on an invoice, wine list, catalogue, business letter, business paper, price list or other commercial document; or
+(d) uses the sign on an invoice, wine list, catalogue, business letter, business paper, price list or other commercial document, including any such document in any medium; or
 
 (e) uses the sign in advertising.
+
+[20/2004]
 
 (5) Notwithstanding subsection (4), a person who —
 
 (a) applies a sign to any material used or intended to be used for labelling or packaging goods; or
 
-(b) uses it on any document described in subsection (4) (d) or in advertising, is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
+(b) uses a sign on any document described in subsection (4) (d) or in advertising, is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
 
-(6) Nothing in subsections (1) to (5) shall be construed as preventing the use of a registered trade mark by any person for the purpose of identifying goods or services as those of the proprietor or a licensee, but any such use otherwise than in accordance with honest practices in industrial or commercial matters shall be treated as infringing the registered trade mark if the use without due cause takes unfair advantage of, or is detrimental to, the distinctive character or repute of the trade mark.
+[UK Trade Marks Act 1994, s. 10; TRIPS Art. 16; Trade Marks 1992 Ed., s. 73B (3) (c)]

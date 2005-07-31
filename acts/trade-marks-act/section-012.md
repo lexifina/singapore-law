@@ -10,3 +10,5 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 (4) If the applicant fails to satisfy the Registrar that those requirements are met, or to amend the application so as to meet them, or fails to respond before the end of the prescribed period, the Registrar shall refuse to accept the application.
 
 (5) If it appears to the Registrar that the requirements for registration are met, the Registrar shall accept the application.
+
+[UK Trade Marks Act 1994, s. 37]

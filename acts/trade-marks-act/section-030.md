@@ -11,4 +11,6 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (3) The Minister may make rules as to the publication and entry in the register of a disclaimer or limitation.
 
+[UK Trade Marks Act 1994, s. 13]
+
 Infringement proceedings

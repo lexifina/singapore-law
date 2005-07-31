@@ -18,3 +18,5 @@ Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
 (6) An application under subsection (3) (a) or (b) must be made within 3 years of the proprietor becoming aware of the registration.
 
 (7) No injunction shall be granted under subsection (4) in respect of a use in which the proprietor has acquiesced for a continuous period of 3 years or more.
+
+[UK Trade Marks Act 1994, s. 60]

@@ -10,3 +10,5 @@ Part: PART VI OFFENCES
 (b) falsifies a genuine registered trade mark, whether by alteration, addition, effacement, partial removal or otherwise, without the consent of the proprietor of the registered trade mark shall be deemed to counterfeit a registered trade mark.
 
 (3) In a prosecution under this section, the burden of proving the consent of the proprietor lies on the accused.
+
+[Trade Marks 1992 Ed., ss. 70, 71]

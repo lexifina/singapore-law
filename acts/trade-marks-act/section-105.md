@@ -2,3 +2,5 @@
 Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
 
 If in any civil proceedings under this Act a question arises as to the use to which a registered trade mark has been put, it is for the proprietor to show what use has been made of it.
+
+[UK Trade Marks Act 1994, s. 100]

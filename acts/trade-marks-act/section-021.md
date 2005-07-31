@@ -8,3 +8,5 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 (a) to provide for the manner and effect of a cancellation; and
 
 (b) for protecting the interests of other persons having a right in the registered trade mark.
+
+[UK Trade Marks Act 1994, s. 45]

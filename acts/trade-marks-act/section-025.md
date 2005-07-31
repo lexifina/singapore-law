@@ -7,6 +7,8 @@ The Registrar may, at the written request of the person who has made an applicat
 
 (b) if the Registrar is of the opinion that it is fair and reasonable in all the circumstances of the case to do so.
 
+[Aust. Trade Marks Act 1995, s. 66]
+
 PART III
 
 RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights of proprietor of registered trade mark

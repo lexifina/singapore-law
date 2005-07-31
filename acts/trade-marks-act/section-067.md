@@ -16,3 +16,5 @@ Part: PART IX ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
 (5) The Registrar may, on request made in the prescribed manner by the proprietor of a registered trade mark, or a licensee, enter any change in his name or address as recorded in the register.
 
 (6) The Registrar may remove from the register matter appearing to him to have ceased to have effect.
+
+[UK Trade Marks Act 1994, s. 64]

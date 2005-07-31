@@ -8,3 +8,5 @@ Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
 (3) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, is also guilty of the offence and liable to be proceeded against and punished accordingly.
 
 (4) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity, he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+[UK Trade Marks Act 1994, s. 101]

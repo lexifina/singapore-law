@@ -12,3 +12,5 @@ Part: PART VI OFFENCES
 (a) the word ‘‘registered’’; or
 
 (b) any other word or symbol importing a reference (express or implied) to registration, shall be deemed to be a representation as to registration under this Act unless it is shown that the reference is to registration elsewhere than in Singapore and that the trade mark is in fact so registered for the goods or services in question.
+
+[UK Trade Marks Act 1994, s. 95]

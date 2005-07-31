@@ -52,3 +52,5 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 (12) The Minister may make rules to provide that a sign specified in the rules shall not be registered as a trade mark, or shall not be so registered unless such conditions as may be prescribed are met.
 
 (13) A trade mark shall not be registered if or to the extent that the registration contravenes any rule made under subsection (12).
+
+[UK Trade Marks Act 1994, s. 3; TRIPS Arts. 23, 24]

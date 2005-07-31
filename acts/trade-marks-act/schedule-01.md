@@ -14,13 +14,13 @@ Signs of which a collective mark may consist
 
 2. In relation to a collective mark, the reference in the definition of ‘‘trade mark’’ in section 2 (1) to distinguishing goods or services dealt with or provided in the course of trade by a person from those so dealt with or provided by any other person shall be construed as a reference to distinguishing goods or services dealt with or provided in the course of trade by members of an association which is the proprietor of the mark from those so dealt with or provided by persons who are not members of the association.
 
+FIRST SCHEDULE — continued
+
 Indication of geographical origin
 
 3.—(1) Notwithstanding section 7 (1) (c), a collective mark may be registered which consists of signs or indications which may serve, in trade, to designate the geographical origin of the goods or services.
 
 (2) However, the proprietor of such a mark is not entitled to prohibit the use of the signs or indications in accordance with honest practices in industrial or commercial matters (in particular, by a person who is entitled to use a geographical name).
-
-FIRST SCHEDULE — continued
 
 Mark not to be misleading as to character or significance
 
@@ -48,6 +48,8 @@ Approval of regulations by Registrar
 
 (2) Before the end of the prescribed period after the date of the application for registration of a collective mark, the applicant must file the regulations with the Registrar and pay the prescribed fee.
 
+FIRST SCHEDULE — continued
+
 (3) If the applicant does not comply with sub-paragraph (2), the application shall be deemed to be withdrawn.
 
 7.—(1) The Registrar shall consider whether the requirements mentioned in paragraph 6 (1) are met.
@@ -55,8 +57,6 @@ Approval of regulations by Registrar
 (2) If it appears to the Registrar that those requirements are not met, he shall inform the applicant and give him an opportunity, within such period as the Registrar may specify, to make representations or to file amended regulations.
 
 (3) If the applicant fails to satisfy the Registrar that those requirements are met, or to file regulations amended so as to meet them, or fails to respond before the end of the specified period, the Registrar shall refuse the application.
-
-FIRST SCHEDULE — continued
 
 (4) If it appears to the Registrar that those requirements, and the other requirements for registration, are met, he shall accept the application and shall proceed in accordance with section 13.
 
@@ -82,7 +82,9 @@ Infringement: rights of authorised users
 
 (b) section 82.
 
-12.—(1) The following provisions (which correspond to the provisions of section 44) have effect as regards the rights of authorised user in relation to infringement of a registered collective mark.
+12.—(1) The following provisions (which correspond to the provisions of section 44) have effect as regards the rights of an authorised user in relation to infringement of a registered collective mark.
+
+FIRST SCHEDULE — continued
 
 (2) An authorised user is entitled, subject to any agreement to the contrary between him and the proprietor, to call on the proprietor to take infringement proceedings in respect of any matter which affects his interests.
 
@@ -94,15 +96,11 @@ Infringement: rights of authorised users
 
 (4) Where infringement proceedings are brought by virtue of this paragraph, the authorised user may not, without the leave of the Court, proceed with the action unless the proprietor is either joined as a plaintiff or added as a defendant.
 
-FIRST SCHEDULE — continued
-
 (5) Sub-paragraph (4) does not affect the granting of interlocutory relief on an application by an authorised user alone.
 
-(6) A proprietor who is added as a defendant as mentioned in sub-paragraph
+(6) A proprietor who is added as a defendant as mentioned in sub-paragraph (4) shall not be made liable for any costs in the action unless he takes part in the proceedings.
 
-(4) shall not be made liable for any costs in the action unless he takes part in the proceedings.
-
-(7) In infringement proceedings brought by the proprietor of a registered collective mark any loss suffered or likely to be suffered by authorised users shall be taken into account; and the Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of such users.
+(7) In infringement proceedings brought by the proprietor of a registered collective mark, any loss suffered or likely to be suffered by authorised users shall be taken into account; and the Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of such users.
 
 Grounds for revocation of registration
 

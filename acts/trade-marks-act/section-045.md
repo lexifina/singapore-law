@@ -9,26 +9,36 @@ Part: PART V LICENSING
 
 (4) In an action brought by an exclusive licensee by virtue of this section, a defendant may avail himself of any defence which would have been available to him if the action had been brought by the proprietor of the registered trade mark.
 
-(5) Where proceedings for infringement of a registered trade mark brought by the proprietor or an exclusive licensee relate wholly or partly to an infringement in respect of which they have concurrent rights of action, the proprietor or, as the case may be, the exclusive licensee may not, without the leave of the Court, proceed with the action unless the other is either joined as a plaintiff or added as a defendant.
+(5) Where the proprietor or an exclusive licensee of a registered trade mark brings proceedings for any infringement of the trade mark in respect of which the proprietor and the exclusive licensee have concurrent rights of action, the proprietor or the exclusive licensee, as the case may be, need not —
 
-(6) Subsection (5) does not affect the granting of interlocutory relief on an application by a proprietor or exclusive licensee alone.
+(a) join the other as a plaintiff; or
 
-(7) A person who is added as a defendant as mentioned in subsection (5) shall not be made liable for any costs in the action unless he takes part in the proceedings.
+(b) add the other as a defendant, unless the Court otherwise orders.
 
-(8) Where an action for infringement of a registered trade mark is brought which relates wholly or partly to an infringement in respect of which the proprietor and an exclusive licensee have or had concurrent rights of action —
+[20/2004]
 
-(a) the Court shall in assessing damages take into account —
+(6) A person who is added as a defendant as mentioned in subsection (5) shall not be made liable for any costs in the action unless he takes part in the proceedings.
+
+(7) Where an action for infringement of a registered trade mark is brought which relates wholly or partly to an infringement in respect of which the proprietor and an exclusive licensee have or had concurrent rights of action —
+
+(a) the Court shall, when assessing damages, ordering an account of profits or awarding statutory damages under section 31 (5) (c), take into account —
 
 (i) the terms of the licence; and
 
-(ii) any pecuniary remedy already awarded or available to either of them in respect of the infringement;
+(ii) any pecuniary remedy already awarded or available to either of them in respect of the infringement; and
 
-(b) no account of profits shall be directed if an award of damages has been made, or an account of profits has been directed, in favour of the other of them in respect of the infringement; and
+(b) subject to any agreement between them, the Court may —
 
-(c) the Court shall if an account of profits is directed apportion the profits between them as the Court considers just, subject to any agreement between them.
+(i) assess the damages or award the statutory damages due to each of them according to the losses suffered or likely to be suffered by him as a result of the infringement; or
 
-(9) Subsection (8) shall apply whether or not the proprietor and the exclusive licensee are both parties to the action, and if they are not both parties the Court may give such directions as it thinks fit as to the extent to which the party to the proceedings is to hold the proceeds of any pecuniary remedy on behalf of the other.
+(ii) apportion between them the profits due to each of them according to what is attributable to the infringement of his rights.
 
-(10) The Court, in making an order under section 33, may have regard to the terms of any exclusive licence.
+[20/2004]
 
-(11) The provisions of subsections (5) to (10) shall have effect subject to any agreement to the contrary between the exclusive licensee and the proprietor.
+(8) Subsection (7) shall apply whether or not the proprietor and the exclusive licensee are both parties to the action, and if they are not both parties, the Court may give such directions as it thinks fit as to the extent to which the party to the proceedings is to hold the proceeds of any pecuniary remedy on behalf of the other.
+
+(9) The Court, in making an order under section 33, may have regard to the terms of any exclusive licence.
+
+(10) The provisions of subsections (5) to (9) shall have effect subject to any agreement to the contrary between the exclusive licensee and the proprietor.
+
+[UK Trade Marks Act 1994, s. 31]

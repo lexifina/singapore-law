@@ -18,3 +18,5 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 (b) no offence under section 46, 47, 48 or 49 is committed by anything done before the date on which the trade mark is in fact registered.
 
 (5) If the trade mark is registered subject to any disclaimer or limitation, the rights of the proprietor are restricted by the disclaimer or limitation.
+
+[UK Trade Marks Act 1994, s. 9; Aust. Trade Marks Act 1995, s. 20]

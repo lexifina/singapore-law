@@ -1,5 +1,5 @@
 # 83. Security for liability or expense of seizure
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
 An authorised officer may refuse to seize goods under section 82 unless —
 
@@ -10,3 +10,5 @@ An authorised officer may refuse to seize goods under section 82 unless —
 (ii) pay such compensation as may be ordered by the Court under section 89 (2) or 90 (6); or
 
 (b) the objector has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense and the payment of such compensation.
+
+[Copyright 1988 Ed., s. 140C]

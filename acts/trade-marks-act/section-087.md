@@ -1,5 +1,5 @@
 # 87. Forfeiture of seized goods by consent
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
 (1) Subject to subsection (2), the importer may, by written notice to the Director-General, consent to the seized goods being forfeited to the Government.
 
@@ -10,3 +10,5 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 (a) in the manner prescribed by rules made under this Act; or
 
 (b) if no manner of disposal is so prescribed, as the Director- General directs.
+
+[Copyright 1988 Ed., s. 140G]

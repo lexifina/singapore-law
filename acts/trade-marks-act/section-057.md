@@ -15,6 +15,8 @@ Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
 
 (3) The provisions of this section as to emblems of an international organisation apply equally to anything which from a heraldic point of view imitates any such emblem.
 
-(4) Where by virtue of this section the authorisation of an interna- tional organisation is or would be required for the registration of a trade mark, that organisation is entitled to restrain by injunction any use in the course of trade of the trade mark in Singapore without its authorisation.
+(4) Where by virtue of this section the authorisation of an international organisation is or would be required for the registration of a trade mark, that organisation is entitled to restrain by injunction any use in the course of trade of the trade mark in Singapore without its authorisation.
 
 (5) Nothing in this section shall affect the rights of a person whose bona fide use of the trade mark in question began before 23rd February 1995 (when the relevant provisions of the Paris Convention entered into force in relation to Singapore).
+
+[UK Trade Marks Act 1994, s. 58]

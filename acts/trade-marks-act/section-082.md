@@ -1,13 +1,27 @@
 # 82. Restriction of importation of infringing goods
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
-(1) A person may give the Director-General a written notice stating —
+(1) A person who is the proprietor or a licensee of a registered trade mark may give the Director-General a written notice —
 
-(a) that he is the proprietor of a registered trade mark or a licensee thereof having the power to give such a notice;
+(a) stating that he is —
 
-(b) that, at a time and place specified in the notice, goods which, in relation to the registered trade mark, are infringing goods are expected to be imported for the purpose of trade; and
+(i) the proprietor of the registered trade mark; or
 
-(c) that he objects to such importation.
+(ii) a licensee thereof having the power to give such a notice;
+
+(b) stating that goods which, in relation to the registered trade mark, are infringing goods are expected to be imported;
+
+(c) providing sufficient information —
+
+(i) to identify the goods;
+
+(ii) to enable the Director-General to ascertain when and where the goods are expected to be imported; and
+
+(iii) to satisfy the Director-General that the goods are infringing goods; and
+
+(d) stating that he objects to such importation.
+
+[20/2004]
 
 (2) A notice given under subsection (1) shall be supported by such documents and information, and accompanied by such fee, as may be prescribed by rules made under this Act.
 
@@ -23,7 +37,7 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 
 (b) the notice has not lapsed or been revoked; and
 
-(c) a person imports goods, not being goods in transit, which bear a sign that, or whose packaging bear a sign that, in the opinion of an authorised officer, is identical with or similar to the registered trade mark in question, an authorised officer may seize the goods.
+(c) a person imports goods, not being goods in transit, which bear a sign that, or whose packaging bears a sign that, in the opinion of an authorised officer, is identical with or similar to the registered trade mark in question, an authorised officer may seize the goods.
 
 (5) The Minister may make rules to provide for —
 
@@ -32,3 +46,5 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 (b) the times at which, and the manner in which, notices are to be given; and
 
 (c) the giving of information and evidence to the Director- General.
+
+[Copyright 1988 Ed., s. 140B]

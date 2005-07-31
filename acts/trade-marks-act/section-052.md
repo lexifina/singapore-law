@@ -7,8 +7,12 @@ Part: PART VI OFFENCES
 
 (a) imports into Singapore for the purpose of trade or manufacture;
 
-(b) sells or exposes for sale; or
+(b) sells or offers or exposes for sale; or
 
 (c) has in his possession for the purpose of trade or manufacture, any goods or things to which a trade mark bearing any representation prohibited by subsection (1) is applied shall be guilty of an offence.
 
+[20/2004]
+
 (3) Any person guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both, and shall forfeit to the Government any goods or things to which the trade mark bearing the prohibited representation is applied.
+
+[Trade Marks 1992 Ed., s. 74]

@@ -13,4 +13,6 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (b) section 12 again applies in relation to the application.
 
+[Aust. Trade Marks Act 1995, s. 38]
+
 Series of trade marks

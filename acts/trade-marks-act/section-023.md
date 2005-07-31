@@ -7,9 +7,17 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (3) The registration of a trade mark may be declared invalid on the ground —
 
-(a) that there is an earlier trade mark in relation to which the conditions set out in section 8 (1), (2) or (3) apply; or
+(a) that there is an earlier trade mark in relation to which —
 
-(b) that there is an earlier right in relation to which the condition set out in section 8 (4) is satisfied, unless the proprietor of that earlier trade mark or other earlier right has consented to the registration.
+(i) the conditions set out in section 8 (1) or (2) apply;
+
+(ii) where the trade mark has been registered pursuant to an application for registration of the trade mark made before 1st July 2004, the conditions set out in section 8 (3) apply; or
+
+(iii) where the trade mark has been registered pursuant to an application for registration of the trade mark made on or after 1st July 2004, the conditions set out in section 8 (4) apply; or
+
+(b) that there is an earlier right in relation to which the condition set out in section 8 (7) is satisfied, unless the proprietor of that earlier trade mark or other earlier right has consented to the registration.
+
+[20/2004]
 
 (4) The registration of a trade mark may be declared invalid on the ground of fraud in the registration or that the registration was obtained by misrepresentation.
 
@@ -19,12 +27,32 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (b) if in any other case the application is made to the Registrar, he may at any stage of the proceedings refer the application to the Court.
 
-(6) An application for a declaration of invalidity of the registration of a trade mark on the basis that it was in breach of section 7 (7) shall not be made after the expiry of 5 years from —
+(6) An application for a declaration of invalidity of the registration of a trade mark on the ground that it was in breach of section 7 (7) shall not be made after the expiry of 5 years from —
 
-(a) the date of registration of the trade mark; or
+(a) the date of completion of the registration procedure; or
 
-(b) the date on which use of the trade mark by the person who applied for its registration or his predecessor in title has become generally known in Singapore, whichever is the earlier, unless the applicant shows to the satisfaction of the Registrar that the registration of the trade mark was applied for in bad faith.
+(b) the date on which use of the trade mark by the person who applied for its registration or his predecessor in title has become generally known in Singapore, whichever is the earlier, unless the applicant shows that the registration of the trade mark was applied for in bad faith.
 
-(7) Where the ground of invalidity exists in respect of only some of the goods or services for which the trade mark is registered, the trade mark shall be declared invalid as regards those goods or services only.
+[20/2004]
 
-(8) Where the registration of a trade mark is declared invalid to any extent, the registration shall to that extent be deemed never to have been made, but this shall not affect transactions past and closed.
+(7) An application for a declaration of invalidity of the registration of a trade mark on the ground that there is an earlier trade mark in relation to which the conditions set out in section 8 (3) or (4) apply —
+
+(a) shall not be made after the expiry of 5 years from 1st July 2004 or the date of completion of the registration procedure, whichever is the later, unless the applicant for the declaration shows that —
+
+(i) the registration of the later trade mark was applied for in bad faith; or
+
+(ii) the later trade mark was never used; and
+
+(b) shall not be granted if the registration of the later trade mark was applied for before the earlier trade mark became well known in Singapore, unless the applicant for the declaration shows that the registration of the later trade mark was applied for in bad faith.
+
+[20/2004]
+
+(8) In deciding whether the registration of the later trade mark was applied for in bad faith, it shall be relevant to consider whether the applicant for the registration of the later trade mark had, at the time his application was made, knowledge of, or reason to know of, the earlier trade mark.
+
+[20/2004]
+
+(9) Where the ground of invalidity exists in respect of only some of the goods or services for which the trade mark is registered, the trade mark shall be declared invalid as regards those goods or services only.
+
+(10) Where the registration of a trade mark is declared invalid to any extent, the registration shall to that extent be deemed never to have been made, but this shall not affect transactions past and closed.
+
+[UK Trade Marks Act 1994, s. 47; TRIPS Art. 24.7]

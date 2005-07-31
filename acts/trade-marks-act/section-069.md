@@ -8,3 +8,5 @@ Part: PART IX ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
 (3) A party desirous to obtain costs or to have the costs taxed must apply to the Registrar in accordance with the rules.
 
 (4) If a party is ordered to pay the costs of another party, the costs may be recovered in a court of competent jurisdiction as a debt due by the first party to the other party.
+
+[Aust. Trade Marks Act 1995, s. 221]

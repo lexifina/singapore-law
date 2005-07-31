@@ -13,4 +13,6 @@ any person who applies for an uncertified copy or extract shall be entitled to s
 
 (5) In this section, ‘‘certified copy’’ and ‘‘certified extract’’ mean a copy and extract certified by the Registrar and sealed with the seal of the Registrar.
 
+[Aust. Trade Marks Act 1995, s. 209]
+
 Powers and duties of Registrar

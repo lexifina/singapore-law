@@ -7,4 +7,6 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (3) The Minister may make rules for the publication of any such alteration and the making of objections by any person claiming to be affected by it.
 
+[UK Trade Marks Act 1994, s. 44]
+
 Cancellation, revocation and invalidity

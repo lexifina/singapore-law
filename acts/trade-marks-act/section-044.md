@@ -24,3 +24,5 @@ Part: PART V LICENSING
 (9) The Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of licensees.
 
 (10) The provisions of this section shall apply in relation to an exclusive licensee if or to the extent that he has, by virtue of section 45 (1), the rights and remedies of an assignee as if he were the proprietor of the registered trade mark.
+
+[UK Trade Marks Act 1994, s. 30]

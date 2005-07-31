@@ -18,3 +18,5 @@ Part: PART IV REGISTERED TRADE MARK AS OBJECT OF PROPERTY
 (d) an order of the Court or other competent authority transferring an application for registration of a trade mark or any right in or under it.
 
 (5) Until the notice referred to in subsection (3) has been given to the Registrar, the transaction is ineffective as against a person acquiring a conflicting interest in or under the application for registration of the trade mark in ignorance of it.
+
+[UK Trade Marks Act 1994, s. 27]

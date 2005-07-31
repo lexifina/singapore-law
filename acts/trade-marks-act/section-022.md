@@ -17,28 +17,18 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (4) Any commencement or resumption of use referred to in subsection (3) after the expiry of the 5 year period but within the period of 3 months before the making of the application for revocation shall be disregarded unless preparations for the commencement or resumption began before the proprietor became aware that the application might be made.
 
-(5) The registration of —
-
-(a) a trade mark which consists of a geographical indication; or
-
-(b) that part of a trade mark which is a geographical indication, may be revoked if the geographical indication —
-
-(i) is not protected;
-
-(ii) has ceased to be protected; or
-
-(iii) has fallen into disuse, in its country of origin.
-
-(6) An application for revocation may be made by any person, and may be made either to the Registrar or to the Court, except that —
+(5) An application for revocation may be made by any person, and may be made either to the Registrar or to the Court, except that —
 
 (a) if proceedings concerning the trade mark in question are pending in the Court, the application must be made to the Court; and
 
 (b) if in any other case the application is made to the Registrar, he may at any stage of the proceedings refer the application to the Court.
 
-(7) Where grounds for revocation exist in respect of only some of the goods or services for which the trade mark is registered, revocation shall relate to those goods or services only.
+(6) Where grounds for revocation exist in respect of only some of the goods or services for which the trade mark is registered, revocation shall relate to those goods or services only.
 
-(8) Where the registration of a trade mark is revoked to any extent, the rights of the proprietor shall be deemed to have ceased to that extent as from —
+(7) Where the registration of a trade mark is revoked to any extent, the rights of the proprietor shall be deemed to have ceased to that extent as from —
 
 (a) the date of the application for revocation; or
 
 (b) if the Registrar or the Court is satisfied that the grounds for revocation existed at an earlier date, that date.
+
+[UK Trade Marks Act 1994, s. 46]

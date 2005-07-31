@@ -14,3 +14,5 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 (c) obvious mistakes, and then only where the correction does not substantially affect the identity of the trade mark or extend the goods or services covered by the application.
 
 (4) The Minister may make rules for the publication of any amendment which affects the representation of the trade mark, or the goods or services covered by the application, and for the making of objections by any person claiming to be affected by it.
+
+[UK Trade Marks Act 1994, s. 39]

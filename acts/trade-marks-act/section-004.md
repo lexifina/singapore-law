@@ -5,4 +5,6 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (2) No proceedings shall lie to prevent or recover damages for the infringement of an unregistered trade mark as such; but nothing in this Act shall affect the law relating to passing off or rights under the Geographical Indications Act (Cap. 117B).
 
+[UK Trade Marks Act 1994, s. 2; Trade Marks 1992 Ed., s. 49, 53]
+
 Application for registration of trade mark

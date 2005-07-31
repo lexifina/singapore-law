@@ -23,6 +23,6 @@ Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
 
 (a) the state emblems and official signs or hallmarks; and
 
-(b) the emblems, abbreviations and names of international organisations, which are for the time being protected under the Paris Convention or the TRIPS Agreement by virtue of a notification under Article 6ter
+(b) the emblems, abbreviations and names of international organisations, which are for the time being protected under the Paris Convention or the TRIPS Agreement by virtue of a notification under Article 6ter (3) of that Convention or under that Article as applied by the TRIPS Agreement.
 
-(3) of that Convention or under that Article as applied by the TRIPS Agreement.
+[UK Trade Marks Act 1994, s. 59]

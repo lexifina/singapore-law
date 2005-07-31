@@ -7,9 +7,7 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (b) the importation of goods to which, or to the packaging of which, the mark has been applied; or
 
-(c) the supply of services under the mark,
-
-any aggrieved person may bring proceedings for relief under this section.
+(c) the supply of services under the mark, any aggrieved person may bring proceedings for relief under this section.
 
 (2) The relief which may be applied for is any of the following:
 
@@ -24,3 +22,9 @@ any aggrieved person may bring proceedings for relief under this section.
 (4) If the defendant showed that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned, the plaintiff is nevertheless entitled to relief if he shows that the registration of the trade mark is invalid or liable to be revoked in a relevant respect.
 
 (5) The mere notification that a trade mark is registered, or that an application for registration has been made, does not constitute a threat of proceedings for the purposes of this section.
+
+(6) Nothing in this section shall render an advocate and solicitor liable to an action under this section in respect of an act done by him in his professional capacity on behalf of a client.
+
+[UK Trade Marks Act 1994, s. 21]
+
+[28/2000]

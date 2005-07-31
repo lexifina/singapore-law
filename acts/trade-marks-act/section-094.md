@@ -1,7 +1,9 @@
 # 94. Powers of search in relation to vessels, aircraft and vehicles
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
-(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for goods liable to be seized under section 82.
+(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for goods liable to be seized under section 82 or detained under section 93A.
+
+[20/2004]
 
 (2) For the more effective exercise of the powers conferred by this section, a senior authorised officer may do all or any of the following:
 
@@ -36,3 +38,5 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 (6) Any person who contravenes this section or who fails to comply with any lawful requisition or direction given or made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (7) An authorised officer may exercise the powers conferred by this section in respect of a vessel under way if he reasonably suspects that it is not in transit through Singapore.
+
+[Copyright 1988 Ed., s. 140M]

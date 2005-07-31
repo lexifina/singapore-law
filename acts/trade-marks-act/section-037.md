@@ -15,10 +15,10 @@ Part: PART IV REGISTERED TRADE MARK AS OBJECT OF PROPERTY
 
 (5) Infringement proceedings may be brought by any co-proprietor, but he may not, without the leave of the Court, proceed with the action unless the other, or each of the others, is either joined as a plaintiff or added as a defendant.
 
-(6) A co-proprietor who is added as a defendant under subsection
-
-(5) shall not be made liable for any costs in the action unless he takes part in the proceedings.
+(6) A co-proprietor who is added as a defendant under subsection (5) shall not be made liable for any costs in the action unless he takes part in the proceedings.
 
 (7) Nothing in subsection (5) shall affect the granting of interlocutory relief on the application of a single co-proprietor.
 
 (8) Nothing in this section affects the mutual rights and obligations of trustees or personal representatives, or their rights and obligations as such.
+
+[UK Trade Marks Act 1994, s. 23; Patents 1995 Ed., ss. 46, 73]

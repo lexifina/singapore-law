@@ -9,6 +9,8 @@ Part: PART VIII COLLECTIVE MARKS AND CERTIFICATION MARKS
 
 (2) The provision of this Act shall apply to certification marks subject to the provisions of the Second Schedule.
 
+[UK Trade Marks Act 1994, s. 50; Aust. Trade Marks Act 1995, s. 169]
+
 PART IX
 
 ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar

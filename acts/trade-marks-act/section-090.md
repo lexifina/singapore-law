@@ -1,5 +1,5 @@
 # 90. Actions for infringement of registered trade mark
-Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
+Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
 
 (1) The Court in which an infringement action is pending may, on the application of a person having a sufficient interest in the subject-matter of the action, allow the person to be joined as a defendant to the action.
 
@@ -22,3 +22,5 @@ Part: PART X IMPORTATION OF INFRINGING GOODS Border enforcement measures
 (a) the action is dismissed or discontinued, or if the Court decides that the relevant registered trade mark was not infringed by the importation of the seized goods; and
 
 (b) a defendant to the infringement action satisfies the Court that he has suffered loss or damage as a result of the seizure of the goods, the Court may order the objector to pay compensation in such amount as the Court thinks fit to that defendant.
+
+[Copyright 1988 Ed., s. 140I]
