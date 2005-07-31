@@ -23,3 +23,5 @@ Division: Division 6 — Surrender and Revocation of Registration
 (b) in the case of a revocation under subsection (2), from the date on which the right in the registered design expired.
 
 (7) The Minister may make rules to provide for revocation proceedings before the Registrar and for matters relating thereto.
+
+[UK Designs 1949, s. 11; Trade Marks 1999 Ed., s. 22]

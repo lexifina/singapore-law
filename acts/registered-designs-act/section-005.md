@@ -11,3 +11,5 @@ Division: Division 2 — Registrable Designs
 (b) published in Singapore or elsewhere in respect of the same or any other article before the date of the first-mentioned application, or if it differs from such a design only in immaterial details or in features which are variants commonly used in the trade.
 
 (3) The Registrar may, in such cases as may be prescribed, direct that, for the purpose of deciding whether a design is new, an application for registration of the design shall be treated as filed on a date earlier or later than that on which it was in fact filed.
+
+[UK Designs 1949, ss. 1 and 3]

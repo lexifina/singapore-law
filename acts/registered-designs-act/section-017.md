@@ -11,3 +11,5 @@ Division: Division 3 — Proceedings for Registration
 (2) The Registrar may refuse an application for registration of a design if, on the face of the application, the design is not new or is not registrable for any other reason.
 
 (3) The Registrar shall give notice of any refusal under this section to the applicant.
+
+[HK Designs, s. 26]

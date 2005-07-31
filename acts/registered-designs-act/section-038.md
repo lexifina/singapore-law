@@ -8,4 +8,8 @@ Division: Division 3 — Infringement Proceedings
 
 (3) In ordering an account of profits in any infringement proceedings taken by an exclusive licensee, the Court may take into consideration only the profits derived from the infringement which are attributable to the infringement of the exclusive licensee’s rights.
 
-(4) In any infringement proceedings taken by an exclusive licensee, the registered owner shall be made a party to the proceedings, but if the registered owner is made a defendant he shall not be liable for any costs or expenses unless he takes part in the proceedings.
+(4) In any infringement proceedings taken by an exclusive licensee, the registered owner need not be made a party to the proceedings, but if the registered owner is made a defendant he shall not be liable for any costs or expenses unless he takes part in the proceedings.
+
+[HK Designs, s. 50; Patents 2002 Ed., s. 74]
+
+[21/2004]

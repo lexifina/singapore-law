@@ -14,25 +14,27 @@ Preliminary
 
 ‘‘UK Act’’ means the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), as amended and as applied to Singapore by the United Kingdom Designs (Protection) Act (Cap. 339, 1985 Ed.);
 
-THE SCHEDULE — continued
-
 ‘‘UK Register’’ means the register of designs maintained under section 17 of the UK Act.
 
 (2) Unless the context otherwise requires, any word or expression used in this Schedule and defined in the UK Act has the same meaning as in that Act.
 
-(3) For the purposes of this Schedule and the avoidance of doubt, the date of registration of a design under the UK Act shall be determined in accordance with section 3 (5) of the UK Act.
+(3) For the purposes of this Schedule and the avoidance of doubt, the date of registration of a design under the UK Act shall be determined in accordance with *section 3 (5) of the UK Act.
 
 Relevant Designs
 
 2.—(1) A design registered under the UK Act before 13th November 2000 shall be deemed to be a registered design for the purposes of this Act in respect of the article for which it is registered under the UK Act if the registration has not expired or been cancelled on 13th November 2000.
 
-(2) For the avoidance of doubt, the reference in sub-paragraph (1) to a design registered under the UK Act before 13th November 2000 includes a reference to a design registered under the UK Act the date of registration of which is deemed, under section 3 (5) of the UK Act, to be a date before 13th November 2000.
+(2) For the avoidance of doubt, the reference in sub-paragraph (1) to a design registered under the UK Act before 13th November 2000 includes a reference to a design registered under the UK Act the date of registration of which is deemed, under *section 3 (5) of the UK Act, to be a date before 13th November 2000.
 
 (3) The registration of a design that is deemed to be a registered design under sub-paragraph (1) shall be for an initial period that ends on the earlier of —
 
 (a) the date of expiry of the period for which the right in the design is subsisting on 13th November 2000, if the period may not be extended under section 8 (2) of the UK Act; or
 
 (b) the date the period falls due for extension, if the period may be extended under that section.
+
+*Section 3 (5) of the UK Act is the section in force as of the date of operation of the Singapore Registered Designs Act (13th November 2000).
+
+THE SCHEDULE — continued
 
 Extension of Registration
 
@@ -47,8 +49,6 @@ Extension of Registration
 (b) a certified extract confirming registration of the design issued by the Registrar of the United Kingdom Designs Registry;
 
 (c) such particulars of transactions affecting rights in the design for the time being entered in the UK Register as the Registrar may require;
-
-THE SCHEDULE — continued
 
 (d) such other information, documents or matters as may be required by the rules; and
 
@@ -70,9 +70,11 @@ THE SCHEDULE — continued
 
 (a) the form and manner of filing of an application for the extension of the period of registration of a relevant design, including the documents and information to be furnished by an applicant in support of his application;
 
-(b) the publication of any such renewal;
+(b) the publication of any such renewal; and
 
-(c) the right to inspect documents filed in support of an application for the extension of the period of registration of a relevant design, or to request for information relating to such application or the design concerned, and the conditions for the exercise of such a right, including any fee for the inspection or information.
+(c) the right to inspect documents filed in support of an application for the extension of the period of registration of a relevant design, or to request for information relating to such application or the design concerned, and THE SCHEDULE — continued
+
+the conditions for the exercise of such a right, including any fee for the inspection or information.
 
 Application of Act to Relevant Designs
 
@@ -86,11 +88,9 @@ Application of Act to Relevant Designs
 
 (b) the date of registration of a relevant design shall be the date of its registration under the UK Act.
 
-THE SCHEDULE — continued
-
 5. A reference in section 5 (2) to a design registered in pursuance of a prior application shall be construed as including a reference to a relevant design that is registered under the UK Act in pursuance of a prior application under that Act.
 
-6.—(1) An application under section 23, 26 or 27 may be made in relation to a relevant design only after the expiry of the initial period of registration of the design and the grant of an application referred to in paragraph 3 (2) in relation to the design.
+6.—(1) An application under section 23 or 27, or a surrender of registration under section 26, may be made in relation to a relevant design only after the expiry of the initial period of registration of the design and the grant of an application referred to in paragraph 3 (2) in relation to the design.
 
 (2) Any cancellation of the registration under the UK Act of a relevant design pursuant to section 11 of that Act, that is carried out —
 
@@ -104,7 +104,9 @@ THE SCHEDULE — continued
 
 (a) give the person making the request such information; and
 
-(b) permit him to inspect such documents, relating to the application for renewal of the design concerned (including any representation or sample of the design) as may be specified in the request, subject, however, to such conditions as may be prescribed.
+(b) permit him to inspect such documents, THE SCHEDULE — continued
+
+relating to the application for renewal of the design concerned (including any representation or sample of the design) as may be specified in the request, subject, however, to such conditions as may be prescribed.
 
 (3) Rules may be made empowering the Registrar to refuse any request in respect of such information or documents as may be prescribed.
 
@@ -113,8 +115,6 @@ THE SCHEDULE — continued
 (2) An application for registration under section 19 of the UK Act in respect of a registrable transaction in relation to a relevant design, being an application made at any time before the end of the initial period of registration of the design, shall, for the purposes of section 34, be treated as an application under that section for the registration of the particulars of that transaction and shall have the same force and effect as such an application.
 
 (3) For the purposes of this paragraph, ‘‘registrable transaction’’ has the meaning given to that expression in section 34 (2).
-
-THE SCHEDULE — continued
 
 9.—(1) An application under section 54 for the rectification of the Register in relation to a relevant design may be made only after the expiry of the initial period of registration of the design and the grant of an application referred to in paragraph 3 (2) in relation to the design.
 

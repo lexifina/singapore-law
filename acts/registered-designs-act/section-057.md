@@ -11,3 +11,5 @@ Division: Division 3 — Powers of Registrar
 (4) The Registrar shall not be obliged to correct on his own initiative any error not due to the default of the Registrar.
 
 (5) Where the Registrar proposes to make any correction on his own initiative, he shall give notice of the proposal to every person who appears to him to be likely to be affected by the correction, and shall give him an opportunity to be heard before making the correction.
+
+[UK Designs 1949, s. 21]

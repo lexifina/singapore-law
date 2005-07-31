@@ -14,3 +14,5 @@ In relation to any use of a registered design, or a design in respect of which a
 (A) restrict or regulate the use of the design or any model, document or information relating to it; or
 
 (B) provide for the making of payments in respect of, or calculated by reference to, such use.
+
+[UK Designs 1949, Sch. 1 Para 2]

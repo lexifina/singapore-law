@@ -12,4 +12,6 @@ Subject to section 17, if the Registrar determines that an application for regis
 
 (d) publish a notice of the registration and a representation of the design in the prescribed manner.
 
+[HK Designs, s. 25]
+
 [26/2001]

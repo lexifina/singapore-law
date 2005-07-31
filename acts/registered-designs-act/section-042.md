@@ -7,3 +7,5 @@ A declaration that an act does not, or a proposed act would not, constitute an i
 (a) that person has applied in writing to the registered owner for a written acknowledgment to the effect of the declaration claimed, and has furnished him with full particulars in writing of the act in question; and
 
 (b) the registered owner has refused or failed to give any such acknowledgment.
+
+[HK Designs, s. 55]

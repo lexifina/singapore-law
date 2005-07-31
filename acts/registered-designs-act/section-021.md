@@ -17,3 +17,5 @@ Division: Division 4 — Duration of Registration
 (b) an act which would have constituted an infringement of the design if the registration had not ceased to be in force shall be treated as an infringement; and
 
 (c) an act which would have constituted use of the design for the services of the Government under Part IV if the registration had not ceased to be in force shall be treated as such use.
+
+[UK Designs 1949, s. 8]

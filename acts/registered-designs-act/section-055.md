@@ -11,3 +11,5 @@ Division: Division 2 — Register
 (4) In relation to any portion of the Register kept otherwise than in documentary form, the right to a copy or an extract conferred by subsection (3) is a right to a copy or an extract in a form in which it can be taken away.
 
 (5) In this section, ‘‘certified copy’’ and ‘‘certified extract’’ mean a copy and an extract certified by the Registrar and sealed with the seal of the Registry.
+
+[Trade Marks 1999 Ed., s. 68]

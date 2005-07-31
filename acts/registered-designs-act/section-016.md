@@ -17,3 +17,5 @@ Division: Division 3 — Proceedings for Registration
 (4) Upon reinstatement of an application, any right or means of redress lost by the applicant as a result of the withdrawal shall be restored to him.
 
 (5) In this section and sections 17 and 18, ‘‘formal requirements’’ means those requirements of section 11, and of rules made for the purposes of that section, that are prescribed as formal requirements.
+
+[HK Designs, s. 24]

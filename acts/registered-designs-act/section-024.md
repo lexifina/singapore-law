@@ -25,3 +25,5 @@ Division: Division 5 — Proceedings for Determination of Rights in Registered D
 (a) order the grant of a licence on such terms and for such period as it considers reasonable; or
 
 (b) vary the period or terms of the licence.
+
+[HK Designs, s. 42; Patents 1995 Ed., s. 48]

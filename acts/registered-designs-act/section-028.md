@@ -17,3 +17,5 @@ Division: Division 7 — Miscellaneous
 (5) Where a person is notified that an application for registration of a design has been made and that the applicant will, if the design is registered, bring proceedings against that person in the event of his doing an act specified in the notification, that person may make a request under subsection (1).
 
 (6) The Registrar may grant the request under subsection (1) without the consent of the applicant, notwithstanding that the design has not been registered.
+
+[HK Designs, s. 70]

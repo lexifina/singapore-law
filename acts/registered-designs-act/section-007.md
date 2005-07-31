@@ -11,3 +11,5 @@ Division: Division 2 — Registrable Designs
 (a) to exclude from registration under this Act designs for such articles of a primarily literary or artistic character as the Minister considers appropriate; and
 
 (b) to provide that any design described in the rules shall not be registered under this Act, or shall not be so registered unless such conditions as may be prescribed are met.
+
+[UK Designs 1949, s. 1; HK Designs, s. 8]

@@ -29,3 +29,5 @@ Division: Division 5 — Proceedings for Determination of Rights in Registered D
 (a) the registered owner of the design; and
 
 (b) each person registered as having a right in the registered design who is not a party to the application.
+
+[HK Designs, s. 41; Patents 1995 Ed., s. 47]

@@ -9,3 +9,5 @@ Division: Division 2 — Registered Design as Object of Property
 (3) Subject to any agreement to the contrary, where there is more than one registered owner of a registered design, no registered owner shall, without the consent of each of the others, grant a licence for the use of the design or assign any interest in it.
 
 (4) Nothing in subsection (1) or (2) shall affect the mutual rights or obligations of trustees or personal representatives of a deceased person, or their rights or obligations as such.
+
+[HK Designs, s. 33]

@@ -8,4 +8,6 @@ Neither the Office nor the Registrar nor any person acting under his authority â
 
 (b) shall be subject to any liability by reason of, or in connection with, any examination required or authorised by this Act, or any such treaty, convention, arrangement or engagement, or any report or other proceedings consequent on such examination.
 
+[HK Designs, s. 74]
+
 [3/2001]

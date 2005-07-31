@@ -11,3 +11,5 @@ Division: Division 3 — Infringement Proceedings
 (b) the registered owner obtains a final order or judgment in his favour, the registered owner is entitled to his costs as between solicitor and client unless the Court directs otherwise.
 
 (3) Subsection (2) does not extend to the costs of an appeal in any such proceedings.
+
+[UK Designs 1949, s. 25]

@@ -8,3 +8,5 @@ Part: PART V ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS Division 1 — Re
 (3) There shall be one or more Assistant Registrars of Designs.
 
 (4) The Registrar and all the other officers under this section shall be appointed by the Minister.
+
+[Trade Marks 1999 Ed., s. 62]

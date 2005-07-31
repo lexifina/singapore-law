@@ -19,6 +19,10 @@ Part: PART I PRELIMINARY
 
 ‘‘Court’’ means the High Court;
 
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Aust. Designs 1906 : Australia Designs Act 1906 Copyright 1999 Ed. : Singapore Copyright Act (Chapter 63, 1999 Revised Edition) HK Designs : Hong Kong Registered Designs Ordinance (Chapter 522) Patents 1995 Ed. : Singapore Patents Act (Chapter 221, 1995 Revised Edition) Patents 2002 Ed. : Singapore Patents Act (Chapter 221, 2002 Revised Edition) Trade Marks 1999 Ed. : Singapore Trade Marks Act (Chapter 332, 1999 Revised Edition) UK Designs 1949 : UK Registered Designs Act 1949 (c. 88)
+
 ‘‘design’’ means features of shape, configuration, pattern or ornament applied to an article by any industrial process, but does not include —
 
 (a) a method or principle of construction; or
@@ -35,7 +39,7 @@ Part: PART I PRELIMINARY
 
 ‘‘exclusive licence’’ means a licence from the registered owner of a registered design authorising the licensee, or the licensee and persons authorised by him, to the exclusion of all other persons (including the registered owner), to use the design in the manner authorised by the licence and ‘‘exclusive licensee’’ shall be construed accordingly;
 
-‘‘Office’’ means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001 (Act 3 of 2001);
+‘‘Office’’ means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
 
 ‘‘owner’’ has the meaning assigned to it in section 4;
 
@@ -62,3 +66,7 @@ Part: PART I PRELIMINARY
 (b) any reference in this Act to an article in respect of which a design is registered shall, in the case of a design registered in respect of a set of articles, be construed as a reference to any article of that set; and
 
 (c) any reference to the infringement of a registered design shall be construed as a reference to the infringement of any right in the design conferred by this Act.
+
+[Copyright 1999 Ed., s. 73; Patents 1995 Ed., s. 2; Trade Marks 1999 Ed., s. 2;
+
+UK Designs 1949, ss. 1 and 44]

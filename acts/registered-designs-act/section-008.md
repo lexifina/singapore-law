@@ -23,3 +23,5 @@ Division: Division 2 — Registrable Designs
 (c) that a representation of the design has been published in consequence of any such display as is mentioned in paragraph (a), if the application for registration of the design is made no later than 6 months after the opening of the exhibition.
 
 (3) In this section, ‘‘official international exhibition’’ means an official, or officially recognised, international exhibition falling within the terms of the Convention on International Exhibitions signed at Paris on 22nd November 1928, and any protocols to that Convention, as revised or amended from time to time.
+
+[UK Designs 1949, s. 6; HK Designs, s. 9]

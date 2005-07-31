@@ -2,8 +2,34 @@
 Part: PART V ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS Division 1 — Registrar
 Division: Division 4 — Hours of Business of Registry
 
-(1) The Minister may make rules to specify the hours at which the Registry shall be taken to be closed on any day for the purposes of the transaction by the public of a business under this Act or of any class of such business, and may specify days as excluded days for any such purposes.
+(1) The Registrar may issue practice directions to specify —
 
-(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
+(a) the hours of business of the Registry; and
 
-(3) Where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
+(b) the days which are to be treated as excluded days.
+
+[44/2004]
+
+(2) The Minister may prescribe the effect of doing any business under this Act —
+
+(a) on any day after the hours of business of the Registry; or
+
+(b) on any day which is an excluded day.
+
+[44/2004]
+
+(3) For the purposes of subsections (1) and (2) —
+
+(a) different hours of business may be specified for different classes of business;
+
+(b) different excluded days may be specified for different classes of business; and
+
+(c) different effects of doing business —
+
+(i) outside the hours of business of the Registry; or
+
+(ii) on an excluded day, may be prescribed for different classes of business.
+
+[Trade Marks 1999 Ed., s. 78]
+
+[44/2004]

@@ -42,6 +42,8 @@ Division: Division 7 — Miscellaneous
 
 (7) Nothing in this section shall prevent the disclosure of information concerning a design to a Government department or authority for the purpose of obtaining advice as to whether the directions under this section with respect to an application for registration of that design should be made, amended or revoked.
 
+[UK Designs 1949, s. 5; Patents 1995 Ed., s. 33]
+
 PART III
 
 RIGHTS IN REGISTERED DESIGNS Division 1 — Rights of Registered Owner of Registered Design

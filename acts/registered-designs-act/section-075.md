@@ -16,5 +16,3 @@ Part: PART VII MISCELLANEOUS AND GENERAL PROVISIONS
 (a) any claim that section 8, 9 or 10 applies in relation to the application;
 
 (b) any claim to a right of priority under section 12 or 13.
-
-[73

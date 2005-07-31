@@ -15,3 +15,5 @@ Division: Division 2 — Register
 (b) an entry varied has effect as if it had originally been made in its varied form; and
 
 (c) an entry deleted shall be deemed never to have had effect, unless, in any case, the Court directs otherwise.
+
+[UK Designs 1949, s. 20]

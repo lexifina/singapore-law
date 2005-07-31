@@ -36,3 +36,5 @@ Part: PART IV GOVERNMENT USE OF REGISTERED DESIGNS
 (5) The purchaser of any articles sold in the exercise of powers conferred by subsection (1), and any person claiming through him, shall have the power to deal with the articles as if the rights in the registered design were held on behalf of the Government.
 
 (6) Notwithstanding any provision in any other written law, the reproduction or publication of any model or document in connection with any use of a design made by virtue of subsection (1) shall be deemed not to constitute an infringement of any copyright subsisting in the document by virtue of the Copyright Act (Cap. 63) or any right subsisting in a layout-design by virtue of the Layout-Designs of Integrated Circuits Act (Cap. 159A).
+
+[Patents 1995 Ed., s. 65; UK Designs 1949, Sch. 1 Paras 1 and 2]

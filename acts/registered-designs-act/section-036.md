@@ -11,3 +11,5 @@ Division: Division 3 — Infringement Proceedings
 (b) either damages or an account of profits.
 
 (3) Subject to the provisions of this Act, no proceedings shall be taken for an infringement of a registered design committed before the date on which the certificate of registration of the design is issued under section 18.
+
+[HK Designs, s. 48; Trade Marks 1999 Ed., s. 31]

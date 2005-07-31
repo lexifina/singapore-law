@@ -35,10 +35,14 @@ Part: PART VII MISCELLANEOUS AND GENERAL PROVISIONS
 
 (j) prescribing time limits for doing anything required to be done in connection with any proceedings or matters under this Act;
 
-(k) providing for the extension of any time limit so prescribed or specified by the Registrar, whether or not it has already expired; and
+(k) providing for the extension of any time limit so prescribed or specified by the Registrar, whether or not it has already expired;
 
-(l) providing for the publication and sale of documents by the Registry and of information about such documents.
+(l) providing for the publication of the practice directions issued by the Registrar;
+
+(m) providing for the publication of the forms to be used for any purpose relating to the registration of a design or any other proceedings or matters before the Registrar; and
+
+(n) providing for the publication and sale of documents by the Registry and of information about such documents.
+
+[44/2004]
 
 (3) Rules made under this section may make different provisions for different cases.
-
-[72

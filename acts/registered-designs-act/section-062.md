@@ -7,3 +7,5 @@ Division: Division 3 — Powers of Registrar
 (2) Any appeal under this Act which concerns an application for registration of a design shall be heard in camera unless the Court otherwise directs.
 
 (3) In this section, ‘‘decision’’ includes any act of the Registrar done in the exercise of a discretion vested in him by or under this Act.
+
+[HK Designs, s. 58]

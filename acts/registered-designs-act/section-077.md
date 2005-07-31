@@ -6,5 +6,3 @@ Part: PART VII MISCELLANEOUS AND GENERAL PROVISIONS
 (2) The Minister may, by order published in the Gazette, amend the provisions of the Schedule.
 
 (3) The Minister may by rules make such transitional provisions in relation to the Copyright Act (Cap. 63) as he may consider necessary or expedient.
-
-[75

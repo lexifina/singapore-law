@@ -27,3 +27,5 @@ Division: Division 3 — Infringement Proceedings
 (6) Where there is more than one person interested in the article or thing, the Court may direct that the article or thing be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as the Court thinks just.
 
 (7) If the Court decides that no order should be made under this section, the person in whose possession the article or thing was before being delivered up is entitled to its return.
+
+[Trade Marks 1999 Ed., s. 34]

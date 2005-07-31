@@ -9,3 +9,5 @@ Division: Division 3 — Proceedings for Registration
 (3) The Registrar shall not be obliged to correct on his own initiative any error not due to the default of the Registrar.
 
 (4) Where the Registrar proposes to make any amendment on his own initiative, he shall give notice of the proposal to every person who appears to him to be likely to be affected by the amendment, and shall give the person an opportunity to be heard before making the amendment.
+
+[UK Designs 1949, s. 21; Aust. Designs 1906, s. 22B]

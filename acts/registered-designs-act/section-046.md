@@ -10,3 +10,5 @@ Part: PART IV GOVERNMENT USE OF REGISTERED DESIGNS
 (b) in default of such agreement, as may be determined by the Court on a reference under section 48.
 
 (3) Where a design has been made use of under this section, the Government, unless it appears to the Government that it would be contrary to the public interest to do so, shall inform the registered owner as soon as possible of the fact and furnish him with such information as to the use made of the design as he from time to time reasonably requires.
+
+[UK Designs 1949, Sch. 1 Para 1]

@@ -19,3 +19,5 @@ Division: Division 2 — Register
 (4) The Register may be kept in whole or in part using a computer.
 
 (5) Any record of a particular or other matter made by using a computer for the purpose of keeping the Register is taken to be an entry in the Register.
+
+[UK Designs 1949, s. 17; Trade Marks 1999 Ed., s. 66]

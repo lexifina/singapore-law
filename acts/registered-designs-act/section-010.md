@@ -15,3 +15,5 @@ Division: Division 2 — Registrable Designs
 (a) the design has been previously registered by another person in respect of some other article; or
 
 (b) the design to which the application relates is a design previously registered by another person in respect of the same or some other article with modifications or variations not sufficient to alter the character or substantially to affect the identity of the registered design, then, if at any time while the application is pending, the applicant becomes the registered owner of the design previously registered, subsection (1) shall apply as if, at the time of filing the application, the applicant had been the registered owner of that design.
+
+[UK Designs 1949, s. 4]

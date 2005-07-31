@@ -10,4 +10,6 @@ Division: Division 4 — Duration of Registration
 
 (2) Notwithstanding section 21, the period of registration of a design registered by virtue of section 10 (1) shall not extend beyond the end of the period of registration, and any extended period of registration, of the original registered design.
 
+[UK Designs 1949, s. 8]
+
 Division 5 — Proceedings for Determination of Rights in Registered Designs

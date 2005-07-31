@@ -9,3 +9,5 @@ The Registrar, in determining whether to accept an application for registration 
 (b) whether the applicant is entitled to any right of priority claimed in the application; or
 
 (c) whether the design is properly represented in the application.
+
+[HK Designs, s. 27]

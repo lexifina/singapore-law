@@ -11,3 +11,5 @@ Division: Division 2 — Registrable Designs
 (b) a design differing from it only in immaterial details or in features which are variants commonly used in the trade, and that previous use was made by or with the consent of the copyright owner.
 
 (3) The Minister may make rules to provide for the circumstances in which a design is to be regarded as having been applied industrially to articles or any description of articles for the purposes of this section.
+
+[HK Designs, s. 10]

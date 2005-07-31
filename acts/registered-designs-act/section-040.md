@@ -4,9 +4,9 @@ Division: Division 3 — Infringement Proceedings
 
 (1) Where the defendant to proceedings for infringement of a registered design has in his possession —
 
-(a) any infringing articles in relation to that design; or
+(a) any infringing article in relation to that design; or
 
-(b) anything predominantly used for the making of infringing articles, which the defendant knows or has reason to believe has been or is to be used to make infringing articles, the Court may, in addition to any relief granted under section 36, order the articles or thing to be delivered to the plaintiff.
+(b) anything predominantly used for the making of infringing articles, which the defendant knows or has reason to believe has been or is to be used to make infringing articles, the Court may, in addition to any relief granted under section 36, order the article or thing to be delivered to the plaintiff.
 
 (2) No order shall be made under this section unless the Court also makes, or it appears to the Court that there are grounds for making, an order under section 41.
 
@@ -19,3 +19,5 @@ Division: Division 3 — Infringement Proceedings
 (b) the article is imported into Singapore in such a way as to infringe the design; or
 
 (c) the article is sold, let for hire, or offered or exposed for sale or hire in Singapore in such a way as to infringe the design.
+
+[Trade Marks 1999 Ed., s. 33]

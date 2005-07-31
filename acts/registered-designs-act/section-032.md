@@ -23,3 +23,5 @@ Division: Division 2 — Registered Design as Object of Property
 (8) Subsections (6) and (7) shall apply to an assignment by way of security as they apply to any other assignment.
 
 (9) An assignment of a registered design or any right in it, or an exclusive licence in relation to a registered design, may confer on the assignee or licensee the right of the assignor or licensor to bring proceedings under section 23 or 36.
+
+[HK Designs, s. 32]

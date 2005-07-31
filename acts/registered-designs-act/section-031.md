@@ -17,4 +17,6 @@ Part: PART III RIGHTS IN REGISTERED DESIGNS Division 1 — Rights of Registered 
 
 (4) Where an article is disposed of to another person in exercise of a right conferred by subsection (1), that other person and any person claiming through him may deal with the article in the same way as if it had been disposed of by the owner of the design concerned.
 
+[HK Designs, s. 35]
+
 Division 2 — Registered Design as Object of Property

@@ -9,3 +9,5 @@ Division: Division 6 — Surrender and Revocation of Registration
 (a) as to the manner and effect of a surrender; and
 
 (b) for protecting the interest of other persons having a right in the design.
+
+[HK Designs, s. 30]

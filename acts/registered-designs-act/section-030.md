@@ -40,3 +40,5 @@ or
 (6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) of the definition of ‘‘design’’ in section 2 (1), is left out of account in determining whether the design is registrable.
 
 (7) The right in a registered design is not infringed by the import, sale, hire, or offer or exposure for sale or hire of any article to which the design has been applied, and which has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner.
+
+[UK Designs 1949, s. 7; HK Designs, s. 31]

@@ -21,3 +21,5 @@ Division: Division 3 — Infringement Proceedings
 (4) For the purposes of this section, a notification that a design is registered does not of itself constitute a threat of proceedings within the meaning of this section.
 
 (5) Nothing in this section shall render an advocate and solicitor liable to an action under this section in respect of an act done by him in his professional capacity on behalf of a client.
+
+[UK Designs 1949, s. 26; HK Designs, s. 57]
