@@ -11,13 +11,13 @@ Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WO
 
 (iii) to perform the work in public;
 
-(iv) to broadcast the work;
+(iv) to communicate the work to the public;
 
-(v) to include the work in a cable programme;
+(v) to make an adaptation of the work;
 
-(vi) to make an adaptation of the work;
+(vi) to do, in relation to a work that is an adaptation of the first-mentioned work, any of the acts specified in relation to the first-mentioned work in sub-paragraphs
 
-(vii) to do, in relation to a work that is an adaptation of the first-mentioned work, any of the acts specified in relation to the first-mentioned work in sub- paragraphs (i) to (vi);
+(i) to (v);
 
 (b) in the case of an artistic work, to do all or any of the following acts:
 
@@ -25,13 +25,11 @@ Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WO
 
 (ii) to publish the work in Singapore or any country in relation to which this Act applies, if the work is unpublished;
 
-(iii) to include the work in a television broadcast;
-
-(iv) to include the work in a cable programme; and
+(iii) to communicate the work to the public; and
 
 (c) in the case of a computer program, to enter into a commercial rental arrangement in respect of the program unless the program is not the essential object of the rental.
 
-[6/98]
+[6/98; 52/2004]
 
 (2) Subsection (1) (c) shall not extend to entry into a commercial rental arrangement in respect of a machine or device in which a computer program is embodied if the program is not able to be copied in the course of the ordinary use of the machine or device.
 
@@ -50,3 +48,5 @@ Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WO
 (c) the program owner was conducting the same business, or another business that consisted of, or included, the making of commercial rental arrangements in respect of computer programs, when the copy was purchased.
 
 [6/98]
+
+[Aust. 1968, s. 31]

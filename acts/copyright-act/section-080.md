@@ -7,3 +7,5 @@ The reference in section 40 (2) to other extracts from, or from adaptations of, 
 (a) shall be read as including a reference to extracts from, or from adaptations of, works by the author of the extract concerned in collaboration with any other person; or
 
 (b) if the extract concerned is from, or from an adaptation of, a work of joint authorship — shall be read as including a reference to extracts from, or from adaptations of, works by any one or more of the authors of the extract concerned, or by any one or more of those authors in collaboration with any other person.
+
+[Aust. 1968, s. 83]

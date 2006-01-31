@@ -21,3 +21,5 @@ Division: Division 5 — Copying of Works in Libraries
 (4) Where a copy of an unpublished work is made under subsection (1) by or on behalf of the officer-in-charge of a library or archives for the purpose of research that is being, or is to be, carried out at another library or archives, the supply of the copy by or on behalf of the officer to the other library or archives does not, for any purpose of this Act, constitute publication of the work.
 
 [38/99]
+
+[Aust. 1968, s. 51A]

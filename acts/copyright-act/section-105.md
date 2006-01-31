@@ -1,6 +1,6 @@
 # 105. Infringement by sale and other dealings
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-matter other than Works
+Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
 
 (1) A copyright subsisting by virtue of this Part is infringed by a person who, in Singapore, and without the licence of the owner of the copyright —
 
@@ -13,3 +13,5 @@ Division: Division 6 — Infringement of Copyright in Subject-matter other than 
 (a) for the purpose of trade; or
 
 (b) for any other purpose to an extent that affects prejudicially the owner of the copyright concerned, shall be taken to be the sale of those articles.
+
+[Aust. 1968, s. 103]

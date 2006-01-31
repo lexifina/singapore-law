@@ -13,3 +13,5 @@ Division: Division 2 — Infringement of Copyright in Works
 (a) for the purpose of trade; or
 
 (b) for any other purpose to an extent that affects prejudicially the owner of the copyright concerned, shall be taken to be the sale of those articles.
+
+[Aust. 1968, s. 38]

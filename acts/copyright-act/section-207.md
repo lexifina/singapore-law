@@ -10,3 +10,5 @@ Part: PART XI TRANSITIONAL Division 1 — Preliminary
 (c) a reference in any other written law or in any contract, agreement or other instrument to the grant of an interest in copyright by licence shall be read, in relation to copyright under this Act, as a reference to the grant of a licence in respect of that copyright.
 
 (2) This section shall have effect unless the contrary intention appears in any other written law or in the contract, agreement or other instrument, as the case may be.
+
+[Aust. 1968, s. 206]

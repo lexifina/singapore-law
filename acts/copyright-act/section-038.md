@@ -8,4 +8,6 @@ The copyright in a literary, dramatic, musical or artistic work is not infringed
 
 (b) for the purpose of seeking professional advice from an advocate and solicitor; or
 
-(c) for the purpose of, or in the course of, the giving of profes- sional advice by an advocate and solicitor.
+(c) for the purpose of, or in the course of, the giving of professional advice by an advocate and solicitor.
+
+[Aust. 1968, s. 43]

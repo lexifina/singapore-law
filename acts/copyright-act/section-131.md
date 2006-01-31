@@ -11,3 +11,5 @@ Division: Division 4 — Proof of Facts in Copyright Proceedings
 (a) it is established that, at the time when the photograph was taken, a person was the owner of the material on which the photograph was taken or, if the ownership of that material as at that time is not established, that a person was the owner of the apparatus by which the photograph was taken; or
 
 (b) neither the ownership as at the time when the photograph was taken of the material on which it was taken nor the ownership as at that time of the apparatus by which it was taken is established but it is established that, at the time of the death of a person, the photograph was owned by the person or, if the ownership of the photograph as at that time is not established, was in the possession or custody of the person, the person shall be presumed, unless the contrary is established, to have been the person who took the photograph.
+
+[Aust. 1968, s. 127]

@@ -17,3 +17,5 @@ Division: Division 6 — Border Enforcement Measures
 (b) if no manner of disposal is so prescribed, as the Director- General directs.
 
 [6/98]
+
+[Aust. 1968, s. 135AE]

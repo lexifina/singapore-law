@@ -10,7 +10,7 @@ Division: Division 6 — Copying of Works for Educational Purposes
 
 [6/98]
 
-(2) For the purpose of this section —
+(2) In this section —
 
 ‘‘electronic’’ means actuated by electric, magnetic, electro- magnetic, electro-chemical or electro-mechanical energy;
 
@@ -25,3 +25,5 @@ Division: Division 6 — Copying of Works for Educational Purposes
 (b) involving the use of an appliance for making multiple copies, and includes, in relation to a work held in electronic form, any copying by electronic means, but does not include the making of a cinematograph film or sound recording.
 
 [6/98]
+
+[UK CPD 1988, s. 32]]

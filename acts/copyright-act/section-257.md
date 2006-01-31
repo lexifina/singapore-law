@@ -5,6 +5,8 @@ Part: PART XII PERFORMERS’ PROTECTION
 
 [6/98]
 
-(2) Regulations made for the purposes of this section may provide, either generally or in such cases as are specified in the regulations, that this Part does not apply to performances given after a date specified in the regulations (which may be a date before 16th April 1998) if, at the time the performances were or are given, the performers were or are citizens or nationals of a country specified in the regulations, other than persons resident in Singapore.
+(2) Regulations made for the purposes of this section may provide, either generally or in such cases as are specified in the regulations, that this Part shall not apply to performances given after a date specified in the regulations (which may be a date before 16th April 1998) if, at the time the performances were or are given, the performers were or are citizens or nationals of a country specified in the regulations, other than persons resident in Singapore.
 
 [6/98]
+
+[Aust. 1968, s. 248V]

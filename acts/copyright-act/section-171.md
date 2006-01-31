@@ -9,3 +9,5 @@ Division: Division 4 — Procedure and Evidence
 (a) direct that a hearing or part of a hearing shall take place in private and give directions as to the persons who may be present; or
 
 (b) give directions prohibiting or restricting the publication of evidence given before the Tribunal (whether in public or in private) or of matters contained in documents produced to the Tribunal.
+
+[Aust. 1968, s. 163]

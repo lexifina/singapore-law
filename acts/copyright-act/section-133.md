@@ -15,3 +15,5 @@ Division: Division 4 — Proof of Facts in Copyright Proceedings
 (b) the publication was anonymous or is alleged by the plaintiff to have been pseudonymous; and
 
 (c) it is not established that the work has ever been published under the true name of the author, or under a name by which he was commonly known, or that the identity of the author is generally known or can be ascertained by reasonable inquiry, subsection (1) (a) and (b) shall apply, in an action brought by virtue of this Part in relation to the work, in like manner as that subsection shall apply where it is established that the author is dead.
+
+[Aust. 1968, s. 129]

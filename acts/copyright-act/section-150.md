@@ -8,3 +8,5 @@ Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
 (a) the licences that would be granted would be subject to conditions by virtue of which particular matters would be excepted from the licences; and
 
 (b) a case relates to one or more matters falling within such an exception, that case shall be deemed not to be a case to which the scheme applies.
+
+[Aust. 1968, s. 137]

@@ -7,3 +7,5 @@ Division: Division 7 — Miscellaneous
 [38/99]
 
 (2) The subsistence of copyright under any provision of this Part shall not affect the operation of any other provision of this Part under which copyright can subsist.
+
+[Aust. 1968, s. 113]

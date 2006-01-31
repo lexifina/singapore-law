@@ -21,3 +21,5 @@ Division: Division 9 — Acts not Constituting Infringements of Copyright in Art
 (b) before the expiration of such further period, if any, as is agreed between the maker of the film and the owner of the copyright in the work.
 
 [6/98]
+
+[Aust. 1968, s. 70]

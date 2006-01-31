@@ -4,11 +4,11 @@ Division: Division 7 — Powers of Search
 
 (1) Any person landing or being about to land or having recently landed from any vessel or aircraft, or leaving any vessel or aircraft in Singapore whether for the purpose of landing or otherwise, or entering or having recently entered Singapore by land, sea or air, shall —
 
-(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B (7) or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B (7); or
+(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B (7) or detained under section 140LA or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B (7) or detained under section 140LA; or
 
-(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B (7).
+(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B (7) or detained under section 140LA.
 
-[6/98]
+[6/98; 52/2004]
 
 (2) Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman and with strict regard to decency.
 

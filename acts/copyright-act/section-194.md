@@ -13,6 +13,18 @@ Part: PART X MISCELLANEOUS
 
 (3) No assignment of copyright (whether total or partial) shall have effect unless it is in writing signed by or on behalf of the assignor.
 
-(4) A licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser.
+(4) Subject to subsection (4A), a licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser.
+
+[21/2004]
+
+(4A) A licence granted to the Government or any statutory board on or after 1st July 2004* in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright.
+
+[21/2004]
 
 (5) References in this Act, in relation to any copyright, to the doing of anything with, or (as the case may be) without, the licence of the owner of the copyright shall be construed accordingly.
+
+(6) In this section, ‘‘statutory board’’ means any body corporate established by or under any written law to perform or discharge a public function.
+
+[21/2004]
+
+[Aust. 1968, s. 196]

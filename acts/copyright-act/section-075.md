@@ -3,3 +3,5 @@ Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WO
 Division: Division 11 — Works of Joint Authorship
 
 Subject to this Division, a reference in this Act to the author of a work shall, unless otherwise expressly provided by this Act, be read, in relation to a work of joint authorship, as a reference to all the authors of the work.
+
+[Aust. 1968, s. 78]

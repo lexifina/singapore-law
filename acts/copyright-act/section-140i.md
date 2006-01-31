@@ -6,7 +6,7 @@ Division: Division 6 — Border Enforcement Measures
 
 [6/98; 38/99]
 
-(2) The court in which an infringement action is pending may, on the application of a person having a sufficient interest in the subject- matter of the action, allow the person to be joined as a defendant to the action.
+(2) The court in which an infringement action is pending may, on the application of a person having a sufficient interest in the subject-matter of the action, allow the person to be joined as a defendant to the action.
 
 [6/98]
 
@@ -39,3 +39,5 @@ Division: Division 6 — Border Enforcement Measures
 (b) a defendant to the infringement action satisfies the court that he has suffered loss or damage as a result of the seizure of the copies, the court may order the objector to pay compensation in such amount as the court thinks fit to that defendant.
 
 [6/98; 38/99]
+
+[Aust. 1968, s. 135AG]

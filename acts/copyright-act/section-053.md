@@ -14,4 +14,6 @@ Where an article or other literary, dramatic or musical work is accompanied by a
 
 (e) a reference in section 51 to a copy of pages of a literary, dramatic or musical work in an edition of that work or of works that include that work included a reference to a copy of pages in such an edition that contained a part of that work and an artistic work or artistic works provided for the purpose of explaining or illustrating that part of that work.
 
+[Aust. 1968, s. 135ZM]
+
 Division 7 — Copying of Works in Institutions Assisting Handicapped Readers and Institutions Assisting Intellectually Handicapped Readers

@@ -3,7 +3,7 @@ Part: PART X MISCELLANEOUS
 
 (1) The copyright in a literary, dramatic, musical or artistic work or a published edition of such a work, or in a sound recording, cinematograph film, television broadcast, sound broadcast or cable programme, shall not be infringed by the Government or by a person authorised in writing by the Government doing any acts comprised in the copyright if the acts are done for the service of the Government.
 
-(2) Where the Government has made an agreement or arrange- ment with the government of some other country for the supply to that country of goods required for the defence of that country —
+(2) Where the Government has made an agreement or arrangement with the government of some other country for the supply to that country of goods required for the defence of that country —
 
 (a) the doing of any act in connection with the supply of those goods in pursuance of the agreement or arrangement; and
 
@@ -28,3 +28,5 @@ Part: PART X MISCELLANEOUS
 (10) The copying of the whole or a part of a work for the teaching purposes of an educational institution of, or under the control of, the Government shall, for the purposes of this section, be deemed not to be an act done for the service of the Government.
 
 [S 130/88]
+
+[Aust. 1968, s. 183]

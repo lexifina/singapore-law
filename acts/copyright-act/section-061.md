@@ -11,3 +11,5 @@ Where —
 (i) in relation to the person who made the inquiries; or
 
 (ii) in relation to a person who makes records of the musical work, or records of that work in which those words or substantially the same words are sung or spoken, for the purpose of supplying those records to the person who made the inquiries in pursuance of an agreement entered into between those persons for the making of the records, be taken to have been previously made in, or imported into, Singapore with the licence of the owner of that copyright for the purpose of retail sale or for use in making other records for the purpose of retail sale, as the case may be.
+
+[Aust. 1968, s. 61]

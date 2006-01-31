@@ -34,7 +34,7 @@ Division: Division 2 — Actions by Owner of Copyright
 
 [6/98]
 
-(6) Where there is more than one person interested in a copy or other object, the court may direct that the object be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
+(6) Where there is more than one person interested in a copy or other object, the court may direct that the copy or object be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
 
 [6/98]
 

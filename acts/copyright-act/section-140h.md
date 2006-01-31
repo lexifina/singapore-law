@@ -26,10 +26,12 @@ Division: Division 6 — Border Enforcement Measures
 
 [6/98]
 
-(4) If the objector gives written notice to the Director-General stating that he consents to the release of the seized copies, the Director-General shall release the copies to the importer.
+(4) If the objector gives written notice to the Director-General stating that he consents to the release of the seized copies, the Director- General shall release the copies to the importer.
 
 [6/98]
 
 (5) This section shall have effect subject to section 140J.
 
 [6/98]
+
+[Aust. 1968, s. 135AF]

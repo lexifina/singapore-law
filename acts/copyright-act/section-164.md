@@ -11,3 +11,5 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 (b) where, in accordance with the scheme, any charges are payable in respect of such a licence — that, at the material time, he had paid those charges to the licensor operating the scheme, or, if at that time the amount payable could not be ascertained, he had given an undertaking in writing to the licensor to pay the charges when ascertained.
 
 (3) A person who does anything in relation to which subsection (1) applies shall be liable to pay to the licensor operating the licence scheme concerned the amount of any charges that would be payable if he were the holder of a licence granted in accordance with the scheme insofar as the scheme relates to the doing of that thing and the licensor may recover that amount in a court of competent jurisdiction from the person as a debt due to the licensor.
+
+[Aust. 1968, s. 158]

@@ -16,3 +16,5 @@ and
 (3) Nothing in this section shall render an advocate and solicitor liable to an action under this section in respect of an act done by him in his professional capacity on behalf of a client.
 
 (4) The defendant in an action under this section may apply, by way of counterclaim, for relief to which he would be entitled in a separate action in respect of an infringement by the plaintiff of the copyright to which the threats relate and, in any such case, the provisions of this Act with respect to an action for infringement of a copyright are, with the necessary modifications, applicable in relation to the action.
+
+[Aust. 1968, s. 202]

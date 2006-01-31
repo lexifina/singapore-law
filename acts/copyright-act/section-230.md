@@ -7,3 +7,5 @@ Division: Division 4 — Miscellaneous
 [S 107/87]
 
 (2) Any reference in section 163 to a refusal or failure to grant or procure the grant of a licence, or to a proposal that a licence should be granted, shall not include a reference to a refusal or failure that occurred, or to a proposal that was made, before 10th April 1987.
+
+[Aust. 1968, s. 232]

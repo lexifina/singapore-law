@@ -7,9 +7,13 @@ Part: PART II INTERPRETATION
 
 [38/99]
 
-(2) Subsections (1) and (1A) shall apply in relation to an adaptation of a work in like manner as it applies in relation to a work.
+(1B) Without limiting the meaning of the term ‘‘reproduced’’, for the purposes of this Act, a literary, dramatic, musical or artistic work, including a reproduction of such work in the form of a sound recording or cinematograph film, is reproduced if it is converted into or from a digital or other electronic machine-readable form, and any article embodying the work or reproduction of the work in such a form is taken to be a reproduction of the work.
 
-[38/99]
+[52/2004]
+
+(2) Subsections (1), (1A) and (1B) shall apply in relation to an adaptation of a work in like manner as it applies in relation to a work.
+
+[38/99; 52/2004]
 
 (3) For the purposes of this Act, an artistic work shall be deemed to have been reproduced —
 
@@ -18,3 +22,5 @@ Part: PART II INTERPRETATION
 (b) in the case of a work in a 3-dimensional form — if a version of the work is produced in a 2-dimensional form, and the version of the work so produced shall be deemed to be a reproduction of the work.
 
 (4) Subsection (3) shall have effect subject to Division 9 of Part III.
+
+[Aust. 1968, s. 21]

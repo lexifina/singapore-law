@@ -1,5 +1,25 @@
-# 109. Fair dealing for purpose of research or private study
+# 109. Fair dealing in relation to other subject-matter
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-matter other than Works
+Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
 
-Section 35 (1) and (2) shall apply to the doing of any act in relation to audio-visual items as it applies to the doing of that act in relation to literary, dramatic, musical and artistic works.
+(1) Subject to this section, a fair dealing with an audio-visual item for any purpose other than a purpose referred to in section 110 or 111 shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item.
+
+[52/2004]
+
+(2) The purposes for which a dealing with an audio-visual item may constitute a fair dealing under subsection (1) shall include research and study.
+
+[52/2004]
+
+(3) For the purposes of this Act, the matters to which regard shall be had, in determining whether a dealing with an audio-visual item, being a dealing by way of copying the whole or a part of the audio-visual item, constitutes a fair dealing with the audio-visual item for any purpose other than a purpose referred to in section 110 or 111 shall include —
+
+(a) the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
+
+(b) the nature of the audio-visual item;
+
+(c) the amount and substantiality of the part copied taken in relation to the whole audio-visual item;
+
+(d) the effect of the dealing upon the potential market for, or value of, the audio-visual item; and
+
+(e) the possibility of obtaining the audio-visual item within a reasonable time at an ordinary commercial price.
+
+[52/2004]

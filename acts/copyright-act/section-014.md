@@ -4,3 +4,5 @@ Part: PART II INTERPRETATION
 (1) A reference in this Act to the name or names under which a work was published shall be read as a reference to the name or names specified in the work as the name of the author or the names of the authors of the work.
 
 (2) For the purposes of this Act, a publication of a work under 2 or more names shall not be taken to be pseudonymous unless all those names are pseudonyms.
+
+[Aust. 1968, s. 20]

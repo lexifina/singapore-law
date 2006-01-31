@@ -9,3 +9,5 @@ In proceedings before the Tribunal —
 (b) the Tribunal shall not be bound by the Evidence Act (Cap. 97); and
 
 (c) the proceedings shall be conducted with as little formality, and with as much expedition, as the requirements of this Act and a proper consideration of the matters before the Tribunal permit.
+
+[Aust. 1968, s. 164]

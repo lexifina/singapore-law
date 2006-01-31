@@ -28,6 +28,20 @@ Division: Division 5 — Offences
 
 (b) for other purposes, but to such an extent as to affect prejudicially the owner of the copyright, articles which he knows, or ought reasonably to know, to be infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+(3A) Where, at any time when copyright subsists in a work —
+
+(a) a person does any act that constitutes an infringement of the copyright in a work other than an act referred to in subsection (1), (2), (3) or (6);
+
+(b) the infringement of the copyright in the work by the person is wilful; and
+
+(c) either or both of the following apply:
+
+(i) the extent of the infringement is significant;
+
+(ii) the person does the act to obtain a commercial advantage, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[52/2004]
+
 (4) A person who, at a time when copyright subsists in a work, makes or has in his possession an article specifically designed or adapted for making copies of the work that the person knows, or ought reasonably to know, is to be used for making infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each such article in respect of which the offence is committed or to imprisonment for a term not exceeding 2 years or to both.
 
 [6/98]
@@ -36,19 +50,37 @@ Division: Division 5 — Offences
 
 (6) Any person who for his private profit causes a literary, dramatic or musical work to be performed in public, or causes a cinematograph film to be seen or heard or seen and heard in public, other than by the reception of a television broadcast or cable programme, where he knows, or ought reasonably to know, that copyright subsists in the work or cinematograph film and that the performance constitutes an infringement of the copyright, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(7) For the purposes of this section, any person who has in his possession 5 or more infringing copies of any work or other subject- matter shall, unless the contrary is proved, be presumed —
+(6A) For the purposes of subsection (3A) (c) (i), in determining whether the extent of the infringement is significant, the court shall have regard to —
+
+(a) the volume of any articles that are infringing copies;
+
+(b) the value of any articles that are infringing copies;
+
+(c) whether the infringement has a substantial prejudicial impact on the owner of the copyright; and
+
+(d) all other relevant matters.
+
+[52/2004]
+
+(6B) For the purposes of subsection (3A) (c) (ii), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
+
+[52/2004]
+
+(7) For the purposes of this section (other than subsection (3A)), any person who has in his possession 5 or more infringing copies of any work or other subject-matter shall, unless the contrary is proved, be presumed —
 
 (a) to be in possession of such copies otherwise than for private and domestic use; or
 
 (b) to be in possession of such copies for the purpose of sale.
 
-(8) The court before which a person is charged with an offence by reason of a contravention of any of the provisions of this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an infringing copy or any article which has been predominantly used for making infringing copies in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner of the copyright concerned or otherwise dealt with in such manner as the court thinks fit.
+[52/2004]
 
-[6/98; 38/99]
+(8) The court before which a person is charged with an offence by reason of a contravention of any of the provisions of this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an infringing copy or any article which has been used for making infringing copies in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner of the copyright concerned or otherwise dealt with in such manner as the court thinks fit.
 
-(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3) or (4) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, and to seize such articles and documents found at the premises.
+[6/98; 38/99; 52/2004]
 
-[6/98; 38/99]
+(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3), (3A) or (4) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, whether specifically or in any general category, and to seize any such articles and documents found at the premises.
+
+[52/2004]
 
 (10) If an article was seized under subsection (9) and —
 
@@ -62,10 +94,12 @@ Division: Division 5 — Offences
 
 [6/98]
 
-(12) For the purposes of this section —
+(12) In this section —
 
 ‘‘document’’ means anything in which information of any description is recorded;
 
 ‘‘premises’’ includes any land, building, structure and conveyance.
 
 [6/98]
+
+[Aust. 1968, s. 132]

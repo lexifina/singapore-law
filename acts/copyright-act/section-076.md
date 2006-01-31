@@ -3,3 +3,5 @@ Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WO
 Division: Division 11 — Works of Joint Authorship
 
 The references in sections 27 and 29 (2) to the author of a work shall, in relation to a work of joint authorship, be read as references to any one or more of the authors of the work.
+
+[Aust. 1968, s. 79]

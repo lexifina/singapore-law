@@ -9,3 +9,5 @@ Division: Division 5 — Miscellaneous
 (3) A person who appears before the Tribunal shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents or articles, or to answer questions, that he is required by the Tribunal to produce or answer.
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
+
+[Aust. 1968, s. 172]

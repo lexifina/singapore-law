@@ -11,3 +11,5 @@ In an action brought by virtue of this Part in relation to copyright in a sound 
 (c) that the recording was first published in a specified country, the label or mark shall be sufficient evidence of the facts so stated except insofar as the contrary is established.
 
 [6/98]
+
+[Aust. 1968, s. 130]

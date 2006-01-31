@@ -6,3 +6,5 @@ Part: PART IX FALSE ATTRIBUTION OF AUTHORSHIP
 (2) Any damages recovered in proceedings instituted by virtue of this Part shall be taken into account in assessing damages in proceedings instituted otherwise than by virtue of this Part and arising out of the same operation or transaction.
 
 (3) Any damages recovered in proceedings instituted otherwise than by virtue of this Part shall be taken into account in assessing damages in proceedings instituted by virtue of this Part and arising out of the same operation or transaction.
+
+[Aust. 1968−1973, s. 195]

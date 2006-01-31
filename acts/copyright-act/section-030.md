@@ -19,6 +19,6 @@ Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WO
 
 (b) the work is made in pursuance of the agreement, the first-mentioned person shall be entitled to any copyright subsisting in the work by virtue of this Part, except that if the work is required for any particular purpose, that purpose shall be communicated to that other person and that other person shall be entitled to restrain the doing, otherwise than for that particular purpose, of any act comprised in the copyright in the work.
 
-(6) Where a literary, dramatic or artistic work to which subsections
+(6) Where a literary, dramatic or artistic work to which subsections (4) and (5) do not apply, or a musical work, is made by the author in pursuance of the terms of his employment by another person under a contract of service or apprenticeship, that other person shall be entitled to any copyright subsisting in the work by virtue of this Part.
 
-(4) and (5) do not apply, or a musical work, is made by the author in pursuance of the terms of his employment by another person under a contract of service or apprenticeship, that other person shall be entitled to any copyright subsisting in the work by virtue of this Part.
+[Aust. 1968, s. 35]

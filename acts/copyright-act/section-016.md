@@ -22,3 +22,9 @@ Part: PART II INTERPRETATION
 (a) the visual images or sounds in question, or both, as the case may be, are broadcast; or
 
 (b) in the case of a television broadcast or sound broadcast made by the technique known as direct broadcasting by satellite, the visual images or sounds in question, or both, as the case may be, are transmitted to the satellite transponder.
+
+(6) For the purposes of this Act, a communication other than a broadcast is taken to have been made by the person responsible for determining the content of the communication at the time the communication is made.
+
+[52/2004]
+
+[Aust. 1968, s. 22]

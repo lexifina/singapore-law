@@ -34,4 +34,8 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 
 (a) insofar as the scheme relates to cases included in a class of cases to which the order does not apply — at any time; and
 
-(b) insofar as the scheme relates to cases included in the class of cases to which the order applied while it was in force — after the expiration of the order.
+(b) insofar as the scheme relates to cases included in the class of cases to which the order applied while it was in force —
+
+after the expiration of the order.
+
+[Aust. 1968, s. 156]

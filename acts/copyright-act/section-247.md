@@ -8,3 +8,5 @@ Without limiting the meaning of the expression ‘‘educational purposes’’ 
 (b) for inclusion in the collection of a library of the institution.
 
 [6/98]
+
+[Aust. 1968, s. 248B]

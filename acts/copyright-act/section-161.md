@@ -26,8 +26,10 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 
 (7) A reference of a licence scheme to the Tribunal under this section may be withdrawn at any time before an order is made in pursuance of the reference.
 
-(8) Where a licence scheme has been referred to the Tribunal under this section, the scheme shall remain in operation, notwith- standing anything in the scheme, until the Tribunal makes an order in pursuance of the reference.
+(8) Where a licence scheme has been referred to the Tribunal under this section, the scheme shall remain in operation, notwithstanding anything in the scheme, until the Tribunal makes an order in pursuance of the reference.
 
 (9) Subsection (8) shall not apply in relation to a reference with respect to any period after the reference has been withdrawn or after the Tribunal has refused to begin to consider the reference in pursuance of subsection (4).
 
 (10) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
+
+[Aust. 1968, s. 155]

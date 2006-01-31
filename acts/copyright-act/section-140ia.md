@@ -17,3 +17,5 @@ Division: Division 6 — Border Enforcement Measures
 (b) if that period has been extended under section 140E, that period as so extended.
 
 [38/99]
+
+[Aust. 1968, s. 135AG (7)]

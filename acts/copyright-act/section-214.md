@@ -7,3 +7,5 @@ Division: Division 2 — Original Works
 [S 107/87]
 
 (2) Section 19 (2) to (7) of the Copyright Act 1911 as in force immediately before 10th April 1987 shall continue to apply in relation to records made before that date and, subject to that section, any regulations made for the purposes of that section and in force immediately before that date shall continue to apply in relation to those records.
+
+[Aust. 1968, s. 215]

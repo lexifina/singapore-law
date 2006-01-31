@@ -8,7 +8,7 @@ Division: Division 5 — Copying of Works in Libraries
 
 (b) before the new work was published, the prescribed notice of the intended publication of the work had been given; and
 
-(c) immediately before the new work was published, the identity of the owner of the copyright in the old work was not known to the publishers of the new work, then, for the purposes of this Act, the first publication of the new work, and any subsequent publication of the new work whether in the same or in an altered form, shall, insofar as it constitutes a publication of the old work, be deemed not to be an infringement of the copyright in the old work or an unauthorised publication of the old work.
+(c) immediately before the new work was published, the identity of the owner of the copyright in the old work was not known to the publisher of the new work, then, for the purposes of this Act, the first publication of the new work, and any subsequent publication of the new work whether in the same or in an altered form, shall, insofar as it constitutes a publication of the old work, be deemed not to be an infringement of the copyright in the old work or an unauthorised publication of the old work.
 
 (2) Subsection (1) shall not apply to a subsequent publication of the new work incorporating a part of the old work that was not included in the first publication of the new work unless —
 
@@ -19,3 +19,5 @@ Division: Division 5 — Copying of Works in Libraries
 (c) immediately before that subsequent publication, the identity of the owner of the copyright in the old work was not known to the publisher of that subsequent publication.
 
 (3) Where a work, or part of a work, has been published and, by virtue of this section, the publication is to be deemed not to be an infringement of the copyright in the work, the copyright in the work is not infringed by a person who, after that publication took place, broadcasts the work or that part of the work, as the case may be, or includes it in a cable programme or performs it in public, or makes a record of it.
+
+[Aust. 1968, s. 52]

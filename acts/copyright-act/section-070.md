@@ -2,7 +2,9 @@
 Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
 Division: Division 9 — Acts not Constituting Infringements of Copyright in Artistic Works
 
-(1) Notwithstanding section 69, the making of any useful article in 3 dimensions (including a reproduction in 2 dimensions reasonably required for the making of the article) does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country more than 15 years before the useful article or reproduction is made.
+(1) Notwithstanding section 69, the making of any useful article in 3 dimensions (including a reproduction in 2 dimensions reasonably required for the making of the article) does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country at any time before the useful article or reproduction is made.
+
+[25/2000]
 
 (2) For the purposes of subsection (1), an artistic work is applied industrially if —
 

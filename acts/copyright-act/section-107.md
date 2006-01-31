@@ -1,6 +1,6 @@
 # 107. Making of a copy of sound recording for purposes of broadcasting
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-matter other than Works
+Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
 
 (1) The copyright in a sound recording is not infringed by the making of a copy of a sound recording solely for the purpose of the broadcasting of the recording.
 
@@ -13,6 +13,14 @@ Division: Division 6 — Infringement of Copyright in Subject-matter other than 
 (b) the making of further copies of the sound recording for the purpose of the broadcasting of the recording.
 
 [6/98]
+
+(2A) Notwithstanding subsections (1) and (2), where a sound recording is intended for broadcast or is broadcast, the copyright in the sound recording is not infringed by —
+
+(a) the making of a copy of the sound recording for, or the supply of a copy of the sound recording to, any statutory authority; or
+
+(b) the use of a copy of the sound recording by that statutory authority or any of its authorised officers, for the purpose of ascertaining whether the intended broadcast complies with, or the broadcast contravenes, the provisions of any written law administered by that statutory authority.
+
+[52/2004]
 
 (3) Subsection (1) shall not apply in relation to a copy of a sound recording where the copy is used for the purpose of the broadcasting by a person who is not the maker of the copy unless the maker has paid to the owner of the copyright in the recording such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the copy.
 
@@ -29,3 +37,5 @@ Division: Division 6 — Infringement of Copyright in Subject-matter other than 
 (b) before the expiration of such further period, if any, as is agreed between the maker of the copy and the owner of the copyright in the recording.
 
 [6/98]
+
+[Aust. 1968, s. 107]

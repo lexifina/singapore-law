@@ -20,3 +20,5 @@ Part: PART XII PERFORMERS’ PROTECTION
 (3) A recording or a copy of such a recording that is an exempt recording because it was made for a purpose referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i) of the definition of ‘‘exempt recording’’ in section 246 (1), ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
 
 [6/98]
+
+[Aust. 1968, s. 248C]

@@ -31,3 +31,5 @@ and
 (b) the person who made the record shall be liable, when the amount to which an undertaking relates is determined, to pay that amount to the owner of the copyright to whom the undertaking was given and the owner may recover that amount in a court of competent jurisdiction from that person as a debt due to the owner.
 
 (5) The regulations made for the purposes of section 56 (1) (d) in relation to payments to the owner of the copyright in a musical work shall have the like effect, with any necessary modifications, for the purposes of subsection (1) (e) in relation to payments to the owner of the copyright in a literary or dramatic work.
+
+[Aust. 1968, s. 59]

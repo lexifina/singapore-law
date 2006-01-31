@@ -7,7 +7,7 @@ Part: PART VIII EXTENSION OR RESTRICTION OF THIS ACT
 
 (a) citizens or nationals of a country specified in those regulations, not being at that time persons resident in Singapore; or
 
-(b) in the case of works being sound recordings or cinema- tograph films — bodies incorporated under the law of a country specified in those regulations.
+(b) in the case of works being sound recordings or cinematograph films — bodies incorporated under the law of a country specified in those regulations.
 
 [S 107/87]
 
@@ -25,6 +25,8 @@ Part: PART VIII EXTENSION OR RESTRICTION OF THIS ACT
 
 (b) in relation to a sound recording or a cinematograph film or a cable programme — Part IV;
 
-‘‘work’’ means a literary, dramatic, musical or artistic work, a sound recording, a cinematograph film, a television broad- cast, a sound broadcast or a cable programme.
+‘‘work’’ means a literary, dramatic, musical or artistic work, a sound recording, a cinematograph film, a television broadcast, a sound broadcast or a cable programme.
 
 [6/98]
+
+[Aust. 1968, s. 185]

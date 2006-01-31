@@ -21,3 +21,5 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 (7) For the purposes of this section, a question of law shall not include a question whether there is sufficient evidence to justify a finding of fact by the Tribunal.
 
 (8) This section shall not apply in relation to an inquiry by the Tribunal under section 157.
+
+[Aust. 1968, s. 161]

@@ -13,3 +13,5 @@ The copyright in a literary, dramatic, musical or artistic work is infringed by 
 (ii) for any other purpose to an extent that will affect prejudicially the owner of the copyright; or
 
 (c) by way of trade exhibiting the article in public, where he knows, or ought reasonably to know, that the making of the article was carried out without the consent of the owner of the copyright.
+
+[Aust. 1968, s. 37]

@@ -11,3 +11,5 @@ In this Division —
 (a) in relation to the owner of the copyright — the exclusive licensee; and
 
 (b) in relation to the exclusive licensee — the owner of the copyright.
+
+[Aust. 1968, s. 117]

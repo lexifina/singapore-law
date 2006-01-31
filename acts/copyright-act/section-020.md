@@ -24,3 +24,5 @@ or
 (b) a reference to a copy of a cinematograph film of a television broadcast shall be read as including a reference to a copy of a cinematograph film, or a reproduction of a photograph, of any of those images.
 
 (5) In this section, ‘‘re-transmission’’ means any re-transmission, whether over paths provided by a material substance or not, and includes a re-transmission made by making use of any article or thing in which the visual images or sounds constituting the broadcast, or both, as the case may be, have been embodied.
+
+[Aust. 1968, s. 25]

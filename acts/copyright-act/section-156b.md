@@ -17,3 +17,5 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 (3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copy of the sound recording.
 
 [6/98]
+
+[Aust. 1968, s. 150]

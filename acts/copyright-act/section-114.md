@@ -1,6 +1,6 @@
 # 114. Filming or recording broadcasts or programmes for private and domestic use
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-matter other than Works
+Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
 
 (1) The copyright in a television broadcast or a cable programme, or in a literary, artistic, dramatic or musical work or a cinematograph film included in the broadcast or programme, insofar as it consists of visual images, is not infringed by the making of a cinematograph film of the broadcast or the cable programme for the private and domestic use of the person by whom the cinematograph film is made.
 
@@ -13,3 +13,5 @@ Division: Division 6 — Infringement of Copyright in Subject-matter other than 
 (b) broadcasting the film or recording or including it in a cable programme; or
 
 (c) causing the film or recording to be seen or heard in public.
+
+[Aust. 1968, s. 111]

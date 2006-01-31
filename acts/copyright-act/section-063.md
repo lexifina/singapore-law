@@ -5,3 +5,5 @@ Division: Division 9 — Acts not Constituting Infringements of Copyright in Art
 (1) This section shall apply to sculptures and to works of artistic craftsmanship of the kind referred to in paragraph (c) of the definition of ‘‘artistic work’’ in section 7.
 
 (2) The copyright in a work to which this section applies that is situated, otherwise than temporarily, in a public place, or in premises open to the public, is not infringed by the making of a painting, drawing, engraving or photograph of the work or by the inclusion of the work in a cinematograph film or in a television broadcast.
+
+[Aust. 1968, s. 65]

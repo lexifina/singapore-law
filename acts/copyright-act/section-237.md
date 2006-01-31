@@ -31,3 +31,5 @@ Division: Division 4 — Miscellaneous
 (a) in the application of those subsections in relation to a sound recording — be read as a reference to the copyright under that Act in records embodying the recording; and
 
 (b) in the application of those subsections in relation to a cinematograph film — be read as a reference to any copyright under that Act in the film (insofar as it constituted a dramatic work for the purposes of that Act) or in photographs forming part of the film.
+
+[Aust. 1968, s. 239]

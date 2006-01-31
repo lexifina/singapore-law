@@ -8,6 +8,10 @@ In proceedings before the Tribunal —
 
 (b) a party being a body corporate may be represented by a director or other officer, or by an employee, of the party approved by the Tribunal;
 
-(c) a party being an unincorporated body of persons or a member of such a body may be represented by a member, or by an officer or employee, of the body approved by the Tribunal; and
+(c) a party being an unincorporated body of persons or a member of such a body may be represented by a member, or by an officer or employee, of the body approved by the Tribunal;
+
+and
 
 (d) any party may be represented by an advocate and solicitor.
+
+[Aust. 1968, s. 169]

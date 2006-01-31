@@ -10,3 +10,5 @@ Part: PART XI TRANSITIONAL Division 1 — Preliminary
 (a) a reference in that section to copyright shall include a reference to copyright under the Copyright Act 1911; and
 
 (b) a reference in that section to the licence of the owner of copyright shall be read as a reference to the consent or acquiescence of the owner.
+
+[Aust. 1968, s. 209]

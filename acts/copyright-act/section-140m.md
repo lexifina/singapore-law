@@ -2,9 +2,9 @@
 Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
 Division: Division 7 — Powers of Search
 
-(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B (7).
+(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B (7) or detained under section 140LA.
 
-[6/98]
+[6/98; 52/2004]
 
 (2) For the more effective exercise of the powers conferred by this section, a senior authorised officer may do all or any of the following:
 

@@ -28,3 +28,5 @@ or
 (b) an original artistic work that is attached to, or forms part of, such a building.
 
 (4) In this section, ‘‘qualified person’’ means a citizen of Singapore or a person resident in Singapore.
+
+[Aust. 1968, s. 32]

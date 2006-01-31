@@ -9,3 +9,5 @@ Division: Division 4 — Miscellaneous
 (2) Section 185 (4) shall not apply in relation to sound recordings or cinematograph films first published before 10th April 1987.
 
 (3) Section 185 (5) shall not apply in relation to an edition published before 10th April 1987.
+
+[Aust. 1968, s. 237]

@@ -13,3 +13,5 @@ Division: Division 5 — Offences
 (2) The court before which such affidavit is produced shall presume that the affidavit was made by or on behalf of the owner of the copyright.
 
 (3) If an accused to any proceedings for an offence under this Part desires in good faith that the person who made an affidavit referred to in subsection (1) be cross-examined with respect to the matters in the affidavit, the affidavit may not be used in the proceedings unless the person appears as a witness for such cross-examination or the court before which the proceedings are being conducted, in its discretion, permits the affidavit to be used without the person so appearing.
+
+[Aust. 1968, s. 134A]

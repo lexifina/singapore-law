@@ -1,12 +1,12 @@
-# 54A. Multiple copying under statutory licence by institutions assisting intellec- tually handicapped readers
+# 54A. Multiple copying under statutory licence by institutions assisting intellectually handicapped readers
 Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
 Division: Division 7 — Copying of Works in Institutions Assisting Handicapped Readers and Institutions Assisting Intellectually Handicapped Readers
 
-(1) The copyright in a work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting intellectually handicapped readers, of a copy of the whole or a part of the work, for use in the provision, whether by the institution or otherwise, of assistance to intellectually handicapped persons.
+(1) The copyright in a work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting intellectually handicapped readers, of a copy of the whole or a part of the work, for use in the provision, whether by the institution or otherwise, of assistance to intellectually handicapped readers.
 
 [6/98]
 
-(2) Subsection (1) shall not apply to the making of any copy of a work, being a work that has been separately published in a form that would be suitable for use in the provision of the assistance referred to in that subsection, unless the person who makes that copy, or causes that copy to be made, for or on behalf of the body administering an institution assisting intellectually handicapped readers, is satisfied after reasonable investigation that no new copy of the work in a form suitable for use in the provision of that assistance can be obtained within a reasonable time at an ordinary commercial price.
+(2) Subsection (1) shall not apply to the making of any copy of a work, being a work that has been separately published in a form that would be suitable for use in the provision of the assistance referred to in that subsection, unless the person who makes the copy, or causes that copy to be made, for or on behalf of the body administering an institution assisting intellectually handicapped readers is satisfied, after reasonable investigation, that no new copy of the work in a form suitable for use in the provision of that assistance can be obtained within a reasonable time at an ordinary commercial price.
 
 [6/98]
 

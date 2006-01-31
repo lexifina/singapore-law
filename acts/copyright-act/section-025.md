@@ -18,3 +18,5 @@ Part: PART II INTERPRETATION
 (4) The making of the article shall be deemed to have been carried out with the consent of the owner referred to in subsection (3) if, after disregarding all conditions as to the sale, distribution or other dealings in the article after its making, the article was made with his licence (other than a compulsory licence).
 
 [14/94]
+
+[Aust. 1968, s. 30]

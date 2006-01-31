@@ -19,7 +19,7 @@ Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
 
 ‘‘organisation’’ means an organisation or association of persons whether corporate or unincorporate;
 
-‘‘party’’ includes a person or organisation making representa- tions to the Tribunal at an inquiry under section 157;
+‘‘party’’ includes a person or organisation making representations to the Tribunal at an inquiry under section 157;
 
 ‘‘proceeding’’, in relation to the Tribunal, includes an inquiry by the Tribunal under section 157.
 
@@ -34,3 +34,5 @@ Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
 (c) a reference to a person who requires a licence of a particular kind includes a reference to a person who holds a licence of that kind if the person will, at the expiration of the period for which the licence was granted, require a renewal of that licence or a grant of a further licence of the same kind; and
 
 (d) a reference to proceedings for infringement of copyright includes a reference to proceedings brought in respect of an alleged contravention of section 136 (6).
+
+[Aust. 1968, s. 136]

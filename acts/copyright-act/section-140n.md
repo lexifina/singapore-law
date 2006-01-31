@@ -2,7 +2,7 @@
 Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
 Division: Division 7 — Powers of Search
 
-(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B (7) may be —
+(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B (7) or detained under section 140LA may be —
 
 (a) examined and searched by an authorised officer or detained until any person in charge thereof has opened it for examination and search;
 
@@ -12,7 +12,7 @@ Division: Division 7 — Powers of Search
 
 (d) marked, locked, sealed or otherwise secured by an authorised officer pending examination and search.
 
-[6/98]
+[6/98; 52/2004]
 
 (2) Any person, other than an authorised officer, who removes, opens, breaks or tampers with any mark, lock, seal or other means of securing any goods, package, box, chest or other article referred to in subsection (1) (d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 

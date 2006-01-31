@@ -1,4 +1,4 @@
-# 254. Order for disposal of infringing copies or other object
+# 254. Order for disposal of unauthorised recordings or other object
 Part: PART XII PERFORMERS’ PROTECTION
 
 (1) An application may be made to the court for an order that an unauthorised recording or other object delivered up pursuant to an order made under section 253 shall be —
@@ -31,7 +31,7 @@ Part: PART XII PERFORMERS’ PROTECTION
 
 [6/98]
 
-(6) Where there is more than one person interested in a recording or other object, the court may direct that the object be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
+(6) Where there is more than one person interested in a recording or other object, the court may direct that the recording or object be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
 
 [6/98]
 

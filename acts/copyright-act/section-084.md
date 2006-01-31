@@ -1,6 +1,6 @@
 # 84. Nature of copyright in television broadcasts and sound broadcasts
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 2 — Nature of Copyright in Subject-matter other than Works
+Division: Division 2 — Nature of Copyright in Subject-Matter other than Works
 
 (1) For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a television broadcast or sound broadcast, is the exclusive right —
 
@@ -12,7 +12,9 @@ Division: Division 2 — Nature of Copyright in Subject-matter other than Works
 
 (d) in the case of a television broadcast or a sound broadcast —
 
-to re-broadcast it or to include it in a cable programme.
+to re-broadcast it or to otherwise communicate it to the public.
+
+[52/2004]
 
 (2) For the purposes of subsection (1) (c), a television broadcast shall be taken to be seen or heard by a paying audience if it is seen or heard by persons who either —
 
@@ -25,3 +27,5 @@ to re-broadcast it or to include it in a cable programme.
 (a) of persons admitted to the place in question as residents or inmates therein; or
 
 (b) of persons admitted to that place as members of a club or society, where the payment is only for membership of the club or society and the provision of facilities for seeing or hearing television broadcasts is only incidental to the main purposes of the club or society.
+
+[Aust. 1968, s. 87]

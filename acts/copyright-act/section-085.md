@@ -1,6 +1,6 @@
 # 85. Nature of copyright in cable programmes
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 2 — Nature of Copyright in Subject-matter other than Works
+Division: Division 2 — Nature of Copyright in Subject-Matter other than Works
 
 (1) For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a cable programme, is the exclusive right to do all or any of the following acts:
 
@@ -10,7 +10,9 @@ Division: Division 2 — Nature of Copyright in Subject-matter other than Works
 
 (c) to cause it, insofar as it consists of visual images, to be seen in public, or, insofar as it consists of sounds, to be heard in public, if it is seen or heard by a paying audience;
 
-(d) to broadcast it or to include it in a cable programme service.
+(d) to communicate it to the public.
+
+[52/2004]
 
 (2) Subsection (1) shall apply whether the act in question is done by the reception of the programme or by making use of any record, print, negative, tape or other article on which the programme has been recorded.
 
@@ -18,7 +20,7 @@ Division: Division 2 — Nature of Copyright in Subject-matter other than Works
 
 (4) For the purposes of subsection (1) (c), a cable programme shall be taken to be seen or heard by a paying audience if it is seen or heard by persons who either —
 
-(a) have been admitted for payment to the place where the programme is to be seen or heard, or have been admitted for payment to a place of which that place forms part; or
+(a) have been admitted for payment to the place where the programme is to be seen or heard, or have been admitted for payment to a place of which that place forms a part; or
 
 (b) have been admitted to the place where the programme is to be seen or heard in circumstances where goods or services are supplied there at prices which exceed the prices usually charged at that place and are partly attributable to the facilities afforded for seeing or hearing the programme.
 

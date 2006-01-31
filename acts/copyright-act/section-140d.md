@@ -7,3 +7,5 @@ Seized copies shall be taken to such secure place as the
 Director-General directs.
 
 [6/98]
+
+[Aust. 1968, s. 135AB]

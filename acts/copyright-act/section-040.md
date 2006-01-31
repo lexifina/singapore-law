@@ -11,3 +11,5 @@ Division: Division 3 — Acts not Constituting Infringements of Copyright Works
 (c) a sufficient acknowledgment of the work or adaptation is made.
 
 (2) Subsection (1) shall not apply in relation to the copyright in a work if, in addition to the extract concerned, 2 or more other extracts from, or from adaptations of, works (being works in which copyright subsists at the time when the collection is published) by the author of the first-mentioned work are contained in that collection, or are contained in that collection taken together with every similar collection, if any, of works intended for use by educational institutions and published by the same publisher within the period of 5 years immediately preceding the publication of the first-mentioned collection.
+
+[Aust. 1968, s. 44]

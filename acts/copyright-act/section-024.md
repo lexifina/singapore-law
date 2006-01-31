@@ -48,3 +48,5 @@ and
 (ii) persons lawfully claiming under the author, maker or publisher.
 
 (8) Nothing in subsections (6) and (7) shall affect any provision of this Act relating to the acts comprised in a copyright or to acts constituting infringements of copyrights or any of the provisions of Part IX.
+
+[Aust. 1968, s. 29]

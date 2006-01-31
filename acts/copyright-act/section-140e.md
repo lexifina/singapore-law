@@ -37,3 +37,5 @@ Division: Division 6 — Border Enforcement Measures
 (7) A decision on a request made in accordance with subsection (5) shall be made within 2 working days after the request is made, but such a decision cannot be made after the end of the retention period to which the request relates.
 
 [6/98]
+
+[Aust. 1968, s. 135AC]

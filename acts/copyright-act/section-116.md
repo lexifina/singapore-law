@@ -1,6 +1,6 @@
 # 116. Reproductions of editions of work
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-matter other than Works
+Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
 
 The copyright in a published edition of a work or works is not infringed by the making of a reproduction of the whole or a part of that edition if that reproduction is made in the course of —
 
@@ -17,3 +17,5 @@ The copyright in a published edition of a work or works is not infringed by the 
 (ii) the making of a copy (including a handicapped reader’s copy or an intellectually handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the handicapped reader’s copies or the intellectually handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
 
 [6/98]
+
+[Aust. 1968, s. 112]

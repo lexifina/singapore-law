@@ -7,3 +7,5 @@ Division: Division 5 — Miscellaneous
 (2) Costs directed by the Tribunal to be paid to a party may be recovered by that party in any court of competent jurisdiction.
 
 (3) This section shall apply in relation to an inquiry by the Tribunal under section 157.
+
+[Aust. 1968, s. 174]

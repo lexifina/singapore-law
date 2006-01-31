@@ -20,4 +20,6 @@ Division: Division 8 — Recording of Musical Works
 
 (a) that payment of the royalties in respect of records, or of an amount, ascertained in accordance with the regulations, in respect of the royalties in respect of records, is, or is in such classes of cases as are specified in those regulations, to be made before the records are sold or supplied by the manufacturer; and
 
-(b) that the doing of such acts as are specified in those regulations, being such acts as the Minister considers convenient for ensuring the receipt by the owner of the copyright of the royalties in respect of records or, if the owner of the copyright cannot be found by reasonable inquiry, as the Minister considers reasonable in the circum- stances, is to be deemed to constitute payment of the royalties.
+(b) that the doing of such acts as are specified in those regulations, being such acts as the Minister considers convenient for ensuring the receipt by the owner of the copyright of the royalties in respect of records or, if the owner of the copyright cannot be found by reasonable inquiry, as the Minister considers reasonable in the circumstances, is to be deemed to constitute payment of the royalties.
+
+[Aust. 1968, s. 55]

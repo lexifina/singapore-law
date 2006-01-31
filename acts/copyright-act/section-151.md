@@ -10,4 +10,12 @@ Division: Division 2 — Constitution of Tribunal
 
 (4) The Minister may appoint such officers and employees of the Tribunal as the Minister may determine.
 
-(5) The remuneration and allowances of members of the Tribunal, the remuneration of any officers and employees appointed under subsection (4) and such other expenses of the Tribunal as the Minister may determine, shall be paid out of moneys provided by Parliament.
+(5) The remuneration and allowances of the members of the Tribunal and such other expenses of the Tribunal as the Minister may determine shall be paid out of moneys provided by Parliament.
+
+[3/2001]
+
+(6) The remuneration of the officers and employees appointed under subsection (4) shall be paid out of the funds of the Office.
+
+[3/2001]
+
+[Aust. 1968, s. 138]

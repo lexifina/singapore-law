@@ -7,3 +7,5 @@ Division: Division 2 — Constitution of Tribunal
 (2) Any member of the Tribunal may at any time by notice in writing to the Minister resign his appointment.
 
 (3) The Minister may declare the office of any member of the Tribunal vacant on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
+
+[Aust. 1968, ss. 141 and 145]

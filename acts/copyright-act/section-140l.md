@@ -9,3 +9,5 @@ Division: Division 6 — Border Enforcement Measures
 (2) The debt created by subsection (1) is due by the objector, or, if there are 2 or more objectors, by the objectors jointly and severally.
 
 [6/98]
+
+[Aust. 1968, s. 135AJ]

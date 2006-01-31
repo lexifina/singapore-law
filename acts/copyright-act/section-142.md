@@ -4,4 +4,4 @@ Division: Division 8 — Miscellaneous
 
 An action shall not be brought for an infringement of copyright, after the expiration of 6 years from the time when the infringement took place.
 
-[141
+[Aust. 1968, s. 134]

@@ -8,3 +8,5 @@ Part: PART II INTERPRETATION
 (b) a reference to a reproduction, adaptation or copy of a work shall be read as including a reference to a reproduction, adaptation or copy of a substantial part of the work, as the case may be.
 
 (2) This section shall not affect the interpretation of any reference in sections 27, 185, 196 and 197 to the publication, or absence of publication, of a work.
+
+[Aust. 1968, s. 14]

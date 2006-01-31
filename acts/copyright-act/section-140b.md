@@ -2,15 +2,29 @@
 Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
 Division: Division 6 — Border Enforcement Measures
 
-(1) A person may give the Director-General a written notice stating —
+(1) A person who is the owner of the copyright in any copyright material or a licensee thereof may give the Director-General a written notice —
 
-(a) that he is the owner of the copyright in copyright material;
+(a) stating that he is —
 
-(b) that, at a time and place specified in the notice, copies of the copyright material to which this section applies are expected to be imported; and
+(i) the owner of the copyright in the copyright material;
 
-(c) that he objects to such importation.
+or
 
-[6/98]
+(ii) a licensee thereof having the power to give such a notice;
+
+(b) stating that copies of the copyright material which are infringing copies are expected to be imported;
+
+(c) providing sufficient information —
+
+(i) to identify the copies of the copyright material;
+
+(ii) to enable the Director-General to ascertain the time when and place where the copies are expected to be imported; and
+
+(iii) to satisfy the Director-General that the copies are infringing copies; and
+
+(d) stating that he objects to such importation.
+
+[52/2004]
 
 (2) A notice given under subsection (1) shall be supported by such documents and information as may be prescribed in regulations.
 
@@ -63,3 +77,5 @@ Division: Division 6 — Border Enforcement Measures
 (c) the giving of information and evidence to the Director- General.
 
 [6/98]
+
+[Aust. 1968, s. 135]

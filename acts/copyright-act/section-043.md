@@ -2,11 +2,11 @@
 Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
 Division: Division 4 — Acts not Constituting Infringements of Copyright in Literary, Dramatic and Musical Works
 
-(1) Where the broadcasting by a person of a literary, dramatic or musical work, or of an adaptation of such a work, would not (whether by reason of an assignment or licence or of the operation of a provision of this Act) constitute an infringement of the copyright in the work, but the making by the person of a sound recording or a cinematograph film of the work or adaptation would, apart from this subsection, constitute such an infringement, the copyright in the work is not infringed by his making such a recording or film solely for the purpose of the broadcasting of the work or adaptation.
+(1) Where the broadcasting by a person of a literary, dramatic or musical work, or of an adaptation of such a work, would not (whether by reason of an assignment or a licence or of the operation of a provision of this Act) constitute an infringement of the copyright in the work, but the making by the person of a sound recording or a cinematograph film of the work or adaptation would, apart from this subsection, constitute such an infringement, the copyright in the work is not infringed by his making such a recording or film solely for the purpose of the broadcasting of the work or adaptation.
 
 (2) Subsection (1) shall not apply in relation to a recording or film if a record embodying the recording or a copy of the film is used for a purpose other than —
 
-(a) the broadcasting of the work or adaptation in circumstances that do not (whether by reason of an assignment or licence or of the operation of a provision of this Act) constitute an infringement of the copyright in the work; or
+(a) the broadcasting of the work or adaptation in circumstances that do not (whether by reason of an assignment or a licence or of the operation of a provision of this Act) constitute an infringement of the copyright in the work; or
 
 (b) the making of further records embodying the recording or further copies of the film for the purpose of the broadcasting of the work or adaptation in such circumstances.
 
@@ -25,3 +25,5 @@ Division: Division 4 — Acts not Constituting Infringements of Copyright in Lit
 (b) before the expiration of such further period, if any, as is agreed between the maker of the recording or film and the owner of the copyright in the work.
 
 [6/98]
+
+[Aust. 1968, s. 47]

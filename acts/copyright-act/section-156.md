@@ -6,4 +6,6 @@ Division: Division 2 — Constitution of Tribunal
 
 (2) The exercise of the powers of the Tribunal shall not be affected by a vacancy or vacancies in the membership of the Tribunal.
 
+[Aust. 1968, s. 146 (1) and (7)]
+
 Division 3 — Inquiries by, and Applications and References to, Tribunal

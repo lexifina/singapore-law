@@ -9,3 +9,5 @@ An authorised officer may refuse to seize copies under section 140B (7) unless â
 (b) the objector has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense.
 
 [6/98; 38/99]
+
+[Aust. 1968, s. 135AA]

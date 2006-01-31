@@ -8,7 +8,7 @@ Division: Division 3 — Acts not Constituting Infringements of Copyright Works
 
 (b) the reproduction is made for the purpose only of being used, by or on behalf of the owner of the original copy, in lieu of the original copy in the event that the original copy is lost, destroyed or rendered unusable.
 
-(2) Subsection (1) shall not apply to the making of a reproduc- tion of a computer program, or of an adaptation of a computer program, from an infringing copy of the computer program.
+(2) Subsection (1) shall not apply to the making of a reproduction of a computer program, or of an adaptation of a computer program, from an infringing copy of the computer program.
 
 [6/98]
 
@@ -16,10 +16,16 @@ Division: Division 3 — Acts not Constituting Infringements of Copyright Works
 
 [38/99]
 
-(4) Where an act is permitted under this section, it is irrelevant whether or not there exists any term or condition in an agreement which purports to prohibit or restrict the act, and such a term or condition shall, in so far as it purports to prohibit or restrict the act, be void.
+(4) Where an act is permitted under this section —
+
+(a) it is irrelevant whether or not there exists any term or condition in an agreement which purports to prohibit or restrict the act; and
+
+(b) any such term or condition shall, insofar as it purports to prohibit or restrict the act, be void.
 
 [6/98]
 
 (5) For the purposes of this section, a reference to a copy of a computer program or compilation or of an adaptation of a computer program or compilation is a reference to any article in which the computer program, compilation or adaptation is reproduced in a material form.
 
 [38/99]
+
+[Aust. 1968, s. 43A (as amended by Aust. Am. 1984, s. 4)]

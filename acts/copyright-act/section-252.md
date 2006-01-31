@@ -3,17 +3,21 @@ Part: PART XII PERFORMERS’ PROTECTION
 
 (1) A person makes an unauthorised use of a performance if the person, at any time during the protection period of the performance and without the authority of the performer —
 
-(a) makes a direct recording of the performance;
+(a) makes a direct or an indirect recording of the performance in any manner or medium;
 
-(b) broadcasts live the performance;
+(b) communicates the live performance to the public;
 
 (c) makes a copy of a recording of the performance that the person knows, or ought reasonably to know, is an unauthorised recording;
 
-(d) makes a copy of an exempt recording of the performance, being a copy that the person knows, or ought reasonably to know, is not itself an exempt recording; or
+(d) makes a copy of an exempt recording of the performance, being a copy that the person knows, or ought reasonably to know, is not itself an exempt recording;
 
-(e) causes the performance to be seen and heard, or seen or heard, live in public.
+(e) causes the performance to be seen and heard, or seen or heard, live in public;
 
-[6/98]
+(f) publishes the recording of the performance if it is unpublished; or
+
+(g) makes available a recording of the performance to the public (on a network or otherwise) in such a way that the recording may be accessed by any person from a place and at a time chosen by him.
+
+[6/98; 52/2004]
 
 (1A) A person makes an unauthorised use of a performance if the person, at any time on or after 15th December 1999 and during the protection period of the performance, and without the authority of the performer —
 
@@ -35,4 +39,6 @@ Part: PART XII PERFORMERS’ PROTECTION
 
 (2) This section shall apply only to acts done in Singapore.
 
-[38/98]
+[38/99]
+
+[Aust. 1968, s. 248G]

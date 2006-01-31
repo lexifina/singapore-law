@@ -1,6 +1,6 @@
 # 90. Cable programmes in which copyright subsists
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 3 — Subject-matter, other than Works, in which Copyright subsists
+Division: Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
 
 (1) Subject to the provisions of this Act, copyright shall subsist in a cable programme which is included in a cable programme service provided by a qualified person in Singapore.
 

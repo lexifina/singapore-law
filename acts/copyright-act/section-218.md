@@ -35,3 +35,5 @@ Division: Division 2 — Original Works
 (f) in the case of a lecture — the lecture was first published or first delivered in public, whichever first happened.
 
 (5) In this section, expressions that are defined by section 205 shall have the meanings respectively given to those expressions by that section and do not have the meanings, if any, respectively given to those expressions by Part II.
+
+[Aust. 1968, s. 219]

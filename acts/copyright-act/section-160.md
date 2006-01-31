@@ -22,6 +22,8 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 
 (b) withdraw the reference at any time before the Tribunal makes an order in pursuance of the reference, whether the scheme has been brought into operation or not.
 
-(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed or varied by the order comes into operation, notwithstanding anything in the scheme, forthwith upon the making of the order.
+(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed or varied by the order comes into operation, notwithstanding anything in the scheme, immediately upon the making of the order.
 
 (8) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
+
+[Aust. 1968, s. 154]

@@ -7,3 +7,5 @@ A fair dealing with a literary, dramatic, musical or artistic work, or with an a
 (a) in a newspaper, magazine or similar periodical and a sufficient acknowledgment of the work is made; or
 
 (b) by means of broadcasting or a cable programme service or in a cinematograph film.
+
+[Aust. 1968, s. 42 (1)]

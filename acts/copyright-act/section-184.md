@@ -24,3 +24,5 @@ Part: PART VIII EXTENSION OR RESTRICTION OF THIS ACT
 (b) may apply the provisions of this Act either generally or in relation to such classes of works or other subject-matter, or other classes of cases, as may be specified in those regulations.
 
 (3) The Minister shall not make regulations under this section applying any of the provisions of this Act in the case of a country, other than a country which is a party to a Convention relating to copyright to which Singapore is also a party, unless the Minister is satisfied that, in respect of the class of works or other subject-matter to which those provisions relate, provision has been or will be made under the laws of that country whereby adequate protection will be given to owners of copyright under this Act.
+
+[Aust. 1968, s. 184]

@@ -11,3 +11,7 @@ Where an article, thesis or literary, dramatic or musical work is accompanied by
 (c) a reference in section 45 or 46 to a copy of a part of the article or work included a reference to a copy of that part of the article or work together with a copy of the illustrations that were provided for the purpose of explaining or illustrating that part; and
 
 (d) a reference in section 48 or 49 to the doing of any act in relation to the work included a reference to the doing of that act in relation to the work together with the illustrations.
+
+[Aust. 1968, s. 53]
+
+Division 6 — Copying of Works for Educational Purposes

@@ -9,3 +9,5 @@ If a court orders that seized copies are to be forfeited to the Government, the 
 (b) if no manner of disposal is so prescribed, as the Director- General directs.
 
 [6/98]
+
+[Aust. 1968, s. 135AI]

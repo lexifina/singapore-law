@@ -1,6 +1,6 @@
 # 116A. Accessories to imported articles
 Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-matter other than Works
+Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
 
 (1) The copyright in —
 
@@ -29,3 +29,5 @@ Division: Division 6 — Infringement of Copyright in Subject-matter other than 
 (b) a sound recording or cinematograph film that is an accessory to the article, the use of the accessory with the article for any such purpose shall not be an infringement of the copyright in the published edition of a work, or in the sound recording or cinematograph film, and section 105 (1) shall not apply to the accessory.
 
 [14/94]
+
+[Aust. 1968, s. 10AD]

@@ -21,3 +21,5 @@ Division: Division 4 — Miscellaneous
 (iii) in the case of a lecture — has not been delivered in public, the ownership by that person of the manuscript shall be evidence that that person is the owner of the copyright in the work.
 
 (3) In subsection (1), expressions that are defined by section 205 shall have the meanings respectively given to those expressions by that section and shall not have the meanings, if any, respectively given to those expressions by Part II.
+
+[Aust. 1968, s. 240]

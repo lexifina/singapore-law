@@ -8,4 +8,6 @@ Where —
 
 (b) there is affixed to, or in close proximity to, the machine, in a place readily visible to persons using the machine, a notice of the prescribed dimensions and in accordance with the prescribed form, neither the body administering the library or archives nor the officer- in-charge of the library or archives shall be taken to have authorised the making of the infringing copy by reason only that the copy was made on that machine.
 
+[Aust. 1968, s. 39]
+
 Division 3 — Acts not Constituting Infringements of Copyright Works

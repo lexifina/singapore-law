@@ -11,3 +11,5 @@ Division: Division 3 — Inquiries by, and Applications and References to, Tribu
 (b) the owner of the copyright in the literary or dramatic work.
 
 (3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order apportioning the amount to which the application relates between the parties in such manner as it thinks equitable.
+
+[Aust. 1968, s. 153]

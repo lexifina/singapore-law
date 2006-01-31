@@ -11,7 +11,7 @@ Part: PART XII PERFORMERS’ PROTECTION
 
 [6/98]
 
-(2) Regulations made under subsection (1) may apply the provisions —
+(2) Regulations made under subsection (1) may apply the provisions of this Part —
 
 (a) without exception or modification or subject to such exceptions or modifications as may be specified in the regulations; and
 
@@ -22,3 +22,5 @@ Part: PART XII PERFORMERS’ PROTECTION
 (3) The Minister shall not make regulations applying any of the provisions of this Part in the case of a country, other than a country which is a party to a Convention relating to the protection of performers to which Singapore is also a party, unless the Minister is satisfied that, in respect of the performances to which those provisions relate, provision has been or will be made under the law of that country whereby adequate protection is or will be given to performers whose performances are protected under this Part.
 
 [6/98]
+
+[Aust. 1968, s. 248U]
