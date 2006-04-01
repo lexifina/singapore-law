@@ -7,7 +7,7 @@ Part: PART II LAND SURVEYORS BOARD
 
 (b) to hold or arrange for the holding of such examinations as the Board considers necessary for the purpose of enabling persons to qualify for registration under this Act;
 
-(c) to approve or reject applications for registration under section 12 or to approve any such applications subject to such restrictions as it may think fit to impose;
+(c) to approve or reject applications for registration under section 12 or to approve any such applications subject to such restrictions as it thinks fit to impose;
 
 (d) to establish, maintain and develop the standard of professional conduct and ethics of the surveying profession;
 

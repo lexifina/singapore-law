@@ -1,18 +1,6 @@
-# 35. Powers to require attendance of witnesses, etc.
-Part: PART VIII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 35. Offences by bodies corporate, etc.
+Part: PART VIII GENERAL
 
-(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 30 or 32 by the Board, the Investigation Committee or the Board may —
+Where a corporation, partnership or an unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-(a) require evidence to be given on oath and for that purpose the Chairman of the Investigation Committee or any member of the Board, as the case may be, may administer an oath; and
-
-(b) require any person to attend and give evidence before it and to produce all books, documents and papers in the custody of that person or under his control relating to the subject- matter of the investigation or hearing.
-
-(2) Every person who without lawful excuse refuses or fails —
-
-(a) to attend and give evidence when required to do so by the Investigation Committee or the Board;
-
-(b) to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
-
-(c) to produce to the Investigation Committee or the Board any book, document or paper required of him, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[30
+[44

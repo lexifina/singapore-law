@@ -1,12 +1,16 @@
-# 20. Approval may be revoked or suspended
-Part: PART VI APPROVED ASSISTANT SURVEYORS
+# 20. Application of Companies Act
+Part: PART VI MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
-(1) The Board may revoke or suspend, for such period as the Board thinks fit, any approval granted under section 17 (3) if an approved assistant surveyor is, in the opinion of the Board, unfit to carry out survey work.
+(1) Sections 162, 163 and 197 of and the Eighth Schedule to the Companies Act (Cap. 50) shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation.
 
-[34/99]
+(2) Every such licensed corporation shall —
 
-(2) Any person who is aggrieved by the decision of the Board under subsection (1) may appeal to the Minister whose decision shall be final.
+(a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act (Cap. 50) as if it were not an exempt private company; and
 
-[16D
+(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197 (2) of that Act as if it were not an exempt private company.
 
-[34/99]
+[12/2002]
+
+(3) In this section, ‘‘exempt private company’’ has the same meaning as in the Companies Act.
+
+[25

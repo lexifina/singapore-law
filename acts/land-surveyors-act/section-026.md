@@ -1,8 +1,26 @@
-# 26. Liability insurance
-Part: PART VII MULTI-DISCIPLINE AND CORPORATE PRACTICE
+# 26. Removal from registers
+Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
-Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying survey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
+(1) There shall be removed from the register of surveyors and register of practitioners the name and other particulars of any registered surveyor —
 
-[21
+(a) who has died;
 
-[35/98; 34/99]
+(b) whose registration has been cancelled under section 25; or
+
+(c) who has not renewed his practising certificate for a continuous period of not less than 10 years.
+
+(2) Any registered surveyor may apply to the Board to have his name removed from the register of surveyors.
+
+(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than 2 months before the application is heard.
+
+(4) The Board may for good cause require the applicant to advertise his intention to make the application in such manner as the Board shall direct.
+
+(5) Subject to subsection (6), the Board may after hearing the application direct the Registrar to remove the name of the applicant from the register of surveyors.
+
+(6) No order shall be made on an application under subsection (2) if the Board is satisfied that —
+
+(a) disciplinary action is pending against the applicant; or
+
+(b) the conduct of the applicant is the subject of inquiry or investigation by an Investigation Committee.
+
+[31

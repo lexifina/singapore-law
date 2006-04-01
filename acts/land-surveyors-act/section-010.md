@@ -1,9 +1,9 @@
 # 10. Illegal practice
 Part: PART III PRIVILEGES OF LAND SURVEYORS
 
-(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any survey unless he is an authorised surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
+(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any survey unless he is an authorised surveyor or a registered surveyor, and has in force a practising certificate.
 
-[35/98; 34/99; 17/2001]
+[37/2004]
 
 (2) Subject to the provisions of this Act, no person shall —
 
@@ -27,10 +27,10 @@ Part: PART III PRIVILEGES OF LAND SURVEYORS
 
 (a) a registered surveyor who has in force a practising certificate;
 
-(b) an authorised surveyor who is registered under section 12; or
+(b) an authorised surveyor who has in force a practising certificate; or
 
 (c) under the direction or supervision of any of the persons mentioned in paragraphs (a) and (b).
 
-[35/98; 34/99; 17/2001]
+[35/98; 34/99; 17/2001; 37/2004]
 
 (5) Any person who contravenes subsection (1), (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.

@@ -1,8 +1,12 @@
-# 28. Professional responsibility of supervising surveyor
-Part: PART VII MULTI-DISCIPLINE AND CORPORATE PRACTICE
+# 28. Appeals
+Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
-A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of survey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the survey services were personally supplied by the registered surveyor.
+Where the Board has made —
 
-[23
+(a) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor;
 
-[35/98; 34/99]
+(b) an order of revocation of a licence under section 27 against a corporation or partnership; or
+
+(c) an order imposing any pecuniary penalty on a registered surveyor under section 25 (2) or on a corporation or partnership under section 27 (2), the registered surveyor, corporation or partnership concerned may, within 30 days after the order or penalty has been communicated to him or it, appeal to the High Court whose decision shall be final.
+
+[33

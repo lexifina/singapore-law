@@ -1,8 +1,8 @@
-# 21. Penalty under this Part
-Part: PART VI APPROVED ASSISTANT SURVEYORS
+# 21. Liability insurance
+Part: PART VI MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
-Any registered surveyor who contravenes section 17 (1) or 19 (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying survey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
 
-[16E
+[26
 
-[34/99]
+[35/98; 34/99]

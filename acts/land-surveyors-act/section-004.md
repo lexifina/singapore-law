@@ -9,31 +9,31 @@ Part: PART II LAND SURVEYORS BOARD
 
 (c) to do and perform such other acts as bodies corporate may by law perform.
 
-(2) The Board shall consist of —
+(2) The Board shall consist of the following members to be appointed by the Minister:
 
-(a) the Chief Surveyor who shall be the President;
+(a) a President who shall be appointed from amongst the registered surveyors;
 
-(b) the Deputy Chief Surveyor;
+(b) 3 registered surveyors selected from a list of not less than 4 registered surveyors submitted by the Singapore Institute of Surveyors and Valuers; and
 
-(c) an authorised surveyor appointed by the Minister; and
+(c) such other registered surveyors, not being more than 3, as the Minister may determine.
 
-(d) 3 surveyors appointed by the Minister, of whom one shall be selected from a list of not less than 2 registered surveyors submitted by the Singapore Institute of Surveyors and Valuers.
+[37/2004]
 
-[17/2001]
+(3) A member of the Board shall be appointed for a term not exceeding 2 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
 
-(3) A member of the Board (other than the Chief Surveyor or the Deputy Chief Surveyor) shall be appointed for a term not exceeding 2 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
+[37/2004]
 
-(4) A person shall not be qualified to be appointed as a member of the Board under subsection (2) (c) or (d) if —
+(4) A person shall not be qualified to be appointed as a member of the Board under subsection (2) if —
 
 (a) he is not a citizen or a permanent resident of Singapore;
 
-(b) he is not a registered surveyor;
+(b) he is an undischarged bankrupt or has made any arrangement or composition with his creditors;
 
-(c) he is an undischarged bankrupt or has made any arrangement on composition with his creditors;
+(c) he has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the surveying profession; or
 
-(d) he has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the surveying profession; or
+(d) he is of unsound mind or incapacitated by physical illness.
 
-(e) he is of unsound mind or incapacitated by physical illness.
+[37/2004]
 
 (5) The office of any appointed member of the Board shall become vacant if the member —
 
@@ -47,4 +47,6 @@ Part: PART II LAND SURVEYORS BOARD
 
 (7) The powers of the Board shall not be affected by any vacancy in its membership.
 
-(8) Any question as to whether a person has ceased to be a member of the Board appointed under subsection (2) (c) or (d) shall be determined by the Board whose decision shall be final.
+(8) Any question as to whether a person has ceased to be a member of the Board appointed under subsection (2) shall be determined by the Board whose decision shall be final.
+
+[37/2004]

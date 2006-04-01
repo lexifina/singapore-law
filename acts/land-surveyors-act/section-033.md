@@ -1,12 +1,20 @@
-# 33. Appeals
-Part: PART VIII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 33. Application of fees, etc., received by Board
+Part: PART VIII GENERAL
 
-If the Board has made —
+(1) All fees, penalties and other moneys payable under this Act shall be paid to the Board to be applied —
 
-(a) an order of cancellation of registration or suspension from practice under section 30 against a registered surveyor;
+(a) in the first place to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board; and
 
-(b) an order of revocation of a licence under section 32 against a corporation or partnership; or
+(b) thereafter to providing scholarships and the promotion of learning and education in connection with the surveying profession.
 
-(c) an order imposing any pecuniary penalty on a registered surveyor under section 30 (2) or on a corporation or partnership under section 32 (2), the surveyor, corporation or partnership concerned may, within 30 days after the order or penalty has been communicated to him or it, appeal to the High Court whose decision shall be final.
+[17/2001; 37/2004]
 
-[28
+(2) The Registrar shall take and receive all moneys payable to the Board under this Act.
+
+(3) All fees and other moneys payable to the Board under this Act shall be paid immediately into a bank account approved by the Minister.
+
+(4) The Board may, from time to time, invest any moneys not immediately required by the Board in such trustees’ securities as the Board may determine.
+
+(5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
+
+[42

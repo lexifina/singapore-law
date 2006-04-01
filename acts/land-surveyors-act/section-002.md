@@ -9,13 +9,7 @@ In this Act, unless the context otherwise requires —
 
 (b) a professional engineer who is registered under the Professional Engineers Act (Cap. 253);
 
-‘‘approved assistant surveyor’’ means a person approved to be employed as an assistant surveyor under Part VI;
-
-‘‘assistant surveyor’’ means a person who performs or executes any survey or engages in any survey work under the direction or supervision of a registered surveyor;
-
-‘‘assurance plan’’ means any plan showing approximate boundaries or dimensions and areas for the purpose of identifying land which has not been surveyed to the satisfaction of the Chief Surveyor but is required to be surveyed under the provisions of any written law;
-
-‘‘authorised surveyor’’ means a surveyor who is employed by the Authority, whether or not registered under section 12, and includes any other surveyor registered under section 12 appointed by the Chief Surveyor to be an authorised surveyor;
+‘‘authorised surveyor’’ means a surveyor who is employed by the Authority, whether or not registered under section 12;
 
 ‘‘Authority’’ means the Singapore Land Authority established under the Singapore Land Authority Act (Cap. 301);
 
@@ -23,15 +17,13 @@ In this Act, unless the context otherwise requires —
 
 ‘‘cadastral survey’’ means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
 
-‘‘cadastral survey work’’ means any work which is part of or related to a cadastral survey;
-
 ‘‘certificate of registration’’ means the certificate of registration issued under section 14;
 
 ‘‘Chief Surveyor’’ means the Chief Surveyor appointed under section 3 (1) of the Boundaries and Survey Maps Act (Cap. 25);
 
-‘‘Investigation Committee’’ means an Investigation Committee appointed under section 29 (1);
+‘‘Investigation Committee’’ means an Investigation Committee appointed under section 24 (1);
 
-‘‘licence’’ means a licence to supply survey services in Singapore granted under section 22;
+‘‘licence’’ means a licence to supply survey services in Singapore granted under section 17;
 
 ‘‘licensed’’, in relation to a corporation or partnership, means a corporation or partnership which has in force a licence;
 
@@ -69,4 +61,4 @@ In this Act, unless the context otherwise requires —
 
 ‘‘unlimited corporation’’ means a corporation formed on the principle of having no limit placed on the liability of its members.
 
-[35/98; 34/99; 17/2001]
+[35/98; 34/99; 17/2001; 37/2004]

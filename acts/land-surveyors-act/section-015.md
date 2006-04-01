@@ -17,9 +17,15 @@ Part: PART V PRACTISING CERTIFICATES
 
 (iii) the principal and any other address or addresses at which he practises in Singapore;
 
-(b) such evidence as the Board may require that the applicant has complied with or is exempt from the rules relating to insurance against professional liability; and
+(b) such evidence as the Board may require that the applicant has complied with or is exempt from the rules relating to —
+
+(i) insurance against professional liability; and
+
+(ii) continuing professional development; and
 
 (c) the prescribed fee, and the Board shall, subject to subsection (4), thereupon issue to the registered surveyor a practising certificate.
+
+[37/2004]
 
 (4) The Board may refuse to issue a practising certificate if —
 
@@ -27,15 +33,13 @@ Part: PART V PRACTISING CERTIFICATES
 
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
-(c) the applicant is not resident in Singapore;
+(c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore;
 
-(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore;
+(d) the declaration under subsection (3) (a) contains a statement that to its knowledge is false in a material particular; or
 
-(e) the declaration under subsection (3) (a) contains a statement that to its knowledge is false in a material particular; or
+(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity.
 
-(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity.
-
-[15/95; 35/98; 34/99]
+[15/95; 35/98; 34/99; 37/2004]
 
 (5) Any registered surveyor (not being a registered surveyor who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -52,7 +56,3 @@ Part: PART V PRACTISING CERTIFICATES
 (9) Where the registration of a surveyor is cancelled under section 16, the practising certificate, if any, of that surveyor for the time being in force shall expire immediately and the date of such expiration shall be entered by the Registrar on the register of practitioners.
 
 (10) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
-
-(11) This section shall not apply to an authorised surveyor.
-
-[17/2001]

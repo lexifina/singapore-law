@@ -1,16 +1,8 @@
-# 37. Inspection of Authority’s survey maps, plans or survey records
-Part: PART IX CONDUCT OF CADASTRAL SURVEYS
+# 37. Exemption
+Part: PART VIII GENERAL
 
-(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may, upon payment to the Authority of a fee prescribed under section 47 (3), at all reasonable times be permitted —
+(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
 
-(a) to inspect the relevant maps, plans or survey records lodged with the Authority; and
+(2) Any order made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
 
-(b) to take copies of such information therefrom as he may require.
-
-[17/2001]
-
-(2) Any person referred to in subsection (1) shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
-
-[32
-
-[35/98; 34/99]
+[46

@@ -1,60 +1,30 @@
-# 32. Revocation of licence
-Part: PART VIII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 32. Costs and expenses
+Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
-(1) Subject to subsection (3), the Board may by order revoke any licence it granted to a corporation or partnership if in the opinion of the Board —
+(1) Where the Board has made —
 
-(a) the corporation or partnership has contravened or failed to comply with any of the conditions imposed by the Board under section 23;
+(a) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor;
 
-(b) the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 22 (1), (2) or (4), whichever is applicable;
+(b) an order of revocation of a licence under section 27 against a corporation or partnership; or
 
-(c) a person who is neither —
+(c) an order imposing any pecuniary penalty on a registered surveyor under section 25 (2) or on a corporation or partnership under section 27 (2), the Board may order the registered surveyor, corporation or partnership, as the case may be, to pay to the Board such sum as it thinks fit in respect of costs and expenses incurred by the Board.
 
-(i) a registered surveyor who has in force a practising certificate; nor
+[37/2004]
 
-(ii) an allied professional, has a beneficial interest in the capital assets and profits of the partnership;
+(2) The High Court shall have the jurisdiction to tax any sum ordered by the Board under subsection (1), and such order shall be enforceable as if it were ordered in connection with a civil action in the High Court.
 
-(d) the licence had been obtained by fraud or misrepresentation;
+[37/2004]
 
-(e) the corporation or partnership has ceased to supply survey services in Singapore;
+(3) The costs and expenses referred to in subsection (1) shall include —
 
-(f) the corporation or partnership has contravened or failed to comply with section 24, 25 or 26, or has been convicted of an offence under this Act;
+(a) the costs and expenses of any advocate and solicitor appointed under section 31;
 
-(g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
+(b) such reasonable expenses as the Board may pay to witnesses;
 
-(h) the conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity;
+and
 
-(i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2); or
+(c) such reasonable expenses as may be incurred by the Board in respect of the investigation by the Investigation Committee or in the conduct of proceedings before the Board or any appeal to the High Court.
 
-(j) the corporation or partnership refuses or fails to pay the cost of any correction to its cadastral survey within 14 days of the receipt of a statement issued to it under section 41 (4).
+[35B
 
-[35/98; 34/99]
-
-(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
-
-(a) by order impose on the corporation or partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board; or
-
-(b) order the corporation or partnership to pay the cost of any correction to its cadastral survey incurred by the Chief Surveyor.
-
-[35/98]
-
-(3) The Board shall not exercise its powers under subsection (1) or (2) unless —
-
-(a) an opportunity of being heard by a representative in writing or by counsel had been given to the corporation or partnership against whom the Board intends to exercise its powers; and
-
-(b) at least 3 members of the Board are present at the hearing.
-
-(4) Where the Board has revoked a licence under this section, it shall immediately inform the corporation or partnership concerned.
-
-(5) Any order of revocation made by the Board shall not take effect until the expiration of 30 days after the Board has informed the corporation or partnership concerned and if within that period the corporation or partnership gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by the Court.
-
-(6) Where an order of revocation becomes effective —
-
-(a) the Registrar shall cause notice of the revocation to be published in the Gazette and shall cancel the entry in the register of licensees relating to the corporation or partnership concerned; and
-
-(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply survey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
-
-[35/98; 34/99]
-
-(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
-
-[27
+[37/2004]

@@ -1,16 +1,6 @@
-# 29. Appointment of Investigation Committees
-Part: PART VIII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 29. Reinstatement of registration
+Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
-(1) Without prejudice to the generality of section 7 (2), the Board may appoint one or more Investigation Committees, consisting of such number of members (which may include members of the Board) as the Board may determine, for the purpose of investigating into any complaint against a registered surveyor or a licensed corporation or partnership.
+The Board may, in its discretion, after the expiration of not less than one year from the cancellation of registration of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
 
-(2) An Investigation Committee shall, after investigating into any complaint, report to the Board on the matter and the report shall, amongst other things, deal with the question of the necessity or otherwise of a hearing by the Board under section 30 or 32.
-
-(3) An Investigation Committee shall meet from time to time for the despatch of business and, subject to the provisions of this Act, may regulate its own procedure.
-
-(4) Any member of the Board who is a member of an Investigation Committee investigating into any complaint against a registered surveyor or a licensed corporation or partnership —
-
-(a) shall not take part in any deliberation of the Board under section 30 or 32, as the case may be, with respect to that registered surveyor, corporation or partnership; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or decision.
-
-[24
+[34

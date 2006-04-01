@@ -1,12 +1,16 @@
-# 24. Change in composition of board of directors, members, etc.
-Part: PART VII MULTI-DISCIPLINE AND CORPORATE PRACTICE
+# 24. Appointment of Investigation Committees
+Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
-(1) Any licensed corporation shall, within 30 days of the occurrence of —
+(1) Without prejudice to the generality of section 7 (2), the Board may appoint one or more Investigation Committees, consisting of such number of members (which may include members of the Board) as the Board may determine, for the purpose of investigating into any complaint against a registered surveyor or a licensed corporation or partnership.
 
-(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 22 (1), (2) or (4), whichever is applicable; or
+(2) An Investigation Committee shall, after investigating into any complaint, report to the Board on the matter and the report shall, amongst other things, deal with the question of the necessity or otherwise of a hearing by the Board under section 25 or 27.
 
-(b) any change in the composition of its board of directors, members or shareholders, furnish the Board a true report in writing giving full particulars of the alteration or change.
+(3) An Investigation Committee shall meet from time to time for the despatch of business and, subject to the provisions of this Act, may regulate its own procedure.
 
-(2) Any licensed partnership shall, within 30 days of the occurrence of any change in the composition of its members, furnish the Board a true report in writing giving full particulars of the change.
+(4) Any member of the Board who is a member of an Investigation Committee investigating into any complaint against a registered surveyor or a licensed corporation or partnership —
 
-[19
+(a) shall not take part in any deliberation of the Board under section 25 or 27, as the case may be, with respect to that registered surveyor, corporation or partnership; and
+
+(b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or decision.
+
+[29
