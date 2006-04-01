@@ -1,7 +1,7 @@
 # 75. Refund and repayment of duty
 Part: PART X MISCELLANEOUS
 
-(1) The Commissioner may, if he is satisfied that any money has been overpaid as duty under this Act, certify the amount to be refunded and shall cause the refund to be made forthwith.
+(1) The Commissioner may, if he is satisfied that any money has been overpaid as duty under this Act, certify the amount to be refunded and shall cause the refund to be made immediately.
 
 (2) No refund under subsection (1) shall be made unless a claim in respect thereof is lodged with the Commissioner within 6 months from the date of the overpayment or within such period as the Commissioner may, in his discretion, allow.
 

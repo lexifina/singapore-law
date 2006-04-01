@@ -1,13 +1,7 @@
 # 9. Composition of duty
 Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instruments to duty
 
-(1) Where the Commissioner is of the opinion that it is impracticable or inexpedient to require that the duty payable under this Act should be charged and paid on each separate instrument, the Commissioner may by order authorise any person to compound the
-
-*Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
-
-Sections 2 (a), 36, 37 and 39 (2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
-
-payment of duty on such instruments as may be specified in the order on the following conditions:
+(1) Where the Commissioner is of the opinion that it is impracticable or inexpedient to require that the duty payable under this Act should be charged and paid on each separate instrument, the Commissioner may by order authorise any person to compound the payment of duty on such instruments as may be specified in the order on the following conditions:
 
 (a) that the person delivers to the Commissioner accounts in respect of the instruments at a date to be specified by the Commissioner in such form and containing such particulars as the Commissioner may direct;
 

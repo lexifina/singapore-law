@@ -3,19 +3,17 @@ Part: PART IX OFFENCES AND PENALTIES
 
 (1) No person shall —
 
-(a) resist or obstruct the Commissioner or any officer in the performance of any duty or the exercise of any power under this Act or any rules made thereunder; or
+(a) resist or obstruct the Commissioner or any officer in the performance of any duty or the exercise of any power under this Act; or
 
 (b) wilfully mislead the Commissioner or any officer in any particular likely to affect the discharge of his duty.
 
 [33/99]
 
-(2) Subject to subsection (3), no person shall, being lawfully asked any question by the Commissioner or any officer under this Act or any rules made thereunder, give an answer (whether orally or in writing) to the question or, in furnishing information, make any statement or representation that is false or misleading in any material particular.
+(2) Subject to subsection (3), no person shall, being lawfully asked any question by the Commissioner or any officer under this Act, give an answer (whether orally or in writing) to the question or, in furnishing information, make any statement or representation that is false or misleading in any material particular.
 
 [33/99]
 
-(3) Any person who contravenes or fails to comply with subsection
-
-(1) or (2) shall be guilty of an offence.
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
 [33/99]
 

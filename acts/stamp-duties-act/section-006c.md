@@ -5,6 +5,6 @@ Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instru
 
 [33/99]
 
-(2) A registered person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, forthwith attach the stamp certificate to the instrument.
+(2) A registered person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, immediately attach the stamp certificate to the instrument.
 
 [33/99]

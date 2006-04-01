@@ -29,7 +29,7 @@ and
 
 (b) any annuity reserved out of the property or any part of it, or any life or other interest so reserved, being an interest which is subject to forfeiture.
 
-(7) If on a claim made to the Commissioner not later than one year after the making or execution of the instrument, it is shown to his satisfaction that any such power as is mentioned in subsection (6) (a) has been exercised in relation to the property and the property or any property representing it has been reconveyed or retransferred in the whole or in part in consequence of that exercise, the Commissioner shall repay the duty paid by virtue of subsection (6) —
+(7) If, on a claim made to the Commissioner not later than one year after the making or execution of the instrument, it is shown to his satisfaction that any such power as is mentioned in subsection (6) (a) has been exercised in relation to the property and the property or any property representing it has been reconveyed or retransferred in the whole or in part in consequence of that exercise, the Commissioner shall repay the duty paid by virtue of subsection (6) —
 
 (a) in a case where the whole of such property has been so reconveyed or retransferred, so far as it exceeds the duty which would have been payable apart from subsection (6);
 

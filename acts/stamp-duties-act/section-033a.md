@@ -7,9 +7,7 @@ Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 (b) to relieve any person from any liability to pay duty; or
 
-(c) to reduce or avoid any liability imposed or which would otherwise have been imposed on any person by this Act,
-
-the Commissioner may, without prejudice to such validity as it may have in any other respect or for any other purpose, disregard or vary the arrangement and make such adjustments as he considers appropriate, including the amount of duty payable, or the imposition of liability to duty, so as to counteract any reduction in or avoidance of duty payable by that person from or under that arrangement.
+(c) to reduce or avoid any liability imposed or which would otherwise have been imposed on any person by this Act, the Commissioner may, without prejudice to such validity as it may have in any other respect or for any other purpose, disregard or vary the arrangement and make such adjustments as he considers appropriate, including the amount of duty payable, or the imposition of liability to duty, so as to counteract any reduction in or avoidance of duty payable by that person from or under that arrangement.
 
 [33/99]
 

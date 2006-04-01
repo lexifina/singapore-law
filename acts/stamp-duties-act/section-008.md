@@ -5,6 +5,10 @@ Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instru
 
 [38/75; 14/83; 26/96; 33/99]
 
+*Section 8 to be repealed when section 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+
+(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+
 (2) A licence issued under this section shall be subject to such conditions as the Commissioner may in his discretion impose.
 
 (3) The issue of a licence under this section shall be notified by publication in the Gazette.

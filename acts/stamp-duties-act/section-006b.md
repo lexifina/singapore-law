@@ -9,7 +9,7 @@ Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instru
 
 and
 
-(c) to stamp the instrument by attaching a stamp certificate to it which bears an authorisation number issued for the instrument and such other particulars as are determined by the Commissioner, without the need for the instrument to be presented to the Commissioner or a proper officer in charge of the stamp office.
+(c) to stamp the instrument by attaching a stamp certificate to it which bears an authorisation number issued for the instrument and such other particulars as are determined by the Commissioner, without the need for the instrument to be presented to the Commis- sioner or a proper officer in charge of the stamp office.
 
 [33/99]
 

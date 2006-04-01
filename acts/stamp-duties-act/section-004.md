@@ -5,7 +5,7 @@ Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instru
 
 (a) which, not having been previously executed by any person, is executed in Singapore; or
 
-(b) which is executed outside Singapore, and relates to any property situate, or to any matter or thing done or to be done, in Singapore, and is received in Singapore, shall be chargeable with duty of the amount specified in that Schedule as the proper duty for that instrument.
+(b) which is executed outside Singapore, and relates to any property situated, or to any matter or thing done or to be done, in Singapore, and is received in Singapore, shall be chargeable with duty of the amount specified in that Schedule as the proper duty for that instrument.
 
 [33/99]
 

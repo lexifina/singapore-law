@@ -1,4 +1,4 @@
-# 20. (Repealed by Act 26 of 1996)
+# 20. (Repealed)
 Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
-(Repealed by Act 26 of 1996).
+(Repealed by Act 26 of 1996)

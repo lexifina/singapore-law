@@ -1,4 +1,4 @@
-# 28. (Repealed by Act 33 of 1999)
+# 28. (Repealed)
 Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
-(Repealed by Act 33 of 1999).
+(Repealed by Act 33 of 1999)

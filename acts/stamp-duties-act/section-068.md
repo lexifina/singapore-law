@@ -5,7 +5,7 @@ Part: PART IX OFFENCES AND PENALTIES
 
 [33/99]
 
-(2) The Commissioner may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+(2) The Commissioner may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
 [33/99]
 

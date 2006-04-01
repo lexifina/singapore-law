@@ -1,9 +1,9 @@
 # 39A. Notice of objection
 Part: PART V ADJUDICATION AS TO STAMPS
 
-(1) Any person who is dissatisfied with an assessment of the Commissioner under section 37 may, by written notice (referred to in this Act as a notice of objection), object to the assessment and apply to the Commissioner to review the assessment.
+(1) Any person who is dissatisfied with an assessment of the Commissioner under any provision of this Act may, by written notice (referred to in this Act as a notice of objection), object to the assessment and apply to the Commissioner to review the assessment.
 
-[33/99]
+[33/99; 38/2002]
 
 (2) Every notice of objection must state the grounds of objection to the Commissioner’s assessment and must be made within 30 days after the date of the assessment or such further period as the Commis- sioner may allow in any particular case.
 

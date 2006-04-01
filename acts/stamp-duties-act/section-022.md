@@ -5,7 +5,7 @@ Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 (a) any equitable estate or interest in any property; or
 
-(b) any estate or interest in any property except property situate outside Singapore or goods, wares or merchandise, or stock or marketable securities, or any ship or vessel, or part interest, share or property of or in any ship or vessel, shall be charged with the same ad valorem duty, payable by the purchaser, as if it were an actual conveyance on sale of the estate, interest or property contracted or agreed to be sold.
+(b) any estate or interest in any property except property situated outside Singapore or goods, wares or merchandise, or stock or marketable securities, or any ship or vessel, or part interest, share or property of or in any ship or vessel, shall be charged with the same ad valorem duty, payable by the purchaser, as if it were an actual conveyance on sale of the estate, interest or property contracted or agreed to be sold.
 
 [26/96]
 
@@ -55,7 +55,7 @@ Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 (ii) if the instrument is not dated, 6 months after the execution thereof;
 
-(iii) in the case of a contract or agreement that is rescinded or annulled on the ground referred to in subsection (6) (g), 2 months after the refusal of a Strata Titles Board; or
+(iii) in the case of a contract or an agreement that is rescinded or annulled on the ground referred to in subsection (6) (g), 2 months after the refusal of a Strata Titles Board; or
 
 (iv) such further time as the Commissioner may deem reasonable when, in unavoidable circumstances, the instrument cannot be produced within that period;
 

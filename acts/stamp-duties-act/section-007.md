@@ -7,6 +7,10 @@ Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instru
 
 [33/99]
 
+*Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
+
+(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+
 (3) The officer in charge of any stamp office authorised by the Commissioner to issue impressed stamps shall, on presentation to him at his office of any instrument for the purpose of being stamped with an impressed stamp, affix to the instrument an impressed stamp or stamps denoting the amount of duty paid.
 
 [14/83]
@@ -16,10 +20,6 @@ Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instru
 (a) the person required by law to cancel the adhesive stamp cancels it by writing on or across the stamp his name or initials, or the name or initials of his firm, together with the true date of his so writing, or otherwise effectually cancels the stamp and renders it incapable of being used for any other instrument; or
 
 (b) it is otherwise proved that the stamp appearing on the instrument was affixed thereto at the proper time.
-
-*Section 7 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 is brought into operation.
-
-Sections 2 (a), 36, 37 and 39 (2) of the Stamp Duties (Amendment) Act 1999 (Act 33/99) were not in operation at the time of this Revised Edition.
 
 (5) Where 2 or more adhesive stamps are used to denote the stamp duty upon an instrument, each or every stamp shall be cancelled in the manner provided in subsection (4).
 

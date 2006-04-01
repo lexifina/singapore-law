@@ -1,13 +1,17 @@
 # 37. Mode of adjudication as to proper stamp duty
 Part: PART V ADJUDICATION AS TO STAMPS
 
-(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall, upon payment of the relevant adjudication fee prescribed in the Fourth Schedule, adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
+(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
 
-[33/99]
+[33/99; 38/2002]
 
 (1A) Where the person seeks the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable, he shall in making the application for adjudication set forth the value upon which in his opinion duty is chargeable.
 
 [38/75]
+
+(1B) The person seeking the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable shall pay the relevant adjudication fee prescribed in the Fourth Schedule at such time as the Commissioner may determine, and such fee shall remain payable notwithstanding that he subsequently withdraws his application for adjudication.
+
+[38/2002]
 
 (2) For the purpose of the adjudication under subsection (1), the Commissioner may require any of the following:
 

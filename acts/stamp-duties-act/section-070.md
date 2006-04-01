@@ -27,9 +27,7 @@ Part: PART X MISCELLANEOUS
 
 (7) For the purposes of payment of any duty due from any moneys referred to in subsection (1) in a joint account in any bank or from the proceeds of sale of any immovable property owned by 2 or more persons as joint owners, the following provisions shall apply:
 
-(a) the person declared by the Commissioner under subsection
-
-(1) to be the agent of any person who is an owner of such moneys shall —
+(a) the person declared by the Commissioner under subsection (1) to be the agent of any person who is an owner of such moneys shall —
 
 (i) within 14 days of the receipt of the notice under subsection (1), send a notice by registered post addressed to every owner of such moneys at the address last known to the agent informing the owner of such declaration; and
 
@@ -49,7 +47,7 @@ Part: PART X MISCELLANEOUS
 
 [26/96]
 
-(8) For the purpose of this section —
+(8) In this section —
 
 ‘‘duty’’ includes any penalty or any other money which a person is liable to pay to the Commissioner under this Act;
 

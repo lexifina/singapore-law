@@ -1,6 +1,12 @@
-# 33. Directions as to certain contract notes
+# 33. Directions as to disposal of shares in certain circumstances
 Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
-(1) Where a contract note is a continuation or carrying over note made for the purpose of continuing or carrying over any transaction for the sale or purchase of stock or marketable securities, the contract note, although it is made in respect of both a sale and purchase, shall be charged with duty under this section as if it related to one of those transactions only, and, if different rates of duty are chargeable in respect of those transactions, to that one of those transactions which would render the contract note chargeable at the highest rate.
+Where a disposal of shares in a company by a transferor to a transferee is effected by —
 
-(2) Where a contract note advises the sale or purchase of more than one description of stock or marketable security, the note shall be deemed to be as many contract notes as there are descriptions of stocks or securities sold or purchased.
+(a) the cancellation of the shares of the transferor in the company;
+
+and
+
+(b) the issue of new shares in that company to the transferee, such disposal of shares shall be treated as a transfer of shares from the transferor directly to the transferee and ad valorem duty shall be charged on any instrument that, in the opinion of the Commissioner, effects, whether directly or indirectly and whether wholly or partially, any arrangement for the disposal of the shares.
+
+[38/2002]

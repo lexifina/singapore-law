@@ -7,7 +7,7 @@ Part: PART VII INSTRUMENTS NOT DULY STAMPED
 
 [26/96]
 
-(2) In every other case in which an instrument is impounded under section 51, the person impounding the instrument shall send it forthwith to the Commissioner.
+(2) In every other case in which an instrument is impounded under section 51, the person impounding the instrument shall send it immediately to the Commissioner.
 
 (3) The Commissioner, on payment of the duty and penalty, if any, chargeable in respect thereof under section 46, shall stamp the instrument and shall return it to the person who sent it to him, but if such duty and penalty, if any, is not paid, he shall retain the instrument.
 
