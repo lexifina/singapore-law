@@ -25,6 +25,8 @@ Part: PART II SURVEY
 
 (iii) to give any direction to the registered surveyor of the survey made by him.
 
-(2) In the exercise of the powers conferred by subsection (1), the Chief Surveyor and survey officer shall have the right of access to and entry upon any land, foreshore or sea-bed.
+(2) In the exercise of the powers conferred by subsection (1), the Chief Surveyor and survey officer shall have the right of access to and entry upon any land, foreshore or seabed.
 
 (3) The powers conferred on the Chief Surveyor and survey officer by subsections (1) and (2) may be exercised at all reasonable times and with such number of assistants as the Chief Surveyor or survey officer, as the case may be, thinks appropriate.
+
+[Malaysia NLC 1965, s. 399]

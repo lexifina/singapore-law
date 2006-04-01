@@ -16,3 +16,5 @@ Part: PART II SURVEY
 (2) A certified plan shall be prima facie evidence of the boundaries and boundary marks of the parcel of land to which it refers, and of its area and lot number.
 
 (3) Any plan for a cadastral survey of a parcel of land approved by, and filed in the office of, the Chief Surveyor under the repealed Act shall be deemed to have been approved by, and filed in the office of, the Chief Surveyor under subsection (1) (e).
+
+[Malaysia NLC 1965, s. 396]

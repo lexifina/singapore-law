@@ -6,3 +6,5 @@ Part: PART II SURVEY
 (2) The amount mentioned in subsection (1) shall be levied in the manner provided by the Criminal Procedure Code (Cap. 68) for the collection of fines.
 
 (3) If any person committing an offence under this section cannot be found, the Chief Surveyor may give directions for the replacement or repair of any boundary mark or survey control mark, and may order the cost thereof to be paid by the owners of the adjacent lands in such proportion as appears to the Chief Surveyor to be proper.
+
+[Malaysia NLC 1965, s. 403; BSMA 1985 Ed., s. 33]
