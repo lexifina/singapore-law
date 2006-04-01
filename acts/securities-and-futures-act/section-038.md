@@ -1,9 +1,19 @@
-# 38. Report by overseas securities exchange and overseas futures exchange
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 4 — Recognised Trading System Providers
+# 38. Obligation to notify Authority of certain matters … … 85
+Part: PART II MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-(1) Every recognised trading system provider which is an overseas securities exchange or overseas futures exchange shall submit to the Authority a report, in such manner and containing such information as the Authority may prescribe, at least once in every calendar year.
+A recognised market operator shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
 
-(2) The report shall contain a statement as to whether any event had occurred in the year preceding the date of the report which may affect the compliance with the requirements specified in section 36 (4) or (6) or any regulations made under section 7 or conditions or restrictions imposed under section 36 (4) by the overseas securities exchange or overseas futures exchange as are required for a person to be recognised as a recognised trading system provider.
+(a) any material change to the information provided by the recognised market operator in its application under section 7 (1) or 11 (1);
 
-(3) The report shall also contain such other information as the Authority may require.
+(b) any change of a director or the chief executive officer of the recognised market operator;
+
+(c) the recognised market operator becoming aware of a financial irregularity or other matter which in its opinion —
+
+(i) may affect its ability to discharge its financial obligations; or
+
+(ii) may affect the ability of a participant of the recognised market operator to meet its financial obligations to the recognised market operator;
+
+(d) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the recognised market operator.
+
+[1/2005]

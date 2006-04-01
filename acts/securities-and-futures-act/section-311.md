@@ -1,9 +1,11 @@
-# 311. Appeal Advisory Committees
+# 311. Appeal Advisory Committees … … … … … … 504
 Part: PART XIV APPEALS
 
 (1) For the purpose of enabling Appeal Advisory Committees to be constituted under section 310, the Minister shall appoint a panel (referred to in this Part as the Appeal Advisory Panel) comprising such members from the financial services industry, and the public and private sectors, as the Minister may appoint.
 
-(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years.
+(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years and shall be eligible for re-appointment.
+
+[16/2003]
 
 (3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing relating to the securities or futures industry and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
 

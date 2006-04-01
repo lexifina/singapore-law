@@ -1,4 +1,4 @@
-# 115. Additional powers of Authority in respect of auditors
+# 115. Additional powers of Authority in respect of auditors … 188
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 Division: Division 3 — Audit
 
@@ -13,3 +13,5 @@ Division: Division 3 — Audit
 (d) a duty to submit a report to the Authority on any of the matters referred to in paragraphs (b) and (c), and the auditor shall carry out such additional duty or duties.
 
 (2) A holder of a capital markets services licence shall remunerate the auditor in respect of the discharge of such additional duty or duties as the Authority may impose under subsection (1).
+
+[SIA, s. 70 (3); FTA, s. 35]

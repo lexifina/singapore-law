@@ -1,4 +1,4 @@
-# 116. Defamation
+# 116. Defamation … … … … … … … … … 189
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 Division: Division 3 — Audit
 
@@ -9,3 +9,5 @@ Division: Division 3 — Audit
 (b) the submission of any report to the Authority under section 108, 109 (4) or 115 (1) (d).
 
 (2) Subsection (1) shall not restrict or otherwise affect any right, privilege or immunity that, apart from this section, the auditor or his employee has as a defendant in an action for defamation.
+
+[FTA, s. 36]

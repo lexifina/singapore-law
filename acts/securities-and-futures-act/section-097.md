@@ -1,11 +1,11 @@
-# 97. Removal of officer of holder of capital markets services licence
+# 97. Removal of officer of holder of capital markets services licence … … … … … … … … … … 175
 Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
 
 (1) Where the Authority is satisfied that an officer of a holder of a capital markets services licence —
 
 (a) has wilfully contravened or wilfully caused that holder to contravene this Act;
 
-(b) has without reasonable justification or excuse failed to enforce compliance with this Act;
+(b) has without reasonable excuse failed to enforce compliance with this Act;
 
 (c) has failed to discharge the duties or functions of his office;
 
@@ -15,13 +15,27 @@ Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Di
 
 (f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
 
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly, the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors direct by notice in writing that holder to remove the officer from office or employment, and that holder shall comply with such notice notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly, the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors direct by notice in writing that holder to remove the officer from office or employment, and that holder shall comply with such notice notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+
+[1/2005]
 
 (2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a holder of a capital markets services licence has failed to discharge the duties or functions of his office for the purposes of subsection (1) (c), have regard to such criteria as may be prescribed or as may be specified in written directions.
 
-(3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder a right to be heard.
+(3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder an opportunity to be heard.
 
-(4) Where the Authority directs a holder of a capital markets services licence to remove the officer from office or employment under this section on any ground referred to in subsection (1) (d), (e), (f) or (g), the Authority need not give that holder an opportunity to be heard.
+[1/2005]
+
+(4) The Authority may direct a holder of a capital markets services licence to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the holder an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[16/2003]
 
 (5) Where the Authority directs a holder of a capital markets services licence to remove from office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
 

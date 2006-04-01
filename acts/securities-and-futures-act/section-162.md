@@ -1,9 +1,11 @@
-# 162. Offences under this Subdivision
+# 162. Offences under this Subdivision … … … … … 218
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 Subdivision: Subdivision (2) — Examination of persons
 
-(1) A person who, without reasonable justification or excuse, refuses or fails to comply with section 154 or 156 (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(1) A person who, without reasonable excuse, refuses or fails to comply with section 154 or 156 (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[1/2005]
 
 (2) A person who, without reasonable excuse —
 
@@ -17,4 +19,8 @@ Subdivision: Subdivision (2) — Examination of persons
 
 (4) It shall be a defence to a prosecution for an offence under subsection (3) if the defendant proves that he believed on reasonable grounds that the information or statement was true and was not misleading.
 
-(5) A person who, without reasonable justification or excuse, obstructs or hinders the Authority or another person in the exercise of any power under this Subdivision shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) A person who, without reasonable excuse, obstructs or hinders the Authority or another person in the exercise of any power under this Subdivision shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[1/2005]
+
+[SIA, s. 6; ASIC 1989, s. 63−67]

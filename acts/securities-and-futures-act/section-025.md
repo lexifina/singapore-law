@@ -1,11 +1,32 @@
-# 25. Power of Authority to approve futures contracts
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 2 — Exchanges
+# 25. Power of court to order observance or enforcement of business rules or listing rules … … … … … … 69
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
+Subdivision: Subdivision (2) — Rules of approved exchanges
 
-(1) No futures exchange shall list or de-list any futures contract on its exchange or permit the trading of any futures contract on the futures market established or operated by the futures exchange without the prior approval of the Authority.
+(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules or listing rules of an approved exchange fails to do so, the High Court may, on the application of the Authority, an approved exchange or a person aggrieved by the failure, and after giving the first-mentioned person an opportunity to be heard, make an order directing the first- mentioned person to comply with, observe, enforce or give effect to those business rules or listing rules.
 
-(2) The Authority may grant approval for the listing or de-listing of a futures contract on a futures exchange or for the trading of any futures contract on the futures market established or operated by the futures exchange subject to such conditions or restrictions as the Authority may think fit.
+[1/2005]
 
-(3) A futures exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(2) A person against whom an order under subsection (1) may be made shall be —
 
-(4) A futures exchange which contravenes any of the conditions or restrictions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(a) a corporation which —
+
+(i) has been admitted to the official list of an approved exchange; and
+
+(ii) has not been removed from that official list;
+
+(b) a person associated with a corporation which —
+
+(i) has been admitted to the official list of an approved exchange; and
+
+(ii) has not been removed from that official list, to the extent to which the business rules or listing rules purport to apply to him; or
+
+(c) an approved exchange.
+
+[1/2005]
+
+(3) This section is in addition to, and not in derogation of, any other remedy available to an aggrieved person referred to in subsection (1).
+
+[1/2005]
+
+[SIA, s. 20; FTA, s. 10]

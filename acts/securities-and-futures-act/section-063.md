@@ -1,25 +1,15 @@
-# 63. Power of Authority to issue directions to clearing house
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 2 — Clearing Houses
+# 63. Permissible use of customers’ money and assets by designated clearing house … … … … … … 105
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
 
-(1) The Authority may, if it thinks it necessary or expedient —
+(1) Where a member of a designated clearing house fails to meet its obligations to the designated clearing house, the designated clearing house may use any money or assets deposited or paid in respect of or in relation to contracts of customers of the member and held by the designated clearing house, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62 (2) (b), to meet the obligations of the member to the designated clearing house, if the designated clearing house has reasonable grounds for forming an opinion that —
 
-(a) for ensuring fair and orderly securities markets or futures markets, or for ensuring fair, orderly and expeditious clearing and settlement of transactions in securities or futures contracts;
+(a) the failure of the member to meet the member’s obligations is directly attributable to the failure of any of the customers of the member to meet that customer’s obligations under any market contract; and
 
-(b) for ensuring the integrity of, and proper management of systemic risks in securities markets or futures markets; or
+(b) the failure to use the money or assets to meet the obligations of the member may jeopardise the financial integrity of the designated clearing house.
 
-(c) in the interests of the public or section of the public or for the protection of investors, issue directions by notice in writing either of a general or specific nature to a clearing house.
+[1/2005]
 
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
+(2) A designated clearing house shall notify the Authority prior to using any such money or assets in the circumstances specified in subsection (1).
 
-(a) the clearing or settlement of securities or futures contracts and the making of adjustments of contractual obligations arising out of those securities or futures contracts;
-
-(b) the manner in which a clearing house carries on its business;
-
-and
-
-(c) any other matter which the Authority considers necessary for the proper administration of this Act, and the clearing house shall comply with any such direction.
-
-(3) A clearing house which, without reasonable justification or excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+[1/2005]

@@ -1,51 +1,38 @@
-# 9. Power of Authority to approve securities exchange or futures exchange
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 2 — Exchanges
+# 9. General criteria to be taken into account by Authority … 55
+Part: PART II MARKETS
+Division: Division 1 — Establishment of Markets
+Subdivision: Subdivision (1) — Approved exchange and recognised market operator
 
-(1) A corporation may apply to the Authority for approval to be a securities exchange or futures exchange in such form and manner as the Authority may prescribe.
+(1) The Authority may prescribe the criteria which it may take into account for the purposes of deciding —
 
-(2) The application shall be accompanied by the prescribed fee.
+(a) whether an applicant referred to in section 7 (1) or 11 (1) should be approved as an approved exchange or recognised as a recognised market operator;
 
-(3) The Authority may require a corporation to provide the Authority with such further information as it considers necessary in relation to the application, in such form or verified in such manner as the Authority may direct.
+(b) whether an approved exchange or a recognised market operator that is subject to a review by the Authority under section 11 (5) should be approved as an approved exchange or recognised as a recognised market operator; and
 
-(4) The Authority may, in writing, subject to such conditions or restrictions as it may think fit to impose, approve a corporation as a securities exchange or futures exchange if the Authority is satisfied that —
+(c) the conditions or restrictions that the Authority may impose under section 8 (4) or (5).
 
-(a) the corporation will ensure that, as far as is reasonably practicable —
+[1/2005]
 
-(i) in the case of a securities exchange, that it will operate an orderly, informed and fair securities market; or
+(2) Without prejudice to section 8 and subsection (1), the Authority may, for the purposes of recognising an operator of an overseas market as a recognised market operator under section 8 (2), have regard, in addition to any criteria prescribed under subsection (1), to —
 
-(ii) in the case of a futures exchange, that it will operate an orderly, informed and fair futures market;
+(a) whether adequate arrangements exist for co-operation between the Authority and the financial services regulatory authority responsible for the supervision of the operator in the country or territory in which the head office or principal place of business of the operator is situated; and
 
-(b) the corporation will manage any risks associated with its business and operations prudently;
+(b) whether the operator is, in the country or territory in which the head office or principal place of business of the operator is situated, subject to requirements and supervision comparable, in the degree to which the objectives specified in section 5 are achieved, to the requirements and supervision to which approved exchanges and recognised market operators are subject under this Act.
 
-(c) the corporation, in discharging its obligations under paragraph (a), will not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+[1/2005]
 
-(d) the corporation will enforce compliance by its members with its business rules and, where appropriate, its listing rules;
+(3) In considering whether it is satisfied that the operator of an overseas market has met the requirements mentioned in subsection (2), the Authority may have regard to —
 
-(e) the business rules and, where appropriate, listing rules of the corporation make satisfactory provision for —
+(a) the relevant laws and practices of the country or territory in which the head office or principal place of business of the operator is situated; and
 
-(i) an orderly, informed and fair market in securities or futures contracts that are traded through its facilities;
+(b) the rules and practices of the operator.
 
-and
+[1/2005]
 
-(ii) the proper regulation and supervision of its members;
+(4) In this section, ‘‘operator of an overseas market’’ means a person whose head office is situated in a country or territory outside Singapore, and who is authorised to operate a market by a financial services regulatory authority of —
 
-(f) the corporation has sufficient financial, human and system resources to —
+(a) that country or territory; or
 
-(i) establish and operate a fair and efficient securities market or futures market;
+(b) the country or territory in which the principal place of business of that person is situated.
 
-(ii) meet contingencies or disasters; and
-
-(iii) provide adequate security arrangements; and
-
-(g) it would not be contrary to the interests of the investing public to approve the application.
-
-(5) In subsection (4) (f), ‘‘contingencies or disasters’’ includes events such as technical complications occurring within automated systems.
-
-(6) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval to be a securities exchange or futures exchange.
-
-(7) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(8) The Authority shall give notice in the Gazette of any securities exchange or futures exchange that has been approved under this section.
-
-(9) A securities exchange or futures exchange which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+[1/2005]

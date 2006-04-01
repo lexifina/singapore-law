@@ -1,10 +1,10 @@
 # THIRD SCHEDULE
 
-Section 82 (2)
+Sections 82 (2) and 286 (3)
 
 SPECIFIED PERSONS
 
-1. Any company registered under the Trust Companies Act (Cap. 336) whose carrying on of the business in that regulated activity is solely incidental to its carrying on of the business for which it is registered under that Act.
+1. Any company licensed under the Trust Companies Act 2005 (Act 11 of 2005) whose carrying on of the business in that regulated activity is solely incidental to its carrying on of the business for which it is registered under that Act.
 
 2. Any public statutory corporation established under any Act in Singapore.
 
@@ -22,22 +22,10 @@ SPECIFIED PERSONS
 
 7. Any approved trustee for a collective investment scheme as defined in section 289 whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such approved trustee.
 
-8.—(1) Any responsible person for a collective investment scheme as defined in section 283 in respect of its dealing in securities, if such responsible person is also —
+8. (Deleted by Act 1/2005) THIRD SCHEDULE — continued
 
-(a) a holder of a capital markets services licence for fund management; or
+9. A foreign company whose carrying on of any regulated activity is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempted under section 99 (1) (a), (b),
 
-(b) an exempt person in respect of fund management.
+(c) or (d) (on the other hand), where such arrangement is approved by the Authority.
 
-(2) Any responsible person for a collective investment scheme as defined in section 283 in respect of its dealing in securities which are units of that collective investment scheme, if the dealing is effected through any of the following persons:
-
-THIRD SCHEDULE — continued
-
-(a) a holder of a capital markets services licence to deal in securities;
-
-(b) an exempt person in respect of dealing in securities that are units of any collective investment scheme;
-
-(c) a financial adviser licensed under the Financial Advisers Act (Cap. 110) to market collective investment schemes; or
-
-(d) an exempt financial adviser as defined in the Financial Advisers Act in respect of marketing of collective investment schemes.
-
-9. A foreign company whose carrying on of any regulated activity is effected through its related corporation licensed under this Act or exempted under section 99 (1) (a), (b), (c) or (d), under an arrangement approved by the Authority.
+[16/2003; 1/2005; 11/2005]

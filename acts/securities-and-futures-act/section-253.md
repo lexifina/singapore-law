@@ -1,22 +1,26 @@
-# 253. Criminal liability for false or misleading statements
+# 253. Criminal liability for false or misleading statements … … 316
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Prospectus Requirements
+Subdivision: Subdivision (2) — Prospectus requirements
 
-(1) Where an offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation is made in or is accompanied by a prospectus or profile statement and —
+(1) Where an offer of securities is made in or accompanied by a prospectus or profile statement, or, in the case of an offer referred to in section 280, where a prospectus or profile statement is prepared and issued in relation to the offer, and —
 
 (a) a false or misleading statement is contained in —
 
 (i) the prospectus or the profile statement; or
 
-(ii) any application form for the shares or debentures, or units of shares or debentures;
+(ii) any application form for the securities;
 
-(b) there is an omission to state any information required to be included in the prospectus under section 243 or 244 or there is an omission to state any information required to be included in the profile statement under section 246, as the case may be; or
+(b) there is an omission to state any information required to be included in the prospectus under section 243 or there is an omission to state any information required to be included in the profile statement under section 246, as the case may be;
+
+or
 
 (c) there is an omission to state a new circumstance that —
 
 (i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
 
-(ii) would have been required to be included in the prospectus under section 243 or 244, or required to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority, the persons referred to in subsection (4) shall be guilty of an offence even if such persons , unless otherwise specified, were not involved in the making of the false or misleading statement or the omission, and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(ii) would have been required to be included in the prospectus under section 243, or required to be included in the profile statement under section 246, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority, the persons referred to in subsection (4) shall be guilty of an offence even if such persons, unless otherwise specified, were not involved in the making of the false or misleading statement or the omission, and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[16/2003; 1/2005]
 
 (2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person made the statement without having reasonable grounds for making the statement.
 
@@ -24,20 +28,66 @@ Subdivision: Subdivision (2) — Prospectus Requirements
 
 (4) The persons guilty of the offence are —
 
-(a) the person making the offer or invitation;
+(a) the person making the offer;
 
-(b) if the offer or invitation is made by a corporation, each director of the corporation;
+(b) where the person making the offer is an entity —
 
-(c) if the offer or invitation is made by a corporation, a person named in the prospectus or the profile statement, with his consent, as a proposed director of the corporation;
+(i) each director or equivalent person of the entity; and
 
-(d) an underwriter (but not a sub-underwriter) to the issue or sale of the shares or debentures, or units of shares or debentures, named in the prospectus or the profile statement with his consent;
+(ii) if the entity is also the issuer, each person who is, and who has consented to be, named in the prospectus or profile statement as a proposed director or an equivalent person of the entity;
 
-(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
+(c) where the issuer is controlled by the person making the offer, one or more of the related parties of the person making the offer, or the person making the offer and one or more of his related parties —
 
-(i) that is included in the prospectus or the profile statement; or
+(i) the issuer;
 
-(ii) on which a statement made in the prospectus or the profile statement is based, but only in respect of the inclusion of the statement; and
+(ii) each director or equivalent person of the issuer; and
 
-(f) any other person who made the false or misleading statement, or omitted to state the information or circumstance, as the case may be, but only in respect of the inclusion of the statement or the omission to state the information or circumstance, as the case may be.
+(iii) each person who is, and who has consented to be, named in the prospectus or profile statement as a proposed director or an equivalent person of the issuer;
 
-(5) Where a prospectus relating to any shares in or debentures of, or any units of shares in or debentures of, a corporation is issued and the prospectus omits to state any matter required to be stated as prescribed by the Authority, each director of the corporation and other person responsible for the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(d) an issue manager to the offer of the securities who is, and who has consented to be, named in the prospectus or profile statement, if —
+
+(i) he intentionally or recklessly makes the false or misleading statement or omits to state the information or circumstance;
+
+(ii) knowing that the statement in the prospectus or profile statement is false or misleading or that the information or circumstance has been omitted, he fails to take such remedial action as is appropriate in the circumstances without delay; or
+
+(iii) he is reckless as to whether the statement is false or misleading or whether the information or circumstance has been included;
+
+(e) an underwriter (but not a sub-underwriter) to the issue or sale of the securities who is, and who has consented to be, named in the prospectus or profile statement, if —
+
+(i) he intentionally or recklessly makes the false or misleading statement or omits to state the information or circumstance;
+
+(ii) knowing that the statement is false or misleading or that the information or circumstance has been omitted, he fails to take such remedial action as is appropriate in the circumstances without delay; or
+
+(iii) he is reckless as to whether the statement is false or misleading or whether the information or circumstance has been included;
+
+(f) a person named in the prospectus or the profile statement with his consent as having made —
+
+(i) the statement that is false or misleading, if he intentionally or recklessly makes that statement; or
+
+(ii) a statement on which the false or misleading statement is based, if he knows that the second-mentioned statement is false or misleading and fails to take immediate steps to withdraw his consent, but only in respect of the inclusion of the false or misleading statement; and
+
+(g) any other person who intentionally or recklessly makes the false or misleading statement, or omits to state the information or circumstance, as the case may be, but only in respect of the inclusion of the statement or the omission to state the information or circumstance, as the case may be.
+
+[1/2005]
+
+(5) For the purposes of subsection (4) and this subsection —
+
+(a) remedial action includes any of the following:
+
+(i) preventing the statement from being included, or having the information or circumstance included, in the prospectus or profile statement, as the case may be;
+
+(ii) procuring the lodgment of a supplementary or replacement prospectus under section 241; and
+
+(b) a person is reckless as to the matter referred to in subsection (4) (d) (iii) or (e) (iii) if, having been put upon inquiry that the statement to be, or which has been, included in the prospectus or profile statement is likely to be false or misleading, that the information or circumstance is likely to be required to be included in that document, or that there is likely to be an omission to state the information or circumstance in that document, he fails to —
+
+(i) make all inquiries as are reasonable in the circumstances to verify this; and
+
+(ii) take such remedial action as is appropriate in the circumstances without delay, if such action is warranted by the outcome of the inquiries.
+
+[1/2005]
+
+(6) For the purposes of this section, any reference to a statement shall include a reference to any information presented, regardless of whether such information is in text or otherwise.
+
+[1/2005]
+
+[Companies, s. 56; Aust. Corporations 2001, s. 728]

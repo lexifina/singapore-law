@@ -1,5 +1,6 @@
-# 341. Regulations
+# 341. Regulations … … … … … … … … … 529
 Part: PART XV MISCELLANEOUS
+Heading: Section Pages
 
 (1) The Authority may make regulations for carrying out the purposes and provisions of this Act and for the due administration thereof.
 
@@ -13,9 +14,9 @@ Part: PART XV MISCELLANEOUS
 
 (d) the activities of, and standards to be maintained by persons holding a capital markets services licence to carry on business in any regulated activity and their representatives, including the manner, method and place of soliciting business by the holder of the licence and their representatives and the conduct of such solicitation;
 
-(e) the standards with respect to the qualifications, experience and training of applicants for any licence;
+(e) (Deleted by Act 16/2003)
 
-(f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised trading system provider, or clearing house;
+(f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised market operator, or clearing facility;
 
 (g) the form, content distribution and publication of written, printed or visual material and advertisements that may be distributed or used by a person in respect of any regulated activity, including advertisements offering the services of persons holding a capital markets services licence or offering capital markets products for sale;
 
@@ -31,7 +32,7 @@ Part: PART XV MISCELLANEOUS
 
 (m) the specification of manipulative and deceptive devices and contrivances in connection with the purchase or sale of securities, futures contracts or leveraged foreign exchange trading;
 
-(n) the regulation or prohibition of trading on the floor of a securities exchange, futures exchange or recognised trading system provider by members of a securities exchange, futures exchange or recognised trading system provider, as the case may be, or their representatives directly or indirectly for their own accounts and the prevention of such excessive trading on a securities exchange, futures exchange or recognised trading system provider but off the floor of a securities exchange, futures exchange or recognised trading system provider by members of a securities exchange, futures exchange or recognised trading system provider, as the case may be, or their representatives directly or indirectly for their own accounts as the Authority may consider is detrimental to the maintenance of a fair and orderly market; and the exemption of such transactions as the Authority may decide to be necessary in the interest of the public, or a section of the public or for the protection of investors;
+(n) the regulation or prohibition of trading on the floor of a securities exchange, futures exchange or recognised market operator by members of a securities exchange, futures exchange or recognised market operator, as the case may be, or their representatives directly or indirectly for their own accounts and the prevention of such excessive trading on a securities exchange, futures exchange or recognised market operator but off the floor of a securities exchange, futures exchange or recognised market operator by members of a securities exchange, futures exchange or recognised market operator, as the case may be, or their representatives directly or indirectly for their own accounts as the Authority may consider is detrimental to the maintenance of a fair and orderly market; and the exemption of such transactions as the Authority may decide to be necessary in the interest of the public, or a section of the public or for the protection of investors;
 
 (o) the borrowing in the ordinary course of business by persons holding a capital markets services licence as the Authority may consider necessary or appropriate in the interest of the public, or a section of the public or for the protection of investors;
 
@@ -41,18 +42,20 @@ Part: PART XV MISCELLANEOUS
 
 (r) the forms for the purposes of this Act;
 
-(s) the fees to be paid in respect of any matter or thing required for the purposes of this Act, including licences required under this Act and the refund and remission of such fees;
+(s) the fees to be paid in respect of any matter or thing required for the purposes of this Act, including licences required under this Act and the refund and remission, whether in whole or in part, of such fees;
 
 (t) the collection by or on behalf of the Authority, at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to capital markets products as may be prescribed and for the collection and use of such information for any purpose, whether or not connected with the prescribed capital markets products; and
 
 (u) all matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.
 
-(3) Except as otherwise expressly provided in this Act, the regulations —
+[16/2003; 1/2005]
 
-(a) may be of general or specific application; and
+(3) Except as otherwise expressly provided in this Act, the regulations made under this Act —
 
-(b) may provide that a contravention thereof shall be punishable —
+(a) may be of general or specific application;
 
-(i) in the case of an individual, with a fine not exceeding $25,000 or imprisonment for a term not exceeding 12 months or both; or
+(b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
-(ii) in the case of a corporation, with a fine not exceeding $50,000.
+(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003]

@@ -1,6 +1,8 @@
-# 292. Liability of trustees
-Part: Part XII of Companies Act and Part XII of this Act Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Authorisation and Recognition
+# 292. Liability of trustees … … … … … … … 458
+Part: Part XII of Companies Act and Part XII of this Act … 441 Subdivision (4) — Debentures
+Division: Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
+Subdivision: Subdivision (2) — Authorisation and recognition
+Heading: Section Pages
 
 (1) Subject to subsection (2), any provision in a trust deed required under section 286 (2) (c) or in any contract with the participants of a collective investment scheme to which such a trust deed relates, shall be void in so far as it would have the effect of exempting a trustee under the trust deed from, or indemnifying a trustee against, liability for breach of trust where the trustee fails to exercise the degree of care and diligence required of a trustee.
 
@@ -13,3 +15,5 @@ Subdivision: Subdivision (2) — Authorisation and Recognition
 (i) on the agreement thereto of a majority of not less than three-fourths of the participants in a collective investment scheme voting in person or by proxy at a meeting summoned for the purpose; and
 
 (ii) either with respect to specific acts or omissions or on the trustee ceasing to act.
+
+[Companies, s. 120]

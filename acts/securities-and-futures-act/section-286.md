@@ -1,6 +1,7 @@
-# 286. Authorised schemes
-Part: Part XII of Companies Act and Part XII of this Act Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Authorisation and Recognition
+# 286. Authorised schemes … … … … … … … 446
+Part: Part XII of Companies Act and Part XII of this Act … 441 Subdivision (4) — Debentures
+Division: Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
+Subdivision: Subdivision (2) — Authorisation and recognition
 
 (1) The Authority may, upon an application made to it in such form and manner as may be prescribed and subject to subsection (2) and the conditions specified in subsection (3), authorise a collective investment scheme constituted in Singapore.
 
@@ -20,39 +21,35 @@ Subdivision: Subdivision (2) — Authorisation and Recognition
 
 (i) the holder of a capital markets services licence for fund management or a person exempted under section 99 (1) (a), (b), (c) or (d) in respect of fund management; or
 
-(ii) a public company which does not carry on business in fund management or is specified in the Third Schedule or is exempted under section 99 (1) (e), (f),
-
-(g) or (h) in respect of fund management; and
+(ii) a public company which does not carry on business in fund management or is specified in the Third Schedule or is exempted under section 99 (1) (f), (g) or (h) in respect of fund management; and
 
 (b) the manager for the scheme is a fit and proper person, in the opinion of the Authority, and in considering if a person satisfies this requirement, the Authority may take into account any matter relating to —
 
 (i) any person who is or will be employed by or associated with the manager;
 
-(ii) any director of the manager;
+(ii) any person exercising influence over the manager; or
 
-(iii) any person exercising influence over the manager;
+(iii) any person exercising influence over a related corporation of the manager.
 
-(iv) any related corporation of the manager;
-
-(v) any director of such corporation; or
-
-(vi) any person exercising influence over such corporation.
+[16/2003]
 
 (4) The Authority may authorise, under subsection (1), a collective investment scheme which is not constituted as a unit trust if and only if the Authority is satisfied that the scheme and the manager for the scheme comply with such requirements as may be prescribed.
 
 (5) The Authority may refuse to authorise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
 
-(6) The Authority shall not refuse to authorise a collective investment scheme under subsection (1) without giving the person who made the application an opportunity to be heard except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to authorise the collective investment scheme on the basis of any of the following circumstances:
+(6) The Authority shall not refuse to authorise a collective investment scheme under subsection (1) without giving the person who made the application an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to authorise the collective investment scheme on the basis of any of the following circumstances:
 
-(a) the responsible person is in the course of being wound up or otherwise dissolved whether in Singapore or elsewhere;
+(a) the person making the offer (being an entity), the responsible person or the collective investment scheme itself, is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) execution against the responsible person in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(b) the person making the offer (being an individual) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(c) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the responsible person;
+(c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person making the offer (being an entity), the responsible person or the collective investment scheme.
 
-(d) the responsible person has entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+[16/2003; 1/2005]
 
-(7) Any person who is aggrieved by the refusal of the Authority to authorise a collective investment scheme under subsection (1) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
+(7) The responsible person for a collective investment scheme may, within 30 days after he is notified that the Authority has refused to authorise that scheme under subsection (1), appeal to the Minister whose decision shall be final.
+
+[1/2005]
 
 (8) An application made under subsection (1) shall be accompanied by such information or record as the Authority may require.
 
@@ -69,3 +66,5 @@ Subdivision: Subdivision (2) — Authorisation and Recognition
 (14) Where the manager for a collective investment scheme which is constituted as a unit trust and authorised under subsection (1) fails to comply with this Act or the Code on Collective Investment Schemes, the Authority may direct the trustee for the scheme to remove that person and appoint a new manager for the scheme.
 
 (15) Any person who contravenes subsection (10) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[UK FSMA 2000, s. 242, s. 243, s. 244, s. 245, s. 247 and s. 248; HK SF Bill, Clause 103]

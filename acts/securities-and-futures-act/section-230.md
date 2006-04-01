@@ -1,6 +1,7 @@
-# 230. Unsolicited transactions by holder of capital markets services licence and representatives
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 230. Unsolicited transactions by holder of capital markets services licence and representatives … … … … … 265
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 3 — Insider Trading
+Heading: Section Pages
 
 (1) The holder of a capital markets services licence to deal in securities or trade in futures contracts, or a representative of such a holder does not contravene section 218 (2) or 219 (2) by subscribing for, purchasing or selling, or entering into an agreement to subscribe for, purchase or sell, securities that are traded on the stock market or futures market if —
 
@@ -11,3 +12,5 @@ Division: Division 3 — Insider Trading
 (c) the principal is not an associate of the licensed person.
 
 (2) Nothing in this section shall affect the application of section 218 (2) or 219 (2) in relation to the principal.
+
+[Malaysia SIA, s. 89M]

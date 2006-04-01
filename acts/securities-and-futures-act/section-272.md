@@ -1,17 +1,15 @@
-# 272. Interpretation of this Subdivision
+# 272. Issue or transfer of securities for no consideration … … 342
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
 Subdivision: Subdivision (4) — Exemptions
 
-In this Subdivision —
+(1) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of shares or debentures of an entity if no consideration is or will be given for the issue or transfer of the shares or debentures.
 
-(a) a reference to a recognised securities exchange is a reference to a corporation declared by the Authority, by order in the Gazette, as a recognised securities exchange;
+[1/2005]
 
-(b) a reference to an offer in respect of shares, debentures or units of shares or debentures is a reference to an offer to the public in Singapore of shares in, debentures of, or units of shares in or debentures of, a corporation for subscription or purchase;
+(2) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of units of shares or debentures of an entity if —
 
-(c) a reference to an invitation in respect of shares, debentures or units of shares or debentures is a reference to an invitation to the public in Singapore to subscribe for or purchase shares in, debentures of, or units of shares in or debentures of, a corporation; and
+(a) no consideration is or will be given for the issue or transfer of the units of shares or debentures; and
 
-(d) a reference to the issuer of shares or debentures or units of shares or debentures is a reference to —
+(b) no consideration is or will be given for the underlying shares or debentures on the exercise or conversion of the units of shares or debentures.
 
-(i) in the case of shares or units of shares, a corporation which issues or proposes to issue those shares, or units of shares; or
-
-(ii) in the case of debentures or units of debentures, a corporation or any other entity which issues or proposes to issue those debentures or units of debentures.
+[1/2005]

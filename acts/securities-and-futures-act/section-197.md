@@ -1,5 +1,5 @@
-# 197. False trading and market rigging transactions
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 197. False trading and market rigging transactions … … … 242
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 
 (1) No person shall create, or do anything that is intended or likely to create a false or misleading appearance —
 
@@ -28,3 +28,5 @@ Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
 (a) a reference to the making of an offer to purchase or sell securities; and
 
 (b) a reference to the making of an invitation, however expressed, that expressly or impliedly invites a person to offer to purchase or sell securities.
+
+[SIA, s. 97; Aust. Corporations 2001, s. 998]

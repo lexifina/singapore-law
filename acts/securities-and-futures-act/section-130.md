@@ -1,4 +1,4 @@
-# 130. Application of this Division
+# 130. Application of this Division … … … … … … 198
 Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
 
 (1) This Division shall apply to any relevant person.
@@ -15,4 +15,8 @@ Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in 
 
 and
 
-(b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised trading system provider.
+(b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
+
+[1/2005]
+
+[SIA, s. 41]

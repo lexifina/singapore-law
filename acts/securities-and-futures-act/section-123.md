@@ -1,11 +1,13 @@
-# 123. Power of Authority to make regulations
-Part: PART VI CONDUCT OF BUSINESS Division 1 — General
+# 123. Power of Authority to make regulations … … … … 192
+Part: PART VI CONDUCT OF BUSINESS Division 1 — General Section Pages
 
 (1) The Authority may make regulations in respect of the conduct of business in any regulated activity by the holder of a capital markets services licence or a representative of such a holder.
 
 (2) Without affecting the generality of subsection (1), regulations made under this section may —
 
 (a) specify requirements applicable to the holder of a capital markets services licence in relation to securities financing;
+
+(aa) specify requirements and restrictions relating to the granting of unsecured advance, unsecured loan or unsecured credit facility by the holder of a capital markets services licence;
 
 (b) prohibit the use of misleading or deceptive advertisements by or on behalf of the holder of a capital markets services licence, and impose conditions or restrictions for the use of advertisements by or on behalf of the holder;
 
@@ -35,8 +37,18 @@ Part: PART VI CONDUCT OF BUSINESS Division 1 — General
 
 (o) provide that, subject to such conditions or restrictions as may be prescribed, all or specified provisions of this Part shall not apply to a specified class of holders of a capital markets services licences or their representatives, or to a specified class of capital markets products.
 
+[1/2005]
+
 (3) Regulations made under this section may provide that any customer contract entered into by the holder of a capital markets services licence with its customer otherwise than in compliance with any specified regulation is, notwithstanding anything in the contract, unenforceable at the option of the customer.
 
-(4) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $100,000.
+(4) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $100,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+[16/2003]
 
 (5) In this section, ‘‘customer contract’’ means any contract or arrangement between the holder of a capital markets services licence and a customer of the holder which contains terms on which the holder is to provide services to, or effect transactions for, the customer.
+
+[HK SF Bill, Clause 163]

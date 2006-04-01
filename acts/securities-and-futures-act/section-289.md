@@ -1,6 +1,8 @@
-# 289. Approval of trustees
-Part: Part XII of Companies Act and Part XII of this Act Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Authorisation and Recognition
+# 289. Approval of trustees … … … … … … … 456
+Part: Part XII of Companies Act and Part XII of this Act … 441 Subdivision (4) — Debentures
+Division: Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
+Subdivision: Subdivision (2) — Authorisation and recognition
+Heading: Section Pages
 
 (1) The Authority may, upon an application made to it in such form and manner as may be prescribed, approve a public company to act as a trustee for collective investment schemes which are authorised under section 286 and constituted as unit trusts (referred to in this Subdivision as an approved trustee).
 
@@ -29,3 +31,5 @@ Subdivision: Subdivision (2) — Authorisation and Recognition
 (6) For the avoidance of doubt, a direction issued under subsection (4) shall be deemed not to be subsidiary legislation.
 
 (7) Any approved trustee who contravenes subsection (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[HK CUTMF Chapter 4]

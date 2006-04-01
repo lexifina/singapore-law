@@ -1,29 +1,29 @@
-# 46. Additional powers of Authority in respect of auditors
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 4 — Recognised Trading System Providers
+# 46. Power of Authority to issue directions … … … … 90
+Part: PART II MARKETS
+Division: Division 4 — General Powers of Authority
 
-(1) If an auditor, in the course of the performance of his duties as an auditor of a recognised trading system provider, becomes aware —
+(1) The Authority may, if it thinks it necessary or expedient —
 
-(a) of any matter which, in his opinion, adversely affects or may adversely affect the financial position of the recognised trading system provider to a material extent;
+(a) for ensuring fair, orderly and transparent markets;
 
-(b) of any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
 
-(c) of any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors in securities or futures contracts, the auditor shall immediately send to the Authority a report in writing of the matter or the irregularity.
+(c) in the interests of the public or a section of the public or for the protection of investors;
 
-(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
+(d) for the effective administration of this Act; or
 
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 8 (4) or (5), 14 (5), (6), (8) or (9), 17 (2), 27 (5) or (10), 28 (11), 29 (2), 35 or 42 (2), or such other obligations or requirements under this Act or as may be prescribed by the Authority, issue directions, whether of a general or specific nature, by notice in writing, to an approved exchange, a recognised market operator or an exempt market operator, and the approved exchange, recognised market operator or exempt market operator shall comply with such directions.
 
-(4) The Authority may impose all or any of the following duties on an auditor of a recognised trading system provider:
+[1/2005]
 
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
+(2) Any approved exchange, a recognised market operator or an exempt market operator which, without reasonable excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the recognised trading system provider;
+[1/2005]
 
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
+(3) For the avoidance of doubt, a direction issued under subsection
 
-(d) a duty to submit a report on any matter referred to in paragraph (b) or (c), and the auditor shall carry out such duties.
+(1) shall be deemed not to be subsidiary legislation.
 
-(5) The recognised trading system provider shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+[1/2005]
 
-(6) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s duties under subsection (4).
+[SIA, s. 21; E (DM) A, s. 14]

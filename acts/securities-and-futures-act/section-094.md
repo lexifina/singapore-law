@@ -1,4 +1,4 @@
-# 94. Register of licensed persons
+# 94. Register of licensed persons … … … … … … 169
 Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
 
 The Authority shall keep in such form as it thinks fit a register of licensed persons specifying —
@@ -28,3 +28,5 @@ and
 (iv) where the business of his principal is carried on under a name or style, other than the name of the principal, the name or style under which that business is carried on; and
 
 (v) such other information as may be prescribed.
+
+[SIA, s. 37; FTA, s. 19]

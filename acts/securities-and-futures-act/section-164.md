@@ -1,4 +1,4 @@
-# 164. Application for warrant to seize books not produced
+# 164. Application for warrant to seize books not produced … 219
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 Subdivision: Subdivision (3) — Powers to obtain information
@@ -15,10 +15,14 @@ Subdivision: Subdivision (3) — Powers to obtain information
 
 (b) which the Magistrate has reasonable grounds to suspect will not be produced in compliance with that requirement, the Magistrate may issue a warrant authorising the Authority or any person named therein, with or without assistance —
 
-(i) to enter and search the premises and to break open and search anything, whether a fixture or not, in the premises; and
+(i) to enter and search the premises and to break open and search anything, whether a fixture or not, in the premises;
+
+and
 
 (ii) to take possession of, or secure against interference, any book that appears to be a book the production of which was so required.
 
 (3) The powers conferred under subsections (1) and (2) are in addition to, and not in derogation of, any other powers conferred by any other written law or rule of law.
 
 (4) In this section, ‘‘premises’’ includes any structure, building, aircraft, vehicle or vessel.
+
+[SIA, s. 5 (9) to (11) modified]

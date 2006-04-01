@@ -1,13 +1,23 @@
-# 280. Reporting requirements
+# 280. Making offer using automated teller machine or electronic means … … … … … … … … … … 363
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
 Subdivision: Subdivision (4) — Exemptions
 
-(1) Where an issuer intends to invoke an exemption under this Subdivision other than an exemption under section 273 (1), 276 or 277, he shall lodge with the Authority a report of his intention to issue the shares or debentures, or units of shares or debentures, in such form as may be prescribed at or before the time of invoking the exemption.
+(1) Subject to subsection (3) and such requirements as may be prescribed by the Authority, a person making an offer of securities using —
 
-(2) An issuer, if incorporated in Singapore, shall maintain a register in the prescribed form of the shares or debentures, or units of shares or debentures, issued under an exemption under this Subdivision other than an exemption under section 273 (1), 276 or 277.
+(a) any automated teller machine; or
 
-(3) Particulars of the issue of the shares or debentures, or units of shares or debentures, shall be entered in the register within 3 days of the issue.
+(b) such other electronic means as may be prescribed by the Authority, is exempted from the requirement under section 240 (1) (a) that the offer be made in or accompanied by a prospectus in respect of the offer or, where applicable, the requirement under section 240 (4) that the offer be made in or accompanied by a profile statement in respect of the offer.
 
-(4) Upon the request of the Authority, the issuer shall produce for inspection the register maintained under subsection (2) and the Authority may make extracts from the register.
+[1/2005]
 
-(5) The Authority may supply a copy of an extract from a register to any person who, in its opinion, should, in the public interest, be informed of the issue of the shares or debentures, or units of shares or debentures, disclosed in the register.
+(2) For the avoidance of doubt, a prospectus which complies with all other requirements of section 240 (1) (a) or, where applicable, a profile statement which complies with all other requirements of section 240 (4) must still be prepared and issued in respect of any offer referred to in subsection (1).
+
+[1/2005]
+
+(3) Subsection (1) shall not apply unless the automated teller machine or prescribed electronic means indicates to a prospective subscriber or buyer —
+
+(a) how he can obtain, or arrange to receive, a copy of the prospectus or, where applicable, profile statement in respect of the offer; and
+
+(b) that he should read the prospectus or, where applicable, profile statement before submitting his application, before enabling him to submit any application to subscribe for or purchase securities.
+
+[1/2005]

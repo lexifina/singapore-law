@@ -1,31 +1,24 @@
-# 71. Duty to report on completion of default proceedings
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 71. Business rules of designated clearing houses … … … 108
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+Subdivision: Subdivision (2) — Rules of designated clearing houses
 
-(1) A clearing house shall, upon the completion by it of default proceedings, make a report on such proceedings stating in respect of each defaulter —
+(1) Without limiting the generality of sections 59 and 81S —
 
-(a) the net sum, if any, certified by the clearing house to be payable by or to the defaulter; or
+(a) the Authority may prescribe the matters that a designated clearing house shall make provision for in the business rules of the designated clearing house; and
 
-(b) the fact that no sum is so payable, as the case may be, and the clearing house may include in that report such other particulars in respect of such proceedings as it thinks fit.
+(b) the designated clearing house shall make provision for these matters in its business rules.
 
-(2) A clearing house which has made a report under subsection (1) shall supply the report to —
+[1/2005]
 
-(a) the Authority;
+(2) A designated clearing house shall not make any amendment to its business rules unless it complies with such requirements as the Authority may prescribe.
 
-(b) any relevant office holder acting in relation to —
+[1/2005]
 
-(i) the defaulter to whom the report relates; or
+(3) In this Subdivision, any reference to an amendment to a business rule shall be construed as a reference to a change to the scope of, or to any requirement, obligation or restriction under the business rule, whether the change is made by an alteration to the text of the rule or by any other notice issued by or on behalf of the designated clearing house.
 
-(ii) that defaulter’s estate;
+[1/2005]
 
-(c) if there is no relevant office holder referred to in paragraph (b), the defaulter to whom the report relates.
+(4) Any designated clearing house which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(3) The clearing house shall publish a notice of the fact that a report has been made under subsection (1) in such manner as it thinks appropriate to bring that fact to the attention of the creditors of the defaulter to whom the report relates.
-
-(4) Where a relevant office holder or defaulter receives under subsection (2) a report made under subsection (1), he shall, at the request of a creditor of the defaulter to whom the report relates —
-
-(a) make the report available for inspection by the creditor; and
-
-(b) on payment of such reasonable fee as the relevant office holder or defaulter, as the case may be, determines, supply to the creditor all or any part of that report.
-
-(5) In subsections (2), (3) and (4), ‘‘report’’ includes a copy of a report.
+[1/2005]

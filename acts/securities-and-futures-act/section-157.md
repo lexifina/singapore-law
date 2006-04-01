@@ -1,4 +1,4 @@
-# 157. Examination to take place in private
+# 157. Examination to take place in private … … … … 216
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 Subdivision: Subdivision (2) — Examination of persons
@@ -12,3 +12,5 @@ Subdivision: Subdivision (2) — Examination of persons
 (b) a person approved by the Authority; or
 
 (c) entitled to be present by virtue of a direction under subsection (1).
+
+[ASIC 1989, s. 22]

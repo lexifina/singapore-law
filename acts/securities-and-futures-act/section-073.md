@@ -1,33 +1,16 @@
-# 73. Disclaimer of onerous property, rescission of contracts, etc.
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 73. Power of court to order observance or enforcement of business rules … … … … … … … … … 110
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+Subdivision: Subdivision (2) — Rules of designated clearing houses
 
-(1) Section 110 of the Bankruptcy Act and section 332 of the Companies Act shall not apply to —
+(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of a designated clearing house fails to do so, the High Court may, on the application of the Authority, a designated clearing house or a person aggrieved by the failure, after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules.
 
-(a) a market contract;
+[1/2005]
 
-(b) a contract effected by a clearing house for the purpose of realising property provided as market collateral;
+(2) In this section, ‘‘person’’ includes a designated clearing house.
 
-(c) a market charge; or
+[1/2005]
 
-(d) any default proceedings.
+(3) This section is in addition to, and not in derogation of, any other remedies available to the aggrieved person referred to in subsection (1).
 
-(2) Section 77 of the Bankruptcy Act (Cap. 20) and sections 259 and 299 (1) of the Companies Act (Cap. 50) shall not apply to any act, matter or thing which has been done under —
-
-(a) a market contract;
-
-(b) a disposition of property pursuant to a market contract;
-
-(c) the provision of market collateral;
-
-(d) a contract effected by a clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
-
-(e) a disposition of property in accordance with the business rules of a clearing house relating to the application of property provided as market collateral;
-
-(f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
-
-(g) a disposition of property for the purpose of enforcing a market charge;
-
-(h) a market charge; or
-
-(i) any default proceedings.
+[1/2005]

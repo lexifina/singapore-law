@@ -1,4 +1,4 @@
-# 267. Powers of trustee to apply to court for directions, etc.
+# 267. Powers of trustee to apply to court for directions, etc. … 334
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
 Subdivision: Subdivision (3) — Debentures
 
@@ -17,3 +17,5 @@ Subdivision: Subdivision (3) — Debentures
 (3) The court may, on an application under this section, order a meeting of all or any of the holders of debentures to be called to consider any matters in which they are concerned and to advise the trustee on those matters and may give such ancillary or consequential directions as the court thinks fit.
 
 (4) The meeting shall be held and conducted in such manner as the court directs, under the chairmanship of a person nominated by the trustee or such other person as the meeting appoints.
+
+[Companies, s. 102]

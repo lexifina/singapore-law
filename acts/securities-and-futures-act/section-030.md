@@ -1,39 +1,32 @@
-# 30. Revocation of approval
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 3 — Exchange Holding Companies
+# 30. Listing of approved exchanges on securities market … … 77
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
+Subdivision: Subdivision (3) — Matters requiring approval of Authority
 
-(1) The Authority may, in writing, revoke any approval granted under section 29 if —
+(1) The securities of an approved exchange shall not be listed for quotation on a securities market that is operated by the approved exchange or any of its related corporations unless the approved exchange and the operator of the securities market have entered into such arrangements as the Authority may require —
 
-(a) the corporation is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) for dealing with possible conflicts of interest that may arise from such listing; and
 
-(b) the corporation is contravening or is likely to contravene or has contravened any condition or restriction of its approval that is applicable to it under this Act;
+(b) for the purpose of ensuring the integrity of the trading of the securities of the approved exchange on the securities market.
 
-(c) the corporation is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
+[1/2005]
 
-(d) the corporation is operating in a manner that is, in the opinion of the Authority, contrary to the public interest;
+(2) Where the securities of an approved exchange are listed for quotation on a securities market operated by the approved exchange or any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
 
-(e) any information provided to the Authority under section 29 (3) was false or misleading in a material particular;
+(a) the admission or removal of the approved exchange to or from the official list of the securities market; and
 
-or
+(b) granting approval for the securities of the approved exchange to be, or stopping or suspending the securities of the approved exchange from being, listed for quotation or quoted on the securities market.
 
-(f) the Authority deems fit upon the application of the corporation to cancel the approval.
+[1/2005]
 
-(2) Subject to subsection (3), the Authority shall not revoke any approval granted to a corporation under section 29 without giving the corporation an opportunity to be heard.
+(3) The Authority may, by notice in writing to the operator of the securities market —
 
-(3) Where the Authority revokes an approval granted to a corporation under section 29 on any ground referred to in subsection (1) on the basis of any of the following circumstances:
+(a) modify the listing rules of the securities market for the purpose of their application to the listing for quotation or trading of the securities of the approved exchange; or
 
-(a) the corporation or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(b) waive the application of any listing rule of the securities market to the approved exchange.
 
-(b) execution against the corporation or its substantial shareholder in respect of a judgment debt has been returned unsatisfied in whole or in part;
+[1/2005]
 
-(c) a receiver, a receiver and manager, judicial manager or equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation or its substantial shareholder;
+(4) Any approved exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
-(d) the corporation or its substantial shareholder has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(e) the corporation or its substantial shareholder, or any officer of the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly, the Authority need not give the corporation an opportunity to be heard.
-
-(4) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(5) Notwithstanding the lodging of an appeal under subsection (4), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
-
-(6) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
+[1/2005]

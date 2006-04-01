@@ -1,5 +1,5 @@
-# 236. Civil liability in event of conviction, etc.
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 236. Civil liability in event of conviction, etc. … … … … 270
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 4 — Civil Liability
 
 (1) Notwithstanding section 234, where the contravening person —
@@ -35,3 +35,5 @@ Division: Division 4 — Civil Liability
 (c) no notice of appeal against the imposition of the penalty is lodged within the time prescribed by Rules of Court (Cap. 322, R 5) made under section 238; or
 
 (d) any appeal against the imposition of the penalty is withdrawn.
+
+[SIA, s. 104E]

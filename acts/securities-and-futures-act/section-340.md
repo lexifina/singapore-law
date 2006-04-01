@@ -1,7 +1,10 @@
-# 340. Amendment of Schedules
+# 340. Amendment of Schedules … … … … … … 529
 Part: PART XV MISCELLANEOUS
+Heading: Section Pages
 
-(1) The Minister may by order published in the Gazette, amend, add to or vary the First, Second and Third Schedules.
+(1) The Minister may by order published in the Gazette, amend, add to or vary the First, Second, Third or Fourth Schedule.
+
+[16/2003]
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions to the Act as may be necessary or expedient.
 

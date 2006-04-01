@@ -1,9 +1,9 @@
-# 70. Supplementary provisions as to default proceedings
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 70. Penalties under this Subdivision … … … … … 108
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
 
-(1) A court may, on application by a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his office that are affected by default proceedings if default proceedings have been, could be, or could have been, taken.
+Any designated clearing house which contravenes section 59 (1), 60, 61 (1), 62 (2) or (3), 63 (2), 64 (2), 65, 66, 67 or 68 (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
-(2) The functions of the relevant office holder shall be construed subject to an order made under subsection (1).
+[1/2005]
 
-(3) Sections 45, 74 and 76 of the Bankruptcy Act (Cap. 20) and sections 210, 258, 260, 262 (3), 299 (1) and 309 of the Companies Act (Cap. 50) shall not prevent or interfere with any default proceedings.
+Subdivision (2) — Rules of designated clearing houses

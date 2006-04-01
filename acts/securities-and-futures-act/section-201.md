@@ -1,5 +1,5 @@
-# 201. Employment of manipulative and deceptive devices
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 201. Employment of manipulative and deceptive devices … … 245
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 
 No person shall, directly or indirectly, in connection with the subscription, purchase or sale of any securities —
 
@@ -10,3 +10,5 @@ No person shall, directly or indirectly, in connection with the subscription, pu
 (c) make any statement he knows to be false in a material particular; or
 
 (d) omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading.
+
+[SIA, s. 102]

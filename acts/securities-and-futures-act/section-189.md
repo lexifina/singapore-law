@@ -1,4 +1,4 @@
-# 189. Power of securities exchange or futures exchange to settle claims
+# 189. Power of securities exchange or futures exchange to settle claims … … … … … … … … … … 236
 Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (1) A securities exchange or futures exchange may, subject to this Part, allow and settle any proper claim for compensation out of a fidelity fund at any time after the commission of the defalcation in respect of which the claim arose.
@@ -22,3 +22,5 @@ Part: PART XI INVESTOR COMPENSATION SCHEME
 (b) all defences which would have been available to that member or person shall be available to the securities exchange or futures exchange.
 
 (7) A securities exchange or futures exchange or, where proceedings are brought to establish a claim, the High Court, if satisfied that the defalcation on which the claim is founded was actually committed, may allow the claim and act accordingly, notwithstanding that the person who committed the defalcation has not been convicted or prosecuted therefor or that the evidence on which the securities exchange or futures exchange or the High Court, as the case may be, acts would not be sufficient to establish the guilt of that person upon a criminal trial in respect of the defalcation.
+
+[SIA, s. 89; FTA, s. 49L]

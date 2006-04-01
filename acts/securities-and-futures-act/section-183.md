@@ -1,4 +1,4 @@
-# 183. Levy to meet liabilities
+# 183. Levy to meet liabilities … … … … … … … 231
 Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (1) If at any time a fidelity fund is not sufficient to satisfy the liabilities that are then ascertained of a securities exchange or futures exchange in relation thereto, the securities exchange or futures exchange —
@@ -10,3 +10,5 @@ Part: PART XI INVESTOR COMPENSATION SCHEME
 (2) The amount of such levy shall be paid within the time and in the manner specified by the securities exchange or futures exchange either generally or in relation to any particular case.
 
 (3) No member of a securities exchange or futures exchange shall be required to pay by way of levy under this section more than $300,000 in the aggregate in any particular case.
+
+[SIA, s. 83]

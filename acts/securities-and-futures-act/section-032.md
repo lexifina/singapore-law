@@ -1,31 +1,54 @@
-# 32. Power of Authority to issue directions to exchange holding company
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 3 — Exchange Holding Companies
+# 32. Power of Authority in securities market … … … … 79
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
+Subdivision: Subdivision (4) — Powers of Authority
 
-(1) The Authority may, if it thinks it necessary or expedient —
+(1) Without prejudice to the generality of section 46, where the Authority is of the opinion that it is necessary to prohibit trading in —
 
-(a) for ensuring the fair and orderly conduct of securities markets or futures markets;
+(a) particular securities of, or made available by, an entity;
 
-(b) for ensuring the integrity of, and proper management of systemic risks in, securities markets or futures markets; or
+(b) particular units or derivatives of units in a business trust; or
 
-(c) in the interest of the public or section of the public or for the protection of investors, issue directions by notice in writing either of a general or specific nature to an exchange holding company.
+(c) particular units of a collective investment scheme, on a securities market of an approved exchange —
 
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
+(i) in order to protect persons buying or selling the securities, units or derivatives of units in a business trust or units in a collective investment scheme; or
 
-(a) the requirement for the prior approval of the Authority in respect of any proposed amendment, whether by way of alteration or addition, to the business rules of the exchange holding company;
+(ii) in the interests of the public, the Authority may give notice in writing to the approved exchange stating that it is of that opinion and setting out the reasons for its opinion.
 
-(b) the corporate governance of the exchange holding company;
+[1/2005]
 
-(c) the inspection by the Authority or by any person appointed by the Authority of the books and affairs of the exchange holding company;
+(2) If, after the receipt of the notice given under subsection (1), the approved exchange fails to take any action in relation to those securities, units or derivatives of units in a business trust or units in a collective investment scheme on that securities market and the Authority continues to be of the opinion that it is necessary to prohibit trading in those securities, units or derivatives of units in a business trust or units in a collective investment scheme on that securities market, the Authority may, by notice in writing to the approved exchange, prohibit trading in those securities, units or derivatives of units in a business trust or units in a collective investment scheme on that securities market for such period, not exceeding 14 days, as is specified in the notice.
 
-(d) the management by the exchange holding company of any of its subsidiaries that carries on the business of a securities exchange, futures exchange or clearing house, whether such business forms the whole or part of such subsidiary’s undertaking; and
+[1/2005]
 
-(e) any other matter which the Authority considers necessary for the effective administration of this Act, and the exchange holding company shall comply with any such direction.
+(3) Where the Authority gives a notice to an approved exchange under subsection (2), the Authority shall —
 
-(3) An exchange holding company which, without reasonable justification or excuse, contravenes any direction issued under subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(a) at the same time send a copy of the notice to —
 
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(i) in the case of securities, the entity;
 
-(5) An exchange holding company shall provide such assistance to the Authority as the Authority may reasonably require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of such books and other information relating to the business of the exchange holding company or any other specified information as the Authority may require for the proper administration of this Act.
+(ii) in the case of units or derivatives of units in a business trust, the trustee of the business trust; or
 
-(6) An exchange holding company which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(iii) in the case of units in a collective investment scheme, the responsible person of the collective investment scheme, together with a statement setting out the reasons for the giving of the notice; and
+
+(b) as soon as practicable, furnish to the Minister a written report setting out the reasons for the giving of the notice and send a copy of the report to the approved exchange.
+
+[1/2005]
+
+(4) Any person who is aggrieved by any action taken by the Authority or an approved exchange under this section may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+
+[1/2005]
+
+(5) Notwithstanding the lodging of an appeal under subsection (4), any action taken by the Authority or an approved exchange under this section shall continue to have effect pending the decision of the Minister.
+
+[1/2005]
+
+(6) The Minister may, when deciding an appeal under subsection (4), make such modification as he considers necessary to any action taken by the Authority or an approved exchange under this section, and such modified action shall have effect from the date of the decision of the Minister.
+
+[1/2005]
+
+(7) Any approved exchange which permits trading in securities on the securities market of the approved exchange in contravention of a notice given under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2005]
+
+[SIA, s. 22]

@@ -1,4 +1,4 @@
-# 186. Application of fund
+# 186. Application of fund … … … … … … … 232
 Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (1) Subject to this Part, a fidelity fund shall be held and applied for the purpose of compensating any person (other than an accredited investor) who suffers pecuniary loss because of a defalcation committed —
@@ -19,7 +19,7 @@ Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (4) For the purposes of subsection (3) —
 
-(a) a reference to a trustee in bankruptcy in subsection (2) shall be deemed to be a reference to a nominee within the meaning of Part V of the Bankruptcy Act (Cap. 20);
+(a) a reference to a trustee in bankruptcy in subsection (2) shall be deemed to be a reference to a nominee within the meaning of Part V of the Bankruptcy Act;
 
 (b) a reference to debts proved in bankruptcy in subsection (2) shall be deemed to be a reference to debts provable in relation to a voluntary arrangement within the meaning of Part V of the Bankruptcy Act; and
 
@@ -39,15 +39,19 @@ Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (a) compensating pecuniary loss under subsection (1); or
 
-(b) making a payment under subsection (2) or (5), shall not, in respect of each member, exceed the prescribed amount.
+(b) making a payment under subsection (2) or (5), shall not, in respect of each member, exceed the prescribed amount*.
 
 (11) Subject to the provisions of this section —
 
 (a) the amount that may be paid out of the fidelity fund to each claimant under subsection (1) in relation to each member; or
 
-(b) the amount that the Official Assignee, a trustee in bankruptcy, a nominee or a liquidator may pay to each creditor of a member from any amount paid to the Official Assignee, trustee in bankruptcy, nominee or liquidator, as the case may be, under subsection (2) or (5), shall not exceed the prescribed amount.
+(b) the amount that the Official Assignee, a trustee in bankruptcy, a nominee or a liquidator may pay to each creditor of a member from any amount paid to the Official Assignee, trustee in bankruptcy, nominee or liquidator, as the case may be, under subsection (2) or (5), shall not exceed the prescribed amount†.
 
 (12) For the purposes of subsections (10) and (11), any amount paid out of the fidelity fund shall, to the extent to which the fund is subsequently reimbursed therefor, be disregarded.
+
+*Prescribed amount shall be $2 million for the purposes of section 186 (10) — see G.N. No. S 367/2005.
+
+†Prescribed amount shall be $50,000 for the purposes of section 186 (11) — see G.N. No. S 367/2005.
 
 (13) In this section, ‘‘agent’’, in relation to a member of a securities exchange or futures exchange —
 
@@ -59,4 +63,8 @@ Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (a) the person has suffered pecuniary loss because of a defalcation committed by a member of the exchange or by any agent of the member; and
 
-(b) such defalcation is in respect of moneys deposited by that person with the member or moneys belonging to that person held by that member, in connection with the trading of a contract which is not a futures contract that is cleared or to be cleared by a clearing house or a futures exchange in Singapore.
+(b) such defalcation is in respect of moneys deposited by that person with the member or moneys belonging to that person held by that member, in connection with the trading of a contract which is not a futures contract that is cleared or to be cleared by a designated clearing house or a futures exchange in Singapore.
+
+[1/2005]
+
+[SIA, s. 86; FTA, s. 49I]

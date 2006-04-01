@@ -1,31 +1,10 @@
-# 74. Adjustment of prior transactions
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 74. Non-compliance with business rules not to substantially affect rights of person … … … … … … … 110
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+Subdivision: Subdivision (2) — Rules of designated clearing houses
 
-(1) No order shall be made by a court under —
+Any failure by a designated clearing house to comply with this Act or its business rules in relation to a matter shall not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules.
 
-(a) section 98 or 99 of the Bankruptcy Act;
+[1/2005]
 
-(b) section 227T, 329 or 331 of the Companies Act; or
-
-(c) section 73B of the Conveyancing and Law of Property Act (Cap. 61), in relation to any matter to which this section applies.
-
-(2) The matters to which this section applies are specified as follows:
-
-(a) a market contract;
-
-(b) a disposition of property pursuant to a market contract;
-
-(c) the provision of market collateral;
-
-(d) a contract effected by a clearing house for the purpose of realising property provided as market collateral;
-
-(e) a disposition of property in accordance with the business rules of a clearing house relating to the application of property provided as market collateral;
-
-(f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
-
-(g) a disposition of property for the purpose of enforcing a market charge;
-
-(h) a market charge; and
-
-(i) any default proceedings.
+Subdivision (3) — Matters requiring approval of Authority

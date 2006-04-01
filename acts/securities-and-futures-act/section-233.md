@@ -1,5 +1,5 @@
-# 233. Action under section 232 not to commence, etc., in certain situations
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 233. Action under section 232 not to commence, etc., in certain situations … … … … … … … … … 267
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 4 — Civil Liability
 
 (1) An action under section 232 shall not be commenced after the expiration of 6 years from the date of the contravention of any of the provisions in this Part.
@@ -11,3 +11,5 @@ Division: Division 4 — Civil Liability
 (a) that person has been discharged in respect of that contravention and the discharge does not amount to an acquittal; or
 
 (b) the charge against him in respect of that contravention has been withdrawn.
+
+[SIA, s. 104B]

@@ -1,4 +1,4 @@
-# 102. Keeping of books and furnishing of returns
+# 102. Keeping of books and furnishing of returns … … … 181
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 
 (1) A holder of a capital markets services licence shall —
@@ -18,3 +18,5 @@ Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 (b) provide such information relating to its business as the Authority may require.
 
 (5) The Authority may, without prejudice to section 341, make regulations in respect of all or any of the matters in this Division, including the keeping of such books, by a holder of a capital markets services licence, in such form and manner as the Authority may prescribe.
+
+[SIA, s. 63 and s. 67; FTA, s. 34 (1)]

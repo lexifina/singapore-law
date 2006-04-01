@@ -1,4 +1,4 @@
-# 131. Register of securities
+# 131. Register of securities … … … … … … … 199
 Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
 
 (1) A relevant person shall —
@@ -11,6 +11,12 @@ Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in 
 
 (2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
 
-(a) enter in the register particulars of the change including the date of the change and the circumstances by reason of which the change has occurred; and
+(a) enter in the register, within 7 days after the date of the change, particulars of the change including the date of the change and the circumstances by reason of which the change has occurred;
+
+and
 
 (b) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which such entry was first made.
+
+[16/2003]
+
+[SIA, s. 42]

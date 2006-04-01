@@ -1,8 +1,8 @@
-# 238. Rules of Court
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 238. Rules of Court … … … … … … … … 272
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 4 — Civil Liability
 
-(1) Rules of Court may be made —
+(1) Rules of Court (Cap. 322, R 5) may be made —
 
 (a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under sections 232, 234 and 236; and
 
@@ -15,3 +15,5 @@ Division: Division 4 — Civil Liability
 (b) prescribe the procedure for the filing, proof and hearing of those claims; and
 
 (c) provide for the payment of the costs and fees of an action that has been stayed under section 235 (2).
+
+[SIA, s. 104G]

@@ -1,4 +1,4 @@
-# 111. Offence to destroy, conceal, alter, etc., books
+# 111. Offence to destroy, conceal, alter, etc., books … … … 187
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 Division: Division 3 — Audit
 
@@ -13,3 +13,5 @@ Division: Division 3 — Audit
 (a) destroyed, concealed or altered any book referred to in subsection (1) (a); or
 
 (b) sent, or conspired to send, out of Singapore, any book or asset referred to in subsection (1) (b), the onus of proving that, in so doing, he did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Division shall lie on him.
+
+[SIA, s. 71; FTA, s. 31]

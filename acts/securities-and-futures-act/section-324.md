@@ -1,4 +1,4 @@
-# 324. Power of court to prohibit payment or transfer of moneys, securities, etc.
+# 324. Power of court to prohibit payment or transfer of moneys, securities, etc. … … … … … … … … … 513
 Part: PART XV MISCELLANEOUS
 
 (1) Where —
@@ -7,11 +7,9 @@ Part: PART XV MISCELLANEOUS
 
 (b) a criminal proceeding has been instituted against a person for an offence under this Act; or
 
-(c) a civil proceeding has been instituted against a person under this Act, and the court considers it necessary or desirable to do so for the purpose of protecting the interests of any person to whom the person referred to in paragraph (a) or
+(c) a civil proceeding has been instituted against a person under this Act, and the court considers it necessary or desirable to do so for the purpose of protecting the interests of any person to whom the person referred to in paragraph (a) or (b) or this paragraph, as the case may be (referred to in this section as the relevant person), is liable or may become liable to pay any moneys, whether in respect of a debt, or by way of penalties, damages or compensation or otherwise, or to account for any securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, the court may, on application by the Authority, make any one or more of the following orders:
 
-(b) or this paragraph, as the case may be (referred to in this section as the relevant person), is liable or may become liable to pay any moneys, whether in respect of a debt, or by way of penalties, damages or compensation or otherwise, or to account for any securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, the court may, on application by the Authority, make any one or more of the following orders:
-
-(i) an order prohibiting either absolutely or subject to conditions a person who is indebted to the relevant person or any person associated with the relevant person from making a payment in total or partial discharge of such debt that is due or accruing due to that relevant person, or to another person at the direction or request of, the relevant person;
+(i) an order prohibiting, either absolutely or subject to conditions, a person who is indebted to the relevant person or any person associated with the relevant person from making a payment in total or partial discharge of such debt that is due or accruing due to that relevant person, or to another person at the direction or request of, the relevant person;
 
 (ii) an order prohibiting, either absolutely or subject to conditions, a person holding moneys, securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, on behalf of the relevant person or on behalf of any person associated with the relevant person from paying, transferring or otherwise parting with possession of all or any of the moneys, securities, futures contracts, contracts in connection with leveraged foreign exchange trading, or other property, to such relevant person, or to another person at the direction or request of, the relevant person;
 
@@ -40,3 +38,5 @@ Part: PART XV MISCELLANEOUS
 (6) Any person who contravenes an order or interim order made by the court under this section that is applicable to him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (7) Subsection (6) shall not affect the powers of the court in relation to the punishment for contempt of court.
+
+[Aust. Corporations 2001, s. 1323 (modified)]

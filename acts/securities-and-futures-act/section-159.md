@@ -1,4 +1,4 @@
-# 159. Giving copies of record to other persons
+# 159. Giving copies of record to other persons … … … … 217
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 Subdivision: Subdivision (2) — Examination of persons
@@ -12,3 +12,5 @@ Subdivision: Subdivision (2) — Examination of persons
 (b) publish, or communicate to a person, the copy, a copy of it, or any part of the copy’s contents.
 
 (3) The Authority may, subject to such conditions or restrictions as it may impose, give to a person a copy of a written record of the examination, or such a copy together with a copy of any related book.
+
+[ASIC 1989, s. 25]

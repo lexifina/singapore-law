@@ -1,17 +1,30 @@
-# 29. Power of Authority to approve exchange holding company
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 3 — Exchange Holding Companies
+# 29. Power of Authority to approve instruments, contracts and transactions … … … … … … … … … 76
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
+Subdivision: Subdivision (3) — Matters requiring approval of Authority
 
-(1) A corporation may apply to the Authority for approval to be an exchange holding company in such form and manner as the Authority may prescribe.
+(1) No approved exchange shall, without the approval of the Authority, list, de-list or permit the trading of —
 
-(2) The application shall be accompanied by the prescribed fee.
+(a) any futures contract;
 
-(3) The Authority may require a corporation to provide the Authority with such further information as it considers necessary in relation to the application in such form or verified in such manner as the Authority may direct.
+(b) any right, option or derivative in respect of any debentures, stocks or shares;
 
-(4) The Authority may, by notice in writing, subject to such conditions or restrictions as it may think fit to impose, approve a corporation as an exchange holding company if the Authority is satisfied that it would not be contrary to the interests of the investing public to approve the application.
+(c) any right under a contract for differences or under any other contract the purpose or purported purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
 
-(5) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval as an exchange holding company.
+(i) the value or price of any debentures, stocks or shares;
 
-(6) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+(ii) the value or price of any group of debentures, stocks or shares; or
 
-(7) An exchange holding company which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+(iii) an index of any debentures, stocks or shares; or
+
+(d) such other instrument, contract or transaction, or class of instruments, contracts or transactions as the Authority may prescribe, on any market operated by the approved exchange.
+
+[1/2005]
+
+(2) The Authority may grant approval for an approved exchange to list, de-list or permit the trading of any instrument, contract or transaction, or any class of instruments, contracts or transactions, referred to in subsection (1), subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing to the approved exchange.
+
+[1/2005]
+
+(3) Any approved exchange which contravenes subsection (1) or any of the conditions or restrictions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2005]

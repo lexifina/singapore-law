@@ -1,21 +1,51 @@
-# 17. Authority to be notified of amendments to business rules or listing rules
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 2 — Exchanges
+# 17. Obligation to notify Authority of certain matters … … 65
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-(1) A securities exchange or futures exchange that proposes to make any amendment by way of rescission, substitution, alteration or addition to its business rules, or a securities exchange that proposes to make any amendment by way of rescission, substitution, alteration or addition to its listing rules shall immediately inform the Authority of the proposed amendment by written notice which shall state the date on which the amendment is proposed to be made, an explanation of the purpose of the amendment and the text of the amendment.
+(1) An approved exchange shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
 
-(2) If the notice required to be given under subsection (1) is not given at least 21 days before the making of the amendment, that amendment shall not come into force.
+(a) any material change to the information provided by the approved exchange in its application under section 7 (1) or 11 (1);
 
-(3) The Authority may, within 21 days after the receipt of a notice under subsection (1), by notice in writing to the securities exchange or futures exchange, disallow, alter or supplement the whole or any specified part of the amendment in question and, thereupon, such whole or specified part of the amendment, as the case may be —
+(b) the carrying on of any business by the approved exchange other than —
 
-(a) where it is disallowed, shall not come into force; or
+(i) the business of operating a market;
 
-(b) where it is altered or supplemented, shall come into force accordingly.
+(ii) a business incidental to operating a market; or
 
-(4) The Authority may, in its discretion, by notice in writing to the securities exchange or futures exchange, extend the period specified in subsection (3), and where the period is extended, the amendment shall not come into force before the expiry of the extended period.
+(iii) such business or class of businesses as the Authority may prescribe;
 
-(5) In addition to the power conferred upon the Authority under subsection (3), the Authority may of its own motion, by notice in writing to a securities exchange or futures exchange —
+(c) the acquisition by the approved exchange of a substantial shareholding in a corporation which does not carry on —
 
-(a) alter or supplement the business rules of the securities exchange or futures exchange, or the listing rules of the securities exchange; or
+(i) the business of operating a market;
 
-(b) alter or supplement the terms and conditions on which securities or futures contracts are traded on the securities exchange or futures exchange, if the Authority considers that such action is necessary for the protection of investors or to ensure fair dealing in a securities market or futures market.
+(ii) a business incidental to operating a market; or
+
+(iii) such business or class of businesses as the Authority may prescribe;
+
+(d) the approved exchange becoming aware of a financial irregularity or other matter which in its opinion —
+
+(i) may affect its ability to discharge its financial obligations; or
+
+(ii) may affect the ability of a member of the approved exchange to meet its financial obligations to the approved exchange;
+
+(e) the approved exchange reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a member of the approved exchange;
+
+(f) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the approved exchange.
+
+[1/2005]
+
+(2) Without prejudice to the generality of section 46 (1), the Authority may, at any time after receiving a notification referred to in subsection (1), issue directions to the approved exchange —
+
+(a) where the notification relates to a matter referred to in subsection (1) (b) —
+
+(i) to cease carrying on the first-mentioned business referred to in subsection (1) (b); or
+
+(ii) to carry on the first-mentioned business referred to in subsection (1) (b) subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 46 (1); or
+
+(b) where the notification relates to a matter referred to in subsection (1) (c) —
+
+(i) to dispose of the shareholding referred to in subsection (1) (c); or
+
+(ii) to exercise its rights relating to such shareholding subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 46 (1), and the approved exchange shall comply with such directions.
+
+[1/2005]

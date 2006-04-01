@@ -1,8 +1,10 @@
-# 150. Inspection by Authority
+# 150. Inspection by Authority … … … … … … … 211
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
-Subdivision: Subdivision (2) — Inspection Powers of Authority
+Subdivision: Subdivision (2) — Inspection powers of Authority
 
-(1) The Authority may inspect under conditions of secrecy, the books of an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a person operating an exempt market, a person granted an exemption under section 5 (3) or 6 (3), a clearing house, a person operating an exempt clearing facility, the holder of a capital markets services licence, an exempt person or a representative.
+(1) The Authority may inspect under conditions of secrecy, the books of an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a person operating an exempt market, an exempt market operator, a designated clearing house, the holder of a capital markets services licence, an exempt person or a representative.
+
+[1/2005]
 
 (2) For the purpose of an inspection under this section —
 
@@ -40,4 +42,6 @@ Subdivision: Subdivision (2) — Inspection Powers of Authority
 
 (9) Section 149 shall, with the necessary modifications, apply in relation to a copy of, or extract from, a book inspected under this section.
 
-Division 2 — Power of Minister to appoint inspector for investigating dealings in securities, etc.
+[SIA, s. 12 modified; FTA, s. 48 modified; ASIC 1989, s. 37]
+
+Division 2 — Power of Minister to Appoint Inspector for Investigating Dealings in Securities, etc.

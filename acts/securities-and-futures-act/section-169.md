@@ -1,4 +1,4 @@
-# 169. Interpretation of this Part
+# 169. Interpretation of this Part … … … … … … 223
 Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 In this Part, unless the context otherwise requires —
@@ -20,3 +20,5 @@ In this Part, unless the context otherwise requires —
 (a) a person operating a securities market or futures market, an intermediary or any other person regulated by the regulatory authority; or
 
 (b) the issuance of or trading in securities, or the trading in futures contracts in the foreign country of the regulatory authority.
+
+[SIA, s. 96A; FTA, s. 49Q]

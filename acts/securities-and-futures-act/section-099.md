@@ -1,4 +1,4 @@
-# 99. Exemptions from requirement to hold capital markets services licence
+# 99. Exemptions from requirement to hold capital markets services licence … … … … … … … … 177
 Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
 Division: Division 2 — Exemptions
 
@@ -12,21 +12,25 @@ Division: Division 2 — Exemptions
 
 (d) any company or society registered under the Insurance Act (Cap. 142) in respect of fund management for the purpose of carrying out insurance business;
 
-(e) any person licensed under the Financial Advisers Act (Cap. 110) in respect of any regulated activity that is solely incidental to his carrying on of the business for which he is licensed under that Act;
+(e) (Deleted by Act 1/2005)
 
-(f) any securities exchange, futures exchange or recognised trading system provider in respect of any regulated activity that is solely incidental to its operation of a securities market or futures market, as the case may be;
+(f) any securities exchange, futures exchange, recognised market operator or approved holding company in respect of any regulated activity that is solely incidental to its operation of a securities market or futures market or to its performance as an approved holding company, as the case may be;
 
-(g) any clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
+(g) any designated clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
 
-(h) such other person or class of persons in respect of any regulated activity as may be prescribed.
+(h) such other person or class of persons in respect of any regulated activity as may be exempted by the Authority.
 
-(2) Any securities exchange, futures exchange or recognised trading system provider which intends to carry on business in any regulated activity but which does not fall within subsection (1) (f), may apply in writing to the Authority for exemption from the requirement to hold a capital markets services licence and the Authority may grant such exemption if in the Authority’s opinion, the carrying on of the activities referred to in subsection (1) is not a significant business of the securities exchange, futures exchange or recognised trading system provider.
+[16/2003; 1/2005]
 
-(3) Without prejudice to section 341, the Authority may prescribe the criteria or factors that it will consider in deciding whether to grant an exemption under subsection (2).
+(2) (Deleted by Act 1/2005)
+
+(3) (Deleted by Act 1/2005)
 
 (4) The Authority may by regulations or by notice in writing impose such conditions or restrictions on an exempt person or its representative in relation to the conduct of the regulated activity or any related matter as the Authority thinks fit and the exempt person or its representative, as the case may be, shall comply with such conditions or restrictions.
 
-(5) Any exempt person or representative of an exempt person, who contravenes any provision of this Act which is applicable to it or any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+(5) Any exempt person or representative of an exempt person, who contravenes any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2005]
 
 (6) The Authority may withdraw an exemption granted to any person under this section —
 

@@ -1,13 +1,15 @@
-# 144. Exercise of certain powers in relation to futures contracts
+# 144. Exercise of certain powers in relation to futures contracts 209
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 
 (1) This section shall apply where the Authority considers that —
 
-(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 24;
+(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 34;
 
 or
 
 (b) a person may have contravened any of the provisions of Part XII in relation to futures contracts.
+
+[42/2005]
 
 (2) Where the Authority believes on reasonable grounds that a person is capable of giving information concerning any of the following matters:
 
@@ -20,3 +22,5 @@ or
 (d) the financial position of any business carried on by a nominee controlled by a person referred to in paragraph (c) or jointly controlled by 2 or more persons, at least one of whom is a person referred to in that paragraph; or
 
 (e) an audit of, or any report of an auditor concerning, any book of the holder of a capital markets services licence to trade in futures contracts, being a book relating to trading in such futures contracts, the Authority may require the person to disclose to the Authority the information that the person has about that matter.
+
+[SIA, s. 10 (4) modified]

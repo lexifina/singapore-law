@@ -1,5 +1,6 @@
-# 325. Power of court to make certain orders
+# 325. Power of court to make certain orders … … … … 515
 Part: PART XV MISCELLANEOUS
+Heading: Section Pages
 
 (1) Where —
 
@@ -7,7 +8,7 @@ Part: PART XV MISCELLANEOUS
 
 (i) has committed an offence under this Act;
 
-(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, futures exchange, or clearing house, or the listing rules of a securities exchange; or
+(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, futures exchange, or designated clearing house, or the listing rules of a securities exchange; or
 
 (iii) is about to do an act with respect to dealing in securities or trading in futures contracts that, if done, would be such an offence or contravention;
 
@@ -15,7 +16,7 @@ Part: PART XV MISCELLANEOUS
 
 (c) on the application of a futures exchange, it appears to the court that a person has contravened the business rules of the futures exchange; or
 
-(d) on the application of a clearing house, it appears to the court that a person has contravened the business rules of the clearing house, the court may, without prejudice to any orders it would be entitled to make otherwise than under this section, make one or more of the following orders:
+(d) on the application of a designated clearing house, it appears to the court that a person has contravened the business rules of the designated clearing house, the court may, without prejudice to any orders it would be entitled to make otherwise than under this section, make one or more of the following orders:
 
 (i) in the case of a persistent or continuing breach of this Act, or of any condition or restriction of a licence, or of any business rule of a securities exchange, futures exchange or clearing house, or any listing rule of a securities exchange an order restraining a person from carrying on business to deal in securities or trade in futures contracts, or acting as a representative of such a person, or from holding himself out as so carrying on business or so acting;
 
@@ -28,6 +29,8 @@ Part: PART XV MISCELLANEOUS
 (v) for the purpose of securing compliance with any other order under this section, an order directing a person to do or refrain from doing a specified act;
 
 (vi) any ancillary order deemed to be desirable in consequence of the making of any of these orders.
+
+[1/2005]
 
 (2) The court may, before making an order under subsection (1), direct that notice of the application be given to such person as it thinks fit or that notice of the application be published in such manner as it thinks fit, or both.
 

@@ -1,90 +1,194 @@
-# 240. Requirement for prospectus and profile statement, where relevant
+# 240. Requirement for prospectus and profile statement, where relevant … … … … … … … … … … 278
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Prospectus Requirements
+Subdivision: Subdivision (2) — Prospectus requirements
 
-(1) No person shall make an offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation unless such offer or invitation —
+(1) No person shall make an offer of securities unless the offer —
 
-(a) is made in or accompanied by a prospectus in respect of the offer or invitation —
+(a) is made in or accompanied by a prospectus in respect of the offer —
 
-(i) that is prepared in accordance with sections 243 and 244, where applicable;
+(i) that is prepared in accordance with section 243;
 
-(ii) a copy of which, being one that has been signed by every director, and by every person who is named therein as a proposed director, of the corporation or by a person authorised by him, is lodged with the Authority together with a written application for the registration of the prospectus; and
+(ii) a copy of which, being one that has been signed in accordance with subsection (4A), is lodged with the Authority; and
 
 (iii) that is registered by the Authority; and
 
-(b) complies with such requirements as may be prescribed.
+(b) complies with such requirements as may be prescribed by the Authority.
+
+[16/2003; 1/2005]
 
 (2) A person who lodges a preliminary document with the Authority shall be deemed to have lodged a prospectus with the Authority.
 
 (3) A preliminary document referred to in subsection (2) must contain all information to be included in a prospectus other than such information as may be prescribed by the Authority.
 
-(4) Notwithstanding subsection (1), an offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation, may be made in or accompanied by an extract from, or an abridged version of, a prospectus (referred to in this section as a profile statement), instead of a prospectus, if —
+(4) Notwithstanding subsection (1), an offer of securities may be made in or accompanied by an extract from, or an abridged version of, a prospectus (referred to in this section as a profile statement), instead of a prospectus, if —
 
-(a) a prospectus in respect of such offer or invitation is prepared in accordance with sections 243 and 244, where applicable, and the profile statement is prepared in accordance with section 246;
+(a) a prospectus in respect of such offer is prepared in accordance with section 243, and the profile statement is prepared in accordance with section 246;
 
-(b) a copy of the prospectus and a copy of the profile statement, each of which has been signed by every director, and by every person who is named therein as a proposed director, of the corporation or by a person authorised by him, are lodged with the Authority together with a written application for the registration of the prospectus and a written application for the registration of the profile statement respectively, and the prospectus is lodged no later than the profile statement;
+(b) a copy of the prospectus and a copy of the profile statement, each of which has been signed in accordance with subsection (4A), are lodged with the Authority, and the prospectus is lodged no later than the profile statement;
 
 (c) the prospectus and profile statement are registered by the Authority;
 
 (d) sufficient copies of the prospectus are made available for collection at the times and places specified in the profile statement; and
 
-(e) the offer or invitation complies with such requirements as may be prescribed.
+(e) the offer complies with such requirements as may be prescribed by the Authority.
 
-(5) No person shall make any offer to the public of shares in or debentures of, or units of shares in or debentures of, a corporation for subscription or purchase, or an invitation to the public to subscribe for or purchase shares in or debentures of, or units of shares in or debentures of, a corporation, if that corporation has not been formed or does not exist.
+[16/2003; 1/2005]
 
-(6) Subsection (1) shall not apply to an offer or invitation in respect of shares in or debentures of, or units of shares in or debentures of, a corporation that is exempted under Subdivision 4.
+(4A) The copy of a prospectus or profile statement lodged with the Authority shall be signed —
+
+(a) where the person making the offer is the issuer —
+
+(i) in a case where the issuer is not the government of a State, by every director or equivalent person of the issuer and every person who is named therein as a proposed director or an equivalent person of the issuer; or
+
+(ii) in a case where the issuer is the government of a State, by an official of that government who is authorised to sign the prospectus on its behalf;
+
+(b) where the person making the offer is an individual and is not the issuer —
+
+(i) in a case where the issuer is not the government of a State —
+
+(A) by that person; and
+
+(B) if the issuer is controlled by that person, one or more of his related parties, or that person and one or more of his related parties, by every director or equivalent person of the issuer and every person who is named therein as a proposed director or an equivalent person of the issuer; or
+
+(ii) in a case where the issuer is the government of a State, by that person;
+
+(c) where the person making the offer is an entity (not being the government of a State) and is not the issuer —
+
+(i) in a case where the issuer is not the government of a State —
+
+(A) by every director or equivalent person of that entity; and
+
+(B) if the issuer is controlled by that entity, one or more of its related parties, or that entity and one or more of its related parties, by every director or equivalent person of the issuer, and every person who is named therein as a proposed director or an equivalent person of the issuer; or
+
+(ii) in a case where the issuer is the government of a State, by every director or equivalent person of that entity;
+
+and
+
+(d) where the person making the offer is the government of a State and is not the issuer —
+
+(i) in a case where the issuer is not the government of another State —
+
+(A) by an official of the government of the State who is authorised to sign the prospectus on its behalf; and
+
+(B) if the issuer is controlled by that government, one or more of its related parties, or that government and one or more of its related parties, by every director or every equivalent person of the issuer, and every person who is named therein as a proposed director or an equivalent person of the issuer; or
+
+(ii) in a case where the issuer is the government of another State, by an official of the government of the first-mentioned State who is authorised to sign the prospectus on its behalf.
+
+[1/2005]
+
+(4B) A requirement under subsection (4A) for the copy of a prospectus or profile statement to be signed by a director or an equivalent person is satisfied if the copy is signed —
+
+(a) by that director or equivalent person; or
+
+(b) by a person who is authorised in writing by that director or equivalent person to sign on his behalf.
+
+[1/2005]
+
+(4C) A requirement under subsection (4A) for the copy of a prospectus or profile statement to be signed by a person named therein as a proposed director or an equivalent person is satisfied if the copy is signed —
+
+(a) by that proposed director or equivalent person; or
+
+(b) by a person who is authorised in writing by that proposed director or equivalent person to sign on his behalf.
+
+[1/2005]
+
+(5) No person shall make any offer of securities of an entity that has not been formed or does not exist.
+
+[1/2005]
+
+(6) (Deleted by Act 1/2005)
 
 (7) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(8) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st day (both days inclusive) from the date of lodgment thereof with the Authority, unless —
+(8) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
 
-(a) the Authority gives to the person who lodged the prospectus or profile statement a notice of an opportunity to be heard under subsection (15);
+(a) the Authority gives to the person making the offer a notice of an opportunity to be heard under subsection (15);
 
-(b) the Authority gives notice of an extension, in which case the Authority may, not later than 28 days from the date of lodgment of the prospectus or profile statement —
+(b) the Authority gives to the person making the offer a notice of an extension, in which case the Authority may, not later than 28 days from the date of lodgment of the prospectus or profile statement —
 
 (i) register the prospectus or profile statement; or
 
-(ii) give to the person who lodged the prospectus or profile statement a notice of an opportunity to be heard under subsection (15); or
+(ii) give the person making the offer a notice of an opportunity to be heard under subsection (15);
 
-(c) the person who lodged the prospectus or profile statement applies in writing for the prospectus or profile statement to be registered at a later date, in which case the Authority may register the prospectus or profile statement at such later date as the Authority thinks fit.
+(c) the person making the offer applies in writing to extend the period during which the prospectus or profile statement may be registered, and the Authority grants an extension as it thinks fit, in which case the Authority may, at any time up to and including the date on which the extended period ends —
 
-(9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus containing the information required to be stipulated in the prospectus under sections 243 and 244, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been furnished to the Authority.
+(i) register the prospectus or profile statement; or
+
+(ii) give the person making the offer a notice of an opportunity to be heard under subsection (15); or
+
+(d) the person making the offer gives a notice in writing to the Authority to withdraw the lodgment of the prospectus or profile statement, in which case the Authority shall not register the prospectus or profile statement.
+
+[1/2005]
+
+(8A) Where, after a notice of an opportunity to be heard has been given under subsection (8) (a), (b) (ii) or (c) (ii), the Authority decides not to refuse registration of the prospectus or profile statement, the Authority may proceed with the registration on such date as it considers appropriate, except that that date shall not be earlier than the 14th day from the date of lodgment of the prospectus or profile statement with the Authority.
+
+[1/2005]
+
+(9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus which has been signed in accordance with subsection (4A) and which contains the information required to be stipulated in the prospectus under section 243, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been lodged with the Authority.
+
+[1/2005]
+
+(9A) A person making an offer of securities may lodge any amendment to a prospectus or profile statement in respect of that offer at any time before, but not after, the registration of the prospectus or profile statement by the Authority.
+
+[1/2005]
 
 (10) Subject to subsection (11) —
 
-(a) where any amendment to a prospectus is lodged prior to the registration of such prospectus, the prospectus and any profile statement which is lodged shall be deemed to have been lodged when such amendment was lodged; and
+(a) where any amendment to a prospectus is lodged, the prospectus and any profile statement which is lodged shall be deemed for the purposes of subsection (8) to have been lodged when such amendment was lodged; and
 
-(b) where any amendment to a profile statement is lodged prior to the registration of such profile statement, the profile statement shall be deemed to have been lodged when such amendment was lodged.
+(b) where any amendment to a profile statement is lodged, the profile statement shall be deemed for the purposes of subsection (8) to have been lodged when such amendment was lodged.
 
-(11) Where an amendment to a prospectus or profile statement is lodged prior to the registration of the prospectus or profile statement —
+[16/2003; 1/2005]
 
-(a) with the consent of the Authority; or
+(11) Where an amendment to a prospectus or profile statement is lodged with the consent of the Authority, the prospectus or profile statement as amended shall be deemed, for the purposes of subsection (8), to have been lodged when the original prospectus or profile statement was lodged with the Authority.
 
-(b) pursuant to an order by the Authority, it shall be treated as part of the original prospectus or profile statement.
+[1/2005]
 
-(12) The Authority may publish a prospectus or profile statement for public information after it has been lodged with the Authority and for the purposes of this subsection, the person who lodges the prospectus or profile statement shall provide the Authority with a copy of the prospectus or profile statement in such form or medium for publication as the Authority may require.
+(11A) An amendment to a prospectus or profile statement that is lodged shall be treated as part of the original prospectus or profile statement.
 
-(13) The Authority shall refuse to register a copy of any prospectus if —
+[16/2003]
 
-(a) the Authority is of the opinion that the prospectus contains a false or misleading statement or matter;
+(12) The Authority may, for public information, publish —
 
-(b) there is an omission from the prospectus of any information that is required to be included in it under section 243 or 244;
+(a) a prospectus or profile statement lodged with the Authority under this section; and
 
-(c) a copy of the prospectus signed by every director, and by every person who is named therein as a proposed director of the corporation, or by a person authorised by him in writing, is not lodged with the Authority;
+(b) where applicable, the translation thereof in the English language lodged with the Authority under section 318A (1), and, for the purposes of this subsection, the person making the offer shall provide the Authority with a copy of the prospectus or profile statement and, where applicable, the translation in such form or medium for publication as the Authority may require.
+
+[16/2003; 1/2005]
+
+(13) The Authority shall refuse to register a prospectus if —
+
+(a) the Authority is of the opinion that the prospectus contains a false or misleading statement;
+
+(b) there is an omission from the prospectus of any information that is required to be included in it under section 243;
+
+(c) the copy of the prospectus that is lodged with the Authority is not signed in accordance with subsection (4A);
 
 (d) the Authority is of the opinion that the prospectus does not comply with the requirements of this Act;
 
-(e) copies verified as prescribed of any consent required by section 249 to the issue of the prospectus are not lodged with the Authority; or
+(e) any written consent of an expert to the issue of the prospectus required under section 249, or a copy thereof which is verified as prescribed, is not lodged with the Authority;
+
+(ea) any written consent of an issue manager to the issue of the prospectus required under section 249A (1), or a copy thereof which is verified as prescribed, is not lodged with the Authority;
+
+(eb) any written consent of an underwriter to the issue of the prospectus required under section 249A (2), or a copy thereof which is verified as prescribed, is not lodged with the Authority; or
 
 (f) the Authority is of the opinion that it is not in the public interest to do so.
 
-(14) The Authority shall refuse to register a copy of any profile statement if —
+[16/2003; 1/2005]
 
-(a) the Authority is of the opinion that the profile statement contains a false or misleading statement or matter;
+(14) The Authority shall refuse to register a profile statement if —
+
+(a) the Authority is of the opinion that the profile statement contains a false or misleading statement;
 
 (b) there is an omission from the profile statement of information required by section 246 to be included in it or an inclusion in the profile statement of information prohibited by that section from being included in it;
 
-(c) a copy of the profile statement signed by every director, and by every person who is named therein as a proposed director of the corporation, or by a person authorised by him in writing, is not lodged with the Authority;
+(c) the copy of the profile statement that is lodged with the Authority is not signed in accordance with subsection (4A);
+
+(ca) any written consent of an expert to the issue of the profile statement required under section 249, or a copy thereof which is verified as prescribed, is not lodged with the Authority;
+
+(cb) any written consent of an issue manager to the issue of the profile statement required under section 249A (1), or a copy thereof which is verified as prescribed, is not lodged with the Authority;
+
+(cc) any written consent of an underwriter to the issue of the profile statement required under section 249A (2), or a copy thereof which is verified as prescribed, is not lodged with the Authority;
 
 (d) the Authority is of the opinion that the profile statement does not comply with the requirements of this Act;
 
@@ -92,32 +196,44 @@ Subdivision: Subdivision (2) — Prospectus Requirements
 
 (f) the Authority is of the opinion that it is not in the public interest to do so.
 
-(15) The Authority shall not refuse to register a copy of a prospectus under subsection (13) or profile statement under subsection (14) without giving the person who lodged the prospectus or profile statement an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to register the prospectus or profile statement on the basis of any of the following circumstances:
+[16/2003; 1/2005]
 
-(a) the corporation is in the course of being wound up or otherwise dissolved whether in Singapore or elsewhere;
+(15) The Authority shall not refuse to register a prospectus under subsection (13) or a profile statement under subsection (14) without giving the person making the offer an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to register the prospectus or profile statement on the basis of any of the following circumstances:
 
-(b) execution against the corporation in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(a) the person making the offer (being an entity), the issuer or, where applicable, the underlying entity is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(c) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+(b) the person making the offer (being an individual) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(d) the corporation has entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation.
+(c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person making the offer (being an entity), the issuer or, where applicable, the underlying entity.
 
-(16) Any person who is aggrieved by the refusal of the Authority to register a copy of a prospectus or profile statement under subsection (13) or (14) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
+[1/2005]
+
+(16) Any person making an offer may, within 30 days after he is notified that the Authority has refused to register a prospectus or profile statement to which his offer relates under subsection (13) or (14), appeal to the Minister, whose decision shall be final.
+
+[1/2005]
 
 (17) If —
 
-(a) a prospectus or profile statement is issued, circulated or distributed without a copy thereof having been registered by the Authority; or
+(a) a prospectus or profile statement is issued, circulated or distributed before it has been registered by the Authority; or
 
-(b) an application to subscribe for or purchase shares or debentures, or units of shares or debentures is accepted, or shares or debentures, or units of shares or debentures are allotted, issued or sold, without a copy of a prospectus and profile statement, where applicable, in respect of the shares or debentures, or units of shares or debentures, having been registered by the Authority, the corporation and every person who is knowingly a party to —
+(b) an application to subscribe for or purchase securities is accepted, or securities are allotted, issued or sold, before a prospectus and, where applicable, profile statement in respect of the securities has been registered by the Authority, the person making the offer and every person who is knowingly a party to —
 
 (i) the issue, circulation or distribution of the prospectus or profile statement;
 
-(ii) the acceptance of the application to subscribe for or purchase the shares or debentures, or units of shares or debentures; or
+(ii) the acceptance of the application to subscribe for or purchase the securities; or
 
-(iii) the allotment, issue or sale of the shares or debentures, or units of shares or debentures, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(iii) the allotment, issue or sale of the securities, as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(18) Every corporation shall cause a true copy of every document referred to in subsection (13) (e) to be deposited within 7 days after registration of the prospectus at the registered office of the corporation in Singapore and, if it has no registered office in Singapore, at the address in Singapore specified in the prospectus for that purpose.
+[1/2005]
 
-(19) Every corporation shall keep a true copy of every document referred to in subsection (13) (e), for a period of at least 6 months after the registration of the prospectus, to be made available for the inspection of the members and creditors of the corporation without fee.
+(18) This section is subject to section 240A.
+
+[1/2005]
+
+(19) For the purposes of subsections (13) (a) and (14) (a), any reference to a statement shall include a reference to any information presented, regardless of whether such information is in text or otherwise.
+
+[1/2005]
 
 (20) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $50,000.
+
+[Companies, s. 43, s. 45A and s. 50; Aust. Corporations 2001, s. 721]

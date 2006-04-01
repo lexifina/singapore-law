@@ -1,4 +1,4 @@
-# 138. Securities Industry Council
+# 138. Securities Industry Council … … … … … … 203
 Part: PART VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS
 
 (1) The advisory body known as the Securities Industry Council referred to in section 14 of the repealed Securities Industry Act (Cap. 289, 1985 Ed.) shall continue in existence as if it had been established under this Act.
@@ -24,3 +24,5 @@ Part: PART VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS
 (9) The Securities Industry Council shall in the exercise of its functions have regard to the interest of the public, the protection of investors and the safeguarding of sources of information.
 
 (10) Subject to the provisions of this Act, the Securities Industry Council may regulate its own procedure and shall not be bound by the rules of evidence.
+
+[SIA, s. 14]

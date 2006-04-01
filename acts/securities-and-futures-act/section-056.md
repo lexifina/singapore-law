@@ -1,9 +1,11 @@
-# 56. Effect of revocation
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 2 — Clearing Houses
+# 56. Prohibition on holding out … … … … … … 99
+Part: PART III CLEARING FACILITIES
+Division: Division 2 — Designation of Persons Operating Clearing Facilities Section Pages
 
-Any revocation of approval referred to in section 55 shall not operate so as to —
+(1) No person shall hold himself out as a designated clearing house unless he has been designated by the Authority under section 55 (1).
 
-(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the approval; or
+[1/2005]
 
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2005]

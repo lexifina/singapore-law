@@ -1,27 +1,25 @@
-# 21. Power of Authority to issue directions to securities exchange or futures exchange
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 2 — Exchanges
+# 21. Obligation to maintain confidentiality … … … … 68
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-(1) The Authority may, if it thinks it necessary or expedient —
+(1) Subject to subsection (2), an approved exchange and its officers and employees shall maintain, and aid in maintaining, the confidentiality of all user information that —
 
-(a) for ensuring fair and orderly securities markets or futures markets;
+(a) comes to the knowledge of the approved exchange or any of its officers or employees; or
 
-(b) for ensuring the integrity of, and proper management of systemic risks in, securities markets or futures markets; or
+(b) is in the possession of the approved exchange or any of its officers or employees.
 
-(c) in the interest of the public or section of the public or for the protection of investors, issue directions by notice in writing either of a general or specific nature to a securities exchange or futures exchange.
+[1/2005]
 
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
+(2) Subsection (1) shall not apply to —
 
-(a) the trading or the termination of trading on or through the facilities of that securities exchange or futures exchange;
+(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
 
-(b) any securities listed for quotation or quoted on that securities exchange;
+(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
 
-(c) any futures contracts listed for trading on that futures exchange;
+(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
 
-(d) the manner in which a securities exchange or futures exchange carries on its business, including the manner of reporting off-market purchases; or
+[1/2005]
 
-(e) any other matter which the Authority considers necessary for the proper administration of this Act, and the securities exchange or futures exchange shall comply with any such direction.
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing an approved exchange from entering into a written agreement with a user which obliges the approved exchange to maintain a higher degree of confidentiality than that specified in this section.
 
-(3) A securities exchange or futures exchange which, without reasonable justification or excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+[1/2005]

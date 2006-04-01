@@ -1,4 +1,4 @@
-# 165. Powers where books are produced or seized
+# 165. Powers where books are produced or seized … … … 220
 Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 Subdivision: Subdivision (3) — Powers to obtain information
@@ -46,3 +46,5 @@ Subdivision: Subdivision (3) — Powers to obtain information
 (a) if subsection (1) (a) applies, a person who so produced any of the books; or
 
 (b) in any other case, a person who was a party to the compilation of any of the books, to explain to the best of his knowledge and belief any matter about the compilation of any of the books or to which any of the books relate.
+
+[SIA, s. 5 (6) (a); ASIC 1989, s. 37 modified]

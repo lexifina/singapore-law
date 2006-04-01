@@ -1,9 +1,15 @@
-# 41. Effect of revocation
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 4 — Recognised Trading System Providers
+# 41. Obligation to assist Authority … … … … … … 86
+Part: PART II MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-Any revocation of recognition referred to in section 40 shall not operate so as to —
+A recognised market operator shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
 
-(a) avoid or affect any agreement, transaction or arrangement entered into on the securities market or futures market operated by the recognised trading system provider, whether the agreement, transaction or arrangement was entered into before or after the revocation of the recognition; or
+(a) such books and other information —
 
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+(i) relating to the business of the recognised market operator; or
+
+(ii) in respect of such dealings in securities or trading in futures contracts; and
+
+(b) such other information, as the Authority may require for the proper administration of this Act.
+
+[1/2005]

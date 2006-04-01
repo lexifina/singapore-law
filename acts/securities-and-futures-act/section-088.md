@@ -1,4 +1,4 @@
-# 88. Power of Authority to impose conditions or restrictions
+# 88. Power of Authority to impose conditions or restrictions … 166
 Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
 
 (1) The Authority may grant or renew a licence subject to such conditions or restrictions as it thinks fit.
@@ -7,4 +7,4 @@ Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Di
 
 (3) Any person who contravenes any condition or restriction in his licence shall be guilty of an offence.
 
-(4) Where the Authority imposes or varies any condition or restriction under this section, the Authority need not give the licensed person an opportunity to be heard.
+[SIA, s. 33; FTA, s. 15]

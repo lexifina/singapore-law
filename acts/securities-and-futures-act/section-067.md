@@ -1,13 +1,17 @@
-# 67. Immunity of clearing house, etc.
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 2 — Clearing Houses
+# 67. Obligation to assist Authority … … … … … … 107
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
 
-No criminal or civil liability shall be incurred by —
+A designated clearing house shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
 
-(a) a clearing house; or
+(a) such books and other information —
 
-(b) any person acting on behalf of a clearing house, including —
+(i) relating to the business of the designated clearing house; or
 
-(i) any member of the board of directors of the clearing house; and
+(ii) in respect of any transaction or class of transactions cleared or settled by the designated clearing house;
 
-(ii) any member of any committee established by the clearing house, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this Act or the business rules of the clearing house, including its default rules.
+and
+
+(b) such other information, as the Authority may require for the proper administration of this Act.
+
+[1/2005]

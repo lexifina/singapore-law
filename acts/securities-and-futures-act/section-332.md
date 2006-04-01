@@ -1,12 +1,17 @@
-# 332. Offences by officers
+# 332. Offences by officers … … … … … … … 524
 Part: PART XV MISCELLANEOUS
+Heading: Section Pages
 
-(1) Any person, being an officer of an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a clearing house, or a holder of a capital markets services licence to carry on business in any regulated activity, who fails to take all reasonable steps to secure —
+(1) Any person, being an officer of an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a designated clearing house, or a holder of a capital markets services licence to carry on business in any regulated activity, who fails to take all reasonable steps to secure —
 
 (a) compliance with any provision of this Act; or
 
 (b) the accuracy and correctness of any statement submitted under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[1/2005]
+
 (2) In any proceedings against an officer under subsection (1), it shall be a defence for the defendant to prove that he had reasonable grounds for believing that another person was charged with the duty of securing compliance with the requirements of this Act, or with the duty of ensuring that those statements were accurate, as the case may be, and that that person was competent, and in a position, to discharge that duty.
 
 (3) An officer shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court, he committed the offence wilfully.
+
+[SIA, s. 107]

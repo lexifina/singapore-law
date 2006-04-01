@@ -1,27 +1,41 @@
-# 257. Document containing offer of shares or debentures for sale deemed prospectus
+# 257. Document containing offer of securities for sale deemed prospectus … … … … … … … … … 323
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Prospectus Requirements
+Subdivision: Subdivision (2) — Prospectus requirements
 
-(1) Subsection (2) applies where a corporation allots or agrees to allot to any person any shares in or debentures of, or units of any shares in or debentures of, the corporation with a view to all or any of them being offered for sale to the public.
+(1) Subsection (2) applies where —
 
-(2) Any document by which the offer for sale to the public is made shall for all purposes be deemed to be a prospectus issued by the corporation and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosure in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if —
+(a) an entity allots or agrees to allot to any person any securities of the entity with a view to all or any of them being subsequently offered for sale to another person; and
 
-(a) the shares, debentures or units of shares or debentures had been offered to the public; and
+(b) such offer (referred to in this section as a subsequent offer) does not qualify for an exemption under Subdivision (4) of this Division (other than section 280).
 
-(b) persons accepting the offer in respect of any shares, debentures or units of shares or debentures were subscribers therefor, but without prejudice to the liability, if any, of the persons by whom the offer is made, in respect of statements or non-disclosures in the document or otherwise.
+[1/2005]
 
-(3) For the purposes of this Act, it shall, unless the contrary is proved, be sufficient evidence that an allotment of, or an agreement to allot, shares or debentures, or units of shares or debentures was made with a view to the shares or debentures, or units of shares or debentures, being offered for sale to the public if it is shown —
+(2) Any document by which the subsequent offer is made shall for all purposes be deemed to be a prospectus issued by the entity, and the entity shall for all purposes be deemed to be the person making the offer, and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosure in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if —
 
-(a) that an offer of the shares, debentures, units of shares or debentures or of any of them for sale to the public was made within 6 months after the allotment or agreement to allot; or
+(a) an offer of securities has been made; and
 
-(b) that at the date when the offer was made the whole consideration to be received by the corporation in respect of the shares, debentures, or units of shares or debentures had not been so received.
+(b) persons accepting the subsequent offer in respect of any securities were subscribers therefor, but without prejudice to the liability, if any, of the persons making the subsequent offer, in respect of statements or non-disclosures in the document or otherwise.
 
-(4) The requirements of this Division as to prospectuses shall have effect as though the persons making an offer to which this section relates were persons named in a prospectus as directors of a corporation.
+[16/2003; 1/2005]
 
-(5) In addition to complying with the other requirements of this Division, the document making the offer shall state —
+(3) For the purposes of this Act, it shall, unless the contrary is proved, be sufficient evidence that an allotment of, or an agreement to allot, securities was made with a view to the securities being subsequently offered for sale if it is shown —
 
-(a) the net amount of the consideration received or to be received by the corporation in respect of shares or debentures, or units of shares or debentures, to which the offer relates; and
+(a) that an offer of the securities or of any of them for sale was made within 6 months after the allotment or agreement to allot; or
 
-(b) the place and time at which a copy of the contract under which the shares or debentures, or units of shares or debentures, have been or are to be allotted may be inspected.
+(b) that at the date when the offer was made the whole consideration to be received by the entity in respect of the securities had not been so received.
 
-(6) Where an offer to which this section relates is made by a corporation or a firm, it shall be sufficient if the document referred to in subsection (2) is signed on behalf of the corporation or firm by 2 directors of the corporation or not less than half of the members of the firm, as the case may be, and any such director or member may sign by his agent authorised in writing.
+[1/2005]
+
+(4) The requirements of this Division as to prospectuses shall have effect as though the persons making the subsequent offer were persons named in the prospectus as directors or equivalent persons of the entity.
+
+[1/2005]
+
+(5) In addition to complying with the other requirements of this Division, the document making the subsequent offer shall state —
+
+(a) the net amount of the consideration received or to be received by the entity in respect of the securities being offered; and
+
+(b) the place and time at which a copy of the contract under which the securities have been or are to be allotted may be inspected.
+
+[1/2005]
+
+[Companies, s. 52]

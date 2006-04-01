@@ -1,4 +1,4 @@
-# 139. Take-over Code
+# 139. Take-over Code … … … … … … … … 204
 Part: PART VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS
 
 (1) This section and section 140 shall apply to and in relation to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all corporations or bodies unincorporate, whether incorporated or carrying on business in Singapore or not, and shall extend to acts done outside Singapore.
@@ -22,3 +22,5 @@ Part: PART VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS
 (10) Where the Securities Industry Council has reason to believe that any party concerned in a take-over offer or a matter connected therewith, or any person advising on a take-over offer or a matter connected therewith, is in breach of the provisions of the Take-over Code or is otherwise believed to have committed acts of misconduct in relation to such take-over offer or matter, the Securities Industry Council shall have power to enquire into the suspected breach or misconduct.
 
 (11) For the purpose of subsection (10), the Securities Industry Council may summon any person to give evidence on oath or affirmation, which it is hereby authorised to administer, or produce any document or material necessary for the purpose of the enquiry.
+
+[Companies, s. 213]

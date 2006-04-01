@@ -1,41 +1,65 @@
-# 2. Interpretation
-Part: PART I PRELIMINARY
+# 2. Interpretation … … … … … … … … … 23
+Part: PART I PRELIMINARY Section Pages
 
 (1) In this Act, unless the context otherwise requires —
-
-‘‘accredited investor’’ means —
-
-(a) an individual whose net personal assets exceed $5 million or its equivalent in value in foreign currencies;
-
-or
-
-(b) a corporation with net assets exceeding $10 million in value or its equivalent in value in foreign currencies as determined in accordance with the most recent audited balance-sheet of the corporation, or in the case of a corporation which is not required to prepare audited accounts, a balance-sheet certified by the corporation to give a true and fair view of the state of affairs of the corporation as at the end of the period to which it relates;
 
 ‘‘advising on corporate finance’’ has the meaning given to it in the Second Schedule;
 
 ‘‘advocate and solicitor’’ means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
 
-‘‘auditor’’ means an approved company auditor as defined in section 4 (1) of the Companies Act (Cap. 50);
+‘‘approved exchange’’ means a corporation that is approved by the Authority under section 8 (1) as an approved exchange;
+
+‘‘approved holding company’’ means a corporation that is approved by the Authority under section 81W as an approved holding company;
+
+‘‘auditor’’ means a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2) and, in Divisions 1 and 1A of Part XIII, when used in relation to an entity not being a company, includes —
+
+(a) a person who is duly registered, licensed, approved or otherwise authorised to practise as an auditor (such practice to include the issue of any opinion, report or other document on the audit of any financial statement) —
+
+(i) under the laws of the place where the entity is formed or constituted; or
+
+(ii) under the laws of the place of his practice, if the auditing standards that are or will be applied to the financial statements of the entity are —
+
+(A) auditing standards commonly applied in that place; or
+
+(B) international auditing standards (by whatever name called); or
+
+(b) such other person as may be approved by the Authority in any particular case to be an auditor for such entity;
 
 ‘‘Authority’’ means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
 ‘‘book’’ includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any other electronic form or otherwise;
 
-‘‘business rules’’, in relation to an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider or a clearing house, means the rules, regulations, by-laws or such similar body of statements, by whatever name called, that govern the activities and conduct of —
+‘‘business rules’’, in relation to an approved holding company, a securities exchange, a futures exchange, a recognised market operator or a designated clearing house, means the rules, regulations, by-laws or such similar body of statements, by whatever name called, that govern the activities and conduct of —
 
-(a) the exchange holding company, securities exchange, futures exchange, recognised trading system provider or clearing house and its members; and
+(a) the approved holding company, securities exchange, futures exchange, recognised market operator or designated clearing house and its members; and
 
-(b) other persons in relation to it, whether or not those rules, regulations, by-laws or similar body of statements are made by the exchange holding company, securities exchange, futures exchange, recognised trading system provider or clearing house or are contained in its constituent documents, but does not include the listing rules of a securities exchange or recognised trading system provider (which is an overseas securities exchange);
+(b) other persons in relation to it, whether or not those rules, regulations, by-laws or similar body of statements are made by the approved holding company, securities exchange, futures exchange, recognised market operator or designated clearing house or are contained in its constituent documents, but does not include the listing rules of a securities exchange or recognised market operator (which is an overseas securities exchange);
 
-‘‘capital markets products’’ means any securities, futures contracts, contracts or arrangements for the purposes of foreign exchange trading, contracts or arrangements for the purposes of leveraged foreign exchange trading, and such other products as the Authority may prescribe as a capital markets products;
+‘‘business trust’’ has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+
+‘‘capital markets products’’ means any securities, futures contracts, contracts or arrangements for the purposes of foreign exchange trading, contracts or arrangements for the purposes of leveraged foreign exchange trading, and such other products as the Authority may prescribe as capital markets products;
 
 ‘‘capital markets services licence’’ means a licence that is granted by the Authority under section 86 to a person to carry on a business in any regulated activity;
 
-‘‘clearing facility’’ means a facility for the clearing or settlement of securities or futures contracts traded on a securities market or a futures market;
+‘‘chairman’’ means a chairman of a board of directors;
 
-‘‘clearing house’’ means any corporation which has been approved by the Authority under section 51 as a clearing house;
+‘‘chief executive officer’’, in relation to an approved exchange, a recognised market operator, a designated clearing house, a person operating a clearing facility, an approved holding company or a holder of a capital markets services licence, means any person, by whatever name described, who is —
 
-‘‘closed-end fund’’ means an arrangement referred to in paragraphs (a) and (b) of the definition of ‘‘collective investment scheme’’ under which units that are exclusively or primarily non-redeemable units are issued;
+(a) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be; and
+
+(b) principally responsible for the management and conduct of the business of the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be, in Singapore;
+
+‘‘clearing facility’’ has the meaning given to it in Part II of the First Schedule;
+
+‘‘clearing or settlement’’ has the meaning given to it in Part II of the First Schedule;
+
+‘‘closed-end fund’’ means an arrangement referred to in paragraph (a) or (b) of the definition of ‘‘collective investment scheme’’ under which units that are issued are exclusively or primarily non-redeemable at the election of the holders of units, but does not include an arrangement referred to in paragraph (a) of that definition —
+
+(a) that is a trust;
+
+(b) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+(c) all or any units of which are listed for quotation on a securities exchange;
 
 ‘‘Code on Collective Investment Schemes’’ means the Code on Collective Investment Schemes referred to in section 284 which is issued by the Authority under section 321 (1);
 
@@ -65,21 +89,35 @@ or
 
 (iii) an arrangement under which each of the participants is a related corporation of the manager;
 
-(iv) an arrangement under which each of the participants is a bona fide employee or former employee of a corporation in the same group of related corporations as the manager, or a spouse, widow, widower, minor child (natural or adopted) or minor step-child of such employee or former employee;
+(iv) an arrangement made by or on behalf of an entity solely for the benefit of persons, each of whom is —
+
+(A) a bona fide director or equivalent person, a former director or equivalent person, a consultant, an adviser, an employee or a former employee of that entity or, where that entity is a corporation, a related corporation of that entity;
+
+or
+
+(B) a spouse, widow or widower, or a child, adopted child or step-child below the age of 18 years, of such director or equivalent person, former director or equivalent person, employee or former employee;
+
+(iva) an arrangement made by or on behalf of 2 or more entities solely for the benefit of persons, each of whom is —
+
+(A) a bona fide director or equivalent person, a former director or equivalent person, a consultant, an adviser, an employee or a former employee of any of those entities or, where any of those entities is a corporation, a related corporation of the entity which is a corporation;
+
+or
+
+(B) a spouse, widow or widower, or a child, adopted child or step-child below the age of 18 years, of such director or equivalent person, former director or equivalent person, employee or former employee;
 
 (v) a franchise;
 
 (vi) an arrangement under which money received by an advocate and solicitor from his client, whether as a stakeholder or otherwise, acting in his professional capacity in the ordinary course of his practice, or under which money is received by a statutory body as a stakeholder in the carrying out of its statutory functions;
 
-(vii) an arrangement made by any co-operative society registered under the Co-operative Societies Act (Cap. 62) in accordance with the objects thereof for the benefit of its members;
+(vii) an arrangement made by any co-operative society registered under the Co-operative Societies Act (Cap. 62) in accordance with the objects thereof solely for the benefit of its members;
 
 (viii) an arrangement made for the purposes of any chit fund permitted to operate under the Chit Funds Act (Cap. 39);
 
 (ix) an arrangement arising out of a life policy within the meaning of the Insurance Act (Cap. 142);
 
-(x) a closed-end fund constituted in Singapore;
+(x) a closed-end fund constituted either as an entity or a trust;
 
-(xi) a closed-end fund constituted outside Singapore and listed on a securities exchange; or
+(xi) (Deleted by Act 31/2004)
 
 (xii) an arrangement which is an arrangement, or is of a class or description of arrangements, specified by the Authority as not constituting a collective investment scheme by notice published in the Gazette;
 
@@ -87,7 +125,7 @@ or
 
 (a) a financial instrument; or
 
-(b) gold, all classes of oil or such other item, good, article, service, right or interest, which is the subject of a futures contract, as the Authority may by order prescribe;
+(b) gold;
 
 ‘‘company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
 
@@ -95,19 +133,35 @@ or
 
 (a) an individual, means —
 
-(i) the individual’s spouse, son, adopted son, step-son, daughter, adopted daughter, step-daughter, father, step-father, mother, step-mother, brother, step-brother, sister or step-sister; and
+(i) the individual’s spouse, son, adopted son, step- son, daughter, adopted daughter, step-daughter, father, step-father, mother, step-mother, brother, step-brother, sister or step-sister; and
 
-(ii) a firm or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm or corporation, whether such control is exercised individually or jointly; or
+(ii) a firm, a limited liability partnership or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm, limited liability partnership or corporation, whether such control is exercised individually or jointly; or
 
-(b) a firm or a corporation, means another firm or corporation in which the first-mentioned firm or corporation has control of not less than 20% of the voting power in that other firm or corporation, and a reference in this Act to a person connected to another person shall be construed accordingly;
+(b) a firm, a limited liability partnership or a corporation, means another firm, limited liability partnership or corporation in which the first-mentioned firm, limited liability partnership or corporation has control of not less than 20% of the voting power in that other firm, limited liability partnership or corporation, and a reference in this Act to a person connected to another person shall be construed accordingly;
 
 ‘‘corporation’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
 
 ‘‘customer’’ means —
 
-(a) for the purposes of Part V, a person on whose behalf a holder of a capital markets services licence carries on any regulated activity or any other person that the holder enters or will enter into transactions with as principal for the sale or purchase of securities or futures contracts, but does not include such person or class of persons as may be prescribed;
+(a) in relation to a holder of a capital markets services licence —
 
-(b) for the purposes of any other provision in this Act, a person on whose behalf a holder of a capital markets services licence carries on any regulated activity;
+(i) for the purposes of Parts IV, VI, VII and XV, a person on whose behalf the holder carries on or will carry on any regulated activity; or
+
+(ii) for the purposes of Part V, a person on whose behalf the holder carries on or will carry on any regulated activity, or any other person with whom the holder, as principal, enters or will enter into transactions —
+
+(A) for the sale or purchase of securities;
+
+(B) for the sale or purchase of futures contracts; or
+
+(C) in connection with leveraged foreign exchange trading, but does not include such person or class of persons as may be prescribed; or
+
+(b) for the purposes of Part III, a person on whose behalf a member of a designated clearing house carries on any activity regulated under this Act, but does not include —
+
+(i) the member, with respect to dealings for the member’s own account;
+
+(ii) any officer, director, employee or representative of the member; or
+
+(iii) a related corporation of the member, with respect to accepted instructions to deal for an account belonging to, and maintained wholly for the benefit of, that related corporation;
 
 ‘‘dealing in securities’’ has the meaning given to it in the Second Schedule;
 
@@ -119,21 +173,27 @@ or
 
 ‘‘defalcation’’ means misapplication, including misappropriation, of any property;
 
+‘‘derivative’’, in relation to a unit in a business trust, has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+
+‘‘designated clearing house’’ means a person that is designated by the Authority under section 55 (1) as a designated clearing house;
+
 ‘‘director’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
 
-‘‘entity’’ includes, without limitation, the government of any state;
+‘‘entity’’ includes a corporation, an unincorporated association, a partnership and the government of any state, but does not include a trust;
 
-‘‘exchange holding company’’ means any corporation which is a holding company of any securities exchange, futures exchange, clearing house or exchange holding company, and that is approved by the Authority under section 29;
+‘‘exempt market operator’’ means —
 
-‘‘exempt clearing facility’’ means a clearing facility in relation to which, or a clearing facility included in a class of clearing facilities, being a class in relation to which, a declaration under section 50 (3) is in force;
+(a) a corporation that is exempted under section 14 (2);
 
-‘‘exempt market’’ means a securities market in relation to which, or a securities market included in a class of securities markets, being a class in relation to which, a declaration under section 5 (5) is in force or a futures market in relation to which, or a futures market included in a class of futures markets, being a class in relation to which, a declaration under section 6 (5) is in force;
+(b) a corporation declared under section 14 (8) to be an exempt market operator; or
+
+(c) a corporation operating a market included in a class of markets in relation to which a declaration under section 14 (9) is in force;
 
 ‘‘exempt person’’ means a person who is exempted under section 99;
 
 ‘‘financial instrument’’ includes any currency, currency index, interest rate instrument, interest rate index, share, share index, stock, stock index, debenture, bond index, a group or groups of such financial instruments, and such other financial instruments as the Authority may by order prescribe;
 
-‘‘financial year’’ has the same meaning as in section 4 (1) of the Companies Act;
+‘‘financial year’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
 
 ‘‘firm’’ has the same meaning as in section 2 (1) of the Business Registration Act (Cap. 32);
 
@@ -143,7 +203,7 @@ or
 
 ‘‘franchise’’ means a written agreement or arrangement between 2 or more persons by which —
 
-(a) a party (referred to in this definition as the franchisor) to the agreement or arrangement (not being a collective investment scheme) authorises or permits another party (referred to in this definition as the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;
+(a) a party (referred to in this definition as the franchisor) to the agreement or arrangement authorises or permits another party (referred to in this definition as the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;
 
 (b) the business carried on by the franchisee or the person associated with the franchisee, as the case may be, is capable of being identified by the public as being substantially associated with a trade or service mark, logo, symbol or name identifying, commonly connected with or controlled by the franchisor or a person associated with the franchisor;
 
@@ -155,17 +215,33 @@ or
 
 ‘‘fund management’’ has the meaning given to it in the Second Schedule;
 
-‘‘futures contract’’ means a contract the effect of which is that —
+‘‘futures contract’’ means —
 
-(a) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to terms and conditions set out in the business rules or practices of a futures exchange, recognised trading system provider or futures market; or
+(a) for the purposes of Part I of the First Schedule —
 
-(b) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of a futures exchange, recognised trading system provider or futures market at which the contract is made, and includes a futures option transaction;
+(i) a contract the effect of which is that —
 
-‘‘futures exchange’’ means a corporation that is approved by the Authority under section 9 as a futures exchange;
+(A) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time; or
 
-‘‘futures market’’ has the meaning given to it in the First Schedule;
+(B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, and includes a futures option transaction; or
 
-‘‘futures option transaction’’ means an option on a specified futures contract which is transacted in accordance with the business rules or practices of a futures exchange, recognised trading system provider or futures market on which the transaction is made;
+(ii) such other contract or class of contracts as the Authority may prescribe;
+
+(b) for the purposes of any other provision in this Act —
+
+(i) a contract the effect of which is that —
+
+(A) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to the terms and conditions set out in the business rules of a futures market or pursuant to the business practices of a futures market; or
+
+(B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of the futures market at which the contract is made, and includes a futures option transaction; or
+
+(ii) such other contract or class of contracts as the Authority may prescribe;
+
+‘‘futures exchange’’ means an approved exchange in respect of the operation of its futures market;
+
+‘‘futures market’’ has the meaning given to it in Part I of the First Schedule;
+
+‘‘futures option transaction’’ means an option on a specified futures contract which is transacted in accordance with the business rules or practices of a futures exchange, recognised market operator or futures market on which the transaction is made;
 
 ‘‘holding company’’ has the same meaning as in section 5 (4) of the Companies Act (Cap. 50);
 
@@ -175,7 +251,9 @@ or
 
 ‘‘licensed person’’ means a corporation or an individual holding a licence granted under this Act;
 
-‘‘listing rules’’, in relation to a corporation that establishes or operates, or proposes to establish or operate, a securities market of a securities exchange or a recognised trading system provider, or an overseas securities exchange that establishes or operates or proposes to establish or operate a securities market of a recognised trading system provider, means rules governing or relating to —
+‘‘limited liability partnership’’ has the same meaning as in section 2 (1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+
+‘‘listing rules’’, in relation to a corporation that establishes or operates, or proposes to establish or operate, a securities market of a securities exchange or a recognised market operator, or an overseas securities exchange that establishes or operates or proposes to establish or operate a securities market of a recognised market operator, means rules governing or relating to —
 
 (a) the admission to the official list of the corporation or overseas securities exchange, of corporations, governments, bodies unincorporate or other persons for the purpose of the quotation on the securities market of the corporation or overseas securities exchange of securities issued, or made available by such corporations, governments, bodies unincorporate or other persons, or the removal from that official list and for other purposes; or
 
@@ -187,7 +265,9 @@ or
 
 ‘‘manager’’, in relation to a collective investment scheme, means a person, by whatever name called, who is responsible for managing the property of, or operating, the collective investment scheme;
 
-‘‘member’’, except for the purposes of sections 3 and 4 and Parts XI, XIII and XV, means a person who holds membership of any class or description of a securities exchange, futures exchange, recognised trading system provider or clearing house whether or not he holds any share in the share capital of the securities exchange, futures exchange, recognised trading system provider or clearing house;
+‘‘market’’ has the meaning given to it in Part I of the First Schedule;
+
+‘‘member’’, in relation to an approved exchange, a recognised market operator or a designated clearing house, means a person who holds membership of any class or description in the approved exchange, recognised market operator or designated clearing house, whether or not he holds any share in the share capital of the approved exchange, recognised market operator or designated clearing house, as the case may be;
 
 ‘‘newspaper’’ has the same meaning as in section 2 of the Newspaper and Printing Presses Act (Cap. 206);
 
@@ -197,7 +277,15 @@ or
 
 ‘‘overseas securities exchange’’ means a person operating a securities market outside Singapore which is regulated by a financial services regulatory authority of a country or territory other than Singapore;
 
-‘‘participant’’ means a person who participates in a collective investment scheme by way of owning one or more units in a collective investment scheme;
+‘‘participant’’ means —
+
+(a) for the purposes of Part II, a person who may participate in one or more of the services provided by an approved exchange, a recognised market operator or an exempt market operator, in its capacity as an approved exchange, a recognised market operator or an exempt market operator, respectively;
+
+(b) for the purposes of Part III, a person who, under the business rules of a designated clearing house, may participate in one or more of the services provided by the designated clearing house in its capacity as a designated clearing house; or
+
+(c) for the purposes of any other provision of this Act, a person who participates in a collective investment scheme by way of owning one or more units in a collective investment scheme;
+
+‘‘partner’’ and ‘‘manager’’, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2 (1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
 ‘‘prescribed written law’’ means this Act or any of the following written laws:
 
@@ -221,19 +309,29 @@ or
 
 ‘‘public company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
 
-‘‘quote’’, in relation to securities and a securities market of a securities exchange or recognised trading system provider, means to display or provide, on the securities market of the securities exchange or recognised trading system provider, information concerning the particular prices or particular consideration at which offers or invitations to sell, purchase or exchange issued securities are made on that securities market, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the making or acceptance of offers to sell, purchase or exchange issued securities;
+‘‘quote’’, in relation to securities and a securities market of an approved exchange or of a recognised market operator, means to display or provide, on the securities market of the approved exchange or recognised market operator, information concerning the particular prices or particular consideration at which offers or invitations to sell, purchase or exchange issued or prescribed securities are made on that securities market, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the making or acceptance of offers to sell, purchase or exchange issued or prescribed securities;
+
+‘‘recognised market operator’’ means a corporation that is recognised by the Authority under section 8 (2) as a recognised market operator;
 
 ‘‘record’’ means information that is inscribed, stored or otherwise fixed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;
 
-‘‘recognised trading system provider’’ means a person who is recognised by the Authority under section 36 as a recognised trading system provider;
+‘‘registered business trust’’ has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
 ‘‘regulated activity’’ means an activity specified in the Second Schedule;
 
-‘‘related corporation’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+‘‘related corporation’’ has the same meaning as in section 4 (1) of the Companies Act;
 
 ‘‘representative’’, except for the purposes of Part XIII, means a person, by whatever name called, in the direct employment of, or acting for, or by arrangement with, a person who carries on business in any regulated activity, who carries out for that person any such activity (other than work ordinarily performed by accountants, clerks or cashiers), whether or not he is remunerated, and whether his remuneration, if any, is by way of salary, wages, commission or otherwise;
 
 and includes any officer of a corporation who performs for the corporation any such activity whether or not he is remunerated, and whether his remuneration, if any, is by way of salary, wages, commission or otherwise;
+
+‘‘representative’s licence’’ means a licence that is granted by the Authority under section 87 or a temporary representative’s licence that is granted by the Authority under section 87A;
+
+‘‘responsible person’’, in relation to a collective investment scheme, means —
+
+(a) in the case of a scheme which is constituted as a corporation, the corporation; or
+
+(b) in the case of a scheme which is not constituted as a corporation, the manager for the scheme;
 
 ‘‘securities’’ means —
 
@@ -249,11 +347,15 @@ and includes any officer of a corporation who performs for the corporation any s
 
 (ii) the value or price of any group of any such debentures, stocks or shares; or
 
-(iii) an index of any such debentures, stocks or shares; or
+(iii) an index of any such debentures, stocks or shares;
 
-(e) any unit in a collective investment scheme, but does not include —
+(e) any unit in a collective investment scheme;
 
-(i) futures contracts;
+(f) any unit in a business trust; or
+
+(g) any derivative of a unit in a business trust, but does not include —
+
+(i) futures contracts which are traded on a futures market;
 
 (ii) bills of exchange;
 
@@ -261,19 +363,23 @@ and includes any officer of a corporation who performs for the corporation any s
 
 (iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere;
 
-‘‘securities exchange’’ means a corporation that is approved by the Authority under section 9 as a securities exchange;
+‘‘securities exchange’’ means an approved exchange in respect of the operation of its securities market;
 
 ‘‘securities financing’’ has the meaning given to it in the Second Schedule;
 
 ‘‘Securities Industry Council’’ means the Securities Industry Council referred to in section 138;
 
-‘‘securities market’’ has the meaning given to it in the First Schedule;
+‘‘securities market’’ has the meaning given to it in Part I of the First Schedule;
 
 ‘‘share’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+
+‘‘subsidiary’’ has the same meaning as in section 5 of the Companies Act;
 
 ‘‘substantial shareholder’’ has the same meaning as in Division 4 of Part IV of the Companies Act;
 
 ‘‘substantial shareholding’’ has the same meaning as in Division 4 of Part IV of the Companies Act;
+
+‘‘substantial unitholder’’, in relation to a collective investment scheme, means a participant who has an interest or interests in units in the scheme representing not less than 5% of the total voting rights of all the participants of the scheme;
 
 ‘‘Take-over Code’’ means the Singapore Code on Take-overs and Mergers referred to in section 139 which is issued by the Authority under section 321 (1);
 
@@ -281,17 +387,61 @@ and includes any officer of a corporation who performs for the corporation any s
 
 (a) an offer for the acquisition by or on behalf of a person of —
 
-(i) some or all of the shares in a public company or some or all of the shares of a particular class in a public company, made to all members of the company, or where the person already holds shares in the company, made to all other members of the company; or
+(i) in the case of a public company, or of a corporation all or any of the shares of which are listed for quotation on a securities exchange —
 
-(ii) all of the remaining shares in a public company made to all other members of the company as a result of the person acquiring or consolidating effective control of that company within the meaning of the Take-over Code; or
+(A) some or all of the shares, or some or all of the shares of a particular class, in the company or corporation made to all members of the company or corporation, or where the person already holds shares in the company or corporation, made to all other members of the company or corporation; or
 
-(b) a proposed compromise or arrangement referred to in section 210 of the Companies Act (Cap. 50) that if executed would result in a change in effective control of the public company concerned within the meaning of the Take-over Code;
+(B) all of the remaining shares in the company or corporation made to all other members of the company or corporation as a result of the person acquiring or consolidating effective control of that company or corporation within the meaning of the Take-over Code; or
+
+(ii) in the case of a registered business trust, or of a business trust all or any of the units of which are listed for quotation on a securities exchange —
+
+(A) some or all of the units, or some or all of the units of a particular class, in the business trust made to all unitholders of the business trust, or where the person already holds units in the business trust, made to all other unitholders of the business trust; or
+
+(B) all of the remaining units in the business trust made to all other unitholders of the business trust as a result of the person acquiring or consolidating effective control of that business trust within the meaning of the Take-over Code; or
+
+(b) a proposed compromise or arrangement which —
+
+(i) in the case of a public company, is referred to in section 210 of the Companies Act (Cap. 50); or
+
+(ii) in the case of a corporation all or any of the shares of which are listed for quotation on a securities exchange, complies with the laws, codes and other requirements (whether or not having the force of law) relating to take-overs, compromises and arrangements of the country or territory in which that corporation was incorporated, and which, if executed, would result in a change in effective control of the public company or corporation within the meaning of the Take-over Code;
 
 ‘‘trading in futures contracts’’ has the meaning given to it in the Second Schedule;
 
-‘‘unit’’, in relation to a collective investment scheme, means a right or interest (however described) of a participant in a collective investment scheme (whether or not constituted as a corporation);
+‘‘transaction information’’ means information relating to —
 
-‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act.
+(a) offers or invitations to purchase, sell, or exchange securities or futures contracts;
+
+(b) executed transactions in securities or futures contracts;
+
+or
+
+(c) transactions cleared or settled by a designated clearing house;
+
+‘‘unit’’ —
+
+(a) in relation to a collective investment scheme, means a right or interest (however described) in a collective investment scheme (whether or not constituted as an entity), and includes an option to acquire any such right or interest in the collective investment scheme;
+
+and
+
+(b) in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+
+‘‘unitholder’’, in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act;
+
+‘‘user’’, in relation to an approved exchange or a designated clearing house, means a person who is —
+
+(a) a member; or
+
+(b) a customer of a member, of the approved exchange or designated clearing house;
+
+‘‘user information’’ means transaction information that is referable to —
+
+(a) a named user; or
+
+(b) a group of users, from which the name of a user can be directly inferred;
+
+‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50).
+
+[16/2003; 5/2004; 31/2004; 1/2005; 5/2005]
 
 (2) Any reference in this Act to the affairs of a corporation shall, unless the contrary intention appears, be construed as including a reference to —
 
@@ -307,7 +457,7 @@ and includes any officer of a corporation who performs for the corporation any s
 
 (ii) the corporation is under judicial management;
 
-(iii) a compromise or arrangement referred to in section 210 of the Companies Act (Cap. 50) made between the corporation and another person or other persons is being administered; or
+(iii) a compromise or arrangement referred to in section 210 of the Companies Act made between the corporation and another person or other persons is being administered; or
 
 (iv) the corporation is being wound up, and without limiting the generality of sub-paragraphs (i) to (iv), any conduct of such a receiver or such a receiver and manager, or such a judicial manager, or any person administering such a compromise or arrangement or of any liquidator or provisional liquidator of the corporation;
 
@@ -324,3 +474,5 @@ and includes any officer of a corporation who performs for the corporation any s
 (j) matters relating to or arising out of the audit of, or working papers or reports of an auditor concerning, any matters referred to in paragraphs (a) to (i).
 
 (3) Where the name of a corporation referred to in this Act is changed pursuant to the Companies Act (Cap. 50), the change of name shall not affect the identity of that corporation or the application of the relevant provisions of this Act or any other written law to that corporation.
+
+[SIA, s. 2; FTA, s. 2; Companies, s. 4 & s. 107; UK FSMA 2000, s. 235; Aust. Corporations 2001, s. 9]

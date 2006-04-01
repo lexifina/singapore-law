@@ -1,6 +1,8 @@
-# 295. Winding up
-Part: Part XII of Companies Act and Part XII of this Act Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
-Subdivision: Subdivision (2) — Authorisation and Recognition
+# 295. Winding up … … … … … … … … … 460
+Part: Part XII of Companies Act and Part XII of this Act … 441 Subdivision (4) — Debentures
+Division: Division 2 — Collective Investment Schemes Subdivision (1) — Interpretation
+Subdivision: Subdivision (2) — Authorisation and recognition
+Heading: Section Pages
 
 (1) Where a collective investment scheme is to be wound up, whether under this section or otherwise, the responsible person for the scheme shall give notice in writing of the proposed winding up to the Authority at least 7 days before the winding up.
 
@@ -25,3 +27,5 @@ Subdivision: Subdivision (2) — Authorisation and Recognition
 (7) Any responsible person or, where applicable, trustee who contravenes subsection (2) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 (8) Any trustee who contravenes subsection (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[Companies, s. 118]

@@ -1,11 +1,24 @@
-# 72. Net sum payable on completion of default proceedings
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 72. Business rules of designated clearing houses have effect as contract … … … … … … … … … … 109
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+Subdivision: Subdivision (2) — Rules of designated clearing houses
 
-(1) This section shall apply to any net sum certified under section 71 (1) (a) by a clearing house, upon the completion by it of any default proceedings, to be payable by or to a defaulter.
+(1) The business rules of a designated clearing house shall be deemed to be, and shall operate as, a binding contract —
 
-(2) Notwithstanding section 87 or 88 of the Bankruptcy Act (Cap. 20), and section 327 of the Companies Act (Cap. 50), where a receiving or winding up order has been made, or a resolution for voluntary winding up has been passed, any net sum as certified under section 71 (1) (a) shall be —
+(a) between the designated clearing house and each issuer of securities;
 
-(a) provable in the bankruptcy or winding up or, as the case may be, payable to the relevant office holder; and
+(b) between the designated clearing house and each participant;
 
-(b) taken into account, where appropriate, under section 88 of the Bankruptcy Act or section 327 of the Companies Act.
+(c) between each issuer of securities and each participant; and
+
+(d) between each participant and every other participant.
+
+[1/2005]
+
+(2) The designated clearing house, each issuer of securities and each participant shall be deemed to have agreed to observe, and perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the designated clearing house, issuer or participant, as the case may be.
+
+[1/2005]
+
+(3) In this section, ‘‘issuer’’, in relation to any securities, means a person who issued or made available, or proposes to issue or make available, the securities, being securities that are cleared or settled by the designated clearing house.
+
+[1/2005]

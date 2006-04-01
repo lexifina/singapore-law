@@ -1,19 +1,25 @@
-# 37. Overseas securities exchange and overseas futures exchange
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 4 — Recognised Trading System Providers
+# 37. General obligations … … … … … … … 85
+Part: PART II MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-(1) An application for recognition under section 36 by an overseas securities exchange or overseas futures exchange must contain the address of a place in Singapore for the service on the applicant of notices or other documents required or authorised to be served on it under this Act.
+(1) A recognised market operator shall, in respect of every market which it operates —
 
-(2) Without prejudice to section 36, to recognise an overseas securities exchange or overseas futures exchange as a recognised trading system provider, the Authority may additionally require to be satisfied that —
+(a) as far as is reasonably practicable, ensure that the market is fair, orderly and transparent;
 
-(a) the applicant is able and willing to co-operate with the Authority in the sharing of information and other ways;
+(b) manage any risks associated with its business and operations prudently;
 
-(b) adequate arrangements exist for co-operation between the Authority and those responsible for the supervision of the applicant in the country or territory in which the applicant’s head office is situated; and
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public; and
 
-(c) adequate arrangements exist for co-operation between the applicant and a securities exchange or futures exchange in respect of the supervision of any person which is permitted to trade directly in the securities markets or futures markets established or operated by both the applicant and the securities exchange or futures exchange.
+(d) have sufficient financial, human and system resources —
 
-(3) In considering whether it is satisfied that the overseas securities exchange or overseas futures exchange has met the requirements mentioned in subsection (2), the Authority may have regard to —
+(i) to operate a fair, orderly and transparent market;
 
-(a) the relevant law and practice of the country or territory in which the applicant’s head office is situated; and
+(ii) to meet contingencies or disasters; and
 
-(b) the rules and practices of the applicant.
+(iii) to provide adequate security arrangements.
+
+[1/2005]
+
+(2) In subsection (1) (d), ‘‘contingencies or disasters’’ includes technical disruptions occurring within automated systems.
+
+[1/2005]

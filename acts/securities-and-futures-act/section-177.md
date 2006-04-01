@@ -1,4 +1,4 @@
-# 177. Moneys constituting fidelity fund
+# 177. Moneys constituting fidelity fund … … … … … 229
 Part: PART XI INVESTOR COMPENSATION SCHEME
 
 The fidelity fund of a securities exchange or futures exchange shall consist of —
@@ -14,3 +14,5 @@ The fidelity fund of a securities exchange or futures exchange shall consist of 
 (e) all moneys paid by an insurer pursuant to a contract of insurance or indemnity entered into by the exchange under section 194; and
 
 (f) all other moneys lawfully paid into the fund.
+
+[SIA, s. 76; FTA, s. 49B]

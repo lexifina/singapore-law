@@ -1,15 +1,64 @@
-# 81. Immunity from criminal or civil liability
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 81. Emergency powers of Authority … … … … … 121
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+Subdivision: Subdivision (4) — Powers of Authority
 
-(1) No criminal or civil liability shall be incurred by —
+(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing a designated clearing house to take such action as it considers necessary to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
 
-(a) a person discharging, by virtue of a delegation under the default rules of a clearing house, an obligation of the clearing house in connection with any default proceedings; or
+[1/2005]
 
-(b) any person acting on behalf of a person referred to in paragraph (a), including —
+(2) Without prejudice to subsection (1), the actions which the Authority may direct a designated clearing house to take include —
 
-(i) any member of the board of directors of the last-mentioned person; and
+(a) ordering the liquidation of all positions or part thereof or the reduction of such positions;
 
-(ii) any member of any committee established by the last-mentioned person, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of that obligation.
+(b) altering conditions of delivery of transactions cleared or settled or to be cleared or settled through the clearing facility;
 
-(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of a clearing house, and reasonably believes or has reasonable grounds for believing that he is entitled to take that action, he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage (as the case may be) is caused by the office holder’s own negligence.
+(c) fixing the settlement price at which transactions are to be liquidated;
+
+(d) requiring margins or additional margins for transactions cleared or settled or to be cleared or settled through the clearing facility; and
+
+(e) modifying or suspending any of the business rules of the designated clearing house.
+
+[1/2005]
+
+(3) Where a designated clearing house fails to comply with any direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
+
+(a) set margin levels for transactions cleared or settled or to be cleared or settled through the clearing facility to cater for the emergency;
+
+(b) set limits that may apply to market positions acquired in good faith prior to the date of the notice issued by the Authority; or
+
+(c) take such other action as the Authority thinks fit to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
+
+[1/2005]
+
+(4) In this section, ‘‘emergency’’ means any threatened or actual market manipulation or cornering, and includes —
+
+(a) any act of any government affecting a commodity or securities;
+
+(b) any major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or securities; or
+
+(c) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency.
+
+[1/2005]
+
+(5) The Authority may modify any action taken by a designated clearing house under subsection (1), including the setting aside of that action.
+
+[1/2005]
+
+(6) Any person who is aggrieved by any action taken by the Authority or a designated clearing house under this section may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+
+[1/2005]
+
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority or a designated clearing house under this section shall continue to have effect pending the decision of the Minister.
+
+[1/2005]
+
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority or a designated clearing house under this section, and such modified action shall have effect from the date of the decision of the Minister.
+
+[1/2005]
+
+(9) Any designated clearing house which fails to comply with a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2005]
+
+[FTA, s. 41]

@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 2
+Sections 2 and 340 (4)
 
 REGULATED ACTIVITIES
 
@@ -34,25 +34,27 @@ In this Schedule —
 
 ‘‘advising on corporate finance’’ means giving advice —
 
-(a) to any entity concerning compliance with or in respect of laws or regulatory requirements (including the listing rules of a securities exchange) relating to the raising of funds by any entity;
+(a) to any person (whether as principal or agent, or as trustee of a trust) concerning compliance with or in respect of laws or regulatory requirements (including the listing rules of a securities exchange) relating to the raising of funds by any entity, trustee of a trust on behalf of the trust or responsible person of a collective investment scheme on behalf of the collective investment scheme;
 
-(b) to the person making an offer or invitation to the public —
+(b) to a person making an offer —
 
 (i) to subscribe for or purchase securities; or
 
-(ii) to sell or otherwise dispose of securities, concerning that offer or invitation; or
+(ii) to sell or otherwise dispose of securities, concerning that offer;
 
-(c) concerning the arrangement, reconstruction or take-over of a corporation or any of its assets or liabilities;
+(c) concerning the arrangement, reconstruction or take-over of a corporation or any of its assets or liabilities; or
+
+(d) concerning the take-over of a business trust or any of its assets or liabilities held by the trustee-manager on behalf of the business trust;
 
 ‘‘dealing in securities’’ means (whether as principal or agent) making or offering to make with any person, or inducing or attempting to induce any person to enter into or to offer to enter into any agreement for or with a view to acquiring, disposing of, subscribing for, or underwriting securities;
+
+SECOND SCHEDULE — continued
 
 ‘‘financial institution’’ means —
 
 (a) any bank licensed under the Banking Act (Cap. 19);
 
 (b) any merchant bank approved as a financial institution under the Monetary Authority of Singapore Act (Cap. 186); or
-
-SECOND SCHEDULE — continued
 
 (c) any finance company licensed under the Finance Companies Act (Cap. 108);
 
@@ -64,7 +66,9 @@ SECOND SCHEDULE — continued
 
 ‘‘fund management’’ means undertaking on behalf of a customer (whether on a discretionary authority granted by the customer or otherwise) —
 
-(a) the management of a portfolio of securities or futures contracts; or
+(a) the management of a portfolio of securities or futures contracts;
+
+or
 
 (b) foreign exchange trading or leveraged foreign exchange trading for the purpose of managing the customer’s funds;
 
@@ -74,11 +78,11 @@ SECOND SCHEDULE — continued
 
 (i) to make an adjustment between himself and another person according to whether a currency is worth more or less, as the case may be, in relation to another currency, or according to whether a currency index rises or falls in value, as the case may be, in relation to an agreed value;
 
+SECOND SCHEDULE — continued
+
 (ii) to pay an amount of money determined or to be determined by reference to the change in value of a currency in relation to another currency, or by reference to the change in value of a currency index in relation to an agreed value; or
 
 (iii) to deliver to another person at an agreed future time an agreed amount of currency at an agreed price;
-
-SECOND SCHEDULE — continued
 
 (b) the provision by any person referred to in paragraph (a) of any advance, credit facility or loan, directly or indirectly, to facilitate an act of the description referred to in that paragraph; or
 
@@ -102,13 +106,13 @@ SECOND SCHEDULE — continued
 
 (c) paying tax or other costs associated with the securities;
 
+SECOND SCHEDULE — continued
+
 (d) exercising rights, including without limitation voting rights, attached to or derived from the securities;
 
 (e) any other function necessary or incidental to the safeguarding or administration of the securities, but does not include —
 
 (i) the activities of a corporation which is a Depository as defined in Division 7A of Part IV of the Companies Act (Cap. 50);
-
-SECOND SCHEDULE — continued
 
 (ii) the provision of services to a related corporation or connected person, so long as none of the securities is —
 
@@ -124,13 +128,13 @@ SECOND SCHEDULE — continued
 
 ‘‘securities financing’’ means to directly or indirectly facilitate, by providing any credit facility, advance or loan —
 
-(a) the subscription for securities or purchase of listed or to be listed on a securities market or such other securities as the Authority may prescribe; and
+(a) the subscription for securities, or the purchase of securities listed or to be listed on a securities market or such other securities as the Authority may prescribe; and
 
 (b) where applicable, the continued holding of those securities, whether or not those securities are pledged as security for the credit facility, advance or loan, but does not include the provision of any credit facility, advance or loan —
 
 (i) that forms part of an arrangement to underwrite or sub-underwrite securities;
 
-(ii) to facilitate an acquisition of securities in accordance with the terms of a prospectus, regardless of whether the offer of securities is made in Singapore or elsewhere;
+(ii) (Deleted by Act 16/2003)
 
 (iii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
 
@@ -138,14 +142,14 @@ SECOND SCHEDULE — continued
 
 (v) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member; or
 
+SECOND SCHEDULE — continued
+
 (vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities;
 
 ‘‘trading in futures contracts’’ means (whether as principal or agent) —
 
 (a) making or offering to make with any person, or inducing or attempting to induce any person to enter into or to offer to enter into any agreement for or with a view to the purchase or sale of a futures contract; or
 
-SECOND SCHEDULE — continued
-
 (b) soliciting or accepting any order for, or otherwise dealing in, a futures contract.
 
-[S 674/2001]
+[16/2003; 1/2005]

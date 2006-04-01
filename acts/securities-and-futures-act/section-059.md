@@ -1,23 +1,45 @@
-# 59. Authority to be notified of amendments to business rules
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 2 — Clearing Houses
+# 59. General obligations … … … … … … … 101
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
 
-(1) A clearing house that proposes to make any amendment by way of rescission, substitution, alteration or addition to its business rules shall immediately inform the Authority of the proposed amendment by written notice which shall state the date on which the amendment is proposed to be made, an explanation of the purpose of the amendment and provide the text of the amendment.
+(1) A designated clearing house shall —
 
-(2) If the notice required to be given under subsection (1) is not given at least 21 days before the making of the amendment, that amendment shall not come into force.
+(a) as far as is reasonably practicable, operate a safe and efficient clearing facility;
 
-(3) The Authority may, within 21 days after the receipt of a notice under subsection (1), by notice in writing to the clearing house, disallow, alter or supplement the whole or any specified part of the amendment in question and, thereupon such whole or specified part of the amendment, as the case may be —
+(b) manage any risks associated with its business and operations prudently;
 
-(a) where it is disallowed, shall not come into force; or
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
 
-(b) where it is altered or supplemented, shall come into force accordingly.
+(d) ensure that access for participation in its clearing facility is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of its facility and to protect the interests of the investing public;
 
-(4) The Authority may, in its discretion, by notice in writing to the clearing house, extend the period specified in subsection (3), and where the period is extended, the amendment shall not come into force before the expiry of the extended period.
+(e) maintain business rules that make satisfactory provision for —
 
-(5) In addition to the power conferred upon the Authority under subsection (3), the Authority may of its own motion, by notice in writing to a clearing house —
+(i) the clearing facility to be operated in a safe and efficient manner; and
 
-(a) alter or supplement the business rules of the clearing house;
+(ii) the proper regulation and supervision of its members;
 
-or
+(f) enforce compliance by its members with its business rules;
 
-(b) alter or supplement the terms and conditions for the clearing or settlement of any securities or futures contract by the clearing house, if the Authority considers that such action is necessary for the protection of investors or to ensure an orderly, fair and expeditious clearing facility.
+(g) have sufficient financial, human and system resources —
+
+(i) to operate a safe and efficient clearing facility;
+
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements; and
+
+(h) ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+
+[1/2005]
+
+(2) The obligations imposed on the designated clearing house under this Act shall apply to all facilities for clearing or settlement operated by the designated clearing house.
+
+[1/2005]
+
+(3) Notwithstanding subsection (2), the Authority may by notice in writing exempt any clearing facility operated by a designated clearing house from all or any of the provisions of this Act, if the Authority is satisfied that such exemption would not detract from the objectives specified in section 47.
+
+[1/2005]
+
+(4) In subsection (1) (g), ‘‘contingencies or disasters’’ includes technical disruptions occurring within automated systems.
+
+[1/2005]

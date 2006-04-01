@@ -1,5 +1,5 @@
-# 128. Risk disclosure by certain persons
-Part: PART VI CONDUCT OF BUSINESS Division 1 — General
+# 128. Risk disclosure by certain persons … … … … … 197
+Part: PART VI CONDUCT OF BUSINESS Division 1 — General Section Pages
 Division: Division 3 — Futures Contracts and Leveraged Foreign Exchange Trading
 
 (1) The holder of a capital markets services licence to trade in futures contracts or carry out leveraged foreign exchange trading shall not open a futures trading account or leveraged foreign exchange trading account for a customer unless he —
@@ -19,3 +19,5 @@ Division: Division 3 — Futures Contracts and Leveraged Foreign Exchange Tradin
 (ii) receives from the prospective customer an acknowledgment signed and dated by him that he has received and understood the nature and contents of the risk disclosure document.
 
 (3) Subsection (2) shall not apply to collective investment schemes that are approved under Division 2 of Part XIII.
+
+[FTA, s. 39]

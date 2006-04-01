@@ -1,4 +1,4 @@
-# 318. Size, durability and legibility of records delivered to Authority
+# 318. Size, durability and legibility of records delivered to Authority … … … … … … … … … 507
 Part: PART XV MISCELLANEOUS
 
 (1) For the purposes of securing that the records furnished to or lodged with the Authority under this Act are of a standard size, durable and easily legible, the Authority may prescribe such requirements (whether as to size, weight, quality or colour of paper, size, type or colour of lettering, or otherwise) as it considers appropriate; and different requirements may be so prescribed for different documents or classes of documents.
@@ -20,3 +20,5 @@ but
 (4) The period referred to in subsection (3) (b) is the period beginning on the day on which the record was delivered to the Authority as mentioned in subsection (2) and ending on the 14th day after the date of service of the notice under subsection (2).
 
 (5) For the purposes of this section, any reference to delivering a record shall be construed as including a reference to sending, forwarding, producing, furnishing, lodging or (in the case of a notice) giving the record.
+
+[Companies, s. 15]

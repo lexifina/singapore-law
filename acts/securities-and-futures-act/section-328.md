@@ -1,5 +1,6 @@
-# 328. Falsification of records by officers, etc.
+# 328. Falsification of records by officer, employee or agent of relevant person … … … … … … … … 520
 Part: PART XV MISCELLANEOUS
+Heading: Section Pages
 
 (1) Any officer, auditor, employee or agent of any relevant person who —
 
@@ -13,4 +14,8 @@ Part: PART XV MISCELLANEOUS
 
 ‘‘officer’’ includes a person purporting to act in the capacity of an officer;
 
-‘‘relevant person’’ means any exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5 (3) or 6 (3), person operating an exempt market, clearing house, person operating an exempt clearing facility, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
+‘‘relevant person’’ means any approved holding company, securities exchange, futures exchange, recognised market operator, exempt market, person operating an exempt market, designated clearing house, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
+
+[1/2005]
+
+[SIA, s. 108]

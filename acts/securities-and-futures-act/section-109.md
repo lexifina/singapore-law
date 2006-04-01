@@ -1,4 +1,4 @@
-# 109. Power of Authority to appoint auditor
+# 109. Power of Authority to appoint auditor … … … … 185
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 Division: Division 3 — Audit
 
@@ -13,3 +13,5 @@ Division: Division 3 — Audit
 (3) Where a holder of a capital markets services licence fails to comply with a direction under subsection (2), the amount specified in the direction may be sued for and recovered by the Authority as a civil debt.
 
 (4) An auditor appointed under subsection (1) shall, on the conclusion of the examination and audit, submit a report to the Authority.
+
+[FTA, s. 29]

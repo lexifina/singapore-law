@@ -1,4 +1,4 @@
-# 180. Accounts of fund
+# 180. Accounts of fund … … … … … … … … 230
 Part: PART XI INVESTOR COMPENSATION SCHEME
 
 (1) A securities exchange or futures exchange shall establish and keep proper accounts of its fidelity fund and shall, within 5 months from the last day of each financial year of that exchange, cause a balance-sheet in respect of such accounts to be made out as at the last day of that financial year.
@@ -12,3 +12,5 @@ Part: PART XI INVESTOR COMPENSATION SCHEME
 and
 
 (b) audit each balance-sheet and cause it to be laid before the exchange not later than 3 months after the balance-sheet was made out.
+
+[SIA, s. 79; FTA, s. 49E]

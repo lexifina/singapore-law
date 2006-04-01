@@ -1,15 +1,17 @@
-# 58. Business rules of clearing house have effect as contract
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 2 — Clearing Houses
+# 58. Withdrawal of designation … … … … … … 100
+Part: PART III CLEARING FACILITIES
+Division: Division 2 — Designation of Persons Operating Clearing Facilities Section Pages
 
-(1) The business rules of a clearing house shall operate as a binding contract —
+(1) The Authority may withdraw the designation of any designated clearing house at any time, on its own initiative or on the application of the designated clearing house, if the Authority is of the opinion that the considerations in section 55 (1) are no longer valid or satisfied.
 
-(a) between the clearing house and each issuer;
+[1/2005]
 
-(b) between the clearing house and each participant;
+(2) The Authority shall give notice in the Gazette of any withdrawal under subsection (1).
 
-(c) between each issuer and each participant; and
+[1/2005]
 
-(d) between a participant and any other participant, under which each of the persons mentioned in paragraphs (a) to (d) agrees to observe and perform the provisions of the business rules as are in force for the time being, so far as those provisions are applicable to that person.
+(3) The Authority shall not withdraw on its own initiative the designation of any person operating a clearing facility as a designated clearing house without giving the person an opportunity to be heard.
 
-(2) For the purposes of this section, ‘‘issuer’’, in relation to a security, means a person who issued or made available, or proposes to issue or make available, the security that is cleared or settled through the clearing facility operated by the clearing house.
+[1/2005]
+
+Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses

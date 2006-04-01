@@ -1,5 +1,6 @@
-# 326. Injunctions
+# 326. Injunctions … … … … … … … … … 518
 Part: PART XV MISCELLANEOUS
+Heading: Section Pages
 
 (1) Where a person has engaged, is engaging or is likely to engage in any conduct that constitutes or would constitute a contravention of this Act, the court may, on the application of —
 
@@ -38,3 +39,5 @@ Part: PART XV MISCELLANEOUS
 (10) Where any person referred to in subsection (1) or (2) makes an application to the court for the grant of an injunction or interim injunction or for the making of an order or interim order under this section, the court shall not require that person or any other person, as a condition of granting the injunction, order, interim injunction or interim order, to give any undertaking as to damages.
 
 (11) Subsection (7) shall not affect the powers of the court in relation to the punishment for contempt of court.
+
+[Aust. Corporations 2001, s. 1324 (modified)]

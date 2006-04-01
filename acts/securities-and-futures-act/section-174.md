@@ -1,5 +1,6 @@
-# 174. Immunities
+# 174. Immunities … … … … … … … … … 228
 Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
+Heading: Section Pages
 
 (1) No civil or criminal proceedings, other than proceedings for an offence under section 173, shall lie against any person for —
 
@@ -10,3 +11,5 @@ Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 (c) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with such an order.
 
 (2) Any person who complies with an order referred to in subsection (1) (a) or (b) shall not be treated as being in breach of any restriction upon the disclosure of information or thing imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
+
+[SIA, s. 96F; FTA, s. 49V]

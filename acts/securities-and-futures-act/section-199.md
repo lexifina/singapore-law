@@ -1,5 +1,5 @@
-# 199. False or misleading statements, etc.
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 199. False or misleading statements, etc. … … … … … 244
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 
 No person shall make a statement, or disseminate information, that is false or misleading in a material particular and is likely —
 
@@ -14,3 +14,5 @@ or
 (i) he does not care whether the statement or information is true or false; or
 
 (ii) he knows or ought reasonably to have known that the statement or information is false or misleading in a material particular.
+
+[SIA, s. 99; Aust. Corporations 2001, s. 999]

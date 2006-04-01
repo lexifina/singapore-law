@@ -1,4 +1,4 @@
-# 108. Reports by auditor to Authority in certain cases
+# 108. Reports by auditor to Authority in certain cases … … 185
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 Division: Division 3 — Audit
 
@@ -13,3 +13,5 @@ Where, in the performance of his duties as an auditor for a holder of a capital 
 (i) a report in writing of the matter or irregularity to the Authority; and
 
 (ii) where the holder is a member of a securities exchange or futures exchange, a copy of the report to the securities exchange or futures exchange, as the case may be.
+
+[SIA, s. 70 (1); FTA, s. 28]

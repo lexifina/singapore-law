@@ -1,6 +1,7 @@
-# 219. Prohibited conduct by other persons in possession of inside information
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 219. Prohibited conduct by other persons in possession of inside information … … … … … … … … … 258
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 3 — Insider Trading
+Heading: Section Pages
 
 (1) Subject to this Division, where —
 
@@ -23,3 +24,5 @@ Division: Division 3 — Insider Trading
 (a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities; or
 
 (b) procure a third person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities.
+
+[Aust. Corporations 2001, s. 1002G]

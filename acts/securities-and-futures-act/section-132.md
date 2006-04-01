@@ -1,4 +1,4 @@
-# 132. Notice of particulars to Authority
+# 132. Notice of particulars to Authority … … … … … 199
 Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
 
 (1) A relevant person shall give notice to the Authority in the prescribed form of —
@@ -12,3 +12,5 @@ Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in 
 (3) A person who ceases to be a relevant person shall, within 14 days of his so ceasing, notify the Authority.
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[SIA, s. 43]

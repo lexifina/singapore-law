@@ -1,5 +1,6 @@
-# 172. Assistance that may be rendered
+# 172. Assistance that may be rendered … … … … … 226
 Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
+Heading: Section Pages
 
 (1) Notwithstanding the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a regulatory authority of a foreign country for assistance —
 
@@ -29,4 +30,6 @@ Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 (a) shall not be admissible in evidence against him in criminal proceedings other than proceedings for an offence under section 173; but
 
-(b) shall be admissible in evidence in civil proceedings under
+(b) shall be admissible in evidence in civil proceedings under Part XII.
+
+[SIA, s. 96D; FTA, s. 49T]

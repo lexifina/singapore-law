@@ -1,23 +1,28 @@
-# 79. Participant to be party to certain transactions as principal
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 3 — Clearing House and Insolvency
+# 79. Power of Authority to issue directions … … … … 117
+Part: PART III CLEARING FACILITIES
+Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+Subdivision: Subdivision (4) — Powers of Authority
 
-(1) Where a participant —
+(1) The Authority may, if it thinks it necessary or expedient —
 
-(a) in his capacity as such enters into any transaction (including a market contract) with a clearing house; and
+(a) for ensuring the safe and efficient clearing and settlement of transactions;
 
-(b) but for this subsection or any provision in the business rules or default rules of a clearing house, would be a party to that transaction as agent, then, notwithstanding any other written law or rule of law, as between, but only as between, the clearing house and any other person (including the participant and the person who is his principal in respect of that transaction), the participant shall for all purposes (including any action, claim or demand, either civil or criminal) —
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
 
-(i) be deemed not to be a party to that transaction as agent; and
+(c) in the interests of the public or a section of the public or for the protection of investors;
 
-(ii) be deemed to be a party to that transaction as principal.
+(d) for the effective administration of this Act; or
 
-(2) Where —
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 60 (2), 64 (4), 75 (5) or (10), 76 (11), 78 (1) or (2) or 81C, or such other obligations or requirements under this Act or as may be prescribed by the Authority, issue directions by notice in writing either of a general or specific nature to a designated clearing house, and the designated clearing house shall comply with such directions.
 
-(a) 2 or more participants in their capacities as such enter into any transaction; and
+[1/2005]
 
-(b) but for this subsection, any of the participants would be a party to that transaction as agent, then, notwithstanding any other written law or rule of law, a participant to whom paragraph (b) applies shall for all purposes (including an action, claim or demand, either civil or criminal), except as between, but only as between, him and the person who is his principal in respect of that transaction —
+(2) Any designated clearing house which, without reasonable excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(i) be deemed not to be a party to the transaction as agent; and
+[1/2005]
 
-(ii) be deemed to be party to the transaction as principal.
+(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+
+[1/2005]
+
+[SIA, s. 21; E (DM) A, s. 14]

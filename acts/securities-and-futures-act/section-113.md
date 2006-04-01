@@ -1,4 +1,4 @@
-# 113. Restriction on auditor’s and employee’s right to communicate certain matters
+# 113. Restriction on auditor’s and employee’s right to communicate certain matters … … … … … … 188
 Part: PART V BOOKS, CUSTOMER ASSETS AND AUDIT Division 1 — Books
 Division: Division 3 — Audit
 
@@ -7,3 +7,5 @@ Except as may be necessary for the carrying into effect of the provisions of thi
 (a) the Authority; and
 
 (b) in the case of an employee of such auditor, the auditor.
+
+[FTA, s. 32]

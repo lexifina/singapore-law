@@ -1,5 +1,10 @@
-# 47. Application of certain provisions in Division 2
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 4 — Recognised Trading System Providers
+# 47. Objectives of this Part … … … … … … … 91
+Part: PART III CLEARING FACILITIES
 
-Sections 16, 17, 20, 23, 24 and 48 shall apply, with any modifications as the Authority may deem appropriate, to such recognised trading system providers as the Authority may determine by notice in writing.
+The objectives of this Part are —
+
+(a) to promote the safety and efficiency of clearing facilities that support systemically-important markets or form an integral part of the financial infrastructure; and
+
+(b) to reduce systemic risk.
+
+[1/2005]

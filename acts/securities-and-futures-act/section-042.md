@@ -1,9 +1,31 @@
-# 42. Recognised trading system provider to assist Authority
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 4 — Recognised Trading System Providers
+# 42. Power of Authority to approve instruments, contracts and transactions … … … … … … … … … 86
+Part: PART II MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-(1) A recognised trading system provider shall provide such assistance to the Authority as the Authority may reasonably require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of such books and other information relating to the business of the recognised trading system provider or in respect of such dealings in securities or trading in futures contracts or any other specified information as the Authority may require for the proper administration of this Act.
+(1) No recognised market operator shall, without the approval of the Authority, list, de-list or permit the trading of —
 
-(2) A recognised trading system provider shall immediately notify the Authority if it becomes aware of a financial irregularity or other matter which in the opinion of the recognised trading system provider may indicate that the financial standing or integrity of a member is in question, or that a member may not be able to meet his legal obligations.
+(a) any futures contract;
 
-(3) A recognised trading system provider which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(b) any right, option or derivative in respect of any debentures, stock or shares;
+
+(c) any right under a contract for differences or under any other contract the purpose or purported purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+
+(i) the value or price of any debentures, stock or shares;
+
+(ii) the value or price of any group of debentures, stock or shares; or
+
+(iii) an index of any debentures, stock or shares; and
+
+(d) such other instrument, contract or transaction, or class of instruments, contracts or transactions, as the Authority may prescribe, on any market operated by the recognised market operator.
+
+[1/2005]
+
+(2) The Authority may grant approval for any instrument, contract or transaction, or any class of instruments, contracts or transactions, referred to in subsection (1), subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing to the recognised market operator.
+
+[1/2005]
+
+(3) The recognised market operator shall comply with the conditions and restrictions imposed under subsection (2).
+
+[1/2005]
+
+[FTA, s. 5]

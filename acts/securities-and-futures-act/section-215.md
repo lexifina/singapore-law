@@ -1,5 +1,5 @@
-# 215. Information generally available
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 215. Information generally available … … … … … 254
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 3 — Insider Trading
 
 For the purposes of this Division, information is generally available if —
@@ -12,12 +12,12 @@ For the purposes of this Division, information is generally available if —
 
 and
 
-(ii) since it was so made known, a reasonable period for it to be disseminated among such persons has elapsed;
-
-or
+(ii) since it was so made known, a reasonable period for it to be disseminated among such persons has elapsed; or
 
 (c) it consists of deductions, conclusions or inferences made or drawn from either or both of the following:
 
 (i) information referred to in paragraph (a);
 
 (ii) information made known as referred to in paragraph (b) (i).
+
+[Aust. Corporations 2001, s. 1002B]

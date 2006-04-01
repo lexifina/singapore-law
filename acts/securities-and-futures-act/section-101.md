@@ -1,4 +1,4 @@
-# 101. Power of Authority to issue written directions
+# 101. Power of Authority to issue written directions … … … 180
 Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
 Division: Division 3 — General
 
@@ -6,10 +6,16 @@ Division: Division 3 — General
 
 (2) Without prejudice to the generality of subsection (1), any written direction may be issued with respect to —
 
-(a) the standards to be maintained by the person concerned in the conduct of his business; and
+(a) the standards to be maintained by the person concerned in the conduct of his business;
 
-(b) the type and frequency of submission of financial returns and other information to be submitted to the Authority, and the person to whom such direction is issued shall comply with the direction.
+(b) the type and frequency of submission of financial returns and other information to be submitted to the Authority; and
+
+(c) the qualifications, experience and training of representatives, and the person to whom such direction is issued shall comply with the direction.
+
+[16/2003]
 
 (3) Any person who contravenes any of the directions issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine of $5,000 for every day or part thereof during which the offence continues after conviction.
 
 (4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+
+[SIA, s. 21; E (DM) A, s. 14]

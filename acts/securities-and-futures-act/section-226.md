@@ -1,6 +1,7 @@
-# 226. Attribution of knowledge within corporations
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities
+# 226. Attribution of knowledge within corporations … … … 261
+Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
 Division: Division 3 — Insider Trading
+Heading: Section Pages
 
 (1) For the purposes of this Division —
 
@@ -15,3 +16,5 @@ Division: Division 3 — Insider Trading
 (b) it had in operation at that time arrangements that could reasonably be expected to ensure that the information was not communicated to the person who made the decision and that no advice with respect to the transaction or agreement was given to that person by a person in possession of the information; and
 
 (c) the information was not so communicated and no such advice was so given.
+
+[Malaysia SIA, s. 89G]

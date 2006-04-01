@@ -1,5 +1,5 @@
-# 4. Interest in securities
-Part: PART I PRELIMINARY
+# 4. Interest in securities … … … … … … … 45
+Part: PART I PRELIMINARY Section Pages
 
 (1) Subject to this section, a person has an interest in securities if he has authority (whether formal or informal, or express or implied) to dispose of, or to exercise control over the disposal of, those securities.
 
@@ -67,8 +67,4 @@ Part: PART I PRELIMINARY
 
 (c) the fact that the exercise of a right conferred by the interest is, or is capable of being made subject to restraint or restriction.
 
-PART II
-
-MARKETS
-
-Division 1 — Securities Markets and Futures Markets
+[SIA, s. 4; Companies, s. 7 (4A); HK Securities Ordinance, s. 5]

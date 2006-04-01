@@ -1,5 +1,5 @@
-# 3. Associated person
-Part: PART I PRELIMINARY
+# 3. Associated person … … … … … … … … 42
+Part: PART I PRELIMINARY Section Pages
 
 (1) Unless the context otherwise requires, any reference in this Act to a person associated with another person shall be construed as a reference to —
 
@@ -46,3 +46,5 @@ or
 (c) that one of those persons has sent, or proposes to send, to the other a take-over offer, or has made, or proposes to make, offers under a take-over announcement, within the meaning of the Take-over Code, in relation to shares held by the other;
 
 (d) that one of those persons has appointed the other, otherwise than for valuable consideration given by the other or by an associate of the other, to vote as a proxy or representative at a meeting of members, or of a class of members, of a corporation.
+
+[SIA, s. 3; Aust. Corporations, s. 12 (2) and s. 16 (1)]

@@ -1,31 +1,40 @@
-# 33. Removal of officer of exchange holding company
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
-Division: Division 3 — Exchange Holding Companies
+# 33. Additional powers of Authority in respect of auditors … 81
+Part: PART II MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
+Subdivision: Subdivision (4) — Powers of Authority
 
-(1) Where the Authority is satisfied that an officer of an exchange holding company —
+(1) If an auditor of an approved exchange, in the course of the performance of his duties, becomes aware of —
 
-(a) has wilfully contravened or wilfully caused that exchange holding company to contravene this Act or the business rules of that exchange holding company;
+(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the approved exchange to a material extent;
 
-(b) has, without reasonable justification or excuse, failed to enforce compliance with this Act or the business rules of that exchange holding company, by that exchange holding company;
+(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or
 
-(c) has failed to discharge the duties or functions of his office;
+(c) any irregularity that has or may have a material effect upon the accounts of the approved exchange, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors in securities or futures contracts, the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
 
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
+[1/2005]
 
-(e) has an execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+(2) An auditor of an approved exchange shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
 
-(f) has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors being a compromise or scheme of arrangement that is still in operation; or
+[1/2005]
 
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly, the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors, direct by notice in writing that exchange holding company to remove the officer from office or employment and that exchange holding company shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor of an approved exchange may have, apart from this section, as a defendant in an action for defamation.
 
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of an exchange holding company has failed to discharge the duties or functions of his office for the purposes of subsection (1) (c), have regard to such criteria as may be prescribed or as may be specified in written directions.
+[1/2005]
 
-(3) Subject to subsection (4), the Authority shall not direct an exchange holding company to remove an officer from office or employment without giving the exchange holding company an opportunity to be heard.
+(4) The Authority may impose all or any of the following duties on an auditor of an approved exchange:
 
-(4) Where the Authority directs an exchange holding company to remove an officer from office or employment under this section on any ground referred to in subsection (1) (d), (e), (f) or (g), the Authority need not give that exchange holding company an opportunity to be heard.
+(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
 
-(5) Where the Authority directs an exchange holding company to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
+(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the approved exchange;
 
-(6) An exchange holding company that is aggrieved by the direction of the Authority to remove an officer from office or employment under subsection (1) may, within 30 days after it is notified of the direction, appeal to the Minister whose decision shall be final.
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
 
-(7) An exchange holding company which, without reasonable justification or excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c), and the auditor shall carry out such duties.
+
+[1/2005]
+
+(5) The approved exchange shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+
+[1/2005]
+
+[E (DM) A, s. 16]

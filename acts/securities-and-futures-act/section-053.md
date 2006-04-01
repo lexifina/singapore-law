@@ -1,7 +1,9 @@
-# 53. Power of Authority to make regulations
-Part: PART III CLEARING FACILITIES Division 1 — Interpretation
-Division: Division 2 — Clearing Houses
+# 53. Exemption … … … … … … … … … 96
+Part: PART III CLEARING FACILITIES
+Division: Division 1 — Establishment of Clearing Facilities
 
-(1) Without prejudice to section 341, the Authority may make regulations relating to the approval of and the requirements applicable to a clearing house.
+Sections 49, 50 and 51 shall not apply to such persons or class
 
-(2) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may impose a fine not exceeding $200,000.
+of persons as may be prescribed by the Authority.
+
+[1/2005]

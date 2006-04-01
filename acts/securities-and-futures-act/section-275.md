@@ -1,12 +1,42 @@
-# 275. Offer or invitation made to sophisticated investors
+# 275. Offer made to accredited investors and certain other persons … … … … … … … … … … 356
 Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
 Subdivision: Subdivision (4) — Exemptions
 
-(1) Subdivisions (2) and (3) of this Division shall not apply to an offer or invitation in respect of shares, debentures or units of shares or debentures, whether or not they have been previously issued, where the offer or invitation is made to a sophisticated investor, if —
+(1) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of securities, whether or not they have been previously issued, where the offer is made to a relevant person, if —
 
-(a) the offer or invitation is not accompanied by an advertisement making an offer or invitation or calling attention to the offer or invitation, or intended offer or invitation; and
+(a) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer;
 
-(b) no selling or promotional expenses are paid or incurred in connection with the offer or invitation other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities.
+and
+
+(b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
+
+(i) the holder of a capital markets services licence to deal in securities;
+
+(ii) an exempt person in respect of dealing in securities;
+
+or
+
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+
+[1/2005]
+
+(1A) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of securities to a person who acquires the securities as principal, whether or not the securities have been previously issued, if —
+
+(a) the offer is on terms that the securities may only be acquired at a consideration of not less than $200,000 (or its equivalent in a foreign currency) for each transaction, whether such amount is to be paid for in cash or by exchange of securities or other assets;
+
+(b) the offer is not accompanied by an advertisement making an offer or calling attention to the offer or intended offer; and
+
+(c) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services, or by way of commission or fee for services rendered by —
+
+(i) the holder of a capital markets services licence to deal in securities;
+
+(ii) an exempt person in respect of dealing in securities;
+
+or
+
+(iii) a person who is licensed, approved, authorised or otherwise regulated under the laws, codes or other requirements of any foreign jurisdiction in respect of dealing in securities, or who is exempted therefrom in respect of such dealing.
+
+[1/2005]
 
 (2) In this section —
 
@@ -16,32 +46,50 @@ Subdivision: Subdivision (4) — Exemptions
 
 (b) a communication by radio, television or other medium of communication; or
 
-(c) a communication by means of a recorded telephone message, that is published in connection with an offer or invitation in respect of shares, debentures or units of shares or debentures, but does not include —
+(c) a communication by means of a recorded telephone message, that is published in connection with an offer in respect of securities, but does not include —
 
-(i) an information memorandum; or
+(i) an information memorandum;
 
-(ii) an announcement made by a company listed on a securities exchange or a recognised securities exchange pursuant to any requirement of that securities exchange;
+(ii) a publication which consists solely of a disclosure, notice or report required under this Act, or any listing rules or other requirements of a securities exchange, futures exchange or recognised securities exchange, which is made by any person; or
 
-‘‘information memorandum’’ means a document lodged with the Authority —
+(iii) a publication which consists solely of a notice or report of a general meeting or proposed general meeting of the person making the offer, the issuer, the underlying entity or any entity, or a presentation of oral or written material on matters so contained in the notice or report at the general meeting;
 
-(a) purporting to describe the business and affairs of the person making the offer or invitation; and
+‘‘information memorandum’’ means a document —
 
-(b) purporting to have been prepared for delivery to and review by sophisticated investors so as to assist them in making an investment decision in respect of the shares or debentures, or units of shares or debentures, which are the subject of an offer or invitation;
+(a) purporting to describe the securities being offered, or the business and affairs of the person making the offer, the issuer or, where applicable, the underlying entity;
 
-‘‘sophisticated investor’’ means —
+and
 
-(a) a person who acquires shares or debentures or units of shares or debentures pursuant to the offer or invitation in question, as principal if the aggregate consideration for the acquisition is not less than $200,000 (or its equivalent in a foreign currency) for each transaction whether such amount is paid for in cash, by exchange of shares or other assets; or
+(b) purporting to have been prepared for delivery to and review by relevant persons and persons to whom an offer referred to in subsection (1A) is to be made so as to assist them in making an investment decision in respect of the securities being offered;
 
-(b) a person who acquires shares, debentures, or units of shares or debentures pursuant to the offer or invitation in question as principal and —
+‘‘relevant person’’ means —
 
-(i) whose total net personal assets exceed $2 million (or its equivalent in a foreign currency) or whose income in the preceding 12 months is not less than $300,000 (or its equivalent in a foreign currency) at the time of the acquisition;
+(a) an accredited investor;
 
-or
+(b) a corporation the sole business of which is to hold investments and the entire share capital of which is owned by one or more individuals, each of whom is an accredited investor;
 
-(ii) in the case of a corporation, whose total net assets exceed $10 million in value (or its equivalent in a foreign currency) as determined by the last audited balance-sheet of the corporation; or
+(c) a trustee of a trust the sole purpose of which is to hold investments and each beneficiary of which is an individual who is an accredited investor;
 
-(c) an officer of the person making the offer or invitation or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer or invitation, if he is a natural person.
+(d) an officer or equivalent person of the person making the offer (such person being an entity) or a spouse, parent, brother, sister, son or daughter of that officer or equivalent person; or
 
-(3) Notwithstanding any requirement in section 99 or any regulation made thereunder that a person has to deal in securities for his own account with or through a person prescribed by the Authority so that he can qualify as an exempt person, a person who acquires shares in or debentures of, or units of shares in or debentures of, a corporation under section 274 or this section for his own account shall be considered an exempt person even though he does not comply with that requirement.
+(e) a spouse, parent, brother, sister, son or daughter of the person making the offer (such person being an individual).
 
-(4) The Authority may, by order published in the Gazette, specify an amount in substitution of any amount specified in paragraph (a) or (b) in the definition of ‘‘sophisticated investor’’ in subsection (2).
+[1/2005]
+
+(2A) In the definition of ‘‘information memorandum’’ in subsection (2), the reference to the affairs of the person making the offer, the issuer or, where applicable, the underlying entity shall —
+
+(a) in the case where the person making the offer, the issuer or the underlying entity is a corporation, be construed as including a reference to the matters referred to in section 2 (2); and
+
+(b) in any other case, be construed as referring to such matters as may be prescribed by the Authority.
+
+[1/2005]
+
+(3) Notwithstanding any requirement in section 99 or any regulation made thereunder that a person has to deal in securities for his own account with or through a person prescribed by the Authority so that he can qualify as an exempt person, a person who acquires securities under section 274 or this section for his own account shall be considered an exempt person even though he does not comply with that requirement.
+
+[1/2005]
+
+(4) The Authority may, by order published in the Gazette, specify an amount in substitution of any amount specified in subsection (1A) (a).
+
+[1/2005]
+
+[Companies, s. 106D]

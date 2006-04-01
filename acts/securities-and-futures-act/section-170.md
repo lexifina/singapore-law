@@ -1,4 +1,4 @@
-# 170. Conditions for provision of assistance
+# 170. Conditions for provision of assistance … … … … 224
 Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 (1) The Authority may provide the assistance referred to in section 172 to a regulatory authority of a foreign country if the Authority is satisfied that all of the following conditions are fulfilled:
@@ -17,7 +17,9 @@ Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 (g) the material requested for is of sufficient importance to the carrying out of the supervision, investigation or enforcement to which the request relates and cannot reasonably be obtained by any other means;
 
-(h) the matter to which the request relates is of sufficient gravity; and
+(h) the matter to which the request relates is of sufficient gravity;
+
+and
 
 (i) the rendering of assistance will not be contrary to the public interest or the interest of the investing public.
 
@@ -30,3 +32,5 @@ Part: PART X ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 or
 
 (c) any authority of the foreign country exercising a function that corresponds to a regulatory function of the Authority under this Act.
+
+[SIA, s. 96B; FTA, s. 49R]

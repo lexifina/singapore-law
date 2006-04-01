@@ -1,16 +1,24 @@
-# 7. Power of Authority to make regulations
-Part: PART II MARKETS Division 1 — Securities Markets and Futures Markets
+# 7. Application for approval or recognition … … … … 50
+Part: PART II MARKETS
+Division: Division 1 — Establishment of Markets
+Subdivision: Subdivision (1) — Approved exchange and recognised market operator
 
-(1) Without prejudice to section 341, the Authority may make regulations relating to the approval or recognition of and the requirements applicable to persons who establish or operate securities markets or futures markets.
+(1) A corporation may apply to the Authority to be —
 
-(2) Without prejudice to the generality of subsection (1), the Authority may make regulations for or with respect to —
+(a) approved as an approved exchange; or
 
-(a) the approval of a corporation as a securities exchange or futures exchange;
+(b) recognised as a recognised market operator.
 
-(b) the recognition of an overseas securities exchange, an overseas futures exchange or a corporation as a recognised trading system provider;
+[1/2005]
 
-(c) the requirements applicable to a securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5 (3) or 6 (3) or person operating an exempt market.
+(2) An application made under subsection (1) shall be —
 
-(3) Without prejudice to the generality of subsection (1), regulations made under this section may prescribe requirements that apply to recognised trading system providers which would also apply to a person granted an exemption under section 5 (3) or 6 (3).
+(a) made in such form and manner as the Authority may prescribe; and
 
-(4) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $200,000.
+(b) accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
+
+[1/2005]
+
+(3) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+
+[1/2005]
