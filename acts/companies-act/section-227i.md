@@ -1,0 +1,29 @@
+# 227I. Agency and liability for contracts … … … … … 347
+Part: PART VIIIA JUDICIAL MANAGEMENT
+Heading: Section Pages
+
+(1) The judicial manager of a company —
+
+(a) shall be deemed to be the agent of the company;
+
+(b) shall be personally liable on any contract, including any contract of employment, entered into or adopted by him in the carrying out of his functions (except in so far as the contract or a notice under subsection (2) otherwise provides); and
+
+(c) shall be entitled to be indemnified in respect of that liability, and to have his remuneration and expenses defrayed, out of the property of the company which is in his custody or under his control in priority to all other debts except those subject to a security to which section 227H (2) applies.
+
+[13/87]
+
+(2) Where a contract entered into by the company is adopted by the judicial manager, he may, by notice given to the other party, disclaim any personal liability under that contract.
+
+[13/87]
+
+(3) For the purposes of this section, the judicial manager is not to be taken to have adopted a contract entered into by the company by reason of anything done or omitted to be done within 28 days after the making of the judicial management order.
+
+[13/87]
+
+(4) Nothing in this section shall —
+
+(a) limit the right of a judicial manager to seek an indemnity from any other person in respect of contracts entered into by him that are approved by the Court; or
+
+(b) make the judicial manager personally liable for payment of rent under leases held by the company at the time of his appointment.
+
+[13/87]
