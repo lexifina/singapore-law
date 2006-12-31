@@ -1,0 +1,24 @@
+# 57. Provision of information and production of books
+Part: PART IX MISCELLANEOUS
+
+(1) The Authority may, by notice in writing, require a Scheme member to —
+
+(a) provide such information; or
+
+(b) produce any book, at such time and in such manner as the Authority may reasonably require for the proper discharge of its functions.
+
+(2) Any information received from a Scheme member under this section shall be treated as secret by the Authority.
+
+(3) Nothing in subsection (1) shall preclude the Authority from disclosing the information if —
+
+(a) the information is already in the public domain;
+
+(b) the information is disclosed in such a manner that an individual Scheme member’s identity cannot be ascertained;
+
+(c) the Scheme member consents to the disclosure; or
+
+(d) disclosure of the information on individual Scheme members is necessary in the Authority’s performance of its functions or in the exercise of its powers.
+
+(4) Any Scheme member which fails to or neglects to furnish any information or produce any book required by the Authority under this section shall be guilty of an offence.
+
+[Banking 2003 Ed., s. 26 (6) to (8); FAA 2002 Ed., s. 29 (1)]
