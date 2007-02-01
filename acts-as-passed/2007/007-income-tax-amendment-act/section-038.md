@@ -1,0 +1,25 @@
+# 38. New section 50B
+
+The principal Act is amended by inserting, immediately after section 50A, the following section:
+
+“Tax credits for trust income to which beneficiary is entitled 50B.—(1) Where —
+
+(a) a trustee of a trust receives income in Singapore from outside Singapore (referred to in this section as the income) for which a tax credit is allowable under this Part against the tax payable in respect of the income; and
+
+(b) any beneficiary of the trust who is resident in Singapore is entitled to a share of the income, the tax credit in respect of that share shall be given to the beneficiary instead of the trustee.
+
+(2) The tax credit to be given to a beneficiary under subsection (1) shall be computed in accordance with section 50 or 50A (as the case may be) as if the income had been received directly by the beneficiary rather than the trustee.
+
+(3) This section shall not apply to —
+
+(a) any income of a real estate investment trust within the meaning of section 43(10);
+
+(b) any income of a unit trust designated under section 35(14);
+
+(c) any income of an approved CPF unit trust within the meaning of section 35(14);
+
+(d) any income of a trust arising from funds managed in Singapore by a fund manager prescribed under section 13C;
+
+(e) any income of a foreign trust specified under section 13G; or
+
+(f) any income of a locally administered trust prescribed under section 13Q.”.
