@@ -1,0 +1,3 @@
+# 13. Repeal of section 11
+
+Section 11 of the Banking Act is repealed.
