@@ -20,3 +20,9 @@ Part: PART III CONDUCT OF BUSINESS Division 1 — General
 (d) the person suffers loss or damage as a result of doing that act, or refraining from doing that act, as the case may be, then, without prejudice to any other remedy available to that person, the licensee is liable to pay damages to that person in respect of that loss or damage.
 
 (4) In this section, a reference to the making of a recommendation is a reference to the making of a recommendation expressly or by implication.
+
+(5) This section shall not apply to any licensee or class of licensees in such circumstances or under such conditions as may be prescribed.
+
+[2/2005]
+
+[SF Bill, Clause 121]

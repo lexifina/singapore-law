@@ -19,7 +19,13 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 
 (iii) it appears to the Authority that the financial adviser has failed to satisfy any of its obligations under or arising from this Act;
 
-(iv) it appears to the Authority that the financial adviser is carrying on its business in a manner likely to be detrimental to its clients; or
+(iv) it appears to the Authority that the financial adviser is carrying on its business in a manner that is —
+
+(A) likely to be detrimental to its clients; or
+
+(B) contrary to the public interest;
+
+(iva) any information or document that is furnished by the financial adviser to the Authority is false or misleading; or
 
 (v) the financial adviser fails or ceases to carry on the business for which it was licensed; or
 
@@ -31,11 +37,21 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 
 (iii) it appears to the Authority that the representative has failed to satisfy any of his obligations under or arising from this Act;
 
-(iv) it appears to the Authority that the representative is performing his functions in a manner likely to be detrimental to the clients of the financial adviser of which he is a representative;
+(iv) it appears to the Authority that the representative is carrying on his functions in a manner that is —
+
+(A) likely to be detrimental to the clients of the financial adviser of which he is a representative;
+
+or
+
+(B) contrary to the public interest;
+
+(iva) any information or document that is furnished by the representative to the Authority is false or misleading;
 
 (v) the representative fails or ceases to perform the functions for which he was licensed; or
 
 (vi) the licence of the financial adviser of which he is a representative is revoked.
+
+[2/2005]
 
 (3) The Authority may, if it considers it desirable to do so —
 
@@ -45,29 +61,31 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 
 (4) Subject to subsection (5), the Authority shall not revoke or suspend a licence under subsection (2) or (3), respectively, without giving the licensee an opportunity to be heard.
 
-(5) The Authority may revoke or suspend a licence under subsection (2) or (3), respectively, on any of the following grounds without giving the licensee an opportunity to be heard:
+(5) The Authority may revoke or suspend a licence under subsection (2) or (3), respectively, without giving the licensee an opportunity to be heard —
 
-(a) in the case of a licensed financial adviser —
+(a) in the case of a licensed financial adviser, on any of the following grounds:
 
-(i) the licensee or any of its substantial shareholders is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(i) the licensee is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(ii) a receiver, receiver and manager, judicial manager, or such other person having the powers and duties of a receiver, receiver and manager or judicial manager, has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of any property of, the licensee or any of its substantial shareholders;
+(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the licensee;
 
-(iii) the licensee or any of its substantial shareholders has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation;
+(iii) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensee;
 
-(iv) execution against the licensee or any of its substantial shareholders in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(iv) the licensee has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
 
-(v) the licensee or any of its substantial shareholders or officers has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly; or
+(b) in the case of a licensed representative, on any of the following grounds:
 
-(b) in the case of a representative’s licence —
+(i) the licensee is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-(i) the representative is an undischarged bankrupt, whether in Singapore or elsewhere;
+(ii) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensee;
 
-(ii) the representative has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
+(iii) the licensee has been convicted, whether in Singapore or elsewhere, of an offence —
 
-(iii) execution against the representative in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(A) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
 
-(iv) the representative has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly.
+(B) punishable with imprisonment for a term of 3 months or more.
+
+[15/2003]
 
 (6) A person whose licence is revoked or suspended shall cease to act as a financial adviser or representative, as the case may be, from the date on which the revocation or suspension takes effect.
 
@@ -92,3 +110,5 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 (12) Any financial adviser which contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 (13) Any representative who contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[SF Bill, Clause 95]

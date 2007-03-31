@@ -14,3 +14,5 @@ Part: PART V POWERS OF AUTHORITY
 (2) The Authority may prescribe the manner in which the registers are established or maintained, including the details or particulars required to be entered in the registers.
 
 (3) Any person may, upon payment of such fee as may be prescribed, inspect and take an extract from the registers established under subsection (1), and any such extract, certified by the Authority to be a true copy, shall be admissible as evidence in any legal proceedings.
+
+[Aust. Corporations 2001, Clauses 922A, 922B]

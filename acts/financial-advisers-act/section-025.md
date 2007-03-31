@@ -40,3 +40,5 @@ Part: PART III CONDUCT OF BUSINESS Division 1 — General
 ‘‘designated investment product’’ means a unit in a collective investment scheme, a life policy (including a group life policy), or such other investment product as the Authority may prescribe;
 
 ‘‘written communication’’ includes a brochure, a leaflet, a circular or an advertising matter, whether in electronic, print or other form.
+
+[Insurance Intermediaries, ss. 5, 9; SIA, s. 50]

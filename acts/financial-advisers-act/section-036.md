@@ -16,18 +16,18 @@ Division: Division 3 — Securities
 
 (b) without limiting the generality of paragraph (a), a person who has entered into an underwriting agreement in respect of any securities shall be deemed to have an interest in the acquisition or disposal of the securities; and
 
-(c) notwithstanding section 2 (1) or 3, a person is not associated with or connected to another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
+(c) notwithstanding section 2 (1) or 3, a person is not connected to or associated with another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
 
-(4) No licensee shall send to a person a circular or other communication to which subsection (1) applies unless the circular or other communication is signed by —
+(4) (Deleted by Act 15 of 2003)
 
-(a) in the case of a licensed financial adviser, an officer of the financial adviser; or
+(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communication for 5 years.
 
-(b) in the case of a licensed representative, the representative.
-
-(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communication, duly signed in accordance with subsection (4), for 7 years.
+[15/2003; 2/2007]
 
 (6) For the purposes of this section, a circular or other communication sent to a person shall, if it is signed by an officer of a licensed financial adviser, be deemed to have been sent by the financial adviser.
 
 (7) The Authority may, by regulations, exempt any person or class of persons, or any securities or class of securities, from the application of this section, subject to such terms or conditions as the Authority considers appropriate.
 
 (8) Any licensee who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[SF Bill, Clause 120]

@@ -7,9 +7,13 @@ Part: PART V POWERS OF AUTHORITY
 
 (b) where the person is an exempt financial adviser or a representative of an exempt financial adviser, the Authority has reason to believe that circumstances exist under which, if the person were a licensee, there would exist a ground on which the Authority may revoke his licence under section 19 (2);
 
-(c) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened, any provision of this Act; or
+(c) the Authority has reason to believe that the person is contravening, is likely to contravene or has contravened, any provision of this Act;
 
-(d) the person has been convicted of an offence under this Act or has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly.
+(d) the person has been convicted of an offence under this Act or has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; or
+
+(e) the person has been convicted of an offence involving the contravention of any law or requirement of a foreign country or territory relating to any financial advisory service provided by that person.
+
+[2/2005]
 
 (2) A prohibition order made under subsection (1) may —
 
@@ -24,3 +28,5 @@ Part: PART V POWERS OF AUTHORITY
 (3) The Authority shall not make a prohibition order against a person without giving the person an opportunity to be heard.
 
 (4) Any person who is aggrieved by the decision of the Authority to make a prohibition order against him may, within 30 days of the decision, appeal in writing to the Minister.
+
+[Aust. Corporations 2001, Clauses 920A, 920B]

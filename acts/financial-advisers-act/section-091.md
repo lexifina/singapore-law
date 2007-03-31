@@ -8,3 +8,5 @@ Part: PART IX APPEALS
 (3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2) and may make such recommendations as it thinks fit.
 
 (4) The Minister shall consider the report submitted under subsection (3) in making his decision under subsection (1) but he shall not be bound by the recommendations in the report.
+
+[SF Bill, Clause 310]

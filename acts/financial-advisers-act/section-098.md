@@ -20,3 +20,5 @@ Part: PART X MISCELLANEOUS
 (4) Subsection (3) shall not affect the powers of the court in relation to the punishment of contempt of court.
 
 (5) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
+
+[SIA, s. 13]

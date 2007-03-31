@@ -13,3 +13,5 @@ Division: Division 2 — Audit
 (d) authorise in writing any person employed by him to do, in relation to the examination and audit, any act or thing that he could do as an auditor under this subsection, other than the examination of a person on oath or affirmation.
 
 (2) Any person who, without reasonable excuse, refuses or fails to answer any question put to him, or fails to comply with any request made to him, by an auditor appointed under section 50 (1) or a person authorised under subsection (1) (d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[SF Bill, Clause 110]

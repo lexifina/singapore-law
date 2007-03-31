@@ -38,3 +38,5 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 (b) a representative of an exempt financial adviser which provides any financial advisory service in respect of life policies, from using the words ‘‘life insurance broker’’ together with the word ‘‘representative’’ or any other word indicating that he is a representative of a financial adviser providing any financial advisory service in respect of life policies.
 
 (5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $12,500 and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction.
+
+[Insurance Intermediaries, s. 14]

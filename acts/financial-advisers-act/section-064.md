@@ -26,3 +26,5 @@ Part: PART V POWERS OF AUTHORITY
 (7) For the avoidance of doubt, any code, guideline, policy statement, practice note or no-action letter issued under this section shall be deemed not to be subsidiary legislation.
 
 (8) In this section, a no-action letter means a letter written by the Authority to a person to the effect that, if the facts are as represented by the person, the Authority will not institute proceedings against the person in respect of a particular state of affairs or particular conduct.
+
+[HK SF Bill, Clause 385; SF Bill, Clause 321]

@@ -2,7 +2,13 @@
 Part: PART III CONDUCT OF BUSINESS Division 1 — General
 Division: Division 2 — Life Insurance
 
-(1) Every licensed financial adviser shall, for the purposes of this section, establish and maintain a separate account with a bank licensed under the Banking Act (Cap. 19).
+(1) Every licensed financial adviser which receives any money —
+
+(a) from or on behalf of an insured or intending insured for or on account of an insurer in connection with a contract of insurance or a proposed contract of insurance; or
+
+(b) from or on behalf of an insurer for or on account of an insured or intending insured, shall, for the purposes of this section, establish and maintain a separate account with a bank licensed under the Banking Act (Cap. 19).
+
+[15/2003]
 
 (2) The Authority may prescribe, in relation to an account established under subsection (1) —
 
@@ -25,3 +31,5 @@ Division: Division 2 — Life Insurance
 (5) In this section, ‘‘moneys’’ means any sum received by a licensed financial adviser as agent for an insured or intending insured, including policy moneys, premiums and claims payments.
 
 (6) Any licensed financial adviser which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
+
+[Insurance Intermediaries, s. 22]

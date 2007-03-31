@@ -8,3 +8,5 @@ In deciding whether to grant a request for assistance referred to in section 80 
 (b) whether the regulatory authority has given or is willing to give an undertaking to the Authority to comply with a future request by the Authority to the regulatory authority for similar assistance;
 
 (c) whether the regulatory authority has given or is willing to give an undertaking to the Authority to contribute towards the costs of providing the assistance that the regulatory authority has requested for.
+
+[SF Bill, Clause 171]

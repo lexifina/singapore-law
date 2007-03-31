@@ -28,3 +28,5 @@ Part: PART VII ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 (6) An advocate and solicitor who refuses to disclose, or to furnish or transmit any material or copy thereof that contains, any privileged communication shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
 
 (7) Any advocate and solicitor who contravenes subsection (6) shall be guilty of an offence.
+
+[SF Bill, Clause 172]

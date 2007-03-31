@@ -10,8 +10,8 @@ Division: Division 2 — Audit
 
 (2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction —
 
-(a) in the case of an auditor, to a fine not exceeding $50,000;
-
-or
+(a) in the case of an auditor, to a fine not exceeding $50,000; or
 
 (b) in the case of an employee of an auditor, to a fine not exceeding $25,000.
+
+[SF Bill, Clause 113]

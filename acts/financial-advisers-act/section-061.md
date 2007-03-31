@@ -12,3 +12,5 @@ Part: PART V POWERS OF AUTHORITY
 (3) The Authority shall not vary a prohibition order made against a person under subsection (2) (a) without giving the person an opportunity to be heard.
 
 (4) Any person who is aggrieved by the decision of the Authority to vary a prohibition order made against him under subsection (2) (a) may, within 30 days of the decision, appeal in writing to the Minister.
+
+[Aust. Corporations 2001, Clause 920D]

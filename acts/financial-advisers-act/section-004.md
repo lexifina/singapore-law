@@ -66,3 +66,5 @@ Part: PART I PRELIMINARY
 (b) the manner in which it arose; or
 
 (c) the fact that the exercise of a right conferred by the interest is or is capable of being made subject to restraint or restriction.
+
+[SIA, s. 4; SF Bill, Clause 4]

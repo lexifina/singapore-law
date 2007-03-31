@@ -8,3 +8,5 @@ Part: PART V POWERS OF AUTHORITY
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (4) Any licensed financial adviser or exempt financial adviser which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[Aust. Corporations 2001, Clause 920C]

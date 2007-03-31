@@ -8,3 +8,5 @@ Part: PART III CONDUCT OF BUSINESS Division 1 — General
 (3) Subsection (1) has effect subject to any express provision to the contrary in this Act or in any regulations made for the purposes of another provision of this Act.
 
 (4) Without prejudice to the generality of section 104 (1), the regulations referred to in subsection (3) may provide that a contravention of any requirement of this Act has a specified effect on the validity or enforceability of any agreement, transaction or arrangement.
+
+[Aust. Corporations 2001, s. 1101H]

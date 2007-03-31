@@ -12,3 +12,5 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 (3) In determining whether a person is engaging in any activity or conduct that is intended to or likely to have the effect referred to in subsection (2), regard shall be had to such considerations as the Authority may prescribe.
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $7,500 for every day or part thereof during which the offence continues after conviction.
+
+[SIA, s. 26; Aust. Corporations 2001, Clause 911D]

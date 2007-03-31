@@ -18,3 +18,5 @@ Part: PART X MISCELLANEOUS
 (2) Any notice, order or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice, order or document, as the case may be, would in the ordinary course of post be delivered.
 
 (3) When proving service of the notice, order or document referred to in subsection (2), it shall be sufficient to prove that the envelope containing the notice, order or document, as the case may be, was properly addressed, stamped and posted by registered post.
+
+[BA, s. 75A]

@@ -25,3 +25,5 @@ Division: Division 2 — Audit
 (4) Any auditor who contravenes subsection (1) or (2) shall be guilty of an offence.
 
 (5) Any licensed financial adviser which contravenes subsection (3) shall be guilty of an offence.
+
+[SF Bill, Clause 108 and 115]

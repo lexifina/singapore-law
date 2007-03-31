@@ -13,3 +13,5 @@ Division: Division 4 — Register of Interests in Securities
 (ii) he became so aware before the date of the summons and complied with the relevant section within 14 days after becoming so aware.
 
 (2) For the purposes of subsection (1), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the securities concerned, was aware of at that time.
+
+[SF Bill, Clause 134]

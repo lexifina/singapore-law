@@ -43,6 +43,8 @@ or
 
 (b) that one of those persons, a customer, gives specific instructions to the other, whose ordinary business includes dealing in securities, trading in futures contracts or leveraged foreign exchange trading, to acquire shares on the customer’s behalf in the ordinary course of that business;
 
-(c) that one of those persons has sent, or proposes to send, to the other a take-over offer, or has made, or proposes to make, offers under a take-over announcement, within the meaning of the Take-over Code issued under section 321 (1) of the Securities and Futures Act (Cap. 289), in relation to shares held by the other;
+(c) that one of those persons has sent, or proposes to send, to the other, a take-over offer, or has made, or proposes to make, offers under a take-over announcement, within the meaning of the Take-over Code issued under section 321 (1) of the Securities and Futures Act (Cap. 289), in relation to shares held by the other;
 
 (d) that one of those persons has appointed the other, otherwise than for valuable consideration given by the other or by an associate of the other, to vote as a proxy or representative at a meeting of members, or of a class of members, of a corporation.
+
+[SIA, s. 3; SF Bill, Clause 3]

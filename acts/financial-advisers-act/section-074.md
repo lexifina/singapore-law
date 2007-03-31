@@ -34,9 +34,7 @@ Division: Division 3 — Investigative Powers of Authority
 
 (5) While the books are in the possession of the Authority or, where applicable, the person referred to in subsection (1) (b), the Authority or the person —
 
-(a) shall permit another person to inspect at all reasonable times such of the books (if any) as the second-mentioned person would be entitled to inspect if they were not in the possession of the Authority or the first-mentioned person;
-
-and
+(a) shall permit another person to inspect at all reasonable times such of the books (if any) as the second-mentioned person would be entitled to inspect if they were not in the possession of the Authority or the first-mentioned person; and
 
 (b) may permit any other person to inspect any of the books.
 
@@ -47,3 +45,5 @@ and
 (a) if subsection (1) (a) applies, a person who so produced any of the books; or
 
 (b) in any other case, a person who was a party to the compilation of any of the books, to explain, to the best of his knowledge and belief, any matter about the compilation of any of the books or to which any of the books relate.
+
+[SF Bill, Clause 165; ASIC 2001, s. 37]

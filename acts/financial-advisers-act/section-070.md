@@ -8,7 +8,9 @@ Division: Division 2 — Inspection Powers of Authority
 
 (a) the licensee, and any person who is in possession of the books of the licensee, shall produce such books to the Authority and give such information or facilities as may be required by the Authority;
 
-(b) the licensee shall procure that any person who is in possession of its books produce the books to the Authority and give such information or facilities as may be required by the Authority; and
+(b) the licensee shall procure that any person who is in possession of its books produce the books to the Authority and give such information or facilities as may be required by the Authority;
+
+and
 
 (c) the Authority may —
 
@@ -35,3 +37,5 @@ Division: Division 2 — Inspection Powers of Authority
 (5) The Authority may require a person who produced any book to the Authority to explain, to the best of his knowledge and belief, any matter about the compilation of the book or to which the book relates.
 
 (6) Any person who fails, without reasonable excuse, to comply with subsection (2) or a requirement of the Authority under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[SF Bill, Clause 150]

@@ -10,3 +10,5 @@ Part: PART X MISCELLANEOUS
 (b) the application of the provisions of this Act with such modifications as may be necessary; and
 
 (c) the revocation or withdrawal of, or the variation of any condition or restriction imposed in connection with, any exemption granted under this Act.
+
+[SF Bill, Clause 338]

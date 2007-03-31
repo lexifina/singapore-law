@@ -7,3 +7,5 @@ Where a person fails to comply with a requirement imposed by the Authority under
 (a) the place where such book may be found; or
 
 (b) the person who last had possession, custody or control of such book and the place where that person may be found.
+
+[SF Bill, Clause 166; ASIC 2001, s. 38]

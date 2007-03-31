@@ -10,3 +10,5 @@ Part: PART III CONDUCT OF BUSINESS Division 1 — General
 (2) A reference in subsection (1) to the making of a misleading statement includes a reference to omitting to disclose any matter that is material to the statement.
 
 (3) Any licensee who contravenes subsection (1) shall, notwithstanding that a contract does not come into being, be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Insurance Intermediaries, s. 6 (1), (2) and (5)]

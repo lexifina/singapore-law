@@ -15,3 +15,5 @@ Division: Division 2 — Audit
 (4) An auditor appointed under subsection (1) shall, on the conclusion of the examination and audit, submit a report thereon to the Authority.
 
 (5) Any auditor who contravenes subsection (4) shall be guilty of an offence.
+
+[SF Bill, Clause 109]

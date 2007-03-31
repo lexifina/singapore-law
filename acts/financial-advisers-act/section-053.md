@@ -9,3 +9,5 @@ Division: Division 2 — Audit
 (b) the submission of any report to the Authority under section 49 (1) or (2) (d) or 50 (4).
 
 (2) Subsection (1) shall not restrict or otherwise affect any right, privilege or immunity that, apart from this section, the auditor or his employee has as a defendant in an action for defamation.
+
+[SF Bill, Clause 116]

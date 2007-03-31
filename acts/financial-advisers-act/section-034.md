@@ -18,8 +18,12 @@ Division: Division 2 — Life Insurance
 
 (b) omit to disclose to the insurer any matter that is material to the claim;
 
-(c) induce the insured to fill up, in whole or in part, a form, being a form that is given or sent to the insurer, in such a way that the form is false or misleading in a material particular; or
+(c) induce the insured to fill up, in whole or in part, a form, being a form that is given or sent to the insurer, in such a way that the form is false or misleading in a material particular;
+
+or
 
 (d) advise or induce the insured to omit to disclose to the insurer any matter that is material to the claim.
 
 (3) Any licensee who contravenes this section shall, notwithstanding that a contract of insurance does not come into being, be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Insurance Intermediaries, s. 6 (3), (4) and (5)]

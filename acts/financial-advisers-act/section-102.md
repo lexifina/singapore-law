@@ -8,3 +8,5 @@ Part: PART X MISCELLANEOUS
 (a) by a person who has compared the copy or extract with the book or the relevant part of the book; and
 
 (b) orally or by an affidavit sworn, or by a declaration made, before a person authorised to take affidavits or statutory declarations.
+
+[SF Bill, Clause 149]

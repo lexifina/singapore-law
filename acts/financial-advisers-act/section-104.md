@@ -9,13 +9,13 @@ Part: PART X MISCELLANEOUS
 
 (b) the activities of, and standards to be maintained by, a licensee, or an exempt financial adviser or any of its representatives, including the manner, method and place of soliciting business and the conduct of such solicitation;
 
-(c) the standards with respect to the qualifications, experience and training of applicants for a representative’s licence and of representatives of exempt financial advisers;
+(c) (Deleted by Act 15 of 2003)
 
 (d) the particulars to be recorded in, or in respect of, books kept by any licensed financial adviser;
 
 (e) the remuneration of an auditor appointed under this Act and the costs of an audit carried out under this Act;
 
-(f) the manner in which a licensee, or an exempt financial adviser or any of its representatives, conducts his dealings with the clients of the licensed financial adviser or exempt financial adviser, as the case may be, and the duties of a licensee, or an exempt financial adviser or any of its representatives, to such clients when making recommendations in respect of investment products;
+(f) the manner in which a licensee, or an exempt financial adviser or any of its representatives, conducts his dealings with the clients of the licensed financial adviser or exempt financial adviser, as the case may be;
 
 (g) the purchase or sale of investment products directly or indirectly by licensees for their own account;
 
@@ -23,26 +23,26 @@ Part: PART X MISCELLANEOUS
 
 (i) the forms for the purposes of this Act;
 
-(j) the fees to be paid in respect of any matter or thing required for the purposes of this Act, and the refund and remission of such fees;
+(j) the fees to be paid in respect of any matter or thing required for the purposes of this Act, and the refund and remission, whether in whole or in part, of such fees;
 
 (k) the collection, from any licensed financial adviser or exempt financial adviser, by or on behalf of the Authority at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to investment products as may be prescribed, and for the collection and use of such information for any purpose, whether or not connected with the prescribed investment products;
 
 (l) the control of any take-over of a licensed financial adviser;
 
-(m) the procedure for the conduct of disciplinary control of licensees, exempt financial advisers and their representatives;
-
-and
+(m) (Deleted by Act 15 of 2003)
 
 (n) all matters and things which are required or permitted to be prescribed by this Act, or which may be necessary or expedient to be prescribed to give effect to this Act.
+
+[15/2003]
 
 (3) No use shall be made of any information obtained by or on behalf of the Authority by virtue only of subsection (2) (k) except in a form which does not disclose the affairs of any particular person.
 
 (4) Except as otherwise expressly provided in this Act, regulations made under this Act —
 
-(a) may be of general or specific application; and
+(a) may be of general or specific application;
 
-(b) may provide that a contravention thereof shall be punishable —
+(b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
-(i) in the case of an individual, with a fine not exceeding $25,000 or with imprisonment for a term not exceeding 12 months or with both; or
+(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
-(ii) in any other case, with a fine not exceeding $50,000.
+[15/2003]

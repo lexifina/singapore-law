@@ -2,7 +2,7 @@
 Part: PART VI SUPERVISION AND INVESTIGATION Division 1 — General
 Division: Division 3 — Investigative Powers of Authority
 
-(1) Where the Authority has reasonable grounds to suspect that there is, on particular premises, any book the production of which has been required under section 72, and —
+(1) Where the Authority has reasonable grounds to suspect that there is, on particular premises, any book the production of which has been required under of section 72, and —
 
 (a) which has not been produced in compliance with that requirement; or
 
@@ -23,3 +23,5 @@ and
 (3) The powers conferred under subsections (1) and (2) are in addition to, and are not in derogation of, any other power conferred by any other written law or rule of law.
 
 (4) In this section, ‘‘premises’’ includes any structure, building, aircraft, vehicle, vessel or place.
+
+[SF Bill, Clause 164]

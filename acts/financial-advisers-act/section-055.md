@@ -9,3 +9,5 @@ Division: Division 2 — Audit
 (b) to facilitate the discovery of any falsification of any such book.
 
 (2) Any licensed financial adviser which contravenes this section shall be guilty of an offence.
+
+[SF Bill, Clause 112]

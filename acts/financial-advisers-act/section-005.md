@@ -1,7 +1,9 @@
-# 5. Amendment of First and Second Schedules
+# 5. Amendment of Schedules
 Part: PART I PRELIMINARY
 
-(1) The Minister may from time to time, by order published in the Gazette, amend the First or Second Schedule.
+(1) The Minister may from time to time, by order published in the Gazette, amend, add to or vary the First, Second or Third Schedule.
+
+[15/2003]
 
 (2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
 

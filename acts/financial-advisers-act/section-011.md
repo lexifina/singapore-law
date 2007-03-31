@@ -1,4 +1,4 @@
-# 11. Requirements for grant or renewal of representative’s licence
+# 11. Grounds for refusal to grant or renew representative’s licence
 Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 
 (1) The Authority may refuse an application for the grant or renewal of a representative’s licence if —
@@ -8,6 +8,8 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 (b) the applicant is not a fit and proper person to be licensed;
 
 (c) the applicant has not furnished the Authority with such information or documents as may be required under section 8 (2);
+
+(ca) any information or document that is furnished by the applicant to the Authority is false or misleading;
 
 (d) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
 
@@ -41,8 +43,24 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 
 (o) the Authority is of the opinion that it would be contrary to the public interest to grant or renew the licence.
 
+[2/2005]
+
 (2) The Authority may, for the purposes of subsection (1) (g), specify in written directions the qualifications to be obtained by any class or description of applicants for representative’s licences.
 
 (3) Subject to subsection (4), the Authority shall not refuse an application for the grant or renewal of a representative’s licence without giving the applicant an opportunity to be heard.
 
-(4) The Authority may refuse an application for the grant or renewal of a representative’s licence on any of the grounds described in subsection (1) (d), (e), (f), (i) or (j) (i) without giving the applicant an opportunity to be heard.
+(4) The Authority may refuse an application for the grant or renewal of a representative’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
+
+(a) the applicant is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) a prohibition order under section 59 has been made by the Authority, and remains in force, against the applicant;
+
+(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+[15/2003]
+
+[HK SF Bill, Clause 119]

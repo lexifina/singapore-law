@@ -13,3 +13,5 @@ Division: Division 2 — Audit
 (a) destroyed, concealed or altered any book referred to in subsection (1) (a); or
 
 (b) sent, or conspired to send, out of Singapore, any book or asset referred to in subsection (1) (b), the onus of proving that, in so doing, he did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Part shall lie on him.
+
+[SF Bill, Clause 111]

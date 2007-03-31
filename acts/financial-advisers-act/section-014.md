@@ -13,4 +13,8 @@ Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
 
 (d) a prohibition order has been made against the licensee under section 59.
 
-(3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any licence fee paid to it.
+(3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any licence fee paid or payable to it.
+
+[15/2003]
+
+[SF Bill, Clause 85]

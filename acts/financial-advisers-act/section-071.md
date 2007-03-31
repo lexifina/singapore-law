@@ -20,4 +20,6 @@ Division: Division 3 — Investigative Powers of Authority
 
 (a) providing information or producing books to the Authority if he had provided the information or produced the books in good faith in compliance with a requirement imposed by the Authority under this Division; or
 
-(b) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this
+(b) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this Division.
+
+[SF Bill, Clause 152]

@@ -9,3 +9,5 @@ Division: Division 4 — Register of Interests in Securities
 (a) fails to produce the register of his interests in securities for inspection by the Authority; or
 
 (b) fails to allow the Authority to make a copy of or take extracts from the register, shall be guilty of an offence.
+
+[SF Bill, Clause 135]

@@ -10,7 +10,7 @@ EXCLUDED FINANCIAL ADVISERS
 
 (b) public accountant who is registered under the Accountants Act (Cap. 2), or accounting corporation which is approved under that Act, whose carrying on of the business of providing any financial advisory service is solely incidental to his legal or accounting practice, as the case may be.
 
-2. Any company registered under the Trust Companies Act (Cap. 336) whose carrying on of the business of providing any financial advisory service is solely incidental to its carrying on of the business for which it is registered under that Act.
+2. Any company licensed under the Trust Companies Act (Cap. 336) whose carrying on of the business of providing any financial advisory service is solely incidental to its carrying on of the business for which it is registered under that Act.
 
 3. Any person who is the proprietor of a newspaper and holder of a permit issued under the Newspaper and Printing Presses Act (Cap. 206), where —
 
@@ -18,7 +18,9 @@ EXCLUDED FINANCIAL ADVISERS
 
 (b) any advice given, or analysis or report issued or promulgated, is given, issued or promulgated only through that newspaper;
 
-(c) that person receives no commission or other consideration for giving the advice, or for issuing or promulgating the analysis or report; and
+(c) that person receives no commission or other consideration, apart from any fee received from subscription to or purchase of the newspaper, for giving the advice, or for issuing or promulgating the analysis or report;
+
+and
 
 (d) the advice is given, or the analysis or report is issued or promulgated, solely as incidental to the conduct of that person’s business as a newspaper proprietor.
 
@@ -28,15 +30,15 @@ EXCLUDED FINANCIAL ADVISERS
 
 (b) any advice given, or analysis or report issued or promulgated, is given, issued or promulgated only through that service;
 
-FIRST SCHEDULE — continued
-
-(c) that person receives no commission or other consideration for giving the advice, or for issuing or promulgating the analysis or report; and
+(c) that person receives no commission or other consideration, apart from any fee received from subscription to the service, for giving the advice, or for issuing or promulgating the analysis or report; and
 
 (d) the advice is given, or the analysis or report is issued or promulgated, solely as incidental to that person’s ownership, operation or provision of that service.
 
 5. Any person who provides credit rating services, where any analysis or report issued or promulgated by that person —
 
 (a) is issued or promulgated solely as incidental to the conduct of that person’s business of providing credit rating services; and
+
+FIRST SCHEDULE — continued
 
 (b) does not contain any specific recommendation with respect to the acquiring of, disposing of, subscribing for, or underwriting of, any securities.
 
@@ -50,8 +52,8 @@ FIRST SCHEDULE — continued
 
 10. Any person acting in relation to a company as its liquidator, provisional liquidator, receiver, receiver and manager, or judicial manager.
 
-11. Any foreign company (within the meaning of section 4 (1) of the Companies Act (Cap. 50)) whose provision of any financial advisory service is effected through its related corporation which is —
+11. A foreign company (within the meaning of section 4 (1) of the Companies Act (Cap. 50)) whose provision of any financial advisory service is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempt under section 23 (other than subsection (1) (f)) (on the other hand), where such arrangement is approved by the Authority.
 
-(a) licensed under this Act; or
+[15/2003; 2/2005; 11/2005]
 
-(b) exempt under section 23 (other than subsections (1) (f) and (2)), under an arrangement approved by the Authority.
+[FTA, s. 2; SIA, s. 2]

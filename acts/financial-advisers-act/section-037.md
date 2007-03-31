@@ -14,4 +14,8 @@ Division: Division 4 — Register of Interests in Securities
 
 (b) ‘‘relevant person’’ means any licensee who provides any financial advisory service in respect of securities and, for the purposes of section 39 (1) and (2) (a), any applicant for a licence to provide such a service; and
 
-(c) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised trading system provider.
+(c) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
+
+[2/2005]
+
+[SF Bill, Clause 130]

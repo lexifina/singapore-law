@@ -1,15 +1,35 @@
 # 58. Power of Authority to issue written directions
 Part: PART V POWERS OF AUTHORITY
 
-(1) The Authority may, if it thinks it necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to any licensee, any person exempt under section 23 or 100, or any class of such persons, to comply with such requirements as the Authority may specify in the written directions, or for any other purpose.
+(1) The Authority may, if it thinks necessary or expedient in the public interest, issue written directions, either of a general or specific nature, to —
+
+(a) any licensee;
+
+(b) any person exempt under section 23 or 100;
+
+(c) any representative of a person exempt under section 23; or
+
+(d) any class of the persons referred to in paragraph (a), (b) or (c), to comply with such requirements as the Authority may specify in the written directions, or for any other purpose.
+
+[15/2003; 2/2005]
 
 (2) Without prejudice to the generality of subsection (1), written directions may be issued —
 
 (a) with respect to —
 
-(i) the standards to be maintained by a licensee, an exempt financial adviser or a representative of an exempt financial adviser in the conduct of his business; or
+(i) the standards to be maintained by —
+
+(A) a licensee;
+
+(B) any person exempt under section 23 or 100; or
+
+(C) any representative of a person exempt under section 23, in the conduct of his business, including the provision of any financial advisory service to any person outside Singapore and the duties to be undertaken when making recommendations to clients in respect of investment products;
 
 (ii) the type and frequency of financial returns and other information to be submitted to the Authority;
+
+(iii) the qualifications, experience and training of representatives; or
+
+(iv) the procedure for the conduct of disciplinary control of licensees, exempt financial advisers and their representatives;
 
 (b) where any person is contravening, is likely to contravene or has contravened, any provision of this Act, to require the person —
 
@@ -29,10 +49,16 @@ Part: PART V POWERS OF AUTHORITY
 
 (c) for any other purpose specified in this Act.
 
+[15/2003; 2/2005]
+
 (3) For the avoidance of doubt, any written direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
 
 (4) The Authority may at any time vary, rescind or revoke any written direction issued under subsection (1).
 
-(5) Any person who fails to comply with any requirement specified in a written direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+(5) Any person who fails to comply with any requirement specified in a written direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[2/2005]
 
 (6) In this section, ‘‘written direction’’ includes a circular or notice.
+
+[SF Bill, Clause 101]

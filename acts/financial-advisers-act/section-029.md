@@ -10,3 +10,5 @@ Part: PART III CONDUCT OF BUSINESS Division 1 — General
 (2) A licensed financial adviser which, or a licensed representative who, has been required to furnish information to the Authority under subsection (1) shall comply with such requirement.
 
 (3) Any person who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Insurance Intermediaries, s. 10]

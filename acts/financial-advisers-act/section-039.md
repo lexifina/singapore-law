@@ -19,3 +19,5 @@ Division: Division 4 — Register of Interests in Securities
 (4) A person who ceases to be a relevant person shall, within 14 days of his so ceasing, notify the Authority.
 
 (5) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[SF Bill, Clause 132]

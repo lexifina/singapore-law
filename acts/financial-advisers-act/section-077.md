@@ -22,3 +22,5 @@ In this Part, unless the context otherwise requires —
 (b) in relation to any other financial advisory service, 1st October 2002;
 
 ‘‘supervision’’, in relation to a regulatory authority, means the taking of any action for or in connection with the supervision of a subject-matter in the foreign country of the regulatory authority, being a subject-matter relating to any financial advisory service.
+
+[SF Bill, Clause 169]

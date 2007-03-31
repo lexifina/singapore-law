@@ -1,0 +1,11 @@
+# THIRD SCHEDULE
+
+Section 65 (1A)
+
+SPECIFIED PROVISIONS
+
+1. Section 23 (6)
+
+2. Section 100 (2).
+
+[15/2003; 2/2005]
