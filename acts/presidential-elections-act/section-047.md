@@ -1,5 +1,5 @@
 # 47. Period for sending in claims and making payments for election expenses
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Every payment of $10 or more made by an election agent in respect of any expenses incurred on account of or in respect of the conduct and management of an election shall, except where, from the nature of the case, such as travel by rail or postage, a receipt is not obtainable, be vouched for by a bill stating the particulars and by a receipt.
@@ -18,7 +18,7 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (5) Except as otherwise provided by this Act, the time limited by this Act for the payment of the expenses referred to in subsection (4) shall be 28 days after the date of publication of the result of the election in the Gazette under section 34.
 
-(6) Where it has been proved to the satisfaction of the Election Judge by a candidate that any payment made by an election agent in contravention of this section was made without the sanction or connivance of the candidate, the election of the candidate shall not be void, nor shall the candidate be subject to any incapacity under this Act by reason only of the payment having been made in contra- vention of this section.
+(6) Where it has been proved to the satisfaction of the Election Judge by a candidate that any payment made by an election agent in contravention of this section was made without the sanction or connivance of the candidate, the election of the candidate shall not be void, nor shall the candidate be subject to any incapacity under this Act by reason only of the payment having been made in contravention of this section.
 
 (7) If any election agent in the case of any claim sent in to him within the time limited by this Act disputes it, or refuses or fails to pay it within the period of 28 days, the claim shall be deemed to be a disputed claim.
 
@@ -28,7 +28,7 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 [18/99]
 
-(9) On cause shown to the satisfaction of an Election Judge, the Judge, on application by the claimant or by the candidate or any of his election agents, may by order give leave for the payment by the candidate or any of his election agents of a disputed claim, or of a claim for those expenses, although the claim was sent in after the time in this section mentioned for sending in claims or was sent in to the candidates and not to any election agent.
+(9) On cause shown to the satisfaction of an Election Judge, the Judge, on application by the claimant or by the candidate or any of his election agents, may by order give leave for the payment by the candidate or any of his election agents of a disputed claim, or of a claim for those expenses, although the claim was sent in after the time in this section mentioned for sending in claims or was sent in to the candidate and not to any election agent.
 
 [12/93; 18/99]
 

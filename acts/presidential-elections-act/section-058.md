@@ -1,5 +1,5 @@
 # 58. Employers to allow employees reasonable period for voting
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Every employer shall, on polling day, allow to every elector in his employ a reasonable period for voting.

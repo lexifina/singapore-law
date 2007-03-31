@@ -1,5 +1,5 @@
 # 41. Bribery
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 2 — Corrupt Practices
 
 Every person who —

@@ -1,5 +1,5 @@
 # 49. Personal expenses of candidate and petty expenses
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Any candidate at an election may pay any personal expenses incurred by him on account of or in connection with or incidental to the election to an amount not exceeding $1,000, but any further personal expenses so incurred by him shall be paid by his principal election agent.

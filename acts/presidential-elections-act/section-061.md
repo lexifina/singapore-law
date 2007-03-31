@@ -1,5 +1,5 @@
 # 61. Punishment for conviction for illegal practice
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Every person who commits an illegal practice shall be guilty of an offence and shall on conviction by a District Court be liable to a fine not exceeding $300 and shall become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.

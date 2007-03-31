@@ -1,5 +1,5 @@
 # 60. Regulations for display of posters and banners
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) The Minister may make regulations to regulate the display of posters and banners in respect of an election.

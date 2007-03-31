@@ -1,5 +1,5 @@
 # 54. Certain employment to be illegal
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) No person shall, for the purpose of promoting or procuring the election of any candidate at any election, be engaged or employed for payment or promise of payment for any purpose or in any capacity whatever, except for the following purpose or in the following capacities:

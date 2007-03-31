@@ -7,13 +7,13 @@ Part: PART II ELECTIONS
 
 (3) Notwithstanding section 32 (10) and (12), it shall be lawful for the Returning Officer to break the seals of packets containing the marked copies of the registers of electors and to inspect and retain those copies for the purpose of preparing the list referred to in subsection (2) and of any inquiries connected therewith.
 
-(4) The list prepared by the Returning Officer under subsection
-
-(2) shall be forwarded by the Returning Officer to the Registration Officer.
+(4) The list prepared by the Returning Officer under subsection (2) shall be forwarded by the Returning Officer to the Registration Officer.
 
 (5) The Registration Officer shall on receipt of such list cause the names of all persons appearing in the list to be expunged from the register of electors.
 
-(6) The Registration Officer shall give notice in the Gazette that such list has been received by him from the Returning Officer and that the list or copies thereof are open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in each electoral division as may be specified in the notice.
+(6) The Registration Officer shall give notice in the Gazette that such list has been received by him from the Returning Officer and that the list or copies thereof are open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in or near each electoral division and at such overseas registration centres as may be specified in the notice.
+
+[19/2001]
 
 (7) Every person whose name appears on the list of which notice has been given by the Registration Officer under subsection (6) may make a written application for the restoration of his name to the register of electors.
 

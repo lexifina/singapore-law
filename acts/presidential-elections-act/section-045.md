@@ -1,5 +1,5 @@
 # 45. Making of contracts through election agent
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Every polling agent, clerk and messenger employed for payment on behalf of a candidate at an election shall be appointed by his principal election agent or any of his election agents.

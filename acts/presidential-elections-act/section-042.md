@@ -1,5 +1,5 @@
 # 42. Punishment for corrupt practice
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 2 — Corrupt Practices
 
 (1) Every person who —
@@ -8,7 +8,7 @@ Chapter: Chapter 2 — Corrupt Practices
 
 (b) commits the offence of treating, undue influence or bribery;
 
-(c) prints, publishes, distributes or posts up or causes to be printed, published, distributed or posted up any advertise- ment, handbill, placard or poster which refers to any election and which does not bear upon its face the names and addresses of its printer and publisher;
+(c) prints, publishes, distributes or posts up or causes to be printed, published, distributed or posted up any advertisement, handbill, placard or poster which refers to any election and which does not bear upon its face the names and addresses of its printer and publisher;
 
 (d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 

@@ -1,5 +1,5 @@
 # 69. Power of Election Judge to except innocent act from being illegal practice, etc.
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 4 — Excuse for Corrupt and Illegal Practice
 
 (1) Where, on application made, it is shown to an Election Judge by such evidence as seems to the Judge sufficient —

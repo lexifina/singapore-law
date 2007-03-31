@@ -1,5 +1,5 @@
 # 39. Treating
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 2 — Corrupt Practices
 
 (1) A person shall be guilty of treating if he corruptly, by himself or by any other person, either before, during or after an election, directly or indirectly, gives or provides, or pays wholly or in part the expense of giving, any food, drink, refreshment, cigarette, entertainment or other provision or thing or any money or ticket or other means or device to enable the procuring of any such food, drink, refreshment, cigarette, entertainment or other provision or thing, to or for any person —

@@ -1,5 +1,5 @@
 # 70. Authorised excuse for non-compliance with provisions as to return and declaration respecting election expenses
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 4 — Excuse for Corrupt and Illegal Practice
 
 (1) Where the return and statements respecting election expenses of a candidate at an election have not been transmitted as required by this Act, or being transmitted contain some error or false statement, then —

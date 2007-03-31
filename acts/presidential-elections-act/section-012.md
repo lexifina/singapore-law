@@ -19,4 +19,6 @@ Part: PART II ELECTIONS
 
 (5) The Returning Officer shall with the least possible delay decide on the validity of every objection and inform the candidate concerned of his decision, and, if the objection is allowed, of the grounds of his decision.
 
-(6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an election petition.
+(6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an application under section 71.
+
+[42/2005]

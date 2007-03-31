@@ -11,4 +11,4 @@ Part: PART II ELECTIONS
 
 (5) Any vote given by the person mentioned in subsection (4) during the pendency of that appeal shall be as good as though no such appeal were pending and shall not be affected by the subsequent decision of the appeal.
 
-(6) For the purposes of this section, ‘‘Revising Officer’’ means a Revising Officer appointed under section 12 of the Parliamentary Elections Act (Cap. 218).
+(6) For the purposes of this section, ‘‘Revising Officer’’ means a Revising Officer appointed under section 12 of the Parliamentary Elections Act.

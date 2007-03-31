@@ -1,5 +1,5 @@
 # 51. Certain expenditure to be illegal practice
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) No payment or contract for payment shall, for the purpose of promoting or procuring the election of any candidate at any election, be made —

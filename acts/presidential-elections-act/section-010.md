@@ -5,13 +5,13 @@ Part: PART II ELECTIONS
 
 (1A) In default of a deposit under this section being so made, the candidate shall be deemed to have withdrawn his candidature under section 13.
 
-(2) The Returning Officer shall forthwith give a receipt for any sum deposited under this section and shall pay that sum into the Treasury and that sum shall be dealt with in accordance with the provisions of this Act.
+(2) The Returning Officer shall immediately give a receipt for any sum deposited under this section and shall pay that sum into the Treasury and that sum shall be dealt with in accordance with the provisions of this Act.
 
 (3) Any sum required to be deposited under subsection (1) shall be paid in legal tender or by a bank draft or a certified cheque.
 
 (4) If a candidate is not nominated as a candidate for election or if, after the deposit under this section is made, the candidate withdraws his candidature under section 13, the deposit shall be returned to the person by whom the deposit is made.
 
-(4A) If the candidate dies after the deposit is made and before the poll is commenced, the deposit, if made by him, shall be returned to his legal personal representative or, if not made by him, shall be returned to the person by whom the deposit was made.
+(4A) If the candidate dies after the deposit is made and before the poll has commenced, the deposit, if made by him, shall be returned to his legal personal representative or, if not made by him, shall be returned to the person by whom the deposit was made.
 
 (5) If a candidate who has made the required deposit is not elected and the number of votes polled by him does not exceed one-eighth of the total number of votes polled, the amount deposited shall be forfeited and paid into the Consolidated Fund.
 

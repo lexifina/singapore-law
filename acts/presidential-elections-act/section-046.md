@@ -1,5 +1,5 @@
 # 46. Payment of expenses through election agent
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter I — Offences
+Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Except as permitted by or in pursuance of this Act, no payment and no advance or deposit shall be made by a candidate at an election, or by any agent on behalf of the candidate, or by any other person at any time, whether before, during, or after the election, in respect of any expenses incurred on account of or in respect of the conduct or management of the election otherwise than by or through any election agent of the candidate.

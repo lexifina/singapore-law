@@ -1,7 +1,7 @@
 # 36. Maintenance of secrecy at elections
 Part: PART II ELECTIONS
 
-(1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, shall, before so attending, make an oath of secrecy, substan- tially in the prescribed form.
+(1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, shall, before so attending, make an oath of secrecy, substantially in the prescribed form.
 
 (2) The Returning Officer shall have power to administer any oaths required to be taken under subsection (1).
 
@@ -21,6 +21,8 @@ Part: PART II ELECTIONS
 
 (b) communicate any information obtained at the counting as to the candidate for whom any vote is given by any particular ballot paper.
 
-(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before the voter has placed it in a ballot box.
+(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before the voter has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to record his vote and before he records his vote at the machine, as the case may be.
+
+[19/2001]
 
 (7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.

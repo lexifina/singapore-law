@@ -3,7 +3,7 @@ Part: PART II ELECTIONS
 
 (1) If, on nomination day after the decision by the Returning Officer of any objections which may have been lodged, more than one candidate stands nominated for election to the office of President, the Returning Officer shall —
 
-(a) forthwith adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
+(a) immediately adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
 
 (b) allot to each candidate an approved symbol which shall be printed on the ballot paper opposite the name of that candidate.
 
@@ -21,11 +21,17 @@ Part: PART II ELECTIONS
 
 (a) the date on which the poll will be taken, being a date not less than 9 days or more than 8 weeks after the date of publication of the notice in the Gazette (referred to in this Act as polling day);
 
+(aa) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system and the electoral division which will use the system at the poll;
+
+(ab) the day and hours of the poll at every overseas polling station;
+
 (b) the names of the candidates in the order in which they will be printed on the ballot papers, the symbol allotted to each candidate, and the names of their proposers and seconders;
 
 and
 
 (c) the locations of the polling stations.
+
+[19/2001]
 
 (6) In computing time for the purpose of subsection (5) (a), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or any other written law.
 
