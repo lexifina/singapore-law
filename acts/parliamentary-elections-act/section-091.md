@@ -20,6 +20,8 @@ Heading: GROUNDS FOR AVOIDING ELECTIONS
 
 (6) For the purposes of this section, a person shall be deemed to be disqualified for acting as an elected Member of Parliament —
 
-(a) if he is not qualified to be, or is disqualified from being, an elected Member of Parliament or a holder of that office; or
+(a) if he is not qualified to be, or is disqualified from being, an elected Member of Parliament or a holder of that office;
+
+or
 
 (b) if by reason of resignation or failure to attend meetings of Parliament or for any other reason his seat has become vacant and he has ceased to be an elected Member of Parliament or to hold that office.

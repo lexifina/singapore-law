@@ -10,11 +10,11 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 and
 
-(c) inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that station before the person is admitted to the station.
+(c) inform the presiding officer at each polling station in writing of the name of every polling agent appointed to act at that station before the person is admitted to the station.
 
 [42/96]
 
-(1A) In the case of a group of candidates, either the principal election agent for the group or the election agent of any candidate in that group shall appoint every polling agent on behalf of the group of candidates at an election and shall inform the presiding officer at each polling station in writing of the name of the polling agent or agents appointed to act at that station before the person is admitted to the station.
+(1A) In the case of a group of candidates, either the principal election agent for the group or the election agent of any candidate in that group shall appoint every polling agent on behalf of the group of candidates at an election and shall inform the presiding officer at each polling station in writing of the name of every polling agent appointed to act at that station before the person is admitted to the station.
 
 [42/96; 18/99]
 

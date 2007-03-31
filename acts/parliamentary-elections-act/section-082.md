@@ -20,4 +20,4 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
-(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him before a Magistrate’s Court to be dealt with according to law.
+(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.

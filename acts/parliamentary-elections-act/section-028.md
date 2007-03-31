@@ -5,7 +5,7 @@ Part: PART III ELECTIONS
 
 (1A) In default of the sum being so deposited under subsection (1), the candidate shall be deemed to have withdrawn his candidature under section 32.
 
-(1B) The Returning Officer shall forthwith give a receipt for that sum and pay that sum into the Consolidated Fund, and that sum shall be dealt with in accordance with the provisions of this Act.
+(1B) The Returning Officer shall immediately give a receipt for that sum and pay that sum into the Consolidated Fund, and that sum shall be dealt with in accordance with the provisions of this Act.
 
 [11/88]
 
@@ -27,11 +27,9 @@ Part: PART III ELECTIONS
 
 [10/88]
 
-(5) Notwithstanding anything in this section, where a candidate is nominated at a general election in more than one electoral division, he shall in no case recover his deposit more than once.
+(5) (Deleted by Act 31 of 2001)
 
-(5A) In the case referred to in subsection (5), the deposits shall be forfeited and paid into the Consolidated Fund except, if the candidate or the group to which he belongs has for any electoral division obtained the required number of votes, such one deposit as the Returning Officer thinks fit shall be returned to the candidate.
-
-[10/88]
+(5A) (Deleted by Act 31 of 2001)
 
 (6) For the purposes of this section —
 

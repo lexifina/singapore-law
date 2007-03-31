@@ -10,13 +10,15 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (c) the disputed claims so far as the election agent is aware;
 
-(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or Judge of the High Court;
+(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or a Judge of the High Court;
 
-(e) all moneys, securities and other valuable considerations received by or promised to the election agent from or by any candidate or any other person for the purpose of expenses incurred or to be incurred on account or in respect of the management of the election, naming every person from whom the sum may have been received or by whom the sum may have been promised, showing as to each sum whether it was received as contribution, loan, deposit or otherwise.
+(e) every donation accepted by the election agent or by the candidate for the purpose of expenses incurred or to be incurred on account of or in respect of the management of the election, naming every person from whom the donation may have been received.
 
-[16/93]
+[16/93; 18/2005]
 
-(2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent which shall be respectively in Forms 20 and 21 in the First Schedule and shall be on oath before a Justice of the Peace or a commissioner for oaths.
+(2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent which shall be respectively in Forms 19 and 20 in the First Schedule.
+
+[18/2005]
 
 (3) If the return and statements are not transmitted before the expiration of the time limited for the purpose, the candidate shall not after the expiration of the time sit or vote in Parliament as a Member until either the return and statements have been transmitted or until the date of the allowance of such authorised excuse for failure to transmit them as in this Act mentioned.
 
@@ -27,3 +29,7 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 [12/91]
 
 (4) If any candidate or election agent fails to comply with the requirements of subsection (1) or (2), he shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
+
+(5) In this section, ‘‘donation’’ has the same meaning as in section 3 (1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
+
+[18/2005]

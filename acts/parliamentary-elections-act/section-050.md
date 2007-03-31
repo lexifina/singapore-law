@@ -22,4 +22,6 @@ Heading: CONTESTED ELECTIONS
 
 (3) Before rejecting a ballot paper, the Returning Officer shall show it to each candidate or his counting agent if present and hear his views thereon, taking all proper precautions to prevent any person from seeing the number printed on the back of the paper.
 
-(4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an election petition.
+(4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an application under section 90.
+
+[42/2005]

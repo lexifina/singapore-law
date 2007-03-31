@@ -8,7 +8,7 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (a) preserve all such returns and statements with the bills and vouchers relating thereto;
 
-(b) at all reasonable times during 6 months next after the publication in the Gazette of the notice mentioned in this section shall permit any person to inspect them and to make extracts therefrom on payment of a fee of $2; and
+(b) at all reasonable times during 6 months after the publication in the Gazette of the notice mentioned in this section, permit any person to inspect them and to make extracts therefrom on payment of a fee of $2; and
 
 (c) on payment of 30 cents for each page, supply a copy or copies of any part thereof.
 

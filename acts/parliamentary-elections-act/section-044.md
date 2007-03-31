@@ -2,7 +2,7 @@
 Part: PART III ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) The presiding officer at any polling station may, in his discretion, require any voter, before he is given a ballot paper, to furnish such evidence of his identity as the presiding officer may consider necessary and to make and subscribe all or any of the declarations set out in the Forms 13, 14 and 15 in the First Schedule.
+(1) The presiding officer at any polling station may, in his discretion, require any voter, before he is given a ballot paper, to furnish such evidence of his identity as the presiding officer may consider necessary and to make and subscribe to all or any of the declarations set out in Forms 13, 14 and 15 in the First Schedule.
 
 (2) Every such declaration shall be exempt from stamp duty.
 

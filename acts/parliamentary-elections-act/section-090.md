@@ -1,10 +1,10 @@
-# 90. Avoidance of election on election petition
+# 90. Application for avoidance of election on certain grounds
 Part: PART III ELECTIONS
 Heading: GROUNDS FOR AVOIDING ELECTIONS
 
-The election of a candidate as a Member shall be declared to be void on an election petition on any of the following grounds which may be proved to the satisfaction of the Election Judge:
+The election of a candidate as a Member shall be declared to be void on an application made to an Election Judge on any of the following grounds which may be proved to the satisfaction of the Election Judge:
 
-(a) that by reason of general bribery, general treating, or general intimidation, or other misconduct, or other circum- stances, whether similar to those before enumerated or not, the majority of electors were or may have been prevented from electing the candidate or group of candidates whom they preferred;
+(a) that by reason of general bribery, general treating, or general intimidation, or other misconduct, or other circumstances, whether similar to those before enumerated or not, the majority of electors were or may have been prevented from electing the candidate or group of candidates whom they preferred;
 
 (b) non-compliance with the provisions of this Act relating to elections, if it appears that the election was not conducted in accordance with the principles laid down in those provisions and that the non-compliance affected the result of the election;
 
@@ -14,4 +14,4 @@ The election of a candidate as a Member shall be declared to be void on an elect
 
 (e) that the candidate was at the time of his election a person disqualified for election as a Member.
 
-[10/88]
+[10/88; 42/2005]

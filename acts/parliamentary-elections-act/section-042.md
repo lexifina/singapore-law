@@ -24,7 +24,7 @@ and
 
 [18/99]
 
-(3) The voter, on receiving the ballot paper, shall forthwith proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act.
+(3) The voter, on receiving the ballot paper, shall immediately proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act.
 
 (3A) The voter shall then fold the paper so as to conceal his vote, and shall put the paper so folded up into the ballot box.
 

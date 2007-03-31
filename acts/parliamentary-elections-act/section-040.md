@@ -2,7 +2,9 @@
 Part: PART III ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) In the case of a poll at an election, the votes shall be given by ballot, and the ballot of each voter shall consist of a paper (referred to in this Act as a ballot paper).
+(1) In the case of a poll at an election not using a DRE voting system, the votes shall be given by ballot, and the ballot of each voter shall consist of a paper (referred to in this Act as a ballot paper).
+
+[19/2001]
 
 (2) Every ballot paper shall contain —
 
@@ -16,7 +18,7 @@ Heading: CONTESTED ELECTIONS
 
 (3) In respect of any group representation constituency, every ballot paper shall contain —
 
-(a) a list of the candidates in each group in English, described, subject to section 105, in their respective nomination papers and arranged alphabetically in English in the order specified in section 37 (5) and (6); and
+(a) a list of the candidates in each group in English, described, subject to section 105, as in their respective nomination papers, and arranged alphabetically in English in the order specified in section 37 (5) and (6); and
 
 (b) the symbol allotted to each group.
 

@@ -1,7 +1,7 @@
 # 27A. Election of Members on a group basis in group representation constituencies
 Part: PART III ELECTIONS
 
-(1) In every general election of Members and the election of Members to supply vacancies caused by death, resignation or otherwise, the Members for any group representation constituency shall be elected in accordance with this Act subject to the modifi- cations in this section.
+(1) In every general election of Members and the election of Members to supply vacancies caused by death, resignation or otherwise, the Members for any group representation constituency shall be elected in accordance with this Act subject to the modifications in this section.
 
 [10/88]
 
@@ -43,7 +43,7 @@ Part: PART III ELECTIONS
 
 [10/88]
 
-(8) For the purposes of this section and section 27C —
+(8) In this section and section 27C —
 
 ‘‘Committee’’ means the Malay Community Committee or Indian and Other Minority Communities Committee established under section 27C;
 

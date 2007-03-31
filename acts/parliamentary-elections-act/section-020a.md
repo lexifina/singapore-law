@@ -13,11 +13,11 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [42/96]
 
-(2) Unless the Minister otherwise directs, whenever any new electoral division is created or any electoral division is altered in the manner referred to in subsection (1) (a) or (b), section 10 shall not apply to that new or altered electoral division and the Registration Officer shall, before the next general election, prepare in accordance with subsection (3) a composite register for each new or altered division and certify it in the Form 7 in the First Schedule.
+(2) Unless the Minister otherwise directs, whenever any new electoral division is created or any electoral division is altered in the manner referred to in subsection (1) (a) or (b), section 10 shall not apply to that new or altered electoral division and the Registration Officer shall, before the next general election, prepare in accordance with subsection (3) a composite register for each new or altered division and certify it in Form 7 in the First Schedule.
 
 [42/96]
 
-(3) A composite register for any new or altered electoral division shall be prepared by using the certified registers in operation and combining the sections of these certified registers relating to the polling districts which have been redistributed or transferred to form the polling districts of the new or altered electoral division.
+(3) A composite register for any new or altered electoral division shall be prepared by using the certified registers in operation and combining the sections of those certified registers relating to the polling districts which have been redistributed or transferred to form the polling districts of the new or altered electoral division.
 
 [42/96]
 

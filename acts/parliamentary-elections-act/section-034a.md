@@ -2,9 +2,9 @@
 Part: PART III ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) If, on the day of nomination, in any group represen- tation constituency, after the decision by the Returning Officer on any objection which may have been lodged, more groups than one stand nominated for that constituency, the Returning Officer shall —
+(1) If, on the day of nomination, in any group representation constituency, after the decision by the Returning Officer on any objection which may have been lodged, more groups than one stand nominated for that constituency, the Returning Officer shall —
 
-(a) forthwith adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
+(a) immediately adjourn the election to enable a poll to be taken in accordance with the provisions of this Act; and
 
 (b) allot to each group of candidates an approved symbol which shall be printed on the ballot paper opposite the names of each group.
 
@@ -26,19 +26,23 @@ Heading: CONTESTED ELECTIONS
 
 [10/88]
 
-(6) The Returning Officer shall cause to be published in the Gazette a notice in the Form 11 in the First Schedule specifying —
+(6) The Returning Officer shall cause to be published in the Gazette a notice in Form 11 in the First Schedule specifying —
 
 (a) the group representation constituency in which the election is contested;
 
-(b) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in the Gazette;
+(b) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system;
 
-(c) the names of the candidates in each group in the order in which they will be printed on the ballot papers, the symbol allotted to each group of candidates and the names of their proposers and seconders; and
+(c) the day and hours of the poll at every overseas polling station;
 
-(d) the situation of the polling stations for that group representation constituency and the particular polling stations, if any, reserved for female voters.
+(d) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in the Gazette;
 
-[10/88]
+(e) the names of the candidates in each group in the order in which they will be printed on the ballot papers, the symbol allotted to each group of candidates and the names of their proposers and seconders; and
 
-(7) In computing time for the purposes of subsection (6) (b), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or of any other written law.
+(f) the situation of the polling stations for that group representation constituency and the particular polling stations, if any, reserved for female voters.
+
+[10/88; 19/2001]
+
+(7) In computing time for the purposes of subsection (6) (d), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or of any other written law.
 
 [10/88]
 

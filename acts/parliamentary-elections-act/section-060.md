@@ -8,9 +8,7 @@ The following persons shall be deemed guilty of the offence of bribery:
 
 (b) every person who, directly or indirectly, by himself or by any other person on his behalf, gives or procures, or agrees to give or procure, or offers, promises, or promises to procure or to endeavour to procure, any office, place or employment to or for any elector or voter or to or for any person on behalf of any elector or voter, or to or for any other person, in order to induce that elector or voter to vote or refrain from voting, or corruptly does any such act on account of that elector or voter having voted or refrained from voting at any election under this Act;
 
-(c) every person who, directly or indirectly, by himself or by any other person on his behalf, makes any such gift, loan, offer, promise, procurement or agreement referred to in paragraph
-
-(a) or (b) to or for any person in order to induce that person to procure or endeavour to procure the return of any person as a Member of Parliament, or the vote of any elector or voter at any election under this Act;
+(c) every person who, directly or indirectly, by himself or by any other person on his behalf, makes any such gift, loan, offer, promise, procurement or agreement referred to in paragraph (a) or (b) to or for any person in order to induce that person to procure or endeavour to procure the return of any person as a Member of Parliament, or the vote of any elector or voter at any election under this Act;
 
 (d) every person who, directly or indirectly, by himself or by any other person on his behalf, makes any such gift, loan, offer, promise, procurement or agreement to or for any person who is assisting or has promised to assist a candidate at an election to induce that person to refrain from assisting that candidate;
 

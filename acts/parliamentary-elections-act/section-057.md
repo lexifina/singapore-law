@@ -4,8 +4,10 @@ Heading: CORRUPT PRACTICES
 
 (1) Every person who —
 
-(a) at an election applies for a ballot paper in the name of some other person, whether that name be that of a person living or dead, or of a fictitious person; or
+(a) at an election applies for a ballot paper or to record his vote at a DRE voting machine in the name of some other person, whether that name be that of a person living or dead, or of a fictitious person; or
 
-(b) having voted once at any such election, applies at the same election for a ballot paper in his own name, shall be guilty of the offence of personation.
+(b) having voted once at any such election, applies at the same election for a ballot paper or to record his vote at a DRE voting machine in his own name, shall be guilty of the offence of personation.
+
+[19/2001]
 
 (2) The offence of personation under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).

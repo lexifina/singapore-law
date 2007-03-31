@@ -3,7 +3,7 @@ Part: PART I PRELIMINARY
 
 (1) For the purposes of electing Members of Parliament on a group basis to ensure the representation in Parliament of Members from the Malay, Indian and other minority communities under this Act, the President shall, subject to this section, by order published in the Gazette —
 
-(a) declare any electoral division, having regard to the number of electors in that division, to be a group representation constituency and designate that constituency as a consti- tuency in which any election is to be held on the basis of a group of such number of candidates, being not less than 3 but not more than 6; and
+(a) declare any electoral division, having regard to the number of electors in that division, to be a group representation constituency and designate that constituency as a constituency in which any election is to be held on the basis of a group of such number of candidates, being not less than 3 but not more than 6; and
 
 (b) designate every group representation constituency as —
 
@@ -17,7 +17,7 @@ Part: PART I PRELIMINARY
 
 [42/96]
 
-(2) The number of Members to be returned by all group represen- tation constituencies shall not be less than one-quarter of the total number of Members to be returned at a general election.
+(2) The number of Members to be returned by all group representation constituencies shall not be less than one-quarter of the total number of Members to be returned at a general election.
 
 [10/88; 9/91; 42/96]
 

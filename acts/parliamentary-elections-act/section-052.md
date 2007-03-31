@@ -18,9 +18,9 @@ Heading: CONTESTED ELECTIONS
 
 [21/91]
 
-(3B) Where there is an equality of the percentage of the votes between any candidates and the number of such candidates who are eligible to be declared elected under this section exceeds the number of non-constituency Members to be declared elected, the deter- mination of the candidate or candidates to be declared elected shall be as follows:
+(3B) Where there is an equality of the percentage of the votes between any candidates and the number of such candidates who are eligible to be declared elected under this section exceeds the number of non-constituency Members to be declared elected, the determination of the candidate or candidates to be declared elected shall be as follows:
 
-(a) if all such candidates are from the same group, the Returning Officer shall inform that group of the number of candidate or candidates in that group to be declared elected and the group shall within 7 days determine among themselves who shall be declared elected and shall forthwith notify the Returning Officer of such determination; or
+(a) if all such candidates are from the same group, the Returning Officer shall inform that group of the number of candidate or candidates in that group to be declared elected and the group shall within 7 days determine among themselves who shall be declared elected and shall immediately notify the Returning Officer of such determination; or
 
 (b) in any other case, or where the group referred to in paragraph (a) fails to notify the Returning Officer, the determination shall be made by lot in the presence of the Returning Officer in such manner and at such time as he may determine.
 

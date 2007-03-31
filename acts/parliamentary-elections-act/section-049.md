@@ -16,15 +16,15 @@ Heading: CONTESTED ELECTIONS
 
 (2A) The Returning Officer shall make arrangements for the counting of votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
-(a) where only one counting place is specified for an electoral division in a direction made under section 48A (1) — after he has received at that counting place all the ballot boxes used during the poll; or
+(a) where only one counting place is specified for an electoral division in a direction made under section 48A (1) — after he has received at that counting place all the ballot boxes used during the poll conducted in Singapore; or
 
-(b) where more than one counting place is specified for an electoral division in a direction made under section 48A (1) —
+(b) where more than one counting place is specified for an electoral division in a direction made under section 48A (1), after —
 
-(i) after the procedure in section 48 has been complied with at the close of the poll if the polling station is a counting place; and
+(i) the procedure in section 48 has been complied with at the close of the poll if the counting place is also a polling station; and
 
-(ii) after the Returning Officer or an Assistant Returning Officer has received at each counting place all the ballot boxes containing the votes cast at such polling station or stations specified in the direction in relation to that counting place.
+(ii) the Assistant Returning Officer in charge of each counting place has received at his counting place all the ballot boxes containing the votes cast at the polling station or stations in Singapore which are specified in the direction to be counted at that counting place, subject to any directions from the Returning Officer to delay or postpone the counting.
 
-[42/96]
+[42/96; 19/2001]
 
 (3) The Returning Officer, his assistants and clerks, and the candidates and their counting agents, but no other persons except with the sanction of the Returning Officer, may be present at the counting of the votes.
 
@@ -34,29 +34,29 @@ Heading: CONTESTED ELECTIONS
 
 (5) The Returning Officer shall so far as practicable proceed continuously with counting the votes and shall endorse ‘‘rejected’’ on any ballot paper which he may reject as invalid.
 
-(6) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate or group of candidates whom they support and shall mark each packet with the name of the candidate or group of candidates and shall seal the packet and retain it unless it is required for the purposes of an election petition.
+(6) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate or group of candidates whom they support and shall mark each packet with the name of the candidate or group of candidates and shall seal the packet and retain it unless it is required for the purposes of an application under section 90.
 
-[10/88]
+[10/88; 42/2005]
 
-(7) Where only one counting place is specified for an electoral division in a direction made under section 48A (1), the Returning Officer shall, when the counting of votes has been completed, forthwith declare the candidate or group of candidates to whom the greatest number of votes is given to be elected; except that upon the application of any candidate or his counting agent, a recount shall be made before the Returning Officer makes the declaration.
+(7) Where only one counting place is specified for an electoral division under section 48A (1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at that sole counting place or, if a recount thereof is allowed under section 49B, after that recount is completed, immediately act as follows:
 
-[10/88; 42/96]
+(a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
-(7A) Where more than one counting place is specified for an electoral division in a direction made under section 48A (1), an Assistant Returning Officer shall, immediately after the counting of votes or, where any candidate or his counting agent applies to the Assistant Returning Officer for a recount, after the recounting of votes, at each counting place for the electoral division —
+(b) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is equal to or more than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the number of votes cast in Singapore in favour of each candidate or (as the case may be) group of candidates at the election, and the date and premises at which the votes cast by the overseas electors will be counted.
+
+[19/2001]
+
+(7A) Where more than one counting place is specified for an electoral division in a direction made under section 48A (1), an Assistant Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 49B, after the recount is completed, at each counting place for the electoral division —
 
 (a) announce to the candidates or their counting agents as attend the number of votes given to each candidate or group of candidates;
 
 (b) prepare a record (referred to in this Act as the record of counting) in a prescribed form containing the number of votes given to each candidate or group of candidates and other results of the counting of votes at his counting place, and certify that record;
 
-(c) transmit to the principal counting place for that electoral division, by any means available, the results of the counting of votes at his counting place;
+(c) transmit to the principal counting place for that electoral division, by any means available, the results of the counting of votes at his counting place; and
 
-(d) seal up in separate packets the ballot papers and all other documents at the counting place relating to the poll, and, except for the sealed packet containing the record of counting, place them in any ballot box which shall then be sealed with his seal and with the seals of such of the candidates or their counting agents as attend and desire to affix their seals, and all ballot papers and documents in the ballot box shall be deemed to be sealed in pursuance of subsection (9);
+(d) seal up in an envelope the record of counting and despatch or deliver the envelope in safe custody to the principal counting place for that electoral division.
 
-(e) despatch or deliver the sealed ballot box referred to in paragraph (d) in safe custody to the Returning Officer; and
-
-(f) despatch or deliver the sealed packet containing the record of counting in safe custody to the principal counting place for that electoral division.
-
-[42/96]
+[42/96; 19/2001]
 
 (7B) Except with the sanction of the Returning Officer, no person other than the following persons may be present at a principal counting place during the addition of votes:
 
@@ -74,21 +74,37 @@ Heading: CONTESTED ELECTIONS
 
 [42/96]
 
-(7E) When the Returning Officer has ascertained the total number of votes given to each candidate or group of candidates under subsection (7D), he shall forthwith declare as having been elected the candidate or group of candidates to whom the greatest total number of votes is given.
+(7E) When the total number of votes cast at polling stations in Singapore for each candidate or (as the case may be) group of candidates at an election in an electoral division is ascertained under subsection (7D), or if a recount thereof is allowed under section 49B, after that recount is completed, the Returning Officer shall immediately act as follows:
 
-[42/96]
+(a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
-(8) When an equality of votes is found to exist between any candidates or groups of candidates, and the addition of a vote would entitle any of the candidates or groups of candidates to be declared elected, the determination of the candidate or group of candidates to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as he may determine.
+(b) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is equal to or more than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the number of votes cast in Singapore in favour of each candidate or (as the case may be) group of candidates at the election, and the date and premises at which the votes cast by the overseas electors will be counted.
 
-[10/88]
+[19/2001]
 
-(9) After the result has been declared by the Returning Officer under subsection (7) or (7E), he shall seal all documents relating to the election as required by this Act and shall, subject to subsection (10), retain the ballot papers and documents for a period of 6 months and thereafter shall cause them to be destroyed unless otherwise directed by order of the President.
+(8) When, after the counting of votes (including any recount allowed under section 49B) is completed, an equality of votes is found to exist between any candidates or groups of candidates, and the addition of a vote would entitle any of the candidates or groups of candidates to be declared elected, the determination of the candidate or group of candidates to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as he may determine.
 
-[42/96]
+[10/88; 19/2001]
+
+(9) After the Returning Officer has made any declaration under subsection (7) or (7E), he shall ensure that the following procedures are complied with at every counting place and principal counting place:
+
+(a) all ballot papers and all other documents relating to the election at every counting place and principal counting place shall be sealed up in separate packets and placed in any ballot box or boxes;
+
+(b) the ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+
+(c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
+
+(d) subject to subsection (10), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+
+(e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
+
+[19/2001]
 
 (10) A Judge of the High Court may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient.
 
-(11) A Judge of the High Court shall not make an order under subsection (10) unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an election petition in connection with the election.
+(11) A Judge of the High Court shall not make an order under subsection (10) unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an application under section 90 in connection with the election.
+
+[42/2005]
 
 (12) Except as provided in this section, no person shall be allowed to inspect any such ballot paper or document after it has been sealed up in pursuance of subsection (9).
 

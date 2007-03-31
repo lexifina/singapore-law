@@ -1,7 +1,7 @@
 # 94. Relief which may be claimed
-Part: PART IV ELECTION PETITIONS
+Part: PART IV APPLICATIONS FOR AVOIDANCE OF ELECTION
 
-All or any of the following relief to which the petitioner may be entitled may be claimed in an election petition:
+All or any of the following reliefs to which the applicant may be entitled may be claimed in an application under section 90:
 
 (a) a declaration that the election is void;
 
@@ -11,4 +11,4 @@ All or any of the following relief to which the petitioner may be entitled may b
 
 (d) where the seat is claimed for an unsuccessful candidate on the ground that he or the group of candidates to which he belongs had a majority of lawful votes, a scrutiny.
 
-[10/88]
+[10/88; 42/2005]

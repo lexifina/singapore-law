@@ -33,7 +33,7 @@ Part: PART III ELECTIONS
 
 [10/88]
 
-(7) Any Committee established under this section shall be guided by the merits of each case without regard to legal forms and techni- calities, or to whether the evidence before it is in accordance with the law of evidence or not.
+(7) Any Committee established under this section shall be guided by the merits of each case without regard to legal forms and technicalities, or to whether the evidence before it is in accordance with the law of evidence or not.
 
 [10/88]
 

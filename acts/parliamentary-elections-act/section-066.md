@@ -2,7 +2,7 @@
 Part: PART III ELECTIONS
 Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
-(1) Every payment made by an election agent in respect of any expenses incurred on account of or in respect of the conduct and management of an election shall, except where less than $10 or where, from the nature of the case, such as travel by rail or postage, a receipt is not obtainable, be vouched for by a bill stating the particulars and by a receipt.
+(1) Every payment made by an election agent in respect of any expenses incurred on account of or in respect of the conduct or management of an election shall, except where less than $10 or where, from the nature of the case, such as travel by rail or postage, a receipt is not obtainable, be vouched for by a bill stating the particulars and by a receipt.
 
 (2) Every claim against a candidate at an election or his election agent in respect of any expenses incurred on account of or in respect of the conduct or management of the election, which is not sent in to the election agent within the time limited by this Act, shall be barred and shall not be paid.
 

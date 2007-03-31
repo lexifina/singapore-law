@@ -2,7 +2,7 @@
 Part: PART III ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, shall, before so attending, make an oath of secrecy, substan- tially in the Form 18 in the First Schedule.
+(1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, shall, before so attending, make an oath of secrecy, substantially in Form 18 in the First Schedule.
 
 (2) The Returning Officer shall have power to administer any oaths required to be taken under subsection (1).
 
@@ -26,6 +26,8 @@ Heading: CONTESTED ELECTIONS
 
 [10/88]
 
-(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before he has placed it in a ballot box.
+(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before he has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to mark or record his vote and before he marks or records his vote at the machine, as the case may be.
+
+[19/2001]
 
 (7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.

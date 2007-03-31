@@ -14,4 +14,4 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (4) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
 
-(5) For the purposes of this section, any person who, on polling day, enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place or work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1) (a) and (b).
+(5) For the purposes of this section, any person who, on polling day, enters or is seen at more than 2 houses or places of work of electors in the same polling district other than his own home or place of work, shall, unless he proves the contrary, be presumed to have committed an offence under subsection (1) (a) and (b).

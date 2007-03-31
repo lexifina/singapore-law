@@ -1,13 +1,35 @@
 # 2. Interpretation
 Part: PART I PRELIMINARY
 
-In this Act, unless the context otherwise requires —
+(1) In this Act, unless the context otherwise requires —
+
+‘‘ballot box’’ includes a ballot container;
+
+‘‘ballot display’’ means an electronic video display, image or representation of a ballot paper on a screen;
 
 ‘‘candidate’’ means a person who is nominated as a candidate for election to any seat in Parliament;
 
 ‘‘Commissioner of National Registration’’ means the Commis- sioner of National Registration appointed under the National Registration Act (Cap. 201);
 
+‘‘direct recording electronic voting machine’’ or ‘‘DRE voting machine’’ means any mechanical, electronic or electro-optical machine that can —
+
+(a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
+
+(b) process the vote by means of a computer program;
+
+(c) instantaneously record and store that vote in a memory device within the machine; and
+
+(d) sort and count votes marked or recorded on all ballot displays on that machine, and includes any computer program that is used in the operation of the machine;
+
+‘‘direct recording electronic voting system’’ or ‘‘DRE voting system’’ means any voting system using DRE voting machines;
+
 ‘‘election’’ means an election for the purpose of electing a Member of Parliament;
+
+‘‘election advertising’’ means any poster, banner, notice, circular, handbill, illustration, article, advertisement or other material that can reasonably be regarded as intended —
+
+(a) to promote or procure the electoral success at any election for one or more identifiable political parties, candidates or groups of candidates; or
+
+(b) to otherwise enhance the standing of any such political parties, candidates or groups of candidates with the electorate in connection with any election, and such material shall be election advertising even though it can reasonably be regarded as intended to achieve any other purpose as well and even though it does not expressly mention the name of any political party or candidate, but excludes any button, badge, pen, pencil, balloon and any other thing prescribed by the Minister by notification in the Gazette;
 
 ‘‘elector’’ means a person whose name is entered in a register as an elector to vote at an election;
 
@@ -21,11 +43,27 @@ In this Act, unless the context otherwise requires —
 
 ‘‘Member’’ means a Member of Parliament;
 
+‘‘overseas elector’’ means an elector who is registered under section 13 or 13A in any register of electors as an overseas elector;
+
+‘‘overseas polling station’’ means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore as the Returning Officer may approve under section 36A (2) to be an overseas polling station;
+
+‘‘overseas registration centre’’ means an overseas registration centre established under section 10 (4);
+
 ‘‘Parliament’’ means the Parliament of Singapore established by the Constitution;
+
+‘‘political party’’ means a political party which is registered under the Societies Act (Cap. 311);
 
 ‘‘polling district’’ means a part of an electoral division subdivided under section 9;
 
+‘‘polling station’’ means any polling station established by or under the authority of the Returning Officer under section 36A for voters to cast their votes at an election, and includes any overseas polling station;
+
+‘‘presidential election’’ means an election under the Presidential Elections Act (Cap. 240A);
+
 ‘‘principal election agent’’ means an election agent of a candidate in a group who has been appointed under section 62 (5) as the principal election agent for that group;
+
+‘‘public authority’’ means any body corporate, board or authority established by or under any written law for the performance of any public function, but excludes any Town Council constituted under the Town Councils Act (Cap. 329A);
+
+‘‘publish’’ means make available to the general public, or any section thereof, in whatever form and by whatever means, including broadcasting (by wireless telegraphy or otherwise) and transmitting on what is commonly known as the Internet;
 
 ‘‘register’’ or ‘‘register of electors’’ means the register of electors for any particular electoral division comprising sections, each of which shall relate to a polling district of that electoral division;
 
@@ -37,4 +75,20 @@ In this Act, unless the context otherwise requires —
 
 ‘‘voter’’ means a person who, whether his name does or does not appear in a register of electors, applies to vote or votes at an election.
 
-[10/88; 9/91; 42/96; 18/99]
+[10/88; 9/91; 42/96; 18/99; 19/2001; 31/2001]
+
+(2) For the purposes of this Act —
+
+(a) the reference to electoral success at any election shall be a reference —
+
+(i) in relation to any political party, to the return at any such election of candidates or groups of candidates standing in the name of the party; and
+
+(ii) in relation to candidates or groups of candidates, to their return at any such election;
+
+(b) the reference to the doing of anything mentioned in paragraph
+
+(a) or (b) of the definition of ‘‘election advertising’’ shall include doing so by prejudicing the electoral prospects at the election of other political parties, candidates or groups of candidates or (as the case may be) by prejudicing the standing with the electorate of other political parties, candidates or groups of candidates; and
+
+(c) the reference to candidates or groups of candidates shall include a reference to any person or group of persons (whether or not a member of any political party) who, on or after the date of the issue of a writ for the election is declared, by himself or others, as seeking nomination as a candidate at that election.
+
+[31/2001; 18/2005; 2/2007]

@@ -2,13 +2,21 @@
 Part: PART III ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) Subject to subsection (1A), no person shall be admitted to vote at any polling station except the polling station allotted to him.
+(1) Subject to subsections (1A) and (2A), no person shall be admitted to vote at any polling station except the polling station allotted to him.
+
+[19/2001]
 
 (1A) Where an elector for any electoral division is employed as a presiding officer, police officer, or in any other official capacity at a polling station within that division, and it is inconvenient for him to vote at the polling station in the division which has been allotted to him, the Returning Officer may authorise the elector, by a certificate under his hand, to vote at any other polling station in the division, and that polling station shall, for the purposes of this section, be deemed to be the polling station allotted to that elector.
 
 (2) The certificate referred to in subsection (1A) shall be given under the hand of the Returning Officer and shall state the name of the elector and his number, description in the register of electors, and the fact that he is so employed as aforesaid.
 
-(3) Unless the Returning Officer, by notification in the Gazette, appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
+(2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A (3).
+
+[19/2001]
+
+(3) Unless the Returning Officer, by notification in the Gazette or under section 50C (3) (b), appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
+
+[19/2001]
 
 (4) The presiding officer shall —
 
