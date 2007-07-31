@@ -11,8 +11,10 @@ Part: PART III THE HIGH COURT General
 
 (i) any proceedings specified in the order which, but for the order, the District Court would not have jurisdiction to hear and determine by reason only of the fact that the amount involved exceeds the monetary limit of its jurisdiction; or
 
-(ii) any proceedings relating to any of the matters referred to in section 17 (a) to (e); and
+(ii) any proceedings relating to any of the matters referred to in section 17 (a) to (e);
 
-(b) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+(b) may make such provision governing appeals relating to proceedings transferred to the District Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
 
-[16/93]
+(c) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+
+[16/93; 36/2004]

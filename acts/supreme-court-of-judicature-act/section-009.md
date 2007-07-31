@@ -7,6 +7,4 @@ The High Court shall consist of —
 
 (b) the Judges of the High Court.
 
-[9A
-
 [16/93]

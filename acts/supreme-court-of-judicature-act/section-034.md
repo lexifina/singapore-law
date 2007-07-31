@@ -21,11 +21,17 @@ Part: PART IVA CIVIL JURISDICTION OF COURT OF APPEAL
 
 (b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
-(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute; or
+(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
 
-(d) an order refusing to strike out an action or a pleading or a part of a pleading.
+(d) an order refusing to strike out an action or a pleading or a part of a pleading; or
 
-[16/93; 43/98]
+(e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
+
+[16/93; 43/98; 36/2004]
+
+(2A) Subsection (2) (a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under section 17A of this Act or under section 59 or Part X of the Women’s Charter.
+
+[36/2004]
 
 (3) The President may, after consulting the Chief Justice, by order published in the Gazette vary the amount mentioned in subsection (2) (a).
 

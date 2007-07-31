@@ -1,7 +1,7 @@
 # 80. Rules of Court Council of Judges
 Part: PART VII MISCELLANEOUS PROVISIONS List of Touts
 
-(1) The Rules Committee constituted under subsection (3) may make Rules of Court regulating and prescribing the procedure (including the method of pleading) and the practice to be followed in the High Court and the Court of Appeal respectively in all causes and matters whatsoever in or with respect to which those courts respec- tively have for the time being jurisdiction (including the procedure and practice to be followed in the Registry of the Supreme Court) and any matters incidental to or relating to any such procedure or practice.
+(1) The Rules Committee constituted under subsection (3) may make Rules of Court regulating and prescribing the procedure (including the method of pleading) and the practice to be followed in the High Court and the Court of Appeal respectively in all causes and matters whatsoever in or with respect to which those courts respectively have for the time being jurisdiction (including the procedure and practice to be followed in the Registry of the Supreme Court) and any matters incidental to or relating to any such procedure or practice.
 
 [16/93]
 
@@ -23,13 +23,13 @@ Part: PART VII MISCELLANEOUS PROVISIONS List of Touts
 
 (i) to be commenced in the High Court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;
 
-(ii) purporting to have been commenced in the High Court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commence- ment; and
+(ii) purporting to have been commenced in the High Court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commencement; and
 
 (iii) commenced or treated as commenced in the High Court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
 
 (h) regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings or on any application in connection with or at any stage of any proceedings;
 
-(i) regulating the joinder of parties and for prescribing in what cases persons absent, but having an interest in a cause or matter, shall be bound by any order made therein, and in what cause or matter orders may be made for the represen- tation of absent persons by one or more parties to a cause or matter;
+(i) regulating the joinder of parties and for prescribing in what cases persons absent, but having an interest in a cause or matter, shall be bound by any order made therein, and in what cause or matter orders may be made for the representation of absent persons by one or more parties to a cause or matter;
 
 (j) regulating the rate of interest payable on all debts, including judgment debts, or on the sums found due on taking accounts between parties, or on sums found due and unpaid by receivers or other persons liable to account to the court, except that in no case shall any rate of interest exceed 8% per annum, unless it has been otherwise agreed between the parties;
 
@@ -43,7 +43,9 @@ Part: PART VII MISCELLANEOUS PROVISIONS List of Touts
 
 (o) prescribing in what cases and on what conditions a court may act upon the certificate of accountants, actuaries or other scientific persons;
 
-(p) prescribing the duties of the Accountant in respect of funds or property in the custody of the court, and in particular prescribing the mode of transfer of securities into the name of the Accountant, and the method of investment of any such funds, and the rate of interest to be charged thereon, and the manner in which unclaimed funds may be dealt with; and
+(p) prescribing the duties of the Accountant in respect of funds or property in the custody of the court, and in particular prescribing the mode of transfer of securities into the name of the Accountant, and the method of investment of any such funds, and the rate of interest to be charged thereon, and the manner in which unclaimed funds may be dealt with;
+
+and
 
 (q) amending, altering or adding to the forms set out in any written law relating to criminal procedure.
 

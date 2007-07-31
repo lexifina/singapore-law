@@ -1,4 +1,4 @@
-# 43. (Constitution of Court of Criminal Appeal — Repealed by Act 16/93)
+# 43. (Repealed)
 Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
 
-(Repealed by Act 16/93).
+(Repealed by Act 16 of 1993)

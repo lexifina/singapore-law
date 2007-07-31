@@ -5,7 +5,7 @@ Part: PART IVA CIVIL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(2) In any such case as is referred to in subsection (1), the appeal shall be decided in accordance with the opinion of the majority of the remaining Judges of Appeal of such Court, and, if there is no such majority, the decision appealed against shall stand.
+(2) In any such case as is referred to in subsection (1), the appeal shall be decided in accordance with the opinion of the majority of the remaining Judges of Appeal of such Court, and if there is no such majority, the decision appealed against shall stand.
 
 [16/93]
 

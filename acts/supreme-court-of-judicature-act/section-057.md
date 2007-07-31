@@ -9,7 +9,7 @@ Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(3) Upon the withdrawal or discontinuance of any appeal, the Registrar shall notify the trial court accordingly and, if any stay of execution has been granted, the sentence or order of the trial court shall forthwith be enforced.
+(3) Upon the withdrawal or discontinuance of any appeal, the Registrar shall notify the trial court accordingly and, if any stay of execution has been granted, the sentence or order of the trial court shall immediately be enforced.
 
 (4) Nothing in subsection (3) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
 

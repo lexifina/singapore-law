@@ -15,7 +15,7 @@ Part: PART IV THE COURT OF APPEAL
 
 (3) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of, or shall determine any application in proceedings incidental or preliminary to —
 
-(a) an appeal from a judgment or order made by him;
+(a) an appeal from a judgment or an order made by him;
 
 (b) an appeal against a conviction before him or a sentence passed by him; or
 

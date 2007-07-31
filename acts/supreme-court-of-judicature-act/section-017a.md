@@ -5,7 +5,9 @@ Part: PART III THE HIGH COURT General
 
 [20/99]
 
-(2) Notwithstanding that such matters come within the jurisdiction of the Syariah Court under section 35 (2) (d) or (e), 51 or 52 (3) (c) or (d) of the Administration of Muslim Law Act (Cap. 3), the High Court shall have jurisdiction as is vested in it by any written law to hear and try any civil proceedings involving matters relating to —
+(2) Notwithstanding that such matters come within the jurisdiction of the Syariah Court under section 35 (2) (d) or (e), 51 or 52 (3) (c) or
+
+(d) of the Administration of Muslim Law Act, the High Court shall have jurisdiction as is vested in it by any written law to hear and try any civil proceedings involving matters relating to —
 
 (a) maintenance for any wife or child;
 
@@ -17,9 +19,9 @@ Part: PART III THE HIGH COURT General
 
 (3) Where civil proceedings involving any matter referred to in subsection (2) (b) or (c) and involving parties who are Muslims or were married under the provisions of the Muslim law are commenced in the High Court, the High Court shall stay the civil proceedings —
 
-(a) involving any matter referred to in subsection (2) (b) or (c), if the civil proceedings are commenced on or after the commencement of proceedings for divorce in the Syariah Court or after the making of a decree or order for divorce by the Syariah Court or on or after the registration of any divorce under section 102 of the Administration of Muslim Law Act between the same parties, unless a Syariah Court commencement certificate in respect of the civil proceedings has been filed with the High Court;
+(a) involving any matter referred to in subsection (2) (b) or (c), if the civil proceedings are commenced on or after the commencement of proceedings for divorce in the Syariah Court or after the making of a decree or order for divorce by the Syariah Court or on or after the registration of any divorce under section 102 of the Administration of Muslim Law Act (Cap. 3) between the same parties, unless a Syariah Court commencement certificate in respect of the civil proceedings has been filed with the High Court;
 
-(b) involving any matter referred to in subsection (2) (b), if proceedings for divorce are commenced in the Syariah Court or a decree or order for divorce is made by the Syariah Court or a divorce is registered under section 102 of the Adminis- tration of Muslim Law Act between the same parties after the commencement of the civil proceedings, unless a Syariah Court continuation certificate in respect of the civil proceedings has been filed with the High Court.
+(b) involving any matter referred to in subsection (2) (b), if proceedings for divorce are commenced in the Syariah Court or a decree or order for divorce is made by the Syariah Court or a divorce is registered under section 102 of the Administration of Muslim Law Act between the same parties after the commencement of the civil proceedings, unless a Syariah Court continuation certificate in respect of the civil proceedings has been filed with the High Court.
 
 [20/99]
 
@@ -27,11 +29,11 @@ Part: PART III THE HIGH COURT General
 
 [20/99]
 
-(5) Subsection (3) (a) shall not apply if the civil proceedings referred to therein are commenced in the High Court by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A (7) of the Administration of Muslim Law Act (Cap. 3) have been filed in accordance with Rules of Court.
+(5) Subsection (3) (a) shall not apply if the civil proceedings referred to therein are commenced in the High Court by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A (7) of the Administration of Muslim Law Act have been filed in accordance with Rules of Court.
 
 [20/99]
 
-(6) Subsection (3) (b) shall not apply if the civil proceedings referred to therein are continued by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A (7) of the Administration of Muslim Law Act have been filed in accordance with Rules of Court.
+(6) Subsection (3) (b) shall not apply if the civil proceedings referred to therein are continued by the consent of the parties to the proceedings and the certificates of attendance of the parties issued under section 35A (7) of the Administration of Muslim Law Act (Cap. 3) have been filed in accordance with Rules of Court.
 
 [20/99]
 
@@ -47,7 +49,7 @@ Part: PART III THE HIGH COURT General
 
 ‘‘Syariah Court’’ means the Syariah Court constituted under the Administration of Muslim Law Act;
 
-‘‘Syariah Court commencement certificate’’ means a commence- ment certificate issued by the Syariah Court under section 35A (4) of the Administration of Muslim Law Act;
+‘‘Syariah Court commencement certificate’’ means a commencement certificate issued by the Syariah Court under section 35A (4) of the Administration of Muslim Law Act;
 
 ‘‘Syariah Court continuation certificate’’ means a continuation certificate issued by the Syariah Court under section 35A (4) of the Administration of Muslim Law Act.
 

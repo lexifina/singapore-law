@@ -4,7 +4,7 @@ Section 69
 
 1. OATH OF OFFICE OF THE REGISTRAR, DEPUTY REGISTRAR OR ASSISTANT REGISTRAR
 
-I, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or illwill to the best of my ability and I will be faithful and bear true allegiance to the Republic of Singapore.
+I, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability and I will be faithful and bear true allegiance to the Republic of Singapore.
 
 Taken and subscribed before me at this day of .
 
@@ -12,15 +12,11 @@ Officer Administering the Oath
 
 2. OATH OF OFFICE OF AN INTERPRETER
 
-I, , having been appointed an Interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or illwill.
+I, , having been appointed an Interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
 
 Taken and subscribed before me at this day of .
 
 Officer Administering the Oath
-
-[16/93]
-
-SECOND SCHEDULE — continued
 
 3. OATH OF OFFICE OF OTHER OFFICER OF THE SUPREME COURT
 
@@ -29,3 +25,5 @@ I, , having been appointed to the office of in the Supreme Court do solemnly and
 Taken and subscribed before me at this day of .
 
 Officer Administering the Oath.
+
+[16/93]

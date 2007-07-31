@@ -4,19 +4,27 @@ Section 18 (2)
 
 ADDITIONAL POWERS OF THE HIGH COURT
 
-Prerogative writs 1. Power to issue to any person or authority directions, orders or writs, including writs of the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any others, for the enforcement of any of the rights conferred by any written law or for any purpose.
+Prerogative orders 1. Power to issue to any person or authority any direction, order or writ for the enforcement of any right conferred by any written law or for any other purpose, including the following prerogative orders:
+
+(a) a Mandatory Order (formerly known as mandamus);
+
+(b) a Prohibiting Order (formerly known as a prohibition);
+
+(c) a Quashing Order (formerly known as certiorari); and
+
+(d) an Order for Review of Detention (formerly known as a writ of habeas corpus).
 
 Partition and sale in lieu of partition 2. Power to partition land and to direct a sale instead of partition in any action for partition of land; and in any cause or matter relating to land, where it appears necessary or expedient, to order the land or any part of it to be sold, and to give all necessary and consequential directions.
 
 Charge or mortgage in lieu of sale of land 3. Power to order land to be charged or mortgaged, as the case may be, in any case in which there is jurisdiction to order a sale.
 
-FIRST SCHEDULE — continued
-
 Interpleader 4. Power to grant relief by way of interpleader —
 
 (a) where the person seeking relief is under liability for any debt, money, or goods or chattels, for or in respect of which he has been or expects to be, sued by 2 or more parties making adverse claims thereon; and
 
-(b) where a Sheriff, bailiff or other officer of court is charged with the execution of process of court, and claim is made to any money or goods or chattels taken or intended to be taken in execution under any process, or to the proceeds or value of any such goods or chattels by any person other than the person against whom the process is issued, and to order the sale of any property subject to interpleader proceedings.
+(b) where a Sheriff, bailiff or other officer of court is charged with the execution of process of court, and claim is made to any money or goods FIRST SCHEDULE — continued
+
+or chattels taken or intended to be taken in execution under any process, or to the proceeds or value of any such goods or chattels by any person other than the person against whom the process is issued, and to order the sale of any property subject to interpleader proceedings.
 
 Preservation of subject-matter, evidence and assets to satisfy judgment 5. Power before or after any proceedings are commenced to provide for —
 
@@ -32,11 +40,11 @@ Time 7. Power to enlarge or abridge the time prescribed by any written law for d
 
 Enforcement of judgment 8. Power to enforce a judgment of the court in any manner which may be prescribed by any written law or by Rules of Court made under this Act.
 
-Stay of proceedings 9. Power to dismiss or stay proceedings where the matter in question is res judicata between the parties, or where by reason of multiplicity of proceedings in FIRST SCHEDULE — continued
-
-any court or courts or by reason of a court in Singapore not being the appropriate forum the proceedings ought not to be continued.
+Stay of proceedings 9. Power to dismiss or stay proceedings where the matter in question is res judicata between the parties, or where by reason of multiplicity of proceedings in any court or courts or by reason of a court in Singapore not being the appropriate forum the proceedings ought not to be continued.
 
 Transfer of proceedings 10. Power to transfer any proceedings to any other court or to or from any subordinate court, and in the case of transfer to or from a subordinate court to give any directions as to the further conduct thereof, except that this power shall be exercised in such manner as may be prescribed by Rules of Court.
+
+FIRST SCHEDULE — continued
 
 Set-off 11. Power to allow a defence of set-off.
 
@@ -54,8 +62,6 @@ Periodic payments 17. Power to order damages assessed in any action for personal
 
 Attaching deposits 18. Power to attach deposits with a financial institution whether or not the deposits have matured and notwithstanding any restriction as to the mode of withdrawal.
 
-FIRST SCHEDULE — continued
-
 Ordering medical examination 19. Power to order medical examination of a person who is a party to any proceedings where the physical or mental condition of the person is relevant to any matter in question in the proceedings.
 
-[16/93]
+[16/93; 42/2005]

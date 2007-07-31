@@ -11,7 +11,7 @@ Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 [16/93]
 
-(4) If a petition is not filed within the time prescribed by this section the appeal shall be deemed to have been withdrawn.
+(4) If a petition is not filed within the time prescribed by this section, the appeal shall be deemed to have been withdrawn.
 
 (5) Nothing in subsection (4) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
 
