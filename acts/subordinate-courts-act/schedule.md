@@ -6,7 +6,7 @@ FORMS OF OATHS AND AFFIRMATIONS
 
 1. OATHS OF OFFICE AND ALLEGIANCE OF A JUDICIAL OFFICER
 
-I, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or illwill to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.
+I, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill-will to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.
 
 Taken and subscribed before me at this day of .
 
@@ -14,7 +14,7 @@ Officer Administering the Oath THE SCHEDULE — continued
 
 2. OATH OF OFFICE OF AN INTERPRETER
 
-I, , having been appointed an interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or illwill.
+I, , having been appointed an interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or ill-will.
 
 Taken and subscribed before me at this day of .
 

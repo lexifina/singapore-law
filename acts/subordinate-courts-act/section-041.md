@@ -7,6 +7,4 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
 (2) Any order under subsection (1) may make such incidental provision for the transfer of the proceedings to the High Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
-[41A
-
 [15/93]

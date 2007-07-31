@@ -13,7 +13,7 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
 [15/93]
 
-(4) The court shall cause the special case to be transmitted to the High Court and the High Court shall hear and determine the consti- tutional question arising out of the case in the exercise of its original jurisdiction.
+(4) The court shall cause the special case to be transmitted to the High Court and the High Court shall hear and determine the constitutional question arising out of the case in the exercise of its original jurisdiction.
 
 [15/93]
 

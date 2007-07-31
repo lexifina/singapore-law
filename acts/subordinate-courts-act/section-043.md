@@ -3,7 +3,7 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
 (1) Where a judgment is given or an order is made by a District Court under which any sum of money is payable, whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise, the Court may, as it thinks fit, order the money to be paid either —
 
-(a) in one sum, whether forthwith or within such period as the Court may fix; or
+(a) in one sum, whether immediately or within such period as the Court may fix; or
 
 (b) by such instalments payable at such times as the Court may fix.
 

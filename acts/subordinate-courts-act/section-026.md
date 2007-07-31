@@ -13,8 +13,8 @@ A District Court shall have all the jurisdiction of the High Court to hear and t
 
 (e) proceedings relating to the maintenance or advancement of an infant, where the amount or value of the property of the infant does not exceed the District Court limit;
 
-(f) proceedings for the dissolution or winding up of any partnership, whether or not the existence of the partnership is in dispute, where the amount or value of all the assets of the partnership does not exceed the District Court limit;
+(f) proceedings for the dissolution or winding up of any partnership (other than a limited liability partnership registered under the Limited Liability Partnerships Act 2005), whether or not the existence of the partnership is in dispute, where the amount or value of all the assets of the partnership does not exceed the District Court limit;
 
 (g) proceedings for relief against fraud or mistake where the damage sustained or the amount or value of the estate or fund in respect of which relief is sought does not exceed the District Court limit.
 
-[15/93]
+[15/93; 5/2005]

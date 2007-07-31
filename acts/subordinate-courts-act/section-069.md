@@ -33,7 +33,9 @@ Part: PART V ADMINISTRATION
 
 (i) to be commenced in a subordinate court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;
 
-(ii) purporting to have been commenced in a subordinate court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commencement; and
+(ii) purporting to have been commenced in a subordinate court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commencement;
+
+and
 
 (iii) commenced or treated as commenced in a subordinate court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
 

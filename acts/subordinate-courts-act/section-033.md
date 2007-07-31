@@ -15,6 +15,4 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
 (4) Where any person is proposed to be summoned as an assessor, objection to him, either personally or in respect of his qualification, may be taken by any party in the prescribed manner.
 
-[33A
-
 [15/93]

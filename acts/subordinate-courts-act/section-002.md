@@ -15,7 +15,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘judicial officer’’ means a District Judge, Magistrate, Coroner or registrar;
 
-† ‘‘Magistrate’s Court limit’’ means $60,000 or such other amount as may be specified by an order under section 52 (3);
+‘‘Magistrate’s Court limit’’ means $60,000† or such other amount as may be specified by an order under section 52 (3);
 
 ‘‘prescribed’’ means prescribed by Rules of Court;
 
@@ -28,7 +28,3 @@ In this Act, unless the context otherwise requires —
 ‘‘seal’’ includes stamp.
 
 [34/73; 15/93]
-
-*O 1 (S 333/97) — Subordinate Courts (Variation of District Court Limit) Order.
-
-†S 263/99 — Subordinate Courts (Variation of Magistrate’s Court Limit) Order 1999.

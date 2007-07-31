@@ -1,7 +1,7 @@
 # 51. Criminal jurisdiction of Magistrates’ Courts
 Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
-(1) Subject to subsection (2), a Magistrate’s Court shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code and any other written law.
+(1) Subject to subsection (2), a Magistrate’s Court shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code (Cap. 68) and any other written law.
 
 [15/93]
 

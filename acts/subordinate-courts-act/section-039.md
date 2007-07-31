@@ -31,6 +31,4 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
 (6) This section shall not affect any question as to costs if it appears to the High Court that there was reasonable ground for supposing the amount recoverable in respect of the plaintiff’s claim to be in excess of the amount recoverable in an action commenced in a subordinate court.
 
-[40
-
 [15/93]

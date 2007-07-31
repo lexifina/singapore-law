@@ -5,7 +5,7 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 
 (a) grant such relief, redress or remedy or combination of remedies, either absolute or conditional; and
 
-(b) give such and the like effect to every ground of defence or counterclaim equitable or legal (subject to section 24), as ought to be granted or given in the like action by the High Court and in as full and ample a manner.
+(b) give such and the like effect to every ground of defence or counterclaim equitable or legal, as ought to be granted or given in the like action by the High Court and in as full and ample a manner.
 
 [15/93]
 
@@ -14,7 +14,5 @@ Part: PART IV JURISDICTION Civil Jurisdiction of District Courts
 (a) to grant an injunction whether or not any other relief is or could be claimed; and
 
 (b) to make binding declarations of rights whether or not any consequential relief is or could be claimed.
-
-[32
 
 [15/93]
