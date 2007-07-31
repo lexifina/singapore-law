@@ -1,0 +1,19 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+PAYMENT SYSTEMS (OVERSIGHT) ACT
+(CHAPTER 222A)
+Act
+1 of 2006
+REVISED EDITION 2007
+(31st July 2007)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2007
+
+
+
+An Act to provide for the oversight of payment systems and stored value facilities, and for matters connected therewith.
+
+[23rd June 2006]
