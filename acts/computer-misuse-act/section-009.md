@@ -1,0 +1,22 @@
+# 9. Enhanced punishment for offences involving protected computers
+Part: PART II OFFENCES
+
+(1) Where access to any protected computer is obtained in the course of the commission of an offence under section 3, 5, 6 or 7, the person convicted of such an offence shall, in lieu of the punishment prescribed in those sections, be liable to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 20 years or to both.
+
+[21/98]
+
+(2) For the purposes of subsection (1), a computer shall be treated as a ‘‘protected computer’’ if the person committing the offence knew, or ought reasonably to have known, that the computer or program or data is used directly in connection with or necessary for —
+
+(a) the security, defence or international relations of Singapore;
+
+(b) the existence or identity of a confidential source of information relating to the enforcement of a criminal law;
+
+(c) the provision of services directly related to communications infrastructure, banking and financial services, public utilities, public transportation or public key infrastructure; or
+
+(d) the protection of public safety including systems related to essential emergency services such as police, civil defence and medical services.
+
+[21/98]
+
+(3) For the purposes of any prosecution under this section, it shall be presumed, until the contrary is proved, that the accused has the requisite knowledge referred to in subsection (2) if there is, in respect of the computer, program or data, an electronic or other warning exhibited to the accused stating that unauthorised access to that computer, program or data attracts an enhanced penalty under this section.
+
+[21/98]
