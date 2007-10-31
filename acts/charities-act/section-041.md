@@ -1,0 +1,10 @@
+# 41. Manner of giving notice of charity meetings, etc.
+Part: PART IX MISCELLANEOUS
+
+(1) All notices which are required or authorised by the trusts of a charity to be given to a charity trustee, member or subscriber may be sent by post, and, if sent by post, may be addressed to any address given as his in the list of charity trustees, members or subscribers for the time being in use at the office or principal office of the charity.
+
+(2) Where any such notice required to be given under subsection (1) is given by post, it shall be deemed to have been given by the time at which the letter containing it would be delivered in the ordinary course of post.
+
+(3) No notice required to be given under subsection (1) of any meeting or election need be given to any charity trustee, member or subscriber, if in the list of charity trustees, members or subscribers he has no address in Singapore.
+
+[Charities Act 1985 Ed., s. 21]
