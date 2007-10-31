@@ -1,0 +1,8 @@
+# 1. Short title
+Part: PART I PRELIMINARY
+
+This Act may be cited as the Casino Control Act.
+
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience of users and are not part of the Act:
+
+Vic. CCA 1991 : Australian, Victoria, Casino Control Act 1991 (Act No. 47 of 1991) Vic. Gam. RA 2003 : Australian, Victoria, Gambling Regulation Act 2003 (Act No. 114 of 2003) NSW CCA 1992 : Australia, New South Wales, Casino Control Act 1992 (Act 15 of 1992) SA Problem Gambling 2004 : Australia, South Australia, Problem Gambling Family Protection Orders Act 2004 (Act No. 10 of 2004) Nevada Revised Statutes : United States, Nevada, Nevada Gambling Control Act (Chapter 463) Banking Act : Singapore, Banking Act (Chapter 19, 2003 Revised Edition) Competition Act : Singapore, Competition Act 2004 (Act 46 of 2004) EDA : Singapore, Entertainments Duty Act (Chapter 94, 1985 Revised Edition) Land Acquisition Act : Singapore, Land Acquisition Act (Chapter 152, 1985 Revised Edition) Maint. Parents Act : Singapore, Maintenance of Parents Act (Chapter 167B, 1996 Revised Edition) Maint. Religious Harmony Act : Singapore, Maintenance of Religious Harmony Act (Cap. 167A, 2001 Revised Edition) Misuse of Drugs Act : Singapore, Misuse of Drugs Act (Chapter 185, 2001 Revised Edition) Telcom. Act : Singapore, Telecommunications Act (Cap. 323, 2000 Revised Edition) PEM(DR)R : Singapore, Public Entertainments and Meetings (Demerit Points) Rules (Chapter 257, 2002 Revised Edition, R2)
