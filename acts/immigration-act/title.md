@@ -1,0 +1,35 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+IMMIGRATION ACT
+(CHAPTER 133)
+M Ordinance
+12 of 1959
+Amended by
+M 6 of 1961
+M 27 of 1963
+73 of 1960
+1 of 1966
+12 of 1970
+S 145/66
+1970 Ed. Cap. 81 1985 Ed. Cap. 133 1995 Ed. Cap. 133 1997 Ed. Cap. 133
+Amended by Amended by Amended by Amended by
+21 of 1973 6 of 1989 41 of 1995 34 of 1998
+60 of 1973 34 of 1989 S 227/95 4 of 2003
+13 of 1977 38 of 1993 53 of 2004
+35 of 1984 S 22/89 42 of 2005
+S 353/75 2 of 2007
+S 68/76 30 of 2007
+33 of 2007
+REVISED EDITION 2008
+(1st January 2008)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2008
+
+
+
+An Act relating to immigration into, and departure from, Singapore.
+
+[16th September 1963]
