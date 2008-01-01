@@ -1,12 +1,13 @@
-# 82. Cases stated for High Court … … … … … … 304
+# 82. Cases stated for High Court … … … … … … 406
 Part: PART XVIII APPEALS
-Heading: Section Pages
 
 (1) The Board may at any time and in regard to any appeal, with or without proceeding to the determination of the appeal, state a case on a question of law for the opinion of the High Court.
 
 (2) A stated case shall set forth the facts and any finding of fact by the Board, the decision, if any, of the Board, and the question for the opinion of the High Court, and shall be signed by the officiating chairman or, in his absence, by any other member attending the sitting at which the appeal was heard.
 
-(3) The clerk shall transmit the case, when stated and signed as aforesaid, to the High Court, and shall forward a copy thereof to the appellant and to the Comptroller.
+(3) The secretary shall transmit the case, when stated and signed as aforesaid, to the High Court, and shall forward a copy thereof to the appellant and to the Comptroller.
+
+[53/2007]
 
 (4) The High Court may cause a stated case to be sent back for amendment and thereupon the case shall be amended accordingly.
 

@@ -1,6 +1,5 @@
-# 45E. Application of section 45 to withdrawals by non-citizen SRS members, etc. … … … … … … … … … 264
-Part: PART XII DEDUCTION OF TAX AT SOURCE
-Heading: Section Pages
+# 45E. Application of section 45 to withdrawals by non-citizen SRS members, etc. … … … … … … … … … 359
+Part: PART XII DEDUCTION OF TAX AT SOURCE Section Pages
 
 (1) Subject to subsection (2), section 45 shall apply in relation to —
 

@@ -1,8 +1,11 @@
-# 19B. Writing-down allowances for intellectual property rights … 154
+# 19B. Writing-down allowances for intellectual property rights … 206
 Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
 
-(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
+(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of
+
+*This subsection will be deleted by section 16 (e) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
+
+5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
 
 [24/2001; 21/2003]
 
@@ -17,6 +20,10 @@ Heading: Section Pages
 (b) the claim is made by the company in such manner and subject to such conditions as the Comptroller may require.
 
 [21/2003]
+
+(2B) The Minister or such person as he may appoint may in any particular case waive the requirement under subsection (2A) in respect of any intellectual property rights acquired on or after 17th February 2006, subject to such conditions as he may impose.
+
+[7/2007]
 
 (3) Any capital expenditure incurred on the acquisition of any intellectual property rights by a company before the commencement of its trade or business shall be treated for the purpose of this section as if it had been incurred by it on the first day it commences that trade or business.
 
@@ -42,6 +49,14 @@ B is the total amount of any charges made under this section in any previous yea
 
 [24/2001; 21/2003]
 
+(6A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade or business, in which the intellectual property rights are used, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
+(6B) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the trade or business, in which the intellectual property rights are used, produces income that is exempt from tax as well as income chargeable with tax, and any charge under subsection (4) or (5) arises to be made, such proportion of that charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
 (7) For the purpose of this section, any sale, transfer or assignment of any intellectual property rights which occurs after the date on which the trade or business of a company permanently ceases shall be deemed to have occurred immediately before the cessation.
 
 [24/2001; 21/2003]
@@ -54,9 +69,9 @@ B is the total amount of any charges made under this section in any previous yea
 
 [21/2003]
 
-(10) No writing-down allowance under subsection (1) shall be made for any capital expenditure incurred by any company after 31st October 2008.
+(10) No writing-down allowance under subsection (1) shall be made for any capital expenditure incurred in respect of intellectual property rights acquired after 31st October 2013.
 
-[21/2003]
+[7/2007; 53/2007]
 
 (11) In this section —
 

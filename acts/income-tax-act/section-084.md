@@ -1,6 +1,5 @@
-# 84. Assessments to be final and conclusive … … … … 306
+# 84. Assessments to be final and conclusive … … … … 407
 Part: PART XVIII APPEALS
-Heading: Section Pages
 
 (1) Except as expressly provided in this Act, where no valid notice of appeal has been lodged within the time limited by this Part against an assessment, or where an assessment has been determined on appeal, the assessment as made or agreed to under section 76 (6), or determined on appeal, as the case may be, shall be final and conclusive for the purposes of this Act.
 

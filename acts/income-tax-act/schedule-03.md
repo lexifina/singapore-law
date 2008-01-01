@@ -1,8 +1,6 @@
 # THIRD SCHEDULE
 
-(Repealed by Act 2/86)
-
-FOURTH SCHEDULE
+(Repealed by Act 2/86) FOURTH SCHEDULE
 
 Sections 47 (1) and 106 (3)
 

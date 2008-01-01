@@ -1,4 +1,4 @@
-# 89. Suit for tax by Comptroller … … … … … … 309
+# 89. Suit for tax by Comptroller … … … … … … 410
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under sections 44, 44A and 45, may be sued for by way of a specially endorsed writ of summons.

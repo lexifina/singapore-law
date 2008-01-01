@@ -1,4 +1,4 @@
-# 43P. Concessionary rate of tax for global trading company … … 249
+# 43P. Concessionary rate of tax for global trading company … … 337
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 

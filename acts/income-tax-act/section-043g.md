@@ -1,4 +1,4 @@
-# 43G. Concessionary rate of tax for Finance and Treasury Centre … 241
+# 43G. Concessionary rate of tax for Finance and Treasury Centre … 329
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
@@ -6,9 +6,15 @@ Heading: Section Pages
 
 (a) the operation of its approved Finance and Treasury Centre in respect of such qualifying activities carried out on its own account as may be prescribed; or
 
-(b) such prescribed qualifying services as may be provided by its approved Finance and Treasury Centre to its offices and associated companies where such offices and associated companies are outside Singapore, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (3).
+(b) such prescribed qualifying services as may be provided by its approved Finance and Treasury Centre to —
 
-[20/91]
+(i) its offices and associated companies outside Singapore;
+
+or
+
+(ii) such of its offices and associated companies in Singapore as are approved on or after 18th February 2005, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (3).
+
+[20/91; 34/2005]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved Finance and Treasury Centre —
 
@@ -16,7 +22,7 @@ Heading: Section Pages
 
 (b) in respect of any qualifying activity only where the qualifying activity has been approved in relation to that Centre for such concessionary rate; and
 
-(c) subject to such conditions as the Minister or such person appointed by him may impose.
+(c) subject to such conditions as the Minister or such person as he may appoint may impose.
 
 (3) In this section —
 
@@ -28,10 +34,14 @@ Heading: Section Pages
 
 (c) the operations of which are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of the company with the approved Centre;
 
-‘‘Finance and Treasury Centre’’ means a division or department of a company which provides treasury, investment or financial services in Singapore for its offices outside Singapore or its associated companies outside Singapore.
+‘‘Finance and Treasury Centre’’ means a division or department of a company which provides treasury, investment or financial services in Singapore for its offices or its associated companies.
+
+[34/2005]
 
 (4) For the purposes of subsection (3), a company shall be deemed to be an associated company in relation to a company with an approved Finance and Treasury Centre if —
 
-(a) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the company with the approved Centre; or
+(a) at least 25% of the total number of its issued shares are beneficially owned, directly or indirectly, by the company with the approved Centre; or
 
-(b) at least 25% of the issued capital of the company with the approved Centre is beneficially owned, directly or indirectly, by the first-mentioned company.
+(b) at least 25% of the total number of issued shares of the company with the approved Centre are beneficially owned, directly or indirectly, by the first-mentioned company.
+
+[34/2005]

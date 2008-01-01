@@ -1,8 +1,7 @@
-# 19D. Writing-down allowance for IRU … … … … … 159
+# 19D. Writing-down allowance for IRU … … … … … 212
 Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
 
-(1) Subject to this section, where a person carrying on a trade, business or profession has incurred capital expenditure during or after the basis period for the year of assessment 2004 for the acquisition of an indefeasible right to use any international telecommunications submarine cable system (referred to in this section as Indefeasible Right of Use or IRU) for the purposes of that trade, business or profession (referred to in this section as the relevant trade, business or profession), writing-down allowances computed in accordance with subsection (3) shall be made to him, on due claim, in respect of that capital expenditure during the writing-down period.
+(1) Subject to this section, where a person carrying on a trade, business or profession has incurred capital expenditure during or after the basis period for the year of assessment 2004 for the acquisition of an indefeasible right to use any international telecom- munications submarine cable system (referred to in this section as Indefeasible Right of Use or IRU) for the purposes of that trade, business or profession (referred to in this section as the relevant trade, business or profession), writing-down allowances computed in accordance with subsection (3) shall be made to him, on due claim, in respect of that capital expenditure during the writing-down period.
 
 [21/2003]
 
@@ -82,7 +81,19 @@ E is the number of complete years of the writing-down period remaining at the be
 
 [21/2003]
 
-(13) In this section —
+(13) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the relevant trade, business or profession produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income in that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
+(14) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the relevant trade, business or profession produces income that is exempt from tax as well as income chargeable with tax, and any balancing allowance or balancing charge arises to be made —
+
+(a) the balancing allowance shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances; and
+
+(b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
+(15) In this section —
 
 ‘‘capital expenditure’’ does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any IRU;
 
@@ -102,6 +113,6 @@ E is the number of complete years of the writing-down period remaining at the be
 
 [21/2003]
 
-(14) For the purposes of this section, any sale, transfer or assignment of any IRU which occurs after the date on which a relevant trade, business or profession permanently ceases shall be deemed to have occurred immediately before the cessation.
+(16) For the purposes of this section, any sale, transfer or assignment of any IRU which occurs after the date on which a relevant trade, business or profession permanently ceases shall be deemed to have occurred immediately before the cessation.
 
 [21/2003]

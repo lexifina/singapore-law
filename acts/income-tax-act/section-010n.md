@@ -1,4 +1,4 @@
-# 10N. Securities lending or repurchase arrangement … … … 52
+# 10N. Securities lending or repurchase arrangement … … … 62
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -68,7 +68,9 @@ Heading: Section Pages
 
 (9) Section 45 shall apply in relation to —
 
-(a) any distribution of interest (other than interest derived from qualifying debt securities) in respect of transferred securities; and
+(a) any distribution of interest (other than interest derived from qualifying debt securities) in respect of transferred securities;
+
+and
 
 (b) any compensatory payment in place of —
 
@@ -112,7 +114,7 @@ Heading: Section Pages
 
 ‘‘compensatory payment’’, in relation to any transferred securities, means a payment made during the borrowing period to a transferor in place of any distribution of interest, dividend or right to purchase warrants, options or additional securities in respect of the transferred securities under circumstances in which the transferee does not receive such distribution to be passed on to the transferor, and includes any amount which is in place of interest and is deducted from the price paid by the transferor to acquire equivalent securities or re-acquire the transferred securities under a buy and sell back arrangement in respect of qualifying debt securities, Singapore Government securities or foreign debt securities;
 
-‘‘equivalent securities’’, in relation to any transferred securities, means securities which are identical in type, nominal value, description and amount to the transferred securities and includes —
+‘‘equivalent securities’’, in relation to any transferred securities, means securities which are identical in type, nominal value (where applicable), description and amount to the transferred securities and includes —
 
 (a) the securities into which the transferred securities have been converted, sub-divided or consolidated;
 
@@ -148,9 +150,7 @@ Heading: Section Pages
 
 (iv) the transferor does not dispose of (by transfer, declaration of trust or otherwise) the right to receive any part of the total consideration payable or to be given by the transferee under the arrangement; and
 
-(v) if any distribution is made in respect of the transferred securities during the borrowing period, the transferor receives from the transferee the distribution or compensatory payment equal to the value of the distribution;
-
-and
+(v) if any distribution is made in respect of the transferred securities during the borrowing period, the transferor receives from the transferee the distribution or compensatory payment equal to the value of the distribution; and
 
 (b) where —
 
@@ -162,7 +162,7 @@ and
 
 ‘‘Singapore Government securities’’ and ‘‘debt securities’’ have the same meanings as in section 43N.
 
-[37/2002]
+[37/2002; 34/2005]
 
 (13) This section has effect notwithstanding anything to the contrary in this Act, except that nothing in this section shall affect the chargeability to tax of any income of a transferor or transferee under section 10 unless otherwise provided in this section.
 

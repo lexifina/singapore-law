@@ -1,4 +1,4 @@
-# 13F. Exemption of international shipping profits … … … 81
+# 13F. Exemption of international shipping profits … … … 106
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) Subject to subsection (2), there shall be exempt from tax the income of an approved international shipping enterprise derived —
@@ -7,31 +7,29 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (i) the carriage of passengers, mails, livestock or goods from outside the limits of the port of Singapore by any foreign ship;
 
-(ii) the charter of any foreign ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where such ship is used by that person or enterprise for the carriage of passengers, mails, livestock or goods outside the limits of the port of Singapore; and
+(ii) the charter of any foreign ship to any person where such ship is used by the person for the carriage of passengers, mails, livestock or goods outside the limits of the port of Singapore; and
 
 (iii) the carriage of passengers, mails, livestock or goods by any foreign ship to Singapore solely for the purpose of transhipment;
 
-(b) for the year of assessment 2000 and subsequent years of assessment from —
+(b) for the year of assessment 2005 and subsequent years of assessment from —
 
-(i) the operation outside the limits of the port of Singapore of any floating production storage offloading ship or floating storage offloading ship;
+(i) the operation outside the limits of the port of Singapore of any dredger, seismic ship or any vessel used for offshore oil or gas activity; and
 
-and
-
-(ii) the charter of any foreign floating production storage offloading ship or foreign floating storage offloading ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where such ship is used by that person or enterprise for its operation outside the limits of the port of Singapore;
+(ii) the charter of any foreign dredger, foreign seismic ship, or any foreign vessel used for offshore oil or gas activity to any person where such dredger, seismic ship or vessel is used by the person for his operation outside the limits of the port of Singapore;
 
 (c) for the year of assessment 2003 and subsequent years of assessment from —
 
 (i) towing or salvage operations carried out from outside the limits of the port of Singapore by any foreign ship;
 
-(ii) the charter of any foreign ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where such ship is used by that person or enterprise for towage and salvage operations carried out outside the limits of the port of Singapore;
+and
 
-(iii) the operation outside the limits of the port of Singapore of any dredger, seismic ship or semi- submersible rig; and
+(ii) the charter of any foreign ship to any person where such ship is used by the person for towage and salvage operations carried out outside the limits of the port of Singapore.
 
-(iv) the charter of any semi-submersible rig, foreign dredger or foreign seismic ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where the same is used by that person or enterprise for its operation outside the limits of the port of Singapore.
+[37/2002; 49/2004]
 
-[37/2002]
+(2) The exemption shall be for such period not exceeding 10 years as the Minister may specify, except that the Minister or such person as he may appoint may extend the period so specified for such further periods, not exceeding 10 years at any one time, as he thinks fit.
 
-(2) The exemption shall be for such period not exceeding 10 years as the Minister may specify in approving each case, except that the Minister may extend the period so specified for such further periods, not exceeding 10 years at any one time, as he thinks fit.
+[7/2007]
 
 (3) In determining the amount of the income of an approved international shipping enterprise which is exempted under this section, the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23 —
 

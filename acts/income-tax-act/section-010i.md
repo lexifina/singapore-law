@@ -1,4 +1,4 @@
-# 10I. Reduction of share capital … … … … … … … 39
+# 10I. Reduction of share capital … … … … … … … 49
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -20,7 +20,7 @@ Heading: Section Pages
 
 (5) For the purposes of this section —
 
-(a) the share capital of a company shall include any share premium or capital redemption reserve which is treated as paid-up share capital of the company for the purpose of any reduction of share capital made by the company;
+(a) the share capital of a company shall include any reserve which is treated as paid-up share capital of the company for the purpose of any reduction of share capital made by the company;
 
 (b) the contributed capital of a company as at any date shall be the aggregate of the amounts received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued up to that date reduced by —
 
@@ -46,11 +46,11 @@ Heading: Section Pages
 
 (ii) more than the contributed capital of the first- mentioned company immediately before the reduction of its share capital;
 
-(g) where paragraph (f) is applicable to the contributed capital of a transferee company, the contributed capital of the first-mentioned company under that paragraph after the reduction of its share capital shall, notwithstanding paragraph (b), not be reduced by the payment made by the first-mentioned company for the reduction of its share capital; and
+(g) where paragraph (f) is applicable to the contributed capital of a transferee company, the contributed capital of the first- mentioned company under that paragraph after the reduction of its share capital shall, notwithstanding paragraph (b), not be reduced by the payment made by the first-mentioned company for the reduction of its share capital; and
 
-(h) any amount applied by a company in paying up unissued shares of the company to be issued to shareholders of the company as fully or partly paid bonus shares shall not be regarded as receipts by the company from the issue of shares.
+(h) any amount applied by a company in issuing shares of the company to its shareholders as bonus shares shall not be regarded as receipts by the company from the issue of shares.
 
-[32/99]
+[32/99; 34/2005]
 
 (6) A company shall deliver to the Comptroller a copy of the contributed capital account made up to any date specified by the Comptroller whenever called upon to do so by notice in writing.
 

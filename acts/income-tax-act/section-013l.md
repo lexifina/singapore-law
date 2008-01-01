@@ -1,4 +1,4 @@
-# 13L. Exemption of tax on gains or profits from company employee equity-based remuneration scheme … … … … … 94
+# 13L. Exemption of tax on gains or profits from company employee equity-based remuneration scheme … … … … … 119
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st April 2001, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company under a company employee equity-based remuneration scheme, there shall, subject to this section and section 13J (6) to (9), be exempt from tax —
@@ -35,7 +35,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 ‘‘company employee equity-based remuneration scheme’’, in relation to a qualifying company or its holding company, means any share acquisition scheme which satisfies the 50% requirement;
 
-‘‘50% requirement’’, in relation to a company employee equity-based remuneration scheme, means in the aggregate at least 50% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under any share acquisition scheme, as ascertained in accordance with the following formula:
+‘‘50% requirement’’, in relation to a company employee equity- based remuneration scheme, means in the aggregate at least 50% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under any share acquisition scheme, as ascertained in accordance with the following formula:
 
 A ——————— × 100, B − C − D − E where A is the aggregate number of employees of the qualifying company who are offered during a calendar year any right or benefit to acquire shares in the qualifying company or in its holding company under any share acquisition scheme in respect of which the qualifying company has opted under section 13J (6) for tax exemption under this section and not section 13J to apply, and who are employees of that qualifying company at the time of such offer;
 

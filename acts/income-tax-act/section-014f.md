@@ -1,5 +1,5 @@
-# 14F. Management expenses of investment companies … … … 116
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14F. Management expenses of investment companies … … … 160
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of an approved investment company, there shall be allowed as a deduction any expenses for the management of its investments paid to any person who is a resident of or has a permanent establishment in Singapore and the amount of the deduction shall be ascertained by the formula A × B , ———
 

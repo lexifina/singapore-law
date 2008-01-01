@@ -1,5 +1,6 @@
-# 14M. Deduction for hotel refurbishment expenditure … … … 125
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14M. Deduction for hotel refurbishment expenditure … … … 169
+Part: PART V DEDUCTIONS AGAINST INCOME
+Heading: Section Pages
 
 (1) Where any person carrying on a hotel trade or business at any hotel premises proposes to carry out a project for any refurbishment of the hotel premises, he may apply to the Minister, or such person as he may appoint, on or before 30th June 2003 for that project (which shall be completed on or before 30th June 2006) to be approved for the purposes of claiming a deduction under this section in respect of expenditure incurred by him on the refurbishment project.
 
@@ -57,7 +58,7 @@ and
 
 (b) for the purposes of this section, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
 
-(c) in relation to the sum transferred under paragraph (a), subsections (10) to (17) and subsection (23) shall apply to the claimant company.
+(c) in relation to the sum transferred under paragraph (a), subsections (10) to (17) and (23) shall apply to the claimant company.
 
 [21/2003]
 
@@ -125,7 +126,7 @@ and
 
 (b) the amount of the capital expenditure on the provision of the machinery or plant still unallowed as at the time of the occurrence of the event shall be ascertained by the formula C − C × D , ———
 
-where C is the amount of capital expenditure incurred on the provision of the machinery or plant; and
+5 where C is the amount of capital expenditure incurred on the provision of the machinery or plant; and
 
 D is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
 
@@ -139,10 +140,10 @@ D is the number of years of assessment for which any deduction has been allowed 
 
 (a) any deduction allowed under this section; or
 
-(b) any dividend exempted in the hands of any shareholder under this section, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, in the year of assessment or within 6 years after the expiration thereof —
+(b) any dividend exempted in the hands of any shareholder under this section, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, in the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
 
-[32/99]
+[32/99; 53/2007]

@@ -1,6 +1,5 @@
-# 45F. Application of section 45 to income from profession or vocation carried on by non-resident individual, etc. … … 265
-Part: PART XII DEDUCTION OF TAX AT SOURCE
-Heading: Section Pages
+# 45F. Application of section 45 to income from profession or vocation carried on by non-resident individual, etc. … … 361
+Part: PART XII DEDUCTION OF TAX AT SOURCE Section Pages
 
 (1) Subject to subsection (2), section 45 shall apply in relation to the payment of any income accruing in or derived from Singapore on or after 3rd May 2002 from —
 

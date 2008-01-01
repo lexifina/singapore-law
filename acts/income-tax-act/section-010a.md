@@ -1,4 +1,4 @@
-# 10A. Profits of investment company … … … … … … 31
+# 10A. Profits of investment company … … … … … … 40
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Notwithstanding any other provisions of this Act, the Minister may by regulations —

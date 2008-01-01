@@ -1,14 +1,14 @@
-# 10J. Shares buyback … … … … … … … … … 42
+# 10J. Shares buyback … … … … … … … … … 52
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
-(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), for the purposes of this section —
+(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), and such shares are deemed cancelled under section 76B of the Companies Act (Cap. 50), for the purposes of this section —
 
 (a) the buyback constitutes a market purchase if the purchase of the shares is made on a stock exchange; and
 
 (b) the buyback constitutes an off-market purchase if the purchase of the shares is made otherwise than on a stock exchange.
 
-[32/99]
+[32/99; 34/2005; 7/2007]
 
 (2) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is made out of contributed capital of the company, not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account kept by the company under section 10I (5) (c) (i).
 
@@ -16,7 +16,7 @@ Heading: Section Pages
 
 (3) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
 
-(a) a dividend paid by the company on the date of the payment, and the provisions relating to payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), shall apply, with the necessary modifications, to the dividend deemed to be paid;
+(a) a dividend paid by the company on the date of the payment, and the provisions relating to payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) shall apply, with the necessary modifications, to the dividend deemed to be paid;
 
 (b) a dividend received by the shareholder (not being a transferee to whom section 10N applies) where the buyback is an off-market purchase made in accordance with an equal access scheme authorised in advance by the company at a general meeting of the company.
 
@@ -64,9 +64,7 @@ Heading: Section Pages
 
 and
 
-(b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula A , —
-
-N where A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+(b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula A —, N where A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
 
 N is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
 
@@ -84,7 +82,9 @@ N is the number of remaining shares in the company held by the shareholder after
 
 (a) the contributed capital of a company has the same meaning as in section 10I (5) (b);
 
-(b) where a company undertakes a buyback to which subsection (2) applies and the buyback is effected before any reduction of its share capital to which section 10I applies or any redemption of shares to which section 10K applies or any purchase or acquisition of shares or stocks of a preferential nature to which section 10M applies, section 10I (5) (c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the buyback and any reference in that section to the first reduction shall be read as a reference to the buyback;
+(b) where a company undertakes a buyback to which subsection
+
+(2) applies and the buyback is effected before any reduction of its share capital to which section 10I applies or any redemption of shares to which section 10K applies or any purchase or acquisition of shares or stocks of a preferential nature to which section 10M applies, section 10I (5) (c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the buyback and any reference in that section to the first reduction shall be read as a reference to the buyback;
 
 (c) ‘‘equal access scheme’’ means a scheme which satisfies all the following conditions:
 

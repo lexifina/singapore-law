@@ -1,5 +1,6 @@
-# 37C. Group relief for Singapore companies … … … … 199
+# 37C. Group relief for Singapore companies … … … … 272
 Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
+Heading: Section Pages
 
 (1) Subject to the provisions of this section, a transferor company may transfer any qualifying deduction for any year of assessment to a claimant company of the same group which has claimed the qualifying deduction against its assessable income for the same year of assessment.
 
@@ -17,23 +18,23 @@ Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
 
 (3) For the purposes of this section, 2 Singapore companies are members of the same group if —
 
-(a) at least 75% of the ordinary share capital in one company is beneficially held, directly or indirectly, by the other; or
+(a) at least 75% of the total number of issued ordinary shares in one company are beneficially held, directly or indirectly, by the other; or
 
-(b) at least 75% of the ordinary share capital in each of the 2 companies is beneficially held, directly or indirectly, by a third Singapore company.
+(b) at least 75% of the total number of issued ordinary shares in each of the 2 companies are beneficially held, directly or indirectly, by a third Singapore company.
 
-[37/2002]
+[37/2002; 34/2005]
 
-(4) Notwithstanding that a Singapore company beneficially holds, directly or indirectly, at least 75% of the ordinary share capital in another Singapore company, it shall not be treated to have satisfied subsection (3) unless additionally it is beneficially entitled to at least 75% of —
+(4) Notwithstanding that a Singapore company beneficially holds, directly or indirectly, at least 75% of the total number of issued ordinary shares in another Singapore company, it shall not be treated to have satisfied subsection (3) unless additionally it is beneficially entitled to at least 75% of —
 
 (a) any residual profits of the other company available for distribution to that company’s equity holders; and
 
 (b) any residual assets of the other company available for distribution to that company’s equity holders on a winding up.
 
-[37/2002]
+[37/2002; 34/2005]
 
-(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the share capital of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the third Singapore company equal to such fraction as results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the total number of issued ordinary shares of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the total number of issued ordinary shares of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the number of issued ordinary shares of the third Singapore company equal to such fraction of the total number as results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the total number of issued ordinary shares of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the number of issued ordinary shares of the fourth Singapore company equal to such fraction of the total number as results from the multiplication of those 3 fractions, and so on.
 
-[37/2002]
+[37/2002; 34/2005]
 
 (6) A transfer of qualifying deduction may be —
 
@@ -117,19 +118,21 @@ and
 
 (b) any loss incurred by the transferor company in the basis period for that year of assessment in any trade or business which, if it had been a profit would have been assessable under this Act, and which is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company; and
 
-(c) any donation made by the transferor company under section 37 (3) (b), (c), (d) or (f) or (6) in the year preceding that year of assessment that is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company.
+(c) any donation made by the transferor company under section 37 (3) (b), (c), (d) or (f) in the year preceding that year of assessment that is not deducted for that year of assessment because of insufficiency of statutory income of the transferor company.
 
-[37/2002; 21/2003]
+[37/2002; 21/2003; 34/2005]
 
 (15) Notwithstanding subsection (14), the following companies shall not be entitled to transfer the following items of qualifying deductions:
 
-(a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14) (a) and (b);
+(a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14) (a) (except in relation to allowances falling under sections 16 and 17) and (b);
 
-(b) any company to which section 97D, 97G or 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) applies, in respect of qualifying deductions under subsection (14) (a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and
+(b) any company to which section 97D or 97G of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act applies, in respect of qualifying deductions under subsection (14) (a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections;
 
-(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act.
+(c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
-[37/2002]
+(d) any company, in respect of qualifying deductions under subsection (14) relating to any income the tax on which is remitted under the provisions of this Act, unless the Minister otherwise approves.
+
+[37/2002; 11/2004; 7/2007]
 
 (16) Notwithstanding subsections (9) and (10), where the Comptroller discovers that any transfer or claim of qualifying deduction which has been made from or to any company is or has become excessive, he may make an assessment upon the company under section 74 on the amount which, in his opinion, ought to have been charged to tax.
 
@@ -157,15 +160,15 @@ and
 
 ‘‘claimant company’’ or ‘‘transferor company’’ means a Singapore company that claims or transfers, respectively, any qualifying deduction under subsection (1) but shall not include a company approved as —
 
-(a) a technology company under section 94 (2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(a) a technology company under section 94 (2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004);
 
-(b) a venture company under section 97B (2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(b) a venture company under section 97B (2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(c) a technology investment company under section 97C (2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(c) a technology investment company under section 97C (2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(d) an overseas investment company under section 97C (4) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); or
+(d) an overseas investment company under section 97C (4) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004; or
 
-(e) a technopreneur start-up company under section 97T (2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(e) a start-up company under section 97T (2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
 ‘‘commercial loan’’ means any borrowing which entitles the creditor to any return which is of only —
 
@@ -177,23 +180,23 @@ and
 
 ‘‘non-commercial loan’’ means any borrowing other than a commercial loan;
 
-‘‘ordinary share’’ means any share other than a share which carries only a right to any dividend which is of —
+‘‘ordinary share’’ means any share other than a treasury share or a share which carries only a right to any dividend which is of —
 
-(a) a fixed amount or at a fixed rate per cent of the nominal value of the shares; or
+(a) a fixed amount or at a fixed rate per cent of the value of the shares; or
 
 (b) a fixed rate per cent of the profits of the company;
 
-‘‘ordinary share capital’’, in relation to a Singapore company, means all the issued share capital comprising the ordinary shares of the company;
-
 ‘‘residual assets’’, in relation to a Singapore company, means net assets of the company after distribution made to —
 
-(a) creditors of the company in respect of commercial loans; and
+(a) creditors of the company in respect of commercial loans;
+
+and
 
 (b) holders of shares other than ordinary shares, and where the company has no residual asset, a notional amount of $100 is deemed to be the residual assets of the company;
 
 ‘‘residual profits’’, in relation to a Singapore company, means profits of the company after deducting any dividend which is of —
 
-(a) a fixed amount or at a fixed rate per cent of the nominal value of the shares of the company; or
+(a) a fixed amount or at a fixed rate per cent of the value of the shares of the company; or
 
 (b) a fixed rate per cent of the profits of the company, but before deducting any return due to any non-commercial loan creditor which is not of —
 
@@ -203,4 +206,4 @@ and
 
 ‘‘Singapore company’’ means any company incorporated in Singapore.
 
-[37/2002]
+[37/2002; 11/2004; 48/2004; 34/2005]

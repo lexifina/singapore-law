@@ -1,11 +1,11 @@
-# 13E. Exemption of dividends from foreign income … … … 79
+# 13E. Exemption of dividends from foreign income … … … 104
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) Where a company resident in Singapore receives income in Singapore from outside Singapore (referred to in this section as the income) for which tax credit has been allowed against the tax payable in respect of such income and pays dividends out of such income, the provisions of this section shall have effect.
 
 [2/92]
 
-(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula A — − C, B where A is the tax credit allowed;
+(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula A − C, B where A is the tax credit allowed;
 
 B is the tax rate applicable to a company under section 43 (1);
 
@@ -33,13 +33,13 @@ and C is the foreign tax paid, shall be credited to a special account (referred 
 
 [32/95; 37/2002]
 
-(10) Notwithstanding subsections (1) to (9), where it appears to the Comptroller that any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may, within the year of assessment or within 6 years after the expiration thereof —
+(10) Notwithstanding subsections (1) to (9), where it appears to the Comptroller that any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
 
 (a) make such assessment or additional assessment upon any such shareholder as may be necessary in order to make good any loss of tax; or
 
 (b) direct the company to debit the account with such amount as the circumstances require.
 
-[11/94; 32/95; 37/2002]
+[11/94; 32/95; 37/2002; 53/2007]
 
 (11) In this section —
 
@@ -65,8 +65,8 @@ and C is the foreign tax paid, shall be credited to a special account (referred 
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O, 43P or 43Q or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 (Act 11 of 2004) or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
-(c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore − Malaysia) (Avoidance of Double Taxation Agreement) Order.
+(c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
 
-[28/92; 26/93; 1/98; 37/2002; 21/2003]
+[28/92; 26/93; 1/98; 37/2002; 21/2003; 11/2004; 49/2004; 34/2005; 7/2007; 53/2007]

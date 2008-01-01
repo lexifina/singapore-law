@@ -1,4 +1,4 @@
-# 12. Sources of income … … … … … … … … 59
+# 12. Sources of income … … … … … … … … 69
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -26,7 +26,7 @@ Employment exercised outside Singapore on behalf of Government
 
 (5) The gains or profits from any employment exercised outside Singapore on behalf of the Government by any individual in the discharge of governmental functions shall be deemed to be derived from Singapore except where such individual is not a citizen or a resident of Singapore.
 
-Interest
+Interest, etc.
 
 (6) There shall be deemed to be derived from Singapore —
 
@@ -53,3 +53,17 @@ Royalties, etc.
 (d) rent or other payments under any agreement or arrangement for the use of any movable property, which are borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which are deductible against any income accruing in or derived from Singapore.
 
 [5/77]
+
+Commission or other payment of junket promoter *(8) There shall be deemed to be derived from Singapore any commission or other payment paid to a junket promoter for arranging a junket with a casino operator in Singapore which is —
+
+(a) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore; or
+
+(b) deductible against any income accruing in or derived from Singapore.
+
+[10/2006]
+
+*(9) In this section, ‘‘casino operator’’, ‘‘junket’’ and ‘‘junket promoter’’ have the same meanings as in the Casino Control Act (Cap. 33A).
+
+[10/2006]
+
+*Subsections (8) and (9), inserted by the Casino Control Act, to come into operation when section 202 of the Casino Control Act is brought into operation.

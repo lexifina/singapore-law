@@ -1,4 +1,4 @@
-# 43A. Concessionary rate of tax for Asian Currency Unit, Fund Manager and securities company … … … … … 236
+# 43A. Concessionary rate of tax for Asian Currency Unit, Fund Manager and securities company … … … … … 323
 Part: PART XI RATES OF TAX
 
 (1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate be levied and paid for each year of assessment upon such income derived before 1st January 2004 as the Minister may specify of —

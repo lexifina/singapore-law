@@ -1,13 +1,13 @@
-# 76. Service of notices of assessment and revision of assessment … 297
+# 76. Service of notices of assessment and revision of assessment … 397
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
-(1) The Comptroller shall cause to be served personally on or sent by post to each person assessed to tax —
+(1) The Comptroller shall cause each person assessed to tax to be served, in accordance with section 8 (1), with —
 
 (a) where tax is payable, a notice stating the amount of his chargeable income together with the amount of tax payable and the place at which such payment should be made; or
 
 (b) where no tax is payable, a notice to that effect, and in either case the Comptroller shall inform the person assessed to tax of his rights under subsections (2) and (3).
 
-[32/99]
+[32/99; 49/2004]
 
 (2) If any person disputes the assessment, he may apply to the Comptroller, by notice of objection in writing, to review and to revise the assessment made upon him.
 

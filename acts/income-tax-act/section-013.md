@@ -1,21 +1,55 @@
-# 13. Exempt income … … … … … … … … … 61
+# 13. Exempt income … … … … … … … … … 72
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) There shall be exempt from tax —
 
-(a) subject to subsection (2) and the prescribed conditions, the interest derived from —
+(a) subject to subsection (2) and such conditions as may be prescribed by regulations, the interest derived from —
 
 (i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2008 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 (ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
+(aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities —
+
+(i) issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) issued during the period from 17th February 2006 to 31st December 2008, by —
+
+(A) any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; or
+
+(B) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008, to any person —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+(b) subject to subsections (2C) and (2D) and such conditions as may be prescribed by regulations —
+
+(i) the interest derived by any person from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+
+(ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+(iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
+
+(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008 that is derived by any person —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+(bb) subject to subsection (2G) and such conditions as may be prescribed by regulations, such other income directly attributable to qualifying debt securities issued on or after a prescribed date as may be prescribed by regulations, that is derived by any person —
+
+(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
 (d) any gains or profits, other than dividends derived from Singapore from which tax has been deducted under section 44, arising from sums standing in the SRS account of any SRS member except where section 10L (13) applies;
 
-(e) the income of any institution, authority, person or fund specified in the First Schedule, except dividends received by it from any company in which it holds, at the time such dividends are declared, more than half of the issued share capital of the company unless the Minister otherwise approves;
+(e) the income of any institution, authority, person or fund specified in the First Schedule, except dividends received before 1st January 2008 by it from any company in which it holds, at the time such dividends are declared, more than half of the total number of issued shares of the company unless the Minister otherwise approves;
 
 (f) the income of —
 
@@ -69,9 +103,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (i) on or after 1st April 1991 for the charter of a foreign ship within the meaning of that section (other than that used for towing or salvage operations during the period 1st April 1991 to 2nd May 2002);
 
-(ii) on or after 27th February 1999 for the charter of a floating production storage offloading ship or floating storage offloading ship; and
-
-(iii) on or after 3rd May 2002 for the charter of a dredger, seismic ship or semi-submersible rig, except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
+(ii) on or after 27th February 2004 for the charter of any dredger, seismic ship or any vessel used for offshore oil or gas activity, except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
 
 (p) for a period of 5 years from 1st January 2003, such income of the Singapore Commodity Exchange Limited as may be prescribed;
 
@@ -85,9 +117,13 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (i) a non-resident individual; and
 
-(ii) a person, other than an individual, if that person does not, by himself or in association with others, carry on a business in Singapore, and does not have a permanent establishment in Singapore;
+(ii) a person, other than an individual, if that person does not, by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore;
+
+(ta) the income derived from interest on moneys held on deposit in an approved bank in Singapore by a non-resident person (not being an individual nor a permanent establishment in Singapore) who carries on any operation in Singapore through a permanent establishment in Singapore if the funds used by that person to make the deposit are not obtained from the operation;
 
 (u) such interest derived during the period 1st January 2002 to 31st December 2004 by any person from the deposit of moneys of up to an aggregate amount of $100,000 in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
+
+(ua) such interest derived during the period 1st January 2003 to 31st December 2004 by any individual resident in Singapore from the deposit of moneys in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
 
 (v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
@@ -103,17 +139,69 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed;
 
-(za) any dividends accrued in or derived from Singapore on or after 1st January 2003 paid by any company from which tax is not deductible and not deducted under section 44;
+(za) any dividends paid on or after 1st January 2008 by any company resident in Singapore;
 
 (zb) any subsidy, allowance or benefit provided by an employer to an employee for the attendance by any child of the employee at a child care centre licensed under the Child Care Centres Act (Cap. 37A);
 
-(zc) the prescribed amount of interest derived during the period 1st January 2003 to 31st December 2004 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108); and
+(zc) the prescribed amount of interest derived during the period 1st January 2003 to 31st December 2004 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(zd) the interest derived on or after 1st January 2005 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act.
+(zd) the interest derived on or after 1st January 2005 by any individual from the deposit of moneys with an approved bank or a finance company licensed under the Finance Companies Act in Singapore;
 
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94;
+(ze) the following income derived from Singapore on or after 1st January 2004 by any individual:
 
-32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003]
+(i) any interest from debt securities;
+
+(ii) any discount from debt securities which mature within one year from the date of issue of those securities;
+
+(iii) any income from an annuity, except income from —
+
+(A) any annuity purchased by the employer of an individual in lieu of any pension or other benefit payable during his employment or upon his retirement; and
+
+(B) any annuity purchased under SRS;
+
+(iv) any income from any life insurance policy, except income referred to in section 10 (3);
+
+(v) any distribution made by the trustee of any collective investment scheme constituted as a unit trust (excluding any real estate investment trust) authorised under section 286 of the Securities and Futures Act (Cap. 289) and the units of which are offered to the public for subscription, that is income or deemed to be income of the individual, except distributions made out of Singapore dividends from which tax is deducted or deductible under section 44; and
+
+(vi) any fee or compensatory payment from securities lending or repurchase arrangements, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+(zf) any amount payable from Islamic debt securities on or after 1st January 2005 to any individual, except where such amount is derived by the individual through a partnership in Singapore or from the carrying on of a trade, business or profession;
+
+(zg) any distribution made by any trustee-manager of a registered business trust;
+
+(zh) any distribution made by any trustee of a real estate investment trust of any income of the kinds referred to in section 43 (2A) (a) (i), (ii), (iii) and (iv) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+(zi) the following income derived from Singapore on or after 17th February 2006 by any individual:
+
+(i) any discount from debt securities;
+
+(ii) any distribution made by any restricted authorised scheme out of income derived from Singapore or received in Singapore on or after 17th February 2006, that is income or deemed to be income of the individual, except distribution made out of Singapore dividends from which tax is deducted or deductible under section 44, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+(zj) any income from any structured product offered by a financial institution derived from Singapore —
+
+(i) by an individual, in the basis period relating to the year of assessment 2008 and any subsequent year of assessment, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+(ii) by a non-resident person (not being an individual) if —
+
+(A) it does not, by itself or in association with others, carry on a business in Singapore, and does not have a permanent establishment in Singapore; and
+
+(B) the contract in respect of the structured product between it and the financial institution takes effect during the period from 1st January 2007 to 31st December 2011 (both dates inclusive) and, if such contract is renewed or extended, the period for which it is renewed or extended commences before 1st January 2012; or
+
+(iii) by a non-resident person (not being an individual nor a permanent establishment in Singapore) who carries on any operation in Singapore through a permanent establishment in Singapore if —
+
+(A) the funds used by that person to invest in the structured product are not obtained from the operation; and
+
+(B) the contract in respect of the structured product between that person and the financial institution takes effect during the period from 1st January 2007 to 31st December 2011 (both dates inclusive) and, if such contract is renewed or extended, the period for which it is renewed or extended commences before 1st January 2012;
+
+(zk) any prepayment fee, redemption premium or break cost from debt securities derived from Singapore on or after 15th February 2007 by any individual, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+(zl) such other income directly attributable to debt securities as may be prescribed by regulations derived from Singapore on or after a prescribed date by any individual, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession; and
+
+(zm) the income of any charity registered or exempt from registration under the Charities Act (Cap. 37).
+
+[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98;
+
+32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007]
 
 (2) Subsection (1) (a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -122,6 +210,78 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
 [32/99; 21/2003]
+
+(2A) Subsection (1) (aa) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any discount derived from any qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such discount is derived by —
+
+(a) any related party of the issuer of those securities; or
+
+(b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[49/2004]
+
+(2B) Subsection (1) (ab) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any amount payable from any Islamic debt securities which are qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where the amount is payable to —
+
+(a) any related party of the issuer of those securities; or
+
+(b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[34/2005]
+
+(2C) Subsection (1) (b) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
+
+(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+
+(c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations, if 50% or more of the issue of the securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities.
+
+[53/2007]
+
+(2D) Subsection (1) (b) shall not apply to —
+
+(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st December 2008;
+
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st December 2008; or
+
+(c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations, if the securities are held by less than 4 persons at any time during the life of the issue, unless —
+
+(i) approval has been granted by the Minister or such person as he may appoint to such application;
+
+(ii) all the persons holding the securities are companies resident in Singapore;
+
+(iii) such companies are listed on the Singapore Exchange either on the date of issue of the securities or within 6 months from that date; and
+
+(iv) the income from the securities received by such companies is declared to be distributable to their shareholders within 6 months from the end of the basis period in which it is received.
+
+[53/2007]
+
+(2E) Regulations made under subsection (1) (b) may provide for the determination of the amount of income of the person to be exempted and for the deduction of expenses, allowances, losses and donations of the person otherwise than in accordance with this Act.
+
+[53/2007]
+
+(2F) Subsection (1) (ba) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any prepayment fee, redemption premium or break cost derived from any qualifying debt securities where —
+
+(a) 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities; and
+
+(b) such fee, premium or cost is derived by —
+
+(i) any related party of the issuer of those securities; or
+
+(ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[53/2007]
+
+(2G) Subsection (1) (bb) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to such other income directly attributable to qualifying debt securities as may be prescribed by regulations under that provision where —
+
+(a) 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities; and
+
+(b) such income is derived by —
+
+(i) any related party of the issuer of those securities; or
+
+(ii) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[53/2007]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -133,13 +293,7 @@ Income made for purpose which will promote or enhance economic or technological 
 
 [5/77]
 
-Income received in Singapore by temporary residents
-
-(5) There shall be exempt from tax for any year of assessment any income arising from sources outside Singapore and received by any individual who is not resident in Singapore in that year of assessment.
-
-[13/84]
-
-Income derived by short term visiting employees
+(5) (Deleted by Act 49/2004) Income derived by short term visiting employees
 
 (6) There shall be exempt from tax any income accruing in or derived from Singapore in respect of gains or profits from any employment exercised in Singapore for not more than 60 days in the year preceding any year of assessment by a person who is not resident in Singapore in that year of assessment.
 
@@ -153,15 +307,29 @@ Income derived by short term visiting employees
 
 Income received from outside Singapore
 
-(8) Where the conditions specified in subsection (9) are satisfied, there shall be exempt from tax the following income received in Singapore on or after 1st June 2003 from any territory outside Singapore by any person resident in Singapore:
+(7A) There shall be exempt from tax any income arising from sources outside Singapore and received in Singapore —
+
+(a) by any individual who is not resident in Singapore; and
+
+(b) on or after 1st January 2004 by any individual who is resident in Singapore if the Comptroller is satisfied that the tax exemption would be beneficial to the individual, but excludes such income received by him through a partnership in Singapore.
+
+[49/2004]
+
+(8) Where the conditions specified in subsection (9) are satisfied, there shall be exempt from tax —
 
 (a) any dividend derived from any territory outside Singapore;
 
 (b) any profit derived from any trade or business carried on by a branch in any territory outside Singapore of a company resident in Singapore; and
 
-(c) any income derived from any professional, consultancy and other services rendered in any territory outside Singapore only if the Comptroller is satisfied that the income is derived, for the purposes of this Act, from outside Singapore.
+(c) any income derived from any professional, consultancy and other services rendered in any territory outside Singapore only if the Comptroller is satisfied that the income is derived, for the purposes of this Act, from outside Singapore, and received in Singapore —
 
-[21/2003]
+(i) on or after 1st June 2003 by any person, not being an individual, resident in Singapore;
+
+(ii) during 1st June 2003 to 31st December 2003 by any individual resident in Singapore; and
+
+(iii) on or after 1st January 2004 by any individual resident in Singapore through a partnership in Singapore.
+
+[49/2004]
 
 (9) The conditions referred to in subsection (8) are —
 
@@ -197,7 +365,7 @@ Income received from outside Singapore
 
 [9/80; 37/2002]
 
-(14) Where any income is exempt from tax under subsection (8), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (12) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore – Malaysia) (Avoidance of Double Taxation Agreement) Order) —
+(14) Where any income is exempt from tax under subsection (8), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (12) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order) —
 
 (a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
 
@@ -215,19 +383,33 @@ Income received from outside Singapore
 
 ‘‘approved bond intermediary’’ means a financial institution approved as such by the Minister or such person as he may appoint;
 
-‘‘debt securities’’ has the same meaning as in section 43N;
+‘‘break cost’’, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any fee payable by the issuer of the securities on the early redemption of the securities, the amount of which is determined by any loss or liability incurred by the holder of the securities in connection with such redemption;
 
 ‘‘child’’, in relation to an employee, means any legitimate child, illegitimate child, step-child, child adopted in accordance with any written law relating to the adoption of children and any child whom the employee is the legal guardian;
 
-‘‘deposit’’, in relation to any standard savings, current or fixed deposit account referred to in subsection (1) (zc) and (zd), means any deposit of moneys but does not include —
+‘‘debt securities’’ has the same meaning as in section 43N;
 
-(a) any deposit of moneys the interest from which is determined by the performance of any securities or by the fluctuations in currency exchange rates or by any combination thereof; and
+‘‘deposit’’ means —
 
-(b) any other prescribed deposit;
+(a) in relation to any standard savings, current or fixed deposit account referred to in subsection (1) (zc), any deposit of moneys, but does not include —
+
+(i) any deposit of moneys the interest from which is determined by the performance of any securities or by the fluctuations in currency exchange rates or by any combination thereof; or
+
+(ii) any other prescribed deposit; or
+
+(b) in relation to any deposit of moneys referred to in subsection (1) (t) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act (Cap. 19) and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
+
+‘‘financial derivative’’ means a derivative the payoffs of which are linked, whether in whole or in part, to the payoffs or performance of any financial assets, securities, financial instruments or indices, but does not include a derivative the payoffs of which are wholly linked to the payoffs or performance of commodities;
 
 ‘‘financial institution’’ means an institution licensed or approved by the Monetary Authority of Singapore, and includes an institution approved as an approved Fund Manager under section 43A and an institution approved as a Finance and Treasury Centre under section 43G;
 
 ‘‘financial sector incentive (bond market) company’’ means a company approved as such by the Minister or such person as he may appoint;
+
+‘‘financial sector incentive (project finance) company’’ means a company approved as such by the Minister or such person as he may appoint;
+
+‘‘Islamic debt securities’’ has the same meaning as in section 43N (4);
+
+‘‘prepayment fee’’, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any fee payable by the issuer of the securities on the early redemption of the securities, the amount of which is determined by the terms of the issuance of the securities;
 
 ‘‘qualifying debt securities’’ means —
 
@@ -243,14 +425,54 @@ Income received from outside Singapore
 
 (B) during the period from 27th February 1999 to 31st December 2003 in any other case; or
 
-(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2008, but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 which, during its primary launch —
+(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2008;
+
+(c) Islamic debt securities which are arranged in accordance with regulations made for this purpose —
+
+(i) by any financial institution in Singapore and issued during the period from 1st January 2005 to 31st December 2008; or
+
+(ii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2005 to 31st December 2008, but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 and any Islamic debt securities issued on or after 1st January 2005 which, during its primary launch —
 
 (AA) are issued to less than 4 persons; and
 
-(BB) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
+(BB) 50% or more of the issue of debt securities or Islamic debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those debt securities or Islamic debt securities;
+
+‘‘qualifying project debt securities’’ means debt securities —
+
+(a) which are issued during the period from 1st November 2006 to 31st December 2008 and arranged in accordance with regulations made for this purpose —
+
+(i) by any financial institution in Singapore; or
+
+(ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company;
+
+(b) the interest and other income directly attributable to which are funded primarily by cash flows from an infrastructure asset or project prescribed by regulations (referred to in this definition as a prescribed asset or project); and
+
+(c) the proceeds from the issue of which are only used to acquire, develop or invest in a prescribed asset or project, or to refinance a previous borrowing which was only used for that purpose; where the gearing ratio of such prescribed asset or project is approved by the Minister or such person as he may appoint in a case where the debt securities are issued by a person in Singapore or the prescribed asset or project is in Singapore, but does not include, except with the approval of the Minister or such person as he may appoint (which approval may be subject to such conditions as the Minister may impose), any debt securities —
+
+(A) which are issued to less than 4 persons; or
+
+(B) 50% or more of the issue of which is beneficially held or funded, directly or indirectly, by related parties of the issuer of those debt securities;
+
+‘‘real estate investment trust’’ has the same meaning as in section 43 (10);
+
+‘‘redemption premium’’, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any premium payable by the issuer of the securities on the redemption of the securities upon their maturity;
+
+‘‘registered business trust’’ and ‘‘trustee-manager’’ have the same meanings as in the Business Trusts Act (Cap. 31A);
 
 ‘‘related party’’, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
-‘‘Singapore Government securities’’ has the same meaning as in section 43N.
+‘‘restricted authorised scheme’’ means a collective investment scheme constituted as a unit trust authorised under regulations made under the Securities and Futures Act (Cap. 289) for the purpose of section 305 of that Act;
 
-[31/98; 32/99; 21/2003]
+‘‘securities lending or repurchase arrangement’’ has the same meaning as in section 10N (12);
+
+‘‘Singapore Government securities’’ has the same meaning as in section 43N;
+
+‘‘structured product’’ means a sum of money paid on terms under which —
+
+(a) it may not be repaid in full and the return from which is, partly or wholly, determined by the performance of any embedded derivative instrument; and
+
+(b) its repayment may be in money or money’s worth, but does not include any sum paid in respect of any debt securities, units of a real estate investment trust, units of a unit trust, loan, stand-alone financial derivative or such other financial product as the Minister may by regulations prescribe;
+
+‘‘unit trust’’ has the same meaning as in section 10B.
+
+[31/98; 32/99; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]

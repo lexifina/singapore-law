@@ -1,4 +1,4 @@
-# 86. Recovery of tax from persons leaving Singapore … … … 306
+# 86. Recovery of tax from persons leaving Singapore … … … 408
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) Where the Comptroller is of the opinion that any person is about or likely to leave Singapore without paying all tax assessed upon him, the Comptroller may issue a certificate containing particulars of such tax and a direction to the Commissioner of Police or the Controller of Immigration, or both, that such person be prevented from leaving Singapore without paying the tax or furnishing security to the satisfaction of the Comptroller for payment thereof.

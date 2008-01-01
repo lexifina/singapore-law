@@ -20,7 +20,9 @@ Number of years of working life Item of asset
 
 7. Electric, gas, water and steam, utility plant (including 16 tanks and generators)
 
-8. Electrical equipment (including assets such as electrical 8 and industrial apparatus, domestic and commercial appliances, air-conditioning and ventilating equipment)
+8. Electrical equipment (including assets such as electrical 8 and industrial apparatus, domestic and commercial appliances, air-conditioning and ventilating equipment) SIXTH SCHEDULE — continued
+
+Number of years of working life Item of asset
 
 9. Electronic equipment (including assets such as electronic 8 detection, guidance, control, radiation, computation, test and navigation equipment)
 
@@ -38,9 +40,7 @@ Number of years of working life Item of asset
 
 16. Materials and passenger handling equipment (including 6 assets such as lifts, escalators, weighing machines, conveyor belts, forklifts, lifting gears, trolleys and cranes)
 
-17. Motion picture films 5 SIXTH SCHEDULE — continued
-
-Number of years of working life Item of asset
+17. Motion picture films 5
 
 18. Musical instruments and other related assets 10
 
@@ -54,7 +54,9 @@ Number of years of working life Item of asset
 
 20. Plant for recreation and amusement purposes (including 10 assets used in the provision of entertainment services on payment of a fee or admission charge, as in the operation of bowling alleys, billiard and pool establishments, theatres, cinemas, concert halls, amusement parks and miniature golf courses)
 
-21. Railway wagons, lines and related equipment 16
+21. Railway wagons, lines and related equipment 16 SIXTH SCHEDULE — continued
+
+Number of years of working life Item of asset
 
 22. Transport equipment:
 

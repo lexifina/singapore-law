@@ -1,4 +1,4 @@
-# 73. Advance assessments … … … … … … … … 295
+# 73. Advance assessments … … … … … … … … 394
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (1) Notwithstanding section 72, where —
@@ -8,6 +8,14 @@ Part: PART XVII ASSESSMENTS AND OBJECTIONS
 (b) the Comptroller is of the opinion that any person possessing a source of income is about to leave Singapore and is likely to cease to possess that source in the year of assessment in which he leaves Singapore or in the following 2 years, the Comptroller may make such assessment or additional assessments as may be necessary to bring to charge the full amount of the income from all sources derived or to be derived by such person up to the year in which the source of income ceases or is likely to cease.
 
 (2) Where the income of a person is ascertained under section 27, the Comptroller may make an assessment in respect of any income of such person within the year in which the income is deemed to accrue.
+
+(2A) Notwithstanding any other provisions of this Act, the Comptroller may make an assessment on an individual to whom section 10 (7B) or (7C) applies within the year in which the income accrues or is deemed to accrue to the individual, as the case may be.
+
+[49/2004]
+
+(2B) Notwithstanding any other provisions of this Act, where income accrues under section 10 (6) to a director of a company who is not resident in Singapore, the Comptroller may make an assessment in respect of that income within the year in which the income accrues to the director.
+
+[49/2004]
 
 (3) The Comptroller may, if he thinks fit, at any time during any year make an assessment in respect of the income derived by any person carrying on or exercising any trade, business, profession or vocation up to that year.
 

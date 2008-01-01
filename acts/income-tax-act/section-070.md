@@ -1,5 +1,6 @@
-# 70. Occupiers to furnish return of rent payable … … … 291
+# 70. Occupiers to furnish return of rent payable … … … 392
 Part: PART XVI RETURNS
+Heading: Section Pages
 
 The Comptroller may give notice in writing to any person who is the occupier of any land or premises requiring him to furnish within the time limited by such notice, not being less than 30 days from the date of service of such notice, a return containing —
 

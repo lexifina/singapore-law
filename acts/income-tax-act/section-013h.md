@@ -1,4 +1,4 @@
-# 13H. Exemption of income of venture company … … … … 85
+# 13H. Exemption of income of venture company … … … … 110
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) The Minister may by regulations prescribe that any income of an approved venture company derived by it from making approved investments —
@@ -85,13 +85,13 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (a) any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1); or
 
-(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment —
+(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years (if that year of assessment is 2007 or a preceding year of assessment) or 4 years (if that year of assessment is 2008 or a subsequent year of assessment) after the expiration of that year of assessment —
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit its account with such amount as the circumstances may require.
 
-[11/94; 31/98; 37/2002]
+[11/94; 31/98; 37/2002; 53/2007]
 
 (17) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (16) were a notice of assessment.
 

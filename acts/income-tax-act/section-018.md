@@ -1,4 +1,4 @@
-# 18. Definitions for sections 16 and 17 … … … … … 141
+# 18. Definitions for sections 16 and 17 … … … … … 190
 Part: PART VI CAPITAL ALLOWANCES
 
 (1) Subject to this section, in sections 16 and 17, ‘‘industrial building or structure’’ means a building or structure in use —
@@ -17,13 +17,13 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (g) by a research and development organisation in carrying out research and development activities for any manufacturing trade or business;
 
-(h) for the purposes of a hotel on the island of Sentosa and approved by the Minister or such person as he may appoint (referred to in this section as a Sentosa hotel);
+(h) for the purposes of a hotel on the island of Sentosa and approved before 1st September 2007 by the Minister or such person as he may appoint (referred to in this section as a Sentosa hotel);
 
 (i) for the purposes of a project for the promotion of the tourist industry (other than a hotel) in Singapore and approved by the Minister or such person as he may appoint subject to such conditions as he may impose; or
 
 (j) for prescribed purposes and where such building or structure has been approved by the Minister or such person as he may appoint, and includes any building or structure provided by the person carrying on such a trade or undertaking for the welfare of workers employed in that trade or undertaking and in use for that purpose, but does not include a building or structure in respect of which a deduction is prescribed under section 14 (1) (h).
 
-[26/73; 28/80; 1/82; 1/88; 3/89; 2/92; 21/2003]
+[26/73; 28/80; 1/82; 1/88; 3/89; 2/92; 21/2003; 53/2007]
 
 (2) A building or structure shall not be deemed, by reason only of its falling or having fallen into temporary disuse, to have thereby ceased altogether to be used for one of the purposes specified in subsection (1) if, immediately prior to falling into such temporary disuse, it was in use for such a purpose and if, during the period of such temporary disuse, it is constantly maintained in readiness to be brought back into use for such a purpose.
 
@@ -37,19 +37,55 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [1/82]
 
-(7) Where part of a building or structure is, and part thereof is not, an industrial building or structure, and the capital expenditure which has been incurred on the construction of the second mentioned part is not more than one-tenth of the total capital expenditure which has been incurred on the construction of the whole building or structure, the whole building or structure and every part thereof shall be treated as an industrial building or structure.
+(7) Where part of a building or structure is, and part thereof is not, an industrial building or structure, and —
 
-(8) In sections 16 and 17 —
+(a) in a case where capital expenditure is incurred on the construction of the building or structure before 1st January 2006, the capital expenditure incurred on the construction of the second-mentioned part is not more than one-tenth of the total capital expenditure which has been incurred on the construction of the whole building or structure; or
 
-‘‘relevant interest’’, in relation to any expenditure incurred on the construction of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
+(b) in a case where —
 
-‘‘residue of expenditure’’ shall be the amount of the capital expenditure incurred in the construction of a building or structure reduced by —
+(i) capital expenditure is incurred on the construction of the building or structure on or after 1st January 2006;
 
-(a) the amount of any initial allowance made;
+or
 
-(b) any annual allowance made; and
+(ii) a sale and purchase agreement was entered into for the building or structure on or after that date, the capital expenditure incurred on the construction or purchase (as the case may be) of the second-mentioned part is not more than one-tenth of the total capital expenditure which has been incurred on the construction or purchase of the whole building or structure, then the whole building or structure and every part thereof shall be treated as an industrial building or structure.
 
-(c) any balancing allowances granted, and increased by any balancing charges made.
+[7/2007]
+
+(7A) Where the Comptroller is satisfied that it is not reasonably practicable to determine the capital expenditure incurred on the second-mentioned part of the building or structure under subsection (7), the whole building or structure and every part thereof may be treated as an industrial building or structure if —
+
+(a) the floor area of the part of the building or structure that is not an industrial building or structure is not more than one-tenth of the total floor area of the whole building or structure; or
+
+(b) the Comptroller is otherwise satisfied that it is just and proper to do so.
+
+[7/2007]
+
+(8) In this section and sections 16 and 17 —
+
+‘‘capital expenditure’’, in relation to the purchase of a building or structure, means the net price paid for the building or structure, but does not include the cost of land as determined to the satisfaction of the Comptroller;
+
+‘‘relevant interest’’ means —
+
+(a) in relation to any capital expenditure incurred on the construction of a building or structure, the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it; and
+
+(b) in relation to a sale and purchase agreement for a building or structure, the interest in that building or structure to which the purchaser was entitled when he entered into the agreement;
+
+‘‘residue of expenditure’’ means —
+
+(a) in relation to any capital expenditure incurred on the construction of a building or structure before 1st January 2006, the amount of the capital expenditure incurred on such construction reduced by —
+
+(i) the amount of any initial allowance made;
+
+(ii) any annual allowance made; and
+
+(iii) any balancing allowances granted, and increased by any balancing charges made; or
+
+(b) in relation to any capital expenditure incurred on the construction or purchase of a building or structure on or after 1st January 2006, the amount of the capital expenditure incurred on such construction or purchase (as the case may be) reduced by —
+
+(i) the amount of any initial allowance made; and
+
+(ii) any annual allowance made.
+
+[7/2007]
 
 (9) For the purpose of computing the residue of expenditure, there shall be written off an amount of 3% of the expenditure in respect of any year in which no initial or annual allowance has been made.
 

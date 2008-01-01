@@ -1,6 +1,5 @@
-# 19. Initial and annual allowances for machinery or plant … … 143
+# 19. Initial and annual allowances for machinery or plant … … 194
 Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
 
 (1) Where a person carrying on a trade, profession or business incurs capital expenditure on the provision of machinery or plant for the purposes of that trade, profession or business, there shall be made to him, on due claim for the year of assessment in the basis period for which the expenditure is incurred an allowance, to be known as an ‘‘initial allowance’’, equal to one-fifth of that expenditure or such other allowance as may be prescribed either generally or for any person or class of persons in respect of any machinery or plant or class of machinery or plant.
 
@@ -24,27 +23,23 @@ Heading: Section Pages
 
 (ii) in the case of an asset acquired under a hire-purchase agreement, be the amount ascertained by dividing the excess of the original cost of the asset over the total amount of initial allowance allowable in respect of the asset under subsection (1) by the number of years of working life of the asset as specified in the Sixth Schedule unless otherwise provided under paragraph (b);
 
-(b) for the purposes of paragraph (a), in the case of any aircraft which is acquired on or after 1st March 1995 by a leasing company carrying on the business of offshore leasing within the meaning of section 43I, the number of years of working life of the aircraft specified in the Sixth Schedule may, on the application of the leasing company, be extended irrevocably for such period not exceeding 20 years as approved by the Minister or such person as he may appoint;
+(b) for the purposes of paragraph (a), in the case of any aircraft which is acquired on or after 1st March 1995 by a leasing company carrying on the business of offshore leasing within the meaning of section 43I or is acquired by an approved aircraft leasing company within the meaning of section 43Y, the number of years of working life of the aircraft specified in the Sixth Schedule may, on the application of the leasing company, be extended irrevocably for such period not exceeding 20 years as approved by the Minister or such person as he may appoint;
 
-(c) notwithstanding paragraphs (a) and (b), the annual allowance in respect of any asset for any year of assessment may, at the election of a person to whom a certificate has been issued before 1st January 1981 (or after 1st January 1981 where application for the certificate has been approved before that date) under Part II, IV, VI, VII, XI or XII of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), be ascertained during his tax relief period as determined in accordance with that certificate at the rates applicable immediately before 4th December 1980 and shall be computed on the reducing value of the asset, which shall be the original cost of the asset reduced by any initial allowance and annual allowances granted under this section;
+(c) the annual allowance in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset still unallowed under this section as at the beginning of the basis period for that year of assessment;
 
-(d) where an election under paragraph (c) has been made by a person with respect to any asset, the annual allowance in respect of the same asset to be made to that person for any year of assessment after his tax relief period shall be computed in accordance with the formula C , —
+(d) for the purposes of the Sixth Schedule, where any question arises as to the classification of an asset under any item of that Schedule, the asset shall be treated as falling under such item as the Comptroller considers proper.
 
-D where C is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period; and
+[28/80; 32/95; 53/2007]
 
-D is the number of years of working life of the asset as specified in the Sixth Schedule reduced by the number of whole years the asset has been put into use as at the end of the basis period in which his tax relief ends and if the result is less than 1, D shall be deemed to be 1;
+*(3) Notwithstanding subsections (1) and (2), in respect of a motor car to which this subsection applies —
 
-(e) the annual allowance in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset still unallowed under this section as at the beginning of the basis period for that year of assessment;
+(a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure
 
-(f) for the purposes of the Sixth Schedule, where any question arises as to the classification of an asset under any item of that Schedule, the asset shall be treated as falling under such item as the Comptroller considers proper.
+*This subsection will be amended as set out in section 15 (b) of the Income Tax (Amendment No. 2) Act 2007 (Act 53 of 2007) from the year of assessment 2009.
 
-[28/80; 32/95]
+incurred in respect of that motor car or $35,000, whichever is the less;
 
-(3) Notwithstanding subsections (1) and (2), in respect of a motor car to which this subsection applies —
-
-(a) the initial allowance to be made under subsection (1) shall be calculated on an amount equal to the capital expenditure incurred in respect of that motor car or $35,000, whichever is the less;
-
-(b) the annual allowance to be made under subsection (2) shall be calculated on the basis that the original cost of that motor car is the capital expenditure incurred or $35,000, whichever is the less; and
+*(b) the annual allowance to be made under subsection (2) or section 19A (1) shall be calculated on the basis that the original cost of that motor car is the capital expenditure incurred or $35,000, whichever is the less; and
 
 (c) the aggregate of the initial and annual allowances to be made under this subsection for all relevant years of assessment shall not exceed $35,000.
 
@@ -62,7 +57,7 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 [32/99]
 
-(5) No allowance under this section shall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
+**(5) No allowance under this section or section 19A shall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
 (a) a taxi;
 
@@ -70,12 +65,36 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 (c) a private hire car acquired by a person who carries on the business of hiring out cars and which is used by the person principally for hiring;
 
+*The words in italics in paragraph (b) shall have effect from the year of assessment 2009.
+
+**The words in italics in subsection (5) shall have effect from the year of assessment 2009.
+
 (d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276); and
 
 (e) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes and acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act.
 
-[32/99]
+[32/99; 53/2007]
+
+(5A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
+
+*(5B) For the purposes of subsection (2), where, at the end of the basis period for the year of assessment 2009, a person has in use any of the following motor vehicles within the meaning of the Road Traffic Act:
+
+(a) a motor car;
+
+(b) a motor cycle;
+
+(c) a goods vehicle the maximum weight of which laden does not exceed 3,000 kilograms, in respect of which allowances have been made under this section, there shall be made to him, on due claim for that or any subsequent year of assessment and in lieu of any further annual allowance under
+
+1
+
+this section, an annual allowance of 33 ⁄3% in respect of the capital expenditure remaining unallowed under this section in respect of the motor vehicle as at the beginning of the basis period for the year of assessment 2009.
+
+[53/2007]
 
 (6) In subsection (1), ‘‘prescribed’’ means prescribed by an order made by the Minister.
 
 (7) Every order made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+
+*Subsection (5B) shall have effect from the year of assessment 2009.

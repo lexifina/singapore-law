@@ -1,4 +1,4 @@
-# 49. Double taxation arrangements … … … … … … 269
+# 49. Avoidance of double taxation arrangements … … … 368
 Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (1) If the Minister by order declares that arrangements specified in the order have been made with the government of any country outside Singapore with a view to affording relief from double taxation in relation to tax under this Act and any tax of a similar character imposed by the laws of that country, and that it is expedient that those arrangements should have effect, the arrangements shall have effect notwithstanding anything in any written law.

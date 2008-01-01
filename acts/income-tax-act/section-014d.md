@@ -1,5 +1,5 @@
-# 14D. Expenditure on research and development … … … … 114
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14D. Expenditure on research and development … … … … 158
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) For the purpose of ascertaining the income of any person carrying on a manufacturing trade or business or a trade or business for the provision of any services, the following expenditure incurred (other than any amount which is allowable as a deduction under section 14) by that person shall be allowed as a deduction:
 

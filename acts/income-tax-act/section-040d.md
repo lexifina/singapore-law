@@ -1,7 +1,7 @@
-# 40D. Relief for non-resident deriving income from activity as public entertainer and employee, etc. … … … … … 226
+# 40D. Relief for non-resident deriving income from activity as public entertainer and employee, etc. … … … … … 308
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
-(1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who derives income from 2 or more of the following sources (referred to in this section as relevant income) in the year preceding that year of assessment —
+(1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who derives income from 2 or more of the following sources (referred to in this section as relevant income) in the year preceding that year of assessment:
 
 (a) income derived as a public entertainer within the meaning of section 40A;
 

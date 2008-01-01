@@ -1,4 +1,4 @@
-# 43K. Concessionary rate of tax for members of commodity futures exchange … … … … … … … … … … 247
+# 43K. Concessionary rate of tax for members of Commodity Futures Exchange … … … … … … … … 333
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 

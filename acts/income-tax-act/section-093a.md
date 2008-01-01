@@ -1,7 +1,10 @@
-# 93A. Relief in respect of error or mistake … … … … … 314
+# 93A. Relief in respect of error or mistake … … … … … 415
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
+Heading: Section Pages
 
-(1) If any person who has paid tax for any year of assessment alleges that an assessment is excessive by reason of some error or mistake in the return or statement made by him for the purposes of the assessment, he may, at any time not later than 6 years after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
+(1) If any person who has paid tax for any year of assessment alleges that an assessment is excessive by reason of some error or mistake in the return or statement made by him for the purposes of the assessment, he may, at any time not later than 6 years (if the year of assessment within which the assessment was made is 2007 or a preceding year of assessment) or 4 years (if the year of assessment within which the assessment is made is 2008 or a subsequent year of assessment) after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
+
+[53/2007]
 
 (2) On receiving any such application, the Comptroller shall inquire into the matter and shall, subject to this section, give by way of repayment of tax such relief in respect of the error or mistake as appears to him to be reasonable and just.
 
@@ -9,7 +12,9 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (4) In determining any application under this section, the Comptroller shall have regard to all the relevant circumstances of the case, and in particular shall consider whether the granting of relief would result in the exclusion from charge to tax of income of the applicant, and for this purpose the Comptroller may take into consideration the liability of the applicant and assessments made upon him in respect of other years.
 
-(5) Section 79 shall apply in respect of an appeal against a determination of the Comptroller under this section except that no such appeal shall be entertained until the sum of $250 has been deposited with the clerk to the Board of Review.
+(5) Section 79 shall apply in respect of an appeal against a determination of the Comptroller under this section except that no such appeal shall be entertained until the sum of $250 has been deposited with the secretary to the Board of Review.
+
+[53/2007]
 
 (6) The sum referred to in subsection (5) shall be refunded in the event of the appeal being allowed.
 

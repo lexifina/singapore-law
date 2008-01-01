@@ -1,5 +1,6 @@
-# 14N. Deduction of upfront land premium … … … … … 130
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14N. Deduction for upfront land premium … … … … … 174
+Part: PART V DEDUCTIONS AGAINST INCOME
+Heading: Section Pages
 
 (1) Where the Comptroller is satisfied that an upfront land premium has been paid by a lessee to a relevant body in respect of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity in that building or structure, there shall, subject to this section, be allowed to the lessee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula A , —
 
@@ -73,9 +74,7 @@ D is the remaining number of years (excluding any part of a year) of the term of
 
 ‘‘relevant body’’ means —
 
-(a) the Housing and Development Board constituted under the Housing and Development Act (Cap. 129);
-
-or
+(a) the Housing and Development Board constituted under the Housing and Development Act (Cap. 129); or
 
 (b) the Jurong Town Corporation constituted under the Jurong Town Corporation Act (Cap. 150);
 

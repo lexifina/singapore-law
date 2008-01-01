@@ -1,5 +1,5 @@
-# 32. Valuation of trading stock on discontinuance or transfer of trade or business … … … … … … … … 183
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
+# 32. Valuation of trading stock on discontinuance or transfer of trade or business … … … … … … … … 242
+Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
 
 (1) In computing for any purpose of this Act the gains or profits of a trade or business which has been discontinued or transferred, any trading stock belonging to the trade or business at the discontinuance or transfer thereof shall be valued as follows:
 

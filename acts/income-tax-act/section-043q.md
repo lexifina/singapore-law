@@ -1,4 +1,4 @@
-# 43Q. Concessionary rate of tax for financial sector incentive company … … … … … … … … … … 250
+# 43Q. Concessionary rate of tax for financial sector incentive company … … … … … … … … … … 337
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 

@@ -1,4 +1,4 @@
-# 10E. Ascertainment of income of investment holding company … 38
+# 10E. Ascertainment of income from business of making investment 47
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Notwithstanding any other provisions of this Act, in determining the income of a company or trustee of a property trust derived from any business of the making of investments the following provisions shall apply:
@@ -13,7 +13,13 @@ and
 
 [32/95; 37/2002]
 
+(1A) Where subsection (1) would apply to the originator of any approved Islamic debt securities arrangement if that arrangement had not been entered into, that subsection shall continue to apply to the originator as if the arrangement had not been entered into.
+
+[53/2007]
+
 (2) In this section —
+
+‘‘approved Islamic debt securities arrangement’’ and ‘‘originator’’ have the same meanings as in section 10 (28);
 
 ‘‘business of the making of investments’’ includes the business of letting immovable properties;
 
@@ -23,4 +29,4 @@ and
 
 ‘‘property trust’’ means a trust which invests in immovable properties or immovable property-related assets.
 
-[32/95; 37/2002]
+[32/95; 37/2002; 53/2007]

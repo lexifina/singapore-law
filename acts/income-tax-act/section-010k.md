@@ -1,4 +1,4 @@
-# 10K. Shares redemption … … … … … … … … 47
+# 10K. Shares redemption … … … … … … … … 57
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -12,7 +12,7 @@ Heading: Section Pages
 
 (b) where the payment is not provided for out of contributed capital of the company —
 
-(i) be deemed to be a dividend paid by the company on the date of the payment, and the provisions relating to the payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), shall apply, with the necessary modifications, to the dividend deemed to be paid;
+(i) be deemed to be a dividend paid by the company on the date of the payment, and the provisions relating to the payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) shall apply, with the necessary modifications, to the dividend deemed to be paid;
 
 (ii) notwithstanding sub-paragraph (i), not be deemed to be a dividend received by the shareholder.
 

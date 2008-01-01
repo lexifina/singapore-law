@@ -1,5 +1,6 @@
-# 13N. Exemption of tax on income derived by non-ordinarily resident individual … … … … … … … … 101
+# 13N. Exemption of tax on income derived by non-ordinarily resident individual … … … … … … … … 123
 Part: PART IV EXEMPTION FROM INCOME TAX
+Heading: Section Pages
 
 (1) Where an NOR individual is resident in Singapore in any year of assessment within the period he is an NOR individual, he may, within such time in that year of assessment and in such manner as may be specified by the Comptroller, elect for all or any of his following income to be exempt from tax for that year of assessment:
 
@@ -9,9 +10,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 (ii) has a notional tax payable by him on his gains or profits from the exercise of any employment in Singapore for the year preceding that year of assessment exceeding 10% of such gains or profits;
 
-(b) any income derived from outside Singapore before he resides in Singapore, and received in Singapore during the year preceding that year of assessment;
-
-(c) notwithstanding section 10C (11), any contribution up to the relevant amount made by his employer to any non-obligatory pension or provident fund constituted outside Singapore in the year preceding that year of assessment, if he is neither a citizen of Singapore nor a Singapore permanent resident at the time such contribution is made.
+(b) notwithstanding section 10C (11), any contribution up to the relevant amount made by his employer to any non-obligatory pension or provident fund constituted outside Singapore in the year preceding that year of assessment, if he is neither a citizen of Singapore nor a Singapore permanent resident at the time such contribution is made.
 
 [37/2002]
 
@@ -77,10 +76,8 @@ E is the gains or profits from the exercise of any employment in Singapore by th
 
 (a) such perquisite as may be determined by the Comptroller;
 
-(b) leave pay;
+(b) leave pay; and
 
-(c) director’s fee; and
+(c) director’s fee.
 
-(d) gains or profits from employment deemed to be income of the NOR individual under section 51 (1).
-
-[37/2002]
+[37/2002; 49/2004]

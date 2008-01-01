@@ -1,4 +1,4 @@
-# 43E. Concessionary rate of tax for headquarters company … … 239
+# 43E. Concessionary rate of tax for headquarters company … … 326
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
@@ -16,7 +16,7 @@ Heading: Section Pages
 
 (b) in respect of any qualifying treasury, investment or financial activity only where the qualifying activity has been approved in relation to that headquarters company for such concessionary rate; and
 
-(c) subject to such conditions as the Minister or such person appointed by him may impose.
+(c) subject to such conditions as the Minister or such person as he may appoint may impose.
 
 [20/91]
 
@@ -42,6 +42,8 @@ Heading: Section Pages
 
 (5) For the purposes of subsection (4), a company shall be deemed to be an associated company in relation to an approved headquarters company if —
 
-(a) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the approved headquarters company; or
+(a) at least 25% of the total number of its issued shares are beneficially owned, directly or indirectly, by the approved headquarters company; or
 
-(b) at least 25% of the issued capital of the approved headquarters company is beneficially owned, directly or indirectly, by the first-mentioned company.
+(b) at least 25% of the total number of the issued shares of the approved headquarters company are beneficially owned, directly or indirectly, by the first-mentioned company.
+
+[34/2005]

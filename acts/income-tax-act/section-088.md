@@ -1,4 +1,4 @@
-# 88. Change of address … … … … … … … … 308
+# 88. Change of address … … … … … … … … 410
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) Subject to subsection (2), every person liable to pay income tax under the provisions of this Act shall inform the Comptroller in writing of any change in his address.

@@ -1,5 +1,5 @@
-# 14I. Provisions by banks and qualifying finance companies for doubtful debts and diminution in value of investments … 118
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14I. Provisions by banks and qualifying finance companies for doubtful debts and diminution in value of investments … 161
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of a bank or qualifying finance company, there shall be allowed as a deduction an amount in respect of the provision for doubtful debts arising from its loans and the provision for diminution in the value of its investments in securities, made in that basis period.
 
@@ -63,7 +63,7 @@ Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 ‘‘qualifying finance company’’ means a company licensed under the Finance Companies Act (Cap. 108) to carry on financing business which has, in the basis period for any year of assessment for which the deduction under this section is first allowed, capital funds of not less than $50 million and a capital adequacy ratio of not less than 12% as determined under that Act;
 
-‘‘qualifying profit’’ means the net profit (excluding any extraordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities;
+‘‘qualifying profit’’ means the net profit (excluding any extra- ordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities;
 
 ‘‘securities’’ means —
 
@@ -71,10 +71,10 @@ Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (i) those issued or guaranteed by the Government of Singapore or the government of any other country; and
 
-(ii) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of its issued capital is beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
+(ii) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of the total number of its issued shares are beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
 
 (b) any right or option in respect of any debentures, stocks, shares, bonds or notes referred to in paragraph (a); or
 
 (c) units in any unit trust within the meaning of section 10B.
 
-[28/96]
+[28/96; 34/2005]

@@ -1,4 +1,4 @@
-# 13J. Exemption of tax on gains or profits from entrepreneurial employee equity-based remuneration scheme … … … 90
+# 13J. Exemption of tax on gains or profits from entrepreneurial employee equity-based remuneration scheme … … … 115
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted on or after 1st June 2000, or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted on or after 1st January 2002, to acquire shares in any qualifying company or in its holding company, there shall, subject to this section, be exempt from tax 50% of an amount of such gains or profits as determined under subsection (2).
@@ -97,7 +97,7 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 ‘‘share acquisition scheme’’ means a scheme which imposes a minimum holding period requirement and allows an employee of a company to own or purchase shares in a qualifying company or that of its holding company, including stock options, share awards and other similar forms of employee share purchase plans but excluding phantom shares rights, share appreciation rights and any other similar rights;
 
-‘‘shares’’ includes stocks but excludes redeemable or convertible shares or shares of a preferential nature;
+‘‘shares’’ includes stocks but does not include redeemable or convertible shares or shares of a preferential nature;
 
 ‘‘total working time’’, in relation to a qualifying employee, means the total period of time spent by him as an employee for all his employers plus, if applicable, the total period of time, which shall be deemed to be 10 hours per week, spent by him on remunerative work as a self-employed person.
 

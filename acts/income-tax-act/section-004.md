@@ -1,4 +1,4 @@
-# 4. Powers of Comptroller … … … … … … … 17
+# 4. Powers of Comptroller … … … … … … … 18
 Part: PART II ADMINISTRATION
 
 (1) The Comptroller may, by notification in the Gazette or in writing, authorise any person, within or without Singapore, to perform or to assist in the performance of any specific duty imposed upon the Comptroller by this Act.

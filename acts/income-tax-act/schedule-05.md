@@ -6,13 +6,13 @@ CHILD RELIEF
 
 1. Subject to the provisions of this Schedule, the allowable deduction to an individual in respect of each of his eligible children shall be as follows:
 
-(a) for the first, second and third child $2,000
+(a) for the first, second and third child $2,000;
 
-(b) for the fourth and fifth child if born before 1st August 1973 $300
+(b) for the fourth and fifth child if born before 1st August 1973 $300;
 
 (c) for the fourth child if born on or after 1st January 1988 $2,000.
 
-2. Subject to paragraphs 1 (c) and 6 (d) and (e), no deduction shall be granted under any paragraph of this Schedule in respect of a child born on or after 1st August 1973 if that child is the fourth or subsequent child.
+2. Subject to paragraphs 1 (c) and 5 (d), no deduction shall be granted under any paragraph of this Schedule in respect of a child born on or after 1st August 1973 if that child is the fourth or subsequent child.
 
 3. No deduction shall be allowed in respect of any child —
 
@@ -20,44 +20,32 @@ CHILD RELIEF
 
 (b) who was engaged in any employment, other than under articles or indentures, or carried on or exercised a trade, business, profession or vocation, during the year preceding the year of assessment.
 
-4. Where more than one individual is entitled to claim a deduction in respect of the same child under this Schedule or the proviso to section 39 (2) (e), the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
+4. Where more than one individual is entitled to claim a deduction in respect of the same child under paragraph 1 or the proviso to section 39 (2) (e), the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
 
-5. Where a married woman has elected to be charged in her own name under section 51 (6), the deduction to be apportioned under paragraph 4 shall not exceed the deduction which would have been allowed to her husband if he had wholly maintained the child during the year preceding the year of assessment and she had not elected for separate assessment.
+5. Where a married woman, divorcee or widow maintained, in the year immediately preceding the year of assessment, a child who is a citizen of Singapore as at 31st December of that year, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39 (2) (e), be allowable to her only:
 
-6. Where a married woman who has elected to be charged in her own name under section 51 (6) has passed at one sitting the examination for the General Certificate of Education with at least 3 subjects at ordinary level or has equivalent or higher educational qualification, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39 (2) (e), be allowable to her only:
+(a) first eligible child 5% of her earned income;
 
-Below the age of 12 years Of the age of 12 years on the first day of the year or above on the first day preceding the year of of the year preceding the assessment year of assessment
+(b) second eligible child 15% of her earned income;
 
-(a) First eligible child 5% of her earned income 5% of her earned income;
+(c) third eligible child 20% of her earned income;
 
-(b) Second eligible child 15% of her earned income 10% of her earned income;
+(d) fourth eligible child of the family who 25% of her earned income.
 
-(c) Third eligible child 20% of her earned income 15% of her earned income;
+is born on or after 1987 (other than a child adopted before 1st January 2004)
+
+5A. Where more than one married woman, divorcee or widow is entitled to claim a deduction in respect of the same child under paragraph 5, the deduction shall be allowed to one such claimant only as determined by the Comptroller (whose decision shall be final) having regard to the circumstances of the case, including rights of custody, care and control and level of maintenance provided by each claimant.
 
 FIFTH SCHEDULE — continued
 
-Below the age of 12 years Of the age of 12 years on the first day of the year or above on the first day preceding the year of of the year preceding the assessment year of assessment
+6.—(1) The total deductions allowable to all individuals under paragraph 1, proviso (A) to section 39 (2) (e) and paragraph 5 in respect of the same child shall not exceed $25,000.
 
-(d) Fourth child (other $1,500 and 25% of her $1,500 and 15% of her than an adopted child) earned income earned income;
+(2) For the purpose of sub-paragraph (1), any deduction allowable under paragraph 1 or proviso (A) to section 39 (2) (e) shall first be allowed before a deduction, to the extent allowable under sub-paragraph (1), is allowed under paragraph 5.
 
-of the family who is born in 1987
-
-(e) Fourth child (other 25% of her earned income 15% of her earned income.
-
-than an adopted child) of the family who is born on or after 1st January 1988
-
-7.—(1) The total deductions allowable to all individuals under paragraph 1, proviso (A) to section 39 (2) (e) and paragraph 6 in respect of the same child shall be subject to a maximum of $15,000 if the child is below the age of 12 years on the first day of the year preceding the year of assessment or a maximum of $10,000 if the child is of the age of 12 years or above on the first day of the year preceding the year of assessment.
-
-(2) For the purpose of sub-paragraph (1), any deduction allowable under paragraph 1 or proviso (A) to section 39 (2) (e) shall first be allowed before a deduction, to the extent allowable under sub-paragraph (1), is allowed under paragraph 6.
-
-8. Subject to paragraph 7, the deduction allowable under paragraph 6 shall also be granted to a divorcee, a widow or a married woman living separately from her husband if she possesses the qualification specified in paragraph 6.
-
-9. In this Schedule —
+7. In this Schedule —
 
 (a) ‘‘child’’, in relation to an individual claiming a deduction, means a legitimate child, step-child or child adopted in accordance with any written law relating to the adopting of children;
 
-(b) where any question arises as to whether any qualification is equivalent to or higher than that specified in paragraph 6 it shall be determined by the Minister whose decision shall be final;
+(b) where any question arises as to the ranking of any child for the purpose of any deduction to be granted under this Schedule, it shall be determined by the Comptroller whose decision shall be final.
 
-(c) where any question arises as to the ranking of any child for the purpose of any deduction to be granted under this Schedule, it shall be determined by the Comptroller whose decision shall be final.
-
-[26/73; 4/75; 13/84; 1/88; 1/90; 26/93; 37/2002; 21/2003]
+[26/73; 4/75; 13/84; 1/88; 1/90; 26/93; 37/2002; 21/2003; 49/2004; 53/2007]

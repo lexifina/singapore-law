@@ -1,5 +1,5 @@
-# 14J. Further deduction for expenditure on research and development of new financial activities … … … … 121
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14J. Further deduction for expenditure on research and development of new financial activities … … … … 165
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) Subject to this section, where the Comptroller is satisfied that the following expenses have been incurred by a financial institution, there shall be allowed a further deduction of the amount of such expenses in addition to the amount allowed under section 14 —
 

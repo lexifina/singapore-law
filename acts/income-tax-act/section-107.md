@@ -1,30 +1,10 @@
-# 107. Central Fund Administrator and institution of a public character approved under section 37 … … … … … 322
+# 107. Consequential provision arising from abolition of imputation system … … … … … … … … … … 424
 Part: PART XXI MISCELLANEOUS
 
-(1) The Minister may appoint any institution of a public character to be a Central Fund Administrator for the purposes of approving institutions of a public character and regulating the administration of donations made to an institution of a public character approved under section 37.
+The following provisions shall cease to have effect from 1st January 2008:
 
-[21/2003]
+(a) sections 13 (14), 13A (6), 13B, 13D, 13E, 13H (9) to (14), 13I, 13K, 13S (10) to (16) and 14B (7) (b), (8) and (9); and
 
-(2) For the purposes of this section, the Minister may make regulations to provide for —
+(b) paragraphs (i) (in relation to paragraph (b)) and (ii) of sections 13A (8), 13H (16), 13S (18) and 14B (10).
 
-(a) the manner and criteria to be adopted by Central Fund Administrators for approving institutions of a public character;
-
-(b) the use of donations, issue of tax deduction receipts and maintenance of donation records and accounts by institutions of a public character approved under section 37; and
-
-(c) generally giving effect to or for carrying out the purposes of this section.
-
-[21/2003]
-
-(3) Where any Central Fund Administrator appointed by the Minister or any institution of a public character approved by the Minister or any Central Fund Administrator under section 37 contravenes any regulations made under subsection (2) —
-
-(a) the Central Fund Administrator or the institution of a public character, as the case may be, shall be liable to pay to the Comptroller a financial penalty of the higher of $100 or the amount ascertained by the formula 0.4 × the total value of the donations (as determined under section 37 (3)) which ought not to be allowed a deduction under section 37 (3) by reason of the contravention;
-
-(b) the Minister may revoke the appointment of the Central Fund Administrator; and
-
-(c) the Minister or the appropriate Central Fund Administrator may revoke the approval granted to the institution of a public character.
-
-[21/2003]
-
-(4) The Comptroller may remit or refund the whole or any part of the financial penalty payable by any Central Fund Administrator or approved institution of a public character under subsection (3) (a).
-
-[21/2003]
+[53/2007]

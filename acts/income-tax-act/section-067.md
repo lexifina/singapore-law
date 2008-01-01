@@ -1,11 +1,13 @@
-# 67. Keeping of books of account and giving of receipts … … 287
+# 67. Keeping of books of account and giving of receipts … … 388
 Part: PART XVI RETURNS
 
 (1) Subject to subsection (3), every person carrying on or exercising any trade, business, profession or vocation —
 
-(a) shall keep and retain in safe custody sufficient records for a period of 7 years from the year of assessment to which any income relates to enable his income and allowable deductions under this Act to be readily ascertained by the Comptroller or any officer authorised in that behalf by the Comptroller; and
+(a) shall keep and retain in safe custody sufficient records for a period of 5 years from the year of assessment to which any income relates to enable his income and allowable deductions under this Act to be readily ascertained by the Comptroller or any officer authorised in that behalf by the Comptroller; and
 
 (b) shall, if the gross receipts from such trade, business, profession or vocation in the preceding calendar year exceeded $18,000 from the sale of goods, or $12,000 from the performance of services, issue a printed receipt serially numbered for every sum received in respect of goods sold or services performed in the course of or in connection with such trade, business, profession or vocation, and shall retain a duplicate of every such receipt.
+
+[2/2007]
 
 (2) Where a machine is used for recording sales a receipt may be dispensed with if the Comptroller is satisfied that —
 

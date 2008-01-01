@@ -1,6 +1,5 @@
-# 21. Replacement of machinery or plant … … … … … 165
+# 21. Replacement of machinery or plant … … … … … 219
 Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
 
 (1) Where machinery or plant in the case of which any of the events mentioned in section 20 (1) has occurred is replaced by the owner thereof and a balancing charge falls to be made on him by reason of that event or, but for this section, would have fallen to be made on him by reason thereof, then, if by notice in writing to the Comptroller he so elects, this section shall have effect.
 
@@ -18,9 +17,7 @@ Heading: Section Pages
 
 (b) the amount of any initial allowance in respect of the said expenditure shall be calculated as if the expenditure had been reduced by the amount on which the charge would have been made;
 
-(c) in considering what annual allowance is to be made in respect of the new machinery or plant, there shall be left out of account a proportion of the machinery or plant equal to the proportion which the amount on which the charge would have been made bears to the amount of the said expenditure;
-
-and
+(c) in considering what annual allowance is to be made in respect of the new machinery or plant, there shall be left out of account a proportion of the machinery or plant equal to the proportion which the amount on which the charge would have been made bears to the amount of the said expenditure; and
 
 (d) in considering whether any, and if so what, balancing allowance or balancing charge falls to be made in respect of the new machinery or plant, the initial allowance in respect thereof shall be deemed to have been increased by an amount equal to the amount on which the charge would have been made.
 

@@ -1,66 +1,128 @@
-# 42A. Rebate for second, third and fourth child of family … … 230
+# 42A. Rebate for second, third and fourth child of family … … 313
 Part: PART XI RATES OF TAX
 
-(1) Where an individual resident in Singapore in the year of assessment has a legitimate second child of the family born to him on or after 1st January 1990, there shall, in respect of that child, be allowed for the year of assessment immediately following the year of birth of that child a rebate of —
+(1) Where an individual resident in Singapore has —
 
-(a) $20,000 if at the time of birth the mother is married or widowed and is below 28 years of age;
+(a) a second child of the family born to him on or after 1st January 2004 who is legitimate at the time of the birth;
 
-(b) $15,000 if at the time of birth the mother is married or widowed and is below 29 years of age;
+(b) an illegitimate second child of the family born to him on or after 1st January 2004 and the individual becomes lawfully married to the other natural parent of the child before the child reaches 6 years of age;
 
-(c) $10,000 if at the time of birth the mother is married or widowed and is below 30 years of age; and
+(c) a second child of the family adopted by him under any written law relating to the adoption of children on or after 1st January 2004 and before 1st January 2006; or
 
-(d) $5,000 if at the time of birth the mother is married or widowed and is below 31 years of age, against the tax payable by that individual; but where more than one individual is entitled to claim such rebate in respect of that child, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
+(d) a second child of the family adopted by him under any written law relating to the adoption of children on or after 1st January 2006 and before the child reaches 6 years of age, then there shall, in respect of that child, be allowed for the year of assessment immediately following the year of the birth in the case of paragraph (a), the year of the marriage in the case of paragraph (b), or the year of the adoption in the case of paragraph (c) or (d), a rebate of $10,000 against the tax payable by that individual.
 
-[20/91; 37/2002]
+[7/2007]
 
-(2) Where an individual resident in Singapore in the year of assessment has a legitimate third child of the family born to him on or after 1st January 1987 or a legitimate fourth child of the family born to him on or after 1st January 1988, there shall, in respect of each child whose mother is married or widowed at the time of his birth, be allowed for the year of assessment immediately following the year of birth of each child —
+(2) Where an individual resident in Singapore has —
 
-(a) a rebate of $20,000 against the tax payable by that individual;
+(a) a third or fourth child of the family born to him on or after 1st January 2004 who is legitimate at the time of the birth;
 
-but where more than one individual is entitled to claim such rebate in respect of that child, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable; and
+(b) an illegitimate third or fourth child of the family born to him on or after 1st January 2004 and the individual becomes lawfully married to the other natural parent of the child before the child reaches 6 years of age;
 
-(b) subject to subsection (3), a rebate against the tax payable by a married woman, who has elected to be charged in her own name under section 51 (6), of a sum equal to 15% of her earned income assessed for that year of assessment.
+(c) a third or fourth child of the family adopted by him under any written law relating to the adoption of children on or after 1st January 2004 and before 1st January 2006; or
 
-[24/2001; 37/2002]
+(d) a third or fourth child of the family adopted by him under any written law relating to the adoption of children on or after 1st January 2006 and before the child reaches 6 years of age, then there shall, in respect of that child, be allowed for the year of assessment immediately following the year of the birth in the case of paragraph (a), the year of the marriage in the case of paragraph (b), or the year of the adoption in the case of paragraph (c) or (d), a rebate of $20,000 against the tax payable by that individual.
 
-(3) Where a married woman has a legitimate third child or a legitimate fourth child born on or after 1st April 2001, the rebate to be allowed under subsection (2) (b) shall be subject to a maximum of $20,000 in respect of the third child and a maximum of $40,000 in respect of the fourth child.
+[7/2007]
 
-[24/2001]
+(2A) Where more than one individual is entitled to claim the rebate referred to in subsection (1) or (2), the rebate shall be apportioned between them in such proportion as they may agree or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
 
-(4) For the purposes of subsections (1) and (2) —
+[7/2007]
 
-(a) where full effect cannot be given to the rebate in respect of each child by reason of an insufficiency of the tax payable for that year of assessment, the balance of the unabsorbed rebate shall be available for deduction against the tax payable for the year of assessment immediately following that year of assessment and so on for the next 7 subsequent years of assessment;
+(3) For the purposes of subsections (1), (2) and (2A), where full effect cannot be given to the rebate in respect of any child by reason of an insufficiency of the tax payable by an individual for that year of assessment, the balance of the unabsorbed rebate shall be available for deduction against the tax payable by the individual for the year of assessment immediately following that year of assessment and any subsequent year of assessment.
 
-(b) where the third child is born within 9 years of the birth of the second child or the fourth child is born within 9 years of the birth of the third child and full effect cannot be given to the rebate in respect of the third child or fourth child, as the case may be, by reason of an insufficiency of the tax payable for that year of assessment, the rebate or balance, if any, of the unabsorbed rebate shall be available for deduction against the tax payable for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the second or third child, as the case may be, may be allowed under paragraph (a);
+[49/2004; 7/2007]
 
-(c) where the third child and the fourth child are born within 9 years of the birth of the second child and full effect cannot be given to the rebate in respect of the third or fourth child by reason of an insufficiency of the tax payable for that year of assessment, the rebate or balance, if any, of the unabsorbed rebate shall be available for deduction in the case of the third child, against the tax payable for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the second child may be allowed under paragraph (a) and in the case of the fourth child, against the tax payable for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the third child may be allowed under this paragraph; and
+(4) Where the second, third or fourth child in respect of whom a rebate is allowable to an individual under this section is adopted by another person, the rebate or balance, if any, of the unabsorbed rebate shall not be available for deduction against the tax payable by the individual for any year of assessment following the year in which the child is adopted.
 
-(d) where the second, third or fourth child in respect of whom a rebate is allowable under this section is adopted by another person within 9 years of his birth, the rebate or balance, if any, of the unabsorbed rebate shall not be available for deduction against the tax payable for any year of assessment following the year in which the child is adopted.
+[49/2004]
 
-[11/94; 37/2002]
+(5) Where, for the year of assessment 2005 or any subsequent year of assessment, an individual would have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A (1) and
 
-(5) Where a marriage has been dissolved by divorce or annulment and an individual is entitled to claim —
+(2) (a) in force immediately before 1st January 2005 but for the repeal of that section, such rebate or balance shall, subject to subsection (4), be available for deduction against the tax payable by that individual for the year of assessment 2005 and any subsequent year of assessment; but where more than one individual is entitled to claim such rebate, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
 
-(a) any rebate or balance of the unabsorbed rebate under subsection (1) or (2) in respect of any child born to the individual from that marriage; and
+[49/2004]
 
-(b) any rebate under subsection (1) or (2) in respect of any child born to the individual after the dissolution of that marriage, subsection (4) (b) and (c) shall only apply to any second, third or fourth child, as the case may be, born to the individual after the dissolution of that marriage.
+(6) Where, for the year of assessment 2005 or any subsequent year of assessment, a married woman would have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A (2) (b) and (3) in force immediately before 1st January 2005 but for the repeal of that section —
 
-[37/2002]
+(a) such rebate or balance shall, subject to subsection (4), be available for deduction against the tax payable by that woman for the year of assessment 2005 and any subsequent year of assessment up to 9 years of assessment immediately following the year of birth of the third child or fourth child, as the case may be; and
 
-(6) Where a marriage was dissolved by divorce or annulment before 1st January 2002 and an individual would, but for subsection (3) (e) in force immediately before that date, have been entitled to claim any rebate or balance of the unabsorbed rebate under subsection (1) or (2), such rebate or balance shall, subject to subsection (4) (a) to (d), be available for deduction against the tax payable by that individual only on due claim by that individual after that date and only for any year of assessment from the year of the claim or, in respect of any claim made in 2002, only from the year of assessment 2003.
+(b) where the fourth child is born within 9 years of the birth of the third child and full effect cannot be given to the rebate in respect of the fourth child by reason of an insufficiency of the tax payable by that woman for that year of assessment, the rebate or balance, if any, of the unabsorbed rebate shall, subject to subsection (4), be available for deduction, in the case of the fourth child, against the tax payable by that woman for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the third child may be allowed under paragraph (a).
 
-[37/2002]
+[49/2004]
 
-(7) In this section —
+(7) Where, for the year of assessment 2005 or any subsequent year of assessment, a married woman would have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A (1), (2) and (3) in force immediately before 1st January 2005 but for the repeal of that section, the rebate or balance of the unabsorbed rebate in respect of the third child or fourth child, as the case may be, under section 42A (2) (b) and (3) in force immediately before 1st January 2005 shall —
 
-‘‘second child of the family’’ means a child of the family being a citizen of Singapore at the time of his birth or within 12 months thereafter and who has at the time of his birth one other sibling who is a member of the same household and who is a citizen of Singapore at that time or within 12 months thereafter;
+(a) subject to subsection (4), first be allowed for deduction against the tax payable by that woman before the rebate or balance of unabsorbed rebate under section 42A (1) and (2) (a) in force immediately before 1st January 2005 is allowed; and
 
-‘‘third child of the family’’ means a child of the family being a citizen of Singapore at the time of his birth or within 12 months thereafter and who has at the time of his birth 2 other siblings who are members of the same household and who are citizens of Singapore at that time or within 12 months thereafter;
+(b) subject to section 42A (4) (b) and (c) in force immediately before 1st January 2005, be available for deduction for the year of assessment 2005 and any subsequent year of assessment.
 
-‘‘fourth child of the family’’ means a child of the family being a citizen of Singapore at the time of his birth or within 12 months thereafter and who has at the time of his birth 3 other siblings who are members of the same household and who are citizens of Singapore at that time or within 12 months thereafter;
+[49/2004]
 
-‘‘sibling’’ means a brother or sister and includes a step-brother or step-sister, or a brother or sister adopted in accordance with any written law relating to adoption.
+(8) Where a marriage has been dissolved by divorce or annulment and an individual is entitled to claim —
 
-(8) For the purposes of subsection (7), any sibling who is deceased shall be taken into account in determining the number of siblings a child has at the time of his birth.
+(a) any rebate or balance of the unabsorbed rebate under section 42A (1) or (2) in force immediately before 1st January 2005, but for the repeal of that section, in respect of any child born to the individual from that marriage; and
 
-(9) No rebate shall be allowed under this section in respect of a child who has, at the time of his birth, more than 3 other siblings who are members of the same household.
+(b) any rebate under section 42A (1) or (2) in force immediately before 1st January 2005, but for the repeal of that section, in respect of any child born to the individual after the dissolution of the marriage, subsections (5), (6) and (7) shall only apply to any second, third or fourth child, as the case may be, born to the individual after the dissolution of the marriage.
+
+[49/2004]
+
+(9) Where a marriage was dissolved by divorce or annulment before 1st January 2002 and an individual would, but for section 42A (3) (e) in force immediately before that date, have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A (1) or (2) in force immediately before 1st January 2005, such rebate or balance shall, subject to section 42A (4) (a) to
+
+(d) in force immediately before 1st January 2005, be available for deduction against the tax payable by that individual only on due claim by that individual after that date and only for any year of assessment from the year of the claim.
+
+[49/2004]
+
+(10) No rebate shall be allowed under this section in respect of a child who —
+
+(a) at the time of his birth or adoption or the marriage of his natural parents (as the case may be), has more than 3 other siblings who are members of the same household; or
+
+(b) is adopted by an individual before the individual is married.
+
+[49/2004; 7/2007]
+
+(11) In this section —
+
+‘‘second child of the family’’ means a child of the family who —
+
+(a) is a citizen of Singapore at the time of his birth or adoption or the marriage of his natural parents (as the case may be), or within 12 months thereafter; and
+
+(b) at the time of his birth, adoption or the marriage of his natural parents (as the case may be), has one other sibling who is a member of the same household;
+
+‘‘third child of the family’’ means a child of the family who —
+
+(a) is a citizen of Singapore at the time of his birth or adoption or the marriage of his natural parents (as the case may be), or within 12 months thereafter; and
+
+(b) at the time of his birth, adoption or the marriage of his natural parents (as the case may be), has 2 other siblings who are members of the same household;
+
+‘‘fourth child of the family’’ means a child of the family who —
+
+(a) is a citizen of Singapore at the time of his birth or adoption or the marriage of his natural parents (as the case may be), or within 12 months thereafter; and
+
+(b) at the time of his birth, adoption or the marriage of his natural parents (as the case may be), has 3 other siblings who are members of the same household;
+
+‘‘sibling’’ means a brother or sister and includes a step-brother, a step-sister and a brother or sister adopted under any written law relating to the adoption of children.
+
+[49/2004; 7/2007]
+
+(12) For the purposes of subsection (11), any sibling who is deceased shall be taken into account in determining the number of siblings a child has at the time of his birth or adoption or the marriage of his natural parents unless otherwise determined by the Comptroller.
+
+[49/2004; 7/2007]
+
+(13) For the purposes of subsection (11), a child is a member of a household if —
+
+(a) the members of the household include both the parents of the child or, if there is only one surviving parent, that parent;
+
+(b) in the case where the parents of the child are divorced, any member of the household is a parent of the child who has sole legal custody of the child; or
+
+(c) in the case where the parents of the child are divorced and neither has sole legal custody of the child, any member of the household is a parent of the child who has been given rights of care and control in respect of the child by any court.
+
+[53/2007]
+
+(14) If the child is a member of more than one household by virtue of subsection (13) (c), he shall be treated as such member of the household of only one parent as determined by the Comptroller (whose decision shall be final) having regard to the circumstances of the case, including the child’s living arrangements.
+
+[53/2007]
+
+(15) In subsection (13), ‘‘parent’’ includes an adoptive parent and a step-parent.
+
+[53/2007]

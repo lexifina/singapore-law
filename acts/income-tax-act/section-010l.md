@@ -1,4 +1,4 @@
-# 10L. Withdrawals from Supplementary Retirement Scheme … 48
+# 10L. Withdrawals from Supplementary Retirement Scheme … 58
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -30,9 +30,7 @@ or
 
 (a) the aggregate of the excess contribution and, unless the Comptroller otherwise directs, an amount equal to 5% of the excess contribution, to be compounded yearly in accordance with regulations made under this section; or
 
-(b) the total amount standing in his SRS account, whichever amount is the lower, shall be withdrawn by the SRS member from his SRS account by 31st December of the year in which he has been notified by the Comptroller of the excess contribution;
-
-and that amount shall be deemed to be his income chargeable to tax under section 10 (1) (g) for that year.
+(b) the total amount standing in his SRS account, whichever amount is the lower, shall be withdrawn by the SRS member from his SRS account by 31st December of the year in which he has been notified by the Comptroller of the excess contribution; and that amount shall be deemed to be his income chargeable to tax under section 10 (1) (g) for that year.
 
 [24/2001]
 

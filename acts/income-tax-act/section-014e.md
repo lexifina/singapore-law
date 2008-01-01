@@ -1,5 +1,5 @@
-# 14E. Further deduction for expenditure on research and development project 115
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14E. Further deduction for expenditure on research and development project 159
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) Subject to this section, where the Comptroller is satisfied that —
 
@@ -9,13 +9,15 @@ Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 [28/80; 3/89; 37/2002]
 
-(2) The Minister may —
+(2) The Minister or such person as he may appoint may —
 
 (a) specify the maximum amount of the expenditure (or any item thereof) incurred to be allowed under subsection (1);
 
 (b) impose such conditions as he thinks fit when approving the research and development project; and
 
 (c) specify the period or periods for which deduction is to be allowed under this section.
+
+[7/2007]
 
 (3) No deduction shall be allowed under this section in respect of any expenditure which is not allowed under section 14 or 14D.
 

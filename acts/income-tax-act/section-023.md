@@ -1,6 +1,5 @@
-# 23. Carry forward of allowances … … … … … … 167
+# 23. Carry forward of allowances … … … … … … 221
 Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
 
 (1) Where, in any year of assessment, full effect cannot, by reason of an insufficiency of gains or profits chargeable for that year of assessment, be given to any allowance falling to be made under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20, then, so long as the person entitled thereto continues to carry on the trade, profession or business in respect of the gains or profits of which the allowance falls to be made, the balance of the allowance shall, subject to subsection (3), be added to, and be deemed to form part of, the corresponding allowance, if any, for the next succeeding year of assessment, and, if no such corresponding allowance falls to be made for that year, shall be deemed to constitute the corresponding allowance for that year, and so on for subsequent years of assessment.
 
@@ -10,9 +9,9 @@ Heading: Section Pages
 
 [13/84]
 
-(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35 (1) or transferred to a claimant company under section 37C, the amount of such allowance shall be deducted from the balance in subsection (1).
+(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35 (1), transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E, the amount of such allowance shall be deducted from the balance in subsection (1).
 
-[21/2003]
+[21/2003; 49/2004; 34/2005]
 
 (4) No balance shall be added to and be deemed to form part of the corresponding allowance, if any, to be given to a company under subsection (1) unless the Comptroller is satisfied that the shareholders of the company on the last day of the year in which the allowances arose were substantially the same as the shareholders of the company on the first day of the year of assessment in which such allowances would otherwise be available under this section and such a balance shall not be allowed in any subsequent year of assessment.
 
@@ -28,16 +27,18 @@ Heading: Section Pages
 
 (7) For the purpose of subsection (4) —
 
-(a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates —
+(a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates, not less than 50% of the total number of issued shares of the company are held by or on behalf of the same persons;
 
-(i) not less than 50% of the paid-up capital of the company is held by or on behalf of the same persons;
-
-and
-
-(ii) not less than 50% of the nominal value of the allotted shares in the company is held by or on behalf of the same persons;
-
-(b) shares in a company held by or on behalf of another company shall be deemed to be held by the shareholders of the last-mentioned company; and
+(b) shares in a company held by or on behalf of another company shall be deemed to be held by the shareholders of the last- mentioned company; and
 
 (c) shares held by or on behalf of the trustee of the estate of a deceased shareholder or by or on behalf of the person entitled to those shares as beneficiaries under the will or any intestacy of a deceased shareholder shall be deemed to be held by that deceased shareholder.
 
-[26/73]
+[26/73; 34/2005]
+
+(8) For the purpose of subsection (7), where any part of a share of a shareholder is not fully paid up, there shall be disregarded a proportion equal to A , —
+
+B where A is the amount that has not been paid in respect of the share;
+
+and B is the total amount payable in respect of the share.
+
+[34/2005]

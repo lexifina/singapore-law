@@ -1,5 +1,5 @@
-# 44A. Transitional provisions for company subjected to former imputation system … … … … … … … … 256
-Part: PART XII DEDUCTION OF TAX AT SOURCE
+# 44A. Transitional provisions for company subjected to former imputation system … … … … … … … … 351
+Part: PART XII DEDUCTION OF TAX AT SOURCE Section Pages
 
 (1) This section shall —
 
@@ -19,13 +19,13 @@ and
 
 [37/2002]
 
-(4) Notwithstanding anything in this Act, where the tax on any dividend paid by a company in the year 2002 has been deducted at the rate of 24.5% —
+(4) Notwithstanding anything in this Act, where the tax on any dividend paid by a company in the year 2007 has been deducted at the rate of 20% —
 
-(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 22% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
+(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 18% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
 
-(b) the difference between the amount of tax deducted at 24.5% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the 44A balance of the company and deemed to be a part thereof.
+(b) the difference between the amount of tax deducted at 20% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the 44A balance of the company and deemed to be a part thereof.
 
-[37/2002]
+[53/2007]
 
 (5) Notwithstanding subsection (3), where a company has furnished to the Comptroller an estimate of its chargeable income for the year of assessment 2003 on or before 31st March 2003, the tax assessed on or after 1st January 2003 on such chargeable income, after deducting any amount of such tax which is set-off under subsection (9) and section 44 (18), shall be added to the 44A balance of the company on the date such tax is assessed.
 

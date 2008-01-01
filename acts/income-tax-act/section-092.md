@@ -1,5 +1,6 @@
-# 92. Remission of tax … … … … … … … … 312
+# 92. Remission of tax … … … … … … … … 413
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
+Heading: Section Pages
 
 (1) The Comptroller may remit, wholly or in part, the tax payable by any person on the ground of poverty.
 

@@ -1,5 +1,5 @@
-# 31. Income arising from settlements … … … … … … 181
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
+# 31. Income arising from settlements … … … … … … 240
+Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
 
 (1) Where under the terms of any settlement and during the life of the settlor any income, or assets representing it, will or may become payable or applicable to or for the benefit of any relative of the settlor and at the commencement of the year of assessment such relative is unmarried and has not attained the age of 21 years, such income or assets shall be deemed to be income of the settlor and not income of any other person.
 
@@ -7,7 +7,9 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (a) any person has or may have power, whether immediately or in the future, and whether with or without the consent of any other person, to revoke or otherwise determine the settlement or any provision thereof; and
 
-(b) in the event of the exercise of the power, the settlor or the wife or husband of the settlor will or may become beneficially entitled to the whole or any part of the property then comprised in the settlement, or of the income arising from the whole or any part of the property so comprised, all income arising under the settlement from the property comprised in the settlement shall be deemed to be income of the settlor and, subject to section 51, not income of any other person.
+(b) in the event of the exercise of the power, the settlor or the wife or husband of the settlor will or may become beneficially entitled to the whole or any part of the property then comprised in the settlement, or of the income arising from the whole or any part of the property so comprised, all income arising under the settlement from the property comprised in the settlement shall be deemed to be income of the settlor and not income of any other person.
+
+[49/2004]
 
 (3) Subsection (2) shall not apply by reason only that the settlor or the wife or husband of the settlor will or may become beneficially entitled to any income or property relating to the interest of any beneficiary under the settlement in the event that the beneficiary should die before him.
 

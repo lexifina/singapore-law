@@ -1,5 +1,5 @@
-# 27. Profits of non-resident shipowner or charterer … … … 178
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
+# 27. Profits of non-resident shipowner or charterer … … … 237
+Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
 
 (1) Where a non-resident person carries on the business of shipowner or charterer, the income on which tax is payable shall be ascertained as provided in this section.
 

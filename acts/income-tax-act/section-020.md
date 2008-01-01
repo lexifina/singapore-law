@@ -1,6 +1,5 @@
-# 20. Balancing allowances and charges for machinery or plant … 163
+# 20. Balancing allowances and charges for machinery or plant … 217
 Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
 
 (1) Except as provided in this section, where at any time after the setting up and on or before the permanent discontinuance of a trade, profession or business, any event occurs whereby machinery or plant in respect of which allowances under section 19 or 19A have been made to a person carrying on a trade, profession or business —
 
@@ -24,16 +23,24 @@ Heading: Section Pages
 
 [13/84]
 
-(5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19 (3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula 35,000A , ————
+(5) Notwithstanding anything in this section but subject to subsection (6A), where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19 (3) applies, the sum to be taken in lieu of the open- market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula 35,000A , ————
 
 B where A is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
 
 B is the capital expenditure incurred in respect of the motor car.
 
-[37/75; 9/80; 5/83]
+[37/75; 9/80; 5/83; 49/2004]
 
 (6) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19 (4) (a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
 
 [9/80; 1/98]
+
+(6A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, and any balancing allowance or balancing charge arises to be made —
+
+(a) the balancing allowance shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances; and
+
+(b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004]
 
 (7) In this section, ‘‘open-market price’’, in relation to any machinery or plant, means the price which the machinery or plant would have fetched if sold in the open market at the time of the event in question; except that where the Comptroller is satisfied by reason of the special nature of any machinery or plant that it is not practicable to determine an open-market price, he may adopt such other value as appears to him to be reasonable in the circumstances.

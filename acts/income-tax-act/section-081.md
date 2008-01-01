@@ -1,6 +1,5 @@
-# 81. Appeals to High Court … … … … … … … 304
+# 81. Appeals to High Court … … … … … … … 405
 Part: PART XVIII APPEALS
-Heading: Section Pages
 
 (1) Except as provided in this section, the decision of the Board shall be final.
 

@@ -1,5 +1,6 @@
-# 91. Deduction of tax from emoluments and pensions … … 310
+# 91. Deduction of tax from emoluments and pensions … … 412
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
+Heading: Section Pages
 
 (1) Where any income chargeable under section 10 (1) (b) or (e) is payable to any individual, deductions on account of tax which is or will be payable by him for any year of assessment shall, if the Comptroller so directs, be made out of the income or any arrears thereof.
 

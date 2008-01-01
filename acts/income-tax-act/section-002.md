@@ -1,7 +1,9 @@
-# 2. Interpretation … … … … … … … … … 10
+# 2. Interpretation … … … … … … … … … 12
 Part: PART I PRELIMINARY Section Pages
 
 (1) In this Act, unless the subject or context otherwise requires —
+
+‘‘account with the electronic service’’, in relation to any person, means a computer account within the electronic service which is assigned by the Comptroller to that person for the storage and retrieval of electronic records relating to that person;
 
 ‘‘accountant’’ means a public accountant within the meaning of the Accountants Act (Cap. 2);
 
@@ -11,35 +13,37 @@ Part: PART I PRELIMINARY Section Pages
 
 ‘‘approved pension or provident fund or society’’ means a pension or provident fund or society approved by the Comptroller under section 5;
 
+‘‘authentication code’’, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
+
 ‘‘basis period’’ for any year of assessment means the period on the profits of which tax for that year falls to be assessed;
 
 ‘‘body of persons’’ means any body politic, corporate or collegiate, any corporation sole and any fraternity, fellowship or society of persons whether corporate or unincorporate but does not include a company or a partnership;
-
-‘‘Central Fund Administration’’ means any institution of a public character appointed to be a Central Fund Administrator under section 107 (1);
 
 ‘‘Commonwealth’’, in relation to a country, means any country recognised by the President to be a Commonwealth country and ‘‘part of the Commonwealth’’ means any Common- wealth country, colony, protectorate or protected state or any other territory administered by the government of any Commonwealth country;
 
 ‘‘company’’ means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-‘‘Comptroller’’ means the Comptroller of Income Tax appointed under section 3 (1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45 (7), 67 (1) (a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+‘‘Comptroller’’ means the Comptroller of Income Tax appointed under section 3 (1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 67 (1) (a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 ‘‘country’’ includes a territory;
 
 ‘‘crops’’ includes any form of vegetable produce;
 
-‘‘earned income’’ means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under section 37 (3) (a) from —
+‘‘earned income’’ means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under section 37 (3) (a) or 37E or claimed under section 37D (excluding any donation referred to in section 37D (8) (c)) or 37F from —
 
 (a) gains or profits from any trade, business, profession, vocation or employment on which tax is payable under section 10 (1), where the Comptroller is satisfied that such gains or profits are immediately derived from the carrying on or exercise by such individual or Hindu joint family, as the case may be, of such trade, business, profession, vocation or employment; and
 
 (b) any pension on which tax is payable under section 10 (1) (e) given to the individual in respect of the past services of such individual or any deceased individual;
+
+‘‘electronic record’’ has the same meaning as in the Electronic Transactions Act (Cap. 88);
+
+‘‘electronic service’’ means the electronic service provided by the Comptroller under section 8A (1);
 
 ‘‘employee’’ —
 
 (a) in relation to a company, includes a director of the company; and
 
 (b) in relation to a statutory board, includes the chairman and any member of the statutory board, and ‘‘employer’’ and other cognate expressions shall be construed accordingly;
-
-‘‘employment pass’’ means an employment pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
 
 ‘‘executor’’ means any executor, administrator or other person administering the estate of a deceased person;
 
@@ -53,27 +57,13 @@ Part: PART I PRELIMINARY Section Pages
 
 ‘‘incapacitated person’’ means any infant, lunatic, idiot or insane person;
 
-‘‘institution of a public character’’ means an institution or fund in Singapore which is —
+‘‘institution of a public character’’ has the same meaning as in the Charities Act (Cap. 37);
 
-(a) a hospital not operated or conducted for profit;
-
-(b) a public or benevolent institution not operated or conducted for profit;
-
-(c) a public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings, where the donation is for such activities;
-
-(d) a university or a public fund for the establishment, maintenance, enlargement or improvement of a university;
-
-(e) an educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution;
-
-(f) a public or private fund for the provision, establishment or endowment of a scholarship, exhibition or prize in a university, or an educational institution not operated or conducted for profit;
-
-(g) a public fund established and maintained for the relief of distress among members of the public;
-
-(h) a charitable institution or a body of persons or a trust established for charitable purposes only; or
-
-(i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports;
+‘‘issued shares’’ excludes treasury shares;
 
 ‘‘life annuity’’ means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
+
+‘‘limited liability partnership’’ means any limited liability partnership incorporated or registered under any law in force in Singapore or elsewhere;
 
 ‘‘local forces’’ means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
 
@@ -103,7 +93,9 @@ Part: PART I PRELIMINARY Section Pages
 
 (A) has and habitually exercises an authority to conclude contracts;
 
-(B) maintains a stock of goods or merchandise for the purpose of delivery on behalf of that person; or
+(B) maintains a stock of goods or merchandise for the purpose of delivery on behalf of that person;
+
+or
 
 (C) habitually secures orders wholly or almost wholly for that person or for such other enterprises as are controlled by that person;
 
@@ -143,8 +135,6 @@ Part: PART I PRELIMINARY Section Pages
 
 (b) in relation to a company or body of persons, means a company or body of persons the control and management of whose business is exercised in Singapore;
 
-‘‘return’’ includes an electronic return under section 71A;
-
 ‘‘SRS account’’ means an account opened with an SRS operator by an SRS member;
 
 ‘‘SRS contribution cap’’, in relation to an SRS member, means the maximum contribution prescribed under section 10L that may be made by the member to his SRS account in any year under the SRS;
@@ -157,13 +147,17 @@ Part: PART I PRELIMINARY Section Pages
 
 ‘‘tax’’ means the income tax imposed by this Act;
 
-‘‘work permit’’ means a work permit issued by the Controller of Work Permits under the Employment of Foreign Workers Act (Cap. 91A);
+‘‘treasury share’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+
+‘‘work pass’’ means a work pass issued by the Controller of Work Passes under the Employment of Foreign Manpower Act (Cap. 91A);
 
 ‘‘year of assessment’’ means the period of 12 months commencing on 1st January 1948, and each subsequent period of 12 months.
 
-[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95;
+[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95; 1/98;
 
-1/98; 31/98; 32/99; 24/2001; 42/2001; 37/2002; 21/2003]
+31/98; 32/99; 24/2001; 42/2001; 37/2002; 21/2003; 49/2004;
+
+34/2005; 10/2007; 30/2007]
 
 (2) For the purposes of this Act, where an individual is present in Singapore for any part of a day his presence on that day shall be counted as one day.
 

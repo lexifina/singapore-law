@@ -1,5 +1,5 @@
-# 57. Power to appoint agent … … … … … … … 279
-Part: PART XV PERSONS CHARGEABLE Husband and wife
+# 57. Power to appoint agent … … … … … … … 377
+Part: PART XV PERSONS CHARGEABLE Husband and wife Section Pages
 
 (1) The Comptroller may by notice in writing, if he thinks it necessary, declare any person to be the agent of any other person.
 

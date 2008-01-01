@@ -1,5 +1,5 @@
-# 14B. Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office … … … … … … … … 111
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14B. Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office … … … … … … … … 152
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) Subject to this section, where the Comptroller is satisfied that the expenses specified in subsection (2) have been incurred by an approved company or firm resident in or having a permanent establishment in Singapore for the primary purpose of —
 
@@ -23,9 +23,9 @@ or
 
 [31/98]
 
-(3) The Minister may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1).
+(3) The Minister or such person as he may appoint may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1).
 
-[26/93; 31/98]
+[26/93; 31/98; 7/2007]
 
 (4) No deduction shall be allowed under this section in respect of —
 
@@ -81,13 +81,13 @@ or
 
 (a) any further deduction which has been allowed under this section, section 14E, 14J or 14L; or
 
-(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years after the expiration thereof —
+(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
 
 (ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
 
-[28/92; 11/94; 31/98; 37/2002]
+[28/92; 11/94; 31/98; 37/2002; 53/2007]
 
 (11) In this section —
 

@@ -1,17 +1,25 @@
-# 46. Tax deducted from dividends, interests, etc. … … … 266
+# 46. Tax deducted from dividends, interests, etc. … … … 364
 Part: PART XIII ALLOWANCES FOR TAX CHARGED
 
 (1) Any tax —
 
-(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D or 45E (1) (a) or has deducted from any remuneration under section 45B;
+*(a) which a person has deducted or is entitled to deduct from any dividend under section 44 or has deducted from any interest or other payment under section 45, 45A, 45C, 45D, 45E (1) (a), 45GA or 45H or has deducted from any remuneration under section 45B;
 
-(b) applicable to the share to which any person is entitled in the income of a body of persons or trust; or
+(b) applicable to the share to which any person is entitled in the income of —
 
-(c) which a person has deducted from any payment under section 45F in respect of income accrued to or derived by any person who has made an option under section 43 (5), shall, when the income from which the tax has been deducted or when the share referred to in paragraph (b) is included in the chargeable income of any person, be set-off for the purpose of collection against the tax charged on that chargeable income.
+(i) a body of persons (other than trustees); or
 
-[7/79; 23/90; 23/96; 24/2001; 37/2002]
+(ii) a trust in respect of any dividend derived from Singapore from which tax is deducted or deductible under section 44;
+
+(c) which a person has deducted from any payment under section 45F in respect of income accrued to or derived by any person who has made an option under section 43 (5); or
+
+(d) which a trustee of a real estate investment trust has deducted from any distribution to any person referred to in section 45G (1) (b), shall, when the income from which the tax has been deducted or when the share referred to in paragraph (b) is included in the chargeable income of any person, be set-off for the purpose of collection against the tax charged on that chargeable income.
+
+[7/79; 23/90; 23/96; 24/2001; 37/2002; 34/2005; 10/2006; 7/2007; 53/2007]
 
 (1A) For the purpose of subsection (1), the amount of tax deducted from a dividend under section 44 (1) to be set-off for the purpose of collection against the tax charged on the chargeable income of any person shall not exceed —
+
+*The words in italics in paragraph (a) will have effect when section 202 of the Casino Control Act is brought into operation.
 
 (a) the actual amount of tax deducted from the dividend received by that person; or
 
@@ -19,9 +27,9 @@ Part: PART XIII ALLOWANCES FOR TAX CHARGED
 
 [37/2002]
 
-(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2002 has been deducted at the rate of 24.5%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44A (4).
+(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2007 has been deducted at the rate of 20%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44A (4).
 
-[37/2002]
+[53/2007]
 
 (3) Notwithstanding subsection (1), if any amount of the charge referred to in section 44 (4) or (6), or any amount of tax payable referred to in section 44 (4), (6) or (13) is not paid within 14 days from the date of payment of any dividend to which the charge or tax relates or by 31st December of the year in which the dividend is paid, whichever is the later, no set-off against tax under subsection (1) shall be allowed in respect of the whole of the dividend.
 

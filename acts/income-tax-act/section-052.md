@@ -1,5 +1,5 @@
-# 52. Chargeability of trustees, etc. … … … … … … 275
-Part: PART XV PERSONS CHARGEABLE Husband and wife
+# 52. Chargeability of trustees, etc. … … … … … … 374
+Part: PART XV PERSONS CHARGEABLE Husband and wife Section Pages
 
 (1) A receiver appointed by the court, a trustee, guardian, curator or committee, having the direction, control or management of any property or concern on behalf of any incapacitated person shall be chargeable to tax in like manner and to the like amount as such person would be chargeable if he were not an incapacitated person.
 

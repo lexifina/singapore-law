@@ -1,9 +1,10 @@
-# 14O. Deduction for special reserve of approved general insurance company … … … … … … … … … … 133
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14O. Deduction for special reserve of approved general insurer … 177
+Part: PART V DEDUCTIONS AGAINST INCOME
+Heading: Section Pages
 
-(1) The Minister may by regulations provide that, for the purpose of ascertaining the income of a general insurance company approved by the Minister or such person as he may appoint from carrying on the business of insuring and reinsuring offshore risks, there shall be allowed for a period of 10 years a deduction for the prescribed amount of special reserves set aside by the approved general insurance company for prescribed offshore risks.
+(1) The Minister may by regulations provide that, for the purpose of ascertaining the income of a general insurer approved by the Minister or such person as he may appoint from carrying on the business of insuring and reinsuring offshore risks, there shall be allowed for a period of 10 years a deduction for the prescribed amount of special reserves set aside by the approved general insurer for prescribed offshore risks.
 
-[37/2002]
+[37/2002; 34/2005]
 
 (2) Regulations made under subsection (1) may provide for —
 
@@ -17,6 +18,10 @@ Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 [37/2002]
 
-(3) In this section, ‘‘offshore risk’’ has the same meaning as in section 26.
+(3) In this section —
 
-[37/2002]
+‘‘insurer’’ has the same meaning as in section 43C;
+
+‘‘offshore risk’’ has the same meaning as in section 26.
+
+[34/2005]

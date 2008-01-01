@@ -1,4 +1,4 @@
-# 96. Tax evasion … … … … … … … … … 317
+# 96. Tax evasion … … … … … … … … … 420
 Part: PART XX OFFENCES AND PENALTIES
 
 (1) Any person who wilfully with intent to evade or to assist any other person to evade tax —

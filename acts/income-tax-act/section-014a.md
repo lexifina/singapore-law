@@ -1,5 +1,5 @@
-# 14A. Deduction for patenting costs … … … … … … 109
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14A. Deduction for patenting costs … … … … … … 151
+Part: PART V DEDUCTIONS AGAINST INCOME
 
 (1) Subject to this section, where a person carrying on a trade or business has incurred during the period from 1st June 2003 to 31st May 2013 patenting costs for the purposes of that trade or business, there shall be allowed to him a deduction of the amount of such costs.
 
@@ -45,8 +45,6 @@ Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
 
 (iii) giving advice on the validity or infringement of the patent;
 
-‘‘registered patent agent’’ has the same meaning as in the Patents Act (Cap. 221).
-
-[14P
+‘‘registered patent agent’’ has the same meaning as in the Patents Act.
 
 [21/2003]

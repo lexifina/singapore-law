@@ -1,4 +1,4 @@
-# 40A. Relief for non-resident public entertainers … … … … 221
+# 40A. Relief for non-resident public entertainers … … … … 304
 Part: PART X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
 
 (1) This section shall apply to a person who, in any year of assessment, is not resident in Singapore and who derives income as a public entertainer or derives such income and income from any other source in the year preceding that year of assessment which does not include —

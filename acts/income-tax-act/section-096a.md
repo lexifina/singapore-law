@@ -1,4 +1,4 @@
-# 96A. Serious fraudulent tax evasion … … … … … … 318
+# 96A. Serious fraudulent tax evasion … … … … … … 420
 Part: PART XX OFFENCES AND PENALTIES
 
 (1) Any person who wilfully with intent to evade or to assist any other person to evade tax —

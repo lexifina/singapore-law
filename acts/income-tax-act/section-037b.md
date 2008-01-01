@@ -1,5 +1,6 @@
-# 37B. Adjustment of capital allowances, losses or donations between income subject to tax at different rates … … … 196
+# 37B. Adjustment of capital allowances, losses or donations between income subject to tax at different rates … … … 269
 Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
+Heading: Section Pages
 
 (1) This section shall apply to any company whose income for any year of assessment is subject to tax at different rates.
 
@@ -53,7 +54,7 @@ and B is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13 (12); or
 
-(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L, 43M (repealed), 43N, 43O, 43P or 43Q, as the case may be;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be;
 
 ‘‘losses’’ means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -61,4 +62,4 @@ and B is the lower rate of tax for that year of assessment;
 
 ‘‘unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax’’ means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a lower rate of tax.
 
-[37/2002; 21/2003]
+[37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]

@@ -1,6 +1,5 @@
-# 45D. Application of section 45 to gains from real property transaction … … … … … … … … … 262
-Part: PART XII DEDUCTION OF TAX AT SOURCE
-Heading: Section Pages
+# 45D. Application of section 45 to gains from real property transaction … … … … … … … … … 358
+Part: PART XII DEDUCTION OF TAX AT SOURCE Section Pages
 
 (1) Where any person whose income arising from the disposal of any real property is chargeable to tax under section 10 (1) (a) is a non-resident person, any designated person shall, before paying to the non-resident person any money which is the whole or part of the consideration for the disposal of the real property, notwithstanding any other written law, immediately deduct therefrom tax at the rate of 15% on every dollar of such payment.
 

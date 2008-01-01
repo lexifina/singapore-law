@@ -1,5 +1,6 @@
-# 90. Statement of Comptroller sufficient … … … … … 310
+# 90. Statement of Comptroller sufficient … … … … … 411
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
+Heading: Section Pages
 
 (1) In any civil or criminal proceedings under this Act, every statement purporting to be under the hand of the Comptroller contained in the information, complaint, declaration or claim shall be prima facie evidence of the matter stated therein.
 

@@ -1,4 +1,4 @@
-# 13A. Exemption of shipping profits … … … … … … 71
+# 13A. Exemption of shipping profits … … … … … … 92
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) There shall be exempt from tax the income of a shipping enterprise derived or deemed to be derived from the operation of Singapore ships or foreign ships as hereinafter provided.
@@ -17,15 +17,15 @@ Part: PART IV EXEMPTION FROM INCOME TAX
 
 [31/98]
 
-(3) In determining the income of a shipping enterprise —
+(3) In determining the income of a shipping enterprise from the operation of Singapore ships or foreign ships —
 
-(a) the capital allowances provided under sections 16, 17, 18, 19, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income;
+(a) the capital allowances provided under sections 16, 17, 18, 19, 19A, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income;
 
 and
 
 (b) a loss incurred by a shipping enterprise in respect of the operation of a Singapore ship or foreign ship for any year shall only be deducted against the income exempt under this section, and the balance of such loss shall not be available as a deduction against any other income.
 
-[4/75; 31/98]
+[4/75; 31/98; 7/2007]
 
 (4) The Comptroller shall for each year of assessment issue to a shipping enterprise a statement showing the amount of income derived from the operation of Singapore ships or foreign ships by the shipping enterprise; and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
@@ -33,7 +33,9 @@ and
 
 (5) Subject to subsection (8) where any statement issued under subsection (4) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of a shipping enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
 
-(5A) For the purposes of subsection (5), the Comptroller may, before such statement has become final and conclusive, treat a specified amount of the income of a shipping enterprise as exempt from tax pending such statement becoming final and conclusive.
+(5A) For the purposes of subsection (5), the Comptroller may, before such statement has become final and conclusive, treat a specified amount of the income of a shipping enterprise from the operation of Singapore ships or foreign ships as exempt from tax pending such statement becoming final and conclusive.
+
+[7/2007]
 
 (6) The following provisions shall apply to a shipping enterprise resident in Singapore:
 
@@ -59,13 +61,13 @@ and
 
 (a) any income of a shipping enterprise which has been exempted from tax; or
 
-(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may at any time within 6 years from the date of the statement referred to in subsection (4) —
+(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so exempted, the Comptroller may at any time within 6 years (if the year of assessment to which the statement relates is 2007 or a preceding year of assessment) or 4 years (if the year of assessment to which the statement relates is 2008 or a subsequent year of assessment) from the date of the statement referred to in subsection (4) —
 
 (i) make such assessment or additional assessment upon the shipping enterprise or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
 (ii) direct the shipping enterprise to debit its account kept in accordance with subsection (6) with such amount as the circumstances may require.
 
-[11/94; 37/2002]
+[11/94; 37/2002; 53/2007]
 
 (9) Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment or a direction under subsection (8) were a notice of assessment.
 
@@ -73,9 +75,9 @@ and
 
 [31/98]
 
-(11) Where in the basis period for any year of assessment a ship ceases to be a Singapore ship the income derived from the operation of which is exempt under this section, the capital allowances in respect of that ship for that year of assessment and subsequent years shall be calculated on the residue of expenditure or reducing value of the assets after taking into account the capital allowances provided for in sections 16, 17, 18, 19, 20, 21 and 22 for those years of assessment during which income derived from the operation of the ship was exempt from tax notwithstanding that no claim for such allowances was made.
+(11) Where in the basis period for any year of assessment a ship ceases to be a Singapore ship the income derived from the operation of which is exempt under this section, the capital allowances in respect of that ship for that year of assessment and subsequent years shall be calculated on the residue of expenditure or reducing value of the assets after taking into account the capital allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21 and 22 for those years of assessment during which income derived from the operation of the ship was exempt from tax notwithstanding that no claim for such allowances was made.
 
-[4/75]
+[4/75; 7/2007]
 
 (12) Subsections (3) and (11) shall have effect notwithstanding any other provisions of this Act.
 
@@ -103,16 +105,22 @@ and
 
 ‘‘foreign ship’’ has the same meaning as in section 13F;
 
-‘‘income of a shipping enterprise’’ means the income derived by a shipping enterprise from the carriage (other than within the limits of the port of Singapore) of passengers, mails, livestock or goods —
+‘‘operation’’ means —
 
-(a) by sea-going Singapore ships, or from towing or salvage operations carried out (other than within the limits of the port of Singapore) by sea-going Singapore ships, and includes the income from the charter of such ships; or
+(a) in relation to a Singapore ship —
 
-(b) shipped in Singapore by foreign ships, excluding such carriage arising solely from transhipment from Singapore;
+(i) the carriage of passengers, mails, livestock or goods outside the limits of the port of Singapore;
 
-‘‘operation of Singapore ships’’ includes the charter of such ships;
+(ii) towing or salvage operations outside the limits of the port of Singapore;
+
+(iii) the charter of the ship for use outside the limits of the port of Singapore; or
+
+(iv) for the year of assessment 2007 and subsequent years of assessment, the use outside the limits of the port of Singapore of the ship as a dredger, seismic ship or vessel used for offshore oil or gas activity; and
+
+(b) in relation to a foreign ship, the carriage of passengers, mails, livestock or goods shipped in Singapore, except where such carriage arises solely from transhipment from Singapore;
 
 ‘‘shipping enterprise’’ means any company owning or operating Singapore ships or foreign ships;
 
 ‘‘Singapore ship’’ means a ship in respect of which a certificate of registry, other than provisionally, has been issued under the Merchant Shipping Act (Cap. 179) and its registry is not closed or deemed to be closed or suspended.
 
-[26/73; 20/91; 31/98; 37/2002; 21/2003]
+[26/73; 20/91; 31/98; 37/2002; 21/2003; 7/2007]

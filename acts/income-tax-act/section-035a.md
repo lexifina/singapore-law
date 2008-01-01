@@ -1,6 +1,5 @@
-# 35A. Cessation of source of income commenced before 1st January 1969 … … … … … … … … 188
+# 35A. Cessation of source of income commenced before 1st January 1969 … … … … … … … … 254
 Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
-Heading: Section Pages
 
 (1) This section shall only apply to any trade, business, profession, vocation or employment (except subsidiary employment which had not been treated as a new source on commencement) which commenced before 1st January 1969.
 

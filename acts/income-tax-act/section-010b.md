@@ -1,4 +1,4 @@
-# 10B. Profits of unit trusts … … … … … … … … 32
+# 10B. Profits of unit trusts … … … … … … … … 41
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Notwithstanding any other provisions of this Act, the Minister may by regulations —

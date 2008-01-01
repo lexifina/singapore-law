@@ -1,5 +1,6 @@
-# 14K. Further or double deduction for overseas investment development expenditure … … … … … … … 123
-Part: PART V DEDUCTIONS AGAINST INCOME Section Pages
+# 14K. Further or double deduction for overseas investment development expenditure … … … … … … … 167
+Part: PART V DEDUCTIONS AGAINST INCOME
+Heading: Section Pages
 
 (1) Where the Comptroller is satisfied that —
 

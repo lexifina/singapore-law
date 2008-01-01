@@ -1,4 +1,4 @@
-# 13I. Exemption of certain dividends of Singapore Exchange Derivatives Trading Limited … … … … … … 89
+# 13I. Exemption of certain dividends of Singapore Exchange Derivatives Trading Limited … … … … … … 114
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) Where any income of the Singapore Exchange Derivatives Trading Limited (including income derived by it while it was known as the Singapore International Monetary Exchange Limited) has been exempted under section 13 (1) (z), such income shall be credited to a special account to be kept by the company for the purposes of this section.
