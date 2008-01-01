@@ -1,23 +1,10 @@
-# 7. Cancellation of permit
+# 7. Issue of permit
+Part: PART II CONTROL OF IMPORT, EXPORT, ETC., OF SCHEDULED SPECIES
 
-(1) The Director-General may at any time cancel a permit issued under section 6 if —
+(1) Any person who wishes to import, export, re-export or introduce from the sea any scheduled species may apply to the Director-General, in such form as the Director-General may determine and on payment of the prescribed fee, for a permit.
 
-(a) any condition of the permit is contravened; or
+(2) The Director-General may —
 
-(b) the Director-General is satisfied that the permit was issued as a result of a misleading statement or a misrepresentation of a material fact.
+(a) issue a permit, licence, certificate or written permission to import, export, re-export or introduce from the sea any scheduled species either unconditionally or subject to such conditions or restrictions as he may impose; or
 
-[16/2000]
-
-(2) Where the Director-General cancels a permit under subsection (1), he shall forthwith notify the holder of the permit.
-
-[16/2000]
-
-(3) Where the Director-General has notified the holder of a permit under subsection (2) of the cancellation of his permit, the holder of the permit shall forthwith surrender the permit to the Director- General.
-
-[16/2000]
-
-6 CAP. 92A (Import and Export) 2000 Ed.
-
-(4) Any holder of a permit who without reasonable excuse fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[6
+(b) refuse to issue such permit, licence, certificate or written permission.

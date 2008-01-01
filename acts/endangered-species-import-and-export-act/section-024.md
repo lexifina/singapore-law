@@ -1,21 +1,8 @@
-# 24. Rules
+# 24. Jurisdiction of court, etc.
+Part: PART IV MISCELLANEOUS
 
-The Minister may make rules —
+(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(a) providing for the issue of permits for the importation, exportation, re-exportation and introduction from the sea of scheduled species;
+2008 Ed. (Import and Export) CAP. 92A 19
 
-(b) prescribing the form, duration and terms and conditions of any permit and the fees payable therefor, and providing for the cancellation and suspension thereof;
-
-(c) providing for the imposition of a levy on the import, export or re-export of any scheduled species;
-
-(d) authorising the sale or possession or control of or other dealing in scheduled species and prescribing the circum- stances and conditions under which a person may be in possession or in control of or sell or otherwise deal with any scheduled species;
-
-(e) relating to the branding, packaging, marking either permanently or temporarily and labelling of scheduled species for the purpose of identification;
-
-(f) prescribing the fees to be charged in respect of anything done under or by virtue of this Act;
-
-(g) prescribing that the penalty for any offence shall be a fine not exceeding $2,000 or imprisonment for a term not exceeding 6 months or both; and
-
-(h) generally for carrying out the purposes and provisions of this Act.
-
-[22
+(2) For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Director-General or an authorised officer.

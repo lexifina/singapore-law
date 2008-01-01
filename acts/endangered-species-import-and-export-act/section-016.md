@@ -1,9 +1,10 @@
-# 16. Power to require information
+# 16. Obstruction
+Part: PART III ENFORCEMENT POWERS AND PROCEEDINGS
 
-(1) If the Director-General has reason to suspect that any scheduled species found in any premises or conveyance or possession of any person has been imported, he may require any person who has in his possession or custody or under his control the scheduled species to declare its scientific name and to furnish him with such other information as he may require.
+Any person who —
 
-[16/2000]
+(a) obstructs or impedes the Director-General or any authorised officer in the execution of his duty under this Act; or
 
-(2) Any person who without reasonable excuse fails to comply with subsection (1) shall be guilty of an offence.
+(b) refuses or fails, without reasonable excuse, to produce or furnish such book, document, paper or information or render all necessary assistance as may be required or directed by the Director-General or an authorised officer, shall be guilty of an offence.
 
-[15
+16 CAP. 92A (Import and Export) 2008 Ed.

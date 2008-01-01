@@ -1,21 +1,14 @@
-# 17. Power to investigate
+# 17. Penalty for false declarations, etc.
+Part: PART III ENFORCEMENT POWERS AND PROCEEDINGS
 
-(1) Where the Director-General has reason to believe that any person has contravened or failed to comply with any provisions of this Act or any rules made thereunder, the Director-General may investigate the matter and, for the purposes of any such investigation, the Director-General may —
+(1) Any person who, being required by this Act to make or furnish any declaration, statement, representation or information or to produce any permit or who, for the purpose of obtaining any permit under this Act —
 
-(a) call upon any authorised officer to make whatever preliminary investigations he considers necessary;
+(a) makes or furnishes any declaration, statement, representation or information which is false in a material particular; or
 
-(b) require the production for inspection by the Director- General or any authorised officer of any book, document or paper which may relate to or be connected with the subject- matter of the investigation;
+(b) produces any permit, licence, certificate or written permission which he knows or has reason to believe is false in any material particular, which has not been given by the person by whom it purports to have been given, or which has been in any way altered or tampered with, shall be guilty of an offence.
 
-(c) require any person concerned to give all information in relation to any such books, documents or papers which may be reasonably required by the Director-General or by the authorised officer; and
+(2) Any person who —
 
-(d) require any person concerned to furnish any information as the Director-General or the authorised officer may require.
+(a) without lawful authority alters, forges, mutilates or defaces any permit; or
 
-[16/2000]
-
-(2) Any person who, without lawful excuse, refuses or fails to produce or furnish to the Director-General or any authorised officer any book, document, paper or information required of him shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
-
-[16
-
-[16/2000]
-
-2000 Ed. (Import and Export) CAP. 92A 11
+(b) knowingly makes use of any permit which has been so altered, forged, mutilated or defaced, shall be guilty of an offence.

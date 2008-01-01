@@ -1,7 +1,6 @@
-# 21. Authority not liable for damage caused to goods or property as a result of search, etc.
+# 21. Advisory Committee
+Part: PART IV MISCELLANEOUS
 
-The Authority shall not be liable to make good any damage caused to or any loss of goods or property as a result of an entry, search, detention or anything which is done under the provisions of this Act or any rules made thereunder.
+(1) The Minister may establish an Advisory Committee consisting of such members as he may appoint.
 
-[20
-
-[16/2000]
+(2) The Advisory Committee shall advise the Director-General upon any question which he may refer to it in connection with the administration of this Act.

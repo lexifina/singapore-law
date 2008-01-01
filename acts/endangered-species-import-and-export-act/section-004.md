@@ -1,9 +1,10 @@
-# 4. Restriction on import, export, re-export or introduction from sea of scheduled species
+# 4. Restriction on import, export, etc., of scheduled species
+Part: PART II CONTROL OF IMPORT, EXPORT, ETC., OF SCHEDULED SPECIES
 
-(1) No person shall import, export, re-export or introduce from the sea any scheduled species without a permit.
+(1) Any person who imports, exports, re-exports or introduces from the sea any scheduled species without a permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 for each such scheduled species (but not to exceed in the aggregate $500,000) or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) No person shall have in his possession, under his control, sell, offer or expose for sale, or display to the public any scheduled species which has been imported or introduced from the sea in contravention of subsection (1).
+(2) Any person who has in his possession or under his control, or who sells, offers or exposes or advertises for sale, or displays to the public any scheduled species which has been imported or introduced from the sea in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 for each such scheduled species (but not to exceed in the aggregate $500,000) or to imprisonment for a term not exceeding 2 years or to both.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who sells, offers or exposes or advertises for sale, or displays to the public such scheduled species as the Minister may, 2008 Ed. (Import and Export) CAP. 92A 7
 
-2000 Ed. (Import and Export) CAP. 92A 5
+by notification in the Gazette, specify shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for each such scheduled species (but not to exceed in the aggregate $100,000) or to imprisonment for a term not exceeding 12 months or to both.

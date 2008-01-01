@@ -1,9 +1,5 @@
-# 18. Advisory Committee
+# 18. General penalty
+Part: PART III ENFORCEMENT POWERS AND PROCEEDINGS
+Heading: 2 CAP. 92A (Import and Export) 2008 Ed.
 
-(1) The Minister may establish an Advisory Committee consisting of such members as he may appoint.
-
-(2) The Advisory Committee shall advise the Director-General upon any question which he may refer to it in connection with the administration of this Act.
-
-[17
-
-[16/2000]
+Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
