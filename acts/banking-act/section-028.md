@@ -1,19 +1,25 @@
 # 28. Disclosure of interest by directors
 Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
-(1) Every director of a bank in Singapore who has in any manner, directly or indirectly, an interest in an advance, loan or credit facility or proposed advance, loan or credit facility from that bank shall as soon as practicable declare the nature of his interest to the board of directors of that bank and the secretary of that bank shall cause the declaration to be circulated immediately to all the directors.
+(1) Every director of a bank in Singapore who has in any manner, directly or indirectly, an interest in a credit facility from or an exposure of, or a proposed credit facility from or exposure of, that bank shall as soon as practicable declare the nature of his interest to the board of directors of that bank and the secretary of that bank shall cause the declaration to be circulated immediately to all the directors.
 
-[23/2001]
+[23/2001; 1/2007]
 
-(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a company which is interested in an advance, loan or credit facility or proposed advance, loan or credit facility from that bank if the interest of the director may properly be regarded as of a trivial nature.
+(2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a company which is interested in a credit facility from or an exposure of, or a proposed credit facility from or exposure of, that bank if the interest of the director may properly be regarded as of a trivial nature.
 
-(3) For the purposes of subsection (1), a general notice given to the board of directors of a bank by a director to the effect that he is an officer or member of a specified company or a member of a specified firm and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that company or firm shall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
+[1/2007]
 
-(a) it specifies the nature and extent of his interest in the particular company or firm;
+(3) For the purposes of subsection (1), a general notice given to the board of directors of a bank by a director to the effect that he is an officer or a member of a specified company, or a partner or manager of a specified firm or specified limited liability partnership, and that he is to be regarded as having an interest in any credit facility or exposure which may, after the date of the notice, be granted to or acquired in respect of that company, firm or limited liability partnership, shall be deemed to be a sufficient declaration of interest in relation to any credit facility so granted or any exposure so acquired if —
 
-(b) his interest is not different in nature or greater in extent than the nature and extent so specified in the notice at the time any advance, loan or credit facility is made; and
+(a) it specifies the nature and extent of his interest in that company, firm or limited liability partnership;
 
-(c) it is given at the meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+(b) his interest is not different in nature from or greater in extent than the nature and extent so specified in the notice at the time any credit facility is granted or any exposure is acquired;
+
+and
+
+(c) it is given at a meeting of the board of directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the board of directors after it is given.
+
+[1/2007]
 
 (4) Every director of a bank in Singapore who holds any office or possesses any property whereby, directly or indirectly, duties or interest might be created in conflict with his duties or interest as director shall declare at a meeting of the directors of that bank the fact and the nature, character and extent of the conflict.
 
@@ -34,3 +40,7 @@ Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 (7) Any director who acts in contravention of subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [2/84; 23/2001]
+
+(8) In this section, ‘‘exposure’’ has the meaning given to it in the Fifth Schedule.
+
+[1/2007]

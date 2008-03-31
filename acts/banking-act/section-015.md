@@ -15,10 +15,6 @@ Part: PART III LICENSING OF BANKS
 
 (b) a financial holding company;
 
-‘‘share’’ includes stock except where a distinction between stock and shares is expressed or implied;
-
-‘‘substantial shareholder’’ has the same meaning as in section 81 of the Companies Act (Cap. 50);
-
-‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act.
+‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50).
 
 [23/2001]

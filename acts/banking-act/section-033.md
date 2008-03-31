@@ -1,7 +1,7 @@
 # 33. Immovable property
 Part: PART V PROHIBITED BUSINESS
 
-(1) No bank in Singapore shall hold or acquire interests in or rights over immovable property, wherever situated, the value of which exceeds in the aggregate 20% of the capital funds of the bank or such other percentage as the Authority may prescribe.
+(1) No bank in Singapore shall acquire or hold interests in or rights over immovable property, wherever situated, the value of which exceeds in the aggregate 20% of the capital funds of the bank or such other percentage as the Authority may prescribe.
 
 [23/2001]
 
@@ -17,6 +17,8 @@ Part: PART V PROHIBITED BUSINESS
 
 [23/2001]
 
+*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
+
 (3) The Authority may make regulations to provide for the manner of valuation or apportionment of immovable property for the purposes of this section.
 
 [23/2001]
@@ -24,5 +26,3 @@ Part: PART V PROHIBITED BUSINESS
 (4) Any bank which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day or part thereof during which the offence continues after conviction.
 
 [23/2001]
-
-*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).

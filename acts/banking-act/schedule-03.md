@@ -2,6 +2,8 @@
 
 Section 47
 
+DISCLOSURE OF INFORMATION
+
 PART I
 
 FURTHER DISCLOSURE NOT PROHIBITED
@@ -74,11 +76,11 @@ Purpose for which Persons to whom customer information information may be Condit
 
 the powers conferred under Part IV of the Evidence Act (Cap. 97).
 
-8. Where the bank is a bank The parent supervisory (a) No deposit incorporated outside authority of the bank information Singapore, the disclosure is incorporated outside shall be strictly necessary for Singapore. disclosed to compliance with a request the parent made by its parent supervisory supervisory authority authority.
+8. Where the bank is a bank The parent supervisory (a) No deposit incorporated outside authority of the bank information Singapore or a foreign- incorporated outside shall be owned bank incorporated Singapore or the disclosed to in Singapore, the foreign-owned bank the parent disclosure is strictly incorporated in supervisory necessary for compliance Singapore, as the case authority.
 
-solely in connection with
+with a request made by may be.
 
-(b) The parent the supervision of the supervisory bank.
+(b) The parent its parent supervisory supervisory authority.
 
 authority is prohibited by the laws applicable to it from disclosing the customer information obtained by it to any person unless compelled to do so by the laws or courts of the country or territory where it is established.
 
@@ -90,9 +92,11 @@ First column Second column Third column
 
 Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
 
-9. Disclosure is in The Authority or any compliance with the person authorised or provisions of this Act, or appointed by the any notice or directive Authority.
+9. Disclosure is in The Authority or any compliance with the person authorised or provisions of this Act, the appointed by the Deposit Insurance Act Authority.
 
-issued by the Authority to banks.
+(Cap. 77A) or any notice or directive issued by the Authority to banks.
+
+THIRD SCHEDULE — continued
 
 PART II
 
@@ -102,19 +106,19 @@ First column Second column Third column
 
 Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
 
-1. Disclosure is solely in Any —
+1. Disclosure is solely in Any — No disclosure shall connection with the be made to any
 
-connection with the
+(a) officer of the performance of duties as auditor referred to bank in an officer or a in paragraph (d), Singapore;
 
-(a) officer of the performance of duties as bank in an officer, or a Singapore;
+professional adviser of other than an
 
-professional adviser of the
+(b) officer designated the bank. auditor appointed in writing by the or engaged by the head office of the bank in Singapore, bank in unless the auditor Singapore or, in has given to the the case of a bank a written foreign-owned undertaking that bank he will not incorporated in disclose any Singapore, its customer parent bank;
 
-(b) officer designated bank.
+information
 
-in writing by the head office of the bank; or
+(c) lawyer, obtained by him in consultant or the course of the other performance of professional audit to any adviser appointed person except the or engaged by head office of the the bank in bank in Singapore Singapore under or, in the case of a a contract for foreign-owned service; or
 
-(c) auditor, lawyer, consultant or other professional adviser appointed or engaged by the bank under a contract for service.
+bank incorporated in Singapore, its parent bank.
 
 THIRD SCHEDULE — continued
 
@@ -123,6 +127,8 @@ PART II — continued
 First column Second column Third column
 
 Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
+
+(d) auditor appointed or engaged by the bank in Singapore, the head office of the bank in Singapore or, in the case of a foreign-owned bank incorporated in Singapore, its parent bank, under a contract for service.
 
 2. Disclosure is solely in In the case of —
 
@@ -134,9 +140,7 @@ management.
 
 (i) the head office or parent bank of the bank;
 
-(ii) any branch of the bank outside Singapore designated in writing by the head office of the bank; or
-
-(iii) any related corporation of the bank designated in writing by the head office of the bank; or
+(ii) any branch of the bank outside Singapore designated in writing by the head office of the bank;
 
 THIRD SCHEDULE — continued
 
@@ -146,11 +150,27 @@ First column Second column Third column
 
 Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
 
-(b) a bank incorporated in Singapore —
+(iii) any related corporation of the bank designated in writing by the head office of the bank;
+
+(b) a bank incorporated in Singapore, not being a foreign- owned bank incorporated in Singapore —
 
 (i) the parent bank; or
 
-(ii) any related corporation of the bank designated in writing by the head office of the bank.
+(ii) any related corporation of the bank designated in writing by the head office of the bank; or
+
+THIRD SCHEDULE — continued
+
+PART II — continued
+
+First column Second column Third column
+
+Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
+
+(c) a foreign-owned bank incorporated in Singapore —
+
+(i) the parent bank; or
+
+(ii) any related corporation of the bank designated in writing by the parent bank.
 
 3. Disclosure is solely in Any person including If any out-sourced connection with the the head office of the function is to be performance of bank or any branch performed outside operational functions of thereof outside Singapore, the the bank where such Singapore which is disclosure shall be operational functions have engaged by the bank to subject to such been out-sourced. perform the out- conditions as may sourced functions. be specified in a notice issued by the Authority or otherwise imposed by the Authority.
 
@@ -170,11 +190,79 @@ professional advisers or (whether or not the
 
 (b) any acquisition or merger or acquisition is issue, or proposed subsequently entered acquisition or issue, into or completed).
 
-of any part of the share capital of the bank or its financial holding company, whether or not the merger or acquisition is subsequently entered into or completed.
+of any part of the share capital of the bank or its financial holding company,
+
+whether or not the merger or acquisition is subsequently entered into or completed.
+
+4A. Disclosure is solely in Any —
+
+connection with the
+
+(a) transferor or transfer or proposed transferee, transfer of the business defined in of the bank to a section 55A or company under 55D;
+
+Division 1 or 2 of
+
+(b) person affected Part VIIA, whether or by the transfer;
+
+not the transfer is
+
+(c) professional subsequently carried adviser appointed out or completed.
+
+by any person referred to in paragraph (a) or (b); or
+
+THIRD SCHEDULE — continued
+
+PART II — continued
+
+First column Second column Third column
+
+Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
+
+(d) independent assessor appointed by the Minister or the Authority under section 55B or by the Authority under section 55E.
+
+4B. Disclosure is solely in Any —
+
+connection with the
+
+(a) transferor or transfer or proposed transferee, transfer of the shares in defined in the bank under section 55H;
+
+Division 3 of
+
+(b) professional Part VIIA, whether or adviser appointed not the transfer is by the transferor subsequently carried or transferee; or
+
+out or completed.
+
+(c) independent assessor appointed by the Authority under section 55I.
+
+THIRD SCHEDULE — continued
+
+PART II — continued
+
+First column Second column Third column
+
+Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
+
+4C. Disclosure is solely in Any —
+
+connection with the
+
+(a) shareholder of restructuring or the bank;
+
+proposed restructuring
+
+(b) subscriber of the share capital of defined in the bank under section 55K;
+
+Division 4 of
+
+(c) professional Part VIIA, whether or adviser appointed not the restructuring is by the bank or carried out or any person completed.
+
+referred to in paragraph (a) or (b); or
+
+(d) independent assessor appointed by the Authority under section 55L.
 
 5. Disclosure is solely in Any transferee, No customer connection with the purchaser or any other information, other restructure, transfer or person participating or than information sale, or proposed otherwise involved in relating to the restructure, transfer or the restructure, transfer relevant credit sale, of credit facilities or sale, or proposed facilities, shall be (whether or not the restructure, transfer or disclosed.
 
-restructure, transfer or sale sale, including any of is subsequently entered his lawyers or other into or completed). professional advisers (whether or not the restructure, transfer or sale is subsequently entered into or completed).
+restructure, transfer or sale, including any of sale is subsequently his lawyers or other entered into or professional advisers completed). (whether or not the restructure, transfer or sale is subsequently entered into or completed).
 
 THIRD SCHEDULE — continued
 
@@ -240,11 +328,37 @@ First column Second column Third column
 
 Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
 
-8. Disclosure is strictly Any other bank or No customer necessary for the merchant bank in information, other assessment of the credit- Singapore. than information worthiness of the customer of a general in connection with or nature and not relating to a bona fide related to the commercial transaction or details of the a prospective commercial customer’s account transaction. with the bank, shall be disclosed.
+8. Disclosure is strictly Any other bank or No customer necessary for the merchant bank in information, other assessment of the Singapore. than information credit-worthiness of the of a general customer in connection nature and not with or relating to a bona related to the fide commercial details of the transaction or a customer’s account prospective commercial with the bank, transaction. shall be disclosed.
 
 9. Disclosure is solely in Any financial No customer connection with the institution in Singapore information, other promotion, to customers of which is licensed or than the the bank in Singapore, of otherwise regulated by customer’s name, financial products and the Authority. identity, address, services made available in and contact Singapore by any financial number shall be institution specified in the disclosed.
 
 second column.
+
+THIRD SCHEDULE — continued
+
+PART II — continued
+
+First column Second column Third column
+
+Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
+
+10. Disclosure is solely in (a) The deposit (a) The disclosure connection with the insurance agency; by the deposit payment of compensation or insurance to insured depositors agency to any
+
+(b) Any person under the Deposit person authorised or Insurance Act referred to in appointed by the (Cap. 77A). paragraph (b) deposit insurance of the second agency to perform column shall its functions under be subject to the Deposit such Insurance Act.
+
+conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+THIRD SCHEDULE — continued
+
+PART II — continued
+
+First column Second column Third column
+
+Purpose for which Persons to whom customer information information may be Conditions may be disclosed disclosed
+
+(b) The disclosure by any person referred to in paragraph (b) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+THIRD SCHEDULE — continued
 
 PART III
 
@@ -256,11 +370,11 @@ In this Schedule, unless the context otherwise requires —
 
 ‘‘credit bureau’’ means a credit bureau recognised as such by the Authority by notification in the Gazette for the purposes of this Schedule;
 
+‘‘deposit insurance agency’’ has the same meaning as in section 2 (1) of the Deposit Insurance Act (Cap. 77A);
+
+‘‘insured depositor’’ has the same meaning as in section 2 (1) of the Deposit Insurance Act;
+
 ‘‘lawyer’’ means an advocate and solicitor of the Supreme Court of Singapore, or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
-
-THIRD SCHEDULE — continued
-
-PART III — continued
 
 ‘‘merchant bank’’ means a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
 
@@ -270,4 +384,4 @@ PART III — continued
 
 ‘‘surety’’, in relation to a customer of a bank, includes any person who has given the bank security for the liability of the customer by way of a mortgage or a charge.
 
-[23/2001]
+[23/2001; 31/2005]

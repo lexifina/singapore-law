@@ -1,21 +1,29 @@
 # 15E. Objection to existing control of designated financial institutions
 Part: PART III LICENSING OF BANKS
 
-(1) The Minister may serve a written notice of objection on any person referred to in section 15A or 15B if the Minister is satisfied that —
+(1) The Minister may serve a written notice of objection on any person referred to in section 15A or 15B if —
 
-(a) any condition of approval imposed on the person under section 15C (2) or (5) has not been complied with;
+(a) the Minister is satisfied that —
 
-(b) the person ceases to be a fit and proper person;
+(i) any condition of approval imposed on the person under section 15C has not been complied with;
 
-(c) having regard to the person’s likely influence, the designated financial institution is no longer likely to conduct its business prudently or to comply with the provisions of this Act and notices made thereunder;
+(ii) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 15A (3) or (4), or to continue to be a substantial shareholder, a 12% controller, a 20% controller or an indirect controller, as the case may be;
 
-(d) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 15A (3) or (4), or to continue to be a substantial shareholder, a 12% controller, a 20% controller or an indirect controller, as the case may be;
+(iii) the person has furnished any false or misleading information or document in connection with an application under section 15A or 15B; or
 
-(e) the person has furnished false or misleading information or documents in connection with an application under section 15A or 15B; or
+(iv) he would not have granted his approval under section 15C had he been aware, at that time, of circumstances relevant to the person’s application for such approval;
 
-(f) he would not have granted his approval under section 15C had he been aware, at that time, of circumstances relevant to the person’s application for such approval.
+or
 
-[23/2001]
+(b) the Authority is satisfied that —
+
+(i) the person ceases to be a fit and proper person;
+
+(ii) having regard to the likely influence of the person, the designated financial institution is no longer likely to conduct its business prudently or to comply with the provisions of this Act; or
+
+(iii) it would not have been satisfied as to any of the matters specified in section 15C (1) (a) had it been aware, at that time, of circumstances relevant to the person’s application under section 15A or 15B.
+
+[1/2007]
 
 (2) Before the service of a written notice of objection, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the person concerned notice in writing of his intention to serve the written notice of objection, specifying a date by which the person may make written representations with regard to the proposed written notice of objection.
 
@@ -33,6 +41,6 @@ Part: PART III LICENSING OF BANKS
 
 [23/2001]
 
-(5) Any person served with a notice of objection under this section shall comply with the notice.
+(5) Any person served with a written notice of objection under this section shall comply with the notice.
 
 [23/2001]

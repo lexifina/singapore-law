@@ -1,10 +1,18 @@
-# 69. Power to compound
+# 69. Composition of offences
 Part: PART IX MISCELLANEOUS
 
-(1) The Authority may, without instituting proceedings against any person for any offence under this Act, which is punishable only by a fine or a default penalty, demand and receive the amount of the fine or default penalty or such reduced amount as it thinks fit from that person.
+(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine that is prescribed for the offence.
 
-(2) Whereupon, if the person —
+[1/2007]
 
-(a) pays that amount to the Authority within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; or
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-(b) does not so pay the amount so demanded, the Authority may cause proceedings to be instituted in relation to the offence.
+[1/2007]
+
+(3) The Authority may make regulations to prescribe the offences which may be compounded.
+
+[1/2007]
+
+(4) All sums collected under this section shall be paid to the Authority.
+
+[1/2007]

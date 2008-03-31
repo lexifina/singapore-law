@@ -1,7 +1,9 @@
 # 17. Offences, penalties and defences
 Part: PART III LICENSING OF BANKS
 
-(1) Any person who contravenes section 15A, 15B (1) (a) or (2) (a) or 15C (4) (a), (b) or (c) (i) shall be guilty of an offence and shall be liable on conviction —
+(1) Any person who contravenes section 15A, 15B (1) (a) or
+
+(2) (a) or 15C (4) (a), (b) or (c) (i) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
 

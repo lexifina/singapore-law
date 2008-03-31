@@ -5,17 +5,17 @@ Part: PART IX MISCELLANEOUS
 
 [28/93]
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made for or with respect to the operations and activities of banks and other financial institutions issuing credit and charge cards, including the minimum qualifying criteria for the issue of a credit or charge card.
+(2) Without prejudice to the generality of subsection (1), regulations may be made for or with respect to the operations or activities of any person issuing a credit card or charge card including the minimum qualifying criteria for the issue of a credit card or charge card, the standards to be maintained in the conduct of the credit card or charge card business and the duties to be undertaken when soliciting or issuing a credit card or charge card.
 
-[28/93]
+[1/2007]
 
 (3) Without prejudice to the generality of subsection (1), regulations may be made for or with respect to —
 
-(a) the corporate governance and appointment of principal officers of banks in Singapore, their related corporations or other companies in which banks acquire or hold a major stake as described in section 32 (7); and
+(a) the corporate governance, and the appointment and removal of principal officers, of banks in Singapore, their related corporations or other companies in which the banks acquire or hold, directly or indirectly, a major stake as defined in section 32 (7); and
 
 (b) the prohibition or restriction on mutual shareholdings held between the banks, related corporations or other companies referred to in paragraph (a).
 
-[23/2001]
+[23/2001; 1/2007]
 
 (4) Regulations made under this section may relate to all, or any class, category or description of persons or banks, and may make different provisions for different classes, categories or descriptions of persons or banks or to a particular person or bank or of general or specifically limited application.
 

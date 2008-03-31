@@ -19,7 +19,7 @@ Part: PART IX MISCELLANEOUS
 
 (a) to carry out, for the year in respect of which he is appointed, an audit of the accounts of the bank; and
 
-(b) to make a report in accordance with section 207 of the Companies Act (Cap. 50) —
+(b) to make a report in accordance with section 207 of the Companies Act —
 
 (i) in the case of a bank incorporated in Singapore, upon the annual balance-sheet and profit and loss account that are referred to in section 25 (1); and
 

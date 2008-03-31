@@ -5,13 +5,13 @@ Part: PART III LICENSING OF BANKS
 
 [23/2001]
 
-(2) Subject to subsection (7), no person shall, whether in Singapore or elsewhere, offer or invite or issue any advertisement containing any offer or invitation to the public or any section of the public in Singapore —
+(2) No person shall, whether in Singapore or elsewhere, offer or invite or issue any advertisement containing any offer or invitation to the public or any section of the public in Singapore —
 
 (a) to make any deposit, whether in Singapore or elsewhere; or
 
 (b) to enter or offer to enter into any agreement to make any deposit, whether in Singapore or elsewhere, where such deposit is to be made with any person (not being a person specified in subsection (6)) in the course of the carrying on (whether in Singapore or elsewhere) of a deposit-taking business by that person.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (3) For the purposes of subsection (2), in determining whether an offer, invitation or advertisement is made or issued to the public or any section of the public in Singapore, regard shall be had to such considerations as the Authority may prescribe.
 
@@ -51,14 +51,6 @@ Part: PART III LICENSING OF BANKS
 
 [23/2001]
 
-(7) The Authority may, by regulations, exempt any person or class of persons from subsection (2), subject to such conditions as may be prescribed.
-
-[23/2001]
-
-(8) The Authority may, on the application of any person, exempt him from subsection (1) or (2) if the Authority considers it appropriate to do so in the circumstances of the case.
-
-[23/2001]
-
-(9) The fact that a deposit has been taken in contravention of this section shall not affect any civil liability in respect of the deposit or the money deposited.
+(7) The fact that a deposit has been taken in contravention of this section shall not affect any civil liability in respect of the deposit or the money deposited.
 
 [23/2001]

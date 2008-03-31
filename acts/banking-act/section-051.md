@@ -1,10 +1,30 @@
 # 51. Duration of control
 Part: PART VII POWERS OF CONTROL OVER BANKS
 
-(1) Where the Authority has assumed control of the business of a bank under section 49, the Authority shall remain in control of, and continue to carry on, the business of that bank in the name and on behalf of the bank until such time as it is satisfied that —
+(1) The Authority shall cease to be in control of the relevant business of a bank when the Authority is satisfied that the reasons for its assumption of control of the relevant business have ceased to exist or that it is no longer necessary for the protection of the depositors of the bank.
 
-(a) the reasons for which it assumed control of the business have ceased to exist; or
+[1/2007]
 
-(b) it is no longer necessary for the protection of the depositors of the bank that it should remain in control of the business.
+(2) A statutory manager shall be deemed to have assumed control of the relevant business of a bank on the date of his appointment as a statutory manager.
 
-(2) Where the Authority has assumed control of the business of a bank under section 49 or ceased to control the business of a bank under this section, the Authority shall notify that fact in the Gazette.
+[1/2007]
+
+(3) The appointment of a statutory manager in relation to the relevant business of a bank may be revoked by the Authority at any time —
+
+(a) if the Authority is satisfied that the reasons for the appointment have ceased to exist or that it is no longer necessary for the protection of the depositors of the bank; or
+
+(b) on any other ground, and upon such revocation, the statutory manager shall cease to be in control of the relevant business of the bank.
+
+[1/2007]
+
+(4) The Authority shall publish in the Gazette the date, and such other particulars as it thinks fit, of —
+
+(a) its assumption of control of the relevant business of a bank;
+
+(b) the cessation of its control of the relevant business of a bank;
+
+(c) the appointment of a statutory manager in relation to the relevant business of a bank; and
+
+(d) the revocation of a statutory manager’s appointment in relation to the relevant business of a bank.
+
+[1/2007]

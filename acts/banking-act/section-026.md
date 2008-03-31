@@ -5,7 +5,7 @@ Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [23/2001]
 
-(2)* Every bank shall send to the Authority —
+*(2) Every bank shall send to the Authority —
 
 (a) not later than 3 months after the close of its financial year or within such longer period as the Authority may on application of the bank approve —
 
@@ -15,11 +15,13 @@ Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (iii) a copy of the report of the directors of the bank;
 
-(iv) a duly audited balance-sheet showing its assets used in, and liabilities arising out of, its operation in,
+(iv) a duly audited balance-sheet showing its assets used in, and liabilities arising out of, its operation in Singapore
 
 *The former subsections (2) and (3) of section 26 are omitted from the 2003 Ed., being obsolete by virtue of MAS Notice 610 to Banks issued by the Authority under section 26 (1).
 
-Singapore as at the date to which its balance-sheet was made up; and
+as at the date to which its balance-sheet was made up;
+
+and
 
 (v) a duly audited profit and loss account which gives a true and fair view of the profit or loss arising out of the bank’s operation in Singapore for its last preceding financial year;
 
@@ -29,13 +31,13 @@ Singapore as at the date to which its balance-sheet was made up; and
 
 [23/2001]
 
-(3)* In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2) (a) (i), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
+*(3) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2) (a) (i), (ii) and (iii) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation, formation or establishment.
 
 [23/2001]
 
-(4) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (2) (a) (iv) and (v) if the balance-sheet and profit and loss account are accompanied by a report by an approved company auditor which complies, insofar as it is practicable, with section 207 of the Companies Act (Cap. 50).
+(4) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (2) (a) (iv) and (v) if the balance-sheet and profit and loss account are accompanied by a report by a public accountant within the meaning of the Companies Act (Cap. 50) which complies, insofar as it is practicable, with section 207 of that Act.
 
-[23/2001]
+[23/2001; 5/2004]
 
 (5) The Authority may require any statement submitted to it under subsection (1) to be accompanied by a certificate —
 
@@ -49,10 +51,24 @@ Singapore as at the date to which its balance-sheet was made up; and
 
 [23/2001]
 
+(6A) Nothing in subsection (6) shall preclude the Authority from disclosing any information, not being customer information as defined in section 40A, received from a bank under this section if —
+
+(a) the information is in the public domain;
+
+(b) the information is disclosed in such a manner that the bank’s identity cannot be ascertained;
+
+(c) the bank or the person from whom the bank has obtained the information consents to the disclosure;
+
+(d) the person to whom the information relates consents to the disclosure; or
+
+(e) the disclosure of the information is necessary for the performance of any principal object or function, or the exercise of any power, of the Authority under this Act or any other written law.
+
+[1/2007]
+
 (7) Nothing in this section shall prevent the Authority from preparing and publishing consolidated statements aggregating such information as may be furnished under this section.
 
 [28/93]
 
 (8) Any bank which fails or neglects to furnish any information required by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day during which the offence continues after conviction.
 
-[2/84;28/93; 23/2001]
+[2/84; 28/93; 23/2001]

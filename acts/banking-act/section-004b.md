@@ -21,7 +21,7 @@ Part: PART III LICENSING OF BANKS
 
 [23/2001]
 
-(3) Notwithstanding subsections (1) and (2), an advertisement issued outside Singapore shall not be treated as an advertisement for the purposes of section 4A (2) if it is made available —
+(3) Notwithstanding subsections (1) and (2), an advertisement issued outside Singapore shall not be treated as an advertisement for the purposes of section 4A(2) if it is made available —
 
 (a) in a newspaper, magazine, journal or other periodical published and circulating principally outside Singapore;
 
@@ -31,15 +31,23 @@ Part: PART III LICENSING OF BANKS
 
 [23/2001]
 
-(4) Subject to the provisions of this section, for the purposes of section 4A, ‘‘deposit’’ means a sum of money paid on terms —
+(4) Subject to the provisions of this section, for the purposes of section 4A, ‘‘deposit’’ means —
 
-(a) under which it will be repaid, with or without interest or a premium, or with any consideration in money or money’s worth, either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it; and
+(a) a sum of money paid on terms —
 
-(b) which are not referable to the provision of property or services or to the giving of security.
+(i) under which it will be repaid, with or without interest or a premium, or with any consideration in money or money’s worth, either on demand or at a time or in circumstances agreed by or on behalf of the person making the payment and the person receiving it; and
 
-[23/2001]
+(ii) which are not referable to the provision of property or services or to the giving of security; and
 
-(5) For the purposes of subsection (4) (b), money is paid on terms which are referable to the provision of property or services or to the giving of security if, and only if —
+(b) such other product as may be prescribed.
+
+[1/2007]
+
+(4A) The Authority may, by regulations, exclude any product from the definition of ‘‘deposit’’ in subsection (4)(a).
+
+[1/2007]
+
+(5) For the purposes of subsection (4) (a) (ii), money is paid on terms which are referable to the provision of property or services or to the giving of security if, and only if —
 
 (a) it is paid by way of advance or part payment under a contract for the sale, hire or other provision of property or services, and is repayable only in the event that the property or services is or are not in fact sold, hired or otherwise provided;
 
@@ -47,7 +55,7 @@ Part: PART III LICENSING OF BANKS
 
 (c) without prejudice to paragraph (b), it is paid by way of security for the delivery up or return of any property, whether in a particular state of repair or otherwise.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (6) For the purposes of subsection (4), ‘‘deposit’’ does not include —
 
@@ -55,7 +63,7 @@ Part: PART III LICENSING OF BANKS
 
 (b) a sum paid by any moneylender licensed under the Moneylenders Act (Cap. 188);
 
-(c) a sum paid by one company to another at a time when one is a subsidiary of the other or both are subsidiaries of another company, or the same individual controls more than half of the voting power or holds more than half of the issued share capital of both of them;
+(c) a sum paid by one company to another at a time when one is a subsidiary of the other or both are subsidiaries of another company, or the same individual controls more than half of the voting power or holds more than half of the total number of issued shares in both of them;
 
 (d) a sum paid by a person who, at the time when it is paid, is a close relative of the person receiving it or who is, or is a close relative of, a director, controller or manager of that person;
 
@@ -63,7 +71,7 @@ and
 
 (e) a sum paid by such person or class of persons as may be prescribed.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (7) Subject to the provisions of this section, for the purposes of section 4A, a business is a deposit-taking business if —
 
@@ -75,9 +83,9 @@ and
 
 (8) Notwithstanding that subsection (7) (a) or (b) applies to a business, it is not a deposit-taking business if the person carrying on the business —
 
-(a) does not hold himself out as accepting deposits on a day to day basis; and
+(a) does not hold himself out as accepting deposits on a day-to- day basis; and
 
-(b) does not accept deposits on a day to day basis, whether or not involving the issue of debentures or securities.
+(b) does not accept deposits on a day-to-day basis, whether or not involving the issue of debentures or securities.
 
 [23/2001]
 

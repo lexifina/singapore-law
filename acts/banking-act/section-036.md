@@ -9,9 +9,9 @@ Part: PART V PROHIBITED BUSINESS
 
 (a) the bank’s related corporations; and
 
-(b) companies in which the bank has a major stake as defined in section 32 (7).
+(b) companies in which the bank acquires or holds, directly or indirectly, a major stake as defined in section 32 (7).
 
-[23/2001]
+[23/2001; 1/2007]
 
 (3) The bank shall comply with the requirement referred to in subsection (2) within such time as is specified in the notice.
 

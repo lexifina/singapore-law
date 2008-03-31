@@ -1,9 +1,9 @@
 # 55. Notices to banks
 Part: PART VII POWERS OF CONTROL OVER BANKS
 
-(1) The Authority may, if it appears to the Authority to be necessary or expedient in the public interest or the interest of the banking system, by notice in writing to banks in Singapore give directions or impose requirements on or relating to the operations and activities of and standards to be maintained by banks.
+(1) The Authority may, if it appears to the Authority to be necessary or expedient in the public interest, or in the interest of depositors or the financial system in Singapore, by notice in writing to a bank in Singapore or a class of banks in Singapore give directions or impose requirements on or relating to the operations or activities of, or the standards to be maintained by, the bank or banks.
 
-[28/93; 23/2001]
+[1/2007]
 
 (2) Without prejudice to the generality of subsection (1), any notice under that subsection may be given in respect of —
 
@@ -21,7 +21,7 @@ Part: PART VII POWERS OF CONTROL OVER BANKS
 
 (g) restrictions on the granting of Singapore dollar credit facilities in whatever form or by whatever means to residents of Singapore where such facilities are to be used outside Singapore, or to non-residents;
 
-(h) the appointment of directors, chief and deputy chief executive officers and other principal officers of a bank;
+(h) the appointment or removal of chief executives, deputy chief executives and other principal officers of a bank incorporated outside Singapore;
 
 (i) the maintenance of a register of dealers of a bank;
 
@@ -43,14 +43,12 @@ Part: PART VII POWERS OF CONTROL OVER BANKS
 
 (r) the forms, returns and submissions of statistics for the purposes of this Act.
 
-[28/93; 23/2001]
+[28/93; 23/2001; 1/2007]
 
-(3) Every bank in Singapore shall comply with any direction given or requirement imposed by any notice under this section.
+(3) A bank in Singapore shall comply with any direction given to the bank or any requirement imposed on the bank by any notice issued under this Act.
 
-[28/93; 23/2001]
+[1/2007]
 
 (4) For the avoidance of doubt, any notice in writing issued under this Act shall be deemed not to be subsidiary legislation.
-
-[54A
 
 [23/2001]

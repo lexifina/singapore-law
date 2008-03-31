@@ -9,9 +9,11 @@ Part: PART III LICENSING OF BANKS
 
 (c) such other information as may be called for by the Authority.
 
+(2) Any person who knowingly or recklessly furnishes any document or information which is false or misleading in a material particular in
+
 *Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
 
-(2) Any person who knowingly or recklessly furnishes any document or information which is false or misleading in a material particular in connection with an application for a licence falling within subsection (1) shall be guilty of an offence and shall be liable on conviction —
+connection with an application for a licence falling within subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
 

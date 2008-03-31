@@ -1,21 +1,21 @@
 # 9A. Capital requirements for qualifying subsidiaries
 Part: PART III LICENSING OF BANKS
 
-(1) Notwithstanding section 9, a company incorporated in Singapore which is a qualifying subsidiary may be granted and hold a licence under section 7 or 11 if —
+(1) Notwithstanding section 9, a company incorporated in Singapore which is a qualifying subsidiary may be granted and hold a licence under section 7 if —
 
 (a) it is and continues to be a qualifying subsidiary; and
 
-(b) its issued and paid-up capital is not less than $100 million.
+(b) its paid-up capital is not less than $100 million.
 
-[23/2001]
+[23/2001; 1/2007]
 
-(2) A bank which is a qualifying subsidiary shall not, during the currency of its licence, reduce its paid-up capital without the approval of the Authority.
+(2) A bank which is a qualifying subsidiary shall not reduce its paid-up capital, or purchase or otherwise acquire shares issued by the bank if such shares are to be held as treasury shares, without the approval of the Authority.
 
-[23/2001]
+[1/2007]
 
-(3) A bank which is a qualifying subsidiary shall, during the currency of its licence, maintain capital funds of not less than $100 million unless the Authority approves otherwise.
+(3) A bank which is a qualifying subsidiary shall maintain capital funds of not less than $100 million unless the Authority approves otherwise.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (4) The Authority may, in its discretion, on application by any bank, exempt that bank from subsection (1) (a) subject to such conditions as the Authority may impose, and in such event, the other provisions of this section shall continue to apply to that bank notwithstanding that it may no longer be a qualifying subsidiary.
 
@@ -32,3 +32,7 @@ Part: PART III LICENSING OF BANKS
 (b) give such directions to the bank as it considers appropriate and the bank shall comply with such directions.
 
 [23/2001]
+
+(7) In this section, ‘‘paid-up capital’’ does not include any amount that is represented by treasury shares.
+
+[1/2007]

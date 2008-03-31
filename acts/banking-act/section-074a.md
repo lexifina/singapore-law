@@ -1,12 +1,12 @@
-# 74A. Power to refund, reduce, etc., penalty interest charge
+# 74A. Power to refund, reduce, etc., financial penalty
 Part: PART IX MISCELLANEOUS
 
-The Authority may, of its own motion, review any penalty interest charge imposed under section 38 (7), 39 (7), 40 (3) or 77A (3) and decide —
+The Authority may, of its own motion, review any financial penalty imposed under section 38 (7) or 39 (7) and decide —
 
-(a) not to impose the penalty interest charge;
+(a) not to impose the financial penalty;
 
-(b) to reduce the penalty interest charge payable; or
+(b) to reduce the financial penalty payable; or
 
-(c) where any penalty interest charge has been paid, to refund the whole or part of the amount paid.
+(c) where any financial penalty has been paid, to refund the whole or part of the amount paid.
 
-[23/2001]
+[23/2001; 1/2007]

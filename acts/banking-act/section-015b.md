@@ -25,17 +25,17 @@ Part: PART III LICENSING OF BANKS
 
 ‘‘12% controller’’ means a person, not being a 20% controller, who alone or together with his associates —
 
-(a) holds not less than 12% of the shares in the designated financial institution; or
+(a) holds not less than 12% of the total number of issued shares in the designated financial institution; or
 
 (b) is in a position to control voting power of not less than 12% in the designated financial institution;
 
 ‘‘20% controller’’ means a person who, alone or together with his associates —
 
-(a) holds not less than 20% of the shares in the designated financial institution; or
+(a) holds not less than 20% of the total number of issued shares in the designated financial institution; or
 
 (b) is in a position to control voting power of not less than 20% in the designated financial institution.
 
-[23/2001]
+[23/2001; 21/2005]
 
 (4) For the purposes of subsection (3) —
 

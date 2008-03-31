@@ -1,15 +1,17 @@
 # 35. Exposure to immovable property sector
 Part: PART V PROHIBITED BUSINESS
 
-(1) The Authority may make such regulations as may be necessary or expedient for the purposes of limiting, in relation to a bank in Singapore, exposure to risks associated, directly or indirectly, with such immovable property as may be prescribed.
+(1) The Authority may make such regulations as may be necessary or expedient for the purposes of limiting, in relation to a
+
+*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
+
+bank in Singapore, exposure to risks associated, directly or indirectly, with such immovable property as may be prescribed.
 
 [23/2001]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may —
 
 (a) prescribe a limit (referred to in this section as the property sector exposure limit) —
-
-*Date of commencement of the Banking (Amendment) Act 2001 (Act 23 of 2001).
 
 (i) on the credit facilities that may be granted or issued by a bank in Singapore to such person or class of persons as may be prescribed; or
 

@@ -1,28 +1,64 @@
-# 27. Action to be taken if advances are against interests of depositors
+# 27. Action to be taken if credit facilities or exposures are against interests of depositors
 Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
-(1) Every bank in Singapore shall send to the Authority not later than 15 days after the last day of each month a statement in the form to be prescribed by the Authority showing particulars of all advances, loans or credit facilities granted by it to —
+(1) Every bank in Singapore shall prepare a statement in respect of each quarter of a year, in such form as may be specified by the Authority, showing as at the end of that quarter all the credit facilities from and all the exposures of the bank to —
 
-(a) any of its directors;
+(a) any person in a director group of the bank;
 
-(b) any firm in which the bank or any of its directors is a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
+(b) any firm or limited liability partnership of which the bank is a partner, a manager, an agent, a guarantor or a surety;
 
-(c) any related corporation of the bank;
+(c) any company of which any of the directors of the bank is a director or an agent;
 
-(d) any of its officers, employees or other persons being persons receiving remuneration from the bank in excess of one year’s remuneration of the officer, employee or person;
+(d) any company of which the bank or any of its officers (other than directors), employees or other persons who receive remuneration from the bank (other than for professional services rendered to the bank) is a director, an executive officer, an agent, a guarantor or a surety;
 
-(e) any private or public company in which the bank or any of its directors, officers, employees or other persons who receive remuneration from the bank has an interest as a director, manager, agent or guarantor; or
+(e) any of its officers (other than directors), employees or other persons who receive remuneration from the bank (other than for professional services rendered to the bank) in excess of one year’s emoluments of the officer, employee or person;
 
-(f) any individual in whom, and any firm or company in which, any of its directors has an interest, directly or indirectly, as declared under section 28 other than the advances, loans and credit facilities, particulars of which have already been supplied under paragraphs (a) to (e).
+(f) in the case of a bank incorporated in Singapore, any person in a substantial shareholder group of the bank;
 
-[23/2001]
+(g) any person in the financial group of the bank;
 
-(2) If, on examination of the particulars supplied by a bank under subsection (1), it appears to the Authority that any such advances, loans or credit facilities are being granted to the detriment of the interests of the depositors of that bank, the Authority may by order in writing —
+(h) any related corporation of the bank;
 
-(a) prohibit that bank from granting any further advances, loans or credit facilities or impose such restrictions on the grant thereof as the Authority thinks fit; and
+(i) any individual in whom, or any firm, limited liability partnership or company in which, any of the directors of the bank has an interest, directly or indirectly, as declared under section 28 other than the credit facilities or exposures particulars of which have already been supplied under this subsection; and
 
-(b) direct that bank to secure repayment of any such first-mentioned advances, loans or credit facilities within such time and to such extent as may be specified in the order.
+(j) such other person or class of persons as may be prescribed.
 
-(3) In this section, ‘‘director’’ includes the wife, husband, father, mother, son or daughter of a director.
+[1/2007]
 
-[28/93]
+(2) A statement under subsection (1) —
+
+(a) shall be prepared within 7 days, or such other period as may be approved by the Authority, after the quarter of the year in respect of which it is to be prepared;
+
+(b) shall —
+
+(i) in the case of a bank incorporated in Singapore, be brought up and read at the next meeting of its board of directors after it is prepared; and
+
+(ii) in the case of a bank incorporated outside Singapore, be submitted to the head office of the bank; and
+
+(c) shall be submitted to the Authority within 7 days from the date on which it is read at the meeting of the board of directors or submitted to the head office of the bank, as the case may be.
+
+[1/2007]
+
+(3) If, on examination of any statement supplied by a bank under subsection (2) (c), it appears to the Authority that any credit facility from or any exposure of the bank to any person is to the detriment of the interests of the depositors of the bank, the Authority may by notice in writing to the bank do one or more of the following:
+
+(a) direct the bank to secure repayment of the credit facility or reduce the exposure within such time and to such extent as may be specified in the notice;
+
+(b) prohibit the bank from granting any further credit facility to the person or impose such restrictions on the grant thereof as the Authority thinks fit;
+
+(c) direct the bank to cease any further exposure to the person or impose such restrictions on such further exposure as the Authority thinks fit.
+
+[1/2007]
+
+(4) In this section —
+
+‘‘director’’, in relation to a bank in Singapore, has the meaning given to it in the Fifth Schedule;
+
+‘‘director group’’ has the meaning given to it in the Fifth Schedule;
+
+‘‘exposure’’ has the meaning given to it in the Fifth Schedule;
+
+‘‘financial group’’ has the meaning given to it in the Fifth Schedule;
+
+‘‘substantial shareholder group’’ has the meaning given to it in the Fifth Schedule.
+
+[1/2007]

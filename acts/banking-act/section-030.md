@@ -5,17 +5,15 @@ Part: PART V PROHIBITED BUSINESS
 
 (a) banking business;
 
-(b) any business the conduct of which is regulated or authorised by the Authority under any other written law;
+(b) any business the conduct of which is regulated or authorised by the Authority or, if carried on in Singapore, would be regulated or authorised by the Authority under any written law;
 
 (c) any business which is incidental to the business which the bank may carry on under paragraph (a) or (b);
 
-(d) any business or class of business as the Authority may prescribe, subject to such conditions as may be prescribed;
-
-or
+(d) any business or class of business as the Authority may prescribe, subject to such conditions as may be prescribed; or
 
 (e) any other business as the Authority may approve for the purposes of this section, subject to such conditions as the Authority may impose.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (2) Nothing in this section shall —
 

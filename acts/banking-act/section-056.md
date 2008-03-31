@@ -1,12 +1,26 @@
-# 56. Prohibition against opening of numbered accounts
-Part: PART VIII NUMBERED ACCOUNTS
+# 56. Interpretation of this Part
+Part: PART VIII CREDIT CARD AND CHARGE CARD BUSINESSES
 
-(1) For the purposes of this Part, ‘‘numbered accounts’’ means accounts opened with banks in Singapore that are identifiable only by a number or code word or by such other means as the Authority may determine.
+In this Part, unless the context otherwise requires —
 
-(2) No bank in Singapore shall open numbered accounts for its customers except with the prior approval in writing of the Authority which may attach such limitations, conditions, qualifications and exceptions thereto as it thinks fit.
+‘‘advertisement’’ means the dissemination or conveyance of information, or an invitation or solicitation by any means or in any form, including by means of —
 
-(3) Any bank which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000.
+(a) publication in a newspaper, magazine, journal or other periodical;
 
-[55
+(b) display of posters or notices;
 
-[2/84; 23/2001]
+(c) circulars, handbills, brochures, pamphlets, books or other documents;
+
+(d) letters addressed to individuals or bodies;
+
+(e) photographs or cinematograph films; or
+
+(f) sound broadcasting, television, the Internet or other media;
+
+‘‘credit card’’ or ‘‘charge card’’ means any article, whether in physical or electronic form, of a kind commonly known as a credit card or charge card or any similar article intended for use in purchasing goods or services on credit, whether or not the card is valid for immediate use;
+
+‘‘licence’’ means a licence to carry on the business of issuing credit cards or charge cards in Singapore;
+
+‘‘licensee’’ means a person who is granted a licence under section 57B.
+
+[1/2007]

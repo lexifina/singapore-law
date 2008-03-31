@@ -1,0 +1,9 @@
+# FOURTH SCHEDULE
+
+Sections 3 (1A) and 77A
+
+SPECIFIED PROVISIONS
+
+1. Section 76A (2).
+
+[1/2007]

@@ -21,10 +21,6 @@ or
 
 (c) any safe deposit box maintained by, or any safe custody arrangements made by, a customer with the bank, but does not include any information that is not referable to any named person or group of named persons;
 
-‘‘funds of a customer under management’’ means any funds or assets of a customer (whether of the bank or any financial institution) placed with that bank for the purpose of management or investment;
+‘‘funds of a customer under management’’ means any funds or assets of a customer (whether of the bank or any financial institution) placed with that bank for the purpose of management or investment.
 
-‘‘parent bank’’, in relation to a bank, means a financial institution which is able to exercise a significant influence over the direction and management of the bank or which has a controlling interest in the bank;
-
-‘‘parent supervisory authority’’, in relation to a bank incorporated outside Singapore, means the supervisory authority which is responsible, under the laws of the country or territory where the bank or its parent bank is incorporated, formed or established, for supervising the bank or its parent bank, as the case may be.
-
-[23/2001]
+[23/2001; 1/2007]

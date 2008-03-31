@@ -15,13 +15,15 @@ Part: PART III LICENSING OF BANKS
 
 (v) is carrying on its business in a manner likely to be detrimental to the interests of the depositors of the bank or has insufficient assets to cover its liabilities to its depositors or the public;
 
-(vi) is contravening the provisions of this Act; or
+(vi) is contravening the provisions of this Act;
 
 (vii) has been convicted of any offence under this Act or any of its directors or officers holding a managerial or executive position has been convicted of any offence under this Act; or
 
-(b) if, upon taking action under section 49 (2), the Authority considers that it is in the public interest to revoke the licence.
+(viii) has contravened any provision of the Deposit Insurance Act (Cap. 77A) or any rules issued by the deposit insurance agency under the Deposit Insurance Act; or
 
-[2/84; 23/2001]
+(b) if, upon the Authority exercising any power under section 49 (2) or the Minister exercising any power under Division 2, 3 or 4 of Part VIIA in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
+
+[2/84; 23/2001; 31/2005; 1/2007]
 
 (2) The Authority shall before revoking any licence under subsection (1) —
 
@@ -37,4 +39,6 @@ Part: PART III LICENSING OF BANKS
 
 (6) If within that period the bank concerned gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by that Court.
 
-(7) The making of an appeal by a bank under this section shall in no way affect the exercise of the powers of the Authority in relation to that bank under sections 49, 50, 51, 52 and 53.
+(7) The making of an appeal by a bank under this section shall in no way affect the exercise of any power by the Authority under section 49, 50, 51, 52 or 53, or the exercise of any power by the Minister under Division 2, 3 or 4 of Part VIIA, in relation to the bank.
+
+[1/2007]

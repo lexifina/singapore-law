@@ -1,4 +1,4 @@
-# 24. (Repealed by Act 23 of 2001)
+# 24. (Repealed)
 Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (Repealed by Act 23 of 2001)

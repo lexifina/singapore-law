@@ -13,6 +13,6 @@ Part: PART III LICENSING OF BANKS
 
 [23/2001]
 
-(4) The Authority may suspend or restrict the operations of a bank which fails to comply with subsection (2) or (3) or any requirement of the Authority under subsection (1).
+(4) The Authority may restrict or suspend the operations of a bank which fails to comply with subsection (2) or (3) or any requirement of the Authority under subsection (1).
 
 [28/93; 23/2001]

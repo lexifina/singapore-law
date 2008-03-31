@@ -15,7 +15,7 @@ Part: PART IV RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [23/2001]
 
-(3) In the case of a bank incorporated outside Singapore the statements referred to in subsection (2) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation or origin.
+(3) In the case of a bank incorporated outside Singapore, the statements referred to in subsection (2) may be made in a manner that complies with the law for the time being applicable in the place of its incorporation or origin.
 
 [28/93]
 

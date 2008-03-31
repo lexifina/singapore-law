@@ -1,29 +1,29 @@
 # 18. Power of Authority to obtain information
 Part: PART III LICENSING OF BANKS
 
-(1) The Authority may, by notice in writing, direct any designated financial institution to obtain from any of its shareholders and to transmit to the Authority information —
+(1) The Authority may, by notice in writing, direct any designated financial institution to obtain from any of its shareholders and to transmit to the Authority any information relating to its shareholders which the Minister or the Authority may require for the purpose of ascertaining or investigating into the control of shareholding or voting power in the designated financial institution, or exercising any power or function under sections 15A to 17, including information —
 
 (a) as to whether that shareholder holds any share in the designated financial institution as beneficial owner or as trustee; and
 
 (b) if he holds the share as trustee, to indicate as far as he can, the person for whom he holds the share (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest, and the designated financial institution shall comply with that direction within such time as may be specified in the notice.
 
-[23/2001]
+[23/2001; 1/2007]
 
-(2) The Authority may, by notice in writing, require any shareholder of a designated financial institution, or any person who appears from information provided to the Authority under subsection (1) or this subsection to have an interest in any share in a designated financial institution, to inform the Authority —
+(2) The Authority may, by notice in writing, require any shareholder of a designated financial institution, or any person who appears from information provided to the Authority under subsection (1) or this subsection to have an interest in any share in a designated financial institution, to provide to the Authority any information relating to the shareholder or the person, as the case may be, which the Minister or the Authority may require for the purpose of ascertaining or investigating into the control of shareholding or voting power in the designated financial institution, or exercising any power or function under sections 15A to 17, including —
 
-(a) whether he holds that interest as beneficial owner or as trustee, and if he holds the interest as trustee, to indicate so far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest; or
+(a) whether he holds that interest as beneficial owner or as trustee, and if he holds the interest as trustee, to indicate as far as he can, the person for whom he holds the interest (either by name or by other particulars sufficient to enable that person to be identified) and the nature of his interest; or
 
-(b) whether any share or any voting right attached to the share is the subject of an agreement or arrangement described in section 15A (3) or (4) or 15B (4) (c) (ix), and if so, to give particulars of the agreement or arrangement and the parties to it, and the person shall comply with that notice within such time as may be specified therein.
+(b) whether any share or any voting right attached to the share is the subject of an agreement or arrangement described in section 15A (3) or (4) or 15B (4) (c) (ix), and if so, to give particulars of the agreement or arrangement and the parties to it, and the shareholder or the person shall comply with that notice within such time as may be specified therein.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (3) Any person who —
 
 (a) fails to comply with a notice under this section; or
 
-(b) in purported compliance of the notice, knowingly or recklessly makes a statement which is false in a material particular, shall be guilty of an offence.
+(b) in purported compliance of the notice, knowingly or recklessly furnishes any information or document that is false or misleading in a material particular, shall be guilty of an offence.
 
-[23/2001]
+[23/2001; 1/2007]
 
 (4) Any person convicted of an offence under this section shall be liable on conviction —
 

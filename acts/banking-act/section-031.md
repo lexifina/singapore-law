@@ -17,22 +17,16 @@ Part: PART V PROHIBITED BUSINESS
 
 (3) The Authority may, by regulations —
 
-(a) exempt any bank from subsection (1) in respect of any investment;
+(a) provide for the manner of valuation of investments for the purposes of compliance with this section; and
 
-(b) provide for the manner of valuation of investments for the purposes of compliance with this section; and
+(b) exclude the operation of this section in respect of any investment or class of investments which may be held by any bank, subject to such conditions as may be prescribed.
 
-(c) exclude the operation of this section in respect of any investment or class of investments which may be held by any bank, subject to such conditions as may be prescribed.
-
-[23/2001]
+[23/2001; 1/2007]
 
 (4) Any bank which contravenes this section or fails to comply with any condition imposed or prescribed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 [23/2001]
 
-(5) In this section, ‘‘equity investment’’ means any beneficial interest in the share capital of a company.
+(5) In this section, ‘‘equity investment’’ means any beneficial interest in the share capital of a company, and such other investment, interest or right as may be prescribed.
 
-[23/2001]
-
-(6) The Authority may, by order published in the Gazette, modify the definition of ‘‘equity investment’’ in subsection (5).
-
-[23/2001]
+[23/2001; 1/2007]

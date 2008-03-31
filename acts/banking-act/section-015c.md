@@ -1,15 +1,17 @@
 # 15C. Approval of applications
 Part: PART III LICENSING OF BANKS
 
-(1) The Minister may, in his discretion, approve an application made by any person under section 15A or 15B if the Minister is satisfied that —
+(1) The Minister may approve an application made by any person under section 15A or 15B if —
 
-(a) the person is a fit and proper person;
+(a) the Authority is satisfied that —
 
-(b) having regard to the person’s likely influence, the designated financial institution will or will continue to conduct its business prudently and comply with the provisions of this Act and notices made thereunder; and
+(i) the person is a fit and proper person; and
 
-(c) it is in the national interest to do so.
+(ii) having regard to the likely influence of the person, the designated financial institution will or will continue to conduct its business prudently and comply with the provisions of this Act; and
 
-[23/2001]
+(b) the Minister is satisfied that it is in the national interest to do so.
+
+[1/2007]
 
 (2) Any approval under this section may be granted to any person subject to such conditions as the Minister may determine, including but not limited to any condition —
 
@@ -20,6 +22,10 @@ or
 (b) restricting the person’s exercise of voting power in the designated financial institution.
 
 [23/2001]
+
+(2A) The Minister may at any time add to, vary or revoke any condition imposed under subsection (2).
+
+[1/2007]
 
 (3) Any condition imposed under subsection (2) shall have effect notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association of the designated financial institution.
 
@@ -43,10 +49,10 @@ or
 
 (5) Notwithstanding the repeal of sections 15, 16 and 17 in force immediately before 18th July 2001, the following approvals granted by the Authority before that date shall continue and be deemed to be approvals granted by the Minister under this section, subject to such additional conditions as the Minister may at any time by notice in writing, impose:
 
-(a) any approval or condition imposed in relation thereto under the repealed section 15 (2) shall be deemed to be an approval granted or condition imposed under this section as if an application for approval had been made under section 15B (2) (b);
+(a) any approval or condition imposed in relation thereto under the repealed section 15 (2) shall be deemed to be an approval granted or a condition imposed under this section as if an application for approval had been made under section 15B (2) (b);
 
-(b) any approval or condition imposed in relation thereto under the repealed section 16 (1) shall be deemed to be an approval granted or condition imposed under this section as if an application for approval had been made under section 15B (2) (c); or
+(b) any approval or condition imposed in relation thereto under the repealed section 16 (1) shall be deemed to be an approval granted or a condition imposed under this section as if an application for approval had been made under section 15B (2) (c); or
 
-(c) any approval or condition imposed in relation thereto under the repealed section 17 (1) shall be deemed to be an approval granted or condition imposed under this section as if an application for approval had been made under section 15A (2).
+(c) any approval or condition imposed in relation thereto under the repealed section 17 (1) shall be deemed to be an approval granted or a condition imposed under this section as if an application for approval had been made under section 15A (2).
 
 [23/2001]

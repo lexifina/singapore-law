@@ -1,56 +1,70 @@
-# 29. Credit facilities and limits
+# 29. Exposures and credit facilities
 Part: PART V PROHIBITED BUSINESS
 
-(1) Subject to subsection (3), a bank in Singapore shall not —
+(1) The Authority may by notice in writing to any bank in Singapore, or any class of banks in Singapore, impose such requirements as may be necessary or expedient for the purposes of limiting the exposure of the bank, or a bank within the class of banks, to any one or more of the following:
 
-(a) grant or permit to be outstanding to any one person or to any group of persons under the control or influence of any one person, any credit facilities if the aggregate amount of such credit facilities exceeds 25% of its capital funds or such other percentage not exceeding 100% of its capital funds as the Authority may approve;
+(a) where the bank is incorporated in Singapore, a substantial shareholder group of the bank;
 
-(b) grant substantial loans which in the aggregate exceeds 50% of its total credit facilities or such other percentage as the Authority may determine;
+(b) the financial group of the bank;
 
-(c) grant any credit facility against the security of its own shares;
+(c) a director group of the bank;
 
-(d) grant, directly or indirectly, unsecured credit facilities which in the aggregate and outstanding at any one time exceed the sum of $5,000 —
+(d) any other person or class of persons as may be prescribed.
 
-(i) to any of its directors, whether those credit facilities are obtained by its directors jointly or severally;
+[1/2007]
 
-(ii) to a firm in which the bank or any of its directors has an interest as a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
+(2) Without prejudice to the generality of subsection (1), the Authority may in a notice issued under that subsection —
 
-(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on any securities exchange approved under the Securities and Futures Act (Cap. 289) or such other securities exchange which the Authority may approve, and the subsidiaries of such public companies; or
+(a) specify the limit on any exposure;
 
-(iv) to any corporation, other than a bank, that is a related corporation of the bank;
+(b) exclude any exposure from any limit;
 
-(e) grant to any of its officers (other than a director) or its employees or other persons, being persons receiving remuneration from the bank (other than any persons receiving remuneration from a bank in respect of their professional services) unsecured credit facilities which in the aggregate and outstanding at any one time exceed one year’s emoluments of that officer or employee or person.
+(c) specify the method of measuring any exposure;
 
-[28/93; 23/2001; 42/2001]
+(d) exclude any bank or class of banks from any requirement imposed under subsection (1); and
 
-(2) Subsection (1) (a) and (b) shall not apply to —
+(e) vary any limit in a particular case.
 
-(a) transactions with the Government;
+[1/2007]
 
-(b) transactions between banks;
+(3) A bank in Singapore shall not grant any credit facility against the security of its own shares.
 
-(c) the purchase of telegraphic transfers or loans or advances made against telegraphic transfers;
+[1/2007]
 
-(d) any facilities granted against letters of credit or bills or guarantees or documents in respect of imports into or exports from Singapore; or
+(4) The directors of a bank in Singapore shall, without prejudice to any liability of any of the directors under this Act or any law, jointly and severally indemnify the bank against any loss suffered by the bank arising from —
 
-(e) any other type of transactions which the Authority may from time to time approve.
+(a) any unsecured credit facility granted to;
 
-(3) Subsection (1) (b) shall not apply to a bank in Singapore whose total Singapore dollar credit facilities to its customers, excluding banks, do not exceed $100 million.
+(b) any credit facility granted, which subsequently becomes an unsecured credit facility, to; or
 
-[28/93; 23/2001]
+(c) any exposure to, any person in the director group of the bank whether or not the bank has contravened any requirement imposed under subsection (1) in relation to the director group of the bank.
 
-(4) All the directors of a bank in Singapore shall be liable jointly and severally to indemnify the bank against any loss arising from the making of any unsecured credit facility or any credit facility which subsequently becomes an unsecured credit facility under subsection (1) (d) whether the bank has contravened that provision or not.
+[1/2007]
 
-[28/93; 23/2001]
+(5) A director of a bank in Singapore who resigns or vacates his office shall continue to be liable to indemnify the bank under subsection (4) against any loss which the bank suffers —
 
-(5) In this section —
+(a) before the resignation or vacation; or
 
-(a) ‘‘substantial loan’’ means any credit facility granted by a bank to a single person or to any group of persons under the control or influence of a single person which in the aggregate exceeds 15% of the bank’s capital funds;
+(b) after the resignation or vacation if the unsecured credit facility is granted, or if the credit facility becomes an unsecured credit facility, or if the exposure is acquired, during the period when he is a director unless —
 
-(b) the reference to ‘‘director’’ in subsection (1) (d) includes the wife, husband, father, mother, son or daughter of a director;
+(i) the bank suffers the loss after it approves the continuation of the credit facility or exposure; and
 
-(c) the composition of a company’s board of directors referred to in subsection (1) (d) (iii) shall be deemed to be controlled by a director of a bank if he by the exercise of some power exercisable by him without the consent or concurrence of any other person can appoint or remove all or a majority of the directors of that company; and
+(ii) such approval is given by the bank after the resignation or vacation.
 
-(d) ‘‘unsecured credit facilities’’ means credit facilities given without security, or in respect of any credit facility given with security, any part thereof which at any time exceeds the market value of the assets constituting that security, or where the Authority is satisfied that there is no established market value, on the basis of a valuation approved by it.
+[1/2007]
 
-[28/93]
+(6) Any bank which fails to comply with subsection (3) or any requirement imposed under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[1/2007]
+
+(7) In this section —
+
+‘‘director group’’ has the meaning given to it in the Fifth Schedule;
+
+‘‘exposure’’ has the meaning given to it in the Fifth Schedule;
+
+‘‘financial group’’ has the meaning given to it in the Fifth Schedule;
+
+‘‘substantial shareholder group’’ has the meaning given to it in the Fifth Schedule.
+
+[1/2007]

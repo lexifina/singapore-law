@@ -10,7 +10,7 @@ Interpretation 1. In this Schedule, unless the subject or context otherwise requ
 
 ‘‘customer’’ means any person having a banking account or any other account or other dealing, transaction or arrangement with any existing bank or the Bank, as the case may be;
 
-‘‘effective date’’ means the date mentioned in section 14A (4);
+‘‘effective date’’ means the date of lodgment mentioned in section 14A (4);
 
 ‘‘existing banks’’ means the banks that are parties to a merger agreement other than the Bank, and ‘‘existing bank’’ shall be construed accordingly;
 
@@ -26,9 +26,9 @@ Transfer of undertakings 2.—(1) On the effective date, the undertakings of the
 
 (2) The production of a copy of the certificate of approval issued under section 14A (1) shall, on and after the effective date, be conclusive evidence in all courts and proceedings of the transfer of the undertakings of the existing banks to the Bank and of their vesting in the Bank.
 
-(3) If any portion of the undertaking of an existing bank cannot be vested in the Bank by virtue of section 14C and this Schedule because transfers of that SECOND SCHEDULE — continued
+(3) If any portion of the undertaking of an existing bank cannot be vested in the Bank by virtue of section 14C and this Schedule because transfers of that portion are governed otherwise than by the law of Singapore, then that existing SECOND SCHEDULE — continued
 
-portion are governed otherwise than by the law of Singapore then that existing bank shall, as soon as is practicable after the effective date, take all necessary steps for the purpose of securing that that portion is effectively transferred to the Bank.
+bank shall, as soon as is practicable after the effective date, take all necessary steps for the purpose of securing that that portion is effectively transferred to the Bank.
 
 Saving of contracts, etc.
 
@@ -42,9 +42,9 @@ Banking business 4. Without prejudice to the generality of paragraphs 2 and 3, t
 
 (b) any security held by an existing bank as security for the payment of debts or liabilities (whether present or future, actual or contingent) of any person shall be transferred or deemed to be transferred to the Bank on the effective date and shall be held by and be available to the Bank as security for the payment of such debts and liabilities to the Bank; and
 
-where the moneys secured by such a security include future advances to or liabilities of that person, the security shall as from that date be held by and be available to the Bank as security for future advances to that SECOND SCHEDULE — continued
+where the moneys secured by such a security include future advances to or liabilities of that person, the security shall as from that date be held by and be available to the Bank as security for future advances to that person by, and future liabilities of that person to, the Bank to the same extent to which future advances by, or liabilities to, the existing bank were secured thereby immediately before that date;
 
-person by, and future liabilities of that person to, the Bank to the same extent to which future advances by, or liabilities to, the existing bank were secured thereby immediately before that date;
+SECOND SCHEDULE — continued
 
 (c) the Bank shall, in relation to any security transferred or deemed to have been transferred to it in accordance with or by virtue of the provisions of this Schedule and the moneys thereby secured in accordance with those provisions, be entitled to the same rights and priorities and subject to the same obligations and incidents as the existing bank from which the same has been transferred or deemed to have been transferred would have been entitled and subject to if the same had continued to be held by the existing bank; and
 
@@ -58,9 +58,9 @@ Application of Part IV of Evidence Act 7.—(1) Notwithstanding the transfer of 
 
 (2) For the purposes of this paragraph, ‘‘books’’ includes ledgers, day books, cash books, account books and all other books and records used in the ordinary business of an existing bank before the effective date.
 
-SECOND SCHEDULE — continued
+Application of documents 8.—(1) Subject to sub-paragraph (2), where any document whensoever made or executed contains any reference express or implied to an existing bank, such SECOND SCHEDULE — continued
 
-Application of documents 8.—(1) Subject to sub-paragraph (2), where any document whensoever made or executed contains any reference express or implied to an existing bank, such reference shall, on and after the effective date and except where the context otherwise requires, be read, construed and have effect as a reference to the Bank.
+reference shall, on and after the effective date and except where the context otherwise requires, be read, construed and have effect as a reference to the Bank.
 
 (2) Without prejudice to the generality of sub-paragraph (1), where by any order of the court or by any trust deed, settlement, covenant or agreement or where by any will, codicil or other testamentary writing, whether made or executed before or after the effective date, an existing bank (whether alone or with any other person) was or is granted letters of administration or appointed trustee, executor, guardian or in any other fiduciary capacity, such order, trust deed, settlement, covenant, agreement, will, codicil or other testamentary writing shall not fail by reason of anything in this Schedule but shall, as from the effective date, be read and construed and have effect as if for any reference therein to that existing bank there was substituted a reference to the Bank.
 
