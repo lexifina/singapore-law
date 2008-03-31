@@ -5,7 +5,7 @@ Part: PART IV TREATMENT AND REHABILITATION
 
 [38/89]
 
-(2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31, it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests —
+(2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31(4)(b), it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests —
 
 (a) to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau for a period not exceeding 2 years; or
 
@@ -21,8 +21,10 @@ Part: PART IV TREATMENT AND REHABILITATION
 
 [12/77]
 
-(5) No person in respect of whom an order has been made under subsection (2) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+(4A) The Director may, under such circumstances as may be prescribed, extend the period for which a person is subject to supervision under subsection (2)(a) for a period not exceeding 2 years.
 
-[37
+[2/2006]
 
-[12/77; 28/79]
+(5) No person in respect of whom an order has been made under subsection (2)(b) shall be detained in an approved institution or institutions for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+
+[12/77; 28/79; 2/2006]

@@ -10,137 +10,153 @@ CLASS A DRUGS
 
 1. The following substances and products:
 
-Acetorphine. 4-Bromo-2,5-dimethoxy-α- Acetylmethadol. methylphenethylamine (also known Allylprodine. as Brolamfetamine).
+Acetorphine. 4-Bromo-2,5- Acetylmethadol. dimethoxyphenethylamine.
 
-Alphacetylmethadol. 4-Bromo-2,5- Alphameprodine. dimethoxyphenethylamine.
+Allylprodine. Bufotenine.
 
-Alphamethadol. Bufotenine.
+Alphacetylmethadol. Buprenorphine.
 
-Alphaprodine. Cannabinol.
+Alphameprodine. Cannabinol.
 
-2-amino-1-(2, 5-dimethoxy-4-methyl) Cannabinol derivatives.
+Alphamethadol. Cannabinol derivatives.
 
-phenylpropane. Cannabis and cannabis resin.
+Alphaprodine. Cannabis and cannabis resin.
 
-Amphetamine. Cathinone.
+2-amino-1-(2, 5-dimethoxy-4-methyl) Cathinone.
 
-Anileridine. Clonitazene.
+phenylpropane. Clonitazene.
 
-Benzethidine. Coca leaf.
+Amphetamine. Coca leaf.
 
-Benzylmorphine (3-benzyl- Cocaine.
+Anileridine. Cocaine.
 
-morphine). Codoxime.
+Benzethidine. Codoxime.
 
-Betacetylmethadol. Desomorphine.
+Benzylmorphine (3-benzyl- Desomorphine.
 
-Betameprodine. Dextromoramide.
+morphine). Dextromoramide.
 
-Betamethadol. Diamorphine.
+Betacetylmethadol. Diamorphine.
 
-Betaprodine. Diampromide.
+Betameprodine. Diampromide.
 
-Bezitramide. Diethylthiambutene.
+Betamethadol. Diethylthiambutene.
 
-FIRST SCHEDULE — continued
+Betaprodine. Difenoxin.
 
-PART I — continued
+Bezitramide. Dihydroetorphine.
 
-Difenoxin. Levophenacylmorphan.
+4-Bromo-2,5-dimethoxy-α- Dihydromorphine.
 
-Dihydroetorphine. Levorphanol.
+methylphenethylamine (also known Dimenoxadole.
 
-Dihydromorphine. Lysergamide.
-
-Dimenoxadole. Lysergide and other N-alkyl Dimepheptanol. derivatives of lysergamide.
-
-2, 5-Dimethoxy-α- Mescaline.
-
-methylphenethylamine. Metazocine.
-
-N, ∝-dimethyl-3, 4-(methylenedioxy) Methadone.
-
-phenethylamine.3-(1, Methadyl acetate. Methcathinone.
-
-2-dimethylheptyl)-1-hydroxy-7, 8, 9, 3-Methoxy-α-methyl-4, 10 tetrahydro-6, 6, 9-trimethyl-6H- 5-(methylenedioxy) dibenzo [b, d] pyran. phenethylamine.
-
-Dimethylthiambutene. p-methoxy-∝-methylphenethylamine.
-
-Dioxaphetyl butyrate. 4-methylaminorex.
-
-Diphenoxylate. Methamphetamine (also known as Dipipanone. Methylamphetamine).
-
-Drotebanol. Methyldesorphine.
-
-Ecgonine, and any derivative of N-Methyl-α-ethyl-3, ecgonine which is convertible to 4-(methylenedioxy) ecgonine or to cocaine. phenethylamine.
-
-4-Ethyl-2,5-dimethoxy-α- Methyldihydromorphine methylphenethylamine. (6-methyldihydromorphine).
-
-N-ethyl-∝-methyl-3, Metopon.
-
-4-(methylenedioxy) Morpheridine.
-
-phenethylamine. Morphine.
-
-Ethylmethylthiambutene. Morphine methobromide, morphine Eticyclidine. N-oxide and other pentavalent Etonitazene. nitrogen morphine derivatives.
-
-Etorphine. Myrophine.
-
-Etoxeridine. Nicomorphine (3, 6-dinicotinoyl- Etryptamine. morphine).
-
-Furethidine. Noracymethadol.
-
-Hydrocodone. Norlevorphanol.
-
-Hydromorphinol. Normethadone.
-
-Hydromorphone. Normorphine.
-
-N-[∝-methyl-3, 4-(methylenedioxy) Norpipanone.
-
-phenethyl] hydroxylamine. Opium.
-
-Hydroxypethidine. Oxycodone.
-
-Isomethadone. Oxymorphone.
-
-Ketobemidone. Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, Levomethorphan. 10-tetrahydro-6, 6, 9-trimethyl Levomoramide. 6H-dibenzo [b, d] pyran).
+as Brolamfetamine). Dimepheptanol.
 
 FIRST SCHEDULE — continued
 
 PART I — continued
 
-Pethidine.
+2, 5-Dimethoxy-α- Lysergide and other N-alkyl methylphenethylamine. derivatives of lysergamide.
 
-Phenadoxone. Thebaine.
+N, α-dimethyl-3, 4-(methylenedioxy) Mescaline.
 
-Phenampromide. Tilidine.
+phenethylamine. Metazocine.
 
-Phenazocine. Trimeperidine.
+3-(1, 2-dimethylheptyl)-1-hydroxy-7, Methadone.
 
-Phenomorphan. 3, 4, 5-trimethoxy-∝- Phenoperidine. methyphenethylamine.
+8, 9, 10 tetrahydro-6, 6, Methadyl acetate.
 
-Piminodine. 4-Cyano-2-dimethylamino-4, Piritramide. Poppy-straw and 4-diphenylbutane.
+9-trimethyl-6H-dibenzo [b, d] Methcathinone.
 
-concentrate of poppy-straw. 4-Cyano-1-methyl-4-phenyl- Proheptazine. piperidine.
+pyran. 3-Methoxy-α-methyl-4, Dimethylthiambutene. 5-(methylenedioxy) Dioxaphetyl butyrate. phenethylamine.
 
-Properidine (1-methyl-4-phenyl- N, N-Diethyltryptamine.
+Diphenoxylate. 5-Methoxy-N, Dipipanone. N-diisopropyltryptamine.
 
-piperidine-4-carboxylic acid N, N-Dimethyltryptamine.
+Drotebanol. p-methoxy-∝-methylphenethylamine.
 
-isopropyl ester). 2,5-Dimethoxy-4,α-dimethyl- Psilocin. phenethylamine.
+Ecgonine, and any derivative of 4-methylaminorex.
 
-Psilocybine. 1-Hydroxy-3-pentyl-6a, 7, 10, Racemethorphan. 10a-tetra hydro-6, 6, Racemoramide. 9-trimethyl-6-H-dibenzo [b, d]
+ecgonine which is convertible to Methamphetamine (also known as ecgonine or to cocaine. Methylamphetamine).
 
-Racemorphan. pyran.
+4-Ethyl-2,5-dimethoxy-α- Methyldesorphine.
 
-Remifentanil. 1-Methyl-4-phenylpiperidine-4- Rolicyclidine. carboxylic acid.
+methylphenethylamine. N-Methyl-α-ethyl-3, N-ethyl-∝-methyl-3, 4-(methylenedioxy) 4-(methylenedioxy) phenethylamine.
 
-α-Methyl-3,4-(methylenedioxy) 2-Methyl-3-morpholino-1, phenethylamine (also known as 1-diphenylpropanecarboxylic acid.
+phenethylamine. Methyldihydromorphine Ethylmethylthiambutene. (6-methyldihydromorphine).
 
-Tenamfetamine). 3-methylthiofentanyl.
+Eticyclidine. 4-methylthioamphetamine.
 
-Tenocyclidine. 4-Phenylpiperidine-4-carboxylic acid Thebacon. ethyl ester.
+Etonitazene. Metopon.
+
+Etorphine. Monoacetylmorphine.
+
+Etoxeridine. Morpheridine.
+
+Etryptamine. Morphine.
+
+Furethidine. Morphine methobromide, morphine Gamma hydroxybutyric acid. N-oxide and other pentavalent Hydrocodone. nitrogen morphine derivatives.
+
+Hydromorphinol. Myrophine.
+
+Hydromorphone. Nicomorphine (3, 6-dinicotinoyl- N-[∝-methyl-3, 4-(methylenedioxy) morphine).
+
+phenethyl] hydroxylamine. Noracymethadol.
+
+Hydroxypethidine. Norbuprenorphine.
+
+Isomethadone. Norketamine and its dehydro Ketamine. derivatives.
+
+Ketobemidone. Norlevorphanol.
+
+Levomethorphan. Normethadone.
+
+Levomoramide. Normorphine.
+
+Levophenacylmorphan. Norpipanone.
+
+Levorphanol. Opium.
+
+Lysergamide. Oxycodone.
+
+FIRST SCHEDULE — continued
+
+PART I — continued
+
+Oxymorphone. Tenocyclidine.
+
+Parahexyl (3-hexyl-1-hydroxy-7, 8, 9, Thebacon.
+
+10-tetrahydro-6, 6, 9-trimethyl Thebaine.
+
+6H-dibenzo [b, d] pyran). Tilidine.
+
+Pethidine. Trimeperidine.
+
+Phenadoxone. 3, 4, 5-trimethoxy-∝- Phenampromide. methyphenethylamine.
+
+Phenazocine. 4-Cyano-2-dimethylamino-4, Phenomorphan. 4-diphenylbutane.
+
+Phenoperidine. 4-Cyano-1-methyl-4-phenyl- Piminodine. piperidine.
+
+Piritramide. N, N-Diethyltryptamine.
+
+Poppy-straw and concentrate of N, N-Dimethyltryptamine.
+
+poppy-straw. 2,5-Dimethoxy-4,α-dimethyl- Proheptazine. phenethylamine.
+
+Properidine (1-methyl-4-phenyl- 1-Hydroxy-3-pentyl-6a, 7, 10, piperidine-4-carboxylic acid 10a-tetra hydro-6, 6, isopropyl ester). 9-trimethyl-6-H-dibenzo [b, d]
+
+Psilocin. pyran.
+
+Psilocybine. 1-Methyl-4-phenylpiperidine-4- Racemethorphan. carboxylic acid.
+
+Racemoramide. 2-Methyl-3-morpholino-1, Racemorphan. 1-diphenylpropanecarboxylic acid.
+
+Remifentanil. 3-methylthiofentanyl.
+
+Rolicyclidine. 4-Phenylpiperidine-4-carboxylic acid α-Methyl-3,4-(methylenedioxy) ethyl ester.
+
+phenethylamine (also known as Tenamfetamine).
 
 2. Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrorphan.
 
@@ -151,6 +167,10 @@ Tenocyclidine. 4-Phenylpiperidine-4-carboxylic acid Thebacon. ethyl ester.
 5. Any preparation or other products containing a substance or product for the time being specified in any of paragraphs 1 to 4.
 
 6. Any preparation designed for administration by injection which includes a substance or product for the time being specified in any of paragraphs 1 to 3 of Part II.
+
+FIRST SCHEDULE — continued
+
+PART I — continued
 
 7. Fentanyl and any compounds structurally derived from N-(1-Methyl-4- piperidyl)-N-phenyl formanide by substitution of any of the hydrogen atoms, including the following; and any salt of any substance falling within this item:
 
@@ -176,23 +196,25 @@ Acetyldihydrocodeine. Nicodicodine.
 
 Codeine. Norcodeine.
 
-Dextropropoxyphene. Norketamine and its dehydro Dihydrocodeine. derivatives.
+Dextropropoxyphene. Phencyclidine.
 
-Ethylmorphine (3-ethylmorphine). Phencyclidine.
+Dihydrocodeine. Phenmetrazine.
 
-Fenetylline. Phenmetrazine.
+Ethylmorphine (3-ethylmorphine). Pholcodine.
 
-Ketamine. Pholcodine.
+Fenetylline. Propiram.
 
-Methylphenidate. Propiram.
+Methylphenidate. Zipeprol.
 
-Nicocodine. Zipeprol.
+Nicocodine.
 
 2. Any stereoisomeric form of a substance for the time being specified in paragraph 1.
 
 3. Any salt of a substance for the time being specified in paragraph 1 or 2.
 
 4. Any preparation or other product containing a substance or product for the time being specified in any of paragraphs 1 to 3, not being a preparation falling within paragraph 6 of Part I.
+
+FIRST SCHEDULE — continued
 
 PART III
 
@@ -236,9 +258,11 @@ For the purposes of this Schedule —
 
 ‘‘poppy-straw’’ means all parts, except the seeds, of the opium poppy, after mowing.
 
-[S 88/79; S 238/83; S 229/84; S 272/84; S 31/86; S 50/90; S 564/91; S 66/92;
+[40/93; 2/2006; S 88/79; S 238/83; S 229/84; S 272/84; S 31/86; S 50/90;
 
-S 262/95; S 223/96; S 469/97; S 391/99; S 232/2000; Act 40/93]
+S 564/91; S 66/92; S 262/95; S 223/96; S 469/97; S 391/99;
+
+S 232/2000; S 493/2001; S 30/2004; S 507/2005; S 491/2006]
 
 Sections 2 and 33
 
@@ -262,7 +286,7 @@ Minimum 20 years morphine and 15 strokes
 
 (b) more than 1,200 grammes — — — Death —
 
-and containing more than 30 grammes of morphine Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+and containing more than 30 grammes of morphine Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
 (3) Unauthorised traffic in controlled drug (except opium) containing such quantity of morphine being —
 
@@ -286,7 +310,7 @@ and 15 strokes
 
 Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
-(5) Unauthorised traffic in cocaine where the quantity is —
+(5) Unauthorised traffic in controlled drug containing such quantity of cocaine being —
 
 (a) not less than 20 grammes and — — — Maximum 30 years —
 
@@ -306,7 +330,7 @@ and 15 strokes
 
 (b) more than 500 grammes — — — Death —
 
-Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
 (7) Unauthorised traffic in cannabis mixture where the quantity is —
 
@@ -330,7 +354,7 @@ and 15 strokes
 
 Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
-(9) Unauthorised traffic in methamphetamine where the quantity is —
+(9) Unauthorised traffic in controlled drug containing such quantity of methamphetamine being —
 
 (a) not less than 167 grammes — — — Maximum 30 years —
 
@@ -346,11 +370,11 @@ controlled drug except as otherwise 30 years or 30 years or 20 years and provide
 
 Minimum Minimum Minimum — —
 
-10 years and 10 years and 5 years and 5 strokes 5 strokes 5 strokes
+10 years and 10 years and 5 years and 5 strokes 5 strokes 5 strokes Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
 (2) Unauthorised manufacture of — — — Death —
 
-morphine, or any salt of morphine, ester of morphine or salt of ester of morphine Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+morphine, or any salt of morphine, ester of morphine or salt of ester of morphine
 
 (3) Unauthorised manufacture of — — — Death —
 
@@ -362,7 +386,7 @@ cocaine or any salt of cocaine
 
 (5) Unauthorised manufacture of — — — Death —
 
-methamphetamine
+methamphetamine or any salt of methamphetamine
 
 7 (1) Unauthorised import or export of Maximum Maximum Maximum — —
 
@@ -394,7 +418,7 @@ and 15 strokes
 
 (b) more than 30 grammes — — — Death —
 
-Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
 (4) Unauthorised import or export of controlled drug containing such quantity of diamorphine being —
 
@@ -438,7 +462,7 @@ and 15 strokes
 
 (b) more than 1,000 grammes — — — Death —
 
-Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
 (8) Unauthorised import or export of cannabis resin where the quantity is —
 
@@ -450,7 +474,7 @@ and 15 strokes
 
 (b) more than 200 grammes — — — Death —
 
-(9) Unauthorised import or export of methamphetamine where the quantity is —
+(9) Unauthorised import or export of controlled drug containing such quantity of methamphetamine being —
 
 (a) not less than 167 grammes — — — Maximum 30 years —
 
@@ -468,7 +492,7 @@ Minimum for second or subsequent offence 2 years
 
 8 (b) Smoking, self-administering or — — — — Maximum consuming a controlled drug or a drug 10 years or specified in the Fourth Schedule $20,000 or both
 
-9 Possession of pipes, utensils, etc., for — — — — Maximum smoking, administration or consumption 3 years or of a controlled drug $10,000 or both Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+9 Possession of pipes, utensils, etc., for — — — — Maximum smoking, administration or consumption 3 years or of a controlled drug $10,000 or both Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
 10 Cultivation of cannabis, opium, coca — — — — Maximum plant 20 years or $40,000 or both Minimum 3 years or $5,000 or both
 
@@ -482,14 +506,14 @@ person concerned in the management of 10 years or 10 years or 5 years or premise
 
 13 Abetting or procuring the commission — — — — Maximum outside Singapore of an offence 10 years or punishable under a corresponding law $40,000 or both Minimum 2 years or $4,000 or both
 
-30 (1) (a) Obstructing exercise of powers — — — — Maximum 3 years or $5,000 or both Minimum 6 months or $1,000 or both
+30(1)(a) Obstructing exercise of powers — — — — Maximum 3 years or $5,000 or both Minimum 6 months or $1,000 or both
 
-30 (1) (b) Failure to comply with lawful — — — — Maximum requirements 3 years or $5,000 or both Minimum 6 months or $1,000 or both Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
+30(1)(b) Failure to comply with lawful — — — — Maximum requirements 3 years or $5,000 or both Minimum 6 months or $1,000 or both Punishment Section Specified drug or creating General nature of offence Class A Class B Class C quantity thereof or offence drug drug drug General drug with specified involved involved involved content involved
 
-30 (1) (c) Failure to furnish information — — — — Maximum 3 years or $5,000 or both Minimum 6 months or $1,000 or both
+30(1)(c) Failure to furnish information — — — — Maximum 3 years or $5,000 or both Minimum 6 months or $1,000 or both
 
-30 (1) (d) Furnishing false information — — — — Maximum 12 months or $5,000 or both
+30(1)(d) Furnishing false information — — — — Maximum 12 months or $5,000 or both
 
-31 (2) Failure to provide specimen of urine for — — — — Maximum urine test 10 years or $20,000 or both
+31(2) Failure to provide specimen of urine for — — — — Maximum urine test 10 years or $20,000 or both
 
-[20/98]
+[20/98; 2/2006]

@@ -13,9 +13,7 @@ Part: PART III EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (i) in the case of unauthorised manufacture, in relation to such specified controlled drug as is mentioned in the second column; and
 
-(ii) in the case of unauthorised traffic or import or export, in relation to a specified quantity of such controlled drug or to a controlled drug (except opium) containing such quantity of morphine or diamorphine as is mentioned in the second column;
-
-and
+(ii) in the case of unauthorised traffic or import or export, in relation to a specified quantity of such controlled drug or to a controlled drug (except opium) containing such quantity of morphine or diamorphine as is mentioned in the second column; and
 
 (c) the seventh column shows the punishments to be imposed on a person convicted of the offence whether or not the offence was committed in relation to a controlled drug and, if it was so committed, irrespective of the nature of the drug.
 
@@ -23,7 +21,7 @@ and
 
 [49/75]
 
-(4) If any person convicted of an offence under section 8 (b) or 31 (2) is again convicted of an offence under section 8 (b) or 31 (2), he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
+(4) If any person convicted of an offence under section 8(b) or 31(2) is again convicted of an offence under section 8(b) or 31(2), he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
 
 [20/98]
 

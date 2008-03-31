@@ -19,6 +19,4 @@ Part: PART IV TREATMENT AND REHABILITATION
 
 (4) On proof to his satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the Superintendent may order that the inmate be taken to that place.
 
-[41
-
 [28/79]

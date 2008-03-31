@@ -1,4 +1,4 @@
-# 10B. Regulations on controlled substances
+# 10B. Regulations on controlled equipment, material or substances
 Part: PART II OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES
 
 (1) The Minister may by regulations make provisions for —

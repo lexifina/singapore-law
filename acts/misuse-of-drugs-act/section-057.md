@@ -1,5 +1,5 @@
 # 57. Employment of auxiliary police officers as escorts and guards
-Part: PART VI GENERAL
+Part: PART VII GENERAL
 
 (1) For the purpose of assisting him in the discharge of his duties under this Act, the Director of Prisons may employ such numbers of auxiliary police officers as he considers fit as escorts or guards to ensure the safe custody of the inmates who are under his custody while the inmates are transported to, or from, any approved institution and while the inmates are at any place outside an approved institution.
 
@@ -17,8 +17,6 @@ Part: PART VI GENERAL
 
 [8/2000]
 
-(5) For the purpose of this section, ‘‘auxiliary police officer’’ means a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or a member of an auxiliary police force established under any other written law.
+(5) For the purpose of this section, ‘‘auxiliary police officer’’ means a member of an auxiliary police force established under any other written law.
 
-[43B
-
-[8/2000]
+[8/2000; 3/2005]

@@ -1,5 +1,5 @@
 # 51. Record of proceedings
-Part: PART V COMMITTEE OF INQUIRY
+Part: PART VI COMMITTEE OF INQUIRY
 
 (1) The chairman shall record or cause to be recorded in writing the proceedings of the committee of inquiry.
 
@@ -14,7 +14,5 @@ Part: PART V COMMITTEE OF INQUIRY
 [8/2000]
 
 (4) The record of proceedings of a committee of inquiry or any part thereof or any information relating thereto shall be kept confidential and shall not be released to any person, other than a member of the committee, without the written permission of the Minister.
-
-[43M
 
 [8/2000]

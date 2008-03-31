@@ -1,5 +1,5 @@
 # 58. Regulations
-Part: PART VI GENERAL
+Part: PART VII GENERAL
 
 (1) The Minister may make regulations —
 
@@ -35,7 +35,9 @@ Part: PART VI GENERAL
 
 (p) prescribing the appointment and duties of officers of approved institutions;
 
-(q) providing for the supervision and aftercare of persons referred to in section 34 (2) (a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8 (b);
+(q) providing for the supervision and aftercare of persons referred to in section 34(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b);
+
+(qa) prescribing the circumstances under which the Director may extend the period for which a person is subject to supervision under this Act;
 
 (r) prescribing anything that may be prescribed;
 
@@ -47,7 +49,7 @@ Part: PART VI GENERAL
 
 (v) generally for carrying out the purposes and provisions of this Act.
 
-[12/77; 28/79; 38/89; 20/98]
+[12/77; 28/79; 38/89; 20/98; 2/2006]
 
 (2) Regulations made by the Minister under this section may —
 
@@ -56,5 +58,3 @@ Part: PART VI GENERAL
 (b) make the opinion, consent or approval of any prescribed authority or authorised person material for the purposes of any provision; and
 
 (c) provide for the constitution and procedure of a tribunal to advise the Minister in any case of contravention of this Act or the regulations by any medical practitioner, dentist, pharmacist, veterinary surgeon or other authorised person.
-
-[44

@@ -13,6 +13,4 @@ Part: PART IV TREATMENT AND REHABILITATION
 
 (c) while he is being taken to any place to which he is required or authorised under this Act to be taken, or is kept in custody in pursuance of any such requirement or authorisation.
 
-[43
-
 [28/79]

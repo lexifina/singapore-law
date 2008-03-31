@@ -1,11 +1,13 @@
 # 56. Use of weapons
-Part: PART VI GENERAL
+Part: PART VII GENERAL
 
 (1) Subject to this section, a prison officer may use any weapon against —
 
 (a) any inmate of any approved institution escaping or attempting to escape;
 
-(b) any person who does any act or attempts to do any act to facilitate the escape of an inmate of any approved institution; or
+(b) any person who does any act or attempts to do any act to facilitate the escape of an inmate of any approved institution;
+
+or
 
 (c) any person engaged in any attempt to damage or force or break open —
 
@@ -48,7 +50,5 @@ Part: PART VI GENERAL
 [8/2000]
 
 (8) Every police officer who is for the time being serving in the capacity of an escort, or of a guard in or around any approved institution, for the purpose of ensuring the safe custody of any inmate, shall be deemed to have all the powers and privileges granted to a prison officer under this section.
-
-[43A
 
 [8/2000]

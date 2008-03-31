@@ -1,7 +1,7 @@
 # 31. Urine tests
 Part: PART III EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
-(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8 (b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
 
 [12/77; 38/89]
 
@@ -13,14 +13,14 @@ Part: PART III EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (a) fails to comply with the requirement of an immigration officer under this section; or
 
-(b) is found as a result of urine tests conducted under this section to have consumed a controlled drug, may be prohibited from entering or remaining in Singapore.
+(b) is found as a result of urine tests conducted under subsection (4)(a) or (b) to have consumed a controlled drug, may be prohibited from entering or remaining in Singapore.
 
-[38/89]
+[38/89; 2/2006]
 
-(4) A specimen of urine provided under this section shall be divided into 2 parts and each part shall be marked and sealed in such manner and in accordance with such procedure as may be prescribed.
+(4) A specimen of urine provided under this section shall be divided into 3 parts and dealt with, in such manner and in accordance with such procedure as may be prescribed, as follows:
 
-[38/89]
+(a) a preliminary urine test shall be conducted on one part of the urine specimen; and
 
-(5) A urine test shall be conducted by an analyst employed by the Health Sciences Authority on one part of a specimen of urine provided under this section and, at the same time or soon thereafter, a second urine test shall be conducted on the other part of the specimen of urine by another analyst employed by the Health Sciences Authority.
+(b) each of the remaining 2 parts of the urine specimen shall be marked and sealed and a urine test shall be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may, by notification in the Gazette, appoint for such purpose.
 
-[38/89; 20/98; 4/2001]
+[2/2006]

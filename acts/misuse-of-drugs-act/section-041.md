@@ -1,5 +1,5 @@
 # 41. Committee of inquiry
-Part: PART V COMMITTEE OF INQUIRY
+Part: PART VI COMMITTEE OF INQUIRY
 
 (1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by sections 42, 49 and 51, should be informed on any matter connected with the discipline, administration or functions of any approved institution or affecting any inmate, the Minister or the person appointed by the Minister may convene a committee of inquiry.
 
@@ -10,7 +10,5 @@ Part: PART V COMMITTEE OF INQUIRY
 [8/2000]
 
 (3) In this section and in sections 42, 49 and 51, ‘‘Minister’’ includes the person appointed by the Minister under subsection (1) to act on his behalf for the purposes of this section and sections 42, 49 and 51.
-
-[43C
 
 [8/2000]

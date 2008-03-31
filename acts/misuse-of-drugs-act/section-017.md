@@ -17,7 +17,9 @@ Any person who is proved to have had in his possession more than —
 
 (g) 3 grammes of cocaine;
 
-(h) 25 grammes of methamphetamine; or
+(h) 25 grammes of methamphetamine;
+
+(ha) 113 grammes of ketamine; or
 
 (i) 10 grammes of any or any combination of the following:
 
@@ -25,6 +27,6 @@ Any person who is proved to have had in his possession more than —
 
 (ii) α-methyl-3,4-(methylenedioxy)phenethylamine; or
 
-(iii) N-ethyl-α-methyl-3,4-(methylenedioxy)phenethyla- mine, whether or not contained in any substance, extract, preparation or mixture shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
+(iii) N-ethyl-α-methyl-3,4-(methylenedioxy)phenethyla- mine, whether or not contained in any substance, extract, preparation or mixture, shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
 
-[38/89; 40/93; 20/98]
+[38/89; 40/93; 20/98; 2/2006]

@@ -27,6 +27,4 @@ Part: PART IV TREATMENT AND REHABILITATION
 
 (6) No evidence taken for the purpose of any such inquiry shall be admissible in any civil or criminal proceedings, except where the person who gave that evidence is charged with giving or fabricating false evidence.
 
-[42
-
 [12/77]

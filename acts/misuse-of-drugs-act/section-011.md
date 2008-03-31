@@ -1,4 +1,4 @@
-# 11. Responsibilities of owners and tenants, etc.
+# 11. Responsibilities of owners, tenants, etc.
 Part: PART II OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES
 
 It shall be an offence for a person being the owner, tenant, occupier or person in charge of any place or premises, to permit or suffer such place or premises or any part thereof to be opened, kept or used for —

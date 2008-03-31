@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires —
 
 (b) the production, supply, use, export and import of dangerous or otherwise harmful drugs in pursuance of any treaty, convention or other agreement or arrangement to which the government of that country and the Government of Singapore are for the time being parties;
 
-‘‘Director’’ means the Director of the Central Narcotics Bureau appointed under section 3 (1);
+‘‘Director’’ means the Director of the Central Narcotics Bureau appointed under section 3(1);
 
 ‘‘Director of Prisons’’ means the Director of Prisons appointed under section 20 of the Prisons Act (Cap. 247);
 
@@ -37,7 +37,7 @@ In this Act, unless the context otherwise requires —
 
 (b) a psychological or physical dependence upon the effect of that controlled drug;
 
-‘‘Health Sciences Authority’’ means the Health Sciences Authority established under the Health Sciences Authority Act 2001 (Act 4 of 2001);
+‘‘Health Sciences Authority’’ means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
 
 ‘‘immigration officer’’ has the same meaning as in the Immigration Act (Cap. 133);
 
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘officer of customs’’ has the same meaning as in the Customs Act (Cap. 70);
 
-‘‘officer of the Bureau’’ means the Director or any officer of the Central Narcotics Bureau;
+‘‘officer of the Bureau’’ means the Director or any person appointed under section 3 as a Deputy Director, an Assistant Director or an officer of the Central Narcotics Bureau;
 
 ‘‘opium’’ means any substance containing in any quantity morphine and one or more of the following, namely, codeine, narcotine, papaverine and thebaine but does not include poppy-straw which is not mixed in any such substance;
 
@@ -79,4 +79,4 @@ In this Act, unless the context otherwise requires —
 
 ‘‘Vigilante Corps’’ means the Vigilante Corps constituted under the Vigilante Corps Act (Cap. 343).
 
-[49/75; 12/77; 40/93; 20/98 8/2000; 4/2001]
+[49/75; 12/77; 40/93; 20/98; 8/2000; 4/2001; 2/2006]

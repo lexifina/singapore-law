@@ -13,6 +13,6 @@ Part: PART II OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES
 
 [20/98]
 
-(2) It shall not be a defence to a person who contravenes subsection (1) (d) in respect of any controlled equipment, controlled material or controlled substance to show that the equipment, material or substance is the subject of a licence, permit or any other form of authorisation issued or granted under any regulations made under section 10B.
+(2) It shall not be a defence to a person who contravenes subsection (1)(d) in respect of any controlled equipment, controlled material or controlled substance to show that the equipment, material or substance is the subject of a licence, permit or any other form of authorisation issued or granted under any regulations made under section 10B.
 
 [20/98]

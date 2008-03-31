@@ -1,4 +1,4 @@
-# 26. Power to search ship, aircraft, vehicle or train and person arriving in or departing from Singapore
+# 26. Power to search ship, hovercraft, aircraft, vehicle or train and person arriving in or departing from Singapore
 Part: PART III EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
 (1) Any officer of the Bureau, police officer or officer of customs may —

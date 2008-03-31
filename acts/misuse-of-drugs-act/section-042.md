@@ -1,5 +1,5 @@
 # 42. Composition of committee of inquiry
-Part: PART V COMMITTEE OF INQUIRY
+Part: PART VI COMMITTEE OF INQUIRY
 
 (1) A committee of inquiry shall consist of one or more persons who shall be appointed by the Minister.
 
@@ -14,7 +14,5 @@ Part: PART V COMMITTEE OF INQUIRY
 [8/2000]
 
 (4) Every member of a committee of inquiry appointed under this section shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
-
-[43D
 
 [8/2000]
