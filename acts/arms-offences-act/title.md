@@ -1,0 +1,24 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+ARMS OFFENCES ACT
+(CHAPTER 14)
+Act
+61 of 1973
+1985 Ed. Cap. 14
+Amended by
+6 of 1978
+25 of 1984
+30 of 1993
+REVISED EDITION 2008
+(31st March 2008)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2008
+
+
+
+An Act relating to the unlawful possession of arms and ammunition and the carrying and using of arms.
+
+[8th February 1974]
