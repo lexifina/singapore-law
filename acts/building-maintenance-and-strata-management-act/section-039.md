@@ -1,0 +1,33 @@
+# 39. Management corporation to determine contributions by subsidiary proprietors
+Part: PART IV DEALINGS IN STRATA SUBDIVIDED BUILDINGS
+Division: Division 2 — Management corporations and common property
+
+(1) The management corporation shall, from time to time at a general meeting, determine the amounts which are reasonable and necessary to be raised by contributions for the purpose of meeting its actual or expected liabilities incurred or to be incurred within the period (not exceeding 12 months) specified in the determination in respect of —
+
+(a) the regular maintenance and keeping in good and serviceable repair pursuant to section 29 of parts of the parcel being the common property, fixtures, fittings and other property (including movable property) held by or on behalf of the management corporation;
+
+(b) the common expenses of the management corporation (except those in subsection (2)(a) to (d));
+
+(c) the payment of insurance premiums; and
+
+(d) all other liabilities incurred or to be incurred during that period by or on behalf of the management corporation in carrying out its powers, authorities, duties and functions under this Act other than liabilities referred to in subsection (2).
+
+(2) The management corporation shall, also from time to time at a general meeting, determine the amounts which are reasonable and 64 CAP. 30C Strata Management 2008 Ed.
+
+necessary to be raised by contributions for the purpose of meeting its actual or expected liabilities incurred or to be incurred in respect of —
+
+(a) painting or treating of any part of the common property which is a structure or other improvement for the preservation and appearance of the common property;
+
+(b) major repairs and improvements to, and maintenance of, the common property and boundary wall;
+
+(c) the renewal or replacement pursuant to section 29 of parts of the parcel being the common property, fixtures, fittings and other property (including movable property) held by or on behalf of the management corporation;
+
+(d) the acquisition of movable property; and
+
+(e) such other liabilities expected to be incurred at a future time where the management corporation determines in a general meeting that the whole or part thereof should be met from its sinking fund.
+
+(3) If the management corporation becomes liable to pay any moneys that it is unable to pay immediately, the management corporation shall determine that amount to be raised by contributions.
+
+(4) A determination made by a management corporation under subsection (1) or (2) may specify that the amounts to be raised for the purposes therein referred to shall be raised by such regular periodic contributions as may be specified in the determination.
+
+[LT(S)A, s. 48(1)]

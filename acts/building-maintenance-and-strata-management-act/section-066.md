@@ -1,0 +1,39 @@
+# 66. Appointment of managing agent of management corporation
+Part: PART IV DEALINGS IN STRATA SUBDIVIDED BUILDINGS
+Division: Division 5 — Managing agents
+
+(1) Subject to subsection (3), a managing agent for a management corporation may be appointed —
+
+(a) by the management corporation by ordinary resolution; or
+
+(b) by the council of the management corporation without a general meeting if duly authorised to do so by the subsidiary proprietors at the last preceding general meeting of the management corporation.
+
+2008 Ed. Strata Management CAP. 30C 95
+
+(2) Any managing agent appointed under subsection (1) by a management corporation shall hold office until —
+
+(a) the conclusion of the third annual general meeting of the management corporation after his appointment;
+
+(b) the expiry of the term of his appointment; or
+
+(c) the termination of his appointment in accordance with this section, whichever first occurs.
+
+(3) The fees and expenses of a managing agent shall be fixed —
+
+(a) where the managing agent is appointed under subsection (1)(a), by the management corporation at a general meeting or, if so authorised by the subsidiary proprietors at the last preceding general meeting, by the council of the management corporation; or
+
+(b) where the managing agent is appointed under subsection (1)(b), by the council of the management corporation without a general meeting.
+
+[47/2007]
+
+(4) A managing agent who is in any way, directly or indirectly, related to a subsidiary proprietor of a lot in the subdivided building concerned shall declare in writing the nature of his relationship prior to his appointment.
+
+(5) A managing agent who retires from office shall be eligible for reappointment.
+
+(6) A management corporation may terminate the appointment of its managing agent under this section at any time in accordance with the terms of the appointment —
+
+(a) if authorised by ordinary resolution at a general meeting; or
+
+(b) without a general meeting if authorised by its subsidiary proprietors at the last preceding general meeting.
+
+[LT(S)A, s. 68]
