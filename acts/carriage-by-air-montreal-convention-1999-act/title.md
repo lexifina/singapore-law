@@ -1,0 +1,20 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+CARRIAGE BY AIR
+(MONTREAL CONVENTION, 1999) ACT
+(CHAPTER 32B)
+Act
+41 of 2007
+REVISED EDITION 2008
+(31st July 2008)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2008
+
+
+
+An Act to give effect to the provisions of the Montreal Convention, 1999 concerning international carriage by air and for purposes connected therewith.
+
+[16th November 2007]
