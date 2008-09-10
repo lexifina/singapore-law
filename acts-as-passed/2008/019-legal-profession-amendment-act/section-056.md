@@ -1,0 +1,7 @@
+# 56. Savings and transitional provisions
+
+(1) Sections 2(c) and (f), 9, 26(c) and (f), 27(b), 29(b), 33, 34, 35, 36, 37(a), (b), (c) and (e), 38(a), (b) and (d), 41, 42, 46(a) and (c), 47, 48 and 49 (referred to in this subsection as the relevant provisions) shall not apply in relation to any proceedings before any Disciplinary Committee that was appointed before the date of commencement of the relevant provisions, and the provisions of the principal Act governing any proceedings before any Disciplinary Committee that were in force immediately before that date shall continue to apply in relation to those proceedings as if the relevant provisions had not been enacted.
+
+(2) Section 41 shall not apply in relation to any application under section 97 of the principal Act in respect of any determination of any Disciplinary Committee that was appointed before the date of commencement of section 41, and section 97 of the principal Act in force immediately before that date shall continue to apply in relation to that application as if section 41 had not been enacted.
+
+(3) Section 42 shall not apply in relation to any application under section 98 of the principal Act following from any determination of any Disciplinary Committee that was appointed before the date of commencement of section 42, and section 98 of the principal Act in force immediately before that date shall continue to apply in relation to that application as if section 42 had not been enacted.
