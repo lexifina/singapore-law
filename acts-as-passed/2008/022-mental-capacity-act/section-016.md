@@ -1,0 +1,24 @@
+# 16. Protection of donee and others if no power created or power revoked
+Part: PART IV LASTING POWERS OF ATTORNEY
+
+(1) Subsections (2) and (3) apply if —
+
+(a) an instrument has been registered under the First Schedule as a lasting power of attorney; but
+
+(b) a lasting power of attorney was not created, whether or not the registration has been cancelled at the time of the act or transaction in question.
+
+(2) A donee who acts in purported exercise of the power does not incur any liability (to P or any other person) because of the non-existence of the power unless at the time of acting he —
+
+(a) knows that a lasting power of attorney was not created; or
+
+(b) is aware of circumstances which, if a lasting power of attorney had been created, would have terminated his authority to act as a donee.
+
+(3) Any transaction between the donee and another person is, in favour of that person, as valid as if the power had been in existence, unless at the time of the transaction that person has knowledge of a matter referred to in subsection (2).
+
+(4) If the interest of a purchaser depends on whether a transaction between the donee and the other person was valid by virtue of subsection (3), it is conclusively presumed in favour of the purchaser that the transaction was valid if —
+
+(a) the transaction was completed within 12 months of the date on which the instrument was registered; or
+
+(b) the other person makes a statutory declaration, before or within 3 months after the completion of the purchase, that he had no reason at the time of the transaction to doubt that the donee had authority to dispose of the property which was the subject of the transaction.
+
+(5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
