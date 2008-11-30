@@ -1,0 +1,12 @@
+# 404. Dishonest misappropriation of property possessed by a deceased person at the time of his death Criminal breach of trust
+Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+
+Whoever dishonestly misappropriates or converts to his own use property, knowing that such property was in the possession of a deceased person at the time of that person’s decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offender at the time of such person’s decease was employed by him as a clerk or servant, the imprisonment may extend to 7 years.
+
+Illustration
+
+Z dies in possession of furniture and money. His servant A, before the money comes into the possession of any person entitled to such possession, dishonestly misappropriates it. A has committed the offence defined in this section.
+
+[Indian PC 1860, s. 404]
+
+Criminal breach of trust

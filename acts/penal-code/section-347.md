@@ -1,0 +1,6 @@
+# 347. Wrongful confinement for the purpose of extorting property or constraining to an illegal act
+Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+
+Whoever wrongfully confines any person for the purpose of extorting from the person confined, or from any person interested in the person confined, any property or valuable security, or of constraining the person confined, or any person interested in such person, to do anything illegal or to give any information which may facilitate the commission of an offence, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+
+[Indian PC 1860, s. 347]

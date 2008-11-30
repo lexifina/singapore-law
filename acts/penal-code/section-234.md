@@ -1,0 +1,6 @@
+# 234. Making or selling instrument for counterfeiting current coin
+Chapter: CHAPTER XII OFFENCES RELATING TO COIN AND GOVERNMENT STAMPS
+
+Whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of, any die or instrument for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting current coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+
+[Indian PC 1860, s. 234]

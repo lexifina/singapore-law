@@ -1,0 +1,6 @@
+# 101. When such right extends to causing any harm other than death
+Chapter: CHAPTER IV GENERAL EXCEPTIONS
+
+If the offence is not of any of the descriptions enumerated in section 100, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions mentioned in section 99, to the voluntary causing to the assailant of any harm other than death.
+
+[Indian PC 1860, s. 101]

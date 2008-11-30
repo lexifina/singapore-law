@@ -1,0 +1,8 @@
+# 421. Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors
+Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+
+Whoever dishonestly or fraudulently removes, conceals, or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[51/2007]
+
+[Indian PC 1860, s. 421]

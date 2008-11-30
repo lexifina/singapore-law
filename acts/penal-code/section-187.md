@@ -1,0 +1,8 @@
+# 187. Omission to assist public servant when bound by law to give assistance
+Chapter: CHAPTER X CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+
+Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both; and if such assistance is demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a court of justice, or of preventing the commission of an offence, or of suppressing a riot or an affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both.
+
+[51/2007]
+
+[Indian PC 1860, s. 187]

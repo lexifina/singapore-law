@@ -1,0 +1,4 @@
+# 151A. [Repealed]
+Chapter: CHAPTER VIII OFFENCES RELATING TO UNLAWFUL ASSEMBLY
+
+[Repealed by Act 51 of 2007]

@@ -1,0 +1,8 @@
+# 476. Counterfeiting a device or mark used for authenticating documents or electronic records other than those described in section 467, or possessing counterfeit marked material
+Chapter: CHAPTER XVIII OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES
+
+Whoever counterfeits upon or in the substance of any material any device or mark used for the purpose of authenticating any document or electronic record other than the documents described in section 467, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document or electronic record then forged or thereafter to be forged on such material, or who with such intent has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[51/2007]
+
+[Indian PC 1860, s. 476]

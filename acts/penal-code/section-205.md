@@ -1,0 +1,6 @@
+# 205. False personation for the purpose of any act or proceeding in a suit
+Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+
+Whoever falsely personates another, and in such assumed character makes any admission or statement, or confesses judgment, or causes any process to be issued, or becomes bail or security, or does any other act in any suit or criminal prosecution, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Indian PC 1860, s. 205]

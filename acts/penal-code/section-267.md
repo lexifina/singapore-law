@@ -1,0 +1,6 @@
+# 267. Making or selling false weights or measures
+Chapter: CHAPTER XIII OFFENCES RELATING TO WEIGHTS AND MEASURES
+
+Whoever makes, sells, or disposes of, any instrument for weighing, or any weight, or any measure of length or capacity, which he knows to be false, in order that the same may be used as true, or knowing that the same is likely to be used as true, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[Indian PC 1860, s. 267]

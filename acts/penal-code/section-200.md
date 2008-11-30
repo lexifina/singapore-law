@@ -1,0 +1,8 @@
+# 200. Using as true any such declaration known to be false
+Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+
+Whoever corruptly uses or attempts to use as true any such declaration knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.
+
+Explanation.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of sections 199 and 200.
+
+[Indian PC 1860, s. 200]

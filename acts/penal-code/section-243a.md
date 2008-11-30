@@ -1,0 +1,4 @@
+# 243A. [Repealed]
+Chapter: CHAPTER XII OFFENCES RELATING TO COIN AND GOVERNMENT STAMPS
+
+[Repealed by Act 51 of 2007]

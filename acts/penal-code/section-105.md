@@ -1,0 +1,14 @@
+# 105. Commencement and continuance of the right of private defence of property
+Chapter: CHAPTER IV GENERAL EXCEPTIONS
+
+(1) The right of private defence of property commences when a reasonable apprehension of danger to the property commences.
+
+(2) The right of private defence of property against theft continues till the offender has effected his retreat with the property, or till the assistance of the public authorities is obtained, or till the property has been recovered.
+
+(3) The right of private defence of property against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint, or as long as the fear of instant death or of instant hurt or of instant personal restraint continues.
+
+(4) The right of private defence of property against criminal trespass or mischief, continues as long as the offender continues in the commission of criminal trespass or mischief.
+
+(5) The right of private defence of property against house-breaking by night continues as long as house-trespass which has been begun by such house-breaking continues.
+
+[Indian PC 1860, s. 105]

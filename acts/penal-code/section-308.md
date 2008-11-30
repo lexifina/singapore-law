@@ -1,0 +1,12 @@
+# 308. Attempt to commit culpable homicide
+Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+
+Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both; and if hurt is caused to any person by such act, the offender shall be punished with imprisonment for a term which may extend to 15 years, or with fine, or with caning, or with any combination of such punishments.
+
+[51/2007]
+
+Illustration
+
+A, on grave and sudden provocation, fires a pistol at Z, under such circum- stances that if he thereby caused death he would be guilty of culpable homicide not amounting to murder. A has committed the offence defined in this section.
+
+[Indian PC 1860, s. 308]
