@@ -1,0 +1,7 @@
+# THE SCHEDULE
+
+Sections 2 and 22
+
+REPORTABLE DISEASES
+
+1. Cancer
