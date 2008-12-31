@@ -1,0 +1,5 @@
+# 51. Jurisdiction of court
+Part: PART V OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
+Division: Division 3 — General provisions
+
+Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
