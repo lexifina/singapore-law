@@ -1,0 +1,3 @@
+# 10. Repeal of section 15
+
+Section 15 of the principal Act is repealed.
