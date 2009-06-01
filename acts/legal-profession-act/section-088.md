@@ -1,7 +1,9 @@
 # 88. Council’s power to order penalty
 Part: PART VII DISCIPLINARY PROCEEDINGS
 
-(1) If the Council determines under section 87 that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty, it may order the advocate and solicitor to pay a penalty of not more than $5,000.
+(1) If the Council determines under section 87 that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty, it may order the advocate and solicitor to pay a penalty of not more than $10,000.
+
+[19/2008]
 
 (2) Section 95 shall apply to any penalty ordered to be paid under subsection (1).
 
@@ -9,9 +11,9 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (4) Where —
 
-(a) no application is made to set aside an order for the payment of a penalty under subsection (1) or if the order is affirmed or varied by the court under section 95 (3) (a); or
+(a) no application is made to set aside an order for the payment of a penalty under subsection (1) or if the order is affirmed or varied by the court under section 95(3)(a); or
 
-(b) an advocate and solicitor has been reprimanded by the Council under section 94 (3) (a), the Council shall, at the expense of the advocate and solicitor, publish in the Gazette a notice of the order or of the reprimand, as the case may be.
+(b) an advocate and solicitor has been reprimanded by the Council under section 94(3)(a), the Council shall, at the expense of the advocate and solicitor, publish in the Gazette a notice of the order or of the reprimand, as the case may be.
 
 [41/93; 35/2001]
 
@@ -19,6 +21,6 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 [41/93]
 
-(6) Where an application is made to a Judge by any person under section 97 (1), the Council shall not publish the notice under subsection (4) until the application has been withdrawn or deemed to have been withdrawn or disposed of by the Judge under section 97 (3).
+(6) Where an application is made to a Judge by any person under section 97(1), the Council shall not publish the notice under subsection (4) until the application has been withdrawn or deemed to have been withdrawn or disposed of by the Judge under section 97.
 
 [41/93]

@@ -1,8 +1,8 @@
-# 62. Power of Council to accept gifts
+# 62. Power of Council to accept gifts, etc.
 Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
 Division: Division 6 — Powers of Council
 
-(1) The Council may on behalf of the Society accept by way of grant, gift, testamentary disposition or otherwise property or moneys in aid of the finances or purposes of the Society on such conditions as it may determine.
+(1) The Council may on behalf of the Society accept, by way of grant, gift, testamentary disposition or otherwise, property or moneys in aid of the finances or purposes of the Society on such conditions as it may determine.
 
 (2) Registers shall be kept of all donations to the Society including the names of donors and any special conditions on which any donation may have been given.
 

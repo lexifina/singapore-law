@@ -12,6 +12,6 @@ Division: Division 3 — Council of Society
 
 [35/2001]
 
-(2) Every member of the Council appointed by the Minister under subsection (1) (b) or by the Council under subsection (1) (c) shall hold office for a term of 2 years and may, from time to time, be re-appointed.
+(2) Every member of the Council appointed by the Minister under subsection (1)(b) or by the Council under subsection (1)(c) shall hold office for a term of 2 years and may, from time to time, be re-appointed.
 
 [35/2001]

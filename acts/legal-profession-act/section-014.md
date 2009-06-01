@@ -4,23 +4,23 @@ Division: Division 2 — Qualified persons
 
 (1) A pupil shall, subject to the approval of the Board, serve his prescribed period of pupillage —
 
-(a) with an advocate and solicitor in active practice in Singapore of not less than 5 years’ standing who, for a total of not less than 5 out of the 7 years immediately preceding the relevant date, has been in such practice or has been a legal officer or both;
+(a) with an advocate and solicitor in active practice in a Singapore law practice of not less than 5 years’ standing who, for a total of not less than 5 out of the 7 years immediately preceding the relevant date, has been in such practice or has been a legal officer or both;
 
-(b) with any legal officer in Singapore who is an advocate and solicitor of not less than 5 years’ standing who, for 5 out of the 7 years immediately preceding the relevant date, has been a legal officer or has been in active practice in Singapore or both;
+(b) with a legal officer who is an advocate and solicitor of not less than 5 years’ standing and who, for a total of not less than 5 out of the 7 years immediately preceding the relevant date, has been a legal officer or has been in active practice in a Singapore law practice or both;
 
 (c) with an advocate and solicitor who has at any time held office as the Attorney-General or as a Judge of the Supreme Court; or
 
 (d) partly with an advocate and solicitor under paragraph (a) or (c) and partly with a legal officer under paragraph (b).
 
-[10/91; 40/96]
+[10/91; 40/96; 19/2008]
 
-(2) In any case where subsection (1) (b) or (d) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
+(2) In any case where subsection (1)(b) or (d) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
 
 [10/91; 41/93; 40/96]
 
-(3) For the purposes of this section and section 13 (5), ‘‘legal officer’’ includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory board or authority as the Minister may prescribe.
+(3) For the purposes of this section and section 13(5), ‘‘legal officer’’ includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory body or law office in the public service as the Minister may prescribe.
 
-[41/93; 35/2001]
+[41/93; 35/2001; 20/2007]
 
 (4) The Board may approve a request that a qualified person serve different parts of his period of pupillage with different masters.
 

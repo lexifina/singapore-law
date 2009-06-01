@@ -10,5 +10,3 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes
 (b) to acquire and dispose of property, both movable and immovable; and
 
 (c) to do and to perform such other acts as bodies corporate may by law perform.
-
-[36

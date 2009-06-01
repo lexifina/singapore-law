@@ -4,9 +4,9 @@ Division: Division 5 — Officers of Council
 
 (1) There shall be a President, 2 Vice-Presidents and a Treasurer of the Society who shall be elected by —
 
-(a) members and members-elect of the Council taking office in either case on 1st January after an annual election under section 54 (1) from amongst those members at a meeting of the Council before that date; or
+(a) members and members-elect of the Council taking office in either case on 1st January after an annual election under section 54(1) from amongst those members at a meeting of the Council before that date; or
 
-(b) members of the Council taking office under section 54 (2) from amongst those members at the first meeting of the Council.
+(b) members of the Council taking office under section 54(2) from amongst those members at the first meeting of the Council.
 
 [40/96]
 

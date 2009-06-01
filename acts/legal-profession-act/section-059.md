@@ -28,7 +28,7 @@ Division: Division 6 — Powers of Council
 
 (l) to make and give receipts, releases and other discharges for moneys payable to and for claims and demands of the Society;
 
-(m) to invest and deal with any moneys of the Society from time to time in securities authorised for the investment of trust funds by any written law for the time being in force;
+(m) to invest the moneys of the Society in such manner as it thinks fit and engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment;
 
 (n) to form or participate in the formation of any company for the purpose of carrying out all or any of the functions of the Society;
 
@@ -36,6 +36,6 @@ Division: Division 6 — Powers of Council
 
 (p) to exercise all such powers, privileges and discretions as are not by this Act expressly and exclusively required to be exercised by the members of the Society in general meeting.
 
-[30/86; 40/96]
+[30/86; 40/96; 45/2004]
 
 (2) Rules made by the Council under this section shall not come into operation until they have been approved by the Chief Justice.

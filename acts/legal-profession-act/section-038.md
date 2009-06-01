@@ -44,5 +44,3 @@ Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes
 [4/2000]
 
 (3) In addition to rules that may be made by the Society under the other provisions of this Act, the Society may, subject to the provisions of this Act, make rules for giving effect to this Part.
-
-[37

@@ -13,7 +13,7 @@ Part: PART III PRACTISING CERTIFICATES
 
 (a) direct the Registrar not to issue a practising certificate to the solicitor;
 
-(b) direct the Registrar to issue a practising certificate to the solicitor free from conditions or subject to such conditions as the Judge thinks fit; or
+(b) direct the Registrar to issue a practising certificate to the solicitor free of conditions or subject to such conditions as the Judge thinks fit; or
 
 (c) make such other order as the Judge thinks fit.
 

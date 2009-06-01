@@ -15,12 +15,14 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (a) the solicitor himself;
 
-(b) any member or assistant of the firm of which the solicitor is a member either as a partner, consultant or an employee; or
+(b) any member or assistant of the firm of which the solicitor is a member either as a partner, a consultant or an employee;
 
-(c) any director or employee of the law corporation of which the solicitor is a director or an employee.
+(c) any director or employee of the law corporation of which the solicitor is a director or an employee; or
 
-[4/2000]
+(d) any partner or employee of the limited liability law partnership of which the solicitor is a partner or an employee.
+
+[4/2000; 41/2005]
 
 (3) Subsection (1) is without prejudice to any law affecting solicitors who act for parties where there is a conflict of interest or where a conflict of interest may arise.
 
-(4) Disciplinary proceedings may be taken against a solicitor who acts in contravention of subsection (1).
+(4) Disciplinary proceedings may be taken against any solicitor who acts in contravention of subsection (1).

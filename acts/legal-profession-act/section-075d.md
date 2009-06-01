@@ -7,12 +7,12 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (b) a legal officer;
 
-(c) a full-time member of the academic staff of the Faculty; or
+(c) a full-time member of the academic staff of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University; or
 
 (d) holding any combination of occupations referred to in paragraphs (a), (b) and (c).
 
-[40/96]
+[40/96; 20/2007]
 
-(2) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(2) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-[40/96]
+[40/96; 20/2007]

@@ -1,5 +1,5 @@
 # 115. Change of solicitor after agreement
-Part: PART VIII REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
+Part: PART VIII REMUNERATION RECEIVED BY SINGAPORE LAW PRACTICES OR SOLICITORS, OR IN RESPECT OF PRACTICE OF SINGAPORE LAW
 
 (1) If, after an agreement under section 111 has been made, the client changes his solicitor before the conclusion of the business to which the agreement relates (which he may do notwithstanding the agreement) the solicitor who is a party to the agreement shall be deemed to have become incapable to act under it within the meaning of section 114.
 

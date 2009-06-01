@@ -1,26 +1,38 @@
-# 130I. Registration of foreign law firms and foreign lawyers
-Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+# 130I. Registration of foreign lawyer to practise Singapore law in Joint Law Venture or Qualifying Foreign Law Practice
+Part: PART IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
 
-(1) The Minister may, after consulting the Attorney- General, make rules to provide for —
+(1) An application may be made for a foreign lawyer to be registered by the Attorney-General to practise Singapore law in a Joint Law Venture or Qualifying Foreign Law Practice, if the foreign lawyer possesses such qualifications and satisfies such requirements as may be prescribed.
 
-(a) the registration with the Attorney-General of all foreign law firms;
+[19/2008]
 
-(b) the registration with the Attorney-General of all foreign lawyers practising in or employed by a foreign law firm, a Singapore law firm or a Joint Law Venture;
+(2) The Attorney-General may approve an application under subsection (1), and register a foreign lawyer to practise Singapore law in a Joint Law Venture or Qualifying Foreign Law Practice, subject to —
 
-(c) the manner and means of application for registration of a foreign law firm or a foreign lawyer;
+(a) such conditions as may be prescribed; and
 
-(d) the submission of information and particulars relating to the foreign law firms and the foreign lawyers and other persons practising in or employed by the foreign law firm;
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-(e) the payment of fees on applications for registration and renewal of registration and other related matters; and
+[19/2008]
 
-(f) the form and manner in which the register is to be kept.
+(3) A foreign lawyer who is registered by the Attorney-General to practise Singapore law in a Joint Law Venture or Qualifying Foreign Law Practice may, notwithstanding anything to the contrary in Part IV —
 
-[4/2000; 28/2000]
+(a) practise Singapore law in, and only in, such areas of legal practice as may be prescribed; and
 
-(2) Where a foreign law firm or a foreign lawyer —
+(b) recover costs and retain payments in respect of such practice.
 
-(a) fails to apply for registration under the rules made under subsection (1); or
+[19/2008]
 
-(b) fails to furnish any particulars or information required under such rules, then the rights of the foreign law firm or the foreign lawyer in default under or arising out of any contract in relation to the legal services provided through the office in Singapore of the foreign law firm shall not be enforceable in legal proceedings in the name of the foreign law firm or the foreign lawyer, as the case may be.
+(4) The registration of a foreign lawyer under this section shall —
 
-[4/2000]
+(a) lapse if the Joint Law Venture or Qualifying Foreign Law Practice is dissolved or in liquidation, or if the Joint Law Venture licence or Qualifying Foreign Law Practice licence issued in respect of the Joint Law Venture or Qualifying Foreign Law Practice, as the case may be, is suspended or revoked under section 130G; and
+
+(b) be suspended, for such period as the Attorney-General may think fit, on the occurrence of such events as may be prescribed.
+
+[19/2008]
+
+(5) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
+
+[19/2008]
+
+(6) With effect from the relevant date, a foreign lawyer who, immediately before the relevant date, was registered by the Attorney- General under this section as in force immediately before the relevant date shall be deemed to be registered under this section subject to the conditions referred to in subsection (2)(a) and such conditions as the Attorney-General may think fit to impose in any particular case.
+
+[19/2008]

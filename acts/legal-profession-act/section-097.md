@@ -1,26 +1,54 @@
-# 97. Procedure for complainant dissatisfied with Disciplinary Committee’s decision
+# 97. Application for review of Disciplinary Tribunal’s decision
 Part: PART VII DISCIPLINARY PROCEEDINGS
 
-(1) Where a Disciplinary Committee has determined —
+(1) Where a Disciplinary Tribunal has made a determination under section 93(1)(a) or (b), the person who made the complaint, the advocate and solicitor or the Council may, within 14 days of being notified of that determination or any order under section 93(2) or (2A), apply to a Judge for a review of that determination or order.
 
-(a) that no cause of sufficient gravity for disciplinary action exists under section 83; or
+[19/2008]
 
-(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded or ordered to pay a penalty, and the person who made the complaint, the advocate and solicitor or the Council is dissatisfied with the determination, that person, advocate and solicitor or the Council may, within 14 days of being notified of the Disciplinary Committee’s decision, apply to a Judge under this section.
+(2) An application under subsection (1) shall be —
 
-[30/86; 41/93; 35/2001]
+(a) made by originating summons; and
 
-(2) Such an application shall be made by originating summons and shall be served on the Society and the secretary of the Disciplinary Committee who shall thereupon file in court the record and report of the hearing and investigation by the Disciplinary Committee.
+(b) served on —
 
-(3) Upon the hearing of the application, the Judge, after hearing the applicant and the Disciplinary Committee and, if it desires to be heard, the Society, may make an order —
+(i) the person who made the complaint, if he had the conduct of the proceedings before the Disciplinary Tribunal and is not the applicant;
 
-(a) confirming the report of the Disciplinary Committee;
+(ii) the advocate and solicitor, if he is not the applicant;
 
-(b) directing the applicant or the Council to make an application under section 98; or
+(iii) the Society, if the Council is not the applicant; and
 
-(c) directing the advocate and solicitor concerned under section 98 (1) to show cause, and such order for the payment of costs as may be just.
+(iv) the secretary of the Disciplinary Tribunal.
 
-[30/86]
+[19/2008]
 
-(4) If the Judge makes an order under subsection (3) (b) or (c) on the application of a person other than the Council or advocate and solicitor, the applicant shall have the conduct of proceedings under section 98 and any such proceedings shall be brought in the name of the applicant.
+(3) Upon receiving the application, the secretary of the Disciplinary Tribunal shall file in court the record and report of the hearing and investigation by the Disciplinary Tribunal.
 
-[30/86; 41/93]
+[19/2008]
+
+(4) The Judge hearing the application —
+
+(a) shall have full power to determine any question necessary to be determined for the purpose of doing justice in the case, including any question as to the correctness, legality or propriety of the determination or order of the Disciplinary Tribunal, or as to the regularity of any proceedings of the Disciplinary Tribunal; and
+
+(b) may make such orders as the Judge thinks fit, including —
+
+(i) an order directing the person who made the complaint or the Council to make an application under section 98;
+
+(ii) an order setting aside the determination of the Disciplinary Tribunal and directing —
+
+(A) the Disciplinary Tribunal to rehear and reinvestigate the complaint or matter; or
+
+(B) the Society to apply to the Chief Justice for the appointment of another Disciplinary Tribunal to hear and investigate the complaint or matter;
+
+or
+
+(iii) such order for the payment of costs as may be just.
+
+[19/2008]
+
+(5) If the Judge makes an order directing the person who made the complaint to make an application under section 98, that person shall have the conduct of the proceedings under that section, and any such proceedings shall be brought in his name.
+
+[19/2008]
+
+(6) If the Judge makes an order directing the person who made the complaint or the Council to make an application under section 98, that person or the Society, as the case may be, shall make the application under that section within one month from the date of the order.
+
+[19/2008]

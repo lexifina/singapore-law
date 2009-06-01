@@ -15,11 +15,11 @@ Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Lega
 
 (2) The Board may —
 
-(a) invest its moneys in such manner as it thinks fit, including the deposit of moneys with financial institutions and other business or professional bodies; and
+(a) invest its moneys in such manner as it thinks fit; and
 
 (b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
 
-[35/2001]
+[35/2001; 45/2004]
 
 (3) Subject to the provisions of this Part, the Board shall have power to make rules to carry into effect the objects of this Part.
 

@@ -16,9 +16,13 @@ Division: Division 2 — Qualified persons
 
 [40/96]
 
-(3) Any person applying to be admitted under this section shall do so by originating motion verified by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear.
+(3) Any person applying to be admitted under this section shall do so by originating summons supported by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear.
 
-(4) The originating motion and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case.
+[42/2005]
+
+(4) The originating summons and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case.
+
+[42/2005]
 
 (5) At the time of the service, the applicant shall pay the prescribed fee to the Attorney-General and the Society for their costs incurred in the application.
 

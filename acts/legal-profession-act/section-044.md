@@ -9,3 +9,7 @@ Division: Division 2 — Members of Society and subscriptions
 (b) be deprived of any one or more rights and privileges of membership.
 
 (2) A practitioner member shall not be expelled from membership so long as he has in force a practising certificate.
+
+(3) A foreign practitioner member shall not be expelled from membership so long as his registration referred to in section 40A(1)(a) or (b) or his approval referred to in section 40A(1)(c) continues in force.
+
+[20/2007]

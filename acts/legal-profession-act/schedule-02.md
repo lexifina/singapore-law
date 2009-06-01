@@ -4,7 +4,13 @@ Section 75B
 
 INADEQUATE PROFESSIONAL SERVICES
 
-Circumstances in which Council’s powers may be exercised 1.—(1) The Council may take any of the directions mentioned in paragraph 2 (referred to in this Schedule as the directions) with respect to a solicitor where it appears to the Council that the professional services provided by him in connection with any matter in which he or his firm or the law corporation of which he is a director or an employee has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor.
+Circumstances in which Council’s powers may be exercised 1.—(1) Where it appears to the Council that the professional services provided by a solicitor in connection with any matter in which —
+
+(a) he or his firm;
+
+(b) the law corporation of which he is a director or an employee; or
+
+(c) the limited liability law partnership of which he is a partner or an employee, has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor, the Council may take any of the directions mentioned in paragraph 2 (referred to in this Schedule as the directions) with respect to the solicitor.
 
 (2) The Council shall not take any of the directions unless it is satisfied that, in all the circumstances of the case, it is appropriate to do so.
 
@@ -14,19 +20,19 @@ Circumstances in which Council’s powers may be exercised 1.—(1) The Council 
 
 (b) where proceedings seeking any such remedy have not been begun by the client, have regard to whether it is reasonable to expect the client to begin such proceedings.
 
-SECOND SCHEDULE — continued
-
 Directions which may be given 2.—(1) The directions are —
 
-(a) determining that the costs to which the solicitor or the law corporation of which he is a director or an employee is entitled in respect of his services (referred to in this Schedule as the costs) are to be limited to such amount as may be specified in the determination and directing him to comply, or to secure compliance, with one or more of the permitted requirements as appear to the Council to be necessary in order for effect to be given to the Council’s determination;
+(a) determining that the costs to which the solicitor, or the law corporation of which he is a director or an employee, or the limited liability law partnership of which he is a partner or an employee, is entitled in respect of his services (referred to in this Schedule as the costs) are to be limited to such amount as may be specified in the determination and directing him to comply, or to secure compliance, with one or more of the permitted requirements as appear to the Council to be necessary in order for effect to be given to the Council’s determination;
 
-(b) directing him to secure the rectification, at his expense or at that of his firm or the law corporation of which he is a director or employee, of such error, omission or other deficiency arising in connection with the matter in question as the Council may specify;
+(b) directing the solicitor to secure the rectification, at his expense or at that of his firm, or the law corporation of which he is a director or an employee, or the limited liability law partnership of which he is a partner or an employee, of such error, omission or other deficiency arising in connection with the matter in question as the Council may specify;
 
-(c) directing him to pay such compensation to the client as the Council sees fit to specify in the direction; and
+(c) directing the solicitor to pay such compensation to the client as the Council sees fit to specify in the direction; and
 
-(d) directing him to take, at his expense or at that of his firm or the law corporation of which he is a director or an employee, such other action in the interests of the client as the Council may specify.
+(d) directing the solicitor to take, at his expense or at that of his firm, or the law corporation of which he is a director or an employee, or the limited SECOND SCHEDULE — continued
 
-(2) The permitted requirements referred to in sub-paragraph (1) (a) are —
+liability law partnership of which he is a partner or an employee, such other action in the interests of the client as the Council may specify.
+
+(2) The permitted requirements referred to in sub-paragraph (1)(a) are —
 
 (a) that the whole or part of any amount already paid by or on behalf of the client in respect of the costs be refunded;
 
@@ -36,25 +42,25 @@ Directions which may be given 2.—(1) The directions are —
 
 (3) The power of the Council to take any such directions is not confined to cases where the client may have a cause of action against the solicitor for negligence.
 
-Compensation 3.—(1) The amount specified in a direction by virtue of paragraph 2 (1) (c) shall not exceed $10,000.
+Compensation 3.—(1) The amount specified in a direction by virtue of paragraph 2(1)(c) shall not exceed $10,000.
 
 (2) The Chief Justice may, by order published in the Gazette, amend sub-paragraph (1) by substituting for the sum of $10,000 such other sum as he considers appropriate.
 
 (3) Before making any such order, the Chief Justice shall consult the Society.
 
-Taxation of costs 4.—(1) Where the Council has given a direction under paragraph 2 (1) (a), then —
+Taxation of costs 4.—(1) Where the Council has given a direction under paragraph 2(1)(a), then —
 
 (a) for the purposes of any taxation of a bill covering the costs, the amount charged by the bill in respect of them shall be deemed to be limited to the amount specified in the determination; and
-
-SECOND SCHEDULE — continued
 
 (b) where a bill covering the costs has not been taxed, the client shall, for the purposes of their recovery (by whatever means and notwithstanding any statutory provision or agreement) be deemed to be liable to pay in respect of them only the amount specified in the determination.
 
 (2) Where a bill covering the costs has been taxed, the direction shall, so far as it relates to the costs, cease to have effect.
 
-Failure to comply with direction 5.—(1) If a solicitor or law corporation fails to comply with a direction given under this Schedule, any person may make a complaint in respect of that failure to a Judge; but no other proceedings shall be brought in respect of it except pursuant to an order made under sub-paragraph (2).
+Failure to comply with direction 5.—(1) If a solicitor or a law corporation or a limited liability law partnership fails to comply with a direction given under this Schedule, any person may make a complaint in respect of that failure to a Judge; but no other proceedings shall be brought in respect of it except pursuant to an order made under sub-paragraph (2).
 
 (2) On the hearing of such a complaint, the Judge may, if he thinks fit, direct that the direction be treated, for the purpose of enforcement, as if it were contained in an order made by the High Court.
+
+SECOND SCHEDULE — continued
 
 Fees 6.—(1) The Council may, by rules made with the concurrence of the Chief Justice, make provision for the payment, by any client with respect to whom the Council is asked to consider whether to take any of the steps, of such fee as may be prescribed.
 
@@ -64,7 +70,7 @@ Fees 6.—(1) The Council may, by rules made with the concurrence of the Chief J
 
 Costs 7. Where the Council takes any of the steps with respect to a solicitor, the Council may also direct him to pay to the Council —
 
-(a) the amount of the fee payable by the Council to the client under paragraph 6 (3); and
+(a) the amount of the fee payable by the Council to the client under paragraph 6(3); and
 
 (b) an amount which is calculated by the Council as the cost to it of dealing with the complaint, or which in its opinion represents a reasonable contribution towards that cost.
 
@@ -74,11 +80,19 @@ Duty of Judge 8. Where a Judge —
 
 (b) is of the opinion that the Council should consider whether to take any of the steps with respect to that solicitor, he shall inform the Council.
 
+Powers of Society to examine documents in connection with complaints 9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to —
+
+(a) the solicitor or his firm;
+
+(b) the law corporation of which the solicitor is a director or an employee;
+
+or
+
+(c) the limited liability law partnership of which the solicitor is a partner or an employee, requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the persons or entities referred to in sub-paragraph (a), (b) or (c) (as the case may be) in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
+
 SECOND SCHEDULE — continued
 
-Powers of Society to examine documents in connection with complaints 9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to the solicitor or his firm or the law corporation of which he is a director or an employee requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the solicitor or his firm or the law corporation of which he is a director or an employee in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
-
-(2) Sub-paragraphs (2) to (12) of paragraph 13 and paragraphs 15 to 19 of the First Schedule shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 13 (1) of that Schedule and accordingly in those provisions —
+(2) Sub-paragraphs (2) to (12) of paragraph 13 and paragraphs 15 to 19 of the First Schedule shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 13(1) of that Schedule and accordingly in those provisions —
 
 (a) any reference to a person appointed, or to a requirement, under that sub-paragraph shall be construed as including a reference to a person appointed, or to a requirement, under sub-paragraph (1); and
 
@@ -88,4 +102,4 @@ Exercise of powers by Council 10. The powers of the Council under this Schedule 
 
 Rules 11. The Council may, with the concurrence of the Chief Justice, make rules to give full effect to or to carry out the purposes of the provisions of this Schedule.
 
-[40/96; 4/2000]
+[40/96; 4/2000; 41/2005]

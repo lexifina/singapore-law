@@ -9,7 +9,7 @@ Part: PART VIA LAW CORPORATIONS
 
 [4/2000]
 
-(2) The Council is required to enter on the register of law corporations the name of every law corporation approved under section 81B.
+(2) The Council is required to enter in the register of law corporations the name of every law corporation approved under section 81B.
 
 [4/2000]
 

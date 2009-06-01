@@ -1,26 +1,60 @@
-# 130C. Registration to practise Singapore law
-Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+# 130C. Formal Law Alliance
+Part: PART IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
 
-(1) A foreign lawyer who is employed by or who is a partner or director of a Joint Law Venture may, notwithstanding anything to the contrary in Part IV, practise Singapore law as a partner, director or an employee of the Joint Law Venture and recover costs and retain payments in respect of such practice if he is registered to practise Singapore law by the Attorney-General under subsection (3).
+(1) One or more foreign law practices and one or more Singapore law practices may apply jointly for a Formal Law Alliance licence if they satisfy —
 
-[4/2000]
+(a) such conditions as may be prescribed; and
 
-(2) Notwithstanding subsection (1), a foreign lawyer who is registered to practise Singapore law under subsection (3) shall not represent any party before any judicial, arbitral or regulatory tribunal or body in Singapore unless the foreign lawyer is, apart from this section, permitted to do so under Part IV.
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-[4/2000]
+[19/2008]
 
-(3) The Attorney-General may, in his discretion, approve an application to register a foreign lawyer to practise Singapore law for such period as the Attorney-General may think fit except that the Attorney-General may, if he thinks it necessary in the circumstances of the case, require that a foreign lawyer successfully complete such modules in such courses of instruction as the Attorney-General may require.
+(2) The Attorney-General may, after consulting such authorities as he thinks fit, grant or refuse an application under subsection (1).
 
-[4/2000]
+[19/2008]
 
-(4) The registration of a foreign lawyer to practise Singapore law shall —
+(3) An application under subsection (1) may be granted, and a Formal Law Alliance licence may be issued, subject to —
 
-(a) lapse if the foreign law firm is dissolved or in liquidation or if the registration of the Joint Law Venture is cancelled under section 130G; and
+(a) such conditions as may be prescribed; and
 
-(b) be suspended for such period as the Attorney-General may think fit if the foreign lawyer ceases to be a partner, director or an employee, as the case may be, of the Joint Law Venture or of the foreign law firm which constitutes part of the Joint Law Venture.
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-[4/2000]
+[19/2008]
 
-(5) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
+(4) A Formal Law Alliance licence shall —
 
-[4/2000]
+(a) entitle the formation of a Formal Law Alliance by the law practices to which the licence has been issued (each referred to in this Part as a member of the Formal Law Alliance);
+
+(b) notwithstanding anything to the contrary in Part IV, entitle the Formal Law Alliance, during the period of validity of the licence, to such privileges as may be prescribed or otherwise conferred by law; and
+
+(c) notwithstanding anything to the contrary in Part IV, entitle each foreign law practice which is a member of the Formal Law Alliance, during the period of validity of the licence —
+
+(i) to practise Singapore law in, and only in, such areas of legal practice and in accordance with such terms and conditions as may be prescribed; and
+
+(ii) to such other privileges as may be prescribed or otherwise conferred by law.
+
+[19/2008]
+
+(5) A Formal Law Alliance or its members shall pay to the Attorney-General such licence fee at such times and in such manner as may be prescribed.
+
+[19/2008]
+
+(6) Without prejudice to the solicitor-client privilege that exists between —
+
+(a) a foreign law practice or Singapore law practice; and
+
+(b) its client, or a client of a Formal Law Alliance of which it is a member, solicitor-client privilege exists between a Formal Law Alliance and its client in the same way as it exists between a solicitor and his client.
+
+[19/2008]
+
+(7) Except as may otherwise be prescribed, nothing in this Act shall prevent a foreign law practice which is a member of a Formal Law Alliance and a Singapore law practice which is a member of the Formal Law Alliance from sharing office premises, profits or client information with respect to the legal practice of the Formal Law Alliance.
+
+[19/2008]
+
+(8) A foreign law practice or Singapore law practice may be a joint applicant for more than one Formal Law Alliance licence.
+
+[19/2008]
+
+(9) An alliance formed by one or more foreign law practices and one or more Singapore law practices which, immediately before the relevant date, was registered as a Formal Law Alliance under the provisions of this section as in force immediately before the relevant date shall be deemed to be a Formal Law Alliance formed under this section, and the law practices forming such an alliance shall be deemed to have been issued a Formal Law Alliance licence subject to the conditions referred to in subsection (3)(a) and such conditions as the Attorney-General may think fit to impose in any particular case, with effect from the relevant date.
+
+[19/2008]

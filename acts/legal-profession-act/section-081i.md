@@ -13,6 +13,6 @@ Part: PART VIA LAW CORPORATIONS
 
 [4/2000]
 
-(3) An application to wind up a law corporation on a ground specified in subsection (1) may be made only by the Attorney- General or the Council.
+(3) An application to wind up a law corporation on a ground specified in subsection (1) may be made only by the Attorney-General or the Council.
 
 [4/2000]

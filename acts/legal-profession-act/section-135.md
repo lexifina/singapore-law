@@ -1,6 +1,10 @@
-# 135. Rules Committee to prescribe certain fees
+# 135. Rules Committee to prescribe certain fees and costs
 Part: PART X MISCELLANEOUS
 
-The fees payable under sections 21 (7), 24 (5) and 25 (1) (e) shall be prescribed from time to time by the Rules Committee.
+The Rules Committee may, from time to time, make rules to prescribe —
 
-[4/2000]
+(a) the fees payable under sections 21(7), 24(5), 25(1)(e) and 93(6); and
+
+(b) the costs referred to in section 121(1) and (2).
+
+[42/2005; 19/2008]

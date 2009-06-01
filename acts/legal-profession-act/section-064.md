@@ -2,9 +2,25 @@
 Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
 Division: Division 7 — Proceedings of Council
 
-(1) The Council may meet at such time and place and as often as may be necessary.
+(1) Meetings of the Council may be held —
 
-(2) Five members personally present at any meeting of the Council shall constitute a quorum for the transaction of any business.
+(a) at such times and in such manner as the Council may determine; and
+
+(b) as often as may be necessary.
+
+[19/2008]
+
+(1A) A member of the Council may participate in a meeting of the Council through such means of communication (such as over the telephone or through a live audio, live video or live television link) as the Council may determine.
+
+[19/2008]
+
+(1B) A member of the Council who participates in a meeting of the Council in accordance with subsection (1A) shall be deemed to be present at the meeting.
+
+[19/2008]
+
+(2) Five members present at any meeting of the Council shall constitute a quorum for the transaction of any business.
+
+[19/2008]
 
 (3) A decision of the majority of the members of the Council present and voting at any meeting of the Council shall be deemed to be a decision of the Council.
 

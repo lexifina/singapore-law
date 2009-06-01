@@ -9,12 +9,14 @@ Part: PART IX RECOVERY AND TAXATION OF COSTS
 
 (i) by the solicitor;
 
-(ii) in the case of a partnership, by one of the partners, either in his own name or in the name or style of the partnership, or by a solicitor employed by that solicitor or partnership; or
+(ii) in the case of a partnership, by one of the partners, either in his own name or in the name or style of the partnership, or by a solicitor employed by that solicitor or partnership;
 
 (iii) in the case of a law corporation, by a director of, or by a solicitor employed by, that law corporation; or
 
+(iv) in the case of a limited liability law partnership, by one of the partners of, or by a solicitor employed by, that limited liability law partnership; or
+
 (b) be enclosed in or accompanied by a letter, signed in the like manner, referring to the bill.
 
-[4/2000]
+[4/2000; 41/2005]
 
 (3) Where a bill is proved to have been delivered in compliance with subsection (1), it shall not be necessary in the first instance for the solicitor to prove the contents of the bill and it shall be presumed until the contrary is shown to be a bill bona fide complying with this Act.

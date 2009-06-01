@@ -13,10 +13,14 @@ Part: PART VIA LAW CORPORATIONS
 
 (a) hold shares in any other law corporation;
 
-(b) be a director or consultant or an employee of any other law corporation;
+(b) be a director or a consultant or an employee of any other law corporation;
 
-(c) be a partner or consultant or an employee of a law firm; or
+(c) be a partner or a consultant or an employee of any law firm or limited liability law partnership; or
 
 (d) practise as a solicitor on his own account.
 
-[4/2000]
+[4/2000; 41/2005]
+
+(4) Subsection (3) shall not prevent a locum solicitor engaged by a law corporation from concurrently practising as a locum solicitor in another law corporation or any law firm or limited liability law partnership.
+
+[23/2004; 41/2005]

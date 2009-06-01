@@ -3,9 +3,17 @@ Part: PART IV PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (1) Any unauthorised person who —
 
-(a) acts as an advocate or a solicitor or an agent for any party to proceedings or as such advocate, solicitor or agent sues out any writ, summons or process, or commences, carries on, solicits or defends any action, suit or other proceeding in the name of any other person or in his own name in any of the courts in Singapore or draws or prepares any document or instrument relating to any proceeding in the courts in Singapore; or
+(a) acts as an advocate or a solicitor or an agent for any party to proceedings, or, as such advocate, solicitor or agent —
 
-(b) wilfully or falsely pretends to be, or takes or uses any name, title, addition or description implying that he is duly qualified or authorised to act as an advocate or a solicitor, or that he is recognised by law as so qualified or authorised, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) sues out any writ, summons or process;
+
+(ii) commences, carries on, solicits or defends any action, suit or other proceeding in the name of any other person, or in his own name, in any of the courts in Singapore; or
+
+(iii) draws or prepares any document or instrument relating to any proceeding in the courts in Singapore; or
+
+(b) wilfully or falsely pretends to be, or takes or uses any name, title, addition or description implying that he is duly qualified or authorised to act as an advocate or a solicitor, or that he is recognised by law as so qualified or authorised, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[20/2007; 19/2008]
 
 (2) Without prejudice to the generality of subsection (1), any unauthorised person who, directly or indirectly —
 
@@ -25,13 +33,19 @@ Part: PART IV PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (4) Subsection (3) shall not apply to any person who offers or agrees to place at the disposal of any other person the services of an advocate and solicitor pursuant to a lawful contract of indemnity or insurance.
 
-(5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $500 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $10,000 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor, or has the capacity or powers of a law corporation when in fact the body corporate does not, shall be an offence and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $1,000 and for a second or subsequent offence to a fine not exceeding $3,000.
+[20/2007]
 
-[4/2000]
+(6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor, or has the capacity or powers of a law corporation or a limited liability law partnership when in fact the body corporate does not, shall be an offence and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $25,000 and for a second or subsequent offence to a fine not exceeding $50,000.
 
-(7) Where the act mentioned in subsection (6) is done by a director, an officer or employee of the body corporate, the director, officer or employee shall, without prejudice to the liability of the body corporate, be liable to the punishments provided in subsection (5).
+[4/2000; 41/2005; 20/2007]
+
+(7) Where an act mentioned in subsection (6) is done by a director, an officer or an employee of the body corporate, the director, officer or employee shall (without prejudice to the liability of the body corporate) be liable to the punishments provided in subsection (5).
+
+(7A) Where an act mentioned in subsection (6) is done by a partner, an officer or an employee of a limited liability partnership, that partner, officer or employee shall (without prejudice to the liability of the limited liability partnership) be liable to the punishments provided in subsection (5).
+
+[41/2005]
 
 (8) Where any firm does an act which in the case of a person would be an offence under subsection (1), (2) or (3), every member of the firm shall be deemed to have committed that offence unless he proves that he was unaware of the commission of the act.
 

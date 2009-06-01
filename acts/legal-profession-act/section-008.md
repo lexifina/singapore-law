@@ -7,21 +7,21 @@ Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Lega
 
 (b) the President of the Society;
 
-(c) the Dean of the Faculty;
+(c) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the School of Law of the Singapore Management University, in each case, being a qualified person;
 
 (d) 4 advocates and solicitors nominated by the Senate of the Academy after consultation with the Council; and
 
 (e) 3 other members nominated by the Senate of the Academy.
 
-[15/89; 35/2001]
+[15/89; 35/2001; 20/2007]
 
-(2) The members of the Board, other than the Attorney-General, the President of the Society and the Dean of the Faculty, shall be nominated to hold office for a term of 3 years.
+(2) The members of the Board, other than the Attorney-General, the President of the Society and the Deans appointed under subsection (1)(c), shall be nominated to hold office for a term of 3 years.
 
-[35/2001]
+[35/2001; 20/2007]
 
-(3) If for any reason the Attorney-General, the President of the Society or the Dean of the Faculty is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Council or the Faculty, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
+(3) If for any reason the Attorney-General, the President of the Society or any of the Deans appointed under subsection (1)(c) is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Council or the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
 
-[35/2001]
+[35/2001; 20/2007]
 
 (4) The persons nominated under subsection (1) shall be eligible for re-nomination.
 

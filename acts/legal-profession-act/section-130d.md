@@ -1,36 +1,38 @@
-# 130D. Formal Law Alliance
-Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+# 130D. Qualifying Foreign Law Practice
+Part: PART IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
 
-(1) The Attorney-General may, after consulting such authorities as may be prescribed, approve an application by a foreign law firm jointly made with a Singapore law firm to be registered as a Formal Law Alliance on such terms and conditions and for such period as the Attorney-General may think fit.
+(1) A foreign law practice may apply for a Qualifying Foreign Law Practice licence if it satisfies —
 
-[4/2000]
+(a) such conditions as may be prescribed; and
 
-(2) A foreign law firm or a Singapore law firm may, as the case may be, apply for registration of more than one formal alliance and a registered Formal Law Alliance may comprise of more than 2 constituent law firms.
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-[4/2000]
+[19/2008]
 
-(3) A foreign law firm and a Singapore law firm are eligible to make an application jointly under subsection (1) if they satisfy the prescribed conditions.
+(2) The Attorney-General may, after consulting such authorities as he thinks fit and with the approval of the Minister, grant or refuse an application under subsection (1).
 
-[4/2000]
+[19/2008]
 
-(4) The Attorney-General may refuse an application under subsection (1) without assigning any reason.
+(3) An application under subsection (1) may be granted, and a Qualifying Foreign Law Practice licence may be issued, subject to —
 
-[4/2000]
+(a) such conditions as may be prescribed; and
 
-(5) The Attorney-General may, if he is satisfied that it is in the public interest to do so, by notice in writing, vary or revoke any term or condition imposed on the approval given in subsection (1).
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-[4/2000]
+[19/2008]
 
-(6) A Formal Law Alliance shall be entitled to the following privileges:
+(4) A Qualifying Foreign Law Practice licence shall, notwithstanding anything to the contrary in Part IV, entitle the foreign law practice to which the licence has been issued, during the period of validity of the licence —
 
-(a) the Formal Law Alliance may market or publicise itself as a single service provider competent to provide legal services in all areas in which the constituent law firms are qualified to provide;
+(a) to practise Singapore law in, and only in, the permitted areas of legal practice, in accordance with such terms and conditions as may be prescribed; and
 
-(b) the Formal Law Alliance may bill its clients as if it were a single law firm;
+(b) to such other privileges as may be prescribed or otherwise conferred by law, or as the Attorney-General may, with the approval of the Minister, confer.
 
-(c) a foreign lawyer who is a partner, director or an employee of the foreign law firm which constitutes part of the Formal Law Alliance may prepare all the documents in a transaction involving the law or regulatory regime of more than one country or jurisdiction, except that any legal opinion relating to Singapore law must be given by a Singapore lawyer who has in force a practising certificate.
+[19/2008]
 
-[4/2000]
+(5) A Qualifying Foreign Law Practice shall pay to the Attorney- General such licence fee at such times and in such manner as may be prescribed.
 
-(7) Nothing in this Act or any rules made thereunder shall prevent the constituent law firms in the Formal Law Alliance from sharing office premises, profits or client information with respect to the practice of the Formal Law Alliance.
+[19/2008]
 
-[4/2000]
+(6) In exercising his powers under this section, the Attorney-General may, with the approval of the Minister, waive or modify the application of any requirement under this Part in relation to a Qualifying Foreign Law Practice.
+
+[19/2008]

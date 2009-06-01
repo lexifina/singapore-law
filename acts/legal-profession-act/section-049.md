@@ -26,9 +26,9 @@ Division: Division 3 — Council of Society
 
 [30/86]
 
-(6) An application for leave under subsection (4) shall be made by motion.
+(6) An application for leave under subsection (4) shall be made by originating summons.
 
-[30/86]
+[30/86; 42/2005]
 
 (7) The court of 3 Judges shall not give leave under subsection (4) unless —
 
@@ -40,7 +40,7 @@ Division: Division 3 — Council of Society
 
 [30/86]
 
-(8) A practitioner member shall, before his appointment or election as a member of the Council, file a declaration with the Society stating that he is not disqualified from holding office as a member of the Council by virtue of subsection (3) or, if he is so disqualified, stating that he has obtained the leave of the court under subsection (4) for election or appointment as a member of the Council.
+(8) A practitioner member shall, before his election or appointment as a member of the Council, file a declaration with the Society stating that he is not disqualified from holding office as a member of the Council by virtue of subsection (3) or, if he is so disqualified, stating that he has obtained the leave of the court under subsection (4) for election or appointment as a member of the Council.
 
 [30/86]
 
@@ -50,10 +50,10 @@ Division: Division 3 — Council of Society
 
 (10) Whenever it is necessary for any reason whatsoever to elect all the elected members of the Council at an annual election —
 
-(a) 3 members specified in subsection (1) (a);
+(a) 3 members specified in subsection (1)(a);
 
-(b) 2 members specified in subsection (1) (b); and
+(b) 2 members specified in subsection (1)(b); and
 
-(c) 2 members specified in subsection (1) (c), chosen by lot at the first meeting of the Council after such election shall hold office for only one year.
+(c) 2 members specified in subsection (1)(c), chosen by lot at the first meeting of the Council after such election shall hold office for only one year.
 
 (11) Every elected member of the Council shall be eligible for re-election if he is qualified to be a candidate.

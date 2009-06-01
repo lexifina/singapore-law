@@ -5,7 +5,7 @@ Part: PART IX RECOVERY AND TAXATION OF COSTS
 
 (a) at any time declare the solicitor entitled to a charge on the property recovered or preserved through his instrumentality for his taxed costs in reference to that suit, matter or proceeding; and
 
-(b) make such orders for the taxation of the costs and for raising money to pay, or for paying, the costs out of that property as it thinks fit.
+(b) make such orders for the taxation of the costs and for paying, or raising money to pay, the costs out of that property as it thinks fit.
 
 (2) All conveyances and acts done to defeat, or operating to defeat, the charge referred to in subsection (1) (a) shall, except in the case of a conveyance to a bona fide purchaser for value without notice, be void as against the solicitor.
 

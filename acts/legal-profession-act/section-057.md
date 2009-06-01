@@ -6,7 +6,7 @@ Division: Division 5 — Officers of Council
 
 (a) he has been struck off the roll or suspended from practising as an advocate and solicitor or has been convicted of an offence involving fraud or dishonesty;
 
-(b) he becomes of unsound mind;
+*(b) he becomes of unsound mind;
 
 (c) he is an undischarged bankrupt;
 
@@ -18,16 +18,20 @@ Division: Division 5 — Officers of Council
 
 (2) An elected member shall vacate his office in any of the circumstances specified in subsection (1) and shall also vacate his office if —
 
-(a) being elected under section 49 (1), he ceases for any reason to have in force a practising certificate;
+(a) being elected under section 49(1), he ceases for any reason to have in force a practising certificate;
 
 (b) he resigns his seat on the Council; or
 
 (c) he is absent from 3 consecutive meetings of the Council without its consent.
 
-(3) For the purposes of subsection (2), a person appointed under section 53 (1) and (2) or 55 (1) shall be deemed to have been elected under section 49 (1).
+(3) For the purposes of subsection (2), a person appointed under section 53(1) and (2) or 55(1) shall be deemed to have been elected under section 49(1).
 
 [30/86]
 
-(4) Subsections (1) and (2) shall not apply to a member of the Council who has obtained the leave of the court under section 49 (4) prior to his election or appointment as a member of the Council.
+(4) Subsections (1) and (2) shall not apply to a member of the Council who has obtained the leave of the court under section 49(4) prior to his election or appointment as a member of the Council.
 
 [30/86]
+
+*Paragraph (b) of section 57(1) will be deleted and substituted by the following paragraph when item 1(26)(c) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+
+‘‘(b) he becomes mentally disordered and incapable of managing himself or his affairs;’’.

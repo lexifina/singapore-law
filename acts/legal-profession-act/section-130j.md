@@ -1,28 +1,30 @@
-# 130J. Rules on Joint Law Ventures and Formal Law Alliances
-Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+# 130J. Registration of foreign lawyer to practise Singapore law in Singapore law practice
+Part: PART IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
 
-The Minister may, after consulting the Attorney-General, make rules for the following purposes:
+(1) An application may be made for a foreign lawyer to be registered by the Attorney-General to practise Singapore law in a Singapore law practice, if the foreign lawyer possesses such qualifications and satisfies such requirements as may be prescribed.
 
-(a) to prescribe anything which may be prescribed under this Part;
+[19/2008]
 
-(b) to prescribe the qualifying legal skills, experience and expertise required under this Part;
+(2) The Attorney-General may approve an application under subsection (1), and register a foreign lawyer to practise Singapore law in a Singapore law practice, subject to —
 
-(c) to provide for the manner and means of application and the information and documents to be furnished for the registration and de-registration of Joint Law Ventures and Formal Law Alliances;
+(a) such conditions as may be prescribed; and
 
-(d) to provide for the manner and means of application and the information and documents to be furnished for foreign lawyers to be registered to practise Singapore law;
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-(e) to provide for a register of Joint Law Ventures and Formal Law Alliances to be kept in such form and manner as may be prescribed;
+[19/2008]
 
-(f) to provide for disciplinary control over foreign lawyers in a Joint Law Venture who are registered to practise Singapore law under section 130C and to modify the application of any provision of this Act, other than this Part, in respect of legal services performed by such lawyers;
+(3) A foreign lawyer who is registered by the Attorney-General to practise Singapore law in a Singapore law practice may, notwithstanding anything to the contrary in Part IV, practise Singapore law in, and only in, such areas of legal practice as may be prescribed.
 
-(g) to provide for the manner or means by which a Joint Law Venture or a Formal Law Alliance may conduct its business or publicise itself;
+[19/2008]
 
-(h) to modify the application of any provision of this Act, other than this Part, or any rules made thereunder to a Singapore law firm or a solicitor practising in that law firm where that Singapore law firm constitutes part of a Joint Law Venture or a Formal Law Alliance;
+(4) The registration of a foreign lawyer under this section shall lapse on the occurrence of such events as may be prescribed.
 
-(i) to exempt any person or class of persons from any provision of this Part;
+[19/2008]
 
-(j) to provide for the payment of fees on applications for registration, renewal of registration and other related matters; and
+(5) Nothing in this section shall be construed so as to affect any right or privilege of an advocate and solicitor conferred by this Act or any other written law.
 
-(k) to make such incidental, consequential or supplementary provisions as may be necessary or expedient.
+[19/2008]
 
-[4/2000]
+(6) With effect from the relevant date, a foreign lawyer who, immediately before the relevant date, was registered by the Attorney- General under this section as in force immediately before the relevant date shall be deemed to be registered under this section subject to the conditions referred to in subsection (2)(a) and such conditions as the Attorney-General may think fit to impose in any particular case.
+
+[19/2008]

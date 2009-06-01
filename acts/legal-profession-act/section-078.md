@@ -27,9 +27,7 @@ Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (4) On application made by or on behalf of the Attorney-General or the Society, the court may make an order directing that, as from a date to be specified in the order, no solicitor shall, in connection with his practice as such, employ or remunerate any person, the subject of the application, who —
 
-(a) has been a party to any act or default of a solicitor in respect of which a complaint has been or might properly have been made against that solicitor under the provisions of this Act;
-
-or
+(a) has been a party to any act or default of a solicitor in respect of which a complaint has been or might properly have been made against that solicitor under the provisions of this Act; or
 
 (b) has so conducted himself while employed by a solicitor that, had he himself been a solicitor, his conduct might have formed the subject of a complaint under the provisions of this Act against him.
 
@@ -39,7 +37,7 @@ or
 
 (7) Before a solicitor employs or remunerates any person (other than an advocate and solicitor or a qualified person) in connection with his practice as such, he shall —
 
-(a) require the person to make a statutory declaration to show that he is not an undischarged bankrupt and that he does not come within the class of persons enumerated in subsection (1) (a) to (f) and had not been employed as a public officer and that he is not a person in respect of whom an order has been made under subsection (4); and
+(a) require the person to make a statutory declaration to show that he is not an undischarged bankrupt and that he does not come within the class of persons enumerated in subsection (1)(a) to (f) and had not been employed as a public officer and that he is not a person in respect of whom an order has been made under subsection (4); and
 
 (b) within 14 days of commencing to employ the person, deliver to the Society a certified copy of the statutory declaration so made.
 

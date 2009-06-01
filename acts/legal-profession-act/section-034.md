@@ -15,7 +15,7 @@ Section 33 does not extend to —
 
 (f) any bona fide and full-time employee of an insurance company negotiating for the settlement of or settling a claim made or contemplated against any person or body corporate in cases where the claim, arising out of personal injury or death, relates to a risk insured by that insurance company;
 
-(g) any arbitrator or umpire lawfully acting under any written law relating to arbitration, settling or attempting to settle the dispute between the parties to the arbitration;
+(g) (Deleted by Act 23 of 2004)
 
 (h) any full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed by an advocate and solicitor;
 
@@ -29,4 +29,4 @@ Section 33 does not extend to —
 
 (m) any agent duly authorised to the satisfaction of the Registrar of Trade Marks drawing or preparing documents in any matter relating to trade marks.
 
-[35/2001]
+[35/2001; 23/2004]

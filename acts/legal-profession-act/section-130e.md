@@ -1,22 +1,34 @@
-# 130E. Professional conduct, ethics and accounts
-Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+# 130E. Licensed foreign law practice
+Part: PART IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
 
-(1) A foreign lawyer practising Singapore law in a Joint Law Venture shall comply with such rules relating to professional conduct or ethics as may be prescribed in rules made under section 130J unless the Attorney-General, in his discretion, exempts the foreign lawyer from such compliance.
+(1) A foreign law practice which intends to provide any legal services in Singapore shall apply for a foreign law practice licence.
 
-[4/2000]
+[19/2008]
 
-(2) Sections 72 and 73 and any rules made thereunder shall apply, with such modifications as may be prescribed, to a Joint Law Venture in respect of the practice of Singapore law.
+(2) The Attorney-General may, after consulting such authorities as he thinks fit, grant or refuse an application under subsection (1).
 
-[4/2000]
+[19/2008]
 
-(3) Where a Joint Law Venture has submitted an accountant’s report in compliance with section 73 as applied to it by subsection (2), the Singapore law firm which constitutes part of the Joint Law Venture shall not be required to submit another accountant’s report under that section.
+(3) An application under subsection (1) may be granted, and a foreign law practice licence may be issued, subject to —
 
-[4/2000]
+(a) such conditions as may be prescribed; and
 
-(4) Solicitor-client privilege exists between a Joint Law Venture or a Formal Law Alliance and its client in the same way as it exists between a solicitor and his client.
+(b) such conditions as the Attorney-General may think fit to impose in any particular case.
 
-[4/2000]
+[19/2008]
 
-(5) Nothing in this section shall affect the solicitor-client privilege that exists between the Singapore law firm or the foreign law firm and a client, as the case may be, which constitutes part of a Joint Law Venture or a Formal Law Alliance.
+(4) A foreign law practice licence shall, notwithstanding anything to the contrary in Part IV, entitle the licensed foreign law practice to which the licence has been issued, during the period of validity of the licence —
 
-[4/2000]
+(a) to practise Singapore law in, and only in, such areas of legal practice and in accordance with such terms and conditions as may be prescribed; and
+
+(b) to such other privileges as may be prescribed or otherwise conferred by law.
+
+[19/2008]
+
+(5) A licensed foreign law practice shall pay to the Attorney-General such licence fee at such times and in such manner as may be prescribed.
+
+[19/2008]
+
+(6) A foreign law practice which, immediately before the relevant date, was registered by the Attorney-General under any rules made under the repealed section 130H(a) as in force immediately before the relevant date shall be deemed to be a licensed foreign law practice, and to have been issued a foreign law practice licence subject to the conditions referred to in subsection (3)(a) and such conditions as the Attorney-General may think fit to impose in any particular case, with effect from the relevant date.
+
+[19/2008]

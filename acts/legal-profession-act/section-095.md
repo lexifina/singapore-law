@@ -1,4 +1,4 @@
-# 95. Provisions as to penalties
+# 95. Provisions as to penalties ordered by Council
 Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (1) Within 21 days of being ordered to pay a penalty by the Council, the advocate and solicitor concerned may apply to a Judge to set aside the order.
@@ -11,8 +11,18 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (b) set aside the order for a penalty, and may make an order for payment of costs by or to either the Society or the applicant as may be just.
 
-(4) If no such application is made or if the order for a penalty is affirmed or varied by the court, the advocate and solicitor shall pay the penalty to the Society.
+(4) Where the Council has ordered an advocate and solicitor to pay a penalty, the advocate and solicitor shall pay to the Society —
 
-[35/2001]
+(a) the penalty, if —
 
-(5) Any penalty not paid may be recoverable by the Society as a judgment debt.
+(i) no application is made under subsection (1) to set aside the Council’s order; or
+
+(ii) the penalty has been affirmed by a Judge under subsection (3)(a); or
+
+(b) if the penalty has been varied by a Judge under subsection (3)(a), the penalty so varied.
+
+[19/2008]
+
+(5) Any penalty payable to the Society under subsection (4) which is not paid may be recoverable by the Society as a judgment debt.
+
+[19/2008]

@@ -8,14 +8,20 @@ Division: Division 2 — Qualified persons
 
 [10/91]
 
-(3) A pupil shall, before his petition is heard, attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12 (2).
+(3) A pupil shall, before his application for admission is heard, attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12(2).
+
+[42/2005]
 
 (4) No person shall, without the special leave in writing of the Board, hold any office or engage in any employment of whatsoever kind and whether full-time or part-time during his period of pupillage.
 
 (5) Subsection (4) shall not —
 
-(a) apply to a legal officer; or
+(a) apply to service as a legal officer;
 
-(b) preclude a pupil receiving remuneration from his master.
+(b) apply to service as an Assistant Public Prosecutor in the Attorney-General’s Chambers; or
+
+(c) preclude a pupil receiving remuneration from his master.
+
+[20/2007]
 
 (6) Where a pupil attends the course of instruction referred to in subsection (3) concurrently with his period of pupillage, the period spent in attendance at such course of instruction shall not be counted for the purpose of subsection (2).

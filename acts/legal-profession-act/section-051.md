@@ -1,6 +1,6 @@
 # 51. Elections
 Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
-Division: Division 4 — Election of Members of Council
+Division: Division 4 — Election of members of Council
 
 (1) The Council shall, in the month of September every year, fix and publish before the end of that month —
 

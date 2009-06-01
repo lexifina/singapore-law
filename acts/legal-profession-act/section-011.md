@@ -10,6 +10,8 @@ Division: Division 2 — Qualified persons
 
 [17/84]
 
-(2) No person who is a qualified person by reason of his having passed the final examination for the degree of Bachelor of Laws in the National University of Singapore shall be admitted as an advocate and solicitor before the degree of Bachelor of Laws is conferred upon him.
+(2) No person who is a qualified person by reason of his having passed the final examination for a law degree in any university in Singapore pursuant to rules made under section 2(2) shall be admitted as an advocate and solicitor before the law degree is conferred upon him.
+
+[20/2007]
 
 (3) A person shall not be disqualified by sex from being admitted and enrolled as an advocate and solicitor.

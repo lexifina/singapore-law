@@ -17,27 +17,29 @@ Part: PART VIA LAW CORPORATIONS
 
 (a) hold shares in any other law corporation;
 
-(b) be a director or consultant or an employee of any other law corporation;
+(b) be a director or a consultant or an employee of any other law corporation;
 
-(c) be a partner or consultant or an employee of any law firm; or
+(c) be a partner or a consultant or an employee of any law firm or limited liability law partnership; or
 
 (d) practise as a solicitor on his own account.
 
-[4/2000]
+[4/2000; 41/2005]
 
 (5) No security may be created over any share in a law corporation.
 
 [4/2000]
 
-(6) A solicitor who, pursuant to disciplinary proceedings under this Act, is suspended from practice or struck off the roll, shall not hold any shares in a law corporation unless the Council, on the solicitor’s application, grants him a grace period to transfer or dispose his shares in the law corporation.
+(6) A solicitor who, pursuant to disciplinary proceedings under this Act, is suspended from practice or struck off the roll, shall not hold any shares in a law corporation unless the Council, on the solicitor’s application, grants him a grace period to transfer or dispose of his shares in the law corporation.
 
 [4/2000]
 
-(7) Where a solicitor has been suspended from practice or struck off the roll pursuant to disciplinary proceedings under this Act, he shall not, directly or indirectly, take part in or be concerned in the management or practice of a law corporation.
+(7) Where a solicitor has been suspended from practice or struck off the roll pursuant to disciplinary proceedings under this Act, he shall not, directly or indirectly, take part or be concerned in the management or practice of a law corporation.
 
 [4/2000]
 
-(8) Any transfer or disposal made in contravention of subsections (1) to (6) shall be null and void.
+(8) Any transfer or disposal made in contravention of subsections
+
+(1) to (6) shall be null and void.
 
 [4/2000]
 
@@ -63,6 +65,6 @@ Part: PART VIA LAW CORPORATIONS
 
 [4/2000]
 
-(13) The solicitor referred to in subsection (9) or the persons referred to in subsection (11) shall not during the grace period of 2 years exercise any voting rights attached to his shares in the law corporation or take part or be concerned in the management or practice of the law corporation.
+(13) The solicitor referred to in subsection (9) or the persons referred to in subsection (11) shall not, during the grace period of 2 years, exercise any voting rights attached to his shares in the law corporation or take part or be concerned in the management or practice of the law corporation.
 
 [4/2000]

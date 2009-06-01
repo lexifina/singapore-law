@@ -1,8 +1,6 @@
-# 137. Income tax exemption
+# 137. Jurisdiction of court
 Part: PART X MISCELLANEOUS
 
-The Board and the Society shall each be deemed to be —
+Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(a) an institution specified in the First Schedule to, and under section 13 (1) (e) of, the Income Tax Act (Cap. 134); and
-
-(b) an institution of a public character approved by the Minister for the purposes of section 37 (2) (c) of the Income Tax Act.
+[20/2007]

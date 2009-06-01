@@ -3,7 +3,7 @@ Part: PART IX RECOVERY AND TAXATION OF COSTS
 
 (1) Rules made under section 72 shall make provision for requiring a solicitor, in such cases as may be prescribed by those rules, either —
 
-(a) to keep on deposit in a separate account at a bank for the benefit of the client money received for or on account of a client; or
+(a) to keep, on deposit in a separate account at a bank for the benefit of the client, money received for or on account of a client; or
 
 (b) to make good to the client out of the solicitor’s own money a sum equivalent to the interest which would have accrued if the money so received had been so kept on deposit.
 

@@ -16,6 +16,6 @@ Division: Division 2 — Qualified persons
 
 [35/2001]
 
-(2) Notwithstanding subsection (1) (d) and (e), the Board may, in its discretion, exempt a qualified person from attending such courses of instruction, keeping such dining terms and passing such examinations as may be prescribed by the Board if the Board is of the opinion that that qualified person is, by reason of his experience or for other cause, a fit and proper person to be so exempted.
+(2) Notwithstanding subsection (1)(d) and (e), the Board may, in its discretion, exempt a qualified person from attending such courses of instruction, keeping such dining terms and passing such examinations as may be prescribed by the Board if the Board is of the opinion that that qualified person is, by reason of his experience or for other cause, a fit and proper person to be so exempted.
 
 [35/2001]

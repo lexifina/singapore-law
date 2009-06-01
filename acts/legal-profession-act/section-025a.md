@@ -15,39 +15,49 @@ Part: PART III PRACTISING CERTIFICATES
 
 (f) who has been found guilty of misconduct in any other professional capacity;
 
-(g) whom the Attorney-General or the Council is satisfied is incapacitated by illness or accident to such extent as to be unable to attend to his practice; or
+(fa) whose fitness to practise has been determined under section 25C to be impaired by reason of his physical or mental condition, or who, having been ordered by a Judge to submit to a medical examination under section 25C to be conducted within such period as the Judge may specify in the order, fails to do so;
+
+(g) whom the Attorney-General or the Council is satisfied is incapacitated by illness or accident, or by the solicitor’s physical or mental condition, to such extent as to be unable to attend to his practice; or
 
 (h) whom the Attorney-General or the Council is satisfied has failed to comply with any of the rules made under section 72.
 
-[40/96]
+[40/96; 19/2008]
 
-(2) Where a solicitor to whom this section applies makes an application for a practising certificate, the Attorney-General or the Council may, having regard to all the circumstances of the case, in writing request the Registrar —
+(2) Subject to subsection (2A), where a solicitor to whom this section applies makes an application for a practising certificate, the Attorney- General or the Council may, having regard to all the circumstances of the case, in writing request the Registrar —
 
 (a) to refuse the application for a practising certificate; or
 
 (b) to issue a practising certificate to the solicitor subject to such conditions as the Attorney-General or the Council may specify, and the Registrar may, subject to subsections (6) and (7), comply with the request and notify the solicitor in writing.
 
-[40/96]
+[40/96; 19/2008]
 
-(3) Without prejudice to the generality of subsection (2) (b) —
+(2A) The Council shall not be entitled to make a request under subsection (2) in relation to a solicitor without the consent of the Attorney-General, if the solicitor —
 
-(a) conditions may be imposed under that subsection for requiring the applicant to take any specified steps that will, in the opinion of the Attorney-General or the Council, be conducive to his carrying on an efficient practice as a solicitor; and
+(a) is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice; and
+
+(b) undertakes not to practise in any Singapore law practice while his practising certificate is in force.
+
+[19/2008]
+
+(3) Without prejudice to the generality of subsection (2)(b) —
+
+(a) conditions may be imposed under that subsection for requiring the applicant to take any specified steps that will, in the opinion of the Attorney-General or the Council, be conducive to his carrying on an efficient practice as a solicitor;
+
+and
 
 (b) conditions may be so imposed (whether for the purpose mentioned in paragraph (a) or otherwise) notwithstanding that they may result in expenditure being incurred by the applicant.
 
 [40/96]
 
-(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in subsection (1) (c), (d), (e), (f), (g) or (h), the solicitor concerned may, upon proof of a change in the circumstances or for other good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
+(4) Where the Attorney-General or the Council makes a request under subsection (2) by reason only of any such circumstances as are mentioned in subsection (1)(c), (d), (e), (f), (fa), (g) or (h), the solicitor concerned may, upon proof of a change in the circumstances or for any good cause, inform the Attorney-General or the Council, as the case may be, of the change or good cause.
 
-[40/96]
+[40/96; 19/2008]
 
-(5) The Attorney-General or the Council, as the case may be, shall, upon being so informed under subsection (4), re-consider the request and may in writing request the Registrar —
+(5) The Attorney-General or the Council, as the case may be, shall, upon being so informed under subsection (4), reconsider the request and may in writing request the Registrar —
 
 (a) to grant the application for a practising certificate; or
 
-(b) to remove any condition imposed on the practising certificate under subsection (2) (b),
-
-and the Registrar may comply with the request and notify the solicitor in writing.
+(b) to remove any condition imposed on the practising certificate under subsection (2)(b), and the Registrar may comply with the request and notify the solicitor in writing.
 
 [40/96]
 
@@ -57,10 +67,10 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (7) The Registrar shall not refuse an application by a solicitor for a practising certificate where —
 
-(a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in subsection (1) (a) or (b);
+(a) this section applies to the solicitor by reason only of any such circumstances as are mentioned in subsection (1)(a) or (b);
 
 or
 
-(b) disciplinary proceedings against the solicitor under Part VII by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
+(b) disciplinary proceedings against the solicitor under Part VII or section 130R by reason of any such circumstances as are mentioned in subsection (1) have been disposed of.
 
-[40/96]
+[40/96; 19/2008]

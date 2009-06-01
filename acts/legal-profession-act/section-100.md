@@ -1,9 +1,11 @@
 # 100. Solicitor’s application to remove own name
 Part: PART VII DISCIPLINARY PROCEEDINGS
 
-(1) Any solicitor may, subject to this section and to any rules made thereunder, apply to the court to have his name removed from the roll.
+(1) Any solicitor may, subject to this section and any rules made thereunder, apply to the court to have his name removed from the roll.
 
-(2) Every such application shall be made by way of originating motion and shall be supported by an affidavit in the prescribed form which shall be served on the Society not less than 2 months before the application is heard.
+(2) Every such application shall be made by way of originating summons and shall be supported by an affidavit in the prescribed form which shall be served on the Society not less than 2 months before the application is heard.
+
+[42/2005]
 
 (3) The Society may for good cause require the applicant to advertise his intention to make the application in such manner as the Society shall direct.
 

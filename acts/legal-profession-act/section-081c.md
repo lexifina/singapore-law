@@ -5,11 +5,11 @@ Part: PART VIA LAW CORPORATIONS
 
 (a) is misleading or detracts from the dignity of an honourable profession;
 
-(b) is so similar to that of an existing law corporation, law firm or group practice as to be likely to be confused with it; or
+(b) is so similar to that of an existing law corporation, limited liability law partnership, law firm or group practice as to be likely to be confused with it; or
 
-(c) is inconsistent with any of the provisions of any rules on publicity made under section 71 (1).
+(c) is inconsistent with any of the provisions of any rules on publicity made under section 71(1).
 
-[4/2000]
+[4/2000; 41/2005]
 
 (2) Notwithstanding section 27 of the Companies Act, a law corporation which is a limited company need not have the word ‘‘Limited’’ or ‘‘Berhad’’ as part of its name and a law corporation which is a private company need not have the word ‘‘Private’’ or ‘‘Sendirian’’ as part of its name.
 

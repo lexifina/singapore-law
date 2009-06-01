@@ -1,5 +1,5 @@
 # 107. Prohibition of certain stipulations
-Part: PART VIII REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
+Part: PART VIII REMUNERATION RECEIVED BY SINGAPORE LAW PRACTICES OR SOLICITORS, OR IN RESPECT OF PRACTICE OF SINGAPORE LAW
 
 (1) No solicitor shall —
 
@@ -11,12 +11,14 @@ Part: PART VIII REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
 
 (a) the Official Assignee under the law relating to bankruptcy;
 
-(b) a liquidator or receiver under the law relating to the winding up of companies; or
+(b) a liquidator or receiver under the law relating to the winding up of companies or limited liability partnerships; or
 
 (c) a creditor in any composition.
 
+[41/2005]
+
 (3) A solicitor shall, notwithstanding any provision of this Act, be subject to the law of maintenance and champerty like any other person.
 
-(4) This section shall apply, with the necessary modifications, to a law corporation.
+(4) This section shall apply, with the necessary modifications, to a law corporation or a limited liability law partnership.
 
-[4/2000]
+[4/2000; 41/2005]

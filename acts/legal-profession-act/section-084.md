@@ -5,7 +5,9 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 [30/86; 15/89; 35/2001]
 
-(2) An advocate and solicitor shall be eligible to be appointed as a member of the Inquiry Panel if he has not less than 12 years’ standing.
+(2) An advocate and solicitor shall be eligible to be appointed as a member of the Inquiry Panel if he has not less than 7 years’ standing.
+
+[19/2008]
 
 (3) A member of the Inquiry Panel shall be appointed for a term of 2 years and shall be eligible for reappointment.
 
@@ -13,6 +15,6 @@ Part: PART VII DISCIPLINARY PROCEEDINGS
 
 (4) The Chief Justice may at any time remove from office any member of the Inquiry Panel or fill any vacancy in its membership.
 
-(5) The Chief Justice shall appoint a member of the Inquiry Panel to be the Chairman.
+(5) The Chief Justice shall appoint, from among the members of the Inquiry Panel who are advocates and solicitors of not less than 12 years’ standing, the Chairman and the Deputy Chairman of the Inquiry Panel.
 
-[30/86]
+[19/2008]

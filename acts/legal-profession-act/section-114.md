@@ -1,11 +1,15 @@
 # 114. Death or incapability of solicitor after agreement
-Part: PART VIII REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
+Part: PART VIII REMUNERATION RECEIVED BY SINGAPORE LAW PRACTICES OR SOLICITORS, OR IN RESPECT OF PRACTICE OF SINGAPORE LAW
 
 (1) Where a solicitor has made an agreement with his client under section 111 and anything has been done by the solicitor under the agreement, and, before the agreement has been completely performed by him, the solicitor dies or becomes incapable to act, an application may be made to the court by any party thereto or by the representatives of that party.
 
 (2) Where a law corporation has made an agreement with its client under section 111 and anything has been done by the law corporation or any of its directors or employees under the agreement, and, before the agreement has been completely performed by the law corporation or any of its directors or employees, the law corporation is wound up, an application may be made to the court by any party thereto or by the representatives of that party.
 
 [4/2000]
+
+(2A) Where a limited liability law partnership has made an agreement with its client under section 111 and anything has been done by the limited liability law partnership or any of its partners or employees under the agreement, and, before the agreement has been completely performed by the limited liability law partnership or any of its partners or employees, the limited liability law partnership is wound up, an application may be made to the court by any party thereto or by the representatives of that party.
+
+[41/2005]
 
 (3) The court shall thereupon have the same power to enforce or set aside the agreement, so far as it may have been acted upon, as if the death or incapacity had not happened.
 

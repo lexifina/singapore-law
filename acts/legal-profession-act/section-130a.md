@@ -1,22 +1,22 @@
 # 130A. Interpretation of this Part
-Part: PART IXA FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
+Part: PART IXA JOINT LAW VENTURES, FORMAL LAW ALLIANCES, FOREIGN LAW PRACTICES, REPRESENTATIVE OFFICES, FOREIGN LAWYERS, AND SOLICITORS PRACTISING IN JOINT LAW VENTURES OR FOREIGN LAW PRACTICES
 
-In this Part —
+(1) In this Part, unless the context otherwise requires —
 
-‘‘foreign law’’ means the law of any state or territory other than Singapore;
+‘‘Formal Law Alliance’’ means a Formal Law Alliance licensed under section 130C;
 
-‘‘foreign law firm’’ means a foreign law firm with an office or a place of business in Singapore which provides legal services in any foreign law in Singapore or elsewhere and includes a corporation duly constituted for the purpose of practising law;
+‘‘permitted areas of legal practice’’ means all areas of legal practice other than any area of legal practice prescribed as an area to be excluded from the ambit of this definition;
 
-‘‘foreign lawyer’’ means a person who is duly authorised or registered to practise law in a state or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that state or territory;
+‘‘relevant date’’ means 19th September 2008*;
 
-‘‘Formal Law Alliance’’ means a Formal Law Alliance registered under section 130D;
+‘‘representative office’’ means an office set up in Singapore by a foreign law practice to carry out only liaison or promotional work for the foreign law practice, without providing legal services in Singapore or conducting any other business activities.
 
-‘‘Joint Law Venture’’ means a Joint Law Venture registered under section 130B;
+[19/2008]
 
-‘‘practise Singapore law’’ means doing work, or transacting business, in relation to the laws of Singapore, being work or business of a kind that is the right or privilege of a Singapore lawyer under Part IV;
+(2) In this Part, unless the context otherwise requires —
 
-‘‘Singapore law firm’’ means a firm of advocates and solicitors and includes a law corporation registered under Part VIA;
+(a) a reference to this Part shall be construed so as to include a reference to any rules made under this Part; and
 
-‘‘Singapore lawyer’’ means an advocate and solicitor as defined in section 2.
+(b) a reference to the contravention of a provision includes a reference to the failure to comply with any condition of any licence, registration or approval imposed under that provision or by section 130Q(5).
 
-[4/2000]
+[19/2008]
