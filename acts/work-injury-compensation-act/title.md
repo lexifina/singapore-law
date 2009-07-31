@@ -1,0 +1,35 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+WORK INJURY COMPENSATION ACT
+(CHAPTER 354)
+Act
+25 of 1975
+Amended by
+34 of 1980
+S 336/86
+1985 Ed. Cap. 354
+Amended by
+16 of 1990
+S 22/89
+S 316/95
+S 447/95
+1998 Ed. Cap. 354
+Amended by
+5 of 2008
+S 254/2003
+S 68/2004
+REVISED EDITION 2009
+(31st July 2009)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2009
+
+
+
+An Act relating to the payment of compensation to employees for injury suffered in the course of their employment.
+
+[5/2008]
+
+[1st October 1975]
