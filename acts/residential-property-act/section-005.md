@@ -1,0 +1,32 @@
+# 5. Disposal of estate or interest in residential property by foreign companies
+Part: PART II PROHIBITION ON PURCHASE OR ACQUISITION OF RESIDENTIAL PROPERTY BY FOREIGN PERSONS
+
+(1) Where, on 11th September 1973, a foreign company is the owner of an estate or interest in any residential property in Singapore, the foreign company shall be bound to dispose of the same in accordance with this section, unless such foreign company is permitted to retain its estate or interest in the residential property by virtue of section 25 or the residential property or such foreign company is exempted under section 32.
+
+[9/2006]
+
+(2) Where, between 11th September 1973 and 1st October 1976, any foreign company was granted approval by the Minister to purchase or acquire any residential property from another foreign company or a Singapore company pursuant to any scheme or arrangement of whatever nature whereby the second mentioned foreign company or Singapore company transfers or agrees to transfer the whole or part of its assets or undertaking to the first-mentioned foreign company, including its interests in residential properties in Singapore, whether for consideration or otherwise, the first-mentioned foreign company shall, notwithstanding the grant of such approval, be subject to this section.
+
+(3) Every foreign company to which this section applies shall, within such period as the Minister may, by notification in the Gazette, direct, furnish to the Controller a return setting out the size, location and nature of its estate or interest in all its residential properties and such other particulars as the Controller may require.
+
+(4) Where the Controller is satisfied that a foreign company which is required by subsection (1) to dispose of an estate or interest in any residential property in Singapore has failed to dispose of the same on or before 11th September 1983 (or within such further period as the Minister may, by notification in the Gazette, appoint*), the
+
+*G.N. No. S 285/83.
+
+Controller may give directions in writing to the foreign company to transfer all its estate or interest in its residential property to any citizen or approved purchaser within such period as the Controller may specify being a period of not less than 90 days and not more than 6 months of the date of service of the direction on the foreign company.
+
+(5) A direction given by the Controller under subsection (4) shall be served upon the foreign company which is required to transfer its estate or interest in any residential property and its subsisting mortgagees or chargees (if any) who appear as such in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be.
+
+[9/2006]
+
+(6) A foreign company which is directed by the Controller to transfer its estate or interest in any residential property and its subsisting mortgagees or chargees who appear as such in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be, may apply within 60 days of the date of service of the Controller’s direction to the Minister for an extension of the time specified by the Controller under subsection (4) to dispose of the estate or interest in the residential property owned by the foreign company and the Minister may, in his discretion, refuse to grant any extension or may grant such an extension of time as he may think fit for the transfer of the estate or interest in the residential property owned by the foreign company to any citizen or approved purchaser.
+
+[9/2006]
+
+(7) Where a foreign company which is directed under subsection (4) to dispose of its estate or interest in any residential property does not satisfy the Controller that it has transferred its estate or interest within the period or within any extension of time granted under subsection (6), the Minister may issue to the Controller a notice to attach and sell the estate or interest in that residential property, and a copy of the notice shall be served on —
+
+(a) the foreign company which is the owner of the estate or interest in the residential property; and
+
+(b) each subsisting mortgagee or chargee (if any) who appears as such in the relevant records in the Land Titles Registry or the Registry of Deeds of the Authority, as the case may be.
+
+[9/2006]
