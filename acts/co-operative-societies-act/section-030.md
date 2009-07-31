@@ -1,0 +1,4 @@
+# 30. (Repealed)
+Part: PART III PRIVILEGES AND DUTIES OF SOCIETIES
+
+(Repealed by Act 23 of 2008)
