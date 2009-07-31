@@ -1,0 +1,4 @@
+# 44. [Repealed]
+Part: PART IV REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
+
+[Repealed by Act 32 of 2008]
