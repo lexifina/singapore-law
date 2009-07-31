@@ -1,10 +1,34 @@
-# 9. Registration of strata title plan
+# 9. Registration of strata title application and strata title plan
 Part: PART II SUBDIVISION AND SUBSIDIARY STRATA LAND-REGISTER
 
-(1) The strata title plan shall be deemed to be registered under the provisions of this Act when the plan has been signed and sealed by the Registrar and has been marked with the serial number of the strata title plan register.
+(1) No strata title application for a parcel shall be registered under this section unless —
 
-(2) The Registrar shall prepare and maintain for the purposes of this Act a series of records to be called ‘‘the subsidiary strata land-register’’, and shall issue for each lot shown on the strata title plan a subsidiary strata certificate of title.
+(a) it is in the approved form; and
 
-(3) Upon registration of a strata title plan, a subsidiary proprietor shall be deemed to be the proprietor of his lot and his share in the common property subject to the encumbrances, if any, registered or notified in the subsidiary strata land-register and on the strata title plan.
+(b) the strata title plan for that parcel has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-(4) Subject to the provisions of this Act, any assurance or other dealing affecting a lot may be registered in the same manner and form and, upon registration, has the same effect as a similar assurance or dealing affecting part of registered land comprised in a subdivision plan approved by the competent authority, and registered under the provisions of the Land Titles Act (Cap. 157).
+[37/2004]
+
+(2) Every strata title application shall —
+
+(a) show the share values in whole numbers of each lot (except an accessory lot) and a number equal to the aggregate share value entitlement of all the lots comprised in the parcel; and
+
+(b) contain such other particulars as may be prescribed or as the Registrar may specify.
+
+[37/2004]
+
+(3) The strata title plan shall be deemed to be registered under the provisions of this Act on the date that the strata title application is registered by the Registrar under subsection (1) and the strata title plan has been assigned a strata title plan serial number as notified in the land-register.
+
+[37/2004]
+
+(4) For the purposes of subsection (2)(a), where planning permission for the erection of the buildings comprising the lots has been granted on or after 15th April 1976, the share values shown on the strata title application shall be those shown in the schedule of strata units filed with and accepted by the Commissioner.
+
+[37/2004; 46/2007]
+
+(5) No share value shall be allotted to an accessory lot.
+
+[37/2004]
+
+(6) In this section, ‘‘lot’’ includes a provisional lot.
+
+[37/2004]

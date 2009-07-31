@@ -1,137 +1,147 @@
 # THIRD SCHEDULE
 
-Sections 40 and 48 (1) (l)
+Sections 84A(1A)(b), (3), (7C) and (14), 84D(9) and (9A), 84E(15) and (15A) and 84FA(16)
 
-GENERAL MEETINGS OF MANAGEMENT CORPORATION
+COMPOSITION, CONSTITUTION AND PROCEEDINGS OF COLLECTIVE SALE COMMITTEE
 
-Notice of general meetings 1.—(1) Notice of a general meeting of a management corporation shall be served on each subsidiary proprietor and first mortgagee of a lot, as ascertained from the strata roll, at least 14 days before the meeting.
+Members of collective sale committee 1.—(1) Subject to sub-paragraph (2), a collective sale committee shall comprise such number of persons as may be determined in a general meeting convened in accordance with the Second Schedule, but in no case less than 3 members or more than 14 members who are natural persons.
 
-(2) Every such notice for an annual general meeting shall —
+(2) Notwithstanding sub-paragraph (1), where the number of subsidiary proprietors of the lots in a strata title plan is not more than 3, the collective sale committee shall consist of each subsidiary proprietor (if any) who is a natural person or the subsidiary proprietor’s nominee, together with the nominee of each subsidiary proprietor (if any) which is a company.
 
-(a) be accompanied by a copy of the statement of accounts of the management corporation last prepared by the management corporation in accordance with section 48 (1) (j) and a copy of the auditor’s report on the accounts of the management corporation; and
+(3) A person shall not be eligible for election as a member of a collective sale committee unless he is an individual of at least 21 years of age and who —
 
-(b) include a motion for the adoption of those accounts.
+(a) is a subsidiary proprietor of a lot;
 
-(3) Every such notice for an annual general meeting or an extraordinary general meeting shall —
+(b) is nominated for election by a subsidiary proprietor of a lot which is a company; or
 
-(a) specify the place, day and hour for the meeting;
+(c) is not a subsidiary proprietor but is a member of the immediate family of a subsidiary proprietor and is nominated for election by that subsidiary proprietor.
 
-(b) include each proposed resolution to be considered at the meeting;
+(4) Notwithstanding sub-paragraph (3), the following persons shall also not be eligible for election as a member of the collective sale committee:
 
-(c) specify any other business to be transacted at the meeting; and
+(a) an individual who is a joint subsidiary proprietor of a lot with another subsidiary proprietor, if that other subsidiary proprietor is also a candidate at that election or has nominated another person for that election; and
 
-(d) inform each person to whom the notice is addressed that he may vote in respect of each proposed resolution and, where relevant, on election of members of the council —
+(b) an individual who is nominated for election by a subsidiary proprietor who owns 2 or more lots, if that subsidiary proprietor together with any of his nominees —
 
-(i) in the case of a subsidiary proprietor of a lot subject to a first mortgage shown on the strata roll, only if the mortgagee fails or neglects to exercise the voting power conferred upon him by this Schedule;
+(i) nominated at the same election; or
 
-(ii) except in the case of a unanimous resolution, only if all contri- butions levied and payable on the lot, and any other moneys recoverable under this Act by the management corporation from him at the date of the notice (being contributions levied on him, or moneys recoverable from him, in respect of the lot of which he is the subsidiary proprietor or first mortgagee) have been duly paid at least 3 days before the commencement of the meeting;
-
-and THIRD SCHEDULE — continued
-
-(iii) either in person or by proxy at the meeting.
-
-(4) No motion shall be submitted at a general meeting unless notice of the resolution has been given in accordance with this paragraph.
-
-(5) A meeting at which a special or unanimous resolution is to be proposed shall be deemed not to be duly convened by the council if it does not give such notice thereof as is required by this Act in the case of special and unanimous resolutions.
-
-Persons entitled to vote at general meetings 2.—(1) A person shall be entitled to vote in respect of any lot on any proposal submitted at a general meeting of a management corporation or on any election of members of the council only if he is the subsidiary proprietor or a mortgagee in possession or a receiver of that lot as shown on the strata roll and has paid to the management corporation all contributions and any other moneys levied or recoverable by the management corporation under this Act.
-
-(2) Notwithstanding any other provision of this paragraph, a first mortgagee, as shown on the strata roll, of a lot shall be entitled to vote in respect of that lot on any proposals submitted at a general meeting of a management corporation or on any election of members of the council and, if he votes on that proposal, any vote cast by the subsidiary proprietor of that lot on the proposal shall not be counted.
-
-(3) The vote of co-proprietors or co-mortgagees may be cast by any of them in person or by a proxy and if both co-proprietors or co-mortgagees are present at a meeting of the management corporation the vote of the senior who casts a vote, whether in person or by a proxy, shall be accepted to the exclusion of the votes of the others; and for this purpose seniority shall be determined by the order in which the names stand in the strata roll.
-
-(4) Only the subsidiary proprietor entitled to the first of 2 or more successive estates in a lot shall, subject to this Schedule, be entitled to cast a vote on any proposal submitted at a general meeting of a management corporation or on any election of members of the council.
-
-(5) A subsidiary proprietor who is the trustee of a lot shall, subject to this Schedule, be entitled to cast a vote on any proposal submitted at a general meeting of a management corporation or on any election of members of the council and the persons beneficially interested in the trust shall not be entitled to cast such a vote.
-
-(6) The voting rights conferred by this paragraph shall be subject to section 59 (9) and (10).
-
-Quorum 3.—(1) No business shall be transacted at any general meeting of a management corporation unless a quorum of members is present.
+(ii) elected to the collective sale committee at the same or other election, or such of his nominees, exceed the threshold number for that subsidiary proprietor determined in accordance with sub-paragraph (6).
 
 THIRD SCHEDULE — continued
 
-(2) For the purposes of this paragraph, the number of subsidiary proprietors present at the meeting either in person or by proxy who own not less than 50% of share values for all the lots shown on the strata title plan shall form a quorum.
+(5) Notwithstanding sub-paragraph (3) and without prejudice to sub-paragraph
 
-(3) If within half an hour appointed for holding a general meeting no quorum of subsidiary proprietors is present, the general meeting, not being a general meeting convened on receipt of a requisition by members, may be held as if a quorum is present if there are 2 or more subsidiary proprietors present in person.
+(4) —
 
-Motions out of order 4. At a general meeting of a management corporation, the chairman may rule that a motion submitted at the meeting is out of order if he considers that the motion, if carried, would conflict with this Act or the by-laws or would otherwise be unlawful or unenforceable.
+(a) an undischarged bankrupt; or
 
-Method of casting vote 5. Except as provided in paragraph 2 (3), a vote on a motion submitted at a general meeting of a management corporation or on any election of members of the council may be cast by the person entitled to vote, either personally or by his duly appointed proxy.
+(b) a subsidiary proprietor of a lot whose contributions and other moneys levied or recoverable by the management corporation under the Building Maintenance and Strata Management Act (Cap. 30C) in respect of that lot are in arrears, shall be eligible for election as a member of a collective sale committee if, and only if, his status referred to in sub-paragraph (a) or (b) is declared in writing, whether by himself or by another, at the time of his nomination.
 
-Chairman to preside 6. The chairman of the management corporation shall preside at any general meeting of the management corporation at which he is present and, in his absence from any such meeting, the persons present at that meeting and entitled to vote on motions submitted at that meeting may elect one of their number to preside at that meeting and the person so elected shall, while he is so presiding, be deemed to be the chairman of the management corporation.
+(6) For the purposes of determining the eligibility of any subsidiary proprietor’s nominee for election as a member of a collective sale committee under sub-paragraph (4)(b), the threshold number for that subsidiary proprietor shall be —
 
-List of names of persons entitled to vote 7. The secretary of the management corporation shall put up a list of the names of the persons who are entitled to vote at a general meeting on the notice board maintained on the common property at least 48 hours before the general meeting.
+(a) the number of collective sale committee members that is proportional to the subsidiary proprietor’s share value, ignoring any fraction; or
 
-Counting of votes on election of council 8. Each person entitled to vote on an election of members of the council shall have one vote in respect of each lot which he is entitled to vote.
+(b) 49% of the number of collective sale committee members determined under sub-paragraph (1), ignoring any fraction, whichever number is the lower.
 
-Counting of votes on motion 9.—(1) Subject to this paragraph, a motion submitted at a general meeting of a management corporation shall be decided according to the number of votes cast for and against the motion, whether personally, by proxy or in writing, each person entitled to vote having one vote in respect of each lot in respect of which he is THIRD SCHEDULE — continued
+Disclosure of interests 2. A person standing for election as a member of a collective sale committee who has any direct or indirect interest in any property developer, property consultant, marketing agent or legal firm, being an interest that could conflict with the proper performance of his functions as a member of a collective sale committee (should he be elected) shall, as soon as practicable after the relevant facts have come to his knowledge, disclose the nature of that interest at a general meeting.
 
-entitled to vote unless a poll is demanded by any person entitled to vote at the general meeting before a vote is taken as aforesaid.
+Appointment of chairperson 3. The chairperson of the collective sale committee shall be appointed from among its members.
 
-(2) If —
+Tenure of office of member 4. A member of the collective sale committee shall hold office for the duration of the collective sale agreement until —
 
-(a) a poll is demanded by any person entitled to vote at a general meeting of a management corporation on a motion submitted at that meeting and the demand is made by that person personally at the meeting; or
+(a) the collective sale committee is dissolved; or
 
-(b) a motion submitted at such a meeting is for a resolution which, if it is to be effective, is required by this Act to be a special resolution,
+(b) he vacates office under paragraph 5.
 
-the motion shall be decided according to the value, ascertained in accordance with sub-paragraphs (3) and (4), of the votes cast for and against the motion, whether personally, by proxy or in writing.
+Vacation of office of member of collective sale committee 5. A person who is a member of a collective sale committee shall vacate his office as such a member —
 
-(3) Subject to sub-paragraph (4), for the purposes of sub-paragraph (2) the value of a vote cast on a motion submitted at a general meeting of a management corporation by a person entitled to vote in respect of a lot shall be equal to the share value of that lot.
-
-(4) For the purposes of sub-paragraph (2), the value of the vote cast by a subsidiary proprietor of a provisional lot shall be 25% of the value that, but for this sub-paragraph, his vote would have under sub-paragraph (3), ignoring any fraction.
-
-(5) A poll shall be taken in such manner as the chairman thinks fit.
-
-(6) A demand for a poll may be withdrawn by the person who made it.
-
-Chairman’s declaration of vote
-
-10. The declaration of the chairman of the result of the voting on any proposal submitted at a general meeting of the management corporation, otherwise than on a poll, shall be conclusive without proof of the votes recorded for or against the proposal.
-
-General meetings valid if attended only by chairman
-
-11. A general meeting of a management corporation shall, subject to paragraph 3, be validly held notwithstanding that the only person present at the meeting is the chairman of the management corporation.
-
-Requisition for motions to be included on agenda for general meeting
-
-12.—(1) Any person entitled to vote at a general meeting of a management corporation may by notice in writing served on the secretary of the council require inclusion in the agenda of the next general meeting of the management corporation (other than a meeting in respect of which notices have already been given under paragraph 1 (4)) of a motion set out in the first-mentioned notice and the secretary shall comply with the notice.
+(a) if the person was a subsidiary proprietor at the time of his election and he ceases to be a subsidiary proprietor;
 
 THIRD SCHEDULE — continued
 
-(2) For the purposes of sub-paragraph (1), a subsidiary proprietor who, but for the existence of a mortgage over his lot, would be entitled to vote at a general meeting of the management corporation shall be deemed to be entitled to vote at that meeting.
+(b) if the person was the nominee of a subsidiary proprietor and the subsidiary proprietor who nominated him —
 
-Amendment or revocation of unanimous or special resolutions 13. A unanimous resolution or special resolution of a management corporation shall not be amended or revoked except by a subsequent unanimous resolution or special resolution, as the case may be.
+(i) ceases to be a subsidiary proprietor; or
 
-Duties of proprietor until council is elected 14. Until the offices of the chairman, secretary and treasurer of the management corporation are filled or until the expiration of the first annual general meeting, whichever first happens, the powers, duties and functions conferred or imposed on the holders of those offices shall be exercised and performed by the proprietor or by his agent duly authorised in writing.
+(ii) notifies the collective sale committee in writing that the person’s office as a member of the collective sale committee is vacated;
 
-Meetings of management corporation before first annual general meeting 15.—(1) Until the first annual general meeting of the management corporation is held, the secretary of the management corporation may convene an extraordinary general meeting and shall do so on receipt of a requisition signed by one or more persons entitled to vote in respect of one or more lots, the share value or the sum of the share value of which is at least 25% of the aggregate share value.
+(c) upon the receipt by the collective sale committee from the person of a notice in writing of the person’s resignation;
 
-(2) The provisions of this Schedule (paragraph 1 (2) excepted) shall apply to and in respect of a meeting referred to in sub-paragraph (1) so far as those provisions are not inconsistent with, or incapable of applying to, such a meeting.
+(d) where he is a member under paragraph 1(2) and the number of subsidiary proprietors increases to more than 3, upon the election of the members of the collective sale committee at a general meeting convened after that increase;
 
-Company may appoint representative to attend meetings 16. A company which is a subsidiary proprietor may under the seal of the company or the hand of its director or any duly authorised attorney appoint such person as it thinks fit to act as its representative either at a particular meeting or at all meetings of the management corporation and a person so authorised shall in accordance with his authority or until his authority is revoked by the company be entitled to exercise the same powers on behalf of the company as the company could exercise if it were an individual.
+(e) if the person is removed from office at a general meeting;
 
-Instrument of proxy 17.—(1) An instrument appointing a proxy shall be in writing under the hand of the appointer or of his attorney duly authorised in writing or, if the appointer is a company, either under seal or under the hand of an officer or attorney duly authorised.
+(f) if the person dies;
 
-(2) A proxy need not be a subsidiary proprietor.
+(g) if the person becomes a mentally disordered person within the meaning of the Mental Disorders and Treatment Act (Cap. 178); or
+
+(h) if the person is convicted, on or after 4th October 2007, by a court in Singapore or elsewhere of an offence involving fraud or dishonesty.
+
+Chairperson to preside at meetings 6. The chairperson of a collective sale committee shall preside at all meetings of the collective sale committee at which he is present and, if he is absent from any such meeting, the members of the collective sale committee present at that meeting shall appoint one of their number to preside at that meeting during the absence of the chairperson.
+
+General meetings convened by collective sale committee 7.—(1) The collective sale committee shall convene one or more general meetings of the management corporation in accordance with the Second Schedule for the following purposes:
+
+(a) to consider the appointment of any advocate and solicitor, property consultant or marketing agent;
+
+(b) to consider the apportionment of sale proceeds;
+
+(c) to consider the terms and conditions of the collective sale agreement;
+
+(d) to give an update on the total number of subsidiary proprietors who, immediately before the date of the general meeting, have signed the collective sale agreement;
+
+(e) to provide information of the sale proposal and sale process;
+
+(f) to provide information on the number of offers received for the collective sale and the respective amounts; and
+
+(g) to consider the terms and conditions of the sale and purchase agreement.
 
 THIRD SCHEDULE — continued
 
-(3) The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
+(2) The meeting under sub-paragraph (1)(a), (b) and (c) shall be convened before any subsidiary proprietor signs the collective sale agreement.
 
-Form of proxy for voting for or against a resolution 18. Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
+(3) The meeting under sub-paragraph (1)(d) and (e) shall be convened after the subsidiary proprietors referred to in section 84A(1) or 84FA(2) have signed the collective sale agreement but before the launch for sale under paragraph 11.
 
-I/We, , of being a member/members of the above-named management corporation, hereby appoint , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation, to be held on the day of 20 , and at any adjournment thereof.
+(4) The meeting under sub-paragraph (1)(f) and (g) shall be convened as soon as practicable after the close of the public tender or public auction or, where applicable, after the collective sale committee has entered into a private contract under paragraph 11.
 
-Signed this day of 20 .
+Meetings of collective sale committee 8.—(1) At any meeting of a collective sale committee, a quorum shall consist of the majority of the members of the collective sale committee.
 
-This form is to be used *in favour of/against the resolution.
+(2) A decision of the majority of the members of the collective sale committee present and voting at any meeting of the collective sale committee shall be a decision of the collective sale committee.
 
-Proxy to be deposited at registered address of management corporation 19. The instrument appointing a proxy and the power of attorney or other authority, if any, under which it is signed or a notarially certified copy of that power or authority shall be deposited at the registered address of the management corporation, or at such other place in Singapore as is specified for that purpose in the notice convening the meeting, not less than 48 hours before the time for holding the meeting or adjourned meeting at which the person named in the instrument proposes to vote, or, in the case of a poll, not less than 48 hours before the time appointed for the taking of the poll, and in default the instrument of proxy shall not be treated as valid.
+(3) A collective sale committee shall cause a record of its decisions and minutes of its meetings to be kept.
 
-Authority not to be revoked by death of principal, etc.
+Keeping of records 9.—(1) The collective sale committee shall keep minutes of its proceedings and shall cause minutes of general meetings convened in accordance with the Second Schedule to be kept.
 
-20. A vote given in accordance with the terms of an instrument of proxy or attorney shall be valid notwithstanding the previous death or unsoundness of mind of the principal or revocation of the instrument or of the authority under which the instrument was executed, or the transfer of the share in respect of which the instrument is given, if no intimation in writing of such death, unsoundness of mind, revocation, or transfer as aforesaid has been received by the management corporation at the registered office before the commencement of the meeting or adjourned meeting at which the instrument is used.
+(2) If the management corporation is required by its by-laws to maintain a notice board, the collective sale committee shall cause a copy of the minutes of a meeting of the collective sale committee to be displayed on the notice board within 7 days after the meeting.
 
-[16/87; 21/89]
+(3) A copy of any minutes referred to in sub-paragraph (2) shall be kept displayed on the notice board for a period of not less than 14 days.
 
-*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
+(4) If there is no notice board, the collective sale committee shall give each subsidiary proprietor a copy of the minutes referred to in sub-paragraph (2) within the period specified in that sub-paragraph.
+
+(5) The collective sale committee shall —
+
+(a) ensure that proper books of account are kept in respect of all sums of money received and expended for the purposes of a collective sale specifying the matters in relation to which the receipts and expenditure take place; and
+
+(b) on the application of a subsidiary proprietor or mortgagee of a lot (or any person authorised in writing by him), make the books of account available for inspection at all reasonable times.
+
+THIRD SCHEDULE — continued
+
+Acts of collective sale committee valid notwithstanding vacancy, etc.
+
+10. Any act or proceeding of a collective sale committee done in good faith shall, notwithstanding that at the time when the act or proceeding was done, taken or commenced there was —
+
+(a) a vacancy in the office of a member of the collective sale committee; or
+
+(b) any defect in the appointment or any disqualification of any such member, be as valid as if the vacancy, defect or disqualification did not exist and the collective sale committee were fully and properly constituted.
+
+Collective sale by public tender or auction 11.—(1) The collective sale of all lots and common property in a strata title plan shall be launched for sale only by way of public tender or public auction.
+
+(2) A valuation report by an independent valuer on the value of the development as at the date of the close of the public tender or public auction shall be obtained by the collective sale committee on the date of the close of the public tender or public auction.
+
+(3) Notwithstanding sub-paragraph (1), the collective sale committee may, within 10 weeks from the close of the public tender or public auction, enter into a private contract with a purchaser for the sale of all the lots and common property in a strata title plan.
+
+Termination of collective sale committee 12. A collective sale committee may be dissolved —
+
+(a) by ordinary resolution at a general meeting of the management corporation convened in accordance with the Second Schedule; or
+
+(b) upon the termination or expiry of the collective sale agreement.
+
+[46/2007]

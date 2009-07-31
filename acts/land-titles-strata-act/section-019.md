@@ -1,5 +1,5 @@
 # 19. Easements for light over-hanging eaves and other projections
-Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+Part: PART III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
 (1) In respect of each lot and the common property, there shall be implied in favour of the subsidiary proprietor of the dominant tenement and against the subsidiary proprietor of the servient tenement —
 

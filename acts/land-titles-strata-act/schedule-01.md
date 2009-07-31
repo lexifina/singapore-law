@@ -1,121 +1,145 @@
 # FIRST SCHEDULE
 
-Sections 41 (2), (3), (6) and (16) and 50 (e)
+Sections 84A(3), (4), (7C), (13) and (14), 84D(3), 84E(4) and
 
-BY-LAWS
+(5) and 84FA(3) and (4)
 
-PART I
+REQUIREMENTS UNDER SECTION 84A, 84D, 84E OR 84FA
 
-Chairman, secretary and treasurer of management corporation 1. The chairman, secretary and treasurer of the council shall also be respectively the chairman, secretary and treasurer of the management corporation.
+1. Before making an application to a Board, the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors of flats referred to in section 84D(2) or 84E(3), as the case may be, shall —
 
-Council may employ agents and employees 2. A council may employ for and on behalf of the management corporation such agents and employees as it thinks fit in connection with the exercise and performance of the powers, duties and functions of the management corporation.
+(a) execute within the permitted time but in no case more than 12 months before the date the application is made, a collective sale agreement in writing among themselves (whether or not with other subsidiary proprietors or proprietors) agreeing to agree to collectively sell —
 
-Notice board 3. A council shall cause a notice board to be affixed to some part of the common property.
+(i) in the case of an application under section 84A or 84FA, all the lots and common property in a strata title plan; or
 
-Powers and duties of secretary of management corporation 4. The powers and duties of a secretary of a management corporation shall include —
+(ii) in the case of an application under section 84D or 84E, all the flats and the land in a development to which section 84D or 84E, as the case may be, applies;
 
-(a) the preparation and distribution of minutes of meetings of the management corporation;
+(b) affix to a conspicuous part of each building comprised in the strata title plan or the development to which section 84D or 84E applies, as the case may be, a notice in the 4 official languages specifying —
 
-(b) the giving on behalf of the management corporation of the notices required to be given under this Act;
+(i) the number of lots and number of subsidiary proprietors or the number of flats and number of proprietors, as the case may be, who, immediately before the date of the notice, have signed the collective sale agreement; and
 
-(c) the maintenance of the strata roll;
+(ii) the proportion (in percentage) that the total share value and the total area of the lots as shown in the subsidiary strata certificates of title of such subsidiary proprietors’ lots bear to the total share value and total area of all lots comprised in that strata title plan, or the total share or total notional share of the land and total area of the flats of such proprietors bear to the total share or notional FIRST SCHEDULE — continued
 
-(d) the supply of information on behalf of the management corporation in accordance with section 54 (1) (a) and (b);
+share of all proprietors and total area of all the flats in that land and the development concerned, as the case may be, within 4 weeks after the start of the permitted time and thereafter at intervals of not more than 4 weeks from the date of the last notice under this sub-paragraph;
 
-(e) the answering of communications addressed to the management corporation; and
+(c) ensure that the notice in sub-paragraph (b) does not include any subsidiary proprietor who has served or is entitled to serve a notice of rescission under paragraph 6 and that the notice in that sub-paragraph is certified by the advocate and solicitor appointed by the collective sale committee to be accurate;
 
-FIRST SCHEDULE — continued
+(d) advertise in the 4 official languages the particulars of the application in such local newspapers as approved by the Board;
 
-(f) the calling of nominations of candidates for election as members of the council.
+(e) serve notice of the proposed application on all the subsidiary proprietors of all the lots and common property in the strata title plan concerned and, if applicable, on the subsidiary proprietors in reversion of the leasehold estate in the lots, or on all the proprietors of all flats in the development concerned, as the case may be, by registered post enclosing a copy each of the following documents:
 
-Powers and duties of treasurer of management corporation 5. The powers and duties of a treasurer of a management corporation shall include —
+(i) the collective sale agreement referred to in sub-paragraph (a);
 
-(a) the notifying of subsidiary proprietors of any contributions levied under this Act;
+(ii) the sale and purchase agreement which is to be the subject of the application to the Board;
 
-(b) the receipt, acknowledgment and banking of and the accounting for any money paid to the management corporation;
+(iii) a statutory declaration made by the purchaser under the sale and purchase agreement on the nature of his relationship (if any) or, if the purchaser is a body corporate, the nature of the relationship of every one of its directors (if any), to any subsidiary proprietor of any lot comprised in that strata title plan or any proprietor of any flat in the development, as the case may be;
 
-(c) the preparation of any certificate applied for under section 54 (1) (c); and
+(iv) the advertisement referred to in sub-paragraph (d);
 
-(d) the keeping of the books of account referred to in section 48 (1) (j) and the preparation of the statement of accounts referred to in section 48 (1) (k).
+(v) a valuation report from an independent valuer on the value of the development as at the date of the close of the public tender or auction; and
 
-PART II
+(vi) a report by an independent valuer on the proposed method of distributing the proceeds of the sale due under the sale and purchase agreement;
 
-Duty to furnish information 6. Any member of the council shall furnish the Commissioner or any person authorised by him to act on his behalf such information as the member possesses which the Commissioner or any such duly authorised person considers necessary for the purposes of discharging the functions of the Commissioner under this Act or the Buildings and Common Property (Maintenance and Management) Act (Cap. 30).
-
-Noise 7. A subsidiary proprietor or occupier of a lot shall not upon the parcel create any noise likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
-
-Vehicles 8. A subsidiary proprietor or occupier of a lot shall not park or leave any motor vehicle or other vehicle upon the common property except with the approval of the management corporation.
-
-Obstruction of common property 9. A subsidiary proprietor or occupier of a lot shall not obstruct the lawful use of the common property by any person.
-
-Damage to lawns, etc., on common property 10. A subsidiary proprietor or occupier of a lot shall not —
-
-(a) damage any lawn, garden, trees, shrub, plant or flower being part of, or situated upon, the common property; or
+(f) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying them of the proposed application, the notice sent under sub-paragraph (e) and the address to which it was sent, and that copies of the documents in that sub-paragraph may also be obtained from the marketing agent or the collective sale committee;
 
 FIRST SCHEDULE — continued
 
-(b) use for his own purposes as a garden any portion of the common property.
+(g) place a notice in the mail boxes of all the subsidiary proprietors of all the lots and common property in the strata title plan concerned or all proprietors of all the flats in the development concerned, as the case may be, notifying the lessees of the subsidiary proprietors or proprietors of the proposed application and of their right to file an application to the Board to determine the amount of compensation payable under the lease; and
 
-Damage to common property 11. A subsidiary proprietor or occupier of a lot shall not mark, paint, drive nails or screws or the like into, or otherwise damage or deface, any structure that forms part of the common property without the approval in writing of the management corporation, but this by-law shall not prevent a subsidiary proprietor or person authorised by him from installing —
+(h) affix a copy of the notice referred to in sub-paragraph (e), without the enclosed documents, in the 4 official languages to a conspicuous part of each building comprised in the strata title plan or the development, as the case may be.
 
-(a) any locking or other safety device for the protection of his lot against intruders; or
+2. For the purposes of this Schedule —
 
-(b) any screen or other device to prevent entry of animals or insects upon his lot.
+(a) the permitted time in relation to a collective sale agreement executed or to be executed by subsidiary proprietors or proprietors referred to in section 84A(1), 84D(2), 84E(3) or 84FA(2), means a period —
 
-Permission to carry out alterations 12. A subsidiary proprietor or occupier shall not make any alteration to the windows installed in the external walls of the subdivided building without having obtained the approval in writing of the management corporation.
+(i) starting from the date the first subsidiary proprietor or proprietor, or his duly appointed attorney, as the case may be, signs the collective sale agreement; and
 
-Balconies 13. A subsidiary proprietor or occupier of a lot shall not make any alterations or additions to any balcony of his lot without the written approval of the management corporation.
+(ii) ending not more than 12 months after the date the first subsidiary proprietor or proprietor, or his duly appointed attorney, as the case may be, signs the collective sale agreement; and
 
-Behaviour of subsidiary proprietors and occupiers 14. A subsidiary proprietor or occupier of a lot when upon the common property shall be adequately clothed and shall not use language or behave in a manner likely to cause offence or embarrassment to the subsidiary proprietor or occupier of another lot or to any person lawfully using the common property.
+(b) the collective sale agreement shall be regarded as executed notwith- standing that it is executed on separate copies thereof and at different times.
 
-Children playing on common property in building 15. A subsidiary proprietor or occupier of a lot shall take all reasonable steps to ensure that any child, of whom he has control when playing upon the common property, shall not —
+3. The collective sale committee shall provide a preface to the collective sale agreement stating the clause numbers and page numbers in which the following information are found:
 
-(a) cause any damage to the common property; and
+(a) the reserve price for the development;
 
-(b) create any noise likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot.
+(b) the apportionment method for the proceeds of sale;
 
-Behaviour of invitees 16. A subsidiary proprietor or occupier of a lot shall take all reasonable steps to ensure that his invitees do not behave in a manner likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
+(c) the fees payable to the advocate and solicitor, marketing agent and other person involved in handling the collective sale;
 
-FIRST SCHEDULE — continued
+(d) the amount of the compensation fund, if any;
 
-Depositing rubbish, etc., on common property 17. A subsidiary proprietor or occupier of a lot shall not deposit or throw upon the common property any rubbish, dirt, dust or other material likely to interfere with the peaceful enjoyment of the subsidiary proprietor or occupier of another lot or of any person lawfully using the common property.
+(e) the person entitled to any interest derived from moneys held by any stakeholder; and
 
-Drying of laundry items 18. A subsidiary proprietor or occupier of a lot shall not, except with the consent in writing of the management corporation, hang any washing, towel, bedding, clothing or other article on any part of the parcel in such a way as to be visible from outside the subdivided building, other than on any lines provided for the purpose and there only for a reasonable period.
+(f) the date of delivery of vacant possession of the lot or flat.
 
-Floor coverings 19. A subsidiary proprietor or occupier of a lot who carries out any pounding of chillies or other substances for cooking purposes shall ensure that the part of the floor on which the activity is carried out is covered to an extent sufficient to prevent the transmission therefrom of noise likely to disturb the peaceful enjoyment of the subsidiary proprietor or occupier of another lot.
-
-Storage of flammable liquids, etc.
-
-20.—(1) A subsidiary proprietor or occupier of a lot shall not use or store upon his lot or upon the common property any flammable chemical, liquid, gas or other flammable material, other than chemicals, liquids, gases or other material used or intended to be used for domestic purposes, or any such chemical, liquid, gas or other material in a fuel tank of a motor vehicle or internal combustion engine.
-
-(2) This by-law shall not apply to any lot where the subsidiary proprietor or occupier thereof has obtained a licence issued under Part V of the Fire Safety Act (Cap. 109A) authorising the use of a lot for a trade or other purpose specified in that Part.
-
-Refuse disposal 21.—(1) A subsidiary proprietor or occupier of a lot in a multi-storeyed subdivided building provided with chutes for the disposal of refuse shall —
-
-(a) ensure that before any refuse is thrown into the chutes it is securely wrapped in plastic bags or other similar materials; and
-
-(b) not dispose of any large objects into the chutes which may obstruct the free fall of refuse in the chutes.
-
-(2) A subsidiary proprietor or occupier of a lot which is not provided with any chute for the disposal of refuse —
-
-(a) shall maintain within his lot, or on such part of the common property as may be authorised by the management corporation, in clean and dry condition, an adequately covered receptacle for the disposal of refuse;
+4. The collective sale agreement shall be signed by the subsidiary proprietor, and, if signed in Singapore, in the presence of an advocate and solicitor who has a valid practising certificate appointed by the collective sale committee.
 
 FIRST SCHEDULE — continued
 
-(b) shall ensure that before refuse is placed in the receptacle it is securely wrapped or, in the case of tins or other containers, completely drained;
+5. The collective sale agreement shall be accompanied by a notice, in the prescribed form, that may be used by the subsidiary proprietor to rescind his agreement to be a party to the collective sale agreement.
 
-(c) for the purpose of having the refuse collected, shall, not more than one hour before the time at which refuse is normally collected, place the receptacle within an area designated for that purpose by the management corporation;
+6. A subsidiary proprietor may rescind his agreement to be a party to the collective sale agreement by serving a notice of rescission referred to in paragraph 5 within the cooling-off period which shall be a period of 5 days (excluding any day which is a Saturday, Sunday or public holiday) after the day on which the collective sale agreement was signed by him.
 
-(d) when the refuse has been collected shall promptly return the receptacle to his lot or other area referred to in sub-paragraph (a);
+7. The notice of rescission shall be signed by the subsidiary proprietor and shall be served personally on the advocate and solicitor appointed by the collective sale committee before 5 p.m. on the last day of the cooling-off period.
 
-(e) shall not place anything in the receptacle of the subsidiary proprietor or occupier of any other lot except with the permission of that subsidiary proprietor or occupier; and
+8. A subsidiary proprietor shall not be entitled to serve a notice of rescission more than once for the same collective sale agreement.
 
-(f) shall promptly remove anything which he or the refuse collector may have spilled from the receptacle and shall take such action as may be necessary to clean the area within which that thing was so spilled.
+9. The advertisement referred to in paragraph 1(d) shall include —
 
-Keeping of animals 22. A subsidiary proprietor or occupier of a lot shall not keep any animal upon his lot or the common property which may cause annoyance to the subsidiary proprietors or occupiers of other lots.
+(a) information on the development;
 
-Duty to maintain lot 23. A subsidiary proprietor or occupier of a lot shall maintain his lot including all sanitary fittings, water, gas, electrical and air-conditioning pipes and apparatus thereof in a good condition so as not to cause annoyance to the subsidiary proprietors or occupiers of other lots.
+(b) brief details of the sale proposal; and
 
-Lot not to be used for purpose injurious to reputation of building 24. A subsidiary proprietor or occupier of a lot shall not use his lot for any purpose (illegal or otherwise) which may be injurious to the reputation of the subdivided building.
+(c) the place at which the affected parties can inspect documents for the collective sale.
 
-[16/87]
+10. The notice referred to in paragraph 1(e) to be served by registered post shall be served on the affected parties —
+
+(a) where the party is a subsidiary proprietor of a lot in the strata title plan, at the address as shown on the strata roll;
+
+(b) where the party is a proprietor of a flat or land, at the last recorded address at the Land Titles Registry or Registry of Deeds;
+
+(c) where the party is a mortgagee, chargee or other person with an estate and interest in the lot or flat whose interest is notified on the land-register or a subsidiary proprietor in reversion of the leasehold estate in a lot, his mortgagee, chargee or other person with an estate or interest in the lot and whose interest is notified on the subsidiary strata land-register, at the address on the strata roll or last recorded address at the Land Titles Registry or Registry of Deeds, as the case may be, provided that where such mortgagee, chargee, subsidiary proprietor in reversion or other person has an estate or interest in more than one lot or flat whose interest is notified on the land-register or subsidiary strata land-register, a single notice referring to the affected lots or flats and their respective subsidiary proprietors or proprietors shall suffice; and
+
+(d) where the party is a management corporation, at its address recorded on the folio of the land-register comprising the common property.
+
+FIRST SCHEDULE — continued
+
+11. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1(d), enclosing —
+
+(a) the documents specified in paragraph 1(e);
+
+(b) a statutory declaration made by the representatives appointed under section 84A(2) or their solicitors stating —
+
+(i) the date the permitted time for the collective sale agreement started;
+
+(ii) the date on which the collective sale agreement referred to in paragraph 1(a) was last executed by any subsidiary proprietor or proprietor referred to in section 84A(1), 84D(2), 84E(3) or 84FA(2), as the case may be;
+
+(iii) the date or dates on which the notice or notices referred to in paragraph 1(b) were affixed; and
+
+(iv) that sub-paragraphs (c), (d), (e) and (h) of paragraph 1 have been complied with;
+
+(c) a list of the names of the subsidiary proprietors or proprietors who have not agreed in writing to the sale, their mortgagees, chargees, the subsidiary proprietors in reversion of the leasehold estate in the lots and other persons (other than lessees) with an estate or interest in the lots or flats whose interests are notified on the land-register or subsidiary strata land-register; and
+
+(d) such other document as the Board may require.
+
+12. The Board shall, within 5 days of the filing of an objection, serve a copy of it by registered post on the representatives appointed under section 84A(2) and their solicitors, if any.
+
+13. The subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3) shall, after making an application to the Board, cause a copy of the application to be registered under this Act, the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269), as the case may be.
+
+14. The subsidiary proprietors or proprietors referred to in paragraph 13 shall, if an order for sale is granted by the Board under section 84A, 84D, 84E or 84FA, register the order of the Board in accordance with this Act, the Land Titles Act or the Registration of Deeds Act, as the case may be, or if the order for sale is not granted by the Board, apply to cancel the application registered under paragraph 13.
+
+15. In this Schedule, ‘‘affected parties’’ means —
+
+(a) the subsidiary proprietors referred to in section 84A(1) or 84FA(2) or the proprietors referred to in section 84D(2) or 84E(3);
+
+FIRST SCHEDULE — continued
+
+(b) the subsidiary proprietors of the lots or the proprietors of the flats who have not agreed in writing to the sale, and any mortgagee, chargee and other person (other than a lessee) with an estate or interest in the lot or flat whose interest is notified on the land-register;
+
+(c) the proprietor of the land under section 84E, his mortgagee, chargee or other person with an estate or interest in the land whose interest is notified on the land-register;
+
+(d) the subsidiary proprietor in reversion of the leasehold estate in the lots under section 84FA, his mortgagee, chargee or other person with an estate or interest in the lots and whose interest is notified on the subsidiary strata land-register; and
+
+(e) the management corporation, where applicable.
+
+[21/99; 47/2004; S 243/2004; 46/2007]

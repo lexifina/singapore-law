@@ -7,13 +7,13 @@ Part: PART VIII ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER 
 
 (b) any reference therein to the registered proprietors of flats shall be read as a reference to the owners of flats;
 
-(c) any reference therein to 25% of the total number of flats comprised in a building erected on a parcel of land shall be read as a reference to 75% of the total number of flats comprised in the building or buildings within a housing estate built on a parcel or parcels of land vested in the Board; and
+(c) any reference therein to 25% of the total number of flats comprised in a development erected on a parcel of land shall be read as a reference to 75% of the total number of flats comprised in the building or buildings within a housing estate built on a parcel or parcels of land vested in the Board; and
 
-(d) any lease of such land issued by the Board under section 45 (1) of the HUDC Housing Estates Act (Cap. 131) shall be deemed to have been surrendered by all the lessees to the Board on the day immediately before the date an instrument of transfer of such land is lodged under section 126 (1).
+(d) any lease of such land issued by the Board under section 45(1) of the HUDC Housing Estates Act (Cap. 131) shall be deemed to have been surrendered by all the lessees to the Board on the day immediately before the date an instrument of transfer of such land is lodged under section 126(1).
 
-[27/95]
+[27/95; 46/2007]
 
-(2) In addition to its duties specified in section 126 (9) and (10), the management corporation for any estate or interest in land transferred by the Board under an application under section 126 (1) shall pay to the Board —
+(2) In addition to its duties specified in section 126(9) and (10), the management corporation for any estate or interest in land transferred by the Board under an application under section 126(1) shall pay to the Board —
 
 (a) the cost of any estate or interest in land which was the subject of such transfer; and
 
@@ -21,7 +21,7 @@ Part: PART VIII ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER 
 
 [27/95]
 
-(3) The management corporation for any land transferred by the Board pursuant to an application under section 126 (1) shall, upon a written demand by the Board to pay the costs referred to in subsection (2) or any part thereof and the expenses referred to in section 126 (9), pay to the Board not later than 30 days of notice of the written demand those costs or that part thereof and those expenses.
+(3) The management corporation for any land transferred by the Board pursuant to an application under section 126(1) shall, upon a written demand by the Board to pay the costs referred to in subsection (2) or any part thereof and the expenses referred to in section 126(9), pay to the Board not later than 30 days of notice of the written demand those costs or that part thereof and those expenses.
 
 [27/95]
 
@@ -31,15 +31,27 @@ Part: PART VIII ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER 
 
 (5) For the purposes of paying the costs and interest referred to in subsections (2), (3) and (4), the management corporation shall determine the amount of contributions payable by the subsidiary proprietors who are members of the management corporation.
 
-(6) Any contributions so levied by the management corporation shall be deemed to be contributions levied under section 48 (1) (r).
+(6) Any contributions so levied by the management corporation shall be deemed to be contributions levied under section 39 of the Building Maintenance and Strata Management Act (Cap. 30C).
 
-[27/95]
+[27/95; 47/2004]
 
-(7) In this section and sections 126B and 129 —
+(6A) Subject to subsection (6B), in the application of section 84A(1)(a) or (b) to any designated land, any reference therein to the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan shall be read as a reference to the date of completion of the construction of the last building (not being any common property) comprised in the strata title plan as certified by the relevant authority.
 
-‘‘Board’’ means the Housing and Development Board consti- tuted under the Housing and Development Act (Cap. 129);
+[46/2007]
 
-‘‘designated land’’ means any land or housing estate vested in the Board which the Minister, by notification in the Gazette, designates as land to which section 126A applies;
+(6B) In the application of section 84A(1)(a) or (b) to any designated land specified in the First Schedule to the HUDC Housing Estates Act (Cap. 131), any reference therein to the date of the issue of the latest Certificate of Statutory Completion for any building (not being any common property) comprised in the strata title plan shall be read as a reference to the date of the issue of the Certificate of Fitness for any building (not being any common property) comprised in the strata title plan.
+
+[46/2007]
+
+(6C) A certificate purporting to be under the hand of an officer of the relevant authority specifying the date of completion of the construction of the last building (not being any common property) comprised in the strata title plan referred to in subsection (6A), shall, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, be sufficient evidence of the matters specified therein.
+
+[46/2007]
+
+(7) In this section and section 126B —
+
+‘‘Board’’ means the Housing and Development Board constituted under the Housing and Development Act (Cap. 129);
+
+‘‘designated land’’ means any land or housing estate vested in the Board which the Minister, by notification in the Gazette, designates as land to which this section applies;
 
 ‘‘owner’’, in relation to any flat, means —
 
@@ -49,4 +61,4 @@ or
 
 (b) in any other case, the Board.
 
-[27/95]
+[27/95; 38/2002]

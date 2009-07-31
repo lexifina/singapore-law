@@ -19,7 +19,7 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 [16/87]
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court, on —
+(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court (Cap. 322, R 5), on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -47,7 +47,7 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (e) the administration, powers, duties and functions of the management corporation;
 
-(f) the voting power at meetings of the management corpora- tion of persons referred to in paragraph (c) or (d);
+(f) the voting power at meetings of the management corporation of persons referred to in paragraph (c) or (d);
 
 (g) any matter in respect of which it is, in the opinion of the court, just and equitable, in the circumstances of the case, to make provision in the order; and
 
@@ -55,7 +55,7 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (6) Upon an order under this section taking effect —
 
-(a) the persons, who immediately before the order took effect, were subsidiary proprietors of the lots the subject of the strata title plan concerned shall cease to be subsidiary proprietors of those lots and shall be entitled to the parcel as tenants-in-common in the shares proportional to their respective share values and for the same term and tenure as their respective lots were held by them prior to the date the order took effect;
+(a) the persons, who immediately before the order took effect, were subsidiary proprietors of the lots the subject of the strata title plan concerned shall cease to be subsidiary proprietors of those lots and shall be entitled to the parcel as tenants-in- common in the shares proportional to their respective share values and for the same term and tenure as their respective lots were held by them prior to the date the order took effect;
 
 (b) any subsisting encumbrance registered against any of the lots referred to in paragraph (a) shall be an encumbrance on the share of the subsidiary proprietor concerned in the registered land comprising the parcel, and a memorial or notification of the encumbrance entered in the volume and folio of the land comprising the registered land shall bear the same date as the date of registration of that encumbrance against the lot;
 
@@ -81,10 +81,10 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (11) No application shall be made under this section where the only reason for the application by the subsidiary proprietors for the sale of all the lots and common property in a strata title plan is that they —
 
-(a) have not been able to satisfy the requirement under section 84A (1);
+(a) have not been able to satisfy the requirement under section 84A(1);
 
-(b) have been able to satisfy the requirement under section 84A (1) but have not made an application to a Board under section 84A (1); or
+(b) have been able to satisfy the requirement under section 84A(1) but have not made an application to a Board under section 84A(1); or
 
-(c) have been able to satisfy the requirement under section 84A (1) but their application for an order under section 84A has been refused by a Board.
+(c) have been able to satisfy the requirement under section 84A(1) but their application for an order under section 84A has been refused by a Board.
 
 [21/99]

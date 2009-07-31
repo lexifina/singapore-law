@@ -5,17 +5,15 @@ Part: PART VII GENERAL
 
 [16/87]
 
-(2) A document other than a document referred to in subsection
+(2) A document other than a document referred to in subsection (1) may be served on a management corporation —
 
-(1) may be served on a management corporation —
-
-(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation under section 55; or
+(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation under section 28 of the Building Maintenance and Strata Management Act (Cap. 30C); or
 
 (b) by sending it, by registered post, to the management corporation at its address recorded on the folio of the land-register comprising the common property.
 
-[16/87]
+[16/87; 47/2004]
 
-(3) Subject to the provisions of this Act, a notice or other document required or authorised by this Act or the by-laws to be served by the Commissioner, a management corporation, a council or the secretary of a council on a proprietor, subsidiary proprietor, lessee, mortgagee or occupier of a lot may be served —
+(3) Subject to the provisions of this Act, a notice or other document required or authorised by this Act or the by-laws to be served by a management corporation, a council or the secretary of a council on a proprietor, subsidiary proprietor, lessee, mortgagee or occupier of a lot may be served —
 
 (a) by leaving it —
 
@@ -27,9 +25,11 @@ Part: PART VII GENERAL
 
 (c) in the case of a subsidiary proprietor, by affixing the notice on the front door of his lot.
 
-(4) Section 60 (3) of the Land Titles Act (Cap. 157) shall apply to the service of documents on a management corporation and a subsidiary proprietor.
+[47/2004]
 
-[16/87]
+(4) Section 60A of the Land Titles Act (Cap. 157) shall apply to the service of documents on a management corporation and a subsidiary proprietor.
+
+[16/87; 42/2005]
 
 (5) This section shall not apply to notices served in proceedings in the court.
 

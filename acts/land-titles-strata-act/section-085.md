@@ -1,4 +1,4 @@
-# 85. (Repealed by Act 21/99)
+# 85. to 114. (Repealed)
 Part: PART VI STRATA TITLES BOARDS
 
-(Repealed by Act 21/99)
+to 114. (Repealed by Act 47 of 2004)

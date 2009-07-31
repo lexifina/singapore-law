@@ -1,7 +1,7 @@
 # 77. Variation of strata subdivision scheme consequent upon damage to or destruction of subdivided building
 Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
-(1) Where a subdivided building is damaged or destroyed —
+(1) Where all of the land and buildings comprised in a strata title plan is the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152), or any building comprised in a strata title plan is damaged or destroyed —
 
 (a) any subsidiary proprietor of a lot in the subdivided building;
 
@@ -9,7 +9,9 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (c) the management corporation, may make an application to the court for an order under subsection (4).
 
-(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court, on —
+[47/2004]
+
+(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court (Cap. 322, R 5), on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -23,7 +25,9 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (3) The applicant and any person referred to in subsection (2) (whether or not he has been served with a notice of the application) shall be entitled to appear and be heard on the hearing of the application.
 
-(4) The court may, on an application made under subsection (1), make an order to settle a scheme for the reinstatement or continued use of the subdivided building in whole or in part.
+(4) The court may, on an application made under subsection (1) (except in relation to land and buildings the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152)), make an order to settle a scheme for the reinstatement or continued use of the subdivided building in whole or in part.
+
+[47/2004]
 
 (5) An order made under subsection (4) shall take effect on such day as may be specified in the order.
 

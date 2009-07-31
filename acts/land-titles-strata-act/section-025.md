@@ -1,29 +1,33 @@
 # 25. Addition to common property
-Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+Part: PART III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
-(1) The subsidiary proprietors may by a special resolution at a meeting convened by the management corporation direct the management corporation to accept a transfer —
+(1) This section shall apply where a management corporation has, in accordance with section 34(3) of the Building Maintenance and Strata Management Act (Cap. 30C), passed a special resolution to accept —
 
-(a) of any land or part thereof, free from any encumbrances (except those created by statute and subsisting easements) so that such land or part thereof shall form part of the common property in favour of the subsidiary proprietors; or
+(a) a grant or transfer of any land (not being a lot within the parcel) which abuts the parcel, free from any encumbrances (except those created by statute and subsisting easements);
 
-(b) of any lot, including the undivided share in the common property appurtenant to that lot, free from any encum- brances (except those created by statute and subsisting easements) so that such lot shall form part of the common property in favour of the subsidiary proprietors of the other lots shown in the same registered strata title plan; except that the prior approval in writing of the relevant authority and the Registrar shall be obtained for the transfer of any lot for this purpose.
+(b) a grant or transfer of any lot, including the undivided share in the common property appurtenant to that lot, free from any encumbrances (except those created by statute and subsisting easements); or
+
+(c) a lease of land, not being a lot within the parcel, whether or not it abuts on the parcel, for the purpose of creating additional common property.
+
+[47/2004]
 
 (2) The transfer lodged for registration shall contain a request to the Registrar that such land or part thereof, or the lot transferred, as the case may be, be included as part of the common property.
 
-(3) Upon registration of such transfer the Registrar shall —
+(3) Upon registration of the transfer, the Registrar shall —
 
-(a) enter a memorial of the transfer on the folio of the land-register and the registered strata title plan comprising the parcel;
+(a) enter a memorial of the transfer on the folio of the land- register comprising the common property;
 
-(b) amend the registered strata title plan in such manner as the Registrar may think fit so as to show thereon the transferred land or part thereof or the lot transferred as forming part of the common property;
+(b) amend the relevant folios of the land-register and subsidiary strata land-register in such manner as the Registrar may think fit so as to show thereon the transferred land or part thereof or the lot transferred as forming part of the common property; and
 
-(c) in the case where the lot is transferred, delete the share value of that lot shown on the registered strata title plan and decrease the total number of share value equal to the aggregate share entitlement by amending such aggregate number shown on the registered strata title plan; and
+(c) where a lot is transferred, amend the relevant folios of the subsidiary strata land-register to decrease the aggregate share value by a number equivalent to the share value of that lot.
 
-(d) upon such amendment being made the Registrar shall notify the Commissioner of the aggregate share entitlement and the consequent share entitlement of each subsidiary proprietor.
+[37/2004]
 
 (4) Upon registration of the transfer by the Registrar —
 
-(a) the transferred land or the transferred lot, as the case may be, shall form part of the common property and the provisions of the Act applicable to common property as varied by this section shall apply to such transferred land or lot;
+(a) the transferred land or the transferred lot, as the case may be, shall form part of the common property and the provisions of this Act applicable to common property as varied by this section shall apply to such transferred land or lot;
 
-(b) the subsidiary proprietors shall hold the common property (including the transferred land or lot) as tenants-in-common in accordance with their respective share units as determined under subsection (3); and
+(b) the subsidiary proprietors shall hold the common property (including the transferred land or lot) as tenants-in-common in accordance with their respective share values as determined under subsection (3); and
 
 (c) without any further assurance the subsidiary proprietors shall hold the common property in the following manner:
 
@@ -35,4 +39,8 @@ Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (iv) if there is a subsisting registered mortgage, charge, lease or sub-lease or any other encumbrance on the lot of a subsidiary proprietor, the undivided share or shares in the transferred land or transferred lot forming the additional common property shall be held by the subsidiary proprietor of the said lot subject to the same mortgage, charge, lease or sub-lease or any other such subsisting encumbrance.
 
-[23/82]
+[23/82; 37/2004; 47/2004]
+
+(5) Any reference to a transfer or transferred land in this section shall include a lease of land referred to in subsection (1)(c).
+
+[47/2004]

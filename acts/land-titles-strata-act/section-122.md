@@ -1,9 +1,9 @@
 # 122. Issue of subsidiary certificate of title to registered lessee
 Part: PART VIII ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSUE OF SUBSIDIARY STRATA CERTIFICATES OF TITLE
 
-(1) A registered lessee may by an application in the prescribed form apply to the Registrar for the issue of a subsidiary certificate of title in respect of the registered leasehold estate to his flat.
+(1) A registered lessee may by an application in the approved form apply to the Registrar for the issue of a subsidiary certificate of title in respect of the registered leasehold estate to his flat.
 
-[16/87; S 143/89]
+[16/87; S 143/89; 42/2005]
 
 (2) The registered lessee shall at the time of making his application surrender his duplicate lease to the Registrar.
 
@@ -11,6 +11,6 @@ Part: PART VIII ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER 
 
 [16/87; S 143/89]
 
-(4) The subsidiary certificate of title shall be in the prescribed form and upon its issue any assurance or other dealing affecting the leasehold estate comprised therein shall be subject to the Land Titles Act (Cap. 157).
+(4) The subsidiary certificate of title shall be in the approved form and upon its issue any assurance or other dealing affecting the leasehold estate comprised therein shall be subject to the Land Titles Act (Cap. 157).
 
-[16/87; S 143/89]
+[16/87; S 143/89; 42/2005]

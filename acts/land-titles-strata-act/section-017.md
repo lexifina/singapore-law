@@ -1,5 +1,5 @@
 # 17. Easement of shelter
-Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+Part: PART III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
 (1) Every subsidiary proprietor is entitled to have his lot sheltered by all other parts of the subdivided building that are capable of affording shelter.
 

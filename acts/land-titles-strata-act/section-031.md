@@ -1,5 +1,5 @@
 # 31. Provisional lots
-Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+Part: PART III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
 (1) No assurance of any provisional lot for which a subsidiary strata certificate of title is issued shall be registered under this Act and the Registrar shall enter an appropriate caution on the relevant subsidiary strata certificate of title prohibiting any assurance of the provisional lot comprised therein from being registered.
 
@@ -15,6 +15,6 @@ Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (6) Except as provided in subsections (1), (2) and (3), the provisions of this Act relating to a lot shall apply in all respects to a provisional lot.
 
-(7) For the purposes of this section, ‘‘assurance’’ shall not include any mortgage or charge or any application for vesting made under this Act.
+(7) In this section, ‘‘assurance’’ shall not include any mortgage or charge or any application for vesting made under this Act.
 
 [16/87]

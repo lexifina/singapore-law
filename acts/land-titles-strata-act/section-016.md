@@ -1,5 +1,5 @@
 # 16. Easement of support
-Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+Part: PART III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
 (1) In respect of each lot there shall be implied —
 

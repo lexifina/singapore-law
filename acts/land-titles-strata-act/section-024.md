@@ -1,14 +1,16 @@
 # 24. Vesting of part of common property in Government for roads, streets, road reserves, road widening, drainage reserves or for any other public use as shown on plans approved by relevant authority
-Part: PART III RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
+Part: PART III RIGHTS AND OBLIGATIONS OF SUBSIDIARY PROPRIETOR
 
-(1) Where any part of land comprised in the common property of a parcel has been demarcated in any plan approved by the relevant authority for roads, streets, road reserves, road widening and drainage reserves or for any other public use, that part of the common property as demarcated for any of the above purposes shall become vested in the Government upon the lodgment of an instrument of vesting in the approved form by the public authority for registration with the Registrar.
+(1) Where any part of land comprised in the common property of a parcel has been demarcated in any plan approved by the relevant authority for roads, streets, road reserves, road widening and drainage reserves or for any other public use, that part of the common property as demarcated for any of the above purposes shall become vested in the Government upon the registration by the Registrar of an instrument of vesting in the approved form lodged by the public authority.
 
-(2) The Registrar, if satisfied that the instrument of vesting relates to part of the common property as shown in the plan approved by the relevant authority for any of the purposes mentioned in subsection
+[42/2005]
 
-(1) and that the instrument has been duly executed and certified by the public authority, shall, notwithstanding that any part of a building within one or more lots is erected on, over or under any part of such common property, register the instrument on the relevant folio of the land-register without production of the duplicate instrument.
+(2) The Registrar, if satisfied that the instrument of vesting relates to part of the common property as shown in the plan approved by the relevant authority for any of the purposes mentioned in subsection (1) and that the instrument has been duly executed and certified by the public authority, shall, notwithstanding that any part of a building within one or more lots is erected on, over or under any part of such common property, register the instrument on the relevant folio of the land-register without production of the duplicate instrument.
 
-(2A) Upon registration under subsection (2) the estate or interest in the part of the common property comprised in the instrument of vesting shall vest in the Government freed and discharged from all encumbrances and from any subsisting easements.
+(2A) Upon registration under subsection (2), the estate or interest in the part of the common property comprised in the instrument of vesting shall vest in the Government freed and discharged from all encumbrances and from any subsisting easements.
 
-(3) On registration of the instrument of vesting, the Registrar shall cancel the registration of any mortgage, charge or lease thereby overreached and make the appropriate entries in the registered strata title plan comprising the common property.
+(3) On registration of the instrument of vesting, the Registrar shall cancel the registration of any mortgage, charge or lease thereby overreached and make the appropriate notification on the relevant folio of the land-register comprising the common property.
+
+[37/2004]
 
 (4) The land thereby vested in the Government shall cease to be subject to the provisions of the Land Titles Act (Cap. 157) and the Registrar shall enter an appropriate notification to that effect on the relevant folio of the land-register, and create a new folio for the balance of the common property which remains vested in the subsidiary proprietors.
