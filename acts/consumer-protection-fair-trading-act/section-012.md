@@ -1,26 +1,34 @@
 # 12. Limitation period
 
-(1) No action under section 6 shall be commenced later than one year from —
+(1) No action under section 6 shall be commenced later than 2 years from —
 
 (a) the date of the occurrence of the last material event on which the action is based; or
 
 (b) the earliest date on which the consumer had knowledge that the supplier had engaged in the unfair practice to which the action relates, including —
 
-(i) in the case of an unfair practice referred to in section 4 (a) or (b) or involving any representation, 14 CAP. 52A (Fair Trading) 2004 Ed.
+(i) in the case of an unfair practice referred to in section 4(a) or (b) or involving any representation, act or omission that is false, deceptive or misleading, knowledge that the representation, act or omission is false, deceptive or misleading; and
 
-act or omission that is false, deceptive or misleading, knowledge that the representation, act or omission is false, deceptive or misleading; and
+(ii) in the case of an unfair practice referred to in section 4(c) or involving taking advantage of the consumer, knowledge that the supplier had taken advantage of him, whichever occurs later.
 
-(ii) in the case of an unfair practice referred to in section 4 (c) or involving taking advantage of the consumer, knowledge that the supplier had taken advantage of him, whichever occurs later.
+[15/2008]
 
-(2) No action under section 8 (6), (7) or (8) shall be commenced later than one year from the date of the failure to comply with the undertaking sought to be enforced.
+(2) No action under section 8(6), (7) or (8) shall be commenced later than one year from the date of the failure to comply with the undertaking sought to be enforced.
 
-(3) No action under section 9 shall be commenced later than one year from the date of the occurrence of the last material event on which the action is based.
+16 CAP. 52A (Fair Trading) 2009 Ed.
+
+(3) No action under section 9 shall be commenced later than 2 years —
+
+(a) from the date of the occurrence of the last material event on which the action is based; or
+
+(b) where the specified body alleges in the action that the supplier has engaged in an unfair practice in respect of any consumer, from the earliest date on which that consumer had knowledge that the supplier had engaged in the alleged unfair practice, as provided in subsection (1)(b), whichever occurs later.
+
+[15/2008]
 
 (4) No action under any regulations made under section 11 shall be commenced later than one year from the date of the cancellation of the contract.
 
-(5) Knowledge that any representation, act or omission did or did not, as a matter of law, involve an unfair practice is irrelevant for the purposes of subsection (1) (b).
+(5) Knowledge that any representation, act or omission did or did not, as a matter of law, involve an unfair practice is irrelevant for the purposes of subsection (1)(b).
 
-(6) For the purposes of subsection (1) (b), a consumer’s knowledge includes knowledge which he might reasonably have been expected to acquire from facts —
+(6) For the purposes of subsection (1)(b), a consumer’s knowledge includes knowledge which he might reasonably have been expected to acquire from facts —
 
 (a) observable or ascertainable by him; or
 
@@ -29,5 +37,3 @@ act or omission that is false, deceptive or misleading, knowledge that the repre
 (7) A consumer shall not be taken by virtue of subsection (6) to have knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
 
 (8) The Limitation Act (Cap. 163) shall apply (with the necessary modifications, including the modifications set out in the Fourth Schedule) to actions referred to in this section as if such actions were actions for which a period of limitation is prescribed in Part II of the Limitation Act.
-
-2004 Ed. (Fair Trading) CAP. 52A 15

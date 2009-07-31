@@ -13,5 +13,3 @@
 (i) the employee’s employment with the person; or
 
 (ii) the agent exercising the powers or performing the duties on behalf of the person within the scope of the agent’s actual or apparent authority.
-
-6 CAP. 52A (Fair Trading) 2004 Ed.

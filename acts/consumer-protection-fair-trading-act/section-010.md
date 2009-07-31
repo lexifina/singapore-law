@@ -10,6 +10,8 @@
 
 (2) The members of the Panel shall hold office for such period as may be determined by the Minister and shall, on ceasing to be a member, be eligible for reappointment.
 
+14 CAP. 52A (Fair Trading) 2009 Ed.
+
 (3) The Minister may, at any time, revoke the appointment of any member of the Panel without assigning any reason.
 
 (4) A member of the Panel may resign his office at any time by giving notice in writing to the Minister.
@@ -27,7 +29,5 @@
 (8) Subject to subsection (9), except insofar as may be necessary for the purposes of giving effect to any decision of the Panel, confidentiality shall be maintained in all proceedings conducted by the Panel.
 
 (9) The Chairman shall, as soon as practicable after the end of each calendar year, submit to the Minister an annual report on the activities of the Panel.
-
-2004 Ed. (Fair Trading) CAP. 52A 13
 
 (10) No action or proceedings shall lie against the Panel or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.

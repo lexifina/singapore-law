@@ -12,4 +12,4 @@ It is an unfair practice for a supplier, in relation to a consumer transaction â
 
 (ii) is not reasonably able to understand the character, nature, language or effect of the transaction or any matter related to the transaction; or
 
-(d) without limiting the generality of paragraphs (a) to (c), to do anything specified in the Second Schedule.
+(d) without limiting the generality of paragraphs (a), (b) and (c), to do anything specified in the Second Schedule.

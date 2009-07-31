@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 4 (d)
+Section 4(d)
 
 SPECIFIC UNFAIR PRACTICES
 
@@ -13,6 +13,12 @@ SPECIFIC UNFAIR PRACTICES
 4. Representing that goods have been used to an extent different from the fact or that they have a particular history or use if the supplier knows it is not so.
 
 5. Representing that goods or services are available or are available for a particular reason, for a particular price, in particular quantities or at a particular time if the supplier knows or can reasonably be expected to know it is not so, unless the representation clearly states any limitation.
+
+*Sub-paragraphs (h) and (i) of paragraph 2 will be deleted when section 8(b) and (c), respectively, of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
+
+2009 Ed. (Fair Trading) CAP. 52A 21
+
+SECOND SCHEDULE — continued
 
 6. Representing that a service, part, repair or replacement is needed or desirable if that is not so, or that a service has been provided, a part has been installed, a repair has been made or a replacement has been provided, if that is not so.
 
@@ -28,10 +34,6 @@ SPECIFIC UNFAIR PRACTICES
 
 12. Taking advantage of a consumer by exerting undue pressure or undue influence on the consumer to enter into a transaction involving goods or services.
 
-2004 Ed. (Fair Trading) CAP. 52A 19
-
-SECOND SCHEDULE — continued
-
 13. Representing in relation to a voucher that another supplier will provide goods or services at a discounted or reduced price if the supplier making the representation knows or ought to know that the other supplier will not do so.
 
 14. Making a representation that appears in an objective form such as an editorial, documentary or scientific report when the representation is primarily made to sell goods or services, unless the representation states that it is an advertisement or a promotion.
@@ -41,6 +43,10 @@ SECOND SCHEDULE — continued
 16. Representing the availability of facilities for repair of goods or of spare parts for goods if that is not the case.
 
 17. Offering gifts, prizes or other free items in connection with the supply of goods or services if the supplier knows or ought to know that the items will not be provided or provided as offered.
+
+22 CAP. 52A (Fair Trading) 2009 Ed.
+
+SECOND SCHEDULE — continued
 
 18. Representing that goods or services are available at a discounted price for a stated period of time if the supplier knows or ought to know that the goods or services will continue to be so available for a substantially longer period.
 

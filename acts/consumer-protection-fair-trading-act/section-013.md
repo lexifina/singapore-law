@@ -1,6 +1,8 @@
 # 13. No contracting out
 
-(1) The provisions of this Act shall prevail notwithstanding any agreement to the contrary and any term contained in a contract is void, if and to the extent that it is inconsistent with the provisions of this Act.
+(1) The provisions of this Act shall prevail notwithstanding any agreement to the contrary and any term contained in a contract 2009 Ed. (Fair Trading) CAP. 52A 17
+
+is void, if and to the extent that it is inconsistent with the provisions of this Act.
 
 (2) Any waiver or release given of any right, benefit or protection conferred under this Act shall be void.
 

@@ -1,6 +1,6 @@
 # THIRD SCHEDULE
 
-Section 10 (6)
+Section 10(6)
 
 CONSTITUTION AND PROCEEDINGS OF INJUNCTION PROPOSALS REVIEW PANEL
 
@@ -9,10 +9,6 @@ CONSTITUTION AND PROCEEDINGS OF INJUNCTION PROPOSALS REVIEW PANEL
 2. The Panel may meet for the purposes of its inquiry, adjourn or otherwise regulate the conduct of its inquiry as the members think fit.
 
 3. The Chairman may at any time summon a meeting of the Panel.
-
-20 CAP. 52A (Fair Trading) 2004 Ed.
-
-THIRD SCHEDULE — continued
 
 4. All members of the Panel shall vote on any question arising at the meeting (subject to any direction under paragraph 7) and such question shall be determined by a majority of votes.
 
@@ -26,7 +22,11 @@ THIRD SCHEDULE — continued
 
 (c) his possession or ownership of any property;
 
-(d) any direct or indirect relationship with a supplier or consumer affected by a proposal referred to in section 10 (5) (a); or
+(d) any direct or indirect relationship with a supplier or consumer affected by a proposal referred to in section 10(5)(a); or
+
+2009 Ed. (Fair Trading) CAP. 52A 23
+
+THIRD SCHEDULE — continued
 
 (e) his connection or association with any trade or consumer body.
 
