@@ -5,7 +5,9 @@ Part: PART VII SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
 
 (2) The employer of any person required to attend any training course under subsection (1) shall ensure that the person completes or has completed such safety and health training course before allowing that person to perform any work for which the training is required.
 
-(3) Any safety and health training course referred to in subsection (1) shall be conducted by an accredited training provider.
+(3) Any safety and health training course referred to in subsection
+
+(1) shall be conducted by an accredited training provider.
 
 (4) Notwithstanding that a person has completed such safety and health training course as is required under this section, the Commissioner may, if he thinks that a refresher course is necessary, issue a written direction requiring that person to attend another such training course.
 

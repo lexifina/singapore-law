@@ -5,15 +5,21 @@ Act
 7 of 2006
 Amended by
 S 72/2007
-REVISED EDITION 2007
-(31st July 2007)
+2007 Ed. Cap. 354A
+Amended by
+9 of 2008
+S 634/2007
+REVISED EDITION 2009
+(31st July 2009)
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
 THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
 PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2007
+2009
 
 
 
 An Act relating to the safety, health and welfare of persons at work in workplaces.
+
+[1st March 2006]

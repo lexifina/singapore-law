@@ -9,11 +9,11 @@ Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 (ii) the health hazards (if any) associated with the machinery, equipment or hazardous substance; and
 
-(iii) the information relating to and the results of any tests or examinations of the machinery, equipment or hazardous substance under paragraph (c) that are relevant to its safe use;
+(iii) the information relating to and the results of any examinations or tests of the machinery, equipment or hazardous substance under paragraph (c) that are relevant to its safe use;
 
 (b) that the machinery, equipment or hazardous substance is safe, and without risk to health, when properly used;
 
-(c) that the machinery, equipment or hazardous substance is tested and examined so as to comply with the obligation imposed by paragraph (b).
+(c) that the machinery, equipment or hazardous substance is examined and tested so as to comply with the obligation imposed by paragraph (b).
 
 (2) The duties imposed on any person specified in subsection (1) shall —
 
@@ -29,11 +29,11 @@ Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 (a) carries on the business of financing the acquisition of goods by others by means of such agreements; and
 
-(b) in the course of that business acquired his interest in the machinery or equipment supplied to the customer as a means of financing its acquisition by the customer from a third person (referred to in this subsection as the effective supplier), the effective supplier shall be treated for the purposes of this section as supplying the machinery or equipment to the customer instead of the ostensible supplier, and any duty imposed by subsection (1) on a supplier shall accordingly apply to the effective supplier, and not on the ostensible supplier.
+(b) in the course of that business acquired his interest in the machinery or equipment supplied to the customer as a means of financing its acquisition by the customer from a third person (referred to in this subsection as the effective supplier), the effective supplier shall be treated for the purposes of this section as supplying the machinery or equipment to the customer instead of the ostensible supplier, and any duty imposed by subsection (1) on a supplier shall accordingly apply to the effective supplier, and not to the ostensible supplier.
 
-(5) Where a person designs, manufactures or supplies any machinery, equipment or hazardous substance for use at work and does so for or to another on the basis of a written undertaking by that other to take specified steps sufficient to ensure, so far as is reasonably practicable, that the machinery, equipment or hazardous substance will be safe and without risk to health when properly used, the undertaking shall have the effect of relieving the first-mentioned person from the duty imposed by subsection (1) (b) to such extent as is reasonable having regard to the terms of the undertaking.
+(5) Where a person designs, manufactures or supplies any machinery, equipment or hazardous substance for use at work and does so for or to another on the basis of a written undertaking by that other to take specified steps sufficient to ensure, so far as is reasonably practicable, that the machinery, equipment or hazardous substance will be safe and without risk to health when properly used, the undertaking shall have the effect of relieving the first-mentioned person from the duty imposed by subsection (1)(b) to such extent as is reasonable having regard to the terms of the undertaking.
 
-(6) Any person required under subsection (1) (c) to ensure that any machinery, equipment or hazardous substance is examined and tested so as to comply with the obligation imposed by subsection (1) (b) shall be regarded as having complied with subsection (1) (c) to the extent that —
+(6) Any person required under subsection (1)(c) to ensure that any machinery, equipment or hazardous substance is examined and tested so as to comply with the obligation imposed by subsection (1)(b) shall be regarded as having complied with subsection (1)(c) to the extent that —
 
 (a) the examination or test has already been carried out otherwise than by, or on behalf of, the person; and
 
@@ -43,4 +43,4 @@ Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 (8) In this section, ‘‘supplier’’, in relation to any machinery, equipment or hazardous substance, does not include a manufacturer of those items when supplying, but includes an importer when supplying those items.
 
-(9) This section shall apply only to machinery, equipment or hazardous substance specified in the Fifth Schedule.
+(9) This section shall apply only to machinery, equipment or hazardous substances specified in the Fifth Schedule.

@@ -15,7 +15,7 @@ Part: PART II INTERPRETATION
 
 (d) any vessel in which any substance in the form of solid or liquid is stored and from which it is forced by compressed air;
 
-‘‘approved code of practice’’ means any code of practice issued or approved under section 39, and includes any such code of practice as amended from time to time under that section;
+‘‘approved code of practice’’ means any code of practice issued or approved under section 40B, and includes any such code of practice as amended from time to time under that section;
 
 ‘‘at work’’ means —
 
@@ -51,7 +51,7 @@ Part: PART II INTERPRETATION
 
 (a) the whole or any part of any house or any other structure, whether used for the purpose of human habitation or otherwise; and
 
-(b) any structure, support or foundation connected to the house or structure in paragraph (a);
+(b) any structure, support or foundation connected to the house or structure referred to in paragraph (a);
 
 ‘‘building operation’’ means —
 
@@ -73,6 +73,8 @@ Part: PART II INTERPRETATION
 
 (b) to do any work for gain or reward, in connection with any trade, business, profession or undertaking carried on by the principal;
 
+‘‘Council’’ means the Workplace Safety and Health Council established under section 39;
+
 ‘‘dangerous occurrence’’ means any occurrence which is specified in the Second Schedule;
 
 ‘‘Deputy Commissioner’’ means a Deputy Commissioner for Workplace Safety and Health appointed under section 7;
@@ -89,7 +91,7 @@ Part: PART II INTERPRETATION
 
 (b) includes pipes and appliances used in carrying any gas to the place where the gas is to be used;
 
-‘‘inspector’’ means an inspector appointed under section 7 (3) and includes the Commissioner and any Deputy Commissioner;
+‘‘inspector’’ means an inspector appointed under section 7(3) and includes the Commissioner and any Deputy Commissioner;
 
 ‘‘lift’’ includes any lifting appliance or lifting machine used for carrying persons, whether together with goods or otherwise;
 
@@ -135,7 +137,7 @@ Part: PART II INTERPRETATION
 
 (b) the person who would so receive the rents or profits if the premises were leased;
 
-‘‘premises’’ includes any place whether enclosed or built on or not, whether situated underground or under water and, in particular, includes —
+‘‘premises’’ includes any place whether enclosed or built on or not, whether situated underground or underwater and, in particular, includes —
 
 (a) any building, vehicle, vessel or aircraft;
 
@@ -179,7 +181,7 @@ Part: PART II INTERPRETATION
 
 (a) constructed with a permanent outlet into the atmosphere or into a space where the pressure does not exceed atmospheric pressure; and
 
-(b) through which steam is passed at atmospheric pressure, or at approximately that pressure for the purpose of heating, boiling, drying, evaporating or similar purpose;
+(b) through which steam is passed at atmospheric pressure, or at approximately that pressure for the purpose of heating, boiling, drying, evaporating or a similar purpose;
 
 ‘‘steam receiver’’ means any vessel or apparatus (other than a steam boiler, steam container, steam pipe or coil or a part of a prime mover) used for containing steam under pressure greater than atmospheric pressure;
 
@@ -198,6 +200,8 @@ Part: PART II INTERPRETATION
 ‘‘workplace safety and health co-ordinator’’ means a workplace safety and health co-ordinator appointed under section 28;
 
 ‘‘workplace safety and health officer’’ means a workplace safety and health officer appointed under section 28.
+
+[9/2008]
 
 (2) For the purposes of this Act —
 

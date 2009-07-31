@@ -17,11 +17,11 @@ Part: PART XI GENERAL
 
 (v) the issuance of a certificate of registration of a factory or a factory permit in lieu of such a certificate;
 
-(vi) the duration of the certificate of registration or factory permit;
+(vi) the duration of a certificate of registration of a factory or factory permit;
 
 (vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a factory permit is issued;
 
-(viii) the circumstances under which a certificate of registration or factory permit may be renewed, extended or revoked;
+(viii) the circumstances under which a certificate of registration of a factory or a factory permit may be renewed, extended or revoked;
 
 (ix) the imposition of any duty on the occupier of a factory to provide such information to the Commissioner with respect to any change in any matter in relation to the factory;
 
@@ -103,7 +103,7 @@ Part: PART XI GENERAL
 
 (ix) work involving the use of visual display units;
 
-(x) work involving a steam boiler, steam receiver or air receiver; and
+(x) work involving a steam boiler, a steam receiver or an air receiver; and
 
 (xi) any other process, work or operation —
 
@@ -115,13 +115,17 @@ Part: PART XI GENERAL
 
 (v) the implementation of any safety and health management system and the duties of any occupier, employer or any other person in relation to the implementation of the safety and health management system;
 
+(va) in relation to the Council, the payment of allowances to a member of the Council who is not a public servant;
+
 (w) the prescribing of anything that is required or permitted to be prescribed under this Act.
+
+[9/2008]
 
 (3) The regulations made under this section may prescribe offences in respect of the contravention of any provision thereof, and may prescribe that fines not exceeding $20,000 and imprisonment not exceeding 2 years may, on conviction, be imposed in respect of any such offence.
 
 (4) The regulations may impose duties on any person who has control or influence over any aspect of workplace safety or health, including but not limited to any occupier, owner, employer, manufacturer, designer or employed person.
 
-(5) Regulations made under subsection (2) (r) may, among other things —
+(5) Regulations made under subsection (2)(r) may, among other things —
 
 (a) prohibit the employment of, or modify or limit the hours of employment of, any person at work in connection with any manufacture, machinery, plant, process or description of work;
 
@@ -133,13 +137,13 @@ Part: PART XI GENERAL
 
 (e) prescribe the procedures to be undertaken before the work can be carried out.
 
-(6) Regulations made under subsection (2) (s) may —
+(6) Regulations made under subsection (2)(s) may —
 
 (a) require the medical supervision and medical examination under the regulations to be carried out by persons registered with the Commissioner; and
 
 (b) prescribe the qualifications and other conditions to be satisfied for such registration.
 
-(7) Regulations made under subsection (2) (t) may —
+(7) Regulations made under subsection (2)(t) may —
 
 (a) apply any of the provisions of this Act to the classes of premises, processes or operations referred to in that subsection;
 

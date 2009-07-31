@@ -13,9 +13,7 @@ Part: PART VII SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
 
 (c) to carry out from time to time inspections of the scene of any accident or dangerous occurrence in the interests of the safety and health of the employees;
 
-(d) to exercise such other functions and duties as may be prescribed or conferred on the committee under this Act;
-
-and
+(d) to exercise such other functions and duties as may be prescribed or conferred on the committee under this Act; and
 
 (e) such other functions as may be prescribed.
 

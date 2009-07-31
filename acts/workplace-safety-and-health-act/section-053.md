@@ -17,7 +17,7 @@ If any person —
 
 (g) wilfully connives at any of the matters referred to in paragraphs (a) to (f);
 
-(h) wilfully makes a false entry in any record, notice, certificate or document required by, under, or for the purposes of, this Act to be kept, served or sent;
+(h) wilfully makes a false entry in any record, certificate, notice or document required by, under, or for the purposes of, this Act to be kept, served or sent;
 
 (i) wilfully makes or signs a declaration required by, under, or for the purposes of, this Act which is false; or
 

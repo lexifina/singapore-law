@@ -7,9 +7,9 @@ Part: PART II INTERPRETATION
 
 ‘‘employer’’ means a person who, in the course of the person’s trade, business, profession or undertaking, employs any person to do any work under a contract of service.
 
-(2) For the purposes of this Act, any reference to an employee shall include a volunteer who —
+(2) For the purposes of this Act, any reference to an employee shall include a reference to a volunteer who —
 
-(a) does work for another person with the knowledge or consent of the other person; and
+(a) does work for another person with the knowledge or consent of that other person; and
 
 (b) does the work on an ongoing and regular basis for that other person, being work that is in connection with any trade, business, profession or undertaking carried on by that other person, and this Act shall apply —
 
@@ -19,7 +19,7 @@ Part: PART II INTERPRETATION
 
 (iii) as if the volunteer were at work when doing work for the other person.
 
-(3) For the purposes of this Act, any reference to an employee shall also include a person who is in a workplace for the purpose of receiving on the job training or gaining work experience, including under a rehabilitation scheme (referred to in this subsection as person A), and this Act shall apply —
+(3) For the purposes of this Act, any reference to an employee shall include a reference to a person who is in a workplace for the purpose of receiving on the job training or gaining work experience, including under a rehabilitation scheme (referred to in this subsection as person A), and this Act shall apply —
 
 (a) as if the person A were an employee of the person (referred to in this subsection as person B) who agreed to provide on the job training or work experience;
 

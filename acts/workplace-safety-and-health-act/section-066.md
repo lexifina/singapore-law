@@ -1,9 +1,9 @@
 # 66. Savings and transitional provisions
 Part: PART XI GENERAL
 
-(1) The person who, immediately before 1st March 2006, is the Chief Inspector shall be deemed to be the Commissioner for Workplace Safety and Health appointed under section 7 (1) of this Act, but his appointment as the Commissioner shall expire on the day his appointment as Chief Inspector would have expired if this Act had not been enacted.
+(1) The person who, immediately before 1st March 2006, is the Chief Inspector shall be deemed to be the Commissioner for Workplace Safety and Health appointed under section 7(1) of this Act, but his appointment as the Commissioner shall expire on the day his appointment as Chief Inspector would have expired if this Act had not been enacted.
 
-(2) Any person who, immediately before 1st March 2006, is an inspector or officer appointed under section 84 (1) of the repealed Act shall continue to hold such office as if he were appointed under section 7 (3) of this Act.
+(2) Any person who, immediately before 1st March 2006, is an inspector or officer appointed under section 84(1) of the repealed Act shall continue to hold such office as if he were appointed under section 7(3) of this Act.
 
 (3) Every person who, immediately before 1st March 2006, is —
 
@@ -48,7 +48,3 @@ Part: PART XI GENERAL
 (14) Any subsidiary legislation made under the repealed Act and in force immediately before 1st March 2006 shall, so far as it is not inconsistent with the provisions of this Act, continue in force in factories as if made under this Act until it is revoked or repealed.
 
 (15) Any written law or document referring to the repealed Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
-
-(16) For a period of 2 years after 1st March 2006, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the repealed Act, as he may consider necessary or expedient.
-
-[67

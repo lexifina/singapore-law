@@ -15,10 +15,10 @@ Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 (a) so far as is reasonably practicable, that the machinery is maintained in a safe condition; and
 
-(b) that the precautions (if any) to be taken for the safe use of the machinery and the health hazards (if any) associated with the machinery is available to any person using the machinery.
+(b) that the precautions (if any) to be taken for the safe use of the machinery and the health hazards (if any) associated with the machinery are available to any person using the machinery.
 
 (5) Where the owner of any machinery moved by mechanical power has entered into a contract of hire or lease with a hirer or lessee, the duty imposed under subsection (4) shall apply to the hirer or lessee of the machinery instead of the owner.
 
-(6) Where the owner, hirer or lessee of any machinery moved by mechanical power has entered into a contract with another person to maintain the machinery, the duty under subsection (4) (a) shall apply to that other person instead of the owner, hirer or lessee of the machinery.
+(6) Where the owner, hirer or lessee of any machinery moved by mechanical power has entered into a contract with another person to maintain the machinery, the duty under subsection (4)(a) shall apply to that other person instead of the owner, hirer or lessee of the machinery.
 
 (7) Subsections (1), (2) and (3) shall apply only to machinery or equipment specified in Part I of the Fifth Schedule.

@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 4 (1)
+Section 4(1)
 
 DANGEROUS OCCURRENCES
 

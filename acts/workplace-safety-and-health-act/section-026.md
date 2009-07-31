@@ -45,6 +45,6 @@ Part: PART VI INVESTIGATIONS, INQUIRIES AND REPORTING OF ACCIDENTS, DANGEROUS OC
 
 (b) prevents or impedes the Inquiry Committee in the execution of its duties, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-(8) It shall be a defence for a person charged with an offence under subsection (7) (a) to prove that he had a reasonable excuse for failing to comply with the summons, order or requisition of the District Judge.
+(8) It shall be a defence for a person charged with an offence under subsection (7)(a) to prove that he had a reasonable excuse for failing to comply with the summons, order or requisition of the District Judge.
 
 (9) The Minister may cause the report of the Inquiry Committee to be made public at such time and in such manner as he thinks fit.

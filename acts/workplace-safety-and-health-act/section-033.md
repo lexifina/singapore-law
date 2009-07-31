@@ -11,9 +11,7 @@ Part: PART VII SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
 
 (2) Upon receiving an application under subsection (1), the Commissioner may —
 
-(a) grant the approval applied for either unconditionally or subject to such conditions as the Commissioner thinks fit;
-
-or
+(a) grant the approval applied for either unconditionally or subject to such conditions as the Commissioner thinks fit; or
 
 (b) refuse the application.
 

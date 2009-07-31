@@ -25,11 +25,11 @@ Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 (c) all reports and particulars prepared in respect of the workplace under this Act.
 
-(4) Any occupier of a workplace shall ensure that such records referred to in subsection (3) shall —
+(4) Any occupier of a workplace shall —
 
-(a) be kept for not less than 5 years from the date the records were made or such other period as may be prescribed; and
+(a) ensure that the records referred to in subsection (3) shall be kept for not less than 5 years from the date the records were made or such other period as may be prescribed; and
 
-(b) whenever required to do so within that period, produce and make available to an inspector for inspection a copy of the record.
+(b) whenever required to do so within that period, produce and make available to an inspector for inspection a copy of the records.
 
 (5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 

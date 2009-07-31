@@ -55,7 +55,9 @@ Part: PART II INTERPRETATION
 
 (s) any premises which are used for the bulk storage of toxic or flammable liquid (excluding liquefied gas) in a container, not being an underground container, that has a storage capacity of not less than 5,000 cubic metres.
 
-(4) Where any person carries on any work referred to in subsection (2) or (3) in a workplace with the express or implied permission of, or under any agreement with, the occupier of the workplace, then, notwithstanding that the person is not an employee of the occupier of the workplace —
+(4) Where any person carries on any work referred to in subsection
+
+(2) or (3) in a workplace with the express or implied permission of, or under any agreement with, the occupier of the workplace, then, notwithstanding that the person is not an employee of the occupier of the workplace —
 
 (a) the workplace shall be treated as a factory for the purposes of this Act; and
 

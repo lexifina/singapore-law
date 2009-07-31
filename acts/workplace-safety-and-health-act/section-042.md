@@ -19,7 +19,7 @@ Part: PART IX INSPECTIONS AND OTHER POWERS OF ENFORCEMENT
 
 (c) to submit one part to the Health Sciences Authority, or any testing laboratory as the Commissioner may appoint, for analysis.
 
-(3) A certificate purporting to be a certificate by an analyst employed by the Health Sciences Authority or the testing laboratory appointed by the Commissioner under subsection (2) (c) as to the result of an analysis of a sample under this section shall be admissible in any proceedings under this Act as evidence of the matters stated therein, but either party may require the person by whom the analysis was made to be called as a witness.
+(3) A certificate purporting to be a certificate by an analyst employed by the Health Sciences Authority or the testing laboratory appointed by the Commissioner under subsection (2)(c) as to the result of an analysis of a sample under this section shall be admissible in any proceedings under this Act as evidence of the matters stated therein, but either party may require the person by whom the analysis was made to be called as a witness.
 
 (4) No person shall interfere with any equipment, instrument or device used for monitoring the workplace or taking samples for analysis.
 

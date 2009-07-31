@@ -1,44 +1,28 @@
-# 39. Codes of practice
-Part: PART VIII CODES OF PRACTICE
+# 39. Establishment of Workplace Safety and Health Council
+Part: PART VIII WORKPLACE SAFETY AND HEALTH COUNCIL
 
-(1) For the purpose of providing practical guidance with respect to the requirements of this Act relating to safety, health and welfare at work, the Commissioner may, from time to time, do all or any of the following:
+(1) There shall be a Workplace Safety and Health Council consisting of the following members, each of whom shall be appointed by the Minister in accordance with this section:
 
-(a) issue one or more codes of practice, which may include any code of practice issued or approved under another written law if he considers that code of practice suitable for this purpose;
+(a) a chairman;
 
-(b) approve as a code of practice any document prepared by any person other than the Commissioner if the Commissioner considers the document as a suitable document for this purpose;
+(b) a deputy chairman; and
 
-(c) amend or revoke any code of practice issued or approved under this section.
+(c) at least 10 but not more than 18 other members.
 
-(2) The power of the Commissioner under subsection (1) (a) or (b) to issue or approve a code of practice that is either a code of practice issued or approved under another written law or a document prepared by a person other than the Commissioner shall include the power to issue or approve a part of such a code of practice or document.
+[9/2008]
 
-(3) Where a code of practice is issued, approved, amended or revoked by the Commissioner under subsection (1), the Commissioner shall —
+(2) The chairman, the deputy chairman and every member of the Council shall be appointed for a term not exceeding 3 years and shall be eligible for reappointment.
 
-(a) publish a notice of the issue, approval, amendment or revocation, as the case may be, of the code of practice in such manner as will secure adequate publicity for such issue, approval, amendment or revocation;
+[9/2008]
 
-(b) specify in the notice referred to in paragraph (a) —
+(3) The Minister may, at any time, revoke the appointment of the chairman, the deputy chairman or any member of the Council.
 
-(i) the date of issue, approval, amendment or revocation, as the case may be;
+[9/2008]
 
-(ii) the class of hazards, activities or articles in respect of which the code of practice is issued, approved, amended or revoked; and
+(4) If any member of the Council dies, resigns or is removed from office, the Minister may appoint any person to fill the vacancy and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
 
-(iii) the place at and the time during which the code of practice which is the subject of the notice may be inspected; and
+[9/2008]
 
-(c) ensure that, so long as the code of practice remains in force, copies of that code, and of all amendments to that code, are available —
+(5) The powers of the Council shall not be affected by any vacancy in the membership thereof.
 
-(i) for inspection by members of the public free of charge;
-
-and
-
-(ii) for purchase by members of the public at a reasonable price.
-
-(4) No code of practice, no amendment to an approved code of practice, and no revocation of any such approved code of practice, shall have any force or effect as an approved code of practice until the notice relating thereto is published in accordance with subsection (3).
-
-(5) An approved code of practice that is also either a code of practice issued or approved under another written law or a document prepared by a person other than the Commissioner shall consist of the contents of that code or document as that code or document existed on the date it was issued or approved as an approved code of practice under this section.
-
-(6) If any provision of any approved code of practice is inconsistent with any provision of this Act, such provision, to the extent of the inconsistency —
-
-(a) shall have effect subject to the provisions of this Act; or
-
-(b) having regard to the provisions of this Act, shall not have effect.
-
-(7) Any approved code of practice shall not have legislative effect.
+[9/2008]

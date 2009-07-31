@@ -11,13 +11,15 @@ and
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(3) Where an offence under this Act is committed by a partnership, a partner of the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+(3) Where an offence under this Act is committed by a partnership of individuals or bodies corporate, any partner of the partnership or any officer of the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
 (a) the offence was committed without his consent or connivance;
 
 and
 
 (b) he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+
+[9/2008]
 
 (4) Where an offence under this Act is committed by an unincorporated association (other than a partnership), any officer of the unincorporated association or member of its governing body shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 

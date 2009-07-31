@@ -1,6 +1,6 @@
 # SIXTH SCHEDULE
 
-Sections 27 (2) and 62 (1)
+Sections 27(2) and 62(1)
 
 EXEMPT PERSONS AT WORK
 

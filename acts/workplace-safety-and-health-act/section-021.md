@@ -3,7 +3,7 @@ Part: PART V POWERS OF COMMISSIONER
 
 (1) This section shall apply if the Commissioner is satisfied that —
 
-(a) any workplace is in such condition, or is so located, or any part of the machinery, equipment, plant or article in the workplace is so used, that any process or work carried on in the workplace cannot be carried on with due regard to the safety, health and welfare of persons at work;
+(a) any workplace is in such condition, or is so located, or any part of the machinery, equipment, plant or article in the workplace is so used, that any work or process carried on in the workplace cannot be carried on with due regard to the safety, health and welfare of persons at work;
 
 (b) any person has contravened any duty imposed by this Act; or
 
@@ -11,7 +11,7 @@ Part: PART V POWERS OF COMMISSIONER
 
 (2) Where this section applies, the Commissioner may serve a remedial order or a stop-work order in respect of a workplace on —
 
-(a) any person who is in control of the workplace, or the process or work carried out in the workplace;
+(a) any person who is in control of the workplace, or the work or process carried out in the workplace;
 
 (b) any person whose duty under this Act is to ensure the safety, health and welfare of any person at work in the workplace;
 
@@ -27,7 +27,7 @@ or
 
 (ii) to comply with any duty imposed under this Act; or
 
-(iii) to do or refrain from doing any act referred to in subsection (1) (c); and
+(iii) to do or refrain from doing any act referred to in subsection (1)(c); and
 
 (b) specify the date on which it is to take effect and the period (which shall run from the date the remedial order takes effect) within which any step required by the order shall be taken.
 
@@ -59,4 +59,4 @@ or
 
 (9) Any costs and expenses incurred by the Commissioner under subsection (8) may be recovered as a debt due to the Government from the person served with the remedial order or stop-work order.
 
-(10) Where the Commissioner has taken measures under subsection (8) (b) in respect of any area or machinery, equipment, plant or article, any person who, knowing that such measures have been taken, enters that area or gains access to that machinery, equipment, plant or article without the authorisation of the Commissioner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+(10) Where the Commissioner has taken measures under subsection (8)(b) in respect of any area or machinery, equipment, plant or article, any person who, knowing that such measures have been taken, enters that area or gains access to that machinery, equipment, plant or article without the authorisation of the Commissioner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.

@@ -23,6 +23,6 @@ For the avoidance of doubt, it is hereby declared that —
 
 (ix) an owner, a hirer or lessee of machinery moved by mechanical power or a person who maintains such machinery for use at work, and this Act may impose duties or liabilities on the person accordingly;
 
-(b) this Act may at any one time impose the same duty or liability on 2 or more persons, whether in the same capacity or different capacities; and
+(b) this Act may at any one time impose the same duty or liability on 2 or more persons, whether in the same capacity or in different capacities; and
 
 (c) a duty or liability imposed by this Act on any person is not diminished or affected by the fact that it is imposed on one or more other persons, whether in the same capacity or in different capacities.

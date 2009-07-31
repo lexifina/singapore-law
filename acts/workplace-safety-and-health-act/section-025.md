@@ -17,4 +17,4 @@ Part: PART VI INVESTIGATIONS, INQUIRIES AND REPORTING OF ACCIDENTS, DANGEROUS OC
 
 (4) Nothing in subsection (1) or (2) shall operate to interfere with rescue work or work necessary for the general safety of life and property.
 
-(5) Any person who contravenes subsection (1) and any occupier of the workplace who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) Any person who contravenes subsection (1) and any occupier of a workplace who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.

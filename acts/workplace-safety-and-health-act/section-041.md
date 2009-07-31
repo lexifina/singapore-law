@@ -29,9 +29,11 @@ Part: PART IX INSPECTIONS AND OTHER POWERS OF ENFORCEMENT
 
 (k) to take such photographs or video recording as he thinks necessary to record the conditions in a workplace and the processes carried on therein which may be dangerous to the safety or health of the persons at work therein;
 
-(l) to take into custody any article in the workplace which is required for the purpose of an investigation or inquiry under this Act;
+(l) to require any person to produce any article which is relevant to any investigation or inquiry under this Act and, if necessary, to take into custody any such article;
 
 (m) to require any person whom he finds in the workplace to produce evidence of the person’s identity.
+
+[9/2008]
 
 (2) Any person who is found in a workplace shall render all necessary assistance and co-operation to the inspector as are necessary for an entry, inspection, examination, inquiry, the taking of samples or otherwise for the exercise of his powers under this Act in relation to that workplace.
 
