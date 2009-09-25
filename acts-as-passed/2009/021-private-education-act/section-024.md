@@ -1,0 +1,9 @@
+# 24. Transfer of employees
+Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
+Division: Division 5 — Transfer of property, assets, liabilities and employees
+
+(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in the transferred Division shall be transferred to the service of the Council on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+
+(2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Council under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
+
+(3) Until such time as terms and conditions of service are drawn up by the Council, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Council under subsection (1) as if he were still in the service of the Government.
