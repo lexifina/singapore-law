@@ -1,0 +1,8 @@
+# 167. Women and girls may be received into and detained in Singapore
+Part: PART XI OFFENCES AGAINST WOMEN AND GIRLS
+
+(1) Whenever the government of Malaysia, Brunei Darussalam or Hong Kong makes a representation to the Minister that it is expedient that any woman or girl whose detention in a place of safety has been ordered by the authority empowered by the law of such territory should be removed to Singapore for detention in a place of safety within Singapore, and satisfies the Minister that provision will be made for the payment of all expenses that may be incurred in the reception, maintenance and detention of, or otherwise in relation to, the woman or girl, the Minister, if it appears to him that there is sufficient accommodation for the woman or girl in a place of safety within Singapore, may by warrant under his hand in the prescribed form direct the woman or girl, when brought into Singapore, to be received therein and conveyed to a place of safety specified in such warrant and to be there detained until discharged in due course of law or until further order.
+
+(2) The representation mentioned in subsection (1) shall be delivered under the hand of the Minister or the officer for the time being charged with the responsibility for making such a representation on behalf of the government concerned.
+
+(3) Every warrant purporting to be issued in pursuance of this Part and to be under the hand of the Minister shall be received in evidence in every court without further proof and shall be evidence of the facts therein stated, and all acts done in pursuance of that warrant shall be deemed to have been authorised by law.
