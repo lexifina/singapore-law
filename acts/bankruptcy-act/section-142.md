@@ -1,11 +1,13 @@
 # 142. Failure to keep proper accounts of business
 Part: PART X BANKRUPTCY OFFENCES
 
-(1) A bankrupt shall be guilty of an offence if, having been engaged in any business within 2 years before the presentation of the bankruptcy petition by or against him, he has not —
+(1) A bankrupt shall be guilty of an offence if, having been engaged in any business within 2 years before the making of the bankruptcy application by or against him, he has not —
 
 (a) kept proper accounting records throughout that period and throughout any part of the initial period in which he was so engaged; or
 
 (b) preserved all the accounting records which he has kept.
+
+[42/2005]
 
 (2) For the purposes of this section, a person shall be deemed not to have kept proper accounting records if he has not kept such records as are necessary to show or explain his transactions and financial position in his business, including —
 

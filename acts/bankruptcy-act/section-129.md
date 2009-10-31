@@ -1,7 +1,7 @@
 # 129. Duties of bankrupt
 Part: PART IX DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 
-A bankrupt shall, in addition to any other duty specified in this Act —
+(1) A bankrupt shall, in addition to any other duty specified in this Act —
 
 (a) make discovery of and deliver all his property that is under his possession or control to the Official Assignee;
 
@@ -30,3 +30,17 @@ A bankrupt shall, in addition to any other duty specified in this Act —
 (m) generally do all such acts and things in relation to his property and the distribution of the proceeds among his creditors as may be reasonably required by the Official Assignee or prescribed by the rules or directed by the court by any order on any application by the Official Assignee or by any of his creditors; and
 
 (n) until he has been discharged from bankruptcy, keep the Official Assignee advised at all times of his place of residence or address.
+
+[6/2004]
+
+(2) Where a bankrupt has changed his residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201) —
+
+(a) he shall be deemed to have informed the Official Assignee of the change of his residential address in compliance with subsection (1)(n); and
+
+(b) the new residential address as reported by him under section 8 of the National Registration Act shall, unless he informs the Official Assignee in writing to the contrary, be deemed to be his last known address for the purpose of subsection (3).
+
+[6/2004]
+
+(3) Any notice or process given to or served upon the bankrupt at his last known address shall be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.
+
+[6/2004]

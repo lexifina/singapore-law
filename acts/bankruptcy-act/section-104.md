@@ -3,7 +3,9 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (1) This section shall apply where a person engaged in any business makes a general assignment to another person of his existing or future book debts, or any class of them, and is subsequently adjudged bankrupt.
 
-(2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the presentation of the bankruptcy petition, unless the assignment has been registered under the Bills of Sale Act (Cap. 24).
+(2) The assignment shall be void against the Official Assignee as regards book debts which were not paid before the making of the bankruptcy application, unless the assignment has been registered under the Bills of Sale Act (Cap. 24).
+
+[42/2005]
 
 (3) For the purposes of this section —
 

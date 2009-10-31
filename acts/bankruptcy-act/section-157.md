@@ -1,7 +1,7 @@
 # 157. Service of summons, notice, etc.
 Part: PART XI MISCELLANEOUS PROVISIONS
 
-(1) Where, by any provision of this Act or any rules made thereunder, any summons, notice or document is required or authorised to be served on any person, it may be served —
+(1) Where, by any provision of this Act, any summons, notice or document is required or authorised to be served on any person, it may be served —
 
 (a) by delivering it to him;
 

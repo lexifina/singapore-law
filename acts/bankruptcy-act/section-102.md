@@ -1,7 +1,7 @@
 # 102. Orders under sections 98 and 99
 Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
-(1) Without prejudice to the generality of sections 98 (2) and 99 (2), an order under either of those sections with respect to a transaction or preference entered into or given by an individual who is subsequently adjudged bankrupt may, subject to this section —
+(1) Without prejudice to the generality of sections 98(2) and 99(2), an order under either of those sections with respect to a transaction or preference entered into or given by an individual who is subsequently adjudged bankrupt may, subject to this section —
 
 (a) require any property transferred as part of the transaction, or in connection with the giving of the preference, to be vested in the Official Assignee;
 
@@ -21,13 +21,13 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (3) An order under section 98 or 99 shall not —
 
-(a) prejudice any interest in property which was acquired from a person other than that individual and was acquired in good faith, for value and without notice of the relevant circum- stances, or prejudice any interest deriving from such an interest; or
+(a) prejudice any interest in property which was acquired from a person other than that individual and was acquired in good faith, for value and without notice of the relevant circumstances, or prejudice any interest deriving from such an interest; or
 
 (b) require a person who received a benefit from the transaction or unfair preference in good faith, for value and without notice of the relevant circumstances to pay a sum to the Official Assignee, except where he was a party to the transaction or the payment is to be in respect of an unfair preference given to that person at a time when he was a creditor of that individual.
 
 (4) Any sums required to be paid to the Official Assignee in accordance with an order under section 98 or 99 shall be comprised in the bankrupt’s estate.
 
-(5) For the purposes of this section, the relevant circumstances, in relation to a transaction or unfair preference, shall be —
+(5) For the purposes of this section, the relevant circumstances, in relation to a transaction or an unfair preference, shall be —
 
 (a) the circumstances by virtue of which an order under section 98 or 99 could be made in respect of the transaction or preference if the individual in question were adjudged bankrupt within the particular period after the transaction is entered into or the unfair preference given; and
 

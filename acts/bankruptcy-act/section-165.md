@@ -5,7 +5,7 @@ Part: PART XI MISCELLANEOUS PROVISIONS
 
 (2) There shall be paid into the Fund —
 
-(a) all unclaimed moneys referred to in section 164 (3); and
+(a) all unclaimed moneys referred to in section 164(3); and
 
 (b) all costs and fees recovered by the Official Assignee in any proceedings taken under this Act in which moneys from the Fund were applied.
 
@@ -19,7 +19,7 @@ Part: PART XI MISCELLANEOUS PROVISIONS
 
 (d) for such other purposes as may be prescribed.
 
-(4) If any claimant makes any demand against the Official Assignee for any amount of unclaimed moneys paid into the Fund under subsection (2) (a), the Minister may direct that payment of that amount, free of interest, be made to the claimant out of the Consolidated Fund.
+(4) If any claimant makes any demand against the Official Assignee for any amount of unclaimed moneys paid into the Fund under subsection (2)(a), the Minister may direct that payment of that amount, free of interest, be made to the claimant out of the Consolidated Fund.
 
 (5) No moneys from the Fund shall be applied for any proceedings where, in the opinion of the Official Assignee, there is no reasonable ground for taking, defending, continuing or being a party to the proceedings or where there are sufficient moneys for such purpose in the bankrupt’s estate.
 

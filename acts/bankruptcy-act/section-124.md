@@ -5,7 +5,7 @@ Part: PART VIII ANNULMENT AND DISCHARGE
 
 (2) Every such application shall be served on each creditor who has filed a proof of debt and on the Official Assignee if he is not the applicant, and the court shall hear the Official Assignee and any creditor before making an order of discharge.
 
-(3) Subject to subsection (4) on an application under this section, the court may —
+(3) Subject to subsection (4), on an application under this section, the court may —
 
 (a) refuse to discharge the bankrupt from bankruptcy;
 
@@ -23,7 +23,7 @@ or
 
 (a) refuse to discharge the bankrupt from bankruptcy;
 
-(b) make an order discharging him subject to his paying a dividend to his creditors of not less than 25% or to the payment of any income which may be subsequently due to him or with respect to property devolving upon him, or acquired by him, after his discharge, as may be specified in the order and to such other conditions as the court may think fit to impose; or
+(b) make an order discharging him subject to his paying a dividend to his creditors of not less than 25% or to the payment of any income which may be subsequently due to him or with respect to property devolving upon him, or acquired by him, after his discharge, as may be specified in the order, and to such other conditions as the court may think fit to impose; or
 
 (c) if it is satisfied that the bankrupt is unable to fulfil any condition specified in paragraph (b) and if it thinks fit, make an order discharging the bankrupt subject to such conditions as the court may think fit to impose.
 
@@ -39,15 +39,15 @@ or
 
 (e) that the bankrupt has delayed or put any of his creditors to unnecessary expense by a frivolous or vexatious defence to any action or other legal proceedings properly brought or instituted against him;
 
-(f) that the bankrupt has within 3 months preceding the date of the bankruptcy order, when unable to pay his debts as they became due, given an undue preference to any of his creditors;
+(f) that the bankrupt has, within 3 months immediately preceding the date of the bankruptcy order, when unable to pay his debts as they became due, given an undue preference to any of his creditors;
 
-(g) that the bankrupt has, in Singapore or elsewhere on any previous occasion, been adjudged bankrupt or made a composition or arrangement with his creditors;
+(g) that the bankrupt has, in Singapore or elsewhere on any previous occasion, been adjudged bankrupt or made a composition or an arrangement with his creditors;
 
 (h) that the bankrupt has been guilty of any fraud or fraudulent breach of trust;
 
 (i) that the bankrupt has, within 3 months immediately preceding the date of the bankruptcy order, sent goods out of Singapore under circumstances which afford reasonable grounds for believing that the transaction was not a bona fide commercial transaction;
 
-(j) that the bankrupt’s assets are not of a value equal to 20% of the amount of his unsecured liabilities, unless he satisfies the court that the fact that the assets are not of a value equal to 20% of his unsecured liabilities has arisen from circum- stances for or in respect of which he cannot firstly be held blamable;
+(j) that the bankrupt’s assets are not of a value equal to 20% of the amount of his unsecured liabilities, unless he satisfies the court that the fact that the assets are not of a value equal to 20% of his unsecured liabilities has arisen from circumstances for or in respect of which he cannot firstly be held blamable;
 
 (k) that the bankrupt has entered into a transaction with any person at an undervalue within the meaning of section 98;
 

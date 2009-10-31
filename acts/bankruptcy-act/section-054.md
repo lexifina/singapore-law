@@ -11,15 +11,13 @@ Part: PART V VOLUNTARY ARRANGEMENTS Moratorium for insolvent debtor
 
 (a) revoke or suspend any approval given by the meeting;
 
-(b) direct any person to summon a further meeting of the debtor’s creditors to consider any revised proposal the debtor may make or, in a case falling within subsection (1) (b), to reconsider the original proposal of the debtor.
+(b) direct any person to summon a further meeting of the debtor’s creditors to consider any revised proposal the debtor may make or, in a case falling within subsection (1)(b), to reconsider the original proposal of the debtor.
 
 (3) No application under this section shall be made after 28 days from the date the report was made to the court under section 52.
 
-(4) Where at any time after giving a direction under subsection
+(4) Where at any time after giving a direction under subsection (2)(b) for the summoning of a meeting to consider a revised proposal the court is satisfied that the debtor does not intend to submit such a proposal, the court shall revoke the direction and revoke or suspend any approval given at the previous meeting.
 
-(2) (b) for the summoning of a meeting to consider a revised proposal the court is satisfied that the debtor does not intend to submit such a proposal, the court shall revoke the direction and revoke or suspend any approval given at the previous meeting.
-
-(5) Upon giving a direction under subsection (2) (b), the court may, if it thinks just, extend the validity of any interim order in relation to the debtor for such period as it may think fit.
+(5) Upon giving a direction under subsection (2)(b), the court may, if it thinks just, extend the validity of any interim order in relation to the debtor for such period as it may think fit.
 
 (6) Upon giving a direction or revoking or suspending an approval under this section, the court may give such supplemental directions as it may think fit and, in particular, directions with respect to —
 

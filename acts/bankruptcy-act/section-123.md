@@ -5,11 +5,13 @@ Part: PART VIII ANNULMENT AND DISCHARGE
 
 (a) on any ground existing at the time the order was made, the order ought not to have been made;
 
-(b) to the extent required by the rules, the debts which have been paid and the expenses of the bankruptcy have all, since the making of the order, either been paid or secured for to the satisfaction of the court;
+(b) to the extent required by the rules, both the debts and the expenses of the bankruptcy have all, since the making of the order, either been paid or secured for to the satisfaction of the court;
 
-(c) proceedings are pending in Malaysia for the distribution of the bankrupt’s estate and effects amongst the creditors under the bankruptcy law of Malaysia and that the distri- bution ought to take place there; or
+(c) proceedings are pending in Malaysia for the distribution of the bankrupt’s estate and effects amongst the creditors under the bankruptcy law of Malaysia and that the distribution ought to take place there; or
 
 (d) a majority of the creditors in number and value are resident in Malaysia, and that from the situation of the property of the bankrupt or for other causes his estate and effects ought to be distributed among the creditors under the bankruptcy law of Malaysia.
+
+[9/2003]
 
 (2) The court may annul a bankruptcy order whether or not the bankrupt has been discharged from the bankruptcy.
 

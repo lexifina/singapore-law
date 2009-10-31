@@ -3,17 +3,29 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (1) Subject to this section, the time at which an individual enters into a transaction at an undervalue or gives an unfair preference shall be a relevant time if the transaction is entered into or the preference given —
 
-(a) in the case of a transaction at an undervalue, within the period of 5 years ending with the day of the presentation of the bankruptcy petition on which the individual is adjudged bankrupt;
+(a) in the case of a transaction at an undervalue —
 
-(b) in the case of an unfair preference which is not a transaction at an undervalue and is given to a person who is an associate of the individual (otherwise than by reason only of being his employee), within the period of 2 years ending with that day;
+(i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 5 years before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
 
-and
+(ii) in any other case, within the period of 5 years ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt;
 
-(c) in any other case of an unfair preference which is not a transaction at an undervalue, within the period of 6 months ending with that day.
+(b) in the case of an unfair preference which is not a transaction at an undervalue and which is given to a person who is an associate of the individual (otherwise than by reason only of being his employee) —
 
-(2) Where an individual enters into a transaction at an under- value or gives an unfair preference at a time mentioned in subsection
+(i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 2 years before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
 
-(1) (a), (b) or (c), that time is not a relevant time for the purposes of sections 98 and 99 unless the individual —
+(ii) in any other case, within the period of 2 years ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
+
+(c) in any other case of an unfair preference which is not a transaction at an undervalue —
+
+(i) where the bankruptcy application on which the individual is adjudged bankrupt is based on a presumption referred to in section 62(d), within the period commencing 6 months before the day on which the relevant bankruptcy application is made and ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt; or
+
+(ii) in any other case, within the period of 6 months ending on the day of the making of the bankruptcy application on which the individual is adjudged bankrupt.
+
+[42/2005; 6/2009]
+
+(2) Where an individual enters into a transaction at an undervalue or gives an unfair preference at a time mentioned in subsection (1)(a),
+
+(b) or (c), that time is not a relevant time for the purposes of sections 98 and 99 unless the individual —
 
 (a) is insolvent at that time; or
 
@@ -26,3 +38,7 @@ and
 (a) he is unable to pay his debts as they fall due; or
 
 (b) the value of his assets is less than the amount of his liabilities, taking into account his contingent and prospective liabilities.
+
+(5) In this section, ‘‘relevant bankruptcy application’’ means the bankruptcy application made against an individual that resulted in the debt repayment scheme referred to in section 62(d) in respect of that individual.
+
+[6/2009]

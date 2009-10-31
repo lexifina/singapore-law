@@ -11,7 +11,9 @@ Part: PART III OFFICIAL ASSIGNEE
 
 (d) to issue forms of proxy for use at the meetings of creditors;
 
-(e) to report to the creditors as to any proposal which he makes with respect to the mode of liquidating the bankrupt’s affairs; and
+(e) to report to the creditors as to any proposal which he makes with respect to the mode of liquidating the bankrupt’s affairs;
+
+and
 
 (f) to advertise the bankruptcy order, the date of any public examination and such other matters as may be necessary to advertise.
 

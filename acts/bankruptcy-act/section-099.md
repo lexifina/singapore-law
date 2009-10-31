@@ -11,7 +11,7 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (b) the individual does anything or suffers anything to be done which (in either case) has the effect of putting that person into a position which, in the event of the individual’s bankruptcy, will be better than the position he would have been in if that thing had not been done.
 
-(4) The court shall not make an order under this section in respect of an unfair preference given to any person unless the individual who gave the preference was influenced in deciding to give it by a desire to produce in relation to that person the effect mentioned in subsection (3) (b).
+(4) The court shall not make an order under this section in respect of an unfair preference given to any person unless the individual who gave the preference was influenced in deciding to give it by a desire to produce in relation to that person the effect mentioned in subsection (3)(b).
 
 (5) An individual who has given an unfair preference to a person who, at the time the unfair preference was given, was an associate of his (otherwise than by reason only of being his employee) shall be presumed, unless the contrary is shown, to have been influenced in deciding to give it by such a desire as is mentioned in subsection (4).
 

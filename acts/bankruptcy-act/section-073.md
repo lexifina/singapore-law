@@ -1,7 +1,9 @@
 # 73. Appointment of interim receiver
-Part: PART VI PROCEEDINGS IN BANKRUPTCY Bankruptcy petitions and bankruptcy orders
+Part: PART VI PROCEEDINGS IN BANKRUPTCY Bankruptcy applications and bankruptcy orders
 
-(1) The court may, if it thinks it necessary or expedient for the protection of the debtor’s property, at any time after the presen- tation of a bankruptcy petition and before making a bankruptcy order, appoint the Official Assignee to be interim receiver of the debtor’s property or any part thereof and direct him to take immediate possession of the same, including any books of accounts and other documents relating to the debtor’s business.
+(1) The court may, if it thinks it necessary or expedient for the protection of the debtor’s property, at any time after the making of a bankruptcy application and before making a bankruptcy order, appoint the Official Assignee to be interim receiver of the debtor’s property or any part thereof and direct him to take immediate possession of the same, including any books of accounts and other documents relating to the debtor’s business.
+
+[42/2005]
 
 (2) Where the court has appointed an interim receiver under subsection (1), no person who is a creditor of the debtor in respect of a debt provable in bankruptcy shall —
 
@@ -15,7 +17,7 @@ Part: PART VI PROCEEDINGS IN BANKRUPTCY Bankruptcy petitions and bankruptcy orde
 
 (b) attend on the interim receiver at such times, as the interim receiver may for the purpose of carrying out his functions under this section reasonably require.
 
-(4) Upon the appointment of an interim receiver under this section, sections 83 and 84 shall apply, with the necessary modifi- cations, and any reference in those sections to —
+(4) Upon the appointment of an interim receiver under this section, sections 83 and 84 shall apply, with the necessary modifications, and any reference in those sections to —
 
 (a) the making of a bankruptcy order shall be read as a reference to the appointment of an interim receiver under this section;
 
@@ -25,8 +27,10 @@ Part: PART VI PROCEEDINGS IN BANKRUPTCY Bankruptcy petitions and bankruptcy orde
 
 (5) The Official Assignee shall cease to be the interim receiver of a debtor’s property if —
 
-(a) the bankruptcy petition presented against the debtor is dismissed or withdrawn;
+(a) the bankruptcy application made against the debtor is dismissed or withdrawn;
 
-(b) a bankruptcy order is made on the petition; or
+(b) a bankruptcy order is made on the application; or
 
 (c) the court by order terminates the appointment.
+
+[42/2005]

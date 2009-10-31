@@ -15,7 +15,9 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (i) no creditor to whom the bankrupt is indebted in respect of any debt provable in bankruptcy shall have any remedy against the person or property of the bankrupt in respect of that debt; and
 
-(ii) no action or proceedings shall be proceeded with or commenced against the bankrupt, except by leave of the court and in accordance with such terms as the court may impose.
+(ii) no action or proceedings shall be proceeded with or commenced against the bankrupt in respect of that debt, except by leave of the court and in accordance with such terms as the court may impose.
+
+[6/2009]
 
 (2) Where a bankruptcy order is made against a firm, the order shall operate as if it were a bankruptcy order made against each of the persons who, at the time of the order, is a partner in the firm.
 

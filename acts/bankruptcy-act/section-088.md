@@ -7,4 +7,6 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (a) is not a debt provable in bankruptcy; or
 
-(b) arises by reason of an obligation incurred at a time when the creditor had notice that a bankruptcy petition relating to the bankrupt was pending.
+(b) arises by reason of an obligation incurred at a time when the creditor had notice that a bankruptcy application relating to the bankrupt was pending.
+
+[42/2005]

@@ -3,7 +3,9 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (1) Demands in the nature of unliquidated damages arising otherwise than by reason of a contract, promise or breach of trust shall not be provable in bankruptcy.
 
-(2) A person having notice of the presentation of a bankruptcy petition shall not prove under the bankruptcy order made thereon for any debt or liability contracted by the bankrupt subsequently to the date of his so having notice.
+(2) A person having notice of the making of a bankruptcy application shall not prove under the bankruptcy order made thereon for any debt or liability contracted by the bankrupt subsequently to the date of his so having notice.
+
+[42/2005]
 
 (3) Subject to this section and section 90, any debt or liability to which the bankrupt —
 

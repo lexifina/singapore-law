@@ -5,7 +5,7 @@ Part: PART V VOLUNTARY ARRANGEMENTS Moratorium for insolvent debtor
 
 (2) No person shall be appointed as a nominee unless he is —
 
-(a) registered as a public accountant under the Accountants Act (Cap. 2A);
+(a) registered as a public accountant under the Accountants Act (Cap. 2);
 
 (b) an advocate and solicitor; or
 

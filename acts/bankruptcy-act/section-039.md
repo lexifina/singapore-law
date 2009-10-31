@@ -9,13 +9,15 @@ Part: PART IV TRUSTEE IN BANKRUPTCY
 
 (a) at any time require a trustee to answer any inquiry in relation to his administration of the estate of a bankrupt; and
 
-(b) also direct an investigation to be made of the books and vouchers of the trustee.
+(b) direct an investigation to be made of the books and vouchers of the trustee.
 
 (4) It shall be the duty of the trustee —
 
 (a) to furnish the Official Assignee with such information;
 
-(b) to produce to the Official Assignee, and permit inspection by the Official Assignee of, such books, papers and other records; and
+(b) to produce to the Official Assignee, and permit inspection by the Official Assignee of, such books, papers and other records;
+
+and
 
 (c) to give the Official Assignee such other assistance, as the Official Assignee may reasonably require for the purpose of enabling him to carry out his functions in relation to the bankruptcy.
 

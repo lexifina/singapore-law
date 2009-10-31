@@ -7,7 +7,9 @@ Part: PART V VOLUNTARY ARRANGEMENTS Moratorium for insolvent debtor
 
 (3) On hearing an application under subsection (2), the court may —
 
-(a) confirm, reverse or modify any act or decision of the nominee; or
+(a) confirm, reverse or modify any act or decision of the nominee;
+
+or
 
 (b) give such directions to the nominee or make such order as it thinks fit.
 

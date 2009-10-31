@@ -15,6 +15,6 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (5) A person settled upon such list under this section may apply to the court in a summary way for leave to dispute his indebtedness or the amount thereof.
 
-(6) The court may if it thinks fit make such order for determining the question as may seem expedient upon the terms of the person giving security for costs and either paying into court or giving security for the whole or such part of the alleged debt as under the circum- stances may seem reasonable, and may stay all further proceedings.
+(6) The court may if it thinks fit make such order for determining the question as may seem expedient upon the terms of the person giving security for costs and either paying into court or giving security for the whole or such part of the alleged debt as under the circumstances may seem reasonable, and may stay all further proceedings.
 
 Proof of debts

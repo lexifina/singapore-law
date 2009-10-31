@@ -3,11 +3,13 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (1) The right of any landlord or other person to whom rent is payable to distrain upon the goods and effects of a bankrupt for rent due to him from the bankrupt shall, subject to subsection (5), be available against goods and effects comprised in the bankrupt’s estate in respect only of 3 months’ rent accrued due before the commencement of the bankruptcy.
 
-(2) Where a landlord or other person to whom rent is payable has distrained for rent upon the goods and effects of an individual to whom a bankruptcy petition relates and a bankruptcy order is subsequently made on that petition, any amount recovered by way of that distress which —
+(2) Where a landlord or other person to whom rent is payable has distrained for rent upon the goods and effects of an individual to whom a bankruptcy application relates and a bankruptcy order is subsequently made on that application, any amount recovered by way of that distress which —
 
 (a) is in excess of the amount which by virtue of subsection (1) would have been recoverable after the commencement of the bankruptcy; or
 
 (b) is in respect of rent for a period or part thereof after the distress was levied, shall be held by the landlord or other person in trust for the bankrupt as part of his estate and the landlord or other person shall, upon being given notice by the Official Assignee to do so, make over to the Official Assignee the amount so held in trust by him for the bankrupt.
+
+[42/2005]
 
 (3) Where any person (whether or not a landlord or person entitled to rent) has distrained upon the goods or effects of an individual who is adjudged bankrupt before the end of the period of 3 months beginning with the distraint, so much of those goods or effects, or of the proceeds of their sale, as is not held by him in trust for the bankrupt under subsection (2) shall be charged for the benefit of the bankrupt’s estate with the preferential debts of the bankrupt to the extent that the bankrupt’s estate is for the time being insufficient for meeting those debts.
 

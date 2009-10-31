@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Section 167 (2)
+Section 167(2)
 
 TRANSITIONAL PROVISIONS AND SAVINGS
 
@@ -36,11 +36,11 @@ Application of section 148 to existing estates of deceased debtors 3.—(1) Wher
 
 THE SCHEDULE — continued
 
-Offences committed before 15th July 1995 4. Where a bankruptcy order is made under this Act on or after 15th July 1995 on a petition to which paragraph 2 (1) or (2) applies, a person shall not be guilty of an offence under Part X of this Act in respect of anything done before that date; but shall be guilty of an offence under the repealed Act in respect of anything done before that date which would have been an offence under that Act if the making of the bankruptcy order had been the making of a receiving order or an adjudication order under that Act.
+Offences committed before 15th July 1995 4. Where a bankruptcy order is made under this Act on or after 15th July 1995 on a petition to which paragraph 2(1) or (2) applies, a person shall not be guilty of an offence under Part X of this Act in respect of anything done before that date; but shall be guilty of an offence under the repealed Act in respect of anything done before that date which would have been an offence under that Act if the making of the bankruptcy order had been the making of a receiving order or an adjudication order under that Act.
 
 Schedule to be without prejudice to section 166 5.—(1) This Schedule shall be without prejudice to the power conferred by this Act under which rules under section 166 of this Act may make transitional provision in connection with the coming into force of those rules; and such provision may apply those rules in relation to a bankruptcy notwithstanding that it arose from a petition presented before either the coming into force of the rules or 15th July 1995.
 
-(2) Rules made under section 166 of this Act may provide for such notices served before 15th July 1995 as may be prescribed to be treated for the purposes of this Act as statutory demands served under section 62 (a) (i) of this Act.
+(2) Rules made under section 166 of this Act may provide for such notices served before 15th July 1995 as may be prescribed to be treated for the purposes of this Act as statutory demands served under section 62(a)(i) of this Act.
 
 Transactions before 15th July 1995 6.—(1) A transaction entered into before 15th July 1995 shall not be set aside under this Act except to the extent that it could have been set aside under the law in force immediately before that date.
 

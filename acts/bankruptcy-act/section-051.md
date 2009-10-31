@@ -9,7 +9,7 @@ Part: PART V VOLUNTARY ARRANGEMENTS Moratorium for insolvent debtor
 
 (4) No modification under subsection (3) shall alter the proposal to such an extent that it ceases to be a proposal for a voluntary arrangement by the debtor.
 
-(5) The meeting shall not approve any proposal or any modifi- cation thereto which affects the right of a secured creditor of the debtor to enforce his security, except with the concurrence of the secured creditor concerned.
+(5) The meeting shall not approve any proposal or any modification thereto which affects the right of a secured creditor of the debtor to enforce his security, except with the concurrence of the secured creditor concerned.
 
 (6) The meeting shall not, without the concurrence of the preferential creditor concerned, approve any proposal or any modification thereto under which —
 

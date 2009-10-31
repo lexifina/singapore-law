@@ -41,7 +41,7 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (9) The court may —
 
-(a) on application by any person either claiming any interest in any disclaimed property or under any liability not discharged by this Act in respect of any disclaimed property;
+(a) on an application by any person either claiming any interest in any disclaimed property or under any liability not discharged by this Act in respect of any disclaimed property;
 
 (b) on hearing such persons as the court may think fit; and
 
@@ -55,7 +55,9 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (10) On the vesting order being made under subsection (9), the property comprised therein shall vest accordingly in the person therein named in that behalf, without any conveyance or assignment for the purpose.
 
-(11) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy petition was presented.
+(11) Where the property disclaimed is of a leasehold nature, the court shall not make a vesting order in favour of any person claiming under the bankrupt, whether as under-lessee or as mortgagee by demise, except upon the terms of making the person subject to the same liabilities and obligations as the bankrupt was subject to under the lease in respect of the property at the date when the bankruptcy application was made.
+
+[42/2005]
 
 (12) Any mortgagee or under-lessee declining to accept a vesting order upon those terms shall be excluded from all interest in and security upon the property.
 

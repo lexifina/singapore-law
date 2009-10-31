@@ -7,4 +7,4 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (b) pay and make over to the Official Assignee so much of such moneys and property as have not been expended in the necessary expenses of maintenance of himself and his family.
 
-(2) A bankrupt who fails to comply with subsection (1) (a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
+(2) A bankrupt who fails to comply with subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.

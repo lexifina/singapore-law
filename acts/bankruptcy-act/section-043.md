@@ -9,7 +9,9 @@ Part: PART IV TRUSTEE IN BANKRUPTCY
 
 (2) Upon hearing an application made under subsection (1), the court may, for the benefit of the estate, order the trustee to —
 
-(a) repay, restore or account for any money or other property (together with interest at such rate as the court may think just); or
+(a) repay, restore or account for any money or other property (together with interest at such rate as the court may think just);
+
+or
 
 (b) pay such sum by way of compensation in respect of the misfeasance or breach of fiduciary or other duty as the court may think just.
 

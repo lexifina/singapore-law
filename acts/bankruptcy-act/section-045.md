@@ -9,15 +9,19 @@ Part: PART V VOLUNTARY ARRANGEMENTS Moratorium for insolvent debtor
 
 (a) where the interim order is in respect of an individual debtor —
 
-(i) no bankruptcy petition may be presented or proceeded with against the debtor; and
+(i) no bankruptcy application may be made or proceeded with against the debtor; and
 
-(ii) no other proceedings, execution or other legal process may be commenced or continued against the person or property of the debtor without the leave of the court; and
+(ii) no other proceedings, execution or other legal process may be commenced or continued against the person or property of the debtor without the leave of the court;
+
+and
 
 (b) where the interim order is in respect of a firm —
 
-(i) no bankruptcy petition may be presented or proceeded with against the firm or, except with the leave of the court, any partner therein; and
+(i) no bankruptcy application may be made or proceeded with against the firm or, except with the leave of the court, any partner therein; and
 
 (ii) no other proceedings, execution or other legal process may be commenced or continued against the firm or its property or against the person or property of any partner in the firm, without the leave of the court.
+
+[42/2005]
 
 (4) An interim order shall cease to have effect 42 days after the making thereof unless the court otherwise directs.
 

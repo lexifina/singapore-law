@@ -17,7 +17,7 @@ and
 
 (2) Every person summoned before the court under this section shall be examined on oath, whether orally or by interrogatories.
 
-(3) Without prejudice to subsection (2), the court may at any time require any person mentioned in subsection (1) (b) to submit an affidavit to the court containing an account of his dealings with the bankrupt or to produce any documents in his possession or under his control relating to the bankrupt or the bankrupt’s affairs, dealings or property.
+(3) Without prejudice to subsection (2), the court may at any time require any person mentioned in subsection (1)(b) to submit an affidavit to the court containing an account of his dealings with the bankrupt or to produce any documents in his possession or under his control relating to the bankrupt or the bankrupt’s affairs, dealings or property.
 
 (4) The court may adjourn any examination under this section from time to time.
 
@@ -29,9 +29,13 @@ and
 
 (8) It shall be the duty of the bankrupt and any other person summoned by the court under this section to answer all such questions as the court puts or allows to be put to him.
 
-(9) The court shall cause to be taken down in writing such notes of the examination as the court thinks proper and any notes so taken down shall be read over to and signed by the person in the course of whose examination they were taken down, and may thereafter be used in evidence against such person.
+(9) The court shall cause to be made such record of the examination as the court thinks proper and any record so made may thereafter be used in evidence against the person in the course of whose examination the record was made.
 
-(10) Any notes of examination taken down by the court under subsection (9) shall, at all reasonable times, be open to the inspection of any creditor, upon payment of the prescribed fee.
+[17/2005]
+
+(10) Any record made under subsection (9) shall, at all reasonable times and upon payment of the prescribed fee, be made available to any creditor for review at the court premises.
+
+[17/2005]
 
 (11) Where the court is of the opinion that the affairs of the bankrupt have been sufficiently investigated, it shall, by order, conclude the examination.
 
@@ -43,9 +47,7 @@ and
 
 (a) any person arrested under subsection (13) to be kept in custody; and
 
-(b) anything seized from such person to be held,
-
-until that person is brought before the court or until such other time as the court may order.
+(b) anything seized from such person to be held, until that person is brought before the court or until such other time as the court may order.
 
 (15) Where a bankrupt or any other person summoned by the court under this section without reasonable excuse fails at any time to attend before the court, he shall be guilty of a contempt of court and shall be liable to be punished accordingly in addition to any other punishment to which he may be subject.
 

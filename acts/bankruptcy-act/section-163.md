@@ -1,10 +1,12 @@
 # 163. List of undischarged bankrupts to be kept
 Part: PART XI MISCELLANEOUS PROVISIONS
 
-(1) A list of undischarged bankrupts shall be kept by the Official Assignee and shall be published in the Gazette at such times as the Minister may direct, but not less than once in each year.
+(1) The Official Assignee shall maintain, in such form or manner as he thinks fit —
 
-(2) The Registrar shall keep a list of all bankruptcy orders made;
+(a) a list of undischarged bankrupts; and
 
-and on that list every such order shall be forthwith entered under the headings of the letters of the alphabet.
+(b) a record of every bankruptcy order and every order rescinding, annulling or discharging any bankruptcy order, and may allow any person, on payment of the prescribed fee, to inspect or otherwise have access to any part of such list or record as the Official Assignee may determine.
 
-(3) Every order rescinding, annulling or discharging any bankruptcy order and every notice of discharge given under section 125 (2) shall be noted in the list against the order rescinded, annulled or discharged.
+(2) Where the question arises as to whether a person is an undischarged bankrupt, a certificate from the Official Assignee stating whether or not that person is an undischarged bankrupt shall be prima facie evidence of the facts stated therein.
+
+[6/2004]

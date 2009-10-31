@@ -17,4 +17,6 @@ Part: PART VII ADMINISTRATION IN BANKRUPTCY Bankruptcy
 
 (c) for disputed proofs and claims.
 
-(6) No dividend shall be paid to any creditor which does not amount to $20.
+(6) No dividend shall be paid to any creditor which does not amount to $50.
+
+[6/2009]
