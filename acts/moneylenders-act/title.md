@@ -1,0 +1,21 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+MONEYLENDERS ACT
+(CHAPTER 188)
+Act
+31 of 2008
+Amended by
+5 of 2010
+REVISED EDITION 2010
+(31st March 2010)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2010
+
+
+
+An Act for the regulation of moneylending and for matters connected therewith.
+
+[1st March 2009 except section 5(3)(b)]
