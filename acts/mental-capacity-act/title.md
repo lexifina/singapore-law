@@ -1,0 +1,22 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+MENTAL CAPACITY ACT
+(CHAPTER 177A)
+Act
+22 of 2008
+Amended by
+3 of 2009
+18 of 2009
+REVISED EDITION 2010
+(31st March 2010)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2010
+
+
+
+An Act to make new provision relating to persons who lack capacity and to provide for matters connected therewith.
+
+[1st March 2010]
