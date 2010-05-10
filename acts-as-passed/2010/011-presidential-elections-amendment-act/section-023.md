@@ -1,0 +1,9 @@
+# 23. Amendment of section 64
+
+Section 64 of the principal Act is amended —
+
+(a) by deleting the words “$1,000 or to imprisonment for a term not exceeding 12 months” in subsection (3) and substituting the words “$2,000 or to imprisonment for a term not exceeding 12 months or to both”; and
+
+(b) by deleting subsection (4) and substituting the following subsection:
+
+“(4) The offence under subsection (3) shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).”.
