@@ -1,0 +1,7 @@
+# SECOND SCHEDULE
+
+Section 159(1)
+
+LAWS TO WHICH CRIMINAL CASE DISCLOSURE PROCEDURES APPLY
+
+1. Arms and Explosives Act (Cap. 13) 2. Arms Offences Act (Cap. 14) 3. Banishment Act (Cap. 18) 4. Computer Misuse Act (Cap. 50A) 5. Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65) 6. Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) 7. Criminal Law (Temporary Provisions) Act (Cap. 67) 8. Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) 9. Immigration Act (Cap. 133) (other than sections 6 and 15) 10. Internal Security Act (Cap. 143) 11. Maintenance of Religious Harmony Act (Cap. 167A) 12. Misuse of Drugs Act (Cap. 185) 13. Oaths and Declarations Act (Cap. 211) 14. Official Secrets Act (Cap. 213) 15. Passports Act (Cap. 220) 16. Penal Code (Cap. 224) 17. Prisons Act (Cap. 247) 18. Protected Areas and Protected Places Act (Cap. 256) 19. Public Entertainments and Meetings Act (Cap. 257) 20. Public Order (Preservation) Act (Cap. 258) 21 Securities and Futures Act (Cap. 289) 22. Sedition Act (Cap. 290) 23. Vandalism Act (Cap. 341).
