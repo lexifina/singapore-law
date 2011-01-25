@@ -1,0 +1,3 @@
+# 27. Repeal of section 67
+
+Section 67 of the principal Act is repealed.
