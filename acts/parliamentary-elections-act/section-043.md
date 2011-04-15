@@ -6,7 +6,7 @@ Heading: CONTESTED ELECTIONS
 
 (2) The Returning Officer shall, at the close of each election, prepare a list of the numbers, names and descriptions as stated in the register of electors of such electors as have failed to vote at the election and certify the list under his hand.
 
-(3) Notwithstanding section 49 (9) to (12), it shall be lawful for the Returning Officer to break the seals of packets containing the marked copies of the registers of electors and to inspect and retain those copies for the purpose of preparing the list referred to in subsection (2) and of any inquiries connected therewith.
+(3) Notwithstanding section 49(9) to (12), it shall be lawful for the Returning Officer to break the seals of packets containing the marked copies of the registers of electors and to inspect and retain those copies for the purpose of preparing the list referred to in subsection (2) and of any inquiries connected therewith.
 
 (4) The list prepared by the Returning Officer under subsection (2) shall be forwarded by the Returning Officer to the Registration Officer.
 
@@ -20,9 +20,15 @@ Heading: CONTESTED ELECTIONS
 
 (8) If any applicant under subsection (7) satisfies the Registration Officer that he has a good and sufficient reason for not having recorded his vote, his name shall be restored to the register without penalty.
 
-(8A) Where the applicant does not satisfy the Registration Officer under subsection (8), his name shall be restored to the register on payment of the sum of $5 to the Registration Officer.
+(8A) Where the applicant does not satisfy the Registration Officer under subsection (8), his name shall be restored to the register on payment of the sum of $50 to the Registration Officer.
 
-(9) Any name to be restored to the register under subsection (8) or (8A) shall, except as otherwise provided in subsection (11), be restored the day after the Registration Officer has satisfied himself that the applicant has a good and sufficient reason for not recording his vote or the day after the payment of the sum of $5 to the Registration Officer, as the case may be.
+[10/2010]
+
+(9) Any name to be restored to the register under subsection (8) or
+
+(8A) shall, except as otherwise provided in subsection (11), be restored the day after the Registration Officer has satisfied himself that the applicant has a good and sufficient reason for not recording his vote or the day after the payment of the sum of $50 to the Registration Officer, as the case may be.
+
+[10/2010]
 
 (10) Where any person whose name is to be restored to the register under subsection (8) or (8A) has notified the Commissioner of National Registration of any change in his address and it appears from such change of address that he is no longer residing in the same electoral division, his name shall be restored to the appropriate register of the electoral division in which he is residing.
 

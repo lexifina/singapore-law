@@ -6,7 +6,7 @@ Heading: CONTESTED ELECTIONS
 
 [19/2001]
 
-(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 48A (2).
+(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 48A(2).
 
 [19/2001]
 
@@ -18,7 +18,7 @@ Heading: CONTESTED ELECTIONS
 
 [19/2001]
 
-(5) Where the Returning Officer has made a declaration under section 49 (7) (b) or (7E) (b), the number of votes given by overseas electors to each candidate or group of candidates shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer shall immediately declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes is given to be elected.
+(5) Where the Returning Officer has made a declaration under section 49(7)(b) or (7E)(b), the number of votes given by overseas electors to each candidate or group of candidates shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer shall immediately declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes is given to be elected.
 
 [19/2001]
 
@@ -30,7 +30,7 @@ Heading: CONTESTED ELECTIONS
 
 (c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
 
-(d) subject to section 49 (10), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+(d) subject to section 49(10), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
 
 (e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
 

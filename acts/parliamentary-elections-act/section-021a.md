@@ -19,13 +19,13 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (a) a candidate or his election agent who or any political party which, on payment of any fee, acquires a copy of a register of electors from the Registration Officer; or
 
-(b) a person who obtains information in any register of electors from a candidate, an election agent or a political party after giving a written acknowledgment described in subsection (1) (c).
+(b) a person who obtains information in any register of electors from a candidate, an election agent or a political party after giving a written acknowledgment described in subsection (1)(c).
 
 [19/2001]
 
-(4) Any person who knowingly contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(4) Any person who knowingly contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
-[19/2001]
+[19/2001; 10/2010]
 
 (5) In this section, ‘‘candidate’’ includes a candidate at any presidential election.
 

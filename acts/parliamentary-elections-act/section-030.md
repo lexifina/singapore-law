@@ -29,7 +29,7 @@ Part: PART III ELECTIONS
 
 and 12.30 p.m. on the day of nomination; or
 
-(b) on the ground that a group seeking election in any constituency designated under section 8A (1) (b) does not consist of at least a person belonging to the Malay community or a person belonging to the Indian or other minority communities as required under section 27A (4), if any candidate in that group has delivered to the Returning Officer under section 27B (3) (c) a certificate issued to the candidate under section 27A (6).
+(b) on the ground that a group seeking election in any constituency designated under section 8A(1)(b) does not consist of at least a person belonging to the Malay community or a person belonging to the Indian or other minority communities as required under section 27A(4), if any candidate in that group has delivered to the Returning Officer under section 27B(3)(c) a certificate issued to the candidate under section 27A(6).
 
 [10/88]
 

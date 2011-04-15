@@ -12,6 +12,6 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (c) on payment of 30 cents for each page, supply a copy or copies of any part thereof.
 
-(3) After the expiration of the period of 6 months mentioned in subsection (2) (b), those documents may be destroyed or returned to the candidate if application for their return is made by the candidate before they are destroyed.
+(3) After the expiration of the period of 6 months mentioned in subsection (2)(b), those documents may be destroyed or returned to the candidate if application for their return is made by the candidate before they are destroyed.
 
 [22/84]

@@ -26,7 +26,7 @@ Heading: CONTESTED ELECTIONS
 
 (c) the day and hours of the poll at every overseas polling station;
 
-(d) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in the Gazette;
+(d) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in the Gazette (referred to in this Act as polling day);
 
 (e) the names of the candidates in the order in which they will be printed on the ballot papers, the symbol allotted to each candidate and the names of their proposers and seconders;
 
@@ -34,14 +34,16 @@ and
 
 (f) the situation of the polling stations for that electoral division and the particular polling stations, if any, reserved for female voters.
 
-[19/2001]
+[19/2001; 10/2010]
 
-(7) In computing time for the purposes of subsection (6) (d), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or of any other written law.
+(7) In computing time for the purposes of subsection (6)(d), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or of any other written law.
 
 (8) If, after an election has been reported as contested, one of the candidates nominated dies before the poll has commenced, the Returning Officer shall, upon being satisfied of the fact of the death —
 
 (a) countermand the notice for the poll; and
 
-(b) appoint, by notice published in the Gazette, a fresh date for the election.
+(b) appoint, by notice published in the Gazette, a fresh date, time and place for the nomination of candidates for election, at least 4 clear days before the fresh date fixed for such nomination.
+
+[10/2010]
 
 (9) Where the Returning Officer has countermanded the poll under subsection (8), all proceedings with reference to the election shall be commenced afresh, except that no fresh nomination shall be necessary in the case of a candidate who stood nominated at the time of the countermand of the poll.

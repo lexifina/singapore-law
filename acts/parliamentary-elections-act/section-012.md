@@ -17,4 +17,4 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (5) When the Revising Officer has determined the appeals which have been lodged with respect to any register, he shall forward to the Registration Officer a statement under his hand containing the names which he has decided shall be included or inserted in the register and those which he has decided shall be expunged from the register, and the Registration Officer shall amend the register accordingly.
 
-(6) (Deleted by Act 18 of 2005)
+(6) [Deleted by Act 18 of 2005]

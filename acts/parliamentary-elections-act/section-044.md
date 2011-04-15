@@ -8,4 +8,6 @@ Heading: CONTESTED ELECTIONS
 
 (3) If any person fails to furnish such evidence of his identity or refuses to make any such declaration, the presiding officer may refuse to give him a ballot paper.
 
-(4) If any person wilfully makes a false statement in any such declaration, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(4) If any person wilfully makes a false statement in any such declaration, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
+
+[10/2010]

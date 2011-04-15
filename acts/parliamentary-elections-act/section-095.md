@@ -9,6 +9,8 @@ Part: PART IV APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 [10/88]
 
-(3) Where the election of any Member for a group representation constituency is determined by the Election Judge under subsection (1) to be void, the election of the other Members for that constituency shall be deemed to be void.
+(3) Where the election of any Member for a group representation constituency is determined by the Election Judge under subsection
+
+(1) to be void, the election of the other Members for that constituency shall be deemed to be void.
 
 [10/88; 9/91]

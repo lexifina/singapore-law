@@ -10,15 +10,15 @@ Heading: CONTESTED ELECTIONS
 
 [18/99]
 
-(2) Not more than one counting agent may be appointed for a candidate or group of candidates to attend the counting of votes at each counting place specified in the direction made under section 48A (1).
+(2) Not more than one counting agent may be appointed for a candidate or group of candidates to attend the counting of votes at each counting place specified in the direction made under section 48A(1).
 
 [18/99]
 
 (2A) The Returning Officer shall make arrangements for the counting of votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
-(a) where only one counting place is specified for an electoral division in a direction made under section 48A (1) — after he has received at that counting place all the ballot boxes used during the poll conducted in Singapore; or
+(a) where only one counting place is specified for an electoral division in a direction made under section 48A(1) — after he has received at that counting place all the ballot boxes used during the poll conducted in Singapore; or
 
-(b) where more than one counting place is specified for an electoral division in a direction made under section 48A (1), after —
+(b) where more than one counting place is specified for an electoral division in a direction made under section 48A(1), after —
 
 (i) the procedure in section 48 has been complied with at the close of the poll if the counting place is also a polling station; and
 
@@ -38,7 +38,7 @@ Heading: CONTESTED ELECTIONS
 
 [10/88; 42/2005]
 
-(7) Where only one counting place is specified for an electoral division under section 48A (1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at that sole counting place or, if a recount thereof is allowed under section 49B, after that recount is completed, immediately act as follows:
+(7) Where only one counting place is specified for an electoral division under section 48A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at that sole counting place or, if a recount thereof is allowed under section 49B, after that recount is completed, immediately act as follows:
 
 (a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
@@ -46,7 +46,7 @@ Heading: CONTESTED ELECTIONS
 
 [19/2001]
 
-(7A) Where more than one counting place is specified for an electoral division in a direction made under section 48A (1), an Assistant Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 49B, after the recount is completed, at each counting place for the electoral division —
+(7A) Where more than one counting place is specified for an electoral division in a direction made under section 48A(1), an Assistant Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 49B, after the recount is completed, at each counting place for the electoral division —
 
 (a) announce to the candidates or their counting agents as attend the number of votes given to each candidate or group of candidates;
 

@@ -11,6 +11,6 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [19/2001]
 
-(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore.
+(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic mission, permanent mission or consulate of Singapore situated in any country or any territory outside Singapore.
 
-[19/2001]
+[19/2001; 14/2008]

@@ -5,11 +5,11 @@ Part: PART III ELECTIONS
 
 [10/88]
 
-(2) All elections in any group representation constituency shall be held on a basis of a group of such number of candidates as designated for that constituency by the President under section 8A (1) (a).
+(2) All elections in any group representation constituency shall be held on a basis of a group of such number of candidates as designated for that constituency by the President under section 8A(1)(a).
 
 [10/88; 9/91; 42/96]
 
-(3) Subject to subsection (4), any group that desires to contest in any election in any group representation constituency shall consist of such number of candidates as designated for that constituency by the President under section 8A (1) (a), all of whom shall either be —
+(3) Subject to subsection (4), any group that desires to contest in any election in any group representation constituency shall consist of such number of candidates as designated for that constituency by the President under section 8A(1)(a), all of whom shall either be —
 
 (a) members of the same political party standing for such election for that political party; or
 
@@ -19,17 +19,17 @@ Part: PART III ELECTIONS
 
 (4) Where any group representation constituency is —
 
-(a) a constituency designated under section 8A (1) (b) (i), at least one of the candidates in every group shall be a person belonging to the Malay community; or
+(a) a constituency designated under section 8A(1)(b)(i), at least one of the candidates in every group shall be a person belonging to the Malay community; or
 
-(b) a constituency designated under section 8A (1) (b) (ii), at least one of the candidates in every group shall be a person belonging to the Indian or other minority communities.
+(b) a constituency designated under section 8A(1)(b)(ii), at least one of the candidates in every group shall be a person belonging to the Indian or other minority communities.
 
 [10/88; 9/91]
 
 (5) At any time after the date of the notice of the writ referred to in section 25 and at least 2 clear days before the day of nomination, any person —
 
-(a) belonging to the Malay community who desires to contest as such a person in any election in any constituency designated under section 8A (1) (b) (i); or
+(a) belonging to the Malay community who desires to contest as such a person in any election in any constituency designated under section 8A(1)(b)(i); or
 
-(b) belonging to the Indian or other minority communities who desires to contest as such a person in any election in any constituency designated under section 8A (1) (b) (ii), shall apply in the prescribed manner to the appropriate Committee for a certificate in the prescribed form which shall certify whether the applicant is a person belonging to the Malay community or a person belonging to the Indian or other minority communities, as the case may be, for the purposes of any such election.
+(b) belonging to the Indian or other minority communities who desires to contest as such a person in any election in any constituency designated under section 8A(1)(b)(ii), shall apply in the prescribed manner to the appropriate Committee for a certificate in the prescribed form which shall certify whether the applicant is a person belonging to the Malay community or a person belonging to the Indian or other minority communities, as the case may be, for the purposes of any such election.
 
 [10/88]
 

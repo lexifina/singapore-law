@@ -6,6 +6,18 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (1A) All money provided by any person other than the candidate for any expenses incurred on account of or in respect of the conduct or management of the election, whether as gift, loan, advance or deposit, shall be paid to the candidate or his election agent and not otherwise.
 
-(2) Subsections (1) and (1A) shall not be deemed to apply to any payment by the Returning Officer or to any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if the sum is not repaid to him.
+(2) Subsections (1) and (1A) shall not be deemed to apply to —
+
+(a) any payments made by the Returning Officer;
+
+(b) any payments which are, in accordance with section 66(8),
+
+(9) or (10) or 68(1), made by the candidate;
+
+(c) any expenses which are paid in accordance with section 68(4) by a person or political party authorised as mentioned in that section; and
+
+(d) any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if the sum is not repaid to him.
+
+[10/2010]
 
 (3) A person who makes any payment, advance or deposit in contravention of this section or pays in contravention of this section any money so provided as aforesaid shall be guilty of an illegal practice.

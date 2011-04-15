@@ -9,7 +9,9 @@ Part: PART I PRELIMINARY
 
 ‘‘candidate’’ means a person who is nominated as a candidate for election to any seat in Parliament;
 
-‘‘Commissioner of National Registration’’ means the Commis- sioner of National Registration appointed under the National Registration Act (Cap. 201);
+‘‘Commissioner of National Registration’’ means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
+
+‘‘contact address’’, in relation to any person, means the person’s contact address under section 8(2) of the National Registration Act;
 
 ‘‘direct recording electronic voting machine’’ or ‘‘DRE voting machine’’ means any mechanical, electronic or electro-optical machine that can —
 
@@ -39,15 +41,25 @@ Part: PART I PRELIMINARY
 
 ‘‘group’’ means a group of not less than 3 but not more than 6 candidates nominated for any election in any group representation constituency in accordance with section 27B;
 
-‘‘group representation constituency’’ means any electoral division declared to be a group representation constituency under section 8A (1) (a);
+‘‘group representation constituency’’ means any electoral division declared to be a group representation constituency under section 8A(1)(a);
 
 ‘‘Member’’ means a Member of Parliament;
 
 ‘‘overseas elector’’ means an elector who is registered under section 13 or 13A in any register of electors as an overseas elector;
 
-‘‘overseas polling station’’ means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore as the Returning Officer may approve under section 36A (2) to be an overseas polling station;
+‘‘overseas polling station’’ means such of the following premises situated outside Singapore as the Returning Officer may approve under section 36A(2) to be an overseas polling station:
 
-‘‘overseas registration centre’’ means an overseas registration centre established under section 10 (4);
+(a) an embassy, a High Commission, diplomatic mission, permanent mission or consulate of Singapore (or any part thereof) in a country or territory outside Singapore;
+
+(b) the official residence (or any part thereof) of any person who is appointed to hold or act in any of the following offices in a country or territory outside Singapore:
+
+(i) an ambassador, a High Commissioner, Consulate- General or head of a diplomatic mission or consulate;
+
+(ii) the Permanent Representative; or
+
+(iii) such other senior diplomatic or consular office as the Minister may, from time to time, prescribe;
+
+‘‘overseas registration centre’’ means an overseas registration centre established under section 10(4);
 
 ‘‘Parliament’’ means the Parliament of Singapore established by the Constitution;
 
@@ -59,7 +71,7 @@ Part: PART I PRELIMINARY
 
 ‘‘presidential election’’ means an election under the Presidential Elections Act (Cap. 240A);
 
-‘‘principal election agent’’ means an election agent of a candidate in a group who has been appointed under section 62 (5) as the principal election agent for that group;
+‘‘principal election agent’’ means an election agent of a candidate in a group who has been appointed under section 62(5) as the principal election agent for that group;
 
 ‘‘public authority’’ means any body corporate, board or authority established by or under any written law for the performance of any public function, but excludes any Town Council constituted under the Town Councils Act (Cap. 329A);
 
@@ -75,7 +87,7 @@ Part: PART I PRELIMINARY
 
 ‘‘voter’’ means a person who, whether his name does or does not appear in a register of electors, applies to vote or votes at an election.
 
-[10/88; 9/91; 42/96; 18/99; 19/2001; 31/2001]
+[10/88; 9/91; 42/96; 18/99; 19/2001; 31/2001; 14/2008]
 
 (2) For the purposes of this Act —
 

@@ -18,7 +18,7 @@ Heading: CONTESTED ELECTIONS
 
 (3) In respect of any group representation constituency, every ballot paper shall contain —
 
-(a) a list of the candidates in each group in English, described, subject to section 105, as in their respective nomination papers, and arranged alphabetically in English in the order specified in section 37 (5) and (6); and
+(a) a list of the candidates in each group in English, described, subject to section 105, as in their respective nomination papers, and arranged alphabetically in English in the order specified in section 37(5) and (6); and
 
 (b) the symbol allotted to each group.
 

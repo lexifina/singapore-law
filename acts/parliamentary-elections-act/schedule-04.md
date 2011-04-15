@@ -1,6 +1,6 @@
 # FOURTH SCHEDULE
 
-Section 100 (2)
+Section 100(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
 
@@ -10,7 +10,7 @@ Citation 1. These Rules may be cited as the Parliamentary Elections (Application
 
 Interpretation 2. In these Rules, unless the context otherwise requires —
 
-‘‘application for withdrawal’’ means an application made to a Judge under rule 22 for leave to withdraw an application under section 90, and ‘‘applicant for withdrawal’’shall be construed accordingly;
+‘‘application for withdrawal’’ means an application made to a Judge under rule 22 for leave to withdraw an application under section 90, and ‘‘applicant for withdrawal’’ shall be construed accordingly;
 
 ‘‘application under section 90’’ means an application made to a Judge under section 90 of the Act for the election of a candidate as a Member to be declared to be void on any of the grounds specified in that section;
 
@@ -92,9 +92,9 @@ List of votes objected to where seat claimed by unsuccessful candidate 8.—(1) 
 
 (3) No evidence shall be given against the validity of any vote, nor upon any head of objection not specified in the list, except by leave of the Judge, upon such terms as to amendment of the list, postponement of the inquiry, and payment of costs, as may be ordered.
 
-List of objections in recriminatory case 9.—(1) The defendant in an application under section 90 complaining of an undue return and claiming the seat for some person may lead evidence to prove that the election of the person was undue, and in that case the defendant shall, 6 days FOURTH SCHEDULE — continued
+List of objections in recriminatory case 9.—(1) The defendant in an application under section 90 complaining of an undue return and claiming the seat for some person may lead evidence to prove that the election of the person was undue, and in that case the defendant shall, FOURTH SCHEDULE — continued
 
-before the day appointed for the hearing, file with the Registrar, and also at the address for service (if any) of the plaintiff, a list of the objections to the election upon which he intends to rely.
+6 days before the day appointed for the hearing, file with the Registrar, and also at the address for service (if any) of the plaintiff, a list of the objections to the election upon which he intends to rely.
 
 (2) The Registrar shall allow inspection of office copies of the lists to all parties concerned.
 
@@ -216,9 +216,7 @@ Substitution of another plaintiff 27.—(1) On the hearing of the application fo
 
 (2) The Judge may, if he thinks fit, substitute for the original plaintiff any such person applying under paragraph (1) to be so substituted (referred to hereinafter as the substituted plaintiff); and may further, if the proposed withdrawal is in the opinion of the Judge induced by any corrupt bargain or consideration, by order direct that —
 
-(a) the security given on behalf of the original plaintiff shall remain as security for any costs that may be incurred by the substituted plaintiff;
-
-and
+(a) the security given on behalf of the original plaintiff shall remain as security for any costs that may be incurred by the substituted plaintiff; and
 
 (b) to the extent of the sum named in the security the original plaintiff shall be liable to pay the costs of the substituted plaintiff.
 
@@ -234,9 +232,9 @@ Abatement of application under section 90 by death 28.—(1) An application unde
 
 Application to be substituted as plaintiff, on abatement 29.—(1) Notice of abatement of an application under section 90, by death of the plaintiff or surviving plaintiff, shall be given by the party or person interested in the same manner as notice of an application for withdrawal, and the time within which application may be made to a Judge to be substituted as a plaintiff in the application under section 90 shall be one calendar month, from the day of the publication of the notice of abatement or such further time as upon consideration of any special circumstances the Judge may allow.
 
-FOURTH SCHEDULE — continued
-
 (2) Any person who might have been a plaintiff in respect of the election to which the application under section 90 relates may apply to the Judge to be substituted as a plaintiff therein.
+
+FOURTH SCHEDULE — continued
 
 (3) The Judge may, if he thinks fit, substitute as a plaintiff in the application under section 90 any such applicant who is desirous of being substituted and on whose behalf security to the same amount is given as is required in the case of a new application under section 90.
 

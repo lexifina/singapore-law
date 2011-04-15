@@ -10,6 +10,8 @@ Heading: CONTESTED ELECTIONS
 
 (4) A person who, by reason of circumstances existing on the day of the election, is not, by virtue of section 5 or 6, entitled to have his name entered or retained in any register of electors shall not be entitled to vote at the election.
 
-(5) If the person mentioned in subsection (4) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(5) If the person mentioned in subsection (4) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both, and shall, on conviction, become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member, and if at that date he has been elected a Member, his election shall be vacated from the date of the conviction.
+
+[10/2010]
 
 (6) Nothing in this section shall affect the liability of any person to any penalty for an infringement of section 7 relating to plural voting.

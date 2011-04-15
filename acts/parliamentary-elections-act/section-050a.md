@@ -10,9 +10,7 @@ Heading: CONTESTED ELECTIONS
 
 [19/2001]
 
-(2) The Auditor-General or person appointed under subsection
-
-(1) shall not approve any DRE voting system for use at any election in any electoral division unless, after conducting such tests as he considers necessary in the presence of the Returning Officer and such representatives of any political party as are present, he is satisfied that the DRE voting system —
+(2) The Auditor-General or person appointed under subsection (1) shall not approve any DRE voting system for use at any election in any electoral division unless, after conducting such tests as he considers necessary in the presence of the Returning Officer and such representatives of any political party as are present, he is satisfied that the DRE voting system —
 
 (a) permits voting in secrecy;
 
@@ -32,7 +30,7 @@ Heading: CONTESTED ELECTIONS
 
 [19/2001]
 
-(3) Subject to subsection (1), no DRE voting system shall be used at a poll in any electoral division unless the Returning Officer specifies, by notice under section 34 (6) or (as the case may be) 34A (6), that a DRE voting system will be used at the poll in that electoral division.
+(3) Subject to subsection (1), no DRE voting system shall be used at a poll in any electoral division unless the Returning Officer specifies, by notice under section 34(6) or (as the case may be) 34A(6), that a DRE voting system will be used at the poll in that electoral division.
 
 [19/2001]
 

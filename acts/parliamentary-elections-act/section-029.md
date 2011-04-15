@@ -1,7 +1,7 @@
 # 29. Proceedings on nomination day
 Part: PART III ELECTIONS
 
-(1) The Returning Officer shall, on the day of nomination, attend at the place of nomination from 11 a.m. until 12 noon to receive nomination papers and political donation certificates issued by the Registrar of Political Donations and certificates (if any) issued under section 27A (6) (referred to in this Act as nomination papers).
+(1) The Returning Officer shall, on the day of nomination, attend at the place of nomination from 11 a.m. until 12 noon to receive nomination papers and political donation certificates issued by the Registrar of Political Donations and certificates (if any) issued under section 27A(6) (referred to in this Act as nomination papers).
 
 [10/88; 20/2000; 18/2005]
 

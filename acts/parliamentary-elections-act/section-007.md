@@ -13,4 +13,6 @@ Part: PART I PRELIMINARY
 
 [19/2001]
 
-(3) The court before which a person is convicted under subsection (2) may, in its discretion in the circumstances of any particular case, mitigate or remit any penalty or incapacity which may be imposed in respect thereof under section 79.
+(3) The court before which a person is convicted under subsection
+
+(2) may, in its discretion in the circumstances of any particular case, mitigate or remit any penalty or incapacity which may be imposed in respect thereof under section 79.

@@ -8,7 +8,7 @@ Heading: CORRUPT PRACTICES
 
 (b) commits the offence of treating, undue influence or bribery;
 
-(c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending on the eve of polling day at the election which —
+(c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending with the start of polling day at that election which —
 
 (i) in the case of election advertising that is, or is contained in, a printed document, does not bear on its face or, if there is more than one side of printed matter, on the first or last page of the document, the names and addresses of its printer, its publisher and the person for whom or at whose direction the election advertising is published; or
 
@@ -18,38 +18,50 @@ Heading: CORRUPT PRACTICES
 
 (e) makes or publishes, before or during any election, for the purpose of promoting or procuring the election of any candidate, any false statement of the withdrawal of any other candidate at the election; or
 
-(f) being a candidate or election agent, knowingly makes the declaration as to election expenses required by section 74 falsely, shall be guilty of a corrupt practice and shall on conviction by a District Court be liable —
+(f) being a candidate or an election agent, knowingly makes the declaration as to election expenses required by section 74 falsely, shall be guilty of a corrupt practice and shall on conviction by a District Court be liable —
 
-(i) in the case referred to in paragraph (a), to a fine of not less than $250 and not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both; and
+(i) in the case referred to in paragraph (a), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-(ii) in any other case, to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(ii) in the case referred to in paragraph (b), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-[31/2001]
+(iii) in the case referred to in paragraph (c), to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both;
 
-(2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament, and if at that date he has been elected a Member of Parliament, his election shall be vacated from the date of the conviction.
+(iv) in the case referred to in paragraph (d) or (e), to a fine or to imprisonment for a term not exceeding 12 months or to both; or
+
+(v) in the case referred to in paragraph (f), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[31/2001; 10/2010]
+
+(2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member, and if at that date he has been elected a Member, his election shall be vacated from the date of the conviction.
 
 [21/91]
 
-(3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1) (d) and (e) shall not be instituted without the sanction of the Public Prosecutor.
+(3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1)(d) and (e) shall not be instituted without the consent of the Public Prosecutor.
 
-(4) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of non-seizable offences or from exercising his powers to prevent a continuance of any corrupt practice.
+[15/2010]
 
-(5) Where any election advertising is published in contravention of subsection (1) (c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
+(4) Without prejudice to section 57, every offence of undue influence or bribery under section 59 or 60, as the case may be, and every other corrupt practice under subsection (1)(c), (d) or (e) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
+
+[10/2010]
+
+(5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
 
 [31/2001]
 
-(6) Subsection (1) (c) shall not apply in respect of —
+(6) Subsection (1)(c) shall not apply in respect of —
 
 (a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
 
 (b) the publication of a document directly by a person or a group of persons to their members, employees or shareholders, as the case may be;
 
-(c) the transmission by an individual to another individual, on a non-commercial basis on what is commonly known as the Internet, of his own political views;
+(c) the publication of any news relating to an election —
 
-(d) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast;
+(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act (Cap. 206); or
 
-or
+(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
+
+(d) the telephonic or electronic transmission by an individual to another individual of the first-mentioned individual’s own political views, on a non-commercial basis; or
 
 (e) such other circumstances or activities as may be prescribed by the Minister by order in the Gazette.
 
-[31/2001]
+[31/2001; 10/2010]

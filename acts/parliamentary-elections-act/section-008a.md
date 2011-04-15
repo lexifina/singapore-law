@@ -21,6 +21,6 @@ Part: PART I PRELIMINARY
 
 [10/88; 9/91; 42/96]
 
-(3) The number of group representation constituencies to be designated under subsection (1) (b) (i) shall be three-fifths of the total number of group representation constituencies; and where that number is not a whole number, it shall be rounded to the next higher whole number.
+(3) The number of group representation constituencies to be designated under subsection (1)(b)(i) shall be three-fifths of the total number of group representation constituencies; and where that number is not a whole number, it shall be rounded to the next higher whole number.
 
 [10/88]

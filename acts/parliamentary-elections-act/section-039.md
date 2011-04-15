@@ -10,13 +10,15 @@ Heading: CONTESTED ELECTIONS
 
 (2) The certificate referred to in subsection (1A) shall be given under the hand of the Returning Officer and shall state the name of the elector and his number, description in the register of electors, and the fact that he is so employed as aforesaid.
 
-(2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A (3).
+(2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A.
 
-[19/2001]
+[19/2001; 14/2008]
 
-(3) Unless the Returning Officer, by notification in the Gazette or under section 50C (3) (b), appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
+(3) Unless the Returning Officer, by notification in the Gazette under this section or section 56C or under section 50C(3)(b), appoints any other hour, the poll in any electoral division shall open at 8 a.m.
 
-[19/2001]
+on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
+
+[19/2001; 10/2010]
 
 (4) The presiding officer shall —
 
@@ -38,7 +40,7 @@ Heading: CONTESTED ELECTIONS
 
 [42/96]
 
-(6) No polling agent whose name has not been notified to the presiding officer as required by section 64 (1) shall be admitted to a polling station.
+(6) No polling agent whose name has not been notified to the presiding officer as required by section 64(1) shall be admitted to a polling station.
 
 (7) If any person misconducts himself in the polling station, or fails to obey the lawful orders of the presiding officer, he may immediately, by order of the presiding officer, be removed from the polling station by any police officer in or near that station or by any other person authorised in writing by the presiding officer or by the Returning Officer to remove him.
 

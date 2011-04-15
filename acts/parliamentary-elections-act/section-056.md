@@ -30,4 +30,6 @@ Heading: CONTESTED ELECTIONS
 
 [19/2001]
 
-(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
+
+[10/2010]

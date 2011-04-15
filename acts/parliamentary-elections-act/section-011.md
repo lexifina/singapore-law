@@ -5,7 +5,7 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (2) Every claim under subsection (1) shall be in writing and shall be in Form 3 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in the Gazette of the notice of completion of the register.
 
-(2A) Within 21 days from the expiry of the period of 2 weeks referred to in subsection (2), the Registration Officer shall exhibit notices containing the names and addresses of the claimants (if any) at the place or places in or near the electoral division in which those claimants reside and at the overseas registration centres specified in the notice mentioned in section 10 (3).
+(2A) Within 21 days from the expiry of the period of 2 weeks referred to in subsection (2), the Registration Officer shall exhibit notices containing the names and addresses of the claimants (if any) at the place or places in or near the electoral division in which those claimants reside and at the overseas registration centres specified in the notice mentioned in section 10(3).
 
 [19/2001]
 
@@ -17,11 +17,15 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (4) In this section and section 12, every person objecting to the inclusion or insertion of any name in the register is referred to as the objector.
 
-(5) Every objection to the inclusion of any name in the register shall be made in writing in duplicate and shall be in Form 4 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in the Gazette of the notice of completion of the register.
+(5) Every objection to the inclusion of any name in the register shall be made in writing and shall be in Form 4 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in the Gazette of the notice of completion of the register.
 
-(6) Every objection to the insertion of the name of any claimant in the register shall be made in writing in duplicate and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
+[14/2008]
 
-(7) (Deleted by Act 18 of 2005)
+(6) Every objection to the insertion of the name of any claimant in the register shall be made in writing and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
+
+[14/2008]
+
+(7) [Deleted by Act 18 of 2005]
 
 (8) The Registration Officer shall, as soon as practicable after receiving an objection to the inclusion or insertion of any name in any register, send a notice of the objection to the person in regard to whom objection has been made.
 
@@ -65,4 +69,4 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (15) Any sum awarded as compensation under this section shall be recoverable as though the order of the Registration Officer or Revising Officer were an order of a District Court for the recovery of money by that Officer.
 
-(16) (Deleted by Act 18 of 2005)
+(16) [Deleted by Act 18 of 2005]

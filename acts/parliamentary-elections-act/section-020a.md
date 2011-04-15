@@ -9,11 +9,11 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (i) the polling districts which have been retained, redistributed or transferred to form subdivisions of the respective electoral divisions; and
 
-(ii) the new distinguishing letter or letters (if any) assigned to each such polling district, and each electoral division shall be deemed to have been subdivided under section 9 (1) into the polling districts so retained, redistributed or transferred as its subdivisions.
+(ii) the new distinguishing letter or letters (if any) assigned to each such polling district, and each electoral division shall be deemed to have been subdivided under section 9(1) into the polling districts so retained, redistributed or transferred as its subdivisions.
 
 [42/96]
 
-(2) Unless the Minister otherwise directs, whenever any new electoral division is created or any electoral division is altered in the manner referred to in subsection (1) (a) or (b), section 10 shall not apply to that new or altered electoral division and the Registration Officer shall, before the next general election, prepare in accordance with subsection (3) a composite register for each new or altered division and certify it in Form 7 in the First Schedule.
+(2) Unless the Minister otherwise directs, whenever any new electoral division is created or any electoral division is altered in the manner referred to in subsection (1)(a) or (b), section 10 shall not apply to that new or altered electoral division and the Registration Officer shall, before the next general election, prepare in accordance with subsection (3) a composite register for each new or altered division and certify it in Form 7 in the First Schedule.
 
 [42/96]
 
@@ -21,7 +21,9 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [42/96]
 
-(4) Any composite register prepared in accordance with subsection (3) for a new or altered electoral division shall —
+(4) Any composite register prepared in accordance with subsection
+
+(3) for a new or altered electoral division shall —
 
 (a) be deemed to be the certified register in operation for that electoral division at the next general election following its certification but not earlier; and
 

@@ -40,7 +40,7 @@ This Legislative History is provided for the convenience of users of the Parliam
 
 21. Act 9 of 1991 — Parliamentary Elections (Amendment) Act 1991 Date of First Reading : 3 January 1991 (Bill No. 1/91 published on 4 January 1991) Date of Second and Third Readings : 14 January 1991 Date of commencement : 5 February 1991
 
-22. Act 21 of 1991 — Parliamentary Elections (Amendment No. 2) Act 1991 Date of First Reading : 7 May 1991 (Bill No. 18/91 published on 8 May 1991) Date of Second and Third Readings : 28 June 1991 Date of commencement : 2 August 1991 (sections 2, 3, 5, 6 and 7) 14 December 1991 (sections 4 and 8) 23. Act 27 of 1991 — Presidential Elections Act 1991 (Consequential amendments made to Act by) Date of First Reading : 28 June 1991 (Bill No. 21/90 published on 29 June 1991) Date of Second and Third Readings : 29 July 1991 Date of commencement : 2 November 1991
+22. Act 21 of 1991 — Parliamentary Elections (Amendment No. 2) Act 1991 Date of First Reading : 7 May 1991 (Bill No. 18/91 published on 8 May 1991) Date of Second and Third Readings : 28 June 1991 Dates of commencement : 2 August 1991 (sections 2, 3, 5, 6 and 7) 14 December 1991 (sections 4 and 8) 23. Act 27 of 1991 — Presidential Elections Act 1991 (Consequential amendments made to Act by) Date of First Reading : 28 June 1991 (Bill No. 21/90 published on 29 June 1991) Date of Second and Third Readings : 29 July 1991 Date of commencement : 2 November 1991
 
 24. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Consequential amendments made to Act by) Date of First Reading : 26 February 1993 (Bill No. 12/93 published on 27 February 1993) Date of Second and Third Readings : 12 April 1993 Date of commencement : 1 July 1993
 
@@ -58,10 +58,16 @@ This Legislative History is provided for the convenience of users of the Parliam
 
 32. Act 34 of 2002 — Media Development Authority of Singapore Act 2002 (Consequential amendments made to Act by) Date of First Reading : 1 October 2002 (Bill No. 37/2002 published on 2 October 2002) Date of Second and Third Readings : 31 October 2002 Date of commencement : 1 January 2003
 
-33. Act 18 of 2005 — Parliamentary Elections (Amendment) Act 2005 Date of First Reading : 18 April 2005 (Bill No. 9/2005 published on 19 April 2005) Date of Second and Third Readings : 16 May 2005 Date of commencement : 6 June 2005 34. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005) Date of Second and Third Readings : 21 November 2005 Dates of commencement : 1 July 2005 (section 20 (e)) 1 January 2006 30 January 2006 (sections 10, 12, 19 and 20 (c)) 1 April 2006 (items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and
+33. Act 18 of 2005 — Parliamentary Elections (Amendment) Act 2005 Date of First Reading : 18 April 2005 (Bill No. 9/2005 published on 19 April 2005) Date of Second and Third Readings : 16 May 2005 Date of commencement : 6 June 2005 34. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005) Date of Second and Third Readings : 21 November 2005 Dates of commencement : 1 July 2005 (section 20(e)) 1 January 2006 (except sections 10, 12, 17(e) to (j), 19 and 20(c) and (e); items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34)(a) and (36) in the First Schedule;
+
+and Third Schedule) 30 January 2006 (sections 10, 12, 19 and 20(c)) 1 April 2006 (items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34)(a) and
 
 (36) in First Schedule; and
 
 Third Schedule)
 
 35. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006) Date of Second and Third Readings : 22 January 2007 Dates of commencement : 1 March 2007 (except sections 6, 8 and 11) 1 April 2007 (section 6) 2 May 2007 (sections 8 and 11)
+
+36. Act 14 of 2008 — Parliamentary Elections (Amendment) Act 2008 Date of First Reading : 21 July 2008 (Bill No. 8/2008 published on 21 July 2008) Date of Second and Third Readings : 25 August 2008 Date of commencement : 3 March 2009 37. Act 10 of 2010 — Parliamentary Elections (Amendment) Act 2010 Date of First Reading : 11 March 2010 (Bill No. 4/2010 published on 11 March 2010) Date of Second and Third Readings : 27 April 2010 Date of commencement : 1 July 2010
+
+38. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by) Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010) Date of Second and Third Readings : 19 May 2010 Date of commencement : 2 January 2011

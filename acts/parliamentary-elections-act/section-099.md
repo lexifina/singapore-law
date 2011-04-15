@@ -17,7 +17,7 @@ Part: PART IV APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 [10/88; 42/2005]
 
-(2) The vote of a registered elector shall not, except in the case specified in subsection (1) (e), be struck off at a scrutiny by reason only of the voter not having been or not being qualified to have his name entered in the register of electors.
+(2) The vote of a registered elector shall not, except in the case specified in subsection (1)(e), be struck off at a scrutiny by reason only of the voter not having been or not being qualified to have his name entered in the register of electors.
 
 (3) On a scrutiny, any tendered vote that is proved to be a valid vote shall be added to the poll if any party to the application under section 90 applies for that vote to be so added.
 

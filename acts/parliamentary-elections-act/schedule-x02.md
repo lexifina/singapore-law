@@ -6,7 +6,7 @@ Place of nomination (Nomination centre) Electoral Division
 
 FIRST SCHEDULE — continued
 
-FORM 2 Section 9 (1)
+FORM 2 Section 9(1)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -26,7 +26,7 @@ Date ....................................................
 
 FIRST SCHEDULE — continued
 
-FORM 3 Section 11 (2)
+FORM 3 Section 11(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -60,7 +60,7 @@ III ACTION BY ELECTIONS DEPARTMENT TYPE OF ARO’S DECISION ARO’S COMMENTS DEC
 
 FIRST SCHEDULE — continued
 
-FORM 4 Section 11 (5)
+FORM 4 Section 11(5)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -96,7 +96,7 @@ Signature of Witness. Name of Witness. Address of Witness.
 
 FIRST SCHEDULE — continued
 
-FORM 5 Section 11 (6)
+FORM 5 Section 11(6)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -130,7 +130,7 @@ Signature of Witness. Name of Witness. Address of Witness.
 
 FIRST SCHEDULE — continued
 
-FORM 6 Section 11 (8A)
+FORM 6 Section 11(8A)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -164,7 +164,7 @@ TO BE SENT TO ALL PERSONS OBJECTED TO
 
 (Name and address) FIRST SCHEDULE — continued
 
-FORM 7 Sections 13 (1) and 20A (2)
+FORM 7 Sections 13(1) and 20A(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -202,9 +202,9 @@ A nomination paper will not be valid or acted upon by the Returning Officer unle
 
 (c) a statutory declaration by each nominee to the effect that he is qualified to be elected;
 
-(d) a political donation certificate issued to the nominee from the Registrar of Political Donations under section 18 (4) of the Political Donations Act (Cap. 236); and
+(d) a political donation certificate issued to the nominee from the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236); and
 
-(e) if the Electoral Division is a Group Representation Constituency, the certificate required to be delivered by a nominee in the group under section 27B (3) (c) of the Parliamentary Elections Act.
+(e) if the Electoral Division is a Group Representation Constituency, the certificate required to be delivered by a nominee in the group under section 27B(3)(c) of the Parliamentary Elections Act.
 
 Forms of nomination papers may be obtained after the date of this Notice from the office of the Returning Officer between _________ and _________ daily (except Sunday and public holidays), and between _________ and _________ on Saturdays.
 
@@ -222,7 +222,7 @@ Returning Officer, Singapore.
 
 FIRST SCHEDULE — continued
 
-FORM 9 Section 27 (2)
+FORM 9 Section 27(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
 
@@ -260,7 +260,7 @@ contacted at Telephone Number:
 
 FIRST SCHEDULE — continued
 
-FORM 9A Section 27B (2)
+FORM 9A Section 27B(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
 
@@ -324,11 +324,11 @@ FIRST SCHEDULE — continued
 
 FORM 10
 
-(Deleted by Act 18 of 2005)
+[Deleted by Act 18 of 2005]
 
 FIRST SCHEDULE — continued
 
-FORM 11 Sections 34 (6) and 34A (6)
+FORM 11 Sections 34(6) and 34A(6)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
 
@@ -354,9 +354,9 @@ Dated this day of .
 
 Returning Officer, Singapore.
 
-FIRST SCHEDULE — continued
+FIRST SCHEDULE — continued FIRST SCHEDULE — continued
 
-FORM 13 Section 44 (1)
+FORM 13 Section 44(1)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -386,7 +386,7 @@ Signature of Presiding Officer. Name and No. of Polling Place.
 
 FIRST SCHEDULE — continued
 
-FORM 14 Section 44 (1)
+FORM 14 Section 44(1)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -412,7 +412,7 @@ Signature of Presiding Officer. Name and No. of Polling Place.
 
 FIRST SCHEDULE — continued
 
-FORM 15 Section 44 (1)
+FORM 15 Section 44(1)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -444,7 +444,7 @@ Signature of Presiding Officer. Name and No. of Polling Place.
 
 FIRST SCHEDULE — continued
 
-FORM 16 Section 46 (1)
+FORM 16 Section 46(1)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -516,7 +516,7 @@ Returning Officer, Singapore.
 
 FIRST SCHEDULE — continued
 
-FORM 18 Section 56 (1)
+FORM 18 Section 56(1)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -570,11 +570,11 @@ FIRST SCHEDULE — continued
 
 (6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before he has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to mark or record his vote and before he marks or records his vote at the machine, as the case may be.
 
-(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
 FIRST SCHEDULE — continued
 
-FORM 19 Section 74 (1) and (2)
+FORM 19 Section 74(1) and (2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
 
@@ -614,7 +614,7 @@ FIRST SCHEDULE — continued
 
 FORM 19 — continued
 
-SECTION A: EXPENSES AND PAYMENTS (Fill in below the total amount of expenditure and payments for each category, in Singapore dollars, rounded to the nearest dollar. Write NIL if you have no expenses to declare. Include only election expenses. If there is insufficient space in any section, attach a separate sheet with the details. Every payment should be vouched for by a bill stating the particulars and by a receipt or payment voucher except as provided by section 66 of the Parliamentary Elections Act. All payment vouchers must be duly dated/approved and signed by the recipients. Where payment is made by cheque, the cheque number and the amount paid by cheque should be indicated under the appropriate item of expenditure.)
+SECTION A: EXPENSES AND PAYMENTS (Fill in below the total amount of expenditure and payments for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar. Write NIL if you have no expenses to declare. Include only election expenses. If there is insufficient space in any section, attach a separate sheet with the details. Every payment should be vouched for by a bill stating the particulars and by a receipt or payment voucher except as provided by section 66 of the Parliamentary Elections Act. All payment vouchers must be duly dated/approved and signed by the recipients. Where payment is made by cheque, the cheque number and the amount paid by cheque should be indicated under the appropriate item of expenditure.)
 
 (1) PERSONAL EXPENSES OF CANDIDATE
 
@@ -622,9 +622,7 @@ Description $
 
 Total
 
-(2) EXPENSES BY ELECTION AGENT IN RESPECT OF THE CONDUCT OR MANAGEMENT OF ELECTION
-
-Description Receipt/Payment $ Voucher/Cheque No.
+(2) EXPENSES BY ELECTION AGENT IN RESPECT OF THE CONDUCT OR MANAGEMENT OF ELECTION Description Receipt/Payment $ Voucher/Cheque No.
 
 (a) Remuneration of election agent, polling agents, counting agents, etc.
 
@@ -674,9 +672,7 @@ Sub-Total
 
 Sub-Total TOTAL
 
-SECTION B: DISPUTED AND UNPAID CLAIMS (Fill in below the total amount of claims for each category, in Singapore dollars, rounded to the nearest dollar. Write NIL if you have no claims to declare. Include only claims for election expenses.
-
-If there is insufficient space in any section, attach a separate sheet with the details.)
+SECTION B: DISPUTED AND UNPAID CLAIMS (Fill in below the total amount of claims for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar. Write NIL if you have no claims to declare. Include only claims for election expenses. If there is insufficient space in any section, attach a separate sheet with the details.)
 
 I am aware of the following disputed and unpaid claims:
 
@@ -764,7 +760,265 @@ Sub-total TOTAL
 
 FIRST SCHEDULE — continued
 
-FORM 20 Section 74 (2)
+FORM 19A
+
+Section 74(1A) and (2A)
+
+PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+
+CONSOLIDATED RETURN OF ELECTION EXPENSES INCURRED BY SUB-AGENTS OF ELECTION AGENTS
+
+ELECTORAL DIVISION
+
+Name NRIC No.
+
+PRINCIPAL ELECTION AGENT
+
+CANDIDATE Name
+
+ELECTION AGENT Name
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+CANDIDATE Name
+
+ELECTION AGENT Name
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+FIRST SCHEDULE — continued
+
+FORM 19A — continued
+
+CANDIDATE Name
+
+ELECTION AGENT Name
+
+SUB-AGENTS Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+CANDIDATE Name
+
+ELECTION AGENT Name
+
+SUB-AGENTS Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+CANDIDATE Name
+
+ELECTION AGENT Name
+
+SUB-AGENTS Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+FIRST SCHEDULE — continued
+
+FORM 19A — continued
+
+CANDIDATE Name
+
+ELECTION AGENT Name
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+I, the duly appointed principal election agent of the above group of candidates standing for election in the abovementioned Electoral Division, make this consolidated Return respecting Election Expenses of the said candidates at that election.
+
+This consolidated Return respecting Election Expenses shows —
+
+(a) all expenses and payments incurred and paid by the sub-agent(s) authorised under section 62(6) of the Parliamentary Elections Act on account or in respect of the management of that election for the said group of candidates;
+
+(b) the disputed claims so far as the sub-agent(s) is(are) aware of;
+
+(c) all unpaid claims, if any, of which the sub-agent(s) is(are) aware in respect of which an application has been made or is about to be made to an Election Judge or a Judge of the High Court; and
+
+(d) the amount of those expenses and payments, disputed and unpaid claims, apportioned to each candidate.
+
+I declare to the best of my knowledge and belief that this is a complete and correct Return as required by law, and that except the expenses set out in this Return, no other expenses of any nature have been incurred by any sub-agent in, or for the purpose of, the above candidates’ candidature at the said election.
+
+Date: _________ Signature of Principal Election Agent: ___________________ FORM 19A — continued
+
+SECTION A: EXPENSES AND PAYMENTS 1. Fill in below the total amount of expenditure and payments for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar.
+
+Include only election expenses. All payments should be vouched for by a bill stating the particulars and by a receipt referred to in section 66(1) of the Parliamentary Elections Act. Where payment is made by cheque, the cheque number and the amount paid by cheque should be indicated under the appropriate item of expenditure.
+
+2. Please indicate clearly the amount apportioned to each candidate for every item of expenditure reported and attach supporting evidence showing how the amount of expenditure was apportioned.
+
+3. Attach a separate sheet if there is not enough room on the page to list all items of spending.
+
+Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
+
+(a) Remuneration of election agents, polling agents and counting agents, etc.
+
+Item 1:
+
+Item 2:
+
+Item 3:
+
+(b) Advertising and printing of promotional materials Item 1:
+
+Item 2:
+
+Item 3:
+
+FORM 19A — continued
+
+Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
+
+(c) Transport Item 1:
+
+Item 2:
+
+Item 3:
+
+(d) Stationery, office supplies and postage Item 1:
+
+Item 2:
+
+Item 3:
+
+(e) Fax machines, telephone and other means of communication Item 1:
+
+Item 2:
+
+Item 3:
+
+FORM 19A — continued
+
+Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
+
+(f) Furniture and equipment rental e.g. public address system, etc.
+
+Item 1:
+
+Item 2:
+
+Item 3:
+
+(g) Office rental and utilities for election meeting, committee room, etc.
+
+Item 1:
+
+Item 2:
+
+Item 3:
+
+(h) Food, refreshments and accommodation Item 1:
+
+Item 2:
+
+Item 3:
+
+FORM 19A — continued
+
+Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
+
+(i) Miscellaneous expenses Item 1:
+
+Item 2:
+
+Item 3:
+
+Total Amount Apportioned to Candidate ($)
+
+FORM 19A — continued
+
+SECTION B: DISPUTED AND UNPAID CLAIMS 1. Fill in below the total amount of claims for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar. Include only claims for election expenses. Please indicate clearly the amount of disputed and unpaid claims apportioned to each candidate.
+
+2. If there is insufficient space in any section, attach a separate sheet with the details.
+
+(1) DISPUTED CLAIMS
+
+Set out the goods, Name of Candidate and Apportioned Amount ($) work or other matter Name and description Committed by Amount on the ground of of Claimant (Name of sub-agent) ($) which the claim 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate is based
+
+1.
+
+2.
+
+3.
+
+Total Amount Apportioned to Candidate ($)
+
+FORM 19A — continued
+
+(2) UNPAID CLAIMS in respect of which an application has been made or is about to be made to an Election Judge or a Judge of the High Court.
+
+Set out the goods, Name of Candidate and Apportioned Amount ($) work or other matter Name and description Committed by Amount on the ground of of Claimant (Name of sub-agent) ($) which the claim 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate is based
+
+1.
+
+2.
+
+3.
+
+Total Amount Apportioned to Candidate ($)
+
+FIRST SCHEDULE — continued
+
+FORM 20 Section 74(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
 
@@ -790,13 +1044,157 @@ _____________________________________ __________________________ Signature of Ca
 
 FIRST SCHEDULE — continued
 
-FORM 21
+FORM 20A
 
-(Deleted by Act 18 of 2005)
+Section 74(2A)
+
+PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+
+DECLARATION BY PRINCIPAL ELECTION AGENT AND SUB-AGENTS
+
+ELECTORAL DIVISION
+
+Name NRIC No.
+
+PRINCIPAL ELECTION AGENT
+
+Name NRIC No.
+
+ELECTION AGENT
+
+SUB-AGENTS Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Name NRIC No.
+
+ELECTION AGENT
+
+SUB-AGENTS Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
 
 FIRST SCHEDULE — continued
 
-FORM 22 Section 83 (2)
+FORM 20A — continued
+
+Name NRIC No.
+
+ELECTION AGENT
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Name NRIC No.
+
+ELECTION AGENT
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Name NRIC No.
+
+ELECTION AGENT
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+FIRST SCHEDULE — continued
+
+FORM 20A — continued
+
+Name NRIC No.
+
+ELECTION AGENT
+
+SUB-AGENTS
+
+Name NRIC No.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+We were the election agents for the abovenamed candidates for election in the above Electoral Division.
+
+We have examined the accompanying consolidated Return respecting Election Expenses that is about to be delivered to the Returning Officer and declare, to the best of our knowledge and belief that —
+
+(a) it is a complete and correct Return as required by law; and
+
+(b) except for the expenses set out in the Return, no other expenses of any nature have been incurred by us at the said election.
+
+Dated this _________ day of __________________ 20 ___
+
+_____________________ _____________________ _____________________ Signature of Signature of Signature of Principal Election Agent Sub-Agent 1 Sub-Agent 2
+
+_____________________ _____________________ _____________________ Signature of Signature of Signature of Sub-Agent 3 Sub-Agent 4 Sub-Agent 5
+
+_____________________ Signature of Sub-Agent 6
+
+FIRST SCHEDULE — continued
+
+FORM 21
+
+[Deleted by Act 18 of 2005]
+
+FIRST SCHEDULE — continued
+
+FORM 22 Section 83(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -836,7 +1234,7 @@ Date. Signature of Candidate.
 
 FIRST SCHEDULE — continued
 
-FORM 23 Section 83 (2)
+FORM 23 Section 83(2)
 
 PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
 
@@ -876,4 +1274,4 @@ Address (as shown in NRIC)
 
 Date. Signature of Election Agent.
 
-[18/2005; S 528/96; S 522/2001; S 389/2005; S 232/2006]
+[18/2005; S 528/96; S 522/2001; S 389/2005; S 232/2006; S 141/2011]

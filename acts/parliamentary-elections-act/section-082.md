@@ -18,6 +18,10 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (1A) Notwithstanding subsection (1), every candidate or his election agent may open or maintain in his electoral division one office for each polling district, which shall not be within a radius of 200 metres of any polling station, and the address of every such office shall be registered by the candidate or his election agent with the Returning Officer before polling day.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(3) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him as soon as practicable before a Magistrate’s Court to be dealt with according to law.
+[10/2010]
+
+(3) The offence under subsection (2) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
+
+[10/2010]

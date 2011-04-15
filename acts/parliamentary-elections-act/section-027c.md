@@ -3,9 +3,9 @@ Part: PART III ELECTIONS
 
 (1) For the purposes of section 27A, there shall be established —
 
-(a) a Malay Community Committee whose function shall be to determine whether a person desiring to be a candidate for any election in any constituency designated under section 8A (1) (b) (i) belongs to the Malay community; and
+(a) a Malay Community Committee whose function shall be to determine whether a person desiring to be a candidate for any election in any constituency designated under section 8A(1)(b)(i) belongs to the Malay community; and
 
-(b) an Indian and Other Minority Communities Committee whose function shall be to determine whether a person desiring to be a candidate for any election in any constituency designated under section 8A (1) (b) (ii) belongs to the Indian or other minority communities.
+(b) an Indian and Other Minority Communities Committee whose function shall be to determine whether a person desiring to be a candidate for any election in any constituency designated under section 8A(1)(b)(ii) belongs to the Indian or other minority communities.
 
 [10/88]
 

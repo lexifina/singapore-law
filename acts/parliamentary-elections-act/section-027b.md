@@ -19,19 +19,19 @@ Part: PART III ELECTIONS
 
 (3) Every candidate in a group shall, at the time of the nomination of the group, deliver to the Returning Officer —
 
-(a) (Deleted by Act 18 of 2005)
+(a) [Deleted by Act 18 of 2005]
 
-(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18 (4) of the Political Donations Act (Cap. 236); and
+(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236); and
 
 (c) if he is a person belonging to —
 
-(i) the Malay community and is nominated as such a person for election in any constituency designated under section 8A (1) (b) (i); or
+(i) the Malay community and is nominated as such a person for election in any constituency designated under section 8A(1)(b)(i); or
 
-(ii) the Indian or other minority communities and is nominated as such a person for election in any constituency designated under section 8A (1) (b) (ii), a certificate issued to him under section 27A (6) certifying that he is a person belonging to the Malay community or a person belonging to the Indian or other minority communities, as the case may be.
+(ii) the Indian or other minority communities and is nominated as such a person for election in any constituency designated under section 8A(1)(b)(ii), a certificate issued to him under section 27A(6) certifying that he is a person belonging to the Malay community or a person belonging to the Indian or other minority communities, as the case may be.
 
 [20/2000; 18/2005]
 
-(3A) If any statutory declaration which is required by subsection (2) (d) to be made is not so made, or any certificate which is required by subsection (3) to be delivered by any candidate in a group is not so delivered, the nomination of that group shall be deemed to be void.
+(3A) If any statutory declaration which is required by subsection (2)(d) to be made is not so made, or any certificate which is required by subsection (3) to be delivered by any candidate in a group is not so delivered, the nomination of that group shall be deemed to be void.
 
 [10/88; 18/2005]
 

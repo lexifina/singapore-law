@@ -1,29 +1,39 @@
-# 78B. Election advertising ban on polling day
+# 78B. Election advertising ban
 Part: PART III ELECTIONS
 Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
-(1) Subject to subsection (2), no person shall on polling day display or publish, or cause or permit to be displayed or published, any election advertising in or among any electors in any electoral division before the close of all the polling stations in the electoral division.
+(1) Except as otherwise provided by or under subsection (2), no person shall, at any time on polling day or the eve of polling day at an election in an electoral division —
 
-[31/2001]
+(a) knowingly publish, or knowingly cause or permit to be published, any election advertising in or among any electors in the electoral division; or
 
-(2) Subsection (1) shall not apply in respect of —
+(b) knowingly display, or knowingly cause or permit to be displayed, any election advertising on any vehicle, thing or structure within the electoral division or adjoining the electoral division.
 
-(a) any election advertising that was lawfully published before polling day on what is commonly known as the Internet and that was not changed after its publication;
+[10/2010]
 
-(b) the continued lawful display or posting of posters or banners;
+(2) Subsection (1) shall not apply to —
 
-(c) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
+(a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
 
-(d) the transmission by an individual to another individual, on a non-commercial basis on what is commonly known as the Internet, of his own political views;
+(b) the publication of any news relating to an election —
 
-(e) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast;
+(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act (Cap. 206); or
 
-or
+(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
 
-(f) such other circumstances or activities as may be prescribed by the Minister by order in the Gazette.
+(c) the telephonic or electronic transmission by an individual to another individual of the first-mentioned individual’s own political views, on a non-commercial basis;
 
-[31/2001]
+(d) any election advertising that was lawfully published or displayed before the start of the eve of polling day at any election on what is commonly known as the Internet and that was not changed after its publication or display;
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(e) the continued lawful display or posting of posters or banners that have been displayed or posted before the start of the eve of polling day at any election; and
 
-[31/2001]
+(f) such activities or circumstances as may be prescribed by the Minister.
+
+[10/2010]
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[10/2010]
+
+(4) Every offence under this section shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
+
+[10/2010]

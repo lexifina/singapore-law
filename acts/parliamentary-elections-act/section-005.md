@@ -11,25 +11,9 @@ Part: PART I PRELIMINARY
 
 [42/96]
 
-(1A) For the purposes of subsection (1) (b), a person shall be deemed to be ordinarily resident in Singapore on the prescribed date in a year if, on that date —
+(1A) For the purposes of subsection (1)(b), a person shall be deemed to be ordinarily resident in Singapore on the prescribed date in a year if the person has resided in Singapore for an aggregate of 30 days during the period of 3 years immediately preceding the prescribed date, even though the person is not resident in Singapore on that date.
 
-(a) the person is not resident in Singapore but has resided in Singapore for an aggregate of 2 years during the period of 5 years immediately preceding the prescribed date; or
-
-(b) the person is —
-
-(i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
-
-(ii) a public officer or an employee of a public authority employed in full-time service outside Singapore;
-
-(iii) a public officer or an employee of a public authority on full-time training outside Singapore;
-
-(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or a public authority;
-
-(v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135 (1) (c) (ii) of the Constitution of the Republic of Singapore; or
-
-(vi) the spouse or a parent, child or dependant of any person referred to in sub-paragraph (i), (ii), (iii), (iv) or (v) and is living with that person.
-
-[19/2001]
+[14/2008]
 
 (2) For the purposes of the preparation or revision of any register of electors a person who is a citizen of Singapore and to whom an identity card has been issued or deemed to have been issued on or before the prescribed date in any year under the provisions of the National Registration Act (Cap. 201) and has not been withdrawn shall, until the contrary be shown, be presumed —
 
@@ -45,7 +29,11 @@ Part: PART I PRELIMINARY
 
 [19/2001]
 
-(4) For the purposes of subsections (1), (1A) and (2), the prescribed date shall be 1st July or such other date as the Minister may, by order published in the Gazette, specify*.
+(4) For the purposes of subsections (1), (1A) and (2), the prescribed date shall be 1st July or such other date as the Minister may, by order
+
+1
+
+published in the Gazette, specify .
 
 [42/96; 19/2001]
 
@@ -53,8 +41,6 @@ Part: PART I PRELIMINARY
 
 [42/96]
 
-*Parliamentary Elections (Prescribed Date) Order 2006 (S 1/2006) which specified 1st January in any year to be the prescribed date w.e.f 3rd January 2006.
+(6) For the purposes of this section, the contact address of the holder of an identity card shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
 
-(6) For the purposes of this section, the contact address of the holder of an identity card referred to in section 8 (2) of the National Registration Act (Cap. 201) shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
-
-[19/2001]
+[19/2001; 14/2008]

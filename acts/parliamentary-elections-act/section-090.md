@@ -8,9 +8,9 @@ The election of a candidate as a Member shall be declared to be void on an appli
 
 (b) non-compliance with the provisions of this Act relating to elections, if it appears that the election was not conducted in accordance with the principles laid down in those provisions and that the non-compliance affected the result of the election;
 
-(c) that a corrupt practice or illegal practice was committed in connection with the election by the candidate or with his knowledge or consent or by any agent of the candidate;
+(c) that a corrupt practice or an illegal practice was committed in connection with the election by the candidate or with his knowledge or consent or by any agent of the candidate;
 
-(d) that the candidate personally engaged a person as his election agent, or as a canvasser or agent, knowing that the person had, within 7 years prior to the engagement, been convicted or found guilty of a corrupt practice by a District Court or by the report of an Election Judge;
+(d) that the candidate personally engaged a person as his election agent, or as a canvasser or an agent, knowing that the person had, within 7 years prior to the engagement, been convicted or found guilty of a corrupt practice by a District Court or by the report of an Election Judge;
 
 (e) that the candidate was at the time of his election a person disqualified for election as a Member.
 

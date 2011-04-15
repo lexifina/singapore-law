@@ -16,6 +16,6 @@ Heading: CONTESTED ELECTIONS
 
 (3) Every presiding officer of a polling station shall despatch each such packet and the ballot box or boxes in safe custody to the Returning Officer or an Assistant Returning Officer at the counting place where the votes cast at the polling station are to be counted in accordance with the provisions of this Act.
 
-(4) Where the Returning Officer has, in any direction made under section 48A (1), specified a polling station to be a counting place, the presiding officer of the polling station shall keep at that station every such packet and the ballot box or boxes in safe custody pending counting of the votes at that polling station.
+(4) Where the Returning Officer has, in any direction made under section 48A(1), specified a polling station to be a counting place, the presiding officer of the polling station shall keep at that station every such packet and the ballot box or boxes in safe custody pending counting of the votes at that polling station.
 
 [42/96]

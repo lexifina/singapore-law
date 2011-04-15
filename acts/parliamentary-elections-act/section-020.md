@@ -5,7 +5,7 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (2) The certified register shall —
 
-(a) in the case of a register prepared under section 10 (1) or (1A), come into operation at the next general election and not earlier; and
+(a) in the case of a register prepared under section 10(1) or (1A), come into operation at the next general election and not earlier; and
 
 (b) in the case of a revised register, come into operation on the date of publication of the notice of the certification of the register in the Gazette.
 
@@ -15,7 +15,7 @@ Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 [42/96]
 
-(3) Where a new electoral division is created under section 8 by the amalgamation of the whole of 2 or more existing electoral divisions, or where there is no change in the boundary of any electoral division specified in a notification under section 8 (1), section 10 shall not apply to that electoral division unless the Minister otherwise directs;
+(3) Where a new electoral division is created under section 8 by the amalgamation of the whole of 2 or more existing electoral divisions, or where there is no change in the boundary of any electoral division specified in a notification under section 8(1), section 10 shall not apply to that electoral division unless the Minister otherwise directs;
 
 and the certified registers of electors in operation for those existing electoral divisions which have been amalgamated to form any new electoral division shall be deemed to be the register of electors in operation for that new electoral division at the next general election.
 
