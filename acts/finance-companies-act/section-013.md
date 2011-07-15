@@ -9,10 +9,10 @@ Part: PART II LICENSING OF FINANCE COMPANIES
 
 [33/84]
 
-(2) For the purposes of this section, ‘‘voting shares’’ has the same meaning as in the Companies Act.
+(2) For the purposes of this section, ‘‘voting shares’’ has the same meaning as in the Companies Act (Cap. 50).
 
 [33/84]
 
-(3) A finance company that fails to comply with a direction under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(3) A finance company which fails to comply with a direction under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [33/84]

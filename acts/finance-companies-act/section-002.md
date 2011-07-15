@@ -33,9 +33,11 @@ or
 
 (a) borrowing money from the public, by acceptance of deposits and issuing certificates or other documents acknowledging or evidencing indebtedness to the public and undertaking to repay the money on call or after an agreed maturity period; and
 
-(b) lending money to the public or to a company deemed to be related to the finance company by virtue of section 6 of the Companies Act (Cap. 50) (referred to in this Act as the related company) on the basis that the public or the related company undertakes to repay the money, whether within an agreed period of time or not, or by instalments, and includes the business of financing hire-purchase transactions arising out of hire-purchase agreements, as defined in the Hire-Purchase Act (Cap. 125), where the money used, or to be used, for such business is borrowed from the public and such other business as the Authority may prescribe for the purposes of this Act;
+(b) lending money to the public or to a company deemed to be related to the finance company by virtue of section 6 of the Companies Act (referred to in this Act as the related company) on the basis that the public or the related company undertakes to repay the money, whether within an agreed period of time or not, or by instalments, and includes the business of financing hire-purchase transactions arising out of hire-purchase agreements, as defined in the Hire-Purchase Act (Cap. 125), where the money used, or to be used, for such business is borrowed from the public and such other business as the Authority may prescribe for the purposes of this Act;
 
 ‘‘Government securities’’ has the same meaning as in the Government Securities Act (Cap. 121A);
+
+‘‘limited liability partnership’’ has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
 ‘‘officer’’, in relation to a corporation, includes —
 
@@ -45,6 +47,8 @@ or
 
 (c) the liquidator of the corporation appointed in a voluntary winding up;
 
+‘‘partner’’ and ‘‘manager’’, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act;
+
 ‘‘person’’ includes a corporation;
 
 ‘‘public company’’ means a company incorporated in Singapore other than a private company;
@@ -53,4 +57,4 @@ or
 
 ‘‘share’’, in relation to a finance company, means a share in the share capital of the finance company and includes an interest in such a share.
 
-[33/84; 27/94]
+[33/84; 27/94; 5/2005]

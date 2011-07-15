@@ -21,7 +21,7 @@ Part: PART IV REGULATION OF BUSINESS
 
 [27/94]
 
-(2) Notwithstanding the provisions of subsection (1) (b) and (c), a finance company with capital funds of not less than $100 million may apply to the Authority for exemption from those provisions and the Authority may approve the application subject to —
+(2) Notwithstanding the provisions of subsection (1)(b) and (c), a finance company with capital funds of not less than $100 million may apply to the Authority for exemption from those provisions and the Authority may approve the application subject to —
 
 (a) the condition that the aggregate amount of foreign currency exposure of the finance company shall not at any time exceed 10% of its capital funds; and
 
@@ -29,7 +29,7 @@ Part: PART IV REGULATION OF BUSINESS
 
 [27/94]
 
-(3) Subsection (1) (d) and (e) shall not apply to —
+(3) Subsection (1)(d) and (e) shall not apply to —
 
 (a) transactions with the Government;
 
@@ -39,7 +39,7 @@ Part: PART IV REGULATION OF BUSINESS
 
 [27/94]
 
-(4) Subsection (1) (f) shall not apply to the purchase of —
+(4) Subsection (1)(f) shall not apply to the purchase of —
 
 (a) any Government securities; or
 
@@ -51,15 +51,15 @@ Part: PART IV REGULATION OF BUSINESS
 
 (a) any of its directors, whether those credit facilities are obtained by its directors jointly or severally;
 
-(b) a firm in which that finance company or any of its directors has an interest as a partner, manager or agent, or any individual or firm of whom or of which any of that finance company’s directors is a guarantor;
+(b) a firm or limited liability partnership in which that finance company or any of its directors has an interest as a partner, manager or agent;
 
-(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other stock exchange which the Authority may approve, and the subsidiaries of such public company;
+(ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
 
-or
+(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act (Cap. 289), and the subsidiaries of such public company; or
 
 (d) a corporation that is deemed to be related to the finance company as described in section 6 of the Companies Act (Cap. 50).
 
-[27/94]
+[27/94; 42/2001; 5/2005]
 
 (6) In this section —
 

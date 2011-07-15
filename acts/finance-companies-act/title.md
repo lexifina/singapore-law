@@ -5,25 +5,26 @@ Act
 43 of 1967
 Amended by
 21 of 1969
-1970 Ed. Cap. 191
-Amended by
-33 of 1984
+1970 Ed. Cap. 191 1995 Ed. Cap. 108 2000 Ed. Cap. 108
+Amended by Amended by Amended by
+33 of 1984 37 of 1998 42 of 2001
+25 of 1999 9 of 2003
 1985 Ed. Cap. 108
-Amended by
-27 of 1994
-9 of 1995
-1995 Ed. Cap. 108
-Amended by
-37 of 1998
-25 of 1999
-REVISED EDITION 2000
-(30th December 2000)
+24 of 2003
+Amended by 5 of 2005
+27 of 1994 31 of 2005
+9 of 1995 42 of 2005
+23 of 2008
+15 of 2010
+15 of 2011
+REVISED EDITION 2011
+(15th July 2011)
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
 THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
 PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+2011
 
 
 

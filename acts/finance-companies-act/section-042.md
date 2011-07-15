@@ -1,7 +1,7 @@
 # 42. Authority to administer Act
 Part: PART VIII MISCELLANEOUS
 
-(1) The Authority shall be charged with the general adminis- tration of this Act and the exercise of the functions imposed on it by this Act.
+(1) The Authority shall be charged with the general administration of this Act and the exercise of the functions imposed on it by this Act.
 
 (2) The Authority may authorise or appoint any person to assist it in the exercise of its functions and duties under this Act, either generally or in a particular case.
 

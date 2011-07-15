@@ -13,4 +13,4 @@ Part: PART IV REGULATION OF BUSINESS
 
 [33/84]
 
-(4) Nothing in this section shall operate to prevent the finance company from recovering the amount of any loan made in contra- vention of this section or any amount for which it becomes liable on account of any financial assistance given in contravention of this section.
+(4) Nothing in this section shall operate to prevent the finance company from recovering the amount of any loan made in contravention of this section or any amount for which it becomes liable on account of any financial assistance given in contravention of this section.

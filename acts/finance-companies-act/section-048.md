@@ -5,7 +5,7 @@ Part: PART VIII MISCELLANEOUS
 
 [33/84]
 
-(2) The Authority may, without instituting proceedings against any person for any offence under this Act, or any regulations made thereunder, which is punishable only by a fine or a default penalty, demand and receive the amount of such fine or default penalty or such reduced amount as he thinks fit from that person, whereupon —
+(2) The Authority may, without instituting proceedings against any person for any offence under this Act, or any regulations made thereunder, which is punishable only by a fine or a default penalty, demand and receive the amount of such fine or default penalty or such reduced amount as the Authority thinks fit from that person, whereupon —
 
 (a) if that person pays such amount to the Authority within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; and
 

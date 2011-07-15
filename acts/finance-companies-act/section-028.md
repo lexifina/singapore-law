@@ -21,6 +21,6 @@ Part: PART IV REGULATION OF BUSINESS
 
 [33/84]
 
-(6) A finance company that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(6) A finance company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 [33/84]

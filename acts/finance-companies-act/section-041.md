@@ -1,7 +1,7 @@
 # 41. Appointment and duties of auditors
 Part: PART VII SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS
 
-(1) Notwithstanding the provisions of the Companies Act, every finance company shall appoint annually an auditor approved by the Authority.
+(1) Notwithstanding the provisions of the Companies Act (Cap. 50), every finance company shall appoint annually an auditor approved by the Authority.
 
 [33/84]
 
@@ -17,9 +17,7 @@ Part: PART VII SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS
 
 [33/84]
 
-(4) The duties of an auditor appointed under subsections (1) and
-
-(3) shall be to carry out, for the year in respect of which he is appointed, an audit of the accounts of the finance company and to make a report in accordance with section 207 of the Companies Act.
+(4) The duties of an auditor appointed under subsections (1) and (3) shall be to carry out, for the year in respect of which he is appointed, an audit of the accounts of the finance company and to make a report in accordance with section 207 of the Companies Act.
 
 [33/84]
 
@@ -35,9 +33,7 @@ Part: PART VII SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS
 
 [33/84]
 
-(6) The auditor’s report made under subsection (4) shall be attached to the balance-sheet and the profit and loss account and a copy thereof together with any reports submitted under subsection
-
-(5) shall be transmitted in writing to the Authority.
+(6) The auditor’s report made under subsection (4) shall be attached to the balance-sheet and the profit and loss account and a copy thereof together with any reports submitted under subsection (5) shall be transmitted in writing to the Authority.
 
 [33/84]
 

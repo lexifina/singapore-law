@@ -1,4 +1,4 @@
-# 35. Action by Authority if finance company is unable to meet obligations or is conducting business to the detriment of its depositors or creditors
+# 35. Action by Authority if finance company is unable to meet obligations or is conducting business to detriment of its depositors or creditors
 Part: PART VI INSPECTION AND CONTROL OF FINANCE COMPANIES
 
 (1) Where —

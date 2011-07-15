@@ -9,7 +9,7 @@ Part: PART IV REGULATION OF BUSINESS
 
 (a) the revaluation of the assets of finance companies;
 
-(b) the maintenance of credit files of borrowers and classifi- cation of loans, advances and credit facilities of a finance company;
+(b) the maintenance of credit files of borrowers and classification of loans, advances and credit facilities of a finance company;
 
 (c) the restrictions on the granting of Singapore dollar credit facilities in whatever form or by whatever means to residents of Singapore where such facilities are to be used outside Singapore, or to non-residents;
 

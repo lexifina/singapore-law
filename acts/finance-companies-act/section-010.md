@@ -21,7 +21,9 @@ Part: PART II LICENSING OF FINANCE COMPANIES
 
 (ii) a reference to a person taking part in or proposing to take part in negotiations with a view to the acquisition of shares;
 
-(d) a person holds an interest in a share if he has any legal or equitable interest in that share and, without limiting the generality of the foregoing, an interest in shares shall have the meaning assigned to that expression in section 7 (6) to (10) of the Companies Act (Cap. 50);
+(d) a person holds an interest in a share if he has any legal or equitable interest in that share and, without limiting the generality of the foregoing, an interest in shares shall have the meaning assigned to that expression in section 7(6) to
+
+(10) of the Companies Act (Cap. 50);
 
 (e) a reference to the voting power in a finance company is a reference to the total number of votes that might be cast in the general meeting of the finance company;
 

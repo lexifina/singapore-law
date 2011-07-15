@@ -13,9 +13,7 @@ Part: PART II LICENSING OF FINANCE COMPANIES
 
 (i) creating a trust whether express or implied; and
 
-(ii) entering into a transaction or agreement,
-
-and references to an arrangement shall be construed accordingly; and
+(ii) entering into a transaction or agreement, and references to an arrangement shall be construed accordingly; and
 
 (c) the reference to associates of a person has the same reference as under section 10.
 

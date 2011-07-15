@@ -29,6 +29,6 @@ Part: PART III RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [27/94]
 
-(7) Any finance company which fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+(7) Any finance company which fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
 
 [27/94]

@@ -11,11 +11,11 @@ and
 
 [27/94]
 
-(2) Notwithstanding subsection (1) (a), the Authority may, at any time, after 8 years from 18th January 1995, by order require the issued and paid-up capital of a finance company to which that subsection applies to be not less than $50 million within such time as may be specified in that order.
+(2) Notwithstanding subsection (1)(a), the Authority may, at any time, after 8 years from 18th January 1995, by order require the issued and paid-up capital of a finance company to which that subsection applies to be not less than $50 million within such time as may be specified in that order.
 
 [27/94]
 
-(3) Subject to subsection (4), a finance company to which subsection (1) (a) applies which has capital funds of less than $50 million on 18th January 1995 shall be exempt from the requirement of that provision for 8 years from 18th January 1995 and shall not during that period allow its capital funds to be less than its capital funds on that date.
+(3) Subject to subsection (4), a finance company to which subsection (1)(a) applies which has capital funds of less than $50 million on 18th January 1995 shall be exempt from the requirement of that provision for 8 years from 18th January 1995 and shall not during that period allow its capital funds to be less than its capital funds on that date.
 
 [27/94]
 

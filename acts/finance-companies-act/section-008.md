@@ -23,6 +23,6 @@ and
 
 (b) without assigning any reason, refuse to grant the application, and the decision of the Authority shall be final.
 
-(4) Any finance company that fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues.
+(4) Any finance company which fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues.
 
 [33/84]

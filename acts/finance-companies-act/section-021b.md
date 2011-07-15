@@ -9,15 +9,15 @@ Part: PART III RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [27/94]
 
-(3) For the purposes of subsection (1), a general notice given to the board of directors of a finance company by a director to the effect that he is an officer or member of a specified company or a member of a specified firm and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that company or firm shall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
+(3) For the purposes of subsection (1), a general notice given to the board of directors of a finance company by a director to the effect that he is an officer or member of a specified company or a member of a specified firm or partner or manager of a specified limited liability partnership and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that company, firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
 
-(a) it specifies the nature and extent of his interest in the particular company or firm;
+(a) it specifies the nature and extent of his interest in the particular company, firm or limited liability partnership;
 
 (b) his interest is not different in nature or greater in extent than the nature and extent so specified in the notice at the time any advance, loan or credit facility is made; and
 
 (c) it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
 
-[27/94]
+[27/94; 5/2005]
 
 (4) Every director of a finance company who holds any office or possesses any property whereby, directly or indirectly, duties or interests might be created in conflict with his duties or interests as director shall declare at a meeting of the directors of that finance company the fact and the nature, character and extent of such conflict.
 

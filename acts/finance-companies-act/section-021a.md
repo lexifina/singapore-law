@@ -5,9 +5,9 @@ Part: PART III RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (a) any of the directors of the finance company;
 
-(b) any firm in which the finance company or any of its directors is a partner, manager or agent;
+(b) any firm or limited liability partnership in which the finance company or any of its directors is a partner, manager or agent;
 
-(c) any individual or firm of whom or of which any of the directors of the finance company is a guarantor;
+(c) any individual or firm or limited liability partnership of whom or of which any of the directors of the finance company is a guarantor;
 
 (d) any corporation that is related to the finance company;
 
@@ -15,9 +15,9 @@ Part: PART III RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (f) any private or public company in which the finance company or any of its directors, officers, employees or other persons who receive remuneration from the finance company has an interest as a director, manager, agent or guarantor; or
 
-(g) any individual in whom, and any firm or company in which, any of the directors of the finance company has, directly or indirectly, such interest as is required to be declared under section 21B, other than those advances, loans and credit facilities, the particulars of which have been supplied under paragraphs (a) to (f).
+(g) any individual in whom, and any firm or limited liability partnership or company in which, any of the directors of the finance company has, directly or indirectly, such interest as is required to be declared under section 21B, other than those advances, loans and credit facilities, the particulars of which have been supplied under paragraphs (a) to (f).
 
-[27/94]
+[27/94; 5/2005]
 
 (2) Where it appears to the Authority, on examination of the particulars supplied by a finance company under subsection (1), that any advance, loan or credit facility has been or may be granted to the detriment of the interests of the depositors of the finance company (referred to in this subsection as the advance, loan or credit facility), the Authority may as it thinks fit by notice in writing —
 

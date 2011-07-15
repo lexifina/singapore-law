@@ -9,6 +9,6 @@ Part: PART IV REGULATION OF BUSINESS
 
 [33/84]
 
-(3) A finance company that fails to comply with any requirement of the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues after conviction.
+(3) A finance company which fails to comply with any requirement of the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 for every day during which the default continues after conviction.
 
 [33/84]
