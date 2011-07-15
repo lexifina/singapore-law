@@ -1,7 +1,7 @@
 # 10. Deposits by candidates
 Part: PART II ELECTIONS
 
-(1) A candidate, or some person on his behalf, shall deposit or cause to be deposited with the Returning Officer, or with some person authorised by the Returning Officer in that behalf, between the date of the issue of the writ under section 6 and 12 noon of nomination day, a sum equal to 3 times the amount of deposit referred to in section 28 (1) of the Parliamentary Elections Act (Cap. 218).
+(1) A candidate, or some person on his behalf, shall deposit or cause to be deposited with the Returning Officer, or with some person authorised by the Returning Officer in that behalf, between the date of the issue of the writ under section 6 and 12 noon of nomination day, a sum equal to 3 times the amount of deposit referred to in section 28(1) of the Parliamentary Elections Act (Cap. 218).
 
 (1A) In default of a deposit under this section being so made, the candidate shall be deemed to have withdrawn his candidature under section 13.
 
@@ -9,7 +9,9 @@ Part: PART II ELECTIONS
 
 (3) Any sum required to be deposited under subsection (1) shall be paid in legal tender or by a bank draft or a certified cheque.
 
-(4) If a candidate is not nominated as a candidate for election or if, after the deposit under this section is made, the candidate withdraws his candidature under section 13, the deposit shall be returned to the person by whom the deposit is made.
+(4) If a candidate is not nominated as a candidate for election, an election has wholly failed or if, after the deposit under this section is made, the candidate withdraws his candidature under section 13, the deposit shall be returned to the person by whom the deposit was made.
+
+[11/2010]
 
 (4A) If the candidate dies after the deposit is made and before the poll has commenced, the deposit, if made by him, shall be returned to his legal personal representative or, if not made by him, shall be returned to the person by whom the deposit was made.
 

@@ -1,4 +1,4 @@
-# 82. Inaccurate description of places and persons
+# 82. Inaccurate description of persons and places
 Part: PART VI GENERAL
 
 (1) No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document whatsoever prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.

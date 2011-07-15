@@ -13,7 +13,7 @@ and
 
 [19/2001]
 
-(2) Not earlier than 4 clear days before polling day, the Auditor- General or person appointed by the Minister under section 33A (1) shall inspect and conduct or cause to be inspected and conducted such tests on every DRE voting machine and direct recording electronic voting equipment to be used at a poll, and if he is satisfied that any such DRE voting machine and equipment are in the proper order for use at a poll, he shall not later than on the eve of polling day —
+(2) Not earlier than 4 clear days before polling day, the Auditor- General or person appointed by the Minister under section 33A(1) shall inspect and conduct or cause to be inspected and conducted such tests on every DRE voting machine and direct recording electronic voting equipment to be used at a poll, and if he is satisfied that any such DRE voting machine and equipment are in the proper order for use at a poll, he shall not later than on the eve of polling day —
 
 (a) approve the DRE voting machine and equipment so tested for use at the poll;
 
@@ -23,7 +23,7 @@ and
 
 (d) make a record containing the identification numbers of every such approved DRE voting machine and the respective polling stations to which each has been allocated; and
 
-(e) furnish a copy of the record to such candidate or his election agent who requests for such a copy before polling day.
+(e) furnish a copy of the record to such candidate or his election agent who requests such a copy before polling day.
 
 [19/2001]
 

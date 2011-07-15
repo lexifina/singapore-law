@@ -1,15 +1,13 @@
 # 33C. Pre-poll testing of DRE voting system, etc.
 Part: PART II ELECTIONS
 
-(1) Immediately before the commencement of the poll in any electoral division specified in a notice under section 16 (5), the presiding officer at every polling station within the electoral division shall, and in the sight of such person as may be present at the polling station —
+(1) Immediately before the commencement of the poll in any electoral division specified in a notice under section 16(5), the presiding officer at every polling station within the electoral division shall, and in the sight of such person as may be present at the polling station —
 
-(a) ensure that every DRE voting machine and direct recording electronic voting equipment delivered to the polling station for use at the poll is approved under section 33B (2) and still sealed and secured against use;
+(a) ensure that every DRE voting machine and direct recording electronic voting equipment delivered to the polling station for use at the poll is approved under section 33B(2) and still sealed and secured against use;
 
 (b) install the approved DRE voting machine and direct recording electronic voting equipment for use at the poll at the polling station;
 
-(c) inspect and test each DRE voting machine and direct recording electronic voting equipment so installed in the prescribed manner to ensure that it is functioning properly and take such corrective action (including replacement or repair) as is necessary to ensure that it is functioning properly;
-
-and
+(c) inspect and test each DRE voting machine and direct recording electronic voting equipment so installed in the prescribed manner to ensure that it is functioning properly and take such corrective action (including replacement or repair) as is necessary to ensure that it is functioning properly; and
 
 (d) unsecure the DRE voting machine for use at the poll.
 

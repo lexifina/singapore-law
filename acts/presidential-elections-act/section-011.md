@@ -11,9 +11,7 @@ Part: PART II ELECTIONS
 
 (3) The Returning Officer shall immediately cause a copy of the nomination papers to be posted in a conspicuous position outside the place of nomination.
 
-(4) The Returning Officer shall permit the candidates and their proposers, seconders and assentors and one other person, if any, appointed by each candidate in writing to be present on nomination day and at the place of nomination between 11 a.m. and 12.30 p.m.
-
-and there and then to examine the nomination papers of candidates which have been received by the Returning Officer.
+(4) The Returning Officer shall permit the candidates and their proposers, seconders and assentors and one other person, if any, appointed by each candidate in writing to be present on nomination day and at the place of nomination between 11 a.m. and 12.30 p.m. and there and then to examine the nomination papers of candidates which have been received by the Returning Officer.
 
 [19/2005]
 

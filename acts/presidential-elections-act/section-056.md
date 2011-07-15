@@ -4,7 +4,7 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (1) Within 31 days after the date of publication of the result of an election in the Gazette, the principal election agent of every candidate at that election shall transmit to the Returning Officer a true return (referred to in this Act as the return respecting election expenses), in the prescribed form, containing detailed statements as respects the candidate of —
 
-(a) all payments made by every election agent of the candidate together with all the bills and receipts referred to in section 47 (1), which bills and receipts are in this Act included in the expression ‘‘return respecting election expenses’’, and the dates of payment of all sums for which no receipt is attached;
+(a) all payments made by every election agent of the candidate together with all the bills and receipts referred to in section 47(1), which bills and receipts are in this Act included in the expression ‘‘return respecting election expenses’’, and the dates of payment of all sums for which no receipt is attached;
 
 (b) the amount of personal expenses, if any, paid by the candidate;
 
@@ -26,6 +26,6 @@ and
 
 [18/99]
 
-(4) In this section, ‘‘donation’’ has the same meaning as in section 3 (1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
+(4) In this section, ‘‘donation’’ has the same meaning as in section 3(1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
 
 [19/2005]

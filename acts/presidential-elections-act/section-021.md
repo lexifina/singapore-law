@@ -3,7 +3,9 @@ Part: PART II ELECTIONS
 
 (1) A person who, by reason of circumstances existing on the day of an election, is by virtue of the provisions of this Act or the Parliamentary Elections Act (Cap. 218), not entitled to have his name entered or retained in any register of electors shall not be entitled to vote at the election.
 
-(2) If the person mentioned in subsection (1) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(2) If the person mentioned in subsection (1) votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both, and shall, on conviction, become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.
+
+[11/2010]
 
 (3) The register of electors in operation in accordance with the Parliamentary Elections Act at the time of any election shall be conclusive evidence for the purpose of determining whether a person is or is not entitled to vote at the election.
 

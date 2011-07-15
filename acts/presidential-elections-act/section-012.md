@@ -11,7 +11,9 @@ Part: PART II ELECTIONS
 
 (d) that the provisions of section 10 have not been observed.
 
-(2) No objection to a nomination paper shall be allowed unless it is made to the Returning Officer between 11 a.m. and 12.30 p.m. on nomination day.
+(2) No objection to a nomination paper shall be allowed unless it is made to the Returning Officer between 11 a.m. and 12.30 p.m.
+
+on nomination day.
 
 (3) Every objection shall be in writing signed by the objector and shall specify the ground of objection.
 

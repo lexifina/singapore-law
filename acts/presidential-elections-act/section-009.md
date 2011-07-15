@@ -21,17 +21,13 @@ Part: PART II ELECTIONS
 
 (4) Each candidate shall at the time of his nomination deliver to the Returning Officer —
 
-(a) (Deleted by Act 19 of 2005);
+(a) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236); and
 
-(b) (Deleted by Act 19 of 2005);
-
-(ba) a political donation certificate issued to him by the Registrar of Political Donations under section 18 (4) of the Political Donations Act (Cap. 236); and
-
-(c) the certificate issued under section 8.
+(b) the certificate issued under section 8.
 
 [20/2000; 19/2005]
 
-(5) If any statutory declaration which is required by subsection (3) (c) to be made is not so made, or any certificate which is required to be delivered under subsection (4) is not so delivered, the nomination of the candidate shall be deemed to be void.
+(5) If any statutory declaration which is required by subsection (3)(c) to be made is not so made, or any certificate which is required to be delivered under subsection (4) is not so delivered, the nomination of the candidate shall be deemed to be void.
 
 [19/2005]
 

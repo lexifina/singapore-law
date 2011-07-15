@@ -25,7 +25,9 @@ and
 
 (5) Every voter shall vote without undue delay and shall quit the polling station as soon as he has put his ballot paper into the ballot box.
 
-(6) The presiding officer or any person authorised by him may ask any voter if the voter understands the method of voting in accordance with this Act and may, if he thinks fit, on the application of any voter, explain to the voter, in the presence of the polling agents of the candidates if present, the method of voting in accordance with this Act; but in so doing he shall carefully abstain from any action which might be construed by the voter as advice or a direction to vote for any candidate.
+(6) The presiding officer or any person authorised by him may ask any voter if the voter understands the method of voting in accordance with this Act and may, if he thinks fit, on the application of any voter, explain to the voter, in the presence of the polling agents of the candidates if present, the method of voting in accordance with this Act;
+
+but in so doing he shall carefully abstain from any action which might be construed by the voter as advice or a direction to vote for any candidate.
 
 (7) The presiding officer, on the application of a voter who is incapacitated by blindness or other physical cause from voting in the manner prescribed by this Act, shall mark the ballot paper of the voter in the manner directed by the voter, and shall cause the ballot paper to be placed in the ballot box.
 

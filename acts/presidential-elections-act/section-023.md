@@ -7,7 +7,7 @@ Part: PART II ELECTIONS
 
 (2) Every ballot paper shall —
 
-(a) contain a list of the candidates in English, described, subject to section 11 (5) and (6), as in their respective nomination papers, and arranged alphabetically in English in the order of their surnames, and, if there are 2 or more such candidates with the same surname, of their other names, and the symbol allotted to each candidate;
+(a) contain a list of the candidates in English, described, subject to section 11(5) and (6), as in their respective nomination papers, and arranged alphabetically in English in the order of their surnames, and, if there are 2 or more such candidates with the same surname, of their other names, and the symbol allotted to each candidate;
 
 (b) be in the prescribed form;
 

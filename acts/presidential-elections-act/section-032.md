@@ -5,15 +5,15 @@ Part: PART II ELECTIONS
 
 [18/99]
 
-(2) Each candidate or any of his election agents may appoint not more than one counting agent to attend the counting of votes at each counting place specified in the direction made under section 31A (1).
+(2) Each candidate or any of his election agents may appoint not more than one counting agent to attend the counting of votes at each counting place specified in the direction made under section 31A(1).
 
 [12/93; 18/99]
 
 (2A) The Returning Officer shall make arrangements for counting the votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
-(a) where only one counting place is specified in a direction made under section 31A (1) — after he has received all the ballot boxes used during the poll conducted in Singapore; or
+(a) where only one counting place is specified in a direction made under section 31A(1) — after he has received all the ballot boxes used during the poll conducted in Singapore; or
 
-(b) where more than one counting place is specified in a direction made under section 31A (1), after —
+(b) where more than one counting place is specified in a direction made under section 31A(1), after —
 
 (i) the procedure in section 31 has been complied with at the close of the poll if the counting place is also a polling station; and
 
@@ -33,7 +33,7 @@ Part: PART II ELECTIONS
 
 [42/2005]
 
-(8) Where only one counting place is specified in a direction made under section 31A (1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at the sole counting place or, if a recount thereof is allowed under section 32B, after that recount is completed, immediately act as follows:
+(8) Where only one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at the sole counting place or, if a recount thereof is allowed under section 32B, after that recount is completed, immediately act as follows:
 
 (a) where the total number of overseas electors lawfully entitled to vote at the election is less than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate to whom the greatest number of votes is given to be elected; or
 
@@ -41,7 +41,7 @@ Part: PART II ELECTIONS
 
 [19/2001]
 
-(8A) Where more than one counting place is specified in a direction made under section 31A (1), the Returning Officer shall, immediately after the completion of the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 32B, after that recount is completed, at each counting place —
+(8A) Where more than one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 32B, after that recount is completed, at each counting place —
 
 (a) announce to the candidates or their counting agents as attend the number of votes given to each candidate;
 
@@ -51,15 +51,13 @@ Part: PART II ELECTIONS
 
 (d) seal up in an envelope the record of counting and despatch or deliver the envelope in safe custody to the principal counting place for that electoral division.
 
-(e) (Deleted by Act 19 of 2001)
-
-(f) (Deleted by Act 19 of 2001)
-
 [12/93; 42/96; 19/2001]
 
 (8B) Except with the sanction of the Returning Officer, no person other than —
 
-(a) the Returning Officer and such other officers and staff appointed by him to assist him in adding the votes cast for each candidate at the counting places and ascertaining the total number of votes given to each candidate at the poll; and
+(a) the Returning Officer and such other officers and staff appointed by him to assist him in adding the votes cast for each candidate at the counting places and ascertaining the total number of votes given to each candidate at the poll;
+
+and
 
 (b) the candidates and their principal election agents, may be present at the principal counting place during the addition of the votes.
 

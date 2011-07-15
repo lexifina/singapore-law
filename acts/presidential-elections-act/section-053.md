@@ -14,14 +14,10 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (4) No person shall between 8 a.m. and 8 p.m. on polling day park a motor vehicle within 100 metres of any polling station other than a motor vehicle used for the conveyance of any sick, infirm or disabled person for such time as is reasonably necessary to enable the person to cast his vote.
 
-(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
-(6) A police officer in uniform may, subject to subsection (7), arrest without warrant any person in charge of or driving a motor vehicle, who has committed or is suspected of having committed an offence under this section.
+[11/2010]
 
-(7) The power of arrest under subsection (6) shall not be exercised if either —
+(6) The illegal practice and the offence under subsections (1A) and (4), respectively, shall each be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
 
-(a) such person on the demand of the police officer produces his driving licence so as to enable the officer to ascertain his name and address, the date of issue and the authority by which the licence was issued; or
-
-(b) such person, not being a paid driver or the driver of a motor vehicle used for the carriage of passengers for hire or reward or for the carriage of goods, gives the police officer his name and a place of address within Singapore.
-
-(8) If the police officer has reason to suspect that a name or address so ascertained or given is false he may, notwithstanding subsection (7), exercise the power of arrest under subsection (6).
+[11/2010]

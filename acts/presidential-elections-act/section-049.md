@@ -12,7 +12,7 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (3) The personal expenses of a candidate shall include his reasonable travelling expenses and the reasonable expenses of his living at hotels or elsewhere for the purposes of the election.
 
-(4) Any person may, if so authorised in writing by any election agent of the candidate pay any necessary expense for stationery, postage, telegrams, and other petty expenses to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent.
+(4) Any person may, if so authorised in writing by any election agent of the candidate, pay any necessary expense for stationery, postage, telegrams, and other petty expenses to a total amount not exceeding that named in the authority, but any excess above the total amount so named shall be paid by the election agent.
 
 [18/99]
 

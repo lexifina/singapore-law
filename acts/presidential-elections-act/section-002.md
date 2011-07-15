@@ -9,9 +9,9 @@ In this Act, unless the context otherwise requires —
 
 ‘‘candidate’’ means a person who is nominated as a candidate for election to the office of President;
 
-‘‘Commissioner of National Registration’’ means the Commis- sioner of National Registration appointed under the National Registration Act (Cap. 201);
+‘‘Commissioner of National Registration’’ means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
 
-‘‘direct recording electronic voting machine’’ or ‘‘DRE voting machine’’ means any mechanical, electronic or electro- optical machine that can —
+‘‘direct recording electronic voting machine’’ or ‘‘DRE voting machine’’ means any mechanical, electronic or electro-optical machine that can —
 
 (a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
 
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘overseas elector’’ means an elector who is registered under the Parliamentary Elections Act in any register of electors as an overseas elector;
 
-‘‘overseas polling station’’ means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore approved under section 36A (2) of the Parliamentary Elections Act (Cap. 218) to be an overseas polling station;
+‘‘overseas polling station’’ has the same meaning as in the Parliamentary Elections Act;
 
 ‘‘polling district’’ means a part of an electoral division subdivided under section 9 of the Parliamentary Elections Act;
 
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires —
 
 ‘‘Presidential Elections Committee’’ means the Presidential Elections Committee established under Article 18 of the Constitution;
 
-‘‘principal election agent’’ means an election agent of a candidate who has been appointed under section 43 (2A) as the principal election agent;
+‘‘principal election agent’’ means an election agent of a candidate who has been appointed under section 43(2A) as the principal election agent;
 
 ‘‘register’’ or ‘‘register of electors’’ means the register of electors for any particular electoral division maintained under the Parliamentary Elections Act;
 
@@ -55,4 +55,4 @@ In this Act, unless the context otherwise requires —
 
 ‘‘voter’’ means a person who, whether his name does or does not appear in a register of electors, applies to vote or votes at an election.
 
-[12/93; 18/99; 19/2001]
+[12/93; 18/99; 19/2001; 14/2008]

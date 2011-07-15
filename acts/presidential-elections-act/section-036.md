@@ -1,4 +1,4 @@
-# 36. Maintenance of secrecy at elections
+# 36. Maintenance of secrecy at elections Postponement and adjournment of elections
 Part: PART II ELECTIONS
 
 (1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, shall, before so attending, make an oath of secrecy, substantially in the prescribed form.
@@ -25,4 +25,8 @@ Part: PART II ELECTIONS
 
 [19/2001]
 
-(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
+(7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
+
+[11/2010]
+
+Postponement and adjournment of elections

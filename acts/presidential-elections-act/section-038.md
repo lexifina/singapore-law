@@ -10,4 +10,4 @@ Chapter: Chapter 2 — Corrupt Practices
 
 [19/2001]
 
-(2) The offence of personation under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+(2) The offence of personation under this section shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).

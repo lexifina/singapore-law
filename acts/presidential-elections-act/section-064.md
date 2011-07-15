@@ -20,6 +20,10 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 [18/99]
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him before a Magistrate’s Court to be dealt with according to law.
+[11/2010]
+
+(4) The offence under subsection (3) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
+
+[11/2010]

@@ -17,9 +17,9 @@ Part: PART II ELECTIONS
 
 (4) In the event of any dispute arising regarding the allocation of any symbol under this section, the decision of the Returning Officer shall be final and shall not be questioned.
 
-(5) Subject to section 6 (1), the Returning Officer shall cause to be published in the Gazette a notice in the prescribed form specifying —
+(5) Subject to section 6(1), the Returning Officer shall cause to be published in the Gazette a notice in the prescribed form specifying —
 
-(a) the date on which the poll will be taken, being a date not less than 9 days or more than 8 weeks after the date of publication of the notice in the Gazette (referred to in this Act as polling day);
+(a) the date on which the poll will be taken, the date being not earlier than the 10th day, and not later than the 56th day, after the date of publication of the notice in the Gazette (referred to in this Act as polling day);
 
 (aa) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system and the electoral division which will use the system at the poll;
 
@@ -31,14 +31,16 @@ and
 
 (c) the locations of the polling stations.
 
-[19/2001]
+[19/2001; 11/2010]
 
-(6) In computing time for the purpose of subsection (5) (a), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or any other written law.
+(6) In computing time for the purpose of subsection (5)(a), the last day of the period shall not be excluded only by reason of the fact that it is a Sunday or that it is a public holiday under the provisions of this Act or any other written law.
 
 (7) If, after an election has been reported as contested, one of the candidates nominated dies before the poll has commenced, the Returning Officer shall, upon being satisfied of the fact of the death —
 
 (a) countermand the notice for the poll; and
 
-(b) appoint by notice published in the Gazette a fresh date for the election.
+(b) appoint by notice published in the Gazette a fresh date, time and place for the nomination of candidates for election, at least 4 clear days before the fresh date fixed for such nomination.
+
+[11/2010]
 
 (8) In the case referred to in subsection (7), all proceedings with reference to the election shall be commenced afresh, except that no fresh nomination shall be necessary in the case of the candidates who stood nominated at the time of the countermand of the poll.

@@ -15,7 +15,7 @@ Part: PART V APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 [42/2005]
 
-(4) Any person refusing to obey the order of the Election Judge under subsection (3) (a) shall be guilty of a contempt of court.
+(4) Any person refusing to obey the order of the Election Judge under subsection (3)(a) shall be guilty of a contempt of court.
 
 (5) The Election Judge shall be attended on the hearing of an application under section 71 in the same manner as if he were a Judge of the Supreme Court sitting at assizes.
 

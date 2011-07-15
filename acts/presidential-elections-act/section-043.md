@@ -18,11 +18,11 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 [18/99]
 
-(4) The appointment of a principal election agent or election agent, whether the person so appointed be any of the candidates or not, may be revoked.
+(4) The appointment of a principal election agent or an election agent, whether the person so appointed be any of the candidates or not, may be revoked.
 
 [18/99]
 
-(5) In the event of such revocation or of the death of a principal election agent or election agent, as the case may be, whether the event is before, during or after the election, another principal election agent shall or another election agent may then immediately be appointed.
+(5) In the event of such revocation or of the death of a principal election agent or an election agent, as the case may be, whether the event is before, during or after the election, another principal election agent shall or another election agent may then immediately be appointed.
 
 [18/99]
 

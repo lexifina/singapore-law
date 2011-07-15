@@ -1,10 +1,14 @@
-# 59. Badges, symbols, etc., prohibited on polling day
+# 59. Badges, symbols, etc., prohibited on polling day and eve of polling day
 Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
 Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
-(1) Subject to subsection (4), no badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motor-car, truck or other vehicle as political propaganda on polling day.
+(1) Subject to subsection (4), no badge, symbol, rosette, favour, set of colours, flag, advertisement, handbill, placard or poster or any replica of a voting paper shall be worn, used, carried or displayed by any person or on any motor-car, truck or other vehicle as political propaganda on polling day or on the eve of polling day at an election.
 
-(2) Any police officer may arrest without warrant any person offending in his view against subsection (1) and take him before a Magistrate’s Court to be dealt with according to law.
+[11/2010]
+
+(2) The offence under subsection (3) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
+
+[11/2010]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 

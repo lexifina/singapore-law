@@ -1,9 +1,7 @@
 # 34. Publication of result and statement of poll in the Gazette
 Part: PART II ELECTIONS
 
-(1) After declaring the result under section 32 (8) (a) or
-
-(8D) (a) and counting of all votes cast by overseas electors or after declaring the result under section 32A (5), as the case may be, the Returning Officer shall immediately compile a statement of the poll in the prescribed form and shall cause the statement and the name of the person elected to the office of President to be published in the Gazette.
+(1) After declaring the result under section 32(8)(a) or (8D)(a) and counting of all votes cast by overseas electors or after declaring the result under section 32A(5), as the case may be, the Returning Officer shall immediately compile a statement of the poll in the prescribed form and shall cause the statement and the name of the person elected to the office of President to be published in the Gazette.
 
 [19/2001]
 

@@ -5,7 +5,7 @@ Part: PART II ELECTIONS
 
 [19/2001]
 
-(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 31A (1A).
+(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 31A(1A).
 
 [19/2001]
 
@@ -17,7 +17,7 @@ Part: PART II ELECTIONS
 
 [19/2001]
 
-(5) Where the Returning Officer has made a declaration under section 32 (8) (b) or (8D) (b), the number of votes given by overseas electors to each candidate shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate, and the Returning Officer shall immediately declare the candidate to whom the greatest total number of votes cast to be elected.
+(5) Where the Returning Officer has made a declaration under section 32(8)(b) or (8D)(b), the number of votes given by overseas electors to each candidate shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate, and the Returning Officer shall immediately declare the candidate to whom the greatest total number of votes is given to be elected.
 
 [19/2001]
 
@@ -29,7 +29,7 @@ Part: PART II ELECTIONS
 
 (c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
 
-(d) subject to section 32 (11), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+(d) subject to section 32(11), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
 
 (e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
 
