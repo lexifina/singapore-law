@@ -1,0 +1,11 @@
+# 5. Bill of sale to be accompanied by schedule of property
+
+(1) Every bill of sale shall have annexed thereto or written thereon a schedule containing an inventory of the personal chattels comprised in the bill of sale, and such bill of sale, except as hereinafter mentioned, shall have effect only in respect of the personal chattels specifically described in that schedule and shall be void in respect of any personal chattels not so specifically described.
+
+(2) Subject to this Act every bill of sale shall be void in respect of any personal chattels specifically described in the schedule thereto of which the grantor was not the true owner at the time of the execution of the bill of sale.
+
+(3) Nothing in this section shall render a bill of sale void in respect of any of the following things:
+
+(a) any growing crops separately assigned or charged where such crops were actually growing at the time when the bill of sale was executed;
+
+(b) any fixtures separately assigned or charged and any plant or trade machinery where such fixtures, plant or trade machinery are used in, attached to, or brought upon any land, plantation, factory, workshop, warehouse or other place in substitution for any of the like fixtures, plant or trade machinery specifically described in the schedule to such bill of sale.
