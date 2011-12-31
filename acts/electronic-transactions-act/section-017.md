@@ -1,14 +1,20 @@
-# 17. Secure electronic signature
-Part: PART V SECURE ELECTRONIC RECORDS AND SIGNATURES
+# 17. Secure electronic record
+Part: PART III SECURE ELECTRONIC RECORDS AND SIGNATURES
 
-If, through the application of a prescribed security procedure or a commercially reasonable security procedure agreed to by the parties involved, it can be verified that an electronic signature was, at the time it was made —
+(1) If a specified security procedure, or a commercially reasonable security procedure agreed to by the parties involved, has been properly applied to an electronic record to verify that the electronic record has not been altered since a specific point in time, such record shall be treated as a secure electronic record from such specific point in time to the time of verification.
 
-(a) unique to the person using it;
+(2) For the purposes of this section and section 18, whether a security procedure is commercially reasonable shall be determined having regard to the purposes of the procedure and the commercial circumstances at the time the procedure was used, including —
 
-(b) capable of identifying such person;
+(a) the nature of the transaction;
 
-(c) created in a manner or using a means under the sole control of the person using it; and
+(b) the sophistication of the parties;
 
-(d) linked to the electronic record to which it relates in a manner such that if the record was changed the electronic signature would be invalidated,
+(c) the volume of similar transactions engaged in by either or all parties;
 
-such signature shall be treated as a secure electronic signature.
+(d) the availability of alternatives offered to but rejected by any party;
+
+(e) the cost of alternative procedures; and
+
+(f) the procedures in general use for similar types of transactions.
+
+[ETA, s. 16]

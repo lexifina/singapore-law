@@ -1,18 +1,14 @@
-# 16. Secure electronic record
-Part: PART V SECURE ELECTRONIC RECORDS AND SIGNATURES
+# 16. Error in electronic communications
+Part: PART II ELECTRONIC RECORDS, SIGNATURES AND CONTRACTS
 
-(1) If a prescribed security procedure or a commercially reasonable security procedure agreed to by the parties involved has been properly applied to an electronic record to verify that the electronic record has not been altered since a specific point in time, such record shall be treated as a secure electronic record from such specific point in time to the time of verification.
+(1) Where a natural person makes an input error in an electronic communication exchanged with the automated message system of another party and the automated message system does not provide the person with an opportunity to correct the error, that person, or the party on whose behalf that person was acting, has the right to withdraw the portion of the electronic communication in which the input error was made.
 
-(2) For the purposes of this section and section 17, whether a security procedure is commercially reasonable shall be determined having regard to the purposes of the procedure and the commercial circumstances at the time the procedure was used, including —
+(2) Subsection (1) shall not apply unless the person, or the party on whose behalf that person was acting —
 
-(a) the nature of the transaction;
+(a) notifies the other party of the error as soon as possible after having learned of the error and indicates that he made an error in the electronic communication; and
 
-(b) the sophistication of the parties;
+(b) has not used or received any material benefit or value from the goods or services, if any, received from the other party.
 
-(c) the volume of similar transactions engaged in by either or all parties;
+(3) Nothing in this section shall affect the application of any rule of law that may govern the consequences of any error other than as provided for in subsections (1) and (2).
 
-(d) the availability of alternatives offered to but rejected by any party;
-
-(e) the cost of alternative procedures; and
-
-(f) the procedures in general use for similar types of transactions.
+[UN, Art. 14]

@@ -1,18 +1,16 @@
-# 18. Presumptions relating to secure electronic records and signatures
-Part: PART V SECURE ELECTRONIC RECORDS AND SIGNATURES
+# 18. Secure electronic signature
+Part: PART III SECURE ELECTRONIC RECORDS AND SIGNATURES
 
-(1) In any proceedings involving a secure electronic record, it shall be presumed, unless evidence to the contrary is adduced, that the secure electronic record has not been altered since the specific point in time to which the secure status relates.
+(1) If, through the application of a specified security procedure, or a commercially reasonable security procedure agreed to by the parties involved, it can be verified that an electronic signature was, at the time it was made —
 
-(2) In any proceedings involving a secure electronic signature, it shall be presumed, unless evidence to the contrary is adduced, that —
+(a) unique to the person using it;
 
-(a) the secure electronic signature is the signature of the person to whom it correlates; and
+(b) capable of identifying such person;
 
-(b) the secure electronic signature was affixed by that person with the intention of signing or approving the electronic record.
+(c) created in a manner or using a means under the sole control of the person using it; and
 
-(3) In the absence of a secure electronic record or a secure electronic signature, nothing in this Part shall create any presumption relating to the authenticity and integrity of the electronic record or electronic signature.
+(d) linked to the electronic record to which it relates in a manner such that if the record was changed the electronic signature would be invalidated, such signature shall be treated as a secure electronic signature.
 
-(4) For the purposes of this section —
+(2) Whether a security procedure is commercially reasonable shall be determined in accordance with section 17(2).
 
-‘‘secure electronic record’’ means an electronic record treated as a secure electronic record by virtue of section 16 or 19;
-
-‘‘secure electronic signature’’ means an electronic signature treated as a secure electronic signature by virtue of section 17 or 20.
+[ETA, s. 17]

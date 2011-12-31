@@ -1,6 +1,6 @@
-# 34. Notice of suspension
-Part: PART VIII DUTIES OF CERTIFICATION AUTHORITIES
+# 34. Consent of Public Prosecutor
+Part: PART VII GENERAL
 
-(1) Immediately upon suspension of a certificate by a certification authority, the certification authority shall publish a signed notice of the suspension in the repository specified in the certificate for publication of notice of suspension.
+No prosecution in respect of any offence under this Act shall be instituted except by or with the consent of the Public Prosecutor.
 
-(2) Where one or more repositories are specified, the certification authority shall publish signed notices of the suspension in all such repositories.
+[ETA, s. 57]

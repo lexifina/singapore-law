@@ -1,10 +1,8 @@
-# 24. Prerequisites to publication of certificate
-Part: PART VII GENERAL DUTIES RELATING TO DIGITAL SIGNATURES
+# 24. Power to investigate
+Part: PART IV REGULATION OF SPECIFIED SECURITY PROCEDURES AND SPECIFIED SECURITY PROCEDURE PROVIDERS
 
-No person may publish a certificate or otherwise make it available to a person known by that person to be in a position to rely on the certificate or on a digital signature that is verifiable with reference to a public key listed in the certificate, if that person knows that —
+(1) The Controller or an authorised officer may investigate the activities of any designated person, or any officer, employee or authorised representative of a designated person, in relation to their compliance with this Part.
 
-(a) the certification authority listed in the certificate has not issued it;
+(2) For the purposes of subsection (1), the Controller may in writing issue an order to any designated person, or any officer, employee or authorised representative of a designated person, to further an investigation under this section or to secure compliance with this Part, including an order to produce records, accounts, data and documents kept by the designated person, and to allow the Controller or an authorised officer to examine and copy any of them.
 
-(b) the subscriber listed in the certificate has not accepted it; or
-
-(c) the certificate has been suspended or revoked, unless such publication is for the purpose of verifying a digital signature created prior to such suspension or revocation.
+[ETA, ss. 52 and 55(a)]

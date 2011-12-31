@@ -1,18 +1,6 @@
-# 33. Revocation without subscriber’s consent
-Part: PART VIII DUTIES OF CERTIFICATION AUTHORITIES
+# 33. General penalties
+Part: PART VII GENERAL
 
-(1) A certification authority shall revoke a certificate, regardless of whether the subscriber listed in the certificate consents, if the certification authority confirms that —
+Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(a) a material fact represented in the certificate is false;
-
-(b) a requirement for issuance of the certificate was not satisfied;
-
-(c) the certification authority’s private key or trustworthy system was compromised in a manner materially affecting the certificate’s reliability;
-
-(d) an individual subscriber is dead; or
-
-(e) a subscriber has been dissolved, wound-up or otherwise ceased to exist.
-
-(2) Upon effecting such a revocation, other than under subsection
-
-(1) (d) or (e), the certification authority shall immediately notify the subscriber listed in the revoked certificate.
+[ETA, s. 56]

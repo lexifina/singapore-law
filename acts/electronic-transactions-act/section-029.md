@@ -1,26 +1,22 @@
-# 29. Issue of certificate
-Part: PART VIII DUTIES OF CERTIFICATION AUTHORITIES
+# 29. Access to computers and data
+Part: PART VII GENERAL
 
-(1) A certification authority may issue a certificate to a prospective subscriber only after the certification authority —
+(1) The Controller or an authorised officer shall be entitled at any time to —
 
-(a) has received a request for issuance from the prospective subscriber; and
+(a) have access to and inspect and check the operation of any computer system and any associated apparatus or material which he has reasonable cause to suspect is or has been in use in connection with any offence under this Act; and
 
-(b) has —
+(b) use or caused to be used any such computer system to search any data contained in or available to such computer system.
 
-(i) if it has a certification practice statement, complied with all of the practices and procedures set forth in such certification practice statement including procedures regarding identification of the prospec- tive subscriber; or
+(2) The Controller or an authorised officer shall be entitled to require —
 
-(ii) in the absence of a certification practice statement, complied with the conditions in subsection (2).
+(a) the person by whom or on whose behalf the Controller or authorised officer has reasonable cause to suspect the computer is or has been so used; or
 
-(2) In the absence of a certification practice statement, the certification authority shall confirm by itself or through an authorised agent that —
+(b) any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material, to provide him with such reasonable technical and other assistance as he may require for the purposes of subsection (1).
 
-(a) the prospective subscriber is the person to be listed in the certificate to be issued;
+(3) Any person who —
 
-(b) if the prospective subscriber is acting through one or more agents, the subscriber authorised the agent to have custody of the subscriber’s private key and to request issuance of a certificate listing the corresponding public key;
+(a) obstructs the lawful exercise of the powers under subsection (1); or
 
-(c) the information in the certificate to be issued is accurate;
+(b) fails to comply with a request under subsection (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(d) the prospective subscriber rightfully holds the private key corresponding to the public key to be listed in the certificate;
-
-(e) the prospective subscriber holds a private key capable of creating a digital signature; and
-
-(f) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the prospective subscriber.
+[ETA, s. 53]

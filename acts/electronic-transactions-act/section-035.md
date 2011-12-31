@@ -1,6 +1,6 @@
-# 35. Notice of revocation
-Part: PART VIII DUTIES OF CERTIFICATION AUTHORITIES
+# 35. Jurisdiction of court
+Part: PART VII GENERAL
 
-(1) Immediately upon revocation of a certificate by a certification authority, the certification authority shall publish a signed notice of the revocation in the repository specified in the certificate for publication of notice of revocation.
+Notwithstanding any provision to the contrary in the Criminal Procedure Code 2010 (Act 15 of 2010), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-(2) Where one or more repositories are specified, the certification authority shall publish signed notices of the revocation in all such repositories.
+[ETA, s. 58]

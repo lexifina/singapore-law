@@ -1,6 +1,14 @@
-# 8. Electronic signatures
-Part: PART II ELECTRONIC RECORDS AND SIGNATURES GENERALLY
+# 8. Requirement for signature
+Part: PART II ELECTRONIC RECORDS, SIGNATURES AND CONTRACTS
 
-(1) Where a rule of law requires a signature, or provides for certain consequences if a document is not signed, an electronic signature satisfies that rule of law.
+Where a rule of law requires a signature, or provides for certain consequences if a document or a record is not signed, that requirement is satisfied in relation to an electronic record if —
 
-(2) An electronic signature may be proved in any manner, including by showing that a procedure existed by which it is necessary for a party, in order to proceed further with a transaction, to have executed a symbol or security procedure for the purpose of verifying that an electronic record is that of such party.
+(a) a method is used to identify the person and to indicate that person’s intention in respect of the information contained in the electronic record; and
+
+(b) the method used is either —
+
+(i) as reliable as appropriate for the purpose for which the electronic record was generated or communicated, in the light of all the circumstances, including any relevant agreement; or
+
+(ii) proven in fact to have fulfilled the functions described in paragraph (a), by itself or together with further evidence.
+
+[UN, Art. 9(3)]

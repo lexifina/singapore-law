@@ -1,32 +1,20 @@
-# 13. Attribution
-Part: PART IV ELECTRONIC CONTRACTS
+# 13. Time and place of despatch and receipt
+Part: PART II ELECTRONIC RECORDS, SIGNATURES AND CONTRACTS
 
-(1) An electronic record is that of the originator if it was sent by the originator himself.
+(1) The time of despatch of an electronic communication is —
 
-(2) As between the originator and the addressee, an electronic record is deemed to be that of the originator if it was sent —
+(a) the time when it leaves an information system under the control of the originator or of the party who sent it on behalf of the originator; or
 
-(a) by a person who had the authority to act on behalf of the originator in respect of that electronic record; or
+(b) if the electronic communication has not left an information system under the control of the originator or of the party who sent it on behalf of the originator, the time when the electronic communication is received.
 
-(b) by an information system programmed by or on behalf of the originator to operate automatically.
+(2) The time of receipt of an electronic communication is the time when the electronic communication becomes capable of being retrieved by the addressee at an electronic address designated by the addressee.
 
-(3) As between the originator and the addressee, an addressee is entitled to regard an electronic record as being that of the originator and to act on that assumption if —
+(3) The time of receipt of an electronic communication at an electronic address that has not been designated by the addressee is the time when the electronic communication becomes capable of being retrieved by the addressee at that address and the addressee becomes aware that the electronic communication has been sent to that address.
 
-(a) in order to ascertain whether the electronic record was that of the originator, the addressee properly applied a procedure previously agreed to by the originator for that purpose; or
+(4) For the purposes of subsection (3), an electronic communication is presumed to be capable of being retrieved by the addressee when it reaches the electronic address of the addressee.
 
-(b) the data message as received by the addressee resulted from the actions of a person whose relationship with the originator or with any agent of the originator enabled that person to gain access to a method used by the originator to identify electronic records as its own.
+(5) An electronic communication is deemed to be despatched at the place where the originator has its place of business and is deemed to be received at the place where the addressee has its place of business.
 
-(4) Subsection (3) shall not apply —
+(6) Subsections (2), (3) and (4) shall apply notwithstanding that the place where the information system supporting an electronic address is located may be different from the place where the electronic communication is deemed to be received under subsection (5).
 
-(a) from the time when the addressee has both received notice from the originator that the electronic record is not that of the originator, and had reasonable time to act accordingly;
-
-(b) in a case within subsection (3) (b) , at any time when the addressee knew or ought to have known, had it exercised reasonable care or used any agreed procedure, that the electronic record was not that of the originator; or
-
-(c) if, in all the circumstances of the case, it is unconscionable for the addressee to regard the electronic record as being that of the originator or to act on that assumption.
-
-(5) Where an electronic record is that of the originator or is deemed to be that of the originator, or the addressee is entitled to act on that assumption, then, as between the originator and the addressee, the addressee is entitled to regard the electronic record received as being what the originator intended to send, and to act on that assumption.
-
-(6) The addressee is not so entitled when the addressee knew or should have known, had the addressee exercised reasonable care or used any agreed procedure, that the transmission resulted in any error in the electronic record as received.
-
-(7) The addressee is entitled to regard each electronic record received as a separate electronic record and to act on that assumption, except to the extent that the addressee duplicates another electronic record and the addressee knew or should have known, had the addressee exercised reasonable care or used any agreed procedure, that the electronic record was a duplicate.
-
-(8) Nothing in this section shall affect the law of agency or the law on the formation of contracts.
+[ETA, s. 15; UN, Art. 10]

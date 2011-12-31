@@ -1,18 +1,18 @@
-# 28. Disclosure
-Part: PART VIII DUTIES OF CERTIFICATION AUTHORITIES
+# 28. Obligation of confidentiality
+Part: PART VII GENERAL
 
-(1) A certification authority shall disclose —
+(1) No person shall disclose any information which has been obtained by him in the performance of his duties or the exercise of his powers under this Act, unless such disclosure is made —
 
-(a) its certificate that contains the public key corresponding to the private key used by that certification authority to digitally sign another certificate (referred to in this section as a certification authority certificate);
+(a) with the permission of the person from whom the information was obtained or, where the information is the confidential information of a third person, with the permission of the third person;
 
-(b) any relevant certification practice statement;
+(b) for the purpose of the administration or enforcement of this Act;
 
-(c) notice of the revocation or suspension of its certification authority certificate; and
+(c) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law; or
 
-(d) any other fact that materially and adversely affects either the reliability of a certificate that the authority has issued or the authority’s ability to perform its services.
+(d) in compliance with the requirement of any court or the provisions of any written law.
 
-(2) In the event of an occurrence that materially and adversely affects a certification authority’s trustworthy system or its certification authority certificate, the certification authority shall —
+(2) For the purposes of this section, the reference to a person disclosing any information includes his permitting any other person to have access to any electronic record, book, register, correspondence, information, document or other material which has been obtained by him in the performance of his duties or the exercise of his powers under this Act.
 
-(a) use reasonable efforts to notify any person who is known to be or foreseeably will be affected by that occurrence; or
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(b) act in accordance with procedures governing such an occurrence specified in its certification practice statement.
+[ETA, s. 48; ACRA, s. 34]

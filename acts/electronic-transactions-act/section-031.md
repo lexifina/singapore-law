@@ -1,10 +1,6 @@
-# 31. Suspension of certificate
-Part: PART VIII DUTIES OF CERTIFICATION AUTHORITIES
+# 31. Obstruction of Controller or authorised officer
+Part: PART VII GENERAL
 
-Unless the certification authority and the subscriber agree otherwise, the certification authority that issued a certificate shall suspend the certificate as soon as possible after receiving a request by a person whom the certification authority reasonably believes to be —
+Any person who obstructs, impedes, assaults or interferes with the Controller or any authorised officer in the performance of his functions under this Act shall be guilty of an offence.
 
-(a) the subscriber listed in the certificate;
-
-(b) a person duly authorised to act for that subscriber; or
-
-(c) a person acting on behalf of that subscriber, who is unavailable.
+[ETA, s. 54]
