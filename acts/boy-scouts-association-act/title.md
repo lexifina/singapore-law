@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+BOY SCOUTS ASSOCIATION ACT
+(CHAPTER 26)
+(Original Enactment: Ordinance 10 of 1926)
+REVISED EDITION 2011
+(31st December 2011)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2011
+
+
+
+An Act to further and protect the activities and interests of the Boy Scouts Association.
+
+[24th September 1926]
