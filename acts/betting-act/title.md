@@ -1,0 +1,20 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+BETTING ACT
+(CHAPTER 21)
+(Original Enactment: Ordinance 30 of 1960)
+REVISED EDITION 2011
+(31st December 2011)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2011
+
+
+
+An Act to suppress common betting-houses, betting in public places and bookmaking.
+
+[20th May 1960]
+
+1

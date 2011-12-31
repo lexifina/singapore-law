@@ -1,0 +1,3 @@
+# 10. Court to make order for demolition of structural contrivances for facilitating betting
+
+Whenever it appears to the court upon the trial of any offence under this Act that the place in or in respect of which the offence is alleged to have been committed is a common betting-house and that the place is fitted or provided with any of the means or contrivances mentioned in section 9, the court shall order the demolition and destruction of such of them as consist of staircases, doors, partitions, ladders, planks, platforms, posts, palings, bars, bolts and other things which appear to the court to have been specially erected or constructed for the purpose of facilitating the carrying on of betting on the premises.

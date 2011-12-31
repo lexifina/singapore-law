@@ -1,0 +1,3 @@
+# 12. Search warrant against persons in possession of betting instruments
+
+A Magistrate or a police officer not below the rank of assistant superintendent on being satisfied upon reasonable information and after any inquiry which he may think necessary, that there is good reason to believe that any books, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, are likely to be found on any person may by warrant under his hand or by writing under his hand, as the case may be, order any police officer to arrest and search that person and if any such article is found upon his person he shall be taken before a Magistrate’s Court or District Court to be dealt with according to law.
