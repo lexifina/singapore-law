@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+INTERNATIONAL CHILD ABDUCTION ACT
+(CHAPTER 143C)
+(Original Enactment: Act 27 of 2010)
+REVISED EDITION 2011
+(31st December 2011)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2011
+
+
+
+An Act to give effect to the Convention on the Civil Aspects of International Child Abduction and for matters connected therewith.
+
+[1st March 2011]
