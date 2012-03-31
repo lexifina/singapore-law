@@ -1,0 +1,5 @@
+# 8. Power to make interim orders
+
+(1) Upon any application for an adoption order, the court may postpone the determination of the application and may make an interim order (which shall not be an adoption order for the purposes of this Act) giving the custody of the infant to the applicant for a period not exceeding 2 years by way of a probationary period upon such terms as regards provision for the maintenance and education and supervision of the welfare of the infant and otherwise as the court may think fit.
+
+(2) All such consents as are required to an adoption order shall be necessary to an interim order but subject to a like power on the part of the court to dispense with any such consent.
