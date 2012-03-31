@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+PRIVATE LOTTERIES ACT
+(CHAPTER 250)
+(Original Enactment: Act 7 of 2011)
+REVISED EDITION 2012
+(31st March 2012)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2012
+
+
+
+An Act to provide for the control and levy of tax on private lotteries and other related matters.
+
+[1st April 2011]
