@@ -1,9 +1,9 @@
-# 14. Matters to be considered by Council
+# 14. Matters to be considered by Council in granting or renewing bus service licences
 Part: PART IV LICENSING OF BUS SERVICES
 
-In exercising its discretion to grant or refuse a bus service licence in respect of any route or routes and its discretion to attach conditions to any such licence, the Council shall generally have regard to —
+In exercising its discretion to grant, renew or refuse to grant or renew a bus service licence under section 12 and the terms and conditions to impose thereon, the Council shall have regard to —
 
-(a) the financial standing of the applicant and his ability to maintain an adequate, satisfactory, safe and efficient service and, if the applicant is a company, the fact that its articles of association contain provisions to ensure that its board of directors shall at all times consist only of persons approved by the Council;
+(a) the financial standing of the applicant and his ability to maintain an adequate, satisfactory, safe and efficient service;
 
 (b) the suitability of the route or routes on which a service is to be provided under the licence;
 
@@ -11,6 +11,6 @@ In exercising its discretion to grant or refuse a bus service licence in respect
 
 (d) the extent to which the proposed service is necessary or desirable in the public interest; and
 
-(e) the needs of the area as a whole in relation to traffic (including the provision of adequate, safe, suitable and efficient services, the elimination of unnecessary or unsatisfactory services and the provision of unremunerative services) and the co-ordination of all forms of passenger transport.
+(e) the needs of the area as a whole in relation to passenger demand (including the provision of adequate, safe, suitable and efficient services, the elimination of unnecessary or unsatisfactory services and the provision of unremunerative services) and the co-ordination of all forms of passenger transport.
 
-[11
+[37/2005]

@@ -1,12 +1,16 @@
-# 17. Investigation into affairs of licensee
-Part: PART IV LICENSING OF BUS SERVICES
+# 17. Matters to be considered by Council in granting or renewing bus service operator’s licences
+Part: PART IVA LICENSING OF BUS SERVICE OPERATORS
 
-(1) The Council may appoint one or more inspectors to investigate the affairs of a licensee or such aspects of the affairs of a licensee as are specified in the instrument of appointment.
+In exercising its discretion to grant, renew or refuse to grant or renew a bus service operator’s licence under section 16 and the terms and conditions to impose thereon, the Council shall have regard to —
 
-(2) An inspector appointed by the Council may, and if so directed by the Council shall, make interim reports to the Council and on the conclusion of the investigation the inspector shall report his opinion on or in relation to the affairs that he has been appointed to investigate together with the facts upon which his opinion is based to the Council.
+(a) the financial standing of the applicant;
 
-(3) A copy of the report shall be forwarded by the Council to the registered office of the licensee.
+(b) the ability of the applicant to provide a satisfactory bus service to members of the public in relation to safety, continuity, hours of operation, frequency, reliability, passenger capacity, vehicle quality and general efficiency;
 
-(4) The Council may, if it is of the opinion that it is necessary in the public interest to do so, cause the report to be printed and published.
+(c) the existence of other bus services;
 
-[14
+(d) the demand for bus services; and
+
+(e) any other matter which the Council thinks relevant.
+
+[37/2005]

@@ -1,6 +1,6 @@
-# 20. Costs of investigations
-Part: PART IV LICENSING OF BUS SERVICES
+# 20. Matters to be considered by Council in granting or renewing ticket payment service licences
+Part: PART IVB LICENSING OF TICKET PAYMENT SERVICES
 
-The expenses of and incidental to an investigation by an inspector appointed under this Part shall be paid out of the funds of the Council.
+In exercising its discretion to grant, renew or refuse to grant or renew a ticket payment service licence under section 19 and the terms and conditions to impose thereon, the Council shall have regard to the financial standing of the applicant and his ability to maintain an adequate, satisfactory, secure and efficient ticket payment service.
 
-[17
+[37/2005]

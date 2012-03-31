@@ -1,40 +1,22 @@
-# 12. Interpretation of this Part
+# 12. Bus service licences
 Part: PART IV LICENSING OF BUS SERVICES
 
-In this Part, unless the context otherwise requires —
+(1) No person shall operate any bus service without a bus service licence.
 
-‘‘affairs’’, in relation to a licensee, includes —
+[37/2005]
 
-(a) the promotion, formation, membership, control, trading, dealings, business and property of the licensee;
+(2) An application for the grant or renewal of a bus service licence shall be made to the Council in such form or manner as the Council may require and shall be accompanied by such particulars, information and documents as may be specified by the Council.
 
-(b) the ownership of shares in, debentures of and interests made available by the licensee;
+[37/2005]
 
-(c) the ascertainment of the persons who are or have been financially interested in the success or failure or apparent success or failure of the licensee or are or have been able to control or materially to influence the policy of the licensee; and
+(3) Upon receipt of an application under subsection (2), the Council may —
 
-(d) the circumstances under which a person acquired or disposed of or became entitled to acquire or dispose of shares in, debentures of or interests made available by the licensee;
+(a) grant or renew the licence permitting the applicant to provide a bus service on such terms and conditions as the Council thinks fit; or
 
-‘‘licensee’’ means a person to whom a bus service licence has been granted under this Part and includes any company whose affairs an inspector appointed under this Part thinks necessary to investigate under section 18 (1);
+(b) refuse to grant or renew the licence.
 
-‘‘officer or agent’’, in relation to a licensee, includes —
+[37/2005]
 
-(a) a director, banker, solicitor or an auditor of the licensee;
+(4) A bus service licence shall be for a period not exceeding 5 years and the fee to be paid by the person to whom any such licence is granted shall be in accordance with a scale of fees to be prescribed by the Council.
 
-(b) a person who at any time —
-
-(i) has been a person referred to in paragraph (a);
-
-or
-
-(ii) has been otherwise employed or appointed by the licensee;
-
-(c) a person who —
-
-(i) has in his possession any property of the licensee;
-
-(ii) is indebted to the licensee; or
-
-(iii) is capable of giving information concerning the promotion, formation, trading, dealings, affairs or property of the licensee; and
-
-(d) where there are reasonable grounds for suspecting or believing that a person is a person referred to in paragraph (c), that person.
-
-[9
+[37/2005]

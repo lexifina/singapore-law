@@ -7,6 +7,4 @@ Part: PART VI MISCELLANEOUS PROVISIONS
 
 (2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
-[22
-
 [29/99]

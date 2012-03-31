@@ -1,20 +1,18 @@
-# 16. Licensee to submit accounts
-Part: PART IV LICENSING OF BUS SERVICES
+# 16. Bus service operator’s licences
+Part: PART IVA LICENSING OF BUS SERVICE OPERATORS
 
-(1) Every licensee shall, within 3 months after the close of each financial year of the licensee’s undertaking or within such extended period as the Council may approve, submit a copy, certified by the licensee or, if the licensee is a company, by a director or by the manager or the secretary of the company, as the case may be, to be a true copy of the balance-sheet and of the profit and loss account for the financial year which have been respectively audited by the licensee’s auditors (including every document required by law to be annexed or attached thereto) together with a copy of the report of the auditors thereon (certified as aforesaid).
+(1) No person shall operate 10 or more bus services without a bus service operator’s licence.
 
-(2) If the balance-sheet or account is in a language other than English, there must also be annexed to it a translation in English certified to be a correct translation.
+[37/2005]
 
-(3) If the balance-sheet or account did not comply with the requirements of the law as in force at the date of the audit, there shall be made such additions to and corrections in the copy in order to make it comply with the requirements, and the fact that the copy has been so amended shall be stated thereon.
+(2) An application for the grant or renewal of a bus service operator’s licence shall be made to the Council in such form or manner as the Council may require and shall be accompanied by such particulars, information and documents as may be specified by the Council.
 
-(4) The licensee shall cause to be attached to the profit and loss account a statement or statements of the total revenue and expenditure of the licensee for the financial year containing such particulars and in such form as the Council may direct.
+[37/2005]
 
-(5) The statement or statements referred to in subsection (4) shall be signed by the licensee or, if the licensee is a company, by not less than 2 of the directors of the company and shall be duly audited.
+(3) Subject to section 22C, upon receipt of an application under subsection (2), the Council may —
 
-(6) If any licensee fails to comply with this section, the licensee and, if the licensee is a company, every director and manager thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the court may on the application made by the Council order the licensee and, if the licensee is a company, a director or manager thereof to lodge the balance-sheet and the profit and loss account and the statements referred to in this section within such time as the court may determine.
+(a) grant or renew the licence permitting the applicant to operate any bus service for such period and on such terms and conditions as the Council thinks fit; or
 
-(7) Nothing in this section shall prevent the Council from taking any action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Council by the licensee or by his bank pursuant to a bank guarantee in accordance with section 22 for a contravention of subsection (1), (2), (3), (4) or (5).
+(b) refuse to grant or renew the licence.
 
-[13
-
-[29/99]
+[37/2005]

@@ -1,38 +1,54 @@
-# 18. Procedure and powers of inspectors
-Part: PART IV LICENSING OF BUS SERVICES
+# 18. Conditions of bus service operator’s licence
+Part: PART IVA LICENSING OF BUS SERVICE OPERATORS
 
-(1) If an inspector appointed to investigate the affairs of a licensee which is a company thinks it necessary for the purposes of the investigation to investigate also the affairs of any other company which is or has at any relevant time been deemed to be or have been related to the licensee by virtue of section 6 of the Companies Act (Cap. 50), he shall have power to do so.
+(1) Without prejudice to the generality of section 16(3), the Council may, in granting or renewing a bus service operator’s licence, impose conditions —
 
-(2) The inspector shall report on the affairs of the other company so far as he thinks the results of the investigation thereof are relevant to the investigation of the affairs of the licensee.
+(a) requiring the payment to the Council of a fee on the grant or renewal of the licence or periodic fees for the duration of the licence, or both, of such amount as may be prescribed by the Council;
 
-(3) The licensee and every officer and agent of the licensee shall, if required by an inspector appointed under this Part, produce to the inspector all books and documents in his custody or power and shall give to the inspector all assistance in connection with the investigation which he is reasonably able to give.
+(b) requiring the payment to the Council of a security deposit or performance bond on the grant of the licence, of such amount as may be determined by the Council;
 
-(4) An inspector may, by notice in writing, require the licensee and any officer or agent of the licensee to appear for examination on oath or affirmation (which he is hereby authorised to administer) in relation to the business of the licensee.
+(c) relating to the provision of integrated service information or ticketing systems;
 
-(5) The notice may require the production of all books and documents in the custody or under the control of that licensee or officer or agent of that licensee.
+(d) requiring the licensee to do, or not to do, such things as are specified or described in the licence;
 
-(6) An inspector who pursuant to this section requires the production of all books and documents in the custody or power or under the control of an officer or agent of any licensee —
+(e) relating to the extent, hours and general level of services to be provided by the licensee to members of the public;
 
-(a) may take possession of all such books and documents;
+(f) relating to the condition and use of the buses managed by the licensee in operating the bus service;
 
-(b) may retain all such books and documents for such time as he considers to be necessary for the purpose of the investigation; and
+(g) relating to the conduct of the employees, agents and contractors of the licensee;
 
-(c) shall permit the licensee to have access at all reasonable times to all such books and documents so long as they are in his possession.
+(h) relating to the forfeiture of security deposit or performance bond for any breach of licence conditions;
 
-(7) If any licensee or any officer or agent of the licensee fails to comply with the requirements of any notice issued under subsection
+(i) if the licensee is a company, requiring the approval of the Council for the appointment, reappointment or removal of any person as the chairman of the board of directors of that company; and
 
-(4) or fails or refuses to answer any question which is put to him by an inspector with respect to the affairs of the licensee, the inspector may certify the failure or refusal under his hand to the court.
+(j) requiring the licensee to submit such data and undergo and pass such audit as the Council may determine for compliance with —
 
-(8) The court may thereupon inquire into the case and, after hearing any witnesses against or on behalf of the alleged offender, deal with him in like manner as if he had been guilty of contempt of the court.
+(i) the relevant provisions of this Act;
 
-(9) No person who is or has formerly been an officer or agent of a licensee shall be entitled to refuse to answer any question which is relevant or material to the investigation on the ground that his answer might tend to incriminate him.
+(ii) the terms and conditions of the licence;
 
-(10) If a person referred to in subsection (9) claims that the answer to any question might incriminate him and but for that subsection he would have been entitled to refuse to answer the question, the answer to the question shall not be used in any subsequent criminal proceedings except in the case of a charge against him for making a false statement in answer to that question.
+(iii) the codes of practice issued, approved or modified by the Council under section 22E; and
 
-(11) Subject to subsection (9), a person shall be entitled to refuse to answer a question on the ground that the answer might tend to incriminate him.
+(iv) any direction given by the Council under section 22F.
 
-(12) An inspector may cause notes of any examination under this Part to be recorded and reduced to writing and to be read to or by and signed by the person examined.
+[37/2005]
 
-(13) Any such signed notes may, except in the case of any answer which that person would not have been required to give but for subsection (9), thereafter be used in evidence in any legal proceedings against that person.
+(2) For the purpose of subsection (1)(j) —
 
-[15
+(a) the audit shall be conducted by —
+
+(i) officers of the Council who have been duly designated by the Council for the purpose; or
+
+(ii) a qualified independent audit team approved by the Council for the purpose;
+
+(b) the Council may require the licensee —
+
+(i) to submit to the Council or to the persons conducting the audit such information as the Council may specify which pertains to the operation of any bus service by the licensee; and
+
+(ii) to allow the persons conducting the audit to carry out on-site collection or verification of any information which pertains to the operation of any bus service by the licensee;
+
+(c) any sample size used by the persons conducting the audit shall be deemed to be reasonable; and
+
+(d) the costs of and incidental to the conduct of the audit shall be borne by the licensee.
+
+[37/2005]

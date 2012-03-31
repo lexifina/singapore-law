@@ -1,7 +1,7 @@
-# 15. Conditions of licence
+# 15. Conditions of bus service licence 1
 Part: PART IV LICENSING OF BUS SERVICES
 
-(1) In granting a bus service licence, the Council may impose such conditions as it thinks fit, and may, in particular, impose conditions relating to —
+Without prejudice to the generality of section 12(3), the Council may, in granting or renewing a bus service licence, impose conditions relating to —
 
 (a) the timetable of the bus service and the number of buses to be provided;
 
@@ -9,12 +9,14 @@ Part: PART IV LICENSING OF BUS SERVICES
 
 (c) the taking up and setting down of passengers at specified points;
 
-(d) the prevention of racing, cutting in and dangerous competition with other vehicles on the route; and
+(d) the prevention of racing, cutting in and dangerous competition with other vehicles on the route;
 
-(e) the deposit of such security as may be determined by the Council for the due performance by the licensee of any obligations imposed upon him by the bus service licence or by this Act or any other written law.
+(e) the deposit of such security as may be determined by the Council for the due performance by the licensee of any obligations imposed upon him by the bus service licence or by this Act or any other written law;
 
-(2) Any security under subsection (1) (e) shall be deposited by the licensee or by his bank pursuant to a bank guarantee with the Council.
+(f) the general level of services to be provided by the licensee to members of the public;
 
-[12
+(g) the use or installation of integrated ticketing and information systems; and
 
-[29/99]
+(h) the provision of route information.
+
+[37/2005]

@@ -7,9 +7,9 @@ Part: PART VI MISCELLANEOUS PROVISIONS
 
 (2) Without prejudice to the generality of subsection (1), the Council may make regulations for all or any of the following purposes:
 
-(a) to prescribe the manner and form in which applications for bus service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
+(a) to prescribe the manner and form in which applications for bus service licences, bus service operator’s licences and ticket payment service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
 
-(b) to prescribe a scale of fees for bus service licences;
+(b) to prescribe a scale of fees for bus service licences, bus service operator’s licences and ticket payment service licences;
 
 (c) to prescribe the manner and form in which applications for the approval of bus, taxi and rapid transit system fares are to be made and the documents to be submitted in support of such applications;
 
@@ -19,12 +19,12 @@ Part: PART VI MISCELLANEOUS PROVISIONS
 
 (f) to control and regulate the conduct of the officers and employees of the Council;
 
-(g) to prescribe the offences under this Act or any regulations made thereunder which may be compounded under section 26.
+(g) to prescribe the offences under this Act which may be compounded under section 26;
 
-[29/99]
+(h) to prescribe anything that is required to be prescribed under this Act.
 
-(3) The Council may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulation shall be an offence and may prescribe a fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $1,000.
+[29/99; 37/2005]
 
-[25
+(3) The Council may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulation shall be an offence and may prescribe a fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $5,000.
 
-[29/99]
+[29/99; 37/2005]
