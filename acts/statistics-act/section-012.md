@@ -1,13 +1,17 @@
-# 12. Rules and orders
+# 12. Rules
 
 (1) The Minister may make rules —
 
-(a) regulating the method of collecting statistics, the staff to be employed in connection therewith, the duties to be performed and the publication to be issued;
+(a) regulating the method of collecting data for statistical purposes, the staff to be employed in connection therewith, the duties to be performed and the publication to be issued;
 
-(b) prescribing the forms in which and the times, places and manner at and in which particulars or information shall be furnished, and the manner in which they shall be authen- ticated, and any other thing which under this Act is to be prescribed;
+(b) prescribing the forms in which and the times, places and manner at and in which particulars or information shall be furnished, and the manner in which they shall be authenticated, and any other thing which under this Act is to be prescribed;
 
 (c) exempting from the obligation to furnish particulars or information under this Act, either wholly or partly and either unconditionally or subject to such conditions as may be prescribed; and
 
 (d) generally for carrying out the purposes and provisions of this Act.
 
-(2) All rules made under this section and all orders made under section 7 shall be presented to Parliament as soon as possible after publication in the Gazette.
+[3/2010]
+
+(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+
+[3/2010]

@@ -1,6 +1,8 @@
 # 3. Statistics Department and research and statistics units
 
-(1) This Act shall apply to the Department of Statistics and such other research and statistics units as the Minister may, by notification in the Gazette, specify for the purpose of the collection, preparation and publication of statistics relating to any of the subjects specified in the First Schedule.
+(1) The Department of Statistics and all research and statistics units may, in accordance with the provisions of this Act, collect and process data for statistical purposes.
+
+[3/2010]
 
 (2) The Department of Statistics shall be under the control and management of a Chief Statistician and such other officers as the Minister may appoint.
 

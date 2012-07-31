@@ -1,16 +1,18 @@
 # 5. Power of Chief Statistician and director of research and statistics unit to issue requisition for information
 
-(1) For the purpose of obtaining statistical information, it shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person to furnish particulars and supply information to him relating to any matter to which this Act applies, and every such person is bound to furnish particulars and supply information to the best of his knowledge and belief.
+(1) It shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person or the occupier of any premises to furnish particulars and supply information to him, for the purpose of obtaining data for statistical purposes, and every such person or occupier is bound to furnish the particulars and supply the information to the best of his knowledge and belief.
 
-[9/90]
+[3/2010]
 
 (2) A requisition shall —
 
 (a) be in writing;
 
-(b) be served upon the person to whom it is addressed in the manner specified in section 11; and
+(b) be served upon the person to whom it is addressed or the occupier of any premises, as the case may be, in the manner specified in section 11; and
 
-(c) specify the particulars of information required.
+(c) specify the particulars or information required.
+
+[3/2010]
 
 (3) A requisition may —
 

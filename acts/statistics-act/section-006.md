@@ -1,27 +1,37 @@
-# 6. Power to request information from research and statistics units and other competent authorities
+# 6. Power to request information from research and statistics units and other public agencies
 
-(1) For the purpose of obtaining statistical information relating to any matter to which this Act applies, the Chief Statistician may in writing direct —
+(1) For the purpose of obtaining data for statistical purposes, the Chief Statistician may in writing direct —
 
-(a) the director of any research and statistics unit specified in the Second Schedule to furnish or supply to him any particulars or information obtained by the director under section 5 pursuant to any requisition issued by the director;
+(a) the director of any research and statistics unit to furnish or supply to him any particulars or information obtained pursuant to any requisition issued by the director under section 5; or
 
-or
+(b) any public agency to furnish or supply to him any particulars or information in the possession of the public agency, whether or not —
 
-(b) any competent authority specified in the first column of the Third Schedule to furnish or supply to him any particulars or information specified in the second column of the Third Schedule and obtained pursuant to any request made by the competent authority.
+(i) the particulars or information were provided to the public agency by another person or public agency (referred to in this section as the data source); or
 
-[9/90]
+(ii) the public agency directed to furnish the particulars or information, or the data source, is under any obligation (whether imposed by any written law or otherwise) not to disclose the particulars or information.
 
-(2) Notwithstanding the provisions of this Act or any other written law, the director of any research and statistics unit or the competent authority referred to in subsection (1) shall furnish and supply those particulars and information within such time as may be agreed to by the Chief Statistician and the director or competent authority, as the case may be.
+[3/2010]
 
-[9/90]
+(2) Notwithstanding the provisions of this Act or any other written law, the director of any research and statistics unit or the public agency shall furnish the particulars and information as directed under subsection (1) except, in relation to a direction under subsection (1)(b), any particulars or information which have been exempted from being so furnished by —
 
-(3) Notwithstanding the provisions of this Act or any other written law, no person shall be guilty of an offence under this Act or that other written law or of any breach of confidence by virtue merely of his disclosing any particulars or information to the Chief Statistician pursuant to any direction under subsection (1).
+(a) the Minister responsible for the public agency directed to furnish or supply the particulars or information under subsection (1)(b); or
 
-[9/90]
+(b) the Minister responsible for the data source.
 
-(4) Where an amendment to the Third Schedule inserts or deletes and substitutes any particulars or information specified in the second column of the Third Schedule, subsection (1) (b) shall have effect in relation to the particulars or information from the date on which the amendment comes into operation.
+[3/2010]
 
-[9/90]
+(3) All particulars and information required to be furnished under subsection (1) shall be furnished within such time as may be agreed to between the Chief Statistician and the director of a research and statistics unit or the public agency, as the case may be.
 
-(5) Subsection (1) shall not apply to any particulars or information obtained under any written law relating to taxation or administered by the Monetary Authority of Singapore.
+[3/2010]
 
-[9/90]
+(4) Notwithstanding the provisions of this Act or any other written law —
+
+(a) no person shall be guilty of an offence under this Act or that other written law or of any breach of confidence or incur any liability, criminal or civil, by virtue merely of his disclosing any particulars or information to the Chief Statistician pursuant to any direction under subsection (1); and
+
+(b) no officer of the Department of Statistics (including the Chief Statistician) shall be guilty of an offence under this Act or that other written law or incur any liability, criminal or civil, by virtue merely of his accessing, or disclosing to another officer of the Department of Statistics, any particulars or information obtained pursuant to any direction under subsection (1), in the performance of his duties or functions as an officer of the Department of Statistics.
+
+[3/2010]
+
+(5) Subsection (1) shall not apply to any particulars or information obtained under any written law administered by the Monetary Authority of Singapore.
+
+[9/90; 16/2004]

@@ -1,33 +1,31 @@
 # 7. Disclosure of information
 
-(1) No particulars or information or any part thereof relating to any individual person obtained under the provisions of this Act shall, without the previous consent in writing of that person, be disclosed except —
+(1) No person shall disclose any particulars or information obtained under section 5 or 6 in a form that may identify any person without the prior consent in writing of the person that may be identified by such disclosure.
 
-(a) compiled statistics on the operation of an industry may be published irrespective of the number of persons engaged in that industry unless the industry is exempted by the Minister responsible for the Government department or Ministry in possession of such particulars from having its data published;
+[3/2010]
 
-(b) where the disclosure can be made without identifying the individual person and an appropriate time, in the opinion of the Minister responsible for the Government department or Ministry in possession of such particulars, has elapsed;
+(2) Notwithstanding subsection (1), the Chief Statistician or the director of a research and statistics unit, as the case may be, may disclose particulars or information obtained under section 5 or 6 —
 
-(c) for the purposes of any proceedings for an offence under this Act or any report of those proceedings; or
+(a) as statistics which do not identify any person;
 
-(d) information of a general nature including products manufactured or handled, size of establishment, number of employees and addresses, which could be obtained from other sources.
+(b) as anonymised microdata to —
 
-(2) The Minister responsible for the Government department or Ministry issuing any requisition under this Act shall have due regard —
+(i) any public agency; or
 
-(a) to the circumstances of various trades and industries; and
+(ii) any other person within a class specified in the Third Schedule;
 
-(b) in particular, to the importance of avoiding the disclosure in any return of any trade secret or of trading profits or of any other information the disclosure of which would be likely to tend to the prejudice of the person furnishing the return.
+(c) for the purposes of any proceedings for an offence under this Act or any report of those proceedings;
 
-(3) If any information to be obtained under this Act is also obtainable under any other written law which restricts the disclosure of information obtained thereunder, and the Minister is of the opinion that similar restrictions should be applied to any information to be obtained under this Act, the Minister shall by order provide for the application, without modifications or with such adaptations or modifications as he thinks fit, of those restrictions to the information to be so obtained, or any part thereof, in addition to the restrictions imposed by this section.
+(d) that are of a general nature relating to the products or services provided by, the number of employees in or the addresses of, an establishment; or
 
-(4) Without prejudice to subsection (3) if it appears to the Minister that the nature of the information to be obtained under this Act would make it desirable to impose restrictions on the disclosure of the information additional to the restrictions imposed by this section, the Minister may by order prohibit the disclosure of such information, or any part thereof, except to such persons or for such purposes as may be specified in the order.
+(e) that are already available in the public domain.
 
-(5) The compilation of any report, summary or other communi- cation to the public of information obtained under this Act shall be so arranged as to prevent any particulars published therein from being identified as being particulars relating to any individual person except with the previous consent in writing of that person.
+[3/2010]
 
-(6) Where —
+(3) The Chief Statistician or the director of a research and statistics unit may, in respect of any particulars or information disclosed to any person under subsection (2), impose conditions as to the use of such particulars or information by notice in writing to that person.
 
-(a) any particulars or information relating to any individual person have been obtained from a competent authority under section 6 (1) (b); and
+[3/2010]
 
-(b) the particulars or information were obtained by that competent authority under any written law which restricts the disclosure of information so obtained, then, in addition to the restrictions imposed by this section and any order made under subsection (3), no such particulars or information shall be disclosed without the written permission of that competent authority.
+(4) If any person discloses any returns or any particulars or information contrary to this section, or fails to comply with any conditions imposed on him under subsection (3), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[9/90]
-
-(7) If any person discloses any returns or any particulars or information contrary to this section, or of any order made thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+[3/2010]
