@@ -1,6 +1,6 @@
-# 9. Investments
+# 9. Power of investment
 Part: PART II SINGAPORE TOTALISATOR BOARD
 
-Moneys belonging to the Board may be invested in such stocks, funds, securities or investments as may be authorised by the Minister.
+The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[4/91]
+[45/2004]

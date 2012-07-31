@@ -3,20 +3,42 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘approved scheme’’ means a scheme for the establishment and operation of totalisators and totalisator agencies for the time being approved by the Minister under section 11;
+“advertisement” includes —
 
-‘‘Board’’ means the Singapore Totalisator Board established under section 3;
+(a) any notice, circular, pamphlet, brochure, programme, price-list, label, wrapper or other document; and
 
-‘‘horse race’’ includes a pony race;
+(b) any announcement, notification or intimation to the public or any section thereof or to any person or persons made —
 
-‘‘race course’’ means any land used for the purpose of a race meeting;
+(i) orally or in writing;
 
-‘‘race meeting’’ means a meeting for the purpose of horse racing;
+(ii) by means of any poster, placard, notice or other document affixed, posted up or displayed on any wall, billboard or hoarding or on any other object or thing;
 
-‘‘totalisator’’ means any instrument for wagering or betting known by that name, and any other instrument, device, machine or method of a like nature and conducted on the same principles, and includes a numbers forecast totalisator paying a fixed minimum dividend;
+(iii) by means of producing or transmitting sound or light and whether for aural or visual reception or both;
 
-‘‘totalisator agency’’ means any totalisator agency operated in accordance with an approved scheme, and includes any premises in which totalisator investments may be received pursuant to such scheme;
+(iv) by means of any writing on any vehicle or any object or thing; or
 
-‘‘totalisator investment’’ means any money, currency note or cheque received for investment on the totalisator or invested pursuant to any facilities provided under an approved scheme;
+(v) in any other manner whatsoever;
 
-‘‘turf club’’ means any club, association or other body of persons (whether incorporated or unincorporated) established for the purpose of promoting, conducting and controlling the sport of horse racing.
+“Board” means the Singapore Totalisator Board established under section 3;
+
+“gaming” means the playing of any game of chance or of mixed chance and skill for money or money’s worth;
+
+“horse race” includes a pony race;
+
+“lottery” includes any game, method, device, scheme or competition whereby money or money’s worth is distributed or allotted in any manner depending upon or to be determined by chance or lot;
+
+“race course” means any land used for the purpose of a race meeting;
+
+“race meeting” means a meeting for the purpose of horse racing;
+
+“totalisator” means any instrument for wagering or betting known by that name, and any other instrument, device, machine or method of a like nature and conducted on the same principles, and includes a numbers forecast totalisator paying a fixed minimum dividend;
+
+“totalisator agency” means any totalisator agency appointed by the Board, and includes any premises in which totalisator investments may be received;
+
+“totalisator investment” means any money, currency note or cheque, or such other form of payment as may be approved by the Minister, received for investment on the totalisator;
+
+“turf club” means any club, association or other body of persons (whether incorporated or unincorporated) established for the purpose of promoting, conducting and controlling the sport of horse racing;
+
+“writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
+
+[13/2004; 12/2008]

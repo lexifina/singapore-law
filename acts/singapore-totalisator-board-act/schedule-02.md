@@ -10,9 +10,9 @@ FINANCIAL PROVISIONS
 
 3.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
-
 SECOND SCHEDULE — continued
+
+(2) A person shall not be qualified for appointment as an auditor under sub‑paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 4. The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -36,13 +36,13 @@ SECOND SCHEDULE — continued
 
 10. The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 
-11. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+11. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
-12. As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
+12. As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited SECOND SCHEDULE — continued
+
+financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
 13. Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
-
-SECOND SCHEDULE — continued
 
 14. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
@@ -50,4 +50,4 @@ SECOND SCHEDULE — continued
 
 16. The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
 
-[4/91; 4/97]
+[4/91; 4/97; 12/2008]

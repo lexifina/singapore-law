@@ -5,6 +5,8 @@ Part: PART II SINGAPORE TOTALISATOR BOARD
 
 (a) a Chairman; and
 
-(b) not less than 4 and not more than 6 other members as the Minister may from time to time determine.
+(b) not less than 4 and not more than 11 other members as the Minister may from time to time determine.
+
+[13/2004]
 
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.

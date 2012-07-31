@@ -3,7 +3,7 @@ Part: PART IV MISCELLANEOUS
 
 (1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act (Cap. 311), shall with effect from 9th November 1987 be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
 
-(a) all immovable property owned by the Club on that date; and
+(a) all immovable property owned by the Club on that date;
 
 (b) all funds and investments belonging to the Club on that date.
 

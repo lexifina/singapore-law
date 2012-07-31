@@ -1,7 +1,7 @@
 # 18. Investment on totalisator after time of race prohibited
 Part: PART IV MISCELLANEOUS
 
-Subject to the provisions of any approved scheme and any regulations made under section 21, any member, officer, agent or employee of the Board or of any turf club who —
+Subject to the rules issued, approved or modified under section 4(1)(f) and any regulations made under section 21, any member, officer, agent or employee of the Board or any totalisator agency who —
 
 (a) receives or permits to be received any investment on the totalisator in respect of any race after the start of the race;
 
@@ -12,3 +12,5 @@ Subject to the provisions of any approved scheme and any regulations made under 
 (d) receives or permits to be received any investment on the totalisator elsewhere than at the totalisator itself; or
 
 (e) makes, authorises or permits the payment to any person of any dividend which is not calculated in accordance with section 12, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[12/2008]
