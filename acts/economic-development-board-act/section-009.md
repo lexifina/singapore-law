@@ -1,7 +1,9 @@
-# 9. Appointment of officers and employees
+# 9. Appointment of officers, employees, etc.
 
-(1) The Board may from time to time appoint and employ such officers and employees as may be necessary for the purposes of this Act and may from time to time dismiss them.
+The Board may —
 
-(2) All officers and employees of the Board shall be under the administrative control of the Board.
+(a) appoint and employ such number of officers and employees on such terms as to remuneration or otherwise as the Board may determine and may terminate their services or exercise disciplinary control over them in accordance with their terms of service; and
 
-[8
+(b) engage and remunerate for their services such persons or agents as the Board considers necessary for carrying out its functions and duties.
+
+[11/2008]

@@ -6,6 +6,4 @@
 
 (3) Any declaration required under any such written law that the property is so needed may be made (notwithstanding that compensation is to be paid out of the funds of the Board) and the declaration shall have effect as if it were a declaration that the property is needed for a public purpose made in accordance with that written law.
 
-[21
-
 [7/83]

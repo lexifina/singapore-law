@@ -1,7 +1,5 @@
 # 25. Financial provisions
 
-The financial provisions set out in the Schedule shall have
+The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
 
-effect with respect to the Board.
-
-[11/89]
+[11/89; 11/2008]

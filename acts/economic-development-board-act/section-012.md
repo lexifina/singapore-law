@@ -1,19 +1,25 @@
 # 12. Appointment of committees and delegation of powers
 
-(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board such number of committees consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of those committees.
+(1) The Board may, in its discretion, appoint from among its own members or from among other persons such number of committees as it thinks fit for purposes which, in the opinion of the Board, would be more expediently carried out or managed by means of such committees.
 
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the chief executive officer of the Board all or any of the powers, functions and duties vested in the Board by this Act, except the power to borrow money or to raise loans by the issue of bonds and debentures.
+[11/2008]
 
-(3) Any power, function or duty delegated under subsection (2) may be exercised or performed by such committee or the Chairman or the chief executive officer, as the case may be, in the name and on behalf of the Board.
+(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate —
 
-[11/89]
+(a) to any of its members including the Chairman and each Deputy Chairman;
 
-(4) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof all or any of the functions and duties vested in the Board by this Act, except the power to borrow money or to raise loans or grant loans or advances to or subscribe to or underwrite the issue of stocks, shares, bonds or debentures of business enterprises.
+(b) to its chief executive officer, or any of its officers or employees;
 
-(5) Any power, function or duty delegated under subsection (4) may be exercised or performed by such employee in the name and on behalf of the Board.
+(c) to any committee appointed by it under subsection (1); or
 
-[11/89]
+(d) to any other person as it thinks fit, any of the functions or powers of the Board under this Act or any other written law, except the power of delegation conferred by this section and the power to make subsidiary legislation under this Act or such other written law.
 
-(6) The Board may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
+[11/2008]
 
-[11
+(3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Board.
+
+[11/2008]
+
+(4) No delegation under this section shall prevent the exercise or performance of any function or power by the Board.
+
+[11/2008]

@@ -4,19 +4,21 @@
 
 (a) the Chairman; and
 
-(b) not less than 4 and not more than 11 other members who shall be appointed by the Minister.
+(b) not less than 5 and not more than 15 other members who shall be appointed by the Minister.
 
-[17/75; 11/89]
+[17/75; 11/89; 11/2008]
 
-(2) The quorum of the Board shall be 4.
+(2) The quorum at every meeting of the Board shall be one-third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009]
 
 (3) The Board shall meet at such times and places as the Board may determine.
 
 [11/89]
 
-(4) The members of the Board appointed by the Minister under subsection (1) (b) shall, unless their appointment is revoked by the Minister under subsection (11), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
+(4) The members of the Board appointed by the Minister under subsection (1)(b) shall hold office for such period and on such terms and conditions as the Minister may determine, and shall be eligible for re-appointment.
 
-[11/89]
+[11/2008]
 
 (5) The Minister may appoint not more than 2 members of the Board to be Deputy Chairmen of the Board.
 
@@ -36,10 +38,14 @@
 
 (8) The Chairman of the Board or the person lawfully acting as Chairman at any meeting of the Board shall have an original as well as a casting vote.
 
-(9) A member of the Board shall not, in any meeting of the Board, participate in any discussion relating to, and shall not vote in respect of, any application to the Board for a loan in which he is interested or in respect of any business or management in which he is interested, and if he does so his vote shall not be counted, nor shall he be counted in the quorum present at that meeting.
+(9) [Deleted by Act 11 of 2008]
 
 (10) The members of the Board shall be paid out of the funds of the Board such salaries, fees or allowances as the Minister may determine.
 
 [7/97]
 
 (11) The Minister may at any time revoke the appointment of the Chairman or of any other member of the Board.
+
+(12) The First Schedule shall have effect with respect to the Board, its members and proceedings.
+
+[11/2008]

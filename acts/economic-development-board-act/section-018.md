@@ -1,10 +1,14 @@
 # 18. General powers of Board
 
-(1) The Board shall have power —
+(1) The Board shall have power to do anything for the purpose of discharging its functions under this Act or any other written law, or which is incidental or conducive to the discharge of those functions.
 
-(a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by business enterprises;
+[11/2008]
 
-(b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by business enterprises which —
+(2) Without prejudice to the generality of subsection (1) but subject to this Act, the powers of the Board shall include the power —
+
+(a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by enterprises;
+
+(b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by enterprises which —
 
 (i) are repayable within a period not exceeding 25 years;
 
@@ -12,21 +16,21 @@ or
 
 (ii) are floated in the public market;
 
-(c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of business enterprises;
+(c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of enterprises;
 
-(d) to manage, control or supervise business enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
+(d) to manage, control or supervise enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
 
-(e) with the written approval of the Minister, to establish, sell shares of, invest in and manage business enterprises;
+(e) with the written approval of the Minister, to establish, sell shares of, invest in and manage enterprises;
 
-(f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with a business enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
+(f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with an enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
 
 (g) to acquire, sell or lease land for the purposes of industrial sites, for the housing of employees or for general economic development;
 
 (h) to lay out industrial estates for sale or lease;
 
-(i) to provide technical advice and assistance to business enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
+(i) to provide technical advice and assistance to enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
 
-(j) to exercise all powers and perform all functions and duties which, under or by virtue of any other written law, are or may be or become vested or delegated to it;
+(j) to exercise and perform all powers, duties and functions which, under or by virtue of any other written law, are or may be or become vested in or delegated to it;
 
 (k) to receive in consideration of the services rendered by it such commission as may be agreed upon;
 
@@ -36,52 +40,28 @@ or
 
 (n) with the written approval of the Minister, to award compensation to any person sustaining any damage by reason of the exercise of any of the powers under this Act by the Board or by any employee thereof;
 
-(o) to act as agents for any business enterprise;
+(o) to act as agent for any enterprise;
 
 (p) to carry out experimental work and to conduct, promote and encourage the study of, and research in, matters connected with any of the Board’s purposes and functions;
 
-(q) from time to time to invest any of the funds of the Board in securities authorised for the investment of trust funds by any written law for the time being in force, and, with the approval of the Minister, in other securities, within or otherwise than within Singapore;
+(q) to invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
 
-(r) with the concurrence of the Housing and Development Board, to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
+(r) to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
 
-(s) to foster the growth of the services industry by developing the appropriate infrastructure and formulating and implementing investment promotion plans, promotional incentives and marketing strategies to support local and international firms and businesses in the services sector in Singapore; and
+(s) to foster the growth of the Singapore economy by developing the appropriate infrastructure and formulating and implementing investment promotion policies and plans, incentives and strategies to support enterprises in Singapore; and
 
-(t) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its duties under this Act.
+(t) to provide training in the fields related to the functions and powers of the Board, and financial assistance for such training in the form of bursaries, scholarships, loans, grants or otherwise.
 
-[38/73; 11/89]
+[11/2008]
 
-(2) The Board may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may authorise the Board in writing to exercise.
+(3) The Board may, in addition to the powers vested in it by this section, exercise such other powers as the Minister may authorise the Board in writing to exercise.
 
-(3) The Board shall, when it is exercising powers authorised by the Minister under subsection (2), be deemed to be exercising powers vested in it by subsection (1).
+[11/2008]
 
-(4) For the purposes of subsection (1) (s), ‘‘services’’ means all or any of the following services:
+(4) The Board shall, when it is exercising powers authorised by the Minister under subsection (3), be deemed to be exercising powers vested in it by subsection (1).
 
-(a) business services;
+[11/2008]
 
-(b) technical services;
+(5) This section shall not be construed as limiting any power of the Board conferred by or under any other written law.
 
-(c) commercial services;
-
-(d) accountancy and management and professional services;
-
-(e) transport and communication services;
-
-(f) warehousing and distribution services;
-
-(g) medical services;
-
-(h) education services;
-
-(i) publishing services;
-
-(j) information technology services;
-
-(k) agrotechnology services;
-
-(l) entertainment, leisure and recreation services;
-
-(m) exhibition services.
-
-[17
-
-[11/89]
+[11/2008]

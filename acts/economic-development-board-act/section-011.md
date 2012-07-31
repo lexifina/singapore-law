@@ -19,5 +19,3 @@
 (g) if at the time of the death of any contributor or at any time afterwards, there is no trustee of such moneys or it is expedient to appoint a new trustee or new trustees, then and in any such case a trustee or trustees or a new trustee or new trustees may be appointed by the High Court or a Judge thereof; and
 
 (h) the receipt of a trustee or trustees duly appointed, or in default of any such appointment and of written notice thereof to the Board, the receipt of the legal personal representative of a deceased contributor shall be a discharge to the Board for any moneys payable on his death out of any such scheme.
-
-[10

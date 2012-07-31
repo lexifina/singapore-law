@@ -1,11 +1,9 @@
-# 27. Affixing of common seal
+# 27. Common seal
 
-(1) The fixing of the common seal of the Board shall be authenticated by the signature of —
+(1) The Board shall have a common seal and the seal may, from time to time, be broken, altered or made anew as the Board thinks fit.
 
-(a) the Chairman or a Deputy Chairman of the Board; and
+[11/2008]
 
-(b) an officer of the Board authorised by the Board, either generally or specially, to act for that purpose.
+(2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Board affixed to any document and shall presume that it was duly affixed.
 
-[17/75]
-
-(2) Any document purporting to be a document duly executed under the seal of the Board shall be admissible in evidence and shall, unless the contrary is proved, be deemed to be a document so executed.
+[11/2008]

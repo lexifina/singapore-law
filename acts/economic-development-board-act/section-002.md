@@ -2,30 +2,18 @@
 
 In this Act, unless the context otherwise requires —
 
-‘‘Board’’ means the Economic Development Board established under section 3;
+“Board” means the Economic Development Board established under section 3;
 
-‘‘business enterprise’’ means any sole proprietorship, partnership, company or co-operative society wherever registered or incorporated under any law for the time being in force relating to companies, co-operative societies or businesses and engaged in or proposing to engage in any one or more of the following purposes or functions:
+“chief executive officer” means the chief executive officer of the Board and includes any temporary chief executive officer of the Board;
 
-(a) manufacture and sale of goods, materials or things or the subjection of goods, materials or things to any process, including that of repairs, breaking-up, reconditioning or maintenance;
+“enterprise” means any entity incorporated, formed or established in Singapore or elsewhere, whether or not for profit, and howsoever owned or controlled, and includes —
 
-(b) the exploration for, and exploitation of, natural resources, including —
+(a) a corporation, a sole proprietorship, a partnership, a joint venture, a trust and an association; and
 
-(i) the working of a mine, quarry or any other source of mineral deposits; or
+(b) a branch of an enterprise;
 
-(ii) the treatment or preparation for sale, consumption or use, and the storage or removal, of any substance from any mine, quarry or other source of mineral deposits;
+“member” means a member of the Board;
 
-(c) transport, dock, water or electricity undertaking, including the business of wharf-fingers and stevedores;
+“underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of an enterprise with a view to the resale of the whole or part of it.
 
-(d) the storage of goods, materials or things;
-
-(e) the working of a plantation;
-
-(f) fishing;
-
-(g) the business of a tourism enterprise as defined in the Singapore Tourism Board Act (Cap. 305B);
-
-‘‘goods, materials or things’’ includes capital or consumer goods of every description, including aircraft, ships, machinery, food and drugs;
-
-‘‘underwrite’’ means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of a business enterprise with a view to the resale of the whole or part of it.
-
-[11/89; 9/97]
+[11/89; 9/97; 11/2008]

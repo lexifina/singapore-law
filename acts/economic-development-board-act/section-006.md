@@ -2,24 +2,34 @@
 
 (1) The functions of the Board are —
 
-(a) to stimulate the growth, expansion and development of Singapore’s economy by promoting Singapore as an international total business centre;
+(a) to stimulate the growth, expansion and development of the Singapore economy;
 
-(b) to formulate investment promotion policies and plans, promotional incentives and marketing strategies to attract foreign and local investments in advanced technology industries and skill-intensive services which enjoy good export market prospects;
+(b) pursuant to paragraph (a), to formulate investment promotion policies and plans, and promotional incentives and strategies;
 
-(c) to promote, facilitate and assist in the development of support industries and services which provide important parts, components and related services to the manufacturing sector;
+(c) to promote, facilitate and assist in the development of support industries and services which provide important parts, components and related services to the manufacturing and services sector;
 
-(d) to encourage foreign and local industries to upgrade their skill and technological levels through investment in new technology, automation, training, research and product development activities;
+(d) to encourage foreign and local industries to upgrade their skill and technological levels through investment in technology, automation, training, research and product development activities;
 
-(e) to support the development of local entrepreneurs and small and medium business enterprises and to assist local companies to expand and upgrade their operations;
+(e) to support the development of local entrepreneurs and small and medium enterprises and to assist local enterprises to expand and upgrade their operations;
 
-(f) to provide training in new skills required by the manufacturing, business and technical services sector; and
+(f) to provide or support training in skills required for the development of the Singapore economy;
 
-(g) to identify and encourage key companies to establish their international operational headquarters and undertake a wide range of regional service and business activities in Singapore.
+(g) to identify key enterprises and encourage them to establish their international headquarters in Singapore and undertake a wide range of international service and business activities;
 
-[11/89]
+and
 
-(2) For the purpose of subsection (1) (a), ‘‘international total business centre’’ means a centre which facilitates and encourages the development of all forms of business activities in areas of design, production, marketing and distribution and all types of corporate services.
+(h) to exercise or perform any function or duty conferred upon the Board under any other written law.
 
-[5A
+[11/2008]
 
-[11/89]
+(2) In addition to the functions imposed by this section, the Board may undertake such other functions as the Minister may assign to the Board, and in so doing —
+
+(a) the Board shall be deemed to be fulfilling the purposes of this Act; and
+
+(b) the provisions of this Act shall apply to the Board in respect of such functions.
+
+[11/2008]
+
+(3) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+
+[11/2008]

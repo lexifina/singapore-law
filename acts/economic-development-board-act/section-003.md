@@ -2,10 +2,16 @@
 
 (1) There is hereby established a body to be called the Economic Development Board.
 
-(2) The Board shall be a body corporate with perpetual succession and a common seal with power, subject to the provisions of this Act —
+(2) The Board shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
-(a) to acquire and dispose of property, both movable and immovable;
+(a) acquiring, owning, holding and developing or disposing of property, both movable and immovable;
 
-(b) to sue and be sued in its corporate name; and
+(b) suing and being sued; and
 
-(c) to perform such other acts as bodies corporate may by law perform.
+(c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
+
+[11/2008]
+
+(3) The Board may perform any of its functions or carry out any of its duties under the business name of “EDB”, or such other business name as the Minister may, from time to time by notification in the Gazette, specify.
+
+[11/2008]

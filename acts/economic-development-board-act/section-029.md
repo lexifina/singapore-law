@@ -10,12 +10,10 @@
 
 (d) the manner in which documents, cheques and instruments of any description shall be signed or executed on behalf of the Board;
 
-(e) the manner and terms of issue and redemption of bonds and debentures by the Board; and
+(e) the manner and terms of issue and redemption of bonds and debentures by the Board;
 
 (f) generally for the exercise of the Board’s powers under the provisions of this Act.
 
 (2) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in the Gazette.
 
 (3) If a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the regulations are so presented annulling the regulations or any part thereof as from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new regulations.
-
-[28

@@ -8,14 +8,12 @@
 
 (a) be known by such designation as the Board may determine;
 
-and
+(b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board; and
 
-(b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board.
+(c) not be removed from office without the consent of the Minister.
 
-[11/89]
+[11/89; 11/2008]
 
-(3) The Board may, with the approval of the Minister, appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
+(3) The Board may appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
 
-[7
-
-[11/89]
+[11/89; 11/2008]
