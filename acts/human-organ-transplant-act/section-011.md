@@ -5,4 +5,4 @@ Part: PART III REGISTRATION OF OBJECTION
 
 [1/2004]
 
-(2) Upon receipt of the withdrawal under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form and shall remove the objection from the register referred to in section 10 (1).
+(2) Upon receipt of the withdrawal of a person under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form and shall remove the objection from the register referred to in section 10(1).

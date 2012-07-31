@@ -7,6 +7,8 @@ Part: PART II REMOVAL OF ORGAN AFTER DEATH
 
 (3) The consent may be given orally by the Coroner, and if so given shall be confirmed in writing.
 
-(4) In this section, ‘‘Coroner’’ means a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321).
+(4) In this section, “Coroner” means the State Coroner or a Coroner appointed under the Coroners Act 2010 (Act 14 of 2010).
+
+[14/2010]
 
 [ACT Transplantation and Anatomy 1977, s. 27]

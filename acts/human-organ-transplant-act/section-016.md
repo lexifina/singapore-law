@@ -1,9 +1,9 @@
 # 16. Act does not prevent specified removal of organ, etc.
 Part: PART V MISCELLANEOUS
 
-(1) Nothing in this Act shall apply to or in relation to —
+Nothing in this Act shall apply to or in relation to —
 
-(a) the removal of any organ from the body of a living person in the course of a procedure or operation carried out, in the interests of the health of the person, by a medical practitioner with the consent, express or implied, given by or on behalf of the person or in circumstances necessary for the preservation of the life of the person;
+(a) the removal of any organ from the body of a living person in the course of a procedure or an operation carried out, in the interests of the health of the person, by a medical practitioner with the consent, express or implied, given by or on behalf of the person or in circumstances necessary for the preservation of the life of the person;
 
 (b) the use of any organ so removed;
 

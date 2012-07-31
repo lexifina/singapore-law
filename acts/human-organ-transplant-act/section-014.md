@@ -1,20 +1,58 @@
-# 14. Certain contracts, etc., to be void
+# 14. Buying or selling of organs or blood prohibited and void
 Part: PART IV PROHIBITION OF TRADING IN ORGANS AND BLOOD
 
-(1) Subject to this section, a contract or arrangement under which a person agrees, for valuable consideration, whether given or to be given to himself or to another person, to the sale or supply of any organ or blood from his body or from the body of another person, whether before or after his death or the death of the other person, as the case may be, shall be void.
+(1) Subject to subsections (3) and (4), a contract or an arrangement under which a person agrees, for valuable consideration, whether given or to be given to himself or to another person, to the sale or supply of any organ or blood from his body or from the body of another person, whether before or after his death or the death of the other person, as the case may be, shall be void.
 
-(2) A person who enters into a contract or arrangement of the kind referred to in subsection (1) and to which that subsection applies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[14/2009]
 
-(3) Subsection (1) shall not apply to or in relation to —
+(2) A person who enters into a contract or an arrangement of the kind referred to in subsection (1) and to which that subsection applies shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(a) a contract or arrangement providing only for the reimbursement of any expenses necessarily incurred by a person in relation to the removal of any organ or blood in accordance with the provisions of any other written law; and
+(2A) Any person who —
 
-(b) any scheme introduced or approved by the Government granting medical benefits or privileges to any organ or blood donor and any member of the donor’s family or any person nominated by the donor.
+(a) gives or offers to give valuable consideration for the sale or supply of, or for an offer to sell or supply, any organ from the body of another person other than for the purpose of transplantation to his body;
 
-(4) The Minister may, by notification in the Gazette, declare that subsection (1) shall not apply to the sale or supply of a specified class or classes of product derived from any organ or blood that has been subjected to processing or treatment.
+(b) receives valuable consideration for the sale or supply of, or for an offer to sell or supply, any organ from the body of another person;
 
-(5) A person who as vendor or supplier enters into a contract or arrangement for the sale or supply of a product derived from any organ or blood that has been subjected to processing or treatment, other than such a product which is of a class declared under subsection (4), shall be guilty of an offence if the organ or blood from which the product was derived was obtained under a contract or arrangement that is void by reason of subsection (1), and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(c) offers to sell or supply any organ from the body of another person for valuable consideration;
 
-(6) Nothing in this section shall render inoperative a consent or authority given or purporting to have been given under this Act in relation to any organ or blood from the body of a person or in relation to the body of a person if a person acting in pursuance of the consent or authority did not know and had no reason to know that the organ or blood or the body was the subject-matter of a contract or arrangement referred to in subsection (1).
+(d) initiates or negotiates any contract or arrangement for the sale or supply of, or for an offer to sell or supply, any organ from the body of another person for valuable consideration other than for the purpose of transplantation to his body; or
+
+(e) takes part in the management or control of a body corporate or body unincorporate whose activities consist of or include the initiation or negotiation of any contract or arrangement referred to in paragraph (d), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+[14/2009]
+
+(3) Subsections (1) and (2A) shall not apply to or in relation to —
+
+(a) a contract or an arrangement providing only for the reimbursement of any expenses necessarily incurred by a person in relation to the removal of blood in accordance with the provisions of any other written law;
+
+(b) any scheme introduced or approved by the Government granting medical benefits or privileges to any organ or blood donor and any member of the donor’s family or any person nominated by the donor; and
+
+(c) any contract, arrangement or valuable consideration providing only for the defraying or reimbursing, in money or money’s worth, of such costs or expenses that may be reasonably incurred by a person in relation to —
+
+(i) the removal, transportation, preparation, preservation, quality control or storage of any organ;
+
+(ii) the costs or expenses (including the costs of travel, accommodation, domestic help or child care) or loss of earnings so far as are reasonably or directly attributable to that person supplying any organ from his body; and
+
+(iii) any short-term or long-term medical care or insurance protection of that person which is or may reasonably be necessary as a consequence of his supplying any organ from his body.
+
+[14/2009]
+
+(4) The Minister may, by notification in the Gazette, declare that subsection (1) or (2A) shall not apply to the sale or supply of a specified class or classes of product derived from any organ or blood that has been subjected to processing or treatment.
+
+[14/2009]
+
+(5) A person who as vendor or supplier enters into a contract or an arrangement for the sale or supply of a product derived from any organ or blood that has been subjected to processing or treatment, other than such a product which is of a class declared under subsection (4), shall be guilty of an offence if the organ or blood from which the product was derived was obtained under a contract or an arrangement that is void by reason of subsection (1), and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(6) Nothing in this section shall render inoperative a consent or an authority given or purporting to have been given under this Act in relation to any organ or blood from the body of a person or in relation to the body of a person if a person acting in pursuance of the consent or authority did not know and had no reason to know that the organ or blood or the body was the subject-matter of a contract or an arrangement referred to in subsection (1) or (2A).
+
+[14/2009]
+
+(7) For the purposes of this section, the donation by a living donor (Donor A) of any organ from his body in consideration of —
+
+(a) a donation of an organ from another living donor for the purpose of the transplantation of the organ to the body of a living recipient of Donor A’s choice (Recipient A); or
+
+(b) priority in the selection of Recipient A as a recipient of any organ, whether removed pursuant to section 5 or otherwise, shall not, of itself, constitute valuable consideration if the donors have given their consent and the provisions of Part IVA (as applicable) are complied with.
+
+[14/2009]
 
 [ACT Transplantation and Anatomy 1977, s. 40]

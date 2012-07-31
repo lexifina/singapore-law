@@ -9,8 +9,10 @@ Part: PART V MISCELLANEOUS
 
 (a) the forms and the fees for the purposes of this Act;
 
-(b) the appointment, functions, responsibilities and procedures of transplant ethics committees; and
+(b) the appointment, functions, responsibilities and procedures of transplant ethics committees, and any other committee for purposes relating to the welfare and protection of organ donors and their families;
 
-(c) the preparation and the submission of such documents as may be prescribed.
+(c) the preparation and the submission of such documents as may be prescribed; and
 
-[1/2004]
+(d) the regulation of organ transplant arrangements, the regulation or administration of payment of costs, expenses and loss of earnings in relation to the removal of any organ for the purpose of transplantation, and the operation of schemes granting medical benefits or privileges under section 14(3).
+
+[1/2004; 14/2009]

@@ -13,17 +13,15 @@ Part: PART IVA LIVING DONOR ORGAN TRANSPLANTS
 
 (a) the person from whom the specified organ is to be removed has given his consent to such removal;
 
-(b) the person is of sound mind and, notwithstanding his age, is able to understand the nature and consequence of the medical procedures he has to undergo as a result of his donation of the specified organ; and
+(b) the person is not mentally disordered and, notwithstanding his age, is able to understand the nature and consequence of the medical procedures he has to undergo as a result of his donation of the specified organ; and
 
 (c) the consent referred to in paragraph (a) —
 
-(i) is not given pursuant to any contract or arrangement, whether prohibited under section 14 or otherwise;
-
-and
+(i) is not given pursuant to any contract or arrangement that is prohibited under section 14; and
 
 (ii) is not given or obtained by virtue of any fraud, duress or undue influence.
 
-[1/2004]
+[1/2004; 21/2008; 14/2009]
 
 (3) In determining whether to give any authorisation under subsection (1), the transplant ethics committee shall have regard to such considerations as may be prescribed or as may be directed by the Director.
 

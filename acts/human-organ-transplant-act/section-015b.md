@@ -7,7 +7,7 @@ Part: PART IVA LIVING DONOR ORGAN TRANSPLANTS
 
 (2) Every transplant ethics committee of a hospital shall consist of not less than 3 persons, of whom —
 
-(a) at least one shall be a medical practitioner not employed or otherwise connected with the hospital; and
+(a) at least one shall be a medical practitioner not employed by or otherwise connected with the hospital; and
 
 (b) at least one shall be a lay person.
 

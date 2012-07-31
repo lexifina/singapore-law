@@ -9,20 +9,18 @@ Part: PART II REMOVAL OF ORGAN AFTER DEATH
 
 (b) who is neither a citizen nor a permanent resident of Singapore;
 
-(c) who is below 21 years of age unless the parent or guardian has consented to such removal;
+(c) who is below 21 years of age unless the parent or guardian has consented to such removal; or
 
-(d) who is above 60 years of age;
+(d) [Deleted by Act 14 of 2009]
 
-(e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was not of sound mind, unless the parent or guardian has consented to such removal; or
+(e) whom the designated officer, after making such inquiries as are reasonable in the circumstances, has reason to believe was mentally disordered, unless the parent or guardian has consented to such removal.
 
-(f) who is a Muslim.
+[1/2004; 2/2008; 21/2008; 14/2009]
 
-[1/2004]
-
-(3) In this section, ‘‘permanent resident’’ includes —
+(3) In this section, “permanent resident” includes —
 
 (a) a person who holds a Singapore blue identity card; and
 
-(b) a person who holds an Entry Permit or Re-entry Permit issued by the Controller of Immigration, and who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133).
+(b) a person who holds an Entry Permit or a Re-entry Permit issued by the Controller of Immigration, and who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133).
 
 [ACT Transplantation and Anatomy 1977, s. 25]

@@ -13,7 +13,7 @@ Part: PART IVA LIVING DONOR ORGAN TRANSPLANTS
 
 (2) Until the direction of the Director issued under subsection (1) has been complied with —
 
-(a) the licensee of the hospital shall ensure that no living donor organ transplant authorised under section 15A (1) is carried out in the hospital; and
+(a) the licensee of the hospital shall ensure that no living donor organ transplant authorised under section 15A(1) is carried out in the hospital; and
 
 (b) no person shall carry out any such living donor organ transplant in the hospital, unless otherwise allowed by the Director and in accordance with such conditions as the Director may impose.
 
@@ -23,6 +23,6 @@ Part: PART IVA LIVING DONOR ORGAN TRANSPLANTS
 
 [1/2004]
 
-(4) Any person who contravenes subsection (2) (a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) Any person who contravenes subsection (2)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [1/2004]
