@@ -1,8 +1,14 @@
-# 35. False assumption of title of nurse specialist, etc.
-Part: PART V NURSE SPECIALISTS
+# 35. False assumption of title of Advanced Practice Nurse, etc.
+Part: PART V ADVANCED PRACTICE NURSES
 
 Any person who —
 
-(a) not being a nurse specialist, takes or uses the name or title of nurse specialist in any language, either alone or in combination with any other words or letters, or any name, title, addition, description, uniform or badge, implying that he is a nurse specialist;
+(a) not being an Advanced Practice Nurse, takes or uses —
 
-(b) knowing that some other person is not a nurse specialist and with intent to deceive, makes any statement or does any act calculated to suggest that such other person is a nurse specialist, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(i) the name or title of Advanced Practice Nurse in any language, either alone or in combination with any other words or letters; or
+
+(ii) any name, title, addition, description, uniform or badge, implying that he is an Advanced Practice Nurse or is qualified to practise a specialised branch of nursing; or
+
+(b) knowing that some other person is not an Advanced Practice Nurse and with intent to deceive, makes any statement or does any act calculated to suggest that such other person is an Advanced Practice Nurse or is qualified to practise a specialised branch of nursing, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[15/2005]

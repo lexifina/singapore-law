@@ -1,4 +1,6 @@
-# 33. Publication of list of nurse specialists
-Part: PART V NURSE SPECIALISTS
+# 33. Publication of list of Advanced Practice Nurses
+Part: PART V ADVANCED PRACTICE NURSES
 
-The Registrar shall, from time to time, prepare and publish in the Gazette a list of the names, addresses and qualifications of all nurse specialists.
+The Registrar shall, from time to time, prepare and publish in the Gazette a list of the names, addresses and qualifications of all Advanced Practice Nurses.
+
+[15/2005]

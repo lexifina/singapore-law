@@ -13,6 +13,10 @@ Part: PART III REGISTRATION AND ENROLMENT
 
 (3) Every registered nurse, enrolled nurse and registered midwife shall inform the Registrar in writing of any change in his name, working address, residential address, or such of his other particulars as may be prescribed, within 28 days of the change.
 
-(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(4) [Deleted by Act 15 of 2005]
 
 (5) A person who makes a report of a change in his residential address under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (3) on the date on which he makes the report.
+
+(6) The Registrar may disclose, in accordance with any prescribed conditions, any information in the Register or Roll to any prescribed person.
+
+[15/2005]

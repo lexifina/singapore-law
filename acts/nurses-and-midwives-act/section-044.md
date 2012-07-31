@@ -11,9 +11,9 @@ Part: PART VI MISCELLANEOUS
 
 (c) regulate the alteration or correction of the Register and Roll;
 
-(d) regulate the renewal of temporary registration or enrolment under section 16 (3);
+(d) regulate the renewal of temporary registration or enrolment under section 16(3);
 
-(e) regulate the issue of practising certificates;
+(e) regulate the grant and renewal of practising certificates, including prescribing conditions for such grant and renewal;
 
 (f) regulate the procedure by which the Board takes action under section 19;
 
@@ -30,3 +30,5 @@ Part: PART VI MISCELLANEOUS
 (l) provide that any person who contravenes any regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000; and
 
 (m) prescribe such other matters as are necessary or authorised to be prescribed under this Act.
+
+[15/2005]

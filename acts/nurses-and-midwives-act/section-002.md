@@ -3,36 +3,40 @@ Part: PART I PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘accredited’’ means accredited by the Board;
+“accredited” means accredited by the Board;
 
-‘‘appointed member’’ means a member appointed under section 3 (2) (d);
+“Advanced Practice Nurse” means a registered nurse who is certified as an Advanced Practice Nurse under section 32;
 
-‘‘Board’’ means the Singapore Nursing Board established under section 3;
+“appointed member” means a member appointed under section 3(2)(d);
 
-‘‘certificate of enrolment’’ means a certificate of enrolment granted under section 17;
+“Board” means the Singapore Nursing Board established under section 3;
 
-‘‘certificate of registration’’ means a certificate of registration granted under section 17;
+“certificate of enrolment” means a certificate of enrolment granted under section 17;
 
-‘‘Complaints Committee’’ means a Complaints Committee appointed under section 37;
+“certificate of registration” means a certificate of registration granted under section 17;
 
-‘‘enrolled’’ means enrolled under section 14, 15 or 16, and ‘‘enrol’’, ‘‘enrolling’’ and ‘‘enrolment’’ have corresponding meanings;
+“Complaints Committee” means a Complaints Committee appointed under section 37;
 
-‘‘enrolled nurse’’ means a person who is enrolled as an enrolled nurse, and includes a person who is deemed to be enrolled as an enrolled nurse under section 46 (2);
+“enrolled” means enrolled under section 14, 15 or 16, and “enrol”, “enrolling” and “enrolment” have corresponding meanings;
 
-‘‘medical practitioner’’ means a person registered under the Medical Registration Act (Cap. 174);
+“enrolled nurse” means a person who is enrolled as an enrolled nurse, and includes a person who is deemed to be enrolled as an enrolled nurse under section 46(2);
 
-‘‘member’’ means a member of the Board;
+“medical practitioner” means a person registered under the Medical Registration Act (Cap. 174);
 
-‘‘practising certificate’’ means a practising certificate issued by the Board under section 18;
+“member” means a member of the Board;
 
-‘‘Register’’ means the Register of Nurses or Register of Midwives kept under section 13, as the case may be, or both the Register of Nurses and the Register of Midwives;
+“practising certificate” means a practising certificate issued by the Board under section 18;
 
-‘‘registered’’ means registered under section 14, 15 or 16, and ‘‘register’’, ‘‘registering’’ and ‘‘registration’’ have corres- ponding meanings;
+“Register” means the Register of Nurses or Register of Midwives kept under section 13, as the case may be, or both the Register of Nurses and the Register of Midwives;
 
-‘‘registered midwife’’ means a person who is registered as a registered midwife, and includes a person who is deemed to be registered as a registered midwife under section 46 (3);
+“registered” means registered under section 14, 15 or 16, and “register”, “registering” and “registration” have corresponding meanings;
 
-‘‘registered nurse’’ means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 46 (1);
+“registered midwife” means a person who is registered as a registered midwife, and includes a person who is deemed to be registered as a registered midwife under section 46(3);
 
-‘‘Registrar’’ means the Registrar of the Board appointed under section 12;
+“registered nurse” means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 46(1);
 
-‘‘Roll’’ means the Roll of Nurses kept under section 13.
+“Registrar” means the Registrar of the Board appointed under section 12;
+
+“Roll” means the Roll of Nurses kept under section 13.
+
+[15/2005]

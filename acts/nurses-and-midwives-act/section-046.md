@@ -32,5 +32,3 @@ Part: PART VII TRANSITIONAL PROVISIONS
 (6) The Registrar may, in carrying out the transfer under subsection (5), omit the particulars of any person known to the Registrar to be deceased.
 
 (7) Section 23 shall apply, with the necessary modifications, to any person whose name was removed from the register of nurses, the roll of nurses or the register of midwives.
-
-[47

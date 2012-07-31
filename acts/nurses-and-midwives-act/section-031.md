@@ -1,10 +1,10 @@
 # 31. Interpretation of this Part
-Part: PART V NURSE SPECIALISTS
+Part: PART V ADVANCED PRACTICE NURSES
 
 In this Part —
 
-‘‘nurse specialist’’ means a person who is registered under section 32 as a nurse specialist;
+“Advanced Practice Nurse certificate” means an Advanced Practice Nurse certificate issued under section 32;
 
-‘‘nurse specialist certificate’’ means a nurse specialist certificate issued under section 32;
+“Advanced Practice Nurse Register” means the Advanced Practice Nurse Register kept under section 32.
 
-‘‘Nurse Specialist Register’’ means the Nurse Specialist Register kept under section 32.
+[15/2005]

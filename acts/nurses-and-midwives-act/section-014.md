@@ -7,7 +7,7 @@ Part: PART III REGISTRATION AND ENROLMENT
 
 (i) a course in nursing accredited for the purposes of this subsection in an accredited institution; or
 
-(ii) a course in nursing outside Singapore which in the opinion of the Board is equivalent to a course referred to in sub-paragraph (i); and
+(ii) a course in nursing outside Singapore which in the opinion of the Board is equivalent to a course referred to in sub‑paragraph (i); and
 
 (b) he has fulfilled such other conditions as the Board may specify for his case, may be registered as a registered nurse.
 
@@ -17,7 +17,7 @@ Part: PART III REGISTRATION AND ENROLMENT
 
 (i) a course in nursing accredited for the purposes of this subsection in an accredited institution; or
 
-(ii) a course in nursing outside Singapore which in the opinion of the Board is equivalent to a course referred to in sub-paragraph (i); and
+(ii) a course in nursing outside Singapore which in the opinion of the Board is equivalent to a course referred to in sub‑paragraph (i); and
 
 (b) he has fulfilled such other conditions as the Board may specify for his case, may be enrolled as an enrolled nurse.
 
@@ -27,7 +27,7 @@ Part: PART III REGISTRATION AND ENROLMENT
 
 (i) a course in midwifery accredited for the purposes of this subsection in an accredited institution; or
 
-(ii) a course in midwifery outside Singapore which in the opinion of the Board is equivalent to a course referred to in sub-paragraph (i); and
+(ii) a course in midwifery outside Singapore which in the opinion of the Board is equivalent to a course referred to in sub‑paragraph (i); and
 
 (b) he has fulfilled such other conditions as the Board may specify for his case, may be registered as a registered midwife.
 

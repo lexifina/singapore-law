@@ -11,4 +11,4 @@ Any person who —
 
 (d) fraudulently or dishonestly uses as genuine a certificate of registration, a certificate of enrolment or a practising certificate which he knows or has reason to believe is forged or altered; or
 
-(e) buys, sells or fraudulently obtains a certificate of registra- tion, a certificate of enrolment or a practising certificate, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+(e) buys, sells or fraudulently obtains a certificate of registration, a certificate of enrolment or a practising certificate, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.

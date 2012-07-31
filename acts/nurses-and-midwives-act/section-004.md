@@ -5,7 +5,7 @@ The Minister may remove an appointed member from office if he —
 
 (a) is an undischarged bankrupt;
 
-(b) has been found guilty in Singapore or elsewhere of profes- sional misconduct;
+(b) has been found guilty in Singapore or elsewhere of professional misconduct;
 
 (c) has been convicted in Singapore or elsewhere of an offence involving dishonesty, fraud or moral turpitude;
 

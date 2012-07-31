@@ -11,6 +11,4 @@ Part: PART VI MISCELLANEOUS
 
 (a) refuses or fails to comply with any requirement of the Complaints Committee under subsection (1); or
 
-(b) refuses to answer or gives a false answer to any question put to him by a member of the Complaints Committee,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(b) refuses to answer or gives a false answer to any question put to him by a member of the Complaints Committee, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
