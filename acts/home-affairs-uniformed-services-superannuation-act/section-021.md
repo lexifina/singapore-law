@@ -1,6 +1,5 @@
 # 21. Award officers and appeal authority
-Part: PART III INVEST FUND
-Heading: 2 CAP. 126B Services Superannuation 2002 Ed. PART IV BOARD OF TRUSTEES AND AWARD OFFICERS
+Part: PART IV BOARD OF TRUSTEES AND AWARD OFFICERS
 
 (1) The Minister —
 

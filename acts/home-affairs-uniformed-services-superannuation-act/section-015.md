@@ -1,7 +1,9 @@
 # 15. Investment
 Part: PART III INVEST FUND
 
-(1) Notwithstanding section 7 (3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Plan may, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
+(1) Notwithstanding section 7(3) of the Financial Procedure Act (Cap. 109), moneys standing to the credit of the Fund which are, in the opinion of the Board, moneys that are not for the time being required for the purpose of making payments out of the Fund under this Act and the INVEST Plan or the Scheme may, so far as is practicable, be invested by the Board in such stocks, funds, securities and investments as the Board thinks fit (but not any stock, bond or security issued by the Government) and in any manner, but the Board shall manage the Fund so that moneys that are from time to time required to pay benefits that are payable out of the Fund are available for that purpose.
+
+[29/2002]
 
 (2) The Board may invest moneys standing to the credit of the Fund that are available for investment through an investment manager or managers who undertake to invest, and manage the investment of those moneys on behalf of the Board.
 

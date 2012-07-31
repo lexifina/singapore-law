@@ -11,7 +11,9 @@ Part: PART II INVEST PLAN
 
 (d) all prison officers appointed on or after the commencement of the regulations; and
 
-(e) all intelligence officers who, immediately before being appointed as an intelligence officer, were members of the scheme, who will or (as the case may be) continue to be members of the scheme.
+(e) all intelligence officers who are appointed on or after the commencement of the regulations, including those who were members immediately before becoming intelligence officers, who will or (as the case may be) continue to be members of the scheme.
+
+[29/2002]
 
 (2) The regulations made under subsection (1) shall provide for the payment of —
 
@@ -20,8 +22,6 @@ Part: PART II INVEST PLAN
 (b) any pension, gratuity, allowance, compensation or other benefit in respect of the death of or injuries received by any member of the INVEST Plan in and which are attributable to service; and
 
 (c) any allowance, subsidy or other benefit to such former members of the INVEST Plan as may be prescribed after their retirement from the uniformed services.
-
-2002 Ed. Services Superannuation CAP. 126B 5
 
 (3) The regulations made under subsection (1) may provide —
 

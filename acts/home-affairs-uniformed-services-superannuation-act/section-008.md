@@ -7,11 +7,9 @@ Part: PART II INVEST PLAN
 
 (3) If any person to whom a pension or other allowance has been granted under this Act is adjudicated a bankrupt by judgment of a court of competent jurisdiction, whether in Singapore or elsewhere, the Minister may direct that such pension or allowance shall forthwith cease, and thereupon such pension or allowance shall cease accordingly.
 
-8 CAP. 126B Services Superannuation 2002 Ed.
-
 (4) In any case where, by reason of bankruptcy of the former member, a pension, gratuity or allowance is not granted or where a pension or allowance ceases by virtue of a direction under subsection (3), it shall be lawful for the Minister, from time to time, during the remainder of the member’s or former member’s life, or during such shorter period or periods, either continuous or discontinuous, as the Minister thinks fit, to cause all or any part of the moneys to which such person would have been entitled by way of pension, gratuity or allowance, had he not become a bankrupt, to be paid to, or applied for the maintenance and personal support or benefit of, all or any (to the exclusion of the others) of the following persons in such proportions and manner as the Minister thinks proper:
 
-(a) the member or former member himself; and
+(a) the member or former member himself;
 
 (b) any wife, child or children of his.
 
