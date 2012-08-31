@@ -21,20 +21,18 @@ Part: PART XI OFFENCES AND PENALTIES
 
 [19/2002]
 
-(6) Without prejudice to the generality of section 66, the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a country or territory outside Singapore.
+(6) Without prejudice to the generality of section 66, the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or an unincorporated association formed or recognised under the law of a country or territory outside Singapore.
 
 [19/2002]
 
 (7) In this section —
 
-‘‘officer’’ —
+“officer” —
 
-(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; or
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the unincorporated association and includes persons holding positions analogous to those of president, secretary or member of such a committee;
 
-‘‘partner’’ includes a person purporting to act as a partner.
-
-[69
+“partner” includes a person purporting to act as a partner.
 
 [19/2002]

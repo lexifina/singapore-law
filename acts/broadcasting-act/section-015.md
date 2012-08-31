@@ -10,5 +10,3 @@ Part: PART IV BROADCASTING SERVICES
 (b) make available on demand without charge such equipment as the Authority may determine.
 
 (3) The Authority may, if it is satisfied that any programme intended to be broadcast by a broadcasting licensee may be against the public interest or order, national harmony or will offend against decency, require the broadcasting licensee to pre-record the programme and submit it to the Authority for approval before it is broadcast.
-
-[27

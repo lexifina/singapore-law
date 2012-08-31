@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 2 (1)
+Section 2(1)
 
 LICENSABLE BROADCASTING SERVICES 1. Free-to-air nationwide television services.
 
@@ -28,7 +28,7 @@ LICENSABLE BROADCASTING SERVICES 1. Free-to-air nationwide television services.
 
 13. Subscription international radio services.
 
-SECOND SCHEDULE — continued 14. Special interest radio services.
+14. Special interest radio services.
 
 15. Audiotext services.
 

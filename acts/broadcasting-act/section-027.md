@@ -10,5 +10,3 @@ Part: PART VII BROADCASTING CONDITIONS
 (b) assist the Authority or such authorised person in carrying out the inspection or test in any manner specified by it; and
 
 (c) answer directly and truthfully any question put to them by the Authority or such authorised person.
-
-[39

@@ -1,4 +1,4 @@
-# 28. Provision of building space, etc., by owner or developer of building or land
+# 28. Provision of building space, etc., by developer or owner of building or land
 Part: PART VII BROADCASTING CONDITIONS
 
 (1) Where the Authority considers it necessary that any licensable broadcasting service should be provided to any building and is of the opinion that any broadcasting apparatus or installation or plant to be used in providing the service has to be installed within the building or any land, the Authority may by direction require the developer or owner of the building or land to provide, within such period as may be specified in the direction, such broadcasting apparatus, installation or plant or space, of a standard acceptable to the Authority, within or on the building or land and access thereto as the Authority may require.
@@ -15,6 +15,4 @@ Part: PART VII BROADCASTING CONDITIONS
 
 (5) Nothing in any direction given under subsection (1) shall be construed as granting any exemption from any licensing requirement under this Act or any other written law which the developer or the owner of any building or land may be required to comply with in respect of any broadcasting apparatus or installation or plant.
 
-(6) In this section, ‘‘installation or plant’’ includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with broadcasting.
-
-[40
+(6) In this section, “installation or plant” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with broadcasting.

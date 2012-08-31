@@ -1,4 +1,4 @@
-# 19. ‘‘Must carry’’ provision
+# 19. “Must carry” provision
 Part: PART IV BROADCASTING SERVICES
 
 (1) Notwithstanding anything in this Act but subject to this section, the Authority may, by a direction in writing, require a broadcasting licensee to provide for transmission and reception any broadcasting service which is —
@@ -15,7 +15,7 @@ Part: PART IV BROADCASTING SERVICES
 
 (b) specifying the time (being not less than 28 days from the date of service of notice on the broadcasting licensee) within which written representations with respect to the proposed directions may be made.
 
-(4) Upon receipt of any written representation referred to in subsection (3) (b), the Authority shall consider the representation and may —
+(4) Upon receipt of any written representation referred to in subsection (3)(b), the Authority shall consider the representation and may —
 
 (a) reject the representation; or
 
@@ -30,5 +30,3 @@ Part: PART IV BROADCASTING SERVICES
 (b) whilst the appeal of the broadcasting licensee is under consideration by the Minister.
 
 (7) If no written representation is received by the Authority within the time specified in subsection (3) or if any written representation made under that subsection is withdrawn, the Authority may immediately give effect to the requirements of the direction given under this section.
-
-[31

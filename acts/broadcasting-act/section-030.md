@@ -24,5 +24,3 @@ Part: PART VIII FOREIGN BROADCASTING SERVICES
 (4) Any equipment and goods used in the commission of an offence under this section shall be liable to be forfeited to the Government.
 
 (5) For the purposes of this section, a person exposing decoding equipment for supply or having such equipment in his possession for supply shall be deemed to offer to supply it.
-
-[42

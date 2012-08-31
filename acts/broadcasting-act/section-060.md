@@ -7,6 +7,4 @@ The Minister may, subject to such terms and conditions as he may impose, by orde
 
 (b) any person or class of persons from all or any of the provisions of this Act or any subsidiary legislation made thereunder.
 
-[73
-
 [19/2002]

@@ -10,5 +10,3 @@ A broadcasting licensee shall include, within the broadcasting services required
 (c) arts and cultural programmes; and
 
 (d) drama and sports programmes produced in Singapore.
-
-[29

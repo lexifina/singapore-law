@@ -12,5 +12,3 @@ Part: PART IV BROADCASTING SERVICES
 (b) different types of such services.
 
 (4) Without limiting the conditions that may be imposed, the Authority may impose a condition on a class licence requiring the licensee to comply with a Code of Practice that is applicable to the licensee or designed to ensure that a breach of a condition of the class licence by the licensee does not recur.
-
-[21

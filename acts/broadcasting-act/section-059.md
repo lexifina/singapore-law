@@ -12,5 +12,3 @@ Part: PART XII MISCELLANEOUS PROVISIONS
 (3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any Code of Practice.
 
 (4) The decision of the Minister in any appeal shall be final.
-
-[72

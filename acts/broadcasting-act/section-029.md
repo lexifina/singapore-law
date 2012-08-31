@@ -7,6 +7,4 @@ Part: PART VIII FOREIGN BROADCASTING SERVICES
 
 (3) The Authority shall not consider a foreign broadcasting service to be unacceptable for the purposes of subsection (2) unless the Authority is satisfied that the content of that service included any matter which prejudices the public interest or order, national harmony or offends against good taste or decency.
 
-(4) In this section and section 30, ‘‘foreign broadcasting service’’ means a broadcasting service which transmits from a place outside Singapore broadcasting services which are capable of being received in Singapore.
-
-[41
+(4) In this section and section 30, “foreign broadcasting service” means a broadcasting service which transmits from a place outside Singapore broadcasting services which are capable of being received in Singapore.

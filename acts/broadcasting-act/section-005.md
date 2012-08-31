@@ -8,5 +8,3 @@ Part: PART III LICENSING SCHEME
 (b) broadcasting apparatus licences.
 
 (2) The Authority shall grant licences under subsection (1) in such categories as the Authority may determine are appropriate for the regulation of the broadcasting industry.
-
-[17

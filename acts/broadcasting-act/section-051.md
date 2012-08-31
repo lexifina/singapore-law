@@ -16,5 +16,3 @@ Part: PART XI OFFENCES AND PENALTIES
 (4) On receipt of the notice, the Authority may direct that the broadcasting apparatus be released or may refer the matter to a District Court or a Magistrate’s Court.
 
 (5) The District Court or the Magistrate’s Court may proceed to the examination of the matter and upon examination shall order that the broadcasting apparatus be forfeited or released.
-
-[64

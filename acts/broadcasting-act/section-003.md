@@ -29,7 +29,7 @@ Part: PART II PROVISIONS RELATING TO AUTHORITY
 
 (6) The Minister may —
 
-(a) pay compensation for any damage caused to a licensee by reason of its compliance with the directions of the Minister under subsection (3) (b); or
+(a) pay compensation for any damage caused to a licensee by reason of its compliance with the directions of the Minister under subsection (3)(b); or
 
 (b) make grants to licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any other provisions of this section.
 
@@ -38,5 +38,3 @@ Part: PART II PROVISIONS RELATING TO AUTHORITY
 (8) This section shall apply to the Authority and to any person who is a licensee.
 
 (9) If any doubt arises as to the existence of a public emergency or as to whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
-
-[8

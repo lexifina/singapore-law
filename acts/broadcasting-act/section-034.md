@@ -7,14 +7,16 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 (2) In sections 35 to 42, unless the context otherwise requires —
 
-‘‘arrangement’’ includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
+“arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
 
-‘‘share’’ includes stock except where a distinction between stock and shares is expressed or implied;
+“share” includes stock except where a distinction between stock and shares is expressed or implied;
 
-‘‘substantial shareholder’’ has the same meaning as in section 81 of the Companies Act;
+“substantial shareholder” has the same meaning as in section 81 of the Companies Act (Cap. 50);
 
-‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50).
-
-[45
+“voting share” has the same meaning as in section 4(1) of the Companies Act.
 
 [19/2002]
+
+Control of substantial shareholdings in broadcasting companies
+
+2

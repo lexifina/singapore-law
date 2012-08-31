@@ -3,13 +3,13 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 (1) The Minister may serve a written notice of objection on any person referred to in section 35 or 36 if the Minister is satisfied that —
 
-(a) any condition of approval imposed on the person under section 37 (2) has not been complied with;
+(a) any condition of approval imposed on the person under section 37(2) has not been complied with;
 
 (b) the person ceases to be a fit and proper person;
 
 (c) having regard to the person’s likely influence, the broadcasting company is no longer likely to conduct its business prudently or to comply with the provisions of this Act;
 
-(d) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 35 (3) or (4), or to continue to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be;
+(d) it is no longer in the national interest to allow the person to continue to be a party to the agreement or arrangement described in section 35(3) or (4), or to continue to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be;
 
 (e) the person has furnished false or misleading information or documents in connection with an application under section 35 or 36; or
 
@@ -27,14 +27,12 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 (4) The Minister shall, in any written notice of objection, specify a reasonable period within which the person to be served the written notice of objection shall —
 
-(a) take such steps as are necessary to ensure that he ceases to be a party to the agreement or arrangement described in section 35 (3) or (4), or ceases to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be; or
+(a) take such steps as are necessary to ensure that he ceases to be a party to the agreement or arrangement described in section 35(3) or (4), or ceases to be a substantial shareholder, a 12% controller or an indirect controller, as the case may be; or
 
 (b) comply with such direction or restriction as the Minister may make under section 40.
 
 [19/2002]
 
 (5) Any person served with a written notice of objection under this section shall comply with the notice.
-
-[45E
 
 [19/2002]

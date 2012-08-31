@@ -23,18 +23,16 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 [19/2002]
 
-(4) Where the Minister does not approve an application made by any person under section 35 (2) or (4) or 36 (2), the person shall, within such time as the Minister may specify, take such steps as are necessary —
+(4) Where the Minister does not approve an application made by any person under section 35(2) or (4) or 36(2), the person shall, within such time as the Minister may specify, take such steps as are necessary —
 
-(a) in the case of section 35 (2), to cease to be a substantial shareholder;
+(a) in the case of section 35(2), to cease to be a substantial shareholder;
 
-(b) in the case of section 35 (4), to cease to be a party to the agreement or arrangement; or
+(b) in the case of section 35(4), to cease to be a party to the agreement or arrangement; or
 
-(c) in the case of section 36 (2), to cease to be —
+(c) in the case of section 36(2), to cease to be —
 
 (i) a 12% controller; or
 
 (ii) an indirect controller, as the case may be.
-
-[45C
 
 [19/2002]

@@ -5,11 +5,11 @@ Part: PART IV BROADCASTING SERVICES
 
 (2) Before making any modification to the conditions of a broadcasting licence under this section, the Authority shall give notice to the broadcasting licensee —
 
-(a) stating that it proposes to make the modification in the manner specified in the notice and (except if the modification results from a contravention by the licensee of section 12 (1) (a) or any other default of the licensee) the compensation payable (if any) for any damage caused thereby; and
+(a) stating that it proposes to make the modification in the manner specified in the notice and (except if the modification results from a contravention by the licensee of section 12(1)(a) or any other default of the licensee) the compensation payable (if any) for any damage caused thereby; and
 
 (b) specifying the time (being not less than 28 days from the date of service of notice on the licensee) within which written representations with respect to the proposed modification may be made.
 
-(3) Upon receipt of any written representation referred to in subsection (2) (b), the Authority shall consider the representation and may —
+(3) Upon receipt of any written representation referred to in subsection (2)(b), the Authority shall consider the representation and may —
 
 (a) reject the representation; or
 
@@ -24,5 +24,3 @@ Part: PART IV BROADCASTING SERVICES
 (b) whilst the appeal of the broadcasting licensee is under consideration by the Minister.
 
 (6) If no written representation is received by the Authority within the time specified in subsection (2) or if any written representation made under that subsection is withdrawn, the Authority may immediately carry out the modification as specified in the notice given under that subsection.
-
-[22

@@ -29,6 +29,4 @@ Part: PART IV BROADCASTING SERVICES
 
 (h) conditions imposing controls and restrictions, directly or indirectly, on the creation, holding or disposal of shares in the licensee or its shareholders or interests in the undertaking of the licensee or any part thereof.
 
-[20
-
 [19/2002]

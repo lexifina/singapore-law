@@ -6,5 +6,3 @@ Part: PART XI OFFENCES AND PENALTIES
 (2) The Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
 (3) All sums collected under this section shall be paid to the Authority.
-
-[70

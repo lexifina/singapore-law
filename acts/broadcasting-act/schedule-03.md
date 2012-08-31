@@ -1,11 +1,15 @@
 # THIRD SCHEDULE
 
-Section 31 (6)
+Section 31(6)
 
-RELEVANT LICENSABLE BROADCASTING SERVICE
+RELEVANT LICENSABLE BROADCASTING SERVICE First column Second column
 
-First column Second column
+THIRD SCHEDULE — continued Licensable broadcasting service Provider
 
-Subscription nationwide television service Starhub Cable Vision Ltd.
+1. Subscription nationwide television (a) StarHub Cable Vision Ltd.
 
-[18/2001]
+service
+
+(b) SingNet Pte. Ltd.
+
+[S 559/2010]

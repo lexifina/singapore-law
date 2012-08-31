@@ -8,5 +8,3 @@ For the purposes of the conduct of any international broadcast and subject to th
 (b) operational, engineering or administrative purposes; or
 
 (c) any other purpose necessary for the proper fulfilment of its functions under this Act.
-
-[75

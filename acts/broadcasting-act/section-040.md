@@ -1,7 +1,7 @@
 # 40. Power to make directions
 Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
-(1) Without prejudice to section 41, if the Minister is satisfied that any person has contravened section 35, 36, 37 (4) or 39 (5) or any condition imposed under section 37 (2), or if the Minister has served a written notice of objection under section 39, the Minister may, by notice in writing —
+(1) Without prejudice to section 41, if the Minister is satisfied that any person has contravened section 35, 36, 37(4) or 39(5) or any condition imposed under section 37(2), or if the Minister has served a written notice of objection under section 39, the Minister may, by notice in writing —
 
 (a) direct the transfer or disposal of all or any of the shares in the broadcasting company held by the person or any of his associates (referred to in this section as the specified shares) within such time and subject to such conditions as the Minister considers appropriate;
 
@@ -15,7 +15,7 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 [19/2002]
 
-(3) In the case of any direction or restriction made under subsection (1) (a) or (b), notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association, or other constitution, of the broadcasting company —
+(3) In the case of any direction or restriction made under subsection (1)(a) or (b), notwithstanding any of the provisions of the Companies Act (Cap. 50) or anything contained in the memorandum or articles of association, or other constitution, of the broadcasting company —
 
 (a) no voting rights shall be exercisable in respect of the specified shares unless the Minister expressly permits such rights to be exercised;
 
@@ -25,8 +25,6 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 [19/2002]
 
-(4) In this section, ‘‘associate’’ has the same meaning as in section 36 (4) (c).
-
-[45F
+(4) In this section, “associate” has the same meaning as in section 36(4)(c).
 
 [19/2002]

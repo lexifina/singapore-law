@@ -14,5 +14,3 @@ Part: PART V BROADCASTING APPARATUS
 (3) Subsection (1) shall not be construed as requiring any person who works a broadcasting apparatus in the course of his duty as a member of the Singapore Armed Forces, the Singapore Police Force, the Vigilante Corps or the Singapore Civil Defence Force to obtain a licence under this Act.
 
 (4) The Authority may exempt any person or broadcasting apparatus or class of broadcasting apparatus from subsection (1).
-
-[32

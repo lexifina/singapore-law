@@ -15,6 +15,4 @@ In performing its functions under this Act, the Authority shall have regard to â
 
 (f) such other matters as the Authority or the Info- communications Development Authority of Singapore considers appropriate.
 
-[34
-
 [41/99]

@@ -21,28 +21,24 @@ Part: PART X OWNERSHIP AND CONTROL OF BROADCASTING COMPANIES
 
 (9) In this section and section 44 —
 
-‘‘foreign source’’ includes —
+“foreign source” includes —
 
 (a) the government of a country outside Singapore or the agent of any such government, whether resident in Singapore or otherwise;
 
-(b) any company, association or society incorporated or constituted under any law in force outside Singapore whether or not it has a branch office or place of business in Singapore;
+(b) any company, association or society incorporated or constituted under any law in force outside Singapore, whether or not it has a branch office or place of business in Singapore;
 
-(c) any person who is not a citizen of Singapore whether or not he is resident in Singapore;
+(c) any person who is not a citizen of Singapore, whether or not he is resident in Singapore;
 
 (d) any —
 
-(i) body corporate formed or incorporated in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore;
-
-or
+(i) body corporate formed or incorporated in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore; or
 
 (ii) unincorporated association or body constituted under any law in force in Singapore, one or more of whose members or directors are not citizens of Singapore, or in the case of a member being another company, where one or more of the members or directors of such company are not citizens of Singapore, as the Minister may, by notification in the Gazette, declare to be a foreign source; or
 
 (e) such other source outside Singapore as the Minister may, by notification in the Gazette, declare to be a foreign source;
 
-‘‘fund’’ means money, securities, movable or immovable property or other valuable consideration;
+“fund” means money, securities, movable or immovable property or other valuable consideration;
 
-‘‘fund from a foreign source’’ , with its grammatical variations, includes any fund provided by a foreign source indirectly through any agent of the foreign source.
-
-[46
+“fund from a foreign source”, with its grammatical variations, includes any fund provided by a foreign source indirectly through any agent of the foreign source.
 
 [19/2002]

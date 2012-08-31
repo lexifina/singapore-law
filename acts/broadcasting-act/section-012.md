@@ -17,8 +17,6 @@ Part: PART IV BROADCASTING SERVICES
 
 (2) Any person who is aggrieved by any decision of the Authority under this section may, within 14 days of the receipt by him of the notice referred to in subsection (1), appeal to the Minister whose decision shall be final.
 
-(3) In this section, ‘‘Code of Practice’’ includes a code of practice issued under the Media Development Authority of Singapore Act (Cap. 172).
-
-[24
+(3) In this section, “Code of Practice” includes a code of practice issued under the Media Development Authority of Singapore Act (Cap. 172).
 
 [34/2002]

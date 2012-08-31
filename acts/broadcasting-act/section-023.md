@@ -6,5 +6,3 @@ Part: PART VI FREQUENCY PLANNING
 [41/99]
 
 (2) The Authority may re-assign to any person the frequencies in the electromagnetic spectrum and satellite orbits assigned under subsection (1) in accordance with this Act.
-
-[35
