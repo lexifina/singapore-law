@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+AMUSEMENT RIDES SAFETY ACT
+(CHAPTER 6A)
+(Original Enactment: Act 6 of 2011)
+REVISED EDITION 2012
+(30th September 2012)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2012
+
+
+
+An Act to make provision relating to the safety of amusement rides and matters connected therewith.
+
+[1st July 2011]
