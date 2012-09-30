@@ -13,8 +13,8 @@ Part: PART VIII GENERAL
 
 (3) All fees and other moneys payable to the Board under this Act shall be paid immediately into a bank account approved by the Minister.
 
-(4) The Board may, from time to time, invest any moneys not immediately required by the Board in such trustees’ securities as the Board may determine.
+(4) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[2/2007]
 
 (5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
-
-[42

@@ -6,7 +6,7 @@ This Legislative History is provided for the convenience of users of the Land Su
 
 1. Act 24 of 1991 — Land Surveyors Act 1991
 
-Date of First Reading : 27 February 1991 (Bill No. 11/91 published on 28 February 1991)
+Date of First Reading : 26 February 1991 (Bill No. 11/1991 published on 28 February 1991)
 
 Date of Second and Third Readings : 28 June 1991
 
@@ -70,13 +70,13 @@ Date of First Reading : 23 May 2002 (Bill No. 16/2002 published on 24 May 2002)
 
 Date of Second and Third Readings : 8 July 2002
 
-Date of commencement : 15 August 2002 (sections 2 (a) and 36) 1 January 2003 (sections 37 to 41, 55 (b) and (c) and 61) 13 January 2003 (sections 2 (b), 3 to 35, 42 to 54, 55 (a), 56 to 60, 62, 63 and 64) 10. Act 30 of 2003 — Planning (Amendment) Act 2003 (Consequential amendments made to Act by)
+Dates of commencement : 15 August 2002 (sections 2(a) and 36) 1 January 2003 (sections 37 to 41, 55(b) and (c) and 61) 13 January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64) 10. Act 30 of 2003 — Planning (Amendment) Act 2003 (Consequential amendments made to Act by)
 
 Date of First Reading : 16 October 2003 (Bill No. 27/2003 published on 17 October 2003)
 
 Date of Second and Third Readings : 11 November 2003
 
-Date of commencement : 10 December 2003
+Dates of commencement : 24 December 1998 (section 6) 10 December 2003 (except section 12) 1 January 2008 (section 12)
 
 11. Act 37 of 2004 — Land Surveyors (Amendment) Act 2004
 
@@ -93,3 +93,33 @@ Date of First Reading : 18 April 2005 (Bill No. 11/2005 published on 19 April 20
 Date of Second and Third Readings : 16 May 2005
 
 Date of commencement : 30 January 2006
+
+13. 2006 Revised Edition — Land Surveyors Act (Chapter 156)
+
+Date of operation : 1 April 2006
+
+14. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
+
+Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
+
+Date of Second and Third Readings : 22 January 2007
+
+Date of commencement : 2 May 2007 (section 11 —
+
+Amendment of Land Surveyors Act) 15. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential amendments made to Act by)
+
+Date of First Reading : 21 July 2008 (Bill No. 11/2008 published on 22 July 2008)
+
+Date of Second and Third Readings : 16 September 2008
+
+Date of commencement : 1 March 2010
+
+16. Act 30 of 2008 — Statutes (Miscellaneous Amendments) (No. 2) Act 2008
+
+Date of First Reading : 15 September 2008 (Bill No. 27/2008 published on 16 September 2008)
+
+Date of Second and Third Readings : 17 November 2008
+
+Date of commencement : 17 December 2008 (section 8 —
+
+Amendment of Land Surveyors Act)

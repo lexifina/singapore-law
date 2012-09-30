@@ -13,7 +13,7 @@ Part: PART V PRACTISING CERTIFICATES
 
 (i) his full name;
 
-(ii) the name under which he practises if different from his own name, or the name of the corporation or partnership employing him; and
+(ii) the name under which he practises if different from his own name, or the name of the corporation, partnership or limited liability partnership employing him; and
 
 (iii) the principal and any other address or addresses at which he practises in Singapore;
 
@@ -25,7 +25,7 @@ Part: PART V PRACTISING CERTIFICATES
 
 (c) the prescribed fee, and the Board shall, subject to subsection (4), thereupon issue to the registered surveyor a practising certificate.
 
-[37/2004]
+[37/2004; 2/2007]
 
 (4) The Board may refuse to issue a practising certificate if —
 
@@ -35,7 +35,7 @@ Part: PART V PRACTISING CERTIFICATES
 
 (c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore;
 
-(d) the declaration under subsection (3) (a) contains a statement that to its knowledge is false in a material particular; or
+(d) the declaration under subsection (3)(a) contains a statement that to its knowledge is false in a material particular; or
 
 (e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity.
 
@@ -53,6 +53,6 @@ Part: PART V PRACTISING CERTIFICATES
 
 (8) Any change in such address shall be notified by the registered surveyor concerned to the Registrar within 2 weeks of such change and an endorsement of such change on the practising certificate shall be obtained from the Registrar.
 
-(9) Where the registration of a surveyor is cancelled under section 16, the practising certificate, if any, of that surveyor for the time being in force shall expire immediately and the date of such expiration shall be entered by the Registrar on the register of practitioners.
+(9) Where the registration of a surveyor is cancelled under section 25, the practising certificate, if any, of that surveyor for the time being in force shall expire immediately and the date of such expiration shall be entered by the Registrar in the register of practitioners.
 
 (10) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.

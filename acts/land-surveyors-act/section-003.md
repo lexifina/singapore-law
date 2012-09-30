@@ -7,6 +7,6 @@ Part: PART I PRELIMINARY
 
 [34/99]
 
-(3) In subsection (2), ‘‘public authority’’ means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
+(3) In subsection (2), “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
 
 [35/98]

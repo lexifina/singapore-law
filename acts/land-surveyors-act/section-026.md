@@ -7,7 +7,9 @@ Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (b) whose registration has been cancelled under section 25; or
 
-(c) who has not renewed his practising certificate for a continuous period of not less than 10 years.
+(c) who has no address in Singapore at which he can be contacted or sent any document using his particulars in the register.
+
+[2/2007]
 
 (2) Any registered surveyor may apply to the Board to have his name removed from the register of surveyors.
 
@@ -21,6 +23,4 @@ Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (a) disciplinary action is pending against the applicant; or
 
-(b) the conduct of the applicant is the subject of inquiry or investigation by an Investigation Committee.
-
-[31
+(b) the conduct of the applicant is the subject of an inquiry or investigation by an Investigation Committee.

@@ -19,15 +19,13 @@ Part: PART VIII GENERAL
 
 (g) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying survey services:
 
-(i) any partnership consisting wholly of registered surveyors;
+(i) any partnership consisting wholly of registered surveyors applying for a licence;
 
 (ii) any partnership or unlimited corporation applying for a licence;
 
 (iii) any registered surveyor applying for a practising certificate for the purpose of engaging in survey practice on his own account;
 
-(iv) any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i),
-
-(ii) and (iii);
+(iv) any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub‑paragraphs (i), (ii) and (iii);
 
 (v) any other registered surveyor applying for a practising certificate;
 
@@ -35,8 +33,6 @@ Part: PART VIII GENERAL
 
 (i) regulating the proceedings of an Investigation Committee.
 
-[35/98; 34/99; 17/2001; 37/2004]
+[35/98; 34/99; 17/2001; 37/2004; 2/2007]
 
 (3) All rules made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
-
-[47

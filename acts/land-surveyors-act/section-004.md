@@ -31,9 +31,9 @@ Part: PART II LAND SURVEYORS BOARD
 
 (c) he has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the surveying profession; or
 
-(d) he is of unsound mind or incapacitated by physical illness.
+(d) he is mentally disordered and incapable of managing himself or his affairs or incapacitated by physical illness.
 
-[37/2004]
+[37/2004; 21/2008]
 
 (5) The office of any appointed member of the Board shall become vacant if the member —
 
