@@ -1,0 +1,12 @@
+# 8. Duty to preserve medical records by persons in charge of hospital, medical clinic and place of custody
+Part: PART II REPORTING OF DEATHS AND PRESERVING OF RECORDS
+
+(1) Where a person dies —
+
+(a) while in any hospital or medical clinic for medical treatment or care; or
+
+(b) while he is in official custody, the person in charge of the hospital, medical clinic or place of custody, as the case may be, shall preserve all medical records, health-care records and any other document pertaining to the medical treatment or care of the deceased as are in the possession of the hospital, medical clinic or place of custody for such period as may be prescribed.
+
+(2) Any person who, without reasonable excuse, the burden of proving which shall be on the accused in a prosecution, fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[QLD CA, s. 22]
