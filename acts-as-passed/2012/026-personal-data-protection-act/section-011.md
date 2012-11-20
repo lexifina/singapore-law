@@ -1,0 +1,14 @@
+# 11. Compliance with Act
+Part: PART III GENERAL RULES WITH RESPECT TO PROTECTION OF PERSONAL DATA
+
+(1) In meeting its responsibilities under this Act, an organisation shall consider what a reasonable person would consider appropriate in the circumstances.
+
+(2) An organisation is responsible for personal data in its possession or under its control.
+
+(3) An organisation shall designate one or more individuals to be responsible for ensuring that the organisation complies with this Act.
+
+(4) An individual designated under subsection (3) may delegate to another individual the responsibility conferred by that designation.
+
+(5) An organisation shall make available to the public the business contact information of at least one of the individuals designated under subsection (3) or delegated under subsection (4).
+
+(6) The designation of an individual by an organisation under subsection (3) shall not relieve the organisation of any of its obligations under this Act.
