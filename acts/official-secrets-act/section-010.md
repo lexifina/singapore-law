@@ -1,0 +1,5 @@
+# 10. Duty of giving information as to commission of offences
+
+It shall be the duty of every person to give on demand to any police officer not below the rank of sergeant, or to any officer of the armed forces on duty, or to any member of the armed forces engaged on guard, sentry, patrol or other similar duty, any information in his power relating to an offence or suspected offence under this Act, and, if so required, and upon tender of his reasonable expenses, to attend at such reasonable time and place as may be specified for the purpose of furnishing the information, and, if any person fails to give any such information or to attend as aforesaid, he shall be guilty of an offence.
+
+[21/73]

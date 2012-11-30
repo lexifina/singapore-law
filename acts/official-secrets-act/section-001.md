@@ -1,0 +1,5 @@
+# 1. Short title
+
+This Act may be cited as the Official Secrets Act.
+
+1

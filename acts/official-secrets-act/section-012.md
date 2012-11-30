@@ -1,0 +1,3 @@
+# 12. Attempts, incitements, etc.
+
+Any person who attempts to commit any offence under this Act, or solicits or incites or endeavours to persuade, or conspires with another person to commit an offence, or aids or abets or does any act preparatory to the commission of an offence under this Act, shall be guilty of an offence and shall be liable on conviction to the same punishment, and to be proceeded against in the same manner, as if he had committed the offence.

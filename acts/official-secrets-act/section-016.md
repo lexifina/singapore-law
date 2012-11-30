@@ -1,0 +1,7 @@
+# 16. Trial of offences
+
+(1) For the purposes of the trial of a person for an offence under this Act, the offence shall be deemed to have been committed either at the place in which the same actually was committed, or at any place in Singapore in which the offender may be found.
+
+(2) In addition and without prejudice to any powers which a court may possess to order the exclusion of the public from any proceedings, if, in the course of proceedings before a court against any person for an offence under this Act or the proceedings on appeal, or in the course of the trial of a person for an offence under this Act, application is made by the prosecution, on the ground that the publication of any evidence to be given or of any statement to be made in the course of the proceedings would be prejudicial to the safety of Singapore, that all or any portion of the public shall be excluded during any part of the hearing, the court may make an order to that effect, but the passing of sentence shall in any case take place in public.
+
+(3) Where the person guilty of an offence under this Act is a company or corporation or a member or an employee of a partnership or firm, acting in the course of the business of the partnership or firm, every director and officer of the company or corporation or every member of the partnership or firm (as the case may be) shall be guilty of the like offence unless he proves that the act or omission constituting the offence took place without his knowledge or consent.
