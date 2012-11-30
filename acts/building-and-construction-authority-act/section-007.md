@@ -1,7 +1,9 @@
 # 7. Meetings and proceedings of Authority
 Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-(1) At all meetings of the Authority, 4 members shall form a quorum.
+(1) The quorum at every meeting of the Authority shall be one- third of the total number of members or 3 members, whichever is the higher.
+
+[25/2009]
 
 (2) The Chairman or, in his absence, the Deputy Chairman shall preside at all meetings of the Authority and, in their absence, the members present shall elect one of their number to preside.
 

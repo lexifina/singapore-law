@@ -3,7 +3,7 @@ Part: PART V FINANCIAL PROVISIONS
 
 (1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
 (3) The auditor or any person authorised by him is entitled, at all reasonable times, to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority.
 

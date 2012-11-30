@@ -9,9 +9,11 @@ The Authority shall have power to do anything for the purpose of discharging its
 
 (c) own, lease, manage, let or sell lands, buildings and other property as the Authority may consider necessary for the discharge of its duties and functions;
 
-(d) collect, analyse, compile, publish and disseminate informa- tion of a statistical nature relating to the construction industry and on all matters relating to building control, maintenance and management of buildings or such other subject matters as may be necessary for the performance of the functions of the Authority;
+(d) collect, analyse, compile, publish and disseminate information of a statistical nature relating to the construction industry and on all matters relating to building control, maintenance and management of buildings or such other subject matters as may be necessary for the performance of the functions of the Authority;
 
 (e) prescribe training requirements for the construction industry, provide training, conduct tests and award diplomas and certificates of proficiency;
+
+(ea) register construction tradesmen, construction foremen and construction supervisors of suitable qualifications and experience with a view to raising standards of performance in construction services in Singapore;
 
 (f) collaborate with other companies or institutions to organise seminars, workshops, conferences, courses or other training programmes and share profits;
 
@@ -36,3 +38,5 @@ The Authority shall have power to do anything for the purpose of discharging its
 (p) grant loans to officers or employees of the Authority for any purpose specifically approved by the Authority as are likely to increase the efficiency of officers or employees; and
 
 (q) do anything incidental to any of its powers.
+
+[47/2007]

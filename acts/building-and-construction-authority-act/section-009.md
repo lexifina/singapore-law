@@ -29,4 +29,8 @@ Part: PART III FUNCTIONS AND POWERS OF AUTHORITY
 
 (m) to carry out such other functions as are imposed upon the Authority by or under this Act or any other written law.
 
+(1A) In addition to the functions and duties imposed by subsection (1), the Authority may undertake such other functions and duties as the Minister may in writing assign to the Authority and, in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions and duties.
+
+[12/2009]
+
 (2) The Minister may, after consultation with the Authority or otherwise, give such directions, not inconsistent with the provisions of this Act, as to the performance of its functions and the exercise of its powers and the Authority shall give effect to any such directions.
