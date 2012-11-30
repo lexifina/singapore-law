@@ -4,8 +4,6 @@
 
 (a) shall, at the meeting and as soon as practicable after it commences, disclose the fact; and
 
-(b) shall not thereafter be present during the consideration or discussion of, and shall not vote, on any question with respect to, that contract or other matter.
+(b) shall not thereafter be present during the consideration or discussion of, and shall not vote, on any question with respect to, that contract, proposed contract or other matter.
 
-(2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 9 (b) when the member is present at a meeting of any committee.
-
-[8
+(2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 9(b) when the member is present at a meeting of any committee.

@@ -12,6 +12,4 @@ The objects of the Association are —
 
 (e) the carrying out of such activities as appear to the Board to be advantageous towards, or necessary or convenient for, the furtherance of the objects of the Association as set out in paragraphs (a) to (d).
 
-[9 (1)
-
 [39/96]

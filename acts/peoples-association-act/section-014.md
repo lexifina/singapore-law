@@ -16,9 +16,9 @@
 
 (3) The Board shall, as soon as practicable after the close of each financial year, prepare and submit to the auditor of the Association, financial statements in respect of that financial year.
 
-(4) The accounts of the Association shall be audited by the Auditor-General or by an auditor appointed annually by the Board in consultation with the Auditor-General.
+(4) The accounts of the Association shall be audited by the Auditor- General or by an auditor appointed annually by the Board in consultation with the Auditor-General.
 
-(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
 (6) The remuneration of the auditor of the Association shall be paid out of the funds of the Association.
 
@@ -30,7 +30,7 @@
 
 (b) whether proper accounting and other records have been kept, including records of all assets of the Association whether purchased, donated or otherwise;
 
-(c) whether the receipts, expenditure and investment of moneys, and the acquisition and disposal of assets by the Association during the financial year were in accordance with the provisions of this Act; and
+(c) whether the receipt, expenditure and investment of moneys, and the acquisition and disposal of assets by the Association during the financial year were in accordance with the provisions of this Act; and
 
 (d) such other matters arising from the audit as he considers should be reported.
 
@@ -43,5 +43,3 @@
 (12) As soon as the accounts of the Association and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Secretary-Treasurer of the Board, together with a copy of the auditor’s report, shall be submitted to the Deputy Chairman.
 
 (13) Where the Auditor-General is not the auditor of the Association, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Deputy Chairman.
-
-[13

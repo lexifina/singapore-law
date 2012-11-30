@@ -26,14 +26,8 @@ and
 
 (8) The quorum at all meetings of the Association shall be one-third of the total number of members of the Association, and no business shall be transacted unless a quorum is present.
 
+(8A) The quorum at every meeting of the Board shall be 5 members of the Board, and no business shall be transacted unless a quorum is present.
+
+[25/2009]
+
 (9) All questions coming before or arising at any meeting of the Association or of the Board shall be decided by a majority of the members present and voting thereon at that meeting of the Association or of the Board, and in the case of an equality of votes, the person presiding at the meeting shall have a second or casting vote.
-
-(10) If a vacancy occurs in the membership of the Association under section 4 (1) (b), (c) or (d), by reason of death, resignation, revocation of an appointment under section 4 (2) or for any other cause, the Chairman shall —
-
-(a) in the case of a vacancy under section 4 (1) (b) or (c), appoint a person to fill the vacancy; and
-
-(b) in the case of a vacancy under section 4 (1) (d), in consultation with the organisation concerned, appoint a person to fill the vacancy.
-
-(11) Any person appointed under subsection (10) (a) or (b) shall hold office for so long as the member in whose place he is appointed would have held office.
-
-[7

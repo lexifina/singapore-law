@@ -20,10 +20,8 @@ In order to achieve the objects set out in section 8, the Board may —
 
 (i) award certificates of proficiency to persons who attend any of the courses or activities organised by the Association, after tests approved by the Association;
 
-(j) authorise the governing body of any institution established under section 8 (b) to carry out such activities as are not inconsistent with the objects of the Association as set out in section 8 and as are in accordance with the constitution of the institution; and
+(j) authorise the governing body of any institution established under section 8(b) to carry out such activities as are not inconsistent with the objects of the Association as set out in section 8 and as are in accordance with the constitution of the institution; and
 
 (k) generally do all such other acts as may be necessary to achieve the objects of the Association.
-
-[9 (2)
 
 [5/93]
