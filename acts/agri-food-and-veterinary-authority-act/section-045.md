@@ -9,7 +9,7 @@ Part: PART VII MISCELLANEOUS
 
 (i) the certificates may be granted, suspended or cancelled; or
 
-(ii) the accreditation, certification and inspection marks may be affixed, used or removed, and the fees payable in respect thereof; and
+(ii) the accreditation, certification and inspection marks may be affixed, used or removed, and the fees payable in respect thereof;
 
 (c) prescribing any matters which are necessary or convenient to be prescribed for carrying out or giving effect to the provisions of this Act.
 

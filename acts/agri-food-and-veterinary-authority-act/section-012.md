@@ -3,15 +3,15 @@ Part: PART III FUNCTIONS AND POWERS OF AUTHORITY
 
 The Authority shall have power to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions and, in particular, may —
 
-(a) prescribe, regulate or implement measures and standards on any matter related to or connected with the agri-food and veterinary sectors;
+(a) prescribe, regulate or implement measures and standards on any matter related to or connected with the agri-food and veterinary sectors, and liaise or collaborate with any organisation for the purpose of determining the standards to be prescribed;
 
-(b) implement an integrated food safety system that regulates the safety of primary foods supply in Singapore;
+(b) implement an integrated food safety system that regulates the safety of food supply in Singapore;
 
-(c) regulate the importation of products related to or connected with the agri-food and veterinary sectors;
+(c) regulate the importation, production, processing, storage and distribution of food and products related to or connected with the agri-food and veterinary sectors;
 
 (d) control and manage pests and diseases of animals, birds, plants, fish, reptiles, amphibians, molluscs, crustaceans, or any form of aquatic life, including their young and eggs;
 
-(e) inspect, test and certify any primary foods, veterinary biologics, animals, birds, plants, fish, reptiles, amphibians, molluscs, crustaceans, or any form of aquatic life, including their young and eggs, or premises or products related to or connected with the agri-food and veterinary sectors;
+(e) inspect, test and certify any food, veterinary biologics, animals, birds, plants, fish, reptiles, amphibians, molluscs, crustaceans, or any form of aquatic life, including their young and eggs, or premises or products related to or connected with the agri-food and veterinary sectors;
 
 (f) regulate, accredit or certify any person, company, corporation or organisation to carry out any activity or service related to or connected with the agri-food and veterinary sectors;
 
@@ -38,3 +38,5 @@ The Authority shall have power to do anything for the purpose of discharging its
 (q) specify, by notification in the Gazette, all the accreditation, certification or inspection marks of the Authority for use in relation to any function of the Authority, and control the use of such marks; and
 
 (r) do anything incidental to any of its functions or powers.
+
+[8/2002]

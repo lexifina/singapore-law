@@ -7,7 +7,7 @@ Part: PART IV PROVISIONS RELATING TO STAFF
 
 (a) be known by such designation as the Authority may determine;
 
-(b) be responsible to the Authority for the proper adminis- tration and management of its functions and affairs in accordance with all policies laid down by the Authority; and
+(b) be responsible to the Authority for the proper administration and management of its functions and affairs in accordance with all policies laid down by the Authority; and
 
 (c) not be removed from office without the consent of the Minister.
 

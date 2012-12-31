@@ -2,3 +2,7 @@
 Part: PART VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Government, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
+
+Transfer to Authority of property, employees, existing contracts, etc.
+
+1

@@ -7,6 +7,6 @@ Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (3) The Minister may at any time revoke the appointment of any member without assigning any reason.
 
-(4) If a member dies or resigns or has his appointment terminated, the Minister may appoint any person to fill the vacancy for the residue of the term for which the vacating member was appointed.
+(4) If a member dies or resigns or has his appointment revoked, the Minister may appoint any person to fill the vacancy for the residue of the term for which the vacating member was appointed.
 
 (5) The Authority shall pay to the Chairman, the Deputy Chairman and other members such salaries, fees and allowances as the Minister may, from time to time, determine.

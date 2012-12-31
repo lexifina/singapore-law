@@ -1,8 +1,6 @@
-# 25. Investment
+# 25. Power of investment
 Part: PART V FINANCIAL PROVISIONS
 
-Moneys belonging to the Authority may, from time to time, with the approval of the Minister, be invested in —
+The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) the shares of any private or public company; or
-
-(b) any of the securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+[45/2004]
