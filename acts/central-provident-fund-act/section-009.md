@@ -7,7 +7,7 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 shall be calculated at the rate of 1 ⁄2% per month or the sum of $5, whichever is the greater.
 
-(2) Where the amount of the contributions a person is liable to pay under any regulations made under section 77 (1) (e) is not paid within the time prescribed for payment, that person shall be liable to pay interest on that amount for every day the amount remains unpaid at such rate and commencing from such date as may be prescribed.
+(2) Where the amount of the contributions a person is liable to pay under any regulations made under section 77(1)(e) is not paid within the time prescribed for payment, that person shall be liable to pay interest on that amount for every day the amount remains unpaid at such rate and commencing from such date as may be prescribed.
 
 [27/92]
 

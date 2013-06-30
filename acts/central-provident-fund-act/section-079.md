@@ -3,7 +3,7 @@ Part: PART VIII MISCELLANEOUS
 
 (1) The Minister may, after consulting with the Board, enter into a reciprocal agreement with the government of any other territory in which a fund similar to the Fund has been established and the agreement may provide, amongst other matters, that —
 
-(a) any period of employment by an employer in the territory of that government shall be treated as a period of employment in Singapore by that employer for the purpose of the definition of ‘‘employee’’ in section 2;
+(a) any period of employment by an employer in the territory of that government shall be treated as a period of employment in Singapore by that employer for the purpose of the definition of “employee” in section 2;
 
 (b) subject to such conditions as may be laid down in the reciprocal agreement, any amount standing to the credit of any member of the Fund who is employed by any employer in the territory of that government may be transferred to his credit in the fund; and
 
@@ -19,184 +19,282 @@ Part: PART VIII MISCELLANEOUS
 
 (3) Any reciprocal agreement made under subsection (1) shall be published in the Gazette and shall come into operation on the date of the publication or on such later date as may be provided in the agreement.
 
-Sections 7, 8, 70, 75 and 77
+FIRST SCHEDULE — continued
 
-RATES OF CONTRIBUTION
+1E. Subject to paragraphs 1F to 7, where a foreign employee becomes a permanent resident after 1st March 2009 but before 1st March 2011, or where a person becomes a permanent resident after 1st March 2009 but before 1st March 2011 and subsequently becomes an employee, the contributions payable in respect of that employee during the period beginning on 1st March 2011 and ending on the last day of the second anniversary month, shall be in accordance with the rates of contributions set out in paragraphs 1A and 1B.
 
-1. Subject to paragraphs 2 to 7, with effect from 1st January 2001 the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1F. Subject to paragraphs 1H to 7, where the employer and the employee who is a permanent resident have agreed on or after 1st March 2011 —
 
-Above 55 but not more than 60 Years of Above 60 but not more than 65 Years of 55 Years of Age and below Age Age Above 65 Years of Age Total amount of the Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable employee’s wages payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s for the calendar employer for the wages for the employer for the wages for the employer for the wages for the employer for the wages for the month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month.
+(a) in a case where the contributions payable in respect of that employee would (but for this paragraph) have been in accordance with paragraph 1A, that those contributions shall be in accordance with the rates set out in paragraph 1 or 1C instead; or
 
-(1) (2) (3) (4) (5) (6) (7) (8) (9) Not exceeding $50 NIL NIL NIL NIL NIL NIL NIL NIL Exceeding $50 but An amount equal NIL An amount equal NIL An amount equal NIL An amount equal NIL not exceeding $200 to 16% of the total to 6% of the total to 3.5% of the total to 3.5% of the total amount of the amount of the amount of the amount of the employee’s wages employee’s wages employee’s wages employee’s wages for the month. for the month. for the month. for the month.
+(b) in a case where the contributions payable in respect of that employee would (but for this paragraph) have been in accordance with paragraph 1B, that those contributions shall be in accordance with the rates set out in paragraph 1 or 1D instead,
 
-Exceeding $200 but An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal not exceeding $363 to the sum of — to the sum of — to the sum of — to the sum of 1⁄4 of to the sum of — to the sum of 1⁄6 of to the sum of — to the sum of 1⁄9 of the difference the difference the difference
+and have, in the manner determined by the Board, informed the Board of such agreement, then the agreed rates of contribution shall apply in respect of that employee until —
 
-(a) 21% of the (a) 5% of the total (a) 6% of the total (a) 3.5% of the (a) 3.5% of the between the total between the total between the total total amount of amount of the amount of the total amount of total amount of amount of the amount of the amount of the the employee’s employee’s employee’s the employee’s the employee’s employee’s wages employee’s wages employee’s wages wages for the wages for the wages for the wages for the wages for the for the month and for the month and for the month and month; and month; and month; and month; and month; and
+(i) the employee leaves the employment of the employer; or
 
-$200. $200. $200.
+(ii) the agreement expires or is lawfully terminated,
 
-(b) 1⁄3 of the (b) 1⁄3 of the (b) 1⁄4 of the (b) 1⁄6 of the (b) 1⁄9 of the difference difference difference difference difference between the between the between the between the between the total amount of total amount of total amount of total amount of total amount of the employee’s the employee’s the employee’s the employee’s the employee’s wages for the wages for the wages for the wages for the wages for the month and month and month and month and month and $200. $200. $200. $200. $200.
+whichever is the earlier.
 
-Above 55 but not more than 60 Years of Above 60 but not more than 65 Years of 55 Years of Age and below Age Age Above 65 Years of Age Total amount of the Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable Contributions Amount recoverable employee’s wages payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s payable by the from the employee’s for the calendar employer for the wages for the employer for the wages for the employer for the wages for the employer for the wages for the month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month. calendar month.
+1G. Notwithstanding anything in this Schedule, where any agreement —
 
-(1) (2) (3) (4) (5) (6) (7) (8) (9) Exceeding $363 An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal An amount equal to the sum of — to the sum of — to the sum of — to the sum of — to the sum of — to the sum of — to the sum of — to the sum of —
+(a) was entered into on or after 1st October 2002 between an employer and an employee who is a permanent resident under regulation 5 of the revoked Central Provident Fund (Permanent Residents — Employees) Regulations (Rg 21, 2010 Ed.) in relation to the contributions payable in respect of that employee; and
 
-(a) 36% of the (a) 20% of the (a) 18.5% of the (a) 12.5% of the (a) 11% of the (a) 7.5% of the (a) 8.5% of the (a) 5% of the employee’s employee’s employee’s employee’s employee’s employee’s employee’s employee’s ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages ordinary wages for the month for the month for the month for the month for the month for the month for the month for the month subject to a subject to a subject to a subject to a subject to a subject to a subject to a subject to a maximum of maximum of maximum of maximum of maximum of maximum of maximum of maximum of $2,160; and $1,200; and $1,110; and $750; and $660; and $450; and $510; and $300; and
+(b) was in force immediately before 1st March 2011,
 
-(b) 36% of the (b) 20% of the (b) 18.5% of the (b) 12.5% of the (b) 11% of the (b) 7.5% of the (b) 8.5% of the (b) 5% of the amount of the amount of the amount of the amount of the amount of the amount of the amount of the amount of the additional additional additional additional additional additional additional additional wages payable wages payable wages payable wages payable wages payable wages payable wages payable wages payable to the to the to the to the to the to the to the to the employee in employee in employee in employee in employee in employee in employee in employee in the month. the month. the month. the month. the month. the month. the month. the month.
+then —
 
-[S 612/2000]
+(i) if the agreement is for those contributions to be in accordance with the rates set out in the First Schedule to the Act, the rates in this Schedule shall apply in relation to that employee; or
 
-2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
+(ii) if the agreement is for those contributions to be in accordance with the rates set out in paragraphs 3 and 4 of the Schedule to those Regulations, the rates set out in paragraphs 1C and 1D of this Schedule shall apply in relation to that employee,
 
-(a) if his ordinary wages for the preceding year do not exceed $72,000 — $100,000 less his ordinary wages for the preceding year and less his additional wages already paid in the current year; or
-
-(b) if his ordinary wages for the preceding year exceed $72,000 — 40% of his ordinary wages for the preceding year, less his additional wages already paid in the current year.
+until the employee leaves the employment of the employer or the agreement expires or is lawfully terminated, whichever is the earlier.
 
 FIRST SCHEDULE — continued
 
-3.—(1) Where the total wages of an employee from an employer for any year do not exceed $100,000 and the amount of contributions on his additional wages in that year had been subject to the limit in paragraph 2, such amount shall, at the end of that year or in the last month of his employment with that employer, be recomputed as if paragraph 2 does not apply.
+1H. Notwithstanding anything in this Schedule, where any agreement —
 
-(2) Where the total wages of an employee from an employer for any year exceed $100,000, such amount shall, at the end of that year or in the last month of his employment with that employer, be recomputed subject to the limit in paragraph 2 as if the reference to ‘‘preceding year’’ in that paragraph is a reference to ‘‘current year’’.
+(a) was entered into before 1st October 2002 between an employer and an employee who is a permanent resident under regulation 3(2)(b) of the revoked Central Provident Fund (Permanent Residents — Employees) Regulations (Rg 21, 1998 Ed.) in relation to the contributions payable in respect of that employee; and
 
-4.—(1) Where the contributions computed in accordance with paragraph 3 exceed the contributions already paid on additional wages, the employer shall contribute the difference to the Fund at the end of the year or in the last month of the employee’s employment with him.
+(b) was in force immediately before 1st March 2011, then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-(2) Where the employer is required to make additional contributions under sub-paragraph (1), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the difference between the amount of additional wages on which contributions are payable under sub-paragraph (1) and the amount of additional wages on which contributions have already been paid.
+2. No contributions shall be payable by an employer on the additional wages in a year which are in excess of the applicable amount less the amount of ordinary wages for that year.
+
+3. Where the additional wages of an employee, other than an employee referred to in paragraph 7, are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows:
+
+the applicable amount less —
+
+(a) the ordinary wages of the employee for the preceding year; and
+
+(b) the additional wages of the employee already paid for the current year.
+
+3A. Where the additional wages of an employee referred to in paragraph 7 are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of the amount computed in the manner prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011 (G.N. No. S 106/2011).
+
+4.—(1) Where the contributions on additional wages for any year have been paid at any time before the relevant time and before the amount of ordinary wages for that year is computed, the amount of contributions payable on the additional wages for that year shall be recomputed at the relevant time, subject to the limit in paragraph 2.
+
+(2) Where the contributions on additional wages recomputed under sub-paragraph (1) exceed the contributions already paid on additional wages for that year, the employer shall contribute the difference to the Fund at the relevant time, subject to the limit in paragraph 2.
+
+(3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
+
+FIRST SCHEDULE — continued
+
+4A. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
+
+(a) for the year beginning 1st January 2011, the amount of ordinary wages for any month which is in excess of —
+
+(i) $4,500 for the months of January to August; and
+
+(ii) $5,000 for the months of September to December, shall be disregarded; and
+
+(b) for the year beginning 1st January 2012 and every subsequent year, the amount of ordinary wages for any month which is in excess of $5,000 shall be disregarded.
 
 5. For the purpose of this Schedule —
 
-(a) a person shall be deemed to have attained 55, 60 or 65 years of age on the fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
+(a) a person shall be deemed to have attained 35, 50, 55, 60 or 65 years of age on the thirty-fifth, fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 35, 50, 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
 
 (b) the contribution payable by the employer shall be rounded off to the nearest dollar except where the fraction of a dollar is 50 cents, it shall be regarded as a dollar;
 
 (c) in calculating the amount recoverable by the employer from the employee’s wages, fraction of a dollar shall be ignored;
 
-(d) ‘‘additional wages’’ means any remuneration other than ordinary wages;
+(d) “additional wages” means any remuneration other than ordinary wages;
 
-(e) ‘‘ordinary wages for the month’’ means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
+(da) “applicable amount” —
 
-(f) ‘‘total amount of employee’s wages for the calendar month’’ means the total amount of the employee’s ordinary wages for the month and additional wages payable to him in that month;
+(i) in respect of the year beginning 1st January 2011, means the sum of $79,333; and
 
-FIRST SCHEDULE — continued
+(ii) in respect of the year beginning 1st January 2012 and every subsequent year, means the sum of $85,000;
 
-(g) ‘‘total wages for the year’’ means the total of the employee’s ordinary wages for the year and additional wages payable to him in that year;
+(db) “first anniversary month”, in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
 
-(h) ‘‘year’’ means the period beginning on 1st January and ending on 31st December.
+(dc) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
 
-6. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following bodies:
+(dd) “Relevant Additional Wages”, in relation to an employee, means the amount of any additional wages payable to the employee in a calendar month;
 
-(1) Any Government-aided school.
-
-(2) Board of Commissioners of Currency, Singapore.
-
-(3) Central Provident Fund Board.
-
-(4) Civil Aviation Authority of Singapore.
-
-(5) Civil Service College.
-
-(6) Commercial and Industrial Security Corporation.
-
-(7) Building and Construction Authority.
-
-(8) Defence Science and Technology Agency.
-
-(9) Economic Development Board.
-
-(10) Energy Market Authority of Singapore.
-
-(11) Health Promotion Board.
-
-(12) Health Sciences Authority.
-
-(13) Housing and Development Board.
-
-(14) Info-communications Development Authority of Singapore.
-
-(15) Inland Revenue Authority of Singapore.
-
-(16) Institute of Southeast Asian Studies.
-
-(17) Institute of Technical Education, Singapore.
-
-(18) Intellectual Property Office of Singapore.
-
-(19) Jurong Town Corporation.
-
-(20) Majlis Ugama Islam, Singapura.
-
-(21) Maritime and Port Authority of Singapore.
-
-(22) Land Transport Authority of Singapore.
-
-(23) Monetary Authority of Singapore.
-
-(24) Nanyang Polytechnic.
-
-(25) Nanyang Technological University.
-
-(26) National Arts Council.
-
-(27) National Heritage Board.
+(e) “ordinary wages for the month” means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
 
 FIRST SCHEDULE — continued
 
-(28) National Library Board.
+(ea) “relevant time” means the end of the current year or the last month of the employee’s employment with that employer, as the case may be;
 
-(29) National Parks Board.
+(eb) “permanent resident” means a person who holds a valid entry permit or re-entry permit issued by the Controller of Immigration under the Immigration Act (Cap. 133);
 
-(30) National Science and Technology Board.
+(ec) “second anniversary month”, in relation to an employee who becomes a permanent resident, means the calendar month in which the second anniversary of the day the employee becomes a permanent resident falls;
 
-(31) National University of Singapore.
+(f) “Total Wages”, in relation to an employee, means the total amount of the employee’s ordinary wages for a calendar month and any additional wages payable to him in that same month;
 
-(32) Ngee Ann Polytechnic.
+(g) [Deleted by S 657/2003]
 
-(33) People’s Association.
+(h) “year” means the period beginning on 1st January and ending on 31st December.
 
-(34) Preservation of Monuments Board.
+6. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following:
 
-(35) Public Utilities Board.
+(1) The managers of any aided school other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations (Cap. 87, Rg 3).
 
-(36) Science Centre Board.
+(2) Accounting and Corporate Regulatory Authority.
 
-(37) Sentosa Development Corporation.
+(3) Agency for Science, Technology and Research (A*Star).
 
-(38) Singapore Broadcasting Authority.
+(4) Agri-Food and Veterinary Authority of Singapore.
 
-(39) Singapore Corporation of Rehabilitative Enterprises.
+(5) Board of Architects.
 
-(40) Singapore Land Authority.
+(6) Building and Construction Authority.
 
-(41) Singapore Productivity and Standards Board.
+(6A) Casino Regulatory Authority of Singapore.
 
-(42) Singapore Polytechnic.
+(7) Central Provident Fund Board.
 
-(43) Singapore Sports Council.
+(8) Civil Aviation Authority of Singapore.
 
-(44) Singapore Totalisator Board.
+(9) Civil Service College.
 
-(45) Singapore Tourism Board.
+(10) Competition Commission of Singapore.
 
-(46) Temasek Polytechnic.
+(11) Council for Private Education.
 
-(47) Trade Development Board.
+(11A) Council for Estate Agencies.
 
-(48) Urban Redevelopment Authority.
+(12) Defence Science and Technology Agency.
 
-[29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; S 273/94;
+(13) Economic Development Board.
 
-S 570/95; S 645/98; S 167/2001; S 313/2001; S 550/2001]
+(14) Energy Market Authority of Singapore.
+
+FIRST SCHEDULE — continued
+
+(15) Health Promotion Board.
+
+(16) Health Sciences Authority.
+
+(17) Hindu Advisory Board.
+
+(18) Hindu Endowments Board.
+
+(19) Hotels Licensing Board.
+
+(20) Housing and Development Board.
+
+(21) Info-communications Development Authority of Singapore.
+
+(22) Inland Revenue Authority of Singapore.
+
+(23) Institute of Southeast Asian Studies.
+
+(24) Institute of Technical Education, Singapore.
+
+(25) Intellectual Property Office of Singapore.
+
+(26) International Enterprise Singapore Board.
+
+(27) Jurong Town Corporation.
+
+(28) Land Transport Authority of Singapore.
+
+(29) Majlis Ugama Islam, Singapura.
+
+(30) Maritime and Port Authority of Singapore.
+
+(31) Media Development Authority of Singapore.
+
+(32) Monetary Authority of Singapore.
+
+(33) Nanyang Polytechnic.
+
+(34) [Deleted by S 193/2006]
+
+(35) National Arts Council.
+
+(36) National Council of Social Service.
+
+(37) National Environment Agency.
+
+(38) National Heritage Board.
+
+(39) National Institute of Education.
+
+(40) National Library Board.
+
+(41) National Parks Board.
+
+(42) [Deleted by S 193/2006]
+
+(43) Ngee Ann Polytechnic.
+
+(44) People’s Association.
+
+(45) [Deleted by Act 16 of 2009]
+
+FIRST SCHEDULE — continued
+
+(46) Professional Engineers Board.
+
+(47) Public Transport Council.
+
+(48) Public Utilities Board.
+
+(49) Republic Polytechnic.
+
+(50) Science Centre Board.
+
+(51) Sentosa Development Corporation.
+
+(52) Sikh Advisory Board.
+
+(52A) Singapore Accountancy Commission.
+
+(53) Singapore Corporation of Rehabilitative Enterprises.
+
+(54) Singapore Dental Council.
+
+(55) Singapore Examinations and Assessment Board.
+
+(56) Singapore Labour Foundation.
+
+(57) Singapore Land Authority.
+
+(58) Singapore Medical Council.
+
+(59) Singapore Nursing Board.
+
+(60) Singapore Pharmacy Board.
+
+(61) Singapore Polytechnic.
+
+(62) Singapore Sports Council.
+
+(63) Singapore Totalisator Board.
+
+(64) Singapore Tourism Board.
+
+(65) Singapore Workforce Development Agency.
+
+(66) Specialist Accreditation Board.
+
+(67) Standards, Productivity and Innovation Board (Spring Singapore).
+
+(68) Temasek Polytechnic.
+
+(69) Traditional Chinese Medicine Practitioners Board.
+
+(70) Urban Redevelopment Authority.
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
-(a) pensionable employees at the rates prescribed for pensionable employees of the Government;
+(a) employees of the Government;
 
-(b) non-pensionable employees at the rates prescribed for non-pensionable employees of the Government;
+(b) employees of a statutory body; and
 
-(c) pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the First Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23); and
+(c) persons employed in an aided school by the managers of the school, other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations, FIRST SCHEDULE — continued
 
-FIRST SCHEDULE — continued
+at the rates prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011.
 
-(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23).
+[29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; 25/2002; 3/2004; 3/2005; 36/2007;
 
-[S 645/98]
+16/2009; 25/2010; S 273/94; S 570/95; S 645/98; S 156/2000; S 612/2000; S 167/2001;
+
+S 313/2001; S 550/2001; S 524/2002; S 468/2003; S 657/2003; S 801/2004;
+
+S 830/2005; S 193/2006; S 324/2007; S 415/2008; S 581/2009; S 486/2010;
+
+S 107/2011; S 508/2011; S 441/2012; S 315/2013]

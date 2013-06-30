@@ -7,6 +7,8 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 (a) the amount of every contribution paid to the Fund for him;
 
-and
+(b) the interest payable to him under section 6(4); and
 
-(b) interest at the rate declared under section 6 (4) at such intervals as the Board may prescribe and on the amount standing to his credit in the Fund at such time as the Board may determine.
+(c) any additional interest payable to him under section 6(4B).
+
+[57/2007]

@@ -1,62 +1,78 @@
-# 70. Approved employees’ schemes
+# 70. Application made, or information furnished, to Board by approved caregiver, etc.
 Part: PART VIII MISCELLANEOUS
 
-(1) If the Board is satisfied that an employer has established a welfare scheme which provides for the payment to his employees of pensions, gratuities or other pecuniary or welfare benefits (referred to in this Act as an approved employees’ scheme), the Board shall certify to that effect.
+(1) Subject to subsections (2) and (3), the Board may —
 
-(2) Upon such certification, the amount which such employer shall be liable to contribute to the Fund in respect of any of his employees who has agreed to join such approved employees’ scheme shall be in accordance with such reduced rates as may be prescribed by the Minister for employers who have established approved employees’ schemes and not the rates specified in the First Schedule.
+(a) approve any application to the Board under this Act that is made on behalf of a relevant person by an approved caregiver of that person; or
 
-[19/83; 27/92]
+(b) permit any information for the purposes of this Act to be furnished to the Board on behalf of a relevant person by an approved caregiver of that person.
 
-(3) The Board may at any time revoke any certificate issued under subsection (1) but without prejudice to anything previously done or omitted to be done by virtue thereof.
+[23/2012]
 
-[19/83]
+(2) Any approval or permission given by the Board under subsection (1) shall be subject to such terms and conditions as the Board may, with the approval of the Minister, impose.
 
-(4) An employer who has established a scheme which has been certified as an approved employees’ scheme under subsection (1) shall —
+[23/2012]
 
-(a) furnish to the Board such accounts in respect of the scheme, duly audited by an auditor who has been approved as a company auditor under section 9 (2) of the Companies Act (Cap. 50) as the Board may require;
+(3) Where any application under this Act for, or which will result in, any transfer, withdrawal or refund of any money standing to the credit of a relevant person in the Fund, or any payment or refund of any money to a relevant person or his account in the Fund, is made to the Board on behalf of that person by an approved caregiver of that person, and that application is an application to which this subsection applies, the Board shall not approve that application if the amount of the money, or the aggregate of that amount and of such other amounts as the Board may determine, exceeds such sum as the Minister may, by notification in the Gazette, specify.
 
-(b) comply with the rules of the scheme and pay such contributions in accordance with such scheme within such periods as the rules of the scheme require;
+[23/2012]
 
-(c) obtain the prior permission of the Board to the making of any amendment to the rules of the scheme; and
+(4) Where any application under this Act for, or which will result in, any withdrawal or refund of any money standing to the credit of a relevant person in the Fund, or any payment or refund of any money to a relevant person, is made to the Board on behalf of that person by an approved caregiver of that person, that application is an application to which this subsection applies, and the Board has approved that application in accordance with subsections (2) and (3), the Board may pay the amount of the money to the approved caregiver.
 
-(d) furnish such returns to the Board as the Board may prescribe concerning employees who are members of or who have ceased to contribute to the scheme.
+[23/2012]
 
-[19/83]
+(5) The receipt of the approved caregiver shall be a discharge to the Board for the amount paid to the approved caregiver under subsection (4).
 
-(5) Any amendment to the rules of any approved employees’ scheme made without the prior permission of the Board shall, for the purposes of this Act, be void and of no effect.
+[23/2012]
 
-[19/83]
+(6) Subsection (4) shall not affect any recourse which any person may have against the approved caregiver for the amount paid to the approved caregiver under that subsection.
 
-(6) Section 24 (1) and (3A) shall apply —
+[23/2012]
 
-(a) to withdrawals or payments of moneys from any approved employees’ scheme;
+(7) The approved caregiver shall apply the amount paid to him under subsection (4) towards the costs of the relevant person’s maintenance.
 
-(b) to the rights of any member acquired under the rules of any approved employees’ scheme;
+[23/2012]
 
-(c) to moneys paid out of any approved employees’ scheme on the death of a member as that section applies to withdrawals from the Fund;
+(8) Any approved caregiver who contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(d) to rights acquired under this Act; and
+[23/2012]
 
-(e) to moneys paid out on the death of a member of the Fund.
+(9) The Board may —
 
-[19/83]
+(a) determine the applications to which subsection (3) applies;
 
-(7) Section 24 (4) and (6) shall apply —
+(b) determine different amounts under subsection (3) for different applications to which that subsection applies;
 
-(a) to contributions to any approved employees’ scheme and to interest thereon;
+and
 
-(b) to portions of wages paid as contributions to any approved employees’ scheme as that section applies to contributions to the Fund;
+(c) determine the applications to which subsection (4) applies.
 
-(c) to interest thereon; and
+[23/2012]
 
-(d) to portions of wages paid as contributions to the Fund.
+(10) In this section —
 
-[19/83]
+“approved caregiver”, in relation to a relevant person, means any person who —
 
-(8) Any person who fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(a) satisfies the Board that he is a caregiver of the relevant person; and
 
-(9) The court before which any person is convicted for failing to pay contributions into any approved employees’ scheme within such period as the rules of the approved employees’ scheme require may, in addition to such fine, order him to pay the amount of any contributions and any interest due thereon certified by an officer appointed by the Board in that behalf to be due from such person at the date of such conviction.
+(b) is approved by the Board for the purposes of this section;
 
-(10) The amount referred to in subsection (9) may be recovered according to the law for the time being in force for the recovery of fines.
+“relevant person” means a person —
 
-[19/83]
+(a) whom the Board is satisfied —
+
+(i) is entitled, but is unable, to make any application to the Board under this Act;
+
+or
+
+(ii) is unable to furnish any information to the Board for the purposes of this Act;
+
+(b) whose inability under paragraph (a)(i) or (ii), as the case may be, the Board is satisfied, is likely to be permanent; and
+
+(c) who, to the best of the Board’s knowledge, has neither of the following:
+
+(i) a deputy appointed or deemed to be appointed for the person by the High Court under the Mental Capacity Act (Cap. 177A) with power in relation to the person for the purposes of this Act;
+
+(ii) a donee under a lasting power of attorney registered under the Mental Capacity Act with power in relation to the person for the purposes of this Act.
+
+[23/2012]

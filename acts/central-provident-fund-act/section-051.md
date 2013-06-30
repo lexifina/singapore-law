@@ -9,16 +9,18 @@ The Minister may make such regulations as are necessary and expedient for the pu
 
 (c) prescribe the amount of the insured sum;
 
-(d) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(d) provide for the refund of any premium, the manner in which the premium is to be refunded and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
 (e) provide for different periods of cover in respect of different amounts of premium paid by an insured person;
 
 (f) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
-(g) provide for the manner in which money in the Dependants’ Protection Insurance Fund may be invested;
+(g) provide for the manner in which the insured sum shall be paid in respect of any insured person under the Scheme;
+
+(ga) provide for the cases in which or the circumstances under which the insured sum shall not be payable in respect of any insured person under the Scheme;
 
 (h) provide for such information, evidence and documents that the Board may require an insured person to furnish for the purposes of this Part; and
 
 (i) prescribe anything which under this Part may be prescribed by the Minister.
 
-[23/89]
+[23/89; 24/2005; 23/2012]

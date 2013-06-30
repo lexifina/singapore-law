@@ -1,4 +1,4 @@
-# 34. (Repealed)
+# 34. [Repealed]
 Part: PART IV HOME PROTECTION INSURANCE SCHEME
 
-(Repealed by Act 39/2000)
+[Repealed by Act 39 of 2000]

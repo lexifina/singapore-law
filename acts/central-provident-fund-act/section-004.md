@@ -1,11 +1,11 @@
 # 4. Membership of Board
 Part: PART I PRELIMINARY
 
-(1) The Minister, with the President’s concurrence under Article 22A (1) (b) of the Constitution, shall appoint a Chairman of the Board for a term of 3 years, or for such shorter term as the Minister may determine, and the Chairman shall be eligible for reappointment.
+(1) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, shall appoint a Chairman of the Board for a term of 3 years, or for such shorter term as the Minister may determine, and the Chairman shall be eligible for reappointment.
 
 [11/91]
 
-(2) The Minister, with the President’s concurrence under Article 22A (1) (b) of the Constitution, may appoint a Deputy Chairman of the Board for a term of 3 years, or for such shorter term as the Minister may determine, and the Deputy Chairman shall be eligible for reappointment.
+(2) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint a Deputy Chairman of the Board for a term of 3 years, or for such shorter term as the Minister may determine, and the Deputy Chairman shall be eligible for reappointment.
 
 [27/92]
 
@@ -13,11 +13,11 @@ Part: PART I PRELIMINARY
 
 [27/92]
 
-(3A) The Minister, with the President’s concurrence under Article 22A (1) (b) of the Constitution, may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or Deputy Chairman, as the case may be.
+(3A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or Deputy Chairman, as the case may be.
 
 [39/2000]
 
-(4) The other members of the Board shall be appointed by the Minister with the President’s concurrence under Article 22A (1) (b) of the Constitution and shall consist of the following persons:
+(4) The other members of the Board shall be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution and shall consist of the following persons:
 
 (a) 2 persons holding office of emolument under the Government;
 
@@ -25,9 +25,13 @@ Part: PART I PRELIMINARY
 
 (c) 2 persons representing employees; and
 
-(d) such other persons, not being more than 4, as the Minister may from time to time determine.
+(d) such other persons, not being more than 7, as the Minister may from time to time determine.
 
-[11/91]
+[11/91; 15/2006]
+
+(4A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint the chief executive officer to be a member of the Board.
+
+[15/2006]
 
 (5) The quorum of the Board shall be 5.
 
@@ -41,7 +45,7 @@ Part: PART I PRELIMINARY
 
 [27/92]
 
-(9) No revocation of the appointment of the Chairman, the Deputy Chairman or any other member of the Board shall be made without the President’s concurrence under Article 22A (1) (b) of the Constitution.
+(9) No revocation of the appointment of the Chairman, the Deputy Chairman or any other member of the Board shall be made without the President’s concurrence under Article 22A(1)(b) of the Constitution.
 
 [11/91; 27/92]
 

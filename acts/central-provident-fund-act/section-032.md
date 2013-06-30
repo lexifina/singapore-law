@@ -9,9 +9,9 @@ Part: PART IV HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act.
+(3) The deduction referred to in subsection (2) shall have priority to the deductions which the Board is authorised to make under all other provisions of this Act except section 27B.
 
-[39/2000]
+[39/2000; 40/2007]
 
 (4) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may determine.
 

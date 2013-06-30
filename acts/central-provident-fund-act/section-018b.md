@@ -1,15 +1,21 @@
 # 18B. Transfer of member’s moneys in ordinary account to special account
 Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
-(1) Subject to subsection (2), a member who has less than the prescribed amount standing to his credit in his special account may apply to the Board to transfer a sum standing to his credit in his ordinary account, not exceeding the difference between the prescribed amount and the sum standing to his credit in his special account, to his special account.
+(1) The Board may, on the application of a member who has less than the prescribed amount standing to his credit in his special account and subject to such terms and conditions as the Board may impose, transfer to his special account a sum standing to his credit in his ordinary account, being a sum not exceeding the difference between —
 
-[30/98]
+(a) the prescribed amount; and
 
-(2) An application by a member to transfer the sum standing to his credit in his ordinary account to his special account under subsection (1) shall be irrevocable and the transfer shall be subject to such terms and conditions as the Board may determine.
+(b) the aggregate of —
 
-[30/98]
+(i) the amount standing to his credit in his special account; and
 
-(3) In this section, ‘‘prescribed amount’’ means —
+(ii) any amount withdrawn from his special account for the making of investments under any scheme in accordance with any regulations made under section 77(1)(n).
+
+[20/2011]
+
+(2) [Deleted by Act 20 of 2011]
+
+(3) In this section, “prescribed amount” means —
 
 (a) $65,000, where no other sum is specified under paragraph (b);
 

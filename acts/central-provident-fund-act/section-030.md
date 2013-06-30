@@ -9,10 +9,14 @@ Part: PART IV HOME PROTECTION INSURANCE SCHEME
 
 [30/98; 39/2000]
 
-(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
+(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member or pay to such other person as may be prescribed by regulations made under this Part, subject to such terms and conditions as the Board may impose and in such manner as may be prescribed by those regulations, an amount representing the surrender value of that cover or the unexpired portion of that cover, if any, calculated in accordance with those regulations as if the member had redeemed the housing loan on that property on the date of the cessation of that cover.
 
-[30/98; 39/2000]
+[23/2012]
 
-(4) Where a member is insured under the Scheme before 1st August 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on that date in the manner provided in subsection (3).
+(4) Where before 1st August 1998 a member is insured under the Scheme in respect of 2 immovable properties at the same time —
 
-[30/98; 39/2000]
+(a) the member’s cover under the Scheme in respect of the immovable property purchased by the member earlier (referred to in this subsection as the earlier property) shall cease on that date; and
+
+(b) the Board shall refund to the member or pay to such other person as may be prescribed by regulations made under this Part, subject to such terms and conditions as the Board may impose and in such manner as may be prescribed by those regulations, an amount representing the surrender value of that cover, if any, calculated in accordance with those regulations as if the member had redeemed the housing loan on the earlier property on that date.
+
+[23/2012]

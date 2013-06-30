@@ -1,9 +1,17 @@
 # 76. Board may engage in activities not directly related to Fund and may call for information
 Part: PART VIII MISCELLANEOUS
 
-(1) The Board may, if the Minister is satisfied that it is in the public interest to do so, engage in activities not directly related to the administration of the Fund including, in particular, the compilation of information of a statistical nature or otherwise relating to employers and employees.
+(1) The Board may, if the Minister is satisfied that it is in the public interest for the Board to do so, engage in either or both of the following:
 
-(2) For the purpose of subsection (1), the Board may require employers and employees to furnish such particulars as may be necessary.
+(a) activities that are not related to, or that are not directly related to, the Fund or the administration of the Fund;
+
+(b) the compilation of information of a statistical nature or otherwise relating to members, employers and employees.
+
+[18/2009]
+
+(2) For the purpose of subsection (1), the Board may require members, employers and employees to furnish such particulars as may be necessary.
+
+[57/2007]
 
 (3) Notwithstanding the provisions of any written law but subject to any rules made under subsection (4), where a fund for the educational, social or economic advancement of any community has been approved by the Minister for the purposes of this subsection, an employer shall deduct from the monthly wages of an employee who belongs to that community such amount of contributions as may be prescribed and pay such contributions into the fund unless an employee notifies his employer in writing that he does not wish to contribute to the fund.
 
@@ -19,9 +27,7 @@ Part: PART VIII MISCELLANEOUS
 
 (d) provide for the keeping of books, accounts or records by employers;
 
-(e) provide, in cases where an employee is employed concurrently by 2 or more employers, for the extent of the obligation of such employers as to payment of contributions to the fund;
-
-and
+(e) provide, in cases where an employee is employed concurrently by 2 or more employers, for the extent of the obligation of such employers as to payment of contributions to the fund; and
 
 (f) provide that an employer who fails to deduct any contributions from an employee’s monthly wages or fails to pay such deductions into the fund within the prescribed time shall be guilty of an offence.
 

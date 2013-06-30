@@ -9,13 +9,13 @@ Part: PART VII OFFENCES, PENALTIES AND PROCEEDINGS
 
 [30/98]
 
-(3) The notice may be served on the person alleged to have committed the offence in the manner provided in section 62A (1).
+(3) The notice may be served on the person alleged to have committed the offence in the manner provided in section 62A(1).
 
 [30/98]
 
-(4) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court in pursuance of section 136 of the Criminal Procedure Code (Cap. 68).
+(4) On an accused person appearing before a court in pursuance of such a notice, the court shall proceed as though he were produced before the court in pursuance of section 153 of the Criminal Procedure Code (Cap. 68).
 
-[30/98]
+[15/2010]
 
 (5) If a person, upon whom such a notice has been served, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless that person has before that date been permitted to compound the offence.
 
@@ -23,11 +23,11 @@ Part: PART VII OFFENCES, PENALTIES AND PROCEEDINGS
 
 (6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before a court, the court shall —
 
-(a) proceed as though he were produced in pursuance of section 136 of the Criminal Procedure Code; and
+(a) proceed as though he were produced in pursuance of section 153 of the Criminal Procedure Code; and
 
 (b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
-[30/98]
+[30/98; 15/2010]
 
 (7) An officer authorised in that behalf by the Board may, at any time before the date specified in the notice, cancel the notice.
 

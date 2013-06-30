@@ -9,11 +9,15 @@ The Minister may make such regulations as are necessary or expedient for the pur
 
 (c) provide for the period and commencement of cover under the Scheme;
 
-(d) provide for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
+(ca) provide, in respect of each class of members of the Scheme, for the amount of money for which a member of the Scheme may be insured under the Scheme;
 
-(e) provide for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
+(d) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
 
-(f) provide for the refund of any premium and the circum- stances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(e) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
+
+(ea) prescribe the circumstances under which the Board may cancel or terminate a member’s cover under the Scheme;
+
+(f) provide for the refund of any premium, the manner in which the premium is to be refunded and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
 (g) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
@@ -25,4 +29,4 @@ The Minister may make such regulations as are necessary or expedient for the pur
 
 (k) prescribe anything which under this Part may be prescribed by the Minister.
 
-[30/87; 39/2000]
+[30/87; 39/2000; 20/2011; 23/2012]

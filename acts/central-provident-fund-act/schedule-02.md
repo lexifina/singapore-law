@@ -1,8 +1,8 @@
 # SECOND SCHEDULE
 
-Section 11
+Sections 10 and 11
 
-FINANCIAL PROVISIONS
+Financial provisions
 
 1.—(1) The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made, properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
 
@@ -10,7 +10,7 @@ FINANCIAL PROVISIONS
 
 2.—(1) The accounts of the Board shall be audited at least once annually by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Board.
 
@@ -26,9 +26,9 @@ FINANCIAL PROVISIONS
 
 (d) such other matters arising from the audit as he considers necessary.
 
-SECOND SCHEDULE — continued
-
 (2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board, and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
+
+SECOND SCHEDULE — continued
 
 5.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 

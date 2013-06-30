@@ -9,7 +9,7 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 [31/95]
 
-(3) Notwithstanding anything in this Act, the Board shall be entitled to recover on behalf of the Government any cash grant paid into the Fund for the benefit of any person, together with any interest which he is liable to pay the Government under the terms of the cash grant, from any money standing to the credit of that person in the Fund if he —
+(3) Notwithstanding anything in this Act, the Board shall be entitled to recover on behalf of the Government any cash grant paid into the Fund for the benefit of any person, together with any interest which he is liable to pay to the Government under the terms of the cash grant, from any money standing to the credit of that person in the Fund if he —
 
 (a) has obtained the cash grant by means of any false or misleading statement or any document that is false or misleading in any particular; or
 
@@ -23,6 +23,6 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 (5) In this section —
 
-‘‘approved scheme’’ means a scheme approved by the Minister;
+“approved scheme” means a scheme approved by the Minister;
 
-‘‘cash grant’’ means a cash grant made by the Government under any approved scheme.
+“cash grant” means a cash grant made by the Government under any approved scheme.

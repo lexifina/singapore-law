@@ -33,6 +33,6 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 [12/99]
 
-(8) In this section, ‘‘approved loan scheme’’ means a loan scheme approved by the Minister.
+(8) In this section, “approved loan scheme” means a loan scheme approved by the Minister.
 
 [12/99]

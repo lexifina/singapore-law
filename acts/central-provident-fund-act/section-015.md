@@ -3,11 +3,23 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board.
 
-(1A) Subject to sections 14, 14A, 15A and 25 (2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
+(1A) Subject to subsections (1B), (1C) and (1D), sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person who is entitled, or who within such period as the Board may determine will be entitled under subsection (2)(a) or (3), to withdraw the money from the Fund.
 
-[12/99]
+[18/2009; 22/2010; 23/2012]
 
-(2) Subject to this section, a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
+(1B) The authority under subsection (1) may be given for a withdrawal from the Fund by a relevant member under subsection (7), or for the payment by a relevant member of a premium referred to in section 27L(1) or (1A) from any amount standing to his credit in his retirement account, without any application being made by the relevant member under subsection (1A).
+
+[18/2009; 22/2010; 23/2012]
+
+(1C) After the death of a member of the Fund, the authority under subsection (1) may be given for a withdrawal from the Fund under subsection (5) by a person nominated by that member in accordance with section 25(1), without any application being made by that person under subsection (1A).
+
+[22/2010]
+
+(1D) The authority under subsection (1) may be given for a withdrawal from the Fund by a member who has attained the age of 55 years under subsection (4)(b), without any application being made by that member under subsection (1A).
+
+[23/2012]
+
+(2) Subject to this section and sections 19 and 19A, a member of the Fund shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
 (a) has attained the age of 55 years;
 
@@ -15,107 +27,315 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (c) being a citizen of Malaysia has left or is about to leave Singapore permanently for the States of Malaya in such circumstances as the Minister may approve;
 
-(d) is physically or mentally incapacitated from ever continuing in any employment at any time before he attains the age of 55 years; or
+(d) is physically or mentally incapacitated —
 
-(e) is found to be of unsound mind at any time before he attains the age of 55 years.
+(i) from ever continuing in any employment; or
 
-[5/87]
+(ii) in such other manner as the Minister may approve;
 
-(3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every third anniversary of his date of birth after he has attained the age of 55 years.
+(e) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A);
 
-[5/87]
+(f) is suffering from a medical condition leading to a severely impaired life expectancy; or
 
-(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may at any time allow a member who has attained the age of 55 years to withdraw the sum standing to his credit in the Fund if the member satisfies the Board that he has been unemployed throughout the period of 6 months immediately preceding the date on which he makes an application for the withdrawal of any sum of money standing to his credit in the Fund.
+(g) is suffering from a terminal illness or disease.
 
-[5/87]
+[5/87; 15/2006; 21/2008; 25/2008; 18/2009; 22/2010]
 
-(5) After the death of a member of the Fund, a person nominated by that member in accordance with section 25 (1) shall be entitled to withdraw such portion of the sum standing to the credit of that member in the Fund as is set out in the memorandum executed in accordance with that section.
+(2A) Where a member of the Fund is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
 
-(6) Subject to subsections (6A) and (8), a member of the Fund who is entitled to withdraw the sum standing to his credit in the Fund under subsection (2) (a) shall at the time of the withdrawal set aside or top-up a prescribed sum (referred to in this Act as the minimum sum) in accordance with any regulations made under this Act.
+(a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
 
-[10/94]
+(i) by the member; or
 
-(6A) Where a member and his spouse desire to set aside jointly an amount equal to one and a half times the minimum sum, the Board may permit them to set aside that amount if they have each executed a memorandum under section 25 (1) nominating each other to receive the amount of the minimum sum belonging to either party on the death of the other party.
+(ii) from the sum standing to the member’s credit in the Fund; and
 
-[10/94]
+(b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
 
-(6B) Any memorandum executed under subsection (6A) shall be irrevocable during the subsistence of the marriage between the members.
+(i) by the member; or
 
-[10/94]
+(ii) from the sum standing to the member’s credit in the Fund.
 
-(6C) The minimum sum may be deposited with an approved bank or in a retirement account with the Board or used to purchase an approved annuity from an insurer.
+[20/2011; 23/2012]
 
-[10/94]
+(2B) The amount referred to in subsection (2A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
-(7) A member who has attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw from the minimum sum deposited with an approved bank or in a retirement account and any interest accruing thereon in accordance with any regulations made under this Act.
+[15/2006]
 
-[10/94]
+(3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
 
-(7A) A member who has attained the age of 55 years but has not attained the age of 60 years or such other age as the Minister may prescribe shall be entitled to withdraw the minimum sum or such part thereof as the Board may determine from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer if the Board is satisfied that the member is —
+[5/87; 36/2002]
 
-(a) physically or mentally incapacitated from ever continuing in any employment;
+(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may allow a member who has attained the age of 55 years —
 
-(b) found to be of unsound mind;
+(a) to withdraw, at any time, the sum standing to his credit in the Fund, if the member satisfies the Board that he has been unemployed throughout the period of 6 months immediately preceding the date on which he makes an application for the withdrawal of any sum of money standing to his credit in the Fund; and
 
-(c) suffering from a terminal illness or disease; or
+(b) to withdraw, within such time as the Board may permit, the whole or any part of the amount of any money that is paid, repaid or refunded into his account in the Fund pursuant to a charge under subsection (9), (9A), (11D) or
 
-(d) receiving a pension, annuity or other benefit as may be approved which will provide him with a monthly income of not less in value than the amount prescribed by the Minister.
+(11E) or section 21(1), 21A(1), 21B(1), 27C(1)(v)(A) or (B), 27D(1)(v)(B), 27DA(1)(v), 27E(1)(iv) or 27F(1)(iv), or pursuant to an undertaking given under subsection (10) or (10A).
 
-[10/94]
+[23/2012]
 
-(8) A member need not deposit the minimum sum with an approved bank or in a retirement account or use the minimum sum to purchase an approved annuity from an insurer if the Board is satisfied that the member —
+(5) Subject to section 25(3), after the death of a member of the Fund, a person who is nominated by the deceased member, by a memorandum executed in accordance with section 25(1), shall be entitled to withdraw, in the manner provided for in the memorandum, from the balance standing to the credit of the deceased member in the Fund, such portion of the amount payable on the deceased member’s death out of the Fund as the person has been nominated to receive under the memorandum.
 
-(a) is suffering from a terminal illness or disease;
+[20/2011]
 
-(b) on his retirement will receive a pension, annuity or other benefit as may be approved which will provide him with a monthly income of not less in value than the amount prescribed by the Minister; or
+(6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
 
-(c) has attained the age of 55 years before 1st January 1987.
+(a) such minimum sum applicable to the member as may be prescribed shall be set aside or topped-up —
 
-[5/87]
+(i) by the member; or
 
-(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+(ii) from the sum standing to the member’s credit in the Fund; and
 
-(a) to withdraw the minimum sum from his account with an approved bank or his retirement account; or
+(b) unless the Board otherwise allows, such amount as may be specified under subsection (6D) shall be set aside or topped-up in the member’s medisave account —
 
-(b) to surrender his approved annuity, if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+(i) by the member; or
 
-[5/87; 39/2000]
+(ii) from the sum standing to the member’s credit in the Fund after deducting any sum standing to the member’s credit in his retirement account.
 
-(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+[20/2011; 23/2012]
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on a joint application made by them before 1st January 2013, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
 
-(b) to surrender his approved annuity, if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+[15/2006; 18/2009; 23/2012]
 
-[39/2000]
+(6B) Any memorandum executed under subsection (6A) by 2 members of the Fund who are parties to a marriage —
 
-(10) Where a member or his spouse or both of them jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+(a) shall not be revocable during the subsistence of the marriage, unless the Board is satisfied that —
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(i) either member is, or both members are, physically or mentally incapacitated —
 
-(b) to surrender his approved annuity, if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6) in the event the property is sold or otherwise disposed of.
+(A) from ever continuing in any employment; or
 
-[5/87]
+(B) in such other manner as the Minister may approve;
 
-(10A) Where a member and one or more persons jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+(ii) either member lacks, or both members lack, capacity within the meaning of section 4 of the Mental Capacity Act;
 
-(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+(iii) either member is, or both members are, suffering from a medical condition leading to a severely impaired life expectancy; or
 
-(b) to surrender his approved annuity, if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
+(iv) either member is, or both members are, suffering from a terminal illness or disease; and
 
-[39/2000]
+(b) shall, where the marriage has been dissolved (otherwise than by death) or has been annulled, be revoked upon the Board being notified of the dissolution or annulment of the marriage.
 
-(11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
+[40/2007; 21/2008; 22/2010]
 
-[5/87]
+(6C) The amount standing to the credit of a member in his retirement account shall be utilised as follows:
 
-(12) No moneys deposited in an account with an approved bank or in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with the minimum sum shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
+(a) such amount (if any) as the Board may determine shall be used for the payment of a premium referred to in section 27L(1) or (1A); and
+
+(b) any remaining amount may be —
+
+(i) deposited with an approved bank or retained in the member’s retirement account;
+
+(ii) used to purchase an approved annuity from an insurer; or
+
+(iii) used for the payment of a premium referred to in section 27L(1) or (1A).
+
+[18/2009; 22/2010; 20/2011; 23/2012]
+
+(6CA) For the purposes of subsections (6)(a) and (6C), the Board shall, if required by any regulations made under section 77(1), transfer from the sum standing to the credit of a member in the Fund to his retirement account, towards the maintenance of the minimum sum, such amount at such time as may be prescribed in those regulations.
+
+[23/2012]
+
+(6CB) For the purposes of subsection (6CA), different amounts and times may be prescribed for different classes of members.
+
+[23/2012]
+
+(6D) The Minister may, by order published in the Gazette —
+
+(a) specify such amount as he thinks fit for the purposes of subsection (6)(b); and
+
+(b) specify different amounts in respect of different classes of members.
+
+[20/2011]
+
+(7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or retained that amount in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
+
+[18/2009; 23/2012]
+
+(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b), or such part thereof as the Board may determine, from his account with an approved bank or his retirement account, or to surrender his approved annuity from an insurer, if the Board is satisfied that the member —
+
+(a) is physically or mentally incapacitated —
+
+(i) from ever continuing in any employment; or
+
+(ii) in such other manner as the Minister may approve;
+
+(b) lacks capacity within the meaning of section 4 of the Mental Capacity Act;
+
+(c) is suffering from a medical condition leading to a severely impaired life expectancy;
+
+(d) is suffering from a terminal illness or disease; or
+
+(e) is receiving any pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
+
+[22/2010]
+
+(7B) Where a member of the Fund is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer, at the time of the withdrawal or surrender, as the case may be, and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
+
+(a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund; and
+
+(b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund.
+
+[20/2011; 23/2012]
+
+(7C) The amount referred to in subsection (7B)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+
+[15/2006]
+
+(8) A member need not comply with subsection (6)(a) if the Board is satisfied that the member —
+
+(a) is physically or mentally incapacitated —
+
+(i) from ever continuing in any employment; or
+
+(ii) in such other manner as the Minister may approve;
+
+(b) lacks capacity within the meaning of section 4 of the Mental Capacity Act;
+
+(c) is suffering from a medical condition leading to a severely impaired life expectancy;
+
+(d) is suffering from a terminal illness or disease;
+
+(e) on his retirement will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister; or
+
+(f) has attained the age of 55 years before 1st January 1987.
+
+[15/2006; 21/2008; 18/2009; 22/2010]
+
+(8A) Where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and, under subsection (8)(a), (b) or (c), need not comply with subsection (6)(a), at the time of the withdrawal and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
+
+(a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund; and
+
+(b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
+
+(i) by the member; or
+
+(ii) from the sum standing to the member’s credit in the Fund.
+
+[20/2011; 23/2012]
+
+(8B) The amount referred to in subsection (8A)(a) may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
+
+[15/2006]
+
+(8C) Notwithstanding subsections (2A), (6), (7B) and (8A) and section 27, where any amount which a relevant member is entitled to withdraw from his retirement account under subsection (7), or which is due to a relevant member under section 27K(6), has been transferred or paid by the Board into his ordinary account, the Board may, on his application, permit him to withdraw that amount.
+
+[18/2009]
+
+(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made before 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity, if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum.
+
+[5/87; 39/2000; 15/2006; 18/2009; 23/2012]
+
+(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made before 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity, if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum.
+
+[39/2000; 18/2009; 23/2012]
+
+(10) Where a member or his spouse or both of them jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made before 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity, if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
+
+[5/87; 40/2007; 18/2009; 20/2011; 23/2012]
+
+(10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made before 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity, if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
+
+[39/2000; 40/2007; 18/2009; 20/2011; 23/2012]
+
+(10B) The Board shall not enforce any undertaking under subsection (10) or (10A) if there exist such circumstances as may be prescribed in any regulations made under section 77(1) for the purposes of this subsection.
+
+[15/2006; 23/2012]
+
+(10C) [Deleted by Act 23 of 2012]
+
+(11) Where a member owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[23/2012]
+
+(11A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[23/2012]
+
+(11B) Where a member owns any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[23/2012]
+
+(11C) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity.
+
+[23/2012]
+
+(11D) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has withdrawn the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the amount withdrawn.
+
+[23/2012]
+
+(11E) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has surrendered his approved annuity, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the entire surrender value of the approved annuity.
+
+[23/2012]
+
+(11F) The following provisions shall apply to a charge constituted on any immovable property under subsection (11D) or (11E):
+
+(a) the charge shall be subject to all prior statutory rights and charges of any public authority over the immovable property and to all encumbrances registered or notified prior to the date of the constitution of the charge;
+
+(b) upon the constitution of the charge, the Board shall have the power of sale and all other powers relating or incidental thereto to sell and effectually transfer the immovable property to any purchaser as if the Board were a registered mortgagee and, in any case where the immovable property is registered land within the meaning of the Land Titles Act (Cap. 157), notwithstanding that the charge is not registered under that Act;
+
+(c) the charge shall extend to all the rights, benefits and interests of the member, or of the member and the other person or persons who jointly own the immovable property, as the case may be, under his or their agreement for sale and purchase of the immovable property;
+
+(d) where the Board has lodged with the Registrar an instrument (which shall be in such form as the Registrar may require) for the purpose of registering or notifying the charge, the Registrar shall not be concerned to enquire into the regularity or validity of the charge and shall, on acceptance of the instrument, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be;
+
+(e) the charge shall continue in force until the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
+
+[23/2012]
+
+(12) No moneys deposited in an account with an approved bank or retained in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with any amount standing to the credit of the member in his retirement account shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any right of set-off by the approved bank for any debt owing by the member to the approved bank.
+
+[36/2002; 23/2012]
 
 (13) Such moneys, withdrawals and payments mentioned in subsection (12) shall not pass to the Official Assignee on the bankruptcy of the member.
 
-(14) If the member is adjudicated a bankrupt or is declared insolvent by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
+(14) If the member is adjudicated a bankrupt by a court, such moneys, withdrawals and payments shall be deemed not to form part of his after-acquired property.
 
-[5/87; 10/94]
+[5/87; 10/94; 22/2010]
 
 (15) The following provisions shall apply to a charge created over any immovable property under subsection (9) or (9A):
 
@@ -129,29 +349,25 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (c) the charge shall extend to all the rights, benefits and interests of the member or his spouse, or the member and the related person or persons, as the case may be, under his or their agreement for sale and purchase of the immovable property;
 
-(d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge, and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be;
+(d) the Registrar shall not be concerned to enquire into the regularity or validity of the charge and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act or the Registration of Deeds Act, as the case may be;
 
-(e) the charge shall on the application of the member or any other person having an interest in the property be cancelled if the Board is satisfied of the occurrence of any one of the following events:
+(e) the charge shall, on the application of the member or any other person having an interest in the property, be cancelled if the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph.
 
-(i) the death of the member;
+[5/87; 39/2000; 15/2006; 18/2009; 22/2010; 20/2011; 23/2012]
 
-(ii) if the member is suffering from a terminal illness or disease;
+(15A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and sections 49L and 49M of the Insurance Act (Cap. 142) shall not apply to any annuity purchased with any amount standing to the credit of a member in his retirement account.
 
-(iii) if the member has complied with the requirements of subsection (6);
-
-(iv) if the minimum sum set aside by the member under subsection (6) has been exhausted on account of withdrawals made by him under subsection (7); or
-
-(v) if the member satisfies any of the grounds for withdrawals under subsection (2) (b) or (c).
-
-[5/87; 39/2000]
+[3/2009; 23/2012]
 
 (16) In this section and section 15B —
 
-‘‘approved’’, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
+“approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
 
-‘‘Housing Authority’’ has the same meaning as in section 28;
+“approved developer” means an approved developer under Part IVB of the Housing and Development Act (Cap. 129);
 
-‘‘related person’’, in relation to a member, means —
+“Housing Authority” has the same meaning as in section 28;
+
+“related person”, in relation to a member, means —
 
 (a) his spouse;
 
@@ -165,6 +381,8 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 (f) a grandparent of the member; or
 
-(g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section.
+(g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section;
 
-[39/2000]
+“relevant member” has the same meaning as in section 27J.
+
+[39/2000; 40/2007; 18/2009; 23/2012]

@@ -36,3 +36,7 @@ Part: PART IV HOME PROTECTION INSURANCE SCHEME
 (6) Any person who became a member of the Scheme prior to 1st March 1988 shall continue to be a member of the Scheme subject to the same term, condition and restriction which were in force before that date.
 
 [30/87]
+
+(7) The Board may cancel or terminate a member’s cover under the Scheme in such circumstances as may be prescribed by regulations made under this Part.
+
+[23/2012]

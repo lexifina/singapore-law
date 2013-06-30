@@ -1,23 +1,25 @@
 # 21A. Registration of charge on immovable property to secure repayment of withdrawals from Fund before 1st June 1981
 Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
-(1) Where in accordance with any regulations made under section 77 a member of the Fund has before 1st June 1981 withdrawn any money standing to his credit in the Fund —
+(1) Where in accordance with any regulations made under section 77, a member of the Fund has before 1st June 1981 withdrawn any money standing to his credit in the Fund —
 
-(a) to make payment, either full or partial, towards the purchase of an immovable property;
+(a) to make payment, either full or partial, towards the purchase or acquisition of an immovable property;
 
-(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase of an immovable property; or
+(b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase or acquisition of an immovable property; or
 
 (c) to pay any costs, fees or other expenses incurred —
 
-(i) for the purchase of an immovable property;
+(i) for the purchase or acquisition of an immovable property;
 
-(ii) for obtaining a loan to finance or re-finance such purchase; and
+(ii) for obtaining a loan to finance or re-finance such purchase or acquisition; and
 
-(iii) in connection with withdrawals of any money from the Fund, the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act, a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the interest that would have accrued thereto if the withdrawal had not been made and to secure the payment of the minimum sum into the member’s retirement account.
+(iii) in connection with withdrawals of any money from the Fund, the Board may register or notify, in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), a charge on the member’s estate or interest in the immovable property to secure the repayment of the money withdrawn from the Fund including the whole or such part, as the Board may determine, of the interest that would have been payable thereon if the withdrawal had not been made.
 
-(1A) Where the immovable property is purchased or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
+[57/2007; 23/2012]
 
-[27/95]
+(1A) Where the immovable property is purchased, acquired or owned by the member as a co-purchaser, joint-tenant or tenant-in-common, as the case may be, with one or more persons, the charge shall, with the prior written consent of all the co-purchasers or co-owners, extend to all their respective estates or interests in the immovable property.
+
+[27/95; 57/2007]
 
 (2) A charge under subsection (1) shall extend to all the rights, benefits and interests of the member or the co-purchasers or co-owners, as the case may be, under his or their agreement for sale and purchase of the immovable property.
 
@@ -31,7 +33,7 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [27/95]
 
-(4) The Registrar shall not be concerned to enquire into the regularity or validity of a charge under subsection (1) and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act (Cap. 157), the Land Titles (Strata) Act (Cap. 158) or the Registration of Deeds Act (Cap. 269), as the case may be.
+(4) The Registrar shall not be concerned to enquire into the regularity or validity of a charge under subsection (1) and shall, on acceptance of the instrument to register or notify the charge, register or notify the charge in the appropriate register maintained by the Registrar under the Land Titles Act, the Land Titles (Strata) Act or the Registration of Deeds Act, as the case may be.
 
 [27/95]
 
@@ -39,11 +41,9 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [27/95]
 
-(6) The repayment of the minimum sum to the Board, if it is secured by a charge on the member’s estate or interest on the immovable property under subsection (1), shall rank after the claims of a mortgagee or chargee other than the Board prior to the date when the member is required to deposit a prescribed sum in accordance with section 15 (6).
+(6) [Deleted by Act 23 of 2012]
 
-[27/95]
-
-(7) Notwithstanding section 80 of the Land Titles Act (Cap. 157) and section 15 of the Registration of Deeds Act (Cap. 269) —
+(7) Notwithstanding section 80 of the Land Titles Act and section 15 of the Registration of Deeds Act —
 
 (a) where further withdrawals from the Fund are authorised by the Board after the registration or notification of any mortgage or charge created in favour of the Board at any time after the acceptance by the Registrar of the instrument lodged under subsection (3) for the purpose of registering or notifying a charge under subsection (1), all such withdrawals shall rank in priority to any other claims as if the withdrawals were made at the date of the creation of the mortgage or charge in favour of the Board; and
 
@@ -55,11 +55,19 @@ Part: PART III WITHDRAWAL OF CONTRIBUTIONS
 
 [27/95]
 
-(9) A charge under subsection (1) shall continue in force until all the moneys secured by the charge have been repaid or are no longer required by any regulations made under section 77 to be repaid to the Fund or if the Board is satisfied of the occurrence of any of the events mentioned in section 15 (15) (e) in which event the member concerned or any other party having an interest in the immovable property shall be entitled to have the charge cancelled.
+(9) A charge under subsection (1) on a member’s estate or interest in an immovable property shall continue in force until, and the member or any other person having an interest in the immovable property shall be entitled to have the charge cancelled in the event that, all moneys secured by the charge —
 
-[27/95]
+(a) have been repaid to the Fund; or
 
-(10) Where costs, fees or other incidental expenses are incurred for the registration or notification of a charge under subsection (1) or section 21 (4) or the discharge thereof, the Board may, subject to such terms and conditions as it may impose, authorise the whole or part of the amount standing to the member’s credit in the Fund to be withdrawn and used to pay such costs, fees and other incidental expenses.
+(b) are no longer required by any regulations made under section 77(1) to be repaid to the Fund.
+
+[23/2012]
+
+(9A) Without prejudice to subsection (9), where there is a charge under subsection (1) on a member’s estate or interest in an immovable property, and the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this subsection, the member or any other person having an interest in the immovable property may, with the approval of the Board, have the charge cancelled.
+
+[23/2012]
+
+(10) Where costs, fees or other incidental expenses are incurred for the registration or notification of a charge under subsection (1) or section 21(4) or the discharge thereof, the Board may, subject to such terms and conditions as it may impose, authorise the whole or part of the amount standing to the member’s credit in the Fund to be withdrawn and used to pay such costs, fees and other incidental expenses.
 
 [27/95]
 

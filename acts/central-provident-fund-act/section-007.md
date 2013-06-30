@@ -17,7 +17,7 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 (a) an employee may at any time contribute voluntarily to the Fund a sum additional to that shown in the First Schedule as payable by the employer;
 
-(b) an employee who desires to have contributions in excess of the appropriate rate deducted from his monthly wages by his employer may give to his employer written notice to that effect, and thereafter, so long as he is employed by that employer, the employer shall make the deductions from his wages for each month until such time, not being less than 6 months from the giving of the previous notice, as he gives further written notice to his employer of his desire to cease to have the excess monthly contributions deducted from his wages and the employer shall pay the amount of the excess deductions to the Fund in addition to the appropriate monthly contributions; or
+(b) an employee who desires to have contributions in excess of the appropriate rate deducted from his monthly wages by his employer may give to his employer written notice to that effect, and thereafter, so long as he is employed by that employer, the employer shall make the deductions from his wages for each month until such time, not being less than 6 months from the giving of the previous notice, as he gives further written notice to his employer of his desire to cease to have the excess monthly contributions deducted from his wages, and the employer shall pay the amount of the excess deductions to the Fund in addition to the appropriate monthly contributions; or
 
 (c) an employer may at any time pay to the Fund contributions in respect of any of his employees at a rate in excess of the appropriate rate set out in the First Schedule.
 
@@ -31,13 +31,13 @@ Part: PART II CONTRIBUTIONS TO FUND
 
 [27/92]
 
-(7) Notwithstanding subsection (6), where wages are payable at intervals of less than one month, if in any month it appears to the employer that the wages of any employee for that month are likely to exceed $200, the employer —
+(7) Notwithstanding subsection (6), where wages are payable at intervals of less than one month, if in any month it appears to the employer that the wages of any employee for that month are likely to exceed $500, the employer —
 
 (a) may deduct from the employee’s wages at the time of each payment in the month the appropriate proportion of such sum as would be recoverable from the employee in accordance with the First Schedule in respect of the wages if paid at the same rate throughout the month; and
 
-(b) shall make such adjustment as may be necessary on the occasion of the last payment in that month, but if the wages do not actually exceed $200 for that month, he shall forthwith refund to the employee the amount of the deductions.
+(b) shall make such adjustment as may be necessary on the occasion of the last payment in that month, but if the wages do not actually exceed $500 for that month, he shall forthwith refund to the employee the amount of the deductions.
 
-[27/92]
+[27/92; 31/2003]
 
 (8) The Minister may, by notification in the Gazette, amend the First Schedule and may prescribe in the First Schedule —
 

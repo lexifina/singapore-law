@@ -5,6 +5,6 @@ The Board may allow a member to withdraw the whole or part of the moneys standin
 
 (a) for the payment of any loan taken by him for the purchase of any immovable property by the member in accordance with any regulations made under section 77;
 
-(b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
+(b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
 
-[12/99]
+[12/99; 23/2005]

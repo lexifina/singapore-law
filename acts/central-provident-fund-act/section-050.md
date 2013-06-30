@@ -1,8 +1,10 @@
 # 50. Non-application of Insurance Act
 Part: PART V DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
-The Insurance Act (Cap. 142) shall not apply to anything done
+The Insurance Act (Cap. 142) shall not apply —
 
-by the Board under this Part and Part VI.
+(a) to anything done by the Board under this Part; or
 
-[23/89; 10/94]
+(b) to the transfer of any of the Board’s liabilities under the Scheme under section 49A(1) or (3).
+
+[24/2005]

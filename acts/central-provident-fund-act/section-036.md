@@ -25,7 +25,7 @@ Part: PART IV HOME PROTECTION INSURANCE SCHEME
 
 (A + B) – C, where A is the amount prescribed under regulations made under this Part to be payable at the time of incapacity of the member;
 
-B is the amount of interest accrued on A as determined by the Board from the time the first monthly or periodic loan instalment is made under subsection (2) to the time the amount under this subsection is paid by the Board;
+B is the amount of interest accrued on A as determined by the Board from the time the first monthly or other periodic loan instalment is made under subsection (2) to the time the amount under this subsection is paid by the Board;
 
 C is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2).
 
@@ -49,7 +49,9 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 
 (b) if the member suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
 
-(c) if the death or incapacity of the member, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme; or
+(c) if the death or incapacity of the member, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme;
+
+or
 
 (d) if the death or incapacity of that member arises from war or any warlike operations or participation in any riot.
 
@@ -59,6 +61,6 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 
 (a) makes or furnishes to the Board any statement or fact that is false or misleading in a material particular; or
 
-(b) fails to disclose to the Board any material fact or circum- stance known to him at the time he is required to be insured under the Scheme which might influence the Board as to whether he should be insured under the Scheme.
+(b) fails to disclose to the Board any material fact or circumstance known to him at the time he is required to be insured under the Scheme which might influence the Board as to whether he should be insured under the Scheme.
 
 [30/87]
