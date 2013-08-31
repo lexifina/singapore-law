@@ -1,0 +1,3 @@
+# 24. Conditions that leases be settled by court not to be inserted in orders made under this Act
+
+In orders under this Act for vesting any powers of leasing in any trustees or other persons, no conditions shall be inserted requiring that the leases thereby authorised should be submitted to or be settled by the court or a judge, or be made conformable with a model lease deposited in the registry, save only in any case in which the parties applying for the order desire to have any such condition inserted, or in which it appears to the court or judge that there is some special reason rendering the insertion of such a condition necessary or expedient.
