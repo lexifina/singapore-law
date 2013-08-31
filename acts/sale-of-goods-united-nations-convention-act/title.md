@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+SALE OF GOODS (UNITED NATIONS CONVENTION) ACT
+(CHAPTER 283A)
+(Original Enactment: Act 14 of 1995)
+REVISED EDITION 2013
+(31st August 2013)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2013
+
+
+
+An Act to give effect to the United Nations Convention on Contracts for the International Sale of Goods concluded at Vienna on 11th April 1980.
+
+[1st March 1996]
