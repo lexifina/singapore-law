@@ -1,0 +1,5 @@
+# LEGISLATIVE HISTORY DECORATIONS AND UNIFORMS ACT (CHAPTER 74)
+
+This Legislative History is provided for the convenience of users of the Decorations and Uniforms Act. It is not part of the Act.
+
+1. Ordinance 5 of 1922 — Decorations and Uniforms, etc. (Unauthorised Use) Ordinance 1922 Date of First Reading : 19 December 1921 (Bill published on 12 September 1922. No Bill number given.) Date of Second Reading : 23 January 1922 Date of Third Reading : 20 February 1922 Date of commencement : 10 March 1922 2. 1936 Revised Edition — Decorations and Uniforms Act (Chapter 171) Date of operation : 1 September 1936 3. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance 1952 Date of First Reading : 16 September 1952 (Bill No. 32/52 published on 19 September 1952) Date of Second and Third Readings : 14 October 1952 Date of commencement : 30 April 1955 4. 1955 Revised Edition — Decorations and Uniforms Act (Chapter 267) Date of operation : 1 July 1956 5. 1970 Revised Edition — Decorations and Uniforms Act (Chapter 303) Date of operation : 31 August 1971 6. 1985 Revised Edition — Decorations and Uniforms Act (Chapter 74) Date of operation : 30 March 1987
