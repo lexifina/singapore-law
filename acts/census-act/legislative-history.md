@@ -1,0 +1,5 @@
+# LEGISLATIVE HISTORY CENSUS ACT (CHAPTER 35)
+
+This Legislative History is provided for the convenience of users of the Census Act. It is not part of the Act.
+
+1. Act 47 of 1973 — Census Act 1973 Date of First Reading : 11 July 1973 (Bill No. 40/73 published on 14 July 1973) Date of Second and Third Readings : 26 July 1973 Date of commencement : 7 September 1973 2. Act 20 of 1986 — Census (Amendment) Act 1986 Date of First Reading : 5 May 1986 (Bill No. 11/86 published on 6 May 1986) Date of Second and Third Readings : 29 July 1986 Date of commencement : 29 August 1986 3. Act 8 of 1990 — Census (Amendment) Act 1990 Date of First Reading : 2 March 1990 (Bill No. 10/90 published on 3 March 1990) Date of Second and Third Readings : 28 March 1990 Date of commencement : 6 April 1990 4. 1991 Revised Edition — Census Act (Chapter 35) Date of operation : 1 March 1991 5. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by) Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010) Date of Second and Third Readings : 19 May 2010 Date of commencement : 2 January 2011
