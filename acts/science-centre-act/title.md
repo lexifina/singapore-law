@@ -1,0 +1,20 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+SCIENCE CENTRE ACT
+(CHAPTER 286)
+(Original Enactment: Act 33 of 1970)
+REVISED EDITION 2013
+(31st October 2013)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2013
+
+
+
+An Act to establish the Science Centre Board and for purposes incidental thereto.
+
+[25th September 1970: Sections 1 to 20;
+
+1st April 1972: Section 21]
