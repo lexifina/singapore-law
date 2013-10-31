@@ -1,0 +1,3 @@
+# 16. Penalty for obstructing officer in his duty
+
+Any person who at any time hinders, obstructs or molests the Licensing Officer or any officer or employee authorised by the Licensing Officer in writing in that behalf in the performance and execution of his duty or of anything which he is empowered or required to do by virtue or in consequence of this Act, or removes any mark set up for the purpose of indicating any level or direction necessary to the execution of works authorised by this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year.

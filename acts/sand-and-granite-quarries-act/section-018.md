@@ -1,0 +1,3 @@
+# 18. Penalty for offences not otherwise provided for
+
+Every omission or neglect to comply with and every act done or attempted to be done contrary to the provisions of this Act or any breach of the conditions or restrictions subject to which or upon which any licence is granted under this Act shall be an offence under this Act and in respect of any such offence for which no penalty is expressly provided the offender shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.

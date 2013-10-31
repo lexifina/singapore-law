@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+SAND AND GRANITE QUARRIES ACT
+(CHAPTER 284)
+(Original Enactment: Act 44 of 1970)
+REVISED EDITION 2013
+(31st October 2013)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2013
+
+
+
+An Act for the licensing and control of sand and granite quarries and for matters incidental thereto.
+
+[15th December 1971]
