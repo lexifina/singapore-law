@@ -1,0 +1,19 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+DIPLOMATIC AND CONSULAR OFFICERS (OATHS AND
+FEES) ACT
+(CHAPTER 82)
+(Original Enactment: Act 42 of 1968)
+REVISED EDITION 2013
+(30th November 2013)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2013
+
+
+
+An Act to provide for the administration of oaths and the levy of fees by diplomatic and consular officers.
+
+[6th January 1969]
