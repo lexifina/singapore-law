@@ -1,0 +1,3 @@
+# 17. Powers of court
+
+The judge may, on an application for the release of any property distrained, deal with the matter summarily and dismiss the application or discharge the writ, or order the release unconditionally or on such terms as he thinks fit of any property seized, or may direct an issue to be tried and, pending the determination of such issue, suspend the execution of the writ, or may order the property to be sold and the proceeds of sale to be lodged in court, or may make such other order on such terms as he considers fair as between the parties pending the final determination of the matter.

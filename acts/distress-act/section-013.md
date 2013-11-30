@@ -1,0 +1,3 @@
+# 13. Exclusion of certain under-tenants
+
+Section 10 shall not apply to any under-tenant where the under‑tenancy has been created in breach of any covenant or agreement in writing between the landlord and his immediate tenant.

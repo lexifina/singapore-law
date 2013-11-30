@@ -1,0 +1,3 @@
+# 14. Avoidance of distress
+
+Where the rent of the immediate tenant of the superior landlord is in arrear, it shall be lawful for the superior landlord to serve on any under-tenant or lodger a notice (by registered post addressed to the under-tenant or lodger at the premises) stating the amount of such arrears of rent, and requiring all future payments of rent, whether the same has already accrued due or not, by the under-tenant or lodger to be made direct to the superior landlord giving the notice until such arrears shall have been duly paid, and the notice shall operate to transfer to the superior landlord the right to recover, receive and give a discharge for the rent.
