@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+INSTITUTE OF SOUTHEAST ASIAN STUDIES ACT
+(CHAPTER 141)
+(Original Enactment: Act 9 of 1968)
+REVISED EDITION 2013
+(30th November 2013)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2013
+
+
+
+An Act to provide for the establishment of the Institute of Southeast Asian Studies and for matters connected therewith.
+
+[7th June 1968]
