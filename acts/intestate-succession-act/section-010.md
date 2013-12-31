@@ -1,0 +1,5 @@
+# 10. Application to cases of partial intestacy
+
+Where any person dies leaving a will beneficially disposing of part of his property, the provisions of this Act shall have effect as respects the part of his property not so disposed of, subject to the provisions contained in the will:
+
+Provided that the personal representative shall, subject to his rights and powers for the purposes of administration, be a trustee for the persons entitled under this Act in respect of the part of the estate not expressly disposed of unless it appears by the will that the personal representative is entitled to take that part beneficially.
