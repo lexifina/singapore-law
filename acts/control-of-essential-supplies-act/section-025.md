@@ -1,0 +1,4 @@
+# 25. Burden of proof
+Part: PART IV MISCELLANEOUS
+
+In any prosecution in respect of an offence under this Act upon a charge of doing any act which is unlawful, unless the person doing the act is entitled to do so by reason of his being the holder of a licence, permit or written permission, consent, authorisation or exemption entitling him to do that act, it shall be sufficient for the prosecution to allege and prove his doing that act and the onus shall then be upon the accused to show that he was entitled to do the act.

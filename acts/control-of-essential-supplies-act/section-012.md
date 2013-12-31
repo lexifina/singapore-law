@@ -1,0 +1,4 @@
+# 12. Power of Controller to sell animals or perishable, deleterious or hazardous articles
+Part: PART II POWERS OF CONTROLLER
+
+If possession has been taken of any controlled article in circumstances in which the Controller has reason to believe that an offence under this Act has been committed and criminal proceedings have been instituted against any person in respect of the offence, then if the controlled article is a live animal or if the Controller is satisfied that the controlled article, by reason of its perishable nature or otherwise, is liable to deteriorate or is injurious to health or is hazardous, he may order that the controlled article shall be sold in such manner as may be specified by him, and the proceeds of the sale shall be kept until the conclusion of the criminal proceedings and, except where the court orders confiscation of the proceeds under section 26, shall be disposed of in such manner as the court may order.

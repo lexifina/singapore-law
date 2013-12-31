@@ -1,0 +1,10 @@
+# 20. Removal of controlled articles from business premises and storage of controlled articles in premises other than licensed business premises, and dealing in controlled articles otherwise than in normal course of business
+Part: PART III OFFENCES AND PENALTIES
+
+(1) Any person who removes any controlled article or causes or permits any controlled article to be removed from any licensed premises or stores any controlled article or causes or permits any controlled article to be stored in any premises, other than licensed premises or premises approved by the Controller for such storage, shall be guilty of an offence under this Act.
+
+(2) The Controller, any senior officer of customs or any police officer not below the rank of sergeant, if he suspects that any controlled article is being stored or dealt with in any premises in contravention of this section, may, notwithstanding any written law to the contrary for the time being in force, without a search warrant enter upon the premises for the purpose of ascertaining whether or not any such controlled article is in those premises.
+
+(3) In any prosecution for an offence under this section, it shall be sufficient for the prosecution to prove that any controlled article, to the ownership or possession of which the defendant was entitled, was found in premises other than licensed premises or premises approved by the Controller, and the burden of proving that the defendant is not guilty of an offence under this section shall then lie upon the defendant.
+
+(4) Any controlled article found in the course of a search under subsection (2) upon premises other than licensed premises or premises approved by the Controller, in regard to which an offence under this section is reasonably suspected to have been committed, may be removed by the Controller or other person authorised by that subsection to carry out the search and, if not claimed within 2 weeks of the removal, may be sold by order of the Controller, and the proceeds of any such sale shall be paid into the Consolidated Fund.
