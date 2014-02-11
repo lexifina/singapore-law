@@ -1,0 +1,4 @@
+# 1. Short title and commencement
+Part: PART I PRELIMINARY
+
+This Act may be cited as the Merchant Shipping (Maritime Labour Convention) Act 2014 and shall come into operation on such date as the Minister may, by notification in the Gazette, appoint.
