@@ -1,0 +1,3 @@
+# 18. Separate assessment of damages in certain cases in actions for libel
+
+Whenever in an action for libel the plaintiff sues more than one defendant, whether jointly, severally, or in the alternative, and evidence is given of malice in one defendant or of any other matter of aggravation which would not be admissible in evidence against any other defendant if he were sued alone, such other defendant may apply to the court to have the damages against himself and his co-defendants separately assessed, and if such application is made, the court shall assess the damages separately against each defendant and no defendant shall be liable nor shall execution issue against him for any further or other damages than those so assessed against him.

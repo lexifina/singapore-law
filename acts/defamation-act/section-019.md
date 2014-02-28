@@ -1,0 +1,3 @@
+# 19. Severance of defences
+
+Whenever in any action for libel the plaintiff sues more than one defendant, whether jointly, severally, or in the alternative, each defendant may file a separate statement of his case and appear at the trial by separate counsel or, if he thinks fit, apologise or pay money into court or make other amends, whatever may be the defences set up by his co-defendants, and the plaintiff may accept such apology, money, or other amends and settle or compromise the suit and discontinue the action as between himself and one or more defendants without reference to the other defendants; except that the rights and interests of the other defendant or defendants shall not in any way be prejudiced thereby.
