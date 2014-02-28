@@ -1,0 +1,3 @@
+# 5. Penalty for making or possessing explosives under suspicious circumstances
+
+Any person who makes or knowingly has in his possession or under his control any explosive substance, under such circumstances as to give rise to a reasonable suspicion that he is not making it or does not have it in his possession or under his control for a lawful object, shall, unless he can show that he made it or had it in his possession or under his control for a lawful object, be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years or to caning, or to any 2 of such punishments.
