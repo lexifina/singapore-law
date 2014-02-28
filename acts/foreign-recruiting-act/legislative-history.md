@@ -1,0 +1,5 @@
+# LEGISLATIVE HISTORY FOREIGN RECRUITING ACT (CHAPTER 112)
+
+This Legislative History is provided for the convenience of users of the Foreign Recruiting Act. It is not part of this Act.
+
+1. Act 3 of 1875 — Foreign Recruiting Act 1875 Date of First Reading : 11 December 1874 Date of Second Reading : 28 December 1874 Date of Third Reading : 2 January 1875 Date of commencement : 19 May 1875 2. 1926 Revised Edition — Ordinance No. 19 (Foreign Recruiting) Date of operation : 1 August 1926 3. 1936 Revised Edition — Foreign Recruiting Ordinance (Chapter 199) Date of operation : 1 September 1936 4. 1955 Revised Edition — Foreign Recruiting Ordinance (Chapter 219) Date of operation : 1 July 1956 5. S (N.S.) 177/59 — Singapore Constitution (Modification of Laws) (No. 3) Order 1959 Date of commencement : 20 November 1959 6. S (N.S.) 178/59 — Singapore Constitution (Modification of Laws) (No. 4) Order 1959 Date of commencement : 20 November 1959 7. 1970 Revised Edition — Foreign Recruiting Act (Chapter 247) Date of operation : 31 July 1971 8. 1985 Revised Edition — Foreign Recruiting Act (Chapter 112) Date of operation : 30 March 1987
