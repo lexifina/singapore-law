@@ -1,5 +1,5 @@
 # LEGISLATIVE HISTORY DANGEROUS FIREWORKS ACT (CHAPTER 72)
 
-1. Act 24 of 1972 — Dangerous Fireworks Act 1972 Date of First Reading : 21.3.72 (Bill No. 20/70 published on 28.3.72) Date of Second and Third Readings : 2.6.72 Date of commencement : 1.8.72
+This Legislative History is provided for the convenience of users of the Dangerous Fireworks Act. It is not part of the Act.
 
-2. Act 8 of 1988 — Dangerous Fireworks (Amendment) Act 1988 Date of First Reading : 25.2.88 (Bill No. 2/88 published on 26.2.88) Date of Second and Third Readings : 30.3.88 Date of commencement : 1.5.88
+1. Act 24 of 1972 — Dangerous Fireworks Act 1972 Date of First Reading : 21 March 1972 (Bill No. 20/70 published on 28 March 1972) Date of Second and Third Readings : 2 June 1972 Date of commencement : 1 August 1972 2. 1985 Revised Edition — Dangerous Fireworks Act (Chapter 72) Date of operation : 30 March 1987 3. Act 8 of 1988 — Dangerous Fireworks (Amendment) Act 1988 Date of First Reading : 25 February 1988 (Bill No. 2/88 published on 26 February 1988) Date of Second and Third Readings : 30 March 1988 Date of commencement : 1 May 1988 4. 1999 Revised Edition — Dangerous Fireworks Act (Chapter 72) Date of operation : 1 August 1999 5. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by) Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010) Date of Second and Third Readings : 19 May 2010 Date of commencement : 2 January 2011

@@ -1,17 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
 DANGEROUS FIREWORKS ACT
 (CHAPTER 72)
-Act
-24 of 1972
-1985 Ed. Cap. 72
-Amended by
-8 of 1988
-REVISED EDITION 1999
-(1st August 1999)
+(Original Enactment: Act 24 of 1972)
+REVISED EDITION 2014
+(28th February 2014)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
 PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+2014
 
 
 
-An Act to prohibit the possession, sale, transport, delivery, distri- bution, import or discharge of dangerous fireworks.
+An Act to prohibit the possession, sale, transport, delivery, distribution, import or discharge of dangerous fireworks.
 
 [1st August 1972]
