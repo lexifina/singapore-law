@@ -1,0 +1,5 @@
+# 18. Publishing, etc., propaganda of unlawful society
+
+Any person who prints, publishes, displays, sells or exposes for sale, or transmits through the post or who, without lawful authority or excuse, has in his possession any placard, newspaper, book, circular, pictorial representation or any other document or writing whatsoever which is issued or appears to be issued by or on behalf of or in the interests of an unlawful society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both, and any book, periodical, pamphlet, poster, proclamation, newspaper, letter or any other document or writing in respect of which the person is convicted shall be forfeited.
+
+[15/2004]
