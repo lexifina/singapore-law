@@ -1,4 +1,4 @@
-# 108. Advance rulings … … … … … … … … 425
+# 108. Advance rulings ... ... ... ... ... ... ... ... ... ... 734
 Part: PART XXI MISCELLANEOUS
 
 (1) The Comptroller may, on an application made by a person in accordance with Part I of the Seventh Schedule, make a ruling on any of the matters specified in that Part in accordance with that Part.
@@ -17,6 +17,6 @@ Part: PART XXI MISCELLANEOUS
 
 [34/2005]
 
-(5) In this section, ‘‘Authority’’ means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act (Cap. 138A).
+(5) In this section, “Authority” means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act (Cap. 138A).
 
 [34/2005]

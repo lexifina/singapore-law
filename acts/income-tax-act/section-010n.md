@@ -1,4 +1,4 @@
-# 10N. Securities lending or repurchase arrangement … … … 62
+# 10N. Securities lending or repurchase arrangement ... ... ... ... 74
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -12,7 +12,7 @@ Heading: Section Pages
 
 [37/2002]
 
-(2) Notwithstanding subsection (1), where a transferor is a person who carries on a trade or business of sale and purchase of securities, any gains or profits derived by him from any transfer of securities under a securities lending or repurchase arrangement shall be chargeable to tax under section 10 (1) (a) if subsequent to the transfer of the transferred securities —
+(2) Notwithstanding subsection (1), where a transferor is a person who carries on a trade or business of sale and purchase of securities, any gains or profits derived by him from any transfer of securities under a securities lending or repurchase arrangement shall be chargeable to tax under section 10(1)(a) if subsequent to the transfer of the transferred securities —
 
 (a) the transferred securities are redeemed;
 
@@ -22,11 +22,11 @@ Heading: Section Pages
 
 (d) the transferee sells the transferred securities to the issuer of such securities upon the direction of the transferor; or
 
-(e) any other event occurs which, in the opinion of the Comptroller, results in the condition specified in paragraph (a) (iii) or (iv) of the definition of ‘‘securities lending or repurchase arrangement’’ not fulfilled, and the gains or profits shall be deemed to arise at the time any of the events referred to in paragraph (a), (b), (c), (d) or (e) occurs.
+(e) any other event occurs which, in the opinion of the Comptroller, results in the condition specified in paragraph (a)(iii) or (iv) of the definition of “securities lending or repurchase arrangement” not fulfilled, and the gains or profits shall be deemed to arise at the time any of the events referred to in paragraph (a), (b), (c), (d) or (e) occurs.
 
 [37/2002]
 
-(3) Where a transferee is a person who carries on a trade or business of sale and purchase of securities, any gains or profits derived by him from any transfer of securities under a securities lending or repurchase arrangement shall be chargeable to tax under section 10 (1) (a), and the gains or profits shall be deemed to arise at the time any of the following events occurs:
+(3) Where a transferee is a person who carries on a trade or business of sale and purchase of securities, any gains or profits derived by him from any transfer of securities under a securities lending or repurchase arrangement shall be chargeable to tax under section 10(1)(a), and the gains or profits shall be deemed to arise at the time any of the following events occurs:
 
 (a) the transferee disposes of the transferred securities to a person other than the transferor; and
 
@@ -42,29 +42,21 @@ Heading: Section Pages
 
 [37/2002]
 
-(6) A Singapore-based transferee deriving in respect of transferred securities under a securities lending or repurchase arrangement any dividend from Singapore from which tax has been deducted under section 44 shall —
+(6) [Deleted by Act 19 of 2013]
 
-(a) not be entitled to any set-off under section 46 (1) in respect of the dividend;
+(7) A Singapore-based transferee (other than a transferee under a buy and sell back arrangement in respect of qualifying debt securities or foreign debt securities) shall not be entitled to any tax credit under section 50 or 50A for any distribution received by him from outside Singapore in respect of transferred securities under a securities lending or repurchase arrangement.
 
-(b) notify such person within such period as the Comptroller may require that he is a transferee; and
+[37/2002; 27/2009]
 
-(c) comply with such requirement as the Comptroller may impose.
+(8) Where any compensatory payment derived under a securities lending or repurchase arrangement by a transferor from a Singapore‑based transferee is in place of —
 
-[37/2002]
+(a) any dividend which is exempt from tax or interest which is derived from qualifying debt securities, the transferor shall be assessed at the tax rate that would have been applicable to the dividend or interest, as the case may be, had it been made directly to the transferor; or
 
-(7) A Singapore-based transferee (other than a transferee under a buy and sell back arrangement in respect of qualifying debt securities or foreign debt securities) shall not be entitled to any relief under section 48 or any tax credit under section 50 or 50A for any distribution received by him from outside Singapore in respect of transferred securities under a securities lending or repurchase arrangement.
+(b) [Deleted by Act 19 of 2013]
 
-[37/2002]
+(c) a distribution of income derived from outside Singapore and where the transferor is resident in Singapore, no tax credit under section 50 or 50A shall be allowed to the transferor.
 
-(8) Where any compensatory payment derived under a securities lending or repurchase arrangement by a transferor from a Singapore- based transferee is in place of —
-
-(a) any dividend which is exempt from tax or interest which is derived from qualifying debt securities, the transferor shall be assessed at the tax rate that would have been applicable to the dividend or interest, as the case may be, had it been made directly to the transferor;
-
-(b) a distribution of a dividend derived from Singapore from which tax has been deducted under section 44, no set-off under section 46 (1) shall be allowed to the transferor; or
-
-(c) a distribution of income derived from outside Singapore and where the transferor is resident in Singapore, no relief under section 48 and no tax credit under section 50 or 50A shall be allowed to the transferor.
-
-[37/2002]
+[37/2002; 27/2009; 19/2013]
 
 (9) Section 45 shall apply in relation to —
 
@@ -74,13 +66,13 @@ and
 
 (b) any compensatory payment in place of —
 
-(i) any distribution of income derived from outside Singapore;
+(i) any distribution of income derived from outside Singapore; or
 
-(ii) any dividend derived from Singapore from which tax has been deducted under section 44; or
+(ii) [Deleted by Act 19 of 2013]
 
 (iii) any interest (other than interest derived from qualifying debt securities), made under a securities lending or repurchase arrangement by a Singapore-based transferee to a transferor who is not resident in Singapore, as that section applies to any interest paid by a person to another person not known to him to be resident in Singapore, and for the purpose of such application, any reference in that section to interest shall be construed as a reference to such distribution of interest or compensatory payment.
 
-[37/2002]
+[37/2002; 19/2013]
 
 (10) For the purposes of this section, the Comptroller may specify such requirement and obligation to be observed, and such information in respect of any transferor, transferee or transferred securities to be furnished, by the depository agent of the transferor or transferee.
 
@@ -92,9 +84,9 @@ and
 
 (12) In this section —
 
-‘‘borrowing period’’, in relation to any transferred securities, means the period commencing from the date the securities are transferred by the transferor to the transferee and ending on the date the securities or equivalent securities are returned to the transferor or are regarded as being disposed of by the transferor under subsection (2), whichever is the earlier;
+“borrowing period”, in relation to any transferred securities, means the period commencing from the date the securities are transferred by the transferor to the transferee and ending on the date the securities or equivalent securities are returned to the transferor or are regarded as being disposed of by the transferor under subsection (2), whichever is the earlier;
 
-‘‘commercial purpose’’, in relation to any securities lending or repurchase arrangement, means —
+“commercial purpose”, in relation to any securities lending or repurchase arrangement, means —
 
 (a) the settling of a sale of securities, whether by the transferee or another person;
 
@@ -112,11 +104,11 @@ and
 
 (h) any other purpose as the Minister (or such person as the Minister may appoint) may in writing allow;
 
-‘‘compensatory payment’’, in relation to any transferred securities, means a payment made during the borrowing period to a transferor in place of any distribution of interest, dividend or right to purchase warrants, options or additional securities in respect of the transferred securities under circumstances in which the transferee does not receive such distribution to be passed on to the transferor, and includes any amount which is in place of interest and is deducted from the price paid by the transferor to acquire equivalent securities or re-acquire the transferred securities under a buy and sell back arrangement in respect of qualifying debt securities, Singapore Government securities or foreign debt securities;
+“compensatory payment”, in relation to any transferred securities, means a payment made during the borrowing period to a transferor in place of any distribution of interest, dividend or right to purchase warrants, options or additional securities in respect of the transferred securities under circumstances in which the transferee does not receive such distribution to be passed on to the transferor, and includes any amount which is in place of interest and is deducted from the price paid by the transferor to acquire equivalent securities or re-acquire the transferred securities under a buy and sell back arrangement in respect of qualifying debt securities, Singapore Government securities or foreign debt securities;
 
-‘‘equivalent securities’’, in relation to any transferred securities, means securities which are identical in type, nominal value (where applicable), description and amount to the transferred securities and includes —
+“equivalent securities”, in relation to any transferred securities, means securities which are identical in type, nominal value (where applicable), description and amount to the transferred securities and includes —
 
-(a) the securities into which the transferred securities have been converted, sub-divided or consolidated;
+(a) the securities into which the transferred securities have been converted, sub‑divided or consolidated;
 
 (b) the proceeds of the redemption of the transferred securities;
 
@@ -132,13 +124,13 @@ and
 
 (h) if the transferee is unable to return the transferred securities, such amount of money or securities equivalent to the transferred securities;
 
-‘‘foreign debt securities’’ means securities, other than stocks and shares, denominated in any foreign currency (including bonds and notes) issued by foreign governments, foreign banks outside Singapore and companies not incorporated and not resident in Singapore;
+“foreign debt securities” means securities, other than stocks and shares, denominated in any foreign currency (including bonds and notes) issued by foreign governments, foreign banks outside Singapore and companies not incorporated and not resident in Singapore;
 
-‘‘qualifying debt securities’’ has the same meaning as in section 13 (16);
+“qualifying debt securities” has the same meaning as in section 13(16);
 
-‘‘securities’’ includes any collateral that is provided in the form of securities but does not include stocks and shares of any company resident in Singapore which are not listed on any stock exchange in Singapore or elsewhere;
+“securities” includes any collateral that is provided in the form of securities but does not include stocks and shares of any company resident in Singapore which are not listed on any stock exchange in Singapore or elsewhere;
 
-‘‘securities lending or repurchase arrangement’’ means any written arrangement made on or after 23rd November 2001 —
+“securities lending or repurchase arrangement” means any written arrangement made on or after 23rd November 2001 —
 
 (a) under which —
 
@@ -150,7 +142,9 @@ and
 
 (iv) the transferor does not dispose of (by transfer, declaration of trust or otherwise) the right to receive any part of the total consideration payable or to be given by the transferee under the arrangement; and
 
-(v) if any distribution is made in respect of the transferred securities during the borrowing period, the transferor receives from the transferee the distribution or compensatory payment equal to the value of the distribution; and
+(v) if any distribution is made in respect of the transferred securities during the borrowing period, the transferor receives from the transferee the distribution or compensatory payment equal to the value of the distribution;
+
+and
 
 (b) where —
 
@@ -158,9 +152,9 @@ and
 
 (ii) the transferor or transferee or both of them do not enter into the arrangement with the purpose, or main purpose, of avoiding, reducing or deferring any tax chargeable under this Act;
 
-‘‘Singapore-based transferee’’ means a transferee who is resident in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which is a permanent establishment in Singapore;
+“Singapore-based transferee” means a transferee who is resident in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which is a permanent establishment in Singapore;
 
-‘‘Singapore Government securities’’ and ‘‘debt securities’’ have the same meanings as in section 43N.
+“Singapore Government securities” and “debt securities” have the same meanings as in section 43N.
 
 [37/2002; 34/2005]
 

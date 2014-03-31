@@ -1,15 +1,27 @@
-# 76. Service of notices of assessment and revision of assessment … 397
+# 76. Service of notices of assessment and revision of assessment 686
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
-(1) The Comptroller shall cause each person assessed to tax to be served, in accordance with section 8 (1), with —
+(1) The Comptroller shall cause each person assessed to tax to be served, in accordance with section 8(1), with —
 
 (a) where tax is payable, a notice stating the amount of his chargeable income together with the amount of tax payable and the place at which such payment should be made; or
 
-(b) where no tax is payable, a notice to that effect, and in either case the Comptroller shall inform the person assessed to tax of his rights under subsections (2) and (3).
+(b) where no tax is payable, a notice to that effect, and in either case the Comptroller shall inform the person assessed to tax of his rights under subsections (2) and (3) and (if applicable) his duty under subsection (8).
 
-[32/99; 49/2004]
+[32/99; 49/2004; 34/2008]
 
 (2) If any person disputes the assessment, he may apply to the Comptroller, by notice of objection in writing, to review and to revise the assessment made upon him.
+
+(2A) If the objection is made to any assessment, being one which —
+
+(a) is made on or after 20th December 2011; and
+
+(b) amends a previous assessment in any particular, then a person’s right to object to the assessment is limited to a right to object against the amendment in respect of, or matters relating to, that particular.
+
+[22/2011]
+
+(2B) In subsection (2A), the reference to an assessment which amends a previous assessment in any particular includes one which amends the amount of unabsorbed losses, allowances or donations in that previous assessment that may be carried forward but the tax payable remains nil.
+
+[22/2011]
 
 (3) Such application shall state precisely the grounds of his objections to the assessment and shall be made within 30 days from the date of the service of the notice of assessment.
 
@@ -25,8 +37,16 @@ Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (a) agreeing with the Comptroller as to the amount at which he is liable to be assessed, the assessment shall be amended accordingly, and notice of the revised assessment shall be served upon that person; or
 
-(b) failing to agree with the Comptroller as to the amount at which he is liable to be assessed, the Comptroller shall, if any tax is payable, give him notice of refusal to amend the assessment as desired by that person and may revise the assessment to such amount as the Comptroller may determine, according to the best of his judgment, and the Comptroller shall give him notice of the revised assessment and of the tax payable together with notice of refusal to amend the revised assessment.
+(b) failing to agree with the Comptroller as to the amount at which he is liable to be assessed, the Comptroller shall give him notice of refusal to amend the assessment and may revise the assessment to such amount as the Comptroller may determine, according to the best of his judgment, and the Comptroller shall give him notice of the revised assessment and of the tax payable, or the amount of refund of tax (as a result of the operation of section 46) or unabsorbed allowances, losses or donations, together with notice of refusal to amend the revised assessment.
 
-[32/99]
+[32/99; 22/2011]
 
-(7) Wherever requisite, any reference in this Act to an assessment or an additional assessment shall be construed as including a reference to an assessment or additional assessment as revised under subsection (6) (b).
+(7) Wherever requisite, any reference in this Act to an assessment or an additional assessment shall be construed as including a reference to an assessment or additional assessment as revised under subsection (6)(b).
+
+(8) If any incorrect information appears in a notice of assessment for any year of assessment served on a person who is exempted from the liability to furnish a return under section 62(2), he shall, within 30 days from the date of service of the notice or such extended time as the Comptroller may allow, inform the Comptroller by notice in writing —
+
+(a) if the incorrect information relates to any understatement or omission of income, of the correct amount of income from every source for that year of assessment; or
+
+(b) if the incorrect information relates to any deduction or relief which is excessive or which is wrongly granted, of the correct amount of deduction or relief for that year of assessment or the fact that the deduction or relief is wrongly granted, as the case may be.
+
+[34/2008]

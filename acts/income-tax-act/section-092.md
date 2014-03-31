@@ -1,39 +1,39 @@
-# 92. Remission of tax … … … … … … … … 413
+# 92. Remission, reduction or refund of tax ... ... ... ... ... 706
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 Heading: Section Pages
 
 (1) The Comptroller may remit, wholly or in part, the tax payable by any person on the ground of poverty.
 
-(2) The Minister may, in his discretion, remit, wholly or in part, the tax payable by any person if he is satisfied that it is just and equitable to do so.
+[29/2010]
 
-(3) Subject to rules made under subsection (4), there shall be remitted the tax payable by any company —
+(2) The Minister may at any time, in his discretion and subject to such conditions as he may impose, remit, reduce or refund, wholly or in part, the tax that is or will be payable or that is paid by any person.
 
-(a) for the year of assessment 2001, a sum equal to —
+[29/2010]
 
-(i) 50% on every dollar of the first $25,500 of the specified tax payable by the company for that year of assessment; and
+(2A) The Minister may, by order published in the Gazette, remit, reduce or refund, wholly or in part, the tax that is or will be payable or that is paid by any class of persons, subject to such conditions as he may specify in the order.
 
-(ii) 5% on every dollar exceeding $25,500 of the specified tax payable by the company for that year of assessment; and
+[29/2010]
 
-(b) for the year of assessment 2002, a sum equal to 5% of the specified tax payable by the company for that year of assessment, where the Comptroller is satisfied that the remission of tax would be beneficial to the company.
+(2B) Where the Minister is satisfied that a person to whom a remission, reduction or refund of tax is granted fails to comply with any condition imposed under subsection (2) or (2A) (whether a condition precedent or condition subsequent), an amount equal to the amount of tax so remitted, reduced or refunded shall be recoverable as a debt due to the Government.
 
-[37/2002]
+[29/2010]
 
-(4) The Minister may make rules to provide for —
+(2C) The amount recoverable under subsection (2B) shall be payable at the place stated in a notice served by the Comptroller on the person within one month after the service of the notice.
 
-(a) the exemption from tax of certain dividends received by a shareholder of a company which has been given the remission of tax under subsection (3) where the dividends are received by him from that company;
+[29/2010]
 
-(b) the exemption from tax of certain dividends received by a shareholder of a company where the dividends are paid by the company out of any dividend which has been exempt from tax under this subsection;
+(2D) The Comptroller may, in his discretion and subject to such terms and conditions (including the imposition of interest) as he may impose, extend the time limit within which payment is to be made.
 
-(c) the computation of the amount of tax payable on any dividend derived from Singapore from which tax has been deducted under section 44 for the purposes of the remission under subsection (3); and
+[29/2010]
 
-(d) generally giving effect to this section.
+(2E) Sections 86(1) to (6), 87(1) and (2), 89, 90 and 91 shall apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (2B) and any interest imposed under subsection (2D) as they apply to the collection and recovery of tax.
 
-[32/99]
+[29/2010]
 
-(5) In this section, ‘‘specified tax payable’’, in relation to a company for the year of assessment 2001 or 2002, as the case may be, means the amount of tax payable by the company ascertained by deducting from the tax payable of the company for the year of assessment 2001 or 2002, as the case may be, computed in accordance with this Act, and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) if the company is given tax relief under that Act —
+(3) [Deleted by Act 19 of 2013]
 
-(a) any tax payable on any dividend derived from Singapore from which tax has been deducted under section 44; and
+(4) The Minister may make rules for the purpose of giving effect to this section.
 
-(b) any tax payable on any income which is subject to tax at the rate of 15% under section 43 (3).
+[19/2013]
 
-[32/99; 37/2002]
+(5) [Deleted by Act 19 of 2013]

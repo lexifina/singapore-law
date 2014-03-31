@@ -1,11 +1,11 @@
-# 78. Board of Review … … … … … … … … 399
+# 78. Board of Review ... ... ... ... ... ... ... ... ... ... 689
 Part: PART XVIII APPEALS
 
 (1) For the purpose of hearing appeals in the manner hereinafter provided, there shall be a Board of Review (referred to in this Part as the Board) consisting of not more than 30 members appointed from time to time by the Minister.
 
 [1/90]
 
-(2) Members of the Board shall hold office for such period as may be determined by the Minister and shall be eligible for re-appointment.
+(2) Members of the Board shall hold office for such period as may be determined by the Minister and shall be eligible for re‑appointment.
 
 (3) The Minister may at any time remove any member of the Board from office without assigning any reason.
 
@@ -93,4 +93,4 @@ Part: PART XVIII APPEALS
 
 and
 
-(f) generally for the better carrying out of the provisions of this Part.
+(f) generally for the better carrying out of the provisions of this

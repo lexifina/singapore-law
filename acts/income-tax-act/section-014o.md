@@ -1,4 +1,4 @@
-# 14O. Deduction for special reserve of approved general insurer … 177
+# 14O. Deduction for special reserve of approved general insurer ... 254
 Part: PART V DEDUCTIONS AGAINST INCOME
 Heading: Section Pages
 
@@ -20,8 +20,8 @@ Heading: Section Pages
 
 (3) In this section —
 
-‘‘insurer’’ has the same meaning as in section 43C;
+“insurer” has the same meaning as in section 43C;
 
-‘‘offshore risk’’ has the same meaning as in section 26.
+“offshore risk” has the same meaning as in section 26.
 
 [34/2005]

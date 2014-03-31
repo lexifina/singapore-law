@@ -1,4 +1,4 @@
-# 43W. Concessionary rate of tax for shipping investment manager … 341
+# 43W. Concessionary rate of tax for shipping investment manager 606
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
@@ -10,7 +10,7 @@ Heading: Section Pages
 
 [7/2007]
 
-(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37 (3).
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [7/2007]
 
@@ -18,16 +18,20 @@ Heading: Section Pages
 
 [7/2007]
 
-(4) Approval may be granted under this section between 1st March 2006 and 28th February 2011.
+(4) Approval of a shipping investment manager under this section may be granted between 1st March 2006 and 28th February 2011.
 
-[7/2007]
+[7/2007; 29/2010]
+
+(4A) Approval of a shipping investment manager under this section may be granted between 1st March 2011 and 31st May 2016 for such period not exceeding 5 years as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
+
+[29/2010; 22/2011]
 
 (5) In this section —
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
+“approved” means approved by the Minister or such person as he may appoint;
 
-‘‘shipping investment enterprise’’ has the same meaning as in section 13S;
+“shipping investment enterprise” has the same meaning as in section 13S;
 
-‘‘shipping investment manager’’ means any company incorporated in Singapore.
+“shipping investment manager” means any company incorporated in Singapore.
 
 [7/2007]

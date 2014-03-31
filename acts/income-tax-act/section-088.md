@@ -1,4 +1,4 @@
-# 88. Change of address … … … … … … … … 410
+# 88. Change of address ... ... ... ... ... ... ... ... ... 702
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 (1) Subject to subsection (2), every person liable to pay income tax under the provisions of this Act shall inform the Comptroller in writing of any change in his address.
@@ -13,4 +13,4 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 [28/94]
 
-(3) Any notice or process given or served upon any person by posting the same or a copy thereof by registered post to him at his last known address shall, notwithstanding section 8 (3), be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.
+(3) Any notice or process given or served upon any person by posting the same or a copy thereof by registered post to him at his last known address shall, notwithstanding section 8(3), be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.

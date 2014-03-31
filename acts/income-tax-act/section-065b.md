@@ -1,4 +1,4 @@
-# 65B. Power of Comptroller to obtain information … … … 386
+# 65B. Power of Comptroller to obtain information ... ... ... ... 670
 Part: PART XVI RETURNS
 
 (1) The Comptroller or any officer authorised by him in that behalf —
@@ -29,10 +29,22 @@ Part: PART XVI RETURNS
 
 [37/2002]
 
-(2) No person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
+(2) A person shall not be obliged under this section to disclose —
 
-(3) The Comptroller may require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
+(a) any information which he is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act (Cap. 97)) to observe secrecy; or
 
-(4) In this section, ‘‘computer’’ and ‘‘computer output’’ have the same meanings as in the Computer Misuse Act (Cap. 50A).
+(b) any information subject to legal privilege.
 
-[37/2002]
+[19/2013]
+
+(3) The Comptroller may by notice require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
+
+[19/2013]
+
+(3A) The time for compliance with a notice under subsection (3) shall be 21 days from the date of service of the notice or such other period as the Comptroller considers appropriate.
+
+[19/2013]
+
+(4) In this section, “computer” and “computer output” have the same meanings as in the Computer Misuse and Cybersecurity Act (Cap. 50A).
+
+[37/2002; 3/2013]

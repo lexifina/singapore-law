@@ -1,4 +1,4 @@
-# 62. Notice of chargeability and returns … … … … … 381
+# 62. Notice of chargeability and returns ... ... ... ... ... ... 664
 Part: PART XVI RETURNS
 
 (1) The Comptroller may, by notice published in the Gazette, require every person to furnish to the Comptroller in such form and manner as the Comptroller may determine, within a reasonable time specified in the notice or such extended time as the Comptroller may allow, a return of income for the year of assessment specified in the notice and such particulars as may be required for the purpose of ascertaining the income, if any, for which —
@@ -9,9 +9,9 @@ Part: PART XVI RETURNS
 
 [49/2004]
 
-(2) The Comptroller may, in any notice made under subsection (1), exempt from liability to furnish returns such classes of persons not liable to pay tax as he thinks fit, and any person so exempted need not furnish a return under that subsection unless he is required by the Comptroller to do so under subsection (3).
+(2) The Comptroller may, in any notice made under subsection (1), exempt from liability to furnish returns such classes of persons as he thinks fit, and any person so exempted need not furnish a return under that subsection unless he is required by the Comptroller to do so under subsection (3).
 
-[2/92]
+[2/92; 34/2008]
 
 (3) Notwithstanding subsection (1), the Comptroller may, by notice in writing, require any person to furnish to the Comptroller in such form and manner and within such reasonable time as the Comptroller may determine, with a return of income and such particulars as may be required for the purpose of ascertaining the income, if any, for which such person is chargeable under this Act.
 

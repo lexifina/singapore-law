@@ -1,5 +1,5 @@
-# 26. Profits of insurers … … … … … … … … 225
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
+# 26. Profits of insurers... ... ... ... ... ... ... ... ... ... 378
+Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (1) Subject to section 34A, this section has effect notwithstanding anything to the contrary in this Act except that nothing in this section shall affect the chargeability to tax of any income of an insurer under section 10.
 
@@ -35,11 +35,7 @@ Insurers other than life insurers
 
 [7/79; 9/80; 20/91; 26/93; 21/2003; 7/2007]
 
-Export credit insurers
-
-(5) In the case of an insurer engaged primarily in the business of export credit insurance, the gains or profits on which tax is payable shall be ascertained by such underwriting accounting method as the Comptroller may approve.
-
-[1/82; 7/2007]
+(5) [Deleted by Act 19 of 2013]
 
 Life insurers
 
@@ -47,9 +43,9 @@ Life insurers
 
 (a) in the case of insurance funds established and maintained for Singapore policies, the amount computed in the following manner:
 
-(i) taking the amount allocated out of the participating fund by way of bonus to the participating policies in accordance with section 17 (6) (b) of the Insurance Act (Cap. 142);
+(i) taking the amount allocated out of the participating fund by way of bonus to the participating policies in accordance with section 17(6)(b) of the Insurance Act (Cap. 142);
 
-(ii) adding thereto the amount allocated to the surplus account of the participating fund in accordance with section 17 (6) (c) or (7) of the Insurance Act;
+(ii) adding thereto the amount allocated to the surplus account of the participating fund in accordance with section 17(6)(c) or (7) of the Insurance Act;
 
 (iii) deducting from the balance so arrived at any receipt of the participating fund which is not chargeable to tax and adding thereto any expense of the participating fund which is not deductible for the purposes of this Act;
 
@@ -61,9 +57,9 @@ Life insurers
 
 (c) in the case of insurance funds established and maintained for offshore policies, the amount computed in the following manner:
 
-(i) taking the amount allocated out of the participating fund by way of bonus to the participating policies in accordance with section 17 (6) (b) of the Insurance Act;
+(i) taking the amount allocated out of the participating fund by way of bonus to the participating policies in accordance with section 17(6)(b) of the Insurance Act;
 
-(ii) adding thereto the amount allocated to the surplus account of the participating fund in accordance with section 17 (6) (c) or (7) of the Insurance Act;
+(ii) adding thereto the amount allocated to the surplus account of the participating fund in accordance with section 17(6)(c) or (7) of the Insurance Act;
 
 (iii) deducting from the balance so arrived at any receipt of the participating fund which is not chargeable to tax and adding thereto any expense of the participating fund which is not deductible for the purposes of this Act;
 
@@ -81,9 +77,9 @@ Life insurers
 
 (i) the amount in relation to insurance funds established and maintained for offshore policies, computed in the following manner:
 
-(A) taking the amount allocated out of the participating fund by way of bonus to the participating policies in accordance with section 17 (6) (b) of the Insurance Act (Cap. 142);
+(A) taking the amount allocated out of the participating fund by way of bonus to the participating policies in accordance with section 17(6)(b) of the Insurance Act;
 
-(B) adding thereto the amount allocated to the surplus account of the participating fund in accordance with section 17 (6) (c) or (7) of the Insurance Act;
+(B) adding thereto the amount allocated to the surplus account of the participating fund in accordance with section 17(6)(c) or (7) of the Insurance Act;
 
 (C) deducting from the balance so arrived at any receipt of the participating fund which is not chargeable to tax and adding thereto any expense of the participating fund which is not deductible for the purposes of this Act;
 
@@ -105,13 +101,13 @@ Life insurers
 
 (ii) any losses incurred by the insurer may be deducted under section 37;
 
-(b) the allowances under section 19, 19A, 20, 21, 22 or 23 or the losses under section 37 in respect of such part of the income of the insurer as is apportioned to the policyholders of the insurer in accordance with regulations made under section 43 (9) or 43C in any year of assessment —
+(b) the allowances under section 19, 19A, 20, 21, 22 or 23 or the losses under section 37 in respect of such part of the income of the insurer as is apportioned to the policyholders of the insurer in accordance with regulations made under section 43(9) or 43C in any year of assessment —
 
-(i) shall only be available for deduction against such part of the income as is so apportioned in accordance with regulations made under section 43 (9) or 43C for that year of assessment, as the case may be; and
+(i) shall only be available for deduction against such part of the income as is so apportioned in accordance with regulations made under section 43(9) or 43C for that year of assessment, as the case may be; and
 
 (ii) the balance of such allowances or losses shall be added to, and be deemed to form part of, the corresponding allowances or losses, if any, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be;
 
-(c) section 37B shall apply, with the necessary modifications, in relation to the deduction of allowances under section 19, 19A, 20, 21, 22 or 23 or the losses under section 37 in respect of such part of the income of the insurer (being a company) as is subject to tax at the rate of tax under section 43 (1) (a) and of such part of the income of the insurer (being a company) as is apportioned to the shareholders of the insurer in accordance with regulations made under section 43C; and for the purpose of such application any reference in section 37B to income of a company subject to tax at a lower rate of tax or income of the company subject to tax at a lower rate of tax, as the case may be, shall be read as a reference to such part of the income of the insurer as is apportioned to the shareholders of the insurer in accordance with regulations made under section 43C; and
+(c) section 37B shall apply, with the necessary modifications, in relation to the deduction of allowances under section 19, 19A, 20, 21, 22 or 23 or the losses under section 37 in respect of such part of the income of the insurer (being a company) as is subject to tax at the rate of tax under section 43(1)(a) and of such part of the income of the insurer (being a company) as is apportioned to the shareholders of the insurer in accordance with regulations made under section 43C; and for the purpose of such application any reference in section 37B to income of a company subject to tax at a lower rate of tax or income of the company subject to tax at a lower rate of tax, as the case may be, shall be read as a reference to such part of the income of the insurer as is apportioned to the shareholders of the insurer in accordance with regulations made under section 43C; and
 
 (d) in a case where, immediately before the life insurer ceases business permanently without transferring the business to any person in Singapore, there is an amount remaining in the participating fund which is not allocated by way of bonus to any participating policy, the Comptroller may make such adjustment to the tax liability of the life insurer as he thinks fit.
 
@@ -137,33 +133,39 @@ Composite insurers
 
 Definitions
 
-(12) In this section, and section 43C (except in relation to the definition of ‘‘insurer’’) —
+(12) In this section, and section 43C (except in relation to the definition of “insurer”) —
 
-‘‘income of the shareholders’ fund’’ means —
+1
+
+“income of the shareholders’ fund” means —
 
 (a) gains or profits on the sale of investments of the shareholders’ fund, whether derived from Singapore or elsewhere; and
 
 (b) investment income and other income of the shareholders’ fund derived from Singapore or received in Singapore from outside Singapore;
 
-‘‘insurer’’ means —
+“insurer” means —
 
-(a) a company registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore;
-
-or
+(a) a company licensed under the Insurance Act to carry on insurance business in Singapore; or
 
 (b) a person (including a partnership) permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme;
 
-‘‘investment-linked fund’’ means an insurance fund for investment-linked policies established and maintained under section 17 (1A) of the Insurance Act;
+“investment-linked fund” means an insurance fund for investment-linked policies established and maintained under section 17(1A) of the Insurance Act;
 
-‘‘investment-linked policies’’, ‘‘non-participating policies’’ and ‘‘participating policies’’ have the same meanings as in the First Schedule to the Insurance Act;
+“investment-linked policies”, “non-participating policies” and “participating policies” have the same meanings as in the First Schedule to the Insurance Act;
 
-‘‘life insurance surplus’’, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained —
+“life insurance surplus”, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained —
+
+1
+
+The definition of “accident and health policy” will be inserted immediately before the definition of “income of the shareholders’ fund” as follows from the year of assessment 2015, as set out in section 21(1)(b) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013):
+
+“ “accident and health policy” has the same meaning as in the Insurance Act (Cap. 142);”.
 
 (a) by taking the aggregate of —
 
 (i) the gross premiums (including consideration paid or payable for the purchase of annuities) from Singapore non-participating and Singapore investment-linked policies of any life insurance fund established and maintained under the Insurance Act (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act (Cap. 142) relating to Singapore non-participating and Singapore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act; and
+(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to Singapore non- participating and Singapore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act; and
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund established and maintained under the Insurance Act relating to Singapore non-participating and Singapore investment-linked policies; and
 
@@ -177,11 +179,13 @@ or
 
 (iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to Singapore non-participating and Singapore investment- linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act;
 
-‘‘life policy’’ has the same meaning as in the Insurance Act (Cap. 142);
+“life policy” has the same meaning as in the Insurance Act;
 
-‘‘non-participating fund’’ means an insurance fund established and maintained under section 17 (2) of the Insurance Act which comprises wholly of non-participating policies;
+“non-participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly of non-participating policies;
 
-‘‘offshore life business’’ means the business of insuring or reinsuring the liability under any of the following life policies of any life insurance fund established under the Insurance Act:
+2
+
+“offshore life business” means the business of insuring or reinsuring the liability under any of the following life policies of any life insurance fund established under the Insurance Act:
 
 (a) in relation to direct life insurance, any life policy other than a Singapore life policy;
 
@@ -189,19 +193,23 @@ or
 
 (c) in relation to treaty life reinsurance, a reinsurance policy where —
 
-(i) the ceding party is a company incorporated outside Singapore and not resident in Singapore, or is not a permanent establishment in Singapore;
+(i) the ceding party is a company incorporated outside Singapore and not resident in Singapore, or is not a permanent establishment in Singapore; or
 
-or
+2
+
+The definition of “offshore life business” will be deleted and substituted as follows from the year of assessment 2015, as set out in section 21(1)(c) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013):
+
+“ “offshorelifebusiness” means the business of insuring or reinsuring the liability of a life policy, or accident and health policy, of any life insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;”.
 
 (ii) the liability in respect of any life policy referred to in paragraph (a) is ceded by a party which is a company incorporated and resident in Singapore or a permanent establishment in Singapore;
 
-‘‘offshore life insurance surplus’’, in relation to the non- participating fund and the investment-linked fund of an insurer, means the amount ascertained —
+“offshore life insurance surplus”, in relation to the non- participating fund and the investment-linked fund of an insurer, means the amount ascertained —
 
 (a) by taking the aggregate of —
 
 (i) the gross premiums (including consideration paid or payable for the purchase of annuities) from offshore non-participating and offshore investment-linked policies of any life insurance fund established and maintained under the Insurance Act (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act (Cap. 142) relating to offshore non-participating and offshore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act; and
+(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to offshore non- participating and offshore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act; and
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund established and maintained under the Insurance Act relating to offshore non-participating and offshore investment-linked policies; and
 
@@ -215,20 +223,30 @@ or
 
 (iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to offshore non- participating and offshore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act;
 
-‘‘offshore life policy’’ means a policy issued in respect of offshore life insurance business;
+3
 
-‘‘offshore risk’’ means any risk outside Singapore and —
+“offshore risk” means any risk outside Singapore and —
 
 (a) in relation to direct general insurance or facultative general reinsurance, the insured is not a person resident in Singapore or a permanent establishment in Singapore; and
 
 (b) in relation to treaty general reinsurance, not less than 75% of the total risk in terms of gross premiums is outside Singapore, and where any such risk is in transit in Singapore, it shall be deemed to be outside Singapore;
 
-‘‘participating fund’’ means an insurance fund established and maintained under section 17 (2) of the Insurance Act (Cap. 142) which comprises wholly or partly of participating policies;
+“participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly or partly of participating policies;
 
-‘‘policy liabilities’’, in relation to the non-participating fund and the investment-linked fund of an insurer, means liabilities in respect of policies for which the non-participating fund and investment-linked fund are established and maintained under section 17 of the Insurance Act;
+3
 
-‘‘policy moneys’’ has the same meaning as in the Insurance Act;
+The definition of “offshore risk” will be deleted and substituted as follows from the year of assessment 2015, as set out in section 21(1)(e) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013):
 
-‘‘Singapore life policy’’ means a life policy as described in the definition of ‘‘Singapore policy’’ in the Insurance Act.
+“ “offshore risk” means a risk or liability that is insured by a policy of any general insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;”.
 
-[28/92; 7/2007]
+“policy liabilities”, in relation to the non-participating fund and the investment-linked fund of an insurer, means liabilities in respect of policies for which the non-participating fund and investment-linked fund are established and maintained under section 17 of the Insurance Act;
+
+“policy moneys” has the same meaning as in the Insurance Act;
+
+4
+
+“Singapore life policy” means a life policy as described in the definition of “Singapore policy” in the Insurance Act;
+
+“surplus account”, in relation to a participating fund of a life insurer, means the surplus account established and maintained under section 17(6)(a) of the Insurance Act as part of that fund.
+
+[28/92; 7/2007; 27/2009; 11/2013; 19/2013]

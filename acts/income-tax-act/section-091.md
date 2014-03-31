@@ -1,8 +1,8 @@
-# 91. Deduction of tax from emoluments and pensions … … 412
+# 91. Deduction of tax from emoluments and pensions ... ... ... 704
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 Heading: Section Pages
 
-(1) Where any income chargeable under section 10 (1) (b) or (e) is payable to any individual, deductions on account of tax which is or will be payable by him for any year of assessment shall, if the Comptroller so directs, be made out of the income or any arrears thereof.
+(1) Where any income chargeable under section 10(1)(b) or (e) is payable to any individual, deductions on account of tax which is or will be payable by him for any year of assessment shall, if the Comptroller so directs, be made out of the income or any arrears thereof.
 
 (2) Subject to any rules made under section 7, deductions authorised by this section shall be made at such times and in such amounts as the Comptroller shall direct whether or not the tax has been assessed;
 
@@ -26,14 +26,14 @@ except that if on the assessment becoming final and conclusive it appears that t
 
 (7) For the purpose of section 85, the Comptroller shall determine the period within which the tax shall be payable.
 
-(8) An employer who fails to comply with section 68 (7) shall be liable to pay the full amount of the tax which by reason of such failure cannot be recovered from such employee.
+(8) An employer who fails to comply with section 68(7) shall be liable to pay the full amount of the tax which by reason of such failure cannot be recovered from such employee.
 
 (9) The Comptroller shall apply any amount recovered by or paid to him in or towards payment of the tax payable by the employee.
 
 (10) The employer may recover from the employee any amount which he has paid to the Comptroller or which has been recovered from him by the Comptroller under subsection (8).
 
-(11) Any partner who fails to comply with section 68 (11) shall be liable to pay the amount of the tax which by reason of such failure cannot be recovered from the person who has ceased to be a partner.
+(11) Any partner who fails to comply with section 68(11) shall be liable to pay the amount of the tax which by reason of such failure cannot be recovered from the person who has ceased to be a partner.
 
-(12) The liability of a remaining partner under subsection (11) shall not exceed the amount paid by that partner in contravention of section 68 (11).
+(12) The liability of a remaining partner under subsection (11) shall not exceed the amount paid by that partner in contravention of section 68(11).
 
 (13) Nothing in subsection (11) shall preclude a partner who pays any amount of tax under that subsection from recovering such amount from the person who has ceased to be a partner.

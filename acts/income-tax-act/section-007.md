@@ -1,4 +1,4 @@
-# 7. Rules … … … … … … … … … … 22
+# 7. Rules ... ... ... ... ... ... ... ... ... ... ... ... 26
 Part: PART II ADMINISTRATION
 
 (1) The Minister may make rules —

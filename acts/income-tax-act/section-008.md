@@ -1,4 +1,4 @@
-# 8. Service and signature of notices … … … … … … 22
+# 8. Service and signature of notices ... ... ... ... ... ... ... 26
 Part: PART II ADMINISTRATION
 
 (1) Except where it is provided by this Act that service shall be effected either personally or by registered post, a notice may be served on a person —

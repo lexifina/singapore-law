@@ -1,21 +1,25 @@
-# 6. Official secrecy … … … … … … … … … 19
+# 6. Official secrecy ... ... ... ... ... ... ... ... ... ... 22
 Part: PART II ADMINISTRATION
 
 (1) Every person having any official duty or being employed in the administration of this Act shall regard and deal with all documents, information, returns, assessment lists and copies of such lists relating to the income or items of the income of any person, as secret and confidential, and shall make and subscribe a declaration in the form prescribed to that effect before the Comptroller or a Magistrate.
 
-(2) Every person having possession or control over any documents, information, returns, assessment lists or copies of such lists relating to the income or items of income of any person, who at any time otherwise than for the purpose of this Act or with the express authority of the President —
+(2) Every person having possession of or control over any documents, information, returns, assessment lists or copies of such lists relating to the income or items of income of any person, who at any time otherwise than for the purpose of this Act or with the express authority of the President —
 
 (a) communicates or attempts to communicate such information or anything contained in such documents, returns, lists or copies to any person; or
 
 (b) suffers or permits any person to have access to any such information or to anything contained in such documents, returns, lists or copies, shall be guilty of an offence.
 
-(3) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence committed in relation to income tax.
+(3) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence under this Act.
 
-(4) The obligation as to secrecy imposed by this section shall not prevent the disclosure to the authorised officers of the government of any other country of such facts as may be necessary —
+[19/2013]
 
-(a) to enable the proper relief from income tax to be given in either country, where provision exists for the granting of relief in respect of taxes paid in the other country; or
+(4) The obligation as to secrecy imposed by this section shall not prevent the disclosure to the authorised officers of the government of any other country —
 
-(b) for the avoidance of double taxation and the prevention of fiscal evasion in either country, where an arrangement under section 49 is in operation between the government of that country and the Government of Singapore.
+(a) of such facts as may be necessary to enable the proper relief from income tax to be given in either country, where provision exists for the granting of relief in respect of taxes paid in the other country; or
+
+(b) of any information for the purpose of discharging an obligation of Singapore under an arrangement between the government of that country and the Government of Singapore that has effect under section 49 or 105BA, or under any agreement or arrangement between the government of that country and the Government of Singapore and to which Part XXB applies.
+
+[22/2011; 19/2013]
 
 (5) Notwithstanding anything in this section, the Comptroller shall permit the Minister, the Auditor-General or any officer duly authorised in that behalf by the Auditor-General to have such access to any records or documents as may be necessary for the performance of his official duties.
 
@@ -40,6 +44,22 @@ the Commissioner of Estate Duties may, notwithstanding anything contained in any
 (10A) Notwithstanding anything in this section, the Comptroller may, for the purpose of enabling the Chief Statistician to perform his duties under the Statistics Act (Cap. 317), furnish and permit the Chief Statistician access to any information and records prescribed in rules made under section 7.
 
 [16/2004]
+
+(10B) Notwithstanding anything in this section, the Comptroller may furnish to any person specified in subsection (10C) any information —
+
+(a) which may be required for the purpose of investigating or prosecuting a person for an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A), the predicate offence of which is an offence under this Act; or
+
+(b) which the Comptroller has reasonable grounds to suspect affords evidence of the commission of an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the predicate offence of which is an offence under this Act, and the specified person and persons under his command shall not further disclose such information except for the purpose of any investigation or prosecution referred to in paragraph (a).
+
+[21/2013]
+
+(10C) The persons specified for the purposes of subsection (10B) are as follows:
+
+(a) the Commissioner of Police;
+
+(b) the Director of the Commercial Affairs Department.
+
+[21/2013]
 
 (11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
 

@@ -1,4 +1,4 @@
-# 82. Cases stated for High Court … … … … … … 406
+# 82. Cases stated for High Court ... ... ... ... ... ... ... 698
 Part: PART XVIII APPEALS
 
 (1) The Board may at any time and in regard to any appeal, with or without proceeding to the determination of the appeal, state a case on a question of law for the opinion of the High Court.
@@ -13,6 +13,8 @@ Part: PART XVIII APPEALS
 
 (5) In considering any stated case, the High Court shall afford opportunity for argument thereon to be put forward by or on behalf of the appellant and the Comptroller.
 
-(6) The High Court shall hear and determine any question of law arising on a stated case and may in accordance with its decision thereon confirm, reduce, increase or annul any assessment determined by the Board in the appeal, or may remit the case to the Board with the opinion of the Court thereon.
+(6) The High Court shall hear and determine any question of law arising on a stated case and may in accordance with its decision thereon confirm, reduce, increase or annul any assessment (including the amount of any unabsorbed losses, allowances or donations that may be carried forward) determined by the Board in the appeal, or may remit the case to the Board with the opinion of the Court thereon.
+
+[22/2011]
 
 (7) Where a case is so remitted by the High Court, the Board shall be bound by the opinion of the Court and shall give effect thereto by its decision in the appeal or, as the case may be, by revising any previous decision made by it in the appeal to the extent, if any, to which that previous decision does not accord with the opinion of the Court.

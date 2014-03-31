@@ -1,4 +1,4 @@
-# 36B. Registered business trusts … … … … … … … 259
+# 36B. Registered business trusts ... ... ... ... ... ... ... ... 429
 Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 (1) For the purposes of this Act, except as otherwise provided, references to a company shall be read as including a reference to a registered business trust or, as the context requires, to the trustee-manager of a registered business trust subject to the following modifications:
@@ -17,13 +17,13 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 (iv) units held by or on behalf of the trustee of the estate of a deceased unitholder or by or on behalf of the person entitled to those units as beneficiaries under the will or any intestacy of a deceased unitholder shall be deemed to be held by that deceased unitholder;
 
-(b) for the purpose of section 24 (1) —
+(b) for the purpose of section 24(1) —
 
 (i) a body of persons shall be deemed to have control over a registered business trust if —
 
 (A) the body of persons is a company and it holds more than 50% of the units in the registered business trust; or
 
-(B) the body of persons is another registered business trust and they hold on trust for their unitholders more than 50% of the units in the first mentioned registered business trust;
+(B) the body of persons is another registered business trust and they hold on trust for their unitholders more than 50% of the units in the first‑mentioned registered business trust;
 
 (ii) a registered business trust shall be deemed to have control over a company if —
 
@@ -41,20 +41,22 @@ Part: PART VIII ASCERTAINMENT OF STATUTORY INCOME
 
 (ii) any reference to ordinary share or ordinary share capital in a company shall be read as a reference to the units in a registered business trust; and
 
-(iii) any reference to residual assets or residual profits in a company shall be read as a reference to the residual assets and residual profits of a registered business trust; and
+(iii) any reference to residual assets or residual profits in a company shall be read as a reference to the residual assets and residual profits of a registered business trust;
+
+(ca) for the purposes of section 13Z, any reference to ordinary shares in an investee company which are legally and beneficially owned by a divesting company shall be read as a reference to ordinary shares in the investee company which are trust property of the registered business trust; and
 
 (d) sections 10I, 10J, 10K and 10M shall not apply to a registered business trust.
 
-[34/2005]
+[34/2005; 29/2012]
 
-(2) The statutory income of a registered business trust shall be computed in accordance with section 35 (11).
-
-[34/2005]
-
-(3) Sections 35 (15), 43 (2) and 46 (1) (b) shall not apply to any registered business trust or unitholders of any registered business trust.
+(2) The statutory income of a registered business trust shall be computed in accordance with section 35(11).
 
 [34/2005]
 
-(4) In this section, ‘‘business trust’’, ‘‘registered business trust’’, ‘‘trustee-manager’’, ‘‘unit’’ and ‘‘unitholder’’ have the same meanings as in the Business Trusts Act (Cap. 31A).
+(3) Sections 35(15) and 43(2) shall not apply to any registered business trust or unitholders of any registered business trust.
+
+[34/2005; 19/2013]
+
+(4) In this section, “business trust”, “registered business trust”, “trustee-manager”, “unit” and “unitholder” have the same meanings as in the Business Trusts Act (Cap. 31A).
 
 [34/2005]

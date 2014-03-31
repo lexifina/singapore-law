@@ -1,37 +1,49 @@
-# 14B. Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office … … … … … … … … 152
+# 14B. Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office ... ... ... ... ... ... ... ... ... ... ... ... 215
 Part: PART V DEDUCTIONS AGAINST INCOME
 
-(1) Subject to this section, where the Comptroller is satisfied that the expenses specified in subsection (2) have been incurred by an approved company or firm resident in or having a permanent establishment in Singapore for the primary purpose of —
+(1) Subject to this section, where the Comptroller is satisfied that the expenses specified in subsection (2) have been incurred by an approved firm or company resident in or having a permanent establishment in Singapore for the primary purpose of —
 
-(a) promoting the trading of goods or the provision of services;
+(a) promoting the trading of goods or the provision of services; or
 
-or
-
-(b) the provision of services in connection with the use of any right under a master franchise or master intellectual property licence where the company or firm is the holder of the franchise or licence, there shall be allowed a further deduction of the amount of such expenses in addition to the amount allowed under section 14.
+(b) the provision of services in connection with the use of any right under a master franchise or master intellectual property licence where the firm or company is the holder of the franchise or licence, there shall be allowed a further deduction of the amount of such expenses in addition to the amount allowed under section 14.
 
 [31/98]
 
 (2) The expenses referred to in subsection (1) are —
 
-(a) expenses in establishing, maintaining or otherwise participating in an approved trade fair, trade exhibition, trade mission or trade promotion activity;
+(a) expenses in establishing, maintaining or otherwise participating in —
 
-(b) expenses in maintaining an approved overseas trade office;
+(i) a trade fair, trade exhibition, trade mission or trade promotion activity held or conducted outside Singapore; or
 
-or
+(ii) an approved trade fair or trade exhibition held in Singapore;
+
+(b) expenses in maintaining an approved overseas trade office; or
 
 (c) market development expenditure for the carrying out of any approved marketing project.
 
-[31/98]
+[31/98; 29/2012]
 
-(3) The Minister or such person as he may appoint may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1).
+(2A) For the purposes of subsection (1), the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenses referred to in subsection (2)(a) which are incurred at any time from 1st April 2012 to 31st March 2016 (both dates inclusive) for the primary purpose of promoting the trading of goods or the provision of services, provided that the aggregate of —
 
-[26/93; 31/98; 7/2007]
+(a) the expenses for which the deduction is so allowed; and
+
+(b) the expenditure for which a deduction is allowed to the firm or company under section 14K(1A), does not exceed $100,000 for each year of assessment.
+
+[29/2012]
+
+(3) The Minister or such person as he may appoint may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1), other than expenses that are the subject of a claim for deduction under subsection (2A).
+
+[26/93; 31/98; 7/2007; 29/2012]
 
 (4) No deduction shall be allowed under this section in respect of —
 
 (a) any expenses which are not allowed as deductions under section 14;
 
-(b) travelling, accommodation and subsistence expenses or allowances for more than the approved number of employees taking part in the approved trade fair, trade exhibition, trade mission, trade promotion activity or the approved marketing project;
+(b) travelling, accommodation and subsistence expenses or allowances for —
+
+(i) more than 2 employees taking part in the trade fair, trade exhibition, trade mission or trade promotion activity, being one held or conducted overseas; or
+
+(ii) more than the approved number of employees taking part in the approved marketing project;
 
 (c) any expenses relating to an approved overseas trade office —
 
@@ -41,59 +53,45 @@ or
 
 (iii) which are specifically excluded as a condition for the approval of the overseas trade office under this section;
 
-(iv) which are incurred after the end of the approved number of years from the date of establishment of the approved overseas trade office; and
+(iv) which are incurred after the end of the approved number of years from the date of establishment of the approved overseas trade office; or
 
-(v) which are incurred by a firm or company having a permanent establishment subject to tax in the country in which the approved trade office is established.
+(v) which are incurred by a firm or company having a permanent establishment subject to tax in the country in which the approved trade office is established;
 
-[26/93; 31/98; 32/99]
+(d) any expenses incurred during the basis period for a year of assessment by a firm or company if —
 
-(5) Subject to subsection (6), as soon as any amount of further deduction is allowed to any company under this section, section 14E, 14J or 14L, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
+(i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
 
-[28/92; 21/2003]
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC or 43ZF or the regulations made thereunder; or
 
-(6) Where the company is a transferor company within the meaning of section 37C (19) and where any amount of further deduction allowed under this section, section 14E, 14J or 14L is transferred to a claimant company as part of the loss specified under section 37C (14) (b) —
+(iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
 
-(a) the sum transferred shall not be credited to the further deduction account to be kept by the transferor company;
+(e) any expenses to the extent they are or are to be subsidised by a grant or subsidy from the Government or a statutory board.
 
-(b) for the purposes of this section, section 14E, 14J or 14L, upon the transfer of the sum under paragraph (a), the sum transferred shall be credited to the further deduction account to be kept by the claimant company; and
+[26/93; 31/98; 32/99; 22/2011; 29/2012]
 
-(c) in relation to the sum transferred under paragraph (a), subsections (7) to (10) shall apply to the claimant company.
+(4A) Notwithstanding subsection (4), the Minister or such person as he may appoint may, in any particular case, subject to such conditions as he may impose, allow a deduction of any expenses referred to in subsection (4)(c)(v) provided that they are not also expenses referred to in subsection (4)(c)(i), (ii), (iii) or (iv).
 
-[21/2003]
+[22/2011]
 
-(7) Where for any year of assessment a further deduction account of a company is in credit, the company shall —
+(5) [Deleted by Act 19 of 2013]
 
-(a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
+(6) [Deleted by Act 19 of 2013]
 
-(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this section, section 14E, 14J or 14L, and any remaining balance in the further deduction account shall be carried forward to be used by the company in the first subsequent year of assessment when the company has chargeable income had the further deduction not been allowed, and so on for subsequent years of assessment until the credit in the further deduction account has been fully used.
+(7) [Deleted by Act 19 of 2013]
 
-[28/92]
+(8) [Deleted by Act 19 of 2013]
 
-(8) Where a tax exempt account of a company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
+(9) [Deleted by Act 19 of 2013]
 
-[28/92]
+(10) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment any further deduction which has been allowed under this section or section 14E or 14L ought not to have been so allowed, the Comptroller may, within the year of assessment or within 4 years after the expiration thereof, make such assessment or additional assessment upon the firm or company as may be necessary in order to make good any loss of tax.
 
-(9) Section 13B (4) to (7) shall apply, with the necessary modifications, in respect of any dividend paid out of the tax exempt account of the company.
-
-[28/92]
-
-(10) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
-
-(a) any further deduction which has been allowed under this section, section 14E, 14J or 14L; or
-
-(b) any dividend which has been exempted from tax in the hands of any shareholder, ought not to have been so allowed or exempted, as the case may be, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof —
-
-(i) make such assessment or additional assessment upon the company or any such shareholder as may be necessary in order to make good any loss of tax; or
-
-(ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
-
-[28/92; 11/94; 31/98; 37/2002; 53/2007]
+[19/2013]
 
 (11) In this section —
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
+“approved” means approved by the Minister or such person as he may appoint;
 
-‘‘market development expenditure’’ means —
+“market development expenditure” means —
 
 (a) approved expenses directly attributable to the carrying out of market research or obtaining of market information, including any feasibility study;
 
@@ -105,8 +103,12 @@ or
 
 (d) approved expenses incurred in the design of packaging, or in the certification of goods or services where such certification is carried out by an approved person;
 
-‘‘master franchise’’ means any agreement under which the franchisor authorises or permits the franchisee to use in Singapore or overseas a business system owned or controlled by the franchisor, including the sub-franchising of the business system;
+“master franchise” means any agreement under which the franchisor authorises or permits the franchisee to use in Singapore or overseas a business system owned or controlled by the franchisor, including the sub‑franchising of the business system;
 
-‘‘master intellectual property licence’’ means any licence under which the licensor authorises or permits the licensee to use in Singapore or overseas the rights under a patent, copyright, trademark, design or know-how, including the sub-licensing of the same.
+“master intellectual property licence” means any licence under which the licensor authorises or permits the licensee to use in Singapore or overseas the rights under a patent, copyright, trade mark, design or know-how, including the sub‑licensing of the same.
 
 [32/95; 31/98]
+
+(12) No approval shall be granted under this section after 31st March 2016.
+
+[22/2011]

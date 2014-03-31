@@ -1,4 +1,4 @@
-# 12. Sources of income … … … … … … … … 69
+# 12. Sources of income ... ... ... ... ... ... ... ... ... 83
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -10,9 +10,9 @@ Non-resident shipping and air transport
 
 (a) the business of shipowner or charterer; or
 
-(b) the business of air transport, and any ship or aircraft owned or chartered by him calls at a port, aerodrome or airport in Singapore, his full profits arising from the carriage of passengers, mails, livestock or goods shipped, or loaded into an aircraft, in Singapore shall be deemed to accrue in Singapore.
+(b) the business of air transport, and any ship or aircraft owned or chartered by him calls at a port, an aerodrome or an airport in Singapore, his full profits arising from the carriage of passengers, mail, livestock or goods shipped, or loaded into an aircraft, in Singapore shall be deemed to accrue in Singapore.
 
-(2A) Subsection (2) shall not apply to passengers, mails, livestock or goods which are brought to Singapore solely for transhipment, or for transfer from one aircraft to another or from an aircraft to a ship or from a ship to an aircraft.
+(2A) Subsection (2) shall not apply to passengers, mail, livestock or goods which are brought to Singapore solely for transhipment, or for transfer from one aircraft to another or from an aircraft to a ship or from a ship to an aircraft.
 
 Cable or wireless undertakings
 
@@ -40,6 +40,30 @@ Interest, etc.
 
 [5/77]
 
+(6A) Subsection (6) shall not apply to any payment for —
+
+(a) any arrangement, management or service relating to any loan or indebtedness, where such arrangement, management or service is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the arrangement, management or service is not performed through that business carried on in Singapore or that permanent establishment; and
+
+(b) any guarantee relating to any loan or indebtedness, where the guarantee is provided for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a guarantor who is a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the giving of the guarantee is not effectively connected with that business carried on in Singapore or that permanent establishment.
+
+[27/2009]
+
 Royalties, etc.
 
 (7) There shall be deemed to be derived from Singapore —
@@ -54,16 +78,40 @@ Royalties, etc.
 
 [5/77]
 
-Commission or other payment of junket promoter *(8) There shall be deemed to be derived from Singapore any commission or other payment paid to a junket promoter for arranging a junket with a casino operator in Singapore which is —
+(7A) Subsection (7) shall not apply to any payment for —
+
+(a) the rendering of assistance or service in connection with the application or use of scientific, technical, industrial or commercial knowledge or information, where such rendering of assistance or service is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the rendering of assistance or service is not performed through that business carried on in Singapore or that permanent establishment; and
+
+(b) the management or assistance in the management of any trade, business or profession, where such management or assistance is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
+
+(i) in the event the non-resident person is not an individual, is not incorporated, formed or registered in Singapore; and
+
+(ii) in any event —
+
+(A) does not by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore; or
+
+(B) carries on a business in Singapore (by himself or in association with others) or has a permanent establishment in Singapore, but the management or assistance is not performed through that business carried on in Singapore or that permanent establishment.
+
+[27/2009]
+
+Commission or other payment of licensed international market agent
+
+(8) There shall be deemed to be derived from Singapore any commission or other payment paid to a licensed international market agent for organising or conducting a casino marketing arrangement with a casino operator in Singapore which is —
 
 (a) borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore; or
 
 (b) deductible against any income accruing in or derived from Singapore.
 
-[10/2006]
+[10/2006; 36/2012]
 
-*(9) In this section, ‘‘casino operator’’, ‘‘junket’’ and ‘‘junket promoter’’ have the same meanings as in the Casino Control Act (Cap. 33A).
+(9) In this section, “casino marketing arrangement”, “casino operator” and “international market agent” have the same meanings as in the Casino Control Act (Cap. 33A).
 
-[10/2006]
-
-*Subsections (8) and (9), inserted by the Casino Control Act, to come into operation when section 202 of the Casino Control Act is brought into operation.
+[36/2012]

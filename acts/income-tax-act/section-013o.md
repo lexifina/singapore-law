@@ -1,4 +1,4 @@
-# 13O. Exemption of income of foreign account of philanthropic purpose trust … … … … … … … … … 126
+# 13O. Exemption of income of foreign account of philanthropic purpose trust... ... ... ... ... ... ... ... ... ... ... 164
 Part: PART IV EXEMPTION FROM INCOME TAX
 Heading: Section Pages
 
@@ -10,13 +10,13 @@ Heading: Section Pages
 
 [34/2005]
 
-(2) Regulations made under subsection (1) may provide for the deduction of expenses, allowances, losses and donations relating to a foreign account of a philanthropic purpose trust or an eligible holding company established for the purposes of a philanthropic purpose trust, otherwise than in accordance with this Act.
+(2) Regulations made under subsection (1) may provide for the deduction of expenses, allowances and losses relating to a foreign account of a philanthropic purpose trust or an eligible holding company established for the purposes of a philanthropic purpose trust, otherwise than in accordance with this Act.
 
-[7/2007]
+[7/2007; 29/2012]
 
 (3) In this section —
 
-‘‘eligible holding company’’ means a company —
+“eligible holding company” means a company —
 
 (a) which is incorporated outside Singapore;
 
@@ -28,7 +28,7 @@ Heading: Section Pages
 
 (e) all the shares of which are held by the trustees of the philanthropic purpose trust or by their nominee;
 
-‘‘foreign account’’, in relation to a philanthropic purpose trust, means an account into which funds or assets are injected solely by settlors who or which are —
+“foreign account”, in relation to a philanthropic purpose trust, means an account into which funds or assets are injected solely by settlors who or which are —
 
 (a) individuals that are neither citizens of Singapore nor resident in Singapore, unless the Minister otherwise by regulations prescribes;
 
@@ -36,7 +36,7 @@ Heading: Section Pages
 
 (i) is neither incorporated nor resident in Singapore;
 
-(ii) does not have a permanent establishment in Singapore other than a trustee company referred to in subsection (1) (a);
+(ii) does not have a permanent establishment in Singapore other than a trustee company referred to in subsection (1)(a);
 
 (iii) does not carry on a business in Singapore;
 
@@ -44,7 +44,7 @@ Heading: Section Pages
 
 (v) does not have 20% or more of the total number of its issued shares beneficially owned, directly or indirectly, by a company which —
 
-(A) has a permanent establishment in Singapore other than a trustee company referred to in subsection (1) (a);
+(A) has a permanent establishment in Singapore other than a trustee company referred to in subsection (1)(a);
 
 (B) carries on a business in Singapore; or
 
@@ -66,9 +66,9 @@ Heading: Section Pages
 
 (ii) constituted or registered under any written law in Singapore;
 
-‘‘foreign trust’’ has the same meaning as in section 13G;
+“foreign trust” has the same meaning as in section 13G;
 
-‘‘philanthropic purpose trust’’ means a trust established in writing under any law for a purpose which is for the public benefit and which falls within any of the following descriptions of purposes:
+“philanthropic purpose trust” means a trust established in writing under any law for a purpose which is for the public benefit and which falls within any of the following descriptions of purposes:
 
 (a) the prevention or relief of poverty;
 
@@ -92,10 +92,10 @@ Heading: Section Pages
 
 (k) any other purpose beneficial to the community;
 
-‘‘trustee company’’ has the same meaning as in section 43J (2).
+“trustee company” has the same meaning as in section 43J(2).
 
 [34/2005; 7/2007]
 
-(4) The Minister or such person as he may appoint may in any particular case waive any requirement referred to in paragraph (b) (ii) to (v) of the definition of ‘‘foreign account’’ in subsection (3).
+(4) The Minister or such person as he may appoint may in any particular case waive any requirement referred to in paragraph (b)(ii) to (v) of the definition of “foreign account” in subsection (3).
 
 [7/2007]

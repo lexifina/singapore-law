@@ -1,5 +1,6 @@
-# 67. Keeping of books of account and giving of receipts … … 388
+# 67. Keeping of books of account and giving of receipts ... ... ... 676
 Part: PART XVI RETURNS
+Heading: Section Pages
 
 (1) Subject to subsection (3), every person carrying on or exercising any trade, business, profession or vocation —
 
@@ -9,7 +10,7 @@ Part: PART XVI RETURNS
 
 [2/2007]
 
-(2) Where a machine is used for recording sales a receipt may be dispensed with if the Comptroller is satisfied that —
+(2) Where a machine is used for recording sales, a receipt may be dispensed with if the Comptroller is satisfied that —
 
 (a) such machine automatically records all sales made; and
 
@@ -19,13 +20,15 @@ Part: PART XVI RETURNS
 
 (3) The Comptroller may by notice in writing to any person carrying on or exercising any trade, business, profession or vocation, or by a notice in the Gazette in respect of any class or description of any such person, prescribe —
 
-(a) the form of the records to be kept under subsection (1) (a), and the manner in which such records shall be kept and retained; and
+(a) the form of the records to be kept under subsection (1)(a), and the manner in which such records shall be kept and retained;
 
-(b) the form of the receipts to be issued and the duplicates to be retained under subsection (1) (b), and the manner in which such receipts shall be issued and such duplicates shall be retained, and every such person shall be bound to comply with such notice.
+and
+
+(b) the form of the receipts to be issued and the duplicates to be retained under subsection (1)(b), and the manner in which such receipts shall be issued and such duplicates shall be retained, and every such person shall be bound to comply with such notice.
 
 (4) The Comptroller may waive all or any of the provisions of subsection (1) in respect of any person or records or any class or description of persons or records.
 
-(5) In this section, ‘‘records’’ includes —
+(5) In this section, “records” includes —
 
 (a) books of account recording receipts or payments or income or expenditure;
 

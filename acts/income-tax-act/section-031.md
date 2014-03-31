@@ -1,5 +1,5 @@
-# 31. Income arising from settlements … … … … … … 240
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
+# 31. Income arising from settlements ... ... ... ... ... ... ... 395
+Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (1) Where under the terms of any settlement and during the life of the settlor any income, or assets representing it, will or may become payable or applicable to or for the benefit of any relative of the settlor and at the commencement of the year of assessment such relative is unmarried and has not attained the age of 21 years, such income or assets shall be deemed to be income of the settlor and not income of any other person.
 
@@ -23,11 +23,11 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
 
 (8) In this section —
 
-‘‘child’’ shall include a step-child, a child who has been de facto adopted by the settlor or by the husband or by the wife of the settlor, whether or not such adoption has been registered in accordance with the provisions of any written law, and a child of whom the settlor has the custody or whom he maintains wholly or partly at his own expense;
+“child” shall include a step-child, a child who has been de facto adopted by the settlor or by the husband or by the wife of the settlor, whether or not such adoption has been registered in accordance with the provisions of any written law, and a child of whom the settlor has the custody or whom he maintains wholly or partly at his own expense;
 
-‘‘relative’’ means any person who is a wife, grandchild, child, brother, sister, uncle, aunt, nephew, niece or cousin of the settlor;
+“relative” means any person who is a wife, grandchild, child, brother, sister, uncle, aunt, nephew, niece or cousin of the settlor;
 
-‘‘settlement’’ includes any disposition, trust, covenant, agreement, whether reciprocal or collateral, arrangement or transfer of assets or income, but does not include —
+“settlement” includes any disposition, trust, covenant, agreement, whether reciprocal or collateral, arrangement or transfer of assets or income, but does not include —
 
 (a) a settlement which in the opinion of the Comptroller is made for valuable and adequate consideration;
 
@@ -35,4 +35,4 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
 
 (c) any agreement made by an employer to pay to an employee or to the widow or any relative or dependant of such employee after his death such remuneration or pension or lump sum as in the opinion of the Comptroller is fair and reasonable;
 
-‘‘settlor’’, in relation to a settlement, includes any person by whom the settlement was made or entered into, directly or indirectly, and any person who has provided or undertaken to provide funds or credit, directly or indirectly, for the purpose of the settlement, or has made with any other person a reciprocal arrangement for that other person to make or enter into the settlement.
+“settlor”, in relation to a settlement, includes any person by whom the settlement was made or entered into, directly or indirectly, and any person who has provided or undertaken to provide funds or credit, directly or indirectly, for the purpose of the settlement, or has made with any other person a reciprocal arrangement for that other person to make or enter into the settlement.

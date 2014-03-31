@@ -1,6 +1,5 @@
-# 43I. Concessionary rate of tax for offshore leasing of machinery and plant … … … … … … … … … … 330
+# 43I. Concessionary rate of tax for offshore leasing of machinery and plant ... ... ... ... ... ... ... ... ... ... ... ... 593
 Part: PART XI RATES OF TAX
-Heading: Section Pages
 
 (1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by regulations prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant or such other activity as may be prescribed by regulations.
 
@@ -12,7 +11,7 @@ Heading: Section Pages
 
 (b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore finance leasing in any year of assessment after deduction against the income from such leasing shall be available as a deduction against any income from onshore finance leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
 
-(c) where the leasing company ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction in paragraph (b) shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23;
+(c) where the leasing company ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction in paragraph (b) shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
 
 (d) the Comptroller shall determine the manner and extent to which —
 
@@ -26,11 +25,11 @@ Heading: Section Pages
 
 [31/98]
 
-(4) (Deleted by Act 53/2007)
+(4) [Deleted by Act 53 of 2007]
 
-(5) (Deleted by Act 53/2007)
+(5) [Deleted by Act 53 of 2007]
 
-(6) Notwithstanding subsection (1), a leasing company may, at any time, elect that the whole of its income accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant shall be taxed at the rate prescribed by section 43 (1) (a).
+(6) Notwithstanding subsection (1), a leasing company may, at any time, elect that the whole of its income accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant shall be taxed at the rate prescribed by section 43(1)(a).
 
 [11/94]
 
@@ -48,18 +47,18 @@ Heading: Section Pages
 
 (9) In this section —
 
-‘‘finance lease’’, ‘‘finance leasing’’ and ‘‘onshore finance leasing’’ have the same meanings as in section 10D (3);
+“finance lease”, “finance leasing” and “onshore finance leasing” have the same meanings as in section 10D(3);
 
-‘‘leasing company’’ means any company carrying on a business of leasing machinery or plant;
+“leasing company” means any company carrying on a business of leasing machinery or plant;
 
-‘‘offshore finance leasing’’ means the offshore leasing of any machinery or plant under any finance lease;
+“offshore finance leasing” means the offshore leasing of any machinery or plant under any finance lease;
 
-‘‘offshore leasing’’ means the leasing of any machinery or plant, other than those which have been treated as though they had been sold pursuant to regulations made under section 10D (1), where such machinery or plant is used outside Singapore, and the payments under the lease —
+“offshore leasing” means the leasing of any machinery or plant, other than those which have been treated as though they had been sold pursuant to regulations made under section 10D(1), where such machinery or plant is used outside Singapore, and the payments under the lease —
 
 (a) are in currencies other than Singapore dollars; and
 
 (b) are not deductible against any income accruing in or derived from Singapore;
 
-‘‘offshore operating leasing’’ means the offshore leasing of any machinery or plant, other than offshore finance leasing.
+“offshore operating leasing” means the offshore leasing of any machinery or plant, other than offshore finance leasing.
 
 [1/98; 53/2007]

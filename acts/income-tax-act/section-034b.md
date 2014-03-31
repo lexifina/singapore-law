@@ -1,5 +1,5 @@
-# 34B. Islamic financing arrangements … … … … … … 248
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
+# 34B. Islamic financing arrangements ... ... ... ... ... ... ... 405
+Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
 
 (1) This section shall apply to any prescribed Islamic financing arrangement entered into on or after 17th February 2006 between any person and a financial institution.
 
@@ -29,9 +29,9 @@ Part: PART VII ASCERTAINMENT OF CERTAIN INCOME Section Pages
 
 (6) In this section —
 
-‘‘effective return’’, in relation to a prescribed Islamic financing arrangement, means the prescribed return in lieu of interest that has or is accrued, derived, received or incurred under the arrangement;
+“effective return”, in relation to a prescribed Islamic financing arrangement, means the prescribed return in lieu of interest that has or is accrued, derived, received or incurred under the arrangement;
 
-‘‘financial institution’’ means —
+“financial institution” means —
 
 (a) any institution in Singapore that is licensed or approved by the Monetary Authority of Singapore, or exempted from such licensing or approval, under any written law administered by the Monetary Authority of Singapore;
 
@@ -39,7 +39,7 @@ or
 
 (b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, under any written law administered by its financial supervisory authority for the carrying on of financial activities;
 
-‘‘Islamic financing arrangement’’ means a financing arrangement which is —
+“Islamic financing arrangement” means a financing arrangement which is —
 
 (a) endorsed by any Shari’ah council or body, or by any committee formed for the purpose of providing guidance on compliance with Shari’ah law; and
 

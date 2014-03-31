@@ -1,32 +1,30 @@
 # SIXTH SCHEDULE
 
-Sections 19 (2) and 106 (3)
+Sections 19(2), (2A) and (2B), 19A(2FA) and (2G) and 106(3)
 
 NUMBER OF YEARS OF WORKING LIFE OF ASSET
 
-Number of years of working life Item of asset
+Item Number of years of working life of asset
 
 1. Aircraft 5
 
 2. Bank vaults 16
 
-3. Building and construction equipment (including assets 6 such as rollers, mixers, piling and drilling plants, loaders, dumpers, excavators, bull-dozers and support structure)
+3. Building and construction equipment 6 (including assets such as rollers, mixers, piling and drilling plants, loaders, dumpers, excavators, bull-dozers and support structure)
 
 4. Cable cars and equipment 12
 
 5. Cables and related assets 16
 
-6. Containers used for the carriage of goods by any mode of 10 transportation
+6. Containers used for the carriage of goods by 10 any mode of transportation
 
-7. Electric, gas, water and steam, utility plant (including 16 tanks and generators)
+7. Electric, gas, water and steam, utility plant 16 (including tanks and generators)
 
-8. Electrical equipment (including assets such as electrical 8 and industrial apparatus, domestic and commercial appliances, air-conditioning and ventilating equipment) SIXTH SCHEDULE — continued
+8. Electrical equipment (including assets such 8 as electrical and industrial apparatus, domestic and commercial appliances, air- conditioning and ventilating equipment)
 
-Number of years of working life Item of asset
+9. Electronic equipment (including assets such 8 as electronic detection, guidance, control, radiation, computation, test and navigation equipment)
 
-9. Electronic equipment (including assets such as electronic 8 detection, guidance, control, radiation, computation, test and navigation equipment)
-
-10. Equipment used in personal and professional services 10 (including assets used in the provision of personal and professional services which are not elsewhere classified)
+10. Equipment used in personal and professional 10 services (including assets used in the provision of personal and professional services which are not elsewhere classified)
 
 11. Farming equipment 8
 
@@ -34,11 +32,13 @@ Number of years of working life Item of asset
 
 13. Floating and dry docks 16
 
-14. Gas cylinders 16
+14. Gas cylinders 16 SIXTH SCHEDULE — continued
 
-15. Manufacturing and industrial processing plant and 6 machinery
+Item Number of years of working life of asset
 
-16. Materials and passenger handling equipment (including 6 assets such as lifts, escalators, weighing machines, conveyor belts, forklifts, lifting gears, trolleys and cranes)
+15. Manufacturing and industrial processing 6 plant and machinery
+
+16. Materials and passenger handling equipment 6 (including assets such as lifts, escalators, weighing machines, conveyor belts, forklifts, lifting gears, trolleys and cranes)
 
 17. Motion picture films 5
 
@@ -46,17 +46,15 @@ Number of years of working life Item of asset
 
 19. Office equipment:
 
-(a) furniture and fixtures (including furniture and fixtures 10 which are not a structural component of a building)
+(a) furniture and fixtures (including 10 furniture and fixtures which are not a structural component of a building)
 
-(b) data handling equipment (including typewriters, 8 calculators, adding and accounting machines, copiers and duplicating equipment)
+(b) data handling equipment (including 8 typewriters, calculators, adding and accounting machines, copiers and duplicating equipment)
 
 (c) telecommunication equipment 10
 
-20. Plant for recreation and amusement purposes (including 10 assets used in the provision of entertainment services on payment of a fee or admission charge, as in the operation of bowling alleys, billiard and pool establishments, theatres, cinemas, concert halls, amusement parks and miniature golf courses)
+20. Plant for recreation and amusement purposes 10 (including assets used in the provision of entertainment services on payment of a fee or admission charge, as in the operation of bowling alleys, billiard and pool establishments, theatres, cinemas, concert halls, amusement parks and miniature golf courses)
 
-21. Railway wagons, lines and related equipment 16 SIXTH SCHEDULE — continued
-
-Number of years of working life Item of asset
+21. Railway wagons, lines and related equipment 16
 
 22. Transport equipment:
 
@@ -68,12 +66,14 @@ Number of years of working life Item of asset
 
 (d) trucks, lorries, trailers and vans 6
 
-(e) motor cycles and bicycles 8
+(e) motor cycles and bicycles 8 SIXTH SCHEDULE — continued
 
-23. Vessels, barges, tugs and similar water transportation 16 equipment
+Item Number of years of working life of asset
 
-24. Wholesale and retail trade service assets (including assets 8.
+23. Vessels, barges, tugs and similar water 16 transportation equipment
 
-used in such activities as the operation of restaurants and cafes)
+24. Wholesale and retail trade service assets 8.
+
+(including assets used in such activities as the operation of restaurants and cafes)
 
 [28/80]

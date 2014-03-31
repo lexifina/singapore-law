@@ -1,8 +1,8 @@
-# 43Y. Concessionary rate of tax for leasing of aircraft and aircraft engines … … … … … … … … … … 342
+# 43Y. Concessionary rate of tax for leasing of aircraft and aircraft engines ... ... ... ... ... ... ... ... ... ... ... ... 608
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
-(1) Notwithstanding section 43, tax at the rate of 10% or 5% as the Minister (or such person as the Minister may appoint) may specify, shall be levied and paid for each year of assessment upon the income of an approved aircraft leasing company accruing in or derived from Singapore in respect of leasing of any aircraft or aircraft engine or such other activity as may be prescribed by regulations.
+(1) Notwithstanding section 43, tax at the rate of 5% or 10% as the Minister (or such person as the Minister may appoint) may specify, shall be levied and paid for each year of assessment upon the income of an approved aircraft leasing company accruing in or derived from Singapore in respect of leasing of any aircraft or aircraft engine or such other activity as may be prescribed by regulations.
 
 [53/2007]
 
@@ -14,9 +14,9 @@ Heading: Section Pages
 
 [53/2007]
 
-(4) Approval may be granted under this section between 1st March 2007 and 29th February 2012.
+(4) Approval may be granted under this section between 1st March 2007 and 31st March 2017.
 
-[53/2007]
+[53/2007; 29/2012]
 
 (5) In determining the income of an approved aircraft leasing company from the leasing of any aircraft or aircraft engine —
 
@@ -40,14 +40,14 @@ Heading: Section Pages
 
 (7) In this section —
 
-‘‘aircraft leasing company’’ means a company incorporated and resident in Singapore or a registered business trust, carrying on a business of leasing aircraft or aircraft engines;
+“aircraft leasing company” means a company incorporated and resident in Singapore or a registered business trust, carrying on a business of leasing aircraft or aircraft engines;
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
+“approved” means approved by the Minister or such person as he may appoint;
 
-‘‘finance leasing’’, in relation to any aircraft or aircraft engine, means a lease of the aircraft or aircraft engine (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such aircraft or aircraft engine to the lessee;
+“finance leasing”, in relation to any aircraft or aircraft engine, means a lease of the aircraft or aircraft engine (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such aircraft or aircraft engine to the lessee;
 
-‘‘leasing of any aircraft or aircraft engine’’ means the leasing of any aircraft or aircraft engine, other than one which has been treated as though it had been sold pursuant to regulations made under section 10D (1);
+“leasing of any aircraft or aircraft engine” means the leasing of any aircraft or aircraft engine, other than one which has been treated as though it had been sold pursuant to regulations made under section 10D(1);
 
-‘‘operating leasing’’, in relation to any aircraft or aircraft engine, means the leasing of the aircraft or aircraft engine, other than finance leasing.
+“operating leasing”, in relation to any aircraft or aircraft engine, means the leasing of the aircraft or aircraft engine, other than finance leasing.
 
 [53/2007]

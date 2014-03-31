@@ -1,7 +1,9 @@
-# 72. Comptroller to make assessments … … … … … 394
+# 72. Comptroller to make assessments ... ... ... ... ... ... 682
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
-(1) The Comptroller shall proceed to assess every person chargeable with tax as soon as may be after the expiration of the time allowed to such person for the delivery of the return provided for in section 62.
+(1) The Comptroller shall proceed to assess every person chargeable with tax as soon as may be after the expiration of the time allowed to such person for the delivery of the return provided for in section 62 or, if he is exempted from the liability to deliver a return under section 62(2), after the expiration of the time that would have been allowed to him for the delivery of the return if he had not been so exempted.
+
+[34/2008]
 
 (2) Where a person has delivered a return, the Comptroller may —
 

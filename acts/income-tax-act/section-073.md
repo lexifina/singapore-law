@@ -1,4 +1,4 @@
-# 73. Advance assessments … … … … … … … … 394
+# 73. Advance assessments ... ... ... ... ... ... ... ... ... 683
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (1) Notwithstanding section 72, where —
@@ -9,11 +9,11 @@ Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (2) Where the income of a person is ascertained under section 27, the Comptroller may make an assessment in respect of any income of such person within the year in which the income is deemed to accrue.
 
-(2A) Notwithstanding any other provisions of this Act, the Comptroller may make an assessment on an individual to whom section 10 (7B) or (7C) applies within the year in which the income accrues or is deemed to accrue to the individual, as the case may be.
+(2A) Notwithstanding any other provisions of this Act, the Comptroller may make an assessment on an individual to whom section 10(7B) or (7C) applies within the year in which the income accrues or is deemed to accrue to the individual, as the case may be.
 
 [49/2004]
 
-(2B) Notwithstanding any other provisions of this Act, where income accrues under section 10 (6) to a director of a company who is not resident in Singapore, the Comptroller may make an assessment in respect of that income within the year in which the income accrues to the director.
+(2B) Notwithstanding any other provisions of this Act, where income accrues under section 10(6) to a director of a company who is not resident in Singapore, the Comptroller may make an assessment in respect of that income within the year in which the income accrues to the director.
 
 [49/2004]
 
@@ -31,6 +31,6 @@ Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (b) if such person so assessed is an individual, the personal circumstances of that person will be the same in the year of assessment as they were when such assessment is in fact made.
 
-(5) If it appears to the Comptroller that by reason of such assumption an advance assessment so made has become less favourable to that person than it would have been if made under section 35 (1), he shall amend such assessment as to him seems reasonable.
+(5) If it appears to the Comptroller that by reason of such assumption an advance assessment so made has become less favourable to that person than it would have been if made under section 35(1), he shall amend such assessment as to him seems reasonable.
 
 (6) Nothing in this section shall affect the Comptroller’s right to make any additional assessment due to any change of circumstances and without prejudice to the generality of section 74.

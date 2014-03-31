@@ -1,4 +1,4 @@
-# 8A. Electronic service … … … … … … … … 23
+# 8A. Electronic service... ... ... ... ... ... ... ... ... ... 28
 Part: PART II ADMINISTRATION
 
 (1) The Comptroller may provide an electronic service for —
@@ -73,9 +73,11 @@ Part: PART II ADMINISTRATION
 
 (ii) any person or device involved in the production or transmission of the electronic record of the return, estimate, statement, document or notice, or the copy or print-out thereof;
 
-(b) identifying the nature of the electronic record or copy thereof; and
+(b) identifying the nature of the electronic record or copy thereof;
 
-(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time, shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+and
+
+(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time, shall be sufficient evidence that the electronic record, copy or print‑out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
 
 [49/2004]
 

@@ -1,5 +1,6 @@
-# 68. Official information and secrecy, and returns by employer … 389
+# 68. Official information and secrecy, and returns by employer ... 677
 Part: PART XVI RETURNS
+Heading: Section Pages
 
 (1) The Comptroller may require any officer in the employment of the Government or of any public authority or body corporate constituted by statute to supply such particulars as may be required for the purposes of this Act and which may be in the possession of the officer.
 
@@ -15,23 +16,23 @@ Part: PART XVI RETURNS
 
 (2A) It shall not be necessary to deliver nil returns under subsection (2).
 
-(2B) Where an employer has granted an individual, other than a director to whom subsection (2C) applies, any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return in such form and manner specified in subsection (2) including any gain or profit derived by the individual as computed under section 10 (6), notwithstanding that the individual has ceased to be employed by him at the time the gain or profit is derived.
+(2B) Where an employer has granted an individual, other than a director to whom subsection (2C) applies, any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return in such form and manner specified in subsection (2) including any gain or profit derived by the individual as computed under section 10(6), notwithstanding that the individual has ceased to be employed by him at the time the gain or profit is derived.
 
 [37/2002; 49/2004]
 
-(2C) Where an employer, being a company, has granted a director of the company who is not resident in Singapore any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return, in such form as the Comptroller may determine, of any gain or profit derived by the non-resident director when the right or benefit is exercised, assigned, released or acquired as computed under section 10 (6) within 30 days of such exercise, assignment, release or acquisition (as the case may be), notwithstanding that the non-resident director may have ceased to be employed by the company at the time the gain or profit is derived.
+(2C) Where an employer, being a company, has granted a director of the company who is not resident in Singapore any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return, in such form as the Comptroller may determine, of any gain or profit derived by the non-resident director when the right or benefit is exercised, assigned, released or acquired as computed under section 10(6) within 30 days of such exercise, assignment, release or acquisition (as the case may be), notwithstanding that the non-resident director may have ceased to be employed by the company at the time the gain or profit is derived.
 
 [49/2004]
 
 (3) Where the employer is a company or a body of persons, the manager or principal officer shall be deemed to be the employer for the purposes of this section, and any director of a company, or person engaged in the management of a company, shall be deemed to be a person employed.
 
-(4) Where an employer commences to employ in Singapore an individual who is or is likely to be chargeable to tax under section 10 (1) (b), he shall give notice thereof in writing to the Comptroller not later than 3 months after the date of commencement of such employment, stating the full name and address of the individual, the date of commencement and the terms of employment.
+(4) Where an employer commences to employ in Singapore an individual who is or is likely to be chargeable to tax under section 10(1)(b), he shall give notice thereof in writing to the Comptroller not later than 3 months after the date of commencement of such employment, stating the full name and address of the individual, the date of commencement and the terms of employment.
 
-(5) Where an employer ceases or is about to cease to employ in Singapore an individual who is not a citizen of Singapore and who is or is likely to be chargeable to tax under section 10 (1) (b), he shall give notice thereof in writing to the Comptroller not later than one month before such individual ceases to be employed in Singapore, stating the name and address of the individual and the expected date of cessation.
+(5) Where an employer ceases or is about to cease to employ in Singapore an individual who is not a citizen of Singapore and who is or is likely to be chargeable to tax under section 10(1)(b), he shall give notice thereof in writing to the Comptroller not later than one month before such individual ceases to be employed in Singapore, stating the name and address of the individual and the expected date of cessation.
 
 [28/80]
 
-(6) The employer of any individual who is chargeable to tax under section 10 (1) (b) and who is to the knowledge of such employer about to leave or intending to leave Singapore for any period exceeding 3 months shall give notice in writing to the Comptroller of the expected date of departure of such individual. Such notice shall be given not later than one month before the expected date of departure.
+(6) The employer of any individual who is chargeable to tax under section 10(1)(b) and who is to the knowledge of such employer about to leave or intending to leave Singapore for any period exceeding 3 months shall give notice in writing to the Comptroller of the expected date of departure of such individual. Such notice shall be given not later than one month before the expected date of departure.
 
 [28/80]
 

@@ -1,4 +1,4 @@
-# 14G. (Repealed)
+# 14G. [Repealed]
 Part: PART V DEDUCTIONS AGAINST INCOME
 
-(Repealed by Act 21/2003)
+[Repealed by Act 21 of 2003]

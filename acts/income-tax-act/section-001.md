@@ -1,4 +1,4 @@
-# 1. Short title … … … … … … … … … … 12
-Part: PART I PRELIMINARY Section Pages
+# 1. Short title ... ... ... ... ... ... ... ... ... ... ... 14
+Part: PART I PRELIMINARY Section Page
 
 This Act may be cited as the Income Tax Act.

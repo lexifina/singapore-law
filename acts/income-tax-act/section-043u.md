@@ -1,4 +1,4 @@
-# 43U. Concessionary rate of tax for income derived from organising or staging tourism event … … … … … … … 340
+# 43U. Concessionary rate of tax for income derived from organising or staging tourism event ... ... ... ... ... ... ... ... ... 605
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
@@ -10,6 +10,6 @@ Heading: Section Pages
 
 [34/2005]
 
-(3) In this section, ‘‘approved’’ means approved by the Minister or such person as he may appoint.
+(3) In this section, “approved” means approved by the Minister or such person as he may appoint.
 
 [34/2005]

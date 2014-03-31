@@ -1,12 +1,11 @@
-# 43E. Concessionary rate of tax for headquarters company … … 326
+# 43E. Concessionary rate of tax for headquarters company ... ... 588
 Part: PART XI RATES OF TAX
-Heading: Section Pages
 
 (1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved headquarters company derived by it from —
 
 (a) the provision of such qualifying services as may be prescribed to its offices, associated companies and other persons where such offices, associated companies and persons are outside Singapore; or
 
-(b) such qualifying treasury, investment or financial activities as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37 (3).
+(b) such qualifying treasury, investment or financial activities as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [31/86; 20/91]
 
@@ -30,7 +29,7 @@ Heading: Section Pages
 
 (4) In this section —
 
-‘‘associated company’’, in relation to an approved headquarters company, means a company —
+“associated company”, in relation to an approved headquarters company, means a company —
 
 (a) the operations of which are or can be controlled, directly or indirectly, by that headquarters company;
 
@@ -38,7 +37,7 @@ Heading: Section Pages
 
 (c) the operations of which are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of that headquarters company;
 
-‘‘headquarters company’’ means a company carrying on the business in Singapore of providing management, technical or other supporting services to its offices outside Singapore or to its associated companies outside Singapore.
+“headquarters company” means a company carrying on the business in Singapore of providing management, technical or other supporting services to its offices outside Singapore or to its associated companies outside Singapore.
 
 (5) For the purposes of subsection (4), a company shall be deemed to be an associated company in relation to an approved headquarters company if —
 

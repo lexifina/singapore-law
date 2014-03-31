@@ -1,4 +1,4 @@
-# 10I. Reduction of share capital … … … … … … … 49
+# 10I. Reduction of share capital ... ... ... ... ... ... ... ... 61
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -6,7 +6,7 @@ Heading: Section Pages
 
 [32/99; 24/2001]
 
-(2) Where the reduction of share capital is made out of the contributed capital of the company, and a payment is made to any shareholder of the company pursuant to such reduction, the payment to the shareholder shall not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account referred to in subsection (5) (c) (i).
+(2) Where the reduction of share capital is made out of the contributed capital of the company, and a payment is made to any shareholder of the company pursuant to such reduction, the payment to the shareholder shall not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account referred to in subsection (5)(c)(i).
 
 [32/99]
 
@@ -14,9 +14,7 @@ Heading: Section Pages
 
 [32/99]
 
-(4) Where the dividend deemed to be paid under subsection (3) is a dividend to which section 44 applies, the amount of dividend deemed to be paid by the company to the shareholder shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
-
-[32/99]
+(4) [Deleted by Act 19 of 2013]
 
 (5) For the purposes of this section —
 
@@ -34,7 +32,7 @@ Heading: Section Pages
 
 (i) shall be credited to an account (referred to in this section as the contributed capital account) to be kept by the company for the purposes of this section; and
 
-(ii) where the aggregate of the amounts of any payment referred to in paragraph (b) (i), (ii) and (iii) exceeds the aggregate of the amounts received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued before the first reduction, the amount to be credited to the contributed capital account shall be deemed to be zero;
+(ii) where the aggregate of the amounts of any payment referred to in paragraph (b)(i), (ii) and (iii) exceeds the aggregate of the amounts received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued before the first reduction, the amount to be credited to the contributed capital account shall be deemed to be zero;
 
 (d) where any share is issued by a company subsequent to the first reduction of its share capital referred to in paragraph (c), any amount received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued shall be credited to the contributed capital account;
 
@@ -44,9 +42,11 @@ Heading: Section Pages
 
 (i) not treated as a payment of dividend to the shareholder of the first-mentioned company for the purpose of this Act; and
 
-(ii) more than the contributed capital of the first- mentioned company immediately before the reduction of its share capital;
+(ii) more than the contributed capital of the first‑mentioned company immediately before the reduction of its share capital;
 
-(g) where paragraph (f) is applicable to the contributed capital of a transferee company, the contributed capital of the first- mentioned company under that paragraph after the reduction of its share capital shall, notwithstanding paragraph (b), not be reduced by the payment made by the first-mentioned company for the reduction of its share capital; and
+(g) where paragraph (f) is applicable to the contributed capital of a transferee company, the contributed capital of the first‑mentioned company under that paragraph after the reduction of its share capital shall, notwithstanding paragraph (b), not be reduced by the payment made by the first‑mentioned company for the reduction of its share capital;
+
+and
 
 (h) any amount applied by a company in issuing shares of the company to its shareholders as bonus shares shall not be regarded as receipts by the company from the issue of shares.
 

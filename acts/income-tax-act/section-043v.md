@@ -1,4 +1,4 @@
-# 43V. Concessionary rate of tax for clearing member of Singapore clearing house … … … … … … … … … 340
+# 43V. Concessionary rate of tax for clearing member of Singapore clearing house ... ... ... ... ... ... ... ... ... ... 605
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
@@ -6,7 +6,7 @@ Heading: Section Pages
 
 [7/2007]
 
-(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37 (3).
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [7/2007]
 
@@ -20,10 +20,10 @@ Heading: Section Pages
 
 (5) In this section —
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
+“approved” means approved by the Minister or such person as he may appoint;
 
-‘‘clearing member of a Singapore clearing house’’ means a company which holds any membership of a Singapore clearing house;
+“clearing member of a Singapore clearing house” means a company which holds any membership of a Singapore clearing house;
 
-‘‘Singapore clearing house’’ means a person operating a clearing facility who is designated as a designated clearing house for the purposes of the Securities and Futures Act (Cap. 289).
+“Singapore clearing house” means a person operating a clearing facility who is designated as a designated clearing house for the purposes of the Securities and Futures Act (Cap. 289).
 
 [7/2007]

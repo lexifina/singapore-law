@@ -1,4 +1,4 @@
-# 102. Service of summons … … … … … … … … 423
+# 102. Service of summons ... ... ... ... ... ... ... ... ... 722
 Part: PART XX OFFENCES AND PENALTIES
 
 (1) Every summons issued by a court against any person in connection with any offence under this Act may be served on the person —

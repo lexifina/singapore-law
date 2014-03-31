@@ -1,4 +1,4 @@
-# 74. Additional assessments … … … … … … … 396
+# 74. Additional assessments ... ... ... ... ... ... ... ... 684
 Part: PART XVII ASSESSMENTS AND OBJECTIONS
 
 (1) Where it appears to the Comptroller that any person liable to tax has not been assessed or has been assessed at a less amount than that which ought to have been charged, the Comptroller may, within the year of assessment or within 6 years (if the year of assessment is 2007 or a preceding year of assessment) or 4 years (if the year of assessment is 2008 or a subsequent year of assessment) after the expiration thereof, assess that person at such amount or additional amount as according to his judgment ought to have been charged.

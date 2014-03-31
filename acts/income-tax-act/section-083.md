@@ -1,7 +1,7 @@
-# 83. Proceedings before Board and High Court … … … … 407
+# 83. Proceedings before Board and High Court... ... ... ... ... 699
 Part: PART XVIII APPEALS
 
-(1) Subject to subsections (2) and (3), all proceedings before the Board and in appeals to, or in cases stated for the opinion of, the High Court under the provisions of this Part, and in appeals from decisions of the High Court under section 81 (5) shall be heard in camera.
+(1) Subject to subsections (2) and (3), all proceedings before the Board and in appeals to, or in cases stated for the opinion of, the High Court under the provisions of this Part, and in appeals from decisions of the High Court under section 81(5) shall be heard in camera.
 
 [5/77]
 

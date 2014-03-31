@@ -1,4 +1,4 @@
-# 17. Balancing allowances and charges for industrial buildings and structures … … … … … … … … … … 188
+# 17. Balancing allowances and charges for industrial buildings and structures ... ... ... ... ... ... ... ... ... ... ... 304
 Part: PART VI CAPITAL ALLOWANCES
 
 (1) Where any of the events referred to in subsection (1A) occurs while a building or structure is an industrial building or structure or after it has ceased to be one and —
@@ -9,7 +9,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (i) any capital expenditure has been incurred on the construction of the building or structure on or after 1st January 2006; or
 
-(ii) a sale and purchase agreement for the building or structure was entered into on or after that date, then an allowance or charge, to be known as a ‘‘balancing allowance’’ or a ‘‘balancing charge’’ shall, in the circumstances mentioned in this section, be made to or, as the case may be, on the person entitled to the relevant interest immediately before that event occurs for the year of assessment in the basis period for which that event occurs.
+(ii) a sale and purchase agreement for the building or structure was entered into on or after that date, then an allowance or a charge, to be known as a “balancing allowance” or a “balancing charge” shall, in the circumstances mentioned in this section, be made to or, as the case may be, on the person entitled to the relevant interest immediately before that event occurs for the year of assessment in the basis period for which that event occurs.
 
 [7/2007]
 
@@ -23,7 +23,7 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [7/2007]
 
-(2) In the case referred to in subsection (1) (a), no balancing allowance or balancing charge shall be made to or on any person for any year of assessment by reason of any event occurring after the end of the fiftieth year after that in which the building or structure was first used.
+(2) In the case referred to in subsection (1)(a), no balancing allowance or balancing charge shall be made to or on any person for any year of assessment by reason of any event occurring after the end of the fiftieth year after that in which the building or structure was first used.
 
 [7/2007]
 
@@ -31,9 +31,9 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (a) on the sale of the relevant interest in the building or structure unless the person proves to the satisfaction of the Comptroller that the value of the building or structure to the person is less than —
 
-(i) in the case referred to in subsection (1) (a), the amount of the capital expenditure incurred on the construction of the building or structure reduced by the amount of any initial and annual allowances made (including an amount of 3% of the capital expenditure for each year in which no initial or annual allowance was made); or
+(i) in the case referred to in subsection (1)(a), the amount of the capital expenditure incurred on the construction of the building or structure reduced by the amount of any initial and annual allowances made (including an amount of 3% of the capital expenditure for each year in which no initial or annual allowance was made); or
 
-(ii) in the case referred to in subsection (1) (b), the amount of the capital expenditure incurred by him on the construction or purchase of the building or structure (as the case may be) reduced by the amount of any initial and annual allowances made (including an amount of 3% of the capital expenditure for each year in which no initial or annual allowance was made); and
+(ii) in the case referred to in subsection (1)(b), the amount of the capital expenditure incurred by him on the construction or purchase of the building or structure (as the case may be) reduced by the amount of any initial and annual allowances made (including an amount of 3% of the capital expenditure for each year in which no initial or annual allowance was made); or
 
 (b) where the relevant interest in the building or structure is not sold but the building or structure is or would be redeveloped for any use other than as an industrial building or structure.
 
@@ -58,3 +58,11 @@ Part: PART VI CAPITAL ALLOWANCES
 (b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
 
 [49/2004]
+
+(8) Where allowances have been made under both sections 16 and 18C in respect of any industrial building or structure, then, for the purposes of subsections (4) and (5), the sale, insurance, salvage or compensation moneys in respect of that building or structure shall be such amount of those moneys as the Comptroller determines to be reasonable in the circumstances.
+
+[29/2010]
+
+(9) Where the relevant interest in a building or structure in respect of which allowances have been made under section 16 is transferred at less than the open-market price, then for the purpose of determining the amount of any balancing charge under subsection (5), the relevant interest in the building or structure shall be treated as if it had been sold for an amount equal to the open-market price of the building or structure as at the date of transfer.
+
+[29/2010]

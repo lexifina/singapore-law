@@ -1,4 +1,4 @@
-# 13G. Exemption of income of foreign trust … … … … … 108
+# 13G. Exemption of income of foreign trust... ... ... ... ... ... 139
 Part: PART IV EXEMPTION FROM INCOME TAX
 
 (1) There shall be exempt from tax such income as the Minister may by regulations prescribe of such foreign trust or eligible holding company established for the purposes of such foreign trust as specified in those regulations and administered by a trustee company in Singapore.
@@ -33,8 +33,8 @@ or
 
 (5) In this section —
 
-‘‘foreign account’’ and ‘‘philanthropic purpose trust’’ have the same meanings as in section 13O;
+“foreign account” and “philanthropic purpose trust” have the same meanings as in section 13O;
 
-‘‘trustee company’’ has the same meaning as in section 43J(2).
+“trustee company” has the same meaning as in section 43J(2).
 
 [7/2007]

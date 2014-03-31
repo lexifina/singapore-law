@@ -1,4 +1,4 @@
-# 50B. Tax credits for trust income to which beneficiary is entitled 373
+# 50B. Tax credits for trust income to which beneficiary is entitled 652
 Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (1) Where —
@@ -15,20 +15,20 @@ Part: PART XIV RELIEF AGAINST DOUBLE TAXATION
 
 (3) This section shall not apply to —
 
-(a) any income of a real estate investment trust within the meaning of section 43 (10);
+(a) any income of a real estate investment trust within the meaning of section 43(10);
 
-(b) any income of a unit trust designated under section 35 (14);
+(b) any income of a unit trust designated under section 35(14);
 
-(c) any income of an approved CPF unit trust within the meaning of section 35 (14);
+(c) any income of an approved CPF unit trust within the meaning of section 35(14);
 
-(d) any income of a trust arising from funds managed in Singapore by a fund manager prescribed under section 13C;
+(d) any income of a trust fund prescribed under section 13C;
 
-(e) any income of a foreign trust specified under section 13G; or
+(e) any income of a foreign trust specified under section 13G;
 
-(f) any income of a locally administered trust prescribed under section 13Q.
+(f) any income of a locally administered trust prescribed under section 13Q;
 
-[7/2007]
+(g) any income of a trust the trustee of which is a prescribed person under section 13CA; or
 
-PART XV
+(h) any income of an approved trust fund referred to in the definition of “approved person” under section 13X(5), or of a trust fund that is a feeder fund or master fund approved under section 13X.
 
-PERSONS CHARGEABLE Husband and wife
+[7/2007; 22/2011]

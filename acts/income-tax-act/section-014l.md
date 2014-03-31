@@ -1,4 +1,4 @@
-# 14L. Further deduction for expenses incurred in relocation or recruitment of overseas talent … … … … … … 169
+# 14L. Further deduction for expenses incurred in relocation or recruitment of overseas talent ... ... ... ... ... ... ... 246
 Part: PART V DEDUCTIONS AGAINST INCOME
 Heading: Section Pages
 

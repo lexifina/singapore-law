@@ -1,13 +1,13 @@
-# 79. Right of appeal … … … … … … … … … 401
+# 79. Right of appeal ... ... ... ... ... ... ... ... ... ... 692
 Part: PART XVIII APPEALS
 
-(1) Any person who, being aggrieved by an assessment made upon him, has failed to agree with the Comptroller in the manner provided in section 76 (6) may appeal to the Board by lodging with the secretary —
+(1) Any person who, being aggrieved by an assessment made upon him, has failed to agree with the Comptroller in the manner provided in section 76(6) may appeal to the Board by lodging with the secretary —
 
-(a) within 7 days from the date of the refusal of the Comptroller to amend the assessment as desired, a written notice of appeal in duplicate; and
+(a) within 30 days from the date of the refusal of the Comptroller to amend the assessment, a written notice of appeal in duplicate; and
 
 (b) within 30 days of the date on which such notice of appeal was lodged, a petition of appeal in quadruplicate containing a statement of the grounds of appeal.
 
-[53/2007]
+[53/2007; 22/2011]
 
 (2) A notice of appeal shall contain —
 

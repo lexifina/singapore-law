@@ -1,4 +1,4 @@
-# 70. Occupiers to furnish return of rent payable … … … 392
+# 70. Occupiers to furnish return of rent payable ... ... ... ... 681
 Part: PART XVI RETURNS
 Heading: Section Pages
 

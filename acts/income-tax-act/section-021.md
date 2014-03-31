@@ -1,7 +1,8 @@
-# 21. Replacement of machinery or plant … … … … … 219
+# 21. Replacement of machinery or plant ... ... ... ... ... ... 372
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
-(1) Where machinery or plant in the case of which any of the events mentioned in section 20 (1) has occurred is replaced by the owner thereof and a balancing charge falls to be made on him by reason of that event or, but for this section, would have fallen to be made on him by reason thereof, then, if by notice in writing to the Comptroller he so elects, this section shall have effect.
+(1) Where machinery or plant in the case of which any of the events mentioned in section 20(1) has occurred is replaced by the owner thereof and a balancing charge falls to be made on him by reason of that event or, but for this section, would have fallen to be made on him by reason thereof, then, if by notice in writing to the Comptroller he so elects, this section shall have effect.
 
 (2) If the amount on which the charge would have been made is greater than the capital expenditure on providing the new machinery or plant —
 
@@ -21,10 +22,10 @@ Part: PART VI CAPITAL ALLOWANCES
 
 (d) in considering whether any, and if so what, balancing allowance or balancing charge falls to be made in respect of the new machinery or plant, the initial allowance in respect thereof shall be deemed to have been increased by an amount equal to the amount on which the charge would have been made.
 
-(4) This section shall not apply to the provision of any new motor car for which no allowance is allowed by virtue of section 19 (5).
+(4) This section shall not apply to the provision of any new motor car for which no allowance is allowed by virtue of section 19(5).
 
 [32/99]
 
-(5) For the purpose of this section, where the capital expenditure incurred in providing a new motor car registered outside Singapore and used exclusively outside Singapore exceeds $35,000, the expenditure incurred shall be deemed to be $35,000.
+(5) For the purpose of this section, where the capital expenditure incurred in providing, in the basis period for the year of assessment 2013 or any preceding year of assessment, a new motor car registered outside Singapore and used exclusively outside Singapore exceeds $35,000, the expenditure incurred shall be deemed to be $35,000.
 
-[32/99]
+[19/2013]

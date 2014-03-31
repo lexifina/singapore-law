@@ -1,5 +1,6 @@
-# 24. Special provisions as to certain sales … … … … … 223
+# 24. Special provisions as to certain sales ... ... ... ... ... ... 376
 Part: PART VI CAPITAL ALLOWANCES
+Heading: Section Pages
 
 (1) This section, except subsection (5), shall have effect in relation to any sale of any property where the buyer is a body of persons over whom the seller has control, or the seller is a body of persons over whom the buyer has control, or both the seller and buyer are bodies of persons and some other person has control over both of them, and the sale is not one to which section 33 applies.
 
@@ -31,6 +32,14 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [13/84]
 
+(4A) No election may be made under subsection (3) for the sale of an industrial building or structure for which an option to purchase is granted or a sale and purchase agreement is entered into on or after 23rd February 2010, or which is transferred on or after that date.
+
+[29/2010]
+
+(4B) Subsection (4A) does not apply to a transfer of property to which section 34C(8) and (9) apply.
+
+[29/2010]
+
 (5) Where a change occurs in a partnership of persons carrying on any trade, business or profession by reason of retirement or death, or the dissolution of the partnership as to one or more of the partners, or the admission of a new partner, and where no election is made under subsection (3), any property of the partnership shall be treated as if the property had been sold —
 
 (a) to all the remaining partners and new partners of the partnership on the date the change occurs; and
@@ -39,6 +48,6 @@ Part: PART VI CAPITAL ALLOWANCES
 
 [34/2005]
 
-(6) In subsection (5), ‘‘open-market price’’ has the same meaning as in section 20 (7).
+(6) In subsection (5), “open-market price” has the same meaning as in section 20(7).
 
 [34/2005]

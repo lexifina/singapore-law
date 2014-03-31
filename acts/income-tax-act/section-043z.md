@@ -1,4 +1,4 @@
-# 43Z. Concessionary rate of tax for aircraft investment manager … 344
+# 43Z. Concessionary rate of tax for aircraft investment manager ... 610
 Part: PART XI RATES OF TAX
 Heading: Section Pages
 
@@ -10,7 +10,7 @@ Heading: Section Pages
 
 [53/2007]
 
-(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37 (3).
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [53/2007]
 
@@ -18,16 +18,16 @@ Heading: Section Pages
 
 [53/2007]
 
-(4) Approval may be granted under this section between 1st March 2007 and 29th February 2012.
+(4) Approval may be granted under this section between 1st March 2007 and 31st March 2017.
 
-[53/2007]
+[53/2007; 29/2012]
 
 (5) In this section —
 
-‘‘aircraft investment manager’’ means any company incorporated in Singapore;
+“aircraft investment manager” means any company incorporated in Singapore;
 
-‘‘aircraft leasing company’’ has the same meaning as in section 43Y;
+“aircraft leasing company” has the same meaning as in section 43Y;
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint.
+“approved” means approved by the Minister or such person as he may appoint.
 
 [53/2007]

@@ -1,4 +1,4 @@
-# 10A. Profits of investment company … … … … … … 40
+# 10A. Profits of investment company ... ... ... ... ... ... ... 48
 Part: PART III IMPOSITION OF INCOME TAX
 
 (1) Notwithstanding any other provisions of this Act, the Minister may by regulations —
@@ -15,11 +15,11 @@ Part: PART III IMPOSITION OF INCOME TAX
 
 (2) In this section —
 
-‘‘approved’’ means approved by the Minister or such person as he may appoint;
+“approved” means approved by the Minister or such person as he may appoint;
 
-‘‘investment company’’ means any company whose business consists wholly or mainly in the making of investments and the principal part of whose income is derived therefrom;
+“investment company” means any company whose business consists wholly or mainly in the making of investments and the principal part of whose income is derived therefrom;
 
-‘‘securities’’ means —
+“securities” means —
 
 (a) debentures, stocks, shares, bonds or notes issued by a government or company;
 

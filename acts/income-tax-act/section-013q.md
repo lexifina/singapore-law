@@ -1,4 +1,4 @@
-# 13Q. Exemption of relevant income of prescribed locally administered trust … … … … … … … … 129
+# 13Q. Exemption of relevant income of prescribed locally administered trust ... ... ... ... ... ... ... ... ... ... ... ... 169
 Part: PART IV EXEMPTION FROM INCOME TAX
 Heading: Section Pages
 
@@ -16,7 +16,7 @@ Heading: Section Pages
 
 (3) In this section —
 
-‘‘locally administered trust’’ means a trust administered by a trustee company in Singapore —
+“locally administered trust” means a trust administered by a trustee company in Singapore —
 
 (a) every settlor of which is an individual;
 
@@ -24,12 +24,12 @@ Heading: Section Pages
 
 (c) at least one of the beneficiaries of which is not a settlor of the trust;
 
-‘‘relevant income’’ means —
+“relevant income” means —
 
-(a) any income of the kinds referred to in section 13 (1) (zd), (ze), (zf), (zh), (zi), (zj), (zk) or (zl) accrued in or derived from Singapore on or after 17th February 2006; or
+(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi), (zj), (zk) or (zl) accrued in or derived from Singapore on or after 17th February 2006; or
 
-(b) any income of the kinds referred to in section 13 (7A) received in Singapore on or after 17th February 2006 excluding, in respect of a prescribed locally administered trust, any dividend received by the trust from a prescribed holding company not resident in Singapore, if the dividend is paid out of income that is not the relevant income of the holding company;
+(b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 17th February 2006 excluding, in respect of a prescribed locally administered trust, any dividend received by the trust from a prescribed holding company not resident in Singapore, if the dividend is paid out of income that is not the relevant income of the holding company;
 
-‘‘trustee company’’ has the same meaning as in section 43J (2).
+“trustee company” has the same meaning as in section 43J(2).
 
 [7/2007; 53/2007]

@@ -1,6 +1,6 @@
 # SEVENTH SCHEDULE
 
-Section 108 (1), (2) and (3)
+Sections 106(3) and 108(1), (2) and (3)
 
 ADVANCE RULINGS
 
@@ -26,9 +26,9 @@ PART I
 
 (b) shall comply with the disclosure requirements of paragraph 9.
 
-SEVENTH SCHEDULE — continued
-
 (5) An applicant for a ruling may at any time withdraw the application by notice in writing to the Comptroller.
+
+SEVENTH SCHEDULE — continued
 
 2. The Comptroller may decline to make a ruling if —
 
@@ -62,9 +62,9 @@ or
 
 (e) an assessment (other than an assessment of any estimated tax) relating to the person, the arrangement, and a year of assessment to which the proposed ruling would apply has been made, unless the application is received by the Comptroller before the date the assessment is made;
 
-(f) the Comptroller is undertaking an audit or investigation on how any provision of this Act applies to the applicant, or to an arrangement similar to the arrangement which is the subject of the application, during any period for which the proposed ruling would apply were the ruling to be made;
+(f) the Comptroller is undertaking an audit or investigation on how any provision of this Act applies to the applicant, or to an arrangement similar to the arrangement which is the subject of the application, during any SEVENTH SCHEDULE — continued
 
-SEVENTH SCHEDULE — continued
+period for which the proposed ruling would apply were the ruling to be made;
 
 (g) in the Comptroller’s opinion, the applicant has not provided sufficient information in relation to the application after the Comptroller has requested further information;
 
@@ -78,7 +78,9 @@ SEVENTH SCHEDULE — continued
 
 (a) the ruling applies in relation to the arrangement during the whole or any part of the period specified in the ruling; and
 
-(b) the person has under paragraph 17 disclosed in the return provided under this Act that he has relied on the ruling in preparing and providing the return, the Comptroller shall apply the provision in relation to the person and the arrangement in respect of the whole of the period or the part of the period, as the case may be, in accordance with the ruling.
+(b) the person has under paragraph 17 disclosed in the return provided under this Act that he has relied on the ruling in preparing and providing the return,
+
+the Comptroller shall apply the provision in relation to the person and the arrangement in respect of the whole of the period or the part of the period, as the case may be, in accordance with the ruling.
 
 6. A ruling shall apply in relation to an arrangement as a ruling on a provision of this Act —
 
@@ -94,11 +96,11 @@ SEVENTH SCHEDULE — continued
 
 (c) the Comptroller makes an assumption about a future event or another matter that is material to the ruling, and the assumption subsequently proves to be incorrect; or
 
+SEVENTH SCHEDULE — continued
+
 (d) the Comptroller stipulates a condition that is not satisfied.
 
 8.—(1) A person, in his own right or on behalf of a person who is yet to come into legal existence, may apply to the Comptroller for a ruling on how a provision of this Act applies, or would apply, to —
-
-SEVENTH SCHEDULE — continued
 
 (a) the person making the application or the prospective person, as the case may be; and
 
@@ -116,13 +118,11 @@ SEVENTH SCHEDULE — continued
 
 (d) state the proposition of law (if any) which is relevant to the issues raised in the application;
 
-(e) state whether a previous application has been made on the same or any similar arrangement by the applicant and the result of any such application;
-
-and
+(e) state whether a previous application has been made on the same or any similar arrangement by the applicant and the result of any such application; and
 
 (f) provide a draft ruling.
 
-(2) If the Comptroller considers that it would be unreasonable to require the applicant to comply with any of the requirements in sub-paragraph (1) (c) to (f), the Comptroller may waive those requirements.
+(2) If the Comptroller considers that it would be unreasonable to require the applicant to comply with any of the requirements in sub‑paragraph (1)(c) to (f), the Comptroller may waive those requirements.
 
 (3) Any document provided by any person under this Schedule shall be retained by the Comptroller.
 
@@ -132,13 +132,13 @@ and
 
 (2) The Comptroller may not make assumptions about information which the applicant can provide.
 
+SEVENTH SCHEDULE — continued
+
 12.—(1) A ruling made by the Comptroller shall state —
 
 (a) that it is a ruling made under section 108;
 
 (b) the identity of the person, the provision of this Act, and the arrangement (which may be identified by reference to the arrangement in the application) to which the ruling applies;
-
-SEVENTH SCHEDULE — continued
 
 (c) how the provision of this Act applies to the arrangement and to the person;
 
@@ -154,7 +154,7 @@ SEVENTH SCHEDULE — continued
 
 (2) The ruling is withdrawn from the date specified in the notice of withdrawal.
 
-(3) The date referred to in sub-paragraph (2) may not be earlier from the date on which the person could reasonably be expected to receive the notice of withdrawal.
+(3) The date referred to in sub‑paragraph (2) may not be earlier from the date on which the person could reasonably be expected to receive the notice of withdrawal.
 
 (4) If the Comptroller withdraws a ruling —
 
@@ -170,13 +170,17 @@ SEVENTH SCHEDULE — continued
 
 16. The fact that there has been an application for a ruling does not affect a person’s obligation to provide any return, make any payment, or do any other act, or the Comptroller’s power to make or amend any assessment.
 
+SEVENTH SCHEDULE — continued
+
 17. Where —
 
 (a) a person has obtained a ruling;
 
-(b) the person is required to provide a return under this Act; but SEVENTH SCHEDULE — continued
+(b) the person is required to provide a return under this Act; but
 
-(c) in preparing the return the person is required to take into account the way in which a provision of this Act applies to the arrangement identified in the ruling, the person shall disclose in the return —
+(c) in preparing the return the person is required to take into account the way in which a provision of this Act applies to the arrangement identified in the ruling,
+
+the person shall disclose in the return —
 
 (i) the existence of the ruling;
 
@@ -188,11 +192,11 @@ PART II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are as follows:
 
-(a) a non-refundable application fee of $525 (inclusive of goods and services tax), which must accompany the application;
+(a) a non-refundable application fee of $562 (inclusive of goods and services tax), which must accompany the application;
 
-(b) a further fee, calculated at $131.25 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+(b) a further fee, calculated at $140.50 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
 
-(c) an additional fee, of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
+(c) an additional fee, of up to 2 times the aggregate fee under sub‑paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
 (d) reimbursement fees in respect of —
 
@@ -204,4 +208,4 @@ PART II
 
 3. The Comptroller must ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
 
-[34/2005]
+[34/2005; S 130/2012; S 775/2013]

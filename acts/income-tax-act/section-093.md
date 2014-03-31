@@ -1,4 +1,4 @@
-# 93. Repayment of tax … … … … … … … … 414
+# 93. Repayment of tax... ... ... ... ... ... ... ... ... ... 711
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 Heading: Section Pages
 
@@ -12,9 +12,7 @@ Heading: Section Pages
 
 (3) Nothing in this section shall operate to extend any time limit for appeal or validate any objection or appeal which is otherwise invalid or authorise the revision of any assessment or other matter which has become final and conclusive.
 
-(4) Any refund to be made under this section shall be reduced by the amount of charge or additional charge which has not been utilised for set-off under sections 44 (17) and 44A (9) on the date the refund arises, and where the amount of such charge or additional charge exceeds the amount to be refunded no refund shall be made under this section.
-
-[1/88; 37/2002]
+(4) [Deleted by Act 19 of 2013]
 
 (5) Where through death, incapacity, bankruptcy, liquidation or other cause a person who would, but for such cause, have been entitled to make a claim under subsection (1) is unable to do so, his executor, trustee or receiver, as the case may be, shall be entitled to have refunded to him for the benefit of such person or his estate any tax paid in excess within the meaning of subsection (1).
 

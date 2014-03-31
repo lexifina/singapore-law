@@ -1,14 +1,14 @@
-# 15. Deductions not allowed … … … … … … … 181
+# 15. Deductions not allowed ... ... ... ... ... ... ... ... 294
 Part: PART V DEDUCTIONS AGAINST INCOME
 Heading: Section Pages
 
 (1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
 
-(a) domestic or private expenses except as provided in section 14 (1) (g);
+(a) domestic or private expenses except as provided in section 14(1)(g);
 
 (b) any disbursements or expenses not being money wholly and exclusively laid out or expended for the purpose of acquiring the income;
 
-(c) any capital withdrawn or any sum employed or intended to be employed as capital except as provided in section 14 (1) (h);
+(c) any capital withdrawn or any sum employed or intended to be employed as capital except as provided in section 14(1)(h);
 
 (d) any capital employed in improvements other than improvements effected in the replanting of a plantation;
 
@@ -20,9 +20,17 @@ Heading: Section Pages
 
 (h) any amount paid or payable in respect of goods and services tax by the person if he, being required to be registered under the Goods and Services Tax Act (Cap. 117A), has failed to do so, or if he is entitled under that Act to credit that amount of tax as an input tax;
 
-(i) any payment to any provident, savings, widows’ and orphans’ or other society or fund, including the Supplementary Retirement Scheme, except such payments as are allowed under sections 14 (1) (e) and (f) and 39 (2) (g) and (o);
+(i) any payment to any provident, savings, widows’ and orphans’ or other society or fund, including the Supplementary Retirement Scheme, except —
 
-(j) any sum referred to in section 12 (6) payable by any person outside Singapore to another person outside Singapore except where the sum is exempt from tax, or tax has been deducted and accounted for under section 45;
+(i) such payment made by an employer on his employee’s behalf to the Central Provident Fund that are obligatory under the Central Provident Fund Act (Cap. 36);
+
+(ii) such payment made by an employer on his employee’s behalf to the retirement account or special account of that employee in accordance with section 18 of the Central Provident Fund Act;
+
+(iii) such payment made by an employer on his employee’s behalf to the SRS account of that employee up to the amount of the SRS contribution cap applicable to that employee as determined in accordance with regulations made under section 10L(11); and
+
+(iv) such payments as are allowed under section 14(1)(e), (f), (fa), (fb) and (fc);
+
+(j) any sum referred to in section 12(6) payable by any person outside Singapore to another person outside Singapore except where the sum is exempt from tax, or tax has been deducted and accounted for under section 45;
 
 (k) any outgoings and expenses, whether directly or in the form of reimbursements, and any claim for the cost of renewal incurred on or after 1st April 1998 in respect of a motor car (whether owned by him or any other person) which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
@@ -36,24 +44,28 @@ Heading: Section Pages
 
 (v) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes if the person is carrying on the business of providing driving instruction and holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act;
 
-(l) any outgoings and expenses incurred in respect of any unit trust designated under section 35 (14) if the person is a unit holder of such trust;
+(l) any outgoings and expenses incurred in respect of any unit trust designated under section 35(14) if the person is a unit holder of such trust;
 
-(m) any amount of output tax paid or payable under the Goods and Services Tax Act (Cap. 117A) which is borne by the person if he is registered as a taxable person under that Act;
+(m) any amount of output tax paid or payable under the Goods and Services Tax Act which is borne by the person if he is registered as a taxable person under that Act;
 
-(n) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35 (14) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund;
+(n) any outgoings and expenses incurred in respect of any approved CPF unit trust as defined in section 35(14) if the person is a unit holder who has purchased any unit in such trust using moneys other than those standing to his credit in the Central Provident Fund;
 
-(o) any sum of money, other than any compensatory payment, paid by a transferee to a transferor after the transferee has failed to notify such person within such period as the Comptroller may require under section 10N (6) (b), in place of any dividend derived from Singapore from which tax has been deducted under section 44 in respect of transferred securities under a securities lending or repurchase arrangement to which section 10N applies;
+(o) [Deleted by Act 19 of 2013]
 
-(p) any outgoings and expenses, whether directly or in the form of reimbursements, incurred in respect of any right or benefit granted to any person to acquire shares on or after 1st January 2002 in any company, if the right or benefit is not granted by reason of any office or employment held in Singapore by the person; and
+(p) any outgoings and expenses, whether directly or in the form of reimbursements, incurred in respect of any right or benefit granted to any person to acquire shares on or after 1st January 2002 in any company, if the right or benefit is not granted by reason of any office or employment held in Singapore by the person; or
 
-(q) any outgoings and expenses, whether directly or in the form of reimbursements, incurred by any company in respect of any right or benefit granted to any person, by reason of any office or employment held in Singapore by that person, to acquire shares (other than treasury shares) of a holding company of that company.
+(q) any outgoings and expenses, whether directly or in the form of reimbursements, incurred by any company in respect of any right or benefit granted to any person, by reason of any office or employment held in Singapore by that person, to acquire shares (other than treasury shares, or shares in respect of which the company is allowed a deduction under section 14PA(7)) of a holding company of that company.
 
-[7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007]
+[7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001;
 
-(2) Subsection (1) (b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O or 14P.
+37/2002; 7/2007; 53/2007; 34/2008; 22/2011; 19/2013]
 
-[9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99; 21/2003]
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14M, 14N, 14O, 14P, 14PA, 14Q, 14S, 14V or 14W.
 
-(3) In this section, ‘‘holding company’’ has the same meaning as in section 5 of the Companies Act (Cap. 50).
+[9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99; 21/2003;
+
+34/2008; 29/2010; 22/2011; 19/2013]
+
+(3) In this section, “holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50).
 
 [7/2007]

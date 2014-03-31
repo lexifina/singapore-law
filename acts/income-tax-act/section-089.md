@@ -1,9 +1,10 @@
-# 89. Suit for tax by Comptroller … … … … … … 410
+# 89. Suit for tax by Comptroller ... ... ... ... ... ... ... ... 703
 Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
+Heading: Section Pages
 
-(1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under sections 44, 44A and 45, may be sued for by way of a specially endorsed writ of summons.
+(1) Notwithstanding the provisions of any other written law, tax, interest and any penalty imposed under this Act and any sum due to the Government under section 45, may be sued for by way of a specially endorsed writ of summons.
 
-[24/2000; 37/2002]
+[24/2000; 37/2002; 19/2013]
 
 (2) The Comptroller may, in his own name, sue for any such tax, interest, penalty or other sum due and shall be entitled to all costs allowed by law against the person liable thereto.
 
@@ -15,7 +16,7 @@ Part: PART XIX COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 [2/92; 24/2000]
 
-(5) In addition to any other powers of collection and recovery provided in this Act, the Comptroller may, with the approval of the Minister and, where the tax charged on the income of any person who carries on the business of shipowner or charterer or of air transport has been in default for more than 3 months, whether the person is assessed directly or in the name of some other person, issue to the Director-General of Customs, or other authority by whom clearance may be granted, a certificate containing the name or names of the person and particulars of the tax in default.
+(5) In addition to any other powers of collection and recovery provided in this Act, the Comptroller may, with the approval of the Minister and, where the tax charged on the income of any person who carries on the business of shipowner or charterer or of air transport has been in default for more than 3 months, whether the person is assessed directly or in the name of some other person, issue to the Director- General of Customs, or other authority by whom clearance may be granted, a certificate containing the name or names of the person and particulars of the tax in default.
 
 [4/2003]
 

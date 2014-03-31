@@ -1,6 +1,5 @@
-# 37B. Adjustment of capital allowances, losses or donations between income subject to tax at different rates … … … 269
+# 37B. Adjustment of capital allowances, losses or donations between income subject to tax at different rates ... ... ... ... ... 447
 Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
-Heading: Section Pages
 
 (1) This section shall apply to any company whose income for any year of assessment is subject to tax at different rates.
 
@@ -8,9 +7,7 @@ Heading: Section Pages
 
 (2) Where, for any year of assessment, there are any unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax to which this section applies, and there is any chargeable income of the company subject to tax at a higher rate of tax to which this section applies, those unabsorbed allowances, losses or donations shall be deducted against that chargeable income in accordance with the following provisions:
 
-(a) in the case where those unabsorbed allowances, losses or donations do not exceed that chargeable income multiplied by the adjustment factor, that chargeable income shall be reduced by an amount arrived at by dividing those unabsorbed allowances, losses or donations by the adjustment factor, and those unabsorbed allowances, losses or donations shall be nil;
-
-and
+(a) in the case where those unabsorbed allowances, losses or donations do not exceed that chargeable income multiplied by the adjustment factor, that chargeable income shall be reduced by an amount arrived at by dividing those unabsorbed allowances, losses or donations by the adjustment factor, and those unabsorbed allowances, losses or donations shall be nil; and
 
 (b) in any other case, those unabsorbed allowances, losses or donations shall be reduced by an amount arrived at by multiplying that chargeable income by the adjustment factor, and those unabsorbed allowances, losses or donations so reduced shall be added to, and be deemed to form part of, the corresponding allowances, losses or donations in respect of the income subject to tax at the lower rate of tax, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable income shall be nil.
 
@@ -18,7 +15,9 @@ and
 
 (3) Where, for any year of assessment, there are any unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax to which this section applies, and there is any chargeable income of the company subject to tax at a lower rate of tax to which this section applies, those unabsorbed allowances, losses or donations shall be deducted against that chargeable income in accordance with the following provisions:
 
-(a) in the case where those unabsorbed allowances, losses or donations do not exceed that chargeable income divided by the adjustment factor, that chargeable income shall be reduced by an amount arrived at by multiplying those unabsorbed allowances, losses or donations by the adjustment factor, and those unabsorbed allowances, losses or donations shall be nil; and
+(a) in the case where those unabsorbed allowances, losses or donations do not exceed that chargeable income divided by the adjustment factor, that chargeable income shall be reduced by an amount arrived at by multiplying those unabsorbed allowances, losses or donations by the adjustment factor, and those unabsorbed allowances, losses or donations shall be nil;
+
+and
 
 (b) in any other case, those unabsorbed allowances, losses or donations shall be reduced by an amount arrived at by dividing that chargeable income by the adjustment factor, and those unabsorbed allowances, losses or donations so reduced shall be added to, and be deemed to form part of, the corresponding allowances, losses or donations in respect of the income subject to tax at the higher rate of tax, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable income shall be nil.
 
@@ -34,32 +33,40 @@ and
 
 (6) Nothing in this section shall be construed as affecting the application of section 23 or 37 unless otherwise provided in this section.
 
+(6A) If, during the basis period for the year of assessment 2013 or any subsequent year of assessment (referred to in this subsection as the relevant year of assessment), a company only derives income that is exempt from tax, then subsection (3) shall, with the necessary modifications, apply to any year of assessment subsequent to the relevant year of assessment as if any sum allowable under section 37(3)(b), (c), (d) or (f) in respect of any donation made by that company during the basis period for the relevant year of assessment were unabsorbed donation in respect of the income of a company that is subject to tax at the rate of tax specified in section 43(1)(a).
+
+[29/2012]
+
 (7) In this section —
 
-‘‘adjustment factor’’, in relation to any year of assessment, means the factor ascertained in accordance with the formula A , —
+“adjustment factor”, in relation to any year of assessment, means the factor ascertained in accordance with the formula A ;
 
-B where A is the higher rate of tax for that year of assessment;
+B
 
-and B is the lower rate of tax for that year of assessment;
+where A is the higher rate of tax for that year of assessment; and
 
-‘‘allowances’’ means allowances under section 16, 17, 19, 19A, 19B, 19C, 19D, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
+B is the lower rate of tax for that year of assessment;
 
-‘‘chargeable income of the company subject to tax at a higher rate of tax’’ means income subject to tax at a higher rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
+“allowances” means allowances under section 16, 17, 18B, 18C, 19, 19A, 19B, 19C, 19D, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
 
-‘‘chargeable income of the company subject to tax at a lower rate of tax’’ means income subject to tax at a lower rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
+“chargeable income of the company subject to tax at a higher rate of tax” means income subject to tax at a higher rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
 
-‘‘donations’’ means donations which are deductible including any unabsorbed donations allowable under section 37;
+“chargeable income of the company subject to tax at a lower rate of tax” means income subject to tax at a lower rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
 
-‘‘higher rate of tax’’ or ‘‘lower rate of tax’’ means the rate of tax under section 43 (1) (a) or the concessionary rate of tax in accordance with —
+“donations” means donations which are deductible including any unabsorbed donations allowable under section 37;
 
-(a) any order made under section 13 (12); or
+“higher rate of tax” or “lower rate of tax” means the rate of tax under section 43(1)(a) or the concessionary rate of tax in accordance with —
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43O, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y or 43Z, or the regulations made thereunder, as the case may be;
+(a) any order made under section 13(12); or
 
-‘‘losses’’ means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
+(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE or 43ZF, or the regulations made thereunder, as the case may be;
 
-‘‘unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax’’ means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a higher rate of tax;
+“losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
-‘‘unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax’’ means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a lower rate of tax.
+“unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax” means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a higher rate of tax;
 
-[37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007]
+“unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax” means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a lower rate of tax.
+
+[37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007;
+
+34/2008; 29/2010; 22/2011; 19/2013]

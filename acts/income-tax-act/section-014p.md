@@ -1,4 +1,4 @@
-# 14P. Deduction for treasury shares transferred under employee equity-based remuneration scheme … … … … … 178
+# 14P. Deduction for treasury shares transferred under employee equity- based remuneration scheme... ... ... ... ... ... ... ... 255
 Part: PART V DEDUCTIONS AGAINST INCOME
 Heading: Section Pages
 
@@ -10,31 +10,39 @@ Heading: Section Pages
 
 [7/2007]
 
-(3) For the purpose of subsection (2), the cost to the company of acquiring the treasury shares transferred to any person shall, at the election of the company, be determined —
+(3) For the purpose of subsection (2), the cost to the company of acquiring the treasury shares shall be determined by any of the methods referred to in subsection (4), being (if the company has previously been allowed a deduction under this section) the method consistently adopted by it when ascertaining its cost of acquiring shares under this section.
 
-(a) on the basis that treasury shares acquired by the company at an earlier point in time are deemed to be transferred first;
+[22/2011]
 
-(b) in accordance with the formula A — × C , B where A is the number of treasury shares transferred by the company to the person;
+(4) The methods referred to in subsection (3) are as follows:
 
-B is the total number of treasury shares held by the company immediately before the transfer to the person; and
+(a) on the basis that the treasury shares acquired by the company at an earlier point in time are deemed to be transferred first;
 
-C is the total cost of acquiring all the treasury shares held by the company immediately before the transfer to the person; or
+(b) on the basis of the formula A  C;
 
-(c) on the basis of the aggregate cost of all treasury shares transferred to all persons within each regular interval under subsection (1) computed in accordance with the formula D ——— × (G + H) , (E + F) where D is the total number of treasury shares transferred under subsection (1) by the company to all persons within that interval;
+B
 
-E is the total number of treasury shares held by the company at the end of the interval immediately preceding that interval;
+where A is the number of the treasury shares transferred;
+
+B is the total number of treasury shares held by the company immediately before the transfer; and
+
+C is the total cost to the company of acquiring the treasury shares held by it immediately before the transfer;
+
+(c) on the basis of the aggregate cost of all treasury shares transferred under subsection (1) within every regular interval in the basis period during which the transfer in question occurred, where the cost of all treasury shares so transferred within a regular interval is ascertained by the formula D  ðG þ HÞ;
+
+ðE þ FÞ
+
+where D is the total number of treasury shares transferred under subsection (1) within that interval;
+
+E is the total number of treasury shares held by the company at the end of the period equal in length to the regular interval immediately preceding that interval;
 
 F is the total number of treasury shares acquired by the company within that interval;
 
-G is the total cost of acquiring all the treasury shares held by the company at the end of the interval immediately preceding that interval; and
+G is the total cost to the company of acquiring the treasury shares held by it at the end of the period equal in length to the regular interval immediately preceding that interval; and
 
-H is the total cost of acquiring all the treasury shares by the company within that interval.
+H is the total cost to the company of acquiring treasury shares within that interval.
 
-[7/2007]
-
-(4) Any election for determining the cost of acquiring treasury shares under subsection (3) or for the length of any regular interval made by a company shall be irrevocable.
-
-[7/2007]
+[22/2011]
 
 (5) Where any amount payable by a person for any treasury shares transferred to him exceeds the cost to the company of acquiring the treasury shares transferred as determined under subsection (3), the amount of the excess shall be credited to an account to be kept by the company for the purpose of this section.
 
@@ -56,22 +64,46 @@ H is the total cost of acquiring all the treasury shares by the company within t
 
 (a) no deduction shall be allowed to the holding company under subsection (1);
 
-(b) if any amount is paid or payable by the subsidiary company to the holding company for the transfer of the treasury shares, there shall be allowed to the subsidiary company, on the date of the transfer of the shares or of the payment to the holding company for the shares, whichever is the later, a deduction under subsection (1) for the amount, or an amount equal to the cost to the holding company of acquiring the treasury shares transferred to that person as determined under subsection (3) less any amount payable by that person for the treasury shares, whichever is the less; and
+(b) if any amount is paid or payable by the subsidiary company to the holding company for the transfer of the treasury shares, there shall be allowed to the subsidiary company for the year of assessment which relates to the basis period in which the shares are transferred or in which the payment to the holding company for the shares becomes due and payable (whichever is the later), a deduction under subsection (1) of the lower of —
 
-(c) subsections (5) and (6) shall not apply to a company to which this subsection applies.
+(i) the amount, less any amount paid or payable by the person for the treasury shares, to the extent the amount so paid or payable has not been deducted from the first-mentioned amount; and
 
-[7/2007]
-
-(9) In this section —
-
-‘‘holding company’’ and ‘‘subsidiary company’’ have the same meanings as in section 5 of the Companies Act (Cap. 50);
-
-‘‘regular interval’’, in relation to a company, means an interval in a number of equal periods where —
-
-(a) the period of each interval is elected by the company;
+(ii) an amount equal to the cost to the holding company of acquiring the treasury shares transferred to that person as determined under subsection (8A) less any amount paid or payable by the person for the treasury shares;
 
 and
 
-(b) the aggregate period of all intervals in a basis period would be equal to the basis period.
+(c) subsections (5) and (6) shall not apply to a company to which this subsection applies.
 
-[7/2007]
+[7/2007; 22/2011]
+
+(8A) For the purpose of subsection (8)(b), the amount equal to the cost to the holding company of acquiring the treasury shares transferred to a person shall be determined —
+
+(a) in accordance with subsection (3); or
+
+(b) where the holding company is incorporated outside Singapore and the following conditions are satisfied, on the basis that the treasury shares acquired by the holding company at the latest point in time are deemed to be transferred first:
+
+(i) the basis is in accordance with the accounting policy of the group of companies of which the holding company is a member;
+
+(ii) if there are applicable accounting principles which are generally accepted in the country in which the holding company is incorporated, the basis is in accordance with those principles;
+
+(iii) the basis is consistently adopted by the holding company unless otherwise allowed by the Comptroller; and
+
+(iv) the Comptroller is satisfied that the basis is not adopted for the purposes of deriving any tax benefit or obtaining any tax advantage.
+
+[34/2008]
+
+(9) In this section —
+
+“holding company” and “subsidiary company” have the same meanings as in section 5 of the Companies Act (Cap. 50);
+
+“regular interval”, in relation to a basis period, means one of a number of equal periods within the basis period —
+
+(a) where the aggregate of all of those equal periods is equal to the basis period; and
+
+(b) where the duration of each equal period —
+
+(i) in a case where the company has previously been allowed a deduction under this section, is the one previously adopted by the company for the purpose of this section; or
+
+(ii) in any other case, is any duration adopted by the company for the purpose of this section.
+
+[7/2007; 22/2011]

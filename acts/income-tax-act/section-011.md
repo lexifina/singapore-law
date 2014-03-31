@@ -1,4 +1,4 @@
-# 11. Ascertainment of income of clubs, trade associations, etc. … 68
+# 11. Ascertainment of income of clubs, trade associations, etc. ... 81
 Part: PART III IMPOSITION OF INCOME TAX
 Heading: Section Pages
 
@@ -14,15 +14,15 @@ Heading: Section Pages
 
 [7/2007]
 
-(3) For the purposes of subsection (2), ‘‘body of persons’’ includes a company limited by guarantee approved by the Minister or such person as he may appoint, subject to such conditions as he may impose.
+(3) For the purposes of subsection (2), “body of persons” includes a company limited by guarantee approved by the Minister or such person as he may appoint, subject to such conditions as he may impose.
 
 [7/2007]
 
 (4) In this section —
 
-‘‘members’’, in relation to a body of persons, means those persons who are entitled to vote at a general meeting of the body at which effective control is exercised over its affairs;
+“members”, in relation to a body of persons, means those persons who are entitled to vote at a general meeting of the body at which effective control is exercised over its affairs;
 
-‘‘Singapore members’’ means members that are —
+“Singapore members” means members that are —
 
 (a) persons, other than companies, resident in Singapore;
 
