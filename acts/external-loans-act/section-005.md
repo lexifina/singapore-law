@@ -1,0 +1,7 @@
+# 5. Exchange of securities
+
+(1) The Minister may, for the purpose of carrying out any arrangement made with holders of securities issued under this Act for the exchange of those securities (whether on or before maturity, and whether with or without any further payment), create and issue such other securities as the Minister thinks fit, and this section and section 4 shall apply, with any necessary adaptations, to securities issued under this section as if they were issued for raising an external loan.
+
+(2) Any arrangements made for the exchange of securities under this section may include provision for the making of payments to the holders of securities exchanged; and any such payments and all other expenses of any such exchange may be met out of the surplus, if any, created by the exchange in any sinking fund relating to the securities exchanged and, if not so met, shall be charged on the Consolidated Fund as part of the debt charges for those securities.
+
+(3) On any exchange of securities under this section, the surplus, if any, so created by the exchange in any sinking fund relating to the securities exchanged, or so much of it as is not applied under subsection (2), may, if the Minister so directs, be transferred to any other sinking fund relating to securities of Singapore, and subject to such directions by the Minister, shall be applied at such times and in such manner as the Minister may determine in the redemption of securities of Singapore.
