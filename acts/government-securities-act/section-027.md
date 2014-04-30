@@ -9,8 +9,8 @@ Part: PART VII ADVANCE DEPOSITS
 
 (4) Interest on advance deposits shall be paid half-yearly.
 
-(5) The Minister shall, in each half-yearly period ending with the day on which interest on advance deposits falls due, appropriate out of the Government Securities Fund a sum equal to the appropriate half-year’s interest on the advance deposits in order that the interest for that half-year may be paid therefrom.
+(5) The Minister shall, in each half-yearly period ending with the day on which interest on advance deposits falls due, appropriate out of the Government Securities Fund a sum equal to the appropriate half‑year’s interest on the advance deposits in order that the interest for that half-year may be paid from that sum.
 
-(6) If a depositor wishes the whole or part of the advance deposits made by him to be repaid, he shall give not less than 2 working days notice to the Authority of his intention and the advance deposits or that part of them, as the case may be, shall be repaid to him together with such interest as may be determined by the Authority.
+(6) If a depositor wishes the whole or part of the advance deposits made by him to be repaid, he shall give not less than 2 working days’ notice to the Authority of his intention and the advance deposits or that part of them, as the case may be, shall be repaid to him together with such interest as may be determined by the Authority.
 
 (7) Advance deposits may be converted to Government securities issued under this Act on such date as may be agreed between the Authority and the depositors.

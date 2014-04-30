@@ -5,9 +5,15 @@ Part: PART II ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
 (a) all sums representing the proceeds of loans raised or advance deposits accepted under this Act;
 
-(b) all sums representing the proceeds of loans raised under the Local Treasury Bills Act (Cap. 167) on or after 1st April 1996*;
+(b) all sums representing the proceeds of loans raised under the Local Treasury Bills Act (Cap. 167) on or after 1st April
+
+1
+
+1996 ;
 
 (c) all moneys from time to time authorised to be paid into the Government Securities Fund by this Act or any other written law; and
+
+1 Date of commencement of the Local Treasury Bills (Amendment) Act 1996 (Act 6 of 1996).
 
 (d) all income from the investment of moneys in the Government Securities Fund authorised to be made by this Act, and all profits arising from the realisation of any such investments.
 

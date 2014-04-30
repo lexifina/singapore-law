@@ -1,4 +1,4 @@
-# 15. Register of stocks
+# 15. Register of stocks 1
 Part: PART IV PROVISIONS APPLICABLE TO ISSUE AND REGISTRATION OF STOCKS AND BEARER BONDS
 
 (1) All stocks issued under this Act shall be entered in a register to be kept by the Authority.
