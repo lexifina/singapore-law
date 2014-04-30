@@ -1,6 +1,10 @@
 # 40. Worker’s lien
 Part: PART VII GENERAL
 
-(1) Subject to subsection (2) where a worker does work upon goods comprised in a hire-purchase agreement in such circumstances that, if the goods were the property of the hirer, the worker would be entitled to a lien on the goods for the value of his work, he shall be entitled to a lien notwithstanding that the goods are not the property of the hirer.
+(1) Subject to subsection (2) where a worker does work upon goods comprised in a regulated agreement in such circumstances that, if the goods were the property of the hirer, the worker would be entitled to a lien on the goods for the value of his work, he shall be entitled to a lien notwithstanding that the goods are not the property of the hirer.
 
-(2) The lien is not enforceable against the owner if the hire-purchase agreement contains a provision prohibiting the creating of a lien by the hirer and the worker had notice of that provision before doing the work upon the goods.
+[7/2012]
+
+(2) The lien is not enforceable against the owner if the regulated agreement contains a provision prohibiting the creating of a lien by the hirer and the worker had notice of that provision before doing the work upon the goods.
+
+[7/2012]

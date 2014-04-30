@@ -5,6 +5,6 @@ Any notice or document required or authorised to be served on or given or sent t
 
 (a) delivered to him personally;
 
-(b) left at his place of residence or business with some other person apparently an inmate thereof or employed thereat and apparently of or over the age of 16 years; or
+(b) left at his place of residence or business with some other person apparently an inmate of or employed at that place of residence or business and apparently of or over the age of 16 years; or
 
 (c) posted by registered post addressed to him at his last known place of residence or business.

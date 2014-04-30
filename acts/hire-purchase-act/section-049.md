@@ -7,6 +7,10 @@ Part: PART VII GENERAL
 
 (a) for the minimum amounts of deposits and maximum maturity periods for different types or classes of loans or advances granted by owners;
 
-(b) for the submission by owners who enter into hire-purchase agreements of such annual and periodic accounts and returns as may be prescribed and in such form as may be prescribed; and
+(b) for the submission by owners who enter into regulated agreements of such annual and periodic accounts and returns as may be prescribed and in such form as may be prescribed;
+
+and
 
 (c) for the collection, at such intervals or on such occasion and in such form as may be prescribed, of statistical information on such matters relating to hire-purchase as may be prescribed.
+
+[7/2012]

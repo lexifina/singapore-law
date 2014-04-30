@@ -1,29 +1,51 @@
 # SECOND SCHEDULE
 
-Section 3 (1)
+Section 3(1) and (3)
 
-SUMMARY OF FINANCIAL OBLIGATIONS UNDER PROPOSED HIRE-PURCHASE AGREEMENT RELATING TO *.................................................................
+INFORMATION FOR PROSPECTIVE HIRERS
 
-The cash price of the goods is ... ... ... ... $.................
+2
 
-(a) Other charges are —
+PROPOSED HIRE-PURCHASE AGREEMENT RELATING TO ..............
 
-(i) For insurance for ................. years $.................
+Item Description
 
-(ii) For freight, vehicle registration, etc. $................. $.................
+1. Cash price of the goods For motor vehicles, the cash price should be reflected as —
 
-(b) The terms charges are† and represent a rate per cent per annum not exceeding .................% $.................
+(a) price of motor vehicle; and
 
-The total amount you will have to pay (including deposit of $.................) is ... ... ... ... ... ... $.................
+(b) price of the certificate of entitlement 2. Applied interest rate 3. Effective interest rate 4. Your instalments under the hire-purchase agreement will be paid every _______ day(s)/week(s)/month(s) 5. Amount of each instalment 6. Number of instalments 7. Total interest 8. Processing fees (if any) 9. Other fees/charges, e.g. insurance charges, freight charges, etc. (please specify, if any) 10. Total fees/charges (item 8 + item 9) 11. Total interest plus total fees/charges (item 7 + item 10) 12. Total amount payable (item 1 + item 11) 13. Date of commencement of instalment payments
 
-The difference between the cash price of the goods and the total amount you will have to pay is therefore $.................
+2 Insert description of goods.
 
-Your instalments under the proposed agreement will be ‡............
+SECOND SCHEDULE — continued Item Description
 
-Note:—The sequence of any item or items in the group of items marked ‘‘(a)’’ may be altered in relation to any other item or items in that group, but the sequence of that group shall not be altered in relation to the items not marked ‘‘(a)’’.
+ADDITIONAL CHARGES the owner will impose charges for early settlement of hire-purchase agreement:
 
-*Insert short description of goods.
+3
 
-†Insert, where the proposed agreement is an agreement to which section 29 (1) of the Act applies, a rate per cent per annum obtained by calculating the terms charges in accordance with the formulae set out in the Sixth Schedule to the Act.
+14. The method for calculating the balance payable upon early settlement :
 
-‡Insert number, amount and intervals of instalments.
+__________________________________ E.g. after _____ years, the balance payable is:
+
+__________________________________ 15. Early settlement fees (if any) 16. Processing fees (if any) 17. Notice period required (if any)
+
+ADDITIONAL CHARGES the owner will impose for assignment of right, title and interest under the hire-purchase agreement to new owner:
+
+4
+
+18. The method for calculating the balance payable upon assignment :
+
+__________________________________ E.g. after _____ years, the balance payable is:
+
+__________________________________ 19. Processing fees (if any) 20. Notice period required (if any)
+
+INTEREST RATE the owner will impose for overdue instalments:
+
+21. The interest charged will be _______ (on the overdue amount) 22. Processing fees (if any)
+
+[38/2004]
+
+3 Owner should explain the method for calculating the balance payable upon early settlement and give an example of the balance payable after a specified number of years.
+
+4 Owner should explain the method for calculating the balance payable upon assignment and give an example of the balance payable after a specified number of years.

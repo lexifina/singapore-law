@@ -1,28 +1,34 @@
-# 6. Conditions and warranties to be implied in every hire-purchase agreement
-Part: PART III PROTECTION OF HIRERS AND GUARANTORS Warranties and conditions
+# 6. Implied terms as to title
+Part: PART III IMPLIED TERMS
 
-(1) In every hire-purchase agreement there shall be —
+(1) In every hire-purchase agreement, other than one to which subsection (2) applies, there is —
 
-(a) an implied warranty that the hirer shall have and enjoy quiet possession of the goods;
+(a) an implied term on the part of the owner that he will have a right to sell the goods at the time when the property is to pass;
 
-(b) an implied condition on the part of the owner that he shall have a right to sell the goods at the time when the property is to pass; and
+and
 
-(c) an implied warranty that the goods shall be free from any charge or encumbrance created by the owner in favour of any third party at the time when the property is to pass.
+(b) an implied term that —
 
-(2) In every hire-purchase agreement there shall be an implied condition that the goods shall be of merchantable quality, but such a condition shall not be implied —
+(i) the goods are free, and will remain free until the time when the property is to pass, from any charge or encumbrance not disclosed or known to the hirer; and
 
-(a) where the hirer has examined the goods or a sample thereof, as regards defects which the examination ought to have revealed; or
+(ii) the hirer will enjoy quiet possession of the goods except so far as it may be disturbed by any person entitled to the benefit of any charge or encumbrance so disclosed or known.
 
-(b) if the goods are secondhand goods and the agreement contains a statement to the effect —
+[7/2012]
 
-(i) that the goods are secondhand goods; and
+(2) In a hire-purchase agreement, in the case of which there appears from the agreement or is to be inferred from the circumstances of the agreement an intention that the owner should transfer only such title as he or a third person may have, there is —
 
-(ii) that all conditions and warranties as to quality are expressly negatived, and the owner proves that the hirer has acknowledged in writing that the statement was brought to his notice.
+(a) an implied term that all charges or encumbrances known to the owner and not known to the hirer have been disclosed to the hirer before the agreement is made; and
 
-(3) Where the hirer expressly or by implication makes known to the owner or the dealer or to any servant or agent of the owner or the dealer the particular purpose for which the goods are required, there shall be implied in the hire-purchase agreement a condition that the goods shall be reasonably fit for that purpose, but such a condition shall not be implied if the goods are secondhand goods and the agreement contains a statement to the effect —
+(b) an implied term that neither —
 
-(a) that the goods are secondhand goods; and
+(i) the owner; nor
 
-(b) that all conditions and warranties of fitness and suitability are expressly negatived, and the owner proves that the hirer has acknowledged in writing that the statement was brought to his notice.
+(ii) in a case where the parties to the agreement intend that any title which may be transferred shall be only such title as a third person may have, that person; nor
 
-(4) Nothing in this section shall prejudice the operation of any other written law or rule of law whereby any condition or warranty is to be implied in any hire-purchase agreement.
+(iii) anyone claiming through or under the owner or that third person otherwise than under a charge or encumbrance disclosed or known to the hirer, before the agreement is made, will disturb the quiet possession of the hirer.
+
+[7/2012]
+
+(3) The term implied by subsection (1)(a) is a condition and the terms implied by subsections (1)(b), (2)(a) and (2)(b) are warranties.
+
+[7/2012]
