@@ -1,0 +1,9 @@
+# 6. Unauthorised use of badges, etc.
+
+(1) Any person who, in connection with any appeal to the public or any class of the public for subscriptions or contributions of money or other property —
+
+(a) displays or uses a prescribed badge or a prescribed certificate of authority other than a badge or certificate which he is authorised, under any regulations made under this Act, so to display or use; or
+
+(b) displays or uses any badge, device, emblem, certificate or other document intended, calculated or likely to cause any person to believe that the person displaying or using the same is an authorised collector for the purposes of a licensed collection when such is not the case, shall be guilty of an offence.
+
+(2) Any person who, in furnishing any information for the purposes of this Act or any of its regulations, knowingly or recklessly makes any statement which is false in any material particular shall be guilty of an offence.
