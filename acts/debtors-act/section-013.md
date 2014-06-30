@@ -1,0 +1,16 @@
+# 13. Where defendant may be required to furnish security for appearance
+Part: PART II ARREST BEFORE JUDGMENT
+
+(1) If at any stage of any action, other than an action for the possession of immovable property, against a defendant who carries on business or ordinarily resides within the jurisdiction, the plaintiff satisfies the court or a judge by evidence upon oath that he has a good cause of action against the defendant, and that the defendant, with intent to prejudice the plaintiff, or to avoid any process of the court, or to obstruct or delay the execution of any judgment that may be made against him —
+
+(a) has absconded or left Singapore;
+
+(b) is about to abscond or leave Singapore; or
+
+(c) has disposed of or removed from Singapore his property or any part thereof, the court or judge may issue an order to arrest the defendant and bring him before the court or a judge to show cause why he should not furnish security for his appearance:
+
+Provided that the defendant shall not be arrested if he pays to the officer entrusted with the execution of the order any sum specified in the order as sufficient to satisfy the plaintiff’s claim. Such sum shall be held in deposit by the court until the action is disposed of or until further order.
+
+(2) Where the defendant fails to show such cause, the court or judge shall order him either to deposit in court money or other property sufficient to answer the claim against him or to furnish security for his appearance at any time when called upon while the action is pending and until satisfaction of any order that may be made against him in the action, or shall make such order as it thinks fit with regard to the sum which may have been paid by the defendant under the proviso to subsection (1).
+
+(3) Every surety for the appearance of a defendant shall bind himself to pay, in default of such appearance, any sum of money which the defendant may be ordered to pay in the action.
