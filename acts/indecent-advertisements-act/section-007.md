@@ -1,0 +1,5 @@
+# 7. Advertisements as to syphilis, etc., declared indecent
+
+(1) Any advertisement relating to venereal disease, nervous debility, or other complaint or infirmity arising from or relating to sexual intercourse, and any advertisement claiming for any preparation aphrodisiac properties, shall be deemed to be printed or written matter of an indecent nature within the meaning of section 5, if such advertisement is published to the public by any means or is affixed to or inscribed on any house, building, wall, hoarding, gate, fence, pillar, post, board, tree or any other thing, so as to be visible to a person being in or passing along any public place, public road or footpath, or is affixed to or inscribed on any public urinal, or is delivered or attempted to be delivered to any person being in or passing along any public place, public road or footpath.
+
+(2) Nothing in this section shall apply to any advertisement relating to venereal disease published by or with the authority of the Government or by any local or public authority.
