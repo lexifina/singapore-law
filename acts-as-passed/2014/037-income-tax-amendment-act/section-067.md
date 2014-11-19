@@ -1,0 +1,11 @@
+# 67. New section 105MA
+
+The principal Act is amended by inserting, immediately after section 105M, the following section:
+
+“Anti-avoidance 105MA.—(1) If —
+
+(a) a person enters into any arrangements or takes any action; and
+
+(b) in the Comptroller’s view, the main purpose, or one of the main purposes of the person in entering into the arrangements or in taking the action is to avoid any obligation under, or to circumvent the application of section 105L or any regulation made under section 105P, then the Comptroller may in writing direct a relevant person that section 105L or the regulation has effect in relation to the relevant person as if the arrangements had not been entered into or the action had not been taken, and section 105L or the regulation shall then apply accordingly.
+
+(2) In subsection (1), “relevant person” means a person who is subject to section 105L or the regulation, and whom the Comptroller considers should receive the direction.”.
