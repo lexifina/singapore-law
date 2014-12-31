@@ -1,0 +1,10 @@
+# 20. Pension schemes, provident fund, etc.
+Part: PART 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+
+(1) Persons transferred under section 18 from the service of the Government who are eligible for any pension, gratuity or allowance payable under the Pensions Act (Cap. 225) shall, before 15 October 1991, be given the option of continuing on any pension scheme established under this section.
+
+(2) If any person exercises his option given under subsection (1) to continue on a pension scheme, the Council shall, with the approval of the Minister, make rules for the establishment of a scheme or schemes for the payment of pensions, gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Council as it may determine, or to their legal personal representatives or dependants, on the death or retirement of such employees from the service of the Council or on their otherwise leaving the service of the Council and the Third Schedule shall apply to any scheme or schemes so established.
+
+(3) In every case where a person employed by the Government has been transferred to the service of the Council under section 18, the Government shall be liable to pay the Council such portion of any gratuity, pension or allowance payable to such person on his retirement or otherwise leaving the service of the Council as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Council.
+
+(4) Where any person who is transferred to the service of the Council under section 18 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall, for the purposes of that Act, continue to make contributions under that Act as if he had not been transferred to the service of the Council and, for the purposes of that Act, his service with the Council shall be deemed to be service with the Government.
