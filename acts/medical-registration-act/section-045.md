@@ -1,54 +1,45 @@
-# 45. Findings of Disciplinary Committee
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 45. Performance assessment
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 3 — Performance and fitness assessments
 
-(1) Where a registered medical practitioner is found or judged by a Disciplinary Committee —
+(1) If a registered medical practitioner agrees to undergo a performance assessment under section 44(3)(a), the quality of professional services provided by him shall be assessed by a Performance Assessment Panel appointed by the Complaints Committee and comprising one or more suitably qualified persons as the Complaints Committee may determine.
 
-(a) to have been convicted in Singapore or elsewhere of any offence involving fraud or dishonesty;
+[1/2010]
 
-(b) to have been convicted in Singapore or elsewhere of any offence implying a defect in character which makes him unfit for his profession;
+(2) The Performance Assessment Panel will carry out the performance assessment in accordance with —
 
-(c) to have been guilty of such improper act or conduct which, in the opinion of the Disciplinary Committee, brings disrepute to his profession;
+(a) the provisions of this Division;
 
-(d) to have been guilty of professional misconduct; or
+(b) the practice and procedure as may be determined by the Medical Council; and
 
-(e) to have contravened section 64, 65 or 67, the Disciplinary Committee may exercise one or more of the powers referred to in subsection (2).
+(c) such instructions as may be issued by the Complaints Committee.
 
-[46/2002]
+[1/2010]
 
-(2) The powers referred to in subsection (1) are as follows:
+(3) The registered medical practitioner under assessment shall, if required by the Performance Assessment Panel —
 
-(a) by order direct the Registrar to remove the name of the registered medical practitioner from the appropriate register;
+(a) produce to the Panel or afford the Panel access to any record or document specified by the Panel or any record or other document which is of a class or description so specified and which is in his possession or under his control being in either case a record or other document which the Panel reasonably believes is or may be relevant to the performance assessment, within such time and at such place as the Panel may reasonably require;
 
-(b) by order suspend the registration of the registered medical practitioner in the appropriate register for a period of not less than 3 months and not more than 3 years;
+(b) give to the Panel such explanation or further particulars in respect of anything produced in compliance with a requirement under paragraph (a) as the Panel shall specify;
 
-(c) by order impose such conditions as are necessary to restrict the practice of the registered medical practitioner in such manner as the Disciplinary Committee thinks fit for a period not exceeding 3 years;
+and
 
-(d) by order impose on the registered medical practitioner a penalty not exceeding $10,000;
+(c) give to the Panel all assistance in connection with the performance assessment which he is reasonably able to give.
 
-(e) by writing censure the registered medical practitioner;
+[1/2010]
 
-(f) by order require the registered medical practitioner to give such undertaking as the Disciplinary Committee thinks fit to abstain in future from the conduct complained of; and
+(4) Where any information or matter relevant to a performance assessment is recorded otherwise than in a legible form, the power of a Performance Assessment Panel to require the production of any record or other document conferred under subsection (3) shall include the power to require the production of a reproduction of any such information or matter or of the relevant part of it in a legible form.
 
-(g) make such other order as the Disciplinary Committee thinks fit.
+[1/2010]
 
-[46/2002]
+(5) A Performance Assessment Panel may inspect, examine or make copies of or take any abstract of or extract from any record or document produced under subsection (3) or (4).
 
-(3) In any proceedings instituted under this Part against a registered medical practitioner consequent upon his conviction for a criminal offence, a Disciplinary Committee and the High Court on appeal from any order of the Disciplinary Committee shall accept his conviction as final and conclusive.
+[1/2010]
 
-(4) A Disciplinary Committee may under subsection (2) order the registered medical practitioner concerned to pay to the Medical Council such sums as it thinks fit in respect of costs and expenses of and incidental to any proceedings before the Disciplinary Committee and, where applicable, an Interim Orders Committee.
+(6) The Performance Assessment Panel shall give a report of the assessment to the Complaints Committee and, with the approval of the Complaints Committee, the registered medical practitioner.
 
-[46/2002]
+[1/2010]
 
-(5) The High Court shall have jurisdiction to tax such costs referred to in subsection (4) and any such order for costs made shall be enforceable as if it were ordered in connection with a civil action in the High Court.
+(7) The Complaints Committee, or the investigator with the approval of the Complaints Committee, may discuss the report with the registered medical practitioner under assessment and, in the case of an adverse finding in the report, the possible ways of dealing with that finding.
 
-(6) The Disciplinary Committee in ordering that costs be paid by the registered medical practitioner under this section may certify that costs for more than one solicitor be paid if it is satisfied that the issues involved in the proceedings are of sufficient complexity, and the certification by the Disciplinary Committee shall have the same effect as if it were a certification by a Judge in a civil action in the High Court.
-
-(7) The costs and expenses referred to in subsection (4) shall include —
-
-(a) the costs and expenses of any assessor and advocate and solicitor appointed by the Medical Council for proceedings before the Disciplinary Committee and the Interim Orders Committee;
-
-(b) such reasonable expenses as the Medical Council may pay to witnesses; and
-
-(c) such reasonable expenses as are necessary for the conduct of proceedings before the Disciplinary Committee and the Interim Orders Committee.
-
-[46/2002]
+[1/2010]

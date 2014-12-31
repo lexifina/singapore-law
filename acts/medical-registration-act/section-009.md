@@ -1,5 +1,5 @@
 # 9. Filling of vacancies
-Part: PART II MEDICAL COUNCIL
+Part: PART 2 MEDICAL COUNCIL
 
 (1) The office of a member of the Medical Council shall become vacant if the member —
 

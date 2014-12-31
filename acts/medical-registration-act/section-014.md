@@ -1,5 +1,5 @@
 # 14. No remuneration recoverable by unauthorised persons
-Part: PART III PRIVILEGES OF MEDICAL PRACTITIONERS
+Part: PART 3 PRIVILEGES OF MEDICAL PRACTITIONERS
 
 Subject to the provisions of this Act, no person shall be entitled to demand, claim, accept, receive or retain or sue for or recover by any means any charge, fee, disbursement, expense or any remuneration —
 

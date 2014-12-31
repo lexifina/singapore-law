@@ -1,5 +1,5 @@
 # 62. Fraudulent registration
-Part: PART VIII GENERAL
+Part: PART 8 GENERAL
 
 Any person who —
 
@@ -12,5 +12,3 @@ Any person who —
 (d) fraudulently or dishonestly uses as genuine any certificate of registration as a medical practitioner or any practising certificate which he knows or has reason to believe is forged or altered; or
 
 (e) buys, sells or fraudulently obtains a certificate of registration as a medical practitioner or any practising certificate issued under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[52

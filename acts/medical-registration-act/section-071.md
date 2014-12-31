@@ -1,6 +1,6 @@
-# 71. Amendment of Schedule
-Part: PART VIII GENERAL
+# 71. Amendment of Schedules
+Part: PART 8 GENERAL
 
-The Minister may, after consultation with the Medical Council, by order amend the Schedule.
+The Minister may, after consultation with the Medical Council, by order amend the First or Second Schedule.
 
-[59
+[1/2010]

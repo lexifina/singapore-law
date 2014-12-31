@@ -1,5 +1,5 @@
 # 25. Certificate of experience in approved hospital
-Part: PART IV REGISTRATION OF MEDICAL PRACTITIONERS
+Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 (1) A certificate of experience shall not be granted in respect of any person unless he has been engaged in employment as a house officer or in such other similar capacity as may be approved by the Medical Council (referred to in this section as the approved capacity) in one or more hospitals or institutions in Singapore approved by the Medical Council for a prescribed period.
 
@@ -13,8 +13,12 @@ Part: PART IV REGISTRATION OF MEDICAL PRACTITIONERS
 
 [46/2002]
 
-(3) In subsection (2), ‘‘certifying authority’’ means the Dean of the Faculty of Medicine of the National University of Singapore or such other person as may be prescribed.
+(3) In subsection (2), “certifying authority” means —
 
-[26
+(a) the Dean of the Yong Loo Lin School of Medicine of the National University of Singapore;
 
-[46/2002]
+(b) the Dean of the Duke-NUS Graduate Medical School Singapore; or
+
+(c) such other person as may be prescribed.
+
+[1/2010]

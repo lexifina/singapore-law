@@ -1,16 +1,19 @@
-# 52. Interim orders
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 52. Reference and transfer of cases to Health Committee
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 5 — Disciplinary Tribunals
 
-(1) Where, upon due inquiry into any complaint or information referred to it, an Interim Orders Committee is satisfied that it is necessary for the protection of members of the public or is otherwise in the public interest, or is in the interests of a registered medical practitioner, for his registration to be suspended or to be made subject to conditions, the Interim Orders Committee may make an order —
+(1) Where, in the course of inquiring into the case of a registered medical practitioner, it appears to a Disciplinary Tribunal that his fitness to practise may be impaired by reason of his physical or mental condition, the Disciplinary Tribunal may refer that question to a Health Committee for determination.
 
-(a) that his registration in the appropriate register be suspended for such period not exceeding 18 months as may be specified in the order (referred to in this Part as an interim suspension order); or
+[1/2010]
 
-(b) that his registration be conditional on his compliance, during such period not exceeding 18 months as may be specified in the order, with such requirements so specified as the Interim Orders Committee thinks fit to impose (referred to in this Part as an order for interim restricted registration).
+(2) If, on a reference under this section, the Health Committee determines that the fitness of the registered medical practitioner to practise is not impaired by reason of his physical or mental condition, the Health Committee shall certify its opinion to the Disciplinary Tribunal.
 
-[46/2002]
+[1/2010]
 
-(2) The Registrar shall immediately serve a notification of the order under subsection (1) on the registered medical practitioner.
+(3) If, on a reference under this section, the Health Committee determines that the fitness of the registered medical practitioner to practise is impaired by reason of his physical or mental condition, the Health Committee shall —
 
-[49B
+(a) certify its opinion to the Disciplinary Tribunal; and
 
-[46/2002]
+(b) proceed to dispose of the case in accordance with section 58, and the Disciplinary Tribunal shall cease to exercise its function in relation to the case.
+
+[1/2010]

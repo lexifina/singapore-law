@@ -1,5 +1,5 @@
 # 23. Temporary registration
-Part: PART IV REGISTRATION OF MEDICAL PRACTITIONERS
+Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 (1) Subject to the provisions of this Act, any person —
 

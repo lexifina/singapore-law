@@ -1,5 +1,5 @@
 # 11. Appointment of committees
-Part: PART II MEDICAL COUNCIL
+Part: PART 2 MEDICAL COUNCIL
 
 (1) The Medical Council may —
 

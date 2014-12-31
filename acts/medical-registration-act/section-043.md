@@ -1,28 +1,23 @@
-# 43. Proceedings of Disciplinary Committee
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 43. Mediation
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 2 — Complaints and commencement of inquiry
 
-(1) A Disciplinary Committee shall meet from time to time to inquire into any matter referred to it by the Medical Council and may regulate its own procedure.
+(1) In referring the matter for mediation under section 42(4)(b)(ii), the Complaints Committee may order the personal attendance of the complainant and the registered medical practitioner before a mediator specified by the Complaints Committee.
 
-(2) A member of a Disciplinary Committee shall, notwithstanding that he has ceased to be a member of the Medical Council or Complaints Panel on the expiry of his term of office, continue to be a member of the Disciplinary Committee until such time the Disciplinary Committee has completed its work.
+[1/2010]
 
-[46/2002]
+(2) The mediator referred to in subsection (1) shall submit a report to the Complaints Committee on the outcome of the mediation.
 
-(3) The registered medical practitioner may appear in person or be represented by counsel.
+[1/2010]
 
-(4) A Disciplinary Committee shall not be bound to act in any formal manner and shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other written law relating to evidence but may inform itself on any matter in such manner as it thinks fit.
+(3) If the complainant refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may dismiss the matter.
 
-(5) A Disciplinary Committee may, for the purpose of any proceedings before it, administer oaths and any party to the proceedings may sue out writs of subpoena ad testificandum and of duces tecum.
+[1/2010]
 
-(6) The writs referred to in subsection (5) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
+(4) If the registered medical practitioner refuses or fails, without reasonable cause, to comply with the order under subsection (1), the Complaints Committee may proceed to make a direction under section 42(4)(b)(i) or (c).
 
-(7) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
+[1/2010]
 
-(8) Witnesses shall have the same privileges and immunities in relation to hearings before a Disciplinary Committee as if they were proceedings in a court of law.
+(5) If for any reason the mediation does not take place or the matter is not amicably resolved through mediation, the Complaints Committee or another Complaints Committee appointed in its place may make any direction under section 42(4)(b)(i) or (c) as it thinks fit.
 
-(9) A Disciplinary Committee shall carry out its work expeditiously and may apply to the Medical Council for an extension of time and for directions to be given to the Disciplinary Committee if the Disciplinary Committee fails to make its finding and order within 6 months from the date of its appointment.
-
-(10) When an application for extension of time has been made under subsection (9), the Medical Council may grant an extension of time for such period it thinks fit.
-
-(11) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), ‘‘public servant’’ shall be deemed to include a member of a Disciplinary Committee taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code, ‘‘judicial proceeding’’ shall be deemed to include any such investigation.
-
-[42
+[1/2010]

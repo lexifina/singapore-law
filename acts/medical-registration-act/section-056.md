@@ -1,22 +1,21 @@
-# 56. Application to High Court
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 56. Restoration of names to register
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 5 — Disciplinary Tribunals
 
-(1) The Medical Council may apply to the High Court for an order made under section 52 or 54 (1) (c) or (d) to be extended, and may apply again for further extensions.
+(1) Where the name of a medical practitioner has been removed from a register pursuant to an order made by a Disciplinary Tribunal under section 53 or 54, the Medical Council may, upon application by the medical practitioner, if it thinks fit —
 
-[46/2002]
+(a) restore his name to the register; or
 
-(2) On such an application, the High Court may extend (or further extend) for up to 12 months the period for which the order has effect.
+(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) shall apply accordingly.
 
-[46/2002]
+[1/2010]
 
-(3) The High Court may, on application by the registered medical practitioner concerned —
+(2) No application for the restoration of the name of a medical practitioner to a register under this section shall be made to the Medical Council —
 
-(a) in the case of an interim suspension order, revoke the order;
+(a) before the expiration of 3 years from the date of the removal;
 
-(b) in the case of an order for interim restricted registration, revoke the order or vary any condition imposed by the order;
+or
 
-(c) in either case, substitute for the period specified in the order (or in the order extending it) some other period which could have been specified in the order when it was made (or in the order extending it).
+(b) more than once in any period of 12 months by or on behalf of the medical practitioner, and unless the medical practitioner has complied with all the terms of the order made against him.
 
-[49F
-
-[46/2002]
+[1/2010]

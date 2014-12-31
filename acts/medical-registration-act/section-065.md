@@ -1,5 +1,5 @@
-# 65. False assumption of title of specialist
-Part: PART VIII GENERAL
+# 65. False assumption of title of specialist or family physician
+Part: PART 8 GENERAL
 
 (1) A registered medical practitioner who is not registered under section 22 as a specialist in a branch of medicine shall not —
 
@@ -7,10 +7,16 @@ Part: PART VIII GENERAL
 
 (b) advertise or hold himself out as a specialist in that branch of medicine.
 
-[46/2002]
+[46/2002; 1/2010]
 
-(2) A registered medical practitioner who contravenes subsection (1) may be subject to disciplinary proceedings under this Act.
+(1A) A registered medical practitioner who is not registered under section 22A as a family physician shall not —
 
-[54A
+(a) practise under any name, title, addition or description implying that he is registered under that section as a family physician or has any degree, qualification or experience that could make him eligible for such registration; or
 
-[46/2002]
+(b) advertise or hold himself out as being registered as a family physician.
+
+[1/2010]
+
+(2) A registered medical practitioner who contravenes subsection (1) or (1A) may be subject to disciplinary proceedings under this Act.
+
+[46/2002; 1/2010]

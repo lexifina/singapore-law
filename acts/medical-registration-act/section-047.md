@@ -1,18 +1,33 @@
-# 47. Restoration of names to register
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 47. Confidentiality of information
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 3 — Performance and fitness assessments
 
-(1) Where the name of a medical practitioner has been removed from a register pursuant to an order made by a Disciplinary Committee under section 45 or 46, the Medical Council may, upon application by the medical practitioner, if it thinks fit direct —
+(1) A person to whom this section applies shall not be compellable in any proceedings to give evidence in respect of, or to produce any document containing any information which has been obtained in the course of, a performance or fitness assessment except in the case of the following:
 
-(a) that his name be restored to the register; or
+(a) an inquiry by any Complaints Committee, Disciplinary Tribunal, Health Committee or Interim Orders Committee; or
 
-(b) that he be registered as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21 (4) to (9) shall apply accordingly.
+(b) a prosecution for a criminal offence.
 
-[46/2002]
+[1/2010]
 
-(2) No application for the restoration of a name to a register under this section shall be made to the Medical Council —
+(2) A person to whom this section applies shall not disclose any information contained in any document as may have come to his knowledge in the course of a performance or fitness assessment unless the disclosure is made —
 
-(a) before the expiration of 3 years from the date of the removal; or
+(a) under or for the purpose of administering and enforcing this Act or the Infectious Diseases Act (Cap. 137); or
 
-(b) more than once in any period of 12 months by or on behalf of the medical practitioner, and unless the medical practitioner has complied with all the terms of the order made against him.
+(b) for any other purpose with the consent of the person to whom the information relates.
 
-[46
+[1/2010]
+
+(3) This section applies to —
+
+(a) a member of a Performance or Fitness Assessment Panel;
+
+(b) the investigator referred to in section 42(4)(c) or 44(6)(b)(i);
+
+(c) a member of any Complaints Committee, Disciplinary Tribunal, Health Committee or Interim Orders Committee;
+
+and
+
+(d) any member, officer or agent of the Medical Council.
+
+[1/2010]

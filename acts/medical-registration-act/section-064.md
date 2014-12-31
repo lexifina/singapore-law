@@ -1,5 +1,5 @@
 # 64. Medical practitioner to use only qualifications entered in register and approved title, etc.
-Part: PART VIII GENERAL
+Part: PART 8 GENERAL
 
 (1) No registered medical practitioner shall —
 
@@ -8,5 +8,3 @@ Part: PART VIII GENERAL
 (b) use any title, addition or designation other than the title, addition or designation which has been approved by the Medical Council.
 
 (2) Any registered medical practitioner who contravenes subsection (1) may be subject to disciplinary proceedings under this Act.
-
-[54

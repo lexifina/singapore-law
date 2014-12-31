@@ -1,22 +1,67 @@
-# 53. Review of interim orders
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 53. Findings of Disciplinary Tribunal
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 5 — Disciplinary Tribunals
 
-(1) Subject to subsection (2), where an Interim Orders Committee has made an order under section 52, the Interim Orders Committee or another Interim Orders Committee appointed in its place —
+(1) Where a registered medical practitioner is found by a Disciplinary Tribunal —
 
-(a) shall review it within the period of 6 months beginning on the date on which the order was made, and shall thereafter, for so long as the order continues in force, further review it before the end of the period of 3 months beginning on the date of the decision of the immediately preceding review;
+(a) to have been convicted in Singapore or elsewhere of any offence involving fraud or dishonesty;
 
-and
+(b) to have been convicted in Singapore or elsewhere of any offence implying a defect in character which makes him unfit for his profession;
 
-(b) may review it where new evidence relevant to the order has become available after the making of the order.
+(c) to have been guilty of such improper act or conduct which, in the opinion of the Disciplinary Tribunal, brings disrepute to his profession;
 
-[46/2002]
+(d) to have been guilty of professional misconduct; or
 
-(2) Where the High Court has extended the order under section 56 (2) or an Interim Orders Committee has made a replacement order under section 54 (1)(c) or (d), the first review after such extension or making of the replacement order shall take place —
+(e) to have failed to provide professional services of the quality which is reasonable to expect of him, the Disciplinary Tribunal may exercise one or more of the powers referred to in subsection (2).
 
-(a) if the order (or the order which has been replaced) had not been reviewed under subsection (1), within the period of 6 months beginning on the date on which the High Court ordered the extension or on which the replacement order was made, as the case may be; or
+[1/2010]
 
-(b) if it had been reviewed under subsection (1), within the period of 3 months beginning on the date on which the High Court ordered the extension or on which the replacement order was made.
+(2) For the purposes of subsection (1), the Disciplinary Tribunal may —
 
-[49C
+(a) by order remove the name of the registered medical practitioner from the appropriate register;
 
-[46/2002]
+(b) by order suspend the registration of the registered medical practitioner in the appropriate register for a period of not less than 3 months and not more than 3 years;
+
+(c) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, by order remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) and (6) to (9) shall apply accordingly;
+
+(d) where the registered medical practitioner is registered in any register other than Part I of the Register of Medical Practitioners, by order impose appropriate conditions or restrictions on his registration;
+
+(e) by order impose on the registered medical practitioner a penalty not exceeding $100,000;
+
+(f) by writing censure the registered medical practitioner;
+
+(g) by order require the registered medical practitioner to give such undertaking as the Disciplinary Tribunal thinks fit to abstain in future from the conduct complained of; or
+
+(h) make such other order as the Disciplinary Tribunal thinks fit, including any order that a Complaints Committee may make under section 49(1).
+
+[1/2010]
+
+(3) In any proceedings instituted under this Part against a registered medical practitioner consequent upon his conviction for a criminal offence, a Disciplinary Tribunal and the High Court on appeal from any order of the Disciplinary Tribunal shall accept his conviction as final and conclusive.
+
+[1/2010]
+
+(4) Where a registered medical practitioner is not found by a Disciplinary Tribunal to have been convicted or guilty of any matter referred to in subsection (1), the Disciplinary Tribunal shall dismiss the complaint or matter.
+
+[1/2010]
+
+(5) A Disciplinary Tribunal may under subsection (2) order the registered medical practitioner concerned to pay to the Medical Council such sums as it thinks fit in respect of costs and expenses of and incidental to any proceedings before the Disciplinary Tribunal and, where applicable, an Interim Orders Committee.
+
+[1/2010]
+
+(6) The High Court shall have jurisdiction to tax such costs referred to in subsection (5) and any such order for costs made shall be enforceable as if it were ordered in connection with a civil action in the High Court.
+
+[1/2010]
+
+(7) The Disciplinary Tribunal in ordering that costs be paid by the registered medical practitioner under this section may certify that costs for more than one solicitor be paid if it is satisfied that the issues involved in the proceedings are of sufficient complexity, and the certification by the Disciplinary Tribunal shall have the same effect as if it were a certification by a Judge in a civil action in the High Court.
+
+[1/2010]
+
+(8) The costs and expenses referred to in subsection (5) shall include —
+
+(a) the costs and expenses of any assessor and advocate and solicitor appointed by the Medical Council for proceedings before the Disciplinary Tribunal and the Interim Orders Committee;
+
+(b) such reasonable expenses as the Medical Council may pay to witnesses; and
+
+(c) such reasonable expenses as are necessary for the conduct of proceedings before the Disciplinary Tribunal and the Interim Orders Committee.
+
+[1/2010]

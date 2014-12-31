@@ -1,5 +1,5 @@
 # 31. Alterations in registers
-Part: PART IV REGISTRATION OF MEDICAL PRACTITIONERS
+Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 The Registrar shall —
 
@@ -13,10 +13,8 @@ The Registrar shall —
 
 (e) remove from a register the name of any person who is deceased;
 
-(f) remove from a register the name of any person who has not renewed his practising certificate for a continuous period of not less than 5 years, and who cannot be contacted or sent any document using his particulars in the register; and
+(f) remove from a register the name of any person who has not renewed his practising certificate for a continuous period of not less than 2 years, and who cannot be contacted or sent any document using his particulars in the register; and
 
-(g) remove from a register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless an inquiry has or proceedings have commenced under Part VII against that person.
+(g) remove from a register the name of any person who has requested and shown sufficient reason for his name to be removed from that register, unless an inquiry has or proceedings have commenced under Part 7 against that person.
 
-[32
-
-[46/2002]
+[46/2002; 1/2010]

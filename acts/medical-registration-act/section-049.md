@@ -1,54 +1,109 @@
-# 49. Unfitness to practise through illness, etc.
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 49. Findings of Complaints Committee
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 4 — Powers after investigation
 
-(1) Where the fitness to practise of a registered medical practitioner is judged by the Health Committee to be impaired by reason of his physical or mental condition, the Health Committee may exercise one or more of the following powers:
+(1) After deliberation of the investigation report and any recommendation of an investigator made under section 48, and upon due inquiry into the complaint or information (including any information or evidence referred to in section 44(5)), a Complaints Committee shall, if it is of the view that no formal inquiry by a Disciplinary Tribunal or Health Committee is necessary —
 
-(a) order that he pays to the Medical Council costs and expenses of and incidental to any inquiry or hearing by the Health Committee and, where applicable, an Interim Orders Committee;
+(a) issue a letter of advice to the registered medical practitioner;
 
-(b) order that his registration in the appropriate register be suspended for such period not exceeding 12 months as may be specified in the order;
+(b) issue a letter of warning to the registered medical practitioner;
 
-(c) order that his registration be conditional on his compliance, during such period not exceeding 3 years as may be specified in the order, with such requirements so specified as the Health Committee thinks fit to impose for the protection of members of the public or in his interests (referred to in this Part as restricted registration); and
+(c) order that the registered medical practitioner seek and undergo medical or psychiatric treatment or counselling;
 
-(d) recommend to the Medical Council that the name of the registered medical practitioner be removed from the appropriate register.
+(d) order that the registered medical practitioner undertake and complete specified further education or training within a specified period;
 
-[46/2002]
+(e) order that the registered medical practitioner report on the status of the fitness of his physical or mental condition or on the status of his medical practice at such times, in such manner and to such persons as may be specified by the Complaints Committee;
 
-(2) Where the Medical Council accepts the recommendation of the Health Committee under subsection (1) (d), the Medical Council shall by order direct that the name of the registered medical practitioner be removed from the appropriate register and that order shall take effect from the date the order is made.
+(f) order that the registered medical practitioner seek and take advice, in relation to the management of his medical practice, from such persons as may be specified by the Complaints Committee;
 
-(3) Where a registered medical practitioner in respect of whom an order for restricted registration is made under subsection (1) (c), or an order for interim restricted registration is made under section 52 (1) (b) or 54 (1) (d), is judged by the Health Committee to have failed to comply with any of the requirements imposed on him as conditions of his registration, the Health Committee may, if it thinks fit, order that his registration in the appropriate register be suspended for such period not exceeding 12 months as may be specified in the order.
+(g) by agreement with the registered medical practitioner —
 
-[46/2002]
+(i) remove the name of the registered medical practitioner from the appropriate register;
 
-(4) Where the Health Committee has made an order for suspension under subsection (1) or (3), the Health Committee may order that the registration of the person whose registration is suspended shall, as from the expiry of the current period of suspension, be a restricted registration.
+(ii) suspend the registration of the registered medical practitioner from the appropriate register for a period of not more than 3 years;
 
-(5) Where the Health Committee has made an order for suspension under subsection (1) or (3) against a person and that person has failed to comply with that order, the Health Committee may, if it thinks fit —
+(iii) where the registered medical practitioner is a fully registered medical practitioner in Part I of the Register of Medical Practitioners, remove his name from Part I of that Register and register him instead as a medical practitioner with conditional registration in Part II of that Register, and section 21(4) and (6) to (9) shall apply accordingly;
 
-(a) make a recommendation referred to in subsection (1) (d) to the Medical Council, and subsection (2) shall apply accordingly; or
+(iv) where the registered medical practitioner is registered in any register other than Part I of the Register of Medical Practitioners, impose appropriate conditions or restrictions on his registration; or
 
-(b) order that, from the expiry of the current period of suspension, his registration in the appropriate register be restricted in such manner as it thinks fit for a period not exceeding 3 years.
+(v) suspend or cancel his practising certificate;
 
-[46/2002]
+(h) refer the matter for mediation between the registered medical practitioner and the complainant;
 
-(6) Where the Health Committee has made an order for restricted registration, the Health Committee may revoke the order or revoke or vary any of the conditions imposed by the order.
+(i) dismiss the complaint or matter; or
 
-(7) Subsection (3) shall apply to a registered medical practitioner whose registration is subject to conditions imposed by an order for restricted registration made under subsection (4) or (5) as it applies to a registered medical practitioner whose registration is subject to conditions imposed by an order for restricted registration made under subsection (1) (c), and subsection (6) shall apply accordingly.
+(j) make such other order as it thinks fit.
 
-[46/2002]
+[1/2010]
 
-(8) Where the Health Committee has —
+(2) Where a Complaints Committee determines that a formal inquiry is necessary, it shall order —
 
-(a) made an order under this section for suspension or for restricted registration, including an order for extending a period of suspension or a period of restricted registration;
+(a) that an inquiry be held by a Health Committee if the complaint, information or evidence touches on the physical or mental fitness of the registered medical practitioner to practise; or
 
-or
+(b) that an inquiry be held by a Disciplinary Tribunal.
 
-(b) varied the conditions imposed by a direction for restricted registration, the Registrar shall immediately serve on the person to whom the order applies a notice of the order or of the variation.
+[1/2010]
 
-(9) While a person’s registration in the register is suspended by virtue of this section, he shall be treated as not being registered in the register notwithstanding that his name still appears in it.
+(3) Where a Complaints Committee has made an order under subsection (2) or (6) for a formal inquiry to be held by a Disciplinary Tribunal or Health Committee, the Medical Council shall appoint a Disciplinary Tribunal or Health Committee, as the case may be, which shall hear and investigate the complaint or matter.
 
-(10) Sections 42 (6) to (9) and 43 shall apply, with the necessary modifications, to the Health Committee and references to a Disciplinary Committee shall be read as references to the Health Committee.
+[1/2010]
 
-(11) Any person who is aggrieved by an order or any variation of the conditions imposed by an order for restricted registration made by the Health Committee under this section may, within 21 days of the service on him of the notification of the order, appeal to the Minister whose decision shall be final.
+(4) Where a Complaints Committee has decided to issue a letter of advice to the registered medical practitioner, the chairman of the Complaints Committee shall issue the letter of advice in such terms as it thinks fit.
 
-(12) Any order or any variation of the conditions imposed by an order for restricted registration made by the Health Committee shall take effect from the time the order or variation is made unless the Minister decides otherwise.
+[1/2010]
 
-[48
+(5) Where a Complaints Committee has referred the matter for mediation, section 43 shall apply with the necessary modifications, and references in section 43(4) and (5) to section 42(4)(b)(i) or (c) shall be read as references to section 49(1) or (2), respectively.
+
+[1/2010]
+
+(6) Where a registered medical practitioner in respect of whom an order is made under subsection (1)(c), (d), (e) or (f) is found by a Complaints Committee (whether it is the Complaints Committee that made the order or another Complaints Committee appointed in its place) to have failed to comply with any of the requirements imposed on him, the Complaints Committee may, if it thinks fit, order that a formal inquiry be held by a Disciplinary Tribunal or Health Committee, as the case may be, in respect of the complaint, information or evidence.
+
+[1/2010]
+
+(7) Where, in the course of an inquiry, a Complaints Committee receives any information touching on, or any evidence of, the conduct of the registered medical practitioner concerned which discloses an offence under any written law, the Complaints Committee shall record the information and report it to the Medical Council.
+
+[1/2010]
+
+(8) Where the complainant withdraws his complaint before —
+
+(a) the complaint is referred to a Complaints Committee or Health Committee under this section; or
+
+(b) the conclusion of the inquiry into the complaint by a Complaints Committee, Disciplinary Tribunal or Health Committee, the Medical Council may, notwithstanding such withdrawal, refer the complaint to or direct a Complaints Committee to continue the inquiry, as the case may be, and the chairman of the Complaints Panel, or the Complaints Committee, Disciplinary Tribunal or Health Committee, as the case may be, shall comply with such direction as if the complaint had been made by the Medical Council.
+
+[1/2010]
+
+(9) A Complaints Committee shall notify the registered medical practitioner concerned and the person who made the complaint or referred the information under section 39(1) of its decision under subsection (1) or (2) and, if it makes an order under subsection (1), the reason for making the order.
+
+[1/2010]
+
+(10) A registered medical practitioner who is aggrieved by any order of a Complaints Committee under subsection (1) may, within 30 days after being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
+
+[1/2010]
+
+(11) If the person who has made the complaint or referred any information to the Medical Council is dissatisfied with any order of a Complaints Committee under subsection (1), he may, within 30 days after being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
+
+[1/2010]
+
+(12) If the Medical Council is dissatisfied with any order of a Complaints Committee under subsection (1) in a case where a complaint is made or any matter or information is referred to the chairman of the Complaints Panel under section 37A(4), 39(3)(a) or 44(6)(b)(ii), the Medical Council may, within 30 days after being notified of the determination of the Complaints Committee, appeal to the Minister whose decision shall be final.
+
+[1/2010]
+
+(13) The Minister may, after considering the appeal, make —
+
+(a) an order affirming the determination of a Complaints Committee;
+
+(b) an order directing a Complaints Committee to immediately appoint one or more investigators for the purposes of carrying out an investigation under section 42(4)(c);
+
+(c) an order directing the Medical Council to —
+
+(i) immediately appoint a Disciplinary Tribunal to hear and investigate the complaint or matter; or
+
+(ii) order that an inquiry into such matter be held by a Health Committee; or
+
+(d) such other order as he thinks fit.
+
+[1/2010]
+
+(14) Every Complaints Committee shall immediately report to the Medical Council its findings and the order or orders made.
+
+[1/2010]

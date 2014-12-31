@@ -1,7 +1,7 @@
 # 70. Regulations
-Part: PART VIII GENERAL
+Part: PART 8 GENERAL
 
-(1) Subject to the provisions of this Act, the Medical Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+(1) Subject to the provisions of this Act, the Medical Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.
 
 (2) Without prejudice to the generality of subsection (1), the Medical Council may, with the approval of the Minister, make regulations —
 
@@ -13,7 +13,7 @@ Part: PART VIII GENERAL
 
 (d) prescribing the procedure of any committee appointed by the Medical Council under this Act and the conduct of any proceedings by such committee;
 
-(e) enabling a Disciplinary Committee, the Health Committee and an Interim Orders Committee to order and give discovery and inspection of documents for the purpose of any proceedings before them;
+(e) enabling a Disciplinary Tribunal, the Health Committee and an Interim Orders Committee to order and give discovery and inspection of documents for the purpose of any proceedings before them;
 
 (f) regulating the professional practice, etiquette, conduct and discipline of registered medical practitioners;
 
@@ -29,8 +29,6 @@ Part: PART VIII GENERAL
 
 (l) generally providing for such other matters as may be necessary or expedient for carrying out the provisions of this Act.
 
-[46/2002]
+[46/2002; 1/2010]
 
 (3) Regulations made under this Act may make different provision for different classes of persons and different circumstances.
-
-[58

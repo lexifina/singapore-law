@@ -1,52 +1,45 @@
-# 40. Inquiry by Complaints Committee
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 40. Appointment of Complaints Committees
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 2 — Complaints and commencement of inquiry
 
-(1) A Complaints Committee shall inquire into any complaint or information, or any information or evidence referred to in subsection (9), and complete its preliminary inquiry not later than 3 months from —
+(1) The chairman of the Complaints Panel may from time to time appoint one or more committees (to be known for the purposes of this Act as Complaints Committees), each comprising —
 
-(a) the date the complaint or information is laid before the Complaints Committee; or
+(a) a chairman, being a member of the Complaints Panel who is a member of the Medical Council;
 
-(b) the date the information or evidence referred to in subsection (9) is received by the Complaints Committee, as the case may be.
+(b) a registered medical practitioner who is a member of the Complaints Panel; and
 
-[46/2002]
+(c) a lay person who is a member of the Complaints Panel, to inquire into any complaint or information mentioned in section 39(1).
 
-(2) Where a Complaints Committee is of the opinion that it will not be able to complete its preliminary inquiry within the period specified in subsection (1) due to the complexity of the matter or serious difficulties encountered by the Complaints Committee in conducting its preliminary inquiry, the Complaints Committee may apply in writing to the Chairman of the Complaints Panel for an extension of time to complete its inquiry and the Chairman may grant such extension of time to the Complaints Committee as he thinks fit.
+[1/2010]
 
-(3) For the purposes of any inquiry, a Complaints Committee may —
+(2) A Complaints Committee shall be appointed in connection with one or more matters or for such fixed period of time as the chairman of the Complaints Panel may think fit.
 
-(a) call upon or appoint any person it considers necessary to assist it in its investigations and deliberations;
+[1/2010]
 
-(b) require the production of any book, document, paper or other record which may be related to or be connected with the subject-matter of the inquiry for inspection by the Complaints Committee or the person appointed under paragraph (a) and for making copies thereof; and
+(3) The chairman of the Complaints Panel may at any time revoke the appointment of any Complaints Committee or may remove any member of a Complaints Committee or fill any vacancy in a Complaints Committee.
 
-(c) require the registered medical practitioner concerned to give all information in relation to any such book, document, paper or other record which may be reasonably required by the Complaints Committee or by the person so appointed.
+[1/2010]
 
-(4) Any registered medical practitioner and any other person who without lawful excuse —
+(4) No act done by or under the authority of a Complaints Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
 
-(a) refuse or fail to produce to a Complaints Committee or to any person to whom the Complaints Committee may appoint for the purpose of the inquiry any book, document, paper or other record referred to in subsection (3); or
+[1/2010]
 
-(b) fail to give any such information relating thereto, shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(5) All the members of a Complaints Committee shall be present to constitute a quorum for a meeting of the Complaints Committee and any resolution or decision in writing signed by all the members of a Complaints Committee shall be as valid and effectual as if it had been made or reached at a meeting of the Complaints Committee where all its members were present.
 
-(5) All information, including such book, document, paper or other record used by the Complaints Committee in the course of its deliberations, shall be confidential and shall not be disclosed to any person including the registered medical practitioner unless the Complaints Committee in its discretion thinks otherwise.
+[1/2010]
 
-(6) The Complaints Committee may, at any time before it makes its findings, seek such legal advice as it thinks necessary.
+(6) A Complaints Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as its members may think fit.
 
-(7) Where a Complaints Committee is of the opinion that a registered medical practitioner should be called upon to answer any allegation made against him, the Complaints Committee shall post or deliver to the registered medical practitioner —
+[1/2010]
 
-(a) copies of any complaint or information and of any statutory declaration or affidavit that have been made in support of the complaint or information; and
+(7) The chairman of a Complaints Committee may at any time summon a meeting of the Complaints Committee.
 
-(b) a notice inviting the registered medical practitioner, within such period (not being less than 21 days) as may be specified in the notice, to give to the Complaints Committee any written explanation he may wish to offer.
+[1/2010]
 
-(8) The registered medical practitioner concerned shall not have the right to be heard by the Complaints Committee, whether in person or by counsel, unless the Complaints Committee in its absolute discretion otherwise allows.
+(8) All members of a Complaints Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the chairman shall have a casting vote.
 
-(9) Where, in the course of its inquiry, a Complaints Committee receives information touching on or evidence of the conduct or physical or mental fitness of the registered medical practitioner concerned which may give rise to proceedings under this Part, the Complaints Committee may, after giving notice to him, decide on its own motion to inquire into that matter.
+[1/2010]
 
-[46/2002]
+(9) A member of a Complaints Committee shall, notwithstanding that he has ceased to be a member of the Complaints Panel on the expiry of his term of office, be deemed to be a member of the Complaints Panel until such time as the Complaints Committee has completed its work.
 
-(10) Where the complainant withdraws his complaint before —
-
-(a) it is referred to a Complaints Committee or the Health Committee under this section; or
-
-(b) the conclusion of the inquiry of a Complaints Committee or Disciplinary Committee before which it is laid, or of the Health Committee, the Medical Council may, notwithstanding such withdrawal, direct that an inquiry be conducted into the complaint or the inquiry into the complaint be continued, and the Chairman of the Complaints Panel, the Complaints Committee, the Disciplinary Committee or the Health Committee, as the case may be, shall comply with such direction as if the complaint had been made by the Medical Council.
-
-[46/2002]
-
-(11) Any member of the Medical Council who is employed in the Ministry of Health shall not be disqualified from being a member of a Complaints Committee or Disciplinary Committee or the Health Committee by reason only that he or the complainant is so employed.
+[1/2010]

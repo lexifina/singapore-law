@@ -1,5 +1,5 @@
-# 17. Unauthorised person acting as medical practitioner
-Part: PART III PRIVILEGES OF MEDICAL PRACTITIONERS
+# 17. Unauthorised person acting as medical practitioner 1
+Part: PART 3 PRIVILEGES OF MEDICAL PRACTITIONERS
 
 (1) Any unauthorised person who —
 

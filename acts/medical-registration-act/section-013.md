@@ -1,5 +1,5 @@
 # 13. Qualifications to practise
-Part: PART III PRIVILEGES OF MEDICAL PRACTITIONERS
+Part: PART 3 PRIVILEGES OF MEDICAL PRACTITIONERS
 
 Subject to section 66 —
 

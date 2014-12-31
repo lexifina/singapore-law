@@ -1,20 +1,59 @@
-# 54. Interim Orders Committee may revoke, vary or replace interim order
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 54. Orders of Disciplinary Tribunal
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 5 — Disciplinary Tribunals
 
-(1) Where an interim suspension order or an order for interim restricted registration has been made under this section or section 52 in relation to any person, the Interim Orders Committee that made the order or another Interim Orders Committee appointed in its place may, either upon its review referred to in section 53 or upon the recommendation of a Complaints Committee, a Disciplinary Committee or the Health Committee —
+(1) Where a registered medical practitioner, in respect of whom an order under section 53(2)(c) or (d), 59B(1)(b) or 59D(1)(d) is made, is found by a Disciplinary Tribunal (whether, in the case of an order under section 53(2)(c) or (d), it is the Disciplinary Tribunal that made the order or another Disciplinary Tribunal appointed in its place) to have failed to comply with any of the requirements imposed on him as conditions or restrictions of his registration, the Disciplinary Tribunal may, if it thinks fit, by order —
 
-(a) revoke the order or revoke any condition imposed by the order;
+(a) remove his name from the appropriate register; or
 
-(b) make an order varying any condition imposed by the order;
+(b) suspend his registration in the appropriate register for such period not exceeding 12 months as may be specified in the order.
 
-(c) if satisfied that to do so is necessary for the protection of members of the public or is otherwise in the public interest, or is in the interests of the registered medical practitioner concerned, or that the registered medical practitioner has not complied with any requirement imposed as a condition of his registration in the order for interim restricted registration, replace that order with an interim suspension order having effect for the remainder of the period of the former; or
+[1/2010]
 
-(d) if satisfied that the public interest or the interests of the registered medical practitioner concerned would be more adequately served by an order for interim restricted registration, replace the interim suspension order with an order for interim restricted registration having effect for the remainder of the period of the former.
+(2) Where a Disciplinary Tribunal has made an order for suspension under subsection (1)(b) or section 53(2)(b), the Disciplinary Tribunal may make an order under section 53(2)(c) or (d), to take effect from the expiry of the current period of suspension.
 
-[46/2002]
+[1/2010]
 
-(2) The Registrar shall immediately serve a notification of the decision under subsection (1) on the registered medical practitioner.
+(3) Where a Disciplinary Tribunal has made an order for suspension under subsection (1)(b) or section 53(2)(b) against a registered medical practitioner and he has failed to comply with that order, the Disciplinary Tribunal or another Disciplinary Tribunal appointed in its place may, if it thinks fit —
 
-[49D
+(a) by order remove his name from the appropriate register; or
 
-[46/2002]
+(b) make an order under section 53(2)(c) or (d), to take effect from the expiry of the current period of suspension.
+
+[1/2010]
+
+(4) Where a Disciplinary Tribunal has made an order under section 53(2)(c) or (d), the Disciplinary Tribunal or another Disciplinary Tribunal appointed in its place may revoke the order or revoke or vary any of the conditions or restrictions imposed by the order.
+
+[1/2010]
+
+(5) Subsection (1) shall apply to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under subsection (2) or (3) as it applies to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under section 53(2)(c) or (d), and subsection (4) shall apply accordingly.
+
+[1/2010]
+
+(6) Where a Disciplinary Tribunal has made an order under section 53 or this section, or has varied the conditions or restrictions imposed by an order under this section, the Registrar shall immediately serve on the registered medical practitioner and on the complainant a notice of the order or the variation.
+
+[1/2010]
+
+(7) Subject to subsection (8), an order made by a Disciplinary Tribunal for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2) shall not take effect until the expiration of 30 days after the order is made.
+
+[1/2010]
+
+(8) On making an order for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2), a Disciplinary Tribunal, if satisfied that to do so is necessary for the protection of members of the public or would be in the best interests of the registered medical practitioner concerned, may order that his name be removed from the register or that his registration in the register be suspended immediately.
+
+[1/2010]
+
+(9) Where an order under subsection (8) is made, the Registrar shall immediately serve a notice of the order on the person to whom it applies and —
+
+(a) if that person was present or represented at the proceedings of the Disciplinary Tribunal, the order shall take effect from the time the order is made; or
+
+(b) if that person was neither present nor represented at the proceedings of the Disciplinary Tribunal, the order shall take effect from the date of service of the notice on him.
+
+[1/2010]
+
+(10) An order of a Disciplinary Tribunal, other than an order for the removal of any name or for the suspension of any registration under subsection (1) or (3) or section 53(2)(a) or (b), shall take effect from the date the order is made.
+
+[1/2010]
+
+(11) While any order for the suspension of any registration remains in force, the person concerned shall not be regarded as being registered, notwithstanding that his name still appears in the register, but immediately on the expiry of such order, his rights and privileges as a registered medical practitioner shall be revived as from the date of such expiry provided that the medical practitioner has complied with all the terms of the order.
+
+[1/2010]

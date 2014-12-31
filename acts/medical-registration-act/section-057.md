@@ -1,26 +1,15 @@
-# 57. Duration of interim orders
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 57. Health Committee
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 6 — Health Committee
 
-(1) An interim suspension order or an order for interim restricted registration shall be in force until —
+(1) The Medical Council may, from time to time, appoint one or more Health Committees, each comprising not less than 3 persons, of whom at least one shall be a member of the Medical Council and who shall be the chairman.
 
-(a) the end of the period specified in the order or, if extended under section 56 (2), in the order extending it; or
+[1/2010]
 
-(b) the date on which proceedings are concluded, whichever is the earlier.
+(2) A Health Committee shall inquire into any case or matter referred to it under this Act.
 
-[46/2002]
+[1/2010]
 
-(2) For the purposes of subsection (1) (b), proceedings are concluded if —
+(3) A Health Committee may be appointed in connection with one or more matters or for a fixed period of time as the Medical Council may think fit.
 
-(a) the Complaints Committee inquiring into the complaint or information has made an order under section 41 (1) (a) and —
-
-(i) no appeal to the Minister under section 41 (6) or (7) was made against that decision within the period specified in that section or such an appeal was withdrawn; or
-
-(ii) the Minister made an order under section 41 (8) (a) or (c);
-
-(b) the Disciplinary Committee inquiring into the complaint or information has made an order under section 45 (2) which has taken effect, or has dismissed the complaint or matter under section 46 (16); or
-
-(c) the Health Committee has made an order under section 49 (1) which has taken effect, the Medical Council has made an order under section 49 (2) which has taken effect, or the Health Committee has dismissed the complaint or matter, as the case may be.
-
-[49G
-
-[46/2002]
+[1/2010]

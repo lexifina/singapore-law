@@ -1,5 +1,5 @@
 # 7. President of Medical Council
-Part: PART II MEDICAL COUNCIL
+Part: PART 2 MEDICAL COUNCIL
 
 (1) The Medical Council shall have a President who shall be elected by the members of the Medical Council from among its members.
 

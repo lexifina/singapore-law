@@ -1,26 +1,29 @@
-# 42. Disciplinary Committee
-Part: PART VII DISCIPLINARY PROCEEDINGS AND HEALTH COMMITTEE INQUIRIES
+# 42. Commencement of inquiry by Complaints Committee
+Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Division: Division 2 — Complaints and commencement of inquiry
 
-(1) The Medical Council may from time to time appoint, from among members of the Complaints Panel, one or more committees comprising —
+(1) A Complaints Committee shall, within 2 weeks after its appointment, commence its inquiry into any complaint or information, or any information or evidence referred to in section 44(5), and complete its inquiry not later than 3 months after the date the complaint or information is laid before the Complaints Committee.
 
-(a) not less than 3 registered medical practitioners of at least 10 years standing of whom at least 2 shall be members of the Medical Council; and
+[1/2010]
 
-(b) one observer who is a lay person, to be known for the purposes of this Act as Disciplinary Committees to inquire into any matter in respect of which a Complaints Committee has under section 41 (1) (b) (ii) ordered that a formal inquiry be held or into any matter referred to it under section 39 (3).
+(2) Where a Complaints Committee is of the opinion that it will not be able to complete its inquiry within the period specified in subsection (1) due to the complexity of the matter or serious difficulties encountered by the Complaints Committee in conducting its inquiry, the Complaints Committee may apply in writing to the chairman of the Complaints Panel for an extension of time to complete its inquiry and the chairman may grant such extension of time to the Complaints Committee as he thinks fit.
 
-[46/2002]
+[1/2010]
 
-(2) A member of a Complaints Committee inquiring into any matter concerning a registered medical practitioner shall not be a member of a Disciplinary Committee inquiring into the same matter.
+(3) For the purposes of any inquiry, a Complaints Committee may appoint one or more investigators in accordance with section 60A to investigate the complaint or information, and the investigator may exercise any one or more of the powers under that section in carrying out his functions and duties under this Part.
 
-(3) The observer who is a member of a Disciplinary Committee shall not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee.
+[1/2010]
 
-(4) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time as the Medical Council may think fit.
+(4) A Complaints Committee shall —
 
-(5) The Medical Council may at any time revoke the appointment of any Disciplinary Committee or may remove any member of a Disciplinary Committee or fill any vacancy in a Disciplinary Committee.
+(a) if it is unanimously of the opinion that the complaint or information is frivolous, vexatious, misconceived or lacking in substance, dismiss the matter and give the reasons for the dismissal;
 
-(6) No act done by or under the authority of a Disciplinary Committee shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
+(b) if it is unanimously of the opinion that no investigation is necessary —
 
-(7) Subject to subsection (3), all members of a Disciplinary Committee shall be personally present to constitute a quorum for the transaction of any business.
+(i) issue a letter of advice to the registered medical practitioner; or
 
-(8) The Medical Council shall appoint a member of a Disciplinary Committee who is a member of the Medical Council to be the Chairman of the Disciplinary Committee.
+(ii) refer the matter for mediation between the registered medical practitioner and the complainant; or
 
-(9) Subject to subsection (3), all members of a Disciplinary Committee present at any meeting thereof shall vote on any question arising at the meeting and such question shall be determined by a majority of votes and, in the case of an equality of votes, the Chairman shall have a casting vote.
+(c) in any other case, direct one or more investigators to carry out an investigation and make a report to it under section 48.
+
+[1/2010]

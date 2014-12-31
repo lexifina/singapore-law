@@ -1,5 +1,5 @@
 # 5. Functions of Medical Council
-Part: PART II MEDICAL COUNCIL
+Part: PART 2 MEDICAL COUNCIL
 
 The functions of the Medical Council are —
 
@@ -13,6 +13,12 @@ The functions of the Medical Council are —
 
 (e) to make recommendations to the appropriate authorities for the training and education of registered medical practitioners;
 
-(f) to determine and regulate the conduct and ethics of registered medical practitioners; and
+(f) to determine and regulate the conduct and ethics of registered medical practitioners;
+
+(fa) to determine and regulate standards of practice and the competence of registered medical practitioners within the medical profession;
+
+(fb) to provide administrative services to other bodies (whether corporate or unincorporate) responsible for the regulation of healthcare professionals; and
 
 (g) generally to do all such acts and matters and things as are necessary to be carried out under this Act.
+
+[1/2010]

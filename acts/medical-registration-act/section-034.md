@@ -1,5 +1,5 @@
 # 34. Establishment of Specialists Accreditation Board
-Part: PART V SPECIALISTS ACCREDITATION BOARD
+Part: PART 5 SPECIALISTS ACCREDITATION BOARD
 
 (1) There shall be a board to be known as the Specialists Accreditation Board (referred to in this Part as the Board) consisting of not less than 8 registered medical practitioners to be appointed by the Minister.
 
@@ -9,7 +9,7 @@ Part: PART V SPECIALISTS ACCREDITATION BOARD
 
 (4) If any member of the Board dies, resigns or is removed from office, the Minister may fill the vacancy by the appointment of a registered medical practitioner and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
 
-(5) The powers of the Board shall not be affected by any vacancy in the membership thereof.
+(5) The powers of the Board shall not be affected by any vacancy in its membership.
 
 (6) At any meeting of the Board, 3 members shall form a quorum.
 
