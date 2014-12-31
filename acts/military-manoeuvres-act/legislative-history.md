@@ -1,0 +1,9 @@
+# LEGISLATIVE HISTORY MILITARY MANOEUVRES ACT (CHAPTER 182)
+
+This Legislative History is provided for the convenience of users of the Military Manoeuvres Act. It is not part of the Act.
+
+1. M. Enactment F.M.S. — Military Manoeuvres Enactment (Chapter 43) Dates of First, Second and Third : Dates not available.
+
+Readings (No Bill number given) Date of commencement : 31 December 1934 2. M. Ordinance 1 of 1948 — Transfer of Powers Ordinance 1948 Dates of First, Second and Third : Dates not available.
+
+Readings (No Bill number given) Date of commencement : 6 March 1948 3. L.N. 39/57 — Armed Forces (Transfer of Powers) Order 1957 Date of commencement : 24 January 1957 4. L.N. 141/59 — Federal Constitution (Modification of Laws) (Armed Forces) Order 1959 Date of commencement : 7 May 1959 5. L.N. 233/63 — Malaysia Act, 1963, Modification of Laws (Armed Forces) (Singapore) Order 1963 Date of commencement : 16 September 1963 6. G. N. No. S 166/66 — Modification of Laws (Military Manoeuvres) Order 1966 Date of commencement : 5 August 1966 7. 1966 Reprint — Military Manoeuvres Enactment (M. (F.M.S.) Chapter 43) Date of operation : 17 August 1966 8. 1970 Revised Edition — Military Manoeuvres Act (Chapter 232) Date of operation : 31 July 1971 9. Act 8 of 1983 — Military Manoeuvres (Amendment) Act 1983 Date of First Reading : 3 December 1982 (Bill No. 26/82) Date of Second and Third Readings : 4 March 1983 Date of commencement : 15 April 1983 10. 1985 Revised Edition — Military Manoeuvres Act (Chapter 182) Date of operation : 30 March 1987 11. Act 7 of 1997 — Statutes (Miscellaneous Amendments) Act 1997 Date of First Reading : 11 July 1997 (Bill No. 6/97) Date of Second and Third Readings : 25 August 1997 Date of commencement : 1 October 1997 (item (17) of the Second Schedule — amendment of Military Manoeuvres Act)
