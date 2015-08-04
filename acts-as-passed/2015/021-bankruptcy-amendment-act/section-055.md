@@ -1,0 +1,3 @@
+# 55. Amendment of section 157
+
+Section 157(1) of the Bankruptcy Act is amended by deleting the words “Where, by any provision of this Act, any summons, notice or document is required or authorised to be served on any person, it may be served” and substituting the words “Every summons, notice or document required or authorised to be served on any person under any provision of this Act and, despite anything to the contrary in the Criminal Procedure Code (Cap. 68), every summons issued by a court for the attendance of any person accused of any offence under this Act, may be served on the person”.
