@@ -1,0 +1,3 @@
+# 14. Repeal of section 18
+
+Section 18 of the principal Act is repealed.
