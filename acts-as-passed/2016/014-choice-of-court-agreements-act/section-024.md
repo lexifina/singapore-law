@@ -1,0 +1,10 @@
+# 24. Saving and transitional provisions
+Part: PART 4 MISCELLANEOUS
+
+(1) This Act does not apply to an exclusive choice of court agreement that designates a Singapore court as a chosen court, if the agreement is concluded before the date of commencement of this Act.
+
+(2) This Act does not apply to an exclusive choice of court agreement that designates a court of another Contracting State as a chosen court, if the agreement is concluded before the Convention enters into force in that Contracting State.
+
+(3) This Act does not apply to any case instituted in a Singapore court before the date of commencement of this Act, or any application made (whether before, on or after the date of commencement of this Act) in any such case.
+
+(4) For a period of 2 years after the date of commencement of this Act, the Minister may, by regulations, prescribe additional provisions of a saving or transitional nature consequent on the enactment of this Act.
