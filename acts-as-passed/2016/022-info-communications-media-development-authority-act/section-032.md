@@ -1,0 +1,18 @@
+# 32. Presiding at meetings
+Part: PART 4 DECISION-MAKING BY AUTHORITY Division 1 — Meetings
+
+(1) At a meeting of the Authority, the following person presides:
+
+(a) if there is a Chairperson and he or she is present and is not interested (within the meaning of section 23) in the matter —
+
+the Chairperson;
+
+(b) if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning of section 23) in the matter, and there is a Deputy Chairperson who is present and is not interested (within the meaning of section 23) in the matter —
+
+the Deputy Chairperson;
+
+(c) in any other case, the member elected, from among the members present at the meeting, to preside.
+
+(2) The person specified in subsection (1)(b) or (c) may perform the functions and exercise the powers of the Chairperson for the purposes of the meeting.
+
+(3) In this section, a reference to a meeting of the Authority includes the process for, and the adoption of, a decision by the members of the Authority under section 34.
