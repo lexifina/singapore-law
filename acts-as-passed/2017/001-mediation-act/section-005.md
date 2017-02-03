@@ -1,0 +1,3 @@
+# 5. Act binds Government
+
+This Act binds the Government.

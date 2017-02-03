@@ -1,0 +1,27 @@
+# 6. Application of Act
+
+(1) Subject to subsections (2), (3) and (4), this Act applies to, or in relation to, any mediation conducted under a mediation agreement where —
+
+(a) the mediation is wholly or partly conducted in Singapore;
+
+or
+
+(b) the agreement provides that this Act or the law of Singapore is to apply to the mediation.
+
+(2) This Act does not apply to, or in relation to, the following:
+
+(a) any mediation or conciliation proceeding, process, scheme or framework conducted under, or provided by or under, any written law;
+
+(b) unless otherwise provided in an order under subsection (3), any mediation conducted by, or under a direction by, a court;
+
+(c) subject to subsection (4), any mediation or conciliation proceeding, process, scheme or framework, or any class of mediation or conciliation proceedings, processes, schemes or frameworks, not falling under paragraph (a) or (b), which is excluded in an order under that subsection.
+
+(3) The Minister may, after consulting the Chief Justice, by order in the Gazette, extend all or any of the provisions of this Act to apply to, or in relation to, any mediation described in subsection (2)(b), and in the order make such saving or transitional provisions consequent on the extension as may be necessary or expedient.
+
+(4) The Minister may, by order in the Gazette, exclude from the application of all or any of the provisions of this Act —
+
+(a) the whole or any part of any mediation or conciliation proceeding, process, scheme or framework described in subsection (2)(c); or
+
+(b) any class of mediation or conciliation proceedings, processes, schemes or frameworks described in subsection (2)(c).
+
+(5) All orders made under subsections (3) and (4) are to be presented to Parliament as soon as possible after publication in the Gazette.
