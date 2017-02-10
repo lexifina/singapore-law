@@ -1,0 +1,3 @@
+# 107. Amendment of section 230
+
+Section 230(1) of the principal Act is amended by deleting the words “securities or trade in futures contracts, or a representative of such a holder does not contravene section 218(2) or 219(2) by subscribing for, purchasing or selling, or entering into an agreement to subscribe for, purchase or sell, securities that are traded on the stock market or futures market” and substituting the words “capital markets products, or a representative of such a holder, does not contravene section 218(2) or 219(2) by subscribing for, purchasing or selling, or entering into an agreement to subscribe for, purchase or sell, securities, securities‑based derivatives contracts or CIS units”.
