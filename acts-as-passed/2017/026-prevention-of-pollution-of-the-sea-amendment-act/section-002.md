@@ -1,0 +1,3 @@
+# 2. Amendment of long title
+
+The long title to the Prevention of Pollution of the Sea Act (called in this Act the principal Act) is amended by deleting the words “and to other international agreements relating to the prevention, reduction and control of pollution of the sea and pollution from ships” and substituting the words “the International Convention for the Control and Management of Ships’ Ballast Water and Sediments 2004, and to other international agreements relating to the protection of the marine environment and to the prevention, reduction and control of pollution of the sea and pollution from ships”.
