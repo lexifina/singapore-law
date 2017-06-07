@@ -1,0 +1,3 @@
+# 7. Amendment of section 10
+
+Section 10 of the principal Act is amended by deleting subsection (5).
