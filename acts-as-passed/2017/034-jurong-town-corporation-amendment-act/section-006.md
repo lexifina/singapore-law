@@ -1,0 +1,3 @@
+# 6. Repeal of section 64
+
+Section 64 of the principal Act is repealed.
