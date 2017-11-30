@@ -1,0 +1,18 @@
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+CHOICE OF COURT AGREEMENTS ACT
+(CHAPTER 39A)
+(Original Enactment: Act 14 of 2016)
+REVISED EDITION 2017
+(30 November 2017)
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
+PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+2017
+
+
+
+An Act to give effect to the Convention on Choice of Court Agreements done at The Hague on 30 June 2005 and for connected purposes.
+
+[1 October 2016]
