@@ -1,0 +1,14 @@
+# 112. Appointment and powers of inspector
+Part: PART 9 INVESTIGATIONS
+
+(1) Where a VCC has been declared as a VCC to which this Part applies, the Minister must appoint one or more inspectors to investigate the affairs of that VCC, and to report his or her opinion on those affairs to the Minister.
+
+(2) Sections 231(2) to (9) and 239 of the Companies Act apply in relation to an inspector appointed under subsection (1) and an investigation mentioned in that subsection, as they apply in relation to an inspector appointed under section 231(1) of that Act and an investigation mentioned in that provision, subject to section 5 and the following modifications:
+
+(a) if the investigation relates solely to a sub‑fund of an umbrella VCC, then —
+
+(i) any expenses ordered to be paid by the VCC under section 231(4) of the Companies Act are to be paid out of the assets of the sub‑fund only; and
+
+(ii) if the sub‑fund is in liquidation or subsequently goes into liquidation, those expenses are treated as part of the costs and expenses of the winding up of the sub‑fund for the purposes of section 328(1)(a) of the Companies Act as applied by section 33;
+
+(b) the reference in section 231(4) of that Act to section 233(4) of that Act is to section 114(5).

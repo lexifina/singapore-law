@@ -1,0 +1,24 @@
+# 59. Disqualification and debarment from being director or secretary in connection with default in filing documents under this Act
+Part: PART 6 MANAGEMENT AND ADMINISTRATION Division 1 — Preliminary
+Division: Division 4 — Directors and Secretaries Subdivision (1) — Preliminary provisions
+Subdivision: Subdivision (2) — Qualifications and disqualifications of directors and officers
+
+Sections 155 (except subsections (8) and (11)) and 155B of the Companies Act apply in relation to a VCC as they apply in relation to a company, subject to section 5 and the following modifications:
+
+(a) a reference in those sections of the Companies Act to a relevant requirement of that Act is to a provision of this Act (including a provision of the Companies Act applied by this Act) that requires any return, account or other document to be filed with, delivered or sent, or notice of any matter to be given, to the Registrar;
+
+(b) in section 155 of the Companies Act —
+
+(i) a reference to an order under section 13 of that Act is to an order under section 12; and
+
+(ii) a reference to an order under section 399 of that Act is to an order under that section as applied by section 160;
+
+(c) the reference in section 155(5) of the Companies Act to an offence under section 154(2)(a) of the Companies Act is to an offence under section 58(2)(a);
+
+(d) the following provision applies in place of section 155(7) of the Companies Act (which provides that a certificate of the Registrar of Companies is prima facie evidence of certain matters relevant to section 155(3) and (4) of that Act):
+
+“A certificate of the Registrar stating that a person —
+
+(a) has been adjudged guilty of 3 or more offences; or
+
+(b) has had made against him or her 3 or more orders under section 12, or under section 399 of the Companies Act as applied by section 160, in relation to any relevant requirement of this Act, is prima facie evidence of the facts stated in the certificate.”.

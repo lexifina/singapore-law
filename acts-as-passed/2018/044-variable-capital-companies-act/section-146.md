@@ -1,0 +1,9 @@
+# 146. Obtaining payment, etc., to VCC by false promise of officer or agent of VCC
+Part: PART 13 GENERAL PROVISIONS Division 1 — Remedies of Members and Debenture Holders for Oppression, etc.
+Division: Division 2 — Offences
+
+(1) A person who, while an officer, the manager or an agent of a VCC, by any deceitful means or false promise and with intent to defraud, causes or procures any money to be paid, or any chattel or marketable security to be delivered to the VCC or to the person or any other person for the use or benefit or on account of the VCC or its sub‑funds (if any), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) In a proceeding for an offence under subsection (1), the opinion of a registered or public accountant as to the financial position of a VCC or its sub‑funds (if any) at any time or during any period in respect of which the accountant has made an audit or examination of its affairs according to recognised audit practice, is admissible either for the prosecution or the defence as evidence of the financial position of the VCC or its sub‑funds at that time or during that period.
+
+(3) Subsection (2) applies even if the opinion is based in whole or in part on book-entries, documents or vouchers or on written or verbal statements by other persons.

@@ -1,0 +1,20 @@
+# 60. Disqualification for being director of not less than 3 VCCs that were struck off within 5‑year period
+Part: PART 6 MANAGEMENT AND ADMINISTRATION Division 1 — Preliminary
+Division: Division 4 — Directors and Secretaries Subdivision (1) — Preliminary provisions
+Subdivision: Subdivision (2) — Qualifications and disqualifications of directors and officers
+
+(1) Subject to section 5, a person —
+
+(a) who was a director of a VCC (VCC A) at the time that the name of VCC A had been struck off the register under section 344 of the Companies Act as applied by section 130; and
+
+(b) who, within a period of 5 years immediately before the date on which the name of VCC A was struck off the register —
+
+(i) had been a director of not less than 2 other VCCs the names of which have been struck off that register; and
+
+(ii) was a director of each of those VCCs at the time its name was so struck off, must not act as a director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, any other VCC for a period of 5 years commencing immediately after the date on which the name of VCC A was struck off.
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(3) A person who is subject to a disqualification under subsection (1) may apply to the Court for leave to act as a director of, or to take part in or be concerned in the management of, a VCC during the period of disqualification upon giving the Minister not less than 14 days’ notice of his or her intention to apply for such leave.
+
+(4) On the hearing of the application, the Minister may be represented at the hearing and may oppose the granting of the application.
