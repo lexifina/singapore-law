@@ -1,0 +1,20 @@
+REPUBLIC OF SINGAPORE
+GOVERNMENT GAZETTE
+ACTS SUPPLEMENT
+Published by Authority
+NO. 21] FRIDAY, MAY 3 [2019
+First published in the Government Gazette, Electronic Edition, on 2 May 2019 at 5 pm.
+The following Act was passed by Parliament on 1 October 2018 and assented
+to by the President on 31 October 2018:—
+REPUBLIC OF SINGAPORE
+No. 42 of 2018.
+I assent.
+HALIMAH YACOB,
+President.
+31 October 2018.
+
+
+
+An Act to amend the Electricity Act (Chapter 89A of the 2002 Revised Edition).
+
+Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
