@@ -1,0 +1,16 @@
+# 247. Contributories in winding up of unregistered company
+Part: PART 10 WINDING UP OF UNREGISTERED COMPANIES AND LIQUIDATION OR DISSOLUTION OF FOREIGN COMPANIES Division 1 — Winding up of unregistered companies
+
+(1) On an unregistered company being wound up, every person is a contributory —
+
+(a) who is liable to pay or contribute to the payment of —
+
+(i) any debt or liability of the company;
+
+(ii) any sum for the adjustment of the rights of the members among themselves; or
+
+(iii) the costs and expenses of winding up; or
+
+(b) where the company has been dissolved in the place in which it is formed or incorporated, who immediately before the dissolution was so liable, and every contributory is liable to contribute to the assets of the company all sums due from him or her in respect of any such liability.
+
+(2) On the death or bankruptcy of any contributory, the provisions of this Act with respect to the personal representatives of deceased contributories and the assignees and trustees of bankrupt contributories respectively apply.
