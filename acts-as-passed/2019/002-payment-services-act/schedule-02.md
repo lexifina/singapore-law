@@ -1,0 +1,5 @@
+# SECOND SCHEDULE
+
+Sections 4(2) and 107
+
+SPECIFIED PROVISIONS 1. Section 13(3) 2. Section 100(4)
