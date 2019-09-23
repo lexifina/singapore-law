@@ -1,0 +1,3 @@
+# 29. Repeal of section 35
+
+Section 35 of the principal Act is repealed.
