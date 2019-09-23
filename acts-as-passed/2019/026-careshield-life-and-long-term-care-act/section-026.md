@@ -1,0 +1,20 @@
+# 26. Payment by Government
+Part: PART 7 RECOVERY OF OUTSTANDING PREMIUMS AND EXCESS PAYMENTS
+
+(1) Where —
+
+(a) any outstanding premium under the CSHL Scheme is due from any person under this Act other than as a defaulter’s agent under section 24 or 25;
+
+(b) an amount is or would be payable by the Government to the person by or under any written law, contract or scheme —
+
+(i) on, or within 90 days after, the date on which the public officer in paragraph (c) receives the notice in that paragraph; or
+
+(ii) on or after the date on which the public officer in paragraph (c) receives the notice in that paragraph, if the amount is earnings (as defined in section 24(10)) payable to the person by the Government as a principal and not as an agent; and
+
+(c) before the amount referred to in paragraph (b) is paid to the person, the recovery body serves a notice on any public officer by whom the payment is to be made that the outstanding premium referred to in paragraph (a) is due from the person, then the public officer is, despite that or any other written law, contract or scheme, entitled to pay the whole or any part of the amount referred to in paragraph (b) towards the whole or any part of the outstanding premium referred to in paragraph (a).
+
+(2) If a public officer makes a payment under subsection (1) towards the outstanding premium referred to in subsection (1)(a) —
+
+(a) the amount of the outstanding premium must be reduced by the amount of that payment; and
+
+(b) that payment is deemed to have been made to the person in accordance with the law, contract or scheme referred to in subsection (1)(b).
