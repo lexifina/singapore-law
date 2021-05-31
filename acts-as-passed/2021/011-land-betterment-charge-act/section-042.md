@@ -1,0 +1,9 @@
+# 42. Reduction in penalty tax for voluntary disclosure, etc.
+Part: PART 6 RECOVERY AND EVASION Division 1 — Recovery
+Division: Division 2 — Default and penalty tax
+
+The Authority may in the following circumstances reduce the amount of penalty tax payable upon the giving of a rectification order, by using the percentages below in lieu of the percentage in section 41(1)(b):
+
+(a) 6% of the amount of land betterment charge worked out under section 41(1)(a) if, before the Authority informs the tax payer given the rectification order that an investigation relating to the carrying out of any development or subdivision of the land or the carrying on of a controlled activity or the stoppage in carrying on a controlled activity (as the case may be) without the relevant chargeable consent is to be carried out, the tax payer discloses to the Authority or an authorised officer, in writing, sufficient information to enable the nature and extent of any development or subdivision of the land or controlled activity carried on or of the stoppage of a controlled activity (as the case may be) to be ascertained;
+
+(b) 24% of the amount of land betterment charge worked out under section 41(1)(a) if, after the Authority informs the tax payer given the rectification order that an investigation relating to the carrying out of any development or subdivision of the land or the carrying on of a controlled activity or the stoppage in carrying on a controlled activity (as the case may be) without the relevant chargeable consent is to be carried out and before the investigation is begun, the tax payer discloses to the Authority or an authorised officer, in writing, sufficient information to enable the nature and extent of any development or subdivision of the land or controlled activity carried on or of the stoppage of a controlled activity (as the case may be) to be ascertained.
