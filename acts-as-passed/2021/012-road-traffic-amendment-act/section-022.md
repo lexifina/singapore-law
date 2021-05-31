@@ -1,0 +1,3 @@
+# 22. Amendment of section 116
+
+Section 116(7) of the principal Act is amended by deleting the words “not exceeding 6 months and shall also be punished with a fine of not less than $1,000 and not more than $2,000 and, in the case of a second or subsequent conviction, with imprisonment for a term not exceeding 12 months and with a fine of not less than $2,000 and not more than $3,000” and substituting the words “not exceeding 12 months and shall also be punished with a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, with imprisonment for a term not exceeding 2 years and with a fine not exceeding $10,000”.

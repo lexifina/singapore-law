@@ -1,0 +1,3 @@
+# 12. Repeal of section 41
+
+Section 41 of the principal Act is repealed.
