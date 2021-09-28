@@ -1,0 +1,29 @@
+# 59. New sections 22A and 22B
+
+The Supreme Court of Judicature Act is amended by inserting, immediately after section 22, the following sections:
+
+“Oral hearing not needed for appellate matters generally 22A.—(1) Subject to subsection (2), the General Division may decide any matter in its appellate civil jurisdiction without hearing oral arguments, other than a matter prescribed by the Rules of Court or the Family Justice Rules.
+
+(2) Subsection (1) does not allow any part of a proceeding where oral evidence is given to be conducted without an oral hearing, unless all the parties consent.
+
+(3) Subject to subsection (4), the General Division may, in any matter that the General Division may decide without hearing oral arguments, direct that the matter be heard in an asynchronous manner by exchange of written correspondence with the party or parties using such means of communication as directed by the General Division.
+
+(4) The General Division must not hear a matter in an asynchronous manner if to do so would be inconsistent with the court’s duty to ensure that the proceedings are conducted fairly to all parties.
+
+(5) To avoid doubt, this section does not affect the power of the General Division to hear oral arguments before deciding any matter that may be decided without hearing oral arguments.
+
+Summary dismissal of certain appeals 22B.—(1) The General Division may, on its own motion, summarily dismiss any appeal to the General Division in the exercise of its appellate civil jurisdiction, if it is satisfied of any of the following:
+
+(a) it does not have the jurisdiction to hear and determine the appeal;
+
+(b) every issue in the appeal has already been decided by the General Division, the Appellate Division or the Court of Appeal in an earlier matter in which the appellant was involved, and the appeal therefore has no merit;
+
+(c) such conditions as may be prescribed by the Rules of Court or the Family Justice Rules are met.
+
+(2) Before summarily dismissing any appeal under subsection (1), the General Division must —
+
+(a) give the appellant a reasonable opportunity to show cause why the appeal should not be summarily dismissed; and
+
+(b) consider any representations made by the appellant.
+
+(3) In this section, “appeal” includes part of an appeal.”.
