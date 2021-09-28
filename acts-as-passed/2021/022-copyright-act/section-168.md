@@ -1,0 +1,14 @@
+# 168. Presumptions where author is dead
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (4) — Presumptions in infringement actions
+
+(1) This section applies if it is proved that the author of an authorial work is dead.
+
+(2) The work is presumed to be original.
+
+(3) If the claimant alleges that a specified publication is the first publication of the work and that the first publication took place in a specified country and on a specified date —
+
+(a) the specified publication is presumed to be the first publication of the work; and
+
+(b) the first publication of the work is presumed to have taken place in the specified country and on the specified date.
