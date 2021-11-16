@@ -1,0 +1,3 @@
+# 6. Repeal of Part III
+
+Part III of the Developmental Investment Fund Act is repealed.
