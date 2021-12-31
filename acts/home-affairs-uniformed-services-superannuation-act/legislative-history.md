@@ -1,33 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY HOME AFFAIRS UNIFORMED SERVICES SUPERANNUATION ACT 2001
 
-HOME AFFAIRS UNIFORMED SERVICES SUPERANNUATION ACT (CHAPTER 126B)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Home Affairs Uniformed Services Superannuation Act. It is not part of the Act.
+1. Act 33 of 2001 — Home Affairs Uniformed Services Superannuation Act 2001 Bill : 31/2001 First Reading : 25 July 2001 Second and Third Readings : 13 August 2001 Commencement : 1 October 2001 2. 2002 Revised Edition — Home Affairs Uniformed Services Superannuation Act (Chapter 126B) Operation : 31 July 2002 3. Act 29 of 2002 — Prevention of Corruption (Amendment) Act 2002 (Amendments made by section 5 of the above Act) Bill : 29/2002 First Reading : 1 October 2002 Second and Third Readings : 31 October 2002 Commencement : 30 January 2003 (section 5) 4. Act 5 of 2004 — Companies (Amendment) Act 2004 (Amendments made by section 59 read with item (5) of the Schedule to the above Act) Bill : 3/2004 First Reading : 5 January 2004 Second and Third Readings : 6 February 2004 Commencement : 1 April 2004 (section 59 read with item (5) of the Schedule) 5. 2012 Revised Edition — Home Affairs Uniformed Services Superannuation Act (Chapter 126B) Operation : 31 July 2012 6. Act 4 of 2014 — Statutes (Miscellaneous Amendments) Act 2014 (Amendments made by section 6 of the above Act) Bill : 25/2013 First Reading : 11 November 2013 Second and Third Readings : 21 January 2014 Commencement : 10 March 2014 (section 6) 7. Act 35 of 2019 — Home Affairs Uniformed Services Superannuation (Amendment) Act 2019 Bill : 28/2019 First Reading : 7 October 2019 Second and Third Readings : 4 November 2019 Commencement : 1 January 2020 8. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act (Amendments made by section 481 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 481)
 
-1. Act 33 of 2001 — Home Affairs Uniformed Services Superannuation Act 2001
+Abbreviations
 
-Date of First Reading : 25 July 2001 (Bill No. 31/2001 published on 26 July 2001)
-
-Date of Second and Third Readings : 13 August 2001
-
-Date of commencement : 1 October 2001
-
-2. 2002 Revised Edition — Home Affairs Uniformed Services Superannuation Act (Chapter 126B)
-
-Date of operation : 31 July 2002
-
-3. Act 29 of 2002 — Prevention of Corruption (Amendment) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 1 October 2002 (Bill No. 29/2002 published on 2 October 2002)
-
-Date of Second and Third Readings : 31 October 2002
-
-Date of commencement : 30 January 2003
-
-4. Act 5 of 2004 — Companies (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 5 January 2004 (Bill No. 3/2004 published on 6 January 2004)
-
-Date of Second and Third Readings : 6 February 2004
-
-Dates of commencement : 1 April 2004 (except section 28(a) and (c)) 1 October 2004 (section 28(a) and (c))
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

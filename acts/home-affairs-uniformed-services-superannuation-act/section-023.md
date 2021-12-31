@@ -1,18 +1,14 @@
-# 23. Periodic examination of Fund
-Part: PART V AUDIT AND ACCOUNTING
+# 23. Award officers and appeal authority
+Part: PART 4 BOARD OF TRUSTEES AND AWARD OFFICERS
 
-(1) For successive periods of such duration, not exceeding 5 years, as the Minister may determine in each case, an examination of the Fund shall be made by a person appointed by the Minister with a view to determining the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
+(1) The Minister —
 
-(2) Notwithstanding subsection (1), where an amendment is made to the INVEST Plan, and the amendment affects the cost of benefits payable under the INVEST Plan or creates an initial unfunded liability, the Minister may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
+(a) may appoint one or more public officers as award officers to assess, award or pay pensions, gratuities, allowances and other like benefits under the INVEST Plan; and
 
-(2A) Notwithstanding subsection (1), where an amendment is made to the Scheme, and the amendment affects the cost of benefits payable under the Scheme or creates an initial unfunded liability, the Minister charged with the responsibility for the Scheme may, for the purposes of section 12(1)(a), appoint a person to make an examination and report on the state of the Fund.
+(b) may give such directions as he or she thinks fit to any such award officer in the discharge of his or her duties.
 
-[29/2002]
+(2) The INVEST Plan is to be administered by award officers appointed under subsection (1) subject to the direction and control of the Minister and, except as otherwise provided by any regulations made under Part 2 in relation to the INVEST Plan, no award of benefits under the INVEST Plan is subject to appeal to any court.
 
-(3) The person appointed under subsection (1), (2) or (2A) shall, at the end of his examination, report to the Minister for Finance and the Minister referred to in subsection (2) or (2A), as the case may be, the state of the Fund having regard to its prospective liabilities and the probable annual provisions required by the Fund to meet those liabilities.
+(3) The Minister, or any person appointed by him or her for this purpose, may, on appeal, review any award of benefits by any award officer, and for this purpose may vary any award made by an award officer, whether by increasing or decreasing the award, and the decision of the Minister or such person so appointed is final and conclusive and is not subject to appeal to any court.
 
-[29/2002]
-
-(4) The Minister referred to in subsection (2) or (2A), as the case may be, shall cause a copy of every such report to be presented to Parliament forthwith after receipt thereof.
-
-[29/2002]
+(4) Every appeal against any award of benefits under the INVEST Plan must be brought within 12 months of the date the appellant is notified of the decision of an award officer, or such longer period as the Minister or person appointed under subsection (3) may allow in any particular case.

@@ -1,14 +1,46 @@
-# 21. Award officers and appeal authority
-Part: PART IV BOARD OF TRUSTEES AND AWARD OFFICERS
+# 21. Ability to delegate, etc.
+Part: PART 4 BOARD OF TRUSTEES AND AWARD OFFICERS
 
-(1) The Minister —
+(1) The Board may delegate the performance or exercise of any of its functions or powers, either generally or specially, subject to the conditions or restrictions it thinks fit, to any of the following persons:
 
-(a) may appoint one or more public officers as award officers to assess, award or pay pensions, gratuities, allowances and other like benefits under the INVEST Plan; and
+(a) a trustee;
 
-(b) may give such directions as he thinks fit to any such award officer in the discharge of his duties.
+(b) a public officer;
 
-(2) The INVEST Plan shall be administered by award officers appointed under subsection (1) subject to the direction and control of the Minister and, except as otherwise provided by any regulations made under Part II in relation to the INVEST Plan, no award of benefits under the INVEST Plan shall be subject to appeal to any court.
+(c) an employee of a public authority;
 
-(3) The Minister, or any person appointed by him for this purpose, may, on appeal, review any award of benefits by any award officer, and for this purpose may vary any award made by an award officer, whether by increasing or decreasing such award, and the decision of the Minister or such person so appointed shall be final and conclusive and shall not be subject to appeal to any court.
+(d) an agent, a consultant or an investment manager appointed or engaged under section 20(2).
 
-(4) Every appeal against any award of benefits under the INVEST Plan shall be brought within 12 months of the date the appellant is notified of the decision of an award officer, or such longer period as the Minister or person appointed under subsection (3) may allow in any particular case.
+[35/2019]
+
+(2) A delegation by the Board under subsection (1) of the performance or exercise of any of its functions or powers to a person (called in this Act a delegate) must be made by —
+
+(a) resolution of the Board; and
+
+(b) written notice given to the delegate.
+
+[35/2019]
+
+(3) A delegation by the Board under subsection (1) of the performance or exercise of any of its functions or powers to a delegate mentioned in subsection (1)(d) may authorise that delegate to subdelegate the performance or exercise of the function or power to an appropriately qualified employee or contractor of that delegate (called in this Act a subdelegate).
+
+[35/2019]
+
+(4) A subdelegation by a delegate under an authorisation given to the delegate under subsection (3) must be subject to the same conditions or restrictions imposed on the delegate under subsection (1) (called in this section the original conditions or restrictions), except that the delegate may —
+
+(a) modify any of the original conditions or restrictions to apply a more stringent form of that condition or restriction to the subdelegate; or
+
+(b) impose on the subdelegate any additional condition or restriction not inconsistent with the original conditions or restrictions.
+
+[35/2019]
+
+(5) Subsections (1) and (3) do not apply to any function or power that is declared by this Act or any other written law to be non-delegable.
+
+[35/2019]
+
+(6) A subdelegate to whom a function or power of the Board is subdelegated under an authorisation given to a delegate under subsection (3) is not authorised to further delegate that function or power to anyone else.
+
+[35/2019]
+
+(7) A delegation or subdelegation in accordance with this section is not affected by any change in the membership of the Board.
+
+[35/2019]

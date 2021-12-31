@@ -1,7 +1,7 @@
 # 3. Establishment of INVEST Plan
-Part: PART II INVEST PLAN
+Part: PART 2 INVEST PLAN
 
-(1) The Minister shall by regulations establish an occupational superannuation scheme to be known as the INVEST Plan for the benefit of —
+(1) The Minister must by regulations establish an occupational superannuation scheme to be known as the INVEST Plan for the benefit of —
 
 (a) all civil defence officers appointed on or after the commencement of the regulations;
 
@@ -13,9 +13,7 @@ Part: PART II INVEST PLAN
 
 (e) all intelligence officers who are appointed on or after the commencement of the regulations, including those who were members immediately before becoming intelligence officers, who will or (as the case may be) continue to be members of the scheme.
 
-[29/2002]
-
-(2) The regulations made under subsection (1) shall provide for the payment of —
+(2) The regulations made under subsection (1) must provide for the payment of —
 
 (a) any gratuity, allowance, superannuation or other like benefit to members of the INVEST Plan, or to their legal personal representatives or dependants, on the death of the member in service or on the resignation, retirement or discharge of the member from the service;
 

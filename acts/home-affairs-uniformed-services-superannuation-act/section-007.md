@@ -1,5 +1,5 @@
 # 7. Non-assignability or attachment, etc., of benefits
-Part: PART II INVEST PLAN
+Part: PART 2 INVEST PLAN
 
 No payment, allowance or other benefit payable under the INVEST Plan (whether on death, retirement or resignation of a member or otherwise), and no contribution by the Government made under the INVEST Plan and no interest thereon shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than —
 

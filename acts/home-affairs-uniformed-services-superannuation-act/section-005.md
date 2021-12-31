@@ -1,4 +1,4 @@
 # 5. Benefits not as of right
-Part: PART II INVEST PLAN
+Part: PART 2 INVEST PLAN
 
-No member shall have an absolute right to compensation for past services or to any pension, gratuity, allowance or other benefit under the INVEST Plan.
+No member has an absolute right to compensation for past services or to any pension, gratuity, allowance or other benefit under the INVEST Plan.
