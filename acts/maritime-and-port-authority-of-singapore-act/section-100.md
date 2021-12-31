@@ -1,0 +1,4 @@
+# 100. Offences by bodies of persons
+Part: PART 15 OFFENCES
+
+Where an offence under this Act or the regulations has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in such capacity shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless the person proves that the offence was committed without his or her consent, connivance or privity and that the person exercised all such diligence to prevent the commission of the offence as he or she ought to have exercised, having regard to the nature of his or her functions in that capacity and to all the circumstances.

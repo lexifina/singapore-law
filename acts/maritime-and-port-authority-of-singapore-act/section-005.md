@@ -1,0 +1,10 @@
+# 5. Common seal
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
+
+(1) All deeds and other documents requiring the seal of the Authority must be sealed with the common seal of the Authority and any instruments to which the common seal is affixed must be signed —
+
+(a) by any 2 officers generally or specially authorised by the Chief Executive for the purpose; or
+
+(b) by one officer and the Chief Executive.
+
+(2) All courts, judges and persons acting judicially are to take judicial notice of the common seal of the Authority affixed to any document and presume that it was duly affixed.

@@ -1,0 +1,4 @@
+# 11. [Repealed]
+Part: PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
+
+[Repealed by Act 5 of 2018]
