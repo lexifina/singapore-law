@@ -12,11 +12,9 @@
 
 (e) any uniform or part of a uniform of the naval, military, air or police forces; or
 
-(f) anything so nearly resembling any insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem or uniform or part of a uniform as above-mentioned that it is calculated to deceive,
-
 1
 
-and if any unauthorised person assumes or uses any title of rank in the military, naval or air forces, or any letters after his name indicating the possession of any order, decoration or medal, that person shall be guilty of an offence and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $400 or to imprisonment for a term not exceeding 3 months.
+(f) anything so nearly resembling any insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem or uniform or part of a uniform as abovementioned that it is calculated to deceive, and if any unauthorised person assumes or uses any title of rank in the military, naval or air forces, or any letters after his name indicating the possession of any order, decoration or medal, that person shall be guilty of an offence and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $400 or to imprisonment for a term not exceeding 3 months.
 
 (2) If any person —
 

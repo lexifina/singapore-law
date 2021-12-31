@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Decorations and Uniforms Act.
+This Act is the Decorations and Uniforms Act 1922.
