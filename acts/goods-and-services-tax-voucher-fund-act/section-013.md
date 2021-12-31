@@ -1,7 +1,7 @@
 # 13. Accounts
-Part: PART III ADMINISTRATION OF FUND
+Part: PART 3 ADMINISTRATION OF FUND
 
-The Minister shall —
+The Minister must —
 
 (a) cause to be kept proper accounts and records of all transactions and affairs relating to the Fund;
 

@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 

@@ -1,7 +1,7 @@
 # 5. Expenses
-Part: PART II GOODS AND SERVICES TAX VOUCHER FUND
+Part: PART 2 GOODS AND SERVICES TAX VOUCHER FUND
 
-Except as otherwise provided, all expenses incidental to or arising from the administration, investment and management of moneys in the Fund shall be charged upon and payable out of the Fund, including but not limited to the following expenses:
+Unless otherwise provided, all expenses incidental to or arising from the administration, investment and management of moneys in the Fund are charged upon and payable out of the Fund, including but not limited to the following expenses:
 
 (a) the cost of auditing the accounts of the Fund and the remuneration of the auditor;
 

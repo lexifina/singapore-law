@@ -1,7 +1,7 @@
 # 10. Confidentiality of information
-Part: PART III ADMINISTRATION OF FUND
+Part: PART 3 ADMINISTRATION OF FUND
 
-(1) If a public authority or person appointed under section 8(2) in the course of exercising any function or performing any duty under this Act is in possession of or obtains confidential information pursuant to a direction under section 9(1), the public authority or person shall not disclose the information to any other person unless the disclosure —
+(1) If a public authority or person appointed under section 8(2) in the course of exercising any function or performing any duty under this Act is in possession of or obtains confidential information pursuant to a direction under section 9(1), the public authority or person must not disclose the information to any other person unless the disclosure —
 
 (a) is made with the written consent of the person to whom the information relates; or
 
