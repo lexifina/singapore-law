@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-EXPLOSIVE SUBSTANCES ACT
-(CHAPTER 100)
-(Original Enactment: Ordinance 6 of 1924)
-REVISED EDITION 2014
-(28th February 2014)
+EXPLOSIVE SUBSTANCES ACT 1924
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2014
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to explosive substances.
 
-[18th July 1924]
+[18 July 1924]

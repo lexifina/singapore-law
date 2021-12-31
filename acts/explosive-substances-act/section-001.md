@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Explosive Substances Act.
+This Act is the Explosive Substances Act 1924.
