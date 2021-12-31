@@ -1,6 +1,6 @@
-# 23. Failure to furnish information to auditor
-Part: PART V FINANCIAL PROVISIONS
+# 23. No benefits in respect of abolition or reorganisation of office
+Part: PART 6 TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
-(1) The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
+Despite the provisions of the Pensions Act 1956, no person who is transferred to the service of the Authority under section 21 is entitled to claim any benefit under that Act on the ground that he or she has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
-(2) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+[28

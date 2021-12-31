@@ -1,4 +1,6 @@
-# 14. Protection from personal liability
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 14. Financial year
+Part: PART 5 FINANCIAL PROVISIONS
 
-No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.
+The financial year of the Authority begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+[16

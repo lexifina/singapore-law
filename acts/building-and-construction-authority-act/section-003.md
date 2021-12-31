@@ -1,7 +1,7 @@
 # 3. Establishment and incorporation of Authority
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-There is hereby established a body to be known as the Building and Construction Authority which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
+A body called the Building and Construction Authority is established, which is a body corporate with perpetual succession and a common seal and is, by that name, capable of —
 
 (a) suing and being sued;
 

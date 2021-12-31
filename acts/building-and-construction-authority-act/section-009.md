@@ -1,36 +1,44 @@
-# 9. Functions of Authority
-Part: PART III FUNCTIONS AND POWERS OF AUTHORITY
+# 9. Powers of Authority
+Part: PART 3 FUNCTIONS AND POWERS OF AUTHORITY
 
-(1) Subject to the provisions of this Act, the functions and duties of the Authority shall be —
+The Authority has power to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions and, in particular, may —
 
-(a) to promote the development, improvement and expansion of the construction industry including the use of advanced technology in the construction industry;
+(a) prescribe standards for the construction industry in relation to design, processes, construction techniques, products and materials;
 
-(b) to advise and make recommendations to the Government on matters affecting or connected with the construction industry and on the control of building works and the safety of buildings;
+(b) promote and assist in the export of construction works and services;
 
-(c) to raise standards and efficiency in the construction industry by encouraging the standardisation and improvement of construction processes, techniques, products and materials;
+(c) own, lease, manage, let or sell lands, buildings and other property as the Authority may consider necessary for the discharge of its duties and functions;
 
-(d) to promote good procurement methods and practices in the construction industry and advise and assist the Government in the procurement of construction works and services;
+(d) collect, analyse, compile, publish and disseminate information of a statistical nature relating to the construction industry and on all matters relating to building control, maintenance and management of buildings or such other subject matters as may be necessary for the performance of the functions of the Authority;
 
-(e) to provide consultancy and advisory services related to the construction industry;
+(e) prescribe training requirements for the construction industry, provide training, conduct tests and award diplomas and certificates of proficiency;
 
-(f) to promote the advancement of skills and expertise of persons in the construction industry;
+(f) register construction tradesmen, construction foremen and construction supervisors of suitable qualifications and experience with a view to raising standards of performance in construction services in Singapore;
 
-(g) to raise the professionalism and capabilities of firms in the construction industry;
+(g) collaborate with other companies or institutions to organise seminars, workshops, conferences, courses or other training programmes and share profits;
 
-(h) to promote the adoption of internationally recognised quality management systems in the construction industry;
+(h) provide technical advice or assistance, including training facilities, to personnel of related organisations in other countries;
 
-(i) to facilitate the supply of essential construction materials and secure and manage land and facilities related to their import and production;
+(i) provide financial assistance in the form of grants, loans or otherwise to persons, firms or companies in the construction industry and provide any guarantee on their behalf;
 
-(j) to promote and carry out research for the development and improvement of the construction industry and in respect of the building control system, building codes and regulations, building maintenance and management, energy usage in buildings and other matters related to or incidental to the functions of the Authority;
+(j) enter into a partnership or an arrangement for the sharing of profits;
 
-(k) to promote the efficient use of energy in buildings and to advise the Government on the measures and regulations to be implemented;
+(k) charge fees or commissions for services rendered by the Authority;
 
-(l) to provide a search service for searches on building records and plans; and
+(l) carry out publicity in any form;
 
-(m) to carry out such other functions as are imposed upon the Authority by or under this Act or any other written law.
+(m) form or participate in the formation of a company to perform or carry out any of the functions of the Authority;
 
-(1A) In addition to the functions and duties imposed by subsection (1), the Authority may undertake such other functions and duties as the Minister may in writing assign to the Authority and, in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions and duties.
+(n) receive donations and contributions from any source and raise funds by all lawful means;
 
-[12/2009]
+(o) provide training for officers or employees of the Authority and award scholarships or otherwise pay for such training;
 
-(2) The Minister may, after consultation with the Authority or otherwise, give such directions, not inconsistent with the provisions of this Act, as to the performance of its functions and the exercise of its powers and the Authority shall give effect to any such directions.
+(p) provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers or employees of the Authority and members of their families;
+
+(q) grant loans to officers or employees of the Authority for any purpose specifically approved by the Authority as are likely to increase the efficiency of officers or employees;
+
+and
+
+(r) do anything incidental to any of its powers.
+
+[10

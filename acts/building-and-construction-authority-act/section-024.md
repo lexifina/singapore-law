@@ -1,8 +1,6 @@
-# 24. Presentation of financial statements and auditor’s report to Parliament
-Part: PART V FINANCIAL PROVISIONS
+# 24. Existing contracts
+Part: PART 6 TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
-(1) The Authority shall, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
+All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1 April 1999 to which the Board or the Government is a party and relating to the Building Control Division of the Public Works Department or to any person transferred to the service of the Authority under section 21 continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board or the Government.
 
-(2) Where the Auditor-General is not the auditor of the Authority, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Authority.
-
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
+[29

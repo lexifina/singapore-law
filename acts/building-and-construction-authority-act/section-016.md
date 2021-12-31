@@ -1,4 +1,6 @@
-# 16. Financial year
-Part: PART V FINANCIAL PROVISIONS
+# 16. Grants-in-aid
+Part: PART 5 FINANCIAL PROVISIONS
 
-The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year.
+For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may make grants-in-aid to the Authority of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
+
+[18

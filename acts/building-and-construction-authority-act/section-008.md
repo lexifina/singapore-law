@@ -1,8 +1,38 @@
-# 8. Disclosure of interest of members
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
+# 8. Functions of Authority
+Part: PART 3 FUNCTIONS AND POWERS OF AUTHORITY
 
-(1) A member of the Authority who is in any way, directly or indirectly, interested in a transaction or project of the Authority shall disclose the nature of his interest at a meeting of the Authority.
+(1) Subject to the provisions of this Act, the functions and duties of the Authority are —
 
-(2) The disclosure by a member shall be recorded in the minutes of the Authority and the member shall not take part in any deliberation of the Authority with respect to the transaction or project.
+(a) to promote the development, improvement and expansion of the construction industry including the use of advanced technology in the construction industry;
 
-(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under subsection (2) he cannot vote or has withdrawn from the meeting.
+(b) to advise and make recommendations to the Government on matters affecting or connected with the construction industry and on the control of building works and the safety of buildings;
+
+(c) to raise standards and efficiency in the construction industry by encouraging the standardisation and improvement of construction processes, techniques, products and materials;
+
+(d) to promote good procurement methods and practices in the construction industry and advise and assist the Government in the procurement of construction works and services;
+
+(e) to provide consultancy and advisory services related to the construction industry;
+
+(f) to promote the advancement of skills and expertise of persons in the construction industry;
+
+(g) to raise the professionalism and capabilities of firms in the construction industry;
+
+(h) to promote the adoption of internationally recognised quality management systems in the construction industry;
+
+(i) to facilitate the supply of essential construction materials and secure and manage land and facilities related to their import and production;
+
+(j) to promote and carry out research for the development and improvement of the construction industry and in respect of the building control system, building codes and regulations, building maintenance and management, energy usage in buildings and other matters related to or incidental to the functions of the Authority;
+
+(k) to promote the efficient use of energy in buildings and to advise the Government on the measures and regulations to be implemented;
+
+(l) to provide a search service for searches on building records and plans; and
+
+(m) to carry out any other functions imposed upon the Authority by or under this Act or any other written law.
+
+(2) In addition to the functions and duties imposed by subsection (1), the Authority may undertake such other functions and duties as the Minister may in writing assign to the Authority and, in so doing, the Authority is deemed to be fulfilling the purposes of this Act and the provisions of this Act apply to the Authority in respect of such functions and duties.
+
+(3) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[9
+
+[5/2018]

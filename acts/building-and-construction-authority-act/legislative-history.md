@@ -1,55 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BUILDING AND CONSTRUCTION AUTHORITY ACT 1999
 
-BUILDING AND CONSTRUCTION AUTHORITY ACT (CHAPTER 30A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Building and Construction Authority Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 4 of 1999 — Building and Construction Authority Act 1999
+LEGISLATIVE HISTORY DETAILS PART 1 CONSTRUCTION INDUSTRY DEVELOPMENT BOARD ACT (CHAPTER 51, 1985 REVISED EDITION) 1. Act 3 of 1984 — Construction Industry Development Board Act 1984 Bill : 17/1983 First Reading : 20 December 1983 Second and Third Readings : 17 January 1984 Commencement : 2 March 1984 2. 1985 Revised Edition — The Construction Industry Development Board Act (Chapter 51) Operation : 30 March 1987 PART 2 LAND IMPROVEMENT ACT (CHAPTER 153, 1985 REVISED EDITION) 3. Ordinance II of 1901 — The Land Improvement Ordinance 1901 Bill : G.N. No. 1443/1900 First Reading : 8 January 1901 Second Reading : 15 January 1901 Notice of Amendments : 5 February 1901 Third Reading : 5 February 1901 Commencement : 5 February 1901 4. Ordinance VI of 1908 — The Land Improvement Ordinance 1901 Amendment Ordinance 1908 Bill : G.N. No. 436/1908 First Reading : 1 May 1908 Second Reading : 22 May 1908 Third Reading : 7 August 1908 Commencement : 19 August 1908 5. Ordinance I of 1901 — The Land Improvement Ordinance 1901 Amendment Ordinance 1910 Bill : G.N. No. 823/1909 First Reading : 6 August 1909 Second Reading : 13 August 1909 Notice of Amendments : 11 March 1910 Third Reading : 18 March 1910 Commencement : 31 March 1910 6. 1920 Revised Edition — Ordinance No. 70 (Land Improvement) Operation : 28 November 1921 7. 1926 Revised Edition — Ordinance No. 70 (Land Improvement) Operation : 1 August 1926 8. 1936 Revised Edition — Land Improvement Ordinance (Chapter 123) Operation : 1 September 1936 9. Ordinance 8 of 1955 — Revised Edition of the Laws (Miscellaneous Amendments) Ordinance, 1955 (Amendments made by section 2 read with item 11 of the Schedule to the above Ordinance) Bill : 45/1954 First Reading : 14 December 1954 Second and Third Readings : 28 January 1955 Commencement : 4 February 1955 (section 2 read with item 11 of the Schedule) 10. G.N. No. S 265/1955 — Singapore Colony Order in Council, 1955 (Consequential Provisions) (Miscellaneous) Order, 1955 Commencement : 17 September 1955 11. 1955 Revised Edition — Land Improvement Ordinance (Chapter 249) Operation : 1 July 1956 12. G.N. No. S 223/1959 — Singapore Constitution (Modification of Laws) Order, 1959 Commencement : 3 June 1959 13. G.N. Sp. No. S 47/1963 — State Laws (Modification) (No. 3) Order, 1963 Commencement : 16 September 1963 14. 1970 Revised Edition — Land Improvement Act (Chapter 273) Operation : 31 August 1971 15. 1985 Revised Edition — Land Improvement Act (Chapter 153) Operation : 30 March 1987
 
-Date of First Reading : 23 November 1998 (Bill No. 51/98 published on 24 November 1998)
+PART 3 BUILDING AND CONSTRUCTION AUTHORITY ACT 1993 (2020 REVISED EDITION) 16. Act 4 of 1999 — Building and Construction Authority Act 1999 Bill : 51/1998 First Reading : 23 November 1998 Second and Third Readings : 20 January 1999 Commencement : 1 April 1999 17. 2000 Revised Edition — Building and Construction Authority Act (Chapter 30A) Operation : 30 December 2000 18. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (2) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (2) of the Schedule) 19. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (6) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (6) of the Schedule) 20. Act 47 of 2007 — Building Control (Amendment) Act 2007 (Amendments made by section 19 read with item (1) of the Second Schedule to the above Act) Bill : 34/2007 First Reading : 27 August 2007 Second and Third Readings : 20 September 2007 Commencement : 15 February 2008 (section 19 read with item (1) of the Second Schedule) 21. Act 25 of 2009 — Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009 (Amendments made by section 2 read with item 2 of the Schedule to the above Act) Bill : 19/2009 First Reading : 14 September 2009 Second and Third Readings : 19 October 2009 Commencement : 15 January 2010 (section 2 read with item 2 of the Schedule) 22. Act 12 of 2009 — Building and Construction Authority (Amendment) Act 2009 Bill : 2/2009 First Reading : 19 January 2009 Second and Third Readings : 23 March 2009 Commencement : 28 February 2011 23. 2012 Revised Edition — Building and Construction Authority Act (Chapter 30A) Operation : 30 November 2012 24. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 51 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 51)
 
-Date of Second and Third Readings : 20 January 1999
+Abbreviations
 
-Date of commencement : 1 April 1999
-
-2. 2000 Revised Edition — Building and Construction Authority Act (Chapter 30A)
-
-Date of operation : 30 December 2000
-
-3. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Dates of commencement : 15 July 2002 (except item (18) of Schedule) 29 July 2002 (item (18) of Schedule)
-
-4. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004 5. Act 47 of 2007 — Building Control (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 27 August 2007 (Bill No. 34/2007 published on 28 August 2007)
-
-Date of Second and Third Readings : 20 September 2007
-
-Dates of commencement : 15 February 2008 (except sections 2(r) and 9) 1 October 2008 (section 2(r)) 16 December 2008 (section 9)
-
-6. Act 25 of 2009 — Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009
-
-Date of First Reading : 14 September 2009 (Bill No. 19/2009 published on 15 September 2009)
-
-Date of Second and Third Readings : 19 October 2009
-
-Date of commencement : 15 January 2010
-
-7. Act 12 of 2009 — Building and Construction Authority (Amendment) Act 2009
-
-Date of First Reading : 19 January 2009 (Bill No. 2/2009 published on 19 January 2009)
-
-Date of Second and Third Readings : 23 March 2009
-
-Date of commencement : 28 February 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

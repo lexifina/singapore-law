@@ -1,22 +1,14 @@
-# 22. Audit of accounts
-Part: PART V FINANCIAL PROVISIONS
+# 22. Pension rights, etc., of Government employees to be preserved
+Part: PART 6 TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
-(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+(1) The terms and conditions to be drawn up by the Authority must take into account the terms and conditions of service (including salaries and accrued rights to leave) enjoyed by the persons transferred to the service of the Authority under section 21 while in the employment of the Board or the Government.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
+(2) Any term or condition relating to the length of service with the Authority must recognise the length of service of the persons so transferred while in the employment of the Board or the Government to be service with the Authority.
 
-(3) The auditor or any person authorised by him is entitled, at all reasonable times, to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority.
+(3) Nothing in the terms and conditions to be drawn up by the Authority is to adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act 1956.
 
-(4) The auditor shall in his report state —
+(4) In every case, where a person has been transferred to the service of the Authority under section 21, the Government is liable to pay to the Authority such portion of any pension, gratuity or allowance payable to such person on his or her retirement as the same bears to the proportion which the aggregate amount of the person’s pensionable emoluments during his or her service with the Government bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government and the Authority.
 
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Authority;
+(5) Where any person in the service of the Authority, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to the person or to such other person or persons wholly or partly dependent on the person, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
-(b) whether proper accounting and other records have been kept, including records of all assets of the Authority whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Authority during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(5) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Authority.
-
-(6) The auditor shall submit such periodical and special reports to the Minister and to the Authority as may appear to him to be necessary or as the Minister or the Authority may require.
+[27

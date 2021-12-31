@@ -1,8 +1,8 @@
-# 25. Transfer to Authority of property, assets and liabilities
-Part: PART VI TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
+# 25. Continuation and completion of disciplinary proceedings
+Part: PART 6 TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
-(1) As from 1st April 1999, such movable and immovable property vested in the Board, or in the Government as may be determined by the Minister for Finance and used or managed by the Building Control Division of the Public Works Department and all assets, interests, rights, privileges, liabilities and obligations of the Board or of the Government relating to the Building Control Division of the Public Works Department shall be transferred to and shall vest in the Authority without further assurance, act or deed.
+(1) Where on 1 April 1999 any disciplinary proceedings were pending against any employee of the Board or the Government transferred to the service of the Authority, the proceedings are to be carried on and completed by the Authority; but where on 1 April 1999 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee is to complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-(2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
+(2) Any order, ruling or direction made or given by a committee pursuant to this section must be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
 
-(3) Any immovable property to be transferred to and vested in the Authority under subsection (1) shall be held by the Authority upon such tenure and subject to such terms and conditions as the President may determine.
+[30

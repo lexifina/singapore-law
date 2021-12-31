@@ -1,12 +1,12 @@
-# 31U. Power to make regulations under this Part
-Part: PART VIA SUPPLY OF ESSENTIAL CONSTRUCTION MATERIALS Division 1 — General
+# 47. Power to make regulations under this Part
+Part: PART 7 SUPPLY OF ESSENTIAL CONSTRUCTION MATERIALS Division 1 — General
 Division: Division 5 — Miscellaneous
 
 (1) The Authority may, with the approval of the Minister, make regulations for carrying out the provisions of this Part and for the due administration thereof and, in particular, for or with respect to all or any of the following matters:
 
 (a) the form and procedure for applications for licences, import permits and storage permits;
 
-(b) the keeping of records and furnishing of returns by licensees in relation to the import, storage and supply of essential construction materials by licensees;
+(b) the keeping of records and provision of returns by licensees in relation to the import, storage and supply of essential construction materials by licensees;
 
 (c) the duties of any person to whom any licence, import permit or storage permit is granted under this Part, and the duties of such a person upon the suspension, revocation or cancellation of such licence or permit;
 
@@ -18,14 +18,12 @@ Division: Division 5 — Miscellaneous
 
 (g) the fees to be paid in respect of any matter or anything done, or any services rendered, by the Authority under or by virtue of this Part, and the waiver or refund, in whole or in part, by such officers of the Authority of any such fees in the circumstances of any particular case;
 
-(h) the scheme referred to in section 31M for the designation of authorised analysts;
+(h) the scheme mentioned in section 39 for the designation of authorised analysts;
 
 (i) the prescribing of offences in respect of the contravention of any regulations made under this section, and prescribing of fines, not exceeding $20,000 and imprisonment which may not exceed 2 years or both, that may, on conviction, be imposed in respect of any such offence;
 
 (j) the prescribing of anything that may be prescribed.
 
-[12/2009]
+(2) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.
 
-(2) All regulations made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
-
-[12/2009]
+[31U
