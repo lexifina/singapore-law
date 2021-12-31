@@ -1,5 +1,5 @@
 # 41J. Persons who may be appointed as nominees or custodians
-Part: PART IVA AGENTS, NOMINEES AND CUSTODIANS
+Part: PART 4A AGENTS, NOMINEES AND CUSTODIANS
 
 (1) A person may not be appointed under section 41G, 41H or 41I as a nominee or custodian or continue to act as such nominee or custodian unless —
 
@@ -7,21 +7,13 @@ Part: PART IVA AGENTS, NOMINEES AND CUSTODIANS
 
 (b) the person is a body corporate which is controlled by the trustees.
 
-[45/2004]
+(2) For the purposes of subsection (1)(b), a body corporate is controlled by the trustees if the trustees have power to secure —
 
-(2) For the purposes of subsection (1) (b), a body corporate is controlled by the trustees if the trustees have power to secure —
+(a) by means of the holding of shares or the possession of voting power in or in relation to that or any other body corporate; or
 
-(a) by means of the holding of shares or the possession of voting power in or in relation to that or any other body corporate;
+(b) by virtue of any powers conferred by the articles of association or other document regulating that or any other body corporate, that the affairs of the firstmentioned body corporate are conducted in accordance with the wishes of the trustees.
 
-or
-
-(b) by virtue of any powers conferred by the articles of association or other document regulating that or any other body corporate, that the affairs of the first-mentioned body corporate are conducted in accordance with the wishes of the trustees.
-
-[45/2004]
-
-(3) The trustees of a charitable trust which is registered under the Charities Act (Cap. 37) shall act in accordance with any guidance given by the Commissioner of Charities concerning the selection of a person for appointment as a nominee or custodian under section 41G, 41H or 41I.
-
-[45/2004]
+(3) The trustees of a charitable trust which is registered under the Charities Act 1994 must act in accordance with any guidance given by the Commissioner of Charities concerning the selection of a person for appointment as a nominee or custodian under section 41G, 41H or 41I.
 
 (4) Subject to subsections (1) and (3), the persons whom the trustees may, under section 41G, 41H or 41I, appoint as a nominee or custodian include —
 
@@ -29,22 +21,14 @@ or
 
 (b) 2 or more of their number, if they are to act as joint nominees or joint custodians.
 
-[45/2004]
-
-(5) The trustees may, under section 41G, appoint a person to act as their nominee even though he is also —
+(5) The trustees may, under section 41G, appoint a person to act as their nominee even though the person is also —
 
 (a) appointed to act as their custodian (whether under section 41H or 41I or any other power); or
 
 (b) authorised to exercise functions as their agent (whether under section 41B or any other power).
 
-[45/2004]
-
-(6) The trustees may, under section 41H or 41I, appoint a person to act as their custodian even though he is also —
+(6) The trustees may, under section 41H or 41I, appoint a person to act as their custodian even though the person is also —
 
 (a) appointed to act as their nominee (whether under section 41G or any other power); or
 
 (b) authorised to exercise functions as their agent (whether under section 41B or any other power).
-
-[UK Trustee 2000, s. 19]
-
-[45/2004]

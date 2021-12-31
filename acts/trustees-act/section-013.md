@@ -1,8 +1,6 @@
 # 13. Power of trustees for sale to sell by auction, etc.
-Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General Powers
+Part: PART 3 GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General powers
 
-(1) Where a trust for sale or a power of sale of property is vested in a trustee, he may sell or concur with any other person in selling all or any part of the property, either subject to prior charges or not, and either together or in lots, by public auction or by private contract, subject to any such conditions respecting title or evidence of title or other matter as the trustee thinks fit, with power to vary any contract for sale, and to buy in at any auction, or to rescind any contract for sale and to resell, without being answerable for any loss.
+(1) Where a trust for sale or a power of sale of property is vested in a trustee, the trustee may sell or concur with any other person in selling all or any part of the property, either subject to prior charges or not, and either together or in lots, by public auction or by private contract, subject to any such conditions respecting title or evidence of title or other matter as the trustee thinks fit, with power to vary any contract for sale, and to buy in at any auction, or to rescind any contract for sale and to resell, without being answerable for any loss.
 
-(2) A trust or power to sell or dispose of land includes a trust or power to sell or dispose of part thereof, whether the division is horizontal, vertical, or made in any other way.
-
-[UK Trustee 1925, s. 12 (1) and (2); Trustees Ordinance 1955 Ed., s. 13]
+(2) A trust or power to sell or dispose of land includes a trust or power to sell or dispose of part of the land, whether the division is horizontal, vertical, or made in any other way.

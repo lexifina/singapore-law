@@ -1,14 +1,12 @@
 # 62. Payment into court by trustees
-Part: PART V POWERS OF COURT
+Part: PART 5 POWERS OF COURT
 
-(1) Trustees, or the majority of trustees, having in their hands or under their control money or securities belonging to a trust, may pay the same into court; and the same shall, subject to Rules of Court, be dealt with according to the orders of the court.
+(1) Trustees, or the majority of trustees, having in their hands or under their control money or securities belonging to a trust, may pay the same into court; and the same is, subject to Rules of Court, to be dealt with according to the orders of the court.
 
-(2) The receipt or certificate of the proper officer shall be a sufficient discharge to trustees for the money or securities so paid into court.
+(2) The receipt or certificate of the proper officer is a sufficient discharge to trustees for the money or securities so paid into court.
 
-(3) Where money or securities is or are vested in any persons as trustees, and the majority are desirous of paying the same into court, but the concurrence of the other or others cannot be obtained, the court may order the payment into court to be made by the majority without the concurrence of the other or others.
+(3) Where money or securities are vested in any persons as trustees, and the majority are desirous of paying the same into court, but the concurrence of the other or others cannot be obtained, the court may order the payment into court to be made by the majority without the concurrence of the other or others.
 
-(4) Where any such money or securities is or are deposited with any banker, broker, or other depositary, the court may order payment or delivery of the money or securities to the majority of the trustees for the purpose of payment into court.
+(4) Where any such money or securities are deposited with any banker, broker, or other depositary, the court may order payment or delivery of the money or securities to the majority of the trustees for the purpose of payment into court.
 
-(5) Every transfer, payment and delivery made in pursuance of any such order shall be valid and take effect as if the same had been made on the authority or by the act of all the persons entitled to the money and securities so transferred, paid or delivered.
-
-[UK Trustee 1925, s. 63; Trustees Ordinance 1955 Ed., s. 62]
+(5) Every transfer, payment and delivery made pursuant to any such order is valid and takes effect as if the same had been made on the authority or by the act of all the persons entitled to the money and securities so transferred, paid or delivered.

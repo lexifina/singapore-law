@@ -1,4 +1,4 @@
-# 25. (Repealed by Act 45/2004)
-Part: PART III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General Powers
+# 25. [Repealed]
+Part: PART 3 GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES General powers
 
-(Repealed by Act 45/2004)
+[Repealed by Act 45 of 2004]

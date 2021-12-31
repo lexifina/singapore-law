@@ -1,5 +1,5 @@
 # 52. Vesting orders as to stock and thing in action
-Part: PART V POWERS OF COURT
+Part: PART 5 POWERS OF COURT
 
 (1) In any of the following cases:
 
@@ -13,30 +13,28 @@ Part: PART V POWERS OF COURT
 
 (iii) cannot be found, or, being a corporation, has been dissolved;
 
-(iv) neglects or refuses to transfer stock or receive the dividends or income thereof, or to sue for or recover a thing in action, according to the direction of the person absolutely entitled thereto for 28 days next after a request in writing has been made to him by the person so entitled; or
+(iv) neglects or refuses to transfer stock or receive the dividends or income of stock, or to sue for or recover a thing in action, according to the direction of the person absolutely entitled thereto for 28 days next after a written request has been made to the trustee by the person so entitled; or
 
-(v) neglects or refuses to transfer stock or receive the dividends or income thereof, or to sue for or recover a thing in action for 28 days next after an order of the court for that purpose has been served on him;
+(v) neglects or refuses to transfer stock or receive the dividends or income of stock, or to sue for or recover a thing in action for 28 days next after an order of the court for that purpose has been served on the trustee;
 
 (c) where it is uncertain whether a trustee entitled alone or jointly with another person to stock or to a thing in action is alive or dead;
 
 (d) where stock is standing in the name of a deceased person whose personal representative is under disability; or
 
-(e) where stock or a thing in action is vested in a trustee whether by way of mortgage or otherwise and it appears to the court to be expedient, the court may make an order vesting the right to transfer or call for a transfer of stock, or to receive the dividends or income thereof, or to sue for or recover the thing in action, in any such person as the court may appoint.
+(e) where stock or a thing in action is vested in a trustee whether by way of mortgage or otherwise and it appears to the court to be expedient, the court may make an order vesting the right to transfer or call for a transfer of stock, or to receive the dividends or income of stock, or to sue for or recover the thing in action, in any person that the court may appoint.
 
-(2) Where the order is consequential on the appointment of a trustee, the right shall be vested in the persons who, on the appointment, are the trustees.
+(2) Where the order is consequential on the appointment of a trustee, the right is vested in the persons who, on the appointment, are the trustees.
 
-(3) Where the person whose right is dealt with by the order was entitled jointly with another person, the right shall be vested in that last-mentioned person either alone or jointly with any other person whom the court may appoint.
+(3) Where the person whose right is dealt with by the order was entitled jointly with another person, the right is vested in that other person either alone or jointly with any other person whom the court may appoint.
 
 (4) In all cases where a vesting order can be made under this section, the court may, if it is more convenient, appoint some proper person to make or join in making the transfer.
 
-(5) The person appointed under subsection (4) to make or join in making a transfer of stock shall be some proper officer of the company whose stock is to be transferred.
+(5) The person appointed under subsection (4) to make or join in making a transfer of stock must be a proper officer of the company whose stock is to be transferred.
 
-(6) The person in whom the right to transfer or call for the transfer of any stock is vested by an order of the court under this Act may transfer the stock to himself or any other person, according to the order, and all companies shall obey every order under this section according to its tenor.
+(6) The person in whom the right to transfer or call for the transfer of any stock is vested by an order of the court under this Act, may transfer the stock to himself, herself or itself or any other person, according to the order, and all companies must obey every order under this section according to its tenor.
 
-(7) After notice in writing of an order under this section it shall not be lawful for any company to transfer any stock to which the order relates or to pay any dividends thereon except in accordance with the order.
+(7) After written notice of an order under this section it is not lawful for any company to transfer any stock to which the order relates or to pay any dividends on the stock except in accordance with the order.
 
 (8) The court may make declarations and give directions concerning the manner in which the right to transfer any stock or thing in action vested under the provisions of this Act is to be exercised.
 
-(9) The provisions of this Act as to vesting orders shall apply to shares in ships registered under any written law relating to merchant shipping as if they were stock.
-
-[UK Trustee 1925, s. 51; Trustees Ordinance 1955 Ed., s. 52]
+(9) The provisions of this Act as to vesting orders apply to shares in ships registered under any written law relating to merchant shipping as if they were stock.

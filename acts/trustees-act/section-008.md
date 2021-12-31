@@ -1,4 +1,4 @@
-# 8. (Repealed by Act 45/2004)
-Part: PART II INVESTMENTS
+# 8. [Repealed]
+Part: PART 2 INVESTMENTS
 
-(Repealed by Act 45/2004)
+[Repealed by Act 45 of 2004]

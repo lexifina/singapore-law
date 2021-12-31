@@ -1,18 +1,18 @@
 # 4. General power of investment
-Part: PART II INVESTMENTS
+Part: PART 2 INVESTMENTS
 
-(1) Subject to the provisions of this Part, a trustee may make any kind of investment that he could make if he were absolutely entitled to the assets of the trust.
+(1) Subject to the provisions of this Act —
 
-[45/2004]
+(a) a trustee may make any kind of investment that the trustee could have made if the trustee were absolutely entitled to the assets of the trust; and
 
-*Date of commencement of the Trustees (Amendment) Act 2004 (Act 45 of 2004).
+(b) without limiting paragraph (a), a trustee may —
 
-(2) For the purpose of subsection (1), ‘‘investment’’ includes investment in assets that do not yield any income.
+(i) invest any funds in the trustee’s hands, whether at the time in a state of investment or not, in any manner specified in Part I, II or III of the First Schedule in force immediately before 15 December 2004; and
 
-[45/2004]
+(ii) from time to time vary any such investment.
 
-(3) This section shall apply in relation to trusts whether created before, on or after 15th December 2004.
+[2/2012]
 
-[UK Trustee 2000, s. 3 (1)]
+(2) For the purpose of subsection (1), “investment” includes investment in assets that do not yield any income.
 
-[45/2004]
+(3) This section applies in relation to trusts whether created before, on or after 15 December 2004.

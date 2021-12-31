@@ -1,21 +1,27 @@
 # 41. Vesting of trust property in new or continuing trustees
-Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
+Part: PART 4 APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (1) Where by a deed a new trustee is appointed to perform any trust, then —
 
-(a) if the deed contains a declaration by the appointor to the effect that any estate or interest in any land subject to the trust, or in any chattel so subject, or the right to recover or receive any debt or other thing in action so subject, shall vest in the persons who by virtue of the deed become or are the trustees for performing the trust, the deed shall operate, without any conveyance or assignment, to vest in those persons as joint tenants and for the purposes of the trust the estate, interest or right to which the declaration relates; and
+(a) if the deed contains a declaration by the appointor to the effect that any estate or interest in any land subject to the trust, or in any chattel so subject, or the right to recover or receive any debt or other thing in action so subject, vests in the persons who by virtue of the deed become or are the trustees for performing the trust, the deed operates, without any conveyance or assignment, to vest in those persons as joint tenants and for the purposes of the trust the estate, interest or right to which the declaration relates; and
 
-(b) if the deed is made on or after 1st September 1929 and does not contain such a declaration, the deed shall, subject to any express provision to the contrary therein contained, operate as if it had contained such a declaration by the appointor extending to all the estates, interests and rights with respect to which a declaration could have been made.
+(b) if the deed is made on or after 1 September 1929 and does not contain such a declaration, the deed operates, subject to any express provision to the contrary in the deed, as if it had contained such a declaration by the appointor extending to all the estates, interests and rights with respect to which a declaration could have been made.
 
 (2) Where by a deed a retiring trustee is discharged under the statutory power without a new trustee being appointed, then —
 
-(a) if the deed contains such a declaration as referred to in subsection (1) by the retiring and continuing trustees, and by the other person, if any, empowered to appoint trustees, the deed shall, without any conveyance or assignment, operate to vest in the continuing trustees alone, as joint tenants, and for the purposes of the trust, the estate, interest or right to which the declaration relates; and
+(a) if the deed contains a declaration as mentioned in subsection (1) by the retiring and continuing trustees, and by the other person (if any) empowered to appoint trustees, the deed operates, without any conveyance or assignment, to vest in the continuing trustees alone, as joint tenants, and for the purposes of the trust, the estate, interest or right to which the declaration relates; and
 
-(b) if the deed is made on or after 1st September 1929 and does not contain such a declaration, the deed shall, subject to any express provision to the contrary therein contained, operate as if it had contained such a declaration by such persons as referred to in paragraph (a) extending to all the estates, interests and rights with respect to which a declaration could have been made.
+(b) if the deed is made on or after 1 September 1929 and does not contain such a declaration, the deed operates, subject to any express provision to the contrary in the deed, as if it had contained such a declaration by such persons as referred to in paragraph (a) extending to all the estates, interests and rights with respect to which a declaration could have been made.
 
-(3) An express vesting declaration, whether made before, on or after 1st September 1929, shall, notwithstanding that the estate, interest or right to be vested is not expressly referred to, and provided that the other statutory requirements were or are complied with, operate and be deemed always to have operated (but without prejudice to any express provision to the contrary contained in the deed of appointment or discharge) to vest in the persons respectively referred to in subsections (1) and (2), as the case may require, such estates, interests and rights as are capable of being and ought to be vested in those persons.
+(3) An express vesting declaration —
 
-(4) This section shall not extend —
+(a) whether made before, on or after 1 September 1929;
+
+(b) even though the estate, interest or right to be vested is not expressly referred to; and
+
+(c) provided that the other statutory requirements were or are complied with, operates and is deemed always to have operated (but without prejudice to any express provision to the contrary contained in the deed of appointment or discharge) to vest in the persons respectively referred to in subsections (1) and (2), as the case may require, such estates, interests and rights as are capable of being and ought to be vested in those persons.
+
+(4) This section does not extend —
 
 (a) to land conveyed by way of mortgage for securing money subject to the trust, except land conveyed on trust for securing debentures or debenture stock;
 
@@ -23,8 +29,6 @@ Part: PART IV APPOINTMENT AND DISCHARGE OF TRUSTEES
 
 (c) to any share, stock, annuity or property which is only transferable in books kept by a company or other body, or in the manner directed by or under any written law.
 
-(5) In subsection (4), ‘‘lease’’ includes an underlease and an agreement for a lease or underlease.
+(5) In subsection (4), “lease” includes an underlease and an agreement for a lease or underlease.
 
-(6) This section shall apply to deeds of appointment or discharge executed on or after 1st August 1886.
-
-[UK Trustee 1925, s. 40; Trustees Ordinance 1955 Ed., s. 41]
+(6) This section applies to deeds of appointment or discharge executed on or after 1 August 1886.

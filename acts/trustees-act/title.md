@@ -1,32 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-TRUSTEES ACT
-(CHAPTER 337)
-Act
-17 of 1967
-Amended by
-42 of 1967
-39 of 1970
-1970 Ed. Cap. 40 1985 Ed. Cap. 337 1999 Ed. Cap. 337
-Amended by Amended by Amended by
-10 of 1975 9 of 1987 22 of 2000
-8 of 1978 39 of 1989 17 of 2001
-21 of 1982 24 of 1991 42 of 2001
-23 of 1992 38 of 2002
-7 of 1997 45 of 2004
-S 231/96 S 316/2000
-S 44/98
-S 322/99
-REVISED EDITION 2005
-(31st July 2005)
+TRUSTEES ACT 1967
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2005
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to trustees.
 
-[15th July 1967]
+[15 July 1967]

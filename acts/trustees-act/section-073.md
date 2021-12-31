@@ -1,4 +1,4 @@
-# 73. (Repealed by Act 38/2002)
-Part: PART VI CHARITABLE TRUSTS
+# 73. [Repealed]
+Part: PART 6 CHARITABLE TRUSTS
 
-(Repealed by Act 38/2002)
+[Repealed by Act 38 of 2002]
