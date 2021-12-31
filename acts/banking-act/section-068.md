@@ -1,4 +1,4 @@
-# 68. (Repealed)
-Part: PART IX MISCELLANEOUS
+# 68. [Repealed]
+Part: PART 9 MISCELLANEOUS
 
-(Repealed by Act 24 of 2003)
+[Repealed by Act 24 of 2003]

@@ -1,4 +1,4 @@
-# 37. (Repealed)
-Part: PART V PROHIBITED BUSINESS
+# 37. [Repealed]
+Part: PART 5 PROHIBITED BUSINESS
 
-(Repealed by Act 1 of 2007)
+[Repealed by Act 1 of 2007]

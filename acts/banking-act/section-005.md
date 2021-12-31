@@ -1,13 +1,13 @@
-# 5. Use of word ‘‘bank’’
-Part: PART III LICENSING OF BANKS
+# 5. Use of word “bank”
+Part: PART 3 LICENSING OF BANKS
 
-(1) No person or body of persons, whether incorporated or not, other than a bank shall, without the written consent of the Authority —
+(1) A person or body of persons, whether incorporated or not, other than a bank, must not, without the written consent of the Authority —
 
-(a) use the word ‘‘bank’’or any of its derivatives in any language, or any other word indicating it transacts banking business, in the name, description or title under which the person or body of persons is transacting business in Singapore; or
+(a) use the word “bank” or any of its derivatives in any language, or any other word indicating it transacts banking business, in the name, description or title under which the person or body of persons is transacting business in Singapore; or
 
 (b) make or continue to make any representation to that effect in any bill head, letter paper, notice, advertisement or in any other manner.
 
-(2) Subject to subsection (2B), nothing in this section shall prohibit the following persons or bodies of persons from using the word ‘‘bank’’ or any of its derivatives in any language, or any other word indicating the transaction of banking business, as a part of its name or title or in the description of its activities:
+(2) Subject to subsection (2B), nothing in this section prohibits the following persons or bodies of persons from using the word “bank” or any of its derivatives in any language, or any other word indicating the transaction of banking business, as a part of its name or title or in the description of its activities:
 
 (a) any representative office of a foreign company which is not a bank in Singapore if —
 
@@ -23,42 +23,32 @@ Part: PART III LICENSING OF BANKS
 
 (c) any association of banks formed for the protection of common interests;
 
-(d) any related corporation of a bank in Singapore which does not carry on banking business in Singapore or elsewhere and which carries on any business referred to in section 30 (1) (b),
-
-(c) or (d) if the word ‘‘bank’’ or any of its derivatives in any language, or any other word indicating the transaction of banking business —
+(d) any related corporation of a bank in Singapore which does not carry on banking business in Singapore or elsewhere and which carries on any business mentioned in section 30(1)(b), (c) or (d) if the word “bank” or any of its derivatives in any language, or any other word indicating the transaction of banking business —
 
 (i) is used in a manner to indicate or represent that the corporation is a related corporation of the bank; and
 
 (ii) is used together with any other word to indicate or represent that the related corporation is not a bank in Singapore;
 
-(e) any person or body of persons that does not transact banking business or the business of a financial institution in Singapore or elsewhere, if the word ‘‘bank’’ or any of its derivatives in any language, or any other word indicating the transaction of banking business, is used together with any other word to indicate or represent that the person or body of persons is not a bank in Singapore;
+(e) any person or body of persons that does not transact banking business or the business of a financial institution in Singapore or elsewhere, if the word “bank” or any of its derivatives in any language, or any other word indicating the transaction of banking business, is used together with any other word to indicate or represent that the person or body of persons is not a bank in Singapore;
 
-(f) any merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186); and
+(f) any merchant bank; and
 
 (g) such international financial institution as may be prescribed.
 
-[1/2007]
+[5/2016]
 
-(2A) Sections 4A (3) and 4B (1), (2) and (3) shall apply, with the necessary modifications, to an advertisement made by a representative office referred to in subsection (2) (a).
+(2A) Sections 4A(3) and 4B(1), (2) and (3) apply, with the necessary modifications, to an advertisement made by a representative office mentioned in subsection (2)(a).
 
-[1/2007]
+(2B) If the Authority is satisfied that a person or body of persons to whom subsection (2) applies has misled or is likely to mislead the public or a section of the public as to whether the person or body of persons is a bank in Singapore, the Authority may, by written notice to the person or body of persons, direct the person or body of persons to cease —
 
-(2B) If the Authority is satisfied that a person or body of persons to whom subsection (2) applies has misled or is likely to mislead the public or a section of the public as to whether the person or body of persons is a bank in Singapore, the Authority may, by notice in writing to the person or body of persons, direct the person or body of persons to cease —
+(a) using the word “bank” or any of its derivatives in any language, or any other word indicating the transaction of banking business, in the name, description or title under which the person or body of persons is transacting business in Singapore; and
 
-(a) using the word ‘‘bank’’ or any of its derivatives in any language, or any other word indicating the transaction of banking business, in the name, description or title under which the person or body of persons is transacting business in Singapore; and
+(b) making any representation to that effect in any bill head, letter paper, notice, advertisement or in any other manner, from the date specified by the Authority in the notice, and subsection (1) applies to the person or body of persons as from that date.
 
-(b) making any representation to that effect in any bill head, letter paper, notice, advertisement or in any other manner, from the date specified by the Authority in the notice, and subsection (1) shall apply to the person or body of persons as from that date.
-
-[1/2007]
-
-(2C) The Authority shall publish in the Gazette such particulars as it thinks fit in respect of every person or body of persons to whom a notice is issued under subsection (2B).
-
-[1/2007]
+(2C) The Authority must publish in the Gazette such particulars as it thinks fit in respect of every person or body of persons to whom a notice is issued under subsection (2B).
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) in the case of an individual, to a fine not exceeding $12,500 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction; or
+(a) in the case of an individual, to a fine not exceeding $12,500 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day or part of a day during which the offence continues after conviction; or
 
-(b) in any other case, to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
-
-[23/2001]
+(b) in any other case, to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.

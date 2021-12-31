@@ -1,9 +1,9 @@
-# 55B. Voluntary transfer of business
-Part: PART VIIA TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF SHARE CAPITAL Division 1 — Voluntary transfer of business of bank
+# 55B. Conditions for transfer of business
+Part: PART 7A TRANSFER OF BUSINESS Division 1 — Transfer of business of bank
 
-(1) A transferor may transfer the whole or any part of its business (including its non-banking business) to a transferee which is licensed to carry on banking business in Singapore, if —
+(1) A transferor may voluntarily transfer the whole or any part of its business (including its non-banking business) to a transferee which is licensed to carry on banking business in Singapore, if —
 
-(a) where the transferor is a bank incorporated in Singapore, the Minister has consented to the transfer or has certified that his consent is not required;
+(a) where the transferor is a bank incorporated in Singapore, the Minister has consented to the transfer or has certified that the Minister’s consent is not required;
 
 (b) where the transferor is a bank incorporated outside Singapore, the business to be transferred is reflected in the books of the transferor in Singapore in relation to its operations in Singapore;
 
@@ -11,13 +11,23 @@ Part: PART VIIA TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF SHARE CAPIT
 
 (d) the Court has approved the transfer.
 
-[1/2007]
+[5/2016]
 
-(2) Subsection (1) is without prejudice to the right of a bank to transfer the whole or any part of its business under any law.
+(1A) A transferor must transfer the whole or any part of its banking business in Singapore to a company incorporated by the bank or its parent bank under the Companies Act 1967 for the purpose of carrying on that business or that part of the business, if —
 
-[1/2007]
+(a) it is directed by the Authority under section 55BA to do so;
 
-(3) The Minister may consent to a transfer under subsection (1) (a) if —
+and
+
+(b) the Court has approved the transfer.
+
+[5/2016]
+
+(2) Subsections (1) and (1A) do not affect the right of a bank to transfer the whole or any part of its business under any law.
+
+[5/2016]
+
+(3) The Minister may consent to a transfer under subsection (1)(a) if —
 
 (a) the Authority is satisfied that —
 
@@ -27,16 +37,8 @@ Part: PART VIIA TRANSFER OF BUSINESS AND SHARES AND RESTRUCTURING OF SHARE CAPIT
 
 (b) the Minister is satisfied that it is in the national interest to do so.
 
-[1/2007]
+(4) The Minister or the Authority may at any time appoint one or more persons to perform an independent assessment of, and provide a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division, whether the transferor is a bank incorporated in or outside Singapore.
 
-(4) The Minister or the Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business (or any part thereof) under this Division, whether the transferor is a bank incorporated in or outside Singapore.
+(5) The remuneration and expenses of any person appointed under subsection (4) must be paid by the transferor and the transferee jointly and severally.
 
-[1/2007]
-
-(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.
-
-[1/2007]
-
-(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
-
-[1/2007]
+(6) The Authority must serve a copy of any report provided under subsection (4) on the transferor and the transferee.

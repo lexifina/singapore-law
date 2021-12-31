@@ -1,9 +1,9 @@
 # 56. Interpretation of this Part
-Part: PART VIII CREDIT CARD AND CHARGE CARD BUSINESSES
+Part: PART 8 CREDIT CARD AND CHARGE CARD BUSINESSES
 
 In this Part, unless the context otherwise requires —
 
-‘‘advertisement’’ means the dissemination or conveyance of information, or an invitation or solicitation by any means or in any form, including by means of —
+“advertisement” means the dissemination or conveyance of information, or an invitation or solicitation by any means or in any form, including by means of —
 
 (a) publication in a newspaper, magazine, journal or other periodical;
 
@@ -17,10 +17,12 @@ In this Part, unless the context otherwise requires —
 
 (f) sound broadcasting, television, the Internet or other media;
 
-‘‘credit card’’ or ‘‘charge card’’ means any article, whether in physical or electronic form, of a kind commonly known as a credit card or charge card or any similar article intended for use in purchasing goods or services on credit, whether or not the card is valid for immediate use;
+“credit card” or “charge card” means any article, whether in physical or electronic form, of a kind commonly known as a credit card or charge card or any similar article intended for use in purchasing goods or services on credit, whether or not the card is valid for immediate use;
 
-‘‘licence’’ means a licence to carry on the business of issuing credit cards or charge cards in Singapore;
+“licence” means a licence to carry on the business of issuing credit cards or charge cards in Singapore;
 
-‘‘licensee’’ means a person who is granted a licence under section 57B.
+“licensee” means a person who is granted a licence under section 57B;
 
-[1/2007]
+“place of business”, in relation to a licensee, includes a head or main office, a branch, an agency, a mobile branch of the licensee, any office established and maintained for a limited period only, and any other place used by the licensee for the conduct of any business of the licensee.
+
+[5/2016]

@@ -1,18 +1,38 @@
 # 10. Risk-based capital requirements
-Part: PART III LICENSING OF BANKS
+Part: PART 3 LICENSING OF BANKS
 
-(1) The Authority may, by notice in writing, require any bank in Singapore or class of banks in Singapore to maintain capital funds in Singapore of such amount (not being less than the minimum prescribed in section 9 or 9A, as the case may be) and in such manner as the Authority considers appropriate, having regard to the risks arising from the activities of the bank or class of banks, as the case may be, and such other factors as the Authority considers relevant.
+(1) The Authority may, by written notice, require any bank in Singapore or class of banks in Singapore to maintain capital funds in Singapore of such amount (not being less than the minimum prescribed in section 9 or 9A, as the case may be) and in such manner as the Authority considers appropriate, having regard to the risks arising from the activities of the bank or class of banks (as the case may be) and such other factors as the Authority considers relevant.
 
-[23/2001]
+(2) The Authority may, by written notice to any bank incorporated in Singapore or any class of banks incorporated in Singapore, impose capital adequacy requirements on them.
 
-(2) A bank incorporated in Singapore shall not, at any time, have a capital adequacy ratio of less than 12%, or such other percentage as may be determined by the Authority from time to time, as calculated in accordance with such form, content and manner as may be determined by the Authority by notice in writing.
+[5/2016]
 
-[28/93]
+(2A) Without limiting subsection (2), a notice under that subsection may prescribe —
 
-(3) The Authority may, if it considers appropriate in the particular circumstances of a bank incorporated in Singapore, having regard to the risks arising from the activities of the bank and such other factors as the Authority considers relevant, vary the capital adequacy ratio applicable to that bank.
+(a) the appropriate level (which may be expressed in the form of a ratio) and quality of capital that is commensurate with the type, amount and concentration of risk of the bank or class of banks;
 
-[23/2001]
+(b) the manner and process for calculating the level or quality of capital of each bank;
 
-(4) The Authority may restrict or suspend the operations of a bank which fails to comply with subsection (2) or (3) or any requirement of the Authority under subsection (1).
+(c) the internal processes of each bank in assessing the adequacy of its level and quality of capital, having regard to the risks arising from the activities of the bank and such other factors as the Authority considers relevant;
 
-[28/93; 23/2001]
+(d) the reports to be submitted by each bank; and
+
+(e) restrictions on the distributions by a bank of dividends, bonuses, commissions, payments as a result of a buyback of shares, and any other payment, in the event that it fails to maintain the level or quality of capital prescribed under paragraph (a).
+
+[5/2016]
+
+(3) The Authority may, if it considers appropriate in the particular circumstances of a bank incorporated in Singapore, having regard to the risks arising from the activities of the bank and such other factors as the Authority considers relevant, vary any capital adequacy requirement imposed by a notice under subsection (2) on that bank.
+
+[5/2016]
+
+(4) Without affecting subsection (5), the Authority may restrict or suspend the operations of a bank which fails to comply with a notice under subsection (1) or (2).
+
+[5/2016]
+
+(5) A bank which fails to comply with —
+
+(a) a notice under subsection (1) or (2); or
+
+(b) any restriction or suspension imposed by the Authority under subsection (4), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[5/2016]

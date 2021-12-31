@@ -1,7 +1,7 @@
 # 74A. Power to refund, reduce, etc., financial penalty
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
-The Authority may, of its own motion, review any financial penalty imposed under section 38 (7) or 39 (7) and decide —
+The Authority may, of its own motion, review any financial penalty imposed on a bank under section 38(7) or 39(7) or on a merchant bank under section 38(7) as applied by section 55ZG(1), and decide —
 
 (a) not to impose the financial penalty;
 
@@ -9,4 +9,4 @@ The Authority may, of its own motion, review any financial penalty imposed under
 
 (c) where any financial penalty has been paid, to refund the whole or part of the amount paid.
 
-[23/2001; 1/2007]
+[1/2020]

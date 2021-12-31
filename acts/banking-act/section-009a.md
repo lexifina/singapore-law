@@ -1,38 +1,42 @@
 # 9A. Capital requirements for qualifying subsidiaries
-Part: PART III LICENSING OF BANKS
+Part: PART 3 LICENSING OF BANKS
 
-(1) Notwithstanding section 9, a company incorporated in Singapore which is a qualifying subsidiary may be granted and hold a licence under section 7 if —
+(1) Despite section 9, a company incorporated in Singapore which is a qualifying subsidiary may be granted a bank licence under section 7 if its paid-up capital is at least $100 million.
 
-(a) it is and continues to be a qualifying subsidiary; and
+[5/2016; 1/2020]
 
-(b) its paid-up capital is not less than $100 million.
+(2) A bank which is a qualifying subsidiary must not reduce its paid-up capital, or purchase or otherwise acquire shares issued by the bank if such shares are to be held as treasury shares, without the approval of the Authority.
 
-[23/2001; 1/2007]
+(3) A bank which is a qualifying subsidiary must maintain capital funds of at least $100 million unless the Authority approves otherwise.
 
-(2) A bank which is a qualifying subsidiary shall not reduce its paid-up capital, or purchase or otherwise acquire shares issued by the bank if such shares are to be held as treasury shares, without the approval of the Authority.
+(3A) Subject to subsection (3B), the paid-up capital and capital funds of a bank which is a qualifying subsidiary must be denominated in Singapore dollars or any currency approved by the Authority, and must be in ordinary shares.
 
-[1/2007]
+[5/2016]
 
-(3) A bank which is a qualifying subsidiary shall maintain capital funds of not less than $100 million unless the Authority approves otherwise.
+(3B) Any amount of paid-up capital or capital funds of a bank which is a qualifying subsidiary above the amount mentioned in subsection (1), or such other amount as may be prescribed by the Authority in substitution, may be denominated in any currency, and may be in any type of shares.
 
-[23/2001; 1/2007]
+[5/2016]
 
-(4) The Authority may, in its discretion, on application by any bank, exempt that bank from subsection (1) (a) subject to such conditions as the Authority may impose, and in such event, the other provisions of this section shall continue to apply to that bank notwithstanding that it may no longer be a qualifying subsidiary.
+(4) [Deleted by Act 1 of 2020]
 
-[23/2001]
+(5) Any bank which fails to comply with any requirement under subsection (3) or (3A) must immediately notify the Authority.
 
-(5) Any bank which fails to comply with any requirement under subsection (1) shall immediately notify the Authority.
+[5/2016]
 
-[23/2001]
-
-(6) Where a bank fails to comply with any provision of this section or any condition imposed by the Authority under this section, the Authority may, without prejudice to section 71, by notice in writing to the bank —
+(6) Where a bank fails to comply with any provision of this section or any condition imposed by the Authority under this section, the Authority may, without affecting subsection (6A), by written notice to the bank —
 
 (a) restrict or suspend the operations of the bank; or
 
-(b) give such directions to the bank as it considers appropriate and the bank shall comply with such directions.
+(b) give such directions to the bank as it considers appropriate and the bank must comply with such directions.
 
-[23/2001]
+[5/2016]
 
-(7) In this section, ‘‘paid-up capital’’ does not include any amount that is represented by treasury shares.
+(6A) Any bank which fails to comply with —
 
-[1/2007]
+(a) subsection (2), (3), (3A) or (5); or
+
+(b) any restriction or suspension imposed by the Authority, or any direction of the Authority, under subsection (6), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[5/2016]
+
+(7) In this section, “paid-up capital” does not include any amount that is represented by treasury shares.

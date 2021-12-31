@@ -1,4 +1,4 @@
-# 11. (Repealed)
-Part: PART III LICENSING OF BANKS
+# 11. [Repealed]
+Part: PART 3 LICENSING OF BANKS
 
-(Repealed by Act 1 of 2007)
+[Repealed by Act 1 of 2007]

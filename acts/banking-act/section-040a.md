@@ -1,17 +1,17 @@
 # 40A. Interpretation of this Part
-Part: PART VII POWERS OF CONTROL OVER BANKS
+Part: PART 7 POWERS OF CONTROL OVER BANKS, ETC.
 
-In this Part —
+In sections 44A, 47 and 55 —
 
-‘‘customer’’, in relation to a bank, includes the Authority or any monetary authority or central bank of any other country or territory, but does not include any company which carries on banking business or such other financial institution as may be designated by the Authority by notice in writing;
+“customer”, in relation to a bank, includes the Authority or any monetary authority or central bank of any other country or territory, but does not include any company which carries on banking business or such other financial institution as may be designated by the Authority by written notice;
 
-‘‘customer information’’, in relation to a bank, means —
+“customer information”, in relation to a bank, means —
 
 (a) any information relating to, or any particulars of, an account of a customer of the bank, whether the account is in respect of a loan, investment or any other type of transaction, but does not include any information that is not referable to any named customer or group of named customers; or
 
 (b) deposit information;
 
-‘‘deposit information’’, in relation to a bank, means any information relating to —
+“deposit information”, in relation to a bank, means any information relating to —
 
 (a) any deposit of a customer of the bank;
 
@@ -21,6 +21,6 @@ or
 
 (c) any safe deposit box maintained by, or any safe custody arrangements made by, a customer with the bank, but does not include any information that is not referable to any named person or group of named persons;
 
-‘‘funds of a customer under management’’ means any funds or assets of a customer (whether of the bank or any financial institution) placed with that bank for the purpose of management or investment.
+“funds of a customer under management” means any funds or assets of a customer (whether of the bank or any financial institution) placed with that bank for the purpose of management or investment.
 
-[23/2001; 1/2007]
+[1/2020]

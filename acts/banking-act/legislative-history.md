@@ -1,157 +1,19 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BANKING ACT 1970
 
-BANKING ACT (CHAPTER 19)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Banking Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 41 of 1970 — Banking Act 1970
+LEGISLATIVE HISTORY DETAILS PART 1 BANKING ORDINANCE, 1962 (ORDINANCE 1 OF 1962) 1. Ordinance 1 of 1962 — Banking Ordinance, 1962 Bill : Information not available First and Second Readings : 16 January 1962 Notice of Amendments : 16 January 1962 Third Reading : 16 January 1962 Commencement : 19 January 1962
 
-Date of First Reading : 22 July 1970 (Bill No. 29/70 published on 28 July 1970)
+PART 2 BANKING ORDINANCE, 1958 (M. ORDINANCE 62 OF 1958) 2. M. Ordinance 62 of 1958 — Banking Ordinance, 1958 Commencement : 26 January 1959 Application : 21 January 1965 (except section 32(1)) Note: This Act was extended in part to Singapore, with amendments, by the Banking (Amendment and Extension) Act, 1965 (M. Act 17 of 1965) on 21 January 1965.
 
-Date of Second and Third Readings : 2 September 1970
+3. M. Act 17 of 1965 — Banking (Amendment and Extension) Act, 1965 Commencement : 21 January 1965 Note: This Act repealed the Banking Ordinance, 1962 (Ordinance 1 of 1962) and extended the Federation of Malaya Banking Ordinance, 1958 (M. Ordinance 62 of 1958) in part to Singapore, with amendments.
 
-Date of commencement : 1 January 1971
+4. G.N. No. S 82/1967 — Modification of Laws (Banking) Order, 1967 Commencement : 24 April 1967 (except paragraph 3) 12 June 1967 (paragraph 3) PART 3 BANKING ACT 1970 (2020 REVISED EDITION) 5. Act 41 of 1970 — Banking Act, 1970 Bill : 29/1970 First Reading : 22 July 1970 Second Reading : 2 September 1970 Notice of Amendments : 2 September 1970 Third Reading : 2 September 1970 Commencement : 1 January 1971 6. 1970 Revised Edition — Banking Act (Chapter 182) Operation : 1 July 1971 7. Act 6 of 1983 — Banking (Amendment) Act, 1983 Bill : 22/1982 First Reading : 3 December 1982 Second and Third Readings : 4 March 1983 Commencement : 22 April 1983 8. Act 2 of 1984 — Banking (Amendment) Act 1984 Bill : 15/1983 First Reading : 20 December 1983 Second and Third Readings : 17 January 1984 Commencement : 9 March 1984 9. 1985 Revised Edition — Banking Act (Chapter 19) Operation : 30 March 1987 10. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Amendments made by section 29(5) read with item (2) of the Schedule to the above Act) Bill : 12/1993 First Reading : 26 February 1993 Second Reading : 12 April 1993 Notice of Amendments : 12 April 1993 Third Reading : 12 April 1993 Commencement : 1 July 1993 (section 29(5) read with item (2) of the Schedule) 11. Act 28 of 1993 — Banking (Amendment) Act 1993 Bill : 22/1993 First Reading : 30 July 1993 Second Reading : 30 August 1993 Notice of Amendments : 30 August 1993 Third Reading : 30 August 1993 Commencement : 8 October 1993 12. 1994 Revised Edition — Banking Act (Chapter 19) Operation : 15 March 1994 13. Act 21 of 1996 — Banking (Amendment) Act 1996 Bill : 12/1996 First Reading : 2 May 1996 Second and Third Readings : 21 May 1996 Commencement : 18 July 1996 14. Act 27 of 1998 — Banking (Amendment) Act 1998 Bill : 20/1998 First Reading : 1 June 1998 Second and Third Readings : 29 June 1998 Commencement : 10 July 1998 15. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Amendments made by section 19 read with item (1) of the Schedule to the above Act) Bill : 34/1998 First Reading : 31 July 1998 Second Reading : 12 October 1998 Notice of Amendments : 12 October 1998 Third Reading : 12 October 1998 Commencement : 16 November 1998 (section 19 read with item (1) of the Schedule) 16. Act 25 of 1999 — Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999 (Amendments made by section 31 read with item (1) of the Schedule to the above Act) Bill : 16/1999 First Reading : 4 May 1999 Second and Third Readings : 6 July 1999 Commencement : 13 September 1999 (section 31 read with item (1) of the Schedule) 17. 1999 Revised Edition — Banking Act (Chapter 19) Operation : 30 December 1999 18. Act 23 of 2001 — Banking (Amendment) Act 2001 Bill : 21/2001 First Reading : 19 April 2001 Second and Third Readings : 16 May 2001 Commencement : 18 July 2001 19. Act 42 of 2001 — Securities and Futures Act 2001 (Amendments made by section 343(1) read with item (1) of the Fourth Schedule to the above Act) Bill : 33/2001 First Reading : 25 September 2001 Second and Third Readings : 5 October 2001 Commencement : 1 July 2002 (section 343(1) read with item (1)(a) of the Fourth Schedule) 1 October 2002 (section 343(1) read with item (1)(b) of the Fourth Schedule) 20. Act 39 of 2002 — Payment and Settlement Systems (Finality and Netting) Act 2002 (Amendments made by section 20(1) of the above Act) Bill : 41/2002 First Reading : 31 October 2002 Second and Third Readings : 25 November 2002 Commencement : 9 December 2002 (section 20(1)) 21. 2003 Revised Edition — Banking Act (Chapter 19) Operation : 31 July 2003 22. Act 24 of 2003 — Monetary Authority of Singapore (Amendment) Act 2003 (Amendments made by section 13 read with item (1) of the Schedule to the above Act) Bill : 21/2003 First Reading : 16 October 2003 Second and Third Readings : 10 November 2003 Commencement : 1 January 2004 (section 13 read with item (1) of the Schedule) 23. Act 5 of 2004 — Companies (Amendment) Act 2004 (Amendments made by section 59 read with item (1) of the Schedule to the above Act) Bill : 3/2004 First Reading : 5 January 2004 Second and Third Readings : 6 February 2004 Commencement : 1 April 2004 (section 59 read with item (1) of the Schedule) 24. Act 5 of 2005 — Limited Liability Partnerships Act 2005 (Amendments made by section 60(1) read with item (2) of the Sixth Schedule to the above Act) Bill : 64/2004 First Reading : 19 October 2004 Second and Third Readings : 25 January 2005 Commencement : 11 April 2005 (section 60(1) read with item (2) of the Sixth Schedule) 25. Act 31 of 2005 — Deposit Insurance Act 2005 (Amendments made by section 65 of the above Act) Bill : 21/2005 First Reading : 15 August 2005 Second and Third Readings : 19 September 2005 Commencement : 18 October 2005 (section 65) 26. Act 21 of 2005 — Companies (Amendment) Act 2005 (Amendments made by section 58 read with item (2) of the Schedule to the above Act) Bill : 11/2005 First Reading : 18 April 2005 Second and Third Readings : 16 May 2005 Commencement : 30 January 2006 (section 58 read with item (2) of the Schedule) 27. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (2) of the First Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 (section 5 read with item (2) of the First Schedule) 28. Act 1 of 2006 — Payment Systems (Oversight) Act 2006 (Amendments made by section 58 of the above Act) Bill : 39/2005 First Reading : 21 November 2005 Second and Third Readings : 16 January 2006 Commencement : 23 June 2006 (section 58) 29. Act 1 of 2007 — Banking (Amendment) Act 2007 Bill : 13/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 31 March 2007 30. 2008 Revised Edition — Banking Act (Chapter 19) Operation : 31 March 2008 31. Act 23 of 2008 — Co-operative Societies (Amendment) Act 2008 (Amendments made by section 58(1) of the above Act) Bill : 19/2008 First Reading : 25 August 2008 Second Reading : 16 September 2008 Notice of Amendments : 16 September 2008 Third Reading : 16 September 2008 Commencement : 20 October 2008 (section 58(1)) 32. Act 5 of 2010 — Moneylenders (Amendment) Act 2010 (Amendments made by section 12 of the above Act) Bill : 23/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 11 February 2010 (section 12) 33. Act 19 of 2010 — Hostage-Taking Act 2010 (Amendments made by section 15 of the above Act) Bill : 13/2010 First Reading : 19 July 2010 Second and Third Readings : 16 August 2010 Commencement : 21 November 2010 (section 15) 34. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 6 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 6 of the Sixth Schedule) 35. Act 15 of 2011 — Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 (Amendments made by section 93(1) of the above Act) Bill : 10/2011 First Reading : 10 March 2011 Second and Third Readings : 11 April 2011 Commencement : 1 May 2011 (section 93(1)) 36. Act 10 of 2013 — Financial Institutions (Miscellaneous Amendments) Act 2013 (Amendments made by section 2 of the above Act) Bill : 4/2013 First Reading : 4 February 2013 Second and Third Readings : 15 March 2013 Commencement : 18 April 2013 (section 2) 37. Act 11 of 2013 — Insurance (Amendment) Act 2013 (Amendments made by section 69 read with item 1 of the Schedule to the above Act) Bill : 5/2013 First Reading : 4 February 2013 Second Reading : 15 March 2013 Notice of Amendments : 15 March 2013 Third Reading : 15 March 2013 Commencement : 18 April 2013 (section 69 read with item 1 of the Schedule) 38. Act 26 of 2012 — Personal Data Protection Act 2012 (Amendments made by section 67(1) of the above Act) Bill : 24/2012 First Reading : 10 September 2012 Second Reading : 15 October 2012 Notice of Amendments : 15 October 2012 Third Reading : 15 October 2012 Commencement : 2 January 2014 (section 67(1)) 39. Act 2 of 2015 — Pawnbrokers Act 2015 (Amendments made by section 86 read with item 1 of the Fourth Schedule to the above Act) Bill : 42/2014 First Reading : 4 November 2014 Second and Third Readings : 19 January 2015 Commencement : 1 April 2015 (section 86 read with item 1 of the Fourth Schedule) 40. Act 35 of 2014 — Statutes (Miscellaneous Amendments) (No. 2) Act 2014 (Amendments made by section 3 of the above Act) Bill : 24/2014 First Reading : 8 September 2014 Second and Third Readings : 7 October 2014 Commencement : 1 July 2015 (section 3) 41. Act 31 of 2017 — Monetary Authority of Singapore (Amendment) Act 2017 (Amendments made by section 36 of the above Act) Bill : 25/2017 First Reading : 8 May 2017 Second and Third Readings : 4 July 2017 Commencement : 4 June 2018 (section 36(5)) 5 June 2018 (section 36(2) and (3)) 29 October 2018 (section 36(1) and (4)) 42. Act 4 of 2017 — Securities and Futures (Amendment) Act 2017 (Amendments made by section 195 of the above Act) Bill : 35/2016 First Reading : 7 November 2016 Second and Third Readings : 9 January 2017 Commencement : 8 October 2018 (section 195) 43. Act 5 of 2016 — Banking (Amendment) Act 2016 Bill : 1/2016 First Reading : 25 January 2016 Second and Third Readings : 29 February 2016 Commencement : 30 November 2018 (except sections 12(2) and 13(2)) 44. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 454 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 454) 45. Act 1 of 2020 — Banking (Amendment) Act 2020 Bill : 35/2019 First Reading : 4 November 2019 Second and Third Readings : 6 January 2020 Commencement : 1 October 2020 (except sections 2, 3, 5, 11, 13 to 17, 19, 20, 21, 24, 26 to 32, 33(b) and (d), 34 to 43, 44(a), (b) and
 
-2. Act 6 of 1983 — Banking (Amendment) Act 1983
+(d) and 45 to 68) 1 July 2021 (sections 2, 3, 5, 11, 13 to 17, 19, 20, 21, 24, 26 to 32, 33(b) and (d), 34 to 43, 44(a), (b) and (d), 45, 46 and 64 to 68) 46. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 10 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 10 of the Schedule) 47. Act 27 of 2016 — Credit Bureau Act 2016 (Amendments made by section 81 of the above Act) Bill : 27/2016 First Reading : 10 October 2016 Second and Third Readings : 9 November 2016 Commencement : 31 May 2021 (section 81)
 
-Date of First Reading : 3 December 1982 (Bill No. 22/82 published on 8 December 1982)
+Abbreviations
 
-Date of Second and Third Readings : 4 March 1983
-
-Date of commencement : 22 April 1983
-
-3. Act 2 of 1984 — Banking (Amendment) Act 1984
-
-Date of First Reading : 20 December 1983 (Bill No. 15/83 published on 27 December 1983)
-
-Date of Second and Third Readings : 17 January 1984
-
-Date of commencement : 9 March 1984
-
-4. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 February 1993 (Bill No. 12/93 published on 27 February 1993)
-
-Date of Second and Third Readings : 12 April 1993
-
-Date of commencement : 1 July 1993 5. Act 28 of 1993 — Banking (Amendment) Act 1993
-
-Date of First Reading : 30 July 1993 (Bill No. 22/93 published on 31 July 1993)
-
-Date of Second and Third Readings : 30 August 1993
-
-Date of commencement : 8 October 1993
-
-6. Act 21 of 1996 — Banking (Amendment) Act 1996
-
-Date of First Reading : 2 May 1996 (Bill No. 12/96 published on 3 May 1996)
-
-Date of Second and Third Readings : 21 May 1996
-
-Date of commencement : 18 July 1996
-
-7. Act 27 of 1998 — Banking (Amendment) Act 1998
-
-Date of First Reading : 1 June 1998 (Bill No. 20/98 published on 2 June 1998)
-
-Date of Second and Third Readings : 29 June 1998
-
-Date of commencement : 10 July 1998
-
-8. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 31 July 1998 (Bill No. 34/98 published on 1 August 1998)
-
-Date of Second and Third Readings : 12 October 1998
-
-Date of commencement : 16 November 1998 16 November 1998 (Transfer Date) 25 May 1999 (Appointed Day) 9. Act 25 of 1999 — Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999 (Consequential amendments made to Act by)
-
-Date of First Reading : 4 May 1999 (Bill No. 16/99 published on 5 May 1999)
-
-Date of Second and Third Readings : 6 July 1999
-
-Date of commencement : 13 September 1999
-
-10. Act 23 of 2001 — Banking (Amendment) Act 2001
-
-Date of First Reading : 19 April 2001 (Bill No. 21/2001 published on 20 April 2001)
-
-Date of Second and Third Readings : 16 May 2001
-
-Date of commencement : 18 July 2001
-
-11. Act 42 of 2001 — Securities and Futures Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 September 2001 (Bill No. 33/2001 published on 26 September 2001)
-
-Date of Second and Third Readings : 5 October 2001
-
-Date of commencement : 1 July 2002 (Item (1) (a) of Fourth Schedule) 1 October 2002 (Item (1) (b) of Fourth Schedule)
-
-12. Act 39 of 2002 — Payment and Settlement Systems (Finality and Netting) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 31 October 2002 (Bill No. 41/2002 published on 1 November 2002)
-
-Date of Second and Third Readings : 25 November 2002
-
-Date of commencement : 9 December 2002 13. Act 24 of 2003 — Monetary Authority of Singapore (Amendment) Act 2003 (Consequential amendments made to Act by)
-
-Date of First Reading : 16 October 2003 (Bill No. 21/2003 published on 17 October 2003)
-
-Date of Second and Third Readings : 10 November 2003
-
-Date of commencement : 1 January 2004
-
-14. Act 5 of 2004 — Companies (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 5 January 2004 (Bill No. 3/2004 published on 6 January 2004)
-
-Date of Second and Third Readings : 6 February 2004
-
-Date of commencement : 1 April 2004
-
-15. Act 5 of 2005 — Limited Liability Partnerships Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 October 2004 (Bill No. 64/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 25 January 2005
-
-Date of commencement : 11 April 2005
-
-16. Act 21 of 2005 — Companies (Amendment) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 18 April 2005 (Bill No. 11/2005 published on 19 April 2005)
-
-Date of Second and Third Readings : 16 May 2005
-
-Date of commencement : 30 January 2006 17. Act 31 of 2005 — Deposit Insurance Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 15 August 2005 (Bill No. 21/2005 published on 16 August 2005)
-
-Date of Second and Third Readings : 19 September 2005
-
-Date of commencement : 18 October 2005
-
-18. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 April 2006 (Item (2) of First Schedule — Amendment of Banking Act)
-
-19. Act 1 of 2006 — Payment Systems (Oversight) Act 2006 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 November 2005 (Bill No. 39/2005 published on 22 November 2005)
-
-Date of Second and Third Readings : 16 January 2006
-
-Date of commencement : 23 June 2006
-
-20. Act 1 of 2007 — Banking (Amendment) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 13/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 31 March 2007
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
