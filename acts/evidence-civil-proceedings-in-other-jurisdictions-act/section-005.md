@@ -1,17 +1,19 @@
 # 5. Privilege of witnesses
 
-(1) A person shall not be compelled by virtue of an order under section 4 to give any evidence which he could not be compelled to give —
+(1) A person is not compelled by virtue of an order under section 4 to give any evidence which the person could not be compelled to give —
 
-(a) in civil proceedings in the High Court in Singapore; or
+(a) in civil proceedings in the General Division of the High Court in Singapore; or
 
 (b) subject to subsection (2), in civil proceedings in the country or territory in which the requesting court exercises jurisdiction.
 
-(2) Subsection (1)(b) shall not apply unless the claim of the person in question to be exempt from giving the evidence is either —
+[40/2019]
+
+(2) Subsection (1)(b) does not apply unless the claim of the person in question to be exempt from giving the evidence is either —
 
 (a) supported by a statement contained in the request (whether it is so supported unconditionally or subject to conditions that are fulfilled); or
 
-(b) conceded by the applicant for the order, and where such a claim made by any person is not so supported or conceded as provided in paragraph (a) or (b), he may (subject to the other provisions of this section) be required to give the evidence to which the claim relates but that evidence shall not be transmitted to the requesting court if that court, on the matter being referred to it, upholds the claim.
+(b) conceded by the applicant for the order, and where such a claim made by any person is not so supported or conceded as provided in paragraph (a) or (b), the person may (subject to the other provisions of this section) be required to give the evidence to which the claim relates but that evidence is not to be transmitted to the requesting court if that court, on the matter being referred to it, upholds the claim.
 
-(3) Without prejudice to subsection (1), a person shall not be compelled by virtue of an order under section 4 to give any evidence if his doing so would be prejudicial to the security of Singapore, and a certificate signed by or on behalf of the Minister to the effect that it would be so prejudicial for that person to do so shall be conclusive evidence of that fact.
+(3) Without affecting subsection (1), a person is not compelled by virtue of an order under section 4 to give any evidence if the person’s doing so would be prejudicial to the security of Singapore, and a certificate signed by or on behalf of the Minister to the effect that it would be so prejudicial for that person to do so is conclusive evidence of that fact.
 
-(4) In this section, references to giving evidence include references to answering any question and to producing any document and the reference in subsection (2) to the transmission of evidence given by a person shall be construed accordingly.
+(4) In this section, references to giving evidence include references to answering any question and to producing any document and the reference in subsection (2) to the transmission of evidence given by a person is to be construed accordingly.
