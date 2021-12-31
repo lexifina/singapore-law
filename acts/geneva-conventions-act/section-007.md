@@ -1,0 +1,6 @@
+# 7. Powers of Minister
+Part: PART 2 PUNISHMENT OF OFFENDERS AGAINST CONVENTIONS
+
+(1) It is lawful for the Minister, in any case in which a protected prisoner of war or a protected internee is convicted of an offence and sentenced to a term of imprisonment, to direct that there is to be deducted from that term a period not exceeding the period (if any) during which that person was in custody in connection with that offence, either on remand or after committal for trial (including the period of the trial), before the sentence began, or is deemed to have begun, to run.
+
+(2) It is lawful for the Minister in a case where he or she is satisfied that a protected prisoner of war accused of an offence has been in custody in connection with that offence, either on remand or after committal for trial (including the period of the trial), for an aggregate period of at least 3 months, to direct that the prisoner be transferred from that custody to the custody of an officer of the Singapore Armed Forces and thereafter remain in military custody at a camp or place in which protected prisoners of war are detained, and be brought before the court at the time appointed by the remand or committal order.
