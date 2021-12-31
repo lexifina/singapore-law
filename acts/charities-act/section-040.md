@@ -1,16 +1,18 @@
-# 40. Exclusion of judicial review
-Part: PART VIII FUND-RAISING APPEALS
+# 40. Interpretation of this Part
+Part: PART 9 INSTITUTIONS OF A PUBLIC CHARACTER AND SECTOR ADMINISTRATORS
 
-(1) There shall be no judicial review in any court of any act done or decision made by the Minister or Commissioner under any regulations made for the purpose of section 39A except in regard to any question relating to compliance with any procedural requirement of the regulations governing that act or decision.
+In this Part, unless the context otherwise requires —
 
-[10/2007]
+“institution of a public character” means a registered charity or an exempt charity in Singapore —
 
-(2) In this section, ‘‘judicial review’’ includes proceedings instituted by way of —
+(a) that is approved as an institution of a public character by the Minister, Commissioner or any Sector Administrator on the application of the charity; or
 
-(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
+(b) which is deemed as an institution of a public character under any written law;
 
-(b) an application for a declaration or an injunction; or
+“sector”, in relation to a Sector Administrator, means the class or classes of charities or institutions of a public character that the Minister has by notice in the Gazette designated as under the supervision of that Sector Administrator;
 
-(c) any other suit or action relating to or arising out of any act done or decision made in pursuance of any power conferred upon the Minister or Commissioner by any regulations made for the purpose of section 39A.
+“Sector Administrator” means any person or organisation appointed to be a Sector Administrator under section 41.
 
-[42/2005; 10/2007]
+[40A
+
+[2/2018]

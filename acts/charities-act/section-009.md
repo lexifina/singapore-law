@@ -1,36 +1,46 @@
-# 9. Power of Commissioner to call for documents and search records
-Part: PART III REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
+# 9. Power of Commissioner to require change of charity’s name
+Part: PART 4 REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 
-(1) The Commissioner may, for the purpose of discharging his functions under this Act, by order —
+(1) The Commissioner may, with respect to a charity to which this subsection applies, give a direction requiring the name of the charity to be changed, within the period specified in the direction, to any other name that the governing board members may determine with the Commissioner’s approval.
 
-(a) require any person to furnish the Commissioner with any information in his possession which relates to any charity;
+[34/2010]
 
-and
+(2) Subsection (1) applies to a charity if —
 
-(b) require any person who has in his custody or under his control any document which relates to any charity —
+(a) it is a registered charity and its name (called in this Act the registered name) is the same as, or is in the Commissioner’s opinion too like, the name, at the time when the registered name was entered in the register in respect of the charity, of any other charity (whether registered or not);
 
-(i) to furnish the Commissioner with a copy of or extract from the document; or
+(b) the name of the charity is in the Commissioner’s opinion likely to mislead the public as to the true nature of —
 
-(ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Commissioner for his inspection.
+(i) the purposes of the charity as set out in its governing instruments; or
 
-(2) The Commissioner shall be entitled without payment to keep any copy or extract furnished to him under subsection (1); and where a document transmitted to him for his inspection relates only to one or more charities and is not held by any person entitled as trustee or otherwise to the custody of the document, the Commissioner may keep it or may deliver it to the charity trustees or to any other person who may be so entitled.
+(ii) the activities which the charity carries on under its governing instruments in pursuit of those purposes;
 
-(3) The Commissioner or any officer authorised by him in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging his functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
+(c) the name of the charity includes any word or expression which in the Commissioner’s opinion is likely to mislead the public in any respect as to the status of the charity;
 
-(4) The Commissioner may take possession of any books, documents or papers where in his opinion —
+(d) the name of the charity is in the Commissioner’s opinion likely to give the impression that the charity is connected in some way with the Government or any public authority, or with any other body of persons or any individual, when it is not so connected; or
 
-(a) the inspection, copying thereof or extraction therefrom cannot reasonably be performed without taking possession;
+(e) the name of the charity is in the Commissioner’s opinion offensive, and any reference in this subsection to the name of a charity is, in relation to a registered charity, a reference to the name by which it is registered.
 
-(b) the books, documents or papers may be interfered with or destroyed unless possession is taken; or
+[34/2010]
 
-(c) the books, documents or papers may be required as evidence in proceedings for an offence under this Act or any regulations made thereunder.
+(3) Any direction given by virtue of subsection (2)(a) must be given within 12 months of the time when the registered name was entered in the register in respect of the charity.
 
-(5) The Commissioner may require any person to give orally or in writing, as may be required, all such information concerning any charity as may be demanded of him by the Commissioner for the purposes of this Act.
+(4) Any direction given under this section with respect to a charity must be given to the governing board members; and on receiving any such direction the governing board members must give effect to it despite anything in the governing instruments of the charity.
 
-(6) The rights conferred by this section shall, in relation to information recorded otherwise than in legible form, include the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.
+[34/2010]
 
-(7) Any person who fails to comply with any requirement specified in any order under subsection (1) or any requirement under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(5) Where the name of any charity is changed under this section, it is the duty of the governing board members to notify the Commissioner, within 7 days after the change or such longer period as the Commissioner may allow, of the new name of the charity and of the date on which the change occurred.
 
-(8) Subject to section 11 (2), no person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
+[34/2010]
 
-[Charities Act 1985 Ed., s. 8]
+(6) A change of name by a charity under this section does not affect any rights or obligations of the charity; and any legal proceedings that might have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
+
+(7) Any reference in this section to the governing board members of a charity is, in relation to a charity which is a company, to be read as a reference to the directors of the company.
+
+[34/2010]
+
+(8) Where any direction is given under this section with respect to a charity which is a company, the direction is taken to require the directors of the company to take the necessary steps to effect the change of the name of the company, including applying to the Registrar of Companies for the reservation and approval of the new name under section 27 or 378 of the Companies Act 1967, as the case may be.
+
+(9) Nothing in this section applies to an exempt charity.
+
+[7

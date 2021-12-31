@@ -1,10 +1,14 @@
-# 41. Manner of giving notice of charity meetings, etc.
-Part: PART IX MISCELLANEOUS
+# 41. Appointment of Sector Administrators
+Part: PART 9 INSTITUTIONS OF A PUBLIC CHARACTER AND SECTOR ADMINISTRATORS
 
-(1) All notices which are required or authorised by the trusts of a charity to be given to a charity trustee, member or subscriber may be sent by post, and, if sent by post, may be addressed to any address given as his in the list of charity trustees, members or subscribers for the time being in use at the office or principal office of the charity.
+The Minister may appoint any person or organisation to be a Sector Administrator for one or more of the following purposes:
 
-(2) Where any such notice required to be given under subsection (1) is given by post, it shall be deemed to have been given by the time at which the letter containing it would be delivered in the ordinary course of post.
+(a) regulating the administration of charities within the sector;
 
-(3) No notice required to be given under subsection (1) of any meeting or election need be given to any charity trustee, member or subscriber, if in the list of charity trustees, members or subscribers he has no address in Singapore.
+(b) approving institutions as institutions of a public character from among such class or classes of institutions as the Minister or Commissioner may determine;
 
-[Charities Act 1985 Ed., s. 21]
+(c) regulating the administration of donations made to institutions of a public character within the sector;
+
+(d) exercising such other functions and powers as the Minister may determine.
+
+[40B

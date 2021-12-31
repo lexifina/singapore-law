@@ -1,18 +1,40 @@
-# 27. Persons disqualified for being trustees of a charity
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
+# 27. Power to direct application of charity property after charity ceases to exist
+Part: PART 7 APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
 
-(1) Subject to the provisions of this section, a person shall be disqualified for being a charity trustee or trustee for a charity if —
+(1) This section applies in respect of any institution that was a charity (whether or not registered under section 7) —
 
-(a) he has been convicted, whether in Singapore or elsewhere, of any offence involving dishonesty or deception;
+(a) from the time the institution ceases to be a charity, or ceases to exist or operate, whichever occurs earlier; and
 
-(b) he has been adjudged bankrupt, and has not been discharged;
+(b) where the Commissioner is satisfied —
 
-(c) he has made a composition or arrangement with, or granted a trust deed for, his creditors and has not been discharged in respect of it;
+(i) that a person or persons in possession or control of any property held by or on trust for the institution is or are unwilling to apply it properly for the purposes of the trust; and
 
-(d) he has been removed from the office of charity trustee or trustee for a charity by an order made by the Commissioner under section 25 (1) (i) or by the High Court on the ground of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
+(ii) that it is necessary or desirable to make an order under this section for the purpose of securing a proper application of that property for the purposes of the trust.
 
-(e) he is subject to a disqualification order under section 148, 149 or 154 of the Companies Act (Cap. 50).
+[10/2007]
 
-(2) Where (apart from this subsection) a person is disqualified under subsection (1) (b) for being a charity trustee or trustee for any charity which is a company, he shall not be so disqualified if leave has been granted under section 148 of the Companies Act for him to act as director of the charity; and similarly a person shall not be disqualified under subsection (1) (e) for being a charity trustee or trustee for such a charity if leave under the order has been granted for him to act as director of the charity.
+(2) The Commissioner may by order direct the person or persons concerned to apply the property in the manner specified in the order.
 
-[UK Charities Act 1993, s. 72]
+[10/2007]
+
+(3) An order under this section —
+
+(a) may require action to be taken whether or not it would otherwise be within the powers exercisable by the person or persons concerned in relation to the property; but
+
+(b) may not require any action to be taken which is prohibited by any written law or expressly prohibited by the governing instruments of the institution.
+
+[10/2007; 34/2010]
+
+(4) Anything done by a person under the authority of an order under this section is deemed to be properly done in the exercise of the powers mentioned in subsection (3)(a).
+
+[10/2007]
+
+(5) Subsection (4) does not affect any contractual or other rights arising in connection with anything which has been done under the authority of such an order.
+
+[10/2007]
+
+(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[26B
+
+[10/2007; 2/2018]

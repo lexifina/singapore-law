@@ -1,22 +1,26 @@
-# 15. Supplementary provisions relating to audits, etc.
-Part: PART IV CHARITY ACCOUNTS, REPORTS AND RETURNS
+# 15. Public inspection of annual reports, etc.
+Part: PART 5 CHARITY ACCOUNTS, REPORTS AND RETURNS
 
-(1) The Minister may by regulations make provision —
+(1) Any annual report or other document kept by the Commissioner pursuant to section 14(5) must be open to public inspection at all reasonable times —
 
-(a) with respect to the duties of an approved company auditor carrying out an audit under section 14, including provision with respect to the making by him of a report on the statement of accounts prepared for the financial year in question under section 13 (1), or the account and statement so prepared under section 13 (3), as the case may be;
+(a) during the period for which it is so kept; or
 
-(b) with respect to the making by an independent examiner of a report in respect of an examination carried out by him under section 14;
+(b) if the Commissioner so determines, during a shorter period that he or she may specify.
 
-(c) conferring on such an auditor or independent examiner a right of access with respect to books, documents and other records (however kept) which relate to the charity concerned;
+(2) Where any interested person —
 
-(d) entitling such an auditor or independent examiner to require, in the case of a charity, information and explanations from past or present charity trustees or trustees for the charity, or from past or present officers, employees or auditors of the charity; and
+(a) requests the governing board members of a charity in writing to provide the interested person with a copy of the charity’s most recent accounts; and
 
-(e) enabling the Commissioner, in circumstances specified in any regulations made under this Act, to dispense with the requirements of section 14 (2) or (3) in the case of a particular charity or in the case of any particular financial year of a charity.
+(b) pays the governing board members such reasonable fee (if any) as they may require in respect of the costs of complying with the request, those governing board members must comply with the request within the period of 2 months beginning with the date on which the request is made.
 
-(2) If any person fails to afford an approved company auditor or independent examiner any facility to which he is entitled by virtue of subsection (1) (c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order give to that person or to the charity trustees for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+[34/2010]
 
-[10/2007]
+(3) In subsection (2), the reference to a charity’s most recent accounts is —
 
-(3) Section 391 of the Companies Act (Cap. 50) shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of section 14 as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
+(a) a reference to the financial statements or account and statement prepared pursuant to section 12(1) in respect of the last financial year of the charity the accounts for which have been audited or examined under section 13; and
 
-[UK Charities Act 1993, s. 44]
+(b) in the case of a charity which is a company, a reference to the annual accounts of the company most recently audited under Part 6 of the Companies Act 1967.
+
+[17
+
+[34/2010; 2/2018]

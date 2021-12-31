@@ -1,38 +1,58 @@
-# 7. Power of Commissioner to require change of charity’s name
-Part: PART III REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
+# 7. Registration of charities
+Part: PART 4 REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 
-(1) The Commissioner may, with respect to a charity to which this subsection applies, give a direction requiring the name of the charity to be changed, within such period as is specified in the direction, to such other name as the charity trustees may determine with the approval of the Commissioner.
+(1) The Commissioner must continue to keep a register of charities in which must be entered the particulars that he or she may determine of any charity registered therein.
 
-(2) Subsection (1) shall apply to a charity if —
+(2) There must be entered in the register every charity not excepted by subsection (6); and a charity so excepted —
 
-(a) it is a registered charity and its name (referred to in this Act as the registered name) is the same as, or is in the opinion of the Commissioner too like, the name, at the time when the registered name was entered in the register in respect of the charity, of any other charity (whether registered or not);
+(a) may be entered in the register at the request of the charity;
 
-(b) the name of the charity is in the opinion of the Commissioner likely to mislead the public as to the true nature of —
+but
 
-(i) the purposes of the charity as set out in its trusts; or
+(b) whether or not it was excepted at the time of registration, may at any time, and must at the request of the charity, be removed from the register.
 
-(ii) the activities which the charity carries on under its trusts in pursuit of those purposes;
+(3) Any institution which no longer appears to the Commissioner to be a charity must be removed from the register with effect, where the removal is due to any change in its purposes or governing instruments, from the date of that change; and there must also be removed from the register any charity which ceases to exist or does not operate.
 
-(c) the name of the charity includes any word or expression which in the opinion of the Commissioner is likely to mislead the public in any respect as to the status of the charity;
+[34/2010]
 
-(d) the name of the charity is in the opinion of the Commissioner likely to give the impression that the charity is connected in some way with the Government or any public authority, or with any other body of persons or any individual, when it is not so connected; or
+(4) The Commissioner must refuse to register an institution as a charity —
 
-(e) the name of the charity is in the opinion of the Commissioner offensive, and any reference in this subsection to the name of a charity is, in relation to a registered charity, a reference to the name by which it is registered.
+(a) if it appears to the Commissioner that the registration of the institution will be contrary to the public interest; or
 
-(3) Any direction given by virtue of subsection (2) (a) shall be given within 12 months of the time when the registered name was entered in the register in respect of the charity.
+(b) on any other ground that the Minister may prescribe.
 
-(4) Any direction given under this section with respect to a charity shall be given to the charity trustees; and on receiving any such direction the charity trustees shall give effect to it notwithstanding anything in the trusts of the charity.
+(5) The Commissioner must remove an institution from the register of charities —
 
-(5) Where the name of any charity is changed under this section, it shall be the duty of the charity trustees to notify the Commissioner, within 7 days after such change or such longer period as the Commissioner may, in his discretion, allow, of the new name of the charity and of the date on which the change occurred.
+(a) if it appears to the Commissioner that the continued registration of the institution as a charity is contrary to the public interest; or
 
-[26/2001]
+(b) on any other ground that the Minister may prescribe.
 
-(6) A change of name by a charity under this section shall not affect any rights or obligations of the charity; and any legal proceedings that might have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
+(6) The following charities are not required to be registered:
 
-(7) Any reference in this section to the charity trustees of a charity shall, in relation to a charity which is a company, be read as a reference to the directors of the company.
+(a) any charity specified in the Schedule; and
 
-(8) Where any direction is given under this section with respect to a charity which is a company, the direction shall be taken to require the directors of the company to take the necessary steps to effect the change of the name of the company, including applying to the Registrar of Companies for the reservation and approval of the new name under section 27 or 378 of the Companies Act (Cap. 50), as the case may be.
+(b) any charity which is excepted by regulations made under this Act.
 
-(9) Nothing in this section shall apply to an exempt charity.
+(7) Any application to the Commissioner for a charity to be registered must be accompanied with copies of its governing instruments (or, if any provisions of the governing instruments are not set out in any document, particulars of them) and any other documents or information that the Commissioner may require for the purpose of the application.
 
-[UK Charities Act 1993, s. 6]
+[34/2010]
+
+(8) It is the duty of —
+
+(a) the governing board members of any charity which is not registered nor excepted from registration to apply for it to be registered, and to supply the documents and information required by subsection (7), within 3 months after its establishment or such longer period as the Commissioner may allow; and
+
+(b) the governing board members (or last governing board members) of any institution which is for the time being registered to notify the Commissioner if it ceases to exist, or if there is any change in its governing instruments, or in its particulars entered in the register, and to furnish the Commissioner with particulars of any such change and copies of any new governing instruments or alterations of the governing instruments, within 7 days after such cessation or change or such longer period as the Commissioner may allow, and any person who makes default in carrying out any of the duties imposed by this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction, and the Commissioner may by order require that person to make good that default.
+
+[34/2010; 2/2018]
+
+(9) Where the governing instrument of a registered charity requires the prior approval of the Commissioner for any amendment to the governing instrument and the Commissioner has delegated his or her power to grant such approval to a Sector Administrator under section 42(1)(e), that requirement is deemed to apply as if it required the prior approval of the Sector Administrator (instead of the Commissioner) for the amendment of the governing instrument.
+
+[34/2010]
+
+(10) The register (including entries cancelled when institutions are removed from the register) must be open to public inspection at all reasonable times, except insofar as regulations otherwise provide.
+
+(11) The register of charities may be prepared and kept in such manner as the Commissioner thinks fit, including in electronic form in a computer.
+
+(12) Where any information contained in the register is not in documentary form, subsection (10) is to be construed as requiring the information to be available for public inspection in legible form at all reasonable times.
+
+[5

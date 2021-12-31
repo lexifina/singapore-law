@@ -1,28 +1,46 @@
-# 13. Annual statements of accounts
-Part: PART IV CHARITY ACCOUNTS, REPORTS AND RETURNS
+# 13. Annual audit or examination of charity accounts
+Part: PART 5 CHARITY ACCOUNTS, REPORTS AND RETURNS
 
-(1) Subject to subsection (3), the charity trustees of a charity shall prepare in respect of each financial year of the charity a statement of accounts complying with such requirements as to its form and contents as may be prescribed by regulations.
+(1) The Minister may by regulations make provision —
 
-(2) Without prejudice to the generality of subsection (1), regulations under that subsection may make provision —
+(a) requiring the accounts of charities to be audited or examined and specify the circumstances in which such audits or examinations must be carried out by a public accountant, an independent qualified accountant or an independent person;
 
-(a) for any such statement to be prepared in accordance with such methods and principles as are specified or referred to in the regulations;
+(b) with respect to the duties of an auditor or independent examiner carrying out an audit or examination for the purposes of this section;
 
-(b) as to any information to be provided by way of notes to the accounts; and
+(c) conferring on the auditor or independent examiner a right of access with respect to books, documents and other records (however kept) which relate to the charity concerned;
 
-(c) for determining the financial years of a charity for the purposes of this Act and any regulations made thereunder.
+(d) entitling the auditor or independent examiner to require, in the case of a charity, information and explanations from past or present governing board members or trustees for the charity, or from past or present officers, employees or auditors of the charity; and
 
-(3) Where the gross income in any financial year of a charity does not exceed $50,000, or such other sum as the Minister may by notification prescribe, the charity trustees may, in respect of that year, elect to prepare a receipts and payments account and a statement of assets and liabilities, instead of a statement of accounts under subsection (1).
+(e) enabling the Commissioner, in prescribed circumstances, to dispense with any of the requirements prescribed under paragraph (a) in the case of a particular charity or in the case of any particular financial year of a charity.
 
-(4) The charity trustees of a charity shall preserve —
+[34/2010]
 
-(a) any statement of accounts prepared by them under subsection (1); or
+(2) Where it appears to the Commissioner —
 
-(b) any account and statement prepared by them under subsection (3), for at least 5 years from the end of the financial year to which any such statement relates or to which any such account and statement relate, as the case may be.
+(a) that any requirement under this section for the accounts of a charity to be audited or examined has not been complied with in relation to a financial year of a charity within 10 months from the end of that year; or
 
-[2/2007]
+(b) that it would be desirable for the accounts of a particular charity for any year to be audited by a public accountant although the regulations made under this Act do not so require, the Commissioner may by order require the accounts of the charity for that year to be audited by a person appointed by the Commissioner.
 
-(5) Section 12 (4) shall apply, with the necessary modifications, in relation to the preservation of any such statement or account and statement as it applies in relation to the preservation of any accounting records.
+[34/2010]
 
-(6) Nothing in this section shall apply to an exempt charity or a charity which is a company.
+(3) The expenses of any audit carried out by a person appointed by the Commissioner under subsection (2), including the person’s remuneration, must be paid —
 
-[UK Charities Act 1993, s. 42]
+(a) by the governing board members of the charity concerned who shall be personally liable, jointly and severally, for those expenses; or
+
+(b) to the extent that it appears to the Commissioner not to be practical to pay those expenses in accordance with paragraph (a), from the funds of the charity.
+
+[34/2010]
+
+(4) The Commissioner may give any directions that he or she may think appropriate with respect to the carrying out of an examination required by regulations made under this Act, and any such directions may either be of general application or apply to a particular charity only.
+
+[34/2010]
+
+(5) If any person fails to provide an auditor or independent examiner any facility to which the auditor or independent auditor is entitled by virtue of regulations made under subsection (1)(c) or (d), without affecting any regulations made under section 57(4) for such failure, the Commissioner may by order give to that person or to the governing board members for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+
+[34/2010; 2/2018]
+
+(6) Section 391 of the Companies Act 1967 has effect in relation to an auditor or independent examiner appointed by a charity pursuant to this section as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
+
+[14
+
+[34/2010]

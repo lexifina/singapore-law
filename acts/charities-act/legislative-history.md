@@ -1,67 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CHARITIES ACT 1994
 
-CHARITIES ACT (CHAPTER 37)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Charities Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 22 of 1994 — Charities Act 1994
+LEGISLATIVE HISTORY DETAILS PART 1 CHARITIES ACT (CHAPTER 37, 1985 REVISED EDITION) 1. Act 20 of 1982 — Charities Act, 1982 Bill : 9/1982 First Reading : 27 July 1982 Second and Third Readings : 31 August 1982 Commencement : 1 January 1983 2. 1985 Revised Edition — Charities Act (Chapter 37) Operation : 30 March 1987
 
-Date of First Reading : 25 July 1994 (Bill No. 18/94 published on 29 July 1994)
+PART 2 CHARITIES ACT 1994 (2020 REVISED EDITION) 3. Act 22 of 1994 — Charities Act 1994 Bill : 18/1994 First Reading : 25 July 1994 Second and Third Readings : 31 October 1994 Commencement : 1 January 1995 (except Part VII) 4. 1995 Revised Edition — Charities Act (Chapter 37) Operation : 15 March 1995 5. Act 43 of 1999 — Telecommunications Act 1999 (Amendments made by section 76(3) of the above Act) Bill : 33/1999 First Reading : 11 October 1999 Second Reading : 23 November 1999 Notice of Amendments : 23 November 1999 Third Reading : 23 November 1999 Commencement : 1 December 1999 (section 76(3)) 6. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal) Act 2001 (Amendments made by section 3 of the above Act) Bill : 24/2001 First Reading : 11 July 2001 Second and Third Readings : 25 July 2001 Commencement : 1 March 2002 (section 3) 7. Act 5 of 2004 — Companies (Amendment) Act 2004 (Amendments made by section 59 read with item (2) of the Schedule to the above Act) Bill : 3/2004 First Reading : 5 January 2004 Second and Third Readings : 6 February 2004 Commencement : 1 April 2004 (section 59 read with item (2) of the Schedule) 8. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (6) of the First Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 (section 5 read with item (6) of the First Schedule) 9. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 2 of the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 12 February 2007 (section 2) 10. Act 10 of 2007 — Charities (Amendment) Act 2007 Bill : 22/2006 First Reading : 8 November 2006 Second and Third Readings : 23 January 2007 Commencement : 1 March 2007 11. 2007 Revised Edition — Charities Act (Chapter 37) Operation : 31 October 2007 12. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(9) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(9) of the Second Schedule) 13. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 12 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 12 of the Sixth Schedule) 14. Act 34 of 2010 — Charities (Amendment) Act 2010 Bill : 29/2010 First Reading : 18 October 2010 Second Reading : 22 November 2010 Notice of Amendments : 22 November 2010 Third Reading : 22 November 2010 Commencement : 1 March 2011 15. Act 2 of 2018 — Charities (Amendment) Act 2018 Bill : 49/2017 First Reading : 6 November 2017 Second and Third Readings : 9 January 2018 Commencement : 1 April 2018 (except sections 10, 12 and 13) 1 March 2019 (sections 12 and 13) 9 June 2020 (section 10) 16. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 458 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 458) 17. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 18 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 18 of the Schedule)
 
-Date of Second and Third Readings : 31 October 1994
+Abbreviations
 
-Date of commencement : 1 January 1995 (except Part VII)
-
-2. 1995 Revised Edition — Charities Act (Chapter 37)
-
-Date of operation : 15 March 1995
-
-3. Act 43 of 1999 — Telecommunications Act 1999 (Consequential amendments made to Act by)
-
-Date of First Reading : 11 October 1999 (Bill No. 33/99 published on 12 October 1999)
-
-Date of Second and Third Readings : 23 November 1999
-
-Date of commencement : 1 December 1999
-
-4. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal) Act 2001
-
-Date of First Reading : 11 July 2001 (Bill No. 24/2001 published on 12 July 2001)
-
-Date of Second and Third Readings : 25 July 2001
-
-Date of commencement : 1 March 2002 (section 3 —
-
-Amendment of Charities Act) 5. Act 5 of 2004 — Companies (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 5 January 2004 (Bill No. 3/2004 published on 6 January 2004)
-
-Date of Second and Third Readings : 6 February 2004
-
-Date of commencement : 1 April 2004 (except section 28 (a) and (c)) 1 October 2004 (section 28 (a) and (c))
-
-6. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006 (sections 5 and 6 — Amendment of Charities Act)
-
-7. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : Financial year ending on any date in 2007 and subsequent financial years (section 2 —
-
-Amendment of Charities Act)
-
-8. Act 10 of 2007 — Charities (Amendment) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 22/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 23 January 2007
-
-Date of commencement : 1 March 2007
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

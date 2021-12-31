@@ -1,24 +1,28 @@
-# 30. Power to authorise dealings with charity property, etc.
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
+# 30. Publicity for proceedings under this Part
+Part: PART 7 APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
 
-(1) Subject to this section, where it appears to the Commissioner that any action proposed or contemplated in the administration of a charity is expedient in the interests of the charity, he may by order sanction that action, whether or not it would otherwise be within the powers exercisable by the charity trustees in the administration of the charity; and anything done under the authority of that order shall be deemed to be properly done in the exercise of those powers.
+(1) The Commissioner must not make any order under this Part to establish a scheme for the administration of a charity unless at least one month previously there has been given public notice of the Commissioner’s proposals, inviting representations to be made to the Commissioner within a time specified in the notice, which must be at least one month from the date of the notice.
 
-(2) An order under this section may be made so as to authorise a particular transaction, compromise or the like, or a particular application of property, or so as to give a more general authority, and (without prejudice to the generality of subsection (1)) may authorise a charity to use common premises, or employ a common staff, or otherwise combine for any purpose of administration, with any other charity.
+(2) The Commissioner must not make any order under this Part to appoint, discharge or remove a governing board member or key officer of a charity or trustee for a charity (other than the Public Trustee), unless at least one month previously there has been given the like public notice as is required by subsection (1) for an order establishing a scheme, but this subsection does not apply in the case of —
 
-(3) An order under this section may give directions as to the manner in which any expenditure is to be borne and as to other matters connected with or arising out of the action thereby authorised; and
+(a) an order under section 23(2)(d); or
 
-where anything is done in pursuance of an authority given by any such order, any directions given in connection therewith shall be binding on the charity trustees for the time being as if contained in the trusts of the charity except that those directions may on the application of the charity be modified or superseded by a further order.
+(b) an order discharging or removing a governing board member or key officer or trustee if the Commissioner is of the opinion that it is unnecessary and not in the interest of the charity to give publicity to the proposal to discharge or remove the governing board member or key officer or trustee.
 
-(4) Without prejudice to the generality of subsection (3), the directions which may be given by an order under this section shall in particular include directions for —
+[34/2010]
 
-(a) meeting any expenditure out of a specified fund;
+(3) Before the Commissioner makes an order under this Part to remove without his or her consent a governing board member of a charity or trustee for a charity, or an officer, agent or employee of a charity, the Commissioner must, unless that person cannot be found or has no known address in Singapore, give him or her at least one month’s notice of the Commissioner’s proposal, inviting representations to be made to the Commissioner within a time specified in the notice.
 
-(b) charging any expenditure to capital or to income;
+[34/2010]
 
-(c) requiring expenditure charged to capital to be recouped out of income within a specified period;
+(4) Where notice is given of any proposal as required by subsection (1), (2) or (3), the Commissioner must take into consideration any representation made about the proposal within the time specified in the notice, and may (without further notice) proceed with the proposal either without modification or with such modification as appears to the Commissioner to be desirable.
 
-(d) restricting the costs to be incurred at the expense of the charity; or
+(5) Where the Commissioner makes an order which is subject to appeal under section 22(5), the order must be published either by giving public notice of it or by giving notice of it to all persons entitled to appeal against it under that subsection, as the Commissioner thinks fit.
 
-(e) the investment of moneys arising from any transaction.
+(6) Where the Commissioner makes an order under this Part to establish a scheme for the administration of a charity, a copy of the order must, for at least one month after the order is published, be available for public inspection at all reasonable times at the office of the Commissioner.
 
-[Charities Act 1985 Ed., s. 17]
+(7) Any notice to be given under this section of any proposals or order must give such particulars of the proposals or order, or such directions for obtaining information about them, as the Commissioner thinks sufficient and appropriate, and any public notice is to be given in the manner the Commissioner thinks sufficient and appropriate.
+
+(8) Any notice to be given under this section, other than a public notice, may be given by post and, if given by post, may be addressed to the recipient’s last known address in Singapore.
+
+[29

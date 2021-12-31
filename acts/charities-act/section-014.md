@@ -1,38 +1,50 @@
-# 14. Annual audit or examination of charity accounts
-Part: PART IV CHARITY ACCOUNTS, REPORTS AND RETURNS
+# 14. Annual reports 1
+Part: PART 5 CHARITY ACCOUNTS, REPORTS AND RETURNS
 
-(1) Subsection (2) shall apply to a financial year of a charity (referred to in this section as the relevant year) if the charity’s gross income or total expenditure in —
+(1) Unless otherwise excepted by regulations made under this Act, the governing board members of a charity must prepare in respect of each financial year of the charity an annual report containing —
 
-(a) the relevant year;
+(a) a prescribed report by the governing board members on the activities of the charity during that year; and
 
-(b) the financial year of the charity immediately preceding the relevant year (if any); or
+(b) any other information relating to the charity or to its governing board members or officers that may be prescribed by regulations made under this Act.
 
-(c) the financial year of the charity immediately preceding the year specified in paragraph (b) (if any), exceeds $250,000 or such other sum as the Minister may by notification prescribe.
+[34/2010]
 
-(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is a public accountant within the meaning of the Companies Act (Cap. 50).
+(2) The annual report required to be prepared under this section in respect of any financial year of a charity that is a registered charity or an exempt charity, must be transmitted to the Commissioner by the governing board members —
 
-[5/2004]
+(a) within 6 months from the end of that year; or
 
-(3) If subsection (2) does not apply to a financial year of a charity, then (subject to subsection (4)) the accounts of the charity for that year shall, at the election of the charity trustees, either —
+(b) within such longer period as the Commissioner may for any special reason allow in the case of that report.
 
-(a) be examined by an independent person who is reasonably believed by the trustees to have the requisite ability and practical experience to carry out a competent examination of the accounts (referred to in this Act as an independent examiner); or
+[34/2010; 2/2018]
 
-(b) be audited by an approved company auditor.
+(3) Subject to subsection (4), every annual report of a registered charity or an exempt charity must have attached to it the financial statements or account and statement prepared for the financial year in question pursuant to section 12(1), together with —
 
-(4) Where it appears to the Commissioner —
+(a) where the accounts of the charity for that year have been audited under section 13, a copy of the report made by the auditor on the financial statements or account and statement, as the case may be; or
 
-(a) that subsection (2) or (3) (as the case may be), has not been complied with in relation to a financial year of a charity within 10 months from the end of that year; or
+(b) where the accounts of the charity for that year have been examined under section 13, a copy of the report made by the independent examiner in respect of the examination carried out by the independent examiner under that section.
 
-(b) that, although subsection (2) is inapplicable to a financial year of a charity, it would nevertheless be desirable for the accounts of the charity for that year to be audited by an approved company auditor, the Commissioner may by order require the accounts of the charity for that year to be audited by a person appointed by the Commissioner.
+[34/2010; 2/2018]
 
-(5) The expenses of any audit carried out by an auditor appointed by the Commissioner under subsection (4), including the auditor’s remuneration, shall be paid —
+(4) Subsection (3) does not apply to a charity which is a company, and any annual report transmitted by the governing board members of such a charity under subsection (2) must have attached to it a copy of the charity’s annual accounts prepared for the financial year in question under Part 6 of the Companies Act 1967, together with a copy of the auditor’s report on those accounts.
 
-(a) by the charity trustees of the charity concerned who shall be personally liable, jointly and severally, for those expenses; or
+[34/2010]
 
-(b) to the extent that it appears to the Commissioner not to be practical to pay those expenses in accordance with paragraph (a), from the funds of the charity.
+(5) Any annual report transmitted to the Commissioner under subsection (2), together with the documents attached to it, must be kept by the Commissioner for such period as he or she may think fit.
 
-(6) The Commissioner may give such directions as he may think appropriate with respect to the carrying out of an examination in pursuance of subsection (3) (a), and any such directions may either be of general application or apply to a particular charity only.
+(6) Subject to subsection (7), the governing board members of a charity must preserve every annual report prepared under this section for a financial year that ends on or after 1 April 2018 in respect of the charity, for at least 5 years after the end of the financial year of the charity to which the report relates.
 
-(7) Nothing in this section shall apply to an exempt charity or a charity which is a company.
+[2/2018]
 
-[UK Charities Act 1993, s. 43]
+(7) Where a charity ceases to exist before the end of the minimum period in subsection (6) for preserving annual reports in respect of the charity —
+
+(a) the last governing board members of the charity; or
+
+(b) any one or more of the last governing board members of the charity, as may be agreed by the last governing board members, must preserve the annual reports to the end of that period, unless the Commissioner allows the annual reports to be earlier destroyed or otherwise disposed of.
+
+[2/2018]
+
+(8) Subsection (7) also applies to a charity that ceases to exist before 1 April 2018, if the minimum period in subsection (6) as it applies to any annual report of the charity has not ended on that date.
+
+[16
+
+[2/2018]

@@ -1,24 +1,42 @@
-# 12. Duty to keep accounting records
-Part: PART IV CHARITY ACCOUNTS, REPORTS AND RETURNS
+# 12. Financial statements
+Part: PART 5 CHARITY ACCOUNTS, REPORTS AND RETURNS
 
-(1) The charity trustees of a charity shall ensure that accounting records are kept in respect of the charity which are sufficient to show and explain all the charity’s transactions, and which are such as to —
+(1) The Minister may make regulations relating to the financial reporting requirements for charities, including provisions —
 
-(a) disclose at any time, with reasonable accuracy, the financial position of the charity at that time; and
+(a) allowing the governing board members of specified classes of charities to prepare a receipts and payments account and a statement of assets and liabilities instead of financial statements in respect of any financial year of the charity;
 
-(b) enable the trustees to ensure that, where any statements of accounts are prepared by them under section 13 (1), those statements of accounts comply with the requirements of regulations made under that section.
+(b) prescribing requirements as to the form and contents of accounts and statements of charities;
 
-(2) The accounting records shall, in particular, contain —
+(c) requiring the accounts and statements of specified classes of charities to be in compliance with all or any of the following:
 
-(a) entries showing from day to day all sums of money received and expended by the charity, and the matters in respect of which the receipt and expenditure takes place; and
+(i) specified accounting standards that are made or formulated by the Accounting Standards Council under Part 3 of the Accounting Standards Act 2007;
 
-(b) a record of the assets and liabilities of the charity.
+(ii) other accounting standards or requirements specified in the regulations;
 
-(3) The charity trustees of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years from the end of the financial year of the charity in which they are made.
+(d) providing for relief from the requirements of such accounting standards applicable to charities;
 
-[2/2007]
+(e) determining the financial years of a charity for the purposes of this Act;
 
-(4) Where a charity ceases to exist within the period of 5 years mentioned in subsection (3) as it applies to any accounting records, the obligation to preserve those records in accordance with that subsection shall continue to be discharged by the last charity trustees of the charity, unless the Commissioner consents in writing to the records being destroyed or otherwise disposed of.
+(f) modifying the application of any provisions in the Companies Act 1967 as to the form and content of a company’s accounts or consolidated accounts being in compliance with the Accounting Standards (as defined in the Companies Act 1967) in respect of a company that is registered as a charity or approved as an institution of a public character under this Act; or
 
-(5) Nothing in this section shall apply to an exempt charity or a charity which is a company.
+(g) providing that any person who is guilty of an offence under any regulations made under paragraph (c) in respect of a charity which is registered as a company under the Companies Act 1967 shall be liable on conviction to the same penalty as that provided under section 204(1) or (3)(a) (as the case may be) of that Act.
 
-[UK Charities Act 1993, s. 41]
+[34/2010; 2/2018]
+
+(2) Subject to subsection (3), the governing board members of a charity must preserve any financial statement or other accounts and statements prepared by them for the purposes of regulations made under this section, for at least 5 years after the end of the financial year to which the financial statement or accounts and statements (as the case may be) relate.
+
+[2/2018]
+
+(3) Where a charity ceases to exist before the end of the minimum period in subsection (2) for preserving financial statements or other accounts and statements in respect of the charity —
+
+(a) the last governing board members of the charity; or
+
+(b) any one or more of the last governing board members of the charity, as may be agreed by the last governing board members, must preserve the financial statements or other accounts and statements to the end of that period, unless the Commissioner allows the financial statements or other accounts and statements (as the case may be) to be earlier destroyed or otherwise disposed of.
+
+[2/2018]
+
+(4) Subsection (3) also applies to a charity that ceases to exist before 1 April 2018, if the minimum period in subsection (2) as it applies to any financial statement or other accounts and statements of the charity has not ended on that date.
+
+[13
+
+[2/2018]

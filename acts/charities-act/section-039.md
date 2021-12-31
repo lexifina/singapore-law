@@ -1,20 +1,14 @@
-# 39. Interpretation of this Part
-Part: PART VIII FUND-RAISING APPEALS
+# 39. Exclusion of judicial review
+Part: PART 8 FUND-RAISING APPEALS
 
-(1) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires —
+(1) There is to be no judicial review in any court of any act done or decision made by the Minister or Commissioner under any regulations made for the purpose of section 36 except in regard to any question relating to compliance with any procedural requirement of the regulations governing that act or decision.
 
-‘‘fund-raising appeal’’ means —
+(2) In this section, “judicial review” includes proceedings instituted by way of —
 
-(a) an appeal, whether made expressly or impliedly, to any member of the public to give money or other property (whether for consideration or otherwise) which is made in association with a representation that the whole or any part of its proceeds is to be applied for charitable, benevolent or philanthropic purposes; or
+(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
 
-(b) a receipt from any member of the public of any money or other property (whether for consideration or otherwise) which is given in whole or in part for any charitable, benevolent or philanthropic purposes;
+(b) an application for a declaration or an injunction; or
 
-‘‘proceeds’’, in relation to a fund-raising appeal, means all money or other property given (whether for consideration or otherwise) in response to the fund-raising appeal in question.
+(c) any other suit or action relating to or arising out of any act done or decision made pursuant to any power conferred upon the Minister or Commissioner by any regulations made for the purpose of section 36.
 
-[10/2007]
-
-(2) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires, any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, is a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law.
-
-[10/2007]
-
-[Charities Act 1995 Ed., s. 39 (4) and (5)]
+[40

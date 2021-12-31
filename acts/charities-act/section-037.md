@@ -1,37 +1,38 @@
-# 37. Right of charitable institution to prevent unauthorised fund-raising
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
-Heading: *PART VII CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
+# 37. Power of Commissioner to prohibit or restrict, or suspend, fund-raising appeal
+Part: PART 8 FUND-RAISING APPEALS
 
-(1) Where on the application of any charitable institution —
+(1) Despite any exemption or permit granted under section 36, the Commissioner may, at any time, by order in the Gazette —
 
-(a) the High Court is satisfied that any person has done or is doing either of the following, namely:
+(a) prohibit or stop the conduct of any fund-raising appeal by any charity or person; or
 
-(i) soliciting money or other property for the benefit of the institution; or
+(b) restrict the conduct of any fund-raising appeal by any charity or person by imposing conditions, if the Commissioner is satisfied —
 
-(ii) representing that charitable contributions are to be given to or applied for the benefit of the institution, and that, unless restrained, he is likely to do further acts of that nature; and
+(c) that any fund-raising appeal conducted by the charity or person has not been conducted in good faith for charitable, benevolent or philanthropic purposes;
 
-(b) the Court is also satisfied as to one or more of the matters specified in subsection (2), then, subject to subsection (3), the Court may grant an injunction restraining the doing of any such acts.
+(d) that any of the persons who have conducted a fund-raising appeal, or any persons associated with any such appeal, are not fit and proper persons to administer, or to be associated with, a fund-raising appeal for charitable, benevolent or philanthropic purposes;
 
-(2) The matters referred to in subsection (1) (b) are —
+(e) that any fund-raising appeal has been improperly administered;
 
-(a) that the person in question is using methods of fund-raising to which the institution objects;
+(f) that, in connection with any fund-raising appeal conducted, the provisions of this Act or the regulations or the conditions imposed by the Commissioner were not complied with by any person conducting or participating in the appeal; or
 
-(b) that that person is not a fit and proper person to raise funds for the institution; and
+(g) that, in the public interest, the fund-raising appeal should not be conducted.
 
-(c) where the conduct complained of is the making of such representations referred to in subsection (1) (a) (ii), that the institution does not wish to be associated with the particular promotional or other fund-raising venture in which that person is engaged.
+[10/2007; 2/2018]
 
-(3) The power to grant an injunction under subsection (1) shall not be exercisable on the application of a charitable institution unless the institution has, not less than 14 days before making the application, served on the person in question a notice in writing —
+(2) Without affecting subsection (1) and despite any exemption or permit granted under section 36, the Commissioner may by order in the Gazette suspend the conduct of any fund-raising appeal if the Commissioner has reason to suspect that the circumstances in paragraph (c), (d), (e), (f) or (g) of subsection (1) apply to the fund-raising appeal.
 
-(a) requesting him to cease immediately soliciting money or other property for the benefit of the institution, or representing that charitable contributions are to be given to or applied for the benefit of the institution, as the case may be; and
+[2/2018]
 
-(b) stating that, if he does not comply with the notice, the institution will make an application under this section for an injunction.
+(3) An order of suspension under subsection (2) must be for a fixed period, but the Commissioner may make one or more further extensions of that order, each for a fixed period.
 
-(4) Where —
+[2/2018]
 
-(a) a charitable institution has served on any person a notice under subsection (3) (referred to in this subsection as the relevant notice) and that person has complied with the notice; but
+(4) The total period of suspension under the order of suspension and every extension under subsection (3) must not exceed 24 months.
 
-(b) that person has subsequently begun to carry on activities which are the same, or substantially the same, as those in respect of which the relevant notice was served, the institution shall not, in connection with an application made by it under this section in respect of the activities carried on by that person, be required by virtue of that subsection to serve a further notice on him, if the application is made not more than 12 months after the date of service of the relevant notice.
+[2/2018]
 
-(5) This section shall not have the effect of authorising a charitable institution to make an application under this section in respect of anything done by a professional fund-raiser or commercial participator in relation to the institution.
+(5) Any person who conducts any fund-raising appeal in contravention of any order made by the Commissioner under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
 
-[UK Charities Act 1992, s. 62]
+[39B
+
+[2/2018]

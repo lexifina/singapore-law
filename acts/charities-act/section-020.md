@@ -1,40 +1,50 @@
-# 20. Power to spend capital
-Part: PART V SMALL CHARITIES
+# 20. Application cy-près of gifts of donors unknown or disclaiming
+Part: PART 7 APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
 
-(1) This section shall apply to a charity if —
+(1) Property given for specific charitable purposes which fail is to be applicable cy-près as if given for charitable purposes generally, where it belongs to a donor who —
 
-(a) it has a permanent endowment which does not consist of or comprise any land; and
+(a) after the prescribed advertisements and inquiries have been published and made, and after the prescribed period beginning with the publication of those advertisements has expired, cannot be identified or cannot be found; or
 
-(b) its gross income in its last financial year did not exceed $5,000, and it is neither an exempt charity nor a charitable company.
+(b) has executed a disclaimer in the prescribed form of the donor’s right to have the property returned.
 
-(2) Where the charity trustees of a charity to which this section applies are of the opinion that the property of the charity is too small, in relation to its purposes, for any useful purpose to be achieved by the expenditure of income alone, they may resolve for the purposes of this section that the charity ought to be freed from the restrictions with respect to expenditure of capital to which its permanent endowment is subject.
+(2) Where the prescribed advertisements and inquiries have been published and made by or on behalf of trustees with respect to any such property, the trustees are not liable to pay to any person in respect of the property if no claim by the person to be interested in the property is received by the trustees before the expiry of the period specified in subsection (1)(a).
 
-(3) Any resolution passed under subsection (2) must be passed by a majority of not less than two-thirds of such charity trustees present and voting on the resolution.
+(3) For the purposes of this section, property is conclusively presumed (without any advertisement or inquiry) to belong to donors who cannot be identified, insofar as it consists of the proceeds of —
 
-(4) Before passing such a resolution, the charity trustees must consider whether any reasonable possibility exists of effecting a transfer or division of all the charity’s property under section 19 (disregarding any such transfer or division as would, in their opinion, impose on the charity an unacceptable burden of costs).
+(a) cash collections made by means of collecting boxes or by other means not adapted for distinguishing one gift from another; or
 
-(5) Where charity trustees have passed a resolution under subsection (2), they shall —
+(b) any lottery, competition, entertainment, sale or similar money-raising activity, after allowing for property given to provide prizes or articles for sale or otherwise to enable the activity to be undertaken.
 
-(a) give public notice of the resolution in such manner as they think reasonable in the circumstances; and
+(4) The General Division of the High Court may by order direct that property not falling within subsection (3) is, for the purposes of this section, to be treated (without any advertisement or inquiry) as belonging to donors who cannot be identified, where it appears to the General Division of the High Court —
 
-(b) send a copy of the resolution to the Commissioner, together with a statement of their reasons for passing it.
+(a) that it would be unreasonable, having regard to the amounts likely to be returned to the donors, to incur expense with a view to returning the property; or
 
-(6) The Commissioner may, when considering the resolution, require the charity trustees to provide additional information or explanation —
+(b) that it would be unreasonable, having regard to the nature, circumstances and amount of the gifts, and to the lapse of time since the gifts were made, for the donors to expect the property to be returned.
 
-(a) as to the circumstances in and by reference to which they have determined to act under this section; or
+[40/2019]
 
-(b) relating to their compliance with this section in connection with the resolution, and the Commissioner shall take into account any representations made to him by persons appearing to him to be interested in the charity where those representations are made within the period of 6 weeks beginning with the date when the Commissioner receives a copy of the resolution by virtue of subsection (5) (b).
+(5) Where property is applied cy-près by virtue of this section, the donor is deemed to have parted with all the donor’s interest at the time when the gift was made; but where property is so applied as belonging to donors who cannot be identified or cannot be found, and is not so applied by virtue of subsection (3) or (4) —
 
-(7) Where the Commissioner has so received a copy of a resolution from any charity trustees and it appears to him that the trustees have complied with this section in connection with the resolution, the Commissioner shall, within the period of 3 months beginning with the date when he receives the copy of the resolution, notify the trustees in writing either —
+(a) the scheme must specify the total amount of that property;
 
-(a) that the Commissioner concurs with the resolution; or
+(b) the donor of any part of that amount is entitled, if the donor makes a claim not later than 6 months after the date on which the scheme is made, to recover from the charity for which the property is applied a sum equal to that part, less any expenses properly incurred by the governing board members of the charity after that date in connection with claims relating to the donor’s gift; and
 
-(b) that he does not concur with it.
+(c) the scheme may include directions as to the provision to be made for meeting any such claim.
 
-(8) Where the Commissioner so notifies his concurrence with the resolution, the charity trustees shall have, as from such date as may be specified in the notification, power by virtue of this section to expend any property of the charity without regard to any such restrictions as are mentioned in subsection (2).
+[34/2010]
 
-(9) The Minister may by order amend subsection (1) (b) by substituting a different sum for the sum for the time being specified therein.
+(6) Where —
 
-(10) A charity shall be deemed for the purposes of this section to have a permanent endowment unless all property held for the purposes of the charity may be expended for those purposes without distinction between capital and income, and in this section ‘‘permanent endowment’’ means, in relation to any charity, property held subject to a restriction on its being expended for the purposes of the charity.
+(a) any sum is, in accordance with any directions in a scheme, set aside for meeting any such claims; but
 
-[UK Charities Act 1993, s. 75]
+(b) the aggregate amount of any such claims actually made exceeds the relevant amount, then if the Commissioner so directs, each of the donors in question is entitled only to such proportion of the relevant amount as the amount of the donor’s claim bears to the aggregate amount referred to in paragraph (b); and for this purpose, “relevant amount” means the amount of the sum so set aside after deduction of any expenses properly incurred by the governing board members of the charity in connection with claims relating to the donors’ gifts.
+
+[34/2010]
+
+(7) For the purposes of this section, charitable purposes are deemed to fail where any difficulty in applying property to those purposes makes that property or the part not applicable cy-près available to be returned to the donors.
+
+(8) In this section, except insofar as the context otherwise requires, references to a donor include persons claiming through or under the original donor, and references to property given include the property for the time being representing the property originally given or property derived from it.
+
+(9) This section applies to property given for charitable purposes, even though it was so given before 1 January 1995.
+
+[22

@@ -1,20 +1,28 @@
-# 24. Concurrent jurisdiction with High Court for certain purposes
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
+# 24. Power to suspend or remove trustees, etc., from membership of charity
+Part: PART 7 APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
 
-(1) Subject to the provisions of this Act, the Commissioner may, with the consent of the Attorney-General, by order exercise the same jurisdiction and powers as are exercisable by the High Court in charity proceedings for the following purposes:
+(1) This section applies where the Commissioner makes an order under section 23 removing or suspending any trustee, governing board member, officer, agent or employee of a charity from his or her office or employment (as the case may be) and the person in question is a member of the charity.
 
-(a) establishing a scheme for the administration of a charity;
+[10/2007; 34/2010]
 
-(b) appointing, discharging or removing a charity trustee or trustee for a charity, or removing an officer or employee; and
+(2) If the order suspends the person in question from his or her office or employment, the Commissioner may also make an order suspending his or her membership of the charity for the period for which he or she is suspended from his or her office or employment.
 
-(c) vesting or transferring property, or requiring or entitling any person to call for or make any transfer of property or any payment.
+[10/2007]
 
-(2) The Commissioner shall not have jurisdiction under this section to try or determine the title to any property as between a charity or trustee for a charity and a person holding or claiming the property or an interest in it adversely to the charity, or to try or determine any question as to the existence or extent of any charge or trust.
+(3) If the order removes the person in question from his or her office or employment, the Commissioner may also make an order —
 
-(3) Before exercising any jurisdiction under this section, the Commissioner shall give notice of his intention to do so to each of the charity trustees except those who cannot be found or who have no known address in Singapore; and the notice may be given by post and, if given by post, may be addressed to the trustee’s last known address in Singapore.
+(a) terminating his or her membership of the charity; and
 
-(4) The Commissioner shall not exercise his jurisdiction under this section in any case (not referred to him by order of the High Court) which, by reason of its contentious character, or of any special question of law or of fact which it may involve, or for other reasons, the Commissioner may consider more fit to be adjudicated on by the High Court.
+(b) prohibiting him or her from resuming his or her membership of the charity for not less than 2 years or such time as the Commissioner may specify.
 
-(5) An appeal against any order of the Commissioner under this section may at any time, within the 3 months beginning with the day following that on which the order is published, be brought in the High Court by the charity or any of the charity trustees, or any person interested in the charity, or by any person removed from any office or employment by the order.
+[10/2007]
 
-[Charities Act 1985 Ed., s. 14]
+(4) Any person who continues in his or her membership of a charity in contravention of an order under subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[10/2007; 2/2018]
+
+(5) This section does not apply to an exempt charity.
+
+[25A
+
+[10/2007]

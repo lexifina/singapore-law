@@ -1,67 +1,70 @@
-# 35. Professional fund-raisers, etc., required to indicate institutions benefiting and arrangements for remuneration
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
-Heading: *PART VII CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
+# 35. Interpretation of this Part
+Part: PART 8 FUND-RAISING APPEALS
 
-(1) Where a professional fund-raiser solicits money or other property for the benefit of one or more particular charitable institutions, the solicitation shall be accompanied by a statement clearly indicating —
+(1) In this Part and any regulations made for the purpose of this Part, unless the context otherwise requires —
 
-(a) the name or names of the institution or institutions concerned;
+“charitable contributions”, in relation to any representation made by any commercial participator or other person, means —
 
-(b) if there is more than one institution concerned, the proportions in which the institutions are respectively to benefit; and
+(a) the whole or part of —
 
-(c) (in general terms) the method by which the fund-raiser’s remuneration in connection with the appeal is to be determined.
+(i) the consideration given for goods or services sold or supplied by the commercial participator or person; or
 
-(2) Where a professional fund-raiser solicits money or other property for charitable, benevolent or philanthropic purposes of any description (rather than for the benefit of one or more particular charitable institutions), the solicitation shall be accompanied by a statement clearly indicating —
+(ii) any proceeds (other than such consideration) of a promotional venture undertaken by the commercial participator or person; or
 
-(a) the fact that he is soliciting money or other property for those purposes and not for the benefit of any particular charitable institution or institutions;
+(b) sums given by the commercial participator or person by way of donation in connection with the sale or supply of any such goods or services (whether the amount of such sums is determined by reference to the value of the goods or services or otherwise);
 
-(b) the method by which it is to be determined how the proceeds of the appeal are to be distributed between different charitable institutions; and
+“charitable institution” means a charity or an institution (other than a charity) which is established for charitable, benevolent or philanthropic purposes;
 
-(c) (in general terms) the method by which the remuneration in connection with the appeal is to be determined.
+“collector”, in relation to a fund-raising appeal, means any person by whom that appeal is made (whether made by the person alone or with others and whether made by the person for remuneration or otherwise);
 
-(3) Where any representation is made by a commercial participator to the effect that charitable contributions are to be given to or applied for the benefit of one or more particular charitable institutions, the representation shall be accompanied by a statement clearly indicating —
+“commercial fund-raiser” means any person who for reward solicits or otherwise procures money or other property for, or purportedly for, the benefit of a charity or any charitable, benevolent or philanthropic purpose;
 
-(a) the name or names of the institution or institutions concerned;
+“commercial participator”, in relation to any charitable institution, means any person who carries on for gain a business other than a fund-raising business, but in the course of that business, engages in any promotional venture in the course of which it is represented that charitable contributions are to be given to or applied for the benefit of the institution;
 
-(b) if there is more than one institution concerned, the proportions in which the institutions are respectively to benefit; and
+“fund-raising appeal” means —
 
-(c) (in general terms) the method by which it is to be determined —
+(a) an appeal by any person, whether made expressly or impliedly, for money or other property (whether as consideration or otherwise) that is made in association with a representation that the whole or any part of the money or property, or proceeds or returns from the money or property, will be applied for any charitable, benevolent or philanthropic purpose; or
 
-(i) what proportion of the consideration given for goods or services sold or supplied by him, or of any other proceeds of a promotional venture undertaken by him, is to be given to or applied for the benefit of the institution or institutions concerned; or
+(b) the receipt by any person of any money or other property (whether as consideration or otherwise) that is given in whole or in part for any charitable, benevolent or philanthropic purpose;
 
-(ii) what sums by way of donations by him in connection with the sale or supply of any such goods or services are to be so given or applied, as the case may require.
+“fund-raising business” means any business carried on for gain and wholly or primarily engaged in soliciting or otherwise procuring money or other property for charitable, benevolent or philanthropic purposes;
 
-(4) If any such solicitation or representation as is mentioned in subsection (1), (2) or (3) is made orally but is not made —
+“proceeds”, in relation to a fund-raising appeal, means all money or other property given (whether for consideration or otherwise) in response to the fund-raising appeal in question;
 
-(a) by speaking directly to the particular person or persons to whom it is addressed and in his or their presence; or
+“promotional venture” means any advertising or sales campaign or any other venture undertaken for promotional purposes;
 
-(b) in the course of any radio or television programme, the professional fund-raiser or commercial participator concerned shall, within 7 days of any payment exceeding the prescribed amount being made to him in response to the solicitation or representation, give to the person making the payment a written statement of the matters specified in subsection (1) (a), (b) and (c).
+“represent” and “solicit” mean, respectively, represent and solicit in any manner, whether expressly or impliedly and whether done —
 
-(5) In subsection (4), the reference to the making of a payment is a reference to the making of a payment of whatever nature and by whatever means, including a payment made by means of a credit card or a debit card; and for the purposes of that subsection —
+(a) by speaking directly to the person or persons to whom the representation or solicitation is addressed (whether or not in the presence of the person or persons); or
 
-(a) where the person making any such payment makes it in person, it shall be regarded as made at the time when it is so made;
+(b) by means of a statement published in any newspaper, film or radio or television programme, or otherwise, and references to a representation or solicitation are to be construed accordingly;
 
-(b) where the person making any such payment sends it by post, it shall be regarded as made at the time when it is posted;
+“services” includes facilities and, in particular —
 
-and
+(a) access to any premises or event;
 
-(c) where the person making any such payment makes it by giving, by telephone or by means of any other telecommunication system, authority for an account to be debited with the payment, it shall be regarded as made at the time when any such authority is given.
+(b) membership of any organisation;
 
-(6) Where any requirement of subsections (1) to (4) is not complied with in relation to any solicitation or representation, the professional fund-raiser or commercial participator concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+(c) the provision of advertising space; and
 
-[10/2007]
+(d) the provision of any financial facilities, and references to the supply of services are to be construed accordingly.
 
-(7) It shall be a defence for a person charged with any offence under subsection (6) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+[34/2010; 2/2018]
 
-(8) Where the commission by any person of an offence under subsection (6) is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
+(2) In this Part and any regulations made for the purpose of this Part —
 
-(9) In this section —
+(a) any reference to charitable purposes, where occurring in the context of a reference to charitable, benevolent or philanthropic purposes, is a reference to charitable purposes whether or not the purposes are charitable within the meaning of any rule of law; and
 
-‘‘appeal’’, in relation to any solicitation by a professional fund-raiser, means the campaign or other fund-raising venture in the course of which the solicitation is made;
+(b) any reference to soliciting or otherwise procuring money or other property is a reference to soliciting or otherwise procuring money or other property whether any consideration is, or is to be, given in return for the money or other property or not.
 
-‘‘prescribed amount’’ means such sum in cash as the Minister may, by notification in the Gazette, prescribe for the purposes of subsection (4);
+[34/2010]
 
-‘‘telecommunication system’’ has the same meaning as in the Telecommunications Act (Cap. 323).
+(3) Where —
 
-[43/99]
+(a) any solicitation of money or other property for the benefit of a charitable institution is made in accordance with arrangements between any person and that institution; and
 
-[UK Charities Act 1992, s. 60]
+(b) under those arrangements, the person will be responsible for receiving on behalf of the institution money or other property given in response to the solicitation, then (if the person would not be so regarded apart from this subsection) that person is regarded for the purposes of this Part as soliciting money or other property for the benefit of the institution.
+
+[39
+
+[34/2010]

@@ -1,42 +1,36 @@
-# 11. Disclosure of information to and by Commissioner
-Part: PART III REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
+# 11. Duty to keep accounting records
+Part: PART 5 CHARITY ACCOUNTS, REPORTS AND RETURNS
 
-(1) Subject to subsection (2) and to any express restriction imposed by or under any other written law, a body or person to whom this section applies may disclose to the Commissioner any information received by that body or person under or for the purposes of any written law, where the disclosure is made by the body or person for the purpose of enabling or assisting the Commissioner to discharge any of his functions.
+(1) Unless otherwise excepted by regulations made under this Act, the governing board members of a charity must ensure that accounting records are kept in respect of the charity which are sufficient to show and explain all the charity’s transactions, and which —
 
-(2) Subsection (1) shall not have effect in relation to the Comptroller of Income Tax; but the Comptroller may disclose to the Commissioner the following information:
+(a) disclose at any time, with reasonable accuracy, the financial position of the charity at that time; and
 
-(a) the name and address of any institution which has for any purpose been treated by the Comptroller as established for charitable purposes;
+(b) enable the governing board members to ensure that, where any financial statements are prepared by them under regulations made under section 12, those financial statements comply with the requirements of those regulations.
 
-(b) information as to the purposes of an institution and the trusts under which it is established or regulated, where the disclosure is made by the Comptroller in order to give or obtain assistance in determining whether the institution ought for any purpose to be treated as established for charitable purposes;
+[34/2010; 2/2018]
 
-and
+(2) The accounting records must, in particular, contain —
 
-(c) information with respect to an institution which has for any purpose been treated as so established but which appears to the Comptroller —
-
-(i) to be, or to have been, carrying on activities which are not charitable; or
-
-(ii) to be, or to have been, applying any of its funds for purposes which are not charitable.
-
-(3) Subject to subsection (4), the Commissioner may disclose to a body or person to whom this section applies any information received by him under or for the purposes of any written law, where the disclosure is made by the Commissioner —
-
-(a) for any purpose connected with the discharge of his functions;
+(a) entries showing from day to day all sums of money received and expended by the charity, and the matters in respect of which the receipt and expenditure takes place;
 
 and
 
-(b) for the purpose of enabling or assisting that body or person to discharge any of its or his functions.
+(b) a record of the assets and liabilities of the charity.
 
-(4) Where any information disclosed to the Commissioner under subsection (1) or (2) is so disclosed subject to any express restriction on the disclosure of the information by the Commissioner, the Commissioner’s power of disclosure under subsection (3) shall, in relation to the information, be exercisable by him subject to any such restriction.
+(3) Subject to subsection (4), the governing board members of a charity must preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years after the end of the financial year of the charity in which they are made.
 
-(5) This section shall apply to the following bodies and persons:
+[34/2010; 2/2018]
 
-(a) any Government department;
+(4) Where a charity ceases to exist before the end of the minimum period in subsection (3) for preserving of accounting records in respect of the charity —
 
-(b) any statutory authority;
+(a) the last governing board members of the charity; or
 
-(c) any police officer; and
+(b) any one or more of the last governing board members of the charity, as may be agreed by the last governing board members, must preserve the accounting records to the end of that period, unless the Commissioner allows the accounting records to be earlier destroyed or otherwise disposed of.
 
-(d) any other body or person discharging functions of a public nature (including a body or person discharging regulatory functions in relation to any description of activities).
+[2/2018]
 
-(6) Nothing in this section shall be construed as affecting any power of disclosure exercisable apart from this section.
+(5) Subsection (4) also applies to a charity that ceases to exist before 1 April 2018, if the minimum period in subsection (3) as it applies to any accounting record of the charity has not ended on that date.
 
-[Charities Act 1985 Ed., s. 10]
+[12
+
+[2/2018]

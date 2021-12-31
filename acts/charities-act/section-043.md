@@ -1,26 +1,14 @@
-# 43. Service of documents
-Part: PART IX MISCELLANEOUS
+# 43. Manner of giving notice of charity meetings, etc.
+Part: PART 10 MISCELLANEOUS
 
-(1) This section shall apply to —
+(1) All notices which are required or authorised by the governing instruments of a charity to be given to a governing board member, member or subscriber may be sent by post, and, if sent by post, may be addressed to any address given as the address of the governing board member, member or subscriber (as the case may be) in the list of governing board members, members or subscribers for the time being in use at the office or principal office of the charity.
 
-(a) any order or direction made or given by the Commissioner under this Act;
+[34/2010]
 
-(b) any notice or other document required or authorised to be given or served under Part VII; and
+(2) Where any such notice required to be given under subsection (1) is given by post, it is deemed to have been given by the time at which the letter containing it would be delivered in the ordinary course of post.
 
-(c) any notice required to be served under any regulations made under this Act.
+(3) No notice required to be given under subsection (1) of any meeting or election need be given to any governing board member, member or subscriber, if in the list of governing board members, members or subscribers, the governing board member, member or subscriber (as the case may be) has no address in Singapore.
 
-(2) A document to which this section applies may be served on or given to a person (other than a body corporate) —
+[41
 
-(a) by delivering it to that person;
-
-(b) by leaving it at his last known address in Singapore; or
-
-(c) by sending it by post to him at that address.
-
-(3) A document to which this section applies may be served on or given to a body corporate by delivering it or sending it by post —
-
-(a) to the registered or principal office of the body corporate in Singapore; or
-
-(b) if it has no such office, to any place in Singapore where it carries on business or conducts its activities, as the case may be.
-
-[UK Charities Act 1993, s. 91]
+[34/2010]

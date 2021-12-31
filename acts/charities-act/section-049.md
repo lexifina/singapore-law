@@ -1,8 +1,8 @@
-# 49. Transitional provisions
-Part: PART IX MISCELLANEOUS
+# 49. Holding out as registered charity or institution of a public character
+Part: PART 10 MISCELLANEOUS
 
-(1) Any document or order made or thing done under any provision of the repealed Charities Act (Cap. 37, 1985 Ed.), and every such document, order or thing so far as it is subsisting or in force on 1st January 1995 shall continue and have effect as if it had been made or done under the corresponding provisions of this Act.
+Where any institution holds itself out to be a registered charity or an institution of a public character when it is not a registered charity or an institution of a public character (as the case may be), the institution and any person acting or purporting to act on behalf of or for the benefit of the institution, unless the person proves that such holding out by the institution was made without the person’s knowledge or consent, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
 
-(2) On 1st January 1995, the Commissioner of Charities, Deputy Commissioner, Assistant Commissioner and other officers appointed under section 3 of the repealed Charities Act shall continue in office and shall be deemed to be appointed under section 3 of this Act.
+[43A
 
-(3) In any written law, any reference to the repealed Charities Act shall be read as a reference to this Act.
+[34/2010]

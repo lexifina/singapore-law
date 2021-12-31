@@ -1,33 +1,32 @@
-# 34. Prohibition on professional fund-raiser, etc., raising funds for charitable institution without agreement in prescribed form
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
-Heading: *PART VII CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
+# 34. Power to relieve governing board members, etc., from personal liability
+Part: PART 7 APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
 
-(1) It shall be unlawful for a professional fund-raiser to solicit money or other property for the benefit of a charitable institution unless he does so in accordance with an agreement with the institution satisfying the prescribed requirements.
+(1) If in any proceedings for negligence, default, breach of duty or breach of trust against a person to whom this section applies, whether appointed by the court or otherwise, it appears to the court before which the proceedings are taken that —
 
-(2) It shall be unlawful for a commercial participator to represent that charitable contributions are to be given to or applied for the benefit of a charitable institution unless he does so in accordance with an agreement with the institution satisfying the prescribed requirements.
+(a) the person is or may be liable in respect thereof; but
 
-(3) Where on the application of a charitable institution, the High Court is satisfied —
+(b) the person has acted honestly and reasonably and, having regard to all the circumstances of the case, the person ought fairly to be excused for the negligence, default or breach, the court may relieve the person either wholly or partly from the person’s liability on such terms as the court thinks fit.
 
-(a) that any person has contravened or is contravening subsection (1) or (2) in relation to the institution; and
+[34/2010]
 
-(b) that, unless restrained, any such contravention is likely to continue or be repeated, the High Court may grant an injunction restraining the contravention;
+(2) Where any person to whom this section applies has reason to apprehend that any claim will or might be made against the person in respect of any negligence, default, breach of duty or breach of trust, the person may apply to the General Division of the High Court for relief, and the General Division of the High Court has the same power to relieve the person as it would have had, under subsection (1), if it had been a court before which proceedings against the person for negligence, default, breach of duty or breach of trust had been brought.
 
-and compliance with subsection (1) or (2) shall not be enforceable otherwise than in accordance with this subsection.
+[34/2010; 40/2019]
 
-(4) Where —
+(3) Without limiting subsection (1), the circumstances of the case referred to in subsection (1) may include the circumstances connected with the appointment of the person.
 
-(a) a charitable institution makes any agreement with a professional fund-raiser or a commercial participator by virtue of which, as the case may be —
+[34/2010]
 
-(i) the professional fund-raiser is authorised to solicit money or other property for the benefit of the institution; or
+(4) To avoid doubt and without limiting subsection (1), “liability” includes the liability of a person to whom this section applies to account for profits made or received.
 
-(ii) the commercial participator is authorised to represent that charitable contributions are to be given to or applied for the benefit of the institution; but
+[34/2010]
 
-(b) the agreement does not satisfy the prescribed requirements in any respect, the agreement shall not be enforceable against the institution except to such extent (if any) as may be provided by an order of the High Court.
+(5) The persons to whom this section applies are —
 
-(5) A professional fund-raiser or commercial participator who is a party to an agreement referred to in subsection (4) (a) shall not be entitled to receive any amount by way of remuneration or expenses in respect of anything done by him in pursuance of the agreement unless he is so entitled under any provision of the agreement, and —
+(a) governing board members or trustees for charities; and
 
-(a) the agreement satisfies the prescribed requirements; or
+(b) receivers and managers in respect of the property and affairs of a charity (whether appointed under this Act or otherwise).
 
-(b) any such provision has effect by virtue of an order of the High Court under subsection (4).
+[32A
 
-[UK Charities Act 1992, s. 59]
+[34/2010]

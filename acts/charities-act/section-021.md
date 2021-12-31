@@ -1,36 +1,28 @@
-# 21. Occasions for applying property cy-près
-Part: PART VI APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
+# 21. Entrusting charity property to Public Trustee and termination of trust
+Part: PART 7 APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY COURT AND COMMISSIONER
 
-(1) Subject to subsection (2), the circumstances in which the original purposes of a charitable gift can be altered to allow the property given or part of it to be applied cy-près shall be as follows:
+(1) The General Division of the High Court may by order vest any property held by or in trust for a charity in the Public Trustee or authorise or require the persons in whom the property is vested to transfer it to the Public Trustee, or appoint any person to transfer the property to the Public Trustee; and the property may be vested in the Public Trustee with or without powers of management as the General Division of the High Court may direct.
 
-(a) where the original purposes, in whole or in part —
+[40/2019]
 
-(i) have been as far as may be fulfilled;
+(2) Where any property is held by or in trust for a charity, or is comprised in any testamentary gift to a charity, the property may, with the agreement of the Public Trustee, be transferred to him or her; and
 
-(ii) cannot be carried out; or
+the Public Trustee’s receipt for the property comprised in a testamentary gift to a charity is a complete discharge of the personal representative.
 
-(iii) cannot be carried out according to the directions given and to the spirit of the gift;
+(3) Where property is vested in the Public Trustee in trust for a charity, the General Division of the High Court may make an order discharging the Public Trustee from the trusteeship as respects all or any of that property.
 
-(b) where the original purposes provide a use for part only of the property available by virtue of the gift;
+[40/2019]
 
-(c) where the property available by virtue of the gift and other property applicable for similar purposes can be more effectively used in conjunction and to that end can suitably, regard being had to the spirit of the gift, be made applicable to common purposes;
+(4) Where the Public Trustee is discharged from his or her trusteeship of any property, or the trusts on which he or she holds any property come to an end, the General Division of the High Court may make such vesting orders and give such directions as may seem to the General Division of the High Court to be necessary or expedient in consequence.
 
-(d) where the original purposes were laid down by reference to an area which then was but has since ceased to be a unit for some other purpose, or by reference to a class of persons or to an area which has for any reason since ceased to be suitable, regard being had to the spirit of the gift, or to be practical in administering the gift; or
+[40/2019]
 
-(e) where the original purposes, in whole or in part, have, since they were laid down —
+(5) No person is —
 
-(i) been adequately provided for by other means;
+(a) liable for any loss occasioned by the person’s acting in conformity with an order under this section or by the person’s giving effect to anything done pursuant to that order; or
 
-(ii) ceased, as being useless or harmful to the community or for other reasons, to be in law charitable; or
+(b) excused from so doing by reason of the order under this section having been in any respect improperly obtained.
 
-(iii) ceased in any other way to provide a suitable and effective method of using the property available by virtue of the gift, regard being had to the spirit of the gift.
+(6) No vesting or transfer of any property pursuant to this section operates as a breach of a covenant or condition against alienation or give rise to a forfeiture.
 
-(2) Subsection (1) shall not affect the conditions which must be satisfied in order that property given for charitable purposes may be applied cy-près, except in so far as those conditions require a failure of the original purposes.
-
-(3) References in subsections (1) and (2) to the original purposes of a gift shall be construed, where the application of the property given has been altered or regulated by a scheme or otherwise, as referring to the purposes for which the property is for the time being applicable.
-
-(4) It is hereby declared that a trust for charitable purposes places a trustee under a duty, where the case permits and requires the property or some part of it to be applied cy-près, to secure its effective use for charity by taking steps to enable it to be so applied.
-
-(5) This section shall apply to property given for charitable purposes, notwithstanding that it was so given before 1st January 1995.
-
-[Charities Act 1985 Ed., s. 11]
+[23
