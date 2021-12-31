@@ -1,9 +1,9 @@
 # 16. Marking standards
-Part: PART III MANUFACTURER’S CODE
+Part: PART 3 MANUFACTURER’S CODE
 
 (1) The Minister may prescribe standards for the marking of manufacturer’s codes on optical discs.
 
-(2) Without limiting the generality of subsection (1), the Minister may —
+(2) Without limiting subsection (1), the Minister may —
 
 (a) prescribe different standards in relation to different classes or descriptions of optical discs;
 

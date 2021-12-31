@@ -1,6 +1,6 @@
 # 12. Register
-Part: PART II LICENSING, ETC.
+Part: PART 2 LICENSING, ETC.
 
-(1) The Registrar shall establish and maintain a register of the licences granted under this Act in such form and manner as he thinks fit.
+(1) The Registrar must establish and maintain a register of the licences granted under this Act in the form and manner that he or she thinks fit.
 
-(2) The Registrar shall make the register available for public inspection subject to such terms or conditions as he considers appropriate.
+(2) The Registrar must make the register available for public inspection subject to any terms or conditions that he or she considers appropriate.

@@ -1,9 +1,9 @@
 # 31. Regulations
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) The Minister may make regulations for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made —
+(2) Without limiting subsection (1), regulations may be made —
 
 (a) to prescribe the forms to be used and the information or documents to be furnished for any of the purposes of this Act;
 

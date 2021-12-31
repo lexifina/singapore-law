@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Sections 2 and 30 (1)
+Sections 2 and 30(1)
 
 MEDIA AND ARTICLES 1. Compact discs (CD), including compact discs-read only memory (CD-ROM).
 
