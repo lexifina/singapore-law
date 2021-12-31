@@ -1,0 +1,3 @@
+# 3. Welfare of infant to be paramount consideration
+
+Where in any proceedings before any court the custody or upbringing of an infant or the administration of any property belonging to or held in trust for an infant or the application of the income thereof is in question, the court, in deciding that question, shall regard the welfare of the infant as the first and paramount consideration and, save insofar as such welfare otherwise requires, the father of an infant shall not be deemed to have any right superior to that of the mother in respect of such custody, administration or application nor shall the mother be deemed to have any claim superior to that of the father.
