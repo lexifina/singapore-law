@@ -1,3 +1,9 @@
-# 28. Power to deal with evidence taken by another officer
+# 28. Liability of licensee for act of servant and partner
 
-Where the Commissioner, or any officer performing the duties or exercising the powers conferred on the Commissioner, has, for the purpose of inquiring into any matter under this Act, taken any evidence or made any memorandum and is prevented by death, transfer or other cause from concluding the inquiry, any successor to the Commissioner or other officer may deal with that evidence or memorandum as if he had taken it down or made it and proceed with the inquiry from the stage at which his predecessor left it.
+Whenever any licensee would be liable under the provisions of this Act to any pecuniary penalty or forfeiture for any act, omission, neglect or default, the licensee shall be liable to the same pecuniary penalty or forfeiture for every similar act, omission, neglect or default, of —
+
+(a) any agent or servant employed by the licensee in the course of the operation of an employment agency in respect of which the licensee holds a licence; or
+
+(b) any of the partners, where the employment agency is a partnership, limited liability partnership or limited partnership.
+
+[21

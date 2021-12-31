@@ -1,27 +1,23 @@
-# 13. Appeals
+# 13. Registration cards
 
-(1) Any person who is aggrieved by a decision of the Commissioner to —
+(1) Upon the registration of an employment agency personnel under section 12, the licensee concerned must issue a registration card to the employment agency personnel in such form as may be prescribed.
 
-(a) refuse to grant or renew a licence under section 7(2);
+(2) Any person who —
 
-(b) debar that person from applying or being granted a licence under section 7(4);
+(a) forges or unlawfully alters a registration card;
 
-(c) suspend or revoke a licence under section 11(1);
+(b) uses or has in that person’s possession any forged or unlawfully altered registration card;
 
-(d) refuse to register an employment agency personnel under section 12A(3); or
+(c) uses a registration card which is not issued to that person;
 
-(e) de-register an employment agency personnel under section 12A(10), may, within 14 days of the date of receipt of the notice of such decision, appeal in writing to the Minister whose decision shall be final.
+or
 
-[5/2011]
+(d) without reasonable excuse, gives or sells any registration card, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) The Minister may, by writing under his hand, delegate all or any of his powers under this section (except this power of delegation) to any public officer.
+(3) Any licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-[5/2011]
+(a) to a fine not exceeding $1,000; and
 
-(3) A delegation under subsection (2) is revocable at will and no delegation shall prevent the exercise of any power under this section by the Minister.
+(b) in respect of a second or subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[5/2011]
-
-(4) A power so delegated, when exercised by the delegate, shall for the purposes of this section be deemed to have been exercised by the Minister.
-
-[5/2011]
+[12B

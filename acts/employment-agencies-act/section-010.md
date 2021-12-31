@@ -1,21 +1,31 @@
-# 10. Period of validity of licence
+# 10. Suspension or revocation of licence
 
-(1) A licence shall continue to be in force for the period specified in the licence unless it is earlier suspended or revoked by the Commissioner, as the case may be.
+(1) The Commissioner may suspend or revoke a licence if he or she is satisfied that the licensee —
 
-[5/2011]
+(a) is contravening or has contravened any of the provisions of this Act;
 
-(2) The holder of a licence who carries on an employment agency, or performs any work or activity referred to in section 6(2), for which the licence is granted, after the validity period specified in the licence shall be guilty of an offence and shall be liable on conviction —
+(b) has failed to comply with any of the conditions of the licence;
 
-(a) to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 2 years or to both; and
+(c) has carried on or is carrying on an employment agency, or has performed or is performing any work or activity mentioned in section 6(2), in a manner likely to be detrimental to the interests of the clients of the licensee;
 
-(b) in the case of a second or subsequent conviction, to a fine not exceeding $160,000 or to imprisonment for a term not exceeding 4 years or to both.
+(d) has ceased to carry on an employment agency or ceased to perform any work or activity mentioned in section 6(2) for which the licensee has been licensed or, if the licensee is a company, goes into liquidation or is wound up or otherwise dissolved;
 
-[5/2011]
+(e) has not carried on an employment agency or performed any work or activity mentioned in section 6(2), for which the licence is granted, for a continuous period of 6 months;
 
-(3) Notwithstanding subsection (2), where the Commissioner has received an application for the renewal of a licence within the prescribed period after the expiry of the licence, he may, in his discretion, renew the licence upon the payment of the prescribed late renewal fee.
+(f) has acted in a manner detrimental to public interest;
 
-[5/2011]
+(g) has committed a criminal offence; or
 
-(4) Where the Commissioner has renewed a licence under subsection (3), the renewal shall take effect from the date immediately after the date on which the licence would have expired had it not been renewed.
+(h) is no longer a fit and proper person to continue to hold the licence.
 
-[5/2011]
+(2) The Commissioner may revoke a licence upon the application for revocation of the licence by the licensee.
+
+(3) When the Commissioner has suspended or revoked a licence under subsection (1), he or she must forthwith inform the licensee concerned by written notice of the suspension or revocation.
+
+(4) An order of suspension or revocation does not take effect until the expiration of 14 days after the order has been served on the licensee.
+
+(5) If within the period stated in subsection (4) the licensee gives due notice of appeal to the Minister, the order of suspension or revocation does not take effect unless the order is confirmed by the Minister or the appeal is withdrawn.
+
+(6) The Commissioner may at any time reinstate a licence which has been suspended.
+
+[11

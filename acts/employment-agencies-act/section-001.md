@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Employment Agencies Act.
+This Act is the Employment Agencies Act 1958.

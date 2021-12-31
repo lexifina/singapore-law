@@ -1,5 +1,0 @@
-# 19E. Power to seize offensive weapons
-
-An employment agency inspector making any arrest may take from the person arrested any offensive weapons which he has about his person.
-
-[5/2011]

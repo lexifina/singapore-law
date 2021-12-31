@@ -1,41 +1,29 @@
-# 11. Suspension or revocation of licence
+# 11. Effect of suspension or revocation of licence
 
-(1) The Commissioner may suspend or revoke a licence if he is satisfied that the licensee —
+(1) Where an order of suspension becomes effective under section 10, the licensee concerned may continue to carry on the employment agency or perform any work or activity mentioned in section 6(2) (as the case may be), except that the licensee must not enter into new recruitment or placement agreements.
 
-(a) is contravening or has contravened any of the provisions of this Act;
+(2) Where an order of revocation becomes effective under section 10, the licensee concerned must immediately cease to carry on the employment agency or perform all work or activity mentioned in section 6(2), as the case may be.
 
-(b) has failed to comply with any of the conditions of the licence;
+(3) Subject to any directions which the Commissioner may give under subsection (4), subsections (1) and (2) do not prejudice the enforcement by any person of any right or claim against the licensee concerned or by the licensee concerned of any right or claim against any person arising out of or concerning any matter or thing done prior to the suspension or revocation of the licence.
 
-(c) has carried on or is carrying on an employment agency, or has performed or is performing any work or activity referred to in section 6(2), in a manner likely to be detrimental to the interests of the clients of the licensee;
+(4) Where an order of suspension or revocation is served on a licensee or where such order becomes effective under section 10, despite any rule of law or agreement to the contrary or any other provision in this section, the licensee concerned must comply with any directions that the Commissioner thinks fit to give which directions may include, but are not limited to, all or any of the following:
 
-(d) has ceased to carry on an employment agency or ceased to perform any work or activity referred to in section 6(2) for which the licensee has been licensed or, if the licensee is a company, goes into liquidation or is wound up or otherwise dissolved;
+(a) to inform, in writing, every applicant for employment and every applicant for workers who uses any service of the licensee of the fact that the licensee has been given the order;
 
-(e) has not carried on an employment agency or performed any work or activity referred to in section 6(2), for which the licence is granted, for a continuous period of 6 months;
+(b) not to collect any deposit or fee from any applicant mentioned in paragraph (a) or any class thereof;
 
-(f) has acted in a manner detrimental to public interest;
+(c) to refund any applicant mentioned in paragraph (a) or any class thereof, within the time specified in the direction, the whole or such part of any deposit or fee received from the applicant as the Commissioner deems equitable;
 
-(g) has committed a criminal offence; or
+(d) to make arrangements so that any applicant mentioned in paragraph (a) or any class thereof will continue to receive the services to be provided by the licensee from another licensee and to notify the applicant or class of applicants (as the case may be) accordingly;
 
-(h) is no longer a fit and proper person to continue to hold the licence.
+(e) not to make any application to the Controller of Work Passes appointed under section 3 of the Employment of Foreign Manpower Act 1990;
 
-[11/84; 5/2011]
+(f) to return the passports or other documents of identity in the possession of the licensee to the persons to whom they belong.
 
-(2) The Commissioner may, in his discretion, revoke a licence upon the application for revocation of the licence by the licensee.
+(5) Any person who, without reasonable excuse, contravenes subsection (1) or (2), or any direction given by the Commissioner under subsection (4), shall be guilty of an offence and shall be liable on conviction —
 
-[5/2011]
+(a) to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(3) When the Commissioner has suspended or revoked a licence under subsection (1), he shall forthwith inform the licensee concerned by notice in writing of the suspension or revocation.
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $160,000 or to imprisonment for a term not exceeding 4 years or to both.
 
-[5/2011]
-
-(4) An order of suspension or revocation shall not take effect until the expiration of 14 days after the order has been served on the licensee.
-
-[5/2011]
-
-(5) If within the period stated in subsection (4) the licensee gives due notice of appeal to the Minister, the order of suspension or revocation shall not take effect unless the order is confirmed by the Minister or the appeal is withdrawn.
-
-[5/2011]
-
-(6) The Commissioner may at any time reinstate a licence which has been suspended.
-
-[5/2011]
+[12

@@ -1,37 +1,39 @@
-# 12. Effect of suspension or revocation of licence
+# 12. Registration of employment agency personnel
 
-(1) Where an order of suspension becomes effective under section 11, the licensee concerned may continue to carry on the employment agency or perform any work or activity referred to in section 6(2), as the case may be, except that he shall not enter into new recruitment or placement agreements.
+(1) Any licensee must, before permitting or authorising any employment agency personnel to perform any specified employment agency work, apply to the Commissioner for the employment agency personnel to be registered as such.
 
-[5/2011]
+(2) Any application under subsection (1) must be in such form as the Commissioner may require, and be accompanied by the prescribed registration fee.
 
-(2) Where an order of revocation becomes effective under section 11, the licensee concerned shall immediately cease to carry on the employment agency or perform all work or activity referred to in section 6(2), as the case may be.
+(3) Upon receiving an application under subsection (1), the Commissioner must consider the application and may grant the application or refuse to grant the application.
 
-[5/2011]
+(4) The Commissioner may, before or after granting the application, require the employment agency personnel to be certified as having attended or successfully completed, to the satisfaction of the Commissioner, such courses as the Commissioner may determine.
 
-(3) Subject to any directions which the Commissioner may give under subsection (4), subsections (1) and (2) shall not prejudice the enforcement by any person of any right or claim against the licensee concerned or by the licensee concerned of any right or claim against any person arising out of or concerning any matter or thing done prior to the suspension or revocation of the licence.
+(5) The Commissioner may, in any particular case if he or she thinks fit, grant the application even though the employment agency personnel has not satisfied the requirements of the Commissioner under subsection (4).
 
-[5/2011]
+(6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(4) Where an order of suspension or revocation is served on a licensee or where such order becomes effective under section 11, notwithstanding any rule of law or agreement to the contrary or any other provision in this section, the licensee concerned shall comply with such directions as the Commissioner thinks fit to give which directions may include, but are not limited to, all or any of the following:
+(7) Any person who performs any specified employment agency work when that person knows or ought reasonably to have known that he or she is not registered in accordance with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(a) to inform, in writing, every applicant for employment and every applicant for workers who uses any service of the licensee of the fact that the licensee has been given the order;
+(8) Where any employment agency personnel of a licensee —
 
-(b) not to collect any deposit or fee from any applicant referred to in paragraph (a) or any class thereof;
+(a) has ceased to be engaged by the licensee; or
 
-(c) to refund any applicant referred to in paragraph (a) or any class thereof, within such time as may be specified in the direction, the whole or such part of any deposit or fee received from the applicant as the Commissioner deems equitable;
+(b) has ceased to perform all specified employment agency work upon the request of the employment agency personnel or the instruction of the licensee, even though the employment agency personnel concerned is still engaged by the licensee, the licensee concerned must, within such time as may be prescribed, apply to the Commissioner, using such form as the Commissioner may require, to deregister the employment agency personnel.
 
-(d) to make arrangements so that any applicant referred to in paragraph (a) or any class thereof will continue to receive the services to be provided by the licensee from another licensee and to notify the applicant or class of applicants, as the case may be, accordingly;
+(9) Upon receiving an application under subsection (8) —
 
-(e) not to make any application to the Controller of Work Passes appointed under section 3 of the Employment of Foreign Manpower Act (Cap. 91A);
+(a) in a case where the application is accompanied by the written consent of the employment agency personnel referred to in that subsection stating that the employment agency personnel wishes to be deregistered, the Commissioner must grant the application for deregistration; or
 
-(f) to return the passports or other documents of identity in the possession of the licensee to the persons to whom they belong.
+(b) in any other case, the Commissioner may grant or refuse to grant the application for deregistration.
 
-[5/2011]
+(10) The Commissioner may, in any particular case if he or she thinks fit, deregister any employment agency personnel.
 
-(5) Any person who, without reasonable excuse, contravenes subsection (1) or (2), or any direction given by the Commissioner under subsection (4), shall be guilty of an offence and shall be liable on conviction —
+(11) Any licensee who contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(a) to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 2 years or to both; and
+(12) A licensee remains liable for any act, omission, neglect or default of a person in relation to any specified employment agency work performed by that person who —
 
-(b) in the case of a second or subsequent conviction, to a fine not exceeding $160,000 or to imprisonment for a term not exceeding 4 years or to both.
+(a) has ceased to be engaged by the licensee to perform such work; and
 
-[5/2011]
+(b) continues to be registered as an employment agency personnel of the licensee, unless the licensee has applied to deregister the person in accordance with subsection (8).
+
+[12A

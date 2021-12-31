@@ -1,9 +1,7 @@
-# 21. Liability of licensee for act of servant and partner
+# 21. Search of persons arrested
 
-Whenever any licensee would be liable under the provisions of this Act to any pecuniary penalty or forfeiture for any act, omission, neglect or default, the licensee shall be liable to the same pecuniary penalty or forfeiture for every similar act, omission, neglect or default, of —
+(1) When a person is arrested, the employment agency inspector making the arrest may search the person and take possession of all articles (other than necessary wearing apparel) found upon the person that the employment agency inspector has reason to believe were connected with the offence for which the person was being arrested.
 
-(a) any agent or servant employed by the licensee in the course of the operation of an employment agency in respect of which the licensee holds a licence; or
+(2) Whenever it is necessary to cause a person to be searched, the search must be made by an employment agency inspector of the same sex as the person, with strict regard to decency.
 
-(b) any of the partners, where the employment agency is a partnership, limited liability partnership or limited partnership.
-
-[5/2011]
+[19C

@@ -1,5 +1,5 @@
-# 26. Employment agency deemed to be public place
+# 26. Complaint by employment agency inspector
 
-For the purposes of section 18 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184), the premises of every employment agency shall be deemed to be a public place.
+For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the complaint in writing and signed by any employment agency inspector, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of that Code.
 
-[5/2011]
+[19H

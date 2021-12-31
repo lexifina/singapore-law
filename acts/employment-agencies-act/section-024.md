@@ -1,5 +1,5 @@
-# 24. Certain offences deemed to be arrestable offences
+# 24. Power on escape to pursue and arrest
 
-Every offence under section 6(4) shall be deemed to be an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+If a person in lawful custody escapes or is rescued, the employment agency inspector from whose custody the person escaped or was rescued may immediately pursue and arrest him or her in any place within Singapore and deal with that person as the employment agency inspector might have done on the original arrest.
 
-[5/2011]
+[19F

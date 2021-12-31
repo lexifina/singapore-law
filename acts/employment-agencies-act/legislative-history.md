@@ -1,43 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY EMPLOYMENT AGENCIES ACT 1958
 
-EMPLOYMENT AGENCIES ACT (CHAPTER 92)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Employment Agencies Act. It is not part of the Act.
+1. Ordinance 47 of 1958 — Employment Agency Ordinance, 1958 Bill : 180/1958 First Reading : 5 November 1958 Second and Third Readings : 4 December 1958 Commencement : 1 January 1959 2. 1970 Revised Edition — Employment Agencies Act (Chapter 244) Operation : 31 July 1971 3. Act 11 of 1984 — Employment Agencies (Amendment) Act 1984 Bill : 4/1984 First Reading : 17 January 1984 Second and Third Readings : 2 March 1984 Commencement : 4 May 1984 4. 1985 Revised Edition — Employment Agencies Act (Chapter 92) Operation : 30 March 1987 5. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 (Amendments made by section 28 read with item (2) of the Schedule to the above Act) Bill : 17/2007 First Reading : 9 April 2007 Second and Third Readings : 22 May 2007 Commencement : 1 July 2007 (section 28 read with item (2) of the Schedule) 6. Act 5 of 2011 — Employment Agencies (Amendment) Act 2011 Bill : 37/2010 First Reading : 22 November 2010 Second and Third Readings : 11 January 2011 Commencement : 1 April 2011 (except section 12) 1 July 2011 (section 12) 7. 2012 Revised Edition — Employment Agencies Act (Chapter 92) Operation : 30 September 2012 8. Act 5 of 2015 — Liquor Control (Supply and Consumption) Act 2015 (Amendments made by section 38(4) of the above Act) Bill : 1/2015 First Reading : 19 January 2015 Second and Third Readings : 30 January 2015 Commencement : 1 April 2015 (section 38(4))
 
-1. Ordinance 47 of 1958 — Employment Agency Ordinance 1958
+Abbreviations
 
-Date of First Reading : 5 November 1958 (Bill No. 180/58 published on 15 November 1958)
-
-Date of Second and Third Readings : 4 December 1958
-
-Date of commencement : 1 January 1959
-
-2. 1970 Revised Edition — Employment Agencies Act (Chapter 244)
-
-Date of operation : 31 December 1970
-
-3. Act 11 of 1984 — Employment Agencies (Amendment) Act 1984
-
-Date of First Reading : 17 January 1984 (Bill No. 4/84 published on 21 January 1984)
-
-Date of Second and Third Readings : 2 March 1984
-
-Date of commencement : 4 May 1984
-
-4. 1985 Revised Edition — Employment Agencies Act (Chapter 92)
-
-Date of operation : 30 March 1987
-
-5. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 9 April 2007 (Bill No. 17/2007 published on 10 April 2007)
-
-Date of Second and Third Readings : 22 May 2007
-
-Date of commencement : 1 July 2007
-
-6. Act 5 of 2011 — Employment Agencies (Amendment) Act 2011
-
-Date of First Reading : 22 November 2010 (Bill No. 37/2010 published on 22 November 2010) Date of Second and Third Readings : 11 January 2011
-
-Dates of commencement : 11 April 2011 (except section 12) 1 July 2011 (section 12)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

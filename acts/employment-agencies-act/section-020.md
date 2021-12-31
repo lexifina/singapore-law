@@ -1,5 +1,17 @@
-# 20. Power to enter and inspect premises
+# 20. No unnecessary restraint
 
-The Commissioner or any employment agency inspector may, subject to any rules made under this Act, at any reasonable time, and without previous notice, enter and inspect any employment agency or any premises reasonably suspected of being used for the purposes of an employment agency, and examine all books, or other documents found in the premises, which may appear to him to be the property of or to have been used for the purposes of an employment agency and remove them for further examination.
+(1) The person arrested must not be subjected to more restraint than is necessary to prevent his or her escape.
 
-[5/2011]
+(2) An employment agency inspector may use handcuffs or any similar means of restraint on a person arrested to prevent him or her from —
+
+(a) inflicting any bodily injury to himself, herself or others;
+
+(b) damaging any property;
+
+(c) creating any disturbance; or
+
+(d) escaping from custody.
+
+(3) The handcuffs or means of restraint must not be used for the purpose of punishment.
+
+[19B
