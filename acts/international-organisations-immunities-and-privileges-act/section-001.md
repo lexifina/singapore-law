@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the International Organisations (Immunities and Privileges) Act.
+This Act is the International Organisations (Immunities and Privileges) Act 1948.
+
+1

@@ -1,53 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY INTERNATIONAL ORGANISATIONS (IMMUNITIES AND PRIVILEGES) ACT 1948
 
-INTERNATIONAL ORGANISATIONS (IMMUNITIES AND PRIVILEGES) ACT (CHAPTER 145)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the International Organisations (Immunities and Privileges) Act. It is not part of the Act.
+1. Ordinance 19 of 1948 — Diplomatic Privileges Ordinance, 1948 Bill : G.N. No. S 163/1948 First Reading : 15 June 1948 Second and Third Readings : 13 July 1948 Commencement : 28 July 1948 2. Ordinance 22 of 1951 — Diplomatic Privileges (Amendment) Ordinance, 1951 Bill : G.N. No. S 123/1951 First Reading : 24 April 1951 Second and Third Readings : 22 May 1951 Commencement : 1 June 1951 3. 1955 Revised Edition — Diplomatic Privileges Ordinance (Chapter 268) Operation : 1 July 1956 4. Ordinance 71 of 1959 — Transfer of Powers Ordinance, 1959 (Amendments made by section 5 read with the Second Schedule to the above Ordinance) Bill : 30/1959 First Reading : 22 September 1959 Second and Third Readings : 11 November 1959 Commencement : 20 November 1959 (section 5 read with the Second Schedule) 5. G.N. No. S (N.S.) 178/1959 — Singapore Constitution (Modification of Laws) (No. 4) Order, 1959 Commencement : 20 November 1959 6. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 7. 1970 Revised Edition — International Organizations (Immunities and Privileges) Act (Chapter 309) Operation : 31 August 1971 Note: The Diplomatic Privileges Ordinance was renamed as the International Organizations (Immunities and Privileges) Act in the 1970 Revised Edition.
 
-1. Ordinance 19 of 1948 — Diplomatic Privileges Ordinance 1948
+8. 1985 Revised Edition — International Organisations (Immunities and Privileges) Act (Chapter 145) Operation : 30 March 1987 9. Act 4 of 2003 — Customs (Amendment) Act 2003 (Amendments made by section 26 read with item (14) of the Schedule to the above Act) Bill : 6/2003 First Reading : 10 March 2003 Second and Third Readings : 21 March 2003 Commencement : 1 April 2003 (section 26 read with item (14)) of the Schedule) 10. 2013 Revised Edition — International Organisations (Immunities and Privileges) Act (Chapter 145) Operation : 31 October 2013 11. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 12 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 12) 12. G.N. No. S 47/2020 — International Organisations (Immunities and Privileges) Act (Amendment of First Schedule) Notification 2020 Commencement : 16 January 2020
 
-Date of First Reading : 15 June 1948 (Bill published on 18 June 1948.
+Abbreviations
 
-No Bill number given)
-
-Date of Second and Third Readings : 13 July 1948
-
-Date of commencement : 28 July 1948
-
-2. Ordinance 22 of 1951 — Diplomatic Privileges (Amendment) Ordinance 1951
-
-Date of First Reading : 24 April 1951 (Bill No. 19/48 published on 27 April 1951)
-
-Date of Second and Third Readings : 22 May 1951
-
-Date of commencement : 1 June 1951
-
-3. Ordinance 71 of 1959 — Transfer of Powers Ordinance 1959
-
-Date of First Reading : 22 September 1959 (Bill No. 30/59 published on 30 September 1959)
-
-Date of Second and Third Readings : 11 November 1959
-
-Date of commencement : 20 November 1959
-
-4. S (N.S.) 178/59 — Singapore Constitution (Modification of Laws) (No. 4) Order 1959
-
-Date of commencement : 20 November 1959
-
-5. S (N.S.) 179/59 — Singapore Constitution (Modification of Laws) (No. 5) Order 1959
-
-Date of commencement : 20 November 1959 6. 1970 Revised Edition — International Organizations (Immunities and Privileges) Act (Chapter 309)
-
-Date of operation : 31 August 1971
-
-7. 1985 Revised Edition — International Organisations (Immunities and Privileges) Act (Chapter 145)
-
-Date of operation : 30 March 1987
-
-8. Act 4 of 2003 — Customs (Amendment) Act 2003
-
-Date of First Reading : 10 March 2003 (Bill No. 6/2003 published on 11 April 2003)
-
-Date of Second and Third Readings : 21 March 2003
-
-Date of commencement : 1 April 2003
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

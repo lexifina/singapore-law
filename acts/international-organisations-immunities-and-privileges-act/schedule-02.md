@@ -1,10 +1,10 @@
-# THE SCHEDULE
+# SECOND SCHEDULE
 
 Section 2(2)
 
 IMMUNITIES AND PRIVILEGES
 
-PART I
+PART 1
 
 IMMUNITIES AND PRIVILEGES OF THE ORGANISATION
 
@@ -20,9 +20,9 @@ IMMUNITIES AND PRIVILEGES OF THE ORGANISATION
 
 6. The right to avail itself, for telegraphic communications sent by it and containing only matter intended for publication by the press or for broadcasting (including communications addressed to, or despatched from, places outside Singapore), of any reduced rates applicable for the corresponding service in the case of press telegrams.
 
-THE SCHEDULE — continued
+SECOND SCHEDULE — continued
 
-PART II
+PART 2
 
 IMMUNITIES AND PRIVILEGES OF REPRESENTATIVES, MEMBERS OF COMMITTEES, HIGH OFFICERS AND PERSONS ON MISSIONS
 
@@ -32,7 +32,7 @@ IMMUNITIES AND PRIVILEGES OF REPRESENTATIVES, MEMBERS OF COMMITTEES, HIGH OFFICE
 
 3. The like exemption or relief from taxes as is accorded to such an envoy.
 
-PART III
+PART 3
 
 IMMUNITIES AND PRIVILEGES OF OTHER OFFICERS AND EMPLOYEES
 
@@ -40,12 +40,12 @@ IMMUNITIES AND PRIVILEGES OF OTHER OFFICERS AND EMPLOYEES
 
 2. Exemption from income tax in respect of emoluments received as an officer or employee of the organisation.
 
-PART IV
+PART 4
 
 IMMUNITIES AND PRIVILEGES OF REPRESENTATIVE’S STAFF AND OF HIGH OFFICER’S FAMILY
 
-1. Where any person is entitled to any such immunities and privileges as are mentioned in Part II of this Schedule as a representative on any organ of the organisation or a member of any committee of the organisation or of an organ thereof, his official staff accompanying him as such a representative or member shall also be entitled to those immunities and privileges to the same extent as the retinue of an envoy of a foreign sovereign Power accredited to the President is entitled to the immunities and privileges accorded to the envoy.
+1. Where any person is entitled to any such immunities and privileges as are mentioned in Part 2 of this Schedule as a representative on any organ of the organisation or a member of any committee of the organisation or of an organ thereof, his official staff accompanying him as such a representative or member shall also be entitled to those immunities and privileges to the same extent as the retinue of an envoy of a foreign sovereign Power accredited to the President is entitled to the immunities and privileges accorded to the envoy.
 
-2. Where any person is entitled to any such immunities and privileges as are mentioned in Part II of this Schedule as an officer of the organisation, that person’s wife or husband and children under the age of 21 years shall also be entitled to those immunities and privileges to the same extent as the wife or husband and children of an envoy of a foreign sovereign Power accredited to the President are entitled to the immunities and privileges accorded to the envoy.
+2. Where any person is entitled to any such immunities and privileges as are mentioned in Part 2 of this Schedule as an officer of the organisation, that person’s wife or husband and children under the age of 21 years shall also be entitled to those immunities and privileges to the same extent as the wife or husband and children of an envoy of a foreign sovereign Power accredited to the President are entitled to the immunities and privileges accorded to the envoy.
 
-[4/2003]
+[16/2016]
