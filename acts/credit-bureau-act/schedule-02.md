@@ -1,0 +1,5 @@
+# SECOND SCHEDULE
+
+Section 5(2)
+
+SPECIFIED PROVISIONS 1. Section 74
