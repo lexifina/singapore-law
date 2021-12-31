@@ -6,34 +6,26 @@
 
 (b) the person to whom the licence has been issued is contravening or has contravened or failed to comply with —
 
-(i) any of the provisions of this Act or any regulations made thereunder;
+(i) any of the provisions of this Act or any regulations made under this Act;
 
-(ii) any term or condition of his licence; or
+(ii) any term or condition of the person’s licence; or
 
-(iii) any direction given to him by the Director or an authorised officer under this Act or any regulations made thereunder;
+(iii) any direction given to the person by the Director or an authorised officer under this Act or any regulations made under this Act;
 
-(c) he is no longer satisfied as to any of the matters specified in section 6 (3);
+(c) the Director is no longer satisfied as to any of the matters specified in section 6(3);
 
 (d) the private hospital, medical clinic, clinical laboratory or healthcare establishment in respect of which the licence was issued has ceased to operate as such; or
 
 (e) it is in the public interest to do so.
 
-[19/99]
+(2) Before suspending or revoking the licence under subsection (1), the Director must —
 
-(2) Before suspending or revoking the licence under subsection (1), the Director shall —
+(a) give to the holder of the licence written notice of the Director’s intention to do so; and
 
-(a) give to the holder of the licence notice in writing of his intention to do so; and
-
-(b) in such notice, call upon the holder of the licence to show cause within such time as may be specified in the notice as to why his licence should not be suspended or revoked.
-
-[19/99]
+(b) in such notice, call upon the holder of the licence to show cause within the time specified in the notice as to why the holder’s licence should not be suspended or revoked.
 
 (3) If the holder of the licence —
 
-(a) fails to show cause within the period of time given to him or such extended period of time as the Director may allow; or
+(a) fails to show cause within the period of time given to the holder of the licence or any extended period of time that the Director allows; or
 
-(b) fails to show sufficient cause, as to why his licence should not be suspended or revoked, the Director shall give notice in writing to the holder of the licence of the date from which the suspension or revocation of his licence is to take effect.
-
-[8
-
-[19/99]
+(b) fails to show sufficient cause, as to why the holder’s licence should not be suspended or revoked, the Director must give written notice to the holder of the licence of the date from which the suspension or revocation of the holder’s licence is to take effect.

@@ -2,7 +2,7 @@
 
 (1) The Minister may make regulations for any purpose for which regulations are required to be made under this Act and generally for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
 (a) the forms, fees and registers for the purposes of this Act;
 
@@ -16,7 +16,7 @@
 
 (f) the ambulances to be provided and maintained by a private hospital;
 
-(g) the minimum standards of accommodation, sanitation, and other amenities in a private hospital, medical clinic or healthcare establishment;
+(g) the minimum standards of accommodation, sanitation and other amenities in a private hospital, medical clinic or healthcare establishment;
 
 (h) the cleanliness and hygiene in a private hospital, medical clinic, clinical laboratory and healthcare establishment;
 
@@ -24,8 +24,6 @@
 
 (j) the management, control, superintendence and care of a private hospital, medical clinic, clinical laboratory and healthcare establishment;
 
-(k) the composition, procedures, duties and responsibilities of quality assurance committees of private hospitals and healthcare establishments.
+(k) the healthcare institutions for which quality assurance committees are required to be established, and the composition, procedures, duties and responsibilities which apply to a quality assurance committee of any healthcare institution or class of healthcare institutions.
 
-[17
-
-[19/99]
+[14/2010]

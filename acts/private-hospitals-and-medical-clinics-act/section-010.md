@@ -4,16 +4,12 @@
 
 (a) the refusal of the Director to issue or renew a licence under section 6; or
 
-(b) the decision of the Director to suspend or revoke a licence under section 9, may, within 21 days of the date of receipt of the notice informing him of such refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
+(b) the decision of the Director to suspend or revoke a licence under section 9, may, within 21 days of the date of receipt of the notice informing the person of the refusal, suspension or revocation (as the case may be) appeal in writing to the Minister whose decision is final.
 
-[19/99]
+(2) Before making a decision under subsection (1), the Minister must refer the matter to an advisory committee consisting of —
 
-(2) Before making a decision under subsection (1), the Minister shall refer the matter to an advisory committee consisting of —
+(a) in the case of an appeal by a medical practitioner relating to his or her medical clinic, 3 members of the Medical Council established under the Medical Registration Act 1997 as the Council may designate; and
 
-(a) in the case of an appeal by a medical practitioner relating to his medical clinic, 3 members of the Medical Council established under the Medical Registration Act (Cap. 174) as the Council may designate; and
+(b) in the case of an appeal by a dentist relating to his or her medical clinic, 3 members of the Singapore Dental Council established under the Dental Registration Act 1999 as the Council may designate, and in making his or her decision, the Minister must have regard to any report made to him or her by the advisory committee.
 
-(b) in the case of an appeal by a dentist relating to his medical clinic, 3 members of the Dental Council established under the Dentists Act 1999 (Act 24 of 1999) as the Council may designate, and in making his decision, the Minister shall have regard to any report made to him by the advisory committee.
-
-[9
-
-[19/99]
+[22/2007]

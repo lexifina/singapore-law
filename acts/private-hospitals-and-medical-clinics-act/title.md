@@ -1,17 +1,20 @@
-PRIVATE HOSPITALS AND MEDICAL CLINICS ACT
-(CHAPTER 248)
-Act
-27 of 1980
-1985 Ed. Cap. 248
-Amended by
-19 of 1999
-REVISED EDITION 1999
-(30th December 1999)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+PRIVATE HOSPITALS AND
+MEDICAL CLINICS ACT 1980
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to provide for the control, licensing and inspection of private hospitals, medical clinics, clinical laboratories and healthcare establishments, to prohibit trading in human blood, and for purposes connected therewith.
+An Act to provide for the control, licensing and inspection of private hospitals, medical clinics, clinical laboratories and healthcare establishments, and for purposes connected therewith.
 
-[1st January 1993]
+[6/2004]
+
+[1 January 1993]
+
+1
