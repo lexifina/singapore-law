@@ -6,6 +6,4 @@
 
 (3) Any person who, bound by an order made under subsection (1), fails to comply with the terms of the order and the directions in the order within a time to be specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-[15/2004]
-
 (4) An order made under subsection (1) shall not affect or prevent a prosecution of, or civil proceedings against, any such officer or member.

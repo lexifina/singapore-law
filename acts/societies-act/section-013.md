@@ -9,5 +9,3 @@
 (a) the officers of the society; and
 
 (b) all persons managing or assisting in the management of the society, shall be deemed to be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding one year or to both.
-
-[15/2004]

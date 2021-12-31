@@ -10,10 +10,8 @@
 
 (ii) in the absence of a direction by the Minister, to the members of the society according to the rules of the society.
 
-[9/2003]
+(2) For the purposes of the winding up of the affairs of the society, the Official Receiver or that other officer shall have all the powers vested in the Official Receiver under the Insolvency, Restructuring and Dissolution Act 2018 for the purpose of the discovery and realisation of the property of a debtor, and the provisions of that Act shall apply, with the necessary modifications, to the winding up of the affairs of the society under this Act.
 
-(1A) For the purposes of the winding up of the affairs of the society, the Official Receiver or that other officer shall have all the powers vested in the Official Receiver under the Companies Act (Cap. 50) for the purpose of the discovery and realisation of the property of a debtor, and the provisions of that Act shall apply, with the necessary modifications, to the winding up of the affairs of the society under this Act.
+[40/2018]
 
-[9/2003]
-
-(2) The Minister may, for the purpose of enabling a society to wind up its own affairs, suspend the operation of this section for such period as to him seems expedient.
+(3) The Minister may, for the purpose of enabling a society to wind up its own affairs, suspend the operation of this section for such period as to him seems expedient.

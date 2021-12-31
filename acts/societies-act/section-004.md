@@ -2,8 +2,6 @@
 
 (1) Subject to this section, the Registrar shall upon application by any society specified in the Schedule (referred to in this Act as a specified society) and on payment of the prescribed fee register the society.
 
-[15/2004]
-
 (2) The Registrar shall refuse to register a specified society if he is satisfied that —
 
 (a) the rules of the specified society are insufficient to provide for its proper management and control;
@@ -15,8 +13,6 @@
 (d) it would be contrary to the national interest for the specified society to be registered; or
 
 (e) in the case of any specified society which is a political association, its rules do not provide for its membership to be confined to citizens of Singapore or it has such affiliation or connection with any organisation outside Singapore as is considered by the Registrar to be contrary to the national interest.
-
-[15/2004]
 
 (3) The Registrar may refuse to register a specified society if —
 
@@ -32,10 +28,6 @@
 
 (iii) is in the opinion of the Registrar undesirable.
 
-[15/2004]
-
 (4) Any person aggrieved by the decision of the Registrar under this section may within 30 days from the date of the decision appeal to the Minister whose decision shall be final.
 
 (5) The Registrar shall, by notification in the Gazette, publish such particulars as he thinks fit in respect of every specified society registered under this section.
-
-[15/2004]

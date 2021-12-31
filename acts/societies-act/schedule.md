@@ -10,6 +10,8 @@ SPECIFIED SOCIETIES
 
 (b) promote any cause or interest of; or
 
+THE SCHEDULE — continued
+
 (c) discuss any issue relating to,
 
 any religion, ethnic group, clan, nationality or a class of persons defined by reference to their gender or sexual orientation.
@@ -34,9 +36,7 @@ any civil or political right (including human rights, environmental rights and a
 
 7. Any society which is formed under the instruction of a foreign government or an organisation affiliated to a foreign government.
 
-THE SCHEDULE — continued
-
-8. Any society which is formed under the instruction of a foreign organisation or is affiliated to a foreign organisation or whose major source of funding is from outside Singapore, but does not include the Rotaract Club, the Rotary Club, the Toastmaster’s Club and the Lions Club.
+8. Any society which is formed under the instruction of a foreign organisation or is affiliated to a foreign organisation or whose major source of funding is from outside Singapore, but does not include the Rotaract Club, the Rotary Club, the Toastmasters Club and the Lions Club.
 
 9. Any alumni of an educational institution that is not established in Singapore.
 
@@ -48,6 +48,28 @@ THE SCHEDULE — continued
 
 (c) has been previously declared in writing by the Minister to be unfit to act as an officer of a society.
 
+THE SCHEDULE — continued
+
 11. Any society whose object, purpose or activity, whether primary or otherwise, is to promote, discuss any issue relating to, or to provide training in any form of pugilistic or martial arts.
 
-[15/2004]
+12. Any society whose object, purpose or activity, whether primary or otherwise, is related to —
+
+(a) the manufacture, cultivating, smoking, administering, consuming, trafficking, importing or exporting of, or any other activity involving (whether directly or indirectly), a controlled drug as defined in section 2 of the Misuse of Drugs Act 1973;
+
+(b) the playing of a game of chance, a game that involves both an element of chance and an element of skill or a game that is presented as involving an element of chance, whether for money or money’s worth;
+
+(c) the making or accepting of a bet, whether for money or money’s worth, on the outcome of a competition, an event or a process;
+
+(d) a game, method, device, scheme or competition by which a prize, whether consisting of money or money’s worth, is distributed or allotted in any manner depending upon or to be determined by chance or lot, whether the game, method, device, scheme or competition is held, drawn, exercised or managed inside or outside Singapore; or
+
+(e) the provision of sexual services for payment or reward.
+
+13. Any society whose object, purpose or activity is to —
+
+(a) commit; or
+
+(b) promote or facilitate the commission of,
+
+an offence under any written law or an act that would constitute an offence under a written law if committed in Singapore.
+
+[S 961/2020]

@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Societies Act.
+This Act is the Societies Act 1966.

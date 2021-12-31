@@ -18,6 +18,6 @@
 
 (h) no society shall be dissolved unless three-fifths of the members so resident as mentioned in paragraph (g) have expressed a wish for such dissolution by their votes delivered in person or by proxy at a general meeting convened for the purpose.
 
-(2) In the event of any dispute arising among the members of the governing body or the members of the society, the adjustment of its affairs shall be referred to the High Court, and the Court shall make such order in the matter as it thinks fit.
+(2) In the event of any dispute arising among the members of the governing body or the members of the society, the adjustment of its affairs shall be referred to the General Division of the High Court, and the General Division of the High Court shall make such order in the matter as it thinks fit.
 
-[16/82]
+[40/2019]

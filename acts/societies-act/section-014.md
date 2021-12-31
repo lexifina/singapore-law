@@ -10,6 +10,4 @@
 
 (3) Any person who is or acts as a member of an unlawful society, or attends a meeting of an unlawful society, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[15/2004]
-
-(4) Every offence under subsection (3) shall be deemed to be a non‑bailable offence and an arrestable case within the meaning of the Criminal Procedure Code (Cap. 68).
+(4) Every offence under subsection (3) shall be deemed to be a non-bailable offence and an arrestable case within the meaning of the Criminal Procedure Code 2010.

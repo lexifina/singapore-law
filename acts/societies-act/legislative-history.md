@@ -1,77 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY SOCIETIES ACT 1966
 
-SOCIETIES ACT (CHAPTER 311)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Societies Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 56 of 1966 — Societies Act 1966
+LEGISLATIVE HISTORY DETAILS PART 1 THE SOCIETIES ORDINANCE 1889 (ORDINANCE I OF 1889) 1. Ordinance XIX of 1869 — Dangerous Societies Suppression Ordinance, 1869 Bill : Information not available First Reading : 14 September 1869 Second Reading : 28 September 1869 Notice of Amendments : 24 November 1869 Third Reading : 24 November 1869 Commencement : 24 November 1869 (passed) 2. Ordinance XVI of 1870 — Dangerous Societies Suppression Continuation Ordinance, 1870 Bill : S.S.G.G. No. 44/1870 First and Second Readings : 29 October 1870 Notice of Amendments : 11 November 1870 Third Reading : 17 November 1870 Commencement : 17 November 1870 (passed) 3. Ordinance Vof 1872 — The Dangerous Societies Suppression Ordinance, 1872 Bill : G.N. No. 147/1872 First Reading : 15 August 1872 Second Reading : 22 August 1872 Commencement : 26 September 1872 (passed) 4. Ordinance IV of 1882 — The Dangerous Societies Ordinance, 1882 Bill : G.N. No. 48/1882 First Reading : 31 January 1882 Second Reading : 16 February 1882 Notice of Amendments : 28 February 1882 Third Reading : 7 March 1882 Commencement : 1 June 1882 5. Ordinance IV of 1885 — The Dangerous Societies Ordinance, 1885 Bill : G.N. No. 119/1885 First Reading : 24 March 1885 Second Reading : 9 April 1885 Notice of Amendments : 23 April 1885 Third Reading : 28 April 1885 Commencement : 28 April 1885 6. Ordinance I of 1889 — The Societies Ordinance 1889 Bill : G.N. No. 723/1888 First Reading : 19 December 1888 Second Reading : 8 February 1889 Notice of Amendments : 14 February 1889 Third Reading : 21 February 1889 Commencement : 1 January 1890 7. Ordinance VII of 1893 — The Societies Ordinance Amending Ordinance 1893 Bill : G.N. No. 322/1893 First Reading : 10 August 1893 Second Reading : 17 August 1893 Third Reading : 23 November 1893 Commencement : 23 November 1893 8. Ordinance X of 1901 — The Societies Ordinance 1889 Amendment Ordinance 1901 Bill : G.N. No. 570/1901 First Reading : 30 April 1901 Second Reading : 4 June 1901 Notice of Amendments : 18 June 1901 Third Reading : 2 July 1901 Commencement : 2 July 1901
 
-Date of First Reading : 5 December 1966 (Bill No. 55/66 published on 6 December 1966)
+PART 2 SOCIETIES ORDINANCE (CHAPTER 228, 1955 REVISED EDITION) 9. Ordinance XX of 1909 — The Societies Ordinance 1909 Bill : G.N. No. 773/1909 First Reading : 16 July 1909 Second Reading : 30 July 1909 Notice of Amendments : 19 November 1909 Third Reading : 26 November 1909 Commencement : 13 December 1909 10. Ordinance XXII of 1911 — The Societies Ordinance 1909 Amendment Ordinance 1911 Bill : G.N. No. 1354/1911 First Reading : 3 November 1911 Second Reading : 10 November 1911 Notice of Amendments : 17 November 1911 Third Reading : 27 November 1911 Commencement : 9 December 1911 11. Ordinance 17 of 1920 — Executive Council (Delegation of Powers) Ordinance, 1920 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : G.N. No. 750/1920 First Reading : 3 May 1920 Second Reading : 31 May 1920 Third Reading : 5 July 1920 Commencement : 19 July 1920 (section 2 read with the Schedule) 12. 1920 Revised Edition — Ordinance No. 116 (Societies) Operation : 28 November 1921 13. Ordinance 26 of 1921 — Statute Laws (Revised Edition) Operation Ordinance, 1921 (Amendments made by section 3(a) read with Schedule C to the above Ordinance) Bill : G.N. No. 1854/1921 First and Second Readings : 22 November 1921 Notice of Amendments : 22 November 1921 Third Reading : 22 November 1921 Commencement : 28 November 1921 (section 3(a) read with Schedule C) 14. Ordinance 25 of 1923 — Criminal Law Amendment Ordinance, 1923 (Amendments made by section 8 of the above Ordinance) Bill : G.N. No. 1862/1923 First and Second Readings : 17 December 1923 Notice of Amendments : 17 December 1923 Third Reading : 17 December 1923 Commencement : 31 December 1923 (section 8) 15. 1926 Revised Edition — Ordinance No. 116 (Societies) Operation : 1 August 1926 16. Ordinance 14 of 1931 — Societies (Amendment) Ordinance, 1931 Bill : G.N. No. 866/1931 First Reading : 11 May 1931 Second Reading : 6 July 1931 Third Reading : 31 August 1931 Commencement : 2 October 1931 17. Ordinance 61 of 1935 — Societies (Amendment) Ordinance, 1935 Bill : G.N. No. 2752/1935 First Reading : 28 October 1935 Second Reading : 20 November 1935 Notice of Amendments : 9 December 1935 Third Reading : 9 December 1935 Commencement : 19 December 1935 18. 1936 Revised Edition — Societies Ordinance (Chapter 217) Operation : 1 September 1936 19. Ordinance 5 of 1940 — Societies (Amendment) Ordinance, 1940 Bill : G.N. No. 3786/1939 First Reading : 11 December 1939 Second and Third Readings : 12 February 1940 Commencement : 28 February 1940 20. Ordinance 23 of 1947 — Societies (Amendment) Ordinance, 1947 Bill : G.N. No. S 154/1947 First and Second Readings : Information not available Third Reading : 29 May 1947 Commencement : 12 June 1947 21. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 76 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 76 of the Schedule) 22. 1955 Revised Edition — Societies Ordinance (Chapter 228) Operation : 1 July 1956 23. Ordinance 9 of 1958 — Societies (Amendment) Ordinance, 1958 Bill : 147/1958 First Reading : 22 April 1958 Second and Third Readings : 11 June 1958 Commencement : 4 July 1958 24. Ordinance 71 of 1959 — Transfer of Powers Ordinance, 1959 (Amendments made by section 4 read with the First Schedule to the above Ordinance) Bill : 30/1959 First Reading : 22 September 1959 Second and Third Readings : 11 November 1959 Commencement : 20 November 1959 (section 4 read with the First Schedule) 25. G.N. No. S (N.S.) 178/1959 — Singapore Constitution (Modification of Laws) (No. 4) Order, 1959 Commencement : 20 November 1959 26. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 27. Ordinance 37 of 1960 — Societies (Amendment) Ordinance, 1960 Bill : 54/1959 First Reading : 29 December 1959 Second Reading : 14 January 1960 Select Committee Report : Sessional Paper No. L.A. 12 of 1960 Third Reading : 16 May 1960 Commencement : 22 July 1960 28. Ordinance 26 of 1963 — Societies (Amendment) Ordinance, 1963 Bill : 15/1963 First Reading : 28 November 1963 Second and Third Readings : 19 December 1963 Commencement : 28 December 1963 PART 3 SOCIETIES ACT 1966 (2020 REVISED EDITION) 29. Act 56 of 1966 — Societies Act, 1966 Bill : 55/1966 First Reading : 5 December 1966 Second and Third Readings : 21 December 1966 Commencement : 27 January 1967 30. 1970 Revised Edition — Societies Act (Chapter 262) Operation : 31 July 1971 31. Act 16 of 1982 — Societies (Amendment) Act, 1982 Bill : 7/1982 First Reading : 25 March 1982 Second and Third Readings : 27 July 1982 Commencement : 10 September 1982 32. 1985 Revised Edition — Societies Act (Chapter 311) Operation : 30 March 1987 33. Act 41 of 2001 — Insurance (Amendment) Act 2001 (Amendments made by section 39 of the above Act) Bill : 35/2001 First Reading : 25 September 2001 Second and Third Readings : 5 October 2001 Commencement : 8 January 2002 (section 39) 34. Act 9 of 2003 — Statutes (Miscellaneous Amendments) Act 2003 (Amendments made by section 14 of the above Act) Bill : 7/2003 First Reading : 20 March 2003 Second and Third Readings : 24 April 2003 Commencement : 16 May 2003 (section 14) 35. Act 15 of 2004 — Societies (Amendment) Act 2004 Bill : 14/2004 First Reading : 19 April 2004 Second and Third Readings : 19 May 2004 Commencement : 1 September 2004 36. Act 5 of 2005 — Limited Liability Partnerships Act 2005 (Amendments made by section 60(1) read with item (13) of the Sixth Schedule to the above Act) Bill : 64/2004 First Reading : 19 October 2004 Second and Third Readings : 25 January 2005 Commencement : 11 April 2005 (section 60(1) read with item (13) of the Sixth Schedule) 37. Act 39 of 2007 — Accounting Standards Act 2007 (Amendments made by section 15 read with item (3) of the Second Schedule to the above Act) Bill : 27/2007 First Reading : 16 July 2007 Second and Third Readings : 27 August 2007 Commencement : 1 November 2007 (section 15 read with item (3) of the Second Schedule) 38. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 98 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 98 of the Sixth Schedule) 39. 2014 Revised Edition — Societies Act (Chapter 311) Operation : 28 February 2014 40. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 515 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 515) 41. G.N. No. S 961/2020 — Societies Act (Amendment of Schedule) Notification 2020 Commencement : 25 November 2020 42. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 151 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 151 of the Schedule)
 
-Date of Second and Third Readings : 21 December 1966
+Abbreviations
 
-Date of commencement : 27 January 1967
-
-Note: The Societies Act 1966 repealed and re-enacted with amendments the Societies Act (Chapter 228, 1955 Revised Edition)
-
-2. 1970 Revised Edition — Societies Act (Chapter 262)
-
-Date of operation : 31 December 1970
-
-3. Act 16 of 1982 — Societies (Amendment) Act 1982
-
-Date of First Reading : 25 March 1982 (Bill No. 7/82 published on 29 March 1982)
-
-Date of Second and Third Readings : 27 March 1982
-
-Date of commencement : 10 September 1982
-
-4. 1985 Revised Edition — Societies Act (Chapter 311)
-
-Date of operation : 30 March 1987
-
-5. Act 41 of 2001 — Insurance (Amendment) Act 2001 (Related amendment made to Act by)
-
-Date of First Reading : 25 September 2001 (Bill No. 35/2001 published on 26 September 2001)
-
-Date of Second and Third Readings : 5 October 2001
-
-Date of commencement : 8 January 2002 6. Act 9 of 2003 — Statutes (Miscellaneous Amendments) Act 2003
-
-Date of First Reading : 20 March 2003 (Bill No. 7/2003 published on 21 March 2003)
-
-Date of Second and Third Readings : 24 April 2003
-
-Date of commencement : 16 May 2003
-
-7. Act 15 of 2004 — Societies (Amendment) Act 2004
-
-Date of First Reading : 19 April 2004 (Bill No. 14/2004 published on 20 August 2004)
-
-Date of Second and Third Readings : 19 May 2004
-
-Date of commencement : 1 September 2004
-
-8. Act 5 of 2005 — Limited Liability Partnerships Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 October 2004 (Bill No. 64/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 25 January 2005
-
-Date of commencement : 11 April 2005
-
-9. Act 39 of 2007 — Accounting Standards Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 16 July 2007 (Bill No. 27/2007 published on 17 July 2007)
-
-Date of Second and Third Readings : 27 August 2007
-
-Date of commencement : 1 November 2007
-
-10. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

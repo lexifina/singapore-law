@@ -20,18 +20,16 @@ In this Act, unless the context otherwise requires —
 
 (b) any company or association constituted under any written law;
 
-(ba) any limited liability partnership registered under the Limited Liability Partnerships Act (Cap. 163A);
+(c) any limited liability partnership registered under the Limited Liability Partnerships Act 2005;
 
-(c) any trade union registered or required to be registered under any written law relating to trade unions for the time being in force in Singapore;
+(d) any trade union registered or required to be registered under any written law relating to trade unions for the time being in force in Singapore;
 
-(d) any co-operative society registered as such under any written law;
+(e) any cooperative society registered as such under any written law;
 
-(e) any mutual benefit organisation registered as such under any written law relating to mutual benefit organisations for the time being in force in Singapore;
+(f) any mutual benefit organisation registered as such under any written law relating to mutual benefit organisations for the time being in force in Singapore;
 
-(f) any company, association or partnership, consisting of not more than 20 persons, formed for the sole purpose of carrying on any lawful business that has for its object the acquisition of gain by the company, association or partnership, or the individual members thereof;
+(g) any company, association or partnership, consisting of not more than 20 persons, formed for the sole purpose of carrying on any lawful business that has for its object the acquisition of gain by the company, association or partnership, or the individual members thereof;
 
-(fa) any class, society or association of foreign insurers carrying on insurance business in Singapore under any foreign insurer scheme established under Part IIA of the Insurance Act (Cap. 142); or
+(h) any class, society or association of foreign insurers carrying on insurance business in Singapore under any foreign insurer scheme established under Part 2A of the Insurance Act 1966; or
 
-(g) any school or management committee of a school constituted under any law regulating schools for the time being in force in Singapore.
-
-[41/2001; 15/2004; 5/2005]
+(i) any school or management committee of a school constituted under any law regulating schools for the time being in force in Singapore.
