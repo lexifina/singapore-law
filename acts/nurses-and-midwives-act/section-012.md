@@ -1,6 +1,14 @@
-# 12. Registrar of Board
-Part: PART III REGISTRATION AND ENROLMENT
+# 12. Registrar
+Part: PART 3 REGISTRATION AND ENROLMENT
 
-(1) The Minister shall appoint a public officer to be the Registrar of the Board.
+(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
+[5/2018]
+
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[5/2018]

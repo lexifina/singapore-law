@@ -1,13 +1,13 @@
 # 44. Power of Board to make regulations
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-(1) The Board may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+(1) The Board may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.
 
-(2) Without prejudice to the generality of subsection (1), such regulations may —
+(2) Without limiting subsection (1), such regulations may —
 
 (a) provide for the duties of the Registrar;
 
-(b) provide for the forms of the Register and Roll and the mode in which they shall be kept;
+(b) provide for the forms of the Register and Roll and the mode in which they must be kept;
 
 (c) regulate the alteration or correction of the Register and Roll;
 
@@ -30,5 +30,3 @@ Part: PART VI MISCELLANEOUS
 (l) provide that any person who contravenes any regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000; and
 
 (m) prescribe such other matters as are necessary or authorised to be prescribed under this Act.
-
-[15/2005]

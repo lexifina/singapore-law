@@ -1,7 +1,7 @@
 # 4. Removal of appointed member from office
-Part: PART II SINGAPORE NURSING BOARD
+Part: PART 2 SINGAPORE NURSING BOARD
 
-The Minister may remove an appointed member from office if he —
+The Minister may remove an appointed member from office if the member —
 
 (a) is an undischarged bankrupt;
 
@@ -9,6 +9,6 @@ The Minister may remove an appointed member from office if he —
 
 (c) has been convicted in Singapore or elsewhere of an offence involving dishonesty, fraud or moral turpitude;
 
-(d) is unable to satisfactorily carry out the duties of his office because of a mental or physical disability; or
+(d) is unable to satisfactorily carry out the duties of his or her office because of a mental or physical disability; or
 
 (e) is absent without leave of the Board from 3 consecutive meetings of the Board or any of its committees.

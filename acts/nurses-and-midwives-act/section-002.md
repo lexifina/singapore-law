@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
@@ -21,13 +21,13 @@ In this Act, unless the context otherwise requires —
 
 “enrolled nurse” means a person who is enrolled as an enrolled nurse, and includes a person who is deemed to be enrolled as an enrolled nurse under section 46(2);
 
-“medical practitioner” means a person registered under the Medical Registration Act (Cap. 174);
+“medical practitioner” means a person registered under the Medical Registration Act 1997;
 
 “member” means a member of the Board;
 
 “practising certificate” means a practising certificate issued by the Board under section 18;
 
-“Register” means the Register of Nurses or Register of Midwives kept under section 13, as the case may be, or both the Register of Nurses and the Register of Midwives;
+“Register” means the Register of Nurses or Register of Midwives kept under section 13 (as the case may be) or both the Register of Nurses and the Register of Midwives;
 
 “registered” means registered under section 14, 15 or 16, and “register”, “registering” and “registration” have corresponding meanings;
 
@@ -35,8 +35,8 @@ In this Act, unless the context otherwise requires —
 
 “registered nurse” means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 46(1);
 
-“Registrar” means the Registrar of the Board appointed under section 12;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
 
 “Roll” means the Roll of Nurses kept under section 13.
 
-[15/2005]
+[5/2018]
