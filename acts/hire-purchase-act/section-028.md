@@ -1,7 +1,7 @@
 # 28. Contents of contracts of insurance
-Part: PART VI INSURANCE
+Part: PART 6 INSURANCE
 
-Every copy of a policy of insurance (not being a policy of third- party insurance) and every statement, served upon a hirer under section 4, shall —
+Every copy of a policy of insurance (not being a policy of third-party insurance) and every statement, served upon a hirer under section 4, shall —
 
 (a) identify the goods or the part of the goods to be insured;
 

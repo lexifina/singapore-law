@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act —
 
@@ -9,13 +9,9 @@ Part: PART I PRELIMINARY
 
 “cash” includes a cheque drawn on a banker;
 
-“certificate of entitlement” means a permit issued by the Registrar of Vehicles under section 10A of the Road Traffic Act (Cap. 276);
+“certificate of entitlement” means a permit issued by the Registrar of Vehicles under section 10A of the Road Traffic Act 1961;
 
-“conditional sale agreement” means an agreement for the sale of goods under which the purchase price or part of it is payable by instalments, and the property in the goods is to remain in the owner (notwithstanding that the hirer is to be in possession of the goods) until such conditions as to the payment of
-
-1 Date of commencement of the Consumer Protection (Fair Trading) (Amendment) Act 2012 (Act 7 of 2012).
-
-instalments or otherwise as may be specified in that agreement are fulfilled;
+“conditional sale agreement” means an agreement for the sale of goods under which the purchase price or part of it is payable by instalments, and the property in the goods is to remain in the owner (notwithstanding that the hirer is to be in possession of the goods) until such conditions as to the payment of instalments or otherwise as may be specified in that agreement are fulfilled;
 
 “court” means a Magistrate’s Court or a District Court;
 
@@ -39,9 +35,9 @@ instalments or otherwise as may be specified in that agreement are fulfilled;
 
 “hirer” means the person who takes or has taken goods from an owner under a hire-purchase agreement or a conditional sale agreement and includes a person to whom the hirer’s rights or liabilities under the agreement have passed by assignment or by operation of law;
 
-“licensed insurer” means an insurer who is for the time being licensed under section 8 of the Insurance Act (Cap. 142);
+“licensed insurer” means an insurer who is for the time being licensed under section 11 of the Insurance Act 1966;
 
-“motor vehicle” means a motor vehicle within the meaning of the Road Traffic Act;
+“motor vehicle” means a motor vehicle within the meaning of the Road Traffic Act 1961;
 
 “owner” means a person by whom goods are bailed to a hirer under a hire-purchase agreement or a conditional sale agreement and includes a person whom the owner’s rights or liabilities under the agreement have passed by assignment or by operation of law;
 
@@ -53,16 +49,8 @@ instalments or otherwise as may be specified in that agreement are fulfilled;
 
 “vehicle registration fees” means any amount to be provided under a hire-purchase agreement or a conditional sale agreement by the owner for payment by or on behalf of the hirer under the provisions of this Act in connection with the registration and use of a motor vehicle, including any amount payable for third-party insurance and for the issue of a certificate of entitlement.
 
-[38/2004; 7/2012; 11/2013]
-
 (2) Where an owner has agreed that any part of the purchase price may be discharged otherwise than by the payment of money, any such discharge shall, for the purposes of this Act, be deemed to be a payment of that part of the purchase price.
-
-[7/2012]
 
 (3) Where, by virtue of 2 or more agreements, none of which by itself constitutes a hire-purchase agreement or a conditional sale agreement, there is a bailment of goods and either the bailee may buy the goods or the property in the goods will or may pass to the bailee, the agreements shall, for the purposes of this Act, be treated as a single hire-purchase agreement or a conditional sale agreement, as the case may be, made at the time when the last agreement was made.
 
-[7/2012]
-
 (4) The court shall have jurisdiction to try any action or proceeding arising out of or in relation to a hire-purchase agreement or a conditional sale agreement to which this Act applies, including an action for an injunction and an action to rescind a contract, notwithstanding that apart from this subsection the court would have no jurisdiction to do so.
-
-[7/2012]

@@ -1,13 +1,9 @@
 # 5. Regulated agreements which are not enforceable
-Part: PART II FORM AND CONTENTS OF REGULATED AGREEMENTS
+Part: PART 2 FORM AND CONTENTS OF REGULATED AGREEMENTS
 
 (1) A regulated agreement that is not in writing shall not be enforceable by the owner.
 
-[7/2012]
-
-(2) An owner shall not be entitled to enforce a regulated agreement or any contract of guarantee relating a regulated agreement or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the regulated agreement or given by a guarantor in respect of money payable under such a contract of guarantee shall be enforceable against the hirer or guarantor by any holder of the security, unless the requirements set out in sections 3(3)(b) to (e) and 4 have been complied with.
-
-[7/2012]
+(2) An owner shall not be entitled to enforce a regulated agreement or any contract of guarantee relating to a regulated agreement or any right to recover the goods from the hirer, and no security given by the hirer in respect of money payable under the regulated agreement or given by a guarantor in respect of money payable under such a contract of guarantee shall be enforceable against the hirer or guarantor by any holder of the security, unless the requirements set out in sections 3(3)(b) to (e) and 4 have been complied with.
 
 (3) Notwithstanding subsection (2), where the court is satisfied that —
 

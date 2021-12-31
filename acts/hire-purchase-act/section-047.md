@@ -1,5 +1,5 @@
 # 47. Size, type, etc., required in certain documents
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
 (1) Any prescribed document or part thereof —
 
@@ -20,8 +20,6 @@ Part: PART VII GENERAL
 and
 
 (e) any notice under section 15(1) or (3).
-
-[7/2012]
 
 (3) Where, by virtue of this section, a prescribed document or part thereof is, for the purposes of this Act, deemed not to be in writing, then, except as is otherwise in this Act expressly provided, the validity or effect of the prescribed document shall not be affected.
 

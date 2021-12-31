@@ -1,5 +1,5 @@
 # 17. Hirer’s rights and immunities when goods repossessed
-Part: PART IV HIRERS Statutory rights of hirers
+Part: PART 4 HIRERS Statutory rights of hirers
 
 (1) Where the owner takes possession of any goods comprised in a regulated agreement —
 
@@ -7,9 +7,7 @@ Part: PART IV HIRERS Statutory rights of hirers
 
 (i) require the owner to redeliver to or to the order of the hirer (subject to compliance by the hirer with section 18) the goods that have been repossessed; or
 
-(ii) require the owner to sell the goods to any person introduced by the hirer who is prepared to buy the goods for cash at a price not less than the estimated value of the goods set out in the first-mentioned notice;
-
-or
+(ii) require the owner to sell the goods to any person introduced by the hirer who is prepared to buy the goods for cash at a price not less than the estimated value of the goods set out in the first-mentioned notice; or
 
 (b) the hirer may recover from the owner —
 
@@ -19,33 +17,23 @@ or
 
 the total of that value and the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement, less the net amount payable.
 
-[38/2004; 7/2012]
-
 (2) Where the owner takes possession of any goods comprised in a regulated agreement, the owner is not entitled to recover any sum (whether under a judgment or order or otherwise) which if added together with —
 
 (a) the value of the goods at the time of the owner so taking possession of the goods; and
 
 (b) the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement, exceeds the net amount payable under the agreement in respect of the goods.
 
-[38/2004; 7/2012]
+(3) For the purposes of this section, the value of any goods at the time of the owner taking possession of the goods is —
 
-(3) For the purposes of this section —
+(a) the best price that could be reasonably obtained by the owner at that time; or
 
-(a) [Deleted by Act 38 of 2004]
+(b) if the hirer has introduced a person who has bought the goods for cash, the amount paid by that person, less —
 
-(b) the value of any goods at the time of the owner taking possession of the goods is —
+(c) the reasonable costs incurred by the owner of and incidental to his taking possession of the goods;
 
-(i) the best price that could be reasonably obtained by the owner at that time; or
+(d) any amount properly expended by the owner on the storage, repair or maintenance of the goods; and
 
-(ii) if the hirer has introduced a person who has bought the goods for cash, the amount paid by that person, less —
-
-(A) the reasonable costs incurred by the owner of and incidental to his taking possession of the goods;
-
-(B) any amount properly expended by the owner on the storage, repair or maintenance of the goods; and
-
-(C) (whether or not the goods have subsequently been sold or disposed of by the owner) the reasonable expenses of selling or otherwise disposing of the goods.
-
-[38/2004]
+(e) (whether or not the goods have subsequently been sold or disposed of by the owner) the reasonable expenses of selling or otherwise disposing of the goods.
 
 (4) Where the owner has sold goods of which he has taken possession, the onus of proving that the price obtained by him for the goods was the best price that could be reasonably obtained by him at the time when he took possession of the goods shall lie upon the owner.
 
@@ -58,8 +46,6 @@ the total of that value and the amount paid or provided, whether by cash or othe
 (ii) signed by the hirer or his advocate and solicitor or agent; and
 
 (b) proceedings for the recovery of the amount so claimed under this section are commenced not later than 3 months after the giving by the hirer to the owner of the notice referred to in paragraph (a).
-
-[38/2004]
 
 (6) If, before the proceedings referred to in subsection (5) are commenced by the hirer, the owner serves an offer in writing on the hirer to pay any amount in satisfaction of the claim by the hirer under this section, the owner, in the proceedings, is entitled to pay into court the amount so offered and, upon so doing, is entitled to the same rights as he would have had if that amount had been tendered to the hirer before the proceedings were commenced.
 

@@ -1,13 +1,9 @@
 # 3. Requirements relating to regulated agreements
-Part: PART II FORM AND CONTENTS OF REGULATED AGREEMENTS
+Part: PART 2 FORM AND CONTENTS OF REGULATED AGREEMENTS
 
 (1) Before a regulated agreement is entered into in respect of any goods, the owner shall give or cause to be given to the prospective hirer a written statement which shall contain the items set out in the Second Schedule.
 
-[38/2004; 7/2012]
-
 (2) Where a regulated agreement is entered into by way of acceptance by the owner of a written offer signed by or on behalf of the hirer, subsection (1) shall be deemed not to have been complied with unless the written statement was given to the prospective hirer before the written offer was signed.
-
-[7/2012]
 
 (3) Every regulated agreement —
 
@@ -41,16 +37,12 @@ Part: PART II FORM AND CONTENTS OF REGULATED AGREEMENTS
 
 (v) any amount (included in the total amount) payable for insurance in respect of the goods or any of them;
 
-(vi) the total of the amounts referred to in sub‑paragraphs (i), (iii), (iv) and (v) less the deposit, if any;
+(vi) the total of the amounts referred to in sub-paragraphs (i), (iii), (iv) and (v) less the deposit, if any;
 
 (vii) the amount of any other charges included in the total amount payable (referred to in this Act and to be described in the agreement as terms charges);
 
-(viii) the total of the amounts referred to in sub‑paragraphs (vi) and (vii) (referred to in this Act as the balance originally payable under the agreement);
+(viii) the total of the amounts referred to in sub-paragraphs (vi) and (vii) (referred to in this Act as the balance originally payable under the agreement);
 
 (ix) the total amount payable; and
 
 (x) any other item set out in the Second Schedule.
-
-[38/2004; 7/2012]
-
-(4) [Deleted by Act 38 of 2004]

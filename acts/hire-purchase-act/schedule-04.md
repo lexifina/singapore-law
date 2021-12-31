@@ -1,14 +1,16 @@
 # FOURTH SCHEDULE
 
-Section 15(1)
+Sections 1(4) and 15(1)
 
 NOTICE OF INTENTION TO REPOSSESS
 
-5
+4
 
 GOODS : ____________________________________________________
 
-Take notice that .........................................................................., owner of the above goods hired by you under an agreement dated the .......... day of .................. 20......., intends to retake possession of the goods after the expiration of 7 business days from the service of this notice unless you pay to the owner at ............................ on or before ....................... 20...... —
+Take notice that .........................................................................., owner of the above goods hired by you under an agreement dated the .......... day of ..................
+
+20......., intends to retake possession of the goods after the expiration of 7 business days from the service of this notice unless you pay to the owner at ............................ on or before ....................... 20...... —
 
 (a) the arrears of instalments at the date of this notice $ ..........
 
@@ -18,7 +20,7 @@ this notice
 
 (c) any other amount owing under the agreement $ ..........; and
 
-5 Insert description of goods.
+4 Insert description of goods.
 
 FOURTH SCHEDULE — continued
 
@@ -31,5 +33,3 @@ Total amount payable $ ..........
 Amount paid or provided by hirer to ......../........../20..... $ ..........
 
 Arrears under the agreement to ........./........./20...... $ ..........
-
-[38/2004]

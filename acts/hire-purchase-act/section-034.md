@@ -1,10 +1,8 @@
 # 34. Provisions relating to securities collateral to regulated agreements
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
 Where —
 
 (a) a bill of exchange or promissory note has been given by a hirer or guarantor under a regulated agreement to the owner in respect of an amount payable under the agreement; and
 
 (b) the payment in due course of the bill of exchange or promissory note would, by virtue of the operation of any provision of this Act or otherwise, result in payment of an amount in excess of the liability of the hirer under the agreement, the owner shall be liable to indemnify the hirer or guarantor, as the case may be, in respect of the amount of the excess.
-
-[7/2012]

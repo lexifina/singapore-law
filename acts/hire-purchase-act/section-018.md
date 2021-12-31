@@ -1,5 +1,5 @@
 # 18. Power of hirer to regain possession of goods in certain circumstances
-Part: PART IV HIRERS Statutory rights of hirers
+Part: PART 4 HIRERS Statutory rights of hirers
 
 (1) If, within 7 business days after giving notice to the owner under section 17(1)(a), the hirer —
 
@@ -9,16 +9,10 @@ Part: PART IV HIRERS Statutory rights of hirers
 
 (c) pays or tenders to the owner the reasonable costs and expenses of the owner of and incidental to his taking possession of the goods and of his returning them to the hirer, the owner shall forthwith return the goods to the hirer.
 
-[38/2004; 7/2012]
-
 (2) The goods shall be received and held by the hirer pursuant to the terms of the regulated agreement as if the breach had not occurred and the owner had not taken possession of the goods.
-
-[7/2012]
 
 (3) Where goods are returned to the hirer under subsection (1) and any breach of the regulated agreement has not been remedied, the owner has no right arising out of the breach to take possession of the goods unless —
 
 (a) by notice in writing given to the hirer at the time of the return of the goods he specifies the breach and requires it to be remedied; and
 
 (b) the hirer fails within 7 business days or within the time specified in the notice (whichever is the longer) after receiving the notice to remedy the breach.
-
-[38/2004; 7/2012]

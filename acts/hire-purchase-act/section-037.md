@@ -1,5 +1,5 @@
 # 37. Fraudulent sale or disposal of goods by hirer
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
 Every person who —
 
@@ -8,5 +8,3 @@ Every person who —
 (b) by the removal of the goods; or
 
 (c) by any other means, defrauds or attempts to defraud the owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[12/75; 38/2004; 7/2012]

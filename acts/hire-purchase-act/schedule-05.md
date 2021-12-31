@@ -1,10 +1,10 @@
 # FIFTH SCHEDULE
 
-Sections 13(3) and 15(3)
+Sections 1(4), 13(2) and 15(3)
 
 NOTICE TO HIRERS AFTER REPOSSESSION OF GOODS
 
-6
+5
 
 GOODS : ____________________________________________________
 
@@ -22,17 +22,17 @@ Cost of storage, repair or maintenance $..........
 
 Cost of repossession $..........
 
-Cost or redelivery $..........
+Cost of redelivery $..........
 
 Total $
 
 or
 
-6 Insert description of goods.
+(b) if, within 7 business days, you give notice to your intention to finalise the agreement and pay the balance due under the agreement and cost of the repossession.
+
+5 Insert description of goods.
 
 FIFTH SCHEDULE — continued
-
-(b) if, within 7 business days, you give notice to your intention to finalise the agreement and pay the balance due under the agreement and cost of the repossession.
 
 The owner’s estimate of the amount required to finalise the agreement is —
 
@@ -52,17 +52,17 @@ Total $
 
 The owner’s estimate of the value of the goods repossessed is $..........
 
-7
+6
 
 On the basis of that estimate you are entitled to a refund of $..........
 
 You are liable to pay the owner $..........
 
-Note.—You may give a written notice to the owner requiring the owner to sell the goods to any cash buyer you can introduce who is willing to
+Note.—You may give a written notice to the owner requiring the owner to sell the goods to any cash buyer you can introduce who is willing to pay
 
-8
+7
 
-pay the owner’s estimate of the value, i.e.,
+the owner’s estimate of the value, i.e.,
 
 Do Not Delay
 
@@ -72,12 +72,8 @@ Note.—Where this notice is sent to a guarantor, it shall be endorsed as follow
 
 4. This notice is sent to you as guarantor of _____________.
 
-7 Delete whichever is inapplicable.
+5. As guarantor you have certain rights under the Hire-Purchase Act 1969 and you are advised to seek advice at once.
 
-8 Insert owner’s estimate of value.
+6 Delete whichever is inapplicable.
 
-FIFTH SCHEDULE — continued
-
-5. As guarantor you have certain rights under the Hire-Purchase Act (Cap. 125) and you are advised to seek advice at once.
-
-[38/2004]
+7 Insert owner’s estimate of value.

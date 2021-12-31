@@ -1,9 +1,7 @@
 # 32. Power of court to reopen certain regulated agreement transactions
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
 (1) In any proceedings under this Act or arising out of a regulated agreement, or instituted under subsection (4), where it appears to the court that the transaction is harsh and unconscionable or is otherwise such that it will be just to give relief the court may reopen the transaction.
-
-[7/2012]
 
 (2) The court reopening any transaction under this section may, notwithstanding any statement or settlement of accounts or any agreement purporting to close previous dealings and create a new obligation —
 
@@ -21,15 +19,11 @@ Part: PART VII GENERAL
 
 (a) add that person as a party to the case;
 
-(b) give judgment against that person for such amount as it thinks fit or for the delivery of the goods if they are in his possession;
-
-and
+(b) give judgment against that person for such amount as it thinks fit or for the delivery of the goods if they are in his possession; and
 
 (c) make such other order in respect of that person as it thinks fit.
 
 (4) Subject to subsection (5), proceedings may be instituted in the court by the hirer or any guarantor under a regulated agreement for the purpose of obtaining relief under this section.
-
-[7/2012]
 
 (5) A hirer or guarantor under a regulated agreement shall not be entitled to institute proceedings under this section —
 
@@ -37,6 +31,6 @@ and
 
 (b) in any other case, after the expiration of a period of 4 months from the time when the transaction is closed.
 
-[7/2012]
+(6) In any proceedings under this section, the court shall have and may exercise all or any of the powers conferred by subsections (1),
 
-(6) In any proceedings under this section, the court shall have and may exercise all or any of the powers conferred by subsections (1), (2) and (3) notwithstanding that the time for the payment of any of the amounts payable under the agreement may not have arrived.
+(2) and (3) notwithstanding that the time for the payment of any of the amounts payable under the agreement may not have arrived.

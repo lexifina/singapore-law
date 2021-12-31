@@ -1,5 +1,5 @@
-# 7. Liability of owner and person acting on his behalf for misrepresentation 1
-Part: PART IV HIRERS Statutory rights of hirers
+# 7. Liability of owner and person acting on his behalf for misrepresentation
+Part: PART 4 HIRERS Statutory rights of hirers
 
 (1) Every representation, warranty or statement made to the hirer or prospective hirer, whether orally or in writing, by the owner or the dealer or any person acting on behalf of the owner or the dealer in connection with or in the course of negotiations leading to the entering into of a regulated agreement shall confer on the hirer —
 
@@ -7,11 +7,7 @@ Part: PART IV HIRERS Statutory rights of hirers
 
 (b) as against the person who made the representation, warranty or statement, and any person on whose behalf the person who made the representation, warranty or statement was acting in making it — the same right of action in damages as the hirer would have had against them or either of them if the hirer had purchased the goods from the person who made the representation, warranty or statement or the person on whose behalf the person who made the representation, warranty or statement was acting in making it (as the case may be) as a result of the negotiations.
 
-[7/2012]
-
-(2) Every convenant, condition or term in any regulated agreement or other document purporting to exclude, limit or modify the operation of subsection (1) or to preclude any right of action or any defence based on or arising out of any such representation, warranty or statement shall be void.
-
-[7/2012]
+(2) Every covenant, condition or term in any regulated agreement or other document purporting to exclude, limit or modify the operation of subsection (1) or to preclude any right of action or any defence based on or arising out of any such representation, warranty or statement shall be void.
 
 (3) Without prejudice to any other rights or remedies to which an owner may be entitled, an owner shall be entitled to be indemnified —
 

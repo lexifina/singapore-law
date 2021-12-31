@@ -1,5 +1,5 @@
 # 21. Guarantor not to be bound in certain cases
-Part: PART V GUARANTORS
+Part: PART 5 GUARANTORS
 
 (1) Where a guarantor of the performance of the obligations of the hirer under a regulated agreement enters into an agreement binding the guarantor —
 
@@ -7,11 +7,9 @@ Part: PART V GUARANTORS
 
 (b) to perform an obligation in respect of goods other than the goods comprised in the regulated agreement, the agreement so entered shall be void unless the agreement is executed by the guarantor in the presence of a solicitor instructed and employed independently of the owner and the solicitor certifies in writing upon the agreement —
 
-(i) that he is satisfied that the guarantor understands the true purport and effect of the agreement; and
+(c) that he is satisfied that the guarantor understands the true purport and effect of the agreement; and
 
-(ii) that the guarantor has executed the agreement in his presence.
-
-[7/2012]
+(d) that the guarantor has executed the agreement in his presence.
 
 (2) A solicitor shall not give a certificate in respect of an agreement under subsection (1) unless —
 

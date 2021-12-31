@@ -1,5 +1,5 @@
 # 45. Service of notices or documents
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
 Any notice or document required or authorised to be served on or given or sent to an owner or hirer or any person under this Act shall be deemed to be duly served or given or sent if it has been —
 

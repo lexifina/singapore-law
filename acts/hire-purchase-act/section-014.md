@@ -1,13 +1,9 @@
 # 14. Power of hirer to terminate hiring Repossession
-Part: PART IV HIRERS Statutory rights of hirers
+Part: PART 4 HIRERS Statutory rights of hirers
 
 (1) The hirer of any goods comprised in a regulated agreement may terminate the hiring by returning the goods to the owner during ordinary business hours at the place at which the owner ordinarily carries on business or to the place specified for that purpose in the agreement.
 
-[7/2012]
-
 (2) Where the nature of the goods comprised in a regulated agreement or the facilities available at the place or places of business of the owner or the place specified in the agreement is or are such that it would be impracticable to return the goods to such a place, the hirer may terminate the hiring by returning the goods to any place agreed to by the parties to the agreement.
-
-[7/2012]
 
 (3) Where the parties fail to agree, the hirer who proposes to return the goods to the owner under this section may, subject to subsection (5), apply to a court for an order fixing the place to which the goods may be returned.
 
@@ -26,7 +22,5 @@ and
 (a) the amount (if any) required to be paid in those circumstances under the agreement; or
 
 (b) the amount (if any) that the owner would have been entitled to recover if he had taken possession of the goods at the date of termination of the hiring, whichever is less.
-
-[7/2012]
 
 Repossession
