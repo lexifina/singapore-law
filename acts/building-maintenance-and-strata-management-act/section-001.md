@@ -1,4 +1,4 @@
-# 1. Short title and commencement
-Part: PART I PRELIMINARY
+# 1. Short title
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Building Maintenance and Strata Management Act and shall come into operation on such date as the Minister may, by notification in the Gazette, appoint.
+This Act is the Building Maintenance and Strata Management Act 2004.

@@ -1,111 +1,17 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BUILDING MAINTENANCE AND STRATA MANAGEMENT ACT 2004
 
-BUILDING MAINTENANCE AND STRATA MANAGEMENT ACT (CHAPTER 30C)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Building Maintenance and Strata Management Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 23 of 1973 — Buildings and Common Property (Maintenance and Management) Act 1973
+LEGISLATIVE HISTORY DETAILS PART 1 BUILDINGS AND COMMON PROPERTY (MAINTENANCE AND MANAGEMENT) ACT (CHAPTER 30, 2000 REVISED EDITION) 1. Act 23 of 1973 — Buildings and Common Property (Maintenance and Management) Act, 1973 Bill : 15/1973 First Reading : 7 March 1973 Second and Third Readings : 20 March 1973 Commencement : 9 June 1973 2. Act 4 of 1976 — Land Titles (Strata) (Amendment) Act, 1976 (Amendments made by section 27 of the above Act) Bill : 32/1975 First Reading : 29 July 1975 Second Reading : 19 August 1975 Select Committee Report : Parl. 1 of 1976 Third Reading : 1 March 1976 Commencement : 15 April 1976 (section 27) 3. Act 26 of 1982 — Buildings and Common Property (Maintenance and Management) (Amendment) Act, 1982 Bill : 17/1982 First Reading : 27 July 1982 Second and Third Readings : 31 August 1982 Commencement : 1 December 1982 4. 1985 Revised Edition — Buildings and Common Property (Maintenance and Management) Act (Chapter 30) Operation : 30 March 1987 5. G.N. No. S 337/1987 — Revised Edition of the Laws (Rectification) Order 1987 Operation : 30 March 1987 6. G.N. No. S 92/1997 — Revised Edition of the Laws (Rectification) Order 1997 Operation : 30 March 1987 7. Act 3 of 1998 — Planning Act 1998 (Amendments made by section 65 read with item (3) of the Second Schedule to the above Act) Bill : 18/1997 First Reading : 19 November 1997 Second Reading : 14 January 1998 Notice of Amendments : 14 January 1998 Third Reading : 14 January 1998 Commencement : 1 April 1998 (section 65 read with item (3) of the Second Schedule) 8. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Amendments made by section 19 read with item (2) of the Schedule to the above Act) Bill : 34/1998 First Reading : 31 July 1998 Second Reading : 12 October 1998 Notice of Amendments : 12 October 1998 Third Reading : 12 October 1998 Commencement : 16 November 1998 (section 19 read with item (2) of the Schedule) 9. 2000 Revised Edition — Buildings and Common Property (Maintenance and Management) Act (Chapter 30) Operation : 1 July 2000
 
-Date of First Reading : 7 March 1973 (Bill No. 15/73 published on 9 March 1973)
+PART 2 BUILDING MAINTENANCE AND STRATA MANAGEMENT ACT 2004 (2020 REVISED EDITION) 10. Act 47 of 2004 — Building Maintenance and Strata Management Act 2004 Bill : 6/2004 First Reading : 6 February 2004 Second Reading : 19 April 2004 Select Committee Report : Parl. 5 of 2004 Third Reading : 19 October 2004 Commencement : 1 April 2005 (except sections 11(2),
 
-Date of Second and Third Readings : 20 March 1973
+(4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule) 11. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 11 of the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 (section 11) 12. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 4 read with item (1) of the Schedule to the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 4 read with item (1) of the Schedule) 13. Act 46 of 2007 — Land Titles (Strata) (Amendment) Act 2007 (Amendments made by section 22 of the above Act) Bill : 32/2007 First Reading : 27 August 2007 Second and Third Readings : 20 September 2007 Commencement : 4 October 2007 (section 22) 14. Act 47 of 2007 — Building Control (Amendment) Act 2007 (Amendments made by section 19 read with item (2) of the Second Schedule to the above Act) Bill : 34/2007 First Reading : 27 August 2007 Second and Third Readings : 20 September 2007 Commencement : 15 February 2008 (section 19 read with item (2) of the Second Schedule) 15. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2008 (Amendments made by section 40 read with item (3) of the Schedule to the above Act) Bill : 50/2007 First Reading : 12 November 2007 Second and Third Readings : 22 January 2008 Commencement : 1 April 2008 (section 40 read with item (3) of the Schedule) 16. 2008 Revised Edition — Building Maintenance and Strata Management Act (Chapter 30C) Operation : 31 July 2008 17. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(6) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(6) of the Second Schedule) 18. Act 13 of 2010 — Land Titles (Strata) (Amendment) Act 2010 (Amendments made by section 11 of the above Act) Bill : 9/2010 First Reading : 26 April 2010 Second and Third Readings : 18 May 2010 Commencement : 15 July 2010 (section 11) 19. Act 8 of 2014 — Land Titles (Amendment) Act 2014 (Amendments made by section 79 of the above Act) Bill : 4/2014 First Reading : 20 January 2014 Second and Third Readings : 17 February 2014 Commencement : 15 August 2014 (section 79) 20. Act 26 of 2014 — Land Acquisition (Amendment) Act 2014 (Amendments made by section 16 read with the Schedule to the above Act) Bill : 20/2014 First Reading : 7 July 2014 Second and Third Readings : 5 August 2014 Commencement : 29 September 2014 (section 16 read with the Schedule) 21. Act 35 of 2017 — Building Maintenance and Strata Management (Amendment) Act 2017 Bill : 29/2017 First Reading : 1 August 2017 Second and Third Readings : 11 September 2017 Commencement : 14 December 2018 (sections 2(d) and
 
-Date of commencement : 9 June 1973
+(f) and 58(a) and (c)) 1 February 2019 (except sections 2(d) and (f), 15, 27(e), 53 and 58(a) and (c)) 22. Act 48 of 2018 — Environmental Public Health (Amendment) Act 2018 (Amendments made by section 14 of the above Act) Bill : 39/2018 First Reading : 10 September 2018 Second and Third Readings : 2 October 2018 Commencement : 1 February 2019 (section 14) 23. Act 33 of 2018 — Small Claims Tribunals (Amendment) Act 2018 (Amendments made by section 23(2) of the above Act) Bill : 23/2018 First Reading : 17 May 2018 Second and Third Readings : 9 July 2018 Commencement : 1 November 2019 (section 23(2)) 24. Act 2 of 2020 — Statutes (Miscellaneous Amendments) Act 2020 (Amendments made by section 2 of the above Act) Bill : 36/2019 First Reading : 4 November 2019 Second Reading : 6 January 2020 Notice of Amendments : 6 January 2020 Third Reading : 6 January 2020 Commencement : 10 February 2020 (section 2) 25. Act 27 of 2019 — Work Injury Compensation Act 2019 (Amendments made by section 83(8)(b) of the above Act) Bill : 21/2019 First Reading : 5 August 2019 Second and Third Readings : 3 September 2019 Commencement : 1 September 2020 (section 83(8)(b)) 26. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 14 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 14 of the Schedule)
 
-2. Act 4 of 1976 — Land Titles (Strata) (Amendment) Act 1976 (Consequential amendments made to Act by)
+Abbreviations
 
-Date of First Reading : 29 July 1975 (Bill No. 32/75 published on 1 August 1975)
-
-Date of Second Reading : 19 August 1975
-
-Date of Third Reading : 1 March 1976
-
-Date of commencement : 15 April 1976
-
-3. Act 26 of 1982 — Buildings and Common Property (Maintenance and Management) (Amendment) Act 1982
-
-Date of First Reading : 27 July 1982 (Bill No. 17/82 published on 4 August 1982)
-
-Date of Second and Third Readings : 31 August 1982
-
-Date of commencement : 1 December 1982
-
-4. 1985 Revised Edition — Buildings and Common Property (Maintenance and Management) Act (Chapter 30)
-
-Date of operation : 30 March 1987 5. Act 3 of 1998 — Planning Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 November 1997 (Bill No. 18/97 published on 20 November 1997)
-
-Date of Second and Third Readings : 14 January 1998
-
-Date of commencement : 1 April 1998
-
-6. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 31 July 1998 (Bill No. 34/98 published on 1 August 1998)
-
-Date of Second and Third Readings : 12 October 1998
-
-Date of commencement : 16 November 1998
-
-7. 2000 Revised Edition — Buildings and Common Property (Maintenance and Management) Act (Chapter 30)
-
-Date of operation : 1 July 2000
-
-8. Act 47 of 2004 — Building Maintenance and Strata Management Act (Chapter 30C)
-
-Date of First Reading : 6 February 2004 (Bill No. 6/2004 published on 7 February 2004)
-
-Date of Second Reading : 19 April 2004
-
-Date Committed to Select Committee : 19 April 2004
-
-Report Presented to Parliament : 7 October 2004 (Parl. 5 of 2004)
-
-Date of Third Reading : 19 October 2004
-
-Date of commencement : 1 April 2005 (except sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b),
-
-(11) and (12)(a) in the Fifth Schedule
-
-Note: The Building Maintenance and Strata Management Act 2004 repealed and re-enacted with amendments the Buildings and Common Property (Maintenance and Management) Act (Chapter 30, 2000 Revised Edition).
-
-9. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006 (section 11 —
-
-Amendment of Building Maintenance and Strata Management Act 2004)
-
-10. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 1 March 2007 (item (1) of the Schedule — Amendment of Building Maintenance and Strata Management Act 2004)
-
-11. Act 46 of 2007 — Land Titles (Strata) (Amendment) Act 2007 (Related amendments made to Act by)
-
-Date of First Reading : 27 August 2007 (Bill No. 32/2007 published on 28 August 2007)
-
-Date of Second and Third Readings : 20 September 2007
-
-Date of commencement : 4 October 2007
-
-12. Act 47 of 2007 — Building Control (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 27 August 2007 (Bill No. 34/2007 published on 28 August 2007)
-
-Date of Second and Third Readings : 20 September 2007
-
-Date of commencement : 15 February 2008 13. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 12 November 2007 (Bill No. 50/2007 published on 13 November 2007)
-
-Date of Second and Third Readings : 22 January 2008
-
-Date of commencement : 1 April 2008
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

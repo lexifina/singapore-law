@@ -1,5 +1,5 @@
 # 116. Board’s power to dismiss certain applications
-Part: PART VI DISPUTES AND STRATA TITLES BOARDS Division 1 — Strata Titles Boards
+Part: PART 6 DISPUTES AND STRATA TITLES BOARDS Division 1 — Strata Titles Boards
 Division: Division 3 — Miscellaneous
 
 A Board may dismiss an application under this Part if —
@@ -13,5 +13,3 @@ A Board may dismiss an application under this Part if —
 (d) in the case of an application made by any subsidiary proprietor of a lot, the applicant has not paid all contributions levied and payable in relation to the lot under this Act; or
 
 (e) the Board believes that the case is suitable for mediation but the mediation is pending at the time of application.
-
-2008 Ed. Strata Management CAP. 30C 133

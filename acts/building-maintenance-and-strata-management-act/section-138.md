@@ -1,7 +1,6 @@
-# 138. Consequential amendments to Land Titles (Strata) Act
-Part: PART VII STAGED DEVELOPMENTS
-Heading: 6 CAP. 30C Strata Management 2008 Ed. PART VIII GENERAL
+# 138. Saving and transitional provisions due to amendments to Land Titles (Strata) Act (Cap. 158, 1999 Revised Edition)
+Part: PART 8 GENERAL
 
-(1) The provisions of the Land Titles (Strata) Act (Cap. 158) specified in the first column of the Third Schedule are amended in the manner set out in the second column thereof.
+(1) [Omitted as having had effect]
 
-(2) The transitional and savings provisions contained in Part II of the Fourth Schedule to this Act shall have effect.
+(2) The saving and transitional provisions contained in Part 2 of the Fourth Schedule (Provisions due to amendments to Land Titles (Strata) Act (Cap. 158, 1999 Revised Edition)) have effect.

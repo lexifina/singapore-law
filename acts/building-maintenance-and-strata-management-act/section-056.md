@@ -1,8 +1,8 @@
 # 56. Duties of secretary of council
-Part: PART IV DEALINGS IN STRATA SUBDIVIDED BUILDINGS
+Part: PART 5 MANAGEMENT OF STRATA SUBDIVIDED BUILDINGS Division 1 — Management by owner developer before management corporation constituted
 Division: Division 3 — Councils
 
-The duties of the secretary of the council of a management corporation shall include the following:
+The duties of the secretary of the council of a management corporation include the following:
 
 (a) to prepare and distribute minutes of meetings of the management corporation and submit a motion for confirmation of the minutes of any meeting of the management corporation at the next such meeting;
 
@@ -14,10 +14,6 @@ The duties of the secretary of the council of a management corporation shall inc
 
 (e) to answer communications addressed to the management corporation;
 
-(f) to convene meetings of the council and (apart from its first annual general meeting) of the management corporation; and
+(f) to convene meetings of the council and (apart from its first annual general meeting) of the management corporation;
 
 (g) to attend to matters of an administrative or secretarial nature in connection with the exercise, by the management corporation or the council, of its functions.
-
-[LT(S)A, 1st Sch. Para 4]
-
-86 CAP. 30C Strata Management 2008 Ed.

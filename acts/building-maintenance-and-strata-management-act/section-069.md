@@ -1,12 +1,10 @@
 # 69. Interpretation of this Division
-Part: PART IV DEALINGS IN STRATA SUBDIVIDED BUILDINGS
+Part: PART 5 MANAGEMENT OF STRATA SUBDIVIDED BUILDINGS Division 1 — Management by owner developer before management corporation constituted
 Division: Division 6 — Insurance
 
 In this Division, unless the context otherwise requires —
 
-‘‘damage policy’’, in relation to a subdivided building, means a contract of insurance providing, in the event of the subdivided building being destroyed or damaged by fire, 2008 Ed. Strata Management CAP. 30C 99
-
-lightning, explosion or any other occurrence specified in the policy —
+“damage policy”, in relation to a subdivided building, means a contract of insurance providing, in the event of the subdivided building being destroyed or damaged by fire, lightning, explosion or any other occurrence specified in the policy —
 
 (a) for —
 
@@ -16,18 +14,16 @@ lightning, explosion or any other occurrence specified in the policy —
 
 (b) for the payment of expenses incurred in the removal of debris and the remuneration of architects and other persons whose services are necessary as an incident to the rebuilding, replacement, repair or restoration;
 
-‘‘subdivided building’’ includes —
+“subdivided building” includes —
 
 (a) subsidiary proprietors’ improvements and subsidiary proprietors’ fixtures forming part of the subdivided building other than paint, wallpaper and temporary wall, floor and ceiling coverings;
 
-(b) a building consisting entirely of common property; and
+(b) a building consisting entirely of common property;
+
+and
 
 (c) anything prescribed as forming part of a building for the purposes of this definition, but does not include —
 
-(i) fixtures removable by a lessee at the expiration of a tenancy; or
+(d) fixtures removable by a lessee at the expiry of a tenancy; or
 
-(ii) anything prescribed as not forming part of a subdivided building for the purposes of this definition.
-
-[LT(S)A, s. 70]
-
-100 CAP. 30C Strata Management 2008 Ed.
+(e) anything prescribed as not forming part of a subdivided building for the purposes of this definition.
