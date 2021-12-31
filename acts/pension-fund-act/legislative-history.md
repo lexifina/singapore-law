@@ -1,83 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PENSION FUND ACT 1995
 
-PENSION FUND ACT (CHAPTER 224A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Pension Fund Act. It is not part of the Act.
+1. Act 8 of 1995 — Pension Fund Act 1995 Bill : 2/1995 First Reading : 23 January 1995 Second and Third Readings : 1 March 1995 Commencement : 1 April 1995 2. 1996 Revised Edition — Pension Fund Act (Chapter 224A) Operation : 30 April 1996 3. Act 12 of 1998 — Singapore Armed Forces (Amendment) Act 1998 (Amendments made by section 5 of the above Act) Bill : 10/1998 First Reading : 19 February 1998 Second and Third Readings : 20 March 1998 Commencement : 1 April 1998 (section 5) 4. Act 10 of 2000 — Singapore Armed Forces (Amendment) Act 2000 (Amendments made by section 14 of the above Act) Bill : 2/2000 First Reading : 17 January 2000 Second and Third Readings : 22 February 2000 Commencement : 31 March 2000 (section 14) 5. Act 33 of 2001 — Home Affairs Uniformed Services Superannuation Act 2001 (Amendments made by section 25 of the above Act) Bill : 31/2001 First Reading : 25 July 2001 Second and Third Readings : 13 August 2001 Commencement : 1 October 2001 (section 25) 6. Act 29 of 2002 — Prevention of Corruption (Amendment) Act 2002 (Amendments made by section 6 of the above Act) Bill : 29/2002 First Reading : 1 October 2002 Second and Third Readings : 31 October 2002 Commencement : 30 January 2003 (section 6) 7. Act 43 of 2004 — Singapore Armed Forces (Amendment No. 2) Act 2004 (Amendments made by section 4 of the above Act) Bill : 45/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 1 December 2004 (section 4) 8. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2008 (Amendments made by section 40 read with item (13) of the Schedule to the above Act) Bill : 50/2007 First Reading : 12 November 2007 Second and Third Readings : 22 January 2008 Commencement : 1 April 2008 (section 40 read with item (13) of the Schedule) 9. Act 21 of 2012 — Parliamentary Pensions (Abolition) Act 2012 (Amendments made by sections 6(2) and 8(2) of the above Act) Bill : 18/2012 First Reading : 13 August 2012 Second and Third Readings : 10 September 2012 Commencement : 21 May 2011 (section 6(2)) 10. Act 20 of 2012 — Civil List and Pension (Amendment) Act 2012 (Amendments made by section 8 of the above Act) Bill : 17/2012 First Reading : 13 August 2012 Second and Third Readings : 10 September 2012 Commencement : 25 September 2014 (section 8) 11. 2014 Revised Edition — Pension Fund Act (Chapter 224A) Operation : 31 October 2014 12. Act 27 of 2019 — Work Injury Compensation Act 2019 (Amendments made by section 83(8)(h) of the above Act) Bill : 21/2019 First Reading : 5 August 2019 Second and Third Readings : 3 September 2019 Commencement : 1 September 2020 (section 83(8)(h)) 13. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 26(2) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 26(2))
 
-1. Act 8 of 1995 — Pension Fund Act 1995
+Abbreviations
 
-Date of First Reading : 23 January 1995 (Bill No. 2/95)
-
-Date of Second and Third Readings : 1 March 1995
-
-Date of commencement : 1 April 1995
-
-2. 1996 Revised Edition — Pension Fund Act (Chapter 224A)
-
-Date of operation : 30 April 1996
-
-3. Act 12 of 1998 — Singapore Armed Forces (Amendment) Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 February 1998 (Bill No. 10/98)
-
-Date of Second and Third Readings : 20 March 1998
-
-Date of commencement : 1 April 1998 (section 5 —
-
-amendment of Pension Fund Act)
-
-4. Act 10 of 2000 — Singapore Armed Forces (Amendment) Act 2000 (Consequential amendments made to Act by)
-
-Date of First Reading : 17 January 2000 (Bill No. 2/2000)
-
-Date of Second and Third Readings : 22 February 2000
-
-Date of commencement : 31 March 2000 (section 14 —
-
-amendment of Pension Fund Act)
-
-5. Act 33 of 2001 — Home Affairs Uniformed Services Superannuation Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 July 2001 (Bill No. 31/2001)
-
-Date of Second and Third Readings : 13 August 2001 Date of commencement : 1 October 2001 (section 25 —
-
-amendment of Pension Fund Act)
-
-6. Act 29 of 2002 — Prevention of Corruption (Amendment) Act 2002 (Related amendments made to Act by)
-
-Date of First Reading : 1 October 2002 (Bill No. 29/2002)
-
-Date of Second and Third Readings : 31 October 2002
-
-Date of commencement : 30 January 2003 (section 6 —
-
-amendment of Pension Fund Act)
-
-7. Act 43 of 2004 — Singapore Armed Forces (Amendment No. 2) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 45/2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 1 December 2004 (section 4 —
-
-amendment of Pension Fund Act)
-
-8. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 12 November 2007 (Bill No. 50/2007)
-
-Date of Second and Third Readings : 22 January 2008
-
-Date of commencement : 1 April 2008 (item (13) of the Schedule — amendment of Pension Fund Act)
-
-9. Act 20 of 2012 — Civil List and Pension (Amendment) Act 2012 (Consequential amendments made to Act by)
-
-Date of First Reading : 13 August 2012 (Bill No. 17/2012)
-
-Date of Second and Third Readings : 10 September 2012
-
-Date of commencement : 25 September 2014 (section 8 —
-
-amendment of Pension Fund Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

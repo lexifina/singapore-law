@@ -1,4 +1,4 @@
 # 1. Short title
 Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Pension Fund Act.
+This Act is the Pension Fund Act 1995.
