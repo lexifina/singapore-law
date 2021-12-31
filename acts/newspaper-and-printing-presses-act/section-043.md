@@ -1,10 +1,10 @@
 # 43. Payment of fees, etc.
-Part: PART V GENERAL
+Part: PART 5 GENERAL
 
-All fees, composition fines and other moneys collected under this Act shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
+(1) Subject to subsection (2), all fees and other moneys collected under this Act must be paid to the Info-communications Media Development Authority established by section 3 of the Info-communications Media Development Authority Act 2016.
 
-[33B
+[22/2016]
 
-[34/2002]
+(2) All sums collected under section 42 for the composition of an offence under this Act must be paid into the Consolidated Fund.
 
-*Section 43 (formerly section 33B, 1991 Ed.) was not in operation as at 10th December 2002.
+[22/2016]

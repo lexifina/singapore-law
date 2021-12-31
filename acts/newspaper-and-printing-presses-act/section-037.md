@@ -1,6 +1,6 @@
-# 37. Sanction for prosecution
-Part: PART V GENERAL
+# 37. Consent for prosecution
+Part: PART 5 GENERAL
 
-No prosecution shall be instituted under this Act without the previous sanction in writing of the Attorney-General or the Solicitor-General.
+No prosecution may be instituted under this Act without the consent of the Public Prosecutor.
 
-[29
+[15/2010]

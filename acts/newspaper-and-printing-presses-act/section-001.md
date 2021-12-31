@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Newspaper and Printing Presses Act.
+This Act is the Newspaper and Printing Presses Act 1974.

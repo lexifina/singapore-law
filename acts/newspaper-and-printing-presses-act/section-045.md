@@ -1,5 +1,5 @@
 # 45. Rules
-Part: PART V GENERAL
+Part: PART 5 GENERAL
 
 The Minister may make rules —
 
@@ -8,7 +8,3 @@ The Minister may make rules —
 (b) for prescribing the forms for permits and licences to be used under this Act; and
 
 (c) generally for carrying into effect the provisions of this Act.
-
-[36
-
-[6/77]
