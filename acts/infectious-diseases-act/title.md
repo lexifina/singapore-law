@@ -1,36 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-INFECTIOUS DISEASES ACT
-(CHAPTER 137)
-Act
-21 of 1976
-Amended by
-16 of 1980
-S 24/78
-S 61/81
-S 98/85
-S 195/85
-S 196/85
-1985 Ed. Cap. 137 1999 Ed. Cap. 137
-Amended by Amended by
-5 of 1992 46 of 1999
-7 of 1996 5 of 2001
-13 of 1999 26 of 2001
-S 119/90 4 of 2002
-S 403/98 5 of 2003
-7 of 2003
-S 397/2000
-S 396/2001
-S 127/2003
-REVISED EDITION 2003
-(31st July 2003)
+INFECTIOUS DISEASES ACT 1976
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to quarantine and the prevention of infectious diseases.
 
-[1st August 1977]
+[1 August 1977]

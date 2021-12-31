@@ -1,14 +1,18 @@
 # 8. Medical examination and treatment
-Part: PART III CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
+Part: PART 3 CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
-(1) The Director may require any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination or medical treatment at such times and at such hospital or other place as the Director may determine.
+(1) The Director may require any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination or medical treatment within or at such time, and at such place, as the Director may determine.
 
-[7/2003]
+[10/2008]
 
-(2) If any person fails to comply with the requirements of the Director under this section —
+(2) For the purpose of subsection (1), the medical examination may include X-rays and the taking of the person’s blood and other body samples for testing and analysis.
 
-(a) that person shall be guilty of an offence; and
+[10/2008]
 
-(b) the Director may order the removal of that person to any hospital or other place where the person may be detained and (if necessary) isolated until he has been medically examined or treated.
+(3) Where the person who is, or is suspected to be, a case or carrier or contact of an infectious disease is a minor, the Director may require the parent or guardian of the minor to have the minor medically examined or treated at such times and at such hospital or other place as the Director may determine.
 
-[5/2003; 7/2003]
+[10/2008]
+
+(4) Any person who, without reasonable excuse, fails to comply with the requirement of the Director under this section shall be guilty of an offence.
+
+[10/2008]

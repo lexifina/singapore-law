@@ -1,6 +1,4 @@
 # 70. Amendment of Schedules
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-The appropriate Minister may, from time to time, by notification in the Gazette, amend any of the Schedules.
-
-[69
+The appropriate Minister may, by notification in the Gazette, amend any of the Schedules.

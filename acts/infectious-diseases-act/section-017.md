@@ -1,13 +1,13 @@
 # 17. Isolation area
-Part: PART III CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
+Part: PART 3 CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
-(1) The Minister may, for the purpose of preventing the outbreak or spread of an infectious disease, by notification in the Gazette declare any premises to be an isolation area.
+(1) The appropriate Minister may, for the purpose of preventing the spread or possible outbreak of an infectious disease, by notification in the Gazette declare any premises to be an isolation area.
 
-[7/2003]
+[5/2019]
 
-(2) A notification under subsection (1) shall be effective until the expiration of such period as may be specified in the notification or until it is revoked by the Minister, whichever occurs first.
+(2) A notification under subsection (1) is effective until the expiry of the period specified in the notification or until it is revoked by the appropriate Minister, whichever occurs first.
 
-[7/2003]
+[5/2019]
 
 (3) The Director may, in relation to an isolation area, by order —
 
@@ -21,26 +21,16 @@ Part: PART III CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (e) authorise the destruction, disposal or treatment of any goods, structure, water supply, drainage and sewerage system or other matter within the isolation area known or suspected to be a source of infection; and
 
-(f) prohibit, restrict, require or authorise the carrying out of such other act as may be prescribed.
+(f) prohibit, restrict, require or authorise the carrying out of any other act that may be prescribed.
 
-[7/2003]
+(4) A Health Officer or a police officer may take any action that is necessary to give effect to an order under subsection (3).
 
-(4) Action necessary to give effect to an order under subsection (3) may be taken by a Health Officer or a police officer.
-
-[7/2003]
+[10/2008]
 
 (5) Any person who, without reasonable excuse, contravenes an order under subsection (3) shall be guilty of an offence.
 
-[7/2003]
-
 (6) A person who leaves or attempts to leave or is suspected of having left an isolation area in contravention of an order under subsection (3) may be arrested without warrant by any police officer, or by any Health Officer authorised in writing in that behalf by the Director.
 
-[7/2003]
+(7) Without affecting any of the orders which the Director may make under this Act, the Director may issue an order under section 15 against a person who is arrested under subsection (6) as if the person were a person referred to in that section.
 
-(7) Without prejudice to any of the orders which the Director may make under this Act, the Director may issue an order under section 15 against a person who is arrested under subsection (6) as if he were a person referred to in that section.
-
-[7/2003]
-
-(8) Goods brought into or removed from an isolation area in contravention of an order under subsection (3) shall be forfeited to the Government and may be seized, dealt with and disposed of in accordance with section 55 (2) and (3) as if those goods were any substance or matter referred to in section 55 (1) (c).
-
-[7/2003]
+(8) Goods brought into or removed from an isolation area in contravention of an order under subsection (3) must be forfeited to the Government and may be seized, dealt with and disposed of in accordance with section 55(2) and (3) as if those goods were any substance or matter referred to in section 55(1)(c).
