@@ -1,21 +1,15 @@
-AUDIT ACT
-(CHAPTER 17)
-Act
-3 of 1966
-Amended by
-30 of 1970
-1970 Ed. Cap. 60
-1985 Ed. Cap. 17
-Amended by
-11 of 1991
-18 of 1994
-REVISED EDITION 1999
-(1st August 1999)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+AUDIT ACT 1966
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to make provision for the audit of the accounts of Singapore and of other public authorities and bodies administering public funds and for matters connected therewith.
 
-[9th August 1965]
+[9 August 1965]
