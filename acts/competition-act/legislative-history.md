@@ -1,21 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY COMPETITION ACT 2004
 
-COMPETITION ACT (CHAPTER 50B)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Competition Act. It is not part of the Act.
+1. Act 46 of 2004 — Competition Act 2004 Bill : 44/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 1 January 2005 (Parts I and II and the First and Second Schedules) 1 September 2005 (Part IV) 1 January 2006 (Divisions 1, 2, 3 and 5 of Part III and Parts V and VI and the Third Schedule) 2. Act 40 of 2005 — Competition (Amendment) Act 2005 Bill : 32/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 3. G.N. No. S 870/2005 — Competition Act (Amendment of Third Schedule) Order 2005 Commencement : 1 January 2006 4. Act 23 of 2007 — Competition (Amendment) Act 2007 Bill : 11/2007 First Reading : 9 April 2007 Second Reading : 21 May 2007 Notice of Amendments : 21 May 2007 Third Reading : 21 May 2007 Commencement : 1 January 2006 (section 23) 30 June 2007 (sections 8(1) and 24(1)) 1 July 2007 (except sections 8(1), 23 and 24(1)) 5. 2006 Revised Edition — Competition Act (Chapter 50B) Operation : 31 January 2006 6. Act 4 of 2010 — Statutes (Miscellaneous Amendments) Act 2010 (Amendments made by section 12 of the above Act) Bill : 26/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 17 February 2010 (section 12) 7. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 23 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 23 of the Sixth Schedule) 8. Act 30 of 2015 — Bus Services Industry Act 2015 (Amendments made by section 50 of the above Act) Bill : 26/2015 First Reading : 13 July 2015 Second and Third Readings : 18 August 2015 Commencement : 22 January 2016 (section 50) 9. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 56 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 56) 10. Act 10 of 2018 — Enterprise Singapore Board Act 2018 (Amendments made by section 68 of the above Act) Bill : 3/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 1 April 2018 (section 68) 11. Act 15 of 2018 — Competition (Amendment) Act 2018 Bill : 8/2018 First Reading : 27 February 2018 Second and Third Readings : 19 March 2018 Commencement : 16 May 2018 12. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 26 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 26 of the Schedule) 13. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 15(2) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 15(2))
 
-1. Act 46 of 2004 — Competition Act 2004
+Abbreviations
 
-Date of First Reading : 21 September 2004 (Bill No. 44/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 1 January 2005 (Parts I and II and First and Second Schedules) 1 September 2005 (Part IV) 1 January 2006 (Parts III (except Division 4), V and VI and Third Schedule)
-
-2. Act 40 of 2005 — Competition (Amendment) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 32/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

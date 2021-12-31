@@ -1,7 +1,5 @@
 # 35. Excluded agreements
-Part: PART III COMPETITION Division 1 — General
+Part: PART 3 COMPETITION Division 1 — General
 Division: Division 2 — Agreements, etc., preventing, restricting or distorting competition
 
-The section 34 prohibition shall not apply to such matter as may be specified in the Third Schedule.
-
-[UK Competition 1998, s. 3 (1)]
+The section 34 prohibition does not apply to such matter as may be specified in the Third Schedule.

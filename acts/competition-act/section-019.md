@@ -1,5 +1,5 @@
-# 19. Investment
-Part: PART II COMPETITION COMMISSION OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Commission
+# 19. Investment 1
+Part: PART 2 COMPETITION AND CONSUMER COMMISSION OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Commission
 Division: Division 4 — Financial provisions
 
 The Commission may, subject to the general or special direction of the Minister —

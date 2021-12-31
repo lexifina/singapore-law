@@ -1,19 +1,19 @@
-# 10. Appointment of Chief Executive and other employees, etc.
-Part: PART II COMPETITION COMMISSION OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Commission
+# 10. Chief Executive, officers and employees, etc.
+Part: PART 2 COMPETITION AND CONSUMER COMMISSION OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Commission
 Division: Division 3 — Provisions relating to staff
 
-(1) The Commission shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Commission may determine.
+(1) There must be a Chief Executive of the Commission, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[5/2018]
 
-(a) be known by such designation as the Commission may determine;
+(2) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) be responsible to the Commission for the proper administration and management of the functions and affairs of the Commission in accordance with the policy laid down by the Commission; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2) (c).
+[5/2018]
 
-(4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Commission to act in the place of the Chief Executive during any such period of absence from duty.
+(3) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(5) The Commission may, from time to time, appoint and employ on such terms and conditions as the Commission may determine such officers, employees, consultants and agents as may be necessary for the effective performance of its functions and discharge of its duties.
+[5/2018]

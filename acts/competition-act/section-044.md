@@ -1,8 +1,8 @@
 # 44. Notification for decision
-Part: PART III COMPETITION Division 1 — General
+Part: PART 3 COMPETITION Division 1 — General
 Division: Division 2 — Agreements, etc., preventing, restricting or distorting competition
 
-(1) A party to an agreement who applies for the agreement to be examined under this section shall —
+(1) A party to an agreement who applies for the agreement to be examined under this section must —
 
 (a) notify the Commission of the agreement; and
 
@@ -12,16 +12,20 @@ Division: Division 2 — Agreements, etc., preventing, restricting or distorting
 
 (a) whether the section 34 prohibition has been infringed; and
 
-(b) if it has not been infringed, whether that is because of the effect of an exclusion or because the agreement is exempt from the prohibition.
+(b) if it has not been infringed, whether that is —
+
+(i) because of the effect of an exclusion;
+
+(ii) because the agreement is exempt from the prohibition; or
+
+(iii) because a commitment has been accepted pursuant to section 60A(2).
+
+[15/2018]
 
 (3) If an agreement to which the section 34 prohibition applies has been notified to the Commission under this section, no penalty shall be imposed under this Part in respect of any infringement of the prohibition by the agreement which occurs during the period —
 
-(a) beginning with the date on which the notification was given;
+(a) beginning with the date on which the notification was given; and
 
-and
+(b) ending with such date as may be specified in a written notice given to the applicant by the Commission when the application has been determined.
 
-(b) ending with such date as may be specified in a notice in writing given to the applicant by the Commission when the application has been determined.
-
-(4) The date specified in a notice under subsection (3) (b) shall not be earlier than the date on which the notice is given.
-
-[UK Competition 1998, s. 14]
+(4) The date specified in a notice under subsection (3)(b) must not be earlier than the date on which the notice is given.

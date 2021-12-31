@@ -1,8 +1,8 @@
 # 51. Notification for decision
-Part: PART III COMPETITION Division 1 — General
+Part: PART 3 COMPETITION Division 1 — General
 Division: Division 3 — Abuse of dominant position
 
-(1) A person who applies for conduct to be considered under this section shall —
+(1) A person who applies for conduct to be considered under this section must —
 
 (a) notify the Commission of the conduct; and
 
@@ -12,6 +12,10 @@ Division: Division 3 — Abuse of dominant position
 
 (a) whether the section 47 prohibition has been infringed; and
 
-(b) if it has not been infringed, whether that is because of the effect of an exclusion.
+(b) if it has not been infringed, whether that is —
 
-[UK Competition 1998, s. 22]
+(i) because of the effect of an exclusion; or
+
+(ii) because a commitment has been accepted pursuant to section 60A(3).
+
+[15/2018]

@@ -1,5 +1,5 @@
 # 34. Agreements, etc., preventing, restricting or distorting competition
-Part: PART III COMPETITION Division 1 — General
+Part: PART 3 COMPETITION Division 1 — General
 Division: Division 2 — Agreements, etc., preventing, restricting or distorting competition
 
 (1) Subject to section 35, agreements between undertakings, decisions by associations of undertakings or concerted practices which have as their object or effect the prevention, restriction or distortion of competition within Singapore are prohibited unless they are exempt in accordance with the provisions of this Part.
@@ -16,10 +16,8 @@ Division: Division 2 — Agreements, etc., preventing, restricting or distorting
 
 (e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.
 
-(3) Any provision of any agreement or any decision which is prohibited by subsection (1) shall be void on or after 1st January 2006 to the extent that it infringes that subsection.
+(3) Any provision of any agreement or any decision which is prohibited by subsection (1) is void on or after 1 January 2006 to the extent that it infringes that subsection.
 
-(4) Unless the context otherwise requires, a provision of this Act which is expressed to apply to, or in relation to, an agreement shall be read as applying, with the necessary modifications, equally to, or in relation to, a decision by an association of undertakings or a concerted practice.
+(4) Unless the context otherwise requires, a provision of this Act which is expressed to apply to, or in relation to, an agreement is to be read as applying, with the necessary modifications, equally to, or in relation to, a decision by an association of undertakings or a concerted practice.
 
-(5) Subsection (1) shall apply to agreements, decisions and concerted practices implemented before, on or after 1st January 2006.
-
-[UK Competition 1998, s. 2 (1), (2), (4), (5) and (6)]
+(5) Subsection (1) applies to agreements, decisions and concerted practices implemented before, on or after 1 January 2006.

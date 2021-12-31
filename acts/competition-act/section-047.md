@@ -1,5 +1,5 @@
 # 47. Abuse of dominant position
-Part: PART III COMPETITION Division 1 — General
+Part: PART 3 COMPETITION Division 1 — General
 Division: Division 3 — Abuse of dominant position
 
 (1) Subject to section 48, any conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in any market in Singapore is prohibited.
@@ -14,6 +14,4 @@ Division: Division 3 — Abuse of dominant position
 
 (d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.
 
-(3) In this section, ‘‘dominant position’’ means a dominant position within Singapore or elsewhere.
-
-[UK Competition 1998, s. 18]
+(3) In this section, “dominant position” means a dominant position within Singapore or elsewhere.
