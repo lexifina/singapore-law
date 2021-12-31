@@ -1,7 +1,7 @@
-# 15. Grounds on which High Court may refuse to recognise or enforce foreign judgment
+# 15. Grounds on which General Division of High Court may refuse to recognise or enforce foreign judgment
 Part: PART 3 RECOGNITION AND ENFORCEMENT OF FOREIGN JUDGMENTS AND ENFORCEMENT OF JUDICIAL SETTLEMENTS
 
-(1) The High Court may refuse to recognise or enforce a foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, in any of the following circumstances:
+(1) The General Division of the High Court may refuse to recognise or enforce a foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, in any of the following circumstances:
 
 (a) the exclusive choice of court agreement applicable to the dispute in relation to which the foreign judgment was obtained is null and void under the law of the State of the chosen court, unless the chosen court has determined that the agreement is valid;
 
@@ -15,11 +15,15 @@ Part: PART 3 RECOGNITION AND ENFORCEMENT OF FOREIGN JUDGMENTS AND ENFORCEMENT OF
 
 (f) any other circumstances that the Minister may prescribe by regulations made under section 22.
 
-(2) The High Court may refuse to recognise or enforce a foreign judgment, may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, or may postpone the recognition or enforcement of a foreign judgment, if —
+[40/2019]
+
+(2) The General Division of the High Court may refuse to recognise or enforce a foreign judgment, may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, or may postpone the recognition or enforcement of a foreign judgment, if —
 
 (a) the foreign judgment is being reviewed or appealed against in the State of origin; or
 
 (b) the time for applying for a review of or for appealing against the foreign judgment in the State of origin has not expired.
+
+[40/2019]
 
 (3) A refusal to recognise or enforce a foreign judgment, the setting aside of an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, or a postponement of the recognition or enforcement of a foreign judgment, under subsection (2), does not preclude a subsequent application for the recognition, or recognition and enforcement, of that foreign judgment when —
 
@@ -35,4 +39,6 @@ Part: PART 3 RECOGNITION AND ENFORCEMENT OF FOREIGN JUDGMENTS AND ENFORCEMENT OF
 
 and
 
-(c) the other court issues a foreign judgment against a party to the case who objected in a timely manner to the transfer, the High Court may refuse to recognise or enforce that foreign judgment against that party, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces that foreign judgment against that party.
+(c) the other court issues a foreign judgment against a party to the case who objected in a timely manner to the transfer, the General Division of the High Court may refuse to recognise or enforce that foreign judgment against that party, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces that foreign judgment against that party.
+
+[40/2019]

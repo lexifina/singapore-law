@@ -13,8 +13,6 @@ Part: PART 1 PRELIMINARY
 
 (i) a Regional Economic Integration Organisation that is a party to the Convention; and
 
-This revised edition incorporates all amendments up to 1 November 2017.
-
 (ii) a member State, of a Regional Economic Integration Organisation that is a party to, and has made a declaration under Article 30(1) of, the Convention;
 
 “Convention” means the Convention on Choice of Court Agreements done at The Hague on 30 June 2005;
@@ -31,7 +29,7 @@ This revised edition incorporates all amendments up to 1 November 2017.
 
 (a) a final court decision (by whatever name called) on the merits, a consent order, a consent judgment or a judgment given by default; or
 
-(b) a determination by a court of any costs or expenses relating to any such court decision, consent order, consent judgment or judgment given by default;
+(b) a determination by a court of any costs or expenses relating to the court decision, consent order, consent judgment or judgment given by default;
 
 “judicial settlement” —
 
@@ -55,9 +53,21 @@ and
 
 (b) in relation to a judicial settlement for which enforcement is sought under this Act, means the Contracting State of the court that recorded the judicial settlement.
 
-(2) Where the High Court is designated in an exclusive choice of court agreement, the designation is to be construed as including the Singapore International Commercial Court unless a contrary intention appears in the agreement.
+(2) Where the High Court is designated in an exclusive choice of court agreement, the designation is to be construed —
 
-(3) Unless the context otherwise requires, where different systems of law apply in different territorial units in a Contracting State (other than a Regional Economic Integration Organisation) —
+(a) as a designation of the General Division of the High Court;
+
+and
+
+(b) as including the Singapore International Commercial Court, unless a contrary intention appears in the agreement.
+
+[40/2019]
+
+(3) Where the General Division of the High Court is designated in an exclusive choice of court agreement, the designation is to be construed as including the Singapore International Commercial Court, unless a contrary intention appears in the agreement.
+
+[40/2019]
+
+(4) Unless the context otherwise requires, where different systems of law apply in different territorial units in a Contracting State (other than a Regional Economic Integration Organisation) —
 
 (a) any reference to the law or procedure of that Contracting State is to be construed as a reference, where appropriate, to the law or procedure in force in the relevant territorial unit of that Contracting State;
 

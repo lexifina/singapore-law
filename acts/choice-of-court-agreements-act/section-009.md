@@ -39,7 +39,7 @@ Part: PART 1 PRELIMINARY
 
 (iv) emergency towage and salvage;
 
-(g) any matter relating to competition or anti‑trust law;
+(g) any matter relating to competition or anti-trust law;
 
 (h) liability for nuclear damage;
 
