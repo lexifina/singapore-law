@@ -1,11 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CONTRIBUTORY NEGLIGENCE AND PERSONAL INJURIES ACT 1953
 
-CONTRIBUTORY NEGLIGENCE AND PERSONAL INJURIES ACT (CHAPTER 54)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Ordinance 37 of 1953 — Contributory Negligence and Personal Injuries Ordinance 1953 Date of First Reading : 24.11.53 (Bill No. 28/53 published on 27.11.53) Date of Second and Third Readings : 15.12.53 Date of commencement : 1.3.54
+1. Ordinance 37 of 1953 — Contributory Negligence and Personal Injuries Ordinance, 1953 Bill : 28/1953 First Reading : 24 November 1953 Second and Third Readings : 15 December 1953 Commencement : 1 March 1954 2. 1955 Revised Edition — Contributory Negligence and Personal Injuries Ordinance (Chapter 25) Operation : 1 July 1956 3. 1970 Revised Edition — Contributory Negligence and Personal Injuries Act (Chapter 31) Operation : 1 March 1971 4. 1985 Revised Edition — Contributory Negligence and Personal Injuries Act (Chapter 54) Operation : 30 March 1987 5. Act 11 of 1987 — Civil Law (Amendment) Act 1987 (Amendments made by section 5(1) of the above Act) Bill : 1/1987 First Reading : 26 January 1987 Second and Third Readings : 4 March 1987 Commencement : 1 May 1987 (section 5(1)) 6. Act 20 of 1988 — Carriage by Air Act 1988 (Amendments made by section 14 of the above Act) Bill : 17/1988 First Reading : 29 July 1988 Second and Third Readings : 11 August 1988 Commencement : 16 September 1988 (section 14) 7. 1989 Revised Edition — Contributory Negligence and Personal Injuries Act (Chapter 54) Operation : 15 March 1989 8. Act 45 of 1998 — Civil Law (Amendment) Act 1998 (Amendments made by section 6 of the above Act) Bill : 41/1998 First Reading : 12 October 1998 Second and Third Readings : 26 November 1998 Commencement : 1 January 1999 (section 6) 9. 2002 Revised Edition — Contributory Negligence and Personal Injuries Act (Chapter 54) Operation : 31 December 2002
 
-2. Act 11 of 1987 — Civil Law (Amendment) Act 1987 (Consequential amendments made by) Date of First Reading : 26.1.87 (Bill No. 1/87 published on 2.2.87) Date of Second and Third Readings : 4.3.87 Date of commencement : 1.5.87
+Abbreviations
 
-3. Act 20 of 1988 — Carriage by Air Act 1988 (Consequential amendments made by) Date of First Reading : 29.7.88 (Bill No. 17/88 published on 1.8.88) Date of Second and Third Readings : 11.8.88 Date of commencement : 16.9.88
-
-4. Act 45 of 1998 — Civil Law (Amendment) Act 1998 (Consequential amendments made by) Date of First Reading : 12.10.98 (Bill No. 41/98 published on 13.10.98) Date of Second and Third Readings : 26.11.98 Date of commencement : 1.1.99
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

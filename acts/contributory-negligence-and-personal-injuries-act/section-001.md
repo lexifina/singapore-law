@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Contributory Negligence and Personal Injuries Act.
+This Act is the Contributory Negligence and Personal Injuries Act 1953.
