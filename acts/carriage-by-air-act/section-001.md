@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Carriage by Air Act.
+This Act is the Carriage by Air Act 1988.
+
+1

@@ -1,3 +1,3 @@
 # 13. Application to Government
 
-This Act shall bind the Government.
+This Act binds the Government.

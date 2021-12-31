@@ -1,7 +1,9 @@
-# LEGISLATIVE HISTORY CARRIAGE BY AIR ACT (CHAPTER 32A)
+# LEGISLATIVE HISTORY CARRIAGE BY AIR ACT 1988
 
-1. Act 20 of 1988 — Carriage by Air Act 1988 Date of First Reading : 29.7.88 (Bill No. 17/88 published on 1.8.88) Date of Second and Third Readings : 11.8.88 Date of commencement : 16.9.88
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-2. Act 45 of 1998 — Civil Law (Amendment) Act 1998 (Consequential amendments made by) Date of First Reading : 12.10.98 (Bill No. 41/98 published on 13.10.98) Date of Second and Third Readings : 26.11.98 Date of commencement : 1.1.99
+1. Act 20 of 1988 — Carriage by Air Act 1988 Bill : 17/1988 First Reading : 29 July 1988 Second and Third Readings : 11 August 1988 Commencement : 16 September 1988 2. 1989 Revised Edition — Carriage by Air Act (Chapter 32A) Operation : 15 March 1989 3. Act 7 of 1999 — Carriage by Air (Amendment) Act 1999 Bill : 5/1999 First Reading : 20 January 1999 Second and Third Readings : 11 February 1999 Commencement : 12 September 1998 4. Act 45 of 1998 — Civil Law (Amendment) Act 1998 (Amendments made by section 5 of the above Act) Bill : 41/1998 First Reading : 12 October 1998 Second and Third Readings : 26 November 1998 Commencement : 1 January 1999 (section 5) 5. 2001 Revised Edition — Carriage by Air Act (Chapter 32A) Operation : 31 December 2001 6. Act 41 of 2007 — Carriage by Air (Montreal Convention, 1999) Act 2007 (Amendments made by section 15 of the above Act) Bill : 29/2007 First Reading : 16 July 2007 Second and Third Readings : 27 August 2007 Commencement : 16 November 2007 (section 15)
 
-3. Act 7 of 1999 — Carriage by Air (Amendment) Act 1999 Date of First Reading : 20.1.99 (Bill No. 5/99 published on 21.1.99) Date of Second and Third Readings : 11.2.99 Date of commencement : 12.9.99
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
