@@ -1,7 +1,7 @@
 # 31. Power to exempt
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-(1) The Minister may, in his discretion, from time to time, by order and either generally or for any period specified in the order and subject to such conditions as may in the order be stated, exempt from all or any of the provisions of this Act any social welfare society promoting a private lottery for purposes conducive to the welfare of the public or any class thereof.
+(1) The Minister may, by order and either generally or for any period specified in the order and subject to such conditions as may in the order be stated, exempt from all or any of the provisions of this Act any social welfare society promoting a private lottery for purposes conducive to the welfare of the public or any class thereof.
 
 (2) In this section —
 

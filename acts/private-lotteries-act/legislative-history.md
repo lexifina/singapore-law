@@ -1,79 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PRIVATE LOTTERIES ACT 2011
 
-PRIVATE LOTTERIES ACT (CHAPTER 250)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Private Lotteries Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Ordinance 36 of 1952 — Private Lotteries Ordinance 1952
+LEGISLATIVE HISTORY DETAILS PART 1 PRIVATE LOTTERIES ACT (CHAPTER 250, 1985 REVISED EDITION) 1. Ordinance 36 of 1952 — Private Lotteries Ordinance, 1952 Bill : 33/1952 First Reading : 16 September 1952 Second Reading : 14 October 1952 Notice of Amendments : 14 October 1952 Third Reading : 14 October 1952 Commencement : 28 October 1952 2. 1955 Revised Edition — Private Lotteries Ordinance (Chapter 167) Operation : 1 July 1956 3. G.N. No. S (N.S.) 177/1959 — Singapore Constitution (Modification of Laws) (No. 3) Order, 1959 Commencement : 20 November 1959 4. G.N. No. S (N.S.) 178/1959 — Singapore Constitution (Modification of Laws) (No. 4) Order, 1959 Commencement : 20 November 1959 5. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance, 1959 (Amendments made by section 2 read with the First Schedule to the above Ordinance) Bill : 31/1959 First Reading : 22 September 1959 Second Reading : 11 November 1959 Notice of Amendments : 11 November 1959 Third Reading : 11 November 1959 Commencement : 20 November 1959 (section 2 read with the First Schedule) 6. Ordinance 75 of 1960 — Private Lotteries (Amendment) Ordinance, 1960 Bill : 119/1960 First Reading : 13 December 1960 Second and Third Readings : 29 December 1960 Commencement : 1 January 1961 7. Ordinance 31 of 1961 — Private Lotteries (Amendment) Ordinance, 1961 Bill : 152/1961 First Reading : 20 November 1961 Second and Third Readings : 16 December 1961 Commencement : 1 January 1962 8. 1970 Revised Edition — Private Lotteries Act (Chapter 143) Operation : 30 April 1971 9. 1985 Revised Edition — Private Lotteries Act (Chapter 250) Operation : 30 March 1987 10. Act 31 of 1993 — Goods and Services Tax Act 1993 (Amendments made by section 92 read with paragraph (8) of the Fifth Schedule to the above Act) Bill : 14/1993 First Reading : 26 February 1993 Second Reading : 19 March 1993 Select Committee Report : Parl. 4 of 1993 Third Reading : 12 October 1993 Commencement : 26 November 1993 (section 92 read with paragraph (8) of the Fifth Schedule)
 
-Date of First Reading : 16 September 1952 (Bill No. 33/52 published on 26 August 1952)
+PART 2 PRIVATE LOTTERIES ACT 2011 (2020 REVISED EDITION) 11. Act 7 of 2011 — Private Lotteries Act 2011 Bill : 2/2011 First Reading : 10 January 2011 Second and Third Readings : 14 February 2011 Commencement : 1 April 2011 12. 2012 Revised Edition — Private Lotteries Act (Chapter 250) Operation : 31 March 2012 13. Act 3 of 2013 — Computer Misuse (Amendment) Act 2013 (Amendments made by section 5 read with item 6 of the Schedule to the above Act) Bill : 36/2012 First Reading : 12 November 2012 Second and Third Readings : 14 January 2013 Commencement : 13 March 2013 (section 5 read with item 6 of the Schedule) 14. Act 9 of 2018 — Cybersecurity Act 2018 (Amendments made by section 50(8) of the above Act) Bill : 2/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 31 August 2018 (section 50(8)) 15. Act 27 of 2021 — Income Tax (Amendment) Act 2021 (Amendments made by section 58 of the above Act) Bill : 27/2021 First Reading : 13 September 2021 Second and Third Readings : 5 October 2021 Commencement : 16 November 2021 (section 58)
 
-Date of Second and Third Readings : 14 October 1952
+Abbreviations
 
-Date of commencement : 28 October 1952
-
-2. 1955 Revised Edition — Private Lotteries Act (Chapter 167)
-
-Date of operation : 1 May 1955
-
-3. S (N.S.) 177/59 — The Singapore Constitution (Modification of Laws) (No. 3) Order 1959
-
-Date of commencement : 20 November 1959
-
-4. S (N.S.) 178/59 — The Singapore Constitution (Modification of Laws) (No. 4) Order 1959
-
-Date of commencement : 20 November 1959
-
-5. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance 1959 (Consequential amendments made to Act by)
-
-Date of First Reading : 22 September 1959 (Bill No. 31/59 published on 30 September 1959)
-
-Date of Second and Third Readings : 11 November 1959
-
-Date of commencement : 20 November 1959
-
-6. Ordinance 75 of 1960 — Private Lotteries (Amendment) Ordinance 1960
-
-Date of First Reading : 13 December 1960 (Bill No. 119/60 published on 19 December 1960)
-
-Date of Second and Third Readings : 29 December 1960
-
-Date of commencement : 1 January 1961 7. Ordinance 31 of 1961 — Private Lotteries (Amendment) Ordinance 1961
-
-Date of First Reading : 20 November 1961 (Bill No. 152/61 published on 21 November 1961)
-
-Date of Second and Third Readings : 16 December 1961
-
-Date of commencement : 1 January 1962
-
-8. 1970 Revised Edition — Private Lotteries Act (Chapter 143)
-
-Date of operation : 30 April 1971
-
-9. 1985 Revised Edition — Private Lotteries Act (Chapter 250)
-
-Date of operation : 30 March 1987
-
-10. Act 31 of 1993 — Goods and Services Tax Act 1993 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 February 1993 (Bill No. 14/93 published on 27 February 1993)
-
-Date of Second Reading : 19 March 1993
-
-Date Committed to Select Committee : 19 March 1993
-
-Date of Presentation of Select : 7 September 1993 (Parl. 4 of Committee Report 1993)
-
-Date of Third Reading : 12 October 1993
-
-Dates of commencement : 26 November 1993 (with the exception of paragraph (3) of the Fifth Schedule) 1 April 1994 (paragraph (3) of the Fifth Schedule)
-
-11. Act 7 of 2011 — Private Lotteries Act 2011
-
-Date of First Reading : 10 January 2011 (Bill No. 2/2011 published on 11 January 2011)
-
-Date of Second and Third Readings : 14 February 2011
-
-Date of commencement : 1 April 2011
-
-Note: The Private Lotteries Act 2011 repealed and re-enacted with amendments the Private Lotteries Act (Chapter 250, 1985 Revised Edition).
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
