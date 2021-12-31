@@ -1,6 +1,6 @@
-# 16. Duty to furnish information
+# 16. Duty to provide information
 
-(1) The Director may from time to time require the licensee of a home to furnish such information as he may require relating to —
+(1) The Director-General may from time to time require the licensee of a home to provide any information that the Director-General may require relating to —
 
 (a) the staff and residents;
 
@@ -12,8 +12,12 @@
 
 (e) any matter relevant to this Act.
 
+[30/2019]
+
 (2) A licensee who on receipt of any requisition under this section —
 
-(a) refuses or fails to furnish any information required by the Director; or
+(a) refuses or fails to provide any information required by the Director-General; or
 
 (b) gives any false or misleading information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[30/2019]

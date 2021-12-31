@@ -2,7 +2,7 @@
 
 In this Act, unless the context otherwise requires —
 
-“Director” means the Director of Social Welfare appointed under section 3 of the Children and Young Persons Act (Cap. 38) and includes any person who is authorised by him to perform any of the duties or exercise any of the powers of the Director under this Act or any of its regulations;
+“Director-General” means the Director-General of Social Welfare and includes any person who is authorised by the Director-General to perform any of the duties or exercise any of the powers of the Director-General under this Act or any of its regulations;
 
 “home for the aged” means any establishment the object of which is, or is held out to be, the provision of residential accommodation with board and personal care for 5 or more old persons, whether able-bodied or disabled, but does not include —
 
@@ -12,12 +12,12 @@ In this Act, unless the context otherwise requires —
 
 (c) premises used solely for the reception and care of dying or terminally ill persons; and
 
-(d) such other premises as may be prescribed;
+(d) any other premises that may be prescribed;
 
-“licence” means a licence issued under section 4 in respect of a home, and “licensed” and “licensee” shall have corresponding meanings;
+“licence” means a licence issued under section 4 in respect of a home, and “licensed” and “licensee” have corresponding meanings;
 
 “old person” means any person of the age of 60 years and above;
 
 “resident”, in relation to a home, means any old person, except a member of the staff, residing in the home.
 
-[20/2001]
+[30/2019]
