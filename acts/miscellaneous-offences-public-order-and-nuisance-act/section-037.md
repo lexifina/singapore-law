@@ -1,0 +1,4 @@
+# 37. Melting or defacing metals, etc., within 3 days of receipt
+Part: PART 6 FRAUDULENT POSSESSION OF PROPERTY
+
+If any pawnbroker or any dealer in secondhand goods or any worker in platinum, gold or silver, or any dealer in platinum, gold or silver articles, within 3 days of receipt of any goods or any such metals or articles, or after receiving information from a police officer that any specified goods, metals or articles, have been stolen or fraudulently obtained, melts, alters, defaces, or puts away the same or causes the same to be melted, altered, defaced, or put away, without the previous permission of the Director, Criminal Investigation Department, and it is found that such goods, metals or articles were stolen or fraudulently obtained, such pawnbroker, secondhand dealer, worker or dealer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.

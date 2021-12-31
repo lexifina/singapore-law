@@ -1,0 +1,4 @@
+# 5. [Repealed]
+Part: PART 2 OFFENCES AGAINST PUBLIC ORDER AND NUISANCE
+
+[Repealed by Act 15 of 2009]
