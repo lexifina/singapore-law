@@ -1,6 +1,6 @@
 # 6. Meaning of law relating to limitation
 
-(1) References in this Act to the law of any country (including Singapore) relating to limitation shall, in relation to any matter, be construed as references to so much of the relevant law of that country as (in any manner) makes provision with respect to a limitation period applicable to the bringing of proceedings in respect of that matter in the courts of that country and shall include —
+(1) References in this Act to the law of any country (including Singapore) relating to limitation are, in relation to any matter, to be construed as references to so much of the relevant law of that country as (in any manner) makes provision with respect to a limitation period applicable to the bringing of proceedings in respect of that matter in the courts of that country and include —
 
 (a) references to so much of that law as relates to, and to the effect of, the application, extension, reduction or interruption of that period; and
 

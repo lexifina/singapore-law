@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Foreign Limitation Periods Act.
+This Act is the Foreign Limitation Periods Act 2012.

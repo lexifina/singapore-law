@@ -1,7 +1,7 @@
 # 8. Transitional provision
 
-Nothing in this Act shall —
+Nothing in this Act —
 
-(a) affect any action, proceedings or arbitration commenced before the commencement of this Act; or
+(a) affects any action, proceedings or arbitration commenced before 1 June 2012; or
 
-(b) apply in relation to any matter if the limitation period which, apart from this Act, would have been applied in respect of that matter in Singapore expired before the commencement of this Act.
+(b) applies in relation to any matter if the limitation period which, apart from this Act, would have been applied in respect of that matter in Singapore expired before 1 June 2012.
