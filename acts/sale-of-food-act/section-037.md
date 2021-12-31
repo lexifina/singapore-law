@@ -1,8 +1,8 @@
 # 37. Recovery of fees and other expenses incidental to prosecution
-Part: PART VI LEGAL PROCEEDINGS
+Part: PART 6 LEGAL PROCEEDINGS
 
-(1) When any person is convicted of an offence under this Act, the court may order that all fees and other expenses incidental to the analysis of any food or appliance in respect of which the conviction is obtained, including an analysis made under section 35, and any other reasonable expenses incurred by the prosecution, shall be paid by the person convicted.
+(1) When any person is convicted of an offence under this Act, the court may order the person to pay all fees and other expenses incidental to the analysis of any food or food contact article in respect of which the conviction is obtained, and any other reasonable expenses incurred by the prosecution, must be paid by the person convicted.
 
-(2) All such fees and expenses shall be recoverable in the same manner as a fine is recoverable.
+[48/2017; 11/2019]
 
-[32
+(2) All such fees and expenses are recoverable in the same manner as a fine is recoverable.

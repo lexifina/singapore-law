@@ -1,6 +1,6 @@
 # 32. No defence that offence not wilfully committed
-Part: PART VI LEGAL PROCEEDINGS
+Part: PART 6 LEGAL PROCEEDINGS
 
-In a prosecution for selling any food or appliance contrary to this Act, it shall be no defence that the defendant did not act wilfully, unless he also proves that he took all reasonable steps to ascertain that the sale of the food or appliance would not constitute an offence under this Act.
+In a prosecution for selling any food or food contact article contrary to this Act, it is not a defence that the accused did not act wilfully, unless the accused also proves that the accused took all reasonable steps to ascertain that the sale of the food or food contact article would not constitute an offence under this Act.
 
-[27
+[48/2017]

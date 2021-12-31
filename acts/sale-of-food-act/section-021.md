@@ -1,8 +1,6 @@
-# 21. Food establishments to be licensed
-Part: PART IV FOOD ESTABLISHMENTS
+# 21. Non-retail food business must be licensed
+Part: PART 4 NON-RETAIL FOOD BUSINESS
 
-No person shall operate or use or knowingly permit a food establishment to be used for any of the purposes specified in the Second Schedule without obtaining a licence from the Director- General.
+A person must not carry on a non-retail food business except in accordance with a licence issued to the person by the Director-General under this Part.
 
-[20A
-
-[7/2002]
+[48/2017]

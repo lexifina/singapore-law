@@ -1,6 +1,6 @@
 # 39. Appeal
-Part: PART VI LEGAL PROCEEDINGS
+Part: PART 6 LEGAL PROCEEDINGS
 
-Any person aggrieved by any sentence or order under this Act passed or made by a District Court or a Magistrate’s Court may appeal therefrom to the High Court.
+Any person aggrieved by any sentence or order under this Act passed or made by a District Court or a Magistrate’s Court may appeal to the General Division of the High Court against that sentence or order.
 
-[33
+[40/2019]

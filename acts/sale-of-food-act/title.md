@@ -1,24 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SALE OF FOOD ACT
-(CHAPTER 283)
-Act
-12 of 1973
-1985 Ed. Cap. 283
-Amended by
-7 of 2002
-REVISED EDITION 2002
-(31st December 2002)
+SALE OF FOOD ACT 1973
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act for securing wholesomeness and purity of food and fixing standards for the same; for preventing the sale or other disposition, or the use of articles dangerous or injurious to health; to provide for the regulation of food establishments.
+An Act for regulating food to ensure that food for sale is safe and suitable for human consumption and to promote public health, for ensuring the provision of information relating to food to enable consumers to make informed choices and for preventing misleading conduct in connection with the sale of food.
 
-[7/2002]
+[48/2017]
 
-[1st May 1973]
+[1 May 1973]

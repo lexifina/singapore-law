@@ -1,4 +1,10 @@
-# 16. Labelling of food
-Part: PART III SALE OF FOOD
+# 16. Offences concerning labelling
+Part: PART 3 SALE OF FOOD
 
-Except as otherwise provided by any regulations made under this Act, no person shall sell in a package any food unless there is a statement or label legibly and durably written on or attached to the package of food indicating the trade name or description, the net weight or the number, true measure or volume, the quality, strength, purity, composition and proportion of the contents, and the name and address of the importer, manufacturer or packer thereof.
+(1) A person must not sell any food that is packaged or labelled in a manner that does not comply with all applicable requirements of this Act relating to identification and labelling of that food.
+
+[48/2017]
+
+(2) In a prosecution for an offence under section 20 for contravening subsection (1), it is not necessary for the prosecution to prove that the accused intended to commit the offence.
+
+[48/2017]
