@@ -1,0 +1,7 @@
+# 9. Buying a ticket
+
+(1) Any person who, either personally or by an agent, pays or deposits any money or money’s worth to or with any person concerned in the business of a common gaming house as a stake or for or in respect of any event or contingency connected with a public lottery or buys a lottery ticket shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) A person in whose possession a lottery ticket is found shall be presumed until the contrary is proved to have bought the ticket.
+
+(3) Every lottery ticket brought or introduced into or being within Singapore shall be forfeited to the Government, and it shall be the duty of every police officer or other public servant to seize every such ticket wherever found.

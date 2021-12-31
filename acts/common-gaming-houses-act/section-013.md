@@ -1,0 +1,7 @@
+# 13. Search warrants against premises
+
+(1) A police officer not below the rank of assistant superintendent, on being satisfied upon written information and after any further inquiry which he thinks necessary that there is good reason to believe that a place is kept or used as a common gaming house, may by warrant or writing under his hand authorise any person therein named or any police officer, with such assistance and by such force as is necessary, by night or by day, to enter or go to the place and to search the place and all persons found therein, and to seize all instruments or appliances for gaming and all money, securities for money and other articles reasonably supposed to have been used or intended to be used for any game or lottery which are found in the place or on any such persons, and also to detain all such persons until they and the place have been searched.
+
+(2) If any of the things or circumstances which are made by this Act presumptive evidence of guilt are found in such place or on any person therein, every person found therein shall be taken before a Magistrate’s Court to be dealt with according to law.
+
+(3) All instruments or appliances for gaming, money, securities for money and other articles found in a common gaming house or on any persons found therein or escaping therefrom, and which the court is of opinion were used or intended to be used for any game or lottery, shall be declared to be forfeited to the Government and shall be dealt with accordingly.

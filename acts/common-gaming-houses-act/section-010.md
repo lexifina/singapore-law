@@ -1,0 +1,3 @@
+# 10. Money paid recoverable
+
+Any money or money’s worth paid or deposited for or in respect of any such event or contingency as aforesaid or for or in respect of the purchase of a lottery ticket shall be recoverable as money had and received to or for the use of the person from whom the same was received.

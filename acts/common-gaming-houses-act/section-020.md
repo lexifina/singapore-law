@@ -1,0 +1,7 @@
+# 20. Examination of offenders
+
+(1) Whenever 2 or more persons are charged with any offence under this Act the court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
+
+(2) Any such person who refuses to be sworn or to answer any lawful question shall be dealt with in the same manner as witnesses so refusing may by law be dealt with by a Magistrate.
+
+(3) Every person so required to give evidence, who in the opinion of the court makes true and full discovery of all things as to which he is lawfully examined, shall be entitled to receive a certificate of indemnity under the hand of the Magistrate stating that he has, in the opinion of the Magistrate, made a true and full discovery of all things as to which he was examined, and that certificate shall be a bar to all legal proceedings against him in respect of all such things.
