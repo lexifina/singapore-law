@@ -1,28 +1,28 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘Board’’ means the Board of the Council;
+“Board” means the Board of the Council;
 
-‘‘Board member’’ means any person appointed or elected to the Board under section 5 (1);
+“Board member” means any person appointed or elected to the Board under section 5(1);
 
-‘‘Chairman’’ means the Chairman of the Community Chest;
+“Chairperson” means the Chairperson of the Community Chest;
 
-‘‘Chief Executive Officer’’ means the Chief Executive Officer of the Council appointed under section 22 (1);
+“Chief Executive Officer” means the Chief Executive Officer of the Council appointed under section 22(1) and includes any individual acting in that capacity;
 
-‘‘Community Chest’’ means the Community Chest established under section 13 (1);
+“Community Chest” means the Community Chest established under section 13(1);
 
-‘‘Council’’ means the National Council of Social Service established under section 3;
+“Council” means the National Council of Social Service established under section 3;
 
-‘‘Council member’’ means any organisation or person granted membership of the Council under section 15;
+“Council member” means any organisation or person granted membership of the Council under section 15;
 
-‘‘Endowment Fund’’ means the Endowment Fund established under section 12 (1);
+“Endowment Fund” means the Endowment Fund established under section 12(1);
 
-‘‘General Fund’’ means the General Fund established under section 24 (1);
+“General Fund” means the General Fund established under section 24(1);
 
-‘‘President’’ means the President of the Board;
+“president” means the president of the Board;
 
-‘‘Vice-President’’ means the Vice-President of the Board.
+“vice-president” means the vice-president of the Board.
 
-[23/2000]
+[5/2018]

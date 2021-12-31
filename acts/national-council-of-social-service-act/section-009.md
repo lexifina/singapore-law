@@ -1,6 +1,8 @@
 # 9. Directions by Minister
-Part: PART II ESTABLISHMENT OF COUNCIL
+Part: PART 2 ESTABLISHMENT OF COUNCIL
 
-(1) The Minister may, after consultation with the Board, give the Council such directions as he thinks fit as to the performance of the functions of the Council under this Act; and the Council shall, as soon as practicable, give effect to all such directions.
+(1) The Minister may, after consultation with the Board, give the Council such directions as the Minister thinks fit as to the performance of the functions of the Council under this Act.
 
-(2) The Council shall furnish the Minister with such information or facilities for obtaining information with respect to its functions in such manner and at such times as the Minister may reasonably require.
+(2) The Council must, as soon as practicable, give effect to all directions mentioned in subsection (1).
+
+(3) The Council must provide the Minister with such information or facilities for obtaining information with respect to its functions in such manner and at such times as the Minister may reasonably require.

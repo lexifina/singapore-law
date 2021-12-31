@@ -1,6 +1,4 @@
 # 8. Validity of acts of Board members
-Part: PART II ESTABLISHMENT OF COUNCIL
+Part: PART 2 ESTABLISHMENT OF COUNCIL
 
-The acts of a Board member shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualifications.
-
-[23/2000]
+The acts of a Board member are valid despite any defect that may afterwards be discovered in his or her appointment or qualifications.

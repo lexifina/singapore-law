@@ -1,9 +1,9 @@
 # 37. Regulations
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
 (1) The Council may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Council may, with the approval of the Minister, make such regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Council may, with the approval of the Minister, make such regulations for or with respect to all or any of the following matters:
 
 (a) the procedure for applying for, and the termination of, membership in the Council;
 
@@ -21,10 +21,10 @@ Part: PART VII MISCELLANEOUS
 
 (h) the procedure and quorum for general meetings of the Council and for the election of Board members;
 
-(i) the establishment, constitution and procedures of any committee referred to in section 14 and any unincorporated body or organisation referred to in section 11 (1) (h); and
+(i) the establishment, constitution and procedures of any committee mentioned in section 14 and any unincorporated body or organisation mentioned in section 11(1)(h);
 
 (j) the information to be provided and the documents to be submitted to the Council by Council members, including annual reports, audited accounts and such information as the Council may require for carrying out its objects.
 
-[40
+(3) Regulations made under this section in relation to the procedure for the meetings of the Council and the Board must conform to the requirements of the Public Sector (Governance) Act 2018.
 
-[23/2000]
+[5/2018]

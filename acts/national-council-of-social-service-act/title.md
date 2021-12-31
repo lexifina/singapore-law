@@ -1,22 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-NATIONAL COUNCIL OF SOCIAL SERVICE ACT
-(CHAPTER 195A)
-Act
-14 of 1992
-1993 Ed. Cap. 195A
-Amended by
-23 of 2000
-REVISED EDITION 2001
-(31st July 2001)
+NATIONAL COUNCIL OF SOCIAL
+SERVICE ACT 1992
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2001
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to establish the National Council of Social Service, and for matters connected therewith.
 
-[1st May 1992]
+[1 May 1992]

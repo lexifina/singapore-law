@@ -1,10 +1,6 @@
 # 16. Fees for membership
-Part: PART IV MEMBERSHIP OF COUNCIL
+Part: PART 4 MEMBERSHIP OF COUNCIL
 
-(1) Fees for full Council members and associate Council members shall be payable annually on the first day of April and shall be such amount as the Board shall from time to time determine.
+(1) Fees for full Council members and associate Council members are payable annually on the first day of April and are such amounts as the Board determines.
 
-[23/2000]
-
-(2) Honorary Council members shall not be required to pay any fee for membership.
-
-[23/2000]
+(2) Honorary Council members are not required to pay any fee for membership.

@@ -1,9 +1,9 @@
 # 10. Objects of Council
-Part: PART III FUNCTIONS AND POWERS OF COUNCIL
+Part: PART 3 FUNCTIONS AND POWERS OF COUNCIL
 
-The objects of the Council shall be —
+The objects of the Council are —
 
-(a) to provide leadership and direction to the volunteer movement and to co-ordinate social service activities between Council members and with other organisations;
+(a) to provide leadership and direction to the volunteer movement and to coordinate social service activities between Council members and with other organisations;
 
 (b) to represent Council members, to present their views to the Government and to communicate priorities of the Government and its views to such members;
 
@@ -13,16 +13,16 @@ The objects of the Council shall be —
 
 (e) to assist the Government in strategic social service planning;
 
-(f) to initiate, plan, develop and modify social service programmes; and if the Council considers it necessary, to operate direct social service;
+(f) to initiate, plan, develop and modify social service programmes;
 
-(g) to establish and maintain an updated management information system of Council members and their clients;
+(g) to operate direct social service if the Council considers it necessary;
 
-(h) to provide consultancy and support services to social service organisations;
+(h) to establish and maintain an updated management information system of Council members and their clients;
 
-(i) to encourage, co-ordinate and carry out research and evaluative studies and experimental projects necessary for the improvement and development of social service;
+(i) to provide consultancy and support services to social service organisations;
 
-(j) to raise and allocate funds to further the objects of the Council and Council members; and
+(j) to encourage, coordinate and carry out research and evaluative studies and experimental projects necessary for the improvement and development of social service;
 
-(k) to liaise and co-operate with overseas and international organisations in matters relating to social service.
+(k) to raise and allocate funds to further the objects of the Council and Council members; and
 
-[23/2000]
+(l) to liaise and cooperate with overseas and international organisations in matters relating to social service.
