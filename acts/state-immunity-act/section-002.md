@@ -3,11 +3,11 @@ Part: PART 1 PRELIMINARY
 
 (1) In this Act —
 
-“commercial purposes” means purposes of such transactions or activities as are mentioned in section 5(3);
+“commercial purposes” means purposes of any transactions or activities that are mentioned in section 5(3);
 
 “court” includes any tribunal or body exercising judicial functions;
 
-“ship” includes hovercraft.
+“ship” includes a hovercraft.
 
 (2) In this Act —
 

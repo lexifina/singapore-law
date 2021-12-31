@@ -5,7 +5,7 @@ Part: PART 3 SUPPLEMENTARY PROVISIONS
 
 (2) Part 2 does not apply to —
 
-(a) proceedings relating to anything done by or in relation to the armed forces of a State while present in Singapore and, in particular, has effect subject to the Visiting Forces Act (Cap. 344);
+(a) proceedings relating to anything done by or in relation to the armed forces of a State while present in Singapore and, in particular, has effect subject to the Visiting Forces Act 1960;
 
 (b) criminal proceedings; and
 

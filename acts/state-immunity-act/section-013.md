@@ -5,10 +5,8 @@ A State is not immune as respects proceedings relating to its liability for —
 
 (a) any customs duty or excise duty;
 
-(aa) any goods and services tax; or
+(b) any goods and services tax; or
 
-(b) any tax in respect of premises occupied by it for commercial purposes.
-
-[25/96]
+(c) any tax in respect of premises occupied by it for commercial purposes.
 
 Procedure

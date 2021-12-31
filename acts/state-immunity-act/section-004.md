@@ -21,4 +21,4 @@ Part: PART 2 PROCEEDINGS IN SINGAPORE BY OR AGAINST OTHER STATES Immunity from j
 
 (6) A submission in respect of any proceedings extends to any appeal but not to any counterclaim unless it arises out of the same legal relationship or facts as the claim.
 
-(7) The head of a State’s diplomatic mission in Singapore, or the person for the time being performing his functions, shall be deemed to have authority to submit on behalf of the State in respect of any proceedings; and any person who has entered into a contract on behalf of and with the authority of a State shall be deemed to have authority to submit on its behalf in respect of proceedings arising out of the contract.
+(7) The head of a State’s diplomatic mission in Singapore, or the person for the time being performing his or her functions, is deemed to have authority to submit on behalf of the State in respect of any proceedings; and any person who has entered into a contract on behalf of and with the authority of a State is deemed to have authority to submit on its behalf in respect of proceedings arising out of the contract.

@@ -13,7 +13,7 @@ Part: PART 2 PROCEEDINGS IN SINGAPORE BY OR AGAINST OTHER STATES Immunity from j
 
 (b) an action in personam for enforcing a claim in connection with such a ship, if, at the time when the cause of action arose, the ship was in use or intended for use for commercial purposes.
 
-(3) Where an action in rem is brought against a ship belonging to a State for enforcing a claim in connection with another ship belonging to that State, subsection (2)(a) does not apply as respects the first‑mentioned ship unless, at the time when the cause of action relating to the other ship arose, both ships were in use or intended for use for commercial purposes.
+(3) Where an action in rem is brought against a ship belonging to a State for enforcing a claim in connection with another ship belonging to that State, subsection (2)(a) does not apply as respects the firstmentioned ship unless, at the time when the cause of action relating to the other ship arose, both ships were in use or intended for use for commercial purposes.
 
 (4) A State is not immune as respects —
 
