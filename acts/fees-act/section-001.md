@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Fees Act.
+This Act is the Fees Act 1920.
