@@ -1,9 +1,9 @@
 # 5. Party autonomy
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-(1) Nothing in Part II shall affect any rule of law or obligation requiring the agreement or consent of the parties as to the form of a communication or record, and (unless otherwise agreed or provided by a rule of law) such agreement or consent may be inferred from the conduct of the parties.
+(1) Nothing in Part 2 affects any rule of law or obligation requiring the agreement or consent of the parties as to the form of a communication or record, and (unless otherwise agreed or provided by a rule of law) such agreement or consent may be inferred from the conduct of the parties.
 
-(2) Nothing in Part II shall prevent the parties to a contract or transaction from —
+(2) Nothing in Part 2 prevents the parties to a contract or transaction from —
 
 (a) excluding the use of electronic records, electronic communications or electronic signatures in the contract or transaction by agreement; or
 
@@ -14,5 +14,3 @@ Part: PART I PRELIMINARY
 (a) exclude section 6, 11, 12, 13, 14, 15 or 16 from applying to the contract or transaction; or
 
 (b) derogate from or vary the effect of all or any of those provisions in respect of the contract or transaction.
-
-[ETA, s. 5; UN, Art. 3 and 8(2)]

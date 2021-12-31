@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Electronic Transactions Act.
+This Act is the Electronic Transactions Act 2010.

@@ -1,14 +1,12 @@
 # 36. Composition of offences
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
-(1) The Controller may, in his discretion, compound any offence under this Act which is prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding —
+(1) The Controller may compound any offence under this Act that is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) $5,000, whichever is the lower.
+(b) $5,000.
 
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+(2) On payment of the sum of money, no further proceedings may be taken against that person in respect of the offence.
 
-(3) The Minister may make regulations prescribing the offences which may be compounded.
-
-[ETA, s. 59]
+(3) The Minister may make regulations prescribing the offences that may be compounded.

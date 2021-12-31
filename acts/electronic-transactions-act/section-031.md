@@ -1,6 +1,4 @@
 # 31. Obstruction of Controller or authorised officer
-Part: PART VII GENERAL
+Part: PART 7 GENERAL
 
-Any person who obstructs, impedes, assaults or interferes with the Controller or any authorised officer in the performance of his functions under this Act shall be guilty of an offence.
-
-[ETA, s. 54]
+Any person who obstructs, impedes, assaults or interferes with the Controller or any authorised officer in the performance of his or her functions under this Act shall be guilty of an offence.

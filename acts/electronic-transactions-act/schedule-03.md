@@ -1,10 +1,10 @@
 # THIRD SCHEDULE
 
-Sections 20 and 21, paragraph 1 of the Second Schedule and paragraph 1 of the Fourth Schedule
+Sections 20(2) and 21(2) and (3), paragraph 1 of the Second Schedule and paragraph 1 of the Fourth Schedule
 
 DIGITAL SIGNATURES
 
-PART I
+PART 1
 
 GENERAL
 
@@ -22,9 +22,9 @@ Interpretation
 
 “certification practice statement” means a statement issued by a certification authority to specify the practices that the certification authority employs in issuing certificates;
 
-“correspond”, in relation to a private key or public key, means to belong to the same key pair;
-
 THIRD SCHEDULE — continued
+
+“correspond”, in relation to a private key or public key, means to belong to the same key pair;
 
 “digital signature” means an electronic signature consisting of a transformation of an electronic record using an asymmetric cryptosystem and a hash function such that a person having the initial untransformed electronic record and the signer’s public key can accurately determine —
 
@@ -36,7 +36,9 @@ THIRD SCHEDULE — continued
 
 (a) a record yields the same hash result every time the algorithm is executed using the same record as input;
 
-(b) it is computationally infeasible that a record can be derived or reconstituted from the hash result produced by the algorithm; and
+(b) it is computationally infeasible that a record can be derived or reconstituted from the hash result produced by the algorithm;
+
+and
 
 (c) it is computationally infeasible that 2 records can be found that produce the same hash result using the algorithm;
 
@@ -54,11 +56,11 @@ THIRD SCHEDULE — continued
 
 “repository” means a system for storing and retrieving certificates or other information relevant to certificates;
 
-“revoke”, in relation to a certificate, means to permanently end the operational period of the certificate from a specified time;
-
 THIRD SCHEDULE — continued
 
-“subscriber” means a person who is the subject named or identified in a certificate issued to him and who holds a private key that corresponds to a public key listed in that certificate;
+“revoke”, in relation to a certificate, means to permanently end the operational period of the certificate from a specified time;
+
+“subscriber” means a person who is the subject named or identified in a certificate issued to the person and who holds a private key that corresponds to a public key listed in that certificate;
 
 “suspend”, in relation to a certificate, means to temporarily suspend the operational period of the certificate from a specified time;
 
@@ -68,7 +70,9 @@ THIRD SCHEDULE — continued
 
 (b) provide a reasonable level of availability, reliability and correct operation;
 
-(c) are reasonably suited to performing their intended functions; and
+(c) are reasonably suited to performing their intended functions;
+
+and
 
 (d) adhere to generally accepted security procedures;
 
@@ -80,19 +84,19 @@ THIRD SCHEDULE — continued
 
 (b) the record has not been altered since its digital signature was created.
 
-(2) In the application of this Act to certificates issued by the Controller and digital signatures verified by reference to those certificates, the Controller shall be deemed to be an accredited certification authority.
+(2) In the application of this Act to certificates issued by the Controller and digital signatures verified by reference to those certificates, the Controller is deemed to be an accredited certification authority.
 
 Secure electronic record with digital signature
 
-2. The portion of an electronic record that is signed with a digital signature shall be treated as a secure electronic record if the digital signature is a secure electronic signature by virtue of paragraph 3.
+2. The portion of an electronic record that is signed with a digital signature is to be treated as a secure electronic record if the digital signature is a secure electronic signature by virtue of paragraph 3.
 
 Digital signature treated as secure electronic signature
 
-3. When any portion of an electronic record is signed with a digital signature, the digital signature shall be treated as a secure electronic signature with respect to such portion of the record, if —
-
-(a) the digital signature was created during the operational period of a valid certificate and is verified by reference to the public key listed in such certificate; and
+3. When any portion of an electronic record is signed with a digital signature, the digital signature is to be treated as a secure electronic signature with respect to such portion of the record, if —
 
 THIRD SCHEDULE — continued
+
+(a) the digital signature was created during the operational period of a valid certificate and is verified by reference to the public key listed in such certificate; and
 
 (b) the certificate is considered trustworthy, in that it is an accurate binding of a public key to a person’s identity because —
 
@@ -100,13 +104,13 @@ THIRD SCHEDULE — continued
 
 (ii) the certificate was issued by a recognised certification authority;
 
-(iii) the certificate was issued by a public agency approved by the Minister to act as a certification authority on such conditions as he may by regulations impose or specify; or
+(iii) the certificate was issued by a public agency approved by the Minister to act as a certification authority on such conditions as the Minister may by regulations impose or specify; or
 
 (iv) the parties have expressly agreed between themselves (sender and recipient) to use digital signatures as a security procedure, and the digital signature was properly verified by reference to the sender’s public key.
 
 Presumptions regarding certificates
 
-4. It shall be presumed, unless evidence to the contrary is adduced, that the information (except for information identified as subscriber information which has not been verified) listed in a certificate issued by an accredited certification authority or a recognised certification authority, or in a recognised certificate, is correct if the certificate was accepted by the subscriber.
+4. It is presumed, unless evidence to the contrary is adduced, that the information (except for information identified as subscriber information which has not been verified) listed in a certificate issued by an accredited certification authority or a recognised certification authority, or in a recognised certificate, is correct if the certificate was accepted by the subscriber.
 
 Unreliable digital signatures
 
@@ -116,11 +120,11 @@ Unreliable digital signatures
 
 (b) the value or importance of the digitally signed electronic record, if known;
 
-(c) the course of dealing between the person relying on the digitally signed electronic record and the subscriber and any available indicia of reliability or unreliability apart from the digital signature; and
+THIRD SCHEDULE — continued
+
+(c) the course of dealing between the person relying on the digitally signed electronic record and the subscriber and any available indicia of reliability or unreliability apart from the digital signature;
 
 (d) any usage of trade, particularly trade conducted by trustworthy systems or other electronic means.
-
-THIRD SCHEDULE — continued
 
 Reliance on certificates foreseeable
 
@@ -142,15 +146,15 @@ Publication for fraudulent or unlawful purpose
 
 False or unauthorised request
 
-9. Any person who knowingly misrepresents to a certification authority his identity or authorisation for the purpose of requesting for a certificate or for suspension or revocation of a certificate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+9. Any person who knowingly misrepresents to a certification authority the person’s identity or authorisation for the purpose of requesting for a certificate or for suspension or revocation of a certificate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 Recommended reliance limit
 
-10.—(1) An accredited certification authority or a recognised certification authority shall, in issuing a certificate to a subscriber, specify a recommended reliance limit in the certificate.
-
-(2) The accredited certification authority or recognised certification authority may specify different reliance limits in different certificates as it considers fit.
+10.—(1) An accredited certification authority or a recognised certification authority must, in issuing a certificate to a subscriber, specify a recommended reliance limit in the certificate.
 
 THIRD SCHEDULE — continued
+
+(2) The accredited certification authority or recognised certification authority may specify different reliance limits in different certificates as it considers fit.
 
 Liability limits for accredited certification authorities
 
@@ -164,7 +168,7 @@ Liability limits for accredited certification authorities
 
 (ii) failure to comply with paragraphs 14 and 15 in issuing the certificate.
 
-PART II
+PART 2
 
 DUTIES OF CERTIFICATION AUTHORITY
 
@@ -174,19 +178,19 @@ Trustworthy system
 
 Disclosure
 
-13.—(1) A certification authority shall disclose —
+13.—(1) A certification authority must disclose —
 
-(a) its certificate that contains the public key corresponding to the private key used by that certification authority to digitally sign another certificate (referred to in this paragraph as a certification authority certificate);
+(a) its certificate that contains the public key corresponding to the private key used by that certification authority to digitally sign another certificate (called in this paragraph a certification authority certificate);
 
 (b) any relevant certification practice statement;
 
 (c) notice of the suspension or revocation of its certification authority certificate; and
 
-(d) any other fact that materially and adversely affects either the reliability of a certificate that the authority has issued or the authority’s ability to perform its services.
-
 THIRD SCHEDULE — continued
 
-(2) In the event of an occurrence that materially and adversely affects a certification authority’s trustworthy system or its certification authority certificate, the certification authority shall —
+(d) any other fact that materially and adversely affects either the reliability of a certificate that the authority has issued or the authority’s ability to perform its services.
+
+(2) In the event of an occurrence that materially and adversely affects a certification authority’s trustworthy system or its certification authority certificate, the certification authority must —
 
 (a) use reasonable efforts to notify any person who is known to be or foreseeably will be affected by that occurrence; or
 
@@ -196,15 +200,17 @@ Issuance of certificate
 
 14.—(1) A certification authority may issue a certificate to a prospective subscriber only after the certification authority —
 
-(a) has received a request for issuance from the prospective subscriber; and
+(a) has received a request for issuance from the prospective subscriber;
+
+and
 
 (b) has —
 
-(i) if it has a certification practice statement, complied with all of the practices and procedures set forth in such certification practice statement including procedures regarding identification of the prospective subscriber; or
+(i) if it has a certification practice statement, complied with all of the practices and procedures set forth in such certification practice statement, including procedures regarding identification of the prospective subscriber; or
 
-(ii) in the absence of a certification practice statement, complied with the conditions in sub‑paragraph (2).
+(ii) in the absence of a certification practice statement, complied with the conditions in sub-paragraph (2).
 
-(2) In the absence of a certification practice statement, the certification authority shall confirm by itself or through its authorised agent that —
+(2) In the absence of a certification practice statement, the certification authority must confirm by itself or through its authorised agent that —
 
 (a) the prospective subscriber is the person to be listed in the certificate to be issued;
 
@@ -216,9 +222,9 @@ Issuance of certificate
 
 (e) the prospective subscriber holds a private key capable of creating a digital signature; and
 
-(f) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the prospective subscriber.
-
 THIRD SCHEDULE — continued
+
+(f) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the prospective subscriber.
 
 Representations upon issuance of certificate
 
@@ -234,13 +240,15 @@ Representations upon issuance of certificate
 
 (d) all information in the certificate is accurate, unless the certification authority has stated in the certificate or incorporated by reference in the certificate a statement that the accuracy of specified information is not confirmed; and
 
-(e) the certification authority has no knowledge of any material fact which if it had been included in the certificate would adversely affect the reliability of the representations in sub‑paragraphs (a) to (d).
+(e) the certification authority has no knowledge of any material fact which if it had been included in the certificate would adversely affect the reliability of the representations in sub-paragraphs (a) to (d).
 
-(3) Where there is an applicable certification practice statement which has been incorporated by reference in the certificate, or of which the relying person has notice, sub‑paragraph (2) shall apply to the extent that the representations are not inconsistent with the certification practice statement.
+(3) Where there is an applicable certification practice statement which has been incorporated by reference in the certificate, or of which the relying person has notice, sub-paragraph (2) applies to the extent that the representations are not inconsistent with the certification practice statement.
 
 Suspension of certificate
 
-16. Unless the certification authority and the subscriber agree otherwise, the certification authority that issued a certificate shall suspend the certificate as soon as possible after receiving a request by a person whom the certification authority reasonably believes to be —
+16. Unless the certification authority and the subscriber agree otherwise, the certification authority that issued a certificate must suspend the certificate as soon THIRD SCHEDULE — continued
+
+as possible after receiving a request by a person whom the certification authority reasonably believes to be —
 
 (a) the subscriber listed in the certificate;
 
@@ -248,11 +256,9 @@ Suspension of certificate
 
 (c) a person acting on behalf of that subscriber, who is unavailable.
 
-THIRD SCHEDULE — continued
-
 Revocation of certificate
 
-17. A certification authority shall revoke a certificate that it issued —
+17. A certification authority must revoke a certificate that it issued —
 
 (a) after receiving a request for revocation by the subscriber listed in the certificate; and confirming that the person requesting the revocation is the subscriber, or is an agent of the subscriber with authority to request the revocation;
 
@@ -262,7 +268,7 @@ Revocation of certificate
 
 Revocation without subscriber’s consent
 
-18.—(1) A certification authority shall revoke a certificate, regardless of whether the subscriber listed in the certificate consents, if the certification authority confirms that —
+18.—(1) A certification authority must revoke a certificate, regardless of whether the subscriber listed in the certificate consents, if the certification authority confirms that —
 
 (a) a material fact represented in the certificate is false;
 
@@ -274,39 +280,39 @@ Revocation without subscriber’s consent
 
 (e) a subscriber has been dissolved, wound up or otherwise ceased to exist.
 
-(2) Upon effecting such a revocation, other than under sub‑paragraph (1)(d) or (e), the certification authority shall immediately notify the subscriber listed in the revoked certificate.
+(2) Upon effecting such a revocation, other than under sub-paragraph (1)(d) or (e), the certification authority must immediately notify the subscriber listed in the revoked certificate.
 
 Notice of suspension
 
-19.—(1) Immediately upon suspension of a certificate by a certification authority, the certification authority shall publish a signed notice of the suspension in the repository specified in the certificate for publication of notice of suspension.
+19.—(1) Immediately upon suspension of a certificate by a certification authority, the certification authority must publish a signed notice of the THIRD SCHEDULE — continued
 
-(2) Where one or more repositories are specified, the certification authority shall publish signed notices of the suspension in all such repositories.
+suspension in the repository specified in the certificate for publication of notice of suspension.
 
-THIRD SCHEDULE — continued
+(2) Where one or more repositories are specified, the certification authority must publish signed notices of the suspension in all such repositories.
 
 Notice of revocation
 
-20.—(1) Immediately upon revocation of a certificate by a certification authority, the certification authority shall publish a signed notice of the revocation in the repository specified in the certificate for publication of notice of revocation.
+20.—(1) Immediately upon revocation of a certificate by a certification authority, the certification authority must publish a signed notice of the revocation in the repository specified in the certificate for publication of notice of revocation.
 
-(2) Where one or more repositories are specified, the certification authority shall publish signed notices of the revocation in all such repositories.
+(2) Where one or more repositories are specified, the certification authority must publish signed notices of the revocation in all such repositories.
 
-PART III
+PART 3
 
 DUTIES OF SUBSCRIBERS
 
 Generating key pair
 
-21.—(1) If the subscriber generates the key pair whose public key is to be listed in a certificate issued by a certification authority and accepted by the subscriber, the subscriber shall generate that key pair using a trustworthy system.
+21.—(1) If the subscriber generates the key pair whose public key is to be listed in a certificate issued by a certification authority and accepted by the subscriber, the subscriber must generate that key pair using a trustworthy system.
 
-(2) This paragraph shall not apply to a subscriber who generates the key pair using a system approved by the certification authority.
+(2) This paragraph does not apply to a subscriber who generates the key pair using a system approved by the certification authority.
 
 Obtaining certificate
 
-22. All material representations made by the subscriber to a certification authority for purposes of obtaining a certificate, including all information known to the subscriber and represented in the certificate, shall be accurate and complete to the best of the subscriber’s knowledge and belief, regardless of whether such representations are confirmed by the certification authority.
+22. All material representations made by the subscriber to a certification authority for purposes of obtaining a certificate, including all information known to the subscriber and represented in the certificate, must be accurate and complete to the best of the subscriber’s knowledge and belief, regardless of whether such representations are confirmed by the certification authority.
 
 Acceptance of certificate
 
-23.—(1) A subscriber shall be deemed to have accepted a certificate if he —
+23.—(1) A subscriber is deemed to have accepted a certificate if the subscriber —
 
 (a) publishes or authorises the publication of the certificate —
 
@@ -314,13 +320,13 @@ Acceptance of certificate
 
 (ii) in a repository; or
 
+THIRD SCHEDULE — continued
+
 (b) otherwise demonstrates approval of the certificate while knowing or having notice of its contents.
 
-(2) By accepting a certificate issued by himself or a certification authority, the subscriber listed in the certificate certifies to all who reasonably rely on the information contained in the certificate that —
+(2) By accepting a certificate issued by himself, herself or a certification authority, the subscriber listed in the certificate certifies to all who reasonably rely on the information contained in the certificate that —
 
 (a) the subscriber rightfully holds the private key corresponding to the public key listed in the certificate;
-
-THIRD SCHEDULE — continued
 
 (b) all representations made by the subscriber to the certification authority and material to the information listed in the certificate are true; and
 
@@ -330,10 +336,8 @@ Control of private key
 
 24.—(1) By accepting a certificate issued by a certification authority, the subscriber identified in the certificate assumes a duty to exercise reasonable care to retain control of the private key corresponding to the public key listed in such certificate and prevent its disclosure to a person not authorised to create the subscriber’s digital signature.
 
-(2) Such duty shall continue during the operational period of the certificate and during any period of suspension of the certificate.
+(2) Such duty continues during the operational period of the certificate and during any period of suspension of the certificate.
 
 Initiating suspension or revocation of certificate
 
-25. A subscriber who has accepted a certificate shall as soon as possible request the issuing certification authority to suspend or revoke the certificate if the private key corresponding to the public key listed in the certificate has been compromised.
-
-[ETA, ss. 2, 19 to 40, 41(5), 44 and 45]
+25. A subscriber who has accepted a certificate must as soon as possible request the issuing certification authority to suspend or revoke the certificate if the private key corresponding to the public key listed in the certificate has been compromised.

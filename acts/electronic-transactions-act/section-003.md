@@ -1,7 +1,7 @@
 # 3. Purposes and construction
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act shall be construed consistently with what is commercially reasonable under the circumstances and to give effect to the following purposes:
+This Act is to be construed consistently with what is commercially reasonable under the circumstances and to give effect to the following purposes:
 
 (a) to facilitate electronic communications by means of reliable electronic records;
 
@@ -13,8 +13,10 @@ This Act shall be construed consistently with what is commercially reasonable un
 
 (e) to help to establish uniformity of rules, regulations and standards regarding the authentication and integrity of electronic records;
 
-(f) to promote public confidence in the integrity and reliability of electronic records and electronic commerce, and to foster the development of electronic commerce through the use of electronic signatures to lend authenticity and integrity to correspondence in any electronic medium; and
+(f) to promote public confidence in the integrity and reliability of electronic records and electronic commerce, and to foster the development of electronic commerce through the use of electronic signatures to lend authenticity and integrity to correspondence in any electronic medium;
 
-(g) to implement the United Nations Convention on the Use of Electronic Communications in International Contracts adopted by the General Assembly of the United Nations on 23rd November 2005 and to make the law of Singapore on electronic transactions, whether or not involving parties whose places of business are in different States, consistent with the provisions of that Convention.
+(g) to implement the United Nations Convention on the Use of Electronic Communications in International Contracts adopted by the General Assembly of the United Nations on 23 November 2005 and to make the law of Singapore on electronic transactions, whether or not involving parties whose places of business are in different States, consistent with the provisions of that Convention;
 
-[ETA, s. 3]
+(h) to adopt the UNCITRAL Model Law on Electronic Transferable Records adopted by the United Nations Commission on International Trade Law on 13 July 2017 in its application to an electronic transferable record, whether the electronic transferable record is issued or used in Singapore or outside Singapore.
+
+[5/2021]

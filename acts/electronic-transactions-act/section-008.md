@@ -1,5 +1,5 @@
 # 8. Requirement for signature
-Part: PART II ELECTRONIC RECORDS, SIGNATURES AND CONTRACTS
+Part: PART 2 ELECTRONIC RECORDS, SIGNATURES AND CONTRACTS
 
 Where a rule of law requires a signature, or provides for certain consequences if a document or a record is not signed, that requirement is satisfied in relation to an electronic record if —
 
@@ -10,5 +10,3 @@ Where a rule of law requires a signature, or provides for certain consequences i
 (i) as reliable as appropriate for the purpose for which the electronic record was generated or communicated, in the light of all the circumstances, including any relevant agreement; or
 
 (ii) proven in fact to have fulfilled the functions described in paragraph (a), by itself or together with further evidence.
-
-[UN, Art. 9(3)]

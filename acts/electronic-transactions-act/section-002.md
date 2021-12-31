@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
@@ -11,7 +11,7 @@ Part: PART I PRELIMINARY
 
 “communication” includes any statement, declaration, demand, notice, request, offer or the acceptance of an offer, that the parties are required to make or choose to make in connection with the formation or performance of a contract;
 
-“Controller” means the Controller appointed under section 27(1) and includes a Deputy or an Assistant Controller appointed under section 27(3);
+“Controller” means the Controller appointed under section 27(1) and includes a Deputy Controller or an Assistant Controller appointed under section 27(3);
 
 “electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic or similar capabilities;
 
@@ -19,11 +19,13 @@ Part: PART I PRELIMINARY
 
 “electronic record” means a record generated, communicated, received or stored by electronic means in an information system or for transmission from one information system to another;
 
+“electronic transferable record” has the meaning given by section 16A;
+
 “information” includes data, text, images, sound, codes, computer programs, software and databases;
 
 “information system” means a system for generating, sending, receiving, storing or otherwise processing electronic records;
 
-“originator”, in relation to an electronic communication, means a party by whom, or on whose behalf, the electronic communication has been sent or generated prior to storage, if any, but does not include a party acting as an intermediary with respect to that electronic communication;
+“originator”, in relation to an electronic communication, means a party by whom, or on whose behalf, the electronic communication has been sent or generated prior to storage (if any) but does not include a party acting as an intermediary with respect to that electronic communication;
 
 “public agency” means a department or ministry of the Government, an Organ of State or a public authority established by or under a public Act;
 
@@ -41,32 +43,34 @@ Part: PART I PRELIMINARY
 
 (b) detecting error or alteration in the communication, content or storage of an electronic record since a specific point in time, which may require the use of algorithms or codes, identifying words or numbers, encryption, answerback or acknowledgment procedures, or similar security devices;
 
-“signed” or “signature” and its grammatical variations means a method (electronic or otherwise) used to identify a person and to indicate the intention of that person in respect of the information contained in a record;
+“signed” or “signature” means a method (electronic or otherwise) used to identify a person and to indicate the intention of that person in respect of the information contained in a record;
 
 “specified security procedure” means a security procedure which is specified in the Second Schedule;
 
 “specified security procedure provider” means a person involved in the provision of a specified security procedure.
 
+[5/2021]
+
 (2) In this Act, “place of business”, in relation to a party, means —
 
 (a) any place where the party maintains a non-transitory establishment to pursue an economic activity other than the temporary provision of goods or services out of a specific location; or
 
-(b) if the party is a natural person and he does not have a place of business, the person’s habitual residence.
+(b) if the party is a natural person and he or she does not have a place of business, the person’s habitual residence.
 
 (3) For the purposes of subsection (2) —
 
-(a) if a party has indicated his place of business, the location indicated by him is presumed to be his place of business unless another party proves that the party making the indication does not have a place of business at that location;
+(a) if a party has indicated the party’s place of business, the location indicated by the party is presumed to be the party’s place of business unless another party proves that the party making the indication does not have a place of business at that location;
 
 (b) if a party has not indicated a place of business and has more than one place of business, then the place of business is that which has the closest relationship to the relevant contract, having regard to the circumstances known to or contemplated by the parties at any time before or at the conclusion of the contract;
 
 (c) a location is not a place of business merely because that location is —
 
-(i) where equipment and technology supporting an information system used by a party in connection with the formation of a contract are located; or
+(i) where equipment and technology supporting an information system used by a party in connection with the formation of a contract, or the creation or use of electronic transferable records, are located; or
 
 (ii) where the information system may be accessed by other parties; and
 
-(d) the sole fact that a party makes use of a domain name or an electronic mail address connected to a specific country does not create a presumption that its place of business is located in that country.
+(d) the sole fact that a party makes use of a domain name, an electronic mail address or other electronic address, or other elements of an information system connected to a specific country does not create a presumption that its place of business is located in that country.
 
-(4) Where an electronic communication does not relate to any contract, references to a contract in subsection (3) shall refer to the relevant transaction.
+[5/2021]
 
-[ETA, ss. 2 and 18(4); UN, Art. 4, 6 and 9(3)(a); US, s. 106(2)]
+(4) Where an electronic communication does not relate to any contract, references to a contract in subsection (3) refer to the relevant transaction.
