@@ -6,8 +6,6 @@ In this Act —
 
 (a) without the written authority of an authorised officer or representative of the Government or of the government of any Commonwealth or foreign country or of any statutory body or authority or of any armed force lawfully present in Singapore in the case of public property, or without the written consent of the owner or occupier in the case of private property —
 
-1
-
 (i) writing, drawing, painting, marking or inscribing on any public property or private property any word, slogan, caricature, drawing, mark, symbol or other thing;
 
 (ii) affixing, posting up or displaying on any public property or private property any poster, placard, advertisement, bill, notice, paper or other document; or

@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Vandalism Act.
+This Act is the Vandalism Act 1966.
+
+1
