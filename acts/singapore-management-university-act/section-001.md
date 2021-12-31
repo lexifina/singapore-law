@@ -1,5 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Singapore Management University Act.
+This Act is the Singapore Management University Act 2000.
 
 1
