@@ -1,18 +1,17 @@
-# 36. Immunity from criminal or civil liability … … … … 84
-Part: PART II MARKETS
-Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
-Subdivision: Subdivision (5) — Immunity
+# 36. Obligation to maintain proper records
+Part: PART 2 ORGANISED MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-No criminal or civil liability shall be incurred by —
+(1) A recognised market operator must maintain a record of all transactions effected through its organised market in accordance with regulations mentioned in subsection (2).
 
-(a) an approved exchange; or
+[4/2017]
 
-(b) any person acting on behalf of an approved exchange, including —
+(2) The Authority may by regulations made under section 44 prescribe —
 
-(i) any director of the approved exchange; or
+(a) the form and manner in which the record mentioned in subsection (1) is to be maintained;
 
-(ii) any member of any committee established by the approved exchange, for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of its obligations under this Act or the business rules or, where appropriate, listing rules of the approved exchange.
+(b) the extent to which the record includes details of each transaction; and
 
-[1/2005]
+(c) the period of time that the record is to be maintained.
 
-Division 3 — Regulation of Recognised Market Operators
+[4/2017]

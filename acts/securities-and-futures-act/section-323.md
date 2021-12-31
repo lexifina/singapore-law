@@ -1,4 +1,4 @@
-# 323. Immunity of Authority and its employees, etc. (Repealed) 513
-Part: PART XV MISCELLANEOUS
+# 323. [Repealed]
+Part: PART 15 MISCELLANEOUS
 
-(Repealed by Act 24/2003)
+[Repealed by Act 24 of 2003]

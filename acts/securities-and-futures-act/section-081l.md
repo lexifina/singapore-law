@@ -1,51 +1,15 @@
-# 81L. Right of relevant office holder to recover certain amounts arising from certain transactions … … … … … 132
-Part: PART III CLEARING FACILITIES
+# 81L. Law of insolvency in other jurisdictions
+Part: PART 3 CLEARING FACILITIES
 Division: Division 4 — Insolvency
 
-(1) Where a participant (referred to as the first participant) sells securities at an over-value to, or purchases securities at an under- value from, another participant (referred to as the second participant) in the circumstances referred to in subsection (3), and thereafter a relevant office holder acts for —
+(1) Despite any other written law or rule of law, a court is not to recognise or give effect to —
 
-(a) the second participant;
+(a) an order of a court exercising jurisdiction under the law of insolvency in any place outside Singapore; or
 
-(b) the principal of the second participant in the sale or purchase;
+(b) an act of a person appointed in any place outside Singapore to perform a function under the law of insolvency in that place, insofar as the making of the order by a court in Singapore, or the doing of the act by a relevant office holder, would be prohibited under this Act.
 
-or
+[34/2012]
 
-(c) the estate of the second participant or person referred to in paragraph (b), then, unless a court otherwise orders, the relevant office holder may recover from the first participant, or the principal of the first participant, an amount equal to the specified gain obtained under the sale or purchase by the first participant, or the principal of the first participant.
+(2) In this section, “law of insolvency”, in relation to a place outside Singapore, means any law of that place which is similar to, or serves the same purposes as, any part of the law of insolvency in Singapore.
 
-[1/2005]
-
-(2) The amount equal to the specified gain is recoverable even if the sale or purchase may have been discharged according to the business rules of a designated clearing house and replaced by a market contract.
-
-[1/2005]
-
-(3) The circumstances referred to in subsection (1) are that —
-
-(a) a specified event has occurred in relation to the second participant or the principal of the second participant within the period of 6 months immediately following the date on which the sale or purchase was entered into; and
-
-(b) at the time the sale or purchase was entered into, the first participant or the principal of the first participant knew, or ought reasonably to have known, that a specified event was likely to occur in relation to the second participant or the principal of the second participant.
-
-[1/2005]
-
-(4) In this section —
-
-‘‘specified event’’, in relation to a second participant or a person who is or was, in respect of a sale or purchase referred to in subsection (1), the principal of the second participant, means —
-
-(a) the making of a bankruptcy order against the second participant or that person, as the case may be;
-
-(b) the making of a statutory declaration in respect of the second participant or that person, as the case may be, under section 291 (1) of the Companies Act (Cap. 50);
-
-(c) the summoning of a meeting of creditors in relation to the second participant or that person, as the case may be, under section 296 of the Companies Act;
-
-(d) the making of an application for the winding up of the second participant or that person, as the case may be, before a court; or
-
-(e) the making of a judicial management order by a court under Part VIIIA of the Companies Act in respect of the second participant or that person, as the case may be;
-
-‘‘specified gain’’, in relation to a sale or purchase referred to in subsection (1), means the difference between —
-
-(a) the market value of the securities which are the subject of the sale or purchase; and
-
-(b) the value of the consideration for the sale or purchase, as at the time the sale or purchase was entered into.
-
-[1/2005; 42/2005]
-
-[HK SF Bill, Clause 51]
+[34/2012]

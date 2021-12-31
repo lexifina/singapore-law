@@ -1,10 +1,10 @@
-# 146. Savings for advocates and solicitors … … … … … 210
-Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
+# 146. Saving for advocates and solicitors
+Part: PART 9 SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers Subdivision (1) — Powers of Authority to require disclosure of information about capital markets products
 
-(1) Nothing in this Subdivision shall compel the disclosure by an advocate and solicitor of information containing a privileged communication made by or to him in that capacity.
+(1) Nothing in this Subdivision compels the disclosure by an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act 1893, of information containing a privileged communication made by or to him or her in that capacity.
 
-[16/2003]
+[34/2012]
 
-(2) An advocate and solicitor who refuses to disclose the information referred to in subsection (1) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+(2) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act 1893, who refuses to disclose the information referred to in subsection (1) is nevertheless obliged to give the name and address (if he or she knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
-[SIA, s. 8]
+[34/2012]

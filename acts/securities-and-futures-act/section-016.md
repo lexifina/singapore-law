@@ -1,39 +1,57 @@
-# 16. General obligations … … … … … … … 64
-Part: PART II MARKETS
+# 16. Obligation to notify Authority of certain matters 1
+Part: PART 2 ORGANISED MARKETS
 Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-(1) An approved exchange shall, in respect of every market it operates —
+(1) An approved exchange must, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
 
-(a) as far as is reasonably practicable, ensure that the market is fair, orderly and transparent;
+(a) any material change to the information provided by the approved exchange in its application under section 8(1) or 12(1);
 
-(b) manage any risks associated with its business and operations prudently;
+(b) any change to the type or number of organised markets it operates;
 
-(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+(c) the carrying on of any business (called in this section a proscribed business) by the approved exchange other than such business or such class of businesses prescribed by regulations made under section 44;
 
-(d) ensure that access for participation in its facilities is subject to criteria that are fair and objective, and that are designed to ensure the orderly functioning of the market and to protect the interests of the investing public;
+(d) the acquisition by the approved exchange of a substantial shareholding in a corporation (called in this section a proscribed corporation) that carries on any business other than such business or such class of businesses prescribed by regulations made under section 44;
 
-(e) maintain business rules and, where appropriate, listing rules that make satisfactory provision for —
+(e) the approved exchange becoming aware of any financial irregularity or other matter which in its opinion —
 
-(i) a fair, orderly and transparent market in securities or futures contracts that are traded through its facilities;
+(i) may affect its ability to discharge its financial obligations; or
 
-and
+(ii) may affect the ability of a member of the approved exchange to meet its financial obligations to the approved exchange;
 
-(ii) the proper regulation and supervision of its members;
+(f) the approved exchange reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a member of the approved exchange;
 
-(f) enforce compliance with its business rules and, where appropriate, its listing rules;
+(g) any other matter that the Authority may —
 
-(g) have sufficient financial, human and system resources —
+(i) prescribe by regulations made under section 44 for the purposes of this subsection; or
 
-(i) to operate a fair, orderly and transparent market;
+(ii) specify by written notice to the approved exchange in any particular case.
 
-(ii) to meet contingencies or disasters; and
+[4/2017]
 
-(iii) to provide adequate security arrangements; and
+(2) Without limiting section 45(1), the Authority may, at any time after receiving a notice mentioned in subsection (1), issue directions to the approved exchange —
 
-(h) ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+(a) where the notice relates to a matter mentioned in subsection (1)(c) —
 
-[1/2005]
+(i) requiring it to cease carrying on the proscribed business; or
 
-(2) In subsection (1) (g), ‘‘contingencies or disasters’’ includes technical disruptions occurring within automated systems.
+(ii) permitting it to carry on the proscribed business subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that the carrying on of the proscribed business subject to those conditions or restrictions is necessary for any purpose mentioned in section 45(1)(a) to (d); or
 
-[1/2005]
+(b) where the notice relates to a matter mentioned in subsection (1)(d) —
+
+(i) requiring it to dispose of all or any part of its shareholding in the proscribed corporation within such time and subject to such conditions as specified in the directions; or
+
+(ii) requiring it to exercise its rights relating to such shareholding, or to not exercise such rights, subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that such exercise or non-exercise of rights subject to those conditions or restrictions is necessary for any purpose mentioned in section 45(1)(a) to (d).
+
+[4/2017]
+
+(3) An approved exchange must comply with every direction issued to it under subsection (2) despite anything to the contrary in the Companies Act 1967 or any other law.
+
+[4/2017]
+
+(4) An approved exchange must notify the Authority of any matter that the Authority may prescribe by regulations made under section 44 for the purposes of this subsection, no later than such time as the Authority may prescribe by those regulations.
+
+[4/2017]
+
+(5) An approved exchange must notify the Authority of any matter that the Authority may specify by written notice to the approved exchange, no later than such time as the Authority may specify in that notice.
+
+[4/2017]

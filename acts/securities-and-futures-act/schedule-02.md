@@ -1,155 +1,169 @@
 # SECOND SCHEDULE
 
-Sections 2 and 340 (4)
+Sections 2(1) and 340(1) and (4)
 
 REGULATED ACTIVITIES
 
-PART I
+PART 1
 
 TYPES OF REGULATED ACTIVITIES
 
 The following are regulated activities for the purposes of this Act:
 
-(a) dealing in securities;
+(a) dealing in capital markets products;
 
-(b) trading in futures contracts;
+(b) advising on corporate finance;
 
-(c) leveraged foreign exchange trading;
+(c) fund management;
 
-(d) advising on corporate finance;
+(d) real estate investment trust management;
 
-(e) fund management;
+(e) product financing;
 
-(f) securities financing;
+(f) providing credit rating services;
 
-(g) providing custodial services for securities.
+(g) providing custodial services.
 
-PART II
+PART 2
 
 INTERPRETATION
 
 In this Schedule —
 
-‘‘agreement’’ includes arrangement;
+“agreement” includes arrangement;
 
-‘‘advising on corporate finance’’ means giving advice —
+“advising on corporate finance” means giving advice —
 
-(a) to any person (whether as principal or agent, or as trustee of a trust) concerning compliance with or in respect of laws or regulatory requirements (including the listing rules of a securities exchange) relating to the raising of funds by any entity, trustee of a trust on behalf of the trust or responsible person of a collective investment scheme on behalf of the collective investment scheme;
+(a) to any person (whether as principal or agent, or as trustee of a trust) concerning compliance with or in respect of laws or regulatory requirements (including the listing rules of an approved exchange) relating to the raising of funds by any entity, trustee of a trust on behalf of the trust or responsible person of a collective investment scheme on behalf of the collective investment scheme;
 
 (b) to a person making an offer —
 
-(i) to subscribe for or purchase securities; or
+(i) to subscribe for or purchase specified products; or
 
-(ii) to sell or otherwise dispose of securities, concerning that offer;
+(ii) to sell or otherwise dispose of specified products,
+
+concerning that offer;
 
 (c) concerning the arrangement, reconstruction or take-over of a corporation or any of its assets or liabilities; or
 
+SECOND SCHEDULE — continued
+
 (d) concerning the take-over of a business trust or any of its assets or liabilities held by the trustee-manager on behalf of the business trust;
 
-‘‘dealing in securities’’ means (whether as principal or agent) making or offering to make with any person, or inducing or attempting to induce any person to enter into or to offer to enter into any agreement for or with a view to acquiring, disposing of, subscribing for, or underwriting securities;
+“credit rating” means an opinion expressed using an established and defined ranking system of rating categories, primarily regarding the creditworthiness of a rating target;
+
+“dealing in capital markets products” means (whether as principal or agent) making or offering to make with any person, or inducing or attempting to induce any person to enter into or to offer to enter into any agreement for or with a view to acquiring, disposing of, entering into, effecting, arranging, subscribing for, or underwriting any capital markets products;
+
+“financial institution” means —
+
+(a) any bank licensed under the Banking Act 1970;
+
+(b) any merchant bank licensed under the Banking Act 1970; or
+
+(c) any finance company licensed under the Finance Companies Act 1967;
+
+“fund management” means managing the property of, or operating, a collective investment scheme, or undertaking on behalf of a customer (whether on a discretionary authority granted by the customer or otherwise) —
+
+(a) the management of a portfolio of capital markets products; or
+
+(b) the entry into spot foreign exchange contracts for the purpose of managing the customer’s funds,
+
+but does not include real estate investment trust management;
+
+“leveraged foreign exchange trading” means entering into a spot foreign exchange contract where one counterparty provides to the other counterparty or the counterparty’s agent money, securities, property or other collateral which represents only a part of the value of the spot foreign exchange contract;
+
+“offer” or “offering” includes invitation to treat;
+
+“product financing” means providing any credit facility, advance or loan to facilitate (directly or indirectly) —
+
+(a) the subscription of specified products listed or to be listed on an organised market;
+
+(b) the purchase of specified products listed or to be listed on an organised market;
 
 SECOND SCHEDULE — continued
 
-‘‘financial institution’’ means —
+(c) the purchase of such specified products as the Authority may prescribe; or
 
-(a) any bank licensed under the Banking Act (Cap. 19);
+(d) where applicable, the continued holding of specified products mentioned in paragraph (a), (b) or (c),
 
-(b) any merchant bank approved as a financial institution under the Monetary Authority of Singapore Act (Cap. 186); or
+whether or not the specified products are pledged as security for the credit facility, advance or loan, but does not include the provision of —
 
-(c) any finance company licensed under the Finance Companies Act (Cap. 108);
+(e) any credit facility, advance or loan that forms part of an arrangement to underwrite or sub-underwrite specified products;
 
-‘‘foreign exchange trading’’ means the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into or offer to enter into, a contract or an arrangement the effect of which is that —
+(f) any credit facility, advance or loan to —
 
-(a) a party agrees to exchange currency at an agreed rate of exchange with another party whether the currency exchange is effected at the same time or at a specified future time and whether by way of delivery of an amount of currency for another currency, by way of crediting the account of the other party with an amount of another currency, by way of settlement or set-off between 2 or more persons or otherwise; or
+(i) a holder of a capital markets services licence to deal in capital markets products in respect of specified products;
 
-(b) a party agrees to settle in any manner with another party the difference between the value of any currency index agreed at the time of the making of the contract or arrangement and at a specified future time, but does not include any act performed for or in connection with a contract or an arrangement which is a futures contract or such a proposed contract or proposed arrangement;
+(ii) a holder of capital markets services licence for product financing; or
 
-‘‘fund management’’ means undertaking on behalf of a customer (whether on a discretionary authority granted by the customer or otherwise) —
+(iii) a financial institution,
 
-(a) the management of a portfolio of securities or futures contracts;
+for the purposes of facilitating the acquisition or holding of specified products;
 
-or
+(g) any credit facility, advance or loan by a company to its directors or employees to facilitate the acquisition or holding of its own specified products;
 
-(b) foreign exchange trading or leveraged foreign exchange trading for the purpose of managing the customer’s funds;
+(h) any credit facility, advance or loan by a member of a group of companies to another member of the group to facilitate the acquisition or holding of specified products by that other member; or
 
-‘‘leveraged foreign exchange trading’’ means —
+(i) any credit facility, advance or loan by an individual to a company in which he or she holds 10% or more of its issued share capital to facilitate the acquisition or holding of specified products;
 
-(a) foreign exchange trading on a margin basis whereby a person undertakes, as determined by the terms and conditions of the foreign exchange trading contract or arrangement —
+“providing credit rating services” means preparing, whether wholly or partly in Singapore, credit ratings in relation to activities in the securities and futures industry for —
 
-(i) to make an adjustment between himself and another person according to whether a currency is worth more or less, as the case may be, in relation to another currency, or according to whether a currency index rises or falls in value, as the case may be, in relation to an agreed value;
-
-SECOND SCHEDULE — continued
-
-(ii) to pay an amount of money determined or to be determined by reference to the change in value of a currency in relation to another currency, or by reference to the change in value of a currency index in relation to an agreed value; or
-
-(iii) to deliver to another person at an agreed future time an agreed amount of currency at an agreed price;
-
-(b) the provision by any person referred to in paragraph (a) of any advance, credit facility or loan, directly or indirectly, to facilitate an act of the description referred to in that paragraph; or
-
-(c) the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into, an arrangement with another person (whether on a discretionary basis or otherwise) to enter into any contract to facilitate an act of the description mentioned in paragraph (a) or (b), but does not include any act performed for or in connection with a contract or an arrangement —
-
-(i) arranged by a bank that is licensed under the Banking Act (Cap. 19) or a merchant bank approved as a financial institution under the Monetary Authority of Singapore Act (Cap. 186);
-
-(ii) by any person belonging to such class of persons, or carrying on such class or description of business, as may be prescribed by the Authority; or
-
-(iii) which is a futures contract, or such a proposed contract or arrangement;
-
-‘‘offer’’ or ‘‘offering’’ includes invitation to treat;
-
-‘‘on a margin basis’’, in relation to the definition of ‘‘leveraged foreign exchange trading’’, means the first-mentioned person referred to in the definition of ‘‘leveraged foreign exchange trading’’ entering into the contract or arrangement referred to therein by providing to the offeror or his agent money, securities, property or other collateral which represents only a part of the value of the contract or arrangement to be entered into by him;
-
-‘‘providing custodial services for securities’’ means providing or agreeing to provide any service where the person providing the service has, under an arrangement with another person (the customer), possession or control of securities of the customer and carries out one or more of the following functions for the customer:
-
-(a) settlement of transactions relating to the securities;
-
-(b) collecting or distributing dividends or other pecuniary benefits derived from ownership or possession of the securities;
-
-(c) paying tax or other costs associated with the securities;
+(a) dissemination, whether in Singapore or elsewhere, or with a reasonable expectation that they will be so disseminated; or
 
 SECOND SCHEDULE — continued
 
-(d) exercising rights, including without limitation voting rights, attached to or derived from the securities;
+(b) distribution by subscription, whether in Singapore or elsewhere, or with a reasonable expectation that they will be so distributed,
 
-(e) any other function necessary or incidental to the safeguarding or administration of the securities, but does not include —
+but does not include —
 
-(i) the activities of a corporation which is a Depository as defined in Division 7A of Part IV of the Companies Act (Cap. 50);
+(c) preparing a private credit rating pursuant to an individual order which is intended to be provided exclusively to the person who placed the order and not intended for public disclosure or distribution by subscription; or
 
-(ii) the provision of services to a related corporation or connected person, so long as none of the securities is —
+(d) preparing credit scores, credit scoring systems or similar assessments related to obligations arising from consumer, commercial or industrial relationships;
 
-(A) held on trust for another person by the related corporation or connected person;
+“providing custodial services” means, in relation to specified products, providing or agreeing to provide any service where the person providing the service has, under an arrangement with another person (the customer), possession or control of the specified products of the customer and carries out one or more of the following functions for the customer:
 
-(B) held as a result of any custodial services provided by the related corporation or connected person to another person; or
+(a) settlement of transactions relating to the specified products;
 
-(C) beneficially owned by any person other than the related corporation or connected person;
+(b) collecting or distributing dividends or other pecuniary benefits derived from ownership or possession of the specified products;
 
-(iii) the provision of services by a nominee corporation which are solely incidental to the business of a nominee corporation; or
+(c) paying tax or other costs associated with the specified products;
 
-(iv) any other conduct as the Authority may prescribe;
+(d) exercising rights, including without limitation voting rights, attached to or derived from the specified products;
 
-‘‘securities financing’’ means to directly or indirectly facilitate, by providing any credit facility, advance or loan —
+(e) any other function necessary or incidental to the safeguarding or administration of the specified products,
 
-(a) the subscription for securities, or the purchase of securities listed or to be listed on a securities market or such other securities as the Authority may prescribe; and
+but does not include —
 
-(b) where applicable, the continued holding of those securities, whether or not those securities are pledged as security for the credit facility, advance or loan, but does not include the provision of any credit facility, advance or loan —
+(f) the activities of a corporation that is a Depository as defined in section 81SF;
 
-(i) that forms part of an arrangement to underwrite or sub-underwrite securities;
+(g) the provision of services to a related corporation or connected person, so long as none of the specified products in respect of which such services are provided is —
 
-(ii) (Deleted by Act 16/2003)
+(i) held on trust for another person by the related corporation or connected person;
 
-(iii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
+(ii) held as a result of any custodial services provided by the related corporation or connected person to another person; or
 
-(iv) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities;
-
-(v) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member; or
+(iii) beneficially owned by any person other than the related corporation or connected person;
 
 SECOND SCHEDULE — continued
 
-(vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities;
+(h) the provision of services by a nominee corporation that are solely incidental to the business of the nominee corporation; and
 
-‘‘trading in futures contracts’’ means (whether as principal or agent) —
+(i) any other conduct the Authority may, by order, prescribe;
 
-(a) making or offering to make with any person, or inducing or attempting to induce any person to enter into or to offer to enter into any agreement for or with a view to the purchase or sale of a futures contract; or
+“rating category” means a rating symbol, such as a letter or numerical symbol which might be accompanied by appending identifying characters, used in a credit rating to provide a relative measure of risk to distinguish the different risk characteristics of the types of rating targets;
 
-(b) soliciting or accepting any order for, or otherwise dealing in, a futures contract.
+“rating target” means the subject of a credit rating which may be —
 
-[16/2003; 1/2005]
+(a) a person other than an individual;
+
+(b) the government of a sovereign country, including the Government of Singapore; or
+
+(c) capital markets products;
+
+“real estate investment trust management” means managing the property of, or operating, a real estate investment trust;
+
+“spot foreign exchange contract” means a spot contract of which the underlying thing is a currency.
+
+[2/2009; 35/2014; 4/2017;1/2020; S 376/2008;
+
+S 20/2012]

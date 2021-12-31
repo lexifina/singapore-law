@@ -1,22 +1,20 @@
-# 203. Continuous disclosure … … … … … … … 246
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 203. Continuous disclosure
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 
-(1) This section shall apply to —
+(1) A person to whom this subsection applies must not intentionally, recklessly or negligently fail to notify the approved exchange of such information as is required to be disclosed by the approved exchange under the listing rules or any other requirement of the approved exchange, if the person is required by the approved exchange under the listing rules or any other requirement of the approved exchange to notify the approved exchange of information on specified events or matters as they occur or arise for the purpose of the approved exchange making that information available to an organised market operated by the approved exchange.
 
-(a) an entity the securities of which are listed for quotation on a securities exchange;
+[4/2017]
 
-(b) a trustee of a business trust, where the securities of the business trust are listed for quotation on a securities exchange;
+(2) Subsection (1) applies to any of the following:
 
-or
+(a) an entity, the securities or securities-based derivatives contracts of which are listed for quotation on an approved exchange;
 
-(c) a responsible person of a collective investment scheme, where the units of the collective investment scheme are listed for quotation on a securities exchange, if the entity, trustee or responsible person is required by the securities exchange under the listing rules or any other requirement of the securities exchange to notify the securities exchange of information on specified events or matters as they occur or arise for the purpose of the securities exchange making that information available to a securities market operated by the securities exchange.
+(b) a trustee-manager of a business trust, where the securities or securities-based derivatives contracts of the business trust are listed for quotation on an approved exchange;
 
-[1/2005]
+(c) a responsible person of a collective investment scheme, where the units in the collective investment scheme are listed for quotation on an approved exchange.
 
-(2) The persons specified in subsection (1) (a), (b) or (c) shall not intentionally, recklessly or negligently fail to notify the securities exchange of such information as is required to be disclosed by the securities exchange under the listing rules or any other requirement of the securities exchange.
+[4/2017]
 
-[1/2005]
+(3) Despite section 204 or 335, a contravention of subsection (1) is not an offence unless the failure to notify is intentional or reckless.
 
-(3) Notwithstanding section 204, a contravention of subsection (2) shall not be an offence unless the failure to notify is intentional or reckless.
-
-[Aust. Corporations 2001, s. 1001A]
+[4/2017]

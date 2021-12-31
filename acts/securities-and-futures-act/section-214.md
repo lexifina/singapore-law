@@ -1,14 +1,30 @@
-# 214. Interpretation of this Division … … … … … … 251
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 214. Interpretation of this Division
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 Division: Division 3 — Insider Trading
 
-In this Division —
+(1) In this Division —
 
-‘‘debenture’’ has the same meaning as in section 2 and, in relation to a business trust, means a debenture issued by the trustee of the business trust in its capacity as trustee of the business trust;
+“Collective Investment Scheme unit” or “CIS unit” means —
 
-‘‘financial performance’’, in relation to a business trust, means the performance of the business relating to the trust property of the business trust which is managed and operated by the trustee of the business trust;
+(a) a right or interest (however described) in a collective investment scheme (whether or not constituted as an entity), and includes an option to acquire any such right or interest in the collective investment scheme;
 
-‘‘information’’ includes —
+or
+
+(b) a contract or arrangement under which —
+
+(i) a party to the contract or arrangement is required to, or may be required to, discharge its obligations under the contract or arrangement at some future time; and
+
+(ii) the value of the contract or arrangement, is determined (whether directly or indirectly, or whether wholly or in part) by reference to, derived from, or varies by reference to any of the following:
+
+(A) the value or amount of units of a collective investment scheme;
+
+(B) fluctuations in the values or amount of units of a collective investment scheme;
+
+“debenture” has the meaning given by section 2 and, in relation to a business trust, means a debenture issued by the trustee of the business trust in its capacity as trustee of the business trust;
+
+“financial performance”, in relation to a business trust, means the performance of the business relating to the trust property of the business trust which is managed and operated by the trustee of the business trust;
+
+“information” includes —
 
 (a) matters of supposition and other matters that are insufficiently definite to warrant being made known to the public;
 
@@ -16,86 +32,40 @@ In this Division —
 
 (c) matters relating to negotiations or proposals with respect to —
 
-(i) commercial dealings;
+(i) commercial dealings; or
 
-(ii) dealing in securities; or
+(ii) dealing in capital markets products that are securities, securities-based derivatives contracts or CIS units;
 
-(iii) trading in futures contract;
+(iii) [Deleted by Act 4 of 2017]
 
 (d) information relating to the financial performance of a corporation or business trust, or otherwise;
 
-(e) information that a person proposes to enter into, or had previously entered into one or more transactions or agreements in relation to securities or has prepared or proposes to issue a statement relating to such securities; and
+(e) information that —
+
+(i) a person proposes to enter into, or had previously entered into, one or more transactions or agreements in relation to any securities, securities-based derivatives contract or CIS unit; or
+
+(ii) a person has prepared or proposes to issue a statement relating to any securities, securities-based derivatives contract or CIS unit; and
 
 (f) matters relating to the future;
 
-‘‘purchase’’, in relation to securities, includes, in the case of an option contract under which a party acquires an option or right from another party, acquiring the option or right under the contract, or taking an assignment of the option or right, whether or not on another’s behalf;
+“persons who commonly invest”, in relation to investment in any kind of securities, securities-based derivatives contracts or CIS units, means a section of the public that is accustomed, or would be likely, to deal in securities, securities-based derivatives contracts or CIS units, or in a class of securities, securities-based derivatives contracts or CIS units, of that kind;
 
-‘‘securities’’ means —
+“purchase”, in relation to securities-based derivatives contracts or CIS units, includes a contract or arrangement under which a party acquires an option or right from another party, acquiring the option or right under the contract, or taking an assignment of the option or right, whether or not on another’s behalf;
 
-(a) in relation to a corporation, for the purposes of sections 213 (a) (i) and (b) (i) and 218 —
-
-(i) debentures, stocks or shares issued or proposed to be issued by a corporation;
-
-(ii) any right, option or derivative in respect of any such debentures, stocks or shares;
-
-(iii) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
-
-(A) the value or price of any such debentures, stocks or shares;
-
-(B) the value or price of any group of any such debentures, stocks or shares; or
-
-(C) an index of any such debentures, stocks or shares; or
-
-(iv) a futures contract only if the commodity which is the subject of the futures contract is a share or stock of a corporation;
-
-(b) in relation to a business trust, for the purposes of sections 213 (a) (ia) and (b) (ia) and 218 (1A) and
-
-(4A) —
-
-(i) units in a business trust;
-
-(ii) derivatives of units in a business trust;
-
-(iii) debentures of a business trust; or
-
-(iv) any right, option or derivative in respect of any such debentures; and
-
-(c) in any other case —
-
-(i) debentures or stocks issued or proposed to be issued by a government;
-
-(ii) debentures, stocks or shares issued or proposed to be issued by a corporation or body unincorporate;
-
-(iii) any right, option or derivative in respect of any such debentures, stocks or shares;
-
-(iv) any unit in a collective investment scheme;
-
-(v) any unit, or derivative of a unit, in a business trust;
-
-(vi) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
-
-(A) the value or price of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust;
-
-(B) the value or price of any group of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust; or
-
-(C) an index of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust; or
-
-(vii) a futures contract only if the commodity which is the subject of the futures contract is a share or share index, or stock or stock index, but does not include —
-
-(AA) bills of exchange;
-
-(BB) promissory notes; or
-
-(CC) certificates of deposit issued by a bank or finance company;
-
-‘‘sell’’, in relation to securities, includes, in the case of an option contract under which a party acquires an option or right from another party —
+“sell”, in relation to securities-based derivatives contracts or CIS units, includes a contract or arrangement under which a party acquires an option or right from another party —
 
 (a) grant or assign the option or right; or
 
 (b) take, or cause to be taken, such action as releases the option or right, whether or not on another’s behalf;
 
-‘‘trust property’’ has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A).
+“trust property” has the meaning given by section 2 of the Business Trusts Act 2004.
 
-[1/2005]
+[2/2009; 4/2017]
 
-[SIA, s. 2; Malaysia SIA, s. 89]
+(2) In this Division —
+
+(a) a reference to a securities-based derivatives contract of a corporation in sections 213(a)(i) and (b)(i) and 218 is a reference to a securities-based derivatives contract of which the underlying thing, or any of the underlying things, is a security of that corporation; and
+
+(b) a reference to a securities-based derivatives contract of a business trust in sections 213(a)(ii) and (b)(ii) and 218 is a reference to a securities-based derivatives contract of which the underlying thing, or any of the underlying things, is a security of that business trust.
+
+[4/2017]

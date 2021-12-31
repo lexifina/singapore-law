@@ -1,34 +1,23 @@
-# 77. Listing of designated clearing houses on securities market 116
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
-Subdivision: Subdivision (3) — Matters requiring approval of Authority Section Pages
+# 77. Obligation in relation to customers’ money and assets held by recognised clearing house
+Part: PART 3 CLEARING FACILITIES
+Division: Division 3 — Regulation of Recognised Clearing Houses
 
-(1) The securities of a designated clearing house shall not be listed for quotation on a securities market that is operated by any of its related corporations unless the designated clearing house and the operator of the securities market have entered into such arrangements as the Authority may require —
+(1) Without affecting sections 81Q and 341, the Authority may make regulations —
 
-(a) for dealing with possible conflicts of interest that may arise from such listing; and
+(a) relating to how any money or assets deposited with or paid to a recognised clearing house by its members, for or in relation to any contracts of the customers of those members, are to be held by the recognised clearing house and, in particular, requiring any such money or assets to be deposited in trust accounts or custody accounts;
 
-(b) for the purpose of ensuring the integrity of the trading of the securities of the designated clearing house.
+(b) relating to the circumstances under which, and the purposes for which, the money or assets referred to in paragraph (a) may be used by the recognised clearing house;
 
-[1/2005]
+(c) relating to how the recognised clearing house may invest the money or assets referred to in paragraph (a); and
 
-(2) Where the securities of a designated clearing house are listed for quotation on a securities market operated by any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
+(d) for any other purpose relating to the handling of the money or assets referred to in paragraph (a).
 
-(a) the admission or removal of the designated clearing house to or from the official list of the securities market; and
+[34/2012]
 
-(b) granting approval for the securities of a designated clearing house to be, or stopping or suspending the securities of the designated clearing house from being listed for quotation or quoted on the securities market.
+(2) Regulations made under this section may provide —
 
-[1/2005]
+(a) that a contravention of any specified provision thereof shall be an offence; and
 
-(3) The Authority may, by notice in writing to the operator of the securities market —
+(b) for a penalty not exceeding a fine of $150,000 and, in the case of a continuing offence, for a further penalty not exceeding $15,000 for every day or part of a day during which the offence continues after conviction.
 
-(a) modify the listing rules of the securities market for the purpose of their application to the listing of the securities of the designated clearing house for quotation or trading; or
-
-(b) waive the application of any listing rule of the securities market to the designated clearing house.
-
-[1/2005]
-
-(4) Any designated clearing house which contravenes subsection
-
-(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
+[34/2012]

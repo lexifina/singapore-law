@@ -1,46 +1,72 @@
-# 97. Removal of officer of holder of capital markets services licence … … … … … … … … … … 175
-Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
+# 97. Removal of officer of holder of capital markets services licence
+Part: PART 4 HOLDERS OF CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVES Division 1 — Capital Markets Services Licence
 
-(1) Where the Authority is satisfied that an officer of a holder of a capital markets services licence —
+(1) Despite the provisions of any other written law —
 
-(a) has wilfully contravened or wilfully caused that holder to contravene this Act;
+(a) a holder of a capital markets services licence must not, without the prior written consent of the Authority, permit a person to act as its executive officer; and
 
-(b) has without reasonable excuse failed to enforce compliance with this Act;
+(b) a holder of a capital markets services licence which is incorporated in Singapore must not, without the prior written consent of the Authority, permit a person to act as its director, if the person —
 
-(c) has failed to discharge the duties or functions of his office;
+(c) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after 18 April 2013, being an offence —
 
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
+(i) involving fraud or dishonesty;
 
-(e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+(ii) the conviction for which involved a finding that he or she had acted fraudulently or dishonestly; or
 
-(f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
+(iii) that is specified in the Third Schedule to the Registration of Criminals Act 1949;
 
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly, the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors direct by notice in writing that holder to remove the officer from office or employment, and that holder shall comply with such notice notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-[1/2005]
+(e) has had execution against him or her in respect of a judgment debt returned unsatisfied in whole or in part;
 
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a holder of a capital markets services licence has failed to discharge the duties or functions of his office for the purposes of subsection (1) (c), have regard to such criteria as may be prescribed or as may be specified in written directions.
+(f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his or her creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder an opportunity to be heard.
+(g) has had a prohibition order under section 68 of the Financial Advisers Act 2001, section 74 of the Insurance Act 1966 or section 101A or 123ZZC made against him or her that remains in force; or
 
-[1/2005]
+(h) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
-(4) The Authority may direct a holder of a capital markets services licence to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the holder an opportunity to be heard:
+(i) which is being or has been wound up by a court; or
 
-(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+(ii) the approval, authorisation, designation, recognition, registration or licence of which has been withdrawn, cancelled or revoked by the Authority or, in the case of a regulated financial institution in a foreign country or territory, by the regulatory authority in that foreign country or territory.
 
-(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+[10/2013; 4/2017]
 
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+(1A) Despite the provisions of any other written law, where the Authority is satisfied that a director of a holder of a capital markets services licence which is incorporated in Singapore, or an executive officer of a holder of a capital markets services licence —
 
-(ii) punishable with imprisonment for a term of 3 months or more.
+(a) has wilfully contravened or wilfully caused the holder to contravene any provision of this Act;
 
-[16/2003]
+(b) has, without reasonable excuse, failed to secure the compliance of the holder with this Act, the Monetary Authority of Singapore Act 1970 or any of the written laws set out in the Schedule to that Act; or
 
-(5) Where the Authority directs a holder of a capital markets services licence to remove from office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
+(c) has failed to discharge any of the duties of his or her office, the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by written notice to the holder, direct the holder to remove the director or executive officer (as the case may be) from his or her office or employment within such period as the Authority may specify in the notice, and the holder must comply with the notice.
+
+[10/2013]
+
+(2) Without affecting any other matter that the Authority may consider relevant, the Authority must, when determining whether a director or an executive officer of a holder of a capital markets services licence has failed to discharge the duties of his or her office for the purposes of subsection (1A)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
+
+[10/2013]
+
+(3) The Authority must not direct a holder of a capital markets services licence to remove a person from his or her office under subsection (1A) without giving the holder an opportunity to be heard.
+
+[10/2013]
+
+(4) [Deleted by Act 10 of 2013]
+
+(5) Where the Authority directs a holder of a capital markets services licence to remove a person from his or her office or employment under subsection (1A), the Authority need not give that person an opportunity to be heard.
+
+[10/2013]
 
 (6) No criminal or civil liability shall be incurred by —
 
 (a) a holder of a capital markets services licence; or
 
-(b) any person acting on behalf of the holder of a capital markets services licence, in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
+(b) any person acting on behalf of the holder of a capital markets services licence, in respect of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
+
+[10/2013]
+
+(7) In this section, unless the context otherwise requires —
+
+“regulated financial institution” means a person who carries on a business, the conduct of which is regulated or authorised by the Authority or, if it is carried on in Singapore, would be regulated or authorised by the Authority;
+
+“regulatory authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory exercising any function that corresponds to a regulatory function of the Authority under this Act, the Monetary Authority of Singapore Act 1970 or any of the written laws set out in the Schedule to that Act.
+
+[10/2013]

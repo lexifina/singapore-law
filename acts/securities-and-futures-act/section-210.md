@@ -1,15 +1,15 @@
-# 210. Employment of fraudulent or deceptive devices, etc. … 249
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
-Division: Division 2 — Prohibited Conduct — Futures Contracts, Leveraged Foreign Exchange Trading
+# 210. Penalties under this Division
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
+Division: Division 2 — Prohibited Conduct — Financial Benchmarks
 
-No person shall, directly or indirectly, in connection with any transaction involving trading in a futures contract or leveraged foreign exchange trading —
+(1) Any person who contravenes any of the provisions of this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(a) employ any device, scheme or artifice to defraud;
+[4/2017]
 
-(b) engage in any act, practice or course of business which operates as a fraud or deception, or is likely to operate as a fraud or deception, upon any person;
+(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of any of the provisions of this Division after —
 
-(c) make any false statement of a material fact; or
+(a) a court has made an order against the person for the payment of a civil penalty under section 232; or
 
-(d) omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading.
+(b) the person has entered into an agreement with the Authority to pay, with or without admission of liability, a civil penalty under section 232(5), in respect of that contravention.
 
-[FTA, s. 54]
+[4/2017]

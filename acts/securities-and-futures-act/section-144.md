@@ -1,26 +1,24 @@
-# 144. Exercise of certain powers in relation to futures contracts 209
-Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
+# 144. Exercise of certain powers in relation to financial benchmarks
+Part: PART 9 SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers Subdivision (1) — Powers of Authority to require disclosure of information about capital markets products
 
-(1) This section shall apply where the Authority considers that —
+(1) This section applies where the Authority considers that —
 
-(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 34;
+(a) it may be necessary to give a direction in relation to any designated benchmark under section 123ZZB; or
 
-or
+(b) a person may have contravened any of the provisions of Part 12 in relation to a financial benchmark.
 
-(b) a person may have contravened any of the provisions of Part XII in relation to futures contracts.
-
-[42/2005]
+[4/2017]
 
 (2) Where the Authority believes on reasonable grounds that a person is capable of giving information concerning any of the following matters:
 
-(a) any trading in futures contracts;
+(a) the activity of administering a financial benchmark;
 
-(b) any advice given, or any report or analysis issued or published concerning such futures contracts, by the holder of a capital markets services licence to trade in futures contracts, or a representative of such a holder;
+(b) the activity of providing information in relation to a financial benchmark;
 
-(c) the financial position of any business carried on by a person who is or has been (either alone or together with another person or other persons) the holder of a capital markets services licence to trade in futures contracts and has traded in or given advice or issued or published a report or an analysis concerning such futures contracts;
+(c) the financial position of any authorised benchmark administrator, exempt benchmark administrator, authorised benchmark submitter, exempt benchmark submitter or designated benchmark submitter;
 
-(d) the financial position of any business carried on by a nominee controlled by a person referred to in paragraph (c) or jointly controlled by 2 or more persons, at least one of whom is a person referred to in that paragraph; or
+(d) the financial position of any business carried on by a nominee controlled by a person mentioned in paragraph (c) or jointly controlled by 2 or more persons, at least one of whom is a person mentioned in that paragraph;
 
-(e) an audit of, or any report of an auditor concerning, any book of the holder of a capital markets services licence to trade in futures contracts, being a book relating to trading in such futures contracts, the Authority may require the person to disclose to the Authority the information that the person has about that matter.
+(e) an audit of, or any report of an auditor concerning, any book of any authorised benchmark administrator, exempt benchmark administrator, authorised benchmark submitter, exempt benchmark submitter, or designated benchmark submitter, being a book relating to a designated benchmark, the Authority may require the person to disclose to the Authority the information that the person has about that matter.
 
-[SIA, s. 10 (4) modified]
+[4/2017]

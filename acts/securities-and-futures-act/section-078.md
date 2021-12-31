@@ -1,28 +1,17 @@
-# 78. Power to impose conditions or restrictions … … … 117
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
-Subdivision: Subdivision (4) — Powers of Authority
+# 78. Obligation to maintain proper records
+Part: PART 3 CLEARING FACILITIES
+Division: Division 3 — Regulation of Recognised Clearing Houses
 
-(1) The Authority may impose on a designated clearing house such conditions or restrictions as it thinks fit by notice in writing, in addition to the obligations imposed on the designated clearing house under this Division, for the purposes of furthering the objectives specified in section 47.
+(1) A recognised clearing house must maintain a record of all transactions effected through its clearing facility.
 
-[1/2005]
+[34/2012]
 
-(2) The Authority may, at any time, by notice in writing to the designated clearing house, vary any condition or restriction as it may think fit.
+(2) The Authority may prescribe by regulations made under section 81Q —
 
-[1/2005]
+(a) the form and manner in which the record referred to in subsection (1) must be maintained;
 
-(3) Without affecting the generality of subsection (1) or (2), the conditions or restrictions that the Authority may impose include conditions or restrictions relating to —
+(b) the extent to which the record includes details of each transaction; and
 
-(a) the activities that the designated clearing house may undertake;
+(c) the period of time that the record is to be maintained.
 
-(b) the products that may be cleared by the clearing facility;
-
-(c) the nature of investors or participants who may use or participate in the clearing facility; and
-
-(d) the requirement for the designated clearing house to operate as a corporation.
-
-[1/2005]
-
-(4) Any designated clearing house which contravenes any condition or restriction imposed under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
+[34/2012]

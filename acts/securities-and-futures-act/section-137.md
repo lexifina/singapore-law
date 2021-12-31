@@ -1,11 +1,11 @@
-# 137. Duty of substantial shareholders to notify securities exchange … … … … … … … … … 201
-Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
-Division: Division 2 — Disclosure by Substantial Shareholders Section Pages
+# 137. Duty of person who ceases to be substantial shareholder to notify corporation
+Part: PART 7 DISCLOSURE OF INTERESTS Division 1 — Disclosure of Interest in Corporation
+Subdivision: Subdivision (2) — Disclosure by substantial shareholders in corporation
 
-(1) In the case of a company all or any of which shares are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder as though references to the company to which notification should be given were references to the securities exchange, and such person shall comply with those provisions accordingly.
+(1) A person who ceases to be a substantial shareholder in a corporation must give written notice to the corporation within 2 business days after the person becomes aware that the person has ceased to be a substantial shareholder.
 
-[1/2005]
+[2/2009]
 
-(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
+(2) A notice under subsection (1) must be in such form and must contain such information as the Authority may prescribe.
 
-Division 3 — Disclosure by Substantial Unitholders
+[2/2009]

@@ -1,22 +1,26 @@
-# 131. Register of securities … … … … … … … 199
-Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
+# 131. Persons obliged to comply with this Division and power of Authority to grant exemption or extension
+Part: PART 7 DISCLOSURE OF INTERESTS Division 1 — Disclosure of Interest in Corporation
 
-(1) A relevant person shall —
+(1) The obligation to comply with this Division extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
 
-(a) maintain in the prescribed form a register of his interests in securities;
+[2/2009]
 
-(b) enter in the register, within 7 days after the date that he acquires any interest in securities, particulars of the securities in which he has an interest and particulars of his interest in those securities; and
+(2) This Division extends to acts done or omitted to be done outside Singapore.
 
-(c) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which such entry is first made.
+[2/2009]
 
-(2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
+(3) The Authority may exempt any person or class of persons from any or all of the provisions of this Division.
 
-(a) enter in the register, within 7 days after the date of the change, particulars of the change including the date of the change and the circumstances by reason of which the change has occurred;
+[2/2009]
 
-and
+(4) The Authority may by written notice impose on a person exempted under subsection (3), or by regulations impose on a class of persons exempted under that subsection, such conditions or restrictions as the Authority thinks fit and the person or persons must comply with such conditions or restrictions.
 
-(b) retain that entry in an easily accessible form for a period of not less than 6 years after the date on which such entry was first made.
+[2/2009]
 
-[16/2003]
+(5) Any person who contravenes any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
 
-[SIA, s. 42]
+[2/2009]
+
+(6) The Authority may, on the application of a person required to give a notice under this Division, extend, or further extend, the time for giving the notice.
+
+[2/2009]

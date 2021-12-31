@@ -1,39 +1,23 @@
-# 81J. Disclaimer of onerous property, rescission of contracts, etc. 130
-Part: PART III CLEARING FACILITIES
+# 81J. Application of market collateral not affected by certain other interest, etc.
+Part: PART 3 CLEARING FACILITIES
 Division: Division 4 — Insolvency
 
-(1) Section 110 of the Bankruptcy Act and section 332 of the Companies Act shall not apply —
+(1) This section has effect with respect to the application by an approved clearing house, or a recognised clearing house, of property provided as market collateral (called in this section the property).
 
-(a) to a market contract;
+[34/2012]
 
-(b) to a contract effected by a designated clearing house for the purpose of realising property provided as market collateral;
+(2) The property may be applied in accordance with the business rules or default rules of the approved clearing house or recognised clearing house, so far as it is necessary for it to be so applied, despite —
 
-(c) to a market charge; or
+(a) any prior equitable interest or right, or any right or remedy arising from a breach of fiduciary duty, unless the approved clearing house or recognised clearing house had actual notice of the interest, right or breach of duty (other than any interest or right arising from the situation referred to in paragraph (b)) (as the case may be) at the time the property was provided as market collateral; or
 
-(d) to any default proceedings.
+(b) that the property is deposited by the approved clearing house or recognised clearing house in a trust account held for the benefit of a participant.
 
-[1/2005]
+[34/2012]
 
-(2) Section 77 of the Bankruptcy Act and sections 259 and 299 (1) of the Companies Act shall not apply to any act, matter or thing which has been done under —
+(3) No right or remedy arising subsequent to the provision of the property as market collateral may be enforced to prevent, or interfere with, the application of the property by the approved clearing house or recognised clearing house in accordance with its business rules or default rules.
 
-(a) a market contract;
+[34/2012]
 
-(b) a disposition of property pursuant to a market contract;
+(4) Where an approved clearing house, or a recognised clearing house, has power under this section to apply the property despite an interest, a right or a remedy, a person to whom the approved clearing house or recognised clearing house disposes of the property in accordance with its business rules or default rules takes free from that interest, right or remedy.
 
-(c) the provision of market collateral;
-
-(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
-
-(e) a disposition of property in accordance with the business rules of a designated clearing house relating to the application of property provided as market collateral;
-
-(f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
-
-(g) a disposition of property for the purpose of enforcing a market charge;
-
-(h) a market charge; or
-
-(i) any default proceedings.
-
-[1/2005]
-
-[HK SF Bill, Clause 49]
+[34/2012]

@@ -1,17 +1,37 @@
-# 81G. Supplementary provisions as to default proceedings … … 128
-Part: PART III CLEARING FACILITIES
+# 81G. Disclaimer of onerous property, rescission of contracts, etc.
+Part: PART 3 CLEARING FACILITIES
 Division: Division 4 — Insolvency
 
-(1) A court may, on the application of a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his office that are affected by default proceedings if default proceedings have been, could be, or could have been, taken.
+(1) Sections 230, 231, 373 and 374 of the Insolvency, Restructuring and Dissolution Act 2018 do not apply to —
 
-[1/2005]
+(a) a market contract;
 
-(2) The functions of the relevant office holder shall be construed subject to an order made under subsection (1).
+(b) a contract effected by an approved clearing house, or a recognised clearing house, for the purpose of realising property provided as market collateral;
 
-[1/2005]
+(c) a market charge; or
 
-(3) Sections 45, 74 and 76 of the Bankruptcy Act (Cap. 20) and sections 210, 258, 260, 262 (3), 299 (1) and 309 of the Companies Act (Cap. 50) shall not prevent, or interfere with, any default proceedings.
+(d) any default proceedings.
 
-[1/2005]
+[34/2012; 40/2018]
 
-[HK SF Bill, Clause 46]
+(2) Sections 130(1), 170(1) and 328 of the Insolvency, Restructuring and Dissolution Act 2018 do not apply to any act, matter or thing which has been done under —
+
+(a) a market contract;
+
+(b) a disposition of property pursuant to a market contract;
+
+(c) the provision of market collateral;
+
+(d) a contract effected by an approved clearing house, or a recognised clearing house, for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
+
+(e) a disposition of property in accordance with the business rules of an approved clearing house, or a recognised clearing house, relating to the application of property provided as market collateral;
+
+(f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
+
+(g) a disposition of property for the purpose of enforcing a market charge;
+
+(h) a market charge; or
+
+(i) any default proceedings.
+
+[34/2012; 40/2018]

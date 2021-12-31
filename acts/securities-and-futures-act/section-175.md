@@ -1,10 +1,10 @@
-# 175. Interpretation of this Part … … … … … … 228
-Part: PART XI INVESTOR COMPENSATION SCHEME
+# 175. Interpretation of this Part
+Part: PART 11 INVESTOR COMPENSATION SCHEME
 
-In this Part, ‘‘member’’, in relation to a securities exchange or futures exchange, means a person who —
+In this Part, “member”, in relation to an approved exchange, means a person who —
 
-(a) holds membership of any class or description of the securities exchange or futures exchange, whether or not he holds any share in the share capital of such exchange; and
+(a) holds membership of any class or description of the approved exchange, whether or not the person holds any share in the share capital of such exchange; and
 
-(b) is licensed by the Authority to carry on the business of dealing in securities or trading in futures contracts, as the case may be.
+(b) is licensed by the Authority to carry on the business of dealing in capital markets products.
 
-[SIA, s. 74; FTA, s. 49A]
+[2/2009; 4/2017]

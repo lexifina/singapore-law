@@ -1,11 +1,10 @@
-# 69. Annual fees payable by designated clearing house … … 108
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+# 69. Non-compliance with business rules not to substantially affect rights of person
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
+Subdivision: Subdivision (2) — Rules of approved clearing houses
 
-(1) Every designated clearing house shall pay to the Authority such annual fees as may be prescribed and in such manner as may be specified by the Authority.
+Any failure by an approved clearing house to comply with this Act or its business rules in relation to a matter does not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules, so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules.
 
-[1/2005]
+[34/2012]
 
-(2) The Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
-
-[1/2005]
+Subdivision (3) — Matters requiring approval of Authority

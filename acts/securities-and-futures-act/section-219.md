@@ -1,28 +1,31 @@
-# 219. Prohibited conduct by other persons in possession of inside information … … … … … … … … … 258
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 219. Prohibited conduct by other persons in possession of inside information
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 Division: Division 3 — Insider Trading
-Heading: Section Pages
 
 (1) Subject to this Division, where —
 
-(a) a person who is not a connected person referred to in section 218 (referred to in this section as the insider) possesses information that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of securities; and
+(a) a person who is not a connected person referred to in section 218 (called in this section the insider) possesses information that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of securities, securities-based derivatives contracts or CIS units; and
 
 (b) the insider knows that —
 
 (i) the information is not generally available; and
 
-(ii) if it were generally available, it might have a material effect on the price or value of those securities, subsections (2) and (3) shall apply.
+(ii) if it were generally available, it might have a material effect on the price or value of those securities, securities-based derivatives contracts or CIS units, as the case may be, subsections (2) and (3) apply.
+
+[4/2017]
 
 (2) The insider must not (whether as principal or agent) —
 
-(a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities; or
+(a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities, securities-based derivatives contracts or CIS units, as the case may be; or
 
-(b) procure another person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities.
+(b) procure another person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities, securities-based derivatives contracts or CIS units, as the case may be.
 
-(3) Where trading in the securities referred to in subsection (1) is permitted on the securities market of a securities exchange or futures market of a futures exchange, the insider must not, directly or indirectly, communicate the information, or cause the information to be communicated, to another person if the insider knows, or ought reasonably to know, that the other person would or would be likely to —
+[4/2017]
 
-(a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities; or
+(3) The insider must not, directly or indirectly, communicate the information mentioned in subsection (1), or cause the information to be communicated, to another person if the insider knows, or ought reasonably to know, that the other person would or would be likely to —
 
-(b) procure a third person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities.
+(a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, the securities, securities-based derivatives contracts or CIS units mentioned in subsection (1); or
 
-[Aust. Corporations 2001, s. 1002G]
+(b) procure a third person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, the securities, securities-based derivatives contracts or CIS units mentioned in subsection (1).
+
+[4/2017]

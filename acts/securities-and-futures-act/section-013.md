@@ -1,74 +1,19 @@
-# 13. Power of Authority to revoke approval and recognition … 58
-Part: PART II MARKETS
-Division: Division 1 — Establishment of Markets
-Subdivision: Subdivision (1) — Approved exchange and recognised market operator
+# 13. Cancellation of approval or recognition
+Part: PART 2 ORGANISED MARKETS
+Division: Division 1 — Establishment of Organised Markets
 
-(1) The Authority may revoke any approval of a corporation as an approved exchange under section 8 (1) or any recognition of a corporation as a recognised market operator under section 8 (2) if —
+(1) An approved exchange or a recognised market operator that intends to cease operating its organised market or, where it operates more than one organised market, all of its organised markets, may apply to the Authority to cancel its approval as an approved exchange or recognition as a recognised market operator, as the case may be.
 
-(a) there exists a ground under section 8 (7) on which the Authority may refuse an application;
+[4/2017]
 
-(b) the corporation does not commence operating its market or, where it operates more than one market, all of its markets, within 12 months from the date on which it was granted the approval under section 8 (1) or recognition under section 8 (2), as the case may be;
+(2) An application under subsection (1) must be made in such form and manner, and not later than such time, as the Authority may specify.
 
-(c) the corporation ceases to operate its market or, where it operates more than one market, all of its markets;
+[4/2017]
 
-(d) the corporation contravenes —
+(3) The Authority may cancel the approval of an approved exchange, or the recognition of a recognised market operator, on the application mentioned in subsection (1) if the Authority is satisfied that —
 
-(i) any condition or restriction applicable in respect of its approval or recognition, as the case may be;
+(a) the approved exchange or recognised market operator mentioned in subsection (1) has ceased operating its organised market or all of its organised markets, as the case may be; and
 
-(ii) any direction issued to it by the Authority under this Act; or
+(b) the cancellation of the approval or recognition (as the case may be) will not detract from the objectives specified in section 5.
 
-(iii) any provision in this Act;
-
-(e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
-
-(f) any information or document provided by the corporation to the Authority is false or misleading.
-
-[1/2005]
-
-(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) any approval under section 8 (1) or recognition under section 8 (2) that was granted to a corporation without giving the corporation an opportunity to be heard.
-
-[1/2005]
-
-(3) The Authority may revoke an approval under section 8 (1) or a recognition under section 8 (2) that was granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
-
-(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
-
-(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[1/2005]
-
-(4) For the purposes of subsection (1) (c), a corporation shall be deemed to have ceased to operate its market if —
-
-(a) it has ceased to operate the market for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
-
-(b) it has ceased to operate the market under a direction issued by the Authority under section 46.
-
-[1/2005]
-
-(5) Any corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(8) Any revocation of approval or recognition of a corporation referred to in subsection (1) shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into on a market operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the approval or recognition; or
-
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
-
-[1/2005]
-
-(9) The Authority shall give notice in the Gazette of any revocation of approval or recognition referred to in subsection (1).
-
-[1/2005]
-
-[UK FSMA, s. 297; FTA, s. 7]
+[4/2017]

@@ -1,9 +1,11 @@
-# 35. Power of Authority to exempt approved exchanges from provisions of this Part … … … … … … … 84
-Part: PART II MARKETS
-Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
-Subdivision: Subdivision (4) — Powers of Authority
-Heading: Section Pages
+# 35. Obligation to manage risks prudently
+Part: PART 2 ORGANISED MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-The Authority may exempt an approved exchange or a class of approved exchanges from any of the provisions of this Part if it is satisfied that the non-compliance by such approved exchange or class of approved exchanges with such provision would not detract from the objectives specified in section 5, subject to such conditions or restrictions as may be imposed by the Authority.
+(1) Without limiting section 33(1)(b), a recognised market operator must ensure that the systems and controls concerning the assessment and management of risks to every organised market that the recognised market operator operates are adequate and appropriate for the scale and nature of its operations.
 
-[1/2005]
+[4/2017]
+
+(2) Any recognised market operator which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part of a day during which the offence continues after conviction.
+
+[4/2017]

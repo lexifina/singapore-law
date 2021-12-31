@@ -1,77 +1,23 @@
-# 44. Power of Authority to remove officers … … … … 87
-Part: PART II MARKETS
+# 44. Power of Authority to make regulations
+Part: PART 2 ORGANISED MARKETS
 Division: Division 4 — General Powers of Authority
 
-(1) Where the Authority is satisfied that an officer of an approved exchange or a recognised market operator —
+(1) Without affecting section 341, the Authority may make regulations for the purposes of this Part, including regulations —
 
-(a) has wilfully contravened or wilfully caused that approved exchange or recognised market operator to contravene —
+(a) relating to the approval of approved exchanges and the recognition of recognised market operators;
 
-(i) this Act;
+(b) relating to the requirements applicable to any person who establishes, operates or assists in establishing or operating an organised market, whether or not the person is approved as an approved exchange under section 9(1)(a) or recognised as a recognised market operator under section 9(1)(b) or (2); and
 
-(ii) where applicable, its business rules; or
+(c) specifying measures to manage any risks assumed by an approved exchange or a recognised market operator.
 
-(iii) where applicable, its listing rules;
+[4/2017]
 
-(b) has, without reasonable excuse, failed to ensure compliance by that approved exchange or recognised market operator, a member of that approved exchange or recognised market operator, or a person associated with that member with —
+(2) Regulations made under this section may provide —
 
-(i) this Act;
+(a) that a contravention of any specified provision of the regulations made under this section shall be an offence;
 
-(ii) where applicable, the business rules of that approved exchange or recognised market operator; or
+and
 
-(iii) where applicable, the listing rules of that approved exchange or recognised market operator;
+(b) for a penalty not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part of a day during which the offence continues after conviction.
 
-(c) has failed to discharge the duties or functions of his office or employment;
-
-(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
-
-(f) has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
-
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly, the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct that approved exchange or recognised market operator to remove the officer from his office or employment, and that approved exchange or recognised market operator shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
-
-[1/2005]
-
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of an approved exchange or a recognised market operator has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1) (c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
-
-[1/2005]
-
-(3) Subject to subsection (4), the Authority shall not direct an approved exchange or a recognised market operator to remove an officer from his office or employment without giving the approved exchange or recognised market operator an opportunity to be heard.
-
-[1/2005]
-
-(4) The Authority may direct an approved exchange or a recognised market operator to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the approved exchange or recognised market operator an opportunity to be heard:
-
-(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
-
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
-
-(ii) punishable with imprisonment for a term of 3 months or more.
-
-[1/2005]
-
-(5) Where the Authority directs an approved exchange or a recognised market operator to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
-
-[1/2005]
-
-(6) Any approved exchange or a recognised market operator that is aggrieved by a direction of the Authority made in relation to the approved exchange or recognised market operator, as the case may be, under subsection (1) may, within 30 days after the approved exchange or recognised market operator, as the case may be, is notified of the direction, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section, shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(9) Subject to subsection (10), no criminal or civil liability shall be incurred by an approved exchange or a recognised market operator in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
-
-[1/2005]
-
-(10) Any approved exchange or a recognised market operator which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
+[4/2017]

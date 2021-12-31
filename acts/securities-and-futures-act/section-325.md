@@ -1,6 +1,5 @@
-# 325. Power of court to make certain orders … … … … 515
-Part: PART XV MISCELLANEOUS
-Heading: Section Pages
+# 325. Power of court to make certain orders
+Part: PART 15 MISCELLANEOUS
 
 (1) Where —
 
@@ -8,43 +7,83 @@ Heading: Section Pages
 
 (i) has committed an offence under this Act;
 
-(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, futures exchange, or designated clearing house, or the listing rules of a securities exchange; or
+(ii) has contravened any condition or restriction of a licence, or the business rules of an approved exchange, a licensed trade repository or an approved clearing house, or the listing rules of an approved exchange; or
 
-(iii) is about to do an act with respect to dealing in securities or trading in futures contracts that, if done, would be such an offence or contravention;
+(iii) is about to do an act with respect to dealing in capital markets products, administering a designated benchmark, or providing information in relation to a designated benchmark, that, if done, would be such an offence or contravention;
 
-(b) on the application of a securities exchange, it appears to the court that a person has contravened the business rules or listing rules of the securities exchange;
+(b) on the application of an approved exchange, it appears to the court that a person has contravened the business rules or listing rules of the approved exchange;
 
-(c) on the application of a futures exchange, it appears to the court that a person has contravened the business rules of the futures exchange; or
+(c) [Deleted by Act 4 of 2017]
 
-(d) on the application of a designated clearing house, it appears to the court that a person has contravened the business rules of the designated clearing house, the court may, without prejudice to any orders it would be entitled to make otherwise than under this section, make one or more of the following orders:
+(d) on the application of an approved clearing house, it appears to the court that a person has contravened the business rules of the approved clearing house; or
 
-(i) in the case of a persistent or continuing breach of this Act, or of any condition or restriction of a licence, or of any business rule of a securities exchange, futures exchange or clearing house, or any listing rule of a securities exchange an order restraining a person from carrying on business to deal in securities or trade in futures contracts, or acting as a representative of such a person, or from holding himself out as so carrying on business or so acting;
+(e) on the application of a licensed trade repository, it appears to the court that a person has contravened the business rules of the licensed trade repository, the court may, without affecting any orders it would be entitled to make otherwise than under this section, make any one or more of the orders specified in subsection (1A).
 
-(ii) an order restraining a person from acquiring, disposing of or otherwise dealing with any securities or trading in any futures contracts that are specified in the order;
+[34/2012; 4/2017]
 
-(iii) an order appointing a receiver of the property of the holder of a capital markets services licence to deal in securities or trade in futures contracts or of property that is held by such a holder for or on behalf of another person whether on trust or otherwise;
+(1A) The orders that may be made under subsection (1) are —
 
-(iv) an order declaring a contract relating to any dealing in securities or trading in futures contracts to be void or voidable;
+(a) in the case of a persistent or continuing breach of this Act, of any condition or restriction of a licence, of any business rule of an approved exchange, a licensed trade repository or an approved clearing house, of any listing rule of an approved exchange, or of any condition or restriction imposed on an authorised benchmark administrator, an authorised benchmark submitter or a designated benchmark submitter, an order restraining a person —
 
-(v) for the purpose of securing compliance with any other order under this section, an order directing a person to do or refrain from doing a specified act;
+(i) from carrying on a business of dealing in capital markets products;
 
-(vi) any ancillary order deemed to be desirable in consequence of the making of any of these orders.
+(ii) from acting as a representative of a person carrying on a business of dealing in capital markets products;
 
-[1/2005]
+(iii) from holding the person out as a person carrying on a business of dealing in capital markets products;
+
+(iv) from carrying on a business of administering a designated benchmark;
+
+(v) from providing information in relation to a designated benchmark;
+
+(vi) from acting as a representative of an authorised benchmark administrator, an authorised benchmark submitter or a designated benchmark submitter;
+
+(vii) from holding the person out as a person —
+
+(A) carrying on a business of administering a designated benchmark; or
+
+(B) providing information in relation to a designated benchmark; or
+
+(viii) from otherwise acting in breach;
+
+(b) an order restraining a person from acquiring, disposing of or otherwise dealing with any capital markets products that are specified in the order;
+
+(c) an order appointing a receiver of the property of the holder of a capital markets services licence to deal in capital markets products or of property that is held by such a holder for or on behalf of another person whether on trust or otherwise;
+
+(d) an order declaring a contract relating to any dealing in capital markets products to be void or voidable;
+
+(e) for the purpose of securing compliance with any other order under this section, an order directing a person to do or refrain from doing a specified act;
+
+(f) an order restraining the exercise of any voting or other rights attached to any capital markets products that are specified in the order; and
+
+(g) any ancillary order deemed to be desirable in consequence of the making of any of the above orders.
+
+[4/2017]
 
 (2) The court may, before making an order under subsection (1), direct that notice of the application be given to such person as it thinks fit or that notice of the application be published in such manner as it thinks fit, or both.
 
-(3) A person appointed by order of the court under subsection (1) as a receiver of the property of the holder of a capital markets services licence to deal in securities or trade in futures contracts —
+(3) A person appointed by order of the court under subsection (1) as a receiver of the property of the holder of a capital markets services licence to deal in capital markets products —
 
-(a) may require the holder to deliver to the receiver any property of which he has been appointed receiver or to give to the receiver all information concerning that property that may reasonably be required;
+(a) may require the holder to deliver to the receiver any property of which the person has been appointed receiver or to give to the receiver all information concerning that property that may reasonably be required;
 
-(b) may acquire and take possession of any property of which he has been appointed receiver;
+(b) may acquire and take possession of any property of which the person has been appointed receiver;
 
-(c) may deal with any property that he has acquired or of which he has taken possession in any manner in which the holder might lawfully have dealt with the property; and
+(c) may deal with any property that the person has acquired or of which the person has taken possession in any manner in which the holder might lawfully have dealt with the property; and
 
 (d) has such other powers in respect of the property as the court may specify in the order.
 
-(4) For the purposes of subsections (1) and (3), ‘‘property’’, in relation to the holder of a capital markets services licence to deal in securities or trade in futures contracts, includes moneys, securities, futures contracts and documents of title to securities or other property entrusted to or received on behalf of any other person by the holder or another person in the course of or in connection with a business of dealing in securities or trading in futures contracts carried on by the holder.
+[4/2017]
+
+(4) For the purposes of subsections (1), (1A) and (3), “property”, in relation to the holder of a capital markets services licence to deal in capital markets products, includes —
+
+(a) moneys;
+
+(b) capital markets products;
+
+(c) documents of title to capital markets products; and
+
+(d) other property, entrusted to or received on behalf of any other person by the holder or another person in the course of or in connection with a business of dealing in capital markets products carried on by the holder.
+
+[4/2017]
 
 (5) Any person who, without reasonable excuse, contravenes —
 
@@ -52,6 +91,16 @@ Heading: Section Pages
 
 (b) a requirement of a receiver appointed by order of the court under subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(6) Subsection (5) shall not affect the powers of the court in relation to the punishment for contempt of court.
+(6) Subject to subsection (6A), subsection (5) does not affect the powers of the court in relation to the punishment for contempt of court.
+
+[4/2017]
+
+(6A) Where a person is convicted of an offence under subsection (5) in respect of any contravention of an order made under subsection (1), such contravention is not punishable as a contempt of court.
+
+[4/2017]
+
+(6B) A person must not be convicted of an offence under subsection (5) in respect of any contravention of an order made under subsection (1) that has been punished as a contempt of court.
+
+[4/2017]
 
 (7) The court may, on the application of an affected person or of its own motion, rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.

@@ -1,4 +1,4 @@
-# 315. Secrecy (Repealed) … … … … … … … … 506
-Part: PART XV MISCELLANEOUS
+# 315. [Repealed]
+Part: PART 15 MISCELLANEOUS
 
-(Repealed by Act 1/2005)
+[Repealed by Act 1 of 2005]

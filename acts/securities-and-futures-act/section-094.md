@@ -1,32 +1,20 @@
-# 94. Register of licensed persons … … … … … … 169
-Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
+# 94. Records of holders of capital markets services licence
+Part: PART 4 HOLDERS OF CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVES Division 1 — Capital Markets Services Licence
 
-The Authority shall keep in such form as it thinks fit a register of licensed persons specifying —
+(1) The Authority must keep in such form as it thinks fit records of holders of a capital markets services licence setting out the following information of each holder:
 
-(a) in relation to the holder of a capital markets services licence —
+(a) its name;
 
-(i) its name;
+(b) the address of the principal place of business at which it carries on the business in respect of which the licence is held;
 
-(ii) the address of the principal place of business at which it carries on the business in respect of which the licence is held;
+(c) the regulated activity or activities and the type or types of capital markets products to which its licence relates;
 
-(iii) the regulated activity or activities to which its licence relates;
+(d) where the business is carried on under a name or style other than the name of the holder of the licence, the name or style under which the business is carried on;
 
-(iv) where the business is carried on under a name or style other than the name of the holder of the licence, the name or style under which the business is carried on;
+(e) such other information as may be prescribed.
 
-and
+[2/2009; 4/2017]
 
-(v) such other information as may be prescribed;
+(2) The Authority may publish the information referred to in subsection (1) or any part of it in such manner as it considers appropriate.
 
-(b) in relation to the holder of a representative’s licence —
-
-(i) his name;
-
-(ii) the name of his principal in relation to whom the licence was granted;
-
-(iii) the regulated activity or activities to which his licence relates;
-
-(iv) where the business of his principal is carried on under a name or style, other than the name of the principal, the name or style under which that business is carried on; and
-
-(v) such other information as may be prescribed.
-
-[SIA, s. 37; FTA, s. 19]
+[2/2009]

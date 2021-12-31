@@ -1,15 +1,17 @@
-# 61. Obligation to manage risks prudently … … … … 103
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+# 61. Obligation to maintain proper records
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
 
-(1) Without prejudice to the generality of section 59 (1) (b), a designated clearing house shall ensure that the systems and controls concerning the assessment and management of risks to its clearing facility are adequate and appropriate for the scale and nature of its operations.
+(1) An approved clearing house must maintain a record of all transactions effected through its clearing facility.
 
-[1/2005]
+[34/2012]
 
-(2) Without prejudice to the generality of section 81S, the Authority may make regulations relating to the matters in subsection (1), including —
+(2) The Authority may prescribe by regulations made under section 81Q —
 
-(a) the limits in respect of positions held with the designated clearing house; and
+(a) the form and manner in which the record referred to in subsection (1) must be maintained;
 
-(b) the measures to manage any risks assumed by the designated clearing house.
+(b) the extent to which the record includes details of each transaction; and
 
-[1/2005]
+(c) the period of time that the record is to be maintained.
+
+[34/2012]

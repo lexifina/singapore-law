@@ -1,21 +1,29 @@
-# 52. Obligation to assist Authority … … … … … … 95
-Part: PART III CLEARING FACILITIES
+# 52. General criteria to be taken into account by Authority
+Part: PART 3 CLEARING FACILITIES
 Division: Division 1 — Establishment of Clearing Facilities
 
-(1) A person operating a clearing facility shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+(1) The Authority may prescribe the criteria which it may take into account for the purposes of deciding —
 
-(a) such books and other information —
+(a) whether a Singapore corporation referred to in section 50(1) or 54(1) should be approved as an approved clearing house or recognised as a recognised clearing house;
 
-(i) relating to the business of the clearing facility; or
+(b) whether a foreign corporation referred to in section 50(2) should be recognised as a recognised clearing house; and
 
-(ii) in respect of any transaction or class of transactions cleared or settled by the clearing facility; and
+(c) whether an approved clearing house or a recognised clearing house that is subject to a review by the Authority under section 54(4) should be approved as an approved clearing house or recognised as a recognised clearing house.
 
-(b) such other information, as the Authority may require for the proper administration of this Act.
+[34/2012]
 
-[1/2005]
+(2) Without affecting section 51 and subsection (1), the Authority may, for the purposes of deciding whether to recognise a foreign corporation as a recognised clearing house under section 51(2), have regard, in addition to any requirements prescribed under section 51(7) and any criteria prescribed under subsection (1), to —
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(a) whether adequate arrangements exist for co-operation between the Authority and the primary financial services regulatory authority responsible for the supervision of the foreign corporation in the country or territory in which the head office or principal place of business of the foreign corporation is situated; and
 
-[1/2005]
+(b) whether the foreign corporation is, in the country or territory in which the head office or principal place of business of the foreign corporation is situated, subject to requirements and supervision comparable, in the degree to which the objectives specified in section 47 are achieved, to the requirements and supervision to which approved clearing houses and recognised clearing houses are subject under this Act.
 
-[Aust. Corporations 2001, s. 779D]
+[34/2012]
+
+(3) In considering whether a foreign corporation has met the requirements mentioned in subsection (2)(b), the Authority may have regard to —
+
+(a) the relevant laws and practices of the country or territory in which the head office or principal place of business of the foreign corporation is situated; and
+
+(b) the rules and practices of the foreign corporation.
+
+[34/2012]

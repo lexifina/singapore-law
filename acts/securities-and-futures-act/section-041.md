@@ -1,15 +1,65 @@
-# 41. Obligation to assist Authority … … … … … … 86
-Part: PART II MARKETS
+# 41. Listing, de-listing or trading of certain instruments, contracts and transactions
+Part: PART 2 ORGANISED MARKETS
 Division: Division 3 — Regulation of Recognised Market Operators
 
-A recognised market operator shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+(1) A recognised market operator must, in respect of any relevant product that is listed or permitted for trading on any organised market operated by the recognised market operator, comply with requirements prescribed by regulations made under section 44 or specified in directions issued under section 45 relating to —
 
-(a) such books and other information —
+(a) the limits that the recognised market operator must establish on the number of open positions that may be held by any participant in respect of the relevant product;
 
-(i) relating to the business of the recognised market operator; or
+(b) the steps that the recognised market operator must take to ensure compliance with the limits established under paragraph (a);
 
-(ii) in respect of such dealings in securities or trading in futures contracts; and
+(c) the positions that the recognised market operator must reckon for the purpose of determining if limits established under paragraph (a) have been exceeded;
 
-(b) such other information, as the Authority may require for the proper administration of this Act.
+(d) the settlement procedures that the recognised market operator must establish in respect of the relevant product;
 
-[1/2005]
+(e) the limits that the recognised market operator must establish on the price movements of the relevant product; and
+
+(f) any other matter in respect of the relevant product that the Authority considers necessary or expedient for the furtherance of the objectives mentioned in section 5.
+
+[4/2017]
+
+(2) A recognised market operator must, within such time and in such form and manner as the Authority may specify, notify the Authority that it has taken measures to comply with the requirements mentioned in subsection (1) —
+
+(a) before listing or de-listing, or permitting the trading of, any relevant product on any organised market operated by the recognised market operator; and
+
+(b) after listing or permitting the trading of any relevant product on any organised market operated by the recognised market operator.
+
+[4/2017]
+
+(3) A recognised market operator which is required under subsection (2) to notify the Authority must use due care to ensure that the notification is not false or misleading in any material particular.
+
+[4/2017]
+
+(4) Any recognised market operator which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part of a day during which the offence continues after conviction.
+
+[4/2017]
+
+(5) Any recognised market operator which contravenes subsection (2)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
+
+[4/2017]
+
+(6) Any recognised market operator which contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[4/2017]
+
+(7) Any participant who wilfully exceeds any limit established by a recognised market operator in accordance with the requirements imposed under subsection (1)(a) on the number of open positions that may be held by any participant in respect of any relevant product shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000.
+
+[4/2017]
+
+(8) In this section, “relevant product” means any instrument, contract or transaction on any organised market operated by the recognised market operator, but does not include —
+
+(a) securities;
+
+(b) any unit in a collective investment scheme;
+
+(c) a spot contract;
+
+(d) a deposit as defined in section 4B of the Banking Act 1970, where the deposit is accepted by a bank or merchant bank licensed under that Act;
+
+(e) a deposit as defined in section 2 of the Finance Companies Act 1967, where the deposit is accepted by a finance company as defined in that section of that Act;
+
+(f) any contract of insurance in relation to any class of insurance business specified in section 3(1) of the Insurance Act 1966; or
+
+(g) any contract or arrangement that is, or that belongs to a class of contracts or arrangements that is, prescribed not to be a derivatives contract.
+
+[4/2017; 1/2020]

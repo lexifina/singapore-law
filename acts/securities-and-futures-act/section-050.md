@@ -1,11 +1,27 @@
-# 50. Provision of information to Authority … … … … 95
-Part: PART III CLEARING FACILITIES
+# 50. Application for approval or recognition
+Part: PART 3 CLEARING FACILITIES
 Division: Division 1 — Establishment of Clearing Facilities
 
-(1) A person operating a clearing facility shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+(1) A Singapore corporation may apply to the Authority to be —
 
-[1/2005]
+(a) approved as an approved clearing house; or
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(b) recognised as a recognised clearing house.
 
-[1/2005]
+[34/2012]
+
+(2) A foreign corporation may apply to the Authority to be recognised as a recognised clearing house.
+
+[34/2012]
+
+(3) An application under subsection (1) or (2) must be —
+
+(a) made in such form and manner as the Authority may prescribe; and
+
+(b) accompanied by a non-refundable prescribed application fee, which must be paid in the manner specified by the Authority.
+
+[34/2012]
+
+(4) The Authority may require an applicant to provide the Authority with such information or documents as the Authority considers necessary in relation to the application.
+
+[34/2012]

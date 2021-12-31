@@ -1,24 +1,38 @@
-# 196. Application of this Division … … … … … … 240
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 196. Application of this Division
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 
-This Division shall apply to —
+This Division applies to —
 
 (a) acts occurring within Singapore in relation to —
 
-(i) securities of any corporation, whether formed or carrying on business in Singapore or elsewhere;
+(i) securities or securities-based derivatives contracts of any corporation, whether formed or carrying on business in Singapore or elsewhere;
 
-(ia) securities of any business trust; or
+(ii) securities or securities-based derivatives contracts of any business trust;
 
-(ii) securities listed for quotation or quoted on a securities market in Singapore or elsewhere; and
+(iii) securities or securities-based derivatives contracts listed for quotation or quoted on an organised market in Singapore or elsewhere;
 
-(b) acts occurring outside Singapore, in relation to —
+(iv) units in a collective investment scheme listed for quotation or quoted on an organised market in Singapore or elsewhere;
 
-(i) securities of a corporation that is formed or carrying on business in Singapore;
+(v) derivatives contracts, whether traded in Singapore or elsewhere;
 
-(ia) securities of a business trust, the trustee of which is formed in Singapore or carries on business on behalf of the business trust in Singapore; or
+(vi) spot foreign exchange contracts for purposes of leveraged foreign exchange trading, whether traded in Singapore or elsewhere; or
 
-(ii) securities listed for quotation or quoted on a securities market in Singapore.
+(vii) any other capital markets products, whether traded in Singapore or elsewhere; and
 
-[1/2005]
+(b) acts occurring outside Singapore in relation to —
 
-[Malaysia SIA, s. 88C]
+(i) securities or securities-based derivatives contracts of a corporation that is formed or carrying on business in Singapore;
+
+(ii) securities or securities-based derivatives contracts of a business trust, the trustee of which is formed in Singapore or carries on business on behalf of the business trust in Singapore;
+
+(iii) securities or securities-based derivatives contracts listed for quotation or quoted on an organised market in Singapore;
+
+(iv) units in a collective investment scheme listed for quotation or quoted on an organised market in Singapore;
+
+(v) derivatives contracts traded in Singapore;
+
+(vi) spot foreign exchange contracts for purposes of leveraged foreign exchange trading that are traded in or accessible from Singapore; or
+
+(vii) any other capital markets products that are traded in Singapore.
+
+[4/2017]

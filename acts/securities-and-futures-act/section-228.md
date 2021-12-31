@@ -1,8 +1,7 @@
-# 228. Exception for knowledge of person’s own intentions or activities … … … … … … … … … 264
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 228. Exception for knowledge of individual’s own intentions or activities
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 Division: Division 3 — Insider Trading
-Heading: Section Pages
 
-An individual does not contravene section 218 (2) or 219 (2) by entering into a transaction or agreement in relation to securities merely because he is aware that he proposes to enter into, or has previously entered into, one or more transactions or agreements in relation to those securities.
+An individual does not contravene section 218(2) or 219(2) by entering into a transaction or agreement in relation to securities, securities-based derivatives contracts or CIS units merely because the individual is aware that the individual proposes to enter into, or has previously entered into, one or more transactions or agreements in relation to those securities, securities-based derivatives contracts or CIS units.
 
-[Aust. Corporations 2001, s. 1002P]
+[4/2017]

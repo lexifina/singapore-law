@@ -1,11 +1,15 @@
-# 208. Manipulation of price of futures contract and cornering … 248
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
-Division: Division 2 — Prohibited Conduct — Futures Contracts, Leveraged Foreign Exchange Trading
+# 208. Exception for conduct pursuant to policy requirement
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
+Division: Division 2 — Prohibited Conduct — Financial Benchmarks
 
-No person shall, directly or indirectly —
+Section 207 does not apply in respect of any thing done or to be done or any course of conduct engaged by, or by a person acting on behalf of, a public authority or international body, whether in Singapore or elsewhere —
 
-(a) manipulate or attempt to manipulate the price of a futures contract that may be dealt in on a futures market, or of any commodity which is the subject of such futures contract; or
+(a) in respect of monetary policy;
 
-(b) corner, or attempt to corner, any commodity which is the subject of a futures contract.
+(b) in respect of policies with respect to exchange rates, the management of public debt or foreign exchange reserves;
 
-[FTA, s. 53]
+or
+
+(c) for the purpose of managing the price or value of any commodity.
+
+[4/2017]

@@ -1,5 +1,5 @@
-# 256. Offer information statement for renounceable rights issues (Repealed) … … … … … … … … … 323
-Part: PART XIII OFFERS OF INVESTMENTS Division 1 — Shares and Debentures Subdivision (1) — Interpretation
+# 256. [Repealed]
+Part: PART 13 OFFERS OF INVESTMENTS Division 1 — Securities and Securities-based Derivatives Contracts Subdivision (1) — Interpretation
 Subdivision: Subdivision (2) — Prospectus requirements
 
-(Repealed by Act 1/2005)
+[Repealed by Act 1 of 2005]

@@ -1,11 +1,17 @@
-# 18. Obligation to maintain proper records … … … … 67
-Part: PART II MARKETS
+# 18. Obligation to maintain proper records
+Part: PART 2 ORGANISED MARKETS
 Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-An approved exchange shall maintain a record of all transactions effected through its facilities in such form and manner as the Authority may prescribe, including —
+(1) An approved exchange must maintain a record of all transactions effected through its organised market in accordance with regulations mentioned in subsection (2).
 
-(a) the extent to which the record includes details of each transaction; and
+[4/2017]
 
-(b) the period of time that the record is to be maintained.
+(2) The Authority may prescribe by regulations made under section 44 —
 
-[1/2005]
+(a) the form and manner in which the record mentioned in subsection (1) is to be maintained;
+
+(b) the extent to which the record includes details of each transaction; and
+
+(c) the period of time that the record is to be maintained.
+
+[4/2017]

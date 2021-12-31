@@ -1,19 +1,21 @@
-# 38. Obligation to notify Authority of certain matters … … 85
-Part: PART II MARKETS
+# 38. Obligation to assist Authority
+Part: PART 2 ORGANISED MARKETS
 Division: Division 3 — Regulation of Recognised Market Operators
 
-A recognised market operator shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
+A recognised market operator must provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including —
 
-(a) any material change to the information provided by the recognised market operator in its application under section 7 (1) or 11 (1);
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
 
-(b) any change of a director or the chief executive officer of the recognised market operator;
+(b) the provision of —
 
-(c) the recognised market operator becoming aware of a financial irregularity or other matter which in its opinion —
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
 
-(i) may affect its ability to discharge its financial obligations; or
+(A) relating to the business of the recognised market operator;
 
-(ii) may affect the ability of a participant of the recognised market operator to meet its financial obligations to the recognised market operator;
+(B) in respect of any transaction or class of transactions, whether completed or uncompleted, effected through the organised market of the recognised market operator; or
 
-(d) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the recognised market operator.
+(C) in respect of any product or class of products traded on the organised market of the recognised market operator; and
 
-[1/2005]
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[4/2017]

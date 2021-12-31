@@ -1,43 +1,31 @@
-# 81H. Duty to report on completion of default proceedings … 129
-Part: PART III CLEARING FACILITIES
+# 81H. Adjustment of prior transactions
+Part: PART 3 CLEARING FACILITIES
 Division: Division 4 — Insolvency
 
-(1) A designated clearing house shall, upon the conclusion of any default proceeding commenced by it, make a report on those proceedings stating in respect of each defaulter who is a subject of those proceedings —
+(1) No order may be made, on or after 1 August 2013, in relation to any matter to which this section applies, by a court under any of the following provisions in any proceedings, whether instituted before, on or after 1 August 2013:
 
-(a) the net sum, if any, certified by the designated clearing house to be payable by or to the defaulter; or
+section 224, 225, 228, 361, 362, 366 or 438 of the Insolvency, Restructuring and Dissolution Act 2018.
 
-(b) the fact that no sum is so payable, as the case may be, and the designated clearing house may include in that report such other particulars in respect of those proceedings as it thinks fit.
+[34/2012; 40/2018]
 
-[1/2005]
+(2) The matters to which this section applies are as follows:
 
-(2) A designated clearing house which has made a report under subsection (1) shall supply the report to —
+(a) a market contract;
 
-(a) the Authority;
+(b) a disposition of property pursuant to a market contract;
 
-(b) any relevant office holder acting in relation to —
+(c) the provision of market collateral;
 
-(i) the defaulter to whom the report relates; or
+(d) a contract effected by an approved clearing house, or a recognised clearing house, for the purpose of realising property provided as market collateral;
 
-(ii) the estate of that defaulter; and
+(e) a disposition of property in accordance with the business rules of an approved clearing house, or a recognised clearing house, relating to the application of property provided as market collateral;
 
-(c) where there is no relevant office holder referred to in paragraph (b), the defaulter to whom the report relates.
+(f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
-[1/2005]
+(g) a disposition of property for the purpose of enforcing a market charge;
 
-(3) The designated clearing house shall publish a notice of the fact that a report has been made under subsection (1) in such manner as it thinks appropriate to bring that fact to the attention of the creditors of the defaulter to whom the report relates.
+(h) a market charge;
 
-[1/2005]
+(i) any default proceedings.
 
-(4) Where a relevant office holder or defaulter receives under subsection (2) a report made under subsection (1), he shall, at the request of a creditor of the defaulter to whom the report relates —
-
-(a) make the report available for inspection by the creditor; and
-
-(b) on payment of such reasonable fee as the relevant office holder or defaulter, as the case may be, determines, supply to the creditor all or any part of that report.
-
-[1/2005]
-
-(5) In subsections (2), (3) and (4), ‘‘report’’ includes a copy of a report.
-
-[1/2005]
-
-[HK SF Bill, Clause 47]
+[34/2012]

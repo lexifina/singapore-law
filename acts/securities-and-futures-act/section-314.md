@@ -1,4 +1,4 @@
-# 314. Prohibition of use of certain titles (Repealed) … … … 506
-Part: PART XV MISCELLANEOUS
+# 314. [Repealed]
+Part: PART 15 MISCELLANEOUS
 
-(Repealed by Act 1/2005)
+[Repealed by Act 1 of 2005]

@@ -1,17 +1,11 @@
-# 209. Fraudulently inducing persons to trade in futures contracts 249
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
-Division: Division 2 — Prohibited Conduct — Futures Contracts, Leveraged Foreign Exchange Trading
+# 209. False or misleading statements
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
+Division: Division 2 — Prohibited Conduct — Financial Benchmarks
 
-(1) No person shall —
+A person must not make a statement, disseminate any information or express any opinion that is false or misleading in a material particular to a person who carries out the activity of administering a financial benchmark if —
 
-(a) by making or publishing any statement, promise or forecast that he knows or ought reasonably to have known to be false, misleading or deceptive;
+(a) the person intends that the statement, information or opinion be used for the purpose of administering a financial benchmark; and
 
-(b) by any dishonest concealment of material facts;
+(b) the person knows or ought reasonably to have known that the statement, information or opinion is false or misleading in a material particular, or is reckless as to whether the statement, information or opinion is false or misleading in a material particular.
 
-(c) by the reckless making or publishing of any statement, promise or forecast that is false, misleading or deceptive; or
-
-(d) by recording or storing in, or by means of, any mechanical, electronic or other device information that he knows to be false or misleading in a material particular, induce or attempt to induce another person to trade in a futures contract or engage in leveraged foreign exchange trading.
-
-(2) In any proceedings against a person for a contravention of subsection (1) constituted by recording or storing information as mentioned in subsection (1) (d), it is a defence if it is established that, at the time when the defendant so recorded or stored the information, he had no reasonable grounds for expecting that the information would be available to any other person.
-
-[FTA, s. 55]
+[4/2017]

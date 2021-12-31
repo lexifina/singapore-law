@@ -1,11 +1,7 @@
-# 81Y. Cancellation of approval … … … … … … … 140
-Part: PART IIIA APPROVED HOLDING COMPANIES
+# 81Y. Cancellation of approval
+Part: PART 3A APPROVED HOLDING COMPANIES
 Division: Division 1 — Establishment of Approved Holding Companies
 
 (1) An approved holding company which intends to cease its activities as an approved holding company may apply to the Authority to cancel its approval.
 
-[1/2005]
-
 (2) The Authority may cancel the approval if it is satisfied that the approved holding company referred to in subsection (1) has ceased its activities as an approved holding company.
-
-[1/2005]

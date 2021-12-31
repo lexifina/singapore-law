@@ -1,12 +1,17 @@
-# 135. Production of register … … … … … … … 201
-Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
+# 135. Duty of substantial shareholder to notify corporation of interests
+Part: PART 7 DISCLOSURE OF INTERESTS Division 1 — Disclosure of Interest in Corporation
+Subdivision: Subdivision (2) — Disclosure by substantial shareholders in corporation
 
-(1) The Authority may require any relevant person to produce for its inspection the register of his interests in securities, and the Authority may make a copy of, or take extracts from, the register.
+(1) A person who is or (if the person has ceased to be one) had been a substantial shareholder in a corporation must give written notice to the corporation of particulars of the voting shares in the corporation in which the person has or had an interest or interests and the nature and extent of that interest or those interests.
 
-(2) Any relevant person who —
+[2/2009]
 
-(a) fails to produce the register of his interests in securities for inspection by the Authority; or
+(2) A notice under subsection (1) —
 
-(b) fails to allow the Authority to make a copy of, or take extracts from, the register, shall be guilty of an offence.
+(a) must be in such form and must contain such information as the Authority may prescribe;
 
-[SIA, s. 45]
+(b) must be given within 2 business days after the person becomes aware that the person is or (if the person has ceased to be one) had been a substantial shareholder; and
+
+(c) must be given even though the person has ceased to be a substantial shareholder before the expiration of the period referred to in paragraph (b).
+
+[2/2009]

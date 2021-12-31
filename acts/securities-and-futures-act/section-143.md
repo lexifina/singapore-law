@@ -1,28 +1,32 @@
-# 143. Exercise of certain powers in relation to securities … … 207
-Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
+# 143. Exercise of certain powers in relation to capital markets products and financial instruments
+Part: PART 9 SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers Subdivision (1) — Powers of Authority to require disclosure of information about capital markets products
 
-(1) This section shall apply where the Authority considers that —
+(1) This section applies where the Authority considers that —
 
-(a) it may be necessary to prohibit dealing in securities of, or made available by, a corporation under section 32;
+(a) it may be necessary to prohibit trading in securities or securities-based derivatives contracts or units in a collective investment scheme under section 46;
 
-(b) a person may have contravened any of the provisions of Part XII in relation to securities of, or made available by, a corporation; or
+(b) it may be necessary to give a direction or take any action under section 46AA or 81S in relation to any capital markets products or financial instruments;
 
-(c) a person may have contravened any of the provisions of Division 4 of Part IV of the Companies Act (Cap. 50) or Division 2 of Part VII in relation to securities in a corporation.
+(c) a person may have contravened any of the provisions of Part 7 in relation to any capital markets products; or
 
-[42/2005]
+(d) a person may have contravened any of the provisions of Part 12 in relation to any capital markets products or financial instruments.
 
-(2) The Authority may require an officer of a corporation referred to in subsection (1) to disclose to the Authority any information of which he is aware and which may have affected any dealing that has taken place, or which may affect any dealing that may take place, in securities of, or made available by, the corporation.
+[4/2017]
+
+(2) The Authority may require an officer of an entity or trust, the securities, securities-based derivatives contracts and units in a collective investment scheme of which are mentioned in subsection (1), to disclose to the Authority any information of which he or she is aware and which may have affected any dealing or trading that has taken place, or which may affect any dealing or trading that may take place, in the securities, securities-based derivatives contracts and units in a collective investment scheme.
+
+[4/2017]
 
 (3) Where the Authority believes on reasonable grounds that a person is capable of giving information concerning any of the following matters:
 
-(a) any dealing in securities of, or made available by, a corporation referred to in subsection (1);
+(a) any dealing in capital markets products mentioned in subsection (1);
 
-(b) any advice given, or any report or analysis issued or published concerning such securities, by the holder of a capital markets services licence to deal in securities, or a representative of such a holder;
+(b) any advice given, or any report or analysis issued or published concerning such capital markets products, by the holder of a capital markets services licence to deal in capital markets products, or a representative of such a holder;
 
-(c) the financial position of any business carried on by a person who is or has been (either alone or together with another person or other persons) the holder of a capital markets services licence to deal in securities and who has dealt in or given advice or issued or published a report or an analysis concerning such securities;
+(c) the financial position of any business carried on by a person who is or has been (either alone or together with another person or other persons) the holder of a capital markets services licence to deal in capital markets products and who has dealt in or given advice or issued or published a report or an analysis concerning such capital markets products;
 
-(d) the financial position of any business carried on by a nominee controlled by a person referred to in paragraph (c) or jointly controlled by 2 or more persons at least one of whom is a person referred to in that paragraph; or
+(d) the financial position of any business carried on by a nominee controlled by a person mentioned in paragraph (c) or jointly controlled by 2 or more persons at least one of whom is a person mentioned in that paragraph;
 
-(e) an audit of, or any report of an auditor concerning, any book of the holder of a capital markets services licence to deal in securities, being a book relating to dealings in such securities, the Authority may require the person to disclose to the Authority the information that the person has about that matter.
+(e) an audit of, or any report of an auditor concerning, any book of the holder of a capital markets services licence to deal in capital markets products, being a book relating to dealings in such capital markets products, the Authority may require the person to disclose to the Authority the information that the person has about that matter.
 
-[SIA, s. 10 (4)]
+[4/2017]

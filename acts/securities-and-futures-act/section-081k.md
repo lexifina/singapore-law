@@ -1,37 +1,11 @@
-# 81K. Adjustment of prior transactions … … … … … 131
-Part: PART III CLEARING FACILITIES
+# 81K. Enforcement of judgments over property subject to market charge, etc.
+Part: PART 3 CLEARING FACILITIES
 Division: Division 4 — Insolvency
 
-(1) No order shall be made by a court under —
+(1) Where, whether before, on or after 1 August 2013, any property is subject to a market charge or has been provided as market collateral, no execution or other legal process for the enforcement of any judgment or order may be commenced or continued, and no distress may be levied, against the property by a person not seeking to enforce any interest in, or security over, the property, except with the consent of the approved clearing house or recognised clearing house in favour of which the market charge was granted.
 
-(a) section 98 or 99 of the Bankruptcy Act (Cap. 20);
+[34/2012]
 
-(b) section 227T, 329 or 331 of the Companies Act (Cap. 50); or
+(2) Where by virtue of this section a person would not be entitled to enforce a judgment or an order against any property, any injunction or other remedy granted by any court with a view to facilitating the enforcement of any such judgment or order does not extend to that property.
 
-(c) section 73B of the Conveyancing and Law of Property Act (Cap. 61), in relation to any matter to which this section applies.
-
-[1/2005]
-
-(2) The matters to which this section applies are —
-
-(a) a market contract;
-
-(b) a disposition of property pursuant to a market contract;
-
-(c) the provision of market collateral;
-
-(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral;
-
-(e) a disposition of property in accordance with the business rules of a designated clearing house relating to the application of property provided as market collateral;
-
-(f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
-
-(g) a disposition of property for the purpose of enforcing a market charge;
-
-(h) a market charge;
-
-(i) any default proceedings.
-
-[1/2005]
-
-[HK SF Bill, Clause 50]
+[34/2012]

@@ -1,7 +1,7 @@
-# 179. Payments out of fidelity fund … … … … … … 230
-Part: PART XI INVESTOR COMPENSATION SCHEME
+# 179. Payments out of fidelity fund
+Part: PART 11 INVESTOR COMPENSATION SCHEME
 
-Subject to this Part, there shall be paid out of the fidelity fund of a securities exchange or futures exchange as required and in such order as the exchange considers proper —
+Subject to this Part, there is to be paid out of the fidelity fund of an approved exchange as required and in such order as the exchange considers proper —
 
 (a) the amount of all claims, including costs, allowed by the exchange or established against the exchange under this Part;
 
@@ -13,4 +13,4 @@ Subject to this Part, there shall be paid out of the fidelity fund of a securiti
 
 (e) all other moneys payable out of the fund in accordance with this Act.
 
-[SIA, s. 78; FTA, s. 49D]
+[2/2009]

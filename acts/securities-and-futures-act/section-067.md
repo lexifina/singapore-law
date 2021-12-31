@@ -1,17 +1,24 @@
-# 67. Obligation to assist Authority … … … … … … 107
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+# 67. Business rules of approved clearing houses have effect as contract
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
+Subdivision: Subdivision (2) — Rules of approved clearing houses
 
-A designated clearing house shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+(1) The business rules of an approved clearing house are treated as, and are to operate as, a binding contract —
 
-(a) such books and other information —
+(a) between the approved clearing house and each issuer;
 
-(i) relating to the business of the designated clearing house; or
+(b) between the approved clearing house and each participant;
 
-(ii) in respect of any transaction or class of transactions cleared or settled by the designated clearing house;
+(c) between each issuer and each participant; and
 
-and
+(d) between each participant and every other participant.
 
-(b) such other information, as the Authority may require for the proper administration of this Act.
+[4/2017]
 
-[1/2005]
+(2) The approved clearing house, each issuer and each participant are treated as having agreed to observe, and to perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the approved clearing house, issuer or participant, as the case may be.
+
+[4/2017]
+
+(3) In this section, “issuer” means a person who issued or made available, or proposes to issue or make available, securities, securities-based derivatives contracts or units in a collective investment scheme that are cleared or settled by the approved clearing house.
+
+[4/2017]

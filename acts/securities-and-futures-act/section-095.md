@@ -1,102 +1,88 @@
-# 95. Lapsing, revocation and suspension of licence … … … 170
-Part: PART IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE Division 1 — Licensing
+# 95. Lapsing, revocation and suspension of capital markets services licence
+Part: PART 4 HOLDERS OF CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVES Division 1 — Capital Markets Services Licence
 
-(1) A licence shall lapse —
+(1) A capital markets services licence lapses —
 
-(a) in the case of a holder of a capital markets services licence, if the holder is wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) if the holder is wound up or otherwise dissolved, whether in Singapore or elsewhere; or
 
-(b) in the case of a holder of a representative’s licence, if the representative dies; and
+(b) in the event of such other occurrence or in such other circumstances as may be prescribed.
 
-(c) in the event of such other occurrence or in such other circumstances as may be prescribed.
+[2/2009]
 
-(2) The Authority may revoke a licence —
+(2) The Authority may revoke a capital markets services licence if —
 
-(a) in the case of a holder of a capital markets services licence, if —
+(a) there exists a ground on which the Authority may refuse an application under section 86;
 
-(i) there exists a ground on which the Authority may refuse an application under section 86;
+(b) the holder of the capital markets services licence fails or ceases to carry on business in all the regulated activities for which it was licensed;
 
-(ii) it fails or ceases to carry on the business in all the regulated activities for which it was licensed;
+(ba) the Authority has reason to believe that the holder has not acted in the best interests of the holder’s subscribers or customers;
 
-(iii) the Authority has reason to believe that the holder of the capital markets services licence, or any of its officers or employees, has not performed its duties efficiently, honestly or fairly;
+(c) the Authority has reason to believe that the holder, or any of its officers or employees, has not performed its or his or her duties efficiently, honestly or fairly;
 
-(iv) the holder of the capital markets services licence contravenes any condition or restriction applicable in respect of its licence, any direction issued to it by the Authority under this Act, or any other provision in this Act;
+(d) the holder has contravened any condition or restriction applicable in respect of its licence, any written direction issued to it by the Authority under this Act, or any provision in this Act;
 
-(v) the Authority has reason to believe that the holder of the capital markets services licence is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public; or
+(da) it appears to the Authority that the holder has failed to satisfy any of its obligations under or arising from —
 
-(vi) any information or document that is furnished by the holder of the capital markets services licence to the Authority is false or misleading; and
+(i) this Act; or
 
-(b) in the case of a representative, if —
+(ii) any written direction issued by the Authority under this Act;
 
-(i) there exists a ground on which the Authority may refuse an application under section 87 or 87A (as the case may be);
+(e) the Authority has reason to believe that the holder is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public;
 
-(ii) he fails or ceases to act as a representative in respect of all the regulated activities for which he was licensed;
+(ea) upon the Authority exercising any power under section 97E(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part 4B of the Monetary Authority of Singapore Act 1970 in relation to the holder, the Authority considers that it is in the public interest to revoke the licence;
 
-(iii) the licence of his principal is revoked;
+(f) the holder has provided any information or document to the Authority that is false or misleading;
 
-(iv) the Authority has reason to believe that he has not performed his duties efficiently, honestly or fairly;
+(g) the holder fails to pay the licence fee referred to in section 85; or
 
-(iva) the Authority has reason to believe that the representative is performing his functions in a manner that is contrary to the interests of the public;
+(h) a prohibition order under section 101A has been made by the Authority, and remains in force, against the holder.
 
-(v) he contravenes any condition or restriction applicable in respect of his licence, any direction issued to him by the Authority under this Act or any other provision in this Act; or
-
-(vi) any information or document that is furnished by the representative to the Authority is false or misleading.
-
-[16/2003; 1/2005]
+[2/2009; 34/2012; 10/2013; 31/2017]
 
 (3) The Authority may, if it considers it desirable to do so —
 
-(a) suspend a licence for a specific period instead of revoking it under subsection (2); and
+(a) suspend a capital markets services licence for a specific period instead of revoking it under subsection (2); and
 
 (b) at any time extend or revoke the suspension.
 
-(4) Subject to subsection (5), the Authority shall not revoke or suspend a licence under subsection (2) or (3) without giving the licensed person an opportunity to be heard.
+[2/2009]
 
-(5) The Authority may revoke or suspend a licence without giving the licensed person an opportunity to be heard —
+(4) Subject to subsection (5), the Authority must not revoke or suspend a capital markets services licence under subsection (2) or (3) without giving the holder of the licence an opportunity to be heard.
 
-(a) in the case of a capital markets services licence, on any of the following grounds:
+[2/2009]
 
-(i) the licensed person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(5) The Authority may revoke or suspend a capital markets services licence without giving the holder of the licence an opportunity to be heard, on any of the following grounds:
 
-(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the licensed person;
+(a) the holder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(iii) the licensed person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, for or in respect of any property of the holder;
 
-or
+(c) the holder has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
 
-(b) in the case of a representative’s licence, on any of the following grounds:
+(d) a prohibition order under section 101A has been made by the Authority, and remains in force, against the holder.
 
-(i) the licensed person is an undischarged bankrupt, whether in Singapore or elsewhere;
+[2/2009]
 
-(ii) the licensed person has been convicted, whether in Singapore or elsewhere, of an offence —
+(6) Where the Authority has revoked or suspended a capital markets services licence, the holder of that licence must —
 
-(A) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+(a) in the case of a revocation of its licence, immediately inform all its representatives by written notice of such revocation, and the representatives who are so informed must cease to act as representatives of that holder; or
 
-(B) punishable with imprisonment for a term of 3 months or more.
+(b) in the case of a suspension of its licence, immediately inform all its representatives by written notice of such suspension, and the representatives who are so informed must cease to act as representatives of that holder during the period of the suspension.
 
-[16/2003]
+[2/2009]
 
-(6) Without prejudice to subsections (2) and (3), the Authority may, on any ground described in subsection (2), issue an order prohibiting the licensed person from performing one or more of the regulated activities to which its licence relates and the order may be permanent or for such period as may be determined by the Authority (referred to in this Division as a prohibition order).
+(7) Any holder of a capital markets services licence who —
 
-(7) The Authority shall not issue an order under subsection (6) without giving the licensed person an opportunity to be heard.
+(a) performs a regulated activity while its licence has lapsed or has been revoked or suspended; or
 
-(8) Where the Authority has revoked or suspended a capital markets services licence or issued a prohibition order to a holder of a capital markets services licence, that holder shall —
+(b) contravenes subsection (6), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part of a day during which the offence continues after conviction.
 
-(a) in the case of a revocation of its licence, immediately inform all its representatives by notice in writing of such revocation and the representatives who are so informed shall cease to act as representatives of that holder;
+[2/2009]
 
-(b) in the case of a suspension of its licence, immediately inform all its representatives by notice in writing of such suspension and the representatives who are so informed shall cease to act as representatives of that holder during the period of the suspension; and
+(8) A lapsing, revocation or suspension of a capital markets services licence does not operate so as to —
 
-(c) in the case of a prohibition order, immediately inform all its representatives who perform the regulated activity or activities to which the prohibition order relates, by notice in writing of such prohibition order and the representatives who are so informed shall cease to perform such regulated activity or activities during the period specified in the prohibition order.
-
-(9) Any licensed person who —
-
-(a) performs a regulated activity while its licence has lapsed or has been revoked or suspended, or in breach of a prohibition order; or
-
-(b) contravenes subsection (8), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-(10) A lapsing, revocation, suspension or expiry of a licence of a person or the issue of a prohibition order shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement relating to the regulated activities entered into by such person, whether the agreement, transaction or arrangement was entered into before or after the revocation, suspension or lapsing of the licence or the issue of the prohibition order, as the case may be; or
+(a) avoid or affect any agreement, transaction or arrangement relating to the regulated activities entered into by the holder of the licence, whether the agreement, transaction or arrangement was entered into before, on or after the revocation, suspension or lapsing of the licence, as the case may be; or
 
 (b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
-[SIA, s. 38; FTA, s. 20 and s. 22]
+[2/2009]

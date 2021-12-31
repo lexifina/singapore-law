@@ -1,5 +1,5 @@
-# 154. Requirement to appear for examination … … … … 215
-Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
+# 154. Requirement to appear for examination
+Part: PART 9 SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers Subdivision (1) — Powers of Authority to require disclosure of information about capital markets products
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 Subdivision: Subdivision (2) — Examination of persons
 
@@ -9,6 +9,4 @@ Subdivision: Subdivision (2) — Examination of persons
 
 (b) to appear before an officer of the Authority duly authorised by the Authority for examination on oath and to answer questions.
 
-(2) A requirement in writing imposed under subsection (1) shall state the general nature of the matter referred to in subsection (1).
-
-[ASIC 1989, s. 19 modified]
+(2) A written requirement imposed under subsection (1) must state the general nature of the matter referred to in subsection (1).

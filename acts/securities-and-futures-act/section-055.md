@@ -1,37 +1,19 @@
-# 55. Designation of persons operating clearing facilities … … 98
-Part: PART III CLEARING FACILITIES
-Division: Division 2 — Designation of Persons Operating Clearing Facilities Section Pages
+# 55. Cancellation of approval or recognition
+Part: PART 3 CLEARING FACILITIES
+Division: Division 1 — Establishment of Clearing Facilities
 
-(1) The Authority may designate a person operating a clearing facility as a designated clearing house for the purposes of this Act, if it is satisfied that —
+(1) An approved clearing house or a recognised clearing house which intends to cease operating its clearing facility or, where it operates more than one clearing facility, all of its clearing facilities, may apply to the Authority to cancel its approval as an approved clearing house or recognition as a recognised clearing house, as the case may be.
 
-(a) a disruption in the operations of the clearing facility could trigger, cause or transmit further systemic disruptions to capital markets or the financial system of Singapore;
+[34/2012]
 
-(b) a disruption in the operations of the clearing facility could affect public confidence in capital markets, financial institutions or the financial system of Singapore; or
+(2) An application under subsection (1) must be made in such form and manner, and not later than such time, as the Authority may prescribe.
 
-(c) it is in the interests of the public to do so.
+[34/2012]
 
-[1/2005]
+(3) The Authority may cancel the approval of an approved clearing house, or the recognition of a recognised clearing house, on such application if the Authority is satisfied that —
 
-(2) The Authority shall give notice in the Gazette of any person designated under subsection (1).
+(a) the approved clearing house or recognised clearing house has ceased operating its clearing facility or all of its clearing facilities, as the case may be; and
 
-[1/2005]
+(b) the cancellation of the approval or recognition (as the case may be) will not detract from the objectives specified in section 47.
 
-(3) A designation by the Authority under subsection (1) shall continue to have effect until it is withdrawn by the Authority.
-
-[1/2005]
-
-(4) The Authority shall not designate any person operating a clearing facility as a designated clearing house without giving that person an opportunity to be heard.
-
-[1/2005]
-
-(5) Any person operating a clearing facility who is aggrieved by a decision of the Authority to designate the person as a designated clearing house under subsection (1) may, within 30 days after the person is notified of the decision, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), the designation by the Authority under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(7) The Minister may, when deciding an appeal under subsection (5), direct that the Authority shall not designate the person as a designated clearing house, and such order shall have effect from the date of the decision of the Minister.
-
-[1/2005]
+[34/2012]

@@ -1,16 +1,16 @@
-# 176. Establishment of fidelity fund … … … … … … 229
-Part: PART XI INVESTOR COMPENSATION SCHEME
+# 176. Establishment of fidelity fund
+Part: PART 11 INVESTOR COMPENSATION SCHEME
 
-(1) Each securities exchange and each futures exchange shall establish, keep and administer a fidelity fund (referred to in this Part as a fidelity fund or fund).
+(1) Each approved exchange must establish, keep and administer a fidelity fund (called in this Part a fidelity fund or fund).
 
-(2) The assets of the fidelity fund of a securities exchange or futures exchange shall —
+[2/2009]
 
-(a) be the property of the exchange;
+(2) The assets of the fidelity fund of an approved exchange —
 
-(b) be kept separate from all other property of the exchange;
+(a) are the property of the exchange;
 
-and
+(b) must be kept separate from all other property of the exchange; and
 
-(c) be held in trust for the purposes set out in this Part.
+(c) must be held in trust for the purposes set out in this Part.
 
-[SIA, s. 75; FTA, s. 49AA]
+[2/2009]

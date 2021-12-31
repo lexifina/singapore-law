@@ -1,27 +1,51 @@
-# 57. General criteria to be taken into account by Authority … 100
-Part: PART III CLEARING FACILITIES
-Division: Division 2 — Designation of Persons Operating Clearing Facilities Section Pages
+# 57. General obligations
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
 
-Without affecting the generality of section 55, the Authority may have regard to the following matters in determining whether it is satisfied of the considerations in section 55 (1):
+(1) An approved clearing house —
 
-(a) the size and structure, or proposed size and structure, of the clearing facility;
+(a) must operate a safe and efficient clearing facility;
 
-(b) the nature of the services provided, or to be provided, by the clearing facility;
+(b) must manage any risks associated with its business and operations prudently;
 
-(c) the nature of the transactions cleared, or to be cleared, by the clearing facility;
+(c) in discharging its obligations under this Act, must not act contrary to the interests of the public, having particular regard to the interests of the investing public;
 
-(d) the market where the transactions cleared through the clearing facility are traded or to be traded;
+(d) must ensure that access for participation in its clearing facility is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of its facility and to protect the interests of the investing public;
 
-(e) the nature of the investors or participants, or proposed investors or participants, who may use or have an interest in the clearing facility;
+(e) must maintain business rules that make satisfactory provision for —
 
-(f) whether the person operating the clearing facility is otherwise regulated by the Authority under this Act or any other written law;
+(i) the clearing facility to be operated in a safe and efficient manner; and
 
-(g) whether the clearing facility takes on counterparty risks, through novation or otherwise, in the clearing or settlement of transactions;
+(ii) the proper regulation and supervision of its members;
 
-(h) the parties who may be affected in the event that the clearing facility runs into difficulties;
+(f) must enforce compliance by its members with its business rules;
 
-(i) the interests of the public; and
+(g) must have sufficient financial, human and system resources —
 
-(j) any other circumstances that the Authority may deem relevant.
+(i) to operate a safe and efficient clearing facility;
 
-[1/2005]
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements;
+
+(h) must maintain governance arrangements that are adequate for the clearing facility to be operated in a safe and efficient manner; and
+
+(i) must ensure that it appoints or employs fit and proper persons as its chairperson, chief executive officer, directors and key management officers.
+
+[34/2012]
+
+(2) The obligations imposed on an approved clearing house under this Act apply to all facilities for clearing or settlement operated by the approved clearing house.
+
+[34/2012]
+
+(3) Despite subsection (2), the Authority may by written notice exempt any clearing facility operated by an approved clearing house from all or any of the provisions of this Act, if the Authority is satisfied that such exemption would not detract from the objectives specified in section 47.
+
+[34/2012]
+
+(4) It is not necessary to publish any exemption granted under subsection (3) in the Gazette.
+
+[34/2012]
+
+(5) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+[34/2012]

@@ -1,9 +1,5 @@
-# 212. Penalties under this Division … … … … … … 250
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
-Division: Division 2 — Prohibited Conduct — Futures Contracts, Leveraged Foreign Exchange Trading
+# 212. [Repealed]
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
+Division: Division 2 — Prohibited Conduct — Financial Benchmarks
 
-(1) Any person who contravenes any of the provisions of this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both.
-
-(2) No proceedings shall be instituted against a person for an offence in respect of a contravention of this Division after a court has made an order against him for the payment of a civil penalty under section 232 for the contravention.
-
-[FTA, s. 56]
+[Repealed by Act 4 of 2017]

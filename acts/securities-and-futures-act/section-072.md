@@ -1,24 +1,32 @@
-# 72. Business rules of designated clearing houses have effect as contract … … … … … … … … … … 109
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
-Subdivision: Subdivision (2) — Rules of designated clearing houses
+# 72. Listing of approved clearing houses on organised market
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
+Subdivision: Subdivision (3) — Matters requiring approval of Authority
 
-(1) The business rules of a designated clearing house shall be deemed to be, and shall operate as, a binding contract —
+(1) The securities or securities-based derivatives contracts of an approved clearing house must not be listed for quotation on an organised market that is operated by any of its related corporations, unless the approved clearing house and the operator of the organised market have entered into such arrangements as the Authority may require —
 
-(a) between the designated clearing house and each issuer of securities;
+(a) for dealing with possible conflicts of interest that may arise from such listing; and
 
-(b) between the designated clearing house and each participant;
+(b) for the purpose of ensuring the integrity of the trading of the securities or securities-based derivatives contracts (as the case may be) of the approved clearing house.
 
-(c) between each issuer of securities and each participant; and
+[4/2017]
 
-(d) between each participant and every other participant.
+(2) Where the securities or securities-based derivatives contracts of an approved clearing house are listed for quotation on an organised market operated by any of its related corporations, the Authority may act in place of the operator of the organised market in making decisions and taking action, or require the operator of the organised market to make decisions and to take action on behalf of the Authority, on —
 
-[1/2005]
+(a) the admission of the approved clearing house to, or the removal of the approved clearing house from, the official list of the organised market; and
 
-(2) The designated clearing house, each issuer of securities and each participant shall be deemed to have agreed to observe, and perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the designated clearing house, issuer or participant, as the case may be.
+(b) the granting of approval for the securities or securities-based derivatives contracts (as the case may be) of the approved clearing house to be, or the stopping or suspending of the securities or securities-based derivatives contracts (as the case may be) of the approved clearing house from being, listed for quotation or quoted on the organised market.
 
-[1/2005]
+[4/2017]
 
-(3) In this section, ‘‘issuer’’, in relation to any securities, means a person who issued or made available, or proposes to issue or make available, the securities, being securities that are cleared or settled by the designated clearing house.
+(3) The Authority may, by written notice to the operator of the organised market —
 
-[1/2005]
+(a) modify the listing rules of the organised market for the purpose of their application to the listing for quotation or trading of the securities or securities-based derivatives contracts of the approved clearing house; or
+
+(b) waive the application of any listing rule of the organised market to the approved clearing house.
+
+[4/2017]
+
+(4) Any approved clearing house which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues after conviction.
+
+[34/2012]

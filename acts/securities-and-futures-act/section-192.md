@@ -1,6 +1,6 @@
-# 192. Payment of claims only from fund … … … … … 238
-Part: PART XI INVESTOR COMPENSATION SCHEME
+# 192. Payment of claims only from fund
+Part: PART 11 INVESTOR COMPENSATION SCHEME
 
-No moneys or other property belonging to a securities exchange or futures exchange, other than the fidelity fund, shall be available for the payment of any claim under this Part, whether the claim is allowed by the securities exchange or futures exchange or is made the subject of an order of the High Court.
+No moneys or other property belonging to an approved exchange, other than the fidelity fund, is available for the payment of any claim under this Part, whether the claim is allowed by the approved exchange or is made the subject of an order of the General Division of the High Court.
 
-[SIA, s. 93; FTA, s. 49O]
+[2/2009; 40/2019]

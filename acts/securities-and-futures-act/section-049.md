@@ -1,35 +1,67 @@
-# 49. Requirement to notify … … … … … … … 94
-Part: PART III CLEARING FACILITIES
+# 49. Requirement for approval or recognition
+Part: PART 3 CLEARING FACILITIES
 Division: Division 1 — Establishment of Clearing Facilities
 
-(1) Subject to subsection (2), no person shall establish or operate a clearing facility unless that person has notified the Authority of its intent to establish or operate a clearing facility at least 60 business days prior to the establishment, or commencement of operation, of the clearing facility.
+(1) A person must not establish or operate a clearing facility, or hold out that the person is operating a clearing facility, unless the person is —
 
-[1/2005]
+(a) an approved clearing house; or
 
-(2) A person may apply to the Authority to reduce the period referred to in subsection (1) and the Authority may, in its discretion and in relation only to that person, substitute such other period as may be determined by the Authority in place of the period referred to in subsection (1).
+(b) a recognised clearing house.
 
-[1/2005]
+[34/2012]
 
-(3) The notice referred to in subsection (1) shall provide information in such form and manner as may be prescribed by the Authority.
+(2) A person must not hold out that the person is —
 
-[1/2005]
+(a) an approved clearing house, unless the person is an approved clearing house; or
 
-(4) The application referred to in subsection (2) shall provide information in such form and manner as may be prescribed by the Authority.
+(b) a recognised clearing house, unless the person is a recognised clearing house.
 
-[1/2005]
+[34/2012]
 
-(5) The Authority may require a person providing the notice referred to in subsection (1) to furnish the Authority with such information or documents as the Authority considers necessary in relation to the notice.
+(3) Except with the written approval of the Authority, no person, other than an approved clearing house or a recognised clearing house, may take or use, or have attached to or exhibited at any place —
 
-[1/2005]
+(a) the title or description “securities clearing house” or “futures clearing house” in any language; or
 
-(6) In subsection (1), ‘‘business day’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50).
+(b) any title or description which resembles a title or description referred to in paragraph (a).
 
-[1/2005]
+[34/2012]
 
-(7) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
 
-[1/2005]
+[34/2012]
 
-(8) Any person who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(5) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues after conviction.
 
-[1/2005]
+[34/2012]
+
+(6) Without affecting section 337(1), the Authority may, by regulations made under section 81Q, exempt any corporation or class of corporations from subsection (1), subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+[34/2012]
+
+(7) Without affecting section 337(3) and (4), the Authority may, by written notice, exempt any corporation from subsection (1), subject to such conditions or restrictions as the Authority may specify by written notice, if the Authority is satisfied that the exemption will not detract from the objectives specified in section 47.
+
+[34/2012]
+
+(8) It is not necessary to publish any exemption granted under subsection (7) in the Gazette.
+
+[34/2012]
+
+(9) The Authority may, at any time, by written notice —
+
+(a) add to the conditions and restrictions referred to in subsection (7); or
+
+(b) vary or revoke any condition or restriction referred to in that subsection.
+
+[34/2012]
+
+(10) Every corporation that is granted an exemption under subsection (6) must satisfy every condition or restriction imposed on it under that subsection.
+
+[34/2012]
+
+(11) Every corporation that is granted an exemption under subsection (7) must, for the duration of the exemption, satisfy every condition or restriction imposed on it under that subsection or subsection (9).
+
+[34/2012]
+
+(12) Any corporation which contravenes subsection (10) or (11) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part of a day during which the offence continues after conviction.
+
+[34/2012]

@@ -1,49 +1,76 @@
-# 125. Dealings as principal 195
-Part: PART VI CONDUCT OF BUSINESS Division 1 — General Section Pages
-Division: Division 2 — Securities
+# 125. Reporting of specified derivatives contracts
+Part: PART 6A REPORTING OF DERIVATIVES CONTRACTS
 
-(1) Subject to subsection (4), the holder of a capital markets services licence to deal in securities shall not, as principal, enter into any transaction of sale or purchase of any securities with any customer who is not the holder of a capital markets services licence to deal in securities unless the holder first informs the customer that the holder is acting in the transaction as principal and not as agent.
+(1) Every specified person who is a party to a specified derivatives contract must, at such time or times and in such form or manner as the Authority may prescribe by regulations made under section 129, report to a licensed trade repository or licensed foreign trade repository —
 
-[16/2003]
+(a) such information on the specified derivatives contract as the Authority may prescribe by those regulations; and
 
-(2) The holder of a capital markets services licence to deal in securities which enters into a transaction of sale or purchase of securities, as principal, with a customer who is not the holder of a capital markets services licence to deal in securities shall state in the contract note that the holder is acting in the transaction as principal and not as agent.
+(b) any amendment, modification, variation or change to the information referred to in paragraph (a).
 
-[16/2003]
+[34/2012]
 
-(3) (Deleted by Act 16/2003)
+(2) Without affecting subsection (1), where the circumstances referred to in subsection (3) apply, a specified person who executes or causes to be executed a specified derivatives contract as an agent of a party to the specified derivatives contract must, at such time or times and in such form or manner as the Authority may prescribe by regulations made under section 129, report to a licensed trade repository or licensed foreign trade repository —
 
-(4) Subsection (1) shall not apply to a transaction of sale or purchase of an odd lot of securities that is entered into by the holder of a capital markets services licence to deal in securities which is a member of a securities exchange or recognised market operator and specialises in transactions relating to odd lots of securities.
+(a) such information on the specified derivatives contract as the Authority may prescribe by those regulations; and
 
-[1/2005]
+(b) any amendment, modification, variation or change to the information referred to in paragraph (a).
 
-(5) Where the holder of a capital markets services licence to deal in securities fails to comply with subsection (1) or (2) in respect of a contract for the sale of securities by the holder, the purchaser of the securities may, if he has not disposed of them, rescind the contract by a notice of rescission given in writing to the holder not later than 30 days after the receipt of the contract note.
+[34/2012; 4/2017]
 
-(6) Where the holder of a capital markets services licence fails to comply with subsection (1) or (2) in respect of a contract for the purchase of securities by the holder, the vendor of the securities may, in like manner, rescind the contract.
+(3) For the purposes of subsection (2), the circumstances are that the party to the specified derivatives contract —
 
-(7) Nothing in subsection (5) or (6) shall affect any right that a person has apart from those subsections.
+(a) is not a specified person; or
 
-(8) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) is a specified person, but is exempted under section 129A from subsection (1).
 
-(9) For the purposes of this section —
+[34/2012; 4/2017]
 
-(a) a reference to the holder of a capital markets services licence to deal in securities entering into a transaction of sale or purchase of securities as principal includes a reference to the holder entering into such a transaction on behalf of —
+(4) A specified person who is required to comply with subsection (1) or (2) in relation to any information on a specified derivatives contract (including any amendment, modification, variation or change to that information) is treated to have reported that information to a licensed trade repository or licensed foreign trade repository, if —
 
-(i) a person associated with or connected to the holder;
+(a) any other person has, with the consent or authority of the specified person, reported that information, in such form or manner prescribed by regulations made under section 129, to that licensed trade repository or licensed foreign trade repository; and
 
-(ii) a corporation in which the holder has a controlling interest; or
+(b) that information is true and correct and has been received by that licensed trade repository or licensed foreign trade repository.
 
-(iii) a corporation in which the holder’s interest and the interests of the directors of the holder together constitute a controlling interest; and
+[4/2017]
 
-(b) a reference to securities is a reference to securities which are permitted to be traded on the securities market of —
+(5) A specified person who is treated under subsection (4) to have reported any information on a specified derivatives contract (including any amendment, modification, variation or change to that information) to a licensed trade repository or licensed foreign trade repository, is treated to have so reported that information at the time that information is received by that licensed trade repository or licensed foreign trade repository.
 
-(i) a securities exchange;
+[4/2017]
 
-(ii) an overseas securities exchange; or
+(6) A specified person who —
 
-(iii) a recognised market operator.
+(a) complies with subsection (1) or (2);
 
-[16/2003; 1/2005]
+(b) consents to or authorises the reporting of any information in connection with subsection (4); or
 
-[SIA, s. 52]
+(c) discloses any information in compliance with the foreign reporting obligations of such jurisdiction as may be prescribed by regulations made under section 129, is not to be treated as being in breach of any restriction upon the disclosure of information imposed by written law, any rule of law, any contract or otherwise.
 
-Division 3 — Futures Contracts and Leveraged Foreign Exchange Trading
+[4/2017]
+
+(7) Any specified person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
+
+[34/2012]
+
+(8) A specified person who is required under subsection (1) or (2) to report any information to a licensed trade repository or licensed foreign trade repository must use due care to ensure that the information reported is not false in any material particular.
+
+[34/2012]
+
+(9) Any specified person who contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[34/2012]
+
+(10) Except where the parties to a specified derivatives contract have entered into an express agreement to the contrary, the specified derivatives contract is not, by reason only of a contravention of subsection (1), (2) or (8) in relation to the specified derivatives contract, voidable or void.
+
+[34/2012]
+
+(11) For the purposes of subsections (1)(a) and (2)(a), the information on a specified derivatives contract that the Authority may prescribe by regulations made under section 129 includes, but is not limited to —
+
+(a) the identities of the parties to the specified derivatives contract; and
+
+(b) the characteristics of the specified derivatives contract, including, but not limited to, operational data (such as clearing and settlement details), event data (such as execution time), underlying information and information on transaction economics (such as effective date and maturity date).
+
+[34/2012]
+
+(12) For the purposes of this section, where any right or obligation under a specified derivatives contract is transferred to any market contract, a reference to the specified derivatives contract includes a reference to that market contract.
+
+[34/2012]

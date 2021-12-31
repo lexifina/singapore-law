@@ -1,9 +1,11 @@
-# 53. Exemption … … … … … … … … … 96
-Part: PART III CLEARING FACILITIES
+# 53. Annual fees payable by approved clearing house or recognised clearing house
+Part: PART 3 CLEARING FACILITIES
 Division: Division 1 — Establishment of Clearing Facilities
 
-Sections 49, 50 and 51 shall not apply to such persons or class
+(1) Every approved clearing house and every recognised clearing house must pay to the Authority such annual fees as may be prescribed in such manner as the Authority may specify.
 
-of persons as may be prescribed by the Authority.
+[34/2012]
 
-[1/2005]
+(2) The Authority may, where it considers appropriate, refund or remit the whole or any part of any annual fee paid or payable to it.
+
+[34/2012]

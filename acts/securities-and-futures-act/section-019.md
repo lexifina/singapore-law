@@ -1,7 +1,7 @@
-# 19. Obligation to submit periodic reports … … … … 67
-Part: PART II MARKETS
+# 19. Obligation to submit periodic reports
+Part: PART 2 ORGANISED MARKETS
 Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-An approved exchange shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+An approved exchange must submit to the Authority such reports in such form and manner, and at such frequency, as the Authority may prescribe by regulations made under section 44.
 
-[1/2005]
+[4/2017]

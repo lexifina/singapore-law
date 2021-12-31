@@ -1,40 +1,43 @@
-# 33. Additional powers of Authority in respect of auditors … 81
-Part: PART II MARKETS
-Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
-Subdivision: Subdivision (4) — Powers of Authority
+# 33. General obligations
+Part: PART 2 ORGANISED MARKETS
+Division: Division 3 — Regulation of Recognised Market Operators
 
-(1) If an auditor of an approved exchange, in the course of the performance of his duties, becomes aware of —
+(1) A recognised market operator must —
 
-(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the approved exchange to a material extent;
+(a) as far as is reasonably practicable, ensure that every organised market it operates is a fair, orderly and transparent organised market;
 
-(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or
+(b) manage any risks associated with its business and operations prudently;
 
-(c) any irregularity that has or may have a material effect upon the accounts of the approved exchange, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors in securities or futures contracts, the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
 
-[1/2005]
+(d) ensure that access for participation in its facilities is subject to criteria that are —
 
-(2) An auditor of an approved exchange shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
+(i) fair and objective; and
 
-[1/2005]
+(ii) designed to ensure the orderly functioning of its organised market and to protect the interests of the investing public;
 
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor of an approved exchange may have, apart from this section, as a defendant in an action for defamation.
+(e) maintain business rules and, where appropriate, listing rules that make satisfactory provision for —
 
-[1/2005]
+(i) the organised market to be operated in a fair, orderly and transparent manner; and
 
-(4) The Authority may impose all or any of the following duties on an auditor of an approved exchange:
+(ii) the proper regulation and supervision of its members;
 
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
+(f) enforce compliance with its business rules and, where appropriate, its listing rules;
 
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the approved exchange;
+(g) have sufficient financial, human and system resources —
 
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
+(i) to operate a fair, orderly and transparent organised market;
 
-(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c), and the auditor shall carry out such duties.
+(ii) to meet contingencies or disasters; and
 
-[1/2005]
+(iii) to provide adequate security arrangements;
 
-(5) The approved exchange shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+(h) maintain governance arrangements that are adequate for its organised market to be operated in a fair, orderly and transparent manner; and
 
-[1/2005]
+(i) ensure that it appoints or employs fit and proper persons as its chairperson, chief executive officer, directors and key management officers.
 
-[E (DM) A, s. 16]
+[4/2017]
+
+(2) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+[4/2017]

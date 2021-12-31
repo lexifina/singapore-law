@@ -1,11 +1,11 @@
-# 151. Power of Minister to appoint inspectors … … … … 213
-Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
-Division: Division 2 — Power of Minister to Appoint Inspector for Investigating Dealings in Securities, etc. Section Pages
+# 151. Power of Minister to appoint inspectors
+Part: PART 9 SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers Subdivision (1) — Powers of Authority to require disclosure of information about capital markets products
+Division: Division 2 — Power of Minister to Appoint Inspector for Investigating Dealings in Securities, etc.
 
-(1) Notwithstanding anything in this Act, the Minister may, if he thinks it in the public interest to do so, appoint any person as an inspector to investigate any matter concerning dealing in securities, trading in futures contracts or leveraged foreign exchange trading.
+(1) Despite anything in this Act, the Minister may, if he or she thinks it in the public interest to do so, appoint any person as an inspector to investigate any matter concerning dealing in capital markets products, administering a designated benchmark or providing information in relation to a designated benchmark.
 
-(2) An inspector appointed under subsection (1) shall have all the powers conferred upon an inspector under Part IX of the Companies Act (Cap. 50) and that Part shall, with the necessary modifications, apply to such investigation.
+[4/2017]
 
-(3) Any inspector appointed under subsection (1) shall report the results of his investigation to the Minister and the Minister may, if he thinks it in the public interest to do so, cause the report to be printed and published.
+(2) An inspector appointed under subsection (1) has all the powers conferred upon an inspector under Part 9 of the Companies Act 1967 and that Part applies, with the necessary modifications, to such investigation.
 
-[SIA, s. 112]
+(3) Any inspector appointed under subsection (1) must report the results of the inspector’s investigation to the Minister and the Minister may, if he or she thinks it in the public interest to do so, cause the report to be printed and published.

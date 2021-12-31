@@ -1,25 +1,16 @@
-# 68. Obligation to maintain confidentiality … … … … 107
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+# 68. Power of court to order observance or enforcement of business rules
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
+Subdivision: Subdivision (2) — Rules of approved clearing houses
 
-(1) Subject to subsection (2), a designated clearing house and its officers and employees shall maintain, and aid in maintaining, confidentiality of all user information that —
+(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of an approved clearing house fails to do so, the General Division of the High Court may, on the application of the Authority, the approved clearing house or a person aggrieved by the failure, and after giving the firstmentioned person an opportunity to be heard, make an order directing the firstmentioned person to comply with, observe, enforce or give effect to those business rules.
 
-(a) comes to the knowledge of the designated clearing house or any of its officers or employees; or
+[34/2012; 40/2019]
 
-(b) is in the possession of the designated clearing house or any of its employees.
+(2) In this section, “person” includes an approved clearing house.
 
-[1/2005]
+[34/2012]
 
-(2) Subsection (1) shall not apply to —
+(3) This section is in addition to, and not in derogation of, any other remedy available to the aggrieved person referred to in subsection (1).
 
-(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
-
-(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
-
-(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
-
-[1/2005]
-
-(3) For the avoidance of doubt, nothing in this section shall be construed as preventing a designated clearing house from entering into a written agreement with a user which obliges the designated clearing house to maintain a higher degree of confidentiality than that specified in this section.
-
-[1/2005]
+[34/2012]

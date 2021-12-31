@@ -1,5 +1,5 @@
-# 5. Objectives of this Part … … … … … … … 49
-Part: PART II MARKETS
+# 5. Objectives of this Part
+Part: PART 2 ORGANISED MARKETS
 
 The objectives of this Part are —
 
@@ -9,4 +9,4 @@ The objectives of this Part are —
 
 (c) to reduce systemic risk.
 
-[1/2005]
+[4/2017]

@@ -1,15 +1,21 @@
-# 20. Obligation to assist Authority … … … … … … 67
-Part: PART II MARKETS
+# 20. Obligation to assist Authority
+Part: PART 2 ORGANISED MARKETS
 Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-An approved exchange shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+An approved exchange must provide such assistance to the Authority as the Authority may require for the performance of the Authority’s functions and duties, including —
 
-(a) such books and other information —
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
 
-(i) relating to the business of the approved exchange; or
+(b) the provision of —
 
-(ii) in respect of such dealings in securities or trading in futures contracts; and
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
 
-(b) such other information, as the Authority may require for the proper administration of this Act.
+(A) relating to the business of the approved exchange;
 
-[1/2005]
+(B) in respect of any transaction or class of transactions, whether completed or uncompleted, effected through the organised market of the approved exchange; or
+
+(C) in respect of any product or class of products traded on the organised market of the approved exchange; and
+
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[4/2017]

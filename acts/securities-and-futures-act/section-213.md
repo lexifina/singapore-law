@@ -1,29 +1,39 @@
-# 213. Application of this Division … … … … … … 250
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 213. Application of this Division
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 Division: Division 3 — Insider Trading
 
-This Division shall apply to —
+This Division applies to —
 
-(a) acts occurring within Singapore, in relation to —
+(a) acts occurring within Singapore in relation to —
 
-(i) securities of any corporation, whether formed or carrying on business in Singapore or elsewhere;
+(i) securities or securities-based derivatives contracts of any corporation, whether formed or carrying on business in Singapore or elsewhere;
 
-(ia) securities of any business trust;
+(ii) securities or securities-based derivatives contracts of any business trust;
 
-(ii) securities listed for quotation or quoted on a securities market in Singapore or elsewhere; or
+(iii) securities or securities-based derivatives contracts listed for quotation or quoted on an organised market in Singapore or elsewhere;
 
-(iii) securities traded on a futures market in Singapore or elsewhere; and
+(iv) securities-based derivatives contracts, whether traded in Singapore or elsewhere; or
 
-(b) acts occurring outside Singapore, in relation to —
+(v) CIS units —
 
-(i) securities of a corporation that is formed or carries on business in Singapore;
+(A) listed for quotation or quoted on an organised market in Singapore or elsewhere; or
 
-(ia) securities of a business trust, the trustee of which is formed in Singapore or carries on business on behalf of the business trust in Singapore;
+(B) traded in Singapore or elsewhere; and
 
-(ii) securities listed for quotation or quoted on a securities market in Singapore; or
+(b) acts occurring outside Singapore in relation to —
 
-(iii) securities traded on a futures market in Singapore.
+(i) securities or securities-based derivatives contracts of a corporation that is formed or carries on business in Singapore;
 
-[1/2005]
+(ii) securities or securities-based derivatives contracts of a business trust, the trustee of which is formed in Singapore or carries on business on behalf of the business trust in Singapore;
 
-[Malaysia SIA, s. 89P]
+(iii) securities or securities-based derivatives contracts listed for quotation or quoted on an organised market in Singapore;
+
+(iv) securities-based derivatives contracts traded in Singapore; or
+
+(v) CIS units —
+
+(A) listed for quotation or quoted on an organised market in Singapore; or
+
+(B) traded in Singapore.
+
+[4/2017]

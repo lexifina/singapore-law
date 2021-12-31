@@ -1,23 +1,32 @@
-# 128. Risk disclosure by certain persons … … … … … 197
-Part: PART VI CONDUCT OF BUSINESS Division 1 — General Section Pages
-Division: Division 3 — Futures Contracts and Leveraged Foreign Exchange Trading
+# 128. Compliance with laws and practices of relevant reporting jurisdiction
+Part: PART 6A REPORTING OF DERIVATIVES CONTRACTS
 
-(1) The holder of a capital markets services licence to trade in futures contracts or carry out leveraged foreign exchange trading shall not open a futures trading account or leveraged foreign exchange trading account for a customer unless he —
+(1) Subject to subsection (3), a specified person who is a party to a specified derivatives contract is treated to have complied with section 125(1) in relation to any information on the specified derivatives contract (including any amendment, modification, variation or change to that information), if —
 
-(a) furnishes the customer with a separate written risk disclosure document which shall be in such form and contain such information as the Authority may prescribe; and
+(a) any other party to the specified derivatives contract is incorporated, formed or established under the laws of, or has a place of business in, a relevant reporting jurisdiction;
 
-(b) receives from the customer an acknowledgment signed and dated by the customer that he has received and understood the nature and contents of the risk disclosure document.
+and
 
-(2) The holder of a capital markets services licence for fund management shall not solicit or enter into an agreement with a prospective customer for the purpose of —
+(b) the specified person, or any other party to the specified derivatives contract, is required to comply with, and has complied with, in relation to the specified derivatives contract, the requirements relating to the reporting of specified derivatives contracts under the laws and practices of the relevant reporting jurisdiction.
 
-(a) managing the customer’s futures trading account or foreign exchange trading account; or
+[34/2012; 4/2017]
 
-(b) guiding the customer’s futures trading account or foreign exchange trading account, by means of a systematic programme that recommends specific transactions unless, at or before the time the holder engages in the solicitation or enters into the agreement (whichever is the earlier), the holder —
+(2) Subject to subsection (3), a specified person who executes or causes to be executed a specified derivatives contract as an agent of a party to the specified derivatives contract (called in this subsection the principal party) is treated to have complied with section 125(2) in relation to any information on the specified derivatives contract (including any amendment, modification, variation or change to that information), if —
 
-(i) delivers or causes to be delivered to the prospective customer a risk disclosure document in respect of that purpose which shall be in such form and contain such information as the Authority may prescribe; and
+(a) the principal party, or any other party to the specified derivatives contract, is incorporated, formed or established under the laws of, or has a place of business in, a relevant reporting jurisdiction; and
 
-(ii) receives from the prospective customer an acknowledgment signed and dated by him that he has received and understood the nature and contents of the risk disclosure document.
+(b) the principal party, or any other party to the specified derivatives contract, is required to comply with, and has complied with, in relation to the specified derivatives contract, the requirements relating to the reporting of specified derivatives contracts under the laws and practices of the relevant reporting jurisdiction.
 
-(3) Subsection (2) shall not apply to collective investment schemes that are approved under Division 2 of Part XIII.
+[34/2012; 4/2017]
 
-[FTA, s. 39]
+(3) Subsections (1) and (2) do not apply to any specified derivatives contract that is, or that belongs to a class of specified derivatives contracts that is, prescribed by the Authority by regulations made under section 129 for the purposes of this subsection.
+
+[34/2012]
+
+(4) In this section —
+
+“place of business”, in relation to a party to a specified derivatives contract, means a head or main office, a branch, a representative office or any other office of the party;
+
+“relevant reporting jurisdiction” means any foreign jurisdiction that is prescribed by the Authority by regulations made under section 129 for the purposes of this definition.
+
+[34/2012]

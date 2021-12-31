@@ -1,10 +1,10 @@
-# 47. Objectives of this Part … … … … … … … 91
-Part: PART III CLEARING FACILITIES
+# 47. Objectives of this Part
+Part: PART 3 CLEARING FACILITIES
 
 The objectives of this Part are —
 
-(a) to promote the safety and efficiency of clearing facilities that support systemically-important markets or form an integral part of the financial infrastructure; and
+(a) to promote safe and efficient clearing facilities; and
 
 (b) to reduce systemic risk.
 
-[1/2005]
+[34/2012]

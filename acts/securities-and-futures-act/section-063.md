@@ -1,15 +1,19 @@
-# 63. Permissible use of customers’ money and assets by designated clearing house … … … … … … 105
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
+# 63. Obligation to assist Authority
+Part: PART 3 CLEARING FACILITIES
+Division: Division 2 — Regulation of Approved Clearing Houses Subdivision (1) — Obligations of approved clearing houses
 
-(1) Where a member of a designated clearing house fails to meet its obligations to the designated clearing house, the designated clearing house may use any money or assets deposited or paid in respect of or in relation to contracts of customers of the member and held by the designated clearing house, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62 (2) (b), to meet the obligations of the member to the designated clearing house, if the designated clearing house has reasonable grounds for forming an opinion that —
+An approved clearing house must provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including —
 
-(a) the failure of the member to meet the member’s obligations is directly attributable to the failure of any of the customers of the member to meet that customer’s obligations under any market contract; and
+(a) the furnishing of such returns as the Authority may require for the proper administration of this Act; and
 
-(b) the failure to use the money or assets to meet the obligations of the member may jeopardise the financial integrity of the designated clearing house.
+(b) the provision of —
 
-[1/2005]
+(i) such books and information as the Authority may require for the proper administration of this Act, being books and information —
 
-(2) A designated clearing house shall notify the Authority prior to using any such money or assets in the circumstances specified in subsection (1).
+(A) relating to the business of the approved clearing house; or
 
-[1/2005]
+(B) in respect of any transaction or class of transactions cleared or settled by the approved clearing house; and
+
+(ii) such other information as the Authority may require for the proper administration of this Act.
+
+[34/2012]

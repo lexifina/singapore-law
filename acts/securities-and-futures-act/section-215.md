@@ -1,16 +1,20 @@
-# 215. Information generally available … … … … … 254
-Part: PART XII MARKET CONDUCT Division 1 — Prohibited Conduct — Securities Section Pages
+# 215. Information generally available
+Part: PART 12 MARKET CONDUCT Division 1 — Prohibited Conduct — Capital Markets Products
 Division: Division 3 — Insider Trading
 
 For the purposes of this Division, information is generally available if —
 
 (a) it consists of readily observable matter;
 
-(b) without limiting the generality of paragraph (a) —
+(b) without limiting paragraph (a) —
 
-(i) it has been made known in a manner that would, or would be likely to, bring it to the attention of persons who commonly invest in securities of a kind whose price or value might be affected by the information;
+(i) it has been made known in a manner that would, or would be likely to, bring it to the attention of any of the following classes of persons:
 
-and
+(A) persons who commonly invest in securities of a kind of which the price or value might be affected by the information;
+
+(B) persons who commonly invest in securities-based derivatives contracts of a kind of which the price or value might be affected by the information;
+
+(C) persons who commonly invest in CIS units of a kind of which the price or value might be affected by the information; and
 
 (ii) since it was so made known, a reasonable period for it to be disseminated among such persons has elapsed; or
 
@@ -18,6 +22,6 @@ and
 
 (i) information referred to in paragraph (a);
 
-(ii) information made known as referred to in paragraph (b) (i).
+(ii) information made known as referred to in paragraph (b)(i).
 
-[Aust. Corporations 2001, s. 1002B]
+[4/2017]

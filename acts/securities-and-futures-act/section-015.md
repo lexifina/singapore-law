@@ -1,81 +1,43 @@
-# 15. Power of Authority to revoke exemption … … … 62
-Part: PART II MARKETS
-Division: Division 1 — Establishment of Markets
-Subdivision: Subdivision (2) — Exempt market operator
-Heading: Section Pages
+# 15. General obligations
+Part: PART 2 ORGANISED MARKETS
+Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
 
-(1) The Authority may revoke any exemption granted to a corporation under section 14 (2), (8) or (9) if —
+(1) An approved exchange must —
 
-(a) the corporation does not commence operating its market or, where it operates more than one market, all of its markets, within 12 months from the date on which it was granted the exemption;
+(a) as far as is reasonably practicable, ensure that every organised market it operates is a fair, orderly and transparent organised market;
 
-(b) the corporation ceases to operate its market or, where it operates more than one market, all of its markets;
+(b) manage any risks associated with its business and operations prudently;
 
-(c) the corporation contravenes —
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
 
-(i) any condition or restriction relating to the exemption;
+(d) ensure that access for participation in its facilities is subject to criteria that —
 
-(ii) any direction issued to it by the Authority under this Act; or
+(i) are fair and objective; and
 
-(iii) any provision in this Act;
+(ii) are designed to ensure the orderly functioning of the organised market that it operates and to protect the interests of the investing public;
 
-(d) the Authority is of the opinion that the corporation has operated in a manner that is contrary to the interests of the public;
+(e) maintain business rules and, where appropriate, listing rules that make satisfactory provision for —
 
-(e) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(i) the organised market to be operated in a fair, orderly and transparent manner; and
 
-(f) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
+(ii) the proper regulation and supervision of its members;
 
-(g) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
+(f) enforce compliance with its business rules and, where appropriate, its listing rules;
 
-(h) the Authority is of the opinion that the corporation would be more appropriately regulated as an approved exchange or a recognised market operator; or
+(g) have sufficient financial, human and system resources —
 
-(i) any information or document provided by the corporation to the Authority is false or misleading.
+(i) to operate a fair, orderly and transparent organised market;
 
-[1/2005]
+(ii) to meet contingencies or disasters; and
 
-(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) any exemption granted to a corporation without giving the corporation an opportunity to be heard.
+(iii) to provide adequate security arrangements;
 
-[1/2005]
+(h) maintain governance arrangements that are adequate for its organised market to be operated in a fair, orderly and transparent manner; and
 
-(3) The Authority may revoke an exemption granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
+(i) ensure that it appoints or employs fit and proper persons as its chairperson, chief executive officer, directors and key management officers.
 
-(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+[4/2017]
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect, of any property of the corporation;
+(2) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
 
-(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[1/2005]
-
-(4) For the purposes of subsection (1) (b), a corporation shall be deemed to have ceased to operate its market if —
-
-(a) it has ceased to operate the market for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
-
-(b) it has ceased to operate the market under a direction issued by the Authority under section 46.
-
-[1/2005]
-
-(5) A corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(8) Any revocation under subsection (1) of an exemption granted to a corporation shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into on a market operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the exemption;
-
-or
-
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
-
-[1/2005]
-
-(9) The Authority shall give notice in the Gazette of any revocation of an exemption referred to in subsection (1).
-
-[1/2005]
+[4/2017]

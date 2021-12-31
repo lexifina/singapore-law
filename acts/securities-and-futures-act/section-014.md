@@ -1,64 +1,73 @@
-# 14. Power of Authority to exempt corporations from approval or recognition … … … … … … … … 60
-Part: PART II MARKETS
-Division: Division 1 — Establishment of Markets
-Subdivision: Subdivision (2) — Exempt market operator
+# 14. Power of Authority to revoke approval and recognition
+Part: PART 2 ORGANISED MARKETS
+Division: Division 1 — Establishment of Organised Markets
 
-(1) A corporation that wishes to establish or operate a market may apply to the Authority, in such form and manner as the Authority may prescribe, to be exempted from the requirement under section 6 (1) to be an approved exchange or a recognised market operator.
+(1) The Authority may revoke any approval of a Singapore corporation as an approved exchange under section 9(1)(a), any recognition of a Singapore corporation as a recognised market operator under section 9(1)(b), or any recognition of a foreign corporation as a recognised market operator under section 9(2), if —
 
-[1/2005]
+(a) there exists at any time a ground under section 9(7) or (8) on which the Authority may refuse an application;
 
-(2) The Authority may exempt a corporation referred to in subsection (1) from the requirement under section 6 (1) if, in the opinion of the Authority, the objectives specified in section 5 can be achieved without regulating the corporation as an approved exchange or a recognised market operator.
+(b) the corporation does not commence operating its organised market or, where it operates more than one organised market, all of its organised markets, within 12 months starting on the date on which it was approved under section 9(1)(a) or was recognised under section 9(1)(b) or (2), as the case may be;
 
-[1/2005]
+(c) the corporation ceases to operate its organised market or, where it operates more than one organised market, all of its organised markets;
 
-(3) An application made under subsection (1) shall be accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
+(d) the corporation contravenes —
 
-[1/2005]
+(i) any condition or restriction applicable in respect of its approval or recognition, as the case may be;
 
-(4) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+(ii) any direction issued to it by the Authority under this Act; or
 
-[1/2005]
+(iii) any provision of this Act;
 
-(5) The Authority may, by notice in writing, impose on a corporation exempted under subsection (2) such conditions or restrictions relating to the exemption as the Authority may think fit, including conditions or restrictions relating to —
+(e) upon the Authority exercising any power under section 46AAB(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part 4B of the Monetary Authority of Singapore Act 1970 in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
 
-(a) the activities that the corporation may undertake;
+(f) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
 
-(b) the securities or futures contracts that may be traded on any market established or operated by the corporation; and
+(g) any information or document provided by the corporation to the Authority is false or misleading.
 
-(c) the nature of the investors or participants who may use, participate or invest in the securities or futures contracts traded on any market established or operated by the corporation.
+[4/2017; 31/2017]
 
-[1/2005]
+(2) Subject to subsection (3), the Authority must not revoke under subsection (1) any approval under section 9(1)(a), or recognition under section 9(1)(b) or (2), that was granted to a corporation without giving the corporation an opportunity to be heard.
 
-(6) The Authority may, at any time, by notice in writing to a corporation exempted under subsection (2), vary any condition or restriction referred to in subsection (5) or impose such further condition or restriction relating to the exemption as the Authority may think fit.
+[4/2017]
 
-[1/2005]
+(3) The Authority may revoke an approval under section 9(1)(a), or a recognition under section 9(1)(b) or (2), that was granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
 
-(7) The Authority shall give notice in the Gazette of any corporation exempted under subsection (2), and such notice may include the conditions or restrictions imposed by the Authority on the corporation under subsection (5) (b) in relation to the securities or futures contracts that may be traded on any market established or operated by the corporation.
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-[1/2005]
+(b) a receiver, a receiver and manager or a person in an equivalent capacity has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
 
-(8) The Authority may —
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after 8 October 2018, involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(a) exempt any corporation operating any market from the requirement under section 6 (1) to be an approved exchange or a recognised market operator;
+[4/2017]
 
-(b) by order published in the Gazette, declare that corporation to be an exempt market operator; and
+(4) For the purposes of subsection (1)(c), a corporation is to be treated to have ceased to operate its organised market if —
 
-(c) by notice in writing to that corporation, impose such conditions or restrictions relating to the exemption as the Authority may think fit.
+(a) it has ceased to operate the organised market for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
 
-[1/2005]
+(b) it has ceased to operate the organised market under a direction issued by the Authority under section 45.
 
-(9) The Authority may —
+[4/2017]
 
-(a) exempt corporations operating any class of markets from the requirement under section 6 (1) to be approved exchanges or recognised market operators, subject to such conditions or restrictions as the Authority may think fit to impose by regulations; and
+(5) Any corporation that is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision is final.
 
-(b) by order published in the Gazette, declare such corporations to be exempt market operators.
+[4/2017]
 
-[1/2005]
+(6) Despite the lodging of an appeal under subsection (5), any action taken by the Authority under this section continues to have effect pending the Minister’s decision.
 
-(10) An exempt market operator shall comply with all conditions or restrictions imposed on it under subsection (5), (6) or (8), as the case may be.
+[4/2017]
 
-[1/2005]
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as the Minister considers necessary to any action taken by the Authority under this section, and such modified action has effect starting on the date of the Minister’s decision.
 
-(11) Any corporation which contravenes subsection (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+[4/2017]
 
-[1/2005]
+(8) Any revocation under subsection (1) or (3) of the approval or recognition of a corporation under section 9(1) or (2) does not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of an organised market operated by the corporation, whether the agreement, transaction or arrangement was entered into before, on or after the revocation of the approval or recognition; or
+
+(b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
+
+[4/2017]
+
+(9) The Authority must give notice in the Gazette of any revocation under subsection (1) or (3) of any approval or recognition of a corporation under section 9(1) or (2).
+
+[4/2017]

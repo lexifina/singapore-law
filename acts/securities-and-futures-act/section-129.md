@@ -1,11 +1,16 @@
-# 129. Penalties under this Division … … … … … … 198
-Part: PART VI CONDUCT OF BUSINESS Division 1 — General Section Pages
-Division: Division 3 — Futures Contracts and Leveraged Foreign Exchange Trading
+# 129. Power of Authority to make regulations
+Part: PART 6A REPORTING OF DERIVATIVES CONTRACTS
 
-Any person who contravenes any provision of this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(1) Without affecting section 341, the Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
 
-[FTA, s. 40]
+[34/2012]
 
-PART VII
+(2) In deciding whether to prescribe any derivatives contract or class of derivatives contracts for the purposes of the definition of “specified derivatives contract” in section 124, the Authority may have regard to —
 
-DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
+(a) the significance of that derivatives contract or class of derivatives contracts in Singapore;
+
+(b) international developments in the reporting of derivatives contracts; and
+
+(c) any other matters that the Authority deems to be relevant.
+
+[34/2012]

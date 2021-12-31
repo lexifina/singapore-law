@@ -1,18 +1,15 @@
-# 81D. Immunity from criminal or civil liability … … … … 127
-Part: PART III CLEARING FACILITIES
-Division: Division 3 — Regulation of Designated Clearing Houses Subdivision (1) — Obligations of designated clearing houses
-Subdivision: Subdivision 5: Immunity
+# 81D. Supplementary provisions as to default proceedings
+Part: PART 3 CLEARING FACILITIES
+Division: Division 4 — Insolvency
 
-No criminal or civil liability shall be incurred by —
+(1) A court may, on the application of a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his or her office that are affected by default proceedings, if default proceedings have been, could be, or could have been, taken.
 
-(a) a designated clearing house; or
+[34/2012]
 
-(b) any person acting on behalf of a designated clearing house, including —
+(2) The functions of the relevant office holder are to be construed subject to an order made under subsection (1).
 
-(i) any director of the designated clearing house; or
+[34/2012]
 
-(ii) any member of any committee established by the designated clearing house, for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of its or his obligations under this Act or the business rules of the designated clearing house, including its default rules.
+(3) Section 210 of the Companies Act 1967 and sections 71, 129, 130(2), 133(1), 170(1), 187, 276, 325 and 327 of the Insolvency, Restructuring and Dissolution Act 2018 do not prevent, or interfere with, any default proceedings.
 
-[1/2005]
-
-[E (DM) A, s. 16]
+[40/2018]

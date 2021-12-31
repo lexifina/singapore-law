@@ -1,18 +1,19 @@
-# 81O. Law of insolvency in other jurisdictions … … … … 134
-Part: PART III CLEARING FACILITIES
+# 81O. Immunity from criminal or civil liability
+Part: PART 3 CLEARING FACILITIES
 Division: Division 4 — Insolvency
-Heading: Section Pages
 
-(1) Notwithstanding any other written law or rule of law, a court shall not recognise or give effect to —
+(1) No criminal or civil liability is incurred by —
 
-(a) an order of a court exercising jurisdiction under the law of insolvency in a place outside Singapore; or
+(a) a person discharging, by virtue of a delegation under the default rules of an approved clearing house or a recognised clearing house, an obligation of the approved clearing house or recognised clearing house in connection with any default proceedings; or
 
-(b) an act of a person appointed in a place outside Singapore to perform a function under the law of insolvency in that place, insofar as the making of the order or doing of the act would be prohibited under this Act for a court in Singapore or a relevant office holder, respectively.
+(b) any person acting on behalf of a person referred to in paragraph (a), including —
 
-[1/2005]
+(i) any member of the board of directors of the person referred to in paragraph (a); and
 
-(2) In this section, ‘‘law of insolvency’’, in relation to a place outside Singapore, means any law of that place which is similar to, or serves the same purposes as, any part of the law of insolvency in Singapore.
+(ii) any member of any committee established by the person referred to in paragraph (a), for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of that obligation.
 
-[1/2005]
+[34/2012]
 
-[HK SF Bill, Clause 54]
+(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of an approved clearing house or a recognised clearing house, and the relevant office holder reasonably believes or has reasonable grounds for believing that the relevant office holder is entitled to take that action, the relevant office holder shall not be liable to any person in respect of any loss or damage resulting from any action of the relevant office holder, except insofar as the loss or damage (as the case may be) is caused by the negligence of the relevant office holder.
+
+[34/2012]

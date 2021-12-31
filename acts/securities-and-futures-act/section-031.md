@@ -1,44 +1,38 @@
-# 31. Fixing of position and trading limits in futures contracts … 78
-Part: PART II MARKETS
+# 31. Additional powers of Authority in respect of auditors
+Part: PART 2 ORGANISED MARKETS
 Division: Division 2 — Regulation of Approved Exchanges Subdivision (1) — Obligations of approved exchanges
-Subdivision: Subdivision (4) — Powers of Authority
+Subdivision: Subdivision (3) — Matters requiring approval of Authority
 
-(1) For the purpose of diminishing, eliminating or preventing excessive speculation in any commodity under a futures contract, the Authority, or an approved exchange with the approval of the Authority, may, by notice in writing from time to time, establish and fix such limits as it considers necessary on the amount of trading which may be done, or positions which may be held, by any person, generally or specifically, under a futures contract traded on the futures market, or traded subject to the business rules, of —
+(1) If an auditor of an approved exchange, in the course of the performance of the auditor’s duties, becomes aware of any matter or irregularity mentioned in the following paragraphs, the auditor must immediately send to the Authority a written report of that matter or irregularity:
 
-(a) in the case of the establishing and fixing of limits by the Authority, any approved exchange; or
+(a) any matter that, in the auditor’s opinion, adversely affects or may adversely affect the financial position of the approved exchange to a material extent;
 
-(b) in the case of the establishing and fixing of limits by an approved exchange, that approved exchange.
+(b) any matter that, in the auditor’s opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty;
 
-[1/2005]
+(c) any irregularity that has or may have a material effect upon the accounts of the approved exchange, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors.
 
-(2) In determining whether a person has exceeded such limits, the positions held and trading done by any other person, directly or indirectly, controlled by the first-mentioned person shall be included with the positions held and trading done by the first-mentioned person.
+[4/2017]
 
-[1/2005]
+(2) An auditor of an approved exchange is not, in the absence of malice on the auditor’s part, liable to any action for defamation at the suit of any person in respect of any statement made in the auditor’s report under subsection (1).
 
-(3) Such limits upon positions and trading shall apply to positions held by, and trading done by, 2 or more persons acting pursuant to an express or implied agreement or understanding as if the positions were held by, or the trading was done by, a single person.
+[4/2017]
 
-[1/2005]
+(3) Subsection (2) does not restrict or affect any right, privilege or immunity that the auditor of an approved exchange may have, apart from this section, as a defendant in an action for defamation.
 
-(4) This section shall not apply to positions as defined by an approved exchange in accordance with such regulations as may be prescribed.
+[4/2017]
 
-[1/2005]
+(4) The Authority may impose all or any of the following duties on an auditor of an approved exchange and the auditor must carry out the duties so imposed:
 
-(5) No person shall, directly or indirectly —
+(a) a duty to submit such additional information and reports in relation to the audit as the Authority considers necessary;
 
-(a) buy or sell, or agree to buy or sell, under a futures contract traded on the futures market of, or subject to the business rules of, an approved exchange, any amount of a commodity in excess of the trading limits fixed for one business day, or any other stated period set by the Authority or the approved exchange; or
+(b) a duty to enlarge, extend or alter the scope of the audit of the business and affairs of the approved exchange;
 
-(b) hold or control a net buy or sell position under a futures contract traded on the futures market of, or subject to the business rules of, an approved exchange in excess of any position limit fixed by the Authority or the approved exchange.
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
 
-[1/2005]
+(d) a duty to submit a report on any matter arising out of the audit, examination or establishment of procedure mentioned in paragraph (b) or (c).
 
-(6) Nothing in this section shall preclude the Authority, or an approved exchange with the approval of the Authority, from —
+[4/2017]
 
-(a) establishing or fixing different trading or position limits for different futures contracts, for different delivery months or for different days remaining until the last day of trading in a futures contract;
+(5) The approved exchange must remunerate the auditor in respect of the discharge by the auditor of all or any of the duties mentioned in subsection (4).
 
-(b) fixing different limits for the purposes of subsection (5); or
-
-(c) excluding transactions from the limits established or fixed under this section.
-
-[1/2005]
-
-[FTA, s. 42]
+[4/2017]

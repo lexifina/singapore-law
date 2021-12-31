@@ -1,71 +1,47 @@
-# 54. Power to stop commencement or order cessation … … 96
-Part: PART III CLEARING FACILITIES
+# 54. Change in status
+Part: PART 3 CLEARING FACILITIES
 Division: Division 1 — Establishment of Clearing Facilities
 
-(1) The Authority may, prior to the end of the notification period referred to in section 49 (1) or such other period as may be substituted by the Authority under section 49 (2), by notice in writing, order a person who has given notice under section 49 (1) not to establish or commence operation of a clearing facility if —
+(1) A Singapore corporation which is an approved clearing house or a recognised clearing house may apply to the Authority to change its status in the manner referred to in subsection (5).
 
-(a) the person did not furnish the Authority with such information or documents as required under section 49 (5);
+[34/2012]
 
-(b) any information or document provided by the person to the Authority is false or misleading; or
+(2) An application under subsection (1) must be —
 
-(c) the Authority is of the opinion that it is in the interests of the public to do so.
+(a) made in such form and manner as the Authority may prescribe; and
 
-[1/2005]
+(b) accompanied by a non-refundable prescribed application fee, which must be paid in the manner specified by the Authority.
 
-(2) The Authority may, by notice in writing, order a person to cease operating its clearing facility if —
+[34/2012]
 
-(a) the person has contravened any provision of this Act or any other written law in the course of operating its clearing facility;
+(3) The Authority may require an applicant to provide the Authority with such information or documents as the Authority considers necessary in relation to the application.
 
-(b) the person provided any information or document to the Authority that is false or misleading;
+[34/2012]
 
-(c) in the opinion of the Authority, the person is operating the clearing facility in a manner that is likely to pose systemic risk to the financial system of Singapore;
+(4) The Authority may, on its own initiative, review the status of a Singapore corporation that is an approved clearing house or a recognised clearing house in accordance with the requirements prescribed under section 51(7) and the criteria prescribed under section 52(1).
 
-(d) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+[34/2012]
 
-(e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+(5) Where an application is made by a Singapore corporation under subsection (1), or where a review of the status of a Singapore corporation is conducted by the Authority under subsection (4), the Authority may —
 
-(f) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+(a) if the corporation is an approved clearing house, withdraw the approval as such and recognise the corporation as a recognised clearing house under section 51(1)(b);
 
-(g) the Authority is of the opinion that it is in the interests of the public to do so.
+(b) if the corporation is a recognised clearing house, withdraw the recognition as such and approve the corporation as an approved clearing house under section 51(1)(a); or
 
-[1/2005]
+(c) make no change to the status of the corporation as an approved clearing house or a recognised clearing house.
 
-(3) Subject to subsection (4), the Authority shall not make an order under subsection (1) or (2) without giving the person an opportunity to be heard.
+[34/2012]
 
-[1/2005]
+(6) Where an application is made under subsection (1), the Authority must not exercise its power under subsection (5)(c) without giving the Singapore corporation an opportunity to be heard.
 
-(4) The Authority may order a person not to establish or commence operation of a clearing facility under subsection (1) or to cease operating its clearing facility under subsection (2) on any of the following grounds without giving the person an opportunity to be heard:
+[34/2012]
 
-(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(7) Where a review of the status of a Singapore corporation is conducted by the Authority on its own initiative under subsection (4), the Authority must not exercise its powers under subsection (5)(a) or
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+(b) without giving the corporation an opportunity to be heard.
 
-(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+[34/2012]
 
-[1/2005]
+(8) Any Singapore corporation which is aggrieved by a decision of the Authority made in relation to the corporation after a review under subsection (4) may, within 30 days after the corporation is notified of the decision, appeal to the Minister, whose decision is final.
 
-(5) Any person who is aggrieved by an order of the Authority made in relation to the person under subsection (1) or (2) may, within 30 days after the person is notified of that order, appeal to the Minister whose decision shall be final.
-
-[1/2005]
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
-
-[1/2005]
-
-(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority, and such modified action shall have effect from the date of the decision of the Minister.
-
-[1/2005]
-
-(8) Any order made under subsection (2) shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the person, whether the agreement, transaction or arrangement was entered into before or after the order of the cessation; or
-
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
-
-[1/2005]
-
-(9) Any person who contravenes an order made under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[1/2005]
-
-Division 2 — Designation of Persons Operating Clearing Facilities
+[34/2012]

@@ -1,23 +1,27 @@
-# 153. Self-incrimination and savings for advocates and solicitors 215
-Part: PART IX SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers of Authority Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
+# 153. Self-incrimination and saving for advocates and solicitors
+Part: PART 9 SUPERVISION AND INVESTIGATION Division 1 — Supervisory Powers Subdivision (1) — Powers of Authority to require disclosure of information about capital markets products
 Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 
-(1) A person is not excused from disclosing information to the Authority or, as the case may be, an investigator under Subdivision (2), under a requirement made of him under any provision of this Division on the ground that the disclosure of the information might tend to incriminate him.
+(1) A person is not excused from disclosing information to the Authority or, as the case may be, an investigator under Subdivision (2) or (3), under a requirement made of the person under any provision of this Division on the ground that the disclosure of the information might tend to incriminate the person.
 
-(2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Division to the Authority or, as the case may be, an investigator under Subdivision (2), that the statement might tend to incriminate him, that statement —
+[34/2012]
 
-(a) shall not be admissible in evidence against him in criminal proceedings other than proceedings under this section; but
+(2) Where a person claims, before making a statement disclosing information that the person is required to under any provision of this Division to the Authority or (as the case may be) an investigator under Subdivision (2) or (3), that the statement might tend to incriminate the person, that statement —
 
-(b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings under Part XII.
+(a) is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under section 162(3); but
 
-(3) Nothing in this Division shall —
+(b) is, to avoid doubt, admissible in evidence in civil proceedings under Part 12.
 
-(a) compel an advocate and solicitor to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+[2/2009; 34/2012]
 
-(b) authorise the taking of any such document or other material which is in his possession.
+(3) Nothing in this Division —
 
-[16/2003]
+(a) compels an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act 1893, to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him or her in that capacity; or
 
-(4) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+(b) authorises the taking of any such document or other material which is in his or her possession.
 
-[SIA, s. 96D (6) modified; HK SF Bill, Clause 180]
+[34/2012]
+
+(4) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act 1893, who refuses to disclose the information or produce the document or other material referred to in subsection (3) is nevertheless obliged to give the name and address (if he or she knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+
+[34/2012]

@@ -1,17 +1,19 @@
-# 322. Power of Authority to publish information … … … 512
-Part: PART XV MISCELLANEOUS
+# 322. Power of Authority to publish information
+Part: PART 15 MISCELLANEOUS
 
-(1) The Authority may, where it thinks it necessary or expedient in the interest of the public or section of the public or for the protection of investors and in such form or manner as it thinks fit, publish —
+(1) The Authority may, where it thinks it necessary or expedient in the interests of the public or section of the public or for the protection of investors and in such form or manner as it thinks fit, publish —
 
-(a) any information relating to an approved holding company, a securities exchange, a futures exchange, a recognised market operator, an exempt market operator, a person operating an exempt market, a designated clearing house, a person operating a clearing facility, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
+(a) any information relating to an approved exchange, a recognised market operator, a licensed trade repository, a licensed foreign trade repository, an approved clearing house, a recognised clearing house, an approved holding company, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289;
+
+(aa) any information relating to an authorised benchmark administrator, an exempt benchmark administrator, an authorised benchmark submitter, an exempt benchmark submitter or a designated benchmark submitter, a representative of an authorised benchmark administrator, an exempt benchmark administrator, an authorised benchmark submitter, an exempt benchmark submitter or a designated benchmark submitter, or a person from whom any information or expression of opinion used in the determination of a designated benchmark was obtained; or
 
 (b) any other information which the Authority has acquired in the exercise of its functions or the performance of its duties under this Act.
 
-[1/2005]
+[2/2009; 34/2012; 4/2017]
 
-(2) Without prejudice to the generality of subsection (1), the Authority may publish information relating to —
+(2) Without limiting subsection (1), the Authority may publish information relating to —
 
-(a) the lapsing, revocation or suspension of the approval, licence or exemption granted to any person referred to in subsection (1);
+(a) the lapsing, revocation or suspension of the approval, licence, authorisation or exemption granted, or designation issued, to any person mentioned in subsection (1);
 
 (b) the making of a prohibition order against any person referred to in subsection (1);
 
@@ -31,8 +33,8 @@ Part: PART XV MISCELLANEOUS
 
 (ii) under any other law, whether of Singapore or any territory or country outside Singapore, against any person referred to in subsection (1) and the outcome of such proceedings, including any settlement, whether in or out of court;
 
-(g) any disciplinary proceedings brought against any person referred to in subsection (1), by the Authority, a securities exchange, a futures exchange or a designated clearing house and the outcome of such proceedings; and
+(g) any disciplinary proceedings brought against any person referred to in subsection (1), by the Authority, an approved exchange, a licensed trade repository, a licensed foreign trade repository, an approved clearing house or a recognised clearing house and the outcome of such proceedings; and
 
-(h) any other action as may have been taken by the Minister, the Authority, a securities exchange, a futures exchange or a designated clearing house against any person referred to in subsection (1).
+(h) any other action as may have been taken by the Minister, the Authority, an approved exchange, a licensed trade repository, a licensed foreign trade repository, an approved clearing house or a recognised clearing house against any person referred to in subsection (1).
 
-[1/2005]
+[34/2012; 4/2017]

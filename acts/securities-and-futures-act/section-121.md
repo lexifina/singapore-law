@@ -1,4 +1,4 @@
-# 121. Recommendations by licensed person (Repealed) … … 191
-Part: PART VI CONDUCT OF BUSINESS Division 1 — General Section Pages
+# 121. [Repealed]
+Part: PART 6 CONDUCT OF BUSINESS Division 1 — General
 
-(Repealed by Act 1/2005)
+[Repealed by Act 1 of 2005]

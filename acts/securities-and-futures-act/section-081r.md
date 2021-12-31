@@ -1,22 +1,29 @@
-# 81R. Immunity from criminal or civil liability … … … … 136
-Part: PART III CLEARING FACILITIES
-Division: Division 4 — Insolvency
-Heading: Section Pages
+# 81R. Power of Authority to issue directions
+Part: PART 3 CLEARING FACILITIES
+Division: Division 5 — General Powers of Authority
 
-(1) No criminal or civil liability shall be incurred by —
+(1) The Authority may issue directions, whether of a general or specific nature, by written notice, to an approved clearing house or a recognised clearing house, if the Authority thinks it necessary or expedient —
 
-(a) a person discharging, by virtue of a delegation under the default rules of a designated clearing house, an obligation of the designated clearing house in connection with any default proceedings; or
+(a) for ensuring the safe and efficient operation of any clearing facility operated by the approved clearing house or recognised clearing house, or of clearing facilities, operated by approved clearing houses or recognised clearing houses, in general;
 
-(b) any person acting on behalf of a person referred to in paragraph (a), including —
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
 
-(i) any member of the board of directors of the last- mentioned person; and
+(c) in the interests of the public or a section of the public or for the protection of investors;
 
-(ii) any member of any committee established by the last- mentioned person, in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of that obligation.
+(d) for the effective administration of this Act; or
 
-[1/2005]
+(e) for ensuring compliance with any condition or restriction that the Authority may impose under section 58(2), 70(5) or (10), 71(11) or (12) or 81SB(1) or (2), or such other obligations or requirements under this Act or as the Authority may prescribe.
 
-(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of a designated clearing house, and reasonably believes or has reasonable grounds for believing that he is entitled to take that action, he shall not be liable to any person in respect of any loss or damage resulting from his action except insofar as the loss or damage, as the case may be, is caused by the negligence of the office holder.
+[34/2012]
 
-[1/2005]
+(2) An approved clearing house or a recognised clearing house must comply with every direction issued to it under subsection (1).
 
-[HK SF Bill, Clause 39]
+[34/2012]
+
+(3) Any approved clearing house or recognised clearing house which, without reasonable excuse, contravenes a direction issued to it under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part of a day during which the offence continues after conviction.
+
+[34/2012]
+
+(4) It is not necessary to publish any direction issued under subsection (1) in the Gazette.
+
+[34/2012]

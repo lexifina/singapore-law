@@ -1,16 +1,16 @@
-# 132. Notice of particulars to Authority … … … … … 199
-Part: PART VII DISCLOSURE OF INTERESTS Division 1 — Registers of Interests in Securities
+# 132. Authority may extend scope of Division in certain circumstances
+Part: PART 7 DISCLOSURE OF INTERESTS Division 1 — Disclosure of Interest in Corporation
 
-(1) A relevant person shall give notice to the Authority in the prescribed form of —
+The Authority may, if it thinks it is necessary in the interests of the public or a section of the public, to protect investors, or to enhance market transparency, by regulations extend, with or without modifications or adaptations, the provisions of this Division ––
 
-(a) the place at which he will keep the register of his interests in securities or, if the register is in electronic form, the place at which full access to the register may be gained; and
+(a) to any person or class of persons, other than the persons to which this Division applies;
 
-(b) such other particulars as may be prescribed.
+(aa) to any securities or securities-based derivatives contracts, or class of securities or securities-based derivatives contracts, other than the securities or securities-based derivatives contracts to which this Division applies;
 
-(2) The notice under subsection (1) shall be given by the relevant person as part of his application for a licence under this Act.
+(ab) to any interests in securities or securities-based derivatives contracts, or class of interests in securities or securities-based derivatives contracts, other than the interests in securities or securities-based derivatives contracts to which this Division applies; or
 
-(3) A person who ceases to be a relevant person shall, within 14 days of his so ceasing, notify the Authority.
+(b) to require the disclosure of interests in any entity, arrangement or trust other than a corporation, and the provisions of this Division apply accordingly.
 
-(4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+[2/2009; 4/2017]
 
-[SIA, s. 43]
+Subdivision (1) — Disclosure by directors and chief executive officer of corporation
