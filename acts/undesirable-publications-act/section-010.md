@@ -1,0 +1,5 @@
+# 10. Issue of search warrant
+
+(1) Whenever it appears to any Magistrate upon information and after such inquiry as he thinks necessary that there is reasonable cause to believe that in any premises or place there is concealed or deposited any prohibited publication or extract therefrom, the Magistrate may, by warrant directed to any police officer, empower that officer to enter such premises or place by force if necessary to search for, seize and detain any such publication.
+
+(2) Whenever it appears to any police officer, not below the rank of sergeant, that there is reasonable cause to believe that in any premises or place there is concealed or deposited any prohibited publication or extract therefrom, and he has good grounds for believing that, by reason of the delay in obtaining a search warrant, the object of the search is likely to be frustrated, the police officer may enter and search such premises or place as if he were empowered to do so by a warrant issued under subsection (1).
