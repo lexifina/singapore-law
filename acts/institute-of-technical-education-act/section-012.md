@@ -1,0 +1,4 @@
+# 12. [Repealed]
+Part: PART 3 CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
+
+[Repealed by Act 5 of 2018]

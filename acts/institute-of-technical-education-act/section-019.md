@@ -1,0 +1,10 @@
+# 19. Transfer of employees
+Part: PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+
+(1) As from 1 April 1992, the persons employed by the Vocational and Industrial Training Board immediately before that date are transferred to the service of the Institute on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+
+(2) Until the time that schemes and terms and conditions of service are drawn up by the Institute, the schemes and terms and conditions of service in the Vocational and Industrial Training Board continue to apply to every person transferred to the service of the Institute under subsection (1) as if the person were still in the service of that Board.
+
+(3) Where any person who is transferred to the service of the Institute under subsection (1) is a contributor under the Widows’ and Orphans’ Pension Act 1904, the person must for the purposes of that Act continue to make contributions under that Act as if the person had not been transferred to the service of the Institute; and for the purposes of that Act the person’s service with the Institute is deemed to be service with the Government and the Institute has the right to make deductions from the salary of that person to be paid as contributions under that Act.
+
+(4) Where any person who is transferred to the service of the Institute under subsection (1) was an employee of the Government transferred to the service of the Vocational and Industrial Training Board with the person’s pension benefits in respect of that employment preserved, the Government is liable to pay to the Institute the portion of any pension benefits payable on the person’s retirement that the same bears to the proportion which the aggregate amount of the person’s pensionable emoluments during the person’s service with the Government bears to the aggregate amount of the person’s pensionable emoluments during the person’s service under the Government, the former Industrial Training Board, the Vocational and Industrial Training Board and the Institute.

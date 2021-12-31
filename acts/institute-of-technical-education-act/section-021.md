@@ -1,0 +1,4 @@
+# 21. [Spent]
+Part: PART 4 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+
+[Omitted as spent]
