@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Diplomatic and Consular Officers (Oaths and Fees) Act.
+This Act is the Diplomatic and Consular Officers (Oaths and Fees) Act 1968.
