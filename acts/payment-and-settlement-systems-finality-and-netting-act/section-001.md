@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Payment and Settlement Systems (Finality and Netting) Act.
+This Act is the Payment and Settlement Systems (Finality and Netting) Act 2002.

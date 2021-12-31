@@ -1,12 +1,6 @@
 # 10. Adjustment of prior transactions
-Part: PART II TRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM
+Part: PART 2 TRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM
 
-Without prejudice to the generality of section 8, no order shall be made by a court under —
+Without limiting section 8, no order may be made by a court under section 67, 101, 224, 225, 228, 361, 362, 366 or 438 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to a transfer order or any disposition of property pursuant to such an order.
 
-(a) section 98 or 99 of the Bankruptcy Act;
-
-(b) section 227T of the Companies Act read with section 98 or 99 of the Bankruptcy Act;
-
-(c) section 329 of the Companies Act read with section 98 or 99 of the Bankruptcy Act, or section 331 of the Companies Act; or
-
-(d) section 73B of the Conveyancing and Law of Property Act (Cap.61), in relation to a transfer order or any disposition of property in pursuance of such an order.
+[40/2018]

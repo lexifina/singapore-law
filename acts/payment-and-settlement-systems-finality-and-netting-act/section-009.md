@@ -1,8 +1,12 @@
 # 9. Disclaimer of property, restriction on dispositions of property, etc.
-Part: PART II TRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM
+Part: PART 2 TRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM
 
-Without prejudice to the generality of section 8 —
+Without limiting section 8 —
 
-(a) section 110 of the Bankruptcy Act (Cap. 20) and section 332 of the Companies Act (Cap. 50) shall not apply to a transfer order; and
+(a) sections 230, 231, 373 and 374 of the Insolvency, Restructuring and Dissolution Act 2018 do not apply to a transfer order;
 
-(b) section 77 of the Bankruptcy Act and section 259 of the Companies Act shall not apply to a transfer order or any disposition of property in pursuance of such an order.
+(b) sections 130(1) and 328 of the Insolvency, Restructuring and Dissolution Act 2018 do not apply to a transfer order or any disposition of property pursuant to the order; and
+
+(c) a court must not make an order under section 66 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to any disposition of property pursuant to a transfer order.
+
+[4/2018; 40/2018]

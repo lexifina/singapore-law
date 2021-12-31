@@ -1,14 +1,16 @@
-# 7. Transactions under rules of designated system are final and irrevocable
-Part: PART II TRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM
+# 7. Transactions under Rules of designated system are final and irrevocable
+Part: PART 2 TRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM
 
-(1) This section shall apply where the rules of a designated system provide that —
+(1) This section applies where the Rules of a designated system provide that —
 
 (a) the transfer of funds into and out of an account of a participant;
 
-(b) the settlement of any payment obligation; or
+(b) the netting or settlement of any payment obligation; or
 
-(c) the settlement and transfer of book-entry Government securities, is final and irrevocable.
+(c) the settlement and transfer of book-entry securities, is final and irrevocable.
 
-2003 Ed. (Finality and Netting) CAP. 231 7
+[4/2018]
 
-(2) Notwithstanding anything to the contrary in any written law or rule of law, any transfer or settlement referred to in subsection (1) shall not be reversed, repaid or set aside and no order shall be made by any court for the rectification or stay of such transfer or settlement.
+(2) Despite anything to the contrary in any written law or rule of law, any transfer, netting or settlement referred to in subsection (1) must not be reversed, repaid or set aside and no order is to be made by any court for the rectification or stay of the transfer, netting or settlement.
+
+[4/2018]

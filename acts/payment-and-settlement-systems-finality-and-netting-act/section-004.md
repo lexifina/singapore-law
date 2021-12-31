@@ -1,9 +1,7 @@
 # 4. Revocation of designation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-(1) The Authority may, by order published in the Gazette, revoke the designation of a designated system if —
-
-2003 Ed. (Finality and Netting) CAP. 231 5
+(1) The Authority may, by order in the Gazette, revoke the designation of a designated system if —
 
 (a) the Authority is satisfied that —
 
@@ -13,18 +11,20 @@ Part: PART I PRELIMINARY
 
 (iii) the operator or settlement institution of the designated system is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(iv) the operator or settlement institution of the designated system has entered into a compromise or scheme of arrangement with its creditors, whether in Singapore or elsewhere;
+(iv) the operator or settlement institution of the designated system has entered into a compromise or scheme of arrangement with its creditors, whether in Singapore or elsewhere; or
 
-(v) a receiver, receiver and manager, judicial manager or an equivalent officer has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the operator or settlement institution of the designated system; or
+(v) a receiver, receiver and manager, judicial manager or an equivalent officer has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the operator or settlement institution of the designated system;
 
-(vi) any of the terms and conditions referred to in section 3 (1) has been contravened; or
+(b) the Authority is no longer satisfied that a disruption in the operations of the system may have any effect mentioned in section 3(1)(a), (b) or (c); or
 
-(b) the Authority considers that it is in the public interest to revoke the designation.
+(c) the Authority considers that it is in the public interest to revoke the designation.
 
-(2) Subject to subsection (3), the Authority shall not revoke a designation without giving the operator of the designated system an opportunity to be heard.
+[4/2018]
 
-(3) The Authority may revoke a designation on any of the grounds described in subsection (1) (a) (iii), (iv) or (v) without giving the operator of the designated system an opportunity to be heard.
+(2) Subject to subsection (3), the Authority must not revoke a designation without giving the operator of the designated system an opportunity to be heard.
 
-(4) A revocation of a designation shall not operate so as to avoid or affect any transaction cleared or settled in the designated system prior to the revocation or preclude the application, in accordance with section 5, of this Act to any such transaction.
+(3) The Authority may revoke a designation on any of the grounds described in subsection (1)(a)(iii), (iv) or (v) without giving the operator of the designated system an opportunity to be heard.
 
-6 CAP. 231 (Finality and Netting) 2003 Ed.
+(4) A revocation of a designation must not operate so as to avoid or affect any transaction cleared or settled in the designated system prior to the revocation or preclude the application, in accordance with section 5(1), of this Act to any such transaction.
+
+[4/2018]
