@@ -1,20 +1,20 @@
 # 46. Notice to attend court
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-(1) Where it appears to the Director-General or any police officer or authorised officer that any person has committed an offence under this Act, the Director-General, police officer or authorised officer may, in his discretion, serve upon the person a notice in such form as may be prescribed requiring the person to attend at the court, at the hour and on the date specified in the notice.
+(1) Where it appears to the Director-General or any police officer or authorised officer that any person has committed an offence under this Act, the Director-General, police officer or authorised officer may serve on the person a notice in such form as may be prescribed requiring the person to attend at the court, at the hour and on the date specified in the notice.
 
-[4/2002]
+(2) The Director-General, police officer or authorised officer must prepare a duplicate of the notice mentioned in subsection (1) and, if so required by a court, produce the duplicate to the court.
 
-(2) The Director-General, police officer or authorised officer shall prepare a duplicate of the notice referred to in subsection (1) and, if so required by a court, produce the same to the court.
+(3) When an accused person appears before a court pursuant to such a notice, the court is to take cognizance of the offence alleged and is to proceed as though the accused were brought before the court under section 153 of the Criminal Procedure Code 2010.
 
-[4/2002]
+[15/2010]
 
-(3) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before the court under section 136 of the Criminal Procedure Code (Cap. 68).
+(4) If a person who has been served the notice fails to appear before a court in accordance with the notice, the court is to issue a warrant for the arrest of that person.
 
-(4) If a person, upon whom such a notice has been served, fails to appear before a court in accordance therewith, the court shall thereupon issue a warrant for the arrest of that person.
+(5) When a person who is arrested pursuant to a warrant issued under subsection (4) is brought before a court, the court is to —
 
-(5) Upon a person arrested in pursuance of a warrant issued under subsection (4) being produced before a court, the court shall —
+(a) proceed as though the person were brought under section 153 of the Criminal Procedure Code 2010; and
 
-(a) proceed as though he were produced under section 136 of the Criminal Procedure Code; and
+(b) at the conclusion of the proceedings, call upon the person to show cause why he or she should not be punished for failing to attend in compliance with the notice served upon him or her and, if cause is not shown, may order him or her to pay a fine not exceeding $2,000 or may commit him or her to prison for a term not exceeding 2 months.
 
-(b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and, if cause is not shown, may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+[15/2010]

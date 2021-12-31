@@ -1,14 +1,8 @@
 # 21. Spraying or fogging with pesticide
-Part: PART IV DESTRUCTION OF VECTORS
+Part: PART 4 DESTRUCTION OF VECTORS
 
-(1) The Director-General may, by notice in writing, require the owner or occupier of any premises, vessel or aircraft or any pond, well, pool or other body of water, to carry out the spraying or fogging thereof with any form of pesticide within the time specified in such notice.
+(1) The Director-General may, by written notice, require the owner or occupier of any premises, vessel or aircraft or any pond, well, pool or other body of water, to carry out the spraying or fogging thereof with any form of pesticide within the time specified in the notice.
 
-[4/2002]
+(2) Despite subsection (1), the Director-General may, if he or she considers it necessary, himself or herself carry out the spraying or fogging and recover any costs or expenses incurred from the owner or occupier of the premises, vessel or aircraft or pond, well, pool or other body of water, as the case may be.
 
-(2) Notwithstanding subsection (1), the Director-General may, if he considers necessary, himself carry out such spraying or fogging and recover any costs or expenses incurred by him from the owner or occupier of the premises, vessel or aircraft or pond, well, pool or other body of water, as the case may be.
-
-[4/2002]
-
-(3) No person shall remove or render less effective any pesticide so sprayed or fogged under subsection (1) or (2).
-
-[22
+(3) A person must not remove or render less effective any pesticide sprayed or fogged under subsection (1) or (2).

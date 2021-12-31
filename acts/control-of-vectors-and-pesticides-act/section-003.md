@@ -1,4 +1,4 @@
 # 3. Act to bind Government
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act shall bind the Government.
+This Act binds the Government.

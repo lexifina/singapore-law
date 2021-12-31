@@ -1,10 +1,8 @@
 # 24. Vector control operators to be registered
-Part: PART V CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
+Part: PART 5 CONTROL OF VECTOR CONTROL OPERATORS, TECHNICIANS AND WORKERS
 
-No person shall —
+A person must not —
 
 (a) in the course of any trade or business, undertake or engage in vector control work; or
 
-(b) advertise or otherwise hold himself out as a vector control operator, unless he is registered as a vector control operator under this Act.
-
-[25
+(b) advertise or otherwise hold himself, herself or itself out as a vector control operator, unless the person is registered as a vector control operator under this Act.
