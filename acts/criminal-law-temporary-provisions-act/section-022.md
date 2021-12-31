@@ -1,0 +1,6 @@
+# 22. Admission of statements in evidence
+Part: PART 4 GENERAL
+
+(1) Where any person is charged with any offence under this Act, any statement, whether the statement amounts to a confession or not or is oral or in writing, made at any time, whether before or after the person is charged and whether in the course of a police investigation or not, by that person to or in the hearing of any police officer of or above the rank of sergeant shall, notwithstanding anything to the contrary contained in any written law, be admissible at his trial in evidence and, if that person tenders himself as a witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit.
+
+(2) No statement referred to in subsection (1) shall be admissible or so used if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against that person, proceeding from a person in authority and sufficient, in the opinion of the court, to give that person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
