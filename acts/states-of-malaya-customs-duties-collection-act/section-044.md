@@ -1,0 +1,4 @@
+# 44. No costs or damages in respect of seizure unless without reasonable or probable cause
+Part: PART 8 PROVISIONS AS TO TRIALS AND PROCEEDINGS
+
+No person shall, in any proceedings before any court in respect of the seizure of any goods seized in exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the goods or the payment of their value unless the seizure was made without reasonable or probable cause.
