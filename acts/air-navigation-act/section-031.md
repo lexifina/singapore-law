@@ -1,10 +1,13 @@
-# 31. Saving provisions
-Part: PART V SAVING PROVISIONS
+# 31. Special powers in case of emergency
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
+Division: Division 4 — Special powers and prohibited activities
 
-(1) All subsidiary legislation that was in force immediately before the commencement of this Act, shall continue in force until revoked or replaced by subsidiary legislation made under those provisions, or otherwise terminated, and shall be deemed to have been made under this Act.
+(1) In time of war, whether actual or imminent, or when a Proclamation of Emergency under the Constitution is in force, the Minister may, by order, regulate or prohibit, either absolutely or subject to any conditions that may be contained in the order, and despite the provisions of this Part or any subsidiary legislation made under this Part, the navigation of all or any descriptions of aircraft over Singapore or any portion of Singapore; and may, by order, provide for taking possession of and using for the purposes of the Singapore Armed Forces or of any visiting force lawfully present in Singapore any aerodrome or any aircraft in Singapore or any machinery, plant, material or things found in or on the aerodrome or aircraft, and for regulating or prohibiting the use, erection, building, maintenance or establishment of any aerodrome, flying school, or landing ground, of any class or description.
 
-(2) Subject to subsection (3), any instrument that was in force immediately before the commencement of this Act shall continue in force until superseded, revoked or otherwise terminated and shall be deemed to have been issued, served or granted under this Act, and this Act and any of its subsidiary legislation shall apply to, or in relation to, the instrument accordingly.
+(2) An order made under this section may make, for the purpose of the order, such provisions as an order under section 8 may make for the purpose of securing compliance with the provisions of the order having effect by virtue of section 8(2)(n).
 
-(3) No such instrument that is expressed to continue in force for a definite period shall continue in force after the expiration of that period unless it is renewed in accordance with this Act and any of its subsidiary legislation.
+(3) Subject to subsection (4), any person who suffers direct injury or loss, owing to the operation of an order of the Minister under this section, is entitled to receive compensation from the Government from any public funds that may lawfully be applied for the purpose, the amount thereof to be fixed, in default of agreement, by a single arbitrator to be agreed upon or failing agreement to be appointed by the Chief Justice.
 
-(4) In this section “instrument” means any instruction or other requirement, any notice and any certificate, licence, validation or other authority.
+(4) No compensation is to be payable under subsection (3) by reason of the operation of a general order under this section prohibiting flying in Singapore or any part of Singapore.
+
+[6

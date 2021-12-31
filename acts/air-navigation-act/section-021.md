@@ -1,6 +1,11 @@
-# 21. Power to prohibit or regulate erection of structures and planting trees in controlled area
-Part: PART III CONTROL OF OBSTRUCTIONS IN VICINITY OF AERODROMES
+# 21. Disqualification from holding aviation safety instrument
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
+Division: Division 2 — Aviation safety instruments
 
-The Authority may, by order, prohibit absolutely or conditionally or regulate the erection of any structure above a height specified in the order, or the planting of any tree or other high growing vegetation, within a controlled area or any part of that area.
+(1) Where an aviation safety instrument is wholly revoked under section 18, the person who was the holder of that aviation safety instrument is also disqualified, for the period that the Authority specifies, from holding the same aviation safety instrument or such other related aviation safety instrument, as the Authority must specify and inform the person by order.
 
-[10/2014]
+(2) A person commits an offence who applies for or obtains an aviation safety instrument while disqualified by an order of the Authority under this section from obtaining such an instrument and any such instrument so obtained is of no effect.
+
+(3) A former holder of an aviation safety instrument who is aggrieved by any decision of the Authority under this section may appeal to the Minister in the manner prescribed by the applicable aviation safety subsidiary legislation; and the Minister’s decision on appeal is final.
+
+[4G

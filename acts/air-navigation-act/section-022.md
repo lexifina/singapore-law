@@ -1,14 +1,29 @@
-# 22. Notice to remove or alter structure, trees and other vegetation in controlled area
-Part: PART III CONTROL OF OBSTRUCTIONS IN VICINITY OF AERODROMES
+# 22. Directives affecting holder of aviation safety instrument
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
+Division: Division 2 — Aviation safety instruments
 
-(1) The Authority, or any officer authorised by the Authority in that behalf, may, by notice in writing, require the owner or occupier of any land subject to any order made under section 21, within such time (not being less than one month from the date of the service of such notice upon the person concerned) as may be fixed by the notice —
+(1) Subject to subsection (5), the Authority may, whether or not any administrative proceedings are instituted under section 17, 18 or 19, give a directive to the holder of any aviation safety instrument, according to the circumstances of the case, to do, or not to do, such things as are specified in the directive or are of a description as specified in the directive if —
 
-(a) to remove or reduce in height any structure on the land, which is above the height specified in the order, whether the structure was erected before or after the making of the order, or any tree or other high growing vegetation, either planted in contravention of the order, or likely, in the opinion of the Authority or the officer to cause an obstruction to aircraft or to hinder the efficient operation of any aid to air navigation;
+(a) the Authority considers such action necessary in the interests of promoting or protecting safety or public health or ensuring environmental sustainability;
 
-(b) to take such steps in regard to, or to effect such alterations to, any structure, tree or other vegetation on any land within a controlled area, or any part of the area, as may be necessary to comply with any conditions imposed by any order made under section 21 applicable to the structure, tree or vegetation or in the case of any structure erected or tree or vegetation existing before the making of the order, which would have been applicable to the structure, tree or other vegetation if it had been erected or planted after the making of the order.
+(b) the Authority is satisfied that the holder of the aviation safety instrument has failed to comply with any conditions of the aviation safety instrument;
 
-[10/2014]
+(c) the Authority considers that the privileges or duties for which the aviation safety instrument has been granted are being carried out by the holder in a careless or incompetent manner; or
 
-(2) If default shall be made in complying with the provisions of the notice within the time fixed by the notice, any officer authorised by the Authority either generally or specially in that behalf may enter upon the land and cause such action to be taken as is required by the notice and may recover the cost of and all expenses incurred in doing any necessary work from the person in default.
+(d) in the case of an aviation safety instrument relating to the use of any aircraft, aeronautical product, or the provision of any service, or impose conditions in respect of any such document, the Authority considers that there is reasonable doubt as to the airworthiness of the aircraft or as to the quality or safety of the aeronautical product or service to which the aviation safety instrument relates, and that holder must comply with that directive as soon as it takes effect.
 
-[10/2014]
+(2) Every directive under subsection (1) takes effect when the directive is given to the holder of an aviation safety instrument concerned or on a later date specified in the directive.
+
+(3) A directive under this section in respect of the holder of an aviation safety instrument must not be inconsistent with any provision in this Act or any aviation safety subsidiary legislation, or the conditions of the aviation safety instrument.
+
+(4) The Authority may at any time revoke any directive given under this section.
+
+(5) Before giving a directive to any holder of an aviation safety instrument under subsection (1), the Authority must, unless the Authority in respect of any particular directive considers that it is not practicable or desirable, give notice —
+
+(a) stating that the Authority proposes to make the directive and setting out its effect; and
+
+(b) specifying the time within which representations or objections to the proposed directive may be made, and must consider any representations or objections which are duly made.
+
+(6) Where a holder of any aviation safety instrument has been subject to administrative proceedings under section 17, 18 or 19 (called in this subsection the first administrative action) and a directive is given to the holder under this section in connection with those proceedings, and the holder of the aviation safety instrument continues to fail to comply with the directive of the Authority under this section, such failure constitutes a fresh ground for administrative proceedings under section 17 or 18 for every day or part of a day that the failure continues after the first administrative action.
+
+[4H

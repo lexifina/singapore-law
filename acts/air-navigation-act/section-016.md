@@ -1,37 +1,21 @@
-# 16. Licensing of air transport and commercial flying
-Part: PART IIA ACCIDENTS AND INCIDENTS INVESTIGATION Division 1 — General
-Division: Division 3 — Investigations
+# 16. General duties of holder of aviation safety instrument
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
+Division: Division 2 — Aviation safety instruments
 
-(1) The Minister may make regulations —
+(1) Unless otherwise provided by the applicable aviation safety subsidiary legislation, a person who is required by the applicable aviation safety subsidiary legislation for or in respect of any matter in section 14(1)(a) to (o) to hold an appropriate aviation safety instrument must ensure that the appropriate aviation safety instrument and all the necessary qualifications and other documents are held by that person before that person does anything for which such an aviation safety instrument is required.
 
-(a) to secure that aircraft shall not be used in Singapore by any person —
+(2) Where a person mentioned in subsection (1) holds an aviation safety instrument, the person —
 
-(i) for flying, while carrying passengers or goods for hire or reward, on such journeys or classes of journeys (whether beginning and ending at the same point or at different points) as may be specified in the regulations;
+(a) must comply with all the relevant aviation safety subsidiary legislation, and the conditions attached to the relevant aviation safety instrument the person holds;
 
-or
+(b) must ensure that the activities or functions for which the aviation safety instrument has been granted are carried out by the person, and by all persons for whom the person is responsible, safely and in accordance with the relevant safety standards and practices prescribed by the applicable aviation safety subsidiary legislation; and
 
-(ii) for such flying undertaken for the purpose of any trade or business as may be so specified, except under the authority of, and in accordance with, a licence or permit granted by such licensing authority as is specified in the regulations;
+(c) where the aviation safety instrument authorises the provision of a service within the civil aviation system —
 
-(aa) providing that an eligibility certificate or document shall be required to be obtained before a licence or permit may be granted or continue to be held under the regulations;
+(i) must, if so required by the applicable aviation safety subsidiary legislation, establish and follow a management system that will ensure compliance with the relevant safety standards prescribed by that aviation safety subsidiary legislation and the conditions attached to the aviation safety instrument;
 
-(ab) providing for applications for an eligibility certificate or document referred to in paragraph (aa) and for the circumstances in which such a certificate or document may or shall be granted, refused, revoked or suspended by such licensing authority as is specified in the regulations;
+(ii) must provide training and supervision to all employees of the person who are engaged in doing anything to which the aviation safety instrument relates, so as to maintain compliance with the relevant safety standards prescribed by the applicable aviation safety subsidiary legislation and the conditions attached to the aviation safety instrument and to promote safety; and
 
-(b) as to the circumstances in which a licence or permit under the regulations may or shall be granted, refused, revoked or suspended, and in particular as to the matters to which the licensing authority specified in the regulations is to have regard in deciding whether to grant or refuse such a licence or permit;
+(iii) must provide sufficient resources to ensure compliance with the relevant safety standards prescribed by the applicable aviation safety subsidiary legislation and the conditions attached to the aviation safety instrument.
 
-(c) as to appeals to the Minister against decisions by any licensing authority under the regulations with regard to any eligibility certificate or document referred to in paragraph (aa) or any licence or permit;
-
-(ca) requiring prior consent or approval from such licensing authority as is specified in the regulations to the transfer or assignment of any licence or permit;
-
-(d) as to the conditions which may be attached to such an eligibility certificate or document referred to in paragraph (aa), or a licence or permit (including conditions as to the fares, freight or other charges to be charged by the holder of the licence or permit), and for securing compliance with any conditions so attached;
-
-(e) as to the information to be furnished by an applicant for, or the holder of, such an eligibility certificate or document referred to in paragraph (aa), or a licence or permit to such authorities as may be specified in the regulations;
-
-(f) prescribing the fees to be paid in respect of the application for and the grant of any eligibility certificate or document referred to in paragraph (aa), or a licence or permit under the regulations, and such regulations may make different provision as respects different classes of aircraft and different classes of eligibility certificates or documents, licences and permits.
-
-[10/2014]
-
-(2) Regulations made under this section may, for the purpose of securing compliance with those regulations, provide for the imposition of the following penalties:
-
-(a) in the case of a first offence under the regulations, a fine not exceeding $5,000 or imprisonment for a term not exceeding 3 months or both; and
-
-(b) in the case of a second or subsequent offence under the regulations, a fine not exceeding $50,000 or imprisonment for a term not exceeding 2 years or both.
+[4B

@@ -1,47 +1,64 @@
-# 8. Interference with aeronautical facilities
-Part: PART II REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
-Division: Division 5 — Serious risks to aviation safety
+# 8. Orders to give effect to international obligations and regulate air navigation
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
 
-(1) This section shall apply if the Authority believes on reasonable grounds that an installation is or may be, either actively or passively, causing interference with communications to or from aircraft, or communications to or from centres established for air traffic control, or with navigational aids or with surveillance systems, in circumstances that are likely to endanger the safety of aircraft engaged in international air navigation or air navigation within, to or from Singapore.
+(1) The Authority may, with the approval of the Minister, by order in the Gazette, provide for matters necessary or convenient to be prescribed for the control and regulation of aviation in and over Singapore for the safety of air navigation or for public safety or both, and for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of air navigation.
 
-[10/2014]
+[16/2015]
 
-(2) The Authority may serve a notice on the proprietor directing the proprietor to permit the installation to be inspected and tested by a safety inspector at a reasonable time.
+(2) Without limiting the powers conferred by subsection (1) and without affecting any of the provisions of this Act, the Authority may, with the approval of the Minister, by order, make provision —
 
-[10/2014]
+(a) as to the registration of aircraft in Singapore;
 
-(3) Upon the service of the notice, the safety inspector may enter the premises or place where the installation is installed, kept or operated and inspect or test the installation.
+(b) for prohibiting aircraft from flying unless certificates of airworthiness issued or validated under the order are in force with respect to them and except upon compliance with any conditions as to maintenance or repair that may be specified in the order;
 
-[10/2014]
+(c) for the licensing, inspection and regulation of aerodromes, for access to aerodromes and places where aircraft have landed, for access to aircraft factories for the purpose of inspecting work in aircraft factories carried on in relation to aircraft or parts of aircraft and for prohibiting or regulating the use of unlicensed aerodromes;
 
-(4) A safety inspector exercising powers under subsection (3) shall produce his identification card if requested to do so.
+(d) for prohibiting persons from engaging in, or being employed in or (except in the maintenance at unlicensed aerodromes of aircraft not used for or in connection with commercial, industrial or other gainful purposes) in connection with, air navigation in any capacities that may be specified in the order, except in accordance with provisions in that behalf contained in the order, and for the licensing of those employed at aerodromes licensed under the order in the inspection or supervision of aircraft;
 
-[10/2014]
+(e) as to the conditions under which, and in particular the aerodromes to or from which, aircraft entering or leaving Singapore may fly, and as to the conditions under which aircraft may fly from one part of Singapore to another;
 
-(5) If as a result of such an inspection or otherwise, the Authority considers it necessary to do so for the safety of aircraft referred to in subsection (1), the Authority may serve a notice on the proprietor directing the proprietor to make such modifications to the installation, or to take such other action, as is necessary to eliminate the cause of the interference, within a reasonable time specified in the notice.
+(f) as to the conditions under which passengers and goods may be carried by air and under which aircraft may be used for other commercial, industrial or gainful purposes and for prohibiting the carriage by air of goods of any classes that may be specified in the order;
 
-[10/2014]
+(g) for minimising or preventing interference with the use or effectiveness of apparatus used in connection with air navigation, and for prohibiting or regulating the use of such apparatus as aforesaid and the display of signs and lights liable to endanger aircraft;
 
-(6) If the installation has been installed and is used and operated in accordance with all applicable laws, the proprietor may recover from the Authority the amount of all reasonable expenses incurred, and of losses actually suffered, in complying with a direction under subsection (5).
+(h) for regulating the conditions under which noise and vibration may be caused by aircraft on aerodromes;
 
-[10/2014]
+(i) for applying the provisions of this Act or orders made under this section to unmanned aircraft and their operators (indoors or outdoors), design, maintenance and manufacture with any prescribed exceptions, modifications and adaptations that the differences between the manned aircraft and unmanned aircraft require;
 
-(7) If a direction under subsection (5) is not complied with to its satisfaction, the Authority may —
+(j) generally for securing the safety, efficiency and regularity of air navigation and the safety of aircraft and of persons and property carried in aircraft, for preventing aircraft endangering other persons and property and, in particular, for the detention of aircraft for any of the purposes specified in this paragraph;
 
-(a) authorise any of its officers, with such reasonable assistance as the officer requires, to enter the premises or place in which the installation is installed, kept or operated, with such force as is necessary and reasonable, and to take the action that was so directed; and
+(k) for requiring persons engaged in, or employed in or in connection with, air navigation to supply meteorological information for the purposes of air navigation;
 
-(b) recover all expenses reasonably incurred by the Authority in the exercise of its powers under this subsection from the proprietor in default.
+(l) for regulating the making of signals and other communications by or to aircraft and persons carried in aircraft;
 
-[10/2014]
+(m) for regulating the use of the civil air ensign and any other ensign established by the Authority for purposes connected with air navigation;
 
-(8) Without prejudice to the right of the Authority to exercise the powers under subsection (7), if any person on whom a direction under subsection (5) is served fails, without reasonable excuse, to comply with the requirements of that notice, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(n) for prohibiting aircraft from flying over any areas in Singapore that may be specified in the order where necessary or expedient for the safety of air navigation or for public safety;
 
-[10/2014]
+(o) for prohibiting aircraft of a specified description or origin or registered in a specified country or territory from landing in, flying over or taking off from Singapore, in order to discharge or facilitate the discharge of an obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement;
 
-(9) In this section —
+(p) for applying, adapting or modifying the enactments relating to customs in relation to aerodromes and to aircraft and to persons and property carried in aircraft and for preventing smuggling by air, and for permitting in connection with air navigation, subject to any conditions that appear to the Authority to be requisite or expedient for the protection of the revenue, the importation of goods into Singapore without payment of duty;
 
-“installation” includes any electrical or other equipment or device or any structure;
+(q) as to the manner and conditions of the issue, validation, renewal, extension or variation of any certificate, licence or other document required by the order (including the examinations and tests to be undergone), and as to the form, custody, production, cancellation, suspension, endorsement and surrender of any such document;
 
-“proprietor”, in relation to an installation, means the owner or user of the installation or the owner or occupier of the premises or place where the installation is installed, kept or operated.
+(r) for regulating the charges that may be made for the use of aerodromes licensed under the order and at Government aerodromes and for services provided at such aerodromes;
 
-[10/2014]
+(s) for prescribing the fees to be paid in respect of the issue, validation, renewal, extension or variation of any certificate, licence or other document or the undergoing of any examination or test required by the order and in respect of any other matters in respect of which it appears to the Authority to be expedient for the purpose of the order to charge fees;
+
+(t) for a right to appeal to the Minister against any decisions made by the Authority under the order or under section 35 (whose decision on appeal is final) and the procedure for such appeals.
+
+[16/2015]
+
+(3) An order made under this section may make different provisions with respect to different classes of aircraft, aerodromes, persons or property and with respect to different circumstances but must, so far as practicable, be so framed as not to discriminate in like circumstances between aircraft registered in Singapore operated on charter terms by one air transport undertaking and such aircraft so operated by another such undertaking.
+
+(4) Where any order is made under this section regulating the conditions under which noise and vibration may be caused by aircraft on aerodromes, no liability shall lie in respect of nuisance by reason only of the noise and vibration caused by aircraft on an aerodrome to which the order applies, so long as the provisions of that order are duly complied with.
+
+(5) Where any structure or valuable tree or plant is reduced in height or removed or any expense is reasonably incurred in compliance with any order made under this section or the conditions of any such order, the owner or occupier of the land must, unless the structure was erected or the tree or plant was planted in contravention of any such order or of the conditions imposed by the order, receive compensation to the extent to which the owner or occupier has suffered damage by reason of such reduction or removal or has incurred such expense.
+
+(6) An order made under this section may, for the purpose of securing compliance with the provisions of the order, provide for the imposition of penalties not exceeding a fine of $100,000 or imprisonment for a term of 5 years or both for any offence under the order, and, in the case of any provision having effect by virtue of subsection (2)(n), may also for that purpose provide for the taking of such steps (including firing on aircraft) as may be specified in the order.
+
+(7) An order made under this section may contain such saving and transitional provisions and such incidental, consequential or supplementary provisions as are necessary or expedient for the purposes of the order.
+
+(8) The provisions of any order made under this section before 1 April 2014 in relation to regulation of air navigation continue in force as if made under this section as amended by the Air Navigation (Amendment) Act 2014, and may from time to time be amended under this section as so amended by that Act until the provision is revoked by regulations made under section 9 on the same subject matter.
+
+[3

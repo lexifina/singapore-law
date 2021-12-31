@@ -1,8 +1,15 @@
-# 30. Restriction on claims for damages and compensation
-Part: PART IV RESTRICTION ON CLAIMS FOR DAMAGES AND COMPENSATION
+# 30. Exemption of aircraft and parts thereof from seizure on patent claims
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
+Division: Division 3 — Safety inspections and enforcement powers
 
-No damages or compensation in respect of any subsidiary legislation made under this Act, or of any act done under this Act or such subsidiary legislation, shall be recoverable —
+(1) Subject to subsection (2), the importation into, and storage in, Singapore of spare parts and spare equipment for an aircraft to which this section applies and the use and installation of the parts and spare equipment in the repair of such an aircraft does not entail any seizure or detention of the aircraft or of the spare parts or spare equipment or any proceedings being brought against the owner or operator of the aircraft or the owner of the spare parts or spare equipment or any other interference with the aircraft by or on behalf of any person in Singapore on the ground that the spare parts or spare equipment or their installation are or is an infringement of any patent, design or model.
 
-(a) save under and in accordance with the relevant provisions of this Act and of any of its subsidiary legislation; and
+(2) Subsection (1) does not apply in relation to any spare parts or spare equipment which are sold or distributed in Singapore or are exported from Singapore for sale or distribution.
 
-(b) unless the claim is made within 3 months of the happening of the event which gave rise to the claim or within such further time as the Minister may, in any case or class of case, allow.
+(3) This section applies to an aircraft, other than an aircraft used in military, customs or police service, registered in any country or territory in the case of which there is for the time being in force an order made by the Minister, with a view to the fulfilment of the provisions of the Chicago Convention to which this section relates, that the benefits of those provisions apply to that country or territory, and to any other aircraft that the Minister may, by order, specify.
+
+[5
+
+Division 4 — Special powers and prohibited activities
+
+[16/2015]

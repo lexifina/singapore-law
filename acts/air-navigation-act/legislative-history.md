@@ -1,83 +1,23 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY AIR NAVIGATION ACT 1966
 
-AIR NAVIGATION ACT (CHAPTER 6)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Air Navigation Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 11 of 1966 — Air Navigation Act 1966
+LEGISLATIVE HISTORY DETAILS PART 1 ORDINANCE NO. 142 (AERIAL NAVIGATION) (1926 REVISED EDITION) 1. Ordinance XX of 1914 — The Aerial Navigation Ordinance 1914 Bill : G.N. No. 61/1914 First Reading : 27 February 1914 Second Reading : 13 March 1914 Third Reading : 27 March 1914 Commencement : 4 April 1914 2. 1920 Revised Edition — Ordinance No. 142 (Aerial Navigation) Operation : 28 November 1921 3. 1926 Revised Edition — Ordinance No. 142 (Aerial Navigation) Operation : 1 August 1926
 
-Date of First Reading : 23 February 1966 (Bill No. 10/66 published on 2 March 1966)
+PART 2 AIR NAVIGATION ORDINANCE (CHAPTER 109, 1955 REVISED EDITION) 4. Ordinance 46 of 1935 — Air Navigation Ordinance, 1935 Bill : G.N No. 2122/1935 First Reading : 26 August 1935 Second Reading : 28 October 1935 Notice of Amendments : 28 October 1935 Third Reading : 28 October 1935 Commencement : 18 November 1935 5. 1936 Revised Edition — Air Navigation Ordinance (Chapter 108) Operation : 1 September 1936 6. U.K. 1949, c. 67 — Civil Aviation Act, 1949 Commencement : 24 November 1949 Application : 1 July 1952 (sections 8, 9, 10, 11, 13, 14, 19, 27, 38, 40, 41, 49, 51, 53, 57, 58, 59, 60, 61, 62 and 63) Note: This Act was extended in part to Singapore, with modifications, by the Colonial Civil Aviation (Application of Act) Order, 1952 (G.N. No.
 
-Date of Second and Third Readings : 21 April 1966
+S 292/1952 (S.I. 868/1952)) on 1 July 1952.
 
-Date of commencement : 13 May 1966
+7. G.N. No. S 292/1952 (S.I. 868/1952) — Colonial Civil Aviation (Application of Act) Order, 1952 Commencement : 1 July 1952 Note: This Order extended the Civil Aviation Act, 1949 (U.K. 1949, c. 67) in part to Singapore, with modifications.
 
-2. 1970 Revised Edition — Air Navigation Act (Chapter 87)
+8. M. Ordinance 84 of 1952 — Air Navigation Ordinance, 1952 Commencement : 1 November 1953 Application : 24 September 1964 (sections 3, 12 and 13(1)) Note: This Ordinance was extended in part to Singapore by the Air Navigation Ordinance, 1952 (Extension) Order, 1964 on 24 September 1964.
 
-Date of operation : 15 April 1971
+9. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 31 of the Schedule to the above Act) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 31 of the Schedule) 10. 1955 Revised Edition — Air Navigation Ordinance (Chapter 109) Operation : 1 July 1956 11. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 12. Ordinance 38 of 1959 — Laws of Singapore (Miscellaneous Amendments) Ordinance, 1959 (Amendments made by section 7 of the above Act) Bill : 215/1959 First Reading : 3 March 1959 Second Reading : 18 March 1959 Notice of Amendments : 18 March 1959 Third Reading : 18 March 1959 Commencement : 3 June 1959 (section 7) 13. L.N. 296/1964 (G.N. Sp. No. S 205/1964) — Air Navigation Ordinance, 1952 (Extension) Order, 1964 Commencement : 24 September 1964 Note: This Order extended the Federation of Malaya Air Navigation Ordinance, 1952 (M. Ordinance 84 of 1952) in part to Singapore.
 
-3. Act 12 of 1971 — Tokyo Convention Act 1971
+PART 3 AIR NAVIGATION ACT 1966 (2020 REVISED EDITION) 14. Act 11 of 1966 — Air Navigation Act, 1966 Bill : 10/1966 First Reading : 23 February 1966 Second Reading : 21 April 1966 Notice of Amendments : 21 April 1966 Third Reading : 21 April 1966 Commencement : 13 May 1966 15. 1970 Revised Edition — Air Navigation Act (Chapter 87) Operation : 1 April 1971 16. Act 12 of 1971 — Tokyo Convention Act, 1971 (Amendments made by section 8 of the above Act) Bill : 4/1971 First Reading : 30 July 1971 Second and Third Readings : 19 October 1971 Commencement : 1 January 1972 (section 8) 17. Act 32 of 1986 — Statutes (Miscellaneous Amendments) Act 1986 (Amendments made by section 2 read with item (1) of the Schedule to the above Act) Bill : 24/1986 First Reading : 27 October 1986 Second and Third Readings : 9 December 1986 Commencement : 23 January 1987 (section 2 read with item (1) of the Schedule) 18. 1985 Revised Edition — Air Navigation Act (Chapter 6) Operation : 30 March 1987 19. Act 7 of 1997 — Statutes (Miscellaneous Amendments) Act 1997 (Amendments made by section 7 read with item (1) of the Second Schedule to the above Act) Bill : 6/1997 First Reading : 11 July 1997 Second and Third Readings : 25 August 1997 Commencement : 1 October 1997 (section 7 read with item (1) of the Second Schedule) 20. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000 (Amendments made by section 3 of the above Act) Bill : 22/2000 First Reading : 25 August 2000 Second and Third Readings : 9 October 2000 Commencement : 1 November 2000 (section 3) 21. Act 4 of 2003 — Customs (Amendment) Act 2003 (Amendments made by section 26 read with item (1) of the Schedule to the above Act) Bill : 6/2003 First Reading : 10 March 2003 Second and Third Readings : 21 March 2003 Commencement : 1 April 2003 (section 26 read with item (1) of the Schedule) 22. Act 12 of 2007 — Air Navigation (Amendment) Act 2007 Bill : 24/2006 First Reading : 8 November 2006 Second and Third Readings : 23 January 2007 Commencement : 19 February 2007 23. Act 17 of 2009 — Civil Aviation Authority of Singapore Act 2009 (Amendments made by section 104 read with item 2 of the Fourth Schedule to the above Act) Bill : 10/2009 First Reading : 23 March 2009 Second and Third Readings : 13 April 2009 Commencement : 1 July 2009 (section 104 read with item 2 of the Fourth Schedule) 24. Act 10 of 2014 — Air Navigation (Amendment) Act 2014 Bill : 6/2014 First Reading : 20 January 2014 Second and Third Readings : 17 February 2014 Commencement : 1 April 2014 25. 2014 Revised Edition — Air Navigation Act (Chapter 6) Operation : 31 July 2014 26. Act 16 of 2015 — Unmanned Aircraft (Public Safety and Security) Act 2015 (Amendments made by Part 1 of the above Act) Bill : 13/2015 First Reading : 13 April 2015 Second and Third Readings : 11 May 2015 Commencement : 1 June 2015 (Part 1) 27. Act 10 of 2018 — Enterprise Singapore Board Act 2018 (Amendments made by section 78(2) of the above Act) Bill : 3/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 1 April 2018 (section 78(2)) 28. Act 18 of 2018 — Aviation (Miscellaneous Amendments) Act 2018 (Amendments made by Part 1 of the above Act) Bill : 13/2018 First Reading : 28 February 2018 Second and Third Readings : 19 March 2018 Commencement : 29 June 2018 (Part 1) 29. Act 32 of 2018 — Tokyo Convention (Amendment) Act 2018 (Amendments made by section 8 of the above Act) Bill : 22/2018 First Reading : 17 May 2018 Second and Third Readings : 9 July 2018 Commencement : 15 September 2018 (section 8) 30. Act 34 of 2019 — Air Navigation (Amendment) Act 2019 Bill : 27/2019 First Reading : 7 October 2019 Second and Third Readings : 4 November 2019 Commencement : 21 December 2019 31. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 453 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 453) 32. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 4 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 4 of the Schedule)
 
-Date of First Reading : 30 July 1971 (Bill No. 4/71 published on 2 August 1971)
+Abbreviations
 
-Date of Second and Third Readings : 19 October 1971
-
-Date of commencement : 1 January 1972
-
-4. 1985 Revised Edition — Air Navigation Act (Chapter 6)
-
-Date of operation : 30 March 1987
-
-5. Act 32 of 1986 — Statutes (Miscellaneous Amendments) Act 1986
-
-Date of First Reading : 27 October 1986 (Bill No. 24/86 published on 31 October 1986)
-
-Date of Second and Third Readings : 9 December 1986
-
-Date of commencement : 23 January 1987 (item (1) of the Schedule — amendment of Air Navigation Act)
-
-6. Act 7 of 1997 — Statutes (Miscellaneous Amendments) Act 1997
-
-Date of First Reading : 11 July 1997 (Bill No. 6/97 published on 12 July 1997) Date of Second and Third Readings : 25 August 1997
-
-Date of commencement : 1 October 1997 (item (1) of the Second Schedule — amendment of Air Navigation Act)
-
-7. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000
-
-Date of First Reading : 25 August 2000 (Bill No. 22/2000 published on 26 August 2000)
-
-Date of Second and Third Readings : 9 October 2000
-
-Date of commencement : 1 November 2000 (section 3 —
-
-amendment of Air Navigation Act)
-
-8. Act 4 of 2003 — Customs (Amendment) Act 2003 (Consequential amendments made to Act by)
-
-Date of First Reading : 10 March 2003 (Bill No. 6/2003 published on 11 March 2003)
-
-Date of Second and Third Readings : 21 March 2003
-
-Date of commencement : 1 April 2003 (item (1) of the Schedule — amendment of Air Navigation Act)
-
-9. Act 12 of 2007 — Air Navigation (Amendment) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 24/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 23 January 2007
-
-Date of commencement : 19 February 2007
-
-10. Act 17 of 2009 — Civil Aviation Authority of Singapore Act 2009 (Consequential amendments made to Act by)
-
-Date of First Reading : 23 March 2009 (Bill No. 10/2009 published on 23 March 2009)
-
-Date of Second and Third Readings : 13 April 2009 Date of commencement : 1 July 2009 (item 2 of the Schedule — amendment of Air Navigation Act)
-
-11. Act 10 of 2014 — Air Navigation (Amendment) Act 2014
-
-Date of First Reading : 20 January 2014 (Bill No. 6/2014 published on 20 January 2014)
-
-Date of Second and Third Readings : 17 February 2014
-
-Date of commencement : 1 April 2014
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

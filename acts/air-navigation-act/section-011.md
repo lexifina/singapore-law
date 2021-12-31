@@ -1,11 +1,36 @@
-# 11. Wreck and salvage
-Part: PART II REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
-Division: Division 5 — Serious risks to aviation safety
+# 11. Use of code, standards, etc., in proceedings
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
 
-(1) Any services rendered in assisting, or in saving life from, or in saving the cargo or apparel of, an aircraft in, on or over the sea or any tidal water, or on or over the shores of the sea or any tidal water, shall be deemed to be salvage services in all cases in which they would have been salvage services if they had been rendered in relation to a vessel; and where salvage services are rendered by an aircraft to any property or person, the owner of the aircraft shall be entitled to the same reward for those services as he would have been entitled to if the aircraft had been a vessel.
+(1) This section applies to and in relation to any code, standard, rule, requirement, specification or other document issued by the Authority for the purpose of providing practical guidance or certainty in respect of any one or more of the requirements of this Part or any duty or other requirement prescribed in any aviation safety subsidiary legislation.
 
-(2) Subsection (1) shall have effect notwithstanding that the aircraft concerned is a foreign aircraft, and notwithstanding that the services in question are rendered elsewhere than within the limits of the territorial waters adjacent to any part of Singapore.
+(2) Subsection (4) has effect where —
 
-(3) The Minister may, by regulations, direct that any provisions of any written law for the time being in force which relate to wreck, to salvage of life or property or to the duty of rendering assistance to vessels in distress shall, with such exceptions, adaptations and modifications, if any, as may be specified in the regulations, apply in relation to aircraft as those provisions apply in relation to vessels.
+(a) a person is alleged to have committed an offence under this Part or any aviation safety subsidiary legislation —
 
-(4) For the purposes of this section, any provisions of any written law which relate to vessels laid by or neglected as unfit for sea service shall be deemed to be provisions relating to wreck.
+(i) by reason of a contravention of any provision of this Part or of any aviation safety subsidiary legislation;
+
+or
+
+(ii) by reason of a failure to discharge or perform a duty or other requirement imposed by this Part or any aviation safety subsidiary legislation; and
+
+(b) the matter to which the alleged contravention or failure relates is one to which, in the opinion of the court in the criminal proceedings, a code, standard, rule, requirement, specification or other document mentioned in subsection (1) relates.
+
+(3) Subsection (4) has effect where —
+
+(a) a holder of an aviation safety instrument is alleged to have not satisfied any requirement of this Part or any aviation safety subsidiary legislation applicable to holders of that aviation safety instrument —
+
+(i) by reason of a contravention of any provision of this Part or of any aviation safety subsidiary legislation;
+
+or
+
+(ii) by reason of a failure to discharge or perform a duty or other requirement imposed by this Part or any aviation safety subsidiary legislation; and
+
+(b) the matter to which the alleged contravention or failure relates is one to which, in the opinion of the Authority or Minister in any administrative proceedings involving the exercise of any power under section 17, 18, 19, 22, 24, 25, 26 or 28, a code, standard, rule, requirement, specification or other document mentioned in subsection (1) relates.
+
+(4) In criminal proceedings mentioned in subsection (2) or administrative proceedings mentioned in subsection (3) —
+
+(a) compliance with a provision of such a code, standard, rule, requirement, specification or other document found by the court, Authority or Minister (as the case may be), to be relevant to a matter to which a contravention or failure alleged in the proceedings relates; or
+
+(b) a contravention of or a failure to comply with, whether by act or omission, any such provision so found, may be relied on by any party to those proceedings as tending to negative or establish any liability which is in question in those proceedings.
+
+[3C

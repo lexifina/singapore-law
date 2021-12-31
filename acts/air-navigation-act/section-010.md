@@ -1,13 +1,56 @@
-# 10. Penalty for dangerous flying
-Part: PART II REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
-Division: Division 5 — Serious risks to aviation safety
+# 10. Incorporation by reference, etc.
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
 
-(1) Where an aircraft is flown in such a manner as to be the cause of unnecessary danger to any person or property on land or water, the pilot or the person in charge of the aircraft, and also the owner of the aircraft, unless he proves to the satisfaction of the court that the aircraft was so flown without his actual fault or privity, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+(1) Any aviation safety subsidiary legislation may make provision for or in relation to a matter by applying, adopting or incorporating by reference, with or without modification, any matter contained in any code, standard, rule, requirement, specification or other document, as in force at a particular time or from time to time, which relates to any matter with which the aviation safety subsidiary legislation deal, even if the code, standard, rule, requirement, specification or other document does not yet exist when the aviation safety subsidiary legislation is made, including but not limited to —
 
-[10/2014]
+(a) any code, standard, rule, requirement, specification or other document —
 
-(2) For the purposes of this section, “owner” in relation to an aircraft includes any person by whom the aircraft is hired at the time of the offence.
+(i) prescribed under law by any other Contracting State of the ICAO;
 
-(3) This section shall be in addition to and not in derogation of any provisions made by the Minister under the powers conferred by section 3 or by the Authority under the powers conferred by section 3A.
+(ii) recommended, issued or adopted by the Enterprise Singapore Board, or a body or an organisation inside or outside Singapore that has functions corresponding to the functions of the Enterprise Singapore Board in any particular aspect of civil aviation; or
 
-[10/2014]
+(iii) issued or adopted by any aviation sport or aviation recreation organisation approved by the Authority;
+
+(b) any standards, requirements or recommended practices issued or adopted by international aviation organisations;
+
+or
+
+(c) any code, standard, rule, requirement, specification or other document issued or adopted by the Authority or any Government department or any other public authority constituted by any written law.
+
+[10/2018]
+
+(2) Material referred to in subsection (1) may be applied, adopted or incorporated by reference in any aviation safety subsidiary legislation —
+
+(a) in whole or in part; or
+
+(b) with modifications, additions, or variations specified in the regulation or order.
+
+(3) A copy of any material applied, adopted or incorporated by reference in any aviation safety subsidiary legislation, including any amendment to, or replacement of, the material, must be —
+
+(a) certified as a correct copy of the material by the Minister or the Authority (as the case may be); and
+
+(b) retained by the Authority.
+
+(4) Any material applied, adopted or incorporated in any aviation safety subsidiary legislation by reference under subsection (1) is to be treated for all purposes as forming part of the regulation or order; and, unless otherwise provided in the aviation safety subsidiary legislation, every amendment to any material incorporated by reference under subsection (1) that is made by the person or organisation originating the material is, subject to subsections (5) and (6), to be treated as being a part of that aviation safety subsidiary legislation.
+
+(5) Where any material referred to in subsection (1) is applied, adopted or incorporated by reference in any aviation safety subsidiary legislation, the Authority must give notice in the Gazette stating —
+
+(a) that the material is incorporated in the aviation safety subsidiary legislation and the date on which the relevant provision in the aviation safety subsidiary legislation was made;
+
+(b) that the material is available for inspection during working hours, free of charge;
+
+(c) the place where the material can be inspected;
+
+(d) that copies of the material can be purchased;
+
+(e) the place where the material can be purchased; and
+
+(f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
+
+(6) The Authority must cause a copy of every code, standard, requirement, rule or specification incorporated by reference under subsection (1) (other than a code, standard, rule, requirement, specification or other document recommended, issued or adopted by the Enterprise Singapore Board) to be made available for inspection by members of the public without charge at the office of the Director-General of Civil Aviation during normal office hours.
+
+[10/2018]
+
+(7) In this section, “modification” includes omissions, additions and substitutions.
+
+[3B

@@ -1,52 +1,34 @@
-# 13. Interpretation of this Part
-Part: PART IIA ACCIDENTS AND INCIDENTS INVESTIGATION Division 1 — General
+# 13. Appointment of safety inspectors and delegation
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
 
-In this Part, unless the context otherwise requires —
+(1) The Authority may in writing appoint as safety inspectors any of the following persons:
 
-“accident” means an accident associated with the operation of any aircraft involving circumstances prescribed by regulations made for the purposes of this Part;
+(a) any employee of the Authority with suitable qualifications and experience to properly exercise the powers of a safety inspector;
 
-“accredited representative” means a person appointed by a Contracting State, on the basis of his qualifications, for the purpose of participating in an investigation conducted by another State, and includes any other person so recognised under Annex 13;
+(b) any individual who is not an employee of the Authority and has suitable qualifications and experience to properly exercise the powers of a safety inspector.
 
-“Annex 13” means Annex 13 to the Chicago Convention as amended from time to time by the Council of the International Civil Aviation Organisation;
+(2) The Authority must issue to each safety inspector an identification card, which must be carried at all times by the safety inspector when exercising powers under any provision in this Part or any aviation safety subsidiary legislation.
 
-“aviation safety issue” means any conduct, transaction, process, practice, occurrence, circumstance or matter that affects, or might affect, aviation safety, but not any of the following:
+(3) Subject to subsection (5), the Authority may delegate the exercise of all or any of the powers conferred or duties imposed upon it by any provision in this Part or any aviation safety subsidiary legislation —
 
-(a) any accident or serious incident;
+(a) to the Director-General of Civil Aviation; or
 
-(b) any conduct, transaction, process, practice, occurrence, circumstance or matter that may constitute such offence as may be prescribed by the voluntary reporting rules;
+(b) to such of its employees, and such other individuals who are not its employees, as it appoints under this section to be a safety inspector in relation to that provision, and any reference in this Act or such aviation safety subsidiary legislation to the Authority includes a reference to the Director-General of Civil Aviation or such a safety inspector.
 
-(c) any reportable safety matter within the meaning of section 4O;
+(4) Subject to subsection (5), the Director-General of Civil Aviation may, in writing, delegate to any employee of the Authority (whether or not appointed by the Authority to be a safety inspector) the exercise of all or any of the powers conferred or duties imposed upon him or her by any provision in this Act or any aviation safety subsidiary legislation; and any reference in this Act or such aviation safety subsidiary legislation to the Director-General of Civil Aviation includes a reference to that employee.
 
-(d) matters showing a serious and imminent threat to a person’s health or life;
+(5) Nothing in this section authorises delegating —
 
-(e) any act of unlawful interference within the meaning of section 17;
+(a) the power of delegation conferred by this section;
 
-(f) any other conduct, transaction, process, practice, occurrence, circumstance or matter that is prescribed by the voluntary reporting rules to be excluded from this definition;
+(b) any power of the Authority to make aviation safety subsidiary legislation;
 
-“cause”, in relation to any accident or incident, means any action, omission, event, condition, or a combination of any action, omission, event or condition, which led to the accident or incident, the identification of which does not imply the assignment of fault or the determination of administrative, civil or criminal liability;
+(c) any power of the Director-General of Civil Aviation to make emergency directives of general application under section 23; or
 
-“civil aircraft” means aircraft that is a Singapore registered aircraft and any other aircraft that is not military aircraft;
+(d) to any individual who is not an employee of the Authority any power under section 17, 18, 19 or 21 with respect to any aviation safety instrument.
 
-“designated person” means a person designated by the Minister for the purposes of the voluntary reporting scheme established by the voluntary reporting rules;
+(6) Any delegation under subsection (3) or (4) may be general or in a particular case and may be subject to such conditions or limitations as set out in this Act or as the Authority may specify.
 
-“flight recorder” means any type of recorder installed in the aircraft for the purpose of complementing accident or incident investigation;
+(7) Every safety inspector who is not an employee of the Authority and acting under this section is deemed to be a public servant for the purposes of the Penal Code 1871.
 
-“flying display” means a civilian organised event (including any rehearsal for such event) which —
-
-(a) consists, wholly or partly, of an exhibition of flying of any civil or military aircraft; and
-
-(b) takes place at an aerodrome or premises other than a naval, military or air force aerodrome or premises;
-
-“incident” means an occurrence, other than an accident, associated with the operation of an aircraft which affects or could affect the safety of such operation;
-
-“non-contracting State” means any State which is not a party to the Chicago Convention;
-
-“serious incident” means an incident involving circumstances prescribed by regulations made for the purposes of this Part;
-
-“State of Design” means the State having jurisdiction over the organisation responsible for the type design of the aircraft;
-
-“State of Manufacture” means the State having jurisdiction over the organisation responsible for the final assembly of the aircraft;
-
-“voluntary reporting rules” means rules made under section 13F.
-
-[10/2014]
+[3E

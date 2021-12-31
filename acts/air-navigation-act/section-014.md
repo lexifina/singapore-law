@@ -1,85 +1,67 @@
-# 14. Powers of Inspectors, etc.
-Part: PART IIA ACCIDENTS AND INCIDENTS INVESTIGATION Division 1 — General
-Division: Division 3 — Investigations
+# 14. Requirement for aviation safety instrument
+Part: PART 2 REGULATORY FRAMEWORK FOR SAFETY IN AVIATION Division 1 — General
+Division: Division 2 — Aviation safety instruments
 
-(1) For the purposes of enabling him to carry out an investigation into an accident or incident under and in accordance with this Part and any regulations made for the purposes of this Part, an Inspector shall, where the whole or any part of the investigation is carried out in Singapore —
+(1) The Authority may in any aviation safety subsidiary legislation provide that an aviation safety instrument is required by or in respect of all or any of the following:
 
-(a) have free and unhampered access to the site of the accident or incident as well as to the aircraft, its contents or its wreckage;
+(a) aircraft operators;
 
-(b) have immediate and unrestricted access to and use of the contents of the flight recorders, air traffic service provider’s records and any other recordings;
+(b) aircraft owners;
 
-(c) have access to and be provided with the results of examinations of the bodies of victims or of tests made on samples taken from the bodies of the victims;
+(c) aircraft pilots and flight crew members;
 
-(d) have immediate access to and be provided with the results of examinations of the persons involved in the operation of the aircraft or of tests made on samples taken from such persons;
+(d) air traffic service personnel;
 
-and
+(e) aircraft maintenance personnel;
 
-(e) have free access to any relevant information or records held by any relevant person within the meaning of section 13E(2), any maintenance contractor or sub‑contractor of an operator of an aircraft, the hirer, the designer or the manufacturer of the aircraft, and by the authorities for civil aviation or airport operation or air traffic services.
+(f) air traffic services, search and rescue services and aeronautical information services;
 
-[10/2014]
+(g) aerodromes, aerodrome operators and aerodrome rescue and firefighting services;
 
-(2) For the purposes of enabling him to carry out an investigation into an accident or incident under and in accordance with this Part and any regulations made for the purposes of this Part, an Inspector may, where the whole or any part of the investigation is carried out in Singapore —
+(h) navigation installations;
 
-(a) by summons under his hand —
+(i) aviation training organisations;
 
-(i) call before him and examine any person as he thinks fit;
+(j) aircraft design, manufacture, and maintenance organisations;
 
-(ii) require such person to answer any question or furnish any information or produce any books, papers, documents and articles which he may consider relevant; and
+(k) aeronautical procedures;
 
-(iii) make copies of and retain any such books, papers, documents and articles until the completion of the investigation;
+(l) aeronautical meteorological services;
 
-(b) take statements from all such persons as he thinks fit and require any such person to make and sign a declaration of the truth of the statement made by him;
+(m) aeronautical telecommunications services;
 
-(c) on production, if required, of his credentials, enter and inspect any place, building or aircraft the entry or inspection of which appears to him to be necessary for the purposes of the investigation;
+(n) such other persons, aircraft, aeronautical products, aviation-related services, facilities, and equipment operated in support of the civil aviation system, or classes of such persons, aircraft, aeronautical products, aviation-related services, facilities, and equipment operated in support of the civil aviation system, as may, in the interests of safety or security, be specified in the aviation safety subsidiary legislation;
 
-(d) on production, if required, of his credentials, remove, test, take measures for the preservation of or otherwise deal with any aircraft other than an aircraft involved in the accident or incident where it appears to him to be necessary for the purposes of the investigation;
-
-(e) take possession of, examine, remove, test or take measures for the preservation of any object or evidence as he considers necessary for the purposes of the investigation;
-
-(f) require an immediate listing of evidence and removal of debris or components for examination or analysis purposes;
-
-(g) require the readout of the flight recorders;
-
-(h) in the case of a fatal accident, require a complete autopsy examination of fatally injured flight crew, and, when necessary, passengers and aviation personnel by a pathologist, and if a pathologist experienced in the investigation of aircraft accidents is available, by such pathologist, and require the autopsy report or reports to be submitted to an Inspector;
-
-(i) where appropriate, require the medical examination or toxicological examination of the crew, passengers and aviation personnel involved in the accident or incident by a medical practitioner, and if a medical practitioner experienced in the investigation of aircraft accidents is available, by such medical practitioner, and require the medical report or toxicological report or both, as the case may be, to be submitted to an Inspector;
-
-(j) require the crew, passengers and aviation personnel involved in the accident or incident to undergo such other tests (including a breathalyser test) as he considers necessary for the purposes of the investigation, and require the test report or reports to be submitted to an Inspector; and
-
-(k) have such other powers as may be prescribed in regulations made for the purposes of this Part.
+(o) any person who is an aviation examiner or medical assessor.
 
 [10/2014]
 
-(3) Without prejudice to the generality of subsections (1) and (2), an Inspector may request another Contracting State to provide such information, facilities or experts as he may consider necessary for the purposes of an investigation.
+(2) A person must not operate, maintain or service or do any other act in respect of any aircraft, aeronautical product or aviation-related service referred to in subsection (1)(a) to (o) for which an aviation safety instrument is required under any aviation safety subsidiary legislation unless —
 
-[10/2014]
+(a) the person holds an aviation safety instrument that is in force and authorises the person to do that act; or
 
-(4) A person to whom a summons or requirement is given by an Inspector in accordance with this section shall be guilty of an offence if the person —
+(b) the person is authorised by or under the aviation safety subsidiary legislation to do that act without the aviation safety instrument.
 
-(a) fails to attend before the Inspector in accordance with the summons or requirement;
+(3) Any person who contravenes subsection (2) shall be guilty of an offence.
 
-(b) refuses to take an oath or make an affirmation when required by the Inspector to do so;
+[34/2019]
 
-(c) refuses or fails to answer a question lawfully put to the person; or
+(4) A person who is guilty of an offence under subsection (3) shall be liable on conviction —
 
-(d) fails to produce to the Inspector the specified evidential material in accordance with the summons or requirement, and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+(a) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; but
 
-[10/2014]
+(b) where the person is a repeat offender, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-(5) A person is not excused from answering a question or producing evidential material in response to a summons or requirement made by an Inspector under this Part on the ground that the answer, or the production of the material, might tend to incriminate the person.
+[34/2019]
 
-[10/2014]
+(5) A person is a repeat offender in relation to an offence under subsection (3) relating to an aviation safety instrument which is required under any aviation safety subsidiary legislation if the person has been convicted or found guilty (whether before, on or after 21 December 2019) on at least one other earlier occasion of —
 
-(6) Where an individual claims, before answering a question or producing evidential material that he is required by an Inspector under this Part to give, that the answer or the production of evidential material might tend to incriminate him —
+(a) an offence under subsection (3) relating to an activity or act in respect of any aircraft, aeronautical product or aviation-related service for which the same type of aviation safety instrument is required under any aviation safety subsidiary legislation; or
 
-(a) that answer or evidential material;
+(b) an offence under an order made under section 8 relating to an activity or act in respect of any aircraft, aeronautical product or aviation-related service for which the same type of aviation safety instrument is required under such an order.
 
-(b) the giving of the answer or the production of evidential material; and
+[34/2019]
 
-(c) any information, document or thing obtained as a direct or indirect consequence of the giving of the answer or the production of evidential material, shall not be admissible in evidence against that individual in any civil proceedings or any criminal proceedings other than proceedings for an offence in respect of the falsity of the answer or evidential material produced.
+(6) Subject to any such aviation safety subsidiary legislation, an aviation safety instrument may be issued by the Authority for such specified period and subject to such conditions as the Authority considers appropriate in each particular case.
 
-[10/2014]
-
-(7) Subsection (6) shall apply notwithstanding any other written law.
-
-[10/2014]
+[4
