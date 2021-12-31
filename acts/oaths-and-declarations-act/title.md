@@ -1,19 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-OATHS AND DECLARATIONS ACT
-(CHAPTER 211)
-Act
-38 of 2000
-REVISED EDITION 2001
-(31st December 2001)
+OATHS AND DECLARATIONS
+ACT 2000
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2001
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to amend and consolidate the law relating to oaths and statutory declarations.
 
-[1st January 2001]
+[1 January 2001]
