@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Hydrogen Cyanide (Fumigation) Act.
+This Act is the Hydrogen Cyanide (Fumigation) Act 1947.

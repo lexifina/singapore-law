@@ -6,9 +6,9 @@
 
 (a) regulate the manner in which the hydrogen cyanide is to be generated and require the admixture therewith of any substance;
 
-(b) prohibit the carrying out of any such fumigation except by or under the supervision of persons having such training or experience as may be specified in the regulations and by such number of persons as may be so specified;
-
 1
+
+(b) prohibit the carrying out of any such fumigation except by or under the supervision of persons having such training or experience as may be specified in the regulations and by such number of persons as may be so specified;
 
 (c) prohibit the carrying out of any such fumigation except by persons licensed to carry out the fumigation;
 

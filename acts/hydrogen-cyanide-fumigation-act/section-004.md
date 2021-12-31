@@ -16,8 +16,10 @@ The Minister may direct an inquiry to be made by such person as he may appoint i
 
 (iv) they may administer an oath, and require any person examined to make and sign a declaration of the truth of the statements made by him in his examination;
 
-(d) persons attending as witnesses before the court shall be allowed such expenses as would be allowed to witnesses attending before the High Court, and in case of dispute as to the amount to be allowed, the dispute shall be referred by the court to the Registrar of the Supreme Court, who, on request under the hands of the members of the court shall ascertain and certify the proper amount of the expenses;
+(d) persons attending as witnesses before the court shall be allowed such expenses as would be allowed to witnesses attending before the General Division of the High Court, and in case of dispute as to the amount to be allowed, the dispute shall be referred by the court to the Registrar of the Supreme Court, who, on request under the hands of the members of the court, shall ascertain and certify the proper amount of the expenses;
 
 (e) if any person without reasonable excuse (proof of which shall lie on him) fails, after having had the expenses (if any) to which he is entitled tendered to him, to comply with any summons or requisition of the court holding an investigation under this Act, or prevents or impedes the court in the execution of its duty, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100, or, in the case of a failure to comply with a requisition for furnishing any return or producing any document, to a fine not exceeding $100 for every day on which the failure occurs or continues;
 
 (f) the person appointed to make an inquiry into any accident and the court holding an investigation of any accident under this section shall make a report to the Minister stating the causes of the accident and all the circumstances attending it, and containing any observations on the accident or on the evidence or on any matters arising out of the inquiry or investigation which he or they think right to include in the report, and the Minister shall cause every report so made to him to be made public in such manner as he thinks expedient.
+
+[40/2019]
