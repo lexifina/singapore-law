@@ -1,6 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Nanyang Technological University (Corporatisation) Act.
-
-2006 Ed. (Corporatisation) CAP. 192A 3
+This Act is the Nanyang Technological University (Corporatisation) Act 2005.

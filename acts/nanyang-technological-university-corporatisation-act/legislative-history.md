@@ -1,15 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY NANYANG TECHNOLOGICAL UNIVERSITY (CORPORATISATION) ACT 2005
 
-NANYANG TECHNOLOGICAL UNIVERSITY (CORPORATISATION) ACT (CHAPTER 192A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Nanyang Technological University (Corporatisation) Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-Act 46 of 2005 — Nanyang Technological University (Corporatisation) Act 2005
+LEGISLATIVE HISTORY DETAILS PART 1 NANYANG TECHNOLOGICAL INSTITUTE ACT (CHAPTER 192, 1985 REVISED EDITION) 1. Act 12 of 1981 — Nanyang Technological Institute Act, 1981 Bill : 17/1981 First Reading : 15 June 1981 Second and Third Readings : 21 July 1981 Commencement : 8 August 1981 2. 1985 Revised Edition — Nanyang Technological Institute Act (Chapter 192) Operation : 30 March 1987
 
-Date of First Reading : 17 October 2005 (Bill No. 33/2005 published on 18 October 2005)
+PART 2 NANYANG TECHNOLOGICAL UNIVERSITY ACT (CHAPTER 192, 1992 REVISED EDITION) 3. Act 17 of 1991 — Nanyang Technological University Act 1991 Bill : 8/1991 First Reading : 26 February 1991 Second and Third Readings : 22 March 1991 Commencement : 1 July 1991 4. G.N. No. S 400/1991 — Nanyang Technological University Constitution (Amendment) Order 1991 Commencement : 1 August 1991 5. 1992 Revised Edition — Nanyang Technological University Act (Chapter 192) Operation : 9 March 1992 6. Act 18 of 1996 — Transfer of the Nanyang University Alumni Register Act 1996 (Amendments made by section 5 read with paragraph 2 of the Schedule to the above Act) Bill : 10/1996 First Reading : 11 March 1996 Second and Third Readings : 2 May 1996 Commencement : 31 August 1996 (section 5 read with paragraph 2 of the Schedule) 7. G.N. No. S 364/1998 — Nanyang Technological University Constitution (Amendment) Order 1998 Commencement : 1 August 1998 8. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (23) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (23) of the Schedule) 9. Act 40 of 2004 — Universities (Miscellaneous Amendments) Act 2004 (Amendments made by section 2 of the above Act) Bill : 39/2004 First Reading : 1 September 2004 Second and Third Readings : 21 September 2004 Commencement : 6 October 2004 (section 2) PART 3 NANYANG TECHNOLOGICAL UNIVERSITY (CORPORATISATION) ACT 2005 (2020 REVISED EDITION) 10. Act 46 of 2005 — Nanyang Technological University (Corporatisation) Act 2005 Bill : 33/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 11. 2006 Revised Edition — Nanyang Technological University (Corporatisation) Act (Chapter 192A) Operation : 31 December 2006 12. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 497 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 497)
 
-Date of Second and Third Readings : 21 November 2005
+Abbreviations
 
-Date of commencement : 1 April 2006
-
-Note: The Nanyang Technological University (Corporatisation) Act 2005 repealed the Nanyang Technological University Act (Chapter 192, 1992 Revised Edition).
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,18 +1,18 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘Board’’ means the Board of Trustees of the university company referred to in its constituent documents;
+“Board” means the Board of Trustees of the university company mentioned in its constituent documents;
 
-‘‘constituent documents’’, in relation to the university company, means the memorandum of association and articles of association of the university company;
+“constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company;
 
-‘‘predecessor university’’ means the Nanyang Technological University established under the repealed Nanyang Technological University Act (Cap. 192, 1992 Ed.);
+“predecessor university” means the Nanyang Technological University established under the repealed Nanyang Technological University Act (Cap. 192, 1992 Revised Edition);
 
-‘‘university company’’ means the company limited by guarantee incorporated under the Companies Act (Cap. 50) under the name ‘‘Nanyang Technological University’’.
+“university company” means the company limited by guarantee incorporated under the Companies Act 1967 under the name “Nanyang Technological University”.
 
-(2) For the avoidance of doubt —
+(2) To avoid doubt —
 
-(a) any reference in this Act to property vested in the predecessor company is a reference to such property, whether situated in Singapore or elsewhere; and
+(a) any reference in this Act to property vested in the predecessor university is a reference to such property, whether situated in Singapore or elsewhere; and
 
-(b) any reference in this Act to rights or liabilities of the predecessor university is a reference to such rights to which the predecessor university is entitled or such liabilities to which the predecessor university is subject, as the case may be, whether under the laws of Singapore or of any country outside Singapore, and includes such rights or liabilities arising under loans raised by the predecessor university.
+(b) any reference in this Act to rights or liabilities of the predecessor university is a reference to such rights to which the predecessor university is entitled or such liabilities to which the predecessor university is subject (as the case may be) whether under the laws of Singapore or of any country outside Singapore, and includes such rights or liabilities arising under loans raised by the predecessor university.
