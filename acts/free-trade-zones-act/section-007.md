@@ -1,5 +1,5 @@
 # 7. Calculation of duty
-Part: PART II OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
+Part: PART 2 OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
 
 (1) The rate of customs duty and the valuation, if any, applicable to any goods subject to customs duty shall be —
 
@@ -15,6 +15,4 @@ Part: PART II OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
 
 (2) The rate of exchange to be used for determining the equivalent in Singapore currency of any foreign currency shall be the current selling rate in Singapore as last notified before the time the goods are removed for the purpose of manufacture or entry into customs territory.
 
-(3) The valuation applicable to any goods subject to customs duty shall be ascertained in accordance with the Customs Act (Cap. 70).
-
-[11/97]
+(3) The valuation applicable to any goods subject to customs duty shall be ascertained in accordance with the Customs Act 1960.

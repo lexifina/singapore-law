@@ -1,5 +1,5 @@
 # 24. Minister to make regulations
-Part: PART VII REGULATIONS
+Part: PART 7 REGULATIONS
 
 (1) The Minister may make regulations for or in respect of every purpose which is deemed by him necessary for the carrying out of this Act.
 

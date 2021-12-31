@@ -1,5 +1,5 @@
 # 14. Annual reports and accounts
-Part: PART III RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
+Part: PART 3 RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
 
 (1) The authority shall present to the Minister annually and at such other times as the Minister may prescribe reports containing a full and correct statement of all operations, receipts and expenditure and such other information as the Minister may require.
 

@@ -1,5 +1,5 @@
 # 13. Exclusion of certain goods or discontinuance of operations
-Part: PART III RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
+Part: PART 3 RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
 
 (1) The authority may at any time in its discretion order the exclusion or removal from the free trade zone of any goods, or the discontinuance of any operations, which in its opinion are dangerous or prejudicial to the public interest, health or safety.
 

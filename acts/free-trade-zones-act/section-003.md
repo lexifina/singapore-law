@@ -1,5 +1,5 @@
 # 3. Declaration of free trade zones and appointment of authority
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) The Minister may, by notification in the Gazette, declare any area in Singapore to be a free trade zone and every such notification shall define the limits of that free trade zone.
 

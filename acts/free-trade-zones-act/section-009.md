@@ -1,9 +1,7 @@
 # 9. Written permission required for use or consumption of dutiable goods
-Part: PART II OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
+Part: PART 2 OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
 
 (1) Subject to sections 5, 6, 8 and 10, no dutiable goods shall, without the written permission of a senior officer of customs not below the rank of Assistant Director-General of Customs, be used or consumed in a free trade zone.
-
-[4/2003]
 
 (2) Subject to subsection (3), any person who contravenes subsection (1) shall be punished —
 

@@ -1,5 +1,5 @@
 # 12. Authority may permit erection of private buildings, etc.
-Part: PART III RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
+Part: PART 3 RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
 
 (1) Subject to subsections (2) and (3), the authority may permit any person to erect such buildings and other structures within the free trade zone as may be required.
 

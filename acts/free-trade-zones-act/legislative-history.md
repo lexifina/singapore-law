@@ -1,59 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY FREE TRADE ZONES ACT 1966
 
-FREE TRADE ZONES ACT (CHAPTER 114)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Free Trade Zones Act. It is not part of the Act.
+1. Act 30 of 1966 — Free Trade Zones Act, 1966 Bill : 29/1966 First Reading : 17 August 1966 Second and Third Readings : 26 August 1966 Commencement : 1 September 1969 2. Act 50 of 1970 — Customs (Amendment) Act, 1970 (Amendments made by section 29 of the above Act) Bill : 50/1970 First Reading : 4 November 1970 Second and Third Readings : 30 December 1970 Commencement : 1 February 1971 (section 29) 3. 1970 Revised Edition — Free Trade Zones Act (Chapter 140) Operation : 30 April 1971 4. 1985 Revised Edition — Free Trade Zones Act (Chapter 114) Operation : 30 March 1987 5. Act 11 of 1997 — Customs (Amendment) Act 1997 (Amendments made by section 5 of the above Act) Bill : 10/1997 First Reading : 25 August 1997 Second Reading : 7 October 1997 Notice of Amendments : 7 October 1997 Third Reading : 7 October 1997 Commencement : 17 October 1997 (section 5) 6. Act 33 of 2000 — Customs (Amendment) Act 2000 (Amendments made by section 12 of the above Act) Bill : 33/2000 First Reading : 13 November 2000 Second and Third Readings : 22 November 2000 Commencement : 1 January 2001 (section 12) 7. Act 4 of 2003 — Customs (Amendment) Act 2003 (Amendments made by section 26 read with item (10) of the Schedule to the above Act) Bill : 6/2003 First Reading : 10 March 2003 Second and Third Readings : 21 March 2003 Commencement : 1 April 2003 (section 26 read with item (10) of the Schedule) 8. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 43 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 43 of the Sixth Schedule) 9. 2014 Revised Edition — Free Trade Zones Act (Chapter 114) Operation : 31 May 2014
 
-1. Act 30 of 1966 — Free Trade Zones Act 1966
+Abbreviations
 
-Date of First Reading : 17 August 1966 (Bill No. 29/66 published on 17 August 1966)
-
-Date of Second and Third Readings : 26 August 1966
-
-Date of commencement : 1 September 1969
-
-2. 1970 Revised Edition — Free Trade Zones Act (Chapter 140)
-
-Date of operation : 30 April 1971
-
-3. Act 50 of 1970 — Customs (Amendment) Act 1970 (Consequential amendments made to Act by)
-
-Date of First Reading : 4 November 1970 (Bill No. 5/70 published on 9 November 1970)
-
-Date of Second and Third Readings : 30 December 1970
-
-Date of commencement : 1 February 1971
-
-4. 1985 Revised Edition — Free Trade Zones Act (Chapter 114)
-
-Date of operation : 30 March 1987
-
-5. Act 11 of 1997 — Customs (Amendment) Act 1997 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 August 1997 (Bill No. 10/97 published on 26 August 1997)
-
-Date of Second and Third Readings : 7 October 1997
-
-Date of commencement : 17 October 1997
-
-6. Act 33 of 2000 — Customs (Amendment) Act 2000 (Consequential amendments made to Act by)
-
-Date of First Reading : 13 November 2000 (Bill No. 33/2000 published on 13 November 2000) Date of Second and Third Readings : 22 November 2000
-
-Date of commencement : 1 January 2001
-
-7. Act 4 of 2003 — Customs (Amendment) Act 2003 (Consequential amendments made to Act by)
-
-Date of First Reading : 10 March 2003 (Bill No. 6/2003 published on 11 March 2003)
-
-Date of Second and Third Readings : 21 March 2003
-
-Date of commencement : 1 April 2003
-
-8. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

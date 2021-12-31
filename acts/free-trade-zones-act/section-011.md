@@ -1,5 +1,5 @@
 # 11. Authority to provide facilities
-Part: PART III RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
+Part: PART 3 RESPONSIBILITIES AND FUNCTIONS OF AUTHORITY
 
 (1) The Minister shall require the authority to provide and maintain in the free trade zone such facilities as he may consider necessary for the proper and efficient functioning of the free trade zone.
 

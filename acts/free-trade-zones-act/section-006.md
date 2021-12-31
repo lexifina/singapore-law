@@ -1,5 +1,5 @@
 # 6. Manipulation or manufacture in free trade zone
-Part: PART II OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
+Part: PART 2 OPERATIONS PERMITTED WITHIN FREE TRADE ZONE
 
 (1) Any person who intends to assemble, mix or otherwise manipulate any goods or to carry out such manufacture as is permitted under section 10(1) for entry into customs territory, where either the manufactured goods or the materials used in the manufacture of the goods are dutiable, shall give the Director-General notice in writing of his intention and obtain his prior written permission to do so.
 

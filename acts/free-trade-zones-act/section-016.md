@@ -1,4 +1,4 @@
 # 16. Public servants
-Part: PART IV MISCELLANEOUS PROVISIONS
+Part: PART 4 MISCELLANEOUS PROVISIONS
 
-The members of the authority shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+The members of the authority shall be deemed to be public servants within the meaning of the Penal Code 1871.

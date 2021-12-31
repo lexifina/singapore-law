@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Free Trade Zones Act.
+This Act is the Free Trade Zones Act 1966.
