@@ -1,0 +1,9 @@
+# THE SCHEDULE
+
+Sections 2 and 39
+
+PART 1 MERLION SYMBOL
+
+Section 40
+
+PART 2 BOARD’S SYMBOL

@@ -1,0 +1,60 @@
+# 44. Service of documents
+Part: PART 4 MISCELLANEOUS PROVISIONS
+
+(1) Subject to subsection (3), any notice or document required or authorised to be served under this Act or any regulations made under this Act may be served —
+
+(a) in the case of an individual —
+
+(i) by delivering it to the individual personally;
+
+(ii) by leaving it with an adult person apparently resident at, or by sending it by prepaid registered post to, the usual or last known address of the individual’s place of residence;
+
+(iii) by leaving it with an adult person apparently employed at, or by sending it by prepaid registered post to, the usual or last known address of the individual’s place of business;
+
+(iv) by affixing a copy of the notice in a conspicuous place at the usual or last known address of the individual’s place of residence or business;
+
+(v) by sending it by fax to the fax number used at the usual or last known address of the individual’s place of residence or business, or the last fax number given to the Board by the individual as the fax number for the service of documents on the individual; or
+
+(vi) by electronic communication, by sending an electronic communication of the document to the last email address given to the Board by the individual as the email address for the service of documents on the individual;
+
+(b) in the case of a partnership other than a limited liability partnership —
+
+(i) by delivering it to any one of the partners or the secretary or other like officer of the partnership;
+
+(ii) by leaving it at, or by sending it by prepaid registered post to, the principal or last known place of business of the partnership in Singapore;
+
+(iii) by sending it by fax to the fax number used at the principal or last known place of business of the partnership in Singapore; or
+
+(iv) by electronic communication, by sending an electronic communication of the document to the last email address given to the Board by the partnership as the email address for the service of documents on the partnership; and
+
+(c) in the case of a limited liability partnership or other body corporate, or an unincorporated association —
+
+(i) by delivering it to the secretary or other like officer of the body corporate or unincorporated association or, in the case of a limited liability partnership, the manager thereof;
+
+(ii) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office of the limited liability partnership, body corporate or unincorporated association in Singapore;
+
+(iii) by sending it by fax to the fax number used at the registered office or principal office of the limited liability partnership, body corporate or unincorporated association in Singapore; or
+
+(iv) by electronic communication, by sending an electronic communication of the document to the last email address given to the Board by the limited liability partnership, body corporate or unincorporated association as the email address for the service of documents on the limited liability partnership, body corporate or unincorporated association.
+
+[7/2014]
+
+(2) Where any notice or other document required or authorised to be served under this Act or any regulations made under this Act —
+
+(a) is sent by fax to a fax number in accordance with subsection (1) — it is deemed to have been duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending fax machine of a notification (by electronic or other means) of a successful transmission to the fax number;
+
+(b) is sent by electronic communication to an email address in accordance with subsection (1) — it is deemed to have been duly served on the person to whom it is addressed at the time of entering the information system addressed to the email address; and
+
+(c) is sent by prepaid registered post in accordance with subsection (1) — it is deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, whether or not it is returned undelivered.
+
+[7/2014]
+
+(3) Service of any notice or document under this Act or any regulations made under this Act on a person by electronic communication may be effected only if the person gives as part of the person’s address for service an email address.
+
+[7/2014]
+
+(4) This section does not apply to notices and documents to be served in proceedings in court.
+
+[25D
+
+[7/2014]
