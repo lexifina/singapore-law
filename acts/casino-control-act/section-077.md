@@ -1,15 +1,13 @@
-# 77. Effect of termination of controlled contract
-Part: PART IV SUPERVISION AND CONTROL OF CASINO OPERATORS Division 1 — Directions, investigations, etc.
+# 77. Effect of suspension or termination of contract
+Part: PART 4 SUPERVISION AND CONTROL OF CASINO OPERATORS Division 1 — Directions, investigations, etc.
 Division: Division 3 — Contracts
 
-If a controlled contract is terminated or deemed to be terminated in accordance with section 76 —
+If a contract is suspended, terminated or deemed to be terminated in accordance with section 76 —
 
-(a) the termination does not affect a right acquired, or a liability incurred, before that termination by a person who was a party to the contract;
+(a) the suspension or termination does not affect a right acquired, or a liability incurred, before that suspension or termination by a person who was a party to the contract;
 
-(b) no liability for breach of contract is incurred by a person who was a party to the contract by reason only of that termination;
+(b) no liability for breach of contract is incurred by a person who was a party to the contract by reason only of that suspension or termination; and
 
-and
+(c) the Authority does not incur any liability by reason of that suspension or termination.
 
-(c) the Authority does not incur any liability by reason of that termination.
-
-[Vic. CCA 1991, s. 33]
+[36/2012]

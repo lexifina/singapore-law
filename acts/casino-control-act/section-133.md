@@ -1,9 +1,9 @@
 # 133. Casino operator to bar minors from casino premises
-Part: PART VII MINORS
+Part: PART 7 MINORS
 
-(1) A casino operator shall not, without reasonable excuse, permit a minor to enter or remain on the casino premises.
+(1) A casino operator must not, without reasonable excuse, permit a minor to enter or remain on the casino premises.
 
-(2) If a minor is on the casino premises, the casino operator shall immediately notify an inspector.
+(2) If a minor is on the casino premises, the casino operator must immediately notify an inspector.
 
 (3) Any casino operator who contravenes subsection (1) or (2) shall be liable to disciplinary action.
 
@@ -13,6 +13,4 @@ Part: PART VII MINORS
 
 (a) the minor was 16 years of age or above; and
 
-(b) before the minor entered the casino premises or while the minor was on the casino premises there was produced to the casino operator or to his agent or employee acceptable proof of age for the minor.
-
-[Vic. CCA 1991, s. 85]
+(b) before the minor entered the casino premises or while the minor was on the casino premises there was produced to the casino operator, or to an agent or employee of the casino operator, acceptable proof of age for the minor.

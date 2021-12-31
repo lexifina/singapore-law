@@ -1,19 +1,19 @@
 # 176. Refusal to provide information, etc.
-Part: PART XI GENERAL OFFENCES
+Part: PART 11 GENERAL OFFENCES
 
 (1) Any person who —
 
-(a) fails, without reasonable excuse, to produce for inspection any machinery, equipment or records in the possession or under the control of the person when required to do so by an inspector or a police officer in the performance of his functions under this Act; or
+(a) without reasonable excuse, fails to produce for inspection any machinery, equipment, record or thing in the possession or under the control of the person when required to do so by an inspector or a police officer in the performance of his or her functions under this Act; or
 
-(b) fails, without reasonable excuse, to attend before an inspector or a police officer and answer questions or supply information when required to do so by the inspector or police officer in the performance of his functions under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) without reasonable excuse, fails to attend before an inspector or a police officer and answer questions or supply information when required to do so by the inspector or police officer in the performance of his or her functions under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) If a person is charged with an offence under subsection (1) in respect of a requirement to produce a document, it shall be a defence for him to prove that —
+[36/2012]
 
-(a) the document was not in his possession or under his control;
+(2) If a person is charged with an offence under subsection (1) in respect of a requirement to produce a document, it is a defence for the person to prove that —
 
-and
+(a) the document was not in the person’s possession or under the person’s control; and
 
-(b) it was not reasonably practicable for him to comply with the requirement.
+(b) it was not reasonably practicable for the person to comply with the requirement.
 
 (3) If a person is charged with an offence under subsection (1) in respect of a requirement —
 
@@ -21,4 +21,4 @@ and
 
 (b) to provide an explanation of a document; or
 
-(c) to state where a document is to be found, it shall be a defence for him to prove that he had a reasonable excuse for failing to comply with the requirement.
+(c) to state where a document is to be found, it is a defence for the person to prove that the person had a reasonable excuse for failing to comply with the requirement.

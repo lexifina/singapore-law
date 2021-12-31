@@ -1,70 +1,52 @@
-# 139. Content of approved system
-Part: PART VIII CASINO INTERNAL CONTROLS
+# 139. Customer due diligence measures to combat money laundering and terrorism financing
+Part: PART 8 CASINO INTERNAL CONTROLS
 
-(1) A system of internal controls and administrative and accounting procedures approved for the purposes of section 138 shall include (but is not limited to) details of the following:
+(1) A casino operator must, in the following circumstances, perform such customer due diligence measures to detect or prevent money laundering and the financing of terrorism as may be prescribed in regulations:
 
-(a) accounting procedures, including the standardisation of forms, and the definition of terms, to be used in the operations of a casino;
+(a) when the casino operator opens a patron account;
 
-(b) procedures, forms and, where appropriate, formulae for or with respect to —
+(b) when the casino operator enters into a cash transaction with a patron involving $10,000 or more in a single transaction;
 
-(i) hold percentages and the calculation thereof;
+(c) when the casino operator receives a sum of $5,000 or more in a single transaction to be deposited in a deposit account;
 
-(ii) revenue;
+(d) when the casino operator has a reasonable suspicion that a patron is engaged in any money laundering or terrorism financing activity;
 
-(iii) drop;
+(e) when the casino operator has doubts about the veracity or adequacy of any information previously obtained about a patron;
 
-(iv) credit;
+(f) when carrying out such other activities, or under such other circumstance, as may be prescribed.
 
-(v) complimentary services;
+[4/2014]
 
-(vi) salary arrangements; and
+(2) A casino operator must not proceed with the opening of any patron account or with any transaction for any patron account, or with any cash transaction or deposit, as the case may be —
 
-(vii) personnel practices;
+(a) if the casino operator is unable to complete the applicable customer due diligence measures for any reason;
 
-(c) job descriptions and the system of organising personnel and chain of command authority such as to establish diversity of responsibility among employees engaged in operations in a casino and identification of primary and secondary supervisory positions for areas of responsibility, which areas shall not be so extensive as to be impractical for an individual to supervise effectively;
+(b) if the patron in question is unable or unwilling to provide any information requested by the casino operator, or decides to withdraw the application for the opening of the patron account or withdraw the cash transaction or deposit when requested to provide information; or
 
-(d) procedures for the conduct and playing of games;
+(c) under such other circumstances as may be prescribed.
 
-(e) procedures for the receipt, storage and disbursement of chips and cash, the cashing of cheques, the redemption of chips and the recording of all transactions pertaining to casino operations;
+[4/2014]
 
-(f) procedures for the collection and security of money at the gaming tables and other places in a casino where games are conducted, and the transfer of such money to other areas of the casino premises for counting;
+(3) A casino operator must keep all records obtained through the customer due diligence measures taken under subsection (1), including (but not limited to) all copies or records of any identification document, accounts and business correspondence, as well as the results of any analysis undertaken.
 
-(g) procedures and forms relating to the transfer of money or chips within the casino premises;
+[4/2014]
 
-(h) procedures and security for the counting and recording of revenue;
+(4) Any casino operator which fails to comply with subsection (1),
 
-(i) procedures and security for the transfer of money from casino premises to an authorised bank and from an authorised bank to casino premises;
+(2) or (3) shall be liable to disciplinary action.
 
-(j) procedures for the security, storage and recording of chips utilised in the gaming operations within the casino premises;
+[4/2014]
 
-(k) procedures and standards for the maintenance, security and storage of gaming equipment;
+(5) In this section —
 
-(l) procedures for the payment and recording of winnings associated with games where the winnings are paid by cash or cheque;
+“cash” means currency notes and coins (whether of Singapore or of a foreign country) which are legal tender and circulate as money in the country of issue;
 
-(m) procedures for the issue of chip purchase vouchers and the recording of transactions in connection therewith;
+“patron” means any person who —
 
-(n) procedures for the cashing of cheques and recording of transactions by cheque;
+(a) opens a patron account with a casino operator; or
 
-(o) procedures for the establishment and use of deposit accounts;
+(b) is involved in a cash transaction with a casino operator within its casino premises, whether or not that person participates in gaming in the casino;
 
-(p) procedures for the use and maintenance of security and surveillance facilities, including closed circuit television systems;
+“patron account” means a credit account, a cheque cashing account, a deposit account or any other account opened by or on behalf of a patron with a casino operator.
 
-(q) procedures governing the utilisation of security personnel within the casino premises;
-
-(r) procedures for the control of keys used or for use in operations in a casino;
-
-(s) procedures and standards for assessing the suitability of suppliers of goods or services to the casino and the casino operator which may vary according to the nature of the goods or services or the nature of the suppliers of goods or services;
-
-(t) procedures for maintaining records of the suppliers of goods and services;
-
-(u) procedures for the promotion and conduct of junkets and arrangements for premium players;
-
-(v) procedures to comply with prescribed anti-money-laundering measures; and
-
-(w) procedures to discourage and prevent corrupt practices.
-
-(2) For the purposes of an approval or amendment of an approval, controls and procedures may be described narratively or represented diagrammatically, or by a combination of both methods.
-
-(3) The Authority may, from time to time, by notice in writing to a casino operator, require details relating to other aspects of the casino operations to be included in the approved system.
-
-[Vic. CCA 1991, s. 122]
+[4/2014]

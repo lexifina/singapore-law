@@ -1,8 +1,8 @@
 # 9. Functions and duties of Authority
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 Division: Division 2 — Functions, duties and powers of Authority
 
-(1) Subject to the provisions of this Act, the functions and duties of the Authority shall be to —
+(1) Subject to the provisions of this Act, the functions and duties of the Authority are to —
 
 (a) license and regulate the operation of casinos;
 
@@ -32,8 +32,6 @@ Division: Division 2 — Functions, duties and powers of Authority
 
 (e) perform such other functions as are conferred or imposed on the Authority by or under this Act or any other written law.
 
-(2) The Authority may undertake such other functions and duties as the Minister may assign to the Authority and in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Authority in respect of such functions and duties.
+(2) The Authority may undertake such other functions and duties as the Minister may assign to the Authority and in so doing, the Authority is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Authority in respect of such functions and duties.
 
-(3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
-
-[Vic. CCA 1991, s. 141]
+(3) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.

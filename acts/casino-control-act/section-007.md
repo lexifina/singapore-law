@@ -1,12 +1,12 @@
 # 7. Constitution of Authority
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 
-(1) The Authority shall consist of the following members:
+(1) The Authority consists of the following members:
 
-(a) a Chairman; and
+(a) a Chairperson;
 
-(b) such other members, not being less than 4 or more than 16, as the Minister may, from time to time, determine.
+(b) such other members, not being less than 4 or more than 16, as the Minister may determine.
 
-(2) The Schedule shall have effect with respect to the Authority, its members and its proceedings.
+(2) The First Schedule has effect with respect to the Authority, its members and its proceedings.
 
-Division 2 — Functions, duties and powers of Authority
+[36/2012]

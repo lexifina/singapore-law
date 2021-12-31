@@ -1,8 +1,6 @@
 # 53. Transfer, mortgage, etc., of casino licence
-Part: PART III LICENSING OF CASINOS
+Part: PART 3 LICENSING OF CASINOS
 
-(1) No casino licence shall be transferable except with the prior approval in writing of the Authority.
+(1) A casino licence is not transferable except with the prior approval in writing of the Authority.
 
-(2) A casino operator shall not mortgage, charge or otherwise encumber the casino licence except with the prior approval in writing of the Authority.
-
-[Vic. CCA 1991, s. 19]
+(2) A casino operator must not mortgage, charge or otherwise encumber the casino licence except with the prior approval in writing of the Authority.

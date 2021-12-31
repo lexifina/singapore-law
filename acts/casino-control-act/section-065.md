@@ -1,17 +1,21 @@
-# 65. Control of substantial shareholdings in casino operator
-Part: PART IV SUPERVISION AND CONTROL OF CASINO OPERATORS Division 1 — Directions, investigations, etc.
+# 65. Control of substantial shareholdings in corporation with casino licence
+Part: PART 4 SUPERVISION AND CONTROL OF CASINO OPERATORS Division 1 — Directions, investigations, etc.
 Division: Division 2 — Controlled shareholdings
 
-(1) No person shall, on or after the appointed day —
+(1) A person must not, on or after the relevant date in relation to a corporation —
 
-(a) become a substantial shareholder of a casino operator; or
+(a) become a substantial shareholder of that corporation; or
 
-(b) enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of 5% or more of the total votes attached to all voting shares in a casino operator, without first obtaining the approval of the Minister.
+(b) enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of 5% or more of the total votes attached to all voting shares in that corporation, without first obtaining the approval of the Minister.
 
-(2) Subject to section 67 (4), no person who —
+[36/2012]
 
-(a) immediately before the appointed day, is a substantial shareholder of a casino operator shall continue to be such a shareholder unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder; or
+(2) Subject to section 67(4), a person who —
 
-(b) at any time before the appointed day, has entered into any agreement or arrangement referred to in subsection (1) (b) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after the appointed day or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
+(a) immediately before the relevant date in relation to a corporation, is a substantial shareholder of that corporation must not continue to be such a shareholder unless the person has, within 6 months after the relevant date or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder;
 
-[Banking Act, s. 15A]
+or
+
+(b) at any time before the relevant date, has entered into any agreement or arrangement referred to in subsection (1)(b) must not continue to be a party to such an agreement or arrangement unless the person has, within 6 months after the relevant date or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
+
+[36/2012]

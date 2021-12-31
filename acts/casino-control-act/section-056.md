@@ -1,9 +1,9 @@
 # 56. Appointment of manager if casino licence cancelled, surrendered or suspended
-Part: PART III LICENSING OF CASINOS
+Part: PART 3 LICENSING OF CASINOS
 
 (1) If a casino licence is cancelled, surrendered or suspended, the Authority may, with the approval of the Minister, appoint a manager of the casino for the purposes of this section.
 
-(2) In appointing a person to be a manager, the Authority shall have regard to the suitability of the person.
+(2) In appointing a person to be a manager, the Authority must have regard to the suitability of the person.
 
 (3) A manager is appointed on such terms and conditions as the Authority thinks fit.
 
@@ -17,7 +17,7 @@ Part: PART III LICENSING OF CASINOS
 
 (b) assumes full control of and responsibility for the business of the casino operator in respect of the casino and may retain for use in the casino any property of the casino operator;
 
-(c) shall conduct, or cause to be conducted, casino operations in accordance with this Act;
+(c) must conduct, or cause to be conducted, casino operations in accordance with this Act;
 
 (d) has, in connection with the conduct of those operations, all the functions of the casino operator; and
 
@@ -31,6 +31,4 @@ Part: PART III LICENSING OF CASINOS
 
 (b) the former casino operator is entitled to a fair rate of return out of net earnings (if any) on any property of the former casino operator retained by the manager;
 
-(c) the Authority may direct that all or any part of net earnings (other than that referred to in paragraph (b)) shall be paid to the Authority, with any balance to be paid to the former casino operator.
-
-[Vic. CCA 1991, s. 22]
+(c) the Authority may direct that all or any part of net earnings (other than that referred to in paragraph (b)) must be paid to the Authority, with any balance to be paid to the former casino operator.

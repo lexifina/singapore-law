@@ -1,5 +1,5 @@
 # 127. Removal of excluded persons from casino premises
-Part: PART VI CASINO OPERATIONS Division 1 — Casino layout, games, gaming machines, etc.
+Part: PART 6 CASINO OPERATIONS Division 1 — Casino layout, games, gaming machines, etc.
 Division: Division 4 — Entry to casino premises
 
 (1) This section applies to the following persons on any casino premises:
@@ -10,7 +10,7 @@ Division: Division 4 — Entry to casino premises
 
 (c) a casino employee.
 
-(2) A person to whom this section applies who knows that an excluded person is about to enter or is on the casino premises shall —
+(2) A person to whom this section applies who knows that an excluded person is about to enter or is on the casino premises must —
 
 (a) notify an inspector as soon as practicable; and
 
@@ -25,5 +25,3 @@ Division: Division 4 — Entry to casino premises
 (a) liable to disciplinary action, in the case of a casino operator or a licensed special employee; or
 
 (b) guilty of an offence, in any other case.
-
-[Vic. CCA 1991, s. 78]

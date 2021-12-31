@@ -1,14 +1,22 @@
-# 138. Approved system of controls and procedures to be implemented
-Part: PART VIII CASINO INTERNAL CONTROLS
+# 138. Approved system of controls to be implemented
+Part: PART 8 CASINO INTERNAL CONTROLS
 
-(1) A casino operator shall not conduct operations in the casino unless the Authority has approved in writing of a system of internal controls and administrative and accounting procedures for the casino.
+(1) A casino operator must establish and implement a system of internal controls for the casino operations which satisfies the prescribed internal controls requirements.
 
-(2) Any such approval may be amended from time to time as the Authority thinks fit.
+[36/2012]
 
-(3) An approval or amendment of an approval under this section takes effect when notice of it is given in writing to the casino operator concerned, or on a later date specified in the notice.
+(2) The Authority may require a casino operator to submit any part of the casino operator’s system of internal controls for approval by the Authority.
 
-(4) The casino operator shall ensure that the system approved for the time being under this section for the casino is implemented.
+[36/2012]
 
-(5) Any casino operator who fails to comply with subsection (1) or (4) shall be liable to disciplinary action.
+(3) Any approved internal controls must remain in force until amended or substituted with the approval of the Authority.
 
-[Vic. CCA 1991, s. 121]
+[36/2012]
+
+(4) The casino operator must ensure that the system of internal controls or part thereof approved for the time being under this section for the casino is implemented.
+
+[36/2012]
+
+(5) Any casino operator who fails to comply with subsection (1) or
+
+(4) shall be liable to disciplinary action.

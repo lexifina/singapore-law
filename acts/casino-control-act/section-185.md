@@ -1,6 +1,6 @@
 # 185. No right to compensation for cancellation, etc.
-Part: PART XII ENFORCEMENT POWERS AND PROCEEDINGS
+Part: PART 12 ENFORCEMENT POWERS AND PROCEEDINGS
 
-Subject to section 4, no right to compensation enforceable against the Authority arises in relation to the cancellation, suspension or variation of the terms of any licence, or an amendment of the conditions of any licence, under this Act.
+Subject to section 4, no right to compensation enforceable against the Authority arises in relation to the cancellation, suspension or variation of the terms of any licence or approval, or an amendment of the conditions of any licence or approval, under this Act.
 
-[Vic. CCA 1991, s. 156]
+[36/2012]

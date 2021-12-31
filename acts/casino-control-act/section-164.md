@@ -1,34 +1,23 @@
-# 164. Making family exclusion order in respondent’s absence
-Part: PART X NATIONAL COUNCIL ON PROBLEM GAMBLING
+# 164. Provisional family exclusion order
+Part: PART 10 NATIONAL COUNCIL ON PROBLEM GAMBLING Division 1 — Interpretation
+Division: Division 3 — Family exclusion orders, visit limits and other exclusion orders
 
-(1) A family exclusion order may be made in the absence of the respondent if the respondent was required by summons to appear at the hearing of the application and failed to appear at the time and place appointed for the purpose.
+(1) Where, upon an application for a family exclusion order under section 159, a Committee is satisfied that the respondent has caused serious harm to family members having regard to section 162(2) and further harm to family members is imminent, the Committee may make a provisional family exclusion order, even though —
 
-(2) A Committee may from time to time, without requiring the attendance of any party, adjourn the hearing to which a respondent is summoned to a later date if satisfied that the summons has not been served or that there is other adequate reason for the adjournment.
+(a) a hearing has not been held under section 158 to determine the application for the family exclusion order; or
 
-(3) The date fixed in the first instance for the hearing to which the respondent is summoned must be within 28 days of the date of the application.
+(b) a summons has not been served on the respondent to appear at the hearing under section 158.
 
-(4) The date fixed for an adjourned hearing must be within 28 days of the date on which the adjournment is ordered unless the Committee is satisfied that —
+[36/2012]
 
-(a) a later date is required to enable the summons to be served;
+(2) A provisional family exclusion order takes effect on the date on which the provisional family exclusion order is served on the respondent or such later date as the Committee may specify in the order, but ceases to have effect on whichever of the following dates occurs first:
 
-or
+(a) the date of the conclusion of the hearing under section 158 to which the respondent is summoned or, if the hearing is adjourned, the conclusion of the adjourned hearing;
 
-(b) there is other adequate reason for fixing a later date.
+(b) the 28th day after the date of the making of the provisional family exclusion order, or such later date as the Committee may determine in any particular case.
 
-(5) An order made under this section —
+[36/2012]
 
-(a) continues in force until the conclusion of the hearing to which the respondent is summoned or, if the hearing is adjourned, until the conclusion of the adjourned hearing; but
+(3) The Committee which makes or extends a provisional family exclusion order under this section need not comprise the same members as the Committee which hears the application for the family exclusion order under section 158.
 
-(b) will not be effective after the conclusion of the hearing to which the respondent is summoned or the adjourned hearing unless the Committee confirms the order —
-
-(i) on the failure of the respondent to appear at the hearing in obedience to the summons;
-
-(ii) having considered any evidence given by or on behalf of the respondent; or
-
-(iii) with the consent of the respondent.
-
-(6) A Committee may confirm a family exclusion order in an amended form.
-
-(7) If a hearing is adjourned, the Committee at the adjourned hearing need not be constituted of the same members as constituted the Committee when it ordered the adjournment.
-
-[SA Problem Gambling 2004, s. 9]
+[36/2012]

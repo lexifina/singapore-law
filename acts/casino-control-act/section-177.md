@@ -1,5 +1,5 @@
 # 177. Destroying or falsifying documents
-Part: PART XI GENERAL OFFENCES
+Part: PART 11 GENERAL OFFENCES
 
 Any person who, having been required to produce a document to the Authority, an inspector or an authorised person under this Act —
 

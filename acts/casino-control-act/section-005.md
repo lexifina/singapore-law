@@ -1,10 +1,10 @@
 # 5. Establishment and incorporation of Casino Regulatory Authority of Singapore
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 
-There is hereby established a body to be known as the Casino Regulatory Authority of Singapore which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+A body called the Casino Regulatory Authority of Singapore is established, which is a body corporate with perpetual succession and is by that name capable of —
 
 (a) suing and being sued;
 
 (b) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and
 
-(c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
+(c) doing and suffering any other acts or things that bodies corporate may lawfully do and suffer.

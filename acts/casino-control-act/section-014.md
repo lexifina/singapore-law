@@ -1,5 +1,5 @@
 # 14. Functions of inspectors
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 Division: Division 3 — Provisions relating to staff and inspectors
 
 The functions of an inspector are as follows:
@@ -20,8 +20,4 @@ The functions of an inspector are as follows:
 
 (e) to report to the Authority regarding the operations of a casino;
 
-and
-
 (f) to perform any other functions as are conferred on inspectors under this Act.
-
-[Vic. CCA 1991, s. 106; Vic. Gam. RA 2003, s. 10.5.7]

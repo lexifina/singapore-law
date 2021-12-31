@@ -1,21 +1,21 @@
 # 13. Appointment of Chief Executive and other employees, etc.
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 Division: Division 3 — Provisions relating to staff and inspectors
 
-(1) The Authority shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Authority may determine.
+(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[5/2018]
 
-(a) be known by such designation as the Authority may determine;
+(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) be responsible to the Authority for the proper administration and management of the functions and affairs of the Authority in accordance with the policy laid down by the Authority; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2) (c).
+[5/2018]
 
-(4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Authority to act in the place of the Chief Executive during any such period of absence from duty.
+(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants, inspectors and agents as may be necessary for the effective performance of its functions.
 
-(5) The Authority may, from time to time, appoint and employ on such terms and conditions as the Authority may determine such officers, employees, consultants, inspectors and agents as may be necessary for the effective performance of its functions and discharge of its duties.
+[5/2018]
 
-(6) The Authority may, from time to time, authorise any person to perform any function or duty or to exercise any power under this Act.
+(4) The Authority may authorise any person to perform any function or duty or to exercise any power under this Act.

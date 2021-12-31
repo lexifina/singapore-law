@@ -1,9 +1,9 @@
 # 45. Matters to be considered in determining applications
-Part: PART III LICENSING OF CASINOS
+Part: PART 3 LICENSING OF CASINOS
 
-(1) The Authority shall not grant an application for a casino licence unless the Authority is satisfied that the applicant, and each associate of the applicant, is a suitable person to be concerned in or associated with the management and operation of a casino.
+(1) The Authority must not grant an application for a casino licence unless the Authority is satisfied that the applicant, and each associate of the applicant, is a suitable person to be concerned in or associated with the management and operation of a casino.
 
-(2) In particular, the Authority shall consider whether —
+(2) In particular, the Authority must consider whether —
 
 (a) each such person is of good repute, having regard to character, honesty and integrity;
 
@@ -19,8 +19,14 @@ Part: PART III LICENSING OF CASINOS
 
 (g) each director, partner, trustee, executive officer and secretary and any other officer or person determined by the Authority to be associated or connected with the ownership, administration or management of the operations or business of the applicant is a suitable person to act in that capacity;
 
-(h) any person proposed to be engaged or appointed to manage or operate the casino is a suitable person to act in that capacity; and
+(h) any person proposed to be engaged or appointed to manage or operate the casino is a suitable person to act in that capacity;
 
-(i) any other matter that may be prescribed.
+(i) the applicant is a suitable person to develop, maintain and promote the integrated resort (of which the casino is a part) as a compelling tourist destination which meets prevailing market demand and industry standards and contributes to the tourism industry in Singapore; and
 
-[Vic. CCA 1991, s. 9]
+(j) any other matter that may be prescribed.
+
+[36/2012]
+
+(3) The Authority must, in determining the matter set out in subsection (2)(i), have regard to the opinion of the evaluation panel under section 45A.
+
+[36/2012]

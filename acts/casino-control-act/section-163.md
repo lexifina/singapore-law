@@ -1,9 +1,10 @@
 # 163. Terms of family exclusion order
-Part: PART X NATIONAL COUNCIL ON PROBLEM GAMBLING
+Part: PART 10 NATIONAL COUNCIL ON PROBLEM GAMBLING Division 1 — Interpretation
+Division: Division 3 — Family exclusion orders, visit limits and other exclusion orders
 
 (1) A family exclusion order —
 
-(a) shall specify the period during which it is in force; and
+(a) must specify the period during which it is in force; and
 
 (b) may apply for the benefit of all of the respondent’s family members or specified family members.
 
@@ -16,5 +17,3 @@ Part: PART X NATIONAL COUNCIL ON PROBLEM GAMBLING
 (c) require the respondent to close any deposit account in a casino;
 
 (d) require a casino operator to close any deposit account of the respondent with the casino.
-
-[SA Problem Gambling 2004, s. 5]

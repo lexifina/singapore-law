@@ -1,5 +1,5 @@
 # 195. General penalty
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
 (1) Any casino operator guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $100,000.
 

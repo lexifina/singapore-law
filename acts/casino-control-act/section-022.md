@@ -1,8 +1,8 @@
 # 22. Power to borrow
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 Division: Division 4 — Financial provisions
 
-(1) For the performance of its functions or discharge of its duties under this Act or any other written law, the Authority may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
+(1) For the performance of its functions or discharge of its duties under this Act or any other written law, the Authority may raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
 
 (a) mortgage, overdraft or other means, with or without security;
 
@@ -10,4 +10,4 @@ Division: Division 4 — Financial provisions
 
 (c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
-(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods, materials or things.
+(2) For the purposes of this section, the power to raise loans includes the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods, materials or things.

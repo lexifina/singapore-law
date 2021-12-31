@@ -1,57 +1,71 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘appointed day’’ means —
+“authorised bank” means any bank authorised by the Authority for the purposes of this Act;
 
-(a) in relation to this Act, the date of commencement of this Act; and
+“authorised person” means any person authorised to perform any function or duty or to exercise any power under section 13(4);
 
-(b) in relation to a particular provision of this Act, the date of commencement of that particular provision;
+“Authority” means the Casino Regulatory Authority of Singapore established under section 5;
 
-‘‘authorised bank’’ means any bank authorised by the Authority for the purposes of this Act;
+“casino” means any premises, or part of premises, within a designated site where persons may participate in one or more games approved by the Authority under section 100;
 
-‘‘authorised person’’ means any person authorised to perform any function or duty or to exercise any power under section 13 (6);
+“casino employee” means an employee having functions in or in relation to a casino;
 
-‘‘Authority’’ means the Casino Regulatory Authority of Singapore established under section 5;
+“casino licence” means a casino licence granted under section 49 that is in force;
 
-‘‘casino’’ means any premises, or part of premises, within a designated site where persons may participate in one or more games approved by the Authority in any order published under section 100;
+“casino marketing arrangement” means an arrangement whereby a person organises, promotes or facilitates the playing of any game in a casino by one or more patrons, for which the first-mentioned person receives from the casino operator or from the person for the time being in charge of the casino —
 
-‘‘casino employee’’ means an employee having functions in or in relation to a casino;
+(a) a commission based on the turnover of play in the casino attributable to the patron or patrons or otherwise derived from the play of the patron or patrons;
 
-‘‘casino licence’’ means a casino licence granted under section 49 that is in force;
+(b) a share of the casino operator’s gross gaming revenue from the patron or patrons; or
 
-‘‘casino operator’’ means a person who is the holder of a casino licence;
+(c) such other form of payment or rebate, monetary or otherwise, as may be prescribed;
 
-‘‘casino premises’’ means the casino premises referred to in section 51;
+“casino operator” means a person who is the holder of a casino licence;
 
-‘‘Chairman’’ means the Chairman of the Authority and includes any temporary Chairman of the Authority;
+“casino premises” means the casino premises referred to in section 51;
 
-‘‘Chief Executive’’ means the Chief Executive of the Authority appointed under section 13 and includes any person acting in that capacity;
+“Chairperson” means the Chairperson of the Authority and includes any temporary Chairperson of the Authority;
 
-‘‘chips’’ means any tokens used instead of money for the purpose of gaming;
+“Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;
 
-‘‘corporation’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“chip purchase voucher” means a voucher issued by a casino operator to a patron named in the voucher entitling the patron to be issued with chips of an equivalent value to that specified in the voucher;
 
-‘‘Council’’ means the National Council on Problem Gambling established under section 154;
+“chips” means any tokens used instead of money for the purpose of gaming and includes any voucher or other instrument that has a fixed dollar wagering value;
 
-‘‘deposit account’’ means an account established under section 108 (2);
+“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) of the Income Tax Act 1947 and includes, for all purposes of this Act except the exercise of the powers conferred on the Comptroller by sections 146A(2) and 152, a Deputy Comptroller or an Assistant Comptroller appointed under section 3(1) of the Income Tax Act 1947;
 
-‘‘designated site’’ means any parcel or parcels of land designated by the Minister under subsection (2) as a site on which a casino may be located;
+“corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘electronic monitoring system’’ means any electronic or computer or communications system or device that is so designed that it may be used, or adapted, to send or receive data from gaming equipment in relation to the security, accounting or operation of gaming equipment;
+“Council” means the National Council on Problem Gambling established under section 154;
 
-‘‘employ’’ includes engage under a contract for services;
+“deposit account” means an account established under section 108(2);
 
-‘‘excluded person’’ means a person barred from entering or remaining on any casino premises by —
+“designated site” means any parcel or parcels of land designated by the Minister under subsection (2) as a site on which a casino may be located;
 
-(a) an exclusion order under section 120, 121 or 122; or
+“Development Agreement” means an agreement in writing by a statutory body to lease a designated site to a person (referred to hereinafter as the lessee) for the development of an integrated resort thereon by the lessee on the terms and conditions stated in the agreement, and includes any supplemental agreement or other document amplifying or modifying those terms and conditions;
 
-(b) a family exclusion order or exclusion order under Part X;
+“electronic monitoring system” means any electronic or computer or communications system or device that is so designed that it may be used, or adapted, to send or receive data from gaming equipment in relation to the security, accounting or operation of gaming equipment;
 
-‘‘game’’ means a game of chance or a game that is partly a game of chance and partly a game requiring skill;
+“electronic table game” means a gaming machine used for the purpose of playing a game traditionally played at tables, and includes any electronic device through which bets may be placed on a game played at a table;
 
-‘‘gaming equipment’’ means any device or thing (including chips) used, or capable of being used, for or in connection with gaming and includes —
+“employ” includes engage under a contract for services;
+
+“excluded person” means a person barred from entering or remaining on any casino premises by —
+
+(a) an exclusion order under section 120, 121 or 122;
+
+(b) a family exclusion order, provisional family exclusion order or exclusion order under Part 10;
+
+(c) section 165A; or
+
+(d) section 165D for the remainder of any month by reason of the person having made the maximum number of visits to any casino for the month as specified by a visit limit imposed on him or her;
+
+“game” means a game of chance or a game that is partly a game of chance and partly a game requiring skill;
+
+“gaming equipment” means any device or thing (including chips) used, or capable of being used, for or in connection with gaming and includes —
 
 (a) a gaming machine;
 
@@ -61,23 +75,29 @@ Part: PART I PRELIMINARY
 
 (d) a part of, or a replacement part for, any such machine, equipment or system;
 
-‘‘gaming machine’’ means any device, whether wholly or partly mechanically or electronically operated, that is so designed that —
+“gaming machine” means any device, whether wholly or partly mechanically or electronically operated, that is so designed that —
 
 (a) it may be used for the purpose of playing a game of chance or a game of mixed chance and skill; and
 
 (b) as a result of making a bet on the device, winnings may become payable, and includes any machine declared by the Authority to be a gaming machine;
 
-‘‘inspector’’ means an inspector appointed under section 13 (5);
+“Inland Revenue Authority of Singapore” means the Inland Revenue Authority of Singapore established under section 3 of the Inland Revenue Authority of Singapore Act 1992;
 
-‘‘jackpot’’ means the combination of letters, numbers, symbols or representations required to be displayed on the reels or video screen of a gaming machine so that the winnings in accordance with the prize payout scale displayed on the machine are payable from money which accumulates as contributions are made to a special prize pool;
+“inspector” means an inspector appointed under section 13(3);
 
-‘‘junket’’ means an arrangement whereby a person or a group of persons is introduced to a casino operator by a junket promoter who receives a commission or other payment from the casino operator or the person for the time being in charge of the casino;
+“integrated resort” means a development comprising hotel, retail, dining, entertainment, recreation and other facilities, and of which a casino may be a part;
 
-‘‘junket player’’ means a person who participates in a junket, whether or not the person is also a premium player;
+“international market agent” means a person, other than an employee of a casino operator, who performs any of the functions specified in section 110A(2) in relation to one or more casino marketing arrangements;
 
-‘‘junket promoter’’ means a person who organises or promotes a junket;
+“international market agent licence” means a licence issued by the Authority to an international market agent under section 110B;
 
-‘‘linked jackpot arrangement’’ means an arrangement whereby 2 or more gaming machines are linked to a device that —
+“international market agent representative” means an individual who is employed by an international market agent to organise, promote or conduct a casino marketing arrangement on behalf of the international market agent;
+
+“international market agent representative licence” means a licence issued by the Authority to an international market agent representative under section 110B;
+
+“jackpot” means the combination of letters, numbers, symbols or representations required to be displayed on the reels or video screen of a gaming machine so that the winnings in accordance with the prize payout scale displayed on the machine are payable from money which accumulates as contributions are made to a special prize pool;
+
+“linked jackpot arrangement” means an arrangement whereby 2 or more gaming machines are linked to a device that —
 
 (a) records, from time to time, an amount which, in the event of a jackpot or other result being obtained on one of those machines, may be payable, or part of which may be payable, as winnings;
 
@@ -85,13 +105,15 @@ Part: PART I PRELIMINARY
 
 (c) is not capable of affecting the outcome of a game on a gaming machine to which the device is linked;
 
-‘‘linked jackpot equipment’’ means any jackpot meter, payout display, linking equipment, computer equipment, programming or other device (other than a gaming machine) forming, or capable of forming, part of a linked jackpot arrangement;
+“linked jackpot equipment” means any jackpot meter, payout display, linking equipment, computer equipment, programming or other device (other than a gaming machine) forming, or capable of forming, part of a linked jackpot arrangement;
 
-‘‘member’’ means a member of the Authority;
+“match play coupon” means a coupon issued by a casino operator to a patron which, when presented by the patron together with chips in any wager, augments the patron’s wager according to a ratio, percentage or value specified in the coupon;
 
-‘‘Minister’’, except in Parts IX and X, means the Minister for Home Affairs;
+“member” means a member of the Authority;
 
-‘‘operations’’, in relation to a casino, means —
+“Minister”, except in section 45A and Parts 9 and 10, means the Minister for Home Affairs;
+
+“operations”, in relation to a casino, means —
 
 (a) the conduct of gaming in the casino;
 
@@ -107,17 +129,23 @@ and
 
 (f) other matters affecting or arising out of activities in the casino;
 
-‘‘owner’’, in relation to a designated site, means the person who is registered in the land-register under the Land Titles Act (Cap. 157) as the purchaser of a leasehold interest in the designated site;
+“owner”, in relation to a designated site, means the person who is registered in the land-register under the Land Titles Act 1993 as the purchaser of a leasehold interest in the designated site or, if no one has been registered in the land-register, the person who has entered into a Development Agreement to lease the designated site;
 
-‘‘premium player’’ means a patron of a casino who maintains a deposit account with the casino operator with a credit balance of not less than $100,000 before the commencement of play by him in the casino;
+“premium player” means a patron of a casino who opens a deposit account with the casino operator with a credit balance of not less than $100,000, where —
 
-‘‘record’’ includes any book, account, document, paper or other source of information compiled, recorded or stored in written form, or on microfilm, or by electronic process, or in any other matter or by any other means;
+(a) the deposit is in such form as may be prescribed;
 
-‘‘share’’ includes stock except where a distinction between stock and shares is express or implied;
+(b) the period during which the credit balance in the deposit account is below $100,000 does not exceed such period as may be prescribed; and
 
-‘‘special employee’’ means a person who —
+(c) the deposit account fulfils such other conditions as may be prescribed;
 
-(a) is employed or working in a casino in a managerial capacity or who is authorised to make decisions, involving the exercise of his discretion, that regulate the operations of a casino; or
+“record” includes any book, account, document, paper or other source of information compiled, recorded or stored in written form, or on microfilm, or by electronic process, or in any other matter or by any other means;
+
+“share” includes stock except where a distinction between stock and shares is express or implied;
+
+“special employee” means a person, whether or not an employee of a casino operator, who —
+
+(a) is employed or working in a casino in a managerial capacity or who is authorised to make decisions, involving the exercise of his or her discretion, that regulate the operations of a casino; or
 
 (b) is employed or working in a casino in any capacity relating to any of the following activities:
 
@@ -135,13 +163,15 @@ and
 
 (vii) the supervision of any of the above activities;
 
-(viii) any other activity relating to the operations of the casino that is specified by the Authority for the purposes of this definition by notice in writing given to the casino operator;
+(viii) any other activity relating to the operations of the casino that is specified by the Authority for the purposes of this definition by written notice given to the casino operator;
 
-‘‘special employee licence’’ means a special employee licence issued by the Authority under Part V;
+“special employee licence” means a special employee licence issued by the Authority under Part 5;
 
-‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50).
+“voting share” has the meaning given by section 4(1) of the Companies Act 1967.
 
-(2) For the purposes of this Act, the Minister may, by order published in the Gazette —
+[22/2009; 4/2010; 36/2012; 5/2018]
+
+(2) For the purposes of this Act, the Minister may, by order in the Gazette —
 
 (a) designate any parcel or parcels of land as a site on which a casino may be located for such period as may be specified in the order; and
 
@@ -152,5 +182,3 @@ and
 (a) a reference to a function includes a reference to a power, authority or duty; and
 
 (b) a reference to the exercise of a function includes, in relation to a duty, a reference to the performance of the duty.
-
-[Vic. CCA 1991, ss. 3, 37]

@@ -1,8 +1,8 @@
 # 18. Funds and property of Authority
-Part: PART II CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
+Part: PART 2 CASINO REGULATORY AUTHORITY OF SINGAPORE Division 1 — Establishment, incorporation and constitution of Authority
 Division: Division 4 — Financial provisions
 
-The funds and property of the Authority shall consist of —
+The funds and property of the Authority consist of —
 
 (a) grants made under section 21;
 
