@@ -2,7 +2,7 @@
 
 Section 9
 
-PROVISIONS OF THE AGREEMENT HAVING THE FORCE OF LAW
+PROVISIONS OF AGREEMENT HAVING THE FORCE OF LAW
 
 CHAPTER VIII
 
@@ -13,6 +13,8 @@ Article 48
 PURPOSE OF CHAPTER
 
 To enable the Bank effectively to fulfil its purpose and carry out the functions entrusted to it, the status, immunities, exemptions and privileges set forth in this Chapter shall be accorded to the Bank in the territory of each member.
+
+THE SCHEDULE — continued
 
 Article 49
 
@@ -25,8 +27,6 @@ The Bank shall possess full juridical personality and, in particular, full capac
 (ii) to acquire, and dispose of, immovable and movable property; and
 
 (iii) to institute legal proceedings.
-
-THE SCHEDULE — continued
 
 Article 50
 
@@ -82,11 +82,11 @@ Article 56
 
 EXEMPTION FROM TAXATION
 
-1. The Bank, its assets, property, income and its operations and transactions, shall be exempt from all taxation and from all customs duties. The Bank shall also be THE SCHEDULE — continued
+1. The Bank, its assets, property, income and its operations and transactions, shall be exempt from all taxation and from all customs duties. The Bank shall also be exempt from any obligation for the payment, withholding or collection of any tax or duty.
 
-exempt from any obligation for the payment, withholding or collection of any tax or duty.
+2. No tax shall be levied on or in respect of salaries and emoluments paid by the Bank to Directors, alternates, officers or employees of the Bank, including experts performing missions for the Bank, except where a member deposits with its THE SCHEDULE — continued
 
-2. No tax shall be levied on or in respect of salaries and emoluments paid by the Bank to Directors, alternates, officers or employees of the Bank, including experts performing missions for the Bank, except where a member deposits with its instrument of ratification or acceptance a declaration that such member retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to citizens or nationals of such member.
+instrument of ratification or acceptance a declaration that such member retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to citizens or nationals of such member.
 
 3. No tax of any kind shall be levied on any obligation or security issued by the Bank, including any dividend or interest thereon, by whomsoever held:
 
@@ -100,7 +100,7 @@ exempt from any obligation for the payment, withholding or collection of any tax
 
 (ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.
 
-........................................
+. ........................................ .
 
 Article 58
 
