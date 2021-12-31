@@ -1,4 +1,4 @@
 # 10. Public servants
-Part: PART III APPOINTMENT OF DIRECTOR AND OTHER OFFICERS
+Part: PART 3 APPOINTMENT OF DIRECTOR AND OTHER OFFICERS
 
-The Director and all Monument Inspectors shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+The Director and all Monument Inspectors are deemed to be public servants for the purposes of the Penal Code 1871.

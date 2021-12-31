@@ -1,20 +1,22 @@
-# 18. Enforcement notice 1
-Part: PART IV PROVISIONS FOR PRESERVATION OF MONUMENTS
+# 18. Enforcement notice
+Part: PART 4 PROVISIONS FOR PRESERVATION OF MONUMENTS
 
 If the Board is satisfied —
 
-(a) that section 15(1) has been or is being contravened in respect of any national monument; or
+(a) that section 15(1) or (1A) has been or is being contravened in respect of a national monument or proposed national monument; or
 
-(b) that any operation or activity being carried out by any person in relation to a national monument has caused or is likely to cause danger or damage to the national monument, the Board may, by notice in writing (referred to hereinafter as an enforcement notice), require —
+(b) that a national monument or proposed national monument is, due to any operation or activity by any person, at risk of or is actually being destroyed, removed, damaged or altered, the Board may, by notice in writing (called an enforcement notice), require —
 
-(i) the owner or occupier of the national monument;
+(c) the owner or occupier of the national monument or proposed national monument;
 
-(ii) the person who committed or is committing the contravention; or
+(d) the person who committed or is committing the contravention; or
 
-(iii) the person who carried out or is carrying out the operation or activity, to do any or all of the following within the time specified in the notice:
+(e) the person who carried out or is carrying out the operation or activity, to do all or any of the following within the time specified in the enforcement notice:
 
-(A) to stop carrying out in relation to the national monument such operation or activity as may be specified in the enforcement notice;
+(f) to stop carrying out in relation to the national monument or proposed national monument any operation or activity that may be specified in the enforcement notice;
 
-(B) to stop using the national monument for such purposes as may be specified in the enforcement notice;
+(g) to stop using the national monument or proposed national monument for any purpose that may be specified in the enforcement notice;
 
-(C) to take, at his own expense, such protective, remedial or other measures in relation to the national monument as may be specified in the enforcement notice.
+(h) to take, at the own expense of the owner, occupier or person given the enforcement notice, any protective, remedial or other measures in relation to the national monument or proposed national monument that may be specified in the enforcement notice.
+
+[36/2021]

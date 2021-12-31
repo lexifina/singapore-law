@@ -1,69 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PRESERVATION OF MONUMENTS ACT 2009
 
-PRESERVATION OF MONUMENTS ACT (CHAPTER 239)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Preservation of Monuments Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 45 of 1970 — Preservation of Monuments Act 1970
+LEGISLATIVE HISTORY DETAILS PART 1 PRESERVATION OF MONUMENTS ACT (CHAPTER 239, 1985 REVISED EDITION) 1. Act 45 of 1970 — Preservation of Monuments Act, 1970 Bill : 38/1970 First Reading : 2 September 1970 Second Reading : 4 November 1970 Notice of Amendments : 4 November 1970 Third Reading : 4 November 1970 Commencement : 29 January 1971 2. 1970 Revised Edition — Preservation of Monuments Act (Chapter 315) Operation : 31 August 1971 3. Act 35 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 4) Act, 1973 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 35/1973 First Reading : 11 July 1973 Second and Third Readings : 26 July 1973 Commencement : 1 September 1973 (section 2 read with the Schedule) 4. Act 13 of 1978 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act, 1978 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 15/1978 First Reading : 13 March 1978 Second and Third Readings : 23 March 1978 Commencement : 1 April 1977 (section 2 read with the Schedule) 5. Act 7 of 1983 — Statutes (Miscellaneous Amendments) Act, 1983 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 25/1982 First Reading : 3 December 1982 Second and Third Readings : 4 March 1983 Commencement : 15 April 1983 (section 2 read with the Schedule) 6. 1985 Revised Edition — Preservation of Monuments Act (Chapter 239) Operation : 30 March 1987 7. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (33) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (33) of the Schedule) 8. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (38) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (38) of the Schedule) PART 2 PRESERVATION OF MONUMENTS ACT 2009 (2020 REVISED EDITION) 9. Act 16 of 2009 — Preservation of Monuments Act 2009 Bill : 9/2009 First Reading : 23 March 2009 Second and Third Readings : 13 April 2009 Commencement : 1 July 2009 10. 2011 Revised Edition — Preservation of Monuments Act (Chapter 239) Operation : 31 December 2011 11. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 121 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 121 of the Schedule) 12. Act 36 of 2021 — Preservation of Monuments (Amendment) Act 2021 Bill : 33/2021 First Reading : 4 October 2021 Second and Third Readings : 2 November 2021 Commencement : 30 November 2021
 
-Date of First Reading : 2 September 1970 (Bill No. 38/70 published on 7 September 1970)
+Abbreviations
 
-Date of Second and Third Readings : 4 November 1970
-
-Date of commencement : 29 January 1971
-
-2. 1970 Revised Edition — Preservation of Monuments Act (Chapter 315)
-
-Date of operation : 31 August 1971
-
-3. Act 35 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 4) Act 1973
-
-Date of First Reading : 11 July 1973 (Bill No. 35/73 published on 16 July 1973)
-
-Date of Second and Third Readings : 26 July 1973
-
-Date of commencement : 1 September 1973
-
-4. Act 13 of 1978 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1978
-
-Date of First Reading : 13 March 1978 (Bill No. 15/78 published on 14 March 1978)
-
-Date of Second and Third Readings : 23 March 1978
-
-Date of commencement : 1 April 1977
-
-5. Act 7 of 1983 — Statutes (Miscellaneous Amendments) Act 1983
-
-Date of First Reading : 3 December 1982 (Bill No. 25/82 published on 8 December 1982)
-
-Date of Second and Third Readings : 4 March 1983
-
-Date of commencement : 15 April 1983 6. 1985 Revised Edition — Preservation of Monuments Act (Chapter 239)
-
-Date of operation : 30 March 1987
-
-7. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Dates of commencement : 15 July 2002 (with the exception of item (18) in the Schedule) 29 July 2002 (Item (18) of the Schedule)
-
-8. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004
-
-9. Act 16 of 2009 — Preservation of Monuments Act 2009
-
-Date of First Reading : 23 March 2009 (Bill No. 9/2009 published on 23 March 2009)
-
-Date of Second and Third Readings : 13 April 2009
-
-Date of commencement : 1 July 2009
-
-Note: The Preservation of Monuments Act 2009 repealed and re-enacted with amendments the Preservation of Monuments Act (Chapter 239, 1985 Revised Edition).
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
