@@ -7,13 +7,9 @@ Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 (b) who has gained such special knowledge of and skill and experience, in a particular branch or branches of medicine, may apply to the Medical Council to be registered as a specialist.
 
-[1/2010]
-
 (1A) A person may be registered under subsection (1) as a specialist subject to such conditions or restrictions as the Medical Council may impose.
 
-[1/2010]
-
-(2) The Medical Council shall not register any person under subsection (1) as a specialist unless the person has obtained a certificate from the Specialists Accreditation Board under section 35.
+(2) The Medical Council must not register any person under subsection (1) as a specialist unless the person has obtained a certificate from the Specialists Accreditation Board under section 35.
 
 (3) The Medical Council may, with the approval of the Minister, make regulations for all or any of the following purposes:
 
@@ -29,8 +25,6 @@ Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 (ii) any such registration as a specialist;
 
-(iii) any restoration of names to the Register of Specialists;
-
-and
+(iii) any restoration of names to the Register of Specialists; and
 
 (iv) any appeal.

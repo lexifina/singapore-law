@@ -6,14 +6,8 @@ Division: Division 6 — Health Committee
 
 (a) restore his name to the register; or
 
-(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) shall apply accordingly.
+(b) register him as a medical practitioner with conditional registration in Part II of the Register of Medical Practitioners, and section 21(4) and (6) to (9) applies accordingly.
 
-[1/2010]
+(2) No application under subsection (1) in respect of the same person is to be made to the Medical Council more than once in any period of 12 months.
 
-(2) No application under subsection (1) in respect of the same person shall be made to the Medical Council more than once in any period of 12 months.
-
-[1/2010]
-
-(3) No application under subsection (1) in respect of a person shall be made to the Medical Council unless that person has complied with all the terms of the order made against him.
-
-[1/2010]
+(3) No application under subsection (1) in respect of a person is to be made to the Medical Council unless that person has complied with all the terms of the order made against him.

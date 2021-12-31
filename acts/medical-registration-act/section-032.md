@@ -1,7 +1,7 @@
 # 32. Power of Medical Council to remove names from registers
 Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
-(1) Notwithstanding the provisions of this Act, the Medical Council may, upon such evidence as it may require, order the removal from the appropriate register the name of a registered medical practitioner under any of the following circumstances:
+(1) Despite the provisions of this Act, the Medical Council may, upon such evidence as it may require, order the removal from the appropriate register the name of a registered medical practitioner under any of the following circumstances:
 
 (a) if he has been registered with conditional registration and the conditional registration has been cancelled by the Medical Council under section 21(6);
 
@@ -29,8 +29,6 @@ Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 (g) if he has failed to serve the Government or such other body or organisation as directed by the Government for such period as may be specified in any undertaking given by him to the Government.
 
-[46/2002; 1/2010]
+(2) The Medical Council must, before exercising its powers under subsection (1), notify the registered medical practitioner concerned of its intention to take such action and must give the registered medical practitioner an opportunity to submit reasons why his name should not be removed.
 
-(2) The Medical Council shall, before exercising its powers under subsection (1), notify the registered medical practitioner concerned of its intention to take such action and shall give the registered medical practitioner an opportunity to submit reasons why his name should not be removed.
-
-(3) Any person who is aggrieved by any order of the Medical Council under subsection (1) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
+(3) Any person who is aggrieved by any order of the Medical Council under subsection (1) may, within 30 days of being notified of the order, appeal to the Minister whose decision is final.

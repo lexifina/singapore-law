@@ -21,20 +21,18 @@ In this Act, unless the context otherwise requires —
 
 “Interim Orders Committee” means a committee appointed by the Medical Council under section 59A;
 
-“Medical Council” means the Medical Council of Singapore established under section 3(1) of the repealed Medical Registration Act (Cap. 174, 1985 Ed.), and by virtue of section 3 of this Act means the Singapore Medical Council;
+“Medical Council” means the Medical Council of Singapore established under section 3(1) of the repealed Medical Registration Act (Cap. 174, 1985 Revised Edition), and by virtue of section 3 of this Act means the Singapore Medical Council;
 
 “practising certificate” means a practising certificate granted under section 36;
 
-“President” means the President of the Medical Council;
+“president” means the president of the Medical Council;
 
 “professional performance” means the knowledge, skill or care possessed and applied by a registered medical practitioner in the provision of medical services;
 
-“provisional registration” means registration by virtue of section 24 and “provisionally registered” shall be construed accordingly;
+“provisional registration” means registration by virtue of section 24 and “provisionally registered” is to be construed accordingly;
 
 “registered medical practitioner” means a person registered under this Act and includes a person deemed to be so registered under section 72(1);
 
 “Registrar” means the Registrar of the Medical Council;
 
 “Singapore degree” means a degree, diploma or licence in medicine and surgery specified in the First Schedule.
-
-[46/2002; 1/2010]

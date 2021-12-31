@@ -3,7 +3,7 @@ Part: PART 8 GENERAL
 
 (1) Subject to the provisions of this Act, the Medical Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Medical Council may, with the approval of the Minister, make regulations —
+(2) Without limiting subsection (1), the Medical Council may, with the approval of the Minister, make regulations —
 
 (a) prescribing the time, place and procedure for the election of members of the Medical Council;
 
@@ -29,6 +29,4 @@ Part: PART 8 GENERAL
 
 (l) generally providing for such other matters as may be necessary or expedient for carrying out the provisions of this Act.
 
-[46/2002; 1/2010]
-
-(3) Regulations made under this Act may make different provision for different classes of persons and different circumstances.
+(3) Regulations made under this Act may make different provisions for different classes of persons and different circumstances.

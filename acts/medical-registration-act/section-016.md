@@ -7,4 +7,4 @@ In any written law —
 
 (b) “duly qualified medical practitioner”; or
 
-(c) any expression importing a person recognised by law as a medical practitioner or member of the medical profession, shall be construed to mean a person who is registered under this Act and has a valid practising certificate.
+(c) any expression importing a person recognised by law as a medical practitioner or member of the medical profession, is to be construed to mean a person who is registered under this Act and has a valid practising certificate.

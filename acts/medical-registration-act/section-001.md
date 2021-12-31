@@ -1,4 +1,4 @@
 # 1. Short title
 Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Medical Registration Act.
+This Act is the Medical Registration Act 1997.

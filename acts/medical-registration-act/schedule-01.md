@@ -14,8 +14,6 @@ SINGAPORE DEGREE
 
 5. Doctor of Medicine of the Duke-NUS Graduate Medical School Singapore.
 
-FIRST SCHEDULE — continued
-
 6. Degree in medicine and surgery of the Lee Kong Chian School of Medicine, Nanyang Technological University — Imperial College London.
 
-[1/2010; S 404/2014]
+[S 404/2014]

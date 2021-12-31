@@ -8,11 +8,7 @@ Division: Division 5 — Disciplinary Tribunals
 
 (b) suspend his registration in the appropriate register for such period not exceeding 12 months as may be specified in the order.
 
-[1/2010]
-
 (2) Where a Disciplinary Tribunal has made an order for suspension under subsection (1)(b) or section 53(2)(b), the Disciplinary Tribunal may make an order under section 53(2)(c) or (d), to take effect from the expiry of the current period of suspension.
-
-[1/2010]
 
 (3) Where a Disciplinary Tribunal has made an order for suspension under subsection (1)(b) or section 53(2)(b) against a registered medical practitioner and he has failed to comply with that order, the Disciplinary Tribunal or another Disciplinary Tribunal appointed in its place may, if it thinks fit —
 
@@ -20,40 +16,22 @@ Division: Division 5 — Disciplinary Tribunals
 
 (b) make an order under section 53(2)(c) or (d), to take effect from the expiry of the current period of suspension.
 
-[1/2010]
-
 (4) Where a Disciplinary Tribunal has made an order under section 53(2)(c) or (d), the Disciplinary Tribunal or another Disciplinary Tribunal appointed in its place may revoke the order or revoke or vary any of the conditions or restrictions imposed by the order.
 
-[1/2010]
+(5) Subsection (1) applies to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under subsection (2) or (3) as it applies to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under section 53(2)(c) or (d), and subsection (4) applies accordingly.
 
-(5) Subsection (1) shall apply to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under subsection (2) or (3) as it applies to a registered medical practitioner whose registration is subject to conditions or restrictions imposed by an order made under section 53(2)(c) or (d), and subsection (4) shall apply accordingly.
+(6) Where a Disciplinary Tribunal has made an order under section 53 or this section, or has varied the conditions or restrictions imposed by an order under this section, the Registrar must immediately serve on the registered medical practitioner and on the complainant a notice of the order or the variation.
 
-[1/2010]
-
-(6) Where a Disciplinary Tribunal has made an order under section 53 or this section, or has varied the conditions or restrictions imposed by an order under this section, the Registrar shall immediately serve on the registered medical practitioner and on the complainant a notice of the order or the variation.
-
-[1/2010]
-
-(7) Subject to subsection (8), an order made by a Disciplinary Tribunal for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2) shall not take effect until the expiration of 30 days after the order is made.
-
-[1/2010]
+(7) Subject to subsection (8), an order made by a Disciplinary Tribunal for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2) does not take effect until the expiry of 30 days after the order is made.
 
 (8) On making an order for the removal of the name of a registered medical practitioner from the appropriate register or for the suspension of his registration under subsection (1) or (3) or section 53(2), a Disciplinary Tribunal, if satisfied that to do so is necessary for the protection of members of the public or would be in the best interests of the registered medical practitioner concerned, may order that his name be removed from the register or that his registration in the register be suspended immediately.
 
-[1/2010]
+(9) Where an order under subsection (8) is made, the Registrar must immediately serve a notice of the order on the person to whom it applies and —
 
-(9) Where an order under subsection (8) is made, the Registrar shall immediately serve a notice of the order on the person to whom it applies and —
+(a) if that person was present or represented at the proceedings of the Disciplinary Tribunal, the order takes effect from the time the order is made; or
 
-(a) if that person was present or represented at the proceedings of the Disciplinary Tribunal, the order shall take effect from the time the order is made; or
+(b) if that person was neither present nor represented at the proceedings of the Disciplinary Tribunal, the order takes effect from the date of service of the notice on that person.
 
-(b) if that person was neither present nor represented at the proceedings of the Disciplinary Tribunal, the order shall take effect from the date of service of the notice on him.
+(10) An order of a Disciplinary Tribunal, other than an order for the removal of any name or for the suspension of any registration under subsection (1) or (3) or section 53(2)(a) or (b), takes effect from the date the order is made.
 
-[1/2010]
-
-(10) An order of a Disciplinary Tribunal, other than an order for the removal of any name or for the suspension of any registration under subsection (1) or (3) or section 53(2)(a) or (b), shall take effect from the date the order is made.
-
-[1/2010]
-
-(11) While any order for the suspension of any registration remains in force, the person concerned shall not be regarded as being registered, notwithstanding that his name still appears in the register, but immediately on the expiry of such order, his rights and privileges as a registered medical practitioner shall be revived as from the date of such expiry provided that the medical practitioner has complied with all the terms of the order.
-
-[1/2010]
+(11) While any order for the suspension of any registration remains in force, the person concerned is not to be regarded as being registered, even though the person’s name still appears in the register, but immediately on the expiry of such order, the person’s rights and privileges as a registered medical practitioner are to be revived as from the date of such expiry provided that the medical practitioner has complied with all the terms of the order.

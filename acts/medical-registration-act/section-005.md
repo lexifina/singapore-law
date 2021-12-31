@@ -20,5 +20,3 @@ The functions of the Medical Council are —
 (fb) to provide administrative services to other bodies (whether corporate or unincorporate) responsible for the regulation of healthcare professionals; and
 
 (g) generally to do all such acts and matters and things as are necessary to be carried out under this Act.
-
-[1/2010]

@@ -2,17 +2,15 @@
 Part: PART 7 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
 Division: Division 7 — Interim Orders Committees
 
-(1) An interim suspension order or an interim restriction order shall be in force until —
+(1) An interim suspension order or an interim restriction order is in force until the earlier of the following:
 
 (a) the end of the period specified —
 
 (i) in the order; or
 
-(ii) if the period is extended under section 59F(2), in the order extending it; or
+(ii) if the period is extended under section 59F(2), in the order extending it;
 
-(b) the date on which the relevant proceedings are concluded, whichever is the earlier.
-
-[1/2010]
+(b) the date on which the relevant proceedings are concluded.
 
 (2) For the purposes of subsection (1)(b), the relevant proceedings are concluded if —
 
@@ -25,5 +23,3 @@ Division: Division 7 — Interim Orders Committees
 (b) the Disciplinary Tribunal inquiring into the complaint or information has made an order under section 53(2) which has taken effect, or has dismissed the complaint or matter under section 53(4); or
 
 (c) the Health Committee inquiring into the matter has made an order under section 58(1) which has taken effect, the Medical Council has made an order under section 58(2) which has taken effect, or the Health Committee has dismissed the complaint or matter, as the case may be.
-
-[1/2010]

@@ -7,15 +7,9 @@ Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 
 (b) who has gained such special knowledge of and skill and experience, in family medicine, may apply to the Medical Council to be registered as a family physician in the Register of Family Physicians.
 
-[1/2010]
-
 (2) A person may be registered under subsection (1) as a family physician subject to such conditions or restrictions as the Medical Council may impose.
 
-[1/2010]
-
-(3) The Medical Council shall not register any person under subsection (1) as a family physician unless the person has obtained a certificate from the Family Physicians Accreditation Board under section 35B.
-
-[1/2010]
+(3) The Medical Council must not register any person under subsection (1) as a family physician unless the person has obtained a certificate from the Family Physicians Accreditation Board under section 35B.
 
 (4) The Medical Council may, with the approval of the Minister, make regulations for all or any of the following purposes:
 
@@ -34,5 +28,3 @@ Part: PART 4 REGISTRATION OF MEDICAL PRACTITIONERS
 (iii) any restoration of names to the Register of Family Physicians; and
 
 (iv) any appeal.
-
-[1/2010]

@@ -1,4 +1,4 @@
-# 17. Unauthorised person acting as medical practitioner 1
+# 17. Unauthorised person acting as medical practitioner
 Part: PART 3 PRIVILEGES OF MEDICAL PRACTITIONERS
 
 (1) Any unauthorised person who —
@@ -13,7 +13,7 @@ Part: PART 3 PRIVILEGES OF MEDICAL PRACTITIONERS
 
 (e) contravenes section 13 or 14, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) It shall be a defence to a prosecution under subsection (1) if the defendant proves that —
+(2) It is a defence to a prosecution under subsection (1) if the defendant proves that —
 
 (a) he practised a system of therapeutics according to Malay, Chinese or Indian method; and
 

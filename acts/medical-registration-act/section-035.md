@@ -1,7 +1,7 @@
 # 35. Functions of Specialists Accreditation Board
 Part: PART 5 SPECIALISTS ACCREDITATION BOARD
 
-(1) The functions of the Board shall be —
+(1) The functions of the Board are —
 
 (a) to determine the qualifications, experience and other conditions for registration as specialists under this Act;
 
@@ -15,18 +15,10 @@ Part: PART 5 SPECIALISTS ACCREDITATION BOARD
 
 (f) to advise the Medical Council on matters affecting or connected with the registration of specialists under this Act.
 
-[1/2010]
+(1A) The Board may further subdivide the specialties in medicine into further classes of sub-specialties and this section applies, with the necessary modifications, to such sub-specialties.
 
-(1A) The Board may further subdivide the specialties in medicine into further classes of sub‑specialties and this section shall apply, with the necessary modifications, to such sub‑specialties.
+(1B) A reference in this Act to a specialty is to be construed as including a reference to a sub-specialty.
 
-[1/2010]
+(2) Any person who desires to have a certificate from the Board to certify that the person has the qualifications or experience and who meets the conditions for registration as specialists under this Act may apply to the Board.
 
-(1B) A reference in this Act to a specialty shall be construed as including a reference to a sub‑specialty.
-
-[1/2010]
-
-(2) Any person who desires to have a certificate from the Board to certify that he has the qualifications or experience and who meet the conditions for registration as specialists under this Act may apply to the Board.
-
-[1/2010]
-
-(3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of the refusal, appeal to the Minister whose decision shall be final.
+(3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of the refusal, appeal to the Minister whose decision is final.

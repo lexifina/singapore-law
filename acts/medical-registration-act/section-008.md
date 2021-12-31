@@ -1,20 +1,18 @@
 # 8. Disqualifications for membership of Medical Council
 Part: PART 2 MEDICAL COUNCIL
 
-No person shall be a member of the Medical Council —
+A person must not be a member of the Medical Council —
 
-(a) if he is not a citizen or a permanent resident of Singapore;
+(a) if the person is not a citizen or a permanent resident of Singapore;
 
-(b) if he is not a registered medical practitioner with at least 10 years’ experience in the practice of medicine;
+(b) if the person is not a registered medical practitioner with at least 10 years’ experience in the practice of medicine;
 
-(c) if he is an undischarged bankrupt;
+(c) if the person is an undischarged bankrupt;
 
-(d) if he has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude or implying a defect in character which makes him unfit for his profession;
+(d) if the person has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude or implying a defect in character which makes the person unfit for the person’s profession;
 
-(e) if he has been found guilty in Singapore or elsewhere of any improper act or conduct which brings disrepute to his profession;
+(e) if the person has been found guilty in Singapore or elsewhere of any improper act or conduct which brings disrepute to the person’s profession;
 
-(f) if he has been found guilty in Singapore or elsewhere of professional misconduct; or
+(f) if the person has been found guilty in Singapore or elsewhere of professional misconduct; or
 
-(g) if his fitness to practise as a medical practitioner is judged by the Health Committee to be impaired by reason of his physical or mental condition.
-
-[1/2010]
+(g) if the person’s fitness to practise as a medical practitioner is judged by the Health Committee to be impaired by reason of the person’s physical or mental condition.

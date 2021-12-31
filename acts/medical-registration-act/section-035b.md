@@ -1,7 +1,7 @@
 # 35B. Functions of Family Physicians Accreditation Board
 Part: PART 5A FAMILY PHYSICIANS ACCREDITATION BOARD
 
-(1) The functions of the Board shall be —
+(1) The functions of the Board are —
 
 (a) to determine the qualifications, experience and other conditions for registration as a family physician under this Act;
 
@@ -15,12 +15,6 @@ Part: PART 5A FAMILY PHYSICIANS ACCREDITATION BOARD
 
 (f) to advise the Medical Council on matters affecting or connected with the registration of family physicians under this Act.
 
-[1/2010]
+(2) Any person who desires to have a certificate from the Board to certify that the person has the qualifications or experience and meets the conditions for registration as a family physician under this Act may apply to the Board.
 
-(2) Any person who desires to have a certificate from the Board to certify that he has the qualifications or experience and meets the conditions for registration as a family physician under this Act may apply to the Board.
-
-[1/2010]
-
-(3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of refusal, appeal to the Minister whose decision shall be final.
-
-[1/2010]
+(3) Any person who is aggrieved by the refusal of the Board to grant the certificate may, within one month of the notice of refusal, appeal to the Minister whose decision is final.

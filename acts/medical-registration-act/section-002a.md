@@ -10,5 +10,3 @@ The object of this Act is to protect the health and safety of the public by prov
 and
 
 (c) maintain public confidence in the medical profession.
-
-[1/2010]
