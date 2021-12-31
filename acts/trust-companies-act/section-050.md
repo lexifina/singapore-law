@@ -1,5 +1,5 @@
 # 50. Appeals
-Part: PART IX APPEALS
+Part: PART 9 APPEALS
 
 Any applicant or licensed trust company which is aggrieved by —
 
@@ -9,6 +9,4 @@ Any applicant or licensed trust company which is aggrieved by —
 
 (c) the refusal of the Authority to grant an approval to a licensed trust company to appoint a person as its director or resident manager; or
 
-(d) the direction of the Authority to a licensed trust company to remove an officer from office or employment, may, within 30 days after it is notified of the decision of the Authority, appeal to the Minister whose decision shall be final.
-
-[SFA, s. 98]
+(d) the direction of the Authority to a licensed trust company to remove an officer from office or employment, may, within 30 days after it is notified of the decision of the Authority, appeal to the Minister whose decision is final.

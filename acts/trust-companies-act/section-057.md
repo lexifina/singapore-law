@@ -1,6 +1,4 @@
 # 57. Joint tenancy
-Part: PART X MISCELLANEOUS
+Part: PART 10 MISCELLANEOUS
 
-A licensed trust company, acting in a fiduciary capacity, shall be capable of acquiring and holding any property in joint tenancy in the same manner as if it were a private individual.
-
-[Trust Companies (repealed), s. 13]
+A licensed trust company, acting in a fiduciary capacity, is capable of acquiring and holding any property in joint tenancy in the same manner as if it were a private individual.

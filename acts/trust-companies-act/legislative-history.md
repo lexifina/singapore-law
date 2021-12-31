@@ -1,67 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY TRUST COMPANIES ACT 2005
 
-TRUST COMPANIES ACT (CHAPTER 336)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Trusts Companies Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Ordinance 31 of 1926 — Trusts Companies Ordinance 1926
+LEGISLATIVE HISTORY DETAILS PART 1 TRUST COMPANIES ACT (CHAPTER 336, 1985 REVISED EDITION) 1. Ordinance 31 of 1926 — The Trust Companies Ordinance, 1926 Bill : G.N. No. 1577/1926 First Reading : 6 September 1926 Second Reading : 11 October 1926 Notice of Amendments : 11 October 1926 Third Reading : 1 November 1926 Commencement : 19 November 1926 2. 1936 Revised Edition — Trust Companies Ordinance (Chapter 154) Operation : 1 September 1936 3. Ordinance 4 of 1941 — Trust Companies (Amendment) Ordinance, 1941 Bill : G.N. No. 13/1941 First Reading : 20 January 1941 Second and Third Readings : 3 February 1941 Commencement : 15 February 1941 4. Ordinance 40 of 1949 — Trust Companies (Amendment) Ordinance, 1949 Bill : G.N. No. S 368/1949 First Reading : 23 August 1949 Second Reading : 20 September 1949 Notice of Amendments : 20 September 1949 Third Reading : 20 September 1949 Commencement : 28 September 1949 5. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 48 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 48 of the Schedule) 6. 1955 Revised Edition — Trust Companies Ordinance (Chapter 33) Operation : 1 July 1956 7. G.N. No. S 223/1959 — Singapore Constitution (Modification of Laws) Order, 1959 Commencement : 3 June 1959 8. L.N. 470/1964 (G.N. Sp. No. S 14/1965) — Modification of Laws (Insurance) (Extension) Order, 1964 Commencement : 1 January 1965 9. 1970 Revised Edition — Trust Companies Act (Chapter 207) Operation : 1 July 1971 10. 1985 Revised Edition — Trust Companies Act (Chapter 336) Operation : 30 March 1987 11. Act 3 of 2004 — Accounting and Corporate Regulatory Authority Act 2004 (Amendments made by section 39(1) read with item (5) of the Fourth Schedule to the above Act) Bill : 1/2004 First Reading : 5 January 2004 Second and Third Readings : 6 February 2004 Commencement : 1 April 2004 (section 39(1) read with item (5) of the Fourth Schedule) 12. Act 21 of 2005 — Companies (Amendment) Act 2005 (Amendments made by section 57 of the above Act) Bill : 11/2005 First Reading : 18 April 2005 Second and Third Readings : 16 May 2005 Commencement : 30 January 2006 (section 57)
 
-Date of First Reading : 6 September 1926 (Published on 10 September 1926)
+PART 2 TRUST COMPANIES ACT 2005 (2020 REVISED EDITION) 13. Act 11 of 2005 — Trust Companies Act 2005 Bill : 1/2005 First Reading : 25 January 2005 Second and Third Readings : 18 February 2005 Commencement : 1 February 2006 Note: This Act was amended by the Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Act 42 of 2005) before it came into force.
 
-Date of Second and Third Readings : 1 November 1926
+14. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (34)(a) of the First Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 (section 5 read with item (34)(a) of the First Schedule) 15. 2006 Revised Edition — Trust Companies Act (Chapter 336) Operation : 31 July 2006 16. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 4 read with item (12) of the Schedule to the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 4 read with item (12) of the Schedule) 17. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(50) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(50) of the Second Schedule) 18. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 112 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 112 of the Sixth Schedule) 19. Act 10 of 2013 — Financial Institutions (Miscellaneous Amendments) Act 2013 (Amendments made by section 10 of the above Act) Bill : 4/2013 First Reading : 4 February 2013 Second and Third Readings : 15 March 2013 Commencement : 18 April 2013 (section 10) 20. Act 35 of 2014 — Statutes (Miscellaneous Amendments) (No. 2) Act 2014 (Amendments made by section 17 of the above Act) Bill : 24/2014 First Reading : 8 September 2014 Second and Third Readings : 7 October 2014 Commencement : 1 July 2015 (section 17(a) to (g)) 3 January 2016 (section 17(h)) 21. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 47 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 47) 22. Act 31 of 2017 — Monetary Authority of Singapore (Amendment) Act 2017 (Amendments made by section 48 of the above Act) Bill : 25/2017 First Reading : 8 May 2017 Second and Third Readings : 4 July 2017 Commencement : 5 June 2018 (section 48(b)) 29 October 2018 (section 48(a)) 23. Act 4 of 2017 — Securities and Futures (Amendment) Act 2017 (Amendments made by section 211 of the above Act) Bill : 35/2016 First Reading : 7 November 2016 Second and Third Readings : 9 January 2017 Commencement : 8 October 2018 (section 211) 24. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 521 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 521) 25. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 161 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 161 of the Schedule) 26. Act 1 of 2020 — Banking (Amendment) Act 2020 (Amendments made by section 63 of the above Act) Bill : 35/2019 First Reading : 4 November 2019 Second and Third Readings : 6 January 2020 Commencement : 1 July 2021 (section 63)
 
-Date of commencement : 26 November 1926
+Abbreviations
 
-2. Ordinance 4 of 1941 — Trusts Companies (Amendment) Ordinance 1941
-
-Date of First Reading : 20 January 1941 (Published on 3 January 1941)
-
-Date of Second and Third Readings : 3 February 1941
-
-Date of commencement : 21 February 1941
-
-3. Ordinance 40 of 1949 — Trusts Companies (Amendment) Ordinance 1949
-
-Date of First Reading : 23 August 1949 (Published on 26 August 1949)
-
-Date of Second and Third Readings : 20 September 1949
-
-Date of commencement : 30 September 1949
-
-4. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance 1952
-
-Date of First Reading : 16 September 1952 (Bill No. 32/52 published on 19 September 1952)
-
-Date of Second and Third Readings : 14 October 1952
-
-Date of commencement : 30 April 1955
-
-5. 1970 Revised Edition — Trusts Companies Act (Chapter 207)
-
-Date of Operation : 1 July 1971 6. 1985 Revised Edition — Trusts Companies Act (Chapter 336)
-
-Date of Operation : 30 March 1987
-
-7. Act 11 of 2005 — Trust Companies Act 2005
-
-Date of First Reading : 25 January 2005 (Bill No. 1/2005 published on 26 January 2005)
-
-Date of Second and Third Readings : 18 February 2005
-
-Date of commencement : 1 February 2006
-
-Note: The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust Companies Act (Chapter 336, 1985 Revised Edition).
-
-8. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 July 2005 (section 20 (e)) 1 January 2006 (except for sections 10, 12 17 (e) to (j), 19 and 20 (c) and (e); items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and (36) in the First Schedule;
-
-and Third Schedule) 30 January 2006 (sections 10, 12, 19 and 20 (c)) 1 April 2006 (items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and
-
-(36) in the First Schedule; and
-
-the Third Schedule)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

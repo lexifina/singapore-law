@@ -1,7 +1,7 @@
 # 21. Shareholding or control in other corporations
-Part: PART III CONTROL OF SHAREHOLDINGS AND VOTING POWERS
+Part: PART 3 CONTROL OF SHAREHOLDINGS AND VOTING POWERS
 
-(1) No licensed trust company shall, without obtaining the prior approval of the Authority, acquire or hold more than —
+(1) A licensed trust company must not, without obtaining the prior approval of the Authority, acquire or hold more than —
 
 (a) 20% of the total number of issued shares; or
 

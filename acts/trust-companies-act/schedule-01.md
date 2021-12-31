@@ -1,10 +1,8 @@
 # FIRST SCHEDULE
 
-Section 2
+Sections 2 and 81
 
-TRUST BUSINESS
-
-The following businesses constitute trust business for the purposes of this Act:
+TRUST BUSINESS The following businesses constitute trust business for the purposes of this Act:
 
 (a) the provision of services with respect to the creation of an express trust;
 

@@ -1,5 +1,5 @@
 # 33. Offence to destroy, conceal, alter, etc., books
-Part: PART VI BOOKS, ACCOUNTS AND AUDIT Division 1 — Books and accounts
+Part: PART 6 BOOKS, ACCOUNTS AND AUDIT Division 1 — Books and accounts
 Division: Division 2 — Audit
 
 (1) Any person who, with intent to prevent, delay or obstruct the carrying out of any audit under this Part —
@@ -10,8 +10,6 @@ Division: Division 2 — Audit
 
 (2) If, in any proceedings for an offence under subsection (1), it is proved that the person charged with the offence —
 
-(a) destroyed, concealed or altered any book referred to in subsection (1) (a); or
+(a) destroyed, concealed or altered any book mentioned in subsection (1)(a); or
 
-(b) sent, or conspired to send, out of Singapore, any book or asset referred to in subsection (1) (b), the onus of proving that, in so doing, he did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Part shall lie on him.
-
-[SFA, s. 111]
+(b) sent, or conspired to send, out of Singapore, any book or asset mentioned in subsection (1)(b), the onus of proving that, in so doing, the person did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Part lies on the person.

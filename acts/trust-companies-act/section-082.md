@@ -1,9 +1,9 @@
 # 82. Regulations
-Part: PART X MISCELLANEOUS
+Part: PART 10 MISCELLANEOUS
 
-(1) The Authority may make regulations for carrying out the purposes and provisions of this Act and for the due administration thereof.
+(1) The Authority may make regulations for carrying out the purposes and provisions of this Act and for the due administration of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Authority may make regulations for or with respect to —
+(2) Without limiting subsection (1), the Authority may make regulations for or with respect to —
 
 (a) applications for the grant of licences under this Act and matters incidental thereto;
 
@@ -22,5 +22,3 @@ Part: PART X MISCELLANEOUS
 (b) may provide that a contravention of any specified provision thereof shall be an offence; and
 
 (c) may provide for penalties not exceeding a fine of $25,000 or imprisonment for a term not exceeding 12 months or both for each offence.
-
-[SFA, s. 341]

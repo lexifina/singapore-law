@@ -1,10 +1,8 @@
 # SECOND SCHEDULE
 
-Section 3 (3)
+Sections 3(3) and 81
 
-SPECIFIED PERSONS
-
-1. The following persons are specified persons for the purposes of section 3 (3):
+SPECIFIED PERSONS 1. The following persons are specified persons for the purposes of section 3(3):
 
 (a) a bare trustee;
 
@@ -14,12 +12,12 @@ SPECIFIED PERSONS
 
 (d) a person preparing or advising on a will;
 
-(e) a person acting as the executor or as the administrator of the estate of a deceased person (including his acting in any matter that arises in consequence of the execution of the will or the administration of the estate of the deceased person, as the case may be).
+(e) a person acting as the executor or as the administrator of the estate of a deceased person (including the person acting in any matter that arises in consequence of the execution of the will or the administration of the estate of the deceased person, as the case may be).
 
 2. In this Schedule —
 
-‘‘bare trustee’’ means a trustee who has a nominal interest in the subject matter of a trust;
+“bare trustee” means a trustee who has a nominal interest in the subject matter of a trust;
 
-‘‘business trust’’ has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
+“business trust” has the meaning given by section 2 of the Business Trusts Act 2004;
 
-‘‘trustee-manager’’ has the same meaning as in section 2 of the Business Trusts Act.
+“trustee-manager” has the meaning given by section 2 of the Business Trusts Act 2004.

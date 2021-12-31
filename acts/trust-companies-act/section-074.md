@@ -1,5 +1,5 @@
 # 74. Codes, guidelines, etc., by Authority
-Part: PART X MISCELLANEOUS
+Part: PART 10 MISCELLANEOUS
 
 (1) The Authority may issue, in such manner as it considers appropriate, such codes, guidelines, policy statements, practice notes and no-action letters as it considers appropriate for providing guidance —
 
@@ -15,13 +15,13 @@ Part: PART X MISCELLANEOUS
 
 (4) Where amendments are made under subsection (3) —
 
-(a) the other provisions of this section shall apply, with the necessary modifications, to such amendments as they apply to the code, guideline, policy statement, practice note or no-action letter; and
+(a) the other provisions of this section apply, with the necessary modifications, to such amendments as they apply to the code, guideline, policy statement, practice note or no-action letter; and
 
-(b) any reference in this Act or any other written law to the code, guideline, policy statement, practice note or no-action letter however expressed shall, unless the context otherwise requires, be a reference to the code, guideline, policy statement, practice note or no-action letter as so amended.
+(b) any reference in this Act or any other written law to the code, guideline, policy statement, practice note or no-action letter however expressed is, unless the context otherwise requires, a reference to the code, guideline, policy statement, practice note or no-action letter as so amended.
 
-(5) Any failure of a person to comply with any provision of a code, guideline, policy statement or practice note issued under this section that applies to him shall not of itself render that person liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.
+(5) Any failure of a person to comply with any provision of a code, guideline, policy statement or practice note issued under this section that applies to the person does not of itself render that person liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.
 
-(6) The issue by the Authority of a no-action letter shall not of itself prevent the institution of any criminal proceedings against any person for a contravention of any provision of this Act.
+(6) The issue by the Authority of a no-action letter does not of itself prevent the institution of any criminal proceedings against any person for a contravention of any provision of this Act.
 
 (7) Any code, guideline, policy statement or practice note issued under this section —
 
@@ -29,8 +29,8 @@ Part: PART X MISCELLANEOUS
 
 (b) may specify that different provisions thereof apply to different circumstances or provide for different cases or classes of cases.
 
-(8) For the avoidance of doubt, any code, guideline, policy statement, practice note or no-action letter issued under this section shall be deemed not to be subsidiary legislation.
+(8) It is not necessary to publish any code, guideline, policy statement, practice note or no-action letter issued under this section in the Gazette.
 
-(9) In this section, ‘‘no-action letter’’ means a letter written by the Authority to an applicant for such a letter to the effect that, if the facts are as represented by the applicant, the Authority will not institute proceedings against the applicant in respect of a particular state of affairs or particular conduct.
+[10/2013]
 
-[SFA, s. 321]
+(9) In this section, “no-action letter” means a letter written by the Authority to an applicant for such a letter to the effect that, if the facts are as represented by the applicant, the Authority will not institute proceedings against the applicant in respect of a particular state of affairs or particular conduct.

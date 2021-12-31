@@ -1,137 +1,183 @@
 # THIRD SCHEDULE
 
-Section 49
+Sections 49 and 81
 
 PURPOSES FOR WHICH AND PERSONS TO WHOM PROTECTED INFORMATION MAY BE DISCLOSED
 
-PART I
+PART 1
 
 FURTHER DISCLOSURE NOT PROHIBITED
 
-First column Second column Third column Purposes for which Persons to whom confidential information information may may be disclosed be disclosed Conditions
+First column . Second column . Third column
+
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
 
 1. Disclosure —
 
-(a) is permitted in writing Any person as permitted by a settlor or a by the settlor or a protected party about protected party or, if he is whom the deceased, his appointed information regards, personal representative.
+(a) is permitted in Any person as writing by a permitted by the settlor settlor or a or a protected party or, protected party if he or she is deceased, about whom the his or her appointed information personal regards, or if he representative.
 
-or if he is deceased, his appointed personal representative; or
+or she is deceased, his or her appointed personal representative;
+
+or THIRD SCHEDULE — continued
+
+First column . Second column . Third column
+
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
+
+(b) is solely in Any person whom the connection with licensed trust company a matter which deems necessary.
+
+a licensed trust company deems necessary in carrying out its duties in a case where a settlor is deceased and there is no personal representative, unless otherwise provided in the trust deed.
+
+2. Disclosure is solely Any person whom the in connection with an licensed trust company application for a in good faith believes is grant of probate or entitled to the grant of letters of probate or letters of administration in administration.
+
+respect of a deceased protected party’s estate.
 
 THIRD SCHEDULE — continued
 
-First column Second column Third column Purposes for which Persons to whom confidential information information may may be disclosed be disclosed Conditions
+First column . Second column . Third column
 
-(b) is solely in connection Any person whom the with a matter which a licensed trust company licensed trust deems necessary.
-
-company deems necessary in carrying out its duties in a case where a settlor is deceased and there is no personal representative, unless otherwise provided in the trust deed.
-
-2. Disclosure is solely in Any person whom the connection with an licensed trust company in application for a grant of good faith believes is probate or letters of entitled to the grant of administration in respect of probate or letters of a deceased protected party’s administration.
-
-estate.
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
 
 3. Disclosure is solely in connection with —
 
-(a) where the protected All persons to whom the Note: Court party is an individual, disclosure is necessary for may order the the bankruptcy of the the purpose specified in proceedings to protected party; or the first column. be held in camera [see
+(a) where the All persons to whom Note: Court may order protected party the disclosure is the proceedings to be is an individual, necessary for the held in camera [see the bankruptcy purpose specified in the section 49(3) and (4)].
 
-(b) where the protected section 49 (3) party is a body and (4)].
+of the protected first column.
 
-corporate, the winding up of the protected party.
+party; or
 
-4. Disclosure is solely with a All persons to whom the Note: Court view to the institution of, or disclosure is necessary for may order the solely in connection with, the purpose specified in proceedings to the conduct of proceedings the first column. be held in relating to a trust that is camera [see administered by a licensed section 49 (3) trust company. and (4)].
+(b) where the protected party is a body corporate, the winding up of the protected party.
+
+4. Disclosure is solely All persons to whom Note: Court may order with a view to the the disclosure is the proceedings to be institution of, or necessary for the held in camera [see solely in connection purpose specified in the section 49(3) and (4)].
+
+with, the conduct of first column.
+
+proceedings relating to a trust that is administered by a licensed trust company.
 
 THIRD SCHEDULE — continued
 
-First column Second column Third column Purposes for which Persons to whom confidential information information may may be disclosed be disclosed Conditions
+First column . Second column . Third column
+
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
 
 5. Disclosure is necessary for —
 
-(a) compliance with an Any police officer or order or request public officer duly made under any authorised under the specified written law specified written law to to furnish carry out the investigation information, for the or prosecution or to purposes of an receive the complaint or investigation or report, or any court.
+(a) compliance Any police officer or with an order or public officer duly request made authorised under the under any specified written law to specified carry out the written law to investigation or provide prosecution or to information, for receive the complaint the purposes of or report, or any court.
 
-prosecution, of an offence alleged or suspected to have been committed under any written law; or
+an investigation or prosecution, of an offence alleged or suspected to have been committed under any written law; or
 
 (b) the making of a complaint or report under any specified written law of an offence alleged or suspected to have been committed under any written law.
 
-6. Disclosure is necessary for All persons to whom the compliance with a garnishee disclosure is required to be order served on a licensed made under the garnishee trust company attaching order.
+THIRD SCHEDULE — continued
 
-assets in a trust.
+First column . Second column . Third column
 
-7. Disclosure is in compliance The Authority or any with any provision of this person authorised or Act, or any notice or appointed by the directive issued by the Authority.
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
 
-Authority to licensed trust companies.
+6. Disclosure is All persons to whom necessary for the disclosure is compliance with a required to be made garnishee order under the garnishee served on a licensed order.
+
+trust company attaching assets in a trust.
+
+7. Disclosure is in The Authority or any compliance with any person authorised or provision of this Act, appointed by the or any notice or Authority.
+
+directive issued by the Authority to licensed trust companies.
 
 THIRD SCHEDULE — continued
 
-PART II
+PART 2
 
 FURTHER DISCLOSURE PROHIBITED
 
-First column Second column Third column Purposes for which Persons to whom confidential information information may may be disclosed be disclosed Conditions
+First column . Second column . Third column
 
-1. Disclosure is solely in Any —
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
 
-connection with the
+1. Disclosure is solely Any —
 
-(a) officer of the performance of duties as an licensed trust officer, a professional company in adviser or a service provider Singapore;
+in connection with
 
-appointed or engaged by a
+(a) officer of the the performance of licensed trust duties as an officer, company in a professional Singapore;
 
-(b) officer designated in licensed trust company.
-
-writing by the head office of the licensed trust company; or
+adviser or a service provider appointed (b) officer designated or engaged by a in writing by the licensed trust head office of the company. licensed trust company; or
 
 (c) auditor, lawyer, consultant or other professional adviser or service provider appointed or engaged by the licensed trust company under a contract for service.
 
-2. Disclosure is solely in In the case of —
-
-connection with the conduct
-
-(a) a licensed trust of internal audit or the company performance of risk incorporated outside management of a licensed Singapore —
-
-trust company.
-
-(i) the head office or parent company of the licensed trust company;
-
 THIRD SCHEDULE — continued
 
-First column Second column Third column Purposes for which Persons to whom confidential information information may may be disclosed be disclosed Conditions
+First column . Second column . Third column
+
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
+
+2. Disclosure is solely In the case of —
+
+in connection with
+
+(a) a licensed trust the conduct of company internal audit or the incorporated performance of risk outside management of a Singapore —
+
+licensed trust company. (i) the head office or parent company of the licensed trust company;
 
 (ii) any branch of the licensed trust company outside Singapore designated in writing by the head office of the licensed trust company; or
 
-(iii) any related corporation of the licensed trust company designated in writing by the head office of the licensed trust company; or
+THIRD SCHEDULE — continued
+
+First column . Second column . Third column
+
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
+
+. . (iii) any related . .
+
+corporation of the licensed trust company designated in writing by the head office of the licensed trust company;
+
+or
 
 (b) a licensed trust company incorporated in Singapore —
 
-(i) the parent company; or
+(i) the parent company;
+
+or
 
 (ii) any related corporation of the licensed trust company designated in writing by the head office of the licensed trust company.
 
 THIRD SCHEDULE — continued
 
-First column Second column Third column Purposes for which Persons to whom confidential information information may may be disclosed be disclosed Conditions
+First column . Second column . Third column
 
-3. Disclosure is solely in Any person, including the If any connection with the head office of the licensed out-sourced performance of operational trust company or any function is to functions of a licensed trust branch thereof outside be performed company where such Singapore, who is engaged outside operational functions have by the licensed trust Singapore, been out-sourced. company to perform the the disclosure out-sourced functions. shall be subject to such conditions as may be specified in a written direction issued by the Authority or otherwise imposed by the Authority.
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
 
-4. Disclosure is solely in Any person participating connection with — or otherwise involved in the merger, acquisition or
-
-(a) the merger or issue, or proposed merger, proposed merger of acquisition or issue, a licensed trust including any of his company or its lawyers or other holding company professional advisers with another (whether or not the company; or
-
-merger or acquisition is
-
-(b) any acquisition or subsequently entered into issue, or proposed or completed).
-
-acquisition or issue, of any part of the share capital of a licensed trust company or its holding company, whether or not the merger, acquisition or issue is subsequently entered into or completed.
+3. Disclosure is solely Any person, including If any outsourced in connection with the head office of the function is to be the performance of licensed trust company performed outside operational or any branch of the Singapore, the functions of a licensed trust company disclosure is subject to licensed trust outside Singapore, who such conditions as company where the is engaged by the may be specified in a operational licensed trust company written direction functions have been to perform the issued by the outsourced. outsourced functions. Authority or otherwise imposed by the Authority.
 
 THIRD SCHEDULE — continued
 
-PART III
+First column . Second column . Third column
+
+Purposes for which Persons to whom Conditions confidential information information may be may be disclosed disclosed
+
+4. Disclosure is solely Any person in connection participating or with — otherwise involved in the merger, acquisition
+
+(a) the merger or or issue, or proposed proposed merger, acquisition or merger of a issue, including any of licensed trust the person’s lawyers or company or its other professional holding advisers (whether or company with not the merger or another acquisition is company; or
+
+subsequently entered
+
+(b) any acquisition into or completed).
+
+or issue, or proposed acquisition or issue, of any part of the share capital of a licensed trust company or its holding company,
+
+whether or not the merger, acquisition or issue is subsequently entered into or completed.
+
+THIRD SCHEDULE — continued
+
+PART 3
 
 INTERPRETATION
 
 In this Schedule, unless the context otherwise requires —
 
-‘‘appointed personal representative’’ , in relation to a deceased person, means a person appointed as executor or administrator of the estate of the deceased person;
+“appointed personal representative”, in relation to a deceased person, means a person appointed as executor or administrator of the estate of the deceased person;
 
-‘‘lawyer’’ means an advocate and solicitor of the Supreme Court of Singapore, a foreign lawyer or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
+“lawyer” means an advocate and solicitor of the Supreme Court of Singapore, a foreign lawyer or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
 
-‘‘public officer’’ includes any officer of a statutory board;
+“public officer” includes any officer of a statutory board;
 
-‘‘specified written law’’ means the Companies Act (Cap. 50), the Criminal Procedure Code (Cap. 68), the Goods and Services Tax Act (Cap. 117A), the Income Tax Act (Cap. 134), the Internal Security Act (Cap. 143), the Kidnapping Act (Cap. 151) and the Prevention of Corruption Act (Cap. 241).
+“specified written law” means the Companies Act 1967, the Criminal Procedure Code 2010, the Goods and Services Tax Act 1993, the Income Tax Act 1947, the Internal Security Act 1960, the Insolvency, Restructuring and Dissolution Act 2018, the Kidnapping Act 1961 and the Prevention of Corruption Act 1960.
+
+[40/2018]

@@ -1,21 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-TRUST COMPANIES ACT
-(CHAPTER 336)
-Act
-11 of 2005
-Amended by
-42 of 2005
-REVISED EDITION 2006
-(31st July 2006)
+TRUST COMPANIES ACT 2005
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2006
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the licensing and regulation of trust companies and for matters connected therewith.
 
-[1st February 2006]
+[1 February 2006]
