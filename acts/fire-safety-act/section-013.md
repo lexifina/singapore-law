@@ -1,26 +1,36 @@
-# 13. Abatement of fire hazards
-Part: PART II FIRE HAZARD IN BUILDINGS
+# 13. Powers in event of fire
+Part: PART 1 PRELIMINARY
 
-(1) The Commissioner may, if satisfied of the existence in or on any premises of any fire hazard, serve —
+(1) The Commissioner or any member of the Force authorised by the Commissioner may, in the event of a fire or a suspected fire, by himself or herself or with other members under his or her command —
 
-(a) upon the person by reason of whose act, default or sufferance the fire hazard arose or continues;
+(a) enter, break into or through and take possession of or demolish or cause to be taken possession of or demolished any premises or structure for the purpose of extinguishing or preventing the spread of the fire;
 
-(b) if such person is the employee or agent of some other person, upon such other person; or
+(b) enter, break into, take possession of, remove or destroy, or cause to be taken possession of, removed or destroyed, any aircraft, vehicle, vessel or thing for the purpose of extinguishing or preventing the spread of the fire;
 
-(c) upon the occupier or owner of the premises in or on which such fire hazard exists, a notice in writing requiring him to abate the fire hazard within the period specified in the notice, and to do all such things as may be necessary for that purpose, and to take all steps necessary to prevent the recurrence of such fire hazard.
+(c) take any equipment required to be used into, through or upon any premises, aircraft, vehicle or vessel where he or she thinks it necessary for the purpose of carrying out his or her duties;
 
-[5/2000]
+(d) remove from any building, structure, aircraft, vehicle or vessel which is on fire or is in the vicinity of the fire, any flammable, combustible, explosive or dangerous material found therein without responsibility for any consequent loss or damage;
 
-(2) The notice may, if the Commissioner thinks fit, specify any works to be executed for the purposes mentioned in subsection (1).
+(e) for the purpose of extinguishing or preventing the spread of the fire, cause any building or structure which is on fire, or which is adjacent to or in the vicinity of any building or structure which is on fire, to be pulled down, either wholly or partially, or otherwise destroyed or damaged;
 
-[5/2000]
+(f) cause water to be shut off from, or turned into, any main or pipe in order to obtain a greater pressure and supply of water for the purpose of extinguishing the fire in consultation with the Public Utilities Board;
 
-(3) Where the person by reason of whose act, default or sufferance a fire hazard arose or continues cannot be found and it is clear that the fire hazard neither arose nor continues by reason of any act, default or sufferance on the part of the occupier or owner of the premises in or on which it exists, the Commissioner may abate the hazard and may do what is necessary to prevent a recurrence thereof.
+(g) shut off or disconnect, or order any person having the control thereof to shut off or disconnect, the supply of gas, petroleum, flammable material or electricity to any premises which are on fire or which are in the vicinity of the fire;
 
-(4) Where a fire hazard abatement notice has been served on any person under subsection (1) and that person —
+(h) close or cause to be closed any street in the vicinity of the fire or calamity;
 
-(a) fails to comply with any of the requirements within the time specified in the notice; or
+(i) remove any aircraft, vehicle, vessel or thing impeding the operation of the Force and, where reasonably necessary for that purpose, he or she may use force or break into any such aircraft, vehicle, vessel or thing;
 
-(b) fails to take such steps as are specified in the notice to prevent the recurrence of the fire hazard, he shall, whether or not an order under section 16 has been made in respect of him, be guilty of an offence.
+(j) remove, using reasonable force if necessary, any person who, by that person’s presence or otherwise, interferes with the firefighting operations or who is, in his or her opinion, endangered by the fire;
 
-[5/2000]
+(k) control and direct all operations for the extinguishing of the fire and all fire services present and all persons there who place their services at his or her disposal;
+
+(l) use any convenient supply of water; and
+
+(m) generally do all other things that are reasonably necessary for protecting life or property or for extinguishing the fire or for preventing the spread of the fire.
+
+[7/2004; 14/2013]
+
+(2) No person or body (including the Government) shall be liable to any action, penalty or claim by reason of any action under subsection (1)(f).
+
+[7

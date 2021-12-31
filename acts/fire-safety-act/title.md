@@ -1,24 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-FIRE SAFETY ACT
-(CHAPTER 109A)
-Act
-39 of 1993
-1994 Ed. Cap. 109A
-Amended by
-1 of 1996
-5 of 2000
-S 449/2000
-REVISED EDITION 2000
-(30th December 2000)
+FIRE SAFETY ACT 1993
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to make provisions for fire safety and for matters connected therewith.
 
-[8th April 1994 (except Part VI, sections 60 and 62)
+[8 April 1994: Except Part VI and sections 60 and 62;
+
+29 April 1994: Part VI and sections 60 and 62]

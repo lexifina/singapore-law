@@ -1,6 +1,12 @@
-# 51. Compounding of offences
-Part: PART VII MISCELLANEOUS
+# 51. Licence conditions
+Part: PART 3B ALARM MONITORING SERVICES
 
-(1) The Commissioner may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+In granting a licence, the licensing officer may impose conditions, which may include conditions —
 
-(2) The Minister may make regulations to prescribe the offences which may be compounded under this section.
+(a) relating to the operational and technical requirements for the licensed alarm monitoring station; and
+
+(b) requiring the licensee to establish a communication link from the alarm monitoring system used in the licensed alarm monitoring station to the alarm monitoring network kept by the Force, in the manner specified.
+
+[22K
+
+[22/2019]

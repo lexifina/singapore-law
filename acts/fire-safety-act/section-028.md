@@ -1,20 +1,26 @@
-# 28. Appeal Advisory Board
-Part: PART IV CONTROL OF FIRE SAFETY WORKS
+# 28. Abatement of fire hazards
+Part: PART 2 FIRE HAZARD IN PREMISES
 
-(1) The Appeal Advisory Board shall consist of a Chairman, a Vice-Chairman and such other members as the Minister may determine.
+(1) The Commissioner may, if satisfied of the existence in or on any premises of any fire hazard, serve —
 
-(2) The Chairman, Vice-Chairman and members of the Appeal Advisory Board —
+(a) upon the person by reason of whose act, default or sufferance the fire hazard arose or continues;
 
-(a) shall be appointed by the Minister for such period as the Minister may determine and may from time to time be reappointed;
+(b) if such person is the employee or agent of some other person, upon such other person; or
 
-(b) may at any time be removed from office by the Minister; or
+(c) upon the occupier or owner of the premises in or on which such fire hazard exists, a written notice requiring the person to abate the fire hazard within the period specified in the notice, and to do all such things as may be necessary for that purpose, and to take all steps necessary to prevent the recurrence of such fire hazard.
 
-(c) may at any time resign from their office by writing addressed to the Minister.
+(2) The notice may, if the Commissioner thinks fit, specify any works to be executed for the purposes mentioned in subsection (1).
 
-(3) At any meeting of the Board, 3 members shall constitute a quorum.
+(3) The notice may, if the Commissioner thinks fit, require the person on whom the notice is served under subsection (1) to submit, within the period specified in the notice, a fire hazard mitigation plan to prevent such fire hazard from recurring in or on the premises.
 
-(4) The Chairman or, in his absence, the Vice-Chairman shall preside at every meeting of the Board.
+[14/2013]
 
-(5) In the absence of both the Chairman and the Vice-Chairman, such member as the members present may elect shall preside at the meeting.
+(4) Where the person by reason of whose act, default or sufferance a fire hazard arose or continues cannot be found and it is clear that the fire hazard neither arose nor continues by reason of any act, default or sufferance on the part of the occupier or owner of the premises in or on which it exists, the Commissioner may abate the fire hazard and may do what is necessary to prevent a recurrence thereof.
 
-(6) Subject to the provisions of this Act and any regulations made thereunder, the Board may determine its own procedure.
+(5) Where a fire hazard abatement notice has been served on any person under subsection (1) and that person —
+
+(a) fails to comply with any of the requirements within the time specified in the notice; or
+
+(b) fails to take such steps as are specified in the notice to prevent the recurrence of the fire hazard, the person shall, whether or not an order under section 31 has been made in respect of him, be guilty of an offence.
+
+[13

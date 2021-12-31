@@ -1,30 +1,50 @@
-# 7. Powers in event of fire
-Part: PART I PRELIMINARY
+# 7. Cancellation of registration and suspension from practice
+Part: PART 1 PRELIMINARY
 
-(1) The Commissioner or any officer authorised by him may, in the event of a fire or a suspected fire, by himself or with other members under his command —
+(1) Without prejudice to section 11(7), the Commissioner may by order cancel the registration of any registered inspector or suspend him or her from practice for a period not exceeding 12 months under any of the following circumstances:
 
-(a) enter, break into or through and take possession of or demolish or cause to be taken possession of or demolished any premises or thing for the purpose of extinguishing or preventing the spread of the fire;
+(a) if he or she is deceased;
 
-(b) take any equipment required to be used into, through or upon any premises where he thinks it necessary for the purpose of carrying out his duties;
+(b) if he or she has contravened or failed to comply with section 8(1);
 
-(c) remove from any building or structure which is on fire or is in the vicinity of the fire, any flammable, combustible, explosive or dangerous material found therein without responsibility for any consequent loss or damage;
+(c) if he or she is convicted of an offence involving fraud or dishonesty or an offence under this Act;
 
-(d) for the purpose of extinguishing or preventing the spread of the fire, cause any building or structure which is on fire, or which is adjacent to or in the vicinity of any building or structure which is on fire, to be pulled down, either wholly or partially, or otherwise destroyed or damaged;
+(d) if it appears to the Commissioner that he or she is no longer in the position to carry out the duties or responsibilities of a registered inspector under this Act;
 
-(e) cause water to be shut off from, or turned into, any main or pipe in order to obtain a greater pressure and supply of water for the purpose of extinguishing the fire in consultation with the Public Utilities Board;
+(e) if he or she has procured his or her registration by fraud or misrepresentation; or
 
-(f) shut off or disconnect, or order any person having the control thereof to shut off or disconnect, the supply of gas, fuel oil or electricity to any premises which is on fire or which is in the vicinity of the fire;
+(f) if he or she is a qualified person or a fire safety engineer, his or her registration as such is revoked or cancelled or he or she is suspended from practising as such under this Act or any other relevant written law.
 
-(g) close or cause to be closed any street in the vicinity of the fire or calamity;
+[7/2004; 14/2013]
 
-(h) remove any vehicle impeding the operation of the Force and, where reasonably necessary for that purpose, he may use force or break into any such vehicle;
+(2) The Commissioner may, if the Commissioner considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, by writing censure the registered inspector.
 
-(i) remove, using reasonable force if necessary, any person who, by his presence or otherwise, interferes with the fire-fighting operations or who is, in his opinion, endangered by the fire;
+(3) The Commissioner must not exercise the Commissioner’s powers under subsection (1)(b), (c), (d), (e) or (f) or (2) unless an opportunity of being heard has been given to the registered inspector against whom the Commissioner intends to exercise his or her powers.
 
-(j) control and direct all operations for the extinguishing of the fire and all fire services present and all persons there who place their services at his disposal;
+[7/2004]
 
-(k) use any convenient supply of water; and
+(4) Where a registered inspector has been suspended from practice under subsection (1), the Commissioner must, within 7 days of the expiry of such suspension, restore the name and particulars of that registered inspector to the register of registered inspectors and issue to him or her a fresh certificate of registration.
 
-(l) generally do all other things that are reasonably necessary for protecting life or property or for extinguishing the fire or for preventing the spread thereof.
+[7/2004]
 
-(2) No person or body (including the Government) shall be liable to any action, penalty or claim by reason of any action under subsection (1) (f).
+(5) Any person whose application for registration as a registered inspector is refused, or who is dissatisfied with the decision of the Commissioner under subsection (1), may, within 14 days of being notified in writing of the refusal or the decision, appeal to the Minister.
+
+[22/2019]
+
+(6) Where an order made by the Commissioner to cancel the registration of a registered inspector or suspend the registered inspector from practice has taken effect, the Commissioner must —
+
+(a) remove the name and particulars of the inspector concerned from the register of registered inspectors;
+
+(b) cancel any certificate of registration issued to the inspector concerned under section 6(5); and
+
+(c) notify the inspector concerned accordingly.
+
+(7) The inspector concerned must, within 14 days of being notified of the removal of his or her name and particulars from the register of registered inspectors, surrender to the Commissioner the certificate of registration issued to him or her.
+
+(8) Any person who fails to comply with subsection (7) shall be guilty of an offence.
+
+(9) Any person whose name has been removed from the register of registered inspectors under subsection (1)(b), (c), (d), (e) or (f) must, if his or her appeal to the Minister is allowed, have his or her name reinstated as soon as may be practicable.
+
+[5A
+
+[7/2004; 14/2013]

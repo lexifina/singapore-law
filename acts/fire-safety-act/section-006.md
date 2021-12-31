@@ -1,28 +1,16 @@
-# 6. Independence of registered inspectors
-Part: PART I PRELIMINARY
+# 6. Registration of registered inspectors
+Part: PART 1 PRELIMINARY
 
-(1) At the time of carrying out the duties and responsibilities or exercising all or any of the powers of the Commissioner under this Act or any regulations made thereunder as may be authorised by the Commissioner under section 3 (3) or any regulations made under this Act, a registered inspector shall have no professional or financial interest in the building or any part thereof or in the building or fire safety works in respect of which the duties and responsibilities or powers are to be carried out or exercised.
+(1) An application for registration as a registered inspector must be made in such manner and must be accompanied by such documents and particulars as may be prescribed.
 
-(2) A registered inspector shall be regarded as having a professional or financial interest in the building or any part thereof or in the building or fire safety works if —
+(2) No person may be registered as a registered inspector unless he or she can satisfy the Commissioner that he or she possesses the prescribed qualifications and practical experience.
 
-(a) he is or has been responsible for or acting as consultant to the design or construction of the building or any of the fire safety works in any capacity;
+(3) Without prejudice to subsection (2), the Commissioner may refuse to register as a registered inspector an applicant who, in the Commissioner’s opinion, is not of good character and reputation or unable to carry out the duties and responsibilities of a registered inspector under this Act.
 
-(b) he or any nominee of his is a member, officer or employee of a company or other body which has a professional or financial interest in the building or any part thereof or in the building or fire safety works; or
+[14/2013]
 
-(c) he is a partner or is in the employment of a person who has a professional or financial interest in the building or any part thereof or in the building or fire safety works.
+(4) The Commissioner may appoint a committee of persons to assist the Commissioner in considering applications for registration as registered inspectors.
 
-(3) For the purposes of this Act —
+(5) Where the Commissioner has registered a person as a registered inspector, the Commissioner must issue to the person a certificate of registration.
 
-(a) a person shall be treated as having a professional or financial interest in the building or any part thereof or in the building or fire safety works even if he has that interest only as trustee for the benefit of some other person; and
-
-(b) in the case of a husband and wife living together, the interest of one spouse shall, if known to the other, be deemed to be also an interest of the other.
-
-(4) For the purposes of this Act —
-
-(a) involvement in the fire safety works as a registered inspector; and
-
-(b) entitlement to any fee paid for his function as a registered inspector, shall not be regarded as constituting a professional or financial interest.
-
-(5) In this section, ‘‘fire safety works’’ means fire protection works, minor works and the installation of fire safety measures in building works.
-
-(6) Any person who contravenes this section shall be guilty of an offence.
+[5

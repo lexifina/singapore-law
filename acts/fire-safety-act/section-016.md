@@ -1,26 +1,28 @@
-# 16. Fire hazard order
-Part: PART II FIRE HAZARD IN BUILDINGS
+# 16. Power to enter premises, etc., up to 48 hours after fire
+Part: PART 1 PRELIMINARY
 
-(1) Where a fire hazard abatement notice is served on any person, and if —
+(1) For the purposes of investigating the cause or origin of any fire which has occurred in or on any aircraft, vessel or vehicle, or in or on any premises, the Commissioner, or a member of the Force or a fire forensic specialist authorised by the Commissioner in writing —
 
-(a) that person fails to comply with any of the requirements of the notice within the time specified therein; or
+(a) may enter and inspect those premises or any adjacent premises, or may board the aircraft, vessel or vehicle, as the case may be; and
 
-(b) the fire hazard, although abated since the service of the notice, is, in the opinion of the Commissioner, likely to recur in or on the same premises, the Commissioner may make a complaint to a Magistrate’s Court and the Court hearing the complaint may grant or refuse to grant a fire hazard order.
+(b) may seize or detain the aircraft or vehicle.
 
-(2) A fire hazard order referred to in subsection (1) may be —
+[10/2015]
 
-(a) an abatement order, that is to say, an order which requires a person to comply with all or any of the requirements of a fire hazard abatement notice in connection with which the order is made, or otherwise to abate the fire hazard or to do what may be necessary to prevent the recurrence of the fire hazard within the period specified in the order;
+(2) The power conferred under subsection (1)(a) on the Commissioner, or a member of the Force or a fire forensic specialist authorised by the Commissioner, may be exercised —
 
-(b) a prohibition order, that is to say, an order which prohibits the use of any premises for such activities as are specified in the order which activities may materially increase the likelihood of fire or danger to life or property resulting from the outbreak of fire in or on the premises;
+(a) without notice within a period of 48 hours after the fire on the premises, aircraft, vessel or vehicle (as the case may be) has been put out; and
 
-(c) a closing order, that is to say, an order authorising the closure of any premises which is likely to be a danger to life or property in the event of fire; or
+(b) in any other case, only after giving written notice of the intended entry to the occupier of the premises or intended boarding to the owner of the aircraft, vessel or vehicle, as the case may be.
 
-(d) a combination of such orders.
+[10/2015]
 
-(3) An abatement order or a prohibition order shall, if the person in respect of whom the order is made so requires or if the Magistrate’s Court making the order considers it desirable, specify the works to be executed by such person for the purpose of abating, or of preventing the recurrence of, the fire hazard to which the order relates.
+(3) However, this section does not authorise the Commissioner, or a member of the Force or a fire forensic specialist, to enter any part of any premises, or to board any part of an aircraft, vessel or vehicle (as the case may be), without first producing (if so required) an authenticated document showing his or her authority to so enter or board.
 
-(4) A Magistrate’s Court, if satisfied that any premises in respect of which a prohibition order or a closing order granted under section 15 (6) or this section is in force has been rendered suitable for the use specified in the order, may, on application by the Commis- sioner or the owner or occupier of the premises, declare that it is so satisfied and revoke the prohibition order or closing order.
+[10/2015]
 
-(5) Any person who without reasonable excuse contravenes a fire hazard order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the default continues after conviction.
+(4) To avoid doubt, nothing in this section limits the powers of any authority to investigate accidents under any written law for the time being in force relating to air navigation or merchant shipping.
 
-(6) Without prejudice to subsection (5), where a fire hazard order has not been complied with, the Commissioner may abate the fire hazard and may do whatever may be necessary in the execution of the order, and may recover any expenses reasonably incurred thereby from the person against whom the order was made.
+[8B
+
+[10/2015]

@@ -1,22 +1,36 @@
-# 8. General powers of entry
-Part: PART I PRELIMINARY
+# 8. Independence of registered inspectors
+Part: PART 1 PRELIMINARY
 
-(1) Subject to this section, the Commissioner or any member of the Force authorised by him in writing on producing, if so required, an authenticated document showing his authority shall have a right to enter any premises at all reasonable hours for the purpose of —
+(1) At the time of carrying out his or her duties and responsibilities or exercising his or her powers as a registered inspector under this Act, a registered inspector must not have a professional or financial interest in the building or relevant pipeline, or any part thereof, or fire safety works in respect of which the duties and responsibilities or powers are to be carried out or exercised.
 
-(a) ascertaining whether there is or has been, on or in connection with the premises, any contravention of any of the provisions of this Act or any regulations made thereunder;
+[7/2004; 14/2013]
 
-(b) obtaining information required for fire-fighting purposes with respect to the character of the premises, the availability of water supplies and the means of access thereto and other material circumstances relating to fire-fighting purposes;
+(2) A registered inspector is regarded as having a professional or financial interest in the building or relevant pipeline, or any part thereof, or fire safety works if —
 
-(c) conducting fire-drills and exercises, provided prior reason- able notice in writing is given to the owner or occupier of such premises;
+(a) he or she is or has been responsible for or acting as consultant to the design or construction of the building or relevant pipeline, or any of the fire safety works in any capacity;
 
-(d) ascertaining whether there exists in the premises any fire hazard;
+(b) he or she or any nominee of his or hers is a member, officer or employee of a company or other body which has a professional or financial interest in the building or relevant pipeline, or any part thereof, or fire safety works; or
 
-(e) determining the cause or causes of any fire which has occurred in such premises;
+(c) he or she is a partner or is in the employment of a person who has a professional or financial interest in the building or relevant pipeline, or any part thereof, or fire safety works.
 
-(f) ascertaining whether or not any place of public assembly or premises used for purposes of entertainment or recreation are being used to accommodate a larger number of persons than is permitted under any regulations made under this Act;
+[14/2013]
 
-(g) checking and testing fire safety measures; and
+(3) For the purposes of this Act —
 
-(h) performance by the Commissioner or the Force of his or its powers under this or any other written law.
+(a) a person is to be treated as having a professional or financial interest in the building or relevant pipeline, or any part thereof, or fire safety works even if the person has that interest only as trustee for the benefit of some other person;
 
-(2) The Commissioner or any person authorised by him in writing shall not exercise the right of entry conferred by this section in respect of such premises as are not a place of public entertainment or public assembly, factory, workshop or workplace nor premises otherwise used for business purposes, unless 24 hours’ notice in writing of the intended entry has been given to the occupier.
+and
+
+(b) in the case of a husband and wife living together, the interest of one spouse is, if known to the other, deemed to be also an interest of the other.
+
+[14/2013]
+
+(4) For the purposes of this Act —
+
+(a) involvement in the fire safety works as a registered inspector; and
+
+(b) entitlement to any fee paid for his or her function as a registered inspector, is not regarded as constituting a professional or financial interest.
+
+(5) Any person who contravenes this section shall be guilty of an offence.
+
+[6

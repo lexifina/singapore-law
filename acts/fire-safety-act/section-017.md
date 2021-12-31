@@ -1,20 +1,80 @@
-# 17. Provision as to appeal against order
-Part: PART II FIRE HAZARD IN BUILDINGS
+# 17. Powers ancillary to sections 14, 15 or 16
+Part: PART 1 PRELIMINARY
 
-(1) Where a person appeals to the High Court against a fire hazard order, no liability to a fine shall arise nor, except as mentioned in this section, shall any proceedings be taken or work done under such order until after the determination or abandonment of such appeal.
+(1) The Commissioner or any member of the Force or fire forensic specialist exercising the powers under section 14, 15 or 16 may (so far as may be reasonably necessary for the purpose to which his or her exercise of the powers relates) do all or any of the following in the premises, aircraft, vehicle or vessel, as the case may be:
 
-(2) There shall be no appeal to the High Court against a fire hazard order, unless it is or includes a closing order or requires the execution of structural works.
+(a) take with him or her any assistance or equipment;
 
-(3) Where a fire hazard order is made and a person does not comply with it and appeals against it to the High Court and the appeal is dismissed or is abandoned, the appellant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day during the non-compliance with the order, unless he satisfies the court before which proceedings are taken for imposing a fine that there was substantial ground for the appeal and that the appeal was not brought merely for the purpose of delay.
+(b) search the premises, aircraft, vehicle or vessel;
 
-(4) Where the appeal is heard by the High Court, the High Court may, on dismissing the appeal, impose the fine as if the High Court were the court before which proceedings were taken for imposition of the fine.
+(c) take photographs or video recordings of and conduct any inspection, measurement or test on the premises, aircraft, vehicle or vessel or any thing found therein;
 
-(5) In the event of an appeal against a fire hazard order, no work, except as mentioned in subsection (6), shall be done under section 16 (6) under the order until after the determination or abandonment of the appeal.
+(d) take, without payment, for the purpose of examination reasonable samples of any description from the premises, aircraft, vehicle or vessel;
 
-(6) If the court by which the order was made is of the opinion that the nature of the fire hazard is such as to require immediate abatement, the court may, notwithstanding that the appeal is pending, authorise the Commissioner immediately to abate the hazard.
+(e) seize or detain any thing found in the premises, aircraft, vehicle or vessel that he or she believes on reasonable grounds to be connected with the commission of any offence under this Act or to be otherwise relevant to the administration or enforcement of this Act;
 
-(7) Notwithstanding subsection (6) —
+(f) do any other thing reasonably necessary for carrying out the purpose to which his or her exercise of the powers relates.
 
-(a) if the appeal is allowed, the Commissioner shall pay to the person against whom the order was made the amount of any damage sustained by him by reason of the abatement of the hazard by the Commissioner; and
+[14/2013; 10/2015]
 
-(b) if the appeal is dismissed or abandoned, the Commissioner may recover from such person the expenses incurred by him in abating the hazard in the manner provided for in section 19.
+(2) For the purposes of section 14, 15 or 16 or subsection (1)(b), the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 14, 15 or 16 (as the case may be), may —
+
+(a) require the owner or occupier of the premises, or the owner or person having charge of the aircraft, vehicle or vessel (as the case may be), to provide all reasonable assistance to the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 14, 15 or 16, as the case may be; and
+
+(b) if the circumstances so warrant, with such assistance as he or she thinks necessary, break open any door, window, lock, fastener, hold, compartment, box, container, receptacle or any other thing.
+
+[14/2013; 10/2015]
+
+(3) Any person who fails to comply with any requirement made under subsection (2)(a) shall be guilty of an offence.
+
+[14/2013]
+
+(4) Where the Commissioner, or a member of the Force or a fire forensic specialist seizes any thing under subsection (1)(e), he or she must —
+
+(a) immediately give written notice of the seizure to the owner of the thing seized or to the agent of such owner; or
+
+(b) if the name and address of the owner or agent of the thing seized are not known, affix a notice prominently at the place where the thing was seized.
+
+[14/2013; 10/2015]
+
+(5) Any person aggrieved by the seizure of any thing under subsection (1)(e) may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court.
+
+[14/2013]
+
+(6) Upon hearing such complaint, the Magistrate’s Court may —
+
+(a) confirm the seizure wholly or in part;
+
+(b) disallow the seizure wholly or in part;
+
+(c) order that any thing seized be restored to its owner, subject to any condition which the Court may think fit to impose to ensure that the thing is preserved for any purpose for which it may subsequently be required; or
+
+(d) order payment to be made to the owner of the thing seized of such amount as the Court considers will compensate the owner for any loss or depreciation resulting from the seizure.
+
+[14/2013]
+
+(7) Any thing seized under subsection (1)(e) may be kept or stored at the place where it was seized or may, at the direction of the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 14, 15 or 16, be removed to any other place to be kept or stored thereat.
+
+[14/2013; 10/2015]
+
+(8) The Commissioner, or a member of the Force or a fire forensic specialist authorised under section 14, 15 or 16 may mark, seal or label any thing being detained under subsection (1)(e) in such manner as he or she thinks fit for the purpose of indicating that the thing is under detention and may lock or seal the place (or any part thereof) in which the thing is being detained.
+
+[14/2013; 10/2015]
+
+(9) Any person who, without the authority of the Commissioner, or a member of the Force or a fire forensic specialist authorised under section 14, 15 or 16, as the case may be —
+
+(a) interferes with, removes or otherwise disposes of any thing seized or detained under section 14, 15 or 16 or tampers with, alters or removes any mark, seal or label placed under subsection (8); or
+
+(b) opens, breaks or otherwise tampers with the lock or seal placed under subsection (8), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[14/2013; 10/2015]
+
+(10) Subsections (4) to (9) apply to any aircraft or vehicle seized under section 16 as if they were seized or detained under subsection (1)(e).
+
+[14/2013]
+
+(11) Nothing in this section is to be taken to prejudice any right to retain or dispose of property which may exist in law apart from this section.
+
+[8C
+
+[14/2013]

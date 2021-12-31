@@ -1,6 +1,12 @@
-# 58. Saving of prosecutions under other laws
-Part: PART VII MISCELLANEOUS
+# 58. Supervision of fire safety works
+Part: PART 4 CONTROL OF FIRE SAFETY WORKS
 
-(1) Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other law to any other or higher punishment or penalty than that provided by this Act or any such regulations.
+(1) Except as otherwise provided in this Act, a person must not commence or carry out any fire safety works except under the supervision of an appropriate qualified person or fire safety engineer appointed under section 57(1), (2) or (3)(b).
 
-(2) No person shall be punished twice for the same offence.
+[7/2004; 14/2013; 22/2019]
+
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues after conviction.
+
+[26
+
+[14/2013]

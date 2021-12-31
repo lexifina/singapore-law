@@ -1,6 +1,24 @@
-# 26. Supervision of fire safety works
-Part: PART IV CONTROL OF FIRE SAFETY WORKS
+# 26. Offence for owner or occupier to cause, etc., specified fire hazard
+Part: PART 2 FIRE HAZARD IN PREMISES
 
-(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out any fire safety works except under the supervision of an appropriate qualified person appointed under section 25 (1) or (2) (b).
+(1) An owner or occupier of any building commits an offence if the owner or occupier causes, or does or omits to do anything that is likely to cause, a specified fire hazard to arise at the building.
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+[22/2019]
+
+(2) An owner or occupier of any building commits an offence if the owner or occupier knows or ought to know that —
+
+(a) there is a specified fire hazard in the building; or
+
+(b) a specified fire hazard is likely to arise at the building, but does not take reasonable steps to abate the specified fire hazard or prevent the specified fire hazard from arising, as the case may be.
+
+[22/2019]
+
+(3) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove that the defendant intended to cause a specified fire hazard to arise at the building.
+
+[22/2019]
+
+(4) The offence under subsection (1) is a strict liability offence.
+
+[12A
+
+[22/2019]

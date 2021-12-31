@@ -1,12 +1,8 @@
-# 5. Registration of registered inspectors
-Part: PART I PRELIMINARY
+# 5. Register of registered inspectors
+Part: PART 1 PRELIMINARY
 
-(1) An application for registration as a registered inspector shall be made in such manner and shall be accompanied by such documents and particulars as may be prescribed.
+(1) The Commissioner must keep and maintain a register in which must be entered the names and prescribed particulars of all persons registered under section 6 as registered inspectors.
 
-(2) No person shall be registered as a registered inspector unless he can satisfy the Commissioner that he possesses the prescribed qualifications and practical experience.
+(2) The register of registered inspectors must be kept and maintained at the office of the Commissioner and must be available for inspection by any person without charge at such time as that office is open for business.
 
-(3) Without prejudice to subsection (2), the Commissioner may refuse to register as a registered inspector an applicant who, in his opinion, is not of good character and reputation or unable to carry out the duties and responsibilities of a registered inspector under this Act or any regulations made thereunder.
-
-(4) The Commissioner may appoint a committee of persons to assist him in considering applications for registration as registered inspectors.
-
-(5) Where the Commissioner has registered a person as a registered inspector, the Commissioner shall issue to the person a certificate of registration.
+[4

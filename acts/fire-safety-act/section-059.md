@@ -1,8 +1,22 @@
-# 59. Protection from liability
-Part: PART VII MISCELLANEOUS
+# 59. Modification or waiver of requirements relating to fire safety
+Part: PART 4 CONTROL OF FIRE SAFETY WORKS
 
-(1) No liability shall lie against the Government or any public officer by reason of the fact that any fire safety works are carried out in accordance with the provisions of this Act or that such works or plans of the building are subject to inspection or approval by the Commissioner or the public officer.
+(1) The Commissioner may, on receipt of an application in relation to any particular fire safety works, modify or waive, subject to such terms and conditions as the Commissioner may impose, any of the requirements relating to fire safety in buildings or in relation to relevant pipelines as may be prescribed in any regulations made under this Act.
 
-(2) Nothing in this Act shall make it obligatory for the Commis- sioner to inspect any building or fire safety works or the site of any proposed building to ascertain whether the provisions of this Act or any regulations made thereunder are complied with or whether any plans, certificates, notices or other documents submitted to him are accurate.
+[14/2013]
 
-(3) No matter or thing done by the Commissioner or by any public officer shall, if it were done bona fide for the purpose of carrying out the provisions of this Act or any regulations made thereunder, subject him or such person personally liable to any action, liability, claim or demand whatsoever.
+(2) Every such application must —
+
+(a) be made in writing to the Commissioner by or on behalf of the owner of the building or the person for whom the relevant pipeline works are being carried out (as the case may be) to which the application relates;
+
+(b) state the nature and extent of and the reasons for the proposed modification or waiver of such requirements; and
+
+(c) be accompanied by such plans and other particulars as may be prescribed.
+
+[14/2013]
+
+(3) Where an application made under subsection (2) is refused, or is granted by the Commissioner subject to such terms and conditions as he may impose, the applicant may, if aggrieved by the decision of the Commissioner, appeal to the Minister within 28 days of the date of notification of the decision.
+
+[27
+
+[22/2019]

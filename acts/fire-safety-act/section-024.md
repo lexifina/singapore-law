@@ -1,6 +1,12 @@
-# 24. Prohibition of fire safety works without approval of plans
-Part: PART IV CONTROL OF FIRE SAFETY WORKS
+# 24. Damaging, etc., of fire hydrants
+Part: PART 1 PRELIMINARY
 
-(1) Except as otherwise provided in this Act or any regulations made thereunder, no person shall commence or carry out or permit or authorise the commencement or carrying out of any fire safety works in any building unless the Commissioner has approved all the plans of the fire safety works under section 23.
+(1) Any person who —
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(a) not being a member of the Force takes water from a fire hydrant other than for the extinguishment of a fire without the consent of the Commissioner or the Public Utilities Board, as the case may be; or
+
+(b) wilfully damages a fire hydrant, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(2) Any person convicted of an offence under subsection (1)(b) shall, in addition to the fine imposed on the person under that subsection, also be liable to pay compensation to the Public Utilities Board for any expenses reasonably incurred in repairing or replacing such fire hydrant.
+
+[11

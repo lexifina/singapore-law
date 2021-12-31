@@ -1,30 +1,14 @@
-# 34. Interpretation of this Part
-Part: PART VI CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
+# 34. Recovery of costs and expenses by Commissioner
+Part: PART 2 FIRE HAZARD IN PREMISES
 
-In this Part, unless the context otherwise requires —
+(1) If all and any sums payable by or recoverable from the owner in respect of costs and expenses incurred by the Commissioner in or about the execution of any work which are under this Act recoverable from the owner of any premises are not paid by the owner within 14 days after demand, such sums may be reported to a District Court or a Magistrate’s Court and recovered in the same manner as if it were a fine imposed by a District Court or a Magistrate’s Court, as the case may be.
 
-‘‘Class O petroleum’’ means liquefied petroleum gas;
+(2) An appeal lies to the General Division of the High Court from any decision of a District Court or a Magistrate’s Court under this section, and the provisions of the Criminal Procedure Code 2010 apply, with the necessary modifications, to all such appeals.
 
-‘‘Class I petroleum’’ means any petroleum having a flashpoint of less than 23° celsius but does not include Class O petroleum;
+[40/2019]
 
-‘‘Class II petroleum’’ means any petroleum having a flashpoint of or exceeding 23° celsius but less than 61° celsius;
+(3) The person liable to pay any sum under subsection (1) is the owner at the time when the work was completed.
 
-‘‘dispensing’’ means transferring any class of petroleum from one container to any other container or containers for the purpose of distribution, through hose, pipe or by any other means and includes discharging into a motor vehicle or from the tank of a road tanker;
+(4) Any occupier who, when requested by or on behalf of the Commissioner to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully misstates the same shall, unless the occupier shows cause to the satisfaction of a District Court or a Magistrate’s Court for the occupier’s refusal or misstatement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-‘‘flammable materials’’ includes —
-
-(a) any liquid or mixtures of liquids containing solids in solution or suspension which have a flashpoint not greater than 61° celsius when tested in accordance with such method as may be prescribed by any regulations made under this Act;
-
-(b) any gas that has a lower flammability limit less than 13% by volume or a flammability range greater than 12; and
-
-(c) any other substances that are easily combustible or which on contact with water, emit flammable gases;
-
-‘‘licensed premises’’ means any premises licensed for the storage of any class of petroleum under this Act;
-
-‘‘liquefied petroleum gas’’ means any material having a vapour pressure not exceeding that allowed for commercial propane and composed predominantly of the following hydrocarbons, either by themselves or as mixtures, that is to say, propane, propylene, butane (normal butane or iso-butane) and butylenes;
-
-‘‘petroleum’’ includes crude petroleum, liquefied petroleum gas and other naturally occurring hydrocarbon liquid derived from crude petroleum, coal, shale, peat or other bituminous substances;
-
-‘‘place’’ includes houses, yards and open spaces appurtenant thereto, buildings and footways and any underground space;
-
-‘‘transport’’ means to remove from any place to any other place within or without Singapore.
+[19
