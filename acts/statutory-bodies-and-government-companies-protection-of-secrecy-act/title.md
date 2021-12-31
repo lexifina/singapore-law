@@ -1,33 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
 STATUTORY BODIES AND GOVERNMENT COMPANIES
-(PROTECTION OF SECRECY) ACT
-(CHAPTER 319)
-Act
-17 of 1983
-1985 Ed. Cap. 319
-1995 Ed. Cap. 319
-Amended by
-29 of 1995
-1 of 1996
-7 of 1996
-1998 Ed. Cap. 319
-Amended by
-41 of 1999
-9 of 2000
-3 of 2001
-17 of 2001
-25 of 2002
-REVISED EDITION 2004
-(31st July 2004)
+(PROTECTION OF SECRECY) ACT 1983
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2004
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to protect the secrecy of information of statutory bodies and Government companies.
 
-[20th January 1984]
+[20 January 1984]

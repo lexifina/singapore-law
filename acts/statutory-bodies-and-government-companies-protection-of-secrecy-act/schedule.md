@@ -2,82 +2,92 @@
 
 Sections 2 and 5
 
-PART I
+PART 1
 
 STATUTORY BODIES
 
-Act under which Statutory body established or constituted
+. Statutory body . Act under which established or constituted
 
-1. Building and Construction Building and Construction Authority Authority Act (Chapter 30A)
+1. Agency for Science, . Agency for Science, Technology Technology and Research and Research Act 1990
 
-2. Central Provident Fund Board Central Provident Fund Act (Chapter 36)
+2. Building and Construction Building and Construction Authority Authority Act 1999 THE SCHEDULE — continued
 
-3. Civil Aviation Authority of Civil Aviation Authority of Singapore Singapore Act (Chapter 41)
+. Statutory body . Act under which established or constituted
 
-4. Commercial and Industrial Security Commercial and Industrial Corporation Security Corporation Act (Chapter 47)
+3. Casino Regulatory Authority Casino Control Act 2006 of Singapore
 
-5. Defence Science and Technology Defence Science and Technology Agency Agency Act (Chapter 75A)
+4. Central Provident Fund Board Central Provident Fund Act 1953
 
-Government Companies 2004 Ed. (Protection of Secrecy) CAP. 319 3
+5. Civil Aviation Authority of Civil Aviation Authority of Singapore Singapore Act 2009
 
-THE SCHEDULE — continued
+6. Competition and Consumer Competition Act 2004 Commission of Singapore
 
-Act under which Statutory body established or constituted
+7. Defence Science and Defence Science and Technology Technology Agency Agency Act 2000
 
-6. Economic Development Board Economic Development Board Act (Chapter 85)
+8. Economic Development Economic Development Board Board Act 1961
 
-7. Housing and Development Board Housing and Development Act (Chapter 129)
+9. Energy Market Authority of Energy Market Authority of Singapore Singapore Act 2001
 
-8. Info-communications Development Info-communications Development Authority of Singapore Authority of Singapore Act (Chapter 137A)
+10. Enterprise Singapore Board Enterprise Singapore Board Act 2018
 
-9. Inland Revenue Authority of Inland Revenue Authority of Singapore Singapore Act (Chapter 138A)
+11. Government Technology Government Technology Agency Agency Act 2016
 
-10. Intellectual Property Office of Intellectual Property Office of Singapore Singapore Act (Chapter 140)
+12. Home Team Science and Home Team Science and Technology Agency Technology Agency Act 2019
 
-11. International Enterprise Singapore International Enterprise Singapore Board Board Act (Chapter 143B).
+13. Housing and Development Housing and Development Board Act 1959 THE SCHEDULE — continued
 
-12. Jurong Town Corporation Jurong Town Corporation Act (Chapter 150)
+. Statutory body . Act under which established or constituted
 
-13. Land Transport Authority of Land Transport Authority of Singapore Singapore Act (Chapter 158A)
+14. Info-communications Media Info-communications Media Development Authority Development Authority Act 2016
 
-14. Majlis Ugama Islam, Singapura Administration of Muslim Law Act (Chapter 3)
+15. Inland Revenue Authority of Inland Revenue Authority of Singapore Singapore Act 1992
 
-15. Maritime and Port Authority of Maritime and Port Authority of Singapore Singapore Act (Chapter 170A)
+16. Intellectual Property Office of Intellectual Property Office of Singapore Singapore Act 2001
 
-16. Media Development Authority of Media Development Authority of Singapore Singapore Act (Chapter 172)
+17. Jurong Town Corporation Jurong Town Corporation Act 1968
 
-17. Monetary Authority of Singapore Monetary Authority of Singapore Act (Chapter 186)
+18. Land Transport Authority of Land Transport Authority of Singapore Singapore Act 1995
 
-18. National Environment Agency National Environment Agency Act (Chapter 195)
+19. Majlis Ugama Islam, Administration of Muslim Law Singapura Act 1966
 
-19. People’s Association People’s Association Act (Chapter 227)
+20. Maritime and Port Authority Maritime and Port Authority of of Singapore Singapore Act 1996
 
-20. Public Transport Council Public Transport Council Act (Chapter 259B)
+21. Monetary Authority of Monetary Authority of Singapore Singapore Act 1970
 
-21. Public Utilities Board Public Utilities Act (Chapter 261)
+22. National Environment National Environment Agency Agency Act 2002
 
-Government Companies 4 CAP. 319 (Protection of Secrecy) 2004 Ed.
+23. National Parks Board National Parks Board Act 1996
 
-THE SCHEDULE — continued
+24. People’s Association People’s Association Act 1960 THE SCHEDULE — continued
 
-Act under which Statutory body established or constituted
+. Statutory body . Act under which established or constituted
 
-22. Singapore Land Authority Singapore Land Authority Act (Chapter 301)
+25. Public Transport Council Public Transport Council Act 1987
 
-23. Singapore Tourism Board Singapore Tourism Board Act (Chapter 305B)
+26. Public Utilities Board Public Utilities Act 2001
 
-24. Singapore Workforce Development Singapore Workforce Agency Development Agency Act 2003 (Act 14 of 2003)
+27. Singapore Examinations and Singapore Examinations and Assessment Board Assessment Board Act 2003
 
-25. Standards, Productivity and Standards, Productivity and Innovation Board Innovation Board Act (Chapter 303A)
+28. Singapore Food Agency Singapore Food Agency Act 2019
 
-26. Urban Redevelopment Authority Urban Redevelopment Authority Act (Chapter 340)
+29. Singapore Land Authority Singapore Land Authority Act 2001
 
-PART II
+30. Singapore Tourism Board Singapore Tourism Board Act 1963
+
+31. SkillsFuture Singapore SkillsFuture Singapore Agency Agency Act 2016
+
+32. Urban Redevelopment Urban Redevelopment Authority Authority Act 1989
+
+33. Workforce Singapore Agency Workforce Singapore Agency Act 2003
+
+PART 2
 
 GOVERNMENT COMPANIES
 
 PSA Corporation Limited and its subsidiary corporations.
 
-[G.N. Nos. S 565/95; S 446/96; S 483/96; S 455/97;
+[17/2009; 20/2016; 22/2016; 23/2016; 24/2016; 10/2018;
 
-S 92/98; S 430/98; S 495/2003; S 276/2004]
+10/2019; 11/2019; 21/2019; S 288/2005; S 599/2005;
+
+S 178/2008; S 589/2009]
