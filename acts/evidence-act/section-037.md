@@ -1,0 +1,4 @@
+# 37. Relevancy of entry in public record made in performance of duty
+Part: PART 1 RELEVANCY OF FACTS Preliminary
+
+An entry in any public or other official book, register or record, stating a fact in issue or relevant fact and made by a public officer in the discharge of his or her official duty or by any other person in performance of a duty specially enjoined by the law of the country in which such book, register or record is kept, is itself a relevant fact.

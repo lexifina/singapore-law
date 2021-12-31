@@ -1,0 +1,10 @@
+# 145. When they may be asked
+Part: PART 3 PRODUCTION AND EFFECT OF EVIDENCE Burden of proof
+
+(1) Leading questions may be asked in cross-examination, subject to the following qualifications:
+
+(a) the question must not put into the mouth of the witness the very words which he or she is to echo back again; and
+
+(b) the question must not assume that facts have been proved which have not been proved, or that particular answers have been given contrary to the fact.
+
+(2) The court, in its discretion, may prohibit leading questions from being put to a witness who shows a strong interest or bias in favour of the cross-examining party.

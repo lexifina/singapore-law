@@ -1,0 +1,4 @@
+# 111. Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent
+Part: PART 3 PRODUCTION AND EFFECT OF EVIDENCE Burden of proof
+
+When the question is whether persons are partners, landlord and tenant, or principal and agent, and it has been shown that they have been acting as such, the burden of proving that they do not stand, or have ceased to stand to each other in those relationships respectively, is on the person who affirms it.

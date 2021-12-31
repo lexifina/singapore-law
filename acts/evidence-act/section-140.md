@@ -1,0 +1,10 @@
+# 140. Order of examinations and direction of re-examination
+Part: PART 3 PRODUCTION AND EFFECT OF EVIDENCE Burden of proof
+
+(1) Witnesses are to be first examined-in-chief, then, if the adverse party so desires, cross-examined, then, if the party calling them so desires, re-examined.
+
+(2) The examination and cross-examination must relate to relevant facts, but the cross-examination need not be confined to the facts to which the witness testified on his or her examination-in-chief.
+
+(3) The re-examination is to be directed to the explanation of matters referred to in cross-examination; and if new matter is, by permission of the court, introduced in re-examination, the adverse party may further cross-examine upon that matter.
+
+(4) The court may in all cases permit a witness to be recalled either for further examination-in-chief or for further cross-examination, and if it does so, the parties have the right of further cross-examination and re-examination respectively.

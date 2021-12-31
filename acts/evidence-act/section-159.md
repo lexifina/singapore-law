@@ -1,0 +1,4 @@
+# 159. Former statements of witness may be proved to corroborate later testimony as to same fact
+Part: PART 3 PRODUCTION AND EFFECT OF EVIDENCE Burden of proof
+
+In order to corroborate the testimony of a witness, any former statement made by such witness, whether written or verbal, on oath, or in ordinary conversation, relating to the same fact at or about the time when the fact took place, or before any authority legally competent to investigate the fact, may be proved.

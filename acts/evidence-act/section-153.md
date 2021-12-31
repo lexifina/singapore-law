@@ -1,0 +1,4 @@
+# 153. Indecent and scandalous questions
+Part: PART 3 PRODUCTION AND EFFECT OF EVIDENCE Burden of proof
+
+The court may forbid any questions or inquiries which it regards as indecent or scandalous, although such questions or inquiries may have some bearing on the questions before the court, unless they relate to facts in issue or to matters necessary to be known in order to determine whether or not the facts in issue existed.

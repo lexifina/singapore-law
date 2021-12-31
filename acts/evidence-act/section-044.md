@@ -1,0 +1,10 @@
+# 44. Relevancy and effect of judgments, orders or decrees other than those mentioned in section 43
+Part: PART 1 RELEVANCY OF FACTS Preliminary
+
+Judgments, orders or decrees other than those mentioned in section 43 are relevant if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.
+
+Illustration
+
+A sues B for trespass on A’s land. B alleges the existence of a public right of way over the land which A denies.
+
+The existence of a decree in favour of the defendant in a suit by A against C for a trespass on the same land in which C alleged the existence of the same right of way is relevant, but it is not conclusive proof that the right of way exists.

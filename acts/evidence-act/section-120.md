@@ -1,0 +1,6 @@
+# 120. Who may testify
+Part: PART 3 PRODUCTION AND EFFECT OF EVIDENCE Burden of proof
+
+All persons are competent to testify unless the court considers that they are prevented from understanding the questions put to them or from giving rational answers to those questions by tender years, extreme old age, disease, whether of body or mind, or any other cause of the same kind.
+
+Explanation.—A lunatic is not incompetent to testify unless he or she is prevented by his or her lunacy from understanding the questions put to him or her and giving rational answers to them.
