@@ -1,0 +1,3 @@
+# 17. Liability of Consolidated Fund 1
+
+The Consolidated Fund shall be liable to make good all sums required to discharge any liability which the Public Trustee, if he or she were a private trustee, would be personally liable to discharge, except where the liability is one to which neither the Public Trustee nor any of the officers of the Public Trustee has in any way contributed, and which neither the Public Trustee nor any of the officers of the Public Trustee could by the exercise of reasonable diligence have averted, and in that case, neither the Public Trustee nor the Consolidated Fund shall be subject to any liability.
