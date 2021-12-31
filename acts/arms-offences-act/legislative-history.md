@@ -1,37 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY ARMS OFFENCES ACT 1973
 
-ARMS OFFENCES ACT (CHAPTER 14)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Arms Offences Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 61 of 1973 — Arms Offences Act 1973
+LEGISLATIVE HISTORY DETAILS PART 1 ARMS OFFENCES ACT (CHAPTER 94, 1970 REVISED EDITION) 1. Ordinance 37 of 1947 — Arms Offences Ordinance, 1947 Bill : G.N. No. S 353/1947 First and Second Readings : Information not available Third Reading : 13 November 1947 Commencement : 12 December 1947 2. G.N. No. S 394/1948 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1948 3. Ordinance 42 of 1949 — Arms Offences (Amendment) Ordinance, 1949 Bill : G.N. No. S 400/1949 First Reading : 20 September 1949 Second and Third Readings : 19 October 1949 Commencement : 27 October 1949 4. G.N. No. S 476/1950 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1950 5. Ordinance 11 of 1951 — Arms Offences (Amendment) Ordinance, 1951 Bill : G.N. No. S 530/1950 First Reading : 19 December 1950 Second and Third Readings : 16 January 1951 Commencement : 29 January 1951 6. G.N. No. S 488/1951 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1951 7. G.N. No. S 455/1952 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1952 8. G.N. No. S 353/1953 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1953 9. G.N. No. S 366/1954 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1954 10. G.N. No. S 409/1955 — “The Arms Offences Ordinance, 1947” Commencement : 12 December 1955 11. 1955 Revised Edition — Arms Offences Ordinance (Chapter 112) Operation : 1 July 1956 12. G.N. No. S 338/1956 — “The Arms Offences Ordinance” Commencement : 12 December 1956 13. G.N. No. S 333/1957 — “The Arms Offences Ordinance” Commencement : 12 December 1957 14. G.N. No. S 302/1958 — “The Arms Offences Ordinance” Commencement : 12 December 1958 15. G.N. No. S (N.S.) 177/1959 — Singapore Constitution (Modification of Laws) (No. 3) Order, 1959 Commencement : 20 November 1959 16. G.N. No. S (N.S.) 178/1959 — Singapore Constitution (Modification of Laws) (No. 4) Order, 1959 Commencement : 20 November 1959 17. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 18. G.N. No. S (N.S.) 196/1959 — “The Arms Offences Ordinance” Commencement : 12 December 1959 19. G.N. No. S 286/1960 — “The Arms Offences Ordinance” Commencement : 12 December 1960 20. G.N. No. S 269/1961 — “The Arms Offences Ordinance” Commencement : 12 December 1961 21. G.N. No. S 356/1962 — “The Arms Offences Ordinance” Commencement : 12 December 1962 22. L.N. 326/1963 (G.N. Sp. No. S 44/1963) — Modification of Laws (Arms and Explosives and Arms Offences) (Singapore) Order, 1963 Commencement : 28 November 1963 23. G.N. Sp. No. S 57/1963 — “The Arms Offences Ordinance” Commencement : 12 December 1963 24. G.N. Sp. No. S 211/1964 — “The Arms Offences Ordinance” Commencement : 12 December 1964 25. G.N. Sp. No. S 210/1965 — “The Arms Offences Ordinance” Commencement : 12 December 1965 26. G.N. No. S 243/1966 — “The Arms Offences Ordinance” Commencement : 12 December 1966 27. G.N. No. S 224/1967 — “The Arms Offences Ordinance” Commencement : 12 December 1967 28. G.N. No. S 309/1968 — “The Arms Offences Ordinance” Commencement : 12 December 1968 29. G.N. No. S 260/1969 — “The Arms Offences Ordinance” Commencement : 12 December 1969 30. G.N. No. S 281/1970 — “The Arms Offences Ordinance” Commencement : 12 December 1970 31. 1970 Revised Edition — Arms Offences Act (Chapter 94) Operation : 15 April 1971 32. G.N. No. S 251/1971 — “The Arms Offences Act” Commencement : 12 December 1971 33. G.N. No. S 310/1972 — “The Arms Offences Act” Commencement : 12 December 1972 34. G.N. No. S 400/1973 — “The Arms Offences Act” Commencement : 12 December 1973 PART 2 FIREARMS AND AMMUNITION (UNLAWFUL POSSESSION) ACT (CHAPTER 100, 1970 REVISED EDITION) 35. Ordinance 34 of 1946 — Fire-arms and Ammunition (Unlawful Possession) Ordinance, 1946 Bill : G.N. No. S 171/1946 First and Second Readings : Information not available Third Reading : 17 October 1946 Commencement : 18 October 1946 36. Ordinance 18 of 1947 — Fire-arms and Ammunition (Unlawful Possession) (Amendment) Ordinance, 1947 Bill : G.N. No. S 101/1947 First and Second Readings : Information not available Third Reading : 24 April 1947 Commencement : 9 May 1947 37. 1955 Revised Edition — Fire-arms and Ammunition (Unlawful Possession) Ordinance (Chapter 115) Operation : 1 July 1956 38. 1970 Revised Edition — Firearms and Ammunition (Unlawful Possession) Act (Chapter 100) Operation : 15 April 1971 PART 3 ARMS OFFENCES ACT 1973 (2020 REVISED EDITION) 39. Act 61 of 1973 — Arms Offences Act, 1973 Bill : 53/1973 First Reading : 28 August 1973 Second Reading : 30 November 1973 Notice of Amendments : 30 November 1973 Third Reading : 30 November 1973 Commencement : 8 February 1974 40. Act 6 of 1978 — Arms Offences (Amendment) Act, 1978 Bill : 20/1977 First Reading : 9 November 1977 Second and Third Readings : 31 January 1978 Commencement : 23 March 1978 41. Act 25 of 1984 — Arms Offences (Amendment) Act 1984 Bill : 17/1984 First Reading : 29 June 1984 Second and Third Readings : 26 July 1984 Commencement : 31 August 1984 42. 1985 Revised Edition — Arms Offences Act (Chapter 14) Operation : 30 March 1987 43. Act 30 of 1993 — Arms Offences (Amendment) Act 1993 Bill : 21/1993 First Reading : 30 July 1993 Second and Third Readings : 30 August 1993 Commencement : 1 November 1993 44. 1998 Revised Edition — Arms Offences Act (Chapter 14) Operation : 30 May 1998 45. 2008 Revised Edition — Arms Offences Act (Chapter 14) Operation : 31 March 2008 46. Act 15 of 2019 — Criminal Law Reform Act 2019 (Amendments made by section 170 of the above Act) Bill : 6/2019 First Reading : 11 February 2019 Second Reading : 6 May 2019 Notice of Amendments : 6 May 2019 Third Reading : 6 May 2019 Commencement : 1 January 2020 (section 170)
 
-Date of First Reading : 28 August 1973 (Bill No. 53/73 published on 31 August 1973)
+Abbreviations
 
-Date of Second and Third Readings : 30 November 1973
-
-Date of commencement : 8 February 1974
-
-2. Act 6 of 1978 — Arms Offences (Amendment) Act 1978
-
-Date of First Reading : 9 November 1977 (Bill No. 20/77 published on 15 November 1977)
-
-Date of Second and Third Readings : 31 January 1978
-
-Date of commencement : 23 March 1978
-
-3. Act 25 of 1984 — Arms Offences (Amendment) Act 1984
-
-Date of First Reading : 29 June 1984 (Bill No. 17/84 published on 9 July 1984)
-
-Date of Second and Third Readings : 26 July 1984
-
-Date of commencement : 31 August 1984
-
-4. Act 30 of 1993 — Arms Offences (Amendment) Act 1993
-
-Date of First Reading : 30 July 1993 (Bill No. 21/93 published on 31 July 1993)
-
-Date of Second and Third Readings : 30 August 1993
-
-Date of commencement : 1 November 1993
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
