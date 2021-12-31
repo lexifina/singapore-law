@@ -1,10 +1,12 @@
 # 47. Period of cover
-Part: PART V DEPENDANTS’ PROTECTION INSURANCE SCHEME
+Part: PART 5 DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
-(1) Where the prescribed premium payable under the Scheme has been paid or deducted from an insured person’s contributions under section 45, that person shall be covered under the Scheme by an appointed insurer assigned by the Board from the date of such payment or deduction for a period of 12 months after the date of commencement of his insurance cover.
+(1) On payment of the prescribed premium payable under section 45 for an insured person, the person is covered under the Scheme by the Board or an appointed insurer assigned by the Board (as the case may be) for a period of 12 months beginning on —
 
-[24/2005]
+(a) the date of such payment; or
 
-(2) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually in accordance with the prescribed requirements.
+(b) where the insured person’s insurance cover is issued under section 43A, such other date as may be prescribed under section 51(e).
 
-[24/2005]
+[6/2016]
+
+(2) Subject to the provisions of this Part, the insurance cover under the Scheme must be renewed annually in accordance with the prescribed requirements.

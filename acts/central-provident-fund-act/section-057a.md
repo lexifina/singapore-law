@@ -1,5 +1,5 @@
 # 57A. Interpretation of this Part
-Part: PART VIA WORKFARE INCOME SUPPLEMENT SCHEME
+Part: PART 6A WORKFARE INCOME SUPPLEMENT SCHEME
 
 In this Part —
 
@@ -12,5 +12,3 @@ In this Part —
 “relevant regulations” means any regulations made under section 57F;
 
 “Scheme” means the Workfare Income Supplement Scheme established under section 57B.
-
-[57/2007]

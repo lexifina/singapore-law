@@ -1,5 +1,5 @@
 # 23. Regulations for purposes of section 22
-Part: PART III WITHDRAWAL OF CONTRIBUTIONS
+Part: PART 3 WITHDRAWAL OF CONTRIBUTIONS
 
 The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of section 22 and, in particular, such regulations may —
 
@@ -10,5 +10,3 @@ The Minister may make such regulations as are necessary or expedient for the pur
 (c) provide for such information, evidence and documents that the Board may require from members of the Fund and other persons who have utilised such withdrawals; and
 
 (d) prescribe anything which may be prescribed by the Minister under section 22.
-
-[30/89]

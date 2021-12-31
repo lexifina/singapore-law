@@ -1,6 +1,4 @@
 # 48. Rights and benefits under Scheme not assignable or transferable
-Part: PART V DEPENDANTS’ PROTECTION INSURANCE SCHEME
+Part: PART 5 DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
-The rights and benefits of an insured person arising from his insurance cover under the Scheme shall not be assignable or transferable.
-
-[24/2005]
+The rights and benefits of an insured person arising from his or her insurance cover under the Scheme are not assignable or transferable.

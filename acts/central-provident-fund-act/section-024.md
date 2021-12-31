@@ -1,60 +1,62 @@
 # 24. Protection of benefits
-Part: PART III WITHDRAWAL OF CONTRIBUTIONS
+Part: PART 3 WITHDRAWAL OF CONTRIBUTIONS
 
-(1) Notwithstanding any written or other law but subject to sections 27B, 27C, 27D, 27DA, 27E, 27F, 27G, 27H and 57C and any regulations made under section 57F or 77(1) —
+(1) Subsection (2) applies to all of the following things:
 
-(a) no withdrawals made from the Fund under this Act and no rights of any member of the Fund acquired thereunder;
+(a) any contributions to the Fund, interest thereon and other moneys standing to the credit of a member in the Fund;
 
-and
+(b) any withdrawals made from the Fund under this Act, and any rights of any member acquired thereunder;
 
-(b) no moneys repayable to the Fund by any member of the Fund which are secured by —
+(c) any moneys repayable to the Fund by any member which are secured by —
 
-(i) a charge on his estate or interest in an immovable property under section 21(1) or 21A(1); or
+(i) a charge on the member’s estate or interest in an immovable property under section 21(1), 21A(1), 27C(1)(i)(i) or 27E(1)(h);
 
-(ii) a charge constituted on an HDB flat under section 21B(1), shall be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+(ii) a charge constituted on an HDB flat under section 21B(1) or 27F(1)(h); or
 
-[15/2006; 40/2007; 57/2007; 23/2012]
+(iii) a charge created or constituted on an immovable property under section 15(9), (9A), (11D), (11E) or (11EB), 27C(1)(i)(ii), 27D(1)(j)(ii), 27DA(1)(i) or 27DB(2)(e);
 
-(2) Notwithstanding any written or other law but subject to sections 27G and 27H and any regulations made under section 77(1), every investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund, shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any set-off of any nature for any debt owing by the member.
+(d) any moneys repayable to the Fund pursuant to an undertaking given under section 15(10) or (10A) or 27D(1)(j)(i);
 
-[25/2008]
+(e) any moneys referred to in section 15(6C)(a) or 15B(2) which is deposited by a member with an approved bank and any interest on those moneys, and any withdrawals from the moneys and interest;
 
-(2A) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and section 49L of the Insurance Act (Cap. 142) shall not apply to —
+(f) any payments from an approved annuity referred to in section 15(6C)(b) or 15B(2);
+
+(g) every investment made by a member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund.
+
+[24/2013; 6/2016; 37/2019]
+
+(2) Despite any written or other law but subject to sections 14, 14A, 24A, 27B, 27C, 27D, 27DA, 27DB, 27E, 27F, 27G, 27H, 27N and 57C and any regulations made under section 27Q, 57F or 77(1), the things set out in subsection (1)(a) to (g) —
+
+(a) are not assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim;
+
+(b) are not subject to any set-off of any nature for any debt owing by the member; and
+
+(c) if the member is adjudicated a bankrupt by a court —
+
+(i) do not pass to the Official Assignee on the bankruptcy of the member; and
+
+(ii) are deemed not to form part of the property of the member.
+
+[24/2013; 37/2019]
+
+(2A) Section 73 of the Conveyancing and Law of Property Act 1886 and section 132 of the Insurance Act 1966 do not apply to —
 
 (a) any policy of insurance which is an investment made by a member of the Fund under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund; and
 
 (b) any proceeds or benefits of such a policy of insurance which the member is obliged to repay into the Fund.
 
-[3/2009]
+(3) [Deleted by Act 24 of 2013]
 
-(3) Notwithstanding anything in the Bankruptcy Act (Cap. 20), if a member of the Fund is adjudicated a bankrupt by a court, every investment made by the member under any scheme in accordance with any regulations made under section 77(1)(n) the proceeds or benefits (or any part thereof) of which the member is obliged to repay into the Fund, and any proceeds or benefits of such an investment which the member is obliged to repay into the Fund —
-
-(a) shall not pass to the Official Assignee on the bankruptcy of the member; and
-
-(b) shall be deemed not to form part of the property of the member.
-
-[25/2008]
-
-(3A) Subject to subsection (3B), sections 16A, 25(2A), 27N and 57C and any regulations made under section 27Q or 57F, all moneys paid out of the Fund on the death of any member of the Fund shall be deemed to be impressed with a trust in favour of —
+(3A) Subject to subsection (3B), sections 16A, 25(2A), 27N and 57C and any regulations made under section 27Q or 57F, all moneys paid out of the Fund on the death of any member of the Fund are deemed to be impressed with a trust in favour of —
 
 (a) the person or persons nominated under section 25(1) by the deceased member, if any; or
 
-(b) the person or persons determined by the Public Trustee in accordance with section 25(2) to be entitled thereto, but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), be deemed not to form part of the deceased member’s estate or to be subject to his debts.
+(b) the person or persons determined by the Public Trustee in accordance with section 25(2) to be entitled thereto, but, without affecting the operation of the Estate Duty Act 1929, are deemed not to form part of the deceased member’s estate or to be subject to his or her debts.
 
-[15/2006; 40/2007; 57/2007; 18/2009; 22/2010]
+(3B) Where any money is payable to the spouse or former spouse of a member of the Fund under section 27B(1), (2) or (3) on the death of the member, subsection (3A) does not apply to that money.
 
-(3B) Where any money is payable to the spouse or former spouse of a member of the Fund under section 27B(1), (2) or (3) on the death of the member, subsection (3A) shall not apply to that money.
+(4) [Deleted by Act 24 of 2013]
 
-[40/2007]
+(5) [Deleted by Act 24 of 2013]
 
-(4) Subject to sections 27N and 57C and any regulations made under section 27Q or 57F, no contribution to the Fund or interest thereon shall be subject to the debts of the member of the Fund, nor shall the contribution or interest pass to the Official Assignee on the bankruptcy of the member.
-
-[57/2007; 18/2009]
-
-(5) If the member is adjudicated a bankrupt by a court, the contribution and interest shall be deemed not to form part of the property of the member.
-
-[22/2010]
-
-(6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
-
-(7) [Deleted by Act 18 of 2009]
+(6) The bankruptcy of an employee does not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment must continue to be made despite the provisions of any written law and the portion of wages so paid is deemed not to form part of the employee’s after-acquired property.

@@ -1,64 +1,94 @@
 # 27K. Establishment of Lifelong Income Scheme
-Part: PART IIIB LIFELONG INCOME SCHEME
+Part: PART 3B LIFELONG INCOME SCHEME
 
-(1) The Board is hereby authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has an annuity plan that is in force and who has attained the relevant age applicable to him, a monthly income for the remainder of his life.
+(1) The Board is authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has an annuity plan that is in force, a monthly income for the remainder of the relevant member’s life, starting in or after the month in which the relevant member attains the relevant age applicable to the relevant member.
 
-[18/2009; 23/2012]
+[43/2017]
 
-(2) Subject to subsections (3), (4) and (5) and the relevant regulations, the Scheme shall apply to every member who —
+(2) Subject to subsections (3) to (5A) and the relevant regulations, the Scheme applies to every member who —
 
-(a) attains, on or after 1st January 2013, such age as may be prescribed in the relevant regulations; and
+(a) attains 55 years of age, on or after 1 January 2013; and
 
-(b) on attaining the age referred to in paragraph (a) or at such time as may be prescribed in the relevant regulations, satisfies all of the following requirements:
+(b) on an assessment date applicable to the member, satisfies all of the following requirements:
 
-(i) he is a citizen or permanent resident of Singapore;
+(i) the member is a citizen or permanent resident of Singapore;
 
-(ii) he is required to comply with section 15(6)(a);
+(ii) the member is entitled under section 15(2)(a), (3) or
 
-(iii) the amount standing to his credit in his retirement account is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph.
+(4) to withdraw any sum standing to the member’s credit in the Fund and would be required to comply with section 15(6)(a) if the member were to make such a withdrawal;
 
-[23/2012]
+(iii) the amount standing to the member’s credit in the member’s retirement account is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph.
 
-(2A) For the purposes of subsection (2)(b), different times and amounts may be prescribed for different classes of members.
+[6/2016]
 
-[22/2010; 23/2012]
+(2A) [Deleted by Act 6 of 2016]
 
-(3) The Board may, on the application of a member who is a citizen or permanent resident of Singapore at the time the Board considers the application, but does not satisfy one or more of the requirements under subsection (2), permit him to join the Scheme —
+(3) The Scheme —
 
-(a) on or after the date he attains the age referred to in subsection (2)(a); and
+(a) does not apply to an excluded member; or
 
-(b) subject to such terms and conditions as the Board may impose.
+(b) if the member is a relevant member, ceases to apply when the member becomes an excluded member.
 
-[18/2009; 23/2012]
+[6/2016]
 
-(4) The Scheme shall not apply to any member whom, or any class of members which, the Minister may prescribe under the relevant regulations.
+(4) The Board may, on such terms and conditions as the Board may impose, approve a member’s application to be an excluded member.
 
-[18/2009]
+[6/2016]
 
-(5) The Scheme shall not apply, or shall cease to apply, to a member if —
+(5) Despite subsections (2), (3) and (4), the Board may, on such terms and conditions as the Board may impose, approve a member’s application to join the Scheme if the member —
 
-(a) the Board, on the application of the member, so approves;
+(a) has attained such age as may be prescribed in the relevant regulations, or such earlier age as the Board may permit in a particular case; and
 
-and
+(b) is a citizen or permanent resident of Singapore.
 
-(b) the member complies with such terms and conditions for the Board’s approval as the Board may impose.
+[6/2016]
 
-[18/2009]
+(5A) Despite subsections (2), (3) and (4), the Scheme —
 
-(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as the annuity plan remains in force and he is alive, the Board shall pay to him, after he has attained the relevant age applicable to him, such monthly income as the Minister may determine.
+(a) applies to a member whose application to join the Scheme has been approved under subsection (5); and
 
-[18/2009; 23/2012]
+(b) ceases to apply to that member only when the Board’s approval under subsection (5) is cancelled under subsection (5B).
 
-(7) The Board shall not be required to pay a relevant member an amount due to him under subsection (6) if, at the time the amount is due, he fails to satisfy the Board, in accordance with the relevant regulations, that he is alive.
+[6/2016]
 
-[18/2009]
+(5B) The Board may cancel an approval given under subsection (4) or (5) —
 
-(8) Subject to sections 27N and 27P, no monthly income paid to a relevant member under subsection (6) shall —
+(a) if the member does not comply with any terms or conditions imposed by the Board; or
 
-(a) be liable to be attached, sequestered or levied upon for or in respect of any debt or claim;
+(b) in any other circumstances prescribed by the Minister in the relevant regulations.
 
-(b) be subject to any set-off of any nature for any debt owing by the relevant member; or
+[6/2016]
 
-(c) pass to the Official Assignee on the bankruptcy of the relevant member.
+(5C) Where the Board cancels an approval given under subsection (4) or (5), the Board may specify the time (on or after the time of occurrence of the circumstances, referred to in subsection (4) or (5), as the case may be, which gave rise to the cancellation) that the cancellation takes effect.
 
-[18/2009]
+[6/2016]
+
+(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him or her, then for so long as the annuity plan remains in force and he or she is alive, the Board must pay to him or her such monthly income as the Minister may determine, starting in or after the month in which the relevant member attains the relevant age applicable to him or her.
+
+[23/2012; 43/2017]
+
+(7) The Board is not required to pay a relevant member an amount due to the relevant member under subsection (6) if, at the time the amount is due, the relevant member fails to satisfy the Board, in accordance with the relevant regulations, that he or she is alive.
+
+(8) Subject to sections 27N and 27P, no monthly income paid to a relevant member under subsection (6) is —
+
+(a) liable to be attached, sequestered or levied upon for or in respect of any debt or claim;
+
+(b) subject to any set-off of any nature for any debt owing by the relevant member; or
+
+(c) to pass to the Official Assignee on the bankruptcy of the relevant member.
+
+(9) In this section —
+
+“assessment date” means —
+
+(a) for a member who attains 55 years of age on or after 1 January 2013 but before 1 May 2016, the date the member attains 55 years of age or any other time prescribed in the relevant regulations for the purposes of subsection (2)(b); or
+
+(b) for a member who attains 55 years of age on or after 1 May 2016, the time prescribed in the relevant regulations for the purposes of subsection (2)(b);
+
+“excluded member” means a member —
+
+(a) who belongs to any class of members prescribed under the relevant regulations for the purposes of subsection (3); or
+
+(b) whose application under subsection (4) has been approved by the Board and the approval remains in force.
+
+[6/2016]

@@ -1,13 +1,11 @@
 # 57F. Regulations for purposes of this Part
-Part: PART VIA WORKFARE INCOME SUPPLEMENT SCHEME
+Part: PART 6A WORKFARE INCOME SUPPLEMENT SCHEME
 
 (1) The Minister may make such regulations as are necessary or expedient for the purposes of carrying out the provisions of this Part.
 
-[57/2007]
+(2) Without limiting subsection (1), such regulations may provide for —
 
-(2) Without prejudice to the generality of subsection (1), such regulations may provide for —
-
-(a) the criteria to be satisfied by an eligible member and the waiver of any such criteria by the Board;
+(a) the criteria to be satisfied by an eligible member and the waiver of the whole or any part of any such criteria, by the Board or such other person as may be prescribed in those regulations;
 
 (b) the terms and conditions of the Scheme;
 
@@ -21,10 +19,18 @@ Part: PART VIA WORKFARE INCOME SUPPLEMENT SCHEME
 
 (ii) any cash payment or relevant contribution which the member may be entitled to receive subsequently;
 
-(f) any restriction on the purposes for which any cash payment or relevant contribution may be utilised;
+(f) any restriction on the purposes for which any cash payment, relevant contribution or amount withdrawn under section 57DA;
+
+(fa) the whole or any part of the interest paid on the amount withdrawn from the member’s account under section 57DA to be dealt with in all or any of the following manner:
+
+(i) retained in that account;
+
+(ii) withdrawn from that account and paid to the member;
+
+(iii) transferred to the general moneys of the Fund;
 
 (g) the consequences of contravening any provision of those regulations; and
 
 (h) any act or omission referred to in, or in contravention of, those regulations to be an offence.
 
-[57/2007]
+[24/2013; 6/2016]

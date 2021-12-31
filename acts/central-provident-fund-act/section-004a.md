@@ -1,23 +1,23 @@
 # 4A. Appointment of officers and employees
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-(1) The Board shall, with the President’s concurrence under Article 22A(1)(b) of the Constitution, appoint a chief executive officer on such terms and conditions as the Board may determine.
+(1) There must be a chief executive officer of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018, and Article 22A of the Constitution.
 
-[36/2002]
+[5/2018]
 
-(1A) The chief executive officer shall be —
+(1A) [Deleted by Act 5 of 2018]
 
-(a) known by such designation as the Board may determine;
+(2) The Board may, subject to the Public Sector (Governance) Act 2018 and Article 22A of the Constitution, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-and
+(a) is absent from duty or Singapore; or
 
-(b) responsible to the Board for the proper administration and management of its functions and affairs in accordance with all policies laid down by the Board.
+(b) is, for any reason, unable to perform the duties of the office.
 
-[36/2002]
+[5/2018]
 
-(2) The Board shall have power to engage a staff consisting of such officers and employees as are in the opinion of the Board necessary for the purpose of carrying out the provisions of this Act.
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(3) The members and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+[5/2018]
 
 (4) The Board may make rules for all or any of the purposes of this section and section 4 and, in particular, may make rules —
 

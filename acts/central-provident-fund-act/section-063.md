@@ -1,14 +1,10 @@
 # 63. Composition of offences
-Part: PART VII OFFENCES, PENALTIES AND PROCEEDINGS
+Part: PART 7 OFFENCES, PENALTIES AND PROCEEDINGS
 
-(1) The Board or any person authorised by the Board in writing may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+(1) The Board or any person authorised by the Board in writing may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
-[32/86; 27/92; 30/98]
+[24/2013]
 
 (2) The Board may make rules to prescribe the offences which may be compounded.
 
-[32/86]
-
-(3) All sums collected under this section shall be paid to the Board.
-
-[5/89]
+(3) All sums collected under this section must be paid to the Board.

@@ -1,6 +1,4 @@
-# 27O. Non-application of Insurance Act
-Part: PART IIIB LIFELONG INCOME SCHEME
+# 27O. Non-application of Insurance Act 1966
+Part: PART 3B LIFELONG INCOME SCHEME
 
-The Insurance Act (Cap. 142) shall not apply to the Scheme or to anything done by the Board under this Part.
-
-[18/2009]
+The Insurance Act 1966 does not apply to the Scheme or to anything done by the Board under this Part.

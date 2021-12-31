@@ -1,10 +1,6 @@
 # 48A. Insurance policy under Scheme not to create trust
-Part: PART V DEPENDANTS’ PROTECTION INSURANCE SCHEME
+Part: PART 5 DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
-(1) A policy of insurance issued under the Scheme shall not be deemed to create any legal or equitable trust.
+(1) A policy of insurance issued under the Scheme is not to be deemed to create any legal or equitable trust.
 
-[24/2005]
-
-(2) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) and section 49L of the Insurance Act (Cap. 142) shall not apply to any policy of insurance issued under the Scheme.
-
-[24/2005; 3/2009]
+(2) Section 73 of the Conveyancing and Law of Property Act 1886 and section 132 of the Insurance Act 1966 do not apply to any policy of insurance issued under the Scheme.
