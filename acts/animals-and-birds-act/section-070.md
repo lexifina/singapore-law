@@ -1,8 +1,6 @@
-# 70. Fees, etc., payable to Authority
-Part: PART X MISCELLANEOUS PROVISIONS
+# 70. Fees, etc., payable to Board
+Part: PART 10 MISCELLANEOUS PROVISIONS
 
-All fees, charges, composition fines and moneys collected under this Act shall be paid to the Authority.
+All fees, charges and moneys collected under this Act or any rules made under this Act (except composition sums) must be paid to the Board.
 
-[59A
-
-[16/2000]
+[10/2019]

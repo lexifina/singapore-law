@@ -1,24 +1,18 @@
 # 52. Powers of arrest
-Part: PART VI SEARCH, SEIZURE AND ARREST
+Part: PART 6 ENFORCEMENT POWERS
 
-(1) Any authorised officer, officer of customs or police officer may arrest without warrant any person whom he sees or finds committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act, if —
+(1) An authorised officer, a police officer or an officer of customs may arrest without warrant any person whom the officer reasonably suspects of committing or attempting to commit an offence under this Act.
 
-(a) the person refuses to furnish his name and address;
+[46/2014]
 
-(b) the person furnishes an address out of Singapore;
+(1A) The officer making an arrest under this section must not restrain the person arrested more than is necessary to prevent the person’s escape.
 
-(c) there are reasonable grounds for believing that the person has furnished a false name or address; or
+[46/2014]
 
-(d) the person is likely to abscond.
+(2) Any authorised officer, police officer or officer of customs making an arrest without warrant must, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court.
 
-[16/2000]
+(2A) A person who is arrested under this section must not be detained in custody for a period longer than is reasonable under the circumstances of the case, and such period must not exceed 48 hours (excluding the time necessary for the journey to a Magistrate’s Court).
 
-(2) Any authorised officer, officer of customs or police officer making an arrest without warrant shall, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court.
+[46/2014]
 
-[16/2000]
-
-(3) No person who has been arrested by any authorised officer, officer of customs or police officer shall be released, except on his own bond or on bail or on the special order in writing of the Magistrate or the Director-General.
-
-[53
-
-[16/2000]
+(3) A person who has been arrested by any authorised officer, police officer or officer of customs must not be released, except on the person’s own bond or on bail or on the special order in writing of the Magistrate or the Director-General.

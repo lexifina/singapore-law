@@ -1,31 +1,19 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-ANIMALS AND BIRDS ACT
-(CHAPTER 7)
-Ordinance
-3 of 1965
-1970 Ed. Cap. 289
-Amended by
-21 of 1973
-S 259/79
-1985 Ed. Cap. 7
-Amended by
-7 of 1996
-7 of 1997
-16 of 2000
-10 of 2002
-REVISED EDITION 2002
-(31st December 2002)
+ANIMALS AND BIRDS ACT 1965
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act for preventing the introduction into, and the spreading within, Singapore of diseases of animals, birds or fish; for the control of the movement of animals, birds or fish into, within and from Singapore; for the prevention of cruelty to animals, birds or fish; for measures pertaining to the general welfare and improvement of animals, birds or fish in Singapore and for purposes incidental thereto.
+An Act for preventing the introduction into, and the spreading within, Singapore of diseases of animals, birds or fish; for the control of the movement of animals, birds or fish into, within and from Singapore; for the prevention of cruelty to animals, birds or fish;
 
-[10/2002]
+for measures pertaining to the general welfare and improvement of animals, birds or fish in Singapore and for purposes incidental thereto.
 
-[22nd October 1965]
+[22 October 1965: Except section 71;
+
+20 May 1966: Section 71]

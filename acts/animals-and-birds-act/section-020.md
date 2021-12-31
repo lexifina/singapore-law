@@ -1,5 +1,5 @@
 # 20. Isolation or destruction of diseased animal or bird
-Part: PART III PREVENTION OF SPREAD OF DISEASE General
+Part: PART 3 PREVENTION OF SPREAD OF DISEASE General
 
 (1) The Director-General or an authorised officer may require the immediate isolation or destruction of any animal or bird if —
 
@@ -15,8 +15,4 @@ Part: PART III PREVENTION OF SPREAD OF DISEASE General
 
 (iii) may perpetuate any disease.
 
-[10/2002]
-
-(2) Any person who refuses or fails without lawful excuse to isolate or destroy any animal or bird when required to do so by the Director- General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[10/2002]
+(2) Any person who, without lawful excuse, refuses or fails to isolate or destroy any animal or bird when required to do so by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
