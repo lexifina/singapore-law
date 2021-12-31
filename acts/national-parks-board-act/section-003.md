@@ -1,7 +1,7 @@
 # 3. Reconstitution of National Parks Board
-Part: PART II RECONSTITUTION OF BOARD
+Part: PART 2 RECONSTITUTION OF BOARD
 
-As from 1st July 1996, the Board shall continue in existence and shall continue to be a body corporate with perpetual succession and capable of —
+As from 1 July 1996, the Board continues in existence and continues to be a body corporate with perpetual succession and capable of —
 
 (a) suing and being sued;
 

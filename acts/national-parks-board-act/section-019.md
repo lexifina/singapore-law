@@ -1,4 +1,6 @@
-# 19. Financial provisions
-Part: PART V FINANCIAL PROVISIONS
+# 19. Financial year
+Part: PART 5 FINANCIAL PROVISIONS
 
-The financial provisions set out in the Third Schedule shall have effect with respect to the Board.
+The financial year of the Board begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+[5/2018]

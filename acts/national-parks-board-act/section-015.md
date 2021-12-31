@@ -1,4 +1,6 @@
-# 15. Grants 1
-Part: PART V FINANCIAL PROVISIONS
+# 15. Issue of shares, etc. 1
+Part: PART 5 FINANCIAL PROVISIONS
 
-For the purpose of enabling the Board to carry out its functions under this Act, the Minister may, from time to time, make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board must issue such shares or other securities to the Minister for Finance as that Minister may direct.
+
+[15A

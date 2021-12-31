@@ -1,59 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY NATIONAL PARKS BOARD ACT 1996
 
-NATIONAL PARKS BOARD ACT (CHAPTER 198A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-(Formerly known as the National Parks Act (Cap. 198A, 1997 Ed.))
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-This Legislative History is provided for the convenience of users of the National Parks Board Act. It is not part of the Act.
+LEGISLATIVE HISTORY DETAILS PART 1 NATURE RESERVES ACT (CHAPTER 205, 1985 REVISED EDITION) 1. Ordinance 15 of 1951 — Nature Reserves Ordinance, 1951 Bill : G.N. No. S 7/1951 First Reading : 16 January 1951 Second Reading : 16 February 1951 Notice of Amendments : 16 February 1951 Third Reading : 16 February 1951 Commencement : 6 March 1951 2. Ordinance 8 of 1955 — Revised Edition of the Laws (Miscellaneous Amendments) Ordinance, 1955 (Amendments made by section 2 read with item 45 of the Schedule to the above Ordinance) Bill : 45/1954 First Reading : 14 December 1954 Second and Third Readings : 28 January 1955 Commencement : 4 February 1955 (section 2 read with item 45 of the Schedule) 3. Ordinance 7 of 1956 — Nature Reserves (Amendment) Ordinance, 1956 Bill : 39/1956 First Reading : 8 February 1956 Second and Third Readings : 7 March 1956 Commencement : 29 March 1956 4. 1955 Revised Edition — Nature Reserves Ordinance (Chapter 235) Operation : 1 July 1956 5. G.N. No. S 352/1957 — Legislative Assembly Resolution Passed : 4 December 1957 6. G.N. No. S 169/1958 — Legislative Assembly Resolution Passed : 16 July 1958 7. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 8. G.N. No. S (N.S.) 178/1959 — Singapore Constitution (Modification of Laws) (No. 4) Order, 1959 Commencement : 20 November 1959 9. G.N. No. S 68/1966 — Parliamentary Resolution Passed : 21 April 1966 10. G.N. No. S 347/1968 — Parliamentary Resolution Passed : 3 December 1968 11. G.N. No. S 21/1972 — Parliamentary Resolution Passed : 30 July 1971 12. 1970 Revised Edition — Nature Reserves Act (Chapter 295) Operation : 31 August 1971 13. Act 14 of 1973 — Nature Reserves (Amendment) Act, 1973 Bill : 6/1973 First Reading : 16 February 1973 Second and Third Readings : 7 March 1973 Commencement : 28 April 1973 14. G.N. No. S 408/1973 — Parliamentary Resolution Passed : 30 November 1973 15. G.N. No. S 9/1986 — Metrication (Nature Reserves Act) Order 1986 Commencement : 10 January 1986 16. 1985 Revised Edition — Nature Reserves Act (Chapter 205) Operation : 30 March 1987 17. Act 7 of 1988 — Nature Reserves (Amendment) Act 1988 Bill : 4/1988 First Reading : 4 March 1988 Second and Third Readings : 30 March 1988 Commencement : 13 May 1988
 
-1. Act 22 of 1996 — National Parks Act 1996
+PART 2 NATIONAL PARKS ACT (CHAPTER 198A, 1991 REVISED EDITION) 18. Act 10 of 1990 — National Parks Act 1990 Bill : 12/1990 First Reading : 13 March 1990 Second and Third Readings : 29 March 1990 Commencement : 6 June 1990 19. 1991 Revised Edition — National Parks Act (Chapter 198A) Operation : 1 March 1991 20. G.N. No. S 263/1995 — National Parks Act (Amendment of First Schedule) Order 1995 Commencement : 16 June 1995 PART 3 NATIONAL PARKS BOARD ACT 1996 (2020 REVISED EDITION) 21. Act 22 of 1996 — National Parks Act 1996 Bill : 13/1996 First Reading : 2 May 1996 Second and Third Readings : 21 May 1996 Commencement : 1 July 1996 22. 1997 Revised Edition — National Parks Act (Chapter 198A) Operation : 30 May 1997 23. G.N. No. S 669/2001 — National Parks Act (Amendment of Fifth Schedule) Order 2001 Commencement : 1 January 2002 24. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (28) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (28) of the Schedule) 25. G.N. No. S 534/2003 — National Parks Act (Amendment of Fifth Schedule) Order 2003 Commencement : 26 November 2003 26. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (35) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (35) of the Schedule) 27. Act 4 of 2005 — Parks and Trees Act 2005 (Amendments made by section 65 of the above Act) Bill : 55/2004 First Reading : 19 October 2004 Second and Third Readings : 25 January 2005 Commencement : 1 August 2005 (section 65) Note: The National Parks Act was renamed as the National Parks Board Act by this Act.
 
-Date of First Reading : 2 May 1996 (Bill No. 13/96 published on 3 May 1996)
+28. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(34) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(34) of the Second Schedule) 29. 2012 Revised Edition — National Parks Board Act (Chapter 198A) Operation : 31 July 2012 30. Act 9 of 2017 — Parks and Trees (Amendment) Act 2017 (Amendments made by section 24 of the above Act) Bill : 4/2017 First Reading : 9 January 2017 Second and Third Readings : 7 February 2017 Commencement : 20 November 2017 (section 24) 31. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 85 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 85) 32. Act 10 of 2019 — National Parks Board (Amendment) Act 2019 Bill : 4/2019 First Reading : 15 January 2019 Second and Third Readings : 12 February 2019 Commencement : 29 March 2019 (sections 2(d), 5 and 6) 1 April 2019 (except sections 2(d), 5, 6 and 12(c) and (d))
 
-Date of Second and Third Readings : 21 May 1996
+Abbreviations
 
-Date of commencement : 1 July 1996
-
-2. 1997 Revised Edition — National Parks Act (Chapter 198A)
-
-Date of operation : 30 May 1997
-
-3. G.N. No. S 669/2001 — National Parks Act (Amendment of Fifth Schedule) Order 2001
-
-Date of commencement : 1 January 2002
-
-4. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Dates of commencement : 15 July 2002 (except item (18) of the Schedule) 29 July 2002 (item (18) of the Schedule)
-
-5. G.N. No. S 534/2003 — National Parks Act (Amendment of Fifth Schedule) Order 2003
-
-Date of commencement : 26 November 2003 6. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004
-
-7. Act 4 of 2005 — Parks and Trees Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 October 2004 (Bill No. 55/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 25 January 2005
-
-Date of commencement : 1 August 2005
-
-8. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 July 2008 (Bill No. 11/2008 published on 22 July 2008)
-
-Date of Second and Third Readings : 16 September 2008
-
-Date of commencement : 1 March 2010 (item 1(34) of the Second Schedule —
-
-Amendment of National Parks Board Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

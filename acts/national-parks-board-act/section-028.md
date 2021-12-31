@@ -1,4 +1,16 @@
-# 28. Exclusion of liability for information supplied by Board
-Part: PART VIII GENERAL
+# 28. Confirmation of undertaking transferred
+Part: PART 7 TRANSFER OF AVA VETERINARY UNDERTAKINGS
 
-Where the Board provides a service to the public whereby information is supplied to the public on payment of a prescribed fee, neither the Board nor any of its employees involved in the supply of such information shall be liable for any loss or damage suffered by members of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such employees.
+(1) If any dispute arises —
+
+(a) as to whether an asset or a liability or a record is transferred under section 24 or 27; or
+
+(b) as to whether any, or any part of any, contract or document relates to an asset or a liability, or a record, transferred under section 24 or 27, the Minister for Finance may determine the matter and is to provide the concerned parties with written notice of that determination.
+
+[10/2019]
+
+(2) The determination of the Minister for Finance under subsection (1) is final and binding on the transferor and the Board.
+
+[26B
+
+[10/2019]

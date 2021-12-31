@@ -1,4 +1,6 @@
-# 14. Public servants for purposes of Penal Code
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 14. Grants
+Part: PART 5 FINANCIAL PROVISIONS
 
-All members, employees and agents of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+For the purpose of enabling the Board to carry out its functions under this Act, the Minister may, from time to time, make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+
+[15

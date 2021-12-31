@@ -1,4 +1,4 @@
 # 5. Constitution of Board
-Part: PART II RECONSTITUTION OF BOARD
+Part: PART 2 RECONSTITUTION OF BOARD
 
-The First Schedule shall have effect as respects the Board and its members.
+The First Schedule has effect with respect to the Board and its members.
