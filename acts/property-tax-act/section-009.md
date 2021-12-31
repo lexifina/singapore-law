@@ -1,16 +1,16 @@
 # 9. Rates of tax
-Part: PART III IMPOSITION OF PROPERTY TAX
+Part: PART 3 IMPOSITION OF PROPERTY TAX
 
-(1) The tax payable in respect of each year shall be at the rate of 36%* upon the annual value of every property included in the Valuation List.
+(1) The tax payable in respect of each year is at the rate of 36% upon the annual value of every property included in the Valuation List.
 
-(2) The Minister may, by order published in the Gazette, direct that the tax payable in respect of properties within any area or areas shall be at such a rate or rates being less than the rate prescribed by this section for such period or periods as may seem equitable to the Minister.
+(2) The Minister may, by order in the Gazette, direct that the tax payable in respect of any property prescribed, or falling within a class of property prescribed, or any part of such property, is at a rate or rates less than 36%; and different rates may be specified for different properties or classes of properties prescribed.
 
-(3) The Minister may, by order published in the Gazette, direct that the tax payable in respect of —
+[18/2013]
 
-(a) any dwelling-house or part thereof; or
+(3) For the purposes of this Act, a reference to a change in the prescribed class of any property is a reference to the property or part thereof —
 
-*12% from 1st July 1996 — see Property Tax (Rates) Order (O 9, 1996 Ed.) (G.N. No. S 114/96).
+(a) being prescribed or falling within a class prescribed by the Minister under subsection (2), where it was previously not so prescribed or it previously did not fall within any prescribed class, as the case may be; or
 
-*10% from 1st July 2001 — see Property Tax (Rates) Order (O 9, 2003 Ed.) (G.N. No. S 205/2001).
+(b) ceasing to be prescribed or to fall within a prescribed class, whether or not it also falls within any other prescribed class, because of a change in circumstances relating to the property (including a change in the use of the property or part thereof).
 
-(b) any industrial premises, occupied as such by the person whose name appears in the Valuation List as the owner of the property concerned, shall be at a rate less than the rate prescribed by this section.
+[18/2013]

@@ -1,4 +1,4 @@
-# 15. (Repealed)
-Part: PART III IMPOSITION OF PROPERTY TAX
+# 15. [Repealed]
+Part: PART 3 IMPOSITION OF PROPERTY TAX
 
-(Repealed by Act 33/2002)
+[Repealed by Act 33 of 2002]

@@ -1,12 +1,8 @@
 # 69. Tax remission
-Part: PART VIII MISCELLANEOUS PROVISIONS
+Part: PART 8 MISCELLANEOUS PROVISIONS
 
-The Minister may, in his discretion, remit wholly or in part, the tax payable by any person —
+The Minister may remit wholly or in part, the tax payable by any person —
 
 (a) on the ground of poverty; or
 
-(b) if he is satisfied that it is just and equitable to do so.
-
-[64
-
-[24/73]
+(b) if the Minister is satisfied that it is just and equitable to do so.

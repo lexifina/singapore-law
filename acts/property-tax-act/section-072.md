@@ -1,13 +1,13 @@
 # 72. Regulations
-Part: PART VIII MISCELLANEOUS PROVISIONS
+Part: PART 8 MISCELLANEOUS PROVISIONS
 
-(1) The Minister may make regulations —
+(1) The appropriate Minister may make regulations for carrying out the purposes and provisions of this Act for which the Minister is responsible —
 
-(a) prescribing the manner in which appeals shall be made to the Board;
+(a) prescribing the manner in which appeals are to be made to the Board;
 
 (b) prescribing the procedure to be adopted by the Board in hearing appeals and the records to be kept by the Board;
 
-(c) prescribing the places where and the times at which appeals shall be heard by the Board;
+(c) prescribing the places where and the times at which appeals are to be heard by the Board;
 
 (d) prescribing the fees to be paid in respect of any appeal to the Board;
 
@@ -15,14 +15,14 @@ Part: PART VIII MISCELLANEOUS PROVISIONS
 
 (f) prescribing the forms or any other matter which by this Act is required to be or may be prescribed;
 
-(g) providing for the procedure of, and other matter relating to, the Street and Building Names Board constituted under section 49;
+(g) providing for the procedure of, and other matter relating to, the SBNB;
 
-(h) prescribing the time and manner in which an owner of a property shall mark or display the number allotted to such property and the penalties for non-compliance; and
+(h) prescribing the time and manner in which an owner of a property is to mark or display the number allotted to such property and the penalties for non-compliance; and
 
 (i) generally for the better carrying out of the provisions of this Act.
 
-[6/82; 46/96; 33/2002]
+[23/2010]
 
-(2) The Minister may, in lieu of making any regulations prescribing the forms which by this Act are required to be or may be prescribed, authorise the Comptroller to prescribe such forms as the Comptroller thinks fit.
+(2) The appropriate Minister may, in lieu of making any regulations prescribing the forms which by this Act are required to be or may be prescribed, authorise the Comptroller or the SBNB (as the case may be) to approve the use of such forms as the Comptroller or SBNB thinks fit.
 
-[67
+[23/2010]

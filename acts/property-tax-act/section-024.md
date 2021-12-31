@@ -1,6 +1,4 @@
 # 24. Salaries, fees and allowances to members
-Part: PART IV APPEALS
+Part: PART 4 APPEALS
 
-There shall be paid to the Chairman, Deputy Chairmen and other members of the Board such salaries, fees and allowances as the Minister may determine.
-
-[59/2004]
+The Chairperson, Deputy Chairpersons and other members of the Board are to be paid such salaries, fees and allowances as the Minister may determine.
