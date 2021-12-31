@@ -1,34 +1,36 @@
 # 54. Conditions for home detention
-Part: PART VI HOME DETENTION SCHEME
+Part: PART 6 HOME DETENTION SCHEME
 
-(1) A prisoner subject to a home detention order shall —
+(1) A prisoner subject to a home detention order must —
 
-(a) remain indoors at his place of residence or at such other place or places as may be designated by the Director in the order, and between such times as may be specified in the order;
+(a) attend any such counselling, therapy, test, assessment, and other activity for the purpose of facilitating his or her rehabilitation and reintegration into society as the Commissioner may require, at any time and place that the Commissioner may specify;
 
-(b) wear at all times on such part of his body as the Director may specify, such electronic transmitting device as may be issued by the Director for the purpose of securing the electronic monitoring of his whereabouts by means of an electronic monitoring device;
+(b) report to provide a specimen of his or her urine or hair for testing at any time and place that the Commissioner may specify;
 
-(c) allow the Superintendent and any person authorised by the Superintendent to enter at any time his place of residence, or such other place or places designated by the Director under paragraph (a), to install, inspect, maintain, repair or retrieve any electronic monitoring device;
+(c) remain indoors at his or her place of residence, or at any other place that the Commissioner may specify, at any time that the Commissioner may specify;
 
-(d) allow a telephone line at his place of residence, or at such other place or places designated by the Director under paragraph (a), to be connected to an electronic monitoring device;
+(d) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place the prisoner is required to remain at, to determine his or her compliance with any condition of the home detention order or for any purpose relating to his or her rehabilitation;
 
-(e) ensure that there is no call waiting or call transfer facility attached to the telephone line referred to in paragraph (d) and that the telephone line is not connected to any cordless telephone, telephone answering machine, parallel telephone line, modulator — demodulator unit or any other equipment which may interfere with the proper functioning of the electronic monitoring device;
+(e) to enable the electronic monitoring of the prisoner’s whereabouts —
 
-(f) not disconnect, remove, damage, tamper with, or lose the electronic transmitting device issued to him or the electronic monitoring device installed at his place of residence or at such other place or places designated by the Director under paragraph (a), or disconnect, remove, damage or tamper with the telephone line connected to the electronic monitoring device;
+(i) wear any electronic transmitting device issued by the Commissioner on any part of his or her person that the Commissioner may specify;
 
-(g) immediately inform the Superintendent or any prison officer of any malfunction or loss of, or damage to, the electronic transmitting device or the electronic monitoring device;
+(ii) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place he or she is required to remain at, to install, maintain, repair or retrieve any electronic monitoring device;
 
-(h) respond promptly to any telephone call from any person appointed by the Director to monitor prisoners who have been issued with an electronic transmitting device; and
+(iii) comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the prisoner or installed at his or her place of residence or any other place he or she is required to remain at;
 
-(i) comply with such other conditions as the Director may specify in the order.
+(iv) comply with all reporting requirements imposed on him or her; and
 
-[8/2000]
+(v) not tamper with any electronic monitoring device issued to the prisoner or installed at the prisoner’s place of residence, or any other place the prisoner is required to remain at, or otherwise prevent or obstruct the electronic monitoring of his or her whereabouts; and
 
-(2) The Director may at any time by order in writing served on the prisoner subject to a home detention order —
+(f) comply with such other conditions as the Commissioner may specify in the order.
+
+[1/2014]
+
+(2) The Commissioner may at any time by written order served on the prisoner subject to a home detention order —
 
 (a) vary, cancel or add to any of the conditions specified in subsection (1); or
 
 (b) exempt the prisoner from any of the conditions specified in subsection (1).
 
-[38D
-
-[8/2000]
+[1/2014]

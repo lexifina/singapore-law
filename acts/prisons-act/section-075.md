@@ -1,6 +1,4 @@
-# 75. Prisoner may make his defence
-Part: PART VII DISCIPLINE AND PRISON OFFENCES
+# 75. Prisoner may make defence
+Part: PART 7 DISCIPLINE AND PRISON OFFENCES
 
-No prisoner shall be punished until he has had an opportunity of hearing the charge and evidence against him, and making his defence.
-
-[58
+A prisoner must not be punished until the prisoner has had an opportunity of hearing the charge and evidence against him or her, and making his or her defence.

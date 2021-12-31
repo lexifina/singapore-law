@@ -1,6 +1,6 @@
 # 26. Duties of medical officer
-Part: PART IV OFFICERS
+Part: PART 4 OFFICERS
 
-Subject to the control of the Director, the medical officer shall perform such duties as may be prescribed.
+Subject to the control of the Commissioner, the medical officer must perform such duties as may be prescribed.
 
-[14
+[1/2014]

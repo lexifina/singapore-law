@@ -1,6 +1,6 @@
-# 30. Prison officers deemed public servants
-Part: PART IV OFFICERS
+# 30. Prison officers and medical officers deemed public servants
+Part: PART 4 OFFICERS
 
-The Director and all Superintendents, medical officers and prison officers appointed under this Act or any regulations made thereunder shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+All prison officers and medical officers appointed under this Act or any regulations made under this Act are deemed to be public servants within the meaning of the Penal Code 1871.
 
-[20
+[33/2004]

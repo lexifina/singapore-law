@@ -1,26 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-PRISONS ACT
-(CHAPTER 247)
-Ordinance
-17 of 1933
-1970 Ed. Cap. 79
-Amended by
-5 of 1985
-1985 Ed. Cap. 247
-Amended by
-7 of 1997
-8 of 2000
-REVISED EDITION 2000
-(30th December 2000)
+PRISONS ACT 1933
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to prisons.
 
-[18th August 1933]
+[18 August 1933]

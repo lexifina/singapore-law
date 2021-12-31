@@ -1,6 +1,6 @@
 # 21. Prison Standing Orders
-Part: PART IV OFFICERS
+Part: PART 4 OFFICERS
 
-The Director may issue orders, to be called Prison Standing Orders, not inconsistent with the provisions of this Act or of any regulations made thereunder.
+The Commissioner may issue orders, to be called Prison Standing Orders, not inconsistent with the provisions of this Act or of any regulations made under this Act.
 
-[9
+[1/2014]

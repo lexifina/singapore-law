@@ -1,6 +1,4 @@
 # 27. Duties of prison officers
-Part: PART IV OFFICERS
+Part: PART 4 OFFICERS
 
-Prison officers shall perform such duties as may be prescribed.
-
-[17
+Prison officers must perform such duties as may be prescribed.

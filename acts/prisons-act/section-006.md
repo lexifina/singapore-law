@@ -1,6 +1,10 @@
-# 6. General administration of prisons by Director
-Part: PART II CONSTITUTION AND ADMINISTRATION
+# 6. General administration of prisons by Commissioner
+Part: PART 2 CONSTITUTION AND ADMINISTRATION
 
-(1) Subject to the orders of the Minister, the general charge and administration of prisons and the control and direction of prison officers throughout Singapore shall be vested in the Director.
+(1) Subject to the orders of the Minister, the general charge and administration of prisons and the control and direction of prison officers throughout Singapore is vested in the Commissioner.
 
-(2) The Director may from time to time make such transfers, and direct the employment and distribution, of prison officers as he may think fit.
+[1/2014]
+
+(2) The Commissioner may make such transfers, and direct the employment and distribution, of prison officers as the Commissioner may think fit.
+
+[1/2014]

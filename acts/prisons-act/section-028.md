@@ -1,6 +1,6 @@
 # 28. Accoutrements
-Part: PART IV OFFICERS
+Part: PART 4 OFFICERS
 
-Every Superintendent and every prison officer shall be provided with such staves, arms, ammunition and other accoutrements as may be prescribed.
+Every prison officer must be provided with any staves, arms, ammunition and other accoutrements that may be prescribed.
 
-[18
+[33/2004]

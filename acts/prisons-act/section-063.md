@@ -1,12 +1,8 @@
 # 63. Delivery of uniform, etc., on leaving
-Part: PART VII DISCIPLINE AND PRISON OFFENCES
+Part: PART 7 DISCIPLINE AND PRISON OFFENCES
 
-(1) Every person, upon ceasing to be a prison officer, shall forthwith deliver up to the Superintendent of the prison in which he is serving at the time of ceasing to be a prison officer, every article of uniform and clothing and all arms, accoutrements, ammunition, staves and other effects of every kind belonging to the Government.
+(1) A prison officer must, before leaving the Singapore Prison Service (whether by resignation, dismissal, discharge or otherwise), deliver up in good order (fair wear and tear excepted only) any arms, ammunition, accoutrement, uniform or other article supplied to him or her as a prison officer and any other property belonging to the Government which may be in his or her possession.
 
-[8/2000]
+[33/2004]
 
 (2) Any person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both and in addition thereto shall be liable to pay the value of any article not delivered up, which value shall be summarily ascertained by the court and shall be recoverable as if it were a fine.
-
-[42
-
-[8/2000]

@@ -1,6 +1,6 @@
-# 22. Inspection by Director
-Part: PART IV OFFICERS
+# 22. Inspection by Commissioner
+Part: PART 4 OFFICERS
 
-The Director shall periodically visit and inspect, or cause to be visited and inspected, all prisons in Singapore.
+The Commissioner must periodically visit and inspect, or cause to be visited and inspected, all prisons in Singapore.
 
-[10
+[1/2014]
