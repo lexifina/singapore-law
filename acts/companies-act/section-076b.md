@@ -1,106 +1,109 @@
-# 76B. Company may acquire its own shares … … … … … 130
-Part: PART IV SHARES, DEBENTURES AND CHARGES Division 1 — Prospectuses
+# 76B. Company may acquire its own shares
+Part: PART 4 SHARES, DEBENTURES AND CHARGES Division 1 — [Repealed by S 236/2002]
 Division: Division 3 — Shares
-Heading: Section Pages
 
-(1) Notwithstanding section 76, a company may, in accordance with this section and sections 76C to 76G, purchase or otherwise acquire shares issued by it if it is expressly permitted to do so by its articles.
+(1) Despite section 76, a company may, in accordance with this section and sections 76C to 76G, purchase or otherwise acquire shares issued by it if it is expressly permitted to do so by its constitution.
 
-[38/98; 36/2000]
+[36/2014]
 
-(2) This section and sections 76C to 76G shall apply to ordinary shares, stocks and preference shares.
+(2) This section and sections 76C to 76G apply to ordinary shares, stocks and preference shares.
 
-[36/2000]
+(3) The total number of ordinary shares and stocks in any class that may be purchased or acquired by a company during the relevant period must not exceed 20% (or such other percentage as the Minister may by notification prescribe) of the total number of ordinary shares and stocks of the company in that class ascertained as at the date of any resolution passed pursuant to section 76C, 76D, 76DA or 76E unless —
 
-(3) The total number of ordinary shares and stocks in any class that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the total number of ordinary shares and stocks of the company in that class ascertained —
+(a) the company has, at any time during the relevant period, reduced its share capital by a special resolution under section 78B or 78C; or
 
-(a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D, 76DA or 76E; or
+(b) the Court has, at any time during the relevant period, made an order under section 78I approving the reduction of share capital of the company.
 
-(b) as at the date of such resolution, whichever is the higher, unless —
+[36/2014]
 
-(i) the company has, at any time during the relevant period, reduced its share capital by a special resolution under section 78B or 78C; or
+(3A) Where a company has reduced its share capital by a special resolution under section 78B or 78C, or the Court has made an order under section 78I, the total number of ordinary shares and stocks of the company in any class is, despite subsection (3)(a) and (b), taken to be the total number of ordinary shares and stocks of the company in that class as altered by the special resolution of the company or the order of the Court, as the case may be.
 
-(ii) the Court has, at any time during the relevant period, made an order under section 78I confirming the reduction of share capital of the company.
+(3B) The total number of preference shares in any class which are not redeemable under section 70 that may be purchased or acquired by a company during the relevant period must not exceed 20% (or such other percentage as the Minister may by notification prescribe) of the total number of non-redeemable preference shares of the company in that class ascertained as at the date of any resolution passed pursuant to section 76C, 76D, 76DA or 76E, unless —
 
-[21/2005]
+(a) the company has, at any time during the relevant period, reduced its share capital by a special resolution under section 78B or 78C; or
 
-(3A) Where a company has reduced its share capital by a special resolution under section 78B or 78C, or the Court has made an order under section 78I, the total number of ordinary shares and stocks of the company in any class shall, notwithstanding subsection (3) (a) and (b), be taken to be the total number of ordinary shares and stocks of the company in that class as altered by the special resolution of the company or the order of the Court, as the case may be.
+(b) the Court has, at any time during the relevant period, made an order under section 78I approving the reduction of share capital of the company.
 
-[21/2005]
+[36/2014]
 
-(3B) The total number of preference shares in any class which are not redeemable under section 70 that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the total number of non-redeemable preference shares of the company in that class ascertained —
+(3C) Where a company has reduced its share capital by a special resolution under section 78B or 78C, or the Court has made an order under section 78I, the total number of non-redeemable preference shares of the company in any class is, despite subsection (3B)(a) and (b), taken to be the total number of non-redeemable preference shares of the company in that class as altered by the special resolution of the company or the order of the Court, as the case may be.
 
-(a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D, 76DA or 76E; or
+(3D) There is no limit on the number of redeemable preference shares that may be purchased or acquired by a company during the relevant period.
 
-(b) as at the date of such resolution, whichever is the higher, unless —
+(3E) For the purposes of this section, any of the company’s ordinary shares held as treasury shares is to be disregarded.
 
-(i) the company has, at any time during the relevant period, reduced its share capital by a special resolution under section 78B or 78C; or
+(4) In subsections (3), (3B) and (3D), “relevant period” means the period —
 
-(ii) the Court has, at any time during the relevant period, made an order under section 78I confirming the reduction of share capital of the company.
+(a) commencing from the date of a resolution passed pursuant to section 76C, 76D, 76DA or 76E (as the case may be);
 
-[21/2005]
+and
 
-(3C) Where a company has reduced its share capital by a special resolution under section 78B or 78C, or the Court has made an order under section 78I, the total number of non-redeemable preference shares of the company in any class shall, notwithstanding subsection (3B) (a) and (b), be taken to be the total number of non-redeemable preference shares of the company in that class as altered by the special resolution of the company or the order of the Court, as the case may be.
+(b) expiring on the date the next annual general meeting is or is required by law to be held, whichever is the earlier.
 
-[21/2005]
+[36/2014]
 
-(3D) There shall be no limit on the number of redeemable preference shares that may be purchased or acquired by a company during the relevant period.
+(5) Ordinary shares that are purchased or acquired by a company pursuant to section 76C, 76D, 76DA or 76E are, unless held in treasury in accordance with section 76H, deemed to be cancelled immediately on purchase or acquisition.
 
-[36/2000]
-
-(3E) For the purposes of this section, any of the company’s ordinary shares held as treasury shares shall be disregarded.
-
-[21/2005]
-
-(4) In subsection (3), ‘‘relevant period’’ means the period commencing from the date the last annual general meeting of the company was held or if no such meeting was held the date it was required by law to be held before the resolution in question is passed, and expiring on the date the next annual general meeting is or is required by law to be held, whichever is the earlier, after the date the resolution in question is passed.
-
-[38/98]
-
-(5) Ordinary shares that are purchased or acquired by a company pursuant to section 76C, 76D, 76DA or 76E shall, unless held in treasury in accordance with section 76H, be deemed to be cancelled immediately on purchase or acquisition.
-
-[21/2005]
-
-(5A) Preference shares that are purchased or acquired by a company pursuant to section 76C, 76D, 76DA or 76E shall be deemed to be cancelled immediately on purchase or acquisition.
-
-[21/2005]
+(5A) Preference shares that are purchased or acquired by a company pursuant to section 76C, 76D, 76DA or 76E are deemed to be cancelled immediately on purchase or acquisition.
 
 (6) On the cancellation of a share under subsection (5) or (5A), the rights and privileges attached to that share expire.
 
-[38/98; 21/2005]
+(7) A private company may purchase or acquire any of its shares under section 76C, 76D, 76DA or 76E by lodging the following with the Registrar:
 
-(7) For the purposes of this section, shares are deemed to be purchased or acquired on the date on which the company would, apart from subsection (5), become entitled to exercise the rights attached to the shares.
+(a) a copy of a resolution mentioned in section 76C, 76D, 76DA or 76E;
 
-[38/98]
+(b) a notice of purchase or acquisition in the prescribed form with the following particulars:
 
-(8) Within 30 days of the passing of a resolution referred to in section 76C, 76D, 76DA or 76E, the directors of the company shall lodge with the Registrar a copy of the resolution.
+(i) the date of the purchase or acquisition;
 
-[38/98; 8/2003]
+(ii) the number of shares purchased or acquired;
 
-(9) Within 30 days of the purchase or acquisition of the shares, the directors of the company shall lodge with the Registrar the notice of the purchase or acquisition in the prescribed form with the following particulars:
+(iii) the number of shares cancelled;
 
-(a) the date of the purchase or acquisition;
+(iv) the number of shares held as treasury shares;
 
-(b) the number of shares purchased or acquired;
+(v) the company’s issued share capital before the purchase or acquisition;
 
-(c) the number of shares cancelled;
+(vi) the company’s issued share capital after the purchase or acquisition;
 
-(d) the number of shares held as treasury shares;
+(vii) the amount of consideration paid by the company for the purchase or acquisition of the shares;
 
-(e) the company’s issued share capital before the purchase or acquisition;
+(viii) whether the shares were purchased or acquired out of the profits or the capital of the company;
 
-(f) the company’s issued share capital after the purchase or acquisition;
+(ix) such other particulars as may be required in the prescribed form.
 
-(g) the amount of consideration paid by the company for the purchase or acquisition of the shares;
+[36/2014]
 
-(h) whether the shares were purchased or acquired out of the profits or the capital of the company; and
+(8) A purchase or acquisition by a private company on or after 3 January 2016 does not take effect until the electronic register of members of the company is updated by the Registrar under section 196A(5).
 
-(i) such other particulars as may be required in the prescribed form.
+[36/2014]
 
-[38/98; 8/2003; 21/2005]
+(9) Where a public company purchases or acquires shares issued by it under section 76C, 76D, 76DA or 76E —
 
-(10) Nothing in this section or in sections 76C to 76G shall be construed so as to limit or affect an order of the Court made under any section that requires a company to purchase or acquire its own shares.
+(a) within 30 days after the passing of a resolution mentioned in section 76C, 76D, 76DA or 76E (as the case may be) the directors of the company must lodge with the Registrar a copy of the resolution;
 
-[38/98]
+(b) within 30 days after the purchase or acquisition of the shares, the directors of the company must lodge a notice of purchase or acquisition in the prescribed form with the following particulars:
 
-[UK, 1985, s. 162; Aust., Co. Law Rev. Act, 1998, Sch. 1 (ss. 257A, 257B, 257H); Aust., 2001, s. 254Y;
+(i) the date of the purchase or acquisition;
 
-NZ, 1993, ss. 58, 59, 66]
+(ii) the number of shares purchased or acquired;
+
+(iii) the number of shares cancelled;
+
+(iv) the number of shares held as treasury shares;
+
+(v) the company’s issued share capital before the purchase or acquisition;
+
+(vi) the company’s issued share capital after the purchase or acquisition;
+
+(vii) the amount of consideration paid by the company for the purchase or acquisition of the shares;
+
+(viii) whether the shares were purchased or acquired out of the profits or the capital of the company;
+
+(ix) such other particulars as may be required in the prescribed form; and
+
+(c) for the purposes of this section, shares are deemed to be purchased or acquired on the date on which the company would, apart from subsection (5), become entitled to exercise the rights attached to the shares.
+
+[36/2014]
+
+(10) Nothing in this section or in sections 76C to 76G is to be construed so as to limit or affect an order of the Court made under any section that requires a company to purchase or acquire its own shares.

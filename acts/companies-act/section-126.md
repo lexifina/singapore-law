@@ -1,15 +1,15 @@
-# 126. Instrument of transfer … … … … … … … 173 Transfer by personal representatives … … … … … 174
-Part: PART IV SHARES, DEBENTURES AND CHARGES Division 1 — Prospectuses
+# 126. Transfer of shares in private companies
+Part: PART 4 SHARES, DEBENTURES AND CHARGES Division 1 — [Repealed by S 236/2002]
 Division: Division 7 — Title and transfers
 
-(1) Notwithstanding anything in its articles, a company shall not register a transfer of shares or debentures unless a proper instrument of transfer has been delivered to the company, but this subsection shall not prejudice any power to register as a shareholder or debenture holder any person to whom the right to any shares in or debentures of the company has been transmitted by operation of law.
+(1) Despite anything in its constitution, a private company must not lodge a transfer of shares unless a proper instrument of transfer has been delivered to the company, but this section does not affect any power to lodge a notice of transfer of shares in respect of any person to whom the right to any shares of the company has been transmitted by operation of law.
 
-Transfer by personal representatives
+[36/2014]
 
-(2) A transfer of the share, debenture or other interest of a deceased person made by his personal representative shall, although the personal representative is not himself a member of the company, be as valid as if he had been such a member at the time of the execution of the instrument of transfer.
+(2) Where there has been a transfer of shares, a private company must lodge with the Registrar notice of that transfer of shares in the prescribed form.
 
-(3) The production to a company of any document which is by law sufficient evidence of probate of the will, or letters of administration of the estate, of a deceased person having been granted to some person shall be accepted by the company, notwithstanding anything in its articles, as sufficient evidence of the grant.
+[36/2014]
 
-(4) In this section, ‘‘instrument of transfer’’ includes a written application for transmission of a share debenture or other interest to a personal representative.
+(3) A transfer of any share in a private company on or after 3 January 2016 does not take effect until the electronic register of members of the company is updated by the Registrar under section 196A(5).
 
-[UK, 1948, ss. 75, 76, 82; Aust., 1961, s. 95]
+[36/2014]

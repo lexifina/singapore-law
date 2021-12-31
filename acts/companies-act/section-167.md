@@ -1,5 +1,5 @@
-# 167. (Repealed) … … … … … … … … … 235
-Part: PART V MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
-Heading: Section Pages
+# 167. [Repealed]
+Part: PART 5 MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
+Division: Division 2 — Directors and officers
 
-(Repealed by Act 13 of 1987)
+[Repealed by Act 13 of 1987]

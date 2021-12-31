@@ -1,8 +1,8 @@
-# 25. Ultra vires transactions … … … … … … … 75
-Part: PART III CONSTITUTION OF COMPANIES Division 1 — Incorporation
+# 25. Ultra vires transactions
+Part: PART 3 CONSTITUTION OF COMPANIES Division 1 — Incorporation
 Division: Division 2 — Powers
 
-(1) No act or purported act of a company (including the entering into of an agreement by the company and including any act done on behalf of a company by an officer or agent of the company under any purported authority, whether express or implied, of the company) and no conveyance or transfer of property, whether real or personal, to or by a company shall be invalid by reason only of the fact that the company was without capacity or power to do such act or to execute or take such conveyance or transfer.
+(1) No act or purported act of a company (including the entering into of an agreement by the company and including any act done on behalf of a company by an officer or agent of the company under any purported authority, whether express or implied, of the company) and no conveyance or transfer of property, whether real or personal, to or by a company is invalid by reason only of the fact that the company was without capacity or power to do such act or to execute or take such conveyance or transfer.
 
 (2) Any such lack of capacity or power may be asserted or relied upon only in —
 
@@ -12,8 +12,4 @@ Division: Division 2 — Powers
 
 (c) any application by the Minister to wind up the company.
 
-[42/2005]
-
-(3) If the unauthorised act, conveyance or transfer sought to be restrained in any proceedings under subsection (2) (a) is being or is to be performed or made pursuant to any contract to which the company is a party, the Court may, if all the parties to the contract are parties to the proceedings and if the Court considers it to be just and equitable, set aside and restrain the performance of the contract and may allow to the company or to the other parties to the contract, as the case requires, compensation for the loss or damage sustained by either of them which may result from the action of the Court in setting aside and restraining the performance of the contract but anticipated profits to be derived from the performance of the contract shall not be awarded by the Court as a loss or damage sustained.
-
-[Aust., 1961, s. 20]
+(3) If the unauthorised act, conveyance or transfer sought to be restrained in any proceedings under subsection (2)(a) is being or is to be performed or made pursuant to any contract to which the company is a party, the Court may, if all the parties to the contract are parties to the proceedings and if the Court considers it to be just and equitable, set aside and restrain the performance of the contract and may allow to the company or to the other parties to the contract (as the case requires) compensation for the loss or damage sustained by either of them which may result from the action of the Court in setting aside and restraining the performance of the contract but anticipated profits to be derived from the performance of the contract must not be awarded by the Court as a loss or damage sustained.

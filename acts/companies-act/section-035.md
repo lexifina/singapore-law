@@ -1,27 +1,15 @@
-# 35. Articles of association … … … … … … … 93
-Part: PART III CONSTITUTION OF COMPANIES Division 1 — Incorporation
+# 35. Regulations for company
+Part: PART 3 CONSTITUTION OF COMPANIES Division 1 — Incorporation
 Division: Division 2 — Powers
 
-(1) There may in the case of a company limited by shares and there shall in the case of a company limited by guarantee or an unlimited company be registered with the memorandum, articles signed by the subscribers to the memorandum prescribing regulations for the company.
+(1) Subject to this section, a company’s constitution must contain the regulations for the company.
 
-[15/84]
+[36/2014]
 
-(2) Articles shall comply with such requirements as may be prescribed.
+(2) Subsection (1) does not apply to a company limited by shares that was incorporated before 3 January 2016.
 
-[12/2002]
+[36/2014]
 
-(3) (Deleted by Act 21 of 2005)
+(3) Despite subsection (2), where immediately before 3 January 2016, regulations were in force for a company, whether the regulations were prescribed in the company’s registered articles, or were applicable in lieu of or in addition to the company’s registered articles by virtue of section 36(2) in force before that date, such regulations are deemed to be the regulations for the company contained in the company’s constitution for the purposes of subsection (1) until such time as the constitution of the company is amended to replace or amend those regulations.
 
-(4) In the case of an unlimited company or a company limited by guarantee the articles shall state the number of members with which the company proposes to be registered.
-
-[15/84]
-
-(5) Where a company to which subsection (4) applies changes the number of its members so that it is different from the registered number, the company shall, within 14 days after the date on which the change was resolved or took place, lodge with the Registrar notice of the change in the prescribed form.
-
-[12/2002]
-
-(6) Every company which makes default in complying with subsection (5) and every officer of the company who is in default in complying with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
-
-[15/84]
-
-[UK, 1948, ss. 6, 7; Aust., 1961, s. 29]
+[36/2014]

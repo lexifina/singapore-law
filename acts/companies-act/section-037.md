@@ -1,13 +1,29 @@
-# 37. Alteration of articles … … … … … … … … 94
-Part: PART III CONSTITUTION OF COMPANIES Division 1 — Incorporation
+# 37. Adoption of model constitution
+Part: PART 3 CONSTITUTION OF COMPANIES Division 1 — Incorporation
 Division: Division 2 — Powers
 
-(1) Subject to this Act (in particular section 26A and any provision included in its articles in accordance with that section) and to any conditions in its memorandum, a company may by special resolution alter or add to its articles.
+(1) A specified company may adopt as its constitution the whole or any part of the model constitution prescribed under section 36(1) for the type of company to which it belongs.
 
-[5/2004]
+[36/2014]
 
-(2) Any alteration or addition so made in the articles shall, subject to this Act, on and from the date of the special resolution or such later date as is specified in the resolution, be as valid as if originally contained therein and be subject in like manner to alteration by special resolution.
+(2) A specified company may in its constitution adopt the whole model constitution for the type of company to which it belongs by reference to the title of the model constitution.
 
-(3) Subject to this section, any company shall have the power and shall be deemed always to have had the power to amend its articles by the adoption of all or any of the regulations contained in Table A, by reference only to the regulations in that Table or to the numbers of particular regulations contained therein, without being required in the special resolution effecting the amendment to set out the text of the regulations so adopted.
+[36/2014]
 
-[UK, 1948, s. 10; Aust., 1961, s. 31]
+(3) Where a specified company adopts the whole model constitution for the type of company to which it belongs, the specified company may choose —
+
+(a) to adopt the model constitution as in force at the time of adoption; or
+
+(b) to adopt the model constitution as may be in force from time to time, in which case the model constitution for the type of company to which the specified company belongs that is for the time being in force is, so far as applicable, the constitution for that specified company.
+
+[36/2014]
+
+(4) A copy of the constitution of a specified company must be submitted to the Registrar, in accordance with section 19(1), where the specified company —
+
+(a) adopts only part of the model constitution for the type of company to which it belongs;
+
+(b) includes provisions additional to those in the model constitution; or
+
+(c) includes object clauses as part of its constitution.
+
+[36/2014]

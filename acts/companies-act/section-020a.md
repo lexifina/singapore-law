@@ -1,9 +1,4 @@
-# 20A. Minimum of one member … … … … … … … 71
-Part: PART III CONSTITUTION OF COMPANIES Division 1 — Incorporation
-Heading: Section Pages
+# 20A. Minimum of one member
+Part: PART 3 CONSTITUTION OF COMPANIES Division 1 — Incorporation
 
-A company shall have at least one member.
-
-[5/2004]
-
-[Aust., 2001, s. 114]
+A company must have at least one member.

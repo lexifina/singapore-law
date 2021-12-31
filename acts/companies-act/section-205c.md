@@ -1,23 +1,39 @@
-# 205C. Exempt private company exempt from audit requirements … 300
-Part: PART VI ACCOUNTS AND AUDIT Division 1 — Accounts
-Heading: Section Pages Division 2 — Audit
+# 205C. Small company exempt from audit requirements
+Part: PART 6 FINANCIAL STATEMENTS AND AUDIT Division 1 — Financial statements
+Division: Division 2 — Audit
 
-(1) An exempt private company shall be exempt from audit requirements in respect of a financial year if its revenue in that year does not exceed the prescribed amount.
+(1) Subject to subsections (3), (4) and (6), a company that is a small company in respect of a financial year is exempt from audit requirements for that financial year.
 
-[8/2003]
+[36/2014]
 
-(2) For a period which is an exempt private company’s financial year but is less than 12 calendar months, the prescribed amount shall be proportionately adjusted.
+(2) Section 205B(4), (6) and (7) applies, with the necessary modifications, to a small company so exempt.
 
-[8/2003]
+[36/2014]
 
-(3) Section 205B (4), (6) and (7) shall apply, with the necessary modifications, to an exempt private company so exempt.
+(3) Subsection (1) does not apply to a parent company unless the parent company —
 
-[8/2003]
+(a) is a small company; and
 
-(4) In this section —
+(b) is part of a small group.
 
-‘‘prescribed amount’’ means the amount prescribed by the Minister for the purposes of this section;
+[36/2014]
 
-‘‘revenue’’ has the meaning given to that word in the Accounting Standards, subject to such modifications as the Minister may prescribe.
+(4) Subsection (1) does not apply to a subsidiary company unless the subsidiary company —
 
-[8/2003]
+(a) is a small company; and
+
+(b) is part of a small group.
+
+[36/2014]
+
+(5) In this section, “small company” and “small group” have the meanings given in the Thirteenth Schedule.
+
+[36/2014]
+
+(6) This section does not apply to a company with respect to its financial statements for a financial year commencing before 1 July 2015 and such a company must prepare its accounts or consolidated accounts and its directors must lay them at its annual general meeting in accordance with Part VI in force immediately before that date.
+
+[36/2014]
+
+(7) Without limiting section 197(2), a company mentioned in subsection (6) must, when lodging a return with the Registrar under section 197, attach a copy of the accounts or consolidated accounts so prepared.
+
+[36/2014]

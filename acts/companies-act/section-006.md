@@ -1,5 +1,5 @@
-# 6. When corporations deemed to be related to each other … 42
-Part: PART I PRELIMINARY Section Pages
+# 6. When corporations deemed to be related to each other
+Part: PART 1 PRELIMINARY
 
 Where a corporation —
 
@@ -7,6 +7,4 @@ Where a corporation —
 
 (b) is a subsidiary of another corporation; or
 
-(c) is a subsidiary of the holding company of another corporation, that first-mentioned corporation and that other corporation shall for the purposes of this Act be deemed to be related to each other.
-
-[Aust., 1961, s. 6 (5)]
+(c) is a subsidiary of the holding company of another corporation, that firstmentioned corporation and that other corporation are for the purposes of this Act deemed to be related to each other.

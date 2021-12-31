@@ -1,55 +1,53 @@
 # ELEVENTH SCHEDULE
 
-Section 227G (4)
+[Repealed by Act 40 of 2018]
 
-POWERS OF JUDICIAL MANAGER
+TWELFTH SCHEDULE
 
-The judicial manager may exercise all or any of the following powers:
+Sections 8(7) and 201(16)
 
-(a) power to take possession of, collect and get in the property of the company and, for that purpose, to take such proceedings as may seem to him expedient;
+CONTENTS OF DIRECTORS’ STATEMENT
 
-(b) power to sell or otherwise dispose of the property of the company by public auction or private contract;
+1. A statement as to whether in the opinion of the directors —
 
-(c) power to borrow money and grant security therefor over the property of the company;
+(a) the financial statements and, where applicable, the consolidated financial statements are drawn up so as to give a true and fair view of the financial position and performance of the company and (if applicable) of the financial position and performance of the group for the period covered by the financial statements or consolidated financial statements; and
 
-(d) power to appoint a solicitor or accountant or other professionally qualified person to assist him in the performance of his functions;
+(b) at the date of the statement there are reasonable grounds to believe that the company will be able to pay its debts as and when they fall due.
 
-(e) power to bring or defend any action or other legal proceedings in the name and on behalf of the company;
+2. Where any option has been granted by a company, other than a parent company for which consolidated financial statements are required, during the period covered by the financial statements to take up unissued shares of a company —
 
-(f) power to refer to arbitration any question affecting the company;
+(a) the number and class of shares in respect of which the option has been granted;
 
-(g) power to effect and maintain insurances in respect of the business and property of the company;
+(b) the date of expiration of the option;
 
-(h) power to use the company’s seal;
+(c) the basis upon which the option may be exercised; and
 
-(i) power to do all acts and to execute in the name and on behalf of the company any deed, receipt or other document;
+(d) whether the person to whom the option has been granted has any right to participate by virtue of the option in any share issue of any other company.
 
-(j) power to draw, accept, make and endorse any bill of exchange or promissory note in the name and on behalf of the company;
+3. Where any of the particulars required by paragraph 2 have been stated in a previous directors’ statement, they may be stated by reference to that statement.
 
-ELEVENTH SCHEDULE — continued
+4. Where a parent company or any of its subsidiary corporations has at any time granted to a person an option to have shares issued to the person in the company or subsidiary corporation, the directors’ statement of the parent company must state the name of the corporation in respect of the shares in which the option was granted and the other particulars required under paragraphs 2, 5 and 6.
 
-(k) power to appoint any agent to do any business which he is unable to do himself or which can more conveniently be done by an agent and power to employ and dismiss employees;
+5. The particulars of shares issued during the period to which the statement relates by virtue of the exercise of options to take up unissued shares of the company, whether granted before or during that period.
 
-(l) power to do all such things (including the carrying out of works) as may be necessary for the realisation of the property of the company;
+6. The number and class of unissued shares of the company under option as at the end of the period to which the statement relates, the price, or method of fixing the price, of issue of those shares, the date of expiration of the option and the rights TWELFTH SCHEDULE — continued
 
-(m) power to make any payment which is necessary or incidental to the performance of his functions;
+(if any) of the persons to whom the options have been granted to participate by virtue of the options in any share issue of any other company.
 
-(n) power to carry on the business of the company;
+7. The names of the persons who are the directors in office at the date of the statement.
 
-(o) power to establish subsidiaries of the company;
+8. Whether at the end of the financial year to which the financial statements or, where the company is a parent company, consolidated financial statements relate —
 
-(p) power to transfer to subsidiaries of the company the whole or any part of the business and property of the company;
+(a) there subsist arrangements to which the company is a party, being arrangements whose objects are, or one of whose objects is, to enable directors of the company to acquire benefits by means of the acquisition of shares in, or debentures of, the company or any other body corporate; or
 
-(q) power to grant or accept a surrender of a lease or tenancy of any of the property of the company, and to take a lease or tenancy of any property required or convenient for the business of the company;
+(b) there have, at any time in that year, subsisted such arrangements as aforesaid to which the company was a party,
 
-(r) power to make any arrangement or compromise on behalf of the company;
+and if so, a statement explaining the effect of the arrangements and giving the names of the persons who at any time in that year were directors of the company and held, or whose nominees held, shares or debentures acquired pursuant to the arrangements.
 
-(s) power to call up any uncalled capital of the company;
+9. As respects each person who, at the end of the financial year, was a director of the company —
 
-(t) power to rank and claim in the bankruptcy, insolvency, sequestration or liquidation of any person indebted to the company and to receive dividends, and to accede to trust deeds for the creditors of any such person;
+(a) whether or not (according to the register kept by the company for the purposes of section 164 relating to the obligation of a director of a company to notify it of his or her interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company) he or she was, at the end of that year, interested in shares in, or debentures of, the company or any other such body corporate; and
 
-(u) power to make or defend an application for the winding up of a company;
+(b) if he or she was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he or she was then interested and whether or not, according to that register, he or she was, at the beginning of that year (or, if he or she was not then a director, when he or she became a director), interested in shares in, or debentures of, the company or any other such body corporate and, if he or she was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he or she was interested at the beginning of that year or (as the case may be) when he or she became a director.
 
-(v) power to do all other things incidental to the exercise of the foregoing powers.
-
-[13/87; 42/2005]
+[36/2014]

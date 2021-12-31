@@ -1,27 +1,33 @@
-# 209A. Interpretation … … … … … … … … … 307
-Part: PART VI ACCOUNTS AND AUDIT Division 1 — Accounts
-Heading: Section Pages Division 2 — Audit
+# 209A. Interpretation of this Part
+Part: PART 6 FINANCIAL STATEMENTS AND AUDIT Division 1 — Financial statements
+Division: Division 2 — Audit
 
 In this Part, unless the contrary intention appears —
 
-‘‘consolidated accounts’’, in relation to a holding company, means —
+“balance sheet”, in relation to a company, means the balance sheet, by whatever name called, prepared in accordance with the Accounting Standards;
 
-(a) a set of consolidated accounts for the group of companies of that holding company; or
+“consolidated financial statements” has the meaning given by the Accounting Standards;
 
-(b) the accounts or consolidated accounts prepared in compliance with the Accounting Standards;
+“consolidated total assets” —
 
-‘‘group of companies’’, in relation to a holding company, means the holding company and the corporations that are subsidiaries of the holding company;
+(a) in the case where consolidated financial statements are prepared in relation to a group — are determined in accordance with the accounting standards applicable to the group; or
 
-‘‘holding company’’ means a corporation that is the holding company of another corporation;
+(b) in the case where consolidated financial statements are not prepared in relation to a group — means the aggregate total assets of all the members of the group;
 
-‘‘profit or loss’’ means —
+“directors’ statement” means the statement of the directors mentioned in section 201(16);
 
-(a) in relation to a corporation that is not a holding company — the profit or loss resulting from operations of that corporation;
+“entity” means an entity that is referred to in the Accounting Standards in relation to the preparation of financial statements and the requirements for the preparation of financial statements;
 
-(b) in relation to a corporation that is a holding company of a group of companies for which consolidated accounts are required — the profit or loss resulting from operations of that corporation;
+“financial statements” means the financial statements of a company required to be prepared by the Accounting Standards;
 
-(c) in relation to a corporation referred to in paragraph (b) and its subsidiaries — the profit or loss resulting from operations of the group of companies of which the corporation is the holding company; and
+“group” has the meaning given by the Accounting Standards;
 
-(d) in relation to a corporation that is a holding company of a group of companies for which consolidated accounts are not required — the profit or loss resulting from operations of that corporation.
+“parent company” means a company that is required under the Accounting Standards to prepare financial statements in relation to a group;
 
-[13/87; 12/2002]
+“subsidiary company” means a company that is a subsidiary as defined in the Accounting Standards;
+
+“subsidiary corporation” means a corporation that is a subsidiary as defined in the Accounting Standards;
+
+“ultimate parent corporation” means a corporation which is a parent but is not a subsidiary, within the meaning of the Accounting Standards.
+
+[36/2014]

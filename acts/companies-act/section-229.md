@@ -1,13 +1,13 @@
-# 229. Interpretation … … … … … … … … … 360
-Part: PART IX INVESTIGATIONS
+# 229. Interpretation
+Part: PART 9 INVESTIGATIONS
 
 In this Part, unless the contrary intention appears —
 
-‘‘company’’ includes a foreign company which is a declared company;
+“company” includes a foreign company which is a declared company;
 
-‘‘declared company’’ means a company or foreign company which the Minister has by order declared to be a company to which this Part applies;
+“declared company” means a company or foreign company which the Minister has by order declared to be a company to which this Part applies;
 
-‘‘officer or agent’’, in relation to a corporation, includes —
+“officer or agent”, in relation to a corporation, includes —
 
 (a) a director, banker, solicitor or auditor of the corporation;
 
@@ -21,14 +21,10 @@ or
 
 (c) a person who —
 
-(i) has in his possession any property of the corporation;
+(i) has in the person’s possession any property of the corporation;
 
 (ii) is indebted to the corporation; or
 
 (iii) is capable of giving information concerning the promotion, formation, trading, dealings, affairs or property of the corporation; and
 
-(d) where there are reasonable grounds for suspecting or believing that a person is a person referred to in paragraph (c) — that person.
-
-[62/70; 13/87]
-
-[Aust., 1961, ss. 168 (2), 172 (1)]
+(d) where there are reasonable grounds for suspecting or believing that a person is a person mentioned in paragraph (c) — that person.

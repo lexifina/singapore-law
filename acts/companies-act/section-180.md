@@ -1,17 +1,31 @@
-# 180. As to member’s rights at meetings … … … … … 252
-Part: PART V MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
+# 180. As to member’s rights at meetings
+Part: PART 5 MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
 Division: Division 3 — Meetings and proceedings
 
-(1) Subject to subsection (2), every member shall, notwithstanding any provision in the memorandum or articles, have a right to attend any general meeting of the company and to speak and vote on any resolution before the meeting except that the company’s articles may provide that a member shall not be entitled to vote unless all calls or other sums personally payable by him in respect of shares in the company have been paid.
+(1) A member has, despite any provision in the constitution of the company, a right to attend any general meeting of the company and to speak on any resolution before the meeting.
 
-(2) Notwithstanding subsection (1), the articles may provide that holders of preference shares shall not have the right to vote at a general meeting of the company except that any preference shares issued after 15th August 1984 shall carry the right to attend any general meeting and in a poll thereat to at least one vote in respect of each such share held —
+[36/2014]
 
-(a) during such period as the preferential dividend or any part thereof remains in arrear and unpaid, such period starting from a date not more than 12 months, or such lesser period as the articles may provide, after the due date of the dividend;
+(2) In the case of a company limited by shares, the holder of a share may vote on a resolution before a general meeting of the company if, in accordance with the provisions of section 64, the share confers on the holder a right to vote on that resolution.
 
-(b) upon any resolution which varies the rights attached to such shares; or
+[36/2014]
 
-(c) upon any resolution for the winding up of the company.
+(3) In the case of a company other than a company limited by shares, a member may vote on a resolution before a general meeting of the company if the right to vote on that resolution is conferred on the member under the constitution of the company.
 
-[15/84; S 205/84]
+[36/2014]
 
-(3) For the purposes of subsection (2), a dividend shall be deemed to be due on the date appointed in the articles for the payment of the dividend for any year or other period, or if no such date is appointed, upon the day immediately following the expiration of the year or other period and whether or not such dividend shall have been earned or declared.
+(4) Despite subsection (2), a preference share issued after 15 August 1984 but before 3 January 2016 carries, in addition to any other right conferred by this Act, the right in a poll at any general meeting to at least one vote in respect of each such share held during such period as the preferential dividend or any part thereof remains in arrears and unpaid, such period starting from a date not more than 12 months, or such lesser period as the constitution may provide, after the due date of the dividend.
+
+[36/2014]
+
+(5) For the purposes of subsection (4) —
+
+(a) “preference share” means a share, by whatever name called, which does not entitle the holder thereof —
+
+(i) to the right to vote at a general meeting (except in the circumstances specified in subsection (4)); or
+
+(ii) to any right to participate beyond a specified amount in any distribution whether by way of dividend, or on redemption, in a winding up, or otherwise; and
+
+(b) a dividend is deemed to be due on the date appointed in the constitution for the payment of the dividend for any year or other period or, if no such date is appointed, upon the day immediately following the expiration of the year or other period and whether or not such dividend has been earned or declared.
+
+[36/2014]

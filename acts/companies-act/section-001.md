@@ -1,4 +1,4 @@
-# 1. Short title … … … … … … … … … … 23
-Part: PART I PRELIMINARY Section Pages
+# 1. Short title
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Companies Act.
+This Act is the Companies Act 1967.

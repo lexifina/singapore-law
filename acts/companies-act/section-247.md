@@ -1,10 +1,4 @@
-# 247. Modes of winding up … … … … … … … … 375
-Part: PART X WINDING UP Division 1 — Preliminary
+# 247. to 252. [Repealed]
+Part: PART 10 DISSOLUTION Division 1 — [Repealed by Act 40 of 2018]
 
-The winding up of a company may be either —
-
-(a) by the Court; or
-
-(b) voluntary.
-
-[Aust., 1961, s. 216 (1)]
+to 252. [Repealed by Act 40 of 2018]

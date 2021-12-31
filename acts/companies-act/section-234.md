@@ -1,4 +1,4 @@
-# 234. (Repealed) … … … … … … … … … 365
-Part: PART IX INVESTIGATIONS
+# 234. [Repealed]
+Part: PART 9 INVESTIGATIONS
 
-(Repealed by Act 13 of 1987)
+[Repealed by Act 13 of 1987]

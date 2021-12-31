@@ -1,37 +1,68 @@
-# 377. Cesser of business in Singapore … … … … … … 462
-Part: PART XI VARIOUS TYPES OF COMPANIES, ETC. Division 1 — Investment companies
-Division: Division 2 — Foreign companies
+# 377. Cesser of business in Singapore
+Part: PART 11 VARIOUS TYPES OF COMPANIES, ETC. Division 1 — [Repealed by Act 8 of 2003] Division 2 — Foreign companies
 
-(1) If a foreign company ceases to have a place of business or to carry on business in Singapore, it shall, within 7 days after so ceasing, lodge with the Registrar notice of that fact, and as from the day on which the notice is so lodged its obligation to lodge any document (not being a document that ought to have been lodged before that day) with the Registrar shall cease, and the Registrar shall upon the expiration of 12 months after the lodging of the notice remove the name of that foreign company from the register.
+(1) If a foreign company ceases to have a place of business in Singapore or to carry on business in Singapore, it must, within 7 days after so ceasing, lodge with the Registrar notice of that fact.
 
-(2) If a foreign company goes into liquidation or is dissolved in its place of incorporation or origin —
+[36/2014]
 
-(a) each person who immediately prior to the commencement of the liquidation proceedings was an agent shall, within one month after the commencement of the liquidation or the dissolution or within such further time as the Registrar in special circumstances allows, lodge or cause to be lodged with the Registrar notice of that fact and, when a liquidator is appointed, notice of such appointment; and
+(1A) Starting on the day on which the foreign company lodged the notice mentioned in subsection (1), the foreign company’s obligation to lodge any document (not being a document that ought to have been lodged before that day) with the Registrar ceases.
 
-(b) the liquidator shall, until a liquidator for Singapore is duly appointed by the Court, have the powers and functions of a liquidator for Singapore.
+[36/2014]
 
-(3) A liquidator of a foreign company appointed for Singapore by the Court or a person exercising the powers and functions of such a liquidator —
+(1B) The Registrar must as soon as practicable after the lodgment of the notice mentioned in subsection (1) record in the register that the company has ceased to have a place of business in Singapore or ceased to carry on business in Singapore, as the case may be.
 
-(a) shall, before any distribution of the foreign company’s assets is made, by advertisement in a newspaper circulating generally in each country where the foreign company had been carrying on business prior to the liquidation if no liquidator has been appointed for that place, invite all creditors to make their claims against the foreign company within a reasonable time prior to the distribution;
+[36/2014]
 
-(b) subject to subsection (7), shall not, without obtaining an order of the Court, pay out any creditor to the exclusion of any other creditor of the foreign company; and
+(2) If a foreign company goes into liquidation or is dissolved in its place of incorporation or origin, each person who immediately before the commencement of the liquidation proceedings was an authorised representative must —
 
-(c) shall, unless otherwise ordered by the Court, only recover and realise the assets of the foreign company in Singapore and shall, subject to paragraph (b) and subsection (7), pay the net amount so recovered and realised to the liquidator of that foreign company for the place where it was formed or incorporated after paying any debts and satisfying any liabilities incurred in Singapore by the foreign company.
+(a) within 14 days after the commencement of the liquidation or the dissolution; or
 
-(4) Where a foreign company has been wound up so far as its assets in Singapore are concerned and there is no liquidator for the place of its incorporation or origin, the liquidator may apply to the Court for directions as to the disposal of the net amount recovered in pursuance of subsection (3).
+(b) within such further time as the Registrar in special circumstances allows, lodge or cause to be lodged with the Registrar notice of that fact and, when a liquidator is appointed, notice of such appointment.
 
-(5) On receipt of a notice from an agent that the company has been dissolved, the Registrar shall remove the name of the company from the register.
+[40/2018]
 
-(6) Where the Registrar has reasonable cause to believe that a foreign company has ceased to carry on business or to have a place of business in Singapore, the provisions of this Act relating to the striking off the register of the names of defunct companies shall with such adaptations as are necessary extend and apply accordingly.
+(3) [Deleted by Act 40 of 2018]
 
-(7) Section 328 shall apply to a foreign company wound up or dissolved pursuant to this section as if for references to a company there were substituted references to a foreign company.
+(4) [Deleted by Act 40 of 2018]
 
-(8) Where the Registrar is satisfied that a foreign company is being used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore or against the national security or interest, he shall strike the name of the foreign company off the register and it shall thereupon cease to be registered as a foreign company under this Division.
+(4A) [Deleted by Act 40 of 2018]
 
-[15/84]
+(5) On receipt of a notice from an authorised representative that the foreign company has been dissolved, the Registrar must record in the register that the foreign company has been dissolved.
 
-(9) Any person aggrieved by the decision of the Registrar under subsection (8) may, within 30 days of the date of the decision, appeal to the Minister whose decision shall be final.
+[36/2014]
 
-[15/84]
+(6) [Deleted by Act 36 of 2014]
 
-[UK, 1948, s. 413 (2); Aust., 1961, s. 352]
+(7) [Deleted by Act 40 of 2018]
+
+(8) The Registrar must strike the name of a foreign company off the register if the Registrar is satisfied that the company is being used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore or against the national security or interest.
+
+[36/2014]
+
+(9) The Registrar may strike the name of a foreign company off the register if —
+
+(a) the Registrar has reasonable cause to believe that the company has ceased to carry on business or to have a place of business in Singapore; or
+
+(b) the company has failed to appoint an authorised representative within 6 months after the date of the death of its sole authorised representative.
+
+[36/2014]
+
+(10) The Registrar may strike the name of a foreign company off the register upon the application of the sole authorised representative of the foreign company in the prescribed form if the Registrar is satisfied that —
+
+(a) the sole authorised representative has given written notice to the foreign company that he or she desires to resign and has lodged a notice under section 370(3) with the Registrar, but the company has failed to respond or appoint another authorised representative within 12 months after the date of lodgment of the notice; or
+
+(b) the foreign company has failed to give instructions with respect to a written request from the sole authorised representative for instructions as to whether the company wishes to cancel or continue its registration under this Act within 12 months after the date the written request was sent.
+
+[36/2014]
+
+(11) Without limiting subsection (9)(a), in determining whether there is reasonable ground to believe that a company is not carrying on business under that subsection, the Registrar may have regard to such circumstances as may be prescribed.
+
+[36/2014]
+
+(12) For the purposes of subsections (9) and (10), the provisions of this Act relating to the striking off the register of the name of a defunct company extend and apply with such adaptations as are necessary.
+
+[36/2014]
+
+(13) Any person aggrieved by the decision of the Registrar under subsection (8), (9) or (10) may, within 30 days after the date of the decision, appeal to the Minister whose decision is final.
+
+[36/2014]

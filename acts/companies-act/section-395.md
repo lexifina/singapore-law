@@ -1,16 +1,30 @@
-# 395. Form of registers, etc. … … … … … … … 475
-Part: PART XI VARIOUS TYPES OF COMPANIES, ETC. Division 1 — Investment companies
-Division: Division 2 — Foreign companies
-Heading: Section Pages PART XII GENERAL Division 1 — Enforcement of this Act
+# 395. Form of company records
+Part: PART 12 GENERAL Division 1 — Enforcement of this Act
 
-(1) For the purposes of this Act, any register, index, minute book or book of account may be kept either by making entries in a bound book or by recording the matters in question in any other permanent manner.
+(1) A company must adequately record for future reference the information required to be contained in any company records.
 
-(2) Where any register, index, minute book or book of account required by this Act to be kept is not kept by making entries in a bound book, but by some other means —
+[36/2014]
 
-(a) reasonable precautions shall be taken for guarding against falsification and for facilitating the discovery of any falsification; and
+(2) Subject to subsection (1), company records may be —
 
-(b) proper facilities shall be provided to enable the register, index, minute book or book of account to be inspected, and, where default is made in complying with this subsection, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+(a) kept in hard copy form or in electronic form; and
 
-[15/84]
+(b) arranged in the manner that the directors of the company think fit.
 
-[UK, 1948, s. 436; Aust., 1961, s. 369]
+[36/2014]
+
+(3) If company records are kept in electronic form, the company must ensure that they are capable of being reproduced in hard copy form.
+
+[36/2014]
+
+(4) In this section and sections 396 and 396A —
+
+“company” includes a corporation which is required to keep company records under this Act;
+
+“company record” means any register, index, minute book, accounting record, minute or other document required by this Act to be kept by a company;
+
+“in electronic form” means in the form of an electronic record as defined in section 2(1) of the Electronic Transactions Act 2010;
+
+“in hard copy form” means in a paper form or similar form capable of being read.
+
+[36/2014]

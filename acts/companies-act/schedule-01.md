@@ -1,15 +1,15 @@
 # FIRST SCHEDULE
 
-Sections 3 (1), 368 (3)
+Section 3(1)
 
 REPEALED WRITTEN LAWS
 
-Number in Extent of 1955 Edition Short Title Repeal
+Number in . Short Title . Extent of 1955 Edition Repeal
 
-Cap. 15 The Foreign Corporations (Execution of Instruments The whole.
+Cap. 15 The Foreign Corporations The whole.
 
-under Seal) Ordinance
+(Execution of Instruments under Seal) Ordinance Cap. 174 The Companies Ordinance The whole.
 
-Cap. 174 The Companies Ordinance The whole.
+Cap. 277 The Companies (Special The whole.
 
-Cap. 277 The Companies (Special Provisions) Ordinance The whole.
+Provisions) Ordinance

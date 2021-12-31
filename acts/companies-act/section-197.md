@@ -1,33 +1,51 @@
-# 197. Annual return by company having a share capital … … 273 Annual return by company not having a share capital … … 273
-Part: PART V MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
+# 197. Annual return by companies
+Part: PART 5 MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
 Division: Division 5 — Annual return
 
-(1) Every company having a share capital shall lodge a return with the Registrar containing the particulars referred to in the Eighth Schedule and accompanied by such copies of documents as may be prescribed.
+(1) Every company, other than a company mentioned in subsection (1A), must lodge a return with the Registrar after its annual general meeting —
 
-[12/2002]
+(a) in the case of a listed company — within 5 months after the end of its financial year; and
 
-(2) The return under subsection (1) shall be in accordance with the prescribed form or as near thereto as the circumstances admit.
+(b) in any other case — within 7 months after the end of its financial year.
 
-[12/2002]
+[15/2017]
 
-(3) In the case of a company keeping a branch register, the particulars of the entries in that register shall, so far as they relate to matters which are required to be stated in the return, be included in the return made next after copies of those entries are received at the registered office of the company.
+(1A) A company having a share capital and keeping a branch register in any place outside Singapore must lodge a return with the Registrar after its annual general meeting —
 
-(4) The annual return shall be lodged with the Registrar within one month or in the case of a company keeping pursuant to its articles a branch register in any place outside Singapore within 2 months after the annual general meeting.
+(a) in the case of a listed company — within 6 months after the end of its financial year; and
 
-[12/2002]
+(b) in any other case — within 8 months after the end of its financial year.
 
-[UK, 1948, s. 124; Aust., 1961, ss. 158, 159]
+[15/2017]
 
-Annual return by company not having a share capital
+(1B) The Registrar may, if the Registrar thinks there are special reasons to do so, extend any period within which a company must lodge a return under subsection (1) or (1A) —
 
-(5) A company not having a share capital shall, within one month after each annual general meeting of the company, lodge with the Registrar a return which shall be in accordance with the prescribed form or as near thereto as the circumstances admit.
+(a) upon an application by the company; or
 
-[12/2002]
+(b) in respect of any prescribed class of companies.
 
-(6) (Deleted by Act 12 of 2002)
+[15/2017]
 
-(7) If a company fails to comply with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
+(2) The return mentioned in subsections (1) and (1A) —
 
-[15/84; 13/87]
+(a) must be in such form;
 
-[UK, 1948, s. 125; Aust., 1961, s. 159]
+(b) must contain such particulars and information; and
+
+(c) must be accompanied by such documents, as may be prescribed.
+
+[36/2014; 15/2017]
+
+(3) The particulars to be contained in, and the documents that are to accompany, the return mentioned in subsection (1) may differ according to the class or description of company prescribed.
+
+[36/2014]
+
+(4) If a private company is required under section 175A(4) to hold an annual general meeting for a financial year after it has lodged its annual return for that financial year, the company must lodge a notice of the date on which the annual general meeting was held with the Registrar within 14 days after that date.
+
+[15/2017]
+
+(5) [Deleted by Act 15 of 2017]
+
+(6) If a company fails to comply with this section, the company and every officer of the company who is in default shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
+
+[36/2014]

@@ -1,10 +1,20 @@
-# 396. Inspection of registers, etc. … … … … … … 475
-Part: PART XI VARIOUS TYPES OF COMPANIES, ETC. Division 1 — Investment companies
-Division: Division 2 — Foreign companies
-Heading: Section Pages PART XII GENERAL Division 1 — Enforcement of this Act
+# 396. Duty to take precautions against falsification
+Part: PART 12 GENERAL Division 1 — Enforcement of this Act
 
-(1) Any register, minute book or document of a corporation which is by this Act required to be available for inspection shall, subject to and in accordance with this Act, be available for inspection at the place where in accordance with this Act it is kept during the hours in which the registered office of the corporation is accessible to the public.
+(1) Where company records are kept otherwise than in hard copy form, reasonable precautions must be taken for —
 
-(2) Any person permitted by this Act to inspect any register, minute book or document of a corporation may make copies of or take extracts from it and any officer of the corporation who fails to allow any person so permitted to make a copy of or take extracts from the register, minute book or document, as the case may be, shall be guilty of an offence.
+(a) ensuring the proper maintenance and authenticity of the company records;
 
-[Aust., 1961, s. 370]
+(b) guarding against falsification; and
+
+(c) facilitating the discovery of any falsifications.
+
+[36/2014]
+
+(2) In the case where company records are kept in electronic form, the company must provide for the manner by which the records are to be authenticated and verified.
+
+[36/2014]
+
+(3) Where default is made in complying with subsection (1) or (2), the company and every officer of the company who is in default shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+
+[36/2014]

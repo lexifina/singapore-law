@@ -1,8 +1,8 @@
-# 125. Loss or destruction of certificates … … … … … 172
-Part: PART IV SHARES, DEBENTURES AND CHARGES Division 1 — Prospectuses
+# 125. Loss or destruction of certificates
+Part: PART 4 SHARES, DEBENTURES AND CHARGES Division 1 — [Repealed by S 236/2002]
 Division: Division 7 — Title and transfers
 
-(1) Subject to subsection (2), where a certificate or other document of title to shares or debentures is lost or destroyed, the company shall on payment of a fee not exceeding $2 issue a duplicate certificate or document in lieu thereof to the owner on his application accompanied by —
+(1) Subject to subsection (2), where a certificate or other document of title to shares or debentures is lost or destroyed, the company must on payment of a fee not exceeding $2 issue a duplicate certificate or document in lieu thereof to the owner on the owner’s application accompanied by —
 
 (a) a statutory declaration that the certificate or document has been lost or destroyed, and has not been pledged, sold or otherwise disposed of, and, if lost, that proper searches have been made; and
 
@@ -14,8 +14,12 @@ Division: Division 7 — Title and transfers
 
 (b) to furnish a bond for an amount equal to at least the current market value of the shares or debentures indemnifying the company against loss following on the production of the original certificate or document, or may require the applicant to do both of those things.
 
-(3) Any duplicate certificate issued on or after 30th January 2006 in respect of a share certificate issued before that date shall state, in place of the historical nominal value of the shares, the amount paid on the shares and the amount (if any) unpaid on the shares.
+(3) Any duplicate certificate issued on or after 30 January 2006 in respect of a share certificate issued before that date must state, in place of the historical nominal value of the shares, the amount paid on the shares and the amount (if any) unpaid on the shares.
 
-[21/2005]
+(4) For the purposes of this section in relation to a book-entry security, a reference to an owner therein is to be construed as a reference to the Depository.
 
-[Aust., 1961, s. 94]
+[36/2014]
+
+(5) Subsection (2) does not apply to documents evidencing title in relation to listed securities which have been deposited with the Depository and registered in its name or its nominee’s name.
+
+[36/2014]

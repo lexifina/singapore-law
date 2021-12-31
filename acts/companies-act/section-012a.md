@@ -1,41 +1,34 @@
-# 12A. Filing service … … … … … … … … … 61 Evidentiary value of copies of electronically filed documents certified by Registrar … … … … … … … … 62
-Part: PART II ADMINISTRATION OF THIS ACT
-Heading: Section Pages
+# 12A. Electronic transaction system 1
+Part: PART 2 ADMINISTRATION OF THIS ACT
 
-(1) Where the Registry of Companies provides a service whereby documents under this Act may be filed or lodged with or submitted to the Registrar electronically, neither the Government nor any of its employees nor any authorised agents shall be liable for any loss or damage, suffered by any person by reason of any errors or omissions, of whatever nature or however caused, appearing in any document obtained by any person under the service if such errors or omissions are made in good faith and in the ordinary course of the discharge of the duties of these employees or authorised agents or have occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+(1) The Registrar may —
 
-[13/87; 22/93; 12/2002]
+(a) require or permit any person to carry out any transaction with the Registrar under this Act; and
 
-(1A) The Minister may by regulations permit or require any document —
+(b) issue any approval, certificate, notice, determination or other document pursuant or connected to a transaction mentioned in paragraph (a), using the electronic transaction system established under Part 6A of the Accounting and Corporate Regulatory Authority Act 2004.
 
-(a) to be filed or lodged with or submitted to the Registrar under this Act; or
+[36/2014]
 
-(b) to be issued by the Registrar under this Act, to be filed, lodged, submitted or issued using the service referred to in subsection (1).
+(2) If the Registrar is satisfied that a transaction should be treated as having been carried out at some date and time earlier than the date and time which is reflected in the electronic transaction system, the Registrar may cause the electronic transaction system and the registers kept by the Registrar to reflect such earlier date and time.
 
-[12/2002]
+[36/2014]
 
-(1B) The regulations under subsection (1A) may —
+(3) The Registrar must keep a record whenever the electronic transaction system or the registers are altered under subsection (2).
 
-(a) permit or require such document to be filed, lodged or submitted by a prescribed person on behalf of the person concerned under specified circumstances; and
+[36/2014]
 
-(b) contain such transitional and other supplementary and incidental provisions as appear to the Minister to be appropriate.
+(4) In this section —
 
-[12/2002]
+“document” includes any application, form, report, certification, notice, confirmation, declaration, return or other document (whether in electronic form or otherwise) filed or lodged with, or submitted to, the Registrar;
 
-Evidentiary value of copies of electronically filed documents certified by Registrar
+“transaction”, in relation to the Registrar, means —
 
-(2) A copy of or extract from any document electronically filed or lodged with or submitted to the Registrar under subsection (1) supplied or issued by the Registrar and certified to be a true copy or extract thereof under the hand and seal of the Registrar shall in any proceedings be admissible in evidence as of equal validity with the original document.
+(a) the filing or lodging of any document with the Registrar, or the submission, production, delivery, furnishing or sending of any document to the Registrar;
 
-[13/87; 12/2002]
+(b) any making of any application, submission or request to the Registrar;
 
-(3) Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall in any proceedings be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
+(c) any provision of any undertaking or declaration to the Registrar; and
 
-[12/2002]
+(d) any extraction, retrieval or accessing of any document, record or information maintained by the Registrar.
 
-(4) Subsections (2) and (3) have effect notwithstanding the provisions of any other written law.
-
-[12/2002]
-
-(5) In this section, ‘‘document’’ means any application, form, report, certification, notice, confirmation, declaration or other document to be filed or lodged with or submitted to the Registrar or, as the case may be, any certificate, notice or other document to be issued by the Registrar.
-
-[12/2002]
+[36/2014]

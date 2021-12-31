@@ -1,93 +1,133 @@
-# 173. Register of directors, managers, secretaries and auditors … 240
-Part: PART V MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
-Heading: Section Pages
+# 173. Registers of directors, chief executive officers, secretaries and auditors
+Part: PART 5 MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
+Division: Division 2 — Directors and officers
 
-(1) Every company shall keep at its registered office a register of its directors, managers, secretaries and auditors.
+(1) The Registrar must, in respect of each company, keep a register of the company’s —
 
-[15/84; 13/87]
+(a) directors;
 
-(2) The register shall —
+(b) chief executive officers;
 
-(a) contain, with respect to each director, a signed copy of his consent to act as director under this Act together with a prescribed statement that he is not disqualified to act as a director;
+(c) secretaries; and
 
-(b) specify his present full name, any former name, his usual residential address, his nationality and identification (if any);
+(d) auditors (if any).
 
-and
+[36/2014]
 
-(c) contain documentary evidence (if any) of any change in his name.
+(2) The register under subsection (1) is to be kept in such form as the Registrar may determine.
 
-[12/2002; 8/2003]
+[36/2014]
 
-(3) Where a person is a director in one or more subsidiaries of the same holding company it shall be sufficient compliance with subsection (2) if it is disclosed that the person is the holder of one or more directorships in that group of companies and the group may be described by the name of the holding company with the addition of the word ‘‘Group’’.
+(3) Subject to subsection (4), the register of a company’s directors must contain the following information in respect of each director of the company:
 
-(4) The register shall specify with respect to each manager, secretary and auditor his full name, identification and address.
+(a) full name and any former name;
 
-[12/2002]
+(b) residential address or, at the director’s option, alternate address;
 
-(4A) The register shall contain a signed copy of the consent of the secretary of the company to act as the secretary.
+(c) nationality;
 
-[12/2002]
+(d) identification;
 
-(5) The register shall be open to the inspection of the Registrar and any member of the company without charge and of any other person on payment of $2, or such less sum as the company requires, for each inspection.
+(e) date of appointment;
 
-[12/2002]
+(f) date of cessation of appointment.
 
-(6) The company shall lodge with the Registrar —
+[36/2014]
 
-(a) within one month after —
+(4) The Registrar need only keep any former name of a director in the register of the company for a period of 5 years from the date on which the name was furnished to the Registrar.
 
-(i) a person becomes, or ceases to be, a director of the company; or
+[36/2014]
 
-(ii) a person who is a director of the company becomes disqualified from acting as such by virtue of this Act or any other written law, a return in the prescribed form notifying the Registrar of that fact and containing, with respect to that person, the particulars required to be specified in the register;
+(5) The register of a company’s chief executive officers must contain the following information in respect of each chief executive officer of the company:
 
-(b) (Deleted by Act 12 of 2002)
+(a) full name;
 
-(c) within one month after a person becomes a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact and specifying the full name and address of that person;
+(b) residential address or, at the chief executive officer’s option, alternate address;
 
-(d) within one month after a person ceases to be a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact;
+(c) nationality;
 
-(e) (Deleted by Act 28 of 1994)
+(d) identification;
 
-(f) within one month of any change in the name, identification or nationality of any director, manager or secretary, a notice in the prescribed form notifying the Registrar of the new name, identification or nationality of that person.
+(e) date of appointment;
 
-[13/87; 12/2002]
+(f) date of cessation of appointment.
 
-(6A) Any director of a company who becomes disqualified from acting as such by virtue of section 148 or 155 or who resigns from office may himself lodge with the Registrar the return referred to in subsection (6) (a) if he has reasonable cause to believe that the company will not lodge the return with the Registrar.
+[36/2014]
 
-[12/2002]
+(6) The register of a company’s secretaries must contain the following information in respect of each secretary of the company:
 
-(6B) Where the Registrar has reasonable cause to believe that a director of a company is no longer qualified to act as such by virtue of section 148 or 155, he may, either upon lodgment of a return referred to in subsection (6) (a) or on his own initiative, remove the name and other particulars of the director from any register kept by the Registrar under section 12.
+(a) full name;
 
-[12/2002]
+(b) residential address or, at the secretary’s option, alternate address;
 
-(7) Any director, manager or secretary of a company who has changed his residential address shall, within one month thereof —
+(c) identification;
 
-(a) notify the company of the change; and
+(d) date of appointment;
 
-(b) subject to subsection (7A), lodge or cause to be lodged with the Registrar a notice in the prescribed form notifying the Registrar of his new residential address.
+(e) date of cessation of appointment.
 
-[28/94]
+[36/2014]
 
-(7A) Where any director, manager or secretary of a company has made a report of a change of his residential address under section 8 of the National Registration Act (Cap. 201), he shall be deemed to have notified the Registrar of the change in compliance with subsection (7) (b).
+(7) The register of a company’s auditors must contain the following information in respect of each auditor of the company:
 
-[28/94]
+(a) full name;
 
-(7B) If default is made by a company in complying with any of subsections (1) to (6), the company and every officer of the company who is in default shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
+(b) an address at which the auditors may be contacted;
 
-[28/94]
+(c) identification, if any;
 
-(7C) If default is made by any director, manager or secretary of a company in complying with subsection (7), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
+(d) date of appointment;
 
-[28/94]
+(e) date of cessation of appointment.
 
-(8) A certificate of the Registrar stating that from any return lodged with the Registrar pursuant to this section it appears that at any time specified in the certificate any person was a director, manager, secretary or auditor of a specified company shall in all courts and by all persons having power to take evidence for the purposes of this Act, be received as prima facie evidence of the facts stated therein and, for the purposes of this subsection, a person who appears from any return so lodged to be a director, manager, secretary or auditor of a company shall be deemed to continue as such until by a subsequent return so lodged or by a notification of change in the prescribed form so lodged it appears that he has ceased to be or becomes disqualified to act as such a director, manager, secretary or auditor.
+[36/2014]
 
-[15/84; 12/2002]
+(8) An entry in the register of directors, register of chief executive officers, register of secretaries and register of auditors required to be kept by the Registrar under this section, is prima facie evidence of the truth of any matters which are by this Act directed or authorised to be entered or inserted in the respective register.
 
-(9) In this section —
+[36/2014]
 
-‘‘identification’’ means, in the case of any person issued with an identity card, the number of the identity card, in the case of a person not issued with an identity card, particulars of the passport or such other similar evidence of identification as is available, if any;
+(9) A certificate of the Registrar setting out any of the particulars required to be entered or inserted in the register of directors, register of chief executive officers, register of secretaries or register of auditors required to be kept by the Registrar under this section shall in all courts and before all persons and bodies authorised by law to receive evidence be received as prima facie evidence of the entry of such particulars in the respective register.
 
-‘‘director’’ includes an alternate, substitute or local director.
+[36/2014]
 
-[UK, 1948, s. 200; Aust., 1961, s. 134]
+(10) A certificate of the Registrar stating that, at the time specified in the certificate, a person was named as director, chief executive officer, secretary or auditor of the company in the register of directors, register of chief executive officers, register of secretaries or register of auditors (as the case may be) shall in all courts and before all persons and bodies authorised by law be received as prima facie evidence of the fact, until by a notification of change given to the Registrar it appears that the person has ceased to be or becomes disqualified to act as such a director, chief executive officer, secretary or auditor, as the case may be.
+
+[36/2014]
+
+(11) For the purposes of this section —
+
+(a) a person’s name and identification —
+
+(i) in the case of a person registered under the National Registration Act 1965 — means the name and identification as they appear in the latest identity card issued to that person under section 9 of that Act;
+
+or
+
+(ii) in the case of a person not registered under the National Registration Act 1965 — means the name and identification as they appear in the latest passport issued to that person or such other similar evidence of identification as is available;
+
+(b) a director includes an alternate, a substitute or a local director.
+
+[36/2014]
+
+(12) For the purposes of this section, only one alternate address may be provided at any one time.
+
+[36/2014]
+
+(13) An alternate address of an individual must comply with the following conditions:
+
+(a) it is an address at which the individual can be located;
+
+(b) it is not a post office box number;
+
+(c) it is not the residential address of the individual;
+
+(d) it is located in the same jurisdiction as the individual’s residential address.
+
+[36/2014]
+
+(14) Any document required to be served under this Act on any person who is a director, chief executive officer or secretary is sufficiently served if addressed to the person and left at or sent by post to his or her residential address or alternate address (as the case may be) which is entered in the register of directors, register of chief executive officers or register of secretaries kept by the Registrar under this section.
+
+[36/2014]
+
+(15) Any document required to be served under this Act on a person who is for the time being an auditor of a company is sufficiently served if addressed to the person and left at or sent by post to the address which is entered in the register of auditors kept by the Registrar under this section.
+
+[36/2014]

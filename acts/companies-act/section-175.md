@@ -1,14 +1,24 @@
-# 175. Annual general meeting … … … … … … … 245
-Part: PART V MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
+# 175. Annual general meeting
+Part: PART 5 MANAGEMENT AND ADMINISTRATION Division 1 — Office and name
 Division: Division 3 — Meetings and proceedings
 
-(1) A general meeting of every company to be called the ‘‘annual general meeting’’ shall in addition to any other meeting be held once in every calendar year and not more than 15 months after the holding of the last preceding annual general meeting, but so long as a company holds its first annual general meeting within 18 months of its incorporation, it need not hold it in the year of its incorporation or in the following year.
+(1) Subject to this section and section 175A, a general meeting of every company to be called the “annual general meeting” must, in addition to any other meeting, be held after the end of each financial year within —
 
-[13/87]
+(a) 4 months in the case of a public company that is listed; or
 
-(2) Notwithstanding subsection (1), the Registrar, on the application of the company, may, if for any special reason he thinks fit to do so, extend the period of 15 months or 18 months referred to in that subsection, notwithstanding that such period is so extended beyond the calendar year.
+(b) 6 months in the case of any other company.
 
-(3) Subject to notice being given to all persons entitled to receive notice of the meeting, a general meeting may be held at any time and the company may resolve that any meeting held or summoned to be held shall be the annual general meeting of the company.
+[15/2017]
+
+(2) The Registrar may extend the period mentioned in subsection (1)(a) or (b) —
+
+(a) upon an application by the company, if the Registrar thinks there are special reasons to do so; or
+
+(b) in respect of any prescribed class of companies.
+
+[15/2017]
+
+(3) Subject to notice being given to all persons entitled to receive notice of the meeting, a general meeting may be held at any time and the company may resolve that any meeting held or summoned to be held is the annual general meeting of the company.
 
 (4) If default is made in holding an annual general meeting —
 
@@ -16,4 +26,6 @@ Division: Division 3 — Meetings and proceedings
 
 (b) the Court may on the application of any member order a general meeting to be called.
 
-[UK, 1948, s. 131; Aust., 1961, s. 136]
+(5) The Minister may, by order in the Gazette, specify such other period in substitution of the period mentioned in subsection (1)(a) or (b), or both.
+
+[15/2017]

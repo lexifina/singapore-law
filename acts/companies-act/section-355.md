@@ -1,4 +1,6 @@
-# 355. to 364. (Repealed) … … … … … … … … … 453
-Part: PART XI VARIOUS TYPES OF COMPANIES, ETC. Division 1 — Investment companies
+# 355. Foreign corporate entities to which this Part applies
+Part: PART 10A TRANSFER OF REGISTRATION
 
-to 364. (Repealed by Act 8 of 2003)
+This Part applies to a foreign corporate entity which intends to be registered as a company limited by shares under this Act.
+
+[15/2017]

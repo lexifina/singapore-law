@@ -1,16 +1,9 @@
-# 78J. Offences for making groundless or false statements … … 157
-Part: PART IV SHARES, DEBENTURES AND CHARGES Division 1 — Prospectuses
+# 78J. Offences for making groundless or false statements
+Part: PART 4 SHARES, DEBENTURES AND CHARGES Division 1 — [Repealed by S 236/2002]
 Division: Division 3A — Reduction of share capital
-Heading: Section Pages
 
-A director making a statement under section 78E (1) (ii) (B),
-
-(2) (i), (3) (iii) (A) or (4) (iii) (A) shall be guilty of an offence if the statement —
+A director making a statement under section 78E(1)(d)(ii), (2)(c), (3)(e)(i) or (4)(e)(i) shall be guilty of an offence if the statement —
 
 (a) is false; and
 
-(b) is not believed by him to be true.
-
-[21/2005]
-
-[UK, 1985, s. 65]
+(b) is not believed by the director to be true.

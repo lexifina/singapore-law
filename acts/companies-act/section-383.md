@@ -1,7 +1,10 @@
-# 383. Application of provisions of this Act relating to transfer … 467
-Part: PART XI VARIOUS TYPES OF COMPANIES, ETC. Division 1 — Investment companies
-Division: Division 2 — Foreign companies
+# 383. No civil proceedings to be brought in respect of bearer shares or share warrants
+Part: PART 11 VARIOUS TYPES OF COMPANIES, ETC. Division 1 — [Repealed by Act 8 of 2003] Division 2 — Foreign companies
 
-Sections 126, 127, 128 (1), 130 (1) and (3) and 194 shall apply with necessary adaptations with respect to the transfer of shares on and the rectification of the branch register of a foreign company.
+(1) Any allotment, issue, sale, transfer, assignment or other disposition in Singapore of any bearer share or share warrant by a foreign company registered under this Division is void.
 
-[Aust., 1961, s. 358]
+[15/2017]
+
+(2) No civil proceedings may be brought or maintained in any court for or in respect of any bearer share or share warrant allotted, issued, sold, transferred, assigned or disposed by a foreign company registered under this Division.
+
+[15/2017]

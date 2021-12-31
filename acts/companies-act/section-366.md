@@ -1,16 +1,23 @@
-# 366. Interpretation of this Division … … … … … … 453
-Part: PART XI VARIOUS TYPES OF COMPANIES, ETC. Division 1 — Investment companies
-Division: Division 2 — Foreign companies
+# 366. Interpretation of this Division
+Part: PART 11 VARIOUS TYPES OF COMPANIES, ETC. Division 1 — [Repealed by Act 8 of 2003] Division 2 — Foreign companies
 
 (1) In this Division, unless the contrary intention appears —
 
-‘‘agent’’ means the person named in a memorandum of appointment or power of attorney lodged under section 368 (1) (e) or 370 (6) or under any corresponding previous written law;
+“authorised representative”, in relation to a foreign company, means —
 
-‘‘carrying on business’’ includes administering, managing or otherwise dealing with property situated in Singapore as an agent, legal personal representative, or trustee, whether by employees or agents or otherwise, and ‘‘to carry on business’’ has a corresponding meaning.
+(a) in the case of a foreign company registered before 3 January 2016 — the agent of the foreign company as defined by this section in force immediately before that date; and
 
-[8/2003]
+(b) in the case of a foreign company registered on or after 3 January 2016 — the person named in a notice lodged under section 368(1)(e);
 
-(2) Notwithstanding subsection (1), a foreign company shall not be regarded as carrying on business in Singapore for the reason only that in Singapore it —
+“carrying on business” —
+
+(a) includes the administration, management or otherwise dealing with property situated in Singapore as an agent, a legal personal representative, or a trustee, whether by employees or agents or otherwise; and
+
+(b) does not exclude activities carried on without a view to any profit.
+
+[36/2014]
+
+(2) Despite subsection (1), a foreign company is not to be regarded as carrying on business in Singapore for the reason only that in Singapore it —
 
 (a) is or becomes a party to any action or suit or any administrative or arbitration proceeding or effects settlement of an action, suit or proceeding or of any claim or dispute;
 
@@ -30,8 +37,10 @@ Division: Division 2 — Foreign companies
 
 (i) invests any of its funds or holds any property;
 
-(j) establishes a share transfer or share registration office in Singapore; or
+(j) establishes a share transfer or share registration office in Singapore;
 
-(k) effects any transaction through its related corporation licensed or approved under any written law by the Monetary Authority of Singapore, established under the Monetary Authority of Singapore Act (Cap. 186), under an arrangement approved by the Authority.
+(k) effects any transaction through its related corporation licensed or approved under any written law by the Monetary Authority of Singapore, established under the Monetary Authority of Singapore Act 1970, under an arrangement approved by the Monetary Authority of Singapore; or
 
-[38/98; 8/2003]
+(l) carries on such other activity as the Minister may prescribe.
+
+[36/2014]
