@@ -1,0 +1,9 @@
+# LEGISLATIVE HISTORY DAUGHTERS OF CHARITY OF THE CANOSSIAN INSTITUTE INCORPORATION ORDINANCE 1949
+
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Ordinance 47 of 1949 — Daughters of Charity of the Canossian Institute Incorporation Ordinance, 1949 Bill : G.N. No. S 306/1949 First Reading : 28 July 1949 Second Reading : 23 August 1949 Select Committee Report : Council Paper No. 149 of 1949 Third Reading : 15 November 1949 Commencement : 23 November 1949 2. 1955 Revised Edition — Daughters of Charity of the Canossian Institute Incorporation Ordinance (Chapter 296) Operation : 1 July 1956 3. G.N. No. S 215/1985 — Metrication (Daughters of Charity of the Canossian Institute Incorporation Ordinance) Order 1985 Commencement : 23 August 1985 4. 1985 Revised Edition — Daughters of Charity of the Canossian Institute Incorporation Ordinance (Chapter 359) Operation : 30 March 1987 5. Act 7 of 1997 — Statutes (Miscellaneous Amendments) Act 1997 (Amendments made by section 6 read with item (17) of the First Schedule to the above Act) Bill : 6/1997 First Reading : 11 July 1997 Second and Third Readings : 25 August 1997 Commencement : 1 October 1997 (section 6 read with item (17) of the First Schedule)
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

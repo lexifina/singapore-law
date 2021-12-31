@@ -1,0 +1,5 @@
+# 1. Short title
+
+This Ordinance may be cited as the Daughters of Charity of the Canossian Institute Incorporation Ordinance 1949.
+
+1
