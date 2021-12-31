@@ -1,10 +1,18 @@
-# 10. Conditions of registration
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 10. Examination of persons suspected of carrying on insurance business
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
 
-(1) The Authority may at any time add to, vary or revoke any existing conditions of registration of an insurer or impose any conditions thereto.
+(1) Whenever the Authority has reason to believe that a person has contravened any of the provisions of this Act, it may call for or inspect the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening any of the provisions of this Act.
 
-[22/73; 11/86]
+(2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction —
 
-(2) Any insurer which fails to comply with any of the conditions imposed by the Authority under subsection (1) or section 8 (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day during which the offence continues after conviction.
+(a) in the case of an individual, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction; or
 
-[22/73; 11/86; 30/99; 41/2001]
+(b) in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[7
+
+[11/2013]
+
+Division 2 — Licensed insurers
+
+[11/2013]

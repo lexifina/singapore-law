@@ -1,6 +1,7 @@
-# 51. Immunity from suit of Authority and its employees, etc.
-Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
+# 51. Saving for validity of policies
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 3 — Authorised reinsurers
 
-No suit or other legal proceedings shall lie against the Authority or any officer or employee of the Authority or any person acting under the direction of the Authority for any act done in good faith in the performance, or intended performance, of any duty, or in the exercise of any power under this Act, or for any neglect or default in the performance or exercise in good faith of such duty or power.
+Nothing in this Part, Part 2A or 2B invalidates any policy or contract of insurance.
 
-[30/99]
+[35

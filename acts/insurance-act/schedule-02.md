@@ -1,0 +1,7 @@
+# SECOND SCHEDULE
+
+Sections 137(2) and 153(1)
+
+SPECIFIED PROVISIONS 1. Section 79(3) 2. Section 138(3).
+
+[23/2003; 11/2013]

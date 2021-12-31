@@ -1,10 +1,9 @@
-# 50. Appointment of assistants
-Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
+# 50. General obligation of authorised reinsurers to provide information
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 3 — Authorised reinsurers
 
-(1) The Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
+The Authority may, by written notice, require any authorised reinsurer to provide it with information about any matter related to any insurance business in respect of which the reinsurer is authorised if the Authority is of the opinion that it requires that information for the discharge of its functions under this Act.
 
-[41/2001]
+[34H
 
-(2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
-
-[41/2001]
+[11/2013]

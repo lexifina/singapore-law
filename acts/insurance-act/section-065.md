@@ -1,22 +1,24 @@
-# 65. Saving provisions
-Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
+# 65. Application of sections 66 to 69 and 71, 72, 73 and 74
+Part: PART 2B INSURANCE INTERMEDIARIES Division 1 — General provisions relating to insurance intermediaries
 
-(1) The repeal of section 34 shall not —
+(1) Sections 66 and 68 do not apply to a general reinsurance broker or life reinsurance broker in respect of contracts for the reinsurance of liabilities under insurance policies.
 
-(a) invalidate any existing Lloyd’s policy;
+[23/2003]
 
-(b) prevent the collection or receipt of premiums on any existing Lloyd’s policy; or
+(2) Section 67 does not apply to —
 
-(c) prejudice any right or claim against the Lloyd’s underwriter, or by the Lloyd’s underwriter of any right or claim against any policy owner or person, relating to any existing Lloyd’s policy.
+(a) a licensed financial adviser or exempt financial adviser, or its representatives, in respect of life policies, other than life policies with accident and health benefits and contracts for the reinsurance of liabilities under insurance policies; or
 
-(2) The Authority shall, if satisfied that insurance business is not being carried on in Singapore by any Lloyd’s underwriter under the repealed section 34, transfer any deposit referred to in the repealed section 34 (4) and maintained under the repealed Second Schedule, to Lloyd’s, except such part (if any) that the Authority determines should be kept available for meeting claims against Lloyd’s underwriters in respect of any existing Lloyd’s policy.
+(b) a general reinsurance broker or life reinsurance broker in respect of contracts for the reinsurance of liabilities under insurance policies.
 
-(3) For the purposes of this section —
+[23/2003]
 
-‘‘existing Lloyd’s policy’’ means any insurance policy entered into by a Lloyd’s underwriter before 8th January 2002 and which was authorised under the repealed section 34;
+(3) Sections 69, 71, 73 and 74 do not apply to a licensed financial adviser or an exempt financial adviser, or its representatives, in respect of life policies, other than contracts for the reinsurance of liabilities under insurance policies.
 
-‘‘Lloyd’s’’ has the same meaning as in the repealed section 34;
+[23/2003]
 
-‘‘Lloyd’s underwriter’’ has the same meaning as in the repealed section 34.
+(4) Section 72 does not apply to a licensed financial adviser or an exempt financial adviser, or its representatives, in respect of life policies, other than life policies with accident and health benefits and contracts for the reinsurance of liabilities under insurance policies.
 
-[41/2001]
+[35N
+
+[23/2003]

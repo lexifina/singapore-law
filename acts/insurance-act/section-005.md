@@ -1,18 +1,20 @@
-# 5. Use of word ‘‘insurance’’
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 5. Holding out as licensed insurer or authorised reinsurer
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
 
-(1) No person other than a registered insurer shall, without the written consent of the Authority —
+(1) Where any person holds himself, herself or itself out, or purports to hold himself, herself or itself out, to be a licensed insurer or an authorised reinsurer in respect of life business or general business, or both, when that person is not licensed or authorised under this Act in respect of that business —
 
-(a) use the word ‘‘insurance’’ or any of its derivatives in any language, or any other word indicating that that person carries on insurance business in the name, description or title under which it carries on business in Singapore; or
+(a) that person shall be guilty of an offence; and
 
-(b) make any representation to such effect in any bill head, letter paper, notice, advertisement or in any other manner.
+(b) where that person is a corporation, limited liability partnership or firm, every director, manager or officer of the corporation and every partner or officer of the firm and every partner or manager of the limited liability partnership (as the case may be) shall, unless the person proves that the offence was committed without the person’s knowledge or consent, be guilty of an offence.
 
-[22/73; 11/86]
+[11/2013]
 
-(2) Nothing in this section shall prohibit an association of insurers from using the word ‘‘insurance’’ or any of its derivatives in any language as part of its name or description of its activities.
+(2) Any person who is guilty of an offence under subsection (1) shall be liable on conviction —
 
-[22/73]
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $12,500 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day during which the offence continues after conviction.
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
 
-[22/73; 11/86; 41/2001]
+[4
+
+[11/2013]

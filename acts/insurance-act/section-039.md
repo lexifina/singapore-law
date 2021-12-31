@@ -1,28 +1,43 @@
-# 39. Additional provisions as to returns under section 36 or 37 Inspections and investigations
-Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS Returns
+# 39. Licensed insurers to provide information for web aggregator
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) Any member or policy owner of an insurer shall have a right, on applying to the insurer, to be sent by the insurer at an address supplied by him copies of documents lodged by the insurer to comply with section 36 or 37, and to have the copies despatched not later than 14 days after the insurer receives the application.
+(1) Without limiting section 38, the Authority may, by regulations made under section 154 or written notice, require a licensed insurer or class of licensed insurers to provide to the Authority, or such person as may be specified in the regulations or notice (called in this section the specified person), such information as the Authority may require for the purposes of the web aggregator.
 
-[11/86]
+[19/2015]
 
-(2) The right referred to in subsection (1) shall not extend to any document excepted from this provision by regulations prescribed under section 36 (1), or to a document of any other description except the last lodged of that description.
+(2) For the purposes of subsection (1), the Authority may specify the time at which and the manner in which the information is to be provided in the regulations or notice.
 
-[11/86]
+[19/2015]
 
-(3) Any person shall have the right, on payment of the prescribed fee, at any time during working hours of the office of the Authority, to inspect at that office any document lodged by an insurer to comply with section 36 or 37 and any document required by sections 36 (13) and 37 (9) to accompany the document so lodged and make a copy of the whole or any part of it.
+(3) The Authority or specified person may prepare and publish any information provided under this section on the web aggregator.
 
-[11/86]
+[19/2015]
 
-(4) The right referred to in subsection (3) shall not extend to any document excepted from this provision by regulations prescribed under section 36 (1), or to documents of any other description lodged more than 10 years previously.
+(4) Any licensed insurer which fails to comply with any regulation or written notice referred to in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
 
-[11/86]
+[19/2015]
 
-(5) In any proceedings, a certificate signed by any person appointed by the Authority under section 50 that a document is one lodged by an insurer to comply with section 36 or 37, or one that accompanied documents so lodged, shall be admissible as evidence of the facts certified.
+(5) Any licensed insurer which, in purported compliance with any regulation or written notice referred to in subsection (1), provides to the Authority or specified person any information which is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction —
 
-[11/86]
+(a) in the case of an individual who committed the offence wilfully, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-(6) Any person who contravenes section 36 or 37 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+(b) in the case of an individual who did not commit the offence wilfully, to a fine not exceeding $125,000; or
 
-[41/2001]
+(c) in the case where the offence is committed by a person who is not an individual, to a fine not exceeding $250,000.
 
-Inspections and Investigations
+[19/2015]
+
+(6) In subsection (5), “licensed insurer” includes any person acting on behalf of the licensed insurer to carry out its obligation under the regulation or written notice.
+
+[19/2015]
+
+(7) Any licensed insurer which fails to take reasonable care that any information provided to the Authority or specified person under this section is accurate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
+
+[19/2015]
+
+(8) In this section and section 40, “web aggregator” means an Internet portal or domain on the Internet which the Authority, or such person as the Authority may appoint, creates, develops and operates for the purposes of publishing certain information from time to time, to assist any person in the purchase of a policy.
+
+[33A
+
+[19/2015]

@@ -1,40 +1,150 @@
-# 2. Classification of insurance business and construction of references to matters connected with insurance
-Part: PART I PRELIMINARY
+# 2. Interpretation
+Part: PART 1 PRELIMINARY
 
-(1) For the purposes of this Act, insurance business shall be divided into 2 classes —
+In this Act, unless the context otherwise requires —
 
-(a) life business, which in addition to all insurance business concerned with life policies shall include, in the case of any insurer, any type of insurance business carried on as incidental only to the insurer’s other life business; and
+“accounting period”, in relation to any insurer, means the period beginning from the commencement of its business in Singapore or 1 January of any year (as the case may be) and ending on 31 December of that year for which accounts relating to the insurance business carried on by the insurer in Singapore are kept and for which an insurance fund has been established under this Act, unless otherwise allowed by the Authority;
 
-(b) general business, that is to say, all insurance business which is not life business, and shall include the effecting and carrying out by any person, not being a person licensed under the Monetary Authority of Singapore Act (Cap. 186), Banking Act (Cap. 19), Finance Companies Act (Cap. 108) or Securities and Futures Act (Cap. 289); of contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee, being contracts effected by way of business (and not merely incidental to some other business carried on by the person effecting them) in return for the payment of one or more premiums.
+“actuary” means a Fellow of any prescribed professional body or institute;
 
-[32/93; 41/2001]
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act 1966;
 
-(2) For the purposes of this Act, the reinsurance of liabilities under insurance policies shall be treated as insurance business of the class and type to which the policies would have belonged if they had been issued by the reinsurer.
+“authorised reinsurer” means a reinsurer which is for the time being authorised under section 42;
 
-(3) Notwithstanding anything in subsections (1) and (2), if the Authority is satisfied that any part of an insurer’s business which belongs to a particular class or type of insurance business ought in the insurer’s case to be treated as belonging to another class or type, the Authority may direct that it shall be so treated for the purposes of this Act.
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act 1970;
 
-[11/86]
+“captive insurer” means an insurer whose licence is restricted to the carrying on of insurance business which consists principally of risks of its related corporations;
 
-(4) For the purposes of this Act, references to carrying on insurance business include the carrying it on through an agent, or as agent; but ‘‘insurer’’ does not include an insurance agent as such nor, in the case of a person who is both insurer and insurance agent, have reference to business done as an insurance agent.
+“chief executive” —
 
-(5) For the purposes of this Act, ‘‘Singapore insurer’’ means a person who is or has been carrying on insurance business in Singapore as an insurer; and references to carrying on insurance business, or any class of insurance business, in Singapore include, but include only, the receipt of proposals for, or issuing of, policies in Singapore or the collection or receipt in Singapore of premiums on insurance policies.
+(a) in relation to a licensed insurer which is established or incorporated in Singapore, means any person, by whatever name described, who is in the direct employment of, or acting for or by arrangement with, the insurer, and is principally responsible for the management and conduct of the business of the insurer, including the business that its subsidiaries and overseas branches (if any) engage in; or
 
-[11/86; 30/99]
+(b) in relation to a licensed insurer which is incorporated outside Singapore, means any person, by whatever name described, who is in the direct employment of, or acting for or by arrangement with, the insurer, and is principally responsible for the management and conduct of the business of the insurer in Singapore;
 
-(6) The operation, otherwise than for profit, of a scheme or arrangement relating to service in particular offices or employments, and having for its object or one of its objects to make provision in respect of persons serving therein against future retirement or partial retirement, or against future termination of service through death or disability, or against similar matters, shall not be treated for the purposes of this Act as carrying on the business of insurance.
+“company” has the meaning given by section 4(1) of the Companies Act 1967;
 
-(7) For the purposes of this Act, no society registered under the Societies Act (Cap. 311) or organisation registered under the Mutual Benefit Organisations Act (Cap. 191) shall be deemed to be an insurer, and no agent for such a society or organisation shall as such be deemed to be an insurance agent; nor shall references in this Act to a policy or contract of insurance apply to any policy or contract whereby an insurance is effected with such a society or organisation.
+“co-operative society” means a co-operative society registered under the Co-operative Societies Act 1979;
 
-[50/75; 41/2001]
+“corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-(8) For the purposes of this Act —
+“direct insurance broker” means a person who is for the time being registered under section 76 in respect of insurance policies relating to general business and long-term accident and health policies, other than insurance policies relating to reinsurance business;
 
-(a) any reference to the last statutory balance-sheet or to the last statutory valuation shall be construed as referring to that last prepared or made and not superseded by the arrival of the date as at which another is to be prepared or made; and
+“direct insurer” means any insurer other than a reinsurer, an authorised reinsurer or a captive insurer;
 
-(b) any reference to there being shown in a statutory balance- sheet or on a statutory valuation a surplus of assets over liabilities of an insurance fund shall be construed accordingly by reference to the prescribed form of balance-sheet or valuation balance-sheet and to the rules to be followed under this Act and the regulations in preparing it.
+“director” —
 
-(9) The definitions set out in the Schedule shall have effect for the construction of references in this Act to policies of insurance, policy owners and policy moneys.
+(a) in relation to a corporation, has the meaning given by section 4(1) of the Companies Act 1967; or
 
-PART II
+(b) in relation to any other entity, means a person holding a position in that entity analogous to that of director of a corporation, and includes a person who acts in such capacity in relation to that entity;
 
-CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+“directions” includes directives and notices;
+
+“executive officer”, in relation to a licensed insurer, means any person, by whatever name described, who —
+
+(a) is in the direct employment of, or acting for or by arrangement with, the insurer; and
+
+(b) is concerned with or takes part in the management of the insurer on a day-to-day basis;
+
+“exempt financial adviser” has the meaning given by section 2(1) of the Financial Advisers Act 2001;
+
+“financial advisory service” has the meaning given by section 2(1) of the Financial Advisers Act 2001;
+
+“financial year” has the meaning given by section 4(1) of the Companies Act 1967;
+
+“foreign country” means a country or territory other than Singapore;
+
+“foreign insurer” means an insurer which —
+
+(a) is authorised under the laws of a foreign country to carry on insurance business in that foreign country;
+
+but
+
+(b) is not licensed as an insurer under section 11 or authorised as a reinsurer under section 42;
+
+“foreign insurer scheme” means any foreign insurer scheme established under section 53;
+
+“general reinsurance broker” means a person who is for the time being registered under section 76 in respect of reinsurance of liabilities under insurance policies relating to general business;
+
+“guaranteed policy moneys” means the benefits that an insured policy owner is entitled to receive under the policy owner’s insured policy under section 54(3) or (4) (as the case may be) of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
+
+“insurance agent” means —
+
+(a) a person who, as an agent for one or more insurers (which may include a foreign insurer carrying on insurance business in Singapore under a foreign insurer scheme), is or has been carrying on the business of —
+
+(i) receiving proposals for, or issuing, policies in Singapore;
+
+(ii) collecting or receiving premiums on policies in Singapore; or
+
+(iii) arranging contracts of insurance in Singapore;
+
+or
+
+(b) a person who acts for, or by arrangement with, a person referred to in paragraph (a) in the performance of all or any of the activities carried out by the person referred to in paragraph (a), but does not include such persons or class of persons as the Authority may prescribe;
+
+“insurance broker” means —
+
+(a) a person who is or has been carrying on the business of —
+
+(i) receiving proposals for, or issuing, policies in Singapore;
+
+(ii) collecting or receiving premiums on policies in Singapore; or
+
+(iii) arranging contracts of insurance in Singapore, as an agent for insureds or intending insureds in respect of —
+
+(iv) policies relating to general business and long-term accident and health policies, other than policies relating to reinsurance business;
+
+or
+
+(v) reinsurance of liabilities under policies relating to life business or general business; or
+
+(b) a person who acts for, or by arrangement with, a person referred to in paragraph (a) in the performance of all or any of the activities carried out by the person referred to in paragraph (a), but does not include such persons or class of persons as the Authority may prescribe;
+
+“insurance business in Singapore” means the business of assuming risk or undertaking liability in Singapore under policies, and of —
+
+(a) receiving proposals for policies in Singapore;
+
+(b) issuing policies in Singapore; or
+
+(c) collecting or receiving premiums on policies in Singapore, but does not include such businesses or activities, such class of businesses or activities, or such businesses or activities carried on by such persons or class of persons, as the Authority may prescribe;
+
+“insurance intermediary” means a person who, as an agent for one or more insurers or as an agent for insureds or intending insureds, arranges contracts of insurance in Singapore, and includes an insurance agent or an insurance broker;
+
+“insured” includes reinsured and “insurer” includes reinsurer;
+
+“licensed financial adviser” means a holder of a financial adviser’s licence under the Financial Advisers Act 2001;
+
+“licensed insurer” means an insurer which is for the time being licensed under section 11;
+
+“life reinsurance broker” means a person who is for the time being registered under section 76 in respect of reinsurance of liabilities under insurance policies relating to life business;
+
+“limited liability partnership” has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;
+
+“marine mutual insurance business” means the business of providing the insurance of liabilities under insurance policies on the basis of mutual insurance (within the meaning of section 85 of the Marine Insurance Act 1906) on such risk or risks as may be prescribed;
+
+“marine mutual insurer” means an insurer that is a direct insurer licensed to carry on general business and that is permitted under the licence to carry on marine mutual insurance business only;
+
+“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings given to them by section 2(1) of the Limited Liability Partnerships Act 2005;
+
+“PPF Agency” means the deposit insurance and policy owners’ protection fund agency constituted under section 56 of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
+
+“PPF Funds” means the Policy Owners’ Protection Life Fund and the Policy Owners’ Protection General Fund established under section 34 of the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
+
+“registered insurance broker” means an insurance broker who is for the time being registered under section 76;
+
+“reinsurer” means an insurer whose licence is restricted to the carrying on of reinsurance business;
+
+“related corporation” has the meaning given by section 4(1) of the Companies Act 1967;
+
+“representative”, in relation to a licensed financial adviser or exempt financial adviser, has the meaning given by the Financial Advisers Act 2001;
+
+“statutory balance sheet” and “statutory valuation” mean respectively a balance sheet lodged with the Authority in order to comply with section 94, and a valuation of which the results are shown in a valuation balance sheet lodged with it on an actuarial investigation made in order to comply with section 95(1);
+
+“subsidiary” has the meaning given by section 5 of the Companies Act 1967;
+
+“substantial shareholder” has the meaning given by section 81 of the Companies Act 1967;
+
+“voting share” has the meaning given by section 4(1) of the Companies Act 1967.
+
+[1A
+
+[23/2003; 5/2005; 16/2011; 11/2013]

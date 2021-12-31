@@ -1,90 +1,47 @@
-# 36. Annual account and audit
-Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS Returns
+# 36. Disqualification of director or executive officer of licensed insurer
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) A registered insurer or registered insurance broker shall prepare such statements of account and other statements and in such form and manner as may be prescribed and lodge them with the Authority.
+(1) Despite section 35 or the provisions of any other written law —
 
-[11/86; 41/2001]
+(a) a licensed insurer must not, without the prior written consent of the Authority, permit a person to act as its executive officer; and
 
-(2) A registered insurer or registered insurance broker shall —
+(b) a licensed insurer which is established or incorporated in Singapore must not, without the prior written consent of the Authority, permit a person to act as its director, if the person —
 
-(a) cause to be kept in Singapore such books and records as will sufficiently explain the transactions and financial position of the insurer or insurance broker, as the case may be, in Singapore and enable the insurer or insurance broker to comply with the requirements of this section and, in the case of the insurer, section 37; and
+(c) has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after 18 April 2013, being an offence —
 
-(b) cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
+(i) involving fraud or dishonesty;
 
-[41/2001]
+(ii) the conviction for which involved a finding that the person had acted fraudulently or dishonestly; or
 
-(3) A registered insurer shall have its accounts audited for each accounting period for which statements of account are prepared in accordance with regulations prescribed under subsection (1).
+(iii) specified in the Third Schedule to the Registration of Criminals Act 1949;
 
-(4) A registered insurance broker shall have its accounts audited for each financial year for which statements of accounts and other statements are prepared in accordance with regulations prescribed under subsection (1).
+(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
-[41/2001]
+(e) has had execution against him or her in respect of a judgment debt returned unsatisfied in whole or in part;
 
-(5) A registered insurance broker shall appoint an auditor to carry out an audit of its accounts and other statements prepared in accordance with subsection (1) and where, for any reason, the auditor ceases to act for the registered insurance broker, the registered insurance broker shall, as soon as practicable thereafter, appoint another auditor.
+(f) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his or her creditors, being a compromise or scheme of arrangement that is still in operation;
 
-[41/2001]
+(g) has had a prohibition order under section 74, or under section 68 of the Financial Advisers Act 2001 or section 101A or 123ZZC of the Securities and Futures Act 2001, made against him or her that remains in force; or
 
-(6) No person shall act as auditor for any registered insurer or registered insurance broker unless —
+(h) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
-(a) he has a place of business in Singapore;
+(i) which is being or has been, wound up by a court; or
 
-(b) he is approved under section 9 of the Companies Act (Cap. 50) as a company auditor for the purposes of that Act;
+(ii) the licence of which has been revoked by the Authority or, in the case of a regulated financial institution in a foreign country, by the regulatory authority in that foreign country.
 
-and
+[11/2013; 4/2017]
 
-(c) in the case of a registered insurer, he has the approval of the Authority.
+(2) Any licensed insurer which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
 
-[41/2001]
+[11/2013]
 
-(7) An auditor shall not be approved by the Authority as an auditor for registered insurers unless he is able to comply with such conditions in relation to the discharge of his duties as may be determined by the Authority.
+(3) In this section, unless the context otherwise requires —
 
-(8) Notwithstanding any other provision of this Act or the provisions of the Companies Act (Cap. 50), the Authority may, if it is not satisfied with the performance of duties by an auditor appointed by a registered insurer or registered insurance broker —
+“regulated financial institution” means a person who carries on a business, the conduct of which is regulated or authorised by the Authority or, if carried on in Singapore, would be regulated or authorised by the Authority;
 
-(a) at any time direct the registered insurer or registered insurance broker to remove the auditor; and
+“regulatory authority” has the meaning given by section 109.
 
-(b) direct the registered insurer or registered insurance broker, as soon as practicable thereafter, to appoint another auditor, and the registered insurer or registered insurance broker, shall comply with such direction.
+[31A
 
-[41/2001]
-
-(9) The Authority may impose all or any of the following duties on an auditor:
-
-(a) a duty to submit such additional information in relation to his audit as the Authority considers necessary;
-
-(b) a duty to enlarge or extend the scope of his audit of the business and affairs of the registered insurer or registered insurance broker, as the case may be;
-
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
-
-(d) a duty to submit a report on any of the matters referred to in paragraphs (b) and (c), and the registered insurer or registered insurance broker, as the case may be, shall remunerate the auditor in respect of the discharge by him of all or any of these duties.
-
-[41/2001]
-
-(10) An auditor’s report made under subsection (9) shall be lodged with the Authority together with the statements of accounts lodged under subsection (1).
-
-[41/2001]
-
-(11) If an auditor, in the course of the performance of his duties as an auditor of a registered insurer or registered insurance broker, is satisfied that —
-
-(a) there has been a serious contravention of any provision of this Act or that an offence involving fraud or dishonesty has been committed;
-
-(b) serious irregularities have occurred, including irregularities that jeopardise the interests of policy owners;
-
-(c) in the case of a registered insurer —
-
-(i) where the insurer is incorporated or established in Singapore, the insurer is unable to meet its obligations;
-
-or
-
-(ii) any transaction or dispute has taken place which will have a material effect on the solvency of any insurance fund established by the insurer under this Act; or
-
-(d) in the case of a registered insurance broker, the insurance broker is unable to meet its obligations, the auditor shall immediately report the matter in writing to the Authority.
-
-[41/2001]
-
-(12) In the case of a company incorporated or established outside Singapore, the audit required by subsection (3) need not extend beyond the business for which an insurance fund is maintained under this Act.
-
-(13) The documents to be lodged with the Authority under this section for any accounting period of an insurer shall be accompanied by copies of any report submitted to the members of the insurer with respect to that period and (if it is not among the documents so lodged) by any statement of accounts so submitted with respect to that period.
-
-(14) References in this Act to documents lodged with the Authority shall not be taken to include documents required by subsection (13) to accompany documents so lodged.
-
-(15) Where any report or statement referred to in subsection (13) is in a language other than English, the copy required by that subsection shall be in English and shall be certified to be a true translation of the original by the translator.
-
-[11/86]
+[11/2013]

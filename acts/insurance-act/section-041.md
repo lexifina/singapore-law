@@ -1,30 +1,37 @@
-# 41. Powers of Authority to issue directions Winding up
-Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS Returns
+# 41. Manufacture and offer of certain life policies
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) Where the Authority is satisfied that the affairs of any insurer or insurance intermediary are being conducted in a manner likely to be detrimental to the public interest or the interests of the policy owners or prejudicial to the interests of the insurer or insurance intermediary, the Authority may issue such directions to the insurer or insurance intermediary as it may consider necessary and, in particular, may require the insurer or insurance intermediary, as the case may be —
+(1) If the Authority is of the opinion that it is in the public interest to do so, the Authority may direct a licensed insurer to manufacture and offer such type of life policy in Singapore as the Authority may prescribe or specify by written notice.
 
-(a) to take such action or recruit such management personnel as may be necessary to enable it to conduct its business in accordance with sound insurance principles;
+[19/2015]
 
-(b) to remove any of its directors or any person whom the Authority considers unfit to be associated with it;
+(2) Without limiting subsection (1), the Authority may, in prescribing or specifying a type of life policy under subsection (1), prescribe or specify all or any of the following with respect to the life policy:
 
-(c) to take action as to the disposition or recovery of its assets;
+(a) the time by which the life policy is to be manufactured and offered;
 
-(d) to take any available steps for the recovery by the insurer or insurance intermediary, as the case may be, of sums appearing to the Authority to have been illegally or improperly paid;
+(b) the form and manner in which the life policy is to be manufactured or offered;
 
-(e) to stop renewing or issuing further policies of the class of business to which the direction relates;
+(c) the characteristics of the life policy;
 
-(f) to make such arrangements with respect to reinsurance as the Authority so specifies; or
+(d) the terms of the life policy;
 
-(g) to take action to make good any default under section 16, 17, 18, 19, 20, 35ZC or 35ZD.
+(e) the benefits to be or likely to be derived from the life policy;
 
-[22/73; 11/86; 41/2001]
+(f) the manner of distribution or sale of the life policy.
 
-(2) The Authority may, upon representation being made to it, or on its own motion, modify or cancel any direction issued under subsection (1) and, in so doing, may impose such conditions as it may think fit.
+[19/2015]
 
-[22/73; 11/86]
+(3) Any licensed insurer which fails to comply with the direction under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
 
-(3) Any insurer or insurance intermediary which fails to comply with any direction made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day during which the offence continues after conviction.
+[19/2015]
 
-[22/73; 11/86; 41/2001]
+(4) In this section, “manufacture”, in relation to a life policy, means —
 
-Winding up
+(a) the process of determining the appropriate premium rate or pricing for the life policy based on its product features and benefits; and
+
+(b) such other processes in relation to the life policy as the Authority may prescribe.
+
+[33C
+
+[19/2015]

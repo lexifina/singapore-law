@@ -1,30 +1,25 @@
-# 21. Maintenance of assets in Singapore
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 21. Custody of assets of licensed insurers
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) Where the Authority is satisfied that there exists a ground on which the Authority would be empowered by section 12 to cancel the registration of an insurer, the Authority may require that assets of the insurer of a value which at any time is equal to the whole or a specified proportion of the amount of its domestic liabilities shall be maintained in Singapore.
+(1) The Authority may, in the case of a licensed insurer on which a requirement has been imposed under section 20, impose an additional requirement that the whole or a specified proportion of the assets to which the requirement under that section applies must be held by a person approved by the Authority for the purposes of the requirement under this section as trustee for the insurer.
 
-[11/86]
+[23/2003; 11/2013]
 
-(2) The Authority may direct that, for the purposes of any requirement under this section, assets of a specified class or description shall or shall not be treated as assets maintained in Singapore.
+(2) Assets of a licensed insurer held by a person as trustee for the insurer are taken to be held by the person in compliance with a requirement imposed under this section if, and only if —
 
-[11/86]
+(a) they are assets which the insurer has given the person notice are to be held by the person in compliance with such a requirement; or
 
-(3) The Authority may direct that, for the purposes of any requirement under this section, the domestic liabilities of a registered insurer, or such liabilities of any class or description, shall be taken to be the net liabilities after deducting any part of them which is reinsured.
+(b) they are assets into which assets which the insurer has given the person such written notice have, by any transaction or series of transactions, been transposed by the person on the instructions of the insurer.
 
-[11/86]
+[23/2003; 11/2013]
 
-(4) A requirement imposed under this section may be framed so as to come into effect immediately after the day on which it is imposed or so as to come into effect after the expiration of a specified period or such longer period as the Authority may allow.
+(3) No assets held by a person as trustee for a licensed insurer in compliance with a requirement imposed under this section may, so long as the requirement is in force, be released except with the written consent of the Authority.
 
-[11/86]
+[23/2003; 11/2013]
 
-(5) In this section, any reference to a domestic liability is a reference to a liability of the insurance business carried on by the registered insurer in Singapore, including the margins of solvency prescribed under section 18.
+(4) If a mortgage or charge is created by a licensed insurer at a time when there is in force a requirement imposed on the insurer by virtue of this section, being a mortgage or charge conferring a security on any assets which are held by a person as trustee for the insurer in compliance with the requirement, the mortgage or charge, to the extent that it confers such a security, is void against the liquidator and any creditor of the insurer.
 
-[11/86; 32/93]
+[22
 
-(6) Subject to subsection (7), in computing the amount of any liabilities for the purposes of this section, all contingent and prospective liabilities shall be taken into account but not liabilities in respect of share capital.
-
-[11/86]
-
-(7) For the purposes of this section, the value of any assets and the amount of any liabilities shall be determined in accordance with any valuation regulations made under this Act.
-
-[11/86]
+[23/2003; 11/2013]

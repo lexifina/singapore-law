@@ -1,50 +1,101 @@
-# 16. Register of policies
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 16. Establishment of insurance funds and allocation of surplus
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) Every registered insurer shall establish and keep —
+(1) Every licensed insurer must establish and maintain a separate insurance fund —
 
-(a) a register of Singapore policies where it carries on business relating to Singapore policies; and
+(a) for each class of insurance business carried on by the insurer that relates to Singapore policies; and
 
-(b) a register of offshore policies where it carries on business relating to offshore policies.
+(b) for each class of insurance business carried on by the insurer that relates to offshore policies.
 
-[11/86]
+[11/2013]
 
-(2) Subject to this section, there shall be entered in the register of Singapore policies all Singapore policies of the insurer and in the register of offshore policies all offshore policies of the insurer, and no policy entered in any register shall be removed from it so long as the insurer is under any liability in respect of that policy.
+(2) Every direct insurer licensed to carry on life business must establish and maintain, in addition to the insurance funds under subsection (1) and subject to such conditions or restrictions as the Authority may impose, separate insurance funds —
 
-[11/86]
+(a) for its investment-linked policies; and
 
-(3) Subject to this section, there may be entered in the register of Singapore policies such other policies as the insurer, with the consent (express or implied) of the policy owners, may determine, and this Act shall apply in relation to any policy so entered as if it were a Singapore policy.
+(b) for its non-investment-linked policies.
 
-[11/86]
+[23/2003; 11/2013]
 
-(4) Subject to subsection (5), an insurer carrying on life business outside Singapore (and not doing so only by the collection or receipt of premiums) may, at the request of the policy owner of a policy belonging to the insurer’s life business —
+(3) If, in the case of a direct insurer licensed to carry on life business, no part of the surplus of assets over liabilities from its non-participating policies is allocated by the insurer by way of bonus to its participating policies, the insurer must, in addition to the funds maintained under subsections (1) and (2) and subject to such conditions or restrictions as the Authority may impose, establish and maintain, in respect of its non-investment-linked policies, separate insurance funds —
 
-(a) refrain from entering the policy in the register of Singapore policies, notwithstanding that it is a Singapore policy; or
+(a) for its participating policies; and
 
-(b) remove the policy from the register of Singapore policies, and this Act shall thereafter apply in relation to the policy as if it were not a Singapore policy.
+(b) for its non-participating policies.
 
-[11/86]
+[23/2003 ; 11/2013]
 
-(5) Regulations may provide that subsection (3) or (4) shall apply only in such cases as may be prescribed or shall have effect subject to any prescribed exceptions or restrictions.
+(4) The Authority may require any licensed insurer to establish and maintain, in addition to the insurance funds under subsections (1), (2) and (3), such other insurance fund as the Authority may determine for different types of policies in respect of each class of insurance business.
 
-[11/86]
+[23/2003; 11/2013]
 
-(6) A Singapore insurer shall, at the request of any person having an interest in any policy of the insurer, inform him whether or not the policy is entered in any register of policies established by the insurer under this Act.
+(5) There must be paid into an insurance fund all receipts of the insurer properly attributable to the business to which the fund relates (including the income of the fund), and the assets comprised in the fund must be applicable only to meet such part of the insurer’s liabilities and expenses as is properly so attributable.
 
-[11/86]
+[16/2011]
 
-(7) Where a Singapore insurer has established under this Act any register of policies, the register shall cease to exist as a statutory register under this Act of policies belonging to either class of insurance business, if the insurer ceases to be registered under this Act in respect of that class of business; and any reference in this Act to policies registered under this Act shall be construed accordingly.
+(6) For the purposes of subsection (5), the Authority may prescribe or specify in directions what constitutes receipts, income, liabilities or expenses of the insurer which are properly attributable to the business to which an insurance fund relates and the manner in which each item is to be determined or valued.
 
-[11/86]
+[23/2003]
 
-(8) Subject to subsection (7), any register of policies established by a Singapore insurer shall, notwithstanding that the insurer at any time ceases to carry on in Singapore either class of insurance business, continue to be maintained by the insurer for policies belonging to that class so long as the insurer is under any liability in respect of those policies registered or required to be registered at that time.
+(7) In the case of an insurance fund maintained by a direct insurer licensed to carry on life business which comprises wholly or partly of participating policies —
 
-[11/86]
+(a) there must be a surplus account, established and maintained in such manner as the Authority may prescribe or specify in directions, as part of the insurance fund;
 
-(9) No policies referred to in subsection (8) belonging to either class of insurance business shall be entered in the register under subsection (3) when the insurer is not carrying on that class of business in Singapore, or is doing so only by the collection or receipt of premiums.
+(b) no part of the fund may be allocated by way of bonus to the participating policies except —
 
-[11/86]
+(i) with the approval of the directors of the insurer, upon considering a written recommendation from the actuary appointed under section 35; and
 
-(10) A register of policies established and kept by an insurer under this section before 1st January 1987 shall be deemed to be a register of Singapore policies under subsection (1).
+(ii) where the making of such allocation does not contravene any condition or restriction that may be prescribed or specified in directions for the purposes of this section;
 
-[11/86]
+(c) no part of the fund may be allocated to the surplus account except —
+
+(i) with the approval of the directors of the insurer, upon considering a written recommendation from the actuary appointed under section 35;
+
+(ii) where the making of such allocation does not contravene the fund solvency requirement under section 17;
+
+(iii) where the making of such allocation does not contravene any condition or restriction that may be prescribed or specified in directions for the purposes of this section; and
+
+1
+
+(iv) where the amount does not exceed /9th of the amount allocated pursuant to paragraph (b) for a particular accounting period.
+
+[23/2003; 11/2013]
+
+(8) Despite subsection (7)(c), an insurer may make additional allocations to the surplus account of an insurance fund which comprises wholly or partly of participating policies of an amount and in a manner as prescribed or specified in directions by the Authority.
+
+[23/2003]
+
+(9) Where the amount allocated to the surplus account in a particular accounting period pursuant to subsection (7)(c) is less
+
+1
+
+than /9th of the amount allocated pursuant to subsection (7)(b) for that accounting period, the insurer must not allocate the difference
+
+1
+
+between the amount actually allocated and the /9th amount allowed to the surplus account in any subsequent accounting period.
+
+[23/2003]
+
+(10) An insurer may, where there is a surplus of assets over liabilities of an insurance fund, at any time withdraw from the fund an amount not exceeding the surplus over any fund solvency requirement prescribed for that fund under section 17 if and only if —
+
+(a) there is no provision in any instrument or contract binding the insurer disallowing such a withdrawal; and
+
+(b) the insurer ascertains from the latest statement of accounts lodged with the Authority in accordance with section 94 or such other subsequent audited statement of accounts provided to the Authority that there is in fact such a surplus at the time of the withdrawal.
+
+[23/2003]
+
+(11) On the making of any withdrawal in accordance with subsection (10), the surplus of the fund is, for the purposes of this section, treated as reduced by the amount withdrawn.
+
+[23/2003]
+
+(12) Any amount withdrawn from an insurance fund under subsection (10) and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that, in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit, the surplus remaining after the winding up must first be applied to make good the deficit in that fund.
+
+[23/2003]
+
+(13) Any insurance fund established by an insurer for any class of insurance business must, even if the insurer at any time ceases to carry on that class of business in Singapore, continue to be maintained by the insurer so long as the insurer is required by this Act to maintain a register of policies for policies belonging to that class.
+
+(14) The assets of any insurance fund established by an insurer under this Act must be kept separate from all other assets of the insurer.
+
+[17

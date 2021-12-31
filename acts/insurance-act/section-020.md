@@ -1,22 +1,29 @@
-# 20. Requirements as to documents evidencing title to assets of insurance funds
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 20. Maintenance of assets by licensed insurers
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) Where an insurer has established an insurance fund under this Act, the insurer shall secure that any document evidencing the insurer’s title to assets of the fund, so long as the document is held by or on behalf of the insurer, shall be kept in Singapore or, if not so kept, shall be kept in the custody of a person in accordance with such directions as may be issued by the Authority.
+(1) The Authority may, from time to time, by written notice to any licensed insurer, or any class of licensed insurers, direct the insurer or class of insurers (as the case may be) each to maintain and hold such minimum amount or amounts of assets in Singapore as may be specified in the notice for the purpose of meeting its liabilities.
 
-[11/86; 41/2001]
+[11/2013]
 
-(2) An insurer who has established an insurance fund under this Act shall from time to time notify the Authority in writing —
+(2) Without limiting subsection (1), the Authority may, in a notice issued under that subsection, specify —
 
-(a) the person having the custody of any such document on behalf of the insurer, and the fact of any person ceasing to do so; and
+(a) the types of liabilities in respect of which assets are to be maintained and held in Singapore;
 
-(b) the reason why any such document is not held by or on behalf of the insurer, and the identity of the document in question.
+(b) the types of assets that are to be treated as assets maintained and held in Singapore, and the minimum amount or amounts in respect of each asset for the purpose of any requirement of the Authority under that subsection;
 
-[11/86]
+and
 
-(3) Any such document which is, for the time being, held by or on behalf of the insurer shall, on the Authority giving not less than 14 days notice in writing to the insurer or to the person having the custody of the document, be produced for inspection to the Authority or a person nominated by it by the person to whom the notice is given.
+(c) the method for the valuation of assets maintained and held in Singapore, including any deduction to be made in respect of the assets.
 
-[11/86]
+[11/2013]
 
-(4) Any person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $12,500 and, in the case of a continuing offence, to a further fine not exceeding $1,250 for every day during which the offence continues after conviction.
+(3) Where the Authority issues a notice under subsection (1) to a class of licensed insurers, the Authority may direct different insurers within the class of insurers to maintain and hold different minimum amounts of assets in Singapore, having regard to the financial soundness of each insurer, the risk profile of each insurer and such other factors as the Authority may consider relevant.
 
-[11/86; 41/2001]
+[11/2013]
+
+(4) Any licensed insurer which fails to comply with any direction of the Authority under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[21
+
+[11/2013]

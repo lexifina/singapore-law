@@ -1,28 +1,25 @@
-# 22. Custody of assets Miscellaneous requirements as to conduct of business
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 22. Regulation of premiums under life policies and long-term accident and health policies
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) The Authority may, in the case of a registered insurer on which a requirement has been imposed under section 21, impose an additional requirement that the whole or a specified proportion of the assets to which the requirement under that section applies shall be held by a person approved by the Authority for the purposes of the requirement under this section as trustee for the insurer.
+(1) A direct insurer licensed to carry on life business must not issue a life policy or a long-term accident and health policy of any description, being a Singapore policy or an offshore policy, if the premium chargeable under the policy is not in accordance with rates fixed with the approval of the actuary appointed under section 35 or, where no rates have been so fixed for policies of that description issued by the insurer, is not a premium approved for the policy by the actuary.
 
-[11/86]
+[23/2003; 11/2013]
 
-(2) Section 21 (4) shall apply to any requirement under this section.
+(2) The Authority may, by written notice, require a direct insurer licensed to carry on life business to obtain and provide it within the time specified in the notice with —
 
-[11/86]
+(a) a report by the actuary appointed under section 35 as to the suitability of the rates of premium for the time being chargeable by the insurer for any description of life policy or long-term accident and health policy; and
 
-(3) Assets of a registered insurer held by a person as trustee for the insurer shall be taken to be held by him in compliance with a requirement imposed under this section if, and only if —
+(b) if the actuary considers that the rates of premium are not suitable or not in accordance with sound insurance principles, a report as to the rates of premium which the actuary approves for that description of policy.
 
-(a) they are assets in whose case the insurer has given him written notice that they are to be held by him in compliance with such a requirement; or
+[23/2003; 11/2013]
 
-(b) they are assets into which assets in whose case the insurer has given him such written notice have, by any transaction or series of transactions, been transposed by him on the instructions of the insurer.
+(3) For the purpose of subsection (1), regard must be had to any report referred to in subsection (2) to the exclusion of any previous approval or report.
 
-[11/86]
+[23/2003]
 
-(4) No assets held by a person as trustee for a registered insurer in compliance with a requirement imposed under this section shall, so long as the requirement is in force, be released except with the consent of the Authority.
+(4) For each occasion on which an insurer issues a policy in contravention of this section, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
 
-[11/86]
+[24
 
-(5) If a mortgage or charge is created by a registered insurer at a time when there is in force a requirement imposed on the insurer by virtue of this section, being a mortgage or charge conferring a security on any assets which are held by a person as trustee for the insurer in compliance with the requirement, the mortgage or charge shall, to the extent that it confers such a security, be void against the liquidator and any creditor of the insurer.
-
-[11/86]
-
-Miscellaneous requirements as to conduct of business
+[23/2003; 11/2013]

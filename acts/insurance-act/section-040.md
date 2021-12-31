@@ -1,38 +1,41 @@
-# 40. Inspection by Authority
-Part: PART III RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS Returns
+# 40. Fees payable by licensed insurers for web aggregator
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-(1) The Authority may, from time to time, inspect under conditions of secrecy the books, accounts, records and other documents, whether in electronic, print or other form, of a registered insurer or an insurance intermediary.
+(1) Every licensed insurer must pay to the Authority such fees at such time and in such manner as may be prescribed for or in connection with all or any of the following:
 
-[41/2001]
+(a) the operation of the web aggregator;
 
-(2) For the purpose of an inspection under this section, a registered insurer or insurance intermediary referred to in subsection (1) shall —
+(b) the development of the web aggregator;
 
-(a) produce his books, accounts, records and other documents, whether in electronic, print or other form, to the Authority and give such information and facilities as may be required by the Authority to conduct the inspection; and
+(c) the maintenance of the web aggregator;
 
-(b) procure that any person who is in possession of such books, accounts, records and other documents referred to in paragraph (a) shall produce such books, accounts, records and other documents and give such information and facilities as may be required by the Authority.
+(d) the usage by the licensed insurer, or a class of licensed insurers to which the licensed insurer belongs, of the web aggregator.
 
-[41/2001]
+[19/2015]
 
-(3) The Authority may make copies of, or take possession of, any of the books, accounts, records and other documents, whether in electronic, print or other form, of a registered insurer or an insurance intermediary.
+(2) Subject to subsection (3), the Authority may prescribe different fees for different licensed insurers or classes of licensed insurers in connection with all or any of the matters referred to in subsection (1)(a) to (d), and any fees so prescribed need not bear any relationship to the costs of the services provided by the Authority in relation to the web aggregator.
 
-[41/2001]
+[19/2015]
 
-(4) Nothing in subsection (1) shall preclude the Authority from —
+(3) The total fees payable by all the licensed insurers to the Authority under this section for any period of 12 months or a shorter period, must not exceed the costs incurred by the Authority in connection with all of the following in that period:
 
-(a) producing a document to a court in the course of criminal proceedings or in the course of any proceedings under any written law of Singapore or elsewhere;
+(a) the operation of the web aggregator;
 
-(b) disclosing to a court in the course of any proceedings referred to in paragraph (a) any information that was obtained during the inspection;
+(b) the development of the web aggregator;
 
-(c) producing a document or disclosing information to a person to whom, in the opinion of the Authority, it is in the public interest that the document be produced or the information be disclosed, as the case may be;
+(c) the maintenance of the web aggregator;
 
-(d) producing a document or disclosing information that is required or permitted by any written law of Singapore or elsewhere to be produced or disclosed, as the case may be;
+(d) the usage by all the licensed insurers of the web aggregator.
 
-or
+[19/2015]
 
-(e) producing a document or disclosing information for such purpose, or in such circumstance, as may be prescribed.
+(4) The Authority may, where the Authority considers appropriate in a particular case, waive, refund or remit the whole or any part of any fee paid or payable under subsection (1).
 
-[41/2001]
+[19/2015]
 
-(5) Any person who fails, without reasonable excuse, to produce any book, account, record or other document or furnish any information or facilities in accordance with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) Where a licensed insurer fails to pay the prescribed fees by the prescribed time, the Authority may impose a late payment fee of a prescribed amount for every day or part of a day that the payment is late, and both fees are recoverable by the Authority as a judgment debt.
 
-[41/2001]
+[33B
+
+[19/2015]

@@ -1,12 +1,18 @@
-# 7. Examination of persons suspected of carrying on insurance business Registration of Singapore insurers
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 7. Restrictions on co-branding
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
 
-(1) Whenever the Authority has reason to believe that a person has contravened any of the provisions of this Act, it may call for or inspect the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening any of the provisions of this Act.
+(1) Except with the prior written consent of the Authority, a licensed insurer, authorised reinsurer or foreign insurer carrying on insurance business in Singapore under a foreign insurer scheme must not use, together with its name, logo or trade mark in the course of the business it carries on in Singapore, the name, logo or trade mark of any person who —
 
-[22/73; 11/86; 30/99]
+(a) carries on the business of assuming risk or undertaking liability under policies, whether in Singapore or elsewhere;
 
-(2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day during which the offence continues after conviction.
+but
 
-[22/73; 41/2001]
+(b) is not a licensed insurer, an authorised reinsurer or a foreign insurer carrying on insurance business in Singapore under a foreign insurer scheme.
 
-Registration of Singapore insurers
+[11/2013]
+
+(2) Any insurer which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[5A
+
+[11/2013]

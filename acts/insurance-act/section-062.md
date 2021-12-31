@@ -1,20 +1,20 @@
-# 62. No insurance to be made unless insurer has interest and no policy without inserting names (UK Life Assurance Act 1774)
-Part: PART IV MISCELLANEOUS AND GENERAL Administration and enforcement
+# 62. Holding out as foreign insurer or as agent of foreign insurer
+Part: PART 2A FOREIGN INSURER SCHEMES
 
-(1) No insurance shall be made by any person on any event wherein the person for whose use or benefit or on whose account the policy is made has no interest, or by way of gaming or wagering; and
+(1) Any person who —
 
-every assurance made contrary to this subsection shall be void.
+(a) holds himself, herself or itself out as a foreign insurer permitted to carry on insurance business in Singapore under any foreign insurer scheme when the person is not a foreign insurer, or is not permitted to carry on insurance business in Singapore under the foreign insurer scheme; or
 
-[35/93]
+(b) holds himself, herself or itself out as an agent permitted to act for a foreign insurer carrying on insurance business in Singapore under any foreign insurer scheme when the person has not been appointed as the foreign insurer’s agent or is not permitted to act as such an agent, shall be guilty of an offence.
 
-(2) It shall not be lawful to make any policy on any event without inserting in such policy the names of the persons interested therein, or for whose use or benefit or on whose account such policy was made.
+[11/2013]
 
-[35/93]
+(2) Any person who is guilty of an offence under subsection (1) shall be liable on conviction —
 
-(3) In all cases where there is an interest in such event, no greater sum shall be recovered or received from the insurer than the amount or value of the interest.
+(a) in the case of an individual, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction; or
 
-[35/93]
+(b) in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
 
-(4) Nothing in this section shall extend to insurance made by any person on ships or goods, or to contracts of indemnity against loss by fire or loss by other events whatsoever.
+[35K
 
-[35/93]
+[11/2013]

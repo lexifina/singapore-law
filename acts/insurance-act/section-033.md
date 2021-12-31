@@ -1,6 +1,9 @@
-# 33. General obligation to furnish information
-Part: PART II CONDUCT OF INSURANCE BUSINESS General restriction on insurers
+# 33. Application of sections 25 to 32 to licensed insurer that is co-operative society
+Part: PART 2 CONDUCT OF INSURANCE BUSINESS Division 1 — General restriction on insurers
+Division: Division 2 — Licensed insurers
 
-The Authority may, by notice in writing, require any Singapore insurer to furnish it with information about any matter related to any business carried on by the insurer in Singapore or elsewhere, if, in the opinion of the Authority, it requires that information for the discharge of its functions under this Act.
+Sections 25 to 32 apply, with the necessary modifications, to a licensed insurer that is a co-operative society as if it were a licensed insurer incorporated in Singapore.
 
-[11/86]
+[30A
+
+[11/2013]
