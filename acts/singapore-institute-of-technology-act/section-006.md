@@ -1,5 +1,5 @@
 # 6. Appointment to Board
 
-(1) The Board shall consist of such number of trustees as the Minister may, in his discretion, appoint.
+(1) The Board consists of such number of trustees as the Minister may appoint.
 
-(2) The Minister may, at any time, remove or replace any trustee and appoint new or additional trustees to the Board.
+(2) The Minister may, at any time, remove or replace any trustee or appoint new or additional trustees to the Board.

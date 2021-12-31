@@ -12,6 +12,8 @@
 
 (e) the removal of any trustee from the Board.
 
-(2) The requirements under subsection (1) shall apply in addition to the requirements prescribed by the Companies Act (Cap. 50) in respect of the matters referred to in paragraphs (a) to (e) of that subsection.
+(2) The requirements under subsection (1) apply in addition to the requirements prescribed by the Companies Act 1967 and the Insolvency, Restructuring and Dissolution Act 2018 in respect of the matters referred to in subsection (1)(a) to (e).
 
-(3) Any act done or agreement made in contravention of subsection (1) shall have no effect and be unenforceable at law.
+[40/2018]
+
+(3) Any act done or agreement made in contravention of subsection (1) has no effect and is unenforceable at law.
