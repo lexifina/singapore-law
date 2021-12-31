@@ -1,4 +1,4 @@
-# 3. Act binds the Government
-Part: PART I PRELIMINARY
+# 3. Act binds Government
+Part: PART 1 PRELIMINARY
 
-Subject to Part IV, this Act binds the Government.
+Subject to Part 4, this Act binds the Government.

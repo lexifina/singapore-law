@@ -1,8 +1,8 @@
 # 18. Registration and publication
-Part: PART II REGISTRATION OF DESIGNS Division 1 — Ownership of Designs
+Part: PART 2 REGISTRATION OF DESIGNS Division 1 — Ownership of Designs
 Division: Division 3 — Proceedings for Registration
 
-Subject to section 17, if the Registrar determines that an application for registration of a design satisfies the formal requirements, he shall as soon as practicable —
+Subject to sections 17 and 18A(3), if the Registrar determines that an application for registration of a design satisfies the formal requirements, the Registrar must as soon as practicable —
 
 (a) register the design by entering the prescribed particulars in the Register;
 
@@ -12,6 +12,4 @@ Subject to section 17, if the Registrar determines that an application for regis
 
 (d) publish a notice of the registration and a representation of the design in the prescribed manner.
 
-[HK Designs, s. 25]
-
-[26/2001]
+[16/2012]

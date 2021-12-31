@@ -1,11 +1,9 @@
 # 64A. Power to make provision giving effect to the Geneva Act of the Hague Agreement, etc.
-Part: PART VA THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC.
+Part: PART 5A THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC.
 
 (1) The Minister may make rules to give effect in Singapore to the provisions of the Geneva Act of the Hague Agreement or of any other treaty, convention, arrangement or engagement relating to designs to which Singapore is a party.
 
-[44/2004]
-
-(2) Without prejudice to the generality of subsection (1), rules may, in particular, be made to provide for —
+(2) Without limiting subsection (1), rules may, in particular, be made to provide for —
 
 (a) the procedures to be followed for the filing of applications for international registrations through the Registry;
 
@@ -17,24 +15,18 @@ Part: PART VA THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC.
 
 (e) the payment of fees (including transmittal fees) and amounts prescribed in respect of applications for international registrations, corrections and renewals.
 
-[44/2004]
-
-(3) Provision may also be made in the rules to apply, in relation to an international design (Singapore), the provisions of section 44 and Parts IV and VI.
-
-[44/2004]
+(3) Provision may also be made in the rules to apply, in relation to an international design (Singapore), the provisions of section 44 and Parts 4 and 6.
 
 (4) In this section —
 
-‘‘Geneva Act of the Hague Agreement’’ means the Act, signed at Geneva on 2nd July 1999, of the Hague Agreement Concerning the International Registration of Industrial Designs;
+“Geneva Act of the Hague Agreement” means the Act, signed at Geneva on 2 July 1999, of the Hague Agreement Concerning the International Registration of Industrial Designs;
 
-‘‘International Bureau’’ means the International Bureau of the World Intellectual Property Organisation;
-
-‘‘international design (Singapore)’’ means —
+“international design (Singapore)” means —
 
 (a) a design which is entitled to protection in Singapore under the Geneva Act of the Hague Agreement; or
 
 (b) a design prescribed by the Minister as an international design (Singapore);
 
-‘‘international registration’’ means the international registration of an industrial design effected according to the Geneva Act of the Hague Agreement.
+“international registration” means the international registration of an industrial design effected according to the Geneva Act of the Hague Agreement.
 
-[44/2004]
+[16/2012]

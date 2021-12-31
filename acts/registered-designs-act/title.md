@@ -1,26 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-REGISTERED DESIGNS ACT
-(CHAPTER 266)
-Act
-25 of 2000
-Amended by
-3 of 2001
-26 of 2001
-2001 Ed. Cap. 266
-Amended by
-21 of 2004
-44 of 2004
-REVISED EDITION 2005
-(31st July 2005)
+REGISTERED DESIGNS ACT 2000
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2005
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the registration of designs in Singapore.
 
-[13th November 2000]
+[13 November 2000]

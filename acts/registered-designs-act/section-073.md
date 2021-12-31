@@ -1,6 +1,14 @@
-# 73. Fees to be paid to Office
-Part: PART VII MISCELLANEOUS AND GENERAL PROVISIONS
+# 73. Fees
+Part: PART 7 MISCELLANEOUS AND GENERAL PROVISIONS
 
-All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+(1) There must be paid in respect of applications, registrations and other matters under this Act such fees as may be prescribed.
 
-[3/2001]
+[16/2012]
+
+(2) All fees collected must be paid into the funds of the Office.
+
+[16/2012]
+
+(3) Subsection (2) does not apply to fees prescribed in rules made under section 64A(2)(e) which are to be forwarded to the International Bureau.
+
+[16/2012]

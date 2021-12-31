@@ -1,15 +1,21 @@
 # 30. Rights conferred by registration
-Part: PART III RIGHTS IN REGISTERED DESIGNS Division 1 — Rights of Registered Owner of Registered Design
+Part: PART 3 RIGHTS IN REGISTERED DESIGNS Division 1 — Rights of Registered Owner of Registered Design
 
-(1) The registration of a design under this Act gives to the registered owner the exclusive right —
+(1) The registration of a design under this Act gives to the registered owner the following exclusive rights:
 
-(a) to make in Singapore or import into Singapore —
+(a) to make in Singapore, or import into Singapore, for sale or hire, or for use for the purpose of trade or business —
 
-(i) for sale or hire; or
+(i) any article in respect of which the design is registered and to which that design, or a design not substantially different from that design, has been applied; or
 
-(ii) for use for the purpose of trade or business; or
+(ii) any device for projecting a non-physical product (being a non-physical product in respect of which the design is registered and to which that design, or a design not substantially different from that design, has been applied);
 
-(b) to sell, hire, or offer or expose for sale or hire, in Singapore, any article in respect of which the design is registered and to which that design or a design not substantially different from it has been applied.
+(b) to sell, hire, or offer or expose for sale or hire, in Singapore —
+
+(i) any article or non-physical product in respect of which the design is registered and to which that design, or a design not substantially different from that design, has been applied; or
+
+(ii) any device for projecting a non-physical product mentioned in sub-paragraph (i).
+
+[29/2017]
 
 (2) For the purposes of this Act, the right in a registered design is infringed by any person who, without the consent of the registered owner and while the registration is in force —
 
@@ -21,9 +27,9 @@ Part: PART III RIGHTS IN REGISTERED DESIGNS Division 1 — Rights of Registered 
 
 (d) makes anything for enabling a kit to be made or assembled, in Singapore or elsewhere, if the assembled article would be an article referred to in subsection (1).
 
-(3) In subsection (2), ‘‘kit’’ means a complete or substantially complete set of components intended to be assembled into an article.
+(3) In subsection (2), “kit” means a complete or substantially complete set of components intended to be assembled into an article.
 
-(4) In the application of subsection (2) to a registered design of which there is more than one registered owner, the reference to the registered owner shall be construed —
+(4) In the application of subsection (2) to a registered design of which there is more than one registered owner, the reference to the registered owner is to be construed —
 
 (a) in relation to any act, as a reference to the registered owner or those registered owners who is or are entitled to do that act by virtue of section 33 or any agreement; and
 
@@ -37,8 +43,18 @@ or
 
 (b) the doing of any act for the purpose of evaluation, analysis, research or teaching.
 
-(6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) of the definition of ‘‘design’’ in section 2 (1), is left out of account in determining whether the design is registrable.
+(6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) or (c) of the definition of “design” in section 2(1), is left out of account in determining whether the design is registrable.
 
-(7) The right in a registered design is not infringed by the import, sale, hire, or offer or exposure for sale or hire of any article to which the design has been applied, and which has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner.
+[29/2017]
 
-[UK Designs 1949, s. 7; HK Designs, s. 31]
+(7) The right in a registered design is not infringed by —
+
+(a) the import, sale, hire, or offer or exposure for sale or hire of —
+
+(i) any article to which the design has been applied, if the article has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner; or
+
+(ii) any device for projecting a non-physical product (being a non-physical product to which the design has been applied), if the device has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner; or
+
+(b) the sale, hire, or offer or exposure for sale or hire of any non-physical product to which the design has been applied, if the non-physical product has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner.
+
+[29/2017]

@@ -1,5 +1,5 @@
 # 58. Powers of Registrar
-Part: PART V ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS Division 1 — Registrar
+Part: PART 5 ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS Division 1 — Registrar
 Division: Division 3 — Powers of Registrar
 
 The Registrar may, for the purposes of this Act —
@@ -8,6 +8,6 @@ The Registrar may, for the purposes of this Act —
 
 (b) receive evidence on oath, whether orally or otherwise; and
 
-(c) require the production of documents or articles.
+(c) require the production of documents, articles or devices for projecting non-physical products.
 
-[Patents 1995 Ed., s. 8]
+[29/2017]
