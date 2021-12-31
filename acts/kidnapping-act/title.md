@@ -1,23 +1,15 @@
-KIDNAPPING ACT
-(CHAPTER 151)
-Ordinance
-15 of 1961
-Amended by
-14 of 1969
-1970 Ed. Cap. 101
-Amended by
-21 of 1973
-1985 Ed. Cap. 151
-Amended by
-37 of 1998
-S 22/89
-REVISED EDITION 1999
-(1st August 1999)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+KIDNAPPING ACT 1961
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the punishment of the offences of abduction, wrongful restraint and wrongful confinement for ransom and other related offences and for matters incidental thereto.
 
-[2nd June 1961]
+[2 June 1961]

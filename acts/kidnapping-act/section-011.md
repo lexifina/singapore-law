@@ -1,3 +1,3 @@
-# 11. Offences to be seizable
+# 11. Offences to be arrestable
 
-All offences under this Act shall be deemed to be seizable offences for the purposes of the Criminal Procedure Code (Cap. 68).
+All offences under this Act shall be deemed to be arrestable offences for the purposes of the Criminal Procedure Code 2010.

@@ -4,8 +4,10 @@
 
 (a) to intercept, detain and open any postal article in course of transmission by post;
 
-(b) to intercept any message transmitted or received by tele- communication; or
+(b) to intercept any message transmitted or received by telecommunications; or
 
 (c) to intercept or listen to any conversation by telephone.
 
-(2) For the purposes of this section, ‘‘postal article’’ and ‘‘tele- communication’’ shall have the meanings assigned to them in the Telecommunication Authority of Singapore Act (Cap. 323).
+(2) For the purposes of this section, “postal article” and “telecommunications” shall have the meanings assigned to them in the Postal Services Act 1999 and the Telecommunications Act 1999, respectively.
+
+[42/99]

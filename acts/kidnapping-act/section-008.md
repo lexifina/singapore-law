@@ -10,7 +10,7 @@
 
 (d) require the Comptroller of Income Tax to furnish all information available to the Comptroller relating to the affairs of such person or of the spouse or child of such person and to produce or furnish any document or a certified copy of any document specified in the notice relating to that person or the spouse or child of that person which is in the possession or under the control of the Comptroller;
 
-(e) require the person in charge of any department, office or establishment of the Government, or the president, chairman, manager or chief executive officer of any public body to produce or furnish, as specified in the notice, any document or a certified copy of any document which is in his possession or under his control; and
+(e) require the person in charge of any department, office or establishment of the Government, or the president, chairman, manager or chief executive officer of any public body, to produce or furnish, as specified in the notice, any document or a certified copy of any document which is in his possession or under his control; and
 
 (f) require the manager of any bank to give copies of the accounts of such person or of the spouse or child of such person at the bank.
 

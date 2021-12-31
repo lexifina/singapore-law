@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Kidnapping Act.
+This Act is the Kidnapping Act 1961.
