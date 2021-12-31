@@ -10,7 +10,7 @@
 
 (3) No person shall keep any poison for sale or for dispensing purposes except —
 
-(a) as provided in subsection (1) (a);
+(a) as provided in subsection (1)(a);
 
 (b) in a bottle or other vessel tied over, capped, locked or otherwise safely secured in a manner different from that in which bottles or vessels containing non-poisonous substances are secured in the same warehouse, shop or dispensary;
 

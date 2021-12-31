@@ -24,7 +24,7 @@
 
 (h) the period for which any books required to be kept for the purposes of this Act are to be preserved;
 
-(i) requiring persons in control of the manufacture of pharma- ceutical preparations containing poisons to be registered pharmacists or persons possessing the prescribed qualifi- cation in chemistry;
+(i) requiring persons in control of the manufacture of pharmaceutical preparations containing poisons to be pharmacists or persons possessing the prescribed qualification in chemistry;
 
 (j) prescribing the coverings, stoppers and fastenings of and the marks to be placed or made on, or on the coverings of, or on the labels affixed to, any vessel, bottle, case, package, box or other receptacle or container whatsoever in which any poison is kept, stored, sold or in any way dealt with;
 
@@ -36,7 +36,7 @@
 
 (n) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000 or imprisonment for a term not exceeding 2 years or both.
 
-[21/87; 9/99]
+[48/2007]
 
 (2) All rules made under this Act shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication.
 

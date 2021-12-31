@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Poisons Act.
+This Act is the Poisons Act 1938.

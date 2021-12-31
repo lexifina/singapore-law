@@ -4,13 +4,9 @@
 
 (2) No licence shall be issued to a medical practitioner other than a licence authorising him to import, possess and sell poisons by retail in connection with his own practice or with a practice or partnership in which every member is a medical practitioner.
 
-[21/87]
-
 (3) A licensing officer, if it appears expedient to him to do so, may cancel any licence issued under subsection (1).
 
 (4) Every licence shall, unless previously cancelled, remain in force for such period as may be prescribed.
-
-[21/87]
 
 (5) Such fees as may be prescribed shall be charged on the issue of each licence.
 

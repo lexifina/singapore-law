@@ -16,23 +16,19 @@
 
 (b) for any person to sell any poison by way of wholesale dealing except to a person licensed under this Act to sell that poison.
 
-[9/99]
-
 (2) It shall not be lawful for a person to sell any poison unless the container of the poison is labelled —
 
 (a) with the name of the poison;
 
 (b) in the case of a preparation which contains a poison as one of the ingredients thereof, with particulars as to the proportion which the poison contained in the preparation bears to the total ingredients;
 
-(c) with the word ‘‘Poison’’ or other prescribed indication of the character of the substance; and
+(c) with the word “Poison” or other prescribed indication of the character of the substance; and
 
 (d) with the name of the seller of the poison and the address of the premises on which it was sold.
 
 (3) Subject to any rules made under this Act dispensing with or relaxing any of the requirements of this subsection —
 
-(a) it shall not be lawful to sell any poison to any person unless that person is known to the seller or to some pharmacist in the employment of the seller at the premises where the sale is effected, or is introduced by some person known to the seller as a person to whom the poison may properly be sold;
-
-and
+(a) it shall not be lawful to sell any poison to any person unless that person is known to the seller or to some pharmacist in the employment of the seller at the premises where the sale is effected, or is introduced by some person known to the seller as a person to whom the poison may properly be sold; and
 
 (b) the seller of any poison shall not deliver it until —
 
