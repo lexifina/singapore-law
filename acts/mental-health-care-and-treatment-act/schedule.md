@@ -2,81 +2,103 @@
 
 FORM 1
 
-Section 10(1)
+Sections 10(1) and 31
 
-MENTAL HEALTH (CARE AND TREATMENT) ACT (CHAPTER 178A) ORDER FOR ADMISSION OR FURTHER TREATMENT OF A PATIENT
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-To: The principal officer, ................................ Institution.
+ORDER FOR ADMISSION OR FURTHER TREATMENT OF A PATIENT
 
-I, the undersigned designated medical practitioner, hereby order that ............................................... of ............................................... be *admitted for treatment/detained for further treatment under section 10(1) of the Mental Health (Care and Treatment) Act on account of suspected mental disorder.
+To: The principal officer,
 
-Signature: ...................................................
+................................ Institution.
 
-(Name in block letters) ...............................
+I, the undersigned designated medical practitioner, order that ........................................ of ............................................... be *admitted for treatment/detained for further treatment under section 10(1) of the Mental Health (Care and Treatment) Act 2008 on account of suspected mental disorder.
+
+Signature: ....................................................
+
+(Name in block letters)................................
 
 Witness: ......................................................
 
-(Name in block letters) ...............................
+(Name in block letters)................................
 
-Date: ........................ Time: ...........
+Date: ................. Time: ............
 
 *Delete whichever is inapplicable.
 
-THE SCHEDULE — continued FORM 2
+THE SCHEDULE — continued
 
-Section 10(2)
+FORM 2
 
-MENTAL HEALTH (CARE AND TREATMENT) ACT (CHAPTER 178A) ORDER OF DETENTION OF A PATIENT FOR FURTHER TREATMENT
+Sections 10(2) and 31
 
-To: The principal officer, ................................ Institution.
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-I, the undersigned designated medical practitioner, hereby order that ........................................ of ............................................... be detained for further treatment under section 10(2) of the Mental Health (Care and Treatment) Act on account of suspected mental disorder.
+ORDER OF DETENTION OF A PATIENT FOR FURTHER TREATMENT
 
-Signature: ...................................................
+To: The principal officer,
 
-(Name in block letters) ...............................
+................................ Institution.
+
+I, the undersigned designated medical practitioner, order that .......................................... of ................................................ be detained for further treatment under section 10(2) of the Mental Health (Care and Treatment) Act 2008 on account of suspected mental disorder.
+
+Signature: ....................................................
+
+(Name in block letters)................................
 
 Witness: ......................................................
 
-(Name in block letters) ...............................
+(Name in block letters)................................
 
-Date: ........................ Time: ............
+Date: ................. Time: ............
 
-THE SCHEDULE — continued FORM 3
+THE SCHEDULE — continued
 
-Section 10(4)
+FORM 3
 
-MENTAL HEALTH (CARE AND TREATMENT) ACT (CHAPTER 178A) ORDER OF DETENTION OF A PATIENT FOR FURTHER TREATMENT
+Sections 10(4) and 31
 
-To: The principal officer, ................................ Institution.
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-I, the undersigned, ............................................................................................
+ORDER OF DETENTION OF A PATIENT FOR FURTHER TREATMENT
+
+To: The principal officer,
+
+................................ Institution.
+
+I, the undersigned, .......................................................................................
 
 (here enter name and official designation)
 
-hereby certify that I on the ............... day of ........................ 20............... at .........
+certify that I on the ........ day of ............ 20...... at .......................... personally examined (separately from any other practitioner) ..........................................................................................................
 
-...................................... personally examined (separately from any other practitioner) .........................................................................................................
+..............................................................................................................................
 
 (here enter name and residence of person examined)
 
-and that the said ....................................... is mentally disordered and a proper person to be taken charge of and detained for further treatment and that I have formed this opinion on the following grounds:
+and that the said ............................................. is mentally disordered and a proper person to be taken charge of and detained for further treatment and that I have formed this opinion on the following grounds:
 
-STATEMENT 1. Facts indicating mental disorder observed by myself ...............................
+STATEMENT
 
-.................................................................................................................
+1. Facts indicating mental disorder observed by myself ............
 
-(here state the facts) 2. Other facts, if any, indicating mental disorder communicated to me by others .......................................................................................................
+..................................................................................................
 
-..................................................................................................................
+..................................................................................................
 
-..................................................................................................................
+(here state the facts)
+
+2. Other facts (if any) indicating mental disorder communicated to me by others ........................................................................
+
+...................................................................................................
 
 (here state the information and from whom)
 
-And I hereby order that the said .................................................... be detained at the ................................................. Institution for further psychiatric treatment.
+THE SCHEDULE — continued
 
-THE SCHEDULE — continued Dated this .......... day of ................... 20.....
+And I order that the said ............................................ be detained at the ............................................... Institution for further psychiatric treatment.
+
+Dated this ........ day of .................... 20.....
 
 ......................................................................
 
@@ -84,73 +106,85 @@ THE SCHEDULE — continued Dated this .......... day of ................... 20..
 
 *Delete whichever is inapplicable.
 
-THE SCHEDULE — continued FORM 4
+THE SCHEDULE — continued
 
-Section 13(1) and (6)
+FORM 4
 
-MENTAL HEALTH (CARE AND TREATMENT) ACT (CHAPTER 178A) APPLICATION BY VISITORS FOR ORDER OF DETENTION
+Sections 13(1) and (6) and 31
 
-We, the visitors of ...................................................... Institution being satisfied by the report of ........................................................... principal officer of the said Institution, and by personal inspection, that ........................................................ a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act should be further detained for care and treatment hereby make application to a Magistrate for an order for the further detention of the said ..............................
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-...........................
+APPLICATION BY VISITORS FOR ORDER OF DETENTION
 
-Signed ............................................................
-
-........................................................................
-
-........................................................................
-
-Visitors
-
-THE SCHEDULE — continued FORM 5
-
-Section 13(2)
-
-MENTAL HEALTH (CARE AND TREATMENT) ACT (CHAPTER 178A) MAGISTRATE’S ORDER OF DETENTION
-
-Whereas ...........................................................................................................
+We, the visitors of ....................................................... Institution being satisfied by the report of ........................................................... principal officer of the said Institution, and by personal inspection, that ........................................................ a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment make application to a Magistrate for an order for the further detention of the said ...............................................................................................
 
 ...............................................................................................................................
 
-........................................................... the Visitors of .........................................
+Signed ..............................................................
 
-Institution, have applied to me for an order that ...................................................
+..............................................................
 
-..................... a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act should be further detained for care and treatment:
+..............................................................
 
-Now therefore, I, the undersigned Magistrate, do hereby order that the said ....................................................... be further detained.
+Visitors
+
+THE SCHEDULE — continued
+
+FORM 5
+
+Sections 13(2) and 31
+
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
+
+MAGISTRATE’S ORDER OF DETENTION
+
+Whereas ............................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+...............................................................................................................................
+
+................................................. the Visitors of ..................................................
+
+Institution, have applied to me for an order that ........................................................................... a patient detained under section 10(3) of the Mental Health (Care and Treatment) Act 2008 should be further detained for care and treatment:
+
+Now therefore, I, the undersigned Magistrate, order that the said ....................................................... be further detained.
 
 Dated this ............. day of ................... 20.....
 
-Signed ..................................................
+Signed ....................................................
 
 Magistrate
 
-THE SCHEDULE — continued FORM 6
+THE SCHEDULE — continued
 
-Section 16(1)
+FORM 6
 
-MENTAL HEALTH (CARE AND TREATMENT) ACT (CHAPTER 178A) TRANSFER ORDER
+Sections 16(1) and 31
 
-To: The principal officer of the ..................................
+MENTAL HEALTH (CARE AND TREATMENT) ACT 2008
 
-and to .................................
+TRANSFER ORDER
+
+To: The principal officer
+
+of the ..................................
+
+and to ..................................
 
 Whereas I have seen fit to order that ........................ who is detained as a patient in ....................................... Institution be removed from that Institution and transferred to ............................................... Institution.
 
-Now I do hereby require you the principal officer of the .................................
+Now I require you the principal officer of the ................................................
 
-............... Institution to deliver up the said patient to .......................................
+Institution to deliver up the said patient to .......................................
 
 at .....................................................
 
-And I do hereby require you ............................................ to bring or cause to be brought the said patient .................................. to the .................................
+And I require you ............................................ to bring or cause to be brought the said patient .................................. to the ................................. Institution and to deliver him or her to the officer in charge of the ......................................................... Institution.
 
-Institution and to deliver him to the officer in charge of the .............................
-
-............................ Institution.
-
-Given under my hand, this .................. day of ............................. 20.....
+Given under my hand, this .................. day of .................... 20.....
 
 ........................................................
 

@@ -1,4 +1,4 @@
 # 31. Power to amend Schedule
-Part: PART III GENERAL PROVISIONS
+Part: PART 3 GENERAL PROVISIONS
 
-The Minister may, by order published in the Gazette, amend, add to or vary the Schedule.
+The Minister may, by order in the Gazette, amend, add to or vary the Schedule.
