@@ -1,5 +1,5 @@
 # 12. Appointment of secretary
-Part: PART III COMMITTEES OF INQUIRY
+Part: PART 3 COMMITTEES OF INQUIRY
 
 The Minister may appoint a secretary —
 
@@ -11,6 +11,4 @@ The Minister may appoint a secretary —
 
 (d) to summon and record the evidence of witnesses; and
 
-(e) generally to perform such duties connected with the inquiry as the committee may instruct, subject to the directions, if any, of the Minister.
-
-[COI Act, s. 6]
+(e) generally to perform such duties connected with the inquiry as the committee may instruct, subject to the directions (if any) of the Minister.

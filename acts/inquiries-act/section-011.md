@@ -1,6 +1,4 @@
 # 11. Change of Minister
-Part: PART III COMMITTEES OF INQUIRY
+Part: PART 3 COMMITTEES OF INQUIRY
 
-No appointment made under this Part shall lapse by reason of, or be otherwise affected by, the death, absence, resignation, retirement or removal of the Minister who made the appointment.
-
-[COI Act, s. 5]
+No appointment made under this Part lapses by reason of, or is otherwise affected by, the death, absence, resignation, retirement or removal of the Minister who made the appointment.

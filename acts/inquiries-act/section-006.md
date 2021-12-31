@@ -1,5 +1,5 @@
 # 6. Appointment of secretary
-Part: PART II COMMISSIONS OF INQUIRY
+Part: PART 2 COMMISSIONS OF INQUIRY
 
 The President may appoint a secretary —
 
@@ -11,6 +11,4 @@ The President may appoint a secretary —
 
 (d) to summon and record the evidence of witnesses; and
 
-(e) generally to perform such duties connected with the inquiry as the commissioners may instruct, subject to the directions, if any, of the President.
-
-[COI Act, s. 6]
+(e) generally to perform such duties connected with the inquiry as the commissioners may instruct, subject to the directions (if any) of the President.

@@ -1,11 +1,11 @@
 # 10. Composition of committee
-Part: PART III COMMITTEES OF INQUIRY
+Part: PART 3 COMMITTEES OF INQUIRY
 
-(1) A committee of inquiry shall consist of one or more persons (at least one of whom shall be a person who is qualified to be a District Judge).
+(1) A committee of inquiry must consist of one or more persons (at least one of whom must be a person who is qualified to be a District Judge).
 
-(2) Where a committee consists of more than one person, the Minister shall appoint one of the members to be the chairman.
+(2) Where a committee consists of more than one person, the Minister must appoint one of the members to be the chairperson.
 
-(3) Where a committee consists of one member only, he shall be vested with the powers of the chairman.
+(3) Where a committee consists of one member only, the member is vested with the powers of the chairperson.
 
 (4) The Minister may, from time to time, add to the members of any such committee.
 
@@ -19,12 +19,8 @@ Part: PART III COMMITTEES OF INQUIRY
 
 (ii) is unwilling, unable or unfit to discharge the functions of a member.
 
-(6) When a new member has been appointed under subsection (4) or (5), it shall not be necessary for any evidence which may have been taken before the committee prior to such appointment to be retaken.
+(6) When a new member has been appointed under subsection (4) or (5), it is not necessary for any evidence which may have been taken before the committee prior to such appointment to be retaken.
 
-(7) A member may resign from his office at any time by notice in writing to the Minister.
+(7) A member may resign from his or her office at any time by written notice to the Minister.
 
-(8) Every member appointed under this Part shall, so long as he is acting as such member, be deemed to be a public servant within the meaning of the Penal Code (Cap. 224), and every inquiry under this Part shall be deemed to be a judicial proceeding within the meaning of the Penal Code.
-
-[CE Act, s. 5(6)(c) and (d); COI Act, ss. 2(2)(a), 3, 18; PF Act, s. 45(1), (2) and (3); Prisons Act, s. 9(1),
-
-(2) and (3)]
+(8) Every member appointed under this Part is, so long as he or she is acting as such member, deemed to be a public servant within the meaning of the Penal Code 1871, and every inquiry under this Part is deemed to be a judicial proceeding within the meaning of the Penal Code 1871.

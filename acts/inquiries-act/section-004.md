@@ -1,11 +1,11 @@
 # 4. Composition of commission
-Part: PART II COMMISSIONS OF INQUIRY
+Part: PART 2 COMMISSIONS OF INQUIRY
 
-(1) A commission of inquiry shall consist of one or more persons (at least one of whom shall be a person who is qualified to be a Judge of the High Court).
+(1) A commission of inquiry must consist of one or more persons (at least one of whom must be a person who is qualified to be a Judge of the High Court).
 
-(2) Where a commission consists of more than one commissioner, the President shall appoint one of the commissioners to be the chairman.
+(2) Where a commission consists of more than one commissioner, the President must appoint one of the commissioners to be the chairperson.
 
-(3) Where a commission consists of one commissioner only, he shall be vested with the powers of the chairman.
+(3) Where a commission consists of one commissioner only, the commissioner is vested with the powers of the chairperson.
 
 (4) The President may, from time to time, add to the members of any such commission.
 
@@ -19,12 +19,8 @@ Part: PART II COMMISSIONS OF INQUIRY
 
 (ii) is unwilling, unable or unfit to discharge the functions of a commissioner.
 
-(6) When a new commissioner has been appointed under subsection (4) or (5), it shall not be necessary for any evidence which may have been taken before the commission prior to such appointment to be retaken.
+(6) When a new commissioner has been appointed under subsection (4) or (5), it is not necessary for any evidence which may have been taken before the commission prior to such appointment to be retaken.
 
-(7) A commissioner may resign from his office at any time by notice in writing to the President.
+(7) A commissioner may resign from his or her office at any time by written notice to the President.
 
-(8) Every commissioner appointed under this Part shall, so long as he is acting as such commissioner, be deemed to be a public servant within the meaning of the Penal Code (Cap. 224), and every inquiry under this Part shall be deemed to be a judicial proceeding within the meaning of the Penal Code.
-
-[CE Act, s. 5(6)(c) and (d); COI Act, ss. 2(2)(a), 3, 18; PF Act, s. 45(1), (2) and (3); Prisons Act, s. 9(1),
-
-(2) and (3)]
+(8) Every commissioner appointed under this Part is, so long as he or she is acting as such commissioner, deemed to be a public servant within the meaning of the Penal Code 1871, and every inquiry under this Part is deemed to be a judicial proceeding within the meaning of the Penal Code 1871.
