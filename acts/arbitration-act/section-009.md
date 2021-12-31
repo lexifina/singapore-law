@@ -1,4 +1,6 @@
-# 9. Commencement of arbitration proceedings
-Part: PART IV COMMENCEMENT OF ARBITRATION PROCEEDINGS
+# 9. Commencement of arbitral proceedings
+Part: PART 4 COMMENCEMENT OF ARBITRAL PROCEEDINGS
 
-Unless otherwise agreed by the parties, the arbitration proceedings in respect of a particular dispute shall commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.
+Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent.
+
+[12/2012]

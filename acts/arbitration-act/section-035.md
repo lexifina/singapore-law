@@ -1,10 +1,20 @@
 # 35. Interest
-Part: PART VIII AWARD
+Part: PART 8 AWARD
 
-(1) The arbitral tribunal may award interest, including interest on a compound basis, on the whole or any part of any sum that —
+(1) Subject to subsection (3), unless otherwise agreed by the parties, the arbitral tribunal may, in the arbitral proceedings before it, award simple or compound interest from such date, at such rate and with such rest as the arbitral tribunal considers appropriate, for any period ending not later than the date of payment on the whole or any part of —
 
-(a) is awarded to any party; or
+(a) any sum which is awarded by the arbitral tribunal in the arbitral proceedings;
 
-(b) is in issue in the arbitral proceedings but is paid before the date of the award, for the whole or any part of the period up to the date of the award or payment, whichever is applicable.
+(b) any sum which is in issue in the arbitral proceedings but is paid before the date of the award; or
 
-(2) A sum directed to be paid by an award shall, unless the award otherwise directs, carry interest as from the date of the award and at the same rate as a judgment debt.
+(c) costs awarded or ordered by the arbitral tribunal in the arbitral proceedings.
+
+[12/2012]
+
+(2) Nothing in subsection (1) affects any other power of the arbitral tribunal to award interest.
+
+[12/2012]
+
+(3) Where an award directs a sum to be paid, that sum, unless the award otherwise directs, carries interest as from the date of the award and at the same rate as a judgment debt.
+
+[12/2012]

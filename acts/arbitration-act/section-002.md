@@ -1,34 +1,36 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘appointing authority’’ means the appointing authority designated under section 13 (8) or (9);
+“appellate court” means the court to which an appeal from a decision of the Court is to be made under section 29C of the Supreme Court of Judicature Act 1969;
 
-‘‘arbitral tribunal’’ means a sole arbitrator or a panel of arbitrators or an arbitral institution;
+“appointing authority” means the appointing authority designated under section 13(8) or (9);
 
-‘‘arbitration agreement’’ has the meaning given to it in section 4;
+“arbitral tribunal” means a sole arbitrator or a panel of arbitrators or an arbitral institution, and includes an emergency arbitrator appointed pursuant to the rules of arbitration agreed to or adopted by the parties including the rules of arbitration of an institution or organisation;
 
-‘‘award’’ means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any order or direction made under section 28;
+“arbitration agreement” means an arbitration agreement mentioned in section 4;
 
-‘‘Court’’ means the High Court in Singapore;
+“award” means a decision of the arbitral tribunal on the substance of the dispute and includes any interim, interlocutory or partial award but excludes any order or direction made under section 28;
 
-‘‘court’’, for the purposes of sections 6, 7, 8, 11 (1), 55, 56 and 57, means the High Court, District Court, Magistrate’s Court or any other court in which the proceedings referred to in those sections are instituted or heard;
+“Court” means the General Division of the High Court;
 
-‘‘party’’ means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration*;
+“court”, in sections 6, 7, 8, 11(1), 55, 56 and 57, means the Court, a District Court, a Magistrate’s Court or any other court in which the proceedings mentioned in those sections are instituted or heard;
 
-‘‘the place of the arbitration’’ means the juridical seat of the arbitration designated by —
+“party” means a party to an arbitration agreement or, in any case where an arbitration does not involve all of the parties to the arbitration agreement, means a party to the arbitration;
+
+“the place of the arbitration” means the juridical seat of the arbitration designated by —
 
 (a) the parties to the arbitration agreement;
 
 (b) any arbitral or other institution or person authorised by the parties for that purpose; or
 
-*See section 9 of the Contracts (Rights of Third Parties) Act (Cap. 53B) on third parties who are treated as parties to an arbitration agreement.
-
 (c) the arbitral tribunal as authorised by the parties, or determined, in the absence of such designation, having regard to the arbitration agreement and all the relevant circumstances.
+
+[26/2009; 12/2012; 40/2019]
 
 (2) Where any provision in this Act allows the parties to determine any issue, the parties may authorise a third party, including an arbitral institution, to make that determination.
 
 (3) Where any provision in this Act refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules incorporated in that agreement.
 
-(4) Where any provision in this Act refers to a claim, it shall also apply to a cross-claim or counter-claim, and where such provision refers to a defence, it shall also apply to a defence to such cross-claim or counter-claim.
+(4) Where any provision in this Act refers to a claim, it also applies to a cross-claim or counterclaim, and where such provision refers to a defence, it also applies to a defence to such cross-claim or counterclaim.

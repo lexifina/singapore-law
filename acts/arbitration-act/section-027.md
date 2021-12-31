@@ -1,10 +1,10 @@
 # 27. Power to appoint experts
-Part: PART VII ARBITRAL PROCEEDINGS
+Part: PART 7 ARBITRAL PROCEEDINGS
 
 (1) Unless otherwise agreed by the parties, the arbitral tribunal may —
 
 (a) appoint one or more experts to report to it on specific issues to be determined by the tribunal; and
 
-(b) require a party to give the expert any relevant information or to produce, or to provide access to, any relevant documents, goods or other property for his inspection.
+(b) require a party to give the expert any relevant information or to produce, or to provide access to, any relevant documents, goods or other property for the expert’s inspection.
 
-(2) Unless otherwise agreed by the parties, if a party so requests or if the arbitral tribunal considers it necessary, the expert shall, after delivery of his written or oral report, participate in a hearing where the parties have the opportunity to put questions to him and to present other expert witnesses in order to testify on the points at issue.
+(2) Unless otherwise agreed by the parties, if a party so requests or if the arbitral tribunal considers it necessary, the expert must, after delivery of the expert’s written or oral report, participate in a hearing where the parties have the opportunity to put questions to the expert and to present other expert witnesses in order to testify on the points at issue.

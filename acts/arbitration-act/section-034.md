@@ -1,5 +1,5 @@
 # 34. Remedies
-Part: PART VIII AWARD
+Part: PART 8 AWARD
 
 (1) The parties may agree on the powers exercisable by the arbitral tribunal as regards remedies.
 

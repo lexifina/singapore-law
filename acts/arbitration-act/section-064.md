@@ -1,4 +1,4 @@
-# 64. Act to bind Government
-Part: PART X MISCELLANEOUS
+# 64. Act binds Government
+Part: PART 10 MISCELLANEOUS
 
-This Act shall bind the Government.
+This Act binds the Government.

@@ -1,4 +1,4 @@
 # 3. Application of this Act
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act shall apply to any arbitration where the place of arbitration is Singapore and where Part II of the International Arbitration Act (Cap. 143A) does not apply to that arbitration.
+This Act applies to any arbitration where the place of arbitration is Singapore and where Part 2 of the International Arbitration Act 1994 does not apply to that arbitration.

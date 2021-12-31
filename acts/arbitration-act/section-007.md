@@ -1,5 +1,5 @@
 # 7. Court’s powers on stay of proceedings
-Part: PART III STAY OF LEGAL PROCEEDINGS
+Part: PART 3 STAY OF LEGAL PROCEEDINGS
 
 (1) Where a court stays proceedings under section 6, the court may, if in those proceedings property has been arrested or bail or other security has been given to prevent or obtain release from arrest, order that —
 
@@ -7,4 +7,4 @@ Part: PART III STAY OF LEGAL PROCEEDINGS
 
 (b) the stay be conditional on the provision of equivalent security for the satisfaction of any such award.
 
-(2) Subject to the Rules of Court and to any necessary modification, the same law and practice shall apply in relation to property retained in pursuance of an order under this section as would apply if it were held for the purposes of proceedings in the court which made the order.
+(2) Subject to the Rules of Court and to any necessary modification, the same law and practice apply in relation to property retained pursuant to an order under this section as would apply if it were held for the purposes of proceedings in the court which made the order.
