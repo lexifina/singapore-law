@@ -1,16 +1,16 @@
 # 66. Duration of interim orders
-Part: PART V DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
+Part: PART 5 DISCIPLINARY PROCEEDINGS, HEALTH COMMITTEE INQUIRIES AND PERFORMANCE ASSESSMENTS Division 1 — Voluntary removal, suspension, etc.
 Division: Division 7 — Interim Orders Committees
 
-(1) An interim suspension order or an interim restriction order shall be in force until —
+(1) An interim suspension order or an interim restriction order is in force until the earlier of the following:
 
 (a) the end of the period specified —
 
 (i) in the order; or
 
-(ii) if the period is extended under section 65(2), in the order extending it; or
+(ii) if the period is extended under section 65(2), in the order extending it;
 
-(b) the date on which the relevant proceedings are concluded, whichever is the earlier.
+(b) the date on which the relevant proceedings are concluded.
 
 (2) For the purposes of subsection (1)(b), the relevant proceedings are concluded if —
 

@@ -1,5 +1,5 @@
 # 7. Functions of Council
-Part: PART II ALLIED HEALTH PROFESSIONS COUNCIL
+Part: PART 2 ALLIED HEALTH PROFESSIONS COUNCIL
 
 The functions of the Council are —
 

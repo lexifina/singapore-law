@@ -1,16 +1,14 @@
 # 31. Making representation of another
-Part: PART IV OFFENCES
+Part: PART 4 OFFENCES
 
-(1) A person shall be guilty of an offence if he makes, with regard to another person, any representation which if made by the other person with the requisite intent, would be an offence by him under section 29 or 30.
+(1) A person shall be guilty of an offence if the person (A) makes, with regard to another person (B), any representation which if made by B with the requisite intent, would be an offence by B under section 29 or 30.
 
-(2) It is a defence for a person charged under subsection (1) to prove that he acted without the intention to deceive or to gain any advantage, benefit or financial gain for —
+(2) It is a defence for a person (A) charged with an offence under subsection (1) to prove that A acted without the intention to deceive or to gain any advantage, benefit or financial gain for —
 
-(a) a business, trade, profession, vocation or employment carried on by him or a person on whose behalf he committed the act;
+(a) a business, trade, profession, vocation or employment carried on by A or a person on whose behalf A committed the act; or
 
-or
+(b) if A or the person on whose behalf the act is committed is established for a charitable purpose or for purposes which include a charitable purpose, any activity carried out or service provided by A or the person for that purpose.
 
-(b) if he or the person on whose behalf the act is committed is established for a charitable purpose or for purposes which include a charitable purpose, any activity carried out or service provided by him or the person for that purpose.
+(3) Where an offence is committed under section 29 or 30 by a person (A) acting as an employee, an agent or a partner of another person (B), B shall also be guilty of an offence.
 
-(3) Where an offence is committed under section 29 or 30 by a person acting as an employee, an agent or a partner of another person, that other person shall also be guilty of an offence.
-
-(4) It is a defence for a person charged under subsection (3) to prove that the first-mentioned offence was committed without his knowledge and that he has taken all reasonable precautions and exercised due diligence to prevent the commission of that offence by the person.
+(4) It is a defence for a person (B) charged with an offence under subsection (3) to prove that the firstmentioned offence was committed without B’s knowledge and that B has taken all reasonable precautions and exercised due diligence to prevent the commission of that offence by A.

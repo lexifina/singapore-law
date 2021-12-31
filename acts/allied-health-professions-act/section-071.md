@@ -1,5 +1,5 @@
 # 71. No action against Council, etc., in absence of bad faith
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 No action or legal proceedings shall lie against —
 

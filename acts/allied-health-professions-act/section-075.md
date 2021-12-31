@@ -1,15 +1,15 @@
 # 75. Regulations
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-(1) Subject to the provisions of this Act, the Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+(1) Subject to the provisions of this Act, the Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.
 
-(2) Without affecting the generality of subsection (1), regulations may be made to —
+(2) Without limiting subsection (1), regulations may be made to —
 
 (a) provide for the duties of the Registrar;
 
 (b) provide for different registration requirements for different prescribed allied health professions;
 
-(c) provide for the form of the registers and the mode in which they shall be kept;
+(c) provide for the form of the registers and the mode in which they must be kept;
 
 (d) regulate the grant and renewal of practising certificates, including prescribing conditions for such grant and renewal;
 
@@ -27,6 +27,6 @@ Part: PART VI MISCELLANEOUS
 
 (k) prescribe acts or activities which a registered allied health professional may perform only on satisfaction of specified requirements;
 
-(l) provide that a contravention of any regulation made under this Act is an offence and provide for penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 6 months or both for each offence; and
+(l) provide that a contravention of any regulation made under this Act is an offence and provide for penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 6 months or both for each such offence; and
 
 (m) prescribe such other matter as are necessary or authorised to be prescribed under this Act.

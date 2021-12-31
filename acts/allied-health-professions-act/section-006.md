@@ -1,11 +1,11 @@
 # 6. Establishment of Allied Health Professions Council
-Part: PART II ALLIED HEALTH PROFESSIONS COUNCIL
+Part: PART 2 ALLIED HEALTH PROFESSIONS COUNCIL
 
-(1) There shall be established a body to be called the Allied Health Professions Council, which shall consist of —
+(1) A body called the Allied Health Professions Council is established, which consists of —
 
-(a) the Director, or his representative nominated by him and approved by the Minister;
+(a) the Director, or the representative nominated by the Director and approved by the Minister;
 
-(b) the Director-General of Education, or his representative nominated by him and approved by the Minister;
+(b) the Director-General of Education, or the representative nominated by the Director-General of Education and approved by the Minister;
 
 (c) the Registrar; and
 
@@ -15,6 +15,6 @@ Part: PART II ALLIED HEALTH PROFESSIONS COUNCIL
 
 (ii) 2 other persons.
 
-(2) The members referred to in subsection (1)(d) shall hold office for a term not exceeding 3 years and shall be eligible for reappointment.
+(2) The members appointed under subsection (1)(d) hold office for a term not exceeding 3 years and are eligible for re-appointment.
 
-(3) The Minister may, at any time, revoke the appointment of any member appointed under subsection (1)(d) without assigning any reason.
+(3) The Minister may, at any time, revoke the appointment of any member appointed under subsection (1)(d) without giving any reason.

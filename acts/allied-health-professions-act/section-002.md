@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
@@ -21,9 +21,9 @@ In this Act, unless the context otherwise requires —
 
 “institution of higher learning” includes a polytechnic or university;
 
-“lay person” means any person other than a healthcare professional;
+“layperson” means any person other than a healthcare professional;
 
-“medical practitioner” means a person who is registered under the Medical Registration Act (Cap. 174) and includes a person deemed to be so registered under section 72(1) of that Act;
+“medical practitioner” means a person who is registered under the Medical Registration Act 1997 and includes a person deemed to be so registered under section 72(1) of that Act;
 
 “member” means a member of the Council;
 
@@ -33,10 +33,10 @@ In this Act, unless the context otherwise requires —
 
 “president” means the president of the Council;
 
-“register” means any of the registers referred to in section 14(1);
+“register” means any of the registers mentioned in section 14(1);
 
 “registered allied health professional” means an allied health professional with full, restricted, conditional or temporary registration;
 
 “Registrar” means the Registrar of the Council;
 
-“regulations” means regulations made under section 75.
+“regulations” means the regulations made under section 75.

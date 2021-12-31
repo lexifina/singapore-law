@@ -1,6 +1,6 @@
 # 8. President of Council
-Part: PART II ALLIED HEALTH PROFESSIONS COUNCIL
+Part: PART 2 ALLIED HEALTH PROFESSIONS COUNCIL
 
-(1) The Minister shall appoint one of the members to be the president.
+(1) The Minister must appoint one of the members as the president of the Council.
 
-(2) The president shall preside at any meeting of the Council and, in his absence, such member as the members present may elect shall preside at that meeting.
+(2) The president is to preside at any meeting of the Council and, in his or her absence, the members present may elect a member to preside at that meeting.
