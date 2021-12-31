@@ -1,61 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY GOVERNMENT SECURITIES ACT 1992
 
-GOVERNMENT SECURITIES ACT (CHAPTER 121A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Government Securities Act. It is not part of the Act.
+1. Act 1 of 1992 — Government Securities Act 1992 Bill : 2/1992 First Reading : 13 January 1992 Second and Third Readings : 27 February 1992 Commencement : 6 March 1992 2. 1993 Revised Edition — Government Securities Act (Chapter 121A) Operation : 15 March 1993 3. Act 9 of 1996 — Government Securities (Amendment) Act 1996 Bill : 44/1995 First Reading : 5 December 1995 Second and Third Readings : 18 January 1996 Commencement : 1 April 1996 4. Act 6 of 2002 — Government Securities (Amendment) Act 2002 Bill : 8/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 8 July 2002 5. 2002 Revised Edition — Government Securities Act (Chapter 121A) Operation : 31 December 2002 6. Act 29 of 2004 — Government Securities (Amendment) Act 2004 Bill : 33/2004 First Reading : 20 July 2004 Second and Third Readings : 2 September 2004 Commencement : 14 September 2004 7. Act 2 of 2010 — Government Securities (Amendment) Act 2010 Bill : 25/2009 First Reading : 23 November 2009 Second and Third Readings : 11 January 2010 Commencement : 1 April 2010 8. Act 10 of 2013 — Financial Institutions (Miscellaneous Amendments) Act 2013 (Amendments made by section 6 of the above Act) Bill : 4/2013 First Reading : 4 February 2013 Second and Third Readings : 15 March 2013 Commencement : 18 April 2013 (section 6) 9. 2014 Revised Edition — Government Securities Act (Chapter 121A) Operation : 30 April 2014 10. Act 15 of 2015 — Government Securities (Amendment) Act 2015 Bill : 12/2015 First Reading : 13 April 2015 Second and Third Readings : 11 May 2015 Commencement : 31 August 2015 11. Act 15 of 2021 — Significant Infrastructure Government Loan Act 2021 (Amendments made by section 30 of the above Act) Bill : 6/2021 First Reading : 5 April 2021 Second and Third Readings : 10 May 2021 Commencement : 3 August 2021 (section 30)
 
-1. Act 1 of 1992 — Government Securities Act 1992
+Abbreviations
 
-Date of First Reading : 13 January 1992 (Bill No. 2/92 published on 14 February 1992)
-
-Date of Second and Third Readings : 27 February 1992
-
-Date of commencement : 6 March 1992
-
-2. 1993 Revised Edition — Government Securities Act (Chapter 121A)
-
-Date of operation : 15 March 1993
-
-3. Act 9 of 1996 — Government Securities (Amendment) Act 1996
-
-Date of First Reading : 5 December 1995 (Bill No. 44/95 published on 6 December 1995)
-
-Date of Second and Third Readings : 18 January 1996
-
-Date of commencement : 1 April 1996
-
-4. Act 6 of 2002 — Government Securities (Amendment) Act 2002
-
-Date of First Reading : 3 May 2002 (Bill No. 8/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Date of commencement : 8 July 2002
-
-5. 2002 Revised Edition — Government Securities Act (Chapter 121A)
-
-Date of operation : 31 December 2002
-
-6. Act 29 of 2004 — Government Securities (Amendment) Act 2004
-
-Date of First Reading : 20 July 2004 (Bill No. 33/2004 published on 21 July 2004)
-
-Date of Second and Third Readings : 2 September 2004
-
-Date of commencement : 14 September 2004 7. Act 2 of 2010 — Government Securities (Amendment) Act 2010
-
-Date of First Reading : 23 November 2009 (Bill No. 25/2009 published on 23 November 2009)
-
-Date of Second and Third Readings : 11 January 2010
-
-Date of commencement : 1 April 2010
-
-8. Act 10 of 2013 — Financial Institutions (Miscellaneous Amendments) Act 2013
-
-Date of First Reading : 4 February 2013 (Bill No. 4/2013 published on 4 February 2013)
-
-Date of Second and Third Readings : 15 March 2013
-
-Date of commencement : 18 April 2013 (section 6 —
-
-amendment of Government Securities Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

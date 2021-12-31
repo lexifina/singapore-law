@@ -1,9 +1,9 @@
 # 24. Redemption of Government securities
-Part: PART VI PROVISIONS RELATING TO INTEREST PAYMENTS ON AND REDEMPTION OF GOVERNMENT SECURITIES AND CREATION OF SINKING FUND
+Part: PART 6 PROVISIONS RELATING TO INTEREST PAYMENTS ON AND REDEMPTION OF GOVERNMENT SECURITIES AND CREATION OF SINKING FUND
 
-(1) Subject to subsection (2) and section 24A, Government securities shall be redeemable at par —
+(1) Subject to subsection (2) and section 24A, Government securities are redeemable at par —
 
-(a) on such date as may be specified in the regulations relating to the issue of such Government securities (referred to in this Part as the date of maturity); or
+(a) on such date as may be specified in accordance with the regulations relating to the issue of such Government securities (called in this Part the date of maturity); or
 
 (b) in the case of Government securities that are redeemable at the election of the holder thereof at any time, on the earlier of the following dates:
 
@@ -11,14 +11,10 @@ Part: PART VI PROVISIONS RELATING TO INTEREST PAYMENTS ON AND REDEMPTION OF GOVE
 
 (ii) such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the prescribed manner.
 
-[6/2002; 2/2010]
+[15/2021]
 
-(2) In the case of Government securities that are held by the Authority for the purpose of securities lending to primary dealers under section 11A, such Government securities shall be redeemable on such conditions as are agreed upon between the Government and the Authority.
+(2) In the case of Government securities that are held by the Authority for the purpose of securities lending to primary dealers under section 11A, such Government securities are redeemable on such conditions as are agreed upon between the Government and the Authority.
 
-[2/2010]
+(3) After the date of maturity of the Government securities under subsection (1), all the interest on the principal sums payable on the Government securities ceases and determines, whether or not payment of the principal sums has been demanded.
 
-(3) After the date of maturity of the Government securities under subsection (1), all the interest on the principal sums payable on the Government securities shall cease and determine, whether or not payment of the principal sums has been demanded.
-
-[6/2002]
-
-(4) Redemption proceeds of book-entry Government securities shall be disposed of in accordance with the instructions from the depositor for whose account the securities have been maintained by the Authority.
+(4) Redemption proceeds of book-entry Government securities must be disposed of in accordance with the instructions from the depositor for whose account the securities have been maintained by the Authority.

@@ -1,5 +1,5 @@
 # 17. Interpretation of this Part
-Part: PART V BOOK-ENTRY GOVERNMENT SECURITIES
+Part: PART 5 BOOK-ENTRY GOVERNMENT SECURITIES
 
 In this Part, unless the context otherwise requires —
 
@@ -11,7 +11,7 @@ In this Part, unless the context otherwise requires —
 
 “depositor” means any person in whose name an account is established and maintained on the records of the Authority;
 
-“pledge” includes a pledge of, or any security interest in, book‑entry Government securities —
+“pledge” includes a pledge of, or any security interest in, book-entry Government securities —
 
 (a) as collateral for loans or advances; or
 

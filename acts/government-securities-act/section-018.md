@@ -1,5 +1,5 @@
 # 18. Issue of book-entry Government securities
-Part: PART V BOOK-ENTRY GOVERNMENT SECURITIES
+Part: PART 5 BOOK-ENTRY GOVERNMENT SECURITIES
 
 (1) The Authority may —
 

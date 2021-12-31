@@ -1,7 +1,7 @@
 # 5. Expenses
-Part: PART II ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
+Part: PART 2 ESTABLISHMENT AND REGULATION OF GOVERNMENT SECURITIES FUND
 
-There shall be charged upon and payable out of the Government Securities Fund all expenses —
+There are charged upon and payable out of the Government Securities Fund all expenses —
 
 (a) arising from or incidental to the investment and management of moneys in the Government Securities Fund; and
 
@@ -9,6 +9,4 @@ There shall be charged upon and payable out of the Government Securities Fund al
 
 (i) the borrowing and repayment of moneys; and
 
-(ii) the investment and management of moneys in any sinking fund created, under this Act, the Local Treasury Bills Act (Cap. 167) on or after 1st April 1996, and under any other written law authorising moneys borrowed to be paid into the Government Securities Fund.
-
-[9/96]
+(ii) the investment and management of moneys in any sinking fund created, under this Act, the Local Treasury Bills Act 1923 on or after 1 April 1996, and under any other written law authorising moneys borrowed to be paid into the Government Securities Fund.
