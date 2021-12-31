@@ -1,6 +1,4 @@
 # 19. Financial year
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year except that the first financial year of the Board shall begin on 1st April 2004 and end on 31st March of the succeeding year.
-
-12 CAP. 299A Assessment Board 2004 Ed.
+The financial year of the Board begins on 1 April of each year and ends on 31 March of the succeeding year.

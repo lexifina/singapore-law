@@ -1,22 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
 SINGAPORE EXAMINATIONS AND
-ASSESSMENT BOARD ACT
-(CHAPTER 299A)
-Act
-32 of 2003
-Amended by
-45 of 2004
-REVISED EDITION 2004
-(31st December 2004)
+ASSESSMENT BOARD
+ACT 2003
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2004
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to establish and incorporate the Singapore Examinations and Assessment Board, to provide for its functions, duties and powers, and for matters connected therewith.
 
-[1st April 2004]
+[1 April 2004]

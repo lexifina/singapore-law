@@ -1,9 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY SINGAPORE EXAMINATIONS AND ASSESSMENT BOARD ACT 2003
 
-SINGAPORE EXAMINATIONS AND ASSESSMENT BOARD ACT (CHAPTER 299A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 32 of 2003 — Singapore Examinations and Assessment Board Act 2003 Date of First Reading : 16.10.2003 (Bill No. 31/2003 published on 17.10.2003) Date of Second and Third Readings : 11.11.2003 Date of commencement : 1.4.2004
+1. Act 32 of 2003 — Singapore Examinations and Assessment Board Act 2003 Bill : 31/2003 First Reading : 16 October 2003 Second and Third Readings : 11 November 2003 Commencement : 1 April 2004 2. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (45) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (45) of the Schedule) 3. 2004 Revised Edition — Singapore Examinations and Assessment Board Act (Chapter 299A) Operation : 31 December 2004 4. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 99 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 99) 5. G.N. No. S 461/2020 — Variable Capital Companies (Consequential Amendments to Other Acts) Order 2020 Commencement : 15 June 2020
 
-2. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made by) Date of First Reading : 21.9.2004 (Bill No. 43/2004 published on 22.9.2004) Date of Second and Third Readings : 19.10.2004 Date of commencement : 15.12.2004
+Abbreviations
 
-This Legislative History is provided for the convenience of users of the Singapore Examinations and Assessment Board Act. It is not part of the Singapore Examinations and Assessment Board Act.
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,7 +1,7 @@
 # 21. Funds of Board
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds of the Board shall consist of —
+The funds of the Board consist of —
 
 (a) all moneys transferred to the Board under section 32;
 

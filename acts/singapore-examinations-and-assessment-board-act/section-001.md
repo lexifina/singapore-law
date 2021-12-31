@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Singapore Examinations and Assessment Board Act.
+This Act is the Singapore Examinations and Assessment Board Act 2003.

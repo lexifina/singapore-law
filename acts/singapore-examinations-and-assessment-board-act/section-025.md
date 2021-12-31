@@ -1,6 +1,6 @@
 # 25. Bank accounts
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) The Board shall open and maintain one or more accounts with such bank or banks as the Board thinks fit.
+(1) The Board must open and maintain one or more accounts with such bank or banks as the Board thinks fit.
 
-(2) Every such account shall be operated by such person as may, from time to time, be authorised in that behalf by the Board.
+(2) Every such account must be operated by such person authorised to do so by the Board.

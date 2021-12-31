@@ -1,19 +1,18 @@
-# 16. Appointment of chief executive and other staff
-Part: PART III FUNCTIONS, DUTIES AND POWERS OF BOARD
-Heading: 2 CAP. 299A Assessment Board 2004 Ed. PART IV PROVISIONS RELATING TO STAFF
+# 16. Chief executive, officers and employees, etc.
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-(1) The Board shall, with the approval of the Minister, appoint a chief executive on such terms and conditions as the Board may determine.
+(1) There must be a chief executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The chief executive shall —
+[5/2018]
 
-(a) be known by such designation as the Board may determine;
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive during any period, or during all periods, when the chief executive —
 
-(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the chief executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason 2004 Ed. Assessment Board CAP. 299A 11
+[5/2018]
 
-temporarily unable to perform his duties, another person may be appointed by the Board to act in the place of the chief executive during any such period of absence from duty.
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(4) The Board may, from time to time, appoint such other officers, employees, consultants, agents or other personnel as it thinks fit for the effective performance of its functions.
+[5/2018]
