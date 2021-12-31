@@ -1,7 +1,7 @@
 # 3. Establishment and incorporation of Civil Service College
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
 
-There is hereby established a body to be known as the Civil Service College which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
+A body called the Civil Service College is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —
 
 (a) suing and being sued;
 

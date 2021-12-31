@@ -1,12 +1,14 @@
-# 5. Board of Governors
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
+# 5. Board of Directors
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
 
-(1) There shall be a Board of Governors of the College which shall be the executive body of the College and may exercise all the powers conferred on the College under this Act.
+(1) There is to be a Board of Directors of the College which is the executive body of the College and may exercise all the powers conferred on the College under this Act.
 
-(2) The Board shall consist of —
+[9/2003]
 
-(a) a Chairman; and
+(2) The Board consists of —
 
-(b) not less than 5 but not more than 15 other members, all of whom shall be appointed by the Minister.
+(a) a Chairperson; and
+
+(b) not less than 5 but not more than 15 other members, all of whom must be appointed by the Minister.
 
 (3) The Minister may appoint the Chief Executive to be a member of the Board.

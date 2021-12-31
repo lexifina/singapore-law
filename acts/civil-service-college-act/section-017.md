@@ -1,4 +1,4 @@
-# 17. Public servants
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 17. [Repealed] 1
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-All officers and employees (including any person seconded to the College for any period) of the College and members shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+[Repealed by Act 5 of 2018]

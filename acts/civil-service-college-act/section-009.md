@@ -1,16 +1,24 @@
 # 9. Meetings and proceedings of Board
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
 
-(1) At all meetings of the Board, 4 members shall form a quorum.
+(1) The quorum at every meeting of the Board is the higher of the following:
 
-(2) The Chairman shall preside at all meetings of the Board and, in his absence, the members present shall elect one of their number to preside.
+(a) one-third of the total number of members;
 
-(3) Meetings of the Board shall be held at such times and places as the Chairman may determine.
+(b) 3 members.
 
-(4) All questions arising at any meeting shall be decided by a majority of votes of the members present and voting.
+[25/2009]
 
-(5) At any meeting of the Board, the Chairman or, in his absence, the member presiding at the meeting shall have a deliberative vote and, in the case of an equality of votes, he shall also have a casting vote.
+(2) The Chairperson presides at all meetings of the Board and, in his or her absence, the members present must elect one of their number to preside.
 
-(6) The validity of any proceedings of the Board shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
+(3) Meetings of the Board must be held at such times and places as the Chairperson may determine.
 
-(7) Subject to the provisions of this Act, the Board may regulate its own proceedings.
+(4) All questions arising at any meeting must be decided by a majority of votes of the members present and voting.
+
+(5) At any meeting of the Board, the Chairperson or, in the Chairperson’s absence, the member presiding at the meeting has a deliberative vote and, in the case of an equality of votes, he or she also has a casting vote.
+
+(6) The validity of any proceedings of the Board is not affected by any vacancy among its members or by any defect in the appointment of any member.
+
+(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own proceedings.
+
+[5/2018]
