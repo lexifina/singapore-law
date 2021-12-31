@@ -1,11 +1,9 @@
 # SECOND SCHEDULE
 
-Sections 2 and 20
+Sections 2 and 31(1)
 
-SPECIFIED ORGANS FOR THE PURPOSES OF PART IVA
+SPECIFIED ORGANS FOR THE PURPOSES OF PART 4A
 
-(1) The kidney.
+(1) The kidney
 
-(2) Any part of the liver.
-
-[1/2004]
+(2) Any part of the liver

@@ -1,8 +1,8 @@
-# 10. Director to maintain register
-Part: PART III REGISTRATION OF OBJECTION
+# 10. Persons may withdraw their objection
+Part: PART 3 REGISTRATION OF OBJECTION
 
-(1) The Director shall establish and maintain a register in which shall be entered the objection of all persons lodged in accordance with section 9.
+(1) Any person who has registered the person’s objection with the Director under section 8 in respect of any organ may withdraw the person’s objection in the prescribed form.
 
-(2) The register referred to in subsection (1) shall not be open to inspection by the public.
+(2) Upon receipt of the withdrawal of a person under subsection (1), the Director must issue to that person an acknowledgment in the prescribed form and must remove the objection from the register mentioned in section 9(1).
 
-(3) Any person who wilfully destroys, mutilates or makes any unauthorised alteration in the register referred to in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[11

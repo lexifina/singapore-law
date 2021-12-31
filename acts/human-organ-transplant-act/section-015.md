@@ -1,8 +1,26 @@
-# 15. Advertisements relating to buying or selling of organs or blood prohibited 1
-Part: PART IV PROHIBITION OF TRADING IN ORGANS AND BLOOD
+# 15. Donation of organs by living persons
+Part: PART 4A LIVING DONOR ORGAN TRANSPLANTS
 
-(1) No person shall issue or cause to be issued any advertisement relating to the buying or selling in Singapore of any organ or blood or of the right to take any organ or blood from the body of a person.
+(1) No person is to carry out or cause to be carried out any living donor organ transplant unless —
 
-(2) In this section, “advertisement” includes every form of advertising, whether in a publication, or by the display of any notice or signboard, or by means of any catalogue, price list, letter (whether circulated or addressed to a particular person) or other documents, or by words inscribed on any article, or by the exhibition of a photograph or a cinematograph film, or by way of sound recording, sound broadcasting or television, or in any other way, and any reference to the issue of an advertisement shall be construed accordingly.
+(a) the specified organ is removed in a hospital with the written authorisation of the transplant ethics committee of the hospital; and
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(b) the donor of the specified organ has given his or her consent to the removal of the specified organ from his or her body and has not revoked or withdrawn the consent.
+
+(2) The transplant ethics committee of a hospital must not give any authorisation under subsection (1) for the removal of the specified organ from the body of any living person unless it is satisfied that —
+
+(a) the person from whom the specified organ is to be removed has given the person’s consent to such removal;
+
+(b) the person is not mentally disordered and, despite the person’s age, is able to understand the nature and consequence of the medical procedures the person has to undergo as a result of the person’s donation of the specified organ; and
+
+(c) the consent mentioned in paragraph (a) —
+
+(i) is not given pursuant to any contract or arrangement that is prohibited under section 13; and
+
+(ii) is not given or obtained by virtue of any fraud, duress or undue influence.
+
+(3) In determining whether to give any authorisation under subsection (1), the transplant ethics committee must have regard to such considerations as may be prescribed or as may be directed by the Director.
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[15A

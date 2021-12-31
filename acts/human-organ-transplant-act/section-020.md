@@ -1,10 +1,14 @@
-# 20. Amendment of Second Schedule
-Part: PART V MISCELLANEOUS
+# 20. Appointment of inspectors
+Part: PART 4B ENFORCEMENT
 
-(1) The Minister may, from time to time, by order published in the Gazette, amend, add to or vary the Second Schedule.
+(1) The Director may appoint one or more persons as inspectors to investigate the commission of any offence under this Act.
 
-[1/2004]
+(2) Every inspector —
 
-(2) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in the Gazette.
+(a) must be furnished with such identification card as the Director may direct to be carried by inspectors; and
 
-[1/2004]
+(b) must, when exercising any powers under this Part, on demand, declare the inspector’s office and produce such identification card to the person affected by the exercise of those powers.
+
+(3) Every inspector appointed under subsection (1) is deemed to be a public servant within the meaning of the Penal Code 1871.
+
+[15F

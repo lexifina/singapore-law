@@ -1,14 +1,10 @@
-# 6. Coroner’s consent
-Part: PART II REMOVAL OF ORGAN AFTER DEATH
+# 6. Organ to be removed and transplanted by authorised medical practitioners
+Part: PART 2 REMOVAL OF ORGAN AFTER DEATH
 
-(1) If the designated officer of the hospital has reason to believe that the circumstances applicable to the death of the person are such that the Coroner has jurisdiction to hold an inquest into the manner and cause of death of the person, the designated officer shall not authorise the removal of any organ from the body of the deceased person unless the Coroner has given his consent to the removal.
+(1) No person other than an authorised medical practitioner in a hospital is to remove any organ which is authorised to be removed pursuant to section 4 or transplant any such organ.
 
-(2) The consent by the Coroner under this section may be expressed to be subject to such conditions as are specified in the consent.
+(2) For the purposes of subsection (1), “authorised medical practitioner” means a medical practitioner who has been authorised by the Director to remove any organ pursuant to section 4 or to transplant any such organ.
 
-(3) The consent may be given orally by the Coroner, and if so given shall be confirmed in writing.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) In this section, “Coroner” means the State Coroner or a Coroner appointed under the Coroners Act 2010 (Act 14 of 2010).
-
-[14/2010]
-
-[ACT Transplantation and Anatomy 1977, s. 27]
+[7

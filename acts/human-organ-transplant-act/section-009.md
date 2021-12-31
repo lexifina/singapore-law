@@ -1,8 +1,10 @@
-# 9. Persons may register their objection
-Part: PART III REGISTRATION OF OBJECTION
+# 9. Director to maintain register
+Part: PART 3 REGISTRATION OF OBJECTION
 
-(1) Any person who objects to the removal of any organ from his body after his death for the purpose mentioned in section 5(1) may register his objection in respect of that organ with the Director in the prescribed form.
+(1) The Director must establish and maintain a register in which must be entered the objection of all persons lodged in accordance with section 8.
 
-[1/2004]
+(2) The register mentioned in subsection (1) is not open to inspection by the public.
 
-(2) Upon receipt of the written objection of a person under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form.
+(3) Any person who wilfully destroys, mutilates or makes any unauthorised alteration in the register mentioned in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[10
