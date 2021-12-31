@@ -1,5 +1,5 @@
 # 124. Order for security, etc.
-Part: PART XII CAVEATS
+Part: PART 12 CAVEATS
 
 In any proceedings in respect of a caveat, the court may —
 
@@ -7,6 +7,6 @@ In any proceedings in respect of a caveat, the court may —
 
 (b) direct the Registrar to delay registering any instrument dealing with the land, mortgage or encumbrance during the time the order of the court provides;
 
-(c) direct the caveator to take further proceedings by action or otherwise on his caveat; or
+(c) direct the caveator to take further proceedings by action or otherwise on the caveator’s caveat; or
 
 (d) make any other order considered just.

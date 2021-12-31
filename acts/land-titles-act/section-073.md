@@ -1,9 +1,9 @@
 # 73. Transfers made in exercise of power of sale
-Part: PART VIII MORTGAGES AND CHARGES Division I — Mortgages of registered land
+Part: PART 8 MORTGAGES AND CHARGES Division 1 — Mortgages of registered land
 
-(1) The Registrar shall register in the manner prescribed by section 37 any transfer in the approved form by a mortgagee or chargee made in exercise of a power of sale, without being concerned to inquire whether default has occurred, or whether notice has been given, or whether the power was otherwise properly or regularly exercised.
+(1) The Registrar must register in the manner prescribed by section 37 any transfer in the approved form by a mortgagee or chargee made in exercise of a power of sale, without being concerned to inquire whether default has occurred, or whether notice has been given, or whether the power was otherwise properly or regularly exercised.
 
-(2) Upon registration of such a transfer, the interest of the mortgagor or chargor as described therein shall pass to and vest in the transferee freed and discharged from all liability on account of —
+(2) Upon registration of such a transfer, the interest of the mortgagor or chargor as described therein passes to and vests in the transferee freed and discharged from all liability on account of —
 
 (a) that mortgage or charge;
 

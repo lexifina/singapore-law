@@ -1,10 +1,10 @@
 # 138. Interpretation of this Part
-Part: PART XIV RESTRICTIVE COVENANTS
+Part: PART 14 RESTRICTIVE COVENANTS
 
 In this Part —
 
-‘‘dominant land’’ means the land to which the benefit of a restriction is annexed;
+“dominant land” means the land to which the benefit of a restriction is annexed;
 
-‘‘restriction’’ means a restriction on the user of registered land created expressly by a covenant other than a covenant contained in a mortgage, charge or lease;
+“restriction” means a restriction on the user of registered land created expressly by a covenant other than a covenant contained in a mortgage, charge or lease;
 
-‘‘servient land’’ means the land subject to the burden of a restriction.
+“servient land” means the land subject to the burden of a restriction.

@@ -1,9 +1,9 @@
 # 28. Land-register
-Part: PART IV REGISTRATION
+Part: PART 4 REGISTRATION
 
-(1) The Registrar shall cause a register (referred to in this Act as the land-register) to be maintained for the purposes of this Act.
+(1) The Registrar must cause a register (called in this Act the land-register) to be maintained for the purposes of this Act.
 
-(2) The land-register shall comprise —
+(2) The land-register comprises —
 
 (a) folios;
 
