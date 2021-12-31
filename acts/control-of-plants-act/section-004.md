@@ -1,4 +1,4 @@
 # 4. Officers deemed to be public servants
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-All authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+Every authorised officer is deemed to be a public servant for the purposes of the Penal Code 1871.

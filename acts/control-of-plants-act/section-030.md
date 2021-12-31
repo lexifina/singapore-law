@@ -1,9 +1,7 @@
 # 30. Phytosanitary certificate
-Part: PART VI EXPORT OF PLANTS
+Part: PART 6 EXPORT OF PLANTS
 
 (1) Any authorised officer or accredited pest control agency may, on application and on such terms as the Director-General may require, issue a phytosanitary certificate stating that any plant or plant product is free from pests for the purpose of export.
-
-[32/98; 16/2000]
 
 (2) Any person who wilfully —
 

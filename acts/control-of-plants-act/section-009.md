@@ -1,7 +1,7 @@
 # 9. Application of this Part
-Part: PART III CONTROL OF CULTIVATION OF PLANTS
+Part: PART 3 CONTROL OF CULTIVATION OF PLANTS
 
-This Part shall not apply to —
+This Part does not apply to —
 
 (a) the cultivation of any plant for domestic and home gardening purposes; and
 

@@ -1,6 +1,4 @@
 # 48. Exemption
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-The Minister may, either generally or in any particular case, and subject to such conditions as he may impose, exempt any person from all or any of the provisions of this Act or any rules made thereunder.
-
-[47
+The Minister may, either generally or in any particular case, and subject to any conditions that the Minister may impose, exempt any person from all or any of the provisions of this Act or any rules made under this Act.

@@ -1,6 +1,6 @@
 # 6. Director-General may authorise public officer, etc., to exercise powers and perform duties
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-The powers conferred and the duties imposed on the Director- General under this Act or any rules made thereunder may be exercised and carried out by any public officer or officer of the Authority or of any other statutory authority generally or specially authorised by name or office by the Director-General and subject to his directions.
+A power conferred and duty imposed on the Director-General under this Act or any rules made under this Act may be exercised and carried out by any public officer or officer of the Board or of any other statutory authority generally or specially authorised by name or office by the Director-General and subject to his or her directions.
 
-[32/98; 16/2000]
+[10/2019]

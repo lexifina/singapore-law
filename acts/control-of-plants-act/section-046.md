@@ -1,8 +1,6 @@
-# 46. Fees, etc., payable to Authority
-Part: PART VIII MISCELLANEOUS
+# 46. Fees, etc., payable to Board
+Part: PART 8 MISCELLANEOUS
 
-All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+All fees, charges and moneys collected under this Act or any rules made under this Act (except composition sums) must be paid to the Board.
 
-[45A
-
-[16/2000]
+[10/2019]

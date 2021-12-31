@@ -1,15 +1,13 @@
 # 11. Use of pesticide
-Part: PART III CONTROL OF CULTIVATION OF PLANTS
+Part: PART 3 CONTROL OF CULTIVATION OF PLANTS
 
-(1) No person shall use any pesticide in the cultivation of any plant unless —
+(1) A person must not use any pesticide in the cultivation of any plant unless —
 
 (a) the pesticide is registered with the Director-General; and
 
-(b) he is a certified pesticide operator or the use is supervised by a certified pesticide operator.
+(b) the person is a certified pesticide operator or the use is supervised by a certified pesticide operator.
 
-[16/2000]
-
-(2) Any person who uses any pesticide in the cultivation of any plant shall ensure that —
+(2) Any person who uses any pesticide in the cultivation of any plant must ensure that —
 
 (a) the pesticide is properly stored in the prescribed manner;
 
