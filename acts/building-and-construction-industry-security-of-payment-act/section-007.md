@@ -1,5 +1,5 @@
 # 7. Valuation of construction work, goods and services
-Part: PART II RIGHTS TO PROGRESS PAYMENTS
+Part: PART 2 RIGHTS TO PROGRESS PAYMENTS
 
 (1) Construction work carried out, or goods or services supplied, under a contract are to be valued —
 
@@ -7,7 +7,7 @@ Part: PART II RIGHTS TO PROGRESS PAYMENTS
 
 (b) if the contract does not contain such provision, having regard to the matters specified in subsection (2).
 
-(2) For the purpose of subsection (1) (b), construction work carried out, or goods or services supplied, under a contract are to be valued —
+(2) For the purpose of subsection (1)(b), construction work carried out, or goods or services supplied, under a contract are to be valued —
 
 (a) having regard to —
 
@@ -15,8 +15,8 @@ Part: PART II RIGHTS TO PROGRESS PAYMENTS
 
 (ii) any other rate or price specified in the contract; and
 
-(iii) any variation agreed to by the parties to the contract by which the contract price, or any other rate or price specified in the contract, is to be adjusted by a specific amount, or, in the absence of the matters referred to in sub-paragraphs (i), (ii) and (iii), then having regard to the rates or prices prevailing in the building and construction industry at the time the construction work was carried out, or the goods or services were supplied;
+(iii) any variation agreed to by the parties to the contract by which the contract price, or any other rate or price specified in the contract, is to be adjusted by a specific amount, or, in the absence of the matters mentioned in sub-paragraphs (i), (ii) and (iii), then having regard to the rates or prices prevailing in the building and construction industry at the time the construction work was carried out, or the goods or services were supplied;
 
-(b) if any part of the construction work, goods or services is defective, having regard to the estimated cost of rectifying the defect; and
+(b) if any part of the construction work, goods or services is defective — having regard to the estimated cost of rectifying the defect; and
 
-(c) in the case of materials or components that are to form part of any building, structure or works arising from the construction work, having regard to the basis that the only materials or components to be included in the valuation are those that have become or, on payment, will become the property of the party for whom the construction work is being carried out.
+(c) in the case of materials or components that are to form part of any building, structure or works arising from the construction work — having regard to the basis that the only materials or components to be included in the valuation are those that have become or, on payment, will become the property of the party for whom the construction work is being carried out.

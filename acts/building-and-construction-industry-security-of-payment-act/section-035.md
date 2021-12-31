@@ -1,4 +1,4 @@
 # 35. Act to bind Government
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
-This Act shall bind the Government.
+This Act binds the Government.

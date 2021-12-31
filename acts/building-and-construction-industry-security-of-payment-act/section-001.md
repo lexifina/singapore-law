@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Building and Construction Industry Security of Payment Act.
+This Act is the Building and Construction Industry Security of Payment Act 2004.

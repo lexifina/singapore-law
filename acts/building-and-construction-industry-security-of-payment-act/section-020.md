@@ -1,10 +1,7 @@
 # 20. Withdrawal of adjudication applications and adjudication review applications
-Part: PART IV ADJUDICATION OF PAYMENT CLAIM DISPUTES
-Heading: 2 CAP. 30B Industry Security of Payment 2006 Ed.
+Part: PART 4 ADJUDICATION OF PAYMENT CLAIM DISPUTES
 
 (1) An adjudication application may be withdrawn by the claimant at any time upon serving a notice of withdrawal on —
-
-2006 Ed. Industry Security of Payment CAP. 30B 25
 
 (a) the adjudicator;
 
@@ -12,10 +9,12 @@ Heading: 2 CAP. 30B Industry Security of Payment 2006 Ed.
 
 (c) the respondent.
 
-(2) An adjudication review application may be withdrawn by the respondent at any time upon serving a notice of withdrawal on —
+(2) An adjudication review application may be withdrawn by the party who lodged the application at any time upon serving a notice of withdrawal on —
 
 (a) the review adjudicator or the panel of review adjudicators, as the case may be;
 
 (b) the authorised nominating body which appointed the review adjudicator or the panel of review adjudicators, as the case may be; and
 
-(c) the claimant.
+(c) the other party to the adjudication review application.
+
+[47/2018]
