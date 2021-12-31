@@ -1,5 +1,5 @@
 # 94. Powers
-Part: PART X BOARD OF INQUIRY
+Part: PART 10 BOARD OF INQUIRY
 
 A board of inquiry may —
 

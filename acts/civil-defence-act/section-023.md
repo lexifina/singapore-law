@@ -1,5 +1,5 @@
 # 23. Looting
-Part: PART V SERVICE OFFENCES
+Part: PART 5 SERVICE OFFENCES
 
 Any person who —
 

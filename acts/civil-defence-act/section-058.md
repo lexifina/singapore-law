@@ -1,5 +1,5 @@
 # 58. Arrest under warrant
-Part: PART VI ARREST, CUSTODY AND SEARCH
+Part: PART 6 ARREST, CUSTODY AND SEARCH
 
 (1) A commanding officer, an officer superior in command to that officer or an officer authorised by the regulations may issue a warrant for the arrest of a person subject to this Act where that person is not present and the issuing officer has reasonable grounds for suspecting that that person —
 

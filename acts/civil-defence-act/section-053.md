@@ -1,5 +1,5 @@
 # 53. Contempt
-Part: PART V SERVICE OFFENCES
+Part: PART 5 SERVICE OFFENCES
 
 Any person who —
 
@@ -7,7 +7,7 @@ Any person who —
 
 (b) refuses to take an oath or make an affirmation when required to do so by a disciplinary officer at a trial of a service offence or by a board of inquiry;
 
-(c) refuses to produce any document or material in his custody or control which a board of inquiry, a disciplinary officer or an investigating officer lawfully requires him to produce;
+(c) refuses to produce any document or material in the person’s custody or control which a board of inquiry, a disciplinary officer or an investigating officer lawfully requires the person to produce;
 
 (d) as a witness refuses to answer any question which a board of inquiry or a disciplinary officer lawfully requires an answer;
 

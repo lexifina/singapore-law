@@ -1,7 +1,7 @@
 # 57. Arrest without warrant
-Part: PART VI ARREST, CUSTODY AND SEARCH
+Part: PART 6 ARREST, CUSTODY AND SEARCH
 
-(1) A member may, without warrant, arrest a person over whom he has a power of arrest if —
+(1) A member may, without warrant, arrest a person over whom the member has a power of arrest if —
 
 (a) the member finds the person committing a service offence;
 
@@ -13,7 +13,7 @@ or
 
 (ii) to prevent any further disturbance of a substantial nature to public order;
 
-(iii) to ensure the personal safety or well being of the person; or
+(iii) to ensure the personal safety or wellbeing of the person; or
 
 (iv) to prevent persistence in, or a repetition or continuance of, the service offence.
 
@@ -33,7 +33,7 @@ or
 
 (c) a provost officer, or a person lawfully exercising authority under or on behalf of a provost officer, has a power of arrest over any member; and
 
-(d) a police officer has a power of arrest over a person whom he suspects on reasonable grounds —
+(d) a police officer has a power of arrest over a person whom the police officer suspects on reasonable grounds —
 
 (i) to be unlawfully at large during the currency of a sentence of imprisonment or detention imposed under this Act; or
 

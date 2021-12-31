@@ -1,4 +1,4 @@
 # 78. Sentence of detention
-Part: PART VII TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
+Part: PART 7 TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
-Any person sentenced to detention under this Act shall, unless otherwise provided for in the regulations, serve his sentence in detention barrack.
+Any person sentenced to detention under this Act must, unless otherwise provided for in the regulations, serve the person’s sentence in detention barrack.

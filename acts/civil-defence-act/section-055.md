@@ -1,5 +1,5 @@
 # 55. Aiding, etc., commission of service offence
-Part: PART V SERVICE OFFENCES
+Part: PART 5 SERVICE OFFENCES
 
 Any person who intentionally or recklessly —
 

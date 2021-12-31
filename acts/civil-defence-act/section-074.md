@@ -1,4 +1,4 @@
 # 74. Dismissal of charge
-Part: PART VII TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
+Part: PART 7 TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
-Where a disciplinary officer dismisses a charge, he shall record the reason for the dismissal of the charge.
+Where a disciplinary officer dismisses a charge, the disciplinary officer must record the reason for the dismissal of the charge.

@@ -1,44 +1,42 @@
 # 4. Functions of Force
-Part: PART II CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
+Part: PART 2 CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (1) The functions of the Force are —
 
-(a) to carry out civil defence duties; and
+(a) to carry out civil defence duties;
 
-(b) to instruct the members of the public regarding civil defence and to equip them for the purposes of such defence.
+(b) to instruct the members of the public regarding civil defence and, if necessary, to equip them for the purposes of such defence; and
 
-(2) Without limiting the generality of subsection (1), the Force may exercise and perform all the following functions and duties:
+(c) to carry out, on a day-to-day basis, operations for the protection of the life, health or safety of individuals, whether or not arising out of a civil defence emergency.
 
-(a) assist the public authorities to carry out works, clear streets, roads and other public places and remove and dispose of dangerous structures and materials;
+[32/2010; 53/2018]
 
-(b) rescue endangered persons and remove them to areas of safety;
+(2) Without limiting subsection (1), the Force may exercise and perform all the following functions and duties:
 
-(c) set up emergency and first-aid posts and provide first-aid to casualties and for their removal to hospitals or areas of safety;
+(a) rescue endangered persons and remove them to areas of safety;
 
-(d) train and equip the civilian population to cope with any civil defence emergency;
+(b) provide first-aid to casualties and for their removal for medical treatment or to areas of safety;
 
-(e) assist the public authorities and other agencies to provide for the relief of distress and for welfare generally, including the accommodation of the homeless and the conserving and supplying of food, fuel, clothing, first-aid and medical supplies and other necessities;
+(c) train and, if necessary, equip the civilian population to cope with any civil defence emergency;
 
-(f) assist the public authorities to undertake measures for the disposal of the dead;
+(d) assist the public authorities to undertake measures for the retrieval and, if necessary, decontamination of the dead bodies from any place affected by any civil defence emergency;
 
-(g) disseminate information and advice to the public;
+(e) disseminate information and advice to the public;
 
-(h) take lawful measures to extinguish and prevent the spread of fire;
+(f) take lawful measures to extinguish and prevent the spread of fire;
 
-(i) provide, maintain, control and operate prescribed warning devices;
+(g) provide, maintain, control and operate prescribed civil defence emergency devices;
 
-(j) manage all shelters including air-raid shelters and temporary shelters;
+(h) manage all public shelters including air-raid shelters and temporary shelters;
 
-(k) assist the public authorities to carry out repairs to essential utilities and Government buildings;
+(i) take lawful measures for protecting life and property in case of fire;
 
-(l) control lighting and the distribution of fresh water and other essential supplies;
+(j) take lawful measures to mitigate the consequences of hazardous materials incidents and for protecting life and property in such an event;
 
-(m) take lawful measures for protecting life and property in case of fire;
+(k) provide and maintain an adequate emergency ambulance service;
 
-(n) provide and maintain an adequate emergency ambulance service;
+(l) ensure effective coordination between the Force and other emergency services in Singapore; and
 
-(o) ensure effective co-ordination between the Force and other fire services in Singapore; and
+(m) execute such other duties as may be imposed on the Force by this Act or any other written law.
 
-(p) execute such other duties as may be imposed on it by this Act or any other written law.
-
-[39/93]
+[32/2010; 53/2018]

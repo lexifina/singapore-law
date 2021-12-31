@@ -1,16 +1,14 @@
 # 10. Discharge of national servicemen from Force
-Part: PART III ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
+Part: PART 3 ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
-A member who is enlisted in the Force pursuant to the Enlistment Act shall be discharged —
+A member who is enlisted in the Force pursuant to the Enlistment Act 1970 is discharged —
 
-(a) from continuous full-time service in the Force when he has completed the period of full-time service prescribed by the Enlistment Act (Cap. 93); and
+(a) from continuous full-time service in the Force when the member has completed the period of full-time service prescribed by the Enlistment Act 1970; and
 
 (b) from operationally ready national service in the Force when —
 
-(i) the proper authority notifies him that he has been transferred from the Force to another force specified by the proper authority;
+(i) the proper authority notifies the member that the member has been transferred from the Force to another force specified by the proper authority;
 
-(ii) the proper authority notifies him that he is released from the Force; or
+(ii) the proper authority notifies the member that the member is released from the Force; or
 
-(iii) he ceases to be a person subject to the Enlistment Act.
-
-[19/94]
+(iii) the member ceases to be a person subject to the Enlistment Act 1970.

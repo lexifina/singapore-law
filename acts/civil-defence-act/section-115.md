@@ -1,9 +1,9 @@
 # 115. Regulations
-Part: PART XIV GENERAL
+Part: PART 14 GENERAL
 
 (1) The Minister may make regulations, not inconsistent with this Act, for carrying out or giving effect to the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the regulations may provide for all or any of the following matters:
+(2) Without limiting subsection (1), the regulations may provide for all or any of the following matters:
 
 (a) the manner in which, and conditions subject to which, persons are to be enlisted in the Force;
 
@@ -21,20 +21,20 @@ Part: PART XIV GENERAL
 
 (h) the establishment and administration of any association for the welfare of members and the control of the funds of any such association and the collection from members thereof of subscriptions thereto;
 
-(i) the control of public lighting during civil defence drills;
+(i) the reimbursement for or payment to members;
 
-(j) the reimbursement for or payment to members;
+(j) the payment of compensation in respect of death and physical injury suffered by any member of the Force or by a member of the public in the course of being trained in civil defence measures or taking part in civil defence measures or drills;
 
-(k) the payment of compensation in respect of death and physical injury suffered by any member of the Force or by a member of the public in the course of being trained in civil defence measures or taking part in civil defence measures or drills;
+(k) the assessment and payment of remuneration for work done and services rendered and compensation payable in respect of loss of or damage to property in consequence of the exercise of the powers conferred by or under this Act including the determination of objections made against the assessment of such remuneration or compensation;
 
-(l) the assessment and payment of remuneration for work done and services rendered and compensation payable in respect of loss of or damage to property in consequence of the exercise of the powers conferred by or under this Act including the determination of objections made against the assessment of such remuneration or compensation;
+(l) the administration of the Fund;
 
-(m) the administration of the Fund;
+(m) the convening of boards of inquiry;
 
-(n) the convening of boards of inquiry;
+(n) the instruction of members of the public in civil defence and, if necessary, to equip them for the purposes of civil defence;
 
-(o) the instruction of members of the public in civil defence and to equip them for the purposes of civil defence;
+(o) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence;
 
-(p) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence;
+(p) prescribing anything which may be prescribed.
 
-(q) the imposition of controls or prohibitions on lighting in any area or place for the purposes of civil defence.
+[32/2010; 53/2018]

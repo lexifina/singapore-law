@@ -1,5 +1,5 @@
 # 51. Assaults, insulting words, etc.
-Part: PART V SERVICE OFFENCES
+Part: PART 5 SERVICE OFFENCES
 
 Any person who, on service land, in a service ship, aircraft or vehicle or in a public place —
 

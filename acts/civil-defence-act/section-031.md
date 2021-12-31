@@ -1,5 +1,5 @@
 # 31. Obstruction of provost officer
-Part: PART V SERVICE OFFENCES
+Part: PART 5 SERVICE OFFENCES
 
 Any person who —
 

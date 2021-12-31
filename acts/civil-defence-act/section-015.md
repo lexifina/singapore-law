@@ -1,5 +1,5 @@
 # 15. Modification of Act
-Part: PART IV JURISDICTION AND LIABILITY Division 1 — Persons subject to this Act
+Part: PART 4 JURISDICTION AND LIABILITY Division 1 — Persons subject to this Act
 
 The regulations may make provision for —
 
@@ -7,4 +7,6 @@ The regulations may make provision for —
 
 (b) the modification of any provision so far as it relates to all or any of those classes; or
 
-(c) the addition or substitution or provisions relating to all or any of those classes.
+(c) the addition or substitution of provisions relating to all or any of those classes.
+
+[32/2010]

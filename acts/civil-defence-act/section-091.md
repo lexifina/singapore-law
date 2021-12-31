@@ -1,11 +1,11 @@
 # 91. Write-off of public property
-Part: PART IX DEDUCTIONS FROM PAY OF A MEMBER
+Part: PART 9 DEDUCTIONS FROM PAY OF MEMBER
 
-Without prejudice to section 19 of the Financial Procedure Act (Cap. 109) —
+Without affecting section 19 of the Financial Procedure Act 1966 —
 
 (a) where, during or at the conclusion of a trial by a disciplinary officer, the disciplinary officer —
 
-(i) makes an order under section 75 (4) for the payment of compensation for part of the loss of or damage to service property; or
+(i) makes an order under section 75(5) for the payment of compensation for part of the loss of or damage to service property; or
 
 (ii) does not make any order for the payment of compensation for the loss of or damage to service property; or
 
