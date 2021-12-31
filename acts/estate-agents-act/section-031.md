@@ -1,7 +1,7 @@
 # 31. Eligibility of other persons to hold estate agent’s licence
-Part: PART III LICENSING OF ESTATE AGENTS AND REGISTRATION OF SALESPERSONS
+Part: PART 3 LICENSING OF ESTATE AGENTS AND REGISTRATION OF SALESPERSONS
 
-Subject to the provisions of this Act, no person (other than an individual) shall be eligible to be granted or to hold or continue to hold an estate agent’s licence unless —
+Subject to the provisions of this Act, no person (other than an individual) is eligible to be granted or to hold or continue to hold an estate agent’s licence unless —
 
 (a) the person has a key executive officer who satisfies the requirements of this Act;
 
@@ -13,6 +13,8 @@ Subject to the provisions of this Act, no person (other than an individual) shal
 
 (e) none of the person’s directors or partners for the time being is an employee, a director or a partner of a person who holds a moneylender’s licence;
 
-(f) the Council is satisfied that the person complies with such other requirements as are prescribed and which apply to the person; and
+(f) the Council is satisfied that the person complies with such other prescribed requirements which apply to the person;
+
+and
 
 (g) the Council otherwise considers the person to be a fit and proper person to hold an estate agent’s licence.

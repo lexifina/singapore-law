@@ -1,19 +1,21 @@
 # 72. Regulations
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-(1) The Council may, with the approval of the Minister, make regulations to give effect to the provisions and purposes of this Act, except Part VII (Appeals).
+(1) The Council may, with the approval of the Minister, make regulations to give effect to the provisions and purposes of this Act, except Part 7 (Appeals).
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made under that subsection for or in respect of all or any of the following matters:
+(2) Without limiting subsection (1), regulations may be made under that subsection for or in respect of all or any of the following matters:
 
-(a) applications for a licence and for registration, including the form and manner of application, and the particulars, information, and declarations to be furnished with such applications;
+(a) applications for a licence and for registration, including the form and manner of application, and the particulars, information, and declarations to be provided with such applications;
 
-(b) particulars to be contained in the register, including the form in which it shall be kept and public access to the register;
+(b) particulars to be contained in the register, including the form in which it must be kept and public access to the register;
 
 (c) requirements for a licence or registration, including minimum ages, educational qualifications, professional examinations, and practical experience;
 
 (d) professional indemnity insurance for estate agents and salespersons;
 
 (e) continuing professional education requirements for the renewal of a licence or registration;
+
+(ea) accreditation of any activities, courses and programmes for continuing professional education for or in respect of estate agents (including persons who are responsible for the management of estate agents) and salespersons;
 
 (f) codes of practice, ethics and conduct (by whatever name) for estate agents and salespersons;
 
@@ -27,7 +29,7 @@ Part: PART VIII MISCELLANEOUS
 
 (i) the parties, and the rights and obligations conferred on or imposed by any particular such agreement of the parties to it; and
 
-(ii) the amount or rate, as the case may be, of any commission or other fee payable by such client under such agreement, and the time and manner of payment;
+(ii) the amount or rate (as the case may be) of any commission or other fee payable by such client under such agreement, and the time and manner of payment;
 
 (k) the fees and charges payable under this Act, including the interest or penalty for the late payment of any fee or charge, and the waiver, refund or remission, whether wholly or in part, of such fees and charges;
 
@@ -47,12 +49,14 @@ Part: PART VIII MISCELLANEOUS
 
 (s) to prescribe all matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.
 
+[24/2020]
+
 (3) Regulations made under subsection (1) —
 
 (a) may relate to all or any class or description of estate agents or salespersons;
 
 (b) may make different provisions for different classes or descriptions of estate agents or salespersons;
 
-(c) may provide that a contravention of any specified provision thereof shall be an offence; and
+(c) may provide that a contravention of any specified provision of the regulations shall be an offence; and
 
-(d) may provide for penalties not exceeding a fine of $25,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of $1,000 for that offence for every day or part thereof during which the offence continues after conviction.
+(d) may provide for penalties not exceeding a fine of $25,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of $1,000 for that offence for every day or part of a day during which the offence continues after conviction.

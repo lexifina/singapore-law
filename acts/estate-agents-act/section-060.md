@@ -1,5 +1,5 @@
 # 60. Representation before Appeals Board
-Part: PART VII APPEALS
+Part: PART 7 APPEALS
 
 (1) A party to proceedings before the Appeals Board may be represented by a solicitor, who may examine witnesses and address the Appeals Board on behalf of the party.
 

@@ -1,11 +1,11 @@
 # 62. Rules relating to appeals
-Part: PART VII APPEALS
+Part: PART 7 APPEALS
 
 The Minister may make rules for or with respect to —
 
 (a) the time within which an appeal to the Appeals Board may be lodged;
 
-(b) the form and manner in which an appeal to the Appeals Board shall be lodged;
+(b) the form and manner in which an appeal to the Appeals Board must be lodged;
 
 (c) the procedure of the appeal process and the hearing of the appeal;
 

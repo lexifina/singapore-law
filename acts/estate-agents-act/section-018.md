@@ -1,12 +1,18 @@
-# 18. Annual estimates
-Part: PART II COUNCIL FOR ESTATE AGENCIES
+# 18. Minister’s approval of estimates
+Part: PART 2 COUNCIL FOR ESTATE AGENCIES
 
-(1) The Council shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Council for the ensuing financial year.
+(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Council, be sent without delay to the Minister.
 
-(2) Supplementary estimates may be adopted by the Council at any of its meetings.
+[5/2018]
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Council, be sent immediately to the Minister.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(4) The Minister may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Council, and the Council shall be bound thereby.
+[5/2018]
 
-(5) Notwithstanding any provision of this section, the Council may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Council, and the Council is bound by the Minister’s decision.
+
+[5/2018]
+
+(4) However, the Council may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
+
+[5/2018]

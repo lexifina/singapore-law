@@ -1,10 +1,12 @@
 # 8. Constitution of Council
-Part: PART II COUNCIL FOR ESTATE AGENCIES
+Part: PART 2 COUNCIL FOR ESTATE AGENCIES
 
-(1) The Council shall consist of the following members:
+(1) The Council consists of the following members:
 
-(a) a President; and
+(a) a chairperson called the president;
 
-(b) such other members, not being less than 5 or more than 15, as the Minister may from time to time determine.
+(b) not less than 5 and not more than 15 such other members as the Minister may determine.
 
-(2) The First Schedule shall have effect with respect to the Council, its members and its proceedings.
+[5/2018]
+
+(2) The Schedule has effect with respect to the Council, its members and its proceedings.

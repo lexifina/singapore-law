@@ -1,14 +1,18 @@
-# 13. Appointment of Executive Director and other employees, etc.
-Part: PART II COUNCIL FOR ESTATE AGENCIES
+# 13. Executive Director, officers and employees, etc.
+Part: PART 2 COUNCIL FOR ESTATE AGENCIES
 
-(1) The Council shall, with the approval of the Minister, appoint an Executive Director on such terms and conditions as the Council may determine.
+(1) There must be an Executive Director of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Executive Director shall —
+[5/2018]
 
-(a) be responsible to the Council for the proper administration and management of the functions, duties and affairs of the Council in accordance with the policy laid down by the Council; and
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Executive Director during any period, or during all periods, when the Executive Director —
 
-(b) not be removed from office without the consent of the Minister.
+(a) is absent from duty or Singapore; or
 
-(3) If the Executive Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Council, with the approval of the Minister, to act in the place of the Executive Director during any such period of absence from duty.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(4) The Council may, from time to time, appoint or employ on such terms and conditions as the Council may determine such officers, employees, consultants and agents as it thinks fit for the effective performance of its functions and discharge of its duties under this Act or any other written law.
+[5/2018]
+
+(3) The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[5/2018]

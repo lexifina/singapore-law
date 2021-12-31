@@ -1,4 +1,4 @@
-# 26. Financial provisions 1
-Part: PART II COUNCIL FOR ESTATE AGENCIES
+# 26. [Repealed] 1
+Part: PART 2 COUNCIL FOR ESTATE AGENCIES
 
-The financial provisions set out in the Second Schedule shall have effect with respect to the Council.
+[Repealed by Act 5 of 2018]
