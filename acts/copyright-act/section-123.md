@@ -1,9 +1,17 @@
-# 123. Rights of exclusive licensee
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 3 — Proceedings where Copyright is subject to Exclusive Licence
+# 123. Conditions for copyright to subsist in films
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 5 — Films
 
-Subject to this Division, the exclusive licensee shall, except against the owner of the copyright, have the same rights of action as the owner of the copyright would have, and be entitled to the same remedies as he would be entitled to, by virtue of sections 119, 120 and 120A if the licence had been an assignment, and those rights and remedies are concurrent with the rights and remedies of the owner of the copyright under those sections.
+(1) Subject to the provisions of this Act, copyright subsists in a film if —
 
-[38/99]
+(a) the maker of the film is a qualified person for the whole or a substantial part of the period during which the film is made; or
 
-[Aust. 1968, s. 119]
+(b) the film is made or first published —
+
+(i) in Singapore;
+
+(ii) by or under the direction or control of the Government; or
+
+(iii) on or after 10 April 1987 by or under the direction or control of a prescribed international organisation.
+
+(2) This section does not apply to a film if the making of the film was completed before 10 April 1987.

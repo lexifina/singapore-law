@@ -1,17 +1,10 @@
-# 104. Infringement by importation for sale or hire
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 104. If there are 2 or more rights owners for a protected performance, whose authority is relevant
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 5 — Rights and rights infringements Subdivision (1) — Common provisions
+Subdivision: Subdivision (3) — Provisions relating to protected performances
 
-A copyright subsisting by virtue of this Part is infringed by a person who, without the licence of the owner of the copyright, imports an article into Singapore for the purpose of —
+If a performance has 2 or more rights owners —
 
-(a) selling, letting for hire, or by way of trade offering or exposing for sale or hire, the article;
+(a) a reference in this Act to the doing of an act in relation to the performance (or a recording of the performance) with the rights owner’s authority is a reference to the doing of the act with the authority of every rights owner; and
 
-(b) distributing the article —
-
-(i) for the purpose of trade; or
-
-(ii) for any other purpose to an extent that will affect prejudicially the owner of the copyright; or
-
-(c) by way of trade exhibiting the article in public, where, he knows, or ought reasonably to know, that the making of the article was carried out without the consent of the owner of the copyright.
-
-[Aust. 1968, s. 102]
+(b) a reference in this Act to the doing of an act in relation to the performance (or a recording of the performance) without the rights owner’s authority is a reference to the doing of the act without the authority of every rights owner.

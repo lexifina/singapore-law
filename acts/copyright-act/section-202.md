@@ -1,18 +1,11 @@
-# 202. Regulations
-Part: PART X MISCELLANEOUS
+# 202. Things done for purposes of examination
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 3 — Education and educational institutions
 
-(1) The Minister may make regulations, not inconsistent with this Act prescribing all matters that are required to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+It is a permitted use of a work or protected performance to do anything for the purposes of an examination, including —
 
-(2) Without prejudice to the generality of subsection (1), the regulations made under this Act may provide for —
+(a) setting the questions;
 
-(a) the keeping and retention of records and declarations in relation to copies of works made by libraries, archives or institutions;
+(b) communicating the questions to the candidates; and
 
-(b) the deposit of such records and declarations with persons appointed by the Minister; and
-
-(c) the fees payable in respect of any application or matter under this Act.
-
-[22/2005]
-
-203*. (Omitted)
-
-204†. (Omitted)
+(c) answering the questions.

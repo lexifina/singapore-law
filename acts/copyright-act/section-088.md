@@ -1,11 +1,12 @@
-# 88. Cinematograph films in which copyright subsists
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
+# 88. What is a foreign institution aiding persons with print disabilities
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (4) — Persons with print disabilities
 
-(1) Subject to the provisions of this Act, copyright shall subsist in a cinematograph film of which the maker was a qualified person for the whole or a substantial part of the period during which the film was made.
+A “foreign institution aiding persons with print disabilities” is an institution —
 
-(2) Without prejudice to subsection (1), copyright shall subsist, subject to the provisions of this Act, in a cinematograph film if the film was made in Singapore.
+(a) whose main functions include providing relevant materials to persons with print disabilities; and
 
-(3) Without prejudice to subsections (1) and (2), copyright shall subsist, subject to the provisions of this Act, in a published cinematograph film if the first publication of the film took place in Singapore.
+(b) that is formed, incorporated or established outside Singapore.
 
-[Aust. 1968, s. 90]
+Subdivision (5) — Persons with intellectual disabilities

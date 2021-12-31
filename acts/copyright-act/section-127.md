@@ -1,11 +1,15 @@
-# 127. Apportionment of profits between owner and exclusive licensee
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 3 — Proceedings where Copyright is subject to Exclusive Licence
+# 127. Nature of copyright in broadcasts
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 6 — Broadcasts
 
-Where —
+For the purposes of this Act, unless the contrary intention appears, copyright in a broadcast is the exclusive right to do all or any of the following acts:
 
-(a) an action, insofar as it is brought under section 119, relates, in whole or in part, to an infringement in respect of which the owner of the copyright and the exclusive licensee have concurrent rights of action under that section; and
+(a) to make a copy of the broadcast;
 
-(b) in that action, whether the owner of the copyright and the exclusive licensee are both parties or not, an account of profits is directed to be taken in respect of that infringement, then, subject to any agreement of which the court is aware by which the application of those profits is determined as between the owner of the copyright and the exclusive licensee, the court shall apportion the profits between them in such a manner as the court considers just and shall give such directions as the court considers appropriate for giving effect to that apportionment.
+(b) to communicate the broadcast to the public (whether by rebroadcasting it or otherwise);
 
-[Aust. 1968, s. 123]
+(c) in the case of a television broadcast —
+
+(i) to cause it, insofar as it consists of visual images, to be seen in public by a paying audience; or
+
+(ii) to cause it, insofar as it consists of sounds, to be heard in public by a paying audience.

@@ -1,9 +1,9 @@
-# 96. Duration of copyright in published editions of works
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 4 — Duration of Copyright in Subject-Matter other than Works
+# 96. Who is a rights owner
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 5 — Rights and rights infringements Subdivision (1) — Common provisions
 
-Copyright subsisting in a published edition of a work or works by virtue of this Part shall continue to subsist until the expiration of 25 years after the expiration of the calendar year in which the edition was first published.
+A “rights owner” is —
 
-[Aust. 1968, s. 96]
+(a) in relation to a copyright work — the owner of the copyright; and
 
-Division 5 — Ownership of Copyright in Subject-Matter other than Works
+(b) in relation to a protected performance — the person who is entitled to bring an action for an infringing use of the performance.

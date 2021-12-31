@@ -1,19 +1,27 @@
-# 133. Presumptions where author has died
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 4 — Proof of Facts in Copyright Proceedings
+# 133. First owner — maker of work, etc., is default first owner
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 8 — Ownership and transactions
 
-(1) Where, in an action brought by virtue of this Part in relation to a literary, dramatic, musical or artistic work, it is established that the author is dead —
+(1) Subject to the provisions of this Act, the first owner of copyright in a work is —
 
-(a) the work shall be presumed to be an original work unless the contrary is established; and
+(a) in the case of an authorial work — subject to subsection (2), the author;
 
-(b) if it is alleged by the plaintiff that a publication specified in the allegation was the first publication of the work, and that it took place in a country and on a date so specified, that publication shall be presumed, unless the contrary is established, to have been the first publication of the work, and to have taken place in that country and on that date.
+(b) in the case of a published edition of an authorial work —
 
-(2) Where —
+the publisher;
 
-(a) a literary, dramatic, musical or artistic work has been published;
+(c) in the case of a sound recording — the maker of the recording;
 
-(b) the publication was anonymous or is alleged by the plaintiff to have been pseudonymous; and
+(d) in the case of a film — the maker of the film;
 
-(c) it is not established that the work has ever been published under the true name of the author, or under a name by which he was commonly known, or that the identity of the author is generally known or can be ascertained by reasonable inquiry, subsection (1) (a) and (b) shall apply, in an action brought by virtue of this Part in relation to the work, in like manner as that subsection shall apply where it is established that the author is dead.
+(e) in the case of a broadcast — the broadcasting licensee that made the broadcast; and
 
-[Aust. 1968, s. 129]
+(f) in the case of a cable programme — the person providing the cable programme service in which the programme was included.
+
+(2) If copyright subsists in a work of joint authorship only because one or more (but not all) of the joint authors are qualified individuals, subsection (1)(a) does not confer ownership of the copyright on a joint author who is not a qualified individual.
+
+(3) Subsections (1) and (2) are subject to any contrary intention in —
+
+(a) any written agreement made on or after 21 November 2021 by the person who would otherwise be the first owner of a copyright under those subsections; or
+
+(b) any agreement before 21 November 2021 by the person who would otherwise be the first owner of a copyright under those subsections.

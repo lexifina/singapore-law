@@ -1,25 +1,21 @@
-# 109. Fair dealing in relation to other subject-matter
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 109. Conditions for copyright to subsist in unpublished authorial works
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 2 — Authorial works
 
-(1) Subject to this section, a fair dealing with an audio-visual item for any purpose other than a purpose referred to in section 110 or 111 shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item.
+(1) Subject to the provisions of this Act, copyright subsists in an unpublished authorial work if —
 
-[52/2004]
+(a) the work is original; and
 
-(2) The purposes for which a dealing with an audio-visual item may constitute a fair dealing under subsection (1) shall include research and study.
+(b) one of the following applies:
 
-[52/2004]
+(i) the author is a qualified individual when the work is made;
 
-(3) For the purposes of this Act, the matters to which regard shall be had, in determining whether a dealing with an audio-visual item, being a dealing by way of copying the whole or a part of the audio-visual item, constitutes a fair dealing with the audio-visual item for any purpose other than a purpose referred to in section 110 or 111 shall include —
+(ii) if the work is made over a period — the author is a qualified individual for a substantial part of that period;
 
-(a) the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
+(iii) the work is made —
 
-(b) the nature of the audio-visual item;
+(A) by or under the direction or control of the Government; or
 
-(c) the amount and substantiality of the part copied taken in relation to the whole audio-visual item;
+(B) on or after 10 April 1987 by or under the direction or control of a prescribed international organisation.
 
-(d) the effect of the dealing upon the potential market for, or value of, the audio-visual item; and
-
-(e) the possibility of obtaining the audio-visual item within a reasonable time at an ordinary commercial price.
-
-[52/2004]
+(2) In this section, “author”, in relation to a work of joint authorship, means any of the joint authors.

@@ -1,5 +1,6 @@
-# 95. Duration of copyright in cable programmes
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 4 — Duration of Copyright in Subject-Matter other than Works
+# 95. When is a library run for profit
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (6) — Public collections: galleries, libraries, archives and museums
 
-Copyright subsisting in a cable programme by virtue of this Part shall continue to subsist until the expiration of 50 years from the end of the calendar year in which the cable programme is first included in the cable programme service.
+A library is not taken to be for-profit just because it is owned by a person carrying on business for profit.

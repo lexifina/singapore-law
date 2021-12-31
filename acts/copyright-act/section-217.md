@@ -1,11 +1,39 @@
-# 217. Industrial designs
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 2 — Original Works
+# 217. Copying by institution aiding persons with intellectual disabilities — authorial works
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 5 — Persons with intellectual disabilities
 
-(1) Division 10 of Part III and the Schedule shall not apply to artistic works made before 10th April 1987.
+(1) If the conditions in subsection (2) are met, it is a permitted use to make a copy of an authorial work.
 
-[S 107/87]
+(2) The conditions are —
 
-(2) Copyright shall not subsist by virtue of this Act in an artistic work made before 10th April 1987 which, at the time when the work was made, constituted a design capable of being registered under the Patents and Designs Act 1907 of the United Kingdom (U.K. 1907, c. 29), and was used, or intended to be used, as a model or pattern to be multiplied by an industrial process.
+(a) the work has been published;
 
-[Aust. 1968, s. 218]
+(b) the copy is made by or on behalf of a body (X) administering an institution aiding persons with intellectual disabilities;
+
+(c) the copy is made for the sole purpose of aiding persons with intellectual disabilities (whether the aid is provided by the institution or not);
+
+(d) before the copy is made, X (or a person acting on behalf of X) —
+
+(i) makes a reasonable investigation; and
+
+(ii) is satisfied that there is no new copy of the work that —
+
+(A) has been separately published;
+
+(B) is in a form that is suitable for aiding persons with intellectual disabilities; and
+
+(C) could be obtained within a reasonable time at an ordinary commercial price;
+
+(e) the copy is notated according to section 301; and
+
+(f) as soon as practicable after the copy is made, the prescribed record is made by or on behalf of X.
+
+(3) X must pay equitable remuneration to the copyright owner if the latter makes a written request within the prescribed time after the copy is made.
+
+(4) The amount of equitable remuneration is to be —
+
+(a) agreed between X and the copyright owner; or
+
+(b) in default of agreement, decided by a Copyright Tribunal.
+
+(5) In this section, “new copy” means a copy that is not secondhand.

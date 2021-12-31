@@ -1,6 +1,13 @@
-# 191. Breach of duty not committed if act done outside Singapore or done with permission
-Part: PART IX FALSE ATTRIBUTION OF AUTHORSHIP
+# 191. Relevant matters in deciding whether use is fair
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 2 — Fair use
 
-The doing of an act by a person shall not be a breach of a duty owed by that person to another person by virtue of this Part if the act was done outside Singapore or was done with the permission, whether express or implied, of that other person.
+Subject to sections 192, 193 and 194, all relevant matters must be considered in deciding whether a work or a protected performance (including a recording of the performance) is fairly used, including —
 
-[Aust. 1968, s. 193]
+(a) the purpose and character of the use, including whether the use is of a commercial nature or is for non-profit educational purposes;
+
+(b) the nature of the work or performance;
+
+(c) the amount and substantiality of the portion used in relation to the whole work or performance; and
+
+(d) the effect of the use upon the potential market for, or value of, the work or performance.

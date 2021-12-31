@@ -1,19 +1,13 @@
-# 243. Performing rights
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 5 — Works made before 1st July 1912
+# 243. Interpretation: what is computational data analysis
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 8 — Computational data analysis
 
-(1) Where the right conferred by the Copyright Act 1911 in relation to a dramatic or musical work to which this Division applies did not include the sole right to perform the work in public, then, copyright, insofar as it subsists in the work by virtue of this Act, shall not include the performing rights in relation to the work.
+In this Division, “computational data analysis”, in relation to a work or a recording of a protected performance, includes —
 
-(2) Where the right conferred by the Copyright Act 1911 in relation to a dramatic or musical work to which this Division applies consisted only of the sole right to perform the work in public, then, copyright, insofar as it subsists in the work by virtue of this Act, shall consist only of the performing rights in relation to the work.
+(a) using a computer program to identify, extract and analyse information or data from the work or recording; and
 
-†The Act came into operation on 1st July 1912.
+(b) using the work or recording as an example of a type of information or data to improve the functioning of a computer program in relation to that type of information or data.
 
-(3) For the purposes of this section, the performing rights, in relation to a work, are —
+. Illustration
 
-(a) the exclusive right to perform the work, or an adaptation of the work, in public;
-
-(b) the exclusive right to broadcast the work or an adaptation of the work; and
-
-(c) the exclusive right to cause the work, or an adaptation of the work, to be in a cable programme service.
-
-[Aust. 1968, s. 246]
+An example of computational data analysis under paragraph (b) is the use of images to train a computer program to recognise images.

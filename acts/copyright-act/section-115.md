@@ -1,13 +1,45 @@
-# 115. Use of broadcasts for educational purposes
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 115. Duration of copyright in authorial works — transitional provision for certain works published before 31 December 2022
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 2 — Authorial works
 
-The making of a record of a sound broadcast or a cinematograph film of a television broadcast or of a cable programme does not constitute an infringement of copyright in a work or sound recording or cinematograph film included in the broadcast or programme, or an infringement of copyright in the broadcast or programme, if —
+(1) Despite section 114, any copyright in an authorial work expires 70 years after the end of the year in which the work is first made available to the public if —
 
-(a) the record or cinematograph film is made by, or on behalf of, the person or authority in charge of an educational institution;
+(a) the work is a literary, dramatic or musical work or an engraving;
+
+(b) the author is identified on or before 31 December 2022;
+
+(c) the author died before 21 November 2021; and
+
+(d) the work is first made available to the public —
+
+(i) after the death of the author; and
+
+(ii) on or before 31 December 2022.
+
+(2) Despite section 114, any copyright in an authorial work expires 70 years after the end of the year in which the work is first published in any of the following circumstances:
+
+(a) the work —
+
+(i) is first published on or before 31 December 2022;
 
 and
 
-(b) the record or cinematograph film is not used except in the course of instruction at that institution.
+(ii) has no identified author on or before that date;
 
-[Aust. 1968, s. 200]
+(b) the work is —
+
+(i) a photograph; and
+
+(ii) first published on or before 31 December 2022;
+
+(c) the work is —
+
+(i) a literary, dramatic or musical work or an engraving;
+
+and
+
+(ii) made or first published on or before 31 December 2022 by or under the direction or control of the Government.
+
+(3) Despite section 114, any copyright in an artistic work (other than an engraving) expires 70 years after the end of the year in which the work is made if the work is made by or under the direction or control of the Government before 21 November 2021.
+
+(4) This section is subject to section 110(1)(b) (expiry of copyright upon publication).

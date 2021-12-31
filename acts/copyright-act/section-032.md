@@ -1,17 +1,10 @@
-# 32. Infringement by importation for sale or hire
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 2 — Infringement of Copyright in Works
+# 32. Where is a broadcast made
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (8) — Broadcasts
 
-The copyright in a literary, dramatic, musical or artistic work is infringed by a person who, without the licence of the owner of the copyright, imports an article into Singapore for the purpose of —
+A broadcast is made at —
 
-(a) selling, letting for hire, or by way of trade offering or exposing for sale or hire, the article;
+(a) the place from which the relevant visual images or sounds (or both) are broadcast; and
 
-(b) distributing the article —
-
-(i) for the purpose of trade; or
-
-(ii) for any other purpose to an extent that will affect prejudicially the owner of the copyright; or
-
-(c) by way of trade exhibiting the article in public, where he knows, or ought reasonably to know, that the making of the article was carried out without the consent of the owner of the copyright.
-
-[Aust. 1968, s. 37]
+(b) in the case of direct broadcasting by satellite — the place from which the relevant visual images or sounds (or both) are transmitted to the satellite transponder.

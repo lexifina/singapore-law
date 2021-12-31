@@ -1,17 +1,14 @@
-# 91. Published editions of works in which copyright subsists
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
+# 91. What is a public collection
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (6) — Public collections: galleries, libraries, archives and museums
 
-(1) Subject to the provisions of this Act, copyright shall subsist in a published edition of a literary, dramatic, musical or artistic work, or of 2 or more literary, dramatic, musical or artistic works, where —
+A “public collection” is —
 
-(a) the first publication of the edition took place in Singapore;
+(a) the National Archives;
 
-or
+(b) the collections of the National Heritage Board prescribed to be public collections by the Minister charged with the responsibility for the Board;
 
-(b) the publisher of the edition was a qualified person at the date of the first publication of the edition.
+(c) the permanent collection of a library; or
 
-(2) Subsection (1) shall not apply to an edition that reproduces a previous edition of the same work or works.
-
-[Aust. 1968, s. 92]
-
-Division 4 — Duration of Copyright in Subject-Matter other than Works
+(d) an archive.

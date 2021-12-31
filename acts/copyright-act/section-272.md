@@ -1,6 +1,15 @@
-# 272. Action relating to rights management information
-Part: PART XV SAVINGS AND TRANSITIONAL PROVISIONS UNDER COPYRIGHT (AMENDMENT) ACT 2004
+# 272. Artistic work with corresponding design registered under Registered Designs Act 2000
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 14 — Artistic works with corresponding designs and industrially applied artistic works
 
-Section 261 shall only apply to an action brought in respect of any act referred to in section 260 (2), (3) or (4) which is carried out on or after the appointed day, and section 261, as it was in force immediately before that day, shall continue to apply to an action brought in respect of any act referred to in section 260 as it was in force immediately before that day which is carried out before that day as if the amendment Act had not been enacted.
+(1) This section applies where there is, in relation to an artistic work, a corresponding design that is or is deemed to be registered.
 
-[52/2004]
+(2) Subject to section 273, it is a permitted use of the artistic work to —
+
+(a) while the registration is still in force — do any act that is within the exclusive rights in the corresponding design; or
+
+(b) after the registration is no longer in force — do any act that would have been within —
+
+(i) the exclusive rights in the corresponding design; or
+
+(ii) the exclusive rights in any possible similar design, if the corresponding design and all possible similar designs had been registered in respect of all the articles and products to which they were capable of being applied.

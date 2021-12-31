@@ -1,35 +1,48 @@
-# 35. Fair dealing in relation to works
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 3 — Acts not Constituting Infringements of Copyright Works
+# 35. What is a cable programme service
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (9) — Cable programmes
 
-(1) Subject to this section, a fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, for any purpose other than a purpose referred to in section 36 or 37 shall not constitute an infringement of the copyright in the work.
+(1) A “cable programme service” —
 
-[52/2004]
+(a) is a service that consists wholly or mainly of the sending of visual images or sounds (or both) by any person —
 
-(1A) The purposes for which a dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, may constitute a fair dealing under subsection (1) shall include research and study.
+(i) by means of a telecommunication system (whether run by that person or any other person); and
 
-[52/2004]
+(ii) for reception —
 
-(2) For the purposes of this Act, the matters to which regard shall be had, in determining whether a dealing with a literary, dramatic, musical or artistic work or with an adaptation of a literary, dramatic or musical work, being a dealing by way of copying the whole or a part of the work or adaptation, constitutes a fair dealing with the work or adaptation for any purpose other than a purpose referred to in section 36 or 37 shall include —
+(A) by any means other than wireless telegraphy, at 2 or more places in Singapore (either simultaneously, or at different times in response to requests made by different users of the service); or
 
-(a) the purpose and character of the dealing, including whether such dealing is of a commercial nature or is for non-profit educational purposes;
+(B) by any means, at a place in Singapore for the purpose of being played or shown there to members of the public or any group of persons;
 
-(b) the nature of the work or adaptation;
+but
 
-(c) the amount and substantiality of the part copied taken in relation to the whole work or adaptation;
+(b) does not include any service under paragraph (a) if and to the extent that that service is provided for a person providing another service under that paragraph.
 
-(d) the effect of the dealing upon the potential market for, or value of, the work or adaptation; and
+(2) For the purposes of subsection (1) —
 
-(e) the possibility of obtaining the work or adaptation within a reasonable time at an ordinary commercial price.
+“information” means —
 
-[52/2004]
+(a) speech, music and other sounds;
 
-(3) Notwithstanding subsection (2), a dealing with a literary, dramatic or musical work, or with an adaptation of such a work, being a dealing by way of the copying, for the purposes of research or study —
+(b) visual images;
 
-(a) if the work or adaptation comprises an article in a periodical publication, of the whole or a part of that work or adaptation; or
+(c) signals serving for the impartation (whether as between persons and persons, things and things or persons and things) of any matter otherwise than in the form of visual images or sounds; or
 
-(b) in any other case, of not more than a reasonable portion of the work or adaptation, shall be taken to be a fair dealing with that work or adaptation for the purpose of research or study.
+(d) signals serving for the actuation or control of machinery or apparatus;
 
-[52/2004]
+“telecommunication system” —
 
-(4) Subsection (3) shall not apply to a dealing by way of the copying of the whole or a part of an article in a periodical publication if another article in that publication, being an article dealing with a different subject-matter, is also copied.
+(a) means an electronic system for conveying information; and
+
+(b) includes any apparatus that is —
+
+(i) constructed or adapted to transmit or receive information that is to be or have been conveyed by means of a system mentioned in paragraph (a); and
+
+(ii) situated in Singapore and —
+
+(A) connected to but not comprised in a system mentioned in paragraph (a); or
+
+(B) is connected to and comprised in a system mentioned in paragraph (a) that extends beyond Singapore.
+
+(3) For the purposes of subsection (1), the person who controls the apparatus mentioned in paragraph (b) of the definition of “telecommunication system” in subsection (2) is regarded as running the relevant telecommunications system.

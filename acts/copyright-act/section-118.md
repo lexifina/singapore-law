@@ -1,8 +1,5 @@
-# 118. Interpretation of this Part
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
+# 118. Nature of copyright in published editions of authorial works
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 3 — Published editions of authorial works
 
-(1) In this Part, ‘‘action’’ means a proceeding of a civil nature between parties, and includes a counterclaim.
-
-(2) In the application of this Part in relation to a counterclaim, references to the plaintiff and to the defendant shall be read as references to the defendant and to the plaintiff, respectively.
-
-[Aust. 1968, s. 114]
+For the purposes of this Act, unless the contrary intention appears, copyright in a published edition of an authorial work is the exclusive right to make a copy of that edition.

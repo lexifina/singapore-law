@@ -1,12 +1,15 @@
-# 257. Denial of protection to citizens of countries not giving adequate protection to Singapore performances
-Part: PART XII PERFORMERS’ PROTECTION
+# 257. Reception of broadcasts or cable programmes
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 11 — Broadcasting, cable programmes and simulcasting
 
-(1) If it appears to the Minister that the law of a country does not give adequate protection to performances given in that country by a citizen of Singapore or a person resident in Singapore (whether the lack of protection relates to the nature of the performance or the nationality, citizenship or country of residence of its performer, or all of those matters), the Minister may, having regard to the nature and extent of the lack of protection involved, make regulations in relation to that country in accordance with subsection (2).
+(1) It is a permitted use of a literary, dramatic or musical work for a person to —
 
-[6/98]
+(a) receive a broadcast or a cable programme; and
 
-(2) Regulations made for the purposes of this section may provide, either generally or in such cases as are specified in the regulations, that this Part shall not apply to performances given after a date specified in the regulations (which may be a date before 16th April 1998) if, at the time the performances were or are given, the performers were or are citizens or nationals of a country specified in the regulations, other than persons resident in Singapore.
+(b) thereby cause the work to be seen or heard (or both) in public.
 
-[6/98]
+(2) It is a permitted use of a sound recording or a recording of a protected performance for a person to —
 
-[Aust. 1968, s. 248V]
+(a) receive a broadcast or a cable programme; and
+
+(b) thereby cause the recording to be heard in public.

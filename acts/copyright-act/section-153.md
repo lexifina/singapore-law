@@ -1,7 +1,18 @@
-# 153. Minister may appoint any person to act for absent member, etc.
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 2 — Constitution of Tribunal
+# 153. Action for copyright infringement
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (2) — Action for copyright infringement
 
-(1) If any member of the Tribunal is, by reason of illness, absence or other reasonable cause, for the time being unable to perform the duties of his office, either generally or in relation to any particular proceedings, the Minister may appoint some other duly qualified person to discharge the duties of that member for any period, not exceeding 6 months at one time, or, as the case may be, in relation to those proceedings.
+(1) Subject to the provisions of this Act, an action against a person for an infringement of copyright may be brought in the Court by —
 
-(2) A person so appointed shall, during that period or in relation to those proceedings, have the same powers as the person in whose place he is appointed.
+(a) the copyright owner; or
+
+(b) if an exclusive licence of the copyright is in force at the time of the infringement — the exclusive licensee.
+
+(2) The exclusive licensee’s right of action under subsection (1)(b) is concurrent with the copyright owner’s right of action under subsection (1)(a).
+
+(3) This section does not —
+
+(a) give an exclusive licensee any right against a copyright owner; or
+
+(b) affect any right that an exclusive licensee has against a copyright owner.

@@ -1,24 +1,19 @@
-# 248. Exempt recordings cease to be exempt recordings in certain circumstances
-Part: PART XII PERFORMERS’ PROTECTION
+# 248. Communication by other analogue or non-interactive digital transmission
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 9 — Communication of sound recordings and recordings of protected performances
 
-(1) If any recording of a performance, being a recording that is an exempt recording under paragraph (j) of the definition of ‘‘exempt recording’’ in section 246 (1), is not destroyed —
+(1) If the conditions in subsection (2) are met, it is a permitted use for a person (X) to communicate —
 
-(a) before the expiration of the period of 6 months or, in the case of a recording made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which the recording is first used for broadcasting the performance; or
+(a) a sound recording; or
 
-(b) before the expiration of such further period, if any, as is agreed between the maker of the recording and the performer of the performance, the recording shall, at the end of that period, cease to be an exempt recording.
+(b) a recording of a protected performance.
 
-[38/99]
+(2) The conditions are —
 
-(2) If any copy of a recording of a performance, being an exempt recording under paragraph (m) of the definition of ‘‘exempt recording’’ in section 246 (1), is not destroyed —
+(a) the communication is an analogue transmission (but not an analogue broadcast); or
 
-(a) before the expiration of the period of 6 months or, in the case of a copy made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which the copy is first used for broadcasting the performance; or
+(b) the communication is a digital transmission (but not a digital broadcast) that is not part of an interactive service, and X pays to the rights owner equitable remuneration of an amount —
 
-(b) before the expiration of such further period, if any, as is agreed between the maker of the copy and the performer of the performance, the copy of the recording shall, at the end of that period, cease to be an exempt recording.
+(i) agreed between them; or
 
-[38/99]
-
-(3) A recording or a copy of such a recording that is an exempt recording because it was made for a purpose referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i) of the definition of ‘‘exempt recording’’ in section 246 (1), ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
-
-[6/98]
-
-[Aust. 1968, s. 248C]
+(ii) in default of agreement, decided by a Copyright Tribunal.

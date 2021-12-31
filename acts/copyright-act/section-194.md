@@ -1,30 +1,19 @@
-# 194. Assignments and licences in respect of copyright
-Part: PART X MISCELLANEOUS
+# 194. Deemed fair use where reasonable portion copied for research or study
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 2 — Fair use
 
-(1) Subject to this section, copyright shall be transmissible by assignment, by testamentary disposition, or by operation of law as personal or movable property.
+(1) Making a copy of a literary, dramatic or musical work for the purpose of research or study is deemed to be a fair use (and section 191 does not apply) if —
 
-(2) An assignment of copyright may be limited in any of the following ways, or in any combination of 2 or more of those ways:
+(a) the work is an article in a periodical publication; or
 
-(a) so as to apply to one or more, but not all, of the classes of acts which by virtue of this Act the owner of the copyright has the exclusive right to do (including any one or more classes of acts not separately designated in this Act as being restricted by the copyright, but falling within any of the classes of acts so designated);
+(b) no more than a reasonable portion of the work is copied.
 
-(b) so as to apply to any one or more, but not all, of the countries in relation to which the owner of the copyright has by virtue of this Act that exclusive right;
+(2) Subsection (1) does not apply to making a copy of an article in a periodical publication if —
 
-(c) so as to apply to part, but not the whole, of the period for which the copyright is to subsist, and references in this Act to a partial assignment are references to an assignment so limited.
+(a) another article in that publication is also copied; and
 
-(3) No assignment of copyright (whether total or partial) shall have effect unless it is in writing signed by or on behalf of the assignor.
+(b) the copied articles deal with different subject matters.
 
-(4) Subject to subsection (4A), a licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser.
+(3) To avoid doubt, this section does not limit what would otherwise be a fair use.
 
-[21/2004]
-
-(4A) A licence granted to the Government or any statutory board on or after 1st July 2004* in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright.
-
-[21/2004]
-
-(5) References in this Act, in relation to any copyright, to the doing of anything with, or (as the case may be) without, the licence of the owner of the copyright shall be construed accordingly.
-
-(6) In this section, ‘‘statutory board’’ means any body corporate established by or under any written law to perform or discharge a public function.
-
-[21/2004]
-
-[Aust. 1968, s. 196]
+Division 3 — Education and educational institutions

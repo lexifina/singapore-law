@@ -1,9 +1,32 @@
-# 71. Reproduction of part of work in later work
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 9 — Acts not Constituting Infringements of Copyright in Artistic Works
+# 71. Causing by operating receiving apparatus
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (7) — Causing visual images to be seen or sounds to be heard
 
-(1) The copyright in an artistic work is not infringed by the making of a later artistic work by the same author if, in making the later work, the author does not repeat or imitate the main design of the earlier work.
+(1) This section applies where —
 
-(2) Subsection (1) shall have effect notwithstanding that part of the earlier work is reproduced in the later work and that, in reproducing the later work, the author used a mould, cast, sketch, plan, model or study made for the purposes of the earlier work.
+(a) any device or equipment is operated to communicate, directly or indirectly, visual images or sounds to a receiving apparatus; and
 
-[Aust. 1968, s. 72]
+(b) those images are displayed, or those sounds are emitted, by a receiving apparatus.
+
+(2) The operation of the device or equipment is not to be treated as causing those images to be seen or those sounds to be heard.
+
+(3) Insofar as the display of those images causes those images to be seen, those images are deemed to be caused to be seen —
+
+(a) by the operation of the receiving apparatus; and
+
+(b) by the occupier of the premises where the receiving apparatus is situated —
+
+(i) whether or not the occupier operated the receiving apparatus; but
+
+(ii) only if the receiving apparatus is provided by or with the consent of the occupier.
+
+(4) Insofar as the emission of those sounds causes those sounds to be heard, those sounds are deemed to be caused to be heard —
+
+(a) by the operation of the receiving apparatus; and
+
+(b) by the occupier of the premises where the receiving apparatus is situated —
+
+(i) whether or not the occupier operated the receiving apparatus; but
+
+(ii) only if the receiving apparatus is provided by or with the consent of the occupier.

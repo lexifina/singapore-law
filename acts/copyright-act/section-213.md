@@ -1,27 +1,55 @@
-# 213. Ownership of copyright
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 2 — Original Works
+# 213. Receiving, importing or distributing accessible format copies from foreign institutions
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-(1) Section 30 (4) and (6) shall not apply in relation to works made before 10th April 1987.
+(1) If the conditions in subsection (2) are met, it is a permitted use of any relevant material to —
 
-(2) Section 30 (5) shall not apply in relation to a work that was or is made in pursuance of an agreement made before 10th April 1987.
+(a) make a temporary electronic copy of the material incidentally to the technical process of receiving an electronic copy of the material from a foreign institution
 
-(3) Where a work is excluded from the application of section 30 (4),
+(F) aiding persons with print disabilities;
 
-(5) or (6) by reason of either of subsection (1) or (2), section 30 (2) shall have effect in relation to the work subject to subsections (4) to (8).
+(b) import a physical copy of the material that originated from F; or
 
-(4) The operation of any of subsections (5) to (8) in relation to a particular work may be excluded or modified by agreement.
+(c) distribute a physical copy of the material that originated from F to a Singapore resident, being a person with a print disability, on a non-profit basis.
 
-(5) Where, in the case of a work being a photograph, portrait or engraving —
+(2) The conditions are —
 
-(a) a person made, for valuable consideration, an agreement with another person for the taking of the photograph, the painting or drawing of the portrait or the making of the engraving by the other person; and
+(a) the copy is an accessible format copy;
 
-(b) the work was made in pursuance of the agreement, the first-mentioned person is the owner of any copyright subsisting in the work by virtue of Part III.
+(b) the copy is made, imported or distributed by or on behalf of —
 
-(6) Where the work was made by the author in pursuance of the terms of his employment by another person under a contract of service or apprenticeship, that other person is the owner of any copyright subsisting in the work by virtue of Part III.
+(i) the body (B) administering an institution aiding persons with print disabilities; or
 
-(7) Where the work is a literary, dramatic or artistic work that was made by the author in pursuance of the terms of his employment by the proprietor of a newspaper, magazine or similar periodical under a contract of service or apprenticeship and was so made for the purpose of publication in a newspaper, magazine or similar periodical, the author is entitled to restrain the publication of the work otherwise than in a newspaper, magazine or similar periodical.
+(ii) an educational institution (E);
 
-(8) In subsections (5), (6) and (7), expressions that are defined by section 205 shall have the meanings respectively given to those expressions by that section and shall not have the meanings, if any, respectively given to those expressions by Part II.
+(c) the copy is requested by B or E from F;
 
-[Aust. 1968, s. 213]
+(d) the copy is requested —
+
+(i) for a person with a print disability to use the copy for personal research or study or for self-instruction in any matter; or
+
+(ii) for the purpose of distributing the copy on a non-profit basis —
+
+(A) in the case of B — to a person with a print disability, so that the person can use the copy for the purposes of research or study or for self-instruction in any matter; or
+
+(B) in the case of E — to a student of E (being a person with a print disability), so that the student can use the copy for the purposes of research or study or for self-instruction in any matter;
+
+(e) before the copy is made, imported or distributed, B or E (or a person acting on behalf of B or E) —
+
+(i) makes a reasonable investigation; and
+
+(ii) is satisfied that there is no new copy of the material that —
+
+(A) has been separately published;
+
+(B) is in the same accessible format as the copy;
+
+and
+
+(C) could be obtained within a reasonable time at an ordinary commercial price;
+
+(f) as soon as practicable after the copy is received, the prescribed record is made by or on behalf of B or E; and
+
+(g) any other condition that may be prescribed.
+
+(3) To avoid doubt, it does not matter whether the physical copy mentioned in subsection (1)(b) and (c) is made before, on or after 21 November 2021.

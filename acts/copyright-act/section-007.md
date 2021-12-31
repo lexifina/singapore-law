@@ -1,382 +1,204 @@
-# 7. Interpretation
-Part: PART II INTERPRETATION
+# 7. General interpretation
+Part: PART 2 INTERPRETATION Division 1 — General
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘accessory’’, in relation to an article, means one or more of the following:
+“1911 Act” means the Copyright Act 1911 of the United Kingdom (U.K. 1911, c. 46) insofar as that Act has effect as part of the law of Singapore;
 
-(a) a label affixed to, or displayed on, the article;
+“1987 Act” means the Copyright Act (Cap. 63, 2006 Revised Edition) repealed by this Act;
 
-(b) the packaging or container in which the article is packaged or contained;
+“action” means a civil action and includes a counterclaim;
 
-(c) a label affixed to, or displayed on, the packaging or container in which the article is packaged or contained;
+“adaptation” —
 
-(d) a leaflet, pamphlet, certificate, warranty, brochure, written instruction or other information incidental to the article and provided with the article on its sale;
+(a) in relation to a literary or dramatic work, has the meaning given by section 17; and
 
-(e) an instructional sound recording or cinematograph film incidental to the article and provided with the article on its sale, but does not include —
+(b) in relation to a musical work, has the meaning given by section 18;
 
-(i) a copy of a work that is incorporated into the surface of the article and is a permanent part of the article;
+“archive” has the meaning given by section 92;
 
-(ii) a copy of a work that cannot be separated from the article without rendering the article unsuitable for its ordinary use; or
+“article” includes a copy, in electronic form, of a work;
 
-(iii) a manual sold with computer software for use in connection with that software;
+“artistic work” has the meaning given by section 20(1);
 
-‘‘adaptation’’ —
+“authorial work” has the meaning given by section 9;
 
-(a) in relation to a literary work in a non-dramatic form, means a version of the work (whether in its original language or in a different language) in a dramatic form;
+“authorised officer”, in relation to a public collection, has the meaning given by section 94;
 
-(b) in relation to a literary work in a dramatic form, means a version of the work (whether in its original language or in a different language) in a non-dramatic form;
+“body administering an educational institution” has the meaning given by section 84;
 
-(c) in relation to a literary work being a computer program, means a version of the work (whether or not in the language, code or notation in which the work was originally expressed) not being a reproduction of the work;
+“body administering an institution aiding persons with intellectual disabilities” has the meaning given by section 90;
 
-(d) in relation to a literary work (whether in a non-dramatic form or dramatic form), means —
+“body administering an institution aiding persons with print disabilities” has the meaning given by section 87;
 
-(i) a translation of the work; or
+“broadcast” has the meanings given by sections 27 and 28;
 
-(ii) a version of the work in which a story or action is conveyed solely or principally by means of pictures; and
+“broadcasting licence” and “broadcasting licensee” have the meanings given by section 2(1) of the Broadcasting Act 1994;
 
-(e) in relation to a musical work, means an arrangement or transcription of the work;
+“building” has the meaning given by section 20(2);
 
-‘‘archives’’ means —
+“cable programme” has the meaning given by section 34;
 
-(a) archival material in the custody of the National Archives of Singapore established under section 17 of the National Heritage Board Act (Cap. 196A);
+“cable programme service” has the meaning given by section 35(1);
 
-(b) a collection of documents or other material to which this paragraph applies by virtue of subsection (4);
+“commercial advantage”, in relation to an act, has the meaning given by section 74;
 
-‘‘artistic work’’ means —
+“commercial dealing” has the meaning given by section 73(2);
 
-(a) a painting, sculpture, drawing, engraving or photograph, whether the work is of artistic quality or not;
+“commercial rental arrangement”, in relation to a computer program or a sound recording, has the meaning given by section 75;
 
-(b) a building or model of a building, whether the building or model is of artistic quality or not; or
+“communicate” and “communication” have the meanings given by section 61;
 
-(c) a work of artistic craftsmanship to which neither paragraph (a) nor (b) applies, but does not include a layout-design or an integrated circuit within the meaning of section 2 (1) of the Layout-Designs of Integrated Circuits Act (Cap. 159A);
+“compilation” has the meaning given by section 13(2);
 
-‘‘author’’, in relation to a photograph, means the person who took the photograph;
+“computer program” has the meaning given by section 13(3);
 
-‘‘broadcast’’ means broadcast by wireless telegraphy, and ‘‘broadcasting’’ shall have a corresponding meaning;
+“construction” includes erection and “reconstruction” has a corresponding meaning;
 
-‘‘broadcasting licence’’ and ‘‘broadcasting licensee’’ have the same meanings as in section 2 (1) of the Broadcasting Act (Cap. 28);
+“contract of service” has the meaning given by section 2(1) of the Employment Act 1968;
 
-‘‘building’’ includes a structure of any kind;
+“copy” has the meanings given by the provisions in Subdivision (2) of Division 3 of Part 2;
 
-‘‘cable programme’’ means a programme which is included in a cable programme service;
+“Copyright Tribunal” or “Tribunal” means a Copyright Tribunal established under this Act;
 
-‘‘cable programme service’’ means a service which consists wholly or mainly in the sending by any person, by means of a telecommunication system (whether run by him or by any other person), of sounds or visual images or both either —
+“copyright work” means a work in which copyright subsists;
 
-(a) for reception, otherwise than by wireless telegraphy, at 2 or more places in Singapore, whether they are so sent for simultaneous reception or at different times in response to requests made by different users of the service; or
+“Court” means a court of competent jurisdiction;
 
-(b) for reception, by whatever means, at a place in Singapore for the purpose of their being presented there either to members of the public or to any group of persons;
+“custodian”, in relation to a public collection, has the meaning given by section 93;
 
-‘‘cinematograph film’’ means the aggregate of visual images embodied in an article or thing so as to be capable by the use of that article or thing —
+“deal commercially” has the meaning given by section 73(1);
 
-(a) of being shown as a moving picture; or
+“Director of National Archives” means the Director of National Archives appointed under section 15(1) of the National Library Board Act 1995;
 
-(b) of being embodied in another article or thing by the use of which it can be so shown, and includes the aggregate of the sounds embodied in a sound-track associated with such visual images;
+“dramatic work” has the meaning given by section 15;
 
-‘‘citizen of Singapore’’ includes a person who, if he had been alive on 1st November 1957, would have qualified for Singapore citizenship under the Singapore Citizenship Ordinance 1957 (Ord. 35/57);
+“drawing” has the meaning given by section 20(2);
 
-‘‘communicate’’ means to transmit by electronic means (whether over a path, or a combination of paths, provided by a material substance or by wireless means or otherwise) a work or other subject-matter, whether or not it is sent in response to a request, and includes —
+“edition of an authorial work” includes an edition of authorial works;
 
-(a) the broadcasting of a work or other subject-matter;
+“educational institution” has the meaning given by section 83;
 
-(b) the inclusion of a work or other subject-matter in a cable programme; and
+“electronic” means actuated by electric, magnetic, electro-magnetic, electro-chemical or electro-mechanical energy;
 
-(c) the making available of a work or other subject-matter (on a network or otherwise) in such a way that the work or subject-matter may be accessed by any person from a place and at a time chosen by him, and ‘‘communication’’ shall have a corresponding meaning;
+“electronic copy”, in relation to a work or a recording of a protected performance, means a copy of the work or recording in an electronic form;
 
-‘‘computer program’’ means an expression, in any language, code or notation, of a set of instructions (whether with or without related information) intended, either directly or after either or both of the following:
+“engraving” has the meaning given by section 20(2);
 
-(a) conversion to another language, code or notation;
+“exclusive licence” and “exclusive licensee” have the meanings given by section 103;
 
-(b) reproduction in a different material form, to cause a device having information processing capabilities to perform a particular function;
+“film” —
 
-‘‘construction’’ includes erection and ‘‘reconstruction’’ shall have a corresponding meaning;
+(a) has the meaning given by section 24(1); and
 
-‘‘conveyance’’ has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
+(b) in relation to a television broadcast, has the meaning given by section 46(2);
 
-‘‘copy’’, in relation to a cinematograph film, means any article or thing in which the visual images or sounds comprising the film are embodied;
+“flagrantly infringing online location” has the meaning given by section 99;
 
-‘‘Copyright Act 1911’’ means the Copyright Act 1911* of the United Kingdom (U.K. 1911 c. 46) insofar as it has effect as part of the law of Singapore;
+“for-profit” means operated or conducted, directly or indirectly, for profit;
 
-‘‘Copyright Tribunal’’ or ‘‘Tribunal’’ means the Copyright Tribunal established under Part VII;
+“foreign institution aiding persons with print disabilities” has the meaning given by section 88;
 
-‘‘digital audio transmission’’ means a transmission of a sound recording, in whole or in part, in a digital or other non-analogue form;
+“future copyright” has the meaning given by section 140(3);
 
-‘‘dramatic work’’ includes —
+“in electronic form” means in a form usable only by electronic means;
 
-(a) a choreographic show or other dumb show if described in writing in the form in which the show is to be presented; and
+“infringing copy” has the meaning given by section 98;
 
-(b) a scenario or script for a cinematograph film, but does not include a cinematograph film as distinct from the scenario or script for a cinematograph film;
+“institution” includes an educational institution;
 
-‘‘drawing’’ includes any diagram, map, chart or plan;
+“institution aiding persons with intellectual disabilities” has the meaning given by section 89;
 
-‘‘educational institution’’ means —
+“institution aiding persons with print disabilities” has the meaning given by section 86;
 
-(a) a school or similar institution at which one or more of the following is provided:
+“IPOS” means the Intellectual Property Office of Singapore established by the Intellectual Property Office of Singapore Act 2001;
 
-(i) full-time primary education;
+“literary work” has the meaning given by section 13(1);
 
-(ii) full-time secondary education;
+“National Archives” has the meaning given by section 2 of the National Library Board Act 1995;
 
-(iii) full-time pre-university education;
+“National Heritage Board” means the National Heritage Board established by the National Heritage Board Act 1993;
 
-(iv) such other full-time education as may be prescribed by regulations made under this Act;
+“National Library Board” means the National Library Board established by the National Library Board Act 1995;
 
-*Repealed by section 203 of the Copyright Act 1987 (Act 2 of 1987), which is omitted in this Edition.
+“non-profit” means not operated or conducted, directly or indirectly, for profit;
 
-(b) a junior college, a university, a college of advanced education or a technical and further education institution;
+“on demand” has the meaning given by section 62;
 
-(c) an institution that conducts courses of primary, secondary, pre-university or tertiary education by correspondence or on an external study basis;
+“organisation” means an organisation or association of persons (whether corporate or unincorporate);
 
-(d) a school of nursing;
+“paying audience”, in relation to a television broadcast or cable programme, has the meaning given by section 76(1);
 
-(e) an undertaking within a hospital, being an undertaking that conducts courses of study or training in —
+“perform” and “performance”, in relation to an authorial work, have the meanings given by section 67;
 
-(i) the provision of medical services; or
+“periodical publication” means an issue of a periodical publication and “same periodical publication” has a corresponding meaning;
 
-(ii) the provision of services incidental to the provision of medical services;
+“person with a print disability” has the meaning given by section 85;
 
-(f) a teacher education centre;
+“photograph” has the meaning given by section 20(2);
 
-(g) an institution that has, as its principal function, the provision of courses of study or training for the purpose of —
+“premises” includes any land, building, structure and conveyance;
 
-(i) general education;
+“prescribed international organisation” has the meaning given by section 81(2);
 
-(ii) the preparation of persons for a particular occupation or profession; or
+“prospective owner”, in relation to a future copyright, means —
 
-(iii) the continuing education of persons engaged in a particular occupation or profession;
+(a) in relation to a future copyright that is not assigned —
 
-(h) such other institution at which education is provided as may be declared by regulations made under this Act to be an institution to which this paragraph applies;
+the person who would be the first owner of the copyright under the provisions of this Act when the copyright comes into existence; and
 
-(i) an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (h), being an undertaking that has as its principal function, or as one of its principal functions, the provision of teacher training for persons engaged as instructors in educational institutions of such a kind, or of 2 or more such kinds;
+(b) in relation to a future copyright that is assigned — the assignee in whom the copyright will vest under the assignment when the copyright comes into existence;
 
-(j) an institution, or an undertaking within a body administering an educational institution of a kind referred to in paragraphs (a) to (i), being an institution or undertaking that has as its principal function, or as one of its principal functions, the furnishing of materials to educational institutions of a kind referred to in paragraphs (a) to (i), or to educational institutions of 2 or more such kinds, for the purpose of assisting those institutions in their teaching purposes, but does not include an institution that is conducted for the profit, direct or indirect, of an individual or individuals;
+“protected performance” means a performance that is protected under Part 4;
 
-‘‘electronic copy’’, in relation to any work or other subject- matter, means a copy of the work or subject-matter in an electronic form;
+“protection period”, in relation to a performance, means the period for which the performance is protected under section 174;
 
-‘‘engraving’’ includes an etching, lithograph, product of photogravure, woodcut, print or similar work, not being a photograph;
+“provisions of this Act” does not include subsidiary legislation made under this Act;
 
-‘‘exclusive licence’’ means a licence in writing, signed by or on behalf of the owner or prospective owner of copyright, authorising the licensee, to the exclusion of all other persons, to do an act that, by virtue of this Act, the owner of the copyright would, but for the licence, have the exclusive right to do, and ‘‘exclusive licensee’’ shall have a corresponding meaning;
+“public body” has the meaning given by section 2(1) of the Public Sector (Governance) Act 2018;
 
-‘‘future copyright’’ means copyright to come into existence at a future time or upon the happening of a future event;
+“public collection” has the meaning given by section 91;
 
-‘‘handicapped reader’’ means —
+“qualified individual” has the meaning given by section 77;
 
-(a) a blind person;
+“qualified person” has the meaning given by section 78;
 
-(b) a person suffering severe impairment of his sight;
+“qualifying performance” has the meaning given by section 37(1);
 
-(c) a person unable to hold or manipulate books or to focus or move his eyes; or
+“re-transmission”, in relation to a broadcast, has the meaning given by section 65;
 
-(d) a person suffering from a perceptual handicap;
+“receiving apparatus” means any device or equipment that, if operated alone or together with any other device or equipment, enables people to see or hear a work that is communicated;
 
-‘‘infringing copy’’ —
+“record” means a disc, tape, paper or other device in which sounds are embodied;
 
-(a) in relation to a work, means a reproduction of the work, or of an adaptation of the work, not being a copy of a cinematograph film of the work or adaptation;
+“recording”, in relation to a protected performance, has the meaning given by section 38(1);
 
-(b) in relation to a sound recording, means a copy of the sound recording not being a sound-track associated with visual images forming part of a cinematograph film;
+“rights infringement” has the meaning given by section 97;
 
-(c) in relation to a cinematograph film, means a copy of the film;
+“rights owner” has the meaning given by section 96;
 
-(d) in relation to a television broadcast, sound broadcast or cable programme, means a copy of a cinematograph film of the broadcast or programme or a record embodying a sound recording of the broadcast or programme; and
+“sculpture” has the meaning given by section 20(2);
 
-(e) in relation to a published edition of a work, means a reproduction of the edition, being an article the making of which constituted an infringement of the copyright in the work, recording, film, broadcast, programme or edition or, in the case of an article imported without the licence of the owner of the copyright, the making of which was carried out without the consent of the owner of the copyright;
+“Singapore resident” has the meaning given by section 79;
 
-‘‘institution’’ includes an educational institution;
+“sound broadcast” has the meaning given by section 30;
 
-‘‘institution assisting handicapped readers’’ means —
+“sound recording” has the meaning given by section 21;
 
-(a) an educational institution; or
+“soundtrack”, in relation to a film, has the meaning given by section 24(2)(c);
 
-(b) any other institution, not being an institution conducted for profit, direct or indirect, of an individual or individuals, that has as its principal function, or one of its principal functions, the provision of literary or dramatic works to handicapped readers and that is declared by regulations made under this Act to be, for the purposes of this Act, an institution assisting handicapped readers;
+“sounds”, in relation to a film, has the meaning given by section 24(2)(b);
 
-‘‘institution assisting intellectually handicapped readers’’ means —
+“television broadcast” has the meaning given by section 29;
 
-(a) any educational institution; or
+“visual images”, in relation to a film, has the meaning given by section 24(2)(a);
 
-(b) any non-profit organisation, that has as its principal function, or one of its principal functions, the provision of assistance to intellectually handicapped persons and that is declared by regulations made under this Act to be, for the purposes of this Act, an institution assisting intellectually handicapped readers;
+“wireless telegraphy” means the emitting or receiving, otherwise than over a path that is provided by a material substance, of electro-magnetic energy;
 
-‘‘international organisation to which this Act applies’’ means an organisation that is declared by the regulations made for the purposes of section 185 to be an international organisation to which this Act applies, and includes —
+“work” has the meaning given by section 8;
 
-(a) an organ of, or office within, an organisation that is so declared; and
+“work of joint authorship” has the meaning given by section 10;
 
-(b) a commission, council or other body established by such an organisation or organ;
+“working day” means any day other than a Saturday, Sunday or public holiday.
 
-‘‘judicial proceeding’’ means a proceeding before any court, tribunal or person having by law power to hear, receive and examine evidence on oath;
-
-‘‘manuscript’’, in relation to a work, means an original document embodying the work, whether written by hand or not;
-
-‘‘minimum royalty’’, in relation to a record, means the amounts applicable in respect of the record under sections 57 (3) and 58 (b) (i) or, if those provisions are affected by regulations made for the purposes of section 59, under those provisions as so affected;
-
-‘‘non-profit organisation’’ means an organisation or association or persons, whether corporate or unincorporate, that is not operated or conducted for profit;
-
-‘‘Office’’ means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
-
-‘‘photograph’’ means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, and ‘‘photography’’ shall have a corresponding meaning;
-
-‘‘plate’’ includes a stereotype, stone, block, mould, matrix, transfer, negative or other similar appliance;
-
-‘‘programme’’, in relation to a cable programme service, includes any item included in that service;
-
-‘‘prospective owner’’ —
-
-(a) in relation to a future copyright that is not the subject of an agreement of a kind referred to in section 195 (1), means the person who will be the owner of the copyright on its coming into existence; or
-
-(b) in relation to a future copyright that is the subject of such an agreement, means the person in whom, by virtue of that section, the copyright will vest on its coming into existence;
-
-‘‘receiving apparatus’’ means any device or equipment the operation of which, either alone or together with any other device or equipment, enables people to hear or see a work or other subject-matter that is communicated;
-
-‘‘record’’ means a disc, tape, paper or other device in which sounds are embodied;
-
-‘‘regulations’’ means the regulations made under this Act;
-
-‘‘re-transmission’’, in relation to a broadcast, means a re-transmission of the broadcast without altering the contents of the broadcast, whether the re-transmission is simultaneous with the original transmission or whether the technique that is used to achieve the re-transmission is different from that used to achieve the original transmission;
-
-‘‘royalty’’, in relation to a record, means the amount applicable in respect of the record under section 57 (1) or, if that provision is affected by regulations made for the purposes of section 59, under that provision so affected;
-
-‘‘sculpture’’ includes a cast or model made for purposes of sculpture;
-
-‘‘simulcasting’’, in relation to a work, an adaptation of a work, a sound recording or a cinematograph film, means simultaneously broadcasting the work, adaptation, recording or film in both analogue form and digital form;
-
-‘‘sound broadcast’’ means sounds broadcast otherwise than as part of a television broadcast;
-
-‘‘sound recording’’ means the aggregate of the sounds embodied in a record;
-
-‘‘sound-track’’, in relation to visual images forming part of a cinematograph film, means —
-
-(a) the part of any article or thing (being an article or thing in which those visual images are embodied) in which sounds are embodied; or
-
-(b) a disc, tape or other device in which sounds are embodied and which is made available by the maker of the film for use in conjunction with the article or thing in which those visual images are embodied;
-
-‘‘sufficient acknowledgment’’, in relation to a work, means an acknowledgment identifying the work by its title or other description and, unless the work is anonymous or pseudonymous or the author has previously agreed or directed that an acknowledgment of his name is not to be made, also identifying the author;
-
-‘‘telecommunication apparatus’’ means apparatus constructed or adapted for use in transmitting or receiving —
-
-(a) speech, music and other sounds;
-
-(b) visual images;
-
-(c) signals serving for the impartation (whether as between persons and persons, things and things or persons and things) of any matter otherwise than in the form of sounds or visual images; or
-
-(d) signals serving for the actuation or control of machinery or apparatus, which is to be or has been conveyed by means of a telecom- munication system;
-
-‘‘telecommunication system’’ means a system for the conveyance, through the agency of electric, magnetic, electro-magnetic, electro-chemical or electro-mechanical energy, of —
-
-(a) speech, music and other sounds;
-
-(b) visual images;
-
-(c) signals serving for the impartation (whether as between persons and persons, things and things or persons and things) of any matter otherwise than in the form of sounds or visual images; or
-
-(d) signals serving for the actuation or control of machinery or apparatus;
-
-‘‘television broadcast’’ means visual images broadcast by way of television, together with any sounds broadcast for reception along with those images;
-
-‘‘wireless telegraphy’’ means the emitting or receiving, otherwise than over a path that is provided by a material substance, of electro-magnetic energy;
-
-‘‘wireless telegraphy apparatus’’ means an appliance or apparatus for the purpose of transmitting or receiving sounds or visual images by means of wireless telegraphy;
-
-‘‘will’’ includes a codicil;
-
-‘‘work’’ means a literary, dramatic, musical or artistic work;
-
-‘‘work of joint authorship’’ means a work that has been produced by the collaboration of 2 or more authors and in which the contribution of each author is not separate from the contribution of the other author or the contributions of other authors;
-
-‘‘writing’’ means a mode of representing or reproducing words, figures or symbols in a visible form, and ‘‘written’’ shall have a corresponding meaning.
-
-[14/94; 15/94; 6/98; 3/99; 38/99; 3/2001; 34/2002; 52/2004]
-
-(1A) Without limiting the meaning of the expression ‘‘educational purposes’’ in this Act, a copy of the whole or a part of a work or other subject-matter shall be taken to have been made, used or retained, as the case may be, for the educational purposes of an educational institution if —
-
-(a) it is made or retained for use, or is used, in connection with a particular course of instruction provided by the institution;
-
-or
-
-(b) it is made or retained for inclusion, or is included, in the collection of a library of the institution.
-
-[6/98]
-
-(2) Without limiting the meaning of the expression ‘‘reasonable portion’’ in this Act, where a literary, dramatic or musical work is contained in a published edition of that work, being an edition of not less than 10 pages, a copy of part of that work, as it appears in that edition, shall be taken to contain only a reasonable portion of that work if the pages that are copied in the edition —
-
-(a) do not exceed, in the aggregate, 10% of the number of pages in that edition; or
-
-(b) in a case where the work is divided into chapters — exceed, in the aggregate, 10% of the number of pages in that edition but contain only the whole or part of a single chapter of the work.
-
-(2A) Without limiting the meaning of the expression ‘‘reasonable portion’’ in this Act, where a literary, dramatic or musical work is contained in a published edition of that work, being an edition which is stored on any medium by electronic means and is not divided into pages, a copy of part of that work, as it appears in that edition, shall be taken to contain only a reasonable portion of that work if the part that is copied in the edition —
-
-(a) does not exceed, in the aggregate —
-
-(i) 10% of the total number of bytes in that edition; or
-
-(ii) 10% of the total number of words in that edition or, where it is not practicable to use the total number of words as a measure, 10% of the contents of that edition; or
-
-(b) in a case where the work is divided into chapters, exceeds, in the aggregate —
-
-(i) 10% of the total number of bytes in that edition; or
-
-(ii) 10% of the total number of words in that edition or, where it is not practicable to use the total number of words as a measure, 10% of the contents of that edition, but contains only the whole or part of a single chapter of the work.
-
-[38/99; 52/2004]
-
-(3) In this Act, unless the contrary intention appears —
-
-(a) a reference to the body administering an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as —
-
-(i) in a case where the institution is a body corporate, a reference to the institution; or
-
-(ii) in any other case, a reference to the body or person (including the Government) having ultimate responsibility for the administration of the institution;
-
-(b) a reference to the body administering a library or archives shall be read as a reference to the body (whether incorporated or not), or the person (including the Government), having ultimate responsibility for the administration of the library or archives;
-
-(c) a reference to a copy of a sound recording shall be read as a reference to a record embodying a sound recording or a substantial part of a sound recording being a record derived, directly or indirectly, from a record produced upon the making of a sound recording;
-
-(d) a reference to the copying records of an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as a reference to the collection of —
-
-(i) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 52;
-
-(ii) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 54;
-
-(iii) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 54A, other than any such records as have been duly destroyed by, or by authority of, the body administering that institution;
-
-(e) a reference to the custodian in charge of the copying records of an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as a reference to the person having responsibility for the day-to-day administration of the institution;
-
-(f) a reference to the making, by reprographic reproduction, of a copy of a document, or of the whole or a part of a work, shall be read as a reference to the making of a facsimile copy of the document or the whole or that part of the work, being a facsimile copy of any size or form;
-
-(g) a reference to a handicapped reader’s copy of a work, or of a part of a work, shall be read as a reference to —
-
-(i) a record embodying a sound recording of the work, or of the part of the work, being a record that was made by, or on behalf of, the body administering an institution assisting handicapped readers for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake or for the purpose of instructing himself on any matter; or
-
-(ii) a Braille version, large-print version or photographic version of the work, or of the part of the work, being a Braille version, large-print version or photographic version, as the case may be, made by, or on behalf of, the body administering the institution assisting handicapped readers for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake or for the purpose of instructing himself on any matter;
-
-(h) a reference to an intellectually handicapped reader’s copy of a work, or of a part of a work, shall be read as a reference to a copy of a work, or of a part of a work, as the case may be, made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons, being a copy that is made for the sole purpose of use in the provision, whether by the institution or otherwise, of assistance to any intellectually handicapped person;
-
-(i) a reference to a microform copy of the whole or a part of a work shall be read as a reference to a copy of the whole or part of the work produced by miniaturizing the graphic symbols of which the work is composed;
-
-(j) a reference to a periodical publication shall be read as a reference to an issue of a periodical publication and a reference to articles contained in the same periodical publication shall be read as a reference to articles contained in the same issue of that periodical publication;
-
-(k) a reference to a record embodying a sound recording shall be read as a reference to —
-
-(i) a record produced upon the making of a sound recording; or
-
-(ii) another record embodying the sound recording, directly or indirectly, derived from a record so produced;
-
-(l) a reference to a relevant record, or a relevant declaration, in relation to the making, in reliance on a particular section —
-
-(i) of a copy, a handicapped reader’s copy, or an intellectually handicapped reader’s copy, of the whole or a part of a work; or
-
-(ii) of a copy of a sound recording, shall be read as a reference to any record or declaration of a kind referred to in that section that is required by this Act to be made in relation to the making of that copy.
-
-[6/98; 38/99]
-
-(4) Where —
-
-(a) a collection of documents or other material of historical significance or public interest that is in the custody of a body, whether corporate or unincorporate, is being maintained by the body for the purpose of conserving and preserving those documents or other material; and
-
-(b) the body does not maintain and operate the collection for the purpose of deriving a profit, paragraph (b) of the definition of ‘‘archives’’ in subsection (1) shall apply to that collection.
-
-(5) For the purposes of this Act, telecommunication apparatus which is situated in Singapore and —
-
-(a) is connected to but not comprised in a telecommunication system; or
-
-(b) is connected to and comprised in a telecommunication system which extends beyond Singapore, shall be regarded as a telecommunication system and any person who controls the apparatus shall be regarded as running the system.
-
-[Aust. 1968, s. 10]
+(2) Unless the context otherwise requires, the provisions of this Part apply to and for the purposes of this Act.

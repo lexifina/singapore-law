@@ -1,38 +1,51 @@
-# 149. Interpretation of this Part
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
+# 149. Accessory to imported article to be ignored for purposes of sections 147 and 148 in certain circumstances
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
 
-(1) In this Part, unless the contrary intention appears —
+(1) This section applies where —
 
-‘‘licence’’ —
+(a) an imported article includes an accessory;
 
-(a) in relation to a literary, dramatic or musical work, means a licence granted by or on behalf of the owner or prospective owner of the copyright in the work to perform the work or an adaptation of the work in public, to broadcast the work or an adaptation of the work, to make a sound recording or cinematograph film of the work or an adaptation of the work for the purpose of broadcasting the work or adaptation or including it in a cable programme service; or
+(b) the accessory is or embodies any of the following material:
 
-(b) in relation to a computer program or sound recording, means a licence granted by or on behalf of the owner or prospective owner of the copyright in the program or recording to enter a commercial rental arrangement in respect of the program or recording;
+(i) an authorial work;
 
-‘‘licence scheme’’ means a scheme (including anything in the nature of a scheme, whether called a scheme or tariff or called by any other name) formulated by a licensor or licensors and setting out the classes of cases in which the licensor or each of the licensors is willing, or the persons on whose behalf the licensor or each of the licensors acts are willing, to grant licences and the charges (if any) subject to payment of which, and the conditions subject to which, licences would be granted in those classes of cases;
+(ii) a published edition of an authorial work;
 
-‘‘licensor’’ means the owner or prospective owner of the copyright in the work or any body of persons (whether corporate or unincorporate) acting as agent for the owner or prospective owner in relation to the negotiation or granting of such licences;
+(iii) a sound recording;
 
-‘‘member’’ means a member of the Tribunal, and includes the President of the Tribunal;
+(iv) a film;
 
-‘‘order’’ includes an interim order;
+(c) copyright subsists in the material; and
 
-‘‘organisation’’ means an organisation or association of persons whether corporate or unincorporate;
+(d) the article (considered apart from the accessory) is not an infringing copy.
 
-‘‘party’’ includes a person or organisation making representations to the Tribunal at an inquiry under section 157;
+(2) Despite section 147, the copyright in the material is not infringed by the importation of the article.
 
-‘‘proceeding’’, in relation to the Tribunal, includes an inquiry by the Tribunal under section 157.
+(3) Despite section 148, the copyright in the material is not infringed by any commercial dealing in, or distribution of, the imported article.
 
-[6/98]
+(4) To avoid doubt, nothing in this section affects the operation of this Act in relation to an authorial work, a published edition, a sound recording or a film that is embodied in the imported article.
 
-(2) In this Part —
+(5) In this section, “accessory”, in relation to an article —
 
-(a) a reference to conditions is a reference to any conditions other than conditions relating to the payment of a charge;
+(a) means one or more of the following:
 
-(b) a reference to giving an opportunity to a person or organisation of presenting a case is a reference to giving the person or organisation an opportunity, at the option of the person or organisation, of submitting representations in writing, or of being heard, or of submitting representations in writing and being heard;
+(i) a label affixed to, or displayed on, the article;
 
-(c) a reference to a person who requires a licence of a particular kind includes a reference to a person who holds a licence of that kind if the person will, at the expiration of the period for which the licence was granted, require a renewal of that licence or a grant of a further licence of the same kind; and
+(ii) the article’s packaging or container;
 
-(d) a reference to proceedings for infringement of copyright includes a reference to proceedings brought in respect of an alleged contravention of section 136 (6).
+(iii) a label affixed to, or displayed on, the article’s packaging or container;
 
-[Aust. 1968, s. 136]
+(iv) a leaflet, pamphlet, certificate, warranty, brochure, written instruction or other information incidental to the article and provided with the article on its sale;
+
+(v) an instructional sound recording or film incidental to the article and provided with the article on its sale;
+
+but
+
+(b) does not include —
+
+(i) a copy of an authorial work that is incorporated into the surface of the article and is a permanent part of the article;
+
+(ii) a copy of an authorial work that cannot be separated from the article without making the article unsuitable for its ordinary use; or
+
+(iii) a manual for use in connection with, and meant to be sold together with, computer software.

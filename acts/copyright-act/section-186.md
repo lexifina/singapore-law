@@ -1,32 +1,24 @@
-# 186. Denial of copyright to citizens of countries not giving adequate protection to Singapore works
-Part: PART VIII EXTENSION OR RESTRICTION OF THIS ACT
+# 186. Permitted uses may be excluded or restricted by reasonable contract term
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
 
-(1) If it appears to the Minister that the law of a country does not give adequate protection to Singapore works, or does not give adequate protection in relation to a class or classes of such works (whether the lack of protection relates to the nature of the work or the nationality, citizenship or country of residence of its author, or all of those matters), the Minister may by regulations make provision in relation to that country in accordance with subsection (2).
+(1) Subject to this section and section 187, a rights owner may, by contract with a person, exclude or restrict the application of a permitted use to that person.
 
-(2) Regulations made for the purposes of this section may provide, either generally or in such classes of cases as are specified in the regulations, that copyright under this Act does not subsist in works first published after a date specified in those regulations (which may be a date before the commencement of those regulations or before 10th April 1987) if, at the time of the first publication of those works, the authors of the works were or are —
+(2) A contract term between the rights owner and another person (called in this section the counterparty) is valid for the purposes of subsection (1) only if —
 
-(a) citizens or nationals of a country specified in those regulations, not being at that time persons resident in Singapore; or
+(a) the contract is individually negotiated; and
 
-(b) in the case of works being sound recordings or cinematograph films — bodies incorporated under the law of a country specified in those regulations.
+(b) the term is fair and reasonable, having regard to the circumstances that are, or ought reasonably to be, known to or in the contemplation of the parties when the contract is made.
 
-[S 107/87]
+(3) For the purposes of subsection (2)(b), relevant matters in deciding whether a term of a contract is fair and reasonable include —
 
-(3) In making regulations for the purposes of this section, the Minister shall have regard to the nature and extent of the lack of protection for Singapore works by reason of which the regulations are made.
+(a) the strength of the bargaining positions of the parties relative to each other, taking into account (among other things) alternative means by which the counterparty’s requirements could have been met;
 
-(4) In this section —
+(b) whether the counterparty received an inducement to agree to the term, or in accepting it had an opportunity of entering into a similar contract with other persons, but without having to accept a similar term;
 
-‘‘author’’, in relation to a sound recording or a cinematograph film, means the maker of the recording or film;
+(c) whether the counterparty knows or ought reasonably to know of the existence and extent of the term (having regard, among other things, to any custom of the trade and any previous course of dealing between the parties); and
 
-‘‘Singapore work’’ means a work the author of which was, at the time when the work was made, a qualified person for the purpose of the relevant provision of this Act;
+(d) whether at the time of the contract it is reasonable to expect that the contract is workable without the term.
 
-‘‘the relevant provision of this Act’’ means —
+(4) Subject to any contrary intention in the contract, where a contract term between a rights owner and a person excludes or restricts the application of a permitted use to that person, the benefit of that term passes to the rights owner’s successors in title.
 
-(a) in relation to a literary, dramatic, musical or artistic work — section 27; and
-
-(b) in relation to a sound recording or a cinematograph film or a cable programme — Part IV;
-
-‘‘work’’ means a literary, dramatic, musical or artistic work, a sound recording, a cinematograph film, a television broadcast, a sound broadcast or a cable programme.
-
-[6/98]
-
-[Aust. 1968, s. 185]
+(5) This section applies to any contract made before, on or after 21 November 2021.

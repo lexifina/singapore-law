@@ -1,25 +1,18 @@
-# 48. Copying of works for preservation and other purposes
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 5 — Copying of Works in Libraries
+# 48. What is a copy of a cable programme
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (2) — Copying
 
-(1) Subject to subsection (4), the copyright in a work that forms, or formed, part of the collection of a library or archives is not infringed by the making, by or on behalf of the officer-in-charge of the library or archives, of a copy of the work —
+(1) A “copy” of a cable programme is —
 
-(a) if the work is the original version of the work — for the purpose of preserving the original version against loss or deterioration or for the purpose of research that is being, or is to be, carried out at the library or archives in which the work is held or at another library or other archives;
+(a) insofar as the programme consists of visual images — a film of the programme, and includes a copy of such a film;
 
-(b) if the work is held in the collection in a published form but has been damaged or has deteriorated — for the purpose of replacing the work; or
+and
 
-(c) if the work has been held in the collection in a published form but has been lost or stolen — for the purpose of replacing the work.
+(b) insofar as the programme consists of sounds — a sound recording of the programme, and includes a copy of such a recording.
 
-[38/99]
+(2) For the purposes of subsection (1), a film of a cable programme includes —
 
-(2) The copyright in a work that is held in the collection of a library or archives is not infringed by the making, by or on behalf of the officer-in-charge of the library or archives, for a purpose other than a purpose for which a copy may be made under subsection (1), of a single copy of the work so held.
+(a) a film of any of the visual images comprised in the programme; and
 
-[38/99]
-
-(3) Subsection (1) shall not apply in relation to a work held in published form in the collection of a library or archives unless an authorised officer of the library or archives has, after reasonable investigation, made a declaration stating that he is satisfied that a copy (not being a secondhand copy) of the work cannot be obtained within a reasonable time at an ordinary commercial price.
-
-(4) Where a copy of an unpublished work is made under subsection (1) by or on behalf of the officer-in-charge of a library or archives for the purpose of research that is being, or is to be, carried out at another library or archives, the supply of the copy by or on behalf of the officer to the other library or archives does not, for any purpose of this Act, constitute publication of the work.
-
-[38/99]
-
-[Aust. 1968, s. 51A]
+(b) a photograph of any of those images.

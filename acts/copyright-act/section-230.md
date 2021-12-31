@@ -1,11 +1,25 @@
-# 230. References and applications to Tribunal in relation to licence schemes
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 4 — Miscellaneous
+# 230. Publication — publishing unpublished old authorial works in public collections
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 6 — Public collections: galleries, libraries, archives and museums
 
-(1) Part VII shall apply in relation to licence schemes formulated before 10th April 1987 in like manner as it applies in relation to licence schemes formulated on or after that date, but, for the purposes of the application of that Part in relation to licence schemes formulated before that date, any reference in that Part to copyright includes a reference to copyright under the Copyright Act 1911.
+(1) It is a permitted use of an authorial work (called in this section the old work) to publish another authorial work (called in this section the new work) that includes the old work (or any part of the old work) if —
 
-[S 107/87]
+(a) immediately before the new work is first published —
 
-(2) Any reference in section 163 to a refusal or failure to grant or procure the grant of a licence, or to a proposal that a licence should be granted, shall not include a reference to a refusal or failure that occurred, or to a proposal that was made, before 10th April 1987.
+(i) the old work is unpublished old material in a public collection; and
 
-[Aust. 1968, s. 232]
+(ii) the publisher of the new work does not know who owns the copyright in the old work; and
+
+(b) before the new work is first published, the prescribed notice of intended publication is given.
+
+(2) To avoid doubt, if —
+
+(a) the first publication of the new work only includes part of the old work; and
+
+(b) a later publication of the new work includes any other part of the old work that was not included in any earlier publication, then —
+
+(c) subsection (1) does not apply to the later publication just because it applies to the first publication; and
+
+(d) the later publication is to be treated as the first publication of the new work for the purposes of applying subsection (1).
+
+(3) Where an authorial work, being unpublished old material in a public collection, is published in circumstances to which subsection (1) applies, the publication is deemed to be authorised.

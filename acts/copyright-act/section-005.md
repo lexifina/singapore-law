@@ -1,6 +1,6 @@
-# 5. Savings of rights of Government, etc.
-Part: PART I PRELIMINARY
+# 5. Saving for other laws
+Part: PART 1 PRELIMINARY
 
-Nothing in this Act shall affect any right or privilege of the Government or any other person under any other written law, except insofar as that law is expressly repealed, amended or modified by this Act.
+(1) Unless it expressly provides otherwise, this Act does not affect any right or privilege of any person (including the Government) under any other written law.
 
-[Aust. 1968, s. 7]
+(2) This Act does not affect the operation of the law relating to breaches of trust or confidence.

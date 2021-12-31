@@ -1,17 +1,23 @@
-# 114. Filming or recording broadcasts or programmes for private and domestic use
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 114. Duration of copyright in authorial works
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 2 — Authorial works
 
-(1) The copyright in a television broadcast or a cable programme, or in a literary, artistic, dramatic or musical work or a cinematograph film included in the broadcast or programme, insofar as it consists of visual images, is not infringed by the making of a cinematograph film of the broadcast or the cable programme for the private and domestic use of the person by whom the cinematograph film is made.
+(1) Where an authorial work is first published within 50 years after the end of the year in which the work is made, any copyright in the work expires —
 
-(2) The copyright in a sound broadcast, a television broadcast or a cable programme, or in a literary, dramatic or musical work, a sound recording or a cinematograph film included in the broadcast or programme, insofar as it consists of sounds, is not infringed by the making of a sound recording of the broadcast or the cable programme for the private and domestic use of the person by whom the sound recording is made.
+(a) if the author is identified within 70 years after the end of the year in which the work is first published — 70 years after the end of the year in which the author dies; and
 
-(3) For the purposes of this section, a cinematograph film or a sound recording shall be deemed to be made otherwise than for the private and domestic use of the person by whom it is made if it is made for the purpose of —
+(b) if not — 70 years after the end of the year in which the work is first published.
 
-(a) the sale or letting for hire of the film or the sound recording, as the case may be;
+(2) Where an authorial work is first published more than 50 years after the end of the year in which the work is made, but is made available to the public other than by publication within those 50 years, any copyright in the work expires —
 
-(b) broadcasting the film or recording or including it in a cable programme; or
+(a) if the author is identified within 70 years after the end of the year in which the work is first made available to the public — 70 years after the end of the year in which the author dies; and
 
-(c) causing the film or recording to be seen or heard in public.
+(b) if not — 70 years after the end of the year in which the work is first made available to the public.
 
-[Aust. 1968, s. 111]
+(3) In any other case, any copyright in an authorial work expires —
+
+(a) if the author of the work is identified within 70 years after the end of the year in which the work is made — 70 years after the end of the year in which the author dies; and
+
+(b) if not — 70 years after the end of the year in which the work is made.
+
+(4) This section is subject to section 110(1)(b) (expiry of copyright upon publication).

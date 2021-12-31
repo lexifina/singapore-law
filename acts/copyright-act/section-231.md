@@ -1,7 +1,15 @@
-# 231. Duration of Government copyright in photographs
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 4 — Miscellaneous
+# 231. Publication — communicating, performing, etc., authorial works published under section 230
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 6 — Public collections: galleries, libraries, archives and museums
 
-Section 197 (4) shall apply in relation to photographs taken before 10th April 1987 as if subsection (4A) of that section were omitted.
+(1) This section applies where, by virtue of section 230, the publication of an authorial work (or part of the authorial work) is a permitted use.
 
-[Aust. 1968, s. 233]
+(2) The following acts are also permitted uses if they are done after the publication:
+
+(a) broadcasting the work (or part of the work);
+
+(b) including the work (or part of the work) in a cable programme;
+
+(c) performing the work (or part of the work) in public;
+
+(d) making a record of the work (or part of the work).

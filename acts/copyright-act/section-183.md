@@ -1,7 +1,6 @@
-# 183. Proof of orders of Tribunal
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 5 — Miscellaneous
+# 183. Permitted uses are not rights infringements
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
 
-Without prejudice to any other method available by law for the proof of orders of the Tribunal, a document purporting to be a copy of such an order, and to be certified by the Secretary to the Tribunal to be a true copy of the order, shall be admitted in any proceedings, as evidence of the order.
+(1) Where an act in relation to a work is a permitted use, the act is not an infringement of any copyright in the work.
 
-[Aust. 1968, s. 175]
+(2) Where an act in relation to a protected performance is a permitted use, the act is not an infringing use of the performance.

@@ -1,6 +1,9 @@
-# 271. Action for unauthorised use before appointed day
-Part: PART XV SAVINGS AND TRANSITIONAL PROVISIONS UNDER COPYRIGHT (AMENDMENT) ACT 2004
+# 271. Purpose of this Division
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 14 — Artistic works with corresponding designs and industrially applied artistic works
 
-Section 253, as it was in force immediately before the appointed day, shall apply to an action brought in respect of any unauthorised use of a performance which took place before that day as if the amendment Act had not been enacted.
+The purpose of this Division is to restrict the application of copyright law in relation to an artistic work with a corresponding design that is, has been or could be applied to —
 
-[52/2004]
+(a) articles or products, under the Registered Designs Act 2000; or
+
+(b) useful articles.

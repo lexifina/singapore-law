@@ -1,6 +1,6 @@
-# 19. References to sounds and visual images embodied in an article
-Part: PART II INTERPRETATION
+# 19. Adaptation of literary, dramatic or musical work includes adaptation of substantial part thereof
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (4) — Adaptations of literary, dramatic or musical works
 
-For the purposes of this Act, sounds or visual images shall be taken to have been embodied in an article or thing if the article or thing has been so treated in relation to those sounds or visual images that those sounds or visual images are capable, with or without the aid of some other device, of being reproduced from the article or thing.
-
-[Aust. 1968, s. 24]
+An adaptation of a substantial part of a literary, dramatic or musical work is to be treated as an adaptation of the work.

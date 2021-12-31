@@ -1,10 +1,6 @@
-# 21. Cable programmes
-Part: PART II INTERPRETATION
+# 21. What is a sound recording
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (6) — Sound recordings
 
-(1) A reference in this Act to the inclusion of a programme in a cable programme service is a reference to its inclusion in such a service by the person providing that service.
-
-(2) For the purposes of this Act, no account shall be taken of a cable programme service if, and to the extent that, it is provided for a person providing another such service.
-
-[15/94]
-
-(3) Where a service of distributing matter over wires or over other paths provided by a material substance is only incidental to, or part of, a service of transmitting telegraphic or telephonic communications, a subscriber to the last-mentioned service shall be taken, for the purposes of this section, to be a subscriber to the first-mentioned service.
+A “sound recording” is the sounds embodied in a record, but does not include the sounds of a film.

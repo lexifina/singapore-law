@@ -1,17 +1,15 @@
-# 120. Order for delivery up of infringing copies, etc.
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 2 — Actions by Owner of Copyright
+# 120. Conditions for copyright to subsist in sound recordings
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 4 — Sound recordings
 
-(1) Subject to the provisions of this Act, the court may, in addition to any relief granted under section 119 in any action for an infringement of copyright brought under that section, order any infringing copy, or any article which has been used for making infringing copies, in the possession of the defendant or before the court to be delivered up to the plaintiff.
+Subject to the provisions of this Act, copyright subsists in a sound recording if —
 
-[6/98; 38/99; 52/2004]
+(a) the maker of the recording is a qualified person when the recording is made; or
 
-(2) No order shall be made under this section unless the court also makes, or it appears to the court that there are grounds for making, an order under section 120A.
+(b) the recording is made or first published —
 
-[6/98]
+(i) in Singapore;
 
-(3) A person to whom an infringing copy or other object is delivered up pursuant to an order made under this section shall, if an order under section 120A is not made, retain the copy or object pending the making of an order, or the decision not to make an order, under section 120A.
+(ii) by or under the direction or control of the Government; or
 
-[6/98]
-
-[Aust. 1968, s. 133 (4)]
+(iii) on or after 10 April 1987 by or under the direction or control of a prescribed international organisation.

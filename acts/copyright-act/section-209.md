@@ -1,14 +1,11 @@
-# 209. Publication
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
+# 209. Interpretation: what is a new copy of an accessible format copy
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-(1) For the purposes of the application of section 24 (5) in determining whether a publication that took place before 10th April 1987 was the first publication, the reference in that section to a period of not more than 30 days shall be read as a reference to a period of not more than 14 days.
+In this Division, an accessible format copy is new if —
 
-[S 107/87]
+(a) in the case of a physical copy — the copy is not secondhand;
 
-(2) For the purposes of the application of section 24 (7) in relation to an act done before that date —
+(b) in the case of a copy (being a sound recording or an electronic copy) that is embodied or stored in a record or other article — a copy that is embodied or stored in a record or other article that is not secondhand; or
 
-(a) a reference in that section to copyright shall include a reference to copyright under the Copyright Act 1911; and
-
-(b) a reference in that section to the licence of the owner of copyright shall be read as a reference to the consent or acquiescence of the owner.
-
-[Aust. 1968, s. 209]
+(c) in the case of a copy (being a sound recording or an electronic copy) that is not embodied or stored in a record or other article — a copy that is fit for use.

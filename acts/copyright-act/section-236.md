@@ -1,21 +1,27 @@
-# 236. False attribution of authorship of work
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 4 — Miscellaneous
+# 236. Copying online material for National Library Board collection
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 6 — Public collections: galleries, libraries, archives and museums
 
-(1) It is a breach of the duty imposed on a person by section 188 if the person does, on or after 10th April 1987, any of the acts mentioned in subsection (1) (b) and (c) of that section in relation to a work notwithstanding that the name concerned was inserted or affixed before that date.
+(1) If the conditions in subsection (2) are met, it is a permitted use to make a copy of any of the following material:
 
-[52/2004]
+(a) an authorial work;
 
-(1A) It is a breach of the duty imposed on a person by section 188 if the person does, on or after 1st January 2005, any of the acts mentioned in subsection (1) (b) and (c) of that section in relation to a recording of a performance, notwithstanding that the name concerned was inserted or affixed before that date.
+(b) a sound recording;
 
-[52/2004]
+(c) a film;
 
-(2) Subject to subsection (1), Part IX shall not apply in relation to acts done before 10th April 1987.
+(d) a recording of a protected performance.
 
-(2A) Subject to subsection (1A), Part IX shall not apply in relation to acts done before 1st January 2005 in respect of a recording of a performance.
+(2) The conditions are —
 
-[52/2004]
+(a) the material is or is part of online material;
 
-(3) In this section, ‘‘name’’ includes initials or a monogram.
+(b) the online material is available on a Singapore website; and
 
-[Aust. 1968, s. 195AE]
+(c) the copy is made —
+
+(i) by or on behalf of the National Library Board; and
+
+(ii) for the purpose of acquiring the online material for the purposes of section 6(d) of the National Library Board Act 1995.
+
+(3) In this section, “online material” and “Singapore website” have the meanings given by section 2 of the National Library Board Act 1995.

@@ -1,13 +1,22 @@
-# 171. Proceedings to be in public except in special circumstances
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 4 — Procedure and Evidence
+# 171. Presumptions as to maker of film
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (4) — Presumptions in infringement actions
 
-(1) Subject to this section, the hearing of proceedings before the Tribunal shall be in public.
+(1) This section applies if —
 
-(2) Where the Tribunal is satisfied that it is desirable to do so by reason of the confidential nature of any evidence or matter or for any other reason, the Tribunal may —
+(a) copies of a film are made available to the public;
 
-(a) direct that a hearing or part of a hearing shall take place in private and give directions as to the persons who may be present; or
+(b) the name of a person appears on those copies in a way that implies that the person made the film; and
 
-(b) give directions prohibiting or restricting the publication of evidence given before the Tribunal (whether in public or in private) or of matters contained in documents produced to the Tribunal.
+(c) in the case of an individual — the name is —
 
-[Aust. 1968, s. 163]
+(i) the person’s true name; or
+
+(ii) the name by which the person is commonly known.
+
+(2) The person is presumed —
+
+(a) to have made the film; and
+
+(b) to have made the film in circumstances to which section 135 (works made under commission) does not apply.

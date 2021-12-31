@@ -1,9 +1,10 @@
-# 31. Infringement by doing acts comprised in copyright
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 2 — Infringement of Copyright in Works
+# 31. Who is the maker of a broadcast
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (8) — Broadcasts
 
-(1) Subject to the provisions of this Act, the copyright in a literary, dramatic, musical or artistic work is infringed by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Singapore, or authorises the doing in Singapore of, any act comprised in the copyright.
+The maker of a broadcast is —
 
-(2) Sections 32 to 34 shall not affect the generality of subsection (1).
+(a) the person who broadcasts the relevant visual images or sounds (or both); and
 
-[Aust. 1968, s. 36]
+(b) in the case of direct broadcasting by satellite — the person who transmits the relevant visual images or sounds (or both) to the satellite transponder.

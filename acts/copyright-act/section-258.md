@@ -1,18 +1,27 @@
-# 258. Interpretation of this Part
-Part: PART XIII RIGHTS MANAGEMENT INFORMATION
+# 258. Deemed copyright licences when receiving or transmitting broadcasts or cable programmes
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 11 — Broadcasting, cable programmes and simulcasting
 
-In this Part, unless the context otherwise requires —
+(1) A person is deemed to have the licence of the copyright owner of a film to —
 
-‘‘performance’’, ‘‘recording’’ and ‘‘unauthorised use’’ have the same meanings as in Part XII;
+(a) cause the visual images of the film to be seen in public or any sounds of the film to be heard in public (or both) by receiving a television broadcast or cable programme; and
 
-‘‘rights management information’’, in relation to a copy of a work or other subject-matter or a recording of a performance, means any of the following:
+(b) cause the film to be included in a programme in a cable programme service by receiving and immediately re-transmitting a Singapore broadcast.
 
-(a) information which identifies the work, subject-matter or performance;
+(2) A person is deemed to have the licence of the copyright owner of a sound recording to —
 
-(b) information which identifies the author of the work, the owner of copyright in a work or subject-matter or the performer of a performance;
+(a) cause the recording to be heard in public by receiving a broadcast or cable programme; and
 
-(c) information about the terms and conditions of use of the copy of the work or subject-matter or the recording of the performance;
+(b) cause the recording to be included in a programme in a cable programme service by receiving and immediately re-transmitting a Singapore broadcast.
 
-(d) any numbers or codes that represent the information referred to in paragraph (a), (b) or (c), but excludes any information relating to a user of the copy of the work or subject-matter or the recording of the performance, such as the name, account, address or other contact information of, or pertaining to, the user.
+(3) A person is deemed to have the licence of the copyright owner of an authorial work (or of an adaptation of the work) to cause the work (or the adaptation) to be included in a programme in a cable programme service by receiving and immediately re-transmitting a Singapore broadcast.
 
-[52/2004]
+(4) To avoid doubt, subsections (1)(b), (2)(b) and (3) do not extend to making the film, recording, work or adaptation available on a network.
+
+(5) If the broadcast or cable programme mentioned in subsection (1), (2) or (3) is not made by or with the licence of the relevant copyright owner —
+
+(a) this does not prevent any of those provisions from applying; but
+
+(b) the acts that are licensed by those provisions must be taken into account in assessing damages for any infringement of the copyright by the maker of the broadcast or programme.
+
+(6) In this section, “Singapore broadcast” means a broadcast made from a place in Singapore by the holder of a broadcasting licence.

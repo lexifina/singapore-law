@@ -1,13 +1,14 @@
-# 103. Infringement by doing acts comprised in copyright
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 103. What is an exclusive licence
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 5 — Rights and rights infringements Subdivision (1) — Common provisions
+Subdivision: Subdivision (2) — Provisions relating to copyright works
 
-(1) Subject to the provisions of this Act, a copyright subsisting by virtue of this Part is infringed by a person who, not being the owner of the copyright, and without the licence of the owner of the copyright, does in Singapore, or authorises the doing in Singapore of, any act comprised in the copyright.
+(1) An “exclusive licence”, in relation to a copyright, is a licence —
 
-(2) Sections 104 and 105 shall not affect the generality of subsection (1).
+(a) granted by the owner or prospective owner of the copyright; and
 
-(3) Subsection (1) shall apply in relation to an act done in relation to a sound recording whether the act is done by directly or indirectly making use of a record embodying the recording.
+(b) authorising the licensee, to the exclusion of any other person, to do an act that, by virtue of this Act, the owner of the copyright would, but for the licence, have the exclusive right to do.
 
-(4) Subsection (1) shall apply in relation to an act done in relation to a television broadcast or a sound broadcast or a cable programme whether the act is done by the reception of the broadcast or programme or by making use of any article or thing in which the visual images and sounds comprised in the broadcast or programme have been embodied.
+(2) “Exclusive licensee” has a corresponding meaning.
 
-[Aust. 1968, s. 101]
+Subdivision (3) — Provisions relating to protected performances

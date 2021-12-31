@@ -1,12 +1,17 @@
-# 264. Other subject-matter published before appointed day
-Part: PART XIV TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) ACT 2004
+# 264. Modifications relating to records made before 10 April 1987
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 12 — Making musical records
 
-(1) Copyright shall not subsist by virtue of Part IV in any sound recording or cinematograph film first published before the appointed day unless copyright subsisted in such recording or film immediately before that day under that Part in force immediately before that day.
+(1) This section applies to a record made before 10 April 1987 of a musical work.
 
-[21/2004]
+(2) If the record is made by (or with the consent or acquiescence of) the owner of the copyright in the work under the 1911 Act, the record is deemed, for the purposes of this Division —
 
-(2) Section 219 (4) shall not apply in relation to any sound recording made before 10th April 1987 unless copyright subsisted in that recording immediately before the appointed day under sections 87 (1) or (3) and 219 (4) in force immediately before that day.
+(a) to have been made in Singapore for the purpose of retail sale; and
 
-[21/2004]
+(b) to have been so made by or with the licence of the person who is entitled under this Act to authorise the making in Singapore of records of the work.
 
-*Date of commencement of section 2 (a), (b), (g) and (h) of the Intellectual Property (Miscellaneous Amendments) Act 2004 (Act 21 of 2004).
+(3) The following written laws as in force immediately before 10 April 1987 continue to apply in relation to the record:
+
+(a) section 19(2) to (7) of the 1911 Act;
+
+(b) subject to that section, any regulations made for the purposes of that section.

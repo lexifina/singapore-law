@@ -1,9 +1,16 @@
-# 69. Reproduction of work in different dimensions
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 9 — Acts not Constituting Infringements of Copyright in Artistic Works
+# 69. Performance by operating apparatus for reproducing sounds
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (6) — Performing
 
-For the purposes of this Act —
+(1) This section applies where —
 
-(a) the making of an object of any kind that is in 3 dimensions does not infringe the copyright in an artistic work that is in 2 dimensions; and
+(a) an authorial work is performed by operating any apparatus for reproducing sounds by using a record; and
 
-(b) the making of an object of any kind that is in 2 dimensions does not infringe the copyright in an artistic work that is in 3 dimensions, if the object would not appear to persons who are not experts in relation to objects of that kind to be a reproduction of the artistic work.
+(b) the apparatus is provided by or with the consent of the occupier of the premises where the apparatus is situated.
+
+(2) The occupier is deemed to be the person giving the performance (whether or not the occupier operated the apparatus).
+
+(3) To avoid doubt, this section applies in relation to an adaptation of a literary, dramatic or musical work as it applies in relation to an authorial work.
+
+Subdivision (7) — Causing visual images to be seen or sounds to be heard

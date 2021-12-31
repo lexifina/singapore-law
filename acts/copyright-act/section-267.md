@@ -1,6 +1,11 @@
-# 267. Performances given before appointed day
-Part: PART XIV TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) ACT 2004
+# 267. Copying artistic work in different dimensions
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 13 — Artistic works
 
-Part XII shall not apply to a performance given before the appointed day unless the period beginning on the day when the performance was given and ending on the appointed day is less than the protection period as defined in section 246 (1) in force immediately before the appointed day.
+(1) If the condition in subsection (2) is met, it is a permitted use of an artistic work to —
 
-[21/2004]
+(a) if the work is 2-dimensional — make a 3-dimensional object of any kind; and
+
+(b) if the work is 3-dimensional — make a 2-dimensional object of any kind.
+
+(2) The object must not appear, to persons who are not experts in objects of that kind, to be a copy of the work.

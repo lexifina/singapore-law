@@ -1,26 +1,22 @@
-# 81. Interpretation of this Part
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
+# 81. What is a prescribed international organisation
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (2) — International organisations
 
-(1) In this Part —
+(1) Regulations may prescribe international organisations for the purposes of this Act.
 
-‘‘interactive service’’ means a service that enables an individual to receive —
+(2) A “prescribed international organisation” is an international organisation prescribed under subsection (1) and includes —
 
-(a) a transmission of a programme specially created for that individual; or
+(a) an organ of, or office within, the organisation; and
 
-(b) on request, a transmission of a particular sound recording, whether or not as part of a programme, which is selected by or on behalf of that individual, but does not include any service that enables an individual to request that particular sound recording be performed for reception by the public at large or, in the case of a subscription service, by all subscribers of that service, unless the programming on each channel of that service consists substantially of sound recordings that are performed within an hour of the request or at a time designated by that individual;
+(b) a commission, council or other body established by the organisation or organ.
 
-‘‘qualified person’’ means —
+(3) In this section, “international organisation” means an organisation —
 
-(a) a citizen of Singapore, or an individual resident in Singapore; or
+(a) of which 2 or more countries, or the governments of 2 or more countries, are members; or
 
-(b) a body corporate incorporated under any written law in Singapore.
+(b) that is constituted by persons representing —
 
-[38/99; 52/2004]
+(i) 2 or more countries; or
 
-(2) In this Part, a reference to the reproduction or making of a copy of any subject-matter includes a reference to the making of a copy which is transient or is incidental to some other use of the subject-matter.
-
-[38/99]
-
-[Aust. 1968, s. 84]
-
-Division 2 — Nature of Copyright in Subject-Matter other than Works
+(ii) the governments of 2 or more countries.

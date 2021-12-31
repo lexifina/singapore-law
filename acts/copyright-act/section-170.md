@@ -1,7 +1,24 @@
-# 170. Agreements or awards not affected
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 3 — Inquiries by, and Applications and References to, Tribunal
+# 170. Presumptions relating to label or mark on copies of sound recording
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (4) — Presumptions in infringement actions
 
-Nothing in this Part shall affect the operation of any agreement or of any award made by an arbitrator, whether the agreement or award was made before, or is made after, 10th April 1987.
+(1) This section applies if —
 
-[Aust. 1968, s. 162]
+(a) copies of a sound recording are supplied to the public; and
+
+(b) those copies bear a label or other mark stating that —
+
+(i) a specified person owns the copyright in the recording;
+
+(ii) the recording is first published in a specified year; or
+
+(iii) the recording is first published in a specified country.
+
+(2) It is respectively presumed that —
+
+(a) the specified person owns the copyright in the recording;
+
+(b) the recording is first published in the specified year; and
+
+(c) the recording is first published in the specified country.

@@ -1,8 +1,29 @@
-# 206. References to making of works, recordings and films
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
+# 206. Material to which this Division applies
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-For the purposes of any reference in this Part to works, sound recordings or cinematograph films made before 10th April 1987, a work, sound recording or cinematograph film the making of which extended over a period shall be deemed not to have been made before that date unless the making of it was completed before that date.
+In this Division, “relevant material” —
 
-[S 107/87]
+(a) means any of the following material:
 
-[Aust. 1968, s. 205]
+(i) a published literary work;
+
+(ii) a published dramatic work;
+
+(iii) a published artistic work;
+
+(iv) a published sound recording;
+
+(v) a sound broadcast;
+
+(vi) a published recording of a protected performance;
+
+but
+
+(b) does not include a sound recording, a sound broadcast or a recording of a protected performance that comprises only one or more of the following:
+
+(i) the performance of a musical work;
+
+(ii) a musical work in which words are sung;
+
+(iii) a musical work in which words are spoken incidentally to or in association with the music.

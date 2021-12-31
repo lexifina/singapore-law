@@ -1,8 +1,6 @@
-# 18. Sound recordings and records
-Part: PART II INTERPRETATION
+# 18. What is an adaptation of a musical work
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (4) — Adaptations of literary, dramatic or musical works
 
-(1) For the purposes of this Act, sounds embodied in a sound- track associated with visual images forming part of a cinematograph film shall be deemed not to be a sound recording.
-
-(2) A reference in this Act to a record of a work or other subject- matter shall, unless the contrary intention appears, be read as a reference to a record by means of which the work or other subject- matter can be performed.
-
-[Aust. 1968, s. 23]
+An “adaptation” of a musical work is an arrangement or a transcription of the work.

@@ -1,25 +1,23 @@
-# 238. Bequests
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 4 — Miscellaneous
+# 238. Copying electronic compilation or computer program when essential for use
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 7 — Use of computer programs
 
-(1) Section 196 shall not apply in relation to a bequest contained in the will of a testator who died before 10th April 1987.
+(1) If the conditions in subsection (2) are met, it is a permitted use for a person (X) to make, or authorise the making of, a copy or an adaptation of —
 
-[S 107/87]
+(a) a compilation in an electronic form; or
 
-(2) Where —
+(b) a computer program.
 
-(a) an author has died before 10th April 1987;
+(2) The conditions are —
 
-(b) a person has acquired, under the will of the author, the ownership of a manuscript of a work by the author; and
+(a) the copy or adaptation is made from a copy of the compilation or program that is owned by X;
 
-(c) the work —
+(b) creating the copy or adaptation is an essential step in using the compilation or program with a machine; and
 
-(i) has not been published;
+(c) the copy or adaptation is not used in any other way.
 
-(ii) in the case of a dramatic or musical work — has not been performed in public; and
+(3) In this section —
 
-(iii) in the case of a lecture — has not been delivered in public, the ownership by that person of the manuscript shall be evidence that that person is the owner of the copyright in the work.
+(a) a reference to a copy of a compilation or computer program is a reference to any article in which the compilation or program is reproduced in a material form; and
 
-(3) In subsection (1), expressions that are defined by section 205 shall have the meanings respectively given to those expressions by that section and shall not have the meanings, if any, respectively given to those expressions by Part II.
-
-[Aust. 1968, s. 240]
+(b) a reference to an adaptation of a compilation or computer program is a reference to any article in which the adaptation is reproduced in a material form.

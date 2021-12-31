@@ -1,12 +1,47 @@
-# 247. Educational purposes
-Part: PART XII PERFORMERS’ PROTECTION
+# 247. Communication by non-interactive digital broadcast
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 9 — Communication of sound recordings and recordings of protected performances
 
-Without limiting the meaning of the expression ‘‘educational purposes’’ in paragraph (c) of the definition of ‘‘exempt recording’’ in section 246 (1), a recording or a copy of such a recording, shall be taken to have been made for the educational purposes of an educational institution if it is made —
+(1) If the conditions in subsection (2) are met, it is a permitted use for a person (X) to communicate —
 
-(a) for use in connection with a particular course of instruction provided by the institution; or
+(a) a sound recording; or
 
-(b) for inclusion in the collection of a library of the institution.
+(b) a recording of a protected performance.
 
-[6/98]
+(2) The conditions are —
 
-[Aust. 1968, s. 248B]
+(a) the communication is by means of a digital broadcast that —
+
+(i) is not part of an interactive service; and
+
+(ii) is available to the public free of charge; and
+
+(b) the recording —
+
+(i) is not commercially published; or
+
+(ii) is commercially published and X pays to the rights owner equitable remuneration of an amount —
+
+(A) agreed between them; or
+
+(B) in default of agreement, decided by a Copyright Tribunal.
+
+(3) If the conditions in subsection (4) are met, it is a permitted use for a person (X) to communicate —
+
+(a) a sound recording; or
+
+(b) a recording of a protected performance.
+
+(4) The conditions are —
+
+(a) the communication is by means of a digital broadcast that —
+
+(i) is not part of an interactive service; and
+
+(ii) is not available to the public free of charge; and
+
+(b) X pays to the rights owner equitable remuneration of an amount —
+
+(i) agreed between them; or
+
+(ii) in default of agreement, decided by a Copyright Tribunal.

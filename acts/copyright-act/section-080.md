@@ -1,11 +1,5 @@
-# 80. Inclusion of joint works in collections for use in educational institutions
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 11 — Works of Joint Authorship
+# 80. Country of residence not affected by temporary absence
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
 
-The reference in section 40 (2) to other extracts from, or from adaptations of, works by the author of the extract concerned —
-
-(a) shall be read as including a reference to extracts from, or from adaptations of, works by the author of the extract concerned in collaboration with any other person; or
-
-(b) if the extract concerned is from, or from an adaptation of, a work of joint authorship — shall be read as including a reference to extracts from, or from adaptations of, works by any one or more of the authors of the extract concerned, or by any one or more of those authors in collaboration with any other person.
-
-[Aust. 1968, s. 83]
+A person who, at a given period of time, is ordinarily resident in a country (including Singapore) but is temporarily absent from that country at any time during that period is to be treated as if he or she is resident in that country throughout that period.

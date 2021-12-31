@@ -1,7 +1,12 @@
-# 65. Incidental filming or televising of artistic works
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 9 — Acts not Constituting Infringements of Copyright in Artistic Works
+# 65. What is a re-transmission of a broadcast
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (5) — Broadcasting, etc.
 
-Without prejudice to sections 63 and 64, the copyright in an artistic work is not infringed by the inclusion of the work in a cinematograph film or in a television broadcast if its inclusion in the film or broadcast is only incidental to the principal matters represented in the film or broadcast.
+(1) “Re-transmission”, in relation to a broadcast, means a re-transmission of the broadcast without altering its contents.
 
-[Aust. 1968, s. 67]
+(2) For the purposes of subsection (1), it does not matter —
+
+(a) whether the re-transmission is simultaneous with the original transmission; and
+
+(b) whether the technique used to make the re-transmission is the same as that used for the original transmission.

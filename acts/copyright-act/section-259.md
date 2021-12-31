@@ -1,18 +1,21 @@
-# 259. Application of this Part
-Part: PART XIII RIGHTS MANAGEMENT INFORMATION
+# 259. Interpretation and scope of this Division
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 12 — Making musical records
 
-(1) This Part shall not apply to any act done for the service of the Government.
+(1) In this Division —
 
-[38/99]
+“musical work” means a musical work in its original form or an adaptation of the work;
 
-(2) Nothing in this Part shall affect —
+“owner”, in relation to the copyright in a literary, dramatic or musical work, means, unless the contrary intention appears, the person who is entitled to authorise the making in, and the importation into, Singapore of records of the works;
 
-(a) any copyright subsisting in a work or other subject-matter;
+“record”, in relation to a musical work, excludes a soundtrack of a film;
 
-(b) any right in relation to a performance or a recording thereof;
+“sale by retail” or “retail sale”, in relation to a record, does not include —
 
-(c) any limitation on copyright in a work or other subject- matter, or on a right in relation to a performance or a recording thereof; or
+(a) sale for a consideration that does not consist wholly of money; or
 
-(d) any defence to an action for infringement of copyright, or for an unauthorised use of a performance, under any provision of this Act.
+(b) sale by a person who does not ordinarily carry on the business of making or selling records.
 
-[38/99]
+(2) For the purposes of this Division, where a musical work is comprised partly in one record and partly in another record or other records, all the records are treated as a single record.
+
+(3) Subject to section 260(4), this Division applies in relation to a record of a part of a musical work as it applies in relation to a record of the whole of the work.

@@ -1,7 +1,8 @@
-# 36. Fair dealing for purpose of criticism or review
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 3 — Acts not Constituting Infringements of Copyright Works
+# 36. What is inclusion in a cable programme service
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (9) — Cable programmes
 
-A fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, shall not constitute an infringement of the copyright in the work if it is for the purpose of criticism or review, whether of that work or of another work, and a sufficient acknowledgment of the work is made.
+A programme is included in a cable programme service only if it is included in the service by the person providing the service.
 
-[Aust. 1968, s. 41]
+Subdivision (10) — Qualifying performances and recordings of protected performances

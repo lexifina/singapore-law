@@ -1,12 +1,20 @@
-# 17. Storage in computer or on any other medium
-Part: PART II INTERPRETATION
+# 17. What is an adaptation of a literary or dramatic work
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (4) — Adaptations of literary, dramatic or musical works
 
-References in this Act to the reduction of any work or of an adaptation of a work to a material form, or to the reproduction of any work or of an adaptation of a work in a material form, shall include references to the storage of that work or adaptation —
+An “adaptation” of a literary work is —
 
-(a) in a computer;
+(a) in relation to a literary work in a non-dramatic form — a version of the work (whether in its original language or in a different language) in a dramatic form;
 
-(b) on any medium by electronic means; or
+(b) in relation to a literary work in a dramatic form — a version of the work (whether in its original language or in a different language) in a non-dramatic form;
 
-(c) on any other medium from which the work or adaptation, or a substantial part of the work or adaptation, can be directly reproduced.
+(c) in relation to a literary work being a computer program —
 
-[38/99; 52/2004]
+a version of the work (whether or not in the language, code or notation in which the work was originally expressed) that is not a copy of the work; and
+
+(d) in relation to any literary work (whether in a non-dramatic form or dramatic form) —
+
+(i) a translation of the work; or
+
+(ii) a version of the work in which a story or an action is conveyed wholly or mainly through pictures.

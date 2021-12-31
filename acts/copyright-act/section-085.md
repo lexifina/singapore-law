@@ -1,31 +1,16 @@
-# 85. Nature of copyright in cable programmes
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 2 — Nature of Copyright in Subject-Matter other than Works
+# 85. Who is a person with a print disability
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (4) — Persons with print disabilities
 
-(1) For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a cable programme, is the exclusive right to do all or any of the following acts:
+A person is a “person with a print disability” if he or she —
 
-(a) insofar as it consists of visual images, to make a cinematograph film of it or a copy of such a film;
+(a) is blind;
 
-(b) insofar as it consists of sounds, to make a sound recording of it or a copy of such a sound recording;
+(b) has severely impaired sight;
 
-(c) to cause it, insofar as it consists of visual images, to be seen in public, or, insofar as it consists of sounds, to be heard in public, if it is seen or heard by a paying audience;
+(c) is unable to hold or manipulate books;
 
-(d) to communicate it to the public.
+(d) is unable to focus or move his or her eyes; or
 
-[52/2004]
-
-(2) Subsection (1) shall apply whether the act in question is done by the reception of the programme or by making use of any record, print, negative, tape or other article on which the programme has been recorded.
-
-(3) In relation to copyright in cable programmes, insofar as they consist of visual images, subsection (1) shall apply to any sequence of images sufficient to be seen as a moving picture; and accordingly, for the purpose of establishing an infringement of such copyright, it shall not be necessary to prove that the act in question extended to more than such a sequence of images.
-
-(4) For the purposes of subsection (1) (c), a cable programme shall be taken to be seen or heard by a paying audience if it is seen or heard by persons who either —
-
-(a) have been admitted for payment to the place where the programme is to be seen or heard, or have been admitted for payment to a place of which that place forms a part; or
-
-(b) have been admitted to the place where the programme is to be seen or heard in circumstances where goods or services are supplied there at prices which exceed the prices usually charged at that place and are partly attributable to the facilities afforded for seeing or hearing the programme.
-
-(5) For the purposes of subsection (4) (a), no account shall be taken —
-
-(a) of persons admitted to the place in question as residents or inmates therein; or
-
-(b) of persons admitted to that place as members of a club or society, where payment is only for membership of the club or society and the provision of facilities for seeing or hearing cable programmes is only incidental to the main purposes of the club or society.
+(e) has a perceptual handicap.

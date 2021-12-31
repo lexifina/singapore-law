@@ -1,11 +1,17 @@
-# 152. Tenure of office
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 2 — Constitution of Tribunal
+# 152. Exceptions to infringement
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
 
-(1) Subject to this section, the members of the Tribunal shall hold office for such period as may be determined at the time of their respective appointments; and a person who ceases to hold office as a member of the Tribunal shall be eligible for reappointment.
+(1) Part 5 (permitted uses) applies.
 
-(2) Any member of the Tribunal may at any time by notice in writing to the Minister resign his appointment.
+(2) The following written laws also provide for exceptions to copyright infringement:
 
-(3) The Minister may declare the office of any member of the Tribunal vacant on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
+(a) section 25(5) of the Newspaper and Printing Presses Act 1974 (copies of declared foreign newspapers);
 
-[Aust. 1968, ss. 141 and 145]
+(b) section 57(2) of the Patents Act 1994 (reproduction or publication of models and documents in connection with Government use);
+
+(c) section 108(6) of the Patents Act 1994 (publication of patent specification or application);
+
+(d) section 45(6) of the Registered Designs Act 2000 (reproduction or publication of models and documents in connection with Government use).
+
+Subdivision (2) — Action for copyright infringement

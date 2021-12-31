@@ -1,12 +1,15 @@
-# 268. Interpretation of this Part
-Part: PART XV SAVINGS AND TRANSITIONAL PROVISIONS UNDER COPYRIGHT (AMENDMENT) ACT 2004
+# 268. Copying part of artistic work in later artistic work
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 13 — Artistic works
 
-In this Part —
+(1) It is a permitted use of an artistic work to make a later artistic work if —
 
-‘‘amendment Act’’ means the Copyright (Amendment) Act 2004;
+(a) both works are made by the same author; and
 
-‘‘appointed day’’ means 1st January 2005*;
+(b) the later work does not repeat or imitate the main design of the earlier work.
 
-‘‘performance’’ has the same meaning as in section 246 (1).
+(2) Subsection (1) applies even if —
 
-[52/2004]
+(a) part of the earlier work is reproduced in the later work; and
+
+(b) in making the later work, the author uses a mould, cast, sketch, plan, model or study made for the purposes of the earlier work.

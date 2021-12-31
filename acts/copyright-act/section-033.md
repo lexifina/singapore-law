@@ -1,17 +1,10 @@
-# 33. Infringement by sale and other dealings
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 2 — Infringement of Copyright in Works
+# 33. When is a broadcast made
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (8) — Broadcasts
 
-(1) The copyright in a literary, dramatic, musical or artistic work is infringed by a person who, in Singapore, and without the licence of the owner of the copyright —
+A broadcast is made at —
 
-(a) sells, lets for hire, or by way of trade offers or exposes for sale or hire, an article; or
+(a) the time when the relevant visual images or sounds (or both) are broadcast; and
 
-(b) by way of trade exhibits an article in public, where he knows, or ought reasonably to know, that the making of the article constituted an infringement of the copyright or, in the case of an imported article, the making of the article was carried out without the consent of the owner of the copyright.
-
-(2) For the purposes of subsection (1), the distribution of any articles —
-
-(a) for the purpose of trade; or
-
-(b) for any other purpose to an extent that affects prejudicially the owner of the copyright concerned, shall be taken to be the sale of those articles.
-
-[Aust. 1968, s. 38]
+(b) in the case of direct broadcasting by satellite — the time when the relevant visual images or sounds (or both) are transmitted to the satellite transponder.

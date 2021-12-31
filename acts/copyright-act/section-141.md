@@ -1,11 +1,7 @@
-# 141. Obstruction
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 7 — Powers of Search
+# 141. Licences — licence of future copyright
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 8 — Ownership and transactions
 
-Any person who —
+(1) A licence may be granted in respect of a future copyright by the person who would be the copyright owner when the copyright comes into existence.
 
-(a) refuses any authorised officer or senior authorised officer access to any vessel, aircraft, vehicle or place which the officer is entitled under this Division; or
-
-(b) obstructs or hinders any authorised officer or senior authorised officer in the execution of any power conferred upon that officer by this Division, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[6/98]
+(2) Section 143 applies to a licence of a future copyright as it applies to the licence of a subsisting copyright.

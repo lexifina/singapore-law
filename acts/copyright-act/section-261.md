@@ -1,52 +1,37 @@
-# 261. Relief which court may grant
-Part: PART XIII RIGHTS MANAGEMENT INFORMATION
+# 261. Conditions for including literary or dramatic work in musical records
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 12 — Making musical records
 
-(1) In an action brought under section 260, the types of relief that the court may grant if it is satisfied that the defendant has carried out or is carrying out an act referred to in section 260 (2), (3) or (4) (referred to in this section as a relevant act) include the following:
+(1) This section applies where —
 
-(a) an injunction (subject to such terms, if any, as the court thinks fit);
+(a) a person (X) makes a record of a performance of a musical work; and
 
-(b) damages;
+(b) in the recorded performance, some or all of the words of a literary or dramatic work are sung, or spoken, incidentally to or in association with the music.
 
-(c) an account of profits;
+(2) The making of the record is a permitted use of the literary or dramatic work if —
 
-(d) where the plaintiff has elected for an award of statutory damages in lieu of damages or an account of profits, statutory damages of not more than $20,000.
+(a) the record is made in Singapore;
 
-[52/2004]
+(b) either —
 
-(2) When the court awards any damages under subsection (1) (b) in respect of a relevant act, the court may also make an order under subsection (1) (c) for an account of any profits attributable to the relevant act that have not been taken into account in computing the damages.
+(i) the making of the record is a permitted use of the musical work under section 260; or
 
-[52/2004]
+(ii) copyright does not subsist in the musical work;
 
-(3) Except as provided for in subsection (2), the types of relief referred to in subsection (1) (b), (c) or (d) are mutually exclusive.
+(c) records of the musical work have previously been made in Singapore, or imported into Singapore, for retail sale or for making other records for retail sale;
 
-[52/2004]
+(d) those records were made or imported by or with the licence of the owner of the copyright in the literary or dramatic work;
 
-(4) In awarding statutory damages under subsection (1) (d) in respect of any relevant act, the court shall have regard to —
+(e) in those records, the words mentioned in subsection (1) or substantially similar words are sung, or spoken, incidentally to or in association with the music;
 
-(a) the nature or purpose of the act concerned, including whether the act was of a commercial nature or otherwise;
+(f) before making the record, X gives the prescribed notice to the owner of the copyright in the literary or dramatic work;
 
-(b) the flagrancy of the act;
+and
 
-(c) whether the defendant acted in bad faith;
+(g) X pays to the owner of the copyright in the literary or dramatic work the prescribed royalty in the prescribed manner and within the prescribed time.
 
-(d) any loss that the plaintiff has suffered or is likely to suffer by reason of the act;
+(3) Subsection (2)(c) and (d) is deemed to be satisfied if X or the person selling the record —
 
-(e) any benefit shown to have accrued to the defendant by reason of the act;
+(a) makes the prescribed inquiries; and
 
-(f) the conduct of the parties before and during the proceedings;
-
-(g) the need to deter other similar acts; and
-
-(h) all other relevant matters.
-
-[52/2004]
-
-(5) In addition to the relief referred to in subsection (1), the court may order that any article —
-
-(a) by means of which, or in relation to which, a relevant act was or is being carried out; and
-
-(b) which is in the possession of the defendant or before the court, be delivered up to the plaintiff or destroyed.
-
-[52/2004]
-
-[Aust. 1968, s. 116D]
+(b) receives no answer within the prescribed time.

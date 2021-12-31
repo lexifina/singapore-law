@@ -1,17 +1,4 @@
-# 178. Representation
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 4 — Procedure and Evidence
+# 178. Limitation of action
+Part: PART 4 PROTECTION OF PERFORMANCES
 
-In proceedings before the Tribunal —
-
-(a) a party other than a body corporate or an unincorporated body of persons may appear in person or be represented by an employee of the party approved by the Tribunal;
-
-(b) a party being a body corporate may be represented by a director or other officer, or by an employee, of the party approved by the Tribunal;
-
-(c) a party being an unincorporated body of persons or a member of such a body may be represented by a member, or by an officer or employee, of the body approved by the Tribunal;
-
-and
-
-(d) any party may be represented by an advocate and solicitor.
-
-[Aust. 1968, s. 169]
+An action under section 177 for an infringing use of a performance may not be brought more than 6 years after the infringing use takes place.

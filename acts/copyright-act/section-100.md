@@ -1,5 +1,6 @@
-# 100. Ownership of copyright in cable programmes
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 5 — Ownership of Copyright in Subject-Matter other than Works
+# 100. What are acts comprised in a copyright
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 5 — Rights and rights infringements Subdivision (1) — Common provisions
+Subdivision: Subdivision (2) — Provisions relating to copyright works
 
-Subject to Part X, a person providing a cable programme service is the owner of any copyright subsisting in a cable programme included in that service.
+An act comprised in a copyright is any act that, under this Act, the owner of the copyright has the exclusive right to do.

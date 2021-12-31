@@ -1,27 +1,23 @@
-# 245. Assignments and licences
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 5 — Works made before 1st July 1912
+# 245. Interpretation: what is an interactive service
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 9 — Communication of sound recordings and recordings of protected performances
 
-(1) Without prejudice to the generality of section 237 (1), where —
+In this Division, “interactive service” —
 
-(a) the author of a work to which this Division applies had, before the commencement of the Copyright Act 1911*, made an assignment or grant of a kind referred to in paragraph (a) of the proviso to section 24 (1) of that Act (referred to in this section as paragraph (a) of the proviso); and
+(a) means a service that enables an individual to receive —
 
-(b) copyright subsists in the work by virtue of this Act, subsections (2), (3) and (4) shall have effect.
+(i) a transmission of a programme specially created for that individual; or
 
-(2) If, before 10th April 1987, an event occurred or a notice was given, being an event or notice that, in accordance with paragraph (a) of the proviso, had any operation affecting the ownership of the right conferred by the Copyright Act 1911 in relation to the work or
+(ii) on request, a transmission (whether or not as part of a programme) of a particular sound recording or a particular recording of a protected performance that is selected by or on behalf of that individual;
 
-*The Act came into operation on 1st July 1912.
+(b) includes a service —
 
-creating, transferring or terminating an interest, right or licence in respect of that right, that event or notice shall have the like operation in relation to the copyright in the work under this Act.
+(i) that enables an individual to request that a particular sound recording or a particular recording of a protected performance be performed for reception —
 
-(3) Any right that, at a time after 10th April 1987, would, by virtue of paragraph (a) of the proviso, have been exercisable in relation to the work or in relation to the right conferred by the Copyright Act 1911, if this Act had not been enacted, shall be exercisable in relation to the work or in relation to the copyright subsisting in the work under this Act, as the case may be.
+(A) by the public at large; or
 
-(4) If, in accordance with paragraph (a) of the proviso, the right conferred by the Copyright Act 1911 would have reverted to the author or his personal representatives on the date referred to in that paragraph, and that date occurs after 10th April 1987, then on that date —
+(B) in the case of a subscription service — by all subscribers of that service; and
 
-(a) the copyright in the work under this Act shall revert to the author or his personal representatives, as the case may be;
+(ii) where the programming on each channel of the service consists substantially of sound recordings or recordings of protected performances that are performed either within an hour of the request or at a time designated by that individual; but
 
-and
-
-(b) any interest of any other person in that copyright that subsists on that date by virtue of any document made before the commencement of the Copyright Act 1911 shall cease.
-
-[Aust. 1968, s. 248]
+(c) does not include a service to which paragraph (b)(i) applies but not paragraph (b)(ii).

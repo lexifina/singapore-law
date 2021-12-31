@@ -1,7 +1,5 @@
-# 242. Rights conferred by Copyright Act 1911
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 5 — Works made before 1st July 1912
+# 242. Interpretation: who is a lawful user
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 7 — Use of computer programs
 
-Notwithstanding anything in Division 2, section 27 shall not apply to a work to which this Division applies unless a right conferred by the Copyright Act 1911 subsisted in the work immediately before 10th April 1987.
-
-[Aust. 1968, s. 245]
+In this Division, a person is a “lawful user” of a computer program if the person has a right to use the program (whether under a licence to do any act comprised in the copyright in the program or otherwise).

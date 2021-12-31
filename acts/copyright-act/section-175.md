@@ -1,23 +1,30 @@
-# 175. Regulations as to procedure
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 4 — Procedure and Evidence
+# 175. Infringing use — general
+Part: PART 4 PROTECTION OF PERFORMANCES
 
-(1) The regulations may make provision for or in relation to the procedure in connection with the making of references and applications to the Tribunal and the regulation of proceedings before the Tribunal and may prescribe the fees payable in respect of those references and applications and the fees and expenses of witnesses in those proceedings.
+Subject to Part 5 (permitted uses), a person makes an infringing use of a protected performance if —
 
-(2) The regulations may include provision —
+(a) the person does any of the following acts:
 
-(a) for requiring notice of an intended inquiry by the Tribunal under section 157 or an intended reference to the Tribunal under section 160, 161 or 162 to be advertised in accordance with the regulations;
+(i) while the performance is live —
 
-(b) for requiring notice of an intended application to the High Court under section 169 (3) to be given to the Tribunal and to the other parties to the proceedings, and for limiting the time within which any such notice is to be given;
+(A) directly or indirectly records the performance in any manner or medium;
 
-(c) for suspending, or authorising or requiring the Tribunal to suspend, the operation of orders of the Tribunal in cases where, after giving its decision, the Tribunal refers a question of law to the High Court;
+(B) communicates the performance to the public;
 
-(d) for modifying, in relation to orders of the Tribunal the operation of which is suspended, the operation of any provisions of this Part as to the effect of orders made under this Part;
+or
 
-(e) for the publication of notices, or the doing of any other things, to ensure that persons affected by the suspension of an order of the Tribunal will be informed of its suspension;
+(C) causes the performance to be seen or heard (or both) in public;
 
-and
+(ii) makes a copy of a recording of the performance;
 
-(f) for regulating or prescribing any other matters incidental to or consequential upon any request, application, order or decision under section 169.
+(iii) publishes a recording of the performance, but only if no recording of the performance has been published;
 
-[Aust. 1968, s. 166]
+(iv) makes a recording of the performance available to the public (on a network or otherwise) in a way that the recording may be accessed by any person on demand; and
+
+(b) the act is done —
+
+(i) when the performance is protected;
+
+(ii) in Singapore; and
+
+(iii) without the rights owner’s authority.

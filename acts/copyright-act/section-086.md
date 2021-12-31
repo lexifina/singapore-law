@@ -1,9 +1,14 @@
-# 86. Nature of copyright in published editions of works
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 2 — Nature of Copyright in Subject-Matter other than Works
+# 86. What is an institution aiding persons with print disabilities
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (4) — Persons with print disabilities
 
-For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a published edition of a literary, dramatic, musical or artistic work or of 2 or more literary, dramatic, musical or artistic works, is the exclusive right to make, by a means that includes a photographic process, a reproduction of the edition.
+An “institution aiding persons with print disabilities” is an institution —
 
-[Aust. 1968, s. 88]
+(a) whose main functions include providing relevant material to persons with print disabilities;
 
-Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
+(b) that is formed, incorporated or established in Singapore;
+
+and
+
+(c) that is prescribed as an institution aiding persons with print disabilities.

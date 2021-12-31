@@ -1,35 +1,32 @@
-# 60. Conditions upon which manufacturer may include part of a literary or dramatic work in a record of a musical work
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 8 — Recording of Musical Works
+# 60. Specific acts that do not constitute publication
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (3) — Publishing
 
-(1) Where —
+(1) The following provisions provide that certain acts in certain circumstances are not to be treated as publication:
 
-(a) a person makes in Singapore a record comprising the performance of a musical work in which words are sung, or are spoken incidentally to or in association with the music, whether or not there is any other matter comprised in the record;
+(a) section 223(4) (publicising public exhibitions);
 
-(b) copyright does not subsist in that work or, if copyright so subsists, the requirements specified in section 56 (1) are complied with in relation to that copyright;
+(b) section 225(3) (making public collection available on internal network);
 
-(c) the words consist or form part of a literary or dramatic work in which copyright subsists;
+(c) section 226(3) (copying or communicating material for users of public collections);
 
-(d) a record of the musical work in which those words, or words substantially the same as those words, were sung, or were spoken incidentally to or in association with the music has previously been made in, or imported into, Singapore for the purpose of retail sale and was so made or imported by, or with the licence of, the owner of the copyright in the literary or dramatic work; and
+(d) section 227(3) (copying originals for use on premises of public collections);
 
-(e) the like notice was given to the owner of the copyright in the literary or dramatic work as is required by section 56 (1) (b) to be given to the owner of the copyright (if any) in the musical work and there is paid to the owner of the copyright in the literary or dramatic work such amount (if any) as is ascertained in accordance with this section, the making of the record shall not constitute an infringement of the copyright in the literary or dramatic work.
+(e) section 228(3) (copying or communicating unpublished thesis in university library or archive);
 
-(2) Where copyright does not subsist in the musical work, the amount to be paid in respect of the literary or dramatic work is an amount equal to the royalty that, but for this section, would have been payable in respect of the musical work if copyright had subsisted in the musical work.
+(f) section 229(3) (copying or communicating unpublished old material in public collections);
 
-(3) Where copyright subsists in the musical work as well as in the literary or dramatic work —
+(g) section 233(3) (copying or communicating material for administrative purposes of public collections);
 
-(a) if the copyrights in those works are owned by the same person — an amount is not payable in respect of the literary or dramatic work; or
+(h) section 244(5) (copying for computational data analysis);
 
-(b) if the copyrights in those works are owned by different persons — the royalty that, but for this section, would have been payable in respect of the musical work shall be apportioned between them in such manner as they agree, or, in default of the agreement, as is determined by the Copyright Tribunal on the application of either of them.
+(i) section 278(3) (copying or communicating material in public registers);
 
-(4) Where the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work do not agree on the manner in which an amount is to be apportioned between them but the person who made the record gives an undertaking in writing to each owner to pay to him the portion of that amount that the Tribunal determines to be payable to him, then —
+(j) section 281(3) (copying or communicating publicly disclosed material);
 
-(a) paragraph (d) of section 56 (1) and paragraph (e) of subsection (1) of this section shall have effect as if the payments referred to in those paragraphs had been made;
+(k) section 283(3) (data sharing within public sector);
 
-and
+(l) section 287 (public act).
 
-(b) the person who made the record shall be liable, when the amount to which an undertaking relates is determined, to pay that amount to the owner of the copyright to whom the undertaking was given and the owner may recover that amount in a court of competent jurisdiction from that person as a debt due to the owner.
-
-(5) The regulations made for the purposes of section 56 (1) (d) in relation to payments to the owner of the copyright in a musical work shall have the like effect, with any necessary modifications, for the purposes of subsection (1) (e) in relation to payments to the owner of the copyright in a literary or dramatic work.
-
-[Aust. 1968, s. 59]
+(2) To avoid doubt, the provisions mentioned in subsection (1) do not limit section 53(2).

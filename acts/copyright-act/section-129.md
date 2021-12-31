@@ -1,9 +1,13 @@
-# 129. Liability for costs
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 3 — Proceedings where Copyright is subject to Exclusive Licence
+# 129. Duration of copyright in repeat broadcasts
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 6 — Broadcasts
 
-Where, in an action to which section 124 applies, whether brought by the owner of the copyright or by the exclusive licensee, the other party is not joined as a plaintiff (either at the commencement of the action or at a later time), but is added as a defendant, the other party is not liable for any costs in the action unless he enters an appearance and takes part in the proceedings.
+(1) This section applies to a broadcast (called in this section a repeat broadcast) that —
 
-[Aust. 1968, s. 125]
+(a) repeats (whether for the first time or otherwise) an earlier broadcast (called in this section the original broadcast) that is made from a place in Singapore by the holder of a broadcasting licence; and
 
-Division 4 — Proof of Facts in Copyright Proceedings
+(b) is made by broadcasting visual images or sounds embodied in any article or thing.
+
+(2) If a repeat broadcast is made within 50 years after the end of the year in which the original broadcast is made, any copyright in the repeat broadcast expires at the end of those 50 years.
+
+(3) If a repeat broadcast is not made within 50 years after the end of the year in which the original broadcast is made, there is no copyright in the repeat broadcast.

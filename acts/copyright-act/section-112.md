@@ -1,17 +1,31 @@
-# 112. Copying of unpublished sound recordings and cinematograph films in libraries or archives
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 112. Nature of copyright in literary, dramatic and musical works
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 2 — Authorial works
 
-Where, at a time more than 50 years after the time at which, or the expiration of the period during which, a sound recording or cinematograph film was made, copyright subsists in the sound recording or cinematograph film but —
+(1) For the purposes of this Act, unless the contrary intention appears, copyright in a literary, dramatic or musical work is the exclusive right to do all or any of the following acts:
 
-(a) the sound recording or cinematograph film has not been published; and
+(a) to make a copy of the work;
 
-(b) a record embodying the sound recording, or a copy of the cinematograph film, is kept in the collection of a library or archives where it is, subject to any regulations governing that collection, accessible to the public, the copyright in the sound recording or cinematograph film and in any work or other subject-matter included in the sound recording or cinematograph film is not infringed —
+(b) to publish the work if the work is unpublished;
 
-(i) by the making of a copy, or the communication, of the sound recording or cinematograph film by a person for the purpose of research or study or with a view to publication; or
+(c) to perform the work in public;
 
-(ii) by the making of a copy, or the communication, of the sound recording or cinematograph film by or on behalf of the officer-in-charge of the library or archives, if the copy or the recording or film is supplied (whether by communication or otherwise) to a person who satisfies the officer that he requires the copy or the recording or film for the purpose of research or study or with a view to publication and that he will not use it for any other purpose.
+(d) to communicate the work to the public;
 
-[52/2004]
+(e) to make an adaptation of the work;
 
-[Aust. 1968, s. 51]
+(f) to do, in relation to an adaptation of the work, any of the acts specified in paragraphs (a) to (e);
+
+(g) in the case of a computer program — to enter into a commercial rental arrangement the essential object of which is the rental of the program.
+
+(2) If a computer program is embodied in a machine or device and cannot be copied through the ordinary use of the machine or a device, subsection (1)(g) does not extend to entering into a commercial rental arrangement in respect of the machine or device.
+
+(3) In subsection (2), “device” does not include —
+
+(a) a floppy disc;
+
+(b) a CD-ROM;
+
+(c) an integrated circuit; or
+
+(d) any other device that is ordinarily used to store computer programs.

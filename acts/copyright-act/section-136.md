@@ -1,105 +1,41 @@
-# 136. Offences
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 5 — Offences
+# 136. First owner — Government and prescribed international organisations
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 8 — Ownership and transactions
 
-(1) A person who at a time when copyright subsists in a work —
+(1) Despite subsections (3) and (4) and sections 133, 134 and 135, the Government is the first owner of —
 
-(a) makes for sale or hire;
+(a) any copyright in an unpublished authorial work made by or under the direction or control of the Government (including any copyright in the work after it is published);
 
-(b) sells or lets for hire, or by way of trade offers or exposes for sale or hire; or
+(b) any copyright in a published authorial work subsisting by virtue of section 110, if the work is first published by or under the direction or control of the Government;
 
-(c) by way of trade exhibits in public, any article which he knows, or ought reasonably to know, to be an infringing copy of the work shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for the article or for each article in respect of which the offence was committed or $100,000, whichever is the lower, or to imprisonment for a term not exceeding 5 years or to both.
+(c) any copyright in a published edition of an authorial work, if —
 
-[6/98]
+(i) the edition is first published on or after 21 November 2021 by or under the direction or control of the Government; or
 
-(2) A person who at a time when copyright subsists in a work has in his possession or imports into Singapore any article which he knows, or ought reasonably to know, to be an infringing copy of the work for the purpose of —
+(ii) the edition is first published before 21 November 2021 by or under the direction or control of the Government and copyright subsists in the edition only by virtue of section 117(1)(b)(ii); and
 
-(a) selling, letting for hire, or by way of trade offering or exposing for sale or hire, the article;
+(d) any copyright in a sound recording or film, if the recording or film is made or first published by or under the direction or control of the Government.
 
-(b) distributing the article for the purpose of trade, or for any other purpose to an extent that will affect prejudicially the owner of the copyright in the work; or
+(2) Subsection (1) is subject to any contrary intention in —
 
-(c) by way of trade exhibiting the article in public, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for the article or for each article in respect of which the offence was committed or $100,000, whichever is the lower, or to imprisonment for a term not exceeding 5 years or to both.
+(a) any written agreement made by the Government on or after 21 November 2021; or
 
-[6/98]
+(b) any agreement made by the Government before 21 November 2021.
 
-(3) Any person who, at a time when copyright subsists in a work, distributes, either —
+(3) Despite sections 133, 134 and 135, if copyright subsists in the following works only by virtue of the work being made or first published by or under the direction or control of a prescribed international organisation, the organisation is the first owner of the copyright:
 
-(a) for purposes of trade; or
+(a) an unpublished authorial work;
 
-(b) for other purposes, but to such an extent as to affect prejudicially the owner of the copyright, articles which he knows, or ought reasonably to know, to be infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+(b) a published authorial work;
 
-(3A) Where, at any time when copyright subsists in a work —
+(c) a published edition of an authorial work;
 
-(a) a person does any act that constitutes an infringement of the copyright in a work other than an act referred to in subsection (1), (2), (3) or (6);
+(d) a sound recording;
 
-(b) the infringement of the copyright in the work by the person is wilful; and
+(e) a film.
 
-(c) either or both of the following apply:
+(4) Subsection (3) is subject to any contrary intention in —
 
-(i) the extent of the infringement is significant;
+(a) any written agreement made by the organisation on or after 21 November 2021; or
 
-(ii) the person does the act to obtain a commercial advantage, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[52/2004]
-
-(4) A person who, at a time when copyright subsists in a work, makes or has in his possession an article specifically designed or adapted for making copies of the work that the person knows, or ought reasonably to know, is to be used for making infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each such article in respect of which the offence is committed or to imprisonment for a term not exceeding 2 years or to both.
-
-[6/98]
-
-(5) Subsections (1) to (4) shall apply in relation to copyright subsisting in any subject-matter by virtue of Part IV in like manner as they apply in relation to copyright subsisting in a work by virtue of Part III.
-
-(6) Any person who for his private profit causes a literary, dramatic or musical work to be performed in public, or causes a cinematograph film to be seen or heard or seen and heard in public, other than by the reception of a television broadcast or cable programme, where he knows, or ought reasonably to know, that copyright subsists in the work or cinematograph film and that the performance constitutes an infringement of the copyright, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-(6A) For the purposes of subsection (3A) (c) (i), in determining whether the extent of the infringement is significant, the court shall have regard to —
-
-(a) the volume of any articles that are infringing copies;
-
-(b) the value of any articles that are infringing copies;
-
-(c) whether the infringement has a substantial prejudicial impact on the owner of the copyright; and
-
-(d) all other relevant matters.
-
-[52/2004]
-
-(6B) For the purposes of subsection (3A) (c) (ii), a person does an act for the purpose of obtaining a commercial advantage if the act is done to obtain a direct advantage, benefit or financial gain for a business or trade carried on by him.
-
-[52/2004]
-
-(7) For the purposes of this section (other than subsection (3A)), any person who has in his possession 5 or more infringing copies of any work or other subject-matter shall, unless the contrary is proved, be presumed —
-
-(a) to be in possession of such copies otherwise than for private and domestic use; or
-
-(b) to be in possession of such copies for the purpose of sale.
-
-[52/2004]
-
-(8) The court before which a person is charged with an offence by reason of a contravention of any of the provisions of this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an infringing copy or any article which has been used for making infringing copies in the possession of the alleged offender or before the court, be destroyed or delivered up to the owner of the copyright concerned or otherwise dealt with in such manner as the court thinks fit.
-
-[6/98; 38/99; 52/2004]
-
-(9) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3), (3A) or (4) has been committed, the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, whether specifically or in any general category, and to seize any such articles and documents found at the premises.
-
-[52/2004]
-
-(10) If an article was seized under subsection (9) and —
-
-(a) in proceedings brought under this section, no order is made under subsection (8) as to the article; or
-
-(b) no such proceedings are instituted within 6 months of the seizure, the article shall be returned to the person in whose possession it was when it was seized or, if it is not reasonably practicable to return it to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
-
-[6/98]
-
-(11) If a document was seized under subsection (9) and no proceedings under this section are instituted within 6 months of the seizure, the document and all copies of the document shall be returned to the person in whose possession the document was when it was seized or, if it is not reasonably practicable to return the document and copies to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
-
-[6/98]
-
-(12) In this section —
-
-‘‘document’’ means anything in which information of any description is recorded;
-
-‘‘premises’’ includes any land, building, structure and conveyance.
-
-[6/98]
-
-[Aust. 1968, s. 132]
+(b) any agreement made by the organisation before 21 November 2021.

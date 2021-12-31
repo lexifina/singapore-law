@@ -1,13 +1,5 @@
-# 128. Separate actions in relation to the same infringement
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 3 — Proceedings where Copyright is subject to Exclusive Licence
+# 128. Duration of copyright in broadcasts
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 6 — Broadcasts
 
-In an action brought by the owner of the copyright or by the exclusive licensee —
-
-(a) a judgment or order for the payment of damages or statutory damages in respect of an infringement of copyright shall not be given or made under section 119 if a final judgment or order has been given or made in favour of the other party directing an account of profits under that section in respect of the same infringement; and
-
-(b) a judgment or order for an account of profits in respect of an infringement of copyright shall not be given or made under that section if a final judgment or order has been given or made in favour of the other party awarding damages or statutory damages or directing an account of profits under that section in respect of the same infringement.
-
-[52/2004]
-
-[Aust. 1968, s. 124]
+Subject to section 129, any copyright in a broadcast expires 50 years after the end of the year in which the broadcast is made.

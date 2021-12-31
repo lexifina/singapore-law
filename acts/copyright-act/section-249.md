@@ -1,18 +1,17 @@
-# 249. Private and domestic use
-Part: PART XII PERFORMERS’ PROTECTION
+# 249. Films depicting historical events
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 10 — Films
 
-For the purposes of this Part, a recording or a copy of such a recording shall be taken not to have been made for the private and domestic use of the person who made it if it is made for the purpose of —
+(1) This section applies where —
 
-(a) selling it, letting it for hire, or by way of trade offering or exposing it for sale or hire;
+(a) the visual images of a film consist wholly or mainly of images that, when they were first embodied in an article or a thing, were means of communicating news; and
 
-(b) distributing it for the purposes of trade;
+(b) 50 years have passed since the end of the year during which the main events depicted in the film occurred.
 
-(c) by way of trade exhibiting it in public;
+(2) It is a permitted use to —
 
-(d) broadcasting it or including it in a cable programme service;
+(a) cause the visual images of the film to be seen in public;
 
-or
+(b) cause any sounds of the film to be heard in public; or
 
-(e) causing it to be heard in public.
-
-[6/98; 38/99]
+(c) do both of those acts.

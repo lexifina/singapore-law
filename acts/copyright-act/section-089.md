@@ -1,17 +1,10 @@
-# 89. Television broadcasts and sound broadcasts in which copyright subsists
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
+# 89. What is an institution aiding persons with intellectual disabilities
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (5) — Persons with intellectual disabilities
 
-Subject to the provisions of this Act, copyright shall subsist —
+An “institution aiding persons with intellectual disabilities” is any educational institution or non-profit organisation —
 
-(a) in a television broadcast made from a place in Singapore by
+(a) whose main functions include aiding persons with intellectual disabilities; and
 
-the holder of a broadcasting licence; and
-
-(b) in a sound broadcast made from a place in Singapore by the
-
-holder of a broadcasting licence.
-
-[15/94]
-
-[Aust. 1968, s. 91]
+(b) that is prescribed as an institution aiding persons with intellectual disabilities.

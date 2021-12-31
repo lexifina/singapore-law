@@ -1,13 +1,12 @@
-# 180. Disobedience to summons, etc.
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 5 — Miscellaneous
+# 180. Assignment of right to bring action
+Part: PART 4 PROTECTION OF PERFORMANCES
 
-(1) A person who has been summoned to appear as a witness before the Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to appear in obedience to the summons.
+(1) The right to bring an action under section 177 may be assigned.
 
-(2) A person who has been summoned to produce a document or article to the Tribunal shall not, without lawful excuse, and after tender of reasonable expenses, fail to produce the document or article.
+(2) For the purposes of subsection (1), an assignment is valid only if it is —
 
-(3) A person who appears before the Tribunal shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents or articles, or to answer questions, that he is required by the Tribunal to produce or answer.
+(a) made in writing; and
 
-(4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months.
+(b) signed by or on behalf of the assignor.
 
-[Aust. 1968, s. 172]
+(3) Subsection (2)(b) does not apply to an assignment made before 21 November 2021.

@@ -1,9 +1,21 @@
-# 210. Expired copyright not to revive
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 2 — Original Works
+# 210. Interpretation: what does it mean to make an accessible format copy available to persons with print disabilities or a foreign institution
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-(1) Notwithstanding anything in Part III, copyright shall not subsist by virtue of that Part in a work first published before 10th April 1987 unless copyright subsisted in the work under the Copyright Act 1911 immediately before that date.
+For the purposes of this Division —
 
-(2) Subsection (1) shall not apply in relation to a work to which Division 5 applies.
+(a) an accessible format copy is made available to a person with a print disability if the copy is made available —
 
-[Aust. 1968, s. 210]
+(i) to the person;
+
+(ii) on a network or otherwise; and
+
+(iii) in a way that the copy may be accessed by the person on demand; and
+
+(b) an accessible format copy is made available to a foreign institution aiding persons with print disabilities if the copy is made available —
+
+(i) to a person (X) responsible for the day-to-day administration of the institution, or a person (Y) authorised by X;
+
+(ii) on a network or otherwise; and
+
+(iii) in a way that the copy may be accessed by X or Y on demand.

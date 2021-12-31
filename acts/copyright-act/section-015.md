@@ -1,26 +1,12 @@
-# 15. Reproduction of works
-Part: PART II INTERPRETATION
+# 15. What does a dramatic work include
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (3) — Literary, dramatic and musical works
 
-(1) For the purposes of this Act, reproduction, in the case of a literary, dramatic or musical work, includes a reproduction in the form of a sound recording or cinematograph film of the work, and any record embodying such a recording and any copy of such a film shall be deemed to be a reproduction of the work.
+(1) Subject to subsection (2), a “dramatic work” includes —
 
-(1A) For the purposes of this Act, reproduction, in relation to any work, includes the making of a copy which is transient or is incidental to some other use of the work.
+(a) a work of dance or mime; and
 
-[38/99]
+(b) a scenario or script for a film, but not a film.
 
-(1B) Without limiting the meaning of the term ‘‘reproduced’’, for the purposes of this Act, a literary, dramatic, musical or artistic work, including a reproduction of such work in the form of a sound recording or cinematograph film, is reproduced if it is converted into or from a digital or other electronic machine-readable form, and any article embodying the work or reproduction of the work in such a form is taken to be a reproduction of the work.
-
-[52/2004]
-
-(2) Subsections (1), (1A) and (1B) shall apply in relation to an adaptation of a work in like manner as it applies in relation to a work.
-
-[38/99; 52/2004]
-
-(3) For the purposes of this Act, an artistic work shall be deemed to have been reproduced —
-
-(a) in the case of a work in a 2-dimensional form — if a version of the work is produced in a 3-dimensional form; or
-
-(b) in the case of a work in a 3-dimensional form — if a version of the work is produced in a 2-dimensional form, and the version of the work so produced shall be deemed to be a reproduction of the work.
-
-(4) Subsection (3) shall have effect subject to Division 9 of Part III.
-
-[Aust. 1968, s. 21]
+(2) Awork of dance or mime made before 21 November 2021 is not a dramatic work unless it is described in writing in the form in which the show is to be presented.

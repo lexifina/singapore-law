@@ -1,9 +1,6 @@
-# 63. Sculptures and certain other works in public places
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 9 — Acts not Constituting Infringements of Copyright in Artistic Works
+# 63. Who is the maker of a communication
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (4) — Communicating
 
-(1) This section shall apply to sculptures and to works of artistic craftsmanship of the kind referred to in paragraph (c) of the definition of ‘‘artistic work’’ in section 7.
-
-(2) The copyright in a work to which this section applies that is situated, otherwise than temporarily, in a public place, or in premises open to the public, is not infringed by the making of a painting, drawing, engraving or photograph of the work or by the inclusion of the work in a cinematograph film or in a television broadcast.
-
-[Aust. 1968, s. 65]
+The maker of a communication (other than a broadcast) is the person responsible for deciding the content of the communication when the communication is made.

@@ -1,10 +1,21 @@
-# 193. Saving of other rights and remedies
-Part: PART IX FALSE ATTRIBUTION OF AUTHORSHIP
+# 193. Deemed fair use where work or recording included in fairly-used work
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 2 — Fair use
 
-(1) Subject to this section, this Part shall not affect any right of action or other remedy, whether civil or criminal, in proceedings instituted otherwise than by virtue of this Part.
+(1) This section applies where —
 
-(2) Any damages recovered in proceedings instituted by virtue of this Part shall be taken into account in assessing damages in proceedings instituted otherwise than by virtue of this Part and arising out of the same operation or transaction.
+(a) any of the following works is used for the purpose of criticism or review:
 
-(3) Any damages recovered in proceedings instituted otherwise than by virtue of this Part shall be taken into account in assessing damages in proceedings instituted by virtue of this Part and arising out of the same operation or transaction.
+(i) a sound recording;
 
-[Aust. 1968−1973, s. 195]
+(ii) a film;
+
+(iii) a broadcast;
+
+(iv) a cable programme; and
+
+(b) the use is fair.
+
+(2) A work or a recording of a protected performance that is included in the work mentioned in subsection (1)(a) is deemed to be fairly used (and section 191 does not apply).
+
+(3) To avoid doubt, this section does not limit what would otherwise be a fair use.

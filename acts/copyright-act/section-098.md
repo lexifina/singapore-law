@@ -1,15 +1,23 @@
-# 98. Ownership of copyright in cinematograph films
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 5 — Ownership of Copyright in Subject-Matter other than Works
+# 98. What is an infringing copy of a copyright work or protected performance
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 5 — Rights and rights infringements Subdivision (1) — Common provisions
 
-(1) This section shall have effect subject to Part X.
+(1) An “infringing copy” —
 
-(2) Subject to subsection (3), the maker of a cinematograph film is the owner of any copyright subsisting in the film by virtue of this Part.
+(a) in relation to a copyright work, is a copy of the work that is —
 
-(3) Where —
+(i) made in Singapore on or after 21 November 2021 in circumstances that constitute an infringement of copyright in the work under this Act;
 
-(a) a person makes, for valuable consideration, an agreement with another person for the making of a cinematograph film by the other person; and
+(ii) made in Singapore before 21 November 2021 in circumstances that constitute an infringement of copyright in the work under the 1911 Act or the 1987 Act, as the case may be; or
 
-(b) the film is made in pursuance of the agreement, the first-mentioned person is, in the absence of any agreement to the contrary, the owner of any copyright subsisting in the film by virtue of this Part.
+(iii) made outside Singapore without the consent of the copyright owner and imported without the licence of the copyright owner (whether the making or importation happened before, on or after 21 November 2021); and
 
-[Aust. 1968, s. 98]
+(b) in relation to a protected performance, is a recording of the performance that is —
+
+(i) made in Singapore on or after 21 November 2021 in circumstances that constitute an infringing use of the performance under this Act;
+
+(ii) made in Singapore before 21 November 2021 in circumstances that constitute an unauthorised use of the performance under the 1987 Act; or
+
+(iii) made outside Singapore and imported without the consent of the rights owner of the performance (whether the making or importation happened before, on or after 21 November 2021).
+
+(2) In subsection (1)(a), “copy”, in relation to an authorial work, means a copy of the work or of an adaptation of the work, but not a copy of a film of the work or adaptation.

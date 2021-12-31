@@ -1,16 +1,14 @@
-# 189. Duty not to falsely represent altered work or recording of performance as unaltered
-Part: PART IX FALSE ATTRIBUTION OF AUTHORSHIP
+# 189. What is sufficient acknowledgment of an authorial work
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
 
-Where a work in which copyright subsists or a recording of a performance in respect of which the protection period has not expired has been altered by a person other than the author of the work or the performer of the performance, a person shall be under a duty to the author or performer not to —
+(1) For the purposes of this Part, an acknowledgment of an authorial work is sufficient if the acknowledgment identifies —
 
-(a) publish, sell or let for hire, or by way of trade offer or expose for sale or hire, the work or recording as so altered as being the unaltered work of the author or as an unaltered recording of the performance; or
+(a) the work by its title or other description; and
 
-(b) publish, sell or let for hire, or by way of trade offer or expose for sale or hire, a reproduction of the work or a recording of the performance as so altered as being a reproduction of the unaltered work of the author or an unaltered recording of the performance by the performer, if, to his knowledge, it is not —
+(b) subject to subsection (2) — the author.
 
-(i) the unaltered work or a reproduction of the unaltered work, as the case may be, of the author; or
+(2) It is not necessary to identify the author if —
 
-(ii) the unaltered recording or a reproduction of the unaltered recording, as the case may be, of the performance by the performer.
+(a) the work has no identified author; or
 
-[52/2004]
-
-[Aust. 1968, s. 191]
+(b) the author has previously agreed or directed that his or her name is not to be acknowledged.

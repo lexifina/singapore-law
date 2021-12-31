@@ -1,5 +1,6 @@
-# 42. Religious performances
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 4 — Acts not Constituting Infringements of Copyright in Literary, Dramatic and Musical Works
+# 42. What is a copy of a published edition of an authorial work
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (2) — Copying
 
-A performance of a literary, dramatic or musical work of a religious nature, or an adaptation of such a work, in the course of services at a place of worship or other religious assembly shall not constitute an infringement of the copyright in the work.
+A “copy” of a published edition of an authorial work is a reproduction of the edition (whether made by a photographic process or otherwise) in any material form.

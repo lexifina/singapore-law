@@ -1,11 +1,10 @@
-# 87. Sound recordings in which copyright subsists
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
+# 87. What is the body administering an institution aiding persons with print disabilities
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (4) — Persons with print disabilities
 
-(1) Subject to the provisions of this Act, copyright shall subsist in a sound recording of which the maker was a qualified person at the time when the recording was made.
+The “body administering an institution aiding persons with print disabilities” is —
 
-(2) Without prejudice to subsection (1), copyright shall subsist, subject to the provisions of this Act, in a sound recording if the recording was made in Singapore.
+(a) in a case where the institution is a body corporate — the institution; or
 
-(3) Without prejudice to subsections (1) and (2), copyright shall subsist, subject to the provisions of this Act, in a published sound recording if the first publication of the recording took place in Singapore.
-
-[Aust. 1968, s. 89]
+(b) in any other case — the body or person (including the Government) having ultimate responsibility for administering the institution.

@@ -1,44 +1,31 @@
-# 252. What constitutes unauthorised use
-Part: PART XII PERFORMERS’ PROTECTION
+# 252. Making films of artistic works for television broadcasting or cable programmes
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 11 — Broadcasting, cable programmes and simulcasting
 
-(1) A person makes an unauthorised use of a performance if the person, at any time during the protection period of the performance and without the authority of the performer —
+(1) If the conditions in subsection (2) are met, it is a permitted use for a person (X) to make a film of an artistic work.
 
-(a) makes a direct or an indirect recording of the performance in any manner or medium;
+(2) The conditions are —
 
-(b) communicates the live performance to the public;
+(a) the film is made for the sole purpose of including the work in a television broadcast or cable programme;
 
-(c) makes a copy of a recording of the performance that the person knows, or ought reasonably to know, is an unauthorised recording;
+(b) X would not infringe the copyright in the work by including it in a television broadcast or cable programme;
 
-(d) makes a copy of an exempt recording of the performance, being a copy that the person knows, or ought reasonably to know, is not itself an exempt recording;
+(c) the first copy of the film is used only —
 
-(e) causes the performance to be seen and heard, or seen or heard, live in public;
+(i) for the purpose of including the work in a television broadcast or cable programme in circumstances that do not infringe the copyright in the work; or
 
-(f) publishes the recording of the performance if it is unpublished; or
+(ii) to make further copies for that purpose;
 
-(g) makes available a recording of the performance to the public (on a network or otherwise) in such a way that the recording may be accessed by any person from a place and at a time chosen by him.
+(d) if X is not the maker of the television broadcast or cable programme —
 
-[6/98; 52/2004]
+(i) X pays to the copyright owner an amount agreed between them for the making of the film; or
 
-(1A) A person makes an unauthorised use of a performance if the person, at any time on or after 15th December 1999 and during the protection period of the performance, and without the authority of the performer —
+(ii) X undertakes in writing to pay the copyright owner the amount that a Copyright Tribunal decides is equitable remuneration for the making of the film;
 
-(a) sells, lets for hire, or by way of trade exhibits in public or offers or exposes for sale or hire a recording of the performance that the person knows, or ought reasonably to know, is an unauthorised recording;
+and
 
-(b) distributes a recording of the performance for the purposes of trade, being a recording that the person knows, or ought reasonably to know, is an unauthorised recording; or
+(e) within the prescribed time, every copy of the film made under this section is —
 
-(c) imports a recording of the performance into Singapore for the purpose of —
+(i) delivered to the National Archives with the consent of the Director of National Archives; or
 
-(i) selling it, letting it for hire, or by way of trade exhibiting it in public or offering or exposing it for sale or hire; or
-
-(ii) distributing it for the purposes of trade, being a recording that the person knows, or ought reasonably to know, is an unauthorised recording.
-
-[38/99]
-
-(1B) A reference in this section to the making of a copy of a recording of a performance includes a reference to the making of a copy which is transient or is incidental to some other use of the recording.
-
-[38/99]
-
-(2) This section shall apply only to acts done in Singapore.
-
-[38/99]
-
-[Aust. 1968, s. 248G]
+(ii) destroyed.

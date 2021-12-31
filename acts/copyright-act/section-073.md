@@ -1,19 +1,20 @@
-# 73. Interpretation of this Division
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 10 — Designs
+# 73. What is a commercial dealing in a thing
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (8) — Commercial acts
 
-(1) In this Division ‘‘corresponding design’’, in relation to an artistic work, means a design which, when applied to an article, results in a reproduction of that work.
+(1) A person deals commercially in a thing if the person —
 
-(2) In this Division —
+(a) sells the thing;
 
-(a) references to the scope of the copyright in a registered design are references to the aggregate of the things, which, by virtue of the provisions of the Registered Designs Act (Cap. 266), the registered owner of the design has the exclusive right to do; and
+(b) lets the thing for hire;
 
-(b) references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered owner would have had the exclusive right to do if —
+(c) by way of trade, offers or exposes the thing for sale or hire;
 
-(i) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that owner had been registered as the owner of every such design; and
+(d) distributes the thing for the purpose of trade; or
 
-(ii) the design in question, and every other design such as is mentioned in sub-paragraph (i), had been registered in respect of all the articles to which it was capable of being applied.
+(e) by way of trade, exhibits the thing in public.
 
-[25/2000]
+(2) “Commercial dealing” has a corresponding meaning.
 
-[Aust. 1968, s. 74]
+(3) In this section, “thing” includes an article.

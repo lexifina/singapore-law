@@ -1,13 +1,13 @@
-# 124. Joinder of owner or exclusive licensee as party
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 3 — Proceedings where Copyright is subject to Exclusive Licence
+# 124. Nature of copyright in films
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 5 — Films
 
-Where —
+For the purposes of this Act, unless the contrary intention appears, copyright in a film is the exclusive right to do all or any of the following acts:
 
-(a) an action is brought by the owner of the copyright or by the exclusive licensee; and
+(a) to make a copy of the film;
 
-(b) the action, insofar as it is brought under section 119, relates, in whole or in part, to an infringement in respect of which the owner and the licensee have concurrent rights of action under that section, the owner or licensee, as the case may be, shall be entitled to proceed with the action without joining the other party as a plaintiff or adding the other party as a defendant in the action, unless the court orders otherwise.
+(b) to cause the visual images of the film to be seen in public;
 
-[52/2004]
+(c) to cause any sounds of the film to be heard in public;
 
-[Aust. 1968, s. 120 (1)]
+(d) to communicate the film to the public.

@@ -1,8 +1,10 @@
-# 14. Names under which work is published
-Part: PART II INTERPRETATION
+# 14. Subject matter of copyright in compilations
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (3) — Literary, dramatic and musical works
 
-(1) A reference in this Act to the name or names under which a work was published shall be read as a reference to the name or names specified in the work as the name of the author or the names of the authors of the work.
+To avoid doubt, any copyright in a compilation —
 
-(2) For the purposes of this Act, a publication of a work under 2 or more names shall not be taken to be pseudonymous unless all those names are pseudonyms.
+(a) is limited to the selection or arrangement of its contents that constitutes an intellectual creation; and
 
-[Aust. 1968, s. 20]
+(b) is in addition to, and independent of, any copyright in its contents and any other right under Part 4 (protection of performances) in relation to its contents.

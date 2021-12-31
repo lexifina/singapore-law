@@ -1,7 +1,4 @@
-# 177. Evidence in form of written statement
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 4 — Procedure and Evidence
+# 177. Action for infringing use of protected performance
+Part: PART 4 PROTECTION OF PERFORMANCES
 
-The Tribunal may, if it thinks fit, permit a person appearing as a witness before the Tribunal to give evidence by tendering, and verifying by oath or affirmation, a written statement, which shall be filed with the Secretary to the Tribunal.
-
-[Aust. 1968, s. 168]
+A performer of a protected performance may bring an action in the Court against any person who makes an infringing use of the performance.

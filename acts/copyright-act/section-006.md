@@ -1,6 +1,6 @@
-# 6. Operation of other laws
-Part: PART I PRELIMINARY
+# 6. Act binds Government
+Part: PART 1 PRELIMINARY
 
-Nothing in this Act shall affect the operation of the law relating to breaches of trust or confidence.
+(1) Unless it expressly provides otherwise, this Act binds the Government.
 
-[Aust. 1968, s. 9 (3)]
+(2) The Government is not liable to be prosecuted for an offence under this Act.

@@ -1,10 +1,11 @@
-# 190. Duty not to attribute falsely the authorship of reproduction of artistic work
-Part: PART IX FALSE ATTRIBUTION OF AUTHORSHIP
+# 190. Fair use is permitted use
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 2 — Fair use
 
-A person shall, by virtue of this section, be under a duty to the author of an artistic work in which copyright subsists not to —
+(1) It is a permitted use of a work to make a fair use of the work.
 
-(a) publish, sell or let for hire, by way of trade offer or expose for sale or hire, or by way of trade exhibit in public, a reproduction of the work, as being a reproduction made by the author of the work; or
+(2) It is a permitted use of a protected performance to make a fair use of —
 
-(b) distribute reproductions of the work as being reproductions made by the author of the work, where the reproduction was, or the reproductions were, to his knowledge, not made by the author.
+(a) the performance; or
 
-[Aust. 1968, s. 192]
+(b) a recording of the performance.

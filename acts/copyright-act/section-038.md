@@ -1,13 +1,10 @@
-# 38. Reproduction for purposes of judicial proceedings or professional advice
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 3 — Acts not Constituting Infringements of Copyright Works
+# 38. What is a recording of a protected performance
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (10) — Qualifying performances and recordings of protected performances
 
-The copyright in a literary, dramatic, musical or artistic work is not infringed by anything done —
+(1) A “recording”, in relation to a protected performance, means a sound recording of the performance or a substantial part of the performance, and includes a copy of such a recording.
 
-(a) for the purposes of a judicial proceeding or of a report of a judicial proceeding;
+(2) To avoid doubt, Subdivision (6) applies to recordings of protected performances as it applies to other sound recordings.
 
-(b) for the purpose of seeking professional advice from an advocate and solicitor; or
-
-(c) for the purpose of, or in the course of, the giving of professional advice by an advocate and solicitor.
-
-[Aust. 1968, s. 43]
+Division 3 — Acts relating to works and performances

@@ -1,7 +1,22 @@
-# 64. Buildings and models of buildings
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 9 — Acts not Constituting Infringements of Copyright in Artistic Works
+# 64. What is doing an act by the reception of a broadcast
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (5) — Broadcasting, etc.
 
-The copyright in a building or a model of a building is not infringed by the making of a painting, drawing, engraving or photograph of the building or model or by the inclusion of the building or model in a cinematograph film or in a television broadcast.
+(1) To do an act by the reception of a broadcast is to do that act by receiving a broadcast from —
 
-[Aust. 1968, s. 66]
+(a) the transmission by which the broadcast is made; or
+
+(b) a transmission that is —
+
+(i) made otherwise than by broadcasting; and
+
+(ii) made simultaneously with the transmission by which the broadcast is made.
+
+(2) For the purposes of subsection (1), it does not matter whether the broadcast is received directly from the transmission concerned or from a re-transmission made by any person from any place.
+
+(3) In subsection (2), “re-transmission” —
+
+(a) means any re-transmission (whether over paths provided by a material substance or not); and
+
+(b) includes a re-transmission made by making use of any article or thing in which the visual images or sounds constituting the broadcast (or both) have been embodied.

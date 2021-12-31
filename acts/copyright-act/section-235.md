@@ -1,13 +1,35 @@
-# 235. Subject-matter, other than original works, made or published by international organisations
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 4 — Miscellaneous
+# 235. Protection of libraries and archives when infringing copies made on machines installed by them
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 6 — Public collections: galleries, libraries, archives and museums
 
-(1) Section 185 (3) shall not apply in relation to sound recordings or cinematograph films made before 10th April 1987.
+(1) This section applies where —
 
-[S 107/87]
+(a) a machine is installed by or with the approval of the custodian of a library —
 
-(2) Section 185 (4) shall not apply in relation to sound recordings or cinematograph films first published before 10th April 1987.
+(i) on the premises of the library; or
 
-(3) Section 185 (5) shall not apply in relation to an edition published before 10th April 1987.
+(ii) outside the premises of the library, but for the convenience of persons using the library;
 
-[Aust. 1968, s. 237]
+(b) a notice in the prescribed form and dimensions is placed on or near the machine, in a way that is readily visible to a person using the machine; and
+
+(c) either —
+
+(i) the machine —
+
+(A) is for making facsimile copies of documents (whether or not in the same size or form); and
+
+(B) is used to make an infringing copy of an authorial work or of a published edition of an authorial work; or
+
+(ii) the machine is used to make an infringing copy of —
+
+(A) a sound recording, film, broadcast or cable programme; or
+
+(B) a protected performance.
+
+(2) The custodian of the library is not taken to have authorised the making of the infringing copy just because the infringing copy is made on the machine.
+
+(3) In this section —
+
+“library” includes an archive;
+
+“machine” includes a computer.

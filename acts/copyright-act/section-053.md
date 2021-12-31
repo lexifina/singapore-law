@@ -1,19 +1,22 @@
-# 53. Application of Division to illustrations accompanying articles and other works
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 6 — Copying of Works for Educational Purposes
+# 53. What constitutes publication of an authorial work
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (3) — Publishing
 
-Where an article or other literary, dramatic or musical work is accompanied by an artistic work or artistic works provided for the purpose of explaining or illustrating the article or other work, the provisions of this Division shall apply as if —
+(1) Subject to subsection (2) and sections 58, 59 and 60, an authorial work is published only if copies of the work (or of an edition of the work) have been supplied to the public (whether by sale, over the Internet, or otherwise).
 
-(a) where any of those sections provides that the copyright in the article or other work is not infringed — the reference to that copyright included a reference to any copyright in that artistic work or those artistic works;
+(2) The following acts are not to be treated as publishing an authorial work:
 
-(b) a reference in section 51 or 52 to a copy of an article or other work included a reference to a copy of the article or other work together with a copy of that artistic work or those artistic works;
+(a) despite section 39, supplying copies of a substantial part of the work to the public;
 
-(c) a reference in section 51 or 52 to a copy of a part of an article or other work included a reference to a copy of that part of the article or other work together with a copy of the artistic work or artistic works provided for the purpose of explaining or illustrating that part;
+(b) performing a literary, dramatic or musical work;
 
-(d) a reference in section 51 to a copy of a page of a literary, dramatic or musical work in an edition of the work or of works that include the work included a reference to a copy of a page in such an edition that contained that work and an artistic work or artistic works provided for the purpose of explaining or illustrating that part of that work; and
+(c) selling or otherwise supplying records of a literary, dramatic or musical work to the public;
 
-(e) a reference in section 51 to a copy of pages of a literary, dramatic or musical work in an edition of that work or of works that include that work included a reference to a copy of pages in such an edition that contained a part of that work and an artistic work or artistic works provided for the purpose of explaining or illustrating that part of that work.
+(d) exhibiting an artistic work;
 
-[Aust. 1968, s. 135ZM]
+(e) constructing a building or a model of a building;
 
-Division 7 — Copying of Works in Institutions Assisting Handicapped Readers and Institutions Assisting Intellectually Handicapped Readers
+(f) selling or otherwise supplying photographs of a building, of a model of a building or of a sculpture to the public;
+
+(g) selling or otherwise supplying engravings of a building, of a model of a building or of a sculpture to the public.

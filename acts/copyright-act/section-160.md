@@ -1,29 +1,18 @@
-# 160. Reference of proposed licence schemes to Tribunal
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 3 — Inquiries by, and Applications and References to, Tribunal
+# 160. Assessment of damages
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (3) — Infringement action where exclusive licensee has concurrent right of action
 
-(1) Where a licensor proposes to bring a licence scheme into operation, he may refer the scheme to the Tribunal.
+(1) This section applies if —
 
-(2) The parties to a reference under this section are —
+(a) the copyright owner or the exclusive licensee brings an infringement action for an infringement; and
 
-(a) the licensor referring the scheme; and
+(b) the other party is not a claimant in that action.
 
-(b) such organisations or persons (if any) as apply to the Tribunal to be made parties to the reference and, in accordance with subsection (3), are made parties to the reference.
+(2) If the Court orders the payment of damages or statutory damages for the infringement, the following matters must be considered in assessing damages or statutory damages:
 
-(3) Where an organisation (whether claiming to be representative of persons requiring licences or not) or a person (whether requiring a licence or not) applies to the Tribunal to be made a party to a reference, and the Tribunal is satisfied that the organisation or person has a substantial interest in the operation of the scheme to which the reference relates, the Tribunal may, if it thinks fit, make that organisation or person a party to the reference.
+(a) any right of action exercisable by the other party under that section in respect of the infringement;
 
-(4) The Tribunal shall consider a scheme referred under this section and, after giving to the parties to the reference an opportunity of presenting their cases, shall make such order, either confirming or varying the scheme, as the Tribunal considers reasonable in the circumstances.
+(b) if the action is brought by the exclusive licensee — any liabilities (whether for royalties or otherwise) to which the licence is subject;
 
-(5) An order (other than an interim order) of the Tribunal under this section may, notwithstanding anything in the licence scheme to which it relates, be made so as to be in force either indefinitely or for such period as the Tribunal thinks fit.
-
-(6) Where a licence scheme has been referred to the Tribunal under this section, the licensor may do either or both of the following things:
-
-(a) bring the scheme into operation before the Tribunal makes an order in pursuance of the reference;
-
-(b) withdraw the reference at any time before the Tribunal makes an order in pursuance of the reference, whether the scheme has been brought into operation or not.
-
-(7) If the scheme is not brought into operation before an order is made in pursuance of the reference, the scheme as confirmed or varied by the order comes into operation, notwithstanding anything in the scheme, immediately upon the making of the order.
-
-(8) After the making of an order in pursuance of the reference, the scheme as confirmed or varied by the order shall remain in operation, notwithstanding anything in the scheme, so long as the order remains in force.
-
-[Aust. 1968, s. 154]
+(c) if a separate infringement action is brought by the other party for the infringement — any pecuniary remedy already awarded to the other party under section 305 in respect of the infringement.

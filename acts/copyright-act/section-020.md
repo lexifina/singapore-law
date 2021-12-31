@@ -1,28 +1,36 @@
-# 20. Provisions relating to broadcasting
-Part: PART II INTERPRETATION
+# 20. What is an artistic work
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 2 — Works and performances Subdivision (1) — Works
+Subdivision: Subdivision (5) — Artistic works
 
-(1) A reference in this Act to broadcasting shall, unless the contrary intention appears, be read as a reference to broadcasting whether by way of sound broadcasting or of television.
+(1) An “artistic work” —
 
-(2) A reference in this Act to the doing of an act by the reception of a television broadcast or sound broadcast shall be read as a reference to the doing of that act by means of receiving a broadcast from —
+(a) is any of the following:
 
-(a) the transmission by which the broadcast is made; or
+(i) a painting, a sculpture, a drawing, an engraving or a photograph (whether the work is of artistic quality or not);
 
-(b) a transmission made otherwise than by way of broadcasting, but simultaneously with the transmission referred to in paragraph (a), whether the reception of the broadcast is directly from the transmission concerned or from re-transmission made by any person from any place.
+(ii) a building or a model of a building (whether the building or model is of artistic quality or not);
 
-(3) Where a record embodying a sound recording or a copy of a cinematograph film is used for the purpose of making a broadcast (referred to in this subsection as the primary broadcast), a person who makes a broadcast (referred to in this subsection as the secondary broadcast) by receiving and simultaneously making a further transmission of —
+(iii) a work of artistic craftsmanship to which neither sub-paragraph (i) nor (ii) applies; but
 
-(a) the transmission by which the primary broadcast was made;
+(b) does not include a layout-design or an integrated circuit as defined in section 2(1) of the Layout-Designs of Integrated Circuits Act 1999.
 
-or
+(2) For the purposes of this Act —
 
-(b) a transmission made otherwise than by way of broadcasting but simultaneously with the transmission referred to in paragraph (a), shall, for the purposes of this Act, be deemed not to have used the record or copy for the purpose of making the secondary broadcast.
+“building” includes a structure of any kind;
 
-(4) In this Act —
+“drawing” includes any diagram, map, chart or plan;
 
-(a) a reference to a cinematograph film of a television broadcast shall be read as including a reference to a cinematograph film, or a photograph, of any of the visual images comprised in the broadcast; and
+“engraving” includes an etching, a lithograph, a product of photogravure, a woodcut, a print or any other similar work, but not a photograph;
 
-(b) a reference to a copy of a cinematograph film of a television broadcast shall be read as including a reference to a copy of a cinematograph film, or a reproduction of a photograph, of any of those images.
+“photograph” —
 
-(5) In this section, ‘‘re-transmission’’ means any re-transmission, whether over paths provided by a material substance or not, and includes a re-transmission made by making use of any article or thing in which the visual images or sounds constituting the broadcast, or both, as the case may be, have been embodied.
+(a) is a product of —
 
-[Aust. 1968, s. 25]
+(i) photography or a similar process; or
+
+(ii) xerography; but
+
+(b) does not include any article or thing in which the visual images of a film are embodied;
+
+“sculpture” includes a cast or model made for purposes of sculpture.

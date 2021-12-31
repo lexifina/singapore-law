@@ -1,7 +1,11 @@
-# 216. Reconstruction of buildings
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 2 — Original Works
+# 216. Rights owner’s right to license or authorise not affected
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-The reference in section 72 (2) to construction of a building by, or with the licence of, the owner of the copyright in architectural drawings or plans shall be read as including a reference to construction by, or with the licence of, the person who, at the time of the construction, was the owner of the copyright in the drawings or plans.
+This Division does not affect a rights owner’s right to grant a licence to or authorise (as the case may be) the body administering an institution aiding persons with print disabilities or an educational institution —
 
-[Aust. 1968, s. 217]
+(a) to make or cause to be made;
+
+(b) to make available or cause to be made available; or
+
+(c) to distribute or cause to be distributed, accessible format copies of any relevant material.

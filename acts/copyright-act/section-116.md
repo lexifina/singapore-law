@@ -1,21 +1,41 @@
-# 116. Reproductions of editions of work
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 116. Interpretation of sections 114 and 115 — making available to public; application to works of joint authorship
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 2 — Authorial works
 
-The copyright in a published edition of a work or works is not infringed by the making of a reproduction of the whole or a part of that edition if that reproduction is made in the course of —
+(1) This section applies for the purposes of sections 114 and 115.
 
-(a) where the edition contains one work only —
+(2) Subject to subsection (3), an authorial work is made available to the public in the following circumstances (but without limiting the expression “made available to the public”):
 
-(i) a dealing with that work, being a dealing that does not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work; or
+(a) the work (or, in the case of a literary, dramatic or musical work, an adaptation of the work) is —
 
-(ii) the making of a copy (including a handicapped reader’s copy or an intellectually handicapped reader’s copy) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work; or
+(i) performed in public;
 
-(b) where the edition contains more than one work —
+(ii) communicated to the public; or
 
-(i) a dealing with one of those works or dealings with some or all of those works, being a dealing that does not, or dealings that do not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work or those works; or
+(iii) published;
 
-(ii) the making of a copy (including a handicapped reader’s copy or an intellectually handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the handicapped reader’s copies or the intellectually handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
+(b) if the work is an artistic work — the work is exhibited in public;
 
-[6/98]
+(c) if the work is an artistic work included in a film — the visual images of the film are seen in public;
 
-[Aust. 1968, s. 112]
+(d) if the work is a building — the building is constructed;
+
+(e) records of the work (or, in the case of a literary, dramatic or musical work, of an adaptation of the work) are —
+
+(i) offered to the public (whether or not for sale); or
+
+(ii) exposed for sale to the public.
+
+(3) An unauthorised act (as defined by section 58(5)) must be ignored in deciding whether an authorial work is made available to the public.
+
+(4) In the case of a work of joint authorship —
+
+(a) the work has an identified author if any of the joint authors are identified; and
+
+(b) a reference to the death of the author is a reference to the death of the last surviving identified author.
+
+Illustration
+
+An authorial work is jointly made in 2021 by A1 and A2. A1 is identified, A2 is not. A1 dies in 2050. The work is not made available to the public at any time before the end of 2071. By virtue of section 114(3)(a) read with section 116(4), any copyright in the work expires in 2120.
+
+Division 3 — Published editions of authorial works

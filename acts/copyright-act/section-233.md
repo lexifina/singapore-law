@@ -1,13 +1,49 @@
-# 233. Government copyright in films
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 4 — Miscellaneous
+# 233. Administration — copying or communicating material in public collections
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 6 — Public collections: galleries, libraries, archives and museums
 
-(1) Section 197 (5) shall not apply in relation to cinematograph films made before 10th April 1987.
+(1) If the conditions in subsection (2) are met, it is a permitted use to —
 
-(2) Where section 197 (5) does not apply in relation to a cinematograph film by reason of subsection (1) —
+(a) make a copy of any of the following material:
 
-(a) if the film was an original dramatic work as defined by section 205 — section 197 (1), (2) and (3), shall apply, in relation to that work in accordance with section 221 (1); and
+(i) an authorial work;
 
-(b) section 197 (1), (2) and (3), as modified by section 231, shall apply in relation to photographs forming part of the film in like manner as they apply in relation to photographs not forming part of a cinematograph film.
+(ii) a sound recording;
 
-[Aust. 1968, s. 235]
+(iii) a film;
+
+(iv) a recording of a protected performance; or
+
+(b) communicate the material.
+
+(2) The conditions are —
+
+(a) the material was or is part of a public collection;
+
+(b) the copy or communication is made by or on behalf of the custodian of the public collection;
+
+(c) the copy or communication is made for any of the following purposes:
+
+(i) internal record keeping;
+
+(ii) internal cataloguing;
+
+(iii) insurance;
+
+(iv) police investigations or other law enforcement actions;
+
+(v) security;
+
+(vi) any other administrative purpose; and
+
+(d) the copy is not used other than —
+
+(i) for the purposes mentioned in paragraph (c); or
+
+(ii) to create another copy of the material in circumstances to which any permitted use in this Division applies.
+
+(3) For the purposes of this Act, the supply of copies of any material in circumstances to which this section applies —
+
+(a) is not to be treated as publishing the material (or any work or recording included in the material); and
+
+(b) must be ignored in determining the duration of any copyright in the material (or the included work).

@@ -1,29 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-COPYRIGHT ACT
-(CHAPTER 63)
-Act
-2 of 1987
-1988 Ed. Cap. 63 1999 Ed. Cap. 63
-Amended by Amended by
-14 of 1994 25 of 2000
-15 of 1994 3 of 2001
-24 of 1995 34 of 2002
-6 of 1998 4 of 2003
-3 of 1999 21 of 2004
-38 of 1999 52 of 2004
-S 130/88 22 of 2005
-S 22/89
-REVISED EDITION 2006
-(31st January 2006)
+COPYRIGHT ACT 2021
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2006
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act relating to copyright and matters related thereto.
+An Act to repeal and re-enact the Copyright Act (Chapter 63 of the 2006 Revised Edition) to provide for copyright, the protection of performances and related rights, and to make related and consequential amendments to certain other Acts.
 
-[10th April 1987]
+[21 November 2021: Except Division 2 of Part 9 and sections 501(2) and (3) and 507(4)(c) and (10)]

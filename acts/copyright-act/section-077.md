@@ -1,7 +1,11 @@
-# 77. References to whichever of joint authors died last
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 11 — Works of Joint Authorship
+# 77. Who is a qualified individual
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
 
-The references in sections 28 and 47 to the author of a work shall, in relation to a work of joint authorship other than a work to which section 78 applies, be read as references to the author who died last.
+An individual is a “qualified individual” if he or she is —
 
-[Aust. 1968, s. 80]
+(a) a Singapore citizen;
+
+(b) a Singapore resident; or
+
+(c) an individual who, if he or she had been alive on 1 November 1957, would have qualified for Singapore citizenship under the repealed Singapore Citizenship Ordinance 1957 (Ord. 35 of 1957).

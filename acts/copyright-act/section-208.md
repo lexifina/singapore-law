@@ -1,6 +1,15 @@
-# 208. Authorship of photographs
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
+# 208. Interpretation: what is an accessible format copy
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-A reference in this Act to the author of a photograph shall, in relation to a photograph taken before 10th April 1987, be read as a reference to the person who, at the time when the photograph was taken, was the owner of the material on which the photograph was taken.
+An “accessible format copy” means —
 
-[Aust. 1968, s. 208]
+(a) in relation to an authorial work — a copy (whether in an electronic or a physical form) of the work in an accessible format;
+
+(b) in relation to a sound recording — a copy (whether in an electronic or a physical form) of the recording in an accessible format;
+
+(c) in relation to a sound broadcast — a copy of the broadcast in an accessible format; and
+
+(d) in relation to a recording of a protected performance —
+
+a copy (whether in an electronic or a physical form) of the recording in an accessible format.

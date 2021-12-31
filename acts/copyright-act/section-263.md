@@ -1,10 +1,17 @@
-# 263. Works published before appointed day
-Part: PART XIV TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) ACT 2004
+# 263. Regulations on other matters
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 12 — Making musical records
 
-(1) Copyright shall not subsist by virtue of Part III in any work first published before the appointed day unless copyright subsisted in that work immediately before that day under that Part in force immediately before that day.
+The Minister may prescribe any matter for the purpose of this Division (other than matters that may be prescribed under section 262), including —
 
-[21/2004]
+(a) the manner in which, and the time within which, the royalty for a record must be paid;
 
-(2) Section 212 shall not apply in relation to any photograph first taken before 10th April 1987 unless copyright subsisted in that photograph immediately before the appointed day under Part III and that section in force immediately before that day.
+(b) requiring the royalty (or any part of the royalty) for a record is to be paid before the record is sold or supplied by the person making the record;
 
-[21/2004]
+(c) providing that the royalty for a record is deemed to be paid —
+
+(i) by doing a specified act that the Minister considers convenient for ensuring that the copyright owner receives the royalty; or
+
+(ii) if the copyright owner cannot be found by reasonable inquiry — by doing a specified act that the Minister considers reasonable; and
+
+(d) any other circumstances in which the royalty is deemed to be paid.

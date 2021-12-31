@@ -1,15 +1,12 @@
-# 159. Applications to Tribunal for apportionment of royalty in respect of a record
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 3 — Inquiries by, and Applications and References to, Tribunal
+# 159. Same defences and same remedies available
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (3) — Infringement action where exclusive licensee has concurrent right of action
 
-(1) This section shall apply where an application is made to the Tribunal under section 60 (3) (b) for an apportionment of an amount payable in respect of a record between the owner of the copyright in a musical work and the owner of the copyright in a literary or dramatic work.
+(1) This section applies if the exclusive licensee brings an infringement action.
 
-(2) The parties to an application in relation to which this section applies are —
+(2) A defendant in the action is entitled to the same defences under this Act that would be available to the defendant if the action had been brought by the copyright owner.
 
-(a) the owner of the copyright in the musical work; and
+(3) Subject to this Subdivision, the exclusive licensee is entitled to the same remedies that the copyright owner would be entitled to under Division 1 of Part 6 if the action had been brought by the copyright owner.
 
-(b) the owner of the copyright in the literary or dramatic work.
-
-(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order apportioning the amount to which the application relates between the parties in such manner as it thinks equitable.
-
-[Aust. 1968, s. 153]
+(4) The remedies of the exclusive licensee are concurrent with the remedies of the copyright owner.

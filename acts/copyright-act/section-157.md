@@ -1,11 +1,8 @@
-# 157. Inquiries into royalty payable in respect of records of musical works
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 3 — Inquiries by, and Applications and References to, Tribunal
+# 157. Application of this Subdivision
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (3) — Infringement action where exclusive licensee has concurrent right of action
 
-(1) This section shall apply where the Minister charged with the responsibility for trade and industry requests the Tribunal under section 59 to hold an inquiry in relation to the royalty, or the minimum royalty, payable in respect of records generally, or in respect of records included in a particular class of records.
+(1) This Subdivision applies where an action for an infringement of copyright may be brought by the copyright owner and the exclusive licensee of the copyright.
 
-(2) Where such a request is made, the Tribunal shall hold the inquiry and shall give every person or organisation that the Tribunal is satisfied has a substantial interest in the matter to which the inquiry relates an opportunity of presenting a case to the Tribunal.
-
-(3) As soon as practicable after the completion of the inquiry, the Tribunal shall make a report in writing to the Minister setting out the result of the inquiry.
-
-[Aust. 1968−1973, s. 148]
+(2) This Subdivision does not apply in relation to a licence granted before 10 April 1987.

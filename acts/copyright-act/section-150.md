@@ -1,12 +1,37 @@
-# 150. Cases to which licence schemes apply
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
+# 150. Infringement by making device or providing service, etc., to access works communicated without authority
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
 
-(1) For the purposes of this Part, a case shall, subject to subsection (2), be deemed to be a case to which a licence scheme applies if, in accordance with a licence scheme for the time being in operation, a licence would be granted in that case.
+(1) Subject to the provisions of this Act, copyright in a work is infringed by a person (X) if —
 
-(2) For the purposes of this Part, where, in accordance with a licence scheme —
+(a) the work is communicated to the public without the copyright owner’s authority;
 
-(a) the licences that would be granted would be subject to conditions by virtue of which particular matters would be excepted from the licences; and
+(b) X does any of the following acts (whether before or after the work is so communicated):
 
-(b) a case relates to one or more matters falling within such an exception, that case shall be deemed not to be a case to which the scheme applies.
+(i) makes a device to obtain a commercial advantage;
 
-[Aust. 1968, s. 137]
+(ii) deals commercially in a device;
+
+(iii) imports a device for the purpose of commercial dealing;
+
+(iv) distributes a device to an extent that will prejudicially affect the copyright owner;
+
+(v) offers to the public, or provides, a service —
+
+(A) in exchange for payment; or
+
+(B) together with the sale of a device;
+
+(c) the device or service is capable of facilitating access to the work; and
+
+(d) X knows or ought reasonably to know that the device or service —
+
+(i) is capable of facilitating access to works communicated to the public without the authority of their copyright owners; and
+
+(ii) has only a limited commercially significant purpose or use other than that capability.
+
+(2) In this section —
+
+“device” includes a component of a device, and a computer program;
+
+“service” includes a subscription service and the provision of information.

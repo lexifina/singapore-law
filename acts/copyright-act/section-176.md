@@ -1,9 +1,28 @@
-# 176. Power to take evidence on oath
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 4 — Procedure and Evidence
+# 176. Infringing use — commercial dealing in unauthorised recordings, etc.
+Part: PART 4 PROTECTION OF PERFORMANCES
 
-(1) The Tribunal may take evidence on oath or affirmation, and for that purpose a member may administer an oath or affirmation.
+Subject to Part 5 (permitted uses), a person makes an infringing use of a protected performance if —
 
-(2) A member may summon a person to appear before the Tribunal to give evidence and to produce such documents and articles (if any) as are referred to in the summons.
+(a) the person does any of the following acts:
 
-[Aust. 1968, s. 167]
+(i) deals commercially in a recording of the performance;
+
+(ii) imports a recording of the performance for the purpose of commercially dealing;
+
+(b) the act is done —
+
+(i) when the performance is protected;
+
+(ii) in Singapore; and
+
+(iii) without the rights owner’s authority; and
+
+(c) the person knows or ought reasonably to know that the recording —
+
+(i) is made without the rights owner’s authority; and
+
+(ii) either —
+
+(A) is made on or after 21 November 2021 in circumstances that constitute an infringing use of the performance under section 175; or
+
+(B) was made before 21 November 2021 in circumstances that constitute an unauthorised use of the performance under the 1987 Act.

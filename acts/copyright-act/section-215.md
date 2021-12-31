@@ -1,7 +1,17 @@
-# 215. Publication of artistic works
-Part: PART XI TRANSITIONAL Division 1 — Preliminary
-Division: Division 2 — Original Works
+# 215. Copyright not to vest by virtue of making accessible format copy for persons with print disability
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 4 — Persons with print disabilities
 
-Section 66 shall not apply in relation to a painting, drawing, engraving, photography or cinematograph film made before 10th April 1987, but the copyright in an artistic work is not infringed by the publication of a painting, drawing, engraving, photograph or cinematograph film made before that date if, by virtue of section 63 or 64, the making of the painting, drawing, engraving, photograph or film would not have constituted an infringement of the copyright under this Act if this Act had been in operation at the time when it was made.
+(1) This section applies where an accessible format copy of any relevant material is made —
 
-[Aust. 1968, s. 216]
+(a) by or on behalf of —
+
+(i) the body administering an institution aiding persons with print disabilities; or
+
+(ii) an educational institution;
+
+(b) on a non-profit basis; and
+
+(c) to be used by a person with a print disability for the purposes of research or study or for self-instruction in any matter.
+
+(2) Despite any other provision of this Act, copyright does not vest in the person who made the copy just because the person made the copy under the provisions of this Division.

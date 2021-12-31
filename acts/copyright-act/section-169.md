@@ -1,25 +1,20 @@
-# 169. Reference of questions of law to High Court
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 3 — Inquiries by, and Applications and References to, Tribunal
+# 169. Presumptions as to anonymous or pseudonymous authorial work
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (4) — Presumptions in infringement actions
 
-(1) The Tribunal may, of its own motion or at the request of a party, refer a question of law arising in proceedings before it for determination by the High Court.
+(1) This section applies if —
 
-(2) A question shall not be referred to the High Court by virtue of subsection (1) in pursuance of a request made after the date on which the Tribunal gave its decision in the proceedings unless the request is made before the expiration of 14 days of the Tribunal giving its decision.
+(a) an authorial work is published;
 
-(3) If the Tribunal, after giving its decision in any proceedings, refuses a request to refer a question to the High Court, the party by whom the request was made may, within 14 days of the refusal, apply to the High Court for an order directing the Tribunal to refer the question to the High Court.
+(b) the publication is anonymous or is alleged by the claimant to be pseudonymous; and
 
-(4) Where a reference is made to the High Court under this section with respect to any proceedings before the Tribunal, and where an application is made under subsection (3) with respect to any such proceedings, every party to the proceedings before the Tribunal shall be entitled to appear and to be heard.
+(c) it is not proved that the work has an identified author.
 
-(5) Where, after the Tribunal has given its decision in any proceedings, the Tribunal refers to the High Court under this section a question of law that arose in the course of the proceedings, and the High Court decides that the question was erroneously determined by the Tribunal —
+(2) The work is presumed to be original.
 
-(a) the Tribunal shall reconsider the matter in dispute and, if it considers it necessary to do so for the purpose of giving effect to the decision of the High Court, shall give to the parties to the proceedings a further opportunity of presenting their cases; and
+(3) If the claimant alleges that a specified publication is the first publication of the work and that the first publication took place in a specified country and on a specified date —
 
-(b) if it appears to the Tribunal to be appropriate, and in conformity with the decision of the High Court, to do so, the Tribunal shall make such order revoking or modifying any order previously made by it in the proceedings, or, in the case of proceedings under section 163 where the Tribunal refused to make an order, shall make such order under that section, as the Tribunal considers to be appropriate.
+(a) the specified publication is presumed to be the first publication of the work; and
 
-(6) A reference of a question by the Tribunal to the High Court under this section shall be by way of stating a case for the opinion of the High Court; and the decision of the Court on any such reference shall be final.
-
-(7) For the purposes of this section, a question of law shall not include a question whether there is sufficient evidence to justify a finding of fact by the Tribunal.
-
-(8) This section shall not apply in relation to an inquiry by the Tribunal under section 157.
-
-[Aust. 1968, s. 161]
+(b) the first publication of the work is presumed to have taken place in the specified country and on the specified date.

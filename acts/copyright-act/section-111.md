@@ -1,13 +1,11 @@
-# 111. Fair dealing for purpose of reporting news
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 6 — Infringement of Copyright in Subject-Matter other than Works
+# 111. Conditions for copyright to subsist in buildings
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 2 — Authorial works
 
-A fair dealing with an audio-visual item shall not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item if —
+(1) Subject to the provisions of this Act, copyright subsists in an original artistic work —
 
-(a) it is for the purpose of, or is associated with, the reporting of news in a newspaper, magazine or similar periodical and a sufficient acknowledgment of the first-mentioned audio- visual item is made; or
+(a) that is a building in Singapore; or
 
-(b) it is for the purpose of, or is associated with, the reporting of news by means of broadcasting or a cable programme service, by any other means of communication to the public, or in a cinematograph film.
+(b) that is attached to, or part of, a building in Singapore.
 
-[52/2004]
-
-[Aust. 1968, s. 42]
+(2) This section does not apply to or in relation to a building if the construction of the building was completed before 10 April 1987.

@@ -1,11 +1,12 @@
-# 156. Sittings of Tribunal
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 2 — Constitution of Tribunal
+# 156. Interpretation of this Subdivision
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (3) — Infringement action where exclusive licensee has concurrent right of action
 
-(1) Sittings of the Tribunal shall be held at such places and times as the President of the Tribunal determines.
+In this Subdivision —
 
-(2) The exercise of the powers of the Tribunal shall not be affected by a vacancy or vacancies in the membership of the Tribunal.
+“infringement” means an infringement of copyright for which the copyright owner and the exclusive licensee of the copyright have concurrent rights of action;
 
-[Aust. 1968, s. 146 (1) and (7)]
+“infringement action” has a corresponding meaning;
 
-Division 3 — Inquiries by, and Applications and References to, Tribunal
+“party” means the copyright owner or the exclusive licensee, as the case may be.

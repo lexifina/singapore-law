@@ -1,7 +1,8 @@
-# 155. Decision of Tribunal
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 2 — Constitution of Tribunal
+# 155. Remedies and border enforcement measures
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 9 — Infringement of copyright Subdivision (1) — What is an infringement of copyright
+Subdivision: Subdivision (2) — Action for copyright infringement
 
-If the members of the Tribunal dealing with any reference or application are unable to agree as to the order to be made by the Tribunal, a decision shall be taken by the votes of the majority; and, in the event of an equality of votes, the President of the Tribunal shall be entitled to a second or casting vote.
+Part 6 applies, subject to Subdivision (3) of this Division.
 
-[Aust. 1968, s. 146 (5)]
+Subdivision (3) — Infringement action where exclusive licensee has concurrent right of action

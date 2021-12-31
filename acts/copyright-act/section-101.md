@@ -1,9 +1,6 @@
-# 101. Ownership of copyright in published editions of works
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 5 — Ownership of Copyright in Subject-Matter other than Works
+# 101. What does it mean to do an act with or without the licence of copyright owner
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 5 — Rights and rights infringements Subdivision (1) — Common provisions
+Subdivision: Subdivision (2) — Provisions relating to copyright works
 
-Subject to Part X, the publisher of an edition of a work or works is the owner of any copyright subsisting in the edition by virtue of this Part.
-
-[Aust. 1968, s. 100]
-
-Division 6 — Infringement of Copyright in Subject-Matter other than Works
+An act is done with or without the licence of a copyright owner if it is done or not done under a licence that is binding on the copyright owner.

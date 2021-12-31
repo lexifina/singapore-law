@@ -1,9 +1,13 @@
-# 139. Advertisement for supply of infringing copies of computer programs
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 5 — Offences
+# 139. Assignment — partial assignment
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 8 — Ownership and transactions
 
-(1) Any person who, by any means, publishes, or causes to be published, in Singapore an advertisement for the supply in Singapore (whether from within or outside Singapore) of a copy of a computer program which is an infringing copy shall, unless he proves that he acted in good faith and had no reasonable grounds for supposing that copyright would or might thereby be infringed, be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+An assignment of copyright may be limited, but only in one or more of the following ways:
 
-(2) For the purposes of this section, a transmission of a computer program that, when received and recorded, will result in the creation of a copy of the computer program shall be deemed to constitute the supply of a copy of the computer program at the place where the copy will be created.
+(a) to some but not all the types of acts comprised in the copyright;
 
-[Aust. 1968, s. 133A (as amended by Aust. Am. 1984, s. 6 and Aust. Am. 1986, s. 17)]
+(b) to a part but not the whole of each type of act comprised in the copyright;
+
+(c) to a part of the whole duration of the copyright;
+
+(d) in the case of copyright in sound recordings — to the whole or a part of the right to be paid equitable remuneration under section 121(b).

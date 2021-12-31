@@ -1,13 +1,12 @@
-# 173. Procedure
-Part: PART VII COPYRIGHT TRIBUNAL Division 1 — Preliminary
-Division: Division 4 — Procedure and Evidence
+# 173. Protection of performances
+Part: PART 4 PROTECTION OF PERFORMANCES
 
-In proceedings before the Tribunal —
+A performance is protected if it is —
 
-(a) the procedure of the Tribunal shall, subject to this Act and the regulations, be within the discretion of the Tribunal;
+(a) a qualifying performance; and
 
-(b) the Tribunal shall not be bound by the Evidence Act (Cap. 97); and
+(b) given live —
 
-(c) the proceedings shall be conducted with as little formality, and with as much expedition, as the requirements of this Act and a proper consideration of the matters before the Tribunal permit.
+(i) in Singapore; or
 
-[Aust. 1968, s. 164]
+(ii) by a qualified individual.

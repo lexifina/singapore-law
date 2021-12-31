@@ -1,14 +1,22 @@
-# 187. Interpretation of this Part
-Part: PART IX FALSE ATTRIBUTION OF AUTHORSHIP
+# 187. Permitted uses that may not be excluded or restricted
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
 
-In this Part, unless the context otherwise requires —
+(1) Any contract term is void to the extent that it purports, directly or indirectly, to exclude or restrict any permitted use under any provision in —
 
-‘‘name’’ includes initials or a monogram;
+(a) Division 6 (public collections), but not section 234 (supplying copies of published literary, dramatic or musical works or articles between libraries and archives);
 
-‘‘performance’’, ‘‘protection period’’ and ‘‘recording’’ have the
+(b) Division 7 (computer programs);
 
-same meanings as in Part XII.
+(c) Division 8 (computational data analysis); or
 
-[52/2004]
+(d) Division 17 (judicial proceedings and legal advice).
 
-[Aust. 1968, s. 189]
+(2) Without limiting subsection (1), a contract term is void to the extent that it purports, directly or indirectly, to prevent or restrict the doing of any of the following acts in circumstances that constitute a permitted use under the provisions mentioned in subsection (1):
+
+(a) making a copy of a work or a recording of a protected performance;
+
+(b) supplying (whether by communication or otherwise) a copy of a work or a recording of a performance;
+
+(c) performing a work or a recording of a protected performance.
+
+(3) This section applies to any contract made before, on or after 21 November 2021.

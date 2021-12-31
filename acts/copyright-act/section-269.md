@@ -1,10 +1,13 @@
-# 269. Assignments and licences before appointed day
-Part: PART XV SAVINGS AND TRANSITIONAL PROVISIONS UNDER COPYRIGHT (AMENDMENT) ACT 2004
+# 269. Reconstruction of buildings
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 13 — Artistic works
 
-Where any licence has been granted, or any contract or arrangement (including any assignment of copyright) has been entered into, before the appointed day, being a licence, contract or arrangement relating to —
+(1) It is a permitted use of an artistic work, being a building, to reconstruct the building.
 
-(a) the broadcast of a work or other subject-matter; or
+(2) It is a permitted use of architectural drawings or plans to reconstruct a building according to those drawings or plans if —
 
-(b) the inclusion of a work or other subject-matter in a cable programme, the licence, contract or arrangement shall, subject to any contrary intention, continue to have effect on or after that day in accordance with the provisions of this Act in force immediately before that day, as if the amendment Act had not been enacted.
+(a) another building has earlier been constructed according to those drawings or plans; and
 
-[52/2004]
+(b) the earlier construction is done by or with the consent of the copyright owner (either at the time of the earlier construction or after that).
+
+Division 14 — Artistic works with corresponding designs and industrially applied artistic works

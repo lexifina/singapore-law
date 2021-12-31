@@ -1,26 +1,25 @@
-# 256. Application to foreign countries
-Part: PART XII PERFORMERS’ PROTECTION
+# 256. Copying sound recordings, recordings of performances, or films for simulcasting
+Part: PART 5 PERMITTED USES OF COPYRIGHT WORKS AND PROTECTED PERFORMANCES Division 1 — General provisions
+Division: Division 11 — Broadcasting, cable programmes and simulcasting
 
-(1) The Minister may make regulations applying any of the provisions of this Part specified in the regulations, in relation to a country so specified, in any one or more of the following ways, so as to secure that those provisions —
+(1) If the conditions in subsection (2) are met, it is a permitted use to make a copy of any of the following material:
 
-(a) apply in relation to performances given in that country as they apply in relation to performances given in Singapore;
+(a) a sound recording;
 
-(b) apply in relation to persons who are citizens or nationals of that country as they apply in relation to persons who are citizens of Singapore;
+(b) a film;
 
-(c) apply in relation to persons who are resident in that country as they apply in relation to persons who are resident in Singapore.
+(c) a recording of a protected performance.
 
-[6/98]
+(2) The conditions are —
 
-(2) Regulations made under subsection (1) may apply the provisions of this Part —
+(a) broadcasting the material would not be a rights infringement in relation to the material;
 
-(a) without exception or modification or subject to such exceptions or modifications as may be specified in the regulations; and
+(b) the copy is made for the sole purpose of simulcasting the material in digital form;
 
-(b) either generally or in relation to such classes of performances, or other classes of cases, as may be specified in the regulations.
+(c) the copy is used only —
 
-[6/98]
+(i) for the purpose of simulcasting the material in circumstances that do not constitute a rights infringement in relation to the material; or
 
-(3) The Minister shall not make regulations applying any of the provisions of this Part in the case of a country, other than a country which is a party to a Convention relating to the protection of performers to which Singapore is also a party, unless the Minister is satisfied that, in respect of the performances to which those provisions relate, provision has been or will be made under the law of that country whereby adequate protection is or will be given to performers whose performances are protected under this Part.
+(ii) to make further copies for that purpose; and
 
-[6/98]
-
-[Aust. 1968, s. 248U]
+(d) every copy of the material made under this section is destroyed within the prescribed time.

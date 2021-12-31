@@ -1,13 +1,10 @@
-# 44. Interpretation of this Division
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 5 — Copying of Works in Libraries
+# 44. What is a copy of a sound recording
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (2) — Copying
 
-In this Division, a reference to an article contained in a periodical
+A “copy” of a sound recording is a record —
 
-publication shall be read as a reference to anything (other than an
+(a) embodying a sound recording or a substantial part of a sound recording; and
 
-artistic work) appearing in such a publication.
-
-[6/98]
-
-[Aust. 1968, s. 48]
+(b) derived, directly or indirectly, from a record produced upon the making of a sound recording.

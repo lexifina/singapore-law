@@ -1,11 +1,21 @@
-# 117. Copyrights to subsist independently
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 7 — Miscellaneous
+# 117. Conditions for copyright to subsist in published editions of authorial works
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 3 — Published editions of authorial works
 
-(1) Where copyright subsists in any subject-matter by virtue of this Part, nothing in this Part shall be taken to affect the operation of Part III in relation to any literary, dramatic, musical or artistic work from which that subject-matter is wholly or partly derived, and any copyright subsisting by virtue of this Part is in addition to, and independent of, any copyright subsisting by virtue of Part III.
+(1) Subject to the provisions of this Act, copyright subsists in a published edition of an authorial work if —
 
-[38/99]
+(a) the person who first published the edition is a qualified person at the date when the edition is first published; or
 
-(2) The subsistence of copyright under any provision of this Part shall not affect the operation of any other provision of this Part under which copyright can subsist.
+(b) the edition is first published —
 
-[Aust. 1968, s. 113]
+(i) in Singapore;
+
+(ii) by or under the direction or control of the Government; or
+
+(iii) by or under the direction or control of a prescribed international organisation.
+
+(2) Subsection (1) does not apply to an edition of an authorial work that —
+
+(a) reproduces a previous edition of the same work; or
+
+(b) was first published before 10 April 1987.

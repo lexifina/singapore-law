@@ -1,7 +1,14 @@
-# 90. Cable programmes in which copyright subsists
-Part: PART IV COPYRIGHT IN SUBJECT-MATTER OTHER THAN WORKS Division 1 — Preliminary
-Division: Division 3 — Subject-Matter, other than Works, in which Copyright Subsists
+# 90. What is the body administering an institution aiding persons with intellectual disabilities
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 4 — Relevant persons and organisations Subdivision (1) — Qualified individuals and persons
+Subdivision: Subdivision (5) — Persons with intellectual disabilities
 
-(1) Subject to the provisions of this Act, copyright shall subsist in a cable programme which is included in a cable programme service provided by a qualified person in Singapore.
+The “body administering an institution aiding persons with intellectual disabilities” is —
 
-(2) Copyright shall not subsist in a cable programme by virtue of this section if the programme is included in the cable programme service by the reception and immediate re-transmission of a television broadcast or a sound broadcast.
+(a) in a case where the institution is a body corporate — the institution; or
+
+(b) in any other case — the body or person (including the Government) having ultimate responsibility for administering the institution.
+
+Subdivision (6) — Public collections:
+
+galleries, libraries, archives and museums

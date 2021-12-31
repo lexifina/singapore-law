@@ -1,15 +1,22 @@
-# 61. Making inquiries in relation to previous records
-Part: PART III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS Division 1 — Nature, Duration and Ownership of Copyright in Works
-Division: Division 8 — Recording of Musical Works
+# 61. What does communicate mean
+Part: PART 2 INTERPRETATION Division 1 — General
+Division: Division 3 — Acts relating to works and performances Subdivision (1) — General
+Subdivision: Subdivision (4) — Communicating
 
-Where —
+(1) “Communicate”, in relation to a work or performance, means to transmit the work or performance by electronic means, and includes —
 
-(a) a person makes inquiries, as prescribed, for the purpose of ascertaining whether a record of a musical work, or a record of a musical work in which words consisting or forming part of a literary or dramatic work were sung or spoken, has previously been made in, or imported into, Singapore by, or with the licence of, the owner of the copyright in the musical work or in the literary or dramatic work, as the case may be, for the purpose of retail sale or for use in making other records for the purpose of retail sale; and
+(a) broadcasting the work or performance;
 
-(b) an answer to those inquiries is not received within the prescribed period, a record of that musical work, or a record of that work in which those words were sung or spoken, as the case may be, shall, for the purposes of the application of this Division —
+(b) the inclusion of the work or performance in a cable programme; and
 
-(i) in relation to the person who made the inquiries; or
+(c) making the work or performance available (on a network or otherwise) in way that it may be accessed by any person on demand.
 
-(ii) in relation to a person who makes records of the musical work, or records of that work in which those words or substantially the same words are sung or spoken, for the purpose of supplying those records to the person who made the inquiries in pursuance of an agreement entered into between those persons for the making of the records, be taken to have been previously made in, or imported into, Singapore with the licence of the owner of that copyright for the purpose of retail sale or for use in making other records for the purpose of retail sale, as the case may be.
+(2) For the purposes of subsection (1), it does not matter —
 
-[Aust. 1968, s. 61]
+(a) whether the transmission is over a path or a combination of paths;
+
+(b) whether the path or paths are provided by a material substance or by wireless means or otherwise; and
+
+(c) whether the work or performance is sent in response to a request.
+
+(3) “Communication” has a corresponding meaning.

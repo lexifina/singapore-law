@@ -1,7 +1,9 @@
-# 142. Limitation of actions in respect of infringement of copyright
-Part: PART V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT Division 1 — Preliminary
-Division: Division 8 — Miscellaneous
+# 142. Licences — formalities for exclusive licence
+Part: PART 3 COPYRIGHT IN WORKS Division 1 — General
+Division: Division 8 — Ownership and transactions
 
-An action shall not be brought for an infringement of copyright, after the expiration of 6 years from the time when the infringement took place.
+An exclusive licence of a copyright is valid only if it is —
 
-[Aust. 1968, s. 134]
+(a) made in writing; and
+
+(b) signed by or on behalf of the owner or prospective owner of the copyright.
