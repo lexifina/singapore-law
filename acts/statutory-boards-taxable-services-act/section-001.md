@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Statutory Boards (Taxable Services) Act.
+This Act is the Statutory Boards (Taxable Services) Act 1968.

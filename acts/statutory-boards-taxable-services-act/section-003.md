@@ -4,11 +4,9 @@
 
 (2) Any order under subsection (1) may prescribe an additional tax at the rate of 50% of the charges for any electrical energy supplied to such commercial buildings or class of commercial buildings as may be specified in the order and any additional tax so prescribed shall be paid by the owners of such buildings.
 
-[18/81; 1/84]
-
 (3) In subsection (2) ––
 
-(a) “owners” has the same meaning as in the Property Tax Act (Cap. 254); and
+(a) “owners” has the same meaning as in the Property Tax Act 1960; and
 
 (b) a reference to a commercial building is deemed to include any part of the building which is used for residential purposes.
 
