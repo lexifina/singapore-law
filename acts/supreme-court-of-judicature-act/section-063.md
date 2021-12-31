@@ -1,10 +1,7 @@
 # 63. Sheriff, Deputy Sheriff and Assistant Sheriffs of Supreme Court
-Part: PART VI OFFICERS AND OFFICES Registrar
+Part: PART 6 OFFICERS AND OFFICES Division 1 — Registrar
+Division: Division 2 — Sheriff
 
-(1) The Registrar shall be the Sheriff and the Deputy Registrar shall be the Deputy Sheriff and the Assistant Registrars shall be the Assistant Sheriffs of the Supreme Court.
+(1) The Registrar is the Sheriff and the Deputy Registrar is the Deputy Sheriff and the Assistant Registrars are the Assistant Sheriffs of the Supreme Court.
 
-[58/73]
-
-(2) The Deputy Sheriff and the Assistant Sheriffs shall have all the powers and privileges and may perform all the duties of the Sheriff.
-
-[58/73]
+(2) The Deputy Sheriff and the Assistant Sheriffs have all the powers and privileges and may perform all the duties of the Sheriff.

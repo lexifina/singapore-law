@@ -1,18 +1,27 @@
-# 47. Petition of appeal
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 47. Leave required to appeal
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
+Division: Division 3 — Matters that are non-appealable or appealable only with leave
 
-(1) Within 10 days after service of the notice referred to in section 46 (2), the appellant shall file with the Registrar a petition of appeal and 5 copies thereof addressed to the Court of Appeal.
+(1) An appeal against a decision of the Appellate Division made in the exercise of its appellate civil jurisdiction may only be brought with the leave of the Court of Appeal.
 
-[16/93]
+[40/2019]
 
-(2) Every petition of appeal shall be signed by the appellant or his advocate and solicitor and shall contain particulars of the matters of law or of fact in regard to which the trial court is alleged to have erred.
+(2) The Court of Appeal may grant leave under subsection (1) only if the appeal will raise a point of law of public importance.
 
-(3) Except by leave of the Court of Appeal, the appellant shall not be permitted, on the hearing of the appeal, to rely on any ground of appeal other than those set forth in the petition.
+[40/2019]
 
-[16/93]
+(3) In deciding whether to grant leave under subsection (1) or in determining, for the purposes of subsection (2), whether an appeal will raise a point of law of public importance, the Court of Appeal is to have regard to matters prescribed by the Rules of Court.
 
-(4) If a petition is not filed within the time prescribed by this section, the appeal shall be deemed to have been withdrawn.
+[40/2019]
 
-(5) Nothing in subsection (4) shall be deemed to limit or restrict the powers of extending time conferred upon the Court of Appeal by section 50.
+(4) To avoid doubt —
 
-[16/93]
+(a) the Court of Appeal is not required to grant leave under subsection (1) even if the appeal will raise a point of law of public importance; and
+
+(b) leave may be granted under subsection (1) even if the decision of the Appellate Division sought to be appealed against —
+
+(i) was made in an appeal transferred by the Court of Appeal to the Appellate Division under section 29E(1); or
+
+(ii) was made in an appeal to the Appellate Division that the Court of Appeal declined to transfer to itself under section 29D(1).
+
+[40/2019]

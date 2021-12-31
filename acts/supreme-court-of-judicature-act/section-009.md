@@ -1,10 +1,4 @@
-# 9. Constitution of High Court
-Part: PART III THE HIGH COURT General
+# 9. [Repealed]
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
 
-The High Court shall consist of —
-
-(a) the Chief Justice; and
-
-(b) the Judges of the High Court.
-
-[16/93]
+[Repealed by Act 40 of 2019]

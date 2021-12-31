@@ -1,8 +1,14 @@
-# 32. Sittings of Court of Appeal
-Part: PART IV THE COURT OF APPEAL
+# 32. Composition — general
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
 
-(1) The Court of Appeal shall sit on such dates (whether or not a Saturday, Sunday or public holiday or during a vacation prescribed under section 12) and at such places as the Chief Justice may from time to time appoint.
+(1) Subject to this Act, the jurisdiction of the Appellate Division is to be exercised by 3 or any greater uneven number of Judges.
 
-[8/98; 2/2007]
+[40/2019]
 
-(2) The Chief Justice may cancel or postpone any sitting of the Court of Appeal which has been appointed under subsection (1).
+(2) A Judge must not sit in the Appellate Division to hear or decide any appeal from a decision made by the Judge, or any matter related to such an appeal.
+
+[40/2019]
+
+(3) Section 10A applies in relation to proceedings before the Appellate Division as it applies in relation to proceedings before the General Division.
+
+[40/2019]

@@ -1,16 +1,19 @@
-# 18. Powers of High Court Appellate Jurisdiction of the High Court
-Part: PART III THE HIGH COURT General
+# 18. Powers of General Division
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
+Division: Division 2 — Original jurisdiction
 
-(1) The High Court shall have such powers as are vested in it by any written law for the time being in force in Singapore.
+(1) The General Division has the powers that are vested in it by any written law for the time being in force in Singapore.
 
-[16/93]
+[40/2019]
 
-(2) Without prejudice to the generality of subsection (1), the High Court shall have the powers set out in the First Schedule.
+(2) Without limiting subsection (1), the General Division has the powers set out in the First Schedule.
 
-[16/93]
+[40/2019]
 
-(3) The powers referred to in subsection (2) shall be exercised in accordance with any written law or Rules of Court relating to them.
+(3) The powers mentioned in subsection (2) are to be exercised in accordance with any written law, Rules of Court or Family Justice Rules relating to them.
 
-[16/93]
+[27/2014]
 
-Appellate Jurisdiction of the High Court
+Division 3 — Singapore International Commercial Court
+
+[40/2019]

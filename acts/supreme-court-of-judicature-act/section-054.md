@@ -1,22 +1,23 @@
-# 54. Powers of Court of Appeal
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 54. Composition — further provisions
+Part: PART 5 COURT OF APPEAL Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) At the hearing of an appeal, the Court of Appeal shall hear the appellant or his advocate and solicitor, if he appears, and, if it thinks fit, the respondent or his advocate and solicitor, if he appears, and may hear the appellant or his advocate and solicitor in reply.
+(1) Despite section 50(1), a case before the Court of Appeal may, if the Seventh Schedule so provides, be heard and decided by —
 
-[16/93]
+(a) either a single Judge or 2 Judges; or
 
-(2) The Court of Appeal may thereupon confirm, reverse or vary the decision of the trial court, or may order a retrial or may remit the matter with the opinion of the Court of Appeal thereon to the trial court, or may make such other order in the matter as it may think just, and may by such order exercise any power which the trial court might have exercised.
+(b) 2 Judges.
 
-[16/93]
+[40/2019]
 
-(3) The Court of Appeal may, notwithstanding that it is of opinion that the point raised in the appeal might be decided in favour of the appellant, dismiss the appeal if it considers that no substantial miscarriage of justice has occurred.
+(2) A Judge must not sit in the Court of Appeal to hear or decide any application to discharge or vary a direction or an order made by the Judge under section 58(1).
 
-[16/93]
+[40/2019]
 
-(4) At the hearing of an appeal, the Court of Appeal may, if it thinks that a different sentence should have been passed, quash the sentence passed by the trial court and pass such other sentence warranted in law (whether more or less severe) in substitution therefor as it thinks ought to have been passed.
+(3) Where the Court of Appeal is constituted by 3 or more Judges to hear and decide a case and one or more of those Judges are unable for any reason to continue exercising his or her functions as a Judge of the Court of Appeal so constituted —
 
-[16/93]
+(a) the Court of Appeal must continue to hear and decide the case if every party to the case consents and there are at least 2 Judges remaining; and
 
-(5) The Court of Appeal shall in no case make any order under this section as to payment of costs of any appeal to or by the appellant or respondent.
+(b) the case must be reheard if it cannot continue under paragraph (a).
 
-[16/93]
+[40/2019]

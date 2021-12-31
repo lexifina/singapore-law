@@ -1,18 +1,29 @@
-# 56. Judgment
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 56. Summary dismissal of certain matters
+Part: PART 5 COURT OF APPEAL Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) On the termination of the hearing of an appeal, the Court of Appeal shall, either at once or on some future day which is then appointed for the purpose or of which notice is subsequently given to the parties, deliver judgment in open court.
+(1) The Court of Appeal may summarily dismiss any appeal or application on its own motion if the Court of Appeal is satisfied of any of the following:
 
-[16/93]
+(a) the Court of Appeal does not have the jurisdiction to hear and determine the appeal or application;
 
-(2) The Court of Appeal shall ordinarily give only one judgment, which may be pronounced by the presiding Judge of Appeal or by such other member of the Court as the presiding Judge of Appeal may direct.
+(b) the Court of Appeal has already decided every issue in the appeal or application in an earlier matter in which the appellant or applicant was involved, and the appeal or application therefore has no merit;
 
-[16/93]
+(c) such conditions as may be prescribed by the Rules of Court are met.
 
-(3) Separate judgments shall be delivered if the presiding Judge of Appeal so directs.
+[40/2019]
 
-[16/93]
+(2) Before summarily dismissing any appeal or application under subsection (1), the Court of Appeal must —
 
-(4) The judgment of any member of the Court of Appeal who is absent may be read by any other Judge of Appeal.
+(a) give the appellant or applicant a reasonable opportunity to show cause why the appeal or application should not be summarily dismissed; and
 
-[16/93]
+(b) consider any representations made by the appellant or applicant.
+
+[40/2019]
+
+(3) The Court of Appeal may exercise its powers under this section without hearing oral arguments.
+
+[40/2019]
+
+(4) In this section, “appeal” includes part of an appeal and “application” includes part of an application.
+
+[40/2019]

@@ -1,22 +1,25 @@
-# 29A. Jurisdiction of Court of Appeal
-Part: PART IV THE COURT OF APPEAL
+# 29A. Leave required to appeal in certain cases
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
+Division: Division 7 — Matters that are non-appealable or appealable only with leave
 
-(1) The civil jurisdiction of the Court of Appeal shall consist of appeals from any judgment or order of the High Court in any civil cause or matter whether made in the exercise of its original or of its appellate jurisdiction, subject nevertheless to the provisions of this Act or any other written law regulating the terms and conditions upon which such appeals may be brought.
+(1) In the following cases, leave is required before an appeal may be brought against a decision of the General Division made in the exercise of its original or appellate civil jurisdiction:
 
-[16/93]
+(a) a case where it is expressly provided by any written law that an appeal may be brought only with leave, or that no appeal may be brought except with leave;
 
-(2) The criminal jurisdiction of the Court of Appeal shall consist of appeals against any decision made by the High Court in the exercise of its original criminal jurisdiction, subject nevertheless to the provisions of this Act or any other written law regulating the terms and conditions upon which such appeals may be brought.
+(b) subject to any exception specified in the Fifth Schedule, where the amount in dispute, or the value of the subject matter, at the hearing before the General Division (excluding interest and costs) does not exceed $250,000 or such other sum as may be specified by an order made under subsection (3);
 
-[16/93]
+(c) subject to any exception specified in the Fifth Schedule, a case specified in paragraphs 3 and 4(1) of that Schedule.
 
-(3) For the purposes of and incidental to —
+[40/2019]
 
-(a) the hearing and determination of any appeal to the Court of Appeal; and
+(2) For the purposes of subsection (1), leave must be obtained —
 
-(b) the amendment, execution and enforcement of any judgment or order made on such an appeal, the Court of Appeal shall have all the authority and jurisdiction of the court or tribunal from which the appeal was brought.
+(a) in a case where any written law specifies the court from which leave must be obtained, or the court which may grant leave — from the specified court; and
 
-[16/93]
+(b) in any other case — from the court specified in the Fifth Schedule.
 
-(4) The Court of Appeal shall, for the purposes of and subject to the provisions of this Act, have full power to determine any question necessary to be determined for the purpose of doing justice in any case before the Court.
+[40/2019]
 
-[16/93]
+(3) The President may, after consulting with the Chief Justice, by order in the Gazette, specify another sum in substitution of the sum mentioned in subsection (1)(b).
+
+[40/2019]

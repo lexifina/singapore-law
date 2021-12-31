@@ -1,22 +1,11 @@
-# 29. Constitution of Court of Appeal
-Part: PART IV THE COURT OF APPEAL
+# 29. No appeal in certain cases
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
+Division: Division 7 — Matters that are non-appealable or appealable only with leave
 
-(1) The Court of Appeal shall consist of —
+In the following cases, an appeal cannot be brought against a decision of the General Division made in the exercise of its original or appellate civil jurisdiction:
 
-(a) the Chief Justice; and
+(a) a case where it is expressly provided by any written law that the decision of the General Division is final or that an appeal cannot be brought against the decision of the General Division;
 
-(b) the Judges of Appeal.
+(b) a case specified in the Fourth Schedule, subject to any exception specified in that Schedule.
 
-[16/93]
-
-(2) The Chief Justice may appoint one or more of the Judges of Appeal as vice-presidents of the Court of Appeal.
-
-[16/93]
-
-(3) A Judge of the High Court may, on the request of the Chief Justice, sit as a judge of the Court of Appeal, in which case he shall have all the jurisdiction, powers and privileges of a judge of the Court of Appeal.
-
-[16/93]
-
-(4) The Chief Justice shall be the President of the Court of Appeal and, in his absence for any cause, the presidency shall be determined in accordance with the order of precedence prescribed in section 4.
-
-[16/93]
+[40/2019]

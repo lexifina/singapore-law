@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Supreme Court of Judicature Act.
+This Act is the Supreme Court of Judicature Act 1969.

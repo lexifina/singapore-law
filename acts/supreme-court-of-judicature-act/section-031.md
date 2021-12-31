@@ -1,10 +1,18 @@
-# 31. Appeals how decided
-Part: PART IV THE COURT OF APPEAL
+# 31. Jurisdiction — general
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
 
-(1) Subject to subsection (2), any appeal or determination of any question before the Court of Appeal shall be decided in accordance with the opinion of the majority of the members of the Court hearing the case.
+(1) The Appellate Division has the civil jurisdiction mentioned in section 35.
 
-[16/93]
+[40/2019]
 
-(2) Where an appeal has been heard by the Court of Appeal consisting of 2 Judges of Appeal and the members of the Court are divided, the decision appealed against shall stand.
+(2) The Appellate Division has no criminal jurisdiction.
 
-[16/93]
+[40/2019]
+
+(3) The Appellate Division has, in an appeal and for any purpose relating to an appeal, all the jurisdiction and powers of the court or tribunal from which the appeal was brought.
+
+[40/2019]
+
+(4) The Appellate Division may decide any question that needs to be decided to do justice in any case before it.
+
+[40/2019]

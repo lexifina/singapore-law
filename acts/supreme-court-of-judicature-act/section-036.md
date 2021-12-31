@@ -1,8 +1,23 @@
-# 36. Incidental directions and interim orders
-Part: PART IVA CIVIL JURISDICTION OF COURT OF APPEAL
+# 36. Composition — further provisions
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) In any proceeding pending before the Court of Appeal, any direction incidental thereto not involving the decision of the appeal, any interim order to prevent prejudice to the claims of parties pending the appeal, and any order for security for costs and for the dismissal of an appeal for default in furnishing security so ordered, may at any time be made by a Judge.
+(1) Despite section 32(1), a case before the Appellate Division may, if the Seventh Schedule so provides, be heard and decided by —
 
-(2) Every application under subsection (1) shall be deemed to be a proceeding in the Court of Appeal.
+(a) either a single Judge or 2 Judges; or
 
-(3) Every order so made may be discharged or varied by the Court of Appeal.
+(b) 2 Judges.
+
+[40/2019]
+
+(2) A Judge must not sit in the Appellate Division to hear or decide any application to discharge or vary a direction or an order made by the Judge under section 40(1).
+
+[40/2019]
+
+(3) Where the Appellate Division is constituted by 3 or more Judges to hear and decide a case and one or more of those Judges are unable for any reason to continue exercising his or her functions as a Judge of the Appellate Division so constituted —
+
+(a) the Appellate Division must continue to hear and decide the case if every party to the case consents and there are at least 2 Judges remaining; and
+
+(b) the case must be reheard if it cannot continue under paragraph (a).
+
+[40/2019]

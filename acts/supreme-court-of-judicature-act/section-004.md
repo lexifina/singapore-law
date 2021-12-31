@@ -1,14 +1,18 @@
 # 4. Precedence
-Part: PART II THE SUPREME COURT
+Part: PART 2 THE SUPREME COURT
 
-The Judges of the Supreme Court shall take precedence in the following order:
+The Supreme Court Judges rank in the following order:
 
 (a) the Chief Justice;
 
-(b) the vice-presidents of the Court of Appeal, who among themselves shall rank according to the priority of their respective appointments as vice-presidents;
+(b) the Vice-Presidents of the Court of Appeal according to the order of their appointments;
 
-(c) the Judges of Appeal (other than vice-presidents), who among themselves shall rank according to the priority of their respective appointments; and
+(c) the Justices of the Court of Appeal (other than the Vice-Presidents of the Court of Appeal) according to the order of their appointments;
 
-(d) the Judges of the High Court, who among themselves shall rank according to the priority of their respective appointments.
+(d) the President of the Appellate Division (if the Chief Justice is not the President of the Appellate Division);
 
-[16/93]
+(e) the Judges of the Appellate Division (other than the President of the Appellate Division) according to the order of their appointments;
+
+(f) the Judges of the High Court according to the order of their appointments.
+
+[40/2019]

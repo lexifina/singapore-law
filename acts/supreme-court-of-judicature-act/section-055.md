@@ -1,16 +1,15 @@
-# 55. Additional evidence
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 55. Oral hearing not needed for certain matters
+Part: PART 5 COURT OF APPEAL Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) In dealing with any appeal, the Court of Appeal may, if it thinks additional evidence is necessary, either take such evidence itself or direct it to be taken by the trial court.
+(1) The Court of Appeal may decide the following cases without hearing oral arguments:
 
-[16/93]
+(a) any application to the Court of Appeal, whether under this Act or any other written law;
 
-(2) When such additional evidence is taken by the trial court, it shall certify such evidence, with a statement of its opinion on the case considered with regard to the additional evidence, to the Court of Appeal, and the Court of Appeal shall thereupon proceed to dispose of the appeal.
+(b) any appeal to the Court of Appeal specified in paragraph 2 of the Eighth Schedule.
 
-[16/93]
+[40/2019]
 
-(3) The parties to the appeal shall be present when such additional evidence is taken.
+(2) To avoid doubt, subsection (1) does not affect the power of the Court of Appeal to decide the cases mentioned in that subsection after hearing oral arguments.
 
-(4) In dealing with any appeal, the Court of Appeal may also, if it thinks fit, call for and receive from the trial court a report of any matter connected with the trial.
-
-[16/93]
+[40/2019]

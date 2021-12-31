@@ -1,4 +1,4 @@
-# 12. Vacations
-Part: PART III THE HIGH COURT General
+# 12. [Repealed]
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
 
-The Chief Justice may make such regulations as he thinks fit as to vacations of the Supreme Court not exceeding 2 months in any calendar year.
+[Repealed by Act 40 of 2019]

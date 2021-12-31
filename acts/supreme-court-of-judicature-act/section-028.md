@@ -1,8 +1,13 @@
-# 28. Discretion of High Court as to hearing parties Allocation of Proceedings
-Part: PART III THE HIGH COURT General
+# 28. Discretion of General Division as to hearing parties
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
+Division: Division
 
-(1) Subject to the provisions of any written law for the time being in force, no party shall have any right to be heard before the High Court when exercising its powers of supervision and revision.
+(1) Subject to the provisions of any written law for the time being in force, no party has any right to be heard before the General Division when exercising its powers of supervision and revision.
 
-(2) No final order shall be made to the prejudice of any person unless that person has had an opportunity of being so heard.
+[40/2019]
 
-Allocation of Proceedings
+(2) No final order may be made to the prejudice of any person unless that person has had an opportunity of being so heard.
+
+Division 6 — Allocation of proceedings
+
+[40/2019]

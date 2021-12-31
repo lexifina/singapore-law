@@ -1,29 +1,18 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SUPREME COURT OF JUDICATURE ACT
-(CHAPTER 322)
-Act
-24 of 1969
-1970 Ed. Cap. 15 Reprint 1993, Cap. 322 1999 Ed. Cap. 322
-Amended by Amended by Amended by
-58 of 1973 2 of 1994 26 of 2003
-10 of 1978 34 of 1995 36 of 2004
-4 of 1986 3 of 1996 17 of 2005
-7 of 1997 42 of 2005
-1985 Ed. Cap. 322
-8 of 1998 2 of 2007
-Amended by 43 of 1998
-16 of 1993 20 of 1999
-REVISED EDITION 2007
-(31st July 2007)
+SUPREME COURT OF
+JUDICATURE ACT 1969
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2007
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act relating to the constitution and powers of the superior courts of judicature.
+An Act to provide for the jurisdiction and powers of the superior courts of judicature.
 
-[9th January 1970]
+[40/2019]
+
+[9 January 1970]

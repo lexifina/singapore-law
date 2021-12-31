@@ -1,6 +1,14 @@
-# 48. Procedure where appellant is in prison
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 48. President and Vice-Presidents
+Part: PART 5 COURT OF APPEAL Division 1 — General
 
-(1) If the appellant is in prison, he shall be deemed to have complied with the requirements of sections 45 and 47 if he gives to the officer-in-charge of the prison, either orally or in writing, notice of appeal and the particulars required to be included in the petition of appeal within the times prescribed by those sections.
+(1) The Chief Justice is the President of the Court of Appeal and may appoint one or more Vice-Presidents of the Court of Appeal from among the Justices of the Court of Appeal.
 
-(2) Such officer shall immediately forward such notice and petition or the purport thereof to the Registrar.
+[40/2019]
+
+(2) In a sitting of the Court of Appeal —
+
+(a) the most senior Supreme Court Judge, as determined by section 4, is to preside; and
+
+(b) if there is no Supreme Court Judge, the Chief Justice is to appoint a person to preside.
+
+[40/2019]

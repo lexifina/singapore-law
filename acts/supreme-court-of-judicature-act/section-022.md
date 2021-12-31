@@ -1,8 +1,15 @@
-# 22. Powers of rehearing Revision
-Part: PART III THE HIGH COURT General
+# 22. Powers of rehearing
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
+Division: Division 4 — Appellate jurisdiction
 
-(1) All appeals to the High Court in the exercise of its appellate civil jurisdiction shall be by way of rehearing.
+(1) All appeals to the General Division in the exercise of its appellate civil jurisdiction are to be by way of rehearing.
 
-(2) The High Court shall have the like powers and jurisdiction on the hearing of such appeals as the Court of Appeal has on the hearing of appeals from the High Court.
+[40/2019]
 
-Revision
+(2) The General Division has the like powers and jurisdiction on the hearing of such appeals as the Appellate Division has on the hearing of appeals from the General Division.
+
+[40/2019]
+
+Division 5 — Supervisory and revisionary jurisdiction
+
+[40/2019]

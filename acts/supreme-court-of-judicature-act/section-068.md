@@ -1,9 +1,8 @@
 # 68. Commissioners for oaths
-Part: PART VI OFFICERS AND OFFICES Registrar
+Part: PART 6 OFFICERS AND OFFICES Division 1 — Registrar
+Division: Division 4 — Subordinate officers
 
-(1) The Registrar, the Deputy Registrar and the Assistant Registrars shall be ex-officio commissioners for oaths.
-
-[58/73]
+(1) The Registrar, the Deputy Registrar and the Assistant Registrars are ex-officio commissioners for oaths.
 
 (2) The Senate of the Singapore Academy of Law may appoint fit and proper persons to be commissioners for oaths (subject to any limitations expressed in their appointment) who may do all or any of the following things:
 
@@ -27,8 +26,4 @@ Part: PART VI OFFICERS AND OFFICES Registrar
 
 (d) take and receive statutory declarations.
 
-[34/95]
-
 (3) The Senate of the Singapore Academy of Law may make rules for the appointment and conduct of, fees to be charged by, fees payable to the Singapore Academy of Law by, and for all things appertaining to, commissioners for oaths and persons appointed by the Senate under subsection (2).
-
-[34/95]

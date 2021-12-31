@@ -1,10 +1,25 @@
 # 75. Disqualification of Registrar
-Part: PART VII MISCELLANEOUS PROVISIONS List of Touts
+Part: PART 7 MISCELLANEOUS PROVISIONS Division 1 — List of touts
+Division: Division 3 — Disabilities of Registrar and other officers
 
-(1) The Registrar, the Deputy Registrar or an Assistant Registrar shall not be capable of accepting or taking any other office of emolument, nor of carrying on any business either directly or indirectly, nor shall he accept any fees of office, perquisites, emoluments or advantages, other than and except his salary and allowances.
+(1) Except with the approval of the Chief Justice, the Registrar, the Deputy Registrar and an Assistant Registrar —
 
-[58/73]
+(a) shall not be capable of —
 
-(2) The Registrar, the Deputy Registrar or an Assistant Registrar may, with the approval of the Chief Justice, be appointed to any commission of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
+(i) accepting or taking any other office of emolument; or
 
-[58/73]
+(ii) carrying on any business either directly or indirectly;
+
+and
+
+(b) must not accept any fees of office, perquisites, emoluments or advantages, other than his or her salary and allowances.
+
+[30/2010]
+
+(2) Without limiting subsection (1), the Registrar, the Deputy Registrar and an Assistant Registrar may, with the approval of the Chief Justice —
+
+(a) be appointed to any commission of inquiry, committee of inquiry or other judicial, quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education or other knowledge; and
+
+(b) receive an allowance or other honorarium in respect of that appointment or office.
+
+[30/2010]

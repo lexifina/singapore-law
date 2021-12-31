@@ -1,6 +1,14 @@
-# 50. Appeals out of time and formal defects
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 50. Composition — general
+Part: PART 5 COURT OF APPEAL Division 1 — General
 
-The Court of Appeal may, in its discretion, on the application of any person desirous of appealing who may be debarred from so doing by reason of his not having observed some formality or some requirement of this Act, permit an appeal upon such terms and with such directions as it may consider desirable in order that substantial justice may be done in the matter, and may, for that purpose, extend any period of time prescribed by section 45 or 47.
+(1) Subject to this Act, the jurisdiction of the Court of Appeal is to be exercised by 3 or any greater uneven number of Judges.
 
-[16/93]
+[40/2019]
+
+(2) A Judge must not sit in the Court of Appeal to hear or decide any appeal from a decision made by the Judge, or any matter related to such an appeal.
+
+[40/2019]
+
+(3) Section 10A applies in relation to proceedings before the Court of Appeal as it applies in relation to proceedings before the General Division.
+
+[40/2019]

@@ -1,20 +1,35 @@
-# 59. Point reserved in trial for Court of Appeal
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 59. Hearing of appeals
+Part: PART 5 COURT OF APPEAL Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) When any person has in a trial before the High Court in the exercise of its original criminal jurisdiction been convicted of an offence, the Judge may, if he thinks fit, reserve for the decision of the Court of Appeal any question of law which has arisen in the course of the trial of such person and the determination of which would affect the event of the trial.
+(1) Appeals to the Court of Appeal are to be by way of rehearing.
 
-[16/93]
+[40/2019]
 
-(2) The person so convicted shall thereupon be remanded to prison or, if the Judge thinks fit, be admitted to bail.
+(2) In hearing and deciding an appeal, the Court of Appeal has all the powers and duties, as to amendment or otherwise, of the court or tribunal from which the appeal was brought.
 
-(3) The Court of Appeal shall review such case, or such part of it as may be necessary, and finally determine the question and thereupon may alter the sentence passed and pass such sentence or give or make such judgment or order as it thinks fit.
+[40/2019]
 
-[16/93]
+(3) The Court of Appeal may receive further evidence by oral examination in court, by affidavit, or by deposition taken before an examiner or a commissioner.
 
-(4) When any person has, in a trial before the High Court acting in the exercise of its original criminal jurisdiction, been convicted of an offence and the Public Prosecutor is of opinion that any point or points of law arising on the trial which has or have not been reserved under this section ought to be further considered, the Public Prosecutor may certify accordingly under his hand.
+[40/2019]
 
-[16/93]
+(4) Except as provided in subsection (5), such further evidence may be given to the Court of Appeal only with the leave of the Court of Appeal and on special grounds.
 
-(5) Thereupon the Court of Appeal may review the case or such part of it as is necessary and finally determine the point or points of law and thereupon may alter the sentence passed and pass such judgment and sentence as the Court of Appeal thinks fit in like manner as though the point or points of law had been reserved under subsection (1).
+[40/2019]
 
-[16/93]
+(5) Such further evidence may be given to the Court of Appeal without leave if the evidence relates to matters occurring after the date of the decision appealed against.
+
+[40/2019]
+
+(6) The Court of Appeal may draw any inference of fact, give any judgment and make any order.
+
+[40/2019]
+
+(7) The powers in this section —
+
+(a) may be exercised in relation to any part of the decision appealed against, including any part of the decision appealed against to which the appeal does not relate; and
+
+(b) may be exercised in favour of any party to the decision appealed against, including any party to the decision appealed against who has not appealed against the decision.
+
+[40/2019]

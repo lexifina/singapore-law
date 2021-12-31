@@ -1,10 +1,7 @@
-# 42. Interpretation of this Part
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 42. Costs of appeal
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) In this Part, unless the context otherwise requires, ‘‘appellant’’ includes the Public Prosecutor when he appeals under this Part against the acquittal of any person by the High Court or against the sentence imposed on any person convicted by the High Court in the exercise of its original criminal jurisdiction.
+The Appellate Division may make any order as to the costs of an appeal or of the proceedings relating to the decision appealed against.
 
-[58/73; 16/93]
-
-(2) This Part relates to the Court of Appeal in the exercise of its criminal jurisdiction.
-
-[16/93]
+[40/2019]

@@ -1,28 +1,18 @@
-# 30. Composition of Court of Appeal
-Part: PART IV THE COURT OF APPEAL
+# 30. President
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
 
-(1) The civil and criminal jurisdiction of the Court of Appeal shall be exercised by 3 or any greater uneven number of Judges of Appeal.
+(1) The Chief Justice may appoint a Judge of the Appellate Division to be the President of the Appellate Division.
 
-[16/93]
+[40/2019]
 
-(2) Notwithstanding subsection (1), the Court of Appeal in the exercise of its civil jurisdiction shall, if it consists of 2 Judges of Appeal, be duly constituted for the purpose of hearing and determining an appeal against —
+(2) If no appointment is made under subsection (1), the Chief Justice is the President of the Appellate Division.
 
-(a) an interlocutory order; or
+[40/2019]
 
-(b) any other order except a judgment obtained after a trial of an action commenced by writ or after the hearing of an action or matter commenced by any other originating process.
+(3) In a sitting of the Appellate Division —
 
-[16/93]
+(a) the most senior Supreme Court Judge, as determined by section 4, is to preside; and
 
-(3) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of, or shall determine any application in proceedings incidental or preliminary to —
+(b) if there is no Supreme Court Judge, the Chief Justice is to appoint a person to preside.
 
-(a) an appeal from a judgment or an order made by him;
-
-(b) an appeal against a conviction before him or a sentence passed by him; or
-
-(c) the consideration of any point reserved by him under section 59.
-
-[16/93]
-
-(4) Section 10A shall apply in relation to proceedings before the Court of Appeal as it applies in relation to proceedings before the High Court.
-
-[16/93]
+[40/2019]

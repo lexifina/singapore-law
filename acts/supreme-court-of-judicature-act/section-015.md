@@ -1,7 +1,8 @@
 # 15. Criminal jurisdiction
-Part: PART III THE HIGH COURT General
+Part: PART 3 GENERAL DIVISION OF HIGH COURT Division 1 — General
+Division: Division 2 — Original jurisdiction
 
-(1) The High Court shall have jurisdiction to try all offences committed —
+(1) The General Division has jurisdiction to try all offences committed —
 
 (a) within Singapore;
 
@@ -11,10 +12,12 @@ Part: PART III THE HIGH COURT General
 
 (d) by any person on the high seas where the offence is piracy by the law of nations;
 
-(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) or the Maritime Offences Act (Cap. 170B); and
+(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act 1978 or the Maritime Offences Act 2003; and
 
 (f) in any place or by any person if it is provided in any written law that the offence is triable in Singapore.
 
-[10/78; 16/93; 26/2003]
+[40/2019]
 
-(2) The High Court may pass any sentence allowed by law.
+(2) The General Division may pass any sentence allowed by law.
+
+[40/2019]

@@ -1,10 +1,6 @@
-# 3. Divisions and jurisdiction of Supreme Court
-Part: PART II THE SUPREME COURT
+# 3. Superior courts
+Part: PART 2 THE SUPREME COURT
 
-The Supreme Court shall be a superior court of record and shall consist of —
+It is declared that the General Division of the High Court, the Appellate Division of the High Court and the Court of Appeal are superior courts of record.
 
-(a) the High Court, which shall exercise original and appellate civil and criminal jurisdiction; and
-
-(b) the Court of Appeal, which shall exercise appellate civil and criminal jurisdiction.
-
-[16/93]
+[40/2019]

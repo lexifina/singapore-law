@@ -1,12 +1,13 @@
-# 45. Notice of appeal
-Part: PART V CRIMINAL JURISDICTION OF COURT OF APPEAL
+# 45. Appeal not to operate as stay of execution
+Part: PART 4 APPELLATE DIVISION OF HIGH COURT Division 1 — General
+Division: Division 2 — Civil jurisdiction
 
-(1) Every appeal shall be by notice in writing which shall be filed with the Registrar within 14 days after the date on which the decision appealed against was given.
+(1) An appeal to the Appellate Division does not operate as a stay of execution or of proceedings under the decision appealed against, unless the General Division or the Appellate Division so orders.
 
-(2) Every notice of appeal shall —
+[40/2019]
 
-(a) state shortly the substance of the judgment appealed against;
+(2) No intermediate act or proceeding is to be invalidated except so far as the Appellate Division directs.
 
-(b) contain an address at which any notice or document connected with the appeal may be served upon the appellant or upon his advocate and solicitor; and
+[40/2019]
 
-(c) except where such notice of appeal is given orally under section 48, shall be signed by the appellant or his advocate and solicitor.
+Division 3 — Matters that are non-appealable or appealable only with leave
