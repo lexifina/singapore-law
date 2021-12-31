@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Interpretation Act.
+This Act is the Interpretation Act 1965.

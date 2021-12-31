@@ -1,7 +1,7 @@
 # 16. Effect of repeal
-Part: PART II GENERAL PROVISIONS REGARDING WRITTEN LAW
+Part: PART 2 GENERAL PROVISIONS REGARDING WRITTEN LAW
 
-(1) Where a written law repeals in whole or in part any other written law, then, unless the contrary intention appears, the repeal shall not —
+(1) Where a written law repeals in whole or in part any other written law, then, unless the contrary intention appears, the repeal does not —
 
 (a) revive anything not in force or existing at the time at which the repeal takes effect;
 
@@ -19,14 +19,8 @@ Part: PART II GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (b) the abrogation or limitation of the effect of the written law or part; and
 
-(c) the exclusion of the application of the written law or part to any person, subject-matter or circumstance.
-
-[28/2000]
+(c) the exclusion of the application of the written law or part to any person, subject matter or circumstance.
 
 (3) Where a written law expires, lapses or otherwise ceases to have effect, this section applies as if the written law had been repealed by another written law.
 
-[28/2000]
-
 (4) A reference in this section to a part of a written law includes a reference to any provision of, or words, figures, drawings or symbols in, the written law.
-
-[28/2000]

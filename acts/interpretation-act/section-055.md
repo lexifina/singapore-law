@@ -1,4 +1,4 @@
 # 55. Act to bind Government
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-This Act shall bind the Government.
+This Act binds the Government.

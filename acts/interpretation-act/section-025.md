@@ -1,4 +1,4 @@
 # 25. Construction of amending subsidiary legislation
-Part: PART III SUBSIDIARY LEGISLATION
+Part: PART 3 SUBSIDIARY LEGISLATION
 
-Where subsidiary legislation amends other subsidiary legislation, the amending subsidiary legislation shall, so far as is consistent with the tenor thereof and unless the contrary intention appears, be construed as one with the amended subsidiary legislation.
+Where subsidiary legislation amends other subsidiary legislation, the amending subsidiary legislation is, so far as is consistent with the tenor thereof and unless the contrary intention appears, to be construed as one with the amended subsidiary legislation.

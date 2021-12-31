@@ -1,9 +1,9 @@
 # 20. Additional provisions as to subsidiary legislation
-Part: PART III SUBSIDIARY LEGISLATION
+Part: PART 3 SUBSIDIARY LEGISLATION
 
-The following provisions shall also apply to subsidiary legislation:
+The following provisions also apply to subsidiary legislation:
 
-(a) authority to make subsidiary legislation shall include —
+(a) authority to make subsidiary legislation includes —
 
 (i) authority to provide that a contravention thereof shall be punishable by a fine not exceeding $2,000 or with imprisonment for a term not exceeding 12 months or both as may be specified in the subsidiary legislation;
 
@@ -13,8 +13,6 @@ The following provisions shall also apply to subsidiary legislation:
 
 (iv) authority to provide for the manner and method in which any document, record, application, permit, approval or licence may be submitted, issued or served by electronic means, or for the authentication thereof;
 
-(b) authority to provide for fees and charges shall include authority to provide for the determination of the manner and method of payment and the reduction, waiver or refund thereof, either generally or in any particular event or case or class of cases or in the discretion of any person; and
+(b) authority to provide for fees and charges includes authority to provide for the determination of the manner and method of payment and the reduction, waiver or refund thereof, either generally or in any particular event or case or class of cases or in the discretion of any person; and
 
-(c) a reference in a written law to another written law shall include reference to any subsidiary legislation made thereunder.
-
-[7/97; 25/98]
+(c) a reference in a written law to another written law includes a reference to any subsidiary legislation made thereunder.

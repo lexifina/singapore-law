@@ -1,4 +1,4 @@
 # 24. Judicial notice of subsidiary legislation
-Part: PART III SUBSIDIARY LEGISLATION
+Part: PART 3 SUBSIDIARY LEGISLATION
 
-Judicial notice shall be taken of all subsidiary legislation made or purporting to be made under any Act or other lawful authority.
+Judicial notice is to be taken of all subsidiary legislation made or purporting to be made under any Act or other lawful authority.

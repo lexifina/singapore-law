@@ -1,7 +1,7 @@
 # 33. Powers of board, etc., not affected by vacancy, etc.
-Part: PART IV POWERS AND APPOINTMENTS
+Part: PART 4 POWERS AND APPOINTMENTS
 
-Where by or under any Act, any board, commission, committee or similar body, whether corporate or unincorporate, is established, then, unless the contrary intention appears, the powers of such board, commission, committee or similar body shall not be affected by —
+Where by or under any Act, any board, commission, committee or similar body, whether corporate or unincorporate, is established, then, unless the contrary intention appears, the powers of such board, commission, committee or similar body are not affected by —
 
 (a) any vacancy in the membership thereof;
 

@@ -1,4 +1,4 @@
 # 21. Use of defined terms in subsidiary legislation
-Part: PART III SUBSIDIARY LEGISLATION
+Part: PART 3 SUBSIDIARY LEGISLATION
 
-Where any Act confers powers to make any subsidiary legislation, expressions used in the subsidiary legislation shall, unless the contrary intention appears, have the same respective meanings as in the Act conferring the power.
+Where any Act confers powers to make any subsidiary legislation, expressions used in the subsidiary legislation have the same meanings as in the Act conferring the power, unless the contrary intention appears.
