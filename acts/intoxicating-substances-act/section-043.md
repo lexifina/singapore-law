@@ -1,9 +1,9 @@
 # 43. Regulations
-Part: PART VI GENERAL
+Part: PART 6 GENERAL
 
 (1) The Minister may make regulations for any purpose for which regulations may be made under this Act and for prescribing anything which may be prescribed under this Act and generally for the purpose of carrying this Act into effect.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations with respect to any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations with respect to any of the following matters:
 
 (a) providing for the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing in themselves a state of intoxication;
 
@@ -15,8 +15,6 @@ Part: PART VI GENERAL
 
 (e) providing for the control, discipline and occupation of inmates, including the imposition of corporal punishment;
 
-(f) prescribing the appointment and duties of officers of approved centres; and
+(f) prescribing the appointment and duties of officers of approved centres;
 
 (g) prescribing the punishment by a fine not exceeding $2,000 or imprisonment for a term not exceeding 6 months or both to be imposed on conviction for a breach of any regulations.
-
-[28

@@ -1,8 +1,4 @@
 # 33. Evidence and procedure
-Part: PART V COMMITTEE OF INQUIRY
+Part: PART 5 COMMITTEE OF INQUIRY
 
-Except as otherwise provided in this Act, a committee of inquiry shall not be bound by the rules of evidence and may act in such manner as the committee of inquiry thinks most expedient.
-
-[23G
-
-[8/2000]
+Except as otherwise provided in this Act, a committee of inquiry is not bound by the rules of evidence and may act in such manner as the committee of inquiry thinks most expedient.
