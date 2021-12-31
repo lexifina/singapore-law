@@ -4,7 +4,7 @@
 
 (a) in respect of aircraft objects; and
 
-(b) to Singapore as described in the declarations, shall have the force of law in Singapore.
+(b) to Singapore as described in the declarations, have the force of law in Singapore.
 
 (2) If a provision of this Act, including a provision given force of law by this section, is inconsistent with any other law, the provision prevails over the other law to the extent of the inconsistency.
 

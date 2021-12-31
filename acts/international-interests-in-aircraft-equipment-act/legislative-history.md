@@ -1,5 +1,9 @@
-# LEGISLATIVE HISTORY INTERNATIONAL INTERESTS IN AIRCRAFT EQUIPMENT ACT (CHAPTER 144B)
+# LEGISLATIVE HISTORY INTERNATIONAL INTERESTS IN AIRCRAFT EQUIPMENT ACT 2009
 
-This Legislative History is provided for the convenience of users of the International Interests in Aircraft Equipment Act. It is not part of the Act.
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 5 of 2009 — International Interests in Aircraft Equipment Act 2009 Date of First Reading : 17 November 2008 (Bill No. 37/2008 published on 18 November 2008) Date of Second and Third Readings : 19 January 2009 Date of commencement : 1 May 2009
+1. Act 5 of 2009 — International Interests in Aircraft Equipment Act 2009 Bill : 37/2008 First Reading : 17 November 2008 Second and Third Readings : 19 January 2009 Commencement : 1 May 2009 2. 2012 Revised Edition — International Interests in Aircraft Equipment Act (Chapter 144B) Operation : 31 March 2012 3. Act 15 of 2017 — Companies (Amendment) Act 2017 (Amendments made by section 53(3) of the above Act) Bill : 13/2017 First Reading : 28 February 2017 Second and Third Readings : 10 March 2017 Commencement : 23 May 2017 (section 53(3)) 4. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 484 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 484) 5. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 79 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 79 of the Schedule)
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

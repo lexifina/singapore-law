@@ -8,7 +8,7 @@ THE STATES PARTIES TO THIS PROTOCOL,
 
 CONSIDERING it necessary to implement the Convention on International Interests in Mobile Equipment (hereinafter referred to as “the Convention”) as it relates to aircraft equipment, in the light of the purposes set out in the preamble to the Convention,
 
-MINDFUL of the need to adapt the Convention to meet the particular requirements of aircraft finance and to extend the sphere of application of the Convention to include contracts of sale of aircraft equipment,
+MINDFUL of the need to adapt the Convention to meet the particular requirements of aircraft finance and to extend the sphere of application of the Convention to include contracts of sale of aircraft equipment, SECOND SCHEDULE — continued
 
 MINDFUL of the principles and objectives of the Convention on International Civil Aviation, signed at Chicago on 7 December 1944,
 
@@ -34,8 +34,6 @@ Article I — Defined terms
 
 together with all modules and other installed, incorporated or attached accessories, parts and equipment and all data, manuals and records relating thereto;
 
-SECOND SCHEDULE — continued
-
 (c) “aircraft objects” means airframes, aircraft engines and helicopters;
 
 (d) “aircraft register” means a register maintained by a State or a common mark registering authority for the purposes of the Chicago Convention;
@@ -44,7 +42,7 @@ SECOND SCHEDULE — continued
 
 (i) at least eight (8) persons including crew; or
 
-(ii) goods in excess of 2750 kilograms,
+(ii) goods in excess of 2750 kilograms, SECOND SCHEDULE — continued
 
 together with all installed, incorporated or attached accessories, parts and equipment (other than aircraft engines), and all data, manuals and records relating thereto;
 
@@ -62,8 +60,6 @@ together with all installed, incorporated or attached accessories, parts and equ
 
 (l) “helicopters” means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
 
-SECOND SCHEDULE — continued
-
 (i) at least five (5) persons including crew; or
 
 (ii) goods in excess of 450 kilograms,
@@ -73,6 +69,8 @@ together with all installed, incorporated or attached accessories, parts and equ
 (m) “insolvency-related event” means:
 
 (i) the commencement of the insolvency proceedings; or
+
+SECOND SCHEDULE — continued
 
 (ii) the declared intention to suspend or actual suspension of payments by the debtor where the creditor’s right to institute insolvency proceedings against the debtor or to exercise remedies under the Convention is prevented or suspended by law or State action;
 
@@ -94,13 +92,13 @@ The following provisions of the Convention apply as if references to an agreemen
 
 Articles 3 and 4;
 
-SECOND SCHEDULE — continued
-
 Article 16(1)(a);
 
 Article 19(4);
 
 Article 20(1) (as regards registration of a contract of sale or a prospective sale);
+
+SECOND SCHEDULE — continued
 
 Article 25(2) (as regards a prospective sale); and
 
@@ -130,7 +128,9 @@ Article V — Formalities, effects and registration of contracts of sale
 
 (a) is in writing;
 
-(b) relates to an aircraft object of which the seller has power to dispose; and
+(b) relates to an aircraft object of which the seller has power to dispose;
+
+and
 
 (c) enables the aircraft object to be identified in conformity with this Protocol.
 
@@ -180,27 +180,27 @@ The foregoing shall not prevent a chargee and a chargor or a guarantor from agre
 
 5. The registry authority in a Contracting State shall, subject to any applicable safety laws and regulations, honour a request for de-registration and export if:
 
-(a) the request is properly submitted by the authorised party under a recorded irrevocable deregistration and export request authorisation; and
-
-(b) the authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de- registration and export.
-
-6. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed deregistration and export to:
-
-(a) interested persons specified in Article 1(m)(i) and (ii) of the Convention;
+(a) the request is properly submitted by the authorised party under a recorded irrevocable deregistration and export request authorisation;
 
 and
 
+(b) the authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de-registration and export.
+
+6. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed deregistration and export to:
+
+(a) interested persons specified in Article 1(m)(i) and (ii) of the Convention; and
+
 (b) interested persons specified in Article 1(m)(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
+
+SECOND SCHEDULE — continued
 
 Article X — Modification of provisions regarding relief pending final determination
 
 1. This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
 
-SECOND SCHEDULE — continued
-
 2. For the purposes of Article 13(1) of the Convention, “speedy” in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
-3. Article 13(1) of the Convention applies with the following being added immediately after sub‑paragraph (d):
+3. Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):
 
 “(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,
 
@@ -222,11 +222,11 @@ Article XI — Remedies on insolvency
 
 1. This Article applies only where a Contracting State that is the primary insolvency jurisdiction has made a declaration pursuant to Article XXX(3).
 
+SECOND SCHEDULE — continued
+
 Alternative A
 
 2. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:
-
-SECOND SCHEDULE — continued
 
 (a) the end of the waiting period; and
 
@@ -252,11 +252,11 @@ A second waiting period shall not apply in respect of a default in the performan
 
 (a) they shall be made available by the registry authority and the administrative authorities in a Contracting State, as applicable, no later than five working days after the date on which the creditor notifies such authorities that it is entitled to procure those remedies in accordance with the Convention; and
 
+SECOND SCHEDULE — continued
+
 (b) the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 
 9. No exercise of remedies permitted by the Convention or this Protocol may be prevented or delayed after the date specified in paragraph 2.
-
-SECOND SCHEDULE — continued
 
 10. No obligations of the debtor under the agreement may be modified without the consent of the creditor.
 
@@ -274,15 +274,15 @@ Alternative B
 
 (b) give the creditor the opportunity to take possession of the aircraft object, in accordance with the applicable law.
 
-3. The applicable law referred to in sub‑paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
+3. The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
 
 4. The creditor shall provide evidence of its claims and proof that its international interest has been registered.
 
 5. If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2, or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.
 
-6. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
-
 SECOND SCHEDULE — continued
+
+6. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
 
 Article XII — Insolvency assistance
 
@@ -308,13 +308,13 @@ Article XIV — Modification of priority provisions
 
 3. Ownership of or another right or interest in an aircraft engine shall not be affected by its installation on or removal from an aircraft.
 
-4. Article 29(7) of the Convention applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
-
 SECOND SCHEDULE — continued
+
+4. Article 29(7) of the Convention applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
 
 Article XV — Modification of assignment provisions
 
-Article 33(1) of the Convention applies as if the following were added immediately after sub‑paragraph (b):
+Article 33(1) of the Convention applies as if the following were added immediately after sub-paragraph (b):
 
 “and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.”
 
@@ -338,11 +338,11 @@ Article XVII — The Supervisory Authority and the Registrar
 
 2. Where the international entity referred to in the preceding paragraph is not able and willing to act as Supervisory Authority, a Conference of Signatory and Contracting States shall be convened to designate another Supervisory Authority.
 
+SECOND SCHEDULE — continued
+
 3. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.
 
-4. The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the SECOND SCHEDULE — continued
-
-necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.
+4. The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.
 
 5. The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.
 
@@ -362,9 +362,9 @@ Article XX — Additional modifications to Registry provisions
 
 2. For the purposes of Article 25(2) of the Convention and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.
 
-3. The fees referred to in Article 17(2)(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
-
 SECOND SCHEDULE — continued
+
+3. The fees referred to in Article 17(2)(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
 
 4. The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
 
@@ -386,15 +386,15 @@ Article XXII — Waivers of sovereign immunity
 
 2. A waiver under the preceding paragraph must be in writing and contain a description of the aircraft object.
 
+SECOND SCHEDULE — continued
+
 CHAPTER V
 
 RELATIONSHIP WITH OTHER CONVENTIONS
 
 Article XXIII — Relationship with the Convention on the International Recognition of Rights in Aircraft
 
-The Convention shall, for a Contracting State that is a party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or SECOND SCHEDULE — continued
-
-affected by the present Convention, the Geneva Convention shall not be superseded.
+The Convention shall, for a Contracting State that is a party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
 
 Article XXIV — Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
@@ -414,6 +414,8 @@ Article XXVI — Signature, ratification, acceptance, approval or accession
 
 1. This Protocol shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001. After 16 November 2001, this Protocol shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article XXVIII.
 
+SECOND SCHEDULE — continued
+
 2. This Protocol shall be subject to ratification, acceptance or approval by States which have signed it.
 
 3. Any State which does not sign this Protocol may accede to it at any time.
@@ -421,8 +423,6 @@ Article XXVI — Signature, ratification, acceptance, approval or accession
 4. Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
 
 5. A State may not become a Party to this Protocol unless it is or becomes also a Party to the Convention.
-
-SECOND SCHEDULE — continued
 
 Article XXVII — Regional Economic Integration Organisations
 
@@ -438,13 +438,13 @@ Article XXVIII — Entry into force
 
 2. For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
 
+SECOND SCHEDULE — continued
+
 Article XXIX — Territorial units
 
 1. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Protocol, it may, at the time of ratification, acceptance, approval or accession, declare that this Protocol is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
 2. Any such declaration shall state expressly the territorial units to which this Protocol applies.
-
-SECOND SCHEDULE — continued
 
 3. If a Contracting State has not made any declaration under paragraph 1, this Protocol shall apply to all territorial units of that State.
 
@@ -462,11 +462,11 @@ Article XXX — Declarations relating to certain provisions
 
 1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply any one or more of Articles VIII, XII and XIII of this Protocol.
 
+SECOND SCHEDULE — continued
+
 2. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply Article X of this Protocol, wholly or in part. If it so declares with respect to Article X(2), it shall specify the time-period required thereby.
 
-3. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of Alternative A, or the entirety of Alternative B of Article XI and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting SECOND SCHEDULE — continued
-
-State making a declaration pursuant to this paragraph shall specify the time-period required by Article XI.
+3. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of Alternative A, or the entirety of Alternative B of Article XI and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting State making a declaration pursuant to this paragraph shall specify the time-period required by Article XI.
 
 4. The courts of Contracting States shall apply Article XI in conformity with the declaration made by the Contracting State which is the primary insolvency jurisdiction.
 
@@ -486,11 +486,11 @@ Article XXXIII — Subsequent declarations
 
 1. A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
 
+SECOND SCHEDULE — continued
+
 2. Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
 
 3. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
-
-SECOND SCHEDULE — continued
 
 Article XXXIV — Withdrawal of declarations
 
@@ -510,6 +510,8 @@ Article XXXVI — Review Conferences, amendments and related matters
 
 1. The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the Convention as amended by this Protocol has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
+SECOND SCHEDULE — continued
+
 2. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of the States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
 
 (a) the practical operation of the Convention as amended by this Protocol and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;
@@ -517,8 +519,6 @@ Article XXXVI — Review Conferences, amendments and related matters
 (b) the judicial interpretation given to, and the application made of the terms of this Protocol and the regulations;
 
 (c) the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; and
-
-SECOND SCHEDULE — continued
 
 (d) whether any modifications to this Protocol or the arrangements relating to the International Registry are desirable.
 
@@ -540,6 +540,8 @@ Article XXXVII — Depositary and its functions
 
 (iv) the withdrawal or amendment of any declaration, together with the date thereof; and
 
+SECOND SCHEDULE — continued
+
 (v) the notification of any denunciation of this Protocol together with the date thereof and the date on which it takes effect;
 
 (b) transmit certified true copies of this Protocol to all Contracting States;
@@ -550,9 +552,7 @@ Article XXXVII — Depositary and its functions
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorised, have signed this Protocol.
 
-DONE at Cape Town, this sixteenth day of November, two thousand and one, in a single original in the English, Arabic, Chinese, French, Russian and Spanish SECOND SCHEDULE — continued
-
-languages, all texts being equally authentic, such authenticity to take effect upon verification by the Joint Secretariat of the Conference under the authority of the President of the Conference within ninety days hereof as to the conformity of the texts with one another.
+DONE at Cape Town, this sixteenth day of November, two thousand and one, in a single original in the English, Arabic, Chinese, French, Russian and Spanish languages, all texts being equally authentic, such authenticity to take effect upon verification by the Joint Secretariat of the Conference under the authority of the President of the Conference within ninety days hereof as to the conformity of the texts with one another.
 
 Annex
 
@@ -568,25 +568,31 @@ Re: Irrevocable De-Registration and Export Request Authorisation
 
 The undersigned is the registered [operator] [owner]* of the [insert the airframe/helicopter manufacturer name and model number] bearing manufacturers serial number [insert manufacturer’s serial number] and registration [number] [mark] [insert registration number/mark] (together with all installed, incorporated or attached accessories, parts and equipment, the “aircraft”).
 
-This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
-
-(i) recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
-
-(a) procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the Convention on International Civil Aviation, signed at Chicago, on 7 December 1944, and
-
-(b) procure the export and physical transfer of the aircraft from [insert name of country]; and
-
-(ii) confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such
+This instrument is an irrevocable de-registration and export request authorisation issued by the undersigned in favour of [insert name of creditor] (“the authorised
 
 *Select the term that reflects the relevant nationality registration criterion.
 
 SECOND SCHEDULE — continued
 
-demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
+party”) under the authority of Article XIII of the Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to Aircraft Equipment. In accordance with that Article, the undersigned hereby requests:
+
+(i) recognition that the authorised party or the person it certifies as its designee is the sole person entitled to:
+
+(a) procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the Convention on International Civil Aviation, signed at Chicago, on 7 December 1944, and
+
+(b) procure the export and physical transfer of the aircraft from
+
+[insert name of country]; and
+
+(ii) confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
 
 The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party.
 
 Please acknowledge your agreement to this request and its terms by appropriate notation in the space provided below and lodging this instrument in [insert name of registry authority].
+
+SECOND SCHEDULE — continued
+
+. .
 
 [insert name of operator/owner]
 

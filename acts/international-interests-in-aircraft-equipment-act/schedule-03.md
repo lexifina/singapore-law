@@ -6,7 +6,7 @@ CONSOLIDATED TEXT OF THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE EQUIPME
 
 THE STATES PARTIES,
 
-AWARE of the need to acquire and use aircraft equipment of high value or particular economic significance and to facilitate the financing of the acquisition and use of such equipment in an efficient manner, THIRD SCHEDULE — continued
+AWARE of the need to acquire and use aircraft equipment of high value or particular economic significance and to facilitate the financing of the acquisition and use of such equipment in an efficient manner,
 
 RECOGNISING the advantages of asset-based financing and leasing for this purpose and desiring to facilitate these types of transaction by establishing clear rules to govern them,
 
@@ -32,6 +32,8 @@ For the purposes of this Convention, “this Convention” means the Consolidate
 
 In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:
 
+THIRD SCHEDULE — continued
+
 (a) “agreement” means a security agreement, a title reservation agreement or a leasing agreement;
 
 (b) “aircraft” means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;
@@ -39,8 +41,6 @@ In this Convention, except where the context otherwise requires, the following t
 (c) “aircraft engines” means aircraft engines (other than those used in military, customs or police services) powered by jet propulsion or turbine or piston technology and:
 
 (i) in the case of jet propulsion aircraft engines, have at least 1750 lb of thrust or its equivalent; and
-
-THIRD SCHEDULE — continued
 
 (ii) in the case of turbine-powered or piston-powered aircraft engines, have at least 550 rated take-off shaft horsepower or its equivalent,
 
@@ -64,6 +64,8 @@ together with all installed, incorporated or attached accessories, parts and equ
 
 (i) “authorised party” means the party referred to in Article 25(3);
 
+THIRD SCHEDULE — continued
+
 (j) “Chicago Convention” means the Convention on International Civil Aviation, signed at Chicago on 7 December 1944, as amended, and its Annexes;
 
 (k) “commencement of the insolvency proceedings” means the time at which the insolvency proceedings are deemed to commence under the applicable insolvency law;
@@ -71,8 +73,6 @@ together with all installed, incorporated or attached accessories, parts and equ
 (l) “common mark registering authority” means the authority maintaining a register in accordance with Article 77 of the Chicago Convention as implemented by the Resolution adopted on 14 December 1967 by the Council of the International Civil Aviation Organization on nationality and registration of aircraft operated by international operating agencies;
 
 (m) “conditional buyer” means a buyer under a title reservation agreement;
-
-THIRD SCHEDULE — continued
 
 (n) “conditional seller” means a seller under a title reservation agreement;
 
@@ -90,7 +90,9 @@ THIRD SCHEDULE — continued
 
 (u) “guarantor” means a person who, for the purpose of assuring performance of any obligations in favour of a creditor secured by a security agreement or under an agreement, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;
 
-(v) “helicopters” means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
+(v) “helicopters” means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by THIRD SCHEDULE — continued
+
+the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
 
 (i) at least five (5) persons including crew; or
 
@@ -99,8 +101,6 @@ THIRD SCHEDULE — continued
 together with all installed, incorporated or attached accessories, parts and equipment (including rotors), and all data, manuals and records relating thereto;
 
 (w) “insolvency administrator” means a person authorised to administer the reorganisation or liquidation, including one authorised on an interim basis, and includes a debtor in possession if permitted by the applicable insolvency law;
-
-THIRD SCHEDULE — continued
 
 (x) “insolvency proceedings” means bankruptcy, liquidation or other collective judicial or administrative proceedings, including interim proceedings, in which the assets and affairs of the debtor are subject to control or supervision by a court for the purposes of reorganisation or liquidation;
 
@@ -120,6 +120,8 @@ THIRD SCHEDULE — continued
 
 (aa) “internal transaction” means a transaction of a type listed in Article 2(2)(a) to (c) where the centre of the main interests of all parties to such transaction is situated, and the relevant aircraft object under Article 3(4) is located, in the same Contracting State at the time of the conclusion of the contract and where the interest created by the transaction has been registered in a national registry in that Contracting State which has made a declaration under Article 66(1);
 
+THIRD SCHEDULE — continued
+
 (bb) “international interest” means an interest held by a creditor to which Article 2 applies;
 
 (cc) “International Registry” means the international registration facilities established for the purposes of this Convention;
@@ -128,9 +130,7 @@ THIRD SCHEDULE — continued
 
 (ee) “national interest” means an interest held by a creditor in an aircraft object and created by an internal transaction covered by a declaration under Article 66(1);
 
-(ff) “non-consensual right or interest” means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 52 to secure the performance of an obligation, including an THIRD SCHEDULE — continued
-
-obligation to a State, State entity or an intergovernmental or private organisation;
+(ff) “non-consensual right or interest” means a right or interest conferred under the law of a Contracting State which has made a declaration under Article 52 to secure the performance of an obligation, including an obligation to a State, State entity or an intergovernmental or private organisation;
 
 (gg) “notice of a national interest” means notice registered or to be registered in the International Registry that a national interest has been created;
 
@@ -142,19 +142,19 @@ obligation to a State, State entity or an intergovernmental or private organisat
 
 (kk) “prospective assignment” means an assignment that is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
-(ll) “prospective international interest” means an interest that is intended to be created or provided for in an aircraft object as an international interest in the future, upon the occurrence of a stated event (which may include the debtor’s acquisition of an interest in the aircraft object), whether or not the occurrence of the event is certain;
+(ll) “prospective international interest” means an interest that is intended to be created or provided for in an aircraft object as an international interest in the future, upon the occurrence of a stated event (which may THIRD SCHEDULE — continued
+
+include the debtor’s acquisition of an interest in the aircraft object), whether or not the occurrence of the event is certain;
 
 (mm) “prospective sale” means a sale which is intended to be made in the future, upon the occurrence of a stated event, whether or not the occurrence of the event is certain;
 
 (nn) “registered” means registered in the International Registry pursuant to Chapter V;
 
-(oo) “registered interest” means an international interest, a registrable non- consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
+(oo) “registered interest” means an international interest, a registrable non-consensual right or interest or a national interest specified in a notice of a national interest registered pursuant to Chapter V;
 
 (pp) “registrable non-consensual right or interest” means a non-consensual right or interest registrable pursuant to a declaration deposited under Article 53;
 
 (qq) “Registrar” means the person or body appointed under Articles 27(4)(b) and 28;
-
-THIRD SCHEDULE — continued
 
 (rr) “registry authority” means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention;
 
@@ -172,6 +172,8 @@ THIRD SCHEDULE — continued
 
 (yy) “Supervisory Authority” means the Supervisory Authority referred to in Article 27;
 
+THIRD SCHEDULE — continued
+
 (zz) “title reservation agreement” means an agreement for the sale of an aircraft object on terms that ownership does not pass until fulfilment of the condition or conditions stated in the agreement;
 
 (aaa) “unregistered interest” means a consensual interest or non-consensual right or interest (other than an interest to which Article 52 applies) which has not been registered, whether or not it is registrable under this Convention; and
@@ -182,8 +184,6 @@ Article 2 — The international interest
 
 1. This Convention provides for the constitution and effects of an international interest in aircraft objects and associated rights.
 
-THIRD SCHEDULE — continued
-
 2. For the purposes of this Convention, an international interest in aircraft objects is an interest, constituted under Article 10, in airframes, aircraft engines or helicopters:
 
 (a) granted by the chargor under a security agreement;
@@ -192,9 +192,9 @@ THIRD SCHEDULE — continued
 
 (c) vested in a person who is the lessor under a leasing agreement.
 
-An interest falling within sub‑paragraph (a) does not also fall within sub‑paragraph (b) or (c).
+An interest falling within sub-paragraph (a) does not also fall within sub-paragraph (b) or (c).
 
-3. The applicable law determines whether an interest to which the preceding paragraph applies falls within sub‑paragraph (a), (b) or (c) of that paragraph.
+3. The applicable law determines whether an interest to which the preceding paragraph applies falls within sub-paragraph (a), (b) or (c) of that paragraph.
 
 4. An international interest in an aircraft object extends to proceeds of that aircraft object.
 
@@ -203,6 +203,8 @@ Article 3 — Sphere of application
 1. This Convention applies when, at the time of the conclusion of the agreement creating or providing for the international interest, the debtor is situated in a Contracting State.
 
 2. The fact that the creditor is situated in a non-Contracting State does not affect the applicability of this Convention.
+
+THIRD SCHEDULE — continued
 
 3. Without prejudice to paragraph 1 of this Article, this Convention shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
 
@@ -216,8 +218,6 @@ Article 3 — Sphere of application
 
 at the time of the conclusion of the agreement creating or providing for the interest.
 
-THIRD SCHEDULE — continued
-
 Article 4 — Where debtor is situated
 
 1. For the purposes of Article 3(1), the debtor is situated in any Contracting State:
@@ -230,13 +230,15 @@ Article 4 — Where debtor is situated
 
 (d) where it has its place of business.
 
-2. A reference in sub‑paragraph (d) of the preceding paragraph to the debtor’s place of business shall, if it has more than one place of business, mean its principal place of business or, if it has no place of business, its habitual residence.
+2. A reference in sub-paragraph (d) of the preceding paragraph to the debtor’s place of business shall, if it has more than one place of business, mean its principal place of business or, if it has no place of business, its habitual residence.
 
 Article 5 — Interpretation and applicable law
 
 1. In the interpretation of this Convention, regard is to be had to its purposes as set forth in the preamble, to its international character and to the need to promote uniformity and predictability in its application.
 
 2. Questions concerning matters governed by this Convention which are not expressly settled in it are to be settled in conformity with the general principles on which it is based or, in the absence of such principles, in conformity with the applicable law.
+
+THIRD SCHEDULE — continued
 
 3. References to the applicable law are to the domestic rules of the law applicable by virtue of the rules of private international law of the forum State.
 
@@ -254,8 +256,6 @@ Article 32(4);
 
 Article 33(1) (as regards registration of a contract of sale or a prospective sale);
 
-THIRD SCHEDULE — continued
-
 Article 38(2) (as regards a prospective sale); and
 
 Article 43.
@@ -268,7 +268,9 @@ A person may enter into an agreement or a sale, and register an international in
 
 Article 8 — Description of aircraft objects
 
-A description of an aircraft object that contains its manufacturer’s serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the aircraft object for the purposes of Articles 10(c) and 11(1)(c) of this Convention.
+A description of an aircraft object that contains its manufacturer’s serial number, the name of the manufacturer and its model designation is necessary and sufficient THIRD SCHEDULE — continued
+
+to identify the aircraft object for the purposes of Articles 10(c) and 11(1)(c) of this Convention.
 
 Article 9 — Choice of law
 
@@ -290,8 +292,6 @@ An interest is constituted as an international interest under this Convention wh
 
 (a) is in writing;
 
-THIRD SCHEDULE — continued
-
 (b) relates to an aircraft object of which the chargor, conditional seller or lessor has power to dispose;
 
 (c) enables the aircraft object to be identified; and
@@ -304,9 +304,13 @@ Article 11 — Formalities and effects of contracts of sale
 
 (a) is in writing;
 
-(b) relates to an aircraft object of which the seller has power to dispose; and
+(b) relates to an aircraft object of which the seller has power to dispose;
+
+and
 
 (c) enables the aircraft object to be identified in conformity with this Convention.
+
+THIRD SCHEDULE — continued
 
 2. A contract of sale transfers the interest of the seller in the aircraft object to the buyer according to its terms.
 
@@ -330,15 +334,15 @@ Article 12 — Remedies of chargee
 
 (a) interested persons specified in Article 1(z)(i) and (ii); and
 
-THIRD SCHEDULE — continued
-
 (b) interested persons specified in Article 1(z)(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
 
 4. A chargee giving ten or more working days’ prior written notice of a proposed sale or lease to interested persons shall be deemed to satisfy the requirement of providing “reasonable prior notice” specified in the preceding paragraph. The foregoing shall not prevent a chargee and a chargor or a guarantor from agreeing to a longer period of prior notice.
 
 5. Any sum collected or received by the chargee as a result of exercise of any of the remedies set out in paragraph 1 or 2 shall be applied towards discharge of the amount of the secured obligations.
 
-6. Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been registered or of which the chargee has been given notice, in order of priority, and pay any remaining balance to the chargor.
+6. Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been THIRD SCHEDULE — continued
+
+registered or of which the chargee has been given notice, in order of priority, and pay any remaining balance to the chargor.
 
 Article 13 — Vesting of aircraft object in satisfaction; redemption
 
@@ -350,8 +354,6 @@ Article 13 — Vesting of aircraft object in satisfaction; redemption
 
 4. At any time after default as provided in Article 17 and before sale of the charged aircraft object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 12(1)(b) or ordered under Article 12(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
 
-THIRD SCHEDULE — continued
-
 5. Ownership or any other interest of the chargor passing on a sale under Article 12(1)(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee’s security interest has priority under the provisions of Article 42.
 
 Article 14 — Remedies of conditional seller or lessor
@@ -361,6 +363,8 @@ In the event of default under a title reservation agreement or under a leasing a
 (a) subject to any declaration that may be made by a Contracting State under Article 70, terminate the agreement and take possession or control of any aircraft object to which the agreement relates; or
 
 (b) apply for a court order authorising or directing either of these acts.
+
+THIRD SCHEDULE — continued
 
 Article 15 — Additional remedies of creditor
 
@@ -378,21 +382,19 @@ Article 15 — Additional remedies of creditor
 
 and
 
-(b) the authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de- registration and export.
+(b) the authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de-registration and export.
 
 4. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed de-registration and export to:
 
-THIRD SCHEDULE — continued
-
-(a) interested persons specified in Article 1(z)(i) and (ii) of this Convention;
-
-and
+(a) interested persons specified in Article 1(z)(i) and (ii) of this Convention; and
 
 (b) interested persons specified in Article 1(z)(iii) of this Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
 
 Article 16 — Additional remedies under applicable law
 
 Any additional remedies permitted by the applicable law, including any remedies agreed upon by the parties, may be exercised to the extent that they are not inconsistent with the mandatory provisions of this Chapter as set out in Article 22.
+
+THIRD SCHEDULE — continued
 
 Article 17 — Meaning of default
 
@@ -412,13 +414,13 @@ Article 18 — Debtor provisions
 
 Article 19 — Standard for exercising remedies
 
-Any remedy given by this Convention in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity THIRD SCHEDULE — continued
-
-with a provision of the agreement except where such a provision is manifestly unreasonable.
+Any remedy given by this Convention in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the agreement except where such a provision is manifestly unreasonable.
 
 Article 20 — Relief pending final determination
 
 1. Subject to any declaration that it may make under Article 71(2), a Contracting State shall ensure that a creditor who adduces evidence of default by the debtor may, pending final determination of its claim and to the extent that the debtor has at any time so agreed, obtain from a court speedy relief in the form of such one or more of the following orders as the creditor requests:
+
+THIRD SCHEDULE — continued
 
 (a) preservation of the aircraft object and its value;
 
@@ -426,13 +428,13 @@ Article 20 — Relief pending final determination
 
 (c) immobilisation of the aircraft object;
 
-(d) lease or, except where covered by sub‑paragraphs (a) to (c), management of the aircraft object and the income therefrom; and
+(d) lease or, except where covered by sub-paragraphs (a) to (c), management of the aircraft object and the income therefrom; and
 
 (e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom.
 
 2. For the purposes of the preceding paragraph, “speedy” in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
-3. Ownership or any other interest of the debtor passing on a sale under sub‑paragraph (e) of paragraph 1 of this Article is free from any other interest over which the creditor’s international interest has priority under the provisions of Article 42 of this Convention.
+3. Ownership or any other interest of the debtor passing on a sale under sub-paragraph (e) of paragraph 1 of this Article is free from any other interest over which the creditor’s international interest has priority under the provisions of Article 42 of this Convention.
 
 4. In making any order under paragraph 1 of this Article, the court may impose such terms as it considers necessary to protect the interested persons in the event that the creditor:
 
@@ -444,11 +446,11 @@ Article 20 — Relief pending final determination
 
 6. Before making any order under paragraph 1, the court may require notice of the request to be given to any of the interested persons.
 
-THIRD SCHEDULE — continued
-
 7. With regard to the remedies in Article 15(1):
 
 (a) they shall be made available by the registry authority and other administrative authorities, as applicable, in a Contracting State no later than five working days after the creditor notifies such authorities that the relief specified in Article 15(1) is granted or, in the case of relief granted by a foreign court, recognised by a court of that Contracting State, and that the creditor is entitled to procure those remedies in accordance with this Convention; and
+
+THIRD SCHEDULE — continued
 
 (b) the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 
@@ -472,13 +474,13 @@ Article 23 — Remedies on insolvency
 
 Alternative A
 
-THIRD SCHEDULE — continued
-
 2. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:
 
 (a) the end of the waiting period; and
 
 (b) the date on which the creditor would be entitled to possession of the aircraft object if this Article did not apply.
+
+THIRD SCHEDULE — continued
 
 3. For the purposes of this Article, the “waiting period” shall be the period specified in a declaration of the Contracting State which is the primary insolvency jurisdiction.
 
@@ -502,13 +504,13 @@ A second waiting period shall not apply in respect of a default in the performan
 
 (b) the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 
-THIRD SCHEDULE — continued
-
 9. No exercise of remedies permitted by this Convention may be prevented or delayed after the date specified in paragraph 2.
 
 10. No obligations of the debtor under the agreement may be modified without the consent of the creditor.
 
 11. Nothing in the preceding paragraph shall be construed to affect the authority, if any, of the insolvency administrator under the applicable law to terminate the agreement.
+
+THIRD SCHEDULE — continued
 
 12. No rights or interests, except for non-consensual rights or interests of a category covered by a declaration pursuant to Article 52(1), shall have priority in insolvency proceedings over registered interests.
 
@@ -522,7 +524,7 @@ Alternative B
 
 (b) give the creditor the opportunity to take possession of the aircraft object, in accordance with the applicable law.
 
-3. The applicable law referred to in sub‑paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
+3. The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
 
 4. The creditor shall provide evidence of its claims and proof that its international interest has been registered.
 
@@ -530,13 +532,13 @@ Alternative B
 
 6. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
 
-THIRD SCHEDULE — continued
-
 Article 24 — Insolvency assistance
 
 1. This Article applies only where a Contracting State has made a declaration pursuant to Article 71(1).
 
 2. The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article 23.
+
+THIRD SCHEDULE — continued
 
 Article 25 — De-registration and export request authorisation
 
@@ -564,11 +566,11 @@ Article 26 — The International Registry
 
 (d) notices of national interests; and
 
-THIRD SCHEDULE — continued
-
-(e) subordinations of interests referred to in any of the preceding sub‑paragraphs.
+(e) subordinations of interests referred to in any of the preceding sub-paragraphs.
 
 2. For the purposes of this Chapter and Chapter V, the term “registration” includes, where appropriate, an amendment, extension or discharge of a registration.
+
+THIRD SCHEDULE — continued
 
 Article 27 — The Supervisory Authority
 
@@ -596,13 +598,13 @@ Article 27 — The Supervisory Authority
 
 (h) set and periodically review the structure of fees to be charged for the services and facilities of the International Registry;
 
-THIRD SCHEDULE — continued
-
 (i) do all things necessary to ensure that an efficient notice-based electronic registration system exists to implement the objectives of this Convention; and
 
 (j) report periodically to Contracting States concerning the discharge of its obligations under this Convention.
 
 5. The Supervisory Authority may enter into any agreement requisite for the performance of its functions, including any agreement referred to in Article 40(3).
+
+THIRD SCHEDULE — continued
 
 6. The Supervisory Authority shall own all proprietary rights in the data bases and archives of the International Registry.
 
@@ -624,11 +626,11 @@ Article 29 — Designated entry points
 
 2. A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.
 
-THIRD SCHEDULE — continued
-
 Article 30 — Working hours of the registration facilities
 
 The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
+
+THIRD SCHEDULE — continued
 
 CHAPTER V
 
@@ -660,11 +662,11 @@ Article 32 — Validity and time of registration
 
 (a) the International Registry has assigned to it a sequentially ordered file number; and
 
-THIRD SCHEDULE — continued
-
 (b) the registration information, including the file number, is stored in durable form and may be accessed at the International Registry.
 
-4. If an interest first registered as a prospective international interest becomes an international interest, that international interest shall be treated as registered from the time of registration of the prospective international interest provided that the registration was still current immediately before the international interest was constituted as provided by Article 10.
+4. If an interest first registered as a prospective international interest becomes an international interest, that international interest shall be treated as registered from the time of registration of the prospective international interest provided that the THIRD SCHEDULE — continued
+
+registration was still current immediately before the international interest was constituted as provided by Article 10.
 
 5. The preceding paragraph applies with necessary modifications to the registration of a prospective assignment of an international interest.
 
@@ -690,11 +692,11 @@ Article 34 — Duration of registration
 
 2. Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
 
-THIRD SCHEDULE — continued
-
 Article 35 — Searches
 
-1. Any person may, in the manner prescribed by this Convention and the regulations, make or request a search of the International Registry by electronic means concerning interests or prospective international interests registered therein.
+1. Any person may, in the manner prescribed by this Convention and the regulations, make or request a search of the International Registry by electronic THIRD SCHEDULE — continued
+
+means concerning interests or prospective international interests registered therein.
 
 2. Upon receipt of a request therefor, the Registrar, in the manner prescribed by the regulations, shall issue a registry search certificate by electronic means with respect to any aircraft object:
 
@@ -718,9 +720,9 @@ A document in the form prescribed by the regulations which purports to be a cert
 
 Article 38 — Discharge of registration
 
-1. Where the obligations secured by a registered security interest or the obligations giving rise to a registered non-consensual right or interest have been discharged, or where the conditions of transfer of title under a registered title reservation agreement have been fulfilled, the holder of such interest shall, without THIRD SCHEDULE — continued
+1. Where the obligations secured by a registered security interest or the obligations giving rise to a registered non-consensual right or interest have been discharged, or where the conditions of transfer of title under a registered title reservation agreement have been fulfilled, the holder of such interest shall, without undue delay, procure the discharge of the registration after written THIRD SCHEDULE — continued
 
-undue delay, procure the discharge of the registration after written demand by the debtor delivered to or received at its address stated in the registration.
+demand by the debtor delivered to or received at its address stated in the registration.
 
 2. Where a prospective international interest or a prospective assignment of an international interest has been registered, the intending creditor or intending assignee shall, without undue delay, procure the discharge of the registration after written demand by the intending debtor or assignor which is delivered to or received at its address stated in the registration before the intending creditor or assignee has given value or incurred a commitment to give value.
 
@@ -868,9 +870,9 @@ Article 46 — Debtor’s duty to assignee
 
 (b) the notice identifies the associated rights; and
 
-(c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.
-
 THIRD SCHEDULE — continued
+
+(c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.
 
 2. Irrespective of any other ground on which payment or performance by the debtor discharges the latter from liability, payment or performance shall be effective for this purpose if made in accordance with the preceding paragraph.
 
@@ -884,9 +886,7 @@ In the event of default by the assignor under the assignment of associated right
 
 (b) to the chargee or creditor and chargor or debtor were references to the assignee and assignor;
 
-(c) to the holder of the international interest were references to the assignee;
-
-and
+(c) to the holder of the international interest were references to the assignee; and
 
 (d) to the aircraft object were references to the assigned associated rights and the related international interest.
 
@@ -896,17 +896,17 @@ Article 48 — Priority of competing assignments
 
 2. Article 43 applies to an assignment of associated rights as if the references to an international interest were references to an assignment of the associated rights and the related international interest.
 
+THIRD SCHEDULE — continued
+
 Article 49 — Assignee’s priority with respect to associated rights
 
 1. The assignee of associated rights and the related international interest whose assignment has been registered only has priority under Article 48(1) over another assignee of the associated rights:
-
-THIRD SCHEDULE — continued
 
 (a) if the contract under which the associated rights arise states that they are secured by or associated with the object; and
 
 (b) to the extent that the associated rights are related to an aircraft object.
 
-2. For the purpose of sub‑paragraph (b) of the preceding paragraph, associated rights are related to an aircraft object only to the extent that they consist of rights to payment or performance that relate to:
+2. For the purpose of sub-paragraph (b) of the preceding paragraph, associated rights are related to an aircraft object only to the extent that they consist of rights to payment or performance that relate to:
 
 (a) a sum advanced and utilised for the purchase of the aircraft object;
 
@@ -916,7 +916,7 @@ THIRD SCHEDULE — continued
 
 (d) the rentals payable in respect of the aircraft object; or
 
-(e) other obligations arising from a transaction referred to in any of the preceding sub‑paragraphs.
+(e) other obligations arising from a transaction referred to in any of the preceding sub-paragraphs.
 
 3. In all other cases, the priority of the competing assignments of the associated rights shall be determined by the applicable law.
 
@@ -948,7 +948,7 @@ Article 52 — Rights having priority without registration
 
 3. A non-consensual right or interest has priority over an international interest if and only if the former is of a category covered by a declaration deposited prior to the registration of the international interest.
 
-4. Notwithstanding the preceding paragraph, a Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that a right or interest of a category covered by a declaration made under sub‑paragraph (a) of paragraph 1 shall have priority over an international interest registered prior to the date of such ratification, acceptance, approval or accession.
+4. Notwithstanding the preceding paragraph, a Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that a right or interest of a category covered by a declaration made under sub-paragraph (a) of paragraph 1 shall have priority over an international interest registered prior to the date of such ratification, acceptance, approval or accession.
 
 Article 53 — Registrable non-consensual rights or interests
 
@@ -1010,9 +1010,9 @@ This Convention shall prevail over the United Nations Convention on the Assignme
 
 Article 60 — Relationship with the Convention on the International Recognition of Rights in Aircraft
 
-This Convention shall, for a Contracting State that is a Party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Convention, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
+This Convention shall, for a Contracting State that is a Party to the Convention on the International Recognition of Rights in Aircraft, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Convention, and to aircraft objects. However, with respect to rights or interests not THIRD SCHEDULE — continued
 
-THIRD SCHEDULE — continued
+covered or affected by the present Convention, the Geneva Convention shall not be superseded.
 
 Article 61 — Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
@@ -1036,9 +1036,11 @@ Article 64 — Regional Economic Integration Organisations
 
 1. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by the Convention and the Protocol may similarly sign, accept, approve or accede to the Convention and the Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by the Convention and the Protocol. Where the number of Contracting States is relevant in the Convention and the Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
 
-2. The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by the Convention and the Protocol in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly THIRD SCHEDULE — continued
+THIRD SCHEDULE — continued
 
-notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
+2. The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by the Convention and the Protocol in respect of which competence has been transferred to that Organisation by its Member States.
+
+The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
 
 3. Any reference to a “Contracting State” or “Contracting States” or “State Party” or “States Parties” in the Convention and the Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.
 
@@ -1066,11 +1068,11 @@ Article 69 — Determination of courts
 
 A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare the relevant “court” or “courts” for the purposes of Article 1 and Chapter XI of this Convention.
 
+THIRD SCHEDULE — continued
+
 Article 70 — Declarations regarding remedies
 
-1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that while the charged aircraft object is situated THIRD SCHEDULE — continued
-
-within, or controlled from its territory the chargee shall not grant a lease of the object in that territory.
+1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that while the charged aircraft object is situated within, or controlled from its territory the chargee shall not grant a lease of the object in that territory.
 
 2. A Contracting State shall, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare whether or not any remedy available to the creditor under any provision of this Convention which is not there expressed to require application to the court may be exercised only with leave of the court.
 
@@ -1088,9 +1090,9 @@ Article 72 — Reservations and declarations
 
 1. No reservations may be made to this Convention but declarations authorised by Articles 52, 53, 61, 66, 68, 69, 70, 71, 73, 74 and 76 may be made in accordance with these provisions.
 
-2. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Convention shall be notified in writing to the Depositary.
-
 THIRD SCHEDULE — continued
+
+2. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Convention shall be notified in writing to the Depositary.
 
 Article 73 — Subsequent declarations
 
@@ -1114,11 +1116,11 @@ Article 75 — Denunciations
 
 3. Notwithstanding the previous paragraphs, this Convention shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
 
+THIRD SCHEDULE — continued
+
 Article 76 — Transitional provisions
 
 1. Unless otherwise declared by a Contracting State at any time, this Convention does not apply to a pre-existing right or interest, which retains the priority it enjoyed under the applicable law before the effective date of the Convention.
-
-THIRD SCHEDULE — continued
 
 2. For the purposes of Article 1(hh) and of determining priority under this Convention:
 
@@ -1126,7 +1128,7 @@ THIRD SCHEDULE — continued
 
 (b) the debtor is situated in a State where it has its centre of administration or, if it has no centre of administration, its place of business or, if it has more than one place of business, its principal place of business or, if it has no place of business, its habitual residence.
 
-3. A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when the Convention will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre- existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in sub‑paragraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.
+3. A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when the Convention will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre-existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in sub-paragraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.
 
 Article 77 — Review Conferences, amendments and related matters
 
@@ -1138,11 +1140,11 @@ Article 77 — Review Conferences, amendments and related matters
 
 (b) the judicial interpretation given to, and the application made of the terms of this Convention and the regulations;
 
+THIRD SCHEDULE — continued
+
 (c) the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; and
 
 (d) whether any modifications to this Convention or the arrangements relating to the International Registry are desirable.
-
-THIRD SCHEDULE — continued
 
 3. Subject to paragraph 4, any amendment to the Convention or the Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when ratified, accepted, or approved by States in accordance with the provisions of Article 65 relating to their entry into force.
 
@@ -1168,11 +1170,11 @@ Article 78 — Depositary and its functions
 
 (b) transmit certified true copies of the Convention and the Protocol to all Contracting States;
 
+THIRD SCHEDULE — continued
+
 (c) provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; and
 
 (d) perform such other functions customary for depositaries.
-
-THIRD SCHEDULE — continued
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorised, have signed the Convention and the Protocol.
 
@@ -1196,17 +1198,21 @@ This instrument is an irrevocable de-registration and export request authorisati
 
 (a) procure the de-registration of the aircraft from the [insert name of aircraft register] maintained by the [insert name of registry authority] for the purposes of Chapter III of the Convention on International Civil Aviation, signed at Chicago, on 7 December 1944; and
 
-(b) procure the export and physical transfer of the aircraft from [insert name of country]; and
-
-(ii) confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
-
 *Select the term that reflects the relevant nationality registration criterion.
 
 THIRD SCHEDULE — continued
 
+(b) procure the export and physical transfer of the aircraft from
+
+[insert name of country]; and
+
+(ii) confirmation that the authorised party or the person it certifies as its designee may take the action specified in clause (i) above on written demand without the consent of the undersigned and that, upon such demand, the authorities in [insert name of country] shall co-operate with the authorised party with a view to the speedy completion of such action.
+
 The rights in favour of the authorised party established by this instrument may not be revoked by the undersigned without the written consent of the authorised party.
 
 Please acknowledge your agreement to this request and its terms by appropriate notation in the space provided below and lodging this instrument in [insert name of registry authority].
+
+. .
 
 [insert name of operator/owner]
 
