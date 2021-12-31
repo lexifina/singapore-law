@@ -1,0 +1,5 @@
+# 21. General gift of realty and of personality to include property over which testator has general power of appointment
+
+(1) A general devise of the real estate of the testator, or of the real estate of the testator in any place or in the occupation of any person mentioned in his will, or otherwise described in a general manner, shall be construed to include any real estate, or any real estate to which that description shall extend, as the case may be, which he may have power to appoint in any manner he may think proper, and shall operate as an execution of that power, unless a contrary intention shall appear by the will.
+
+(2) A bequest of the personal estate of the testator, or any bequest of personal estate described in a general manner, shall be construed to include any personal estate, or any personal estate to which that description shall extend, as the case may be, which he may have power to appoint in any manner he may think proper, and shall operate as an execution of that power, unless a contrary intention shall appear by the will.

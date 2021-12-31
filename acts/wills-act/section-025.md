@@ -1,0 +1,3 @@
+# 25. Devise of real estate to trustee without limitation
+
+Where any real estate shall be devised to a trustee, without any express limitation of the estate to be taken by the trustee, and the beneficial interest in such real estate, or in the surplus rents and profits thereof, shall not be given to any person for life, or the beneficial interest shall be given to any person for life, but the purposes of the trust may continue beyond the life of that person, the devise shall be construed to vest in the trustee the fee simple or other the whole legal estate which the testator had power to dispose of by will in the real estate, and not an estate determinable when the purposes of the trust shall be satisfied.

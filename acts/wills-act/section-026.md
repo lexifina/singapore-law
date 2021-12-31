@@ -1,0 +1,3 @@
+# 26. Gifts to children or other issue who leave issue living at testator’s death not to lapse 1
+
+Where any person being a child or other issue of the testator to whom any real or personal estate shall be devised or bequeathed for any estate or interest not determinable at or before the death of that person shall die in the lifetime of the testator leaving issue, and any such issue of that person shall be living at the time of the death of the testator, that devise or bequest shall not lapse, but shall take effect as if the death of that person had happened immediately after the death of the testator, unless a contrary intention shall appear by the will.
