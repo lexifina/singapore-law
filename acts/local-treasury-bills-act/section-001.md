@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Local Treasury Bills Act.
+This Act is the Local Treasury Bills Act 1923.

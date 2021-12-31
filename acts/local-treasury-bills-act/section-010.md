@@ -2,8 +2,6 @@
 
 (1) Notwithstanding section 9, a transfer or a pledge of a book-entry Treasury Bill, or any interest therein, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of a book-entry Treasury Bill, or any interest therein, if the Bill was issued by the Authority in the form of engraved or printed certificates.
 
-[10/87]
-
 (2) The Authority shall be deemed not to be —
 
 (a) a bailee for purposes of notification of pledges of book-entry Treasury Bills not effected in accordance with section 9; and

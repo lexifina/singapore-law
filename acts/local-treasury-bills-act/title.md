@@ -1,30 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-LOCAL TREASURY BILLS ACT
-(CHAPTER 167)
-Ordinance
-4 of 1923
-Amended by
-1 of 1938
-72 of 1959
-1970 Ed. Cap. 72
-Amended by
-10 of 1987
-1988 Ed. Cap. 167
-Amended by
-11 of 1991
-6 of 1996
-15 of 2001
-REVISED EDITION 2002
-(31st December 2002)
+LOCAL TREASURY BILLS
+ACT 1923
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the borrowing of money by the issue of Treasury Bills in Singapore.
 
-[11th May 1923]
+[11 May 1923]
