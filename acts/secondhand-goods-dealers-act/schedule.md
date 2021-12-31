@@ -2,9 +2,7 @@
 
 Section 2(1)
 
-SECONDHAND GOODS
-
-1. Cameras, video-graphic and photographic equipment including lenses.
+SECONDHAND GOODS 1. Cameras, video-graphic and photographic equipment including lenses.
 
 2. Computers including Tablet Personal Computers, Laptops, Palmtops, Personal Digital Assistants and computer accessories.
 
@@ -48,6 +46,8 @@ SECONDHAND GOODS
 
 (l) over-ground boxes;
 
+THE SCHEDULE — continued
+
 (m) park benches;
 
 (n) pipes;
@@ -55,8 +55,6 @@ SECONDHAND GOODS
 (o) railings;
 
 (p) rubbish bins or parts thereof;
-
-THE SCHEDULE — continued
 
 (q) signs or signposts;
 
@@ -67,5 +65,3 @@ THE SCHEDULE — continued
 (t) water taps.
 
 11. Scraps of copper, stainless steel, aluminium, steel or brass or any composite of such metals, whether in the form of bars, rods, sheets, turnings or parts of disassembled items or articles, or otherwise, but excluding scraps derived from drink cans or household utensils or articles.
-
-[S 555/2007]

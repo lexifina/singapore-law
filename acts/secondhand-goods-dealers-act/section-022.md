@@ -6,8 +6,6 @@ The Minister may make rules for any of the following purposes:
 
 (b) to prescribe the forms to be used for the purposes of this Act;
 
-(c) to prescribe the records to be kept by secondhand goods dealers and the particulars to be entered therein;
+(c) to prescribe the records to be kept by secondhand goods dealers and the particulars to be entered in the records;
 
 (d) generally to carry out the purposes of this Act.
-
-[Secondhand Dealers 1985 Ed., s. 16]
