@@ -1,3 +1,9 @@
-# 5. Unspent proceeds of existing loans
+# 5. Nationally significant infrastructure expenditure
 
-The proceeds of any loans which have been raised under any written law and which have not been spent as at 14th September 1959 may, notwithstanding any provision to the contrary in any such law, be directed by a resolution of Parliament to be paid into the Development Fund and to be applicable only to all or any of the purposes of that Fund in accordance with the provisions of this Act.
+(1) All sums borrowed under the Significant Infrastructure Government Loan Act 2021 and which are paid into the Development Fund may be applied only to meet nationally significant infrastructure expenditure within the meaning of section 11 of that Act.
+
+[15/2021]
+
+(2) To avoid doubt, subsection (1) does not prevent authorising the issue of any sum from the Development Fund and applying the money to meet an estimate of any nationally significant infrastructure expenditure within the meaning of section 11 of the Significant Infrastructure Government Loan Act 2021 on a provisional basis.
+
+[15/2021]
