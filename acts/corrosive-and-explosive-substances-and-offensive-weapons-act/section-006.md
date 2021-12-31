@@ -11,5 +11,3 @@
 (b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
 
 (4) An offence under subsection (1) shall be deemed to be an arrestable and non-bailable offence.
-
-[63/73]

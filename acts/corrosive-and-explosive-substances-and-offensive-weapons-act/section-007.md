@@ -11,5 +11,3 @@
 (2) In any prosecution for an offence under subsection (1), the onus of proving the existence of a lawful purpose shall be upon the accused.
 
 (3) An offence under subsection (1) shall be deemed to be an arrestable and non-bailable offence.
-
-[63/73]

@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-Section 2
+Sections 2 and 12
 
 CORROSIVE SUBSTANCES 1. Sulphuric acid.
 

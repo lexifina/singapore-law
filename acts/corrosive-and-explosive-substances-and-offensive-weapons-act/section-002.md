@@ -6,7 +6,7 @@ In this Act, unless the context otherwise requires —
 
 “explosive substance” shall be deemed to include any materials for making any explosive substance and any bomb, grenade, apparatus, machine, implement or material used or intended to be used or adapted for causing or aiding in causing any explosion in or with any explosive substance and any part of such bomb, grenade, apparatus, machine or implement;
 
-“hurt” means hurt as defined in the Penal Code (Cap. 224);
+“hurt” means hurt as defined in the Penal Code 1871;
 
 “offensive weapon” includes any instrument which if used as a weapon of offence is likely to cause hurt;
 

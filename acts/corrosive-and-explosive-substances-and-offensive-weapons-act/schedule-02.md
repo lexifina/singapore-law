@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 2
+Sections 2 and 12
 
 SCHEDULED WEAPONS
 
@@ -12,12 +12,10 @@ SCHEDULED WEAPONS
 
 4. All kinds of knuckledusters.
 
-5. Any blade or other instrument attached to or forming part of a bicycle pump, metal-pipe or stick, and concealed therein, which is capable of being used for cutting or stabbing.
-
 SECOND SCHEDULE — continued
 
-6. Any sword, machete or parang, axe, sickle, bearing scraper, spear, bayonet, iron rod, or nancha-ku (segments of wood or metal joined by a chain, leather strap or cord).
+5. Any blade or other instrument attached to or forming part of a bicycle pump, metal pipe or stick, and concealed therein, which is capable of being used for cutting or stabbing.
+
+6. Any sword, machete or parang, axe, sickle, bearing scraper, spear, bayonet, iron rod, or nunchaku (segments of wood or metal joined by a chain, leather strap or cord).
 
 7. Any knife, sometimes known as a wasp knife, which is capable of injecting a ball of compressed gas that freezes both human and animal tissues and organs surrounding the point of injection.
-
-[S 318/73; S 378/2009]

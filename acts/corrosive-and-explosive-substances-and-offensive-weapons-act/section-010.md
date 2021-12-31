@@ -1,6 +1,6 @@
 # 10. Disposal of property
 
-(1) Subject to subsection (2), the provisions of the Criminal Procedure Code (Cap. 68) relating to the disposal of property, the subject of an offence, shall apply to any article coming into the possession of a police officer under section 9.
+(1) Subject to subsection (2), the provisions of the Criminal Procedure Code 2010 relating to the disposal of property the subject of an offence, shall apply to any article coming into the possession of a police officer under section 9.
 
 (2) Any corrosive or explosive substance or offensive weapon coming into the possession of a police officer under section 9 may be disposed of in such manner as the Minister may order.
 
