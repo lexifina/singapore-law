@@ -1,4 +1,4 @@
 # 30. Jurisdiction of District and Magistrate’s Courts
-Part: PART VI MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
+Part: PART 6 MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS
 
-Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+Despite anything to the contrary in the Criminal Procedure Code 2010, a District Court or Magistrate’s Court has jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.

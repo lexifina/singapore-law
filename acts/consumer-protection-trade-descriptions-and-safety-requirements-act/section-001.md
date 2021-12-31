@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Consumer Protection (Trade Descriptions and Safety Requirements) Act.
+This Act is the Consumer Protection (Trade Descriptions and Safety Requirements) Act 1975.

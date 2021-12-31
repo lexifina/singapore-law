@@ -1,35 +1,19 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CONSUMER PROTECTION (TRADE DESCRIPTIONS AND SAFETY REQUIREMENTS) ACT 1975
 
-CONSUMER PROTECTION (TRADE DESCRIPTIONS AND SAFETY REQUIREMENTS) ACT (CHAPTER 53)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Consumer Protection (Trade Descriptions and Safety Requirements) Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 18 of 1975 — Consumer Protection (Trade Descriptions and Safety Requirements) Act 1975
+LEGISLATIVE HISTORY DETAILS PART 1 MERCHANDISE MARKS ORDINANCE 1917 (ORDINANCE 9 OF 1917) 1. Ordinance III of 1888 — The Merchandise Marks Ordinance 1888 Bill : G.N. No. 599/1887 First Reading : 29 November 1887 Second Reading : 18 January 1888 Commencement : 23 February 1888 2. Ordinance VI of 1913 — The Merchandize Marks Ordinance 1888 Amendment Ordinance 1913 Bill : G.N. No. 271/1913 First Reading : 28 March 1913 Second Reading : 4 April 1913 Commencement : 26 April 1913 3. Ordinance 9 of 1917 — Merchandise Marks Ordinance 1917 Bill : G.N. No. 1571/1916 First Reading : 8 January 1917 Second Reading : 20 March 1917 Notice of Amendments : 20 March 1917 Commencement : 3 April 1917
 
-Date of First Reading : 17 March 1975 (Bill No. 21/75 published on 18 March 1975)
+PART 2 TRADE MARKS PROHIBITION ORDINANCE, 1919 (ORDINANCE 8 OF 1919) 4. Ordinance 8 of 1919 — Trade Marks Prohibition Ordinance, 1919 Bill : G.N. No. 2/1919 First Reading : 30 December 1918 Second Reading : 27 January 1919 Notice of Amendments : 27 January 1919 Commencement : 26 February 1919
 
-Date of Second and Third Readings : 27 March 1975
+PART 3 MERCHANDISE MARKS ACT (CHAPTER 194, 1970 REVISED EDITION) 5. 1920 Revised Edition — Ordinance No. 161 (Merchandise Marks) Operation : 28 November 1921 Note: This Revised Edition consolidated the Merchandise Marks Ordinance 1917 (Ordinance IX of 1917) and the Trade Marks Prohibition Ordinance, 1919 (Ordinance VIII of 1919).
 
-Date of commencement : 1 August 1975
+6. Ordinance 7 of 1922 — Merchandise Marks (Amendment) Ordinance, 1922 Bill : G.N. No. 1953/1921 First Reading : 19 December 1921 Second Reading : 23 January 1922 Commencement : 8 March 1922 7. 1926 Revised Edition — Ordinance No. 161 (Merchandise Marks) Operation : 1 August 1926 8. 1936 Revised Edition — Merchandise Marks Ordinance (Chapter 157) Operation : 1 September 1936 9. Ordinance 19 of 1926 — Merchandise Marks (Amendment) Ordinance, 1926 Bill : G.N. No. 774/1926 First Reading : 17 May 1926 Second Reading : 12 July 1926 Commencement : 24 September 1926 10. Ordinance 33 of 1938 — Merchandise Marks (Amendment) Ordinance, 1938 Bill : G.N. No. 2651/1938 First Reading : 31 October 1938 Second and Third Readings : 23 November 1938 Commencement : 7 December 1938 11. Ordinance 41 of 1940 — Merchandise Marks (Amendment) Ordinance, 1940 Bill : G.N. No. 2500/1940 First Reading : 26 August 1940 Second and Third Readings : 14 October 1940 Commencement : 26 October 1940 12. Ordinance 8 of 1955 — Revised Edition of the Laws (Miscellaneous Amendments) Ordinance, 1955 (Amendments made by section 2 read with item 20 of the Schedule to the above Act) Bill : 45/1954 First Reading : 14 December 1954 Second and Third Readings : 28 January 1955 Commencement : 4 February 1955 (section 2 read with item 20 of the Schedule) 13. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 50 of the Schedule to the above Act) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 50 of the Schedule) 14. Ordinance 22 of 1955 — Merchandise Marks (Amendment) Ordinance, 1955 Bill : 21/1955 First Reading : 22 September 1955 Second and Third Readings : 12 October 1955 Commencement : 11 November 1955 15. 1955 Revised Edition — Merchandise Marks Ordinance (Chapter 179) Operation : 1 July 1956 16. 1970 Revised Edition — Merchandise Marks Act (Chapter 194) Operation : 1 July 1971
 
-2. 1985 Revised Edition — Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53)
+PART 4 CONSUMER PROTECTION (TRADE DESCRIPTIONS AND SAFETY REQUIREMENTS) ACT 1975 (2020 REVISED EDITION) 17. Act 18 of 1975 — Consumer Protection (Trade Descriptions and Safety Requirements) Act, 1975 Bill : 21/1975 First Reading : 17 March 1975 Second and Third Readings : 27 March 1975 Commencement : 1 August 1975 18. 1985 Revised Edition — Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53) Operation : 30 March 1987 19. Act 46 of 1998 — Trade Marks Act 1998 (Amendments made by section 111 read with item (2) of the Fourth Schedule to the above Act) Bill : 42/1998 First Reading : 12 October 1998 Second and Third Readings : 26 November 1998 Commencement : 15 January 1999 (section 111 read with item (2) of the Fourth Schedule) 20. G.N. No. S 433/2010 — Consumer Protection (Trade Descriptions and Safety Requirements) Act (Amendment of Schedule) Order 2010 Commencement : 10 August 2010 21. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 25 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 25 of the Sixth Schedule) 22. 2013 Revised Edition — Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53) Operation : 31 October 2013
 
-Date of operation : 30 March 1987
+Abbreviations
 
-3. Act 46 of 1998 — Trade Marks Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 12 October 1998 (Bill No. 42/98 published on 13 October 1998)
-
-Date of Second and Third Readings : 26 November 1998
-
-Date of commencement : 15 January 1999 (item (2) in the Fourth Schedule — amendment of Consumer Protection (Trade Descriptions and Safety Requirements) Act)
-
-4. G.N. No. S 433/2010 — Consumer Protection (Trade Descriptions and Safety Requirements) Act (Amendment of Schedule) Order 2010
-
-Date of commencement : 10 August 2010 5. Act 15 of 2010 — Criminal Procedure Code 2010
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,9 +1,9 @@
 # 12. Regulations under sections 9 and 11
-Part: PART III POWER TO REQUIRE INFORMATIVE MARKING AND TO IMPOSE SAFETY REQUIREMENTS
+Part: PART 3 POWER TO REQUIRE INFORMATIVE MARKING AND TO IMPOSE SAFETY REQUIREMENTS
 
 Regulations made under sections 9 and 11 may —
 
-(a) specify a class or description of goods notwithstanding that the goods are for use only as component parts of other goods;
+(a) specify a class or description of goods even though the goods are for use only as component parts of other goods;
 
 (b) make different provisions for different classes or descriptions of goods or for different circumstances;
 

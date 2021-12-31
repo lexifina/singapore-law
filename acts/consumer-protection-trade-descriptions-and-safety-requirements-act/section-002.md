@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
@@ -11,7 +11,7 @@ Part: PART I PRELIMINARY
 
 “premises” includes any place, stall, ship, aircraft or vehicle;
 
-“supply”, with its grammatical variations and cognate expressions, includes offer to supply or having goods in possession for the purpose of supply;
+“supply” includes offer to supply or having goods in possession for the purpose of supply;
 
 “trade description” means any description, statement or indication which, directly or indirectly and by whatever means given, relates to any of the following matters:
 
@@ -27,7 +27,7 @@ Part: PART I PRELIMINARY
 
 (f) physical characteristics of any goods not included in paragraphs (a) to (e);
 
-(g) testing of any goods by any person and the results thereof;
+(g) testing of any goods by any person and the results of such testing;
 
 (h) approval of any goods by any person or their conformity with a type approved by any person;
 
@@ -37,6 +37,8 @@ Part: PART I PRELIMINARY
 
 (k) other history, including previous ownership or use, of any goods.
 
-(2) Where any trade description is subject to the provisions of the written laws specified in the Schedule, the provisions of this Act shall not have effect in relation to any such description which is applied in accordance with the requirements of that written law; and the Minister may, by order published in the Gazette, amend the Schedule.
+(2) Where any trade description is subject to the provisions of the written laws specified in the Schedule, the provisions of this Act do not have effect in relation to any such description which is applied in accordance with the requirements of that written law.
 
-(3) For the purposes of this Act, a trade description published in any newspaper, book or periodical or in any film or sound or television broadcast shall not be deemed to be a trade description applied in the course of a trade or business unless it is or forms part of an advertisement.
+(3) The Minister may, by order in the Gazette, amend the Schedule.
+
+(4) For the purposes of this Act, a trade description published in any newspaper, book or periodical or in any film or sound or television broadcast is not to be deemed a trade description applied in the course of a trade or business unless it is or forms part of an advertisement.
