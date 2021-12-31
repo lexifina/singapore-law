@@ -1,0 +1,4 @@
+# 13. Application of law as to indemnity, contribution and contributory negligence
+Part: PART 2 SUBSTANTIVE LAW
+
+Where the Government is subject to any liability by virtue of this Part, any written law relating to indemnity, contribution and contributory negligence shall apply in favour of or against the Government in respect of the liability to which it is so subject as if the Government were a private person of full age and capacity.
