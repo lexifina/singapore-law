@@ -1,0 +1,14 @@
+# 45. Use of approved codes of practice in criminal proceedings
+Part: PART 7 HEALTH AND SAFETY PROTECTION AND ACCIDENT PREVENTION
+
+(1) A person shall not be liable to any criminal proceedings by reason only that the person has failed to observe any approved code of practice.
+
+(2) In any proceedings for an offence under this Act, an approved code of practice that is relevant to any matter which is necessary for the prosecution to prove in order to establish the commission of the offence is admissible in evidence in the proceedings.
+
+(3) Without affecting any other method of proof, in any proceedings for an offence under this Act —
+
+(a) the production of a document purporting to be a copy of a notice published by the Authority under section 44(3)(a) is to be taken to be such a notice until the contrary is proved;
+
+and
+
+(b) the production of a code of practice, or an amendment or a revocation of a code of practice, purporting to be the subject of a notice under section 44(3)(a) is to be taken to be the subject of that notice until the contrary is proved.

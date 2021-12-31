@@ -1,0 +1,9 @@
+# LEGISLATIVE HISTORY MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) ACT 2014
+
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Act 6 of 2014 — Merchant Shipping (Maritime Labour Convention) Act 2014 Bill : 27/2013 First Reading : 11 November 2013 Second and Third Readings : 21 January 2014 Commencement : 1 April 2014 2. Act 29 of 2016 — Merchant Shipping (Maritime Labour Convention) (Amendment) Act 2016 Bill : 29/2016 First Reading : 10 October 2016 Second and Third Readings : 10 November 2016 Commencement : 18 January 2017 3. Act 3 of 2019 — Merchant Shipping (Miscellaneous Amendments) Act 2019 (Amendments made by sections 2 and 3 of the above Act) Bill : 49/2018 First Reading : 19 November 2018 Second and Third Readings : 14 January 2019 Commencement : 1 April 2019 (sections 2 and 3) 4. Act 27 of 2019 — Work Injury Compensation Act 2019 (Amendments made by section 83(3) of the above Act) Bill : 21/2019 First Reading : 5 August 2019 Second and Third Readings : 3 September 2019 Commencement : 1 September 2020 (section 83(3)) 5. Act 16 of 2020 — Merchant Shipping (Maritime Labour Convention) (Amendment) Act 2020 Bill : 1/2020 First Reading : 6 January 2020 Second and Third Readings : 25 March 2020 Commencement : 26 December 2020
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
