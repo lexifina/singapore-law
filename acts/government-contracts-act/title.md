@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-GOVERNMENT CONTRACTS ACT
-(CHAPTER 118)
-(Original Enactment: Act 43 of 1966)
-REVISED EDITION 2013
-(31st August 2013)
+GOVERNMENT CONTRACTS ACT 1966
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the making of contracts on behalf of the Government and for matters connected therewith.
 
-[15th March 1967]
+[15 March 1967]

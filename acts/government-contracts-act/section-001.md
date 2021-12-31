@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Government Contracts Act.
+This Act is the Government Contracts Act 1966.
