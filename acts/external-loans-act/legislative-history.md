@@ -1,43 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY EXTERNAL LOANS ACT 1968
 
-EXTERNAL LOANS ACT (CHAPTER 102)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the External Loans Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 4 of 1968 — External Loans Act 1968
+LEGISLATIVE HISTORY DETAILS PART 1 EXTERNAL LOANS ACT, 1963 (M. ACT 22 OF 1963) 1. M. Act 22 of 1963 — External Loans Act, 1963 Commencement : 15 June 1963 Application : 16 September 1963 Note: This Act was extended to Singapore with modifications by the Modification of Laws (External Loans) (Extension) Order, 1964 (L.N. 102/1964 (G.N. Sp. No. S 202/1964)) on 16 September 1963.
 
-Date of First Reading : 9 May 1968 (Bill No. 6/68 published on 10 May 1968)
+2. L.N. 102/1964 (G.N. Sp. No. S 202/1964) — Modification of Laws (External Loans) (Extension) Order, 1964 Commencement : 16 September 1963 Note: This Order extended the Federation of Malaya External Loans Act, 1963 (M. Act 22 of 1963) with modifications to Singapore.
 
-Date of Second and Third Readings : 21 May 1968
+3. L.N. 153/1964 — Modification of Laws (External Loans) (Extension) Order, 1964 Commencement : 16 September 1963 PART 2 EXTERNAL LOANS ACT 1968 (2020 REVISED EDITION) 4. Act 4 of 1968 — External Loans Act, 1968 Bill : 6/1968 First Reading : 9 May 1968 Second and Third Readings : 21 May 1968 Commencement : 1 June 1968 5. 1970 Revised Edition — External Loans Act (Chapter 67) Operation : 1 April 1971 6. 1985 Revised Edition — External Loans Act (Chapter 102) Operation : 30 March 1987 7. Act 11 of 1991 — Statutes (Miscellaneous Amendments) Act 1991 (Amendments made by section 2 read with item (10) of the Schedule to the above Act) Bill : 4/1991 First Reading : 3 January 1991 Second Reading : 14 January 1991 Notice of Amendments : 14 January 1991 Third Reading : 14 January 1991 Commencement : 30 November 1991 (section 2 read with item (10) of the Schedule) 8. Act 6 of 2000 — Developmental Investment Fund Act 2000 (Amendments made by section 21(2) of the above Act) Bill : 4/2000 First Reading : 17 January 2000 Second and Third Readings : 22 February 2000 Commencement : 1 April 2000 (section 21(2)) 9. Act 25 of 2002 — Currency (Amendment) Act 2002 (Amendments made by section 9 read with item (4) of the Schedule to the above Act) Bill : 23/2002 First Reading : 8 July 2002 Second and Third Readings : 23 July 2002 Commencement : 1 October 2002 (section 9 read with item (4) of the Schedule) 10. 2014 Revised Edition — External Loans Act (Chapter 102) Operation : 31 March 2014 11. Act 15 of 2021 — Significant Infrastructure Government Loan Act 2021 (Amendments made by section 27 of the above Act) Bill : 6/2021 First Reading : 5 April 2021 Second and Third Readings : 10 May 2021 Commencement : 3 August 2021 (section 27)
 
-Date of commencement : 1 June 1968
+Abbreviations
 
-2. 1970 Revised Edition — External Loans Act (Chapter 67)
-
-Date of operation : 1 April 1971
-
-3. 1985 Revised Edition — External Loans Act (Chapter 102)
-
-Date of operation : 30 March 1987
-
-4. Act 11 of 1991 — Statutes (Miscellaneous Amendments) Act 1991
-
-Date of First Reading : 3 January 1991 (Bill No. 4/91 published on 4 January 1991)
-
-Date of Second and Third Readings : 14 January 1991
-
-Date of commencement : 30 November 1991 (item (10) of the Schedule — amendment of External Loans Act)
-
-5. Act 6 of 2000 — Developmental Investment Fund Act 2000 (Consequential amendments made to Act by)
-
-Date of First Reading : 17 January 2000 (Bill No. 4/2000 published on 18 January 2000)
-
-Date of Second and Third Readings : 22 February 2000
-
-Date of commencement : 1 April 2000 6. Act 25 of 2002 — Currency (Amendment) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 8 July 2002 (Bill No. 23/2002 published on 9 July 2002)
-
-Date of Second and Third Readings : 23 July 2002
-
-Date of commencement : 1 October 2002
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

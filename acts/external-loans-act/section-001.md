@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the External Loans Act.
+This Act is the External Loans Act 1968.
