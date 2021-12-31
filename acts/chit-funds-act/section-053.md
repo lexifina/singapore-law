@@ -1,7 +1,7 @@
 # 53. Winding up provisions
-Part: PART VII MISCELLANEOUS PROVISIONS
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
-(1) Without prejudice to the provisions of the Companies Act (Cap. 50) —
+(1) Without affecting the provisions of the Insolvency, Restructuring and Dissolution Act 2018 —
 
 (a) a chit fund company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Minister; and
 
@@ -13,6 +13,6 @@ Part: PART VII MISCELLANEOUS PROVISIONS
 
 (iii) has carried on chit fund business in Singapore in contravention of the provisions of this Act.
 
-[42/2005]
+[40/2018]
 
-(2) In the winding up of a chit fund company that has been carrying on chit fund business, every subscriber who has not purchased a chit fund amount shall be entitled to recover his contribution in the manner set out in section 40(2).
+(2) In the winding up of a chit fund company that has been carrying on chit fund business, every subscriber who has not purchased a chit fund amount is entitled to recover that subscriber’s contribution in the manner set out in section 40(2).

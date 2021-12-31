@@ -1,17 +1,15 @@
 # 37. Books to be kept by chit fund company
-Part: PART IV CHIT FUNDS — GENERAL PROVISIONS
+Part: PART 4 CHIT FUNDS — GENERAL PROVISIONS
 
-The chit fund company shall keep and from day to day regularly post up the following books:
+The chit fund company must keep and from day to day regularly post up the following books:
 
 (a) a register of subscribers containing —
 
 (i) the names and addresses of all subscribers with the respective dates on which the subscribers signed the agreement, and the date on which any subscriber ceased to be a subscriber by reason of a transfer of rights or of a substitution in case of default;
 
-(ii) in the case of any transfer of rights by a subscriber, the name and address of the person to whom the rights are transferred with the date of the transfer and the date on which notice thereof is given to the chit fund company;
+(ii) in the case of any transfer of rights by a subscriber, the name and address of the person to whom the rights are transferred with the date of the transfer and the date on which notice of the transfer is given to the chit fund company; and
 
-and
-
-(iii) the name and address of any person substituted in place of a defaulting subscriber, with the date on which he is so substituted;
+(iii) the name and address of any person substituted in place of a defaulting subscriber, with the date on which that person is so substituted;
 
 (b) the minute book required under section 27;
 

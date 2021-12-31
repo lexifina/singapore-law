@@ -1,39 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CHIT FUNDS ACT 1971
 
-CHIT FUNDS ACT (CHAPTER 39)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Chit Funds Act. It is not part of the Act.
+1. Act 28 of 1971 — Chit Funds Act, 1971 Bill : 21/1971 First Reading : 19 October 1971 Second Reading : 2 December 1971 Notice of Amendments : 2 December 1971 Third Reading : 2 December 1971 Commencement : 14 January 1972 2. 1985 Revised Edition — Chit Funds Act (Chapter 39) Operation : 30 March 1987 3. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (7) of the First Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 (section 5 read with item (7) of the First Schedule) 4. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 14 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 14 of the Sixth Schedule) 5. 2013 Revised Edition — Chit Funds Act (Chapter 39) Operation : 31 October 2013 6. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 460 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 460)
 
-1. Act 28 of 1971 — Chit Funds Act 1971
+Abbreviations
 
-Date of First Reading : 19 October 1971 (Bill No. 21/71 published on 25 October 1971)
-
-Date of Second and Third Readings : 2 December 1971
-
-Date of commencement : 14 January 1972
-
-2. Act 31 of 1972 — Monetary Authority of Singapore (Amendment) Act 1972
-
-Date of First Reading : 24 October 1972 (Bill No. 36/72 published on 25 October 1972)
-
-Date of Second and Third Readings : 3 November 1972
-
-Date of commencement : 22 December 1972
-
-3. 1985 Revised Edition — Chit Funds Act (Chapter 39)
-
-Date of operation : 30 March 1987
-
-4. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 April 2006 (item (7) of the First Schedule — amendment to Chit Funds Act)
-
-5. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 20 April 2010)
-
-Date of Second and Third Readings : 19 May 2010 Date of commencement : 2 January 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

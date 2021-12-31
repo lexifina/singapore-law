@@ -1,5 +1,5 @@
 # 14. Revocation of licence
-Part: PART III LICENSING OF CHIT FUND COMPANIES
+Part: PART 3 LICENSING OF CHIT FUND COMPANIES
 
 (1) The Authority may by order revoke a licence issued under this Act —
 
@@ -11,14 +11,14 @@ Part: PART III LICENSING OF CHIT FUND COMPANIES
 
 (iii) is carrying on its business in a manner likely to be detrimental to the interests of the subscribers of its chit funds or has insufficient assets to cover its liabilities to its subscribers or the public;
 
-(iv) is contravening the provisions of this Act or the regulations made thereunder; or
+(iv) is contravening the provisions of this Act or the regulations made under this Act; or
 
-(v) has been convicted of any offence under this Act or the regulations made thereunder or if any of its officers holding a managerial or executive position has been convicted of any offence under this Act or the regulations made thereunder; or
+(v) has been convicted of any offence under this Act or the regulations made under this Act or if any of its officers holding a managerial or executive position has been convicted of any offence under this Act or the regulations made under this Act; or
 
 (b) if it considers it in the public interest to do so.
 
-(2) The Authority shall, before revoking any licence under subsection (1), give the chit fund company concerned notice in writing of its intention to do so, specifying a date, not less than 21 days after the date of the notice, upon which the revocation shall take effect and calling upon the chit fund company to show cause to the Authority why the licence should not be revoked.
+(2) The Authority must, before revoking any licence under subsection (1), give the chit fund company concerned notice in writing of its intention to do so, specifying a date, not less than 21 days after the date of the notice, upon which the revocation will take effect and calling upon the chit fund company to show cause to the Authority why the licence should not be revoked.
 
-(3) When the Authority has revoked a licence under subsection (1), it shall forthwith inform the chit fund company by notice in writing of the revocation.
+(3) When the Authority has revoked a licence under subsection (1), it must forthwith inform the chit fund company by written notice of the revocation.
 
-(4) The chit fund company may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the revocation to the Minister whose decision shall be final.
+(4) The chit fund company may, within 14 days of the receipt of the notice referred to in subsection (3), or an extended period of time that the Minister may allow, appeal in writing against the revocation to the Minister whose decision is final.

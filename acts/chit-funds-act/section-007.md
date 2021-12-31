@@ -1,13 +1,13 @@
 # 7. Application for licence
-Part: PART III LICENSING OF CHIT FUND COMPANIES
+Part: PART 3 LICENSING OF CHIT FUND COMPANIES
 
-(1) A public company which desires authority to carry on chit fund business in Singapore shall apply in writing to the Authority for a licence under this section and shall supply —
+(1) A public company which desires authority to carry on chit fund business in Singapore must apply in writing to the Authority for a licence under this section and must supply —
 
 (a) a copy of the memorandum of association and articles of association or other instrument under which the company is incorporated, duly verified by a statutory declaration made by a senior officer of the company;
 
-(b) a copy of the latest balance-sheet of the company; and
+(b) a copy of the latest balance sheet of the company; and
 
-(c) such other information as may be called for by the Authority.
+(c) any other information that may be called for by the Authority.
 
 (2) In considering any application by a public company for a licence, the Authority may require to be satisfied as to —
 
@@ -29,6 +29,6 @@ and
 
 (4) The Authority may at any time vary or revoke any existing conditions of a licence or impose conditions or additional conditions thereto.
 
-(5) Where a licence is subject to conditions, the chit fund company shall comply with those conditions.
+(5) Where a licence is subject to conditions, the chit fund company must comply with those conditions.
 
 (6) Any chit fund company which fails to comply with any of the conditions of its licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
