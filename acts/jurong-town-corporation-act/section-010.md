@@ -1,0 +1,4 @@
+# 10. [Repealed]
+Part: PART 2 ESTABLISHMENT AND INCORPORATION OF CORPORATION
+
+[Repealed by Act 5 of 2018]

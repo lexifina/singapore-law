@@ -1,0 +1,4 @@
+# 30. [Repealed]
+Part: PART 3 PROVISIONS RELATING TO CORPORATION
+
+[Repealed by Act 23 of 1995]

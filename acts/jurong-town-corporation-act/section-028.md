@@ -1,0 +1,4 @@
+# 28. [Repealed]
+Part: PART 3 PROVISIONS RELATING TO CORPORATION
+
+[Repealed by Act 20 of 2013]
