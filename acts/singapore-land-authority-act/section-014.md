@@ -1,7 +1,7 @@
 # 14. Funds and property of Authority
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds and property of the Authority shall consist of —
+The funds and property of the Authority consist of —
 
 (a) grants made under section 19;
 
@@ -11,7 +11,7 @@ The funds and property of the Authority shall consist of —
 
 (d) all moneys received by the Authority by way of charges and fees for services rendered by the Authority to any person, including any collection agency fee;
 
-(e) all moneys derived from the disposal, lease or hire of, or any other dealing with any property vested in or acquired by the Authority;
+(e) all moneys derived from the disposal, lease or hire of, or any other dealing with, any property vested in or acquired by the Authority;
 
 (f) all accumulations of income derived from any such property or money, including any gains made on the sale of any investment of such money, and interest or gains thereon;
 

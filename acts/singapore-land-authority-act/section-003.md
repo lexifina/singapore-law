@@ -1,7 +1,7 @@
 # 3. Establishment and incorporation of Singapore Land Authority
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-There is hereby established a body to be known as the Singapore Land Authority which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+A body called the Singapore Land Authority is established, which is a body corporate with perpetual succession and is, by that name, capable of —
 
 (a) suing and being sued;
 

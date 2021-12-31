@@ -1,6 +1,8 @@
 # 9. Directions by Minister
-Part: PART III FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
+Part: PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
-(1) The Minister may give to the Authority such directions, not inconsistent with the provisions of this Act, as he thinks fit as to the performance of its functions and the exercise of its powers, and the Authority shall give effect to such directions.
+(1) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(2) The Authority shall furnish the Minister with such information in respect of its property and activities in such manner and at such times as the Minister may require.
+[5/2018]
+
+(2) The Authority must provide the Minister with any information in respect of its property and activities in the manner and at the times that the Minister may require.
