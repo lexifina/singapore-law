@@ -1,0 +1,3 @@
+# 7. Authority for necessary operations
+
+For the purposes of preliminary examination of the bed of the said Straits with a view to determining the nature of the work to be constructed in pursuance of section 6 and the site and the mode of construction thereof and for the purpose of any operations incidental to the construction thereof or to the due protection, maintenance and use thereof during construction or after completion, the Government of the Federated Malay States or any person authorised by it in that behalf may take borings and construct piers and abutments and carry on and construct all other necessary operations and works, notwithstanding that obstruction is thereby caused to the passage of ships, boats or other craft through or upon the said Straits.

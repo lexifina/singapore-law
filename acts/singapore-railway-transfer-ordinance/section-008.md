@@ -1,0 +1,3 @@
+# 8. No action to be brought for obstruction of the Straits
+
+Except as in section 9 provided, no person shall claim, and no action or proceeding shall be brought against the Government of the Federation of Malaya to recover, any compensation in respect of any lands or of any interest therein which have been injuriously affected by anything done in pursuance of this Ordinance or in respect of any obstruction to the flow of water or to the passage of ships or boats or other craft through or upon the said Straits or any alteration in the tides in the said Straits where such obstruction or alteration is due to anything done in pursuance of this Ordinance.
