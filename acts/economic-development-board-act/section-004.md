@@ -1,5 +1,3 @@
-# 4. Chairman of Board
+# 4. Chairperson of Board
 
-The Minister shall appoint a Chairman of the Board who shall, subject to the provisions of this Act, hold office for such period and on such terms as the Minister may determine.
-
-[3/72]
+The Minister must appoint a Chairperson of the Board to hold office, subject to the provisions of this Act, for such period and on such terms as the Minister may determine.

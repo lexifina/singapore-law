@@ -1,5 +1,3 @@
-# 25. Financial provisions
+# 25. [Repealed]
 
-The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
-
-[11/89; 11/2008]
+[Repealed by Act 5 of 2018]

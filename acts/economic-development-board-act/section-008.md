@@ -1,19 +1,13 @@
-# 8. Appointment of chief executive officer
+# 8. Chief executive officer
 
-(1) The Board shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Board may determine.
+(1) There must be a chief executive officer of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-[11/89]
+[5/2018]
 
-(2) The chief executive officer shall —
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(a) be known by such designation as the Board may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
-
-[11/89; 11/2008]
-
-(3) The Board may appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
-
-[11/89; 11/2008]
+[5/2018]

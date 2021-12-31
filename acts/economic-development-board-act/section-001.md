@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Economic Development Board Act.
+This Act is the Economic Development Board Act 1961.

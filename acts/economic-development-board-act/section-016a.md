@@ -1,6 +1,6 @@
 # 16A. Funds and property of Board
 
-The funds and property of the Board shall consist of —
+The funds and property of the Board consist of —
 
 (a) any moneys appropriated by Parliament for the purposes of the Board;
 
@@ -19,5 +19,3 @@ The funds and property of the Board shall consist of —
 (h) all other moneys and property lawfully received by the Board for the purposes of the Board; and
 
 (i) all accumulations of income derived from any such property or money.
-
-[11/2008]

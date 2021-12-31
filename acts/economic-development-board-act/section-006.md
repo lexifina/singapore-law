@@ -14,22 +14,14 @@
 
 (f) to provide or support training in skills required for the development of the Singapore economy;
 
-(g) to identify key enterprises and encourage them to establish their international headquarters in Singapore and undertake a wide range of international service and business activities;
-
-and
+(g) to identify key enterprises and encourage them to establish their international headquarters in Singapore and undertake a wide range of international service and business activities; and
 
 (h) to exercise or perform any function or duty conferred upon the Board under any other written law.
 
-[11/2008]
+(2) In addition to the functions imposed by this section, the Board may undertake any other functions that the Minister may assign to the Board, and in so doing —
 
-(2) In addition to the functions imposed by this section, the Board may undertake such other functions as the Minister may assign to the Board, and in so doing —
+(a) the Board is deemed to be fulfilling the purposes of this Act; and
 
-(a) the Board shall be deemed to be fulfilling the purposes of this Act; and
+(b) the provisions of this Act apply to the Board in respect of the functions.
 
-(b) the provisions of this Act shall apply to the Board in respect of such functions.
-
-[11/2008]
-
-(3) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
-
-[11/2008]
+(3) This section is not to be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.

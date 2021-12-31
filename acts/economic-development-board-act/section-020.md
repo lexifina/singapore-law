@@ -1,6 +1,6 @@
 # 20. Power to call for repayment before agreed period
 
-Notwithstanding any agreement to the contrary, and without prejudice to any other rights or remedies which it may possess under the law, the Board may by notice require any enterprise, to which it has granted any loan, advance or incentive, to immediately discharge in full its liabilities to the Board —
+Despite any agreement to the contrary, and without affecting any other rights or remedies which it may possess under the law, the Board may by notice require any enterprise, to which it has granted any loan, advance or incentive, to immediately discharge in full its liabilities to the Board —
 
 (a) if it appears to the Board that false or misleading information in any material particular was given in the application for the loan, advance or incentive;
 
@@ -13,5 +13,3 @@ Notwithstanding any agreement to the contrary, and without prejudice to any othe
 (e) if, without the permission of the Board, machinery and other equipment, whether forming part of the security or otherwise, is removed from the premises of the enterprise without being replaced; or
 
 (f) if for any reason it is necessary in the opinion of the Board to protect the interests of the Board.
-
-[11/89; 11/2008]

@@ -1,3 +1,3 @@
-# 15. Members, officers and employees of Board deemed to be public servants
+# 15. [Repealed]
 
-The members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+[Repealed by Act 5 of 2018]

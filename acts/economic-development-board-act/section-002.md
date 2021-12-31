@@ -4,7 +4,7 @@ In this Act, unless the context otherwise requires —
 
 “Board” means the Economic Development Board established under section 3;
 
-“chief executive officer” means the chief executive officer of the Board and includes any temporary chief executive officer of the Board;
+“chief executive officer” means the chief executive of the Board, and includes any individual acting in that capacity;
 
 “enterprise” means any entity incorporated, formed or established in Singapore or elsewhere, whether or not for profit, and howsoever owned or controlled, and includes —
 
@@ -16,4 +16,4 @@ In this Act, unless the context otherwise requires —
 
 “underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of an enterprise with a view to the resale of the whole or part of it.
 
-[11/89; 9/97; 11/2008]
+[5/2018]
