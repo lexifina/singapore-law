@@ -1,10 +1,6 @@
-# 5. Constitution of Council
-Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
+# 5. Committee for Private Education
+Part: PART 2 ADMINISTRATION OF ACT
 
-(1) The Council shall consist of the following members:
+Without affecting section 34 of the SkillsFuture Singapore Agency Act 2016, the Agency may appoint a committee, to be known as the Committee for Private Education, to which the Agency may delegate the exercise of any of its powers under this Act.
 
-(a) a Chairman; and
-
-(b) such other members, not being less than 5 or more than 17, as the Minister may from time to time determine.
-
-(2) The Second Schedule shall have effect with respect to the Council, its members and its proceedings.
+[24/2016]

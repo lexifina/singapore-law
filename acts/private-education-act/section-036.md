@@ -1,28 +1,22 @@
-# 36. Grant or renewal of registration
-Part: PART III REGULATION OF PRIVATE EDUCATION INSTITUTIONS Division 1 — Registration of private education institutions
+# 36. Registers and publication of information
+Part: PART 7 MISCELLANEOUS
 
-(1) The Council may, upon receiving an application made under section 35(1) for the grant or renewal of the registration of a private education institution, and after such inquiry as it may think necessary —
+(1) The Agency may establish, maintain and cause to be published in any manner that it may determine, one or more registers in respect of —
 
-(a) if the application is accompanied by an application for the waiver of any of the requirements imposed under this Act for the registration or renewal of registration of private education institutions —
+(a) registered private education institutions or any class thereof, and any other person that may be prescribed;
 
-(i) grant or renew (as the case may be) the registration of the private education institution subject to such terms and conditions as it thinks fit, after waiving such of the requirements imposed under this Act for the registration or renewal of registration of private education institutions that is the subject of the application for waiver; or
+(b) courses offered or provided, or to be offered or provided, by any person or class of persons mentioned in paragraph (a); or
 
-(ii) refuse to waive such of the requirements imposed under this Act for the registration or renewal of registration of private education institutions that is the subject of the application for waiver and refuse to grant or renew (as the case may be) the registration of the private education institution because of section 37; or
+(c) any other information relating to private education generally or to any Scheme that the Agency may determine.
 
-(b) in any other case —
+[24/2016]
 
-(i) grant or renew (as the case may be) the registration of the private education institution subject to such terms and conditions as it thinks fit; or
+(2) Regulations may be made under section 44 to prescribe the manner in which the registers are established or maintained under subsection (1), including the details or particulars required to be entered in the registers.
 
-(ii) refuse to grant or renew (as the case may be) the registration of the private education institution because of section 37.
+(3) Any person may, upon payment of the fee that may be prescribed, inspect and take an extract from any register established under subsection (1).
 
-(2) Every registration of a private education institution, and every renewal thereof, shall be for such period as may be specified by the Council.
+(4) Any extract taken under subsection (3), if certified by the Agency to be a true copy, is admissible as evidence in any legal proceedings.
 
-(3) Without prejudice to the generality of subsection (1)(a)(i) and (b)(i), the terms and conditions subject to which the Council registers a private education institution may provide that except with the prior written approval of the Council —
+[63
 
-(a) the private education institution shall not enter into a contractual agreement or other arrangement (whether or not in partnership) with one or more other parties to undertake any activity that is not related to private education, so as to obtain individual benefits for the parties, whether in the form of a share of the output of the arrangement or joint or collective profits for all the parties; or
-
-(b) the private education institution shall only provide private education and other activities that are related to the provision of private education.
-
-(4) The Council may at any time add to, vary or revoke any term or condition of the registration of a private education institution without compensation.
-
-(5) For the avoidance of doubt, nothing in subsection (3) shall authorise the imposition of any term or condition restricting or prohibiting any particular member of a registered society from entering into any contractual agreement or other arrangement referred to in subsection (3)(a) or from carrying on any activity that is not related to the provision of private education.
+[24/2016]

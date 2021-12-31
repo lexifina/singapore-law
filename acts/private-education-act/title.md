@@ -1,18 +1,19 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-PRIVATE EDUCATION ACT
-(CHAPTER 247A)
-(Original Enactment: Act 21 of 2009)
-REVISED EDITION 2011
-(31st December 2011)
+PRIVATE EDUCATION ACT 2009
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2011
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to establish and incorporate the Council for Private Education, to provide for its functions, duties and powers, to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith.
+An Act to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith.
 
-[1st December 2009: with the exception of Parts III to VII; 21st December 2009: Parts III to VII]
+[24/2016]
+
+[1 December 2009: Except Parts 3 to 7;
+
+21 December 2009: Parts 3 to 7]

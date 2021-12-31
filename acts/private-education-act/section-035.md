@@ -1,20 +1,30 @@
-# 35. Application for grant or renewal of registration
-Part: PART III REGULATION OF PRIVATE EDUCATION INSTITUTIONS Division 1 — Registration of private education institutions
+# 35. Power of Agency to issue requisition for particulars or information
+Part: PART 7 MISCELLANEOUS
 
-(1) Every application for the grant or renewal of the registration of a private education institution —
+(1) The Agency may, from time to time, issue a written requisition to any person to furnish such particulars or supply such information relating to any matter to which this Act applies as may be specified in the requisition.
 
-(a) shall be made by a manager of the private education institution (referred to in this section as the applicant) to the Council in such form and manner, and within such time, as may be prescribed;
+[24/2016]
 
-(b) shall be accompanied by the prescribed fee; and
+(2) A requisition issued by the Agency under subsection (1) may —
 
-(c) may be accompanied by an application to the Council for the waiver of any of the requirements imposed under this Act for the registration of private education institutions or the renewal thereof.
+(a) specify the form in which and the time within which the particulars or information are to be furnished;
 
-(2) The Council may require the applicant making an application under subsection (1) to furnish it with such information or documents as the Council considers necessary in relation to the application.
+(b) require the particulars or information to be furnished periodically at or within the time or times and in the form or forms that are specified in the requisition; and
 
-(3) Where the applicant fails to furnish the Council with any information or document required under subsection (2) in relation to his application within the time specified by the Council —
+(c) specify the place or manner at or in which the particulars or information are to be delivered.
 
-(a) the application shall be deemed to have been withdrawn;
+[24/2016]
 
-and
+(3) Every person who is issued a requisition by the Agency under subsection (1) must furnish the particulars or supply the information specified in the requisition to the best of the person’s knowledge and belief.
 
-(b) where the application is accompanied by an application for the waiver of any of the requirements imposed under this Act for the registration of private education institutions or the renewal thereof, the application for waiver shall also be deemed to have been withdrawn.
+[24/2016]
+
+(4) Any person who, without reasonable excuse, fails to comply with any requisition issued by the Agency under subsection (1) shall be guilty of an offence.
+
+[24/2016]
+
+(5) Any person who, in compliance or purported compliance with any requisition issued by the Agency under subsection (1), furnishes the Agency with any information or document which that person knows is false or misleading shall be guilty of an offence.
+
+[62
+
+[24/2016]

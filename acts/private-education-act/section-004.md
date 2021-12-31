@@ -1,12 +1,40 @@
-# 4. Common seal
-Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
+# 4. Functions of Agency
+Part: PART 2 ADMINISTRATION OF ACT
 
-(1) The Council shall have a common seal and such seal may, from time to time, be broken, changed, altered or made anew as the Council thinks fit.
+(1) Without affecting section 5 of the SkillsFuture Singapore Agency Act 2016, it is the function of the Agency under this Act —
 
-(2) All deeds and other documents requiring the seal of the Council shall be sealed with the common seal of the Council.
+(a) to register persons who provide or offer to provide private education in Singapore or elsewhere, and to assess and reassess them from time to time;
 
-(3) Every instrument to which the common seal is affixed shall be signed by any 2 members generally or specially authorised by the Council for the purpose, or by one member and the Chief Executive.
+(b) to otherwise regulate persons who offer or provide any service relating, directly or indirectly, to private education;
 
-(4) The Council may, by resolution or otherwise in writing, appoint any officer of the Council or any other agent either generally or in any particular case to execute or sign on behalf of the Council any agreement or other instrument not under seal in relation to any matter coming within the powers of the Council.
+(c) to promote and facilitate the development of the private education sector in Singapore;
 
-(5) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Council affixed to any document and shall presume that it was duly affixed.
+(d) to establish or support accreditation or certification schemes and other measures to enhance the standards of the private education industry or the education industry in Singapore generally;
+
+(e) to facilitate the improvement of private education in Singapore of these courses; and
+
+(f) to facilitate public availability of meaningful and accurate information relating to —
+
+(i) registered private education institutions and persons regulated under this Act, including their compliance with the requirements of this Act;
+
+(ii) access of students or prospective students to dispute resolution processes; and
+
+(iii) the private education industry in Singapore.
+
+[24/2016]
+
+(2) In discharging its functions under this Act, the Agency is to have regard —
+
+(a) to the financial capability, and the adequacy and quality of the staffing and resources, of any registered private education institution to achieve the stated outcomes for the students who take the courses at the institution;
+
+(b) to ensuring that minimum standards are maintained by providers of private education that the Agency has registered;
+
+(c) to securing the availability of meaningful and accurate information to the public about —
+
+(i) courses offered by registered private education institutions and the conditions attaching to enrolment in the courses, to enable prospective students to make informed decisions about enrolling in the courses; and
+
+(ii) registered private education institutions and their compliance with the requirements of this Act; and
+
+(d) to ensuring access of students to timely and appropriate dispute resolution processes, in particular overseas students, having regard especially to their status as persons only temporarily in Singapore.
+
+[24/2016]

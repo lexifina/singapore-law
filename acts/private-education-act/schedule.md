@@ -1,24 +1,24 @@
-# FIRST SCHEDULE
+# THE SCHEDULE
 
-Sections 2 and 70(1)
+Sections 2 and 43(1)
 
 DEFINITION OF PRIVATE EDUCATION
 
 1. In this Schedule, unless the context otherwise requires —
 
-“contract of service” has the same meaning as in section 2 of the Employment Act (Cap. 91);
+“contract of service” has the meaning given by section 2 of the Employment Act 1968;
 
 “employee” means a person who has entered into or works under a contract of service with an employer;
 
-“employer” has the same meaning as in section 2 of the Employment Act;
+“employer” has the meaning given by section 2 of the Employment Act 1968;
 
 “full-time”, in relation to the provision of education, means the provision of education of a duration of at least one month and that is conducted for 5 days of a week for at least 3 hours each day;
 
-“post-secondary education” means education normally for a child who is 16 years of age or above;
+“post-secondary education” means education normally for a person who is 16 years of age or above;
 
-FIRST SCHEDULE — continued
+“primary or secondary education” means education normally for a child who is above 6 years of age and below 18 years of age.
 
-“primary or secondary education” means education normally for a child who is above the age of 6 years and below the age of 18 years.
+THE SCHEDULE — continued
 
 2. “Private education” means any of the following types of education, whether provided wholly or in part electronically, through correspondence or in any other manner:
 
@@ -40,4 +40,6 @@ FIRST SCHEDULE — continued
 
 (a) any apprenticeship whereby an employer undertakes to employ a person and to train the person, or have the person trained, systematically for a trade or vocation; or
 
-(b) any education provided by any employer exclusively for his employees.
+(b) any education provided by any employer exclusively for the employer’s employees.
+
+[16/2016]

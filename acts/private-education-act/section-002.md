@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
@@ -13,31 +13,27 @@ In this Act, unless the context otherwise requires —
 
 (d) in any other form or manner whatsoever;
 
-“Appeals Board” means the Appeals Board constituted under section 51;
+“Agency” means the SkillsFuture Singapore Agency established by section 3 of the SkillsFuture Singapore Agency Act 2016;
+
+“Appeals Board” means the Appeals Board constituted under section 24;
 
 “award”, in relation to a private education institution, includes the conferment of any degree, diploma or certificate by the private education institution, whether on its own behalf or otherwise;
 
 “body corporate” includes a limited liability partnership;
 
-“Chairman” means the Chairman of the Council and includes any temporary Chairman of the Council;
+“Chief Executive” means the Chief Executive of the Agency appointed under section 38 of the SkillsFuture Singapore Agency Act 2016 and includes any person acting in that capacity;
 
-“Chief Executive” means the Chief Executive of the Council appointed under section 10 and includes any person acting in that capacity;
-
-“committee member” means a member of any committee appointed by the Council under section 9(1);
-
-“company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
-
-“Council” means the Council for Private Education established under section 3;
+“company” has the meaning given by section 4(1) of the Companies Act 1967;
 
 “course”, in relation to a private education institution, means a course of study or training programme offered or provided by the private education institution;
 
 “course money” means money that a private education institution receives, directly or indirectly, from —
 
-(a) a student, or a person (whether within or outside Singapore) who intends to become or who has taken any steps towards becoming a student (referred to in this Act as an intending student); or
+(a) a student, or a person (whether within or outside Singapore) who intends to become or who has taken any steps towards becoming a student (called in this Act an intending student); or
 
 (b) another person who pays the money on behalf of the student or intending student, for a course that the private education institution is providing or offering to provide to the student or intending student;
 
-“director” has the same meaning as in section 4(1) of the Companies Act;
+“director” has the meaning given by section 4(1) of the Companies Act 1967;
 
 “education” includes instruction, training or teaching;
 
@@ -45,13 +41,13 @@ In this Act, unless the context otherwise requires —
 
 “examination service”, in relation to any private education institution, means any test, examination or other method of assessing the level of proficiency, aptitude, skill, knowledge or understanding of a person attending or enrolled in any course provided by the private education institution;
 
-“inspector” means an inspector appointed by the Council under section 56(1);
+“inspector” means an inspector appointed by the Agency under section 29(1);
 
-“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+“limited liability partnership” has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;
 
 “manager” —
 
-(a) in relation to a private education institution that is a body corporate, means any director, partner or member of its board or committee of management which is responsible for the management of the affairs of the body corporate, or other similar officer of the body corporate, and includes any person in accordance with whose directions, instructions or wishes those directors, partners or other members, as the case may be, are accustomed or under an obligation, whether formal or informal, to act;
+(a) in relation to a private education institution that is a body corporate, means any director, partner or member of its board or committee of management which is responsible for the management of the affairs of the body corporate, or other similar officer of the body corporate, and includes any person in accordance with whose directions, instructions or wishes those directors, partners or other members (as the case may be) are accustomed or under an obligation, whether formal or informal, to act;
 
 (b) in relation to a private education institution that is an unincorporated association (other than a partnership), means any member of the governing body of the unincorporated association which is responsible for the management of the affairs of the unincorporated association, or any person holding a position analogous to that of member of such a governing body;
 
@@ -59,21 +55,19 @@ In this Act, unless the context otherwise requires —
 
 (d) in relation to a private education institution that is a sole-proprietorship, means the sole-proprietor;
 
-“member” means a member of the Council and includes any temporary member of the Council;
-
 “partner” includes any person purporting to act as a partner;
 
-“partnership” includes a limited partnership within the meaning of the Limited Partnerships Act (Cap. 163B);
+“partnership” includes a limited partnership within the meaning of the Limited Partnerships Act 2008;
 
 “premises”, in relation to a private education institution (whether registered or unregistered) or a proposed private education institution, means any building, enclosure, ground, open-air space or other place used or to be used by the private education institution or proposed private education institution in connection with the provision of private education;
 
-“prescribed dispute resolution scheme” means a dispute resolution scheme that is prescribed under section 64;
+“prescribed dispute resolution scheme” means a dispute resolution scheme that is prescribed under section 37;
 
-“private education” has the meaning given to it in the First Schedule;
+“private education” has the meaning given to it in the Schedule;
 
 “private education institution” means —
 
-(a) any person that offers to provide or provides private education, whether or not the person offers to provide or provides the private education —
+(a) any person that offers to provide or provides private education whether in Singapore or elsewhere, whether or not the person offers to provide or provides the private education —
 
 (i) for profit;
 
@@ -81,20 +75,20 @@ In this Act, unless the context otherwise requires —
 
 (iii) by itself or in association or collaboration with or by affiliation with any other person; and
 
-(b) such school registered under the Education Act (Cap. 87) which receives a grant-in-aid or subvention extended by the Government to aided schools as is specified by the Minister in a notification published in the Gazette, but does not include any private education institution that the Minister declares, by notification in the Gazette, to be excluded from this definition, after having regard to the association, collaboration with or affiliation of the private education institution with any school registered under the Education Act;
+(b) any school registered under the Education Act 1957 which receives a grant-in-aid or subvention extended by the Government to aided schools as is specified by the Minister in a notification published in the Gazette, but does not include any private education institution that the Minister declares, by notification in the Gazette, to be excluded from this definition, after having regard to the association, collaboration with or affiliation of the private education institution with any school registered under the Education Act 1957;
 
-“registered private education institution” means any private education institution that is registered under Part III;
+“registered private education institution” means any private education institution that is registered under Part 3;
 
-“registered society” means a society registered or deemed to be registered under the Societies Act (Cap. 311);
+“registered society” means a society registered or deemed to be registered under the Societies Act 1966;
 
 “renovation works” means any structural or non-structural additions and alterations carried out to any premises, but does not include repairs and maintenance works;
 
-“Scheme” means a voluntary accreditation or certification scheme established or maintained under section 49(1);
+“Scheme” means a voluntary accreditation or certification scheme established or maintained under section 22(1);
 
 “student”, in relation to an education institution, means a person who receives, or is enrolled in the education institution to receive, education offered or provided by the education institution;
 
 “teacher” means a person who teaches students of an education institution, or who prepares or issues lessons or corrects written answers;
 
-“unregistered private education institution” means any private education institution that is not, or that ceases to be, a registered private education institution, but does not include an education institution which is exempted under section 68 from registration under Part III.
+“unregistered private education institution” means any private education institution that is not, or that ceases to be, a registered private education institution, but does not include an education institution which is exempted under section 41 from registration under Part 3.
 
-PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
+[24/2016]

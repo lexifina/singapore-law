@@ -1,17 +1,54 @@
-# 42. Suspension or removal of managers
-Part: PART III REGULATION OF PRIVATE EDUCATION INSTITUTIONS Division 1 — Registration of private education institutions
-Division: Division 2 — Management of registered private education institutions
+# 42. Service of documents
+Part: PART 7 MISCELLANEOUS
 
-(1) Without prejudice to any other power vested in the Council under this Act, the Council may, at any time, direct a registered private education institution —
+(1) Any notice, order, direction or other document required or authorised by this Act to be served on any person may be served on the person —
 
-(a) to suspend or remove any person appointed as a manager of the registered private education institution if the Council is satisfied that the manager —
+(a) in the case of an individual —
 
-(i) is not a fit and proper person to carry on or manage the registered private education institution; or
+(i) by delivering it to the individual personally;
 
-(ii) is unable to discharge the duties prescribed under section 41 or imposed on managers under this Act; or
+(ii) by leaving it with an adult person apparently resident at, or by sending it by prepaid registered post to, the usual or last known address of the place of residence of the individual;
 
-(b) to appoint such additional person as the Council may approve to discharge the duties of the manager referred to in paragraph (a) for such period as the Council considers necessary.
+(iii) by leaving it with an adult person apparently employed at, or by sending it by prepaid registered post to, the usual or last known address of the place of business of the individual;
 
-(2) Any registered private education institution which contravenes any direction of the Council issued under subsection (1) shall be guilty of an offence.
+(iv) by affixing a copy of the notice in a conspicuous place at the usual or last known address of residence or business of the individual; or
 
-Division 3 — Provisions relating to courses by registered private education institutions
+(v) by sending it by fax to the fax number used at the usual or last known address of the place of residence or business of the individual, or the last fax number given to the Agency by the individual as the fax number for the service of documents on the individual;
+
+(b) in the case of a partnership other than a limited liability partnership —
+
+(i) by delivering it to any one of the partners or the secretary or other similar officer of the partnership;
+
+(ii) by leaving it at, or by sending it by prepaid registered post to, the principal or last known place of business of the partnership in Singapore; or
+
+(iii) by sending it by fax to the fax number used at the principal or last known place of business of the partnership in Singapore; and
+
+(c) in the case of any limited liability partnership or any other body corporate —
+
+(i) by delivering it to the secretary or other similar officer of the body corporate or, in the case of a limited liability partnership, the manager thereof;
+
+(ii) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore; or
+
+(iii) by sending it by fax to the fax number used at the registered office or principal office of the limited liability partnership or body corporate in Singapore.
+
+[24/2016]
+
+(2) Where any notice, order, direction or other document required or authorised by this Act to be served is sent by fax to the fax number used at the last known place of residence or business or registered office or principal office in accordance with subsection (1), it is deemed to have been duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending fax machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal office, as the case may be.
+
+(3) Where any notice, order, direction or other document required or authorised by this Act to be served is sent by prepaid registered post, it is deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, whether or not it is returned undelivered.
+
+(4) Any notice, order, direction or other document required or authorised by this Act to be served on the owner or occupier of any premises —
+
+(a) may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order, direction or document to some conspicuous part of the premises; and
+
+(b) is deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
+
+(5) Without limiting this section, any notice, order, direction or other document required or authorised by this Act to be served on a manager or the managers of a private education institution —
+
+(a) may be served by delivering it or a true copy thereof to some adult person on the premises of the private education institution or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the notice, order, direction or document to some conspicuous part of the premises; and
+
+(b) is deemed to be properly addressed if addressed by the description of the manager or managers of the registered private education institution without further name or description.
+
+(6) This section does not apply to notices and documents to be served in proceedings in court.
+
+[69

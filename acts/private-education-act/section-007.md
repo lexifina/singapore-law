@@ -1,41 +1,44 @@
-# 7. Powers of Council
-Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
-Division: Division 2 — Functions, duties and powers of Council
+# 7. Requirement for registration
+Part: PART 3 REGULATION OF PRIVATE EDUCATION INSTITUTIONS Division 1 — Registration of private education institutions
 
-(1) Subject to the provisions of this Act, the Council shall have power to do anything for the purpose of performing its functions and discharging its duties under this Act or any other written law, or which is incidental or conducive to the performance and discharge of those functions and duties and, in particular, may —
+(1) Subject to the provisions of this Act, a person in Singapore must not —
 
-(a) design and administer systems for the registration and regulation of private education institutions and persons who offer or provide any service relating, whether directly or indirectly, to private education;
+(a) offer to provide or provide private education, whether in Singapore or elsewhere; or
 
-(b) develop codes of practice relating to content or technical standards for private education services, and monitor compliance with such codes;
+(b) award any degree, diploma or certificate (including any honorary degree or other distinctions) in respect of private education, whether offered or provided in Singapore or elsewhere, unless the person is a registered private education institution.
 
-(c) engage in research, development studies or technical co- operation projects relating to or connected with the functions and duties of the Council;
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(d) specify, by notification in the Gazette, all the accreditation, certification or inspection marks of the Council for use in relation to any function or duty of the Council, and control the use of such marks;
+(3) Any person who knowingly assists in the provision of private education by an unregistered private education institution shall be guilty of an offence.
 
-(e) enter into such contracts as may be necessary or expedient for the purpose of discharging the functions and duties of the Council;
+(4) The Agency may take any measures that it thinks necessary to secure the closure of any unregistered private education institution, including but not limited to —
 
-(f) acquire or dispose of, in accordance with the provisions of this Act, any property, whether movable or immovable, which the Council thinks necessary or expedient for the purpose of carrying out its functions or duties;
+(a) the use of such force or assistance as may be necessary to remove therefrom any person who is in the premises in the possession or control of the unregistered private education institution; and
 
-(g) with the approval of the Minister, form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any other capacity and to share profits;
+(b) the sealing of all or any of the entrances to or exits from such premises.
 
-(h) become a member or an affiliate of any international body, the functions or duties of which are similar to those of the Council;
+[24/2016]
 
-(i) whether by itself or in association with any other person, provide to any person in Singapore or elsewhere consultancy, technical, managerial or other services or products in any area in which the Council has skill or experience;
+(5) The expenses reasonably incurred by the Agency in the exercise of its powers under subsection (4) and any other reasonable expenses that may be incidental to the exercise of its powers are recoverable by the Agency as a civil debt from the manager or managers (as the case may be) of the unregistered private education institution; and every manager of such an unregistered private education institution is to be jointly and severally liable to the Agency for those expenses.
 
-(j) charge fees or commissions for services rendered by the Council or for the use of any facilities of the Council;
+[24/2016]
 
-(k) receive grants or contributions from any source, or raise funds by all lawful means and apply such funds for any of the functions and duties of the Council;
+(6) Without affecting subsection (4) or (5) or any other power vested in the Agency under this Act, the Agency may, by written direction addressed to the managers of an unregistered private education institution, direct that the unregistered private education institution refund each student thereof, within the time that may be specified in the direction, the whole of the course money the unregistered private education institution received in respect of the student.
 
-(l) grant or guarantee loans to officers or employees of the Council for any purpose specifically approved by the Council;
+[24/2016]
 
-(m) provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers and employees of the Council and members of their families;
+(7) Subsection (6) applies despite anything contained in the agreement or contract between the unregistered private education institution and the students concerned.
 
-(n) provide training, whether by itself or with the co-operation of other persons as the Council thinks fit, for the officers or employees of the Council or others concerned with private education services and to award scholarships or otherwise pay for such training;
+(8) Where any written direction issued by the Agency under subsection (6) is not complied with, the unregistered private education institution and every manager thereof to whom the direction is addressed shall each be guilty of an offence.
 
-(o) lease, let, develop or otherwise utilise any property movable or immovable, vested in or acquired by the Council on such terms and conditions as the Council thinks fit; and
+[24/2016]
 
-(p) do anything incidental to any of its functions, duties or powers.
+(9) Subject to subsection (7), it is a defence for any person charged with an offence under subsection (8) to prove that the person had a reasonable excuse for failing to comply with the written direction of the Agency under subsection (6).
 
-(2) This section shall not be construed as limiting any power of the Council conferred by or under any other written law.
+[24/2016]
 
-(3) The Council shall furnish the Minister information with respect to its property and activities in such manner and at such times as the Minister may require.
+(10) Subject to the provisions of this Act, no person is entitled to recover in any court any charge, course money or remuneration for any private education provided in Singapore unless the person providing the private education is registered under this Act to provide the private education and the person did so in accordance with the permission of the Agency under section 16 required for the course.
+
+[34
+
+[24/2016]

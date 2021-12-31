@@ -1,30 +1,24 @@
-# 34. Requirement for registration
-Part: PART III REGULATION OF PRIVATE EDUCATION INSTITUTIONS Division 1 — Registration of private education institutions
+# 34. General offences and penalties
+Part: PART 6 INSPECTION, ENFORCEMENT AND OFFENCES
 
-(1) Subject to the provisions of this Act, no person in Singapore may —
+(1) Any person who —
 
-(a) offer to provide or provide private education, whether in Singapore or elsewhere; or
+(a) in relation to any application under this Act or any notification under section 17(1) —
 
-(b) award any degree, diploma or certificate (including any honorary degree or other distinctions) in respect of private education, whether offered or provided in Singapore or elsewhere, unless the person is a registered private education institution.
+(i) makes any false statement which that person knows to be false or does not believe to be true or which that person makes recklessly; or
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+(ii) intentionally suppresses any material fact;
 
-(3) Any person who knowingly assists in the provision of private education by an unregistered private education institution shall be guilty of an offence.
+(b) neglects or refuses to produce any book, document, material or article or to furnish any information, neglects or refuses to attend before an inspector as required, furnishes any book, document, material or information which is false in a material particular and which that person knows to be false or does not believe to be true, or, by the intentional suppression of any material fact, furnishes information which is misleading, under section 30 or 31;
 
-(4) The Council may take such measures as it thinks necessary to secure the closure of any unregistered private education institution, including but not limited to —
+(c) obstructs or impedes the Agency, any officer of the Agency or any inspector lawfully carrying out any function or duty in the exercise of any power conferred by or under this Act;
 
-(a) the use of such force or assistance as may be necessary to remove therefrom any person who is in the premises in the possession or control of the unregistered private education institution; and
+or
 
-(b) the sealing of all or any of the entrances to or exits from such premises.
+(d) being summoned to attend at a hearing of the Appeals Board to give evidence or produce any document or other article, without reasonable excuse refuses or neglects to do so or refuses to answer any questions put to that person by or with the concurrence of the Appeals Board, or otherwise hinders, obstructs or deceives the Appeals Board in the exercise of its powers under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(5) The expenses reasonably incurred by the Council in the exercise of its powers under subsection (4) and such other reasonable expenses as may be incidental thereto shall be recoverable by the Council as a civil debt from the manager or managers (as the case may be) of the unregistered private education institution; and every manager of such an unregistered private education institution shall be jointly and severally liable to the Council for those expenses.
+[24/2016]
 
-(6) Without prejudice to subsection (4) or (5) or any other power vested in the Council under this Act, the Council may, by written direction addressed to the managers of an unregistered private education institution, direct that the unregistered private education institution refund each student thereof, within such time as may be specified in the direction, the whole of the course money the unregistered private education institution received in respect of the student.
+(2) Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.
 
-(7) Subsection (6) shall apply notwithstanding anything contained in the agreement or contract between the unregistered private education institution and the students concerned.
-
-(8) Where any written direction issued by the Council under subsection (6) is not complied with, the unregistered private education institution and every manager thereof to whom the direction is addressed shall each be guilty of an offence.
-
-(9) Subject to subsection (7), it shall be a defence for any person charged with an offence under subsection (8) to prove that he had a reasonable excuse for failing to comply with the written direction of the Council under subsection (6).
-
-(10) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, course money or remuneration for any private education provided in Singapore unless the person providing the private education is registered under this Act to provide the private education and the person did so in accordance with the permission of the Council under section 43 required for the course.
+[61

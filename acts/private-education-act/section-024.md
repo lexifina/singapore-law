@@ -1,9 +1,16 @@
-# 24. Transfer of employees
-Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
-Division: Division 5 — Transfer of property, assets, liabilities and employees
+# 24. Constitution of Appeals Board
+Part: PART 5 APPEALS
 
-(1) As from 1st December 2009, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the transferred Division shall be transferred to the service of the Council on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+(1) There must be an Appeals Board consisting of a chairperson and 4 other members whom the Minister may appoint.
 
-(2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Council under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
+(2) The Minister must appoint a secretary to the Appeals Board.
 
-(3) Until such time as terms and conditions of service are drawn up by the Council, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Council under subsection (1) as if he were still in the service of the Government.
+(3) Every member of the Appeals Board, unless the Minister otherwise directs, holds office for 3 years and is eligible for re-appointment.
+
+(4) The Minister may, at any time, revoke the appointment of any member of the Appeals Board.
+
+(5) A member of the Appeals Board may resign his or her office by written notice to the Minister.
+
+(6) Members of the Appeals Board may receive such remuneration and such travelling and subsistence allowances as the Minister may determine.
+
+[51

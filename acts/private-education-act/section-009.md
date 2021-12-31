@@ -1,23 +1,40 @@
-# 9. Appointment of committees and delegation
-Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
-Division: Division 2 — Functions, duties and powers of Council
+# 9. Grant or renewal of registration
+Part: PART 3 REGULATION OF PRIVATE EDUCATION INSTITUTIONS Division 1 — Registration of private education institutions
 
-(1) The Council may appoint from among its own members or from other persons such number of committees as it thinks fit for purposes which, in the opinion of the Council, would be more expediently carried out or managed by means of such committees.
+(1) The Agency may, upon receiving an application made under section 8(1) for the grant or renewal of the registration of a private education institution, and after any inquiry that it may think necessary —
 
-(2) The Council may, from time to time, alter or discharge any committee appointed under subsection (1), and define or vary the terms of reference of the committee.
+(a) if the application is accompanied by an application for the waiver of any of the requirements imposed under this Act for the registration or renewal of registration of private education institutions —
 
-(3) Subject to the provisions of this Act and to the control of the Council, each committee appointed under subsection (1) may regulate its procedure in such manner as the committee thinks fit.
+(i) grant or renew (as the case may be) the registration of the private education institution subject to such terms and conditions as it thinks fit, after waiving all or any of the requirements imposed under this Act for the registration or renewal of registration of private education institutions that is the subject of the application for waiver; or
 
-(4) The Council may, subject to such conditions or restrictions as it thinks fit, delegate —
+(ii) refuse to waive all or any of the requirements imposed under this Act for the registration or renewal of registration of private education institutions that is the subject of the application for waiver and refuse to grant or renew (as the case may be) the registration of the private education institution because of section 10; or
 
-(a) to any of its members, including the Chairman and Deputy Chairman;
+(b) in any other case —
 
-(b) to its Chief Executive, or any of its officers or employees;
+(i) grant or renew (as the case may be) the registration of the private education institution subject to such terms and conditions as it thinks fit; or
 
-(c) to any committee appointed under subsection (1); or
+(ii) refuse to grant or renew (as the case may be) the registration of the private education institution because of section 10.
 
-(d) to any other person as it thinks fit, any of its functions, duties or powers under this Act or any other written law, except the powers to make subsidiary legislation and the power of delegation conferred by this subsection.
+[24/2016]
 
-(5) Any function, duty or power delegated under subsection (4) to any committee or person may be performed or exercised by the committee or person in the name and on behalf of the Council.
+(2) Every registration of a private education institution, and every renewal thereof, is for the period that may be specified by the Agency.
 
-(6) No delegation under this section shall prevent the performance, discharge or exercise of any function, duty or power by the Council.
+[24/2016]
+
+(3) Without limiting subsection (1)(a)(i) and (b)(i), the terms and conditions subject to which the Agency registers a private education institution may provide that except with the prior written approval of the Agency —
+
+(a) the private education institution must not enter into a contractual agreement or other arrangement (whether or not in partnership) with one or more other parties to undertake any activity that is not related to private education, so as to obtain individual benefits for the parties, whether in the form of a share of the output of the arrangement or joint or collective profits for all the parties;
+
+or
+
+(b) the private education institution must only provide private education and other activities that are related to the provision of private education.
+
+[24/2016]
+
+(4) The Agency may at any time add to, vary or revoke any term or condition of the registration of a private education institution without compensation.
+
+[24/2016]
+
+(5) To avoid doubt, subsection (3) does not authorise the imposition of any term or condition restricting or prohibiting any particular member of a registered society from entering into any contractual agreement or other arrangement referred to in subsection (3)(a) or from carrying on any activity that is not related to the provision of private education.
+
+[36

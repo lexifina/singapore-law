@@ -1,29 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PRIVATE EDUCATION ACT 2009
 
-PRIVATE EDUCATION ACT (CHAPTER 247A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Private Education Act. It is not part of the Act.
+1. Act 21 of 2009 — Private Education Act 2009 Bill : 15/2009 First Reading : 18 August 2009 Second and Third Readings : 14 September 2009 Commencement : 1 December 2009 (except Parts 3 to 7) 21 December 2009 (Parts 3 to 7) 2. Act 3 of 2011 — Children and Young Persons (Amendment) Act 2011 (Amendments made by section 36 of the above Act) Bill : 35/2010 First Reading : 22 November 2010 Second and Third Readings : 10 January 2011 Commencement : 20 July 2011 (section 36) 3. Act 14 of 2011 — Singapore University of Technology and Design Act 2011 (Amendments made by section 12 of the above Act) Bill : 9/2011 First Reading : 1 March 2011 Second and Third Readings : 11 April 2011 Commencement : 18 October 2011 (section 12) 4. 2011 Revised Edition — Private Education Act (Chapter 247A) Operation : 31 December 2011 5. Act 11 of 2014 — Singapore Institute of Technology Act 2014 (Amendments made by section 12 of the above Act) Bill : 7/2014 First Reading : 20 January 2014 Second and Third Readings : 17 February 2014 Commencement : 28 March 2014 (section 12) 6. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 28 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 28) 7. Act 24 of 2016 — SkillsFuture Singapore Agency Act 2016 (Amendments made by sections 71 and 72 of the above Act) Bill : 24/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 3 October 2016 (sections 71(1)(b) to
 
-1. Act 21 of 2009 — Private Education Act 2009
+(h) and 72) 4 October 2016 (section 71(1)(a) and (2)) 8. Act 30 of 2017 — Singapore University of Social Sciences Act 2017 (Amendments made by section 12(2) of the above Act) Bill : 24/2017 First Reading : 3 April 2017 Second and Third Readings : 8 May 2017 Commencement : 11 July 2017 (section 12(2)) 9. Act 19 of 2017 — Early Childhood Development Centres Act 2017 (Amendments made by section 53(5) of the above Act) Bill : 7/2017 First Reading : 6 February 2017 Second and Third Readings : 28 February 2017 Commencement : 2 January 2019 (section 53(5)) 10. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act (Amendments made by section 503 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 503) 11. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 124 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 124 of the Schedule)
 
-Date of First Reading : 18 August 2009 (Bill No. 15/2009 published on 18 August 2009)
+Abbreviations
 
-Date of Second and Third Readings : 14 September 2009
-
-Dates of commencement : 1 December 2009 (except Parts III to VII) 21 December 2009 (Parts III to VII)
-
-2. Act 3 of 2011 — Children and Young Persons (Amendment) Act 2011 (Consequential amendments made to Act by)
-
-Date of First Reading : 22 November 2010 (Bill No. 35/2010 published on 22 November 2010)
-
-Date of Second and Third Readings : 10 January 2011
-
-Date of commencement : 20 July 2011
-
-3. Act 14 of 2011 — Singapore University of Technology and Design Act 2011 (Consequential amendments made to Act by)
-
-Date of First Reading : 1 March 2011 (Bill No. 9/2011 published on 2 March 2011)
-
-Date of Second and Third Readings : 11 April 2011
-
-Date of commencement : 18 October 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

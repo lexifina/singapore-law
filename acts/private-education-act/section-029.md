@@ -1,5 +1,14 @@
-# 29. Misconduct or neglect of duty by employee before transfer
-Part: PART II COUNCIL FOR PRIVATE EDUCATION Division 1 — Establishment, incorporation and constitution of Council
-Division: Division 5 — Transfer of property, assets, liabilities and employees
+# 29. Appointment of inspectors
+Part: PART 6 INSPECTION, ENFORCEMENT AND OFFENCES
 
-The Council may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Government, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government, and if this Act had not been enacted.
+(1) The Agency may appoint any of its officers or employees to be an inspector for the purposes of this Act.
+
+[24/2016]
+
+(2) The Agency must furnish every inspector with an identification card that identifies him or her as an inspector.
+
+[24/2016]
+
+(3) Every inspector must, when exercising any power under this Act, on demand produce the inspector’s identification card to the person affected by the exercise of that power.
+
+[56
