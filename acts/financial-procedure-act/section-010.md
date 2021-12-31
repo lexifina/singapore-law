@@ -1,5 +1,5 @@
 # 10. Government funds
-Part: PART III CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
+Part: PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 There shall be paid into any Government fund created by any law —
 
@@ -12,5 +12,3 @@ There shall be paid into any Government fund created by any law —
 (d) all moneys received from the sale to any person or department of any articles purchased or produced, or for work paid for, with moneys standing to the credit of any such fund; and
 
 (e) all moneys paid by any person for the purpose of any such fund.
-
-[25/91]

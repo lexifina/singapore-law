@@ -1,15 +1,13 @@
 # 8. Deposit accounts
-Part: PART III CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
+Part: PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 (1) The Minister shall establish such deposit accounts as may be necessary for the proper accounting of moneys received subject to a trust or for the proper accounting of moneys received not being revenues of Singapore.
-
-[25/91]
 
 (2) The following moneys shall be paid to the credit of the deposit account to which they relate:
 
 (a) all moneys deposited with any accounting officer, not being revenues of Singapore;
 
-(b) all moneys received from the sale to any person or department of any articles purchased or produced, or for work paid for, with moneys standing to the credit of a deposit account; and
+(b) all moneys received from the sale to any person or department of any articles purchased or produced, or for work paid for, with moneys standing to the credit of a deposit account;
 
 (c) all moneys paid by any person for the purpose of any deposit account.
 

@@ -1,5 +1,5 @@
 # 24. Regulations
-Part: PART IV REGULATIONS
+Part: PART 4 REGULATIONS
 
 (1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act and, in particular, such regulations may provide for —
 
@@ -13,10 +13,16 @@ Part: PART IV REGULATIONS
 
 (e) the preparation of estimates of revenue and expenditure;
 
-(f) the authorisation of rates of payment of public funds for specific purposes where such rates of payment are not provided by law; and
+(f) the authorisation of rates of payment of public funds for specific purposes where such rates of payment are not provided by law;
 
-(g) the making of advances to public officers and other persons and the rates and limits of such advances and the rates of interest thereon.
+(g) the making of advances to public officers and other persons and the rates and limits of such advances and the rates of interest thereon; and
 
-[25/91]
+(h) the capitalising of nationally significant infrastructure expenditure, including where the nationally significant infrastructure —
 
-(2) All such regulations shall be presented to Parliament as soon as possible after publication in the Gazette.
+(i) is depreciated over the useful life of the nationally significant infrastructure by accounting for depreciation expenses in the relevant financial statements required by Article 147(5) of the Constitution; or
+
+(ii) is impaired by accounting for impairment losses in the relevant financial statements required by Article 147(5) of the Constitution, if there is a decline in the value of the nationally significant infrastructure for reasons other than depreciation before the end of its useful life.
+
+[15/2021]
+
+(2) All regulations made under this Act must be presented to Parliament as soon as possible after publication in the Gazette.

@@ -1,21 +1,13 @@
 # 7A. Capital injections to statutory corporations
-Part: PART III CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
+Part: PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 (1) Notwithstanding section 7, the Minister may invest by way of capital injection in any statutory corporation out of a capital contribution appropriated by Parliament from the Consolidated Fund by written law.
 
-[5/2002]
-
 (2) Except as otherwise expressly provided in any written law, the Minister, after consultation with the Minister charged with the responsibility for the statutory corporation concerned, shall determine the terms and conditions under which the capital injection under this section shall be made, and may from time to time vary such terms and conditions.
-
-[5/2002]
 
 (3) Without prejudice to subsection (2), the Minister may from time to time, on behalf of the Government, subscribe for or otherwise acquire shares or other securities in the statutory corporation in which moneys are invested by way of capital injection under this section.
 
-[5/2002]
-
-(4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Development Fund Act (Cap. 80) or the Developmental Investment Fund Act (Cap. 79).
-
-[5/2002; 22/2003]
+(4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Development Fund Act 1959 or the Developmental Investment Fund Act 2000.
 
 (5) In this section —
 
@@ -26,5 +18,3 @@ Part: PART III CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 (b) the development of assets held or owned by the statutory corporation;
 
 “statutory corporation” means any body corporate established by or under written law to perform or discharge any public function.
-
-[5/2002]

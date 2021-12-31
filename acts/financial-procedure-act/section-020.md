@@ -1,9 +1,9 @@
 # 20. Surcharge
-Part: PART III CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
+Part: PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 (1) If it appears to the Minister that any person who is or was in the employment of the Government —
 
-(a) has failed to collect any moneys owing to the Government for the collection of which he is or was responsible;
+(a) has failed to collect any moneys owing to the Government for the collection of which he or she is or was responsible;
 
 (b) is or was responsible for any improper payment of public moneys or moneys administered by the Government or for any payment of such moneys which is not duly vouched; or
 

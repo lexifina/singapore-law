@@ -1,7 +1,7 @@
 # 18. Yearly statement of accounts
-Part: PART III CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
+Part: PART 3 CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
-The Minister shall for the purpose of section 8 of the Audit Act (Cap. 17), as soon as practicable after the end of every financial year, prepare in respect of that year —
+(1) The Minister must for the purpose of section 8 of the Audit Act 1966, as soon as practicable after the end of every financial year, prepare in respect of that year —
 
 (a) a full and particular account of the Consolidated Revenue Account stating under the heads and subheads of the estimates or supplementary estimates laid before Parliament in accordance with Article 146, 147, 148, 148B or 148C of the Constitution in respect of that year the amounts estimated to be received and spent in that year and the amounts actually received and spent in that year;
 
@@ -19,4 +19,16 @@ The Minister shall for the purpose of section 8 of the Audit Act (Cap. 17), as s
 
 (h) such other statements as the Minister may think fit, and, after the accounts and statements referred to in this section have been audited, present to the President those audited accounts and statements together with another statement stating whether the audited accounts and statements referred to in this section show any drawing on or likelihood of drawing on the reserves of the Government which were not accumulated by the Government during its current term of office as defined in the Constitution.
 
-[25/91]
+[15/2021]
+
+(2) Without limiting subsection (1)(h), where nationally significant infrastructure expenditure incurred has been met from any proceeds of any loan raised under the Significant Infrastructure Government Loan Act 2021 —
+
+(a) the nationally significant infrastructure expenditure has to be capitalised in accordance with regulations made under section 24; and
+
+(b) if there is a decline in the value of any nationally significant infrastructure for reasons other than depreciation before the end of its useful life, a statement must be made stating —
+
+(i) that impairment adjustments have been made with respect to the nationally significant infrastructure concerned; and
+
+(ii) whether or not there is any resulting draw on the reserves of the Government which were not accumulated by the Government during its current term of office as defined in the Constitution, because of any such impairment adjustment.
+
+[15/2021]
