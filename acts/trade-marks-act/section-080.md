@@ -1,10 +1,8 @@
 # 80. Recognition of agents
-Part: PART IX ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
+Part: PART 9 ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
 
 Except as otherwise provided by rules, any act required or authorised by this Act to be done by or to a person in connection with the registration of a trade mark, or any procedure relating to a registered trade mark, may be done by or to an agent authorised by that person orally or in writing.
 
-[UK Trade Marks Act 1994, s. 82]
+PART 10 ASSISTANCE BY BORDER AUTHORITIES Division 1 — Preliminary provisions
 
-PART X
-
-ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
+[34/2018]

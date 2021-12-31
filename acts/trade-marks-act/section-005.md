@@ -1,9 +1,9 @@
 # 5. Application for registration
-Part: PART II REGISTRATION OF TRADE MARKS Introductory
+Part: PART 2 REGISTRATION OF TRADE MARKS Introductory
 
-(1) An application for registration of a trade mark shall be made in the prescribed manner to the Registrar.
+(1) An application for registration of a trade mark must be made in the prescribed manner to the Registrar.
 
-(2) The application shall —
+(2) The application must —
 
 (a) contain a request for the registration of a trade mark;
 
@@ -15,26 +15,18 @@ Part: PART II REGISTRATION OF TRADE MARKS Introductory
 
 (e) state —
 
-(i) that the trade mark is being used in the course of trade, by the applicant or with his consent, in relation to those goods or services; or
+(i) that the trade mark is being used in the course of trade, by the applicant or with the applicant’s consent, in relation to those goods or services; or
 
 (ii) that the applicant has a bona fide intention that the trade mark should be so used.
 
-[20/2004]
+(3) The application is subject to the payment of the application fee and such other fees as may be appropriate.
 
-(3) The application shall be subject to the payment of the application fee and such other fees as may be appropriate.
+(4) The date of the application for registration of the trade mark is the earliest date on which —
 
-(4) The date of the application for registration of the trade mark shall be the earliest date on which —
-
-(a) all the requirements under subsection (2) have been satisfied;
-
-and
+(a) all the requirements under subsection (2) have been satisfied; and
 
 (b) all the fees payable under subsection (3) —
 
 (i) have been paid; or
 
 (ii) are treated by the Registrar as paid.
-
-[UK Trade Marks Act 1994, s. 32]
-
-[20/2004]

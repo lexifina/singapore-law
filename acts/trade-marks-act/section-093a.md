@@ -1,84 +1,51 @@
-# 93A. Detention and examination of counterfeit goods Powers of search
-Part: PART X ASSISTANCE BY BORDER AUTHORITIES Border enforcement measures
+# 93A. Seizure and inspection of counterfeit goods
+Part: PART 10 ASSISTANCE BY BORDER AUTHORITIES Division 1 — Preliminary provisions
+Division: Division 3 — Ex-officio seizure of goods
 
-(1) Notwithstanding section 82 (4), any authorised officer may —
+(1) Despite section 82(4), an authorised officer may —
 
-(a) detain any goods —
+(a) examine any goods to which this subsection applies, including goods in transit; or
+
+(b) seize any goods to which this subsection applies —
 
 (i) that are imported into, or that are to be exported from, Singapore; and
 
-(ii) that are not goods in transit, unless the goods are consigned to any person with a commercial or physical presence in Singapore; or
+(ii) that are not goods in transit, unless they are consigned to a person with a commercial or physical presence in Singapore.
 
-(b) examine any goods, including goods in transit, which he reasonably suspects are counterfeit goods in relation to a registered trade mark.
+[34/2018]
 
-[20/2004]
+(2) Subsection (1) applies to goods that the authorised officer reasonably suspects are counterfeit goods in relation to a registered trade mark.
 
-(2) As soon as practicable after goods are detained under subsection (1) (a), the Director-General shall give —
+[34/2018]
 
-(a) to the importer, exporter or consignee, as the case may be, of the detained goods; and
+(3) As soon as practicable after the goods are seized under subsection (1)(b), the Director-General must give personally, by post or (with the prior consent of the addressee) by email, a written notice to —
 
-(b) to the proprietor of the registered trade mark, a written notice identifying the goods, stating that they have been detained and setting out the matters referred to in subsection (3).
+(a) the importer, exporter or consignee (as the case may be) of the seized goods (called in this Division the dealer); and
 
-[20/2004]
+(b) the proprietor of the registered trade mark.
 
-(3) The detained goods shall be released to the importer, exporter or consignee, as the case may be, of the goods, unless, within the prescribed period, the proprietor of the registered trade mark —
+[34/2018]
 
-(a) in the case of goods that are imported into Singapore and that are not goods in transit —
+(4) The written notice in subsection (3) must —
 
-(i) gives the Director-General a written notice referred to in section 82 (1);
+(a) identify the goods seized; and
 
-(ii) submits the documents and information, and pays the fee, referred to in section 82 (2) to the Director- General; and
+(b) set out the rights of the dealer in section 86 (as applied by subsection (5)), and the requirements in section 93B.
 
-(iii) deposits with the Director-General the sum of money referred to in section 83 (a) or gives the security referred to in section 83 (b); or
+[34/2018]
 
-(b) in the case of goods that are to be exported from Singapore or goods in transit that are consigned to a person with a commercial or physical presence in Singapore —
+(5) Section 86 (which provides for the inspection of seized goods) applies in relation to the seized goods as it applies in relation to goods seized under section 82(4), with the following modifications:
 
-(i) institutes an action for the infringement of his trade mark;
+(a) replace a reference to the requestor with a reference to the proprietor of the registered trade mark;
 
-(ii) serves on the Director-General an order of the Court authorising the further detention of the goods; and
+(b) replace a reference to the importer or exporter with a reference to the dealer.
 
-(iii) deposits with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
+[34/2018]
 
-(A) reimburse the Government for any liability or expense it has incurred and is likely to further incur as a result of the detention of the goods;
+(6) At the Director-General’s direction, seized goods must be taken to a secure place the Director-General directs by such of the following as the Director-General considers appropriate:
 
-and
+(a) the person in possession, custody or control of those goods immediately before the seizure;
 
-(B) pay such compensation to any person who suffers loss or damage as a result of the detention of the goods as may be ordered by the Court; or
+(b) the proprietor of the registered trade mark (but only if the proprietor has satisfied section 93B(1)(a) and (b)).
 
-gives security, to the satisfaction of the Director- General, for the reimbursement of the Government for any such liability or expense and the payment of such compensation.
-
-[20/2004]
-
-(4) Every order of the Court authorising the further detention of goods under subsection (3) (b) (ii) shall be subject to the condition that the proprietor of the registered trade mark complies with subsection (3) (b) (iii) within the period prescribed under subsection (3).
-
-[20/2004]
-
-(5) Where the Court has made an order authorising the further detention of goods under subsection (3) (b) —
-
-(a) the detained goods shall be taken to such secure place as the Director-General directs; and
-
-(b) sections 86, 87 and 89 to 93 shall apply, with the necessary modifications, to the further detention of the goods, and for the purposes of such application —
-
-(i) any reference to the objector shall be read as a reference to the proprietor of the registered trade mark;
-
-(ii) any reference to the importer shall be read as a reference to the exporter or consignee, as the case may be, of the detained goods;
-
-(iii) any reference to the seized goods shall be read as a reference to the detained goods;
-
-(iv) any reference to the seizure of goods shall be read as a reference to the detention or further detention of the goods;
-
-(v) any reference to the import or importation of goods shall be read —
-
-(A) in the case of goods that are to be exported from Singapore, as a reference to the export of the goods; or
-
-(B) in the case of goods in transit that are consigned to a person with a commercial or physical presence in Singapore, as a reference to the import, importation or export, of the goods by the consignee;
-
-(vi) any reference to infringement action shall be read as a reference to an action for the infringement of the registered trade mark under subsection (3) (b) (i);
-
-and
-
-(vii) any reference to the retention period shall be read as a reference to the prescribed period under subsection (3).
-
-[20/2004]
-
-Powers of search
+[34/2018]

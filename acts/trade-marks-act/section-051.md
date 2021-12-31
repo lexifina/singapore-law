@@ -1,5 +1,5 @@
 # 51. Falsely representing trade mark as registered
-Part: PART VI OFFENCES
+Part: PART 6 OFFENCES
 
 (1) Any person who —
 
@@ -9,8 +9,6 @@ Part: PART VI OFFENCES
 
 (2) For the purposes of this section, the use in the course of trade in Singapore in relation to a trade mark of —
 
-(a) the word ‘‘registered’’; or
+(a) the word “registered”; or
 
-(b) any other word or symbol importing a reference (express or implied) to registration, shall be deemed to be a representation as to registration under this Act unless it is shown that the reference is to registration elsewhere than in Singapore and that the trade mark is in fact so registered for the goods or services in question.
-
-[UK Trade Marks Act 1994, s. 95]
+(b) any other word or symbol importing a reference (express or implied) to registration, is deemed to be a representation as to registration under this Act unless it is shown that the reference is to registration elsewhere than in Singapore and that the trade mark is in fact so registered for the goods or services in question.

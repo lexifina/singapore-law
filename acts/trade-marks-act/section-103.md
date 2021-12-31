@@ -1,6 +1,4 @@
 # 103. Certificate of Registrar
-Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
+Part: PART 11 MISCELLANEOUS AND GENERAL PROVISIONS
 
-A certificate purporting to be under the hand of the Registrar as to any entry, matter or thing which he is authorised to make or do under this Act, shall be prima facie evidence of the entry having been made, and of the contents thereof, and of the matter or thing having been done or not done.
-
-[Trade Marks 1992 Ed., s. 59]
+A certificate purporting to be under the hand of the Registrar as to any entry, matter or thing which the Registrar is authorised to make or do under this Act, is prima facie evidence of the entry having been made, and of the contents thereof, and of the matter or thing having been done or not done.

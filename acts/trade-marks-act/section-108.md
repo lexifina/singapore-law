@@ -1,7 +1,7 @@
 # 108. Power to make rules
-Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
+Part: PART 11 MISCELLANEOUS AND GENERAL PROVISIONS
 
-(1) The Minister may, after consulting with the Office, make rules —
+(1) The Minister may make rules —
 
 (a) for any purpose for which rules are authorised or required to be made under this Act;
 
@@ -11,9 +11,9 @@ Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
 
 (d) for prescribing matters necessary or convenient to be prescribed for the conduct of any proceedings or other matter before the Registrar.
 
-[3/2001]
+[3/2007]
 
-(2) Without prejudice to the generality of subsection (1), the rules may make provision —
+(2) Without limiting subsection (1), the rules may make provision —
 
 (a) as to the practice and procedure of any proceedings or other matter before the Registrar;
 
@@ -29,8 +29,14 @@ Part: PART XI MISCELLANEOUS AND GENERAL PROVISIONS
 
 (g) prescribing time limits for anything required to be done in connection with any proceedings under this Act;
 
-(h) providing for the extension of any time limit so prescribed, or specified by the Registrar, whether or not it has already expired; and
+(h) for the extension of any time limit which has been prescribed, or which the Registrar has specified, and which has not expired;
 
-(i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration.
+(i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration; and
 
-[UK Trade Marks Act 1994, s. 78]
+(j) for the reinstatement of —
+
+(i) any application which is treated as withdrawn; or
+
+(ii) any right which has been abrogated, or thing which has ceased to be in force or to exist, by reason of a failure to comply with any time limit which has been prescribed or which the Registrar has specified, and the conditions for such reinstatement.
+
+[42/2005; 3/2007]

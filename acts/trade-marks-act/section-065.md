@@ -1,6 +1,6 @@
 # 65. Seal of Registry The Register
-Part: PART IX ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
+Part: PART 9 ADMINISTRATIVE AND OTHER SUPPLEMENTARY PROVISIONS The Registrar
 
-There shall be a seal of the Registry and impressions of the seal shall be judicially noticed.
+There is to be a seal of the Registry and impressions of the seal are to be judicially noticed.
 
 The Register

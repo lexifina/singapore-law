@@ -1,5 +1,5 @@
-# 54. Power to make provision giving effect to Madrid Protocol, etc. The Paris Convention, the TRIPS Agreement and well known trade marks: supplementary provisions
-Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
+# 54. Power to make provision giving effect to Madrid Protocol, etc.
+Part: PART 7 INTERNATIONAL MATTERS The Madrid Protocol, etc.
 
 (1) The Minister may make rules to give effect in Singapore to the provisions of the Madrid Protocol or of any treaty, convention, arrangement or engagement relating to trade marks to which Singapore is a party.
 
@@ -19,16 +19,6 @@ Part: PART VII INTERNATIONAL MATTERS The Madrid Protocol, etc.
 
 (g) the payment of fees and amounts prescribed in respect of applications for international registrations, extensions of protection and renewals.
 
-(3) Provision may also be made in the rules to apply in relation to an international trade mark (Singapore) the provisions of section 35 and Parts VI and X.
-
-(4) For the purposes of this section —
-
-‘‘International Bureau’’ has the meaning given by Article 2 (1) of the Madrid Protocol;
-
-‘‘international trade mark (Singapore)’’ means a trade mark which is entitled to protection in Singapore under the Madrid Protocol or a trade mark prescribed by the Minister as an international trade mark (Singapore);
-
-‘‘Madrid Protocol’’ means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time.
-
-[UK Trade Marks Act 1994, s. 54]
+(3) Provision may also be made in the rules to apply in relation to an international trade mark (Singapore) the provisions of section 35 and Parts 6 and 10.
 
 The Paris Convention, the TRIPS Agreement and well known trade marks: supplementary provisions

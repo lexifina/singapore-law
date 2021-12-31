@@ -1,9 +1,9 @@
 # 27. Acts amounting to infringement of registered trade mark
-Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights of proprietor of registered trade mark
+Part: PART 3 RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights of proprietor of registered trade mark
 
-(1) A person infringes a registered trade mark if, without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with the trade mark in relation to goods or services which are identical with those for which it is registered.
+(1) A person infringes a registered trade mark if, without the consent of the proprietor of the trade mark, the person uses in the course of trade a sign which is identical with the trade mark in relation to goods or services which are identical with those for which it is registered.
 
-(2) A person infringes a registered trade mark if, without the consent of the proprietor of the trade mark, he uses in the course of trade a sign where because —
+(2) A person infringes a registered trade mark if, without the consent of the proprietor of the trade mark, the person uses in the course of trade a sign where because —
 
 (a) the sign is identical with the trade mark and is used in relation to goods or services similar to those for which the trade mark is registered; or
 
@@ -11,7 +11,7 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (3) A person infringes a registered trade mark which is well known in Singapore if —
 
-(a) without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with or similar to the trade mark in relation to goods or services which are not similar to those for which the trade mark is registered;
+(a) without the consent of the proprietor of the trade mark, the person uses in the course of trade a sign which is identical with or similar to the trade mark in relation to goods or services which are not similar to those for which the trade mark is registered;
 
 (b) the use of the trade mark in relation to those goods or services would indicate a connection between those goods or services and the proprietor;
 
@@ -19,7 +19,7 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (d) the interests of the proprietor are likely to be damaged by such use.
 
-(4) For the purposes of this section and sections 28, 29 and 31, a person uses a sign if, in particular, he —
+(4) For the purposes of this section and sections 28, 29 and 31, a person uses a sign if, in particular, the person —
 
 (a) applies it to goods or the packaging thereof;
 
@@ -31,12 +31,8 @@ Part: PART III RIGHTS AND REMEDIES OF PROPRIETOR OF REGISTERED TRADE MARK Rights
 
 (e) uses the sign in advertising.
 
-[20/2004]
-
-(5) Notwithstanding subsection (4), a person who —
+(5) Despite subsection (4), a person who —
 
 (a) applies a sign to any material used or intended to be used for labelling or packaging goods; or
 
-(b) uses a sign on any document described in subsection (4) (d) or in advertising, is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
-
-[UK Trade Marks Act 1994, s. 10; TRIPS Art. 16; Trade Marks 1992 Ed., s. 73B (3) (c)]
+(b) uses a sign on any document described in subsection (4)(d) or in advertising, is deemed not to use the sign if, at the time of such application or use, the person does not know nor have reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
