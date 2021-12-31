@@ -1,0 +1,4 @@
+# 26. Powers of Board of Management
+Heading: MANAGEMENT
+
+Subject to the provisions of the preceding section the Board shall have the entire superintendence and control of the Hospital and of the property and affairs of the Corporation, and shall govern, direct and decide all matters whatsoever connected with the administration of the affairs of the Corporation and the accomplishment of the objects and purposes thereof, and shall have and may exercise all the powers conferred on and vested in the Corporation by this Ordinance, and may make, vary and repeal such standing orders as they may from time to time think fit in relation to any matters within the scope of their authority, including the conduct and transaction of their business, subject nevertheless to the rules in force under this Ordinance.
