@@ -1,6 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the National University of Singapore (Corporatisation) Act.
-
-2006 Ed. (Corporatisation) CAP. 204A 3
+This Act is the National University of Singapore (Corporatisation) Act 2005.

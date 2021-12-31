@@ -1,33 +1,26 @@
 # 18. Predecessor university’s ASPF Scheme
-Part: PART III TRANSFER OF PROPERTY, RIGHTS, LIABILITIES, EMPLOYEES, ETC., TO UNIVERSITY COMPANY
-Heading: 2 CAP. 204A (Corporatisation) 2006 Ed. PART IV MISCELLANEOUS
+Part: PART 4 MISCELLANEOUS
 
-(1) On 1st April 2006, all property, rights and liabilities of the predecessor university relating to the ASPF Scheme shall be transferred to and vest in the university company.
+(1) On 1 April 2006, all property, rights and liabilities of the predecessor university relating to the ASPF Scheme are transferred to and vest in the university company.
 
-(2) Any person who, immediately before 1st April 2006, was a member or former member of the ASPF Scheme shall, on and after that date, continue to be a member or former member, as the case may be, of the ASPF Scheme.
+(2) Any person who, immediately before 1 April 2006, was a member or former member of the ASPF Scheme continues, on and after that date, to be a member or former member (as the case may be) of the ASPF Scheme.
 
-(3) The Minister shall, by notification in the Gazette, specify the date on which the ASPF Scheme shall be dissolved.
+(3) The university company must, on 28 December 2007, dissolve the ASPF Scheme in accordance with the First Schedule.
 
-(4) The university company shall, on the dissolution date, dissolve the ASPF Scheme in accordance with the First Schedule.
+(4) Despite the repeal of the National University of Singapore Act (Cap. 204, 2002 Revised Edition), until the time that the ASPF Scheme is dissolved —
 
-(5) Notwithstanding the repeal of the National University of Singapore Act (Cap. 204, 2002 Ed.), until such time as the ASPF Scheme is dissolved —
+(a) section 15 of and the Second Schedule to the National University of Singapore Act (Cap. 204, 2002 Revised Edition) in force immediately before 1 April 2006 and Statute 18 remain in force and continue to apply to the ASPF Scheme; and
 
-(a) section 15 of and the Second Schedule to the National University of Singapore Act (Cap. 204, 2002 Ed.) in force immediately before 1st April 2006 and Statute 18 shall remain in force and shall continue to apply to the ASPF Scheme; and
+(b) the Board of Trustees of the university company may amend Statute 18 for the purposes of alignment with the prevailing policy in respect of the treatment of moneys or investments under the Central Provident Fund Act 1953.
 
-(b) the Board of Trustees of the university company may amend Statute 18 for the purposes of alignment with the prevailing 2006 Ed. (Corporatisation) CAP. 204A 11
+(5) On 28 December 2007, the property and rights of the university company relating to the ASPF Scheme are transferred to and vest in the CPF Board in accordance with the First Schedule.
 
-policy in respect of the treatment of moneys or investments under the Central Provident Fund Act (Cap. 36).
+(6) The Minister may, by order in the Gazette, amend the First Schedule.
 
-(6) On the dissolution date, the property and rights of the university company relating to the ASPF Scheme shall be transferred to and vest in the CPF Board in accordance with the First Schedule.
+(7) In this section and the First Schedule, unless the context otherwise requires —
 
-(7) The Minister may, by order published in the Gazette, amend the First Schedule.
+“ASPF Scheme” means the Academic Staff Provident Fund Scheme established by the predecessor university under Statute 18;
 
-(8) In this section and the First Schedule, unless the context otherwise requires —
+“CPF Board” means the Central Provident Fund Board established and constituted under the Central Provident Fund Act 1953;
 
-‘‘ASPF Scheme’’ means the Academic Staff Provident Fund Scheme established by the predecessor university under Statute 18;
-
-‘‘CPF Board’’ means the Central Provident Fund Board established and constituted under the Central Provident Fund Act;
-
-‘‘dissolution date’’ means the date specified by the Minister under subsection (3);
-
-‘‘Statute 18’’ means Statute 18 (Academic Staff Provident Fund Scheme) made pursuant to the National University of Singapore Act (Cap. 204, 2002 Ed.), as may be amended from time to time by the Board of Trustees of the university company under subsection (5) (b).
+“Statute 18” means Statute 18 (Academic Staff Provident Fund Scheme) made pursuant to the National University of Singapore Act (Cap. 204, 2002 Revised Edition), as may be amended from time to time by the Board under subsection (4)(b).
