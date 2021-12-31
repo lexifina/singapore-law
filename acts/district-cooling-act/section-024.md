@@ -1,5 +1,5 @@
 # 24. Power to enter upon public land for purposes of district cooling system
-Part: PART VI MATTERS RELATING TO LICENSEES
+Part: PART 6 MATTERS RELATING TO LICENSEES
 
 (1) For the purpose of providing any district cooling service to a service area, a licensee or any person authorised by the licensee may —
 
@@ -11,6 +11,6 @@ Part: PART VI MATTERS RELATING TO LICENSEES
 
 (d) in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose.
 
-(2) Where any work referred to in subsection (1) interferes with any building, growing tree or crop, the licensee shall pay compensation to any person interested for any damage or financial loss that may be caused thereby.
+(2) Where any work mentioned in subsection (1) interferes with any building, growing tree or crop, the licensee must pay compensation to any person interested for any damage or financial loss that may be caused thereby.
 
-(3) Where the public land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
+(3) Where the public land is occupied under a licence for temporary occupation, the compensation must be paid to the occupant under the licence.
