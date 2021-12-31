@@ -1,4 +1,4 @@
 # 6. Jurisdiction of civil courts
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-Nothing in this Act shall affect the jurisdiction of civil courts to try a person subject to military law for any civil offence.
+This Act does not affect the jurisdiction of civil courts to try a person subject to military law for any civil offence.

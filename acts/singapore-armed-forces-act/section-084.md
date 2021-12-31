@@ -1,7 +1,7 @@
 # 84. Ineligibility
-Part: PART V TRIAL BY SUBORDINATE MILITARY COURTS
+Part: PART 5 TRIAL BY SUBORDINATE MILITARY COURTS
 
-The following persons are not eligible to serve as members of a subordinate military court:
+The following persons are not eligible to serve on a subordinate military court:
 
 (a) a relative of the accused;
 
@@ -14,3 +14,5 @@ The following persons are not eligible to serve as members of a subordinate mili
 (e) any person who is a witness to the alleged offence; and
 
 (f) a military prosecutor.
+
+[17/2004]

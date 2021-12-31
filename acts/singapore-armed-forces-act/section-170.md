@@ -1,5 +1,5 @@
 # 170. Warrants to whom directed
-Part: PART VIII ARRESTS, SEARCHES AND INVESTIGATIONS Arrests
+Part: PART 8 ARRESTS, SEARCHES AND INVESTIGATIONS Arrests
 
 (1) A warrant of arrest may be directed to —
 

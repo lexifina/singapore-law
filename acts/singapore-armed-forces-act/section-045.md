@@ -1,5 +1,5 @@
 # 45. Unlawful arrest
-Part: PART III MILITARY OFFENCES
+Part: PART 3 MILITARY OFFENCES
 
 Every person subject to military law who —
 

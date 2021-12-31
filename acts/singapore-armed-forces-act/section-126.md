@@ -1,7 +1,7 @@
 # 126. Power of President to grant pardon and to mitigate punishment, etc.
-Part: PART VI PUNISHMENTS OF MILITARY OFFENCES AND EXECUTION OF SENTENCES Punishments
+Part: PART 6 PUNISHMENTS OF MILITARY OFFENCES AND EXECUTION OF SENTENCES Punishments
 
-The President, as occasion shall arise, may, on the advice of the Cabinet —
+The President, as occasion may arise, may, on the advice of the Cabinet —
 
 (a) grant a pardon to any accomplice in any offence who gives information which leads to the conviction of the principal offender or any one of the principal offenders, if more than one;
 
@@ -9,6 +9,4 @@ The President, as occasion shall arise, may, on the advice of the Cabinet —
 
 (c) remit the whole or any part of such sentence or of any penalty or forfeiture imposed by law.
 
-PART VII
-
-MILITARY COURT OF APPEAL General provisions
+PART 7 MILITARY COURT OF APPEAL General provisions

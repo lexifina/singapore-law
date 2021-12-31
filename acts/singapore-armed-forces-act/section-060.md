@@ -1,36 +1,38 @@
 # 60. Interpretation of this Part
-Part: PART IV SUMMARY TRIAL BY DISCIPLINARY OFFICERS
+Part: PART 4 SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 In this Part, unless the context otherwise requires —
 
-‘‘detachment’’ means a part of a unit so separated from the unit to which it belongs that the senior disciplinary officer of that unit cannot effectively exercise his disciplinary powers over it;
+“detachment” means a part of a unit so separated from the unit to which it belongs that the senior disciplinary officer of that unit cannot effectively exercise his or her disciplinary powers over it;
 
-‘‘formation’’ means a brigade or its equivalent in the navy and air force or any equivalent body of servicemen;
+“formation” means a brigade or its equivalent in the navy and air force or any equivalent body of servicemen;
 
-‘‘junior disciplinary officer’’ means, except where otherwise expressly provided, an officer or a warrant officer commanding a squadron, battery, company or equivalent sub-unit or any other officer in whom a senior disciplinary officer has vested the powers of a junior disciplinary officer for the purposes of discipline;
+“junior disciplinary officer” means, except where otherwise expressly provided, any officer, warrant officer or military expert of or above the rank of ME3 —
 
-‘‘private’’ includes an officer cadet for the purposes of this Act;
+(a) who is in command of a squadron, battery or company or an equivalent sub-unit; or
 
-‘‘reversion in rank’’ means reverting a soldier from a temporary rank to the next substantive rank;
+(b) in whom a senior disciplinary officer has vested the powers of a junior disciplinary officer for the purposes of discipline;
 
-‘‘Senior Disciplinary Committee’’ means a Senior Disciplinary Committee appointed under section 72;
+“reversion in rank” means reverting a soldier from a temporary rank to the next substantive rank;
 
-‘‘senior disciplinary officer’’ means —
+“Senior Disciplinary Committee” means a Senior Disciplinary Committee appointed under section 72;
 
-(a) an officer in command of a base or unit;
+“senior disciplinary officer” means —
 
-(b) a detachment commander; or
+(a) any officer, warrant officer or senior military expert who is —
 
-(c) any other officer designated as a senior disciplinary officer for the purposes of discipline by the Armed Forces Council;
+(i) in command of a base or unit; or
 
-‘‘superior commander’’ means —
+(ii) designated by the Armed Forces Council as a senior disciplinary officer for the purposes of discipline; or
 
-(a) an officer commanding a command;
+(b) a commander of a detachment;
 
-(b) an officer commanding a formation; and
+“superior commander” means any officer or senior military expert who is —
 
-(c) any officer designated as a superior commander for the purpose of discipline by the Armed Forces Council;
+(a) in command of a command or formation; or
 
-‘‘unit’’ means a battalion or its equivalent in the navy and air force or any equivalent body of servicemen.
+(b) designated by the Armed Forces Council as a superior commander for the purposes of discipline;
 
-[1/91; 1/94]
+“unit” means a battalion or its equivalent in the navy and air force or any equivalent body of servicemen.
+
+[28/2009]

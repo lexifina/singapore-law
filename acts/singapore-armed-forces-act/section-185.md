@@ -1,5 +1,5 @@
 # 185. Powers
-Part: PART X BOARDS OF INQUIRY
+Part: PART 10 BOARDS OF INQUIRY
 
 A board of inquiry may —
 

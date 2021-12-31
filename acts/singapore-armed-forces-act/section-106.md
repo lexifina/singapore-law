@@ -1,4 +1,6 @@
-# 106. Investigation materials before a field military court
-Part: PART V TRIAL BY SUBORDINATE MILITARY COURTS
+# 106. Investigation materials before a field general court martial
+Part: PART 5 TRIAL BY SUBORDINATE MILITARY COURTS
 
-The accused, his defence counsel or, with the consent of a military prosecutor, a person authorised by the accused or his defence counsel may, where a charge-sheet is submitted to a field military court, at any reasonable time inspect and take copies of the investi- gation materials excluding the investigation diary.
+The accused, his or her defence counsel or, with the consent of a military prosecutor, a person authorised by the accused or the accused’s defence counsel may, where a charge-sheet is submitted to a field general court martial, at any reasonable time inspect and take copies of the investigation materials excluding the investigation diary.
+
+[28/2009]

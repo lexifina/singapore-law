@@ -1,7 +1,7 @@
 # 199. Emergency powers
-Part: PART XII EMERGENCY POWERS
+Part: PART 12 EMERGENCY POWERS
 
-Where the public safety or the defence of Singapore so require, it shall be lawful for any serviceman acting on the authority of the Armed Forces Council —
+Where the public safety or the defence of Singapore so require, it is lawful for any serviceman acting on the authority of the Armed Forces Council —
 
 (a) to enter, inspect, occupy, take possession of, evacuate, use, transfer, confiscate, repair or destroy any private or public property; and
 

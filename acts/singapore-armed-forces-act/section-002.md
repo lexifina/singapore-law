@@ -1,110 +1,122 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘aircraft’’ means any machine for flying whether propelled by mechanical means or not and includes any description of balloon;
+“aircraft” means any machine for flying whether propelled by mechanical means or not and includes any description of balloon;
 
-‘‘Armed Forces Council’’ means the Armed Forces Council established under section 8;
+“Armed Forces Council” means the Armed Forces Council established under section 8;
 
-‘‘arms’’ includes parts and accessories of arms, ammunition, explosives whether encased or not and instruments used as aids to operation or adjustment of arms, whether the arms are serviceable or not;
+“arms” includes parts and accessories of arms, ammunition, explosives whether encased or not and instruments used as aids to operation or adjustment of arms, whether the arms are serviceable or not;
 
-‘‘arrest’’ includes open arrest;
+“arrest” includes open arrest;
 
-‘‘before the enemy’’, in relation to a person, means that he is in action against the enemy or about to go into action against the enemy or is under attack or threat of imminent attack by the enemy;
+“before the enemy”, in relation to a person, means that the person is in action against the enemy or about to go into action against the enemy or is under attack or threat of imminent attack by the enemy;
 
-‘‘civil court’’ means a court of ordinary criminal jurisdiction constituted under any written law in force relating to courts;
+“civil court” means a court of ordinary criminal jurisdiction constituted under any written law in force relating to courts;
 
-‘‘civil offence’’ means an offence punishable under any written law in force other than a military offence;
+“civil offence” means an offence punishable under any written law in force other than a military offence;
 
-‘‘civil prison’’ means a prison declared as such under section 3 of the Prisons Act (Cap. 247);
+“civil prison” means a prison declared as a prison under section 3 of the Prisons Act 1933;
 
-‘‘commander’’, in relation to any person subject to military law, means an officer of or above the rank of captain for the time being commanding a unit or units or part of a unit of the Singapore Armed Forces;
+“commander”, in relation to any person subject to military law, means an officer of or above the rank of captain or a senior military expert for the time being commanding a unit or units or part of a unit of the Singapore Armed Forces;
 
-‘‘convening authority’’ means, in the case of a general court martial, an officer of or above the rank of major appointed by the Armed Forces Council for the purpose and, in the case of a field general court martial, a commander referred to in section 83;
+“convening authority” means —
 
-‘‘detention barracks’’ means any building or part of a building which is set apart by the Armed Forces Council for the purpose of persons serving sentences of detention;
+(a) in the case of a general court martial — the officer of or above the rank of major, or the senior military expert of or above the rank of ME5, appointed by the Armed Forces Council for the purpose of being the convening authority for general courts martial; or
 
-‘‘Director, Legal Services of the Singapore Armed Forces’’ means the person appointed by the Armed Forces Council under section 82 (5) (a);
+(b) in the case of a field general court martial — a commander mentioned in section 83(1);
 
-‘‘disciplinary barrack’’ means any premises or place set apart by the Armed Forces Council for the purposes of persons serving sentences of special detention in a disciplinary barrack;
+“detention barracks” means any building or part of a building which is set apart by the Armed Forces Council for the purpose of persons serving sentences of detention;
 
-‘‘disciplinary officer’’ means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part IV and includes a Service Chief and the Chief of Defence Force;
+“Director, Legal Services of the Singapore Armed Forces” means the person appointed by the Armed Forces Council under section 82(5)(a);
 
-‘‘enemy’’ includes persons engaged in violent operations against the Singapore Armed Forces, armed mutineers, armed rebels, armed rioters or pirates;
+“disciplinary barrack” means any premises or place set apart by the Armed Forces Council for the purposes of persons serving sentences of special detention in a disciplinary barrack;
 
-‘‘general orders’’ includes orders of the Armed Forces Council, General Orders of the Ministry of Defence, standing orders, routine orders and other general orders published in writing in accordance with military usage;
+“disciplinary officer” means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part 4 and includes a Service Chief and the Chief of Defence Force;
 
-‘‘Military Court of Appeal’’ means the Court established under Part VII;
+“enemy” includes persons engaged in violent operations against the Singapore Armed Forces, armed mutineers, armed rebels, armed rioters or pirates;
 
-‘‘military custody’’ means any place designated by the Armed Forces Council pursuant to regulations made under this Act which according to military usage is used for keeping offenders under arrest awaiting trial or on remand;
+“general courts martial panel” means the panel appointed by the convening authority under section 80A;
 
-‘‘military documents’’ includes reports, certificates, returns, pay lists, forms and any other documents in use in the Singapore Armed Forces;
+“general orders” includes orders of the Armed Forces Council, General Orders of the Ministry of Defence, standing orders, routine orders and other general orders published in writing in accordance with military usage;
 
-‘‘military offence’’ means an offence punishable under this Act;
+“Military Court of Appeal” means the Court established under Part 7;
 
-‘‘military policeman’’ means a serviceman appointed to be a military policeman;
+“military custody” means any place designated by the Armed Forces Council pursuant to regulations made under this Act which according to military usage is used for keeping offenders under arrest awaiting trial or on remand;
 
-‘‘military prison’’ means any building or part of a building under the control of the Armed Forces Council which is set apart by the Armed Forces Council for the purpose of persons serving sentences of imprisonment;
+“military documents” includes reports, certificates, returns, pay lists, forms and any other documents in use in the Singapore Armed Forces;
 
-‘‘national serviceman’’ has the same meaning as in the Enlistment Act (Cap. 93);
+“military expert” means a serviceman in the military domain experts service;
 
-‘‘non-uniformed serviceman’’ means a regular serviceman who is not required under his terms of service to wear military uniform;
+“military offence” means an offence punishable under this Act;
 
-‘‘officer’’ means a person appointed by the President of Singapore or the proper authority to hold the rank of officer in the Singapore Armed Forces and includes any person commissioned as an officer under any written law that is repealed by this Act;
+“military policeman” means a serviceman appointed to be a military policeman;
 
-‘‘operationally ready national serviceman’’ means a person liable to render operationally ready national service under the Enlistment Act (Cap. 93);
+“military prison” means any building or part of a building under the control of the Armed Forces Council which is set apart by the Armed Forces Council for the purpose of persons serving sentences of imprisonment;
 
-‘‘proper authority’’ has the same meaning as in the Enlistment Act;
+“national serviceman” has the meaning given by the Enlistment Act 1970;
 
-‘‘publication’’ and ‘‘words’’ have the same meanings as in the Sedition Act (Cap. 290);
+“non-uniformed serviceman” means a regular serviceman who is not required under the serviceman’s terms of service to wear military uniform;
 
-‘‘qualified person’’ has the same meaning as in the Legal Profession Act (Cap. 161);
+“officer” means a person appointed by the President of Singapore or the proper authority to hold the rank of officer in the Singapore Armed Forces and includes any person commissioned as an officer under any written law that is repealed by this Act;
 
-‘‘regular serviceman’’ has the same meaning as in the Enlistment Act;
+“operationally ready national serviceman” means a person liable to render operationally ready national service under the Enlistment Act 1970;
 
-‘‘sentence’’ means a punishment imposed on a convicted person;
+“proper authority” has the meaning given by the Enlistment Act 1970;
 
-‘‘Service Chief’’ means the Chief of Air Force, the Chief of Army or the Chief of Navy;
+“publication” and “words” have the respective meanings given by the Sedition Act 1948;
 
-‘‘serviceman’’ means an officer or a soldier of the Singapore Armed Forces and includes a servicewoman;
+“qualified person” has the meaning given by the Legal Profession Act 1966;
 
-‘‘sickness’’ includes permanent or temporary illness, disability or injury;
+“registrar for subordinate military courts” means the person appointed by the Armed Forces Council as registrar for subordinate military courts under section 82(5)(c);
 
-‘‘Singapore Armed Forces’’ means the Singapore Armed Forces raised and maintained under section 7;
+“regular serviceman” has the meaning given by the Enlistment Act 1970;
 
-‘‘Singapore Armed Forces property’’ includes property in the possession, control or occupancy of the Singapore Armed Forces;
+“senior military expert” means a military expert of or above the rank of ME4;
 
-‘‘soldier’’ means any person, other than an officer, who is a member of the Singapore Armed Forces and includes a servicewoman;
+“sentence” means a punishment imposed on a convicted person;
 
-‘‘subordinate military courts’’ means general courts martial and field general courts martial from the decisions of which by reason of this Act there is a right of appeal to the Military Court of Appeal;
+“Service Chief” means the Chief of Air Force, the Chief of Army or the Chief of Navy;
 
-‘‘summary trial’’ means a trial by a disciplinary officer under Part IV;
+“serviceman” means an officer, a soldier, a military expert or a non-uniformed serviceman of the Singapore Armed Forces, and includes a servicewoman;
 
-‘‘vessel’’ includes a hovercraft;
+“sickness” includes permanent or temporary illness, disability or injury;
 
-‘‘volunteer’’ means a person accepted by the proper authority as a volunteer in the Singapore Armed Forces;
+“Singapore Armed Forces” means the Singapore Armed Forces raised and maintained under section 7;
 
-‘‘warrant officer’’ means a person appointed by the Armed Forces Council or the proper authority to hold the rank of warrant officer in the Singapore Armed Forces.
+“Singapore Armed Forces property” includes property in the possession, control or occupancy of the Singapore Armed Forces;
 
-[20/75; 1/91; 1/94; 20/94; 10/2000]
+“soldier” means any person, other than an officer, a senior military expert or a non-uniformed serviceman, who is a member of the Singapore Armed Forces, and includes any such person who is a servicewoman;
+
+“subordinate military courts” means general courts martial and field general courts martial from the decisions of which by reason of this Act there is a right of appeal to the Military Court of Appeal;
+
+“summary trial” means a trial by a disciplinary officer under Part 4;
+
+“vessel” includes a hovercraft;
+
+“volunteer” means a person accepted by the proper authority as a volunteer in the Singapore Armed Forces;
+
+“warrant officer” means a person appointed by the Armed Forces Council or the proper authority to hold the rank of warrant officer in the Singapore Armed Forces.
+
+[17/2004; 28/2009]
 
 (2) In any written law or any document —
 
-(a) all references to ‘‘the Army Board’’ shall be construed as references to the Armed Forces Council constituted under this Act;
+(a) all references to “the Army Board” are to be construed as references to the Armed Forces Council constituted under this Act;
 
-(b) all references to ‘‘court-martial’’ shall be construed as references to the subordinate military courts constituted under this Act;
+(b) all references to “court martial” are to be construed as references to the subordinate military courts constituted under this Act;
 
-(c) all references to ‘‘Singapore armed forces’’ ‘‘Singapore Army’’, ‘‘Singapore forces’’ and ‘‘the army, navy or air force of Singapore’’ shall be construed as references to the Singapore Armed Forces constituted under this Act;
+(c) all references to “Singapore armed forces”, “Singapore Army”, “Singapore forces” and “the army, navy or air force of Singapore” are to be construed as references to the Singapore Armed Forces constituted under this Act;
 
-(d) all references to ‘‘an officer’’ or to ‘‘a person holding a commission in the armed forces’’ shall be construed as references to an officer under this Act; and
+(d) all references to “a person holding a commission in the armed forces” are to be construed as references to an officer under this Act; and
 
-(e) all references to ‘‘a soldier, enlisted personnel, sailor, seaman, rating or airman’’ shall be construed as references to a serviceman under this Act.
+(e) all references to “a soldier, enlisted personnel, sailor, seaman, rating or airman” are to be construed as references to a serviceman under this Act.
 
-[1/94]
+[28/2009]
 
-(3) For the purposes of this Act, if not inconsistent with the context, the expression ‘‘on active service’’ as applied to a person subject to military law means whenever he is attached to or forms part of a force which is engaged in operations against the enemy or is engaged in military operations in a country or place wholly or partly occupied by an enemy, or is in military occupation of any foreign country.
+(3) For the purposes of this Act, if not inconsistent with the context, the expression “on active service” as applied to a person subject to military law means whenever the person is attached to or forms part of a force which is engaged in operations against the enemy or is engaged in military operations in a country or place wholly or partly occupied by an enemy, or is in military occupation of any foreign country.
 
-(4) Notwithstanding subsection (3), where any part of the Singapore Armed Forces is serving, or due to serve, outside Singapore under conditions that do not, or will not, amount to ‘‘active service’’ as defined in subsection (3), the Armed Forces Council may declare that that part of the Singapore Armed Forces shall be temporarily subject to this Act, as if that part of the Forces was on active service.
+(4) Despite subsection (3), where any part of the Singapore Armed Forces is serving, or due to serve, outside Singapore under conditions that do not, or will not, amount to “active service” as defined in subsection (3), the Armed Forces Council may declare that that part of the Singapore Armed Forces is temporarily subject to this Act, as if that part of the Forces was on active service.
 
-(5) On the publication of any declaration under subsection (4), the forces to which the declaration applies shall be deemed to be on active service until the declaration is cancelled by the Armed Forces Council.
+(5) On the publication of any declaration under subsection (4), the forces to which the declaration applies are deemed to be on active service until the declaration is cancelled by the Armed Forces Council.

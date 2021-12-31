@@ -1,12 +1,12 @@
-# 39. Offences in relation to an officer in a ship convoying and protecting a vessel
-Part: PART III MILITARY OFFENCES
+# 39. Offences by officer, etc., serving in ship involved in convoying and protection of vessel
+Part: PART 3 MILITARY OFFENCES
 
-Every officer or warrant officer who while serving in a ship of the Singapore Armed Forces involved in the convoying and protection of a vessel —
+Every officer, warrant officer or military expert of or above the rank of ME3 who while serving in a ship of the Singapore Armed Forces involved in the convoying and protection of a vessel —
 
-(a) fails to defend a vessel or goods in his convoy;
+(a) fails to defend a vessel or goods in his or her convoy;
 
-(b) refuses to fight in the defence of a vessel in his convoy when it is attacked; or
+(b) refuses to fight in the defence of a vessel in his or her convoy when it is attacked; or
 
-(c) cowardly abandons or exposes a vessel in his convoy to hazards, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
+(c) cowardly abandons or exposes a vessel in his or her convoy to hazards, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
 
-[1/94]
+[28/2009]

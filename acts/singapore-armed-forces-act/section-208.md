@@ -1,9 +1,9 @@
 # 208. General Orders of Ministry of Defence
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
-(1) The Armed Forces Council may from time to time make such orders not inconsistent with the provisions of this Act and any regulations made thereunder to be called ‘‘General Orders of the Ministry of Defence’’ as the Council may consider necessary or expedient.
+(1) The Armed Forces Council may make such orders not inconsistent with the provisions of this Act and any regulations made under this Act to be called “General Orders of the Ministry of Defence” as the Council may consider necessary or expedient.
 
-(2) Without prejudice to the generality of subsection (1), the Armed Forces Council may make orders relating to —
+(2) Without limiting subsection (1), the Armed Forces Council may make orders relating to —
 
 (a) conduct and discipline and the regulation and carrying out of punishment;
 
@@ -17,4 +17,4 @@ Part: PART XIII MISCELLANEOUS
 
 (f) the manner and form of reports, correspondence and other records.
 
-(3) It shall not be necessary to publish any General Orders of the Ministry of Defence in the Gazette.
+(3) General Orders of the Ministry of Defence need not be published in the Gazette.

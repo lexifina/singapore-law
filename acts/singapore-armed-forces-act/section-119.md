@@ -1,11 +1,13 @@
 # 119. Punishment for aggravated disciplinary barrack offences
-Part: PART VI PUNISHMENTS OF MILITARY OFFENCES AND EXECUTION OF SENTENCES Punishments
+Part: PART 6 PUNISHMENTS OF MILITARY OFFENCES AND EXECUTION OF SENTENCES Punishments
 
-(1) Subject to subsection (2), a person serving a sentence of special detention in a disciplinary barrack who is found after due inquiry to be guilty of an aggravated disciplinary barrack offence may be punished by the officer in charge of a disciplinary barrack with caning not exceeding 12 strokes.
+(1) Subject to subsection (2), a person serving a sentence of special detention in a disciplinary barrack who is found after due inquiry to be guilty of an aggravated disciplinary barrack offence may be punished by the officer or senior military expert in charge of a disciplinary barrack with caning not exceeding 12 strokes.
 
-[20/75]
+[28/2009]
 
-(2) The officer in charge of a disciplinary barrack shall not award any caning without the approval of the Armed Forces Council.
+(2) The officer or senior military expert in charge of a disciplinary barrack must not award any caning without the approval of the Armed Forces Council.
+
+[28/2009]
 
 (3) For the purposes of this section, an aggravated disciplinary barrack offence is —
 
@@ -29,6 +31,6 @@ Part: PART VI PUNISHMENTS OF MILITARY OFFENCES AND EXECUTION OF SENTENCES Punish
 
 (j) abetting the commission of any aggravated disciplinary barrack offence.
 
-(4) Minor disciplinary barrack offences shall be prescribed by regulations made under this Act.
+(4) Minor disciplinary barrack offences are to be prescribed by regulations made under this Act.
 
-(5) When any caning is imposed under this section upon any person serving a sentence of special detention in a disciplinary barrack, he shall not be liable to more than one such sentence in respect of the act or acts, or omission or omissions, for which he has been sentenced.
+(5) When any caning is imposed under this section upon any person serving a sentence of special detention in a disciplinary barrack, the person shall not be liable to more than one such sentence in respect of the act or acts, or omission or omissions, for which the person has been sentenced.

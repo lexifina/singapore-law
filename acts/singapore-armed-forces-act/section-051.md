@@ -1,5 +1,5 @@
 # 51. Refusing medical or dental examination and treatment
-Part: PART III MILITARY OFFENCES
+Part: PART 3 MILITARY OFFENCES
 
 Every person subject to military law who, without reasonable excuse, does not submit to —
 

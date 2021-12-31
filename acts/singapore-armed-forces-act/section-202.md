@@ -1,4 +1,4 @@
 # 202. Exemption of servicemen from certain laws
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
-Any serviceman acting bona fide and in his official capacity shall be exempt from all written laws providing for the carriage and storage of arms.
+Any serviceman acting in good faith and in the serviceman’s official capacity is exempt from all written laws providing for the carriage and storage of arms.

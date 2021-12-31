@@ -1,7 +1,7 @@
 # 8. Establishment of Armed Forces Council
-Part: PART II ORGANISATION OF SINGAPORE ARMED FORCES
+Part: PART 2 ORGANISATION OF SINGAPORE ARMED FORCES
 
-(1) For the purposes of the administration of matters relating to the Singapore Armed Forces under this Act, there shall be established an Armed Forces Council which shall consist of —
+(1) For the purposes of the administration of matters relating to the Singapore Armed Forces under this Act, an Armed Forces Council is established consisting of —
 
 (a) one or more Ministers charged with the responsibility for defence and any other Minister who has been assigned to assist them;
 
@@ -15,18 +15,10 @@ Part: PART II ORGANISATION OF SINGAPORE ARMED FORCES
 
 (f) the Chief of Navy; and
 
-(g) not more than 4 other members as the President may appoint if the President, acting in his discretion, concurs with the advice of the Prime Minister.
+(g) not more than 4 other members as the President may appoint if the President, acting in his or her discretion, concurs with the advice of the Prime Minister.
 
-[1/91]
+(2) The Minister charged with the responsibility for defence or, if there is more than one, the principal Minister is the Chairperson of the Armed Forces Council.
 
-(2) The Minister charged with the responsibility for defence or, if there is more than one, the principal Minister shall be the Chairman of the Armed Forces Council.
+(3) The appointments mentioned in subsection (1)(g) may not be revoked unless the President, acting in his or her discretion, concurs with the advice of the Prime Minister.
 
-[1/91]
-
-(3) No revocation of any of the appointments referred to in subsection (1) (g) shall be made unless the President, acting in his discretion, concurs with the advice of the Prime Minister.
-
-[1/91]
-
-(4) Any appointment or revocation thereof made by the President under this section shall be published in the Gazette.
-
-[1/91]
+(4) Any appointment or revocation made by the President under this section must be published in the Gazette.

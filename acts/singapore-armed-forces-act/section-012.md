@@ -1,11 +1,11 @@
 # 12. Assisting enemy
-Part: PART III MILITARY OFFENCES
+Part: PART 3 MILITARY OFFENCES
 
 Every person subject to military law who, knowingly and without lawful excuse â€”
 
 (a) communicates with or gives intelligence to the enemy;
 
-(b) fails to make known to the proper authorities any information received by him from the enemy;
+(b) fails to make known to the proper authorities any information received by him or her from the enemy;
 
 (c) furnishes the enemy with supplies of any description;
 
@@ -13,8 +13,8 @@ Every person subject to military law who, knowingly and without lawful excuse â€
 
 (e) harbours or protects an enemy not being a prisoner of war or knowingly does any other act to prevent the capture of an enemy;
 
-(f) surrenders himself to the enemy or leaves the battle;
+(f) surrenders himself or herself to the enemy or leaves the battle;
 
-(g) without authority transmits or discloses any information to the enemy regarding the Singapore Armed Forces or any forces co-operating therewith; or
+(g) without authority transmits or discloses any information to the enemy regarding the Singapore Armed Forces or any forces cooperating therewith; or
 
-(h) does any act calculated to imperil the success of any military action or operation of the Singapore Armed Forces or of any forces co-operating therewith or wilfully delays or discourages upon any pretext any such action or operation, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.
+(h) does any act calculated to imperil the success of any military action or operation of the Singapore Armed Forces or of any forces cooperating therewith or wilfully delays or discourages upon any pretext any such action or operation, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to suffer death or any less punishment authorised by this Act.

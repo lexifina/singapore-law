@@ -1,10 +1,10 @@
 # 57. Irregular arrest and confinement
-Part: PART III MILITARY OFFENCES
+Part: PART 3 MILITARY OFFENCES
 
-Every person subject to military law who, when another person subject thereto is under arrest —
+Every person subject to military law (A) who, when another person subject thereto (B) is under arrest —
 
-(a) unnecessarily delays the taking of such steps as it is his duty to take for investigating the allegations against that other person or for having the allegations against that other person investigated pursuant to this Act or, as the case may be, tried by a subordinate military court;
+(a) unnecessarily delays the taking of such steps as is A’s duty to take for investigating the allegations against B or for having the allegations against B investigated pursuant to this Act or tried by a subordinate military court, as the case may be;
 
-(b) fails to release, or effect the release of, that other person when it is his duty to do so; or
+(b) fails to release B, or effect B’s release, when it is A’s duty to do so; or
 
-(c) being a disciplinary officer unnecessarily delays dealing with a charge against an accused person under Part IV, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years or any less punishment authorised by this Act.
+(c) being a disciplinary officer, unnecessarily delays dealing with a charge against an accused under Part 4, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years or any less punishment authorised by this Act.

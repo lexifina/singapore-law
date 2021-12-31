@@ -1,8 +1,6 @@
 # 1. Short title and commencement
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-(1) This Act may be cited as the Singapore Armed Forces Act and shall, with the exception of sections 199 and 200, come into operation on such date as the Minister may, by notification in the Gazette, appoint.
+(1) This Act is the Singapore Armed Forces Act 1972.
 
-(2) Sections 199 and 200 shall come into operation on such date as the Minister may, by notification in the Gazette, appoint.
-
-*Sections 199 and 200 are not in operation. See G.N. No. S 159/72.
+(2) Sections 199 and 200 come into operation on a date that the Minister appoints by notification in the Gazette.

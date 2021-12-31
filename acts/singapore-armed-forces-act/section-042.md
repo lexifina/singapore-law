@@ -1,5 +1,5 @@
 # 42. Damage to, and loss of, Singapore Armed Forces property, etc.
-Part: PART III MILITARY OFFENCES
+Part: PART 3 MILITARY OFFENCES
 
 (1) Every person subject to military law who —
 
@@ -13,4 +13,4 @@ Part: PART III MILITARY OFFENCES
 
 (b) is guilty of any wilful or negligent act or omission which is likely to cause damage to, or the loss of, any such property, shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years or any less punishment authorised by this Act.
 
-(3) Where such property consists of arms, or is an aircraft, a vessel or a vehicle, such person shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 3 years or any less punishment authorised by this Act.
+(3) Where the property consists of arms, or is an aircraft, a vessel or a vehicle, the person shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 3 years or any less punishment authorised by this Act.
