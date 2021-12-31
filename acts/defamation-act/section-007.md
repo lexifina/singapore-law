@@ -16,9 +16,13 @@
 
 (4) Where an offer of amends under this section is accepted by the party aggrieved —
 
-(a) any question as to the steps to be taken in fulfilment of the offer as so accepted shall in default of agreement between the parties be referred to and determined by the High Court, whose decision shall be final; and
+(a) any question as to the steps to be taken in fulfilment of the offer as so accepted shall in default of agreement between the parties be referred to and determined by the General Division of the High Court, whose decision shall be final;
 
-(b) the power of the court to make orders as to costs in proceedings by the party aggrieved against the person making the offer in respect of the publication in question, or in proceedings in respect of the offer under paragraph (a), shall include power to order the payment by the person making the offer to the party aggrieved of costs on an indemnity basis and any expenses reasonably incurred or to be incurred by that party in consequence of the publication in question, and if no such proceedings as referred to in paragraph (b) are taken, the High Court may, upon an application made by the party aggrieved, make any such order for the payment of such costs and expenses as referred to in paragraph (b) as could be made in such proceedings.
+and
+
+(b) the power of the court to make orders as to costs in proceedings by the party aggrieved against the person making the offer in respect of the publication in question, or in proceedings in respect of the offer under paragraph (a), shall include power to order the payment by the person making the offer to the party aggrieved of costs on an indemnity basis and any expenses reasonably incurred or to be incurred by that party in consequence of the publication in question, and if no such proceedings as referred to in paragraph (b) are taken, the General Division of the High Court may, upon an application made by the party aggrieved, make any such order for the payment of such costs and expenses as referred to in paragraph (b) as could be made in such proceedings.
+
+[40/2019]
 
 (5) For the purposes of this section, words shall be treated as published by one person (referred to in this subsection as the publisher) innocently in relation to another person if and only if the following conditions are satisfied:
 

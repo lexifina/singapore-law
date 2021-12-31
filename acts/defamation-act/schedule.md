@@ -4,7 +4,7 @@ Section 12
 
 NEWSPAPER STATEMENTS HAVING QUALIFIED PRIVILEGE
 
-PART I
+PART 1
 
 STATEMENTS PRIVILEGED WITHOUT EXPLANATION OR CONTRADICTION
 
@@ -24,15 +24,15 @@ STATEMENTS PRIVILEGED WITHOUT EXPLANATION OR CONTRADICTION
 
 3. A notice, an advertisement or a report issued or published by or on the authority of any court within Singapore or any judge or officer of such court or by any public officer or receiver or trustee acting in accordance with the requirements of any written law.
 
-PART II
+THE SCHEDULE — continued
+
+PART 2
 
 STATEMENTS PRIVILEGED SUBJECT TO EXPLANATION OR CONTRADICTION
 
 1. A fair and accurate report of the findings or decision of any association formed in Singapore for the purpose of —
 
 (a) promoting or encouraging the exercise of or any interest in any art, science, religion or learning; or
-
-THE SCHEDULE — continued
 
 (b) promoting or safeguarding the interests of any trade, business, industry or profession or of persons carrying on the same or engaged therein or the interests of any game, sport or pastime to the playing or exercise of which members of the public are invited or admitted,
 
@@ -52,8 +52,8 @@ where —
 
 being a meeting or sitting to which admission is not denied to representatives of newspapers or other members of the public.
 
-4. A fair and accurate report of the proceedings at a general meeting wherever held of any joint-stock company or corporation wherever registered whose business is in any way directly concerned with Singapore or of any company constituted, registered or incorporated under the provisions of any written law not being a private company within the meaning of the Companies Act (Cap. 50).
+THE SCHEDULE — continued
+
+4. A fair and accurate report of the proceedings at a general meeting wherever held of any joint-stock company or corporation wherever registered whose business is in any way directly concerned with Singapore or of any company constituted, registered or incorporated under the provisions of any written law not being a private company within the meaning of the Companies Act 1967.
 
 5. A copy or a fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of the Government or by any public officer or authority.
-
-[7/97]

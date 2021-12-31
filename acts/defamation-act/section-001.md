@@ -1,5 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Defamation Act.
+This Act is the Defamation Act 1957.
 
 1
