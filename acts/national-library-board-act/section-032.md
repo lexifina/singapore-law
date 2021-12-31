@@ -1,4 +1,6 @@
-# 32. Misconduct or neglect of duty by employee before transfer
-Part: PART 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+# 32. Issue of shares, etc.
+Part: PART 4 FINANCIAL PROVISIONS
 
-The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 28 for any misconduct or neglect of duty committed prior to 1 September 1995 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government and if this Act had not been enacted.
+As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board must issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[21A

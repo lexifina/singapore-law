@@ -1,4 +1,8 @@
-# 27. Pending legal proceedings
-Part: PART 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+# 27. Appointment of staff
+Part: PART 3 PROVISIONS RELATING TO STAFF
 
-Any proceedings or cause of action pending or existing immediately before 1 September 1995 by or against the Government or any person acting on behalf of the Government relating to the National Library may be continued and shall be enforced by or against the Board.
+The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[16
+
+[5/2018]

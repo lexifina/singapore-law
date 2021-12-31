@@ -1,10 +1,6 @@
-# 16. Appointment of staff
-Part: PART 3 PROVISIONS RELATING TO STAFF
+# 16. Transfer of public records to National Archives
+Part: PART 2A NATIONAL ARCHIVES OF SINGAPORE AND ORAL HISTORY CENTRES
 
-The Board may —
+Any public records which, in the opinion of the Board, are of national or historical significance must be transferred to the care and control of the National Archives in accordance with such schedules or other agreements for the transfer of records as may be agreed on between the Board and the public office responsible for the public records.
 
-(a) appoint such number of officers and employees on such terms as to remuneration or otherwise as the Board may determine and may terminate their service or exercise disciplinary control over them in accordance with their terms of service;
-
-and
-
-(b) engage and remunerate for their services such persons as the Board considers necessary for carrying out its functions and duties.
+[14C

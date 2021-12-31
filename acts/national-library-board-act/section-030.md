@@ -1,4 +1,6 @@
-# 30. No benefits in respect of abolition or reorganisation of office
-Part: PART 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+# 30. Power of investment
+Part: PART 4 FINANCIAL PROVISIONS
 
-Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Board under section 28 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
+The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
+
+[20

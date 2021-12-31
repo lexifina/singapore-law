@@ -1,22 +1,18 @@
-# 23. Establishment of National Library Board Endowment Fund
-Part: PART 4 FINANCIAL PROVISIONS
+# 23. Oral history centres
+Part: PART 2A NATIONAL ARCHIVES OF SINGAPORE AND ORAL HISTORY CENTRES
 
-(1) There shall be established a fund to be known as the National Library Board Endowment Fund which shall vest in the Board and consist of —
+(1) The Board may, in addition to any oral history centre transferred under section 24, establish any other oral history centre for the purposes of this Act.
 
-(a) all moneys received by the Board by gifts, bequests or otherwise for the Fund;
+(2) The purposes of any oral history centre transferred to the Board under section 24 or established by the Board under this section are —
 
-(b) such contributions to the Fund as the Minister may specify from moneys provided by Parliament; and
+(a) to collect, document and disseminate information on the history of Singapore through oral history methodology or other means;
 
-(c) such other moneys as the Board may decide to transfer to the Fund.
+(b) to interview persons who have influenced or participated in the history of Singapore, to preserve these interviews and to produce transcripts of selected interviews;
 
-(2) The income of the Fund shall be applied for all or any of the following purposes:
+(c) to preserve and care for the recordings and transcripts of such interviews;
 
-(a) the provision of training programmes and scholarships for librarians and persons working in libraries;
+(d) to allow access to the recordings and transcripts of such interviews to persons seeking to inspect them in connection with study or research subject to any conditions or restrictions imposed by the interviewee or the Board; and
 
-(b) the delivery of lectures by distinguished persons in the field of library and information science;
+(e) to disseminate information on the collection and work of the centre by any means, including publications, audiovisual educational packages, exhibitions, consultations, research and heritage promotional activities.
 
-(c) the sponsorship of major library promotional programmes;
-
-(d) the financing of research on reading and librarianship;
-
-(e) such other purposes consistent with this Act as the Board may decide.
+[14J

@@ -1,14 +1,8 @@
-# 15. Chief executive officer of Board
-Part: PART 3 PROVISIONS RELATING TO STAFF
+# 15. Appointment of Director of National Archives
+Part: PART 2A NATIONAL ARCHIVES OF SINGAPORE AND ORAL HISTORY CENTRES
 
-(1) The Board shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Board may determine.
+(1) The Board must appoint an officer of the Board as the Director of National Archives, who is responsible to the Board for the general management and control of the National Archives.
 
-(2) The chief executive officer shall —
+(2) The Director of National Archives, and any person acting on behalf or under the direction of the Director of National Archives, must, with respect to access to public records, satisfy any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to the public records.
 
-(a) be known by such designation as the Board may determine;
-
-and
-
-(b) be responsible to the Board for the proper administration and management of the affairs of the Board in accordance with the policy laid down by the Board.
-
-(3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Board to act in the place of the chief executive officer during any such period of absence from duty.
+[14B

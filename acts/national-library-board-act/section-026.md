@@ -1,4 +1,16 @@
-# 26. Existing agreements, etc.
-Part: PART 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+# 26. Chief executive officer
+Part: PART 3 PROVISIONS RELATING TO STAFF
 
-All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1 September 1995, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 25(1) shall continue in force on and after that date and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
+(1) There must be a chief executive officer of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
+
+[5/2018]
+
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[15
+
+[5/2018]

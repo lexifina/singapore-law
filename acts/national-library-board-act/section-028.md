@@ -1,6 +1,16 @@
-# 28. Transfer of employees
-Part: PART 5 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+# 28. Funds of Board
+Part: PART 4 FINANCIAL PROVISIONS
 
-(1) As from 1 September 1995, such categories of persons employed immediately before that date in the National Library as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+The funds of the Board consist of —
 
-(2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the service of the Government.
+(a) all moneys received by the Board by way of grants;
+
+(b) all gifts, donations and contributions to the Board;
+
+(c) all fees, commissions, rents, interests, dividends and other income accruing to the Board;
+
+(d) all moneys borrowed by the Board under this Act; and
+
+(e) all other moneys lawfully received by the Board for the purposes of the Board.
+
+[18

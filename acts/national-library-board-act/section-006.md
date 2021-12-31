@@ -1,7 +1,7 @@
 # 6. Functions of Board
 Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
-The functions of the Board shall be —
+The functions of the Board are —
 
 (a) to establish and maintain libraries and to provide library information services;
 
@@ -17,12 +17,10 @@ The functions of the Board shall be —
 
 (g) to compile and maintain a national union catalogue and a national bibliography;
 
-(h) to advise the Government on national needs and policies in respect of matters relating to publicly‑funded libraries and library information services in Singapore;
+(h) to advise the Government on national needs and policies in respect of matters relating to publicly funded libraries and library information services in Singapore;
 
 (i) to provide a permanent repository of records of national or historical significance and to facilitate access to those records;
 
 (j) to conduct records management programmes for the Government; and
 
 (k) to record, preserve and disseminate the history of Singapore through oral history methodology or other means.
-
-[25/2012]

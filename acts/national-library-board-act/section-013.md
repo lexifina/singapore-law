@@ -1,6 +1,10 @@
-# 13. Annual report
+# 13. Directions by Minister
 Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
-(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during that financial year.
+(1) The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+[5/2018]
+
+(2) The Board must give the Minister such information with regard to its property and activities as the Minister may require.
+
+[14
