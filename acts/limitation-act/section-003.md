@@ -1,0 +1,4 @@
+# 3. Saving for other limitation laws
+Part: PART 1
+
+This Act shall not apply to any action or arbitration for which a period of limitation is prescribed by any other written law or to any action or arbitration to which the Government is a party and for which if it were between private persons a period of limitation would have been prescribed by any other written law.

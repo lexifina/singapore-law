@@ -1,0 +1,12 @@
+# 26. Fresh accrual of action on acknowledgment or part payment
+Part: PART 3
+
+(1) Where any right of action has accrued to recover land or to enforce a mortgage or charge in respect of land or personal property, and —
+
+(a) the person in possession of the land or personal property acknowledges the title of the person to whom the right of action has accrued; or
+
+(b) in the case of any such action by a mortgagee or chargee the person in possession as aforesaid or the person liable for the debt secured by the mortgage or charge makes any payment in respect thereof, whether of principal or interest, the right shall be deemed to have accrued on and not before the date of the acknowledgment or the last payment.
+
+(2) Where any right of action has accrued to recover any debt or other liquidated pecuniary claim, or any claim to the personal estate of a deceased person or to any share or interest therein, and the person liable or accountable therefor acknowledges the claim or makes any payment in respect thereof, the right shall be deemed to have accrued on and not before the date of the acknowledgment or the last payment.
+
+(3) A payment of a part of the rent or interest due at any time shall not extend the period for claiming the remainder of the rent or interest then due, but any payment of interest shall have effect, for the purposes of subsection (2) only, as if it were a payment in respect of the principal debt.

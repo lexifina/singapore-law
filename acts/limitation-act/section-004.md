@@ -1,0 +1,4 @@
+# 4. Limitation not to operate as a bar unless specially pleaded
+Part: PART 1
+
+Nothing in this Act shall operate as a bar to an action unless this Act has been expressly pleaded as a defence thereto in any case where under any written law relating to civil procedure for the time being in force such a defence is required to be so pleaded.

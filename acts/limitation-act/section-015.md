@@ -1,0 +1,14 @@
+# 15. Right of action not to accrue or continue unless there is adverse possession
+Part: PART 2
+
+(1) No right of action to recover land shall be deemed to accrue unless the land is in the possession of some person in whose favour the period of limitation can run (referred to in this section as adverse possession).
+
+(2) Where under this Act any such right of action is deemed to accrue on a certain date and no person is in adverse possession on that date, the right of action shall not be deemed to accrue unless adverse possession is taken of the land.
+
+(3) Where a right of action to recover land has accrued and thereafter, before the right is barred, the land ceases to be in adverse possession, the right of action shall no longer be deemed to have accrued and no fresh right of action shall be deemed to accrue unless the land is again taken into adverse possession.
+
+(4) For the purposes of this section —
+
+(a) possession of any land subject to a rentcharge by a person (other than the person entitled to the rentcharge) who does not pay the rent shall be deemed to be adverse possession of the rentcharge; and
+
+(b) receipt of rent under a lease by a person wrongfully claiming, in accordance with section 13(4), the land in reversion shall be deemed to be adverse possession of the land.
