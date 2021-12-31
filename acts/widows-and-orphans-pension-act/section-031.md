@@ -1,0 +1,3 @@
+# 31. Pension of child where no widow alive at death of contributor
+
+If a contributor dies leaving no widow but a child or children of a pensionable age by one marriage, such child or children shall be entitled to receive the pension which his or their mother would have been entitled to, if she had survived the contributor.

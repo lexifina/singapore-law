@@ -1,0 +1,3 @@
+# 28. Dissolution of marriage
+
+When the marriage of any contributor has been annulled or dissolved by the decree of any competent court the wife, party to such marriage, shall for all purposes of this Act be deemed to have died and the contributor to have become a widower at the date of such decree.

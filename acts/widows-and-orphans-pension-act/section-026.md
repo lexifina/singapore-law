@@ -1,0 +1,3 @@
+# 26. Pension, when to commence
+
+The pension payable to a widow or child or children under this Act shall commence upon the death of the husband or father or mother, as the case may be, shall accrue daily, and shall be payable monthly free from any deduction.
