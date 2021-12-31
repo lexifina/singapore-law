@@ -1,0 +1,6 @@
+# 57. Actual total loss
+Heading: Marine Insurance
+
+(1) Where the subject-matter insured is destroyed, or so damaged as to cease to be a thing of the kind insured, or where the assured is irretrievably deprived thereof, there is an actual total loss.
+
+(2) In the case of an actual loss, no notice of abandonment need be given.

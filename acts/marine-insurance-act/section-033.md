@@ -1,0 +1,8 @@
+# 33. Nature of warranty
+Heading: Marine Insurance
+
+(1) A warranty, in the following sections relating to warranties, means a promissory warranty, that is to say, a warranty by which the assured undertakes that some particular thing shall or shall not be done, or that some condition shall be fulfilled, or whereby he affirms or negatives the existence of a particular state of facts.
+
+(2) A warranty may be express or implied.
+
+(3) A warranty, as defined, is a condition which must be exactly complied with, whether it be material to the risk or not; and if it is not so complied with, then, subject to any express provision in the policy, the insurer is discharged from liability as from the date of the breach of warranty, but without prejudice to any liability incurred by him before that date.

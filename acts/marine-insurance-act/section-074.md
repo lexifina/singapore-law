@@ -1,0 +1,4 @@
+# 74. Liabilities to third parties
+Part: Partial Losses (including Salvage and General Average and Particular Charges)
+
+Where the assured has effected an insurance in express terms against any liability to a third party, the measure of indemnity, subject to any express provision in the policy, is the amount paid or payable by him to such third party in respect of such liability.

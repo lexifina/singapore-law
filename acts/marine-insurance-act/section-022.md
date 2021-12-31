@@ -1,0 +1,4 @@
+# 22. Contract must be embodied in policy 1
+Heading: Marine Insurance
+
+Subject to the provisions of any statute, a contract of marine insurance is inadmissible in evidence unless it is embodied in a marine policy in accordance with this Act. The policy may be executed and issued either at the time when the contract is concluded, or afterwards.

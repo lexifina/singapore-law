@@ -1,0 +1,4 @@
+# 12. Advance freight
+Heading: Marine Insurance
+
+In the case of advance freight, the person advancing the freight has an insurable interest, in so far as such freight is not repayable in case of loss.

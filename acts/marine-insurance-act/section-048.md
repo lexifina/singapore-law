@@ -1,0 +1,4 @@
+# 48. Delay in voyage
+Heading: Marine Insurance
+
+In the case of a voyage policy, the adventure insured must be prosecuted throughout its course with reasonable dispatch, and, if without lawful excuse it is not so prosecuted, the insurer is discharged from liability as from the time when the delay became unreasonable.

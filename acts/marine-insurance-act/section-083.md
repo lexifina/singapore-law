@@ -1,0 +1,4 @@
+# 83. Return by agreement
+Part: Partial Losses (including Salvage and General Average and Particular Charges)
+
+Where the policy contains a stipulation for the return of the premium, or a proportionate part thereof, on the happening of a certain event, and that event happens, the premium, or, as the case may be, the proportionate part thereof, is thereupon returnable to the assured.

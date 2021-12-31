@@ -1,0 +1,6 @@
+# 73. General average contributions and salvage charges
+Part: Partial Losses (including Salvage and General Average and Particular Charges)
+
+(1) Subject to any express provision in the policy, where the assured has paid, or is liable for, any general average contribution, the measure of indemnity is the full amount of such contribution, if the subject-matter liable to contribution is insured for its full contributory value; but, if such subject-matter is not insured for its full contributory value, or if only part of it is insured, the indemnity payable by the insurer must be reduced in proportion to the under insurance, and where there has been a particular average loss which constitutes a deduction from the contributory value, and for which the insurer is liable, that amount must be deducted from the insured value in order to ascertain what the insurer is liable to contribute.
+
+(2) Where the insurer is liable for salvage charges, the extent of his liability must be determined on the like principle.

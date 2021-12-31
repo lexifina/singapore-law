@@ -1,0 +1,4 @@
+# 88. Reasonable time, etc., a question of fact
+Part: Partial Losses (including Salvage and General Average and Particular Charges)
+
+Where by this Act any reference is made to reasonable time, reasonable premium or reasonable diligence, the question what is reasonable is a question of fact.

@@ -1,0 +1,6 @@
+# 42. Implied condition as to commencement of risk
+Heading: Marine Insurance
+
+(l) Where the subject-matter is insured by a voyage policy “at and from” or “from” a particular place, it is not necessary that the ship should be at that place when the contract is concluded, but there is an implied condition that the adventure shall be commenced within a reasonable time, and that if the adventure be not so commenced the insurer may avoid the contract.
+
+(2) The implied condition may be negatived by showing that the delay was caused by circumstances known to the insurer before the contract was concluded, or by showing that he waived the condition.

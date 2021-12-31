@@ -1,0 +1,6 @@
+# 21. When contract deemed to be concluded The Policy
+Heading: Marine Insurance
+
+A contract of marine insurance is deemed to be concluded when the proposal of the assured is accepted by the insurer, whether the policy be then issued or not; and, for the purpose of showing when the proposal was accepted, reference may be made to the slip or covering note or other customary memorandum of the contract.
+
+The Policy
