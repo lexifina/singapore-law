@@ -1,48 +1,74 @@
-# 123. Removal, detention or immobilisation of vehicles abandoned, etc.
-Part: PART VI PROVISIONS AS TO USE OF HIGHWAYS
+# 123. Removal or immobilisation of abandoned or illegally parked vehicles, etc.
+Part: PART 6 PROVISIONS AS TO USE OF HIGHWAYS
 
-(1) The Minister may make rules to provide for —
+(1) Where a vehicle —
 
-(a) the removal and detention of any vehicle (including any trailer drawn or any load carried thereby) which —
+(a) is parked or permitted to stand on any road in contravention of any provision of this Act or the rules or in such a manner as to constitute a danger or unreasonable obstruction to traffic or persons using the road; or
 
-(i) constitutes a danger or unreasonable obstruction to traffic;
+(b) appears to have been abandoned on a road, an enforcement officer who is in uniform may —
 
-(ii) appears to have been abandoned on a road; or
+(c) require the owner, driver or other person in control or in charge of the vehicle to remove the vehicle;
 
-(iii) is parked or permitted to stand on any road in contravention of any provision of this Act; or
+(d) remove the vehicle (including any trailer drawn or any load carried thereby) to any place that the enforcement officer thinks fit and detain it at that place; or
 
-(b) the prevention of the removal of any vehicle referred to in paragraph (a) (ii) or (iii) by the fixing of an immobilisation device to the vehicle.
+(e) immobilise the vehicle.
 
-[11/96]
+[24/2010; 10/2017]
 
-(2) No vehicle which has been removed and detained by the Deputy Commissioner of Police or to which an immobilisation device has been fixed in accordance with any rules made under this section shall be released to the owner of the vehicle except —
+(2) Where an enforcement officer has removed and detained, or has immobilised, any vehicle under subsection (1), the enforcement officer must, with all reasonable despatch, notify the owner of the vehicle (if known) as to the procedure by which the owner may secure the release of the vehicle.
 
-(a) by or under the direction of the Deputy Commissioner of Police or an officer authorised by him; and
+[24/2010; 38/2018]
 
-(b) upon the owner of the vehicle having paid all expenses incurred by the Deputy Commissioner of Police or the authorised officer in that behalf, and such other charges as may be imposed under this Act, and the vehicle shall remain at the risk of the owner of the vehicle until all such expenses and charges have been paid.
+(3) The notification under subsection (2) may be given —
 
-[11/96]
+(a) where the vehicle has been removed and detained, in any manner the enforcement officer thinks expedient; or
 
-(3) Any person who, without being authorised to do so in accordance with the rules, removes or attempts to remove —
+(b) where the vehicle has been immobilised, by affixing a notice onto the windscreen or any other conspicuous part of the vehicle.
 
-(a) any vehicle from any place at which it is being detained under the rules; or
+[24/2010; 38/2018]
 
-(b) an immobilisation device fixed to a vehicle in accordance with the rules, shall be guilty of an offence.
+(4) No vehicle which has been removed and detained, or immobilised, under this section may be released to the owner of the vehicle except —
 
-[11/96]
+(a) by or under the direction of a Magistrate or the Deputy Commissioner of Police or the Registrar; and
 
-(4) Where any vehicle which has been removed and detained by the Deputy Commissioner of Police or to which an immobilisation device has been fixed in accordance with the rules is not claimed by its owner within 3 months of the date of its detention or immobilisation, the Deputy Commissioner of Police may, after giving due notice in the Gazette and after giving not less than one month’s notice in writing to the owner (if the name and address of that person are known to him), sell the vehicle by public auction or otherwise dispose of the vehicle.
+(b) upon the owner of the vehicle having paid the costs of the removal and detention, or the immobilisation, of the vehicle, and any other charges that may be prescribed, and the vehicle remains at the risk of the owner of the vehicle until all the costs and charges have been paid.
 
-[11/96]
+[24/2010]
 
-(5) The proceeds from the sale or disposal of any such vehicle shall be applied in the payment of any charges incurred in carrying out the provisions of this section and the rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle or if not claimed by the owner of the vehicle within 12 months shall be forfeited to the Government.
+(5) A person shall be guilty of an offence if the person —
 
-[11/96]
+(a) without reasonable excuse, fails to remove the person’s vehicle when required to do so by an enforcement officer under subsection (1)(c); or
 
-(6) Where, in pursuance of any rules made under this section, a vehicle has been removed and detained by the Deputy Commis- sioner of Police or an immobilisation device has been fixed to the vehicle, neither the Deputy Commissioner of Police nor any officer authorised by him to remove and detain the vehicle or to fix an immobilisation device thereto shall be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Deputy Commissioner of Police or the authorised officer in the exercise of his powers under the rules or by any person acting under the direction of the Deputy Commissioner of Police or the authorised officer.
+(b) without being authorised to do so by a Magistrate or the Deputy Commissioner of Police or the Registrar, removes, attempts to remove or tampers with —
 
-[11/96]
+(i) any notice that has been affixed to a vehicle under subsection (3)(b);
 
-(7) In this section, ‘‘immobilisation device’’ means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or appliance of a type approved by the Minister for use for that purpose in accordance with rules made under this section.
+(ii) any vehicle from the place at which it is being detained under this section; or
 
-[11/96]
+(iii) the immobilisation device that has been fixed to a vehicle under this section.
+
+[24/2010]
+
+(6) Where the owner or driver of a vehicle which has been immobilised under this section does not appear to secure the release of the vehicle within the time stipulated in the notice mentioned in subsection (3)(b), an enforcement officer may remove the vehicle (including any trailer drawn or any load carried thereby) to any place that he or she thinks fit and detain it at that place, and must give notice to the owner of the vehicle (if known) in accordance with subsection (3)(a) as to the procedure by which the owner may secure the release of the vehicle.
+
+[24/2010; 38/2018]
+
+(7) Where any vehicle which has been removed and detained, or immobilised, under this section is not claimed by its owner within 3 months from the date on which it was so removed and detained or immobilised (as the case may be), the Deputy Commissioner of Police or the Registrar may, after giving due notice in the Gazette and after giving at least one month’s written notice to the owner (if the name and address of the owner are known to the Deputy Commissioner of Police or the Registrar), sell the vehicle by public auction or otherwise dispose of the vehicle.
+
+[24/2010]
+
+(8) The proceeds from the sale or disposal of the vehicle must be applied in the payment of the costs incurred in carrying out the provisions of this section and any other charges that may be prescribed, and the surplus (if any) must be paid to the owner of the vehicle or, if not claimed by the owner within 12 months, is forfeited to the Government.
+
+[24/2010]
+
+(9) The enforcement officer who removes and detains, or who immobilises, a vehicle under this section, the Deputy Commissioner of Police, the Registrar, the Authority or any person who assists the enforcement officer to remove and detain, or to immobilise, the vehicle shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the enforcement officer, the Deputy Commissioner of Police, the Registrar, the Authority or the person assisting the enforcement officer in the exercise of the powers under this section.
+
+[24/2010]
+
+(10) In this section —
+
+“enforcement officer” means a police officer or an employee of the Authority;
+
+“immobilise”, in relation to a vehicle, means to prevent the removal of the vehicle by fixing to the vehicle a device or appliance which is designed or adapted for the purpose of preventing the removal of the vehicle.
+
+[24/2010]

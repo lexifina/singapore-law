@@ -1,0 +1,4 @@
+# 33A. [Repealed]
+Part: PART 1 REGISTRATION AND LICENSING OF VEHICLES
+
+[Repealed by Act 38 of 2018]

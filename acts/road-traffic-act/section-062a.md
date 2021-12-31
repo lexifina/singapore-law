@@ -1,14 +1,14 @@
 # 62A. Restriction on driving certain categories of heavy motor vehicles
-Part: PART IV GENERAL PROVISIONS RELATING TO ROAD TRAFFIC Division 1 — Provisions as to driving and offences in connection therewith
+Part: PART 4 GENERAL PROVISIONS RELATING TO ROAD TRAFFIC Division 1 — Provisions as to driving and offences in connection therewith
 
-A person who has attained the age of 70 years shall not drive a vehicle belonging to the following categories or classes of motor vehicles:
+A person who has attained the prescribed age must not drive a vehicle belonging to the following categories or classes of motor vehicles:
 
 (a) heavy locomotives;
 
 (b) light locomotives;
 
-(c) motor tractors; and
+(c) motor tractors;
 
 (d) heavy motor cars.
 
-[7/90; 21/2002]
+[28/2014]

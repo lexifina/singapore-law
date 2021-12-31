@@ -1,6 +1,6 @@
-# 145. Savings
-Part: PART VII MISCELLANEOUS PROVISIONS
+# 145. Protection from personal liability
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
-The Road Traffic (Amendment) Act 2002 (Act 21 of 2002) shall not affect any driving licence which was granted or renewed before 16th December 2002 and which, on that date remains in force, and the relevant provisions of this Act in force immediately before 16th December 2002 shall continue to apply to such a driving licence until its expiration, as if the Road Traffic (Amendment) Act 2002 had not been enacted.
+No liability shall lie against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything done or intended to be done with reasonable care and in good faith in the execution or purported execution of this Act.
 
-[21/2002]
+[38/2018]

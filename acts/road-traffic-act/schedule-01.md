@@ -1,13 +1,13 @@
 # FIRST SCHEDULE
 
-SPECIFIED ACTS
+SPECIFIED ACTS PART 1
 
-PART I Section 19 (3), (4) and (7)
+Section 19(3), (4) and (7)
 
-The Parking Places Act (Cap. 214).
+The Parking Places Act 1974.
 
-PART II Section 35 (13) and (14), 42A (1) and 45 (9)
+PART 2
 
-The Parking Places Act (Cap. 214).
+Section 35(13) and (14), 42A(1) and 45(9)
 
-[8/94]
+The Parking Places Act 1974.

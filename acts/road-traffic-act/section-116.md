@@ -1,20 +1,42 @@
 # 116. Restriction of competitions and speed trials
-Part: PART VI PROVISIONS AS TO USE OF HIGHWAYS
+Part: PART 6 PROVISIONS AS TO USE OF HIGHWAYS
 
-(1) No competition or trial of speed involving the use of vehicles shall take place on a road without the written approval of the Minister.
+(1) No competition or trial of speed involving the use of vehicles may take place on a road except under, and in accordance with the conditions of, a permit granted by the Deputy Commissioner of Police.
 
-(2) Any such written approval may be made subject to such conditions to be specified therein as the Minister may think fit to impose.
+[24/2010]
 
-(3) For the purpose of any duly approved competition or trial of speed, the Minister may, by order published in the Gazette, regulate or restrict or prohibit to such extent and subject to such conditions or exceptions as may be specified therein the use of a road or part thereof.
+(2) An application for a permit mentioned in subsection (1) must —
 
-(4) No such order shall be made, unless not less than 7 days before the making thereof, a notice of intention to make the order, specifying its general nature and describing alternative routes, if any, available for traffic, animals and pedestrians, has been published by the Minister in one or more newspapers which circulate in Singapore.
+(a) be made to the Deputy Commissioner of Police in such form or manner, and not less than such period before the date of the competition or trial of speed, as the Deputy Commissioner of Police may require; and
 
-(5) So long as any order made under subsection (3) remains in force, a notice stating the effect of the order and describing any alternative routes available for traffic, animals or pedestrians shall be kept posted in a conspicuous manner at each end of the part of the road to which the order relates and at the points at which it will be necessary for traffic, animals or pedestrians to diverge from the road.
+(b) be accompanied by such fee (if any) as the Minister may prescribe.
 
-(6) The cost of every such notice and publication shall be paid in advance to the Minister by the person promoting the competition or trial of speed.
+[24/2010]
 
-(7) Any person who promotes or takes part in any competition or trial of speed without the written approval of the Minister and any driver or person in charge of any vehicle used in or taking part in any such competition or trial of speed shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also be punished with a fine of not less than $1,000 and not more than $2,000 and, in the case of a second or subsequent conviction, with imprisonment for a term not exceeding 12 months and with a fine of not less than $2,000 and not more than $3,000.
+(3) Upon receiving an application under subsection (2), the Deputy Commissioner of Police may —
 
-(8) Any police officer may arrest without warrant any person committing an offence under subsection (7) and may seize and detain for the purposes of proceedings under this Act any vehicle used in or taking part in any competition or trial of speed without the written approval of the Minister.
+(a) grant the permit applied for —
+
+(i) in such form and manner as the Deputy Commissioner of Police may determine; and
+
+(ii) subject to any conditions that the Deputy Commissioner of Police thinks fit to impose; or
+
+(b) refuse to grant the permit.
+
+[24/2010]
+
+(4) [Deleted by Act 24 of 2010]
+
+(5) [Deleted by Act 24 of 2010]
+
+(6) [Deleted by Act 24 of 2010]
+
+(7) Any person who promotes or takes part in any competition or trial of speed that is in contravention of subsection (1) and any driver or person in charge of any vehicle used in or taking part in any such competition or trial of speed shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 12 months and shall also be punished with a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, with imprisonment for a term not exceeding 2 years and with a fine not exceeding $10,000.
+
+[24/2010; 12/2021]
+
+(8) Any police officer may arrest without warrant any person committing an offence under subsection (7) and may seize and detain for the purposes of proceedings under this Act any vehicle used in or taking part in any competition or trial of speed that is in contravention of subsection (1).
+
+[24/2010]
 
 (9) A person convicted of an offence under subsection (7) shall, unless the court for any special reason thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than 12 months from the date of the conviction from holding or obtaining a driving licence.

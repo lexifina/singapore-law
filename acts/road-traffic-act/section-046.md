@@ -1,20 +1,32 @@
-# 46. Licensee may show cause why driving licence should not be suspended
-Part: PART II LICENSING OF DRIVERS
+# 46. Licensee may make representations against suspension of driving licence
+Part: PART 2 LICENSING OF DRIVERS AND RIDERS Division 1 — Driving of motor vehicles except test-needed-to-ride-on-road vehicles
 
-(1) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under section 45, give the person concerned notice in writing of his intention to do so —
+(1) To suspend a person’s driving licence under section 45, the Deputy Commissioner of Police must first give a notice to the person concerned —
 
-(a) specifying a date, not less than 14 days after the date of the notice, upon which such suspension shall be made; and
+(a) stating that the Deputy Commissioner of Police proposes to suspend the person’s driving licence on such date (called in this section the proposed suspension date) being at least 4 weeks after the date of giving the notice;
 
-(b) calling upon the person to show cause to the Deputy Commissioner of Police why such driving licence should not be suspended.
+(b) setting out the reasons for suspending the person’s driving licence; and
 
-(2) Upon the person failing to show cause within the period referred to in subsection (1) and if the Deputy Commissioner of Police decides to suspend the driving licence of such person under section 45, the Deputy Commissioner of Police shall immediately inform the person by notice in writing of the suspension.
+(c) specifying the period (being at least 4 weeks after the date of giving the notice) within which representations or objections with respect to the proposed suspension may be made.
 
-(3) A person may, within —
+[19/2019]
 
-(a) 14 days of the receipt of the notice referred to in subsection (2); or
+(2) Then, the Deputy Commissioner of Police may, after considering any representations or objections which are duly made within the period mentioned in subsection (1)(c) and not withdrawn by the person concerned —
 
-(b) such extended period of time as the Minister may allow, appeal in writing against the suspension to the Minister whose decision shall be final.
+(a) suspend the person’s driving licence on the proposed suspension date; or
 
-(4) An order of suspension under section 45 shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the person concerned of the order.
+(b) postpone the proposed suspension date to a later date if the person represents to the Deputy Commissioner of Police that the person will attend a prescribed course on safe driving, and suspend the person’s driving licence on the later date on completion of that course.
 
-(5) If within that period the person concerned appeals to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+[19/2019]
+
+(3) The Deputy Commissioner of Police must immediately inform the person concerned of his or her decision under subsection (2).
+
+[19/2019]
+
+(4) However, the Deputy Commissioner of Police may, on his or her own initiative, rescind the suspension of a person’s driving licence, after re-considering any representations or objections made by that person within the period mentioned in subsection (1)(c).
+
+[19/2019]
+
+(5) This section applies only in relation to a notice given by the Deputy Commissioner of Police under subsection (1) on or after 29 June 2021, and section 46 as in force immediately before that date continues to apply in relation to a notice given by the Deputy Commissioner of Police under that section before that date.
+
+[19/2019]

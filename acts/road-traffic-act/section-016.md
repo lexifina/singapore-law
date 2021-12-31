@@ -1,4 +1,16 @@
-# 16. Presumption on use and keeping of vehicle
-Part: PART I REGISTRATION AND LICENSING OF VEHICLES
+# 16. Presumption as to use or keeping of vehicle
+Part: PART 1 REGISTRATION AND LICENSING OF VEHICLES
 
-For the purposes of this Act, the person who is for the time being registered under the provisions of this Part as the owner of a vehicle shall, until the contrary is proved, be presumed to keep or use that vehicle on a road.
+(1) For the purposes of this Part, it is presumed, until the contrary is proved, that a person keeps or uses a vehicle on a road in Singapore if it is proved —
+
+(a) for a vehicle registered under this Act, that the person is, at the material time, recorded as the owner of that vehicle in a register of vehicles;
+
+(b) for a vehicle the registration of which under this Act is cancelled under section 27(1) or has lapsed, that the person is last recorded as the owner of that vehicle in a register of vehicles; or
+
+(c) for a vehicle that is not registered under this Act and is not a vehicle mentioned in paragraph (b), that the person has a legal right to possession of the vehicle (including any person who has the use of the vehicle under a lease or hire-purchase agreement, but not the lessor while the vehicle is being leased under any such agreement).
+
+[10/2017]
+
+(2) In subsection (1), “register of vehicles” means the register required by rules made under section 34 to be maintained by the Authority for the purposes of section 10.
+
+[10/2017]

@@ -1,26 +1,32 @@
 # 133. Traffic ticket notice
-Part: PART VII MISCELLANEOUS PROVISIONS
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
-(1) Where a police officer or an employee of the Authority authorised in that behalf has reasonable grounds for believing that a person has committed an offence under this Act, he may, in lieu of applying to a court for a summons, immediately serve upon that person a prescribed notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
+(1) Where a police officer or an employee of the Authority authorised in that behalf has reasonable grounds for believing that a person has committed an offence under this Act or the rules, he or she may, in lieu of applying to a court for a summons, immediately serve upon that person a notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
 
-[28/95]
+[28/2014; 10/2017]
 
-(2) A duplicate of the notice shall be prepared by the police officer and, if so required by a court, produced to the court.
+(2) A duplicate of the notice must be prepared by the police officer and, if so required by a court, produced to the court.
 
 (3) The notice may be served on the person alleged to have committed the offence in the manner provided by section 131A.
 
-[28/2001]
+(4) On an accused person appearing before a court pursuant to the notice, the court is to take cognizance of the offence alleged and is to proceed as though the accused person were produced before it pursuant to section 153 of the Criminal Procedure Code 2010.
 
-(4) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of section 136 of the Criminal Procedure Code (Cap. 68).
+[15/2010]
 
-(5) If a person, upon whom such a notice has been served as aforesaid, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless in the case of an offence which may be compounded that person has before that date been permitted to compound the offence.
+(5) If a person, upon whom the notice has been served in the manner provided by section 131A, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless in the case of an offence which may be compounded that person has before that date been permitted to compound the offence.
 
-(6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall —
+(6) Upon a person arrested pursuant to a warrant issued under subsection (5) being produced before it, a court is to —
 
-(a) proceed as though he were produced before it under section 136 of the Criminal Procedure Code; and
+(a) proceed as though he or she were produced before it under section 153 of the Criminal Procedure Code 2010; and
 
-(b) at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him, and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+(b) at the conclusion of the proceedings, call upon him or her to show cause why he or she should not be punished for failing to attend in compliance with the notice served upon him or her, and if cause is not shown may order him or her to pay such fine not exceeding $2,000 as the court thinks fit or may commit him or her to prison for a term not exceeding 2 months.
 
-(7) A police officer not below the rank of sergeant or an employee of the Authority specially authorised by name in that behalf by the appropriate Minister by notification in the Gazette may, at any time before the date specified in the notice, cancel the notice.
+[15/2010]
 
-[7/90; 28/95; 5/98]
+(7) A notice served under subsection (1) may, at any time before the date specified in the notice, be cancelled by —
+
+(a) a police officer not below the rank of sergeant specially authorised by a Deputy Commissioner of Police; or
+
+(b) an employee of the Authority specially authorised in person by the Registrar of Vehicles appointed under section 9(1).
+
+[23/2013; 28/2014; 12/2021]

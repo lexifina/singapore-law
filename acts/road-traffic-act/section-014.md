@@ -1,7 +1,7 @@
 # 14. Exemption from tax on certain descriptions of vehicles
-Part: PART I REGISTRATION AND LICENSING OF VEHICLES
+Part: PART 1 REGISTRATION AND LICENSING OF VEHICLES
 
-No tax shall be chargeable under this Act in respect of vehicles of the following descriptions:
+No tax is chargeable under this Act in respect of vehicles of the following descriptions:
 
 (a) fire engines;
 
@@ -15,6 +15,6 @@ No tax shall be chargeable under this Act in respect of vehicles of the followin
 
 (f) vehicles used solely for industry, mining and agriculture and not intended to be used on any road repairable at the public expense;
 
-(g) invalid carriages; and
+(g) invalid carriages;
 
 (h) bicycles.

@@ -1,39 +1,33 @@
-# 79. Penalties for driving heavy motor vehicle without permit or in breach of conditions of permit
-Part: PART IV GENERAL PROVISIONS RELATING TO ROAD TRAFFIC Division 1 — Provisions as to driving and offences in connection therewith
+# 79. Offence for driving heavy motor vehicle without police escort
+Part: PART 4 GENERAL PROVISIONS RELATING TO ROAD TRAFFIC Division 1 — Provisions as to driving and offences in connection therewith
 
-(1) Where the overall height of a heavy motor vehicle exceeds 4 metres, any person who, without a permit from the Deputy Commissioner of Police, is in charge of or drives or causes to be driven the vehicle on a road shall be guilty of an offence and shall be liable on conviction —
+(1) Any person who drives or causes to be driven on any road a heavy motor vehicle the overall height of which exceeds 4.5 metres without being escorted by a police officer, or an auxiliary police officer appointed in accordance with any written law, shall be guilty of an offence.
 
-(a) for a first offence, to imprisonment for a term of not less than one year and not more than 3 years and, in addition, to a fine not exceeding $2,000; and
+[4/2006]
+
+(2) A person guilty of an offence under subsection (1) shall be liable on conviction —
+
+(a) for a first offence, to imprisonment for a presumptive minimum term of not less than one year and not more than 3 years and, in addition, to a fine not exceeding $2,000; and
 
 (b) for a second or subsequent offence, to imprisonment for a term of not less than 2 years and not more than 5 years and, in addition, to a fine not exceeding $5,000.
 
-[9/85]
+[4/2006; 15/2019]
 
-(2) The Deputy Commissioner of Police may, in granting a permit for the purpose of subsection (1), impose such conditions as he thinks fit including conditions relating to —
+(3) [Deleted by Act 4 of 2006]
 
-(a) the overall height of the heavy motor vehicle;
+(4) A person convicted of an offence under subsection (1) is, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification —
 
-(b) the lateral projection of any load carried by the vehicle;
+(a) in the case of a first offence, to be disqualified from holding or obtaining a driving licence for a period of not less than one year; and
 
-(c) the routes the vehicle is permitted to travel;
+(b) in the case of a second or subsequent offence, to be disqualified from holding or obtaining a driving licence for a period of not less than 2 years.
 
-(d) the maximum speed of the vehicle; and
+[4/2006]
 
-(e) the requirement for police or other escort.
+(5) Any disqualification imposed against any person under subsection (4) takes effect from the date the person is released from prison.
 
-(3) Any person who contravenes or fails to comply with any of the conditions imposed in any such permit relating to any of the matters specified in subsection (2) shall be guilty of an offence and shall be liable on conviction to the same penalties as are prescribed for an offence under subsection (1).
+(6) In this section —
 
-(4) The driver or person in charge of a heavy motor vehicle convicted of an offence under subsection (1) or (3) shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification —
-
-(a) in the case of a first offence, be disqualified from holding or obtaining a driving licence for a period of not less than one year; and
-
-(b) in the case of a second or subsequent offence, be disqualified from holding or obtaining a driving licence for a period of not less than 2 years.
-
-(5) Any disqualification imposed against any person under subsection (4) shall take effect from the date he is released from prison.
-
-(6) In this section and section 80 —
-
-‘‘heavy motor vehicle’’ means —
+“heavy motor vehicle” means —
 
 (a) a goods vehicle the weight of which unladen exceeds 2,500 kilogrammes;
 
@@ -43,6 +37,6 @@ Part: PART IV GENERAL PROVISIONS RELATING TO ROAD TRAFFIC Division 1 — Provisi
 
 (ii) drawing a trailer carrying a container or other load;
 
-‘‘overall height’’, in relation to a heavy motor vehicle, means the distance between the surface on which the vehicle rests and the highest point of the vehicle, and where it is carrying a load the highest point of its load.
+“overall height”, in relation to a heavy motor vehicle, means the distance between the surface on which the vehicle rests and the highest point of the vehicle, and where it is carrying a load the highest point of its load.
 
-[9/85]
+[4/2006]

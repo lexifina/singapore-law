@@ -1,30 +1,40 @@
-# 36. Tests of competence to drive of new applicants for driving licences
-Part: PART II LICENSING OF DRIVERS
+# 36. Prescribed test of competence to drive for grant of driving licence
+Part: PART 2 LICENSING OF DRIVERS AND RIDERS Division 1 — Driving of motor vehicles except test-needed-to-ride-on-road vehicles
 
-(1) A driving licence shall not be granted to any applicant unless he passes the prescribed test of competence to drive.
+(1) A driving licence must not be granted to any applicant unless he or she passes the prescribed test of competence to drive.
 
-[9/85]
+[28/2014]
 
-(2) Notwithstanding subsection (1), the Deputy Commissioner of Police may grant a driving licence to an applicant who satisfies him that at some time within 3 years before the date on which he makes the application he has held a driver’s certificate or licence issued by the competent authority in any country authorising him to drive motor vehicles of the class or description which he would be authorised to drive by the licence applied for.
+(2) Despite subsection (1), the Deputy Commissioner of Police may grant a driving licence to an applicant who satisfies the Deputy Commissioner of Police that —
 
-(3) Subject to subsection (6), for the purpose of enabling the applicant for a driving licence to learn to drive a motor vehicle with a view to passing a test under this section, the Deputy Commissioner of Police may, if so requested by the applicant and on payment of the prescribed fee, grant to the applicant a provisional licence to be in force for a period of 6 months.
+(a) at any time within 3 years before the date that the applicant makes the application, the applicant —
 
-(4) A provisional licence shall be in the prescribed form and granted subject to the prescribed conditions.
+(i) has held a driving licence which has ceased to be in force under section 35(10A); or
 
-(5) If any person to whom such a provisional licence is granted fails to comply with any of the conditions subject to which it is granted, he shall be guilty of an offence.
+(ii) has held a driver’s certificate or licence granted by the competent authority in any country other than Singapore authorising the applicant to drive a motor vehicle of the class or description which the applicant would be authorised to drive by the licence applied for; and
 
-(6) A provisional licence to drive a motor cycle shall not be granted to any applicant unless he has completed a prescribed course of training to enable him to obtain a provisional licence.
+(b) the applicant passes the whole or such part of the test of competence to drive mentioned in subsection (1) or such other prescribed test of competence to drive, as the Deputy Commissioner of Police may require.
 
-[9/85]
+[28/2014]
 
-(7) The court before which a person is convicted of an offence under section 64, 65 or 65A may, whether he has previously passed the prescribed test of competence to drive or not and whether or not the court makes an order under section 42 disqualifying him from holding or obtaining a licence to drive a motor vehicle, order him to be disqualified from holding or obtaining a licence to drive a motor vehicle until he has since the date of the order passed the test.
+(3) For the purpose of enabling the applicant for a driving licence to learn to drive a motor vehicle with a view to passing a test under this section, the Deputy Commissioner of Police may, if so requested by the applicant and on payment of the prescribed fee, grant to the applicant a provisional licence to be in force for a period prescribed.
 
-[11/96]
+[28/2014; 10/2017]
 
-(8) The provisions of this Act which have effect where an order disqualifying a person from holding or obtaining a driving licence is made shall have effect in relation to a disqualification by virtue of an order under this section subject to the following modifications:
+(4) A provisional licence must be in the prescribed form and is granted subject to the prescribed conditions.
 
-(a) notwithstanding section 35 (17) or 43 (3), the person disqualified shall (unless he is disqualified from holding or obtaining a driving licence otherwise than by virtue of an order under this section) be entitled to obtain and to hold a provisional driving licence to be granted under subsection (3) and to drive a motor vehicle in accordance with the conditions subject to which the provisional driving licence is granted;
+(5) If any person to whom a provisional licence is granted fails to comply with any of the conditions subject to which it is granted, he or she shall be guilty of an offence.
 
-(b) the disqualification shall be deemed to have expired on production to the Deputy Commissioner of Police of evidence that the person has since the order was made passed the prescribed test;
+(6) Different validity periods for provisional licences may be prescribed under section 48 for different types of provisional licences.
 
-(c) on the return to the person disqualified of any driving licence held by him or on the issue to him of such a licence there shall be added to the endorsed particulars of the disqualification a statement that the person disqualified has since the order was made passed the prescribed test.
+[10/2017]
+
+(7) The court before which a person is convicted of an offence under section 64, 65 or 65A may, whether the person has previously passed the prescribed test of competence to drive or not and whether or not the court makes an order under section 42 disqualifying the person from holding or obtaining a licence to drive a motor vehicle, order the person to be disqualified from holding or obtaining a licence to drive a motor vehicle until the person has since the date of the order passed the test.
+
+(8) The provisions of this Act which have effect where an order disqualifying a person from holding or obtaining a driving licence is made have effect in relation to a disqualification by virtue of an order under this section subject to the following modifications:
+
+(a) despite section 35(17) or 43(3), the person disqualified is (unless the person is disqualified from holding or obtaining a driving licence otherwise than by virtue of an order under this section) entitled to obtain and to hold a provisional driving licence to be granted under subsection (3) and to drive a motor vehicle in accordance with the conditions subject to which the provisional driving licence is granted;
+
+(b) the disqualification is deemed to have expired on production to the Deputy Commissioner of Police of evidence that the person has since the order was made passed the prescribed test;
+
+(c) on the return to the person disqualified of any driving licence held by the person or on the issue to the person of such a licence there must be added to the endorsed particulars of the disqualification a statement that the person disqualified has since the order was made passed the prescribed test.

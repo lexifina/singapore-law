@@ -1,48 +1,70 @@
 # 47C. Immediate suspension of driving licence in certain circumstances
-Part: PART II LICENSING OF DRIVERS
+Part: PART 2 LICENSING OF DRIVERS AND RIDERS Division 1 — Driving of motor vehicles except test-needed-to-ride-on-road vehicles
 
-(1) Where a person drives a motor vehicle on a road or other public place —
+(1) Where any police investigation into the possible commission of any offence mentioned in subsection (2) is started against any person who, while driving a motor vehicle on a road or in any public place, was involved in any traffic incident resulting in —
 
-(a) whilst under the influence of drink or of a drug or an intoxicating substance in contravention of section 67 (1) (a);
+(a) serious injury or death to another person; or
 
-(b) whilst he has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit in contravention of section 67 (1) (b);
+(b) serious damage to any building or structure, the Deputy Commissioner of Police may, immediately upon or at any time after the start of the police investigation, suspend the driving licence of that person.
 
-(c) without a policy of insurance in respect of third-party risks in contravention of section 3 (1) of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189);
+[24/2010]
 
-(d) recklessly or at a speed or in a manner which is dangerous to the public in contravention of section 64 (1); or
+(1A) At the start of or during any police investigation into the possible commission on or after 1 November 2019 by a person of any offence under section 64, 67 or 116, the Deputy Commissioner of Police may suspend the driving licence of the person.
 
-(e) in a manner so rash or negligent as to endanger human life in contravention of section 279 of the Penal Code (Cap. 224), and whilst so driving causes death or serious injury to any other person, the Deputy Commissioner of Police may, where the first- mentioned person is charged for that offence, suspend his driving licence from the date he is charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+[19/2019]
 
-[7/90; 11/96; 1/99]
+(2) Subsection (1) applies in respect of any of the following offences:
 
-(2) Where a person drives a motor vehicle on a road or other public place and whilst so driving commits an offence of —
+(a) an offence under section 65 or 65A;
 
-(a) causing death by reckless or dangerous driving in contravention of section 66 (1); or
+(aa) an offence under section 64, 66 or 67 as in force immediately before 1 November 2019;
 
-(b) causing death by a rash or negligent act in contravention of section 304A of the Penal Code (Cap. 224), the Deputy Commissioner of Police may, where the first-mentioned person is charged for that offence, suspend his driving licence from the date on which he is first charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+(b) an offence under section 84(7) arising from a failure to comply with section 84(3);
 
-[1/99]
+(c) an offence under section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960;
 
-(3) Where a person drives a motor vehicle on a road or other public place and whilst so driving causes any serious injury or death to another person and thereafter fails to render any assistance as required under section 84 (3), the Deputy Commissioner of Police may, where the first-mentioned person is charged for the offence under section 84 (7) for failing to comply with section 84 (3), suspend his driving licence from the date on which he is first charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+(d) an offence under section 279, 304A or 338 of the Penal Code 1871.
 
-[21/2002]
+[24/2010; 28/2014; 19/2019]
 
-(4) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1), (2) or (3), give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person immediately to surrender his driving licence.
+(3) The suspension of a person’s driving licence under subsection (1) or (1A), unless it is sooner rescinded by the Deputy Commissioner of Police under subsection (10), remains in force until the offence on account of which the person’s driving licence is so suspended has been tried and determined by a court.
 
-[7/90; 1/99; 21/2002]
+[24/2010; 19/2019]
 
-(5) A person who refuses or fails, without reasonable cause, or excuse to surrender his driving licence to the Deputy Commissioner of Police under subsection (4) shall be guilty of an offence.
+(4) Where the Deputy Commissioner of Police suspends the driving licence of a person under subsection (1) or (1A), the Deputy Commissioner of Police must, as soon as is practicable, give to the person concerned a written notice —
 
-[7/90]
+(a) informing the person concerned of the suspension of his or her driving licence and the date from which the suspension is to take effect; and
 
-(6) Any person whose driving licence has been suspended under this section shall not during the period of suspension drive a motor vehicle on a road under any other driving licence granted by any authority or otherwise.
+(b) requiring the person concerned to surrender his or her driving licence to the Deputy Commissioner of Police within the time specified in the notice.
 
-[7/90]
+[24/2010; 19/2019]
 
-(7) Any person who drives a motor vehicle on a road when his driving licence is suspended under this section shall be guilty of an offence.
+(5) A person who refuses or fails, without reasonable cause, or excuse to surrender his or her driving licence to the Deputy Commissioner of Police under subsection (4) shall be guilty of an offence.
 
-[7/90]
+(6) Any person whose driving licence has been suspended under this section must not during the period of suspension drive a motor vehicle on a road under any other driving licence granted by any authority or otherwise.
 
-(8) A person to whom a notice is given under subsection (4) may appeal against the notice to the Minister whose decision shall be final.
+(7) Any person who drives a motor vehicle on a road when his or her driving licence is suspended under this section shall be guilty of an offence.
 
-[7/90; 11/96]
+(8) A person aggrieved by the suspension of his or her driving licence under subsection (1) or (1A) may, within 14 days after the receipt of the notice mentioned in subsection (4) or any extended period of time that the Commissioner of Police may allow in any particular case, appeal in writing against the suspension to the Commissioner of Police whose decision is final.
+
+[24/2010; 28/2014; 19/2019]
+
+(9) Even though any appeal under subsection (8) is pending, the suspension of a person’s driving licence under subsection (1) or (1A) takes effect from the date specified in the notice given to him or her by the Deputy Commissioner of Police under subsection (4), unless the Commissioner of Police otherwise orders.
+
+[24/2010; 28/2014; 19/2019]
+
+(10) The Deputy Commissioner of Police may, at any time, rescind the suspension of a person’s driving licence under subsection (1) or
+
+(1A) on account of any offence mentioned in subsection (2) or (1A), respectively, but must, as soon as is practicable, rescind the suspension if —
+
+(a) the investigation reveals that that person was not involved in the commission of any such offence;
+
+(b) it is decided that that person is not to be charged with any such offence; or
+
+(c) the charge against that person in respect of any such offence is withdrawn.
+
+[24/2010; 19/2019]
+
+(11) In this section, “structure” has the meaning given by section 65A(2).
+
+[24/2010]

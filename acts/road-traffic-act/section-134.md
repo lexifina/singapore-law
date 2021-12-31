@@ -1,8 +1,10 @@
-# 134. Minister may prescribe forms of notices
-Part: PART VII MISCELLANEOUS PROVISIONS
+# 134. Forms of notices for purposes of section 133
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
-The appropriate Minister may prescribe such forms of notices
+Each of the following may design and utilise forms of notices for the purposes of section 133:
 
-as he may think fit for the purposes of sections 132 and 133.
+(a) the Deputy Commissioner of Police;
 
-[5/98]
+(b) the Registrar of Vehicles.
+
+[28/2014; 12/2021]

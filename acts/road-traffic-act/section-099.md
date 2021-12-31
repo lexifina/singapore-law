@@ -1,4 +1,4 @@
 # 99. Application of this Part
-Part: PART V PUBLIC SERVICE VEHICLES
+Part: PART 5 PUBLIC SERVICE VEHICLES
 
-This Part shall apply to all public service vehicles.
+This Part applies to all public service vehicles.
