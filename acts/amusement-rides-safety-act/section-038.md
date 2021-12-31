@@ -1,7 +1,7 @@
 # 38. Regulations for purposes of this Part
-Part: PART VI APPROVAL AND CERTIFICATION OF FIRE AND RESCUE MANAGEMENT SYSTEM
+Part: PART 6 APPROVAL AND CERTIFICATION OF FIRE AND RESCUE MANAGEMENT SYSTEM
 
-The Minister may, after consultation with the Commissioner of Civil Defence, make such regulations as he may consider necessary or expedient for giving effect to this Part and, in particular, may make regulations —
+The Minister may, after consultation with the Commissioner of Civil Defence, make such regulations as he or she may consider necessary or expedient for giving effect to this Part and, in particular, may make regulations —
 
 (a) relating to the making of applications under this Part; and
 
@@ -13,4 +13,4 @@ The Minister may, after consultation with the Commissioner of Civil Defence, mak
 
 (iii) the fees payable for the purposes of this Part; and
 
-(iv) such other matters which are required to be prescribed for the purpose of this Part.
+(iv) any other matters which are required to be prescribed for the purpose of this Part.

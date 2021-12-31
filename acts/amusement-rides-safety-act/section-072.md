@@ -1,17 +1,17 @@
 # 72. Regulations
-Part: PART X MISCELLANEOUS
+Part: PART 10 MISCELLANEOUS
 
 (1) The Minister may make regulations for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or in respect of all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or in respect of all or any of the following matters:
 
-(a) the making of any application for and the issue of any permit, consent, permission or approval under this Act;
+(a) the making of any application for, and the issue of, any permit, consent, permission or approval under this Act;
 
 (b) the regulation of the design, specifications, manufacture, installation, operation, modification, relocation, maintenance and repair of amusement rides, including the following:
 
 (i) the properties and design strength of the materials to be used in the construction of an amusement ride;
 
-(ii) the speed at which an amusement ride may be opened;
+(ii) the speed at which an amusement ride may be operated;
 
 (iii) the equipment, drives, brakes, anchorages, tensioning devices and safety devices to be incorporated as part of the amusement ride;
 
@@ -29,9 +29,9 @@ Part: PART X MISCELLANEOUS
 
 (e) the procedure for the inspection of amusement rides by the Commissioner or any enforcement officer;
 
-(f) the requirements that a person must satisfy before he may be appointed as a ride manager;
+(f) the requirements that a person must satisfy before he or she may be appointed as a ride manager;
 
-(g) the making of reports to the Commissioner concerning any adverse incident that has occurred in respect of an amusement ride and the conduct of investigations into any such adverse incident;
+(g) the making of reports to the Commissioner concerning any adverse incident that has occurred in respect of an amusement ride and the conduct of investigations into that adverse incident;
 
 (h) the types of amusement rides that are to be considered as major amusement rides for the purposes of this Act and the types of amusement rides to which this Act will not apply;
 
@@ -49,7 +49,7 @@ Part: PART X MISCELLANEOUS
 
 (iii) the ride manager of an amusement ride;
 
-(m) the manner in which appeals may be made to and determined by the Minister under this Act and the documents, information and other particulars to be furnished to the Minister by the appellant and the Commissioner in connection therewith;
+(m) the manner in which appeals may be made to and determined by the Minister under this Act and the documents, information and other particulars to be provided to the Minister by the appellant and the Commissioner in connection with such appeals;
 
 (n) the prescribing of the forms for use for the purposes of this Act;
 
@@ -59,4 +59,6 @@ Part: PART X MISCELLANEOUS
 
 (q) such other matters as may be necessary or expedient to be prescribed or provided for to facilitate the effective administration and enforcement of this Act.
 
-(3) The Minister may, in making any regulations under this section, provide that any contravention of any of the provisions of such regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.
+[4/2014]
+
+(3) The Minister may, in making any regulations under this section, provide that any contravention of any of the provisions of those regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.
