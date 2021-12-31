@@ -1,19 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-UNITED NATIONS ACT
-(CHAPTER 339)
-Act
-44 of 2001
-REVISED EDITION 2002
-(31st July 2002)
+UNITED NATIONS ACT 2001
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to enable Singapore to fulfil its obligations respecting Article 41 of the Charter of the United Nations.
 
-[29th October 2001]
+[29 October 2001]

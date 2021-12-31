@@ -1,3 +1,9 @@
-# LEGISLATIVE HISTORY UNITED NATIONS ACT (CHAPTER 339)
+# LEGISLATIVE HISTORY UNITED NATIONS ACT 2001
 
-Act 44 of 2001 — United Nations Act 2001 Date of First Reading : 5.10.2001 (Bill No. 42/2001 published on 5.10.2001) Date of Second and Third Readings : 15.10.2001 Date of commencement : 29.10.2001
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Act 44 of 2001 — United Nations Act 2001 Bill : 42/2001 First Reading : 5 October 2001 Second and Third Readings : 15 October 2001 Commencement : 29 October 2001 2. 2002 Revised Edition — United Nations Act (Chapter 339) Operation : 31 July 2002 3. Act 9 of 2003 — Statutes (Miscellaneous Amendments) Act 2003 (Amendments made by section 16 read with item (7) of the Schedule to the above Act) Bill : 7/2003 First Reading : 20 March 2003 Second and Third Readings : 24 April 2003 Commencement : 16 May 2003 (section 16 read with item (7) of the Schedule) 4. Act 4 of 2014 — Statutes (Miscellaneous Amendments) Act 2014 (Amendments made by section 14 of the above Act) Bill : 25/2013 First Reading : 11 November 2013 Second and Third Readings : 21 January 2014 Commencement : 10 March 2014 (section 14) 5. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 49 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 49) 6. Act 44 of 2018 — Variable Capital Companies Act 2018 (Amendments made by section 167(6) of the above Act) Bill : 40/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 14 January 2020 (section 167(6))
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

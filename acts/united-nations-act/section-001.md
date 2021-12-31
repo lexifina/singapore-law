@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the United Nations Act.
+This Act is the United Nations Act 2001.
