@@ -1,0 +1,3 @@
+# 9. Who to be deemed General of the Salvation Army
+
+Upon the lodging at the office of the Minister of a copy or copies certified by the Chief of the Staff of the Salvation Army or the Commissioner acting for the time being as the Chief of the Staff of the Salvation Army of a document or documents purporting to be or to record the appointment of and acceptance of office by a General of the Salvation Army it shall be deemed to be conclusive in evidence that the person named in such certified copy or copies is the person duly authorised to exercise the office of the General for the time being of the Salvation Army until the recording and lodging of a similarly certified copy or copies as aforesaid.
