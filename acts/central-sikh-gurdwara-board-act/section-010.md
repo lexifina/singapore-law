@@ -1,0 +1,7 @@
+# 10. Minutes
+
+(1) The Secretary of the Board shall keep minutes of all meetings of the Board and at every meeting the minutes of the previous meeting, which shall have been previously circulated to members of the Board, shall be confirmed, subject to any amendment which may be required.
+
+(2) The minutes referred to in subsection (1) shall be entered in the minute book of the Board and shall include a full record of every resolution of the Board.
+
+[6/87]
