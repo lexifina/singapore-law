@@ -1,23 +1,22 @@
-# 16. Hong Kong practitioners
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
-Division: Division 2 — Qualified persons
+# 16. Roll of advocates and solicitors
+Part: PART 2A ADMISSION OF ADVOCATES AND SOLICITORS
 
-(1) The following provisions shall apply to a Hong Kong practitioner who has been admitted as an advocate and solicitor under this section pursuant to a petition filed before 1st January 1995:
+(1) The Registrar must maintain a roll of advocates and solicitors with the dates of their respective admissions.
 
-(a) he shall not practise as an advocate and solicitor unless he is a partner or an associate of, or is employed by, an advocate and solicitor of at least 12 years’ standing;
+[8/2011]
 
-(b) if he has practised as an advocate and solicitor in accordance with the restriction under paragraph (a) for a period of at least 2 years and has during that period resided in Singapore for at least 12 months in the aggregate, he shall be entitled to practise as an advocate and solicitor without being subject to that restriction.
+(2) The name, with the date of admission, of every person admitted must be entered upon the roll in order of admission.
 
-[17/84]
+[8/2011]
 
-(2) The Minister may exempt any Hong Kong practitioner from subsection (1)(a) where he is of the opinion that the Hong Kong practitioner is of sufficient standing and experience to be so exempted.
+(3) Every person admitted as an advocate and solicitor must pay the fee prescribed under section 189 for the purposes of this subsection, and the Registrar must deliver to him or her an instrument of admission signed by the Chief Justice or the Judge who admitted the applicant.
 
-[17/84]
+[8/2011; 40/2014]
 
-(3) In this section —
+(4) If, at any time after the admission of any person as an advocate and solicitor, it is shown to the satisfaction of the court that any application, affidavit, certificate or other document filed by the person contains any substantially false statement or a suppression of any material fact, or that any such certificate was obtained by fraud or misrepresentation, the name of the person must be struck off the roll.
 
-‘‘associate’’, in relation to an advocate and solicitor, means a person who is neither a partner nor an employee of that advocate and solicitor but carries on practice in the same office and maintains separate accounts;
+[8/2011]
 
-‘‘Hong Kong practitioner’’ means any person who is entitled to practise as a barrister or solicitor in Hong Kong.
+(5) This section does not apply to persons admitted under section 15.
 
-[17/84]
+[8/2011]

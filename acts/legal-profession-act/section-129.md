@@ -1,7 +1,7 @@
 # 129. Interest on client’s money
-Part: PART IX RECOVERY AND TAXATION OF COSTS
+Part: PART 9 RECOVERY AND TAXATION OF COSTS
 
-(1) Rules made under section 72 shall make provision for requiring a solicitor, in such cases as may be prescribed by those rules, either —
+(1) Rules made under section 72 are to make provision for requiring a solicitor, in such cases as may be prescribed by those rules, either —
 
 (a) to keep, on deposit in a separate account at a bank for the benefit of the client, money received for or on account of a client; or
 
@@ -11,10 +11,10 @@ Part: PART IX RECOVERY AND TAXATION OF COSTS
 
 (3) Those rules may include provision for enabling a client (without prejudice to any other remedy) to require that any question arising under those rules in relation to the client’s money be referred to and determined by the Society.
 
-(4) Subject to any rules made under this section, a solicitor shall not be liable by virtue of the relation between solicitor and client to account to any client for interest received by the solicitor on moneys deposited at a bank being moneys received or held for or on account of his clients generally.
+(4) Subject to any rules made under this section, a solicitor is not liable by virtue of the relation between solicitor and client to account to any client for interest received by the solicitor on moneys deposited at a bank being moneys received or held for or on account of his or her clients generally.
 
-(5) Nothing in this section, or in any rules made thereunder, shall —
+(5) Nothing in this section, or in any rules made thereunder —
 
-(a) affect any arrangement in writing, whenever made, between a solicitor and his client as to the application of the client’s money or interest thereon; or
+(a) affects any arrangement in writing, whenever made, between a solicitor and his or her client as to the application of the client’s money or interest thereon; or
 
-(b) apply to money received by a solicitor being money subject to a trust of which the solicitor is a trustee.
+(b) applies to money received by a solicitor being money subject to a trust of which the solicitor is a trustee.

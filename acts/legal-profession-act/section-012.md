@@ -1,21 +1,36 @@
-# 12. Qualifications for admission
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
-Division: Division 2 — Qualified persons
+# 12. Admission as advocate and solicitor of Supreme Court
+Part: PART 2A ADMISSION OF ADVOCATES AND SOLICITORS
 
-(1) Subject to section 15, no qualified person shall be admitted as an advocate and solicitor unless he —
+(1) Subject to the provisions of this Act (including any rules made under this section or section 2(2), 10 or 14), the court may, in its discretion, admit any qualified person as an advocate and solicitor of the Supreme Court.
 
-(a) has attained the age of 21 years;
+[8/2011]
 
-(b) is of good character;
+(2) Any qualified person who applies to be admitted under this section must —
 
-(c) has satisfactorily served the prescribed period of pupillage for qualified persons;
+(a) do so in accordance with, and comply with all applicable requirements of, any rules made under section 10(2)(g);
 
-(d) has attended such courses of instruction and kept such dining terms as may be prescribed by the Board; and
+and
 
-(e) has passed such examinations as may be prescribed by the Board.
+(b) if he or she belongs to such class of qualified persons as the Minister may prescribe under subsection (6), do so within such time as the Minister may prescribe under that subsection.
 
-[35/2001]
+[8/2011]
 
-(2) Notwithstanding subsection (1)(d) and (e), the Board may, in its discretion, exempt a qualified person from attending such courses of instruction, keeping such dining terms and passing such examinations as may be prescribed by the Board if the Board is of the opinion that that qualified person is, by reason of his experience or for other cause, a fit and proper person to be so exempted.
+(3) The court must not admit under this section any qualified person who is required, but fails, to comply with subsection (2)(b).
 
-[35/2001]
+[8/2011]
+
+(4) The Attorney-General, the Society and the Institute are entitled to object to any application under subsection (2).
+
+[8/2011]
+
+(5) Any other person who has filed and served a notice of objection in relation to an application under subsection (2), in accordance with any rules made under section 10(2)(g), is entitled to object to that application.
+
+[8/2011]
+
+(6) The Minister may, after consulting the Board of Directors of the Institute, make rules to prescribe —
+
+(a) the classes of qualified persons to whom subsection (2)(b) applies; and
+
+(b) in respect of each such class of qualified persons, the time within which a qualified person belonging to that class must make the application under subsection (2).
+
+[8/2011]

@@ -1,12 +1,25 @@
-# 136. Relief to banks
-Part: PART X MISCELLANEOUS
+# 136. Rules on law firms
+Part: PART 9A LAW PRACTICE ENTITIES Division 1 — Law Firms
+Division: Division
 
-(1) Subject to this section, no bank shall, in connection with any transaction on account of any solicitor or law corporation or limited liability law partnership kept with it or with any other bank (other than an account kept by a solicitor as trustee for a specified beneficiary), incur any liability or be under any obligation to make any inquiry, or be deemed to have any knowledge of any right of any person to any money paid or credited to any such account, which it would not incur or be under or be deemed to have in the case of an account kept by a person entitled absolutely to all the money paid or credited to it.
+(1) The Minister may make rules for the purposes of this Division.
 
-[4/2000; 41/2005]
+[40/2014]
 
-(2) Nothing in subsection (1) shall relieve a bank from any liability or obligation under which it would be apart from section 73 or this section.
+(2) Without limiting subsection (1), any rules made under that subsection may —
 
-(3) Notwithstanding subsection (1), a bank at which a solicitor or law corporation or limited liability law partnership keeps an account for clients’ moneys shall not, in respect of any liability of the solicitor or law corporation or limited liability law partnership to the bank, not being a liability in connection with that account, have or obtain any recourse or right, whether by way of set-off, counterclaim, charge or otherwise, against moneys standing to the credit of that account.
+(a) prescribe anything which may be prescribed under this Division;
 
-[4/2000; 41/2005]
+(b) provide for restrictions to be imposed on persons or classes of persons who may be partners in a law firm;
+
+(c) provide for the payment of fees (including administrative fees and processing fees) and other charges for applications made under this Division or any rules made under this Division, and for related matters;
+
+(d) provide for the suspension, revocation or lapsing of any law firm licence;
+
+(e) provide for the keeping of accounts by a law firm and for the matters set out in section 72;
+
+(f) exempt any person or entity or any class of persons or entities from, or modify the application in relation to any person or entity or any class of persons or entities of, any provision of this Division; and
+
+(g) prescribe such transitional, savings, incidental, consequential or supplementary provisions as may be necessary or expedient.
+
+[40/2014]

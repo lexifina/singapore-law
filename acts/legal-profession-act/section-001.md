@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Legal Profession Act.
+This Act is the Legal Profession Act 1966.

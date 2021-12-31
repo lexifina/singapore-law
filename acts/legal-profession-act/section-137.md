@@ -1,6 +1,11 @@
-# 137. Jurisdiction of court
-Part: PART X MISCELLANEOUS
+# 137. Interpretation of this Division
+Part: PART 9A LAW PRACTICE ENTITIES Division 1 — Law Firms
+Division: Division 2 — Limited Liability Law Partnerships
 
-Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+In this Division, unless the context otherwise requires —
 
-[20/2007]
+“legal services” means the legal services which a solicitor can lawfully perform under this Act;
+
+“limited liability partnership agreement”, “manager” and “officer” have the meanings given by the Limited Liability Partnerships Act 2005.
+
+[40/2014]

@@ -1,0 +1,27 @@
+# 145. Regulatory control over limited liability law partnership
+Part: PART 9A LAW PRACTICE ENTITIES Division 1 — Law Firms
+Division: Division 2 — Limited Liability Law Partnerships
+
+(1) The Director of Legal Services may, by written notice to a limited liability law partnership, do any of the following things, if the Director of Legal Services is satisfied that there is sufficient reason for doing so:
+
+(a) suspend or revoke the limited liability law partnership licence which was issued to the limited liability law partnership;
+
+(b) order the limited liability law partnership to pay a penalty of not more than $100,000;
+
+(c) give a warning to the limited liability law partnership.
+
+[40/2014]
+
+(2) Without limiting subsection (1), the Director of Legal Services may, by written notice to a limited liability law partnership, do anything referred to in subsection (1)(a), (b) or (c), if —
+
+(a) the limited liability law partnership contravenes Part 5A or any rules made under section 70H, or fails to comply with any requirement under this Division;
+
+(b) the limited liability law partnership fails to comply with any condition subject to which its limited liability law partnership licence was issued; or
+
+(c) the Director of Legal Services is satisfied that it is in the public interest to do so.
+
+[40/2014]
+
+(3) Before doing under subsection (1) or (2) anything referred to in subsection (1)(a), (b) or (c), the Director of Legal Services must give the limited liability law partnership not less than 14 days after the date of the notice to make representations in writing.
+
+[40/2014]

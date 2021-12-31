@@ -1,27 +1,20 @@
-# 13. Periods of pupillage
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
-Division: Division 2 — Qualified persons
+# 13. Requirements for admission
+Part: PART 2A ADMISSION OF ADVOCATES AND SOLICITORS
 
-(1) For the purposes of this Part, a qualified person shall, during his period of pupillage, be known as a pupil and a person with whom a pupil serves his period of pupillage or any part thereof shall be known as a master.
+(1) Subject to any rules made under section 14, a qualified person must not be admitted as an advocate and solicitor unless he or she —
 
-(2) Subject to this section and section 14, the prescribed period of pupillage shall be 6 months.
+(a) has attained 21 years of age;
 
-[10/91]
+(b) is of good character;
 
-(3) A pupil shall, before his application for admission is heard, attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12(2).
+(c) has satisfactorily served the practice training period applicable to him or her;
 
-[42/2005]
+(d) has attended and satisfactorily completed such courses of instruction as the Board of Directors of the Institute may prescribe under section 10; and
 
-(4) No person shall, without the special leave in writing of the Board, hold any office or engage in any employment of whatsoever kind and whether full-time or part-time during his period of pupillage.
+(e) has passed such examinations as the Board of Directors of the Institute may prescribe under section 10.
 
-(5) Subsection (4) shall not —
+[8/2011]
 
-(a) apply to service as a legal officer;
+(2) A person who is a qualified person by reason of his or her having passed the final examination for a law degree in any institution of higher learning pursuant to any rules made under section 2(2) must not be admitted as an advocate and solicitor before the law degree is conferred upon him or her.
 
-(b) apply to service as an Assistant Public Prosecutor in the Attorney-General’s Chambers; or
-
-(c) preclude a pupil receiving remuneration from his master.
-
-[20/2007]
-
-(6) Where a pupil attends the course of instruction referred to in subsection (3) concurrently with his period of pupillage, the period spent in attendance at such course of instruction shall not be counted for the purpose of subsection (2).
+[8/2011]

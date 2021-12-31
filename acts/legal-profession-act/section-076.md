@@ -1,4 +1,4 @@
 # 76. Solicitors who are commissioners for oaths or notaries public
-Part: PART VI PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
+Part: PART 6 PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE
 
-No solicitor who is a commissioner for oaths or a notary public shall do any act as such commissioner or notary, as the case may be, unless he has in force a practising certificate.
+A solicitor who is a commissioner for oaths or a notary public must not do any act as such commissioner or notary (as the case may be) unless he or she has in force a practising certificate.

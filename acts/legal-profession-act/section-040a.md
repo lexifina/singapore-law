@@ -1,17 +1,23 @@
-# 40A. Foreign practitioner members
-Part: PART V THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
+# 40A. Associate members
+Part: PART 5 THE LAW SOCIETY OF SINGAPORE Division 1 — Establishment, purposes and powers of Society
 Division: Division 2 — Members of Society and subscriptions
 
-(1) Every foreign lawyer who is —
+(1) Every foreign lawyer who —
 
-(a) registered by the Attorney-General under section 130I to practise Singapore law in a Joint Law Venture;
+(a) is registered under section 36B or 36D; or
 
-(b) registered by the Attorney-General under section 130J to practise Singapore law in a Singapore law practice; or
+(b) is granted an approval under section 176(1), becomes, without election, admission or appointment, a member of the Society and remains a member under this section so long and only so long as his or her registration or approval (as the case may be) continues in force.
 
-(c) granted the approval of the Attorney-General under section 130L, shall, without election, admission or appointment, become a member of the Society and remain a member under this section so long and only so long as his registration referred to in paragraph (a) or (b) or his approval referred to in paragraph (c) continues in force.
+[40/2014]
 
-[20/2007; 19/2008]
+(2) Every foreign lawyer who —
 
-(2) Every foreign lawyer who is a member of the Society under subsection (1) shall be referred to in this Act as a foreign practitioner member.
+(a) is registered under section 36C but does not have an approval under section 176(1); and
 
-[20/2007]
+(b) applies for membership of the Society in the prescribed manner, is admitted as a member of the Society and remains a member under this section so long and only so long as his or her registration continues in force.
+
+[40/2014]
+
+(3) Every foreign lawyer who is a member of the Society under subsection (1) or (2) is called in this Act an associate member.
+
+[40/2014]

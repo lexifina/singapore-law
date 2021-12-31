@@ -1,10 +1,24 @@
-# 7. Board may approve certain persons as qualified persons
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+# 7. Appointment of committees and delegation
+Part: PART 2 SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
-(1) The Board may, in its discretion, upon an application made to it by any person who is not otherwise entitled to become a qualified person but who, in the opinion of the Board, possesses such qualification or expertise as would contribute to, promote or enhance the quality of legal services in Singapore or the economic or technological development of Singapore, approve the person as a qualified person for the purpose of this Act and issue to him a certificate to that effect.
+(1) The Board of Directors of the Institute may appoint, from among the members of the Board or from other persons, such number of committees as the Board thinks fit for purposes which, in the opinion of the Board, would be more expediently carried out or managed by means of such committees.
 
-[35/2001]
+[8/2011]
 
-(2) Notwithstanding section 22, any decision of the Board under subsection (1) shall be final and shall not be subject to appeal or review in any court.
+(2) The Board of Directors of the Institute may, subject to such conditions or restrictions as the Board thinks fit, delegate any function or power that may be performed or exercised by the Board under this Act or any other written law, except the power of delegation conferred by this section and the power to make subsidiary legislation, to —
 
-[41/93]
+(a) the Chairperson of the Institute or any other member of the Board;
+
+(b) the Dean of the Institute, or any other officer or employee of the Institute; or
+
+(c) any committee appointed under subsection (1).
+
+[8/2011]
+
+(3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Institute.
+
+[8/2011]
+
+(4) No delegation under this section prevents the performance or exercise of any function or power by the Board of Directors of the Institute.
+
+[8/2011]

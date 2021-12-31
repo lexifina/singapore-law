@@ -1,10 +1,18 @@
-# 9. Chairman, Deputy Chairman and Secretary
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+# 9. Passing of resolution of Board of Directors of Institute by written means
+Part: PART 2 SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
-(1) The Board shall every year elect a Chairman and a Deputy Chairman who shall so long as they continue to be members of the Board be eligible for re-election.
+(1) Despite section 8, the Board of Directors of the Institute may pass any resolution of the Board by written means.
 
-(2) The Chairman or, in his absence, the Deputy Chairman shall preside at meetings of the Board.
+[8/2011]
 
-(3) In the absence of the Chairman and the Deputy Chairman, the members of the Board shall elect an acting Chairman who shall have and exercise all the powers of the Chairman.
+(2) A resolution of the Board of Directors of the Institute is passed by written means if it has been formally agreed, in such manner as the Board may determine, on any date by a majority of the members of the Board.
 
-(4) The Board shall appoint a Secretary and such other officer as it considers necessary.
+[8/2011]
+
+(3) Any reference in this Act or any other law to a decision of the Board of Directors of the Institute includes a reference to a resolution of the Board passed by written means.
+
+[8/2011]
+
+(4) Any reference in this Act or any other law to the doing of anything by the Board of Directors of the Institute includes a reference to the passing of a resolution of the Board by written means which authorises the doing of that thing.
+
+[8/2011]

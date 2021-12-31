@@ -1,12 +1,8 @@
 # 31. Order of precedence of Senior Counsel in court
-Part: PART IV PRIVILEGES OF ADVOCATES AND SOLICITORS
+Part: PART 4 PRIVILEGES OF ADVOCATES AND SOLICITORS
 
-(1) Senior Counsel shall rank in precedence after the Attorney- General and the Solicitor-General according to their seniority of appointment as Senior Counsel.
+(1) Senior Counsel rank in precedence after the Attorney-General, any Deputy Attorney-General and the Solicitor-General according to their seniority of appointment as Senior Counsel.
 
-*Paragraph (e) of section 30(5) will be deleted and substituted by the following paragraph when item 1(26)(b) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+[41/2014]
 
-‘‘(e) becomes mentally disordered and incapable of managing himself or his affairs;’’.
-
-(2) If 2 or more Senior Counsel are appointed on the same day, they shall take precedence according to the date on which they were admitted as advocates and solicitors.
-
-[15/89]
+(2) If 2 or more Senior Counsel are appointed on the same day, they take precedence according to the date on which they were admitted as advocates and solicitors.

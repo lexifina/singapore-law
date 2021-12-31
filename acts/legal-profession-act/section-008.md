@@ -1,32 +1,34 @@
-# 8. Constitution of Board
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+# 8. Meetings of Board of Directors of Institute
+Part: PART 2 SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
-(1) The Board shall consist of —
+(1) The Board of Directors of the Institute may meet at such times and places as the Board, or the Chairperson of the Institute, may determine.
 
-(a) the Attorney-General;
+[8/2011]
 
-(b) the President of the Society;
+(2) A member of the Board of Directors of the Institute may participate in a meeting of the Board through such means of communication (such as over the telephone or through a live audio, live video or live television link) as the Board may determine.
 
-(c) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the School of Law of the Singapore Management University, in each case, being a qualified person;
+[8/2011]
 
-(d) 4 advocates and solicitors nominated by the Senate of the Academy after consultation with the Council; and
+(3) A member of the Board of Directors of the Institute who participates in a meeting of the Board in accordance with subsection (2) is deemed to be present at the meeting.
 
-(e) 3 other members nominated by the Senate of the Academy.
+[8/2011]
 
-[15/89; 35/2001; 20/2007]
+(4) A majority of the members of the Board of Directors of the Institute constitutes a quorum for any meeting of the Board.
 
-(2) The members of the Board, other than the Attorney-General, the President of the Society and the Deans appointed under subsection (1)(c), shall be nominated to hold office for a term of 3 years.
+[8/2011]
 
-[35/2001; 20/2007]
+(5) All questions arising at any meeting of the Board of Directors of the Institute are to be decided by a majority of the votes of the members present.
 
-(3) If for any reason the Attorney-General, the President of the Society or any of the Deans appointed under subsection (1)(c) is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Council or the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
+[8/2011]
 
-[35/2001; 20/2007]
+(6) At any meeting of the Board of Directors of the Institute, the Chairperson of the Institute has a deliberative vote and, in the event of an equality of votes, has a casting vote.
 
-(4) The persons nominated under subsection (1) shall be eligible for re-nomination.
+[8/2011]
 
-(5) When any vacancy in the Board occurs by death, resignation, insanity, bankruptcy or otherwise, the Board shall as soon as practicable take the necessary action to have the vacancy filled by the appropriate authority.
+(7) The Board of Directors of the Institute may regulate its own procedure and, in particular, the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
 
-(6) Any casual vacancy arising among the nominated members shall be filled by nomination by the appropriate authority and any such new member shall hold office for so long as the member in whose place he is appointed would have held office.
+[8/2011]
 
-(7) The validity of any proceedings of the Board is not affected by any vacancy among its members or by any defect in their appointment.
+(8) The validity of the proceedings of the Board of Directors of the Institute is not affected by any vacancy among its members or by any irregularity in the appointment of any member.
+
+[8/2011]

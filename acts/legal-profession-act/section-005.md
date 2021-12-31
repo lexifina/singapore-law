@@ -1,46 +1,38 @@
-# 5. General powers of Board
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+# 5. Board of Directors of Institute
+Part: PART 2 SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
-(1) In addition to the powers given by the other provisions of this Act, the Board may —
+(1) The management of the affairs of the Institute and its property is vested in a Board of Directors.
 
-(a) purchase or lease any land or building required for any of the purposes of this Act;
+[8/2011]
 
-(b) sell, surrender, lease, exchange or mortgage any land or building as may be found most convenient or advantageous;
+(2) The Board of Directors of the Institute may perform all such functions, and exercise all such powers, of the Institute as the Board thinks fit.
 
-(c) receive grants from the Government or from public funds or the Society or from any other person;
+[8/2011]
 
-(d) borrow money whether by way of bank overdraft or otherwise for such of the purposes of the Board as the Board may from time to time consider desirable; and
+(3) The Board of Directors of the Institute consists of the following members:
 
-(e) do all things for which it has power to make rules under subsections (3) and (4) and all things that are necessary to carry into effect the objects of this Part and the purposes of the Board.
+(a) the Attorney-General;
 
-(2) The Board may —
+(b) the president of the Society;
 
-(a) invest its moneys in such manner as it thinks fit; and
+(c) the Dean of the Faculty of Law of the National University of Singapore;
 
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+(d) the Dean of the School of Law of the Singapore Management University;
 
-[35/2001; 45/2004]
+(da) the Dean of the School of Law of the Singapore University of Social Sciences;
 
-(3) Subject to the provisions of this Part, the Board shall have power to make rules to carry into effect the objects of this Part.
+(e) not less than 8 and not more than 12 other members, all of whom must be appointed by the president of the Academy, after consulting the Senate, for such period and on such terms and conditions as the president of the Academy may determine.
 
-(4) In particular and without prejudice to the generality of subsection (3), the Board may make rules —
+[8/2011; 16/2016; 30/2017]
 
-(a) for regulating the meetings and proceedings of the Board;
+(4) The president of the Academy must, after consulting the Senate, appoint the Chairperson of the Institute, from the members of the Board of Directors of the Institute, for such period and on such terms and conditions as the president of the Academy may determine.
 
-(b) with respect to the taking and retaining of pupils by masters and the conduct, duties and responsibilities of the parties;
+[8/2011]
 
-(c) for regulating the manner in which pupils keep dining terms and serve their period of pupillage;
+(5) The Senate may, after consulting the Board of Directors of the Institute, give such directions, not inconsistent with the provisions of this Act, to the Institute as to the performance of the Institute’s functions and the exercise of the Institute’s powers.
 
-(d) for specifying the subjects in which pupils shall attend courses of instruction;
+[8/2011]
 
-(e) for the examination from time to time of pupils;
+(6) The Institute must give effect to every direction of the Senate under subsection (5).
 
-(f) for the exemption of pupils from courses of instruction or examination;
-
-(g) for the appointment of lecturers and examiners and for the payment of fees to them;
-
-(h) for regulating the procedure whereby qualified persons who have satisfied the provisions of this Act are admitted as advocates and solicitors by the Supreme Court; and
-
-(i) for prescribing the forms to be used and the fees to be paid for the purposes of this Part.
-
-[35/2001]
+[8/2011]

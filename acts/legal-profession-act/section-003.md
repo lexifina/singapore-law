@@ -1,12 +1,16 @@
-# 3. Establishment of Board of Legal Education
-Part: PART II ADMISSION OF ADVOCATES AND SOLICITORS Division 1 — Board of Legal Education
+# 3. Establishment of Institute
+Part: PART 2 SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
-(1) There shall be established a body to be called the Board of Legal Education.
+(1) A body called the Singapore Institute of Legal Education is established.
 
-(2) The Board shall be a body corporate with perpetual succession and a common seal, with powers subject to the provisions of this Act —
+[8/2011]
+
+(2) The Institute is a body corporate with perpetual succession and a common seal, and with powers subject to the provisions of this Act —
 
 (a) to sue and be sued in its corporate name;
 
 (b) to acquire and dispose of property, both movable and immovable; and
 
-(c) to do and perform such other acts as bodies corporate may by law perform.
+(c) to do and perform any other acts that bodies corporate may by law perform.
+
+[8/2011]

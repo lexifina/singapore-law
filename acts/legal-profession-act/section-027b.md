@@ -1,11 +1,11 @@
 # 27B. Referral to Disciplinary Tribunal and suspension of practising certificates
-Part: PART III PRACTISING CERTIFICATES
+Part: PART 3 PRACTISING CERTIFICATES
 
-(1) Subject to subsection (1A), upon an application to a Judge by the Attorney-General or the Council, or on the hearing by a Judge of an application made under section 27A, the Judge may —
+(1) Upon an application to a Judge by the Attorney-General or the Council, or on the hearing by a Judge of an application made under section 27A, the Judge may —
 
 (a) where the Judge is satisfied that cause of sufficient gravity for disciplinary action against a solicitor exists —
 
-(i) request the Society under section 85(3)(b) to refer the matter to a Disciplinary Tribunal unless the matter had been or is being dealt with under Part VII or is to be dealt with under section 94A; and
+(i) request the Society under section 85(3)(b) to refer the matter to a Disciplinary Tribunal unless the matter had been or is being dealt with under Part 7 or is to be dealt with under section 94A; and
 
 (ii) order that the solicitor’s current practising certificate be suspended; or
 
@@ -17,25 +17,13 @@ Part: PART III PRACTISING CERTIFICATES
 
 (iii) the Judge is satisfied that the solicitor is incapacitated by illness or accident, or by the solicitor’s physical or mental condition, to such extent as to be unable to attend to the solicitor’s practice.
 
-[19/2008]
+[40/2014]
 
-(1A) The Council shall not be entitled to make an application under subsection (1) in relation to a solicitor without the consent of the Attorney-General, if the solicitor —
+(1A) [Deleted by Act 40 of 2014]
 
-(a) is registered by the Attorney-General under section 130N to practise Singapore law in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice;
+(2) Any application by the Attorney-General or the Council under subsection (1) must be made by originating summons which must be served on the solicitor.
 
-(b) does not practise in any Singapore law practice; and
-
-(c) undertakes not to practise in any Singapore law practice while his practising certificate remains in force.
-
-[19/2008]
-
-(2) Any application by the Attorney-General or the Council under subsection (1) shall be made by originating summons which shall be served on the solicitor.
-
-[40/96]
-
-(3) Where the Attorney-General or the Council makes an application under subsection (1), the Judge shall have, in addition to his powers under that subsection, the powers exercisable by him under section 27A.
-
-[40/96]
+(3) Where the Attorney-General or the Council makes an application under subsection (1), the Judge has, in addition to his or her powers under that subsection, the powers exercisable by the Judge under section 27A.
 
 (4) If, in a case where a Judge has made an order under subsection (1)(a)(ii) suspending a solicitor’s current practising certificate —
 
@@ -43,18 +31,12 @@ Part: PART III PRACTISING CERTIFICATES
 
 (b) the application made against the solicitor under section 98(1) is withdrawn or dismissed; or
 
-(c) an order has been made under section 98 that the solicitor be struck off the roll, suspended from practice or censured, or that the solicitor pay a penalty, the suspension of the practising certificate of the solicitor shall terminate immediately.
+(c) an order has been made under section 98 that the solicitor be struck off the roll, suspended from practice or censured, or that the solicitor pay a penalty, the suspension of the practising certificate of the solicitor terminates immediately.
 
-[40/96; 42/2005; 19/2008]
+(5) Nothing in subsection (4) is to be construed as affecting the power of the court of 3 Supreme Court Judges to suspend a solicitor from practice on an application under section 98(1).
 
-(5) Nothing in subsection (4) shall be construed as affecting the power of the court of 3 Judges of the Supreme Court to suspend a solicitor from practice on an application under section 98(1).
+[40/2019]
 
-[40/96; 42/2005; 19/2008]
+(6) Where the suspension of the practising certificate of a solicitor under this section has terminated by reason only of the expiry of the solicitor’s current practising certificate and not by reason of the occurrence of any of the events mentioned in subsection (4), the solicitor must not apply for another practising certificate until any of the events mentioned in subsection (4) has occurred; and if a practising certificate has been issued to the solicitor, that certificate ceases to be in force.
 
-(6) Where the suspension of the practising certificate of a solicitor under this section has terminated by reason only of the expiry of the solicitor’s current practising certificate and not by reason of the occurrence of any of the events mentioned in subsection (4), the solicitor shall not apply for another practising certificate until any of the events mentioned in subsection (4) has occurred; and if a practising certificate has been issued to him, that certificate shall cease to be in force.
-
-[40/96]
-
-(7) No appeal shall lie from any order made by a Judge under this section.
-
-[40/96]
+(7) No appeal lies from any order made by a Judge under this section.

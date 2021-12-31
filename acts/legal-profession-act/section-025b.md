@@ -1,24 +1,40 @@
 # 25B. Appeals in connection with issue of practising certificates
-Part: PART III PRACTISING CERTIFICATES
+Part: PART 3 PRACTISING CERTIFICATES
 
-(1) Where the Registrar has refused to issue a practising certificate or has issued to a solicitor a practising certificate subject to a condition under section 25A, the solicitor may, within one month of being notified by the Registrar of the decision, appeal to a Judge by originating summons.
+(1) A solicitor may, within one month after being notified by the Registrar of the Registrar’s decision to do any of the following, appeal to a Judge by originating summons:
 
-[40/96]
+(a) refuse the solicitor’s application for a practising certificate under section 25A;
 
-(2) Any appeal under subsection (1) shall be served on the Attorney-General and the Society, and the Attorney-General and the Society may appear at the hearing to make representations.
+(b) issue to the solicitor a practising certificate subject to one or more conditions under section 25A;
 
-[40/96]
+(c) refuse the solicitor’s application for a practising certificate under section 25AA(2)(a);
 
-(3) On such appeal, the Judge may —
+(d) order that the solicitor’s practising certificate be suspended under section 25AA(2)(b).
+
+[40/2014]
+
+(2) Any appeal under subsection (1) must be served on the Attorney-General and the Society, and the Attorney-General and the Society may appear at the hearing to make representations.
+
+(3) On an appeal against a decision referred to in subsection (1)(a) or (b), the Judge may —
 
 (a) direct the Registrar not to issue a practising certificate to the solicitor;
 
 (b) direct the Registrar to issue a practising certificate to the solicitor free of conditions or subject to such conditions as the Judge thinks fit; or
 
-(c) make such other order as the Judge thinks fit.
+(c) make any other order as the Judge thinks fit.
 
-[40/96]
+[40/2014]
 
-(4) No appeal shall lie from any order made by a Judge under this section.
+(3A) On an appeal against a decision referred to in subsection (1)(c) or (d), the Judge may —
 
-[40/96]
+(a) affirm the decision of the Registrar;
+
+(b) in the case of a decision referred to in subsection (1)(c), direct the Registrar to issue a practising certificate to the solicitor;
+
+(c) in the case of a decision referred to in subsection (1)(d), set aside the Registrar’s order under section 25AA(2)(b); or
+
+(d) make any other order as the Judge thinks fit.
+
+[40/2014]
+
+(4) No appeal lies from any order made by a Judge under this section.

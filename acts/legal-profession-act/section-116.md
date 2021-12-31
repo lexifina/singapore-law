@@ -1,30 +1,32 @@
 # 116. Interpretation and application of this Part
-Part: PART IX RECOVERY AND TAXATION OF COSTS
+Part: PART 9 RECOVERY AND TAXATION OF COSTS
 
 (1) In this Part —
 
-‘‘court’’ means the High Court, a Judge when sitting in open court or in chambers, a District Court or a Magistrate’s Court and includes the Registrar;
+“court” means the General Division of the High Court, a Family Court, a District Court or a Magistrate’s Court, and includes the Registrar;
 
-‘‘Registrar’’ means the Registrar of the Supreme Court or the Registrar of the Subordinate Courts, and includes —
+“Registrar” means the Registrar of the Supreme Court, the registrar of the Family Justice Courts or the registrar of the State Courts, and includes —
 
-(a) the Deputy Registrar of the Supreme Court;
+(a) the Deputy Registrar or an Assistant Registrar of the Supreme Court;
 
-(b) an Assistant Registrar of the Supreme Court; and
+(b) the deputy registrar or an assistant registrar of the Family Justice Courts; and
 
-(c) a Deputy Registrar of the Subordinate Courts;
+(c) a deputy registrar of the State Courts;
 
-‘‘solicitor’’ includes the executors, administrators and assignees of the solicitor in question and a law corporation or a limited liability law partnership.
+“solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation or a limited liability law partnership.
 
-[4/2000; 35/2001; 41/2005; 19/2008]
+[5/2014; 27/2014; 40/2019]
 
-(2) This Part —
+(2) This Part applies —
 
-(a) shall apply to all remuneration and costs received by a Singapore law practice or a solicitor practising in a Singapore law practice, including any such remuneration or costs received in respect of the practice of foreign law; and
+(a) to all remuneration and costs received by a Singapore law practice or a solicitor practising in a Singapore law practice, including any such remuneration or costs received in respect of the practice of foreign law; and
 
-(b) shall apply, with the necessary modifications, to all remuneration and costs received in respect of the practice of Singapore law by —
+(b) with the necessary modifications, to all remuneration and costs received in respect of the practice of Singapore law by —
 
-(i) a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice; or
+(i) a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice;
 
-(ii) a solicitor or foreign lawyer registered by the Attorney- General under Part IXA to practise Singapore law.
+(ii) a foreign lawyer registered under section 36B; or
 
-[19/2008]
+(iii) a solicitor registered under section 36E.
+
+[40/2014]
