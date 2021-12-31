@@ -5,16 +5,10 @@ Part: PART 3 MISCELLANEOUS
 
 (2) In making an order under subsection (1), the court —
 
-(a) shall exercise its discretion in accordance with section 10(7);
+(a) is to exercise its discretion in accordance with section 10(7); and
 
-and
+(b) may additionally have regard to the provisions of sections 6 to 9, but is not bound to apply those provisions.
 
-(b) may additionally have regard to the provisions of sections 6 to 9, but shall not be bound to apply those provisions.
+(3) No application under this section may be made after the expiry of a period of 2 years after the date on which the applicant discovered that the child who was born as a result of the fertilisation procedure was brought about under circumstances described in section 9(1).
 
-(3) No application under this section shall be made after the expiry of a period of 2 years after —
-
-(a) 1 October 2014; or
-
-(b) the date on which the applicant discovered that the child who was born as a result of the fertilisation procedure was brought about under circumstances described in section 9(1), whichever is the later.
-
-(4) Section 10 shall apply, with the necessary modifications, to an application made under this section.
+(4) Section 10 applies, with the necessary modifications, to an application made under this section.

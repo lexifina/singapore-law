@@ -1,7 +1,7 @@
 # 8. Court may order de facto partner to be treated as father
 Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
-(1) This section shall apply only if —
+(1) This section applies only if —
 
 (a) no man is treated as the father of a child by virtue of any provision in section 7;
 
@@ -17,7 +17,7 @@ Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
 (ii) at any time after she underwent a fertilisation procedure as a result of which she carried a child and she was not married to him at any time after the fertilisation procedure; and
 
-(b) the child was brought about with the sperm of the de facto partner, the court may, in its discretion and upon an application made under section 10, declare that the de facto partner shall be treated as the father of the child.
+(b) the child was brought about with the sperm of the de facto partner, the court may, in its discretion and upon an application made under section 10, declare that the de facto partner is to be treated as the father of the child.
 
 (3) Where —
 
@@ -25,7 +25,7 @@ Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
 (b) the child was not brought about with the sperm of the de facto partner; and
 
-(c) the de facto partner had consented to the gestational mother undergoing the fertilisation procedure at the time the fertilisation procedure was carried out, the court may, in its discretion and upon an application made under section 10, declare that the de facto partner shall be treated as the father of the child.
+(c) the de facto partner had consented to the gestational mother undergoing the fertilisation procedure at the time the fertilisation procedure was carried out, the court may, in its discretion and upon an application made under section 10, declare that the de facto partner is to be treated as the father of the child.
 
 (4) Where —
 
@@ -35,6 +35,6 @@ Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
 (c) the de facto partner did not consent to the gestational mother undergoing the fertilisation procedure at the time the fertilisation procedure was carried out; and
 
-(d) the de facto partner has nevertheless through a course of conduct accepted the child as a child of the relationship knowing that the child was not brought about with his sperm, the court may, in its discretion and upon an application made under section 10, declare that the de facto partner shall be treated as the father of the child.
+(d) the de facto partner has nevertheless through a course of conduct accepted the child as a child of the relationship knowing that the child was not brought about with his sperm, the court may, in its discretion and upon an application made under section 10, declare that the de facto partner is to be treated as the father of the child.
 
-(5) To avoid doubt, and without prejudice to section 10(9), a de facto partner to whom this section applies shall not be treated as the father of a child unless the court so declares.
+(5) To avoid doubt, and without affecting section 10(9), a de facto partner to whom this section applies is not to be treated as the father of a child unless the court so declares.

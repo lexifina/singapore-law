@@ -1,23 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY STATUS OF CHILDREN (ASSISTED REPRODUCTION TECHNOLOGY) ACT 2013
 
-STATUS OF CHILDREN (ASSISTED REPRODUCTION TECHNOLOGY) ACT (CHAPTER 317A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Status of Children (Assisted Reproduction Technology) Act. It is not part of the Act.
+1. Act 16 of 2013 — Status of Children (Assisted Reproduction Technology) Act 2013 Bill : 12/2013 First Reading : 8 July 2013 Second and Third Readings : 12 August 2013 Commencement : 1 October 2014 2. Act 27 of 2014 — Family Justice Act 2014 (Amendments made by section 73 of the above Act) Bill : 21/2014 First Reading : 8 July 2014 Second Reading : 4 August 2014 Notice of Amendments : 4 August 2014 Third Reading : 4 August 2014 Commencement : 1 October 2014 (section 73(a)) 1 January 2015 (section 73(b)) 3. 2015 Revised Edition — Status of Children (Assisted Reproduction Technology) Act (Chapter 317A) Operation : 31 May 2015 4. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 155 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 155 of the Schedule)
 
-1. Act 16 of 2013 — Status of Children (Assisted Reproduction Technology) Act 2013
+Abbreviations
 
-Date of First Reading : 8 July 2013 (Bill No. 12/2013)
-
-Date of Second and Third Readings : 12 August 2013
-
-Date of commencement : 1 October 2014
-
-2. Act 27 of 2014 — Family Justice Act 2014 (Consequential and related amendments made to Act by)
-
-Date of First Reading : 8 July 2014 (Bill No. 21/2014)
-
-Date of Second and Third Readings : 4 August 2014
-
-Dates of commencement : 1 October 2014 (section 73(a) —
-
-amendment of Status of Children (Assisted Reproduction Technology) Act 2013) 1 January 2015 (section 73(b))
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

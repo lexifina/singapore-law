@@ -1,7 +1,7 @@
 # 10. Application to determine parenthood
 Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
-(1) This section shall apply to all applications to determine the parenthood of a child under this Act.
+(1) This section applies to all applications to determine the parenthood of a child under this Act.
 
 (2) The following persons may apply to the court for an order to determine the parenthood of a child under this Act:
 
@@ -9,11 +9,11 @@ Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
 (b) a person claiming to be treated as the parent of a child pursuant to section 6, 7 or 9(2);
 
-(c) a person seeking a declaration by the court that he be treated as the parent of a child pursuant to section 8 or 9(3);
+(c) a person seeking a declaration by the court that the person be treated as the parent of a child pursuant to section 8 or 9(3);
 
 (d) any other person, with the leave of the court.
 
-(3) The court shall not grant leave to any person for the purpose of subsection (2)(d) unless it is satisfied that the person seeking leave has a sufficient interest in the parenthood of the child notwithstanding that he is not claiming to be treated as the parent of a child or seeking a court order declaring that he be treated as the parent of a child.
+(3) The court is not to grant leave to any person for the purpose of subsection (2)(d) unless it is satisfied that the person seeking leave has a sufficient interest in the parenthood of the child even though the person is not claiming to be treated as the parent of a child or seeking a court order declaring that the person be treated as the parent of a child.
 
 (4) An application to determine the parenthood of a child may only be made after the birth of the child.
 
@@ -23,7 +23,7 @@ Part: PART 2 PARENTHOOD IN CASES INVOLVING ASSISTED REPRODUCTION TECHNOLOGY
 
 (7) Where the parenthood of a child is to be determined in the discretion of the court pursuant to section 8 or 9(3) —
 
-(a) the welfare and best interests of the child shall be the first and paramount consideration of the court; and
+(a) the welfare and best interests of the child is to be the first and paramount consideration of the court; and
 
 (b) the court may have regard to all or any of the following matters, where applicable, in considering the welfare and best interests of the child:
 
