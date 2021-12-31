@@ -4,7 +4,7 @@
 
 (a) engaged or deployed by the Secretary-General of the United Nations as a member of the military, police or civilian component of a UN operation;
 
-(b) in his capacity as an official or expert on mission of the United Nations, a specialised agency of the United Nations or the International Atomic Energy Agency, present in an area where a UN operation is being conducted;
+(b) in the person’s capacity as an official or expert on mission of the United Nations, a specialised agency of the United Nations or the International Atomic Energy Agency, present in an area where a UN operation is being conducted;
 
 (c) assigned, with the agreement of an organ of the United Nations, by the government of any State or by an intergovernmental organisation to carry out activities in support of the fulfilment of the mandate of a UN operation;
 
@@ -48,6 +48,4 @@
 
 (a) a person is, or was at any time or in respect of any period, a UN worker; or
 
-(b) an operation is or was a UN operation, a written certificate issued under the hand of the Minister charged with the responsibility for foreign affairs and stating any fact relevant to the question shall be admissible as evidence of that fact until the contrary is proved.
-
-[IPPA, s. 3(2); UK UNPA, s. 4(1), (2) and (3)]
+(b) an operation is or was a UN operation, a written certificate issued under the hand of the Minister charged with the responsibility for foreign affairs and stating any fact relevant to the question is admissible as evidence of that fact until the contrary is proved.
