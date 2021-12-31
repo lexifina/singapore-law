@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the International Child Abduction Act.
+This Act is the International Child Abduction Act 2010.

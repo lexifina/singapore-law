@@ -24,19 +24,19 @@ The removal or the retention of a child is to be considered wrongful where —
 
 (b) at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention.
 
-The rights of custody mentioned in sub‑paragraph (a) above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.
+The rights of custody mentioned in sub-paragraph (a) above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.
 
 Article 4
 
 The Convention shall apply to any child who was habitually resident in a Contracting State immediately before any breach of custody or access rights. The Convention shall cease to apply when the child attains the age of 16 years.
-
-THE SCHEDULE — continued
 
 Article 5
 
 For the purposes of this Convention —
 
 (a) “rights of custody” shall include rights relating to the care of the person of the child and, in particular, the right to determine the child’s place of residence;
+
+THE SCHEDULE — continued
 
 (b) “rights of access” shall include the right to take a child for a limited period of time to a place other than the child’s habitual residence.
 
@@ -66,11 +66,11 @@ In particular, either directly or through any intermediary, they shall take all 
 
 (h) to provide such administrative arrangements as may be necessary and appropriate to secure the safe return of the child;
 
-THE SCHEDULE — continued
-
 (i) to keep each other informed with respect to the operation of this Convention and, as far as possible, to eliminate any obstacles to its application.
 
-CHAPTER III ― RETURN OF CHILDREN
+THE SCHEDULE — continued
+
+CHAPTER III — RETURN OF CHILDREN
 
 Article 8
 
@@ -102,13 +102,13 @@ Article 10
 
 The Central Authority of the State where the child is shall take or cause to be taken all appropriate measures in order to obtain the voluntary return of the child.
 
-THE SCHEDULE — continued
-
 ... ... ...
 
 Article 12
 
-Where a child has been wrongfully removed or retained in terms of Article 3 and, at the date of the commencement of the proceedings before the judicial or administrative authority of the Contracting State where the child is, a period of less than one year has elapsed from the date of the wrongful removal or retention, the authority concerned shall order the return of the child forthwith.
+Where a child has been wrongfully removed or retained in terms of Article 3 and, at the date of the commencement of the proceedings before the judicial or THE SCHEDULE — continued
+
+administrative authority of the Contracting State where the child is, a period of less than one year has elapsed from the date of the wrongful removal or retention, the authority concerned shall order the return of the child forthwith.
 
 The judicial or administrative authority, even where the proceedings have been commenced after the expiration of the period of one year referred to in the preceding paragraph, shall also order the return of the child, unless it is demonstrated that the child is now settled in its new environment.
 
@@ -126,11 +126,11 @@ The judicial or administrative authority may also refuse to order the return of 
 
 In considering the circumstances referred to in this Article, the judicial and administrative authorities shall take into account the information relating to the social background of the child provided by the Central Authority or other competent authority of the child’s habitual residence.
 
-THE SCHEDULE — continued
-
 Article 14
 
 In ascertaining whether there has been a wrongful removal or retention within the meaning of Article 3, the judicial or administrative authorities of the requested State may take notice directly of the law of, and of judicial or administrative decisions, formally recognised or not in the State of the habitual residence of the child, without recourse to the specific procedures for the proof of that law or for the recognition of foreign decisions which would otherwise be applicable.
+
+THE SCHEDULE — continued
 
 Article 15
 
@@ -150,13 +150,11 @@ Article 19
 
 A decision under this Convention concerning the return of the child shall not be taken to be a determination on the merits of any custody issue.
 
-THE SCHEDULE — continued
-
 Article 20
 
 The return of the child under the provisions of Article 12 may be refused if this would not be permitted by the fundamental principles of the requested State relating to the protection of human rights and fundamental freedoms.
 
-CHAPTER IV ― RIGHTS OF ACCESS
+CHAPTER IV — RIGHTS OF ACCESS
 
 Article 21
 
@@ -164,11 +162,13 @@ An application to make arrangements for organising or securing the effective exe
 
 The Central Authorities are bound by the obligations of co-operation which are set forth in Article 7 to promote the peaceful enjoyment of access rights and the fulfilment of any conditions to which the exercise of those rights may be subject.
 
+THE SCHEDULE — continued
+
 The Central Authorities shall take steps to remove, as far as possible, all obstacles to the exercise of such rights.
 
 The Central Authorities, either directly or through intermediaries, may initiate or assist in the institution of proceedings with a view to organising or protecting these rights and securing respect for the conditions to which the exercise of these rights may be subject.
 
-CHAPTER V ― GENERAL PROVISIONS
+CHAPTER V — GENERAL PROVISIONS
 
 Article 22
 
@@ -188,11 +188,11 @@ Article 26
 
 Each Central Authority shall bear its own costs in applying this Convention.
 
-THE SCHEDULE — continued
-
 Central Authorities and other public services of Contracting States shall not impose any charges in relation to applications submitted under this Convention. In particular, they may not require any payment from the applicant towards the costs and expenses of the proceedings or, where applicable, those arising from the participation of legal counsel or advisers. However, they may require the payment of the expenses incurred or to be incurred in implementing the return of the child.
 
 However, a Contracting State may, by making a reservation in accordance with Article 42, declare that it shall not be bound to assume any costs referred to in the preceding paragraph resulting from the participation of legal counsel or advisers or from court proceedings, except insofar as those costs may be covered by its system of legal aid and advice.
+
+THE SCHEDULE — continued
 
 Upon ordering the return of a child or issuing an order concerning rights of access under this Convention, the judicial or administrative authorities may, where appropriate, direct the person who removed or retained the child, or who prevented the exercise of rights of access, to pay necessary expenses incurred by or on behalf of the applicant, including travel expenses, any costs incurred or payments made for locating the child, the costs of legal representation of the applicant, and those of returning the child.
 
@@ -208,8 +208,6 @@ Article 29
 
 This Convention shall not preclude any person, institution or body who claims that there has been a breach of custody or access rights within the meaning of Article 3 or 21 from applying directly to the judicial or administrative authorities of a Contracting State, whether or not under the provisions of this Convention.
 
-THE SCHEDULE — continued
-
 Article 30
 
 Any application submitted to the Central Authorities or directly to the judicial or administrative authorities of a Contracting State in accordance with the terms of this Convention, together with documents and any other information appended thereto or provided by a Central Authority, shall be admissible in the courts or administrative authorities of the Contracting States.
@@ -221,6 +219,8 @@ In relation to a State which in matters of custody of children has two or more s
 (a) any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit of that State;
 
 (b) any reference to the law of the State of habitual residence shall be construed as referring to the law of the territorial unit in that State where the child habitually resides.
+
+THE SCHEDULE — continued
 
 Article 32
 

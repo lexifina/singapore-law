@@ -1,5 +1,5 @@
-# 18. Legal advice 1
-Part: PART IV LEGAL AID AND ADVICE
+# 18. Legal advice
+Part: PART 4 LEGAL AID AND ADVICE
 
 Subject to the provisions of this Part, on the application of any person who is a citizen of, or habitually resident in, Singapore or a Contracting State —
 

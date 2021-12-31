@@ -1,5 +1,5 @@
 # 17. Legal aid
-Part: PART IV LEGAL AID AND ADVICE
+Part: PART 4 LEGAL AID AND ADVICE
 
 Subject to the provisions of this Part, the Director may grant legal aid in connection with any proceedings under section 8 or 14 to any person —
 

@@ -1,4 +1,4 @@
 # 16. Administration of legal aid and advice
-Part: PART IV LEGAL AID AND ADVICE
+Part: PART 4 LEGAL AID AND ADVICE
 
-The provision of legal aid and advice under this Part shall be administered by the Director.
+The provision of legal aid and advice under this Part is to be administered by the Director.
