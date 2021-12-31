@@ -1,7 +1,7 @@
 # 32. Requirement for approval of Commissioner to act
-Part: PART VII SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
+Part: PART 7 SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS
 
-No person shall act as —
+A person must not act as —
 
 (a) an authorised examiner for the purpose of carrying out any prescribed examination or test of any —
 
@@ -25,8 +25,8 @@ No person shall act as —
 
 (b) a workplace safety and health officer;
 
-(c) a workplace safety and health co-ordinator;
+(c) a workplace safety and health coordinator;
 
 (d) a workplace safety and health auditor; or
 
-(e) an accredited training provider, (referred to in this Part as an authorised person) except with the approval of the Commissioner.
+(e) an accredited training provider, (called in this Part an authorised person) except with the approval of the Commissioner.

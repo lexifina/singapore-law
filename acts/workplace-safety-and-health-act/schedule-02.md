@@ -1,23 +1,7 @@
 # SECOND SCHEDULE
 
-Section 4(1)
+Sections 4(1) and 64(1)
 
-DANGEROUS OCCURRENCES
+OCCUPATIONAL DISEASES 1. Aniline poisoning 2. Anthrax 3. Arsenical poisoning 4. Asbestosis 5. Barotrauma 6. Beryllium poisoning 7. Byssinosis 8. Cadmium poisoning 9. Carbamate poisoning 10. Compressed air illness or its sequelae, including dysbaric osteonecrosis 11. Cyanide poisoning 12. Diseases caused by ionizing radiation 13. Diseases caused by excessive heat 14. Hydrogen Sulphide poisoning 15. Lead poisoning 16. Leptospirosis 17. Liver angiosarcoma 18. Manganese poisoning SECOND SCHEDULE — continued 19. Mercurial poisoning 20. Mesothelioma 21. Noise-induced deafness 22. Occupational asthma 23. Occupational skin cancers 24. Occupational skin diseases 25. Organophosphate poisoning 26. Phosphorus poisoning 27. Poisoning by benzene or a homologue of benzene 28. Poisoning by carbon monoxide gas 29. Poisoning by carbon disulphide 30. Poisoning by oxides of nitrogen 31. Poisoning from halogen derivatives of hydrocarbon compounds 32. Musculoskeletal disorders of the upper limb 33. Silicosis 34. Toxic anaemia 35. Toxic hepatitis.
 
-1. Bursting of a revolving vessel, wheel, grindstone or grinding wheel moved by mechanical power.
-
-2. Collapse or failure of a crane, derrick, winch, hoist, piling frame or other appliance used in raising or lowering persons or goods, or any load bearing part thereof (except breakage of chain or rope slings), or the overturning of a crane.
-
-3. Explosion or fire damage to the structure of any room or place in which persons are at work, or to any machinery or plant contained therein, and resulting in the complete suspension of ordinary work in the room or place or stoppage of machinery or plant for not less than 5 hours, where the explosion or fire is due to the ignition of dust, gas or vapour, or the ignition of celluloid or substance composed wholly or in part of celluloid.
-
-4. Electrical short circuit or failure of electrical machinery, plant or apparatus, attended by explosion or fire or causing structural damage thereto, and involving its stoppage or disuse for not less than 5 hours.
-
-5. Explosion or fire affecting any room in which persons are at work and causing complete suspension of ordinary work therein for not less than 24 hours.
-
-6. Explosion or failure of structure of a steam boiler or of a receiver or container used for the storage at a pressure greater than atmospheric pressure of any gas or gases (including air) or any liquid or solid resulting from the compression of gas.
-
-7. Failure or collapse of formwork or its supports.
-
-8. Collapse, in part or in whole, of a scaffold exceeding 15 metres in height or of a suspended scaffold or a hanging scaffold from which any person may fall more than 2 metres.
-
-9. Accidental seepage or entry of seawater into a dry dock or floating dock causing flooding of the dry dock or floating dock.
+[18/2011]

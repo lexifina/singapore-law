@@ -1,25 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-WORKPLACE SAFETY AND HEALTH ACT
-(CHAPTER 354A)
-Act
-7 of 2006
-Amended by
-S 72/2007
-2007 Ed. Cap. 354A
-Amended by
-9 of 2008
-S 634/2007
-REVISED EDITION 2009
-(31st July 2009)
+WORKPLACE SAFETY AND
+HEALTH ACT 2006
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2009
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to the safety, health and welfare of persons at work in workplaces.
 
-[1st March 2006]
+[1 March 2006]

@@ -1,9 +1,9 @@
 # 65. Regulations
-Part: PART XI GENERAL
+Part: PART 11 GENERAL
 
 (1) The Minister may make regulations for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
 (a) any matter relating to the registration of a factory, including —
 
@@ -15,17 +15,17 @@ Part: PART XI GENERAL
 
 (iv) the circumstances under which an application for registration may be granted or refused;
 
-(v) the issuance of a certificate of registration of a factory or a factory permit in lieu of such a certificate;
+(v) the issuance of a certificate of registration of a factory;
 
-(vi) the duration of a certificate of registration of a factory or factory permit;
+(vi) the duration of a certificate of registration of a factory;
 
-(vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a factory permit is issued;
+(vii) the form, custody and maintenance of any register to be kept by the Commissioner of any premises registered as a factory or in respect of which a certificate of registration of a factory is issued;
 
-(viii) the circumstances under which a certificate of registration of a factory or a factory permit may be renewed, extended or revoked;
+(viii) the circumstances under which a certificate of registration of a factory may be renewed, extended or revoked;
 
 (ix) the imposition of any duty on the occupier of a factory to provide such information to the Commissioner with respect to any change in any matter in relation to the factory;
 
-(x) the bringing of appeals to the Minister in respect of the registration of factories or the issue of factory permits;
+(x) the bringing of appeals to the Minister in respect of the registration of factories or the issue of certificates of registration of factories;
 
 (b) the lighting, ventilation, temperature, humidity, radiant heat, noise, drainage and hygiene in workplaces, and the fixing of standards therefor;
 
@@ -33,7 +33,7 @@ Part: PART XI GENERAL
 
 (d) the procedures and resources required in case of fire at any workplace;
 
-(e) the means, if any, required for removing impurities from the air in workplaces and for reducing excessive heat and noise in workplaces;
+(e) the means (if any) required for removing impurities from the air in workplaces and for reducing excessive heat and noise in workplaces;
 
 (f) the permissible exposure levels, control and disposal of any toxic or noxious materials, whether solid, liquid, gaseous or vaporous;
 
@@ -81,9 +81,11 @@ Part: PART XI GENERAL
 
 (r) the prevention or minimisation of risk of bodily injury or injury to health where any manufacture, machinery, equipment, installation, plant, article or process used or work carried out in any workplace involves such risk;
 
-(s) the arrangements to be made for the medical supervision and medical examination (not including medical treatment of a preventive character), and for the removal from exposure of risk of any person or any class of persons at work;
+(s) the procedures for preparing and publishing a learning report;
 
-(t) the health, safety and welfare in respect of the following types of work:
+(t) the arrangements to be made for the medical supervision and medical examination (not including medical treatment of a preventive character), and for the removal from exposure of risk of any person or any class of persons at work;
+
+(u) the health, safety and welfare in respect of the following types of work:
 
 (i) building operations undertaken by way of trade or business, or for the purpose of any industrial or commercial undertaking;
 
@@ -111,17 +113,23 @@ Part: PART XI GENERAL
 
 (B) which poses any health hazard to persons at work;
 
-(u) the conduct of any risk assessment or safety and health arrangement and the duties of any occupier, employer or any other person in relation to the conduct of the risk assessment or the safety and health arrangement;
+(v) the conduct of any risk assessment or safety and health arrangement and the duties of any occupier, employer or any other person in relation to the conduct of the risk assessment or the safety and health arrangement;
 
-(v) the implementation of any safety and health management system and the duties of any occupier, employer or any other person in relation to the implementation of the safety and health management system;
+(w) the implementation of any safety and health management system and the duties of any occupier, employer or any other person in relation to the implementation of the safety and health management system;
 
-(va) in relation to the Council, the payment of allowances to a member of the Council who is not a public servant;
+(x) in relation to the Council, the payment of allowances to a member of the Council who is not a public servant;
 
-(w) the prescribing of anything that is required or permitted to be prescribed under this Act.
+(y) the prescribing of anything that is required or permitted to be prescribed under this Act.
 
-[9/2008]
+[18/2011; 44/2017]
 
-(3) The regulations made under this section may prescribe offences in respect of the contravention of any provision thereof, and may prescribe that fines not exceeding $20,000 and imprisonment not exceeding 2 years may, on conviction, be imposed in respect of any such offence.
+(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable —
+
+(a) in the case of an offence that may cause, or result in, any death or serious bodily injury to an individual or any dangerous occurrence in a workplace, with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 2 years or with both; and
+
+(b) in the case of any other offence, with a fine not exceeding $20,000 or with imprisonment for a term not exceeding 2 years or with both.
+
+[44/2017]
 
 (4) The regulations may impose duties on any person who has control or influence over any aspect of workplace safety or health, including but not limited to any occupier, owner, employer, manufacturer, designer or employed person.
 
@@ -137,18 +145,18 @@ Part: PART XI GENERAL
 
 (e) prescribe the procedures to be undertaken before the work can be carried out.
 
-(6) Regulations made under subsection (2)(s) may —
+(6) Regulations made under subsection (2)(t) may —
 
 (a) require the medical supervision and medical examination under the regulations to be carried out by persons registered with the Commissioner; and
 
 (b) prescribe the qualifications and other conditions to be satisfied for such registration.
 
-(7) Regulations made under subsection (2)(t) may —
+(7) Regulations made under subsection (2)(u) may —
 
-(a) apply any of the provisions of this Act to the classes of premises, processes or operations referred to in that subsection;
+(a) apply any of the provisions of this Act to the classes of premises, processes or operations mentioned in that subsection;
 
-(b) impose duties on persons involved in the type of work referred to in that subsection, including any developer, contractor, architect or engineer; and
+(b) impose duties on persons involved in the type of work mentioned in that subsection, including any developer, contractor, architect or engineer; and
 
-(c) prescribe the qualifications and training to be received by persons involved in the type of work referred to in that subsection.
+(c) prescribe the qualifications and training to be received by persons involved in the type of work mentioned in that subsection.
 
-(8) All regulations made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+(8) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.

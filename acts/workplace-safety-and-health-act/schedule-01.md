@@ -1,69 +1,27 @@
 # FIRST SCHEDULE
 
-Sections 2(1) or (2), 27(2) and 62(1)
+Sections 4(1) and 64(1)
 
-WORKPLACES SUBJECT TO ACT
+DANGEROUS OCCURRENCES
 
-1. Any factory, including any premises immediately adjacent to the factory over which the occupier of the factory has charge, management or control.
+1. Bursting of a revolving vessel, wheel, grindstone or grinding wheel moved by mechanical power.
 
-2. Any premises within an airport where —
+2. Collapse or failure of a crane, derrick, winch, hoist, piling frame or other appliance used in raising or lowering persons or goods, or any load bearing part thereof (except breakage of chain or rope slings), or the overturning of a crane.
 
-(a) any checking or inspection of an aircraft or its contents; or
+3. Explosion or fire damage to the structure of any room or place in which persons are at work, or to any machinery or plant contained therein, and resulting in the complete suspension of ordinary work in the room or place or stoppage of machinery or plant for 5 hours or more, where the explosion or fire is due to the ignition of dust, gas or vapour, or the ignition of celluloid or substance composed wholly or in part of celluloid.
 
-(b) any cleaning, loading, unloading or refueling of an aircraft, is carried out by any person other than by the crew of the aircraft.
+4. Electrical short circuit or failure of electrical machinery, plant or apparatus, attended by explosion or fire or causing structural damage thereto, and involving its stoppage or disuse for 5 hours or more.
 
-3. Any ship in a harbour where —
-
-(a) any scaling, scurfing or cleaning of boilers (including combustion chambers and smoke boxes) in the ship;
-
-(b) any cleaning of any tank, bilges or holds in the ship; or
-
-(c) any construction, re-construction, repair, fitting, furnishing or breaking up, is carried out.
+5. Explosion or fire affecting any room in which persons are at work and causing complete suspension of ordinary work therein for 24 hours or more.
 
 FIRST SCHEDULE — continued
 
-4. Any dock, wharf or quay where loading, unloading or bunkering of a ship is carried out by persons other than by the crew of the ship.
+6. Explosion or failure of structure of a steam boiler or of a receiver or container used for the storage at a pressure greater than atmospheric pressure of any gas or gases (including air) or any liquid or solid resulting from the compression of gas.
 
-5. Any premises delineated as a railway area under the Rapid Transit Systems Act (Cap. 263A) and where any inspection, testing or maintenance of any railway is carried out.
+7. Failure or collapse of formwork or its supports.
 
-6. Any premises (other than domestic premises) in which a steam boiler, a steam receiver or an air receiver is used.
+8. Collapse, in part or in whole, of a scaffold exceeding 15 metres in height or of a suspended scaffold or a hanging scaffold from which any person may fall more than 2 metres.
 
-7. Any laboratory or other premises where the testing, examination or analysis of any article is carried out.
+9. Accidental seepage or entry of seawater into a dry dock or floating dock causing flooding of the dry dock or floating dock.
 
-8. Any ship where any survey or inspection of the ship or its contents is carried out by any person other than by the crew of the ship.
-
-9. Any tunnel, bridge or viaduct where any survey or inspection of the tunnel, bridge or viaduct is carried out.
-
-10. Any hotel, lodging house, dormitory, service apartment, chalet, camping site or other premises where the provision of short-stay accommodation is carried out by way of trade or for purposes of gain.
-
-11. Any restaurant, bar, canteen or other premises where food or drinks are sold or catered for consumption within those premises or elsewhere.
-
-12. Any hospital, hospice, nursing home or medical or dental clinic or other premises providing nursing and rehabilitation services.
-
-13. Any veterinary centre providing any of the following services:
-
-(a) diagnosis of disease in, and injuries to, animals or birds, including tests performed for diagnostic purposes;
-
-(b) the treatment, vaccination or innoculation of animals or birds.
-
-14. Any premises where landscaping or garden maintenance is carried out.
-
-15. Any premises where the collection, purification or distribution of water is carried out.
-
-16. Any premises where the disposal or treatment of sewage or refuse is carried out.
-
-17. Any premises where the recycling of metal or non-metal waste or scrap is carried out.
-
-18. Any premises where —
-
-(a) freight forwarding, packing or crating services;
-
-(b) cargo surveying services;
-
-FIRST SCHEDULE — continued
-
-(c) container services; or
-
-(d) crane services, are carried out by way of trade or for purposes of gain or incidentally to another business so carried out.
-
-[S 72/2007; S 634/2007]
+[18/2011]

@@ -1,7 +1,7 @@
 # 40A. Functions of Council
-Part: PART VIII WORKPLACE SAFETY AND HEALTH COUNCIL
+Part: PART 8 WORKPLACE SAFETY AND HEALTH COUNCIL
 
-The functions of the Council shall be —
+The functions of the Council are —
 
 (a) to develop or facilitate the development of acceptable practices relating to safety, health and welfare at work;
 
@@ -18,5 +18,3 @@ The functions of the Council shall be —
 (g) to provide practical guidance with respect to the requirements of this Act relating to safety, health and welfare at work; and
 
 (h) to do all the things that it is authorised or required to do under this Act.
-
-[9/2008]

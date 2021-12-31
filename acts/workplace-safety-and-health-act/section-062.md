@@ -1,9 +1,11 @@
 # 62. Exempt workers, workplaces and equipment, etc.
-Part: PART XI GENERAL
+Part: PART 11 GENERAL
 
-(1) The provisions of this Act shall not apply to such persons at work as are specified in the Sixth Schedule, notwithstanding that their work is carried out or performed in a workplace specified in the First Schedule.
+(1) The provisions of this Act do not apply to the persons at work specified in the Sixth Schedule, even though their work is carried out or performed in a workplace.
 
-(2) The Minister may, by order published in the Gazette and with or without conditions, exempt —
+[18/2011]
+
+(2) The Minister may, by order in the Gazette and with or without conditions, exempt —
 
 (a) any class or description of workplaces from all or any of the provisions of this Act;
 

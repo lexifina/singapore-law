@@ -1,9 +1,9 @@
 # 12. Duties of employers
-Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
+Part: PART 4 GENERAL DUTIES OF PERSONS AT WORKPLACES
 
-(1) It shall be the duty of every employer to take, so far as is reasonably practicable, such measures as are necessary to ensure the safety and health of his employees at work.
+(1) It is the duty of every employer to take, so far as is reasonably practicable, such measures as are necessary to ensure the safety and health of the employer’s employees at work.
 
-(2) It shall be the duty of every employer to take, so far as is reasonably practicable, such measures as are necessary to ensure the safety and health of persons (not being his employees) who may be affected by any undertaking carried on by him in the workplace.
+(2) It is the duty of every employer to take, so far as is reasonably practicable, such measures as are necessary to ensure the safety and health of persons (not being the employer’s employees) who may be affected by any undertaking carried on by the employer in the workplace.
 
 (3) For the purposes of subsection (1), the measures necessary to ensure the safety and health of persons at work include —
 
@@ -17,10 +17,8 @@ Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
 
 (ii) near their workplace and under the control of the employer;
 
-(d) developing and implementing procedures for dealing with emergencies that may arise while those persons are at work;
-
-and
+(d) developing and implementing procedures for dealing with emergencies that may arise while those persons are at work; and
 
 (e) ensuring that those persons at work have adequate instruction, information, training and supervision as is necessary for them to perform their work.
 
-(4) Every employer shall, where required by the regulations, give to persons (not being his employees) the prescribed information about such aspects of the way in which he conducts his undertaking as might affect their safety or health while those persons are at his workplace.
+(4) Every employer must, where required by the regulations, give to persons (not being the employer’s employees) the prescribed information about such aspects of the way in which the employer conducts the employer’s undertaking as might affect their safety or health while those persons are at the employer’s workplace.

@@ -1,11 +1,13 @@
 # 21. Power to issue remedial order or stop-work order
-Part: PART V POWERS OF COMMISSIONER
+Part: PART 5 POWERS OF COMMISSIONER
 
-(1) This section shall apply if the Commissioner is satisfied that —
+(1) This section applies if the Commissioner is satisfied that —
 
 (a) any workplace is in such condition, or is so located, or any part of the machinery, equipment, plant or article in the workplace is so used, that any work or process carried on in the workplace cannot be carried on with due regard to the safety, health and welfare of persons at work;
 
-(b) any person has contravened any duty imposed by this Act; or
+(b) any person has contravened any duty imposed by this Act;
+
+or
 
 (c) any person has done any act, or has refrained from doing any act which, in the opinion of the Commissioner, poses or is likely to pose a risk to the safety, health and welfare of persons at work.
 
@@ -13,13 +15,11 @@ Part: PART V POWERS OF COMMISSIONER
 
 (a) any person who is in control of the workplace, or the work or process carried out in the workplace;
 
-(b) any person whose duty under this Act is to ensure the safety, health and welfare of any person at work in the workplace;
-
-or
+(b) any person whose duty under this Act is to ensure the safety, health and welfare of any person at work in the workplace; or
 
 (c) any person who poses or is likely to pose a risk to the safety, health and welfare of any person at work in the workplace.
 
-(3) A remedial order under this section shall —
+(3) A remedial order under this section must —
 
 (a) direct the person served with the order to take such measures, to the satisfaction of the Commissioner —
 
@@ -27,11 +27,11 @@ or
 
 (ii) to comply with any duty imposed under this Act; or
 
-(iii) to do or refrain from doing any act referred to in subsection (1)(c); and
+(iii) to do or refrain from doing any act mentioned in subsection (1)(c); and
 
-(b) specify the date on which it is to take effect and the period (which shall run from the date the remedial order takes effect) within which any step required by the order shall be taken.
+(b) specify the date on which it is to take effect and the period (which runs from the date the remedial order takes effect) within which any step required by the order must be taken.
 
-(4) A stop-work order shall —
+(4) A stop-work order must —
 
 (a) direct the person served with the order to immediately cease to carry on any work or process —
 
@@ -43,9 +43,9 @@ or
 
 (5) The Commissioner may delegate the power to issue a remedial order or stop-work order to any Deputy Commissioner.
 
-(6) Any person who fails to comply with a remedial order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+(6) Any person who fails to comply with a remedial order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
 
-(7) Any person who fails to comply with a stop-work order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+(7) Any person who fails to comply with a stop-work order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues after conviction.
 
 (8) Where any person fails to comply with a remedial order or stop-work order, the Commissioner may —
 

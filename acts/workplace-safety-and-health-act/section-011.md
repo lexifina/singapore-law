@@ -1,7 +1,7 @@
 # 11. Duty of occupier of workplace
-Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
+Part: PART 4 GENERAL DUTIES OF PERSONS AT WORKPLACES
 
-It shall be the duty of every occupier of any workplace to take, so far as is reasonably practicable, such measures to ensure that —
+It is the duty of every occupier of any workplace to take, so far as is reasonably practicable, such measures to ensure that —
 
 (a) the workplace;
 

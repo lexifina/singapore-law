@@ -1,5 +1,5 @@
 # 53. Forgery of certificates, false entries and false declarations
-Part: PART X OFFENCES, PENALTIES AND PROCEEDINGS
+Part: PART 10 OFFENCES, PENALTIES AND PROCEEDINGS
 
 If any person —
 
@@ -21,4 +21,4 @@ If any person —
 
 (i) wilfully makes or signs a declaration required by, under, or for the purposes of, this Act which is false; or
 
-(j) knowingly makes use of any false entry or declaration referred to in paragraph (h) or (i), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+(j) knowingly makes use of any false entry or declaration mentioned in paragraph (h) or (i), that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.

@@ -1,7 +1,7 @@
 # 10. Duties according to different capacities
-Part: PART IV GENERAL DUTIES OF PERSONS AT WORKPLACES
+Part: PART 4 GENERAL DUTIES OF PERSONS AT WORKPLACES
 
-For the avoidance of doubt, it is hereby declared that —
+To avoid doubt, it is declared that —
 
 (a) a person may at any one time be 2 or more of the following:
 
