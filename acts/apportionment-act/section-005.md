@@ -1,0 +1,5 @@
+# 5. Remedies for recovering apportioned parts
+
+(1) All persons and their respective executors, administrators and assigns, and also the executors, administrators and assigns respectively of persons whose interests determine with their own deaths, shall have such or the same remedies for recovering such apportioned parts as aforesaid when payable (allowing proportionate parts of all just allowances) as they respectively would have had for recovering the entire portions as aforesaid if entitled thereto, respectively.
+
+(2) Persons liable to pay rents reserved out of or charged on lands or tenements, and the same lands or tenements, shall not be resorted to for any such apportioned part forming part of an entire or continuing rent as aforesaid specifically, but the entire or continuing rent, including such apportioned part, shall be recovered and received by the person who, if the rent had not been apportionable under this Act or otherwise, would have been entitled to the entire or continuing rent, and the apportioned part shall be recoverable from such person by the executors or other parties entitled under this Act to the same by suit.

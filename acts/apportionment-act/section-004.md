@@ -1,0 +1,7 @@
+# 4. Apportioned part of rent, etc., to be payable when next entire portion due
+
+The apportioned part of any such rent, annuity, dividend or other payment shall be payable or recoverable —
+
+(a) in the case of a continuing rent, annuity, or other such payment, when the entire portion of which such apportioned part forms part becomes due and payable, and not before; and
+
+(b) in the case of a rent, annuity, or other such payment determined by re-entry, death, or otherwise, when the next entire portion of the same would have been payable if the same had not so determined, and not before.
