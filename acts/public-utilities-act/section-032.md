@@ -1,5 +1,5 @@
 # 32. Power to enter upon premises adjacent to works
-Part: PART III WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
+Part: PART 3 WATER UNDERTAKING OF BOARD
 
 (1) The Board may, by its employees, agents or contractors, enter any premises adjoining to or being within the distance of 100 metres of any works by this Act authorised to be made —
 
@@ -7,10 +7,18 @@ Part: PART III WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 (b) for any other purpose connected with those works, without making any previous payment, tender or deposit.
 
-(2) The Board shall cause as little damage as possible in the exercise of its power under subsection (1) and shall make compen- sation —
+(2) However, the Board must not enter any premises for the purposes specified in subsection (1) unless the Board has given at least 7 days’ written notice of its intention to enter to every owner and occupier of the premises.
 
-(a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as such temporary occupation is taken or any such temporary damage is done; and
+[12/2015]
 
-(b) to the owner for the permanent damage, if any, to the premises.
+(3) A notice mentioned in subsection (2) must —
 
-(3) Before the Board exercises its power under subsection (1), it shall give 7 days notice in writing of its intention to the owner and occupier of the premises and shall set apart by sufficient fences so much of the premises as is required to be used from the other premises adjoining thereto.
+(a) state the estimated period (if any) during which the Board intends to temporarily occupy or take possession of the premises;
+
+(b) give a brief description of the works (if any) which are to be carried out in or on the premises;
+
+(c) describe the area or extent of the land and the subterranean space needed for the carrying out of the works mentioned in paragraph (b); and
+
+(d) state that the owner or occupier of the premises may serve on the Board a claim of compensation for the items of loss, damage or cost set out in the first column of the Fourth Schedule to the extent of the loss, damage or cost suffered or incurred by the owner or occupier of the premises.
+
+[12/2015]

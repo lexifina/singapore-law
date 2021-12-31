@@ -1,18 +1,18 @@
-# 10. Appointment of Chief Executive and other employees
-Part: PART II RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
+# 10. Chief Executive, officers and employees, etc.
+Part: PART 2 RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
-(1) The Board shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Board may determine.
+(1) There must be a Chief Executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[5/2018]
 
-(a) be known by such designation as the Board may determine;
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2) (c).
+[5/2018]
 
-(4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to perform his duties, a person may be appointed by the Board to act in the place of the Chief Executive during any such period of absence from duty.
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, any other officers, employees, consultants and agents that may be necessary for the effective performance of its functions.
 
-(5) The Board may, from time to time, appoint and employ on such terms and conditions as the Board may determine such officers and employees as may be necessary for the effective performance of its functions.
+[5/2018]

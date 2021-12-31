@@ -1,5 +1,5 @@
 # 43. Suspension of approval
-Part: PART IV SUPPLY OF PIPED WATER FOR HUMAN CONSUMPTION
+Part: PART 4 SUPPLY OF PIPED WATER SUITABLE FOR DRINKING
 
 (1) The Board may suspend any approval given under section 41 for such period as it considers reasonable if it is of the opinion that the suspension is in the public interest or in the interests of public safety.
 

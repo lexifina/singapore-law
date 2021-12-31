@@ -1,5 +1,5 @@
 # 22. Board may require security
-Part: PART III WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
+Part: PART 3 WATER UNDERTAKING OF BOARD
 
 (1) Subject to this section, the Board may require any person who requires a supply of water to give the Board reasonable security for the payment to it of all moneys which may become due to the Board —
 

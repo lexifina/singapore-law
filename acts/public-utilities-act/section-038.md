@@ -1,6 +1,6 @@
 # 38. Board in executing works to provide convenient ways, etc.
-Part: PART III WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
+Part: PART 3 WATER UNDERTAKING OF BOARD
 
-(1) The Board in executing any works directed or authorised to be made shall provide and make a sufficient number of convenient ways, watercourses, drains and channels in the place of such as are interrupted, damaged or rendered useless by reason of the execution of the works.
+(1) The Board in executing any works directed or authorised to be made must provide and make a sufficient number of convenient ways, watercourses, drains and channels in the place of such as are interrupted, damaged or rendered useless by reason of the execution of the works.
 
-(2) The Board shall make reasonable compensation to any person who suffers damage by reason of the same.
+(2) The Board must make reasonable compensation to any person who suffers damage by reason of the same.

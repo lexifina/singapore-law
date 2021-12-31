@@ -1,4 +1,4 @@
 # 17. Financial provisions
-Part: PART II RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
+Part: PART 2 RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
-The financial provisions set out in the Third Schedule shall have effect with respect to the Board.
+The financial provisions set out in the Third Schedule have effect with respect to the Board.

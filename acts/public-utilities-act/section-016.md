@@ -1,10 +1,4 @@
-# 16. Investments
-Part: PART II RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
+# 16. Power of investment
+Part: PART 2 RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
-The Board may, with the approval of the Minister —
-
-(a) invest its moneys in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
-
-*This section was not in operation as at 30th June 2002.
+The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.

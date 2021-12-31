@@ -1,4 +1,6 @@
 # 12. Protection from personal liability
-Part: PART II RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
+Part: PART 2 RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
-No suit or other legal proceedings shall lie against any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.
+No liability shall lie personally against any member, officer or employee of the Board or other person acting under the direction of the Board who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[11/2018]
