@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-INTESTATE SUCCESSION ACT
-(CHAPTER 146)
-(Original Enactment: Act 7 of 1967)
-REVISED EDITION 2013
-(31st December 2013)
+INTESTATE SUCCESSION ACT 1967
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to make provision for the distribution of intestate estates.
 
-[2nd June 1967]
+[2 June 1967]

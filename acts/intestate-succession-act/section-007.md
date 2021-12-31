@@ -14,7 +14,7 @@ Rule 3
 
 Subject to the rights of the surviving spouse, if any, the estate (both as to the undistributed portion and the reversionary interest) of an intestate who leaves issue shall be distributed by equal portions per stirpes to and amongst the children of the person dying intestate and such persons as legally represent those children, in case any of those children be then dead.
 
-Proviso No. (1) — The persons who legally represent the children of an intestate are their descendants and not their next‑of‑kin.
+Proviso No. (1) — The persons who legally represent the children of an intestate are their descendants and not their next-of-kin.
 
 Proviso No. (2) — Descendants of the intestate to the remotest degree stand in the place of their parent or other ancestor, and take according to their stocks the share which he or she would have taken.
 

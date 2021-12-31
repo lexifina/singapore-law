@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Intestate Succession Act.
+This Act is the Intestate Succession Act 1967.
