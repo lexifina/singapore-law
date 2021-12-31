@@ -1,30 +1,15 @@
-CIVIL LAW ACT
-(CHAPTER 43)
-Ordinance
-8 of 1909
-1970 Ed. Cap. 30
-Amended by
-2 of 1979
-24 of 1979
-15 of 1982
-1985 Ed. Cap. 43
-Amended by
-11 of 1987
-1988 Ed. Cap. 43
-Amended by
-8 of 1993
-35 of 1993
-1994 Ed. Cap. 43
-Amended by
-7 of 1997
-45 of 1998
-REVISED EDITION 1999
-(1st August 1999)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+CIVIL LAW ACT 1909
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to consolidate certain provisions of the civil law.
 
-[23rd July 1909]
+[23 July 1909]

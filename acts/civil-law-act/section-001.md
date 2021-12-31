@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Civil Law Act.
+This Act is the Civil Law Act 1909.

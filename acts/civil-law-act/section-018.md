@@ -1,7 +1,3 @@
 # 18. Successive actions against liability (jointly or otherwise) for same damage
 
 If more than one action is brought in respect of any damage by or on behalf of the person by whom it was suffered against persons liable in respect of the damage (whether jointly or otherwise) the plaintiff shall not be entitled to costs in any of those actions, other than that in which judgment is first given, unless the court is of the opinion that there was reasonable ground for bringing the action.
-
-[11C
-
-[45/98]

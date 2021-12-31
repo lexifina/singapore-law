@@ -6,8 +6,6 @@
 
 (3) In the construction of the will of any person, a general direction that the debts of the testator shall be paid out of his personal estate shall not be deemed to be a declaration of an intention contrary to or other than the rule contained in this section unless such contrary or other intention is further declared by words expressly or by necessary implication referring to all or some of the testator’s debts or debt charged by way of mortgage on any part of his immovable estate.
 
-(4) In this section, ‘‘mortgage’’ shall be deemed to extend to any lien for unpaid purchase-money upon any immovable property purchased by a testator.
+(4) In this section, “mortgage” shall be deemed to extend to any lien for unpaid purchase-money upon any immovable property purchased by a testator.
 
 (5) Nothing in this section shall affect or diminish any right of the mortgagee of such immovable property to obtain full payment or satisfaction of his mortgage debt, either out of the estate of the person so dying as aforesaid or otherwise.
-
-[17

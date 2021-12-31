@@ -1,7 +1,3 @@
 # 13. Charges and mortgages over choses in action
 
 For the avoidance of doubt, it is hereby declared that a person (the first person) is able to create, and always has been able to create, in favour of another person (the second person) a legal or equitable charge or mortgage over all or any of the first person’s interest in a chose in action enforceable by the first person against the second person, and any charge or mortgage so created shall operate neither to merge the interest thereby created with, nor to extinguish or release, that chose in action.
-
-[9A
-
-[8/93]

@@ -18,8 +18,6 @@ Double rent or double value on holding over by tenant
 
 (4) Every tenant holding over after the determination of his tenancy shall be chargeable, at the option of his landlord, with double the amount of his rent until possession is given up by him or with double the value during the period of detention of the land or premises so detained, whether notice to that effect has been given or not.
 
-Sub-tenant to give notice
+Subtenant to give notice
 
-(5) When any writ of summons issued by a landlord against a tenant for the recovery of immovable property is served on or comes to the knowledge of any sub-tenant of the plaintiff’s immediate tenant, the sub-tenant being an occupier of the whole or any part of the premises sought to be recovered, he shall forthwith give notice thereof to his immediate landlord, under penalty of forfeiting 3 years’ rack rent of the premises held by the sub-tenant to the person of whom he holds, to be recovered by such person by action in any court having jurisdiction.
-
-[19
+(5) When any writ of summons issued by a landlord against a tenant for the recovery of immovable property is served on or comes to the knowledge of any subtenant of the plaintiff’s immediate tenant, the subtenant being an occupier of the whole or any part of the premises sought to be recovered, he shall forthwith give notice thereof to his immediate landlord, under penalty of forfeiting 3 years’ rack rent of the premises held by the subtenant to the person of whom he holds, to be recovered by such person by action in any court having jurisdiction.

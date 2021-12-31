@@ -1,6 +1,8 @@
 # 4. Administration of insolvent estates, and winding up of companies. Bankruptcy rules to prevail
 
-(1) In the administration by any court of the assets of any deceased person whose estate proves to be insufficient for the payment in full of his debts and liabilities, and in the winding up of any company under the Companies Act (Cap. 50) whose assets prove to be insufficient for the payment of its debts and liabilities and the costs of winding up, the same rules shall prevail and be observed as to the respective rights of secured and unsecured creditors, and as to debts and liabilities provable, and as to the valuation of annuities and future and contingent liabilities respectively, as are in force for the time being under the law of bankruptcy with respect to the estates of persons adjudged bankrupt.
+(1) In the administration by any court of the assets of any deceased person whose estate proves to be insufficient for the payment in full of his debts and liabilities, and in the winding up of any company under the Insolvency, Restructuring and Dissolution Act 2018 whose assets prove to be insufficient for the payment of its debts and liabilities and the costs of winding up, the same rules shall prevail and be observed as to the respective rights of secured and unsecured creditors, and as to debts and liabilities provable, and as to the valuation of annuities and future and contingent liabilities respectively, as are in force for the time being under the law of bankruptcy with respect to the estates of persons adjudged bankrupt.
+
+[40/2018]
 
 Creditors may come in under decree, or winding up
 
@@ -10,13 +12,7 @@ Voluntary waste
 
 (3) A tenant for life or lives or a leasehold tenant shall not commit voluntary waste; but this subsection shall not apply to any estate or tenancy without impeachment of waste, or affect any licence or other right to commit waste.
 
-[35/93]
-
-(4) A tenant who infringes subsection (3) shall be liable in damages to his remainderman or reversioner; and in subsection (3), ‘‘leasehold tenant’’ includes a tenant for a term, a tenant under a periodical tenancy and a tenant at will.
-
-[Cf. 52 Henry III (Statute of Malborough) c. 23. (1267)]
-
-[35/93]
+(4) A tenant who infringes subsection (3) shall be liable in damages to his remainderman or reversioner; and in subsection (3), “leasehold tenant” includes a tenant for a term, a tenant under a periodical tenancy and a tenant at will.
 
 Estate for life when not to confer right of equitable waste
 
@@ -24,7 +20,7 @@ Estate for life when not to confer right of equitable waste
 
 Merger when not to operate
 
-(6) There shall not be any merger by operation of law only of any estate the beneficial interest in which would not before 23rd July 1909 have been deemed to be merged or extinguished in equity.
+(6) There shall not be any merger by operation of law only of any estate the beneficial interest in which would not before 23 July 1909 have been deemed to be merged or extinguished in equity.
 
 Suits for possession of immovable property by mortgagors
 
@@ -32,23 +28,27 @@ Suits for possession of immovable property by mortgagors
 
 Assignment of debts and choses in action effectual to pass right and remedy
 
-(8) Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law as it existed before 23rd July 1909, to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor.
+(8) Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law as it existed before 23 July 1909, to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor.
 
 Stipulations not of essence of contracts to be construed as in equity
 
-(9) Stipulations in contracts, as to time or otherwise, which would not, before 23rd July 1909, have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all cases the same construction and effect as they would have received in equity before that date.
+(9) Stipulations in contracts, as to time or otherwise, which would not, before 23 July 1909, have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all cases the same construction and effect as they would have received in equity before that date.
 
 Injunctions and receivers granted or appointed by interlocutory orders
 
-(10) A mandamus or an injunction may be granted or a receiver appointed by an interlocutory order of the court, either uncondi- tionally or upon such terms and conditions as the court thinks just, in all cases in which it appears to the court to be just or convenient that such order should be made.
+(10) A Mandatory Order or an injunction may be granted or a receiver appointed by an interlocutory order of the court, either unconditionally or upon such terms and conditions as the court thinks just, in all cases in which it appears to the court to be just or convenient that such order should be made.
+
+[42/2005]
 
 Terms. To prevent waste, etc., when granted
 
 (11) If an injunction is asked, either before, or at, or after the hearing of any cause or matter, to prevent any threatened or apprehended waste or trespass, the injunction may be granted if the court thinks fit whether the person against whom the injunction is sought is or is not in possession under any claim of title or otherwise, or, if out of possession, does or does not claim, a right to do the act sought to be restrained under any colour of title, and whether the estates claimed by both, or by either of the parties, are legal or equitable.
 
-Custody and education of infants
+Custody and education of minors
 
-(12) In questions relating to the custody and education of infants, the rules of equity shall prevail.
+(12) In questions relating to the custody and education of minors, the rules of equity shall prevail.
+
+[7/2009]
 
 Cases of conflict not enumerated, equity to prevail
 
