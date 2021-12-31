@@ -1,20 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SCIENCE CENTRE ACT
-(CHAPTER 286)
-(Original Enactment: Act 33 of 1970)
-REVISED EDITION 2013
-(31st October 2013)
+SCIENCE CENTRE ACT 1970
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to establish the Science Centre Board and for purposes incidental thereto.
 
-[25th September 1970: Sections 1 to 20;
+[25 September 1970: Except section 23;
 
-1st April 1972: Section 21]
+1 April 1972: Section 23]

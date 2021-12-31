@@ -1,3 +1,13 @@
-# 18. Annual estimates
+# 18. Minister’s approval of estimates
 
-The Board shall obtain in advance the approval of the Minister for its annual estimates of expenditure and for any supplementary estimates of its expenditure.
+(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Board, be sent without delay to the Minister.
+
+[5/2018]
+
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
+
+[5/2018]
+
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Board, and the Board is bound by the Minister’s decision.
+
+[5/2018]

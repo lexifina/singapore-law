@@ -1,51 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY SCIENCE CENTRE ACT 1970
 
-SCIENCE CENTRE ACT (CHAPTER 286)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Science Centre Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 33 of 1970 — Science Centre Act 1970
+LEGISLATIVE HISTORY DETAILS PART 1 RAFFLES MUSEUM ORDINANCE, 1957 (ORDINANCE 30 OF 1957) 1. Ordinance 30 of 1957 — Raffles Museum Ordinance, 1957 Bill : 111/1957 First Reading : 21 August 1957 Second Reading : 11 September 1957 Notice of Amendments : 11 September 1957 Third Reading : 11 September 1957 Commencement : 1 February 1958 Note: This Ordinance repealed the Raffles Societies Ordinance (Chapter 312, 1955 Revised Edition) so far as it relates to the Raffles Museum.
 
-Date of First Reading : 26 June 1970 (Bill No. 23/70 published on 1 July 1970)
+2. Ordinance 67 of 1960 — Raffles Museum (Change of Name) Ordinance, 1960 Bill : 106/1960 First Reading : 16 November 1960 Second and Third Readings : 29 November 1960 Commencement : 9 December 1960 Note: The Raffles Museum Ordinance, 1957 was renamed as the National Museum Ordinance, 1957 by this Ordinance.
 
-Date of Second and Third Readings : 22 July 1970
+PART 2 SCIENCE CENTRE ACT 1970 (2020 REVISED EDITION) 3. Act 33 of 1970 — Science Centre Act, 1970 Bill : 23/1970 First Reading : 26 June 1970 Second and Third Readings : 22 July 1970 Commencement : 25 September 1970 (except section 23) 1 April 1972 (section 23) 4. 1970 Revised Edition — Science Centre Act (Chapter 317) Operation : 31 August 1971 5. Act 35 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 4) Act, 1973 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 35/1973 First Reading : 11 July 1973 Second and Third Readings : 26 July 1973 Commencement : 1 September 1973 (section 2 read with the Schedule) 6. 1985 Revised Edition — Science Centre Act (Chapter 286) Operation : 30 March 1987 7. Act 13 of 1993 — National Heritage Board Act 1993 (Amendments made by section 50(2) of the above Act) Bill : 5/1993 First Reading : 26 February 1993 Second and Third Readings : 13 April 1993 Commencement : 1 August 1993 (section 50(2)) 8. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (35) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (35) of the Schedule) 9. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (42) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (42) of the Schedule) 10. 2013 Revised Edition — Science Centre Act (Chapter 286) Operation : 31 October 2013 11. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 96 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 96)
 
-Date of commencement : 5 September 1970
+Abbreviations
 
-2. 1970 Revised Edition — Science Centre Act (Chapter 317)
-
-Dates of operation : 25 September 1970 (except section 21) 1 April 1971 (section 21)
-
-3. Act 35 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 4) Act 1973
-
-Date of First Reading : 11 July 1973 (Bill No. 35/73 published on 16 July 1973)
-
-Date of Second and Third Readings : 26 July 1973
-
-Date of commencement : 1 September 1973
-
-4. 1985 Revised Edition — Science Centre Act (Chapter 286)
-
-Date of operation : 30 March 1987
-
-5. Act 13 of 1993 — National Heritage Board Act 1993 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 February 1993 (Bill No. 5/93 published on 27 February 1993)
-
-Date of Second and Third Readings : 13 April 1993
-
-Date of commencement : 1 August 1993 6. Act 5 of 2002 — The Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Dates of commencement : 15 July 2002 (except item (18) of the Schedule) 29 July 2002 (item (18) of the Schedule)
-
-7. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

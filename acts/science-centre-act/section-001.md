@@ -1,5 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Science Centre Act.
+This Act is the Science Centre Act 1970.
 
 1
