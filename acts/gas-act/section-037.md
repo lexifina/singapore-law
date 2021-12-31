@@ -1,7 +1,7 @@
 # 37. General duties of gas retailer
-Part: PART VI GAS RETAILERS AND GENERAL PROVISIONS
+Part: PART 6 GAS RETAILERS AND GENERAL PROVISIONS
 
-It shall be the duty of a gas retailer —
+It is the duty of a gas retailer —
 
 (a) to develop and maintain a safe, efficient, reliable and economical service for the retailing of gas; and
 

@@ -1,4 +1,4 @@
-# 1. Short title and commencement
-Part: PART I PRELIMINARY
+# 1. Short title
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Gas Act and shall come into operation on such date as the Minister may, by notification in the Gazette, appoint*.
+This Act is the Gas Act 2001.

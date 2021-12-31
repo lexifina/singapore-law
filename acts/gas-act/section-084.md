@@ -1,9 +1,11 @@
 # 84. Composition and procedure of Appeal Panel
-Part: PART X APPEAL PANEL
+Part: PART 10 APPEAL PANEL
 
-(1) An Appeal Panel shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
+(1) An Appeal Panel established by the Minister must consist of at least 3 persons, one of whom is to be appointed by the Minister to be the chairperson of the Appeal Panel.
 
-(2) The Minister may, in the direction establishing the Appeal Panel under section 83 (3), provide for —
+[24/2007; 43/2018]
+
+(2) The Minister may, in establishing the Appeal Panel, provide for —
 
 (a) the terms and conditions of the membership of the Appeal Panel as the Minister considers appropriate;
 
@@ -11,6 +13,8 @@ Part: PART X APPEAL PANEL
 
 (c) any other matters which the Minister considers incidental or expedient for the proper and efficient conduct of an appeal by the Appeal Panel.
 
-(3) The remuneration and allowances, if any, of a member of an Appeal Panel shall be determined by the Minister and shall form part of the expenses of the Authority.
+[24/2007; 43/2018]
 
-(4) An Appeal Panel shall be independent in the performance of its functions.
+(3) The remuneration and allowances (if any) of a member of an Appeal Panel are to be determined by the Minister and form part of the expenses of the Authority.
+
+(4) An Appeal Panel must be independent in the performance of its functions.

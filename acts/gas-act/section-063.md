@@ -1,16 +1,16 @@
-# 63. Approval of codes of practice
-Part: PART VII CODES OF PRACTICE
+# 63. Directions by Authority
+Part: PART 7A CODES OF PRACTICE
 
-(1) The Authority shall approve and from time to time review the codes of practice made under section 62.
+(1) The Authority may give directions to a gas licensee or any other person for or with respect to any code of practice, standard of performance or other procedures —
 
-(2) If any provision in any code of practice approved by the Authority is inconsistent with the regulations, the provision in the code of practice shall, to the extent of the inconsistency —
+(a) to ensure the security or reliability of the conveyance of gas to consumers’ premises;
 
-(a) have effect subject to such regulations; or
+(b) in the interests of public safety; or
 
-(b) where appropriate, having regard to such regulations, not have effect.
+(c) as may be necessary to enable the Authority to carry out its functions and duties under section 3(3).
 
-(3) The Authority may, in any gas licence, exempt any gas licensee from any provision in any code of practice approved by the Authority generally or for such time as the Authority may specify.
+[24/2007]
 
-(4) Subject to subsections (2) and (3), the Authority shall monitor and enforce compliance with the codes of practice.
+(2) Any person who fails to comply with any direction given by the Authority under subsection (1) shall be guilty of an offence.
 
-(5) Any code of practice approved by the Authority under this section shall be deemed not to be subsidiary legislation.
+[24/2007]

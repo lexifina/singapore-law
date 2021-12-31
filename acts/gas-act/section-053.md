@@ -1,5 +1,5 @@
 # 53. Entry for preventing escapes of gas, etc.
-Part: PART VI GAS RETAILERS AND GENERAL PROVISIONS
+Part: PART 6 GAS RETAILERS AND GENERAL PROVISIONS
 
 (1) Where a gas transporter has reasonable cause to suspect that —
 

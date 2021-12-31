@@ -1,5 +1,5 @@
 # 70. Abuse of dominant position
-Part: PART IX COMPETITION
+Part: PART 9 COMPETITION
 
 (1) Subject to section 71, any conduct on the part of one or more persons which amounts to the abuse of a dominant position in any gas market in Singapore is prohibited if it may affect trade within Singapore.
 
@@ -13,4 +13,4 @@ Part: PART IX COMPETITION
 
 (d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.
 
-(3) In this section, ‘‘dominant position’’ means a dominant position within Singapore.
+(3) In this section, “dominant position” means a dominant position within Singapore.

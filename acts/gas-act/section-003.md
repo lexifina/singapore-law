@@ -1,11 +1,11 @@
 # 3. Authority to administer Act
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-(1) The Authority shall be charged with the general administration of this Act and the exercise of the functions and duties imposed on the Authority by this Act.
+(1) The Authority is charged with the general administration of this Act and the exercise of the functions and duties imposed on the Authority by this Act.
 
 (2) The Authority may authorise any person to assist it in the exercise of its functions and duties under this Act, either generally or in a particular case.
 
-(3) Subject to the provisions of this Act, it shall be the function and duty of the Authority —
+(3) Subject to the provisions of this Act, it is the function and duty of the Authority —
 
 (a) to protect the interests of consumers with regard to —
 
@@ -15,7 +15,7 @@ Part: PART II ADMINISTRATION
 
 (iii) the quality of gas supply services provided;
 
-(b) to protect the public from dangers arising from the production, processing, storage, conveyance, shipping, supply or use of gas;
+(b) to protect the public from dangers (including to health) arising from the import, production, processing, storage, conveyance, shipping, supply or use of gas;
 
 (c) to secure that gas licensees whose prices are controlled by the Authority are able to provide an efficient service and maintain financial viability;
 
@@ -25,16 +25,20 @@ Part: PART II ADMINISTRATION
 
 (f) to perform the functions of economic, technical and safety regulator for the gas industry in Singapore;
 
-(g) to advise the Government on all matters relating to the production, processing, storage, conveyance, shipping, supply or use of gas; and
+(g) to ensure security of supply of gas to consumers and to arrange for the secure operation of the gas transmission network in accordance with the Gas Network Code or other codes of practice;
 
-(h) to do such other things as are required under this Act and to take such steps as are necessary or expedient for the effective discharge of its functions and duties under this Act.
+(h) to advise the Government on all matters relating to the production, processing, storage, conveyance, shipping, supply or use of gas; and
 
-(4) In performing its functions and exercising its powers, the Authority shall —
+(i) to do such other things as are required under this Act and to take such steps as are necessary or expedient for the effective discharge of its functions and duties under this Act.
+
+[43/2018]
+
+(4) In performing its functions and exercising its powers, the Authority must —
 
 (a) use its reasonable endeavours to apply principles and methodologies to gas licensees who conduct similar activities within a particular sector of the gas industry in a non-discriminatory manner; and
 
 (b) act in a reasonable manner in all circumstances.
 
-(5) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+(5) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
-(6) For the purposes of this section, ‘‘consumers’’ includes both existing and future consumers of gas.
+(6) For the purposes of this section, “consumers” includes both existing and future consumers of gas.

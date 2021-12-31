@@ -1,5 +1,5 @@
 # 81. Destroying or falsifying documents
-Part: PART IX COMPETITION
+Part: PART 9 COMPETITION
 
 Any person who, having been required to produce a document under section 74 or 75 —
 

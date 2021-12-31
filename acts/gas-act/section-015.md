@@ -1,7 +1,7 @@
 # 15. Notice of proposal to modify
-Part: PART IV MODIFICATION AND ENFORCEMENT OF GAS LICENCES
+Part: PART 4 MODIFICATION AND ENFORCEMENT OF GAS LICENCES
 
-(1) Where the Authority proposes to modify any condition of a gas licence, the Authority shall give notice to the gas licensee and other gas licensees likely to be affected by the proposed modification —
+(1) Where the Authority proposes to modify any condition of a gas licence, the Authority must give notice to the gas licensee and other gas licensees likely to be affected by the proposed modification —
 
 (a) stating that the Authority proposes to make a modification to the condition of the gas licence;
 
@@ -11,7 +11,7 @@ Part: PART IV MODIFICATION AND ENFORCEMENT OF GAS LICENCES
 
 (d) specifying the period (not being less than 28 days from the date of the service of the notice on the gas licensee) within which representations with respect to the proposed modification may be made.
 
-(2) Where the Authority receives any written representation under subsection (1), the Authority shall consider such representation and may —
+(2) Where the Authority receives any written representation under subsection (1), the Authority must consider such representation and may —
 
 (a) reject the representation; or
 

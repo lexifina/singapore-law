@@ -1,18 +1,22 @@
 # 52. No obligation to restore supply where consumer in default
-Part: PART VI GAS RETAILERS AND GENERAL PROVISIONS
+Part: PART 6 GAS RETAILERS AND GENERAL PROVISIONS
 
 (1) This section applies where —
 
 (a) a consumer’s premises have been disconnected by a gas transporter under this Act; or
 
-(b) the supply of gas to a consumer’s premises has been discontinued by a gas retailer under this Act.
+(b) the supply of gas to a consumer’s premises has been discontinued by a gas shipper or gas retailer under this Act.
 
-(2) The gas transporter or gas retailer shall not be under any obligation to re-connect the consumer’s premises or restore the supply of gas to the consumer’s premises, as the case may be, until the consumer —
+[24/2007]
 
-(a) is no longer the owner or occupier of the premises; or
+(2) The gas transporter is not under any obligation to re-connect the consumer’s premises, or the gas shipper or gas retailer is not under any obligation to restore the supply of gas to the consumer’s premises (as the case may be) until —
 
-(b) has —
+(a) the consumer is no longer the owner or occupier of the premises; or
 
-(i) made good the default, or remedied the matter, in consequence of which the premises were disconnected or the supply of gas to such premises was discontinued; and
+(b) the consumer —
 
-(ii) paid the reasonable expenses of disconnecting and re-connecting the premises or of discontinuing and restoring the supply of gas to the premises, as the case may be.
+(i) has made good the default, or remedied the matter, in consequence of which the premises were disconnected or the supply of gas to such premises was discontinued; and
+
+(ii) has paid the reasonable expenses of disconnecting and re-connecting the premises or of discontinuing and restoring the supply of gas to the premises, as the case may be.
+
+[24/2007]

@@ -1,5 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY GAS ACT 2001
 
-GAS ACT (CHAPTER 116A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-Act 11 of 2001 — Gas Act 2001 Date of First Reading : 22.2.2001 (Bill No. 10/2001 published on 23.2.2001) Date of Second and Third Readings : 16.3.2001 Date of commencement : Not in operation as at 30.6.2002
+1. Act 11 of 2001 — Gas Act 2001 Bill : 10/2001 First Reading : 22 February 2001 Second and Third Readings : 16 March 2001 Commencement : 23 July 2003 (section 1 and Part XII) 19 December 2003 (sections 2, 3(1), (2), (3)(e) and (h), (4) and (5), 4 and 5, Parts IX and X, sections 87 to 91 and 95) 11 June 2007 (sections 3(3)(a), (b), (c), (d), (f) and (g) and (6), 8, 9, 10, 14 to 18, 21, 24, 27, 28, 30, 31, 36, 38, 40 to 44, 47, 48, 53, 54, 58, 59, 60, 61, 64 to 68, 86, 92, 96 and 97) 14 February 2008 (sections 12, 13, 37, 45 and 46) Note: This Act was brought into force after it was revised in 2002.
+
+2. Act 24 of 2007 — Gas (Amendment) Act 2007 Bill : 18/2007 First Reading : 10 April 2007 Second and Third Readings : 21 May 2007 Commencement : 8 June 2007 (section 36) 11 June 2007 (sections 2 to 6, 8 to 13, 15 to 35 and 37) 14 February 2008 (sections 7 and 14) 3. Act 43 of 2018 — Gas (Amendment) Act 2018 Bill : 36/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 3 May 2019 4. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act (Amendments made by section 480 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 480) 5. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 59 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 59 of the Schedule) 6. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 15(8) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 15(8))
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,6 +1,6 @@
 # 10. Prohibition on transfer of gas licence without consent of Authority
-Part: PART III LICENSING OF ACTIVITIES RELATING TO GAS
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO GAS
 
-(1) No gas licence shall be transferred without the prior consent in writing of the Authority.
+(1) No gas licence may be transferred without the prior written consent of the Authority.
 
-(2) Any purported transfer of a gas licence shall be void.
+(2) Any purported transfer of a gas licence is void.

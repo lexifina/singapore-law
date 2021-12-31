@@ -1,9 +1,9 @@
 # 9. Conditions of gas licences
-Part: PART III LICENSING OF ACTIVITIES RELATING TO GAS
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO GAS
 
 (1) A gas licence may include such restrictions or conditions (whether or not relating to the activities authorised by the gas licence) as appear to the Authority to be requisite or expedient having regard to the functions and duties of the Authority under section 3.
 
-(2) Without prejudice to the generality of subsection (1), a gas licence may include conditions —
+(2) Without limiting subsection (1), a gas licence may include conditions —
 
 (a) restricting the activities which the gas licensee is permitted to carry out;
 
@@ -23,7 +23,7 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO GAS
 
 (f) requiring the gas licensee to comply with any direction, determination, order or decision of the Authority as to such matters specified in its gas licence or are of a description so specified;
 
-(g) requiring the gas licensee to do or not to do such things as are specified in its gas licence or are of a description so specified, except in so far as the Authority consents to its doing or not doing them, as the case may be;
+(g) requiring the gas licensee to do or not to do such things as are specified in its gas licence or are of a description so specified, except insofar as the Authority consents to its doing or not doing them, as the case may be;
 
 (h) requiring the gas licensee to comply with any code of practice and standard of performance applicable to the gas licensee;
 
@@ -31,15 +31,21 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO GAS
 
 (j) imposing requirements by reference to designation, acceptance or approval by the Authority;
 
-(k) providing for references in the conditions to any document specified or described in the gas licence to operate as references to that document as revised or re-issued from time to time; and
+(k) providing for references in the conditions of the gas licence to any document specified or described in the gas licence to operate as references to that document as revised or reissued from time to time;
 
-(l) providing that the conditions of the gas licence shall have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions.
+(l) providing that the conditions of the gas licence have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions;
 
-(3) Without prejudice to the generality of subsection (1), a gas transporter’s licence may include conditions —
+(m) requiring the gas licensee to provide a performance bond, guarantee or any other form of security on such terms and conditions as the Authority may determine; and
+
+(n) where the gas licensee is not incorporated or does not have a place of business in Singapore, requiring the gas licensee to appoint, and notify the Authority of, a person who has a residential address or a place of business in Singapore to accept service on behalf of the gas licensee of any notice, order or document required or authorised by this Act to be given or served on the gas licensee.
+
+[24/2007]
+
+(3) Without limiting subsection (1), a gas transporter’s licence may include conditions —
 
 (a) requiring the gas transporter to enter into an arrangement with any person for —
 
-(i) the conveyance of gas through a gas pipeline or gas pipeline network of the gas transporter; and
+(i) the conveyance of gas through a gas pipeline or gas pipeline network owned by, or under the management or control of, the gas transporter; and
 
 (ii) such other purposes as may be specified in the gas transporter’s licence, on such terms as may be approved by the Authority;
 
@@ -53,13 +59,15 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO GAS
 
 (f) requiring the gas transporter to interconnect one or more gas pipelines or gas pipeline networks or to convert a gas pipeline network to allow for the conveyance of natural gas through that gas pipeline network;
 
-(g) pertaining to the prices to be charged by the gas transporter for use of the gas transporter’s gas pipeline or gas pipeline network and the methods by which such charges are determined; and
+(g) pertaining to the prices to be charged by the gas transporter for use of a gas pipeline or gas pipeline network owned by, or under the management or control of, the gas transporter and the methods by which such charges are to be determined; and
 
 (h) requiring the gas transporter to establish and maintain arrangements with respect to the provision of special services for meeting the needs of consumers who are chronically sick, disabled or elderly or as appear to the Authority to be requisite or expedient having regard to those duties.
 
-(4) Without prejudice to the generality of subsection (1), a gas retailer’s licence may include conditions —
+[24/2007]
 
-(a) requiring the gas retailer to secure such rights for the conveyance of gas through a gas transporter’s gas pipeline or gas pipeline network as are necessary for the purposes of complying with those obligations owed by it to consumers connected to such gas pipeline or gas pipeline network;
+(4) Without limiting subsection (1), a gas retailer’s licence may include conditions —
+
+(a) requiring the gas retailer to secure such rights for the conveyance of gas through a gas pipeline or gas pipeline network owned by, or under the management or control of, a gas transporter as are necessary for the purposes of complying with obligations owed by the gas retailer to consumers connected to such gas pipeline or gas pipeline network;
 
 (b) requiring the gas retailer to establish and maintain arrangements with respect to the provision of special services for meeting the needs of consumers who are chronically sick, disabled or elderly or as appear to the Authority to be requisite or expedient having regard to those duties;
 
@@ -68,3 +76,39 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO GAS
 (d) pertaining to converting a gas pipeline network to allow for the conveyance of natural gas through a gas pipeline network; and
 
 (e) pertaining to the prices to be charged by the gas retailer for the retailing of gas and the methods by which such charges are determined.
+
+[24/2007]
+
+(5) Without limiting subsection (1), an onshore receiving facility operator’s licence may include conditions —
+
+(a) requiring the onshore receiving facility operator to —
+
+(i) have in place procedures for compliance by the operator in the event of a public emergency; and
+
+(ii) have emergency response capabilities; and
+
+(b) requiring the onshore receiving facility operator to appoint, at such intervals and on such terms as the Authority may direct, an independent technical auditor for the purposes specified in any such condition.
+
+[24/2007]
+
+(6) Without limiting subsection (1), an LNG terminal operator’s licence may include conditions —
+
+(a) pertaining to the type, specifications and use of the LNG terminal;
+
+(b) requiring the LNG terminal operator to —
+
+(i) have in place procedures for compliance by the operator in the event of a public emergency; and
+
+(ii) have emergency response capabilities;
+
+(c) pertaining to the quantities of natural gas or liquefied natural gas which may be received, stored or processed at the LNG terminal;
+
+(d) regulating the terms and conditions of any service provided at the LNG terminal; and
+
+(e) requiring the LNG terminal operator to appoint, at such intervals and on such terms as the Authority may direct, an independent technical auditor for the purposes specified in any such condition.
+
+[24/2007]
+
+(7) Without limiting subsection (1), a gas importer’s licence may include a condition controlling the quantities of natural gas or liquefied natural gas to be imported.
+
+[24/2007]

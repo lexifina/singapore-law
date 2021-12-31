@@ -1,7 +1,7 @@
 # 21. General duties of gas transporter
-Part: PART V GAS TRANSPORTERS
+Part: PART 5 GAS TRANSPORTERS
 
-(1) It shall be the duty of a gas transporter —
+(1) It is the duty of a gas transporter —
 
 (a) to develop and maintain a safe, efficient, reliable and economical gas pipeline or gas pipeline network for the conveyance of gas;
 
@@ -9,8 +9,10 @@ Part: PART V GAS TRANSPORTERS
 
 (c) to carry on its licensed gas business at all times in such a manner so as not to prevent, restrict or otherwise hinder the development of competition in any gas market in Singapore.
 
-(2) It shall also be the duty of a gas transporter to avoid undue preference or undue discrimination —
+(2) It is the duty of a gas transporter to avoid undue preference or undue discrimination —
 
-(a) in the terms on which it undertakes the conveyance of gas by any gas pipeline or gas pipeline network owned and operated by him; or
+(a) in the terms on which it undertakes the conveyance of gas by any gas pipeline or gas pipeline network owned by, or under the management or control of, the gas transporter; or
 
 (b) in the connection of premises to such a gas pipeline or gas pipeline network.
+
+[24/2007]
