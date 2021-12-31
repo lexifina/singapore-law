@@ -1,0 +1,4 @@
+# 31. [Repealed]
+Part: PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
+
+[Repealed by Act 33 of 2018]

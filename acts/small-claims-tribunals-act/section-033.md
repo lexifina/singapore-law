@@ -1,0 +1,4 @@
+# 33. Adjournments
+Part: PART 2 ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
+
+A tribunal may at any time, either of its own motion or on the application of any party, adjourn the hearing of proceedings on a claim on such terms as it thinks fit.
