@@ -1,4 +1,4 @@
 # 22. Amendment of Schedule
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-The Minister may, from time to time, by order published in the Gazette, amend the Schedule.
+The Minister may, by order in the Gazette, amend the Schedule.
