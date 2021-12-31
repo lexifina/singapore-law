@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Sections 16(1), 17(1) and 24(1).
+Sections 16(1), 17(1) and 24(1)
 
 OFFENCES
 
@@ -46,7 +46,7 @@ THE SCHEDULE — continued
 
 20. Without authority, abandons any arms, vessel or vehicle of the Corps or the Police Force.
 
-21. Does an act in relation to anything or substance that may be dangerous to life or property, which act causes, or is likely to cause, loss of life or bodily injury to any member or cause, or is likely to cause, damage to or destruction of any property.
+21. Does an act in relation to any thing or substance that may be dangerous to life or property, which act causes, or is likely to cause, loss of life or bodily injury to any member or cause, or is likely to cause, damage to or destruction of any property.
 
 22. Wilfully damages or destroys or causes the loss of, or is concerned in the wilful damage, destruction or loss of, any property belonging to the Government or to a member.
 
@@ -59,5 +59,3 @@ THE SCHEDULE — continued
 26. Misapplies or wastefully expends any property of the Government.
 
 27. Being a full-time member, engages in any trade or employment without the permission of the Commissioner.
-
-[24/82]

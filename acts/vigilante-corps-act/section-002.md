@@ -20,8 +20,6 @@ In this Act, unless the context otherwise requires —
 
 “officer” means any member of the Corps not below the rank of assistant unit leader;
 
-“Police Force” means the Singapore Police Force established by the Police Force Act (Cap. 235);
+“Police Force” means the Singapore Police Force established by the Police Force Act 2004;
 
 “subordinate officer” means a member of the Corps below the rank of assistant unit leader.
-
-[24/82]

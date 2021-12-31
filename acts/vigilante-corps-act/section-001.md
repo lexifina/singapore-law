@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Vigilante Corps Act.
+This Act is the Vigilante Corps Act 1967.

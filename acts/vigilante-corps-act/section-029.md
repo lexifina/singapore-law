@@ -18,8 +18,4 @@
 
 (d) the sum required to pay a fine imposed under section 16 or 17 or any fine, penalty, damages, compensation or costs which a court before which he has been charged with an offence has ordered him to pay.
 
-[24/82]
-
 (2) The total amount of deduction from the ordinary pay due to a member of the Corps in respect of the sums required to pay any compensation, fine or sum awarded or ordered to be paid under subsection (1) shall not exceed such sums as will leave to him less than $1 a day; and a member shall not be subjected to any deductions greater than is sufficient to make good the expenses, loss, damage or destruction for which the compensation is awarded, or to pay the sum awarded or ordered.
-
-[24/82]
