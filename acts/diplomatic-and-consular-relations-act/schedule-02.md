@@ -12,7 +12,7 @@ Having in mind the Purposes and Principles of the Charter of the United Nations 
 
 Considering that the United Nations Conference on Diplomatic Intercourse and Immunities adopted the Vienna Convention on Diplomatic Relations which was opened for signature on 18 April 1961,
 
-Believing that an international convention on consular relations, privileges and immunities would also contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems,
+Believing that an international convention on consular relations, privileges and immunities would also contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems, SECOND SCHEDULE — continued
 
 Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of functions by consular posts on behalf of their respective States,
 
@@ -26,29 +26,29 @@ Definitions
 
 1. For the purposes of the present Convention, the following expressions shall have the meanings hereunder assigned to them:
 
-(a) ‘‘consular post’’ means any consulate-general, consulate, vice-consulate or consular agency;
+(a) “consular post” means any consulate-general, consulate, vice-consulate or consular agency;
 
-(b) ‘‘consular district’’ means the area assigned to a consular post for the exercise of consular functions;
+(b) “consular district” means the area assigned to a consular post for the exercise of consular functions;
 
-(c) ‘‘head of consular post’’ means the person charged with the duty of acting in that capacity;
+(c) “head of consular post” means the person charged with the duty of acting in that capacity;
 
-(d) ‘‘consular officer’’ means any person, including the head of a consular post, entrusted in that capacity with the exercise of consular functions;
+(d) “consular officer” means any person, including the head of a consular post, entrusted in that capacity with the exercise of consular functions;
 
-(e) ‘‘consular employee’’ means any person employed in the administrative or technical service of a consular post;
+(e) “consular employee” means any person employed in the administrative or technical service of a consular post;
 
-(f) ‘‘member of the service staff’’ means any person employed in the domestic service of a consular post;
+(f) “member of the service staff” means any person employed in the domestic service of a consular post;
 
-SECOND SCHEDULE — continued
+(g) “members of the consular post” means consular officers, consular employees and members of the service staff;
 
-(g) ‘‘members of the consular post’’ means consular officers, consular employees and members of the service staff;
+(h) “members of the consular staff” means consular officers, other than the head of a consular post, consular employees and members of the service staff;
 
-(h) ‘‘members of the consular staff’’ means consular officers, other than the head of a consular post, consular employees and members of the service staff;
+(i) “member of the private staff” means a person who is employed exclusively in the private service of a member of the consular post;
 
-(i) ‘‘member of the private staff’’ means a person who is employed exclusively in the private service of a member of the consular post;
+(j) “consular premises” means the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post;
 
-(j) ‘‘consular premises’’ means the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post;
+(k) “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular SECOND SCHEDULE — continued
 
-(k) ‘‘consular archives’’ includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indexes and any article of furniture intended for their protection or safekeeping.
+post, together with the ciphers and codes, the card-indexes and any article of furniture intended for their protection or safekeeping.
 
 2. Consular officers are of two categories, namely career consular officers and honorary consular officers. The provisions of Chapter II of the present Convention apply to consular posts headed by career consular officers; the provisions of Chapter III govern consular posts headed by honorary consular officers.
 
@@ -72,8 +72,6 @@ Establishment of consular relations
 
 3. The severance of diplomatic relations shall not ipso facto involve the severance of consular relations.
 
-SECOND SCHEDULE — continued
-
 Article 3
 
 Exercise of consular functions
@@ -86,11 +84,13 @@ Establishment of a consular post
 
 1. A consular post may be established in the territory of the receiving State only with that State’s consent.
 
+SECOND SCHEDULE — continued
+
 2. The seat of the consular post, its classification and the consular district shall be established by the sending State and shall be subject to the approval of the receiving State.
 
 3. Subsequent changes in the seat of the consular post, its classification or the consular district may be made by the sending State only with the consent of the receiving State.
 
-4. The consent of the receiving State shall also be required if a consulate- general or a consulate desires to open a vice-consulate or a consular agency in a locality other than that in which it is itself established.
+4. The consent of the receiving State shall also be required if a consulate-general or a consulate desires to open a vice-consulate or a consular agency in a locality other than that in which it is itself established.
 
 5. The prior express consent of the receiving State shall also be required for the opening of an office forming part of an existing consular post elsewhere than at the seat thereof.
 
@@ -106,13 +106,13 @@ Consular functions consist in:
 
 (c) ascertaining by all lawful means conditions and developments in the commercial, economic, cultural and scientific life of the receiving State, reporting thereon to the Government of the sending State and giving information to persons interested;
 
-SECOND SCHEDULE — continued
-
 (d) issuing passports and travel documents to nationals of the sending State, and visas or appropriate documents to persons wishing to travel to the sending State;
 
 (e) helping and assisting nationals, both individuals and bodies corporate, of the sending State;
 
 (f) acting as notary and civil registrar and in capacities of a similar kind, and performing certain functions of an administrative nature, provided that there is nothing contrary thereto in the laws and regulations of the receiving State;
+
+SECOND SCHEDULE — continued
 
 (g) safeguarding the interests of nationals, both individuals and bodies corporate, of the sending State in cases of succession mortis causa in the territory of the receiving State, in accordance with the laws and regulations of the receiving State;
 
@@ -126,9 +126,9 @@ SECOND SCHEDULE — continued
 
 (l) extending assistance to vessels and aircraft mentioned in sub-paragraph (k) of this Article and to their crews, taking statements regarding the voyage of a vessel, examining and stamping the ship’s papers, and, without prejudice to the powers of the authorities of the receiving State, conducting investigations into any incidents which occurred during the voyage, and settling disputes of any kind between the master, the officers and the seamen in so far as this may be authorized by the laws and regulations of the sending State;
 
-SECOND SCHEDULE — continued
-
 (m) performing any other functions entrusted to a consular post by the sending State which are not prohibited by the laws and regulations of the receiving State or to which no objection is taken by the receiving State or which are referred to in the international agreements in force between the sending State and the receiving State.
+
+SECOND SCHEDULE — continued
 
 Article 6
 
@@ -244,11 +244,11 @@ Performance of diplomatic acts by consular officers
 
 1. In a State where the sending State has no diplomatic mission and is not represented by a diplomatic mission of a third State, a consular officer may, with the consent of the receiving State, and without affecting his consular status, be authorized to perform diplomatic acts. The performance of such acts by a consular officer shall not confer upon him any right to claim diplomatic privileges and immunities.
 
+SECOND SCHEDULE — continued
+
 2. A consular officer may, after notification addressed to the receiving State, act as representative of the sending State to any inter-governmental organization.
 
 When so acting, he shall be entitled to enjoy any privileges and immunities accorded to such a representative by customary international law or by international agreements; however, in respect of the performance by him of any consular function, he shall not be entitled to any greater immunity from jurisdiction than that to which a consular officer is entitled under the present Convention.
-
-SECOND SCHEDULE — continued
 
 Article 18
 
@@ -274,13 +274,13 @@ Size of the consular staff
 
 In the absence of an express agreement as to the size of the consular staff, the receiving State may require that the size of the staff be kept within limits considered by it to be reasonable and normal, having regard to circumstances and conditions in the consular district and to the needs of the particular post.
 
+SECOND SCHEDULE — continued
+
 Article 21
 
 Precedence as between consular officers of a consular post
 
 The order of precedence as between the consular officers of a consular post and any change thereof shall be notified by the diplomatic mission of the sending State or, if that State has no such mission in the receiving State, by the head of the consular post, to the Ministry for Foreign Affairs of the receiving State or to the authority designated by that Ministry.
-
-SECOND SCHEDULE — continued
 
 Article 22
 
@@ -294,7 +294,7 @@ Nationality of consular officers
 
 Article 23
 
-Persons declared ‘‘non grata’’
+Persons declared “non grata”
 
 1. The receiving State may at any time notify the sending State that a consular officer is persona non grata or that any other member of the consular staff is not acceptable. In that event, the sending State shall, as the case may be, either recall the person concerned or terminate his functions with the consular post.
 
@@ -304,6 +304,8 @@ Persons declared ‘‘non grata’’
 
 4. In the cases mentioned in paragraphs 1 and 3 of this Article, the receiving State is not obliged to give to the sending State reasons for its decision.
 
+SECOND SCHEDULE — continued
+
 Article 24
 
 Notification to the receiving State of appointments, arrivals and departures
@@ -311,8 +313,6 @@ Notification to the receiving State of appointments, arrivals and departures
 1. The Ministry for Foreign Affairs of the receiving State or the authority designated by that Ministry shall be notified of:
 
 (a) the appointment of members of a consular post, their arrival after appointment to the consular post, their final departure or the termination of their functions and any other changes affecting their status that may occur in the course of their service with the consular post;
-
-SECOND SCHEDULE — continued
 
 (b) the arrival and final departure of a person belonging to the family of a member of a consular post forming part of his household and, where appropriate, the fact that a person becomes or ceases to be such a member of the family;
 
@@ -338,13 +338,13 @@ The functions of a member of a consular post shall come to an end inter alia:
 
 (c) on notification by the receiving State to the sending State that the receiving State has ceased to consider him as a member of the consular staff.
 
+SECOND SCHEDULE — continued
+
 Article 26
 
 Departure from the territory of the receiving State
 
 The receiving State shall, even in case of armed conflict, grant to members of the consular post and members of the private staff, other than nationals of the receiving State, and to members of their families forming part of their households irrespective of nationality, the necessary time and facilities to enable them to prepare their departure and to leave at the earliest possible moment after the termination of the functions of the members concerned. In particular, it shall, in case of need, place at their disposal the necessary means of transport for themselves and their property other than property acquired in the receiving State the export of which is prohibited at the time of departure.
-
-SECOND SCHEDULE — continued
 
 Article 27
 
@@ -362,6 +362,8 @@ Protection of consular premises and archives and of the interests of the sending
 
 (a) if the sending State, although not represented in the receiving State by a diplomatic mission, has another consular post in the territory of that State, that consular post may be entrusted with the custody of the premises of the consular post which has been closed, together with the property contained therein and the consular archives, and, with the consent of the receiving State, with the exercise of consular functions in the district of that consular post; or
 
+SECOND SCHEDULE — continued
+
 (b) if the sending State has no diplomatic mission and no other consular post in the receiving State, the provisions of sub-paragraphs (b) and (c) of paragraph 1 of this Article shall apply.
 
 CHAPTER II
@@ -377,8 +379,6 @@ Article 28
 Facilities for the work of the consular post
 
 The receiving State shall accord full facilities for the performance of the functions of the consular post.
-
-SECOND SCHEDULE — continued
 
 Article 29
 
@@ -396,6 +396,8 @@ Accommodation
 
 1. The receiving State shall either facilitate the acquisition on its territory, in accordance with its laws and regulations, by the sending State of premises necessary for its consular post or assist the latter in obtaining accommodation in some other way.
 
+SECOND SCHEDULE — continued
+
 2. It shall also, where necessary, assist the consular post in obtaining suitable accommodation for its members.
 
 Article 31
@@ -408,9 +410,7 @@ Inviolability of the consular premises
 
 3. Subject to the provisions of paragraph 2 of this Article, the receiving State is under a special duty to take all appropriate steps to protect the consular premises against any intrusion or damage and to prevent any disturbance of the peace of the consular post or impairment of its dignity.
 
-4. The consular premises, their furnishings, the property of the consular post and its means of transport shall be immune from any form of requisition for purposes of national defence or public utility. If expropriation is necessary for such SECOND SCHEDULE — continued
-
-purposes, all possible steps shall be taken to avoid impeding the performance of consular functions, and prompt, adequate and effective compensation shall be paid to the sending State.
+4. The consular premises, their furnishings, the property of the consular post and its means of transport shall be immune from any form of requisition for purposes of national defence or public utility. If expropriation is necessary for such purposes, all possible steps shall be taken to avoid impeding the performance of consular functions, and prompt, adequate and effective compensation shall be paid to the sending State.
 
 Article 32
 
@@ -419,6 +419,8 @@ Exemption from taxation of consular premises
 1. Consular premises and the residence of the career head of consular post of which the sending State or any person acting on its behalf is the owner or lessee shall be exempt from all national, regional or municipal dues and taxes whatsoever, other than such as represent payment for specific services rendered.
 
 2. The exemption from taxation referred to in paragraph 1 of this Article shall not apply to such dues and taxes if, under the law of the receiving State, they are payable by the person who contracted with the sending State or with the person acting on its behalf.
+
+SECOND SCHEDULE — continued
 
 Article 33
 
@@ -438,17 +440,15 @@ Freedom of communication
 
 1. The receiving State shall permit and protect freedom of communication on the part of the consular post for all official purposes. In communicating with the Government, the diplomatic missions and other consular posts, wherever situated, of the sending State, the consular post may employ all appropriate means, including diplomatic or consular couriers, diplomatic or consular bags and messages in code or cipher. However, the consular post may install and use a wireless transmitter only with the consent of the receiving State.
 
-2. The official correspondence of the consular post shall be inviolable.
-
-Official correspondence means all correspondence relating to the consular post and its functions.
-
-SECOND SCHEDULE — continued
+2. The official correspondence of the consular post shall be inviolable. Official correspondence means all correspondence relating to the consular post and its functions.
 
 3. The consular bag shall be neither opened nor detained. Nevertheless, if the competent authorities of the receiving State have serious reason to believe that the bag contains something other than the correspondence, documents or articles referred to in paragraph 4 of this Article, they may request that the bag be opened in their presence by an authorized representative of the sending State. If this request is refused by the authorities of the sending State, the bag shall be returned to its place of origin.
 
 4. The packages constituting the consular bag shall bear visible external marks of their character and may contain only official correspondence and documents or articles intended exclusively for official use.
 
-5. The consular courier shall be provided with an official document indicating his status and the number of packages constituting the consular bag. Except with the consent of the receiving State he shall be neither a national of the receiving State, nor, unless he is a national of the sending State, a permanent resident of the receiving State. In the performance of his functions he shall be protected by the receiving State. He shall enjoy personal inviolability and shall not be liable to any form of arrest or detention.
+5. The consular courier shall be provided with an official document indicating his status and the number of packages constituting the consular bag. Except with the consent of the receiving State he shall be neither a national of the receiving SECOND SCHEDULE — continued
+
+State, nor, unless he is a national of the sending State, a permanent resident of the receiving State. In the performance of his functions he shall be protected by the receiving State. He shall enjoy personal inviolability and shall not be liable to any form of arrest or detention.
 
 6. The sending State, its diplomatic missions and its consular posts may designate consular couriers ad hoc. In such cases the provisions of paragraph 5 of this Article shall also apply except that the immunities therein mentioned shall cease to apply when such a courier has delivered to the consignee the consular bag in his charge.
 
@@ -462,15 +462,15 @@ Communication and contact with nationals of the sending State
 
 (a) consular officers shall be free to communicate with nationals of the sending State and to have access to them. Nationals of the sending State shall have the same freedom with respect to communication with and access to consular officers of the sending State;
 
-SECOND SCHEDULE — continued
-
 (b) if he so requests, the competent authorities of the receiving State shall, without delay, inform the consular post of the sending State if, within its consular district, a national of that State is arrested or committed to prison or to custody pending trial or is detained in any other manner.
 
 Any communication addressed to the consular post by the person arrested, in prison, custody or detention shall also be forwarded by the said authorities without delay. The said authorities shall inform the person concerned without delay of his rights under this sub-paragraph;
 
-(c) consular officers shall have the right to visit a national of the sending State who is in prison, custody or detention, to converse and correspond with him and to arrange for his legal representation. They shall also have the right to visit any national of the sending State who is in prison, custody or detention in their district in pursuance of a judgment.
+SECOND SCHEDULE — continued
 
-Nevertheless, consular officers shall refrain from taking action on behalf of a national who is in prison, custody or detention if he expressly opposes such action.
+(c) consular officers shall have the right to visit a national of the sending State who is in prison, custody or detention, to converse and correspond with him and to arrange for his legal representation.
+
+They shall also have the right to visit any national of the sending State who is in prison, custody or detention in their district in pursuance of a judgment. Nevertheless, consular officers shall refrain from taking action on behalf of a national who is in prison, custody or detention if he expressly opposes such action.
 
 2. The rights referred to in paragraph 1 of this Article shall be exercised in conformity with the laws and regulations of the receiving State, subject to the proviso, however, that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under this Article are intended.
 
@@ -486,8 +486,6 @@ If the relevant information is available to the competent authorities of the rec
 
 (c) if a vessel, having the nationality of the sending State, is wrecked or runs aground in the territorial sea or internal waters of the receiving State, or if an aircraft registered in the sending State suffers an accident on the territory of the receiving State, to inform without delay the consular post nearest to the scene of the occurrence.
 
-SECOND SCHEDULE — continued
-
 Article 38
 
 Communication with the authorities of the receiving State
@@ -495,6 +493,8 @@ Communication with the authorities of the receiving State
 In the exercise of their functions, consular officers may address:
 
 (a) the competent local authorities of their consular district;
+
+SECOND SCHEDULE — continued
 
 (b) the competent central authorities of the receiving State if and to the extent that this is allowed by the laws, regulations and usages of the receiving State or by the relevant international agreements.
 
@@ -610,9 +610,9 @@ Exemption from taxation
 
 1. Consular officers and consular employees and members of their families forming part of their households shall be exempt from all dues and taxes, personal or real, national, regional or municipal, except:
 
-(a) indirect taxes of a kind which are normally incorporated in the price of goods or services;
-
 SECOND SCHEDULE — continued
+
+(a) indirect taxes of a kind which are normally incorporated in the price of goods or services;
 
 (b) dues or taxes on private immovable property situated in the territory of the receiving State, subject to the provisions of Article 32;
 
@@ -640,9 +640,9 @@ Exemption from customs duties and inspection
 
 2. Consular employees shall enjoy the privileges and exemptions specified in paragraph 1 of this Article in respect of articles imported at the time of first installation.
 
-3. Personal baggage accompanying consular officers and members of their families forming part of their households shall be exempt from inspection. It may be inspected only if there is serious reason to believe that it contains articles other than those referred to in sub-paragraph (b) of paragraph 1 of this Article, or articles the import or export of which is prohibited by the laws and regulations of the receiving State or which are subject to its quarantine laws and regulations. Such inspection shall be carried out in the presence of the consular officer or member of his family concerned.
-
 SECOND SCHEDULE — continued
+
+3. Personal baggage accompanying consular officers and members of their families forming part of their households shall be exempt from inspection. It may be inspected only if there is serious reason to believe that it contains articles other than those referred to in sub-paragraph (b) of paragraph 1 of this Article, or articles the import or export of which is prohibited by the laws and regulations of the receiving State or which are subject to its quarantine laws and regulations. Such inspection shall be carried out in the presence of the consular officer or member of his family concerned.
 
 Article 51
 
@@ -666,11 +666,11 @@ Beginning and end of consular privileges and immunities
 
 1. Every member of the consular post shall enjoy the privileges and immunities provided in the present Convention from the moment he enters the territory of the receiving State on proceeding to take up his post or, if already in its territory, from the moment when he enters on his duties with the consular post.
 
+SECOND SCHEDULE — continued
+
 2. Members of the family of a member of the consular post forming part of his household and members of his private staff shall receive the privileges and immunities provided in the present Convention from the date from which he enjoys privileges and immunities in accordance with paragraph 1 of this Article or from the date of their entry into the territory of the receiving State or from the date of their becoming a member of such family or private staff, whichever is the latest.
 
-3. When the functions of a member of the consular post have come to an end, his privileges and immunities and those of a member of his family forming part of his household or a member of his private staff shall normally cease at the moment when the person concerned leaves the receiving State or on the expiry of a reasonable period in which to do so, whichever is the sooner, but shall subsist until that time, SECOND SCHEDULE — continued
-
-even in case of armed conflict. In the case of the persons referred to in paragraph 2 of this Article, their privileges and immunities shall come to an end when they cease to belong to the household or to be in the service of a member of the consular post provided, however, that if such persons intend leaving the receiving State within a reasonable period thereafter, their privileges and immunities shall subsist until the time of their departure.
+3. When the functions of a member of the consular post have come to an end, his privileges and immunities and those of a member of his family forming part of his household or a member of his private staff shall normally cease at the moment when the person concerned leaves the receiving State or on the expiry of a reasonable period in which to do so, whichever is the sooner, but shall subsist until that time, even in case of armed conflict. In the case of the persons referred to in paragraph 2 of this Article, their privileges and immunities shall come to an end when they cease to belong to the household or to be in the service of a member of the consular post provided, however, that if such persons intend leaving the receiving State within a reasonable period thereafter, their privileges and immunities shall subsist until the time of their departure.
 
 4. However, with respect to acts performed by a consular officer or a consular employee in the exercise of his functions, immunity from jurisdiction shall continue to subsist without limitation of time.
 
@@ -684,11 +684,11 @@ Obligations of third States
 
 2. In circumstances similar to those specified in paragraph 1 of this Article, third States shall not hinder the transit through their territory of other members of the consular post or of members of their families forming part of their households.
 
+SECOND SCHEDULE — continued
+
 3. Third States shall accord to official correspondence and to other official communications in transit, including messages in code or cipher, the same freedom and protection as the receiving State is bound to accord under the present Convention. They shall accord to consular couriers who have been granted a visa, if a visa was necessary, and to consular bags in transit, the same inviolability and protection as the receiving State is bound to accord under the present Convention.
 
 4. The obligations of third States under paragraphs 1, 2 and 3 of this Article shall also apply to the persons mentioned respectively in those paragraphs, and to official communications and to consular bags, whose presence in the territory of the third State is due to force majeure.
-
-SECOND SCHEDULE — continued
 
 Article 55
 
@@ -712,6 +712,8 @@ Special provisions concerning private gainful occupation
 
 1. Career consular officers shall not carry on for personal profit any professional or commercial activity in the receiving State.
 
+SECOND SCHEDULE — continued
+
 2. Privileges and immunities provided in this Chapter shall not be accorded:
 
 (a) to consular employees or to members of the service staff who carry on any private gainful occupation in the receiving State;
@@ -719,8 +721,6 @@ Special provisions concerning private gainful occupation
 (b) to members of the family of a person referred to in sub-paragraph (a) of this paragraph or to members of his private staff;
 
 (c) to members of the family of a member of a consular post who themselves carry on any private gainful occupation in the receiving State.
-
-SECOND SCHEDULE — continued
 
 CHAPTER III
 
@@ -744,13 +744,13 @@ Protection of the consular premises
 
 The receiving State shall take such steps as may be necessary to protect the consular premises of a consular post headed by an honorary consular officer against any intrusion or damage and to prevent any disturbance of the peace of the consular post or impairment of its dignity.
 
+SECOND SCHEDULE — continued
+
 Article 60
 
 Exemption from taxation of consular premises
 
 1. Consular premises of a consular post headed by an honorary consular officer of which the sending State is the owner or lessee shall be exempt from all national, regional or municipal dues and taxes whatsoever, other than such as represent payment for specific services rendered.
-
-SECOND SCHEDULE — continued
 
 2. The exemption from taxation referred to in paragraph 1 of this Article shall not apply to such dues and taxes if, under the laws and regulations of the receiving State, they are payable by the person who contracted with the sending State.
 
@@ -766,6 +766,8 @@ Exemption from customs duties
 
 The receiving State shall, in accordance with such laws and regulations as it may adopt, permit entry of, and grant exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services on the following articles, provided that they are for the official use of a consular post headed by an honorary consular officer: coats-of-arms, flags, signboards, seals and stamps, books, official printed matter, office furniture, office equipment and similar articles supplied by or at the instance of the sending State to the consular post.
 
+SECOND SCHEDULE — continued
+
 Article 63
 
 Criminal proceedings
@@ -777,8 +779,6 @@ Article 64
 Protection of honorary consular officers
 
 The receiving State is under a duty to accord to an honorary consular officer such protection as may be required by reason of his official position.
-
-SECOND SCHEDULE — continued
 
 Article 65
 
@@ -798,6 +798,8 @@ Exemption from personal services and contributions
 
 The receiving State shall exempt honorary consular officers from all personal services and from all public services of any kind whatsoever and from military obligations such as those connected with requisitioning, military contributions and billeting.
 
+SECOND SCHEDULE — continued
+
 Article 68
 
 Optional character of the institution of honorary consular officers
@@ -814,9 +816,7 @@ Consular agents who are not heads of consular posts
 
 1. Each State is free to decide whether it will establish or admit consular agencies conducted by consular agents not designated as heads of consular post by the sending State.
 
-2. The conditions under which the consular agencies referred to in paragraph 1 of this Article may carry on their activities and the privileges and SECOND SCHEDULE — continued
-
-immunities which may be enjoyed by the consular agents in charge of them shall be determined by agreement between the sending State and the receiving State.
+2. The conditions under which the consular agencies referred to in paragraph 1 of this Article may carry on their activities and the privileges and immunities which may be enjoyed by the consular agents in charge of them shall be determined by agreement between the sending State and the receiving State.
 
 Article 70
 
@@ -834,17 +834,17 @@ Exercise of consular functions by diplomatic missions
 
 4. The privileges and immunities of the members of a diplomatic mission referred to in paragraph 2 of this Article shall continue to be governed by the rules of international law concerning diplomatic relations.
 
+SECOND SCHEDULE — continued
+
 Article 71
 
 Nationals or permanent residents of the receiving State
 
-1. Except in so far as additional facilities, privileges and immunities may be granted by the receiving State, consular officers who are nationals of or permanently resident in the receiving State shall enjoy only immunity from jurisdiction and personal inviolability in respect of official acts performed in the exercise of their functions, and the privilege provided in paragraph 3 of Article 44. So far as these consular officers are concerned, the receiving State shall likewise be bound by the obligation laid down in Article 42. If criminal proceedings are instituted against such a consular officer, the proceedings shall, except when he is under arrest or detention, be conducted in a manner which will hamper the exercise of consular functions as little as possible.
+1. Except in so far as additional facilities, privileges and immunities may be granted by the receiving State, consular officers who are nationals of or permanently resident in the receiving State shall enjoy only immunity from jurisdiction and personal inviolability in respect of official acts performed in the exercise of their functions, and the privilege provided in paragraph 3 of Article 44.
 
-2. Other members of the consular post who are nationals of or permanently resident in the receiving State and members of their families, as well as members of the families of consular officers referred to in paragraph 1 of this Article, shall enjoy facilities, privileges and immunities only in so far as these are granted to them by the receiving State. Those members of the families of members of the consular post and those members of the private staff who are themselves nationals of or SECOND SCHEDULE — continued
+So far as these consular officers are concerned, the receiving State shall likewise be bound by the obligation laid down in Article 42. If criminal proceedings are instituted against such a consular officer, the proceedings shall, except when he is under arrest or detention, be conducted in a manner which will hamper the exercise of consular functions as little as possible.
 
-permanently resident in the receiving State shall likewise enjoy facilities, privileges and immunities only in so far as these are granted to them by the receiving State.
-
-The receiving State shall, however, exercise its jurisdiction over those persons in such a way as not to hinder unduly the performance of the functions of the consular post.
+2. Other members of the consular post who are nationals of or permanently resident in the receiving State and members of their families, as well as members of the families of consular officers referred to in paragraph 1 of this Article, shall enjoy facilities, privileges and immunities only in so far as these are granted to them by the receiving State. Those members of the families of members of the consular post and those members of the private staff who are themselves nationals of or permanently resident in the receiving State shall likewise enjoy facilities, privileges and immunities only in so far as these are granted to them by the receiving State. The receiving State shall, however, exercise its jurisdiction over those persons in such a way as not to hinder unduly the performance of the functions of the consular post.
 
 Article 72
 
@@ -857,6 +857,8 @@ Non-discrimination
 (a) where the receiving State applies any of the provisions of the present Convention restrictively because of a restrictive application of that provision to its consular posts in the sending State;
 
 (b) where by custom or agreement States extend to each other more favourable treatment than is required by the provisions of the present Convention.
+
+SECOND SCHEDULE — continued
 
 Article 73
 
@@ -876,8 +878,6 @@ Signature
 
 The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies or Parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows until 31 October 1963 at the Federal Ministry for Foreign Affairs of the Republic of Austria and subsequently, until 31 March 1964, at the United Nations Headquarters in New York.
 
-SECOND SCHEDULE — continued
-
 Article 75
 
 Ratification
@@ -889,6 +889,8 @@ Article 76
 Accession
 
 The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 74. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+
+SECOND SCHEDULE — continued
 
 Article 77
 
@@ -913,8 +915,6 @@ Article 79
 Authentic texts
 
 The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 74.
-
-SECOND SCHEDULE — continued
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Convention.
 
