@@ -1,5 +1,5 @@
 # 72. Special administration order, etc., made on application by Authority
-Part: PART VII SPECIAL ADMINISTRATION ORDERS
+Part: PART 7 SPECIAL ADMINISTRATION ORDERS
 
 (1) If, on an application made to the Minister by the Authority, the Minister is satisfied in relation to any company that is an airport licensee that any one or more of the grounds specified in subsection (2) is satisfied in relation to that company, the Minister may make any one or more of the following orders:
 
@@ -19,14 +19,14 @@ Part: PART VII SPECIAL ADMINISTRATION ORDERS
 
 (d) that the Minister otherwise considers it in the public interest.
 
-(3) Notice of any application under subsection (1) shall be given immediately by the Authority to such persons and in such manner as may be prescribed.
+(3) Notice of any application under subsection (1) must be given immediately by the Authority to such persons and in such manner as may be prescribed.
 
-(4) Any decision of the Minister under subsection (1) shall be final.
+(4) Any decision of the Minister under subsection (1) is final.
 
 (5) The Minister may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a company which is an airport licensee to any person appointed by the Minister under subsection (1)(c) to advise the company in the proper conduct of its business.
 
-(6) For the purposes of this section, a company is unable to pay its debts if it is a company which is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
+(6) For the purposes of this section, a company is unable to pay its debts if it is a company which is deemed to be so unable under section 125(2) of the Insolvency, Restructuring and Dissolution Act 2018.
 
-(7) Nothing in Part V shall apply to prohibit or invalidate any special administration order or other order made under this Part or any transaction entered into to give effect to such an order.
+[40/2018]
 
-[4/2010]
+(7) Nothing in Part 5 applies to prohibit or invalidate any special administration order or other order made under this Part or any transaction entered into to give effect to such an order.

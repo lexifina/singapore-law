@@ -1,7 +1,7 @@
 # 16. Revenue and property of Authority
-Part: PART II RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
+Part: PART 2 RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
-(1) The funds and property of the Authority shall include —
+(1) The funds and property of the Authority include —
 
 (a) grants made to it under section 17;
 
@@ -19,8 +19,8 @@ Part: PART II RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
 (h) all accumulations of income derived from any such property or money.
 
-(2) The moneys of the Authority shall be applied only in payment of expenditure incurred by it in the discharge of its functions, duties, obligations and liabilities and in making any payment that it is authorised or required to make by or under law.
+(2) The moneys of the Authority are to be applied only in payment of expenditure incurred by it in the discharge of its functions, duties, obligations and liabilities and in making any payment that it is authorised or required to make by or under law.
 
-(3) The Authority shall open and maintain one or more accounts with such bank or banks as the Authority thinks fit, and every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Authority.
+(3) The Authority must open and maintain one or more accounts with such bank or banks as the Authority thinks fit, and every such account must be operated by such person or persons authorised to do so by the Authority.
 
-(4) It shall be the duty of the Authority to exercise and perform its functions under this Act so as to ensure that the total revenues of the Authority are sufficient, taking one financial year with another, to meet its total outgoings, including depreciation and interest on capital and to meet a reasonable proportion of the cost of performing the functions and duties of the Authority.
+(4) It is the duty of the Authority to exercise and perform its functions under this Act so as to ensure that the total revenues of the Authority are sufficient, taking one financial year with another, to meet its total outgoings, including depreciation and interest on capital and to meet a reasonable proportion of the cost of performing the functions and duties of the Authority.

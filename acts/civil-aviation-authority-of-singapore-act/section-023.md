@@ -1,6 +1,4 @@
-# 23. Annual report
-Part: PART II RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
+# 23. [Repealed] 1
+Part: PART 2 RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
-(1) The Authority shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Authority during the preceding financial year and containing such information relating to the proceedings and policy of the Authority as the Minister may, from time to time, direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+[Repealed by Act 5 of 2018]

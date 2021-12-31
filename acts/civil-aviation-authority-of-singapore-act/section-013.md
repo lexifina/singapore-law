@@ -1,5 +1,5 @@
 # 13. Protection from personal liability
-Part: PART II RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
+Part: PART 2 RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
 (1) Subject to subsection (2), no suit or other legal proceedings shall lie against —
 
@@ -15,4 +15,4 @@ Part: PART II RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
 (c) any economic loss suffered by a person as a result of such a seizure.
 
-(3) Subsection (2) shall not cover loss or damage that is wilfully or negligently caused by a member, or an officer or employee of the Authority, or a person acting under the directions of the Authority.
+(3) Subsection (2) does not cover loss or damage that is wilfully or negligently caused by a member, or an officer or employee of the Authority, or a person acting under the directions of the Authority.

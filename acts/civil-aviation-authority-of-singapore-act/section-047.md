@@ -1,8 +1,8 @@
 # 47. Master plan for each airport
-Part: PART IV LICENSING AND MANAGEMENT OF AIRPORTS Division 1 — Airport licences
+Part: PART 4 LICENSING AND MANAGEMENT OF AIRPORTS Division 1 — Airport licences
 Division: Division 3 — Airport development
 
-(1) For each airport there shall be a master plan approved by the Authority under section 48 —
+(1) For each airport there must be a master plan approved by the Authority under section 48 —
 
 (a) to establish the strategic direction for efficient and economic development at the airport over the planning period of the plan;
 
@@ -10,7 +10,7 @@ Division: Division 3 — Airport development
 
 (c) to reduce potential conflicts between the use of the airport site and to ensure that uses of the airport site are compatible with the areas surrounding the airport.
 
-(2) The master plan for an airport operated or to be operated by an airport licensee shall specify —
+(2) The master plan for an airport operated or to be operated by an airport licensee must specify —
 
 (a) the airport licensee’s development objectives for the airport;
 
@@ -26,6 +26,6 @@ Division: Division 3 — Airport development
 
 (g) such other matters (if any) as are prescribed in the regulations.
 
-(3) Each master plan approved under section 48 for an airport shall remain in force until a draft master plan that is to replace the master plan comes into force for that airport.
+(3) Each master plan approved under section 48 for an airport remains in force until a draft master plan that is to replace the master plan comes into force for that airport.
 
 (4) At least once every 5 years after the approval under section 48 of the master plan for an airport, the airport licensee of the airport must review the master plan for the airport and submit to the Authority a report of its review together with proposals for additions and alterations to the master plan which the airport licensee may consider expedient, including a draft master plan that is to replace the master plan in force for that airport.

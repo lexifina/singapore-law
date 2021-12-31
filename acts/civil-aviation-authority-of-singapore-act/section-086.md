@@ -1,7 +1,7 @@
 # 86. Levy
-Part: PART IX LEVIES, FEES AND CHARGES
+Part: PART 9 LEVIES, FEES AND CHARGES
 
-(1) For the purpose of enabling the Authority to carry out its functions under this Act and any other written law, the Minister may, after consulting the Authority, by order published in the Gazette, impose on all or any of the persons referred to in subsection (2) a levy payable to the Authority.
+(1) For the purpose of enabling the Authority to carry out its functions under this Act and any other written law, the Minister may, after consulting the Authority, by order in the Gazette, impose on all or any of the persons mentioned in subsection (2) a levy payable to the Authority.
 
 (2) An order made under subsection (1) may —
 
@@ -17,7 +17,7 @@ Part: PART IX LEVIES, FEES AND CHARGES
 
 (i) by persons by whom any levy is payable; and
 
-(ii) by an airport licensee or other agent referred to in paragraph (d), and prescribe conditions relating to the making of such returns;
+(ii) by the airport licensee or other agent mentioned in paragraph (d), and prescribe conditions relating to the making of such returns;
 
 (f) prescribe penalties for the late payment of any such levy by persons by whom any levy is payable; and
 

@@ -1,5 +1,5 @@
 # 64. Meaning of “associate”
-Part: PART V RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF AIRPORT LICENSEES Division 1 — Unacceptable situations
+Part: PART 5 RESTRICTIONS ON OWNERSHIP AND MANAGEMENT OF AIRPORT LICENSEES Division 1 — Unacceptable situations
 Division: Division 2 — Definitions
 
 (1) Subject to subsection (3), the following persons are associates of a person:
@@ -26,12 +26,12 @@ Division: Division 2 — Definitions
 
 (k) such other person as may be prescribed by regulations.
 
-(2) If a person (referred to as the first person) enters, or proposes to enter, into an arrangement with another person (referred to as the second person) that relates to any of the following matters:
+(2) If a person (called the first person) enters, or proposes to enter, into an arrangement with another person (called the second person) that relates to any of the following matters:
 
 (a) the first person and the second person being in a position, by acting together, to control any of the voting power in a company;
 
 (b) the power of the first person and the second person, by acting together, to appoint or remove a director of a company;
 
-(c) the situation where one or more of the directors of a company are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the first person and the second person acting together, then, the second person shall be taken to be an associate of the first person for the purposes of the application of any provision in this Part in relation to the matter concerned.
+(c) the situation where one or more of the directors of a company are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the first person and the second person acting together, then, the second person is taken to be an associate of the first person for the purposes of the application of any provision in this Part in relation to the matter concerned.
 
 (3) The regulations may also prescribe that persons are not associates of another specified person.

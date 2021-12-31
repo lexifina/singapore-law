@@ -1,5 +1,5 @@
 # 55. Appeal to Minister
-Part: PART IV LICENSING AND MANAGEMENT OF AIRPORTS Division 1 — Airport licences
+Part: PART 4 LICENSING AND MANAGEMENT OF AIRPORTS Division 1 — Airport licences
 Division: Division 5 — Appeals
 
 (1) Any airport licensee who is aggrieved by —
@@ -18,9 +18,11 @@ Division: Division 5 — Appeals
 
 (vi) refusing approval to an airport licensee to carry on substantial trading or financial activities other than activities specified in section 42(1);
 
-(vii) refusing to approve a draft master plan or the additions and alterations to the master plan in force, as the case may be, for an airport under section 48; or
+(vii) refusing to approve a draft master plan or the additions and alterations to the master plan in force (as the case may be) for an airport under section 48;
 
-(viii) refusing to approve the appointment of a person as the chief executive officer, a director or the chairman of the board of directors, of an airport licensee under section 59(1);
+or
+
+(viii) refusing to approve the appointment of a person as the chief executive officer, a director or the chairperson of the board of directors, of an airport licensee under section 59(1);
 
 (b) any direction of the Authority under section 40, 45 or 60;
 
@@ -32,7 +34,7 @@ Division: Division 5 — Appeals
 
 (2) Any person (other than an airport licensee) who is aggrieved by any decision or direction of the Authority given by or under section 60 may, within 14 days after being notified of the decision or direction (or such longer period as the Minister allows in exceptional circumstances, whether before or after the end of the 14 days), appeal to the Minister in the manner prescribed by rules.
 
-(3) Any person who makes an appeal to the Minister under subsection (1) or (2) shall, within the period specified therein —
+(3) Any person who makes an appeal to the Minister under subsection (1) or (2) must, within the period specified therein —
 
 (a) state as concisely as possible the circumstances under which the appeal arises, the issues and grounds for the appeal; and
 
@@ -42,11 +44,11 @@ Division: Division 5 — Appeals
 
 (a) any party to the appeal; and
 
-(b) any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the matters mentioned in that subsection, to provide the Minister with all such information as he may require (whether for the purpose of deciding if an Appeals Advisory Panel should be established or for determining the appeal), and any person so required to provide such information must provide it in such manner and within such period as may be specified by the Minister.
+(b) any person who is not a party to the appeal but appears to the Minister to have information that is relevant to the matters mentioned in that subsection, to provide the Minister with all such information as he or she may require (whether for the purpose of deciding if an Appeals Advisory Panel should be established or for determining the appeal), and any person so required to provide such information must provide it in such manner and within such period as the Minister may specify.
 
 (5) The Minister may reject any appeal of an appellant who fails to comply with subsection (3) or (4).
 
-(6) Unless otherwise provided by this Act or the Minister, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until the determination of the appeal.
+(6) Unless otherwise provided by this Act or the Minister, where an appeal is lodged under this section, the decision, direction or other thing appealed against must be complied with until the determination of the appeal.
 
 (7) The Minister may determine an appeal under this section —
 
@@ -54,8 +56,8 @@ Division: Division 5 — Appeals
 
 (b) by directing the Authority to reconsider its decision, notice, direction, code of practice or standard of performance, as the case may be.
 
-(8) Before determining an appeal under subsection (7) and for the purpose of forming an opinion on which to base such determination, the Minister may consult such Appeals Advisory Panel established for the purpose of advising the Minister in respect of the appeal but, in making such determination, shall not be bound by such consultation.
+(8) Before determining an appeal under subsection (7) and for the purpose of forming an opinion on which to base such determination, the Minister may consult an Appeals Advisory Panel established for the purpose of advising the Minister in respect of the appeal but, in making such determination, is not bound by such consultation.
 
-(9) The decision of the Minister in any appeal shall be final.
+(9) The Minister’s decision in any appeal is final.
 
 (10) The Minister may make rules in respect of the manner in which an appeal may be made to, and the procedure to be adopted in the hearing of any appeal by, the Minister under this section.

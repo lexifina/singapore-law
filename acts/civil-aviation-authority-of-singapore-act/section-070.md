@@ -1,5 +1,5 @@
 # 70. Access to airport for defence-related purposes, etc.
-Part: PART VI AIRPORT OPERATIONS
+Part: PART 6 AIRPORT OPERATIONS
 
 (1) The Minister may, by written direction given to an airport licensee or exempt airport operator for an airport —
 
@@ -7,13 +7,13 @@ Part: PART VI AIRPORT OPERATIONS
 
 (b) require that priority of access be given to specified kinds of airport service for specified kinds of defence-related purposes, or for the conduct of specified kinds of public events of national significance.
 
-(2) The manner in which that access, or priority of access, is to be given shall be set out in the direction under subsection (1).
+(2) The manner in which that access, or priority of access, is to be given must be set out in the direction under subsection (1).
 
-(3) Subject to section 71, the terms and conditions on which that access, or priority of access, is to be given shall be set out in the direction under subsection (1).
+(3) Subject to section 71, the terms and conditions on which that access, or priority of access, is to be given must be set out in the direction under subsection (1).
 
 (4) Every direction under subsection (1) must specify the Ministry, department or public authority in relation to that direction.
 
-(5) An airport licensee or exempt airport operator shall comply with every direction given to it under subsection (1).
+(5) An airport licensee or exempt airport operator must comply with every direction given to it under subsection (1).
 
 (6) In this section —
 

@@ -1,10 +1,10 @@
 # 49. Major airport development in accordance with master plan
-Part: PART IV LICENSING AND MANAGEMENT OF AIRPORTS Division 1 — Airport licences
+Part: PART 4 LICENSING AND MANAGEMENT OF AIRPORTS Division 1 — Airport licences
 Division: Division 3 — Airport development
 
-(1) An airport licensee for an airport shall not carry out any major airport development relating to the airport, or cause or permit to be carried out any major airport development relating to the airport, unless the carrying out of the development is in accordance with the master plan for that airport or the development is of a kind declared under section 98 to be exempt from this Division.
+(1) An airport licensee for an airport must not carry out any major airport development relating to the airport, or cause or permit to be carried out any major airport development relating to the airport, unless the carrying out of the development is in accordance with the master plan for that airport or the development is of a kind declared under section 98 to be exempt from this Division.
 
-(2) A person (other than an airport licensee for an airport) shall not carry out any major airport development relating to the airport, or cause or permit to be carried out any major airport development relating to the airport, unless the carrying out of the development is in accordance with the master plan for that airport or the development is of a kind declared under section 98 to be exempt from this Division.
+(2) A person (other than an airport licensee for an airport) must not carry out any major airport development relating to the airport, or cause or permit to be carried out any major airport development relating to the airport, unless the carrying out of the development is in accordance with the master plan for that airport or the development is of a kind declared under section 98 to be exempt from this Division.
 
 (3) Any person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
@@ -26,6 +26,6 @@ Division: Division 3 — Airport development
 
 (f) constructing a new cargo terminal;
 
-(g) constructing new hangars, fuel farms, buildings used for in-flight catering, fire-fighting services, or aircraft maintenance facilities; or
+(g) constructing new hangars, fuel farms, buildings used for in-flight catering, firefighting services, or aircraft maintenance facilities; or
 
 (h) such other development as may be prescribed by regulations.

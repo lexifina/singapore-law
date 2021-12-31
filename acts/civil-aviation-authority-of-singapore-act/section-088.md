@@ -1,7 +1,7 @@
 # 88. Fees, charges and late payment penalties
-Part: PART IX LEVIES, FEES AND CHARGES
+Part: PART 9 LEVIES, FEES AND CHARGES
 
-(1) The Authority may, with the approval of the Minister, by order published in the Gazette —
+(1) The Authority may, with the approval of the Minister, by order in the Gazette —
 
 (a) impose fees and charges for air navigation services and other facilities and services the Authority provides at or in connection with any airport;
 
@@ -15,4 +15,4 @@ Part: PART IX LEVIES, FEES AND CHARGES
 
 (3) Different rates of fees and charges may be so prescribed or fixed in respect of different classes of persons, airports, aircraft or services, or on the basis of different times of use or on any other differential basis.
 
-(4) Any such unpaid fee or charge or instalment thereof, or unpaid late payment penalty or interest may be recovered by the Authority as a debt in a court of competent jurisdiction.
+(4) Any such unpaid fee or charge or instalment thereof, or unpaid late payment penalty or interest, may be recovered by the Authority as a debt in a court of competent jurisdiction.

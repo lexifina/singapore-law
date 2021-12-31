@@ -1,5 +1,5 @@
 # 3. Airports
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) The Minister may, after consultation with the Authority, by notification in the Gazette, declare all or any of the following to be an airport for the purposes of this Act:
 
@@ -11,8 +11,8 @@ Part: PART I PRELIMINARY
 
 (iii) for the movement of passengers to facilitate their travel to and from Singapore by aircraft;
 
-(b) any road leading into an area referred to in paragraph (a);
+(b) any road leading into an area mentioned in paragraph (a);
 
 (c) any buildings, installations and equipment on or adjacent to any such area used in connection with the airport or its administration.
 
-(2) Every declaration made under subsection (1) shall define the limits of the airport.
+(2) Every declaration made under subsection (1) must define the limits of the airport.

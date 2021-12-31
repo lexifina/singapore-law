@@ -1,5 +1,5 @@
 # 92. Seizure of aircraft
-Part: PART IX LEVIES, FEES AND CHARGES
+Part: PART 9 LEVIES, FEES AND CHARGES
 
 (1) This section applies if an outstanding amount covered by a statutory lien on an aircraft remains unpaid at the end of 9 months after the day on which it became an outstanding amount or the day on which the lien was registered, whichever is the later.
 
@@ -9,7 +9,7 @@ Part: PART IX LEVIES, FEES AND CHARGES
 
 (b) may keep possession of the aircraft until all outstanding amounts covered by the statutory lien are paid.
 
-(3) The employee who is so authorised shall take reasonable steps to give notice of the seizure in the prescribed form to the following persons:
+(3) The employee who is so authorised must take reasonable steps to give notice of the seizure in the prescribed form to the following persons:
 
 (a) persons who, in the opinion of the authorised employee, have a security interest in the aircraft;
 

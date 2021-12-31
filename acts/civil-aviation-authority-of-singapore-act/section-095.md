@@ -1,9 +1,9 @@
 # 95. Review of decisions
-Part: PART IX LEVIES, FEES AND CHARGES
+Part: PART 9 LEVIES, FEES AND CHARGES
 
 (1) A person affected by a decision made under section 89, 92 or 93 may make a written application to the Authority to reconsider the decision.
 
-(2) The application must be made within 28 days after the day on which the decision first comes to the notice of the applicant, or within such further period as the Authority allows, either before or after the end of that 28-day period.
+(2) The application must be made within 28 days after the day on which the decision first comes to the notice of the person, or within such further period as the Authority allows, either before or after the end of that 28-day period.
 
 (3) The application must set out the grounds on which the applicant is requesting reconsideration of the decision.
 

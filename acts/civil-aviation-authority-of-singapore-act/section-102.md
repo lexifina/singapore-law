@@ -1,9 +1,9 @@
 # 102. Regulations
-Part: PART X MISCELLANEOUS
+Part: PART 10 MISCELLANEOUS
 
 (1) The Authority may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Authority may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
 
 (a) the fees to be paid in respect of the issue, validation, renewal, extension or variation of any certificate, licence or other document or the undergoing of any examination or test required by the regulations and in respect of any other matters in respect of which it appears to the Authority to be expedient for the purpose of the regulations to charge fees;
 
@@ -15,8 +15,14 @@ Part: PART X MISCELLANEOUS
 
 (e) the offences which may be compounded under section 85;
 
-(f) the prescribing of anything that is required or permitted to be prescribed under this Act.
+(f) the procedure for appeals against the decision of a slots coordinator or schedules facilitator under section 71J or 71K, respectively;
 
-(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 2 years or with both.
+(g) the prescribing of anything that is required or permitted to be prescribed under this Act.
 
-(4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+[18/2018]
+
+(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 5 years or with both.
+
+[18/2018]
+
+(4) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.

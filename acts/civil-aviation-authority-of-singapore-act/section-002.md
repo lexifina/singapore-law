@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
@@ -9,23 +9,25 @@ Part: PART I PRELIMINARY
 
 (a) air traffic control services, including air traffic control service for arriving or departing controlled flights, for controlled flights in controlled areas or for traffic within any manoeuvring area and other aerodrome traffic;
 
-(b) air traffic advisory services provided within advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on flight plans in accordance with Instrument Flight Rules;
+(b) air traffic advisory services provided within advisory airspace to ensure separation, insofar as practical, between aircraft which are operating on flight plans in accordance with Instrument Flight Rules;
 
 (c) flight information services;
 
 (d) alerting services provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and to assist such organisations as may be required;
 
-(da) communications, navigation and surveillance services;
+(e) communications, navigation and surveillance services;
 
-(e) meteorological services for air navigation;
+(f) meteorological services for air navigation;
 
-(f) search and rescue services; and
+(g) search and rescue services; and
 
-(g) aeronautical information services for the provision of aeronautical information and data necessary for the safety, regularity and efficiency of air navigation;
+(h) aeronautical information services for the provision of aeronautical information and data necessary for the safety, regularity and efficiency of air navigation;
 
 “air traffic control service” means a service provided for the purposes of —
 
-(a) preventing collisions between aircraft, and between aircraft and obstructions on any manoeuvring area; and
+(a) preventing collisions between aircraft, and between aircraft and obstructions on any manoeuvring area;
+
+and
 
 (b) expediting and maintaining an orderly flow of air traffic;
 
@@ -34,6 +36,8 @@ Part: PART I PRELIMINARY
 “airline” means a person who carries on a commercial air transport enterprise that involves offering or operating air services;
 
 “airport” means any defined area of land in Singapore declared under section 3 to be an airport;
+
+“airport development levy” means a tax of that name payable under section 87A;
 
 “airport licence” means a licence granted under section 36;
 
@@ -81,7 +85,7 @@ Part: PART I PRELIMINARY
 
 (vii) activities undertaken (including the services and facilities provided) in a passenger terminal to enable the check-in and screening of passengers, including services for baggage handling and screening; and
 
-(viii) the holding of any facilities and assets (including land) acquired or held to provide the services referred to in this paragraph in the future (whether or not used for any other purpose in the meantime);
+(viii) the holding of any facilities and assets (including land) acquired or held to provide the services mentioned in this paragraph in the future (whether or not used for any other purpose in the meantime);
 
 (d) in relation to visitors to the airport, such as services and facilities for the parking of motor vehicles and other related services and facilities; and
 
@@ -91,17 +95,19 @@ Part: PART I PRELIMINARY
 
 “airport undertaking” means —
 
-(a) all the lands, buildings and other property, movable or immovable, vested in the Authority immediately before the transfer date for the airport purposes of the Authority, excluding such lands, buildings and other property as may be specified by the Minister (referred to in this Act as excluded property); and
+(a) all the lands, buildings and other property, movable or immovable, vested in the Authority immediately before the transfer date for the airport purposes of the Authority, excluding such lands, buildings and other property as the Minister may specify (called in this Act excluded property); and
 
-(b) all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected with lands, buildings and other property referred to in paragraph (a), other than excluded property;
+(b) all assets, powers, rights, interests, privileges, debts, liabilities and obligations connected with lands, buildings and other property mentioned in paragraph (a), other than excluded property;
 
 “Appeals Advisory Panel” means an Appeals Advisory Panel established under section 56;
 
 “authorised officer”, in relation to any provision of this Act, means any person authorised in that behalf by the Authority under section 76 for the purposes of that provision;
 
-“Authority” means the Civil Aviation Authority of Singapore established under the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Ed.) as in force immediately before 1st July 2009 and reconstituted by this Act;
+“Authority” means the Civil Aviation Authority of Singapore established under the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Revised Edition) as in force immediately before 1 July 2009 and reconstituted by this Act;
 
-“Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
+“Chairperson” means the Chairperson of the Authority and includes any temporary Chairperson of the Authority;
+
+“Changi Airport Development Fund” means the fund of that name established under section 25A;
 
 “Chief Executive” means the Chief Executive of the Authority and includes any person acting in that capacity;
 
@@ -109,11 +115,13 @@ Part: PART I PRELIMINARY
 
 “company” means a body corporate;
 
-“Contracting State” means any country (including Singapore) which is a party to the Convention on International Civil Aviation concluded at Chicago on 7th December 1944;
+“Contracting State” means any country (including Singapore) which is a party to the Convention on International Civil Aviation concluded at Chicago on 7 December 1944;
+
+“coordinated airport” means an airport declared under section 71C(1)(a) as a coordinated airport;
 
 “debenture” includes debenture stock;
 
-“Deputy Chairman” means the Deputy Chairman of the Authority and includes any temporary Deputy Chairman of the Authority;
+“Deputy Chairperson” means the Deputy Chairperson of the Authority and includes any temporary Deputy Chairperson of the Authority;
 
 “exempt airport operator”, in relation to an airport, means the person who is authorised to operate the airport by an exemption granted by the Authority under section 43;
 
@@ -141,7 +149,7 @@ Part: PART I PRELIMINARY
 
 and
 
-(c) exercising control over the direction to be taken in relation to the development of the airport, and “operation” and “operating” shall be construed accordingly;
+(c) exercising control over the direction to be taken in relation to the development of the airport, and “operation” and “operating” are to be construed accordingly;
 
 “outstanding amount”, in relation to an aircraft, means any of the following amounts that has become due and payable, but has not been paid or been remitted:
 
@@ -157,7 +165,11 @@ and
 
 “regulations” and “rules” mean regulations and rules made under this Act;
 
-“repealed Act” means the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Ed.) repealed by this Act;
+“repealed Act” means the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Revised Edition) repealed by this Act;
+
+“schedules facilitated airport” means an airport declared under section 71C(1)(b) as a schedules facilitated airport;
+
+“schedules facilitator” means a person who is appointed under section 71D(1)(b) as the schedules facilitator for a schedules facilitated airport, or the Authority if no such person is appointed;
 
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
@@ -171,12 +183,16 @@ and
 
 “Singapore Search and Rescue Region” means the Singapore Flight Information Region and any area within which search and rescue services are provided by the Government;
 
+“slots coordinator” means a person who is appointed under section 71D(1)(a) as the slots coordinator for a coordinated airport, or the Authority if no such person is appointed;
+
 “statutory lien” means a statutory lien vested in the Authority under section 89;
 
 “successor company” means a company nominated by the Minister under section 27(1);
 
-“transfer date” has the meaning given in section 26.
+“transfer date” has the meaning given by section 26;
 
-[4/2010]
+“vehicle” includes an autonomous motor vehicle within the meaning of the Road Traffic Act 1961.
 
-(2) For the purposes of this Act, a company shall be regarded as wholly owned by the Government at any time when all the issued shares in the company are held by or on behalf of the Government.
+[18/2018]
+
+(2) For the purposes of this Act, a company is regarded as wholly owned by the Government at any time when all the issued shares in the company are held by or on behalf of the Government.

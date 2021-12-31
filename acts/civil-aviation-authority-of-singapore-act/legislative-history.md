@@ -1,109 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CIVIL AVIATION AUTHORITY OF SINGAPORE ACT 2009
 
-CIVIL AVIATION AUTHORITY OF SINGAPORE ACT (CHAPTER 41)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Civil Aviation Authority of Singapore Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 12 of 1984 — Civil Aviation Authority of Singapore Act 1984
+LEGISLATIVE HISTORY DETAILS PART 1 CIVIL AVIATION AUTHORITY OF SINGAPORE ACT (CHAPTER 41, 1985 REVISED EDITION) 1. Act 12 of 1984 — Civil Aviation Authority of Singapore Act 1984 Bill : 7/1984 First Reading : 2 March 1984 Second and Third Readings : 20 March 1984 Commencement : 1 September 1984 2. Act 32 of 1986 — Statutes (Miscellaneous Amendments) Act 1986 (Amendments made by section 2 read with item (9) of the Schedule to the above Act) Bill : 24/1986 First Reading : 27 October 1986 Second and Third Readings : 9 December 1986 Commencement : 23 January 1987 (section 2 read with item (9) of the Schedule) 3. 1985 Revised Edition — Civil Aviation Authority of Singapore Act (Chapter 41) Operation : 30 March 1987 4. G.N. No. S 143/1989 — Revised Edition of the Laws (Rectification) (No. 2) Order 1989 Operation : 30 March 1987 5. Act 5 of 1989 — Statutes (Miscellaneous Amendments) Act 1989 (Amendments made by section 2 read with item (2) of the Schedule to the above Act) Bill : 2/1989 First Reading : 16 January 1989 Second and Third Readings : 26 January 1989 Commencement : 3 March 1989 (section 2 read with item (2) of the Schedule) 6. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (4) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (4) of the Schedule) 7. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (8) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (8) of the Schedule) 8. Act 16 of 2007 — Civil Aviation Authority of Singapore (Amendment) Act 2007 Bill : 4/2007 First Reading : 22 January 2007 Second and Third Readings : 12 February 2007 Commencement : 1 April 2007 PART 2 CIVIL AVIATION AUTHORITY OF SINGAPORE ACT 2009 (2020 REVISED EDITION) 9. Act 17 of 2009 — Civil Aviation Authority of Singapore Act 2009 Bill : 10/2009 First Reading : 23 March 2009 Second and Third Readings : 13 April 2009 Commencement : 1 July 2009 (except sections 86 and 87) 1 October 2009 (sections 86 and 87) 10. Act 4 of 2010 — Statutes (Miscellaneous Amendments) Act 2010 (Amendments made by section 10 of the above Act) Bill : 26/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 5 February 2010 (section 10) 11. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 16 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 16 of the Sixth Schedule) 12. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012 (Amendments made by section 18 of the above Act) Bill : 22/2011 First Reading : 21 November 2011 Second Reading : 18 January 2012 Notice of Amendments : 18 January 2012 Third Reading : 18 January 2012 Commencement : 1 March 2012 (section 18) 13. Act 11 of 2012 — Energy Conservation Act 2012 (Amendments made by section 80(2) read with item 1 of the Second Schedule to the above Act) Bill : 8/2012 First Reading : 8 March 2012 Second and Third Readings : 9 April 2012 Commencement : 1 July 2012 (section 80(2) read with item 1 of the Second Schedule) 14. Act 10 of 2014 — Air Navigation (Amendment) Act 2014 (Amendments made by section 21 of the above Act) Bill : 6/2014 First Reading : 20 January 2014 Second and Third Readings : 17 February 2014 Commencement : 1 April 2014 (section 21) 15. 2014 Revised Edition — Civil Aviation Authority of Singapore Act (Chapter 41) Operation : 31 May 2014 16. Act 25 of 2015 — Civil Aviation Authority of Singapore (Amendment) Act 2015 Bill : 28/2015 First Reading : 13 July 2015 Second and Third Readings : 18 August 2015 Commencement : 1 September 2015 17. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 54 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 54) 18. Act 18 of 2018 — Aviation (Miscellaneous Amendments) Act 2018 (Amendments made by Part 2 of the above Act) Bill : 13/2018 First Reading : 28 February 2018 Second and Third Readings : 19 March 2018 Commencement : 29 June 2018 (Part 2) 19. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 461 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 461)
 
-Date of First Reading : 2 March 1984 (Bill No. 7/84 published on 7 March 1984)
+Abbreviations
 
-Date of Second and Third Readings : 20 March 1984
-
-Date of commencement : 1 September 1984
-
-2. 1985 Revised Edition — Civil Aviation Authority of Singapore Act (Chapter 41)
-
-Date of operation : 30 March 1987
-
-3. Act 32 of 1986 — Statutes (Miscellaneous Amendments) Act 1986
-
-Date of First Reading : 27 October 1986 (Bill No. 24/86 published on 31 October 1986)
-
-Date of Second and Third Readings : 9 December 1986
-
-Date of commencement : 23 January 1987 (item (9) of the Schedule — amendment of Civil Aviation Authority of Singapore Act)
-
-4. Act 5 of 1989 — Statutes (Miscellaneous Amendments) Act 1989
-
-Date of First Reading : 16 January 1989 (Bill No. 2/89 published on 16 January 1989)
-
-Date of Second and Third Readings : 26 January 1989
-
-Date of commencement : 3 March 1989 (item 2 of the Schedule — amendment of Civil Aviation Authority of Singapore Act)
-
-5. G.N. No. S 149/89 — The Revised Edition of the Laws (Rectification) (No. 2) Order 1989
-
-Date of commencement : 30 March 1987 6. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Date of commencement : 15 July 2002 (item (4) of the Schedule — amendment of Civil Aviation Authority of Singapore Act)
-
-7. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004 (item (8) of the Schedule — amendment of Civil Aviation Authority of Singapore Act)
-
-8. Act 16 of 2007 — Civil Aviation Authority of Singapore (Amendment) Act 2007
-
-Date of First Reading : 22 January 2007 (Bill No. 4/2007 published on 23 January 2007)
-
-Date of Second and Third Readings : 12 February 2007
-
-Date of commencement : 1 April 2007
-
-9. Act 17 of 2009 — Civil Aviation Authority of Singapore Act 2009
-
-Date of First Reading : 23 March 2009 (Bill No. 10/2009 published on 23 March 2009)
-
-Date of Second and Third Readings : 13 April 2009
-
-Dates of commencement : 1 July 2009 (except sections 86 and 87) 1 October 2009 (sections 86 and 87) Note: The Civil Aviation Authority of Singapore Act 2009 repealed and re‑enacted with amendments the Civil Aviation Authority of Singapore Act (Chapter 41, 1985 Revised Edition).
-
-10. Act 4 of 2010 — Statutes (Miscellaneous Amendments) Act 2010
-
-Date of First Reading : 23 November 2009 (Bill No. 26/2009 published on 24 November 2009)
-
-Date of Second and Third Readings : 12 January 2010
-
-Date of commencement : 5 February 2010 (section 10 —
-
-amendment of Civil Aviation Authority of Singapore Act)
-
-11. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011 (item 16 of the Sixth Schedule — amendment of Civil Aviation Authority of Singapore Act)
-
-12. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012
-
-Date of First Reading : 21 November 2011 (Bill No. 22/2011 published on 21 November 2011)
-
-Date of Second and Third Readings : 18 January 2012
-
-Date of commencement : 1 March 2012 (section 18 —
-
-amendment of Civil Aviation Authority of Singapore Act)
-
-13. Act 11 of 2012 — Energy Conservation Act 2012 (Consequential amendments made to Act by)
-
-Date of First Reading : 8 March 2012 (Bill No. 8/2012 published on 8 March 2012)
-
-Date of Second and Third Readings : 9 April 2012 Date of commencement : 1 July 2012 (item 1 of Second Schedule — amendment of Civil Aviation Authority of Singapore Act)
-
-14. Act 10 of 2014 — Air Navigation (Amendment) Act 2014 (Consequential amendments made to Act by)
-
-Date of First Reading : 20 January 2014 (Bill No. 6/2014 published on 20 January 2014)
-
-Date of Second and Third Readings : 17 February 2014
-
-Date of commencement : 1 April 2014
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,18 +1,18 @@
-# 11. Appointment of Chief Executive, officers and employees
-Part: PART II RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
+# 11. Chief Executive, officers and employees, etc.
+Part: PART 2 RECONSTITUTION, FUNCTIONS AND POWERS OF AUTHORITY
 
-(1) The Authority shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Authority may determine.
+(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[5/2018]
 
-(a) be known by such designation as the Authority may determine;
+(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) be responsible to the Authority for the proper administration and management of the functions, duties and affairs of the Authority in accordance with the policy laid down by the Authority; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) and before giving his consent under subsection (2)(c).
+[5/2018]
 
-(4) Where the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness, or is for any other reason temporarily unable to perform his duties, a person may be appointed by the Authority to act in the place of the Chief Executive during any such period of absence from duty.
+(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(5) The Authority may, from time to time, appoint and employ on such terms and conditions as the Authority may determine such officers and employees as may be necessary for the effective performance of its functions and discharge of its duties under this Act or any other written law.
+[5/2018]
