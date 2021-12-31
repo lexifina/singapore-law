@@ -1,6 +1,4 @@
-# 28. Dissolution of Corporation
-Part: PART V TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES OF MASS RAPID TRANSIT CORPORATION
+# 28. to 35. [Spent]
+Part: PART 5
 
-The Corporation shall cease to exist as from 1st September 1995.
-
-[25
+to 35. [Omitted as spent]

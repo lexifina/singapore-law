@@ -1,6 +1,6 @@
-# 46. Non-application of Railways Act
-Part: PART VI MISCELLANEOUS
+# 46. Transitional provisions
+Part: PART 6 MISCELLANEOUS
 
-Nothing in the Railways Act (Cap. 263) shall apply to the Authority or any railway under this Act.
+Any railway set up under the repealed Act is deemed to constitute or form part of a rapid transit system set up under this Act.
 
-[43
+[47
