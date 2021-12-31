@@ -1,10 +1,14 @@
-# 6. Appointment of Director
-Part: PART II ADMINISTRATION
+# 6. Administration of Act
+Part: PART 2 ADMINISTRATION
 
-(1) The Minister may appoint a Director for the Prohibition of Chemical Weapons.
+(1) The Director-General is responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-(2) If the Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, the Minister may appoint a person to act in the place of the Director during any such period of absence from duty.
+[49/2007]
 
-(3) The Director may in writing appoint any public officer or any officer of any statutory body as an authorised officer for the purposes of this Act.
+(2) The Director-General may, with the approval of the Minister, in writing appoint any person as an authorised officer for the purposes of this Act.
 
-(4) The Director may delegate to any authorised officer all or any of the powers conferred on the Director by this Act except the powers conferred by this subsection.
+[49/2007]
+
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him or her by this Act to any authorised officer, except the power of delegation under this subsection.
+
+[49/2007]

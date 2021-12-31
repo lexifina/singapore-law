@@ -1,5 +1,9 @@
-# LEGISLATIVE HISTORY CHEMICAL WEAPONS (PROHIBITION) ACT (CHAPTER 37B)
+# LEGISLATIVE HISTORY CHEMICAL WEAPONS (PROHIBITION) ACT 2000
 
-1. Act 17 of 2000 — Chemical Weapons (Prohibition) Act 2000 Date of First Reading : 21.2.2000 (Bill No. 9/2000 published on 22.2.2000) Date of Second and Third Readings : 25.4.2000 Date of commencement : 1.6.2000
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-2. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal) Act 2001 Date of First Reading : 11.7.2001 (Bill No. 24/2001 published on 12.7.2001) Date of Second and Third Readings : 25.7.2001 Date of commencement : 1.9.2001 (except sections 3 and 17) 1.3.2002 (section 3) 22.8.2001 (section 17)
+1. Act 17 of 2000 — Chemical Weapons (Prohibition) Act 2000 Bill : 9/2000 First Reading : 21 February 2000 Second and Third Readings : 25 April 2000 Commencement : 1 June 2000 2. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal) Act 2001 (Amendments made by section 4 of the above Act) Bill : 24/2001 First Reading : 11 July 2001 Second and Third Readings : 25 July 2001 Commencement : 1 September 2001 (section 4) 3. 2001 Revised Edition — Chemical Weapons (Prohibition) Act (Chapter 37B) Operation : 31 December 2001 4. Act 49 of 2007 — Chemical Weapons (Prohibition) (Amendment) Act 2007 Bill : 39/2007 First Reading : 17 September 2007 Second and Third Readings : 22 October 2007 Commencement : 14 December 2007 5. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012 (Amendments made by section 15 of the above Act) Bill : 22/2011 First Reading : 21 November 2011 Second Reading : 18 January 2012 Notice of Amendments : 18 January 2012 Third Reading : 18 January 2012 Commencement : 1 March 2012 (section 15) 6. G.N. No. S 365/2020 — Chemical Weapons (Prohibition) Act (Amendment of Schedule) Order 2020 Commencement : 7 June 2020
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
