@@ -1,4 +1,4 @@
 # 8. Financial year of Endowment Fund
-Part: PART III GENERAL FINANCIAL PROVISIONS
+Part: PART 3 GENERAL FINANCIAL PROVISIONS
 
-The financial year of the Endowment Fund shall begin on 1st April of each year and end on 31st March of the succeeding year.
+The financial year of the Endowment Fund begins on 1 April of each year and ends on 31 March of the succeeding year.

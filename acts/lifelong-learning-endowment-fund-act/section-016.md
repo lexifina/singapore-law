@@ -1,8 +1,6 @@
-# 16. Composition of offences
-Part: PART IV MISCELLANEOUS PROVISIONS
+# 16. Composition of offences 1
+Part: PART 4 MISCELLANEOUS PROVISIONS
 
-(1) The Minister or any person authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably 8 CAP. 162A Endowment Fund 2002 Ed.
+(1) The Minister or any person authorised by the Minister may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
 
-suspected of having committed the offence a sum of money not exceeding $500.
-
-(2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of such offence.
+(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.

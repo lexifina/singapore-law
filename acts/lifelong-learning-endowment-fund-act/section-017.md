@@ -1,6 +1,5 @@
 # 17. Regulations
-Part: PART IV MISCELLANEOUS PROVISIONS
-Heading: 2 CAP. 162A Endowment Fund 2002 Ed.
+Part: PART 4 MISCELLANEOUS PROVISIONS
 
 The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Act, and, in particular, the regulations may —
 

@@ -1,19 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-LIFELONG LEARNING ENDOWMENT FUND ACT
-(CHAPTER 162A)
-Act
-1 of 2001
-REVISED EDITION 2002
-(31st July 2002)
+LIFELONG LEARNING ENDOWMENT
+FUND ACT 2001
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the establishment of a Lifelong Learning Endowment Fund and for purposes connected therewith.
 
-[12th March 2001]
+[12 March 2001]
