@@ -1,6 +1,4 @@
 # 90. Disclosure of information
-Part: PART XI APPEALS
+Part: PART 11 APPEALS
 
-Nothing in this Act shall require the Minister or any public servant to disclose facts which he considers to be against the interest of the public to disclose.
-
-[SFA 2002 Ed., s. 312]
+Nothing in this Act requires the Minister or any public servant to disclose facts which he or she considers to be against the interest of the public to disclose.

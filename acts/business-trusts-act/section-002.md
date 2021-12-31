@@ -1,35 +1,31 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘accounting records’’, in relation to a registered business trust, includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts of the registered business trust are made up;
+“accounting records”, in relation to a registered business trust, includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts of the registered business trust are made up;
 
-Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+“accounts” means profit and loss accounts, balance sheets and cash flow statements, and includes notes (other than auditors’ reports or directors’ reports) attached to or intended to be read with any of those profit and loss accounts, balance sheets or cash flow statements;
 
-Companies 1994 Ed. : Singapore, Companies Act (Chapter 50, 1994 Revised Edition) FAA 2002 Ed. : Singapore, Financial Advisers Act (Chapter 110, 2002 Revised Edition) SFA 2002 Ed. : Singapore, Securities and Futures Act (Chapter 289, 2002 Revised Edition) SF (Offers of Investments) : Singapore, Securities and Futures (Offers of Investments) (Collective Investment (Collective Investment Schemes) Regulations (Chapter 289, Rg 2, Schemes) (Rg 2) 2004 Revised Edition) Aust. Corp. 2001 : Australia, Corporations Act 2001 (Commonwealth) (Act 50 of 2001) Delaware Stat. Trust : Delaware, Statutory Trust Act (12 Delaware Code Annotated 2005)
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act 1966;
 
-‘‘accounts’’ means profit and loss accounts, balance sheets and cash flow statements, and includes notes (other than auditors’ reports or directors’ reports) attached to or intended to be read with any of those profit and loss accounts, balance sheets or cash flow statements;
+“approved exchange” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘advocate and solicitor’’ means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
+“audit committee”, in relation to a registered business trust, means the audit committee of the trustee-manager of a registered business trust established in accordance with section 15;
 
-‘‘approved liquidator’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act 1970;
 
-‘‘audit committee’’, in relation to a registered business trust, means the audit committee of the trustee-manager of a registered business trust established in accordance with section 15;
+“book” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘Authority’’ means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
+“business”, in relation to a registered business trust, means the business relating to the trust property of the registered business trust and managed and operated by the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
 
-‘‘book’’ has the same meaning as in section 2 (1) of the Securities and Futures Act (Cap. 289);
-
-‘‘business’’, in relation to a registered business trust, means the business relating to the trust property of the registered business trust and managed and operated by the trustee- manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
-
-‘‘business trust’’ means —
+“business trust” means —
 
 (a) a trust that is established in respect of any property and that has the following characteristics:
 
 (i) the purpose or effect, or purported purpose or effect, of the trust is to enable the unitholders (whether by acquiring any right, interest, title or benefit in the property or any part of the property or otherwise) to participate in or receive profits, income or other payments or returns arising from the management of the property or management or operation of a business;
 
-(ii) the unitholders of the trust do not have day- to-day control over the management of the property, whether or not they have the right to be consulted or to give directions in respect of such management;
+(ii) the unitholders of the trust do not have day-to-day control over the management of the property, whether or not they have the right to be consulted or to give directions in respect of such management;
 
 (iii) the property subject to the trust is managed as a whole by a trustee or by another person on behalf of the trustee;
 
@@ -41,65 +37,63 @@ Companies 1994 Ed. : Singapore, Companies Act (Chapter 50, 1994 Revised Edition)
 
 or
 
-(B) the trust invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes referred to in section 284 of the Securities and Futures Act (Cap. 289) and is listed on a securities exchange; or
+(B) the trust invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes mentioned in section 284 of the Securities and Futures Act 2001 and is listed on an approved exchange; or
 
 (b) a class or description of trust that is declared by the Authority, by notice published in the Gazette, to be a business trust for the purposes of this Act, but does not include the types of trusts specified in the Schedule;
 
-‘‘company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“company” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘corporation’’ has the same meaning as in section 4 (1) of the Companies Act;
+“corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘creditor’’, in relation to a registered business trust, means a creditor of the trustee-manager of the registered business trust where the liability owing to such creditor was incurred by the trustee-manager on behalf of the registered business trust;
+“creditor”, in relation to a registered business trust, means a creditor of the trustee-manager of the registered business trust where the liability owing to the creditor was incurred by the trustee-manager on behalf of the registered business trust;
 
-‘‘debenture’’ has the same meaning as in section 239 (1) of the Securities and Futures Act and, in relation to a registered business trust, means a debenture issued by the trustee- manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
+“debenture” has the meaning given by section 2(1) of the Securities and Futures Act 2001 and, in relation to a registered business trust, means a debenture issued by the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
 
-‘‘deed’’ means any deed which creates a trust or provides for the governance of the affairs of the trust and the conduct of its business and includes any instrument amending or affecting the deed;
+“deed” means any deed which creates a trust or provides for the governance of the affairs of the trust and the conduct of its business and includes any instrument amending or affecting the deed;
 
-‘‘derivative’’, in relation to a unit in a business trust, means any right or interest, whether legal or equitable, in the unit in the business trust, by whatever name called, and includes any option to acquire any such right or interest in the unit in the business trust;
+“derivative”, in relation to a unit in a business trust, means any right or interest, whether legal or equitable, in the unit in the business trust, by whatever name called, and includes any option to acquire any such right or interest in the unit in the business trust;
 
-‘‘director’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“director” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘document’’ has the same meaning as in section 4 (1) of the Companies Act;
+“document” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘electronic communication’’ has the same meaning as in section 4 (1) of the Companies Act;
+“electronic communication” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘exempt private company’’ has the same meaning as in section 4 (1) of the Companies Act;
+“exempt private company” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘expert’’ has the same meaning as in section 4 (1) of the Companies Act;
+“expert” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘financial year’’, in relation to a registered business trust, means the period in respect of which any profit and loss account of the registered business trust laid before unitholders of the registered business trust in general meeting is made up, whether that period is a year or not;
+“financial year”, in relation to a registered business trust, means the period in respect of which any profit and loss account of the registered business trust laid before unitholders of the registered business trust in general meeting is made up, whether that period is a year or not;
 
-‘‘liabilities’’, in relation to a registered business trust, means the liabilities incurred by the trustee-manager of the registered business trust on behalf of the registered business trust;
+“liabilities”, in relation to a registered business trust, means the liabilities incurred by the trustee-manager of the registered business trust on behalf of the registered business trust;
 
-‘‘liquidator’’, in relation to a registered business trust, means the person appointed under section 48 (1) to take responsibility for winding up the registered business trust or the Official Receiver when acting as liquidator of the registered business trust;
+“licensed insolvency practitioner” has the meaning given by section 2(1) of the Insolvency, Restructuring and Dissolution Act 2018;
 
-‘‘listing rules’’ has the same meaning as in section 2 (1) of the Securities and Futures Act (Cap. 289);
+“liquidator”, in relation to a registered business trust, means the person appointed under section 48(1) to take responsibility for winding up the registered business trust or the Official Receiver when acting as liquidator of the registered business trust;
 
-‘‘officer’’ has the same meaning as in section 4 (1) of the Companies Act;
+“listing rules” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘Official Receiver’’ means the Official Assignee appointed under the Bankruptcy Act (Cap. 20) and includes the deputy of any such Official Assignee and any person appointed as Assistant Official Assignee;
+“officer” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘profit or loss’’, in relation to a registered business trust, means the profit or loss resulting from operations of that registered business trust;
+“Official Receiver” has the meaning given by section 2(1) of the Insolvency, Restructuring and Dissolution Act 2018;
 
-‘‘public accountant’’ means a person who is registered or deemed to be registered under the Accountants Act (Cap. 2) as a public accountant;
+“profit or loss”, in relation to a registered business trust, means the profit or loss resulting from operations of that registered business trust;
 
-‘‘registered business trust’’ means a business trust that is registered by the Authority under section 4 (1);
+“public accountant” means a person who is registered or deemed to be registered under the Accountants Act 2004 as a public accountant;
 
-‘‘related corporation’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“registered business trust” means a business trust that is registered by the Authority under section 4(1);
 
-‘‘replacement trustee-manager’’ means a company that has consented in writing to its election by the unitholders of a registered business trust to replace the resigning trustee- manager or temporary trustee-manager, as the case may be, of the registered business trust;
+“related corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘resigning trustee-manager’’ means the trustee-manager of a registered business trust that, in accordance with this Act, proposes to resign, is removed or has resigned from the position of trustee-manager of the registered business trust;
+“replacement trustee-manager” means a company that has consented in writing to its election by the unitholders of a registered business trust to replace the resigning trustee-manager or temporary trustee-manager (as the case may be) of the registered business trust;
 
-‘‘securities exchange’’ has the same meaning as in section 2 (1) of the Securities and Futures Act (Cap. 289);
+“resigning trustee-manager” means the trustee-manager of a registered business trust that, in accordance with this Act, proposes to resign, is removed or has resigned from the position of trustee-manager of the registered business trust;
 
-‘‘substantial shareholder’’ means a person who has a substantial shareholding in a company in accordance with section 81 of the Companies Act;
+“substantial shareholder” means a person who has a substantial shareholding in a company in accordance with section 81 of the Companies Act 1967;
 
-‘‘substantial unitholder’’, in relation to a registered business trust, means a person who has an interest or interests in units representing not less than 5% of the total voting rights of all the unitholders of the registered business trust;
+“temporary trustee-manager” means a company that has been appointed as the temporary trustee-manager of a registered business trust under section 21;
 
-‘‘temporary trustee-manager’’ means a company that has been appointed as the temporary trustee-manager of a registered business trust under section 21;
-
-‘‘trust property’’, in relation to a business trust, means all property and rights of any kind whatsoever which are held on trust for the unitholders of the business trust, in accordance with the terms of the trust deed, including —
+“trust property”, in relation to a business trust, means all property and rights of any kind whatsoever which are held on trust for the unitholders of the business trust, in accordance with the terms of the trust deed, including —
 
 (a) contributions of money or any other assets to the business trust;
 
@@ -113,12 +107,12 @@ or
 
 (f) property acquired, directly or indirectly, with the contributions or money referred to in paragraph (a), (b), (c), (d) or (e) or with the proceeds thereof; and
 
-(g) profits, income and property derived, directly or indirectly, from contributions, money or property referred to in paragraph (a), (b), (c), (d) or (e);
+(g) profits, income and property derived, directly or indirectly, from contributions, money or property mentioned in paragraph (a), (b), (c), (d) or (e);
 
-‘‘trustee-manager’’, in relation to a registered business trust, includes a replacement trustee-manager and temporary trustee-manager;
+“trustee-manager”, in relation to a registered business trust, includes a replacement trustee-manager and temporary trustee-manager;
 
-‘‘unit’’, in relation to a business trust, means a share in the beneficial ownership in the trust property of the business trust;
+“unit”, in relation to a business trust, means a share in the beneficial ownership in the trust property of the business trust;
 
-‘‘unitholder’’ means a person who holds units in a business trust.
+“unitholder” means a person who holds units in a business trust.
 
-[Companies 1994 Ed., ss. 4, 81; SFA 2002 Ed., s. 2; Aust. Corp. 2001, s. 9]
+[2/2009; 10/2013; 4/2017; 40/2018]

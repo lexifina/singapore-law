@@ -1,21 +1,21 @@
 # 4. Registration of business trusts
-Part: PART II REGISTRATION OF BUSINESS TRUSTS
+Part: PART 2 REGISTRATION OF BUSINESS TRUSTS
 
-(1) The Authority may, upon an application lodged with it by the proposed trustee-manager of a business trust in accordance with section 3, register the business trust.
+(1) The Authority may, on an application lodged with it by the proposed trustee-manager of a business trust in accordance with section 3, register the business trust.
 
 (2) The Authority may refuse an application to register a business trust if —
 
 (a) the Authority is not satisfied that the application lodged has complied with section 3;
 
-(b) the Authority is not satisfied that the proposed trustee- manager of the business trust is a company and not an exempt private company;
+(b) the Authority is not satisfied that the proposed trustee-manager of the business trust is a company and not an exempt private company;
 
-(c) the Authority is not satisfied that the proposed trustee- manager does not carry on any business other than the business of management and operation of the business trust in respect of which the application has been lodged;
+(c) the Authority is not satisfied that the proposed trustee-manager does not carry on any business other than the business of management and operation of the business trust in respect of which the application has been lodged;
 
-(d) the Authority is not satisfied that the proposed trustee- manager has —
+(d) the Authority is not satisfied that the proposed trustee-manager has —
 
-(i) complied with sections 14 (1), 15 (1), 28 (1) and 30 (1) (as modified by subsection (6) or pursuant to subsection (7)); and
+(i) complied with sections 14(1), 15(1), 28(1) and 30(1) (as modified by subsection (6) or pursuant to subsection (7)); and
 
-(ii) satisfied any other criteria as the Authority may prescribe;
+(ii) satisfied any other criteria that the Authority may prescribe;
 
 (e) the proposed trustee-manager or any of its substantial shareholders is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
@@ -27,13 +27,13 @@ Part: PART II REGISTRATION OF BUSINESS TRUSTS
 
 (i) the proposed trustee-manager or any of its substantial shareholders or officers —
 
-(i) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly; or
+(i) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it, he or she acted fraudulently or dishonestly; or
 
 (ii) has been convicted of an offence under this Act; or
 
 (j) the Authority is of the opinion that it would be contrary to the public interest to register the business trust.
 
-(3) Subject to subsection (4), the Authority shall not refuse an application to register a business trust under subsection (1) without giving the proposed trustee-manager of the business trust an opportunity to be heard.
+(3) Subject to subsection (4), the Authority must not refuse an application to register a business trust under subsection (1) without giving the proposed trustee-manager of the business trust an opportunity to be heard.
 
 (4) The Authority may refuse an application to register a business trust on any of the following grounds without giving the proposed trustee-manager of the business trust an opportunity to be heard:
 
@@ -43,12 +43,12 @@ Part: PART II REGISTRATION OF BUSINESS TRUSTS
 
 (c) the proposed trustee-manager has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-(5) The proposed trustee-manager of any business trust who is aggrieved by the refusal of the Authority to register the business trust under subsection (2) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
+(5) The proposed trustee-manager of any business trust who is aggrieved by the refusal of the Authority to register the business trust under subsection (2) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision is final.
 
 (6) For the purpose of determining whether subsection (2) is satisfied in relation to the business trust —
 
-(a) references in Division 1 of Part III and Part IV to a registered business trust shall be read as including a reference to the business trust referred to in subsection (1); and
+(a) references in Division 1 of Part 3 and Part 4 to a registered business trust is to be read as including a reference to the business trust mentioned in subsection (1); and
 
-(b) references in Division 1 of Part III and Part IV to the trustee-manager of the registered business trust shall be read as including a reference to the proposed trustee-manager of the business trust.
+(b) references in Division 1 of Part 3 and Part 4 to the trustee-manager of the registered business trust is to be read as including a reference to the proposed trustee-manager of the business trust.
 
-(7) The Authority may prescribe such other modifications to the provisions of Division 1 of Part III and Part IV as may be necessary for their proper application to a proposed trustee-manager of a business trust that has not yet been registered under this Act.
+(7) The Authority may prescribe any other modifications to the provisions of Division 1 of Part 3 and Part 4 that may be necessary for their proper application to a proposed trustee-manager of a business trust that has not yet been registered under this Act.

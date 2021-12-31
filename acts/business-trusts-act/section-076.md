@@ -1,25 +1,27 @@
 # 76. Accounts and directors’ report
-Part: PART X ACCOUNTS, AUDIT AND DISCLOSURE Division 1 — Accounts
+Part: PART 10 ACCOUNTS, AUDIT AND DISCLOSURE Division 1 — Accounts
 
-(1) The trustee-manager of a registered business trust shall, at a date not later than 18 months after the registration of the registered business trust and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the unitholders of the registered business trust at their annual general meeting a profit and loss account of the registered business trust for the period since the preceding account (or in the case of the first account, since the registration of the registered business trust) made up to a date —
+(1) The trustee-manager of a registered business trust must, at a date not later than 18 months after the registration of the registered business trust and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the unitholders of the registered business trust at their annual general meeting a profit and loss account of the registered business trust for the period since the preceding account (or in the case of the first account, since the registration of the registered business trust) made up to a date —
 
-(a) in the case of a registered business trust listed or quoted on a securities exchange in Singapore, not more than 4 months before the date of the meeting; and
+(a) in the case of a registered business trust listed or quoted on an approved exchange in Singapore, not more than 4 months before the date of the meeting; and
 
 (b) in the case of any other registered business trust, not more than 6 months before the date of the meeting.
 
-(2) The trustee-manager of a registered business trust shall ensure that the profit and loss account referred to in subsection (1) gives a true and fair view of the profit and loss of the registered business trust for the period of accounting as shown in the accounting and other records of the registered business trust.
+[4/2017]
 
-(3) The Authority may, by order published in the Gazette, specify such other period in substitution of the period referred to in subsection (1) (a) or (b).
+(2) The trustee-manager of a registered business trust must ensure that the profit and loss account mentioned in subsection (1) gives a true and fair view of the profit and loss of the registered business trust for the period of accounting as shown in the accounting and other records of the registered business trust.
 
-(4) Notwithstanding subsection (1), the Authority may, on application by the trustee-manager of a registered business trust and for any special reason it thinks fit, extend the periods of 18 months and 15 months referred to in that subsection and with respect to any year extend the period referred to in subsection (1) (a) or (b), notwithstanding that the period is so extended beyond the calendar year.
+(3) The Authority may, by order in the Gazette, specify any other period in substitution of the period mentioned in subsection (1)(a) or (b).
 
-(5) The trustee-manager of a registered business trust shall cause to be made out, and to be laid before the unitholders of the registered business trust at their annual general meeting with the profit and loss account required by subsection (1) —
+(4) Despite subsection (1), the Authority may, on application by the trustee-manager of a registered business trust and for any special reason it thinks fit, extend the periods of 18 months and 15 months mentioned in that subsection and with respect to any year extend the period referred to in subsection (1)(a) or (b), even though the period is so extended beyond the calendar year.
+
+(5) The trustee-manager of a registered business trust must cause to be made out, and to be laid before the unitholders of the registered business trust at their annual general meeting with the profit and loss account required by subsection (1) —
 
 (a) a balance sheet of the registered business trust as at the date to which the profit and loss account is made up, being a balance sheet that gives a true and fair view of the state of affairs of the registered business trust as at the end of the period to which it relates; and
 
-(b) a cash flow statement of the registered business trust that gives a true and fair view of the cash flow of the business of the registered business trust for the period of accounting of the profit and loss account referred to in subsection (1).
+(b) a cash flow statement of the registered business trust that gives a true and fair view of the cash flow of the business of the registered business trust for the period of accounting of the profit and loss account mentioned in subsection (1).
 
-(6) The trustee-manager of a registered business trust shall, before the profit and loss account, balance sheet and cash flow statement referred to in subsections (1) and (5) are made out, take reasonable steps —
+(6) The trustee-manager of a registered business trust must, before the profit and loss account, balance sheet and cash flow statement mentioned in subsections (1) and (5) are made out, take reasonable steps —
 
 (a) to —
 
@@ -35,31 +37,29 @@ Part: PART X ACCOUNTS, AUDIT AND DISCLOSURE Division 1 — Accounts
 
 (c) to ascertain whether any non-current asset is shown in the books of the registered business trust at an amount which, having regard to its value to the registered business trust as a going concern, exceeds the amount which would be recoverable over its useful life or on its disposal and (unless adequate provision for writing down that asset is made) to cause to be included in the accounts such information and explanations as will prevent the accounts from being misleading by reason of the overstatement of the amount of that asset.
 
-(7) The trustee-manager of a registered business trust shall cause —
+(7) The trustee-manager of a registered business trust must cause —
 
-(a) the accounts referred to in subsection (9) to be duly audited before they are laid before the unitholders of the registered business trust at their annual general meeting as required by this section; and
+(a) the accounts mentioned in subsection (9) to be duly audited before they are laid before the unitholders of the registered business trust at their annual general meeting as required by this section; and
 
 (b) the auditor’s report required by section 84 to be attached to or endorsed upon those accounts.
 
-(8) The trustee-manager of a registered business trust shall —
+(8) The trustee-manager of a registered business trust must —
 
-(a) take reasonable steps to ensure that the accounts referred to in subsection (9) are audited as required by this Part not less than 14 days before the annual general meeting of the unitholders of the registered business trust; and
+(a) take reasonable steps to ensure that the accounts mentioned in subsection (9) are audited as required by this Part at least 14 days before the annual general meeting of the unitholders of the registered business trust; and
 
-(b) cause to be attached to the accounts the auditor’s report that is furnished to the trustee-manager of the registered business trust under section 84 (2).
+(b) cause to be attached to the accounts the auditor’s report that is provided to the trustee-manager of the registered business trust under section 84(2).
 
-(9) In subsections (7) and (8), ‘‘accounts’’ means the profit and loss account, balance sheet and cash flow statement of a registered business trust required to be laid before the unitholders of the registered business trust at the annual general meeting under subsections (1) and (5).
+(9) In subsections (7) and (8), “accounts” means the profit and loss account, balance sheet and cash flow statement of a registered business trust required to be laid before the unitholders of the registered business trust at the annual general meeting under subsections (1) and (5).
 
-(10) The trustee-manager of a registered business trust shall cause to be attached to every balance sheet of the registered business trust made out under subsection (5) a report —
+(10) The trustee-manager of a registered business trust must cause to be attached to every balance sheet of the registered business trust made out under subsection (5) a report —
 
-(a) containing the information required in subsections (11), (12),
-
-(15) and (17) and any other information as may be prescribed by the Authority;
+(a) containing the information required in subsections (11), (12), (15) and (17) and any other information as may be prescribed by the Authority;
 
 (b) made in accordance with a resolution of the directors of the trustee-manager; and
 
-(c) signed by not fewer than 2 of the directors with respect to the profit or loss of the registered business trust for the financial year and the state of the affairs of the registered business trust as at the end of the financial year.
+(c) signed by at least 2 of the directors with respect to the profit or loss of the registered business trust for the financial year and the state of the affairs of the registered business trust as at the end of the financial year.
 
-(11) The report to which subsection (10) relates shall state with appropriate details —
+(11) The report to which subsection (10) relates must state with appropriate details —
 
 (a) the names of all directors of the trustee-manager of the registered business trust in office at the date of the report;
 
@@ -67,37 +67,37 @@ Part: PART X ACCOUNTS, AUDIT AND DISCLOSURE Division 1 — Accounts
 
 (i) at the end of the financial year to which the report relates, there subsists any arrangement to which the trustee-manager is a party, being an arrangement whose object is to enable any director or all directors of the trustee-manager to acquire benefits by means of the acquisition of units in, or debentures of, the registered business trust; or
 
-(ii) there have, at any time in that year, subsisted such an arrangement as aforesaid to which the trustee- manager was a party, and if so, the report shall contain a statement explaining the effect of the arrangement and giving the names of the persons who at any time in that year were directors of the trustee-manager and held, or whose nominees held, units in, or debentures of, the registered business trust acquired in pursuance of the arrangement; and
+(ii) there have, at any time in that year, subsisted such an arrangement as aforesaid to which the trustee-manager was a party, and if so, the report must contain a statement explaining the effect of the arrangement and giving the names of the persons who at any time in that year were directors of the trustee-manager and held, or whose nominees held, units in, or debentures of, the registered business trust acquired pursuant to the arrangement; and
 
-(c) as respects each person who, at the end of the financial year to which the report relates, was a director of the trustee- manager —
+(c) as respects each person who, at the end of the financial year to which the report relates, was a director of the trustee-manager —
 
-(i) whether or not he was, at the end of that financial year, interested in units in, or debentures of, the registered business trust, or both, and, if he was, the number and amount of units in, or debentures of, the registered business trust, or both, in which he was then interested; and
+(i) whether or not he or she was, at the end of that financial year, interested in units in, or debentures of, the registered business trust, or both, and, if he or she was, the number and amount of units in, or debentures of, the registered business trust, or both, in which he or she was then interested; and
 
-(ii) whether or not he was, at the beginning of that year (or, if he was not then a director, when he became a director), interested in units in, or debentures of, the registered business trust, or both, and, if he was, the number and amount of units in, or debentures of, the registered business trust, or both, in which he was interested at the beginning of that year or when he became a director, as the case may be.
+(ii) whether or not he or she was, at the beginning of that year (or, if he or she was not then a director, when he or she became a director), interested in units in, or debentures of, the registered business trust, or both, and, if he or she was, the number and amount of units in, or debentures of, the registered business trust, or both, in which he or she was interested at the beginning of that year or when he or she became a director, as the case may be.
 
-(12) The report referred to in subsection (10) shall also contain such additional information as the Authority may prescribe, being information which the Authority considers necessary to facilitate an understanding by the unitholders of the registered business trust of the business of the registered business trust.
+(12) The report mentioned in subsection (10) must also contain such additional information as the Authority may prescribe, being information which the Authority considers necessary to facilitate an understanding by the unitholders of the registered business trust of the business of the registered business trust.
 
-(13) For the avoidance of doubt, the additional information referred to in subsection (12) need not relate to the profit or loss or the state of affairs of the registered business trust referred to in subsection (10).
+(13) To avoid doubt, the additional information mentioned in subsection (12) need not relate to the profit or loss or the state of affairs of the registered business trust mentioned in subsection (10).
 
-(14) Every statement, report or other document relating to the state of affairs of a registered business trust attached to, or included with, a report of the directors of the trustee-manager of a registered business trust laid before the unitholders of the registered business trust at their general meeting or sent to the unitholders under section 78 (not being a statement, report or document required by this Act to be laid before the unitholders in general meeting) shall, for the purposes of section 108, be deemed to be part of that last-mentioned report.
+(14) Every statement, report or other document relating to the state of affairs of a registered business trust attached to, or included with, a report of the directors of the trustee-manager of a registered business trust laid before the unitholders of the registered business trust at their general meeting or sent to the unitholders under section 78 (not being a statement, report or document required by this Act to be laid before the unitholders in general meeting) is, for the purposes of section 108, deemed to be part of that last mentioned report.
 
-(15) Where the trustee-manager of a registered business trust has granted an option to any person to acquire unissued units in the registered business trust, the report required by subsection (10) shall state —
+(15) Where the trustee-manager of a registered business trust has granted an option to any person to acquire unissued units in the registered business trust, the report required by subsection (10) must state —
 
 (a) the number and class of the units in respect of which the option has been granted;
 
-(b) the date of expiration of the option; and
+(b) the expiry date of the option; and
 
 (c) the basis upon which the option may be exercised.
 
 (16) Where any of the particulars required by subsection (15) has been stated in a previous report, it may be stated by reference to that report.
 
-(17) Each report required by subsection (10) shall specify —
+(17) Each report required by subsection (10) must specify —
 
 (a) particulars of units issued during the period to which the report relates by virtue of the exercise of options to acquire unissued units in the registered business trust, whether granted before or during that period; and
 
-(b) the number and class of unissued units in the registered business trust under option as at the end of that period, the price, or method of fixing the price, of issue of those units, and the date of expiration of the option.
+(b) the number and class of unissued units in the registered business trust under option as at the end of that period, the price, or method of fixing the price, of issue of those units, and the expiry date of the option.
 
-(18) The trustee-manager of a registered business trust shall include with every balance sheet, profit and loss account and cash flow statement laid before the unitholders of the registered business trust in general meeting, before the auditor reports on the accounts under this Part, a statement made in accordance with a resolution of the directors of the trustee-manager and signed by not fewer than 2 of the directors, stating whether in their opinion —
+(18) The trustee-manager of a registered business trust must include with every balance sheet, profit and loss account and cash flow statement laid before the unitholders of the registered business trust in general meeting, before the auditor reports on the accounts under this Part, a statement made in accordance with a resolution of the directors of the trustee-manager and signed by at least 2 of the directors, stating whether in their opinion —
 
 (a) the profit and loss account is drawn up so as to give a true and fair view of the results of the business of the registered business trust for the period covered by the account;
 
@@ -107,6 +107,4 @@ Part: PART X ACCOUNTS, AUDIT AND DISCLOSURE Division 1 — Accounts
 
 (d) at the date of the statement there are reasonable grounds to believe that the trustee-manager will be able to fulfil, out of the trust property of the registered business trust, the liabilities of the registered business trust as and when they fall due.
 
-(19) Any trustee-manager of a registered business trust which contravenes subsection (1), (2), (5), (6), (7), (8), (10) or (18) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-[Companies 1994 Ed., s. 201]
+(19) Any trustee-manager of a registered business trust which contravenes subsection (1), (2), (5), (6), (7), (8), (10) or (18) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.

@@ -1,9 +1,9 @@
 # 114. Regulations
-Part: PART XII MISCELLANEOUS
+Part: PART 12 MISCELLANEOUS
 
-(1) The Authority may make regulations for carrying out the purposes and provisions of this Act and for the due administration thereof.
+(1) The Authority may make regulations for carrying out the purposes and provisions of this Act and for the due administration of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Authority may make regulations for or with respect to —
+(2) Without limiting subsection (1), the Authority may make regulations for or with respect to —
 
 (a) the criteria for the registration of business trusts and the constitution, operation and management of registered business trusts including, but not limited to, the powers and duties of the trustee-managers of registered business trusts and the rights and obligations of the unitholders of registered business trusts;
 
@@ -23,8 +23,6 @@ Part: PART XII MISCELLANEOUS
 
 (a) may be of general or specific application;
 
-(b) may provide that a contravention of any specified provision thereof shall be an offence; and
+(b) may provide that a contravention of any specified provision of the regulations shall be an offence; and
 
-(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
-
-[SFA 2002 Ed., s. 341]
+(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part of a day during which the offence continues after conviction.
