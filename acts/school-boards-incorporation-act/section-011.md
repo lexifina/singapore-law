@@ -1,13 +1,13 @@
 # 11. Winding up of governing boards
-Part: PART III DISCONTINUANCE OF SCHOOLS AND WINDING UP OF GOVERNING BOARDS
+Part: PART 3 DISCONTINUANCE OF SCHOOLS AND WINDING UP OF GOVERNING BOARDS
 
 (1) Where —
 
 (a) any proposals by a governing board of a school have been approved under section 9;
 
-(b) the registration of the school concerned under the Education Act (Cap. 87) is cancelled; or
+(b) the registration of the school concerned under the Education Act 1957 is cancelled; or
 
-(c) the conduct of a school has been taken over by the Director‑General under section 10 for a period exceeding 12 months, the Minister may, by order published in the Gazette, make provisions for the winding up of the governing board of the school and the disposal of the property of the governing board.
+(c) the conduct of a school has been taken over by the Director-General under section 10 for a period exceeding 12 months, the Minister may, by order in the Gazette, make provisions for the winding up of the governing board of the school and the disposal of the property of the governing board.
 
 (2) An order made under subsection (1) may —
 
@@ -27,4 +27,4 @@ Part: PART III DISCONTINUANCE OF SCHOOLS AND WINDING UP OF GOVERNING BOARDS
 
 (d) appoint a date on which the governing board is to be dissolved; and
 
-(e) make such other incidental, consequential or supplementary provisions relating to the dissolution of the governing board as may be necessary or expedient.
+(e) make any other incidental, consequential or supplementary provisions relating to the dissolution of the governing board that may be necessary or expedient.

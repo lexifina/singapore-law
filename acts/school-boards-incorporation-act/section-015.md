@@ -1,4 +1,4 @@
-# 15. Operation of this Act not to affect Education Act
-Part: PART IV MISCELLANEOUS
+# 15. Operation of this Act not to affect Education Act 1957
+Part: PART 4 MISCELLANEOUS
 
-Except as otherwise expressly provided in this Act, nothing in this Act shall affect the operation of the Education Act (Cap. 87) or any regulations made thereunder.
+Unless otherwise expressly provided in this Act, nothing in this Act affects the operation of the Education Act 1957 or any regulations made under that Act.

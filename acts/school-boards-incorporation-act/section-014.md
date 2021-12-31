@@ -1,4 +1,4 @@
-# 14. Registration of managers of schools
-Part: PART IV MISCELLANEOUS
+# 14. Registration of managers of schools 1
+Part: PART 4 MISCELLANEOUS
 
-For the purposes of the Education Act (Cap. 87), every governor shall be deemed to be a registered manager of a school as from the date of his appointment as a governor.
+For the purposes of the Education Act 1957, every governor is deemed to be a registered manager of a school as from the date of his or her appointment as a governor.
