@@ -1,15 +1,13 @@
 # 9. Duty to audit
-Part: PART III DISCLOSURE
+Part: PART 3 DISCLOSURE AND TIPPING-OFF
 
-(1) The Minister may, by order published in the Gazette, require any person or class of persons to determine on a continuing basis whether they are in possession or control of property owned or controlled by or on behalf of any terrorist or terrorist entity.
+(1) The Minister may, by order in the Gazette, require any person or class of persons to determine on a continuing basis whether they are in possession or control of property owned or controlled by or on behalf of any terrorist or terrorist entity.
 
-2003 Ed. (Suppression of Financing) CAP. 325 9
+(2) Any order mentioned in subsection (1) may require any person or class of persons specified in the order to report to such persons and within such regular periods as may be specified in the order —
 
-(2) Any order referred to in subsection (1) may require any person or class of persons specified therein to report to such persons and within such regular periods as may be specified in the order —
+(a) whether they are in possession or control of any property mentioned in subsection (1); and
 
-(a) whether they are in possession or control of any property referred to in subsection (1); and
-
-(b) if they are in possession or control of any property referred to in subsection (1) —
+(b) if they are in possession or control of any property mentioned in subsection (1) —
 
 (i) the number of persons, contracts or accounts involved;
 

@@ -1,4 +1,4 @@
 # 36. No prosecution without Public Prosecutor’s consent
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
-No prosecution under this Act shall be instituted except by or with the consent of the Public Prosecutor.
+A prosecution under this Act must not be instituted except by or with the consent of the Public Prosecutor.

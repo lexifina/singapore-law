@@ -1,17 +1,19 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘entity’’ means a person, group, trust, partnership or fund or an unincorporated association or organisation;
+“entity” means a person, group, trust, partnership or fund or an unincorporated association or organisation;
 
-‘‘property’’ means —
+“police officer” includes a Commercial Affairs Officer mentioned in section 64 of the Police Force Act 2004;
+
+“property” means —
 
 (a) assets of every kind, whether tangible or intangible, movable or immovable, however acquired; and
 
 (b) legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, drafts and letters of credit;
 
-‘‘terrorism financing offence’’ means —
+“terrorism financing offence” means —
 
 (a) any offence under section 3, 4, 5 or 6;
 
@@ -23,17 +25,17 @@ Part: PART I PRELIMINARY
 
 (e) aiding, abetting, counselling or procuring the commission of any of those offences;
 
-‘‘terrorist’’ means any person who —
+“terrorist” means any person who —
 
 (a) commits, or attempts to commit, any terrorist act; or
 
-4 CAP. 325 (Suppression of Financing) 2003 Ed.
+(b) participates in or facilitates the commission of any terrorist act, and includes any person set out in the First Schedule;
 
-(b) participates in or facilitates the commission of any terrorist act, and includes any person defined in regulations made under the United Nations Act (Cap. 339) to be a terrorist;
+“terrorist entity” means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities, and any entity set out in the First Schedule.
 
-‘‘terrorist entity’’ means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities.
+[17/2013; 4/2014]
 
-(2) Subject to subsection (3), for the purposes of this Act, ‘‘terrorist act’’ means the use or threat of action —
+(2) Subject to subsection (3), for the purposes of this Act, “terrorist act” means the use or threat of action —
 
 (a) where the action —
 
@@ -61,15 +63,15 @@ Part: PART I PRELIMINARY
 
 (ix) involves prejudice to public security or national defence; and
 
-2003 Ed. (Suppression of Financing) CAP. 325 5
-
 (b) where the use or threat is intended or reasonably regarded as intending to —
 
 (i) influence or compel the Government, any other government, or any international organisation to do or refrain from doing any act; or
 
-(ii) intimidate the public or a section of the public, and includes any action specified in the Schedule.
+(ii) intimidate the public or a section of the public, and includes any action specified in the Second Schedule.
 
-(3) Notwithstanding anything in subsection (2), a terrorist act does not include the activities undertaken by military forces of a State in the exercise of their official duties, to the extent that those activities are governed by other rules of international law.
+[17/2013]
+
+(3) Despite anything in subsection (2), a terrorist act does not include the activities undertaken by military forces of a State in the exercise of their official duties, to the extent that those activities are governed by other rules of international law.
 
 (4) For the purposes of subsection (2) —
 
@@ -77,4 +79,4 @@ Part: PART I PRELIMINARY
 
 (b) a reference to the public includes a reference to the public of a country or territory other than Singapore.
 
-(5) In subsection (3), ‘‘military forces of a State’’ means the armed forces of a State which are organised, trained and equipped under its internal law for the primary purpose of national defence or security and persons acting in support of those armed forces who are under their formal command, control and responsibility.
+(5) In subsection (3), “military forces of a State” means the armed forces of a State which are organised, trained and equipped under its internal law for the primary purpose of national defence or security and persons acting in support of those armed forces who are under their formal command, control and responsibility.

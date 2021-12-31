@@ -1,12 +1,26 @@
-# 7. Exemption from prohibition against dealing
-Part: PART II TERRORIST PROPERTY
+# 7. Exemption
+Part: PART 2 TERRORIST PROPERTY
 
-(1) The Minister or a person designated by the Minister may exempt any person in Singapore or any citizen of Singapore outside Singapore from section 6 in respect of any specified activity or transaction or a class of such activities or transactions.
+(1) Subject to subsection (2), the Minister may, by order in the Gazette, exempt any person in Singapore, or any citizen of Singapore outside Singapore, from section 4(b) or 6 or both, in respect of any specified activity or transaction or a class of specified activities or transactions carried out by the person or citizen.
 
-(2) The Minister or a person designated by the Minister may make the exemption under subsection (1) subject to any terms and conditions that are required in his opinion, and may amend, suspend, revoke or reinstate the exemption.
+[17/2013]
 
-(3) If a person has obtained an exemption under subsection (1), any other person involved in carrying out the activity or transaction, or class of activities or transactions, to which the exemption relates is not subject to sections 6 and 8 if the terms and conditions of the exemption, if any, are met.
+(2) An exemption under subsection (1) from section 4(b) may not be made in respect of any activity or transaction involving property or services that will be used by or will benefit a terrorist entity.
 
-(4) This section shall not affect any liability that a person has under any other law.
+[17/2013]
 
-8 CAP. 325 (Suppression of Financing) 2003 Ed.
+(3) An exemption under subsection (1) may be subject to any terms and conditions, including a condition precedent that the person exempted must have a notice of exemption from the Minister or a public officer authorised by the Minister before the exemption takes effect.
+
+[17/2013]
+
+(4) If a person is exempted under an order made under subsection (1) in respect of any activity or transaction or class of activities or transactions, any other person involved in carrying out —
+
+(a) the activity or transaction; or
+
+(b) any activity or transaction in that class of activities or transactions, to which the exemption relates is also exempt from section 4(b) or 6 or both (whichever applies to the act carried out by that other person), and section 8, if the terms and conditions of the exemption (if any) are met.
+
+[17/2013]
+
+PART 3 DISCLOSURE AND TIPPING-OFF
+
+[17/2013]

@@ -1,8 +1,7 @@
 # 17. Cessation of order or appointment
-Part: PART IV SEIZURE, FREEZING AND CONFISCATION OF TERRORIST PROPERTY
-Heading: 2 CAP. 325 (Suppression of Financing) 2003 Ed.
+Part: PART 4 SEIZURE, FREEZING AND CONFISCATION OF TERRORIST PROPERTY
 
-An order issued under section 11 (1) (b) or 15 (1) remains in effect until —
+An order issued under section 11(1)(b) or 15(1) remains in effect until —
 
 (a) it is revoked or varied under section 18 or 19;
 
