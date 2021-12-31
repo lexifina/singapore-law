@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Parking Places (Surcharge) Act.
+This Act is the Parking Places (Surcharge) Act 1975.
