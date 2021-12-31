@@ -4,116 +4,150 @@ Sections 12 and 13(1)
 
 STATUTORY BODIES
 
-First column Second column Statutory body Act under which established or constituted
+First column Second column
 
-1. Accounting and Corporate Accounting and Corporate Regulatory Regulatory Authority Authority Act (Chapter 2A)
+Statutory body Act under which established or constituted
 
-2. Agency for Science, Agency for Science, Technology and Technology and Research Research Act (Chapter 5A)
+1. Accounting and Corporate Accounting and Corporate Regulatory Regulatory Authority Authority Act 2004
 
-3. Agri-food and Veterinary Agri-food and Veterinary Authority Act Authority (Chapter 5)
+2. Agency for Science, Agency for Science, Technology and Technology and Research Research Act 1990
 
-4. Building and Construction Building and Construction Authority Act Authority (Chapter 30A)
+3. Board of Architects Architects Act 1991
 
-5. Casino Regulatory Authority Casino Control Act (Chapter 33A) of Singapore
+4. Building and Construction Building and Construction Authority Authority Act 1999
 
-6. Central Provident Fund Central Provident Fund Act (Chapter 36) Board
+5. Casino Regulatory Casino Control Act 2006 Authority of Singapore
 
-7. Civil Aviation Authority of Civil Aviation Authority of Singapore Singapore Act (Chapter 41)
+6. Central Provident Fund Central Provident Fund Act 1953 Board
 
-8. Civil Service College Civil Service College Act (Chapter 45)
+7. Civil Aviation Authority of Civil Aviation Authority of Singapore Singapore Act 2009
 
-9. Competition Commission of Competition Act (Chapter 50B) Singapore
+8. Civil Service College Civil Service College Act 2001
 
-10. Defence Science and Defence Science and Technology Agency Technology Agency Act (Chapter 75A)
+9. Competition and Competition Act 2004 Consumer Commission of Singapore
 
-11. Economic Development Economic Development Board Act Board (Chapter 85)
+10. Council for Estate Estate Agents Act 2010 Agencies
 
-12. Energy Market Authority of Energy Market Authority of Singapore Singapore Act (Chapter 92B)
+11. Defence Science and Defence Science and Technology Agency Technology Agency Act 2000
 
-13. Health Promotion Board Health Promotion Board Act (Chapter 122B)
+12. Economic Development Economic Development Board Act 1961 Board
 
-14. Health Sciences Authority Health Sciences Authority Act (Chapter 122C)
+13. Energy Market Authority Energy Market Authority of Singapore of Singapore Act 2001
 
-15. Housing and Development Housing and Development Act Board (Chapter 129) THE SCHEDULE — continued
+14. Enterprise Singapore Enterprise Singapore Board Act 2018 Board
 
-First column Second column Statutory body Act under which established or constituted
+15. Government Technology Government Technology Agency Act 2016 Agency THE SCHEDULE — continued
 
-16. Info-communications Info-communications Development Development Authority of Authority of Singapore Act Singapore (Chapter 137A)
+First column Second column
 
-17. Inland Revenue Authority of Inland Revenue Authority of Singapore Singapore Act (Chapter 138A)
+Statutory body Act under which established or constituted
 
-18. Institute of Southeast Asian Institute of Southeast Asian Studies Act Studies (Chapter 141)
+16. Health Promotion Board Health Promotion Board Act 2001
 
-19. Institute of Technical Institute of Technical Education Act Education, Singapore (Chapter 141A)
+17. Health Sciences Authority Health Sciences Authority Act 2001
 
-20. Intellectual Property Office Intellectual Property Office of Singapore of Singapore Act (Chapter 140)
+18. Home Team Science and Home Team Science and Technology Agency Technology Agency Act 2019
 
-21. International Enterprise International Enterprise Singapore Board Singapore Board Act (Chapter 143B)
+19. Housing and Development Housing and Development Act 1959 Board
 
-22. Jurong Town Corporation Jurong Town Corporation Act (Chapter 150)
+20. Info-communications Info-communications Media Development Media Development Authority Act 2016 Authority
 
-23. Land Transport Authority of Land Transport Authority of Singapore Singapore Act (Chapter 158A)
+21. Inland Revenue Authority Inland Revenue Authority of Singapore of Singapore Act 1992
 
-24. Majlis Ugama Islam, Administration of Muslim Law Act Singapura (Chapter 3)
+22. Institute of Technical Institute of Technical Education Act 1992 Education, Singapore
 
-25. Maritime and Port Authority Maritime and Port Authority of of Singapore Singapore Act (Chapter 170A)
+23. Intellectual Property Office Intellectual Property Office of Singapore of Singapore Act 2001
 
-26. Media Development Media Development Authority of Authority of Singapore Singapore Act (Chapter 172)
+24. ISEAS – Yusof Ishak ISEAS – Yusof Ishak Institute Act 1968 Institute
 
-27. Nanyang Polytechnic Nanyang Polytechnic Act (Chapter 191A)
+25. Jurong Town Corporation Jurong Town Corporation Act 1968
 
-28. National Arts Council National Arts Council Act (Chapter 193A)
+26. Land Surveyors Board Land Surveyors Act 1991
 
-29. National Council of Social National Council of Social Service Act Service (Chapter 195A)
+27. Land Transport Authority Land Transport Authority of Singapore of Singapore Act 1995
 
-30. National Environment National Environment Agency Act Agency (Chapter 195)
+28. Majlis Ugama Islam, Administration of Muslim Law Act 1966 Singapura
 
-31. National Heritage Board National Heritage Board Act (Chapter 196A)
+29. Maritime and Port Maritime and Port Authority of Singapore Authority of Singapore Act 1996
 
-32. National Library Board National Library Board Act (Chapter 197) THE SCHEDULE — continued
+30. Nanyang Polytechnic Nanyang Polytechnic Act 1992
 
-First column Second column Statutory body Act under which established or constituted
+31. National Arts Council National Arts Council Act 1991
 
-33. National Parks Board National Parks Board Act (Chapter 198A)
+32. National Council of Social National Council of Social Service Act 1992 Service
 
-34. Ngee Ann Polytechnic Ngee Ann Polytechnic Act (Chapter 207)
+33. National Environment National Environment Agency Act 2002 Agency THE SCHEDULE — continued
 
-35. People’s Association People’s Association Act (Chapter 227)
+First column Second column
 
-36. Preservation of Monuments Preservation of Monuments Act Board (Chapter 239)
+Statutory body Act under which established or constituted
 
-37. Public Transport Council Public Transport Council Act (Chapter 259B)
+34. National Heritage Board National Heritage Board Act 1993
 
-38. Public Utilities Board Public Utilities Act (Chapter 261)
+35. National Library Board National Library Board Act 1995
 
-39. Republic Polytechnic Republic Polytechnic Act (Chapter 270)
+36. National Parks Board National Parks Board Act 1996
 
-40. Science Centre Board Science Centre Act (Chapter 286)
+37. Ngee Ann Polytechnic Ngee Ann Polytechnic Act 1967
 
-41. Sentosa Development Sentosa Development Corporation Act Corporation (Chapter 291)
+38. People’s Association People’s Association Act 1960
 
-42. Singapore Corporation of Singapore Corporation of Rehabilitative Rehabilitative Enterprises Enterprises Act (Chapter 298)
+39. Productivity Fund National Productivity Fund Act 2010 Administration Board
 
-43. Singapore Examinations and Singapore Examinations and Assessment Assessment Board Board Act (Chapter 299A)
+40. Professional Engineers Professional Engineers Act 1991 Board
 
-44. Singapore Labour Foundation Singapore Labour Foundation Act (Chapter 302)
+41. Public Transport Council Public Transport Council Act 1987
 
-45. Singapore Land Authority Singapore Land Authority Act (Chapter 301)
+42. Public Utilities Board Public Utilities Act 2001
 
-46. Singapore Polytechnic Singapore Polytechnic Act (Chapter 303)
+43. Republic Polytechnic Republic Polytechnic Act 2002
 
-47. Singapore Sports Council Singapore Sports Council Act (Chapter 305)
+44. Science Centre Board Science Centre Act 1970
 
-48. Singapore Totalisator Board Singapore Totalisator Board Act (Chapter 305A)
+45. Sentosa Development Sentosa Development Corporation Act 1972 Corporation
 
-49. Singapore Tourism Board Singapore Tourism Board Act (Chapter 305B)
+46. Singapore Corporation of Singapore Corporation of Rehabilitative Rehabilitative Enterprises Enterprises Act 1975
 
-50. Singapore Workforce Singapore Workforce Development Development Agency Agency Act (Chapter 305D)
+47. Singapore Dental Council Dental Registration Act 1999
 
-51. Standards, Productivity and Standards, Productivity and Innovation Innovation Board Board Act (Chapter 303A)
+48. Singapore Examinations Singapore Examinations and Assessment and Assessment Board Board Act 2003
 
-52. Temasek Polytechnic Temasek Polytechnic Act (Chapter 323A) THE SCHEDULE — continued
+49. Singapore Food Agency Singapore Food Agency Act 2019
 
-First column Second column Statutory body Act under which established or constituted
+50. Singapore Labour Singapore Labour Foundation Act 1977 Foundation
 
-53. Urban Redevelopment Urban Redevelopment Authority Act Authority (Chapter 340).
+51. Singapore Land Authority Singapore Land Authority Act 2001
+
+52. Singapore Medical Council Medical Registration Act 1997
+
+53. Singapore Nursing Board Nurses and Midwives Act 1999
+
+54. Singapore Pharmacy Pharmacists Registration Act 2007 Council
+
+55. Singapore Polytechnic Singapore Polytechnic Act 1954 THE SCHEDULE — continued
+
+First column Second column
+
+Statutory body Act under which established or constituted
+
+56. Singapore Sports Council Singapore Sports Council Act 1973
+
+57. Singapore Totalisator Singapore Totalisator Board Act 1987 Board
+
+58. Singapore Tourism Board Singapore Tourism Board Act 1963
+
+59. SkillsFuture Singapore SkillsFuture Singapore Agency Act 2016 Agency
+
+60. Temasek Polytechnic Temasek Polytechnic Act 1990
+
+61. Traditional Chinese Traditional Chinese Medicine Practitioners Medicine Practitioners Act 2000 Board
+
+62. Urban Redevelopment Urban Redevelopment Authority Act 1989 Authority
+
+63. Workforce Singapore Workforce Singapore Agency Act 2003 Agency
+
+[16/2009; 17/2009; 25/2010; 23/2015; 20/2016; 22/2016;
+
+23/2016; 24/2016; 10/2018; 11/2019; 21/2019;
+
+S 587/2009; S 615/2010; S 80/2019]
