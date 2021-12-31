@@ -1,7 +1,9 @@
-# LEGISLATIVE HISTORY BOY SCOUTS ASSOCIATION ACT (CHAPTER 26)
+# LEGISLATIVE HISTORY BOY SCOUTS ASSOCIATION ACT 1926
 
-This Legislative History is provided for the convenience of users of the Boy Scouts Association Act. It is not part of the Act.
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Ordinance 10 of 1926 — Boy Scouts Association Ordinance 1926 Date of First, Second and Third : Date not available.
+1. Ordinance 10 of 1926 — Boy Scouts Association Ordinance, 1926 Bill : G.N. No. 323/1926 First Reading : 29 March 1926 Second Reading : 17 May 1926 Notice of Amendments : 12 July 1926 Third Reading : 6 September 1926 Commencement : 22 September 1926 (assent) 24 September 1926 (publication) 2. 1936 Revised Edition — Boy Scouts Association Ordinance (Chapter 167) Operation : 1 September 1936 3. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 54 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 54 of the Schedule) 4. 1955 Revised Edition — Boy Scouts Association Ordinance (Chapter 263) Operation : 1 July 1956 5. 1970 Revised Edition — Boy Scouts Association Act (Chapter 301) Operation : 31 August 1971 6. 1985 Revised Edition — Boy Scouts Association Act (Chapter 26) Operation : 30 March 1987 7. 2011 Revised Edition — Boy Scouts Association Act (Chapter 26) Operation : 31 December 2011
 
-Readings Date of commencement : 24 September 1926 2. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance 1952 (Consequential amendments made to Act by) Date of First Reading : 16 September 1952 (Bill No. 32/52 published on 19 September 1952) Date of Second and Third Readings : 14 October 1952 Date of commencement : 1 November 1952 3. 1970 Revised Edition — Boy Scouts Association Act (Chapter 301) Date of operation : 31 August 1971 4. 1985 Revised Edition — Boy Scouts Association Act (Chapter 26) Date of operation : 30 March 1987
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
