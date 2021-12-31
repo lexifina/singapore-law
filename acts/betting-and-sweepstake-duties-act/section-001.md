@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Betting and Sweepstake Duties Act.
+This Act is the Betting and Sweepstake Duties Act 1950.

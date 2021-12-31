@@ -1,18 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-BETTING AND SWEEPSTAKE DUTIES ACT
-(CHAPTER 22)
-(Original Enactment: Ordinance 40 of 1950)
-REVISED EDITION 2012
-(31st October 2012)
+BETTING AND SWEEPSTAKE DUTIES
+ACT 1950
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2012
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to duties on betting and sweepstakes.
 
-[21st November 1950]
+[21 November 1950]

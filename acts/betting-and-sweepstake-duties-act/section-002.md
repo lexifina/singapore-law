@@ -2,13 +2,11 @@
 
 For the purposes of this Act, unless the context otherwise requires —
 
-“Commissioner” means the Commissioner of Betting Duties or any Deputy Commissioner of Betting Duties or Assistant Commissioner of Betting Duties appointed under the Private Lotteries Act (Cap. 250);
-
-“exempt organisation” means any person or organisation that is exempt from all of the provisions of the Betting Act (Cap. 21) under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act
+“Commissioner” means the Commissioner of Betting Duties or any Deputy Commissioner of Betting Duties or Assistant Commissioner of Betting Duties appointed under the Private Lotteries Act 2011;
 
 1
 
-(Cap. 49) under a notification made under section 24(1) of that Act;
+“exempt organisation” means any person who is an exempt operator within the meaning of the Remote Gambling Act 2014 or any person who is otherwise exempt from section 10 or 11 of that Act, or any person or organisation that is exempt from all of the provisions of the Betting Act 1960 under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act 1961 under a notification made under section 24(1) of that Act;
 
 “football game” means the game also known as soccer, whether taking place inside or outside Singapore;
 
@@ -24,4 +22,4 @@ For the purposes of this Act, unless the context otherwise requires —
 
 “winnings” includes winnings of any kind in money.
 
-[14/99; 14/2005; 7/2011]
+[34/2014]
