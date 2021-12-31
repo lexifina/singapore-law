@@ -1,9 +1,7 @@
 # 20. Power to amend sums specified in certain provisions
 
-The Minister may, by order published in the Gazette, amend the following provisions of this Act by substituting a different sum for any sum for the time being specified therein:
+The appropriate Minister may, by order in the Gazette, amend the following provisions of this Act by substituting a different sum for any sum for the time being specified in those provisions:
 
-Sections 3 (7) (b), 4 (6) and (11) (b), 6 (1), 9 (2) (a) and (8) and 18 (4).
+Sections 3(6)(b), 4(6) and (11)(b), 6(1), 9(1)(a) and (b) and 18(5).
 
-[19A
-
-[23/98]
+[22/2013]

@@ -1,8 +1,6 @@
 # 8. Avoidance of restrictions on scope of policies covering third-party risks
 
-(1) Where a certificate of insurance has been issued under section 4 (9) to the person by whom a policy has been effected, so 10 CAP. 189 Risks and Compensation) 2000 Ed.
-
-much of the policy as purports to restrict the insurance of the persons insured thereby by reference to any of the following matters:
+(1) Where a certificate of insurance has been issued under section 4(9) to the person by whom a policy has been effected, so much of the policy as purports to restrict the insurance of the persons insured by the policy by reference to any of the following matters:
 
 (a) the age or physical or mental condition of persons driving the vehicle;
 
@@ -14,12 +12,12 @@ much of the policy as purports to restrict the insurance of the persons insured 
 
 (e) the times at which or the areas within which the vehicle is used;
 
-(f) the horse-power or value of the vehicle;
+(f) the horsepower or value of the vehicle;
 
-(g) the carrying on the vehicle of any particular apparatus; or
+(g) the carrying on the vehicle of any particular apparatus;
 
-(h) the carrying on the vehicle of any particular means of identi- fication other than any means of identification required to be carried by or under the Road Traffic Act (Cap. 276), shall as respects such liabilities as are required to be covered by a policy under section 4 (1) (b) be of no effect.
+(h) the carrying on the vehicle of any particular means of identification other than any means of identification required to be carried by or under the Road Traffic Act 1961, is, as respects such liabilities as are required to be covered by a policy under section 4(1)(b), of no effect.
 
-(2) Nothing in this section shall require an insurer to pay any sum in respect of the liability of any person otherwise than in or towards the discharge of that liability.
+(2) Nothing in this section requires an insurer to pay any sum in respect of the liability of any person otherwise than in or towards the discharge of that liability.
 
-(3) Any sum paid by an insurer in or towards the discharge of any liability of any person which is covered by the policy by virtue only of this section shall be recoverable by the insurer from that person.
+(3) Any sum paid by an insurer in or towards the discharge of any liability of any person which is covered by the policy by virtue only of this section is recoverable by the insurer from that person.
