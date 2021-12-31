@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Departmental Titles (Alteration) Act.
+This Act is the Departmental Titles (Alteration) Act 1950.
