@@ -1,4 +1,4 @@
-# 18. Public servants
+# 18. [Repealed]
 Part: PART 5 PROVISIONS RELATING TO STAFF
 
-The members and employees of the Council shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+[Repealed by Act 5 of 2018]
