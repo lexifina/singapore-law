@@ -1,5 +1,39 @@
-# 9. General penalties
+# 9. Destroying or damaging fixed platforms, etc.
 
-(1) Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to be punished with imprisonment for life.
+(1) Subject to subsection (5), any person who unlawfully and intentionally does any of the following shall be guilty of an offence:
 
-(2) For the avoidance of doubt, subsection (1) shall not apply to any act which constitutes an offence punishable under the law in force in Singapore applicable to it by virtue of section 7 (1).
+(a) destroys a fixed platform;
+
+(b) damages a fixed platform so as to endanger, or to be likely to endanger, the safety of the fixed platform;
+
+(c) commits on board a fixed platform an act of violence which is likely to endanger the safety of the fixed platform.
+
+[22/2015]
+
+(2) Subject to subsection (5), any person who unlawfully and intentionally places, or causes to be placed, on a fixed platform any device or substance which is likely to destroy the fixed platform or is likely so to damage the fixed platform as to endanger the safety of the fixed platform shall be guilty of an offence.
+
+[22/2015]
+
+(3) Nothing in subsection (2) is to be construed as limiting the circumstances in which the commission of any act may —
+
+(a) constitute an offence under subsection (1); or
+
+(b) constitute attempting or conspiring to commit or aiding, abetting, counselling, procuring or inciting the commission of the offence.
+
+[22/2015]
+
+(4) Except as provided in subsection (5), subsections (1) and (2) apply whether any act mentioned in those subsections is committed in Singapore or elsewhere, and whatever the nationality or citizenship of the person committing the act.
+
+[22/2015]
+
+(5) Subsections (1) and (2) do not apply to any act committed in relation to a fixed platform used as a naval auxiliary or in customs or law enforcement service, unless —
+
+(a) the person committing the act is a citizen of Singapore;
+
+(b) the act is committed in Singapore; or
+
+(c) the fixed platform is used in the naval, customs or law enforcement service of Singapore.
+
+[7B
+
+[22/2015]

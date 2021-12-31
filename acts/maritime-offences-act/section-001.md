@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Maritime Offences Act.
+This Act is the Maritime Offences Act 2003.
+
+1

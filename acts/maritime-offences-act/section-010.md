@@ -1,13 +1,19 @@
-# 10. Consent for prosecution
+# 10. Offences involving threats in relation to fixed platforms
 
-(1) No prosecution shall be instituted under this Act without the written consent of the Public Prosecutor.
+(1) A person (A) shall be guilty of an offence if —
 
-(2) Notwithstanding that consent has not been given in relation to the offence in accordance with subsection (1) —
+(a) in order to compel any other person to do or abstain from doing any act, A threatens that A or some other person will do in relation to any fixed platform an act which is an offence under section 9(1); and
 
-(a) a person may be arrested for an offence under this Act;
+(b) the making of that threat is likely to endanger the safety of the fixed platform.
 
-(b) a warrant for the arrest of any person in respect of any offence under this Act may be issued and executed;
+[22/2015]
 
-(c) a person may be charged with an offence under this Act; and
+(2) Except as provided in subsection (3), subsection (1) applies whether any act mentioned in subsection (1) is committed in Singapore or elsewhere, and whatever the nationality or citizenship of the person committing the act.
 
-(d) a person charged with any offence under this Act may be remanded in custody or granted bail, but no further steps in the proceedings in relation to the offence shall be taken until the consent of the Public Prosecutor has been obtained.
+[22/2015]
+
+(3) Section 9(5) applies for the purposes of subsection (1) as it applies for the purposes of section 9(1).
+
+[7C
+
+[22/2015]

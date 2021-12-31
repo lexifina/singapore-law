@@ -1,15 +1,25 @@
-# 11. Extradition
+# 11. Ancillary offences in relation to fixed platforms
 
-(1) Relevant maritime offences are deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act (Cap. 103).
+(1) Any act of violence done by any person in connection with an offence under section 8 or 9 committed or attempted to be committed by that person is deemed to have been committed in Singapore and constitutes an offence punishable under the law in force in Singapore applicable to it, wherever the act of violence was committed, and whatever the nationality or citizenship of the person committing or attempting to commit the act.
 
-(2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Convention country, a notification in the Gazette under section 4 of the Extradition Act may be made applying that Act as if there were an extradition treaty between Singapore and that country.
+[22/2015]
 
-(3) Where the Extradition Act is applied under subsection (2), the Extradition Act shall, subject to subsection (4), have effect as if the only extradition crimes within the meaning of that Act were relevant maritime offences.
+(2) A person in Singapore shall be guilty of an offence if the person abets the commission elsewhere of any act which would —
 
-(4) Subsection (2) is without prejudice to any other notification made under section 4 of the Extradition Act.
+(a) but for section 8(2), be an offence under section 8;
 
-(5) For the purposes of the Extradition Act, any act, wherever committed, which —
+(b) but for section 9(5), be an offence under section 9; or
 
-(a) is a relevant maritime offence, or would be such an offence but for section 3 (2), 4 (5), 5 (6) or 6 (4) of this Act; and
+(c) but for section 10(3), be an offence under section 10.
 
-(b) is an offence against the law of any country in the case of which the Extradition Act has been applied by a notification in the Gazette made under section 4 of that Act, shall be deemed to be an offence within the jurisdiction of that country.
+[22/2015]
+
+(3) Any person (whether in Singapore or elsewhere) who abets the commission (whether in Singapore or elsewhere) of any act which is an offence under section 8, 9 or 10 shall be guilty of an offence.
+
+[22/2015]
+
+(4) Any person (whether in Singapore or elsewhere) who attempts to commit an offence under section 8, 9 or 10, and in such attempt does any act towards the commission of the offence, shall be guilty of an offence and shall be punished with imprisonment for a term not exceeding 15 years.
+
+[7D
+
+[22/2015]
