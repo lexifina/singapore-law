@@ -1,5 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Bills of Sale Act.
+This Act is the Bills of Sale Act 1886.
 
 1

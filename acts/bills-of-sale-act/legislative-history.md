@@ -1,77 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BILLS OF SALE ACT 1886
 
-BILLS OF SALE ACT (CHAPTER 24)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Bills of Sale Act. It is not part of the Act.
+1. Ordinance XII of 1886 — The Bills of Sale Ordinance 1886 Bill : G.N. No. 326/1886 First Reading : 28 June 1886 Second Reading : 5 August 1886 Notice of Amendments : 16 August 1886 Third Reading : 16 August 1886 Commencement : 1 November 1886 2. Ordinance VI of 1894 — The Bills of Sale Ordinance Amendment Ordinance 1894 Bill : G.N. No. 230/1894 First Reading : 31 May 1894 Second Reading : 6 June 1894 Notice of Amendments : 8 June 1894 Third Reading : 11 June 1894 Commencement : 11 June 1894 3. G.N. No. 280/1903 — “Rule under “The Bills of Sale Ordinance 1886”” Commencement : 1 April 1903 4. Ordinance X of 1906 — The Auctioneers Licensing Ordinance 1906 (Amendments made by section 28 of the above Ordinance) Bill : G.N. No. 175/1906 First Reading : 16 March 1906 Second Reading : 23 March 1906 Notice of Amendments : 11 May 1906 Third Reading : 11 May 1906 Commencement : 1 July 1906 (section 28) 5. Ordinance XXI of 1906 — The Auctioneers Licensing Ordinance 1906 Amendment Ordinance 1906 (Amendments made by section 3 of the above Ordinance) Bill : G.N. No. 754/1906 First Reading : 3 August 1906 Second Reading : 24 August 1906 Third Reading : 7 September 1906 Commencement : 7 September 1906 (section 3) 6. 1920 Revised Edition — Ordinance No. 40 (Bills of Sale) Operation : 28 November 1921 7. 1926 Revised Edition — Ordinance No. 40 (Bills of Sale) Operation : 1 August 1926 8. 1936 Revised Edition — Bills of Sale Ordinance (Chapter 61) Operation : 1 September 1936 9. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 17 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 17 of the Schedule) 10. 1955 Revised Edition — Bills of Sale Ordinance (Chapter 22) Operation : 1 July 1956 11. G.N. No. S (N.S.) 178/1959 — Singapore Constitution (Modification of Laws) (No. 4) Order, 1959 Commencement : 20 November 1959 12. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 13. L.N. 451/1964 (G.N. Sp. No. S 228/1964) — Modification of Laws (Bills of Sale and Hire Purchase) Order, 1964 Commencement : 17 December 1964 14. 1970 Revised Edition — Bills of Sale Act (Chapter 29) Operation : 1 March 1971 15. 1985 Revised Edition — Bills of Sale Act (Chapter 24) Operation : 30 March 1987 16. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Amendments made by section 29(5) read with item (3) of the Schedule to the above Act) Bill : 12/1993 First Reading : 26 February 1993 Second Reading : 12 April 1993 Notice of Amendments : 12 April 1993 Third Reading : 12 April 1993 Commencement : 1 July 1993 (section 29(5) read with item (3) of the Schedule) 17. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (4) of the First Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 (section 5 read with item (4) of the First Schedule) 18. Act 5 of 2009 — International Interests in Aircraft Equipment Act 2009 (Amendments made by section 7 of the above Act) Bill : 37/2008 First Reading : 17 November 2008 Second and Third Readings : 19 January 2009 Commencement : 1 May 2009 (section 7) 19. 2011 Revised Edition — Bills of Sale Act (Chapter 24) Operation : 31 December 2011 20. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 12 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 12 of the Schedule)
 
-1. Ordinance 12 of 1886 — Bills of Sale Ordinance 1886
+Abbreviations
 
-Date of First, Second and Third : Date not available Readings
-
-Date of commencement : 1 November 1886
-
-2. Ordinance 6 of 1894 — Bills of Sale Ordinance 1894
-
-Date of First, Second and Third : Date not available Readings
-
-Date of commencement : Date not available
-
-3. Ordinance 10 of 1906 — Auctioneers Licensing Ordinance 1906
-
-Date of First, Second and Third : Date not available Readings
-
-Date of commencement : 1 July 1906
-
-4. Ordinance 21 of 1906 — Auctioneers Licensing Ordinance 1906 Amendment Ordinance 1906
-
-Date of First, Second and Third : Date not available Readings
-
-Date of commencement : 7 September 1906
-
-5. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance 1952
-
-Date of First, Second and Third : Date not available Readings
-
-Date of commencement : 31 October 1952
-
-6. S (N.S.) 178/59 — The Singapore Constitution (Modification of Laws) (No. 4) Order 1959
-
-Date of commencement : 20 November 1959
-
-7. S (N.S.) 179/59 — The Singapore Constitution (Modification of Laws) (No. 5) Order 1959
-
-Date of commencement : 20 November 1959 8. L.N. 451/64 — Modification of Laws (Bills of Sale and Hire Purchase) Order 1964
-
-Date of commencement : 10 December 1964
-
-9. 1970 Revised Edition — Bills of Sale Act (Chapter 29)
-
-Date of operation : 1 March 1971
-
-10. 1985 Revised Edition — Bills of Sale Act (Chapter 24)
-
-Date of operation : 30 March 1987
-
-11. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 February 1993 (Bill No. 12/1993 published on 11 June 1993)
-
-Date of Second and Third Readings : 12 April 1993
-
-Date of commencement : 1 July 1993
-
-12. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 16 December 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 April 2006 (Item (4) of First Schedule — Amendment of Bills of Sale Act)
-
-13. Act 5 of 2009 — International Interests in Aircraft Equipment Act 2009 (Consequential amendments made to Act by)
-
-Date of First Reading : 17 November 2008 (Bill No. 37/2008 published on 3 April 2009)
-
-Date of Second and Third Readings : 19 January 2009
-
-Date of commencement : 1 May 2009
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Sections 12 and 13
+Sections 12 and 13(2)
 
 FORMS OF STATUTORY DECLARATION
 
@@ -14,13 +14,15 @@ I, of , do solemnly and sincerely declare as follows:
 
 ( ) .
 
+2. The said bill of sale was made and given by the said
+
 1
 
-2. The said bill of sale was made and given by the said ( ) on
+( ) on the day of 20 to
 
 2
 
-the day of 20 to ( ) .
+( ) .
 
 1
 
@@ -34,16 +36,6 @@ the day of 20 to ( ) .
 
 5. The said ( ) resides at [state residence at time of making the declaration] and is [state occupation].
 
-1
-
-i.e. the grantor.
-
-2
-
-i.e. the grantee.
-
-SECOND SCHEDULE — continued
-
 6. The name subscribed to the said bill of sale as that of the witness attesting the due execution thereof is in the proper handwriting of this declarant.
 
 7. I am an Advocate and Solicitor of the Supreme Court and reside at .
@@ -56,9 +48,19 @@ SECOND SCHEDULE — continued
 
 9. The said bill of sale was not prepared by me or by any person in my employment, nor am I the Advocate and Solicitor of the grantee thereof.
 
-10. I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+10. I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act 2000.
 
-Made at
+1
+
+i.e. the grantor.
+
+2
+
+i.e. the grantee.
+
+SECOND SCHEDULE — continued
+
+Made at .
 
 the day of 20 .
 
@@ -74,13 +76,15 @@ I, of , do solemnly and sincerely declare as follows:
 
 ( ) .
 
+2. The said bill of sale was made and given by the said
+
 1
 
-2. The said bill of sale was made and given by the said ( ) on
+( ) on the day of 20 to
 
 2
 
-the day of 20 to ( ) .
+( ) .
 
 1
 
@@ -94,6 +98,14 @@ the day of 20 to ( ) .
 
 5. The said ( ) resides at [state residence at time of making the declaration] and is [state occupation].
 
+6. The said bill of sale was duly attested in my presence by of [a Magistrate or a Registrar, etc.], who before its execution fully explained to the said the nature and effect thereof.
+
+7. The name subscribed to the said bill of sale as that of the witness attesting the due execution thereof is in the proper handwriting of the said .
+
+8. I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act 2000.
+
+Made, etc.
+
 1
 
 i.e. the grantor.
@@ -104,22 +116,14 @@ i.e. the grantee.
 
 SECOND SCHEDULE — continued
 
-6. The said bill of sale was duly attested in my presence by of [a Magistrate or a Registrar, etc.], who before its execution fully explained to the said the nature and effect thereof.
-
-7. The name subscribed to the said bill of sale as that of the witness attesting the due execution thereof is in the proper handwriting of the said .
-
-8. I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
-
-Made, etc.
-
 Declaration of Renewal of Registration
 
-I, of , do solemnly and sincerely declare that a bill of sale bearing date the day of 20 and made between [insert the names, addresses and descriptions of the parties to the original bill of sale] of the one part and of the other part, of which a copy was registered on the day of 20 is still a subsisting security, and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+I, of , do solemnly and sincerely declare that a bill of sale bearing date the day of 20 and made between [insert the names, addresses and descriptions of the parties to the original bill of sale] of the one part and of the other part, of which a copy was registered on the day of 20 is still a subsisting security, and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act 2000.
 
 Made, etc.
 
 Declaration of Transfer or Assignment of Bill of Sale
 
-I, of , do solemnly and sincerely declare that a bill of sale bearing date the day of 20 and made between [insert the names, addresses and descriptions of the parties to the original bill of sale] of the one part and of the other part, of which a copy was registered on the day of 20 [and which was last registered on the day of 20 ] is still a subsisting security and was by an indenture bearing date the day of 20 transferred to of , which said indenture is now produced and shown to me marked , and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act (Cap. 211).
+I, of , do solemnly and sincerely declare that a bill of sale bearing date the day of 20 and made between [insert the names, addresses and descriptions of the parties to the original bill of sale] of the one part and of the other part, of which a copy was registered on the day of 20 [and which was last registered on the day of 20 ] is still a subsisting security and was by an indenture bearing date the day of 20 transferred to of , which said indenture is now produced and shown to me marked , and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Oaths and Declarations Act 2000.
 
 Made, etc.

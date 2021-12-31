@@ -1,13 +1,11 @@
 # THIRD SCHEDULE
 
-Section 14
+Section 14(1)
 
 FORM OF REGISTER
 
-By whom
+By whom To whom or in To whom given (or whose favour transferred.
 
-given (or To whom or in To whom against whom whose favour transferred.
+against whom given.
 
-process given.
-
-issued.)
+process issued.)

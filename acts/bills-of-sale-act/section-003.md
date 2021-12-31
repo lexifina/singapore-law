@@ -24,7 +24,7 @@
 
 (a) the making of any article or part of an article;
 
-(b) the altering, repairing, ornamenting or finishing of any article; or
+(b) the altering, repairing, ornamenting or finishing of any article;
 
 (c) the adapting for sale of any article;
 

@@ -14,4 +14,6 @@
 
 (2) All personal chattels seized or taken possession of under or by virtue of any bill of sale shall remain on the premises where they were so seized or taken possession of, and shall not be removed or sold until after the expiration of 5 clear days from the day on which they were so seized or taken possession of.
 
-(3) The grantor may within 5 days from the seizure or taking possession of any chattels on account of any of the abovementioned causes, apply to the High Court, and the Court, if satisfied that by payment of money or otherwise the said cause of seizure no longer exists, may restrain the grantee from removing or selling the chattels and may make such other order as seems just.
+(3) The grantor may within 5 days from the seizure or taking possession of any chattels on account of any of the abovementioned causes, apply to the General Division of the High Court, and the General Division of the High Court, if satisfied that by payment of money or otherwise the said cause of seizure no longer exists, may restrain the grantee from removing or selling the chattels and may make such other order as seems just.
+
+[40/2019]
