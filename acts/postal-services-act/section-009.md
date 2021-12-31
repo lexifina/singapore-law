@@ -1,38 +1,54 @@
 # 9. Suspension or cancellation of licence, etc.
-Part: PART II EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
+Part: PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF POSTAL SERVICES
 
 (1) If the Postal Authority is satisfied that a person who is granted a licence under section 6 or any regulations made under this Act is contravening, or has contravened, whether by act or omission —
 
 (a) any of the conditions of the licence;
 
-(b) any provision of any code of practice or standard of performance; or
+(b) any provision of any code of practice or standard of performance;
 
-(c) any direction of the Authority given under section 25, the Authority may, by notice in writing, do either or both of the following:
+(c) any direction of the Postal Authority given under section 25, 26D or 26F(2); or
 
-(i) issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;
+(d) section 26B, the Authority may, by written notice, do either or both of the following:
 
-(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $10,000 as it thinks fit.
+(e) issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;
 
-(2) Where the Authority is satisfied that the person mentioned in subsection (1) is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under subsection (1) (i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
+(f) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.
 
-(a) cancel the licence or part thereof;
+[34/2007]
 
-(b) suspend the licence or part thereof for such period as it thinks fit;
+(2) Where the Postal Authority is satisfied that —
 
-(c) reduce the period for which the licence is to be in force.
+(a) the person who is granted a postal licence is again likely to contravene, whether by act or omission, any condition, provision, direction or section mentioned in subsection (1);
 
-(3) Any person who is aggrieved by any decision of the Authority under subsection (1) or (2) may, within 14 days after such person has been given the notice in writing referred to in subsection (1) or (2), appeal to the Minister whose decision shall be final.
+(b) the person who is granted a postal licence has gone into liquidation other than for the purpose of amalgamation or reconstruction;
 
-(4) An order under subsection (1) (i)—
+(c) the person who is granted a postal licence is no longer in a position to comply with the provisions of this Act or the terms or conditions of the person’s licence; or
 
-(a) shall require the person concerned (according to the circum- stances of the case) to do, or not to do, such things as are specified in the order or are of a description so specified therein;
+(d) the public interest so requires, the Postal Authority may, in lieu of an order or a financial penalty under subsection (1)(e) or (f) or both, by written notice and without any compensation, do all or any of the following:
 
-(b) shall take effect at such time, being the earliest practicable time, as is determined by or under that order; and
+(e) cancel the licence or part thereof;
 
-(c) may be revoked at any time by the Authority.
+(f) suspend the licence or part thereof for such period as it thinks fit;
 
-(5) Any person who fails to comply with any order under subsection (1) (i) shall be guilty of an offence.
+(g) reduce the period for which the licence is to be in force.
 
-(6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
+[34/2007]
 
-(7) Any financial penalty payable by any person by virtue of subsection (1) shall be recoverable by the Postal Authority as a debt due to the Postal Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
+(3) An order under subsection (1)(e) —
+
+(a) must require the person concerned (according to the circumstances of the case) to do, or not to do, any things that are specified in the order or are of a description so specified therein;
+
+(b) takes effect at such time, being the earliest practicable time, as is determined by or under that order; and
+
+(c) may be revoked at any time by the Postal Authority.
+
+[34/2007]
+
+(4) A person who fails to comply with any order under subsection (1)(e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[34/2007]
+
+(5) In any proceedings brought against a person for an offence under subsection (4), it is a defence for the person to prove that the person took all reasonable steps and exercised all due diligence to avoid contravening the order.
+
+(6) A financial penalty payable by a person by virtue of subsection (1) is recoverable by the Postal Authority as a debt due to the Postal Authority from that person; and the person’s liability to pay is not affected by the person’s licence ceasing (for any reason) to be in force.

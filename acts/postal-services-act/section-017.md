@@ -1,16 +1,34 @@
-# 17. Delivery of postal articles
-Part: PART III POSTAL SERVICES AND SYSTEMS
+# 17. Administrative exemption from section 16
+Part: PART 3 POSTAL SERVICES AND SYSTEMS
 
-(1) The Postal Authority shall publish the specifications relating to the number, place, dimensions and other characteristics of letter boxes and may approve the installation and use of such other mail delivery systems or arrangements as the Postal Authority may consider fit.
+(1) The Postal Authority may, where the Postal Authority is satisfied that all of the matters in subsection (2) apply, exempt —
 
-(2) A developer of any residential, commercial or industrial building shall —
+(a) a particular developer of a particular residential building or a particular commercial or industrial building from the application of section 16(3)(a); or
 
-(a) provide one letter box per unit in the case of any residential building and one letter box per tenant in the case of any commercial or industrial building;
+(b) a particular applicable person for a particular residential building or a particular commercial or industrial building from the application of section 16(5)(a) or (b).
 
-(b) ensure that the letter boxes provided under paragraph (a) are numbered in numerical sequence; and
+[10/2021]
 
-(c) comply with all other specifications laid down by the Authority in accordance with subsection (1).
+(2) The matters mentioned in subsection (1) are the following:
 
-(3) Any developer who contravenes or fails to comply with subsection (2) shall be guilty of an offence.
+(a) that either of the following applies:
 
-(4) For the purposes of this section, ‘‘commercial or industrial building’’ includes any shopping complex.
+(i) there is no suitable location in the particular residential building or the particular commercial or industrial building for letter boxes to be provided;
+
+(ii) having regard to the use or intended use of the particular residential building or the particular commercial or industrial building, there is no need for letter boxes to be provided;
+
+(b) appropriate alternative arrangements have been or will be made by the particular developer or particular applicable person for the receipt of postal articles.
+
+[10/2021]
+
+(3) An exemption under this section —
+
+(a) must be in writing and given to the particular developer or particular applicable person, as the case may be; and
+
+(b) need not be published in the Gazette.
+
+[10/2021]
+
+(4) In this section, “applicable person” has the meaning given by section 16(13).
+
+[10/2021]

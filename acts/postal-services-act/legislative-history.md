@@ -1,3 +1,11 @@
-# LEGISLATIVE HISTORY POSTAL SERVICES ACT (CHAPTER 237A)
+# LEGISLATIVE HISTORY POSTAL SERVICES ACT 1999
 
-Act 42 of 1999 — Postal Services Act 1999 Date of First Reading : 11.10.99 (Bill No. 34/99 published on 12.10.99) Date of Second and Third Readings : 23.11.99 Date of commencement : 1.12.99
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Act 42 of 1999 — Postal Services Act 1999 Bill : 34/1999 First Reading : 11 October 1999 Second and Third Readings : 23 November 1999 Commencement : 1 December 1999 Note: Previously in the Telecommunication Authority of Singapore Act (Chapter 323, 1993 Revised Edition).
+
+2. 2000 Revised Edition — Postal Services Act (Chapter 237A) Operation : 30 December 2000 3. Act 4 of 2003 — Customs (Amendment) Act 2003 (Amendments made by section 26 read with item (16) of the Schedule to the above Act) Bill : 6/2003 First Reading : 10 March 2003 Second and Third Readings : 21 March 2003 Commencement : 1 April 2003 (section 26 read with item (16) of the Schedule) 4. Act 34 of 2007 — Postal Services (Amendment) Act 2007 Bill : 22/2007 First Reading : 21 May 2007 Second and Third Readings : 16 July 2007 Commencement : 24 August 2007 5. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 78 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Second Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 78 of the Sixth Schedule) 6. Act 22 of 2016 — Info-communications Media Development Authority Act 2016 (Amendments made by section 97 of the above Act) Bill : 21/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 1 October 2016 (section 97) 7. Act 10 of 2021 — Postal Services (Amendment) Act 2021 Bill : 5/2021 First Reading : 5 March 2021 Second and Third Readings : 5 April 2021 Commencement : 14 May 2021
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

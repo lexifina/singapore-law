@@ -1,8 +1,16 @@
 # 51. Composition of offences
-Part: PART VII ENFORCEMENT POWERS AND PROCEDURES
+Part: PART 7 ENFORCEMENT POWERS AND PROCEDURES
 
-(1) Any police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister, or any officer or employee of the Postal Authority specially authorised by name in that behalf by the Postal Authority may, in his discretion, compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+(1) An officer or employee of the Postal Authority specially authorised by name in that behalf by the Postal Authority may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(2) The Postal Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
+(a) $5,000;
 
-(3) All sums collected under this section shall be paid to the Postal Authority.
+(b) one half the maximum fine prescribed for that offence.
+
+[34/2007]
+
+(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+[34/2007]
+
+(3) The Postal Authority may, with the approval of the Minister, make regulations prescribing the offences that may be compounded.

@@ -1,9 +1,9 @@
 # 32. Compensation for damage caused to public postal licensees’ installation or plant
-Part: PART V OFFENCES AND PENALTIES
+Part: PART 5 OFFENCES AND PENALTIES Division 1 — Offences relating to postal licensees, postal services, etc.
 
-(1) Any person who removes, destroys or damages, whether wilfully, negligently, accidentally or otherwise, the installation or plant which belongs to a public postal licensee and is used for posts shall, in addition to any penalty for which he is liable for an offence under this Act, be liable to pay compensation for the damage he has done.
+(1) A person who removes, destroys or damages, whether wilfully, negligently, accidentally or otherwise, the installation or plant which belongs to a public postal licensee and is used for posts shall, in addition to any penalty for which the person is liable for an offence under this Act, be liable to pay compensation for the damage the person has done.
 
-(2) The compensation shall be recoverable by civil action or suit before any court of competent jurisdiction.
+(2) The compensation is recoverable by civil action or suit before any court of competent jurisdiction.
 
 (3) Subject to subsection (1), any court before which a person is charged with an offence under this Act may assess the compensation payable under this section and may make an order for the payment of the same.
 

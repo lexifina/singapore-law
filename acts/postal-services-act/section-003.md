@@ -1,6 +1,10 @@
 # 3. Postal Authority
-Part: PART I PRELIMINARY
+Part: PART 1A POSTAL AUTHORITY
 
-(1) The Minister may, by notification in the Gazette, appoint such person to be the Postal Authority responsible for the administration of this Act.
+(1) The Info-communications Media Development Authority, established by section 3 of the Info-communications Media Development Authority Act 2016, is appointed as the Postal Authority.
 
-(2) Subject to the provisions of this Act, the functions conferred on the Postal Authority by this Act may be performed by any officer of or any person who is in the employment of the Postal Authority who has been generally or specially authorised by name or office by the Postal Authority, and subject to its direction and control.
+[22/2016]
+
+(2) The Postal Authority is responsible for the administration of this Act.
+
+[22/2016]

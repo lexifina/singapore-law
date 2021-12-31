@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Postal Services Act.
+This Act is the Postal Services Act 1999.
