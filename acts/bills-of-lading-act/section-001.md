@@ -1,0 +1,29 @@
+# 1. Shipping documents, etc., to which Act applies
+
+(1) This Act applies to the following documents:
+
+(a) any bill of lading;
+
+(b) any sea waybill;
+
+(c) any ship’s delivery order.
+
+(2) References in this Act to a bill of lading —
+
+(a) do not include references to a document which is incapable of transfer either by indorsement or, as a bearer bill, by delivery without indorsement; but
+
+(b) subject to that, do include references to a received for shipment bill of lading.
+
+(3) References in this Act to a sea waybill are references to any document which is not a bill of lading but —
+
+(a) is such a receipt for goods as contains or evidences a contract for the carriage of goods by sea; and
+
+1
+
+(b) identifies the person to whom delivery of the goods is to be made by the carrier in accordance with that contract.
+
+(4) References in this Act to a ship’s delivery order are references to any document which is neither a bill of lading nor a sea waybill but contains an undertaking which —
+
+(a) is given under or for the purposes of a contract for the carriage by sea of the goods to which the document relates, or of goods which include those goods; and
+
+(b) is an undertaking by the carrier to a person identified in the document to deliver the goods to which the document relates to that person.
