@@ -1,5 +1,5 @@
 # 21. Liability of companies to account for duty
-Part: PART III COMPANIES
+Part: PART 3 COMPANIES
 
 (1) The estate duty payable in respect of any property which is, by virtue of sections 19 and 20, deemed to pass on the death of any person shall be a debt due from the company concerned to the Government.
 
@@ -7,7 +7,7 @@ Part: PART III COMPANIES
 
 (3) Where on the death of any person a claim for duty arises by virtue of any of the provisions of sections 19 and 20, the company concerned shall notify the Commissioner of the death of that person, and any company wilfully failing to give such a notification shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(4) The Commissioner may, for the purposes of carrying sections 19, 20 and 22 into effect, require any company to which this Part applies to furnish to him within 2 months copies of such of the balance-sheets and profit and loss or income and expenditure accounts, and such other particulars, as the Commissioner may reasonably require.
+(4) The Commissioner may, for the purposes of carrying sections 19, 20 and 22 into effect, require any company to which this Part applies to furnish to him within 2 months copies of such of the balance sheets and profit and loss or income and expenditure accounts, and such other particulars, as the Commissioner may reasonably require.
 
 (5) If any company fails to comply with subsection (4) —
 

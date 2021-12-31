@@ -1,5 +1,5 @@
 # 26. Value of interests ceasing on death
-Part: PART IV AGGREGATION AND VALUE OF PROPERTY
+Part: PART 4 AGGREGATION AND VALUE OF PROPERTY
 
 The value of the benefit accruing or arising from the cesser of an interest ceasing on the death of the deceased shall —
 

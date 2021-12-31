@@ -1,5 +1,5 @@
 # 28. Deduction of duty paid in other countries
-Part: PART IV AGGREGATION AND VALUE OF PROPERTY
+Part: PART 4 AGGREGATION AND VALUE OF PROPERTY
 
 (1) Where the Commissioner is satisfied that in any part of the Commonwealth duty is payable by reason of a death in respect of any property situate in such part of the Commonwealth and passing on such death, he shall allow a sum equal to the amount of that duty to be deducted from the estate duty payable in respect of that property on the same death.
 
@@ -11,6 +11,4 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 
 (5) Where any property passing on the death of the deceased is situate in a country to which subsection (1) does not apply and the Commissioner is satisfied that by reason of such death any duty is payable in that country in respect of that property, he shall make an allowance of the amount of that duty from the value of the property.
 
-(6) This section shall have effect as if ‘‘Commonwealth’’ included the Republic of Ireland.
-
-[UK Finance 1894, s. 7 (4)]
+(6) This section shall have effect as if “Commonwealth” included the Republic of Ireland.

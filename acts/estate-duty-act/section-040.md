@@ -1,5 +1,5 @@
 # 40. Release of estate on which duty is paid
-Part: PART VI COLLECTION OF ESTATE DUTY
+Part: PART 6 COLLECTION OF ESTATE DUTY
 
 (1) The Commissioner, on being satisfied that the full estate duty has been or will be paid in respect of an estate or any part thereof, shall, if required by the person accounting for the estate duty, give a certificate to that effect, which shall discharge from any further claim for estate duty the property shown by the certificate to form the estate or part thereof, as the case may be.
 

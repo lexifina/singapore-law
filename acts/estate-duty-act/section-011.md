@@ -1,7 +1,7 @@
 # 11. Duty not payable for person not domiciled or resident in respect of certain property
-Part: PART II ESTATE DUTY
+Part: PART 2 ESTATE DUTY
 
-(1) Estate duty shall not be payable in respect of the following property in Singapore passing on the death of any person dying on or after 1st April 1982 and before 1st January 2002 who at the time of his death was neither domiciled nor resident in Singapore:
+(1) Estate duty shall not be payable in respect of the following property in Singapore passing on the death of any person dying on or after 1 April 1982 and before 1 January 2002 who at the time of his death was neither domiciled nor resident in Singapore:
 
 (a) deposits and balances with Asian Currency Units of approved banks;
 
@@ -15,19 +15,17 @@ Part: PART II ESTATE DUTY
 
 (f) deposits and balances in gold savings account with approved banks;
 
-(g) gold certificates issued by approved banks; and
+(g) gold certificates issued by approved banks;
 
-(h) deposits and balances with futures members of the Singapore Exchange where such deposits and balances are in respect of transactions which qualify for the concessionary rate of tax under section 43D of the Income Tax Act (Cap. 134).
+(h) deposits and balances with futures members of the Singapore Exchange where such deposits and balances are in respect of transactions which qualify for the concessionary rate of tax under section 43D of the Income Tax Act 1947 as in force before 29 December 2016.
 
-[19/76; 2/83; 14/84; 32/2002]
-
-(2) Estate duty shall not be payable in respect of any movable property passing on the death of any person dying on or after 1st January 2002 who at the time of his death was not domiciled in Singapore.
-
-[32/2002]
+(2) Estate duty shall not be payable in respect of any movable property passing on the death of any person dying on or after 1 January 2002 who at the time of his death was not domiciled in Singapore.
 
 (3) For the purposes of this section —
 
-(a) ‘‘approved banks’’ means approved banks within the meaning of section 13 (16) of the Income Tax Act; and
+(a) “approved banks” means approved banks within the meaning of section 13(16) of the Income Tax Act 1947;
+
+and
 
 (b) a deceased person shall be treated as resident in Singapore if during the period of 12 months ending on the date of his death he had —
 

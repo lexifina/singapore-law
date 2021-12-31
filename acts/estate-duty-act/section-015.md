@@ -1,5 +1,5 @@
 # 15. Property of national, scientific, etc., interest given for public purposes
-Part: PART II ESTATE DUTY
+Part: PART 2 ESTATE DUTY
 
 (1) The Commissioner may remit the estate duty in respect of such pictures, books, prints, manuscripts, works of art or scientific collection as appear to him to be of national, scientific, artistic or historic interest and to be given or bequeathed for national purposes or to any university.
 

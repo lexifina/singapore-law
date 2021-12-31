@@ -1,5 +1,5 @@
 # 39. Powers of Commissioner
-Part: PART VI COLLECTION OF ESTATE DUTY
+Part: PART 6 COLLECTION OF ESTATE DUTY
 
 (1) The Commissioner may summon before him any person —
 
@@ -15,7 +15,9 @@ Part: PART VI COLLECTION OF ESTATE DUTY
 
 (3) Any such person who fails without any lawful impediment or excuse, to be allowed by the Commissioner, to appear before the Commissioner at the time appointed, or refuses to answer any question lawfully put to him by the Commissioner or fails to produce any such document or other evidence as aforesaid, shall forfeit to the Government the sum of $1,000.
 
-(4) The Commissioner may apply to the High Court in a summary manner in the matter to which his inquiry relates for an order enforcing compliance with his reasonable requirements.
+(4) The Commissioner may apply to the General Division of the High Court in a summary manner in the matter to which his inquiry relates for an order enforcing compliance with his reasonable requirements.
+
+[40/2019]
 
 (5) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commissioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
 

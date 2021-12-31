@@ -1,9 +1,7 @@
 # 58. Signature and service of notices
-Part: PART VII MISCELLANEOUS PROVISIONS
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
 (1) Every notice given by the Commissioner, a Deputy Commissioner or an officer authorised by the Commissioner under section 4(4) shall bear the name of the Commissioner, Deputy Commissioner or officer, as the case may be, and every such notice shall, if the name of the Commissioner, Deputy Commissioner or officer is duly printed or stamped thereon, be as valid and effectual as if it were signed by the Commissioner, Deputy Commissioner or officer, as the case may be.
-
-[51/2004]
 
 (2) Every notice, given by virtue of this Act, may be served on a person either personally or by being delivered at, or sent by post to, an address furnished by him for the purpose of service of notices, or his last known address or place of residence or to any place at which he is or has been carrying on business.
 

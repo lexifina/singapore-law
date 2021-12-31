@@ -1,11 +1,9 @@
 # 19. Transfer of assets to certain companies
-Part: PART III COMPANIES
+Part: PART 3 COMPANIES
 
-(1) On the death after 22nd April 1940 of any person who has at any time after 1st January 1925 —
+(1) On the death after 22 April 1940 of any person who has at any time after 1 January 1925 —
 
-(a) made to a company to which this Part applies, directly or indirectly, any such transfer as is specified in subsection (2);
-
-and
+(a) made to a company to which this Part applies, directly or indirectly, any such transfer as is specified in subsection (5); and
 
 (b) received within the prescribed period out of the resources or at the expense of the company, directly or indirectly any such benefit as is so specified, there shall be computed for each accounting year falling wholly or partly within the prescribed period the proportion which the total value of the benefits so received in the accounting year bears to the total income of the company in the accounting year, and, if the average of the proportions so computed exceeds 50%, there shall, for the purposes of estate duty, be deemed to pass on the death (over and above any other property which passes or is deemed to pass thereon), such sum of money, not exceeding the value of the total assets of the company, as bears to that value the same proportion as that average proportion.
 
@@ -19,9 +17,7 @@ and
 
 (4) If the total assets of the company comprise any property which is by virtue of section 20 deemed to pass on the death, there shall, in computing those proportions and ascertaining the sum of money, if any, which is deemed to pass by virtue of this section, be subtracted —
 
-(a) from the value of the total assets of the company, the value of that property as ascertained for the purposes of section 20;
-
-and
+(a) from the value of the total assets of the company, the value of that property as ascertained for the purposes of section 20; and
 
 (b) from the total income of the company in every accounting year and also from the total value of the benefits received by the deceased therein, a sum equal to so much of that total income as is ascribable to —
 
@@ -49,11 +45,9 @@ and
 
 (ii) interest on, and repayments in respect of, money lent to the company;
 
-(iii) payments of or on account of purchase money under a bona fide sale, where that purchase money is a capital sum of a fixed amount; and
+(iii) payments of or on account of purchase money under a bona fide sale, where that purchase money is a capital sum of a fixed amount;
 
-(iv) payments of or on account of royalties, not being royalties limited to cease at the death of the deceased;
-
-and
+(iv) payments of or on account of royalties, not being royalties limited to cease at the death of the deceased; and
 
 (b) any right in or enjoyment of any land.
 
@@ -65,7 +59,7 @@ and
 
 (8) In ascertaining for the purposes of this section the total income for any accounting year of a company, the income of the company from any source shall be computed and the computation shall be made by reference to the actual income for the accounting year and not by reference to the income for any other period subject to the following provisions:
 
-(a) no deduction shall be made in respect of any payment made to or for the benefit of, or any other benefit accorded to, the deceased, except dividends on preference shares and interest on money lent to the company; and
+(a) no deduction shall be made in respect of any payment made to or for the benefit of, or any other benefit accorded to, the deceased, except dividends on preference shares and interest on money lent to the company;
 
 (b) subject to paragraph (a), deductions shall be made for —
 
@@ -81,13 +75,13 @@ and
 
 (10) In this section —
 
-‘‘accounting year’’ —
+“accounting year” —
 
 (a) in relation to a company which at the time of the death of the deceased person has made up accounts for a period of 12 months ending on a date within the 12 months next preceding the death, means a period of 12 months ending either on that date, or on the same day of the year in any previous year; and
 
 (b) in relation to any other company, means a period of 12 months ending on such date within the 12 months next preceding the death as may be determined by the Commissioner or on the same day of the year in any previous year;
 
-‘‘prescribed period’’ means the period which —
+“prescribed period” means the period which —
 
 (a) ends on the date on which the last accounting year ends; and
 

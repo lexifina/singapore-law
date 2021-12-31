@@ -1,13 +1,13 @@
 # 22. Valuation by reference to assets
-Part: PART III COMPANIES
+Part: PART 3 COMPANIES
 
-(1) Where there pass on the death of any person dying after 22nd April 1940 any shares (not being preference shares) in any company to which this Part applies, then if either —
+(1) Where there pass on the death of any person dying after 22 April 1940 any shares (not being preference shares) in any company to which this Part applies, then if either —
 
 (a) there is deemed by virtue of the provisions of this Part to pass on the death a sum of money computed by reference to the value of the total assets of the company; or
 
 (b) the control of the company was immediately before the death in the hands of the deceased, the principal value of those shares for the purposes of estate duty shall not be ascertained in the manner provided by section 24, but shall be ascertained by reference to the value of the total assets of the company.
 
-(2) In cases falling within subsection (1) (a), the value of the total assets of the company shall, for the purposes of this section, be deemed to be reduced by the sum of money therein referred to.
+(2) In cases falling within subsection (1)(a), the value of the total assets of the company shall, for the purposes of this section, be deemed to be reduced by the sum of money therein referred to.
 
 (3) For the purposes of this section, the control of a company shall be deemed to be in the hands of a person if —
 

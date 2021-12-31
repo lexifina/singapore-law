@@ -1,5 +1,5 @@
 # 29. Duty to be first charge
-Part: PART V LIABILITY FOR ESTATE DUTY
+Part: PART 5 LIABILITY FOR ESTATE DUTY
 
 (1) Unless the estate duty is paid as provided in this Act, the estate duty payable in respect of any property passing on the death of a deceased person shall be a first charge on all the immovable property of the deceased coming to an executor or being under his control, so far as the duty payable by such executor is concerned, and on the property passing to any other person, so far as the duty payable by such other person is concerned.
 

@@ -1,5 +1,5 @@
 # 27. Allowance for debts and funeral expenses
-Part: PART IV AGGREGATION AND VALUE OF PROPERTY
+Part: PART 4 AGGREGATION AND VALUE OF PROPERTY
 
 (1) In determining the value of an estate for the purpose of estate duty, allowance shall be made for reasonable funeral expenses not exceeding the amount specified in subsection (5), and for debts and encumbrances, but an allowance shall not be made —
 
@@ -9,8 +9,6 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 
 (c) more than once for the same debt or encumbrance charged upon different portions of the estate.
 
-[51/2004]
-
 (2) Any debt or encumbrance for which an allowance is made shall be deducted from the value of the property liable thereto.
 
 (3) An allowance shall not be made in the first instance for debts or funeral expenses due to persons resident out of Singapore (unless contracted to be paid in Singapore or charged on property situate within Singapore) except out of the value of any property of the deceased situate out of Singapore in respect of which estate duty is paid.
@@ -19,10 +17,6 @@ Part: PART IV AGGREGATION AND VALUE OF PROPERTY
 
 (5) For the purpose of subsection (1), the amount specified —
 
-(a) in the case of a person dying before 1st January 2005, is $1,000 or 5% of the ascertained value of the estate, whichever is the smaller;
+(a) in the case of a person dying before 1 January 2005, is $1,000 or 5% of the ascertained value of the estate, whichever is the smaller;
 
-(b) in the case of a person dying on or after 1st January 2005, is $6,000.
-
-[UK Finance 1894, s. 7]
-
-[51/2004]
+(b) in the case of a person dying on or after 1 January 2005, is $6,000.

@@ -1,5 +1,5 @@
 # 53. Composition of duties
-Part: PART VII MISCELLANEOUS PROVISIONS
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
 (1) Where, by reason of the number of deaths on which property has passed or of the complicated nature of the interests of different persons in property which has passed on death, or from any other cause, it is difficult to ascertain exactly the amount of estate duty payable in respect of any property or any interest therein, or so to ascertain the amount without undue expense in proportion to the value of the property or interest, the Commissioner may —
 

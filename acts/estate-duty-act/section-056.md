@@ -1,5 +1,5 @@
 # 56. Intervention by Commissioner in pending suits
-Part: PART VII MISCELLANEOUS PROVISIONS
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
 (1) In every suit or proceeding, the court may have regard to the estate duty that may be payable on property passing on the death of any person and may, if the court considers it necessary for securing the payment of any estate duty, cause notice to be served on the Commissioner.
 

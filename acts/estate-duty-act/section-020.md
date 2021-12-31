@@ -1,9 +1,9 @@
 # 20. Transfer of settled property to certain companies
-Part: PART III COMPANIES
+Part: PART 3 COMPANIES
 
-(1) Where, at any time before the death of a person dying after 22nd April 1940, any property in which the deceased had an estate or interest limited to cease at his death was transferred by the deceased and the person interested in the remainder or reversion, directly or indirectly and by one or more transactions, to or for the benefit of a company to which this Part applies, then unless —
+(1) Where, at any time before the death of a person dying after 22 April 1940, any property in which the deceased had an estate or interest limited to cease at his death was transferred by the deceased and the person interested in the remainder or reversion, directly or indirectly and by one or more transactions, to or for the benefit of a company to which this Part applies, then unless —
 
-(a) the transfer was made before 1st January 1925;
+(a) the transfer was made before 1 January 1925;
 
 (b) the property was settled property and the interest of the deceased would in any case have failed by reason of his death before it would have become an interest in possession;
 

@@ -1,59 +1,51 @@
 # SIXTH SCHEDULE
 
-Sections 36 (1) and (6) and 46 (1)
+Sections 36(1) and (6) and 46(1)
 
 RATES OF INTEREST
 
 Person dying Period Rate of Interest
 
-Before From the date of death to the 4% per year on the amount 1st January date of payment of the estate of the unpaid estate duty.
+Before 1 January From the date of death to the 4% per year on the 1965 date of payment of the estate amount of the unpaid duty estate duty.
 
-1965 duty
-
-On or after 1. From the date of death to 3% per year on the amount 1st January the date of payment of the of the unpaid estate duty 1965 and estate duty or the except that the before expiration of 6 months Commissioner shall reduce 1st January from the date of death, the rate to zero if he is 2005 whichever first occurs satisfied that the estate duty return received within 6 months after the date of death is complete and without omission of assets.
-
-2. If any part of the estate 6% per year on the amount duty is not paid within of the unpaid estate duty 6 months from the date of except that the death, from the expiration Commissioner shall reduce of those 6 months to the the rate to 3% per year if he date of payment of that is satisfied that there was part of the estate duty or reasonable cause for the the expiration of 18 delay in payment or months from the date of furnishing information to the death, whichever first Commissioner.
-
-occurs
-
-3. If any part of the estate 12% per year on the amount duty is not paid within of the unpaid estate duty 18 months from the date except that the of death, from the Commissioner shall reduce expiration of those 18 the rate to 6% per year if he months to the date of is satisfied that there was payment of that part of reasonable cause for the the estate duty delay in payment or furnishing information to the Commissioner.
+On or after 1. From the date of death to 3% per year on the 1 January 1965 and the date of payment of the amount of the unpaid before 1 January estate duty or the estate duty except that the 2005 expiration of 6 months Commissioner shall from the date of death, reduce the rate to zero if whichever first occurs. he is satisfied that the estate duty return received within 6 months after the date of death is complete and without omission of assets.
 
 SIXTH SCHEDULE — continued
 
 Person dying Period Rate of Interest
 
-On or after 1. For the first 6 months 0%.
+. 2. If any part of the estate 6% per year on the duty is not paid within amount of the unpaid 6 months from the date of estate duty except that the death, from the expiration Commissioner shall of those 6 months to the reduce the rate to 3% per date of payment of that part year if he is satisfied that of the estate duty or the there was reasonable expiration of 18 months cause for the delay in from the date of death, payment or furnishing whichever first occurs. information to the Commissioner.
 
-1st January after the date of death 2005 2. From the date 6 months 6% per year on the amount after the date of death to of the unpaid estate duty the — except that if the Commissioner is satisfied
+3. If any part of the estate 12% per year on the duty is not paid within amount of the unpaid 18 months from the date of estate duty except that the death, from the expiration Commissioner shall of those 18 months to the reduce the rate to 6% per date of payment of that part year if he is satisfied that of the estate duty. there was reasonable cause for the delay in payment or furnishing information to the Commissioner.
 
-(a) date of receipt of an that there was reasonable estate duty return cause for not filing an estate without omission of duty return without omission assets;
+On or after 1. For the first 6 months after 0%.
 
-of assets, or for the delay in
+1 January 2005 the date of death SIXTH SCHEDULE — continued
 
-(b) date of notice of filing the estate duty return assessment;
+Person dying Period Rate of Interest
 
-or furnishing information, he
+. 2. From the date 6 months 6% per year on the after the date of death to amount of the unpaid the — estate duty except that if the Commissioner is
 
-(c) date of full payment of may reduce the rate charged the estate duty; or
+(a) date of receipt of an satisfied that there was estate duty return reasonable cause for not without omission of filing an estate duty assets;
 
-to a rate not less than the
+return without omission
 
-(d) expiration of prevailing prime lending rate 18 months from the of banks in Singapore.
+(b) date of notice of of assets, or for the delay assessment; in filing the estate duty return or furnishing
 
-date of death,
+(c) date of full payment information, he may of the estate duty; or
+
+reduce the rate charged to
+
+(d) expiration of a rate not less than the 18 months from the prevailing prime lending date of death, rate of banks in Singapore.
 
 whichever first occurs.
 
-3. From the date 18 months 12% per year on the amount after the date of death to of the unpaid estate duty the — except that if the Commissioner is satisfied
+3. From the date 18 months 12% per year on the after the date of death to amount of the unpaid the — estate duty except that if the Commissioner is
 
-(a) date of receipt of an that there was reasonable estate duty return cause for not filing an estate without omission of duty return without omission assets;
+(a) date of receipt of an satisfied that there was estate duty return reasonable cause for not without omission of filing an estate duty assets;
 
-of assets, or for the delay in
+return without omission
 
-(b) date of notice of filing the estate duty return assessment; or
+(b) date of notice of of assets, or for the delay assessment; or in filing the estate duty return or furnishing
 
-or furnishing information, he
-
-(c) date of full payment of may reduce the rate charged the estate duty, to a rate not less than the whichever first occurs. prevailing prime lending rate of banks in Singapore.
-
-[51/2004]
+(c) date of full payment information, he may of the estate duty, reduce the rate charged to whichever first occurs. a rate not less than the prevailing prime lending rate of banks in Singapore.

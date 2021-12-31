@@ -1,5 +1,5 @@
 # 51. Reduction of penalties
-Part: PART VII MISCELLANEOUS PROVISIONS
+Part: PART 7 MISCELLANEOUS PROVISIONS
 
 (1) The Commissioner may reduce any penalty to which any person is liable under this Act or under any other Act relating to estate duty.
 
