@@ -1,53 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY COMPUTER MISUSE ACT 1993
 
-COMPUTER MISUSE ACT (CHAPTER 50A)
+(Formerly known as the Computer Misuse and Cybersecurity Act (2007 Ed.))
 
-This Legislative History is provided for the convenience of users of the Computer Misuse Act. It is not part of the Act.
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 19 of 1993 — Computer Misuse Act 1993
+1. Act 19 of 1993 — Computer Misuse Act 1993 Bill : 17/1993 First Reading : 18 March 1993 Second and Third Readings : 28 May 1993 Commencement : 30 August 1993 2. 1994 Revised Edition — Computer Misuse Act (Chapter 50A) Operation : 15 March 1994 3. Act 8 of 1996 — Evidence (Amendment) Act 1996 (Amendments made by section 9 of the above Act) Bill : 45/1995 First Reading : 5 December 1995 Second and Third Readings : 18 January 1996 Commencement : 8 March 1996 (section 9) 4. G.N. No. S 92/1997 — Revised Edition of the Laws (Rectification) Order 1997 Operation : 15 March 1994 5. Act 21 of 1998 — Computer Misuse (Amendment) Act 1998 Bill : 24/1998 First Reading : 1 June 1998 Second and Third Readings : 30 June 1998 Commencement : 1 August 1998 6. 1998 Revised Edition — Computer Misuse Act (Chapter 50A) Operation : 15 December 1998 7. Act 25 of 2003 — Computer Misuse (Amendment) Act 2003 Bill : 22/2003 First Reading : 16 October 2003 Second and Third Readings : 10 November 2003 Commencement : 14 June 2004 (except section 2) 1 September 2004 (section 2) 8. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 14 of the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 (section 14) 9. 2007 Revised Edition — Computer Misuse Act (Chapter 50A) Operation : 31 July 2007 10. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 24 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 24 of the Sixth Schedule) 11. Act 3 of 2013 — Computer Misuse (Amendment) Act 2013 Bill : 36/2012 First Reading : 12 November 2012 Second and Third Readings : 14 January 2013 Commencement : 13 March 2013 Note: The Computer Misuse Act was renamed as the Computer Misuse and Cybersecurity Act by this Act.
 
-Date of First Reading : 18 March 1993 (Bill No. 17/93 published on 19 March 1993)
+12. Act 22 of 2017 — Computer Misuse and Cybersecurity (Amendment) Act 2017 Bill : 15/2017 First Reading : 9 March 2017 Second and Third Readings : 3 April 2017 Commencement : 1 June 2017 13. Act 9 of 2018 — Cybersecurity Act 2018 (Amendments made by section 49 of the above Act) Bill : 2/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 31 August 2018 (section 49) Note: The Computer Misuse and Cybersecurity Act was renamed as the Computer Misuse Act by this Act.
 
-Date of Second and Third Readings : 28 May 1993
+Abbreviations
 
-Date of commencement : 30 August 1993
-
-2. 1994 Revised Edition — Computer Misuse Act (Chapter 50A)
-
-Date of operation : 15 March 1994
-
-3. Act 8 of 1996 — Evidence (Amendment) Act 1996 (Consequential amendments made to Act by)
-
-Date of First Reading : 5 December 1995 (Bill No. 45/95 published on 6 December 1995)
-
-Date of Second and Third Readings : 18 January 1996
-
-Date of commencement : 8 March 1996
-
-4. Act 21 of 1998 — Computer Misuse (Amendment) Act 1998
-
-Date of First Reading : 1 June 1998 (Bill No. 24/98 published on 2 June 1998)
-
-Date of Second and Third Readings : 30 June 1998
-
-Date of commencement : 1 August 1998
-
-5. 1998 Revised Edition — Computer Misuse Act (Chapter 50A)
-
-Date of operation : 15 December 1998 6. Act 25 of 2003 — Computer Misuse (Amendment) Act 2003
-
-Date of First Reading : 16 October 2003 (Bill No. 22/2003 published on 17 October 2003)
-
-Date of Second and Third Readings : 10 November 2003
-
-Dates of commencement : 14 June 2004 (except section 2) 1 September 2004 (section 2)
-
-7. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006 (section 14 —
-
-Amendment of Computer Misuse Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

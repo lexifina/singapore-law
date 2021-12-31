@@ -1,4 +1,8 @@
-# 12. Jurisdiction of Courts
-Part: PART III MISCELLANEOUS AND GENERAL
+# 12. Abetments and attempts punishable as offences
+Part: PART 2 OFFENCES
 
-A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+(1) Any person who abets the commission of or who attempts to commit or does any act preparatory to or in furtherance of the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for the offence.
+
+(2) For an offence to be committed under this section, it is immaterial where the act in question took place.
+
+[10

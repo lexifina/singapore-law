@@ -1,14 +1,18 @@
-# 11. Territorial scope of offences under this Act
-Part: PART III MISCELLANEOUS AND GENERAL
+# 11. Enhanced punishment for offences involving protected computers
+Part: PART 2 OFFENCES
 
-(1) Subject to subsection (2), the provisions of this Act shall have effect, in relation to any person, whatever his nationality or citizenship, outside as well as within Singapore.
+(1) Where access to any protected computer is obtained in the course of the commission of an offence under section 3, 5, 6 or 7, a person convicted of the offence shall, in lieu of the punishment prescribed in those sections, be liable to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 20 years or to both.
 
-(2) Where an offence under this Act is committed by any person in any place outside Singapore, he may be dealt with as if the offence had been committed within Singapore.
+(2) For the purposes of subsection (1), a computer is treated as a “protected computer” if the person committing the offence knew, or ought reasonably to have known, that the computer or program or data is used directly in connection with or necessary for —
 
-(3) For the purposes of this section, this Act shall apply if, for the offence in question —
+(a) the security, defence or international relations of Singapore;
 
-(a) the accused was in Singapore at the material time; or
+(b) the existence or identity of a confidential source of information relating to the enforcement of a criminal law;
 
-(b) the computer, program or data was in Singapore at the material time.
+(c) the provision of services directly related to communications infrastructure, banking and financial services, public utilities, public transportation or public key infrastructure; or
 
-[UK CMA 1990, ss. 4 and 5]
+(d) the protection of public safety including systems related to essential emergency services such as police, civil defence and medical services.
+
+(3) For the purposes of any prosecution under this section, it is presumed, until the contrary is proved, that the accused has the requisite knowledge referred to in subsection (2) if there is, in respect of the computer, program or data, an electronic or other warning exhibited to the accused stating that unauthorised access to that computer, program or data attracts an enhanced penalty under this section.
+
+[9

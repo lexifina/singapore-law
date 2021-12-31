@@ -1,4 +1,6 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Computer Misuse Act.
+This Act is the Computer Misuse Act 1993.
+
+[3/2013; 9/2018]
