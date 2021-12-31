@@ -1,3 +1,3 @@
-# 15. Power to enter upon premises for purposes of this Act
+# 15. Power to enter upon premises for purposes of Act
 
 The Licensing Officer or any officer or employee duly authorised by the Licensing Officer in writing in that behalf may enter any premises which are used or which the officer or employee has reasonable cause to believe are to be used as a sand or granite quarry for the purpose of making any survey or inspection or of executing any work authorised by this Act to be executed by him without being liable to any legal proceedings or molestation whatsoever on account of such entry or of anything done in any part of those premises in pursuance of this Act.

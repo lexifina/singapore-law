@@ -1,6 +1,6 @@
 # 4. Prohibition on quarrying without licence
 
-(1) No person shall, on or after 15th December 1971, use or manage any land for the purposes of a sand or granite quarry without a licence from the Licensing Officer authorising him to do so.
+(1) No person shall, on or after 15 December 1971, use or manage any land for the purposes of a sand or granite quarry without a licence from the Licensing Officer authorising him to do so.
 
 (2) Any person who uses or manages any land for the purposes of a sand or granite quarry without a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
