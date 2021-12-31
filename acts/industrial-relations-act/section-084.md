@@ -1,5 +1,5 @@
 # 84. Onus of proof and prosecution
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 (1) In any proceedings for an offence under section 82 or 83 if all the facts and circumstances constituting the offence, other than the reason for the defendant’s action, are proved, the onus shall be on the defendant to prove that he was not actuated by the reason alleged in the charge.
 

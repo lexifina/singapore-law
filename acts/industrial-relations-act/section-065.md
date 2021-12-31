@@ -1,5 +1,5 @@
 # 65. Questions of law
-Part: PART VII PROCEDURE AND POWERS OF COURTS
+Part: PART 7 PROCEDURE AND POWERS OF COURTS
 
 (1) A Court may refer a question of law arising in relation to any trade dispute or matter to the Attorney-General for his opinion.
 

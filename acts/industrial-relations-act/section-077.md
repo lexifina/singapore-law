@@ -1,5 +1,5 @@
 # 77. Reports
-Part: PART VIII BOARDS OF INQUIRY
+Part: PART 8 BOARDS OF INQUIRY
 
 (1) A board of inquiry shall, either in public or in private at its discretion, inquire into any matters referred to it and report thereon to the Minister.
 

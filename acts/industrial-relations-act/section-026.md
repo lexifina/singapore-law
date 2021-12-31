@@ -1,5 +1,5 @@
 # 26. Collective agreement deemed to be award
-Part: PART III COLLECTIVE BARGAINING
+Part: PART 3 COLLECTIVE BARGAINING
 
 A collective agreement, a memorandum of which has been certified by a Court, shall be deemed to be an award for the purposes of this Act and shall be binding on —
 

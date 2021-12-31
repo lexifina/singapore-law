@@ -1,5 +1,5 @@
 # 55. Inspection
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
 (1) An inspecting officer may —
 
@@ -29,4 +29,6 @@ Part: PART VI AWARDS
 
 (c) makes to an inspecting officer a statement either orally or in writing which is false or misleading in any particular; or
 
-(d) fails to produce any book, document or record which he is required by an inspecting officer to produce, shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(d) fails to produce any book, document or record which he is required by an inspecting officer to produce, shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[36/2010]

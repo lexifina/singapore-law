@@ -1,5 +1,5 @@
 # 78. Penalties imposed upon persons observing award
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 (1) A person bound by an award shall not —
 
@@ -11,4 +11,6 @@ Part: PART IX MISCELLANEOUS
 
 (a) expels or intends to expel any member; or
 
-(b) imposes or intends to impose any fine, penalty, deprivation, disability or disadvantage upon a member, where the expulsion, fine, penalty, deprivation, disability or disadvantage would be contrary to subsection (1), the trade union shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000.
+(b) imposes or intends to impose any fine, penalty, deprivation, disability or disadvantage upon a member, where the expulsion, fine, penalty, deprivation, disability or disadvantage would be contrary to subsection (1), the trade union shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000.
+
+[36/2010]

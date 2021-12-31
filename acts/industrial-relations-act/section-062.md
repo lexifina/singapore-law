@@ -1,5 +1,5 @@
 # 62. Exclusion of evidence as to certain matters
-Part: PART VII PROCEDURE AND POWERS OF COURTS
+Part: PART 7 PROCEDURE AND POWERS OF COURTS
 
 (1) Where a trade dispute relates to matters as to which negotiations have taken place in accordance with this Act, the parties to the dispute may agree upon and present to the Court a written statement relating to the negotiations but except for such statement no evidence shall be given in proceedings in the Court as to the negotiations.
 

@@ -1,5 +1,5 @@
 # 41. Minister may extend operation of award
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
 (1) The Minister may, by writing under his hand, request a Court to inquire and report to him —
 

@@ -1,7 +1,9 @@
 # 87. Regulations
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
-(1) The Minister may make regulations generally for carrying out the provisions of this Act and in particular providing for all matters stated or required by this Act to be prescribed and for prescribing penalties for any contravention of any provision of any regulations made under this section, but so that no such penalty shall exceed $500.
+(1) The Minister may make regulations generally for carrying out the provisions of this Act and in particular providing for all matters stated or required by this Act to be prescribed and for prescribing penalties for any contravention of any provision of any regulations made under this section, but so that no such penalty shall exceed $5,000.
+
+[36/2010]
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations to provide for the manner in which a trade union of employees may obtain recognition from an employer and for matters incidental thereto.
 

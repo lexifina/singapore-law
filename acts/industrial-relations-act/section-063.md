@@ -1,5 +1,5 @@
 # 63. Intervention by Attorney-General
-Part: PART VII PROCEDURE AND POWERS OF COURTS
+Part: PART 7 PROCEDURE AND POWERS OF COURTS
 
 (1) Where the Attorney-General —
 

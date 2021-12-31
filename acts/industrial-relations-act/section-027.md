@@ -1,5 +1,5 @@
 # 27. Representation in negotiations
-Part: PART III COLLECTIVE BARGAINING
+Part: PART 3 COLLECTIVE BARGAINING
 
 Notwithstanding the provisions of any other written law, a person may not in negotiations under this Act relating to industrial matters —
 

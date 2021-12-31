@@ -1,5 +1,5 @@
 # 40. On whom award binding
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
 (1) An award determining a trade dispute shall be binding on —
 
@@ -17,8 +17,4 @@ Part: PART VI AWARDS
 
 (g) all members of a trade union bound by the award.
 
-[36/95]
-
 (2) Where an employer bound by an award has ceased to carry on an undertaking on any premises and another person commences to carry on an undertaking of the same kind on the same premises, that person shall, for the purpose of this section, be deemed to be a successor to the undertaking of the employer bound by the award.
-
-[36/95]

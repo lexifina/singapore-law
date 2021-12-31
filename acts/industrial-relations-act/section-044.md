@@ -1,5 +1,5 @@
 # 44. Interpretation of award
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
 (1) A Court may, upon application made by a trade union or person bound by an award, give an interpretation of the award.
 

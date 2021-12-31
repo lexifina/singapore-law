@@ -1,7 +1,9 @@
 # 57. Contempt of court
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
-(1) A Court shall have the same power to punish as contempt of court a failure to comply with an order of the Court made under section 56 as is possessed by the High Court in respect of a failure to comply with an order of the High Court.
+(1) A Court shall have the same power to punish as contempt of court a failure to comply with an order of the Court made under section 56 as is possessed by the General Division of the High Court in respect of a failure to comply with an order of the General Division of the High Court.
+
+[40/2019]
 
 (2) The maximum penalty which a Court is empowered to impose under this section shall be —
 
@@ -13,9 +15,9 @@ Part: PART VI AWARDS
 
 (3) A Court shall have power to punish an act or omission as a contempt of the Court although a penalty is provided in respect of that act or omission under some other provision of this Act or under any other written law.
 
-(4) For the purposes of enforcing the payment of any fine imposed or giving effect to any order of imprisonment, the President shall have the powers of a Judge of the High Court.
+(4) For the purposes of enforcing the payment of any fine imposed or giving effect to any order of imprisonment, the president shall have the powers of the General Division of the High Court.
 
-[16/93]
+[40/2019]
 
 (5) Where a Court punishes as contempt a failure by a person to comply with an order of the Court, that person shall, during a period of 2 years from the date on which the punishment is imposed, or such lesser period as the Court may determine, be ineligible to be nominated for election as an officer of a trade union or a branch of a trade union or a federation of trade unions or to act as such an officer.
 

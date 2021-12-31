@@ -1,5 +1,5 @@
 # 35. Power to make awards
-Part: PART V ARBITRATION
+Part: PART 5 ARBITRATION
 
 (1) A Court shall have power in relation to a trade dispute of which it has cognizance to make an award (including an interim award) relating to all or any of the industrial matters in dispute.
 
@@ -23,6 +23,8 @@ Part: PART V ARBITRATION
 
 (9) Any direction by the Minister under subsection (6) shall operate as a bar to any action for damages by the employee in any court in respect of the wrongful dismissal.
 
-(10) An employer who fails to comply with the direction of the Minister under subsection (6) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(10) An employer who fails to comply with the direction of the Minister under subsection (6) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36/2010]
 
 (11) Where an amount to be paid under subsection (6) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (10), the amount, or so much thereof as remains unpaid, shall be recoverable by a District Court as if it were a fine and the amount so recovered shall be paid to the employee entitled under the direction.

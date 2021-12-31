@@ -1,5 +1,5 @@
 # 83. Injuring employer on account of industrial action
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 An employee who ceases work in the service of his employer by reason of the circumstance that the employer —
 
@@ -7,4 +7,6 @@ An employee who ceases work in the service of his employer by reason of the circ
 
 (b) is entitled to the benefit of a collective agreement or an award; or
 
-(c) has appeared as a witness, or has given any evidence, in a proceeding under this Act, shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a penalty not exceeding $100.
+(c) has appeared as a witness, or has given any evidence, in a proceeding under this Act, shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a penalty not exceeding $1,000.
+
+[36/2010]

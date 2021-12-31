@@ -1,7 +1,7 @@
 # 12. Continuation of hearing
-Part: PART II INDUSTRIAL ARBITRATION COURTS
+Part: PART 2 INDUSTRIAL ARBITRATION COURTS
 
-(1) Where a Court has been constituted in relation to a trade dispute or matter and before the trade dispute or matter has been determined the President or a member constituting the Court has become unable to hear or to continue to hear or to determine the trade dispute or matter or has ceased to be the President or a member, as the case may be, whether by death or otherwise, the Court shall be reconstituted in accordance with section 11.
+(1) Where a Court has been constituted in relation to a trade dispute or matter and before the trade dispute or matter has been determined the president or a member constituting the Court has become unable to hear or to continue to hear or to determine the trade dispute or matter or has ceased to be the president or a member, as the case may be, whether by death or otherwise, the Court shall be reconstituted in accordance with section 11.
 
 (2) The Court as reconstituted shall hear and determine the trade dispute or matter or so much of the trade dispute or matter as has not been determined and in so hearing may have regard to the evidence given, the arguments adduced and any interim award made during the previous hearing.
 

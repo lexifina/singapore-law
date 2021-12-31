@@ -1,5 +1,5 @@
 # 54. Commissioner’s power to inquire into complaints
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
 (1) The Commissioner may —
 
@@ -7,13 +7,15 @@ Part: PART VI AWARDS
 
 (b) make an order in the prescribed form for the payment by either party of such sum of money as he considers just without limitation of the amount thereof.
 
-(2) The provisions of the Employment Act (Cap. 91) relating to appeals from decisions and orders of the Commissioner under Part XV of that Act and the mode of procedure for the making and hearing of claims under that Part and the joining of claims shall apply to decisions, orders and claims made under this section.
+(2) The provisions of the Employment Act 1968 relating to appeals from decisions and orders of the Commissioner under Part 15 of that Act and the mode of procedure for the making and hearing of claims under that Part and the joining of claims shall apply to decisions, orders and claims made under this section.
 
 (3) No fees shall be charged by the Commissioner in respect of processes issued by him under this section.
 
 (4) All orders made by the Commissioner shall, notwithstanding that the same may in respect of the amount or value be in excess of its ordinary jurisdiction, be enforced by a District Court in the same manner as a judgment of that Court and all necessary processes may be served by that Court on behalf of the Commissioner.
 
-(5) No sale of immovable property shall for the purposes of such enforcement be ordered except by the High Court.
+(5) No sale of immovable property shall for the purposes of such enforcement be ordered except by the General Division of the High Court.
+
+[40/2019]
 
 (6) If any person complains to the Commissioner that an order made under subsection (1) has not been complied with —
 
@@ -31,6 +33,6 @@ Part: PART VI AWARDS
 
 (8) The person summoned under subsection (7) shall be legally bound to attend at the time and place specified in the summons and to answer truthfully all questions which the Minister, the Parliamentary Secretary to the Minister or the Commissioner may put to him.
 
-(9) Any person who in any way wilfully obstructs the service of or obedience to such summons, and any person summoned who neglects to attend as required by such summons, and any person who commits in respect of any such inquiry or complaint any offence described in Chapter X of the Penal Code (Cap. 224) shall be punished as provided in that Chapter.
+(9) Any person who in any way wilfully obstructs the service of or obedience to such summons, and any person summoned who neglects to attend as required by such summons, and any person who commits in respect of any such inquiry or complaint any offence described in Chapter 10 of the Penal Code 1871 shall be punished as provided in that Chapter.
 
-(10) If, upon inquiry under subsection (7), the Commissioner is informed by the Minister or by the Parliamentary Secretary to the Minister or is of the opinion that a breach or non-observance of any term of an award has been committed, he shall have the same powers to institute proceedings as he has under Part XV of the Employment Act (Cap. 91) upon inquiry under that Part and the provisions of that Act relating to proceedings instituted by him under that Act shall apply to and in relation to proceedings instituted by him under this subsection.
+(10) If, upon inquiry under subsection (7), the Commissioner is informed by the Minister or by the Parliamentary Secretary to the Minister or is of the opinion that a breach or non-observance of any term of an award has been committed, he shall have the same powers to institute proceedings as he has under Part 15 of the Employment Act 1968 upon inquiry under that Part and the provisions of that Act relating to proceedings instituted by him under that Act shall apply to and in relation to proceedings instituted by him under this subsection.

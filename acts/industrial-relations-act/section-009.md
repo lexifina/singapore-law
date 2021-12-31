@@ -1,5 +1,5 @@
 # 9. Removal from panel
-Part: PART II INDUSTRIAL ARBITRATION COURTS
+Part: PART 2 INDUSTRIAL ARBITRATION COURTS
 
 (1) The Minister shall remove from a panel a person who —
 

@@ -1,16 +1,10 @@
 # 30. Interpretation of this Part
-Part: PART IV LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
+Part: PART 4 LIMITED REPRESENTATION OF EXECUTIVE EMPLOYEES
 
-(1) In this Part, unless the context otherwise requires —
+(1) In this Part, unless the context otherwise requires, “recognised trade union” means a trade union the majority of whose membership consists of non-executive employees and which has been accorded recognition by an employer under section 17 in respect of any non-executive employees.
 
-‘‘executive employee’’, in relation to an employer, means an employee who is employed in a managerial or an executive position by the employer;
+[1/2015]
 
-‘‘recognised trade union’’ means a trade union the majority of whose membership consists of employees in non-managerial or non-executive positions and which has been accorded recognition by an employer only in respect of such employees under section 17.
+(2) For the purposes of this Part, the Minister charged with the responsibility for human resource management in the Civil Service shall be deemed to be the employer of employees of the Government.
 
-[23/2002]
-
-(2) For the purposes of this Part, the Minister for Finance shall be deemed to be the employer of employees of the Government.
-
-[30A
-
-[23/2002]
+[1/2015]

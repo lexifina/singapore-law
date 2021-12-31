@@ -1,5 +1,5 @@
 # 70. Contempt by witness
-Part: PART VII PROCEDURE AND POWERS OF COURTS
+Part: PART 7 PROCEDURE AND POWERS OF COURTS
 
 (1) A person who has been summoned to appear, or who has appeared, before a Court as a witness and who without just cause, proof whereof shall be upon him —
 

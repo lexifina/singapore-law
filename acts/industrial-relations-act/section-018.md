@@ -1,5 +1,5 @@
 # 18. Invitation to negotiate
-Part: PART III COLLECTIVE BARGAINING
+Part: PART 3 COLLECTIVE BARGAINING
 
 (1) A trade union of employees which has been accorded recognition by an employer may serve on that employer or an employer may serve on a trade union of employees a notice in the prescribed form —
 
@@ -17,8 +17,6 @@ Part: PART III COLLECTIVE BARGAINING
 
 (d) the termination by an employer of the services of an employee by reason of redundancy or by reason of the reorganisation of an employer’s profession, business, trade or work or the criteria for such termination;
 
-(e) the dismissal and reinstatement of an employee by an employer in circumstances in which section 35 (3) applies; or
+(e) the dismissal and reinstatement of an employee by an employer in circumstances in which section 35(3) applies;
 
 (f) the assignment or allocation by an employer of duties or specific tasks to an employee that are consistent or compatible with the terms of his employment.
-
-[17

@@ -1,5 +1,5 @@
 # 81. Leave on trade union business
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 (1) An employee intending to carry out his duties or to exercise his rights as an officer of a trade union shall apply in writing to his employer for leave of absence stating the duration of and the purposes for which the leave is applied for.
 

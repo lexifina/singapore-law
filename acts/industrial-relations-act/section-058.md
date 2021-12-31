@@ -1,5 +1,5 @@
 # 58. Suspension or cancellation of award
-Part: PART VI AWARDS
+Part: PART 6 AWARDS
 
 (1) If it appears to a Court that a number of members of a trade union sufficiently large to form a substantial part of its membership refuse to accept employment in accordance with an award, the Court may, subject to such conditions as it thinks fit, by order cancel or suspend for such period as it thinks fit all or any of the terms of the award so far as the award applies to or is in favour of the trade union or its members.
 

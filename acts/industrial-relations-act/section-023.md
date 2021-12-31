@@ -1,5 +1,5 @@
 # 23. Compulsory conferences
-Part: PART III COLLECTIVE BARGAINING
+Part: PART 3 COLLECTIVE BARGAINING
 
 (1) The Minister may, where he considers it possible that any trade dispute may be settled by conciliation or further conciliation, direct a person, whether engaged in or connected with the trade dispute or not, to attend at a time and place specified in the direction a conference presided over by the Minister or such person as the Minister directs.
 
@@ -11,6 +11,6 @@ Part: PART III COLLECTIVE BARGAINING
 
 (a) on being directed under subsection (1), fails without lawful excuse to attend a conference; or
 
-(b) on being directed to continue his attendance at a conference by the Minister or presiding person, fails without lawful excuse to do so, shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+(b) on being directed to continue his attendance at a conference by the Minister or presiding person, fails without lawful excuse to do so, shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[22
+[36/2010]
