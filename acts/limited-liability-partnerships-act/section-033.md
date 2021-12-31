@@ -1,10 +1,12 @@
-# 33. Restriction on undischarged bankrupt being manager of limited liability partnership
-Part: PART VII MISCELLANEOUS
+# 33. Publication of name and limited liability
+Part: PART 5 MANAGEMENT AND ADMINISTRATION
 
-(1) Any person who, being an undischarged bankrupt (whether he was adjudicated bankrupt by a court in Singapore or elsewhere), acts as manager of any limited liability partnership without the leave of the High Court or the written permission of the Official Assignee, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(1) Every limited liability partnership must ensure that its invoices and official correspondence bear the following:
 
-(2) On an application by an undischarged bankrupt under subsection (1) to the High Court or the Official Assignee, the High Court or the Official Assignee, as the case may be, may refuse the application or approve the application subject to such conditions as the High Court or the Official Assignee may impose.
+(a) the name and registration number of the limited liability partnership;
 
-(3) The leave of the High Court for the purpose of this section shall not be given unless notice of intention to apply for leave has been served on the Official Assignee and the Official Assignee is heard on the application.
+(b) a statement that it is registered with limited liability.
 
-[BR Act 2004 Ed., s. 26; Companies 1994 Ed., s. 148]
+(2) Any limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part of a day during which the offence continues after conviction.
+
+[27

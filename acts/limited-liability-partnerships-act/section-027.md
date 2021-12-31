@@ -1,12 +1,14 @@
-# 27. Publication of name and limited liability
-Part: PART V MANAGEMENT AND ADMINISTRATION
+# 27. Conversion from private company to limited liability partnership
+Part: PART 4 CONVERSION TO LIMITED LIABILITY PARTNERSHIP
 
-(1) Every limited liability partnership shall ensure that its invoices and official correspondence bear the following:
+(1) A private company may convert to a limited liability partnership by complying with the requirements as to the conversion set out in the Third Schedule.
 
-(a) the name and registration number of the limited liability partnership; and
+(2) Upon the conversion, the private company, its shareholders, the limited liability partnership to which the private company has converted and the partners of that limited liability partnership are bound by the provisions of the Third Schedule that are applicable to them.
 
-(b) a statement that it is registered with limited liability.
+(3) The Minister may, by order in the Gazette, amend, add to or vary the provisions in the Third Schedule.
 
-(2) Any limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+(4) Any order made under subsection (3) must be presented to Parliament as soon as possible after publication in the Gazette.
 
-[Companies 1994 Ed., s. 144; LPA 2001 Ed., s. 81C]
+(5) In this section, “convert”, in relation to a private company converting to a limited liability partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the private company to the limited liability partnership in accordance with the Third Schedule.
+
+[21

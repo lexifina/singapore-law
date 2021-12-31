@@ -1,12 +1,18 @@
-# 20. Conversion from firm to limited liability partnership
-Part: PART IV CONVERSION TO LIMITED LIABILITY PARTNERSHIP
+# 20. Registration 1
+Part: PART 3 REGISTRATION
 
-(1) A firm may convert to a limited liability partnership by complying with the requirements as to the conversion set out in the Second Schedule.
+(1) On receiving the statement mentioned in section 19, the Registrar must, subject to the provisions of this Act, register the statement and issue a notice of registration in such form as the Registrar may determine.
 
-(2) Upon such conversion, the partners of the firm, the limited liability partnership to which the firm has converted and the partners of that limited liability partnership shall be bound by the provisions of the Second Schedule that are applicable to them.
+(2) On and from the date of registration specified in the notice of registration issued under subsection (1), there is a limited liability partnership, by the name specified in the notice, registered under this Act with all the attributes described in Part 2.
 
-(3) The Minister may, by order published in the Gazette, amend, add to or vary the provisions in the Second Schedule.
+(3) The notice of registration is conclusive evidence that the requirements of section 19 are complied with and that the limited liability partnership is registered by the name specified in the notice.
 
-(4) Any order made under subsection (3) shall be presented to Parliament as soon as possible after publication in the Gazette.
+(4) The Registrar may, upon receipt of the application in the prescribed form of a limited liability partnership registered under subsection (1) and on payment of the prescribed fee, issue to that limited liability partnership a certificate of confirmation of registration in such form as the Registrar may determine.
 
-(5) In this section, ‘‘convert’’, in relation to a firm converting to a limited liability partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the firm to the limited liability partnership in accordance with the Second Schedule.
+(5) This section must not be construed to require the Registrar to register any limited liability partnership if he or she is not satisfied with the particulars or other information provided under this Act.
+
+(6) Any person aggrieved by the refusal of the Registrar to register a limited liability partnership of which the person is to be a partner may, within 30 days of the date of the refusal, appeal to the Minister whose decision is final.
+
+(7) The registration of any limited liability partnership does not imply that the requirements of any law in relation to any business carried on by that limited liability partnership have been complied with.
+
+[16

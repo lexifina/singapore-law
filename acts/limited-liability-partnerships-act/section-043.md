@@ -1,14 +1,26 @@
-# 43. Inspection
-Part: PART VII MISCELLANEOUS
+# 43. Interpretation of this Part
+Part: PART 6A REGISTER OF CONTROLLERS
 
-(1) The Registrar may authorise in writing any officer or employee of the Authority or any public officer to be an inspector for the purposes of this Act.
+In this Part, unless the context otherwise requires —
 
-(2) The Registrar or any inspector shall, for the purposes of ascertaining whether the provisions of this Act are being complied with, have power at all reasonable times to enter into any premises at which he has reason to believe any person is carrying on business and to make such examination and inquiry as may be necessary for those purposes.
+“approved exchange” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-(3) The Registrar and every inspector when exercising any power under this Act shall declare his office and shall produce his authority in writing to any person affected by the exercise of that power.
+“controller” means an individual controller or a corporate controller;
 
-(4) Any person who fails to comply with a request made by the Registrar or an inspector or resists or obstructs the Registrar or an inspector in the performance of his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+“corporate controller”, in relation to a limited liability partnership, means a legal entity which has a significant interest in, or significant control over, the limited liability partnership;
 
-(5) It shall not be an offence for any person to refuse to comply with any request made by the Registrar or an inspector, or to resist or obstruct the Registrar or an inspector in the performance of any of his duties under this Act, if the Registrar or inspector fails to declare his office and to produce his authority in writing.
+“individual controller”, in relation to a limited liability partnership, means an individual who has a significant interest in, or significant control over, the limited liability partnership;
 
-[BR Act 2004 Ed., s. 23]
+“legal entity” means any body corporate formed or incorporated or existing in Singapore or outside Singapore and includes a foreign company;
+
+“register of controllers” or “register”, in relation to a limited liability partnership to which this Part applies, means the register that the limited liability partnership is required to keep of its registrable controllers under section 47(1), (2) or (3);
+
+“registered filing agent” means a filing agent registered under section 31 of the Accounting and Corporate Regulatory Authority Act 2004;
+
+“significant control”, in relation to a limited liability partnership, has the meaning given to it in the Seventh Schedule;
+
+“significant interest”, in relation to a limited liability partnership, has the meaning given to it in the Seventh Schedule.
+
+[32B
+
+[16/2017]

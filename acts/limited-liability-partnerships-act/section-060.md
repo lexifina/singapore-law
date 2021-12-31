@@ -1,10 +1,22 @@
-# 60. Consequential and related amendments to other written laws
-Part: PART VII MISCELLANEOUS
+# 60. Disqualification of managers of limited liability partnerships wound up on grounds of national security or interest
+Part: PART 7 MISCELLANEOUS
 
-(1) The Minister may, by order published in the Gazette, repeal or amend any written law in force on 11th April 2005 which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+(1) Subject to subsections (2) and (3), where a limited liability partnership is ordered to be wound up by the General Division of the High Court under paragraph 3(1)(f) of the Fifth Schedule on the ground that it is being used for purposes against national security or interest, the General Division of the High Court may, on the application of the Minister, make an order (called in this section a disqualification order) disqualifying any person who is a manager of that limited liability partnership from being a manager of any limited liability partnership for a period of 3 years from the date of the making of the winding up order.
 
-(2) An order under subsection (1) —
+[40/2019]
 
-(a) may be made at any time within the period of 2 years after 11th April 2005; and
+(2) A disqualification order is not to be made by the General Division of the High Court against any person under subsection (1) unless the General Division of the High Court is satisfied that the person against whom the order is sought has been given at least 14 days’ notice of the Minister’s application for the order.
 
-(b) shall be presented to Parliament as soon as possible after publication in the Gazette.
+[40/2019]
+
+(3) A disqualification order is not to be made by the General Division of the High Court against any person under subsection (1) if the person proves to the satisfaction of the General Division of the High Court that —
+
+(a) the limited liability partnership had been used for purposes against national security or interest without the person’s consent or connivance; and
+
+(b) the person had exercised such diligence to prevent the limited liability partnership from being so used as the person ought to have exercised having regard to the nature of the person’s function in that capacity and to all the circumstances.
+
+[40/2019]
+
+(4) Any person who contravenes a disqualification order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[35

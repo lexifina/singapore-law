@@ -1,14 +1,16 @@
-# 57. Rules
-Part: PART VII MISCELLANEOUS
+# 57. Amendment of Sixth and Seventh Schedules
+Part: PART 6A REGISTER OF CONTROLLERS
 
-The Rules Committee constituted under section 80 of the Supreme Court of Judicature Act (Cap. 322) may make rules —
+(1) The Minister may, by order in the Gazette, amend —
 
-(a) with respect to proceedings and the practice and procedure of the High Court under this Act;
+(a) the Sixth Schedule in relation to the list of limited liability partnerships to which this Part does not apply; and
 
-(b) with respect to any matter or thing which is by the Fifth Schedule required or permitted to be prescribed by rules;
+(b) the Seventh Schedule in relation to the meanings of “significant control” and “significant interest”.
 
-(c) without limiting the generality of this section, with respect to High Court fees and costs and with respect to rules as to meetings ordered by the High Court; and
+[16/2017]
 
-(d) generally with respect to the winding up of limited liability partnerships.
+(2) All orders made under this section must be presented to Parliament as soon as possible after publication in the Gazette.
 
-[Companies 1994 Ed., s. 410]
+[32P
+
+[16/2017]

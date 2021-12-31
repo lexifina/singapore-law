@@ -1,18 +1,12 @@
-# 9. Power of partner to bind the limited liability partnership
-Part: PART II NATURE OF LIMITED LIABILITY PARTNERSHIP
+# 9. Application of provisions of Companies Act 1967
+Part: PART 2 NATURE OF LIMITED LIABILITY PARTNERSHIP
 
-(1) Every partner of a limited liability partnership is the agent of the limited liability partnership.
+(1) Subject to section 8, section 41(1) to (8) of the Companies Act 1967 applies to a limited liability partnership as it applies to a corporation within the meaning of that Act.
 
-(2) Notwithstanding subsection (1), a limited liability partnership is not bound by anything done by a partner in dealing with a person if —
+[16/2017]
 
-(a) the partner has in fact no authority to act for the limited liability partnership by doing that thing; and
+(2) Section 144(1)(a) of the Companies Act 1967 applies to a limited liability partnership as it applies to a company under that Act.
 
-(b) the person knows that he has no authority or does not know or believe him to be a partner of the limited liability partnership.
+[5D
 
-(3) Where a person has ceased to be a partner of a limited liability partnership, the former partner is to be regarded (in relation to any person dealing with the limited liability partnership) as still being a partner of the limited liability partnership unless —
-
-(a) the person has notice that the former partner has ceased to be a partner of the limited liability partnership; or
-
-(b) notice that the former partner has ceased to be a partner of the limited liability partnership has been delivered to the Registrar.
-
-[UK LLP 2000, s. 6]
+[16/2017]

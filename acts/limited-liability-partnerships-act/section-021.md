@@ -1,12 +1,14 @@
-# 21. Conversion from private company to limited liability partnership
-Part: PART IV CONVERSION TO LIMITED LIABILITY PARTNERSHIP
+# 21. Power to refuse registration
+Part: PART 3 REGISTRATION
 
-(1) A private company may convert to a limited liability partnership by complying with the requirements as to the conversion set out in the Third Schedule.
+(1) Despite any provision in this Act or any other written law, the Registrar must refuse to register a limited liability partnership under this Act where the Registrar is satisfied that —
 
-(2) Upon such conversion, the private company, its shareholders, the limited liability partnership to which the private company has converted and the partners of that limited liability partnership shall be bound by the provisions of the Third Schedule that are applicable to them.
+(a) the proposed business is likely to be used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore; or
 
-(3) The Minister may, by order published in the Gazette, amend, add to or vary the provisions in the Third Schedule.
+(b) it would be contrary to the national security or interest for the limited liability partnership to be registered.
 
-(4) Any order made under subsection (3) shall be presented to Parliament as soon as possible after publication in the Gazette.
+(2) Any person aggrieved by the decision of the Registrar under subsection (1) may, within 30 days of the date of the decision, appeal to the Minister whose decision is final.
 
-(5) In this section, ‘‘convert’’, in relation to a private company converting to a limited liability partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the private company to the limited liability partnership in accordance with the Third Schedule.
+(3) For the purposes of this section, a certificate issued by the Minister charged with the responsibility for internal security stating that the Minister is satisfied that it would be contrary to the national security or interest for the limited liability partnership to be registered under this Act is conclusive evidence of the matters so stated.
+
+[17

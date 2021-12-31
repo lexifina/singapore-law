@@ -1,35 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY LIMITED LIABILITY PARTNERSHIPS ACT 2005
 
-LIMITED LIABILITY PARTNERSHIPS ACT (CHAPTER 163A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Limited Liability Partnerships Act. It is not part of the Act.
+1. Act 5 of 2005 — Limited Liability Partnerships Act 2005 Bill : 64/2004 First Reading : 19 October 2004 Second and Third Readings : 25 January 2005 Commencement : 11 April 2005 2. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (22) of the First Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 April 2006 (section 5 read with item (22) of the First Schedule) 3. 2006 Revised Edition — Limited Liability Partnerships Act (Chapter 163A) Operation : 31 December 2006 4. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 4 read with item (7) of the Schedule to the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 4 read with item (7) of the Schedule) 5. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2008 (Amendments made by section 40 read with item (10) of the Schedule to the above Act) Bill : 50/2007 First Reading : 12 November 2007 Second and Third Readings : 22 January 2008 Commencement : 1 April 2008 (section 40 read with item (10) of the Schedule) 6. Act 7 of 2009 — Civil Law (Amendment) Act 2009 (Amendments made by section 7 read with item (6) of the Schedule to the above Act) Bill : 38/2008 First Reading : 17 November 2008 Second and Third Readings : 19 January 2009 Commencement : 1 March 2009 (section 7 read with item (6) of the Schedule) 7. Act 37 of 2008 — Limited Partnerships Act 2008 (Amendments made by section 44 read with item (5) of the Third Schedule to the above Act) Bill : 35/2008 First Reading : 21 October 2008 Second and Third Readings : 18 November 2008 Commencement : 4 May 2009 (section 44 read with item (5) of the Third Schedule) 8. Act 22 of 2008 — Mental Capacity Act 2008 (Amendments made by section 47 read with item (4) of the Third Schedule to the above Act) Bill : 13/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 47 read with item (4) of the Third Schedule) 9. Act 18 of 2014 — Accounting and Corporate Regulatory Authority (Amendment) Act 2014 (Amendments made by section 15 read with item 2 of the Schedule to the above Act) Bill : 8/2014 First Reading : 17 February 2014 Second and Third Readings : 14 April 2014 Commencement : 15 May 2015 (section 15 read with item 2 of the Schedule) 10. Act 35 of 2014 — Statutes (Miscellaneous Amendments) (No. 2) Act 2014 (Amendments made by section 10 of the above Act) Bill : 24/2014 First Reading : 8 September 2014 Second and Third Readings : 7 October 2014 Commencement : 1 July 2015 (section 10(j) to (p), (v),
 
-1. Act 5 of 2005 — Limited Liability Partnerships Act 2005
+(zd) and (ze)) 3 January 2016 (section 10(a) to (i),
 
-Date of First Reading : 19 October 2004 (Bill No. 64/2004 published on 20 October 2004)
+(q) to (u) and (w) to (zc)) 11. Act 29 of 2014 — Business Names Registration Act 2014 (Amendments made by section 47 read with item 10 of the Schedule to the above Act) Bill : 26/2014 First Reading : 8 September 2014 Second and Third Readings : 8 October 2014 Commencement : 3 January 2016 (section 47 read with item 10 of the Schedule) 12. Act 16 of 2017 — Limited Liability Partnerships (Amendment) Act 2017 Bill : 14/2017 First Reading : 28 February 2017 Second and Third Readings : 10 March 2017 Commencement : 31 March 2017 13. Act 21 of 2016 — Employment Claims Act 2016 (Amendments made by section 40 of the above Act) Bill : 20/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 1 April 2017 (section 40) 14. Act 15 of 2017 — Companies (Amendment) Act 2017 (Amendments made by section 53(5) of the above Act) Bill : 13/2017 First Reading : 28 February 2017 Second and Third Readings : 10 March 2017 Commencement : 11 October 2017 (section 53(5)) 15. Act 2 of 2019 — Payment Services Act 2019 (Amendments made by section 116 of the above Act) Bill : 48/2018 First Reading : 19 November 2018 Second and Third Readings : 14 January 2019 Commencement : 28 January 2020 (section 116) 16. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 489 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 489) 17. Act 27 of 2019 — Work Injury Compensation Act 2019 (Amendments made by section 83(8)(g) of the above Act) Bill : 21/2019 First Reading : 5 August 2019 Second and Third Readings : 3 September 2019 Commencement : 1 September 2020 (section 83(8)(g)) 18. G.N. No. S 1090/2020 — Limited Liability Partnerships Act (Amendment of Fourth and Fifth Schedules) Order 2020 Commencement : 31 December 2020 19. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 90 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 90 of the Schedule) 20. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 15(9) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 15(9))
 
-Date of Second and Third Readings : 25 January 2006
+Abbreviations
 
-Date of commencement : 11 April 2005
-
-2. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 July 2005 (section 20 (e))
-
-1 January 2006 (except for sections 10, 12, 17 (e) to (j), 19 and 20 (c) and (e); items
-
-(2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31),
-
-(34) (a) and (36) in the First Schedule; and Third Schedule)
-
-30 January 2006 (sections 10, 12, 19 and 20 (c))
-
-1 April 2006 (items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and
-
-(36) in the First Schedule; and
-
-the Third Schedule)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

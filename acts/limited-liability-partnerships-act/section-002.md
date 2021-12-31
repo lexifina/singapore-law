@@ -1,67 +1,79 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘Authority’’ means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act (Cap. 2A);
+“alternate address” means an alternate address maintained with the Registrar under section 37 that meets the requirements of that section;
 
-‘‘company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004;
 
-‘‘corporation’’ means any body corporate formed or incorporated or existing in Singapore or outside Singapore and includes —
+“Authority’s website” means the Authority’s Internet website;
+
+“company” has the meaning given by section 4(1) of the Companies Act 1967;
+
+“corporation” means any body corporate formed or incorporated or existing in Singapore or outside Singapore and includes —
 
 (a) any limited liability partnership registered under this Act; and
 
-Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
-
-California Corp Code, : California Corporations Code, Uniform Partnership Act of 1994 UPA 1994 Delaware RUPA : Delaware Revised Uniform Partnership Act (Delaware Code, Title 6 Chapter 15) Jersey LLP Law 1997 : Jersey Limited Liability Partnerships (Jersey) Law 1997 UK Insolvency 1986 : UK Insolvency Act 1986 (Chapter 45) UK LLP 2000 : UK Limited Liability Partnerships Act 2000 (Chapter 12) UK LLP Reg. 2001 : UK Limited Liability Partnerships Regulations 2001 (SI 1090/2001) Bankruptcy 2000 Ed. : Singapore Bankruptcy Act (Chapter 20, 2000 Revised Edition) BR Act 2004 Ed. : Singapore Business Registration Act (Chapter 32, 2004 Revised Edition) Companies 1994 Ed. : Singapore Companies Act (Chapter 50, 1994 Revised Edition) Companies (ABAP) Reg. : Singapore Companies (Application of Bankruptcy Act Provisions) Regulations (Chapter 50, Rg 3, 1994 Revised Edition) LPA 2001 Ed. : Singapore Legal Profession Act (Chapter 161, 2001 Revised Edition)
-
 (b) any foreign company, but does not include —
 
-(i) any corporation sole;
+(c) any corporation sole;
 
-(ii) any co-operative society; or
+(d) any co-operative society; or
 
-(iii) any registered trade union;
+(e) any registered trade union;
 
-‘‘firm’’ has the same meaning as in section 2 (1) of the Business Registration Act (Cap. 32);
+“financial year”, in relation to a limited liability partnership, means the period in respect of which any profit and loss account of the limited liability partnership is made up, whether that period is a year or not;
 
-‘‘foreign company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“firm” has the meaning given by section 2(1) of the Business Names Registration Act 2014;
 
-‘‘limited liability partnership’’ has the meaning given to it by section 4 (1);
+“foreign company” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘limited liability partnership agreement’’, in relation to a limited liability partnership, means any agreement expressed or implied between the partners of the limited liability partnership or between the limited liability partnership and its partners which determines the mutual rights and duties of the partners and their rights and duties in relation to the limited liability partnership;
+“identification” means —
 
-‘‘liquidator’’ includes the Official Receiver when acting as the liquidator of a corporation;
+(a) in the case of an individual issued with an identity card under the National Registration Act 1965, the number of the individual’s identity card; and
 
-‘‘manager’’, in relation to a limited liability partnership, means any person (whether or not a partner of the limited liability partnership) who is concerned in or takes part in the management of the limited liability partnership (whether or not his particulars or consent to act are lodged with the Registrar as required under section 23 (2));
+(b) in the case of an individual not issued with an identity card under that Act, particulars of the individual’s passport or any other similar evidence of identity that is acceptable to the Registrar;
 
-‘‘officer’’, in relation to a limited liability partnership, means —
+“limited liability partnership” has the meaning given by section 4(1);
+
+“limited liability partnership agreement”, in relation to a limited liability partnership, means any agreement expressed or implied between the partners of the limited liability partnership or between the limited liability partnership and its partners which determines the mutual rights and duties of the partners and their rights and duties in relation to the limited liability partnership;
+
+“liquidator” includes the Official Receiver when acting as the liquidator of a corporation;
+
+“manager”, in relation to a limited liability partnership, means any person (whether or not a partner of the limited liability partnership) who is concerned in or takes part in the management of the limited liability partnership (whether or not the person’s particulars or consent to act are lodged with the Registrar as required under section 29(2));
+
+“officer”, in relation to a limited liability partnership, means —
 
 (a) any manager of the limited liability partnership;
 
-(b) a receiver and manager of any part of the undertaking of the limited liability partnership appointed under a power contained in any instrument; and
+(b) a receiver and manager of any part of the undertaking of the limited liability partnership appointed under a power contained in any instrument; or
 
 (c) any liquidator of the limited liability partnership appointed in a voluntary winding up, but does not include —
 
-(i) any receiver who is not also a manager;
+(d) any receiver who is not also a manager;
 
-(ii) any receiver and manager appointed by the High Court;
+(e) any receiver and manager appointed by the General Division of the High Court; or
 
-or
+(f) any liquidator appointed by the General Division of the High Court or by the creditors;
 
-(iii) any liquidator appointed by the High Court or by the creditors;
+“Official Receiver” has the meaning given by section 2(1) of the Insolvency, Restructuring and Dissolution Act 2018;
 
-‘‘Official Receiver’’ means the Official Assignee appointed under the Bankruptcy Act (Cap. 20) and includes the deputy of any such Official Assignee and any person appointed as Assistant Official Assignee;
+“partner”, in relation to a limited liability partnership, means any person who has been admitted as a partner in the limited liability partnership in accordance with the limited liability partnership agreement;
 
-‘‘partner’’, in relation to a limited liability partnership, means any person who has been admitted as a partner in the limited liability partnership in accordance with the limited liability partnership agreement;
+“private company” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘prescribed person’’ means a person, or a person within a class of persons, prescribed by the Minister;
+“register” means any register kept and maintained under this Act;
 
-‘‘private company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“Registrar” means the Registrar of Limited Liability Partnerships appointed under section 3(2)(a) and includes any Deputy Registrar or Assistant Registrar appointed under section 3(2)(b);
 
-‘‘register’’ means any register kept and maintained under this Act;
+“residential address”, in relation to an individual, means the individual’s usual place of residence;
 
-‘‘Registrar’’ means the Registrar of Limited Liability Partnerships appointed under section 3 (2) (a) and includes any Deputy Registrar or Assistant Registrar appointed under section 3 (2) (b).
+“solicitor” means an advocate and solicitor of the Supreme Court.
+
+[2/2007; 18/2014; 29/2014; 35/2014; 16/2017; 40/2018;
+
+40/2019]
 
 (2) Where a limited liability partnership has more than one manager —
 
@@ -69,8 +81,10 @@ or
 
 (b) anything which constitutes an offence by the manager under this Act constitutes an offence by each of the managers.
 
-(3) A reference in this Act to the managers of a limited liability partnership shall, in the case of a limited liability partnership which has only one manager, be construed as a reference to that manager.
+(3) A reference in this Act to the managers of a limited liability partnership is, in the case of a limited liability partnership which has only one manager, a reference to that manager.
 
-(4) A reference in this Act to the doing of any act by 2 or more managers of a limited liability partnership shall, in the case of a limited liability partnership which has only one manager, be construed as the doing of that act by that manager.
+(4) A reference in this Act to the doing of any act by 2 or more managers of a limited liability partnership, in the case of a limited liability partnership which has only one manager, is to the doing of that act by that manager.
 
-[Jersey LLP Law 1997, Art. 1 (4)]
+(5) For the purposes of sections 20(6), 21(2), 23(5) and 24(9) and (10), any reference to the Minister includes a reference to the Minister of State for his or her Ministry who is authorised by the Minister for the purpose of hearing an appeal under that section.
+
+[35/2014]

@@ -1,24 +1,16 @@
-# 25. Accounts
-Part: PART V MANAGEMENT AND ADMINISTRATION
+# 25. Change of limited liability partnership name
+Part: PART 3 REGISTRATION
 
-(1) Every limited liability partnership shall keep such accounting and other records as will sufficiently explain the transactions and financial position of the limited liability partnership and enable profit and loss accounts and balance-sheets to be prepared from time to time which give a true and fair view of the state of affairs of the limited liability partnership.
+(1) An application by a limited liability partnership to change the name under which it was registered is to be lodged with the Registrar.
 
-(2) The limited liability partnership shall retain the records referred to in subsection (1) for 7 years after the completion of the transactions or operations to which they respectively relate.
+[35/2014]
 
-(3) The records referred to in subsection (1) shall be kept at such place as the partners think fit and shall at all times be open to inspection by the partners.
+(2) On approving the application, the Registrar must issue to the limited liability partnership a notice of change of name stating the date of the change.
 
-(4) The Registrar may, by notice in writing to the limited liability partnership or any of its partners, require the limited liability partnership or that partner to produce the records referred to in subsection (1) for his inspection within such time and at such place as may be specified in that notice.
+[35/2014]
 
-(5) If a limited liability partnership contravenes subsection (1), (2) or (3), the limited liability partnership and every partner of the limited liability partnership shall be guilty of an offence and shall be liable on conviction —
+(3) Any application for a change of a limited liability partnership name is subject to section 24.
 
-(a) in the case where the offender is an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both; and
+[19B
 
-(b) in any other case, to a fine not exceeding $10,000.
-
-(6) Any person who fails to comply with a requirement under subsection (4) shall be guilty of an offence and shall be liable on conviction —
-
-(a) in the case where the offender is an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both; and
-
-(b) in any other case, to a fine not exceeding $10,000.
-
-[Companies 1994 Ed., s. 199 (1) to (3)]
+[35/2014]

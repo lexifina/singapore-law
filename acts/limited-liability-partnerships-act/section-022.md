@@ -1,12 +1,12 @@
-# 22. Minimum of 2 partners
-Part: PART V MANAGEMENT AND ADMINISTRATION
+# 22. Names of limited liability partnerships
+Part: PART 3 REGISTRATION
 
-(1) Every limited liability partnership shall have at least 2 partners.
+(1) Every limited liability partnership must have either the words “limited liability partnership” or the acronym “LLP” as part of its name.
 
-(2) If a limited liability partnership carries on business with fewer than 2 partners for a period of more than 2 years, a person shall (notwithstanding section 8 (1) and (2)) be personally liable, jointly and severally with the limited liability partnership, for any obligation of the limited liability partnership incurred during the period that the limited liability partnership so carries on business after those 2 years if, at the time the obligation was incurred, he —
+(2) A limited liability partnership that is registered under this Act must not carry on business under a name that is not registered under section 20 or 34.
 
-(a) was a partner of the limited liability partnership; and
+(3) The registration of a name under which a limited liability partnership carries on business is not to be construed as authorising the use of that name if, apart from the registration, the use of that name could be prohibited.
 
-(b) knew that the limited liability partnership was carrying on business with fewer than 2 partners for a period of more than 2 years.
+(4) Any limited liability partnership which contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-[Companies 1994 Ed., s. 145 (10)]
+[18

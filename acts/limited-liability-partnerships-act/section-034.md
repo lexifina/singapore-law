@@ -1,92 +1,50 @@
-# 34. Disqualification of unfit managers of insolvent limited liability partnerships
-Part: PART VII MISCELLANEOUS
+# 34. Registration of change in particulars
+Part: PART 5 MANAGEMENT AND ADMINISTRATION
 
-(1) The High Court may —
+(1) A limited liability partnership must lodge with the Registrar —
 
-(a) on the application of the Minister or the Official Receiver as provided for in subsection (11); and
+(a) within 14 days after the appointment of a new partner of the limited liability partnership, a statement containing the particulars mentioned in section 19(1)(d) or (e) (as the case may be) of the new partner;
 
-(b) on being satisfied as to the matters referred to in subsection (2), make an order disqualifying a person specified in the order from being a manager of a limited liability partnership for a period specified in the order not exceeding 5 years from the date of the making of the order (referred to in this section as a disqualification order).
+(b) within 14 days after the appointment of a new manager of the limited liability partnership, a statement containing the particulars mentioned in section 19(1)(f) or (g) (as the case may be) of the manager;
 
-(2) The High Court shall make a disqualification order under subsection (1) if it is satisfied that —
+(c) within 14 days after a partner or manager ceases to be a partner or manager of the limited liability partnership, a statement of that fact;
 
-(a) the person against whom the order is sought has been given not less than 14 days’ notice of the application for the order;
+(d) within 14 days after any change in the particulars of any partner or manager of the limited liability partnership that have been lodged with the Registrar under this Act, other than the partner’s or manager’s residential address, a statement containing the particulars of the change; or
 
-(b) the person is or has been a manager of a limited liability partnership which has gone into liquidation (whether while he was a manager or within 3 years of his ceasing to be a manager of the limited liability partnership) and was insolvent at the date of its liquidation; and
+(e) within 14 days after any other change that is made or that occurs in any of the particulars registered in respect of any limited liability partnership, a statement specifying the nature and date of the change, and containing any other information that may be prescribed.
 
-(c) the person’s conduct as a manager of that limited liability partnership taken alone or taken together with his conduct as a manager of any other limited liability partnership or a director of any other corporation makes him unfit to be a manager of a limited liability partnership.
+[35/2014]
 
-(3) If in the case of a person who is or has been a manager of a limited liability partnership which is —
+(2) The Registrar may, on application by the limited liability partnership, extend the period referred to in subsection (1)(a) to (e).
 
-(a) being wound up by the High Court, it appears to the Official Receiver or to the liquidator, if he is not the Official Receiver;
+[35/2014]
 
-or
+(3) Any person who ceases to be a partner or manager of a limited liability partnership may himself, herself or itself lodge with the Registrar the statement mentioned in subsection (1)(c) if the person has reasonable cause to believe that the limited liability partnership will not lodge the statement with the Registrar.
 
-(b) being wound up otherwise than as mentioned in paragraph (a), it appears to the liquidator, that the conditions mentioned in subsection (2) (b) and (c) are satisfied as respects that person, the Official Receiver or the liquidator, as the case may be, shall immediately report the matter to the Minister.
+[35/2014]
 
-(4) The Minister may require the Official Receiver or the liquidator or the former liquidator of a limited liability partnership to —
+(4) A partner or manager, who is an individual, who changes his or her residential address must lodge with the Registrar a notice of the new residential address within 14 days after the date of change.
 
-(a) furnish him with such information with respect to any person’s conduct as a manager of the limited liability partnership; and
+[35/2014]
 
-(b) produce and permit inspection of such books, papers and other records relevant to that person’s conduct as such a manager, as the Minister may reasonably require for the purpose of exercising or determining whether to exercise any of his functions under this section.
+(5) Where a partner or manager has changed his or her residential address and has made a report of the change under section 10 of the National Registration Act 1965, the partner or manager is to be taken to have informed the Registrar of the change of residential address in compliance with subsection (4).
 
-(5) If any person fails to comply with any requirement under subsection (4), the High Court may, on the application of the Minister, make an order requiring that person to make good the default within such time as is specified in the order.
+[35/2014]
 
-(6) For the purposes of this section —
+(6) The Registrar may, in any particular case, require a statement lodged under subsection (1) to be rectified in any manner that the Registrar considers fit.
 
-(a) the date of liquidation of a limited liability partnership shall be —
+[35/2014]
 
-(i) if the limited liability partnership is wound up by the High Court, the date of the filing of the winding up application;
+(7) Any statement required to be lodged under this section must be in such medium and form as the Registrar may determine.
 
-(ii) where a provisional liquidator was appointed under paragraph 37 of the Fifth Schedule, the date the declaration made under that paragraph was lodged with the Registrar; and
+[35/2014]
 
-(iii) in any other case, the date of the passing of the resolution for winding up;
+(8) Any —
 
-(b) a limited liability partnership shall be taken to be insolvent if it was unable to pay its debts, within the meaning of that expression in paragraph 3 (2) of the Fifth Schedule; and
+(a) limited liability partnership which contravenes subsection (1); or
 
-(c) references to a person’s conduct as a manager of any limited liability partnership or director of any corporation include, where any of those entities have become insolvent, references to that person’s conduct in relation to any matter connected with or arising out of the insolvency of that entity.
+(b) partner or manager of a limited liability partnership who contravenes subsection (4), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part of a day during which the offence continues after conviction.
 
-[42/2005]
+[28
 
-(7) In deciding whether a person’s conduct as a manager of any particular limited liability partnership makes him unfit to be a manager of a limited liability partnership as is mentioned in subsection (2) (c), the High Court shall in relation to his conduct as a manager of that limited liability partnership have regard —
-
-(a) generally to the matters referred to in subsection (8); and
-
-(b) in particular, to the matters referred to in subsection (9), notwithstanding that the manager has not been convicted or may not be criminally liable in respect of any of these matters.
-
-(8) The matters referred to in subsection (7) (a) to which the High Court shall have regard generally are —
-
-(a) whether there has been any misfeasance or breach of any fiduciary or other duty by the manager in relation to the limited liability partnership;
-
-(b) whether there has been any misapplication or retention by the manager of, or any conduct by the manager giving rise to an obligation to account for, any money or other property of the limited liability partnership; and
-
-(c) the extent of the manager’s responsibility for any failure by the limited liability partnership to comply with any provision of this Act.
-
-(9) The matters referred to in subsection (7) (b) to which the High Court shall have regard in particular are —
-
-(a) the extent of the manager’s responsibility for the causes of the limited liability partnership becoming insolvent;
-
-(b) the extent of the manager’s responsibility for any failure by the limited liability partnership to supply any goods or services which have been paid for (in whole or in part);
-
-(c) the extent of the manager’s responsibility for the limited liability partnership entering into any transaction liable to be set aside under paragraph 8 (1) of the Fifth Schedule; and
-
-(d) whether the causes of the limited liability partnership becoming insolvent are attributable to its carrying on business in a particular industry where the risk of insolvency is generally recognised to be higher.
-
-(10) The Minister may, by order published in the Gazette, add to, vary or amend the matters referred to in subsection (8) or (9) and that order may contain such transitional provisions as may appear to the Minister to be necessary or expedient.
-
-(11) In the case of a person who is or has been a manager of a limited liability partnership which has gone into liquidation and is being wound up by the High Court, an application under this section shall be made by the Official Receiver but in any other case an application shall be made by the Minister.
-
-(12) On a hearing of an application under this section —
-
-(a) the Minister or the Official Receiver, as the case may be, shall appear and call the attention of the High Court to any matter which appears to him to be relevant (and for this purpose the Minister may be represented) and may give evidence or call witnesses; and
-
-(b) the person against whom an order is sought may appear and himself give evidence or call witnesses.
-
-(13) A person who acts as receiver or receiver and manager shall not be liable to have a disqualification order made against him in respect of acts done in his capacity as receiver or receiver and manager, as the case may be.
-
-(14) Nothing in this section shall prevent a person who is disqualified pursuant to an order made under subsection (1) from applying for leave of the High Court to be a manager of a limited liability partnership.
-
-(15) On the hearing of an application made under subsection (14), the Minister or the Official Receiver shall appear (and for this purpose the Minister may be represented) and call the attention of the High Court to any matter which appears to him to be relevant to the application and may himself give evidence or call witnesses.
-
-(16) Any person who contravenes a disqualification order made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[Companies 1994 Ed., s. 149]
+[35/2014]

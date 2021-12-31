@@ -1,14 +1,36 @@
-# 54. Evidence
-Part: PART VII MISCELLANEOUS
+# 54. Central register of controllers
+Part: PART 6A REGISTER OF CONTROLLERS
 
-(1) Subject to subsection (3), a document or certificate issued by the Registrar in connection with the administration or enforcement of this Act or with an investigation carried out under this Act shall be admissible as evidence in any proceedings under this Act and shall be prima facie evidence of the facts stated therein.
+(1) This section applies where the Minister, by notification in the Gazette, directs the Registrar to maintain a central register of controllers of limited liability partnerships.
 
-(2) For the purposes of this section, a document purporting to be a certificate referred to in subsection (1) on its production by the prosecution shall, until the contrary is proved, be deemed to be such a certificate.
+[16/2017]
 
-(3) A certificate referred to in subsection (1) shall not be received in evidence under that subsection unless the person charged has been given —
+(2) Where the Minister has directed the Registrar to maintain a central register of controllers of limited liability partnerships under subsection (1) —
 
-(a) a copy of the certificate; and
+(a) the Registrar must keep a central register of controllers consisting of the particulars contained in the registers kept by limited liability partnerships to which this Part applies;
 
-(b) notice of the intention of the prosecution to produce the certificate as evidence in the proceedings, not less than 10 clear days before the commencement of the proceedings.
+and
 
-(4) Where a certificate of the Registrar is admitted in evidence under subsection (1), the person charged may require the Registrar to be called as a witness for the prosecution and be cross-examined as if he had given evidence of the matters stated in the certificate.
+(b) the Registrar may require any limited liability partnership to which this Part applies to lodge with the Registrar —
+
+(i) all particulars contained in the limited liability partnership’s register maintained under section 47;
+
+and
+
+(ii) all updates to the limited liability partnership’s register that occur after the lodgment of the particulars under sub-paragraph (i).
+
+[16/2017]
+
+(3) A lodgment mentioned in subsection (2)(b) must be made in such form and manner, and within such time, as may be prescribed.
+
+[16/2017]
+
+(4) If a limited liability partnership fails to comply with subsection (2)(b) or (3), the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+[16/2017]
+
+(5) Except in such circumstances as may be prescribed, the Registrar must not disclose, or make available for inspection, the central register of controllers of limited liability partnerships kept by the Registrar under this section to any member of the public.
+
+[32M
+
+[16/2017]

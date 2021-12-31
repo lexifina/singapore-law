@@ -1,12 +1,12 @@
-# 40. Rectification of register
-Part: PART VII MISCELLANEOUS
+# 40. Amendment of Fourth and Fifth Schedules
+Part: PART 6 RECEIVERSHIP AND WINDING UP
 
-(1) Where it appears to the High Court, as a result of evidence adduced before it by an applicant limited liability partnership, that any particular recorded in a register is erroneous or defective, the High Court may, by order, direct the Registrar to rectify the register on such terms and conditions as seem to the High Court just and expedient, as are specified in the order and the Registrar shall, upon receipt of the order, rectify the register accordingly.
+(1) Subject to subsections (2) and (3), the Minister may, by order in the Gazette, amend the Fourth or Fifth Schedule.
 
-(2) An order of the High Court made under subsection (1) may require that a fresh document, showing the rectification, shall be filed by the applicant limited liability partnership with the Registrar, together with a copy of the High Court order and a copy of the High Court application.
+(2) The Minister must not amend the Fourth or Fifth Schedule to increase the maximum penalty for any of the offences in the Schedules.
 
-(3) Notwithstanding subsections (1) and (2), an officer of a limited liability partnership may notify the Registrar in the prescribed form of any typographical or clerical error contained in any document relating to the limited liability partnership lodged with the Registrar.
+(3) The Minister may amend the Fourth or Fifth Schedule to include a new offence provided that the maximum penalty for the new offence does not exceed a fine of $2,000 or a term of imprisonment of 12 months and, in the case of a continuing offence, the maximum penalty does not exceed a fine of $200 for every day or part of a day during which the offence continues after conviction.
 
-(4) The Registrar may, upon receipt of any notification referred to in subsection (3), rectify the register accordingly.
+(4) Any order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette.
 
-[Companies 1994 Ed., s. 12B]
+[31

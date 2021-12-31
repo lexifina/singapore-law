@@ -1,6 +1,10 @@
-# 39. False representation as to registration as limited liability partnership
-Part: PART VII MISCELLANEOUS
+# 39. Winding up
+Part: PART 6 RECEIVERSHIP AND WINDING UP
 
-If any person knowingly holds out that a business is registered as a limited liability partnership under this Act, the person shall, where he knows or ought to have known that at the material time the business was not registered as a limited liability partnership under this Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(1) The winding up of a limited liability partnership may be either voluntary or by the General Division of the High Court and, unless inconsistent with the context, the provisions of the Fifth Schedule apply to the winding up of a limited liability partnership in either of these modes.
 
-[Companies 1994 Ed., s. 405]
+[40/2019]
+
+(2) The provisions of the Fifth Schedule relating to the remedies against the property of a limited liability partnership and the priorities of debts bind the Government.
+
+[30

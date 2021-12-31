@@ -1,16 +1,12 @@
-# 28. Registration of changes in particulars
-Part: PART V MANAGEMENT AND ADMINISTRATION
+# 28. Minimum of 2 partners
+Part: PART 5 MANAGEMENT AND ADMINISTRATION
 
-(1) Whenever a change is made or occurs in any of the particulars registered in respect of any limited liability partnership, that limited liability partnership shall, within 14 days after the change, or such further period as the Registrar may on application allow, lodge with the Registrar a statement specifying the nature and date of the change, and containing such other information as may be prescribed.
+(1) Every limited liability partnership must have at least 2 partners.
 
-(2) Any person who ceases to be a partner or manager of a limited liability partnership may himself lodge with the Registrar the statement referred to in subsection (1) if he has reasonable cause to believe that the limited liability partnership will not lodge the statement with the Registrar.
+(2) If a limited liability partnership carries on business with fewer than 2 partners for a period of more than 2 years, a person is (despite section 12(1) and (2)) personally liable, jointly and severally with the limited liability partnership, for any obligation of the limited liability partnership incurred during the period that the limited liability partnership so carries on business after those 2 years if, at the time the obligation was incurred, the person —
 
-(3) Where any partner or manager of a limited liability partnership has changed his residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201) within 14 days of the change, he shall be deemed to have informed the Registrar of the change of his residential address in compliance with subsection (1).
+(a) was a partner of the limited liability partnership; and
 
-(4) The Registrar may, in any particular case, require a statement lodged under subsection (1) to be rectified in such manner as the Registrar considers fit.
+(b) knew that the limited liability partnership was carrying on business with fewer than 2 partners for a period of more than 2 years.
 
-(5) Any statement required to be lodged under this section shall be in such medium and form as the Registrar may determine.
-
-(6) Any limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
-
-[BR Act 2004 Ed., s. 14; Companies 1994 Ed., s. 173 (6A)]
+[22

@@ -1,6 +1,20 @@
-# 45. Penalty for providing false information to Registrar
-Part: PART VII MISCELLANEOUS
+# 45. State of mind of corporation, unincorporated association, etc.
+Part: PART 6A REGISTER OF CONTROLLERS
 
-Any person who makes any statement or furnishes any information to the Registrar under the provisions of this Act which is false in any material particular or by reason of the omission of any material particular and which he either knows or has reason to believe is false, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(1) Where, in a proceeding for an offence under this Part, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
 
-[BR Act 2004 Ed., s. 27 (d)]
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of the officer’s, employee’s or agent’s actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind, is evidence that the corporation had that state of mind.
+
+[16/2017]
+
+(2) Where, in a proceeding for an offence under this Part, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of the employee’s or agent’s actual or apparent authority; and
+
+(b) the employee or agent had that state of mind, is evidence that the unincorporated association or partnership had that state of mind.
+
+[32D
+
+[16/2017]

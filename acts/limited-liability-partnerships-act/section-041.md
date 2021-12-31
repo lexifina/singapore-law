@@ -1,10 +1,8 @@
-# 41. Information service — exclusion of liability of errors or omissions
-Part: PART VII MISCELLANEOUS
+# 41. Debt owed to partner
+Part: PART 6 RECEIVERSHIP AND WINDING UP
 
-Where the Registry of Limited Liability Partnerships furnishes, in any form, information relating to a limited liability partnership registered under this Act to any person, the Authority, any of its members, officers or employees and any authorised agent of the Registry who is involved in the supply of such information shall not be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or however caused, if the error or omission —
+(1) Any sum due to a partner of a limited liability partnership (in the partner’s capacity as a partner) is not a debt of the limited liability partnership payable to that partner in a case of competition between that partner and any other creditor who is not a partner, but any such sum may be taken into account for the purpose of the final adjustment of the rights of the partners among themselves.
 
-(a) is made in good faith and in the ordinary course of the discharge of the duties of such member, officer, employee or authorised agent; or
+(2) Subsection (1) does not apply to any sum due to a partner as repayment of a loan made in good faith by the partner to the limited liability partnership.
 
-(b) has occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
-
-[BR Act 2004 Ed., s. 19]
+[32

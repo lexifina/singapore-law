@@ -1,14 +1,28 @@
-# 35. Disqualification of managers of limited liability partnerships wound up on grounds of national security or interest
-Part: PART VII MISCELLANEOUS
+# 35. Duty of partners and managers to provide information to limited liability partnership
+Part: PART 5 MANAGEMENT AND ADMINISTRATION
 
-(1) Subject to subsections (2) and (3), where a limited liability partnership is ordered to be wound up by the High Court under paragraph 3 (1) (f) of the Fifth Schedule on the ground that it is being used for purposes against national security or interest, the High Court may, on the application of the Minister, make an order (referred to in this section as a disqualification order) disqualifying any person who is a manager of that limited liability partnership from being a manager of any limited liability partnership for a period of 3 years from the date of the making of the winding up order.
+(1) A partner or manager (as the case may be) must give the limited liability partnership —
 
-(2) The High Court shall not make a disqualification order against any person under subsection (1) unless the High Court is satisfied that the person against whom the order is sought has been given not less than 14 days’ notice of the Minister’s application for the order.
+(a) any information the limited liability partnership needs to comply with section 34(1)(a) or (b) (as the case may be) as soon as practicable but not later than 14 days after his, her or its initial appointment as a partner or manager unless the partner or manager has previously given the information to the limited liability partnership in writing; and
 
-(3) The High Court shall not make a disqualification order against any person under subsection (1) if such person proves to the satisfaction of the High Court that —
+(b) any information the limited liability partnership needs to comply with section 34(1)(d) as soon as practicable but not later than 14 days after the date of change to the information referred to in that provision.
 
-(a) the limited liability partnership had been used for purposes against national security or interest without his consent or connivance; and
+[35/2014]
 
-(b) he had exercised such diligence to prevent the limited liability partnership from being so used as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
+(2) Despite subsection (1), but subject to subsection (3) —
 
-(4) Any person who contravenes a disqualification order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(a) a partner of a limited liability partnership must, if requested by the limited liability partnership, give the limited liability partnership any information mentioned in section 19(1)(d) or (e); and
+
+(b) a manager of a limited liability partnership must, if requested by the limited liability partnership, give the limited liability partnership any information mentioned in section 19(1)(f) or (g), for the purpose of enabling the limited liability partnership to confirm its record of the information or reinstate its record of the information where the original record of the information has been destroyed or lost.
+
+[35/2014]
+
+(3) The partner or manager of a limited liability partnership mentioned in subsection (2) must provide the information to the limited liability partnership as soon as practicable but not later than 14 days after receipt of a written request for the information from the limited liability partnership.
+
+[35/2014]
+
+(4) A partner or manager of a limited liability partnership who is bound to comply with a requirement under this section and fails to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part of a day during which the offence continues after conviction.
+
+[28A
+
+[35/2014]

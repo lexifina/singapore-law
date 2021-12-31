@@ -1,6 +1,12 @@
-# 14. Registration of limited liability partnership
-Part: PART III REGISTRATION
+# 14. Relationship of partners, etc.
+Part: PART 2 NATURE OF LIMITED LIABILITY PARTNERSHIP
 
-Subject to the provisions of this Act, any 2 or more persons associated for carrying on a lawful business with a view to profit may, by complying with the requirements as to registration, register a limited liability partnership under this Act.
+(1) Except as otherwise provided by this Act, the mutual rights and duties of the partners of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its partners, are governed —
 
-[Companies 1994 Ed., s. 17 (1); UK LLP 2000, s.2 (1) (a)]
+(a) by the limited liability partnership agreement; or
+
+(b) in the absence of agreement as to any matter, by any provision relating to that matter set out in the First Schedule.
+
+(2) Any reference to a resolution of partners for a particular matter is a reference to a resolution passed by all or such number of partners as may be required by the limited liability partnership agreement for that matter.
+
+[10

@@ -1,18 +1,44 @@
-# 23. Manager
-Part: PART V MANAGEMENT AND ADMINISTRATION
+# 23. Reservation of limited liability partnership names
+Part: PART 3 REGISTRATION
 
-(1) Every limited liability partnership shall ensure that it has at least one manager who is a natural person of full age and capacity and who is ordinarily resident in Singapore.
+(1) A person may, by lodging an application with the Registrar, apply for the reservation of a name set out in the application as —
 
-(2) Every limited liability partnership shall ensure that the particulars of every person who acts as manager of the limited liability partnership and his consent to act as such are lodged with the Registrar in such medium and form as the Registrar may determine.
+(a) the name of a proposed limited liability partnership; or
 
-(3) A manager shall be —
+(b) the name to which a limited liability partnership proposes to change its name.
 
-(a) answerable for the doing of all acts, matters and things, as are required to be done by the limited liability partnership under sections 24, 27 and 28; and
+[35/2014]
 
-(b) personally liable to all penalties imposed on the limited liability partnership for any contravention of those sections unless he satisfies the court hearing the matter that he should not be so liable.
+(2) The Registrar may approve an application made under subsection (1) only if the Registrar is satisfied that —
 
-(4) If a limited liability partnership contravenes subsection (1), the limited liability partnership and every partner of the limited liability partnership shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+(a) the application is made in good faith; and
 
-(5) Any limited liability partnership which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
+(b) the name to be reserved is one in respect of which a limited liability partnership may be registered having regard to section 24(1), (2) and (3).
 
-[Companies 1994 Ed., ss. 145 (1), 370 (2) (b) and (c)]
+[35/2014]
+
+(3) The Registrar must refuse to approve an application to reserve a name under subsection (1) as the name of a proposed limited liability partnership if the Registrar is satisfied that —
+
+(a) the name is for a limited liability partnership that is likely to be used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore; or
+
+(b) it would be contrary to the national security or interest for the limited liability partnership to be registered.
+
+[35/2014]
+
+(4) Where an application for a reservation of a name is made under subsection (1), the Registrar must reserve the proposed name of the proposed limited liability partnership or limited liability partnership for a period starting at the time the Registrar receives the application and ending —
+
+(a) if the Registrar approves the application, 60 days after the date on which the Registrar notifies the applicant that the application has been approved, or such further period of 60 days as the Registrar may, on application made in good faith, extend; or
+
+(b) if the Registrar refuses to approve the application, on the date on which the Registrar notifies the applicant of the refusal.
+
+[35/2014]
+
+(5) A person aggrieved by a decision of the Registrar —
+
+(a) refusing to approve an application under subsection (1); or
+
+(b) refusing an application under subsection (4)(a) to extend the reservation period, may, within 30 days after being informed of the Registrar’s decision, appeal to the Minister whose decision is final.
+
+[19
+
+[35/2014]

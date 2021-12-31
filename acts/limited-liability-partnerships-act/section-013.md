@@ -1,12 +1,18 @@
-# 13. Assignment of partner’s interest in distributions
-Part: PART II NATURE OF LIMITED LIABILITY PARTNERSHIP
+# 13. Power of partner to bind the limited liability partnership
+Part: PART 2 NATURE OF LIMITED LIABILITY PARTNERSHIP
 
-(1) Unless otherwise provided in the limited liability partnership agreement, a partner may assign the whole or any part of his interest in the limited liability partnership but only to the extent that the assignee becomes entitled to receive distributions from the limited liability partnership that the partner would otherwise have been entitled to receive.
+(1) Every partner of a limited liability partnership is the agent of the limited liability partnership.
 
-(2) An assignment under subsection (1) shall not by itself —
+(2) Despite subsection (1), a limited liability partnership is not bound by anything done by a partner in dealing with a person if —
 
-(a) cause the partner to cease being a partner of the limited liability partnership; and
+(a) the partner has in fact no authority to act for the limited liability partnership by doing that thing; and
 
-(b) entitle the assignee to interfere in the management of the limited liability partnership.
+(b) the person knows that the partner has no authority or does not know or believe the partner to be a partner of the limited liability partnership.
 
-[Delaware RUPA, s. 15−503]
+(3) Where a person has ceased to be a partner of a limited liability partnership, the person (called in this subsection former partner) is to be regarded (in relation to any person dealing with the limited liability partnership) as still being a partner of the limited liability partnership unless —
+
+(a) the person has notice that the former partner has ceased to be a partner of the limited liability partnership; or
+
+(b) notice that the former partner has ceased to be a partner of the limited liability partnership has been delivered to the Registrar.
+
+[9

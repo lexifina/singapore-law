@@ -1,8 +1,10 @@
-# 32. Debt owed to partner
-Part: PART VI RECEIVERSHIP AND WINDING UP
+# 32. Registered office
+Part: PART 5 MANAGEMENT AND ADMINISTRATION
 
-(1) Any sum due to a partner of a limited liability partnership (in his capacity as a partner) shall not be a debt of the limited liability partnership payable to that partner in a case of competition between himself and any other creditor who is not a partner, but any such sum may be taken into account for the purpose of the final adjustment of the rights of the partners among themselves.
+(1) Every limited liability partnership must have a registered office within Singapore to which all communications and notices may be addressed.
 
-(2) Subsection (1) shall not apply to any sum due to a partner as repayment of a loan made in good faith by him to the limited liability partnership.
+(2) A document may be served on a limited liability partnership by leaving it at or sending it by registered post to the registered office of the limited liability partnership.
 
-[Companies 1994 Ed., s. 250 (1) (g)]
+(3) A limited liability partnership may change the address of its registered office by lodging with the Registrar notice of the change in such medium and form as the Registrar may determine, and any such change takes effect only upon the lodgment.
+
+[26

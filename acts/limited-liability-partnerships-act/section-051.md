@@ -1,34 +1,26 @@
-# 51. Offences by other bodies corporate and partnerships, etc.
-Part: PART VII MISCELLANEOUS
+# 51. Controller’s duty to provide information
+Part: PART 6A REGISTER OF CONTROLLERS
 
-(1) Where an offence under this Act committed by a body corporate (other than a limited liability partnership) is proved —
+(1) A person who knows or ought reasonably to know that the person is a registrable controller in relation to a limited liability partnership must —
 
-(a) to have been committed with the consent or connivance of an officer of that body corporate; or
+(a) notify the limited liability partnership that the person is a registrable controller in relation to the limited liability partnership;
 
-(b) to be attributable to any neglect on the part of the officer of that body corporate, the officer of that body corporate, as well as that body corporate, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+(b) state the date, to the best of the person’s knowledge, on which the person became a registrable controller in relation to the limited liability partnership; and
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+(c) provide such other information as may be prescribed.
 
-(3) Where an offence under this Act committed by a partnership (other than a limited liability partnership) is proved —
+[16/2017]
 
-(a) to have been committed with the consent or connivance of a partner; or
+(2) The person mentioned in subsection (1) must comply with the requirements of that subsection within such period as may be prescribed after the date on which that person first knew or ought reasonably to have known that that person was a registrable controller.
 
-(b) to be attributable to any neglect on the part of the partner, the partner, as well as the partnership, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+[16/2017]
 
-(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+(3) A person need not comply with the requirements of subsection (1) if the person has received a notice from the limited liability partnership under section 48(2) and has complied with the requirements of the notice within the time specified in the notice for compliance.
 
-(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+[16/2017]
 
-(b) to be attributable to any neglect on the part of the officer or member, the officer or member (as the case may be), as well as the unincorporated association, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+(4) If a person fails to comply with subsection (1) or (2), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(5) In this section —
+[32J
 
-‘‘officer’’ —
-
-(a) in relation to a body corporate means any director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
-
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
-
-‘‘partner’’ includes a person purporting to act as a partner.
-
-(6) Regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+[16/2017]

@@ -1,12 +1,6 @@
-# 10. Relationship of partners, etc.
-Part: PART II NATURE OF LIMITED LIABILITY PARTNERSHIP
+# 10. Non-applicability of partnership law
+Part: PART 2 NATURE OF LIMITED LIABILITY PARTNERSHIP
 
-(1) Except as otherwise provided by this Act, the mutual rights and duties of the partners of a limited liability partnership, and the mutual rights and duties of a limited liability partnership and its partners, shall be governed —
+Except as otherwise provided by this Act, the law relating to partnerships does not apply to a limited liability partnership.
 
-(a) by the limited liability partnership agreement; or
-
-(b) in the absence of agreement as to any matter, by any provision relating to that matter set out in the First Schedule.
-
-(2) Any reference to a resolution of partners for a particular matter, is a reference to a resolution passed by all or such number of partners as may be required by the limited liability partnership agreement for that matter.
-
-[UK LLP 2000, s. 5]
+[6

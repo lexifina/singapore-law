@@ -1,14 +1,44 @@
-# 49. Enforcement of duty to make returns
-Part: PART VII MISCELLANEOUS
+# 49. Limited liability partnership’s duty to keep information up-to-date
+Part: PART 6A REGISTER OF CONTROLLERS
 
-(1) If any person is in default in complying with —
+(1) If a limited liability partnership knows or has reasonable grounds to believe that a relevant change has occurred in the particulars of a registrable controller that are stated in the limited liability partnership’s register of controllers, the limited liability partnership must give notice to the registrable controller —
 
-(a) any provision of this Act or of any other law which requires the lodging or filing in any manner with the Registrar of any return, account or other document or the giving of notice to him of any matter; or
+(a) to confirm whether or not the change has occurred; and
 
-(b) any request of the Registrar to amend or complete and resubmit any document or to submit a fresh document, and fails to make good the default within 14 days after the service on the person of a notice requiring it to be done, a District Court or Magistrate’s Court may, on application by the Registrar, make an order directing that person or (if that person is a corporation) any officer of the corporation to make good the default within such time as is specified in the order.
+(b) if the change has occurred —
 
-(2) Any such order may provide that all the costs of and incidental to the application shall be borne by that person or by any officer of the corporation who is responsible for the default if that person is a corporation.
+(i) to state the date of the change; and
 
-(3) Nothing in this section shall limit the operation of any other provision of this Act or any written law imposing penalties (in respect of any default referred to in this section) on that person or an officer of a corporation if that person is a corporation.
+(ii) to provide the particulars of the change.
 
-[BR Act 2004 Ed., s. 32]
+[16/2017]
+
+(2) A limited liability partnership must give the notice mentioned in subsection (1) within such period as may be prescribed after it first knows of the change or first has reasonable grounds to believe that the change has occurred.
+
+[16/2017]
+
+(3) Section 48(3)(a) and (b) applies to a notice under this section as it applies to a notice under that section.
+
+[16/2017]
+
+(4) Subsection (1) does not require a limited liability partnership to give notice to any person in respect of any information that was previously provided by that person or by any registered filing agent on behalf of that person.
+
+[16/2017]
+
+(5) If a limited liability partnership fails to comply with subsection (1) or (2), or section 48(3)(a) and (b) as applied by subsection (3), the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+[16/2017]
+
+(6) An addressee of a notice under subsection (1) who fails to comply with the notice within the time specified in the notice for compliance shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[16/2017]
+
+(7) For the purposes of this section, a relevant change occurs if —
+
+(a) a person ceases to be a registrable controller in relation to the limited liability partnership; or
+
+(b) any other change occurs as a result of which the particulars of the registrable controller in the limited liability partnership’s register of controllers are incorrect or incomplete.
+
+[32H
+
+[16/2017]

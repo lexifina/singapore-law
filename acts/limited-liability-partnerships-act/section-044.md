@@ -1,14 +1,28 @@
-# 44. Power of Registrar to obtain further information
-Part: PART VII MISCELLANEOUS
+# 44. Meaning of “registrable”
+Part: PART 6A REGISTER OF CONTROLLERS
 
-(1) In order to obtain such information as the Registrar may consider necessary for the purposes of carrying out the provisions of this Act, the Registrar may —
+For the purposes of this Part, in relation to a limited liability partnership (X), a controller (A) is registrable unless —
 
-(a) require any past or present partner or manager of a limited liability partnership to answer any question in writing which the Registrar may consider necessary to ask for the purposes specified in this subsection; or
+(a) A’s significant interest in or significant control over X is only through one or more controllers (B) of X;
 
-(b) summon that person to appear before him or an inspector or any other public officer whom the Registrar may designate to answer any such question orally.
+(b) A is a controller of B (or each B if more than one); and
 
-(2) The Registrar may further require the person referred to in subsection (1) to make such further declaration or supply such further particulars as the Registrar may require.
+(c) B (or each B if more than one) is either —
 
-(3) Any person who, without lawful excuse, fails to comply with any summons or requisition of the Registrar under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(i) a limited liability partnership to which this Part applies and which is required to keep a register of controllers under section 47;
 
-[BR Act 2004 Ed., ss. 24, 27 (c)]
+(ii) a limited liability partnership set out in the Sixth Schedule;
+
+(iii) a company, or a foreign company to which Part 11A of the Companies Act 1967 applies, that is required to keep a register of controllers of companies or foreign companies under that Act;
+
+(iv) a company that is set out in the Fourteenth Schedule to the Companies Act 1967;
+
+(v) a foreign company that is set out in the Fifteenth Schedule to the Companies Act 1967;
+
+(vi) a corporation whose shares are listed for quotation on an approved exchange; or
+
+(vii) a trustee of an express trust to which Part 7 of the Trustees Act 1967 applies.
+
+[32C
+
+[16/2017]
