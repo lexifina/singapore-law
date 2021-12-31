@@ -1,0 +1,5 @@
+# 3. Display of national emblems in public or at schools prohibited
+
+(1) No person shall display in public or at or within any school any national emblem.
+
+(2) For the purposes of this section, an emblem shall be deemed to be displayed in public if it is displayed in any road, street, bridge, passage, footway or place over which the public or any class of the public has a right of way or to which the public has access, whether on payment or otherwise, or if it is displayed in such manner as to be visible from any such road, street, bridge, passage, footway or place by any member of the public using the same or being therein.
