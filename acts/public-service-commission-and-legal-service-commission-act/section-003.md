@@ -1,3 +1,5 @@
 # 3. Communications of Commission to be privileged
 
-No person shall in any legal proceedings be permitted or compelled to produce or disclose any communication, written or oral, which has taken place between the Commission or any member of it and the Government or the President or a Minister or the head of a department of the Government or any other person, or any communication between members of the Commission in exercise of or in connection with the exercise of the functions of the Commission, unless the President, acting in his discretion, consents in writing to such production or disclosure.
+No person shall in any legal proceedings be permitted or compelled to produce or disclose any communication, written or oral, which has taken place between the Commission or any member of it and the Government or the President or a Minister or the head of a department of the Government or any other person, or any communication between members of the Commission in exercise of or in connection with the exercise of the functions of the Commission, unless the President consents in writing to such production or disclosure.
+
+[5/2018]

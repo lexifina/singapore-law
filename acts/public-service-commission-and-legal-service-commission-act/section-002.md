@@ -5,5 +5,3 @@ Any person who, in connection with an application by any person for employment o
 1
 
 by the Commission to assist it in the exercise of its functions or the discharge of its duties any information which is false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[32/2007]

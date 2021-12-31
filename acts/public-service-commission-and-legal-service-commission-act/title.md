@@ -1,21 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
 PUBLIC SERVICE COMMISSION AND LEGAL SERVICE
-COMMISSION ACT
-(CHAPTER 259)
-(Original Enactment: Ordinance 41 of 1956)
-REVISED EDITION 2014
-(31st August 2014)
+COMMISSION ACT 1956
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2014
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the punishment of offences in connection with the exercise of the functions of the Public Service Commission and the Legal Service Commission, for the protection of the members of these Commissions, and for matters connected therewith.
 
-[32/2007]
-
-[29th January 1957]
+[29 January 1957]
