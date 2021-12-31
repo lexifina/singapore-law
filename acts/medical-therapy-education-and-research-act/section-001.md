@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Medical (Therapy, Education and Research) Act.
+This Act is the Medical (Therapy, Education and Research) Act 1972.

@@ -1,51 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY MEDICAL (THERAPY, EDUCATION AND RESEARCH) ACT 1972
 
-MEDICAL (THERAPY, EDUCATION AND RESEARCH) ACT (CHAPTER 175)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Medical (Therapy, Education and Research) Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 23 of 1972 — Medical (Therapy, Education and Research) Act 1972
+LEGISLATIVE HISTORY DETAILS PART 1 MEDICAL (THERAPY, EDUCATION AND RESEARCH) ACT (CHAPTER 160, 1970 REVISED EDITION) 1. Act 31 of 1965 — Medical (Therapy, Education and Research) Act, 1965 Bill : 66/1965 First Reading : 17 December 1965 Second and Third Readings : 31 December 1965 Commencement : 7 January 1966 2. 1970 Revised Edition — Medical (Therapy, Education and Research) Act (Chapter 160) Operation : 31 May 1971
 
-Date of First Reading : 22 March 1972 (Bill No. 21/72 published on 28 March 1972)
+PART 2 MEDICAL (THERAPY, EDUCATION AND RESEARCH) ACT 1972 (2020 REVISED EDITION) 3. Act 23 of 1972 — Medical (Therapy, Education and Research) Act, 1972 Bill : 21/1972 First Reading : 22 March 1972 Second and Third Readings : 2 June 1972 Commencement : 25 May 1973 4. 1985 Revised Edition — Medical (Therapy, Education and Research) Act (Chapter 175) Operation : 30 March 1987 5. Act 22 of 1998 — Interpretation (Amendment) Act 1998 (Amendments made by section 4 of the above Act) Bill : 17/1997 First Reading : 19 November 1997 Second Reading : 14 January 1998 Select Committee Report : Parl. 3 of 1998 Third Reading : 30 June 1998 Commencement : 2 November 1998 (section 4) 6. Act 4 of 2010 — Statutes (Miscellaneous Amendments) Act 2010 (Amendments made by section 2 of the above Act) Bill : 26/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 17 February 2010 (section 2) 7. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(30) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(30) of the Second Schedule) 8. Act 14 of 2010 — Coroners Act 2010 (Amendments made by section 50 read with item 2 of the Fourth Schedule to the above Act) Bill : 10/2010 First Reading : 26 April 2010 Second and Third Readings : 19 May 2010 Commencement : 2 January 2011 (section 50 read with item 2 of the Fourth Schedule) 9. 2014 Revised Edition — Medical (Therapy, Education and Research) Act (Chapter 175) Operation : 31 May 2014
 
-Date of Second and Third Readings : 2 June 1972
+Abbreviations
 
-Date of commencement : 25 May 1973
-
-2. 1985 Revised Edition — Medical (Therapy, Education and Research) Act (Chapter 175)
-
-Date of operation : 30 March 1987
-
-3. Act 22 of 1998 — Interpretation (Amendment) Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 November 1997 (Bill No. 17/97 published on 20 November 1997)
-
-Date of Second Reading : 14 January 1998
-
-Date of Third Reading : 30 June 1998
-
-Date of commencement : 2 November 1998 (section 4 —
-
-amendment of Medical (Therapy, Education and Research) Act)
-
-4. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential and related amendments made to Act by)
-
-Date of First Reading : 21 July 2008 (Bill No. 11/2008 published on 22 July 2008)
-
-Date of Second and Third Readings : 16 September 2008
-
-Date of commencement : 1 March 2010 (item (30) in the Second Schedule — amendment of Medical (Therapy, Education and Research) Act) 5. Act 4 of 2010 — Statutes (Miscellaneous Amendments) Act 2010
-
-Date of First Reading : 23 November 2009 (Bill No. 26/2009 published on 24 November 2009)
-
-Date of Second and Third Readings : 12 January 2010
-
-Date of commencement : 17 February 2010 (section 2)
-
-6. Act 14 of 2010 — Coroners Act 2010 (Consequential and related amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 10/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011 (item 2 in the Fourth Schedule — amendment of Medical (Therapy, Education and Research) Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
