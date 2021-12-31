@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Arbitration (International Investment Disputes) Act.
+This Act is the Arbitration (International Investment Disputes) Act 1968.

@@ -1,3 +1,3 @@
-# 8. Exclusion of Arbitration Act
+# 8. Exclusion of Arbitration Act 2001
 
-The provisions of the Arbitration Act (Cap. 10) shall not apply to proceedings pursuant to the Convention.
+The provisions of the Arbitration Act 2001 shall not apply to proceedings pursuant to the Convention.

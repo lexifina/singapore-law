@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Section 2(1)
+Sections 2(1) and 10
 
 CONVENTION ON THE SETTLEMENT OF INVESTMENT DISPUTES BETWEEN STATES AND NATIONALS OF OTHER STATES
 
@@ -26,7 +26,7 @@ Have agreed as follows:
 
 CHAPTER I
 
-International Centre for Settlement of Investment Disputes
+INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
 
 SECTION 1
 
@@ -70,9 +70,9 @@ Article 6
 
 (b) adopt the rules of procedure for the institution of conciliation and arbitration proceedings;
 
-(c) adopt the rules of procedure for conciliation and arbitration proceedings (hereinafter called the Conciliation Rules and the Arbitration Rules);
-
 THE SCHEDULE — continued
+
+(c) adopt the rules of procedure for conciliation and arbitration proceedings (hereinafter called the Conciliation Rules and the Arbitration Rules);
 
 (d) approve arrangements with the Bank for the use of the Bank’s administrative facilities and services;
 
@@ -82,7 +82,7 @@ THE SCHEDULE — continued
 
 (g) approve the annual report on the operation of the Centre.
 
-The decisions referred to in sub‑paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
+The decisions referred to in sub-paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
 
 (2) The Administrative Council may appoint such committees as it considers necessary.
 
@@ -116,7 +116,7 @@ Article 10
 
 (1) The Secretary-General and any Deputy Secretary-General shall be elected by the Administrative Council by a majority of two-thirds of its members upon the nomination of the Chairman for a term of service not exceeding 6 years and shall be eligible for re-election. After consulting the members of the Administrative Council, the Chairman shall propose one or more candidates for each such office.
 
-(2) The offices of Secretary-General and Deputy Secretary-General shall be incompatible with the exercise of any political function. Neither the Secretary- General nor any Deputy Secretary-General may hold any other employment or engage in any other occupation except with the approval of the Administrative Council.
+(2) The offices of Secretary-General and Deputy Secretary-General shall be incompatible with the exercise of any political function. Neither the Secretary-General nor any Deputy Secretary-General may hold any other employment or engage in any other occupation except with the approval of the Administrative Council.
 
 (3) During the Secretary-General’s absence or inability to act, and during any vacancy of the office of Secretary-General, the Deputy Secretary-General shall act as Secretary-General. If there shall be more than one Deputy Secretary-General, the Administrative Council shall determine in advance the order in which they shall act as Secretary-General.
 
@@ -162,15 +162,15 @@ Article 16
 
 (3) All designations shall be notified to the Secretary-General and shall take effect from the date on which the notification is received.
 
+THE SCHEDULE — continued
+
 SECTION 5
 
 Financing the Centre
 
 Article 17
 
-If the expenditure of the Centre cannot be met out of charges for the use of its facilities, or out of other receipts, the excess shall be borne by Contracting States THE SCHEDULE — continued
-
-which are members of the Bank in proportion to their respective subscriptions to the capital stock of the Bank, and by Contracting States which are not members of the Bank in accordance with rules adopted by the Administrative Council.
+If the expenditure of the Centre cannot be met out of charges for the use of its facilities, or out of other receipts, the excess shall be borne by Contracting States which are members of the Bank in proportion to their respective subscriptions to the capital stock of the Bank, and by Contracting States which are not members of the Bank in accordance with rules adopted by the Administrative Council.
 
 SECTION 6
 
@@ -200,15 +200,15 @@ The Chairman, the members of the Administrative Council, persons acting as conci
 
 (a) shall enjoy immunity from legal process with respect to acts performed by them in the exercise of their functions, except when the Centre waives this immunity;
 
-(b) not being local nationals, shall enjoy the same immunities from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of travelling facilities as are accorded by Contracting States to the representatives, officials and employees of comparable rank of other Contracting States.
+(b) not being local nationals, shall enjoy the same immunities from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of travelling facilities as are accorded THE SCHEDULE — continued
+
+by Contracting States to the representatives, officials and employees of comparable rank of other Contracting States.
 
 Article 22
 
 The provisions of Article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents, counsel, advocates, witnesses or experts;
 
-provided, however, that sub‑paragraph (b) thereof shall apply only in connection THE SCHEDULE — continued
-
-with their travel to and from, and their stay at, the place where the proceedings are held.
+provided, however, that sub-paragraph (b) thereof shall apply only in connection with their travel to and from, and their stay at, the place where the proceedings are held.
 
 Article 23
 
@@ -226,17 +226,17 @@ Article 24
 
 CHAPTER II
 
-Jurisdiction of the Centre
+JURISDICTION OF THE CENTRE
 
 Article 25
 
-(1) The jurisdiction of the Centre shall extend to any legal dispute arising directly out of an investment, between a Contracting State (or any constituent subdivision or agency of a Contracting State designated to the Centre by that State) and a national of another Contracting State, which the parties to the dispute consent in writing to submit to the Centre. When the parties have given their consent, no party may withdraw its consent unilaterally.
+(1) The jurisdiction of the Centre shall extend to any legal dispute arising directly out of an investment, between a Contracting State (or any constituent subdivision or agency of a Contracting State designated to the Centre by that State) and a national of another Contracting State, which the parties to the dispute THE SCHEDULE — continued
+
+consent in writing to submit to the Centre. When the parties have given their consent, no party may withdraw its consent unilaterally.
 
 (2) “National of another Contracting State” means:
 
-(a) any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as THE SCHEDULE — continued
-
-on the date on which the request was registered pursuant to paragraph (3) of Article 28 or paragraph (3) of Article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
+(a) any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as on the date on which the request was registered pursuant to paragraph (3) of Article 28 or paragraph (3) of Article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
 
 (b) any juridical person which had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration and any juridical person which had the nationality of the Contracting State party to the dispute on that date and which, because of foreign control, the parties have agreed should be treated as a national of another Contracting State for the purposes of this Convention.
 
@@ -254,13 +254,13 @@ Article 27
 
 (1) No Contracting State shall give diplomatic protection, or bring an international claim, in respect of a dispute which one of its nationals and another Contracting State shall have consented to submit or shall have submitted to arbitration under this Convention, unless such other Contracting State shall have failed to abide by and comply with the award rendered in such dispute.
 
-(2) Diplomatic protection, for the purposes of paragraph (1), shall not include informal diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute.
-
 THE SCHEDULE — continued
+
+(2) Diplomatic protection, for the purposes of paragraph (1), shall not include informal diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute.
 
 CHAPTER III
 
-Conciliation
+CONCILIATION
 
 SECTION 1
 
@@ -288,9 +288,9 @@ Article 29
 
 Article 30
 
-If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
+If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in THE SCHEDULE — continued
 
-THE SCHEDULE — continued
+accordance with paragraph (3) of Article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
 
 Article 31
 
@@ -314,19 +314,21 @@ Any conciliation proceeding shall be conducted in accordance with the provisions
 
 Article 34
 
-(1) It shall be the duty of the Commission to clarify the issues in dispute between the parties and to endeavour to bring about agreement between them upon mutually acceptable terms. To that end, the Commission may at any stage of the proceedings and from time to time recommend terms of settlement to the parties. The parties shall cooperate in good faith with the Commission in order to enable the Commission to carry out its functions, and shall give their most serious consideration to its recommendations.
+(1) It shall be the duty of the Commission to clarify the issues in dispute between the parties and to endeavour to bring about agreement between them upon mutually acceptable terms. To that end, the Commission may at any stage of the proceedings and from time to time recommend terms of settlement to the parties.
 
-(2) If the parties reach agreement, the Commission shall draw up a report noting the issues in dispute and recording that the parties have reached agreement. If, at any stage of the proceedings, it appears to the Commission that there is no likelihood of agreement between the parties, it shall close the proceedings and shall draw up a report noting the submission of the dispute and recording the failure of the parties to reach agreement. If one party fails to appear or participate in the THE SCHEDULE — continued
+The parties shall cooperate in good faith with the Commission in order to enable the Commission to carry out its functions, and shall give their most serious consideration to its recommendations.
 
-proceedings, the Commission shall close the proceedings and shall draw up a report noting that party’s failure to appear or participate.
+(2) If the parties reach agreement, the Commission shall draw up a report noting the issues in dispute and recording that the parties have reached agreement. If, at any stage of the proceedings, it appears to the Commission that there is no THE SCHEDULE — continued
+
+likelihood of agreement between the parties, it shall close the proceedings and shall draw up a report noting the submission of the dispute and recording the failure of the parties to reach agreement. If one party fails to appear or participate in the proceedings, the Commission shall close the proceedings and shall draw up a report noting that party’s failure to appear or participate.
 
 Article 35
 
-Except as the parties to the dispute shall otherwise agree, neither party to a conciliation proceeding shall be entitled in any other proceeding, whether before arbitrators or in a court of law or otherwise, to invoke or rely on any views expressed or statements or admission or offers of settlement made by the other party in the conciliation proceedings, or the report or any recommendations made by the Commission.
+Except as the parties to the dispute shall otherwise agree, neither party to a conciliation proceeding shall be entitled in any other proceeding, whether before arbitrators or in a court of law or otherwise, to invoke or rely on any views expressed or statements or admissions or offers of settlement made by the other party in the conciliation proceedings, or the report or any recommendations made by the Commission.
 
 CHAPTER IV
 
-Arbitration
+ARBITRATION
 
 SECTION 1
 
@@ -350,15 +352,13 @@ Article 37
 
 (2) (a) The Tribunal shall consist of a sole arbitrator or any uneven number of arbitrators appointed as the parties shall agree.
 
-(b) Where the parties do not agree upon the number of arbitrators and the method of their appointment, the Tribunal shall consist of 3 arbitrators, one arbitrator THE SCHEDULE — continued
+THE SCHEDULE — continued
 
-appointed by each party and the third, who shall be the president of the Tribunal, appointed by agreement of the parties.
+(b) Where the parties do not agree upon the number of arbitrators and the method of their appointment, the Tribunal shall consist of 3 arbitrators, one arbitrator appointed by each party and the third, who shall be the president of the Tribunal, appointed by agreement of the parties.
 
 Article 38
 
-If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been despatched by the Secretary-General in accordance with paragraph (3) of Article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed.
-
-Arbitrators appointed by the Chairman pursuant to this Article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
+If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been despatched by the Secretary-General in accordance with paragraph (3) of Article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed. Arbitrators appointed by the Chairman pursuant to this Article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
 
 Article 39
 
@@ -382,9 +382,9 @@ Article 41
 
 Article 42
 
-(1) The Tribunal shall decide a dispute in accordance with such rules of law as may be agreed by the parties. In the absence of such agreement, the Tribunal shall apply the law of the Contracting State party to the dispute (including its rules on the conflict of laws) and such rules of international law as may be applicable.
+(1) The Tribunal shall decide a dispute in accordance with such rules of law as may be agreed by the parties. In the absence of such agreement, the Tribunal shall THE SCHEDULE — continued
 
-THE SCHEDULE — continued
+apply the law of the Contracting State party to the dispute (including its rules on the conflict of laws) and such rules of international law as may be applicable.
 
 (2) The Tribunal may not bring in a finding of non liquet on the ground of silence or obscurity of the law.
 
@@ -400,15 +400,13 @@ Except as the parties otherwise agree, the Tribunal may, if it deems it necessar
 
 Article 44
 
-Any arbitration proceeding shall be conducted in accordance with the provisions of this Section and, except as the parties otherwise agree, in accordance with the Arbitration Rules in effect on the date on which the parties consented to arbitration.
-
-If any question of procedure arises which is not covered by this Section or the Arbitration Rules or any rules agreed by the parties, the Tribunal shall decide the question.
+Any arbitration proceeding shall be conducted in accordance with the provisions of this Section and, except as the parties otherwise agree, in accordance with the Arbitration Rules in effect on the date on which the parties consented to arbitration. If any question of procedure arises which is not covered by this Section or the Arbitration Rules or any rules agreed by the parties, the Tribunal shall decide the question.
 
 Article 45
 
 (1) Failure of a party to appear or to present his case shall not be deemed an admission of the other party’s assertions.
 
-(2) If a party fails to appear or to present his case at any stage of the proceedings the other party may request the Tribunal to deal with the questions submitted to it and to render an award. Before rendering an award, the Tribunal shall notify, and grant a period of grace to, the party failing to appear or to present its case, unless it is satisfied that that party does not intend to do so.
+(2) If a party fails to appear or to present his case at any stage of the proceedings the other party may request the Tribunal to deal with the questions submitted to it and to render an award. Before rendering an award, the Tribunal shall notify, and grant a period of grace to, the party failing to appear or to present its case, unless it is satisfied that the party does not intend to do so.
 
 Article 46
 
@@ -504,7 +502,7 @@ Article 54
 
 (1) Each Contracting State shall recognise an award rendered pursuant to this Convention as binding and enforce the pecuniary obligations imposed by that award within its territories as if it were a final judgment of a court in that State. A Contracting State with a federal constitution may enforce such an award in or through its federal courts and may provide that such courts shall treat the award as if it were a final judgment of the courts of a constituent state.
 
-(2) A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary‑General. Each Contracting State shall notify the Secretary‑General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
+(2) A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary-General. Each Contracting State shall notify the Secretary-General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
 
 THE SCHEDULE — continued
 
@@ -516,7 +514,7 @@ Nothing in Article 54 shall be construed as derogating from the law in force in 
 
 CHAPTER V
 
-Replacement and Disqualification of Conciliators and Arbitrators
+REPLACEMENT AND DISQUALIFICATION OF CONCILIATORS AND ARBITRATORS
 
 Article 56
 
@@ -532,13 +530,13 @@ A party may propose to a Commission or Tribunal the disqualification of any of i
 
 Article 58
 
-The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well-founded the conciliator or arbitrator to whom the decision relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
+The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well-founded the conciliator or arbitrator to whom the decision THE SCHEDULE — continued
 
-THE SCHEDULE — continued
+relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
 
 CHAPTER VI
 
-Cost of Proceedings
+COST OF PROCEEDINGS
 
 Article 59
 
@@ -558,11 +556,13 @@ Article 61
 
 CHAPTER VII
 
-Place of Proceedings
+PLACE OF PROCEEDINGS
 
 Article 62
 
 Conciliation and arbitration proceedings shall be held at the seat of the Centre except as hereinafter provided.
+
+THE SCHEDULE — continued
 
 Article 63
 
@@ -570,13 +570,11 @@ Conciliation and arbitration proceedings may be held, if the parties so agree �
 
 (a) at the seat of the Permanent Court of Arbitration or of any other appropriate institution, whether private or public, with which the Centre may make arrangements for that purpose; or
 
-THE SCHEDULE — continued
-
 (b) at any other place approved by the Commission or Tribunal after consultation with the Secretary-General.
 
 CHAPTER VIII
 
-Disputes between Contracting States
+DISPUTES BETWEEN CONTRACTING STATES
 
 Article 64
 
@@ -584,7 +582,7 @@ Any dispute arising between Contracting States concerning the interpretation or 
 
 CHAPTER IX
 
-Amendment
+AMENDMENT
 
 Article 65
 
@@ -600,7 +598,7 @@ THE SCHEDULE — continued
 
 CHAPTER X
 
-Final Provisions
+FINAL PROVISIONS
 
 Article 67
 
@@ -650,7 +648,7 @@ The depositary shall notify all signatory States of the following:
 
 (d) exclusions from territorial application pursuant to Article 70;
 
-(e) the date on which any amendment of this Convention enters into force in accordance with Article 66; and
+(e) the date on which any amendment of this Convention enters into force, in accordance with Article 66; and
 
 (f) denunciations in accordance with Article 71.
 
