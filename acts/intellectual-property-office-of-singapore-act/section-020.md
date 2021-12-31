@@ -1,9 +1,6 @@
-# 20. Other financial provisions
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 140 of Singapore 2002 Ed. PART V FINANCIAL PROVISIONS
+# 20. Financial year
+Part: PART 5 FINANCIAL PROVISIONS
 
-The financial provisions set out in the Second Schedule shall have effect with respect to the Office.
+The financial year of the Office begins on 1 April of each year and ends on 31 March of the succeeding year.
 
-*This section was not in operation as at 30th June 2002.
-
-2002 Ed. of Singapore CAP. 140 13
+[5/2018]

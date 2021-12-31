@@ -1,9 +1,9 @@
 # 37. Rules
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
 (1) The Office may, with the approval of the Minister, make rules for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Office may, with the approval of the Minister, make rules for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Office may, with the approval of the Minister, make rules for or with respect to all or any of the following matters:
 
 (a) the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Office;
 

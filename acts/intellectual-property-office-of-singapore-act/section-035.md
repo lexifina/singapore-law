@@ -1,4 +1,4 @@
 # 35. Power of Minister to amend Third Schedule
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
-The Minister may, by order published in the Gazette, amend the Third Schedule.
+The Minister may, by order in the Gazette, amend the Third Schedule.

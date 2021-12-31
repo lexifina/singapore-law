@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Intellectual Property Office of Singapore Act.
+This Act is the Intellectual Property Office of Singapore Act 2001.

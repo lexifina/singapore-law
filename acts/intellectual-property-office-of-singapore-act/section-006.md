@@ -1,13 +1,11 @@
 # 6. Functions and duties of Office
-Part: PART III FUNCTIONS, DUTIES AND POWERS OF OFFICE
+Part: PART 3 FUNCTIONS, DUTIES AND POWERS OF OFFICE
 
-(1) Subject to the provisions of this Act, it shall be the function and duty of the Office —
+(1) Subject to the provisions of this Act, it is the function and duty of the Office —
 
 (a) to administer the systems in Singapore for the protection of intellectual property;
 
-(b) to provide administrative support services to the Copyright Tribunal in the performance of the Tribunal’s functions under the Copyright Act (Cap. 63);
-
-6 CAP. 140 of Singapore 2002 Ed.
+(b) to provide administrative support services to the Copyright Tribunals in the performance of their functions under the Copyright Act 2021;
 
 (c) to maintain and provide access by the public to documents and information relating to any intellectual property kept or maintained by the Office;
 
@@ -23,14 +21,14 @@ Part: PART III FUNCTIONS, DUTIES AND POWERS OF OFFICE
 
 (i) to promote and facilitate the training of persons desiring to be intellectual property agents in Singapore;
 
-(j) to manage technical co-operation and exchange in the area of intellectual property with other persons and organisations, including foreign intellectual property offices and inter- national inter-governmental organisations, on its own behalf or on behalf of the Government;
+(j) to manage technical cooperation and exchange in the area of intellectual property with other persons and organisations, including foreign intellectual property offices and international intergovernmental organisations, on its own behalf or on behalf of the Government;
 
 (k) to provide advice, training and assistance in relation to intellectual property to any Government department or statutory board, or to authorities of other countries and territories which administer intellectual property laws; and
 
 (l) to exercise any other functions and duties conferred on the Office by or under this Act or any other written law.
 
-(2) The Office may undertake such other functions as the Minister may assign to the Office and in so doing, the Office shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Office in respect of such functions.
+[23/2009; 22/2021]
 
-(3) Nothing in this section shall be construed as imposing on the Office, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+(2) The Office may undertake such other functions as the Minister may assign to the Office and in so doing, the Office is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Office in respect of the functions.
 
-2002 Ed. of Singapore CAP. 140 7
+(3) Nothing in this section is to be construed as imposing on the Office, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.

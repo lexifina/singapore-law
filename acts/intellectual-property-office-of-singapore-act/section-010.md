@@ -1,16 +1,18 @@
-# 10. Appointment of Chief Executive and employees
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 10. Chief Executive, officers and employees, etc.
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-(1) The Office shall, with the approval of the Minister, appoint a Chief Executive of the Office on such terms and conditions as the Office may determine.
+(1) There must be a Chief Executive of the Office, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[5/2018]
 
-(a) be known by such designation as the Office may determine;
+(2) The Office may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) be responsible to the Office for the proper administration and management of the functions and affairs of the Office in accordance with the policy laid down by the Office; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the Chief Executive is unable to perform his duties for any period by reason of absence from Singapore, illness or for any other reason, another person may be appointed by the Office to act in the place of the Chief Executive during such period.
+[5/2018]
 
-(4) The Office may from time to time appoint or employ, on such terms and conditions as the Office may determine, such other employees, consultants and agents as may be necessary for the effective performance of its functions.
+(3) The Office may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[5/2018]

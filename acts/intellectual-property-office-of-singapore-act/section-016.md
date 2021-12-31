@@ -1,11 +1,14 @@
-# 16. Annual estimates
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 140 of Singapore 2002 Ed. PART V FINANCIAL PROVISIONS
+# 16. Minister’s approval of estimates
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) The Office shall in every financial year prepare or cause to be prepared, and adopt annual estimates of income and expenditure of the Office for the ensuing financial year.
+(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Office, be sent without delay to the Minister.
 
-(2) Supplementary estimates may be adopted by the Office at any of its meetings.
+[5/2018]
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Office, be sent forthwith to the Minister.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(4) The Minister may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Office, and the Office shall be bound thereby.
+[5/2018]
+
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Office, and the Office is bound by the Minister’s decision.
+
+[5/2018]
