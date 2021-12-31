@@ -1,9 +1,9 @@
 # 15. Submission of broadcasting material to Authority
-Part: PART IV BROADCASTING SERVICES
+Part: PART 4 BROADCASTING SERVICES
 
-(1) A broadcasting licensee shall supply to the Authority on demand any material, including the script thereof, which is intended for broadcasting.
+(1) A broadcasting licensee must supply to the Authority on demand any material, including the script thereof, which is intended for broadcasting.
 
-(2) A broadcasting licensee who is required to supply material under subsection (1) shall —
+(2) A broadcasting licensee who is required to supply material under subsection (1) must —
 
 (a) supply the material in such form as the Authority may determine; or
 

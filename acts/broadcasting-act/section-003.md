@@ -1,11 +1,11 @@
 # 3. Directions by Minister
-Part: PART II PROVISIONS RELATING TO AUTHORITY
+Part: PART 2 PROVISIONS RELATING TO AUTHORITY
 
-(1) The Minister may, after consultation with a person to whom this section applies, give to that person such directions as he thinks fit as to the exercise by that person of its functions under this Act.
+(1) The Minister may, after consultation with a person to whom this section applies, give to that person such directions as the Minister thinks fit as to the exercise by that person of that person’s functions under this Act.
 
-(2) Without prejudice to the generality of subsection (1), if it appears to the Minister to be requisite or expedient to do so —
+(2) Without limiting subsection (1), if it appears to the Minister to be requisite or expedient to do so —
 
-(a) on the occurrence of any public emergency, in the public interest or in the interests of public security, national defence or relations with the government of another country; or
+(a) when any public emergency occurs, in the public interest or in the interests of public security, national defence or relations with the government of another country; or
 
 (b) in order —
 
@@ -23,18 +23,22 @@ Part: PART II PROVISIONS RELATING TO AUTHORITY
 
 (c) the stopping, delaying and censoring of messages and the carrying out of any other purposes which the Minister thinks necessary.
 
-(4) A person to whom this section applies shall give immediate effect to any directions given to him under subsection (1) or (2) notwithstanding any other duty imposed on him by or under this Act.
+(4) A person to whom this section applies must give immediate effect to any directions given to the person under subsection (1) or (2) despite any other duty imposed on the person by or under this Act.
 
-(5) A person to whom this section applies shall not disclose any directions given to him under subsection (1) or (2) if the Minister notifies him that the Minister is of the opinion that the disclosure of the directions is against the public interest.
+(5) A person to whom this section applies must not disclose any directions given to the person under subsection (1) or (2) if the Minister notifies the person that the Minister is of the opinion that the disclosure of the directions is against the public interest.
 
 (6) The Minister may —
 
-(a) pay compensation for any damage caused to a licensee by reason of its compliance with the directions of the Minister under subsection (3)(b); or
+(a) pay compensation for any damage caused to a licensee by reason of its compliance with the Minister’s directions under subsection (3)(b); or
 
-(b) make grants to licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the directions of the Minister under any other provisions of this section.
+(b) make grants to licensees for defraying or contributing towards any losses which they may sustain by reason of their compliance with the Minister’s directions under any other provisions of this section.
 
-(7) Any sums required by the Minister for paying compensation or making grants under subsection (6) shall be paid out of the Consolidated Fund.
+(7) Any sums required by the Minister for paying compensation or making grants under subsection (6) are to be paid out of the Consolidated Fund.
 
-(8) This section shall apply to the Authority and to any person who is a licensee.
+(8) This section applies to the Authority and to any person who is a licensee.
 
-(9) If any doubt arises as to the existence of a public emergency or as to whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
+(9) If any doubt arises as to —
+
+(a) the existence of a public emergency; or
+
+(b) whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister is conclusive evidence of the matters stated in the certificate.

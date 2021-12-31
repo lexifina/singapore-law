@@ -1,6 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Broadcasting Act.
-
-[34/2002]
+This Act is the Broadcasting Act 1994.

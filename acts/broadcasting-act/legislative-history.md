@@ -1,107 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BROADCASTING ACT 1994
 
-BROADCASTING ACT (CHAPTER 28)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-(Formerly known as the Singapore Broadcasing Authority Act (Cap. 297, 1995 Ed.))
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-This Legislative History is provided for the convenience of users of the Broadcasting Act. It is not part of the Act.
+LEGISLATIVE HISTORY DETAILS PART 1 BROADCASTING AND TELEVISION ACT (CHAPTER 28, 1985 REVISED EDITION) 1. Ordinance 16 of 1963 — Broadcasting and Television Ordinance, 1963 Bill : 208/1963 First Reading : 13 June 1963 Second and Third Readings : 24 July 1963 Commencement : 3 August 1963 2. 1970 Revised Edition — Broadcasting and Television Act (Chapter 83) Operation : 1 April 1971 3. Act 7 of 1975 — Broadcasting and Television (Amendment) Act, 1975 Bill : 1/1975 First Reading : 25 February 1975 Second and Third Readings : 26 March 1975 Commencement : 30 April 1975 4. Act 33 of 1979 — Singapore Broadcasting Corporation Act, 1979 (Amendments made by section 50 read with the Second Schedule to the above Act) Bill : 31/1979 First Reading : 7 September 1979 Second Reading : 21 September 1979 Select Committee Report : Parl. 6 of 1979 Third Reading : 11 December 1979 Commencement : 1 February 1980 (section 50 read with the Second Schedule) 5. 1985 Revised Edition — Broadcasting and Television Act (Chapter 28) Operation : 30 March 1987
 
-1. Act 15 of 1994 — Singapore Broadcasting Authority Act 1994
+PART 2 BROADCASTING ACT 1994 (2020 REVISED EDITION) 6. Act 15 of 1994 — Singapore Broadcasting Authority Act 1994 Bill : 20/1994 First Reading : 25 July 1994 Second and Third Readings : 26 August 1994 Commencement : 1 October 1994 7. 1995 Revised Edition — Singapore Broadcasting Authority Act (Chapter 297) Operation : 15 March 1995 8. G.N. No. S 308/1996 — Singapore Broadcasting Authority Act (Amendment of Second Schedule) Notification 1996 Commencement : 15 July 1996 9. Act 41 of 1999 — Info-communications Development Authority of Singapore Act 1999 (Amendments made by section 31(1) read with the Fourth Schedule to the above Act) Bill : 36/1999 First Reading : 11 October 1999 Second and Third Readings : 23 November 1999 Commencement : 1 December 1999 (section 31(1) read with the Fourth Schedule) 10. Act 18 of 2001 — Singapore Broadcasting Authority (Amendment) Act 2001 Bill : 19/2001 First Reading : 15 March 2001 Second and Third Readings : 19 April 2001 Commencement : 21 May 2001 11. Act 42 of 2001 — Securities and Futures Act 2001 (Amendments made by section 343 read with item (12) of the Fourth Schedule to the above Act) Bill : 33/2001 First Reading : 25 September 2001 Second and Third Readings : 5 October 2001 Commencement : 1 July 2002 (section 343 read with item (12) of the Fourth Schedule) 12. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (37) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (37) of the Schedule) 13. Act 19 of 2002 — Singapore Broadcasting Authority (Amendment) Act 2002 Bill : 19/2002 First Reading : 23 May 2002 Second and Third Readings : 8 July 2002 Commencement : 2 September 2002 14. Act 34 of 2002 — Media Development Authority of Singapore Act 2002 (Amendments made by section 66 of the above Act) Bill : 37/2002 First Reading : 1 October 2002 Second and Third Readings : 31 October 2002 Commencement : 1 January 2003 (section 66) Note: The Singapore Broadcasting Authority Act was renamed as the Broadcasting Act by this Act.
 
-Date of First Reading : 25 July 1994 (Bill No. 20/94 published on 29 July 1994)
+15. 2003 Revised Edition — Broadcasting Act (Chapter 28) Operation : 31 July 2003 16. Act 55 of 2004 — Broadcasting (Amendment) Act 2004 Bill : 50/2004 First Reading : 19 October 2004 Second and Third Readings : 16 November 2004 Commencement : 1 January 2005 17. Act 10 of 2005 — Telecommunications (Amendment) Act 2005 (Amendments made by section 32 of the above Act) Bill : 67/2004 First Reading : 24 November 2004 Second and Third Readings : 25 January 2005 Commencement : 16 February 2005 (section 32) 18. Act 21 of 2005 — Companies (Amendment) Act 2005 (Amendments made by section 58 read with item (3) of the Schedule to the above Act) Bill : 11/2005 First Reading : 18 April 2005 Second and Third Readings : 16 May 2005 Commencement : 30 January 2006 (section 58 read with item (3) of the Schedule) 19. G.N. No. S 559/2010 — Broadcasting Act (Amendment of Third Schedule) Notification 2010 Commencement : 1 October 2010 20. G.N. No. S 549/2012 — Broadcasting Act (Amendment of First Schedule) Notification 2012 Commencement : 1 January 2011 21. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 8 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 8 of the Sixth Schedule) 22. 2012 Revised Edition — Broadcasting Act (Chapter 28) Operation : 31 August 2012 23. Act 22 of 2016 — Info-communications Media Development Authority Act 2016 (Amendments made by section 93 of the above Act) Bill : 21/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 1 October 2016 (section 93)
 
-Date of Second and Third Readings : 26 August 1994
+Abbreviations
 
-Date of commencement : 1 October 1994
-
-2. 1995 Revised Edition — Singapore Broadcasting Authority Act (Chapter 297)
-
-Date of operation : 15 March 1995
-
-3. G.N. No. S 308/96 — Singapore Broadcasting Authority Act (Amendment of Second Schedule) Notification 1996
-
-Date of commencement : 15 July 1996
-
-4. Act 41 of 1999 — Info-communications Development Authority of Singapore Act 1999 (Consequential amendments made to Act by)
-
-Date of First Reading : 11 October 1999 (Bill No. 36/99 published on 12 October 1999)
-
-Date of Second and Third Readings : 23 November 1999
-
-Date of commencement : 1 December 1999
-
-5. Act 18 of 2001 — Singapore Broadcasting Authority (Amendment) Act 2001
-
-Date of First Reading : 15 March 2001 (Bill No. 19/2001 published on 16 March 2001)
-
-Date of Second and Third Readings : 19 April 2001
-
-Date of commencement : 21 May 2001 6. Act 42 of 2001 — Securities and Futures Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 September 2001 (Bill No. 33/2001 published on 26 September 2001)
-
-Date of Second and Third Readings : 5 October 2001
-
-Date of commencement : 1 July 2002 (Item (12) of the Fourth Schedule – Amendment of Singapore Broadcasting Authority Act)
-
-7. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Dates of commencement : 15 July 2002 (except item (18) of the Schedule) 29 July 2002 (Item (18) of the Schedule)
-
-8. Act 19 of 2002 — Singapore Broadcasting Authority (Amendment) Act 2002
-
-Date of First Reading : 23 May 2002 (Bill No. 19/2002 published on 24 May 2002)
-
-Date of Second and Third Readings : 8 July 2002
-
-Date of commencement : 2 September 2002
-
-9. Act 34 of 2002 — Media Development Authority of Singapore Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 1 October 2002 (Bill No. 37/2002 published on 2 October 2002)
-
-Date of Second and Third Readings : 31 October 2002
-
-Date of commencement : 1 January 2003
-
-10. 2003 Revised Edition — Broadcasting Act (Chapter 28)
-
-Date of operation : 31 July 2003 11. Act 55 of 2004 — Broadcasting (Amendment) Act 2004
-
-Date of First Reading : 19 October 2004 (Bill No. 50/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 16 November 2004
-
-Date of commencement : 1 January 2005
-
-12. Act 10 of 2005 — Telecommunications (Amendment) Act 2005 (Related amendment made to Act by)
-
-Date of First Reading : 24 November 2004 (Bill No. 67/2004 published on 25 November 2004)
-
-Date of Second and Third Readings : 25 January 2005
-
-Date of commencement : 16 February 2005 (except sections 10 and 11)
-
-13. Act 21 of 2005 — Companies (Amendment) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 18 April 2005 (Bill No. 11/2005 published on 19 April 2005)
-
-Date of Second and Third Readings : 16 May 2005
-
-Date of commencement : 30 January 2006
-
-14. G.N. No. S 559/2010 — Broadcasting Act (Amendment of Third Schedule) Notification 2010
-
-Date of commencement : 1 October 2010
-
-15. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,7 +1,7 @@
 # 30. Offence of supporting proscribed foreign broadcasting services
-Part: PART VIII FOREIGN BROADCASTING SERVICES
+Part: PART 8 FOREIGN BROADCASTING SERVICES
 
-(1) This section shall apply to any foreign broadcasting service which is proscribed for the purposes of this section by virtue of an order made under section 29, and references in this section to a proscribed service are references to any such service.
+(1) This section applies to any foreign broadcasting service which is proscribed for the purposes of this section by virtue of an order made under section 29, and references in this section to a proscribed service are references to any such service.
 
 (2) Any person who in Singapore does any of the following acts shall be guilty of an offence:
 
@@ -11,7 +11,7 @@ Part: PART VIII FOREIGN BROADCASTING SERVICES
 
 (c) arranging for, or inviting, any other person to supply programmes to be so included;
 
-(d) advertising, by means of programmes transmitted as part of a proscribed service, goods supplied by him or services provided by him;
+(d) advertising, by means of programmes transmitted as part of a proscribed service, goods supplied by the person or services provided by the person;
 
 (e) publishing the times or other details of any programmes which are to be transmitted as part of a proscribed service or (otherwise than by publishing such details) publishing advertising matter calculated to promote a proscribed service, whether directly or indirectly;
 
@@ -21,6 +21,6 @@ Part: PART VIII FOREIGN BROADCASTING SERVICES
 
 (3) Any person who is guilty of an offence under subsection (2) shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(4) Any equipment and goods used in the commission of an offence under this section shall be liable to be forfeited to the Government.
+(4) Any equipment and goods used in the commission of an offence under this section are liable to be forfeited to the Government.
 
-(5) For the purposes of this section, a person exposing decoding equipment for supply or having such equipment in his possession for supply shall be deemed to offer to supply it.
+(5) For the purposes of this section, a person exposing decoding equipment for supply or having such equipment in the person’s possession for supply is deemed to offer to supply it.

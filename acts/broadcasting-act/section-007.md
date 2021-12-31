@@ -1,6 +1,6 @@
 # 7. Restriction on transfer of licences
-Part: PART III LICENSING SCHEME
+Part: PART 3 LICENSING SCHEME
 
-(1) No licence shall be transferable to any other person without the prior consent in writing of the Authority to the transfer to that person.
+(1) A licence must not be transferred to any other person without the prior written consent of the Authority to the transfer to that person.
 
-(2) Any purported transfer of any licence shall for all purposes be void and of no effect.
+(2) Any purported transfer of any licence is for all purposes void and of no effect.

@@ -1,5 +1,5 @@
 # 6. Codes of Practice
-Part: PART III LICENSING SCHEME
+Part: PART 3 LICENSING SCHEME
 
 (1) The Authority may issue and from time to time review —
 
@@ -7,6 +7,10 @@ Part: PART III LICENSING SCHEME
 
 (b) Codes of Practice relating to broadcast standards required to be maintained by licensees.
 
-(2) If any provision in any Code of Practice is inconsistent with any regulations, it shall, to the extent of the inconsistency, either have effect subject to such regulations or, where appropriate, having regard to such regulations, shall not have effect.
+(2) Any provision in any Code of Practice that is inconsistent with any regulations is, to the extent of the inconsistency —
 
-(3) The Authority may in any licence exempt any licensee from any provision in a Code of Practice generally or for such time as the Authority may specify.
+(a) to have effect subject to the regulations; or
+
+(b) where appropriate, having regard to the regulations, to have no effect.
+
+(3) The Authority may in any licence exempt any licensee from any provision in a Code of Practice generally or for any time that the Authority may specify.

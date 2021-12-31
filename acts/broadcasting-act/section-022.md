@@ -1,7 +1,7 @@
 # 22. Frequency planning criteria
-Part: PART VI FREQUENCY PLANNING
+Part: PART 6 FREQUENCY PLANNING
 
-In performing its functions under this Act, the Authority shall have regard to —
+In performing its functions under this Act, the Authority must have regard to —
 
 (a) the social and economic characteristics within Singapore;
 
@@ -13,6 +13,6 @@ In performing its functions under this Act, the Authority shall have regard to �
 
 (e) the demand for electromagnetic, and particularly radio frequency, spectrum for services other than broadcasting services; and
 
-(f) such other matters as the Authority or the Info- communications Development Authority of Singapore considers appropriate.
+(f) any other matters that the Authority considers appropriate.
 
-[41/99]
+[22/2016]

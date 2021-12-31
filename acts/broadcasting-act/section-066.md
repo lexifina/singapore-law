@@ -1,5 +1,5 @@
 # 66. Regulations
-Part: PART XII MISCELLANEOUS PROVISIONS
+Part: PART 12 MISCELLANEOUS PROVISIONS
 
 The Authority may, with the approval of the Minister, make regulations —
 

@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 2(1)
+Sections 2(1) and 65(1)
 
 LICENSABLE BROADCASTING SERVICES 1. Free-to-air nationwide television services.
 
@@ -30,7 +30,7 @@ LICENSABLE BROADCASTING SERVICES 1. Free-to-air nationwide television services.
 
 14. Special interest radio services.
 
-15. Audiotext services.
+SECOND SCHEDULE — continued 15. Audiotext services.
 
 16. Videotext services.
 
@@ -40,8 +40,6 @@ LICENSABLE BROADCASTING SERVICES 1. Free-to-air nationwide television services.
 
 19. Broadcast data services.
 
-20. Computer on-line services.
+20. Computer online services.
 
-For the purposes of this Schedule, a delivery system shall not, by reason only that facilities or expertise are provided for the delivery of any broadcasting service, be deemed to be a licensable broadcasting service.
-
-[S 308/96]
+For the purposes of this Schedule, a delivery system is not to be deemed to be a licensable broadcasting service by reason only that facilities or expertise are provided for the delivery of any broadcasting service.

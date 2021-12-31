@@ -1,7 +1,7 @@
 # 11. Modification of class licence conditions
-Part: PART IV BROADCASTING SERVICES
+Part: PART 4 BROADCASTING SERVICES
 
-The Authority may, by notification published in the Gazette —
+The Authority may, by notification in the Gazette —
 
 (a) modify the conditions specified in any class licence; or
 
