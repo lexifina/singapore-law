@@ -1,7 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY HEALTH PROMOTION BOARD ACT 2001
 
-HEALTH PROMOTION BOARD ACT (CHAPTER 122B)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 5 of 2001 — Health Promotion Board Act 2001 Date of First Reading : 12.1.2001 (Bill No. 2/2001 published on 13.1.2001) Date of Second and Third Readings : 22.2.2001 Date of commencement : 1.4.2001
+1. Act 5 of 2001 — Health Promotion Board Act 2001 Bill : 2/2001 First Reading : 12 January 2001 Second and Third Readings : 22 February 2001 Commencement : 1 April 2001 2. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (10) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (10) of the Schedule) 3. 2002 Revised Edition — Health Promotion Board Act (Chapter 122) Operation : 31 July 2002 4. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (14) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (14) of the Schedule) 5. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 65 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second and Third Readings : 8 January 2018 Commencement : 1 April 2018 (section 65) 6. Act 11 of 2019 — Singapore Food Agency 2019 (Amendments made by section 60 of the above Act) Bill : 5/2019 First Reading : 15 January 2019 Second and Third Readings : 12 February 2019 Commencement : 1 April 2019 (section 60)
 
-2. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made by) Date of First Reading : 3.5.2002 (Bill No. 7/2002 published on 4.5.2002) Date of Second and Third Readings : 24.5.2002 Date of commencement : Not in operation as at 30.6.2002
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

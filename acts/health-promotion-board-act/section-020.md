@@ -1,7 +1,7 @@
 # 20. Funds of Board
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds of the Board shall consist of —
+The funds of the Board consist of —
 
 (a) all moneys transferred to the Board under section 30;
 
@@ -13,6 +13,6 @@ The funds of the Board shall consist of —
 
 (e) all moneys borrowed by the Board under this Act;
 
-(f) all moneys recovered or collected by the Board or any officer or employee thereof (including sums collected for the composition of offences) under this Act or any other written law administered by the Board; and
+(f) all moneys recovered or collected by the Board or any officer or employee of the Board (including sums collected for the composition of offences) under this Act or any other written law administered by the Board; and
 
 (g) all other moneys lawfully received by the Board for the purposes of the Board.

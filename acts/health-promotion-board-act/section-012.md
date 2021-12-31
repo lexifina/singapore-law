@@ -1,9 +1,9 @@
 # 12. Powers of Board
-Part: PART III FUNCTIONS, OBJECTS, DUTIES AND POWERS OF BOARD
+Part: PART 3 FUNCTIONS, OBJECTS, DUTIES AND POWERS OF BOARD
 
-The Board shall have power to do anything for the purpose of discharging its functions, objects and duties under this Act, or which is incidental or conducive to the discharge of those functions, objects or duties and, in particular, may —
+The Board has power to do anything for the purpose of discharging its functions, objects and duties under this Act, or which is incidental or conducive to the discharge of those functions, objects or duties and, in particular, may —
 
-(a) enter into such contracts as may be necessary or expedient for the purpose of discharging its functions, objects or duties;
+(a) enter into any contracts that may be necessary or expedient for the purpose of discharging its functions, objects or duties;
 
 (b) with the approval of the Minister, acquire and hold such movable or immovable property as may be necessary or expedient for carrying into effect the provisions of this Act and for the same purposes may sell, lease, mortgage, or otherwise alienate or dispose of any property so acquired;
 
@@ -15,7 +15,7 @@ The Board shall have power to do anything for the purpose of discharging its fun
 
 (i) the health or nutritional statuses of the people of Singapore; or
 
-(ii) such other subject-matter as may be necessary for the discharge of the functions, objects or duties of the Board;
+(ii) any other subject matter that may be necessary for the discharge of the functions, objects or duties of the Board;
 
 (f) provide technical, consultancy or advisory services to any Government agency or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Board;
 

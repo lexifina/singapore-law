@@ -1,7 +1,7 @@
 # 3. Establishment and incorporation of Health Promotion Board
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
 
-There is hereby established a body to be known as the Health Promotion Board which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
+A body called the Health Promotion Board is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —
 
 (a) suing and being sued;
 

@@ -1,4 +1,4 @@
-# 8. Temporary Chairman
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
+# 8. Temporary Chairperson
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
 
-If the Chairman is absent from Singapore, or for any other reason unable to discharge his functions, the Minister may appoint one of the members to act as a temporary Chairman.
+If the Chairperson is absent from Singapore, or for any other reason unable to discharge his or her functions, the Minister may appoint one of the members to act as a temporary Chairperson.
