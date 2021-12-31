@@ -1,5 +1,5 @@
 # 36. Investment of PPF Life Fund and PPF General Fund
-Part: PART VII POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTECTION GENERAL FUND
+Part: PART 7 POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTECTION GENERAL FUND
 
 (1) The Agency may invest any moneys in the PPF Life Fund and the PPF General Fund in all or any of the following:
 
@@ -15,4 +15,4 @@ Part: PART VII POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTEC
 
 (3) The Agency may pay to any person appointed under subsection (2) a reasonable fee for any service rendered in exercise of any power and function delegated to that person under that subsection.
 
-(4) The Agency may continue to exercise any power conferred upon it or perform any function under subsection (1) notwithstanding the delegation of such power or function to an employee or agent under this section.
+(4) The Agency may continue to exercise any power conferred upon it or perform any function under subsection (1) despite the delegation of such power or function to an employee or agent under this section.

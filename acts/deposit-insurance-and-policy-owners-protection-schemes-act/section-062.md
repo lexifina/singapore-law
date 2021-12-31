@@ -1,14 +1,14 @@
 # 62. Appointment of Chief Executive, officers and employees, etc.
-Part: PART X DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
+Part: PART 10 DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
-(1) The board of directors shall appoint a Chief Executive on such terms and conditions as the board may determine.
+(1) The board of directors must appoint a Chief Executive on such terms and conditions as the board may determine.
 
-(2) The Chief Executive shall —
+(2) The Chief Executive is —
 
-(a) be known by such designation as the board of directors may determine; and
+(a) known by such designation as the board of directors may determine; and
 
-(b) be responsible to the board of directors for the proper administration and management of the functions and affairs of the Agency in accordance with the policies and directions laid down by the board.
+(b) responsible to the board of directors for the proper administration and management of the functions and affairs of the Agency in accordance with the policies and directions laid down by the board.
 
-(3) Where the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness, or is for any other reason temporarily unable to perform his duties, a person may be appointed by the board of directors to act in the place of the Chief Executive during any such period of absence from duty.
+(3) Where the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness, or is for any other reason temporarily unable to perform his or her duties, a person may be appointed by the board of directors to act in the place of the Chief Executive during any such period of absence from duty.
 
-(4) The Agency may, from time to time, appoint and employ on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+(4) The Agency may appoint and employ on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.

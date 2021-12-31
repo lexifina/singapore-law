@@ -1,5 +1,5 @@
 # 79. Protection from liability
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
 No liability shall be incurred by —
 
@@ -7,10 +7,12 @@ No liability shall be incurred by —
 
 (b) any director, officer, employee or agent of the Agency; or
 
-(c) any person acting under the direction of the Agency, as a result of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in —
+(c) any person acting under the direction of the Agency, as a result of anything done (including any statement made) or omitted to be done in good faith in —
 
-(i) the exercise or purported exercise of any power under this Act;
+(d) the exercise or purported exercise of any power under this Act;
 
-(ii) the performance or purported performance of any function or duty under this Act; or
+(e) the performance or purported performance of any function or duty under this Act; or
 
-(iii) the execution or purported execution of this Act.
+(f) the execution or purported execution of this Act.
+
+[31/2018]

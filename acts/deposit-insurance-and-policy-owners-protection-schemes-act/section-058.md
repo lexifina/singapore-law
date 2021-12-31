@@ -1,6 +1,10 @@
-# 58. Amendment to memorandum and articles of association of Agency
-Part: PART X DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
+# 58. Amendment to constitution of Agency
+Part: PART 10 DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
-(1) Notwithstanding any provision in the Companies Act (Cap. 50), the Agency shall not amend the memorandum and articles of association of the Agency without the prior approval of the Minister.
+(1) Despite any provision in the Companies Act 1967, the Agency must not amend the constitution of the Agency without the prior approval of the Minister.
 
-(2) Any amendment made to the memorandum and articles of association of the Agency without the prior approval of the Minister shall be void.
+[31/2018]
+
+(2) Any amendment made to the constitution of the Agency without the prior approval of the Minister is void.
+
+[31/2018]

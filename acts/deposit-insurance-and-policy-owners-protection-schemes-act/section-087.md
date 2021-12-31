@@ -1,5 +1,5 @@
 # 87. Copies or extracts of books to be admitted in evidence
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
 (1) Subject to this section, a copy of or an extract from a book mentioned in this Act that is proved to be a true copy of the book or of the relevant part of the book is admissible in evidence as if it were the original book or the relevant part of the original book.
 

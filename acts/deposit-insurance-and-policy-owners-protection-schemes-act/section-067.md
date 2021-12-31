@@ -1,7 +1,7 @@
 # 67. False statements regarding membership, insured deposits and insured policies
-Part: PART XI OFFENCES
+Part: PART 11 OFFENCES
 
-(1) No person shall, knowingly or recklessly, make a false or misleading statement as to whether or not —
+(1) No person may, knowingly or recklessly, make a false or misleading statement as to whether or not —
 
 (a) any person is a DI Scheme member;
 
@@ -11,4 +11,4 @@ Part: PART XI OFFENCES
 
 (d) any policy is an insured policy.
 
-(2) Any person who contravenes subsection (1) shall, notwithstanding that a contract does not come into being, be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
+(2) Any person who contravenes subsection (1) shall, even though a contract does not come into being, be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction.

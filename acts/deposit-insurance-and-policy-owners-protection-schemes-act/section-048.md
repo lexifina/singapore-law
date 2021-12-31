@@ -1,10 +1,10 @@
-# 48. Entitlement to compensation for general business
-Part: PART IX COMPENSATION AND USE OF PPF LIFE FUND AND PPF GENERAL FUND
+# 48. Entitlement to compensation for life business — refund of premiums and claim under accidental death insurance cover
+Part: PART 9 COMPENSATION AND USE OF PPF LIFE FUND AND PPF GENERAL FUND
 
-(1) Subject to subsection (2) and section 49, where an insured policy owner has one or more insured policies covered under the PPF General Fund issued by a failed PPF Scheme member, which —
+(1) Where an insured policy owner is expressly entitled under the contract of insurance in respect of an insured policy which is covered under the PPF Life Fund to a refund of premiums by a failed PPF Scheme member, a covered party is entitled to compensation from the PPF Life Fund for the premiums in full.
 
-(a) is issued to the insured policy owner; or
+[31/2018]
 
-(b) is issued to the insured policy owner jointly with one or more other persons as joint policy owners, the insured policy owner shall be entitled to compensation from the PPF General Fund of the aggregate amount of the protected liabilities in respect of all such insured policies.
+(2) Where an accidental death insurance cover is provided by a PPF Scheme member to a customer before the inception of an insured policy, and an accidental death claim on the cover arises on or before the quantification date, the customer’s beneficiary is entitled to compensation from the PPF Life Fund for the accidental death benefit under the cover upon admission of the claim.
 
-(2) Where any of the insured policies referred to in subsection (1) is an insured policy covered under the PPF General Fund which provides third party benefits, the insured policy owner or any beneficiary or both shall be entitled to compensation from the PPF General Fund of the full amount of the protected liabilities in respect of such insured policy.
+[31/2018]

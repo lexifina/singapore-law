@@ -1,8 +1,14 @@
 # 31. Membership of PPF Scheme
-Part: PART VI POLICY OWNERS’ PROTECTION SCHEME
+Part: PART 6 POLICY OWNERS’ PROTECTION SCHEME
 
-(1) Every relevant insurer which is not exempted under section 32 shall be a PPF Scheme member so long as it is registered by the Authority to carry on insurance business under the Insurance Act (Cap. 142).
+(1) Every relevant insurer which is not exempted under section 32 is a PPF Scheme member so long as it is licensed by the Authority to carry on insurance business under the Insurance Act 1966.
 
-(2) Every relevant insurer which is registered to carry on insurance business under the Insurance Act immediately before 1st May 2011, shall be deemed to be a PPF Scheme member from that date.
+[11/2013]
 
-(3) Every relevant insurer which is registered to carry on insurance business under the Insurance Act on or after 1st May 2011, shall be a PPF Scheme member from the date on which it is registered.
+(2) Every relevant insurer which is licensed to carry on insurance business under the Insurance Act 1966 immediately before 1 May 2011, is deemed to be a PPF Scheme member from that date.
+
+[11/2013]
+
+(3) Every relevant insurer which is licensed to carry on insurance business under the Insurance Act 1966 on or after 1 May 2011, is a PPF Scheme member from the date on which it is licensed.
+
+[11/2013]

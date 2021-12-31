@@ -1,6 +1,6 @@
 # FOURTH SCHEDULE
 
-Sections 2(1) and 47(1) and Third Schedule
+Sections 2(1), 47(2), 90(1) and Third Schedule
 
 PROTECTION RATIO
 
@@ -16,39 +16,35 @@ PROTECTION RATIO
 
 “Maximum Surrender Value” means the amount of $100,000.
 
-2. For the purposes of section 47 and the Third Schedule, the protection ratio shall be determined in the following manner:
+2. For the purposes of section 47 and the Third Schedule, the protection ratio is determined in the following manner:
 
 (a) in the case of Category 1 insured policies, 1;
 
 (b) for the sum assured for Category 2 insured policies, in respect of each life assured —
 
-(i) the ratio of the Maximum Sum Assured to the aggregate amount of the sum assured on that life assured guaranteed under all such policies (other than term riders which accelerate the payment of all or part of the sum assured stated in the policy), upon the occurrence of a claim event (including term riders which provide additional payout of sum assured upon the occurrence of a claim event); or
+FOURTH SCHEDULE — continued
+
+(i) the ratio of the Maximum Sum Assured to the aggregate amount or (where instalment payments have, before the quantification date, been made to a covered party) the aggregate remaining amount, of the sum assured on the life assured guaranteed under all such policies (other than riders which accelerate the payment of part or all of the sum assured stated in the policy), upon the occurrence of a claim event (including the sum assured on any rider which provides additional payout of the sum assured upon the occurrence of a claim event); or
 
 (ii) 1,
 
-whichever is the lower;
+whichever is lower;
 
 (c) for the surrender value for Category 2 insured policies, in respect of each life assured —
 
-(i) the ratio of the Maximum Surrender Value to the aggregate amount of the surrender value guaranteed (in the event that the insured policy owner has given notice in writing to the failed PPF Scheme member to surrender the policy) under all such policies;
-
-or
+(i) the ratio of the Maximum Surrender Value to the aggregate amount of the surrender value guaranteed (in the event that the insured policy owner or trustee of a trust of the insured policy has given written notice to the failed PPF Scheme member to surrender the policy) under all such policies; or
 
 (ii) 1,
 
-whichever is the lower;
+whichever is lower;
 
 (d) in the case of Category 3 insured policies, in respect of each life assured —
 
-FOURTH SCHEDULE — continued
-
-(i) the ratio of the Maximum Annuity Sum to the aggregate amount of commuted value of benefits guaranteed under all such policies;
-
-or
+(i) the ratio of the Maximum Annuity Sum to the aggregate amount of commuted value of benefits guaranteed under all such policies; or
 
 (ii) 1,
 
-whichever is the lower;
+whichever is lower;
 
 (e) in the case of Category 4 insured policies, in respect of each life assured per policy —
 
@@ -56,9 +52,11 @@ whichever is the lower;
 
 (A) the ratio of the Maximum Group Sum Assured to the amount of sum assured guaranteed under each group term, endowment policy or whole life policy, as the case may be; or
 
+FOURTH SCHEDULE — continued
+
 (B) 1,
 
-whichever is the lower;
+whichever is lower;
 
 (ii) for the surrender value under a group policy —
 
@@ -66,7 +64,7 @@ whichever is the lower;
 
 (B) 1,
 
-whichever is the lower;
+whichever is lower;
 
 (iii) for the commuted value of group annuity —
 
@@ -74,4 +72,6 @@ whichever is the lower;
 
 (B) 1,
 
-whichever is the lower.
+whichever is lower.
+
+[31/2018]

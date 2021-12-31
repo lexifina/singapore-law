@@ -1,5 +1,5 @@
 # 91. Regulations
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
 (1) The Minister may, with the exception of those matters which may be prescribed by the Authority under this Act, make regulations for carrying out the purposes and provisions of this Act and for the due administration thereof.
 
@@ -9,6 +9,6 @@ Part: PART XIII MISCELLANEOUS
 
 (b) provide that a contravention thereof shall be punishable —
 
-(i) in the case of an individual, with a fine not exceeding $12,500 or with imprisonment for a term not exceeding 12 months or both and, in the case of a continuing offence, with a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction; or
+(i) in the case of an individual, with a fine not exceeding $12,500 or with imprisonment for a term not exceeding 12 months or both and, in the case of a continuing offence, with a further fine not exceeding $1,250 for every day or part of a day during which the offence continues after conviction; or
 
-(ii) in the case of a company or body corporate, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+(ii) in the case of a company or body corporate, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.

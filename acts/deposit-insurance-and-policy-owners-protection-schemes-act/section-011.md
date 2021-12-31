@@ -1,5 +1,5 @@
 # 11. Investment of DI Fund
-Part: PART III DEPOSIT INSURANCE FUND
+Part: PART 3 DEPOSIT INSURANCE FUND
 
 (1) The Agency may invest any moneys in the DI Fund in all or any of the following:
 
@@ -15,4 +15,4 @@ Part: PART III DEPOSIT INSURANCE FUND
 
 (3) The Agency may pay to any person appointed under subsection (2) a reasonable fee for any service rendered in exercise of any power and function delegated to that person under that subsection.
 
-(4) The Agency may continue to exercise any power conferred upon it or perform any function under subsection (1) notwithstanding the delegation of such power or function to an employee or agent under this section.
+(4) The Agency may continue to exercise any power conferred upon it or perform any function under subsection (1) despite the delegation of such power or function to an employee or agent under this section.

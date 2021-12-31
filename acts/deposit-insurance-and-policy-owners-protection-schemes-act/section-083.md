@@ -1,13 +1,13 @@
 # 83. Inspection of books of DI Scheme members and PPF Scheme members
-Part: PART XIII MISCELLANEOUS
+Part: PART 13 MISCELLANEOUS
 
 (1) The Authority may from time to time inspect, under conditions of secrecy, the books of any DI Scheme member or PPF Scheme member for the purposes of this Act.
 
 (2) For the purposes of an inspection under this section —
 
-(a) the DI Scheme member or PPF Scheme member and any other person who is in possession of the books of the DI Scheme member or PPF Scheme member shall produce such books to the Authority and give such information or facilities as may be required by the Authority;
+(a) the DI Scheme member or PPF Scheme member and any other person who is in possession of the books of the DI Scheme member or PPF Scheme member must produce such books to the Authority and give such information or facilities as may be required by the Authority;
 
-(b) the DI Scheme member or PPF Scheme member shall procure that any other person who is in possession of its books produce its books to the Authority and give such information or facilities as may be required by the Authority; and
+(b) the DI Scheme member or PPF Scheme member must procure that any other person who is in possession of its books produce its books to the Authority and give such information or facilities as may be required by the Authority; and
 
 (c) the Authority may —
 
@@ -23,8 +23,8 @@ Part: PART XIII MISCELLANEOUS
 
 (C) for such proceedings to be commenced and carried on.
 
-(3) No person shall be entitled, as against the Authority, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
+(3) No person is entitled, as against the Authority, to claim a lien on any of the books, but such a lien is not otherwise affected.
 
-(4) The Authority may require a person who produced any book to the Authority to explain, to the best of his knowledge and belief, any matter about the compilation of the book or to which the book relates.
+(4) The Authority may require a person who produced any book to the Authority to explain, to the best of the person’s knowledge and belief, any matter about the compilation of the book or to which the book relates.
 
-(5) Any person who, without reasonable excuse, contravenes subsection (2) or a requirement of the Authority under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(5) Any person who, without reasonable excuse, contravenes subsection (2) or a requirement of the Authority under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.

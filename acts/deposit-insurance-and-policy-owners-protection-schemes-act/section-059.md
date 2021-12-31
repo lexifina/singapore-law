@@ -1,19 +1,19 @@
 # 59. Appointment of board of directors
-Part: PART X DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
+Part: PART 10 DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
-(1) This section shall have effect notwithstanding any provision in the Companies Act (Cap. 50) and the memorandum and articles of association of the Agency.
+(1) This section has effect despite any provision in the Companies Act 1967 and the constitution of the Agency.
 
-(2) The board of directors of the Agency shall consist of —
+[31/2018]
 
-(a) a Chairman who shall be appointed by the board of directors;
+(2) The board of directors of the Agency consists of —
 
-and
+(a) a Chairperson who must be appointed by the board of directors; and
 
 (b) not less than 4 but not more than 9 other directors.
 
-(3) A director shall hold office for a term not exceeding 3 years and shall be eligible for reappointment.
+(3) A director holds office for a term not exceeding 3 years and is eligible for re-appointment.
 
-(4) No person shall be appointed as or remain a director on the board of directors if he is a substantial shareholder, a director or an employee of —
+(4) No person may be appointed as or remain a director on the board of directors if the person is a substantial shareholder, a director or an employee of —
 
 (a) any DI Scheme member or PPF Scheme member; or
 
@@ -21,6 +21,6 @@ and
 
 (5) In this section —
 
-“related corporation” has the same meaning as in section 4(1) of the Companies Act;
+“related corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-“substantial shareholder” has the same meaning as in section 81 of the Companies Act.
+“substantial shareholder” has the meaning given by section 81 of the Companies Act 1967.

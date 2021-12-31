@@ -1,9 +1,9 @@
 # 13. Determination of premium rates and premium contributions
-Part: PART IV PREMIUM CONTRIBUTIONS FOR DI SCHEME
+Part: PART 4 PREMIUM CONTRIBUTIONS FOR DI SCHEME
 
-(1) The Authority shall assess and determine the premium rates for the purposes of computing the premium contributions payable by DI Scheme members.
+(1) The Authority must assess and determine the premium rates for the purposes of computing the premium contributions payable by DI Scheme members.
 
-(2) The Authority shall, on the basis of the premium rates determined under subsection (1) and the insured deposit base of a DI Scheme member, compute the amount of premium contribution payable by the DI Scheme member for any premium year or part thereof.
+(2) The Authority must, on the basis of the premium rates determined under subsection (1) and the insured deposit base of a DI Scheme member, compute the amount of premium contribution payable by the DI Scheme member for any premium year or part thereof.
 
 (3) For the purposes of assessing and determining the premium rates and computing the amounts of premium contributions payable, the Authority may, in consultation with the Agency, make regulations for or in respect of all or any of the following matters:
 
@@ -27,4 +27,4 @@ Part: PART IV PREMIUM CONTRIBUTIONS FOR DI SCHEME
 
 (4) Regulations made pursuant to or dealing with the matters referred to in subsection (3)(c) or (d) may provide for different premium rates for different categories of DI Scheme members.
 
-(5) If the Authority wishes to amend or vary any regulations made under subsection (3), such regulations shall not be amended or varied without consulting the Agency.
+(5) If the Authority wishes to amend or vary any regulations made under subsection (3), such regulations must not be amended or varied without consulting the Agency.
