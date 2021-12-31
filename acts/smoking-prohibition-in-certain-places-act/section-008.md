@@ -1,7 +1,9 @@
-# 8. Fees, etc., payable to Agency
+# 8. Fees, etc., payable to Agency, etc.
 
-All fees, charges, composition fines and moneys collected under this Act shall be paid to the Agency.
+(1) All fees, charges and moneys collected under this Act, other than composition sums, must be paid to the Agency.
 
-[7A
+[39/2018]
 
-[4/2002]
+(2) All composition sums collected under this Act must be paid into the Consolidated Fund.
+
+[39/2018]

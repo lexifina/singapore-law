@@ -1,7 +1,5 @@
 # 10. Exemption
 
-The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any specified place or specified vehicle from all or any of the provisions of this Act.
+The Agency may, with the approval of the Minister and by order in the Gazette, exempt any person or place from all or any of the provisions of this Act either generally or in a particular case and subject to any conditions that the Agency may impose in the order.
 
-[9
-
-[4/2002]
+[39/2018]

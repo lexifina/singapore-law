@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Smoking (Prohibition in Certain Places) Act.
+This Act is the Smoking (Prohibition in Certain Places) Act 1992.
+
+1
