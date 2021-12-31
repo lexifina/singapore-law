@@ -1,11 +1,8 @@
-# 5. Homonymous geographical indications for wines
+# 5. Remedies
+Part: PART 2 PROTECTION FOR GEOGRAPHICAL INDICATIONS
 
-(1) Subject to section 3 (3), any interested party of wines identified by homonymous geographical indications may take action under section 3 against the carrying out of an act to which that section applies.
+Subject to the provisions of this Act, if it is established to the satisfaction of the Court that the defendant to an action brought under section 4 has carried out or is carrying out an act to which that section applies, the Court may grant to the plaintiff one or both of the following:
 
-(2) Any interested party of wines identified by homonymous geographical indications may apply to the Court for a declaration of the practical conditions under which the geographical indications are to be differentiated from one another.
+(a) an injunction (subject to such terms, if any, as the Court thinks fit) to restrain the further carrying out of the act;
 
-(3) The Court shall, in making a declaration under subsection (2), take into account —
-
-(a) the need to ensure equitable treatment of all the interested parties concerned; and
-
-(b) the need to ensure that consumers are not misled.
+(b) damages or an account of profits.

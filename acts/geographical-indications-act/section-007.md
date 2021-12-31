@@ -1,25 +1,28 @@
-# 7. Exceptions regarding prior users
+# 7. Order as to disposal of goods, material or articles
+Part: PART 2 PROTECTION FOR GEOGRAPHICAL INDICATIONS
 
-(1) Section 3 shall not apply to the use by a qualified person of a wine or spirit identified by a geographical indication in relation to goods or services if the qualified person, or he and his predecessor in title, have continuously used in Singapore that geographical indication in relation to those goods or services or related goods or services either —
+(1) Where any goods, material or articles have been delivered up pursuant to an order under section 6, an application may be made to the Court —
 
-(a) for at least 10 years preceding 15th April 1994; or
+(a) for an order that they be destroyed or forfeited to such person as the Court may think fit; or
 
-(b) in good faith preceding that date.
+(b) for a decision that no such order should be made.
 
-(2) For the purposes of subsection (1), ‘‘qualified person’’ means —
+(2) In considering what order (if any) should be made, the Court is to have regard to —
 
-(a) a citizen of Singapore or an individual resident in Singapore;
+(a) whether other remedies available in an action under section 4 would be adequate to compensate the plaintiff and protect his, her or its interest; and
 
-(b) a body corporate incorporated under any written law in Singapore; or
+(b) the need to ensure that no goods, material or articles are disposed of in a manner that would adversely affect the plaintiff.
 
-(c) any other person who has a real and effective industrial or commercial establishment in Singapore.
+(3) The Court is to issue directions as to the service of notice on persons having an interest in the goods, material or articles.
 
-(3) Section 3 shall not apply to the use by a person of a trade mark which is identical or similar to a geographical indication if —
+(4) Any person having an interest in the goods, material or articles is entitled —
 
-(a) the application for the registration of the trade mark was made in good faith, or the trade mark was registered in good faith, under the Trade Marks Act (Cap. 332) or any previous law relating to trade marks; or
+(a) to appear in proceedings for an order under this section, whether or not that person is served with notice under subsection (3); and
 
-(b) he, or he and his predecessor in title, have continuously used that trade mark in good faith in Singapore in the course of trade, either —
+(b) to appeal against any order made, whether or not that person appears in the proceedings for that order.
 
-(i) before 15th January 1999; or
+(5) An order made under this section does not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
 
-(ii) before the geographical indication in question is protected in its country or territory of origin.
+(6) Where there is more than one person interested in the goods, material or articles, the Court may direct that the goods, material or articles be sold, or otherwise dealt with, and the proceeds divided, and make any other order as it thinks just.
+
+(7) If the Court decides that no order should be made under this section, the person in whose possession, custody or control the goods, material or articles were before being delivered up, is entitled to their return.
