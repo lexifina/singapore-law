@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act is the Attorney-General (Additional Functions) Act.
+This Act is the Attorney-General (Additional Functions) Act 2014.

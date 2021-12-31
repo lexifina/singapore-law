@@ -4,8 +4,6 @@ In this Act, unless the context otherwise requires —
 
 “administrative decision” means a decision of an administrative character which is, is proposed to be, or is required to be, made (whether or not in the exercise of a discretion and whether before, on or after 1 January 2015) under any public Act;
 
-This revised edition incorporates all amendments up to 1 November 2017.
-
 1
 
 “instrument of legislative character” includes an instrument of legislative character made before 1 January 2015 under any public Act;
