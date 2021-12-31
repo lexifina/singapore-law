@@ -1,0 +1,9 @@
+# LEGISLATIVE HISTORY HAZARDOUS WASTE (CONTROL OF EXPORT, IMPORT AND TRANSIT) ACT 1997
+
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Act 13 of 1997 — Hazardous Waste (Control of Export, Import and Transit) Act 1997 Bill : 13/1997 First Reading : 7 October 1997 Second and Third Readings : 19 November 1997 Commencement : 16 March 1998 2. 1998 Revised Edition — Hazardous Waste (Control of Export, Import and Transit) Act (Chapter 122A) Operation : 30 May 1998 3. Act 9 of 2003 — Statutes (Miscellaneous Amendments) Act 2003 (Amendments made by section 16 read with item (2) of the Schedule to the above Act) Bill : 7/2003 First Reading : 20 March 2003 Second and Third Readings : 24 April 2003 Commencement : 16 May 2003 (section 16 read with item (2) of the Schedule) 4. G.N. No. S 820/2019 — Hazardous Waste (Control of Export, Import and Transit) Act (Amendment of Schedule) Regulations 2019 Commencement : 10 December 2019 5. Act 6 of 2020 — Hazardous Waste (Control of Export, Import and Transit) (Amendment) Act 2020 Bill : 6/2020 First Reading : 6 January 2020 Second and Third Readings : 3 February 2020 Commencement : 1 April 2020 (except sections 7 and 9) 1 October 2020 (section 7)
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
