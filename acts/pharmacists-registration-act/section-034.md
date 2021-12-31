@@ -1,9 +1,9 @@
 # 34. Pharmacist to use only qualifications entered in register and approved title, etc.
-Part: PART IV PRACTICE OF PHARMACY
+Part: PART 4 PRACTICE OF PHARMACY
 
-(1) No registered pharmacist shall —
+(1) A registered pharmacist must not —
 
-(a) use or exhibit or publish in any card, letter, stationery, nameplate, signboard, placard, circular, handbill or any notice displayed at the premises used by him for the practice of pharmacy any qualification other than the qualifications which are entered in any register kept under this Act or which has been approved by the Council; or
+(a) use or exhibit or publish in any card, letter, stationery, nameplate, signboard, placard, circular, handbill or any notice displayed at the premises used by the registered pharmacist for the practice of pharmacy any qualification other than the qualifications which are entered in any register kept under this Act or which have been approved by the Council; or
 
 (b) use any title, addition or designation other than the title, addition or designation which has been approved by the Council.
 

@@ -1,9 +1,9 @@
 # 70. Exemption in respect of pharmacy training
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
-Nothing in this Act shall prevent the doing of any act within the practice of pharmacy by any person if the act is carried out —
+Nothing in this Act prevents the doing of any act within the practice of pharmacy by any person if the act is carried out —
 
-(a) in the course of his training;
+(a) in the course of the person’s training;
 
 (b) under the supervision of a pharmacist registered under section 16(1); and
 

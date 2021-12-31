@@ -1,11 +1,11 @@
 # 5. Functions of Council
-Part: PART II SINGAPORE PHARMACY COUNCIL
+Part: PART 2 SINGAPORE PHARMACY COUNCIL
 
 The functions of the Council are —
 
 (a) to keep and maintain registers of registered pharmacists;
 
-(b) to approve or reject applications for registration under this Act or to approve any such application subject to such restrictions as it may think fit;
+(b) to approve or reject applications for registration under this Act or to approve any of those applications subject to any restrictions the Council may think fit;
 
 (c) to issue certificates of registration and practising certificates to registered pharmacists;
 

@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Pharmacists Registration Act.
+This Act is the Pharmacists Registration Act 2007.

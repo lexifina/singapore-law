@@ -1,6 +1,4 @@
-# 12. Disclosure of interest
-Part: PART II SINGAPORE PHARMACY COUNCIL
+# 12. [Repealed]
+Part: PART 2 SINGAPORE PHARMACY COUNCIL
 
-(1) If a Council member is, directly or indirectly, interested in a matter under consideration by the Council and is present at a meeting of the Council at which the matter is the subject of consideration, such member shall, at the meeting and as soon as practicable after it commences, disclose his interest in that matter and may, with the permission of the Council, participate in its consideration of that matter, but shall not vote on any question with respect to that matter.
-
-(2) No act or proceedings of the Council shall be questioned on the ground that any Council member has contravened this section.
+[Repealed by Act 5 of 2018]
