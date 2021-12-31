@@ -1,5 +1,4 @@
 # 1. Short title
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Parking Places Act.
-
-1
+This Act is the Parking Places Act 1974.
