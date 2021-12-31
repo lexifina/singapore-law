@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Census Act.
+This Act is the Census Act 1973.

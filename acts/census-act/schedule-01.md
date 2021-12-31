@@ -1,11 +1,7 @@
 # FIRST SCHEDULE
 
-Section 13
+Sections 13(1) and 25
 
-COMPETENT AUTHORITIES
+COMPETENT AUTHORITIES First column Second column
 
-First column Second column
-
-1. Central Provident Fund Board Central Provident Fund Act (Cap. 36).
-
-[8/90]
+1. Central Provident Fund Board Central Provident Fund Act 1953.
