@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Dangerous Fireworks Act.
+This Act is the Dangerous Fireworks Act 1972.
