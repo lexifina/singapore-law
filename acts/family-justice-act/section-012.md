@@ -1,0 +1,14 @@
+# 12. Appointment of Presiding Judge of Family Justice Courts
+Part: PART 3 APPOINTMENTS, POWERS AND DUTIES
+
+(1) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Supreme Court Judge or a Judicial Commissioner to be the Presiding Judge of the Family Justice Courts for such period as the Chief Justice may recommend.
+
+[40/2019]
+
+(2) Despite any other written law, the Presiding Judge of the Family Justice Courts may sit in any Family Court or Youth Court and act as a judge thereof, in which case he or she has all the jurisdiction, power and privileges of such a judge.
+
+(3) A Supreme Court Judge or a Judicial Commissioner may, during the period of his or her appointment as the Presiding Judge of the Family Justice Courts, continue to sit in the General Division of the High Court, the Appellate Division of the High Court or the Court of Appeal in accordance with the Constitution.
+
+[40/2019]
+
+(4) Any person appointed to be the Presiding Judge of the Family Justice Courts must, although the period of his or her appointment as such has expired or his or her appointment as such has been revoked, in relation to any case heard by him or her as a judge of a Family Court or Youth Court, continue to sit as such a judge for the purpose of giving judgment or otherwise.
