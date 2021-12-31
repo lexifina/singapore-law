@@ -1,5 +1,5 @@
 # 23. Powers of officers
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
 (1) Any authorised officer or police officer may without warrant —
 
@@ -13,8 +13,4 @@ Part: PART V MISCELLANEOUS
 
 (e) enter and search any place or premises in which he reasonably suspects that there is to be found any fish or fishing materials contrary to the provisions of this Act and may seize, remove or detain at the risk of the owner any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found in such place or premises.
 
-[30/73; 12/94; 16/2000]
-
 (2) For the purpose of exercising his power under this Act, any authorised officer or police officer may, with such assistance as he thinks necessary, break open any door, window, lock, fastener, compartment, box, container or other thing.
-
-[12/94; 16/2000]

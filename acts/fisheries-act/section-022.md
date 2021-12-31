@@ -1,5 +1,5 @@
 # 22. Jurisdiction of court to try offences committed outside territorial waters
-Part: PART IV OFFENCES
+Part: PART 4 OFFENCES
 
 Notwithstanding the provisions of any written law to the contrary, any offence under this Act (other than subsidiary legislation made thereunder) committed outside the territorial waters of Singapore by —
 

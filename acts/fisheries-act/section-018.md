@@ -1,12 +1,14 @@
-# 18. Composition of offences
-Part: PART IV OFFENCES
+# 18. Composition of offences 1
+Part: PART 4 OFFENCES
 
 (1) The Director-General may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
-[12/94; 16/2000]
-
 (2) The Minister may make rules to prescribe the offences which may be compounded.
 
-[20
+(3) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
-[12/94]
+[11/2019]
+
+(4) All composition sums collected under this section must be paid into the Consolidated Fund.
+
+[11/2019]

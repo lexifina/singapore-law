@@ -1,5 +1,5 @@
 # 24. Service of documents
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
 (1) Where for the purposes of this Act any document is to be served on any person, that document may be served —
 
