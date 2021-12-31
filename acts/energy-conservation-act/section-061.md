@@ -1,8 +1,8 @@
 # 61. Exemption
-Part: PART IV ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
+Part: PART 4 ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
 Division: Division 3 — Powers of enforcement
 
-The Transport Minister may, by order published in the Gazette and with or without conditions, exempt —
+The Transport Minister may, by order in the Gazette and with or without conditions, exempt —
 
 (a) any class, description or type of motor vehicles, business activity or premises from all or any of the provisions of this Part; or
 

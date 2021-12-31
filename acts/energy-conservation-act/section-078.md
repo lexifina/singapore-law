@@ -1,54 +1,66 @@
 # 78. Regulations
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-(1) The Minister may make such regulations as he may consider necessary or expedient for carrying out the purposes and provisions of this Act (except Part IV).
+(1) The Minister may make regulations necessary or expedient for carrying out the purposes and provisions of this Act (except Part 4).
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to, or to otherwise make provision for, all or any of the following matters:
 
-(a) prescribing the registration requirements in relation to registrable goods and the suppliers of registrable goods, and the regulation of the labelling of registrable goods;
+(a) the registration requirements in relation to —
 
-(b) prescribing the registration requirements in relation to registrable corporations;
+(i) regulated goods;
 
-(c) specifying any energy efficiency standards or energy management standards with which any class or description of registered goods or registered corporations must comply;
+(ii) suppliers of regulated goods; and
 
-(d) in relation to reports under section 27 —
+(iii) registrable corporations;
 
-(i) specifying the methods, or criteria for methods, by which the amounts of emissions, reduction, removal, offsets, energy production or energy consumption are to be measured, including specifying —
+(b) the form of any application, report, plan or other document mentioned in this Act (except Part 4);
 
-(A) different methods or criteria for different industry sectors;
+(c) the preparation of any application, report, plan or other document mentioned in this Act (except Part 4), including the person that should prepare the same and any criteria that the person must satisfy;
 
-(B) different methods or criteria depending on the circumstances in which the emissions, reduction, removal, offsets, production or consumption occurred;
+(d) the information and documents to be included in or to accompany any application, report, plan or other document mentioned in this Act (except Part 4);
 
-(C) conditions relating to the use of different methods or criteria;
+(e) without affecting paragraph (d), in relation to any report or plan mentioned in this Act (except Part 4), the methods, or criteria for the methods, by which the amounts of reductions, removals, offsets, energy production, energy consumption or any other matters are to be measured or determined, including any one or more of the following:
 
-(D) rating systems for those methods (including different rating systems for different circumstances); and
+(i) conditions relating to the use of different methods or criteria;
 
-(E) the particular rating given to each of those methods; and
+(ii) rating systems for those methods;
 
-(ii) specifying different requirements in relation to the information to be supplied in the report for different circumstances;
+(iii) the particular rating given to each of those methods;
 
-(e) requirements for the preparation and submission of a report under section 27 or an energy efficiency improvement plan under section 29;
+(f) the period within which any application, report, plan or other document mentioned in this Act (except Part 4) is to be submitted (including at prescribed intervals);
 
-(f) requirements relating to the implementation of energy efficiency measures proposed in any energy efficiency improvement plan under section 29;
+(g) the manner in which any application, report, plan or other document mentioned in this Act (except Part 4) is to be submitted, including the person that should submit the same and any criteria that the person must satisfy;
 
-(g) in relation to an energy manager under Part III —
+(h) the implementation of energy efficiency measures proposed in any energy efficiency improvement plan under section 28;
 
-(i) the requirements for the appointment, training and qualification of an energy manager;
+(i) the criteria which any person carrying out any assessment required under this Act (except Part 4) must satisfy;
+
+(j) in relation to an energy manager under Part 3 —
+
+(i) the appointment, training and qualification of an energy manager;
 
 (ii) the functions and duties of an energy manager; and
 
-(iii) the powers of an energy manager, being necessary powers for the discharge of his functions and duties;
+(iii) the powers of an energy manager, being necessary powers for the discharge of the energy manager’s functions and duties;
 
-(h) prescribing any forms for use under this Act;
+(k) any fees and charges payable for an application under, or for any purpose of, this Act (except Part 4);
 
-(i) prescribing any fees and charges payable for the purposes of this Act;
+(l) any other matter that is required or permitted to be prescribed to give effect to this Act (except Part 4).
 
-(j) prescribing any other matter which is required or permitted to be prescribed to give effect to this Act.
+[24/2017; 23/2018]
 
-(3) The Minister may make regulations for the purpose of coordinating the exercise of powers by the Director-General under this Act and the exercise of powers by any other sector regulator referred to in Part IV, and may, in particular, make regulations to provide for the procedure to be followed —
+(3) Regulations made under this section may make different provision —
 
-(a) in determining, in a particular case or category of cases, whether the Director-General (or an authorised officer) should exercise his powers or whether a sector regulator (or a transport sector authorised officer) should exercise his or its powers; and
+(a) for different classes, descriptions or types of goods, persons or industry sectors; and
+
+(b) for different circumstances (including, in relation to subsection (2)(e), the circumstances in which the reductions, removals, offsets, energy production, energy consumption or other matters occur).
+
+[24/2017; 23/2018]
+
+(4) The Minister may make regulations for the purpose of coordinating the exercise of powers by the Director-General under this Act and the exercise of powers by any other sector regulator mentioned in Part 4, and may, in particular, make regulations to provide for the procedure to be followed —
+
+(a) in determining, in a particular case or category of cases, whether the Director-General (or an authorised officer) should exercise his or her powers or whether a sector regulator (or a transport sector authorised officer) should exercise his, her or its powers; and
 
 (b) where the Director-General and a sector regulator, or their respective authorised officers or transport sector authorised officers, may exercise their respective powers concurrently or conjunctively.
 
-(4) The Minister may, in making any regulations under this section, provide that any contravention of any of the provisions of such regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.
+(5) The Minister may, in making any regulations under this section, provide that any contravention of any of the provisions of such regulations is an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.

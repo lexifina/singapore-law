@@ -1,6 +1,7 @@
 # 34. Powers of authorised officers in monitoring compliance
-Part: PART III ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Energy labelling and minimum performance standards for registrable goods
-Division: Division 3 — Powers of enforcement
+Part: PART 3 ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Measures for goods Subdivision (1) — Interpretation
+Division: Division 3 — General provisions for this Part Subdivision (1) — Reports, waivers, penalties, etc.
+Subdivision: Subdivision (2) — Powers of enforcement
 
 (1) An authorised officer may exercise all or any of the following powers in relation to premises under section 33:
 

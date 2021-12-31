@@ -1,13 +1,17 @@
 # 10. Interpretation of this Division
-Part: PART III ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Energy labelling and minimum performance standards for registrable goods
+Part: PART 3 ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Measures for goods Subdivision (1) — Interpretation
 
 In this Division, unless the context otherwise requires —
 
-“effective date”, in relation to any goods, means the date on which the goods become registrable goods as specified in the order under section 11;
+“effective date”, in relation to any goods, means the date on which the goods become regulated goods as specified in the order under section 11;
 
-“goods” means any device, appliance, equipment, article or thing the use or operation of which consumes electricity or fuel, but does not include any motor vehicle;
+“goods” means any device, appliance, equipment, article or thing that requires electricity or fuel for its use or operation, and —
 
-“label”, in relation to any registrable goods, includes marking or affixing a label to the registrable goods;
+(a) includes 2 or more such devices, appliances, equipment, articles or things that are interconnected, and interdependent or interacting, so as to form a system carrying out one or more functions; but
+
+(b) does not include any motor vehicle;
+
+“label”, in relation to any regulated goods, includes marking or affixing a label to the regulated goods;
 
 “manufacture” means to make, fabricate, produce or process any goods and includes —
 
@@ -15,11 +19,11 @@ In this Division, unless the context otherwise requires —
 
 (b) the altering, ornamenting or finishing or the assembling or processing in any form of any goods;
 
-“registered goods” means any registrable goods registered under section 13(4) as such;
+“registered goods” means any regulated goods registered under section 13(2) as such;
 
-“registered supplier” means any importer or manufacturer registered under section 13(4) as such;
+“registered supplier” means any importer or manufacturer registered under section 13(2) as such;
 
-“registrable goods” means any goods declared by order under section 11 to be such;
+“regulated goods” means any goods prescribed under section 11 to be such;
 
 “sale” includes —
 
@@ -36,3 +40,9 @@ In this Division, unless the context otherwise requires —
 (b) the supply of the goods in connection with any agreement; and
 
 (c) the offer to supply the goods.
+
+[24/2017]
+
+Subdivision (2) — Restrictions on supplies of regulated goods through registration, energy labelling, minimum performance standards, etc.
+
+[24/2017]

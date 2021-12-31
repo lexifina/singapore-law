@@ -1,8 +1,8 @@
 # 45. Transport facility operators
-Part: PART IV ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
+Part: PART 4 ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
 Division: Division 2 — Energy management practices for transport facility operators
 
-(1) The Transport Minister may, by order published in the Gazette —
+(1) The Transport Minister may, by order in the Gazette —
 
 (a) declare any airport service operator, land transport operator or port service operator to be a transport facility operator from the date specified in the order; or
 

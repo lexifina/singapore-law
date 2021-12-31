@@ -1,8 +1,9 @@
 # 25. Corporation may apply to cancel registration
-Part: PART III ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Energy labelling and minimum performance standards for registrable goods
-Division: Division 2 — Energy management practices for corporations
+Part: PART 3 ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Measures for goods Subdivision (1) — Interpretation
+Division: Division 2 — Measures for business activities and premises Subdivision (1) — Interpretation
+Subdivision: Subdivision (2) — Registration of corporations
 
-(1) A registered corporation may apply to the Director‑General to cancel its registration —
+(1) A registered corporation may apply to the Director-General to cancel its registration —
 
 (a) subject to paragraph (b), if the registered corporation no longer qualifies as a registrable corporation;
 
@@ -10,6 +11,6 @@ Division: Division 2 — Energy management practices for corporations
 
 (c) in the event of such other occurrence or in such other circumstances as may be prescribed.
 
-(2) The Director-General shall cancel the registration of any registered corporation if he is satisfied that any of the grounds for cancellation in subsection (1) are made out.
+(2) The Director-General must cancel the registration of any registered corporation if the Director-General is satisfied that any of the grounds for cancellation in subsection (1) are made out.
 
-(3) The Director-General shall, within 14 days after cancelling the registration of any corporation under subsection (2), inform the corporation in writing of the cancellation.
+(3) The Director-General must, within 14 days after cancelling the registration of any corporation under subsection (2), inform the corporation in writing of the cancellation.

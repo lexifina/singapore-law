@@ -1,5 +1,5 @@
 # 3. Meaning of “business activity”
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) A business activity is an activity, or a series of activities (including ancillary activities) —
 

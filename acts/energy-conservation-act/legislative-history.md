@@ -1,13 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY ENERGY CONSERVATION ACT 2012
 
-ENERGY CONSERVATION ACT (CHAPTER 92C)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Energy Conservation Act. It is not part of the Act.
+1. Act 11 of 2012 — Energy Conservation Act 2012 Bill : 8/2012 First Reading : 8 March 2012 Second and Third Readings : 9 April 2012 Commencement : 1 July 2012 (Parts I and II, Divisions 1 and 3 of Part IV, sections 68 to 73, 75, 76, 80(2) and 82, the First Schedule and item 2(b) of the Second Schedule) 22 April 2013 (Divisions 2 and 3 of Part III and sections 64 to 67, 74, 77, 78 and 79) 1 September 2013 (Division 1 of Part III and sections 80(1) and 81) 1 January 2014 (Division 2 of Part IV) 2. 2014 Revised Edition — Energy Conservation Act (Chapter 92C) Operation : 31 May 2014 3. Act 30 of 2015 — Bus Services Industry Act 2015 (Amendments made by section 51 of the above Act) Bill : 26/2015 First Reading : 13 July 2015 Second and Third Readings : 18 August 2015 Commencement : 22 January 2016 (section 51) 4. Act 24 of 2017 — Energy Conservation (Amendment) Act 2017 Bill : 17/2017 First Reading : 9 March 2017 Second and Third Readings : 3 April 2017 Commencement : 1 January 2018 5. Act 23 of 2018 — Carbon Pricing Act 2018 (Amendments made by section 79 of the above Act) Bill : 17/2018 First Reading : 2 March 2018 Second and Third Readings : 20 March 2018 Commencement : 1 January 2019 (section 79) 6. G.N. No. S 771/2021 — Energy Conservation Act (Amendment of Schedule) Order 2021 Commencement : 12 October 2021
 
-1. Act 11 of 2012 — Energy Conservation Act 2012
+Abbreviations
 
-Date of First Reading : 8 March 2012 (Bill No. 8/2012 published on 8 March 2012)
-
-Date of Second and Third Readings : 9 April 2012
-
-Dates of commencement : 1 July 2012 (Parts I, II, Divisions 1 and 3 of Part IV, sections 68 to 73, 75, 76, 80(2), 82, First and Second Schedule) 22 April 2013 (Division 2 and 3 of Part III, sections 64 to 67, 74, 77, 78 and 79) 1 September 2013 (Division 1 of Part III, sections 80(1) and 81) 1 January 2014 (Division 2 of Part IV)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

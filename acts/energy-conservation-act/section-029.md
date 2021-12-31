@@ -1,21 +1,26 @@
-# 29. Energy efficiency improvement plans
-Part: PART III ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Energy labelling and minimum performance standards for registrable goods
-Division: Division 2 — Energy management practices for corporations
+# 29. Records to be kept
+Part: PART 3 ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Measures for goods Subdivision (1) — Interpretation
+Division: Division 2 — Measures for business activities and premises Subdivision (1) — Interpretation
+Subdivision: Subdivision (3) — Energy management practices
 
-(1) Unless granted a waiver under subsection (3), a registered corporation shall prepare and submit to the Director-General, in accordance with subsection (2) and such other requirements as may be prescribed, an energy efficiency improvement plan for a prescribed period in respect of any business activity or premises over which the registered corporation has operational control.
+(1) A person that is required under this Division to submit any report or plan to the Director-General must keep and maintain complete and accurate records containing such information, and in accordance with such other requirements, as may be prescribed under section 78, relating to —
 
-(2) An energy efficiency improvement plan shall —
+(a) those reports and plans, including the preparation and submission of the reports and plans; and
 
-(a) contain such information (including information on the implementation of any part of the plan) as may be prescribed; and
+(b) monitoring and evaluation undertaken by the person to ensure compliance with this Act (except Part 4).
 
-(b) be submitted at the prescribed intervals and within the prescribed period.
+[24/2017]
 
-(3) A registered corporation which is unable to comply with subsection (1) in any particular case may apply in writing to the Director-General for a waiver and the Director-General may, if he is satisfied that there are good reasons to do so, waive the application of subsection (1) for a specified period of time or in respect of a specified business activity or specified premises or part thereof of the registered corporation.
+(2) The person mentioned in subsection (1) must —
 
-(4) The Director-General may, in respect of any incomplete energy efficiency improvement plan, in writing direct the registered corporation, within the time specified in the direction —
+(a) retain the records mentioned in that subsection for at least the prescribed period;
 
-(a) to carry out such rectifications or re-computation as the Director-General may require; and
+(b) during the prescribed period mentioned in paragraph (a), make available for inspection by the Director-General or any authorised officer, the records mentioned in subsection (1) when so requested by the Director-General or any authorised officer; and
 
-(b) to re-submit the energy efficiency improvement plan.
+(c) submit to the Director-General the records mentioned in subsection (1), and any other record, document or information, that the Director-General may require, in the time specified by the Director-General.
 
-(5) Any registered corporation which contravenes subsection (1) or fails to comply with a direction under subsection (4) shall be guilty of an offence.
+[24/2017]
+
+(3) Any person that contravenes subsection (1) or (2) shall be guilty of an offence.
+
+[24/2017]

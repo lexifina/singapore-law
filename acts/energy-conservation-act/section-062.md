@@ -1,12 +1,12 @@
 # 62. Regulations
-Part: PART IV ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
+Part: PART 4 ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
 Division: Division 3 — Powers of enforcement
 
-(1) The Transport Minister may make such regulations as he may consider necessary or expedient for carrying out the purposes and provisions of this Part.
+(1) The Transport Minister may make regulations necessary or expedient for carrying out the purposes and provisions of this Part.
 
-(2) Without prejudice to the generality of subsection (1), the Transport Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Transport Minister may make regulations for or with respect to all or any of the following matters:
 
-(a) prescribing additional fuel economy testing, labelling or reporting requirements in relation to any class, description or type of motor vehicle specified in an order under section 40;
+(a) providing for additional fuel economy and vehicular emissions testing, labelling or reporting requirements in relation to any class, description or type of motor vehicle specified in an order under section 40;
 
 (b) specifying a minimum fuel economy standard with which any class, description or type of motor vehicle specified in an order under section 40 must comply;
 
@@ -40,12 +40,14 @@ Division: Division 3 — Powers of enforcement
 
 (ii) the functions and duties of an energy manager; and
 
-(iii) the powers of an energy manager, being necessary powers for the discharge of his functions and duties;
+(iii) the powers of an energy manager, being necessary powers for the discharge of his or her functions and duties;
 
 (i) prescribing any forms for use under this Part;
 
 (j) prescribing any fees and charges payable for the purposes of this Part;
 
 (k) prescribing any other matter which is required or permitted to be prescribed to give effect to this Part.
+
+[24/2017]
 
 (3) The Transport Minister may, in making any regulations under this section, provide that any contravention of any of the provisions of such regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both.

@@ -1,8 +1,9 @@
 # 22. Registrable corporation
-Part: PART III ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Energy labelling and minimum performance standards for registrable goods
-Division: Division 2 — Energy management practices for corporations
+Part: PART 3 ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT) Division 1 — Measures for goods Subdivision (1) — Interpretation
+Division: Division 2 — Measures for business activities and premises Subdivision (1) — Interpretation
+Subdivision: Subdivision (2) — Registration of corporations
 
-(1) The Minister may, after consultation with the Agency, by order published in the Gazette —
+(1) The Minister may, after consultation with the Agency, by order in the Gazette —
 
 (a) declare any qualifications by which a corporation qualifies as a registrable corporation; and
 

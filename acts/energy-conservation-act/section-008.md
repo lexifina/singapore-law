@@ -1,7 +1,7 @@
 # 8. Public servants
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-Each of the following persons shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224):
+Each of the following persons is deemed to be a public servant for the purposes of the Penal Code 1871:
 
 (a) the Director-General and every authorised officer appointed under section 6(2);
 

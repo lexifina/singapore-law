@@ -1,12 +1,12 @@
 # 49. Energy efficiency improvement plans
-Part: PART IV ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
+Part: PART 4 ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
 Division: Division 2 — Energy management practices for transport facility operators
 
-(1) Unless granted a waiver under subsection (3), a transport facility operator shall prepare and submit to the appropriate sector regulator, in accordance with subsection (2) and such other requirements as may be prescribed, an energy efficiency improvement plan for a prescribed period in respect of any business activity or premises over which the transport facility operator has operational control.
+(1) Unless granted a waiver under subsection (3), a transport facility operator must prepare and submit to the appropriate sector regulator, in accordance with subsection (2) and any other prescribed requirements, an energy efficiency improvement plan for a prescribed period in respect of any business activity or premises over which the transport facility operator has operational control.
 
-(2) An energy efficiency improvement plan shall —
+(2) An energy efficiency improvement plan must —
 
-(a) contain such information (including information on the implementation of any part of the plan) as may be prescribed; and
+(a) contain the information (including information on the implementation of any part of the plan) prescribed; and
 
 (b) be submitted at the prescribed intervals and within the prescribed period.
 
@@ -14,7 +14,7 @@ Division: Division 2 — Energy management practices for transport facility oper
 
 (4) The sector regulator may, in respect of any incomplete energy efficiency improvement plan, in writing direct the transport facility operator, within the time specified in the direction —
 
-(a) to carry out such rectifications or re-computation as the sector regulator may require; and
+(a) to carry out any rectification or re-computation that the sector regulator requires; and
 
 (b) to re-submit the energy efficiency improvement plan.
 

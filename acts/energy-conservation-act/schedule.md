@@ -4,16 +4,20 @@ Sections 71 and 76(1)
 
 PERSONS TO WHOM INFORMATION MAY BE DISCLOSED
 
-1. The Minister charged with the responsibility for the environment and water resources, and any member, officer or employee of the Agency.
+1. The Minister charged with responsibility for energy efficiency and conservation, and any public officer assisting the Minister in the performance of any official duties of that Minister.
 
 2. The Minister charged with the responsibility for transport and any member, officer or employee of the sector regulators.
 
-3. The Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act (Cap. 92B), and any officer or employee of that Authority authorised by the Chief Executive of that Authority for the purposes of section 71.
+3. The Minister charged with responsibility for coordinating policies associated with climate change, and any public officer assisting the Minister in the performance of any official duties of that Minister.
 
-4. The Economic Development Board established under the Economic Development Board Act (Cap. 85), and any officer or employee of that Board authorised by the chief executive officer of that Board for the purposes of section 71.
+4. Any member, officer or employee of the Agency.
 
-5. The Public Utilities Board continued under section 3 of the Public Utilities Act (Cap. 261), and any officer or employee of that Board authorised by the Chief Executive of that Board for the purposes of section 71.
+5. Any member, officer or employee of the Energy Market Authority of Singapore established by the Energy Market Authority of Singapore Act 2001.
 
-3 Date of commencement of Division 1 of Part IV of the Energy Conservation Act 2012 (Act 11 of 2012).
+6. Any member, officer or employee of the Economic Development Board established by the Economic Development Board Act 1961.
 
-4 Date of commencement of section 80(1) of the Energy Conservation Act 2012.
+7. Any member, officer or employee of the Public Utilities Board continued under section 3 of the Public Utilities Act 2001.
+
+8. Any member, officer or employee of the Jurong Town Corporation established by the Jurong Town Corporation Act 1968.
+
+[S 771/2021]

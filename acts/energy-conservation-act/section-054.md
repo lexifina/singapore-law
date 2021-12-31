@@ -1,5 +1,5 @@
 # 54. Powers of transport sector authorised officers in monitoring compliance
-Part: PART IV ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
+Part: PART 4 ENERGY CONSERVATION MEASURES FOR TRANSPORT SECTOR Division 1 — Fuel economy labelling, etc., of motor vehicles
 Division: Division 3 — Powers of enforcement
 
 (1) A transport sector authorised officer of the appropriate sector regulator may exercise all or any of the following powers in relation to premises under section 53:
