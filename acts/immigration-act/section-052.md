@@ -1,8 +1,6 @@
-# 52. Person registered under Enlistment Act
-Part: PART VI MISCELLANEOUS
+# 52. Person registered under Enlistment Act 1970
+Part: PART 6 MISCELLANEOUS
 
-(1) An immigration officer may prevent any person from leaving Singapore and require him to surrender his passport to him if he has reason to believe that that person is a person subject to the Enlistment Act (Cap. 93) who has been registered under section 3 of that Act or is deemed to be registered or is liable to be registered under that Act and is attempting to leave Singapore without an exit permit issued by the proper authority.
+(1) An immigration officer may prevent any person from leaving Singapore and require the person to surrender the person’s passport to the immigration officer if the immigration officer has reason to believe that the person is a person subject to the Enlistment Act 1970 who has been registered under section 3 of that Act or is deemed to be registered or is liable to be registered under that Act and is attempting to leave Singapore without an exit permit issued by the proper authority.
 
-[13/77]
-
-(2) For the purposes of this section, ‘‘person subject to the Enlistment Act’’ and ‘‘proper authority’’ shall have the meanings assigned to them by the Enlistment Act (Cap. 93).
+(2) In this section, “person subject to the Enlistment Act 1970” and “proper authority” have the meanings given by the Enlistment Act 1970.

@@ -1,175 +1,25 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY IMMIGRATION ACT 1959
 
-IMMIGRATION ACT (CHAPTER 133)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Immigration Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. M. Ordinance 12 of 1959 — Immigration Ordinance 1959
+LEGISLATIVE HISTORY DETAILS PART 1 ALIENS ORDINANCE (CHAPTER 90, 1936 REVISED EDITION) 1. Ordinance 18 of 1932 — Aliens Ordinance, 1932 Bill : G.N. No. 1311/1932 First Reading : 8 August 1932 Second Reading : 19 October 1932 Notice of Amendments : 19 October 1932 Third Reading : 5 December 1932 Commencement : 1 January 1933 2. Ordinance 5 of 1934 — Aliens (Amendment) Ordinance, 1934 Bill : G.N. No. 2212/1933 First Reading : 4 December 1933 Second Reading : 12 February 1934 Notice of Amendments : 12 February 1934 Third Reading : 12 February 1934 Commencement : 23 February 1934 3. Ordinance 26 of 1935 — The Aliens (Amendment) Ordinance, 1935 Bill : G.N. No. 1070/1935 First Reading : 17 June 1935 Second and Third Readings : 26 August 1935 Commencement : 6 September 1935 4. 1936 Revised Edition — Aliens Ordinance (Chapter 90) Operation : 1 September 1936 5. Ordinance 3 of 1938 — Aliens (Amendment) Ordinance, 1938 Bill : G.N. No. 3591/1937 First Reading : 15 December 1937 Second and Third Readings : 14 February 1938 Commencement : 7 March 1938 6. Ordinance 32 of 1939 — Aliens (Amendment) Ordinance, 1939 Bill : G.N. No. 1618/1939 First Reading : 12 June 1939 Second Reading : 28 August 1939 Notice of Amendments : 28 August 1939 Third Reading : 28 August 1939 Commencement : 16 September 1939
 
-Date of commencement : 1 May 1959
+PART 2 PASSENGERS RESTRICTION ORDINANCE (CHAPTER 93, 1936 REVISED EDITION) 7. Ordinance IX of 1906 — The Exclusion Ordinance 1906 Bill : G.N. No. 1542/1905 First Reading : 22 December 1905 Second Reading : 19 January 1906 Notice of Amendments : 2 March 1906 Third Reading : 16 March 1906 Commencement : 16 March 1906 Note: This Ordinance was read and construed as one with the Indian Act XLI of 1850.
 
-2. Ordinance 73 of 1960 — Immigration (Amendment) Ordinance 1960
+8. Ordinance 14 of 1919 — Passengers Restriction Ordinance, 1919 Bill : G.N. No. 223/1919 First Reading : 17 February 1919 Second Reading : 10 March 1919 Notice of Amendments : 31 March 1919 Third Reading : 31 March 1919 Commencement : 4 April 1919 Note: This Ordinance repealed the Indian Act XLI of 1850, the Exclusion Ordinance 1906 (Ordinance IX of 1906) and sections 3, 4 and 13 of the Registration of Aliens Ordinance 1917 (Ordinance 2 of 1917).
 
-Date of First Reading : 29 November 1960 (Bill No. 113/60 published on 9 December 1960)
+9. 1920 Revised Edition — Ordinance No. 169 (Passengers Restriction) Operation : 28 November 1921 10. 1926 Revised Edition — Ordinance No. 169 (Passengers Restriction) Operation : 1 August 1926 11. Ordinance 1 of 1930 — Passengers Restriction (Amendment) Ordinance, 1930 Bill : G.N. No. 2337/1929 First Reading : 9 December 1929 Second Reading : 27 January 1930 Third Reading : 24 March 1930 Commencement : 15 April 1930 12. Ordinance 1 of 1932 — Passengers Restriction (Amendment) Ordinance, 1932 Bill : G.N. No. 2258/1931 First Reading : 7 December 1931 Second and Third Readings : 26 January 1932 Commencement : 17 February 1932 13. Ordinance 13 of 1934 — The Passengers Restriction (Amendment) Ordinance, 1934 Bill : G.N. No. 245/1934 First Reading : 12 February 1934 Second and Third Readings : 16 April 1934 Commencement : 12 May 1934 14. 1936 Revised Edition — Passengers Restriction Ordinance (Chapter 93) Operation : 1 September 1936 15. Ordinance 18 of 1937 — Passengers Restriction (Amendment) Ordinance, 1937 Bill : G.N. No. 2066/1937 First and Second Readings : 30 August 1937 Notice of Amendments : 30 August 1937 Third Reading : 30 August 1937 Commencement : 4 September 1937
 
-Date of Second and Third Readings : 29 December 1960
+PART 3 IMMIGRATION ORDINANCE (CHAPTER 102, 1955 REVISED EDITION) 16. Ordinance 5 of 1952 — Immigration Ordinance, 1952 Bill : G.N. No. S 113/1951 First Reading : 24 April 1951 Select Committee Report : Council Paper No. 114 of 1951 Second Reading : 20 February 1952 Notice of Amendments : 20 February 1952 Third Reading : 20 February 1952 Commencement : 1 August 1953 17. 1955 Revised Edition — Immigration Ordinance (Chapter 102) Operation : 1 July 1956 18. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 19. Ordinance 22 of 1959 — Immigration (Amendment) Ordinance, 1959 Bill : 202/1959 First Reading : 11 February 1959 Second and Third Readings : 3 March 1959 Commencement : 1 May 1959 20. G.N. No. S 223/1959 — Singapore Constitution (Modification of Laws) Order, 1959 Commencement : 3 June 1959 21. Ordinance 62 of 1959 — State Advocate-General (Transfer of Powers) Ordinance, 1959 (Amendments made by section 5 read with the Schedule to the above Ordinance) Bill : 22/1959 First Reading : 13 August 1959 Second and Third Readings : 2 September 1959 Commencement : 11 September 1959 (section 5 read with the Schedule) 22. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 23. Ordinance 73 of 1960 — Immigration (Amendment) Ordinance, 1960 Bill : 113/1960 First Reading : 29 November 1960 Second and Third Readings : 29 December 1960 Commencement : 1 April 1961
 
-Date of commencement : 1 April 1961
+PART 4 IMMIGRATION ACT 1959 (2020 REVISED EDITION) 24. M. Ordinance 12 of 1959 — Immigration Ordinance, 1959 Commencement : 1 May 1959 Application : 16 September 1963 Note: This Ordinance was extended to Singapore with amendments by the Immigration Act, 1963 (M. Act 27 of 1963) on 16 September 1963.
 
-3. M. Act 6 of 1961 — Immigration (Amendment) Act 1961
+25. M. Act 27 of 1963 — Immigration Act, 1963 Commencement : 16 September 1963 Note: This Act repealed the Immigration Ordinance (Chapter 102, 1955 Revised Edition) and extended the Federation of Malaya Immigration Ordinance, 1959 (Ordinance 12 of 1959) with amendments to Singapore.
 
-Date of commencement : 1 April 1961
+26. Act 1 of 1966 — Immigration (Amendment) Act, 1966 Bill : 70/1966 First Reading : 31 December 1965 Second and Third Readings : 23 February 1966 Commencement : 4 March 1966 27. G.N. No. S 145/1966 — Modification of Laws (Immigration) Order, 1966 Commencement : 22 July 1966 28. 1966 Reprint — Immigration Ordinance, 1959 Reprint : 27 July 1966 29. Act 12 of 1970 — Immigration (Amendment) Act, 1970 Bill : 26/1969 First Reading : 22 December 1969 Second and Third Readings : 27 January 1970 Commencement : 19 June 1970 30. 1970 Revised Edition — Immigration Act (Chapter 81) Operation : 1 April 1971 31. Act 21 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act, 1973 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 16/1973 First Reading : 7 March 1973 Second and Third Readings : 20 March 1973 Commencement : 6 April 1973 (section 2 read with the Schedule) 32. Act 60 of 1973 — Immigration (Amendment) Act, 1973 Bill : 52/1973 First Reading : 28 August 1973 Second Reading : 30 November 1973 Notice of Amendments : 30 November 1973 Third Reading : 30 November 1973 Commencement : 1 March 1974 33. G.N. No. S 353/1975 — Metrication (Immigration Act) Order, 1975 Commencement : 1 January 1976 34. G.N. No. S 68/1976 — The Metrication (Immigration Act) Order, 1975 Commencement : 1 January 1976 35. Act 13 of 1977 — Immigration (Amendment) Act, 1977 Bill : 15/1977 First Reading : 2 September 1977 Second and Third Readings : 9 November 1977 Commencement : 16 December 1977 36. Act 35 of 1984 — Immigration (Amendment) Act 1984 Bill : 30/1984 First Reading : 19 October 1984 Second and Third Readings : 20 November 1984 Commencement : 7 December 1984 37. 1985 Revised Edition — Immigration Act (Chapter 133) Operation : 30 March 1987 38. G.N. No. S 22/1989 — Revised Edition of the Laws (Rectification) Order 1989 Operation : 30 March 1987 39. Act 6 of 1989 — Immigration (Amendment) Act 1989 Bill : 8/1989 First Reading : 16 January 1989 Second and Third Readings : 26 January 1989 Commencement : 31 March 1989 40. Act 34 of 1989 — Immigration (Amendment No. 2) Act 1989 Bill : 36/1989 First Reading : 4 August 1989 Second and Third Readings : 31 August 1989 Commencement : 13 October 1989 41. Act 38 of 1993 — Immigration (Amendment) Act 1993 Bill : 32/1993 First Reading : 12 October 1993 Second and Third Readings : 10 November 1993 Commencement : 22 April 1994 42. 1995 Revised Edition — Immigration Act (Chapter 133) Operation : 15 March 1995 43. G.N. No. S 227/1995 — Revised Edition of the Laws (Rectification) Order 1995 Operation : 15 March 1995 44. Act 41 of 1995 — Immigration (Amendment) Act 1995 Bill : 33/1995 First Reading : 27 September 1995 Second and Third Readings : 1 November 1995 Commencement : 1 March 1996 45. 1997 Revised Edition — Immigration Act (Chapter 133) Operation : 20 December 1997 46. Act 34 of 1998 — Immigration (Amendment) Act 1998 Bill : 35/1998 First Reading : 31 July 1998 Second Reading : 4 September 1998 Notice of Amendments : 4 September 1998 Third Reading : 4 September 1998 Commencement : 5 October 1998 47. Act 4 of 2003 — Customs (Amendment) Act 2003 (Amendments made by section 26 read with item (12) of the Schedule to the above Act) Bill : 6/2003 First Reading : 10 March 2003 Second and Third Readings : 21 March 2003 Commencement : 1 April 2003 (section 26 read with item (12) of the Schedule) 48. Act 53 of 2004 — Immigration (Amendment) Act 2004 Bill : 51/2004 First Reading : 19 October 2004 Second and Third Readings : 16 November 2004 Commencement : 15 January 2005 49. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 6 read with item (7) of the Fourth Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 (section 6 read with item (7) of the Fourth Schedule) 50. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 10 of the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 10) 51. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 (Amendments made by section 28 read with item (3) of the Schedule to the above Act) Bill : 17/2007 First Reading : 9 April 2007 Second and Third Readings : 22 May 2007 Commencement : 1 July 2007 (section 28 read with item (3) of the Schedule) 52. Act 33 of 2007 — Passports Act 2007 (Amendments made by section 62 read with the Second Schedule to the above Act) Bill : 21/2007 First Reading : 21 May 2007 Second and Third Readings : 16 July 2007 Commencement : 1 December 2007 (section 62 read with the Second Schedule) 53. 2008 Revised Edition — Immigration Act (Chapter 133) Operation : 1 January 2008 54. Act 5 of 2010 — Moneylenders (Amendment) Act 2010 (Amendments made by section 13 of the above Act) Bill : 23/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 11 February 2010 (section 13) 55. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 47 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Commencement : 2 January 2011 (section 430 read with item 47 of the Sixth Schedule) 56. Act 18 of 2012 — Immigration (Amendment) Act 2012 Bill : 16/2012 First Reading : 9 July 2012 Second and Third Readings : 13 August 2012 Commencement : 19 December 2012 57. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 10 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 10) 58. Act 7 of 2016 — Women's Charter (Amendment) Act 2016 (Amendments made by section 47 of the above Act) Bill : 6/2016 First Reading : 26 January 2016 Second and Third Readings : 29 February 2016 Commencement : 1 October 2016 (section 47) 59. G.N. No. S 703/2016 — Immigration Act (Amendment of Schedule) Order 2016 Commencement : 1 January 2017 60. Act 6 of 2018 — Immigration (Amendment) Act 2018 Bill : 46/2017 First Reading : 6 November 2017 Second and Third Readings : 8 January 2018 Commencement : 1 April 2018 61. Act 53 of 2018 — Civil Defence and Other Matters Act 2018 (Amendments made by Part 2 of the above Act) Bill : 44/2018 First Reading : 1 October 2018 Second and Third Readings : 20 November 2018 Commencement : 1 February 2019 (section 25) 13 May 2019 (section 26) 62. Act 15 of 2019 — Criminal Law Reform Act 2019 (Amendments made by section 176 of the above Act) Bill : 6/2019 First Reading : 11 February 2019 Second Reading : 6 May 2019 Notice of Amendments : 6 May 2019 Third Reading : 6 May 2019 Commencement : 1 January 2020 (section 176)
 
-4. M. Act 27 of 1963 — Immigration Act 1963
+Abbreviations
 
-Date of commencement : 16 September 1963
-
-5. Act 1 of 1966 — Immigration (Amendment) Act 1966
-
-Date of First Reading : 31 December 1965 (Bill No. 70/66 published on 3 January 1966)
-
-Date of Second and Third Readings : 23 February 1966
-
-Date of commencement : 4 March 1966
-
-6. 1966 Reprint — Immigration Ordinance 1959
-
-Date of commencement : 27 July 1966
-
-7. Act 12 of 1970 — Immigration (Amendment) Act 1970
-
-Date of First Reading : 22 December 1969 (Bill No. 26/69 published on 26 December 1969)
-
-Date of Second and Third Readings : 27 January 1970
-
-Date of commencement : 19 June 1970 8. 1970 Revised Edition — Immigration Act (Chapter 81)
-
-Date of operation : 1 April 1971
-
-9. Act 21 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973
-
-Date of First Reading : 7 March 1973 (Bill No. 16/73 published on 9 March 1973)
-
-Date of Second and Third Readings : 20 March 1973
-
-Date of commencement : 6 April 1973
-
-10. Act 60 of 1973 — Immigration (Amendment) Act 1973
-
-Date of First Reading : 28 August 1973 (Bill No. 52/73 published on 31 August 1973)
-
-Date of Second and Third Readings : 30 November 1973
-
-Date of commencement : 1 March 1974
-
-11. Act 13 of 1977 — Immigration (Amendment) Act 1977
-
-Date of First Reading : 2 September 1977 (Bill No. 15/77 published on 7 September 1977)
-
-Date of Second and Third Readings : 9 November 1977
-
-Date of commencement : 16 December 1977
-
-12. Act 35 of 1984 — Immigration (Amendment) Act 1984
-
-Date of First Reading : 19 October 1984 (Bill No. 30/84 published on 27 October 1984)
-
-Date of Second and Third Readings : 20 November 1984
-
-Date of commencement : 7 December 1984
-
-13. 1985 Revised Edition — Immigration Act (Chapter 133)
-
-Date of operation : 30 March 1987 14. Act 6 of 1989 — Immigration (Amendment) Act 1989
-
-Date of First Reading : 16 January 1989 (Bill No. 8/89 published on 16 January 1989)
-
-Date of Second and Third Readings : 26 January 1989
-
-Date of commencement : 31 March 1989
-
-15. Act 34 of 1989 — Immigration (Amendment No. 2) Act 1989
-
-Date of First Reading : 4 August 1989 (Bill No. 36/89 published on 5 August 1989)
-
-Date of Second and Third Readings : 31 August 1989
-
-Date of commencement : 13 October 1989
-
-16. Act 38 of 1993 — Immigration (Amendment) Act 1993
-
-Date of First Reading : 12 October 1993 (Bill No. 32/93 published on 13 October 1993)
-
-Date of Second and Third Readings : 10 November 1993
-
-Date of commencement : 22 April 1994
-
-17. 1995 Revised Edition — Immigration Act (Chapter 133)
-
-Date of operation : 15 March 1995
-
-18. Act 41 of 1995 — Immigration (Amendment) Act 1995
-
-Date of First Reading : 27 September 1995 (Bill No. 33/95 published on 28 September 1995)
-
-Date of Second and Third Readings : 1 November 1995
-
-Date of commencement : 1 March 1996
-
-19. 1997 Revised Edition — Immigration Act (Chapter 133)
-
-Date of operation : 20 December 1997 20. Act 34 of 1998 — Immigration (Amendment) Act 1998
-
-Date of First Reading : 31 July 1998 (Bill No. 35/98 published on 1 August 1998)
-
-Date of Second and Third Readings : 4 September 1998
-
-Date of commencement : 5 October 1998
-
-21. Act 4 of 2003 — Customs (Amendment) Act 2003 (Consequential amendments made to Act by)
-
-Date of First Reading : 10 March 2003 (Bill No. 6/2003 published on 11 March 2003)
-
-Date of Second and Third Readings : 21 March 2003
-
-Date of commencement : 1 April 2003
-
-22. Act 53 of 2004 — Immigration (Amendment) Act 2004
-
-Date of First Reading : 19 October 2004 (Bill No. 51/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 16 November 2004
-
-Date of commencement : 15 January 2005
-
-23. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006 (Fourth Schedule — Amendment of Immigration Act)
-
-24. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 1 March 2007 (Section 10 —
-
-Amendment of Immigration Act) 25. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 9 April 2007 (Bill No. 17/2007 published on 10 April 2007)
-
-Date of Second and Third Readings : 22 May 2007
-
-Date of commencement : 1 July 2007
-
-26. Act 33 of 2007 — Passports Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 May 2007 (Bill No. 21/2007 published on 22 May 2007)
-
-Date of Second and Third Readings : 16 July 2007
-
-Date of commencement : 1 December 2007
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
