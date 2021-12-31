@@ -12,14 +12,10 @@
 
 (6) The Court may, if it thinks fit, either before or after or without service of the prohibition order on any person, issue a warrant authorising any police officer not below the rank of sergeant to enter and search any premises specified in the order, and to seize and carry away every prohibited publication there found, and to use such force as may be necessary for the purpose. A copy of the prohibition order and of the search warrant shall be left in a conspicuous position at every building or place so entered.
 
-[21/73]
-
 (7) The owner of any prohibited publication delivered or seized under this section may, at any time within 14 days after the delivery or seizure, apply to the Court by originating summons for the discharge of the prohibition order, and if the Court, on the hearing of the application, decides that the prohibition order ought not to have been made, it shall discharge the order and shall order the prohibited publication delivered by or seized from the applicant to be returned to him.
-
-[42/2005]
 
 (8) Every prohibited publication delivered or seized under this section with respect to which an application under subsection (7) is not filed within the time aforesaid or which is not ordered to be returned to the owner shall be deemed to be forfeited to the Government.
 
-[42/2005]
+(9) For the purposes of this section, “Court” means the General Division of the High Court.
 
-(9) For the purposes of this section, “Court” means the High Court.
+[40/2019]

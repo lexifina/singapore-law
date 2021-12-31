@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Sedition Act.
+This Act is the Sedition Act 1948.

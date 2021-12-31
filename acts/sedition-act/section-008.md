@@ -2,8 +2,4 @@
 
 (1) A Magistrate may issue a warrant empowering any police officer, not below the rank of sergeant, to enter upon any premises where any seditious publication is known or is reasonably suspected to be and to search therein for any seditious publication.
 
-[21/73]
-
 (2) Whenever it appears to any police officer, not below the rank of sergeant, that there is reasonable cause to believe that in any premises there is concealed or deposited any seditious publication, and he has reasonable grounds for believing that, by reason of the delay which would be entailed by obtaining a search warrant, the object of the search is likely to be frustrated, he may enter and search the premises as if he were empowered to do so by a warrant issued under subsection (1).
-
-[21/73]

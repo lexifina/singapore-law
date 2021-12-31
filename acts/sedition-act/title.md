@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SEDITION ACT
-(CHAPTER 290)
-(Original Enactment: M Ordinance 14 of 1948)
-REVISED EDITION 2013
-(31st August 2013)
+SEDITION ACT 1948
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act for the punishment of sedition.
 
-[28th May 1964]
+[28 May 1964]
