@@ -1,5 +1,6 @@
-# 17. Sanction of Public Prosecutor
-Part: PART III RESTRAINING ORDERS
-Heading: 2 CAP. 167A Religious Harmony 2001 Ed.
+# 17. Consent of Public Prosecutor
+Part: PART 3 RESTRAINING ORDERS
 
-No court shall take cognizance of any offence under this Act except with the consent of the Public Prosecutor.
+A court is not to try any offence under this Act except with the consent of the Public Prosecutor.
+
+[15/2010]

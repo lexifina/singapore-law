@@ -1,8 +1,7 @@
-# 19. Regulations
-Part: PART III RESTRAINING ORDERS
-Heading: 2 CAP. 167A Religious Harmony 2001 Ed.
+# 19. Regulations 1
+Part: PART 3 RESTRAINING ORDERS
 
-The Minister may make such regulations as appear to him necessary or expedient for the purposes of carrying out the provisions of this Act and may, in particular, provide for —
+The Minister may make any regulations that appear to the Minister necessary or expedient for the purposes of carrying out the provisions of this Act and may, in particular, provide for —
 
 (a) the procedures, conduct and meetings of the Council;
 

@@ -1,22 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-MAINTENANCE OF RELIGIOUS HARMONY ACT
-(CHAPTER 167A)
-Act
-26 of 1990
-Amended by
-11 of 1991
-S 133/92
-REVISED EDITION 2001
-(31st July 2001)
+MAINTENANCE OF RELIGIOUS
+HARMONY ACT 1990
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2001
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the maintenance of religious harmony and for establishing a Presidential Council for Religious Harmony and for matters connected therewith.
 
-[31st March 1992]
+[31 March 1992]

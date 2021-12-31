@@ -1,4 +1,4 @@
 # 15. Publication
-Part: PART III RESTRAINING ORDERS
+Part: PART 3 RESTRAINING ORDERS
 
-The Minister shall cause an order made under section 8 or 9, any revocation, variation, extension or confirmation thereof or any recommendations of the Council to be published in the Gazette.
+The Minister must cause an order made under section 8 or 9, any revocation, variation, extension or confirmation of the order or any recommendations of the Council to be published in the Gazette.
