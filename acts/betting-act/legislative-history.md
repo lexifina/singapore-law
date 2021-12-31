@@ -1,67 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BETTING ACT 1960
 
-BETTING ACT (CHAPTER 21)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Betting Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Ordinance 30 of 1960 — Betting Ordinance 1960
+LEGISLATIVE HISTORY DETAILS PART 1 BETTING ORDINANCE (CHAPTER 113, 1955 REVISED EDITION) 1. Ordinance XVI of 1912 — The Betting Ordinance 1912 Bill : G.N. No. 1160/1912 First Reading : 25 October 1912 Second Reading : 1 November 1912 Notice of Amendments : 13 December 1912 Third Reading : 13 December 1912 Commencement : 23 December 1912 2. Ordinance V of 1913 — The Betting Ordinance 1912 Amendment Ordinance 1913 Bill : G.N. No. 301/1913 First Reading : 28 March 1913 Second Reading : 4 April 1913 Third Reading : 18 April 1913 Commencement : 26 April 1913 3. 1920 Revised Edition — Ordinance No. 133 (Betting) Operation : 28 November 1921 4. 1926 Revised Edition — Ordinance No. 133 (Betting) Operation : 1 August 1926 5. Ordinance 15 of 1934 — Betting (Amendment) Ordinance, 1934 Bill : G.N. No. 194/1934 First Reading : 12 February 1934 Second Reading : 17 April 1934 Notice of Amendments : 17 April 1934 Third Reading : 17 April 1934 Commencement : 14 May 1934 6. Ordinance 24 of 1935 — The Betting (Amendment) Ordinance, 1935 Bill : G.N. No. 415/1935 First Reading : 15 April 1935 Second Reading : 17 June 1935 Notice of Amendments : 17 June 1935 Third Reading : 17 June 1935 Commencement : 2 July 1935 7. 1936 Revised Edition — Betting Ordinance (Chapter 29) Operation : 1 September 1936 8. Ordinance 36 of 1951 — Betting (Amendment) Ordinance, 1951 Bill : G.N. No. S 325/1951 First Reading : 21 August 1951 Second and Third Readings : 18 September 1951 Commencement : 1 January 1952 9. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 5 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 5 of the Schedule) 10. 1955 Revised Edition — Betting Ordinance (Chapter 113) Operation : 1 July 1956 11. Ordinance 7 of 1958 — Betting (Amendment) Ordinance, 1958 Bill : 145/1958 First Reading : 22 April 1958 Second and Third Readings : 11 June 1958 Commencement : 4 July 1958 12. Ordinance 71 of 1959 — Transfer of Powers Ordinance, 1959 (Amendments made by section 4 read with the First Schedule to the above Ordinance) Bill : 30/1959 First Reading : 22 September 1959 Second and Third Readings : 11 November 1959 Commencement : 20 November 1959 (section 4 read with the First Schedule)
 
-Date of First Reading : 6 April 1960 (Bill No. 74/60)
+PART 2 BETTING ACT 1960 (2020 REVISED EDITION) 13. Ordinance 30 of 1960 — Betting Ordinance, 1960 Bill : 74/1960 First Reading : 6 April 1960 Second Reading : 12 May 1960 Notice of Amendments : 12 May 1960 Third Reading : 12 May 1960 Commencement : 20 May 1960 14. 1970 Revised Edition — Betting Act (Chapter 95) Operation : 15 April 1971 15. Act 21 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act, 1973 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 16/1973 First Reading : 7 March 1973 Second and Third Readings : 20 March 1973 Commencement : 6 April 1973 (section 2 read with the Schedule) 16. Act 8 of 1986 — Betting (Amendment) Act 1986 Bill : 15/1985 First Reading : 31 October 1985 Second and Third Readings : 10 January 1986 Commencement : 25 February 1986 17. 1985 Revised Edition — Betting Act (Chapter 21) Operation : 30 March 1987 18. Act 43 of 1999 — Telecommunications Act 1999 (Amendments made by section 76(1) of the above Act) Bill : 33/1999 First Reading : 11 October 1999 Second Reading : 23 November 1999 Notice of Amendments : 23 November 1999 Third Reading : 23 November 1999 Commencement : 1 December 1999 (section 76(1)) 19. Act 13 of 2004 — Singapore Totalisator Board (Amendment) Act 2004 (Amendments made by section 6 of the above Act) Bill : 8/2004 First Reading : 27 February 2004 Second and Third Readings : 20 April 2004 Commencement : 1 May 2004 (section 6) 20. Act 12 of 2008 — Singapore Totalisator Board (Amendment) Act 2008 (Amendments made by section 18 read with item (1) of the Schedule to the above Act) Bill : 7/2008 First Reading : 26 May 2008 Second and Third Readings : 21 July 2008 Commencement : 27 December 2010 (section 18 read with item (1) of the Schedule) 21. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 7 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 7 of the Sixth Schedule) 22. 2011 Revised Edition — Betting Act (Chapter 21) Operation : 31 December 2011 23. Act 34 of 2014 — Remote Gambling Act 2014 (Amendments made by section 43(1) of the above Act) Bill : 23/2014 First Reading : 8 September 2014 Second Reading : 7 October 2014 Notice of Amendments : 7 October 2014 Third Reading : 7 October 2014 Commencement : 2 February 2015 (section 43(1)) 24. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 21(2) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 21(2))
 
-Date of Second and Third Readings : 12 May 1960
+Abbreviations
 
-Date of commencement : 20 May 1960
-
-2. 1970 Revised Edition — Betting Act (Chapter 95)
-
-Date of operation : 1 January 1970
-
-3. Act 21 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973
-
-Date of First Reading : 7 March 1973 (Bill No. 16/73 published on 9 March 1973)
-
-Date of Second and Third Readings : 20 March 1973
-
-Date of commencement : 6 April 1973
-
-4. Act 8 of 1986 — Betting (Amendment) Act 1986
-
-Date of First Reading : 31 October 1985 (Bill No. 15/85 published on 8 November 1985)
-
-Date of Second and Third Readings : 10 January 1986
-
-Date of commencement : 25 February 1986
-
-5. 1985 Revised Edition — Betting Act (Chapter 21)
-
-Date of operation : 30 March 1987
-
-6. Act 43 of 1999 — Telecommunications Act 1999 (Consequential amendments made to Act by)
-
-Date of First Reading : 11 October 1999 (Bill No. 33/99 published on 12 October 1999)
-
-Date of Second and Third Readings : 23 November 1999 Date of commencement : 1 December 1999
-
-7. Act 13 of 2004 — Singapore Totalisator Board (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 27 February 2004 (Bill No. 8/2004 published on 28 February 2004)
-
-Date of Second and Third Readings : 20 April 2004
-
-Date of commencement : 1 May 2004
-
-8. Act 12 of 2008 — Singapore Totalisator Board (Amendment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 May 2008 (Bill No. 7/2008 published on 26 May 2008)
-
-Date of Second and Third Readings : 21 July 2008
-
-Date of commencement : 27 December 2010
-
-9. Act 15 of 2010 — Criminal Procedure Code 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 April 2010 (Bill No. 11/2010 published on 26 April 2010)
-
-Date of Second and Third Readings : 19 May 2010
-
-Date of commencement : 2 January 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Betting Act.
+This Act is the Betting Act 1960.

@@ -8,7 +8,7 @@
 
 “bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees or any other person or organisation operating or conducting a totalisator or pari-mutuel or any other system or method of cash or credit betting authorised under section 22;
 
-“common betting-house” means —
+“common betting house” means —
 
 (a) any place kept or used for betting or wagering on any event or contingency of or relating to any horse-race or other sporting event to which the public or any class of the public has or may have access;
 
@@ -16,7 +16,7 @@
 
 (c) any place used by a bookmaker for the purpose of receiving or negotiating bets or wagers on any such event or contingency as aforesaid whether the bets or wagers reach the bookmaker by the hand of the person placing the bet or his agent or the bookmaker’s agent or through the telephone or by post or by telegram or by any other means;
 
-“equipment” has the same meaning as in the Telecommunications Act (Cap. 323);
+“equipment” has the same meaning as in the Telecommunications Act 1999;
 
 “penciller” means a person who helps a bookmaker to keep his accounts or record of bets in connection with horse-races;
 
@@ -26,9 +26,7 @@
 
 “sporting event” includes any race, fight, game, sport or exercise;
 
-“telecommunication system” has the same meaning as in the Telecommunications Act.
-
-[8/86; 43/99; 13/2004]
+“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
 
 (2) A place shall be deemed to be used for a purpose if it is used for that purpose on only one occasion.
 
@@ -36,4 +34,4 @@
 
 (4) Every person who demises or lets for hire a place shall be deemed to be the owner thereof.
 
-(5) A common betting-house shall be deemed to be a common nuisance and contrary to law.
+(5) A common betting house shall be deemed to be a common nuisance and contrary to law.
