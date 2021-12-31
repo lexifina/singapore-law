@@ -1,3 +1,0 @@
-# 25. Liability of proprietor for acts of employees
-
-For the purposes of this Act or any of its rules, every proprietor shall be liable for every act, omission, neglect or default of any agent or employee employed by him and acting within the scope of his employment, as fully and effectually as if the act, omission, neglect or default were done or committed by the proprietor; but so that nothing in this section shall affect the liability of the agent or employee, and provided that the liability of the proprietor shall not extend to imprisonment unless he is privy to the offence.

@@ -1,3 +1,0 @@
-# 10. Duty not paid, short paid, or erroneously refunded
-
-Whenever for any reason entertainments duty payable under this Act has not been paid, or has been short paid, or the whole or any part of the entertainments duty, after having been paid, has, owing to any cause, been erroneously refunded, the person liable to pay such duty, or the person to whom the refund has been erroneously made, as the case may be, shall pay the entertainments duty not paid or short paid, or the amount erroneously refunded to him, on demand being made by the Comptroller, within 6 months of the date of the non-payment, or short payment, or erroneous refund, as the case may be, without prejudice to any other remedy for the recovery of the amount unpaid or erroneously refunded.

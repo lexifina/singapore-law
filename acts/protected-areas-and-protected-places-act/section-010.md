@@ -1,5 +1,0 @@
-# 10. Defensive measures at protected areas and protected places
-
-(1) It shall be lawful for the Minister to authorise the taking of such steps as he may consider necessary for the protection of any protected area or protected place, and such steps may extend to the taking of defensive measures which involve or may involve danger to the life of any person entering or attempting to enter a protected area or protected place.
-
-(2) Where any measures such as are referred to in subsection (1) are adopted, the Commissioner of Police or any person so authorised by the Minister in that behalf shall cause such precautions to be taken, including the prominent display of warning notices, as he considers reasonably necessary to prevent inadvertent or accidental entry into any such protected area or protected place; and where such precautions have been duly taken, no person shall be entitled to compensation or damages in respect of any injuries received or death caused as a result of any unauthorised entry into any such protected area or protected place.

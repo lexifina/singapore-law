@@ -1,9 +1,0 @@
-# 5. Protected places
-
-(1) If as respects any premises it appears to the Minister to be necessary or expedient that special precautions should be taken to prevent the entry into the premises of unauthorised persons, he may by order declare those premises to be a protected place for the purposes of this Act; and so long as the order is in force, no person shall be in those premises unless he is in possession of a pass-card or permit issued by such authority or person as may be specified in the order, or has received the permission of an authorised officer on duty at those premises to enter those premises.
-
-(2) Where, in pursuance of this section, any person is granted permission to be in a protected place, that person shall, while acting under such permission, comply with such directions for regulating his conduct as may be given by the authority or person granting the permission; and an authorised officer, or any person authorised in that behalf by the occupier of the premises, may search any person entering, or seeking to enter, or being in, a protected place, and may detain any such person for the purpose of searching him.
-
-(3) If any person is in a protected place in contravention of this section, or while in such a place the person fails to comply with any direction given under this section, then, without prejudice to any proceedings which may be taken against him, he may be removed from the place by an authorised officer or any person authorised in that behalf by the occupier of the premises.
-
-(4) Pass-cards or permits issued under subsection (1) shall be in such form as may be specified in the order made under that subsection, or in such form as the authority or other person specified in the order may determine.

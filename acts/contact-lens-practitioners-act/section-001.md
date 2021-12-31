@@ -1,3 +1,0 @@
-# 1. Short title
-
-This Act may be cited as the Contact Lens Practitioners Act.

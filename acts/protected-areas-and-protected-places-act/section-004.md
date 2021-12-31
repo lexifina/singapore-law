@@ -1,7 +1,0 @@
-# 4. Protected areas
-
-(1) If as respects any area it appears to the Minister to be necessary or expedient that special measures should be taken to control the movements and conduct of persons in the area, he may by order declare that area to be a protected area for the purposes of this Act.
-
-(2) Any person who is in any protected area shall comply with such directions for regulating his movement and conduct as may be given by an authorised officer, and an authorised officer may search any person entering, or seeking to enter, or being in, a protected area, and may detain any such person for the purpose of searching him.
-
-(3) If any person while in a protected area fails to comply with any direction given under subsection (2), then, without prejudice to any proceedings which may be taken against him, he may be removed from the area by an authorised officer.
