@@ -1,6 +1,5 @@
 # 18. Powers of Parliament in regard to strangers
-Part: PART IV POWERS
-Heading: 2 CAP. 217 Immunities and Powers) 2000 Ed.
+Part: PART 4 POWERS
 
 Parliament may —
 

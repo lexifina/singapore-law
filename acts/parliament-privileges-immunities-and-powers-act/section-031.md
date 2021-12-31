@@ -1,5 +1,5 @@
 # 31. Offences
-Part: PART V OFFENCES AND PENALTIES
+Part: PART 5 OFFENCES AND PENALTIES
 
 No person shall —
 
@@ -19,9 +19,7 @@ No person shall —
 
 (h) publish wilfully any false or perverted report or any writing containing a gross or scandalous misrepresentation of any debate or proceedings of Parliament, or of any speech of a Member in Parliament;
 
-(i) publish any report of any debate or proceedings of a committee or of any evidence given or any document presented to the committee or extracts from such 16 CAP. 217 Immunities and Powers) 2000 Ed.
-
-documents, before the committee has presented its report to Parliament;
+(i) publish any report of any debate or proceedings of a committee or of any evidence given or any document presented to the committee or extracts from such documents, before the committee has presented its report to Parliament;
 
 (j) publish any report or statement purporting to be a report of any debate or proceedings of Parliament in any case where the proceedings have been conducted after exclusion by order of Parliament of strangers or officers of Parliament or where such publication has been expressly prohibited by order of Parliament;
 
@@ -37,4 +35,8 @@ documents, before the committee has presented its report to Parliament;
 
 (p) tamper with, deter, threaten, beguile or in any way unduly influence any witness in regard to his evidence before Parliament or a committee;
 
-(q) whether or not he has been sworn or has made an affirmation, wilfully make a false answer to any question material to the subject of inquiry put during examination before Parliament or a committee.
+(q) whether or not he has been sworn or has made an affirmation, wilfully make a false answer to any question material to the subject of inquiry put during examination before Parliament or a committee; or
+
+(r) when Parliament is sitting and meeting under continuity arrangements made under Article 64A of the Constitution, knowingly or rashly do any act that interferes or is likely to interfere with the means by which Members located at different places contemporaneously communicate with one another.
+
+[4/2021]

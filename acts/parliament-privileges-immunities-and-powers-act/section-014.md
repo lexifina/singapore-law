@@ -1,5 +1,5 @@
 # 14. Witnesses may be examined on oath or affirmation
-Part: PART IV POWERS
+Part: PART 4 POWERS
 
 Parliament or a committee may —
 

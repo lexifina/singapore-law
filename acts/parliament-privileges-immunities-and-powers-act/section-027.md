@@ -1,6 +1,5 @@
 # 27. Arrest without warrant of persons disturbing proceedings
-Part: PART IV POWERS
-Heading: 2 CAP. 217 Immunities and Powers) 2000 Ed.
+Part: PART 4 POWERS
 
 (1) The Speaker may order the arrest by an officer of Parliament or a police officer without warrant of any person who creates or joins in any disturbance in Parliament or in the precincts or vicinity thereof when Parliament is sitting.
 

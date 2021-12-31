@@ -1,6 +1,5 @@
 # 29. Suspended Member excluded from Parliament and not paid salary
-Part: PART IV POWERS
-Heading: 2 CAP. 217 Immunities and Powers) 2000 Ed.
+Part: PART 4 POWERS
 
 (1) A Member who has been suspended from the service of Parliament shall withdraw from Parliament and the precincts thereof and shall not enter or remain therein while such suspension remains in force.
 
