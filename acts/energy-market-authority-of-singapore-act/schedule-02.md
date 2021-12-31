@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 7 (1)
+Section 7(1)
 
 POWERS OF AUTHORITY
 
@@ -10,7 +10,7 @@ POWERS OF AUTHORITY
 
 (b) with the approval of the Minister, any company, joint venture or partnership for such other purposes as may be approved by the Minister.
 
-2. To sell, with the approval of the Minister, any immovable property if the Authority thinks that such sale is necessary or expedient for the purpose of carrying out its functions under this Act.
+2. To sell, with the approval of the Minister, any immovable property if the Authority thinks that the sale of the immovable property is necessary or expedient for the purpose of carrying out its functions under this Act.
 
 3. To make provision for the training of employees and to award scholarships, bursaries and study grants to such persons as the Authority considers fit.
 

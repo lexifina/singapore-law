@@ -1,7 +1,7 @@
 # 6. Functions and duties of Authority
-Part: PART III FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
+Part: PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
-(1) Subject to the provisions of this Act, it shall be the function and duty of the Authority —
+(1) Subject to the provisions of this Act, it is the function and duty of the Authority —
 
 (a) to create a market framework in respect of the supply of —
 
@@ -19,16 +19,16 @@ Part: PART III FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (f) to promote the efficient use of energy utilities;
 
-(g) to exercise licensing and regulatory functions in respect of electricity, gas and district cooling systems and services, including the establishment of standards and codes relating to any matter in connection therewith;
+(g) to exercise licensing and regulatory functions in respect of electricity, gas and district cooling systems and services, including the establishment of standards and codes relating to any connected matter;
 
 (h) to advise the Government on national needs, policies and strategies relating to energy utilities, and on matters appertaining to the Authority generally; and
 
 (i) to exercise any other functions and duties conferred on the Authority by or under any other written law.
 
-(2) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority, and in so doing —
+(2) In addition to the functions and duties imposed by this section, the Authority may undertake any other functions that the Minister may assign to the Authority, and in so doing —
 
-(a) the Authority shall be deemed to be fulfilling the purposes of this Act; and
+(a) the Authority is deemed to be fulfilling the purposes of this Act; and
 
-(b) the provisions of this Act shall apply to the Authority in respect of such functions.
+(b) the provisions of this Act apply to the Authority in respect of those functions.
 
-(3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+(3) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.

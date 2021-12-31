@@ -1,12 +1,6 @@
-# 15. Investments
-Part: PART III FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
+# 15. Power of investment
+Part: PART 3 FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
-The Authority may, with the approval of the Minister —
+The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
 
-(a) invest its moneys in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against
-
-*This section was not in operation as at 30th June 2002.
-
-any financial risk that arises or is likely to arise from such investment.
+[45/2004]
