@@ -1,11 +1,9 @@
-# 17. Powers of court in relation to validity of lasting powers of attorney
-Part: PART IV LASTING POWERS OF ATTORNEY
+# 17. Powers of court in relation to validity of lasting powers of attorney 1
+Part: PART 4 LASTING POWERS OF ATTORNEY
 
 (1) This section and section 18 apply if —
 
-(a) a person (‘‘P’’) has executed or purported to execute an instrument with a view to creating a lasting power of attorney;
-
-or
+(a) a person (“P”) has executed or purported to execute an instrument with a view to creating a lasting power of attorney; or
 
 (b) an instrument has been registered as a lasting power of attorney conferred by P.
 
@@ -21,22 +19,44 @@ or
 
 (i) to execute an instrument for the purpose of creating a lasting power of attorney; or
 
-(ii) to create a lasting power of attorney; or
+(ii) to create a lasting power of attorney;
 
-(b) that the donee (or, if more than one, any of them) of a lasting power of attorney —
+(b) that the donee (or any of the donees, if more than one) of a lasting power of attorney —
 
-(i) has behaved, or is behaving, in a way that contravenes his authority or is not in P’s best interests; or
+(i) is convicted, on or after 1 September 2018 (but not before the donee’s appointment under the lasting power of attorney), of an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person;
 
-(ii) proposes to behave in a way that would contravene his authority or would not be in P’s best interests.
+(ii) engages or has engaged in conduct that contravenes the donee’s authority, or that is not in P’s best interests (whether or not the donee is acting under a lasting power of attorney); or
+
+(iii) proposes to engage in conduct that would contravene the donee’s authority, or that would not be in P’s best interests (whether or not the donee is acting under a lasting power of attorney); or
+
+(c) where the donee (or any of the donees, if more than one) of a lasting power of attorney is a professional donee, that —
+
+(i) the registration of the donee as a professional deputy is cancelled or the donee is no longer within a class of persons prescribed as qualified to be a professional donee; and
+
+(ii) P lacks capacity.
+
+[10/2016]
 
 (4) The court may —
 
-(a) direct that an instrument purporting to create the lasting power of attorney is not to be registered; or
+(a) direct that an instrument purporting to create the lasting power of attorney is not to be registered;
 
-(b) if P lacks capacity to do so, revoke the instrument or the lasting power of attorney.
+(b) if P lacks capacity to do so, revoke the instrument or the lasting power of attorney; or
 
-(5) If there is more than one donee, the court may under subsection (4)(b) revoke the instrument or the lasting power of attorney so far as it relates to any of them.
+(c) in a case referred to in subsection (3)(c), revoke the instrument or the lasting power of attorney so far as it relates to the donee whose registration as a professional deputy is cancelled or who is no longer within a class of persons prescribed as qualified to be a professional donee.
 
-(6) In this section, ‘‘donee’’ includes an intended donee.
+[10/2016]
 
-[UK MCA 2005, s. 22]
+(5) If there is more than one donee, the court may under subsection (4)(b) revoke the instrument or the lasting power of attorney in respect of all or such of the matters to which the lasting power of attorney relates as the court thinks fit, so far as it relates to any of the donees.
+
+[10/2016]
+
+(6) The court may under subsection (4)(b) or (c) revoke the instrument or the lasting power of attorney in respect of all or such of the matters to which the lasting power of attorney relates as the court thinks fit.
+
+[10/2016]
+
+(7) The court may make further orders or give directions as the court thinks necessary or expedient for giving effect to, or otherwise in connection with, the revocation of the instrument or the lasting power of attorney.
+
+[10/2016]
+
+(8) In this section, “donee” includes an intended donee.

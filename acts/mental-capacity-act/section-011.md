@@ -1,7 +1,7 @@
 # 11. Lasting powers of attorney
-Part: PART IV LASTING POWERS OF ATTORNEY
+Part: PART 4 LASTING POWERS OF ATTORNEY
 
-(1) A lasting power of attorney is a power of attorney under which the donor (‘‘P’’) confers on the donee (or donees) authority to make decisions about all or any of the following:
+(1) A lasting power of attorney is a power of attorney under which the donor (“P”) confers on the donee (or donees) authority to make decisions about all or any of the following:
 
 (a) P’s personal welfare or specified matters concerning P’s personal welfare;
 
@@ -23,8 +23,6 @@ Part: PART IV LASTING POWERS OF ATTORNEY
 
 (4) The authority conferred by a lasting power of attorney is subject to —
 
-(a) the provisions of this Act and, in particular, sections 3 (the principles) and 6 (best interests); and
+(a) the provisions of this Act and, in particular, sections 3 (principles) and 6 (best interests); and
 
 (b) any conditions or restrictions specified in the instrument.
-
-[UK MCA 2005, s. 9]

@@ -1,5 +1,5 @@
 # 8. Section 7 acts: limitations
-Part: PART III ACTS IN CONNECTION WITH CARE OR TREATMENT
+Part: PART 3 ACTS IN CONNECTION WITH CARE OR TREATMENT
 
 (1) If D does an act that is intended to restrain P, it is not an act to which section 7 applies unless 2 further conditions are satisfied.
 
@@ -11,7 +11,7 @@ Part: PART III ACTS IN CONNECTION WITH CARE OR TREATMENT
 
 (b) the seriousness of that harm.
 
-(4) For the purposes of this section, D restrains P if he —
+(4) For the purposes of this section, D restrains P if D —
 
 (a) uses, or threatens to use, force to secure the doing of an act which P resists; or
 
@@ -22,5 +22,3 @@ Part: PART III ACTS IN CONNECTION WITH CARE OR TREATMENT
 (a) a donee of a lasting power of attorney granted by P; or
 
 (b) a deputy appointed for P by the court.
-
-[UK MCA 2005, s. 6]

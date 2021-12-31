@@ -1,38 +1,22 @@
-# 33. Public Guardian Board
-Part: PART VII PUBLIC GUARDIAN AND BOARD OF VISITORS
+# 33. Appointment of auditors
+Part: PART 7 PUBLIC GUARDIAN AND BOARD OF VISITORS
 
-(1) There shall be a body to be known as the Public Guardian Board (referred to in this section as the Board).
+(1) Without affecting the Public Guardian’s functions and powers under this Act, the Public Guardian may appoint in writing an auditor to assist the Public Guardian in examining, either generally or in relation to any particular matter —
 
-(2) The Board’s duty is to scrutinise and review the way in which the Public Guardian discharges his functions and to make such recommendations to the Minister about that matter as it thinks appropriate.
+(a) any report of a donee of a lasting power of attorney or of a deputy appointed by the court; and
 
-(3) The Minister must, in discharging his functions under sections 30 and 31, give due consideration to recommendations made by the Board.
+(b) any book, document, electronic computing or storage device or information obtained or received by the Public Guardian in the discharge or exercise of the Public Guardian’s functions or powers under this Act.
 
-(4) The members of the Board are to be appointed by the Minister.
+[10/2016]
 
-(5) The Board shall have —
+(2) A person is not qualified for appointment as an auditor under subsection (1) unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act 2004.
 
-(a) at least one member who is a District Judge; and
+[10/2016]
 
-(b) at least 4 members who are persons appearing to the Minister to have appropriate knowledge or experience of the work of the Public Guardian.
+(3) For the purposes of this section, the Public Guardian may disclose to an auditor appointed under subsection (1) any book, document, electronic computing or storage device or information obtained or received by the Public Guardian under this Act, where the disclosure is necessary to enable the auditor to carry out an examination under subsection (1).
 
-(6) The Minister may, by regulations, make provision as to —
+[10/2016]
 
-(a) the appointment of members of the Board (and, in particular, the procedures to be followed in connection with appointments);
+(4) The auditor must, upon completion of the examination under subsection (1), submit a report to the Public Guardian.
 
-(b) the selection of one of the members to be the chairman;
-
-(c) the term of office of the chairman and members;
-
-(d) their resignation, suspension or removal;
-
-(e) the procedure of the Board (including quorum);
-
-(f) the validation of proceedings in the event of a vacancy among the members or a defect in the appointment of a member.
-
-(7) Subject to any regulation made under subsection (6)(c) or (d), a person is to hold and vacate office as a member of the Board in accordance with the terms of the instrument appointing him.
-
-(8) The Minister may make such payments to or in respect of members of the Board by way of reimbursement of expenses, allowances and remuneration as he may determine.
-
-(9) The Board shall make an annual report to the Minister about the discharge of its functions.
-
-[UK MCA 2005, s. 59]
+[10/2016]

@@ -1,13 +1,15 @@
-# 39. Rules of Court
-Part: PART VIII SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
+# 39. Family Justice Rules
+Part: PART 8 SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
 
-(1) Rules of Court may be made —
+(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
 
 (a) to regulate and prescribe the procedure and practice to be followed in respect of proceedings under this Act; and
 
 (b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
-(2) Without prejudice to the generality of subsection (1), Rules of Court may make provision —
+[27/2014]
+
+(2) Without limiting subsection (1), the Family Justice Rules may make provision —
 
 (a) as to the manner and form in which proceedings are to be commenced;
 
@@ -21,7 +23,7 @@ Part: PART VIII SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
 
 (f) for enabling or requiring the proceedings or any part of them to be conducted in private and for enabling the court to determine who is to be admitted when the court sits in private and to exclude specified persons when it sits in public;
 
-(g) as to what may be received as evidence (whether or not admissible apart from the Rules of Court) and the manner in which it is to be presented;
+(g) as to what may be received as evidence (whether or not admissible apart from the Family Justice Rules) and the manner in which it is to be presented;
 
 (h) for the enforcement of orders made and directions given in the proceedings;
 
@@ -29,10 +31,12 @@ Part: PART VIII SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
 
 (j) as to the way in which, and funds from which, fees and costs are to be paid;
 
-(k) for charging fees and costs upon the estate of the person to whom the proceedings relate, provided that such charge shall not cause any interest of the person in any property to fail or determine or to be prevented from recommencing;
+(k) for charging fees and costs upon the estate of the person to whom the proceedings relate, if such charge does not cause any interest of the person in any property to fail or determine or to be prevented from recommencing;
 
 (l) for the payment of fees and costs within a specified time of the death of the person to whom the proceedings relate or the conclusion of the proceedings.
 
-(3) Rules of Court may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the Registrar of the Supreme Court.
+[27/2014]
 
-[UK MCA 2005, ss. 51, 56]
+(3) The Family Justice Rules may, instead of providing for any matter, refer to provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+[27/2014]

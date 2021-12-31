@@ -1,15 +1,15 @@
 # 42. Ill-treatment
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
-(1) Subsection (2) applies if a person (‘‘D’’) —
+(1) Subsection (2) applies if a person (“D”) —
 
-(a) has the care of a person (‘‘P’’) who lacks, or whom D reasonably believes to lack, capacity;
+(a) has the care of a person (“P”) who lacks, or whom D reasonably believes to lack, capacity;
 
 (b) is the donee of a lasting power of attorney created by P; or
 
 (c) is a deputy appointed by the court for P, and P is 16 years of age or above.
 
-(2) D shall be guilty of an offence if he ill-treats or causes, procures or knowingly permits P to be ill-treated by any other person.
+(2) D shall be guilty of an offence if D ill-treats or causes, procures or knowingly permits P to be ill-treated by any other person.
 
 (3) For the purposes of this section, D ill-treats P if D —
 
@@ -21,7 +21,7 @@ Part: PART IX MISCELLANEOUS
 
 (ii) any emotional injury; or
 
-(iii) any injury to his health or development; or
+(iii) any injury to P’s health or development; or
 
 (c) wilfully or unreasonably neglects, abandons or exposes P with full intention of abandoning P or in circumstances that are likely to endanger the safety of P or to cause P —
 
@@ -29,11 +29,11 @@ Part: PART IX MISCELLANEOUS
 
 (ii) any emotional injury; or
 
-(iii) any injury to his health or development.
+(iii) any injury to P’s health or development.
 
-(4) For the purpose of subsection (3)(c), D shall be deemed to have neglected P in circumstances likely to cause him unnecessary physical pain, suffering or injury or emotional injury or injury to his health or development if D wilfully or unreasonably neglects to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for P.
+(4) For the purpose of subsection (3)(c), D is deemed to have neglected P in circumstances likely to cause P unnecessary physical pain, suffering or injury or emotional injury or injury to P’s health or development if D wilfully or unreasonably neglects to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for P.
 
-(5) D may be convicted of an offence under this section notwith- standing —
+(5) D may be convicted of an offence under this section notwithstanding —
 
 (a) that any actual suffering or injury on the part of P or the likelihood of any suffering or injury on the part of P was obviated by the action of another person; or
 
@@ -41,18 +41,18 @@ Part: PART IX MISCELLANEOUS
 
 (6) Subject to subsection (7), any person who is guilty of an offence under this section shall be liable on conviction —
 
-(a) in the case where death is caused to P, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both; and
+(a) in the case where death is caused to P, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 14 years or to both; and
 
-(b) in any other case, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 4 years or to both.
+(b) in any other case, to a fine not exceeding $8,000 or to imprisonment for a term not exceeding 8 years or to both.
 
-(7) The court may, in lieu of or in addition to any punishment specified in subsection (6), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring such person to undergo such counselling, psychotherapy or other programme as may be specified therein.
+[15/2019]
 
-(8) If a person who is ordered to execute a bond of good behaviour under subsection (7) fails to comply with any of the conditions of such bond, he shall —
+(7) The court may, in lieu of or in addition to any punishment specified in subsection (6), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring the person to undergo such counselling, psychotherapy or other programme as may be specified therein.
 
-(a) if such bond is in lieu of a penalty under subsection (6), be liable to the penalty provided for in that subsection; or
+(8) If a person who is ordered to execute a bond of good behaviour under subsection (7) fails to comply with any of the conditions of the bond, the person shall —
 
-(b) if such bond is in addition to a penalty under subsection (6), be liable to a further fine not exceeding $20,000 or to a further term of imprisonment not exceeding 7 years or to both.
+(a) if the bond is in lieu of a penalty under subsection (6), be liable to the penalty provided for in that subsection; or
 
-(9) In this section, ‘‘court’’ means any court of competent jurisdiction.
+(b) if the bond is in addition to a penalty under subsection (6), be liable to a further fine not exceeding $20,000 or to a further term of imprisonment not exceeding 7 years or to both.
 
-[UK MCA 2005, s. 44; CYPA 2001 Ed., s. 5]
+(9) In this section, “court” means any court of competent jurisdiction.

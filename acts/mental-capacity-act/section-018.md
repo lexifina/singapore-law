@@ -1,5 +1,5 @@
 # 18. Powers of court in relation to operation of lasting powers of attorney
-Part: PART IV LASTING POWERS OF ATTORNEY
+Part: PART 4 LASTING POWERS OF ATTORNEY
 
 (1) The court may determine any question as to the meaning or effect of a lasting power of attorney or an instrument purporting to create one.
 
@@ -15,16 +15,14 @@ Part: PART IV LASTING POWERS OF ATTORNEY
 
 (3) The court may, if P lacks capacity to do so —
 
-(a) give directions to the donee with respect to the rendering by him of reports or accounts and the production of records kept by him for that purpose;
+(a) give directions to the donee with respect to the rendering by the donee of reports or accounts and the production of records kept by the donee for that purpose;
 
-(b) require the donee to supply information or produce documents or things in his possession as donee;
+(b) require the donee to supply information or produce documents or things in the donee’s possession as donee;
 
 (c) give directions with respect to the remuneration or expenses of the donee;
 
-(d) relieve the donee wholly or partly from any liability which he has or may have incurred on account of a breach of his duties as donee.
+(d) relieve the donee wholly or partly from any liability which the donee has or may have incurred on account of a breach of the donee’s duties as donee.
 
 (4) The court may authorise the making of gifts which are not within section 14(3).
 
 (5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
-
-[UK MCA 2005, s. 23]
