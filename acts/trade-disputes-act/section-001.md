@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Trade Disputes Act.
+This Act is the Trade Disputes Act 1941.
+
+1

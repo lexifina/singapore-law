@@ -2,11 +2,7 @@
 
 In this Act —
 
-“award” means an award made by an Industrial Arbitration Court and includes a collective agreement a memorandum of the terms of which has been certified by the President of the
-
-1
-
-Industrial Arbitration Court in accordance with the provisions of the Industrial Relations Act (Cap. 136);
+“award” means an award made by an Industrial Arbitration Court and includes a collective agreement a memorandum of the terms of which has been certified by the president of the Industrial Arbitration Court in accordance with the provisions of the Industrial Relations Act 1960;
 
 “industrial action” means —
 
@@ -18,10 +14,8 @@ Industrial Arbitration Court in accordance with the provisions of the Industrial
 
 “intimidate” means to cause in the mind of a person a reasonable apprehension of injury to him or to any member of his family or to any of his dependants or of violence or damage to any person or property;
 
-“lock-out” means the closing of a place of employment or the suspension of work, or the refusal by an employer to continue to employ any number of persons employed by him in consequence of a trade dispute, done with a view to compelling those persons, or to aid another employer in compelling persons employed by him to accept terms or conditions of or affecting employment;
+“lockout” means the closing of a place of employment or the suspension of work, or the refusal by an employer to continue to employ any number of persons employed by him in consequence of a trade dispute, done with a view to compelling those persons, or to aid another employer in compelling persons employed by him, to accept terms or conditions of or affecting employment;
 
 “maliciously” means the doing of a wrongful act intentionally without just cause or excuse;
 
 “trade dispute” means any dispute between employers and employees or between employees and employees, or between employers and employers which is connected with the employment or non-employment, or the terms of employment or the conditions of labour, of any person.
-
-[23/81]

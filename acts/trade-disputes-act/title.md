@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-TRADE DISPUTES ACT
-(CHAPTER 331)
-(Original Enactment: Ordinance 59 of 1941)
-REVISED EDITION 2014
-(31st October 2014)
+TRADE DISPUTES ACT 1941
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2014
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to control trade disputes and matters arising therefrom.
 
-[5th December 1941]
+[5 December 1941]

@@ -1,4 +1,4 @@
-# 3. Illegal industrial action and lock-out
+# 3. Illegal industrial action and lockout
 
 (1) An industrial action shall be illegal if —
 
@@ -8,9 +8,7 @@
 
 (c) it is designed or calculated to coerce the Government either directly or by inflicting hardship on the community.
 
-[23/81]
-
-(2) A lock-out shall be illegal if —
+(2) A lockout shall be illegal if —
 
 (a) it has any other object than the furtherance of a trade dispute within the trade or industry in which the employers locking out are engaged;
 
