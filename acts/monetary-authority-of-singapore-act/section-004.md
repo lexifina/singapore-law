@@ -1,16 +1,30 @@
-# 4. Principal objects of Authority
-Part: PART II ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
+# 4. Principal objects and functions of Authority
+Part: PART 2 ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
-The principal objects of the Authority shall be —
+(1) The principal objects of the Authority are —
 
-(a) to act as banker to, and financial agent of, the Government;
+(a) to maintain price stability conducive to sustainable growth of the economy;
 
-(b) to promote, within the context of the general economic policy of the Government, monetary stability and credit and exchange conditions conducive to the growth of the economy;
+(b) to foster a sound and reputable financial centre and to promote financial stability;
 
-(c) to foster a sound and progressive financial services sector;
+(c) to ensure prudent and effective management of the official foreign reserves of Singapore; and
 
-and
+(d) to grow Singapore as an internationally competitive financial centre.
 
-(d) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21.
+[13/2007; 9/2013]
 
-[28/98]
+(1A) The Authority, when giving effect to its objects under subsection (1), is to act on the basis that the object in paragraph (b) prevails over the object in paragraph (d) of that subsection.
+
+[31/2017]
+
+(2) The functions of the Authority are —
+
+(a) to act as the central bank of Singapore, conduct monetary policy, issue currency, oversee payment systems and serve as banker to and financial agent of the Government;
+
+(b) to conduct integrated supervision of the financial services sector and financial stability surveillance;
+
+(c) to manage the official foreign reserves of Singapore; and
+
+(d) to develop Singapore as an international financial centre.
+
+[13/2007; 9/2013]

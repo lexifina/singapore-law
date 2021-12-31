@@ -1,5 +1,5 @@
 # 24. Investment of funds
-Part: PART IV POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
+Part: PART 4 POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 The funds of the Authority may be invested in all or any of the following:
 
@@ -11,6 +11,6 @@ The funds of the Authority may be invested in all or any of the following:
 
 (d) securities of, or guaranteed by, such government or governments or international financial institutions as may be approved by the board;
 
-(e) such securities and investments as may be authorised by the President on the recommendation of the board.
+(e) such other securities, financial instruments and investments as may be approved by the board.
 
-[26/84]
+[13/2007]

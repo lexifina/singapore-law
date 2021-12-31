@@ -1,12 +1,18 @@
-# 5. Authorised capital
-Part: PART II ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
+# 5. Paid-up capital
+Part: PART 2 ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
-(1) The authorised capital of the Authority shall be $100 million.
+(1) The paid-up capital of the Authority is to be $100 million.
 
-[31/72]
+[21/2005]
 
-(2) On the establishment of the Authority, such portion of the authorised capital as the Government may decide shall be subscribed and paid up by the Government.
+(2) The paid-up capital may be revised from time to time by such amount as the Government and the board may agree.
 
-(3) The paid-up portion of the authorised capital may be increased from time to time by such amount as the Government may approve.
+[31/2017]
 
-(4) The payment of such increase in the authorised capital may be made by way of such transfers from the General Reserve Fund as the Government, in consultation with the board, may from time to time approve.
+(3) For the purpose of subsection (2), the board must consider the Authority’s capital and reserves necessary for the Authority to carry out its principal objects and functions.
+
+[31/2017]
+
+(4) Any reduction of or increase in the paid-up capital may be effected by way of transfers to or from the General Reserve Fund, or by such other means as the Government and the board may from time to time agree.
+
+[31/2017]

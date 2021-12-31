@@ -1,26 +1,20 @@
-MONETARY AUTHORITY OF SINGAPORE ACT
-(CHAPTER 186)
-Act
-42 of 1970
-1970 Ed. Cap. 195
-Amended by
-31 of 1972
-35 of 1973
-26 of 1984
-1985 Ed. Cap. 186
-Amended by
-11 of 1991
-28 of 1998
-27 of 1999
-REVISED EDITION 1999
-(30th December 1999)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+MONETARY AUTHORITY OF
+SINGAPORE ACT 1970
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to establish a corporation to be known as the Monetary Authority of Singapore and to provide for the transfer to the corporation of certain functions and assets of the Government and for matters incidental thereto and connected therewith.
+An Act to establish a corporation to be known as the Monetary Authority of Singapore, to provide for the exercise of control over and the resolution of financial institutions and their related entities by the Monetary Authority of Singapore and other authorities, and to establish a framework for the issue of securities by the Monetary Authority of Singapore and the regulation of primary dealers of such securities, and for matters incidental thereto and connected therewith.
 
-[Parts I, II and VI: 26th December 1970;
+[13/2007; 9/2013]
 
-Parts III and IV: 1st January 1971;
+[26 December 1970: Except Parts III and IV;
+
+1 January 1971: Parts III and IV]

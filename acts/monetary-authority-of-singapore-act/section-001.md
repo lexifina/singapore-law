@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Monetary Authority of Singapore Act.
+This Act is the Monetary Authority of Singapore Act 1970.

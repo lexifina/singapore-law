@@ -1,10 +1,30 @@
-# 14. Preservation of secrecy
-Part: PART II ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
+# 14. Interpretation of sections 14A, 14B and 14C
+Part: PART 2 ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
-(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a director, officer or employee of the Authority shall disclose to any person any information relating to the affairs of the Authority or of any person which he has acquired in the performance of his duties or the exercise of his functions.
+In sections 14A, 14B and 14C —
 
-[26/84]
+“gain” means —
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+(a) a gain in property or a supply of services, whether temporary or permanent; or
 
-[26/84]
+(b) an opportunity to earn remuneration or greater remuneration or to gain a financial advantage otherwise than by way of remuneration;
+
+“generally available information” means information that consists of readily observable matter, including information that consists of deductions, conclusions or inferences made or drawn from readily observable matter;
+
+“harm”, in relation to an individual, means —
+
+(a) any physical harm; or
+
+(b) harassment, alarm or distress caused to the individual;
+
+“loss” means —
+
+(a) a loss in property or a supply of services, whether temporary or permanent; or
+
+(b) a loss of an opportunity to earn remuneration or greater remuneration or to gain a financial advantage otherwise than by way of remuneration, but excludes, in relation to an individual, the loss of personal data about the individual;
+
+“personal data” has the meaning given by section 2(1) of the Personal Data Protection Act 2012;
+
+“prescribed circumstances” or “prescribed purpose” means any circumstances or purpose prescribed in regulations made under section 14D.
+
+[40/2020]
