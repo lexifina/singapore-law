@@ -1,34 +1,12 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-CUSTOMS ACT
-(CHAPTER 70)
-Ordinance
-44 of 1960
-Reprint
-RS (A) 1/79
-1970 Ed. Cap. 133 1985 Ed. Cap. 70 1995 Ed. Cap. 70 1997 Ed. Cap. 70
-Amended by Amended by Amended by Amended by
-19 of 1989 24 of 1996 29 of 1998
-50 of 1970
-12 of 1991 11 of 1997 33 of 2000
-18 of 1971
-15 of 1991 4 of 2001
-21 of 1973
-10 of 1992
-17 of 1974
-2001 Ed. Cap. 70
-23 of 1993
-23 of 1978
-31 of 1993 Amended by
-24 of 1981
-4 of 2003
-REVISED EDITION 2004
-(31st July 2004)
+CUSTOMS ACT 1960
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2004
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
@@ -36,4 +14,4 @@ An Act relating to customs and excise.
 
 [33/2000]
 
-[26th September 1960]
+[26 September 1960]

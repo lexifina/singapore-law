@@ -1,28 +1,36 @@
 # 13. Power of Minister to exempt
-Part: PART III LEVYING OF DUTY AND TAX
+Part: PART 3 LEVYING OF DUTY AND TAX
 
-(1) The Minister may, by order, exempt, subject to such conditions as he may consider fit to impose, any class of goods or persons from the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable.
+(1) The Minister may, by order in the Gazette, exempt any class of goods or persons from —
 
-[33/2000]
+(a) any provision of this Act; or
 
-(2) The Minister may in any particular case —
+(b) the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable.
 
-(a) exempt any person from the payment of the whole or any part of the customs duties , excise duties, taxes, fees or other charges which may be payable by that person; or
+[3/2008]
 
-(b) direct the remission or refund of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
+(2) The Minister may, in any particular case —
 
-[33/2000; 4/2003]
+(a) exempt any person from —
 
-(3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions as he may consider fit.
+(i) any provision of this Act; or
 
-[4/2003]
+(ii) the payment of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable by that person; or
 
-(4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
+(b) direct the remission or refund of the whole or any part of any customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
 
-(a) deemed to be dutiable goods until the conditions, if any, subject to which the exemption from customs duties, excise duties, taxes, fees or other charges was granted are fulfilled;
+[3/2008]
 
-and
+(2A) An exemption under subsection (2)(a) need not be published in the Gazette.
+
+[29/2018]
+
+(3) In granting an exemption or directing a remission or refund, the Minister may impose any conditions (including, for an exemption, conditions subsequent) that the Minister considers fit.
+
+[29/2018]
+
+(4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) are —
+
+(a) deemed to be dutiable goods until the conditions (if any) subject to which the exemption from customs duties, excise duties, taxes, fees or other charges was granted are fulfilled; and
 
 (b) liable to all other charges, not being customs duties, excise duties, taxes, fees or other charges, to which they would be subject if no such exemption had been granted.
-
-[33/2000]

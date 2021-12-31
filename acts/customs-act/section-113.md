@@ -1,6 +1,6 @@
 # 113. Who may prosecute
-Part: PART XIV PROVISIONS AS TO TRIALS AND PROCEEDINGS
+Part: PART 14 PROVISIONS AS TO TRIALS AND PROCEEDINGS
 
-Prosecutions, in respect of offences committed under this Act, may be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director- General.
+Prosecutions, in respect of offences committed under this Act, may, with the authorisation of the Public Prosecutor, be conducted by a senior officer of customs or any officer of customs specially authorised in writing in that behalf by the Director-General.
 
-[23/93; 24/96]
+[15/2010]

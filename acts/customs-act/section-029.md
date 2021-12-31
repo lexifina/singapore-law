@@ -1,6 +1,14 @@
-# 29. Questions in respect of goods deemed to be dutiable
-Part: PART III LEVYING OF DUTY AND TAX
+# 29. Customs rulings
+Part: PART 3 LEVYING OF DUTY AND TAX
 
-(1) If any question arises as to whether any particular goods are or are not included in a class of goods appearing in an order made under section 10 (1), such question shall be decided by the Director- General.
+(1) The Director-General may, on an application made in accordance with the Schedule, make a ruling on any of the matters specified in the Schedule in accordance with the Schedule.
 
-(2) Any certificate purporting to be signed by the Director-General stating his decision under subsection (1) shall be admitted in evidence without proof of signature for the purpose of any proceedings under this Act.
+[3/2008]
+
+(2) The Schedule applies to and in connection with an application under subsection (1) and any ruling made by the Director-General under that subsection.
+
+[3/2008]
+
+(3) The Minister may, by order in the Gazette, amend, add to or revoke the whole or any part of the Schedule.
+
+[3/2008]

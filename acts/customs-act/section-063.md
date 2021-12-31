@@ -1,22 +1,28 @@
 # 63. Licence to manufacture dutiable goods
-Part: PART VII MANUFACTURE AND BOTTLING
+Part: PART 7 MANUFACTURE AND BOTTLING
 
-(1) No person shall manufacture any dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the place of manufacture specified in the licence.
+(1) A person must not manufacture any dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the place or places of manufacture specified in the licence.
 
-[4/2003]
+[3/2008]
 
-(2) Such licence shall, with the approval of the Minister, be granted at the discretion of the Director-General, and upon payment of the prescribed fee and shall be for such period and subject to such conditions as may be prescribed by regulations made under this Act, and to such further conditions as the Minister may direct to be endorsed on the licence.
+(2) Such licence is, on payment of such fee as may be prescribed, granted at the discretion of the Director-General for such period as may be prescribed and subject to —
 
-(3) Such licence may be suspended or withdrawn at any time by the Minister.
+(a) such conditions as may be prescribed; and
 
-(4) A licence to manufacture any dutiable goods shall be deemed to include the following:
+(b) such further conditions as the Director-General may direct to be endorsed on the licence in any particular case.
 
-(a) a licence for warehousing such dutiable goods as provided for in sections 50 (1) and 51 (1); and
+[3/2008]
 
-(b) where the dutiable goods consist of intoxicating liquors, a licence for the bottling of such intoxicating liquors as provided for in section 66 (1).
+(3) Such licence may be suspended or withdrawn at any time by the Director-General.
 
-[4/2003]
+[3/2008]
 
-(5) Any regulations made under section 143 (1) to regulate the control of licensed warehouses or bottling warehouses shall apply to warehouses deemed to be so licensed under subsection (4) to such an extent as the Director-General may direct.
+(4) A licence to manufacture any dutiable goods is deemed to include the following:
 
-(6) The licensee shall not be entitled to any compensation for the suspension or withdrawal of any licence granted under subsection (2) or for the surrender of such licence, but the Director-General may, in his discretion, allow a refund of one-twelfth of the amount of the licence fee for each complete month in respect of which the licence would have remained valid had it not been suspended, withdrawn or surrendered.
+(a) a licence for warehousing such dutiable goods as provided for in section 51(1); and
+
+(b) where the dutiable goods consist of intoxicating liquors, a licence for the bottling of such intoxicating liquors as provided for in section 66(1).
+
+[3/2008]
+
+(5) Any regulations made under section 143(1) to regulate the control of licensed warehouses or bottling warehouses apply to warehouses deemed to be so licensed under subsection (4) to such an extent as the Director-General may direct.

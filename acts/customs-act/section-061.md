@@ -1,4 +1,4 @@
 # 61. Storage of dutiable goods
-Part: PART VI WAREHOUSING
+Part: PART 6 WAREHOUSING
 
-No person shall store, keep or have in his possession any dutiable goods except under customs control.
+A person must not store, keep or have in the person’s possession any dutiable goods except under customs control.

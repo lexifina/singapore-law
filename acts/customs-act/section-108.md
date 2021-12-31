@@ -1,5 +1,5 @@
 # 108. Power to open packages and examine goods
-Part: PART XIII SEARCH, SEIZURE AND ARREST
+Part: PART 13 SEARCH, SEIZURE AND ARREST
 
 Any proper officer of customs may —
 

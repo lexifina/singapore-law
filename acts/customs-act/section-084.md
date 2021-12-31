@@ -1,4 +1,4 @@
 # 84. [Repealed]
-Part: PART XI TODDY
+Part: PART 11 COMPOSITE LICENCE
 
-(Repealed by Act 4/2003)
+[Repealed by Act 4 of 2003]

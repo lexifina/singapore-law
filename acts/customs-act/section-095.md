@@ -1,10 +1,6 @@
 # 95. Addition or deduction of new or altered duties in the case of contract
-Part: PART XII MISCELLANEOUS PROVISIONS
+Part: PART 12 MISCELLANEOUS PROVISIONS
 
-(1) Where any new customs duty or excise duty is imposed or where any customs duty or excise duty is increased, and any goods in respect of which the customs duty or excise duty is payable are delivered on or after the day on which the new or increased customs duty or excise duty takes effect in pursuance of a contract made before that day, the seller of the goods may, in the absence of agreement to the contrary, recover from the purchaser as an addition to the contract price, a sum equal to any amount paid by him in respect of the goods on account of the new customs duty or excise duty, or the increase of the customs duty or excise duty, as the case may be.
-
-[33/2000]
+(1) Where any new customs duty or excise duty is imposed or where any customs duty or excise duty is increased, and any goods in respect of which the customs duty or excise duty is payable are delivered on or after the day on which the new or increased customs duty or excise duty takes effect in pursuance of a contract made before that day, the seller of the goods may, in the absence of agreement to the contrary, recover from the purchaser as an addition to the contract price, a sum equal to any amount paid by the seller in respect of the goods on account of the new customs duty or excise duty, or the increase of the customs duty or excise duty, as the case may be.
 
 (2) Where any customs duty or excise duty is decreased or abolished, and any goods affected by the customs duty or excise duty are delivered on or after the day on which the decrease or abolition takes effect in pursuance of a contract made before that day, the purchaser of the goods, in the absence of any agreement to the contrary, may, if the seller has had in respect of those goods the benefit of the decrease or abolition of the customs duty or excise duty, deduct from the contract price a sum equal to the amount of the decrease of customs duty or excise duty, or the customs duty or excise duty, as the case may be.
-
-[33/2000]

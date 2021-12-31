@@ -1,4 +1,4 @@
 # 35. [Repealed]
-Part: PART IV IMPORTATION AND EXPORTATION
+Part: PART 4 IMPORTATION AND EXPORTATION
 
-(Repealed by Act 4/2003)
+[Repealed by Act 4 of 2003]
