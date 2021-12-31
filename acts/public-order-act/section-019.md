@@ -1,5 +1,5 @@
 # 19. Legal immunity for participant in lawful assembly or procession
-Part: PART II ASSEMBLIES AND PROCESSIONS
+Part: PART 2 ASSEMBLIES AND PROCESSIONS
 
 If an assembly or a procession —
 
@@ -7,4 +7,4 @@ If an assembly or a procession —
 
 (b) is peaceful; and
 
-(c) is held in accordance with the conditions imposed on the permit, a person who takes part in the assembly or procession, does not, merely because of his taking part, incur any civil or criminal liability because of the obstruction of a public place.
+(c) is held in accordance with the conditions imposed on the permit, a person who takes part in the assembly or procession, does not, merely because of his or her taking part, incur any civil or criminal liability because of the obstruction of a public place.

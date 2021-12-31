@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-PUBLIC ORDER ACT
-(CHAPTER 257A)
-(Original Enactment: Act 15 of 2009)
-REVISED EDITION 2012
-(31st May 2012)
+PUBLIC ORDER ACT 2009
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2012
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to regulate assemblies and processions in public places, to provide powers necessary for preserving public order and the safety of individuals at special event areas, to supplement other laws relating to the preservation and maintenance of public order in public places.
 
-[9th October 2009]
+[9 October 2009]

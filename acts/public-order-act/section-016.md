@@ -1,9 +1,9 @@
 # 16. Other offences in relation to assemblies or processions
-Part: PART II ASSEMBLIES AND PROCESSIONS
+Part: PART 2 ASSEMBLIES AND PROCESSIONS
 
 (1) Each person who organises a public assembly or public procession —
 
-(a) in respect of which no permit has been granted under section 7 or no such permit is in force, where such permit is required by this Act;
+(a) in respect of which no permit has been granted under section 7 or no such permit is in force, where a permit is required by this Act;
 
 (b) which is held —
 
@@ -11,11 +11,13 @@ Part: PART II ASSEMBLIES AND PROCESSIONS
 
 (ii) in the case of a procession, along a route which differs from the route specified in relation to the procession in the notice given under section 6; or
 
-(c) which is not in compliance with any condition imposed under section 8(2) on persons taking part in that assembly or procession, shall be guilty of an offence and shall, subject to subsection (3), be liable on conviction to a fine not exceeding $5,000.
+(c) which is not in compliance with any condition imposed under section 8(2) on persons organising that assembly or procession, shall be guilty of an offence and shall, subject to subsection (3), be liable on conviction to a fine not exceeding $5,000.
+
+[23/2017]
 
 (2) Each person who takes part in a public assembly or public procession —
 
-(a) in respect of which no permit has been granted under section 7 or no such permit is in force, where such permit is required by this Act;
+(a) in respect of which no permit has been granted under section 7 or no such permit is in force, where a permit is required by this Act;
 
 (b) which is held —
 
@@ -37,16 +39,18 @@ Part: PART II ASSEMBLIES AND PROCESSIONS
 
 (b) in the case of a person taking part in an assembly or a procession — to a fine not exceeding $5,000.
 
-(5) For the purposes of subsection (3), a person is a repeat offender in relation to an offence under subsection (1) or (2) if the person who is convicted, or found guilty, of an offence under subsection (1) or (2) (referred to as the current offence) has been convicted or found guilty of —
+(5) For the purposes of subsection (3), a person is a repeat offender in relation to an offence under subsection (1) or (2) if the person who is convicted, or found guilty, of an offence under subsection (1) or (2) (called the current offence) has been convicted or found guilty of —
 
 (a) an offence under subsection (1) or (2);
 
-(b) an offence under section 5(4) of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) as in force immediately before the commencement of this section; or
+(b) an offence under section 5(4) of the Miscellaneous Offences (Public Order and Nuisance) Act 1906 as in force immediately before 9 October 2009; or
 
-(c) an offence under any rules made under section 5(1) of the Miscellaneous Offences (Public Order and Nuisance) Act as in force immediately before the commencement of this section, in relation to any assembly or procession in any public road, public place or place of public resort held without a permit under those rules or in contravention of any term or condition of such a permit, on at least one other occasion within the period of 5 years immediately before the date on which he is convicted or found guilty of the current offence.
+(c) an offence under any rules made under section 5(1) of the Miscellaneous Offences (Public Order and Nuisance) Act 1906 as in force immediately before 9 October 2009, in relation to any assembly or procession in any public road, public place or place of public resort held without a permit under those rules or in contravention of any term or condition of such a permit, on at least one other occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence.
 
-(6) This section shall not apply to —
+(6) This section does not apply to —
 
 (a) an assembly or a procession exempted from this section under section 46; and
 
-(b) an assembly or a procession within an unrestricted area not falling within a special event area.
+(b) an assembly or a procession within an unrestricted area not falling within a special event area of an enhanced security special event.
+
+[23/2017]

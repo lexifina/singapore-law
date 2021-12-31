@@ -1,11 +1,15 @@
 # 25. Search of person
-Part: PART III SPECIAL EVENTS SECURITY
+Part: PART 3 SPECIAL EVENTS SECURITY
 
-(1) This section shall apply only if the notification under section 22(2) relating to the special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant to the area must, if asked by a police officer, permit a search to be made of the person.
+(1) This section applies only if the notification under section 22(2) relating to the enhanced security special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant to the area must, if asked by a police officer, permit a search to be made of the person.
+
+[23/2017]
 
 (2) A police officer may ask a person to permit a search of the person where —
 
-(a) the person is entering or about to enter a special event area; or
+(a) the person is entering or about to enter a special event area;
+
+or
 
 (b) the person is in a special event area.
 

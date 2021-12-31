@@ -1,5 +1,5 @@
 # 18. Obstructing free passage of any ambulance, etc.
-Part: PART II ASSEMBLIES AND PROCESSIONS
+Part: PART 2 ASSEMBLIES AND PROCESSIONS
 
 Where a person at, or in relation to, an assembly or a procession conducted pursuant to a permit —
 

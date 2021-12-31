@@ -1,48 +1,76 @@
-# 21. Declaration of special event
-Part: PART III SPECIAL EVENTS SECURITY
+# 21. Declaration of special event by Commissioner 1
+Part: PART 3 SPECIAL EVENTS SECURITY
 
-(1) Subject to subsections (2) and (3), the Minister may declare an event to be a special event for the purposes of this Part.
+(1) Subject to subsections (2) and (3) and section 21A, the Commissioner may declare an event to be a special event for the purposes of this Part.
 
-(2) In deciding whether to make a declaration, the Minister shall have regard to —
+[23/2017]
 
-(a) the nature of the event;
+(2) In deciding whether to make a declaration and the scope of the declaration, the Commissioner is to have regard to —
 
-(b) the number and kind of people expected to attend the event;
+(a) the size of the event;
 
-(c) Singapore’s obligations for holding the event; and
+(b) the number and prominence of persons who are likely to attend the event;
 
-(d) any other relevant matter.
+(c) the likely media coverage of the event;
 
-(3) The Minister may make a declaration only if he is satisfied —
+(d) the likely contribution that the event will make to Singapore;
 
-(a) that the declaration is necessary for preserving public order and the safety of individuals involved in the event and other individuals and for the avoidance of disruptions to the event;
+(e) the commercial arrangements for the event;
 
-and
+(f) the event management experience and expertise of the event organiser;
 
-(b) that either —
+(g) the factors affecting the operational organisation of the event, including measures taken or to be taken by the event organiser in relation to the planning of the event, such as —
 
-(i) there is a reasonable likelihood that the event may be disrupted if the powers in sections 24 to 30 are not exercised;
+(i) preparation of traffic and transport management plans;
 
-(ii) the exercise of the powers is necessary because of the need to protect persons involved in or at the event;
+(ii) emergency management plans;
 
-(iii) the exercise of the powers is required as a condition of holding the event in Singapore; or
+(iii) security plans and consultation with police and emergency services; and
 
-(iv) there is a reasonable likelihood that the event because of its nature might be at risk of an act of terrorism.
+(iv) crowd management;
+
+(h) Singapore’s obligations for holding the event; and
+
+(i) any other relevant factor.
+
+[23/2017]
+
+(3) The Commissioner may make a declaration only if the Commissioner is satisfied that the declaration is necessary —
+
+(a) for preserving public order and the safety of individuals involved in the event and other individuals; and
+
+(b) for the avoidance of disruptions to the event.
+
+[23/2017]
 
 (4) A declaration under subsection (1) must —
 
-(a) contain a brief description of the event to which it applies, whether by means of a description, map or other document;
+(a) contain a brief description of the event to which the declaration applies, whether by means of a description, map or other document;
 
-(b) state the proposed time and date of the event or the proposed period in which the event is to take place, and the location of the special event area for the event;
+(b) state the proposed date and time of the event or the proposed period in which the event is to take place, and the location of the special event area for the event; and
 
-(c) state the period (not exceeding 3 years) for which the declaration is in force; and
+(c) state the period (not exceeding 3 years) for which the declaration is in force.
 
-(d) be published in the Gazette.
+[23/2017]
 
-(5) Once such a declaration is made, the Minister shall, within 7 days thereafter and before the date the declaration comes into force, cause to be published a notice of the making of the declaration, describing briefly the event and the special event area in such manner as will secure adequate publicity for the declaration.
+(5) Once such a declaration is made in respect of an event, the Commissioner must give a copy of the declaration to the event organiser of the event.
 
-(6) Failure to comply with subsection (5) in respect of any declaration shall not invalidate the declaration.
+[23/2017]
 
-(7) Unless sooner revoked, a declaration shall expire on the date, and at the time (if any) stated in, or worked out in accordance with the declaration.
+(6) Unless sooner revoked, a declaration expires on the date, and at the time (if any) stated in, or worked out in accordance with the declaration.
 
-(8) At any time before a declaration comes into force, the Minister may amend the description of the location of the special event area to which the declaration applies by publishing the amendment in the Gazette; and notice of the amendment describing briefly the changes therein shall be published as soon as practicable in such manner as will secure adequate publicity for the amended declaration.
+[23/2017]
+
+(7) At any time before the declaration in respect of a special event comes into force, the Commissioner may, by informing the event organiser of the event, amend all or any of the following:
+
+(a) the description of the location of the special event area to which the declaration applies;
+
+(b) the date and time of the special event or the proposed period in which the special event is to take place;
+
+(c) the period (not exceeding 3 years) for which the declaration is in force.
+
+[23/2017]
+
+(8) To avoid doubt, more than one declaration under this section may be made in respect of the same event.
+
+[23/2017]

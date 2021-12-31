@@ -1,23 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PUBLIC ORDER ACT 2009
 
-PUBLIC ORDER ACT (CHAPTER 257A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Public Order Act. It is not part of the Act.
+1. Act 15 of 2009 — Public Order Act 2009 Bill : 8/2009 First Reading : 23 March 2009 Second and Third Readings : 13 April 2009 Commencement : 9 October 2009 2. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012 (Amendments made by section 32 of the above Act) Bill : 22/2011 First Reading : 21 November 2011 Second Reading : 18 January 2012 Notice of Amendments : 18 January 2012 Third Reading : 18 January 2012 Commencement : 1 March 2012 (section 32) 3. 2012 Revised Edition — Public Order Act (Chapter 257A) Operation : 31 May 2012 4. Act 16 of 2015 — Unmanned Aircraft (Public Safety and Security) Act 2015 (Amendments made by Part 2 of the above Act) Bill : 13/2015 First Reading : 13 April 2015 Second and Third Readings : 11 May 2015 Commencement : 1 June 2015 (Part 2) 5. Act 28 of 2017 — Public Entertainments and Meetings (Amendment) Act 2017 (Amendments made by section 24(8) of the above Act) Bill : 22/2017 First Reading : 3 April 2017 Second and Third Readings : 8 May 2017 Commencement : 1 August 2017 (section 24(8)) 6. Act 23 of 2017 — Public Order (Amendment) Act 2017 Bill : 16/2017 First Reading : 9 March 2017 Second and Third Readings : 3 April 2017 Commencement : 1 October 2017 7. Act 26 of 2018 — Public Order and Safety (Special Powers) Act 2018 (Amendments made by section 57 of the above Act) Bill : 11/2018 First Reading : 27 February 2018 Second Reading : 21 March 2018 Notice of Amendments : 21 March 2018 Third Reading : 21 March 2018 Commencement : 16 May 2018 (section 57)
 
-1. Act 15 of 2009 — Public Order Act 2009
+Abbreviations
 
-Date of First Reading : 23 March 2009 (Bill No. 8/2009 published on 23 March 2009)
-
-Date of Second and Third Readings : 13 April 2009
-
-Date of commencement : 9 October 2009
-
-2. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012
-
-Date of First Reading : 21 November 2011 (Bill No.
-
-22/2011 published on 21 November 2011)
-
-Date of Second and Third Readings : 18 January 2012
-
-Date of commencement : 1 March 2012 (Section 32 – Amendment of Public Order Act 2009)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

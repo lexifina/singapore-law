@@ -1,17 +1,15 @@
 # 20. Interpretation of this Part
-Part: PART III SPECIAL EVENTS SECURITY
+Part: PART 3 SPECIAL EVENTS SECURITY
 
 In this Part, unless the context otherwise requires —
 
-“approved person”, in relation to any power under section 22, 24, 27, 28 or 29, means any of the following persons approved by the Commissioner in writing to exercise such power under that provision at or in relation to a special event area specified in that approval:
+“approved person”, in relation to any power under section 22, 24, 27, 28 or 29, means any of the following persons approved by the Commissioner in writing to exercise the power under that provision at or in relation to a special event area specified in that approval:
 
-(a) any member of an auxiliary police force; or
+(a) any member of an auxiliary police force;
 
 (b) any security officer who is employed by, or whose services are supplied to, the occupier of the special event area;
 
 “entrant”, in relation to a special event area, means a person who is about to enter or is in the area;
-
-“event organiser”, in relation to an event, means a person who is responsible (whether fully or substantially) for the organisation and holding of the event and the receipt of revenue from the event (if any);
 
 “garment” includes a cloak, coat or shirt;
 
@@ -23,7 +21,11 @@ In this Part, unless the context otherwise requires —
 
 “place” includes an area;
 
-“prohibited item”, in relation to a special event, means such thing or animal that is stated to be a prohibited item in the notification in respect of the event under section 22;
+“prohibited item”, in relation to a special event, means any thing or animal that is stated to be a prohibited item in the notification in respect of the event under section 22;
+
+“prohibited item permit” means a permit of that name granted under section 26(4) for a specific prohibited item or a class of prohibited items;
+
+“remotely piloted aircraft” and “remotely piloted aircraft system” have the same respective meanings as assigned in the Air Navigation Act 1966;
 
 “search” includes —
 
@@ -33,6 +35,12 @@ In this Part, unless the context otherwise requires —
 
 “statutory condition of entry”, in relation to a special event, means a condition that is stated in the notification concerning the event under section 22 to be a statutory condition of entry to the special event area;
 
+“unmanned aircraft” means an aircraft that may be flown or used without any individual on board the aircraft to operate it, and excludes a balloon or kite;
+
+“unmanned aircraft system” means an unmanned aircraft and its associated elements;
+
 “vehicle” includes an aircraft and a boat;
 
 “X-ray machine” means a device through which a person’s belongings are passed and X-rayed.
+
+[16/2015; 23/2017]
