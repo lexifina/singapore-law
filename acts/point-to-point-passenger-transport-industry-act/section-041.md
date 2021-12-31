@@ -1,0 +1,19 @@
+# 41. Offences
+Part: PART 6 ENFORCEMENT Division 1 — Regulatory action
+Division: Division 2 — Enforcement powers
+
+(1) A person who, without reasonable excuse, fails to do anything required of the person by an authorised officer under section 38(1) or 39(1), or by notice under section 40(1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(2) A person —
+
+(a) who intentionally alters, suppresses or destroys any document or information which the person has been required by an authorised officer under section 38(1)(i) or 39(1)(f), or by a notice under section 40(1) to provide; or
+
+(b) who, in providing any document or information required by an authorised officer under section 38(1)(i) or 39(1)(f), or by a notice under section 40(1), makes any statement which the person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that the person —
+
+(a) does not possess the document or information required; or
+
+(b) has taken all reasonable steps available to the person to obtain the document or information required and has been unable to obtain it.
+
+(4) To avoid doubt, for the purposes of subsection (1), it is a reasonable excuse for a person to refuse or fail to provide any information, produce any document or answer any question if doing so might tend to incriminate that person.
