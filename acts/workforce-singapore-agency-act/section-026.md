@@ -1,0 +1,4 @@
+# 26. Application of moneys
+Part: PART 5 FINANCIAL PROVISIONS
+
+The moneys of the Agency must be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payment that the Agency is authorised or required to make.

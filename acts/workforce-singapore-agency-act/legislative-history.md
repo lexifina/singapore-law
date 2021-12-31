@@ -1,0 +1,13 @@
+# LEGISLATIVE HISTORY WORKFORCE SINGAPORE AGENCY ACT 2003
+
+(Formerly known as the Singapore Workforce Development Agency Act (2004 Ed.))
+
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Act 14 of 2003 — Singapore Workforce Development Agency Act 2003 Bill : 13/2003 First Reading : 30 June 2003 Second Reading : 15 August 2003 Notice of Amendments : 15 August 2003 Third Reading : 15 August 2003 Commencement : 1 September 2003 2. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (51) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (51) of the Schedule) 3. 2004 Revised Edition — Singapore Workforce Development Agency Act (Chapter 305D) Operation : 31 December 2004 4. Act 25 of 2009 — Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009 (Amendments made by section 2 read with item 15 of the Schedule to the above Act) Bill : 19/2009 First Reading : 14 September 2009 Second and Third Readings : 19 October 2009 Commencement : 15 January 2010 (section 2 read with item 15 of the Schedule) 5. Act 20 of 2016 — Singapore Workforce Development Agency (Amendment) Act 2016 Bill : 19/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 4 October 2016 Note: The Singapore Workforce Development Agency Act was renamed as the Workforce Singapore Agency Act by this Act.
+
+6. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 111 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 111) 7. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 15(17) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 15(17))
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
