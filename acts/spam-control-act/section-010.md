@@ -1,4 +1,4 @@
 # 10. Application of this Part
-Part: PART III UNSOLICITED COMMERCIAL ELECTRONIC MESSAGES
+Part: PART 3 UNSOLICITED COMMERCIAL ELECTRONIC MESSAGES
 
-This Part shall apply only to unsolicited commercial electronic messages.
+This Part applies only to unsolicited commercial electronic messages.

@@ -1,7 +1,7 @@
 # 12. Aiding, abetting, etc.
-Part: PART IV CIVIL ACTION
+Part: PART 4 CIVIL ACTION
 
-(1) No person shall —
+(1) A person must not —
 
 (a) aid, abet or procure a contravention of section 9 or 11;
 
@@ -11,6 +11,8 @@ Part: PART IV CIVIL ACTION
 
 (d) conspire with others to effect a contravention of section 9 or 11.
 
-(2) A person does not contravene subsection (1), section 9 or 11 merely because he provides, or operates facilities for, online services or network access, or provides services relating to, or provides connections for, the transmission or routing of data.
+(2) A person does not contravene subsection (1), section 9 or 11 merely because the person —
 
-[Aust Spam Act, s. 16(9); Copyright Act, s. 193A(1)]
+(a) provides, or operates facilities for, online services or network access; or
+
+(b) provides services relating to, or provides connections for, the transmission or routing of data.
