@@ -1,8 +1,28 @@
-# 49. Composition of offences
-Part: PART VII MISCELLANEOUS PROVISIONS
+# 49. Accounts and records
+Part: PART 6 FINANCIAL PROVISIONS
 
-A Town Council may, in its discretion, compound any offence under this Act or any by-law made by it which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+(1) Every Town Council has a duty to ensure that there are kept in accordance with the Financial Rules —
 
-[43E
+(a) proper accounts and records of the transactions and affairs of the Town Council; and
 
-[25/90; 37/96]
+(b) proper and separate accounts for each of the funds established under section 47(1), (4) and (5).
+
+[17/2017]
+
+(2) A Town Council has a duty to do all things necessary to —
+
+(a) ensure that all money payable to the Town Council is properly collected;
+
+(b) ensure that appropriate arrangements are implemented for the security of all money received by the Town Council;
+
+(c) ensure that all money expended by the Town Council is correctly spent and properly authorised;
+
+(d) ensure that adequate control is maintained over assets owned by or in the custody or control of the Town Council;
+
+(e) ensure that all liabilities incurred by the Town Council are properly authorised; and
+
+(f) ensure that its accounts and records are kept up-to-date and ready for inspection at any time by its auditor, an inspector or any other person authorised by or under this Act or any other written law to inspect those accounts and records.
+
+[35
+
+[17/2017]

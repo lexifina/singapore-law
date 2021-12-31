@@ -1,10 +1,8 @@
-# 36. Annual accounts
-Part: PART VI FINANCIAL PROVISIONS
+# 36. Recovery of payments due to Town Council
+Part: PART 4A LIFT UPGRADING WORKS
 
-(1) A Town Council shall, within 3 months after the close of each financial year, prepare and submit financial statements in such form as the Auditor-General may direct in respect of that year to the auditor.
+Any improvement contribution, interest and penalty payable to a Town Council under this Part may be recovered by the Town Council by an action for a debt in any court of competent authority.
 
-(2) The financial year of a Town Council shall begin on 1st April of each year and end on 31st March of the succeeding year.
+[24H
 
-(3) The first financial year of a Town Council shall begin on the date of its establishment and shall end on 31st March of the succeeding year.
-
-[35
+[23/2005; 33/2018]

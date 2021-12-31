@@ -1,8 +1,6 @@
-# 56. Public servants for purposes of Penal Code
-Part: PART VII MISCELLANEOUS PROVISIONS
+# 56. Grants
+Part: PART 6 FINANCIAL PROVISIONS
 
-All members, officers and employees of a Town Council and all employees of its managing agent shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+For the purposes of enabling a Town Council to carry out its functions under this Act or any other Act, the Minister may from time to time make grants-in-aid to the Town Council of such sums of money and subject to such conditions as the Minister may determine out of moneys to be provided by Parliament.
 
-[50
-
-[25/90]
+[42

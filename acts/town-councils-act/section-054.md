@@ -1,10 +1,14 @@
-# 54. Board’s liability for repairs, etc.
-Part: PART VII MISCELLANEOUS PROVISIONS
+# 54. Power to borrow
+Part: PART 6 FINANCIAL PROVISIONS
 
-The Board shall not be liable in respect of any action, claim or proceedings arising out of any —
+A Town Council may raise any loan, chargeable upon and payable out of the revenues and assets of the Town Council, of such sums of money as may be required for —
 
-(a) repairs, maintenance, improvements or other works carried out by a Town Council or its agents to the common property of the residential and commercial property in the housing estates within the Town; or
+(a) the purposes of meeting expenses or liabilities in respect of any works specified in section 47(5)(a) or (8)(a);
 
-(b) charges paid to a Town Council by any person under this Act to meet the costs of such repairs, maintenance, improvements or other works.
+(b) the repayment of any loan previously raised for any such purposes; and
 
-[48
+(c) such other purposes as may be prescribed.
+
+[40
+
+[17/2017]

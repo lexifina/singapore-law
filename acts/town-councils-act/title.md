@@ -1,22 +1,15 @@
-TOWN COUNCILS ACT
-(CHAPTER 329A)
-Act
-12 of 1988
-1989 Ed. Cap. 329A
-Amended by
-25 of 1990
-18 of 1992
-37 of 1996
-1997 Ed. Cap. 329A
-Amended by
-6 of 1999
-REVISED EDITION 2000
-(1st July 2000)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+TOWN COUNCILS ACT 1988
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the incorporation of Town Councils to control, manage, maintain and improve the common property of housing estates of the Housing and Development Board, their constitution, functions and for matters incidental thereto.
 
-[5th August 1988]
+[5 August 1988]

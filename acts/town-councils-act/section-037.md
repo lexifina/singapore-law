@@ -1,26 +1,28 @@
-# 37. Estimates
-Part: PART VI FINANCIAL PROVISIONS
+# 37. Power of Minister to make rules
+Part: PART 4A LIFT UPGRADING WORKS
 
-(1) Not later than one month before the end of each financial year, a Town Council shall prepare, and display for public inspection in such places within the Town as it may direct, estimates of its revenue and expenditure for the next financial year together with a list of works which the Town Council proposes to undertake during the next financial year.
+(1) The Minister may make rules for giving effect to the provisions of this Part and for the due administration thereof and, in particular, for or with respect to all or any of the following matters:
 
-(2) The estimates shall set out, under separate headings, the sources of revenue and the distribution of expenditure.
+(a) prescribing the manner and procedure for obtaining at a poll, the opinion of owners of flats for lift upgrading works;
 
-(3) Where several matters are dealt with under one heading, each such matter shall be itemised and shown in a separate sub-heading relating to similar items.
+(b) prescribing the voting value of votes by owners of flats, including different voting values in respect of different classes of owners;
 
-(4) The estimates may provide for —
+(c) prescribing the manner for recovering the improvement contribution from owners of the flats;
 
-(a) expenditure of such sums as may be necessary to defray the cost of official ceremonies of the Town Council; and
+(d) prescribing the interest and penalty to be paid by any person for the late payment of any improvement contribution;
 
-(b) payment of allowances and salaries to members of the Town Council.
+(e) prescribing any expenditure limits for lift upgrading works;
 
-(5) The list of works shall show in respect of each work —
+(f) prescribing anything that may be prescribed.
 
-(a) the estimated total cost thereof;
+[23/2005]
 
-(b) the date on which the work is expected to be completed; and
+(2) The Minister may, in making any such rules, provide that —
 
-(c) the amount to be expended thereon during the next financial year.
+(a) any contravention of, or failure or neglect to comply with, any provision of the rules shall be an offence punishable with a fine not exceeding $5,000; and
 
-(6) A Town Council may from time to time revise the estimates and list of works prepared by it under subsection (1).
+(b) where an offence under the rules committed by a Town Council is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, its chairperson or secretary, or any individual who was purporting to act in any such capacity, that chairperson, secretary or individual (as the case may be) as well as the Town Council shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-[36
+[24I
+
+[23/2005]

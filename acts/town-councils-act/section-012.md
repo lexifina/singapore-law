@@ -1,18 +1,14 @@
-# 12. Resignation of chairman and vice-chairmen
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
+# 12. Resignation of chairperson and vice-chairpersons
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
 
-(1) The chairman shall not resign or vacate his office and any purported resignation or vacation of office in breach of this section shall be deemed to be invalid.
+(1) The chairperson must not resign or vacate his or her office and any purported resignation or vacation of office in breach of this section is deemed to be invalid.
 
-(2) Where a Town Council has more than one elected member, the chairman may resign his office if another elected member is appointed in his place by the elected members.
+(2) Where a Town Council has more than one elected member, the chairperson may resign his or her office if another elected member is appointed in the chairperson’s place by the elected members.
 
-(3) Subject to subsection (2), the chairman may resign his office by giving notice in writing under his hand to the Minister.
+(3) Subject to subsection (2), the chairperson may resign his or her office by giving written notice under the hand of the chairperson to the Minister.
 
-(4) A vice-chairman may resign his office by giving notice in writing under his hand to the chairman.
+(4) A vice-chairperson may resign his or her office by giving written notice under the hand of the vice-chairperson to the chairperson.
 
-[25/90]
+(5) Where the chairperson or a vice-chairperson dies or the office of chairperson or vice-chairperson is otherwise vacated, another chairperson or vice-chairperson (as the case may be) must be appointed within 7 days after the death or vacation of office and section 9 applies, with the necessary modifications, to such appointment.
 
-(5) Where the chairman or a vice-chairman dies or the office of chairman or vice-chairman is otherwise vacated, another chairman or vice-chairman, as the case may be, shall be appointed within 7 days after the death or vacation of office and section 9 shall apply, with the necessary modifications, to such appointment.
-
-[25/90; 37/96]
-
-(6) Subsections (1) and (2) shall not apply to any chairman appointed under section 9 (7).
+(6) Subsections (1) and (2) do not apply to any chairperson appointed under section 9(7).

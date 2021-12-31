@@ -1,48 +1,52 @@
-# 24. By-laws for regulation of housing estates
-Part: PART IV FUNCTIONS AND POWERS OF TOWN COUNCIL
+# 24. Interaction between Town Council and statutory authorities
+Part: PART 4 FUNCTIONS AND POWERS OF TOWN COUNCIL
 
-(1) A Town Council may make by-laws for regulating the control, management, administration, use and enjoyment of the common property of the residential and commercial property in the housing estates of the Board within the Town and generally for the purposes of exercising its powers and carrying out its duties and functions under this Act or any other Act.
+(1) ATown Council must, in the exercise of its powers and the performance of its functions and duties under this Act in relation to the residential property and commercial property in the housing estates of the Board within its Town, work cooperatively and in collaboration with the following for the benefit of the residents of those estates:
 
-[37/96]
+(a) the Board in the discharge of the Board’s functions under the Housing and Development Act 1959;
 
-(2) Without prejudice to the generality of subsection (1), a Town Council may make by-laws for or in respect of all or any of the following matters:
+(b) any statutory authority or public officer performing functions (but without specific power) under any written law for any of the following purposes:
 
-(a) prescribing the administrative fee to be paid by any person in respect of any services provided by the Town Council or any debt due to the Town Council;
+(i) securing public safety and ensuring public order in or around the Town;
 
-(b) prohibiting or regulating the parking of vehicles on common property other than parking places;
+(ii) preventing disease or injury, or creating and maintaining a healthy environment in or around the Town;
 
-(c) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Town Council and be recoverable as such) to be paid by the Town Council’s licensees or by any owner or tenant of any flat leased from the Board for late payment of any conservancy and service charges or licence fee due to the Town Council;
+(iii) urban development that integrates electronic, information and communication technologies so as to improve quality of life for residents in and around the Town.
 
-(d) requiring deposits to be placed with the Town Council by any owner or tenant of any flat leased from the Board to secure the payment of conservancy and service charges; and
+[17/2017]
 
-(e) prescribing the offences which may be compounded.
+(2) Where —
 
-[25/90; 37/96]
+(a) the Board, or a statutory authority or public officer mentioned in subsection (1)(b), intends to perform within the Town for which a Town Council is established, a function under any written law for any of the purposes mentioned in subsection (1)(a) or (b), as the case may be;
 
-(3) A Town Council, owner or tenant of a flat leased from the Board within the Town, shall be entitled to apply to the court —
+(b) the Board, or the statutory authority or public officer, has given to the Town Council a notice of its or the officer’s intention to perform that function on or in relation to the common property of the residential and commercial property in the housing estates of the Board within the Town; and
 
-(a) for an order to enforce the performance of or restrain the breach of any by-law made by that Town Council; or
+(c) the Town Council has unreasonably delayed, hampered or prevented the performance of that function on or in relation to that common property, the Board, or the statutory authority or public officer (as the case may be) with the consent of the Board, may give notice to the Town Council concerned requiring the Town Council (according to the circumstances of the case) to do, or to refrain from doing, such things as are specified in the notice as to facilitate or enable the Board, or the statutory authority or public officer (as the case may be), to so perform that function.
 
-(b) to recover damages for any loss or injury to any person or property arising out of the breach of any by-law made by that Town Council, by or from any person bound to comply therewith or the Town Council, as the case may be, and the court may make such order against any such person or the Town Council as the court thinks fit.
+[17/2017]
 
-(4) Every by-law or amendment of or addition to or revocation of or substitution for any by-law made by a Town Council shall come into operation upon the date specified therein but shall cease to have effect upon the expiration of a period of one month from the date of its publication in the Gazette if prior to the expiration of that period it has been disapproved by the Minister by order published in the Gazette.
+(3) If a notice given to a Town Council under subsection (2) is not complied with, the Board, or the statutory authority or public officer (as the case may be) may —
 
-[37/96]
+(a) carry out, or cause to be carried out, all or any of the things as are specified in the notice, and perform its or the officer’s function on or in relation to the common property of the residential and commercial property in the housing estates of the Board within the Town; and
 
-(5) Any order made by the Minister under subsection (4) shall have effect upon the date specified therein but shall not affect the validity of anything previously done under the disapproved by-law.
+(b) recover all expenses reasonably incurred by the Board, or the statutory authority or public officer (as the case may be) carrying out those things.
 
-[37/96]
+[17/2017]
 
-(6) Every by-law or amendment of or addition to or revocation of or substitution for any by-law of a Town Council shall, within 15 days of its coming into operation, be displayed in such places within the Town as the Town Council may direct.
+(4) Without affecting subsection (3), if a Town Council fails, without reasonable excuse, to comply with the requirements of a notice given to it under subsection (2), that Town Council shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.
 
-[37/96]
+[17/2017]
 
-(7) No by-law made by a Town Council shall be inconsistent with any rule made under the Housing and Development Act (Cap. 129) which is applicable to the Town and any such by-law which is so inconsistent shall, to the extent of the inconsistency, be void.
+(5) To avoid doubt, this section is in addition to, and not in derogation of, any other written law that makes it an offence to obstruct or impede a public officer or statutory authority or the Board, or an officer of a statutory authority or the Board, in the performance of its or the officer’s public function.
 
-(8) The by-laws of a Town Council in force on the date of publication shall be published annually in book form and copies thereof shall be made available for purchase at a reasonable price by members of the public.
+[17/2017]
 
-(9) Any person who commits a breach of any of the by-laws made by a Town Council or makes default in complying with any of the by-laws, and every person who is knowingly a party to the breach or default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(6) This section does not apply to or in relation to any emergency-related purpose within the meaning of section 25.
 
-[37/96]
+[17/2017]
 
-(10) In this section, ‘‘flat’’ includes any stall in any market or food centre of the Board.
+(7) To avoid doubt, this section does not prohibit a Town Council from proposing reasonable terms and conditions for carrying out activities mentioned in section 21(3) or (4).
+
+[21A
+
+[17/2017]

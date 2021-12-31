@@ -1,10 +1,32 @@
-# 23. Power of entry
-Part: PART IV FUNCTIONS AND POWERS OF TOWN COUNCIL
+# 23. Duties of Town Council
+Part: PART 4 FUNCTIONS AND POWERS OF TOWN COUNCIL
 
-(1) For the purpose of carrying out any work —
+(1) A Town Council must, for the purposes of the residential and commercial property in the housing estates of the Board within the Town —
 
-(a) under section 21 or 22; or
+(a) control, manage and administer the common property of the residential and commercial property for the benefit of the residents of those estates;
 
-(b) required to be carried out by a notice served on it by any public authority or statutory board or by an order of the Commissioner of Buildings under the Buildings and Common Property (Maintenance and Management) Act (Cap. 30), a Town Council may, by its employees or agents, enter upon any flat of the Board or any part of the housing estates within the Town for the purpose of carrying out the work, in the case of an emergency, at any time, or, in any other case, at any reasonable time after giving notice to any occupier of that flat or part of those housing estates.
+(b) properly maintain and keep in a state of good and serviceable repair the common property of the residential and commercial property;
 
-(2) A person who obstructs or hinders a Town Council in the exercise of its power under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(c) contribute such sum towards the premiums to be paid by the Board for the insurance of the common property of the residential and commercial property against damage by fire as the Minister may, by written notice to the Town Council, determine;
+
+(d) where necessary, renew or replace any fixtures or fittings comprised in the common property of the residential and commercial property;
+
+(e) provide essential maintenance and lift rescue services to the residents of the residential and commercial property;
+
+(f) properly maintain and keep in a good and serviceable repair (including landscaping of) the facilities within the Town that is outside the common property of the residential and commercial property in the housing estates of the Board within the Town, where the facilities are erected, installed or planted by the Town Council with the approval of the Minister and the consent of the owner of the property on which the facilities are erected, installed or planted;
+
+(g) comply with the provisions of this Act and the rules made under this Act; and
+
+(h) comply with any notice or order served on it by any competent, public or statutory authority requiring the abatement of any nuisance on the common property of the residential and commercial property or ordering repairs or other work to be done in respect of the common property.
+
+[23/2005]
+
+(2) Where a requirement or duty is imposed on a Town Council by this section, the Board or any person for whose benefit, or for the benefit of whose flat that requirement or duty is imposed on the Town Council, may apply to the General Division of the High Court for an order compelling the Town Council to carry out the requirement or perform the duty, as the case may be.
+
+[40/2019]
+
+(3) On an application being made under subsection (2), the General Division of the High Court may make such order as it thinks proper.
+
+[21
+
+[40/2019]

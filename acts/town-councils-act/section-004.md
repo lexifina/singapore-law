@@ -1,4 +1,6 @@
-# 4. Establishment of Town Councils
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
+# 4. Establishment of Town Council
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
 
-On such date as the Minister may, from time to time by order published in the Gazette, specify in respect of any Town, there shall be established for that Town a body to be known as a Town Council.
+A Town Council is established by this section for every Town unless the Town Council is dissolved under this Act.
+
+[17/2017]

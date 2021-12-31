@@ -1,46 +1,66 @@
-# 9. Chairman and vice-chairmen
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
+# 9. Chairperson and vice-chairpersons
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
 
-(1) A chairman of a Town Council shall be appointed by the elected members from among their number within 30 days after any general election or by-election in any constituency comprised within the Town under the Parliamentary Elections Act (Cap. 218) for such term as the elected members may determine.
+(1) Subject to subsection (3), a chairperson of a Town Council for a Town is —
 
-(2) The first chairman of a Town Council shall be so appointed within 7 days after the establishment of the Town Council.
+(a) if the area of the Town comprises only one single Member constituency — the Member of Parliament for that constituency; and
 
-[18/92]
+(b) if the area of the Town comprises a single group representation constituency, or 2 or 3 constituencies —
 
-(3) Where the elected members fail to appoint a chairman under subsection (1), the Minister shall appoint any elected member to be the chairman for such term as the Minister may determine.
+whoever is chosen by the elected members of the Town Council from among themselves to be the chairperson.
 
-[18/92]
+[17/2017]
 
-(4) Where the area of a Town comprises only one constituency (other than a group representation constituency), the Member of Parliament for that constituency shall be the chairman during his tenure of office as a Member of Parliament for that constituency.
+(2) Unless otherwise provided in subsection (4), the chairperson of a Town Council for a Town (as determined under subsection (1)) assumes that office as follows:
 
-(5) The chairman shall appoint from among the members not more than 2 vice-chairmen for such term, not exceeding 2 years, as he may determine.
+(a) for a Town declared after a general election — on the day that the order made under section 3(1) in the circumstances in section 3(3) takes effect;
 
-[25/90]
+(b) for a Town comprising one or more constituencies in which a by-election is held —
 
-(6) The chairman or a vice-chairman, if he is an elected member, shall hold office as chairman or vice-chairman, as the case may be, only so long as he is an elected member and shall be eligible for reappointment.
+(i) if the Town comprises only one single Member constituency — on the day after the day the candidate is declared returned as the Member of Parliament for that constituency under section 49(7E)(a) or 49A(5) of the Parliamentary Elections Act 1954, whichever happens; or
 
-[25/90]
+(ii) if the Town comprises a single group representation constituency, or 2 or 3 constituencies — on the 14th day after the last date the election results are declared for the constituency or constituencies in which the by-election is held;
 
-(7) Where all the elected members of a Town Council have vacated their seats in Parliament by reason of a dissolution of Parliament or otherwise, the appointed members shall, with the approval of the Minister, forthwith appoint one of their number to act as chairman for such term as they may determine; and where such members fail to do so, the Minister shall appoint any appointed member to act as chairman for such term as the Minister may determine.
+(c) for any other case — on the date the Town for the Town Council is declared under section 3.
 
-(8) Any chairman appointed under subsection (7) may, with the approval of the Minister, appoint not less than 6 nor more than 30 members, of whom not less than two-thirds shall be residents of any housing estate of the Board within the Town.
+[17/2017]
 
-[18/92]
+(3) If the choice required by subsection (1)(b) is not made by the elected members of a Town Council on or before the applicable date mentioned in subsection (2), the Minister must appoint the chairperson for that Town Council from among its elected members.
 
-(9) The appointment of any chairman under subsection (7) —
+[17/2017]
 
-(a) shall terminate upon the assumption of office of the elected member or members; or
+(4) The chairperson so appointed under subsection (3) assumes office on the day immediately after the applicable date mentioned in subsection (2), and holds office for such term as the Minister may determine.
 
-(b) may be revoked by the Minister if he is satisfied that it is desirable in the public interest to do so and thereupon another chairman shall be appointed in the same manner prescribed in subsection (7).
+[17/2017]
 
-(10) The chairman may at any time revoke the appointment of any vice-chairman without assigning any reason.
+(5) The chairperson must appoint from among the members not more than 2 vice-chairpersons for such term, not exceeding 2 years, as the chairperson may determine.
 
-[25/90]
+(6) The chairperson or a vice-chairperson, if he or she is an elected member, holds office as chairperson or vice-chairperson (as the case may be) only so long as he or she is an elected member and is eligible for re-appointment.
 
-(11) The chairman and any vice-chairman of a Town Council shall, as soon as practicable after their assumption of office, complete a declaration of acceptance of such office in the form prescribed in the Schedule and deliver the declaration to the Minister.
+(7) Where all the elected members of a Town Council have vacated their seats in Parliament by reason of a dissolution of Parliament or otherwise, the appointed members must, with the approval of the Minister, forthwith appoint one of their number to act as chairperson for such term as they may determine; and where such members fail to do so, the Minister must appoint any appointed member to act as chairperson for such term as the Minister may determine.
 
-(12) Any failure to comply with subsection (11) by the chairman or vice-chairman shall not invalidate his term of office.
+(8) Any chairperson appointed under subsection (7) may, with the approval of the Minister, appoint at least 6 and not more than 30 members, of whom at least two-thirds must be residents of any housing estate of the Board within the Town.
 
-[25/90]
+(9) The appointment of any chairperson under subsection (7) —
 
-(13) A Town Council shall as soon as practicable publish in the Gazette the names of the chairman, the vice-chairmen and other members of the Town Council.
+(a) terminates upon the assumption of office of the elected member or members of the Town Council for the Town after the general election; or
+
+(b) may be revoked by the Minister if the Minister is satisfied that it is desirable in the public interest to do so and thereupon another chairperson must be appointed in the same manner prescribed in subsection (7).
+
+[17/2017]
+
+(10) To avoid doubt, an individual’s appointment as an appointed member is not affected by reason only of the revocation —
+
+(a) by the Minister under subsection (9)(b) of the individual’s appointment to act as chairperson; or
+
+(b) by the chairperson under subsection (11) of the individual’s appointment to act as vice-chairperson.
+
+[17/2017]
+
+(11) The chairperson may at any time revoke the appointment of any vice-chairperson without assigning any reason.
+
+(12) The chairperson and any vice-chairperson of a Town Council must, as soon as practicable after their assumption of office, complete a declaration of acceptance of such office in the form prescribed by rules under section 82 and deliver the declaration to the Minister.
+
+[17/2017]
+
+(13) Any failure to comply with subsection (12) by the chairperson or vice-chairperson does not invalidate his or her term of office.

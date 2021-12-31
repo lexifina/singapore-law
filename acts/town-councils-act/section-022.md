@@ -1,8 +1,46 @@
-# 22. Power of Town Council to carry out certain works
-Part: PART IV FUNCTIONS AND POWERS OF TOWN COUNCIL
+# 22. Secretary and other staff of Town Council
+Part: PART 4 FUNCTIONS AND POWERS OF TOWN COUNCIL
 
-(1) Where any defect occurs in any pipe, wire, cable, duct or other apparatus within a flat in any residential or commercial property of the Board within the Town which is used for or in connection with the carrying, conveying or supplying to such property of water, sewerage, drainage, gas, electricity, garbage or artificially cooled air, the Town Council may carry out such work as is necessary to rectify the defect.
+(1) ATown Council must appoint an individual, including any appointed member, to be the secretary to the Town Council on such terms and conditions as the Town Council may determine who is responsible to the Town Council for the proper administration and management of the functions and affairs of the Town Council in accordance with this Act.
 
-[18/92]
+(2) However, an individual is disqualified from being appointed under subsection (1) as, and must stop being, the secretary to a Town Council if the individual —
 
-(2) Where a Town Council incurs any expenses or performs any repairs, works or acts that it is required or authorised by this Act or by any other written law to perform (whether or not the expenses were incurred or the repairs, works or acts were performed consequent upon the service on it by any Government or statutory authority of any notice or order) and the expenses or the repairs, works or acts were rendered necessary by reason of any wilful or negligent act or omission on the part of, or breach of any provision of the by-laws of the Town Council by, any person or his tenant, licensee or invitee, the amount of those expenses expended by the Town Council in performing the repairs, works or acts shall be recoverable by the Town Council from that person.
+(a) is appointed under section 52(1) as the auditor of the Town Council;
+
+(b) is or becomes the managing agent of the Town Council; or
+
+(c) is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent of the Town Council.
+
+[17/2017]
+
+(3) The individual appointed as the secretary to a Town Council must, as soon as practicable after assuming the appointment, complete a declaration of acceptance of that appointment in the form prescribed by rules under section 82 and deliver the declaration to the Minister.
+
+[17/2017]
+
+(4) ATown Council may appoint such other staff on such terms and conditions as it may determine to assist the secretary.
+
+(5) However, an individual is disqualified from being appointed under subsection (4) as, and must stop being, a relevant key officer of a Town Council if the individual —
+
+(a) is appointed under section 52(1) as the auditor of the Town Council;
+
+(b) is or becomes the managing agent of the Town Council; or
+
+(c) is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent of the Town Council.
+
+[17/2017]
+
+(6) The individual appointed as a relevant key officer of a Town Council must, as soon as practicable after assuming the appointment, complete a declaration of acceptance of that appointment in the form prescribed by rules under section 82 and deliver the declaration to the Minister.
+
+[17/2017]
+
+(7) In this section, “relevant key officer” means an individual occupying a position (however designated) of —
+
+(a) the general manager of the Town Council;
+
+(b) a finance manager of the Town Council; or
+
+(c) a deputy of the general manager or finance manager of the Town Council.
+
+[20
+
+[17/2017]
