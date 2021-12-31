@@ -1,19 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-NATIONAL RESEARCH FUND ACT
-(CHAPTER 201A)
-Act
-17 of 2006
-REVISED EDITION 2007
-(31st October 2007)
+NATIONAL RESEARCH FUND
+ACT 2006
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2007
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to establish a National Research Fund and to provide for its proper administration.
 
-[22nd August 2006]
+[22 August 2006]

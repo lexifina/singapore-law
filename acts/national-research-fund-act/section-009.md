@@ -1,13 +1,13 @@
 # 9. National Research Foundation Board
-Part: PART III ADMINISTRATION OF FUND
+Part: PART 3 ADMINISTRATION OF FUND
 
-(1) There shall be a body to be called the National Research Foundation Board comprising such number of members as the Minister thinks fit.
+(1) There is established a body called the National Research Foundation Board comprising any number of members that the Minister thinks fit.
 
-(2) The members of the Board shall each be appointed by the Minister and shall hold office for such period (not exceeding 3 years) as the Minister may in any case determine.
+(2) Each member of the Board must be appointed by the Minister and holds office for such period (not exceeding 3 years) as the Minister may in any case determine.
 
-(3) Subject to subsection (4), the functions and duties of the Board shall be —
+(3) Subject to subsection (4), the functions and duties of the Board are —
 
-(a) to co-ordinate research and development activities undertaken or promoted by the Government, public authorities whose objects are similar to the object of the Fund, enterprises, educational institutions or other persons in Singapore, and to facilitate co-operation, communication, collaboration and exchange of ideas and knowledge between them;
+(a) to coordinate research and development activities undertaken or promoted by the Government, public authorities whose objects are similar to the object of the Fund, enterprises, educational institutions or other persons in Singapore, and to facilitate cooperation, communication, collaboration and exchange of ideas and knowledge between them;
 
 (b) to investigate and evaluate the requirement for funding any research and development activity generally or specifically;
 
@@ -23,4 +23,4 @@ Part: PART III ADMINISTRATION OF FUND
 
 (h) to exercise such other powers and perform such other functions and duties with respect to the management, operation and administration of the Fund as may be prescribed.
 
-(4) The Board shall, in the exercise of its powers and the performance of its functions and duties under this Act, comply with such directives as may from time to time be issued by the Council.
+(4) The Board must, in the exercise of its powers and the performance of its functions and duties under this Act, comply with any directives that the Council may issue.

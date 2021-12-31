@@ -1,4 +1,4 @@
 # 8. Responsibility for Fund
-Part: PART III ADMINISTRATION OF FUND
+Part: PART 3 ADMINISTRATION OF FUND
 
-The Fund shall, subject to the direction of the Council, be managed and administered by the Board.
+The Fund is managed and administered by the Board subject to the direction of the Council.
