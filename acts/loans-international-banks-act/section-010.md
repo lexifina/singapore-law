@@ -1,0 +1,5 @@
+# 10. Statutory authority to repay to Government sums paid under guarantee
+
+(1) If any sum is paid out of the Consolidated Fund in respect of any liability incurred by the Government under a guarantee or other undertaking given in exercise of the powers conferred by section 7(1) in respect of any borrowing by a statutory authority the statutory authority shall repay that sum (together with interest on it at the same rate as that payable on the loan under the agreement by the statutory authority with the Bank) to the Consolidated Fund in such manner and at such time or by such instalments as the Minister may direct.
+
+(2) If any sum is so paid out of the Consolidated Fund the Minister shall, as soon as possible after the end of each financial year beginning with that in which the sum was paid and ending with that in which all liability in respect of it and any interest payable on it is finally discharged by the statutory authority concerned, present to Parliament a statement relating to it.

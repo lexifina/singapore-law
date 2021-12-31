@@ -1,0 +1,11 @@
+# 9. Powers exercisable by Government in event or prospect of default by statutory authority
+
+(1) Where it is made to appear to the President that there is reasonable cause to believe —
+
+(a) that a statutory authority is likely to fail or be unable to discharge any of its obligations under any agreement concluded by it with the Bank or under any bond, promissory note or other instrument issued pursuant to any such agreement; and
+
+(b) that the Government is or may become liable under any guarantee or other undertaking given in exercise of the powers conferred by section 7(1) in respect of such obligation, the President may by order give or authorise any other person to give such directions to the statutory authority as he or that other person may from time to time think necessary or desirable to ensure that satisfactory arrangements are made by the authority to enable it duly to discharge its obligations under the agreement, bond, promissory note or instrument or under this Act.
+
+(2) The statutory authority shall notwithstanding any provision in the written law by which it is established comply with any directions given by or under any such order.
+
+(3) Nothing in this section shall affect or derogate from any other power conferred by law on the President or any Minister or public officer in respect of the statutory authority.

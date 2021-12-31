@@ -1,0 +1,13 @@
+# 3. Power of Government to borrow from International Bank
+
+(1) Subject to the provisions of the Constitution and this Act, the Government may in such manner and on such terms and subject to such conditions as may be agreed between the Government and the Bank borrow from the Bank from time to time such sums as may be required by the Government.
+
+(2) Any sums borrowed by the Government under the power conferred by subsection (1) for the requirements of the Government shall be paid into the Development Fund and shall, notwithstanding section 3 of the Development Fund Act 1959, be applied and are hereby appropriated to the purposes for which they were borrowed as specified in any agreement concluded with the Bank in respect of the sums so borrowed:
+
+Provided that where any part of such a sum cannot be applied to those purposes that part may be applied to such other purposes as may be approved by the Minister and the Bank.
+
+(3) Any agreement between the Government and the Bank in respect of sums borrowed under the powers conferred by subsection (1) shall be made in the name of the Republic of Singapore and may be signed on behalf of the Government by the Minister or by any person authorised thereto in writing by the Minister.
+
+(4) As soon as possible after the conclusion of it a copy of any agreement concluded with the Bank in respect of any sum borrowed under the powers conferred by subsection (1) shall be presented by the Minister to Parliament.
+
+(5) Nothing in this section shall affect or derogate from any other power to borrow money possessed by the Government.
