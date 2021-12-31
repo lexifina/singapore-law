@@ -1,10 +1,4 @@
 # 11. Where duty chargeable depends on duty paid on another instrument
-Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instruments to duty
+Part: PART 2 PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instruments to duty
 
-Where the duty with which an instrument is chargeable, or its exemption from duty, depends in any manner upon the duty actually paid in respect of another instrument, the payment of such last-mentioned duty may, if application is made to the Commissioner for that purpose, and on production of both the instruments, be denoted upon such first-mentioned instrument in such manner as the Minister may by rules prescribe.
-
-[33/99]
-
-*Section 10 to be repealed when section 36 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
+Where the duty with which an instrument is chargeable, or its exemption from duty, depends in any manner upon the duty actually paid in respect of another instrument, the payment of such last mentioned duty may, if application is made to the Commissioner for that purpose, and on production of both the instruments, be denoted upon such firstmentioned instrument in such manner as the Minister may by rules prescribe.

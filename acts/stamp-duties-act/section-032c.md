@@ -1,26 +1,22 @@
-# 32C. Amalgamation of companies under sections 215A to 215H of Companies Act
-Part: PART III PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
+# 32C. Amalgamation of companies under sections 215A to 215H of Companies Act 1967
+Part: PART 3 PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
-(1) This section shall apply to an amalgamation of companies in accordance with sections 215A to 215H of the Companies Act (Cap. 50), where applicable.
+(1) This section applies to an amalgamation of companies in accordance with sections 215A to 215H of the Companies Act 1967, where applicable.
 
-[39/2005]
+(2) Every notice of amalgamation issued by the Registrar of Companies under section 215F of the Companies Act 1967 upon an amalgamation mentioned in subsection (1) is treated for the purposes of this Act as a conveyance on sale —
 
-(2) Every notice of amalgamation issued by the Registrar of Companies under section 215F of the Companies Act upon an amalgamation referred to in subsection (1) shall be treated for the purposes of this Act as a conveyance on sale —
+(a) by each amalgamating company (called in this section the transferor) in respect of the chargeable property held by that transferor which is transferred to and vested in the amalgamated company (called in this section the transferee) upon the amalgamation; and
 
-(a) by each amalgamating company (referred to in this section as the transferor) in respect of the chargeable property held by that transferor which is transferred to and vested in the amalgamated company (referred to in this section as the transferee) upon the amalgamation; and
+(b) for a consideration equal to the higher of the following:
 
-(b) for a consideration equal to —
+(i) the value of the chargeable property so vested;
 
-(i) the value of the chargeable property so vested; or
+(ii) where the amount of consideration is specified in any instrument relating to the transfer of the chargeable property by the transferor to, and the vesting of the chargeable property in, the transferee, that amount.
 
-(ii) where the amount of consideration is specified in any instrument relating to the transfer of the chargeable property by the transferor to, and the vesting of the chargeable property in, the transferee, that amount, whichever is the higher.
+(3) In this section, “chargeable property” means —
 
-[39/2005]
+(a) immovable property situated in Singapore, or any beneficial interest in the immovable property; and
 
-(3) In this section, ‘‘chargeable property’’ means —
+(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest in the stocks and shares, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 81SH of the Securities and Futures Act 2001 or its nominee.
 
-(a) immovable property situated in Singapore, or any beneficial interest thereof; and
-
-(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act (Cap. 50) or its nominee.
-
-[39/2005]
+[35/2014]

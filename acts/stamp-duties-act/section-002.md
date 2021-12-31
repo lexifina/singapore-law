@@ -1,53 +1,31 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-In this Act, unless the context otherwise requires —
+(1) In this Act, unless the context otherwise requires —
 
-†‘‘adhesive stamp’’ means any stamp authorised by the Commissioner for the purposes of this Act;*
+“Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
 
-‘‘Commissioner’’ means the Commissioner of Stamp Duties appointed under this Act;
+“company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-‘‘conveyance on sale’’ includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
+“conveyance on sale” includes every instrument and every decree or order of any court, by which any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on the purchaser’s behalf or by the purchaser’s direction;
 
-‡‘‘die’’ includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
-
-Notes:
-
-*Revenue stamps were so authorised by G.N. No. S 252/70.
-
-†Definition of ‘‘adhesive stamp’’ to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-‡Definition of ‘‘die’’ to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
-
-‘‘duly stamped’’, as applied to an instrument chargeable with duty, means —
+“duly stamped”, as applied to an instrument chargeable with duty, means —
 
 (a) that the instrument bears an adhesive or impressed stamp of not less than the proper amount, and that stamp has been affixed in accordance with the provisions of this Act for the time being in force at the time of stamping; or
 
 (b) that the instrument, if stamped using the E-Stamping system, has attached to it a stamp certificate issued for the instrument by the Commissioner in accordance with the provisions of this Act for the time being in force at the time of stamping;
 
-‘‘duty’’ means any stamp duty for the time being chargeable under this Act or any other Act;
+“duty” means any stamp duty for the time being chargeable under this Act or any other Act;
 
-‘‘E-Stamping system’’ means the computer service established under section 6B;
+“E-Stamping system” means the computer service mentioned in section 6B(1);
 
-‘‘equitable mortgage’’ means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
+“equitable mortgage” means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
-‘‘executed’’ and ‘‘execution’’, used with reference to instruments not under seal, mean ‘‘signed’’ and ‘‘signature’’;
+“executed” and “execution”, used with reference to instruments not under seal, mean “signed” and “signature”;
 
-*‘‘impressed stamp’’ means either an adhesive stamp affixed by the proper officer over which an impression denoting the date of such impression has been made by the proper officer by means of a die, or an impression made by the proper officer by any mechanical means indicating the payment of duty and the date of such impression;
+“instrument” includes every written document;
 
-‘‘instrument’’ includes every written document;
-
-‘‘instrument of partition’’ means any instrument whereby co-owners of any property divide or agree to divide the property in severalty, and includes also a final order for
-
-*Definition of ‘‘impressed stamp’’ to be deleted when section 2 (a) of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) is brought into operation.
-
-(Sections 2 (a), 36 and 37 of the Stamp Duties (Amendment) Act 1999 (Act 33 of 1999) were not in operation at the time of this Revised Edition.)
-
-effecting a partition passed by the High Court and an award by an arbitrator directing a partition;
-
-‘‘lease’’ means a lease of immovable property, and includes —
+“lease” means a lease of immovable property, and includes the following:
 
 (a) any undertaking in writing to cultivate, occupy or pay or deliver rent for immovable property;
 
@@ -55,17 +33,17 @@ effecting a partition passed by the High Court and an award by an arbitrator dir
 
 (c) any writing on an application for a lease intended to signify that the application is granted;
 
-‘‘limited liability partnership’’ has the same meaning as in the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+“limited liability partnership” has the meaning given by the Limited Liability Partnerships Act 2005;
 
-‘‘marketable security’’ means a security of such a description as to be capable of being sold or negotiated in any stock market;
+“marketable security” means a security of such a description as to be capable of being sold or negotiated in any stock market;
 
-‘‘Master Plan’’ has the same meaning as in section 2 of the Planning Act (Cap. 232);
+“Master Plan” has the meaning given by section 2 of the Planning Act 1998;
 
-‘‘money’’ includes all sums whether expressed in the currency of Singapore or in any other currency;
+“money” includes all sums whether expressed in the currency of Singapore or in any other currency;
 
-‘‘mortgage’’ means a security by way of mortgage for the payment of any definite and certain sum of money advanced or lent at the time, or previously due or forborne to be paid, being payable, or for the repayment of money to be thereafter lent, advanced or paid, or which may become due upon an account current, together with any sum already advanced or due, or without, as the case may be, and includes —
+“mortgage” means a security by way of mortgage for the payment of any definite and certain sum of money advanced or lent at the time, or previously due or forborne to be paid, being payable, or for the repayment of money to be thereafter lent, advanced or paid, or which may become due upon an account current, together with any sum already advanced or due, or without (as the case may be), and includes —
 
-(a) any conveyance of any property in trust to be sold or otherwise converted into money intended only as a security, and redeemable before the sale or other disposal thereof, either by express stipulation or otherwise;
+(a) any conveyance of any property in trust to be sold or otherwise converted into money intended only as a security, and redeemable before the sale or other disposal of the property, either by express stipulation or otherwise;
 
 (b) any instrument in writing for defeating or making redeemable, or explaining or qualifying any conveyance of property, apparently absolute, but intended only as a security;
 
@@ -73,22 +51,36 @@ effecting a partition passed by the High Court and an award by an arbitrator dir
 
 (d) any deed operating as a mortgage of any stock or marketable security;
 
-‘‘paper’’ includes every material upon which words or figures can be expressed;
+“paper” includes every material upon which words or figures can be expressed;
 
-‘‘proper officer’’ means the Commissioner and such other officer as may be authorised by him to impress stamps or to issue stamp certificates;
+“proper officer” means the Commissioner and such other officer as may be authorised by the Commissioner to impress stamps or to issue stamp certificates;
 
-‘‘registered person’’ means a person approved under section 6B to be a registered user of the E-Stamping system;
+“residential property” means —
 
-‘‘residential property’’ means —
+(a) any house, building or other premises or any part thereof which is permitted to be used under the Planning Act 1998 or any other written law as a dwelling house or which is lawfully so used; or
 
-(a) any house, building or other premises or any part thereof which is permitted to be used under the Planning Act (Cap. 232) or any other written law as a dwelling-house or which is lawfully so used; or
+(b) any land zoned in the Master Plan for solely residential purposes or for mixed purposes, one of which is residential, and includes any estate or interest therein;
 
-(b) any land zoned in the Master Plan for solely residential purposes or for mixed purposes, one of which shall be residential, and shall include any estate or interest therein;
+“settlement” means any non-testamentary disposition in writing whether made voluntarily or upon a good or valuable consideration other than a bona fide pecuniary consideration by which any definite and certain property is settled, or agreed to be settled, in any manner for any purpose;
 
-‘‘settlement’’ means any non-testamentary disposition in writing whether made voluntarily or upon a good or valuable consideration other than a bona fide pecuniary consideration whereby any definite and certain property is settled or agreed to be settled in any manner for any purpose whatsoever;
+“stamp certificate” means a certificate that is issued electronically in respect of any instrument chargeable with duty denoting the amount of duty payable in respect of that instrument or that the duty otherwise chargeable in respect of that instrument is remitted;
 
-‘‘stamp certificate’’ means a certificate that is issued electronically in respect of any instrument chargeable with duty denoting the amount of duty payable in respect of that instrument or that the duty otherwise chargeable in respect of that instrument is remitted;
+“stock” includes any share in the capital stock or funded debt of a company, corporation, society or VCC in Singapore or elsewhere and stocks or funds of the Government or of any other government or country;
 
-‘‘stock’’ includes any share in the capital stock or funded debt of a company, corporation or society in Singapore or elsewhere and stocks or funds of the Government or of any other government or country.
+“VCC Act” means the Variable Capital Companies Act 2018.
 
-[38/75; 14/83; 26/96; 33/99; 6/2005]
+[33/99; 36/2008; 37/2018; 28/2019; 40/2019]
+
+(2) The following terms have the meanings given by the VCC Act:
+
+(a) share, in relation to a VCC;
+
+(b) sub-fund;
+
+(c) non-umbrella VCC;
+
+(d) umbrella VCC;
+
+(e) VCC.
+
+[28/2019]

@@ -1,12 +1,10 @@
-# 12. Counterparts Valuation for duty
-Part: PART II PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instruments to duty
+# 12. Counterparts
+Part: PART 2 PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY Liability of instruments to duty
 
-The duplicate or counterpart of an instrument chargeable with duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) shall not be deemed duly stamped unless —
+(1) The duplicate or counterpart of an instrument chargeable with duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) is not to be deemed duly stamped unless it is stamped as an original instrument.
 
-(a) it is stamped as an original instrument; or
+[23/2011]
 
-(b) it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
+(2) Without affecting subsection (1), the duplicate or counterpart of an instrument executed before 19 February 2011 and chargeable with duty is deemed duly stamped if it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
 
-[4/81; 33/99]
-
-Valuation for duty
+[23/2011]

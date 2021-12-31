@@ -1,12 +1,10 @@
 # 48. Denoting penalty
-Part: PART VI TIME OF STAMPING INSTRUMENTS
+Part: PART 6 TIME OF STAMPING INSTRUMENTS
 
-The payment of any penalty prescribed under section 46 shall be denoted —
+The payment of any penalty prescribed under section 46 must be denoted —
 
-(a) on the instrument concerned by an impressed stamp and certification by the Commissioner;
+(a) by a receipt issued by the Commissioner; or
 
-(b) by a receipt issued by the Commissioner; or
+(b) by notation on the stamp certificate relating to the instrument.
 
-(c) by notation on the stamp certificate relating to the instrument.
-
-[33/99]
+[1/2013]
