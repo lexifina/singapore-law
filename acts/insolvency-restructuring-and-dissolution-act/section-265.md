@@ -1,0 +1,8 @@
+# 265. Translations of instruments, etc.
+Part: PART 12 GENERAL PROVISIONS APPLICABLE TO PARTS 4 TO 11
+
+(1) Where under Parts 4 to 11 a corporation is required to lodge with the Registrar of Companies or the Official Receiver any instrument, certificate, contract or document or a certified copy of any instrument, certificate, contract or document and the instrument, certificate, contract or document is not written in the English language, the corporation must lodge at the same time with the Registrar of Companies or the Official Receiver (as the case may be) a certified translation of the instrument, certificate, contract or document in the English language.
+
+(2) Where under Parts 4 to 11 a corporation is required to make available for public inspection any instrument, certificate, contract or document and the instrument, certificate, contract or document is not written in the English language, the corporation must keep at its registered office in Singapore a certified translation of the instrument, certificate, contract or document in the English language.
+
+(3) Where any accounts, financial statements, minute books or other records of a corporation required by Parts 4 to 11 to be kept are not kept in the English language, the directors of the corporation must cause a true translation of such accounts, financial statements, minute books and other records to be made from time to time at intervals of not more than 7 days and must cause such translations to be kept with the original accounts, financial statements, minute books and other records for so long as the original accounts, financial statements, minute books and other records are required by Parts 4 to 11 to be kept.

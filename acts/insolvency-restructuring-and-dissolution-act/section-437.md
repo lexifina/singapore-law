@@ -1,0 +1,12 @@
+# 437. Composition of offences
+Part: PART 21 BANKRUPTCY MISCELLANEOUS PROVISIONS
+
+(1) The Official Assignee may compound any offence under Division 2 of Part 3 and Parts 13 to 21 which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $5,000.
+
+(2) On payment of the sum of money under subsection (1), no further proceedings are to be taken against that person in respect of the offence.
+
+(3) All sums collected under this section must be paid into the Consolidated Fund.
