@@ -1,8 +1,6 @@
-# 41. Fees, etc., payable to Authority
-Part: PART VI MISCELLANEOUS
+# 41. Fees, etc., payable to Agency
+Part: PART 6 MISCELLANEOUS
 
-All fees, charges, composition fines and moneys collected under this Act or any rules shall be paid to the Authority.
+All fees, charges and moneys collected under this Act or any rules made under this Act (except composition sums) must be paid to the Agency.
 
-[40A
-
-[16/2000]
+[11/2019]

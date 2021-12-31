@@ -1,5 +1,5 @@
 # 29. Altering licence, permit or certificate
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 Any person who —
 

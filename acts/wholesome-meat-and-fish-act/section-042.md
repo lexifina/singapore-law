@@ -1,11 +1,11 @@
 # 42. Rules
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) The Minister may make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make rules —
+(2) Without limiting subsection (1), the Minister may make rules —
 
-(a) prescribing the particulars, information and documents to be furnished with any application made under this Act;
+(a) prescribing the particulars, information and documents to be provided with any application made under this Act;
 
 (b) prescribing the form to be used for any purpose under this Act;
 
@@ -37,9 +37,9 @@ Part: PART VI MISCELLANEOUS
 
 (i) the construction, lighting, ventilation, air temperature, cleansing, drainage, water supply, maintenance and good management of premises subject to this Act;
 
-(ii) the construction, cleansing and maintenance of all fixtures, appliances, instruments, utensils and things connected or used therewith or connected with the management thereof; and
+(ii) the construction, cleansing and maintenance of all fixtures, appliances, instruments, utensils and things connected or used therewith or connected with the management of the premises; and
 
-(iii) the hygiene requirements to be observed by or in relation to any person working therein so far as concerns the clothing, conduct and health of such person;
+(iii) the hygiene requirements to be observed by or in relation to any person working in the premises so far as concerns the clothing, conduct and health of such person;
 
 (n) regulating and controlling the application of chemicals, drugs and other substances to meat products or fish products and the use of ingredients in the processing of meat products or fish products;
 
@@ -51,24 +51,30 @@ Part: PART VI MISCELLANEOUS
 
 (r) providing for the handling and treatment of live animals intended for slaughter for human consumption;
 
-(s) regulating methods for the slaughter of animals;
+(s) regulating the methods for the slaughter of animals;
 
 (t) providing for the standards of dressing animals slaughtered in licensed slaughter-houses;
 
 (u) regulating and controlling the import of animals, fish, meat products and fish products into Singapore and prescribing the mode of dealing with such animals, fish, meat products and fish products upon their entry into Singapore;
 
-(v) prescribing the procedure for the taking and analysis of samples under this Act;
+(v) setting out requirements and procedures for document control and recording by persons licensed under this Act so as to monitor the supply of meat products and fish products of acceptable quality in Singapore, including —
 
-(w) prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded; and
+(i) the information that must be collected about the meat product or fish product;
 
-(x) empowering the Director-General to issue, from time to time, such directives as the Director-General may consider necessary for the proper control and management of slaughter-houses, processing establishments and cold stores or for any matter connected with the provisions of this Act.
+(ii) the periods for which the information must be kept;
 
-[16/2000]
+and
 
-(3) The Minister may, in making any rules, provide that any contravention of, or failure or neglect to comply with, any provision of the rules or any directive issued by the Director-General pursuant to the rules shall be an offence and may prescribe the fine with which the offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $100 for every day or part thereof during which the offence continues after conviction.
+(iii) how, when and to whom that information must be reported;
 
-[16/2000]
+(w) prescribing the procedure for the taking and analysis of samples under this Act;
 
-(4) All rules made under this Act shall be presented to Parliament as soon as possible after publication in the Gazette.
+(x) prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded; and
 
-[41
+(y) empowering the Director-General to issue, from time to time, such directives as the Director-General may consider necessary for the proper control and management of slaughter-houses, processing establishments and cold stores or for any matter connected with the provisions of this Act.
+
+[11/2019]
+
+(3) The Minister may, in making any rules, provide that any contravention of, or failure or neglect to comply with, any provision of the rules or any directive issued by the Director-General pursuant to the rules shall be an offence and may prescribe the fine with which the offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $100 for every day or part of a day during which the offence continues after conviction.
+
+(4) All rules made under this Act must be presented to Parliament as soon as possible after publication in the Gazette.
