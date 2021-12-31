@@ -1,5 +1,5 @@
 # 63. Recovery of fees and other expenses incidental to prosecution
-Part: PART XII OFFENCES AND PROSECUTION
+Part: PART 12 OFFENCES AND PROSECUTION
 
 (1) When any person is convicted of an offence under this Act, the court may order that person to pay the following costs and expenses:
 

@@ -1,9 +1,9 @@
 # 20. False or misleading advertisement
-Part: PART V ADVERTISEMENT OF HEALTH PRODUCTS
+Part: PART 5 ADVERTISEMENT OF HEALTH PRODUCTS
 
-(1) No person shall advertise any health product or cause any health product to be advertised in a false or misleading way.
+(1) A person must not advertise any health product or cause any health product to be advertised in a false or misleading way.
 
-(2) For the purposes of subsection (1), an advertisement of a health product shall be taken to be false or misleading if —
+(2) For the purposes of subsection (1), an advertisement of a health product is taken to be false or misleading if —
 
 (a) it falsely describes the health product or gives any false information concerning the health product; or
 

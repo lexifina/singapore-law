@@ -1,7 +1,7 @@
 # 24. Issue and renewal of licences
-Part: PART VI LICENCES
+Part: PART 6 LICENCES
 
-(1) An application for a licence shall be made to the Authority in such form and manner as the Authority may require and shall be accompanied by —
+(1) An application for a licence must be made to the Authority in such form and manner as the Authority may require and must be accompanied by —
 
 (a) such particulars, information, documents and samples as the Authority may require; and
 
@@ -17,16 +17,16 @@ Part: PART VI LICENCES
 
 (b) refuse to issue the licence applied for.
 
-(3) Where the Authority refuses to issue a licence to an applicant under subsection (2)(b), the Authority shall, if requested to do so by the applicant, state in writing the reasons for the refusal.
+(3) Where the Authority refuses to issue a licence to an applicant under subsection (2)(b), the Authority must, if requested to do so by the applicant, state in writing the reasons for the refusal.
 
-(4) Every licence shall be issued in such form and manner as the Authority may determine, and shall be valid for such period as the Authority may specify therein unless it is sooner suspended or revoked in accordance with the provisions of this Act.
+(4) Every licence must be issued in such form and manner as the Authority may determine, and is valid for such period as the Authority may specify in the licence unless it is sooner suspended or revoked in accordance with the provisions of this Act.
 
-(5) The Authority may attach such conditions to a licence as it thinks necessary, and may from time to time vary such conditions by notice in writing given to the licensee.
+(5) The Authority may attach any conditions to a licence that it thinks necessary, and may from time to time vary the conditions by written notice given to the licensee.
 
 (6) Any person who, in making an application for a licence —
 
-(a) makes any statement or furnishes any document which he knows to be false or does not believe to be true; or
+(a) makes any statement or furnishes any document which the person knows to be false or does not believe to be true; or
 
 (b) by the intentional suppression of any material fact, furnishes information which is misleading, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(7) Subsections (1) to (6) shall apply, with the necessary modifications, to an application for the renewal of a licence.
+(7) Subsections (1) to (6) apply, with the necessary modifications, to an application for the renewal of a licence.

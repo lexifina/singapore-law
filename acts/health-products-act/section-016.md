@@ -1,7 +1,7 @@
-# 16. Prohibition against supply of health products that are adulterated, counterfeits, etc.
-Part: PART IV SUPPLY OF HEALTH PRODUCTS
+# 16. Prohibition against supply of health products that are adulterated, counterfeits, etc. 1
+Part: PART 4 SUPPLY OF HEALTH PRODUCTS
 
-(1) No person shall supply, or procure or arrange for the supply of, any health product which is —
+(1) A person must not supply, or procure or arrange for the supply of, any health product which is —
 
 (a) an adulterated health product;
 
@@ -17,9 +17,9 @@ Part: PART IV SUPPLY OF HEALTH PRODUCTS
 
 (b) in the case of an offence under subsection (1)(a), (b) or (c), to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(3) In any proceedings for an offence under subsection (1), it shall be a defence for the accused to prove that —
+(3) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove that —
 
-(a) he —
+(a) the accused —
 
 (i) did not know;
 
@@ -27,4 +27,4 @@ Part: PART IV SUPPLY OF HEALTH PRODUCTS
 
 (iii) could not, with reasonable diligence, have ascertained, that the health product was in contravention of that subsection; and
 
-(b) he had taken all such precautions and exercised all such due diligence as could reasonably be expected of him in the circumstances to ensure that the health product did not contravene that subsection.
+(b) the accused had taken all such precautions and exercised all such due diligence as could reasonably be expected of the accused in the circumstances to ensure that the health product did not contravene that subsection.

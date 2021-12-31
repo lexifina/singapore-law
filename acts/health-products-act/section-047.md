@@ -1,5 +1,5 @@
 # 47. Regulation of manufacture, import, supply, etc., of active ingredients
-Part: PART IX REGULATION OF DEALINGS IN ACTIVE INGREDIENTS
+Part: PART 9 REGULATION OF DEALINGS IN ACTIVE INGREDIENTS
 
 (1) The Authority may, with the approval of the Minister, make regulations to control and regulate the manufacture, import, supply, transport, possession and storage of active ingredients.
 
@@ -23,10 +23,8 @@ Part: PART IX REGULATION OF DEALINGS IN ACTIVE INGREDIENTS
 
 (f) that the supply of any active ingredient should only be made to certain specified persons and for certain specified purposes;
 
-and
-
 (g) that proper records should be kept in relation to any supply made of any active ingredient.
 
 (4) Any person who contravenes any regulation made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(5) In any proceedings for an offence under subsection (4), if any person is proved to have kept or had in his possession or under his control any active ingredient, he shall be presumed to have done so knowingly unless the contrary is proved by him.
+(5) In any proceedings for an offence under subsection (4), if any person is proved to have kept or had in the person’s possession or under the person’s control any active ingredient, the person is presumed to have done so knowingly unless the contrary is proved by that person.

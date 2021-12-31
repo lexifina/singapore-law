@@ -1,13 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY HEALTH PRODUCTS ACT 2007
 
-HEALTH PRODUCTS ACT (CHAPTER 122D)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Health Products Act. It is not part of the Act.
+1. Act 15 of 2007 — Health Products Act 2007 Bill : 3/2007 First Reading : 22 January 2007 Second and Third Readings : 12 February 2007 Commencement : 1 November 2007 (except Part XIV) 2. G.N. No. S 564/2007 — Health Products Act (Amendment of First Schedule) Order 2007 Commencement : 1 November 2007 3. G.N. No. S 684/2007 — Health Products Act (Amendment of First Schedule) (No. 2) Order 2007 Commencement : 1 January 2008 4. 2008 Revised Edition — Health Products Act (Chapter 122D) Operation : 31 December 2008 5. G.N. No. S 438/2010 — Health Products Act (Amendment of First Schedule) Order 2010 Commencement : 10 August 2010 6. Act 29 of 2015 — Human Biomedical Research Act 2015 (Amendments made by section 66 of the above Act) Bill : 25/2015 First Reading : 13 July 2015 Second Reading : 17 August 2015 Third Reading : 18 August 2015 Commencement : 1 July 2016 (section 66) 7. G.N. No. S 328/2016 — Health Products Act (Amendment of First Schedule) Order 2016 Commencement : 1 November 2016 8. G.N. No. S 320/2018 — Health Products Act (Amendment of First Schedule) Order 2018 Commencement : 1 June 2018 9. Act 10 of 2019 — National Parks Board (Amendment) Act 2019 (Amendments made by section 12 of the above Act) Bill : 4/2019 First Reading : 15 January 2019 Second and Third Readings : 12 February 2019 Commencement : 1 April 2019 (sections 12(a) and (b)) 10. G.N. No. S 103/2021 — Health Products Act (Amendment of First Schedule) Order 2021 Commencement : 1 March 2021
 
-Act 15 of 2007 — Health Products Act 2007
+Abbreviations
 
-Date of First Reading : 22 January 2007 (Bill No. 3/2007 published on 23 January 2007)
-
-Date of Second and Third Readings : 12 February 2007
-
-Date of commencement : 1 November 2007 (except Part XIV)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

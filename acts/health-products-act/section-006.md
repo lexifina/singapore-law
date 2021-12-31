@@ -1,4 +1,4 @@
 # 6. Administration of Act
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-The Authority shall be responsible for the administration and enforcement of this Act (except for Part XIV) subject to the general and special directions of the Minister.
+The Authority is responsible for the administration and enforcement of this Act (except for Part 14) subject to the general and special directions of the Minister.

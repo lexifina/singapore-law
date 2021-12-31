@@ -1,8 +1,8 @@
 # 11. Appeal Advisory Committees
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-The Minister may establish one or more Appeal Advisory Committees consisting of such persons as he thinks fit to appoint for the purpose of —
+The Minister may establish one or more Appeal Advisory Committees consisting of such persons as the Minister thinks fit to appoint for the purpose of —
 
-(a) assisting him in his determination of any appeal that is brought to him under this Act; and
+(a) assisting him or her in the determination of any appeal that is brought to him or her under this Act; and
 
-(b) advising him on any matter arising from any such appeal.
+(b) advising him or her on any matter arising from any such appeal.

@@ -1,13 +1,13 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘active ingredient’’ means any substance or compound that is usable in the manufacture of a health product as a pharmacologically active constituent;
+“active ingredient” means any substance or compound that is usable in the manufacture of a health product as a pharmacologically active constituent;
 
-‘‘adverse effect’’, in relation to a health product, means any debilitating, harmful, toxic or detrimental effect that the health product has been found to have or to be likely to have on the body or health of humans when such health product is used by or administered to humans;
+“adverse effect”, in relation to a health product, means any debilitating, harmful, toxic or detrimental effect that the health product has been found to have or to be likely to have on the body or health of humans when the health product is used by or administered to humans;
 
-‘‘advertisement’’, in relation to a health product, means the publication, dissemination or conveyance of any information for the purpose of promoting, whether directly or indirectly, the sale or use of that health product by any means or in any form, including the following:
+“advertisement”, in relation to a health product, means the publication, dissemination or conveyance of any information for the purpose of promoting, whether directly or indirectly, the sale or use of that health product by any means or in any form, including the following:
 
 (a) publication in a newspaper, magazine, journal or other periodical;
 
@@ -23,21 +23,17 @@ Part: PART I PRELIMINARY
 
 (g) public demonstration of the use of the health product;
 
-and
-
 (h) offer of trials of the health product to members of the public;
 
-‘‘Agri-Food and Veterinary Authority’’ means the Agri-Food and Veterinary Authority established under section 3 of the Agri-Food and Veterinary Authority Act (Cap. 5);
+“analyst” means any person who is designated as an analyst by the Chief Executive under section 8;
 
-‘‘analyst’’ means any person who is designated as an analyst by the Chief Executive under section 8;
+“Appeal Advisory Committee” means an Appeal Advisory Committee established by the Minister under section 11;
 
-‘‘Appeal Advisory Committee’’ means an Appeal Advisory Committee established by the Minister under section 11;
+“Authority” means the Health Sciences Authority established under section 3 of the Health Sciences Authority Act 2001;
 
-‘‘Authority’’ means the Health Sciences Authority established under section 3 of the Health Sciences Authority Act (Cap. 122C);
+“Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
 
-‘‘Chief Executive’’ means the person appointed under section 15 of the Health Sciences Authority Act to be the Chief Executive of the Authority;
-
-‘‘clinical trial’’ means an investigation in respect of a health product that involves human subjects and that is intended to —
+“clinical trial” means an investigation in respect of a health product that involves human subjects and that is intended to —
 
 (a) discover or verify its clinical, pharmacological or pharmacodynamic effects;
 
@@ -47,15 +43,15 @@ and
 
 (d) ascertain its safety or efficacy;
 
-‘‘efficacy’’, in relation to a health product that is a device, includes the ability of the device to properly carry out its intended purpose;
+“efficacy”, in relation to a health product that is a device, includes the ability of the device to properly carry out its intended purpose;
 
-‘‘enforcement officer’’ means —
+“enforcement officer” means —
 
 (a) the Chief Executive; or
 
 (b) any officer of the Authority or any other person who is appointed by the Chief Executive under section 7 to be an enforcement officer;
 
-‘‘health product’’ means any substance, preparation or device —
+“health product” means any substance, preparation or device —
 
 (a) that —
 
@@ -67,7 +63,7 @@ and
 
 (b) that falls within any of the categories of health products specified in the First Schedule;
 
-‘‘health-related purpose’’ means a therapeutic, preventive, palliative, diagnostic or cosmetic purpose, or any other purpose for the promotion or preservation of human health and well-being, and includes the following:
+“health-related purpose” means a therapeutic, preventive, palliative, diagnostic or cosmetic purpose, or any other purpose for the promotion or preservation of human health and wellbeing, and includes the following:
 
 (a) preventing, diagnosing, monitoring, treating, curing or alleviating any disease, disorder, ailment, injury, handicap or abnormal physical or mental state, or the symptoms thereof, in humans;
 
@@ -83,13 +79,13 @@ and
 
 (g) inducing anaesthesia in humans;
 
-(h) destroying or inhibiting micro-organisms that may be harmful to humans; and
+(h) destroying or inhibiting micro-organisms that may be harmful to humans;
 
 (i) cleansing, fragrancing, deodorising, beautifying, preserving, improving, altering or restoring the complexion, skin, hair, nails or teeth of humans;
 
-‘‘importer’s licence’’ means a licence authorising the holder thereof to import any health product;
+“importer’s licence” means a licence authorising the holder of the licence to import any health product;
 
-‘‘intended purpose’’, in relation to a health product, means the use for which the health product is intended according to the specifications of its manufacturer as stated on any or all of the following:
+“intended purpose”, in relation to a health product, means the use for which the health product is intended according to the specifications of its manufacturer as stated on all or any of the following:
 
 (a) the label of the health product;
 
@@ -97,29 +93,29 @@ and
 
 (c) the promotional materials in relation to the health product;
 
-‘‘label’’, in relation to a health product or an active ingredient, means any written, printed or graphic representation that appears on or is attached to the health product or active ingredient or any part of its packaging, and includes any informational sheet or leaflet that accompanies the health product or active ingredient when it is being supplied;
+“label”, in relation to a health product or an active ingredient, means any written, printed or graphic representation that appears on or is attached to the health product or active ingredient or any part of its packaging, and includes any informational sheet or leaflet that accompanies the health product or active ingredient when it is being supplied;
 
-‘‘licence’’ means any licence issued by the Authority under this Act;
+“licence” means any licence issued by the Authority under this Act;
 
-‘‘manufacture’’, in relation to a health product, means to make, fabricate, produce or process the health product and includes —
+“manufacture”, in relation to a health product, means to make, fabricate, produce or process the health product and includes —
 
-(a) any process carried out in the course of so making, fabricating, producing or processing the health product;
-
-and
+(a) any process carried out in the course of so making, fabricating, producing or processing the health product; and
 
 (b) the packaging and labelling of the health product before it is supplied;
 
-‘‘manufacturer’s licence’’ means a licence authorising the holder thereof to manufacture any health product;
+“manufacturer’s licence” means a licence authorising the holder of the licence to manufacture any health product;
 
-‘‘Minister’’ means, except in Part XIV, the Minister charged with the responsibility for health;
+“Minister” means, except in Part 14, the Minister charged with the responsibility for health;
 
-‘‘packaging’’, in relation to a health product or an active ingredient, means the container and other packaging material in which the health product or active ingredient is supplied;
+“National Parks Board” means the National Parks Board established by the repealed National Parks Act (Cap. 198A, 1991 Revised Edition) as in force before 1 July 1996 and continued by section 3 of the National Parks Board Act 1996;
 
-‘‘presentation’’, in relation to a health product, means the way in which the health product is presented for supply, and includes matters relating to the name of the health product, the packaging and labelling of the health product and any other informational material associated with the health product;
+“packaging”, in relation to a health product or an active ingredient, means the container and other packaging material in which the health product or active ingredient is supplied;
 
-‘‘prohibited substance’’ means a substance that is prescribed as a substance that is not to be contained at all in any health product or in any particular category of health products;
+“presentation”, in relation to a health product, means the way in which the health product is presented for supply, and includes matters relating to the name of the health product, the packaging and labelling of the health product and any other informational material associated with the health product;
 
-‘‘recall’’, in relation to a health product, means any action taken by its manufacturer, importer, supplier or registrant to remove the health product from the market or to retrieve the health product from any person to whom it has been supplied, because the health product —
+“prohibited substance” means a substance that is prescribed as a substance that is not to be contained at all in any health product or in any particular category of health products;
+
+“recall”, in relation to a health product, means any action taken by its manufacturer, importer, supplier or registrant to remove the health product from the market or to retrieve the health product from any person to whom it has been supplied, because the health product —
 
 (a) may be hazardous to health;
 
@@ -127,17 +123,17 @@ and
 
 (c) may not meet the requirements of this Act;
 
-‘‘Register of Health Products’’ means the Register of Health Products kept and maintained by the Authority under section 34;
+“Register of Health Products” means the Register of Health Products kept and maintained by the Authority under section 34;
 
-‘‘registered health product’’ means a health product currently registered under Part VII;
+“registered health product” means a health product currently registered under Part 7;
 
-‘‘registrant’’, in relation to a registered health product, means the person who applied for and obtained the registration of the health product under this Act;
+“registrant”, in relation to a registered health product, means the person who applied for and obtained the registration of the health product under this Act;
 
-‘‘regulations’’ means regulations made under section 72;
+“regulations” means regulations made under section 72;
 
-‘‘sample’’, in relation to a health product or an active ingredient, includes a sample of the packaging of the health product or active ingredient;
+“sample”, in relation to a health product or an active ingredient, includes a sample of the packaging of the health product or active ingredient;
 
-‘‘supply’’, in relation to a health product, means to transfer possession of the health product by any means whether or not for reward, and includes the following:
+“supply”, in relation to a health product, means to transfer possession of the health product by any means whether or not for reward, and includes the following:
 
 (a) to sell the health product, whether by retail, wholesale or auction;
 
@@ -155,13 +151,11 @@ and
 
 (f) to offer, agree or attempt to supply the health product in any of the ways described in paragraphs (a) to (e) or to cause or permit the health product to be so supplied;
 
-and
-
 (g) to keep or possess the health product for the purpose of supplying it in any of the ways described in paragraphs (a) to (f);
 
-‘‘veterinarian’’ means a person who is licensed under section 53 of the Animals and Birds Act (Cap. 7) to treat, vaccinate or inoculate any animal or bird;
+“veterinarian” means a person who is licensed under section 53 of the Animals and Birds Act 1965 to treat, vaccinate or inoculate any animal or bird;
 
-‘‘wholesale’’, in relation to a health product, means any one or more of the following:
+“wholesale”, in relation to a health product, means any one or more of the following:
 
 (a) supplying the health product to a person who obtains the health product for the purposes of supplying it again to some other person;
 
@@ -171,19 +165,21 @@ and
 
 (d) supplying the health product to a person or an institution concerned with scientific education or research which requires the health product for the purpose of education or research;
 
-(e) supplying the health product to a person who requires the health product for the purpose of enabling him to comply with any requirements made by, or in pursuance of, any written law with respect to the medical treatment of persons employed by that person in any business or trade carried out by that person;
+(e) supplying the health product to a person who requires the health product for the purpose of enabling the person to comply with any requirements made by, or pursuant to, any written law with respect to the medical treatment of individuals employed by that person in any business or trade carried out by that person;
 
-(f) supplying the health product to a person who requires to use the health product, other than by way of administration to one or more persons, for the purpose of his business or trade;
+(f) supplying the health product to a person who requires to use the health product, other than by way of administration to one or more individuals, for the purpose of the person’s business or trade;
 
 (g) supplying the health product by export to a party outside Singapore;
 
-‘‘wholesaler’s licence’’ means a licence authorising the holder thereof to supply any health product by wholesale.
+“wholesaler’s licence” means a licence authorising the holder of the licence to supply any health product by wholesale.
+
+[10/2019]
 
 (2) For the purposes of this Act —
 
 (a) a health product is adulterated if it contains or has been mixed with any substance or ingredient that is not stated on its label as being one of its constituent substances or ingredients, except where the substance is an inactive ingredient —
 
-(i) which is permitted as a food additive or flavouring agent according to the Codex Alimentarius or such other similar document as may be prescribed; or
+(i) which is permitted as a food additive or flavouring agent according to the Codex Alimentarius or any other similar document that may be prescribed; or
 
 (ii) which is approved by the Authority;
 
@@ -193,13 +189,13 @@ and
 
 (ii) it is presented with any false information as to its manufacturer or origin;
 
-(c) a health product is tampered with if it has been modified or interfered with in any way, including through the introduction or incorporation therein of any substance or component that is not referred to in the specifications of its manufacturer; and
+(c) a health product is tampered with if it has been modified or interfered with in any way, including through the introduction or incorporation in it of any substance or component that is not referred to in the specifications of its manufacturer; and
 
 (d) a health product is unwholesome if —
 
 (i) it is not in conformity as regards strength, quality or purity with the specifications of its manufacturer;
 
-(ii) it has a strength which differs from, or a standard of purity or quality which falls below, that which is represented on its label;
+(ii) it has a strength which differs from, or a standard of quality or purity which falls below, that which is represented on its label;
 
 (iii) any of its constituent substances or ingredients, as stated on its label, has been extracted or omitted from it;
 
@@ -211,7 +207,7 @@ and
 
 (vii) it has been kept in a package which is composed in whole or in part of any substance which may render the contents injurious to health;
 
-(viii) it has been packed with any substance so as to reduce the purity, quality, strength or beneficial properties that it would have had if it had not been so packed; or
+(viii) it has been packed with any substance so as to reduce the strength, quality or purity or beneficial properties that it would have had if it had not been so packed; or
 
 (ix) it has passed its expected useful life or its expiry date as assigned by its manufacturer.
 

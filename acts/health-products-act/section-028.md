@@ -1,5 +1,5 @@
 # 28. Appeal
-Part: PART VI LICENCES
+Part: PART 6 LICENCES
 
 (1) Any person who is aggrieved by —
 
@@ -7,12 +7,12 @@ Part: PART VI LICENCES
 
 (b) any condition attached by the Authority to a licence under section 24; or
 
-(c) the decision of the Authority to suspend or revoke a licence or to cancel an approval under section 27, may, within such time as may be specified in the notice informing him of the refusal, condition, suspension, revocation or cancellation, as the case may be, appeal in writing to the Minister whose decision shall be final.
+(c) the decision of the Authority to suspend or revoke a licence or to cancel an approval under section 27, may, within the time specified in the notice informing the person of the refusal, condition, suspension, revocation or cancellation (as the case may be) appeal in writing to the Minister whose decision is final.
 
-(2) Before making a decision under subsection (1), the Minister may refer the matter to an Appeal Advisory Committee and, in making his decision, the Minister shall have regard to any report made to him by the Appeal Advisory Committee.
+(2) Before making a decision under subsection (1), the Minister may refer the matter to an Appeal Advisory Committee and, in making a decision, the Minister must have regard to any report made to the Minister by the Appeal Advisory Committee.
 
-(3) Notwithstanding that any appeal under subsection (1) is pending —
+(3) Even though an appeal under subsection (1) is pending —
 
 (a) any condition attached by the Authority to a licence under section 24; or
 
-(b) the decision of the Authority to suspend or revoke a licence or to cancel an approval under section 27, shall take effect from the date specified by the Authority, unless the Minister otherwise directs.
+(b) the decision of the Authority to suspend or revoke a licence or to cancel an approval under section 27, takes effect from the date specified by the Authority, unless the Minister otherwise directs.

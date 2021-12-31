@@ -1,9 +1,9 @@
 # 48. Non-compliant health products and active ingredients
-Part: PART X ENFORCEMENT
+Part: PART 10 ENFORCEMENT
 
 For the purposes of this Part —
 
-(a) a health product shall be considered as being non-compliant if —
+(a) a health product is considered as being non-compliant if —
 
 (i) it has been manufactured, imported or supplied in contravention of this Act;
 
@@ -11,7 +11,7 @@ For the purposes of this Part —
 
 (iii) it does not comply with such requirements as may be prescribed in relation to it; and
 
-(b) an active ingredient shall be considered as being non- compliant if —
+(b) an active ingredient is considered as being non-compliant if —
 
 (i) it has been manufactured, imported or supplied in contravention of this Act; or
 

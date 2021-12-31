@@ -1,19 +1,19 @@
 # 12. Manufacture of health products
-Part: PART III MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
+Part: PART 3 MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
 
-(1) Except in such cases as may be prescribed, no person shall manufacture any health product unless —
+(1) Except in such cases as may be prescribed, a person must not manufacture any health product unless —
 
-(a) he holds a valid manufacturer’s licence; and
+(a) the person holds a valid manufacturer’s licence; and
 
 (b) the manufacture of the health product is carried out in accordance with the conditions of the licence.
 
-(2) A manufacturer’s licence does not authorise the holder thereof to supply any health product manufactured by him to any other person unless the health product so manufactured by him is a registered health product.
+(2) A manufacturer’s licence does not authorise the holder of the licence to supply any health product manufactured by the holder to any other person unless the health product so manufactured by the holder is a registered health product.
 
-(3) No person shall use any premises or facility for the manufacture of any health product unless the premises or facility is authorised for such use under his manufacturer’s licence or the provisions of this Act, or by the Authority.
+(3) A person must not use any premises or facility for the manufacture of any health product unless the premises or facility is authorised for such use under the person’s manufacturer’s licence or the provisions of this Act, or by the Authority.
 
-(4) Every manufacturer of a health product shall ensure that the manufacture of the health product is carried out in accordance with such requirements as may be prescribed.
+(4) Every manufacturer of a health product must ensure that the manufacture of the health product is carried out in accordance with such requirements as may be prescribed.
 
-(5) No person shall manufacture, or procure or arrange for the manufacture of, any health product which is —
+(5) A person must not manufacture, or procure or arrange for the manufacture of, any health product which is —
 
 (a) an adulterated health product;
 
@@ -27,4 +27,4 @@ Part: PART III MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
 
 (b) in the case of an offence under subsection (5)(a) or (b), to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(7) In any proceedings for an offence under subsection (5), it shall be a defence for the accused to prove that he had taken all such precautions and exercised all such due diligence as could reasonably be expected of him in the circumstances to ensure that the health product did not contravene that subsection.
+(7) In any proceedings for an offence under subsection (5), it is a defence for the accused to prove that the accused had taken all such precautions and exercised all such due diligence as could reasonably be expected of the accused in the circumstances to ensure that the health product did not contravene that subsection.

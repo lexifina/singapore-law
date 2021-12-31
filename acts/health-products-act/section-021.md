@@ -1,7 +1,7 @@
 # 21. Further requirements for advertisement of health products
-Part: PART V ADVERTISEMENT OF HEALTH PRODUCTS
+Part: PART 5 ADVERTISEMENT OF HEALTH PRODUCTS
 
-(1) No person shall advertise any health product or cause any health product to be advertised unless the advertisement complies with and is undertaken in accordance with such requirements as may be prescribed.
+(1) A person must not advertise any health product or cause any health product to be advertised unless the advertisement complies with and is undertaken in accordance with such requirements as may be prescribed.
 
 (2) The requirements that may be prescribed for the purposes of subsection (1) include the following:
 
@@ -11,7 +11,7 @@ Part: PART V ADVERTISEMENT OF HEALTH PRODUCTS
 
 (c) that the advertisement should be distributed or circulated only to certain classes of persons;
 
-(d) that the advertisement should not appear in certain types of publications or media; and
+(d) that the advertisement should not appear in certain types of publications or media;
 
 (e) that the advertisement should be submitted to the Authority for approval before publication.
 

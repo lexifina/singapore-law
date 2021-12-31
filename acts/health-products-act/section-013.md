@@ -1,19 +1,19 @@
 # 13. Import of health products
-Part: PART III MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
+Part: PART 3 MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
 
-(1) Except in such cases as may be prescribed, no person shall import any health product unless —
+(1) Except in such cases as may be prescribed, a person must not import any health product unless —
 
-(a) he holds a valid importer’s licence; and
+(a) the person holds a valid importer’s licence; and
 
 (b) the import of the health product is carried out in accordance with the conditions of the licence.
 
-(2) An importer’s licence does not authorise the holder thereof to supply any health product imported by him to any other person unless the health product so imported by him is a registered health product.
+(2) An importer’s licence does not authorise the holder of the licence to supply any health product imported by the holder to any other person unless the health product so imported by the holder is a registered health product.
 
-(3) An importer of any health product shall not use any premises or facility for storing the health product upon its entry into Singapore unless the premises or facility is authorised for such use under his importer’s licence or the provisions of this Act, or by the Authority.
+(3) An importer of any health product must not use any premises or facility for storing the health product upon its entry into Singapore unless the premises or facility is authorised for such use under the importer’s licence held by the importer or the provisions of this Act, or by the Authority.
 
-(4) Every importer of a health product shall ensure that the import of the health product is carried out in accordance with such requirements as may be prescribed.
+(4) Every importer of a health product must ensure that the import of the health product is carried out in accordance with such requirements as may be prescribed.
 
-(5) No person shall import, or procure or arrange for the import of, any health product which is —
+(5) A person must not import, or procure or arrange for the import of, any health product which is —
 
 (a) an adulterated health product;
 
@@ -29,9 +29,9 @@ Part: PART III MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
 
 (b) in the case of an offence under subsection (5)(a), (b) or (c), to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(7) In any proceedings for an offence under subsection (5), it shall be a defence for the accused to prove that —
+(7) In any proceedings for an offence under subsection (5), it is a defence for the accused to prove that —
 
-(a) he —
+(a) the accused —
 
 (i) did not know;
 
@@ -39,4 +39,4 @@ Part: PART III MANUFACTURE AND IMPORT OF HEALTH PRODUCTS
 
 (iii) could not, with reasonable diligence, have ascertained, that the health product was in contravention of that subsection; and
 
-(b) he had taken all such precautions and exercised all such due diligence as could reasonably be expected of him in the circumstances to ensure that the health product did not contravene that subsection.
+(b) the accused had taken all such precautions and exercised all such due diligence as could reasonably be expected of the accused in the circumstances to ensure that the health product did not contravene that subsection.

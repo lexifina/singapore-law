@@ -1,7 +1,7 @@
 # 19. Advertisement of health products
-Part: PART V ADVERTISEMENT OF HEALTH PRODUCTS
+Part: PART 5 ADVERTISEMENT OF HEALTH PRODUCTS
 
-(1) No person shall —
+(1) A person must not —
 
 (a) advertise any product or cause any product to be advertised as a health product if that product is not a health product; or
 

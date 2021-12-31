@@ -1,13 +1,11 @@
 # 73. Supply and use of health products and active ingredients for veterinary purposes
-Part: PART XIV REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS AND ACTIVE INGREDIENTS FOR VETERINARY PURPOSES
+Part: PART 14 REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS AND ACTIVE INGREDIENTS FOR VETERINARY PURPOSES
 
 (1) The Minister charged with the responsibility for national development may make regulations in relation to the supply or use for veterinary purposes of —
 
 (a) any health product (whether or not such health product falls within any of the categories of health products specified in the First Schedule); or
 
 (b) any active ingredient.
-
-*Part XIV was not in operation at the time of this Revised Edition.
 
 (2) Regulations made under subsection (1) may —
 
@@ -21,4 +19,4 @@ Part: PART XIV REGULATION OF SUPPLY AND USE OF HEALTH PRODUCTS AND ACTIVE INGRED
 
 (e) provide for the administration and enforcement of such regulations by officers of the Agri-Food and Veterinary Authority.
 
-(3) All regulations made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+(3) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.
