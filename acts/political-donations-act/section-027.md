@@ -1,6 +1,6 @@
 # 27. Composition of offences
-Part: PART V OFFENCES
+Part: PART 5 OFFENCES
 
-(1) The Registrar may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
+(1) The Registrar may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
 
-(2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+(2) On payment of the sum of money, no further proceedings are to be taken against the person in respect of the offence.

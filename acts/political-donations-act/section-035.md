@@ -1,8 +1,8 @@
 # 35. Saving
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-This Act shall not apply to any donation which is received and accepted —
+This Act does not apply to any donation that is received and accepted —
 
-(a) by any political association before 15th February 2001; or
+(a) by any political association before 15 February 2001; or
 
-(b) by any candidate or election agent before 15th February 2001.
+(b) by any candidate or election agent before 15 February 2001.

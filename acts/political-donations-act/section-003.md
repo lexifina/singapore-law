@@ -1,19 +1,19 @@
-# 3. Meaning of ‘‘donation’’
-Part: PART I PRELIMINARY
+# 3. Meaning of “donation”
+Part: PART 1 PRELIMINARY
 
-(1) In this Act, unless the context otherwise requires, ‘‘donation’’, in relation to a candidate at an election or at a presidential election, means —
+(1) In this Act, unless the context otherwise requires, “donation”, in relation to a candidate at an election or at a presidential election, means —
 
-(a) any gift of money or other property to the candidate or his election agent;
+(a) any gift of money or other property to the candidate or his or her election agent;
 
-(b) any money spent (otherwise than by the candidate as permitted by any other written law) in paying any expenses incurred, directly or indirectly, by the candidate or by his election agent or any person authorised by his election agent;
+(b) any money spent (otherwise than by the candidate as permitted by any other written law) in paying any expenses incurred, directly or indirectly, by the candidate or by his or her election agent or any person authorised by his or her election agent;
 
-(c) any money lent to the candidate or his election agent otherwise than on commercial terms;
+(c) any money lent to the candidate or his or her election agent otherwise than on commercial terms;
 
-(d) the provision otherwise than on commercial terms of any property, services or facilities (including the services of any person) to the candidate or his election agent; or
+(d) the provision otherwise than on commercial terms of any property, services or facilities (including the services of any person) to the candidate or his or her election agent; or
 
-(e) the provision of any sponsorship in relation to the candidate, which is given, spent, lent or provided (whether before or after he becomes a candidate) for the purposes of the candidate’s election.
+(e) the provision of any sponsorship in relation to the candidate, that is given, spent, lent or provided (whether before or after he or she becomes a candidate) for the purposes of the candidate’s election.
 
-(2) In this Act, unless the context otherwise requires, ‘‘donation’’, in relation to a political association, means —
+(2) In this Act, unless the context otherwise requires, “donation”, in relation to a political association, means —
 
 (a) any gift of money or other property to the political association;
 

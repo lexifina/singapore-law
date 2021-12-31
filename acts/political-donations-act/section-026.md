@@ -1,4 +1,4 @@
-# 26. Seizable offence
-Part: PART V OFFENCES
+# 26. Arrestable offence
+Part: PART 5 OFFENCES
 
-Every offence under this Part shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+Every offence under this Part is deemed to be an arrestable offence within the meaning of the Criminal Procedure Code 2010.

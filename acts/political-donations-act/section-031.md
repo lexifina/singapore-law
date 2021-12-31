@@ -1,4 +1,4 @@
 # 31. Register of donations
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-The Registrar shall establish and maintain a register of all donations sent to and reported to him under this Act.
+The Registrar must establish and maintain a register of all donations sent to and reported to the Registrar under this Act.

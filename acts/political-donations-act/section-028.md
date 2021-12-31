@@ -1,4 +1,6 @@
-# 28. Sanction to prosecute
-Part: PART V OFFENCES
+# 28. Consent of Public Prosecutor
+Part: PART 5 OFFENCES
 
-No prosecution for any offence under this Act shall be instituted without the sanction of the Public Prosecutor.
+No prosecution for any offence under this Act may be instituted except with the consent of the Public Prosecutor.
+
+[15/2010]
