@@ -1,15 +1,15 @@
 # 39. Regulations
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
 (1) The Minister may, from time to time, make regulations generally for the carrying out or giving effect to the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
 (a) taking and recording of photographs and fingerprints of persons applying for a licence;
 
 (b) displaying or surrendering of any licence by a licensee;
 
-(c) prescribing the type of identification documents that a licensed private investigator or a licensed security officer must carry when carrying out his functions as a private investigator or a security officer, as the case may be;
+(c) prescribing the type of identification documents that a licensed private investigator or a licensed security officer must carry when carrying out his or her functions as a private investigator or a security officer, as the case may be;
 
 (d) in relation to any licence, the class or classes of licence to be issued, and the circumstances in which the licence may be granted;
 
@@ -19,9 +19,9 @@ Part: PART VIII MISCELLANEOUS
 
 (g) prescribing the uniform, badge or emblem to be worn by a licensed security officer;
 
-(h) prohibiting the use of any equipment or accoutrement by the holder of a licence and his employees, if any;
+(h) prohibiting the use of any equipment or accoutrement by the holder of a licence and his or her employees, if any;
 
-(i) regulating the activities of the holder of a licence and prescribing the manner in which his business shall be conducted;
+(i) regulating the activities of the holder of a licence and prescribing the manner in which the licensee’s business is to be conducted;
 
 (j) regulating the manufacture, importation, sale, distribution, possession and use of security equipment;
 

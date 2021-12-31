@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Section 2
+Sections 2 and 38(1)
 
 SECURITY EQUIPMENT
 
@@ -12,7 +12,9 @@ SECURITY EQUIPMENT
 
 4. Tracking device capable of being used to determine or monitor electronically the location of a person or an object or the status of an object.
 
-5. Other surveillance device that is a combination of 2 or more of the devices referred to in paragraphs 1 to 4.
+5. Other surveillance device that is a combination of 2 or more of the devices mentioned in paragraphs 1 to 4.
+
+THE SCHEDULE — continued
 
 6. Technical surveillance counter measure equipment capable of detecting or rendering ineffective other surveillance devices.
 
