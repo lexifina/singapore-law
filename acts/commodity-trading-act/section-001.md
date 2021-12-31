@@ -1,6 +1,6 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Commodity Trading Act.
+This Act is the Commodity Trading Act 1992.
 
 [22/2001]

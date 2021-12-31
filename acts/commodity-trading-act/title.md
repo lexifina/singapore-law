@@ -1,27 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-COMMODITY TRADING ACT
-(CHAPTER 48A)
-Act
-17 of 1992
-1993 Ed.
-Amended by
-15 of 1995
-22 of 2001
-42 of 2001
-17 of 2002
-5 of 2004
-35 of 2007
-REVISED EDITION 2009
-(31st July 2009)
+COMMODITY TRADING ACT 1992
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2009
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act for the regulation of certain types of commodity trading, and for matters connected therewith.
 
-[27th May 1992]
+[35/2007]
+
+[27 May 1992]

@@ -1,5 +1,5 @@
 # 21. Appeal against refusal to license, etc.
-Part: PART III LICENCES
+Part: PART 3 LICENCES
 
 Where —
 
@@ -7,4 +7,4 @@ Where —
 
 (b) the Board revokes a licence under section 18; or
 
-(c) the licence is revoked or suspended, or a licensed person is reprimanded, under section 19, any person who is aggrieved by the decision of the Board may, within one month after he is notified of the decision, appeal to the Minister whose decision shall be final.
+(c) the licence is revoked or suspended, or a licensed person is reprimanded, under section 19, any person who is aggrieved by the decision of the Board may, within one month after the person is notified of the decision, appeal to the Minister whose decision is final.

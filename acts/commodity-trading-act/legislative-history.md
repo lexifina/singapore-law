@@ -1,71 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY COMMODITY TRADING ACT 1992
 
-COMMODITY TRADING ACT (CHAPTER 48A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Commodity Trading Act. It is not part of the Act.
+1. Act 17 of 1992 — Commodity Futures Act 1992 Bill : 23/1992 First Reading : 10 March 1992 Second and Third Readings : 20 March 1992 Commencement : 27 May 1992 2. 1993 Revised Edition — Commodity Futures Act (Chapter 48A) Operation : 15 March 1993 3. Act 15 of 1995 — Bankruptcy Act 1995 (Amendments made by section 167(4) read with item (2) of the Second Schedule to the above Act) Bill : 16/1994 First Reading : 25 July 1994 Second Reading : 25 August 1994 Select Committee Report : Parl. 1 of 1995 Third Reading : 23 March 1995 Commencement : 15 July 1995 (section 167(4) read with item (2) of the Second Schedule) 4. Act 22 of 2001 — Commodity Futures (Amendment) Act 2001 Bill : 18/2001 First Reading : 8 March 2001 Second Reading : 16 May 2001 Notice of Amendments : 16 May 2001 Third Reading : 16 May 2001 Commencement : 27 June 2001 Note: The Commodity Futures Act was renamed as the Commodity Trading Act by this Act.
 
-1. Act 17 of 1992 — Commodity Futures Act 1992
+5. Act 17 of 2002 — Trade Development Board (Amendment) Act 2002 (Amendments made by section 10(1)(a) of the above Act) Bill : 9/2002 First Reading : 3 May 2002 Second and Third Readings : 8 July 2002 Commencement : 1 April 2002 (section 10(1)(a)) 6. Act 42 of 2001 — Securities and Futures Act 2001 (Amendments made by section 343 read with item (3) of the Fourth Schedule to the above Act) Bill : 33/2001 First Reading : 25 September 2001 Second and Third Readings : 5 October 2001 Commencement : 1 July 2002 (section 343 read with item (3)(a) of the Fourth Schedule) 1 October 2002 (section 343 read with item (3)(b) of the Fourth Schedule) 7. Act 5 of 2004 — Companies (Amendment) Act 2004 (Amendments made by section 59 read with item (3) of the Schedule to the above Act) Bill : 3/2004 First Reading : 5 January 2004 Second and Third Readings : 6 February 2004 Commencement : 1 April 2004 (section 59 read with item (3) of the Schedule) 8. Act 35 of 2007 — Commodity Trading (Amendment) Act 2007 Bill : 23/2007 First Reading : 21 May 2007 Second and Third Readings : 17 July 2007 Commencement : 27 August 2007 (sections 26(b) and 28(c)) 27 February 2008 (sections 2 to 25, 26(a), 27, 28(a) and (b) and 29) 9. 2009 Revised Edition — Commodity Trading Act (Chapter 48A) Operation : 31 July 2009 10. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 19 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 19 of the Sixth Schedule) 11. G.N. No. S 343/2013 — Commodity Trading Act (Amendment of Schedule) Order 2013 Commencement : 4 June 2013 12. Act 10 of 2018 — Enterprise Singapore Board Act 2018 (Amendments made by section 67 of the above Act) Bill : 3/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 1 April 2018 (section 67(1)) 13. Act 4 of 2017 — Securities and Futures (Amendment) Act 2017 (Amendments made by sections 197 and 198 of the above Act) Bill : 35/2016 First Reading : 7 November 2016 Second and Third Readings : 9 January 2017 Commencement : 8 October 2018 (section 197) 14. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 22 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 22 of the Schedule) 15. Act 1 of 2020 — Banking (Amendment) Act 2020 (Amendments made by section 47 of the above Act) Bill : 35/2019 First Reading : 4 November 2019 Second and Third Readings : 6 January 2020 Commencement : 1 July 2021 (section 47)
 
-Date of First Reading : 10 March 1992 (Bill No. 23/92 published on 11 March 1992)
+Abbreviations
 
-Date of Second and Third Readings : 20 March 1992
-
-Date of commencement : 27 May 1992
-
-2. 1993 Revised Edition — Commodity Futures Act (Chapter 48A)
-
-Date of operation : 15 March 1993
-
-3. Act 15 of 1995 — Bankruptcy Act 1995 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 July 1994 (Bill No. 16/94 published on 29 July 1994)
-
-Date of Second Reading : 25 August 1994
-
-Date Committed to Select Committee : 25 August 1994
-
-Report Presented to Parliament : 7 March 1995 (Parl. 1 of 1995)
-
-Date of Third Reading : 23 March 1995
-
-Date of commencement : 15 July 1995
-
-4. Act 22 of 2001 — Commodity Futures (Amendment) Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 8 March 2001 (Bill No. 18/2001 published on 9 March 2001)
-
-Date of Second and Third Readings : 16 May 2001
-
-Date of commencement : 27 June 2001
-
-Note: The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodity Futures (Amendment) Act 2001.
-
-5. Act 42 of 2001 — Securities and Futures Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 September 2001 (Bill No. 33/2001 published on 26 September 2001)
-
-Date of Second and Third Readings : 5 October 2001
-
-Date of commencement : 1 July 2002 (item 3(a) of Fourth Schedule) 1 October 2002 (item 3(b) of Fourth Schedule)
-
-6. Act 17 of 2002 — Trade Development Board (Amendment) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 9/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 8 July 2002
-
-Date of commencement : 1 April 2002 (except sections 8 and 9) 1 August 2002 (sections 8 and 9)
-
-7. Act 5 of 2004 — Companies (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 5 January 2004 (Bill No. 3/2004 published on 6 January 2004)
-
-Date of Second and Third Readings : 6 February 2004
-
-Date of commencement : 1 April 2004 (except section 28(a) and (c)) 1 October 2004 (section 28(a) and (c)) 8. Act 35 of 2007 — Commodity Trading (Amendment) Act 2007
-
-Date of First Reading : 21 May 2007 (Bill No. 23/2007 published on 22 May 2007)
-
-Date of Second and Third Readings : 17 July 2007
-
-Date of commencement : 27 August 2007 (sections 26(b) and 28(c)) 27 February 2008 (sections 2 to 25, 26(a), 27, 28(a) and (b) and 29)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

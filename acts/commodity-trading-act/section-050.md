@@ -1,4 +1,4 @@
 # 50. [Repealed]
-Part: PART VII OFFENCES
+Part: PART 7 OFFENCES
 
-[Deleted by Act 35 of 2007]
+[Repealed by Act 35 of 2007]

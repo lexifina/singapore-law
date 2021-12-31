@@ -1,4 +1,4 @@
-# 59. Jurisdiction of District Court
-Part: PART VIII MISCELLANEOUS
+# 59. Jurisdiction of courts
+Part: PART 8 MISCELLANEOUS
 
-Notwithstanding anything in any other written law, a District Court shall have power to try any offence under this Act and to impose the full penalty prescribed therefor.
+Despite anything in any other written law, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty prescribed for any such offence.

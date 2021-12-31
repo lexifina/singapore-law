@@ -1,4 +1,4 @@
 # 39. [Repealed]
-Part: PART VI POWERS OF BOARD
+Part: PART 6 POWERS OF BOARD
 
-[Deleted by Act 35 of 2007]
+[Repealed by Act 35 of 2007]

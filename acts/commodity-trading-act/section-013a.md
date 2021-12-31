@@ -1,7 +1,7 @@
 # 13A. Licence for spot commodity trading
-Part: PART III LICENCES
+Part: PART 3 LICENCES
 
-(1) Subject to section 14A, no person shall act as, or hold himself out as —
+(1) Subject to section 14A, no person may act as, or hold the person out as —
 
 (a) a spot commodity broker;
 
@@ -9,9 +9,7 @@ Part: PART III LICENCES
 
 (c) a spot commodity pool operator; or
 
-(d) a spot commodity pool operator’s representative, unless such person is the holder of a licence granted under this Part that authorises him to act as such.
-
-[22/2001]
+(d) a spot commodity pool operator’s representative, unless the person is the holder of a licence granted under this Part that authorises the person to act as such.
 
 (2) The Board may, with the approval of the Minister, make regulations for or with respect to —
 
@@ -33,12 +31,8 @@ Part: PART III LICENCES
 
 (iv) to issue directions to any spot commodity broker, spot commodity broker’s representative, spot commodity pool operator or spot commodity pool operator’s representative to cease contravention of any provision in this Act.
 
-[22/2001]
-
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
 (a) for an offence under subsection (1)(a) or (c), to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; or
 
 (b) for an offence under subsection (1)(b) or (d), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[22/2001]

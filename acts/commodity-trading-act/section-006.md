@@ -1,7 +1,7 @@
 # 6. Business rules
-Part: PART II COMMODITY MARKET AND CLEARING HOUSE
+Part: PART 2 COMMODITY MARKET AND CLEARING HOUSE
 
-(1) The business rules of every body corporate which has applied for approval or which has been approved as a commodity market under section 5 shall make satisfactory provision —
+(1) The business rules of every body corporate which has applied for approval or which has been approved as a commodity market under section 5 must make satisfactory provision —
 
 (a) for the exclusion from membership of persons who are not of good character and high business integrity;
 
@@ -21,8 +21,4 @@ Part: PART II COMMODITY MARKET AND CLEARING HOUSE
 
 (i) generally for carrying on the business of the proposed commodity market with due regard to the interests and protection of the public.
 
-[22/2001; 35/2007]
-
 (2) The Board may, with the approval of the Minister, by regulations prescribe the manner, form and procedure for the making of business rules of a commodity market or clearing house and any amendment thereof; and those regulations may make provision for the Board to disallow the whole or part of any rule or any amendment thereto as it thinks fit.
-
-[22/2001; 35/2007]

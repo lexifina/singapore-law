@@ -1,4 +1,4 @@
 # 62. [Repealed]
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-[Deleted by Act 35 of 2007]
+[Repealed by Act 35 of 2007]

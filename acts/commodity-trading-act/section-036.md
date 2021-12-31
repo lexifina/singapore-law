@@ -1,15 +1,13 @@
 # 36. Production of records
-Part: PART VI POWERS OF BOARD
+Part: PART 6 POWERS OF BOARD
 
-(1) A commodity market, clearing house, commodity broker or commodity pool operator shall —
+(1) A commodity market, clearing house, commodity broker or commodity pool operator must —
 
-(a) produce any books, accounts and records kept by it or him in connection with, or for the purposes of, its or his business, or in respect of any trading in commodity contracts;
+(a) produce any books, accounts and records kept by it, him or her in connection with, or for the purposes of, its, his or her business, or in respect of any trading in commodity contracts;
 
 (b) collect and furnish any returns; and
 
-(c) provide any information relating to its or his business, or any trading in commodity contracts, or any other specified information, as the Board may require.
-
-[22/2001; 35/2007]
+(c) provide any information relating to its, his or her business, or any trading in commodity contracts, or any other specified information, as the Board may require.
 
 (2) The Board may, on production of any books, accounts or records under subsection (1), take copies of or extracts from them.
 
