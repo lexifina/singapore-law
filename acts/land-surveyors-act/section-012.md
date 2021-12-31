@@ -1,9 +1,9 @@
 # 12. Persons entitled to be registered
-Part: PART IV REGISTRATION OF SURVEYORS
+Part: PART 4 REGISTRATION OF SURVEYORS
 
-(1) Subject to the provisions of this Act, every person who is 21 years of age and above shall, on payment of the prescribed fee, be entitled to be registered under this Act if ––
+(1) Subject to the provisions of this Act, every person who is 21 years of age and above is, on payment of the prescribed fee, entitled to be registered under this Act if —
 
-(a) he satisfies the Board that he has ––
+(a) he or she satisfies the Board that he or she has ––
 
 (i) obtained a certificate of competency issued by the Board after passing the prescribed examination;
 
@@ -11,8 +11,6 @@ Part: PART IV REGISTRATION OF SURVEYORS
 
 (iii) had such proper training in surveying recognised by the Board and passed such other examination as the Board may require; and
 
-(b) he has passed a professional interview conducted by the Board to determine whether he has the aptitude and knowledge to effectively perform or engage in survey work in Singapore.
+(b) he or she has passed a professional interview conducted by the Board to determine whether he or she has the aptitude and knowledge to effectively perform or engage in survey work in Singapore.
 
-[2/2007]
-
-(2) Notwithstanding subsection (1), the Board may refuse to register any person who is not, in the opinion of the Board, of good character and reputation.
+(2) Despite subsection (1), the Board may refuse to register any person who is not, in the opinion of the Board, of good character and reputation.

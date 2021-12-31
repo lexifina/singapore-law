@@ -1,125 +1,17 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY LAND SURVEYORS ACT 1991
 
-LAND SURVEYORS ACT (CHAPTER 156)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Land Surveyors Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 24 of 1991 — Land Surveyors Act 1991
+LEGISLATIVE HISTORY DETAILS PART 1 SURVEYORS ORDINANCE (CHAPTER 201, 1955 REVISED EDITION) 1. Ordinance XXXVII of 1902 — The Surveyors Ordinance 1902 Bill : G.N. No. 1405/1902 First Reading : 7 November 1902 Second Reading : 14 November 1902 Notice of Amendments : 12 December 1902 Third Reading : 12 December 1902 Commencement : 13 August 1903 2. 1920 Revised Edition — Ordinance No. 81 (Surveyors) Operation : 28 November 1921 3. 1926 Revised Edition — Ordinance No. 81 (Surveyors) Operation : 1 August 1926 4. 1936 Revised Edition — Surveyors Ordinance (Chapter 63) Operation : 1 September 1936 5. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 19 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 19 of the Schedule) 6. 1955 Revised Edition — Surveyors Ordinance (Chapter 201) Operation : 1 July 1956
 
-Date of First Reading : 26 February 1991 (Bill No. 11/1991 published on 28 February 1991)
+PART 2 LAND SURVEYORS ACT (CHAPTER 156, 1985 REVISED EDITION) 7. Act 46 of 1970 — Land Surveyors Act, 1970 Bill : 27/1969 First Reading : 22 December 1969 Second Reading : 27 January 1970 Select Committee Report : Parl. 5 of 1970 Third Reading : 4 November 1970 Commencement : 1 September 1972 Note: This Act was brought into force after it was revised in the 1970 Revised Edition.
 
-Date of Second and Third Readings : 28 June 1991
+8. 1985 Revised Edition — Land Surveyors Act (Chapter 156) Operation : 30 March 1987
 
-Date of commencement : 30 August 1991
+PART 3 LAND SURVEYORS ACT 1991 (2020 REVISED EDITION) 9. Act 24 of 1991 — Land Surveyors Act 1991 Bill : 11/1991 First Reading : 27 February 1991 Second Reading : 22 March 1991 Select Committee Report : Parl. 3 of 1991 Third Reading : 28 June 1991 Commencement : 30 August 1991 10. 1992 Revised Edition — Land Surveyors Act (Chapter 156) Operation : 9 March 1992 11. Act 15 of 1995 — Bankruptcy Act 1995 (Amendments made by section 167(4) read with item (10) of the Second Schedule to the above Act) Bill : 16/1994 First Reading : 25 July 1994 Second Reading : 25 August 1994 Select Committee Report : Parl. 1 of 1995 Third Reading : 23 March 1995 Commencement : 15 July 1995 (section 167(4) read with item (10) of the Second Schedule) 12. Act 3 of 1998 — Planning Act 1998 (Amendments made by section 65 read with item (5) of the Second Schedule to the above Act) Bill : 18/1997 First Reading : 19 November 1997 Second Reading : 14 January 1998 Notice of Amendments : 14 January 1998 Third Reading : 14 January 1998 Commencement : 1 April 1998 (section 65 read with item (5) of the Second Schedule) 13. Act 35 of 1998 — Boundaries and Survey Maps Act 1998 (Amendments made by section 19 of the above Act) Bill : 32/1998 First Reading : 31 July 1998 Second and Third Readings : 4 September 1998 Commencement : 16 October 1998 (section 19) 14. Act 34 of 1999 — Land Surveyors (Amendment) Act 1999 Bill : 21/1999 First Reading : 6 July 1999 Second Reading : 17 August 1999 Notice of Amendments : 17 August 1999 Third Reading : 17 August 1999 Commencement : 1 March 2000 15. Act 17 of 2001 — Singapore Land Authority Act 2001 (Amendments made by section 38(1) read with item (9) of the Fourth Schedule to the above Act) Bill : 17/2001 First Reading : 5 March 2001 Second and Third Readings : 19 April 2001 Commencement : 1 June 2001 (section 38(1) read with item (9) of the Fourth Schedule) 16. 2002 Revised Edition — Land Surveyors Act (Chapter 156) Operation : 31 December 2002 17. Act 12 of 2002 — Companies (Amendment) Act 2002 (Amendments made by section 63(b) of the above Act) Bill : 16/2002 First Reading : 23 May 2002 Second and Third Readings : 8 July 2002 Commencement : 13 January 2003 (section 63(b)) 18. Act 30 of 2003 — Planning (Amendment) Act 2003 (Amendments made by section 20 read with item (1) of the Schedule to the above Act) Bill : 27/2003 First Reading : 16 October 2003 Second and Third Readings : 11 November 2003 Commencement : 10 December 2003 (section 20 read with item (1) of the Schedule) 19. Act 37 of 2004 — Land Surveyors (Amendment) Act 2004 Bill : 36/2004 First Reading : 1 September 2004 Second and Third Readings : 21 September 2004 Commencement : 31 March 2005 20. Act 21 of 2005 — Companies (Amendment) Act 2005 (Amendments made by section 58 read with item (7) of the Schedule to the above Act) Bill : 11/2005 First Reading : 18 April 2005 Second and Third Readings : 16 May 2005 Commencement : 30 January 2006 (section 58 read with item (7) of the Schedule) 21. 2006 Revised Edition — Land Surveyors Act (Chapter 156) Operation : 1 April 2006 22. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 11 of the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 2 May 2007 (section 11) 23. Act 30 of 2008 — Statutes (Miscellaneous Amendments) (No. 2) Act 2008 (Amendments made by section 8 of the above Act) Bill : 27/2008 First Reading : 15 September 2008 Second and Third Readings : 17 November 2008 Commencement : 17 December 2008 (section 8) 24. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(24) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(24) of the Second Schedule) 25. 2012 Revised Edition — Land Surveyors Act (Chapter 156) Operation : 30 September 2012 26. Act 36 of 2014 — Companies (Amendment) Act 2014 (Amendments made by section 188 read with item 2 of the Second Schedule to the above Act) Bill : 25/2014 First Reading : 8 September 2014 Second Reading : 7 October 2014 Notice of Amendments : 8 October 2014 Third Reading : 8 October 2014 Commencement : 3 January 2016 (section 188 read with item 2 of the Second Schedule) 27. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 75 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 75) 28. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 82 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 82 of the Schedule)
 
-2. 1992 Revised Edition — Land Surveyors Act (Chapter 156)
+Abbreviations
 
-Date of operation : 9 March 1992
-
-3. Act 15 of 1995 — Bankruptcy Act 1995 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 July 1994 (Bill No. 16/94 published on 29 July 1994)
-
-Date of Second Reading : 25 August 1994
-
-Date Committed to Select Committee : 25 August 1994
-
-Date of Presentation of Select : 7 March 1995 (Parl 1 of 1995) Committee Report
-
-Date of Third Reading : 23 March 1995
-
-Date of commencement : 15 July 1995
-
-4. Act 3 of 1998 — Planning Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 November 1997 (Bill No. 18/97 published on 20 November 1997)
-
-Date of Second and Third Readings : 14 January 1998
-
-Date of commencement : 1 April 1998 5. Act 35 of 1998 — Boundaries and Survey Maps Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 31 July 1998 (Bill No. 32/98 published on 1 August 1998)
-
-Date of Second and Third Readings : 4 September 1998
-
-Date of commencement : 16 October 1998
-
-6. Act 34 of 1999 — Land Surveyors (Amendment) Act 1999
-
-Date of First Reading : 6 July 1999 (Bill No. 21/99 published on 7 July 1999)
-
-Date of Second and Third Readings : 17 August 1999
-
-Date of commencement : 1 March 2000
-
-7. Act 17 of 2001 — Singapore Land Authority Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 5 March 2001 (Bill No. 17/2001 published on 7 March 2001)
-
-Date of Second and Third Readings : 19 April 2001
-
-Date of commencement : 1 June 2001
-
-8. 2002 Revised Edition — Land Surveyors Act (Chapter 156)
-
-Date of operation : 31 December 2002
-
-9. Act 12 of 2002 — Companies (Amendment) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 23 May 2002 (Bill No. 16/2002 published on 24 May 2002)
-
-Date of Second and Third Readings : 8 July 2002
-
-Dates of commencement : 15 August 2002 (sections 2(a) and 36) 1 January 2003 (sections 37 to 41, 55(b) and (c) and 61) 13 January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64) 10. Act 30 of 2003 — Planning (Amendment) Act 2003 (Consequential amendments made to Act by)
-
-Date of First Reading : 16 October 2003 (Bill No. 27/2003 published on 17 October 2003)
-
-Date of Second and Third Readings : 11 November 2003
-
-Dates of commencement : 24 December 1998 (section 6) 10 December 2003 (except section 12) 1 January 2008 (section 12)
-
-11. Act 37 of 2004 — Land Surveyors (Amendment) Act 2004
-
-Date of First Reading : 1 September 2004 (Bill No. 36/2004 published on 2 September 2004)
-
-Date of Second and Third Readings : 21 September 2004
-
-Date of commencement : 31 March 2005
-
-12. Act 21 of 2005 — Companies (Amendment) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 18 April 2005 (Bill No. 11/2005 published on 19 April 2005)
-
-Date of Second and Third Readings : 16 May 2005
-
-Date of commencement : 30 January 2006
-
-13. 2006 Revised Edition — Land Surveyors Act (Chapter 156)
-
-Date of operation : 1 April 2006
-
-14. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 2 May 2007 (section 11 —
-
-Amendment of Land Surveyors Act) 15. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 July 2008 (Bill No. 11/2008 published on 22 July 2008)
-
-Date of Second and Third Readings : 16 September 2008
-
-Date of commencement : 1 March 2010
-
-16. Act 30 of 2008 — Statutes (Miscellaneous Amendments) (No. 2) Act 2008
-
-Date of First Reading : 15 September 2008 (Bill No. 27/2008 published on 16 September 2008)
-
-Date of Second and Third Readings : 17 November 2008
-
-Date of commencement : 17 December 2008 (section 8 —
-
-Amendment of Land Surveyors Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

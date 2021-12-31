@@ -1,9 +1,19 @@
 # 8. Registrar, officers and employees
-Part: PART II LAND SURVEYORS BOARD
+Part: PART 2 LAND SURVEYORS BOARD
 
-(1) The Board may appoint a Registrar and such other officers and employees as it thinks necessary.
+(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Registrar shall —
+[5/2018]
+
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[5/2018]
+
+(3) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must —
 
 (a) be under the general direction of the Board;
 
@@ -11,14 +21,20 @@ Part: PART II LAND SURVEYORS BOARD
 
 (c) record all entries of registration, cancellations and reinstatements in the register of surveyors, annual register of practitioners and annual register of licensees.
 
-(3) The Registrar shall —
+[5/2018]
 
-(a) attend all meetings of the Board and record the proceedings thereof; and
+(4) The Registrar must —
 
-(b) conduct the correspondence and deal with such matters as may be assigned to him by the President or by the Board.
+(a) attend all meetings of the Board and record the proceedings of those meetings; and
 
-(4) The Registrar shall —
+(b) conduct the correspondence and deal with any matters that the president or the Board may assign to the Registrar.
 
-(a) as soon as possible after 1st January in each year, prepare and publish in the Gazette a list of the names of all registered surveyors who have in force a practising certificate and the principal business address at which the person practises in Singapore; and
+(5) The Registrar must —
+
+(a) as soon as possible after 1 January each year, prepare and publish in the Gazette a list of the names of all registered surveyors who have in force a practising certificate and the principal business address at which the person practises in Singapore; and
 
 (b) from time to time publish in the Gazette such supplementary lists of the names of persons added to or removed from the register of practitioners as may be required.
+
+(6) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[5/2018]

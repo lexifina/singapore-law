@@ -1,25 +1,25 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
 “allied professional” means —
 
-(a) an architect who is registered under the Architects Act (Cap. 12); or
+(a) an architect who is registered under the Architects Act 1991; or
 
-(b) a professional engineer who is registered under the Professional Engineers Act (Cap. 253);
+(b) a professional engineer who is registered under the Professional Engineers Act 1991;
 
 “authorised surveyor” means a surveyor who is employed by the Authority, whether or not registered under section 12;
 
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act (Cap. 301);
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
 
 “Board” means the Land Surveyors Board established under section 4;
 
 “cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
 
-“certificate of registration” means the certificate of registration issued under section 14;
+“certificate of registration” means a certificate of registration issued under section 14;
 
-“Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act (Cap. 25);
+“Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act 1998;
 
 “Investigation Committee” means an Investigation Committee appointed under section 24(1);
 
@@ -27,25 +27,25 @@ In this Act, unless the context otherwise requires —
 
 “licensed”, in relation to a corporation, partnership or limited liability partnership, means a corporation, partnership or limited liability partnership which has in force a licence;
 
-“limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act (Cap. 163A);
+“limited liability partnership” has the meaning given by section 4(1) of the Limited Liability Partnerships Act 2005;
 
 “manager” —
 
-(a) in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof; and
+(a) in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he or she is a director or partner thereof; and
 
-(b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act;
+(b) in relation to a limited liability partnership, has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;
 
-“nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on advice given by that other person in a professional capacity;
+“nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the firstmentioned person, except that a person is not to be regarded as a nominee of another person by reason only that the person acts on advice given by that other person in a professional capacity;
 
-“practising certificate” —
+“practising certificate” means —
 
-(a) in relation to a registered surveyor, means an annual practising certificate issued under section 15 authorising him to engage in survey work in Singapore;
+(a) in relation to a registered surveyor — an annual practising certificate issued under section 15 authorising him or her to engage in survey work in Singapore;
 
-(b) in relation to an allied professional who is an architect registered under the Architects Act, means a practising certificate issued under section 18 of that Act; and
+(b) in relation to an allied professional who is an architect registered under the Architects Act 1991 — a practising certificate issued under section 18 of that Act; and
 
-(c) in relation to an allied professional who is a professional engineer registered under the Professional Engineers Act, means a practising certificate issued under section 18 of that Act;
+(c) in relation to an allied professional who is a professional engineer registered under the Professional Engineers Act 1991 — a practising certificate issued under section 28 of that Act;
 
-“President” means the President of the Board;
+“president” means the president of the Board;
 
 “register of licensees” means the annual register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 9(1)(c);
 
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires —
 
 “registered surveyor” means a person registered as a land surveyor under section 12;
 
-“Registrar” means the Registrar of the Board appointed under section 8;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
 
 “survey” means the act or process of —
 
@@ -73,4 +73,4 @@ In this Act, unless the context otherwise requires —
 
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
 
-[35/98; 34/99; 17/2001; 37/2004; 2/2007]
+[5/2018]

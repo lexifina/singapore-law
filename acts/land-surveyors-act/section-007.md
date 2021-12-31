@@ -1,13 +1,13 @@
 # 7. Functions of Board and committees
-Part: PART II LAND SURVEYORS BOARD
+Part: PART 2 LAND SURVEYORS BOARD
 
-(1) The functions of the Board shall be —
+(1) The functions of the Board are —
 
 (a) to keep and maintain a register of surveyors, an annual register of practitioners and an annual register of licensees;
 
-(b) to hold or arrange for the holding of such examinations and professional interviews as the Board considers necessary for the purpose of enabling persons to qualify for registration under this Act;
+(b) to hold, or arrange for the holding of, any examinations and professional interviews that the Board considers necessary for the purpose of enabling persons to qualify for registration under this Act;
 
-(c) to approve or reject applications for registration under section 12 or to approve any such applications subject to such restrictions as it thinks fit to impose;
+(c) to approve or reject applications for registration under section 12 or to approve any such applications subject to any restrictions that it thinks fit to impose;
 
 (d) to establish, maintain and develop the standard of professional conduct and ethics of the surveying profession;
 
@@ -17,10 +17,10 @@ Part: PART II LAND SURVEYORS BOARD
 
 (g) to appoint arbitrators for the purpose of hearing and determining disputes between registered surveyors, licensed corporations, partnerships or limited liability partnerships and other persons;
 
-(h) to license corporations, partnerships and limited liability partnerships which supply survey services in Singapore; and
+(h) to license corporations, partnerships and limited liability partnerships which supply survey services in Singapore;
 
-(i) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
+and
 
-[35/98; 34/99; 2/2007]
+(i) generally to do all acts, matters and things that are necessary to be carried out under the provisions of this Act.
 
 (2) The Board may appoint such committees from among its members or other persons (whether or not they are registered surveyors) as it thinks fit to assist or advise the Board on such matters arising out of its functions under this Act as are referred to them by the Board.
