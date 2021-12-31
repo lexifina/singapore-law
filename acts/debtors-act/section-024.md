@@ -1,5 +1,5 @@
 # 24. Judgment debtor summons
-Part: PART V APPLICATION TO DISTRICT COURTS
+Part: PART 5 APPLICATION TO DISTRICT COURTS
 
 (1) Where a judgment or an order of a District Court is for the recovery or payment of money, whether by instalments or otherwise, the party entitled to enforce it (hereinafter called the judgment creditor) may, subject to such rules as may be prescribed, summon the judgment debtor or, if the judgment debtor is a corporation, an officer of that corporation, to be orally examined before that District Court respecting the judgment debtor’s ability to pay or satisfy the judgment debt and for the discovery of property applicable to such payment and as to the disposal which the judgment debtor has made of such property.
 
@@ -38,8 +38,6 @@ Commitment to prison
 (8) Such notice shall be personally served upon the judgment debtor, and if, on the day so named, or on any subsequent day to which the matter may be adjourned, no sufficient cause is shown by the judgment debtor, the court may commit him to the civil prison for a term which may extend to 6 weeks or until earlier payment of any instalment or instalments or other sum due.
 
 (9) A debtor shall not be committed to prison under this section unless it appears that, since the date of the order directing payment, whether forthwith, or within a specified period or by instalments, he has had sufficient means to comply with the order.
-
-[34/73]
 
 Power to discharge, vary or suspend order
 

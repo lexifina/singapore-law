@@ -1,5 +1,5 @@
 # 27. Penalty for fraudulently obtaining credit, etc.
-Part: PART VI FRAUDULENT DEBTORS
+Part: PART 6 FRAUDULENT DEBTORS
 
 Any person shall in each of the following cases be guilty of an offence and be punished with imprisonment, which may extend to one year, or with fine or with both:
 

@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-DEBTORS ACT
-(CHAPTER 73)
-(Original Enactment: Ordinance 16 of 1923)
-REVISED EDITION 2014
-(30th June 2014)
+DEBTORS ACT 1934
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2014
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to debtors and to provide penalties for fraudulent debtors.
 
-[1st January 1935]
+[1 January 1935]

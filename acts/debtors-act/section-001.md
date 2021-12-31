@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Debtors Act.
+This Act is the Debtors Act 1934.

@@ -1,5 +1,5 @@
 # 14. Procedure on application by surety to be discharged
-Part: PART II ARREST BEFORE JUDGMENT
+Part: PART 2 ARREST BEFORE JUDGMENT
 
 (1) A surety for the appearance of a defendant may at any time apply to the court or a judge to be discharged from his obligation and on such application the court or judge shall summon the defendant to appear, or may issue an order for his arrest.
 

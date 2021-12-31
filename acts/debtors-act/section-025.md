@@ -1,5 +1,5 @@
 # 25. Power of District Judge to order discharge of debtor
-Part: PART V APPLICATION TO DISTRICT COURTS
+Part: PART 5 APPLICATION TO DISTRICT COURTS
 
 (1) If at any time it appears to the satisfaction of a District Judge that any debtor arrested or confined in prison by order of the District Court is unable from any cause to pay any sum recovered against him (whether by way of satisfaction of a claim or counterclaim or by way of costs or otherwise), or any instalment thereof, and ought to be discharged, the District Judge may order his discharge upon such terms (including liability to rearrest if the terms are not complied with) as the District Judge thinks fit.
 

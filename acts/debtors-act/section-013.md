@@ -1,5 +1,5 @@
 # 13. Where defendant may be required to furnish security for appearance
-Part: PART II ARREST BEFORE JUDGMENT
+Part: PART 2 ARREST BEFORE JUDGMENT
 
 (1) If at any stage of any action, other than an action for the possession of immovable property, against a defendant who carries on business or ordinarily resides within the jurisdiction, the plaintiff satisfies the court or a judge by evidence upon oath that he has a good cause of action against the defendant, and that the defendant, with intent to prejudice the plaintiff, or to avoid any process of the court, or to obstruct or delay the execution of any judgment that may be made against him —
 
