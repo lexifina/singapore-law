@@ -1,7 +1,7 @@
 # 22. Cancellation of Singapore document of identity, etc.
-Part: PART III REFUSING OR CANCELLING SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — General
+Part: PART 3 REFUSING OR CANCELLING SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — General
 
-(1) Without prejudice to section 21, the Controller may, by notice in writing, recall any Singapore document of identity and cancel it or retain possession of it where —
+(1) Without affecting section 21, the Controller may, by written notice, recall any Singapore document of identity and cancel it or retain possession of it where —
 
 (a) a Singapore passport is issued to the holder of the Singapore document of identity;
 
@@ -17,8 +17,6 @@ Part: PART III REFUSING OR CANCELLING SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS D
 
 (g) the Singapore document of identity has been reported lost or stolen.
 
-(2) Every Singapore document of identity that is cancelled under subsection (1) shall thereupon be invalid.
+(2) Every Singapore document of identity that is cancelled under subsection (1) is accordingly invalid.
 
-(3) A reference to a Singapore document of identity in this section shall include a reference to any other emergency travel document issued under section 16.
-
-Division 2 — Law enforcement reasons for refusing or cancelling
+(3) A reference to a Singapore document of identity in this section includes a reference to any other emergency travel document issued under section 16.

@@ -1,5 +1,5 @@
 # 54. Methods and technologies for travel documents
-Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
+Part: PART 6 OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 (1) The Minister may approve the methods and technologies (including biometric technologies) to be used by the Controller —
 
@@ -9,4 +9,4 @@ Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 (c) for performing other functions in connection with this Act.
 
-(2) Subsection (1) does not imply that methods or technologies not approved shall not be used for performing functions in connection with this Act.
+(2) Subsection (1) does not imply that methods or technologies not approved cannot be used for performing functions in connection with this Act.

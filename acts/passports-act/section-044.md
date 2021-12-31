@@ -1,5 +1,5 @@
 # 44. Dishonestly obtaining Singapore passport, etc.
-Part: PART V OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
+Part: PART 5 OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
 Division: Division 2 — Offences
 
 (1) If a person —
@@ -10,10 +10,10 @@ Division: Division 2 — Offences
 
 (2) In this section —
 
-‘‘obtain’’ includes —
+“obtain” includes —
 
 (a) obtain for another person; and
 
 (b) induce a third person to do something that results in another person obtaining;
 
-‘‘threat’’ includes a threat that is express or implied, conditional or unconditional.
+“threat” includes a threat that is express or implied, conditional or unconditional.

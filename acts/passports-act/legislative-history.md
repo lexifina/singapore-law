@@ -1,13 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PASSPORTS ACT 2007
 
-PASSPORTS ACT (CHAPTER 220)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Passports Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-Act 33 of 2007 — Passports Act 2007
+LEGISLATIVE HISTORY DETAILS PART 1 PASSPORTS ORDINANCE (CHAPTER 103, 1955 REVISED EDITION) 1. Ordinance 2 of 1920 — Passport Ordinance, 1920 Bill : G.N. No. 83/1920 First, Second and Third : 19 January 1920 Readings Commencement : 26 January 1920 2. Ordinance 26 of 1921 — Statute Laws (Revised Edition) Operation Ordinance, 1921 (Amendments made by section 2 read with Schedule A to the above Ordinance) Bill : G.N. No. 1854/1921 First and Second Readings : 22 November 1921 Notice of Amendments : 22 November 1921 Third Reading : 22 November 1921 Commencement : 28 November 1921 (section 2 read with Schedule A) 3. 1926 Revised Edition — Ordinance No. 176 (Passports) Operation : 1 August 1926 4. 1936 Revised Edition — Passports Ordinance (Chapter 94) Operation : 1 September 1936 5. 1955 Revised Edition — Passports Ordinance (Chapter 103) Operation : 1 July 1956
 
-Date of First Reading : 12 May 2007 (Bill No. 21/2007 published on 22 May 2007)
+PART 2 PASSPORTS ACT (CHAPTER 220, 1985 REVISED EDITION) 6. Act 51 of 1970 — Passports Act, 1970 Bill : 53/1970 First Reading : 4 November 1970 Second and Third Readings : 30 December 1970 Commencement : 25 January 1971 7. 1985 Revised Edition — Passports Act (Chapter 220) Operation : 30 March 1987
 
-Date of Second and Third Readings : 16 July 2007
+PART 3 PASSPORTS ACT 2007 (2020 REVISED EDITION) 8. Act 33 of 2007 — Passports Act 2007 Bill : 21/2007 First Reading : 21 May 2007 Second and Third Readings : 16 July 2007 Commencement : 1 December 2007 9. 2008 Revised Edition — Passports Act (Chapter 220) Operation : 31 December 2008 10. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 73 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 73 of the Sixth Schedule) 11. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012 (Amendments made by section 30 of the above Act) Bill : 22/2011 First Reading : 21 November 2011 Second Reading : 18 January 2012 Notice of Amendments : 18 January 2012 Third Reading : 18 January 2012 Commencement : 1 March 2012 (section 30) 12. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 25 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 25) 13. G.N. No. S 705/2016 — Passports Act (Amendment of Schedule) Order 2016 Commencement : 1 January 2017 14. Act 15 of 2019 — Criminal Law Reform Act 2019 (Amendments made by section 182 of the above Act) Bill : 6/2019 First Reading : 11 February 2019 Second Reading : 6 May 2019 Notice of Amendments : 6 May 2019 Third Reading : 6 May 2019 Commencement : 1 January 2020 (section 182) 15. Act 30 of 2019 — Children and Young Persons (Amendment) Act 2019 (Amendments made by section 69 of the above Act) Bill : 22/2019 First Reading : 5 August 2019 Second Reading : 3 September 2019 Third Reading : 4 September 2019 Commencement : 1 July 2020 (section 69)
 
-Date of commencement : 1 December 2007
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

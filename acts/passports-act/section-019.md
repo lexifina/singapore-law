@@ -1,9 +1,9 @@
 # 19. When Singapore passport may be refused
-Part: PART III REFUSING OR CANCELLING SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — General
+Part: PART 3 REFUSING OR CANCELLING SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — General
 
-(1) The Controller may, by notice in writing, refuse a Singapore passport to any citizen of Singapore.
+(1) The Controller may, by written notice, refuse a Singapore passport to any citizen of Singapore.
 
-(2) Without prejudice to subsection (1), the Controller may, by notice in writing, refuse a Singapore passport to any citizen of Singapore if —
+(2) Without affecting subsection (1), the Controller may, by written notice, refuse a Singapore passport to any citizen of Singapore if —
 
 (a) the citizen of Singapore is the holder of another Singapore passport or a Singapore travel document that is still valid at the time when the Singapore passport applied for is to be issued;
 
@@ -13,6 +13,6 @@ Part: PART III REFUSING OR CANCELLING SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS D
 
 (i) is a person mentioned in section 23(1) or 24(5); or
 
-(ii) has, in the 10 years before the application for the Singapore passport is made, been convicted of an offence under this Act or the repealed Act, or of a seizable offence against any written law which is prescribed; or
+(ii) has, in the 10 years before the application for the Singapore passport is made, been convicted of an offence under this Act or the repealed Act, or of an arrestable offence against any written law that is prescribed; or
 
 (d) the Controller is aware of a circumstance in section 25, 26 or 27 whereby it would be lawful for the Controller to refuse to issue the Singapore passport to the citizen.

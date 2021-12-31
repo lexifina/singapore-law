@@ -1,8 +1,10 @@
-# 4. Extra-territorial operation of Act
-Part: PART I PRELIMINARY
+# 4. Extraterritorial operation of Act
+Part: PART 1 PRELIMINARY
 
 Except as otherwise expressly provided in this Act, this Act extends —
 
-(a) to acts, omissions, matters and things outside Singapore; and
+(a) to acts, omissions, matters and things outside Singapore;
 
-(b) to all persons, irrespective of their nationality or citizenship.
+and
+
+(b) to all persons, regardless of their nationality or citizenship.

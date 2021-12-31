@@ -1,18 +1,16 @@
 # 47. Offences relating to false foreign travel documents
-Part: PART V OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
+Part: PART 5 OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
 Division: Division 2 — Offences
 
 (1) If —
 
-(a) a person makes a false foreign travel document in Singapore, or furnishes a false foreign travel document to another person in Singapore;
+(a) a person makes a false foreign travel document in Singapore, or provides a false foreign travel document to another person in Singapore;
 
-(b) the person does so with the intention of dishonestly inducing another person to use or accept the false foreign travel document as if it were a genuine foreign travel document;
-
-and
+(b) the person does so with the intention of dishonestly inducing another person to use or accept the false foreign travel document as if it were a genuine foreign travel document; and
 
 (c) by reason of the other person so using or accepting the false foreign travel document as genuine, the person dishonestly —
 
-(i) obtains a gain (whether for himself or someone else);
+(i) obtains a gain (whether for himself or herself or someone else);
 
 (ii) causes a loss to the other person or someone else; or
 
@@ -34,21 +32,19 @@ and
 
 and
 
-(c) the person knows or ought reasonably to have known that the foreign travel document was not issued to him, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
+(c) the person knows or ought reasonably to have known that the foreign travel document was not issued to that person, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 (4) If —
 
-(a) a person furnishes another person in Singapore with a foreign travel document that was issued to the first-mentioned person;
+(a) a person (A) provides another person (B) in Singapore with a foreign travel document that was issued to A; and
 
-and
-
-(b) the person is reckless as to whether the document is or will be used by the other person in connection with travel or identification, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
+(b) A is reckless as to whether the document is or will be used by B in connection with travel or identification, A shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 (5) If —
 
 (a) a person has or retains possession or control in Singapore of a foreign travel document; and
 
-(b) the person knows that the foreign travel document was not issued to him, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
+(b) the person knows that the foreign travel document was not issued to him or her, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 (6) If —
 
@@ -56,4 +52,4 @@ and
 
 (b) the person knows or ought reasonably to have known that the document is a false foreign travel document, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(7) Subsections (2) to (6) shall not apply if the person has a reasonable excuse.
+(7) Subsections (2) to (6) do not apply if the person has a reasonable excuse.

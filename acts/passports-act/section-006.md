@@ -1,7 +1,7 @@
 # 6. Application for Singapore passport
-Part: PART II ISSUE OF SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Singapore passports
+Part: PART 2 ISSUE OF SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Singapore passports
 
-An application for a Singapore passport shall —
+An application for a Singapore passport must —
 
 (a) be made to the Controller in the approved form;
 

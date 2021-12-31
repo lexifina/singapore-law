@@ -1,11 +1,11 @@
 # 53. Interpretation of this Part
-Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
+Part: PART 6 OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 In this Part, unless the context otherwise requires —
 
-‘‘disclose’’, in relation to identifying information that is a personal identifier, includes providing access to the identifying information;
+“disclose”, in relation to identifying information that is a personal identifier, includes providing access to the identifying information;
 
-‘‘identifying information’’ means —
+“identifying information” means —
 
 (a) any personal identifier;
 
@@ -13,4 +13,4 @@ In this Part, unless the context otherwise requires —
 
 (c) any record of a result of analysing any personal identifier or meaningful identifier derived from any personal identifier; or
 
-(d) any other information, derived from any personal identifier or meaningful identifier derived from any personal identifier, or from any record of a kind referred to in paragraph (c), that could be used to discover a particular person’s identity or to get information about a particular person.
+(d) any other information, derived from any personal identifier or meaningful identifier derived from any personal identifier, or from any record of a kind mentioned in paragraph (c), that could be used to discover a particular person’s identity or to get information about a particular person.

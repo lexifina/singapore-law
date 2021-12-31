@@ -1,5 +1,5 @@
 # 55. Authorising disclosure of or access to identifying information
-Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
+Part: PART 6 OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 (1) The Minister may, in writing, authorise a specified person, or any person included in a specified class of persons —
 
@@ -7,7 +7,7 @@ Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 (b) to disclose, on written request, identifying information of the kind specified in the Minister’s authorisation, to another specified person, or another person included in a specified class of persons, in the Minister’s authorisation, for the purpose or purposes specified in the Minister’s authorisation.
 
-(2) The Minister shall specify in an authorisation under this section, as the purpose or purposes for which access or disclosure is authorised, one or more of the following purposes, and no other:
+(2) The Minister must specify in an authorisation under this section, as the purpose or purposes for which access or disclosure is authorised, one or more of the following purposes, and no other:
 
 (a) assisting in the identification of, and authenticating the identity of, any applicant for or holder of a Singapore passport or a Singapore travel document;
 
@@ -25,6 +25,6 @@ Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 (h) any other purpose the disclosure of which is required or authorised by or under written law;
 
-(i) making decisions under this Act or the Immigration Act (Cap. 133) or under the regulations made under either Act.
+(i) making decisions under this Act or the Immigration Act 1959 or under the regulations made under either Act.
 
 (3) For the purposes of subsection (1)(b), the specified person or specified class of persons to whom identifying information may be disclosed may include a police force, a law enforcement body or a border control body of a foreign country.

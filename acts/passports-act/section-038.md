@@ -1,5 +1,5 @@
 # 38. Bringing, taking or sending false Singapore passports, etc., across international borders
-Part: PART V OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
+Part: PART 5 OFFENCES RELATING TO SINGAPORE PASSPORTS AND TRAVEL DOCUMENTS Division 1 — Application and definitions
 Division: Division 2 — Offences
 
 (1) If —
@@ -18,4 +18,4 @@ Division: Division 2 — Offences
 
 (ii) the document is a Singapore passport or a Singapore travel document that is not issued to that person, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(2) Subsection (1) shall not apply if the person has a reasonable excuse.
+(2) Subsection (1) does not apply if the person has a reasonable excuse.

@@ -1,5 +1,5 @@
 # 56. Accessing or disclosing identifying information
-Part: PART VI OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
+Part: PART 6 OBLIGATIONS RELATING TO IDENTIFYING INFORMATION
 
 (1) If a person accesses identifying information, and the person —
 

@@ -1,35 +1,33 @@
-# 2. Interpretation
-Part: PART I PRELIMINARY
+# 2. General interpretation
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘applicant’’, in relation to an application for a Singapore passport or a Singapore travel document, means the person who will be the holder of the Singapore passport or Singapore travel document if the application is granted;
+“applicant”, in relation to an application for a Singapore passport or a Singapore travel document, means the person who will be the holder of the Singapore passport or Singapore travel document if the application is granted;
 
-‘‘approved form’’ means any form approved by the Controller for the purposes of any of the provisions of this Act;
+“approved form” means any form approved by the Controller for the purposes of any of the provisions of this Act;
 
-‘‘authorised officer’’, in relation to any provision in this Act or the regulations, means —
+“authorised officer”, in relation to any provision in this Act or the regulations, means —
 
 (a) the Controller;
 
-(b) any immigration officer authorised in that behalf by the Minister for the purposes of that provision;
+(b) any immigration officer authorised by the Minister for the purposes of that provision;
 
-(c) any diplomatic or consular officer of the Government in any foreign country, or any Trade Commissioner of Singapore in any foreign country, authorised in that behalf by the Minister for the purposes of that provision;
+(c) any diplomatic or consular officer of the Government in any foreign country, or any Trade Commissioner of Singapore in any foreign country, authorised by the Minister for the purposes of that provision; or
 
-or
+(d) any other public officer authorised by the Minister for the purposes of that provision;
 
-(d) any other public officer authorised in that behalf by the Minister for the purposes of that provision;
+“biometric passport” means a passport which contains unique biological data specific to the holder;
 
-‘‘biometric passport’’ means a passport which contains unique biological data specific to the holder;
+“child” means a person who is below 16 years of age;
 
-‘‘child’’ means a person who is below 16 years of age;
+“conduct” means an act, an omission to perform an act or a state of affairs;
 
-‘‘conduct’’ means an act, an omission to perform an act or a state of affairs;
+“Controller” means the Controller of Immigration appointed under section 3 of the Immigration Act 1959;
 
-‘‘Controller’’ means the Controller of Immigration appointed under section 3 of the Immigration Act (Cap. 133);
+“customs officer” has the same meaning as “officer of customs” in the Customs Act 1960;
 
-‘‘customs officer’’ has the same meaning as ‘‘officer of customs’’ in the Customs Act (Cap. 70);
-
-‘‘document’’ includes —
+“document” includes —
 
 (a) any paper or other material where there is writing;
 
@@ -41,29 +39,29 @@ or
 
 (c) any article or material from which information is capable of being reproduced with or without the aid of any other article or device;
 
-‘‘engage in conduct’’ means to do an act or omit to perform an act;
+“engage in conduct” means to do an act or omit to perform an act;
 
-‘‘fingerprint’’, in relation to an individual, means a record (in any form and produced by any method) of the skin pattern and other physical characteristics or features of any of his thumbs or fingers;
+“fingerprint”, in relation to an individual, means a record (in any form and produced by any method) of the skin pattern and other physical characteristics or features of any of the individual’s thumbs or fingers;
 
-‘‘foreign travel document’’ means —
+“foreign travel document” means —
 
 (a) a passport; or
 
-(b) a document issued for travel purposes (whether or not also issued for another purpose), that is issued by or on behalf of the government of a foreign country or such international organisation as the Minister may approve;
+(b) a document issued for travel purposes (whether or not also issued for another purpose), that is issued by or on behalf of the government of a foreign country or an international organisation approved by the Minister;
 
-‘‘holder’’, in relation to a Singapore passport or a Singapore travel document, means the person in whose name the Singapore passport or Singapore travel document has been issued;
+“holder”, in relation to a Singapore passport or a Singapore travel document, means the person in whose name the Singapore passport or Singapore travel document has been issued;
 
-‘‘immigration officer’’ means an immigration officer appointed under section 3 of the Immigration Act (Cap. 133);
+“immigration officer” means an immigration officer appointed under section 3 of the Immigration Act 1959;
 
-‘‘public authority’’ means any board or authority established by or under any written law to perform or discharge any public function;
+“public authority” means any board or authority established by or under any written law to perform or discharge any public function;
 
-‘‘regulations’’ means the regulations made under this Act;
+“regulations” means the regulations made under this Act;
 
-‘‘repealed Act’’ means the Passports Act (Cap. 220, 1985 Ed.) repealed by this Act;
+“repealed Act” means the Passports Act (Cap. 220, 1985 Revised Edition) repealed by this Act;
 
-‘‘Singapore document of identity’’ means a document issued under section 16 to any person who is a citizen of Singapore for the purposes of urgently facilitating the person’s entry into or exit from any country, and purporting to establish the identity and nationality of that person;
+“Singapore document of identity” means a document issued under section 16 to any person who is a citizen of Singapore for the purposes of urgently facilitating the person’s entry into or exit from any country, and purporting to establish the identity and nationality of that person;
 
-‘‘Singapore passport’’ means —
+“Singapore passport” means —
 
 (a) a Singapore ordinary passport;
 
@@ -71,9 +69,9 @@ or
 
 (c) a Singapore official passport, issued by or on behalf of the Government under this Act;
 
-‘‘Singapore temporary travel document’’ means a Singapore temporary travel document issued under section 13 to any person who is a citizen of Singapore for the purposes of facilitating the person’s entry into or exit from any country, and purporting to establish the identity and nationality of that person;
+“Singapore temporary travel document” means a Singapore temporary travel document issued under section 13 to any person who is a citizen of Singapore for the purposes of facilitating the person’s entry into or exit from any country, and purporting to establish the identity and nationality of that person;
 
-‘‘Singapore travel document’’ means —
+“Singapore travel document” means —
 
 (a) a Singapore temporary travel document;
 
@@ -81,7 +79,7 @@ or
 
 (c) a Singapore travel document of the kind prescribed under section 18.
 
-(2) A reference in this Act to a false Singapore passport or a false Singapore travel document shall be a reference to —
+(2) A reference in this Act to a false Singapore passport or a false Singapore travel document is a reference to —
 
 (a) a document —
 
@@ -89,15 +87,19 @@ or
 
 (ii) that is not a Singapore travel document but purports to be a Singapore travel document; or
 
-(b) a document that is a Singapore passport or a Singapore travel document that has been altered by a person who is not authorised to alter that document, or that purports to have been altered on a date on which, or at a place at which, or otherwise in circumstances in which, it was not in fact made or altered.
+(b) a document that is a Singapore passport or a Singapore travel document —
 
-(3) A reference in this Act to a false foreign travel document shall be a reference to —
+(i) that has been altered by a person who is not authorised to alter that document; or
+
+(ii) that purports to have been altered on a date on which, or at a place at which, or otherwise in circumstances in which, it was not in fact made or altered.
+
+(3) A reference in this Act to a false foreign travel document is a reference to —
 
 (a) a document that purports to be a passport, or a document for travel purposes, issued by or on behalf of —
 
 (i) the government of a foreign country; or
 
-(ii) such international organisation as the Minister may approve for the purposes of the definition of ‘‘foreign travel document’’ under subsection (1), but that was not issued by or on behalf of that government or international organisation; or
+(ii) an international organisation approved by the Minister for the purposes of the definition of “foreign travel document” under subsection (1), but that was not issued by or on behalf of that government or international organisation; or
 
 (b) a document that is a foreign travel document that has been altered by a person who is not authorised to alter that document.
 
@@ -105,8 +107,6 @@ or
 
 (a) the person is the child’s parent;
 
-(b) under any order of court, the child is to live with the person;
-
-or
+(b) under any order of court, the child is to live with the person; or
 
 (c) the person is entitled to guardianship or custody of the child under any written law.

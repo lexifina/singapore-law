@@ -1,11 +1,11 @@
 # 60. Regulations
-Part: PART VII MISCELLANEOUS
+Part: PART 7 MISCELLANEOUS
 
 (1) The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
-(a) the form or particulars of application for the issue or extension of a Singapore passport or a Singapore travel document, or for an endorsement thereon;
+(a) the form or particulars of application for the issue or extension of, or for an endorsement on, a Singapore passport or a Singapore travel document;
 
 (b) the conditions subject to which a Singapore passport or a Singapore travel document may be issued or extended;
 
@@ -19,7 +19,7 @@ Part: PART VII MISCELLANEOUS
 
 (ii) fees in respect of endorsements on Singapore passports and Singapore travel documents;
 
-(f) the waiver or refund, in whole or in part, by authorised officers of any such fees in the circumstances of any particular case; and
+(f) the waiver or refund, in whole or in part, by authorised officers of any fee mentioned in paragraph (e) in the circumstances of any particular case; and
 
 (g) the prescribing of anything that is required or permitted to be prescribed under this Act.
 
@@ -29,6 +29,6 @@ Part: PART VII MISCELLANEOUS
 
 (b) prescribe different fees for different classes of applicants for Singapore passports or Singapore travel documents, and for different classes of Singapore travel documents, and any application fee so prescribed need not bear any relationship to the cost of issuing a Singapore passport or a Singapore travel document or endorsing on a Singapore passport or a Singapore travel document; and
 
-(c) provide for such transitional, savings and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
+(c) provide for such transitional, saving and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
 
-(4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+(4) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.
