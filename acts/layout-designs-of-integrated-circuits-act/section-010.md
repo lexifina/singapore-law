@@ -1,22 +1,22 @@
 # 10. Non-infringing acts
-Part: PART III LAYOUT-DESIGN RIGHTS AND INFRINGEMENT ACTION
+Part: PART 3 LAYOUT-DESIGN RIGHTS AND INFRINGEMENT ACTION
 
 It is not an infringement of a qualified owner’s right in a protected layout-design —
 
-(a) if the copying is of any part of a protected layout-design that does not comply with the requirement of originality referred to in section 5 (1);
+(a) if the copying is of any part of a protected layout-design that does not comply with the requirement of originality referred to in section 5(1);
 
 (b) if the copying is done for a private purpose and not for the purpose of commercial exploitation;
 
 (c) if the copying is done for the sole purpose of evaluation, analysis, research or teaching;
 
-(d) to use the results of such evaluation, analysis or research to create a different layout-design that complies with the requirement of originality referred to in section 5 (1);
+(d) to use the results of such evaluation, analysis or research to create a different layout-design that complies with the requirement of originality referred to in section 5(1);
 
 (e) to do any of the acts referred to in section 8 in respect of the layout-design referred to in paragraph (d);
 
 (f) for a qualified owner of another protected layout-design —
 
-(i) that is identical to the first-mentioned protected layout-design; and
+(i) that is identical to the firstmentioned protected layout-design; and
 
 (ii) that is independently created, to do any of the acts referred to in section 8 in respect of that other layout-design; or
 
-(g) to commercially exploit a copy of the protected layout- design, an integrated circuit in which the layout-design is incorporated or an article that contains an integrated circuit in which the layout-design is incorporated after the copy, integrated circuit or article has been commercially exploited, whether in Singapore or elsewhere, by, or with the consent of, the qualified owner.
+(g) to commercially exploit a copy of the protected layout-design, an integrated circuit in which the layout-design is incorporated or an article that contains an integrated circuit in which the layout-design is incorporated after the copy, integrated circuit or article has been commercially exploited, whether in Singapore or elsewhere, by, or with the consent of, the qualified owner.

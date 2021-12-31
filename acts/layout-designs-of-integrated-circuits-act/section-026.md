@@ -1,12 +1,10 @@
 # 26. Qualified owner entitled to remuneration
-Part: PART V COMPULSORY LICENSING
+Part: PART 5 COMPULSORY LICENSING
 
-Where an act is done under section 23 in relation to a protected layout-design, the Government shall pay such remuneration to the qualified owner of the protected layout-design —
+Where an act is done under section 23 in relation to a protected layout-design, the Government must pay to the qualified owner of the protected layout-design the remuneration —
 
-(a) as is agreed;
+(a) that is agreed;
 
-(b) as is determined by a method agreed between the Government and the qualified owner; or
+(b) that is determined by a method agreed between the Government and the qualified owner; or
 
-2000 Ed. Integrated Circuits CAP. 159A 17
-
-(c) in default of agreement, as is determined by the Court on the application of either of them.
+(c) in default of agreement, that is determined by the Court on the application of either of them.

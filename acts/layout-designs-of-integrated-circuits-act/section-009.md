@@ -1,6 +1,4 @@
 # 9. Infringement
-Part: PART III LAYOUT-DESIGN RIGHTS AND INFRINGEMENT ACTION
+Part: PART 3 LAYOUT-DESIGN RIGHTS AND INFRINGEMENT ACTION
 
-Subject to the provisions of this Act, it is an infringement of a qualified owner’s right in a protected layout-design for any person to 8 CAP. 159A Integrated Circuits 2000 Ed.
-
-do any of the acts referred to in section 8 without the consent of the qualified owner.
+Subject to the provisions of this Act, it is an infringement of a qualified owner’s right in a protected layout-design for any person to do any of the acts referred to in section 8 without the consent of the qualified owner.

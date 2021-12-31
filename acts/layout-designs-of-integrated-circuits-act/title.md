@@ -1,19 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-LAYOUT-DESIGNS OF INTEGRATED CIRCUITS ACT
-(CHAPTER 159A)
-Act
-3 of 1999
-REVISED EDITION 2000
-(30th December 2000)
+LAYOUT-DESIGNS OF INTEGRATED
+CIRCUITS ACT 1999
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the protection of layout-designs of integrated circuits.
 
-[15th February 1999]
+[15 February 1999]
