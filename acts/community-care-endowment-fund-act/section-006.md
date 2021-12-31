@@ -1,5 +1,5 @@
 # 6. Objects and application of income of ComCare Fund
-Part: PART II COMMUNITY CARE ENDOWMENT FUND
+Part: PART 2 COMMUNITY CARE ENDOWMENT FUND
 
 (1) The objects for which the income of the ComCare Fund may be applied are —
 
@@ -18,5 +18,3 @@ Part: PART II COMMUNITY CARE ENDOWMENT FUND
 (b) the provision of grants to be given to organisations to carry out programmes consistent with the objects of the Fund;
 
 (c) such other purposes consistent with the objects of the Fund, as may be prescribed.
-
-[LLEFA 2000 Ed., s. 5]

@@ -1,5 +1,5 @@
 # 18. Regulations
-Part: PART IV MISCELLANEOUS
+Part: PART 4 MISCELLANEOUS
 
 The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Act, and in particular, the regulations may —
 
@@ -10,5 +10,3 @@ The Minister may make such regulations as are necessary or expedient for the pur
 (c) prescribe the procedure of the Council; and
 
 (d) prescribe anything which may be prescribed under this Act.
-
-[LLEFA 2000 Ed., s. 17]
