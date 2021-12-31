@@ -1,6 +1,4 @@
 # 67. Bankers
-Part: PART IV FINANCIAL PROVISIONS
+Part: PART 4 FINANCIAL PROVISIONS
 
-The Majlis shall appoint bankers to be approved by the Minister and may operate such account or accounts as may seem proper.
-
-[20/99]
+The Majlis must appoint bankers to be approved by the Minister and may operate such account or accounts as may seem proper.

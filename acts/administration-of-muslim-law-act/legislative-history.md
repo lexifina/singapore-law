@@ -1,115 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY ADMINISTRATION OF MUSLIM LAW ACT 1966
 
-ADMINISTRATION OF MUSLIM LAW ACT (CHAPTER 3)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Administration of Muslim Law Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 27 of 1966 — Administration of Muslim Law Act 1966*
+LEGISLATIVE HISTORY DETAILS PART 1 MUSLIMS ORDINANCE (CHAPTER 46, 1955 REVISED EDITION) 1. Ordinance V of 1880 — The Mahomedan Marriage Ordinance, 1880 Bill : S.S.G.G. No. 22/1880 First Reading : 20 May 1880 Second Reading : 1 June 1880 Notice of Amendments : 17 August 1880 Third Reading : 24 August 1880 Commencement : 24 August 1880 2. Ordinance XXV of 1908 — The Muhammadan Marriage Ordinance 1908 Bill : G.N. No. 547/1908 First Reading : 29 October 1908 Second Reading : 30 October 1908 Notice of Amendments : 6 November 1908 Third Reading : 13 November 1908 Commencement : 1 July 1909 3. Ordinance XVII of 1909 — The Muhammadan Marriage Ordinance 1908 Amendment Ordinance 1909 Bill : G.N. No. 1034/1909 First Reading : 8 October 1909 Second Reading : 5 November 1909 Notice of Amendments : 12 November 1909 Third Reading : 19 November 1909 Commencement : 19 November 1909 4. Ordinance 4 of 1917 — Muhammadan Marriage (Amendment) Ordinance 1917 Bill : G.N. No. 1139/1916 First Reading : 29 September 1916 Second Reading : 10 November 1916 Notice of Amendments : 8 January 1917 Third Reading : 20 March 1917 Commencement : 24 March 1917 5. 1920 Revised Edition — Ordinance No.26 (Mahomedans) Operation : 28 November 1921 Note: This Revised Edition consolidated The Mahomedan Marriage Ordinance, 1880 (Ordinance V of 1880) and The Muhammadan Marriage Ordinance 1908 (Ordinance XXV of 1908).
 
-Date of First Reading : 13 December 1965 (Bill No. 61/65 published on 18 December 1965)
+6. Ordinance 26 of 1923 — Ordinance No. 26 (Mahomedans) Amendment Ordinance, 1923 Bill : G.N. No. 1483/1922 First Reading : 11 September 1922 Second Reading : 30 October 1922 Select Committee Report : Information not available Notice of Amendments : 29 October 1923 Third Reading : 17 December 1923 Commencement : 31 December 1923 7. Ordinance 35 of 1934 — The Mohammedans (Amendment) Ordinance 1934 Bill : G.N. No. 1900/1934 First Reading : 24 September 1934 Second and Third Readings : 17 October 1934 Commencement : 2 November 1934 8. 1936 Revised Edition — Mohammedans Ordinance (Chapter 57) Operation : 1 September 1936 9. Ordinance 41 of 1936 — Statute Law (Revised Edition) Amendment Ordinance, 1936 (Amendments made by section 2 read with item IV of the Schedule to the above Ordinance) Bill : G.N. No. 3285/1936 First and Second Readings : 7 December 1936 Notice of Amendments : 7 December 1936 Third Reading : 7 December 1936 Commencement : 30 December 1936 (section 2 read with item IV of the Schedule) 10. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 16 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 16 of the Schedule) 11. 1955 Revised Edition — Muslims Ordinance (Chapter 46) Operation : 1 July 1956 PART 2 MUSLIMS ORDINANCE, 1957 (ORDINANCE 25 OF 1957) 12. Ordinance 25 of 1957 — Muslims Ordinance, 1957 Bill : 68/1956 First Reading : 3 October 1956 Second Reading : 5 November 1956 Select Committee Report : Sessional Paper No. L.A. 5 of 1957 Third Reading : 26 April 1957 Commencement : 25 November 1958
 
-Date of Second Reading : 30 December 1965
+PART 3 ADMINISTRATION OF MUSLIM LAW ACT 1966 (2020 REVISED EDITION) 13. Act 27 of 1966 — Administration of Muslim Law Act, 1966 Bill : 61/1965 First Reading : 13 December 1965 Second Reading : 30 December 1965 Select Committee Report : Parl. 3 of 1966 Notice of Amendments : 17 August 1966 Third Reading : 17 August 1966 Commencement : 1 July 1968 (except sections 81 and 82) 1 March 1990 (sections 81 and 82, renumbered as sections 87 and 88 respectively when the Act was revised in the 1985 Revised Edition) 14. 1970 Revised Edition — Administration of Muslim Law Act (Chapter 42) Operation : 1 March 1971 15. Act 34 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 3) Act, 1973 (Amendments made by section 2 read with item (d) of the Schedule to the above Act) Bill : 27/1973 First Reading : 11 July 1973 Second and Third Readings : 25 July 1973 Commencement : 24 August 1973 (section 2 read with item (d) of the Schedule) 16. Act 31 of 1975 — Administration of Muslim Law (Amendment) Act, 1975 Bill : 31/1975 First Reading : 29 July 1975 Second and Third Readings : 19 August 1975 Commencement : 1 October 1975 17. G.N. No. S 156/1977 — Administration of Muslim Law Act (Variation of Schedule) Notification, 1977 Commencement : 1 July 1977 18. Act 31 of 1984 — Administration of Muslim Law (Amendment) Act 1984 Bill : 26/1984 First Reading : 24 July 1984 Second and Third Readings : 24 August 1984 Commencement : 1 October 1984 19. 1985 Revised Edition — Administration of Muslim Law Act (Chapter 3) Operation : 30 March 1987 20. Act 14 of 1990 — Administration of Muslim Law (Amendment) Act 1990 Bill : 13/1990 First Reading : 11 June 1990 Second and Third Readings : 18 July 1990 Commencement : 1 October 1990 21. G.N. No. S 234/1991 — Administration of Muslim Law Act (Variation of Schedule) Notification 1991 Commencement : 1 July 1991 22. G.N. No. S 457/1995 — Administration of Muslim Law Act (Variation of Schedule) Notification 1995 Commencement : 1 November 1995 23. Act 20 of 1999 — Administration of Muslim Law (Amendment) Act 1999 Bill : 18/1998 First Reading : 20 April 1998 Second Reading : 30 June 1998 Select Committee Report : Information not available Third Reading : 15 April 1999 Commencement : 1 August 1999 24. 1999 Revised Edition — Administration of Muslim Law Act (Chapter 3) Operation : 1 August 1999 25. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (2) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (2) of the Schedule) 26. G.N. No. S 409/2005 — Administration of Muslim Law Act (Variation of Schedule) Notification 2005 Commencement : 1 July 2005 27. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (1) of the First Schedule and section 6 read with item (1) of the Fourth Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 (section 5 read with item (1) of the First Schedule and section 6 read with item (1) of the Fourth Schedule) 28. Act 35 of 2005 — Administration of Muslim Law (Amendment) Act 2005 Bill : 22/2005 First Reading : 15 August 2005 Second Reading : 18 October 2005 Notice of Amendments : 18 October 2005 Third Reading : 18 October 2005 Commencement : 19 March 2007 (except sections 2, 3(a) and (c), 4, 8(a), 9 and 12) 7 August 2013 (sections 2, 3(a) and (c), 4, 8(a), 9 and 12) 29. Act 29 of 2008 — Administration of Muslim Law (Amendment) Act 2008 Bill : 24/2008 First Reading : 15 September 2008 Second and Third Readings : 17 November 2008 Commencement : 2 January 2009 (except sections 5 to 13, 17, 19 and 21 to 33) 1 March 2009 (sections 5 to 13, 17, 19 and 21 to 33) 30. G.N. No. S 2/2009 — Administration of Muslim Law Act (Variation of Schedule) Notification 2009 Commencement : 1 March 2009 31. Act 3 of 2009 — Insurance (Amendment) Act 2009 (Amendments made by section 8 of the above Act) Bill : 28/2008 First Reading : 20 October 2008 Second and Third Readings : 19 January 2009 Commencement : 1 September 2009 (section 8) 32. 2009 Revised Edition — Administration of Muslim Law Act (Chapter 3) Operation : 31 October 2009 33. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 2 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 2 of the Sixth Schedule) 34. Act 27 of 2014 — Family Justice Act 2014 (Amendments made by section 49 of the above Act) Bill : 21/2014 First Reading : 8 July 2014 Second Reading : 4 August 2014 Notice of Amendments : 4 August 2014 Third Reading : 4 August 2014 Commencement : 1 October 2014 (section 49(a) and (b)) 1 January 2015 (section 49(c)) 35. G.N. No. S 144/2016 — Administration of Muslim Law Act (Variation of Schedule) Notification 2016 Commencement : 1 June 2016 36. Act 33 of 2017 — Administration of Muslim Law (Amendment) Act 2017 Bill : 27/2017 First Reading : 3 July 2017 Second and Third Readings : 1 August 2017 Commencement : 1 October 2017 (sections 3, 4(a) and (d), 6, 8, 13, 14, 15(a) and (b), 16, 18 to 22, 26, 27, 28(d), 29(b), 30, 32 to 36 and 40) 1 January 2018 (sections 2, 17 and 39) 22 October 2018 (sections 4(b) and (c), 5, 7, 9 to 12, 15(c), 23, 24, 25, 28(a), (b) and (c), 29(a) and (c), 31, 37 and 38) 37. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 47 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 47)
 
-Date Committed to Select Committee : 30 December 1965
+Abbreviations
 
-Report Presented to Parliament : 31 May 1966 (Parl. 3 of 1966)
-
-Date of Third Reading : 17 August 1966
-
-Date of commencement : 1 July 1968 (except sections 81 and 82) 1 March 1990 (†sections 81 and 82)
-
-*This Act re-enacted certain provisions of the Muslim Ordinance 1957.
-
-†Sections 81 and 82 have been renumbered as sections 87 and 88 in the 1985 Revised Edition, respectively.
-
-2. 1970 Revised Edition — Administration of Muslim Law Act (Chapter 42)
-
-Date of operation : 1 March 1971
-
-3. Act 34 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 3) Act 1973 (Consequential amendments made to Act by)
-
-Date of First Reading : 11 July 1973 (Bill No. 27/73 published on 14 July 1973)
-
-Date of Second and Third Readings : 25 July 1973
-
-Date of commencement : 24 August 1973 4. Act 31 of 1975 — Administration of Muslim Law (Amendment) Act 1975
-
-Date of First Reading : 29 July 1975 (Bill No. 31/75 published on 1 August 1975)
-
-Date of Second and Third Readings : 19 August 1975
-
-Date of commencement : 1 October 1975
-
-5. Act 31 of 1984 — Administration of Muslim Law (Amendment) Act 1984
-
-Date of First Reading : 24 July 1984 (Bill No. 26/84 published on 3 August 1984)
-
-Date of Second and Third Readings : 24 August 1984
-
-Date of commencement : 1 October 1984
-
-6. 1985 Revised Edition — Administration of Muslim Law Act (Chapter 3)
-
-Date of operation : 30 March 1987
-
-7. Act 14 of 1990 — Administration of Muslim Law (Amendment) Act 1990
-
-Date of First Reading : 11 June 1990 (Bill No. 13/90 published on 15 June 1990)
-
-Date of Second and Third Readings : 18 July 1990
-
-Date of commencement : 1 October 1990
-
-8. Act 20 of 1999 — Administration of Muslim Law (Amendment) Act 1999
-
-Date of First Reading : 20 April 1998 (Bill No. 18/98 published on 21 April 1998)
-
-Date of Second Reading : 30 June 1998
-
-Date Committed to Select Committee : 30 June 1998
-
-Report Presented to Parliament : 10 February 1999 (Parl. 1 of 1999)
-
-Date of Third Reading : 15 April 1999
-
-Date of commencement : 1 August 1999
-
-9. 1999 Revised Edition — Administration of Muslim Law Act (Chapter 3)
-
-Date of operation : 1 August 1999 10. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004
-
-11. Act 35 of 2005 — Administration of Muslim Law (Amendment) Act 2005
-
-Date of First Reading : 15 August 2005 (Bill No. 22/2005 published on 16 August 2005)
-
-Date of Second and Third Readings : 18 October 2005
-
-Date of commencement : 19 March 2007 (except sections 2, 3(a) and (c), 4, 8(a), 9 and 12
-
-12. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006 (Item (1) of the First Schedule and item (1) of the Fourth Schedule — Amendment of Administration of Muslim Law Act)
-
-13. Act 29 of 2008 — Administration of Muslim Law (Amendment) Act 2008
-
-Date of First Reading : 15 September 2008 (Bill No. 24/2008 published on 16 September 2008)
-
-Date of Second and Third Readings : 17 November 2008
-
-Date of commencement : 2 January 2009 (except sections 5 to 13, 17, 19 and 21 to 33) 1 March 2009 (sections 5 to 13, 17, 19 and 21 to 33) 14. Act 3 of 2009 — Insurance (Amendment) Act 2009 (Consequential amendments made to Act by)
-
-Date of First Reading : 20 October 2008 (Bill No. 28/2008 published on 20 October 2008)
-
-Date of Second and Third Readings : 19 January 2009
-
-Date of commencement : 1 September 2009 (section 8)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,11 +1,9 @@
 # 81. Power to make rules
-Part: PART V MOSQUES AND RELIGIOUS SCHOOLS
+Part: PART 5 MOSQUES AND RELIGIOUS SCHOOLS
 
 (1) The Majlis may, with the approval of the Minister, make such rules as are necessary or expedient for the purpose of carrying out the provisions of this Act relating to the Mosque Building and Mendaki Fund.
 
-[31/75; 31/84]
-
-(2) Without prejudice to the generality of subsection (1), such rules may —
+(2) Without limiting subsection (1), such rules may —
 
 (a) provide for the manner of payment and collection of contributions to the Mosque Building and Mendaki Fund and any matters incidental thereto;
 
@@ -25,12 +23,10 @@ Part: PART V MOSQUES AND RELIGIOUS SCHOOLS
 
 (i) prescribe the procedure to be followed when voluntary contributions are paid to the Mosque Building and Mendaki Fund;
 
-(ia) prescribe the manner in which the moneys in the Mosque Building and Mendaki Fund may be applied for or in respect of the purposes specified in section 77(1), and generally for the administration of such moneys;
+(j) prescribe the manner in which the moneys in the Mosque Building and Mendaki Fund may be applied for or in respect of the purposes specified in section 77(1), and generally for the administration of such moneys;
 
-(j) prescribe the returns to be made and the forms and registers to be used in the carrying out of the provisions of this Part;
+(k) prescribe the returns to be made and the forms and registers to be used in the carrying out of the provisions of this Part;
 
 and
 
-(k) prescribe anything which under this Part may be prescribed by the Majlis.
-
-[31/75; 31/84; 29/2008]
+(l) prescribe anything which under this Part may be prescribed by the Majlis.

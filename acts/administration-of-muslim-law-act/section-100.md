@@ -1,22 +1,28 @@
 # 100. Registers of Marriages, Divorces and Revocation of Divorces
-Part: PART VI MARRIAGE AND DIVORCE
+Part: PART 6 MARRIAGE AND DIVORCE
 
-(1) The Registrar shall cause —
+(1) The Registrar —
 
-(a) the copies of the certificates of marriage sent to him to be bound in a Register of Marriages; and
+(a) must maintain a Register of Marriages containing such records and information as the Registrar may determine on every marriage solemnised and registered under this Act;
 
-(b) the copies of the certificates of revocation of divorce sent to him to be bound in a Register of Revocation of Divorces.
+and
 
-[14/90]
+(b) may keep the Register of Marriages in such form as the Registrar may determine.
 
-(2) The Registrar shall keep an index of each of the Registers of Marriages and Revocation of Divorces kept by him.
+[33/2017]
 
-[14/90]
+(2) The Registrar —
 
-(3) Any president of the Syariah Court shall cause the copies of the certificates of divorce issued by that Court to be bound in a Register of Divorces.
+(a) must maintain a Register of Revocation of Divorces containing such records and information as the Registrar may determine on every revocation of divorce registered under this Act; and
+
+(b) may keep the Register of Revocation of Divorces in such form as the Registrar may determine.
+
+[33/2017]
+
+(3) Any president of the Syariah Court must cause the copies of the certificates of divorce issued by that Court to be bound in a Register of Divorces.
 
 [29/2008]
 
-(4) Any president of the Syariah Court shall keep an index of the Register of Divorces kept by him.
+(4) Any president of the Syariah Court must keep an index of the Register of Divorces kept by the president.
 
-[14/90; 20/99]
+[20/99]

@@ -1,6 +1,14 @@
 # 144. Proof
-Part: PART X MISCELLANEOUS
+Part: PART 10 MISCELLANEOUS
 
-The Register of Marriages, Register of Divorces and Register of Revocation of Divorces and any copy of any entry therein, certified under the hand and seal of the Registrar or any president of the Syariah Court, as the case may be, to be a true copy or extract, shall be prima facie evidence in all courts and tribunals in Singapore of the dates and acts contained or set out in each of those Registers, copy or extract.
+(1) Each of the following, if certified by the Registrar to be a true copy or extract, is in any proceedings in any court or tribunal in Singapore admissible in evidence as of equal validity with the original document containing the information or the original record (as the case may be):
 
-[14/90; 20/99]
+(a) a copy of or extract from any information contained in the Register of Marriages or Register of Revocation of Divorces;
+
+(b) a copy of or extract from any record contained in the Register of Marriages or Register of Revocation of Divorces (including a copy of or extract from any record produced from a microfilm or digital image).
+
+[33/2017]
+
+(2) The Register of Divorces, and any copy of an entry in that Register certified under the signature and seal of office of any president of the Syariah Court to be a true copy, is prima facie evidence in any court or tribunal in Singapore of the dates and acts contained or set out in that Register or copy.
+
+[33/2017]

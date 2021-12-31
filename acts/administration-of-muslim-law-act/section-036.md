@@ -1,7 +1,7 @@
 # 36. Stay of proceedings involving certain matters
-Part: PART III THE SYARIAH COURT
+Part: PART 3 THE SYARIAH COURT
 
-(1) The Court shall stay proceedings before it —
+(1) The Court must stay proceedings before it —
 
 (a) involving any matter in respect of which it has issued a certificate under section 35A(4), upon issuing the certificate;
 
@@ -13,12 +13,6 @@ Part: PART III THE SYARIAH COURT
 
 (e) to which section 35A(2) would apply apart from section 35A(5), if it comes to the knowledge of the Court that civil proceedings involving the same matter between the same parties have been continued in any court by the consent of the parties.
 
-[20/99]
-
 (2) Where leave granted by the Court under section 35A is reversed on appeal under section 55, the Court may restore any proceedings which have been stayed under subsection (1)(a).
 
-[20/99]
-
-(3) Nothing in this section shall prevent the Court from exercising its powers under sections 51(2) and 52(1), (2) and (3)(a) and (b).
-
-[20/99]
+(3) Nothing in this section prevents the Court from exercising its powers under sections 51(2) and 52(1), (2) and (3)(a) and (b).

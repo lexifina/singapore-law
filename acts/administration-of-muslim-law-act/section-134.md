@@ -1,5 +1,5 @@
 # 134. Cohabitation outside marriage
-Part: PART IX OFFENCES
+Part: PART 9 OFFENCES
 
 (1) Any man who cohabits and lives with a woman, whether a Muslim or not, to whom he is not lawfully married, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 

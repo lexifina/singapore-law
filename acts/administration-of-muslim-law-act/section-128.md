@@ -1,4 +1,4 @@
 # 128. Report of conversion
-Part: PART VIII CONVERSIONS
+Part: PART 8 CONVERSIONS
 
-Any Muslim who converts any person to the Muslim religion shall forthwith report such conversion to the Majlis with all the necessary particulars.
+Any Muslim who converts any person to the Muslim religion must forthwith report such conversion to the Majlis with all the necessary particulars.

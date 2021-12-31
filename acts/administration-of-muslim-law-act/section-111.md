@@ -1,18 +1,20 @@
 # 111. Disposition by will, etc., to be in accordance with Muslim law
-Part: PART VII PROPERTY
+Part: PART 7 PROPERTY
 
-(1) Notwithstanding anything in the provisions of the English law or in any other written law, no Muslim domiciled in Singapore shall, after 1st July 1968, dispose of his property by will, or by any nomination under section 49M(2) of the Insurance Act (Cap. 142), except in accordance with the provisions of and subject to the restrictions imposed by the school of Muslim law professed by him.
+(1) Despite anything in the provisions of the English law or in any other written law, no Muslim domiciled in Singapore may, after 1 July 1968, dispose of his or her property by will except in accordance with the provisions of and subject to the restrictions imposed by the school of Muslim law professed by him or her.
 
-[3/2009]
+[33/2017]
 
-(2) Nothing in this section shall affect —
+(2) Nothing in this section affects —
 
-(a) the provisions of the Wills Act (Cap. 352), other than section 3 thereof;
+(a) the provisions of the Wills Act 1838, other than section 3 thereof;
 
-(aa) the provisions of the Insurance Act, other than sections 49M and 61 thereof;
+(b) the provisions of the Insurance Act 1966;
 
-(b) the provisions of the Probate and Administration Act (Cap. 251); or
+(c) the provisions of the Probate and Administration Act 1934;
 
-(c) the will of a Muslim dying before 1st July 1968.
+or
 
-[3/2009]
+(d) the will of a Muslim dying before 1 July 1968.
+
+[33/2017]

@@ -4,16 +4,22 @@ Section 78(1)
 
 CONTRIBUTIONS TO MOSQUE BUILDING AND MENDAKI FUND
 
-Total amount of employee’s wages for Amount of contributions payable for the calendar month the calendar month
+Total amount of employee’s wages for the . Amount of contributions calendar month payable for the calendar month
 
-(1) Less than $1,001 $2
+1. Not more than $1,000 . $3
 
-(2) $1,001 or more but less than $2,001 $3.50
+2. More than $1,000 but not more than $4.50 $2,000
 
-(3) $2,001 or more but less than $3,001 $5
+3. More than $2,000 but not more than $6.50 $3,000
 
-(4) $3,001 or more but less than $4,001 $12.50
+4. More than $3,000 but not more than $15 $4,000
 
-(5) $4,001 or more $16.
+5. More than $4,000 but not more than $19.50 $6,000
 
-[S 2/2009]
+6. More than $6,000 but not more than $22 $8,000
+
+7. More than $8,000 but not more than $24 $10,000
+
+8. More than $10,000 $26
+
+[S 144/2016]

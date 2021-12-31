@@ -1,15 +1,11 @@
 # 64. Registration of wakafs
-Part: PART IV FINANCIAL PROVISIONS
+Part: PART 4 FINANCIAL PROVISIONS
 
-(1) Every wakaf, whether created before or after 1st July 1968, shall be registered at the office of the Majlis.
+(1) Every wakaf, whether created before or after 1 July 1968, must be registered at the office of the Majlis.
 
-[20/99]
+(2) Application for registration must be made by the mutawalli of the wakaf.
 
-(2) Application for registration shall be made by the mutawalli of the wakaf.
-
-[20/99]
-
-(3) An application for registration shall be made in such form and manner as the Majlis may require and shall contain the following particulars:
+(3) An application for registration must be made in such form and manner as the Majlis may require and must contain the following particulars:
 
 (a) a description of the wakaf properties sufficient for the identification of the properties;
 
@@ -27,39 +23,23 @@ Part: PART IV FINANCIAL PROVISIONS
 
 (iii) charitable purposes; and
 
-(iv) pious and any other purposes; and
+(iv) pious and any other purposes;
 
 (f) any other particulars required by the Majlis.
 
-[20/99]
-
-(4) Every application shall be accompanied by a copy of the wakaf deed, or if no such deed has been executed or a copy thereof cannot be obtained, shall contain full particulars, as far as they are known to the applicant, of the origin, nature and objects of the wakaf.
-
-[20/99]
+(4) Every application must be accompanied by a copy of the wakaf deed, or if no such deed has been executed or a copy thereof cannot be obtained, must contain full particulars, as far as they are known to the applicant, of the origin, nature and objects of the wakaf.
 
 (5) The Majlis may require the applicant to supply any further particulars or information that the Majlis may consider necessary.
 
-[20/99]
-
 (6) On receipt of an application for registration, the Majlis may, before the registration of the wakaf, make such inquiries as it thinks fit in respect of the genuineness and validity of the application and correctness of any particulars in the application.
 
-[20/99]
+(7) When an application is made by any person other than the person managing the wakaf property, the Majlis must, before registering the wakaf, give notice of the application to the person managing the wakaf property and must hear the person managing the wakaf property if the person managing the wakaf property desires to be heard.
 
-(7) When an application is made by any person other than the person managing the wakaf property, the Majlis shall, before registering the wakaf, give notice of the application to the person managing the wakaf property and shall hear him if he desires to be heard.
+(8) In the case of wakafs created before 1 August 1999, every application for registration must be made within 6 months from that date; and in the case of wakafs created after that date, within 6 months from the date of the creation of the wakaf.
 
-[20/99]
-
-(8) In the case of wakafs created before 1st August 1999, every application for registration shall be made within 6 months from that date; and in the case of wakafs created after that date, within 6 months from the date of the creation of the wakaf.
-
-[20/99]
-
-(9) The Majlis shall maintain a register of wakafs in such manner as the Majlis may think fit, including in electronic form in a computer, in which shall be entered such particulars as the Majlis may from time to time determine.
-
-[20/99]
+(9) The Majlis must maintain a register of wakafs in such manner as the Majlis may think fit, including in electronic form in a computer, in which must be entered such particulars as the Majlis may determine.
 
 (10) The Majlis may itself cause a wakaf to be registered or may at any time amend the register of wakafs.
-
-[20/99]
 
 (11) Any mutawalli of a wakaf who fails to —
 
@@ -75,9 +55,7 @@ Part: PART IV FINANCIAL PROVISIONS
 
 (f) carry out the directions of the Majlis; or
 
-(g) do any other act which he is lawfully required to do by or under this section, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
-
-[20/99]
+(g) do any other act which the mutawalli is lawfully required to do by or under this section, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.
 
 (12) The Majlis may, with the approval of the Minister, make rules to provide —
 
@@ -86,5 +64,3 @@ Part: PART IV FINANCIAL PROVISIONS
 (b) for the payment of fees for the inspection of, and extraction from, the register of wakafs; and
 
 (c) generally for giving full effect to or for carrying out the purposes of this section.
-
-[20/99]

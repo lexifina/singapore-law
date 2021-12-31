@@ -1,10 +1,14 @@
 # 21. Minutes
-Part: PART II MAJLIS UGAMA ISLAM
+Part: PART 2 MAJLIS UGAMA ISLAM
 
-(1) The Secretary shall keep minutes of all meetings of the Majlis in the national language and in English.
+(1) The Majlis must ensure that minutes of every meeting are kept in the national language or in English.
 
-(2) At every meeting, the minutes of the previous meeting shall be read and confirmed, subject to any amendment which may be required.
+[33/2017]
 
-(3) Such minutes shall be entered in the minute book of the Majlis and shall include a full record of every resolution of the Majlis.
+(2) At every meeting, the minutes of the previous meeting must be read and confirmed, subject to any amendment which may be required.
 
-(4) A copy of the minutes shall be sent to the President of Singapore.
+(3) Such minutes must include a full record of every resolution of the Majlis.
+
+[33/2017]
+
+(4) A copy of the minutes must be sent to the President of Singapore.

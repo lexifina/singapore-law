@@ -1,8 +1,4 @@
 # 72. Financial provisions with respect to Majlis
-Part: PART IV FINANCIAL PROVISIONS
+Part: PART 4 FINANCIAL PROVISIONS
 
-The financial provisions set out in the First Schedule shall apply
-
-to the Majlis.
-
-[14/90]
+The financial provisions set out in the First Schedule apply to the Majlis.

@@ -1,34 +1,38 @@
 # 102. Registration of marriage, divorce or revocation of divorce compulsory
-Part: PART VI MARRIAGE AND DIVORCE
+Part: PART 6 MARRIAGE AND DIVORCE
 
-(1) Nothing in this section shall be construed as preventing a Kadi or Naib Kadi, at his option, from solemnizing and registering a marriage at his house or office or at the house of the parties or one of the parties thereto.
+(1) A Kadi or Naib Kadi —
 
-(2) In the case of every marriage or revocation of divorce effected in Singapore and which has not been registered in accordance with subsection (1), the husband and wife shall —
+(a) must register a marriage (which was solemnised by him or in his presence) immediately after the solemnisation of the marriage; and
 
-(a) attend personally within 7 days of the marriage or revocation of divorce at the office of a Kadi;
+(b) may, at his option, register, or solemnise and register, a marriage —
 
-(b) furnish such particulars as are required by the Kadi for the due registration of such marriage or revocation of divorce;
+(i) at his house or office;
 
-and
+(ii) at the house of the parties, or one of the parties, to the marriage; or
 
-(c) apply in the prescribed form for the registration of such marriage or revocation of divorce.
+(iii) at any other place proposed by the parties to the marriage.
 
-[29/2008]
+[33/2017]
 
-(3) A Kadi shall not register any revocation of divorce unless he is satisfied after inquiry that the parties have consented to the registration thereof.
+(2) In the case of every revocation of divorce effected in Singapore, the husband and wife must —
 
-[29/2008]
+(a) attend personally within 7 days beginning on the date of the revocation of divorce at the office of a Kadi;
 
-(4) Where, on an application for the registration of a revocation of divorce, the Kadi is not satisfied that both the parties have consented to the registration thereof, the Kadi shall refer the application to the Syariah Court and the Syariah Court may make such decree or order as is lawful under the Muslim law.
+(b) furnish such particulars as are required by the Kadi for the due registration of such revocation of divorce; and
 
-[29/2008]
+(c) apply in the prescribed form for the registration of such revocation of divorce.
 
-(5) In the case of every divorce effected in Singapore, the husband and wife shall attend personally at the Syariah Court within 7 days of the divorce, or such extended time as the Syariah Court thinks fit, and —
+[33/2017]
 
-(a) furnish such particulars as are required by the Syariah Court;
+(3) A Kadi must not register any revocation of divorce unless he is satisfied after inquiry that the parties have consented to the registration thereof.
 
-and
+(4) Where, on an application for the registration of a revocation of divorce, the Kadi is not satisfied that both the parties have consented to the registration thereof, the Kadi must refer the application to the Syariah Court and the Syariah Court may make such decree or order as is lawful under the Muslim law.
+
+(5) In the case of every divorce effected in Singapore, the husband and wife must attend personally at the Syariah Court within 7 days beginning on the date of the divorce, or such extended time as the Syariah Court thinks fit, and —
+
+(a) furnish such particulars as are required by the Syariah Court; and
 
 (b) apply in the prescribed form for a decree or order for divorce.
 
-[29/2008]
+[33/2017]

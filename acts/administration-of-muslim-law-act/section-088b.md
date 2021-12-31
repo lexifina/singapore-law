@@ -1,5 +1,5 @@
 # 88B. Regulation of Haj services and goods
-Part: PART VA HALAL AND HAJ MATTERS
+Part: PART 5A HALAL AND HAJ MATTERS
 
 The Majlis may regulate any person providing goods or services for the purposes of the Haj —
 
@@ -8,5 +8,3 @@ The Majlis may regulate any person providing goods or services for the purposes 
 (b) to safeguard the safety and welfare of persons to whom those goods or services are provided; and
 
 (c) to promote the proper administration of any matter relating to the Haj.
-
-[20/99]

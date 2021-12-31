@@ -1,14 +1,16 @@
 # 16. Corporate seal
-Part: PART II MAJLIS UGAMA ISLAM
+Part: PART 2 MAJLIS UGAMA ISLAM
 
-(1) The corporate seal of the Majlis shall not be used except in pursuance of a resolution of the Majlis.
+(1) The corporate seal of the Majlis must not be used except in pursuance of a resolution of the Majlis.
 
-(2) The corporate seal of the Majlis shall be affixed in the presence of the Secretary and 2 members of the Majlis who shall sign as witnesses.
+(2) The corporate seal of the Majlis must be affixed in the presence of the Chief Executive and 2 members of the Majlis who must sign as witnesses.
 
-(3) The following documents shall be executed under the corporate seal of the Majlis:
+[33/2017]
+
+(3) The following documents must be executed under the corporate seal of the Majlis:
 
 (a) documents requiring registration under any written law;
 
-(b) documents authorising any person to act for any particular purposes on behalf of the Majlis; and
+(b) documents authorising any person to act for any particular purposes on behalf of the Majlis;
 
-(c) such other documents or classes of documents as the Minister may from time to time direct.
+(c) any other documents or classes of documents that the Minister may direct.

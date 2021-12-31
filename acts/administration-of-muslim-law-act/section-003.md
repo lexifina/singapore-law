@@ -1,9 +1,9 @@
 # 3. Establishment and functions of Majlis
-Part: PART II MAJLIS UGAMA ISLAM
+Part: PART 2 MAJLIS UGAMA ISLAM
 
-(1) As from 1st August 1999, the Majlis Ugama Islam, Singapura, shall continue in existence.
+(1) As from 1 August 1999, the Majlis Ugama Islam, Singapura, continues in existence.
 
-(2) It shall be the function and duty of the Majlis —
+(2) It is the function and duty of the Majlis —
 
 (a) to advise the President of Singapore in matters relating to the Muslim religion in Singapore;
 
@@ -15,6 +15,4 @@ Part: PART II MAJLIS UGAMA ISLAM
 
 (e) to administer all mosques and Muslim religious schools in Singapore; and
 
-(f) to carry out such other functions and duties as are conferred upon the Majlis by or under this Act or any other written law.
-
-[20/99]
+(f) to carry out any other functions and duties that are conferred upon the Majlis by or under this Act or any other written law.

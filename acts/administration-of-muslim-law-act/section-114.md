@@ -1,7 +1,7 @@
 # 114. Proof of Muslim law
-Part: PART VII PROPERTY
+Part: PART 7 PROPERTY
 
-(1) In deciding questions of succession and inheritance in the Muslim law, the court shall be at liberty to accept as proof of the Muslim law any definite statement on the Muslim law made in all or any of the following books:
+(1) In deciding questions of succession and inheritance in the Muslim law, the court is at liberty to accept as proof of the Muslim law any definite statement on the Muslim law made in all or any of the following books:
 
 (a) The English translation of the Quaran, by A. Yusuf Ali or Marmaduke Pickthall;
 

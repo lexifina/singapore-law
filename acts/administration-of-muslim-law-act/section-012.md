@@ -1,4 +1,4 @@
 # 12. Appointments to be notified
-Part: PART II MAJLIS UGAMA ISLAM
+Part: PART 2 MAJLIS UGAMA ISLAM
 
-All appointments made under this Part shall be notified in the Gazette.
+All appointments made under this Part must be notified in the Gazette.

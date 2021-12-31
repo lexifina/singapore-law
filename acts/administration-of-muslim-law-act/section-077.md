@@ -1,9 +1,13 @@
 # 77. Application of Mosque Building and Mendaki Fund
-Part: PART V MOSQUES AND RELIGIOUS SCHOOLS
+Part: PART 5 MOSQUES AND RELIGIOUS SCHOOLS
 
-(1) The moneys in the Mosque Building and Mendaki Fund shall be used —
+(1) The moneys in the Mosque Building and Mendaki Fund are to be used —
 
-(a) for the purpose of building mosques in Singapore and for purposes connected therewith, including such extension, alteration, reconstruction or restoration of any existing mosque or any part thereof and such other building works as the Majlis may approve;
+(a) for the purpose of building and maintaining mosques, and premises or facilities for conducting religious education, in Singapore and for connected purposes, including —
+
+(i) any extension, alteration, reconstruction or restoration of the whole or part of any existing mosque, or any existing premises or facilities for conducting religious education, and any other building works, that the Majlis may approve; and
+
+(ii) any purchase of any land, obtaining or renewal of any lease, tenancy or other interest in land, or obtaining or renewal of a licence to occupy land, that the Majlis may approve;
 
 (b) for the payment of contributions to Yayasan Mendaki;
 
@@ -11,8 +15,6 @@ Part: PART V MOSQUES AND RELIGIOUS SCHOOLS
 
 (d) for the payment of expenses incurred in maintaining and administering that Fund.
 
-[31/75; 31/84; 29/2008]
+[33/2017]
 
-(2) The Majlis shall as soon as practicable pay to Yayasan Mendaki the net amount of the contributions received for the purpose of Yayasan Mendaki, after taking into account the appropriate expenses referred to in subsection (1)(d).
-
-[31/84; 29/2008]
+(2) The Majlis must as soon as practicable pay to Yayasan Mendaki the net amount of the contributions received for the purpose of Yayasan Mendaki, after taking into account the appropriate expenses referred to in subsection (1)(d).

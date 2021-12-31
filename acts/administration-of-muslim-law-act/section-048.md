@@ -1,9 +1,9 @@
 # 48. Cerai taklik
-Part: PART III THE SYARIAH COURT
+Part: PART 3 THE SYARIAH COURT
 
-(1) A married woman may, if entitled in accordance with the Muslim law to a divorce in pursuance of the terms of a written taklik made at or after her marriage, apply to the Court to declare that such divorce has taken place.
+(1) A married woman may, if entitled in accordance with the Muslim law to a divorce pursuant to the terms of a written taklik made at or after her marriage, apply to the Court to declare that such divorce has taken place.
 
-(2) The Court shall —
+(2) The Court must —
 
 (a) examine the written taklik and make such enquiry as appears necessary into the validity of the divorce;
 

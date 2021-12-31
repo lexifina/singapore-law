@@ -1,5 +1,5 @@
 # 131. Omitting to hand over book or seal or being in possession thereof without lawful excuse
-Part: PART IX OFFENCES
+Part: PART 9 OFFENCES
 
 Any person who —
 
