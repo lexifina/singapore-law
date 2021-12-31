@@ -1,0 +1,7 @@
+# 7. Suspension of banishment order on execution of a bond
+
+(1) The Minister may at his discretion at the time of making a banishment order or at any time thereafter direct that the order be suspended and that the person ordered to be banished shall execute a bond with sureties to the satisfaction of the Minister for his good behaviour in such amount and for such period (not exceeding 5 years) and subject to such conditions as to residence or otherwise as may be specified in the direction.
+
+(2) If the Minister is satisfied that a person subject to a banishment order directed to be suspended under subsection (1) has failed to observe any condition specified in the bond executed by him under that subsection or that it is not conducive to the good of Singapore that that person should further remain therein, the Minister may at any time revoke the suspension of the banishment order and upon revocation that person may be arrested and detained without a warrant, and the original banishment order shall thereupon be executed in accordance with the provisions of this Act.
+
+(3) Where a banishment order has been suspended under subsection (1) and the suspension has not been revoked before the expiration of the period for which security for good behaviour was given under that subsection, then upon the expiration of that period the order shall lapse and cease to have effect, but nothing in this subsection shall prevent the making of a fresh banishment order against that person.
