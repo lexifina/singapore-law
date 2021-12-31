@@ -1,18 +1,44 @@
-# 93A. Power to freeze bank accounts
-Part: PART VIII DUTIES AND POWERS OF REGISTRAR
+# 93A. Conversion of credit society to non-credit society, etc., on failure to comply with prudential requirements
+Part: PART 8 DUTIES AND POWERS OF REGISTRAR
 
-(1) Where the Minister is satisfied that it is necessary to prevent the loss or misuse of the funds of a society, the Minister may, by order, direct any financial institution not to pay any money out or not to pay cheques drawn on the account of the society for a specified period not exceeding 3 months.
+(1) If, in 2 or more consecutive financial years, a credit society fails to comply with any prudential requirement contained in a written direction issued under section 93(2) within the time specified in that direction, the Registrar may —
 
-[23/2008]
+(a) by a subsequent written direction issued under section 93(2), order the society to stop receiving any new deposits after the expiry of a period specified in that subsequent written direction; and
 
-(2) A financial institution which complies with an order of the Minister under subsection (1) shall be relieved of any liability to any other person in respect of the payment prohibited by the order.
+(b) cancel the registration of the society as a credit society.
 
-[23/2008]
+[3/2018]
 
-(3) Any financial institution which contravenes an order of the Minister under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(2) Where the registration of a society as a credit society is cancelled under subsection (1) —
 
-[23/2008]
+(a) the society becomes a non-credit society; and
 
-(4) In this section, ‘‘financial institution’’, in relation to a society, means a bank licensed under the Banking Act (Cap. 19), a finance company licensed under the Finance Companies Act (Cap. 108), or any other society that is a credit society.
+(b) the Registrar must notify the society in writing that its registration as a credit society is cancelled, starting on a date specified in the notice.
 
-[23/2008]
+[3/2018]
+
+(3) A society that becomes a non-credit society under this section —
+
+(a) must stop doing any of the following things, starting on such date as the Registrar may determine (being a date that may be different from the date mentioned in subsection (2)(b)):
+
+(i) make any new loan to any person;
+
+(ii) allow any new credit to any person;
+
+(iii) receive any new deposit from any person; and
+
+(b) must return, to every person from whom the society had received a deposit in accordance with section 68(2) while the society was a credit society, the deposit made by the person (including any interest accrued on the deposit) within 12 months after the date on which the registration of the society as a credit society is cancelled, or such shorter or longer period as the Registrar may determine in any particular case.
+
+[3/2018]
+
+(4) A society that becomes a non-credit society may continue to receive repayments of existing loans made and credit allowed in accordance with section 67 while the society was a credit society.
+
+[3/2018]
+
+(5) A society that is aggrieved by any decision of the Registrar under subsection (1) may, within 2 months after the date of the Registrar’s decision, appeal in writing to the Minister, whose decision is final.
+
+[3/2018]
+
+(6) Any society that contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for each day or part of a day during which the offence continues after conviction.
+
+[3/2018]

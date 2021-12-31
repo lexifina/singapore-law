@@ -1,7 +1,7 @@
 # 6. Name of society
-Part: PART II FORMATION AND REGISTRATION OF SOCIETIES
+Part: PART 2 FORMATION AND REGISTRATION OF SOCIETIES
 
-(1) No society shall be registered by a name which, in the opinion of the Registrar —
+(1) No society may have a name which, in the Registrar’s opinion —
 
 (a) is likely to mislead members of the public as to the true character or purpose of the society;
 
@@ -11,10 +11,12 @@ Part: PART II FORMATION AND REGISTRATION OF SOCIETIES
 
 (d) is undesirable or offensive.
 
-[23/2008]
+[3/2018]
 
-(2) Every society shall have —
+(2) Every society must have —
 
-(a) the word ‘‘co-operative’’ or its equivalent in the Malay, Chinese and Tamil languages as part of its name; and
+(a) as part of its name, the word “co-operative” or “cooperative”, or its equivalent in the Malay, Chinese or Tamil language; and
 
-(b) the word ‘‘limited’’ or its equivalent in the Malay, Chinese and Tamil languages at the end of its name.
+(b) at the end of its name, the word “limited” or its equivalent in the Malay, Chinese or Tamil language.
+
+[3/2018]

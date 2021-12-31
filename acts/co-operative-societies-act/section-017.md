@@ -1,8 +1,16 @@
 # 17. Address of society
-Part: PART III PRIVILEGES AND DUTIES OF SOCIETIES
+Part: PART 3 PRIVILEGES AND DUTIES OF SOCIETIES
 
-(1) Every society shall have an address registered in accordance with this Act to which all notices and communications shall be sent.
+(1) Every society must have an address registered in accordance with this Act to which all notices and communications must be sent.
 
-(2) The address declared in the application for registration shall be registered as the registered address until changed.
+(2) The Registrar will register, as the registered address of a society —
 
-(3) Every change of address shall be notified to the Registrar who will register the new address, and to any non-members who may be creditors of the society.
+(a) the address declared in the application for registration of the society to be the address of the society; or
+
+(b) if the society changes its address, the new address of which notice is given to the Registrar under subsection (3).
+
+[3/2018]
+
+(3) A society must give the Registrar, and every creditor of the society who is not a member of the society, notice of any change of the address of the society within 30 days after the date of the change.
+
+[3/2018]

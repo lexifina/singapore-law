@@ -1,6 +1,6 @@
 # 97A. General exemption
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
-Notwithstanding anything in this Act, the Minister may, by order published in the Gazette, exempt any person or class of persons from any of the provisions of this Act or the rules made thereunder.
+Despite anything in this Act, the Minister may, by order in the Gazette and subject to such conditions (if any) as the Minister may impose, exempt any person or class of persons from any of the provisions of this Act or the Rules.
 
-[23/2008]
+[3/2018]

@@ -1,4 +1,4 @@
 # 24. Charge and set-off in respect of shares or interest of members
-Part: PART III PRIVILEGES AND DUTIES OF SOCIETIES
+Part: PART 3 PRIVILEGES AND DUTIES OF SOCIETIES
 
-A society shall have a charge upon the share or interest in the capital and on the deposits of a member or past member or deceased member and upon a dividend or patronage refund payable to a member or past member or to the estate of a deceased member in respect of a debt due to the society from the member or past member or estate, and may set-off a sum credited or payable to a member or past member or estate of a deceased member for the payment of any such debt.
+A society has a charge upon the share or interest in the capital and on the deposits of a member or past member or deceased member and upon a dividend or patronage refund payable to a member or past member or to the estate of a deceased member in respect of a debt due to the society from the member or past member or estate, and may set-off a sum credited or payable to a member or past member or estate of a deceased member for the payment of any such debt.

@@ -1,22 +1,28 @@
-# 4. Societies which may be registered
-Part: PART II FORMATION AND REGISTRATION OF SOCIETIES
+# 4. Characteristics required for registration, etc.
+Part: PART 2 FORMATION AND REGISTRATION OF SOCIETIES
 
-(1) Subject to the provisions of this Act, a society —
+(1) Subject to the provisions of this Act, a proposed society may be registered as a society if —
 
-(a) which has as its object the promotion of the economic interests of its members in accordance with co-operative principles;
+(a) it has as its object the promotion of the economic interests of its members in accordance with co-operative principles;
 
-(b) which, while having regard to the economic interests of its members in accordance with essential co-operative principles, has, as its object, the promotion of the economic interest of the public generally, or any section of the public; or
+(b) while it has regard to the economic interests of its members in accordance with essential co-operative principles, it has as its object the promotion of the economic interests of the public generally, or of any section of the public; or
 
-(c) which is a society established with the object of facilitating the operations of a society referred to in paragraphs (a) and (b), may be registered as a co-operative society under this Act.
+(c) it is established with the object of facilitating the operations of a society to which either or both of paragraphs (a) and (b) apply.
 
-(2) Every society which is registered under subsection (1) shall have the organisational and management structure laid down in Part V unless the Registrar, on registration of the society, considers that an organisational and management structure in the form referred to in subsection (3) is necessary or desirable for that society and should be so provided for in its by-laws.
+[3/2018]
 
-[23/2008]
+(2) Every society must have —
 
-(3) The by-laws of a society referred to in subsection (2) may provide for —
+(a) the organisational and management structure set out in Part 5; or
 
-(a) a governing body to be a board of trustees; and
+(b) an organisational and management structure providing for both of the following — if the Registrar, when registering that society, considers that it is necessary or desirable for that society, and should be provided for in that society’s by-laws:
 
-(b) a committee of management to be a board of directors, but the provisions of Part V shall apply to a board of directors of such a society as they apply to a committee of management of any other society registered under this Act.
+(i) a governing body to be a board of trustees;
 
-[23/2008]
+(ii) a committee of management to be a board of directors.
+
+[3/2018]
+
+(3) The provisions of Part 5 apply to a board of directors of a society having an organisational and management structure in subsection (2)(b) as they apply to a committee of management of any other society.
+
+[3/2018]

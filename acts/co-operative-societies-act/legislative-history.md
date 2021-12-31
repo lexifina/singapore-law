@@ -1,41 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CO-OPERATIVE SOCIETIES ACT 1979
 
-CO-OPERATIVE SOCIETIES ACT (CHAPTER 62)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Co-operatives Societies Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 17 of 1979 — Co-operative Societies Act 1979
+LEGISLATIVE HISTORY DETAILS PART 1 CO-OPERATIVE SOCIETIES ORDINANCE (CHAPTER 155, 1936 REVISED EDITION) 1. Ordinance 21 of 1924 — Co-operative Societies Ordinance, 1924 Bill : G.N. No. 1145/1924 First Reading : 30 June 1924 Second Reading : 15 September 1924 Select Committee Report : Information not available Notice of Amendments : 3 November 1924 Third Reading : 3 November 1924 Commencement : 1 January 1925 2. 1926 Revised Edition — Ordinance No. 204 (Co-operative Societies) Operation : 1 August 1926 3. Ordinance 63 of 1935 — Statute Law Revision Ordinance, 1935 (Amendments made by section 2 read with item (t) of the First Schedule to the above Ordinance) Bill : G.N. No. 3043/1935 First Reading : 20 November 1935 Second Reading : 9 December 1935 Notice of Amendments : 9 December 1935 Third Reading : 9 December 1935 Commencement : 31 December 1935 (section 2 read with item (t) of the First Schedule) 4. 1936 Revised Edition — Co-operative Societies Ordinance (Chapter 155) Operation : 1 September 1936
 
-Date of First Reading : 5 March 1979 (Bill No. 14/79 published on 12 March 1979)
+PART 2 CO-OPERATIVE SOCIETIES ACT (CHAPTER 186, 1970 REVISED EDITION) 5. Ordinance 20 of 1953 — Co-operative Societies Ordinance, 1953 Bill : 13/1953 First Reading : 19 May 1953 Second and Third Readings : 16 June 1953 Commencement : 25 June 1953 6. Ordinance 3 of 1954 — Co-operative Societies (Amendment) Ordinance, 1954 Bill : 2/1954 First Reading : 17 March 1954 Second Reading : 13 April 1954 Commencement : 25 June 1953 7. 1955 Revised Edition — Co-operative Societies Ordinance (Chapter 175) Operation : 1 July 1956 8. Ordinance 12 of 1958 — Co-operative Societies (Amendment) Ordinance, 1958 Bill : 132/1958 First Reading : 22 April 1958 Second Reading : 11 June 1958 Notice of Amendments : 11 June 1958 Third Reading : 11 June 1958 Commencement : 27 June 1958 9. L.N. 237/1965 (G.N. Sp. No. S 108/1965) — Modification of Laws (Co-operative Societies) (Borneo States and Singapore) Order, 1965 Commencement : 10 June 1965 10. 1970 Revised Edition — Co-operative Societies Act (Chapter 186) Operation : 1 July 1971
 
-Date of Second and Third Readings : 7 September 1979
+PART 3 CO-OPERATIVE SOCIETIES ACT 1979 (2020 REVISED EDITION) 11. Act 17 of 1979 — Co-operative Societies Act, 1979 Bill : 14/1979 First Reading : 5 March 1979 Second Reading : 23 March 1979 Notice of Amendments : 7 September 1979 Commencement : 1 January 1980 12. 1985 Revised Edition — Co-operative Societies Act (Chapter 62) Operation : 30 March 1987 13. Act 13 of 1990 — Co-operative Societies (Amendment) Act 1990 Bill : 8/1990 First Reading : 2 March 1990 Second and Third Readings : 29 March 1990 Commencement : 16 April 1990 14. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Amendments made by section 19 read with item (3) of the Schedule to the above Act) Bill : 34/1998 First Reading : 31 July 1998 Second Reading : 12 October 1998 Notice of Amendments : 12 October 1998 Third Reading : 12 October 1998 Commencement : 16 November 1998 (section 19 read with item (3) of the Schedule) 15. Act 23 of 2008 — Co-operative Societies (Amendment) Act 2008 Bill : 19/2008 First Reading : 25 August 2008 Second Reading : 16 September 2008 Notice of Amendments : 16 September 2008 Third Reading : 16 September 2008 Commencement : 20 October 2008 16. 2009 Revised Edition — Co-operative Societies Act (Chapter 62) Operation : 31 July 2009 17. Act 3 of 2009 — Insurance (Amendment) Act 2009 (Amendments made by section 11 of the above Act) Bill : 28/2008 First Reading : 20 October 2008 Second and Third Readings : 19 January 2009 Commencement : 1 September 2009 (section 11) 18. Act 3 of 2018 — Co-operative Societies (Amendment) Act 2018 Bill : 50/2017 First Reading : 6 November 2017 Second and Third Readings : 9 January 2018 Commencement : 10 April 2018 (except sections 12, 13, 23(a), 26, 32, 33(i), 42 and 67(1)) 22 April 2019 (sections 12, 13, 26 and 42) 1 November 2019 (sections 23(a), 32, 33(i) and 67(1)) 19. Act 9 of 2018 — Cybersecurity Act 2018 (Amendments made by section 50(13) of the above Act) Bill : 2/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 31 August 2018 (section 50(13)) 20. G.N. No. S 439/2019 — Co-operative Societies Act (Amendment of Schedule) Order 2019 Commencement : 20 June 2019 21. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 465 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 465) 22. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 32 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 32 of the Schedule)
 
-Date of commencement : 1 January 1980
+Abbreviations
 
-2. 1985 Revised Edition — Co-operative Societies Act (Chapter 62)
-
-Date of operation : 30 March 1987
-
-3. Act 13 of 1990 — Co-operative Societies (Amendment) Act 1990
-
-Date of First Reading : 2 March 1990 (Bill No. 8/90 published on 3 March 1990)
-
-Date of Second and Third Readings : 29 March 1990
-
-Date of commencement : 16 April 1990
-
-4. Act 37 of 1998 — Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 (Consequential amendments made to Act by)
-
-Date of First Reading : 31 July 1998 (Bill No. 34/98 published on 1 August 1998)
-
-Date of Second and Third Readings : 12 October 1998
-
-Date of commencement : 16 November 1998
-
-5. Act 23 of 2008 — Co-operative Societies (Amendment) Act 2008
-
-Date of First Reading : 25 August 2008 (Bill No. 19/2008 published on 25 August 2008)
-
-Date of Second and Third Readings : 16 September 2008
-
-Date of commencement : 20 October 2008
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

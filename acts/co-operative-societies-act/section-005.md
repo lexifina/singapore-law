@@ -1,10 +1,10 @@
 # 5. Conditions of registration
-Part: PART II FORMATION AND REGISTRATION OF SOCIETIES
+Part: PART 2 FORMATION AND REGISTRATION OF SOCIETIES
 
-No society shall be registered under this Act unless —
+(1) A proposed society cannot be registered as a primary society unless it consists of at least 5 persons, each of whom qualifies for membership under section 39(1).
 
-(a) in the case of a primary society, it consists of at least 10 persons each of whom is qualified for membership under section 39;
+[3/2018]
 
-and
+(2) A proposed society cannot be registered as a secondary society unless it consists of 2 or more persons, each being a society or a trade union.
 
-(b) in the case of a secondary society, it consists of 2 or more societies or trade unions qualifying for membership under section 39.
+[3/2018]

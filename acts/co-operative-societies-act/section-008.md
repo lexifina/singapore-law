@@ -1,7 +1,7 @@
 # 8. Requirements before registration
-Part: PART II FORMATION AND REGISTRATION OF SOCIETIES
+Part: PART 2 FORMATION AND REGISTRATION OF SOCIETIES
 
-The Registrar may require applicants to furnish such additional information in regard to the proposed society as he thinks fit, including —
+The Registrar may require applicants to furnish such additional information in regard to the proposed society as the Registrar thinks fit, including —
 
 (a) the economic or other need for the formation of the proposed society;
 
@@ -12,5 +12,3 @@ The Registrar may require applicants to furnish such additional information in r
 (d) the availability of officers capable of directing and managing the affairs of the proposed society and of keeping such records and accounts of the society as the Registrar may require; and
 
 (e) such other information as may be prescribed.
-
-[23/2008]

@@ -1,4 +1,4 @@
-# 76. (Repealed)
-Part: PART VIII DUTIES AND POWERS OF REGISTRAR
+# 76. [Repealed]
+Part: PART 8 DUTIES AND POWERS OF REGISTRAR
 
-(Repealed by Act 23 of 2008)
+[Repealed by Act 23 of 2008]
