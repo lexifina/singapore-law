@@ -1,0 +1,7 @@
+# 19. Duties of medical practitioners as to certification
+
+(1) Every medical practitioner, upon the death of any person who has during his last illness been attended by that medical practitioner, shall sign and deliver within 12 hours of the death to one of the persons required by this Act to furnish particulars of the death or to any deputy registrar of the local registration area within which the death has occurred, a certificate in the prescribed form.
+
+(2) Such person shall, when furnishing particulars of the death, deliver such certificate to the deputy registrar and the cause of death as stated in the certificate shall be entered in the register together with the name of the certifying medical practitioner.
+
+(3) In case any certificate under subsection (1) certifies that the cause of death of any person arose from plague, cholera, small-pox, or any disease that is required to be notified to foreign countries as a dangerous infectious disease under any Convention with regard to dangerous infectious disease for the time being in force, which is not known at the time to be prevalent in Singapore, the Registrar-General or the registrar or the supervising deputy registrar (if any) if he is not satisfied of the correctness of the diagnosis, may refuse to act upon that certificate and refuse to register the death until such further and other opinion as to the cause of death as he may require has been given.
