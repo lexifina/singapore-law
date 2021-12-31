@@ -6,7 +6,9 @@ OFFENCES AGAINST INTERNATIONALLY PROTECTED PERSONS
 
 Offence Description
 
-Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65)
+Corrosive and Explosive .
+
+Substances and Offensive Weapons Act 1958
 
 1. Section 4 Using a corrosive or explosive substance or offensive weapon
 
@@ -16,23 +18,27 @@ Explosive Substances Act (Cap. 100)
 
 3. Section 4 Attempt to cause explosion or making or keeping explosive with intent to endanger life
 
-Kidnapping Act (Cap. 151)
+Hostage-Taking Act 2010
+
+3A. Section 3 Hostage-taking
+
+Kidnapping Act 1961
 
 4. Section 3 Abduction, wrongful restraint or wrongful confinement for ransom
 
-Penal Code (Cap. 224)
+Penal Code 1871
 
 5. Section 302 Murder
 
 6. Section 304 Culpable homicide not amounting to murder
 
-7. Section 325 Voluntarily causing grievous hurt FIRST SCHEDULE — continued
-
-Offence Description
+7. Section 325 Voluntarily causing grievous hurt
 
 8. Section 326 Voluntarily causing grievous hurt by dangerous weapons or means
 
-9. Section 327 Voluntarily causing hurt to extort property or to constrain to an illegal act
+9. Section 327 Voluntarily causing hurt to extort property or to constrain to an illegal act FIRST SCHEDULE — continued
+
+Offence Description
 
 10. Section 328 Causing hurt by means of poison, etc., with intent to commit an offence
 
@@ -42,9 +48,11 @@ Offence Description
 
 13. Section 331 Voluntarily causing grievous hurt to extort confession or to compel restoration of property
 
-14. Section 343 Wrongful confinement for 3 or more days
+13A. Section 342 Wrongful confinement
 
-15. Section 344 Wrongful confinement for 10 or more days
+14. Section 343 (as in force Wrongful confinement for 3 or more days before 1 January 2020)
+
+15. Section 344 (as in force Wrongful confinement for 10 or more days before 1 January 2020)
 
 16. Section 346 Wrongful confinement in secret
 
@@ -62,11 +70,13 @@ Offence Description
 
 23. Section 363A Abduction
 
-24. Section 364 Kidnapping or abducting in order to murder FIRST SCHEDULE — continued
+24. Section 364 Kidnapping or abducting in order to murder
+
+25. Section 364A (as in force Kidnapping or abducting in order to compel before 21 November the Government, etc.
+
+2010) FIRST SCHEDULE — continued
 
 Offence Description
-
-25. Section 364A Kidnapping or abducting in order to compel the Government, etc.
 
 26. Section 365 Kidnapping or abducting with intent secretly and wrongfully to confine a person
 
@@ -81,3 +91,5 @@ Offence Description
 31. Section 376 Sexual assault by penetration
 
 32. Section 376A Sexual penetration of minor under 16 years of age.
+
+[S 671/2010; S 834/2021]

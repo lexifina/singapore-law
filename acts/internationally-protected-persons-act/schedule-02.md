@@ -6,23 +6,19 @@ OFFENCES AGAINST PREMISES OR VEHICLES
 
 Offence Description
 
-Explosive Substances Act (Cap. 100)
+Explosive Substances Act 1924
 
 1. Section 3 Causing explosion likely to endanger property
 
 2. Section 4 Attempt to cause explosion or making or keeping explosive with intent to endanger property
 
-Penal Code (Cap. 224)
+Penal Code 1871
 
 3. Section 426 Mischief
 
-4. Section 427 Mischief causing damage of $500 or above
+4. Section 427 Mischief causing disruption to key service, etc.
 
-5. Section 430A Mischief affecting railway engine, train, etc.
-
-SECOND SCHEDULE — continued
-
-Offence Description
+5. Section 430A (as in force before Mischief affecting railway engine, 1 January 2020) train, etc.
 
 6. Section 435 Mischief by fire or explosive substance with intent to cause damage
 
@@ -35,3 +31,5 @@ Offence Description
 10. Section 439 Intentionally running vessel aground or ashore with intent to commit theft, etc.
 
 11. Section 440 Mischief committed after preparation made for causing death or hurt.
+
+[S 834/2021]

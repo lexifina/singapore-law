@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Internationally Protected Persons Act.
+This Act is the Internationally Protected Persons Act 2008.
+
+1

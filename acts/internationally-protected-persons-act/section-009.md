@@ -1,6 +1,6 @@
 # 9. Information relating to offence
 
-(1) Every person in Singapore who has information which he knows or believes may be of material assistance —
+(1) Every person in Singapore who has information which the person knows or believes may be of material assistance —
 
 (a) in preventing the commission by another person of a relevant offence; or
 
@@ -8,9 +8,9 @@
 
 (2) No criminal or civil proceedings shall lie against a person for any disclosure made in good faith under this section.
 
-(3) A person who makes a disclosure in good faith under this section shall not be treated as being in breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct.
+(3) A person who makes a disclosure in good faith under this section is not to be treated as being in breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct.
 
-(4) In this section, ‘‘relevant offence’’ means —
+(4) In this section, “relevant offence” means —
 
 (a) an offence specified in the First Schedule committed to or in relation to an internationally protected person;
 
@@ -19,5 +19,3 @@
 (c) an offence under section 4 or 5; or
 
 (d) an abetment of or a conspiracy or an attempt to commit an offence under paragraph (a), (b) or (c).
-
-[TSOB Act 2007, s. 4]

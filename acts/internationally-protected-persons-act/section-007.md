@@ -2,10 +2,10 @@
 
 Any person who, outside Singapore, commits an act which, if committed in Singapore, would constitute an abetment of or a conspiracy or an attempt to commit —
 
-(a) an offence specified in the First Schedule or under section 4, where the offence is or is to be committed to or in relation to a person whom he knows to be an internationally protected person; or
+(a) an offence specified in the First Schedule or under section 4, where the offence is or is to be committed to or in relation to a person whom the firstmentioned person knows to be an internationally protected person; or
 
 (b) an offence specified in the Second Schedule or under section 5, where the offence is or is to be committed to or in relation to —
 
-(i) premises which he knows to be relevant premises; or
+(i) premises which he or she knows to be relevant premises; or
 
-(ii) a vehicle which he knows is used by an internationally protected person, and which, if committed, is likely to endanger the person or liberty of the internationally protected person, is deemed to commit the act in Singapore and may be dealt with accordingly.
+(ii) a vehicle which he or she knows is used by an internationally protected person, and which, if committed, is likely to endanger the person or liberty of the internationally protected person, is deemed to commit the act in Singapore and may be dealt with accordingly.

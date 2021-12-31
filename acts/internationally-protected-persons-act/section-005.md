@@ -4,14 +4,12 @@
 
 (a) to or in relation to —
 
-(i) premises which he knows to be relevant premises; or
+(i) premises which he or she knows to be relevant premises; or
 
-(ii) a vehicle which he knows is used by an internationally protected person;
+(ii) a vehicle which he or she knows is used by an internationally protected person;
 
 (b) which is likely to endanger the person or liberty of the internationally protected person; and
 
-(c) which, if committed in Singapore, would have constituted an offence specified in the Second Schedule, shall be guilty of that offence and shall be liable on conviction to the same punishment to which he would have been liable had he been convicted of that offence.
+(c) which, if committed in Singapore, would have constituted an offence specified in the Second Schedule, shall be guilty of that offence and shall be liable on conviction to the same punishment to which he or she would have been liable had he or she been convicted of that offence.
 
 (2) That person may be dealt with as if the offence had been committed in Singapore.
-
-[NZ Crimes Act 1980, s. 4]
