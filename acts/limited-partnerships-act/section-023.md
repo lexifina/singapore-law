@@ -1,14 +1,22 @@
-# 23. Electronic filing service
-Part: PART III REGISTRATION OF LIMITED PARTNERSHIPS
+# 23. Electronic transaction system
+Part: PART 3 REGISTRATION OF LIMITED PARTNERSHIPS
 
-(1) The Registrar may require any document to be lodged under this Act to be filed electronically with the Registrar using the service provided by the Registry of Limited Partnerships whereby documents under this Act may be filed with or submitted to the Registrar electronically.
+(1) The Registrar may —
 
-(2) Where any document is required to be filed with or submitted to the Registrar electronically by any person using the service referred to in subsection (1), the Registrar may allow the document to be filed or submitted by a prescribed person on behalf of the first-mentioned person, subject to such conditions as may be imposed from time to time by the Registrar on the prescribed person.
+(a) require or permit any person to carry out any transaction with the Registrar under this Act; and
 
-(3) A copy of or an extract from any document electronically filed with or submitted to the Registrar using the service referred to in subsection (1) which is supplied or issued by the Registrar and certified under his hand and seal to be a true copy of or an extract from such document shall, in any proceedings, be admissible in evidence as of equal validity with the original document.
+(b) issue any approval, certificate, notice, determination or other document pursuant or connected to a transaction mentioned in paragraph (a), using the electronic transaction system established under Part 6A of the Accounting and Corporate Regulatory Authority Act 2004.
 
-(4) Any information supplied by the Registrar that is certified by the Registrar under his hand and seal to be a true extract from any document filed or lodged with or submitted to the Registrar using the service referred to in subsection (1) shall, in any proceedings, be admissible in evidence and be presumed, unless evidence to the contrary is adduced, to be a true extract from such document.
+[18/2014]
 
-(5) Subsections (3) and (4) shall have effect notwithstanding the provisions of any other written law.
+(2) In this section, “transaction”, in relation to the Registrar, means —
 
-[BR Act, s. 20; LLPA, s. 42]
+(a) the filing or lodging of any document with the Registrar, or the submission, production, delivery, provision or sending of any document to the Registrar;
+
+(b) any making of any application, submission or request to the Registrar;
+
+(c) any provision of any undertaking or declaration to the Registrar; and
+
+(d) any extraction, retrieval or accessing of any document, record or information maintained by the Registrar.
+
+[18/2014]

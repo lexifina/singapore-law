@@ -1,6 +1,4 @@
 # 36. Public servants
-Part: PART IV DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
+Part: PART 4 DUTIES, OFFENCES AND POWERS OF ENFORCEMENT
 
-All officers and inspectors appointed under this Act shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
-
-[BR Act, s. 30; LLPA, s. 47]
+All officers and inspectors appointed under this Act are deemed to be public servants for the purposes of the Penal Code 1871.

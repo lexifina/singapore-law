@@ -1,13 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY LIMITED PARTNERSHIPS ACT 2008
 
-LIMITED PARTNERSHIPS ACT (CHAPTER 163B)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Limited Partnerships Act. It is not part of the Act.
+1. Act 37 of 2008 — Limited Partnerships Act 2008 Bill : 35/2008 First Reading : 21 October 2008 Second and Third Readings : 18 November 2008 Commencement : 4 May 2009 2. 2010 Revised Edition — Limited Partnerships Act (Chapter 163B) Operation : 1 January 2010 3. Act 25 of 2012 — Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (Amendments made by section 6 of the above Act) Bill : 23/2012 First Reading : 10 September 2012 Second and Third Readings : 15 October 2012 Commencement : 28 March 2013 (section 6) 4. Act 18 of 2014 — Accounting and Corporate Regulatory Authority (Amendment) Act 2014 (Amendments made by section 15 read with item 3 of the Schedule to the above Act) Bill : 8/2014 First Reading : 17 February 2014 Second and Third Readings : 14 April 2014 Commencement : 15 May 2015 (section 15 read with item 3 of the Schedule) 5. Act 35 of 2014 — Statutes (Miscellaneous Amendments) (No. 2) Act 2014 (Amendments made by section 11 of the above Act) Bill : 24/2014 First Reading : 8 September 2014 Second and Third Readings : 7 October 2014 Commencement : 1 July 2015 (section 11(q)) 3 January 2016 (section 11(a) to (p) and (r) to (v)) 6. Act 29 of 2014 — Business Names Registration Act 2014 (Amendments made by section 47 read with item 11 of the Schedule to the above Act) Bill : 26/2014 First Reading : 8 September 2014 Second and Third Readings : 8 October 2014 Commencement : 3 January 2016 (section 47 read with item 11 of the Schedule) 7. Act 15 of 2017 — Companies (Amendment) Act 2017 (Amendments made by section 53(5) of the above Act) Bill : 13/2017 First Reading : 28 February 2017 Second and Third Readings : 10 March 2017 Commencement : 11 October 2017 (section 53(5)) 8. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 490 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 490) 9. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 91 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 91 of the Schedule)
 
-Act 37 of 2008 — Limited Partnerships Act 2008
+Abbreviations
 
-Date of First Reading : 21 October 2008 (Bill No. 35/2008 published on 21 October 2008)
-
-Date of Second and Third Readings : 18 November 2008
-
-Date of commencement : 4 May 2009
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I GENERAL
+Part: PART 1 GENERAL
 
-This Act may be cited as the Limited Partnerships Act.
+This Act is the Limited Partnerships Act 2008.

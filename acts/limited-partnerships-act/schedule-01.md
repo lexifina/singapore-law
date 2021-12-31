@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-Section 6(3) and (4)
+Sections 6(3) and (4) and 43
 
 ACTS NOT REGARDED AS TAKING PART IN MANAGEMENT OF LIMITED PARTNERSHIP
 
@@ -8,7 +8,7 @@ ACTS NOT REGARDED AS TAKING PART IN MANAGEMENT OF LIMITED PARTNERSHIP
 
 2. Acting as an agent or employee of the limited partnership within the scope of the authority conferred by the partners.
 
-3. Acting as an agent or employee of a general partner of the limited partnership or as a trustee or other fiduciary or beneficiary of an estate or trust which is a general partner of the limited partnership, or as a trustee, advisor, shareholder or beneficiary of a business trust or a statutory trust which is a general partner of the limited partnership, or as a director, officer or shareholder of a corporate general partner of the limited partnership.
+3. Acting as an agent or employee of a general partner of the limited partnership or as a trustee or other fiduciary or beneficiary of an estate or trust which is a general partner of the limited partnership, or as a trustee, adviser, shareholder or beneficiary of a business trust or a statutory trust which is a general partner of the limited partnership, or as a director, officer or shareholder of a corporate general partner of the limited partnership.
 
 4. Consulting with and advising the limited partnership or any partners of the limited partnership with respect to the business, affairs or transactions of the limited partnership.
 
@@ -16,7 +16,9 @@ ACTS NOT REGARDED AS TAKING PART IN MANAGEMENT OF LIMITED PARTNERSHIP
 
 6. Acting as surety or guarantor for the limited partnership or for a general partner of the limited partnership, either generally or in respect of specific obligations.
 
-7. Enforcing his rights under the partnership agreement (unless those rights are to carry out management functions).
+FIRST SCHEDULE — continued
+
+7. Enforcing one’s rights under the partnership agreement (unless those rights are to carry out management functions).
 
 8. Calling, requesting, attending or participating in a meeting of the partners or limited partners of the limited partnership.
 
@@ -27,8 +29,6 @@ ACTS NOT REGARDED AS TAKING PART IN MANAGEMENT OF LIMITED PARTNERSHIP
 (a) the dissolution and winding up of the limited partnership;
 
 (b) the purchase, sale, exchange, lease, pledge, mortgage, hypothecation, creation of a security interest, or other dealing in any asset by or of the limited partnership;
-
-FIRST SCHEDULE — continued
 
 (c) the creation, renewal, refinancing or discharge of an obligation by the limited partnership;
 
@@ -50,8 +50,6 @@ FIRST SCHEDULE — continued
 
 11. Commencing or instructing any person to commence or continue or defend any legal proceedings on behalf of the limited partnership, if any one or more of the general partners with the authority to do so have, without good cause, refused or failed to commence, continue or defend any such proceedings.
 
-12. Winding up the limited partnership pursuant to any rights the limited partner may have under section 39 of the Partnership Act (Cap. 391).
+12. Winding up the limited partnership pursuant to any rights the limited partner may have under section 39 of the Partnership Act 1890.
 
-13. Having all or any part of his name included in the name of the limited partnership.
-
-[Delaware LP, §. 17; Jersey LP Law, Art. 19]
+13. Having all or any part of one’s name included in the name of the limited partnership.
