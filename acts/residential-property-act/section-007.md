@@ -1,7 +1,7 @@
 # 7. Foreign companies to file declarations with Controller
-Part: PART II PROHIBITION ON PURCHASE OR ACQUISITION OF RESIDENTIAL PROPERTY BY FOREIGN PERSONS
+Part: PART 2 PROHIBITION ON PURCHASE OR ACQUISITION OF RESIDENTIAL PROPERTY BY FOREIGN PERSONS
 
-(1) Subject to subsection (2), where, on 11th September 1973, a foreign company was the owner of an estate or interest in any land in Singapore, the foreign company shall, within the period of 6 months of 1st October 1982, file with the Controller a declaration made by its director or secretary or its representative in Singapore setting out —
+(1) Subject to subsection (2), where, on 11 September 1973, a foreign company was the owner of an estate or interest in any land in Singapore, the foreign company must, within the period of 6 months of 1 October 1982, file with the Controller a declaration made by its director or secretary or its representative in Singapore setting out —
 
 (a) the location and Government survey lot number of the land which has been disposed of by sale or otherwise; and
 
@@ -13,8 +13,4 @@ Part: PART II PROHIBITION ON PURCHASE OR ACQUISITION OF RESIDENTIAL PROPERTY BY 
 
 (iii) such further particulars as the Controller may require.
 
-[22/82; 9/2006]
-
-(2) Subsection (1) shall not apply to a foreign company which is exempted under section 32.
-
-[22/82]
+(2) Subsection (1) does not apply to a foreign company which is exempted under section 32.
