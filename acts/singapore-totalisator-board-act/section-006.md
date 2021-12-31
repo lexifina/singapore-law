@@ -1,12 +1,8 @@
-# 6. Members of Board
-Part: PART II SINGAPORE TOTALISATOR BOARD
+# 6. Directions by Minister
+Part: PART 2 SINGAPORE TOTALISATOR BOARD
 
-(1) The Board shall consist of —
+The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(a) a Chairman; and
+[5A
 
-(b) not less than 4 and not more than 11 other members as the Minister may from time to time determine.
-
-[13/2004]
-
-(2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
+[5/2018]

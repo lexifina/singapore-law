@@ -1,75 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY SINGAPORE TOTALISATOR BOARD ACT 1987
 
-SINGAPORE TOTALISATOR BOARD ACT (CHAPTER 305A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Singapore Totalisator Board Act. It is not part of the Act.
+1. Act 29 of 1987 — Singapore Totalisator Board Act 1987 Bill : 21/1987 First Reading : 9 November 1987 Second and Third Readings : 30 November 1987 Commencement : 1 January 1988 2. 1988 Revised Edition — Singapore Totalisator Board Act (Chapter 305A) Operation : 30 April 1988 3. Act 4 of 1991 — Singapore Totalisator Board (Amendment) Act 1990 Bill : 33/1990 First Reading : 9 November 1990 Second and Third Readings : 20 December 1990 Commencement : 1 April 1990 4. Act 4 of 1997 — Singapore Totalisator Board (Amendment) Act 1997 Bill : 1/1997 First Reading : 2 June 1997 Second and Third Readings : 25 August 1997 Commencement : 15 September 1997 5. 1999 Revised Edition — Singapore Totalisator Board Act (Chapter 305A) Operation : 30 December 1999 6. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (44) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (44) of the Schedule) 7. Act 13 of 2004 — Singapore Totalisator Board (Amendment) Act 2004 Bill : 8/2004 First Reading : 27 February 2004 Second and Third Readings : 20 April 2004 Commencement : 1 May 2004 8. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (49) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (49) of the Schedule) 9. Act 14 of 2005 — Betting and Sweepstake Duties (Amendment) Act 2005 (Amendments made by section 11 of the above Act) Bill : 4/2005 First Reading : 28 February 2005 Second and Third Readings : 11 March 2005 Commencement : 1 April 2005 (section 11) 10. Act 12 of 2008 — Singapore Totalisator Board (Amendment) Act 2008 Bill : 7/2008 First Reading : 26 May 2008 Second and Third Readings : 21 July 2008 Commencement : 27 December 2010 11. 2012 Revised Edition — Singapore Totalisator Board Act (Chapter 305A) Operation : 31 July 2012 12. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 103 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 103) 13. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 21(3) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 21(3))
 
-1. Act 29 of 1987 — Singapore Totalisator Board Act 1987
+Abbreviations
 
-Date of First Reading : 9 November 1987 (Bill No. 21/87 published on 11 November 1987)
-
-Date of Second and Third Readings : 30 November 1987
-
-Date of commencement : 1 January 1988
-
-2. 1988 Revised Edition — Singapore Totalisator Board Act (Chapter 305A)
-
-Date of operation : 30 April 1988
-
-3. Act 4 of 1991 — Singapore Totalisator Board (Amendment) Act 1990
-
-Date of First Reading : 9 November 1990 (Bill No. 33/90 published on 12 November 1990)
-
-Date of Second and Third Readings : 20 December 1990
-
-Date of commencement : 1 April 1990
-
-4. Act 4 of 1997 — Singapore Totalisator Board (Amendment) Act 1997
-
-Date of First Reading : 2 June 1997 (Bill No. 1/97 published on 3 June 1997)
-
-Date of Second and Third Readings : 25 August 1997
-
-Date of commencement : 15 September 1997
-
-5. 1999 Revised Edition — Singapore Totalisator Board Act (Chapter 305A)
-
-Date of operation : 30 December 1999
-
-6. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002 published on 4 May 2002)
-
-Date of Second and Third Readings : 24 May 2002 Dates of commencement : 15 July 2002 (except item 18 of the Schedule) 29 July 2002 (item 18 of the Schedule)
-
-7. Act 13 of 2004 — Singapore Totalisator Board (Amendment) Act 2004
-
-Date of First Reading : 27 February 2004 (Bill No. 8/2004 published on 28 February 2004)
-
-Date of Second and Third Readings : 20 April 2004
-
-Date of commencement : 1 May 2004
-
-8. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004 published on 22 September 2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004
-
-9. Act 14 of 2005 — Betting and Sweepstake Duties (Amendment) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 28 February 2005 (Bill No. 4/2005 published on 1 March 2005)
-
-Date of Second and Third Readings : 11 March 2005
-
-Date of commencement : 1 April 2005
-
-10. Act 12 of 2008 — Singapore Totalisator Board (Amendment) Act 2008
-
-Date of First Reading : 26 May 2008 (Bill No. 7/2008 published on 26 May 2008)
-
-Date of Second and Third Readings : 21 July 2008
-
-Date of commencement : 27 December 2010
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

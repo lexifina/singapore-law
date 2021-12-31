@@ -1,6 +1,14 @@
-# 13. Proportion of deduction from investment to belong to Board
-Part: PART III TOTALISATORS AND TOTALISATOR AGENCIES
+# 13. Power to borrow
+Part: PART 2 SINGAPORE TOTALISATOR BOARD
 
-The sums deducted by way of commission in accordance with section 12(1)(b), together with any fractional money arising pursuant to the operation of section 12(2), shall be deemed for all purposes to belong to and form part of the general funds of the Board and may be apportioned between the Board and the totalisator agency in such proportion and in such manner as may be approved by the Minister.
+(1) For the purposes of this Act, the Board may raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
 
-[12/2008]
+(a) mortgage, overdraft or other means, with or without security;
+
+(b) charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or
+
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
+
+(2) For the purposes of this section, the power to raise loans includes the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods or services.
+
+[9B

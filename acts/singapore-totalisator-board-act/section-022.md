@@ -1,14 +1,14 @@
-# 22. Property of Singapore Turf Club to be held on trust for Board
-Part: PART IV MISCELLANEOUS
+# 22. Composition of offences
+Part: PART 4 MISCELLANEOUS
 
-(1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act (Cap. 311), shall with effect from 9th November 1987 be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
+(1) Any public officer authorised by the Minister may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) all immovable property owned by the Club on that date;
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) all funds and investments belonging to the Club on that date.
+(b) $5,000.
 
-(2) If any question arises as to whether any particular property, fund or investment is held on trust for the Board, the matter shall be determined by the Minister and a certificate under the hand of the Minister shall be conclusive evidence of the matter certified therein.
+(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
-(3) The Board may grant to the Singapore Turf Club out of the funds deemed to be held by the Club on trust for the Board such sums of money as the Board may determine to enable the Club to meet the expenses of carrying out its operations and to maintain or improve its facilities and for such other purpose as the Board thinks fit.
+(3) All sums collected under this section must be paid into the Consolidated Fund.
 
-(4) Notwithstanding subsection (1), the Singapore Turf Club may, from 9th November 1987 to 1st January 1988, apply any funds deemed to be held by the Club on trust for the Board for such purposes as may be approved by the Minister for Finance.
+[20A

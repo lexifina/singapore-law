@@ -1,22 +1,12 @@
-# 21. Power to make regulations
-Part: PART IV MISCELLANEOUS
+# 21. Inspection of totalisators and totalisator agencies
+Part: PART 4 MISCELLANEOUS
 
-(1) The Minister may, from time to time, make such regulations as he may consider necessary or expedient to give effect to the provisions of this Act and for the due administration thereof.
+A police officer not below the rank of inspector may (at any time) enter for the purpose of inspection any premises in which any totalisator or totalisator agency is operated, and may during such inspection —
 
-[12/2008]
+(a) examine any books, accounts, records or other documents, or any machine or equipment, for the time being used in the operation of the totalisator or totalisator agency;
 
-(2) In particular and without prejudice to the generality of the powers conferred by subsection (1), regulations may be made to —
+(b) seize any such books, accounts, records, documents, machine or equipment which the police officer has reasonable cause to believe to be evidence of the commission of any offence under this Act; and
 
-(a) regulate any advertisement in relation to any totalisator, lottery, betting or gaming activity of —
+(c) demand from any person for the time being having the care and management of the totalisator or totalisator agency or any part of the totalisator or totalisator agency any information that the police officer considers necessary for the purpose of the inspection.
 
-(i) the Board;
-
-(ii) any totalisator agency; or
-
-(iii) any agent appointed by the Board;
-
-(b) prescribe the offences which may be compounded; and
-
-(c) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
-
-[12/2008]
+[20

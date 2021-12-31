@@ -1,16 +1,10 @@
-# 12. Calculation of dividend
-Part: PART III TOTALISATORS AND TOTALISATOR AGENCIES
+# 12. Issue of shares, etc.
+Part: PART 2 SINGAPORE TOTALISATOR BOARD
 
-(1) It shall be the duty of the Board and any totalisator agency operating a totalisator to pay out by way of dividend all moneys received from investments on the totalisator after deducting —
+As a consequence of —
 
-(a) the amount of any duty charged under the Betting and Sweepstake Duties Act (Cap. 22); and
+(a) the vesting of any property, rights or liabilities of the Government in the Board under this Act; or
 
-(b) the amount of any commission prescribed, or determined in any manner prescribed, in any regulations made under section 21.
+(b) any capital injection or other investment by the Government in the Board in accordance with any written law, the Board must issue such shares or other securities to the Minister for Finance as that Minister may direct.
 
-[14/2005; 12/2008]
-
-(2) It shall not be necessary to pay out fractions of a dollar.
-
-(3) Any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules issued, approved or modified under section 4(1)(f) shall be refunded without deduction of such duty and commission mentioned in subsection (1).
-
-[4/97; 12/2008]
+[9A

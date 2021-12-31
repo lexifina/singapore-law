@@ -1,5 +1,5 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
@@ -7,7 +7,7 @@ In this Act, unless the context otherwise requires —
 
 (a) any notice, circular, pamphlet, brochure, programme, price-list, label, wrapper or other document; and
 
-(b) any announcement, notification or intimation to the public or any section thereof or to any person or persons made —
+(b) any announcement, notification or intimation to the public or any section of the public or to any person or persons made —
 
 (i) orally or in writing;
 
@@ -17,9 +17,11 @@ In this Act, unless the context otherwise requires —
 
 (iv) by means of any writing on any vehicle or any object or thing; or
 
-(v) in any other manner whatsoever;
+(v) in any other manner;
 
 “Board” means the Singapore Totalisator Board established under section 3;
+
+“chief executive” means the chief executive of the Board, and includes any individual acting in that capacity;
 
 “gaming” means the playing of any game of chance or of mixed chance and skill for money or money’s worth;
 
@@ -41,4 +43,4 @@ In this Act, unless the context otherwise requires —
 
 “writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
 
-[13/2004; 12/2008]
+[5/2018]

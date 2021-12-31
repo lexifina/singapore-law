@@ -1,4 +1,6 @@
-# 11. [Repealed]
-Part: PART III TOTALISATORS AND TOTALISATOR AGENCIES
+# 11. Power of investment
+Part: PART 2 SINGAPORE TOTALISATOR BOARD
 
-[Repealed by Act 12 of 2008]
+The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
+
+[9

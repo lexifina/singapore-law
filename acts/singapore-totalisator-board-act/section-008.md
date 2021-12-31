@@ -1,8 +1,16 @@
-# 8. Bank accounts and application of revenue
-Part: PART II SINGAPORE TOTALISATOR BOARD
+# 8. Chief executive
+Part: PART 2 SINGAPORE TOTALISATOR BOARD
 
-(1) The Board shall open and maintain an account or accounts with such bank or banks as the Board thinks fit.
+(1) There must be a chief executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) Every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Board.
+[5/2018]
 
-(3) The moneys of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payments that the Board is authorised or required to make.
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive during any period, or during all periods, when the chief executive —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[6A
+
+[5/2018]
