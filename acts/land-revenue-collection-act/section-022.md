@@ -1,0 +1,6 @@
+# 22. No sale to be called in question except on proof of substantial damage
+Part: PART 2 SALE BY AUCTION
+
+(1) Subject to section 21, no sale had under this Act shall be annulled by the court nor shall any such sale give ground for any action for damages against the Government or any officer thereof except only upon the grounds of its having been made contrary to the provisions of this Act and then only upon proof that the plaintiff has sustained substantial injury by reason of the irregularity complained of, and no Collector selling land for the recovery of an arrear shall be deemed a trespasser nor shall the sale be deemed wrongful by reason of any such irregularity in the procedure but the defaulter shall be entitled to recover as special damages for the irregularity the difference between the price actually obtained and the price which, in the opinion of the court, would have been obtained at the Collector’s sale if there had been no irregularity and no more.
+
+(2) If any sale under this Act is annulled by the court, the purchase money or deposit paid by the purchaser shall be refunded by the Government with interest at the rate of 6% per annum, and the purchaser shall have no further claim for compensation.

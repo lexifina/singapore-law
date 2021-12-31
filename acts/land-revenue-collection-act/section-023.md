@@ -1,0 +1,4 @@
+# 23. Claims of defaulter not to invalidate sale 1
+Part: PART 2 SALE BY AUCTION
+
+No claim to rebate or remission or deferment of payment of rent, unless the same has been allowed by the written authority of the Commissioner of Lands and no private demand or cause of action whatever held or supposed to be held against the Government by any defaulter shall bar or render void or voidable a sale under this Part, nor shall the plea that money belonging to the defaulter and sufficient to pay the arrear of rent due was in the Collector’s hands bar or render void or voidable such a sale unless that money stands in the defaulter’s name alone and without dispute and unless after application in due time made by the defaulter the Collector has neglected or refused on insufficient grounds to transfer it in payment of the arrear of rent due.
