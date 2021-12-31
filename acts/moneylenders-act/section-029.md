@@ -1,12 +1,22 @@
-# 29. Special provisions relating to non-resident principal
-Part: PART III REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
+# 29. Regulation of advertising and marketing, etc.
+Part: PART 3 REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
 
-(1) When any fine is imposed on an agent who is or has been licensed to carry on a business of moneylending in Singapore on behalf of a principal not resident in Singapore in respect of an offence under this Act committed by the agent in the course of carrying on the business, the fine shall, unless the court imposing the fine otherwise directs, be recoverable out of the property belonging to the principal or the agent, or to both, and situated within Singapore.
+(1) A licensee must not knowingly or recklessly issue or publish, or cause to be issued or published, any advertising or marketing material in any form, or any business letter, circular or other document, which contains any information which is false or misleading in a material particular.
 
-(2) Any property of the principal referred to in subsection (1) may be taken in execution and sold under any warrant issued against the agent for the levy of the amount of the fine.
+(2) For the purpose of subsection (1), any advertising or marketing material or any business letter, circular or other document is presumed, unless the contrary is proved, to contain information which is false or misleading in a material particular if the material or document —
 
-(3) When it is made to appear to any court by any person entitled to make an application under section 23 that any transaction entered into with a moneylender not resident in Singapore prima facie ought to be re-opened, the court may —
+(a) does not state the business name of the licensee;
 
-(a) issue an order of attachment attaching any property of the moneylender situated within Singapore until such time as the moneylender submits to the jurisdiction of the court and gives security to the satisfaction of the court that any order made against him for repayment of any sum or for an indemnity will be duly satisfied; and
+(b) states the business name of the licensee in an inconspicuous manner;
 
-(b) authorise the service out of the jurisdiction of any summons or other process applying for the re-opening of the transaction under section 23.
+(c) states that the licensee offers loans at a specified percentage of interest without stating the rate of the interest, and the actual rate of interest charged is not per annum;
+
+(d) states that the licensee offers loans at a specified rate of interest but the actual rate of interest charged is higher; or
+
+(e) states that the licensee offers loans at a specified percentage rate of interest without stating that conditions apply, or without stating the conditions which apply, when the rate of interest offered is subject to conditions.
+
+(3) Without limiting the Registrar’s power to issue directions under section 45(1), the Registrar may issue directions to any licensee with respect to the issue, publication or contents of advertising or marketing materials or the conduct of advertising or marketing activities.
+
+(4) Any licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[16

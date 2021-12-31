@@ -1,26 +1,76 @@
-# 38. Transitional and savings provisions
-Part: PART IV MISCELLANEOUS
+# 38. Accounts, etc., to be kept and submissions to Registrar
+Part: PART 3 REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
 
-(1) Notwithstanding the repeal of the Moneylenders Act, as from 1st March 2009 —
+(1) Subject to subsection (4), every licensee must keep, or cause to be kept —
 
-(a) every licence granted under the repealed Moneylenders Act (Cap. 188, 1985 Ed.) and which continues to be valid immediately before that date shall be deemed to be a licence issued under this Act in respect of the activities authorised by the first-mentioned licence for the remaining period of the licence and shall subsist until its expiry, and may be renewed, revoked, suspended or otherwise dealt with in accordance with the provisions of this Act;
+(a) every loan application form, and a copy of every document supporting the application, received by the licensee on or after 30 November 2018 —
 
-(b) every exemption granted under the repealed Moneylenders Act (Cap. 188, 1985 Ed.) and subsisting immediately before that date shall, except to the extent that the person exempted qualifies to be an excluded moneylender, be deemed to be an exemption granted under this Act and shall subsist until its expiry, and may be extended, revoked or otherwise dealt with in accordance with the provisions of this Act; and
+(i) in a case where the loan application is not approved, for a period of 5 years after the date on which the form or copy is received; or
 
-(c) every pending application for any licence, exemption, consent or approval under the repealed Moneylenders Act shall be deemed to be an application therefor under this Act, except that the fees payable for such an application or for the grant of the licence, exemption, consent or approval sought shall be those prescribed under the repealed Moneylenders Act.
+(ii) in a case where the loan application is approved, for a period of 5 years after the date on which the loan is fully repaid or on which the contract for the loan is otherwise terminated;
 
-(2) Where any person —
+(b) the note of contract in the prescribed form for every loan granted to a person by the licensee on or after 30 November 2018, for a period of 5 years after the date on which the loan is fully repaid or on which the contract for the loan is otherwise terminated;
 
-(a) is granted an exemption under the repealed Moneylenders Act which subsists immediately before 1st March 2009; and
+(c) the following documents:
 
-(b) qualifies to be an excluded moneylender in relation to the activities or services for which the exemption is granted, the Registrar may, in his discretion, refund such amount of the fees paid by the person in respect of such exemption as is proportionate to the period (being a period of not less than 6 months) for which, but for such person becoming an excluded moneylender, the exemption would continue to subsist.
+(i) a cash account book, in the prescribed form, containing an entry on every sum received or paid by a licensee relating to any recent loan;
 
-(3) Any notice, order, decision, direction, requisition or approval made or granted by the Registrar or the Minister under the repealed Moneylenders Act in force immediately before 1st March 2009 shall continue and be deemed to have been made or granted by the Registrar or the Minister, respectively, under this Act and shall have effect accordingly.
+(ii) a loan account book, in the prescribed form, containing an entry on every amount of repayment or sum paid to the account of any recent loan;
 
-(4) All acts done by or on behalf of the Registrar or the Minister under the repealed Moneylenders Act before 1st March 2009 shall continue to remain valid and have effect as though done by or on behalf of the Registrar or the Minister, respectively, under this Act until such time as such acts are invalidated, revoked, cancelled or otherwise determined by the Registrar or the Minister, as the case may be.
+(iii) a list of borrowers containing the prescribed particulars of every borrower who is granted a recent loan; and
 
-(5) Subject to subsection (1)(c), where anything has been commenced by or on behalf of the Registrar or the Minister before 1st March 2009, such thing may be carried on and completed by or on behalf of the Registrar or the Minister, respectively, under the authority of this Act.
+(d) such other documents as may be prescribed, for such period as may be prescribed.
 
-(6) Any subsidiary legislation made under the repealed Moneylenders Act (Cap. 188, 1985 Ed.) and in force immediately before 1st March 2009 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked.
+[7/2018]
 
-(7) Any written law or document referring to the repealed Moneylenders Act or any provision thereof shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.
+(2) Subject to subsection (3), despite the revocation or expiry of the licence of a person, the person must continue to keep or cause to be kept each document mentioned in subsection (1) until the expiry of the period for which the document is required under subsection (1) to be kept or caused to be kept.
+
+[7/2018]
+
+(3) Despite subsection (2), the Registrar may specify by written notice to the person whose licence is revoked or has expired, the time after which any document kept or caused to be kept under subsection (1) is to be disposed of by the person.
+
+[7/2018]
+
+(4) Despite subsection (1), a licensee must keep or cause to be kept any loan application form, note of a contract for a loan or other document referred to in that subsection, which has been specified or described by the Registrar in relation to a specific transaction or borrower or as belonging to a class of documents, for such longer time as may be required in connection with an investigation into an offence under this Act.
+
+[7/2018]
+
+(5) Every licensee must submit to the Registrar the following statements, in such form and manner, at such frequency, and within such time, as may be prescribed:
+
+(a) a statement showing every moneylending transaction entered into by the licensee during such period as may be prescribed;
+
+(b) a statement showing the licensee’s cash and loan position for such period as may be prescribed.
+
+[7/2018]
+
+(6) Every licensee must, when so required by the Registrar, account for or explain any item or particulars appearing in any statement submitted to the Registrar under subsection (5).
+
+(7) Any person who contravenes subsection (1), (2) or (4), or who fails to comply with the Registrar’s notice under subsection (3), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[7/2018]
+
+(8) Any person who —
+
+(a) fails to submit to the Registrar any statement under subsection (5); or
+
+(b) fails to comply with any requisition made by the Registrar under subsection (6), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+(9) Any licensee who knowingly or recklessly furnishes to the Registrar any information —
+
+(a) in a statement under subsection (5); or
+
+(b) in an account or explanation to the Registrar under subsection (6), which is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(10) Where a licensee submits a statement after the time for submission prescribed under subsection (5), the Registrar may impose a late submission fee not exceeding $100 for every day or part of a day that the submission is late, subject to a maximum of $2,000.
+
+(11) In this section —
+
+“recent loan”, in relation to a cash account book, loan account book or list of borrowers kept or caused to be kept by a licensee, means a loan granted by the licensee whether before, on or after 30 November 2018 —
+
+(a) that has not been fully repaid and the contract for the loan has not otherwise been terminated; or
+
+(b) where the loan has been fully repaid or the contract for the loan has otherwise been terminated, the full repayment or the termination of which (as the case may be) occurred within the period of 5 years before the date of the last entry in the cash account book, loan account book or list of borrowers, as the case may be.
+
+[24
+
+[7/2018]

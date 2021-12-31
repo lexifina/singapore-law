@@ -1,16 +1,28 @@
-# 15. Other offences under this Part
-Part: PART II LICENSING OF MONEYLENDERS
+# 15. Approval of change in business name
+Part: PART 2 LICENSING OF MONEYLENDERS
 
-(1) Any person who, in connection with an application for the issue or renewal of a licence or for the approval of any place of business for moneylending —
+(1) Every licensee must obtain the written approval of the Registrar before changing the licensee’s business name.
 
-(a) knowingly or recklessly furnishes any information or statement to the Registrar which is false or misleading in a material particular;
+[7/2018]
 
-(b) wilfully omits to state any matter without which the application is misleading in a material particular; or
+(2) An application for the Registrar’s approval mentioned in subsection (1) must be made in the form and manner specified by the Registrar.
 
-(c) produces to the Registrar any book, record or other document which he knows or has reason to believe contains information which is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 12 months or to both.
+[7/2018]
 
-(2) Any licensee who —
+(3) On an application by a licensee for the Registrar’s approval mentioned in subsection (1), the Registrar may —
 
-(a) contravenes any condition of his licence; or
+(a) grant the approval applied for; or
 
-(b) carries on the business of moneylending under any name other than his business name, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+(b) refuse to grant the approval applied for.
+
+[7/2018]
+
+(4) The Registrar must not refuse to grant an approval under subsection (3)(b) without giving the licensee concerned an opportunity to be heard.
+
+[7/2018]
+
+(5) Any licensee who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[11C
+
+[7/2018]

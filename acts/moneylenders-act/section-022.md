@@ -1,12 +1,18 @@
-# 22. Charges other than permitted fees unenforceable
-Part: PART III REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
+# 22. Proceeds of unlicensed moneylending 1
+Part: PART 2A FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
 
-(1) The Minister may prescribe the types or amounts of costs, charges and expenses that a licensee may impose in respect of every loan granted by the licensee, including the fees or charges for or on account of legal costs.
+(1) In this Part, property is proceeds of unlicensed moneylending if it is wholly or partly derived or realised, whether directly or indirectly, from a contravention of section 5(1).
 
-(2) Where, under any contract for a loan between a licensee and a borrower, the borrower is required to pay to the licensee any sum (not being a sum for or on account of stamp duties or fees payable by or under this Act or any other written law) on account of costs, charges or expenses other than or in excess of the permitted fees, such sum —
+(2) Property becomes proceeds of unlicensed moneylending if —
 
-(a) shall not be recoverable from the borrower or any surety;
+(a) it is wholly or partly derived or realised from a dealing with or disposal of proceeds of unlicensed moneylending; or
 
-(b) if so paid, shall be recoverable as a debt due to the borrower or surety, as the case may be; and
+(b) it is wholly or partly acquired using proceeds of unlicensed moneylending, including by virtue of a previous application of this subsection.
 
-(c) if not recovered, shall be set-off against the outstanding amount of the loan, and all sums of interest, late interest and permitted fees payable under the contract for the loan.
+(3) Property remains proceeds of unlicensed moneylending even if —
+
+(a) it is credited to an account; or
+
+(b) it is dealt with or disposed of.
+
+[15B

@@ -1,36 +1,30 @@
-# 35. Exemption on application
-Part: PART IV MISCELLANEOUS
+# 35. Charges other than permitted fees unenforceable
+Part: PART 3 REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
 
-(1) The Minister may, upon the application of any person and the payment of such fees as may be prescribed, issue a certificate to exempt, with or without conditions, any person from all or any of the provisions of this Act.
+(1) The Minister may prescribe the types or amounts of costs, charges and expenses that a licensee may impose in respect of every loan granted by the licensee, including the fees or charges for or on account of legal costs.
 
-(2) Every exemption under subsection (1) —
+(2) For the purposes of subsection (1), the Minister may prescribe different types or amounts of costs, charges and expenses that a licensee may impose —
 
-(a) may in the first instance be valid for a period of 3 years or less from the date of the granting thereof;
+(a) on different classes or descriptions of borrowers; and
 
-(b) may, upon payment of the prescribed fee, be extended thereafter, with or without additional conditions, for further periods not exceeding 3 years at a time; and
+(b) in relation to different classes or descriptions of loans.
 
-(c) need not be published in the Gazette.
+[7/2018]
 
-(3) Any person who desires to apply for or extend an exemption shall submit an application to the Registrar in such form and manner, and shall furnish the Registrar with such information, as the Registrar may require.
+(3) Where, under any contract for a loan between a licensee and a borrower, the borrower is required to pay to the licensee any sum (not being a sum for or on account of stamp duties or fees payable by or under this Act or any other written law) on account of costs, charges or expenses other than or in excess of the permitted fees, the sum —
 
-(4) Any person who has been granted an exemption under this section and desires to apply to the Minister to vary or revoke any of the existing conditions of his exemption shall —
+(a) is not recoverable from the borrower or any surety;
 
-(a) submit an application to the Registrar in such form and manner, and furnish the Registrar with such information, as the Registrar may require; and
+(b) if so paid, is recoverable as a debt due to the borrower or surety, as the case may be; and
 
-(b) pay such fee as may be prescribed for the making of the application.
+(c) if not recovered, is to be set off against the outstanding amount of the loan, and all sums of interest, late interest and permitted fees payable under the contract for the loan.
 
-(5) The Minister may prescribe different fees in respect of different classes or descriptions of persons for the purposes of this section.
+(4) A licensee shall be guilty of an offence if the licensee enters into a contract for a loan under which the borrower is required to pay any sum (not being a sum for or on account of stamp duties or fees payable by or under this Act or any other written law) on account of costs, charges or expenses other than or in excess of the permitted fees.
 
-(6) An application for the extension of an exemption shall be made not later than one month before the expiry of the exemption.
+[7/2018]
 
-(7) Any moneylender who makes an application for the extension of an exemption after the time limited under subsection (6) shall pay a late extension fee not exceeding $50 for every day or part thereof that the application for extension is late, subject to a maximum of $1,500.
+(5) A licensee who is guilty of an offence under subsection (4) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(8) The Minister may at any time revoke, whether wholly or in part, any exemption granted to a person under subsection (1) by giving the person a notice of revocation in writing.
+[22
 
-(9) Without prejudice to the generality of subsection (8), the Minister may at any time revoke, whether wholly or in part, any exemption —
-
-(a) for the contravention of any condition of the exemption or any provision of this Act; or
-
-(b) if he is satisfied that it is in the public interest to do so.
-
-(10) Any revocation, whether wholly or in part, of an exemption or a condition of exemption under this section, and any amendment of a condition of exemption under this section, shall not affect any moneylending transaction entered into before the date of the revocation or amendment, as the case may be.
+[7/2018]

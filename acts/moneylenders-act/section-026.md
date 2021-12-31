@@ -1,16 +1,8 @@
-# 26. General power to issue directions
-Part: PART III REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
+# 26. Exception
+Part: PART 2A FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
 
-(1) The Registrar may issue directions, either of a general or specific nature, to any licensee or exempt moneylender for or in respect of every purpose which the Registrar considers necessary for carrying out the provisions of this Act.
+(1) A person is not guilty of an offence under section 25 if the person credits a specified account with interest or other earnings due on the account.
 
-(2) Without prejudice to the generality of subsection (1), the Registrar may by such directions —
+(2) To avoid doubt, section 25 applies to any funds credited to the specified account in accordance with subsection (1).
 
-(a) require any licensee or exempt moneylender to display or exhibit such cautionary statements as the Registrar thinks fit in a conspicuous position at or in every place of business for moneylending;
-
-(b) require any licensee or exempt moneylender to provide cautionary statements in writing to borrowers; or
-
-(c) set out the manner in which any licensee or exempt moneylender shall conduct the business of moneylending.
-
-(3) Any licensee or exempt moneylender who fails or refuses to comply with any direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
-
-(4) For the avoidance of doubt, any written direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+[15F

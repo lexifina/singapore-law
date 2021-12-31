@@ -1,4 +1,14 @@
-# 30. Powers of police officer
-Part: PART III REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
+# 30. Prohibition of unsolicited loans
+Part: PART 3 REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
 
-Any police officer not below the rank of sergeant who is authorised in writing by the Registrar, or by a police officer not below the rank of Assistant Superintendent of Police, may at all times enter the premises of any licensee, or any person who is suspected of carrying on the business of moneylending, to inspect or seize any book, record or other document relating to any moneylending transaction without a warrant being issued by a Magistrate for that purpose.
+(1) A licensee must not —
+
+(a) grant a loan to any person;
+
+(b) grant approval to any person to obtain a loan from the licensee; or
+
+(c) send or deliver, directly or indirectly, any article or document to any person on an undertaking by the licensee that the article or document, when used or produced in a specified manner, enables a loan to be obtained from the licensee, without the person having first applied to the licensee in writing for the loan.
+
+(2) Any licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[17

@@ -1,14 +1,56 @@
-# 11. Forfeiture of security deposit
-Part: PART II LICENSING OF MONEYLENDERS
+# 11. Approval of places of business
+Part: PART 2 LICENSING OF MONEYLENDERS
 
-(1) The Registrar may, without prejudice to the exercise of any other power under this Act, forfeit the whole or such part of any security deposit placed with the Accountant-General under section 5(5)(c), 6(4)(c) or 10(3)(c) as the Registrar thinks fit if he is satisfied that there exists a ground for the revocation or suspension of the licence under section 9(1).
+(1) An applicant for the issue of a licence or a licensee who intends to carry on the business of moneylending at any new place or places of business must, before commencing the business of moneylending at the place or places, apply in writing to the Registrar to approve the place or places of business for moneylending.
 
-(2) The Registrar shall, before forfeiting the security deposit or such part thereof under subsection (1), give the licensee notice in writing of his intention to do so specifying a date, not less than 14 days after the date of the notice, upon which the forfeiture shall be made unless the licensee shows cause to the Registrar as to why the security deposit or such part thereof should not be forfeited.
+[8/2012]
 
-(3) Where, after the licensee has shown cause under subsection (2), the Registrar decides to forfeit the security deposit or any part thereof, he shall notify the licensee of his decision in writing and specify a date, not less than 14 days after the date of the notice, upon which the security deposit or such part thereof shall be forfeited.
+(2) The Registrar may approve any place of business for moneylending with or without conditions, or may refuse to grant an approval.
 
-(4) The licensee may, within 14 days after the date of the notice under subsection (3), appeal in writing against the forfeiture of his security deposit or such part thereof to the Minister whose decision shall be final.
+(3) The Registrar must not approve any place of business for moneylending —
 
-(5) If the licensee appeals to the Minister under subsection (4), the Registrar shall not forfeit the security deposit or such part thereof unless his decision to do so is confirmed by the Minister, or the appeal is for any reason dismissed by the Minister or is withdrawn.
+(a) unless the applicant is a licensee or the applicant’s application for a licence is approved;
 
-(6) Where the licensee lawfully continues to carry on the business of moneylending under this Act after his security deposit or any part thereof has been forfeited, he shall restore his security deposit to the full amount as required under this Act by placing with the Accountant-General an appropriate amount in such form and within such time as the Registrar may require.
+(b) where any information or statement furnished by the applicant that is material to its application for approval under this section is incomplete, false or misleading;
+
+(c) where the applicant, being a licensee, does not place with the Accountant-General as security for the proper conduct of the applicant’s business of moneylending in Singapore, in the form determined by the Registrar, a deposit of such amount as the Minister may prescribe, for each additional place of business; or
+
+(d) where the Registrar is not satisfied that the place of business is suitable for a business of moneylending, or the Registrar is of the view that it is not in the public interest for a business of moneylending to be conducted in such a place.
+
+[7/2018]
+
+(4) The Registrar may at any time, by written notice to the licensee, vary or revoke any of the existing conditions of the approval of a place of business for moneylending or impose new conditions.
+
+(5) The Registrar may revoke his or her approval under this section, or suspend his or her approval for any period that he or she considers appropriate, if the Registrar is satisfied that —
+
+(a) the licensee has contravened any condition of approval imposed under this section; or
+
+(b) there exists a ground on which the Registrar may refuse to approve the place of business for moneylending under subsection (3).
+
+(6) The Registrar must, before revoking or suspending his or her approval under subsection (5), give the licensee notice in writing of the Registrar’s intention to do so, specifying a date, at least 21 days after the date of the notice, upon which the revocation or suspension will take effect unless the licensee shows cause to the Registrar as to why the approval should not be revoked or suspended.
+
+(7) If, after the licensee has shown cause under subsection (6), the Registrar decides to proceed to revoke or suspend his or her approval, the Registrar must notify the licensee of the Registrar’s decision in writing and specify a date, at least 14 days after the date of the notice, upon which the revocation or suspension will take effect.
+
+(8) The licensee may, within 14 days after the date of the notice under subsection (7), appeal in writing against the revocation or suspension to the Minister whose decision is final.
+
+(9) If the licensee appeals to the Minister under subsection (8), the decision appealed against does not take effect unless it is confirmed by the Minister, or the appeal is for any reason dismissed by the Minister or is withdrawn.
+
+(10) Any decision of the Registrar to revoke or suspend his or her approval under this section does not affect any moneylending transaction entered into before the date the decision is made.
+
+(11) The approval of any place of business for moneylending —
+
+(a) is suspended for the duration of any suspension of the relevant licence; and
+
+(b) terminates as at the date of the expiry or revocation of the relevant licence.
+
+(12) Any licensee who —
+
+(a) carries on the business of moneylending at a place of business without the Registrar’s approval; or
+
+(b) carries on the business of moneylending at a place of business in respect of which the Registrar’s approval has been revoked or is suspended, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[8/2012]
+
+(13) Any licensee who contravenes any condition of approval imposed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[10

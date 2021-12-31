@@ -1,50 +1,40 @@
-# 10. Approval of places of business
-Part: PART II LICENSING OF MONEYLENDERS
+# 10. Revocation or suspension of licence
+Part: PART 2 LICENSING OF MONEYLENDERS
 
-(1) An applicant for the issue of a licence or a licensee who intends to commence the business of moneylending at any new place or places of business shall, before commencing the business of moneylending at such place or places, apply in writing to the Registrar to approve such place or places of business for moneylending.
+(1) The Registrar may revoke a licence, or suspend it for any period that he or she considers appropriate, if the Registrar is satisfied —
 
-(2) The Registrar may approve any place of business for moneylending with or without conditions, or he may refuse to grant his approval.
+(a) that the licensee —
 
-(3) The Registrar shall not approve any place of business for moneylending —
+(i) has ceased to carry on the business of moneylending, or is wound up or otherwise dissolved;
 
-(a) unless the applicant is a licensee or his application for a licence is approved;
+(ii) has not carried on the business of moneylending within 6 months, or such longer period as the Registrar may approve in writing, after the issue of the licence;
 
-(b) where any information or statement furnished by the applicant that is material to his application for approval under this section is incomplete, false or misleading;
+(iii) had, in connection with an application for the issue or renewal of the licence —
 
-(c) where the applicant, being a licensee, does not place with the Accountant-General as security for the proper conduct of his business of moneylending in Singapore, in such form as the Registrar may determine, a deposit of $20,000 for each additional place of business; or
+(A) knowingly or recklessly furnished any information or statement to the Registrar which was false or misleading in a material particular;
 
-(d) where the Registrar is not satisfied that the place of business is suitable for a business of moneylending, or the Registrar is of the view that it is not in the public interest for a business of moneylending to be conducted in such a place.
+(B) wilfully omitted to state any matter without which the application was misleading in a material particular; or
 
-(4) The Registrar may at any time, by notice in writing to the licensee, vary or revoke any of the existing conditions of his approval of a place of business for moneylending or impose new conditions.
+(C) produced to the Registrar any book, record or other document which the licensee knew or had reason to believe contained information which was false or misleading in a material particular;
 
-(5) Where the approval of the Registrar under this section is granted to a firm, the approval shall be deemed to be granted to every partner of the firm actively conducting the business of moneylending of that firm in Singapore.
+(iv) has contravened any condition of the licence;
 
-(6) The Registrar may revoke his approval under this section, or suspend his approval for such period as he considers appropriate, if he is satisfied —
+(v) is conducting or has conducted the licensee’s business of moneylending in an improper or unsatisfactory manner; or
 
-(a) that the licensee has contravened any condition of approval imposed under this section; or
+(vi) has carried on a business of moneylending at any place which the Registrar has not approved under section 11, or has contravened any condition of approval for a place of business imposed under that section; or
 
-(b) that there exists a ground on which the Registrar may refuse to approve the place of business for moneylending under subsection (3).
+(b) that there exists a ground on which the Registrar may refuse to issue or renew a licence under section 8, whether in relation to the licensee or the licensee’s principal.
 
-(7) The Registrar shall, before revoking or suspending his approval under subsection (6), give the licensee notice in writing of his intention to do so, specifying a date, not less than 21 days after the date of the notice, upon which the revocation or suspension shall take effect unless the licensee shows cause to the Registrar as to why the approval should not be revoked or suspended.
+[7/2018]
 
-(8) If, after the licensee has shown cause under subsection (7), the Registrar decides to proceed to revoke or suspend his approval, he shall notify the licensee of his decision in writing and specify a date, not less than 14 days after the date of the notice, upon which the revocation or suspension shall take effect.
+(2) The Registrar must, before revoking or suspending any licence under subsection (1), give the licensee notice in writing of the Registrar’s intention to do so, specifying a date, at least 21 days after the date of the notice, upon which the revocation or suspension will take effect unless the licensee shows cause to the Registrar as to why the licence should not be revoked or suspended.
 
-(9) The licensee may, within 14 days after the date of the notice under subsection (8), appeal in writing against the revocation or suspension to the Minister whose decision shall be final.
+(3) Where, after the licensee has shown cause under subsection (2), the Registrar decides to revoke or suspend a licence, the Registrar must notify the licensee of the Registrar’s decision in writing and specify a date, at least 14 days after the date of the notice, upon which the revocation or suspension will take effect.
 
-(10) If the licensee appeals to the Minister under subsection (9), the decision appealed against shall not take effect unless it is confirmed by the Minister, or the appeal is for any reason dismissed by the Minister or is withdrawn.
+(4) The licensee may, within 14 days after the date of the notice under subsection (3), appeal in writing against the revocation or suspension to the Minister whose decision is final.
 
-(11) Any decision of the Registrar to revoke or suspend his approval under this section shall not affect any moneylending transaction entered into before the date the decision is made.
+(5) If the licensee appeals to the Minister under subsection (4), the decision appealed against does not take effect unless it is confirmed by the Minister, or the appeal is for any reason dismissed by the Minister or is withdrawn.
 
-(12) The approval of any place of business for moneylending —
+(6) Any decision of the Registrar to revoke or suspend a licence made under this section does not affect any moneylending transaction entered into before the date the decision is made.
 
-(a) shall be suspended for the duration of any suspension of the relevant licence; and
-
-(b) shall terminate as at the date of the expiry or revocation of the relevant licence.
-
-(13) Any licensee who —
-
-(a) commences the business of moneylending at a place of business without the approval of the Registrar; or
-
-(b) continues to carry on the business of moneylending in a place of business in respect of which the approval of the Registrar has been revoked or is suspended, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
-
-(14) Any licensee who contravenes any condition of approval imposed under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+[9

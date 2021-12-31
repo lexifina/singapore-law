@@ -1,8 +1,14 @@
-# 27. False statements or representations to induce borrowing an offence
-Part: PART III REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
+# 27. Circumvention of section 25
+Part: PART 2A FREEZING OF PROCEEDS OF UNLICENSED MONEYLENDING
 
-If any moneylender, any director, partner, agent or employee of the moneylender, or any person who is responsible for the management of the business of moneylending of the moneylender —
+Where a person —
 
-(a) by any false, misleading or deceptive statement, representation or promise; or
+(a) enters into; or
 
-(b) by any dishonest concealment of material facts, fraudulently induces or attempts to induce any person to borrow money or to agree to the terms on which money is or is to be borrowed, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) knowingly does any act in furtherance of, any arrangement which facilitates, or is likely to facilitate, whether by means of any concealment or disguise or otherwise, the dealing with property in contravention of section 25(1), the person shall be guilty of an offence and shall be liable on conviction —
+
+(c) in the case where the person is a body corporate, to a fine not exceeding $300,000; or
+
+(d) in any other case, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[15G

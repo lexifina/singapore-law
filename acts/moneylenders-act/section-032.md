@@ -1,10 +1,18 @@
-# 32. Jurisdiction of court
-Part: PART IV MISCELLANEOUS
+# 32. Licensees to inform borrowers of terms of loan
+Part: PART 3 REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
 
-(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+(1) Every licensee must, before granting any loan to a borrower, inform the borrower in writing as to such matters relating to the terms and conditions of the loan as may be prescribed.
 
-[5/2010]
+(2) The licensee must cause the written information provided to the borrower under subsection (1) to be signed by the borrower or the borrower’s agent together with a written acknowledgment by the borrower or the borrower’s agent (as the case may be) that the borrower has been informed by the licensee of the terms and conditions of the loan.
 
-(2) Where any act constituting an offence, or part of an offence, under section 14 or 28 is committed outside Singapore by a person, he may be dealt with in respect of that offence as if the act had been committed within Singapore.
+(3) Where any loan has been granted in contravention of subsection (1) or (2), the licensee is not entitled to enforce —
 
-[5/2010]
+(a) the payment of all sums of interest, late interest and permitted fees payable under the contract for the loan, whether by the borrower or any surety; or
+
+(b) any guarantee or security given for the loan to recover any such sum.
+
+(4) For the purposes of subsection (3), if any amount of interest, late interest or permitted fees has been paid, it is recoverable as a debt due to the borrower or surety (as the case may be) and if not recovered, is to be set off against the outstanding amount of the loan.
+
+(5) Any licensee who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[19

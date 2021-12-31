@@ -1,64 +1,124 @@
-# 14. Unlicensed moneylending
-Part: PART II LICENSING OF MONEYLENDERS
+# 14. Approval, notification and submission of information relating to person taking part in management, etc.
+Part: PART 2 LICENSING OF MONEYLENDERS
 
-(1) Subject to subsection (1A), any person who contravenes, or who assists in the contravention of, section 5(1) shall be guilty of an offence and —
+(1) A licensee must not, without the written approval of the Registrar, permit any person to —
 
-(a) in the case where the person is a body corporate, shall on conviction be punished with a fine of not less than $50,000 and not more than $500,000; or
+(a) take part (whether directly or indirectly) in the management of the licensee’s business of moneylending;
 
-(b) in any other case —
+or
 
-(i) shall on conviction be punished with a fine of not less than $30,000 and not more than $300,000 and with imprisonment for a term not exceeding 4 years; and
+(b) become a director of the licensee.
 
-(ii) in the case of a second or subsequent offence, shall on conviction be punished with a fine of not less than $30,000 and not more than $300,000 and with imprisonment for a term not exceeding 7 years.
+[7/2018]
 
-[5/2010]
+(2) An application for the Registrar’s approval mentioned in subsection (1) must be made in the form and manner specified by the Registrar.
 
-(1A) Subject to section 231 of the Criminal Procedure Code (Cap. 68) —
+[7/2018]
 
-(a) a person who is convicted for the first time of an offence under subsection (1) shall also be liable to be punished with caning with not more than 6 strokes; or
+(3) On an application by a licensee for the Registrar’s approval mentioned in subsection (1), the Registrar may —
 
-(b) a person who is convicted of a second or subsequent offence under subsection (1) shall also be liable to be punished with caning with not more than 12 strokes.
+(a) grant the approval applied for; or
 
-[5/2010]
+(b) refuse to grant the approval applied for.
 
-(2) Where any contract for a loan has been granted by an unlicensed moneylender, or any guarantee or security has been given for such a loan —
+[7/2018]
 
-(a) the contract for the loan, and the guarantee or security, as the case may be, shall be unenforceable; and
+(4) The Registrar must refuse to grant an approval under subsection (3)(b) if the Registrar is not satisfied that the person in respect of whom the approval is applied for is of good character and is a fit and proper person.
 
-(b) any money paid by or on behalf of the unlicensed moneylender under the contract for the loan shall not be recoverable in any court of law.
+[7/2018]
 
-(3) Subsections (1) and (2) shall not apply to a moneylender who —
+(5) Without limiting subsection (4), the Registrar may refuse to grant an approval under subsection (3)(b) to any person who, whether before, on or after 30 November 2018 —
 
-(a) is not ordinarily resident in Singapore;
+(a) has been convicted of any offence involving dishonesty or moral turpitude;
 
-(b) is not a licensee; and
+(b) has been convicted of any offence under sections 50 to 57 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992, the Terrorism (Suppression of Financing) Act 2002 or any regulation made under the United Nations Act 2001;
 
-(c) carries on the business of moneylending in Singapore through an agent who is a licensee or an exempt moneylender.
+(c) is contravening or has contravened any provision of this Act or any corresponding previous written law;
 
-(3A) Without prejudice to the generality of subsection (1), a person assists in a contravention of subsection (1) if —
+(d) has been convicted of any offence under this Act or any corresponding previous written law; or
 
-(a) he collects or demands payment of a loan on behalf of a person whom he knows or has reasonable grounds to believe is carrying on a business in contravention of section 5(1);
+(e) has carried on any business of moneylending in Singapore or any foreign country or territory —
 
-(b) he receives, possesses, conceals or disposes of any funds or other property, or engages in a banking transaction relating to any funds, on behalf of any person knowing or having reasonable grounds to believe that —
+(i) for which the licence has been revoked or suspended under this Act or any corresponding previous written law; or
 
-(i) the person is carrying on a business in contravention of section 5(1); and
+(ii) the approval, authorisation, registration or licence of or for which has been withdrawn, cancelled or revoked by a regulatory authority in that foreign country or territory.
 
-(ii) either the funds are (or are intended to be) disbursed as a loan by that person, or the funds or property is repayment of a loan made by the person;
+[7/2018]
 
-(c) being the owner or person having management or control of any premises, he allows the premises to be used to carry on a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1);
+(6) The Registrar may cancel any approval granted under subsection (3)(a) in respect of a person if the Registrar —
 
-(d) he lends or provides funds, or lends, sells or provides any pre-paid subscriber identification module (SIM) card or other property to a person, knowing or having reasonable grounds to believe that the funds or property will be used for the carrying on of a business in contravention of section 5(1);
+(a) has reasonable grounds to believe that the approval has been obtained by fraud or misrepresentation;
 
-(e) he keeps the records and accounts of a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1); or
+(b) is no longer satisfied that the person is of good character; or
 
-(f) he promotes or advertises a business knowing or having reasonable grounds to believe that the carrying on of such business contravenes section 5(1).
+(c) is no longer satisfied that the person is a fit and proper person.
 
-[5/2010]
+[7/2018]
 
-(3B) In subsection (3A), ‘‘funds’’ and ‘‘property’’ have the meanings given to those words in section 15A.
+(7) The Registrar must not refuse to grant an approval under subsection (3)(b) or cancel any approval under subsection (6) without giving the licensee concerned an opportunity to be heard.
 
-[5/2010]
+[7/2018]
 
-(4) For the purposes of subsection (1), where the bank account or automated teller machine card of any person, or a telecommunication service subscribed in the name of or purchased by any person, is proved to the satisfaction of the court to have been used to facilitate the carrying on of the business of moneylending by an unlicensed moneylender, that person shall be presumed, until the contrary is proved, to have assisted in the contravention of section 5(1).
+(8) Where an approval granted under subsection (3)(a) is cancelled under subsection (6), the Registrar must notify the licensee concerned and the person in respect of whom the approval was granted of the cancellation and the date on which the approval is cancelled.
 
-(5) In this section, unless the context otherwise requires, ‘‘telecommunication service’’ has the same meaning as in the Telecommunications Act (Cap. 323).
+[7/2018]
+
+(9) Starting on the date after the date of cancellation of approval specified in the notice under subsection (8) —
+
+(a) the licensee must not permit the person in respect of whom the approval was cancelled —
+
+(i) to take part (whether directly or indirectly) in the management of the licensee’s business of moneylending; or
+
+(ii) to be a director of the licensee; and
+
+(b) the person in respect of whom the approval was cancelled must —
+
+(i) cease to take part (whether directly or indirectly) in the management of the licensee’s business of moneylending; or
+
+(ii) cease to be a director of the licensee.
+
+[7/2018]
+
+(10) Every licensee must submit to the Registrar, in the form and manner and at the time specified by the Registrar, the names and particulars of every person who, as at the date of the submission —
+
+(a) is taking part (whether directly or indirectly) in the management of the licensee’s business of moneylending;
+
+or
+
+(b) is a director of the licensee.
+
+[7/2018]
+
+(11) Where any person —
+
+(a) ceases to take part (whether directly or indirectly) in the management of a licensee’s business of moneylending; or
+
+(b) ceases to be a director of a licensee, the licensee must notify the Registrar in writing of the cessation not later than 7 days after becoming aware of the cessation.
+
+[7/2018]
+
+(12) Any person who, without reasonable excuse, contravenes subsection (1), (9), (10) or (11) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $20,000; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues after conviction.
+
+[7/2018]
+
+(13) Where —
+
+(a) a licensee has obtained the Registrar’s approval under section 12(1)(b) of this Act as in force immediately before 30 November 2018 for the admission of a person who will be responsible for the management of the licensee’s business of moneylending; and
+
+(b) the approval has not been cancelled, the licensee is treated as having been granted the Registrar’s approval under subsection (3)(a) to permit the person to take part (whether directly or indirectly) in the management of the licensee’s business of moneylending.
+
+[7/2018]
+
+(14) Where —
+
+(a) a licensee has obtained the Registrar’s approval under section 12(1)(c) of this Act as in force immediately before 30 November 2018 for a person to become a director or partner of the licensee; and
+
+(b) the approval has not been cancelled, the licensee is treated as having been granted the Registrar’s approval under subsection (3)(a) to permit the person to become a director or partner of the licensee.
+
+[11B
+
+[7/2018]

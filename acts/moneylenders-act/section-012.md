@@ -1,26 +1,16 @@
-# 12. Approval and notification of change of profile
-Part: PART II LICENSING OF MONEYLENDERS
+# 12. Forfeiture of security deposit
+Part: PART 2 LICENSING OF MONEYLENDERS
 
-(1) Every licensee shall obtain the approval of the Registrar —
+(1) The Registrar may, without affecting the exercise of any other power under this Act, forfeit the whole or such part of any security deposit placed with the Accountant-General under section 5(6)(c), 6(4)(c) or 11(3)(c) as the Registrar thinks fit if the Registrar is satisfied that there exists a ground for the revocation or suspension of the licence under section 10(1).
 
-(a) before changing his business name;
+(2) The Registrar must, before forfeiting the whole or part of the security deposit under subsection (1), give the licensee notice in writing of the Registrar’s intention to do so specifying a date, at least 14 days after the date of the notice, upon which the forfeiture will be made unless the licensee shows cause to the Registrar as to why the whole or part of the security deposit should not be forfeited.
 
-(b) before the admission of any person who will be responsible for the management of the licensee’s business of moneylending;
+(3) Where, after the licensee has shown cause under subsection (2), the Registrar decides to forfeit the security deposit or any part of it, the Registrar must notify the licensee of the Registrar’s decision in writing and specify a date, at least 14 days after the date of the notice, upon which the security deposit or that part of it will be forfeited.
 
-(c) before any person becomes a director or partner of the licensee; or
+(4) The licensee may, within 14 days after the date of the notice under subsection (3), appeal in writing against the forfeiture of the licensee’s security deposit or any part of it to the Minister whose decision is final.
 
-(d) as soon as practicable after —
+(5) If the licensee appeals to the Minister under subsection (4), the Registrar must not forfeit the security deposit or any part of it unless the Registrar’s decision to do so is confirmed by the Minister, or the appeal is for any reason dismissed by the Minister or is withdrawn.
 
-(i) any person becomes a substantial shareholder of the licensee; or
+(6) Where the licensee lawfully continues to carry on the business of moneylending under this Act after the licensee’s security deposit or any part of it has been forfeited, the licensee must restore the security deposit to the full amount as required under this Act by placing with the Accountant-General an appropriate amount in the form and within the time required by the Registrar.
 
-(ii) any substantial shareholder of the licensee increases or reduces his substantial shareholding in the licensee.
-
-(2) Every licensee shall notify the Registrar, in writing, when any person ceases to be a director, partner or substantial shareholder of the licensee, or ceases to be responsible for the management of the business of moneylending of the licensee, not later than 14 days after the cessation.
-
-(3) Every licensee shall notify the Registrar, in writing, of the making of a bankruptcy order against the licensee, or any director, partner or substantial shareholder of the licensee, not later than 14 days after the bankruptcy order is made.
-
-(4) No person shall become a substantial shareholder of a licensee without first obtaining the approval of the Registrar.
-
-(5) Where any person becomes a substantial shareholder of a licensee in contravention of subsection (4), that person shall take such steps as are necessary to cease to be a substantial shareholder of the licensee within such time as the Registrar may require.
-
-(6) Any person who, without reasonable excuse, contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+[11

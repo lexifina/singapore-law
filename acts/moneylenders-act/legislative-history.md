@@ -1,133 +1,19 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY MONEYLENDERS ACT 2008
 
-MONEYLENDERS ACT (CHAPTER 188)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Moneylenders Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Ordinance 58 of 1959 — Moneylenders Ordinance 1959
+LEGISLATIVE HISTORY DETAILS PART 1 MONEYLENDERS ORDINANCE (CHAPTER 193, 1955 REVISED EDITION) 1. Ordinance 6 of 1935 — Moneylenders Ordinance, 1935 Bill : G.N. No. 488/1934 First Reading : 16 April 1934 Second Reading : 28 May 1934 Select Committee Report : Council Paper No. 142 of 1934 Notice of Amendments : 18 February 1935 Third Reading : 18 February 1935 Commencement : 1 January 1936 Note: This Ordinance was amended by the Moneylenders (Amendment) Ordinance 1935 (Ordinance 57 of 1935) before it came into force.
 
-Date of First Reading : 13 August 1959 (Bill No. 19/59 published on 24 August 1959)
+2. 1936 Revised Edition — Moneylenders Ordinance (Chapter 218) Operation : 1 September 1936 3. Ordinance 31 of 1946 — Moneylenders (Amendment) Ordinance, 1946 Bill : G.N. No. S 130/1946 First, Second and Third : 13 September 1946 Readings Commencement : 25 September 1946 4. Ordinance 9 of 1950 — Moneylenders (Amendment) Ordinance, 1950 Bill : G.N. No. S 263/1949 First Reading : 21 June 1949 Second Reading : 28 July 1949 Select Committee Report : Council Paper No. 10 of 1950 Third Reading : 21 March 1950 Commencement : 28 March 1950 5. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 77 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 77 of the Schedule) 6. 1955 Revised Edition — Moneylenders Ordinance (Chapter 193) Operation : 1 July 1956
 
-Date of Second and Third Readings : 2 September 1959
+PART 2 MONEYLENDERS ACT (CHAPTER 188, 1985 REVISED EDITION) 7. Ordinance 58 of 1959 — Moneylenders Ordinance, 1959 Bill : 19/1959 First Reading : 13 August 1959 Second Reading : 2 September 1959 Notice of Amendments : 2 September 1959 Third Reading : 2 September 1959 Commencement : 11 September 1959 8. Ordinance 6 of 1960 — Moneylenders (Amendment) Ordinance, 1960 Bill : 48/1960 First Reading : 29 December 1959 Second and Third Readings : 13 January 1960 Commencement : 27 January 1960 9. Act 19 of 1967 — Moneylenders (Amendment) Act, 1967 Bill : 14/1967 First Reading : 29 June 1967 Second Reading : 7 September 1967 Notice of Amendments : 7 September 1967 Third Reading : 7 September 1967 Commencement : 1 December 1967 10. Act 13 of 1969 — Moneylenders (Amendment) Act, 1969 Bill : 21/1969 First Reading : 15 October 1969 Second and Third Readings : 22 December 1969 Commencement : 1 January 1970 11. Act 48 of 1970 — Statute Law Revision Act, 1970 (Amendments made by section 2 read with the First Schedule to the above Act) Bill : 36/1970 First Reading : 2 September 1970 Second Reading : 4 November 1970 Notice of Amendments : 4 November 1970 Third Reading : 4 November 1970 Commencement : 11 December 1970 (section 2 read with the First Schedule) 12. 1970 Revised Edition — Moneylenders Act (Chapter 220) Operation : 31 July 1971 13. Act 22 of 1975 — Moneylenders (Amendment) Act, 1975 Bill : 24/1975 First Reading : 24 March 1975 Second and Third Readings : 29 July 1975 Commencement : 1 October 1975 14. G.N. No. S 295/1975 — Metrication (Moneylenders Act) Order, 1975 Commencement : 24 October 1975 15. 1985 Revised Edition — Moneylenders Act (Chapter 188) Operation : 30 March 1987 16. Act 20 of 1993 — Moneylenders (Amendment) Act 1993 Bill : 16/1993 First Reading : 9 March 1993 Second and Third Readings : 28 May 1993 Commencement : 16 August 1993 17. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000 (Amendments made by section 8 of the above Act) Bill : 22/2000 First Reading : 25 August 2000 Second and Third Readings : 9 October 2000 Commencement : 1 November 2000 (section 8) 18. Act 42 of 2001 — Securities and Futures Act 2001 (Amendments made by section 343 read with item (11) of the Fourth Schedule to the above Act) Bill : 33/2001 First Reading : 25 September 2001 Second and Third Readings : 5 October 2001 Commencement : 1 October 2002 (section 343 read with item (11) of the Fourth Schedule) 19. Act 9 of 2003 — Statutes (Miscellaneous Amendments) Act 2003 (Amendments made by section 9 of the above Act) Bill : 7/2003 First Reading : 20 March 2003 Second and Third Readings : 24 April 2003 Commencement : 16 May 2003 (section 9) 20. Act 44 of 2005 — Moneylenders (Amendment) Act 2005 Bill : 28/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 21. Act 19 of 2006 — Moneylenders (Amendment) Act 2006 Bill : 12/2006 First Reading : 9 March 2006 Second and Third Readings : 3 April 2006 Commencement : 11 August 2006 22. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 4 read with item (9) of the Schedule to the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 4 read with item (9) of the Schedule)
 
-Date of commencement : 11 September 1959
+PART 3 MONEYLENDERS ACT 2008 (2020 REVISED EDITION) 23. Act 31 of 2008 — Moneylenders Act 2008 Bill : 33/2008 First Reading : 20 October 2008 Second Reading : 18 November 2008 Notice of Amendments : 18 November 2008 Third Reading : 18 November 2008 Commencement : 1 March 2009 (except section 5(3)(b)) 1 July 2010 (section 5(3)(b)) 24. Act 5 of 2010 — Moneylenders (Amendment) Act 2010 Bill : 23/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 11 February 2010 25. 2010 Revised Edition — Moneylenders Act (Chapter 188) Operation : 31 March 2010 26. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 65 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 65 of the Sixth Schedule) 27. Act 8 of 2012 — Moneylenders (Amendment) Act 2012 Bill : 4/2012 First Reading : 14 February 2012 Second and Third Readings : 9 March 2012 Commencement : 2 October 2012 28. Act 2 of 2015 — Pawnbrokers Act 2015 (Amendments made by section 86 read with item 4 of the Fourth Schedule to the above Act) Bill : 42/2014 First Reading : 4 November 2014 Second and Third Readings : 19 January 2015 Commencement : 1 April 2015 (section 86 read with item 4 of the Fourth Schedule) 29. Act 29 of 2014 — Business Names Registration Act 2014 (Amendments made by section 47 read with item 12 of the Schedule to the above Act) Bill : 26/2014 First Reading : 8 September 2014 Second and Third Readings : 8 October 2014 Commencement : 3 January 2016 (section 47 read with item 12 of the Schedule) 30. Act 4 of 2017 — Securities and Futures (Amendment) Act 2017 (Amendments made by section 208 of the above Act) Bill : 35/2016 First Reading : 7 November 2016 Second and Third Readings : 9 January 2017 Commencement : 8 October 2018 (section 208) 31. Act 7 of 2018 — Moneylenders (Amendment) Act 2018 Bill : 48/2017 First Reading : 6 November 2017 Second and Third Readings : 8 January 2018 Commencement : 30 November 2018 (sections 2, 3(1)(a) and (b), 4(1)(b), 5(b), 7(1), 8, 9(1), 10(1), 11 to 16, 19 and 20(1) to
 
-2. Ordinance 6 of 1960 — Moneylenders (Amendment) Ordinance 1960
+(5) and (7)) 29 March 2019 (sections 3(1)(c) and (2), 4(1)(a) and (2), 5(a), 6, 7(2), 9(2), 10(2) and (3), 17, 18(2) and 20(6)) 32. Act 12 of 2018 — Criminal Law (Temporary Provisions) (Amendment) Act 2018 (Amendments made by section 10(2) of the above Act) Bill : 5/2018 First Reading : 9 January 2018 Second and Third Readings : 6 February 2018 Commencement : 1 January 2019 (section 10(2)) 33. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 493 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 493) 34. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 103 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 103 of the Schedule) 35. Act 1 of 2020 — Banking (Amendment) Act 2020 (Amendments made by section 58 of the above Act) Bill : 35/2019 First Reading : 4 November 2019 Second and Third Readings : 6 January 2020 Commencement : 1 July 2021 (section 58)
 
-Date of First Reading : 29 December 1959 (Bill No. 48/59 published on 2 January 1960)
+Abbreviations
 
-Date of Second and Third Readings : 13 January 1960
-
-Date of commencement : 27 January 1960
-
-3. Act 19 of 1967 — Moneylenders (Amendment) Act 1967
-
-Date of First Reading : 29 June 1967 (Bill No. 14/67 published on 4 July 1967)
-
-Date of Second and Third Readings : 7 September 1967
-
-Date of commencement : 1 December 1967
-
-4. Act 13 of 1969 — Moneylenders (Amendment) Act 1969
-
-Date of First Reading : 15 October 1969 (Bill No. 21/69 published on 20 October 1969)
-
-Date of Second and Third Readings : 22 December 1969
-
-Date of commencement : 1 January 1970 5. Act 48 of 1970 — Statute Law Revision Act 1970
-
-Date of First Reading : 2 September 1970 (Bill No. 36/70 published on 7 September 1970)
-
-Date of Second and Third Readings : 4 November 1970
-
-Date of commencement : 11 December 1970
-
-6. 1970 Revised Edition — Moneylenders Act (Chapter 220)
-
-Date of operation : 31 July 1971
-
-7. Act 22 of 1975 — Moneylenders (Amendment) Act 1975
-
-Date of First Reading : 24 March 1975 (Bill No. 24/75 published on 27 March 1975)
-
-Date of Second and Third Readings : 29 July 1975
-
-Date of commencement : 1 October 1975
-
-8. 1985 Revised Edition — Moneylenders Act (Chapter 188)
-
-Date of operation : 30 March 1987
-
-9. Act 20 of 1993 — Moneylenders (Amendment) Act 1993
-
-Date of First Reading : 9 March 1993 (Bill No. 16/93 published on 10 March 1993)
-
-Date of Second and Third Readings : 28 May 1993
-
-Date of commencement : 16 August 1993
-
-10. Act 28 of 2000 — Statutes (Miscellaneous Amendments and Repeal) Act 2000
-
-Date of First Reading : 25 August 2000 (Bill No. 22/2000 published on 26 August 2000)
-
-Date of Second and Third Readings : 9 October 2000
-
-Date of commencement : 1 November 2000 (Section 8 — Amendment of Moneylenders Act) 11. Act 42 of 2001 — Securities and Futures Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 September 2001 (Bill No. 33/2001 published on 26 September 2001)
-
-Date of Second and Third Readings : 5 October 2001
-
-Date of commencement : 1 October 2002 (Item (11) of Fourth Schedule —
-
-Amendment of Moneylenders Act)
-
-12. Act 9 of 2003 — Statutes (Miscellaneous Amendments) Act 2003
-
-Date of First Reading : 20 March 2003 (Bill No. 7/2003 published on 21 March 2003)
-
-Date of Second and Third Readings : 24 April 2003
-
-Date of commencement : 16 May 2003 (Section 9 —
-
-Amendment of Moneylenders Act)
-
-13. Act 44 of 2005 — Moneylenders (Amendment) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 28/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006
-
-14. Act 19 of 2006 — Moneylenders (Amendment) Act 2006
-
-Date of First Reading : 9 March 2006 (Bill No. 12/2006 published on 10 March 2006)
-
-Date of Second and Third Readings : 3 April 2006
-
-Date of commencement : 11 August 2006 15. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 1 March 2007 (Item (9) of Schedule — Amendment of Moneylenders Act)
-
-16. Act 31 of 2008 — Moneylenders Act 2008
-
-Date of First Reading : 20 October 2008 (Bill No. 33/2008 published on 20 October 2008)
-
-Date of Second and Third Readings : 18 November 2008
-
-Date of commencement : 1 March 2009 (except section 5(3)(b))
-
-Note: The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylenders Act (Chapter 188, 1985 Revised Edition).
-
-17. Act 5 of 2010 — Moneylenders (Amendment) Act 2010
-
-Date of First Reading : 23 November 2009 (Bill No. 23/2009 published on 24 November 2009)
-
-Date of Second and Third Readings : 12 January 2010
-
-Date of commencement : 11 February 2010
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

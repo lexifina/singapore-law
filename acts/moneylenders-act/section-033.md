@@ -1,34 +1,38 @@
-# 33. Offences by bodies corporate, etc.
-Part: PART IV MISCELLANEOUS
+# 33. Note of moneylender’s contract to be given to borrower
+Part: PART 3 REGULATION OF BUSINESS OF MONEYLENDING, ENFORCEMENT AND PROCEEDINGS
 
-(1) Where an offence under this Act committed by a body corporate is proved —
+(1) No contract for a loan granted by a licensee, and no guarantee or security given by or on behalf of a borrower for the loan, is enforceable and no money paid by or on behalf of the licensee pursuant to the contract for the loan is recoverable in any court of law unless —
 
-(a) to have been committed with the consent or connivance of an officer; or
+(a) a note of the contract for the loan, in the prescribed form, is signed by the parties to the contract for the loan or their respective agents;
 
-(b) to be attributable to any neglect on his part, the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+(b) where any party to the contract for the loan (including a surety) or the party’s agent does not understand the English language, the licensee or the licensee’s agent explains the terms of the note of the contract for the loan in a language that the party or the party’s agent understands before any of them signs the note; and
 
-(2) Where the affairs of a body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+(c) a copy of the note of the contract for the loan, duly signed by the licensee or the licensee’s agent, is delivered to the borrower and the surety (if any) or their respective agents before or at the time the loan is paid to the borrower or any other person on the borrower’s direction.
 
-(3) Where an offence under this Act committed by a partnership is proved —
+(2) A licensee shall be guilty of an offence if the licensee —
 
-(a) to have been committed with the consent or connivance of a partner; or
+(a) knowingly or recklessly makes or causes to be made any note of a contract for a loan in which the principal, the rate of interest or late interest or any permitted fee payable, is not truly stated; or
 
-(b) to be attributable to any neglect on his part, the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+(b) makes or causes to be made any note of a contract for a loan in which the principal, the rate of interest or late interest or any permitted fee payable, is not stated.
 
-(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+[7/2018]
 
-(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+(3) A licensee who is guilty of an offence under subsection (2) shall be liable on conviction —
 
-(b) to be attributable to any neglect on the part of such officer or member, the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+(a) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both; or
 
-(5) In this section —
+(b) if the licensee is a repeat offender, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-‘‘officer’’ —
+[7/2018]
 
-(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+(4) In subsection (3), a licensee is a repeat offender if the licensee has been convicted on at least one other earlier occasion of —
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+(a) an offence under subsection (3) for contravening subsection (2); or
 
-‘‘partner’’ includes a person purporting to act as a partner.
+(b) an offence under section 20(2) of this Act as in force immediately before 30 November 2018, whether the conviction was before, on or after that date.
 
-(6) The Minister may make rules to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+[7/2018]
+
+(5) This section does not apply to any loan on revolving credit that may be drawn down and repaid by the borrower or the borrower’s agent at any time and from time to time subject to a limit approved by the licensee.
+
+[20

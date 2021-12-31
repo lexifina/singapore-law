@@ -1,21 +1,19 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-MONEYLENDERS ACT
-(CHAPTER 188)
-Act
-31 of 2008
-Amended by
-5 of 2010
-REVISED EDITION 2010
-(31st March 2010)
+MONEYLENDERS ACT 2008
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2010
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act for the regulation of moneylending and for matters connected therewith.
+An Act for the regulation of moneylending, the designation and control of a credit bureau, the collection, use and disclosure of borrower information and data, and for connected matters.
 
-[1st March 2009 except section 5(3)(b)]
+[7/2018]
+
+[1 March 2009: Except section 5(3)(b);
+
+1 July 2010: Section 5(3)(b)]
