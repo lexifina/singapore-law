@@ -1,6 +1,6 @@
 # 8. Saving
 
-(1) Nothing in this Act shall affect section 172 of the Merchant Shipping Act (Cap. 179) (which relates to the power of a receiver of wreck to detain a ship in respect of a salvage claim).
+(1) Nothing in this Act shall affect section 172 of the Merchant Shipping Act 1995 (which relates to the power of a receiver of wreck to detain a ship in respect of a salvage claim).
 
 (2) Nothing in this Act shall authorise proceedings in rem in respect of any claim against the Government, or the arrest, detention or sale of —
 

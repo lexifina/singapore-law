@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the High Court (Admiralty Jurisdiction) Act.
+This Act is the High Court (Admiralty Jurisdiction) Act 1961.
