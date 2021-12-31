@@ -1,7 +1,7 @@
 # 3. Establishment of National Arts Council
 Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
 
-There shall be established a body to be known as the National Arts Council which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
+A body called the National Arts Council is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of —
 
 (a) suing and being sued;
 

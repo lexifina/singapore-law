@@ -1,7 +1,7 @@
 # 5. Functions of Council
 Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
 
-The functions of the Council shall be —
+The functions of the Council are —
 
 (a) to promote excellence in the arts;
 

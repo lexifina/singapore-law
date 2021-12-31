@@ -1,8 +1,14 @@
-# 10. Chief executive of Council
+# 10. Chief Executive
 Part: PART 3 PROVISIONS RELATING TO STAFF
 
-(1) The Council shall, with the approval of the Minister, appoint a chief executive of the Council on such terms and conditions as the Council may determine.
+(1) There must be a Chief Executive of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The chief executive shall be known by such designation as the Council may determine and shall be responsible to the Council for the proper administration and management of the affairs of the Council in accordance with the policy laid down by the Council.
+[5/2018]
 
-(3) If the chief executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, a person may be appointed by the Council to act in the place of the chief executive during any such period of absence from duty.
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[5/2018]

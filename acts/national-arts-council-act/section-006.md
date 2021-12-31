@@ -3,7 +3,7 @@ Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
 
 (1) The Council may do all things that are necessary for or incidental to the purpose of discharging its functions under this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Council may, for the purpose referred to in that subsection —
+(2) Without limiting subsection (1), the Council may, for the purpose referred to in that subsection —
 
 (a) appoint advisory committees consisting of persons, local or foreign, who have made significant contributions to the arts, to advise the Council on matters relating to the arts;
 

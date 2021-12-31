@@ -1,8 +1,6 @@
-# 11. Appointment of staff
+# 11. Other officers and employees, etc.
 Part: PART 3 PROVISIONS RELATING TO STAFF
 
-The Council may —
+The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(a) appoint such number of employees on such terms as to remuneration or otherwise as the Council may determine and may terminate their service or exercise disciplinary control over them in accordance with their terms of service; and
-
-(b) engage and remunerate for their services such persons as the Council considers necessary for carrying out its functions and duties.
+[5/2018]
