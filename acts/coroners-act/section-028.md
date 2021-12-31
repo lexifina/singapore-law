@@ -1,5 +1,5 @@
 # 28. Pre-inquiry review
-Part: PART VI INQUIRIES INTO DEATH
+Part: PART 6 INQUIRIES INTO DEATH
 
 (1) A pre-inquiry review may be held by a Coroner before the commencement of an inquiry.
 
@@ -13,8 +13,8 @@ Part: PART VI INQUIRIES INTO DEATH
 
 (d) the filing of any conditioned statements to be admitted in evidence in the inquiry;
 
-(e) the date of the inquiry; and
+(e) the date of the inquiry;
 
 (f) any other application to be made for the inquiry.
 
-(3) A pre-inquiry review and any application made to the Coroner at the pre-inquiry review may be heard by live video link, or by such other means as the State Coroner may approve.
+(3) A pre-inquiry review and any application made to the Coroner at the pre-inquiry review may be heard by live video link, or by any other means that the State Coroner may approve.

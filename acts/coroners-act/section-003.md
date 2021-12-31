@@ -1,16 +1,22 @@
 # 3. Appointment of State Coroner and Coroners
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) The President may, on the recommendation of the Chief Justice, appoint a State Coroner and such other Coroners as are necessary for the proper administration of this Act.
 
-(2) No person shall be appointed a Coroner unless he is a judicial officer appointed under the Subordinate Courts Act (Cap. 321) and, in the case of the State Coroner, unless he is a District Judge appointed under that Act.
+(2) Only —
 
-(3) The State Coroner shall be charged with the general administration of this Act and the exercise of the functions and duties imposed upon him by this Act.
+(a) a judicial officer appointed under the State Courts Act 1970 may be appointed a Coroner; and
 
-(4) The State Coroner may authorise or appoint any person to assist him in the exercise of his functions and duties under this Act whether generally or in any particular case.
+(b) a District Judge appointed under that Act may be appointed the State Coroner.
 
-(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform his functions and duties for any period, the Chief District Judge appointed under the Subordinate Courts Act may appoint another Coroner to act as State Coroner for that period.
+[5/2014]
 
-(6) All appointments made under subsection (1) shall be published in the Gazette.
+(3) The State Coroner is charged with the general administration of this Act and the exercise of the functions and duties imposed upon the State Coroner by this Act.
 
-[SCA, s. 10; NPPA, s. 29]
+(4) The State Coroner may authorise or appoint any person to assist him or her in the exercise of his or her functions and duties under this Act whether generally or in any particular case.
+
+(5) Where the State Coroner is temporarily unable, whether by illness, absence or any other reason, to perform the State Coroner’s functions and duties for any period, the Presiding Judge of the State Courts appointed under the State Courts Act 1970 may appoint another Coroner to act as State Coroner for that period.
+
+[5/2014]
+
+(6) All appointments made under subsection (1) must be published in the Gazette.

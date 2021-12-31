@@ -2,7 +2,7 @@
 
 Sections 2(1) and 47(1)
 
-SERVICES PROVIDED BY HEALTH-CARE PRACTITIONER 1. Medical, dental or nursing services.
+SERVICES PROVIDED BY HEALTHCARE PRACTITIONER 1. Medical, dental or nursing services.
 
 2. Pharmacy services.
 
@@ -12,6 +12,4 @@ SERVICES PROVIDED BY HEALTH-CARE PRACTITIONER 1. Medical, dental or nursing serv
 
 5. Services provided by traditional Chinese medicine practitioners.
 
-6. Services provided by podiatrists, chiropractors, osteopaths, physiotherapists, acupuncturists, naturopaths and services in other alternative health-care fields.
-
-[NSW HCCA, s. 4]
+6. Services provided by podiatrists, chiropractors, osteopaths, physiotherapists, acupuncturists, naturopaths and services in other alternative healthcare fields.
