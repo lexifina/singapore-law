@@ -1,5 +1,7 @@
-# 16. Accounts and financial statements
+# 16. Application of Societies Act 1966 to Students’ Union
 
-(1) The Board shall cause proper accounting and other records to be kept of the financial transactions of the Polytechnic and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Polytechnic and over the expenditure incurred by the Polytechnic.
+(1) Despite anything to the contrary in the Societies Act 1966, the provisions of that Act apply to the Republic Polytechnic Students’ Union and its constituent bodies constituted by regulations made under the Constitution.
 
-(2) The Board shall, as soon as practicable after the close of each financial year, cause financial statements in respect of that year to be prepared and submitted to the auditor of the Polytechnic.
+(2) The Minister charged with the responsibility for societies may, by order in the Gazette, exempt the Republic Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act 1966 subject to any conditions specified in the order.
+
+[21

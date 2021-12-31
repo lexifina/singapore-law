@@ -1,6 +1,6 @@
 # 15. Power to borrow
 
-For the attainment of all or any of its objects under this Act, the Polytechnic may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+For the attainment of all or any of its objects under this Act, the Polytechnic may raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
 
 (a) mortgage, overdraft or otherwise;
 

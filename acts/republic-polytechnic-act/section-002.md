@@ -2,16 +2,18 @@
 
 In this Act, unless the context otherwise requires —
 
-‘‘Board’’ means the Board of Governors of the Polytechnic;
+“Board” means the Board of Governors of the Polytechnic;
 
-‘‘Chairman’’ means the Chairman of the Board;
+1
 
-‘‘Constitution’’ means the Constitution of the Polytechnic set out in the Schedule;
+“Constitution” means the Constitution of the Polytechnic set out in the Schedule;
 
-‘‘Deputy Principal’’ means a Deputy Principal of the Polytechnic appointed under section 9;
+“Deputy Principal” means a Deputy Principal of the Polytechnic appointed under section 9;
 
-‘‘Polytechnic’’ means the Republic Polytechnic established under section 3;
+“Polytechnic” means the Republic Polytechnic established under section 3;
 
-‘‘Principal’’ means the Principal of the Polytechnic appointed under section 9;
+“Principal” means the Principal of the Polytechnic, and includes any individual acting in that capacity;
 
-‘‘Senate’’ means the Senate of the Polytechnic.
+“Senate” means the Senate of the Polytechnic.
+
+[5/2018]

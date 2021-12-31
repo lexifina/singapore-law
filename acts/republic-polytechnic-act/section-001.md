@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Republic Polytechnic Act.
+This Act is the Republic Polytechnic Act 2002.

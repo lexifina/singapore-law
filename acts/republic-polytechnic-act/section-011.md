@@ -1,3 +1,3 @@
 # 11. Examinations
 
-All examinations held by the Polytechnic shall be conducted in such manner as may be prescribed by the Constitution and any regulations made thereunder.
+All examinations held by the Polytechnic must be conducted in the manner prescribed by the Constitution and any regulations made under the Constitution.

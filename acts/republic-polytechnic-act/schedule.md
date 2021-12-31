@@ -1,36 +1,40 @@
 # THE SCHEDULE
 
-Sections 2 and 10
+Sections 2 and 10(1)
 
 CONSTITUTION OF THE REPUBLIC POLYTECHNIC
 
-PART I
+PART 1
 
 PRELIMINARY
 
-Interpretation 1.—(1) In this Constitution, unless the context otherwise requires —
+Interpretation
 
-‘‘Act’’ means the Republic Polytechnic Act;
+1.—(1) In this Constitution, unless the context otherwise requires —
 
-‘‘Board’’ means the Board of Governors of the Polytechnic;
+“Act” means the Republic Polytechnic Act 2002;
 
-‘‘Chairman’’ means the Chairman of the Board;
+“Board” means the Board of Governors of the Polytechnic;
 
-‘‘Constitution’’ means the Constitution of the Polytechnic;
+“Chairperson” means the Chairperson of the Board;
 
-‘‘Deputy Principal’’ means a Deputy Principal of the Polytechnic;
+“Constitution” means the Constitution of the Polytechnic;
 
-‘‘Polytechnic’’ means the Republic Polytechnic;
+“Deputy Principal” means a Deputy Principal of the Polytechnic;
 
-‘‘Principal’’ means the Principal of the Polytechnic;
+“Polytechnic” means the Republic Polytechnic;
 
-‘‘registered student’’ means a student who is registered for a course or subject at the Polytechnic, leading to the award of a diploma, certificate or other academic distinction of the Polytechnic;
+“Principal” means the Principal of the Polytechnic;
 
-‘‘regulations’’ means regulations made under this Constitution;
+“registered student” means a student who is registered for a course or subject at the Polytechnic, leading to the award of a diploma, certificate or other academic distinction of the Polytechnic;
 
-‘‘School’’ means such Schools of the Polytechnic as may be constituted by the Board on the recommendation of the Senate;
+“regulations” means regulations made under this Constitution;
 
-‘‘Senate’’ means the Senate of the Polytechnic.
+THE SCHEDULE — continued
+
+“Schools” means such Schools of the Polytechnic as may be constituted by the Board on the recommendation of the Senate;
+
+“Senate” means the Senate of the Polytechnic.
 
 (2) In this Constitution —
 
@@ -40,73 +44,85 @@ Interpretation 1.—(1) In this Constitution, unless the context otherwise requi
 
 (c) a reference to a specified paragraph is a reference to that paragraph of the subsection in which the reference occurs.
 
-THE SCHEDULE — continued
-
-PART II
+PART 2
 
 OFFICERS OF POLYTECHNIC
 
-Appointment, powers and duties of Principal and Deputy Principal 2.—(1) There shall be a Principal who shall be appointed by the Board on such terms and conditions as the Board may determine.
+Appointment, powers and duties of Principal and Deputy Principal
 
-(2) The Principal shall be the chief executive and academic officer of the Polytechnic and shall be responsible to the Board —
+2.—(1) The Principal is appointed by the Board on such terms and conditions as the Board may determine.
 
-(a) for the proper administration and the academic management of the Polytechnic in accordance with the policies determined by the Board;
+(2) The appointment, removal, discipline and promotion of the Principal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(b) for the proper enforcement of regulations; and
+(3) The Principal is the chief executive and academic officer of the Polytechnic and is responsible to the Board for —
 
-(c) for the welfare and discipline of the staff and students of the Polytechnic.
+(a) the proper administration and the academic management of the Polytechnic in accordance with the policies determined by the Board;
 
-(3) For the purpose of giving effect to subsection (2), the Principal shall have such powers as are necessary or proper for that purpose.
+(b) the proper enforcement of regulations; and
 
-(4) The Principal shall be entitled to be present and speak at any meeting of any committee of the Polytechnic, but shall not be entitled to vote at the meeting unless he is a member thereof.
+(c) the welfare and discipline of the staff and students of the Polytechnic.
 
-(5) There shall be one or more Deputy Principals who shall be appointed by the Board on such terms and conditions as the Board may determine.
+(4) For the purpose of giving effect to subsection (3), the Principal has such powers as are necessary or proper for that purpose.
 
-(6) A Deputy Principal shall perform such duties as may be assigned to him by the Principal (or by the Board if the Principal is unable to so assign).
+(5) The Principal is entitled to be present and speak at any meeting of any committee of the Polytechnic, but is not entitled to vote at the meeting unless the Principal is a member of the committee.
 
-Secretary 3.—(1) There shall be a Secretary of the Board who shall be an officer of the Polytechnic and shall be appointed by the Board on such terms and conditions as the Board may determine.
+(6) There are to be one or more Deputy Principals who are appointed by the Board on such terms and conditions as the Board may determine.
 
-(2) The Secretary of the Board shall —
-
-(a) attend all meetings of the Board unless excused by the Chairman;
-
-(b) maintain proper records of the meetings; and
-
-(c) carry out such other duties as may be assigned to him by the Board.
-
-(3) In the absence of the Secretary of the Board, the Chairman may appoint a suitable person to act as secretary for a particular meeting.
-
-(4) The Secretary of the Board shall not, unless he is a member of the Board appointed to serve in that capacity, be entitled to vote on any question before the Board.
-
-Other officers 4. The Board may appoint such other officers as it may think necessary.
+(7) A Deputy Principal must perform such duties as may be assigned to him or her by the Principal (or by the Board if the Principal is unable to so assign).
 
 THE SCHEDULE — continued
 
-PART III
+Secretary
+
+3.—(1) The Secretary of the Board is an officer of the Polytechnic and is appointed by the Board on such terms and conditions as the Board may determine.
+
+(2) The Secretary of the Board must —
+
+(a) attend all meetings of the Board unless excused by the Chairperson;
+
+(b) maintain proper records of the meetings; and
+
+(c) carry out any other duties assigned to him or her by the Board.
+
+(3) In the absence of the Secretary of the Board, the Chairperson may appoint a suitable person to act as secretary for a particular meeting.
+
+(4) The Secretary of the Board is not, unless he or she is a member of the Board appointed to serve in that capacity, entitled to vote on any question before the Board.
+
+Other officers and employees, etc.
+
+4. The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+PART 3
 
 BOARD OF GOVERNORS AND SENATE
 
-Board of Governors 5.—(1) There shall be a Board of Governors which shall consist of the following members:
+Board of Governors
 
-(a) a Chairman;
+5.—(1) The Board of Governors consists of the following members:
 
-(b) a Deputy Chairman;
+(a) a Chairperson;
 
-(c) the Principal; and
+(b) a Deputy Chairperson;
+
+(c) the Principal;
 
 (d) such other persons, being not less than 9 and not more than 15, as may be determined by the Minister.
 
-(2) Every member of the Board, except the Principal, shall be appointed by the Minister and shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of his appointment and shall be eligible for reappointment.
+(2) Every member of the Board, except the Principal, is appointed by the Minister and, unless the Minister otherwise directs, holds office for a period of 3 years from the date of the appointment and is eligible for re-appointment.
 
-Powers of Board 6.—(1) The Board shall administer the affairs of the Polytechnic other than those vested by the Act or this Constitution in some other authority of the Polytechnic or in an officer.
+THE SCHEDULE — continued
 
-(2) Without prejudice to the generality of subsection (1), the Board shall, subject to the provisions of the Act and this Constitution, have power —
+Powers of Board
 
-(a) to administer and manage the finances, accounts, investments, property, business, and all affairs whatsoever of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;
+6.—(1) The Board must administer the affairs of the Polytechnic other than those vested by the Act or this Constitution in some other authority of the Polytechnic or in an officer.
 
-(b) to invest the moneys of the Polytechnic, including any unapplied income, in investments authorised by the general law for the investment of trust moneys, and to invest such moneys in the purchase of freehold or leasehold property, and to vary any investments by sale and reinvestment or otherwise;
+(2) Without limiting subsection (1), the Board, subject to the provisions of the Act and this Constitution, has power —
 
-(c) to purchase, grant, sell, convey, assign, surrender, and yield up, exchange, partition, mortgage, demise, reassign, transfer, and accept leases of real and personal property on behalf of the Polytechnic;
+(a) to administer and manage the finances, accounts, investments, property, business, and all affairs of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;
+
+(b) invest the moneys of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965;
+
+(c) to purchase, grant, sell, convey, assign, surrender, and yield up, exchange, partition, mortgage, demise, re-assign, transfer, and accept leases of real and personal property on behalf of the Polytechnic;
 
 (d) to provide the buildings, premises, furniture, apparatus and other means needed for the Polytechnic;
 
@@ -114,23 +130,23 @@ Powers of Board 6.—(1) The Board shall administer the affairs of the Polytechn
 
 (f) to enter into, vary, carry out and cancel contracts on behalf of the Polytechnic;
 
-THE SCHEDULE — continued
-
 (g) to publish books and other matters on behalf of the Polytechnic;
 
 (h) in consultation with the Senate, to review the instruction and teaching at the Polytechnic;
 
-(i) to co-operate with other polytechnics and authorities for the regulation and conduct of examinations, for the examination and inspection of schools and other academic institutions, for the extension of Polytechnic teaching and for other purposes;
+(i) to cooperate with other polytechnics and authorities for the regulation and conduct of examinations, for the examination and inspection of schools and other academic institutions, for the extension of Polytechnic teaching and for other purposes;
 
-(j) to propose to the Minister additions to, or the amendment or repeal of any of the provisions of this Constitution;
+(j) to propose to the Minister additions to, or the amendment or repeal of any of the provisions of, this Constitution;
 
 (k) to prescribe fees;
 
+THE SCHEDULE — continued
+
 (l) to appoint officers and other employees and to determine their duties and to fix their remuneration and the terms and conditions of their appointments;
 
-(m) to appoint committees within or without Singapore to select candidates for any office to which the Board may appoint;
+(m) to appoint committees within or outside Singapore to select candidates for any office to which the Board may appoint;
 
-(n) to delegate any of its powers to any member of the Board or to any committee thereof or to any officer or other employee of the Polytechnic; and
+(n) to delegate any of its powers to any member of the Board or to any committee of the Board or to any officer or other employee of the Polytechnic; and
 
 (o) to do all such other acts and things as may be required to give effect to the powers conferred on the Board by the Act or this Constitution.
 
@@ -148,39 +164,47 @@ THE SCHEDULE — continued
 
 (f) fees;
 
-(g) the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Board; and
+(g) the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Board;
 
 (h) generally all matters which by the Act or this Constitution the Board is empowered to regulate.
 
-(4) All such regulations shall come into operation on the day on which they are made unless otherwise provided by the Board.
+(4) All such regulations come into operation on the day on which they are made unless otherwise provided by the Board.
 
-Vacation of office of member of Board 7.—(1) The Minister may revoke the appointment of a member of the Board, except that of the Principal, if the member becomes in the opinion of the Minister unfit to continue in office or incapable of performing his duties.
+Vacation of office of member of Board
+
+7.—(1) The Minister may revoke the appointment of a member of the Board, except that of the Principal, if the member becomes in the opinion of the Minister unfit to continue in office or incapable of performing the member’s duties.
+
+(2) A member of the Board, except the Principal, may resign from his or her appointment by giving written notice to the Minister.
 
 THE SCHEDULE — continued
 
-(2) A member of the Board, except the Principal, may resign from his appointment by giving written notice to the Minister.
+Filling of vacancy in office of member of Board
 
-Filling of vacancy in office of member of Board 8. If the office of a member of the Board, other than that of the Principal, is vacant, the Minister may appoint any person to fill the vacancy and the person shall be appointed for the remainder of the term of his predecessor.
+8. If the office of a member of the Board, other than that of the Principal, is vacant, the Minister may appoint any person to fill the vacancy and the person must be appointed for the remainder of the term of the person’s predecessor.
 
-Meetings of Board 9.—(1) The Chairman shall summon meetings of the Board as often as may be required.
+Meetings of Board
 
-(2) The quorum at every meeting of the Board shall be 6 members.
+9.—(1) The Chairperson must summon meetings of the Board as often as may be required.
 
-(3) Every decision at a meeting of the Board shall be adopted by a simple majority of the votes of the members present and voting except that, in the case of an equality of votes, the Chairman or, in his absence, the Deputy Chairman shall have a casting vote.
+(2) The quorum at every meeting of the Board is 6 members.
 
-(4) The Chairman or, in his absence, the Deputy Chairman shall preside at a meeting of the Board.
+(3) Every decision at a meeting of the Board is to be adopted by a simple majority of the votes of the members present and voting except that, in the case of an equality of votes, the Chairperson or, in his or her absence, the Deputy Chairperson has a casting vote.
 
-(5) In the absence of the Chairman and the Deputy Chairman at a meeting of the Board, such member as the members present may elect shall preside at the meeting.
+(4) The Chairperson or, in his or her absence, the Deputy Chairperson presides at a meeting of the Board.
 
-(6) The Board may grant leave of absence from a meeting of the Board to a member thereof.
+(5) In the absence of the Chairperson and the Deputy Chairperson at a meeting of the Board, such member as the members present may elect presides at the meeting.
 
-(7) The Board shall not be precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.
+(6) The Board may grant leave of absence from a meeting of the Board to a member of the Board.
 
-(8) Subject to the provisions of this Constitution, the Board may make standing orders to regulate its own procedure.
+(7) The Board is not precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.
 
-Senate 10.—(1) There shall be a Senate which shall consist of —
+(8) Subject to the provisions of this Constitution and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure.
 
-(a) the Principal, who shall be the chairman of the Senate;
+Senate
+
+10.—(1) The Senate consists of —
+
+(a) the Principal, who is the chairperson of the Senate;
 
 (b) the heads of the Schools;
 
@@ -188,17 +212,19 @@ Senate 10.—(1) There shall be a Senate which shall consist of —
 
 (d) such number of academic staff as may be determined by the Board and as may be elected by all the full-time academic staff.
 
-(2) The Senate shall meet at least twice in each semester of every academic year and such other times as may be necessary.
-
-(3) The quorum at every meeting of the Senate shall be one quarter of the total number of members of the Senate.
+(2) The Senate must meet at least twice in each semester of every academic year and such other times as may be necessary.
 
 THE SCHEDULE — continued
 
-(4) The chairman of the Senate shall be empowered to require any officer or other employee of the Polytechnic to attend a meeting of the Senate.
+(3) The quorum at every meeting of the Senate is one quarter of the total number of members of the Senate.
 
-Powers of Senate 11. Subject to the provisions of the Act and this Constitution and to the availability of funds provided by the Board, the Senate shall have power —
+(4) The chairperson of the Senate may require any officer or other employee of the Polytechnic to attend a meeting of the Senate.
 
-(a) to provide courses of study for the diplomas, certificates and other awards by the Polytechnic and such other courses of study as may be thought desirable;
+Powers of Senate
+
+11. Subject to the provisions of the Act and this Constitution and to the availability of funds provided by the Board, the Senate has power —
+
+(a) to provide courses of study for the diplomas, certificates and other awards by the Polytechnic and any other courses of study as may be thought desirable;
 
 (b) to direct and regulate instruction and education in the Polytechnic;
 
@@ -206,7 +232,7 @@ Powers of Senate 11. Subject to the provisions of the Act and this Constitution 
 
 (d) to direct the manner in which examinations may be conducted;
 
-(e) to determine what examinations and courses of study in other polytechnics or places of learning shall be deemed equivalent to examinations and courses of study in the Polytechnic;
+(e) to determine what examinations and courses of study in other polytechnics or places of learning are deemed equivalent to examinations and courses of study in the Polytechnic;
 
 (f) to advise the Board on the provision of facilities for educational and other academic matters;
 
@@ -214,25 +240,27 @@ Powers of Senate 11. Subject to the provisions of the Act and this Constitution 
 
 (h) to organise the Schools;
 
-(i) to fix the time, mode and conditions of competition for, and to award fellowships, scholarships and other educational endowments and prizes in accordance with the terms thereof;
+(i) to fix the time, mode and conditions of competition for, and to award, fellowships, scholarships and other educational endowments and prizes in accordance with the terms thereof;
 
-(j) to require any student on academic grounds to terminate his studies at the Polytechnic;
+(j) to require any student on academic grounds to terminate his or her studies at the Polytechnic;
 
 (k) to provide access to educational activities and programmes for persons who are not registered students;
 
 (l) to advise the Board on any matter which may be referred to the Senate by the Board;
 
-(m) to delegate any of its powers to any member of the Senate or any committee thereof or to any officer of the Polytechnic; and
+(m) to delegate any of its powers to any member of the Senate or any committee of the Senate or to any officer of the Polytechnic; and
+
+THE SCHEDULE — continued
 
 (n) to do all such other acts and things as may be required to give effect to the powers conferred on the Senate by the Act and this Constitution.
 
-Regulations made by Senate 12.—(1) The Senate may by regulations provide for any of the following matters or purposes:
+Regulations made by Senate
+
+12.—(1) The Senate may by regulations provide for any of the following matters or purposes:
 
 (a) the admission and registration of students;
 
 (b) the conditions for the award of diplomas, certificates and other academic distinctions;
-
-THE SCHEDULE — continued
 
 (c) courses of study and examinations;
 
@@ -244,46 +272,62 @@ THE SCHEDULE — continued
 
 (g) the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Senate;
 
-(h) the prescribing of conditions under which persons may be exempted from the provisions of any regulations made by the Senate; and
+(h) the prescribing of conditions under which persons may be exempted from the provisions of any regulations made by the Senate;
 
 (i) generally all matters which by the Act or this Constitution the Senate is empowered to regulate.
 
-(2) All such regulations shall be reported to the Board and shall come into operation not earlier than one semester after the day on which they are made, unless otherwise approved by the Board.
+(2) All such regulations must be reported to the Board and come into operation not earlier than one semester after the day on which they are made, unless otherwise approved by the Board.
 
-PART IV
+PART 4
 
 EXAMINATIONS
 
-Examinations 13. Examinations for diplomas, certificates and other awards shall be conducted in accordance with regulations made by the Senate.
+Examinations
 
-PART V
-
-FINANCIAL PROVISIONS
-
-Financial year 14. The financial year of the Polytechnic shall begin on 1st April of each year and end on 31st March of the succeeding year.
-
-Preparation of estimates 15. It shall be the duty of such officers of the Polytechnic as may be directed by the Board to prepare for the consideration of the Board the estimates of income and expenditure of the Polytechnic for each financial year.
-
-Estimates 16.—(1) The estimates of income and expenditure shall be in such form as the Board may direct and shall be presented by the Principal to the Board and approved by the Board before the beginning of the financial year, except that the Principal may present, and the Board may approve, supplementary estimates at any time.
-
-(2) The annual and supplementary estimates shall be prepared in such form and shall contain such information as the Board may direct.
+13. Examinations for diplomas, certificates and other awards must be conducted in accordance with regulations made by the Senate.
 
 THE SCHEDULE — continued
 
-Power of Board to accept gifts 17.—(1) The Board may on behalf of the Polytechnic accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Polytechnic on such conditions as it may determine.
+PART 5
 
-(2) Records shall be kept of all donations to the Polytechnic including the names of donors and any special conditions on which any donation may have been given.
+FINANCIAL PROVISIONS
 
-Property, etc., donated for specific purposes to be separately accounted for 18. All property, moneys or funds donated for any specific purpose shall be applied and administered in accordance with the purpose for which they may have been donated and shall be separately accounted for.
+Financial year
 
-PART VI
+14. The financial year of the Polytechnic begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+Preparation of estimates
+
+15. It is the duty of such officers of the Polytechnic as may be directed by the Board to prepare for the consideration of the Board the estimates of income and expenditure of the Polytechnic for each financial year.
+
+Estimates
+
+16. The annual and supplementary estimates must be prepared in such form and must contain such information as the Board may direct.
+
+Power of Board to accept gifts
+
+17.—(1) The Board may on behalf of the Polytechnic accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Polytechnic on any conditions that it may determine.
+
+(2) Records must be kept of all donations to the Polytechnic including the names of donors and any special conditions on which any donation may have been given.
+
+Property, etc., donated for specific purposes to be separately accounted for
+
+18. All property, moneys or funds donated for any specific purpose must be applied and administered in accordance with the purpose for which they may have been donated and must be separately accounted for.
+
+PART 6
 
 STUDENT BODIES
 
-Republic Polytechnic Students’ Union 19.—(1) There shall be a students’ association to be known as the Republic Polytechnic Students’ Union which shall be constituted by regulations made by the Board and shall consist of such constituent bodies as may be prescribed by those regulations.
+Republic Polytechnic Students’ Union
 
-(2) The constitution, membership, functions and other matters relating to the Republic Polytechnic Students’ Union and each of its constituent bodies shall be so prescribed.
+19.—(1) There is a students’ association called the Republic Polytechnic Students’ Union which is constituted by regulations made by the Board and consists of such constituent bodies as may be prescribed by those regulations.
 
-(3) The Polytechnic may impose and collect from the students or any class thereof such fees as it may determine for the benefit of the Republic Polytechnic Students’ Union and its constituent bodies.
+(2) The constitution, membership, functions and other matters relating to the Republic Polytechnic Students’ Union and each of its constituent bodies must be so prescribed.
 
-(4) The fees collected under subsection (3) may be applied in such manner as the Polytechnic thinks fit for the purposes of the Republic Polytechnic Students’ Union and its constituent bodies.
+THE SCHEDULE — continued
+
+(3) The Polytechnic may impose and collect from the students or any class of students such fees as it may determine for the benefit of the Republic Polytechnic Students’ Union and its constituent bodies.
+
+(4) The fees collected under subsection (3) may be applied in any manner that the Polytechnic thinks fit for the purposes of the Republic Polytechnic Students’ Union and its constituent bodies.
+
+[45/2004; 5/2018]
