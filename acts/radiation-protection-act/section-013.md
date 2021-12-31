@@ -1,12 +1,20 @@
-# 13. Director-General may dispose of radioactive waste
-Part: PART VI DISPOSAL OF RADIOACTIVE WASTE
+# 13. Accumulation of radioactive waste
+Part: PART 6 DISPOSAL OF RADIOACTIVE WASTE
 
-(1) If there is radioactive waste on any premises and the Director-General is of the opinion that the radioactive waste is unlikely to be lawfully disposed of, the Director-General shall have the power —
+(1) Subject to subsection (2), a person must not, except with the prior written approval of the Director-General and in accordance with such conditions, limitations and exceptions as the Director-General may specify, accumulate any radioactive waste on any premises.
 
-(a) to dispose of that radioactive waste in such manner as the Director-General thinks fit; and
+(2) Where the disposal of any radioactive waste has been approved by the Director-General under section 12 and, in accordance with that approval, the radioactive waste is required or permitted to be accumulated with a view to its subsequent disposal, no further approval under subsection (1) is required to enable the radioactive waste to be accumulated in accordance with the approval granted under that section.
 
-(b) to recover from the occupier of the premises or, if the premises are unoccupied, from the owner thereof any expenses reasonably incurred by the Director-General in disposing the radioactive waste.
+(3) For the purposes of this section, where any radioactive material is produced, kept or used on any premises and any substance arising from the production, keeping or use of that radioactive material is —
 
-(2) Subject to section 33, the decision of the Director-General shall be final.
+(a) accumulated in any part of the premises appropriated for the purpose; and
 
-(3) For the exercise of the power referred to in subsection (1)(a), the Director-General or any other authorised officer may do anything that is necessary or expedient for carrying out the disposal of the radioactive waste, including entry to the premises and taking the radioactive waste for disposal.
+(b) retained there for a period of 3 or more months, that substance is, unless the contrary is proved, presumed —
+
+(c) to be radioactive waste; and
+
+(d) to be accumulated on the premises with a view to its subsequent disposal.
+
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[12

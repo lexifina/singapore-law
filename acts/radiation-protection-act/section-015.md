@@ -1,10 +1,8 @@
-# 15. Maintenance of records, etc.
-Part: PART VII INFORMATION AND DOCUMENTS
+# 15. Transport of radioactive waste
+Part: PART 6 DISPOSAL OF RADIOACTIVE WASTE
 
-(1) Every licensee, and every person who has been granted any approval by the Director-General under this Act, shall —
+(1) A person must not, except with the prior written approval of the Director-General and in accordance with such conditions, limitations and exceptions as the Director-General may specify, transport any radioactive waste.
 
-(a) keep and maintain such records in such form and manner, and containing such information, as may be prescribed; and
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(b) prepare and give to the Director-General such periodic reports and such special reports relating to the activity licensed or approved as may be prescribed or as the Director-General may, from time to time, direct.
-
-(2) Any person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
+[14

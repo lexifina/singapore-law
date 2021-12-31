@@ -1,4 +1,12 @@
-# 34. Protection of persons acting under Act
-Part: PART X MISCELLANEOUS
+# 34. Threats to commit offence under section 32 or 33
+Part: PART 8A OFFENCES RELATING TO NUCLEAR MATERIAL CONVENTION
 
-No suit or other legal proceedings shall lie personally against any authorised officer, any person acting under his direction and any other person for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+Any person who threatens to —
+
+(a) use nuclear material to cause substantial damage to the environment; or
+
+(b) commit an offence under section 33, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 10 years.
+
+[26DC
+
+[20/2014]

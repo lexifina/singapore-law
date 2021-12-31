@@ -1,6 +1,10 @@
-# 4. Advisory and technical committees
-Part: PART II ADMINISTRATION
+# 4. Administration of Act and appointment of authorised officers
+Part: PART 2 ADMINISTRATION
 
-(1) The Agency may, from time to time, appoint such advisory or technical committees as the Agency thinks necessary for the purpose of advising the Agency on any matter arising from the administration of this Act.
+(1) The Director-General is charged with the general administration of this Act and the exercise of the powers conferred and duties imposed upon the Director-General by this Act.
 
-(2) The composition of such committees and the terms of appointment of the members shall be determined by the Agency.
+(2) The Director-General may in writing appoint any public officer, or any officer of the Agency or any other statutory authority, to be an authorised officer for the purposes of this Act.
+
+(3) Subject to any general or special directions of the Minister or the Director-General, the powers conferred and duties imposed on the Director-General by this Act may be exercised or performed by any authorised officer.
+
+[3

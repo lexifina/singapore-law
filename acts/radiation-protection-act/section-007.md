@@ -1,20 +1,26 @@
-# 7. Application for licences, etc.
-Part: PART IV LICENCES
+# 7. Control of import, export, etc., of irradiating apparatus
+Part: PART 3 CONTROL OF IMPORT, EXPORT, ETC., OF RADIOACTIVE MATERIALS AND IRRADIATING APPARATUS
 
-(1) An application for the grant or renewal of a licence shall be made to the Director-General in such form and manner as the Director-General may require and shall be accompanied by the prescribed fee.
+(1) A person must not, except under and in accordance with a licence —
 
-(2) An applicant for a licence shall furnish such information and documents as the Director-General may in any case require.
+(a) import into, or export out of, Singapore any irradiating apparatus;
 
-(3) The Director-General may, in his discretion —
+(b) keep, have in the person’s possession or under the person’s control, or use any irradiating apparatus;
 
-(a) grant or renew a licence subject to such conditions, limitations and exceptions as may be specified by the Director-General;
+(c) manufacture, or otherwise produce, any irradiating apparatus; or
 
-(b) during the currency of a licence, revoke or vary any condition, limitation or exception attached to the licence, or attach new conditions, limitations or exceptions to the licence;
+(d) sell, deal with or otherwise deal in any irradiating apparatus.
 
-(c) refuse any application for the grant or renewal of a licence;
+(2) Every person who sells any irradiating apparatus must immediately give notice of the sale to the Director-General, together with the name, address and prescribed particulars of the person to whom it was sold, in such form and manner as may be prescribed.
 
-or
+(3) Every person who purchases any irradiating apparatus must immediately give notice of the purchase to the Director-General, together with the name, address and prescribed particulars of the person from whom it was purchased, in such form and manner as may be prescribed.
 
-(d) suspend a licence for such period as he may determine, or cancel a licence.
+(4) A person must not dispose of any irradiating apparatus, whether in a working condition or otherwise, without the prior written approval of the Director-General.
 
-(4) A licence shall, unless earlier cancelled or suspended, remain in force for such period as may be specified in the licence.
+(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[20/2014]
+
+(6) Any person who contravenes subsection (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[6

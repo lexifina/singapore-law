@@ -1,15 +1,15 @@
-# 25. Warrant for IAEA inspection
-Part: PART VIII INSPECTIONS
+# 25. Warrant for national inspection
+Part: PART 8 INSPECTIONS
 
-(1) The Director-General may apply for a warrant on behalf of an IAEA inspector or a national inspector where the consent of the person who owns, or who is in control of, any premises to enter the premises for the purposes referred to in section 20 cannot be obtained or where the person refuses to give such consent.
+(1) A national inspector may apply for a warrant if the consent of the person who owns, or who is in control of, any premises to enter the premises to exercise any inspection power for a compliance purpose cannot be obtained, or if the person refuses to give such consent.
 
 (2) Subject to subsection (3), a Magistrate who is satisfied that there are reasonable grounds for believing that —
 
-(a) entry to the premises is necessary for the purposes referred to in section 20; and
+(a) entry to the premises is necessary to exercise any inspection power for a compliance purpose; and
 
-(b) the consent of the person who owns, or who is in control of, the premises cannot be obtained or such consent is refused, may, unconditionally or subject to conditions, issue a warrant authorising the entry of the premises, at such time as may be specified in the warrant and within 14 days of the issue of such warrant (or within such longer period as may be specified in the warrant), by the IAEA inspector or national inspector for the purposes referred to in section 20.
+(b) the consent of the person who owns, or who is in control of, the premises cannot be obtained or such consent is refused, may, unconditionally or subject to conditions, issue a warrant authorising the national inspector to enter the premises for the purpose of exercising any inspection power for a compliance purpose, at such time as may be specified in the warrant and within 14 days of the issue of such warrant or within such longer period as may be specified in the warrant.
 
-(3) The Director-General shall —
+(3) The national inspector must —
 
 (a) before applying for a warrant, make reasonable inquiries as to whether any other application for such a warrant has been made in respect of the premises concerned and, if so, the following matters:
 
@@ -18,3 +18,5 @@ Part: PART VIII INSPECTIONS
 (ii) the results of each application; and
 
 (b) disclose on the application for the warrant the results of the inquiries.
+
+[24

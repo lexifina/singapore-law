@@ -1,8 +1,20 @@
-# 31. False or misleading statements and documents
-Part: PART IX ENFORCEMENT
+# 31. Threat to commit certain offences
+Part: PART 8A OFFENCES RELATING TO NUCLEAR MATERIAL CONVENTION
 
-Where any person who for the purpose of obtaining, whether for himself or any other person, the grant of any licence or approval under this Act, or for any other purpose in relation to this Act —
+(1) Any person who threatens to use nuclear material to cause —
 
-(a) in any document prepared pursuant to this Act, makes any declaration or statement or omits any matter knowing that, or being reckless as to whether, the declaration, statement or omission makes the document false or misleading in a material particular; or
+(a) death or serious injury to any person; or
 
-(b) otherwise produces or makes use of any document which is to his knowledge false or misleading in any material particular, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+(b) substantial damage to property, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 10 years.
+
+[20/2014]
+
+(2) Any person who threatens to commit, in relation to nuclear material —
+
+(a) theft within the meaning of section 378 of the Penal Code 1871; or
+
+(b) robbery within the meaning of section 390 of the Penal Code 1871, in order to compel a person, an international organisation, the Government or the government of a country to do or refrain from doing any act, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 10 years.
+
+[26D
+
+[20/2014]

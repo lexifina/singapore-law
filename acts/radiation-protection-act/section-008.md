@@ -1,8 +1,22 @@
-# 8. Register of licences
-Part: PART IV LICENCES
+# 8. Application for licences, etc.
+Part: PART 4 LICENCES
 
-(1) The Director-General shall keep or cause to be kept such registers of licences as may be prescribed.
+(1) An application for the grant or renewal of a licence must be made to the Director-General in such form and manner as the Director-General may require and must be accompanied by the prescribed fee.
 
-(2) The contents of every such register may be evidenced in any proceedings by a certificate under the hand of the Director-General, and every such certificate shall be prima facie evidence of the matters stated therein.
+(2) An applicant for a licence must provide such information and documents as the Director-General may in any case require.
 
-(3) A certificate under the hand of the Director-General stating that on a date specified in the certificate any person named therein did or did not appear in any register as the holder of a licence or any specified class of licence shall, until the contrary is proved, be sufficient evidence of the matters specified therein.
+(3) The Director-General may —
+
+(a) grant or renew a licence subject to such conditions, limitations and exceptions as the Director-General may specify;
+
+(b) during the currency of a licence, revoke or vary any condition, limitation or exception attached to the licence, or attach new conditions, limitations or exceptions to the licence;
+
+(c) refuse any application for the grant or renewal of a licence;
+
+or
+
+(d) suspend a licence for such period as he or she may determine, or cancel a licence.
+
+(4) A licence, unless earlier cancelled or suspended, remains in force for such period as may be specified in the licence.
+
+[7

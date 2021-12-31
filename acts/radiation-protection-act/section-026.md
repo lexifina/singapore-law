@@ -1,26 +1,22 @@
-# 26. Obligations of persons carrying out inspections
-Part: PART VIII INSPECTIONS
+# 26. Warrant for IAEA inspection
+Part: PART 8 INSPECTIONS
 
-(1) Every national inspector shall —
+(1) The Director-General may apply for a warrant on behalf of an IAEA inspector or a national inspector if the consent of the person who owns, or who is in control of, any premises to enter the premises for the purposes mentioned in section 21 cannot be obtained, or if the person refuses to give such consent.
 
-(a) carry his identification certificate issued by the Director- General under section 23; and
+(2) Subject to subsection (3), a Magistrate who is satisfied that there are reasonable grounds for believing that —
 
-(b) produce his identification certificate to any person appearing to own, or be in control of, the premises entered —
+(a) entry to the premises is necessary for the purposes mentioned in section 21; and
 
-(i) on entering the premises (if such a person is then present); or
+(b) the consent of the person who owns, or who is in control of, the premises cannot be obtained or such consent is refused, may, unconditionally or subject to conditions, issue a warrant authorising the IAEA inspector or the national inspector to enter the premises for the purposes mentioned in section 21, at such time as may be specified in the warrant and within 14 days of the issue of such warrant or within such longer period as may be specified in the warrant.
 
-(ii) at any reasonable time thereafter, if asked to do so by the person.
+(3) The Director-General must —
 
-(2) Every national inspector shall —
+(a) before applying for a warrant, make reasonable inquiries as to whether any other application for such a warrant has been made in respect of the premises concerned and, if so, the following matters:
 
-(a) if, at any time between the time of entry of any premises to be inspected and the time the inspection is completed, there is no person appearing to own, or be in control of, the premises, as soon as is practicable after completing the inspection give the owner, occupier or person in control of the premises a written notice stating that the premises have been entered, and specifying the following matters:
+(i) the offence or offences (if any) alleged in respect of each application; and
 
-(i) the time and date of entry;
+(ii) the results of each application; and
 
-(ii) the circumstances and purpose of entry; and
+(b) disclose on the application for the warrant the results of the inquiries.
 
-(iii) the name of every person entering;
-
-(b) where applicable, have a warrant with him and produce it if required to do so; and
-
-(c) where any matter, thing or document is taken, give the owner, occupier or person in control of the premises a written inventory thereof.
+[25

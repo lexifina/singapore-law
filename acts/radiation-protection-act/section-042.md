@@ -1,8 +1,6 @@
-# 42. Amendment of Schedule
-Part: PART X MISCELLANEOUS
+# 42. Use of force
+Part: PART 9 ENFORCEMENT
 
-(1) The Minister may from time to time, by order published in the Gazette, amend, add to or vary the Schedule.
+If force is required to enter and inspect any premises specified in a warrant issued under section 25, 26 or 41 (whether by breaking down a door or otherwise), or in breaking open anything in the premises, the person executing the warrant may use such force as is reasonable in the circumstances.
 
-(2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
-
-(3) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in the Gazette.
+[29

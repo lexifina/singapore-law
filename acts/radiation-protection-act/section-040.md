@@ -1,12 +1,18 @@
-# 40. Composition of offences
-Part: PART X MISCELLANEOUS
+# 40. Power of arrest
+Part: PART 9 ENFORCEMENT
 
-(1) The Director-General may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+(1) An authorised officer may —
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(a) arrest without warrant any person whom he or she has reason to believe to be committing or to have committed an offence under section 6, 7, 12 or 15; and
 
-(b) $15,000, whichever is the lower.
+(b) search the person arrested and seize anything which he or she reasonably considers to be evidence of the commission of the offence.
 
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+(2) A woman or girl must not be searched except by a woman.
 
-(3) The Agency may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+(3) Where the authorised officer makes an arrest without warrant, he or she must, without unnecessary delay, bring the person arrested before a Magistrate.
+
+(4) The authorised officer must not detain in custody a person arrested without a warrant for a longer period than is reasonable under the circumstances of the case.
+
+(5) The period that a person arrested without a warrant may be detained in custody must not exceed 48 hours, excluding the time for any necessary journey to the Magistrate’s Court.
+
+[27

@@ -1,12 +1,44 @@
-# 19. National inspectors and inspection
-Part: PART VIII INSPECTIONS
+# 19. Interpretation of this Part
+Part: PART 8 INSPECTIONS
 
-(1) All authorised officers shall be national inspectors for the purposes of this Act.
+(1) A reference in this Part to a compliance purpose is a reference to the purpose of —
 
-(2) The Director-General may, from time to time, appoint in writing any other person to be a national inspector.
+(a) determining whether the provisions of this Act have been or are being complied with;
 
-(3) A national inspector may —
+(b) determining whether the conditions and limitations applicable to a licence have been or are being complied with by the licensee; or
 
-(a) with the consent of the person who owns, or who is in control of, any premises; or
+(c) ensuring the proper functioning at any premises of any device, apparatus or equipment installed in the course of an inspection.
 
-(b) under a warrant issued under section 24 or 25 in respect of any premises, enter the premises and exercise, on or in the premises, any inspection power for a compliance purpose.
+(2) A reference in this Part to an inspection power is a reference to a power to —
+
+(a) search or examine any premises;
+
+(b) inspect or examine any matter or thing (including examining and calibrating any irradiating apparatus, instrument or measuring and control equipment);
+
+(c) take samples of any matter or thing for the purpose of examination or testing;
+
+(d) measure any quantity of nuclear material;
+
+(e) examine, take extracts from, or make copies of, any document (including any record kept in accordance with the requirements of this Act or the conditions of a licence);
+
+(f) interview any person on the premises (including making recordings of such interviews);
+
+(g) operate any equipment (including electronic equipment) located at the premises if the person exercising the power believes, on reasonable grounds, that the equipment can be operated without damaging it;
+
+(h) operate any photographic or video-recording equipment anywhere in or around the premises;
+
+(i) operate any radiation detection or measurement device;
+
+(j) apply any surveillance or containment measures; or
+
+(k) do anything that is prescribed or that is necessary or expedient for the carrying out of any of the acts mentioned in paragraphs (a) to (j), including —
+
+(i) restricting or prohibiting the access of persons and vehicles to or from the premises; and
+
+(ii) applying labels, seals or other identifying and tamper-indicating devices.
+
+(3) A power under subsection (2)(a), (b), (c), (d), (g), (h), (i), (j) or
+
+(k) may only be exercised in a manner that the person authorised to exercise it believes, on reasonable grounds, to be in accordance with safety procedures applicable at the premises.
+
+[18

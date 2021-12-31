@@ -1,8 +1,12 @@
-# 3. Administration of Act and appointment of authorised officers
-Part: PART II ADMINISTRATION
+# 3. Application of Act to Government
+Part: PART 1 PRELIMINARY
 
-(1) The Director-General shall be charged with the general administration of this Act and the exercise of the powers conferred and duties imposed upon him by this Act.
+(1) Except as provided in subsection (2), Parts 3 to 8 and 10 and regulations made for the purposes of these Parts bind and apply to the Government.
 
-(2) The Director-General may in writing appoint any public officer, or any officer of the Agency or any other statutory authority, to be an authorised officer for the purposes of this Act.
+[20/2014]
 
-(3) Subject to any general or special directions of the Minister or the Director-General, the powers conferred and duties imposed on the Director-General by this Act may be exercised or performed by any authorised officer.
+(2) Nothing in this Act renders the Government liable to prosecution for an offence.
+
+[2A
+
+[20/2014]

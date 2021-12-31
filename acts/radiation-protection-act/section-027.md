@@ -1,16 +1,28 @@
-# 27. Power of arrest
-Part: PART IX ENFORCEMENT
+# 27. Obligations of persons carrying out inspections
+Part: PART 8 INSPECTIONS
 
-(1) An authorised officer may —
+(1) Every national inspector must —
 
-(a) arrest without warrant any person whom he has reason to believe to be committing or to have committed an offence under section 5, 6, 11 or 14; and
+(a) carry his or her identification certificate issued by the Director-General under section 24; and
 
-(b) search the person arrested and seize anything which he reasonably considers to be evidence of the commission of the offence.
+(b) produce his or her identification certificate to any person appearing to own, or be in control of, the premises entered —
 
-(2) No woman or girl shall be searched except by a woman.
+(i) on entering the premises (if such a person is then present); or
 
-(3) Where the authorised officer makes an arrest without warrant, he shall, without unnecessary delay, produce the person arrested before a Magistrate.
+(ii) at any reasonable time after entering the premises, if asked to do so by the person.
 
-(4) The authorised officer shall not detain in custody a person arrested without a warrant for a longer period than is reasonable under the circumstances of the case.
+(2) Every national inspector must —
 
-(5) The period that a person arrested without a warrant may be detained in custody shall not exceed 48 hours, excluding the time for any necessary journey to the Magistrate’s Court.
+(a) if, at any time between the time of entry of any premises to be inspected and the time the inspection is completed, there is no person appearing to own, or be in control of, the premises, as soon as is practicable after completing the inspection give the owner, occupier or person in control of the premises a written notice stating that the premises have been entered, and specifying the following matters:
+
+(i) the time and date of entry;
+
+(ii) the circumstances and purpose of entry; and
+
+(iii) the name of every person entering;
+
+(b) where applicable, have a warrant with him or her and produce it if required to do so; and
+
+(c) where any matter, thing or document is taken, give the owner, occupier or person in control of the premises a written inventory thereof.
+
+[26

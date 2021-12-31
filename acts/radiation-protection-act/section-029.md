@@ -1,4 +1,12 @@
-# 29. Use of force
-Part: PART IX ENFORCEMENT
+# 29. Use, etc., of nuclear material
+Part: PART 8A OFFENCES RELATING TO NUCLEAR MATERIAL CONVENTION
 
-If force is required to enter and inspect any premises specified in a warrant issued under section 24, 25 or 28 (whether by breaking down a door or otherwise), or in breaking open anything in the premises, the person executing the warrant may use such force as is reasonable in the circumstances.
+Any person who, without lawful authority, receives, possesses, uses, transfers, alters, disposes of, or disperses nuclear material, where the act causes or is likely to cause —
+
+(a) death or serious injury to any person; or
+
+(b) substantial damage to property, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to life imprisonment.
+
+[26B
+
+[20/2014]

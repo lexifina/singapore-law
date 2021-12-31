@@ -1,40 +1,24 @@
-# 18. Interpretation of this Part
-Part: PART VIII INSPECTIONS
+# 18. Confidentiality
+Part: PART 7 INFORMATION AND DOCUMENTS
 
-(1) A reference in this section and in sections 19 and 24 to a compliance purpose is a reference to the purpose of —
+(1) Except as provided in subsection (2), every person exercising any function under this Act must keep confidential any information that is obtained pursuant to this Act concerning the affairs of another person, including but not limited to information with regard to any manufacturing process or trade secret.
 
-(a) determining whether the provisions of this Act have been or are being complied with;
+(2) The information in subsection (1) may be disclosed —
 
-(b) determining whether the conditions and limitations applicable to a licence have been or are being complied with by the licensee; or
+(a) with the consent of the person to whose affairs it relates;
 
-(c) ensuring the proper functioning at any premises of any device, apparatus or equipment installed in the course of an inspection.
+(b) in connection with anything done for the purposes of this Act, the Safeguards Agreement or the Nuclear Material Convention;
 
-(2) A reference in sections 19, 21 and 24 to an inspection power is a reference to a power to —
+(c) in connection with the investigation of a criminal offence or for the purposes of criminal proceedings;
 
-(a) search or examine any premises;
+(d) in compliance with the requirement of any court, tribunal, authority or person having lawful authority to require the production of documents or the answering of questions;
 
-(b) inspect or examine any matter or thing (including examining and calibrating any irradiating apparatus, instrument or measuring and control equipment);
+(e) for the purpose of dealing with an emergency involving public safety or ensuring the security of Singapore; or
 
-(c) take samples of any matter or thing for the purpose of examination or testing;
+(f) if the information is already in the public domain.
 
-(d) measure any quantity of nuclear material;
+[20/2014]
 
-(e) examine, take extracts from, or make copies of, any document (including any record kept in accordance with the requirements of this Act or the conditions of a licence);
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(f) interview any person on the premises (including making recordings of such interviews);
-
-(g) operate any equipment (including electronic equipment) located at the premises if the person exercising the power believes, on reasonable grounds, that the equipment can be operated without damaging it;
-
-(h) operate any photographic or video-recording equipment anywhere in or around the premises;
-
-(i) operate any radiation detection or measurement device;
-
-(j) apply any surveillance or containment measures; or
-
-(k) do anything that is prescribed or that is necessary or expedient for the carrying out of any of the acts referred to in paragraphs (a) to (j), including —
-
-(i) restricting or prohibiting the access of persons and vehicles to or from the premises; and
-
-(ii) applying labels, seals or other identifying and tamper- indicating devices.
-
-(3) A power referred to in subsection (2)(a), (b), (c), (d), (g), (h), (i), (j) or (k) may only be exercised in a manner that the person authorised to exercise it believes, on reasonable grounds, to be in accordance with safety procedures applicable at the premises.
+[17

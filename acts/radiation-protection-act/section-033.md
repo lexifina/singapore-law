@@ -1,18 +1,26 @@
-# 33. Appeals
-Part: PART X MISCELLANEOUS
+# 33. Acts against nuclear facilities
+Part: PART 8A OFFENCES RELATING TO NUCLEAR MATERIAL CONVENTION
 
-(1) Any person who is dissatisfied with any decision of the Director-General under section 7, 13 or 14 may appeal to the Minister in writing within 30 days of the communication to him of the decision of the Director-General.
+(1) Any person who —
 
-(2) Upon receipt of any appeal, the Minister shall appoint one or more persons to hear representations made by the appellant and the Director-General and, if such persons think fit, to inspect the premises or irradiating apparatus and to report to the Minister, who shall thereupon determine the appeal as soon as practicable.
+(a) commits an act that is directed against a nuclear facility, or that interferes with the operation of a nuclear facility; and
 
-(3) In the exercise of his power to determine an appeal, the Minister may —
+(b) does so intending that the act will cause, or knowing that the act is likely to cause —
 
-(a) dismiss such appeal;
+(i) death or serious injury to any person; or
 
-(b) require the Director-General to issue a licence;
+(ii) substantial damage to property or to the environment, by exposure to radiation or release of radioactive substances, shall be guilty of an offence.
 
-(c) quash any suspension or cancellation of a licence, or substitute a suspension of a licence for cancellation or vice versa; or
+[20/2014]
 
-(d) vary or revoke any decision of the Director-General, or substitute any decision for a decision made by the Director- General.
+(2) Any person who is guilty of an offence under subsection (1) shall, on conviction —
 
-(4) The decision of the Minister under this section shall be final.
+(a) except in the cases mentioned in paragraphs (b) and (c), be liable to imprisonment for a term which may extend to life imprisonment;
+
+(b) if the person had intended to cause serious injury to any person knowing that the injury is likely to cause his or her death, and death is caused, be subject to the same punishment as an act under section 300(b) of the Penal Code 1871; or
+
+(c) if the person had intended to cause death to any person and death is caused, be subject to the same punishment as an act under section 300(a) of the Penal Code 1871.
+
+[26DB
+
+[20/2014]

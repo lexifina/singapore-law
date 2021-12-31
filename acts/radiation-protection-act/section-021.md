@@ -1,6 +1,10 @@
-# 21. Persons who may accompany IAEA inspectors
-Part: PART VIII INSPECTIONS
+# 21. IAEA inspectors and inspection
+Part: PART 8 INSPECTIONS
 
-(1) In order to facilitate an inspection under section 20, an IAEA inspector may be accompanied by a national inspector.
+An IAEA inspector may —
 
-(2) A national inspector may exercise any inspection power for the purpose of facilitating an inspection under section 20.
+(a) with the consent of the person who owns, or who is in control of, any premises; or
+
+(b) under a warrant issued under section 26 in respect of any premises, enter and inspect the premises pursuant to the Safeguards Agreement and exercise, in connection with the inspection, any function contemplated, and power provided for, in the Safeguards Agreement.
+
+[20
