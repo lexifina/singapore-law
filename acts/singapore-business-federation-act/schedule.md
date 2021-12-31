@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Section 4 (1) (a)
+Section 4(1)(a)
 
 LOCAL ETHNIC CHAMBERS OF COMMERCE AND INDUSTRY 1. Singapore Chinese Chamber of Commerce and Industry.
 

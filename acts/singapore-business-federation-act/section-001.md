@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Singapore Business Federation Act.
+This Act is the Singapore Business Federation Act 2001.
