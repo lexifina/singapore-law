@@ -1,48 +1,33 @@
-# 33. Limitation of employee’s right of action
-Part: PART IV POWERS, OFFENCES, PENALTIES AND PROCEEDINGS
+# 33. Collection and disclosure of information by Commissioner
+Part: PART 3 WORK INJURY COMPENSATION INSURANCE Division 1 — Insurance obligations
+Division: Division 2 — Designated insurer
 
-(1) Nothing in this Act shall be deemed to confer any right to compensation on an employee in respect of any injury if he has instituted an action for damages in respect of that injury in any court against his employer or if he has recovered damages in respect of that injury in any court from his employer.
+(1) For the purposes of this Act, the Commissioner may —
 
-[5/2008]
+(a) direct any designated insurer to submit to the Commissioner any information or returns to facilitate the administration of this Part and Part 4, which may include the following:
 
-(2) Subject to subsections (2A) and (2B), no action for damages shall be maintainable in any court by an employee against his employer in respect of any injury by accident arising out of and in the course of employment —
+(i) details of each approved policy (including the premium payable and any endorsements) provided by the designated insurer to an employer;
 
-(a) if he has a claim for compensation for that injury under the provisions of this Act and does not withdraw his claim within a period of 28 days after the service of the notice of assessment of compensation in respect of that claim;
+(ii) the details and status of the processing of claims for compensation under this Act, and the settlement of claims under common law for damages relating to work injuries, for each employee of an employer insured under any approved policy provided by the designated insurer;
 
-(b) if he and his employer have agreed or are deemed to have agreed to the notice of assessment under section 24(2)(a) for that injury; or
+(iii) the details and status mentioned in sub-paragraphs (i) and (ii) relating to —
 
-(c) if he has recovered damages in respect of the injury in any court from any other person.
+(A) any approved policy mentioned in section 23 of the repealed Act provided by the designated insurer before 1 September 2020; or
 
-[5/2008]
+(B) any insurance policy mentioned in section 26(3) provided by the designated insurer whether before, on or after the date the designated insurer is designated as a designated insurer;
 
-(2A) Where —
+(b) require such information or returns to be submitted through an electronic system or in any other form and manner, and within the time, specified by the Commissioner; and
 
-(a) a claim for compensation under this Act is made for an employee’s injury by accident arising out of and in the course of the employment;
+(c) disclose or publish to any designated insurer —
 
-(b) there is no objection by the employee to the notice of assessment of compensation in respect of that claim;
+(i) any information or returns obtained under paragraph (a) as the Commissioner thinks necessary for the purposes of this Act; and
 
-(c) the compensation ordered by the Commissioner thereafter in respect of that claim is of a lesser amount than that stated in that notice of assessment of compensation in respect of that claim;
+(ii) the following information derived from any information under the control of the Ministry of Manpower:
 
-(d) within a period of 28 days after the making of the order, the employee notifies the Commissioner and the employer in writing that he does not accept the compensation so ordered, and has not received or retained any part of such compensation earlier paid (if any) by the employer; and
+(A) workforce data, including size and aggregated payroll for all, or any class of, employees of each employer insured under an approved policy;
 
-(e) no appeal under section 29 is made against the order, the employee may institute an action in any court against his employer for damages in respect of that injury and any order made by the Commissioner in respect of that injury shall be void.
+(B) work injury claims data for all, or any class of, employees of each employer insured under an approved policy.
 
-[5/2008]
+(2) Section 2(3) of the Public Sector (Governance) Act 2018 applies in determining the information under the control of the Ministry of Manpower mentioned in subsection (1)(c)(ii).
 
-(2B) Where —
-
-(a) the Commissioner assesses or makes an order that no compensation shall be payable for a claim for compensation for an employee’s injury by accident arising out of and in the course of employment because —
-
-(i) the injury did not arise out of and in the course of the employee’s employment; or
-
-(ii) the injured person is not an employee within the meaning of this Act; or
-
-(b) an appeal to the High Court under section 29 from an order made by the Commissioner has failed because of any reason mentioned in paragraph (a)(i) or (ii), the employee may institute an action in any court to recover damages independently of this Act for injury caused by that accident.
-
-[5/2008]
-
-(3) If an action is brought within the time specified in section 11 in any court to recover damages independently of this Act for injury caused by any accident and it is determined in the action or on appeal that the injury is one for which the employer is not liable but that he would have been liable to pay compensation under the provisions of this Act, the action shall be dismissed; but the court shall, if the employee so chooses, proceed to assess the compensation and may deduct therefrom all or any part of the costs which, in its judgment, have been caused by the employee instituting the action instead of proceeding under this Act.
-
-[5/2008]
-
-(4) In any proceedings under subsection (3) when the court assesses the compensation, it shall give a certificate of the compensation it has awarded and the direction it has given, if any, as to the deduction of costs and such certificate shall have the same effect as a judgment of the court.
+(3) No liability shall lie against the Government, the Commissioner or any public officer or individual appointed under section 6(1) for any loss or damage suffered by any person by reason of any error or omission in any information or returns disclosed or published, in good faith and with reasonable care, under subsection (1)(c).

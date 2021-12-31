@@ -1,15 +1,13 @@
-# 20. Special provisions relating to seamen
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
-Division: Division 4 — Liability and indemnity
+# 20. Direction to pay relative
+Part: PART 2 COMPENSATION FOR WORK INJURY Division 1 — Liability to pay compensation
+Division: Division 2 — Computation, payment and protection of compensation
 
-This Act shall apply to seamen who are employees within the meaning of this Act, subject to the following modifications:
+(1) Where the Commissioner is satisfied that compensation cannot be paid by an employer’s insurer in accordance with section 18(2)(a), (b), (c) or (d) or by the employer to the employee under section 19(1)(a), the Commissioner may direct the employer’s insurer or the employer (as the case may be) to make the payment —
 
-(a) the notice of the accident and the claim for compensation may, except where the person injured is the master of the ship, be served on the master of the ship as if he were the employer, but where the accident happened and the incapacity commenced on board the ship, it shall not be necessary for any seaman to give any notice of the accident;
+(a) to one or more of the employee’s relatives; and
 
-(b) in the case of the death of a master or seaman the claim for compensation shall be made within 6 months after the news of the death has been received by the claimant or, where the ship has been or is deemed to have been lost with all hands, within 18 months after the date on which the ship was or is deemed to have been so lost;
+(b) in the proportion the Commissioner specifies.
 
-(c) where an injured master or seaman is discharged or left behind in any territory in the Commonwealth or in a foreign country, depositions respecting the circumstances and nature of the injury may be taken by any judge or magistrate in that territory or by a consular officer in the foreign country, and if so taken and transmitted by the person by whom they are taken to the Minister, they or certified copies thereof shall, in any proceedings for enforcing the claim, be admissible in evidence as provided by sections 184 and 186 of the Merchant Shipping Act (Cap. 179), and those sections shall apply accordingly;
+(2) The Commissioner may vary any direction made under this section if the Commissioner is satisfied, after such inquiry as the Commissioner considers necessary, that the direction ought to be varied by reason of any change in the circumstances of any relative of the employee, or for any other sufficient cause.
 
-(d) no periodical payment for temporary incapacity shall be payable in respect of the period during which the owner of the ship is, under any law relating to shipping in force for the time being in Singapore or any part thereof, liable to defray the expenses of maintenance of the injured master or seaman.
-
-[S 22/89; 16/90; 5/2008]
+(3) The Commissioner must not make any direction or any variation under this section that prejudices any person, unless that person has been given a reasonable opportunity to make representations to the Commissioner.

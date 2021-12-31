@@ -1,17 +1,32 @@
-# 8. Method of calculating earnings
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
-Division: Division 2 — Computation of compensation
+# 8. Certain accidents deemed to be in course of employment
+Part: PART 2 COMPENSATION FOR WORK INJURY Division 1 — Liability to pay compensation
 
-(1) For the purposes of this Act, the earnings of an employee shall be computed in such manner as is best calculated to give his true monthly earnings at the date of the accident, subject to the following provisions:
+(1) An accident is deemed to arise out of and in the course of the employee’s employment if —
 
-(a) where the employee has been employed by the employer for whom he was working at the time of the accident for a continuous period which is more than a month immediately preceding the accident, his monthly earnings shall be the average amount of his earnings during the continuous period of not more than 12 months immediately preceding the accident;
+(a) the accident happens to the employee while the employee is (with the express or implied permission of the employer) travelling as a passenger by any means of transport to or from the employee’s workplace; and
 
-(b) where the employee has been employed by the employer for whom he was working at the time of the accident for a continuous period which is a month immediately preceding the accident or shorter, his monthly earnings shall be the actual earnings he would have received for the whole month immediately preceding the accident; and
+(b) at the time of the accident, the means of transport mentioned in paragraph (a) —
 
-(c) where reliable evidence of the earnings of the relevant employee under paragraph (a) or (b) does not exist or cannot be adduced without undue delay or expense, regard may be had to evidence of the earnings of employees employed on similar work in the same locality at or about the date of the accident.
+(i) is operated by or on behalf of the employer, or by some other person who operates the means of transport pursuant to arrangements made with the employer; and
 
-[5/2008]
+(ii) is not operated in the ordinary course of a public transport service.
 
-(2) Where an employee is employed under contracts of service with 2 or more employers under which he worked at one time for one such employer and at another time for another such employer, his monthly earnings shall be computed as if his earnings under all such contracts were earnings in the employment of the employer for whom he was working at the time of the accident, except contracts of service that the last-mentioned employer does not know.
+(2) An accident is deemed to arise out of and in the course of an employee’s employment if the accident happens to the employee —
 
-[5/2008]
+(a) in or about the employee’s workplace; and
+
+(b) while the employee is taking steps, on an actual or supposed emergency at the workplace —
+
+(i) to rescue or protect any person who is, or is thought to be or possibly to be, injured or imperilled; or
+
+(ii) to avert or minimise damage to or loss of property.
+
+(3) Despite an accident happening to the employee while the employee is acting —
+
+(a) in contravention of any written law or other regulations applicable to the employment, or of any orders given by or on behalf of the employer; or
+
+(b) without instructions from the employer, the accident is deemed to arise out of and in the course of the employee’s employment if —
+
+(c) the accident would have been taken to have arisen out of and in the course of the employee’s employment, had the employee not been acting as mentioned in paragraph (a) or (b); and
+
+(d) that act was done for the purposes of and in connection with the employer’s trade or business.

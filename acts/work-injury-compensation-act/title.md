@@ -1,35 +1,18 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-WORK INJURY COMPENSATION ACT
-(CHAPTER 354)
-Act
-25 of 1975
-Amended by
-34 of 1980
-S 336/86
-1985 Ed. Cap. 354
-Amended by
-16 of 1990
-S 22/89
-S 316/95
-S 447/95
-1998 Ed. Cap. 354
-Amended by
-5 of 2008
-S 254/2003
-S 68/2004
-REVISED EDITION 2009
-(31st July 2009)
+WORK INJURY
+COMPENSATION ACT 2019
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2009
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act relating to the payment of compensation to employees for injury suffered in the course of their employment.
+An Act to repeal and re-enact with amendments the Work Injury Compensation Act (Chapter 354, 2009 Revised Edition) to provide for the payment of compensation to employees for injury suffered arising out of and in the course of their employment and to regulate providers of insurance for liability under the Act.
 
-[5/2008]
+[1 September 2020: Except sections 36(1), 44 to 47 and 83(8)(a) and (c);
 
-[1st October 1975]
+1 January 2021: Sections 36(1) and 44 to 47]

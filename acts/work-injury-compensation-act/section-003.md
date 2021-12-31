@@ -1,44 +1,30 @@
-# 3. Employer’s liability for compensation
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
+# 3. Meanings of “employee” and “employer”
+Part: PART 1 PRELIMINARY
 
-(1) If in any employment personal injury by accident arising out of and in the course of the employment is caused to an employee, his employer shall be liable to pay compensation in accordance with the provisions of this Act.
+(1) In this Act —
 
-[5/2008]
+“employee” means an individual who has entered into or works under a contract of service with an employer and —
 
-(2) An accident happening to an employee while he is, with the express or implied permission of his employer, travelling as a passenger by any means of transport to or from his place of work shall be deemed to arise out of and in the course of his employment if at the time of the accident the means of transport is being operated by or on behalf of his employer or by some other person by whom it is operated in pursuance of arrangements made with his employer and is not being operated in the ordinary course of a public transport service.
+(a) includes every employee of the Government in a class or description declared by the President to be employees for the purposes of this Act; but
 
-[5/2008]
+(b) does not include any class of individuals specified in the Third Schedule;
 
-(3) An accident happening to an employee in or about any premises at which he is for the time being employed for the purposes of his employer’s trade or business shall be deemed to arise out of and in the course of his employment if it happens while he is taking steps, on an actual or supposed emergency at those premises, to rescue or protect persons who are, or are thought to be or possibly to be injured or imperilled, or to avert or minimise damage or loss to property.
+“employer” means any person (A) who employs an individual
 
-[5/2008]
+(B) under a contract of service and includes —
 
-(4) An accident happening to an employee shall be deemed to arise out of and in the course of his employment notwithstanding that he was at the time of the accident acting in contravention of any written law or other regulations applicable to his employment, or of any orders given by or on behalf of his employer, or that he was acting without instructions from his employer, if —
+(a) the Government, if B belongs to a class or description of employees of the Government declared to be employees for the purposes of this Act under paragraph (a) of the definition of “employee”;
 
-(a) the accident would have been deemed so to have arisen had such act not been done in contravention as aforesaid or without instructions from his employer, as the case may be;
+(b) the legal personal representative of A, if A is deceased;
 
-and
+(c) a duly authorised agent or manager of A;
 
-(b) such act was done for the purposes of and in connection with the employer’s trade or business.
+(d) the person who owns or is carrying on, or for the time being is responsible for the management of, the profession, business, trade or work in which B is engaged; and
 
-[5/2008]
+(e) where B is employed for the purpose of any game or recreation and engaged or paid through a club, the manager or members of the managing committee of that club.
 
-(5) An employer shall not be liable to pay compensation in respect of —
+(2) Where an employer temporarily lends or lets on hire the services of an employee to another person, the employer is deemed, for the purposes of this Act, to continue to be the employer of the employee while the employee is working for that other person.
 
-(a) any injury to an employee resulting from an accident if it is proved that the injury to the employee is directly attributable to the employee having been at the time thereof under the influence of alcohol or a drug not prescribed by a medical practitioner; or
+(3) Despite a claimant working for an employer under a contract of service that was illegal at the time when the accident causing the injury happened, the Commissioner or the court may, having regard to all the circumstances of the case, deal with the case, or direct the employer’s insurer to deal with the case, as if the claimant had at that time been working under a valid contract of service with the employer.
 
-(b) any incapacity or death resulting from a deliberate self-injury or the deliberate aggravation of an accidental injury.
-
-[5/2008]
-
-(5A) In this section, ‘‘drug’’ means —
-
-(a) a controlled drug within the meaning of the Misuse of Drugs Act (Cap. 185); or
-
-(b) a prescription only drug specified for the purposes of section 29 of the Medicines Act (Cap. 176) that is not prescribed by a medical practitioner for the employee’s consumption or use.
-
-[5/2008]
-
-(6) For the purposes of this Act, an accident arising in the course of an employee’s employment shall be deemed, in the absence of evidence to the contrary, to have arisen out of that employment.
-
-[5/2008]
+(4) The exercise and performance of the powers and duties of a department of the Government or a statutory authority are, for the purposes of this Act, deemed to be the trade or business of the Government or statutory authority, as the case may be.

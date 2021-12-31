@@ -1,11 +1,11 @@
-# 15. Review by Commissioner
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
-Division: Division 3 — Making claims
+# 15. Assessment of permanent incapacity or current incapacity
+Part: PART 2 COMPENSATION FOR WORK INJURY Division 1 — Liability to pay compensation
+Division: Division 2 — Computation, payment and protection of compensation
 
-(1) Any periodical payment for temporary incapacity payable under this Act may be reviewed by the Commissioner on the application of the employer or of the employee accompanied by a certificate of a medical practitioner that there has been a change in the condition of the employee.
+(1) For the purposes of determining the permanent incapacity or current incapacity of an employee resulting from the employee’s work injury, an accepted medical report is evidence of the employee’s —
 
-[16/90; 5/2008]
+(a) permanent total incapacity or permanent partial incapacity, assessed by the health professional who made the report at any time after the date of the accident that caused the work injury; or
 
-(2) Any periodical payment for temporary incapacity may, on review under this section, and subject to the provisions of this Act, be continued, increased, decreased or ended.
+(b) current total incapacity or current partial incapacity, at the time of the assessment by the health professional who made the report, assessed at the earliest opportunity but not earlier than 6 months after the date of the accident that caused the work injury.
 
-[16/90; 5/2008]
+(2) Subsection (1)(b) does not apply to any incapacity resulting from the diseases mentioned in section 10(1).

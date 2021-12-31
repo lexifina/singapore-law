@@ -1,25 +1,35 @@
-# 17. Liability of principals
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
-Division: Division 4 — Liability and indemnity
+# 17. Compensation for temporary incapacity
+Part: PART 2 COMPENSATION FOR WORK INJURY Division 1 — Liability to pay compensation
+Division: Division 2 — Computation, payment and protection of compensation
 
-(1) Where any person (referred to in this section as the principal) in the course of or for the purpose of his trade or business contracts with any other person (referred to in this section as the employer) for the execution by the employer of the whole or any part of any work, or for the supply of labour to carry out any work, undertaken by the principal, the principal shall be liable to pay to any employee employed in the execution of the work any compensation which he would have been liable to pay if that employee had been immediately employed by him.
+(1) Where any work injury results in the temporary incapacity of an employee, the compensation the employer is liable under this Act to pay to the employee is a periodical payment that is —
 
-[5/2008]
+(a) an amount specified in the First Schedule; and
 
-(1A) For the purposes of this section, the Commissioner shall, in his discretion and notwithstanding any claim by the employee, determine that a claim for compensation be made, or a recovery of compensation be obtained, against the principal or the employer.
+(b) payable not later than the same day as earnings would have been payable to the employee under the contract of service under which the employee was employed at the time of the accident, except that the interval between periodical payments must not exceed one month.
 
-[5/2008]
+(2) The Commissioner may review any periodical payment for temporary incapacity, on the application of the employee, the employer or the employer’s insurer, if accompanied by a certificate of a health professional that there has been a change in the condition of the employee.
 
-(2) Where a claim has been determined by the Commissioner to be made against the principal for compensation under subsection (1), this Act shall apply as if references to the principal were substituted for references to the employer, except that the amount of compensation shall be calculated with reference to the wages of the employee under the employer by whom he is immediately employed.
+(3) Subject to the provisions of this Act, the Commissioner may, on a review under subsection (2), direct any periodical payment to the employee for temporary incapacity to be continued, increased, decreased or ended.
 
-[5/2008]
+(4) Any periodical payments for temporary incapacity may be commuted into a lump sum, of an amount agreed between the employer liable to make the periodical payments and the employee, after —
 
-(3) Where the principal is liable to pay compensation under this section, he shall be entitled to be indemnified by the person who would have been liable to pay compensation to the employee independently of this section.
+(a) the periodical payments have continued for not less than 6 months; and
 
-[5/2008]
+(b) the Commissioner consents.
 
-(4) Nothing in this section shall be construed as preventing the Commissioner from ordering the compensation under this Act to be recovered from the employer instead of the principal, and a claim so determined by the Commissioner to be made against a principal or an employer, as the case may be, shall not bar subsequent proceedings under this Act against the other to recover so much of the compensation as may remain unpaid.
+(5) Where any person has paid any compensation under this section in respect of a claimant’s work injury as the claimant’s employer or employer’s insurer (called in this section the payer) or any ex gratia payment has been made under section 70 in respect of such compensation, the Commissioner may order the claimant to refund such payment if —
 
-[5/2008]
+(a) the claim in respect of that work injury is withdrawn, and is not resumed, under section 41;
 
-(5) This section shall not apply in any case where the accident occurred elsewhere than at or about the place where the principal has undertaken to execute work or which is under his control or management.
+(b) an order of refusal of compensation has been made or has taken effect, in respect of that work injury; or
+
+(c) the payment was made on the basis of any error or any false or misleading information.
+
+(6) Subsection (5) applies to the payer only if —
+
+(a) the payer applies to the Commissioner for the refund within the prescribed time and in the form and manner required by the Commissioner; and
+
+(b) the claimant has been given a reasonable opportunity to make representations to the Commissioner.
+
+(7) Any refund ordered under subsection (5) is recoverable directly from the claimant.

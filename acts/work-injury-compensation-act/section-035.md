@@ -1,40 +1,48 @@
-# 35. Offences and penalties
-Part: PART IV POWERS, OFFENCES, PENALTIES AND PROCEEDINGS
+# 35. Deemed claim when employer has notice of accident
+Part: PART 4 COMPENSATION PROCESS Division 1 — Overview
 
-(1) Any employer who —
+(1) A claim for compensation under this Act is deemed to be made by an employee when the employer first has notice of an accident giving rise to the employee’s work injury.
 
-(a) for the purpose of defraying or partly defraying the cost of insurance in respect of his liability to pay compensation under this Act, makes any deduction from the earnings of an employee in his employment; or
+(2) An employer has notice of an accident for the purposes of this Act when either of the following events occurs:
 
-(b) fails to insure himself in accordance with section 23(1) or (2), shall be guilty of an offence and shall be liable —
+(a) the employee informs any of the following persons of the date and place of the accident and the cause of the injury:
 
-(i) in the case of an offence under paragraph (a), on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and
+(i) the employer;
 
-(ii) in the case of an offence under paragraph (b), on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(ii) the foreman or any other person under whose supervision the employee was employed at the time of the accident;
 
-[5/2008]
+(iii) any person designated for the purpose by the employer;
 
-(2) Any person who —
+(b) the employer has knowledge of the accident by any other means.
 
-(a) fails to pay compensation in accordance with and within the time specified in this Act;
+(3) Every employer must, within the prescribed time after the employer first has notice of an accident giving rise to work injury to any employee of the employer, give notice of the accident to —
 
-(b) fails to pay the interest in accordance with section 28A(1);
+(a) the Commissioner in the form and manner specified by the Commissioner; and
 
-(c) makes any statement or furnishes any information to the Commissioner or an investigation officer under this Act which he knows or ought reasonably to know is false in any material particular or is misleading by reason of the omission of any material particular;
+(b) the employer’s insurer in writing.
 
-(d) abets the commission of an offence under this Act;
+(4) An employee must, as soon as possible after sustaining a work injury in an accident, notify the employer or any of the other persons mentioned in subsection (2)(a).
 
-(e) wilfully obstructs or delays the Commissioner or an investigation officer in the exercise of his powers under section 30A; or
+(5) The employee’s claim under this Act is deemed to be withdrawn if the employer does not have notice of the employee’s accident at the end of whichever period specified in paragraph (a), (b) or (c) that ends last:
 
-(f) fraudulently makes any claim for compensation under this Act which he knows to be false in order to induce or deceive the employer or insurer or the Commissioner in making payment of such compensation to him or any other person, shall be guilty of an offence and shall be liable —
+(a) one year after the date of the employee’s accident;
 
-(i) in the case of an offence under paragraph (a) or (b), on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both;
+(b) if the employee dies within the period mentioned in paragraph (a), one year after the date of the employee’s death;
 
-(ii) in the case of an offence under paragraph (c) or (e), on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both;
+(c) any period ending on a later date specified under subsection (6).
 
-(iii) in the case of an offence under paragraph (d), on conviction to be punished with the punishment provided for that offence;
+(6) Subject to subsection (7), the Commissioner may specify a period for the purposes of subsection (5)(c) only if the Commissioner is satisfied that the delay was caused by mistake, absence from Singapore or other reasonable cause.
 
-and
+(7) The Commissioner must not specify a period for the purposes of subsection (5)(c) if the Commissioner is satisfied that the delay was caused by an action for damages being instituted by or on behalf of the employee in any court for compensation in respect of that accident.
 
-(iv) in the case of an offence under paragraph (f), on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
+(8) An employer who fails to give notice of an accident to the Commissioner in accordance with subsection (3)(a) shall be guilty of an offence and shall be liable on conviction —
 
-[5/2008]
+(a) to a fine not exceeding $5,000; or
+
+(b) if the person is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(9) A person is a repeat offender in relation to an offence under subsection (8) if the person who is convicted of an offence under that subsection has been convicted on at least one other earlier occasion of —
+
+(a) an offence under subsection (8); or
+
+(b) an offence under regulation 3(5) of the Work Injury Compensation Regulations (Cap. 354, Rg 1) as in force before 1 September 2020, whether the conviction was before, on or after 1 September 2020.

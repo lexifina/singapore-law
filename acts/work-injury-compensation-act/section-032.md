@@ -1,8 +1,23 @@
-# 32. Proceedings against insurers
-Part: PART IV POWERS, OFFENCES, PENALTIES AND PROCEEDINGS
+# 32. Obligations of designated insurer
+Part: PART 3 WORK INJURY COMPENSATION INSURANCE Division 1 — Insurance obligations
+Division: Division 2 — Designated insurer
 
-(1) Where an employer has incurred any liability to pay compensation or interest under this Act in respect of any accident occurring while there was in force an approved policy of insurance covering that liability, proceedings to enforce a claim in respect of that liability under sections 24, 25, 28A and 29 may be brought against the insurer as if he were the employer.
+(1) A designated insurer must comply with every —
 
-[5/2008]
+(a) condition imposed on the designated insurer under section 31;
 
-(2) In any proceedings brought against an insurer by virtue of subsection (1), the employer shall render all reasonable assistance to the insurer to enable the insurer to conduct any such proceedings and to defend any claim which the insurer decides to defend; and if the employer fails to do so he shall be liable to pay to the insurer any amount which has been paid or may become payable by the insurer as a result of those proceedings.
+(b) direction of the Commissioner given to the designated insurer under this Act; and
+
+(c) requirement under this Act that applies to the designated insurer.
+
+(2) Despite the suspension of a person’s designation as a designated insurer, the designated insurer must continue to comply with every condition, direction and requirement mentioned in subsection (1) in respect of the following unless the Commissioner directs otherwise:
+
+(a) every approved policy and every insurance policy that purports to insure an employer’s liability to pay compensation under this Act, issued by that insurer before that suspension;
+
+(b) any payment insured, or purportedly insured, under such an insurance policy.
+
+(3) The expiry, suspension or cancellation of the designation of a designated insurer does not prejudice the enforcement of any right or claim in relation to the matters mentioned in subsection (2)(a) and (b) —
+
+(a) by any person against the insurer; and
+
+(b) by the insurer against any person.

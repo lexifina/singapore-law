@@ -1,14 +1,12 @@
-# 6. Persons entitled to compensation
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
+# 6. Assistant Commissioners, investigation officers and authorised persons
+Part: PART 1 PRELIMINARY
 
-(1) Compensation under this Act shall be payable to or for the benefit of the employee or, where death results from the injury, to the deceased employee’s estate or to or for the benefit of his dependants as provided by this Act.
+(1) The Commissioner may appoint such number of —
 
-[5/2008]
+(a) public officers as Assistant Commissioners (Work Injury Compensation) and investigation officers; and
 
-(2) Where a dependant dies before a claim under this Act is determined by the Commissioner, the legal personal representative of the dependant shall have no right to payment of compensation, and the amount of compensation shall be calculated and apportioned as if that dependant had died before the employee.
+(b) other individuals as authorised persons, as may be necessary to assist the Commissioner in the administration of this Act.
 
-[5/2008]
+(2) The Commissioner may, subject to such conditions or limitations as the Commissioner may specify, delegate the exercise of all or any of the Commissioner’s powers or duties under this Act (except the power of delegation under this subsection) to any Assistant Commissioner, investigation officer or authorised person.
 
-(3) Where a deceased employee has no dependant, the compensation shall be paid into a fund to be known as the Workers’ Fund which shall be established, maintained and applied in accordance with regulations made under this Act and the person managing the Fund shall be entitled to claim the compensation.
-
-[5/2008]
+(3) Every authorised person appointed under subsection (1)(b) is taken to be a public servant for the purposes of the Penal Code 1871 when exercising any power conferred or performing any duty imposed on the authorised person by or under this Act.

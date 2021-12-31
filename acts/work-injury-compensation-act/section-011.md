@@ -1,29 +1,26 @@
-# 11. Notice and claim
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
-Division: Division 3 — Making claims
+# 11. Date of accident and apportionment of liability for compensation for disease
+Part: PART 2 COMPENSATION FOR WORK INJURY Division 1 — Liability to pay compensation
 
-(1) Except as provided in this section, proceedings for the recovery of compensation for an injury under this Act shall not be maintainable unless —
+(1) For the purposes of calculating the employee’s AME for the computation of compensation payable by an employer under section 10(1)(a), (b) or (c), the date of the accident is taken to be the earliest of the following dates:
 
-(a) notice of the accident has been given to the employer by or on behalf of the employee as soon as practicable after the happening thereof;
+(a) the last day of the employee’s employment with the employer mentioned in section 10(1)(a), (b) or (c), as the case may be;
 
-(b) a claim for compensation with respect to that accident has been made within one year from the happening of the accident causing the injury, or, in the case of death, within one year from the date of the death; and
+(b) the date of commencement of the incapacity of the employee;
 
-(c) the claim has been made in such form and manner as the Commissioner may determine.
+(c) the date of the employee’s death.
 
-[34/80; 5/2008]
+(2) For all other purposes of this Act in relation to compensation payable under section 10(1)(a), (b) or (c), the date of the accident is taken to be —
 
-(2) No notice to the employer shall be necessary where a fatal accident has occurred.
+(a) the earlier of —
 
-(3) The want of or any defect or inaccuracy in a notice shall not be a bar to the maintenance of proceedings if —
+(i) the date of commencement of the incapacity of the employee; or
 
-(a) the employer is proved to have had knowledge of the accident from any other source at or about the time of the accident; or
+(ii) the date on which a health professional certifies that, in the health professional’s opinion, the employee is suffering from the disease mentioned in section 10(1); or
 
-(b) it is found in the proceedings for settling the claim that the employer is not, or would not be, if a notice or an amended notice were then given and the hearing postponed, prejudiced in his defence by the want, defect or inaccuracy, or that such want, defect or inaccuracy was occasioned by mistake, absence from Singapore or other reasonable cause.
+(b) if there has been no previous period of incapacity — the date of the employee’s death.
 
-(4) The failure to make a claim within the period specified in subsection (1) shall not be a bar to the maintenance of proceedings if it is found that the failure was occasioned by mistake, absence from Singapore or other reasonable cause.
+(3) If an employee contracts a disease mentioned in section 10(1) by a gradual process, so that 2 or more employers are severally liable to pay compensation under that section in respect of the employee’s incapacity or death —
 
-(5) Notice to the employer (or, if there is more than one employer, to one of such employers) in respect of an injury may be given either in writing or orally or to the foreman or other person under whose supervision the employee was employed, or to any person designated for the purpose by the employer, and shall state in ordinary language the cause of the injury and the date on which and the place at which the accident happened.
+(a) the aggregate amount of the compensation payable by those employers must not exceed the amount that would have been payable if those employers were a single employer; and
 
-[5/2008]
-
-(6) The notice if in writing may be given by delivering the notice at, or sending it by registered post addressed to, the residence or place of business of the person to whom it is to be given.
+(b) if all of the employers do not come to an agreement on the apportionment of liability — each employer is liable for such proportion of the compensation payable as the Commissioner may direct.

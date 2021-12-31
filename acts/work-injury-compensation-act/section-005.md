@@ -1,6 +1,8 @@
-# 5. Compensation limited to injuries received at work
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
+# 5. Purpose of Act
+Part: PART 1 PRELIMINARY
 
-Except as provided in sections 3 and 4, no compensation shall be payable to an employee in respect of any disease unless the disease is directly attributable to a specific injury by accident arising out of and in the course of the relevant employment.
+The purpose of this Act is to ensure that employees receive compensation for work injuries in a fair and expeditious manner, by providing for —
 
-[5/2008]
+(a) the efficient operation of work injury compensation processes and related insurance arrangements; and
+
+(b) the timely and effective resolution of disputes concerning such compensation.

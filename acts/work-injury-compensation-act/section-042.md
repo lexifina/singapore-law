@@ -1,10 +1,8 @@
-# 42. Exempt employer from any provision
-Part: PART V GENERAL
+# 42. No compensation if claim withdrawn
+Part: PART 4 COMPENSATION PROCESS Division 1 — Overview
 
-(1) The Minister may, by order published in the Gazette and with or without conditions, exempt any class or description of employers from all or any of the provisions of this Act.
+Compensation is not payable to an employee while the employee’s claim —
 
-[5/2008]
+(a) is deemed to be withdrawn under section 35(5); or
 
-(2) If an exemption is granted under subsection (1) with conditions, the exemption operates only if the conditions are complied with.
-
-[5/2008]
+(b) is withdrawn under section 41(1).

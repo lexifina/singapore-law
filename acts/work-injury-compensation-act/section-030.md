@@ -1,18 +1,38 @@
-# 30. Powers of Commissioner during hearing
-Part: PART III ASSESSMENT AND PAYMENT OF COMPENSATION
+# 30. Offences relating to provision of insurance
+Part: PART 3 WORK INJURY COMPENSATION INSURANCE Division 1 — Insurance obligations
 
-(1) For the purposes of this Act, the Commissioner shall have all the powers of a District Judge for the summoning and examination of witnesses and the administration of oaths or affirmations and for compelling the production of documents and material objects.
+(1) A person other than a person mentioned in subsection (2) who offers, or enters into a contract, to provide insurance in respect of the liability of any employer to pay compensation under this Act shall be guilty of an offence and shall be liable —
 
-*The words ‘‘committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)’’ in section 28A(2)(c) will be substituted with the following words when item 1(54)(d) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+(a) on the first conviction — to a fine not exceeding $80,000 for each insurance policy to which the conviction under this subsection applies; and
 
-‘‘deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008’’.
+(b) on a second or subsequent conviction — to a fine not exceeding $160,000 for each insurance policy to which the conviction under this subsection applies.
 
-(2) The Commissioner shall make a brief memorandum of the substance of the evidence of every witness as the examination of the witness proceeds, and the memorandum shall be signed by the Commissioner with his own hand and shall form part of the record.
+(2) Only the following persons may offer or enter into a contract (as the case may be) to provide the insurance mentioned in subsection (1):
 
-(3) The evidence of any medical witness shall be taken down as nearly as may be word for word.
+(a) a designated insurer that is not suspended under section 31(8)(b) or 34(1)(a);
 
-(4) Any person who in any way wilfully obstructs the service of or obedience to any summons and any person summoned who neglects to attend and to produce documents as required in such summons and any person who commits in respect of any proceedings under this Act any offence described in Chapter X of the Penal Code (Cap. 224) shall be punishable on conviction as provided in that Chapter.
+(b) an insurance intermediary in respect of the insurance which is provided or to be provided by a designated insurer mentioned in paragraph (a).
 
-(5) Every person who gives evidence before the Commissioner shall be bound to answer truthfully all questions put to him by the Commissioner.
+(3) A person (whether or not a designated insurer) who offers, or enters into a contract, to provide any insurance in respect of the liability of any employer to pay compensation under this Act, which is not an approved policy, shall be guilty of an offence and shall be liable —
 
-(6) Any person who wilfully makes any false statement or who gives any evidence in any proceedings under this Act which he knows to be untrue, or who does any other act, which if done in any judicial proceedings would be punishable under Chapter XI of the Penal Code, shall be punishable on conviction as provided in that Chapter.
+(a) on the first conviction — to a fine not exceeding $80,000 for each insurance policy offered or provided in contravention of this subsection; and
+
+(b) on a second or subsequent conviction — to a fine not exceeding $160,000 for each insurance policy offered or provided in contravention of this subsection.
+
+(4) It is not a defence to a charge for an offence under subsection (1) or (3) that the person did not know that the contract of insurance offered or entered into —
+
+(a) was in respect of the liability of any employer to pay compensation under this Act; or
+
+(b) was not an approved policy.
+
+(5) To avoid doubt, this section does not prohibit the making of an offer or contract to provide —
+
+(a) healthcare insurance, accident insurance or other insurance which does not insure or purport to insure the employer’s liabilities under this Act; or
+
+(b) any insurance that insures only liability in excess of the employer’s liability to pay compensation under this Act.
+
+(6) In this section, unless the context otherwise requires, a reference to offering to provide insurance in respect of any liability under this Act includes a reference to —
+
+(a) holding out as providing such insurance, whether to specific persons or to the public or any section of the public; and
+
+(b) making an offer to, or inviting an offer from, specific persons or the public or any section of the public to provide such insurance.

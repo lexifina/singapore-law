@@ -1,39 +1,22 @@
-# 13. Medical examination and treatment
-Part: PART II COMPENSATION FOR INJURY Division 1 — Entitlement and liability for compensation
-Division: Division 3 — Making claims
+# 13. Liability of principal
+Part: PART 2 COMPENSATION FOR WORK INJURY Division 1 — Liability to pay compensation
 
-(1) When notice of an accident has been given to an employer by an employee or on the employee’s behalf, the employer shall, before the expiry of the 5th day after the giving of the notice, offer to have the employee examined free of charge by a medical practitioner, and the employee shall submit himself for such medical examination.
+(1) Where any person (called in this section the principal) contracts, in the course of or for the purpose of the principal’s trade or business, with any other person (called in this section the contractor) —
 
-[5/2008]
+(a) for the execution by the contractor of the whole or any part of any work; or
 
-(1A) Any employee who is in receipt of any periodical payment of compensation for temporary incapacity under this Act shall, if required by the employer, submit himself for such examination from time to time.
+(b) for the supply of labour to carry out any work, undertaken by the principal, the Commissioner may direct the principal to fulfil the obligations of the employer under this Act in relation to any employee of the contractor employed in the execution of the work, subject to any modification that may be prescribed for the application of any provision of this Act to the principal.
 
-[16/90; 5/2008]
+(2) Where the Commissioner makes a direction against the principal under subsection (1), the principal is liable to pay the employee any compensation payable under this Act as if that employee had been immediately employed by the principal, except that the amount of compensation is to be calculated with reference to the earnings of the employee under the contractor.
 
-(1B) An employee shall not be required to submit himself for examination otherwise than in accordance with regulations made under this Act.
+(3) Where the principal pays compensation under this section, the principal is entitled to be indemnified by the employer who would have been liable to pay compensation under this Act to the employee independently of this section.
 
-[16/90; 5/2008]
+(4) The Commissioner’s direction under this section against a principal does not bar subsequent proceedings under this Act against the employee’s employer to recover so much of the compensation as may remain unpaid.
 
-(2) (Deleted by Act 5 of 2008)
+(5) This section applies only if the accident occurs at a place —
 
-(3) If an employee, on being required to do so by the employer under subsection (1) or (1A) or by the Commissioner, at any time fails to submit himself for examination by a medical practitioner, his right to compensation shall be suspended until the examination has taken place; and if the failure extends over a period of 3 months from the date when the employee was required to submit himself for examination by the Commissioner, no compensation shall be payable in respect of any injury to the employee resulting from the accident unless the injury results in the death of the employee or unless the Commissioner is satisfied that there was reasonable cause for the failure.
+(a) where the principal has undertaken to execute work; or
 
-[34/80; 5/2008]
+(b) that is under the principal’s control or management.
 
-(4) If an employee having been so required, and before the expiry of the period within which he is liable under subsection (1) to submit himself for medical examination, voluntarily leaves, without having been so examined, the place at which he was residing at the time of the accident, his right to compensation shall be suspended until he notifies his employer of his new address and offers himself for such examination.
-
-[5/2008]
-
-(5) Where an employee whose right to compensation has been suspended under subsection (3) or (4) dies without having submitted himself for medical examination as required by those subsections, the Commissioner may, if he thinks fit, direct the payment of compensation to the dependants or the estate of the deceased employee.
-
-[5/2008]
-
-(6) Where under subsection (3) or (4) a right to compensation is suspended, no compensation shall be payable in respect of the period of suspension.
-
-(7) Where an injured employee has refused to be treated by a medical practitioner or has failed to carry out or deliberately disregarded the instructions for his treatment, then —
-
-(a) where the employee is in receipt of any periodical payment of compensation for temporary incapacity under the provisions of this Act, the Commissioner may order the suspension of those payments until the employee accepts such treatment or has carried out such instructions, and may further, where the Commissioner is satisfied that the duration of the employee’s incapacity has been prolonged by such refusal, failure or disregard, order those payments to be restricted to such period, calculated from the date of injury, as the disability of the employee might reasonably have been expected to have lasted for, had he accepted treatment and followed instructions; or
-
-(b) where the employee has suffered permanent incapacity and the Commissioner is satisfied that the incapacity has been aggravated by such refusal, failure or disregard, the Commissioner may order that compensation be paid to the employee appropriate to such incapacity as he might reasonably have been expected to have suffered if he had been regularly treated by a medical practitioner.
-
-[16/90; 5/2008]
+Division 2 — Computation, payment and protection of compensation

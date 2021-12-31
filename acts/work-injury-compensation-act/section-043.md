@@ -1,60 +1,48 @@
-# 43. Service of documents, etc.
-Part: PART V GENERAL
+# 43. Representative of claimant, employee, employer, employer’s insurer, etc.
+Part: PART 4 COMPENSATION PROCESS Division 1 — Overview
 
-(1) Subject to subsection (3), any notice or document required or authorised to be served under this Act may be served —
+(1) Where this Act requires or permits any direction, notice, document or information to be given to or by a claimant, an employee, an employer, an employer’s insurer or a principal (A), the direction, notice, document or information may be given to or by A’s representative.
 
-(a) in the case of an individual —
+(2) Where A is required or permitted by or under this Act to —
 
-(i) by delivering it to the individual personally or any advocate and solicitor engaged by him;
+(a) attend a pre-hearing conference or hearing (other than an appearance for examination as a witness);
 
-(ii) by leaving it with an adult person apparently resident at, or by sending it by pre-paid registered post to, the usual or last known address of the place of residence of the individual;
+(b) make, withdraw or resume any claim or make or withdraw any objection; or
 
-(iii) by leaving it with an adult person apparently employed at, or by sending it by pre-paid registered post to, the usual or last known address of the place of business of the individual;
+(c) make any decision or do any act in relation to the processing of compensation, settlement or determination of any claim under this Act, the attendance, decision or act may be made or done by A’s representative.
 
-(iv) by affixing a copy of the notice in a conspicuous place at the usual or last known address of the place of residence or business of the individual;
+(3) For the purposes of subsection (1) or (2), A’s representative is any of the following:
 
-(v) by sending it by facsimile transmission to the fax transmission number operated at the usual or last known address of the place of residence or business of the individual, or the last fax number given by the individual to the Commissioner or a person authorised by the Commissioner as the facsimile transmission number for the service of documents on the individual;
+(a) an advocate and solicitor duly authorised to act on behalf of A;
 
-or
+(b) where A lacks capacity within the meaning of the Mental Capacity Act 2008 —
 
-(vi) by electronic communication, by sending an electronic communication of the document to the last email address given by the individual to the Commissioner or a person authorised by the Commissioner as the email address for the service of documents on the individual;
+(i) any donee of a lasting power of attorney which is granted by A under the Mental Capacity Act 2008 on whom A has conferred authority to manage A’s property and affairs, or matters relating to compensation under this Act;
 
-(b) in the case of a partnership other than a limited liability partnership —
+(ii) any deputy who is appointed or deemed to be appointed for A under the Mental Capacity Act 2008 and is conferred power to manage A’s property and affairs, or matters relating to compensation under this Act; or
 
-(i) by delivering it to any one of the partners or the secretary or other like officer of the partnership;
+(iii) if A is a claimant or an employee, any relative of A, with the leave of the Commissioner;
 
-(ii) by leaving it at, or by sending it by pre-paid registered post to, the principal or last known place of business of the partnership in Singapore;
+(c) where A is dead —
 
-(iii) by sending it by facsimile transmission to the fax transmission number operated at the principal or last known place of business of the partnership in Singapore; or
+(i) the executor or administrator of A’s estate; or
 
-(iv) by electronic communication, by sending an electronic communication of the document to the last email address given by the partnership to the Commissioner or a person authorised by the Commissioner as the email address for the service of documents on the partnership; and
+(ii) with the leave of the Commissioner, any relative of A, whether or not grant of representation of the estate has been obtained;
 
-(c) in the case of any limited liability partnership or any other body corporate —
+(d) where A is an employer or a principal —
 
-(i) by delivering it to the secretary or other like officer of the body corporate or, in the case of a limited liability partnership, the manager thereof;
+(i) a person in A’s permanent and exclusive employment authorised by A; or
 
-(ii) by leaving it at, or by sending it by pre-paid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore;
+(ii) the employer’s insurer in respect of A;
 
-(iii) by sending it by facsimile transmission to the fax transmission number operated at the registered office or principal office of the limited liability partnership or body corporate in Singapore; or
+(e) where A is an employer’s insurer, any representative authorised by A;
 
-(iv) by electronic communication, by sending an electronic communication of the document to the last email address given by the limited liability partnership or body corporate in Singapore to the Commissioner or a person authorised by the Commissioner as the email address for the service of documents on the limited liability partnership or body corporate.
+(f) with the leave of the Commissioner, any other person authorised in writing by A to act on A’s behalf.
 
-[5/2008]
+(4) Where the Government is a party to any proceedings under this Act, the following persons are representatives of the Government:
 
-(2) Where any notice or other document to be served under this Act is —
+(a) the head of the department by, in or under which the employee was employed;
 
-(a) sent by a facsimile transmission to the fax transmission number operated at the last known place of residence or business or registered office or principal office in accordance with subsection (1), it shall be deemed to have been duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending facsimile machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal office, as the case may be;
+(b) any officer of that department, authorised in writing by the head of that department;
 
-(b) sent by electronic communication to an email address in accordance with subsection (1), it shall be deemed to have been duly served on the person to whom it is addressed at the time of entering the information system addressed to the email address; and
-
-(c) sent by pre-paid registered post, it shall be deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, whether or not it is returned undelivered.
-
-[5/2008]
-
-(3) Service of any document under this Act on a person by electronic communication may be effected only if the person gives as part of his or its address for service an email address.
-
-[5/2008]
-
-(4) This section shall not apply to notices and documents to be served in proceedings in court.
-
-[5/2008]
+(c) the Attorney-General or any person authorised by the Attorney-General.
