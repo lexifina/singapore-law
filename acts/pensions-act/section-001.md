@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Pensions Act.
+This Act is the Pensions Act 1956.
