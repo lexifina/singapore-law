@@ -1,4 +1,4 @@
 # 33. Public servants
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-All authorised officers and senior authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+All authorised officers and senior authorised officers are deemed to be public servants for the purposes of the Penal Code 1871.

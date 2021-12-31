@@ -1,4 +1,4 @@
-# 22. Jurisdiction of court
-Part: PART V PROVISIONS AS TO PROCEEDINGS
+# 22. Jurisdiction of courts
+Part: PART 5 PROVISIONS AS TO PROCEEDINGS
 
-Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court or a Magistrate’s Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.

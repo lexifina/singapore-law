@@ -1,5 +1,5 @@
 # 36. Exemption
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 The Minister may, by regulations, exempt —
 

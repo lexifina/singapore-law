@@ -1,4 +1,4 @@
-# 3. Act subject to section 4 of Arms and Explosives Act
-Part: PART I PRELIMINARY
+# 3. Act subject to section 9 of Arms and Explosives Act 1913
+Part: PART 1 PRELIMINARY
 
-This Act is subject to section 9 of the Arms and Explosives Act (Cap. 13).
+This Act is subject to section 9 of the Arms and Explosives Act 1913.
