@@ -1,14 +1,29 @@
 # 29. Regulations
+Part: PART 6 MISCELLANEOUS
 
-(1) The Minister may make regulations generally for carrying out the provisions of this Act.
+(1) The Minister may make regulations for any purpose for which regulations may be made under this Act, for prescribing anything which may be prescribed and generally for carrying out the provisions of this Act.
+
+[24/2012]
 
 (2) Regulations made under subsection (1) may —
 
-(a) prescribe that any act or omission in contravention of the provisions of any regulation shall be an offence and shall be punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both;
+(a) prescribe the penalties for any contravention of any provision of any regulation, except that —
 
-(b) prescribe such fees or charges as may be necessary for the purposes of this Act;
+(i) in the case of an offence, any such penalty must not exceed a fine of $15,000 or imprisonment for a term of 12 months or both; or
 
-(c) prescribe the categories of work passes, the period for which any work pass may be issued, renewed or reinstated, the criteria for the issuance, renewal or reinstatement of any work pass and any condition subject to which a work pass may be issued, renewed or reinstated;
+(ii) in the case of a prescribed infringement, any such penalty must not exceed a financial penalty of $15,000;
+
+(b) prescribe fees or charges as may be necessary for the purposes of this Act, including the fees to be paid in respect of any appeal lodged under this Act;
+
+(c) prescribe —
+
+(i) the categories of work passes;
+
+(ii) the period for which any work pass may be issued, renewed or reinstated;
+
+(iii) the criteria for the issuance, renewal or reinstatement of any work pass; and
+
+(iv) any condition (including any regulatory condition) subject to which an in-principle approval may be issued, or a work pass may be issued, renewed or reinstated;
 
 (d) provide for the taking and recording of any personal identifier of any person —
 
@@ -22,10 +37,12 @@ or
 
 (f) provide for the collation of any personal identifier taken or recorded pursuant to regulations made under paragraph (d) and the dissemination thereof to the police and to any other law enforcement agency authorised by the Controller to receive it;
 
-(g) provide for any matter relating to the release of any arrested person on any bail or bond under section 21(4);
+(g) provide for any matter relating to the release of any arrested person on any bail or bond under section 21(5);
 
-(h) provide for any matter relating to the security to be given by or in respect of any foreigner issued with a work pass, including any condition subject to which the security may be forfeited.
+(h) provide for any matter relating to the security to be provided by or in respect of any foreigner issued with a work pass or any group or class of such foreigners, including the circumstances and the conditions under which the amount of the security may be varied or the security may be forfeited; and
 
-[39/98; 30/2007]
+(i) prescribe the procedure in respect of any proceedings or any matter or thing to be done under this Act.
 
-(3) All such regulations shall be presented to Parliament as soon as possible after publication in the Gazette.
+[24/2012]
+
+(3) All regulations must be presented to Parliament as soon as possible after publication in the Gazette.

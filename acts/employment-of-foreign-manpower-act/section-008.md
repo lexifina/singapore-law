@@ -1,9 +1,10 @@
 # 8. Register of foreign employees to be kept by employer
+Part: PART 2 WORK PASSES
 
-(1) An employer shall keep, in accordance with section 95 of the Employment Act (Cap. 91), a register of foreign employees to whom work passes have been issued under section 7.
+(1) An employer must keep a register of foreign employees to whom work passes have been issued under section 7.
 
-[30/2007]
+[27/2015]
 
-(2) The register shall be in such form and shall contain such particulars as the Controller may determine.
+(2) The register must be in such form, and must contain such particulars, as the Controller may determine.
 
-(3) The register shall, at all reasonable times, be open to inspection by an employment inspector.
+(3) The register must, at all reasonable times, be open to inspection by an employment inspector.

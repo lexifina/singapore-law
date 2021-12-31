@@ -1,7 +1,6 @@
 # 1. Short title
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Employment of Foreign Manpower
+This Act is the Employment of Foreign Manpower Act 1990.
 
-Act.
-
-[30/2007]
+[24/2012]

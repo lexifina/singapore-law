@@ -1,51 +1,15 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY EMPLOYMENT OF FOREIGN MANPOWER ACT 1990
 
-EMPLOYMENT OF FOREIGN MANPOWER ACT (CHAPTER 91A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Employment of Foreign Manpower Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 21 of 1990 — Employment of Foreign Workers Act 1990
+LEGISLATIVE HISTORY DETAILS PART 1 REGULATION OF EMPLOYMENT ACT (CHAPTER 272, 1985 REVISED EDITION) 1. Act 12 of 1965 — Regulation of Employment Act, 1965 Bill : 67/1965 First Reading : 17 December 1965 Second and Third Readings : 22 December 1965 Commencement : 1 February 1966 2. 1970 Revised Edition — Regulation of Employment Act (Chapter 127) Operation : 30 April 1971 3. Act 45 of 1975 — Regulation of Employment (Amendment) Act, 1975 Bill : 43/1975 First Reading : 19 August 1975 Second and Third Readings : 20 November 1975 Commencement : 1 January 1976 4. Act 25 of 1982 — Regulation of Employment (Amendment) Act, 1982 Bill : 16/1982 First Reading : 27 July 1982 Second and Third Readings : 31 August 1982 Commencement : 1 April 1982 (except section 3) 15 October 1982 (section 3) 5. 1985 Revised Edition — Regulation of Employment Act (Chapter 272) Operation : 30 March 1987
 
-Date of First Reading : 30 August 1990 (Bill No. 22/90 published on 31 August 1990)
+PART 2 EMPLOYMENT OF FOREIGN MANPOWER ACT 1990 (2020 REVISED EDITION) 6. Act 21 of 1990 — Employment of Foreign Workers Act 1990 Bill : 22/1990 First Reading : 30 August 1990 Second and Third Readings : 4 October 1990 Commencement : 1 January 1991 7. 1991 Revised Edition — Employment of Foreign Workers Act (Chapter 91A) Operation : 1 March 1991 8. Act 37 of 1995 — Employment of Foreign Workers (Amendment) Act 1995 Bill : 34/1995 First Reading : 27 September 1995 Second and Third Readings : 1 November 1995 Commencement : 1 March 1996 9. 1997 Revised Edition — Employment of Foreign Workers Act (Chapter 91A) Operation : 20 December 1997 10. Act 39 of 1998 — Employment of Foreign Workers (Amendment) Act 1998 Bill : 38/1998 First Reading : 4 September 1998 Second and Third Readings : 12 October 1998 Commencement : 15 February 1999 11. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal) Act 2001 (Amendments made by section 7 of the above Act) Bill : 24/2001 First Reading : 11 July 2001 Second and Third Readings : 25 July 2001 Commencement : 1 September 2001 (section 7) 12. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 Bill : 17/2007 First Reading : 9 April 2007 Second and Third Readings : 22 May 2007 Commencement : 1 July 2007 Note: The Employment of Foreign Workers Act was renamed as the Employment of Foreign Manpower Act by this Act.
 
-Date of Second and Third Readings : 4 October 1990
+13. 2009 Revised Edition — Employment of Foreign Manpower Act (Chapter 91A) Operation : 31 July 2009 14. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 34 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 34 of the Sixth Schedule) 15. Act 24 of 2012 — Employment of Foreign Manpower (Amendment) Act 2012 Bill : 22/2012 First Reading : 13 August 2012 Second and Third Readings : 11 September 2012 Commencement : 9 November 2012 16. Act 29 of 2014 — Business Names Registration Act 2014 (Amendments made by section 47 read with item 5 of the Schedule to the above Act) Bill : 26/2014 First Reading : 8 September 2014 Second and Third Readings : 8 October 2014 Commencement : 3 January 2016 (section 47 read with item 5 of the Schedule) 17. Act 27 of 2015 — Employment (Amendment) Act 2015 (Amendments made by section 17 of the above Act) Bill : 23/2015 First Reading : 13 July 2015 Second and Third Readings : 17 August 2015 Commencement : 1 April 2016 (section 17) 18. Act 15 of 2019 — Criminal Law Reform Act 2019 (Amendments made by section 173 of the above Act) Bill : 6/2019 First Reading : 11 February 2019 Second Reading : 6 May 2019 Notice of Amendments : 6 May 2019 Third Reading : 6 May 2019 Commencement : 1 January 2020 (section 173) 19. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 48 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 48 of the Schedule)
 
-Date of commencement : 1 January 1991
+Abbreviations
 
-2. 1991 Revised Edition — Employment of Foreign Workers Act (Chapter 91A)
-
-Date of operation : 1 March 1991
-
-3. Act 37 of 1995 — Employment of Foreign Workers Act 1995
-
-Date of First Reading : 27 September 1995 (Bill No. 34/95 published on 28 September 1995)
-
-Date of Second and Third Readings : 1 November 1995
-
-Date of commencement : 1 March 1996
-
-4. 1997 Revised Edition — Employment of Foreign Workers Act (Chapter 91A)
-
-Date of operation : 20 December 1997
-
-5. Act 39 of 1998 — Employment of Foreign Workers Act 1998
-
-Date of First Reading : 4 September 1998 (Bill No. 38/98 published on 5 September 1998)
-
-Date of Second and Third Readings : 12 October 1998
-
-Date of commencement : 15 February 1999 6. Act 26 of 2001 — Statutes (Miscellaneous Amendments and Repeal) Act 2001
-
-Date of First Reading : 11 July 2001 (Bill No. 24/2001 published on 12 July 2001)
-
-Date of Second and Third Readings : 25 July 2001
-
-Date of commencement : 1 September 2001 (section 7 — Amendment of Employment of Foreign Workers Act)
-
-7. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007
-
-Date of First Reading : 9 April 2007 (Bill No. 17/2007 published on 10 April 2007)
-
-Date of Second and Third Readings : 22 May 2007
-
-Date of commencement : 1 July 2007
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

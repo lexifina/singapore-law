@@ -1,29 +1,19 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-EMPLOYMENT OF FOREIGN MANPOWER ACT
-(CHAPTER 91A)
-Act
-21 of 1990
-1991 Ed. Cap. 91A
-Amended by
-37 of 1995
-1997 Ed. Cap. 91A
-Amended by
-39 of 1998
-26 of 2001
-30 of 2007
-REVISED EDITION 2009
-(31st July 2009)
+EMPLOYMENT OF FOREIGN MANPOWER ACT 1990
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2009
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to the employment of foreign manpower.
 
-[30/2007]
+[1 January 1991]
 
-[1st January 1991]
+PART 1 PRELIMINARY
+
+[24/2012]

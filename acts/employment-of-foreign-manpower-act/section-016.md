@@ -1,41 +1,64 @@
-# 16. Powers of employment inspector
+# 16. Powers of authorised officers and employment inspectors
+Part: PART 3 ADMINISTRATION OF ACT
 
-(1) An employment inspector shall, for the purposes of this Act, have power to do all or any of the following things:
+(1) For the purposes of this Act, an authorised officer or employment inspector has power to do all or any of the following:
 
-(a) to enter and search, by day or by night, any premises or part thereof when he has reasonable cause to believe that any person is employed therein or accommodated thereat or that evidence of the commission of an offence under this Act can be found therein;
+(a) to enter and inspect, at any reasonable time —
 
-(b) to require any person who the employment inspector has reason to believe has any document, including documents of identity and travel documents, or information relevant to the carrying out of the provisions of this Act, to produce any such document or give such information;
+(i) any premises when he or she has reasonable cause to believe that any foreign employee or self-employed foreigner is employed or engaged in or accommodated at those premises; or
 
-(c) to retain any document relevant to the carrying out of the provisions of this Act;
+(ii) where an application for a work pass has been made, the business premises of the employer who made the application;
 
-(d) to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and to reduce into writing the answer given or statement made by that person who shall be bound to state truly the facts and circumstances with which he is acquainted; and the statement made by that person shall be read over to him and shall, after correction, be signed by him;
+(b) to enter and search, by day or by night, any premises when he or she has reasonable cause to believe that evidence of a prescribed infringement or the commission of an offence under this Act (as the case may be) can be found in those premises;
 
-(e) to require by order in writing the attendance before him of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and that person shall so attend as required and if he fails to attend as so required, to report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order;
+(c) to require any person who the authorised officer or employment inspector has reason to believe has any document, including documents of identity and travel documents, or information relevant to the carrying out of the provisions of this Act, to produce any such document or give such information;
 
-(f) to take such photographs as he thinks necessary of the premises and persons reasonably believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act;
+(d) to retain any document relevant to the carrying out of the provisions of this Act;
 
-(g) to require any person to produce any article which is relevant to any investigation under this Act and, if necessary, to take into custody any such article.
+(e) to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and to reduce into writing the answer given or statement made by that person who is bound to state truly the facts and circumstances with which the person is acquainted; and the statement made by that person must be read over to that person and must, after correction, be signed by that person;
 
-[37/95; 30/2007]
+(f) to require by written order the attendance before him or her of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act, and that person must so attend as required and if that person fails to attend as so required, to report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order;
 
-(2) An employment inspector may require the occupier of any premises and his agents and any person found in the premises to furnish such means required by the employment inspector as necessary for any entry, search, examination or investigation, and the taking of photographs or the taking of articles into custody or otherwise for the exercise of his powers under this Act.
+(g) to take such photographs, or audio or video recording, as he or she thinks necessary of the premises and persons reasonably believed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act;
 
-[37/95]
+(h) to require any person to produce any article which is relevant to any investigation into a prescribed infringement or an offence under this Act (as the case may be) and, if necessary, to take into custody any such article;
 
-(3) An employment inspector may, after concluding his investigation, hand over to an immigration officer any travel document which he has taken into custody or has been produced to him.
+(i) to require an employer to produce all or any of his or her employees for the purposes of any investigation into a prescribed infringement or an offence under this Act when required by the authorised officer or employment inspector, as the case may be.
 
-(4) If any person —
+[24/2012]
 
-(a) intentionally offers any resistance to or wilfully delays an employment inspector in the exercise of any power under this section;
+(2) An authorised officer or employment inspector may require the occupier of any premises, the occupier’s agents and any person found in the premises, to provide such means required by the authorised officer or employment inspector (as the case may be) as necessary for any entry, inspection, search, examination or investigation, the taking of photographs or audio or video recordings, the taking of articles into custody or otherwise for the exercise of his or her powers under this Act.
 
-(b) fails to comply with the requisition of an employment inspector under this section;
+[24/2012]
 
-(c) fails to produce any document which he is required by or under this section to produce;
+(3) An authorised officer or employment inspector may, after concluding his or her inspection or investigation, hand over to an immigration officer any travel document which he or she has taken into custody or which has been produced to him or her.
 
-(d) wilfully withholds any information as to who is the occupier of the premises or who is the principal contractor or who is his employer; or
+[24/2012]
 
-(e) conceals or prevents or attempts to conceal or prevent a person from appearing before or being examined by an employment inspector, that person shall be deemed to obstruct an employment inspector in the execution of his duties under this Act.
+(4) If entry to any premises cannot be obtained, an employment inspector may, when he or she has reasonable cause to believe that any foreign employee or self-employed foreigner is employed or engaged in or accommodated at those premises or that evidence of the commission of an offence under this Act can be found in those premises, state his or her authority and purpose and demand entry to those premises, and —
 
-[37/95]
+(a) break open any outer or inner door or window leading to the premises;
 
-(5) Every employment inspector shall have authority to appear in court and conduct any prosecution in respect of any offence under this Act or any regulations made thereunder.
+(b) forcibly enter such premises and every part thereof; or
+
+(c) remove by force any obstruction to such entry or search.
+
+[24/2012]
+
+(5) If any person —
+
+(a) intentionally offers any resistance to or wilfully delays an authorised officer or employment inspector in the exercise of any power under this section;
+
+(b) fails to comply with the requisition of an authorised officer or employment inspector under this section;
+
+(c) fails to produce any document which the person is required by or under this section to produce;
+
+(d) wilfully withholds any information as to who is the occupier of the premises or who is the principal contractor or who is the person’s employer; or
+
+(e) conceals or prevents or attempts to conceal or prevent a person from appearing before or being examined by an authorised officer or employment inspector, that person is deemed to obstruct an authorised officer or employment inspector (as the case may be) in the execution of the employment inspector’s duties under this Act.
+
+[24/2012]
+
+(6) Every employment inspector has authority to appear in court and may, with the authorisation of the Public Prosecutor, conduct any prosecution in respect of any offence under this Act.
+
+[15/2010; 24/2012]

@@ -1,5 +1,16 @@
 # 19. Protection from personal liability
+Part: PART 3 ADMINISTRATION OF ACT
 
-No suit or other legal proceedings shall lie against the Controller or any employment inspector or other person acting under the direction of the Controller for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+No liability shall be incurred by —
 
-[37/95]
+(a) the Controller;
+
+(b) any authorised officer or employment inspector, or any person acting under the Controller’s direction; or
+
+(c) any member of the Appeal Board, for anything which is done or intended to be done in good faith and with reasonable care, in the exercise or purported exercise of any power, or the performance or purported performance of any function or duty, under this Act.
+
+[24/2012]
+
+PART 4 OFFENCES
+
+[24/2012]
