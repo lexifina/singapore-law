@@ -1,0 +1,4 @@
+# 25. Expulsion of partner
+Heading: Nature of partnership
+
+No majority of the partners can expel any partner unless a power to do so has been conferred by express agreement between the partners.

@@ -1,0 +1,4 @@
+# 30. Duty of partner not to compete with firm
+Heading: Nature of partnership
+
+If a partner, without the consent of the other partners, carries on any business of the same nature as and competing with that of the firm, he must account for and pay over to the firm all profits made by him in that business.

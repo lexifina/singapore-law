@@ -1,0 +1,4 @@
+# 7. Partner using credit of firm for private purposes
+Heading: Nature of partnership
+
+Where one partner pledges the credit of the firm for a purpose apparently not connected with the firm’s ordinary course of business, the firm is not bound, unless he is in fact specially authorised by the other partners; but this section does not affect any personal liability incurred by an individual partner.

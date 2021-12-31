@@ -1,0 +1,6 @@
+# 26. Retirement from partnership at will
+Heading: Nature of partnership
+
+(1) Where no fixed term has been agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of his intention to do so to all the other partners.
+
+(2) Where the partnership has originally been constituted by deed, a notice in writing, signed by the partner giving it, shall be sufficient for this purpose.
