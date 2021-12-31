@@ -1,26 +1,32 @@
 # 21. Conditions of licence to practise
-Part: PART VI MULTI-DISCIPLINE AND CORPORATE PRACTICE
+Part: PART 6 MULTIDISCIPLINE AND CORPORATE PRACTICE
 
-(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply architectural services in Singapore only under the control and management of a registered architect who —
+(1) It is a condition of every licence granted to any corporation, partnership or limited liability partnership that the corporation, partnership or limited liability partnership (as the case may be) must supply architectural services in Singapore by a registered architect —
 
-(a) is ordinarily resident in Singapore; and
+(a) who has in force a practising certificate; and
 
-(b) has in force a practising certificate, and who is —
+(b) who is —
 
-(i) in the case of a corporation other than an unlimited corporation, a director of the corporation;
+(i) in the case of a corporation — a director or an employee of the corporation;
 
-(ii) in the case of an unlimited corporation which has a share capital, a director and registered owner of at least one share of the corporation;
+(ii) in the case of a partnership — a partner or an employee of the partnership; or
 
-(iii) in the case of an unlimited corporation which does not have any share capital, a director and member of the corporation; or
+(iii) in the case of a limited liability partnership — a partner or an employee of the limited liability partnership.
 
-(iv) in the case of a partnership, a partner thereof.
+[28/2005]
 
-[3/95]
+(2) It is a condition of every licence granted to any corporation, other than an unlimited corporation, or to any limited liability partnership that the corporation or limited liability partnership (as the case may be) must not supply architectural services in Singapore unless the corporation or limited liability partnership is insured in respect of professional liability in accordance with section 24 and the rules.
 
-(2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, that the corporation shall not supply architectural services in Singapore unless the corporation is insured against professional liability in accordance with section 24 and the rules.
+[28/2005]
 
-[3/95]
+(3) It is a condition of every licence granted to any corporation, partnership or limited liability partnership that the name of the corporation, partnership or limited liability partnership must not be changed without the prior approval of the Board.
 
-(3) Without prejudice to subsections (1) and (2), the Board may grant a licence subject to such other conditions as it thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto.
+[28/2005]
 
-(4) Where a licence is granted by the Board to a corporation or partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation or partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision shall be final.
+(4) Without affecting subsections (1), (2) and (3), the Board may grant a licence subject to any other conditions that the Board thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1), (2) and (3)) of a licence or impose additional conditions thereto.
+
+[28/2005]
+
+(5) Where the Board grants a licence to a corporation, partnership or limited liability partnership subject to conditions (other than those specified in subsections (1), (2) and (3)), the corporation, partnership or limited liability partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision is final.
+
+[28/2005]

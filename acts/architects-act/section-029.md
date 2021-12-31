@@ -1,44 +1,44 @@
-# 29. Revocation of licence
-Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 29. Review of complaints
+Part: PART 7 DISCIPLINARY PROCEEDINGS
 
-(1) Subject to subsection (3), the Board may by order revoke any licence it granted to a corporation or partnership if in the opinion of the Board —
+(1) Subject to subsection (3), the Board must, upon receiving any complaint under section 28, refer the complaint to the Registrar for review.
 
-(a) the corporation or partnership has contravened or failed to comply with any of the conditions of the licence imposed under section 21;
+[28/2005]
 
-(b) the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 20 (1), (2) or (4), whichever is applicable;
+(2) The Board may also, on its own motion, refer any information concerning any improper or dishonourable act or conduct of a registered architect to the Registrar for review.
 
-(c) a person who is neither —
+[28/2005]
 
-(i) a registered architect who has in force a practising certificate; nor
+(3) The Board need not refer any complaint or information to the Registrar for review where the complaint or information relates to any matter set out in section 7B(2), and in such a case, the Board may take any action that it thinks fit under that section.
 
-(ii) an allied professional, has a beneficial interest in the capital assets and profits of the partnership;
+[28/2005]
 
-(d) the licence had been obtained by fraud or misrepresentation;
+(4) The Registrar —
 
-(e) the corporation or partnership has ceased to supply architectural services in Singapore;
+(a) must review the complaint or information referred to him or her for the purpose of determining if there are sufficient merits therein to warrant the institution of disciplinary proceedings under this Part against the registered architect concerned; and
 
-(f) the corporation or partnership has contravened or failed to comply with section 22, 23 or 24 or has been convicted of an offence under this Act;
+(b) may, for the purpose of conducting the review, enlist the assistance of any registered architect, allied professional or layperson on the Investigation Panel.
 
-(g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
+[28/2005]
 
-(h) the conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply architectural services in Singapore in accordance with any written law and with honesty and integrity; or
+(5) In conducting a review under this section, the Registrar may require the complainant (if any) or the registered architect concerned to answer any question or to provide any document or information that the Registrar considers relevant for the purpose of the review.
 
-(i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2).
+[28/2005]
 
-(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists, by order impose on the corporation or partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board.
+(6) On the completion of a review under this section, the Registrar must —
 
-(3) The Board shall not exercise its powers under subsection (1) or
+(a) dismiss the complaint or information, if the Registrar finds that the complaint is frivolous, vexatious, misconceived or without merits, or that the information is unsubstantiated;
 
-(2) unless an opportunity of being heard by a representative in writing or by counsel had been given to the corporation or partnership against whom the Board intends to exercise its powers.
+(b) in a case where the complaint or information relates to the conviction (whether in Singapore or elsewhere) of the registered architect of an offence that —
 
-(4) Where the Board has revoked a licence under this section, it shall forthwith inform the corporation or partnership concerned.
+(i) involves fraud or dishonesty; or
 
-(5) Any order by the Board revoking a licence or imposing a pecuniary penalty shall take effect the day immediately after the Board has by post served the order on the corporation or partnership concerned unless the Board, or where the corporation or partnership gives due notice of appeal to the High Court, the Board or the High Court orders otherwise.
+(ii) implies a defect in character which makes the registered architect unfit for his or her profession, recommend to the Board to refer the matter to a Disciplinary Committee for a formal inquiry; and
 
-(6) Where an order of revocation becomes effective —
+(c) in any other case, recommend to the Board to refer the matter to an Investigation Committee for an inquiry.
 
-(a) the Registrar shall cause notice of the revocation to be published in the Gazette and remove from the register of licensees the name and other particulars of the corporation or partnership concerned; and
+[28/2005]
 
-(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply architectural services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+(7) The Board may, upon accepting the recommendation of the Registrar under subsection (6)(b) or (c), appoint an Investigation Committee or a Disciplinary Committee (as appropriate) and refer the matter thereto for an inquiry or a formal inquiry, as the case may be.
 
-(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+[28/2005]

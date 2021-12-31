@@ -1,10 +1,36 @@
-# 30. Appeals
-Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 30. Appointment of Investigation Committee
+Part: PART 7 DISCIPLINARY PROCEEDINGS
 
-If the Board has made —
+(1) The Board may appoint one or more Investigation Committees comprising —
 
-(a) an order of cancellation of registration or suspension from practice under section 27 against an architect;
+(a) a chairperson who is a member of the Board;
 
-(b) an order of revocation of a licence under section 29 against a corporation or partnership; or
+(b) 2 members of the Investigation Panel who are registered architects; and
 
-(c) an order imposing any pecuniary penalty on a registered architect under section 27 (2) or on a licensed corporation or partnership under section 29 (2), the architect, corporation or partnership concerned may, within 30 days after the order has been communicated to him or them, appeal to the High Court whose decision shall be final.
+(c) a member of the Investigation Panel who is an allied professional or a layperson, to inquire into any complaint or information received by the Board under section 28.
+
+[28/2005]
+
+(2) A member of the Investigation Panel who has assisted the Registrar in reviewing any complaint or information under section 29(4)(b) must not be a member of an Investigation Committee inquiring into the same matter.
+
+[28/2005]
+
+(3) An Investigation Committee may be appointed in connection with one or more matters or for a fixed period of time, as the Board thinks fit.
+
+[28/2005]
+
+(4) The Board may, at any time, revoke the appointment of the chairperson or any member of an Investigation Committee, or fill any vacancy in an Investigation Committee.
+
+[28/2005]
+
+(5) No act done by or under the authority of an Investigation Committee is invalid because of any defect that is subsequently discovered in the appointment or qualification of the chairperson or members or any of them.
+
+[28/2005]
+
+(6) The chairperson of an Investigation Committee must, even though he or she has ceased to be a member of the Board on the expiry of his or her term of office, continue to be the chairperson of the Investigation Committee until the Investigation Committee has completed its work.
+
+[28/2005]
+
+(7) A member of an Investigation Committee must, even though he or she has ceased to be a member of the Investigation Panel on the expiry of his or her term of office, continue to be a member of the Investigation Committee until the Investigation Committee has completed its work.
+
+[28/2005]

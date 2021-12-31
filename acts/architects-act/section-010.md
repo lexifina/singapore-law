@@ -1,56 +1,96 @@
 # 10. Illegal practice
-Part: PART III PRIVILEGES OF ARCHITECTS
+Part: PART 3 PRIVILEGES OF ARCHITECTS
 
-(1) Subject to the provisions of this Act, no person shall draw or prepare any architectural plan, drawing, tracing, design, specifi- cation or other document intended to govern the construction, enlargement or alteration of any building or part thereof in Singapore unless the person is —
+(1) Subject to the provisions of this Act, a person must not draw or prepare any architectural plan, drawing, tracing, design, specification or other document intended to govern the construction, enlargement or alteration of any building or part of a building in Singapore unless the person —
 
-(a) a registered architect who has in force a practising certificate; or
+(a) is a registered architect —
 
-(b) under the direction or supervision of a registered architect who has in force a practising certificate.
+(i) who has in force a practising certificate; or
 
-[3/95]
+(ii) who, if he or she is not required to obtain a practising certificate, is doing so in accordance with any prohibition, restriction or condition of his or her registration;
 
-(2) Subject to the provisions of this Act, no person shall sign and submit to the Commissioner of Building Control —
+(b) is doing so under the direction or supervision of a person mentioned in paragraph (a); or
 
-(a) any architectural plan, drawing, tracing, design, specification or other document intended to govern the construction, enlargement or alteration of any building or part thereof in Singapore; or
+(c) is exempt under section 36 from this section.
 
-(b) any report, certificate or other document relating to the construction, enlargement or alteration of any building or part thereof which is required by any written law to be signed by an architect, unless the person is a registered architect who has in force a practising certificate.
+[20/2017]
 
-[3/95]
+(2) Subject to the provisions of this Act, a person must not sign and submit to a building authority or to a public authority (as defined in section 3(4)) —
 
-(2A) Any document that is signed in contravention of subsection
+(a) any architectural plan, drawing, tracing, design, specification or other document intended to govern the construction, enlargement or alteration of any building or part of a building in Singapore; or
 
-(2) shall be invalid.
+(b) any report, certificate or other document relating to the construction, enlargement or alteration of any building or part of a building which is required by any written law to be signed by an architect, unless the person is a registered architect who has in force a practising certificate.
 
-[3/95]
+[28/2005]
 
-(3) Subject to the provisions of this Act, no person shall —
+(2A) Any document that is signed in contravention of subsection (2) is invalid.
 
-(a) use verbally or otherwise the word ‘‘architect’’ or any of its derivatives in connection with his business designation, or any other words, name or designation that will lead to the belief that the person is an architect unless the person is a registered architect; or
+(3) Subject to the provisions of this Act, a person must not —
 
-(b) advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply architectural services in Singapore, unless the person is a registered architect who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered architects.
+(a) use verbally or otherwise the word “architect” or any of its derivatives in connection with the person’s business designation, or any other words, name or designation that will lead to the belief that the person is an architect unless the person is a registered architect who has in force a practising certificate;
 
-[3/95]
+(b) advertise or hold himself, herself or itself out, or conduct himself, herself or itself in any way or by any means, as a person who is authorised to supply architectural services in Singapore, unless the person is —
 
-(4) Nothing in subsection (3) (b) shall apply to prevent a corporation that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation.
+(i) a registered architect who has in force a practising certificate; or
 
-[3/95]
+(ii) an architectural practice;
 
-(5) Subject to the provisions of this Act, no person shall —
-
-(a) supply or offer to supply architectural services in Singapore;
+(c) use the word “architect” or any of its derivatives as part of the name of an architectural practice unless the person is authorised under this Act to supply architectural services;
 
 or
 
-(b) sell or supply for gain or reward any architectural plan, drawing, tracing, design, specification or other document drawn or prepared by any person referred to in subsection
+(d) use verbally or otherwise the word “architect” or the abbreviation “Ar.” as a title before the person’s name unless the person is a registered architect who has in force a practising certificate.
 
-(1) (a) or (b) for use in the construction, enlargement or alteration of any building or part thereof in Singapore, unless the person is —
+[28/2005; 20/2017]
 
-(i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered architects;
+(4) Nothing in subsection (3)(b) prevents a corporation or limited liability partnership that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation or limited liability partnership.
 
-(ii) an allied professional and is doing so only by reason of being a partner in a licensed partnership; or
+[28/2005]
 
-(iii) a licensed corporation.
+(5) Subject to the provisions of this Act, a person must not —
 
-[3/95]
+(a) supply architectural services in Singapore unless the person is —
 
-(6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) a registered architect who has in force a practising certificate and is doing so on the person’s own account or under, or as an employee of, an architectural practice;
+
+(ii) a registered architect who, if he or she is not required to obtain a practising certificate, is doing so in accordance with any prohibition, restriction or condition of his or her registration; or
+
+(iii) a licensed corporation or licensed limited liability partnership; or
+
+(b) offer to supply architectural services in Singapore unless the person is —
+
+(i) a person mentioned in paragraph (a); or
+
+(ii) an allied professional who is doing so only by reason of being a partner in a licensed partnership or licensed limited liability partnership.
+
+[20/2017]
+
+(5A) Despite subsection (5), a builder may supply or offer to supply architectural services in Singapore in connection with any building works which the builder undertakes to carry out if the architectural services are provided by a person referred to in subsection (5)(a)(i) or (iii).
+
+[18/2003; 20/2017]
+
+(6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of a natural person —
+
+(i) to a fine not exceeding $5,000; and
+
+(ii) if the person is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) in the case of a body corporate —
+
+(i) to a fine not exceeding $5,000; and
+
+(ii) if the body corporate is a repeat offender, to a fine not exceeding $10,000.
+
+[20/2017]
+
+(7) In this section, a person is a repeat offender if the person who is convicted, or found guilty, of an offence under subsection (6) has (whether before, on or after 6 October 2017) been convicted or found guilty on at least one other earlier occasion of —
+
+(a) an offence under subsection (6) for contravening subsection (1), (2), (3) or (5); or
+
+(b) an offence under subsection (6) as in force immediately before that date for contravening subsection (1), (2), (3) or
+
+(5) as in force immediately before that same date.
+
+[20/2017]

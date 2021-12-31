@@ -1,50 +1,44 @@
-# 4A. Constitution and proceedings of Board
-Part: PART II BOARD OF ARCHITECTS
+# 4A. Constitution of Board
+Part: PART 2 BOARD OF ARCHITECTS
 
-(1) The Board shall consist of the following members to be appointed by the Minister:
+(1) The Board consists of the following members:
 
-(a) a President who shall be appointed from among registered architects;
+(a) the Commissioner of Building Control;
 
-(b) 2 registered architects selected from a list of not less than 3 registered architects submitted by the Singapore Institute of Architects;
+(b) the president of the Singapore Institute of Architects;
 
-(c) such other registered architects, not being more than 6, as the Minister may from time to time determine; and
+(c) not more than 6 registered architects who have in force a practising certificate —
 
-(d) one professional engineer on the nomination of the Professional Engineers Board.
+(i) to be elected by registered architects who have in force a practising certificate; or
 
-(2) The members of the Board shall be appointed for a term not exceeding 3 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
+(ii) failing such election, to be appointed by the Minister under subsection (2);
 
-(3) A person shall not be qualified to be a member of the Board if —
+(d) 6 registered architects to be appointed by the Minister; and
 
-(a) he is an undischarged bankrupt or has made any arrangement or composition with his creditors;
+(e) a registered professional engineer to be appointed by the Minister on the nomination of the Professional Engineers Board.
 
-(b) he is convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the architectural profession;
+[28/2005]
 
-(c) he is of unsound mind or incapacitated by physical illness; or
+(2) If elections held for the purposes of subsection (1)(c) result in less than 6 persons being elected as members of the Board, the Minister may appoint such number, as he or she thinks fit, of registered architects who have in force a practising certificate to be members of the Board, except that the number of members so appointed and the number of members elected under subsection (1)(c) must not exceed 6 in total.
 
-(d) he has at any time after due inquiry been found guilty by the Board or previous Board of improper conduct.
+[28/2005]
 
-(4) The office of a member of the Board shall become vacant if the member —
+(3) The members elected under subsection (1)(c) hold office for a term not exceeding 3 years and are eligible for re-election.
 
-(a) dies;
+[28/2005; 20/2017]
 
-(b) resigns or is removed from office; or
+(3A) However, a person is ineligible for re-election to office as a member under subsection (1)(c) if the re-election would result in the person holding office as a member for 3 consecutive terms.
 
-(c) becomes in any manner disqualified for office under subsection (3), and the vacancy so created shall as soon as practicable be filled in the manner in which the appointment to the vacant office was made.
+[20/2017]
 
-(5) Every person appointed to the Board by virtue of subsection
+(4) Only registered architects of at least 10 years’ standing may be elected under subsection (1)(c) or appointed under subsection (2) as members of the Board.
 
-(4) shall hold office for the residue of the term for which his predecessor was appointed.
+[28/2005]
 
-(6) The powers of the Board shall not be affected by any vacancy in the membership thereof.
+(5) The members appointed under subsection (1)(d) or (e) or (2) hold office for a term not exceeding 3 years and are eligible for re-appointment.
 
-(7) Any question as to whether a person has ceased to be a member of the Board shall be determined by the Minister whose decision shall be final.
+[28/2005]
 
-(8) At any meeting of the Board, 5 members thereof shall form a quorum and no business shall be transacted at any meeting unless a quorum is present.
+(6) The Minister may, at any time, revoke the appointment of any member appointed under subsection (1)(d) or (2) without giving any reason.
 
-(9) At any meeting of the Board, the President shall preside and in his absence the members present shall elect from among themselves one member to preside over the meeting.
-
-(10) If on any question to be determined by the Board there is an equality of votes, the President or the member presiding over that meeting shall have a casting vote.
-
-(11) Subject to the provisions of this Act, the Board may determine its own procedure.
-
-(12) The Board shall cause proper records of its proceedings to be kept.
+[28/2005]

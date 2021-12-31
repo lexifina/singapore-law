@@ -1,4 +1,6 @@
-# 25. Relationship between client and corporation
-Part: PART VI MULTI-DISCIPLINE AND CORPORATE PRACTICE
+# 25. Relationship between client and licensed corporation or limited liability partnership
+Part: PART 6 MULTIDISCIPLINE AND CORPORATE PRACTICE
 
-A licensed corporation shall have the same rights and shall be subject to the same obligations in respect of the fiduciary, confidential and ethical relationships with each client of the corporation that exist at law between a registered architect and his client.
+A licensed corporation or a licensed limited liability partnership has the same rights and is subject to the same obligations in respect of fiduciary, confidential and ethical relationships with each client of the corporation or limited liability partnership (as the case may be) that exist at law between a registered architect and his or her client.
+
+[28/2005]

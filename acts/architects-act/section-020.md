@@ -1,23 +1,37 @@
-# 20. Licence for multi-discipline and corporate practice
-Part: PART VI MULTI-DISCIPLINE AND CORPORATE PRACTICE
+# 20. Licence for multidiscipline and corporate practice
+Part: PART 6 MULTIDISCIPLINE AND CORPORATE PRACTICE
 
-(1) Subject to the provisions of this Act, the Board may grant to a corporation a licence to supply architectural services in Singapore if —
+(1) Subject to the provisions of this Act, the Board may grant to a limited corporation a licence to supply architectural services in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply architectural services;
 
-(b) at least $1 million of the authorised capital of the corporation is paid up;
+(b) the paid-up capital of the corporation is not less than the amount prescribed by the Minister by notification in the Gazette;
 
-(c) the articles of association of the corporation provide that the chairman and at least two-thirds of the directors of the corporation shall be registered architects or allied professionals;
+(c) the articles of association of the corporation provide that —
+
+(i) at least a prescribed number or prescribed proportion of the directors of the corporation must be registered architects or allied professionals, each of whom must have in force a practising certificate;
+
+(ii) any person whose name and particulars have been removed from any of the following registers other than upon an application by that person, must not be a director unless his or her name and particulars have been reinstated:
+
+(A) the register of architects;
+
+(B) the register of registered professional engineers kept and maintained by the Professional Engineers Board under section 13 of the Professional Engineers Act 1991;
+
+(C) the register of surveyors kept and maintained by the Land Surveyors Board under section 9 of the Land Surveyors Act 1991; and
+
+(iii) any person who has been suspended from practice as a registered architect under this Act, or as a registered professional engineer under the Professional Engineers Act 1991, or as a registered surveyor under the Land Surveyors Act 1991, must not be a director for so long as he or she remains suspended;
 
 (d) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
-(i) is a registered architect ordinarily resident in Singapore; and
+(i) is a registered architect who has in force a practising certificate; and
 
-(ii) has in force a practising certificate; and
+(ii) is authorised under a resolution of the board of directors of the corporation to make all final architectural decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the corporation;
 
-(e) the corporation is insured against professional liability in accordance with section 24 and the rules.
+(e) the corporation is insured against professional liability in accordance with section 24 and the rules; and
 
-[3/95]
+(f) the name of the corporation has been approved by the Board.
+
+[18/2003; 28/2005; 42/2005; 28/2005; 20/2017]
 
 (2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply architectural services in Singapore if —
 
@@ -25,48 +39,86 @@ Part: PART VI MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (b) the articles of association of the corporation provide that —
 
-(i) no person shall be a director of the corporation unless he is a registered architect or an allied professional;
+(i) a person must not be a director of the corporation unless he or she is a registered architect or an allied professional;
 
-and
+(ii) at least a prescribed number or proportion of the directors of the corporation must be registered architects or allied professionals who each has in force a practising certificate;
 
-(ii) no person shall be registered as a member of that corporation —
+(iii) a person must not be registered as a member of that corporation —
 
-(A) unless he is a registered architect or an allied professional and a director, a manager or an employee of the corporation; or
+(A) unless he or she is a registered architect or an allied professional and a director, a manager or an employee of the corporation; or
 
-(B) if he is a nominee of a person who is not a registered architect or an allied professional;
+(B) if he or she is a nominee of a person who is not a registered architect or an allied professional;
 
-and
+(iv) any person whose name and particulars have been removed from any of the following registers other than upon an application by that person, must not be a director unless his or her name and particulars have been reinstated:
+
+(A) the register of architects;
+
+(B) the register of registered professional engineers kept and maintained by the Professional Engineers Board under section 13 of the Professional Engineers Act 1991;
+
+(C) the register of surveyors kept and maintained by the Land Surveyors Board under section 9 of the Land Surveyors Act 1991; and
+
+(v) any person who has been suspended from practice as a registered architect under this Act, or as a registered professional engineer under the Professional Engineers Act 1991, or as a registered surveyor under the Land Surveyors Act 1991, must not be a director for so long as he or she remains suspended;
 
 (c) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
-(i) is a registered architect ordinarily resident in Singapore;
+(i) is a registered architect who has in force a practising certificate;
 
-(ii) has in force a practising certificate; and
+(ii) is a member, or a registered owner of at least one share, of the corporation; and
 
-(iii) is a member, or a registered owner of at least one share, of the corporation.
+(iii) is authorised under a resolution of the board of directors of the corporation to make all final architectural decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the corporation; and
 
-[3/95]
+(d) the name of the corporation has been approved by the Board.
+
+[18/2003; 28/2005; 20/2017]
 
 (3) Subject to the provisions of this Act, the Board may grant to a partnership not consisting wholly of registered architects a licence to supply architectural services in Singapore if —
 
-(a) the partnership is one in which only registered architects, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
+(a) the partnership is one in which only registered architects and allied professionals, who each has in force a practicing certificate, have a beneficial interest in the capital assets and profits of the partnership;
 
-(b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect ordinarily resident in Singapore and has in force a practising certificate.
+(b) the business of the partnership, so far as it relates to the supply of architectural services in Singapore, will be under the control and management of a partner who is a registered architect and has in force a practising certificate; and
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation (whether unlimited or not), or a partnership not consisting wholly of registered architects, a licence to supply architectural services in Singapore if the corporation or partnership has in force a licence granted under section 17 of the Land Surveyors Act (Cap. 156) or section 20 of the Professional Engineers Act (Cap. 253) and —
+(c) the name of the partnership has been approved by the Board.
 
-(a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsection (2) (b) and (c);
+[18/2003; 28/2005]
 
-(b) in the case of any other corporation, the corporation complies with the requirements set out in subsection (1) (b), (c), (d) and (e); or
+(4) Subject to the provisions of this Act, the Board may grant a licence to any limited liability partnership to supply architectural services in Singapore if —
 
-(c) in the case of a partnership, the partnership complies with the requirements set out in subsection (3).
+(a) the statement lodged by the partners of the limited liability partnership with the Registrar of Limited Liability Partnerships under section 19(1) of the Limited Liability Partnerships Act 2005 provides that a primary nature of the business of the limited liability partnership is to supply architectural services;
 
-[3/95]
+(b) the partners in the limited liability partnership consist only of persons who satisfy the requirements that the Board, with the approval of the Minister, prescribes;
 
-(5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
+(c) at least one of the partners of the limited liability partnership is a registered architect who has in force a practising certificate;
 
-(6) The Board may refuse to grant a licence to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply architectural services in Singapore in accordance with the written law and with honesty and integrity.
+(d) the business of the limited liability partnership, so far as it relates to architectural services in Singapore, will be under the control and management of a partner who —
 
-(7) Every licence granted under this section shall, unless earlier revoked, be valid for such period as may be specified therein.
+(i) is a registered architect who has in force a practising certificate; and
 
-(8) Any person whose application for a licence has been refused by the Board may, within 30 days after being notified of such refusal, appeal in the prescribed manner to the Minister whose decision shall be final.
+(ii) is authorised under a resolution of the partners of the limited liability partnership to make all final architectural decisions on behalf of the limited liability partnership with respect to the requirements of this Act, the rules or any other law relating to the supply of architectural services by the limited liability partnership;
+
+(e) the name of the limited liability partnership has been approved by the Board; and
+
+(f) the limited liability partnership is insured against professional liability in accordance with section 24 and the rules.
+
+[28/2005]
+
+(5) Any application for a licence or for the approval of the name of a corporation, partnership or limited liability partnership under this section must be made in such form and manner as may be prescribed.
+
+[28/2005]
+
+(6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not), partnership or limited liability partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation or any partner, manager or employee of the partnership or limited liability partnership provides reasonable grounds for believing that the corporation, partnership or limited liability partnership (as the case may be) will not supply architectural services in accordance with any written law and with honesty and integrity.
+
+[28/2005]
+
+(7) Every licence granted under this section is, unless earlier revoked, valid for such period as may be specified in the licence.
+
+(8) Any person whose application for a licence or for the approval of the name of a corporation, partnership or limited liability partnership has been refused by the Board may, within 30 days after being notified of the refusal, appeal in the prescribed manner to the Minister whose decision is final.
+
+[28/2005]
+
+(9) In subsections (1) and (2), “prescribed number or proportion of directors” means —
+
+(a) where no number or proportion is specified under paragraph (b) — a majority of the directors; or
+
+(b) where a number or proportion is specified by the Minister for the purposes of subsections (1) and (2) by notification in the Gazette — that number or proportion of directors for the time being so specified.
+
+[18/2003; 28/2005]

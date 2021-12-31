@@ -1,10 +1,10 @@
-# 11. Remuneration for services rendered
-Part: PART III PRIVILEGES OF ARCHITECTS
+# 11. Remuneration for architectural services
+Part: PART 3 PRIVILEGES OF ARCHITECTS
 
-Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any architectural services rendered in Singapore unless the person rendering such services is —
+(1) Subject to the provisions of this Act, a person is not entitled to demand, claim or sue for or recover any charge, fee or remuneration for any architectural services supplied by the person in Singapore, or for any offer by the person to supply architectural services in Singapore, in connection with any arbitration, suit or matter, if the person supplying or offering to supply the architectural services is not authorised by this Act to supply those services.
 
-(a) a registered architect who has in force a practising certificate and practising on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered architects;
+[20/2017]
 
-(b) an allied professional and doing so only by reason of being a partner in a licensed partnership; or
+(2) Any person, who has made any payment to another person for that other person engaging in conduct which is in contravention of section 10, may recover the money in a court of competent jurisdiction if the person did not know, or have reason to believe, when making payment, that the conduct by that other person was in contravention of section 10.
 
-(c) a licensed corporation.
+[20/2017]

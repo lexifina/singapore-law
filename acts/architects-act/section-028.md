@@ -1,28 +1,16 @@
-# 28. Removal from register of architects
-Part: PART VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+# 28. Complaints against registered architects
+Part: PART 7 DISCIPLINARY PROCEEDINGS
 
-(1) There shall be removed from the register of architects the name and other particulars of any registered architect —
+Any complaint or information concerning —
 
-(a) who has died;
+(a) the conviction of a registered architect of any offence involving fraud, dishonesty or moral turpitude, or implying a defect in character which makes him or her unfit for his or her profession;
 
-(b) whose registration has been cancelled under section 27;
+(b) any improper act or conduct of a registered architect in his or her professional capacity which brings disrepute to his or her profession;
 
-(c) who has no address in Singapore at which he can be found;
+(c) any contravention by a registered architect of any provision of the prescribed code of professional conduct and ethics;
 
-or
+(d) the ability of a registered architect to carry out the duties of an architect effectively in Singapore; or
 
-(d) who has not renewed his practising certificate for a continuous period of not less than 10 years.
+(e) any failure on the part of a registered architect, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(f)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2), must be made to the Board in writing and must be supported by any statutory declaration that the Board may require, except that no statutory declaration is required if the complaint is made or given by any public officer or officer of the Board.
 
-(2) Any registered architect may apply to the Board to have his name removed from the register of architects.
-
-(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than 2 months before the application is heard.
-
-(4) The Board may for good cause require the applicant to advertise his intention to make the application in such manner as the Board shall direct.
-
-(5) Subject to subsection (6), the Board may after hearing the application direct the Registrar to remove the name of the applicant from the register of architects.
-
-(6) No order shall be made on any application under subsection (2) if the Board is satisfied that at the time of hearing the application —
-
-(a) disciplinary action is pending against the applicant; or
-
-(b) the conduct of the applicant is the subject of inquiry or investigation by an Investigation Committee.
+[28/2005; 20/2017]
