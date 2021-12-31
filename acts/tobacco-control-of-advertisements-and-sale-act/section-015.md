@@ -1,40 +1,44 @@
-# 15. Prohibition on importation, distribution and sale of harmful tobacco products
-Part: PART III CONTROL OF SALE OF TOBACCO PRODUCTS
+# 15. Prohibition of harmful tobacco products
+Part: PART 3 CONTROL OF SALE OF TOBACCO PRODUCTS
 
-(1) Notwithstanding anything in this Act but subject to subsection (3), no person shall import, distribute, sell or offer for sale —
+(1) Despite anything in this Act but subject to subsection (4), a person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore —
 
 (a) any chewing tobacco;
 
 (b) such other tobacco product, or class of tobacco products, intended, labelled or described as suitable for use other than smoking, as the Minister may by regulations prescribe;
 
-(c) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that such product or class of products has or is capable of having the effect of encouraging or otherwise promoting smoking or other uses of tobacco products; or
+(c) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that that product or class of products has or is capable of having the effect of encouraging or otherwise promoting smoking or other uses of tobacco products; or
 
-(d) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that such product or class of products has or is capable of having, directly or indirectly, an adverse effect on the health of the public or any section of the public.
+(d) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that that product or class of products has or is capable of having, directly or indirectly, an adverse effect on the health of the public or any section of the public.
 
-[17/2010]
+[9/2016; 46/2017]
 
-(2) Subject to subsection (3), no person shall import, distribute, sell or offer for sale such tobacco product or class of tobacco products as the Minister may by regulations prescribe, being tobacco product —
+(2) Subject to subsection (4), a person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore such tobacco product or class of tobacco products as the Minister may by regulations prescribe, being tobacco product —
 
 (a) that contains; or
 
 (b) the emissions of which contain, any substance in excess of such maximum amounts as may be prescribed for that substance.
 
-[17/2010]
+[9/2016; 46/2017]
 
-(3) Subsections (1) and (2) shall not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
+(3) A person must not —
 
-[17/2010]
+(a) subject to subsection (4), possess in Singapore, other than for the purpose of sale in Singapore;
 
-(4) For the purposes of subsection (2), the Minister may prescribe different maximum amounts for different substances, in relation to different classes or descriptions of tobacco products.
+(b) purchase in Singapore; or
 
-[17/2010]
+(c) use in Singapore, any tobacco product mentioned in subsection (1) or (2).
 
-14 CAP. 309 Advertisements and Sale) 2011 Ed.
+[46/2017]
 
-(5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) Subsections (1), (2) and (3) do not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
 
-[17/2010]
+[46/2017]
 
-(6) In subsection (1), ‘‘smoking’’ means inhaling and expelling the smoke produced from the combustion of any tobacco product or any part of such tobacco product.
+(5) For the purposes of subsection (2), the Minister may prescribe different maximum amounts for different substances, in relation to different classes or descriptions of tobacco products.
 
-[17/2010]
+(6) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(7) A person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[46/2017]

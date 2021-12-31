@@ -1,6 +1,10 @@
-# 4. Defence
-Part: PART II CONTROL OF ADVERTISEMENTS RELATING TO TOBACCO PRODUCTS
+# 4. Defences
+Part: PART 2 CONTROL OF ADVERTISEMENTS RELATING TO TOBACCO PRODUCTS AND IMITATION TOBACCO PRODUCTS
 
-In any proceedings for a contravention of section 3, it shall be a defence for the person charged to prove that the advertisement to which the proceedings relate was published in such circumstances that 2011 Ed. Advertisements and Sale) CAP. 309 7
+Where a person is charged with an offence for contravening section 3(1) in relation to an unauthorised advertisement, it is a defence for the person charged to prove, on a balance of probabilities, that —
 
-he did not know and had no reason to believe that he was taking part in the publication of the advertisement.
+(a) the person was acting in the course of a business of delivering, transmitting or broadcasting communications (in whatever form or by whatever means) or making data available, and the nature of the business is such that persons undertaking it have no control over the nature or content of the communications or data; or
+
+(b) the person did not know and had no reason to believe that the advertisement was of a type described in section 3(1).
+
+[9/2016]

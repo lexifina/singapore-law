@@ -1,23 +1,4 @@
-# 17A. Prohibition of false or misleading packaging and labelling
-Part: PART III CONTROL OF SALE OF TOBACCO PRODUCTS
-Heading: 2 CAP. 309 Advertisements and Sale) 2011 Ed.
+# 17A. [Repealed]
+Part: PART 3 CONTROL OF SALE OF TOBACCO PRODUCTS
 
-(1) Subject to subsection (3), no person shall import, distribute, sell or offer for sale any tobacco product, the packaging or labelling of which promotes any tobacco product by any means that is false, misleading, deceptive or likely to create an erroneous impression about the characteristics, health effects, hazards or emissions of the tobacco product.
-
-[17/2010]
-
-(2) For the purposes of this section, any tobacco product whose packaging or labelling includes or contains —
-
-(a) any term, descriptor or trade mark, or any figurative or other sign, that directly or indirectly creates the false impression that a particular tobacco product is less harmful than other tobacco products; or
-
-(b) such term as the Minister may by regulations prescribe, whether or not the term is part of a descriptor or trade mark, or any figurative or other sign, shall be deemed to be a tobacco product that no person shall import, distribute, sell or offer for sale under subsection (1).
-
-[17/2010]
-
-(3) Subsection (1) shall not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
-
-[17/2010]
-
-(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[17/2010]
+[Repealed by Act 9 of 2019]

@@ -1,4 +1,14 @@
-# 31. Protection of officers
-Part: PART IV ENFORCEMENT AND MISCELLANEOUS
+# 31. Protection from personal liability
+Part: PART 4 ENFORCEMENT AND MISCELLANEOUS
 
-No person shall be personally liable in respect of any act done by him in the execution or purported execution of this Act and within the scope of his employment if he did it in the honest belief that his duty under this Act required or entitled him to do it.
+No liability shall lie personally against any of the following individuals who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act:
+
+(a) the Chief Executive;
+
+(b) any police officer;
+
+(c) any authorised officer;
+
+(d) any other person acting under the Chief Executive’s direction.
+
+[9/2016]

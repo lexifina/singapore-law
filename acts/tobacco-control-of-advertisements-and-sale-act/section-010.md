@@ -1,24 +1,26 @@
-# 10. Prohibition on supply to persons below age of 18 years
-Part: PART III CONTROL OF SALE OF TOBACCO PRODUCTS
+# 10. Prohibition on supply to under-aged persons
+Part: PART 3 CONTROL OF SALE OF TOBACCO PRODUCTS
 
-(1) Any person who, directly or indirectly —
+(1) Any person who, directly or indirectly, does any of the following in Singapore:
 
-(a) sells any tobacco product to a person below the age of 18 years;
+(a) sells any tobacco product to an under-aged person;
 
-(b) buys or acquires any tobacco product for the purpose of giving it, whether or not for a consideration, to a person below the age of 18 years; or
+(b) buys or acquires any tobacco product for the purpose of giving it, whether or not for a consideration, to an under-aged person;
 
-(c) gives or furnishes any tobacco product to a person below the age of 18 years, shall be guilty of an offence and shall be liable on conviction for —
+(c) gives or furnishes any tobacco product to an under-aged person, shall be guilty of an offence and shall be liable on conviction for —
 
-(i) an offence under paragraph (a) to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000;
+(d) an offence under paragraph (a) to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000;
 
-(ii) an offence under paragraph (b) to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000; or
+(e) an offence under paragraph (b) to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000; or
 
-(iii) an offence under paragraph (c) to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000.
+(f) an offence under paragraph (c) to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000.
 
-(2) It shall be a defence to any prosecution for an offence under subsection (1) if a person proves that he —
+[9/2016; 46/2017]
 
-(a) had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the tobacco 10 CAP. 309 Advertisements and Sale) 2011 Ed.
+(2) It is a defence to any prosecution for an offence under subsection (1) if a person proves that the person —
 
-product was sold, given or furnished was not below the age of 18 years; or
+(a) had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the tobacco product was sold, given or furnished was not an under-aged person; or
 
-(b) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not below the age of 18 years, and that it was reasonable to and he did accept that evidence as correct.
+(b) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not an under-aged person, and that it was reasonable to and the firstmentioned person did accept that evidence as correct.
+
+[46/2017]

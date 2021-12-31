@@ -1,18 +1,24 @@
-# 11. Control of use of tobacco products by young persons
-Part: PART III CONTROL OF SALE OF TOBACCO PRODUCTS
+# 11. Control of use of tobacco products by under-aged persons
+Part: PART 3 CONTROL OF SALE OF TOBACCO PRODUCTS
 
-(1) Any person who, being below the age of 18 years, uses any tobacco product in a public place or on a road, or buys or has in his possession, whether for his own use or not, any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
+(1) A person who, being an under-aged person —
 
-[35/2002; 17/2010]
+(a) uses or has in the person’s possession, in a public place or on a road in Singapore, any tobacco product; or
 
-(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, using or about to use any tobacco product, the officer may seize any tobacco product in the possession of such person.
+(b) buys in Singapore any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
 
-[17/2010]
+[9/2016; 46/2017]
 
-(3) In this section —
+(2) For the purposes of subsection (1), it does not matter whether the possession or the buying of the tobacco product by the person is for the person’s own use or for someone else to use.
 
-‘‘public place’’ means the premises of a school within the meaning of the Education Act (Cap. 87) or any premises to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+[9/2016]
 
-‘‘road’’ has the same meaning as in the Road Traffic Act (Cap. 276).
+(3) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being an under-aged person, using or about to use any tobacco product or in possession of any tobacco product, the officer may seize the tobacco product.
 
-[17/2010]
+[9/2016; 46/2017]
+
+(4) In this section —
+
+“public place” means the premises of a school within the meaning given by the Education Act 1957 or any premises to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+
+“road” has the meaning given by the Road Traffic Act 1961.

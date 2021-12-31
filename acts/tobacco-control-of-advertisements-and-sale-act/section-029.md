@@ -1,28 +1,34 @@
 # 29. Forfeiture
-Part: PART IV ENFORCEMENT AND MISCELLANEOUS
+Part: PART 4 ENFORCEMENT AND MISCELLANEOUS
 
-(1) Any advertisement, product or vending machine seized in exercise of any power conferred under this Act shall be liable to forfeiture.
+(1) Any thing seized in exercise of any power conferred under this Act is liable to forfeiture.
 
-(2) An order for the forfeiture or for the release of any advertisement, product or vending machine seized in exercise of any power conferred by this Act shall be made by the court before which the prosecution with regard thereto has been held.
+[9/2016]
 
-(3) An order for the forfeiture of the advertisement, product or vending machine shall be made if it is proved to the satisfaction of the court that —
+(2) An order for the forfeiture or for the release of any thing seized in exercise of any power conferred by this Act must be made by the court before which the prosecution with regard thereto has been held.
+
+[9/2016]
+
+(3) An order for the forfeiture of the thing seized must be made if it is proved to the satisfaction of the court that —
 
 (a) an offence under this Act has been committed; and
 
-(b) the advertisement, product or vending machine was the subject-matter of or was used in the commission of the offence notwithstanding that no person may have been convicted of that offence.
+(b) the thing seized was the subject matter of or was used in the commission of the offence even though no person may have been convicted of that offence.
 
-(4) In the absence of any prosecution with regard to any advertisement, product or vending machine seized in the exercise of any power conferred by this Act, the advertisement, product or vending machine shall be deemed to be forfeited at the expiration of one month from the date of the seizure unless a claim thereto is made before then in accordance with subsection (5).
+[9/2016]
 
-(5) A person asserting that he is the owner of any advertisement, product or vending machine seized and that the advertisement, product or vending machine is not liable to forfeiture may personally, or by his agent authorised in writing, make a claim by giving written notice to the Chief Executive.
+(4) In the absence of any prosecution with regard to any thing seized in the exercise of any power conferred by this Act, the thing is deemed to be forfeited at the expiry of one month from the date of the seizure unless a claim to the thing is made before then in accordance with subsection (5).
 
-[4/2001]
+[9/2016]
 
-24 CAP. 309 Advertisements and Sale) 2011 Ed.
+(5) A person asserting that the person is the owner of any thing seized and that the thing is not liable to forfeiture may personally, or by the person’s agent authorised in writing, make a claim by giving written notice to the Chief Executive.
 
-(6) On receipt of such notice, the Chief Executive may direct that the advertisement, product or vending machine be released or may refer the matter to a court for decision.
+[9/2016]
 
-[4/2001]
+(6) On receipt of the notice, the Chief Executive may direct that the thing seized be released or may refer the matter to a court for decision.
 
-(7) All things forfeited or deemed to be forfeited shall be delivered to the Chief Executive and shall be disposed of in accordance with the directions of the Minister.
+[9/2016]
 
-[4/2001]
+(7) All things forfeited or deemed to be forfeited must be delivered to the Authority or an officer of the Authority and must be disposed of according to the Chief Executive’s directions.
+
+[9/2016]

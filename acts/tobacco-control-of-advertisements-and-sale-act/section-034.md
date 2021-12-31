@@ -1,18 +1,20 @@
 # 34. Composition of offences
-Part: PART IV ENFORCEMENT AND MISCELLANEOUS
+Part: PART 4 ENFORCEMENT AND MISCELLANEOUS
 
-(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting 2011 Ed. Advertisements and Sale) CAP. 309 25
+(1) Subject to subsection (4), the Chief Executive or any person authorised by the Chief Executive in writing may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-from a person reasonably suspected of having committed the offence a sum not exceeding —
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(b) $5,000.
 
-(b) $2,000, whichever is the lower.
+[9/2019]
 
-[4/2001; 35/2002; 17/2010]
+(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
-(2) The Minister may make regulations to prescribe the offences which may be compounded.
+[9/2019]
 
-(3) Where the person reasonably suspected of having committed an offence under this Act was below the age of 18 years at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
+(3) The Minister may make regulations to prescribe the offences which may be compounded.
 
-[35/2002]
+(4) Where the person reasonably suspected of having committed an offence under this Act was an under-aged person at the time of the alleged offence (called the under-aged offender), the offence may be compounded if the under-aged offender and the parents or guardian of the under-aged offender first attend counselling at any place that the Chief Executive may specify.
+
+[9/2019]

@@ -1,28 +1,38 @@
 # 23. Powers of police and authorised officers
-Part: PART IV ENFORCEMENT AND MISCELLANEOUS
+Part: PART 4 ENFORCEMENT AND MISCELLANEOUS
 
-(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or authorised officer and produced before a Magistrate’s Court or a District Court (referred to in this section as a Court).
+(1) If a police officer or an authorised officer reasonably suspects that a person has committed or is committing an offence under this Act, the officer may do all or any of the following:
 
-(2) Notwithstanding any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing the person before a Court or to a police station, serve upon the person a notice in such form as may be determined under section 32 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
+(a) require the person to furnish evidence of the person’s identity;
 
-(3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer or authorised officer may require such evidence of identity as he may consider necessary to be furnished by the person.
+(b) search any bag or thing belonging to or in the possession of the person;
 
-(4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer or authorised officer, as the case may be, and produced by him to the Court if so required by the Court.
+(c) require the person to reveal the contents of the person’s pockets, if any;
 
-(5) Where an accused person appears before a Court in accordance with a notice served under subsection (2), the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it under subsection (1).
+(d) arrest the person without warrant.
 
-(6) If a person upon whom a notice has been served under subsection (2) fails to appear before a Court in accordance with the notice, the Court may issue a warrant for the arrest of that person.
+[9/2016]
 
-(7) Where a person arrested in pursuance of a warrant issued under subsection (6) is produced before a Court, the Court shall —
+(2) Any person arrested under subsection (1)(d) must be produced before a Magistrate’s Court or a District Court (called in this section a Court) within 48 hours after the person is arrested.
 
-2011 Ed. Advertisements and Sale) CAP. 309 19
+[9/2016]
 
-(a) proceed as though he were produced before it under subsection (1); and
+(3) Despite any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing the person before a Court or to a police station, serve upon the person a notice in the form determined under section 32 requiring the person to attend at the Court, at the time and on the date specified in the notice.
 
-(b) at the conclusion of such proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served under subsection (2).
+(4) A duplicate of the notice served under subsection (3) must be prepared by the police officer or authorised officer (as the case may be) and produced by the police officer or authorised officer to the Court if so required by the Court.
+
+(5) Where an accused person appears before a Court in accordance with a notice served under subsection (3), the Court is to take cognizance of the offence alleged and proceed as though the accused person were produced before it under subsection (2).
+
+(6) If a person upon whom a notice has been served under subsection (3) fails to appear before a Court in accordance with the notice, the Court may issue a warrant for the arrest of that person.
+
+(7) Where a person arrested pursuant to a warrant issued under subsection (6) is produced before a Court, the Court is to —
+
+(a) proceed as though the person were produced before it under subsection (2); and
+
+(b) at the conclusion of such proceedings, call upon the person to show cause why the person should not be punished for failing to attend in compliance with the notice served under subsection (3).
 
 (8) If due cause is not shown by the person under subsection (7), the Court may —
 
-(a) order him to pay a penalty not exceeding $2,000; or
+(a) order the person to pay a penalty not exceeding $2,000; or
 
-(b) commit him to prison for a term not exceeding one month.
+(b) commit the person to prison for a term not exceeding one month.
