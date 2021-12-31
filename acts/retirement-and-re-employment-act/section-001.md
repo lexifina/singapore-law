@@ -1,6 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Retirement and Re-employment Act.
-
-[4/2011]
+This Act is the Retirement and Re-employment Act 1993.
