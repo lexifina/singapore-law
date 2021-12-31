@@ -1,6 +1,6 @@
 # 3. Remainders and reversions
 
-(1) All estates or interests in remainder or reversion not disposed of by a settlement, and reverting to the settlor, or descending to the next‑of‑kin of a testator, shall be deemed to be estates coming to such settlor or next‑of‑kin, under or by virtue of the settlement.
+(1) All estates or interests in remainder or reversion not disposed of by a settlement, and reverting to the settlor, or descending to the next-of-kin of a testator, shall be deemed to be estates coming to such settlor or next-of-kin, under or by virtue of the settlement.
 
 How court to determine
 

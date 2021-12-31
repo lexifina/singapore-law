@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Settled Estates Act.
+This Act is the Settled Estates Act 1934.

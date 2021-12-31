@@ -1,43 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY SETTLED ESTATES ACT 1934
 
-SETTLED ESTATES ACT (CHAPTER 293)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Settled Estates Act. It is not part of the Act.
+1. Ordinance 19 of 1934 — Settled Estates Ordinance, 1934 Bill : G.N. No. 79/1934 First Reading : 12 February 1934 Second and Third Readings : 16 April 1934 Commencement : 1 January 1935 Note: Previously in the Civil Procedure Code (Ordinance No. 102, 1926 Revised Edition).
 
-1. Ordinance 19 of 1934 — Settled Estates Ordinance 1934
+2. 1936 Revised Edition — Settled Estates Ordinance (Chapter 52) Operation : 1 September 1936 3. 1955 Revised Edition — Settled Estates Ordinance (Chapter 20) Operation : 1 July 1956 4. 1970 Revised Edition — Settled Estates Act (Chapter 39) Operation : 1 March 1971 5. 1985 Revised Edition — Settled Estates Act (Chapter 293) Operation : 30 March 1987 6. Act 7 of 2009 — Civil Law (Amendment) Act 2009 (Amendments made by section 7 read with item (7) of the Schedule to the above Act) Bill : 38/2008 First Reading : 17 November 2008 Second and Third Readings : 19 January 2009 Commencement : 1 March 2009 (section 7 read with item (7)(a) of the Schedule) 2 March 2010 (section 7 read with item (7)(b) of the Schedule) 7. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(43) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(43) of the Second Schedule) 8. 2013 Revised Edition — Settled Estates Act (Chapter 293) Operation : 31 August 2013 9. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 37 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 37) 10. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 145 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 145 of the Schedule)
 
-Date of First Reading : 12 February 1934
+Abbreviations
 
-Date of Second and Third Readings : 16 April 1934
-
-Date of commencement : 1 January 1935
-
-2. 1936 Edition — Settled Estates Ordinance (Chapter 52)
-
-Date of operation : 5 January 1936
-
-3. 1955 Edition — Settled Estates Ordinance (Chapter 20)
-
-Date of operation : 1 January 1955
-
-4. 1970 Revised Edition — Settled Estates Act (Chapter 39)
-
-Date of operation : 1 March 1971
-
-5. 1985 Revised Edition — Settled Estates Act (Chapter 293)
-
-Date of operation : 30 March 1987
-
-6. Act 7 of 2009 — Civil Law (Amendment) Act 2009 (Consequential amendments made to Act by)
-
-Date of First Reading : 17 November 2008 (Bill No. 38/2008 published on 18 November 2008)
-
-Date of Second and Third Readings : 19 January 2009
-
-Dates of commencement : 1 March 2009 (except item 7(b) of the Schedule) 2 March 2010 (item 7(b) of the Schedule)
-
-7. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 July 2008 (Bill No. 11/2008 published on 22 July 2008)
-
-Date of Second and Third Readings : 16 September 2008 Date of commencement : 1 March 2010 (except paragraph (i) of item 1(8)(a), item 1(8)(b) and item 1(41) of the Second Schedule)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

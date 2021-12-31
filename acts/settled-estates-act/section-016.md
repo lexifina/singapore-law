@@ -8,6 +8,10 @@
 
 (b) the Official Assignee on behalf of bankrupts; and
 
-(c) deputies appointed or deemed to be appointed by the High Court for persons who lack capacity under the Mental Capacity Act (Cap. 177A) with power in relation to such persons for the purposes of this Act, on behalf of such persons.
+(c) either of the following persons, on behalf of an individual who lacks capacity within the meaning of the Mental Capacity Act 2008:
 
-[21/2008; 7/2009]
+(i) a donee of a lasting power of attorney which is granted by that individual under the Mental Capacity Act 2008, and under which that individual confers on the donee authority to make decisions in relation to that individual for the purposes of this Act;
+
+(ii) a deputy who is appointed or deemed to be appointed for that individual under the Mental Capacity Act 2008, and who is conferred power to make decisions in relation to that individual for the purposes of this Act.
+
+[16/2016; 40/2019]

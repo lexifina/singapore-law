@@ -2,9 +2,9 @@
 
 In this Act —
 
-“court” means the High Court or a judge when sitting in open court;
+“court” means the General Division of the High Court or a Judge sitting in open court in the General Division of the High Court;
 
-“judge” means a judge sitting in chambers;
+“judge” means a Judge sitting in chambers in the General Division of the High Court;
 
 “settled estates” —
 
@@ -14,4 +14,4 @@ In this Act —
 
 “settlement” means any statute, deed, agreement, will or other instrument, or any number of such instruments, under or by virtue of which any immovable property, or any estates or interests therein, stand limited to, or in trust for, any person or persons, by way of succession, including any such instruments affecting the estates of any one or more of such persons exclusively.
 
-[7/2009]
+[40/2019]
