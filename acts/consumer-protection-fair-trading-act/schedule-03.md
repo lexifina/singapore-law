@@ -1,35 +1,25 @@
 # THIRD SCHEDULE
 
-Section 10(6)
+[Repealed by Act 25 of 2016]
 
-CONSTITUTION AND PROCEEDINGS OF INJUNCTION PROPOSALS REVIEW PANEL
+FOURTH SCHEDULE
 
-1. Subject to any direction under paragraph 7, all the members of the Panel shall be present to constitute a quorum for a meeting of the Panel and any decision in writing signed by all the members of the Panel shall be as valid and effectual as if it had been made or reached at a meeting of the Panel where all its members were present.
+Sections 12(9) and 42
 
-2. The Panel may meet for the purposes of its inquiry, adjourn or otherwise regulate the conduct of its inquiry as the members think fit.
+MODIFICATIONS TO PROVISIONS OF LIMITATION ACT 1959
 
-3. The Chairman may at any time summon a meeting of the Panel.
+1. In the case of an action under section 6, subsection (1) of section 24 of the Limitation Act 1959 is replaced by the following subsection:
 
-4. All members of the Panel shall vote on any question arising at the meeting (subject to any direction under paragraph 7) and such question shall be determined by a majority of votes.
+“(1) If, on the date after which the period of limitation begins to run, the person to whom an action under section 6 of the Consumer Protection (Fair Trading) Act 2003 accrued was under a disability, the action may be brought at any time before the expiry of one year after the date when the person ceased to be under a disability or died, whichever event first occurred, even though the period of limitation has expired.”.
 
-5. The supplier to whom the proposal under consideration by the Panel relates shall not have the right to be heard by the Panel, whether in person or by counsel, unless the Panel in its absolute discretion otherwise allows.
+2. In the case of an action under section 8(6), subsection (1) of section 24 of the Limitation Act 1959 is replaced by the following subsection:
 
-6. A member of the Panel shall declare to the Minister, or any other person authorised by the Minister, the nature and extent of all conflicts of interest or potential conflicts of interest, if any, with his duties or interests as a member of the Panel arising from —
+“(1) If, on the date after which the period of limitation begins to run, the person to whom an action under section 8(6) of the Consumer Protection (Fair Trading) Act 2003 accrued was under a disability, the action may be brought at any time before the expiry of one year after the date when the person ceased to be under a disability or died, whichever event first occurred, even though the period of limitation has expired.”.
 
-(a) his holding of any office;
+3. In the case of an action under any regulations made under section 11, subsection (1) of section 24 of the Limitation Act 1959 is replaced by the following subsection:
 
-(b) his interest in any contract;
+“(1) If, on the date after which the period of limitation begins to run, the person to whom an action under any regulations made under section 11 of the Consumer Protection (Fair Trading) Act 2003 accrued was under a disability, the action may be brought at any time before the expiry of one year after the date when the person ceased to be under a disability or died, whichever event first occurred, even though the period of limitation has expired.”.
 
-(c) his possession or ownership of any property;
+4. Sections 24A, 24B and 24C of the Limitation Act 1959 do not apply to actions under this Act.
 
-(d) any direct or indirect relationship with a supplier or consumer affected by a proposal referred to in section 10(5)(a); or
-
-2009 Ed. (Fair Trading) CAP. 52A 23
-
-THIRD SCHEDULE — continued
-
-(e) his connection or association with any trade or consumer body.
-
-7. Where the Minister, or any other person authorised by the Minister, is satisfied that a member of the Panel is unable to carry out his duties properly and effectively because of any conflict of interest or potential conflict of interest referred to in paragraph 6, the Minister may replace that member or direct that member to abstain from taking part in any proceedings relating to any matter affected by his conflict of interest or potential conflict of interest.
-
-8. In the event that the Chairman is unable, by reason of illness, leave of absence or any other cause, to exercise any of the functions of his office, the Deputy Chairman shall exercise those functions.
+[25/2016]

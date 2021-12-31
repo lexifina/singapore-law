@@ -1,4 +1,5 @@
 # 4. Meaning of unfair practice
+Part: PART 2 UNFAIR PRACTICES
 
 It is an unfair practice for a supplier, in relation to a consumer transaction —
 
@@ -8,8 +9,10 @@ It is an unfair practice for a supplier, in relation to a consumer transaction �
 
 (c) to take advantage of a consumer if the supplier knows or ought reasonably to know that the consumer —
 
-(i) is not in a position to protect his own interests; or
+(i) is not in a position to protect his or her own interests;
+
+or
 
 (ii) is not reasonably able to understand the character, nature, language or effect of the transaction or any matter related to the transaction; or
 
-(d) without limiting the generality of paragraphs (a), (b) and (c), to do anything specified in the Second Schedule.
+(d) without limiting paragraphs (a), (b) and (c), to do anything specified in the Second Schedule.

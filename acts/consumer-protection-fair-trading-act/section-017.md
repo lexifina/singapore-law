@@ -1,7 +1,16 @@
-# 17. Parol evidence rule abolished
+# 17. Relation to other remedies, etc.
+Part: PART 3 ADDITIONAL CONSUMER RIGHTS IN RESPECT OF NON-CONFORMING GOODS
 
-(1) Notwithstanding sections 93 and 94 of the Evidence Act (Cap. 97), parol or extrinsic evidence establishing the existence of an express warranty is admissible in any action relating to a consumer transaction between a consumer and a supplier even though it adds to, varies or contradicts a written contract.
+(1) If the transferee requires the transferor to repair or replace the goods, the transferee must not act under subsection (2) until the transferee has given the transferor a reasonable time in which to repair or replace (as the case may be) the goods.
 
-(2) Subsection (1) shall not be applicable to establish the existence of any express warranty in respect of goods or services intended for business use.
+[7/2012]
 
-18 CAP. 52A (Fair Trading) 2009 Ed.
+(2) The transferee acts under this subsection if —
+
+(a) the transferee rejects the goods and terminates the contract for breach of condition; or
+
+(b) the transferee requires the goods to be repaired or replaced, as the case may be.
+
+[12E
+
+[7/2012]

@@ -1,33 +1,86 @@
-# 10. Injunction Proposals Review Panel
+# 10. Injunction against person from knowingly abetting, aiding, permitting or procuring supplier to engage in unfair practice
+Part: PART 2 UNFAIR PRACTICES
 
-(1) The Minister may, by notification in the Gazette, appoint an Injunction Proposals Review Panel consisting of —
+(1) The District Court or General Division of the High Court may, on the application of the Commission, grant an injunction restraining a person from knowingly abetting, aiding, permitting or procuring a supplier to engage in an unfair practice if —
 
-(a) a Chairman;
+(a) the District Court or General Division of the High Court is satisfied that the person has knowingly abetted, aided, permitted or procured the supplier to engage in the unfair practice; or
 
-(b) a Deputy Chairman who shall be a public officer or an officer of any statutory board; and
+(b) the District Court or General Division of the High Court is satisfied that, in the event that an injunction is not granted, it is likely that the person will knowingly abet, aid, permit or procure the supplier to engage in the unfair practice.
 
-(c) at least one other member.
+[25/2016; 10/2018; 40/2019]
 
-(2) The members of the Panel shall hold office for such period as may be determined by the Minister and shall, on ceasing to be a member, be eligible for reappointment.
+(2) An order under subsection (1)(a) may be made whether or not it appears to the District Court or General Division of the High Court that the person intends to continue to abet, aid, permit or procure the supplier to engage in the unfair practice.
 
-14 CAP. 52A (Fair Trading) 2009 Ed.
+[25/2016; 40/2019]
 
-(3) The Minister may, at any time, revoke the appointment of any member of the Panel without assigning any reason.
+(3) An order under subsection (1)(b) may be made whether or not —
 
-(4) A member of the Panel may resign his office at any time by giving notice in writing to the Minister.
+(a) the person has previously abetted, aided, permitted or procured the supplier to engage in the unfair practice; or
 
-(5) The Panel shall have the power to do anything necessary, incidental or conducive for the purpose of discharging its functions under this Act and, in particular, may —
+(b) there is any likelihood of irreparable harm to any consumer or class of consumers —
 
-(a) consider any proposal by a specified body to apply for a declaration or an injunction against a supplier under section 9 referred to the Panel by the Chairman; and
+(i) if the person abets, aids, permits or procures the supplier to engage in the unfair practice; or
 
-(b) if the Panel is satisfied that it is in the public interest, endorse the proposal referred to in paragraph (a).
+(ii) if the supplier engages in the unfair practice.
 
-(6) The constitution and the proceedings of the Panel shall be governed by the provisions in the Third Schedule.
+[25/2016]
 
-(7) No act or thing done by or under the authority of the Panel shall be invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them.
+(4) Pending the determination of an application by the Commission made under subsection (1), the District Court or General Division of the High Court hearing the application may grant an interim injunction restraining the person from knowingly abetting, aiding, permitting or procuring the supplier to engage in an unfair practice, if the District Court or General Division of the High Court considers it desirable to do so.
 
-(8) Subject to subsection (9), except insofar as may be necessary for the purposes of giving effect to any decision of the Panel, confidentiality shall be maintained in all proceedings conducted by the Panel.
+[25/2016; 10/2018; 40/2019]
 
-(9) The Chairman shall, as soon as practicable after the end of each calendar year, submit to the Minister an annual report on the activities of the Panel.
+(5) A District Court or the General Division of the High Court may grant an interim injunction under subsection (4) whether or not —
 
-(10) No action or proceedings shall lie against the Panel or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+(a) it appears to the District Court or General Division of the High Court that the person intends to continue to abet, aid, permit or procure the supplier to engage in the unfair practice;
+
+(b) the person has previously abetted, aided, permitted or procured the supplier to engage in the unfair practice; or
+
+(c) there is any likelihood of irreparable harm to any consumer or class of consumers —
+
+(i) if the person abets, aids, permits or procures the supplier to engage in the unfair practice; or
+
+(ii) if the supplier engages in the unfair practice.
+
+[25/2016; 40/2019]
+
+(6) If the District Court or General Division of the High Court makes an injunction under subsection (1) against a person, the District Court or General Division of the High Court may, in addition, order —
+
+(a) that the person must publish, at the person’s expense, for a specified period the particulars of the injunction in the form and manner and at the intervals as will secure prompt and adequate publicity for the injunction against the person;
+
+(b) that the person must reimburse the Commission for the cost of publishing or causing to be published all or any of the following:
+
+(i) a notice that the Commission has commenced an action under this section against the person;
+
+(ii) a notice that an interim injunction has been granted against the person under subsection (4), and details of the interim injunction;
+
+(iii) a notice that an injunction has been granted against the person under subsection (1), and details of the injunction; and
+
+(c) where the person is an individual, that the individual must, if a notifiable event occurs in the specified period, inform the Commission in writing within 14 days after the event.
+
+[25/2016; 10/2018; 40/2019]
+
+(7) For the purposes of subsection (6)(b)(ii) and (iii), a reference to the details of an injunction or interim injunction granted against a person includes —
+
+(a) the particulars of the injunction or interim injunction, as the case may be;
+
+(b) the name of the person; and
+
+(c) whether the person is subject to any other subsisting injunction pursuant to any other action commenced under this section.
+
+[25/2016]
+
+(8) Subject to subsection (9), a reference to a specified period in subsection (6)(c) is a reference to such period specified by the District Court or General Division of the High Court, not exceeding 5 years or any other period that the Minister may prescribe in place of the 5 years.
+
+[25/2016; 40/2019]
+
+(9) If an individual fails to comply with an order made under subsection (6)(c), the District Court or General Division of the High Court which made the injunction may, on the application of the Commission, extend the specified period mentioned in the order to any time not exceeding 10 years after the date on which the order under subsection (6)(c) was made, or any other period that the Minister may prescribe in place of the 10 years.
+
+[25/2016; 10/2018; 40/2019]
+
+(10) For the purposes of subsections (8) and (9), any period prescribed by the Minister applies to any application made by the Commission under subsection (1) or (9) (as the case may be) on or after the date of the prescription.
+
+[25/2016; 10/2018]
+
+(11) Subsection (9) applies despite any proceedings which may be commenced against the individual for contempt of court.
+
+[25/2016]

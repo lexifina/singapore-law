@@ -1,35 +1,44 @@
-# 20. Regulations
+# 20. Power to require documents, articles or information
+Part: PART 3A INVESTIGATION POWERS
 
-(1) The Minister may make such regulations as may be necessary or expedient for the purposes of this Act.
+(1) The Commission may, by written notice to a supplier mentioned in section 19(1)(a) or a person mentioned in section 19(1)(b) (called in this Part the person under investigation), require the person under investigation to produce to the Commission a specified document or article, or to provide the Commission with specified information, which the Commission considers to be relevant to an investigation mentioned in section 19(1).
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations —
+[25/2016; 10/2018]
 
-(a) exempting any class of supplier or any class of goods or services or transactions from the application of this Act or any provision of this Act, and imposing conditions for that exemption;
+(2) A notice under subsection (1) must —
 
-2009 Ed. (Fair Trading) CAP. 52A 19
+(a) indicate the purpose for which the specified document or article or specified information is required by the Commission; and
 
-(b) modifying the application of any provision of this Act to any class of supplier or any class of goods or services or transactions;
+(b) be accompanied by a copy of the offences under sections 27, 28, 29 and 30.
 
-(c) controlling or prohibiting any practice in relation to any consumer transaction;
+[25/2016; 10/2018]
 
-(d) prescribing information or notices that must be provided to consumers by suppliers with respect to any consumer transaction;
+(3) The Commission may also specify in the notice —
 
-(e) prescribing the form or terms of contracts to be used in any consumer transaction and any information to be contained therein;
+(a) the time and place at which the specified document or article is to be produced or specified information is to be provided; and
 
-(f) requiring suppliers to maintain books, accounts (including trust accounts) or records in relation to any consumer transaction, and prescribing the form and mode of keeping such books, accounts and records;
+(b) the manner and form in which the specified document or article or specified information is to be produced or provided.
 
-(g) prescribing or adopting, with or without modification, codes, standards or rules governing the conduct of suppliers engaged in any consumer transaction;
+[25/2016; 10/2018]
 
-(h) prescribing the rights and obligations of parties in relation to a consumer transaction involving any practice regulated under this Act or any regulations made thereunder, including the right to sue for the purpose of enforcing such rights or obligations in circumstances specified therein;
+(4) The power under this section to require a person under investigation to produce a document includes the power —
 
-(i) specifying limitation periods for any action under this Act or any regulations made thereunder;
+(a) if the document is produced —
 
-(j) specifying, for the purposes of section 7(1)(d), actions under provisions in any regulations made under this section;
+(i) to take copies of, or extracts from, the document; and
 
-(k) specifying dispute resolution schemes for the purposes of section 7(10); and
+(ii) to require that person under investigation, or any other person who is a present or past officer of that person under investigation, or is or was at any time employed by that person under investigation, to provide an explanation of the document; or
 
-(l) modifying the application of section 6(2), in relation to any class of supplier or any class of goods or services or transactions, where multiple actions involving the same unfair practice are commenced under section 6(1) by the same consumer.
+(b) if the document is not produced, to require the person under investigation or the other person mentioned in paragraph (a)(ii) to state, to the best of that person’s knowledge and belief, where the document is.
 
-[15/2008]
+[25/2016]
 
-20 CAP. 52A (Fair Trading) 2009 Ed.
+(5) In subsection (1), “specified” means —
+
+(a) specified or described in the notice; or
+
+(b) falling in a category which is specified or described in the notice.
+
+[12H
+
+[25/2016]

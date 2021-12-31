@@ -1,21 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY CONSUMER PROTECTION (FAIR TRADING) ACT 2003
 
-CONSUMER PROTECTION (FAIR TRADING) ACT (CHAPTER 52A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Consumer Protection (Fair Trading) Act. It is not part of the Act.
+1. Act 27 of 2003 — Consumer Protection (Fair Trading) Act 2003 Bill : 24/2003 First Reading : 16 October 2003 Second Reading : 10 November 2003 Third reading : 11 November 2003 Commencement : 1 March 2004 2. 2004 Revised Edition — Consumer Protection (Fair Trading) Act (Chapter 52A) Operation : 31 December 2004 3. Act 15 of 2008 — Consumer Protection (Fair Trading) (Amendment) Act 2008 Bill : 10/2008 First Reading : 21 July 2008 Second and Third Readings : 25 August 2008 Commencement : 15 April 2009 (except section 8(b) and (c)) 1 April 2010 (section 8(b)) 4. 2009 Revised Edition — Consumer Protection (Fair Trading) Act (Chapter 52A) Operation : 31 July 2009 5. Act 7 of 2012 — Consumer Protection (Fair Trading) (Amendment) Act 2012 Bill : 3/2012 First Reading : 14 February 2012 Second and Third Readings : 9 March 2012 Commencement : 1 September 2012 6. Act 5 of 2014 — Subordinate Courts (Amendment) Act 2014 (Amendments made by section 11(9) read with item 6 of the Schedule to the above Act) Bill : 26/2013 First Reading : 11 November 2013 Second and Third Readings : 21 January 2014 Commencement : 7 March 2014 (section 11(9) read with item 6 of the Schedule) 7. G.N. No. S 387/2016 — Consumer Protection (Fair Trading) Act (Amendment of First Schedule) Order 2016 Commencement : 4 August 2016 8. Act 25 of 2016 — Consumer Protection (Fair Trading) (Amendment) Act 2016 Bill : 25/2016 First Reading : 15 August 2016 Second and Third Readings : 13 September 2016 Commencement : 9 December 2016 9. Act 10 of 2018 — Enterprise Singapore Board Act 2018 (Amendments made by section 69 of the above Act) Bill : 3/2018 First Reading : 8 January 2018 Second and Third Readings : 5 February 2018 Commencement : 1 April 2018 (section 69) 10. Act 33 of 2018 — Small Claims Tribunals (Amendment) Act 2018 (Amendments made by section 23(4) of the above Act) Bill : 23/2018 First Reading : 17 May 2018 Second and Third Readings : 9 July 2018 Commencement : 1 November 2019 (section 23(4)) 11. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 463 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 463) 12. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 27 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 27 of the Schedule)
 
-1. Act 27 of 2003 — Consumer Protection (Fair Trading) Act 2003
+Abbreviations
 
-Date of First Reading : 16 October 2003 (Bill No. 24/2003 published on 17 October 2003)
-
-Date of Second and Third Readings : 11 November 2003
-
-Date of commencement : 1 March 2004
-
-2. Act 15 of 2008 — Consumer Protection (Fair Trading) (Amendment) Act 2008
-
-Date of First Reading : 21 July 2008 (Bill No. 10/2008 published on 22 July 2008)
-
-Date of Second and Third Readings : 25 August 2008
-
-Date of commencement : 15 April 2009 (except section 8(b) and (c))
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

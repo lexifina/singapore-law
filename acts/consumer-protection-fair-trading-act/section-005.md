@@ -1,4 +1,5 @@
 # 5. Circumstances surrounding unfair practice
+Part: PART 2 UNFAIR PRACTICES
 
 (1) An unfair practice may occur before, during or after a consumer transaction.
 
