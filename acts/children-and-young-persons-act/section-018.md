@@ -1,6 +1,12 @@
-# 18. Powers of arrest General
-Part: PART II PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
+# 18. Power to examine children and persons in charge of them
+Part: PART 2 PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
 
-A protector may, during or after any inquiry referred to in section 8, 14 or 17, arrest or cause to be arrested any person reasonably believed to have committed an offence under section 5, 6, 7, 11, 12 or 13 and seize and detain any article or document which he may have reason to believe relates to the offence.
+(1) The Director-General, a protector or any person authorised in that behalf by the Director-General or a protector in writing may require any child or young person and any person who may appear to have the custody or control of the child or young person to appear before the Director-General or protector at any reasonable time and at any convenient place.
 
-General
+[30/2019]
+
+(2) The Director-General or a protector may examine the child or young person as to his or her reasons for entering or being in Singapore and may examine the person respecting the child or young person, and the child or young person and that person are legally bound to answer such questions truthfully to the best of their ability.
+
+[14
+
+[30/2019]

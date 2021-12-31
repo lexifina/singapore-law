@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Children and Young Persons Act.
+This Act is the Children and Young Persons Act 1993.

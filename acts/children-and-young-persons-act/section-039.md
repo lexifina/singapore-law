@@ -1,12 +1,38 @@
-# 39. Power to order parent or guardian to pay fine, etc., instead of child or young person
-Part: PART III JUVENILE COURT
+# 39. Jurisdiction of Youth Court
+Part: PART 3 YOUTH COURT
 
-(1) Where a child or young person is charged before a Juvenile Court with any offence for the commission of which a fine may be imposed and damages or costs or both may be awarded, and the Court is of the opinion that the case would be best met by the imposition of all or any of those penalties whether with or without any other punishment, the Court may, in such case, and shall, if the offender is a child, order that the fine imposed and damages or costs awarded be paid by the parent or guardian of the child or young person, unless the Court is satisfied that the parent or guardian cannot be found or that he has not conduced to the commission of the offence by neglecting to exercise due care of the child or young person.
+(1) Subject to the provisions of this section, no child or young person may be charged with or tried for any offence by a court of summary jurisdiction except a Youth Court.
 
-(2) Where a child or young person is charged with any offence, a Juvenile Court may order his parent or guardian to give security for his good behaviour.
+[27/2014]
 
-(3) Where a Juvenile Court thinks that a charge against a child or young person is proved, the Court may make an order on the parent or guardian under this section for the payment of damages or costs or requiring him to give security for the good behaviour of the child or young person, without proceeding to record a finding of guilt against the child or young person.
+(2) Where a child or young person is charged with any offence triable only by the General Division of the High Court, he or she must be tried by the General Division of the High Court unless —
 
-(4) An order under this section may be made against a parent or guardian who, having been required to attend, has failed to do so, but, subject to subsection (1), no such order shall be made without giving the parent or guardian an opportunity to be heard.
+(a) the Public Prosecutor applies to the Youth Court to try such offence; and
 
-(5) Any sum imposed and ordered to be paid by the parent or guardian under this section, or on forfeiture of any such security, may be recovered from him in the manner provided by the Criminal Procedure Code (Cap. 68) in like manner as if the order had been made on the conviction of the parent or guardian of the offence with which the child or young person was charged.
+(b) the legal representative of the child or young person concerned consents to the offence being tried by the Youth Court.
+
+[27/2014; 40/2019]
+
+(3) Where a charge is made jointly against a child or young person and a person who has attained 16 years of age, the charge must be heard by a court of appropriate jurisdiction other than a Youth Court.
+
+[27/2014]
+
+(4) Where, in the course of any proceedings before any court of appropriate jurisdiction other than a Youth Court, it appears that the person to whom the proceedings relate is a child or young person, the court may, despite subsection (1), proceed with the hearing and determination of the proceedings if it thinks fit.
+
+[27/2014]
+
+(5) A Youth Court has jurisdiction to try all offences which, but for subsections (1) and (2), would be triable only by a Magistrate’s Court, a District Court or the General Division of the High Court.
+
+[27/2014; 40/2019]
+
+(6) A person who has attained 16 years of age on the date of commencement of the hearing of the charge must not be tried for any offence by a Youth Court.
+
+[27/2014]
+
+(7) Where in the course of any trial before a Youth Court the child or young person to whom the trial relates attains 16 years of age, nothing in subsection (6) prevents the Youth Court, if it thinks fit, from proceeding with the trial and dealing with the child or young person in accordance with the provisions of this Act.
+
+[27/2014]
+
+(8) In this section, “legal representative”, in relation to a child or young person who is charged with an offence, includes any person assisting the child or young person in his or her defence to the charge.
+
+[33

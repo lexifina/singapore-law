@@ -1,16 +1,22 @@
-# 34. Place of sitting and persons who may be present
-Part: PART III JUVENILE COURT
+# 34. General consideration
+Part: PART 3 YOUTH COURT
 
-(1) A Juvenile Court shall sit as often as may be necessary for the purpose of exercising any jurisdiction conferred on it by this or any other Act.
+(1) Every court in dealing with a child or young person who is brought before it, either as being in need of care or protection, or as an offender or otherwise, is to do the following:
 
-(2) A Juvenile Court shall sit either in a different building or room from that in which sittings of courts other than Juvenile Courts are held, or on different days from those on which sittings of the other courts are held, and no person shall be present at any sitting of a Juvenile Court except —
+(a) in a proper case, take steps for removing the child or young person from undesirable surroundings, and for securing that proper provision is made for the education or training of the child or young person;
 
-(a) members and officers of the Court;
+(b) facilitate the protection and rehabilitation of the child or young person, and his or her reintegration with his or her family and with society;
 
-(b) parties to the case before the Court, their solicitors and counsel and witnesses and other persons directly concerned in that case;
+(c) have regard to the needs of, and risks faced by, the child or young person, and facilitate the prevention of —
 
-(c) bona fide representatives of newspapers or news agencies;
+(i) any recurrence of ill-treatment of the child or young person; or
 
-and
+(ii) any contravention or further contravention of any written law by the child or young person.
 
-(d) such other persons as the Court may specially authorise to be present.
+[30/2019]
+
+(2) A court is not to order a child below 10 years of age to be sent to a juvenile rehabilitation centre, remand home or place of detention unless for any reason, including the want of a fit person of his or her own religious persuasion who is willing to undertake the care of him or her, the court is satisfied that he or she cannot suitably be dealt with otherwise.
+
+[28
+
+[3/2011]

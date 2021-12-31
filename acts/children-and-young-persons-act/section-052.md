@@ -1,6 +1,8 @@
-# 52. Failure to comply with requirements of supervision order
-Part: PART III JUVENILE COURT
+# 52. Appeals
+Part: PART 3 YOUTH COURT
 
-If it appears on information to the Juvenile Court that a child or young person against whom a supervision order made under section 50 is in force has failed to comply with any of the requirements of the supervision order, the Court may make a fresh order against the child or young person under that section.
+Any child or young person or his or her parent or guardian, or the Director-General or a protector, who is dissatisfied with any judgment or order of a Youth Court may appeal to the General Division of the High Court against the judgment or order in accordance with the provision of any law in force for the time being regulating appeals to the General Division of the High Court from a District Court.
 
-[50
+[48
+
+[27/2014; 30/2019; 40/2019]

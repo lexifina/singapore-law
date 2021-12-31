@@ -1,12 +1,16 @@
-# 79. Prohibition against conveying certain articles to persons being detained in approved school, approved home, remand home or place of detention
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 79. Custody of children and young persons not released on bail
+Part: PART 4 REMAND HOMES
 
-Any person who without lawful authority —
+(1) The Minister may provide or appoint such remand homes as may be required for the purposes of this Act.
 
-(a) conveys, supplies or causes to be conveyed or supplied to any person being detained in an approved school, an approved home, a remand home or a place of detention; or
+(2) Whenever any person apparently below the age of 16 years has been arrested and is not released on bail, any police officer must, despite anything to the contrary in any other written law, cause that person to be remanded in a remand home until he or she can be brought before a court unless the officer certifies —
 
-(b) hides or places in an approved school, an approved home, a remand home or a place of detention for the use of any person being detained therein, any letter or document, or any intoxicating liquor, tobacco, drug, opiate, money, clothing, provisions, toiletry or any other article shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) that it is impracticable to do so;
 
-[75A
+(b) that he or she is of so unruly a character that he or she cannot be safely so remanded; or
 
-[20/2001]
+(c) that by reason of his or her state of health or of his or her mental or bodily condition it is inadvisable to so remand him or her.
+
+(3) The certificate must be produced to the court before which the person is brought.
+
+[53

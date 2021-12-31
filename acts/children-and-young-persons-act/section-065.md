@@ -1,16 +1,12 @@
-# 65. Control and management of approved schools and approved homes established under section 64
-Part: PART VI APPROVED SCHOOLS AND APPROVED HOMES
+# 65. Display of licence
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-(1) Approved schools and approved homes established by the Minister under section 64 shall be under the control and management of —
+(1) Every licensee must cause his, her or its licence to be permanently displayed in a conspicuous place in the home for children and young persons to which the licence relates where the licence can readily be seen by all persons having access to that home for children and young persons.
 
-(a) the Director; or
+[3/2011]
 
-(b) a governing board consisting of such persons as may be appointed by the Minister.
+(2) Any licensee who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
 
-[20/2001]
+[52D
 
-(2) In controlling and managing any approved school or approved home established under section 64, the Director or a governing board appointed under subsection (1) (b) shall have the powers, functions and duties conferred or imposed on the manager of an approved school or an approved home by this Act.
-
-[63
-
-[20/2001]
+[3/2011]

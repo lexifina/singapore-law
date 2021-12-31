@@ -1,10 +1,32 @@
-# 32. Constitution of Juvenile Court
-Part: PART III JUVENILE COURT
+# 32. Committee on Fostering
+Part: PART 2A FOSTERING
 
-(1) A Juvenile Court shall be presided over by a Magistrate nominated by the President.
+(1) The Minister may establish a Committee on Fostering consisting of such persons as the Minister thinks fit.
 
-(2) If at any time, by reason of illness or other emergency, the Magistrate nominated under subsection (1) is not available, any Magistrate, although not so nominated, may preside over a Juvenile Court.
+[30/2019]
 
-(3) The presiding Magistrate, when determining the method of dealing with a child or young person in respect of whom a written report is obtained by the Juvenile Court regarding his background, family history, school record or such other matters, shall sit with 2 advisers from a panel of advisers nominated by the President except that where it appears that the Court cannot without adjournment be fully constituted and that an adjournment would be inexpedient in the interests of justice, he may sit with one adviser or he may sit alone.
+(2) The members of the Committee on Fostering may be appointed by the Minister for such period as the Minister determines.
 
-(4) Except as modified or extended by this Act, the provisions of the Criminal Procedure Code (Cap. 68) shall apply to a Juvenile Court as if that Court were a Magistrate’s Court.
+[30/2019]
+
+(3) The functions of the Committee on Fostering are —
+
+(a) to periodically review cases where a child or young person is committed to the care of a foster parent under a voluntary care agreement or an order made under section 54(1)(b) or 56(2), or section 57 read with section 56; and
+
+(b) to advise the Director-General or a protector on —
+
+(i) whether a proper care plan is implemented by the foster parent for the child or young person; and
+
+(ii) if so, whether the foster parent is providing care, protection and supervision to the child or young person in accordance with the proper care plan.
+
+[30/2019]
+
+(4) In this section, “proper care plan” means a plan for the care of a child or young person which —
+
+(a) is formulated by the Director-General; or
+
+(b) if formulated by a protector or an approved welfare officer, meets such requirements as may be specified by the Director-General.
+
+[27B
+
+[30/2019]

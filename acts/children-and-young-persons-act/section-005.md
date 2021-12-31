@@ -1,62 +1,78 @@
-# 5. Ill-treatment of child or young person
-Part: PART II PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
+# 5. When child or young person in need of care or protection
+Part: PART 2 PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
 
-(1) A person shall be guilty of an offence if, being a person who has the custody, charge or care of a child or young person, he ill-treats the child or young person or causes, procures or knowingly permits the child or young person to be ill-treated by any other person.
+(1) For the purposes of this Act, a child or young person is in need of care or protection if —
 
-[20/2001]
+(a) the child or young person has no parent or guardian;
 
-(2) For the purposes of this Act, a person ill-treats a child or young person if that person, being a person who has the custody, charge or care of the child or young person —
+(b) the child or young person has been abandoned by his or her parent or guardian and despite reasonable inquiries the parent or guardian cannot be found, and no other suitable person is willing and able to exercise care or guardianship in respect of the child or young person;
 
-(a) subjects the child or young person to physical or sexual abuse;
+(c) the parent or guardian of the child or young person —
 
-(b) wilfully or unreasonably does, or causes the child or young person to do, any act which endangers or is likely to endanger the safety of the child or young person or which causes or is likely to cause the child or young person —
+(i) is unable or has neglected to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for the child or young person; or
 
-(i) any unnecessary physical pain, suffering or injury;
+(ii) is unfit or unable or has neglected to exercise proper supervision and control over the child or young person, and the child or young person is falling into bad association, or is exposed to moral danger, or is beyond control;
 
-(ii) any emotional injury; or
+(d) the child or young person has been, is being or is at risk of being ill-treated —
 
-(iii) any injury to his health or development; or
+(i) by his or her parent or guardian; or
 
-(c) wilfully or unreasonably neglects, abandons or exposes the child or young person with full intention of abandoning the child or young person or in circumstances that are likely to endanger the safety of the child or young person or to cause the child or young person —
+(ii) by any other person, and his or her parent or guardian, although knowing of such ill-treatment or risk, has not protected or is unlikely or unwilling to protect the child or young person from such ill-treatment;
 
-(i) any unnecessary physical pain, suffering or injury;
+(e) the child or young person needs to be examined, investigated or treated for the purpose of restoring or preserving his or her health or development and his or her parent or guardian neglects or refuses to have him or her so examined, investigated or treated;
 
-(ii) any emotional injury; or
+(f) the child or young person behaves in a manner that is, or is likely to be, harmful to himself or herself or to any person and —
 
-(iii) any injury to his health or development.
+(i) his or her parent or guardian is unable or unwilling to take necessary measures to remedy the situation; or
 
-[20/2001]
+(ii) the remedial measures taken by the parent or guardian fail;
 
-(3) For the purpose of subsection (2) (c), the parent or guardian of a child or young person shall be deemed to have neglected the child or young person in a manner likely to cause him physical pain, suffering or injury or emotional injury or injury to his health or development if the parent or guardian wilfully or unreasonably neglects to provide adequate food, clothing, medical aid, lodging, care or other necessities of life for the child or young person.
+(g) the child or young person suffers or is likely to suffer from emotional harm because the child or young person has been or is subject to emotional or psychological abuse by his or her parent or guardian;
 
-[20/2001]
+(h) the child or young person —
 
-(4) A person may be convicted of an offence under this section notwithstanding —
+(i) is a person in respect of whom a relevant offence has been or is believed to have been committed; or
 
-(a) that any actual suffering or injury on the part of the child or young person or the likelihood of any suffering or injury on the part of the child or young person was obviated by the action of another person; or
+(ii) is a member of the same household as another child or young person in respect of whom a relevant offence has been or is believed to have been committed, and the child or young person appears to be in danger of a similar offence being committed against him or her, and either the person who committed or is believed to have committed the offence or who has been convicted of the offence is the parent or guardian of the child or young person or a member of the same household as the child or young person, or the parent or guardian of the child or young person is unable, unlikely or unwilling to protect the child or young person from such offence; or
 
-(b) the death of the child or young person in respect of whom the offence is committed.
+(i) the child or young person is found to be —
 
-[20/2001]
+(i) destitute or wandering without any settled place of abode and without visible means of subsistence;
 
-(5) Subject to subsection (6), any person who is guilty of an offence under this section shall be liable on conviction —
+(ii) begging or receiving alms (whether or not there is any pretence of singing, playing, performing or offering anything for sale) or loitering for the purpose of so begging or receiving alms;
 
-(a) in the case where death is caused to the child or young person, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both; and
+(iii) engaged in carrying out illegal lotteries, illegal hawking, gambling or other undesirable activities; or
 
-(b) in any other case, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 4 years or to both.
+(iv) using or inhaling any intoxicating substance (as defined in the Intoxicating Substances Act 1987) for the purpose of inducing or causing in himself or herself a state of intoxication.
 
-[20/2001]
+[3/2011; 30/2019]
 
-(6) The court may, in lieu of or in addition to any punishment specified in subsection (5), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring such person to undergo such counselling, psychotherapy or other programme as may be specified therein.
+(2) Without limiting subsection (1)(g), the circumstances in which a child or young person may be regarded as being subject to emotional or psychological abuse by his or her parent or guardian under that subsection include any of the following:
 
-[20/2001]
+(a) the parent or guardian subjects the child or young person to persistent acts of rejection or degradation that are harmful to the child’s or young person’s wellbeing or sense of self-worth;
 
-(7) If a person who is ordered to execute a bond of good behaviour under subsection (6) fails to comply with any of the conditions of such bond, he shall —
+(b) the parent or guardian threatens to physically hurt, kill or abandon the child or young person, or places the child or young person or a related person of the child or young person in any dangerous situation;
 
-(a) if such bond is in lieu of a penalty under subsection (5), be liable to the penalty provided for in that subsection; or
+(c) the parent or guardian isolates the child or young person by consistently denying opportunities for the child or young person to communicate with any person;
 
-(b) if such bond is in addition to a penalty under subsection (5), be liable to a further fine not exceeding $20,000 or to a further term of imprisonment not exceeding 7 years or to both.
+(d) the parent or guardian confines the child or young person in any small space for the purpose of disciplining the child or young person;
+
+(e) the parent or guardian influences the child or young person to develop self-destructive, anti-social, criminal, deviant or other maladaptive behaviour;
+
+. Illustrations
+
+(a) The parent or guardian models, permits or encourages anti-social behaviour such as prostitution, performance in pornographic media, initiation of criminal activities, substance abuse or committing violence to any person.
+
+(b) The parent or guardian models, permits or encourages developmentally inappropriate behaviour by infantilising the child or young person.
+
+(c) The parent or guardian models, permits or encourages any other behaviour that would result in the exploitation or corruption of the child or young person.
+
+(f) the parent or guardian exposes the child or young person to, or places the child or young person at any risk of exposure to, any violence against a related person of the child or young person.
+
+[30/2019]
+
+(3) In this section, “related person”, in relation to a child or young person, means another person about whose safety or wellbeing the child or young person would reasonably be expected to be seriously concerned.
 
 [4
 
-[20/2001]
+[30/2019]

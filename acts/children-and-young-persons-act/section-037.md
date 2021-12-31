@@ -1,8 +1,12 @@
-# 37. Restrictions on punishment of children and young persons
-Part: PART III JUVENILE COURT
+# 37. Attendance at court of parent or guardian of child or young person charged with offence, etc.
+Part: PART 3 YOUTH COURT
 
-(1) A child shall not be sentenced or ordered to be imprisoned for any offence or be committed to prison in default of payment of a fine or costs.
+(1) Subject to subsection (2), where a child or young person is charged with any offence or is brought before a court under the provisions of this Act or any other Act —
 
-(2) A young person shall not be ordered to be imprisoned for any offence, or be committed to prison in default of a fine, damages or costs, unless the court certifies that he is of so unruly a character that he cannot be detained in a place of detention or an approved school.
+(a) his or her parent or guardian must, unless the court otherwise orders, attend before the court during all stages of the proceedings; and
 
-(3) Notwithstanding the provisions of any other written law, no child or young person shall be sentenced by any court other than the High Court to corporal punishment.
+(b) the court may compel the attendance of the parent or guardian as if he or she were required as a witness in the proceedings.
+
+(2) If it appears to a court to be necessary to do so in the interest of a child or young person, the court may require his or her parent or guardian to withdraw from the court.
+
+[31

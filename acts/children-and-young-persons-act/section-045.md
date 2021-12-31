@@ -1,44 +1,26 @@
-# 45. Power to convene family conference to deal with child or young person guilty of offence
-Part: PART III JUVENILE COURT
+# 45. Power of other courts to remit juvenile offenders to Youth Court
+Part: PART 3 YOUTH COURT
 
-(1) Without prejudice to section 44, the Juvenile Court may, for the purpose of dealing with a child or young person who has been found guilty of committing an offence (referred to in this section as the offender), convene a family conference in accordance with the prescribed requirements and a family conference so convened may deal with the offender by —
+(1) Any court by or before which a child or young person is found guilty of an offence may, if it thinks fit, remit the case to a Youth Court.
 
-(a) reprimanding the offender;
+[27/2014]
 
-(b) administering a formal caution to the offender in the prescribed manner against further committing any offence;
+(2) Where any such case is so remitted, the offender must be brought before a Youth Court accordingly, and the Youth Court may deal with the offender in any way in which it might have dealt with the offender if he or she had been tried and found guilty by the Youth Court.
 
-(c) requiring the offender to pay compensation to the victim of the offence in such manner and of such amount as may be determined by the family conference;
+[27/2014]
 
-(d) requiring the offender, in accordance with the prescribed requirements, to perform community service, not exceeding 240 hours in the aggregate, of such nature and at such time and place and subject to such conditions as may be specified by the family conference;
+(3) No appeal lies against an order of remission made under subsection (1) but nothing in this subsection affects any right of appeal against the verdict or finding on which such an order is founded.
 
-(e) requiring the offender to apologise to the victim of the offence in such manner as may be specified by the family conference; or
+(4) A person aggrieved by the order of the Youth Court to which the case is remitted may appeal therefrom to the General Division of the High Court as if the person has been tried by, and had pleaded guilty before, the Youth Court.
 
-(f) requiring the offender to do such other act as the family conference thinks appropriate in the circumstances.
+[27/2014; 40/2019]
 
-[20/2001]
+(5) A court by which an order remitting a case to a Youth Court is made under this section —
 
-(2) In exercising its powers under this section, the family conference shall —
+(a) may give such directions as appear to be necessary with respect to the custody of the offender or for the offender’s release on bail until the offender can be brought before a Youth Court; and
 
-(a) comply with the prescribed procedure; and
+(b) must cause to be transmitted to the Youth Court to which the case has been remitted a certificate setting out the nature of the offence and stating that the case has been remitted for the purpose of being dealt with under this section.
 
-(b) have regard to the orders which may be made by the Juvenile Court under section 44 for dealing with a person who has been found guilty by the Court of a comparable offence.
+[40
 
-[20/2001]
-
-(3) If the offender fails —
-
-(a) to attend at the time and place appointed for a family conference; or
-
-(b) to comply with any requirement of the family conference, the family conference shall report the matter to the Juvenile Court and the Court shall thereupon make such order as is necessary for the offender to be produced before the Court and thereafter deal with the offender as the Court thinks fit in accordance with section 44.
-
-[20/2001]
-
-(4) A person who attends a family conference (not being the offender, the parent or guardian of the offender or any other member of the offender’s family) shall not divulge any personal information obtained at the conference relating to any of those persons.
-
-[20/2001]
-
-(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[44A
-
-[20/2001]
+[27/2014]

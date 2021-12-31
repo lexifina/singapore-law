@@ -1,6 +1,6 @@
-# 19. Powers of search
-Part: PART II PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
+# 19. Consent to marriage
+Part: PART 2 PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
 
-(1) A protector or any officer generally or specially authorised in that behalf in writing by a protector may enter and, for that purpose, use such force as may be reasonably necessary, and search any vessel, house, building, land, enclosure or other place where he has reasonable cause to suspect that an offence under this Act has been or is being committed.
+No female below 18 years of age who is or has been detained or in respect of whom a bond or security has been taken under the provisions of this Act may contract any form of marriage without the previous written consent of a protector.
 
-(2) Any person who obstructs or hinders or attempts to obstruct a protector or any such officer in the exercise of the powers conferred by this section shall be guilty of an offence.
+[15

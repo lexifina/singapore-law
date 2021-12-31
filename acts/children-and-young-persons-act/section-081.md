@@ -1,12 +1,16 @@
-# 81. Presumption
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 81. Provision of places of detention
+Part: PART 5 PLACES OF DETENTION
 
-The production of the warrant or other document, in pursuance of which a child or young person is directed to be sent to an approved school, an approved home, a remand home or a place of detention or committed to the care or custody of a person or directed to be sent to an approved hospital, with a statement endorsed thereon or annexed thereto purporting to be signed by the manager of the approved school, approved home, place of detention, remand home or approved hospital or by the person to whose care or custody the child or young person is committed, as the case may be, to the effect that the child or young person named therein was duly —
+(1) The Minister may provide or appoint such places of detention as may be required for the purposes of this Act.
 
-(a) received into and is at the date of the signing thereof detained in such approved school, approved home, remand home or place of detention; or
+(2) The order or judgment pursuant to which a child or young person is committed to custody in a place of detention must be delivered with the child or young person to the person-in-charge of the place of detention and is sufficient authority for the detention of the child or young person in that place in accordance with the tenor thereof.
 
-(b) taken into his care or custody and is at the date of signing thereof still in his care or custody, or has been otherwise dealt with according to law, shall in all proceedings relating to that child or young person be prima facie evidence of the identity and of the lawful detention or disposal of the child or young person named in that warrant or document.
+[30/2019]
 
-[77
+(3) A child or young person while so detained and while being conveyed to and from the place of detention is deemed to be in lawful custody, and if he or she escapes may be apprehended without warrant and brought back to the place of detention in which he or she was detained.
 
-[20/2001]
+(4) When any person is, under the provisions of this Act, committed by an order or judgment of a court to a place of detention, the order or judgment is not invalidated by any subsequent proof that the person is not a child or young person; but in that case it is lawful for the court before which such proof is brought to order the production of the person before it for inquiry and, if it thinks fit, to revoke the order of committal; and the order is thereupon cancelled.
+
+[55 PART 6 JUVENILE REHABILITATION CENTRES AND PLACES OF SAFETY
+
+[3/2011]

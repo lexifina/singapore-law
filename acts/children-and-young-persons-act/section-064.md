@@ -1,8 +1,12 @@
-# 64. Minister may establish approved schools and approved homes
-Part: PART VI APPROVED SCHOOLS AND APPROVED HOMES
+# 64. Fee for and duration of licence
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-(1) The Minister may, by order published in the Gazette, establish such approved schools and approved homes as may be necessary for the purposes of this Act.
+(1) On the issue or renewal of a licence, the licensee must pay a fee of such amount as may be prescribed.
 
-(2) Every such order shall specify the premises in which the approved school or approved home to which it refers is to be established and shall state whether the same is to be used for male or female persons, or both.
+[3/2011]
 
-[62
+(2) Unless earlier revoked, a licence is valid for a period of 2 years from the date of its issue or such shorter period as may be specified in the licence in any particular case.
+
+[52C
+
+[3/2011]

@@ -1,48 +1,38 @@
-# 68. Duties and powers of manager of approved school, approved home, remand home or place of detention in respect of persons detained therein
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 68. Review Board
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-(1) Without prejudice to section 61, the manager of an approved school, an approved home, a remand home or a place of detention shall have the following duties in respect of persons who are detained therein under this Act:
+(1) The Minister may, by notification in the Gazette, appoint such persons as the Minister may think fit to be the members of the Review Board.
 
-(a) to prevent the escape of such persons from lawful custody;
+[3/2011]
 
-(b) to prevent, detect and report on, the commission or attempted commission by such persons of any other unlawful acts;
+(2) The members of the Review Board are to hold office for such period as may be specified in the notification referred to in subsection (1).
 
-(c) to ensure good order and discipline on the part of such persons;
+[3/2011]
 
-(d) to attend to the well-being of such persons; and
+(3) The functions of the Review Board are to —
 
-(e) to carry out in respect of such persons such other duties as may be prescribed.
+(a) review the living conditions in and the standard of care and supervision provided by any licensed home for children and young persons to the children and young persons residing in the licensed home;
 
-[20/2001]
+(b) review all cases of children and young persons admitted to a licensed home for children and young persons with a view to ensuring that a proper care plan is in place for such children and young persons; and
 
-(2) For the purpose of discharging his duties under subsection (1), the manager of an approved school, an approved home, a remand home or a place of detention may —
+(c) advise the Director-General on —
 
-(a) give to any person being detained in the approved school, approved home, remand home or place of detention any order that the manager believes on reasonable grounds to be necessary —
+(i) whether any child or young person who has been placed in a juvenile rehabilitation centre or place of safety, may be released on licence from the juvenile rehabilitation centre or place of safety at any time before the completion of his or her full period of detention; and
 
-(i) for the security or good order in the approved school, approved home, remand home or place of detention;
+(ii) the conditions subject to which such child or young person should be released.
 
-(ii) for the welfare or safe custody of that person or the other persons being detained in the approved school, approved home, remand home or place of detention;
+[3/2011; 30/2019]
 
-or
+(4) Every member of the Review Board appointed under subsection (1) may enter at any time any licensed home for children and young persons and make such inquiries or examination therein as appear to the member necessary and must also make such reports as may be required by the Minister.
 
-(iii) for ensuring that that person or any other person being detained in the approved school, approved home, remand home or place of detention does not commit any offence or any breach of discipline;
+[3/2011]
 
-(b) require any person being detained in the approved school, approved home, remand home or place of detention to provide any information or answer any question that may be relevant to any duty being performed by the manager;
+(5) Any person who refuses admittance to any such member of the Review Board appointed under subsection (1) or offers any hindrance or obstruction to such member after his or her identity is reasonably established shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(c) search any person being detained in the approved school, approved home, remand home or place of detention and any article in the possession of such person;
+[3/2011]
 
-(d) use such force as is reasonable and necessary —
+(6) For the purpose of this section, a proper care plan must meet such requirements as may be specified by the Director-General.
 
-(i) to compel a person being detained in the approved school, approved home, remand home or place of detention to obey any order or requirement given or made by the manager under this section; or
+[52G
 
-(ii) to restrain any such person who is attempting or preparing to commit or is committing any offence or any breach of discipline; and
-
-(e) exercise such other powers as may be conferred on him by this Act.
-
-[20/2001]
-
-(3) In this section, the reference to the manager of an approved school, an approved home, a remand home or a place of detention includes any person assisting the manager of the approved school, approved home, remand home or place of detention in the management thereof.
-
-[66
-
-[20/2001]
+[3/2011; 30/2019]

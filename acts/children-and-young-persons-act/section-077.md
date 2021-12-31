@@ -1,18 +1,24 @@
-# 77. Escape from approved schools or approved homes
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 77. Exemption
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-(1) Every person detained under this Act in an approved school or an approved home shall serve the full period of his detention as ordered by the court and shall be deemed to be in lawful custody until he is lawfully discharged therefrom.
+(1) Subject to subsection (2), this Part does not apply to —
 
-[20/2001]
+(a) any home for children and young persons which is operated by the Government;
 
-(2) If any person who is being detained under this Act in an approved school or approved home escapes from the approved school or approved home before the expiry of his period of detention —
+(b) any early childhood development centre licensed under the Early Childhood Development Centres Act 2017;
 
-(a) he may be apprehended without warrant by a police officer or an approved welfare officer and brought back to the approved school or approved home by the police officer or approved welfare officer, as the case may be; and
+(c) any school which is registered under the Education Act 1957;
 
-(b) the period of his detention in the approved school or approved home shall be extended by the period (as computed by the manager of the approved school or approved home) for which he was at large.
+(d) any home for children and young persons which is, and is operated exclusively as, an approved institution under the Probation of Offenders Act 1951;
 
-[20/2001]
+(e) any place where a child or young person is being cared for by a parent, family member or foster parent; and
 
-(3) Notwithstanding anything stated in this section, no person shall be detained in any approved school or approved home after he attains the age of 19 years and 6 months.
+(f) such other home for children and young persons as may be prescribed.
 
-[74
+[3/2011; 2/2012; 19/2017]
+
+(2) Sections 67 and 68 apply to a home for children and young persons under the management or control of the Government.
+
+[52P
+
+[3/2011]

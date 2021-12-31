@@ -1,10 +1,26 @@
-# 69. Minister may discharge or transfer any person from one approved school or approved home or place of detention to another
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 69. Director-General may direct remedial measures
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-(1) The Minister may at any time, notwithstanding any order made by any court, order any person to be discharged from any approved school, approved home or place of detention or to be transferred from one approved school, approved home or place of detention to another.
+(1) The Director-General may, in respect of any licensed home for children and young persons, by written notice, give such directions as the Director-General thinks necessary to ensure that —
 
-(2) The whole period of detention for which any person was sent to such approved school, approved home or place of detention shall not be increased by the transfer.
+(a) it is operated and managed satisfactorily;
 
-[67
+(b) the welfare of the children and young persons residing in the home is properly safeguarded and promoted; and
 
-[20/2001]
+(c) the provisions of this Act are complied with.
+
+[3/2011; 30/2019]
+
+(2) To avoid doubt, a direction under subsection (1) may include a direction requiring the licensee of a licensed home for children and young persons to suspend any staff of the home from his or her duties.
+
+[3/2011]
+
+(3) A notice under subsection (1) must —
+
+(a) be served upon the licensee of the home for children and young persons; and
+
+(b) specify the period of time within which a direction must be complied with.
+
+[52H
+
+[3/2011]

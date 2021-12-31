@@ -1,56 +1,76 @@
-# 9. Power to remove child or young person to place of safety, etc.
-Part: PART II PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
+# 9. Power to obtain and communicate information
+Part: PART 2 PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
 
-(1) Where the Director, a protector or a police officer not below the rank of sergeant is satisfied on reasonable grounds that a child or young person is in need of care or protection, the Director, protector or police officer may —
+(1) The Director-General or a protector may exercise the powers conferred by subsection (2) for any of the following purposes:
 
-(a) without warrant and with such assistance and by such force as is necessary, by day or by night enter any premises in which the child or young person is to be found and —
+(a) the Director-General or protector has reasonable grounds to believe that a relevant offence has been, is being or will be committed against a child or young person, and the Director-General or protector has reason to believe that a particular person can provide any information regarding the commission of the relevant offence;
 
-(i) remove the child or young person and commit him to a place of safety until he can be brought before a Juvenile Court to be dealt with under section 49; or
+(b) the Director-General or protector has reasonable grounds to believe that a child or young person is in need of care or protection, and the Director-General or protector has reason to believe that a particular person can provide any information which will assist him or her in ascertaining —
 
-(ii) remove the child or young person and, before committing him to a place of safety under sub-paragraph (i), present the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may appear to be necessary; or
+(i) whether the child or young person is in need of care or protection; and
 
-(b) by notice in writing order the parent or guardian of the child or young person to —
+(ii) the nature of care or protection that the child or young person needs;
 
-(i) produce the child or young person before the Director, protector or police officer at a specified time and place; or
+(c) where a child or young person (A) is the subject of a voluntary care agreement or an order made under section 54(1) or 56(2), section 57 (read with section 56) or section 59(4), and the Director-General or protector has reason to believe that a particular person can provide any information —
 
-(ii) produce the child or young person before a registered medical practitioner or an approved welfare officer for an assessment or for any medical or other treatment as may be necessary, following which the Director, protector or police officer may, if he thinks necessary, remove the child or young person and commit him to a place of safety until he can be brought before a Juvenile Court to be dealt with under section 49.
+(i) relating to the suitability of the fit person to whom, or the place of safety or place of temporary care and protection to which, A is committed;
 
-[20/2001]
+(ii) relating to the standard of care, protection and supervision that A or any other child or young person who is a member of A’s household, is receiving;
 
-(2) A registered medical practitioner to whom a child or young person is brought under subsection (1) (a) (ii) or (b) (ii) —
+(iii) that will assist the Director-General or protector in formulating a proper care plan to cater to A’s safety and sense of wellbeing; or
 
-(a) shall conduct the requisite assessment of the child or young person and report his assessment to the Director, protector or police officer, as the case may be; and
+(iv) that will assist the Director-General or protector in exercising any power or carrying out any duty under the Act with respect to A or any other child or young person who is a member of A’s household;
 
-(b) may, with the consent of the parent or guardian of the child or young person or, if such consent cannot be obtained or if there is immediate risk to the health of the child or young person, with the authorisation of the Director, protector or police officer —
+(d) where upon the termination of a voluntary care agreement or an order made under section 54(1) or 56(2), section 57 (read with section 56) or section 59(4) for a child or young person (B), B is returned to the care and custody of B’s parent or guardian, and the Director-General or protector has reason to believe that a particular person can provide any information relating to the welfare and safety of B or any other child or young person who is a member of B’s household.
 
-(i) administer or cause to be administered to the child or young person such procedures and tests as may be necessary to diagnose the condition of the child or young person; and
+[30/2019]
 
-(ii) provide or cause to be provided to the child or young person such treatment (including any surgical treatment) as he considers necessary as a result of his assessment or diagnosis.
+(2) The Director-General or protector may, by written order —
 
-[20/2001]
+(a) require the particular person mentioned in subsection (1)(a), (b), (c) or (d) to provide to the Director-General or protector the information within the time and manner specified in the order; or
 
-(3) If the registered medical practitioner or approved welfare officer conducting the assessment of the child or young person under this section believes on reasonable grounds that the child or young person is suffering from any physical or emotional injury or any injury to his health or development as a result of being ill-treated, the registered medical practitioner or approved welfare officer shall immediately notify the Director, protector or police officer, as the case may be, and the provisions of section 88 shall apply to a registered medical practitioner or an approved welfare officer who makes a notification under this subsection.
+(b) require a person given the order to appear before and provide to the Director-General or protector the information within the time and manner specified in the order.
 
-[20/2001]
+[30/2019]
 
-(4) If the registered medical practitioner conducting the assessment of the child or young person under this section is of the opinion that the hospitalization of the child or young person is necessary for the purpose of treating the child or young person, the Director, protector or police officer may authorise the hospitalization of the child or young person.
+(3) The Director-General or a protector may communicate any information about a child or young person (whether or not obtained under this section) including a photograph of the child or young person, to any of the following person or persons for a relevant purpose:
 
-[20/2001]
+(a) another protector or any other person assisting the Director-General or protector in the administration of this Act in respect of the child or young person;
 
-(5) Subject to subsection (6), every child or young person who is removed by the Director, a protector or a police officer under this section shall, unless he is sooner returned to the custody of his parent or guardian, be brought before a Juvenile Court within 3 working days of his being so removed in order that he may be dealt with under section 49.
+(b) any other person or class of persons as may be prescribed.
 
-[20/2001]
+[30/2019]
 
-(6) If for any reason it is not possible for the child or young person to be brought before a Juvenile Court within the time specified in subsection (5) —
+(4) No liability shall lie personally against a person for providing any information under subsection (2), or communicating any information under subsection (3).
 
-(a) the Director, protector or police officer (as the case may be) shall, within 3 working days of the removal of the child or young person, inform the Juvenile Court of the removal and the reason for which it is not possible to comply with subsection (5); and
+[30/2019]
 
-(b) the Juvenile Court may make such order as the circumstances may admit and require in relation to the custody, charge and care of the child or young person until such time as the child or young person may be brought before the Juvenile Court.
+(5) An individual cannot rely on —
 
-[20/2001]
+(a) the common law privilege against self-incrimination or exposure to the imposition of a penalty; or
 
-(7) In this section, ‘‘assessment’’ means an assessment to determine the state of the health or development of the child or young person and whether the child or young person has been subjected to any ill-treatment.
+(b) any rule of law relating to legal professional privilege or any other privilege, or the public interest, to refuse to provide the information required under subsection (2) by the Director-General or protector, as the case may be.
+
+[30/2019]
+
+(6) However, any information is not admissible in evidence against the individual in any criminal proceeding other than a proceeding for an offence under section 26(b) or section 177 of the Penal Code 1871, if the information might in fact tend to incriminate the individual.
+
+[30/2019]
+
+(7) In this section, “relevant purpose” means either of the following:
+
+(a) a purpose mentioned in subsection (1)(a), (b), (c) or (d);
+
+(b) for a child or young person who is the subject of —
+
+(i) a voluntary care agreement;
+
+(ii) an order made under section 54(1)(b) read with section 55;
+
+(iii) an order made under section 56(2) read with section 58; or
+
+(iv) an order made under section 57 read with sections 56 and 58, to enable the Director-General, a protector or a care-giver of the child or young person to make a decision on a matter relating to the child or young person and to give effect to such decision.
 
 [8
 
-[20/2001]
+[30/2019]

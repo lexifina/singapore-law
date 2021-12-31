@@ -1,16 +1,32 @@
-# 53. Custody of children and young persons not released on bail
-Part: PART IV REMAND HOMES
+# 53. Procedure
+Part: PART 3 YOUTH COURT
 
-(1) The Minister may provide or appoint such remand homes as may be required for the purposes of this Act.
+(1) An application to a Youth Court under section 54 or 56, section 57 (read with section 56) or section 59 (called in this section a relevant application) must —
 
-(2) Whenever any person apparently below the age of 16 years has been arrested and is not released on bail, any police officer shall, notwithstanding anything to the contrary in any other written law, cause that person to be remanded in a remand home until he can be brought before a court unless the officer certifies —
+(a) be made in the same manner as an application for a summons is made to a District Court or Magistrate’s Court under the Criminal Procedure Code 2010; and
 
-(a) that it is impracticable to do so;
+(b) be dealt with —
 
-(b) that he is of so unruly a character that he cannot be safely so remanded; or
+(i) as if the relevant application is a complaint for the purposes of that Code; but
 
-(c) that by reason of his state of health or of his mental or bodily condition it is inadvisable to so remand him.
+(ii) in accordance with only such provisions of that Code, and with such provisions of any other written law, as may be prescribed by the Family Justice Rules.
 
-(3) The certificate shall be produced to the court before which the person is brought.
+[30/2019]
 
-[51
+(2) An affidavit sworn for the purposes of a relevant application may contain statements of information or belief with the sources and grounds of the information or belief.
+
+[30/2019]
+
+(3) Any matter relating to the service of summons issued by a Youth Court in connection with any proceedings under section 54 or 56, section 57 (read with section 56) or section 59 may be prescribed by the Family Justice Rules.
+
+[30/2019]
+
+(4) To avoid doubt, proceedings under section 54 or 56, section 57 (read with section 56) or section 59 are not to be treated as criminal proceedings.
+
+[3/2011; 30/2019]
+
+(5) All Family Justice Rules mentioned in this section must be presented to Parliament as soon as possible after publication in the Gazette.
+
+[48B
+
+[30/2019]

@@ -1,12 +1,12 @@
-# 74. Power of Director or protector to give consent to medical treatment to child or young person in need thereof
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 74. Effect of cancellation, revocation or suspension of licence
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-Where a child or young person who has been committed to the care of a fit person or who is being detained in an approved school, an approved home, an approved institution, a remand home, a place of detention, a place of safety or any other place being used for the reception and care of children or young persons is in need of any medical treatment (including any surgical procedure) and —
+(1) Where the licence of a home for children and young persons is cancelled under section 72, or revoked or suspended under section 73, the home ceases to be used as such with effect from the date on which the licence is cancelled, revoked or suspended, as the case may be.
 
-(a) the consent of the parent or guardian of the child or young person to such medical treatment cannot be obtained despite all reasonable efforts; and
+[3/2011]
 
-(b) any delay in carrying out the medical treatment would cause the child or young person unnecessary suffering or endanger his health, the Director or a protector may give consent to the carrying out of such medical treatment and any consent so given shall, for all intents and purposes, be sufficient consent and authorisation for the carrying out of the medical treatment.
+(2) To avoid doubt, subsection (1) has effect despite any appeal by the licensee to the Minister under section 76.
 
-[71A
+[52M
 
-[20/2001]
+[3/2011]

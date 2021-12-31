@@ -1,14 +1,24 @@
-# 70. Illness of child or young person detained
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 70. Duty to furnish information
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-(1) In the case of the serious illness of any child or young person who is detained in an approved school, an approved home, a remand home or a place of detention under the provisions of this Act, in which there is no suitable facilities for the child or young person, the manager of such approved school, approved home, remand home or place of detention may, on the certificate of a registered medical practitioner, make an order for his admittance to an approved hospital.
+(1) The Director-General may, from time to time, by written notice, require the licensee of a home for children and young persons to furnish any information as the Director-General may require relating to —
 
-[20/2001]
+(a) the staff and residents;
 
-(2) So long as any child or young person who has been removed to an approved hospital under subsection (1) remains therein, the registered medical practitioner thereof shall, at the end of every month, transmit to the manager of the approved school, approved home, remand home or place of detention where the child or young person was detained a certificate signed by him that it is in his opinion necessary that he should remain in the approved hospital.
+(b) the condition or treatment of any resident;
 
-[20/2001]
+(c) the premises of the home, the accommodation provided at the home and the environment at the home; and
 
-(3) In this section, ‘‘approved hospital’’ includes any hospital which the Minister may, by notification in the Gazette, declare to be a hospital for the purposes of this section.
+(d) any matter relevant to the administration or enforcement of this Act.
 
-[68
+[3/2011; 30/2019]
+
+(2) A licensee who on receipt of any notice under subsection (1) —
+
+(a) refuses or fails to furnish any information required by the Director-General; or
+
+(b) gives any false or misleading information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[52I
+
+[3/2011; 30/2019]

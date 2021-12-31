@@ -1,34 +1,24 @@
-# 3. Appointment of Director of Social Welfare and other officers
-Part: PART I PRELIMINARY
+# 3. Administration and enforcement of Act
+Part: PART 1 PRELIMINARY
 
-(1) The Minister may, by notification in the Gazette, appoint an officer to be the Director of Social Welfare.
+(1) [Deleted by Act 30 of 2019]
 
-[20/2001]
+(2) The Director-General is responsible for the administration and enforcement of this Act, subject to the general or special directions of the Minister.
 
-(2) The Director shall be responsible for the administration and enforcement of this Act, subject to the general or special directions of the Minister.
+[30/2019]
 
-[20/2001]
-
-(3) The Director may —
+(3) The Director-General may —
 
 (a) appoint any public officer; or
 
-(b) with the approval of the Minister, in writing authorise any other person, to perform any of the duties or exercise any of the powers of the Director or a protector under this Act, subject to such conditions and limitations as may be specified by the Director.
+(b) with the approval of the Minister, in writing authorise any other person, to perform any of the duties or exercise any of the powers of the Director-General or a protector under this Act, subject to such conditions and limitations as may be specified by the Director-General.
 
-[20/2001]
+[30/2019]
 
-(4) The Director may appoint any suitably qualified person as an approved welfare officer to carry out any investigation, assessment, supervision, consultation or evaluation in relation to any child or young person or the parent, guardian or family members thereof for the purpose of determining the welfare and state of development of such child or young person or for any other purpose under this Act.
+(4) The Director-General may appoint any suitably qualified person as an approved welfare officer to carry out any investigation, assessment, supervision, consultation or evaluation in relation to any child or young person or the parent, guardian or family members thereof for the purpose of determining the welfare and state of development of such child or young person or for any other purpose under this Act.
 
-[20/2001]
+[30/2019]
 
-(5) The Director and any public officer or other person appointed or authorised by him under subsection (3) and any approved welfare officer shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(5) The Director-General and any public officer or other person appointed or authorised by the Director-General under subsection (3) and any approved welfare officer are deemed to be public servants within the meaning of the Penal Code 1871.
 
-[2A
-
-[20/2001]
-
-PART II
-
-PROTECTION OF CHILDREN AND YOUNG PERSONS
-
-Welfare
+[30/2019]

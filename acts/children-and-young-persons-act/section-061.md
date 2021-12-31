@@ -1,6 +1,12 @@
-# 61. Duties of managers
-Part: PART VI APPROVED SCHOOLS AND APPROVED HOMES
+# 61. Failure to comply with requirements of family guidance order
+Part: PART 3 YOUTH COURT
 
-The manager of an appointed approved school or approved home shall carry out all duties necessary for the reception, care and rehabilitation of any child or young person sent to him under this Act for the period which the child or young person is liable to be detained or until the certificate is cancelled.
+If it appears on information to the Youth Court that a child or young person against whom an order made under section 59 is in force has failed to comply with any of the requirements of the order, the Court may make a fresh order against the child or young person under that section.
 
-[59
+[52
+
+[27/2014; 30/2019]
+
+PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
+
+[3/2011]

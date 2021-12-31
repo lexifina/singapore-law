@@ -1,36 +1,18 @@
-# 33. Jurisdiction of Juvenile Court
-Part: PART III JUVENILE COURT
+# 33. Disclosure of information on child or young person by foster parent
+Part: PART 2A FOSTERING
 
-(1) Subject to the provisions of this section, no child or young person shall be charged with or tried for any offence by a court of summary jurisdiction except a Juvenile Court.
+A foster parent of a child or young person may disclose any information relating to the child or young person to any person (whether with or without the consent of any parent or guardian of the child or young person) if the disclosure is necessary —
 
-[20/2001]
+(a) for the care, protection and supervision of the child or young person; or
 
-(2) Where a child or young person is charged with any offence triable only by the High Court, he shall be tried by the High Court unless —
+(b) to enable the foster parent to claim the following where the foster parent is eligible:
 
-(a) the Public Prosecutor applies to the Juvenile Court to try such offence; and
+(i) childcare leave or extended childcare leave under section 12B of the Child Development Co-Savings Act 2001;
 
-(b) the legal representative of the child or young person concerned consents to the offence being tried by the Juvenile Court.
+(ii) unpaid infant care leave under section 12D of the Child Development Co-Savings Act 2001;
 
-[20/2001]
+(iii) childcare leave under section 87A of the Employment Act 1968.
 
-(3) Where a charge is made jointly against a child or young person and a person who has attained the age of 16 years, the charge shall be heard by a court of appropriate jurisdiction other than a Juvenile Court.
+[27C
 
-[20/2001]
-
-(4) Where, in the course of any proceedings before any court of appropriate jurisdiction other than a Juvenile Court, it appears that the person to whom the proceedings relate is a child or young person, the court may, notwithstanding subsection (1), proceed with the hearing and determination of the proceedings if it thinks fit.
-
-[20/2001]
-
-(5) A Juvenile Court shall have jurisdiction to try all offences which, but for subsections (1) and (2), would be triable only by a Magistrate’s Court, a District Court or the High Court.
-
-[20/2001]
-
-(6) A person who has attained the age of 16 years on the date of commencement of the hearing of the charge shall not be tried for any offence by a Juvenile Court.
-
-(7) Where in the course of any trial before a Juvenile Court the child or young person to whom the trial relates attains the age of 16 years, nothing in subsection (6) shall prevent the Juvenile Court, if it thinks fit, from proceeding with the trial and dealing with the child or young person in accordance with the provisions of this Act.
-
-[20/2001]
-
-(8) In this section, ‘‘legal representative’’, in relation to a child or young person who is charged with an offence, includes any person assisting the child or young person in his defence to the charge.
-
-[20/2001]
+[30/2019]

@@ -1,8 +1,16 @@
-# 82. Evidence
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 82. Minister may appoint juvenile rehabilitation centres and places of safety
+Part: PART 6 JUVENILE REHABILITATION CENTRES AND PLACES OF SAFETY
 
-A copy of the regulations of an approved school, an approved home, a remand home or a place of detention appointed or established under the provisions of this Act or of an approved hospital, purporting to be signed by the Director shall be evidence of such regulations in all legal proceedings.
+(1) The person-in-charge of any institution intended for the reception, care and rehabilitation of persons to be sent there under this Act may apply to the Minister to appoint the institution as a juvenile rehabilitation centre or place of safety.
 
-[78
+[3/2011; 30/2019]
 
-[20/2001]
+(2) The Minister may, after directing the Director-General to make such inquiries as the Minister thinks fit, so appoint the institution and issue a certificate of appointment and approval to the person-in-charge thereof, and such certificate must be published in the Gazette.
+
+[30/2019]
+
+(3) Any institution appointed under subsection (2) is, while that certificate remains in force, an appointed juvenile rehabilitation centre or place of safety for the purposes of this Act.
+
+[56
+
+[3/2011]

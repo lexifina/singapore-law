@@ -1,16 +1,18 @@
-# 40. Power of other courts to remit juvenile offenders to Juvenile Court
-Part: PART III JUVENILE COURT
+# 40. Place of sitting and persons who may be present
+Part: PART 3 YOUTH COURT
 
-(1) Any court by or before which a child or young person is found guilty of an offence may, if it thinks fit, remit the case to a Juvenile Court.
+(1) AYouth Court is to sit as often as may be necessary for the purpose of exercising any jurisdiction conferred on it by this or any other Act.
 
-(2) Where any such case is so remitted, the offender shall be brought before a Juvenile Court accordingly, and the Juvenile Court may deal with him in any way in which it might have dealt with him if he had been tried and found guilty by the Juvenile Court.
+[27/2014]
 
-(3) No appeal shall lie against an order of remission made under subsection (1) but nothing in this subsection shall affect any right of appeal against the verdict or finding on which such an order is founded.
+(2) A Youth Court is to sit either in a different building or room from that in which sittings of courts other than Youth Courts are held, or on different days from those on which sittings of the other courts are held, and no person may be present at any sitting of a Youth Court except —
 
-(4) A person aggrieved by the order of the Juvenile Court to which the case is remitted may appeal therefrom to the High Court as if he has been tried by, and had pleaded guilty before, the Juvenile Court.
+(a) members and officers of the Court;
 
-(5) A court by which an order remitting a case to a Juvenile Court is made under this section —
+(b) parties to the case before the Court, their solicitors and counsel and witnesses and other persons directly concerned in that case; and
 
-(a) may give such directions as appear to be necessary with respect to the custody of the offender or for his release on bail until he can be brought before a Juvenile Court; and
+(c) such other persons, including representatives of newspapers or news agencies, as the Court may specially authorise to be present.
 
-(b) shall cause to be transmitted to the Juvenile Court to which the case has been remitted a certificate setting out the nature of the offence and stating that the case has been remitted for the purpose of being dealt with under this section.
+[34
+
+[27/2014; 30/2019]

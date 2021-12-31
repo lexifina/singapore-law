@@ -1,8 +1,8 @@
-# 27. Provision of places of safety
-Part: PART II PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
+# 27. Certificate of Director-General or protector to be evidence
+Part: PART 2 PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
 
-The Minister may, by notification in the Gazette —
+A certificate purporting to be under the hand of the Director-General or a protector as to any entry in a register or any other record or as to any matter or thing which he or she is authorised by this Act to make or to do is prima facie evidence of the entry having been made and of the contents thereof and of the matter or thing having been done or not done.
 
-(a) appoint any place or institution to be a place of safety under this Act; and
+[23
 
-(b) declare any orphanage, hospital, home, institution or other place to be a place of safety for the purposes of this Act.
+[30/2019]

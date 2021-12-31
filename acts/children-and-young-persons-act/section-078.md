@@ -1,12 +1,32 @@
-# 78. Penalties for assisting or inducing persons to escape and for harbouring or concealing escaped persons
-Part: PART VII PROVISIONS APPLICABLE TO PERSONS BEING DETAINED IN APPROVED SCHOOLS, APPROVED HOMES, REMAND HOMES AND PLACES OF DETENTION
+# 78. Regulations for this Part
+Part: PART 3A LICENSING OF HOMES FOR CHILDREN AND YOUNG PERSONS
 
-Any person who —
+(1) The Minister may make regulations for the purposes of this Part and, in particular, for the management of licensed homes for children and young persons and for the maintenance of order and discipline of the staff and of the persons residing in such homes.
 
-(a) knowingly assists, directly or indirectly, any person legally detained in any approved school, approved home or place of detention or committed to the care or custody of a person or detained in any approved hospital to escape therefrom;
+[3/2011]
 
-(b) induces any such person so to escape; or
+(2) Without limiting subsection (1), the Minister may make regulations providing for all or any of the following matters:
 
-(c) knowing that any such person ordered to be detained or committed has escaped from any such approved school, approved home or place of detention or from the care or custody of a person or from an approved hospital, harbours or conceals or assists in harbouring or concealing that person, or causes or induces him not to return to such school, home, person, place of detention or approved hospital, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) the forms, fees and registers for the purposes of this Act;
 
-[75
+(b) the operation, management and supervision of a licensed home for children and young persons;
+
+(c) the duties and responsibilities of licensees of licensed homes for children and young persons;
+
+(d) the standard of care and supervision of children and young persons residing in a licensed home for children and young persons;
+
+(e) the control and supervision of activities in a licensed home for children and young persons;
+
+(f) the keeping of records;
+
+(g) the reports and information to be supplied to the Director-General in respect of a licensed home for children and young persons;
+
+(h) the prescribing of anything which may be prescribed under this Part.
+
+[3/2011 ; 30/2019]
+
+(3) The Director-General may, by written notice to the licensee of a licensed home for children and young person, vary or waive wholly, partly or conditionally the requirements of any regulation in respect of that home for children and young persons and may amend or withdraw any such notice.
+
+[52Q
+
+[3/2011; 30/2019]

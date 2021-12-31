@@ -1,60 +1,80 @@
-# 49. Powers of Juvenile Court in respect of children and young persons in need of care or protection Children and Young Persons beyond Parental Control
-Part: PART III JUVENILE COURT
+# 49. Powers of Youth Court on proof of offence
+Part: PART 3 YOUTH COURT
 
-(1) Subject to the provisions of this section, if a Juvenile Court is satisfied that any person brought before it is a child or young person in need of care or protection, the Court may —
+(1) Subject to the provisions of this section, where a Youth Court is satisfied that an offence has been proved, or where the child or young person (called in this section the offender) admits the facts constituting the offence, the Court, in addition to any other powers exercisable by virtue of this Act or any other written law for the time being in force, has power —
 
-(a) order the parent or guardian of the child or young person to enter into a bond to exercise proper care and guardianship of the child or young person for such period as may be specified by the Court;
+(a) to discharge the offender;
 
-(b) order the child or young person to be committed to the care of a fit person for such period as may be specified by the Court;
+(b) to discharge the offender upon the offender entering into a bond to be of good behaviour and to comply with such order as may be imposed;
 
-(c) order the child or young person to be committed to an approved home or a place of safety for such period as may be specified by the Court; or
+(c) to commit the offender to the care of a relative or other fit person for a period to be specified by the Court;
 
-(d) without making any other order or in addition to an order under paragraph (a), (b) or (c), make an order placing the child or young person under the supervision of a protector, an approved welfare officer or any other person appointed for that purpose by the Court, for such period as may be specified by the Court.
+(d) to order the offender’s parent or guardian to execute a bond to exercise proper care and guardianship and to abide by such order as the Court may make in relation to the welfare, maintenance and rehabilitation of the offender;
 
-[20/2001]
+(e) to make a probation order requiring the offender to be under the supervision of a probation officer or a volunteer probation officer for a period of not less than 6 months and not more than 3 years;
 
-(2) A Juvenile Court may, in making any order under subsection (1), impose such conditions or give such directions as it thinks fit for the purpose of ensuring the safety and well-being of the child or young person in respect of whom such order is made, and every person upon whom such conditions are imposed or to whom such directions are given shall comply with such conditions or directions.
+(f) to make an order, in accordance with the prescribed requirements, requiring the offender to perform community service, not exceeding 240 hours in aggregate, of such nature and at such time and place and subject to such conditions as may be specified by the Court;
 
-[20/2001]
+(g) to order the offender to be detained in a place of detention for a period not exceeding 6 months;
 
-(3) No order under subsection (1) shall be made without giving the parent or guardian of the child or young person an opportunity to attend and be heard.
+(h) to order the offender to be detained in a place of detention or an approved institution over such number of weekends, not exceeding 26, as the Court thinks fit;
 
-[20/2001]
+(i) to order the offender to be sent to a juvenile rehabilitation centre for a period of not more than 3 years;
 
-(4) Notwithstanding subsection (3), an order under subsection (1) may be made if the parent or guardian of the child or young person, having been required to attend, has failed to do so or cannot be found within a reasonable time.
+(j) to order the offender to pay a fine, damages or costs;
 
-[20/2001]
+(k) to deal with the offender, or order the offender to be brought before a District Court to be dealt with, under section 305 of the Criminal Procedure Code 2010 if the offender —
 
-(5) In determining what order to be made under subsection (1), the Juvenile Court shall treat the welfare of the child or young person as the paramount consideration and shall endeavour to obtain such information as to the family background, general conduct, home surroundings, school record, medical history and state of development of the child or young person as may enable the Court to deal with the case in the best interests of the child or young person.
+(i) has attained 16 years of age; or
 
-[20/2001]
+(ii) having attained 14 years of age but being below 16 years of age, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under paragraph (i) to be sent to a juvenile rehabilitation centre established under section 90, and the Youth Court is satisfied that it is expedient with a view to the offender’s reformation that the offender should undergo a period of training in a reformative training centre.
 
-(6) For the purpose of subsection (5), the Juvenile Court may —
+[3/2011; 27/2014]
 
-(a) require any person who, in the opinion of the Court, is able to furnish any information regarding the child or young person to furnish to the Court such information as the Court may specify;
+(2) For the purpose of subsection (1), the Youth Court has power —
 
-(b) require the parent or guardian of the child or young person to render such assistance to the Court as the Court thinks necessary;
+(a) to make the orders referred to in subsection (1)(b), (c), (d), (e), (f), (g), (h), (i) and (j) singly, or combine, in such manner as it thinks just and expedient in the circumstances —
 
-(c) order the child or young person to be sent for an assessment by a registered medical practitioner or an approved welfare officer;
+(i) any 2 or more of the orders referred to in subsection (1)(b), (c), (d), (e), (f) and (j);
 
-(d) require the parent or guardian of the child or young person to undergo such medical, psychological or other assessment as the Court thinks necessary; and
+(ii) any order under subsection (1)(g) with any one or more of the orders referred to in subsection (1)(d), (e) and (j);
 
-(e) from time to time adjourn the case for such period as it thinks necessary and make in respect of the child or young person, as an interim order having effect only during the period of adjournment, any order which it could have made under subsection (1).
+(iii) any order under subsection (1)(h) with any one or more of the orders referred to in subsection (1)(c), (d), (e), (f) and (j); or
 
-[20/2001]
+(iv) any order under subsection (1)(i) with any one or more of the orders referred to in subsection (1)(d) and (j); and
 
-(7) Where the Juvenile Court requires any child or young person or the parent or guardian thereof to undergo any assessment under subsection (6) (c) or (d) —
+(b) without prejudice to paragraph (a)(ii) or (iii), to make an order under subsection (1)(h) to run consecutively to an order under subsection (1)(g).
 
-(a) the person carrying out the assessment shall provide a written report to the Court stating the results of his assessment, and such report may be received and considered by the Court without being read aloud; and
+[27/2014]
 
-(b) the costs of and incidental to any such assessment shall be borne by the parent or guardian of the child or young person, unless the Court directs otherwise.
+(3) Where the Youth Court makes an order under subsection (1)(g) for the detention of an offender in a place of detention in combination with a probation order under subsection (1)(e), the period of the offender’s detention must not exceed 3 months.
 
-[20/2001]
+[27/2014]
 
-(8) If the Juvenile Court is not satisfied that the child or young person brought before it is in need of protection, the Court may order that the child or young person be returned to the care and custody of his parent or guardian.
+(4) If an offender, without reasonable excuse, contravenes any order made by the Youth Court under subsection (1) (called hereinafter the original order) or any condition thereof, the Youth Court may make such order as is necessary for the offender to be produced before it and thereafter, deal with the offender by —
 
-[48
+(a) making any order that the Court is empowered to make under subsection (1);
 
-[20/2001]
+(b) varying the original order or any condition of the order; or
 
-Children and Young Persons beyond Parental Control
+(c) directing the offender to comply with the original order or any condition of the order to the extent that the original order or condition of the order has not been complied with.
+
+[27/2014]
+
+(5) Where an offender, while being detained in a place of detention or juvenile rehabilitation centre pursuant to an order under subsection (1)(g) or (i), is found guilty of another offence by the Youth Court, the Court may, instead of making a fresh order against the offender under subsection (1)(g) or (i), extend the period of detention that is being served by the offender.
+
+[3/2011; 27/2014]
+
+(6) Where a Youth Court is satisfied, on the representations of the person-in-charge of a juvenile rehabilitation centre, place of detention or place of safety, that a person ordered to be detained in the juvenile rehabilitation centre, place of detention or place of safety is of so unruly a character that he or she cannot be so detained, the Court may —
+
+(a) order the person to be transferred to and detained in a juvenile rehabilitation centre or in another juvenile rehabilitation centre (as the case may be) which the Court considers more suitable for him or her and to be detained there for the whole or any part of the unexpired period of detention; or
+
+(b) deal with the person, or order the person to be brought before a District Court to be dealt with, under section 305 of the Criminal Procedure Code 2010 if the person —
+
+(i) has attained the age of 16 years; or
+
+(ii) having attained 14 years of age but being below the age of 16 years, has previously been dealt with by a court in connection with another offence and had, in respect of that other offence, been ordered under subsection (1)(i) to be sent to a juvenile rehabilitation centre, and the Youth Court is satisfied, having regard to the person’s character, previous conduct and the circumstances of the offence, that to reform the person and to prevent crime, he or she should undergo a period of training in a reformative training centre.
+
+[44
+
+[3/2011; 27/2014; 30/2019]

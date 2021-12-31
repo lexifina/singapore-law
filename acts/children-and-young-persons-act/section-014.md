@@ -1,6 +1,26 @@
-# 14. Power to examine children and persons in charge of them
-Part: PART II PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
+# 14. Restrictions on children and young persons taking part in public entertainment
+Part: PART 2 PROTECTION OF CHILDREN AND YOUNG PERSONS Welfare
 
-(1) A protector or any person authorised in that behalf by a protector in writing may require any child and any person who may appear to have the custody or control of the child to appear before the protector at any reasonable time and at any convenient place.
+(1) No child or young person may take part in any public entertainment —
 
-(2) The protector may examine the child as to his reasons for entering or being in Singapore and may examine the person respecting the child, and the child and that person shall be legally bound to answer such questions truthfully to the best of their ability.
+(a) which is of an immoral nature;
+
+(b) which is dangerous to life or prejudicial to the health, physical fitness and kind treatment of the child or young person; or
+
+(c) without the consent of his or her parent or guardian.
+
+(2) Any person who causes or procures such a child or young person, or being his or her parent or guardian allows the child or young person, to take part in any public entertainment in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[3/2011]
+
+(3) If the person convicted under subsection (2) is the holder of a licence under the Public Entertainments Act 1958, the court may also order the cancellation of the licence or its suspension for such period as the court may think fit.
+
+[28/2017]
+
+(4) In this section —
+
+“entertainment” includes an exhibition or performance;
+
+“public entertainment” means an entertainment to which the public or any section of the public is admitted or in connection with which a charge, whether for admission or otherwise, is made.
+
+[11
