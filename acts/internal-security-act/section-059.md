@@ -1,0 +1,9 @@
+# 59. Consorting with person carrying or having possession of firearms or explosives
+Part: PART 3 SPECIAL PROVISIONS RELATING TO SECURITY AREAS Chapter 1 — Proclamation of security areas
+Chapter: Chapter 3 — Offences relating to security areas
+
+(1) Any person who in any security area consorts with or is found in the company of another person who is carrying or has in his possession or under his control any firearm, ammunition or explosive in contravention of section 58, in circumstances which raise a reasonable presumption that he intends, or is about, to act, or has recently acted, with such other person in a manner prejudicial to public security or the maintenance of public order shall be guilty of an offence under this Part and shall be liable on conviction to be punished with death or with imprisonment for life.
+
+(2) Any person who in any security area consorts with, or is found in the company of, another person who is carrying or has in his possession, or under his control any firearm, ammunition or explosive in contravention of section 58, in circumstances which raise a reasonable presumption that he knew that such other person was carrying or had in his possession or under his control any such firearm, ammunition or explosive shall be guilty of an offence under this Part and shall be liable on conviction to imprisonment for a term not exceeding 10 years.
+
+(3) Where, in any prosecution for an offence under this section, it is established to the satisfaction of the court that the accused person was consorting with or in the company of any person who was carrying or had in his possession or under his control any firearm, ammunition or explosive, it shall be presumed, until the contrary is proved, that such last mentioned person was carrying or had in his possession or under his control such firearm, ammunition or explosive in contravention of section 58.
