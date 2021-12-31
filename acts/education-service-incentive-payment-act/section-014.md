@@ -1,6 +1,6 @@
 # 14. Withdrawals
-Part: PART III CONNECT FUND
+Part: PART 3 CONNECT FUND
 
-(1) No moneys shall be withdrawn from the Fund unless they are charged upon the Fund or are authorised or directed to be withdrawn or transferred under this Act.
+(1) Moneys must not be withdrawn from the Fund unless they are charged upon the Fund or are authorised or directed to be withdrawn or transferred under this Act.
 
-(2) No payment shall be made out of the Fund unless such payment is authorised by the Minister.
+(2) A payment must not be made out of the Fund unless the payment is authorised by the Minister.

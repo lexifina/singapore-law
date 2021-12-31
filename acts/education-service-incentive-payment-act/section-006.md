@@ -1,7 +1,7 @@
 # 6. Non-assignability or attachment, etc., of awards
-Part: PART II CONNECT PLAN
+Part: PART 2 CONNECT PLAN
 
-No award payable under the CONNECT Plan, no contribution by the Government made under the CONNECT Plan and no interest thereon (if any) shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than —
+No award payable under the CONNECT Plan, no contribution by the Government made under the CONNECT Plan and no interest thereon (if any) is assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than —
 
 (a) a debt due to the Government; or
 
