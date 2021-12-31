@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Road Vehicles (Special Powers) Act.
+This Act is the Road Vehicles (Special Powers) Act 1960.

@@ -1,37 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY ROAD VEHICLES (SPECIAL POWERS) ACT 1960
 
-ROAD VEHICLES (SPECIAL POWERS) ACT (CHAPTER 277)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Road Vehicles (Special Powers) Act. It is not part of the Act.
+1. Ordinance 8 of 1960 — Road Vehicles (Special Powers) Ordinance, 1960 Bill : 52/1960 First Reading : 29 December 1959 Second Reading : 13 January 1960 Notice of Amendments : 13 January 1960 Third Reading : 13 January 1960 Commencement : 15 February 1960 2. Ordinance 59 of 1960 — Road Vehicles (Special Powers) (Amendment) Ordinance, 1960 Bill : 98/1960 First Reading : 20 October 1960 Second and Third Readings : 16 November 1960 Commencement : 25 November 1960 3. L.N. 245/1965 (G.N. Sp. No. S 114/1965) — Modification of Laws (Road Vehicles) (Special Powers) (Singapore) Order, 1965 Commencement : 17 June 1965 4. 1970 Revised Edition — Road Vehicles (Special Powers) Act (Chapter 120) Operation : 15 April 1971 5. Act 18 of 1973 — Road Vehicles (Special Powers) (Amendment) Act, 1973 Bill : 10/1973 First Reading : 26 February 1973 Second and Third Readings : 20 March 1973 Commencement : 6 April 1973 6. Act 10 of 1986 — Road Vehicles (Special Powers) (Amendment) Act 1986 Bill : 17/1985 First Reading : 31 October 1985 Second and Third Readings : 10 January 1986 Commencement : 25 February 1986 7. 1985 Revised Edition — Road Vehicles (Special Powers) Act (Chapter 277) Operation : 30 March 1987 8. 2007 Revised Edition — Road Vehicles (Special Powers) Act (Chapter 277) Operation : 31 March 2007 9. Act 51 of 2007 — Penal Code (Amendment) Act 2007 (Amendments made by section 107 read with item (6) of the Third Schedule to the above Act) Bill : 38/2007 First Reading : 17 September 2007 Second Reading : 22 October 2007 Third Reading : 23 October 2007 Commencement : 1 February 2008 (section 107 read with item (6) of the Third Schedule) 10. Act 19 of 2010 — Hostage-Taking Act 2010 (Amendments made by section 17 of the above Act) Bill : 13/2010 First Reading : 19 July 2010 Second and Third Readings : 16 August 2010 Commencement : 21 November 2010 (section 17) 11. Act 26 of 2018 — Public Order and Safety (Special Powers) Act 2018 (Amendments made by section 59 of the above Act) Bill : 11/2018 First Reading : 27 February 2018 Second Reading : 21 March 2018 Notice of Amendments : 21 March 2018 Third Reading : 21 March 2018 Commencement : 16 May 2018 (section 59)
 
-1. Ordinance 8 of 1960 — Road Vehicles (Special Powers) Ordinance 1960
+Abbreviations
 
-Date of First Reading : 29 December 1959 (Bill No. 52/60 published on 2 January 1960)
-
-Date of Second and Third Readings : 13 January 1960
-
-Date of commencement : 15 February 1960
-
-2. Ordinance 59 of 1960 — Road Vehicles (Special Powers) (Amendment) Ordinance 1960
-
-Date of First Reading : 20 October 1960 (Bill No. 98/60 published on 28 October 1960)
-
-Date of Second and Third Readings : 16 November 1960
-
-Date of commencement : 25 November 1960
-
-3. Act 18 of 1973 — Road Vehicles (Special Powers) (Amendment) Act 1973
-
-Date of First Reading : 26 February 1973 (Bill No. 10/73 published on 28 February 1973)
-
-Date of Second and Third Readings : 20 March 1973
-
-Date of commencement : 6 April 1973
-
-4. Act 10 of 1986 — Road Vehicles (Special Powers) (Amendment) Act 1986
-
-Date of First Reading : 31 October 1985 (Bill No. 17/85 published on 8 November 1985)
-
-Date of Second and Third Readings : 10 January 1986
-
-Date of commencement : 25 February 1986
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
