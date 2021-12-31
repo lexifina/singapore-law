@@ -1,0 +1,8 @@
+# 25. Settlement after reference to Compensation Board
+Part: PART 6 RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION
+
+(1) At any time after proceedings have been commenced before the Compensation Board but before compensation is finally assessed, the Authority may make a written offer of the kind described in section 23(6)(a) or the claimant may by notice to the Authority offer a sum (inclusive or exclusive of costs) which the claimant is willing to accept in full and final settlement of the claim or any rejected part of the claim.
+
+(2) Where an offer made by the Authority pursuant to section 23(6)(a) or by the Authority or the claimant pursuant to subsection (1) is not accepted by the other party, no part of the contents of the offer which relates to any part of a claim before the Compensation Board is to be disclosed to the Board until the amount of compensation for that part is assessed by it but a copy of the offer enclosed in a sealed envelope may be lodged with the president and opened by him or her after the Board has made its assessment.
+
+(3) Where the Authority has made any offer pursuant to section 23(6)(a) which is refused by the claimant or either party has made any offer pursuant to subsection (1) which is refused by the other and the compensation including costs (if any) assessed by the Compensation Board does not exceed the amount of compensation including costs (if any) comprised in the offer, the Board must, unless for special reasons the Board thinks it proper not to do so, order the party who refused the offer to bear the party’s own costs and to pay the costs of the other party insofar as the costs of either party are incurred after the making of the offer.
