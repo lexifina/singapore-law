@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Frustrated Contracts Act.
+This Act is the Frustrated Contracts Act 1959.

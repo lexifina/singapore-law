@@ -1,6 +1,6 @@
-# 3. Provision as to application of this Act
+# 3. Provision as to application of Act
 
-(1) This Act shall apply to contracts whether made before or after the commencement of this Act, as respects which the time of discharge is on or after 1st January 1959, but not to contracts as respects which the time of discharge is before that date.
+(1) This Act shall apply to contracts whether made before or after 13 February 1959, as respects which the time of discharge is on or after 1 January 1959, but not to contracts as respects which the time of discharge is before that date.
 
 (2) This Act shall apply to contracts to which the Government is a party in like manner as to contracts between private persons.
 
@@ -14,6 +14,4 @@
 
 (b) to any contract of insurance, except as is provided by section 2(6); or
 
-(c) to any contract to which section 7 of the Sale of Goods Act (Cap. 393) (which avoids contracts for the sale of specific goods which perish before the risk has passed to the buyer) applies, or to any other contract for the sale, or for the sale and delivery, of specific goods, where the contract is frustrated by reason of the fact that the goods have perished.
-
-[7/97]
+(c) to any contract to which section 7 of the Sale of Goods Act 1979 (which avoids contracts for the sale of specific goods which perish before the risk has passed to the buyer) applies, or to any other contract for the sale, or for the sale and delivery, of specific goods, where the contract is frustrated by reason of the fact that the goods have perished.

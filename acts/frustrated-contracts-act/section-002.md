@@ -12,9 +12,7 @@ any part of the sums so paid or payable, not being an amount in excess of the ex
 
 (4) Where any party to the contract has, by reason of anything done by any other party to the contract in, or for the purpose of, the performance of the contract, obtained a valuable benefit (other than a payment of money to which subsection (2) applies) before the time of discharge, there shall be recoverable from him by that other party such sum (if any), not exceeding the value of that benefit to the party obtaining it, as the court considers just, having regard to all the circumstances of the case and, in particular —
 
-(a) the amount of any expenses incurred before the time of discharge by the benefited party in, or for the purpose of, the performance of the contract, including any sums paid or payable by him to any other party in pursuance of the contract and retained or recoverable by that party under subsection (3);
-
-and
+(a) the amount of any expenses incurred before the time of discharge by the benefited party in, or for the purpose of, the performance of the contract, including any sums paid or payable by him to any other party in pursuance of the contract and retained or recoverable by that party under subsection (3); and
 
 (b) the effect, in relation to that benefit, of the circumstances giving rise to the frustration of the contract.
 
