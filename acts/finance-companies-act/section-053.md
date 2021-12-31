@@ -1,16 +1,14 @@
 # 53. Exemptions
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-(1) This Act shall not apply to —
+(1) This Act does not apply to —
 
-(a) any bank licensed under the Banking Act (Cap. 19); or
+(a) any bank or merchant bank licensed under the Banking Act 1970; or
 
-(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act (Cap. 222).
+(b) any business of pawnbroking carried on by a person licensed under the Pawnbrokers Act 2015.
 
-[37/98; 23/2008]
+[2/2015; 1/2020]
 
-(1A) Every co-operative society registered as a credit society under the Co-operative Societies Act (Cap. 62) to provide financial services shall, to the extent that such services amount to financing business, be exempt from section 3 in respect of such services.
+(2) Every co-operative society registered as a credit society under the Co-operative Societies Act 1979 to provide financial services is, to the extent that such services amount to financing business, exempt from section 3 in respect of such services.
 
-[23/2008]
-
-(2) Notwithstanding the provisions of this Act, the Authority may exempt any finance company from all or any of the provisions of this Act.
+(3) Despite the provisions of this Act, the Authority may exempt any finance company from all or any of the provisions of this Act.

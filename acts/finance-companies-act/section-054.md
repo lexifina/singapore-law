@@ -1,7 +1,7 @@
 # 54. Winding up provisions
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-(1) Without prejudice to the provisions of the Companies Act (Cap. 50) —
+(1) Without affecting the provisions of the Insolvency, Restructuring and Dissolution Act 2018 and Part 4B of the Monetary Authority of Singapore Act 1970 —
 
 (a) a company (whether or not it is being wound up voluntarily) may be wound up under an order of the court on the application of the Authority; and
 
@@ -11,6 +11,6 @@ Part: PART VIII MISCELLANEOUS
 
 (ii) the company has carried on financing business in Singapore in contravention of the provisions of this Act.
 
-[42/2005]
+[10/2013; 40/2018]
 
-(2) In the winding up of a company that has been carrying on financing business, the depositors shall be deemed to be holders of debentures issued to them by the company and secured by a floating charge over all the property and undertaking of the company.
+(2) In the winding up of a company that has been carrying on financing business, the depositors are deemed to be holders of debentures issued to them by the company and secured by a floating charge over all the property and undertaking of the company.

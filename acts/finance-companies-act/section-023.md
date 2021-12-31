@@ -1,13 +1,13 @@
 # 23. Dealings by finance companies and credit facilities and limits
-Part: PART IV REGULATION OF BUSINESS
+Part: PART 4 REGULATION OF BUSINESS
 
-(1) No finance company shall —
+(1) A finance company must not —
 
 (a) accept any deposit which is repayable on demand by cheque, draft or order drawn by a depositor on the finance company;
 
 (b) deal in any foreign currency, gold or any other precious metal;
 
-(c) acquire stocks, shares or debt or convertible securities of any financial, commercial, agricultural, industrial or other undertaking or government which are denominated in any foreign currency;
+(c) acquire securities, securities-based derivatives contracts or units in a collective investment scheme which are denominated in any foreign currency;
 
 (d) grant or permit to be outstanding to any one person or to any group of persons under the control or influence of any one person, any credit facilities if the aggregate amount of such credit facilities exceeds 25% of its capital funds or such other percentage not exceeding 100% of its capital funds as the Authority may approve;
 
@@ -19,17 +19,15 @@ Part: PART IV REGULATION OF BUSINESS
 
 (ii) which in the aggregate and outstanding at any one time exceeds 10% of the capital funds of the finance company.
 
-[27/94]
+[4/2017]
 
-(2) Notwithstanding the provisions of subsection (1)(b) and (c), a finance company with capital funds of not less than $100 million may apply to the Authority for exemption from those provisions and the Authority may approve the application subject to —
+(2) Despite the provisions of subsection (1)(b) and (c), a finance company with capital funds of at least $100 million may apply to the Authority for exemption from those provisions and the Authority may approve the application subject to —
 
-(a) the condition that the aggregate amount of foreign currency exposure of the finance company shall not at any time exceed 10% of its capital funds; and
+(a) the condition that the aggregate amount of foreign currency exposure of the finance company must not at any time exceed 10% of its capital funds; and
 
 (b) any other condition which the Authority may think fit to impose.
 
-[27/94]
-
-(3) Subsection (1)(d) and (e) shall not apply to —
+(3) Subsection (1)(d) and (e) does not apply to —
 
 (a) transactions with the Government;
 
@@ -37,42 +35,38 @@ Part: PART IV REGULATION OF BUSINESS
 
 (c) any other type of transaction which the Authority may from time to time approve.
 
-[27/94]
+(4) Subsection (1)(f) does not apply to the purchase of —
 
-(4) Subsection (1)(f) shall not apply to the purchase of —
+(a) any Singapore Government securities; or
 
-(a) any Government securities; or
+(b) any bonds issued by such statutory corporation as the Authority may, by written notification, determine.
 
-(b) any bonds issued by such statutory corporation as the Authority may, by notification in writing, determine.
+[15/2021]
 
-[27/94]
-
-(5) All the directors of a finance company shall be liable jointly and severally to indemnify a finance company against any loss arising from the making of any unsecured advance, loan or credit facility to —
+(5) All the directors of a finance company are liable jointly and severally to indemnify a finance company against any loss arising from the making of any unsecured advance, loan or credit facility to —
 
 (a) any of its directors, whether those credit facilities are obtained by its directors jointly or severally;
 
 (b) a firm or limited liability partnership in which that finance company or any of its directors has an interest as a partner, manager or agent;
 
-(ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
+(c) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
 
-(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act (Cap. 289), and the subsidiaries of such public company; or
+(d) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other approved exchange which the Authority may approve under the Securities and Futures Act 2001, and the subsidiaries of such public company; or
 
-(d) a corporation that is deemed to be related to the finance company as described in section 6 of the Companies Act (Cap. 50).
+(e) a corporation that is deemed to be related to the finance company as described in section 6 of the Companies Act 1967.
 
-[27/94; 42/2001; 5/2005]
+[4/2017]
 
 (6) In this section —
 
-(a) ‘‘aggregate amount of foreign currency exposure’’ means the aggregate value of investments in securities denominated in foreign currencies which are listed on exchanges recognised by the Authority and holdings of foreign currencies;
+(a) “aggregate amount of foreign currency exposure” means the aggregate value of investments in securities, securities- based derivatives contracts or units in a collective investment scheme, denominated in foreign currencies which are listed on exchanges recognised by the Authority and holdings of foreign currencies;
 
-(b) the reference to ‘‘director’’ in subsection (5) includes the wife, husband, father, mother, son or daughter of a director;
+(b) the reference to “director” in subsection (5) includes the wife, husband, father, mother, son or daughter of a director;
 
-(c) ‘‘substantial loan’’ means any credit facility granted by a finance company to a single person or to any group of persons under the control or influence of a single person which in the aggregate exceeds 15% of the finance company’s capital funds;
+(c) “substantial loan” means any credit facility granted by a finance company to a single person or to any group of persons under the control or influence of a single person which in the aggregate exceeds 15% of the finance company’s capital funds;
 
-(d) ‘‘unsecured advance’’, ‘‘unsecured loan’’ or ‘‘unsecured credit facility’’ means any advance, loan or credit facility given without security, or in respect of any advance, loan or credit facility given with security, any part thereof which at any time exceeds the market value of the assets constituting that security, or where the Authority is satisfied that there is no established market value, on the basis of a valuation approved by it.
+(d) “unsecured advance”, “unsecured loan” or “unsecured credit facility” means any advance, loan or credit facility given without security, or in respect of any advance, loan or credit facility given with security, any part thereof which at any time exceeds the market value of the assets constituting that security, or where the Authority is satisfied that there is no established market value, on the basis of a valuation approved by it.
 
-[27/94; 9/95]
+[4/2017]
 
 (7) Any finance company which contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
-
-[27/94]

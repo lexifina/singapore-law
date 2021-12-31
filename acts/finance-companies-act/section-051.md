@@ -1,6 +1,4 @@
 # 51. Holding out as finance company
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-Where any public or private company or firm or limited liability partnership holds itself out to be a licensed finance company when it is not licensed under this Act, such company or firm or limited liability partnership shall be guilty of an offence and every director, manager or every officer of that company and the proprietor or every partner or officer of that firm and every partner or manager of the limited liability partnership shall, unless he proves that such holding out by the company or firm or limited liability partnership was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[33/84; 5/2005]
+Where any public or private company or firm or limited liability partnership holds itself out to be a licensed finance company when it is not licensed under this Act, such company or firm or limited liability partnership shall be guilty of an offence and every director, manager or every officer of that company and the proprietor or every partner or officer of that firm and every partner or manager of the limited liability partnership shall, unless the person proves that such holding out by the company or firm or limited liability partnership was made without the person’s knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 2 years or to both.

@@ -1,6 +1,6 @@
-# 40. Directors to submit copy of profit and loss account
-Part: PART VII SUBMISSION OF ACCOUNTS AND DUTIES OF AUDITORS
+# 40. Directors to submit copy of financial statements
+Part: PART 7 SUBMISSION OF FINANCIAL STATEMENTS AND DUTIES OFAUDITORS
 
-The directors of a finance company shall submit to the Authority a copy of the profit and loss account and balance-sheet made out under section 201(1) and (3) of the Companies Act (Cap. 50).
+The directors of a finance company must submit to the Authority a copy of the financial statements made under section 201(1) and (2) of the Companies Act 1967.
 
-[33/84]
+[35/2014]
