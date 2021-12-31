@@ -1,0 +1,18 @@
+# 8. Administration of Act and appointment of Registrar of VCCs, etc.
+Part: PART 2 ADMINISTRATION OF ACT
+
+(1) ACRA is responsible for the administration of this Act other than Part 7, subject to the general or special directions of the Minister.
+
+(2) The Minister may, after consulting ACRA —
+
+(a) appoint an officer of ACRA as the Registrar of VCCs; and
+
+(b) appoint from among the officers of ACRA, public officers and the officers of any other statutory body, such number of Deputy Registrars and Assistant Registrars of VCCs as the Minister considers necessary, for the proper administration of this Act.
+
+(3) ACRA may give to the Registrar such directions, not inconsistent with the provisions of this Act, as to the exercise of the Registrar’s powers, functions or duties under this Act, and the Registrar is to give effect to the directions.
+
+(4) Subject to the general direction and control of the Registrar and to such restrictions and limitations as may be prescribed by regulations made under section 165, anything which the Registrar is authorised or required to do or sign under this Act may be done or signed by a Deputy or an Assistant Registrar and is as valid and effectual as if done or signed by the Registrar.
+
+(5) A person dealing with a Deputy or an Assistant Registrar need not inquire whether any restrictions or limitations have been prescribed, and every act or omission of a Deputy or an Assistant Registrar so far as it affects that person is as valid and effectual as if done or omitted by the Registrar.
+
+(6) A court, judge or person acting judicially must take judicial notice of the seal and signature of the Registrar or of a Deputy or an Assistant Registrar.

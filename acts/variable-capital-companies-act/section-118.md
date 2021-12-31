@@ -1,0 +1,8 @@
+# 118. Suspension of actions and proceedings in respect of VCC
+Part: PART 9 INVESTIGATIONS
+
+(1) Section 240 of the Companies Act 1967 applies in relation to a declared VCC as it applies in relation to a declared company under Part 9 of that Act, subject to section 5 and subsection (2).
+
+(2) Where the investigation relates solely to a sub-fund of an umbrella VCC that is a declared VCC, then section 240 of the Companies Act 1967 only applies to an action or proceeding in respect of any instrument mentioned in that section that is made, drawn or accepted by, or issued, transferred, negotiated or endorsed by or to the VCC for the purpose of the sub-fund.
+
+[28/2019]

@@ -1,0 +1,20 @@
+# 137. Effect of registration
+Part: PART 12 TRANSFER OF REGISTRATION
+
+(1) Starting on the date of registration specified in the notice of transfer of registration —
+
+(a) the foreign corporate entity is treated as a VCC and all provisions of this Act pertaining to a VCC apply with such adaptations, exceptions and modifications as may be specified in the regulations;
+
+(b) the collective investment schemes of the foreign corporate entity are treated as sub-funds of an umbrella VCC and all provisions of this Act pertaining to sub-funds apply with such adaptations, exceptions and modifications as may be specified in the regulations; and
+
+(c) if the foreign corporate entity was registered as a foreign company under Division 2 of Part 11 of the Companies Act 1967 immediately before that date, it ceases to be so registered under Division 2 of that Part despite anything under that Act.
+
+(2) To avoid doubt, the registration of a foreign corporate entity does not —
+
+(a) create a new legal entity;
+
+(b) prejudice or affect the identity of the body corporate constituted by the foreign corporate entity, or its continuity as a body corporate;
+
+(c) affect the property, or the rights or obligations, of the foreign corporate entity; or
+
+(d) render defective any legal proceedings by or against the foreign corporate entity, and any legal proceedings that could have been continued or commenced by or against the foreign corporate entity before its registration may be continued or commenced by or against the VCC after the registration.

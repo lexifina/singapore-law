@@ -1,0 +1,16 @@
+# 35. Power to repurchase or redeem own shares
+Part: PART 5 SHARES, DEBENTURES AND CHARGES Division 1 — Shares
+
+(1) The repurchase or redemption by a VCC of its own shares must be —
+
+(a) on such terms and carried out in such manner as may be provided by its constitution; and
+
+(b) in accordance with subsections (2) and (4).
+
+(2) A VCC must not repurchase or redeem its own shares unless they are fully paid.
+
+(3) Subsection (2) does not prevent a repurchase or redemption being made under section 31.
+
+(4) Shares of a VCC which have been repurchased or redeemed by or otherwise transferred to the VCC must be cancelled and the amount of the issued share capital of the VCC must be reduced by the amount of the consideration paid by the VCC for the repurchase, redemption or transfer of the shares.
+
+(5) Subsection (4) does not apply to any repurchase or redemption made under section 31.

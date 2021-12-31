@@ -1,0 +1,27 @@
+# 71. Registers of directors, secretaries, auditors and managers
+Part: PART 6 MANAGEMENT AND ADMINISTRATION Division 1 — Preliminary
+Division: Division 5 — Provisions applicable to officers
+
+(1) Subject to section 5, section 173 of the Companies Act 1967 applies in relation to a VCC, a director, a secretary or an auditor of a VCC, and a VCC’s register of directors, register of secretaries or register of auditors, as it applies in relation to a company, a director, secretary or auditor of a company, and a company’s register of directors, register of secretaries or register of auditors.
+
+(2) Subject to section 5, section 173F(1), (3), (4) and (5) of the Companies Act 1967 applies in relation to a register of directors, register of secretaries and register of auditors of a VCC, as it applies in relation to those registers of a company.
+
+(3) The Registrar must, in respect of each VCC, keep a register of the VCC’s managers.
+
+(4) The register of managers of a VCC must contain the following information in respect of each manager of the VCC:
+
+(a) full name and any former name;
+
+(b) the address of the manager’s principal place of business;
+
+(c) date of appointment;
+
+(d) date of cessation of appointment.
+
+(5) Section 173(4), (8), (9) and (10) of the Companies Act 1967 applies in relation to a manager and the register of managers of a VCC as it applies in relation to a director and the register of directors of a company.
+
+(6) Any document required to be served under this Act on a person who is for the time being a manager of a VCC is sufficiently served if addressed to the person and left at or sent by post to the address that is entered in the register of managers.
+
+(7) Where the Registrar has reasonable cause to believe that a manager has ceased to be a person mentioned in section 46(2), the Registrar may on his or her own initiative amend the register of managers of the VCC to indicate that the person has ceased to be a manager of the VCC by virtue of that fact.
+
+(8) Where the Registrar has reasonable cause to believe that he or she has made an amendment to the register of managers under subsection (7) under a mistaken belief that a manager of a VCC has ceased to be a person mentioned in section 46(2), the Registrar may on his or her own initiative amend the register of managers to restore the name of the person in such register.

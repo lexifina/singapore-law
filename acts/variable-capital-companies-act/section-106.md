@@ -1,0 +1,15 @@
+# 106. Penalty
+Part: PART 8 ANNUAL RETURN, FINANCIAL STATEMENTS AND AUDIT Division 1 — Interpretation
+Division: Division 3 — Financial statements
+
+(1) Subject to section 5 and subsection (2), section 204 of the Companies Act 1967 applies with the necessary modifications in relation to a failure to comply with a provision of this Division (including a provision of that Act as applied by this Division) as it applies in relation to a failure to comply with the corresponding provision of Division 1 of Part 6 of that Act.
+
+(2) For the purpose of subsection (1) —
+
+(a) a reference in section 204 of the Companies Act 1967 to section 201(2) of that Act is to section 100(2);
+
+(b) a reference in section 204 of the Companies Act 1967 to section 201(5) of that Act is to section 100(3) and (4);
+
+(c) a reference in section 204 of the Companies Act 1967 to section 201(16) of that Act is to section 201(16) of that Act as applied by section 100(6); and
+
+(d) a reference in section 204(2) of the Companies Act 1967 to section 201 of that Act is to section 100.
