@@ -1,13 +1,13 @@
 # 30. Infringement of grant of protection
-Part: PART V SCOPE AND NATURE OF GRANT OF PROTECTION
+Part: PART 5 SCOPE AND NATURE OF GRANT OF PROTECTION
 
 (1) A grant of protection is infringed by any person who —
 
-(a) not being entitled by any licence or transfer or otherwise, does in Singapore, or authorises the doing in Singapore of, any act specified in section 28 (1) in respect of any propagating material or harvested material of a protected variety;
+(a) not being entitled by any licence or transfer or otherwise, does in Singapore, or authorises the doing in Singapore of, any act specified in section 28(1) in respect of any propagating material or harvested material of a protected variety;
 
 (b) where propagating material of the protected variety has been imported into Singapore, propagates, sells or uses that material as propagating material without the authority of the grantee concerned; or
 
-(c) imports into Singapore, without the consent of the grantee —
+(c) imports into Singapore, without the grantee’s consent —
 
 (i) from a country that is not a UPOV member, any harvested material of the protected variety; or
 
@@ -27,6 +27,6 @@ Part: PART V SCOPE AND NATURE OF GRANT OF PROTECTION
 
 (iii) all other relevant matters, the Court may, in assessing damages for the infringement, award such additional damages as it considers appropriate in the circumstances.
 
-(4) Where, in any action under this section, it is proved or admitted that an infringement was committed but proved by the defendant that, at the time of that infringement, the defendant was not aware and had no reasonable grounds for supposing that it was an infringement, the plaintiff shall not be entitled under this section to any damages against the defendant in respect of that infringement, but shall be entitled instead to an account of profits in respect of that infringement.
+(4) Where, in any action under this section, it is proved or admitted that an infringement was committed but proved by the defendant that, at the time of that infringement, the defendant was not aware and had no reasonable grounds for supposing that it was an infringement, the plaintiff is not entitled under this section to any damages against the defendant in respect of that infringement, but is entitled instead to an account of profits in respect of that infringement.
 
-(5) Nothing in subsection (4) shall affect any entitlement of a grantee to any relief in respect of the infringement of that grantee’s rights under this Act other than damages.
+(5) Nothing in subsection (4) affects any entitlement of a grantee to any relief in respect of the infringement of that grantee’s rights under this Act other than damages.

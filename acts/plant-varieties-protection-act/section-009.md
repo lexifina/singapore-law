@@ -1,5 +1,5 @@
 # 9. Powers of Registrar
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
 The Registrar may, for the purposes of this Act —
 

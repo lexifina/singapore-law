@@ -1,15 +1,15 @@
 # 29. Essentially derived and certain other plant varieties
-Part: PART V SCOPE AND NATURE OF GRANT OF PROTECTION
+Part: PART 5 SCOPE AND NATURE OF GRANT OF PROTECTION
 
-(1) Where a grant of protection is made under section 21, that grant of protection shall also extend to —
+(1) Where a grant of protection is made under section 21, that grant of protection also extends to —
 
-(a) any plant variety which is essentially derived from the plant variety in respect of which the grant of protection was made (referred to in this section as the original plant variety);
+(a) any plant variety which is essentially derived from the plant variety in respect of which the grant of protection was made (called in this section the original plant variety);
 
-(b) any plant variety which is not distinct in accordance with section 22 (1) (b) from the original plant variety; and
+(b) any plant variety which is not distinct in accordance with section 22(1)(b) from the original plant variety; and
 
 (c) any plant variety the production of which requires the repeated use of the original plant variety.
 
-(2) For the purposes of this section, a plant variety shall be treated as being essentially derived from the original plant variety if —
+(2) For the purposes of this section, a plant variety is to be treated as being essentially derived from the original plant variety if —
 
 (a) it is predominantly derived from the original plant variety or from a plant variety that is itself predominantly derived from the original plant variety;
 

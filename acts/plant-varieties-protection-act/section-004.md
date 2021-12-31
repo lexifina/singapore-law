@@ -1,8 +1,6 @@
-# 4. Application of Act to certain plants
-Part: PART I PRELIMINARY
+# 4. Application of Act
+Part: PART 1 PRELIMINARY
 
-(1) This Act only applies to the plant genera and species listed in the Schedule.
+This Act applies to all plant genera and species.
 
-(2) The Minister may, by notification in the Gazette, amend the Schedule.
-
-[HK Plant Ord. 1997, s. 4]
+[16/2014]

@@ -1,7 +1,7 @@
 # 15. Publication
-Part: PART III APPLICATION FOR GRANT OF PROTECTION
+Part: PART 3 APPLICATION FOR GRANT OF PROTECTION
 
-The Registrar shall publish the following information in the prescribed manner at regular intervals:
+The Registrar must publish the following information in the prescribed manner at regular intervals:
 
 (a) applications for grant of protection;
 
@@ -17,8 +17,6 @@ The Registrar shall publish the following information in the prescribed manner a
 
 (g) lapses of grants of protection;
 
-(h) licences in relation to grants of protection, where applicable;
+(h) licences in relation to grants of protection (where applicable);
 
 (i) any other matters which the Registrar thinks fit.
-
-[UPOV Model Law 1996, Art. 30]

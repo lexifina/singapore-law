@@ -1,5 +1,5 @@
 # 54. Rules
-Part: PART XI MISCELLANEOUS
+Part: PART 11 MISCELLANEOUS
 
 (1) The Minister may make rules —
 
@@ -7,7 +7,7 @@ Part: PART XI MISCELLANEOUS
 
 (b) generally for regulating practice and procedure under this Act.
 
-(2) Without affecting the generality of subsection (1), rules made under this section may make provision —
+(2) Without limiting subsection (1), rules made under this section may make provision —
 
 (a) as to the manner of making applications and filing other documents and in respect of anything that is to accompany or to be furnished together with any application;
 

@@ -1,5 +1,5 @@
 # 41. Rectification of register
-Part: PART IX REGISTER OF PLANT VARIETIES
+Part: PART 9 REGISTER OF PLANT VARIETIES
 
 (1) Any person having a sufficient interest may apply to the Registrar for the rectification of an error or omission in the register.
 
@@ -9,6 +9,4 @@ Part: PART IX REGISTER OF PLANT VARIETIES
 
 (4) The Registrar may make any correction in the register pursuant to any Court order affecting a grant of protection.
 
-(5) The Registrar may remove from the register any matter which appears to him to have ceased to have effect.
-
-[HK Plant Ord. 1997, s. 9]
+(5) The Registrar may remove from the register any matter which appears to him or her to have ceased to have effect.

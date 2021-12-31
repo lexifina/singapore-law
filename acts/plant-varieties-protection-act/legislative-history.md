@@ -1,13 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PLANT VARIETIES PROTECTION ACT 2004
 
-PLANT VARIETIES PROTECTION ACT (CHAPTER 232A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Plant Varieties Protection Act. It is not part of the Act.
+1. Act 22 of 2004 — Plant Varieties Protection Act 2004 Bill : 21/2004 First Reading : 19 May 2004 Second and Third Readings : 15 June 2004 Commencement : 1 July 2004 2. 2006 Revised Edition — Plant Varieties Protection Act (Chapter 232A) Operation : 31 January 2006 3. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 7 of the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 7) 4. G.N. No. S 743/2013 — Plant Varieties Protection Act (Amendment of Schedule) Notification 2013 Commencement : 9 December 2013 5. Act 16 of 2012 — Intellectual Property (Miscellaneous Amendments) Act 2012 (Amendments made by section 2 of the above Act) Bill : 14/2012 First Reading : 14 May 2012 Second and Third Readings : 10 July 2012 Commencement : 7 March 2014 (section 2(a)) 30 July 2014 (section 2(b) to (h)) 6. Act 16 of 2014 — Plant Varieties Protection (Amendment) Act 2014 Bill : 9/2014 First Reading : 17 February 2014 Second and Third Readings : 13 March 2014 Commencement : 30 July 2014 7. Act 23 of 2019 — Intellectual Property (Dispute Resolution) Act 2019 (Amendments made by Part 6 of the above Act) Bill : 17/2019 First Reading : 8 July 2019 Second and Third Readings : 5 August 2019 Commencement : 21 November 2019 (section 26) 8. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 29(12) and section 28(1) read with item 118 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 29(12) and section 28(1) read with item 118 of the Schedule)
 
-Act 22 of 2004 — Plant Varieties Protection Act 2004
+Abbreviations
 
-Date of First Reading : 19 May 2004 (Bill No. 21/2004 published on 20 May 2004)
-
-Date of Second and Third Readings : 15 June 2004
-
-Date of commencement : 1 July 2004
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

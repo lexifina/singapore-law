@@ -1,5 +1,5 @@
 # 51. Hours of business and excluded days
-Part: PART XI MISCELLANEOUS
+Part: PART 11 MISCELLANEOUS
 
 (1) The Registrar may issue practice directions to specify —
 
@@ -24,5 +24,3 @@ Part: PART XI MISCELLANEOUS
 (i) outside the hours of business of the Registry; or
 
 (ii) on an excluded day, may be prescribed for different classes of business.
-
-[Trade Marks 1999 Ed., s. 78]

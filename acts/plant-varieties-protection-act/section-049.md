@@ -1,5 +1,5 @@
 # 49. Forms and directions of Registrar
-Part: PART XI MISCELLANEOUS
+Part: PART 11 MISCELLANEOUS
 
 The Minister may make rules for the publication by the Registrar of —
 

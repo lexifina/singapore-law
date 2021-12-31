@@ -1,7 +1,7 @@
 # 12. Costs awarded by Registrar
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-(1) The Registrar may award costs in respect of the matters, and in the amounts provided for in rules made under this Act, against any party to proceedings brought before him.
+(1) The Registrar may award costs in respect of the matters, and in the amounts provided for in rules made under this Act, against any party to proceedings brought before him or her.
 
 (2) The rules may provide for the taxation of the costs, or any part of the costs, by the Registrar.
 

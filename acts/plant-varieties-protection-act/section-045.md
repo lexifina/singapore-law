@@ -1,5 +1,5 @@
 # 45. Falsely representing plant variety as protected variety
-Part: PART X OFFENCES
+Part: PART 10 OFFENCES
 
 Any person who —
 
@@ -8,5 +8,3 @@ Any person who —
 or
 
 (b) makes a false representation as to the propagating material of a protected variety, knowing or having reason to believe that the representation is false shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
-
-[Trade Marks 1999 Ed., s. 51]
