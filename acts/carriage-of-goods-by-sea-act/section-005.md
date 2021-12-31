@@ -1,0 +1,3 @@
+# 5. Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes
+
+Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, despite anything in the Rules, the bill of lading is not to be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment is not to be deemed to have been guaranteed by the shipper.

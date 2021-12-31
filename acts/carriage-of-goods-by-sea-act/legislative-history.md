@@ -1,0 +1,11 @@
+# LEGISLATIVE HISTORY CARRIAGE OF GOODS BY SEA ACT 1972
+
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
+
+LEGISLATIVE HISTORY DETAILS PART 1 CARRIAGE OF GOODS BY SEA ACT (CHAPTER 184, 1970 REVISED EDITION) 1. Ordinance 4 of 1927 — Carriage of Goods by Sea Ordinance, 1927 Bill : G.N. No. 1630/1926 First Reading : 11 October 1926 Second Reading : 1 November 1926 Notice of Amendments : 7 February 1927 Third Reading : 21 March 1927 Commencement : 20 April 1927 2. 1936 Revised Edition — Carriage of Goods by Sea Ordinance (Chapter 156) Operation : 1 September 1936 3. 1955 Revised Edition — Carriage of Goods by Sea Ordinance (Chapter 173) Operation : 1 July 1956 4. 1970 Revised Edition — Carriage of Goods by Sea Act (Chapter 184) Operation : 1 July 1971 PART 2 CARRIAGE OF GOODS BY SEA ACT 1972 (2020 REVISED EDITION) 5. Act 30 of 1972 — Carriage of Goods by Sea Act, 1972 Bill : 34/1972 First Reading : 24 October 1972 Second and Third Readings : 3 November 1972 Commencement : 16 January 1978 6. Act 13 of 1982 — Carriage of Goods by Sea (Amendment) Act, 1982 Bill : 2/1982 First Reading : 3 March 1982 Second and Third Readings : 26 March 1982 Commencement : 11 June 1982 7. 1985 Revised Edition — Carriage of Goods by Sea Act (Chapter 33) Operation : 30 March 1987 8. Act 6 of 1995 — Carriage of Goods by Sea (Amendment) Act 1995 Bill : 4/1995 First Reading : 23 January 1995 Second and Third Readings : 1 March 1995 Commencement : 31 March 1995 9. 1998 Revised Edition — Carriage of Goods by Sea Act (Chapter 33) Operation : 30 May 1998
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
