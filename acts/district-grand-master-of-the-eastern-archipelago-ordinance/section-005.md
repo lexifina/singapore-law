@@ -1,0 +1,3 @@
+# 5. Purchaser from Corporation not affected by implied trusts
+
+Notwithstanding the trusts declared in section 4 hereof all movable and immovable property that shall from time to time be vested in the Corporation shall subject to the terms of the instrument of trust (if any) affecting the same be nevertheless deemed to be so vested that in favour of any purchaser from and any person dealing with the Corporation the Corporation shall have full power to sell, convey, assign, surrender, yield up, mortgage, demise, re-assign, transfer or otherwise dispose of such property as fully and effectually as if the Corporation were the true and beneficial owner thereof.

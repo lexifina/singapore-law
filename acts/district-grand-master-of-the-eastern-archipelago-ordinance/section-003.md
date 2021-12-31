@@ -1,0 +1,5 @@
+# 3. Power to acquire and dispose of property
+
+(1) The Corporation may acquire, purchase, take, hold, and enjoy movable and immovable property of every description and whether situate in the Colony or elsewhere soever and either by way of gift or for valuable consideration or partly in one way and partly in the other, and may sell, convey, assign, surrender, yield up, mortgage, demise, re-assign, transfer or otherwise dispose of any movable or immovable property vested in the Corporation upon such terms as to the Corporation seem fit.
+
+(2) The Corporation may either alone or in conjunction with any other person or persons whether incorporated or not accept and administer and either in the capacity of an operative or as a custodian trustee any trust express or implied and notwithstanding anything to the contrary contained in section 15 of the Trustees Act 1967 whenever any immovable property is vested in the Corporation as sole trustee upon trust for sale or with power of sale the Corporation shall have the right to give valid receipts for the proceeds of sale or other capital money arising from such property.
