@@ -2,114 +2,120 @@
 
 Sections 2, 3 and 4
 
-Act under which Statutory corporation established or constituted
+Statutory corporation . Act under which established or constituted
 
-1. Accounting and Corporate Accounting and Corporate Regulatory Regulatory Authority Authority Act 2004 (Act 3 of 2004)
+1. Accounting and Corporate . Accounting and Corporate Regulatory Regulatory Authority Authority Act 2004
 
-2. Agency for Science, Agency for Science, Technology and Technology and Research Research Act (Chapter 5A)
+2. Agency for Science, Agency for Science, Technology and Technology and Research Research Act 1990
 
-3. Agri-Food and Veterinary Agri-Food and Veterinary Authority Authority Act (Chapter 5)
+3. Board of Architects Architects Act 1991 THE SCHEDULE — continued
 
-4. Board of Architects Architects Act (Chapter 12)
+Statutory corporation . Act under which established or constituted
 
-5. Building and Construction Building and Construction Authority Authority Act (Chapter 30A)
+4. Building and Construction Building and Construction Authority Authority Act 1999
 
-6. Central Provident Fund Board Central Provident Fund Act (Chapter 36)
+5. Casino Regulatory Authority of Casino Control Act 2006 Singapore
 
-(Contributions to 2004 Ed. Consolidated Fund) CAP. 319A 3
+6. Central Provident Fund Board Central Provident Fund Act 1953
 
-THE SCHEDULE — continued
+7. Civil Aviation Authority of Civil Aviation Authority of Singapore Singapore Act 2009
 
-Act under which Statutory corporation established or constituted
+8. Civil Service College Civil Service College Act 2001
 
-7. Civil Aviation Authority of Civil Aviation Authority of Singapore Singapore Act (Chapter 41)
+9. Competition and Consumer Competition Act 2004 Commission of Singapore
 
-8. Civil Service College Civil Service College Act (Chapter 45)
+10. Council for Estate Agencies Estate Agents Act 2010
 
-9. Commercial and Industrial Commercial and Industrial Security Security Corporation Corporation Act (Chapter 47)
+11. Defence Science and Defence Science and Technology Technology Agency Agency Act 2000
 
-10. Defence Science and Defence Science and Technology Technology Agency Agency Act (Chapter 75A)
+12. Economic Development Board Economic Development Board Act 1961
 
-11. Dental Council Dentists Act (Chapter 76)
+13. Energy Market Authority of Energy Market Authority of Singapore Singapore Act 2001
 
-12. Economic Development Economic Development Board Act Board (Chapter 85)
+14. Enterprise Singapore Board Enterprise Singapore Board Act 2018 THE SCHEDULE — continued
 
-13. Energy Market Authority of Energy Market Authority of Singapore Singapore Act (Chapter 92B)
+Statutory corporation . Act under which established or constituted
 
-14. Health Promotion Board Health Promotion Board Act (Chapter 122B)
+15. Government Technology Government Technology Agency Agency Act 2016
 
-15. Health Sciences Authority Health Sciences Authority Act (Chapter 122C)
+16. Health Sciences Authority Health Sciences Authority Act 2001
 
-16. Housing and Development Housing and Development Act Board (Chapter 129)
+17. Home Team Science and Home Team Science and Technology Technology Agency Agency Act 2019
 
-17. Info-communications Info-communications Development Development Authority of Authority of Singapore Act Singapore (Chapter 137A)
+18. Housing and Development Housing and Development Act 1959 Board
 
-18. Inland Revenue Authority of Inland Revenue Authority of Singapore Singapore Act (Chapter 138A)
+19. Info-communications Media Info-communications Media Development Authority Development Authority Act 2016
 
-19. Intellectual Property Office of Intellectual Property Office of Singapore Singapore Act (Chapter 140)
+20. Inland Revenue Authority of Inland Revenue Authority of Singapore Singapore Act 1992
 
-20. International Enterprise International Enterprise Singapore Singapore Board Board Act (Chapter 143B)
+21. Intellectual Property Office of Intellectual Property Office of Singapore Singapore Act 2001
 
-21. Jurong Town Corporation Jurong Town Corporation Act (Chapter 150)
+22. Jurong Town Corporation Jurong Town Corporation Act 1968
 
-22. Land Transport Authority of Land Transport Authority of Singapore Singapore Act (Chapter 158A)
+23. Land Surveyors Board Land Surveyors Act 1991
 
-(Contributions to 4 CAP. 319A Consolidated Fund) 2004 Ed.
+24. Land Transport Authority of Land Transport Authority of Singapore Singapore Act 1995
 
-THE SCHEDULE — continued
+25. Maritime and Port Authority of Maritime and Port Authority of Singapore Singapore Act 1996 THE SCHEDULE — continued
 
-Act under which Statutory corporation established or constituted
+Statutory corporation . Act under which established or constituted
 
-23. Maritime and Port Authority Maritime and Port Authority of of Singapore Singapore Act (Chapter 170A)
+26. Monetary Authority of Monetary Authority of Singapore Singapore Act 1970
 
-24. Media Development Media Development Authority of Authority of Singapore Singapore Act (Chapter 172)
+27. National Environment Agency National Environment Agency Act 2002
 
-25. Monetary Authority of Monetary Authority of Singapore Act Singapore (Chapter 186)
+28. National Parks Board National Parks Board Act 1996
 
-26. National Environment Agency National Environment Agency Act (Chapter 195)
+29. Professional Engineers Board Professional Engineers Act 1991
 
-27. National Parks Board National Parks Act (Chapter 198A)
+30. Public Transport Council Public Transport Council Act 1987
 
-28. Pharmacy Board Pharmacists Registration Act (Chapter 230)
+31. Public Utilities Board Public Utilities Act 2001
 
-29. Professional Engineers Board Professional Engineers Act (Chapter 253)
+32. Sentosa Development Sentosa Development Corporation Corporation Act 1972
 
-30. Public Transport Council Public Transport Council Act (Chapter 259B)
+33. Singapore Academy of Law Singapore Academy of Law Act 1988
 
-31. Public Utilities Board Public Utilities Act (Chapter 261)
+34. Singapore Accountancy Singapore Accountancy Commission Commission Act 2013
 
-32. Sentosa Development Sentosa Development Corporation Act Corporation (Chapter 291)
+35. Singapore Dental Council Dental Registration Act 1999
 
-33. Singapore Labour Foundation Singapore Labour Foundation Act (Chapter 302)
+36. Singapore Examinations and Singapore Examinations and Assessment Board Assessment Board Act 2003
 
-34. Singapore Land Authority Singapore Land Authority Act (Chapter 301)
+37. Singapore Food Agency Singapore Food Agency Act 2019 THE SCHEDULE — continued
 
-35. Singapore Medical Council Medical Registration Act (Chapter 174)
+Statutory corporation . Act under which established or constituted
 
-36. Singapore Nursing Board Nurses and Midwives Act (Chapter 209)
+38. Singapore Labour Foundation Singapore Labour Foundation Act 1977
 
-37. Singapore Sports Council Singapore Sports Council Act (Chapter 305)
+39. Singapore Land Authority Singapore Land Authority Act 2001
 
-38. Singapore Totalisator Board Singapore Totalisator Board Act (Chapter 305A)
+40. Singapore Medical Council Medical Registration Act 1997
 
-39. Singapore Tourism Board Singapore Tourism Board Act (Chapter 305B)
+41. Singapore Nursing Board Nurses and Midwives Act 1999
 
-40. Singapore Workforce Singapore Workforce Development Development Agency Agency Act 2003 (Act 14 of 2003)
+42. Singapore Pharmacy Council Pharmacists Registration Act 2007
 
-(Contributions to 2004 Ed. Consolidated Fund) CAP. 319A 5
+43. Singapore Sports Council Singapore Sports Council Act 1973
 
-THE SCHEDULE — continued
+44. Singapore Totalisator Board Singapore Totalisator Board Act 1987
 
-Act under which Statutory corporation established or constituted
+45. Singapore Tourism Board Singapore Tourism Board Act 1963
 
-41. Standards, Productivity and Standards, Productivity and Innovation Innovation Board Board Act (Chapter 303A)
+46. SkillsFuture Singapore Agency SkillsFuture Singapore Agency Act 2016
 
-42. Traditional Chinese Medicine Traditional Chinese Medicine Practitioners Board Practitioners Act (Chapter 333A)
+47. Traditional Chinese Medicine Traditional Chinese Medicine Practitioners Board Practitioners Act 2000
 
-43. Urban Redevelopment Urban Redevelopment Authority Act Authority (Chapter 340)
+48. Urban Redevelopment Urban Redevelopment Authority Authority Act 1989 THE SCHEDULE — continued
 
-[7/96; 41/99; 3/2004; S 414/93; S 344/95; S 405/96; S 470/97;
+Statutory corporation . Act under which established or constituted
 
-S 518/97; S 366/98; S 588/2000; S 220/2001; S 312/2001;
+49. Workforce Singapore Agency Workforce Singapore Agency Act 2003
 
-S 143/2003; S 480/2003; S 410/2004]
+[22/2007; 48/2007; 17/2009; 25/2010; 20/2016; 22/2016;
+
+23/2016; 24/2016; 10/2018; 11/2019; 21/2019;
+
+S 148/2005; S 195/2006; S 314/2008; S 476/2014;
+
+S 590/2009]

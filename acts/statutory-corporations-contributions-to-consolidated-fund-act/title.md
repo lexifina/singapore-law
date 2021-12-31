@@ -1,28 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-STATUTORY CORPORATIONS
-(CONTRIBUTIONS TO CONSOLIDATED FUND) ACT
-(CHAPTER 319A)
-Act
-22 of 1989
-1990 Ed. Cap. 319A
-Amended by
-11 of 1991
-7 of 1996
-41 of 1999
-2000 Ed. Cap. 319A
-25 of 2002
-3 of 2004
-REVISED EDITION 2004
-(31st July 2004)
+STATUTORY CORPORATIONS (CONTRIBUTIONS TO
+CONSOLIDATED FUND) ACT 1989
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2004
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the payment into the Consolidated Fund of moneys from the funds of certain statutory corporations.
 
-[21st April 1989]
+[21 April 1989]
