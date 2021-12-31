@@ -1,35 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-CONTROL OF MANUFACTURE ACT
-(CHAPTER 57)
-Ordinance
-14 of 1959
-Amended by
-3 of 1970
-1970 Ed. Cap. 241
-Amended by
-S 382/73
-S 65/74
-S 153/74
-S 208/75
-S 270/80
-S 318/80
-S 175/82
-S 257/84
-1985 Ed. Cap. 57
-Amended by
-S 4/92
-S 247/98
-REVISED EDITION 2001
-(31st July 2001)
+CONTROL OF MANUFACTURE ACT 1959
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2001
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to make provision for the regulation and control of the manufacture of goods.
 
-[4th April 1959]
+[4 April 1959]

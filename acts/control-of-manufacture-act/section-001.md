@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Control of Manufacture Act.
+This Act is the Control of Manufacture Act 1959.
+
+1
