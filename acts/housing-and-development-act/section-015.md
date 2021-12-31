@@ -1,22 +1,8 @@
-# 15. Power to incorporate private companies
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 15. Power to vary rate of interest payable under mortgage
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) The Board may, with the approval of the Minister, form or participate in the formation of any private company (referred to in this section as the company) having such object as may be approved by the Minister.
+(1) Where loans are provided by the Board for the purchase of any property upon a mortgage of that property to the Board, whether the mortgage was entered into before or after 5 September 1986, the Board has the power, despite anything contained in the mortgage document, to vary the rate of interest payable under the mortgage upon giving the mortgagor one month’s notice of the Board’s intention to do so.
 
-[28/89]
+(2) Any notice under subsection (1) must be in writing and is deemed to be sufficiently served on the mortgagor if sent by ordinary post to the mortgagor at the address of the mortgaged property and is deemed to be served on the mortgagor at the time when the letter would, in the ordinary course of post, be delivered.
 
-(2) Notwithstanding the provisions of any written law for the time being in force relating to companies, there shall be registered with the memorandum of association of the company articles of association prescribing regulations for the company.
-
-(3) Such articles of association of the company shall contain, amongst other things, such provisions relating to —
-
-(a) the capital and share structure of the company;
-
-(b) the qualification, appointment, remuneration, powers and proceedings of directors;
-
-(c) dividends and reserve funds; and
-
-(d) the winding up of the company, as may be directed by the Minister, and shall also provide that such employees of the Board as are transferred to the company shall enjoy salaries and conditions of service as near as may be to those on which they were employed by the Board.
-
-(4) The Board may, with the written approval of the Minister, grant loans to any company in which the Board holds any shares.
-
-[28/89]
+[14

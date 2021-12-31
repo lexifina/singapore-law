@@ -1,12 +1,10 @@
-# 20. Contracts
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 20. Submission of proposals, plans and projects by Board
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) The Board may, in accordance with standing orders made under this Act, enter into such contracts as are necessary for the discharge of its functions and duties.
+(1) The Board must from time to time prepare and submit to the Minister proposals, plans and projects showing the nature of the work proposed to be executed and other steps proposed to be undertaken by the Board under sections 12, 18 and 19.
 
-(2) In the case of contracts for the supply of goods or materials or for the execution of works, such standing orders shall —
+(2) The Minister may reject or approve any such proposal, plan or project or any part thereof either without modification or subject to such modification as he or she may think fit.
 
-(a) require that, except as otherwise therein provided, notice of the intention to enter into such contracts shall be published and tenders invited; and
+(3) Every such proposal, plan or project submitted by the Board under this section must be in such form and contain such particulars as the Minister may direct.
 
-(b) regulate the manner in which such notice shall be published and tenders invited.
-
-(3) A person entering into a contract with the Board shall not be bound to inquire whether the standing orders have been complied with and all such contracts, if otherwise valid, shall have full force and effect notwithstanding that the standing orders applicable thereto have not been complied with.
+[19

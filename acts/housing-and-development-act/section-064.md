@@ -1,6 +1,82 @@
-# 64. Notice to quit, etc., not waived by payment made to Board
-Part: PART IV SALE OF FLATS, HOUSES OR OTHER BUILDINGS
+# 64. Power to inspect, search, etc.
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-Where the Board has given notice to quit or notice of breach of condition, covenant or undertaking under a lease or licence agreement or any other agreement or notice of intention to compulsorily acquire, forfeit or re-enter any property provided under this Act, any money paid to the Board after such notice has been given shall not be construed as a waiver of such breach or intention to compulsorily acquire, to terminate a lease or licence agreement or to forfeit or re-enter.
+(1) The Magistrate may, on the application of the Board, issue a warrant authorising the Board by one or more officers authorised by the Board (called in this section an authorised officer) to enter and search —
 
-[21/86]
+(a) any flat, house or other living accommodation sold subject to the provisions of Part 4; or
+
+(b) any other premises (whether or not sold, leased or rented out by the Board) that the owner or occupier of that flat, house or other living accommodation may be residing in, (collectively called in this section the premises), if —
+
+(c) the Magistrate has reason to believe that evidence of any ground under section 63(1) for acquiring that flat, house or other living accommodation can be found in the premises;
+
+or
+
+(d) that owner or occupier fails to comply with a written notice issued under section 65(1)(d) to produce or give access to any document or thing, and the Magistrate has reason to believe that the document or thing can be found in the premises.
+
+[13/2015]
+
+(2) The Magistrate may, if the Magistrate thinks fit, specify in a warrant the particular premises or part of those premises to be searched, and the authorised officer executing the warrant must then search only the specified premises or part of those premises.
+
+[13/2015]
+
+(3) Where an authorised officer executing any search under this section demands entry into or access to any premises liable to search under this section, the owner or occupier or any person in charge of the premises must allow the authorised officer free entry or access and provide all reasonable facilities for a search in the premises.
+
+[13/2015]
+
+(4) Subject to subsection (6), if free entry into or access to the premises cannot be obtained under subsection (3), it is lawful in any case for the authorised officer executing the warrant to break open any outer or inner door or window leading to the premises or to use any other reasonable means in order to gain entry into or access to the premises.
+
+[13/2015]
+
+(5) A warrant is subject to such conditions as the Magistrate may specify and remains in force for the number of days stated in the warrant.
+
+[13/2015]
+
+(6) The Magistrate must specify the following conditions in every warrant:
+
+(a) a list or description of the documents or things, or class of documents or things, that the authorised officer executing the warrant may seize under the search;
+
+(b) whether subsection (4) applies and, if so, the extent of its application.
+
+[13/2015]
+
+(7) The Magistrate may, in addition to the conditions in subsection (6), specify in any warrant such conditions as the Magistrate considers necessary for the proper execution of the warrant and the prevention of any breach of the peace.
+
+[13/2015]
+
+(8) An authorised officer entering the premises under a warrant may take such photographs, or audio or video recordings as the authorised officer thinks necessary of the premises (including anything in the premises).
+
+[13/2015]
+
+(9) If the owner or occupier is present when an authorised officer seeks to execute the warrant, the authorised officer must —
+
+(a) identify himself or herself to the owner or occupier;
+
+(b) show the owner or occupier —
+
+(i) his or her original identity card or such identification card as the Chief Executive Officer may direct to be carried by the authorised officer as proof of his or her identity; and
+
+(ii) some duly authenticated document showing his or her authority;
+
+(c) show the owner or occupier the warrant; and
+
+(d) if required, give the owner or occupier a copy of the warrant.
+
+[13/2015]
+
+(10) If the owner or occupier is not present when execution of the warrant is sought under subsection (9), but some other person who appears to be in charge of the premises is present, then subsection (9) applies to that other person as if he or she were the owner or occupier.
+
+[13/2015]
+
+(11) An authorised officer making a search under this section must prepare and sign a list of all documents and things seized during the search, including recording the location where each document or thing is found.
+
+[13/2015]
+
+(12) In every case, the owner, occupier or person in charge of the premises searched, or a person acting on behalf of the owner, occupier or person in charge, may be present during the search, and must be given a signed copy of the list mentioned in subsection (11).
+
+[13/2015]
+
+(13) The authorised officer executing the warrant must, after duly executing the warrant, report that fact to the Magistrate and submit the list prepared under subsection (11).
+
+[56A
+
+[13/2015]

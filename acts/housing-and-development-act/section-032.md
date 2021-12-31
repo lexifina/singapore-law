@@ -1,14 +1,22 @@
-# 32. Transfer to Board of undertakings and assets of Singapore Improvement Trust
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 32. Powers of composition
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) As from 1st February 1960, the undertakings of the Singapore Improvement Trust shall, except as provided in the Planning Act (Cap. 232), be transferred to and shall vest in the Board without further assurance.
+(1) The Board or any officer of the Board who is authorised by the Board in that behalf may, in its or his or her discretion, compound any offence under this Act or any rules made under section 31 which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
 
-(2) Without prejudice to the generality of subsection (1), that transfer includes —
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
-(a) all lands, buildings and other property, movable or immovable, and all assets, powers, rights and privileges held or enjoyed by the Singapore Improvement Trust in connection therewith, or appertaining thereto;
+(b) a sum not exceeding $5,000, whichever is the lower.
 
-(b) all rights and interests of the Singapore Improvement Trust in any other undertaking; and
+[29/2005; 13/2015]
 
-(c) all liabilities and obligations of the Singapore Improvement Trust.
+(2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
-(3) Any proceedings or cause of action pending or existing immediately before 1st February 1960 by or against the Singapore Improvement Trust in respect of its undertakings may be continued and enforced by or against the Board, as it might have been by or against the Singapore Improvement Trust if this Act had not been passed.
+[29/2005]
+
+(3) The Board may, with the approval of the Minister, make rules prescribing the offences which may be compounded and the method and procedure by which the offences may be compounded.
+
+(4) All sums of money received for the composition of offences under this section must be paid into the Consolidated Fund.
+
+[27A
+
+[13/2015]

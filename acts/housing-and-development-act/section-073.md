@@ -1,14 +1,6 @@
-# 73. Presentation of financial statements and audit reports
-Part: PART V FINANCIAL PROVISIONS
+# 73. Notice to quit, etc., not waived by payment made to Board
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-(1) As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman and the Chief Financial Officer or the Chairman and such officer of the Board as may be authorised in writing by the Board, together with a copy of any report made by the auditor, shall be submitted to the Minister and the President.
+Where the Board has given notice to quit or notice of breach of condition, covenant or undertaking under a lease or licence agreement or any other agreement or notice of intention to compulsorily acquire, forfeit or re-enter any property provided under this Act, any money paid to the Board after the notice has been given is not to be construed as a waiver of the breach or intention to compulsorily acquire, to terminate a lease or licence agreement or to forfeit or re-enter.
 
-[13/75; 30/84; 11/91]
-
-(2) Where the Auditor-General has not been appointed to be the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
-
-[13/75]
-
-(3) The Minister shall cause a copy of the audited financial statements and of the auditor’s report to be published in the Gazette and to be presented to Parliament.
-
-[13/75]
+[64

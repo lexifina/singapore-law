@@ -1,8 +1,10 @@
-# 26. Compulsory acquisition of property before 15th April 1983 not to be called in question
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 26. Power to purchase, sell, lease and exchange lands, etc.
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) Notwithstanding the repeal of section 25 by the Housing and Development (Amendment) Act 1989, no compulsory acquisition of any immovable property before 15th April 1983 shall be called in question in any court on the ground that the acquisition was not in compliance with the repealed section as in force before that date.
+(1) The Board may, with the Minister’s approval, purchase or lease any land required for any of the purposes of this Act.
 
-[28/89]
+(2) The Board may, with the approval of the prescribed approving authority (except for monthly leases), sell, surrender, lease or exchange any land or building belonging to the Board, either in block or in parcels as may be found most convenient or advantageous.
 
-(2) Any action or proceedings pending after 15th April 1983 in any court in respect of any matter to which subsection (1) applies shall be dismissed on application by any party, and the court may make such order as to costs as it thinks fit.
+(3) Subject to section 37, the Board may lease from month to month any land or building belonging to the Board at such rent and upon such terms and conditions as the Board thinks fit.
+
+[24

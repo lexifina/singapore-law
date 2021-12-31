@@ -1,28 +1,24 @@
-# 66. Borrowing powers
-Part: PART V FINANCIAL PROVISIONS
+# 66. Vesting of acquired property in Board
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-(1) The Board may, from time to time, for the purposes of this Act, raise loans —
+(1) When the Board has made a decision under section 63 to compulsorily acquire a flat, house or other living accommodation, the Board may —
 
-(a) from the Government;
+(a) lodge an instrument with the Registrar of Deeds or the Registrar of Titles (as the case may be) for the vesting in the Board of the title to or the estate or interest in that flat, house or other living accommodation —
 
-(b) with the approval of the Minister and subject to the provisions of any written law, within or outside Singapore by any of the methods set out in subsection (3); or
+(i) in the case where no objection has been made pursuant to section 63(5) — on the expiry of a period of 28 days after the date of service of the notice mentioned in section 63(3); and
 
-(c) from such other source within or outside Singapore as the Minister may direct.
+(ii) in the case where an appeal has been made to the Minister — at any time after the appeal has been determined by the Minister or when the appeal is withdrawn, as the case may be; and
 
-[41/98]
+(b) in the case where no lease has been registered in favour of the owner, serve a written notice to terminate the agreement for a lease and to re-possess the flat, house or other living accommodation or part thereof in the name of the whole and thereupon any interest of the purchaser determines absolutely.
 
-(2) The Board shall pay interest on such loans at such rate and at such times, and shall make such provisions for the mode and time or times of repayment of principal, as may be approved by the Minister.
+(2) The Registrar of Deeds or the Registrar of Titles (as the case may be) must register any instrument lodged under subsection (1) without being concerned to inquire into its regularity or validity and —
 
-(3) The Board may, where the approval of the Minister has been obtained to borrow money under subsection (1), raise the money by —
+(a) in the case of a flat, house or other living accommodation registered under the provisions of the Registration of Deeds Act 1988 — the Registrar of Deeds must make an entry in the books of the Registry that the flat, house or other living accommodation has been vested in the Board;
 
-(a) mortgage;
+or
 
-(b) charge, whether legal or equitable, on any property vested in the Board or on any revenue receivable by the Board under this Act or any other Act; or
+(b) in the case of a flat, house or other living accommodation registered under the provisions of the Land Titles Act 1993 — the Registrar of Titles must register the instrument on the relevant folio of the land-register without the necessity of the production of the duplicate certificate of title.
 
-(c) the creation and issue of debentures, stocks or bonds or otherwise.
+(3) Upon the making of the entry or upon registration under subsection (2)(a) or (b), the title to and the estate or interest in the flat, house or other living accommodation vests in the Board free from all encumbrances, subject to such subsisting covenants, conditions or restrictions (if any) as may be binding on the Board, and the Registrar of Deeds or the Registrar of Titles (as the case may be) must cancel the registration of any mortgage, charge or lease thereby overreached.
 
-[41/98]
-
-(4) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
-
-[41/98]
+[57

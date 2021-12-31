@@ -1,10 +1,8 @@
-# 68. Budgets
-Part: PART V FINANCIAL PROVISIONS
+# 68. Taking possession
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-(1) The Board shall, in every financial year, cause to be prepared in a form to be approved by the Minister a budget to be forwarded to the Minister not later than 15th November containing estimates of the income and expenditure of the Board for the ensuing financial year.
+(1) Where any flat, house or other living accommodation has been vested in the Board pursuant to section 50, 59 or 66, the Board may proceed to take possession of the flat, house or other living accommodation on the expiry of a period of 30 days after the service of a notice on the owner thereof.
 
-[30/84]
+(2) If any of the officers of the Board is opposed or impeded in taking possession under this section of any flat, house or other living accommodation, the Board may take such measures (including the calling for the assistance of the police) as are necessary to have the occupants evicted from and to enforce the surrender of the flat, house or other living accommodation and to remove all things and other movable property found therein.
 
-(2) In this Part, ‘‘financial year’’ means a period of 12 months ending on 31st March in any year.
-
-[33/73]
+[59

@@ -1,28 +1,62 @@
-# 65. Power to make rules
-Part: PART IV SALE OF FLATS, HOUSES OR OTHER BUILDINGS
+# 65. Power to require evidence as to identity, examine, etc.
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-(1) The Minister may make rules for giving effect to the provisions of this Part and, in particular, for or with respect to all or any of the following matters:
+(1) For the purposes of investigating any ground under section 63(1) for acquiring any flat, house or other living accommodation, an officer authorised by the Board (called in this section an authorised officer) may do all or any of the following:
 
-(a) the terms and conditions for the sale of any flat, house or other building under the provisions of this Part;
+(a) require any person who appears to be involved in or related to the matter under investigation to provide evidence of the person’s identity;
 
-(aa) the terms and conditions which the Board may impose in granting its consent under section 50 to any sale, lease, mortgage or disposal of a flat, house or other building; and
+(b) examine orally any person who appears to be acquainted with any of the facts or circumstances of the matter under investigation;
 
-those rules may provide that in specified circumstances, the Board shall be deemed for the purposes of that section to have granted its prior written consent subject to such terms and conditions;
+(c) issue a written notice requiring any person within the limits of Singapore, who appears to be acquainted with any of the facts or circumstances of the matter under investigation, to attend before the authorised officer;
 
-(b) the person to whom the flat, house or other building may be sold and the persons who are allowed to stay in it, including the qualifications as to income, the minimum number in the family, citizenship of and ownership of any other properties by all or any such persons;
+(d) issue a written notice requiring any person whom the authorised officer reasonably believes to have —
 
-(c) a scheme of savings, by a prospective purchaser of a flat, house or other building, with the Board for the first minimum payment on a flat, house or other building;
+(i) any information; or
 
-(d) the minimum first payment on the purchase of a flat, house or other building and the maximum period that may be allowed for the payment of the balance of the purchase price, together with the prescribed interest;
+(ii) any document or thing in the person’s possession, custody or control, relevant to the investigation, to —
 
-(e) the functions, duties and powers of a management corporation;
+(iii) provide that information;
 
-(f) regulating the use, management and control of flats, houses or other buildings of the Board, that have been sold under the provisions of this Part, and the common property;
+(iv) produce that document or thing at the time and place stated in the notice; or
 
-(g) prescribing the fees to be charged by the Board for acting for any person in the sale, purchase, transmission of the interest of a deceased owner, transfer, assignment, mortgage, discharge of a mortgage, reconveyance or surrender, of a flat sold under the provisions of this Part or for acting for any surviving joint owner of such a flat in his application to register his entitlement consequent upon the death of the other joint owner; and
+(v) give the authorised officer access to that document or thing.
 
-(h) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Board and be recoverable as such) to be paid by the owner of any flat, house or other living accommodation sold under the provisions of this Part or by any applicant for any such flat, house or other living accommodation for non-observance or non-compliance with any of the restrictions, conditions or requirements of section 47, 55 or 56 where the Board does not institute proceedings against him under any of those sections.
+[13/2015]
 
-[15/71; 13/75; 4/78; 25/79; 20/80; 31/2002]
+(2) Before exercising any power under subsection (1)(a) or (b), an authorised officer must declare his or her office and produce —
 
-(2) All such rules shall be presented to Parliament as soon as possible after publication in the Gazette.
+(a) such identification card as the Chief Executive Officer may direct to be carried by the authorised officer as proof of his or her identity; and
+
+(b) some duly authenticated document showing his or her authority.
+
+[13/2015]
+
+(3) Any person examined under this section must state truly what the person knows of the facts and circumstances of the matter under investigation, except that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture.
+
+[13/2015]
+
+(4) A statement made by any person examined under this section must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+[13/2015]
+
+(5) Any person who is required by an authorised officer to do anything under subsection (1) must comply with that requirement.
+
+[13/2015]
+
+(6) If any person fails to comply with a written notice issued to the person by an authorised officer under subsection (1)(c) or (d), the authorised officer may report the failure to a Magistrate who may then, in the Magistrate’s discretion, issue a warrant ordering the person to comply with the written notice.
+
+[13/2015]
+
+(7) If a person is required merely to produce any document or thing under subsection (1)(d), the person may comply with the requirement by causing the document or thing to be produced instead of bringing it in person.
+
+[56B
+
+[13/2015]

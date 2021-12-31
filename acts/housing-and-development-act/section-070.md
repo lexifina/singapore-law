@@ -1,14 +1,12 @@
-# 70. Supplemental budgets
-Part: PART V FINANCIAL PROVISIONS
+# 70. Giving false information
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-(1) The Board may at any time cause to be prepared a supplemental budget to provide, subject to section 76 (2) (d), for unforeseen or urgently required expenditure containing —
+Any person who —
 
-(a) a revised estimate of the income for the current financial year;
+(a) in relation to the purchase, mortgage, sale or transfer by the person or any other person of a flat, house or other living accommodation; or
 
-(b) a revised estimate of the expenditure for the current financial year; and
+(b) in relation to any application (whether by the person or on behalf of another) to the Board for its permission, consent, approval or licence under this Act or any subsidiary legislation made under this Act, makes (whether orally, electronically, in writing or otherwise) any statement to the Board which is false, and which the person either knows or believes to be false or does not believe to be true, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(c) a statement showing how provision is therein made to meet additional expenditure.
+[60
 
-[33/73]
-
-(2) A supplemental budget shall be dealt with in the manner provided in section 69 for the annual budget.
+[29/2005]

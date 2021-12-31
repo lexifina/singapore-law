@@ -1,6 +1,6 @@
-# 18. Directions by Minister
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 18. Additional functions of Board 1
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) The Minister may, after consultation with the Board, give to the Board general directions not inconsistent with the provisions of this Act and the Board shall give effect to all such directions.
+In addition to the functions and duties imposed by this Act, the Board may undertake such other functions as the Minister may assign to the Board and, in so doing, the Board is deemed to be fulfilling the purposes of this Act and the provisions of this Act apply to the Board in respect of those functions.
 
-(2) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
+[17

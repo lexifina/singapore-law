@@ -1,6 +1,6 @@
-# 22. Power of Board to enter into agreements
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 22. Protection of Board and employees from personal liability
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-It shall be lawful for the Board to make and carry into effect any agreement whereby the Board undertakes to act as agent for the Government or any public authority in the erection of houses or other buildings, the carrying out of repairs, the collection of rents, in relation to any other services in connection with housing or buildings ancillary thereto or, with the approval of the Minister, in relation to any services not connected with housing or buildings ancillary thereto.
+No matter or thing done and no contract entered into by the Board and no matter or thing done by any member or by any employee of the Board or other person whomsoever acting under the direction of the Board shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of carrying out the provisions of this Act, subject them or any of them personally to any action, liability, claim or demand whatsoever.
 
-[41/98]
+[21

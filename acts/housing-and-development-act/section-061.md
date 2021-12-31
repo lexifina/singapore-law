@@ -1,10 +1,14 @@
-# 61. Unauthorised subletting
-Part: PART IV SALE OF FLATS, HOUSES OR OTHER BUILDINGS
+# 61. Board or company may exercise powers of management corporation
+Part: PART 4 SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
-(1) Any person who, being the lessee of a flat, house or other living accommodation sold by the Board subject to the provisions of this Part, assigns, underlets or parts with the possession of the flat, house or other living accommodation or any part thereof without obtaining the prior consent of the Board as required by the lease shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+The functions and duties of a management corporation may be performed and its powers are vested in and may be exercised by —
 
-[13/75]
+(a) the Board —
 
-(2) Any person who abets the commission of an offence under this section shall be punished with the punishment provided for the offence.
+(i) where a management corporation has not been constituted under section 60(5); or
 
-[13/75]
+(ii) where a management corporation, which had been constituted under section 60(5), has been wound up by an order under section 60(15); or
+
+(b) a company authorised by the Board under section 60(3).
+
+[54

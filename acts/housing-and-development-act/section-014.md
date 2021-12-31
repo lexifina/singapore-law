@@ -1,10 +1,20 @@
-# 14. Power to vary rate of interest payable under mortgage
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 14. Use of name, etc., of Board
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) Where loans are provided by the Board for the purchase of any property upon a mortgage of that property to the Board, whether such mortgage was entered into before or after 5th September 1986, the Board shall have the power, notwithstanding anything contained in the mortgage document, to vary the rate of interest payable under the mortgage upon giving the mortgagor one month’s notice of the Board’s intention to do so.
+(1) The Board may conduct its operations under its full name or under the acronym HDB.
 
-[21/86]
+(2) A person other than the Board must not —
 
-(2) Any notice under subsection (1) shall be in writing and shall be deemed to be sufficiently served on the mortgagor if sent by ordinary post to the mortgagor at the address of the mortgaged property and shall be deemed to be served on the mortgagor at the time when the letter would, in the ordinary course of post, be delivered.
+(a) use in connection with a business, trade, profession or occupation;
 
-[21/86]
+(b) use as the name, or as part of the name, of any firm, body corporate or institution; or
+
+(c) use in relation to —
+
+(i) services or products; or
+
+(ii) the promotion, by any means, of the supply of services or products, the name of the Board or the acronym HDB, or a name or acronym so closely resembling the name of the Board or the acronym HDB, as to be likely to be mistaken for it.
+
+(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[13B

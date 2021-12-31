@@ -1,10 +1,22 @@
-# 34. Payment of compensation for transferred properties
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 34. Power to make standing orders
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) The Board shall pay to —
+The Board may, with the approval of the Minister, and subject to the Public Sector (Governance) Act 2018, make standing orders providing for any matter in regard to which standing orders may be made under this Act and, in particular, for the following:
 
-(a) the Housing and Urban Development Company for the estates and interests in the lands vested in the Board under section 33 (1) (a) such compensation as may be agreed between the Board and the Housing and Urban Development Company; and
+(a) the method of entering into contracts by or on behalf of the Board;
 
-(b) the Jurong Town Corporation for the estates and interests in the lands vested in the Board under section 33 (1) (b) such compensation as may be agreed between the Board and the Jurong Town Corporation.
+(b) the delegation of powers to officers of the Board;
 
-(2) Any dispute between the Board and the Housing and Urban Development Company or the Jurong Town Corporation as to the compensation to be paid under subsection (1) shall be referred to an arbitrator to be appointed by the Minister and the decision of the arbitrator shall be final and binding on the parties.
+(c) the opening, keeping, closing and internal audit of accounts of the Board;
+
+(d) the conduct and discipline of officers of the Board;
+
+(e) loans and allowances or gratuities to officers of the Board;
+
+(f) housing accommodation for officers of the Board;
+
+(g) the professional and technical training of officers of the Board.
+
+[28
+
+[5/2018]

@@ -1,5 +1,5 @@
-# 65K. Power to make rules
-Part: PART IVA UPGRADING WORKS IN PRECINCTS
+# 85. Power to make rules
+Part: PART 4A UPGRADING WORKS IN PRECINCTS
 
 The Minister may make rules for giving effect to the provisions of this Part and for the due administration thereof, and, in particular, for or with respect to all or any of the following matters:
 
@@ -13,4 +13,4 @@ The Minister may make rules for giving effect to the provisions of this Part and
 
 (e) prescribing anything that may be prescribed.
 
-[19/92; 16/95]
+[65K

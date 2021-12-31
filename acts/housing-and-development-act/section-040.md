@@ -1,12 +1,12 @@
-# 40. Officers not to be interested in contracts in Singapore
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 40. Payment of compensation for transferred properties
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-(1) No person shall be eligible for employment as an officer of the Board who has, directly or indirectly, by himself or his partner, any share or interest in any contract with, for or on behalf of the Board.
+(1) The Board must pay to —
 
-(2) Any officer of the Board who has or acquires any such share or interest shall be liable in the discretion of the Board to summary dismissal without notice.
+(a) the Housing and Urban Development Company for the estates and interests in the lands vested in the Board under section 39(1)(a) such compensation as may be agreed between the Board and the Housing and Urban Development Company; and
 
-(3) No officer shall be deemed to have or acquire any such share or interest by reason only that —
+(b) the Jurong Town Corporation for the estates and interests in the lands vested in the Board under section 39(1)(b) such compensation as may be agreed between the Board and the Jurong Town Corporation.
 
-(a) he is or becomes a member of an incorporated company which owns land situated in Singapore or has a contract with or executes work for the Board; or
+(2) Any dispute between the Board and the Housing and Urban Development Company or the Jurong Town Corporation as to the compensation to be paid under subsection (1) must be referred to an arbitrator to be appointed by the Minister and the decision of the arbitrator is final and binding on the parties.
 
-(b) he has or acquires a share in any loan issued by the Board or in any security for the same.
+[34

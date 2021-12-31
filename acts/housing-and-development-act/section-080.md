@@ -1,18 +1,14 @@
-# 80. Employee of Board may require evidence of identity in certain cases
-Part: PART VI MISCELLANEOUS
+# 80. Payment of improvement contribution
+Part: PART 4A UPGRADING WORKS IN PRECINCTS
 
-(1) Any police officer or employee of the Board who reasonably believes that any person has committed an offence under this Act may require such person to furnish evidence of his identity and the person shall thereupon furnish such evidence of his identity as may be required by such police officer or employee of the Board.
+(1) Any owner of a flat and any Town Council liable to pay any improvement contribution under section 78 must, upon a written demand by the Board, pay to the Board the improvement contribution not later than one month from the date of the written demand.
 
-[28/89]
+(2) Where —
 
-(2) Any Town Council established under section 4 of the Town Councils Act (Cap. 329A) or —
+(a) no representation has been taken out under a will or on the intestacy of a deceased owner of a flat; or
 
-(a) any member of the Town Council or of any committee of the Town Council appointed under section 31 of that Act; or
+(b) representation has been taken out but the personal representatives fail to apply for the written consent of the Board for the transmission or transfer of the flat, the Board may, for the purposes of recovering any improvement contribution, require the spouse (if any) of the deceased owner or any beneficiary of the deceased owner’s estate who has attained the age of 21 years to pay the improvement contribution as if it is a debt owed by him or her and recoverable from him or her as such, and such person may recover the sums paid by him or her to the Board from the estate of the deceased owner.
 
-(b) any employee of the Town Council, to whom the Board has delegated any of its powers under section 29 (4) who reasonably believes that any person has committed an offence under any rules made under this Act within the Town of the Town Council, may, subject to the production of his authority when requested, require such person to furnish evidence of his identity and that person shall thereupon furnish such evidence of his identity as may be so required.
+(3) If any improvement contribution or any part thereof is not paid by the owner of a flat or a Town Council (as the case may be) on the date due, the owner of the flat, the Town Council or any person liable to pay the improvement contribution must pay interest and a penalty in accordance with the rates prescribed and the interest and penalty, if unpaid, constitute a debt due to the Board and are recoverable as such.
 
-[28/89]
-
-(3) Any person who refuses to furnish any information required of him by any police officer, employee of the Board or person referred to in subsection (2), or wilfully mis-states such information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
-
-[28/89; 31/2002]
+[65F

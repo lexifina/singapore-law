@@ -1,30 +1,8 @@
-# 13. Functions and duties of Board
-Part: PART III FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
+# 13. Symbol or representation of Board
+Part: PART 3 FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
-Subject to the provisions of this Act, it shall be the function and duty of the Board —
+(1) The Board has the exclusive right to the use of such symbol or representation as the Board may select or devise and thereafter display or exhibit in connection with its activities or affairs.
 
-(a) to prepare and execute proposals, plans and projects for —
+(2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(i) the erection, conversion, improvement and extension of any building for sale, lease, rental or other purpose;
-
-(ii) the clearance and redevelopment of slum and urban areas;
-
-(iii) the development or redevelopment of areas designated by the Minister;
-
-(iv) the development of rural or agricultural areas for the resettlement of persons displaced by operations of the Board or other resettlement projects approved by the Minister;
-
-(b) to manage all lands, houses and buildings or other property vested in or belonging to the Board;
-
-(c) to carry out all investigations and the surveys necessary for the performance of the functions and duties of the Board;
-
-(d) to provide loans, with the approval of the Minister, to enable persons to purchase —
-
-(i) any developed land; or
-
-(ii) any other land belonging to the Board for which planning permission to develop has been obtained under the Planning Act (Cap. 232), or any part thereof upon a mortgage of that land;
-
-(e) to exercise such powers and perform such duties as may from time to time be conferred on or delegated to the Board by or under the provisions of any written law; and
-
-(f) to do all such other matters and things as are necessary for the exercise or performance of all or any of the functions and duties of the Board.
-
-[30/84; 16/95]
+[13A
