@@ -1,5 +1,5 @@
 # 16. Codes of practice
-Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (1) The Authority may issue or approve one or more codes of practice and other standards of performance for the regulation of activities and conduct in the electricity industry.
 
@@ -7,8 +7,12 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (3) If any provision in any code of practice issued or approved by the Authority is inconsistent with the regulations, such provision, to the extent of the inconsistency —
 
-(a) shall have effect subject to such regulations; or
+(a) has effect subject to such regulations; or
 
-(b) having regard to such regulations, shall not have effect.
+(b) having regard to such regulations, does not have effect.
 
-(4) Any code of practice issued or approved by the Authority under this section shall be deemed not to be subsidiary legislation.
+(4) Any code of practice issued or approved by the Authority under this section is deemed not to be subsidiary legislation.
+
+(5) In this section, a reference to a code of practice includes a standard of performance.
+
+[18/2006]

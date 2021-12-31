@@ -1,11 +1,11 @@
 # 3. Authority to administer Act
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-(1) The Authority shall be charged with the general administration of this Act and the exercise of the functions and duties imposed on the Authority by this Act.
+(1) The Authority is charged with the general administration of this Act and the exercise of the functions and duties imposed on the Authority by this Act.
 
 (2) The Authority may authorise any person to assist it in the exercise of its functions and duties under this Act, either generally or in a particular case.
 
-(3) Subject to the provisions of this Act, it shall be the function and duty of the Authority —
+(3) Subject to the provisions of this Act, it is the function and duty of the Authority —
 
 (a) to protect the interests of consumers with regard to —
 
@@ -25,9 +25,17 @@ Part: PART II ADMINISTRATION
 
 (d) to secure that electricity licensees whose prices are controlled by the Authority are able to provide an efficient service and maintain financial viability;
 
-(e) to ensure security of supply of electricity to consumers and to arrange for the secure operation of the transmission system in accordance with the market rules or other codes of practice;
+(e) to ensure security of supply of electricity to consumers and to arrange for the secure operation of a transmission system of a transmission licensee in accordance with the market rules or other codes of practice;
 
 (f) to protect the public from dangers arising from the generation, transmission, supply or use of electricity;
+
+(fa) to cooperate and collaborate with the Land Transport Authority of Singapore in the discharge of its functions under the Land Transport Authority of Singapore Act 1995 or other written law insofar as those functions relate to —
+
+(i) promoting and regulating the safe use of electric vehicle chargers in Singapore;
+
+(ii) setting of standards for devices and equipment that are electrical installations and used in the charging of an electric vehicle; and
+
+(iii) undertaking or facilitating the development and maintenance in Singapore of accessible charging points in public and common areas and other ancillary facilities that allow for the safe transfer of electricity to an electric vehicle;
 
 (g) to create an economic regulatory framework in respect of the generation, transmission, import, export, trading and retail of electricity, the provision of market support services and the operation of any wholesale electricity market which —
 
@@ -39,12 +47,14 @@ Part: PART II ADMINISTRATION
 
 (i) to do such other things as are required under this Act and take such steps as are necessary or expedient for the effective discharge of its functions and duties under this Act.
 
-(4) In performing its functions and exercising its powers, the Authority shall —
+[42/2018; 13/2021]
+
+(4) In performing its functions and exercising its powers, the Authority must —
 
 (a) use its reasonable endeavours to apply principles and methodologies to licensees who conduct similar activities within a particular sector of the electricity industry in a non-discriminatory manner; and
 
 (b) act in a reasonable manner in all circumstances.
 
-(5) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+(5) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
-(6) For the purposes of this section, ‘‘consumers’’ includes both existing and future consumers of electricity.
+(6) For the purposes of this section, “consumers” includes both existing and future consumers of electricity.

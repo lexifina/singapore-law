@@ -1,13 +1,13 @@
 # 5. Restriction on disclosure of confidential information
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-(1) This section shall apply if —
+(1) This section applies if —
 
-(a) any information or document is given by a person to the Authority under this Act (other than Part VII); and
+(a) any information or document is given by a person to the Authority under this Act (other than Part 7); and
 
 (b) at the time such information or document is given, the person notifies the Authority in writing that it is of a confidential or commercially sensitive nature.
 
-(2) The Authority shall not disclose to any person the information or the contents of a document to which this section applies unless —
+(2) The Authority must not disclose to any person the information or the contents of a document to which this section applies unless —
 
 (a) the Authority is of the opinion that —
 
@@ -23,18 +23,22 @@ Part: PART II ADMINISTRATION
 
 (c) no appeal is made to the Minister under subsection (3) within 7 days of the date of the giving of the notice.
 
-(3) If a person wishes to appeal to the Minister in respect of a notice given by the Authority under subsection (2) (b), such appeal shall be lodged with the Minister within 7 days of the date of the giving of the notice and the decision of the Minister shall be final.
+(3) A person aggrieved by a notice under subsection (2)(b) may appeal to the Minister under section 98(1) within 7 days of the date of giving of the notice.
 
-(4) Subsection (2) shall not prevent the Authority —
+[18/2006]
 
-(a) from disclosing any information or the contents of a document —
+(4) Subsection (2) does not prevent the Authority from disclosing any information or the contents of any document —
 
-(i) to any member, officer, employee, agent or consultant of the Authority or a member of a committee or panel acting under a delegation by the Authority;
+(a) to any member, officer or employee of the Authority or any agent, consultant, committee or panel acting for or under the direction of the Authority;
 
-(ii) when required to do so by any court or under any written law; or
+(b) to the Minister or any agent, consultant, committee or panel acting for or under the Minister’s direction;
 
-(iii) for the purposes of any criminal proceedings; or
+(c) to an Appeal Panel;
 
-(b) from supplying the information or document to the Minister on a confidential basis or to an Appeal Panel.
+(d) when required to do so by any court or under any written law; or
 
-(5) For the purposes of this section, the disclosure of any information or the contents of a document already in the public domain at the time the Authority wishes to disclose it cannot cause detriment to any person referred to in subsection (2) (a).
+(e) for the purposes of any criminal proceedings.
+
+[18/2006]
+
+(5) For the purposes of this section, the disclosure of any information or the contents of a document already in the public domain at the time the Authority wishes to disclose it cannot cause detriment to any person referred to in subsection (2)(a).

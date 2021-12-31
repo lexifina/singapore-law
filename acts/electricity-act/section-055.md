@@ -1,9 +1,9 @@
 # 55. Power when conducting investigation
-Part: PART VII COMPETITION
+Part: PART 7 COMPETITION
 
-(1) For the purposes of an investigation under section 54, the Authority may, by notice in writing to any person, require that person to produce to the Authority a specified document, or to provide the Authority with specified information, which the Authority considers relates to any matter relevant to the investigation.
+(1) For the purposes of an investigation under section 54, the Authority may, by written notice to any person, require that person to produce to the Authority a specified document, or to provide the Authority with specified information, which the Authority considers relates to any matter relevant to the investigation.
 
-(2) A notice under subsection (1) shall indicate —
+(2) A notice under subsection (1) must indicate —
 
 (a) the subject matter and purpose of the investigation; and
 
@@ -21,11 +21,13 @@ Part: PART VII COMPETITION
 
 (i) to take copies of it or extracts from it; and
 
-(ii) to require such person, or any person who is a present or past officer of his, or is or was at any time employed by him, to provide an explanation of the document; or
+(ii) to require such person, or any person who is a present or past officer of the firstmentioned person, or is or was at any time employed by the firstmentioned person, to provide an explanation of the document;
 
-(b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
+or
 
-(5) In subsection (1), ‘‘specified’’ means —
+(b) if the document is not produced, to require such person to state, to the best of the person’s knowledge and belief, where it is.
+
+(5) In subsection (1), “specified” means —
 
 (a) specified, or described, in the notice; or
 

@@ -1,5 +1,5 @@
 # 9. Electricity licences
-Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (1) The Authority may, with the approval of the Minister, grant or extend an electricity licence, unconditionally or subject to such conditions as the Authority may impose and specify in the licence, and revocably or irrevocably as specified therein, authorising any person to —
 
@@ -7,27 +7,35 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (b) transmit electricity;
 
-(c) retail electricity;
+(c) transmit electricity for or on behalf of a transmission licensee;
 
-(d) import or export electricity;
+(d) retail electricity;
 
-(e) provide any market support services;
+(e) import or export electricity;
 
-(f) trade in any wholesale electricity market; or
+(f) provide any market support services;
 
-(g) operate any wholesale electricity market.
+(g) trade in any wholesale electricity market;
 
-(2) No transmission licensee or market support services licensee shall be granted an electricity licence to carry out any activity other than the transmission of electricity or the provision of market support services, respectively.
+(h) operate any wholesale electricity market; or
 
-(3) A gas transporter under the Gas Act (Cap. 116A) shall not be granted an electricity licence under subsection (1) (a), (c), (d) or (f).
+(i) for the purpose mentioned in paragraph (i) of section 6(1), carry on such activity relating to electricity as may be specified in any order made under that paragraph.
 
-(4) No electricity licensee who is authorised by his licence to operate any wholesale electricity market shall be granted an electricity licence to carry out any activity other than the operation of that market.
+[18/2006; 42/2018]
 
-(5) Every electricity licence granted or extended under this section shall be in writing and shall continue in force, unless revoked or suspended in accordance with this Part, for such period as may be specified in the electricity licence.
+(2) No transmission licensee, transmission agent licensee or market support services licensee may be granted an electricity licence to carry out any activity other than the transmission of electricity, the transmitting of electricity for or on behalf of a transmission licensee or the provision of market support services, respectively.
+
+[18/2006]
+
+(3) A gas transporter under the Gas Act 2001 must not be granted an electricity licence under subsection (1)(a), (d), (e) or (g).
+
+(4) No electricity licensee who is authorised by a licence to operate any wholesale electricity market may be granted an electricity licence to carry out any activity other than the operation of that market.
+
+(5) Every electricity licence granted or extended under this section must be in writing and continues in force, unless revoked or suspended in accordance with this Part, for such period as may be specified in the electricity licence.
 
 (6) An electricity licence may include any restriction or condition (whether or not relating to the activities authorised by the electricity licence) which appears to the Authority to be requisite or expedient having regard to the functions and duties of the Authority under section 3.
 
-(7) Without prejudice to the generality of subsections (1) and (6), an electricity licence may include any condition —
+(7) Without limiting subsections (1) and (6), an electricity licence may include any condition —
 
 (a) requiring the electricity licensee —
 
@@ -41,9 +49,13 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (v) to appoint, at such intervals and on such terms as the Authority may direct, an independent technical auditor for the purposes specified in the condition;
 
-(vi) to prepare for approval by the Authority guidelines regarding the procedures the licensee must follow in the event of any public emergency; and
+(vi) to prepare for approval by the Authority guidelines regarding the procedures the licensee must follow in the event of any public emergency;
 
 (vii) to do or not to do such things as are specified in the electricity licence or are of a description so specified;
+
+and
+
+(viii) where the electricity licensee is a transmission licensee, to carry out any work related to the development of a transmission system or the supply of electricity to any premises;
 
 (b) controlling or fixing prices to be charged for the services provided by a transmission licensee, a market support services licensee or an electricity licensee authorised to operate any wholesale electricity market including —
 
@@ -67,6 +79,6 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (d) which provides for any one or more of the conditions specified in the electricity licence to cease to have effect at such times and in such manner and circumstances as may be specified in or determined by or under the condition.
 
-(8) The Authority shall in writing notify an applicant for the grant or extension of an electricity licence of its decision to grant or refuse to grant or extend the licence and, in the case of a decision to refuse to grant or extend the licence, the reasons for its decision.
+[18/2006]
 
-(9) Any person who is aggrieved by a refusal of the Authority to grant or extend an electricity licence may, within 14 days of the refusal, appeal to the Minister whose decision shall be final.
+(8) The Authority must in writing notify an applicant for the grant or extension of an electricity licence of its decision to grant or refuse to grant or extend the licence and, in the case of a decision to refuse to grant or extend the licence, the reasons for its decision.

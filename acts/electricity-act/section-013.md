@@ -1,7 +1,7 @@
 # 13. Revocation or suspension of electricity licence
-Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
-(1) Subsection (2) shall apply if the Authority is satisfied that —
+(1) Subsection (2) applies if the Authority is satisfied that —
 
 (a) an electricity licensee has gone into compulsory liquidation or voluntary liquidation other than for the purpose of amalgamation or reconstruction;
 
@@ -13,8 +13,8 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (e) the public interest or security of Singapore requires.
 
-(2) The Authority may, by notice in writing and without any compensation —
+(2) The Authority may, by written notice and without any compensation —
 
 (a) revoke an electricity licence or suspend an electricity licence for such period as the Authority thinks fit; and
 
-(b) in the case of subsection (1) (b) or (c), require the payment of a financial penalty, in addition to the imposition of any sanction under section 14, of an amount not exceeding 10% of the annual turnover of that part of an electricity licensee’s business in respect of which the licensee holds a licence, ascertained from the licensee’s latest audited accounts, or an amount not exceeding $1 million, whichever is higher.
+(b) in the case of subsection (1)(b) or (c), require the payment of a financial penalty, in addition to the imposition of any sanction under section 14, of an amount not exceeding 10% of the annual turnover of that part of an electricity licensee’s business in respect of which the licensee holds a licence, ascertained from the licensee’s latest audited accounts, or an amount not exceeding $1 million, whichever is higher.

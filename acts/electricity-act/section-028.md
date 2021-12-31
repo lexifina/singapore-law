@@ -1,13 +1,15 @@
 # 28. Special administration order
-Part: PART IV CONTROL OF ELECTRICITY LICENSEES
+Part: PART 4 SPECIAL ADMINISTRATION ORDER
 
-(1) A special administration order is an order of the Minister made in accordance with section 29 in relation to an electricity licensee directing that, during the period for which the order is in force, the affairs, business and property of that electricity licensee shall be managed directly or indirectly by the Authority —
+(1) A special administration order is an order of the Minister made in accordance with section 29 in relation to an electricity licensee directing that, during the period for which the order is in force, all or any of the affairs, business and property of that electricity licensee is to be managed directly or indirectly by the Authority —
 
 (a) for securing one or more of the purposes of such an order set out in subsection (2); and
 
 (b) in a manner which protects the respective interests of the shareholders and creditors of that electricity licensee.
 
-(2) The purposes referred to in subsection (1) (a) are —
+[42/2018]
+
+(2) The purposes referred to in subsection (1)(a) are —
 
 (a) the security and reliability of the supply of electricity to the public;
 
@@ -19,8 +21,8 @@ Part: PART IV CONTROL OF ELECTRICITY LICENSEES
 
 (3) The Minister may make regulations —
 
-(a) for giving effect to this section and section 29, including regulations governing the transfer of the electricity licensee’s business or undertaking referred to in subsection (2) (c); and
+(a) for giving effect to this section and section 29, including regulations governing the transfer of the electricity licensee’s business or undertaking referred to in subsection (2)(c); and
 
-*No date has yet been appointed for the coming into operation of Part IV as at 30th June 2002.
+(b) where a special administration order is made, for applying, omitting or modifying the provisions of Part 7 of the Insolvency, Restructuring and Dissolution Act 2018.
 
-(b) where a special administration order is made, for applying, omitting or modifying the provisions of Part VIIIA of the Companies Act (Cap. 50).
+[40/2018]

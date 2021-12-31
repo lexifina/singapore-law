@@ -1,37 +1,35 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘ancillary service’’ means a service required or provided for the security or reliability of the electricity system;
+“ancillary service” means a service required or provided for the security or reliability of the electricity system;
 
-‘‘apparatus’’ means any electrical apparatus, equipment or accessory and includes all apparatuses, machines, consuming devices and fittings in which one or more conductors are used or of which they form a part;
+“apparatus” means any electrical apparatus, equipment or accessory and includes all apparatuses, machines, consuming devices and fittings in which one or more conductors are used or of which they form a part;
 
-‘‘Appeal Panel’’ means a panel established by the Minister under section 64;
+“Appeal Panel” means a panel established by the Minister under section 65;
 
-‘‘appointed day’’ means, in relation to a particular provision or Part of this Act, the date of commencement of that provision or Part;
+“authorised officer” means any person authorised by the Authority under section 3(2);
 
-‘‘authorised officer’’ means any person authorised by the Authority under section 3 (2);
+“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act 2001;
 
-‘‘Authority’’ means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act (Cap. 92B);
+“cable detection work” means any work of detecting or locating any electricity cable;
 
-‘‘cable detection work’’ means any work of detecting or locating any electricity cable;
+“cable detection worker” means any person whose trade or occupation requires or includes the personal performance by him or her of cable detection work;
 
-‘‘cable detection worker’’ means any person whose trade or occupation requires or includes the personal performance by him of cable detection work;
+“cable detection work licence” means a licence granted under section 81;
 
-‘‘cable detection work licence’’ means a licence granted under section 81;
+“code of practice” means a code issued or approved by the Authority under section 16;
 
-‘‘code of practice’’ means a code issued or approved by the Authority under section 16;
+“conductor” means an electrical conductor arranged to be electrically connected to an electrical system;
 
-‘‘conductor’’ means an electrical conductor arranged to be electrically connected to an electrical system;
-
-‘‘consumer’’ means a person —
+“consumer” means a person —
 
 (a) to whom electricity is supplied and sold for consumption on that person’s own premises; or
 
 (b) whose premises are for the time being connected to any system for the purpose of purchasing a supply of electricity for consumption on that person’s own premises;
 
-‘‘contestable consumer’’ means a consumer who is, in accordance with this Act, eligible to purchase electricity —
+“contestable consumer” means a consumer who is, in accordance with this Act, eligible to purchase electricity —
 
 (a) from a retail electricity licensee;
 
@@ -39,27 +37,29 @@ In this Act, unless the context otherwise requires —
 
 (c) indirectly from any wholesale electricity market through a market support services licensee;
 
-‘‘document’’ includes electronic records;
+“document” includes electronic records;
 
-‘‘Earth’’ means the conductive mass of the Earth whose electric potential at any point is conventionally taken as zero;
+“Earth” means the conductive mass of the Earth whose electric potential at any point is conventionally taken as zero;
 
-‘‘earthworks’’ means —
+“earthworks” means —
 
-(a) any act of excavating earth, rock or other material (by whatever means) in connection with —
+(a) any act of excavating earth, rock or other material (by whatever means);
 
-(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, road, railway, bridge, viaduct, flyover, sewer or sewage works;
+(b) any act done on, in or under the ground in connection with —
 
-(ii) any work for or relating to the laying, inspecting, repairing or renewing of any main, pipe, cable, fitting or other apparatuses;
+(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, road, railway, bridge, viaduct, flyover, sewer or sewerage works;
+
+(ii) any work for or relating to the laying, inspecting, repairing or renewing of any main, pipe, cable, fitting or other apparatus;
 
 (iii) any soil investigation work; or
 
 (iv) such other works as are usually undertaken by a person carrying on business as a contractor in the construction industry or as a professional civil or structural engineer;
 
-(b) any act of boring, dredging, jacking, levelling, piling or tunnelling on or under any premises or street by any mechanical means; or
+(c) any act of boring, dredging, jacking, levelling, piling or tunnelling on or under any premises or street by any mechanical means; or
 
-(c) the driving or sinking of any earth rod, casing or tube into the ground;
+(d) the driving or sinking of any bar, rod, pole, picket, casing or tube into the ground;
 
-‘‘electric line’’ means any line which is used for carrying electricity for any purpose and includes —
+“electric line” means any line which is used for carrying electricity for any purpose and includes —
 
 (a) any support for the line, that is to say, any structure, pole or other thing in, on, by or from which the line is or may be supported, carried or suspended;
 
@@ -69,85 +69,91 @@ In this Act, unless the context otherwise requires —
 
 (d) any electricity cable;
 
-‘‘electrical installation’’ means any appliance, wire, fitting or other apparatus placed in, on, over or under any premises and used for or for purposes incidental to the conveyance, control or use of electricity supplied or intended to be supplied by an electricity licensee or any other person, and includes a supply installation and any addition, alteration, and repair to an electrical installation, but does not include —
+“electrical installation” means any appliance, wire, fitting or other apparatus placed in, on, over or under any premises and used for or for purposes incidental to the conveyance, control or use of electricity supplied or intended to be supplied by an electricity licensee or any other person, and includes a supply installation and any addition, alteration, and repair to an electrical installation, but does not include —
 
-(a) any electric line, supply line or electrical plant of an electricity licensee;
+(a) any electric line, supply line or electrical plant —
 
-(b) any appliance, wire, fitting or apparatus connected to and beyond any electrical outlet which is installed for the purpose of connecting electrical appliances, fittings or apparatuses and at which fixed wiring terminates;
+(i) of a transmission licensee for the transmission of electricity; or
 
-and
+(ii) of a generation licensee for the generation of electricity;
+
+(b) any appliance, wire, fitting or apparatus connected to and beyond any electrical outlet which is installed for the purpose of connecting electrical appliances, fittings or apparatuses and at which fixed wiring terminates; or
 
 (c) any appliance, wire, fitting or apparatus which is placed in, on, over or under any premises owned or occupied by a transmission licensee which is not used for the consumption of electricity on the premises or solely for the purposes incidental to the conveyance or control of electricity so consumed;
 
-‘‘electrical plant’’ means any plant, equipment, apparatus or appliance used for, or for purposes connected with, the supply of electricity;
+“electrical plant” means any plant, equipment, apparatus or appliance used for, or for purposes connected with, the supply of electricity;
 
-‘‘electrical or supply installation licence’’ means a licence granted by the Authority under section 67;
+“electrical or supply installation licence” means a licence granted by the Authority under section 67;
 
-‘‘electrical system’’ means an electrical system in which all the conductors and apparatuses are electrically or magnetically connected;
+“electrical system” means an electrical system in which all the conductors and apparatuses are electrically or magnetically connected;
 
-‘‘electrical work’’ means any work performed or carried out on any electrical installation and includes the installing, constructing, erecting or repairing thereof or the altering of the structure thereof or the replacing of any part thereof or the adding of any part thereto or the carrying out of any work thereon for the maintenance thereof, but does not include work in relation to —
+“electrical work” means any work performed or carried out on any electrical installation and includes the installing, constructing, erecting or repairing thereof or the altering of the structure thereof or the replacing of any part thereof or the adding of any part thereto or the carrying out of any work thereon for the maintenance thereof, but does not include work in relation to —
 
 (a) the manufacturing of any electrical installation or the assembling thereof in the course of or in connection with its manufacture for the purpose of producing a new article; or
 
 (b) the oiling, greasing, cleaning or painting of any electrical installation;
 
-‘‘electrical worker’’ means any person whose trade or occupation requires or includes the personal performance by him of electrical work or a person who is otherwise competent or qualified to perform personally electrical work;
+“electrical worker” means any person whose trade or occupation requires or includes the personal performance by him or her of electrical work or a person who is otherwise competent or qualified to perform personally electrical work;
 
-‘‘electrical worker licence’’ means a licence granted by the Authority under section 82;
+“electrical worker licence” means a licence granted by the Authority under section 82;
 
-‘‘electricity’’ means electrical power when generated, transmitted, supplied or used for any purpose except the transmission of any communication or signal;
+“electricity” means electrical power when generated, transmitted, supplied or used for any purpose except the transmission of any communication or signal;
 
-‘‘electricity cable’’ means a length of insulated single conductor or of 2 or more such conductors, whether or not the conductor or conductors are provided with an overall covering for mechanical protection, and all other apparatuses or devices connected thereto;
+“electricity cable” means a length of insulated single conductor or of 2 or more such conductors, whether or not the conductor or conductors are provided with an overall covering for mechanical protection, and —
 
-‘‘electricity licence’’ means a licence granted or extended by the Authority under section 9;
+(a) all other apparatus or devices connected to the conductor or conductors, as the case may be (including by any remote or wireless means); and
 
-‘‘electricity licensee’’ means any person who is granted an electricity licence by the Authority;
+(b) any data communication cable used to monitor or control the transmission of electricity;
 
-‘‘electricity system’’ means a system comprising the transmission system and generating stations connected directly or indirectly to the transmission system;
+“electricity licence” means a licence granted or extended by the Authority under section 9;
 
-‘‘electronic records’’ has the same meaning as in the Electronic Transactions Act (Cap. 88);
+“electricity licensee” means any person who is granted an electricity licence by the Authority;
 
-‘‘export’’, in relation to electricity, means the supply of electricity generated in Singapore to any person or premises outside Singapore;
+“electricity system” means a system comprising a transmission system of a transmission licensee and generating stations connected directly or indirectly to the transmission system;
 
-‘‘generate’’ means to produce electricity by means of a generating station for the purpose of giving a supply to any premises or enabling a supply to be so given;
+“electronic records” has the meaning given by the Electronic Transactions Act 2010;
 
-‘‘generating station’’ means any installation used for, or for purposes connected with, the production of electricity;
+“export”, in relation to electricity, means the supply of electricity generated in Singapore to any person or premises outside Singapore;
 
-‘‘generating unit’’ means any apparatus used for, or for purposes connected with, the production of electricity;
+“generate” means to produce electricity by means of a generating station for the purpose of giving a supply to any premises or enabling a supply to be so given;
 
-‘‘generation licensee’’ means a person who is authorised by an electricity licence to generate electricity;
+“generating station” means any installation used for, or for purposes connected with, the production of electricity;
 
-‘‘high voltage’’ means a voltage exceeding 1000V a.c. or 1500V d.c. between conductors, or 600V a.c. or 900V d.c.
+“generating unit” means any apparatus used for, or for purposes connected with, the production of electricity;
 
-between each conductor and Earth;
+“generation licensee” means a person who is authorised by an electricity licence to generate electricity;
 
-‘‘import’’, in relation to electricity, means the supply of electricity generated outside Singapore to any person or premises in Singapore;
-
-‘‘information’’ includes information contained in electronic records;
-
-‘‘installation’’ means, except for the purposes of Part IX, any plant, apparatus, structure, equipment or thing used for the generation, transmission, supply or use of electricity;
-
-‘‘licensed’’ —
-
-(a) in relation to a cable detection worker, means a person who holds a valid cable detection work licence permitting him to perform personally such cable detection work as is specified in his licence; or
-
-(b) in relation to an electrical worker, means a person who holds a valid electrical worker licence permitting him to perform personally such electrical work as is specified in his licence;
-
-‘‘low voltage’’ means a voltage not exceeding 1000V a.c. or 1500V d.c. between conductors, or 600V a.c. or 900V d.c.
+“high voltage” means a voltage exceeding 1000V a.c. or 1500V d.c. between conductors, or 600V a.c. or 900V d.c.
 
 between each conductor and Earth;
 
-‘‘main’’ means a supply line through which electricity is or can be supplied, whether the line is in use or not;
+“import”, in relation to electricity, means the supply of electricity generated outside Singapore to any person or premises in Singapore;
 
-‘‘market participant’’ means a person —
+“information” includes information contained in electronic records;
+
+“installation” means, except for the purposes of Part 9, any plant, apparatus, structure, equipment or thing used for the generation, transmission, supply or use of electricity;
+
+“licensed” —
+
+(a) in relation to a cable detection worker, means a person who holds a valid cable detection work licence permitting him or her to perform personally such cable detection work as is specified in his or her licence; or
+
+(b) in relation to an electrical worker, means a person who holds a valid electrical worker licence permitting him or her to perform personally such electrical work as is specified in his or her licence;
+
+“low voltage” means a voltage not exceeding 1000V a.c. or 1500V d.c. between conductors, or 600V a.c. or 900V d.c.
+
+between each conductor and Earth;
+
+“main” means a supply line through which electricity is or can be supplied, whether the line is in use or not;
+
+“market participant” means a person —
 
 (a) authorised by an electricity licence; and
 
-(b) registered in accordance with the market rules, to trade in any wholesale electricity market and includes a transmission licensee and any department of the Government which generates electricity before 1st April 2001;
+(b) registered in accordance with the market rules, to trade in any wholesale electricity market and includes a transmission licensee and any department of the Government which generates electricity before 1 April 2001;
 
-‘‘market rules’’ means the rules made or modified under section 46;
+“market rules” means the rules made or modified under section 46;
 
-‘‘market support services’’ means any of the following activities in connection with the supply of electricity:
+“market support services” means any of the following activities in connection with the supply of electricity:
 
 (a) the reading of the register of any electricity meter and the management of data relating to meter reading;
 
@@ -159,49 +165,55 @@ between each conductor and Earth;
 
 (e) the supply and sale of electricity to non-contestable consumers;
 
-‘‘market support services licensee’’ means a person who is authorised by an electricity licence to provide market support services;
+“market support services licensee” means a person who is authorised by an electricity licence to provide market support services;
 
-‘‘modification’’ includes any amendment, addition, alteration and variation;
+“meter” means any device for measuring the flow of electricity;
 
-‘‘non-contestable consumer’’ means a consumer who is not a contestable consumer;
+“meter installation” means any meter and, if so equipped, its associated equipment, apparatus, device and installation, including any self-contained meter transformers, wiring, seal, meter test terminal block, test links, fuses, lamps, data recorders, circuit breakers, and communication modems required to provide remote access to the metered data so that readings from the meter can be taken;
 
-‘‘occupier’’ means the person in occupation of any premises and includes the person having the charge, management or control of the premises either on his own account or as an agent of another person, but does not include a lodger;
+“modification” includes any amendment, addition, alteration and variation;
 
-‘‘premises’’ includes buildings, structures, streets, lands, waters, tenements, easements of any tenure, whether State land or not, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority;
+“non-contestable consumer” means a consumer who is not a contestable consumer;
 
-‘‘regulations’’ means the regulations made under this Act;
+“occupier” means the person in occupation of any premises and includes the person having the charge, management or control of the premises either on the person’s own account or as an agent of another person, but does not include a lodger;
 
-‘‘retail’’ means to sell or offer to sell electricity to a contestable consumer;
+“premises” includes buildings, structures, streets, lands, waters, tenements, easements of any tenure, whether State land or not, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority;
 
-‘‘retail electricity licensee’’ means a person who is authorised by an electricity licence to retail electricity to a contestable consumer;
+“regulations” means the regulations made under this Act;
 
-‘‘retail electricity market’’ means the market in which electricity is retailed to a contestable consumer;
+“retail” means to sell or offer to sell electricity to a contestable consumer;
 
-‘‘shares’’, in relation to a company, means shares in, or stocks forming part of, the capital of the company;
+“retail electricity licensee” means a person who is authorised by an electricity licence to retail electricity to a contestable consumer;
 
-‘‘street’’ includes any road, highway, square, footway or passage, whether a thoroughfare or not, over which the public has a right of way, the way over any public bridge, and any road, footway or passage, open court or open alley, used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not; and all channels, sewers, drains, tunnels, ditches and reserves at the side of any street shall be deemed to be part of the street;
+“retail electricity market” means the market in which electricity is retailed to a contestable consumer;
 
-‘‘supply’’ means the supply of electricity through electric lines, and includes —
+“shares”, in relation to a company, means shares in, or stocks forming part of, the capital of the company;
+
+“street” includes any road, highway, square, footway or passage, whether a thoroughfare or not, over which the public has a right of way, the way over any public bridge, and any road, footway or passage, open court or open alley, used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not; and all channels, sewers, drains, tunnels, ditches and reserves at the side of any street are deemed to be part of the street;
+
+“supply” means the supply of electricity through electric lines, and includes —
 
 (a) the supply of electricity generated outside Singapore to any person or premises in Singapore; and
 
 (b) the supply of electricity generated in Singapore to any person or premises outside Singapore;
 
-‘‘supply installation’’ means the whole of any plant or apparatus in an installation owned or managed by a person for the provision of electricity (other than electricity used for the transmission of any communication or signal) solely for his own use, including any machine supplying mechanical energy to a generator, with all necessary related plant, buildings and land, supply lines and consuming apparatuses, if any;
+“supply installation” means the whole of any plant or apparatus in an installation owned or managed by a person for the provision of electricity (other than electricity used for the transmission of any communication or signal) solely for the person’s own use, including any machine supplying mechanical energy to a generator, with all necessary related plant, buildings and land, supply lines and consuming apparatuses, if any;
 
-‘‘supply line’’ means a conductor or other means of conveying, transmitting or distributing electricity, together with all or any part of any casing, coating, covering, tube, pipe, insulator or post enclosing, surrounding or supporting the conductor or any part thereof, or any related building or apparatus for the purpose of transforming, conveying, transmitting or distributing electricity;
+“supply line” means a conductor or other means of conveying, transmitting or distributing electricity, together with all or any part of any casing, coating, covering, tube, pipe, insulator or post enclosing, surrounding or supporting the conductor or any part thereof, or any related building or apparatus for the purpose of transforming, conveying, transmitting or distributing electricity;
 
-‘‘trade’’ means —
+“trade” means —
 
 (a) to sell electricity, ancillary services or any other electricity-related product or service to a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or market support services licensee; or
 
 (b) to purchase electricity, ancillary services or any other electricity-related product or service, where such purchase is made by a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or market support services licensee;
 
-‘‘transmission licensee’’ means a person authorised by an electricity licence to transmit electricity;
+“transmission agent licensee” means a person authorised by an electricity licence to transmit electricity for or on behalf of a transmission licensee;
 
-‘‘transmission system’’ means the system of interconnected electric lines owned by a transmission licensee for the purpose of conveying electricity;
+“transmission licensee” means a person authorised by an electricity licence to transmit electricity;
 
-‘‘transmit’’ means to convey electricity by means of a system which consists wholly or mainly of electric lines and electrical plants and is used for conveying electricity —
+“transmission system” means a system of interconnected electric lines, electrical plants and substations used to transmit electricity;
+
+“transmit” means to convey electricity by means of a transmission system —
 
 (a) from an electrical plant to a substation;
 
@@ -209,4 +221,6 @@ between each conductor and Earth;
 
 (c) from a substation or an electrical plant to the electrical installation serving the premises of a consumer or, where such premises are not served by an electrical installation, from a substation or an electrical plant directly to such premises;
 
-‘‘wholesale electricity market’’ means an electricity market established by the market rules for the trading of electricity, ancillary services or any other electricity-related product or service.
+“wholesale electricity market” means an electricity market established by the market rules for the trading of electricity, ancillary services or any other electricity-related product or service.
+
+[18/2006; 42/2018]

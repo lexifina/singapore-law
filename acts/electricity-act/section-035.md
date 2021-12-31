@@ -1,5 +1,5 @@
 # 35. Entry during discontinuance of supply
-Part: PART V MATTERS RELATING TO ELECTRICITY LICENSEES
+Part: PART 5 MATTERS RELATING TO ELECTRICITY LICENSEES
 
 (1) Where —
 
@@ -7,6 +7,6 @@ Part: PART V MATTERS RELATING TO ELECTRICITY LICENSEES
 
 (b) a person occupying premises supplied with electricity by a retail electricity licensee or market support services licensee ceases to require such a supply; or
 
-(c) a person entering into occupation of any premises previously supplied with electricity by a retail electricity licensee or market support services licensee does not require such a supply, any person authorised in writing by the transmission licensee or market support services licensee may at all reasonable hours, on production of some duly authenticated document showing his authority, enter the premises for the purposes of disconnecting the supply or removing any electrical plant, electric line or electricity meter, as the case may be.
+(c) a person entering into occupation of any premises previously supplied with electricity by a retail electricity licensee or market support services licensee does not require such a supply, any person authorised in writing by the transmission licensee or market support services licensee may at all reasonable hours, on production of some duly authenticated document showing the person’s authority, enter the premises for the purposes of disconnecting the supply or removing any electrical plant, electric line or electricity meter, as the case may be.
 
-(2) Subject to section 39, the person so authorised by a transmission licensee or market support services licensee shall not enter any dwelling-house in actual occupation without 6 hours previous notice to the occupier, unless the occupier has given his consent to the entry.
+(2) Subject to section 39, the person so authorised by a transmission licensee or market support services licensee must not enter any dwelling house in actual occupation without 6 hours’ previous notice to the occupier, unless the occupier has given the occupier’s consent to the entry.

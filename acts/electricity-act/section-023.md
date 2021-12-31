@@ -1,5 +1,5 @@
 # 23. Power to require security
-Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (1) Subject to this section, where any person requires a supply of electricity, a market support services licensee or transmission licensee may require the person, or any retail electricity licensee acting on behalf of a consumer, to give it reasonable security for the payment to it of all money which may become due to it in respect of —
 

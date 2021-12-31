@@ -1,5 +1,5 @@
 # 27. Fuel stocks
-Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (1) In respect of any generating station, the Authority may give a direction requiring the electricity licensee who operates it —
 
@@ -17,7 +17,7 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (b) requiring that electricity licensee to operate, or not to operate, that generating station for specified periods, at specified levels of capacity or use specified fuels.
 
-(3) In this section, ‘‘specified’’ means specified by or under the direction of the Authority and such direction may —
+(3) In this section, “specified” means specified by or under the direction of the Authority and such direction may —
 
 (a) specify the cases and circumstances in which any stocks are to be treated as held at or near any generating station;
 
@@ -28,3 +28,7 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 (d) require anything falling to be specified under the direction to be specified by such person and by reference to such matters as may be specified.
 
 (4) A direction under subsection (1) or (2) which confers on any person the function of specifying anything falling to be specified under the direction may require that person to exercise that function in the manner specified by the direction.
+
+PART 4 SPECIAL ADMINISTRATION ORDER
+
+[18/2006]

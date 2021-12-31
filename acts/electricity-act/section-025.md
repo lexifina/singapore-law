@@ -1,5 +1,5 @@
 # 25. Additional terms of supply of electricity
-Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
+Part: PART 3 LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (1) Where any person requires a supply of electricity, a market support services licensee or a transmission licensee may require (or may cause a retail electricity licensee to require) that person to accept in respect of the supply —
 
@@ -9,4 +9,4 @@ Part: PART III LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (c) any restriction which must be imposed for the purpose of enabling the licensee to comply with this Act and its licence.
 
-(2) If a retail electricity licensee is required to secure the provision or acceptance of any one or more of the conditions or restrictions referred to in subsection (1), the retail electricity licensee shall do all things necessary to secure the provision or acceptance of such conditions or restrictions as may be required in each particular case.
+(2) If a retail electricity licensee is required to secure the provision or acceptance of any one or more of the conditions or restrictions referred to in subsection (1), the retail electricity licensee must do all things necessary to secure the provision or acceptance of such conditions or restrictions as may be required in each particular case.

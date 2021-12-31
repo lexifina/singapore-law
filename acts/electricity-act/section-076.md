@@ -1,5 +1,5 @@
 # 76. Suspension and revocation of electrical or supply installation licence
-Part: PART IX ELECTRICAL AND SUPPLY INSTALLATIONS, CABLE DETECTION WORK AND ELECTRICAL WORKERS
+Part: PART 9 ELECTRICAL AND SUPPLY INSTALLATIONS, CABLE DETECTION WORK AND ELECTRICAL WORKERS
 
 An electrical or a supply installation licence may at any time be suspended or revoked by the Authority —
 

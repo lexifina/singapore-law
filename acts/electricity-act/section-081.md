@@ -1,5 +1,5 @@
 # 81. Powers of Authority in relation to cable detection work
-Part: PART IX ELECTRICAL AND SUPPLY INSTALLATIONS, CABLE DETECTION WORK AND ELECTRICAL WORKERS
+Part: PART 9 ELECTRICAL AND SUPPLY INSTALLATIONS, CABLE DETECTION WORK AND ELECTRICAL WORKERS
 
 (1) The Authority may —
 
@@ -17,6 +17,6 @@ Part: PART IX ELECTRICAL AND SUPPLY INSTALLATIONS, CABLE DETECTION WORK AND ELEC
 
 (g) keep a register of licensed cable detection workers.
 
-(2) No person other than a licensed cable detection worker shall be entitled to recover in any court any charge, fee or remuneration for any cable detection work carried out by the person.
+(2) No person other than a licensed cable detection worker is entitled to recover in any court any charge, fee or remuneration for any cable detection work carried out by the person.
 
-(3) Any cable detection work licence issued under the Public Utilities Act (Cap. 261, 1996 Ed.) in force immediately before the appointed day shall, so far as it is not inconsistent with this Act, continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
+(3) Any cable detection work licence issued under the Public Utilities Act (Cap. 261, 1996 Revised Edition) in force immediately before 1 January 2003 is, so far as it is not inconsistent with this Act, to continue in force until suspended or revoked and is deemed to have been issued under this Act.

@@ -1,11 +1,11 @@
 # 48. Limitation of actions under market rules
-Part: PART VI WHOLESALE ELECTRICITY MARKET
+Part: PART 6 WHOLESALE ELECTRICITY MARKET
 
 (1) If the market rules include a provision —
 
 (a) that regulates the manner in which disputes under the market rules or referred to in the market rules are to or may be resolved; and
 
-(b) that restricts recourse to the courts until such time as the dispute resolution process in the market rules has been exhausted, recourse to the courts shall be limited in the manner prescribed by the market rules, including a restriction against appeals to a court except in relation to matters of law and jurisdiction.
+(b) that restricts recourse to the courts until such time as the dispute resolution process in the market rules has been exhausted, recourse to the courts is to be limited in the manner prescribed by the market rules, including a restriction against appeals to a court except in relation to matters of law and jurisdiction.
 
 (2) Nothing in this section is to be read or construed as —
 

@@ -1,5 +1,5 @@
 # 45. Liability of Market Company
-Part: PART VI WHOLESALE ELECTRICITY MARKET
+Part: PART 6 WHOLESALE ELECTRICITY MARKET
 
 (1) No suit or other legal proceedings shall lie against any director, officer, employee or agent of the Market Company or any person acting under the direction of the Market Company for anything which is in good faith done or not done, in the execution or purported execution of the functions of the Market Company.
 
