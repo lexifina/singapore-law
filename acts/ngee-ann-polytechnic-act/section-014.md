@@ -1,0 +1,5 @@
+# 14. Use of common seal
+
+(1) The common seal of the Polytechnic must be in the custody of the Principal and must not be affixed to any instrument, other than a diploma or academic certificate, except in the presence of the Chairperson or a member of the Council and the Principal, who must sign their names to the instrument in token of their presence before the common seal is affixed and the signing is sufficient evidence that the common seal of the Polytechnic has been duly and properly affixed and that the seal is the lawful seal of the Polytechnic.
+
+(2) The common seal of the Polytechnic may be affixed to any diploma or academic certificate in the presence of any 2 officers of the Polytechnic duly authorised by the Council to act in that behalf, who must sign their names to the diploma or academic certificate in token of their presence before the common seal is affixed and the signing is sufficient evidence that the common seal of the Polytechnic has been duly and properly affixed and that the seal is the lawful seal of the Polytechnic.
