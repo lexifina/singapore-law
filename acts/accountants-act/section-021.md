@@ -1,8 +1,11 @@
 # 21. Notification of approval and record in Register
-Part: PART IV ACCOUNTING CORPORATIONS AND ACCOUNTING FIRMS
+Part: PART 4 ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPS
+Heading: LLP
 
-Where the Oversight Committee has approved a company or firm as an accounting corporation or an accounting firm under this Part, the Registrar shall —
+Where the Oversight Committee has approved a company, a firm or a limited liability partnership as an accounting corporation, an accounting firm or an accounting LLP under this Part, the Registrar must —
 
-(a) notify the accounting corporation or accounting firm of the approval; and
+(a) notify the accounting corporation, accounting firm or accounting LLP of the approval; and
 
-(b) record the name and relevant particulars of the accounting corporation or accounting firm in the Register of Public Accounting Corporations or the Register of Public Accounting Firms, as appropriate.
+(b) record the name and relevant particulars of the accounting corporation, accounting firm or accounting LLP in the Register of Public Accounting Corporations, the Register of Public Accounting Firms or the Register of Public Accounting Limited Liability Partnerships, as appropriate.
+
+[11/2006]

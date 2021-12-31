@@ -1,21 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-ACCOUNTANTS ACT
-(CHAPTER 2)
-Act
-4 of 2004
-Amended by
-28 of 2004
-REVISED EDITION 2005
-(31st July 2005)
+ACCOUNTANTS ACT 2004
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2005
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act relating to accountants.
+An Act relating to public accountants.
 
-[1st April 2004]
+[5/2013]
+
+[1 April 2004]
