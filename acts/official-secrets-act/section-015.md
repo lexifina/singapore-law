@@ -9,5 +9,3 @@
 (4) A search warrant issued under this section shall, if issued by a Magistrate under the seal of his court, be returned to his court and in any other case shall be returned to a District Court.
 
 (5) When it appears to an officer of police not below the rank of sergeant that the case is one of great emergency and that in the interests of Singapore immediate action is necessary, he may, by a written order under his hand, give to any constable the like authority as may be given by the warrant of a Justice of the Peace under this section.
-
-[21/73]

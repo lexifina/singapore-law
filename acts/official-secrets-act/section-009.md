@@ -4,6 +4,4 @@
 
 (2) Any person who, on being required to produce any such original or transcript or paper as aforesaid, refuses or neglects to do so, or mutilates or destroys the same, shall be guilty of an offence.
 
-(3) In this section “message” and “telecommunication system” shall have the same meanings as in the Telecommunications Act (Cap. 323).
-
-[43/99]
+(3) In this section “message” and “telecommunication system” shall have the same meanings as in the Telecommunications Act 1999.

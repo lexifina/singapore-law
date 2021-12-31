@@ -14,8 +14,6 @@
 
 (f) uses, or has in his possession or under his control, without the authority of the Government department or any specified organisation or the authority concerned, any key, badge, device, die, seal or stamp of or belonging to, or used, made or provided by any Government department or any specified organisation, or by any diplomatic, naval, military or air force authority appointed by or acting under the authority of the Government or that specified organisation, or any key, badge, device, die, seal or stamp so nearly resembling any such articles as aforesaid as to be calculated to deceive, or counterfeits any such articles as aforesaid, or uses, or has in his possession, or under his control, any such counterfeited articles as aforesaid, he shall be guilty of an offence.
 
-[27/2001]
-
 (2) If any person —
 
 (a) retains for any purpose prejudicial to the safety or interests of Singapore any official document, whether or not completed or issued for use, when he has no right to retain it, or when it is contrary to his duty to retain it, or fails to comply with any directions issued by any Government department or any specified organisation or any person authorised by that department or specified organisation with regard to the return or disposal thereof;
@@ -25,7 +23,5 @@
 (c) without lawful authority or excuse, manufactures or sells, or has in his possession for sale, any such key, badge, device, die, seal or stamp as aforesaid; or
 
 (d) with intent to obtain an official document, secret official code word, countersign or password, whether for himself or for any other person, knowingly makes any false statement, he shall be guilty of an offence.
-
-[27/2001]
 
 (3) In the case of any prosecution under this section involving the proof of a purpose prejudicial to the safety or interests of Singapore, section 3(6) shall apply in like manner as it applies to prosecutions under that section.

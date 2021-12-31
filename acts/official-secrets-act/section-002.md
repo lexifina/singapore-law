@@ -34,8 +34,6 @@
 
 “specified organisation” means any organisation specified in the Schedule.
 
-[7/97; 27/2001]
-
 (2) Expressions referring to —
 
 (a) communicating or receiving include any communicating or receiving, whether in whole or in part, and whether the photograph, drawing, plan, model, article, note, document or information itself or the substance, effect or description thereof is communicated or received;
@@ -45,5 +43,3 @@
 (c) the communication of any photograph, drawing, plan, model, article, note or document include the transfer or transmission of the photograph, drawing, plan, model, article, note or document.
 
 (3) The President may, by notification in the Gazette, amend the Schedule.
-
-[27/2001]

@@ -14,8 +14,6 @@ Provided that it shall not be an offence under this subsection to take or make, 
 
 (3) The taking or making of any photograph, drawing, map, measurement, sounding or survey in accordance with the terms and conditions in such permit as the competent authority sees fit to give shall not be an offence under subsection (2). It may be a term or condition of that permit that anything so taken or made shall immediately be submitted to the competent authority for examination who, if satisfied that there is reasonable cause to believe that the thing so taken or made contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, shall send it to the Minister, and the Minister may give such orders in respect of the thing as he is empowered to give under subsection (8).
 
-[7/97]
-
 (4) The Minister may, by notification in the Gazette, provide who shall be the competent authority for the purposes of subsection (3).
 
 (5) Any person who makes or assists in making a declaration or statement which is false in any material respect for the purpose of obtaining a permit from a competent authority shall be guilty of an offence and shall be liable on conviction before a District Court to a fine not exceeding $2,000, or before a Magistrate’s Court to a fine not exceeding $1,000.
@@ -25,5 +23,3 @@ Provided that it shall not be an offence under this subsection to take or make, 
 (7) If a Magistrate’s Court is satisfied that there is reasonable cause to believe that a photograph or drawing contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, the Court may issue a search warrant to search for and seize such photograph or drawing even though an offence under this Act is not alleged to have been committed.
 
 (8) The photograph or drawing, if seized under the search warrant or voluntarily produced by the person in whose possession it is, shall be sent by the Court to the Minister, and the Minister may if he considers that the photograph or drawing contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, order the photograph or drawing to be forfeited, or order that any part of the photograph or drawing be obliterated, erased or removed.
-
-[7/97]

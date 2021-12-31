@@ -1,5 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Official Secrets Act.
+This Act is the Official Secrets Act 1935.
 
 1
