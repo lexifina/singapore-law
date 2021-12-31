@@ -1,0 +1,3 @@
+# 6. Orders to be presented to Parliament
+
+Any order made by the Price Controller under section 4, 5 or 8 shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when an order was so presented annulling the order or any part thereof as from a specified date, the order or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to anything previously done thereunder or to the making of a new order.
