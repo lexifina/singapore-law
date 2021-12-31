@@ -1,0 +1,5 @@
+# 7. Vesting of property
+
+(1) All movable and immovable property in Singapore which, immediately before 27 February 1959 was vested in the Chief Secretary, Federation of Malaya, under the provisions of the Chief Secretary, Federation of Malaya (Incorporation) Ordinance (Cap. 294, 1955 Revised Edition), shall, on that date and without any conveyance, assignment or transfer whatever, vest in the Corporation for the like title, estate or interest and on the like tenure as the same was vested or held immediately before that date.
+
+(2) The President may, by order, vest in the Corporation any property, movable or immovable, for the time being vested in any officer or person for the purposes of the Government of Malaysia and, upon the coming into operation of any such order, the property to which the order relates shall, without any conveyance, assignment or transfer whatever, vest in the Corporation for the like title, estate or interest and on the like tenure as the same was vested or held immediately before the coming into operation of the order.
