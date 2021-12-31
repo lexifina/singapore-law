@@ -1,35 +1,37 @@
-# 32. Insurance broking premium accounts
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
-Division: Division 2 — Life Insurance
+# 32. False statements in relation to notification of appointed or provisional representative
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
+Division: Division 2 — Representatives
 
-(1) Every licensed financial adviser which receives any money —
+(1) Any principal who, in connection with the lodgment of any document under section 26 —
 
-(a) from or on behalf of an insured or intending insured for or on account of an insurer in connection with a contract of insurance or a proposed contract of insurance; or
+(a) makes a statement which is false or misleading in a material particular; or
 
-(b) from or on behalf of an insurer for or on account of an insured or intending insured, shall, for the purposes of this section, establish and maintain a separate account with a bank licensed under the Banking Act (Cap. 19).
+(b) omits to state any matter or thing without which the document is misleading in a material respect, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-[15/2003]
+[1/2009]
 
-(2) The Authority may prescribe, in relation to an account established under subsection (1) —
+(2) Any individual who, in connection with the lodgment by the individual’s principal of any document under section 26 —
 
-(a) the types of moneys that must be paid into or withdrawn from such account;
+(a) makes a statement to the individual’s principal which is false or misleading in a material particular, being a statement subsequently lodged with the Authority; or
 
-(b) the manner in which moneys should be paid into or withdrawn from such account;
+(b) omits to state any matter or thing to the individual’s principal as a result of which the document is misleading in a material respect, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-(c) the manner in which moneys held in such account are to be invested;
+[1/2009]
 
-(d) the manner in which the proceeds from the investment of moneys held in such account are to be distributed;
+(3) Any person who, when required to provide any document or information to the Authority under section 23(3) or 24(4) (in relation to the application of section 23(3) to a provisional representative) —
 
-(e) the rights and obligations of any party in relation to moneys held in such account; and
+(a) makes a statement to the Authority which is false or misleading in a material particular; or
 
-(f) any other matter which the Authority considers to be incidental to or necessary for this section.
+(b) omits to state any matter or thing to the Authority without which the document or information is misleading in a material respect, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-(3) A lien or claim on the moneys in any account established by any licensed financial adviser under subsection (1) shall be void unless the moneys in the account are for fees due and owing to the licensed financial adviser.
+[1/2009]
 
-(4) A charge or mortgage on the moneys in any account established by any licensed financial adviser under subsection (1) shall be void.
+(4) A person mentioned in subsection (1), (2) or (3) shall not be guilty of an offence if the person proves that the person —
 
-(5) In this section, ‘‘moneys’’ means any sum received by a licensed financial adviser as agent for an insured or intending insured, including policy moneys, premiums and claims payments.
+(a) made all inquiries (if any) that were reasonable in the circumstances; and
 
-(6) Any licensed financial adviser which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
+(b) after doing so, believed on reasonable grounds that the statement made or the omission to state the matter or thing (as the case may be) was not false or misleading.
 
-[Insurance Intermediaries, s. 22]
+[23L
+
+[1/2009]

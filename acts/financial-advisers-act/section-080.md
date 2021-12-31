@@ -1,32 +1,51 @@
-# 80. Assistance that may be rendered
-Part: PART VII ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
+# 80. Inspection by Authority
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 2 — Inspection Powers of Authority
 
-(1) Notwithstanding the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a regulatory authority of a foreign country for assistance —
+(1) The Authority may from time to time inspect, under conditions of secrecy, the books of —
 
-(a) transmit to the regulatory authority any material in the possession of the Authority that is requested by the regulatory authority or a copy thereof;
+(a) a licensed financial adviser;
 
-(b) order any person to furnish to the Authority any material that is requested by the regulatory authority or a copy thereof, and transmit the material or copy to the regulatory authority;
+(b) an exempt financial adviser in respect of its business of providing any financial advisory service; or
 
-(c) order any person to transmit directly to the regulatory authority any material that is requested by the regulatory authority or a copy thereof;
+(c) a representative.
 
-(d) order any person to make an oral statement to the Authority on any information requested by the regulatory authority, record such statement, and transmit the recorded statement to the regulatory authority; or
+[1/2009]
 
-(e) request any Ministry, Government department or statutory authority to furnish to the Authority any material that is requested by the regulatory authority or a copy thereof, and transmit the material or copy to the regulatory authority.
+(2) For the purposes of an inspection under this section —
 
-(2) The assistance referred to in subsection (1) (c) may only be rendered if the material sought is to enable the regulatory authority to carry out investigation or enforcement.
+(a) a person referred to in subsection (1), and any person who is in possession of the books, must produce such books to the Authority and give such information or facilities as may be required by the Authority;
 
-(3) An order under subsection (1) (b), (c) or (d) shall have effect notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
+(b) a person referred to in subsection (1) must procure that any person who is in possession of its books produce the books to the Authority and give such information or facilities as may be required by the Authority; and
 
-(4) A person is not excused from making an oral statement pursuant to an order made under subsection (1) (d) on the ground that the statement might tend to incriminate him but, where the person claims before making the statement that the statement might tend to incriminate him, that statement is not admissible in evidence against him in criminal proceedings other than proceedings for an offence under section 81.
+(c) the Authority may —
 
-(5) Nothing in this section shall compel an advocate and solicitor —
+(i) make copies of, or take possession of, any of such books;
 
-(a) to furnish or transmit any material or copy thereof that contains; or
+(ii) use, or permit the use of, any of such books for the purposes of any proceedings under this Act; and
 
-(b) to disclose, a privileged communication made by or to him in that capacity.
+(iii) retain possession of any of such books for so long as is necessary —
 
-(6) An advocate and solicitor who refuses to disclose, or to furnish or transmit any material or copy thereof that contains, any privileged communication shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
+(A) for the purposes of exercising a power conferred by this section (other than subsection (4));
 
-(7) Any advocate and solicitor who contravenes subsection (6) shall be guilty of an offence.
+(B) for a decision to be made on whether or not proceedings should be commenced under this Act in relation to such books; or
 
-[SF Bill, Clause 172]
+(C) for such proceedings to be commenced and carried on.
+
+[1/2009]
+
+(3) No person is entitled, as against the Authority, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
+
+(4) While the books are in the possession of the Authority, the Authority —
+
+(a) must permit another person to inspect at all reasonable times such (if any) of the books as the other person would be entitled to inspect if they were not in the possession of the Authority; and
+
+(b) may permit another person to inspect any of the books.
+
+[1/2009]
+
+(5) The Authority may require a person who produced any book to the Authority to explain, to the best of his or her knowledge and belief, any matter about the compilation of the book or to which the book relates.
+
+(6) Any person who fails, without reasonable excuse, to comply with subsection (2) or a requirement of the Authority under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
+
+[70

@@ -1,7 +1,9 @@
-# 44. Extract of register
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
-Division: Division 4 — Register of Interests in Securities
+# 44. Application of this Division
+Part: PART 3 CONDUCT OF BUSINESS Division 1 — General
+Division: Division 3 — Specified Products
 
-The Authority may supply a copy of an extract of a register obtained under section 42 to any person who, in the opinion of the Authority, should in the public interest be informed of the dealing in securities disclosed in the register.
+This Division applies to licensed financial advisers who provide any financial advisory service in respect of specified products.
 
-[SF Bill, Clause 136]
+[35
+
+[1/2009; 4/2017]

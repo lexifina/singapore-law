@@ -1,18 +1,52 @@
-# 66. General provisions as to winding up
-Part: PART V POWERS OF AUTHORITY
+# 66. Objection to control of licensed financial adviser
+Part: PART 5 POWERS OF AUTHORITY
 
-(1) The persons who may apply under the Companies Act (Cap. 50) for the winding up of the affairs of a licensed financial adviser, or for the continuance of the winding up of the affairs of a licensed financial adviser subject to the supervision of the court, shall include the Authority.
+(1) The Authority may serve a written notice of objection on —
 
-[42/2005]
+(a) any person required to obtain the Authority’s approval or who has obtained the approval under section 65; or
 
-(2) The Authority may, in accordance with the provisions of the Companies Act, apply for the winding up of a licensed financial adviser if the licensed financial adviser has contravened any of the provisions of this Act.
+(b) any person who, whether before, on or after 26 November 2010, either alone or together with any connected person, holds, directly or indirectly, 20% or more of the issued share capital of the licensed financial adviser or controls, directly or indirectly, 20% or more of the voting power in the licensed financial adviser, if the Authority is satisfied that —
 
-[42/2005]
+(c) any condition of approval imposed on the person under section 65(4) has not been complied with;
 
-(3) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a licensed financial adviser.
+(d) the person is not or ceases to be a fit and proper person to have effective control of the licensed financial adviser;
 
-(4) The liquidator in any winding up referred to in subsection (3) shall give the Authority such information as it may, from time to time, require about the affairs of the licensed financial adviser.
+(e) having regard to the likely influence of the person, the licensed financial adviser is not able to or is no longer likely to conduct its business prudently or to comply with the provisions of this Act or any direction made thereunder;
 
-(5) Any liquidator who contravenes subsection (4) shall be guilty of an offence.
+(f) the person does not or ceases to satisfy such criteria as may be prescribed;
 
-[Insurance Intermediaries, s. 33]
+(g) the person has provided false or misleading information or documents in connection with an application under section 65; or
+
+(h) the Authority would not have granted its approval under section 65 had it been aware, at that time, of circumstances relevant to the person’s application for such approval.
+
+[1/2009]
+
+(2) The Authority must not serve a notice of objection on any person without giving the person an opportunity to be heard, except in the following circumstances:
+
+(a) the person is in the course of being wound up or otherwise dissolved or, in the case of an individual, is an undischarged bankrupt whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+
+(c) a prohibition order under section 68 has been made by the Authority, and remains in force, against the person;
+
+(d) the person has been convicted, whether in Singapore or elsewhere, of any offence involving fraud or dishonesty or the conviction for which involved a finding that the person had acted fraudulently or dishonestly.
+
+[1/2009]
+
+(3) The Authority must, in any written notice of objection, specify a reasonable period within which the person to be served the written notice of objection must —
+
+(a) take such steps as are necessary to ensure that he or she ceases to be a party to the arrangement described in section 65(2) or ceases to have control of a licensed financial adviser in the manner described in subsection (1)(b); or
+
+(b) comply with such other requirements as the Authority may specify in written directions.
+
+[1/2009]
+
+(4) Any person served with a notice of objection under this section must comply with the notice.
+
+[1/2009]
+
+(5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[57B
+
+[1/2009]

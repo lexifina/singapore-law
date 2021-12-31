@@ -1,22 +1,41 @@
-# 45. Accounts to be kept by licensed financial advisers
-Part: PART IV ACCOUNTS AND AUDIT Division 1 — Accounts
+# 45. Licensed financial adviser to disclose certain interests in specified products
+Part: PART 3 CONDUCT OF BUSINESS Division 1 — General
+Division: Division 3 — Specified Products
 
-(1) A licensed financial adviser shall prepare, and lodge with the Authority, such statements of accounts and other statements and in such form and manner as may be prescribed.
+(1) Where a licensed financial adviser sends a circular or other similar written communication in which the licensed financial adviser makes a recommendation, whether expressly or by implication, with respect to any specified products, the licensed financial adviser must include in the circular or other communication, in type not less legible than that used in the remainder of the circular or other communication, a concise statement of the nature of any interest in, or any interest in the acquisition or disposal of, the specified products that the licensed financial adviser, or a person associated with or connected to the licensed financial adviser, has at the date on which the circular or other communication is sent.
 
-(2) A licensed financial adviser shall —
+[1/2009; 4/2017]
 
-(a) keep, or cause to be kept, such books as will sufficiently explain the transactions and financial position of the financial adviser in Singapore and enable true and fair profit and loss accounts and balance-sheets to be prepared from time to time;
+(2) Where a licensed financial adviser is charged with an offence in respect of a contravention of subsection (1), it is a defence for the licensed financial adviser to prove that, at the time the circular or other communication was sent, the licensed financial adviser was not aware and could not reasonably be expected to have been aware —
 
-and
+(a) that the licensed financial adviser had an interest in, or an interest in the acquisition or disposal of, the specified products; or
 
-(b) keep, or cause to be kept, such books, in such manner as will enable them to be conveniently and properly audited.
+(b) that the person associated with or connected to the licensed financial adviser had an interest in, or an interest in the acquisition or disposal of, the specified products, as the case may be.
 
-(3) A licensed financial adviser shall retain such books as may be required to be kept under this Act for such period as may be prescribed.
+[1/2009; 4/2017]
 
-(4) An entry in the books of a licensed financial adviser required to be kept in accordance with this Division shall be deemed to have been made by, or with the authority of, the licensed financial adviser.
+(3) For the purposes of subsections (1) and (2) —
 
-(5) Any licensed financial adviser which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+(a) an interest of a person in the disposal of any specified products includes any financial benefit or advantage that will, or is likely to, accrue directly or indirectly to the person, upon or arising out of the disposal of the specified products;
 
-(6) Any licensed financial adviser which contravenes subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(b) without limiting paragraph (a), a person who has entered into an underwriting agreement in respect of any specified products is deemed to have an interest in the acquisition or disposal of the specified products; and
 
-[Insurance Intermediaries, s. 28 (1) and (2); SF Bill, Clause 102 (1), (2) and (3)]
+(c) despite section 2(1) or 3, a person is not connected to or associated with another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
+
+[4/2017]
+
+(4) When a licensed financial adviser sends to a person a circular or other communication to which subsection (1) applies, the licensed financial adviser must preserve a copy of the circular or other communication for 5 years.
+
+[1/2009]
+
+(5) For the purposes of this section, a circular or other communication sent to a person is, if it is signed by an officer of a licensed financial adviser, deemed to have been sent by the financial adviser.
+
+(6) The Authority may, by regulations, exempt any person or class of persons, or any specified products or class of specified products, from the application of this section, subject to such terms or conditions as the Authority considers appropriate.
+
+[4/2017]
+
+(7) Any licensed financial adviser who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36
+
+[1/2009]

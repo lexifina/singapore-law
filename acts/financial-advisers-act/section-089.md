@@ -1,4 +1,18 @@
-# 89. Composition of offences
-Part: PART VIII OFFENCES
+# 89. Requirement to appear for examination
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
+Subdivision: Subdivision (2) — Examination of persons
 
-The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding the maximum fine prescribed for that offence.
+(1) For the purpose of an investigation under this Division, the Authority may, in writing, require a person —
+
+(a) to give the Authority all reasonable assistance in connection with the investigation; and
+
+(b) to appear before an officer of the Authority duly authorised by the Authority for examination on oath and to answer questions.
+
+[15/2012]
+
+(2) A requirement in writing imposed under subsection (1) must state the general nature of the matter investigated or to be investigated under this Division.
+
+[71C
+
+[35/2012]

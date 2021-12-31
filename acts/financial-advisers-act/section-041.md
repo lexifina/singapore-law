@@ -1,17 +1,35 @@
-# 41. Defence to prosecution
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
-Division: Division 4 — Register of Interests in Securities
+# 41. Insurance broking premium accounts
+Part: PART 3 CONDUCT OF BUSINESS Division 1 — General
+Division: Division 2 — Life Insurance
 
-(1) Where a person is charged with an offence under section 38 or 39, it shall be a defence for the person to prove —
+(1) Every licensed financial adviser which receives any money —
 
-(a) that his contravention was due to his not being aware of a fact or occurrence, the existence of which was necessary to constitute the offence; and
+(a) from or on behalf of an insured or intending insured for or on account of an insurer in connection with a contract of insurance or a proposed contract of insurance; or
 
-(b) that —
+(b) from or on behalf of an insurer for or on account of an insured or intending insured, must, for the purposes of this section, establish and maintain a separate account with a bank licensed under the Banking Act 1970.
 
-(i) he was not so aware on the date of the summons; or
+[15/2003]
 
-(ii) he became so aware before the date of the summons and complied with the relevant section within 14 days after becoming so aware.
+(2) The Authority may prescribe, in relation to an account established under subsection (1) —
 
-(2) For the purposes of subsection (1), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the securities concerned, was aware of at that time.
+(a) the types of moneys that must be paid into or withdrawn from such account;
 
-[SF Bill, Clause 134]
+(b) the manner in which moneys should be paid into or withdrawn from such account;
+
+(c) the manner in which moneys held in such account are to be invested;
+
+(d) the manner in which the proceeds from the investment of moneys held in such account are to be distributed;
+
+(e) the rights and obligations of any party in relation to moneys held in such account; and
+
+(f) any other matter which the Authority considers to be incidental to or necessary for this section.
+
+(3) A lien or claim on the moneys in any account established by any licensed financial adviser under subsection (1) is void unless the moneys in the account are for fees due and owing to the licensed financial adviser.
+
+(4) A charge or mortgage on the moneys in any account established by any licensed financial adviser under subsection (1) is void.
+
+(5) In this section, “moneys” means any sum received by a licensed financial adviser as agent for an insured or intending insured, including policy moneys, premiums and claims payments.
+
+(6) Any licensed financial adviser who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
+
+[32

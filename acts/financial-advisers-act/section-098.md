@@ -1,24 +1,70 @@
-# 98. Power of court to make certain orders
-Part: PART X MISCELLANEOUS
+# 98. Warrant to seize books, etc.
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
+Subdivision: Subdivision (3) — Powers to obtain information
 
-(1) Where, on the application of the Authority, it appears to the court that a person —
+(1) A Magistrate may, on the application of the Authority —
 
-(a) has committed an offence under this Act; or
+(a) issue a warrant, if the Magistrate is satisfied that there are reasonable grounds to suspect that there is, on any particular premises, any book —
 
-(b) is about to do an act that, if done, would be an offence under this Act, the court may, without prejudice to any order it would be entitled to make otherwise than under this section, make one or more of the following orders:
+(i) the production of which has been required by the Authority under section 96 or by an investigator or authorised person under section 97, but which has not been produced in compliance with that requirement; or
 
-(i) in the case of a persistent or continuing contravention of this Act, an order restraining a person from acting as a financial adviser or representative, or from holding himself out as so acting;
+(ii) which, if required by the Authority under section 96 to be produced, will be concealed, removed, tampered with or destroyed; and
 
-(ii) for the purpose of securing compliance with any other order made under this section, an order directing a person to do or refrain from doing any specified act;
+(b) if the Magistrate is also satisfied that there are reasonable grounds to suspect that there is, on those premises, any other book which relates to any matter relevant to the investigation concerned, direct that the powers exercisable under the warrant extend to that other book.
 
-(iii) any ancillary order considered to be desirable in consequence of the making of any other order under this section.
+[35/2012]
 
-(2) The court may, before making an order under subsection (1), direct that notice of the application be given to such person as it thinks fit or that notice of the application be published in such manner as it thinks fit, or both.
+(2) A warrant issued under subsection (1) authorises the Authority or any person named in the warrant, with or without assistance —
 
-(3) Any person who, without reasonable excuse, contravenes an order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(a) to enter the premises specified in the warrant, using such force as is reasonably necessary for the purpose;
 
-(4) Subsection (3) shall not affect the powers of the court in relation to the punishment of contempt of court.
+(b) to search the premises and to break open and search anything, whether a fixture or not, in the premises;
 
-(5) The court may rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
+(c) to take possession of, or secure against interference, any book that appears to be a book mentioned in subsection (1)(a) or, where applicable, subsection (1)(b);
 
-[SIA, s. 13]
+(d) to require any person to provide an explanation of any book that appears to be a book mentioned in subsection (1)(a) or, where applicable, subsection (1)(b), or to state, to the best of that person’s knowledge and belief, where any such book may be found;
+
+(e) to search any person on those premises, if there are reasonable grounds to suspect that the person has in his or her possession any book mentioned in subsection (1)(a) or, where applicable, subsection (1)(b), or any equipment or article which relates to any matter relevant to the investigation concerned; and
+
+(f) to remove from those premises for examination any book that appears to be a book mentioned in subsection (1)(a) or, where applicable, subsection (1)(b), or any equipment or article which relates to any matter relevant to the investigation concerned.
+
+[35/2012]
+
+(3) The Authority or any person named in the warrant to execute it may allow any equipment or article mentioned in subsection (2)(f) to be retained on the premises specified in the warrant to be searched, subject to such conditions as the Authority or that person may require.
+
+[35/2012]
+
+(4) Any person entering any premises by virtue of a warrant issued under subsection (1) may take with him or her such equipment as appears to him or her to be necessary.
+
+[35/2012]
+
+(5) Where a warrant is issued under subsection (1), and there is no one present at the premises specified in the warrant to be searched when the Authority or any person named in the warrant proposes to execute the warrant, the Authority or that person must, before executing the warrant —
+
+(a) take such steps as are reasonable in all the circumstances to inform the occupier of the premises of the intended entry into the premises; and
+
+(b) subject to subsection (6), give the occupier or the occupier’s legal or other representative a reasonable opportunity to be present when the warrant is executed.
+
+[35/2012]
+
+(6) If the Authority or any person named in the warrant to execute it is unable to inform the occupier of the premises of the intended entry into the premises, the Authority or that person must, when executing the warrant, leave a copy of the warrant in a prominent place on the premises.
+
+[35/2012]
+
+(7) On leaving any premises specified in a warrant issued under subsection (1), the Authority or any person named in the warrant to execute it must, if the premises are unoccupied or if the occupier of the premises is temporarily absent, leave the premises as effectively secured as the Authority or that person found the premises.
+
+[35/2012]
+
+(8) The powers conferred by this section are in addition to, and not in derogation of, any other powers conferred by any other written law or rule of law.
+
+[35/2012]
+
+(9) In this section —
+
+“occupier”, in relation to any premises specified in a warrant issued under subsection (1), includes any person whom the Authority or any person named in the warrant to execute it reasonably believes to be the occupier of those premises;
+
+“premises” includes any structure, building, aircraft, vehicle or vessel.
+
+[73
+
+[35/2012]

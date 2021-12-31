@@ -1,29 +1,45 @@
-# 48. Lodgment of annual accounts, etc., by licensed financial adviser
-Part: PART IV ACCOUNTS AND AUDIT Division 1 — Accounts
-Division: Division 2 — Audit
+# 48. Independent sales audit unit
+Part: PART 3 CONDUCT OF BUSINESS Division 1 — General
+Division: Division 5 — Remuneration
 
-(1) A licensed financial adviser shall, in respect of each financial year —
+(1) A licensed financial adviser must have an independent sales audit unit comprising only individuals who have the qualification or experience and perform the duties prescribed under section 135 or specified by the Authority by written notice.
 
-(a) prepare a true and fair profit and loss account and a balance- sheet made up to the last day of the financial year; and
+[18/2015]
 
-(b) lodge that account and balance-sheet with the Authority within 5 months, or such extension thereof permitted by the Authority under subsection (2), after the end of the financial year, together with a report in the prescribed form of an auditor appointed under section 47 on the account and balance-sheet and such other statements lodged under section 45 (1).
+(2) The licensed financial adviser must ensure that the independent sales audit unit reports only to —
 
-(2) Where an application for an extension of the period of 5 months specified in subsection (1) has been made by a licensed financial adviser to the Authority and the Authority is satisfied that there is any special reason for requiring the extension, the Authority may extend the period by not more than 4 months, subject to such conditions as the Authority may think fit to impose.
+(a) the board of directors and chief executive officer of the licensed financial adviser; or
 
-(3) Notwithstanding any other provision of this Act or the provisions of the Companies Act (Cap. 50), the Authority may, if it is not satisfied with the performance of duties by an auditor appointed by a licensed financial adviser under section 47 —
+(b) such other unit of the licensed financial adviser determined by the board of directors or the chief executive officer, which is independent from all units of the licensed financial adviser which provide financial advisory services.
 
-(a) at any time direct the licensed financial adviser to remove the auditor; and
+[18/2015]
 
-(b) direct the licensed financial adviser, as soon as practicable thereafter, to appoint another auditor, and the licensed financial adviser shall comply with such direction.
+(3) The licensed financial adviser must ensure that the independent sales audit unit —
 
-(4) (Deleted by Act 2 of 2005)
+(a) audits the quality of the financial advisory services provided by the representatives of the licensed financial adviser at such times and in such manner as may be prescribed under section 135 or specified by the Authority by written notice;
 
-(5) Any licensed financial adviser which contravenes subsection (1) (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day or part thereof that the lodgment is late, subject to a maximum of $50,000.
+(b) carries out such other functions and duties as may be prescribed under section 135 or specified by the Authority by written notice; and
 
-(6) Any licensed financial adviser which contravenes any condition imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+(c) applies the processes, criteria and methods prescribed (if any) under section 135 or specified by the Authority by written notice, in connection with the functions and duties in paragraphs (a) and (b).
 
-(7) Any licensed financial adviser which contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+[18/2015]
 
-(8) (Deleted by Act 2 of 2005)
+(4) Any licensed financial adviser who contravenes subsection (1),
 
-[SF Bill, Clause 107]
+(2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
+
+[18/2015]
+
+(5) The Authority may by regulations under section 135 prescribe —
+
+(a) the licensed financial adviser or class of licensed financial advisers to whom this section does not apply; and
+
+(b) the circumstances in which this section does not apply.
+
+[18/2015]
+
+(6) A written notice issued under this section need not be published in the Gazette.
+
+[39
+
+[18/2015]

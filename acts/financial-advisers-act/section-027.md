@@ -1,28 +1,21 @@
-# 27. Recommendations by licensees
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
+# 27. Representative to act for only one principal
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
+Division: Division 2 — Representatives
 
-(1) No licensee shall make a recommendation with respect to any investment product to a person who may reasonably be expected to rely on the recommendation if the licensee does not have a reasonable basis for making the recommendation to the person.
+(1) Unless otherwise approved by the Authority in writing, an appointed representative or provisional representative must not at any one time be a representative of more than one principal.
 
-(2) For the purposes of subsection (1), a licensee does not have a reasonable basis for making a recommendation to a person unless —
+[1/2009]
 
-(a) he has, for the purposes of ascertaining that the recommendation is appropriate, having regard to the information possessed by him concerning the investment objectives, financial situation and particular needs of the person, given such consideration to, and conducted such investigation of, the subject-matter of the recommendation as is reasonable in all the circumstances; and
+(2) Despite subsection (1), an appointed representative may be a representative of more than one principal if the principals are related corporations.
 
-(b) the recommendation is based on the consideration and investigation referred to in paragraph (a).
+[1/2009]
 
-(3) Where —
+(3) The Authority may require an applicant for approval under subsection (1) to provide it with such information or documents as the Authority considers necessary in relation to the application.
 
-(a) a licensee, in making a recommendation to a person, contravenes subsection (1);
+[1/2009]
 
-(b) the person, in reliance on the recommendation, does a particular act, or refrains from doing a particular act;
+(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
 
-(c) it is reasonable, having regard to the recommendation and all other relevant circumstances, for the person to do that act, or to refrain from doing that act, as the case may be, in reliance on the recommendation; and
+[23G
 
-(d) the person suffers loss or damage as a result of doing that act, or refraining from doing that act, as the case may be, then, without prejudice to any other remedy available to that person, the licensee is liable to pay damages to that person in respect of that loss or damage.
-
-(4) In this section, a reference to the making of a recommendation is a reference to the making of a recommendation expressly or by implication.
-
-(5) This section shall not apply to any licensee or class of licensees in such circumstances or under such conditions as may be prescribed.
-
-[2/2005]
-
-[SF Bill, Clause 121]
+[1/2009]

@@ -1,84 +1,69 @@
-# 23. Exempt financial advisers and their representatives
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 23. Appointed representative
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
+Division: Division 2 — Representatives
 
-(1) Subject to subsection (10), the following persons shall be exempt from holding a financial adviser’s licence to act as a financial adviser in Singapore in respect of any financial advisory service:
+(1) For the purposes of this Act, an appointed representative in respect of a type of financial advisory service is an individual —
 
-(a) a bank licensed under the Banking Act (Cap. 19);
+(a) who satisfies such entry and examination requirements as may be specified by the Authority for that type of financial advisory service, the fact of which has been notified to the Authority either in the document lodged under section 26(1), or (if applicable) under section 24(5) within the time prescribed under that provision;
 
-(b) a merchant bank approved as a financial institution and approved to carry on a business of providing any financial advisory service under the Monetary Authority of Singapore Act (Cap. 186);
+(b) whose name is entered in the public register of representatives as an appointed representative;
 
-(c) a company or society registered under the Insurance Act (Cap. 142);
+(c) whose status as an appointed representative has not currently been revoked or suspended and who has not currently been prohibited by the Authority from providing that type of financial advisory service;
 
-(d) a holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
+(d) whose entry in the public register of representatives indicates that the individual is appointed to provide that type of financial advisory service and does not indicate that the individual has ceased to be so; and
 
-(e) a finance company which has been granted an exemption from section 25 (2) of the Finance Companies Act (Cap. 108) to carry on a business of providing any financial advisory service;
+(e) whose principal —
 
-(ea) a securities exchange, a futures exchange, a recognised market operator, or an approved holding company, in respect of the provision of any financial advisory service that is solely incidental to its operation of a securities market, a futures market, or to its performance as an approved holding company, as the case may be; and
+(i) is licensed to provide that type of financial advisory service; or
 
-(f) such other persons or classes of persons as may be prescribed.
+(ii) provides that type of financial advisory service in its capacity as a person exempted from the requirement to hold a financial adviser’s licence under section 20(1)(a), (b), (c), (d) or (e).
 
-[2/2005]
+[1/2009]
 
-(2) (Deleted by Act 2 of 2005)
+(2) For the purpose of subsection (1)(a), the Authority may, by direction published in such manner as may be prescribed, specify the examination requirements for each type of financial advisory service.
 
-(3) (Deleted by Act 2 of 2005)
+[1/2009]
 
-(4) Subject to the provisions of this Act, sections 25 to 29, 32, 33, 34 and 36 shall apply, with the necessary modifications, to an exempt financial adviser (other than a person referred to in subsection (1) (ea) or (f)) in respect of its business of providing any financial advisory service as if it is a licensed financial adviser.
+(3) The Authority may require the principal or individual to provide it with such information or documents as the Authority considers necessary in relation to the proposed appointment of the individual as an appointed representative, and the principal or individual (as the case may be) must comply with such a request.
 
-[2/2005]
+[1/2009]
 
-(5) Subject to the provisions of this Act, sections 12, 25, 26, 27, 29, 33, 34 and 36 shall apply, with the necessary modifications, to a representative of an exempt financial adviser (other than a person referred to in subsection (1) (ea) or (f)) in respect of his acting as such as if he is a licensed representative.
+(4) An individual ceases to be an appointed representative in respect of any type of financial advisory service on the date —
 
-[2/2005]
+(a) the individual ceases to be the principal’s representative or to provide that type of financial advisory service on behalf of the principal, the fact of which has been notified to the Authority under subsection (8);
 
-(5A) Subject to the provisions of this Act, sections 25, 26 and 36 shall apply, with the necessary modifications, to —
+(b) the individual’s principal ceases to provide that type of financial advisory service;
 
-(a) a person referred to in subsection (1) (ea) in respect of its business of providing any financial advisory service as if it is a licensed financial adviser; and
+(c) the licence of the individual’s principal is revoked or lapses or a prohibition order under section 68 is made against the individual’s principal prohibiting it from providing that type of financial advisory service;
 
-(b) any of its representatives in respect of his acting as such as if he is a licensed representative.
+(d) the individual dies; or
 
-[2/2005]
+(e) of the occurrence of such other circumstances as the Authority may prescribe.
 
-(5B) Subject to the provisions of this Act, section 70 shall apply, with the necessary modifications, to —
+[1/2009]
 
-(a) an exempt financial adviser in respect of its business of providing any financial advisory service as if it is a licensed financial adviser; and
+(5) An individual is not to be treated as an appointed representative during the period in which the licence of the individual’s principal is suspended.
 
-(b) a representative of an exempt financial adviser in respect of his acting as such as if he is a licensed representative.
+[1/2009]
 
-[2/2005]
+(6) Subsection (4) or (5) does not prevent the individual from being treated as an appointed representative in respect of that type of financial advisory service if the individual becomes a representative of a new principal in respect of that type of financial advisory service and subsection (1) is complied with.
 
-(5C) For the avoidance of doubt, references in subsections (4), (5),
+[1/2009]
 
-(5A) and (5B) to specific sections in this Act that apply to exempt financial advisers or their representatives, respectively, do not include references to any regulations made under those sections unless the Authority prescribes that such regulations so apply.
+(7) Subsections (4) and (5) do not operate so as to —
 
-[2/2005]
+(a) avoid or affect any agreement, transaction or arrangement relating to any investment product entered into by that individual, whether the agreement, transaction or arrangement was entered into before, on or after the cessation or date of suspension; or
 
-(6) The Authority may, on the application of an exempt financial adviser (other than a person referred to in subsection (1) (f)), exempt it or any of its representatives from complying with any of the provisions referred to in subsection (4), (5), (5A) or (5B), as the case may be.
+(b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
-[15/2003; 2/2005]
+[1/2009]
 
-(7) The Authority may prescribe or specify in written directions the provisions of this Act that apply to the persons referred to in subsection (1) (f) or their representatives.
+(8) A principal must, no later than the next business day after the day —
 
-[2/2005]
+(a) an individual ceases to be his or her representative; or
 
-(8) An exemption granted under subsection (6) need not be published in the Gazette.
+(b) an individual who is his or her representative ceases to provide any type of financial advisory service, which he or she is appointed to provide, provide particulars of such cessation to the Authority, in the prescribed form and manner.
 
-[2/2005]
+[23C
 
-(9) The Authority may prescribe or specify in written directions such conditions or restrictions as may be imposed on an exempt financial adviser or any of its representatives in relation to the provision of any financial advisory service as the Authority thinks fit.
-
-(10) The Authority may withdraw an exemption granted to any person under this section if the person contravenes any provision of this Act, or if the Authority considers it necessary in the public interest.
-
-(11) Where the Authority withdraws an exemption granted to any person under this section, the Authority need not give the person an opportunity to be heard.
-
-(12) An exempt financial adviser which is aggrieved by the decision of the Authority to withdraw an exemption granted to it under this section may, within 30 days of the decision, appeal in writing to the Minister.
-
-(13) A withdrawal under subsection (10) of an exemption granted to any person shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement, relating to any investment product entered into by the person, whether the agreement, transaction or arrangement was entered into before or after the withdrawal of the exemption;
-
-or
-
-(b) affect any right, obligation or liability arising under any agreement, transaction or arrangement referred to in paragraph (a).
-
-[SF Bill, Clause 99]
+[1/2009]

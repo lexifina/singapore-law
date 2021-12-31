@@ -1,17 +1,19 @@
-# 54. Offence to destroy, conceal, alter, etc., records
-Part: PART IV ACCOUNTS AND AUDIT Division 1 — Accounts
+# 54. Power of Authority to appoint auditor
+Part: PART 4 ACCOUNTS AND AUDIT Division 1 — Accounts
 Division: Division 2 — Audit
 
-(1) Any person who, with intent to prevent, delay or obstruct the carrying out of any examination or audit under this Part —
+(1) Where —
 
-(a) destroys, conceals or alters any book relating to the business of a licensed financial adviser; or
+(a) a licensed financial adviser fails to lodge an auditor’s report under section 52(1)(b); or
 
-(b) sends, or conspires with any other person to send, out of Singapore, any book or asset of any description belonging to, in the possession of or under the control of the licensed financial adviser, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) the Authority receives a report under section 53(1), the Authority may, without affecting its powers under section 53(2), if it is satisfied that it is in the interests of the financial adviser, its clients or the general public to do so, appoint in writing an auditor to examine and audit, either generally or in relation to any particular matter, the books of the financial adviser.
 
-(2) If, in any proceedings for an offence under subsection (1), it is proved that the person charged with the offence —
+(2) Where the Authority is of the opinion that the whole or any part of the costs and expenses of an auditor appointed by the Authority under subsection (1) should be borne by the licensed financial adviser, the Authority may, in writing, direct the licensed financial adviser to pay a specified amount, being the whole or part of such costs and expenses, within such time and in such manner as may be specified in the direction.
 
-(a) destroyed, concealed or altered any book referred to in subsection (1) (a); or
+(3) Where a licensed financial adviser fails to comply with a direction under subsection (2) to pay the specified amount or any part thereof, such amount may be sued for and recovered by the Authority as a civil debt.
 
-(b) sent, or conspired to send, out of Singapore, any book or asset referred to in subsection (1) (b), the onus of proving that, in so doing, he did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Part shall lie on him.
+(4) An auditor appointed under subsection (1) must, on the conclusion of the examination and audit, submit a report thereon to the Authority.
 
-[SF Bill, Clause 111]
+(5) Any auditor who contravenes subsection (4) shall be guilty of an offence.
+
+[50

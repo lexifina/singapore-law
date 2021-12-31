@@ -1,114 +1,72 @@
-# 19. Lapsing, revocation, suspension and expiry of licence
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 19. Regulation of payment, etc., of remuneration
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) A licence shall lapse —
+(1) A licensed financial adviser or an exempt financial adviser, or a representative or supervisor of a licensed financial adviser or an exempt financial adviser must not request or demand payment of, or accept any remuneration, in relation to —
 
-(a) in the case of a licensed financial adviser, if it is wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(a) the provision of any financial advisory service in connection with any type of investment product; or
 
-(b) in the case of a licensed representative, if he dies or becomes mentally incapacitated; or
+(b) the sale of any type of investment product following the provision of any financial advisory service, except in accordance with regulations made under section 135 or a written notice issued by the Authority.
 
-(c) in the event of such other occurrence or in such other circumstances as may be prescribed.
+[18/2015]
 
-(2) The Authority may revoke a licence —
+(2) A licensed financial adviser or an exempt financial adviser must not pay another licensed financial adviser or exempt financial adviser, or a representative or supervisor of the firstmentioned licensed financial adviser or exempt financial adviser, or of another licensed financial adviser or exempt financial adviser, any remuneration in relation to —
 
-(a) in the case of a licensed financial adviser, if —
+(a) the provision of any financial advisory service in connection with any type of investment product; or
 
-(i) there exists a ground on which the Authority may refuse an application under section 9 (1);
+(b) the sale of any type of investment product following the provision of any financial advisory service, except in accordance with regulations made under section 135 or a written notice issued by the Authority.
 
-(ii) the financial adviser has contravened any provision of this Act, or any condition or restriction imposed or any written direction given by the Authority under this Act;
+[18/2015]
 
-(iii) it appears to the Authority that the financial adviser has failed to satisfy any of its obligations under or arising from this Act;
+(3) The regulations or written notice mentioned in subsection (1) or
 
-(iv) it appears to the Authority that the financial adviser is carrying on its business in a manner that is —
+(2) may prescribe or specify the following:
 
-(A) likely to be detrimental to its clients; or
+(a) the type and amount of the remuneration which may be payable in any particular period;
 
-(B) contrary to the public interest;
+(b) how the payment is to be made.
 
-(iva) any information or document that is furnished by the financial adviser to the Authority is false or misleading; or
+[18/2015]
 
-(v) the financial adviser fails or ceases to carry on the business for which it was licensed; or
+(4) Subsections (1) and (2) apply only to payment of remuneration which accrues —
 
-(b) in the case of a licensed representative, if —
+(a) on or after 1 January 2016; and
 
-(i) there exists a ground on which the Authority may refuse an application under section 11 (1);
+(b) under any agreement or arrangement whether made before, on or after 1 January 2016.
 
-(ii) the representative has contravened any provision of this Act, or any condition or restriction imposed or any written direction given by the Authority under this Act;
+[18/2015]
 
-(iii) it appears to the Authority that the representative has failed to satisfy any of his obligations under or arising from this Act;
+(5) Any person required to comply with subsection (1) or (2) must do so despite —
 
-(iv) it appears to the Authority that the representative is carrying on his functions in a manner that is —
+(a) any written law in force on 1 January 2016 or rule of law to the contrary; or
 
-(A) likely to be detrimental to the clients of the financial adviser of which he is a representative;
+(b) any agreement or arrangement entered into before, on or after 1 January 2016.
 
-or
+[18/2015]
 
-(B) contrary to the public interest;
+(6) Any person who complies with subsection (1) or (2) is not to be treated as having breached —
 
-(iva) any information or document that is furnished by the representative to the Authority is false or misleading;
+(a) any rule of law or written law mentioned in subsection (5)(a); or
 
-(v) the representative fails or ceases to perform the functions for which he was licensed; or
+(b) any agreement or arrangement mentioned in subsection (5)(b) which was entered into before 1 January 2016, and no such agreement or arrangement is taken to be brought to an end by frustration solely by reason of any act done in compliance with subsection (1) or (2), or any regulation or written notice mentioned in subsection (1) or (2).
 
-(vi) the licence of the financial adviser of which he is a representative is revoked.
+[18/2015]
 
-[2/2005]
+(7) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
 
-(3) The Authority may, if it considers it desirable to do so —
+[18/2015]
 
-(a) suspend a licence for a specific period instead of revoking it under subsection (2); and
+(8) A written notice issued under this section need not be published in the Gazette.
 
-(b) at any time extend or revoke the suspension.
+[18/2015]
 
-(4) Subject to subsection (5), the Authority shall not revoke or suspend a licence under subsection (2) or (3), respectively, without giving the licensee an opportunity to be heard.
+(9) In this section, “remuneration” includes —
 
-(5) The Authority may revoke or suspend a licence under subsection (2) or (3), respectively, without giving the licensee an opportunity to be heard —
+(a) any monetary commission, incentive, benefit or reward;
 
-(a) in the case of a licensed financial adviser, on any of the following grounds:
+(b) any non-monetary incentive, benefit or reward; and
 
-(i) the licensee is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(c) such other consideration as may be prescribed under section 135 or specified by the Authority by written notice.
 
-(ii) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the licensee;
+[22A
 
-(iii) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensee;
-
-(iv) the licensee has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
-
-(b) in the case of a licensed representative, on any of the following grounds:
-
-(i) the licensee is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(ii) a prohibition order under section 59 has been made by the Authority, and remains in force, against the licensee;
-
-(iii) the licensee has been convicted, whether in Singapore or elsewhere, of an offence —
-
-(A) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
-
-(B) punishable with imprisonment for a term of 3 months or more.
-
-[15/2003]
-
-(6) A person whose licence is revoked or suspended shall cease to act as a financial adviser or representative, as the case may be, from the date on which the revocation or suspension takes effect.
-
-(7) A financial adviser whose licence is revoked or suspended shall immediately inform all of its representatives, in writing, of such revocation or suspension.
-
-(8) Every representative who has been informed of the revocation or suspension of the licence of the financial adviser of which he is a representative shall —
-
-(a) in the case of revocation, immediately cease to act as a representative of the financial adviser; or
-
-(b) in the case of suspension, immediately cease to act as a representative of the financial adviser during the period of the suspension.
-
-(9) Any lapsing, revocation, suspension or expiry of a licence shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement, relating to any investment product, entered into by the licensee, whether the agreement, transaction or arrangement was entered into before or after the lapsing, revocation, suspension or expiry of the licence; or
-
-(b) affect any right, obligation or liability arising under any agreement, transaction or arrangement referred to in paragraph (a).
-
-(10) Any person who continues to act as a financial adviser in contravention of subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-(11) Any person who continues to act as a representative in contravention of subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
-
-(12) Any financial adviser which contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
-
-(13) Any representative who contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
-
-[SF Bill, Clause 95]
+[18/2015]

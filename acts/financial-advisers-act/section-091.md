@@ -1,12 +1,20 @@
-# 91. Appeals to Minister
-Part: PART IX APPEALS
+# 91. Examination to take place in private
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
+Subdivision: Subdivision (2) — Examination of persons
 
-(1) Where an appeal is made to the Minister under this Act, the Minister may confirm, vary or reverse the decision of the Authority on appeal, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
+(1) The examination must take place in private and the investigator may give directions as to who may be present during the examination or part thereof.
 
-(2) Where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
+[35/2012]
 
-(3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2) and may make such recommendations as it thinks fit.
+(2) A person must not be present at the examination unless he or she is —
 
-(4) The Minister shall consider the report submitted under subsection (3) in making his decision under subsection (1) but he shall not be bound by the recommendations in the report.
+(a) the investigator or the examinee;
 
-[SF Bill, Clause 310]
+(b) a person approved by the Authority; or
+
+(c) entitled to be present by virtue of a direction under subsection (1).
+
+[71E
+
+[35/2012]

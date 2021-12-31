@@ -1,82 +1,26 @@
-# 9. Grounds for refusal to grant or renew financial adviser’s licence
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 9. Failure to maintain minimum financial requirements or professional indemnity insurance policy
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) The Authority may refuse an application for the grant or renewal of a financial adviser’s licence if —
+(1) A licensed financial adviser must —
 
-(a) the applicant is not a corporation;
+(a) maintain, at all times during the currency of its licence, such minimum financial requirements or such other requirements as may be prescribed under section 8(1)(b);
 
-(b) the applicant is unable to meet or continue to meet such minimum financial requirements or such other requirements as the Authority may prescribe, either generally or specifically;
+and
 
-(c) the applicant does not have in force a professional indemnity insurance policy, the cover of which is consistent with such limit and deductible requirements as may be prescribed, or any other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy;
+(b) have in force, at all times during the currency of its licence, a professional indemnity insurance policy, the cover of which is consistent with such limit and deductible requirements as may be prescribed, or any other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy, under section 8(1)(c).
 
-(d) the applicant has not furnished the Authority with such information or documents as may be required under section 8 (2), or such other information or documents relating to it or any person employed by or associated with it for the purposes of its business or relating to any circumstance likely to affect its manner of conducting business as may be required by the Authority;
+(2) Where a licensed financial adviser contravenes subsection (1), the Authority may, without affecting any other remedy available to the Authority under this Act —
 
-(da) any information or document that is furnished by the applicant to the Authority is false or misleading;
+(a) permit the financial adviser to continue to act as such, subject to such conditions as the Authority may impose; or
 
-(e) the applicant or any of its substantial shareholders is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(b) impose such requirements as may be specified in written directions, including requiring the financial adviser —
 
-(f) a receiver, receiver and manager, judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of any property of, the applicant or any of its substantial shareholders;
+(i) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement that is permitted by or by virtue of its licence, and that has been entered into before the time of its failure to comply with the minimum financial requirements or such other requirements as may be prescribed under section 8(1)(b);
 
-(g) the applicant or any of its substantial shareholders has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with its creditors, being a compromise or scheme of arrangement that is still in operation;
+(ii) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement that is permitted by or by virtue of its licence, and that has been entered into before the time of its failure to have in force a professional indemnity insurance policy, or such other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy, under section 8(1)(c); or
 
-(h) execution against the applicant or any of its substantial shareholders in respect of a judgment debt has been returned unsatisfied in whole or in part;
+(iii) to submit such statements or reports on a weekly basis or at such other intervals as the Authority may require until it meets the minimum financial requirements or such other requirements as may be prescribed under section 8(1)(b).
 
-(i) the Authority is not satisfied as to the educational qualification or experience of the officers or employees of the applicant who are to perform duties in connection with the holding of the financial adviser’s licence;
+(3) Any licensed financial adviser which, without reasonable excuse, contravenes subsection (1) or any condition imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-(j) the Authority has reason to believe that the applicant, or any of its officers or employees, will not perform the functions of a financial adviser efficiently, honestly or fairly;
-
-(k) a prohibition order under section 59 has been made by the Authority, and remains in force, against the applicant;
-
-(l) the applicant or any of its substantial shareholders or officers —
-
-(i) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it or he acted fraudulently or dishonestly; or
-
-(ii) has been convicted of an offence under this Act;
-
-(m) the applicant fails to satisfy the Authority —
-
-(i) that it is a fit and proper person to be licensed; or
-
-(ii) that all of its officers, employees and substantial shareholders are fit and proper persons;
-
-(n) the Authority has reason to believe that the applicant may not act in the best interests of its clients, having regard to the reputation, character, financial integrity and reliability of the applicant or any of its officers, employees or substantial shareholders;
-
-(o) the Authority is not satisfied as to —
-
-(i) the financial standing of the applicant or any of its substantial shareholders;
-
-(ii) the manner in which the applicant’s business is to be conducted; or
-
-(iii) the record of past performance or expertise of the applicant, having regard to the nature of the business which the applicant may carry on in connection with the holding of the licence;
-
-(p) there are other circumstances which are likely —
-
-(i) to lead to the improper conduct of business by the applicant, or any of its officers, employees or substantial shareholders; or
-
-(ii) to reflect discredit on the manner of conduct of the business of the applicant or any of its substantial shareholders; or
-
-(q) the Authority is of the opinion that it would be contrary to the public interest to grant or renew the licence.
-
-[15/2003; 2/2005]
-
-(2) For the purposes of subsection (1) (c) —
-
-(a) the Authority may prescribe different amounts of cover under a professional indemnity insurance policy according to the activities undertaken or to be undertaken by any applicant; and
-
-(b) ‘‘professional indemnity insurance policy’’ means a contract of insurance with an insurer under which a person is indemnified in respect of the liabilities arising out of or in the course of his business as a financial adviser.
-
-(3) Subject to subsection (4), the Authority shall not refuse an application for the grant or renewal of a financial adviser’s licence without giving the applicant an opportunity to be heard.
-
-(4) The Authority may refuse an application for the grant or renewal of a financial adviser’s licence on any of the following grounds without giving the applicant an opportunity to be heard:
-
-(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
-
-(c) a prohibition order under section 59 has been made by the Authority, and remains in force, against the applicant;
-
-(d) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[15/2003]
-
-[Insurance Intermediaries, s. 17; SF Bill Clause 86]
+[10

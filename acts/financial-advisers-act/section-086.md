@@ -1,12 +1,29 @@
-# 86. Duty not to furnish false information to Authority
-Part: PART VIII OFFENCES
+# 86. Investigation by Authority
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
 
-(1) Any person who furnishes the Authority with any information under or for the purposes of any provision of this Act shall use due care to ensure that the information is not false or misleading in any material particular.
+(1) The Authority may conduct such investigation as it considers necessary or expedient for any of the following purposes:
 
-(2) Subsection (1) shall apply only to a requirement in relation to which no other provision of this Act creates an offence in connection with the furnishing of information.
+(a) to perform any of the Authority’s functions under this Act;
 
-(3) Any person who signs any document lodged with the Authority under Part IV shall use due care to ensure that the document is not false or misleading in any material particular.
+(b) to ensure compliance with this Act or any written direction issued under this Act; or
 
-(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 2 years or to both.
+(c) to investigate an alleged or suspected contravention of any provision of this Act.
 
-[SF Bill, Clause 329]
+(2) The Authority may exercise any of its powers for the purposes of conducting an investigation under this Division despite the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law.
+
+(3) A requirement imposed by the Authority in the exercise of its powers under this Division has effect despite any obligation as to secrecy or other restrictions upon the disclosure of information imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
+
+(4) Any person who complies with a requirement imposed by the Authority in the exercise of its powers under this Division is not to be treated as being in breach of any restriction upon the disclosure of information or thing imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
+
+(5) No civil or criminal action, other than proceedings for an offence under section 101, shall lie against any person for —
+
+(a) providing information or producing books to the Authority if the person had provided the information or produced the books in good faith in compliance with a requirement imposed by the Authority under this Division; or
+
+(b) doing or omitting to do any act, if the person had done or omitted to do the act in good faith and as a result of complying with a requirement imposed by the Authority under this Division.
+
+(6) In this section, “requirement imposed by the Authority” includes a requirement imposed by an investigator under Subdivision (2) or (3).
+
+[71
+
+[35/2012]

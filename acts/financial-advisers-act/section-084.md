@@ -1,14 +1,33 @@
-# 84. Offence by officers
-Part: PART VIII OFFENCES
+# 84. Duty of specified financial adviser under inspection
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 2A — Inspection Powers of Foreign Regulatory Authority
 
-(1) Any officer of a licensed financial adviser who fails to take all reasonable steps to secure —
+(1) For the purposes of an inspection under section 83, and subject to subsection (2), the specified financial adviser must —
 
-(a) compliance with any provision of this Act; or
+(a) give the foreign regulatory authority access to such of the books of the specified financial adviser; and
 
-(b) the accuracy and correctness of any statement submitted to the Authority or such other person as may be required under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+(b) provide such information (including information relating to the internal control systems of the specified financial adviser) and facilities, as the foreign regulatory authority may require for the inspection.
 
-(2) In any proceedings against an officer under subsection (1), it shall be a defence for the officer to prove that he had reasonable grounds for believing that another person was charged with the duty of securing compliance with the requirements of this Act, or with the duty of ensuring that those statements were accurate, as the case may be, and that that person was competent, and in a position, to discharge that duty.
+[18/2015]
 
-(3) An officer shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court, he committed the offence wilfully.
+(2) The specified financial adviser need not give the foreign regulatory authority access to the books of the specified financial adviser, or provide information or facilities, at such times or at such places as would unduly interfere with the proper conduct of the normal daily business of the specified financial adviser.
 
-[SF Bill, Clause 332]
+[18/2015]
+
+(3) Subsection (1) has effect despite any obligation of confidentiality or other restrictions on the disclosure of information imposed on the specified financial adviser or any of its officers by any prescribed written law or any requirement imposed under such written law, any rule of law, any contract or any rule of professional conduct.
+
+[18/2015]
+
+(4) A specified financial adviser which, without reasonable excuse, refuses or neglects to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
+
+[18/2015]
+
+(5) No civil or criminal liability is incurred by a specified financial adviser or any of its officers in respect of any obligation or restriction mentioned in subsection (3) for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with subsection (1).
+
+[18/2015]
+
+(6) A specified financial adviser which or any of its officers who, with reasonable care and in good faith, does or omits to do any act for the purpose of complying with subsection (1) is not to be treated as being in breach of any obligation or restriction mentioned in subsection (3).
+
+[70D
+
+[18/2015]

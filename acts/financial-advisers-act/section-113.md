@@ -1,0 +1,14 @@
+# 113. Falsification of records by officers, etc.
+Part: PART 8 OFFENCES
+
+(1) Any officer, auditor, employee or agent of a licensed financial adviser or an exempt financial adviser who —
+
+(a) wilfully makes, or causes to be made, a false entry in any book, or in any report, slip, document or statement of the business, affairs, transactions, conditions or assets of that financial adviser;
+
+(b) wilfully omits to make an entry in any book, or in any report, slip, document or statement of the business, affairs, transactions, conditions or assets of that financial adviser, or wilfully causes any such entry to be omitted; or
+
+(c) wilfully alters, extracts, conceals or destroys an entry in any book, or in any report, slip, document or statement of the business, affairs, transactions, conditions or assets of that financial adviser, or wilfully causes any such entry to be altered, extracted, concealed or destroyed, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) In subsection (1), “officer” includes a person purporting to act in the capacity of an officer.
+
+[85

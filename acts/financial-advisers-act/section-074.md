@@ -1,49 +1,30 @@
-# 74. Powers where books are produced or seized
-Part: PART VI SUPERVISION AND INVESTIGATION Division 1 — General
-Division: Division 3 — Investigative Powers of Authority
+# 74. Codes, guidelines, etc., by Authority
+Part: PART 5 POWERS OF AUTHORITY
 
-(1) This section shall apply where —
+(1) The Authority may issue, and publish by notification in the Gazette or in any other manner it considers appropriate, such codes, guidelines, policy statements, practice notes and no-action letters as it considers appropriate for providing guidance —
 
-(a) books are produced to the Authority under a requirement imposed under section 72;
+(a) in furtherance of its regulatory objectives;
 
-(b) under a warrant issued under section 73, the Authority or a person named therein —
+(b) in relation to any matter relating to any of the functions of the Authority under this Act; or
 
-(i) takes possession of books; or
+(c) in relation to the operation of any of the provisions of this Act.
 
-(ii) secures books against interference; or
+(2) The Authority may, at any time, amend or revoke the whole or any part of any code, guideline, policy statement, practice note or no-action letter issued under this section.
 
-(c) under a previous application of subsection (6), books are delivered into the possession of the Authority or a person authorised by it.
+(3) Where amendments are made under subsection (2) —
 
-(2) If subsection (1) (a) applies, the Authority may take possession of any of the books.
+(a) the other provisions of this section apply, with the necessary modifications, to such amendments as they apply to the code, guideline, policy statement, practice note or no-action letter; and
 
-(3) The Authority or, where applicable, a person referred to in subsection (1) (b) may —
+(b) any reference in this Act or any other written law to the code, guideline, policy statement, practice note or no-action letter, however expressed, is, unless the context otherwise requires, a reference to the code, guideline, policy statement, practice note or no-action letter as so amended.
 
-(a) inspect, and make copies of, or take extracts from, any of the books;
+(4) Any person who fails to comply with any of the provisions of a code, guideline, policy statement or practice note issued under this section that applies to him or her does not of itself render that person liable to criminal proceedings, but any such failure may, in any proceedings, whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or negate any liability which is in question in the proceedings.
 
-(b) use, or permit the use of, any of the books for the purposes of any proceedings; and
+(5) The issue by the Authority of a no-action letter does not of itself prevent the institution of any proceedings against any person for the contravention of any provision of this Act.
 
-(c) retain possession of any of the books for so long as is necessary —
+(6) Any code, guideline, policy statement or practice note issued under this section may be of general or specific application, and may specify that different provisions thereof apply to different circumstances or provide for different cases or classes of cases.
 
-(i) for the purposes of exercising a power conferred by this section (other than subsection (5));
+(7) To avoid doubt, any code, guideline, policy statement, practice note or no-action letter issued under this section is not subsidiary legislation.
 
-(ii) for a decision to be made on whether or not proceedings should be commenced under this Act in relation to such book; or
+(8) In this section, a no-action letter means a letter written by the Authority to a person to the effect that, if the facts are as represented by the person, the Authority will not institute proceedings against the person in respect of a particular state of affairs or particular conduct.
 
-(iii) for such proceedings to be commenced and carried on.
-
-(4) No person shall be entitled, as against the Authority or, where applicable, a person referred to in subsection (1) (b), to claim a lien on any of the books, but such a lien is not otherwise prejudiced.
-
-(5) While the books are in the possession of the Authority or, where applicable, the person referred to in subsection (1) (b), the Authority or the person —
-
-(a) shall permit another person to inspect at all reasonable times such of the books (if any) as the second-mentioned person would be entitled to inspect if they were not in the possession of the Authority or the first-mentioned person; and
-
-(b) may permit any other person to inspect any of the books.
-
-(6) Unless subsection (1) (b) (ii) applies, a person referred to in subsection (1) (b) may deliver any of the books into the possession of the Authority or of a person authorised by it to receive them.
-
-(7) If subsection (1) (a) or (b) applies, the Authority, a person referred to in subsection (1) (b) or a person into whose possession the books are delivered under subsection (6), may require —
-
-(a) if subsection (1) (a) applies, a person who so produced any of the books; or
-
-(b) in any other case, a person who was a party to the compilation of any of the books, to explain, to the best of his knowledge and belief, any matter about the compilation of any of the books or to which any of the books relate.
-
-[SF Bill, Clause 165; ASIC 2001, s. 37]
+[64

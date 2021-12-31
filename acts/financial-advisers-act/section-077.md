@@ -1,26 +1,26 @@
-# 77. Interpretation of this Part
-Part: PART VII ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
+# 77. Power of Authority to publish information
+Part: PART 5 POWERS OF AUTHORITY
 
-In this Part, unless the context otherwise requires —
+The Authority may, from time to time and in such form or manner as it considers appropriate, publish information relating to all or any of the following:
 
-‘‘enforce’’ means enforce through criminal, civil or administrative proceedings;
+(a) the lapsing, revocation or suspension of the licence of any person under section 15;
 
-‘‘enforcement’’ means the taking of any action to enforce a law or regulatory requirement against a specified person, being a law or regulatory requirement that relates to any financial advisory service in the foreign country of the regulatory authority concerned;
+(b) the removal of any officer under section 64;
 
-‘‘foreign country’’ means a country or territory other than Singapore;
+(c) the making of any prohibition order against any person under section 68;
 
-‘‘investigation’’ means an investigation to determine if a specified person has contravened or is contravening a law or regulatory requirement, being a law or regulatory requirement that relates to any financial advisory service in the foreign country of the regulatory authority concerned;
+(d) the acceptance by any person of an offer to compound an offence under section 117;
 
-‘‘material’’ includes any information, book, document or other record in any form whatsoever, and any container or article relating thereto;
+(e) the reprimand of any person under section 125;
 
-‘‘regulatory authority’’, in relation to a foreign country, means an authority of the foreign country exercising any function that corresponds to a regulatory function of the Authority under this Act;
+(f) the revocation or withdrawal of any exemption granted under this Act;
 
-‘‘relevant day’’ means —
+(g) the conviction of any person for any offence under this Act;
 
-(a) in relation to any financial advisory service in respect of securities or futures contracts, 6th March 2000; or
+(h) the conviction of any licensed financial adviser for any offence, whether in Singapore or elsewhere;
 
-(b) in relation to any other financial advisory service, 1st October 2002;
+(i) any other action as may have been taken by the Authority against any person under this Act, and any other information as the Authority may consider necessary or expedient to publish in the public interest.
 
-‘‘supervision’’, in relation to a regulatory authority, means the taking of any action for or in connection with the supervision of a subject-matter in the foreign country of the regulatory authority, being a subject-matter relating to any financial advisory service.
+[67
 
-[SF Bill, Clause 169]
+[1/2009]

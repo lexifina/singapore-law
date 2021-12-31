@@ -1,25 +1,14 @@
-# 38. Register of interests in securities
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
-Division: Division 4 — Register of Interests in Securities
+# 38. Obligation to provide information to Authority
+Part: PART 3 CONDUCT OF BUSINESS Division 1 — General
 
-(1) A relevant person shall —
+(1) The Authority may, in writing, require any licensed financial adviser to provide it with information about any matter related to its business whether carried on in Singapore or elsewhere if, in the opinion of the Authority, it requires the information for the discharge of its functions under this Act.
 
-(a) maintain in the prescribed form a register of his interests in securities;
+[1/2009]
 
-(b) enter in the register, within 7 days after the date that he acquires any interest in securities, particulars of the securities in which he has an interest and particulars of his interest in those securities; and
+(2) A licensed financial adviser which has been required to provide information to the Authority under subsection (1) must comply with such requirement.
 
-(c) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which such entry was first made.
+[1/2009]
 
-[2/2007]
+(3) Any person who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
 
-(2) Where there is a change (not being a prescribed change) in any interest in securities of a relevant person, he shall —
-
-(a) enter in the register, within 7 days after the date of the change, particulars of the change, including the date of the change and the circumstances by reason of which that change has occurred; and
-
-(b) retain that entry in an easily accessible form for a period of not less than 5 years after the date on which that entry was first made.
-
-[15/2003; 2/2007]
-
-(3) Any relevant person who contravenes this section shall be guilty of an offence.
-
-[SF Bill, Clause 131]
+[29

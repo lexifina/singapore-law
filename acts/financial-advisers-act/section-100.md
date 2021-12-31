@@ -1,20 +1,12 @@
-# 100. General exemption
-Part: PART X MISCELLANEOUS
+# 100. Powers where books not produced
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
+Subdivision: Subdivision (3) — Powers to obtain information
 
-(1) The Authority may, by regulations, exempt any person or any class of persons from all or any of the provisions of this Act, subject to such terms or conditions as may be prescribed.
+Where a person fails to comply with a requirement imposed by the Authority under section 96 to produce any book, the Authority may require the person to state, to the best of his or her knowledge and belief —
 
-(2) The Authority may, on the application of any person, exempt the person from all or any of the provisions of this Act or the requirements specified in any written direction, by notice in writing, if the Authority considers it appropriate to do so in the circumstances of the case.
+(a) the place where such book may be found; or
 
-[15/2003]
+(b) the person who last had possession, custody or control of such book and the place where that person may be found.
 
-(3) An exemption under subsection (2) —
-
-(a) may be granted subject to such terms or conditions as the Authority may specify by notice in writing;
-
-(b) need not be published in the Gazette; and
-
-(c) may be withdrawn at anytime by the Authority.
-
-[15/2003]
-
-(4) Any person who contravenes any term or condition prescribed under subsection (1) or specified by the Authority under subsection (3) (a) shall be guilty of an offence.
+[75

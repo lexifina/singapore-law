@@ -1,14 +1,19 @@
-# 103. Power to make regulations giving effect to treaty, etc.
-Part: PART X MISCELLANEOUS
+# 103. Evidence obtained by Authority may be used in criminal investigations and proceedings
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 4 — Transfer of Evidence
 
-(1) Without prejudice to the generality of section 104 (1), the Authority may make regulations prescribing the matters necessary or expedient to give effect, in Singapore, to the provisions of any treaty, convention, arrangement, memorandum of understanding, exchange of letters or other similar instrument relating to the provision of any financial advisory service, to which Singapore or the Authority is a party.
+(1) Despite the provisions of any written law or any rule of law, the Authority may provide any book, document, written record of any examination or other information obtained by the Authority in the exercise of its powers under this Part to —
 
-(2) Without prejudice to the generality of subsection (1), such regulations may provide for —
+(a) a police officer;
 
-(a) exemptions from the requirements relating to licensing, approval or registration requirements under this Act;
+(b) a Commercial Affairs Officer; or
 
-(b) the application of the provisions of this Act with such modifications as may be necessary; and
+(c) the Public Prosecutor, for the purposes of any investigation into or criminal proceedings against a person for an alleged contravention of any provision under this Act.
 
-(c) the revocation or withdrawal of, or the variation of any condition or restriction imposed in connection with, any exemption granted under this Act.
+[35/2012]
 
-[SF Bill, Clause 338]
+(2) To avoid doubt, any book, document, written record of examination or other information provided by the Authority under subsection (1) is not inadmissible in any criminal proceedings by reason only that it was first obtained by the Authority in the exercise of its powers under this Act, and the admissibility thereof is to be determined in accordance with the rules of evidence under written law and any relevant rules of law.
+
+[76B
+
+[35/2012]

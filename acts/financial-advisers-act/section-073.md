@@ -1,27 +1,28 @@
-# 73. Application for warrant to seize books not produced
-Part: PART VI SUPERVISION AND INVESTIGATION Division 1 — General
-Division: Division 3 — Investigative Powers of Authority
+# 73. Records and public register of representatives
+Part: PART 5 POWERS OF AUTHORITY
 
-(1) Where the Authority has reasonable grounds to suspect that there is, on particular premises, any book the production of which has been required under of section 72, and —
+(1) The Authority must keep in such form as it thinks fit records of the following information of each appointed representative and provisional representative:
 
-(a) which has not been produced in compliance with that requirement; or
+(a) his or her name;
 
-(b) which the Authority has reasonable grounds to believe will not be produced in compliance with that requirement, the Authority may apply to a Magistrate for the issue of a warrant to search the premises for such book.
+(b) the name of his or her current principal and every past principal (if any);
 
-(2) Whenever it appears to a Magistrate, upon an application made under subsection (1) and after such enquiry as he may think necessary, that there are reasonable grounds for suspecting that there is, on particular premises, any book the production of which has been required under section 72, and —
+(c) the current and past types of financial advisory service provided by him or her, and the date of commencement and cessation (if any) of such service;
 
-(a) which has not been produced in compliance with that requirement; or
+(d) where the business of the principal for which he or she acts is carried on under a name or style other than the name of the principal, the name or style under which the business is carried on;
 
-(b) which the Magistrate has reasonable grounds to suspect will not be produced in compliance with that requirement, the Magistrate may issue a warrant authorising the Authority or any person named therein, with or without assistance —
+(e) disciplinary proceedings or other action taken by the Authority against him or her and published under section 77; and
 
-(i) to enter and search the premises and to break open and search anything, whether a fixture or not, in the premises;
+(f) such other information as may be prescribed.
 
-and
+[1/2009]
 
-(ii) to take possession of, or secure against interference, any book that appears to be a book the production of which was so required.
+(2) The information mentioned in subsection (1) need only be kept for such period of time as the Authority considers appropriate.
 
-(3) The powers conferred under subsections (1) and (2) are in addition to, and are not in derogation of, any other power conferred by any other written law or rule of law.
+[1/2009]
 
-(4) In this section, ‘‘premises’’ includes any structure, building, aircraft, vehicle, vessel or place.
+(3) The Authority may reproduce the records mentioned in subsection (1) or any part of them in a public register of representatives which must be published in such manner as it considers appropriate.
 
-[SF Bill, Clause 164]
+[63A
+
+[1/2009]

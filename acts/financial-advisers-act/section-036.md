@@ -1,33 +1,34 @@
-# 36. Licensee to disclose certain interests in securities
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
-Division: Division 3 — Securities
+# 36. Recommendations by licensed financial advisers
+Part: PART 3 CONDUCT OF BUSINESS Division 1 — General
 
-(1) Where a licensee sends a circular or other similar written communication in which he makes a recommendation, whether expressly or by implication, with respect to any securities, he shall include in the circular or other communication, in type not less legible than that used in the remainder of the circular or other communication, a concise statement of the nature of any interest in, or any interest in the acquisition or disposal of, the securities that he, or a person associated with or connected to him, has at the date on which the circular or other communication is sent.
+(1) A licensed financial adviser must not make a recommendation with respect to any investment product to a person who may reasonably be expected to rely on the recommendation if the licensed financial adviser does not have a reasonable basis for making the recommendation to the person.
 
-(2) Where a licensee is charged with an offence in respect of a contravention of subsection (1), it shall be a defence for the licensee to prove that, at the time the circular or other communication was sent, he was not aware and could not reasonably be expected to have been aware —
+[1/2009]
 
-(a) that he had an interest in, or an interest in the acquisition or disposal of, the securities; or
+(2) For the purposes of subsection (1), a licensed financial adviser does not have a reasonable basis for making a recommendation to a person unless —
 
-(b) that the person associated with or connected to him had an interest in, or an interest in the acquisition or disposal of, the securities, as the case may be.
+(a) the licensed financial adviser has, for the purposes of ascertaining that the recommendation is appropriate, having regard to the information possessed by the licensed financial adviser concerning the investment objectives, financial situation and particular needs of the person, given such consideration to, and conducted such investigation of, the subject matter of the recommendation as is reasonable in all the circumstances; and
 
-(3) For the purposes of subsections (1) and (2) —
+(b) the recommendation is based on the consideration and investigation mentioned in paragraph (a).
 
-(a) an interest of a person in the disposal of any securities includes any financial benefit or advantage that will, or is likely to, accrue directly or indirectly to the person, upon or arising out of the disposal of the securities;
+[1/2009]
 
-(b) without limiting the generality of paragraph (a), a person who has entered into an underwriting agreement in respect of any securities shall be deemed to have an interest in the acquisition or disposal of the securities; and
+(3) Where —
 
-(c) notwithstanding section 2 (1) or 3, a person is not connected to or associated with another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
+(a) a licensed financial adviser, in making a recommendation to a person, contravenes subsection (1);
 
-(4) (Deleted by Act 15 of 2003)
+(b) the person, in reliance on the recommendation, does a particular act, or refrains from doing a particular act;
 
-(5) When a licensee sends to a person a circular or other communication to which subsection (1) applies, the licensee shall preserve a copy of the circular or other communication for 5 years.
+(c) it is reasonable, having regard to the recommendation and all other relevant circumstances, for the person to do that act, or to refrain from doing that act (as the case may be) in reliance on the recommendation; and
 
-[15/2003; 2/2007]
+(d) the person suffers loss or damage as a result of doing that act, or refraining from doing that act (as the case may be), then, without affecting any other remedy available to that person, the licensed financial adviser is liable to pay damages to that person in respect of that loss or damage.
 
-(6) For the purposes of this section, a circular or other communication sent to a person shall, if it is signed by an officer of a licensed financial adviser, be deemed to have been sent by the financial adviser.
+[1/2009]
 
-(7) The Authority may, by regulations, exempt any person or class of persons, or any securities or class of securities, from the application of this section, subject to such terms or conditions as the Authority considers appropriate.
+(4) In this section, a reference to the making of a recommendation is a reference to the making of a recommendation expressly or by implication.
 
-(8) Any licensee who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) This section does not apply to any licensed financial adviser or class of licensed financial advisers in such circumstances or under such conditions as may be prescribed.
 
-[SF Bill, Clause 120]
+[27
+
+[1/2009]

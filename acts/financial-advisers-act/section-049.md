@@ -1,29 +1,20 @@
-# 49. Reports by auditor to Authority in certain cases
-Part: PART IV ACCOUNTS AND AUDIT Division 1 — Accounts
-Division: Division 2 — Audit
+# 49. Accounts to be kept by licensed financial advisers
+Part: PART 4 ACCOUNTS AND AUDIT Division 1 — Accounts
 
-(1) Where, in the performance of his duties as an auditor for a licensed financial adviser, an auditor becomes aware of —
+(1) A licensed financial adviser must prepare, and lodge with the Authority, such statements of accounts and other statements and in such form and manner as may be prescribed.
 
-(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the financial adviser to a material extent;
+(2) A licensed financial adviser must —
 
-(b) any matter which, in his opinion, constitutes or may constitute a contravention of any provision of this Act or an offence involving fraud or dishonesty; or
+(a) keep, or cause to be kept, such books as will sufficiently explain the transactions and financial position of the financial adviser in Singapore and enable true and fair profit and loss accounts and balance sheets to be prepared from time to time; and
 
-(c) any irregularity that has or may have a material effect upon the accounts, including any irregularity that jeopardises the moneys or other assets of the clients of the financial adviser, the auditor shall immediately thereafter submit a report in writing of the matter or the irregularity to the Authority.
+(b) keep, or cause to be kept, such books, in such manner as will enable them to be conveniently and properly audited.
 
-(2) The Authority may impose all or any of the following duties on an auditor for a licensed financial adviser:
+(3) A licensed financial adviser must retain such books as may be required to be kept under this Act for such period as may be prescribed.
 
-(a) a duty to submit to the Authority such additional information in relation to his audit as the Authority considers necessary;
+(4) An entry in the books of a licensed financial adviser required to be kept in accordance with this Division is deemed to have been made by, or with the authority of, the licensed financial adviser.
 
-(b) a duty to enlarge or extend the scope of his audit of the business and affairs of the financial adviser;
+(5) Any licensed financial adviser who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction.
 
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
+(6) Any licensed financial adviser who contravenes subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-(d) a duty to submit a report to the Authority on any of the matters referred to in paragraphs (b) and (c), and the auditor shall carry out such duty or duties.
-
-(3) The licensed financial adviser shall remunerate the auditor in respect of the discharge of such duty or duties as the Authority may impose on the auditor under subsection (2).
-
-(4) Any auditor who contravenes subsection (1) or (2) shall be guilty of an offence.
-
-(5) Any licensed financial adviser which contravenes subsection (3) shall be guilty of an offence.
-
-[SF Bill, Clause 108 and 115]
+[45

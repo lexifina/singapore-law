@@ -1,7 +1,7 @@
 # 3. Associated person
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-(1) Unless the context otherwise requires, any reference in this Act to a person associated with another person shall be construed as a reference to —
+(1) Unless the context otherwise requires, any reference in this Act to a person associated with another person is to be construed as a reference to —
 
 (a) where the other person is a corporation —
 
@@ -23,9 +23,7 @@ Part: PART I PRELIMINARY
 
 (d) where the matter to which the reference relates is a matter, other than the extent of a power to exercise, or to control the exercise of, the voting power attached to voting shares in a corporation —
 
-(i) subject to subsection (2), a person who is a director of a corporation of which the other person is a director;
-
-or
+(i) subject to subsection (2), a person who is a director of a corporation of which the other person is a director; or
 
 (ii) a trustee of a trust in relation to which the other person benefits or is capable of benefiting otherwise than by reason of transactions entered into in the ordinary course of business in connection with the lending of money;
 
@@ -33,18 +31,18 @@ or
 
 (f) a person with whom the other person is, or proposes to become, associated, whether formally or informally, in any other way in respect of the matter to which the reference relates; or
 
-(g) where the other person has entered into, or proposes to enter into, a transaction, or has done, or proposes to do, any other act or thing, with a view to becoming associated with a person as referred to in paragraph (a), (b), (c), (d), (e) or (f), that last-mentioned person.
+(g) where the other person has entered into, or proposes to enter into, a transaction, or has done, or proposes to do, any other act or thing, with a view to becoming associated with a person as mentioned in paragraph (a), (b), (c), (d), (e) or (f), that last mentioned person.
 
-(2) Where, in proceedings under this Act, it is alleged that a person referred to in subsection (1) (d) (i) was associated with another person at a particular time, the first-mentioned person shall not be considered to be so associated in relation to a matter to which the proceedings relate unless the person alleging the association proves that the first-mentioned person at that time knew or ought reasonably to have known the material particulars of that matter.
+(2) Where, in proceedings under this Act, it is alleged that a person mentioned in subsection (1)(d)(i) was associated with another person at a particular time, the firstmentioned person is not to be considered to be so associated in relation to a matter to which the proceedings relate unless the person alleging the association proves that the firstmentioned person at that time knew or ought reasonably to have known the material particulars of that matter.
 
-(3) A person shall not be taken to be associated with another person by virtue of subsection (1) (b), (c), (e) or (f) by reason only of one or more of the following:
+(3) A person is not to be taken to be associated with another person by virtue of subsection (1)(b), (c), (e) or (f) by reason only of one or more of the following:
 
-(a) that one of those persons furnishes advice to, or acts on behalf of, the other person in the proper performance of the functions attaching to his professional capacity or to his business relationship with the other person;
+(a) that one of those persons provides advice to, or acts on behalf of, the other person in the proper performance of the functions attaching to the person’s professional capacity or to the person’s business relationship with the other person;
 
-(b) that one of those persons, a customer, gives specific instructions to the other, whose ordinary business includes dealing in securities, trading in futures contracts or leveraged foreign exchange trading, to acquire shares on the customer’s behalf in the ordinary course of that business;
+(b) that one of those persons, a customer, gives specific instructions to the other, whose ordinary business includes dealing in capital markets products, to acquire shares on the customer’s behalf in the ordinary course of that business;
 
-(c) that one of those persons has sent, or proposes to send, to the other, a take-over offer, or has made, or proposes to make, offers under a take-over announcement, within the meaning of the Take-over Code issued under section 321 (1) of the Securities and Futures Act (Cap. 289), in relation to shares held by the other;
+(c) that one of those persons has sent, or proposes to send, to the other, a take-over offer, or has made, or proposes to make, offers under a take-over announcement, within the meaning of the Take-over Code issued under section 321(1) of the Securities and Futures Act 2001, in relation to shares held by the other;
 
 (d) that one of those persons has appointed the other, otherwise than for valuable consideration given by the other or by an associate of the other, to vote as a proxy or representative at a meeting of members, or of a class of members, of a corporation.
 
-[SIA, s. 3; SF Bill, Clause 3]
+[4/2017]

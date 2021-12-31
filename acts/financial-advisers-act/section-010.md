@@ -1,30 +1,18 @@
-# 10. Failure to maintain minimum financial requirements or professional indemnity insurance policy
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 10. Grant of financial adviser’s licence
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) A licensed financial adviser shall —
+(1) The Authority may grant any financial adviser’s licence, subject to such conditions or restrictions as it thinks fit.
 
-(a) maintain, at all times during the currency of its licence, such minimum financial requirements or such other requirements as may be prescribed under section 9 (1) (b); and
+[1/2009]
 
-(b) have in force, at all times during the currency of its licence, a professional indemnity insurance policy, the cover of which is consistent with such limit and deductible requirements as may be prescribed, or any other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy, under section 9 (1) (c).
+(2) Without limiting subsection (1), the Authority may, in granting any financial adviser’s licence, impose conditions or restrictions with respect to the type of financial advisory service which may or may not be provided by the licensed financial adviser, described in such manner as the Authority may consider appropriate.
 
-[15/2003]
+[1/2009]
 
-(2) Where a licensed financial adviser contravenes subsection (1), the Authority may, without prejudice to any other remedy available to the Authority under this Act —
+(3) The Authority may at any time add to, vary or revoke any condition or restriction of a financial adviser’s licence.
 
-(a) permit the financial adviser to continue to act as such, subject to such conditions as the Authority may impose; or
+[1/2009]
 
-(b) impose such requirements as may be specified in written directions, including requiring the financial adviser —
+(4) Any licensed financial adviser who contravenes any condition or restriction imposed by the Authority under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
 
-(i) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement that is permitted by or by virtue of its licence, and that has been entered into before the time of its failure to comply with the minimum financial requirements or such other requirements as may be prescribed under section 9 (1) (b);
-
-(ii) to cease to act as a financial adviser other than for the purpose of giving effect to any agreement, transaction or arrangement that is permitted by or by virtue of its licence, and that has been entered into before the time of its failure to have in force a professional indemnity insurance policy, or such other measure as may be approved by the Authority in lieu of a professional indemnity insurance policy, under section 9 (1) (c); or
-
-(iii) to submit such statements or reports on a weekly basis or at such other intervals as the Authority may require until it meets the minimum financial requirements or such other requirements as may be prescribed under section 9 (1) (b).
-
-[15/2003]
-
-(3) Any licensed financial adviser which, without reasonable excuse, contravenes subsection (1) or any condition imposed by the Authority under subsection (2) (a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
-
-[15/2003]
-
-[FTA, s. 24A]
+[13

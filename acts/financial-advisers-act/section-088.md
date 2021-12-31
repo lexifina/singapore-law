@@ -1,20 +1,10 @@
-# 88. Penalty for corporations
-Part: PART VIII OFFENCES
+# 88. Proceedings at examination
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
+Subdivision: Subdivision (2) — Examination of persons
 
-(1) Subject to subsections (2) and (3), where a corporation or body corporate is convicted of an offence under this Act, the penalty that the court may impose is a fine not exceeding 2 times the maximum amount that the court could, but for this subsection, impose as a fine for that offence.
+The provisions of this Subdivision apply where, pursuant to a requirement made under section 89 for the purposes of an investigation under this Division, a person (called in this Subdivision the examinee) appears before another person (called in this Subdivision the investigator) for examination.
 
-(2) Subsection (1) shall not apply to —
+[71B
 
-(a) offences under sections 10 (3), 13 (4), 19 (10), 19 (12), 24 (5), 32 (6), 45 (5) and (6), 46 (2), 47 (2), 48 (5), (6) and (7), 49 (5), 55 (2), 56 (7) and 57 (7); or
-
-(b) offences under any subsidiary legislation made under this Act where it is expressly provided in the subsidiary legislation that subsection (1) shall not apply to those offences.
-
-[15/2003]
-
-(3) Where an individual is convicted of an offence under this Act by virtue of section 83, he shall be liable to the fine or imprisonment or both as prescribed for that offence and subsection (1) shall not apply.
-
-(4) In this section, ‘‘body corporate’’ excludes a limited liability partnership within the meaning of the Limited Liability Partnerships Act (Cap. 163A).
-
-[5/2005]
-
-[SF Bill, Clause 333]
+[35/2012]

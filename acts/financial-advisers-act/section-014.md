@@ -1,20 +1,18 @@
-# 14. Licence fees
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 14. Notification of change in particulars
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) Every licensee shall pay to the Authority such licence fees as may be prescribed.
+(1) Where —
 
-(2) Any licence fee paid to the Authority under this Act shall not be refunded or remitted if —
+(a) a licensed financial adviser ceases to act as a financial adviser; or
 
-(a) during the period to which the licence fee relates, the licence is revoked or suspended or lapses under section 19;
+(b) a change occurs in any matter records of which are required by section 72 to be kept in relation to a licensed financial adviser, the licensed financial adviser must, not later than 14 days after the occurrence of that event, provide particulars of the event to the Authority in the prescribed form.
 
-(b) the licence fee is paid in relation to an application for the renewal of a licence and such application is withdrawn after the date on which, but for its renewal, the licence would have expired;
+[1/2009]
 
-(c) during the period to which the licence fee relates, the licensee fails or ceases to provide any financial advisory service; or
+(2) A person who ceases to act as a licensed financial adviser must return the licence to the Authority within 14 days of the date of the cessation.
 
-(d) a prohibition order has been made against the licensee under section 59.
+[1/2009]
 
-(3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any licence fee paid or payable to it.
+(3) Any person who, without reasonable excuse, contravenes this section shall be guilty of an offence.
 
-[15/2003]
-
-[SF Bill, Clause 85]
+[18

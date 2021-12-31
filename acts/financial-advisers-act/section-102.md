@@ -1,12 +1,13 @@
-# 102. Copies or extracts of books to be admitted in evidence
-Part: PART X MISCELLANEOUS
+# 102. Interpretation of this Division
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 4 — Transfer of Evidence
 
-(1) Subject to this section, a copy of or an extract from a book mentioned in this Act that is proved to be a true copy of the book or of the relevant part of the book is admissible in evidence as if it were the original book or the relevant part of the original book.
+In this Division —
 
-(2) For the purposes of subsection (1), evidence that a copy of or an extract from a book is a true copy of the book or of a part of the book may be given —
+“Commercial Affairs Officer” means a Commercial Affairs Officer appointed under section 64 of the Police Force Act 2004;
 
-(a) by a person who has compared the copy or extract with the book or the relevant part of the book; and
+“police officer” means a member of the Singapore Police Force who is deployed in the Commercial Affairs Department of that Force.
 
-(b) orally or by an affidavit sworn, or by a declaration made, before a person authorised to take affidavits or statutory declarations.
+[76A
 
-[SF Bill, Clause 149]
+[35/2012]

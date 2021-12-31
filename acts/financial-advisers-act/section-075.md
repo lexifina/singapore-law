@@ -1,11 +1,10 @@
-# 75. Powers where books not produced
-Part: PART VI SUPERVISION AND INVESTIGATION Division 1 — General
-Division: Division 3 — Investigative Powers of Authority
+# 75. Appointment of assistants
+Part: PART 5 POWERS OF AUTHORITY
 
-Where a person fails to comply with a requirement imposed by the Authority under section 72 to produce any book, the Authority may require the person to state, to the best of his knowledge and belief —
+(1) Subject to subsection (2), the Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
 
-(a) the place where such book may be found; or
+(2) The Authority may, by notification in the Gazette, appoint one or more of its officers to exercise the power to grant an exemption to any person (not being an exemption granted to a class of persons) under a provision of this Act specified in the Third Schedule, or to revoke any such exemption.
 
-(b) the person who last had possession, custody or control of such book and the place where that person may be found.
+(3) Any person appointed by the Authority under subsection (1) is deemed to be a public servant for the purposes of the Penal Code 1871.
 
-[SF Bill, Clause 166; ASIC 2001, s. 38]
+[65

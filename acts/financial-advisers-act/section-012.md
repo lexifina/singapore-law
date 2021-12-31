@@ -1,8 +1,24 @@
-# 12. Representative to act for only one financial adviser
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 12. Variation of financial adviser’s licence
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) Subject to subsection (2), no licensed representative shall, at any one time, be a representative of more than one financial adviser.
+(1) A licensed financial adviser may apply to the Authority, in such form and manner as may be prescribed, to vary its licence —
 
-(2) A licensed representative may be a representative of more than one financial adviser if the financial advisers are related corporations.
+(a) by adding one or more types of financial advisory service authorised to be provided by its licence; or
 
-(3) Any licensed representative who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+(b) by adding one or more types of investment product in respect of which it may provide any financial advisory service.
+
+[1/2009]
+
+(2) The Authority may require an applicant to provide it with such information or documents as it considers necessary in relation to the application.
+
+(3) An application under subsection (1) must be accompanied by a non-refundable application fee of such amount as may be prescribed, which must be paid in the manner specified by the Authority.
+
+[1/2009]
+
+(4) The Authority may approve an application under subsection (1) subject to such conditions or restrictions as the Authority thinks fit, or may refuse the application on any of the grounds set out in section 8(1).
+
+[1/2009]
+
+(5) The Authority must not refuse an application under subsection (1) without giving the applicant an opportunity to be heard.
+
+[16

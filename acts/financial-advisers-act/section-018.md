@@ -1,24 +1,8 @@
-# 18. Notification of change in particulars, etc.
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 18. Holding out as financial adviser
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) Where —
+(1) A person must not hold out to be a financial adviser unless the person is a licensed financial adviser, an exempt financial adviser or a person specified in the First Schedule.
 
-(a) a licensed financial adviser ceases to act as a financial adviser;
+(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $7,500 for every day or part of a day during which the offence continues after conviction.
 
-or
-
-(b) a change occurs in any matter in relation to a licensed financial adviser, particulars of which are required to be entered in the register of licensees under section 63, the licensed financial adviser shall, not later than 14 days after the occurrence of that event, furnish particulars of the event to the Authority in the prescribed form.
-
-(2) Where —
-
-(a) a licensed representative ceases to be the representative of a licensed financial adviser; or
-
-(b) a change occurs in any matter in relation to a licensed representative, particulars of which are required to be entered in the register of licensees under section 63, the licensed representative shall, not later than 14 days after the occurrence of that event, furnish particulars of the event to the Authority in the prescribed form.
-
-(3) A person who ceases to act as a licensed financial adviser or a licensed representative, as the case may be, shall return the licence to the Authority within 14 days of the date of the cessation.
-
-[15/2003]
-
-(4) Any person who, without reasonable excuse, contravenes this section shall be guilty of an offence.
-
-[SF Bill, Clause 93]
+[22

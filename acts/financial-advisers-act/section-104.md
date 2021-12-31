@@ -1,48 +1,30 @@
-# 104. Regulations
-Part: PART X MISCELLANEOUS
+# 104. Interpretation of this Part
+Part: PART 7 ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
-(1) The Authority may make regulations for carrying out the purposes and provisions of this Act and for the due administration thereof.
+In this Part, unless the context otherwise requires —
 
-(2) Without prejudice to the generality of subsection (1), the Authority may make regulations for or with respect to —
+“enforce” means enforce through criminal, civil or administrative proceedings;
 
-(a) applications for the grant or renewal of licences, and matters incidental thereto;
+“enforcement” means the taking of any action to enforce a law or regulatory requirement against a specified person, being a law or regulatory requirement that relates to any financial advisory service in the foreign country of the regulatory authority concerned;
 
-(b) the activities of, and standards to be maintained by, a licensee, or an exempt financial adviser or any of its representatives, including the manner, method and place of soliciting business and the conduct of such solicitation;
+“foreign country” means a country or territory other than Singapore;
 
-(c) (Deleted by Act 15 of 2003)
+“investigation” means an investigation to determine if a specified person has contravened or is contravening a law or regulatory requirement, being a law or regulatory requirement that relates to any financial advisory service in the foreign country of the regulatory authority concerned;
 
-(d) the particulars to be recorded in, or in respect of, books kept by any licensed financial adviser;
+“material” includes any information, book, document or other record in any form whatsoever, and any container or article relating thereto;
 
-(e) the remuneration of an auditor appointed under this Act and the costs of an audit carried out under this Act;
+“regulatory authority”, in relation to a foreign country, means an authority of the foreign country exercising any function that corresponds to a regulatory function of the Authority under this Act;
 
-(f) the manner in which a licensee, or an exempt financial adviser or any of its representatives, conducts his dealings with the clients of the licensed financial adviser or exempt financial adviser, as the case may be;
+“relevant day” means —
 
-(g) the purchase or sale of investment products directly or indirectly by licensees for their own account;
+(a) 6 March 2000, in relation to any financial advisory service in respect of securities or futures contracts as defined in section 2(1) in force immediately before 8 October 2018;
 
-(h) the disclosure by a licensee, or by an exempt financial adviser or any of its representatives, of any material interest that he may have in a proposed transaction relating to purchasing, subscribing for or trading in capital markets products;
+(b) 1 October 2002, in relation to any financial advisory service in respect of investment products as defined in section 2(1) in force immediately before 8 October 2018 (other than securities or futures contracts mentioned in paragraph (a)); or
 
-(i) the forms for the purposes of this Act;
+(c) 8 October 2018, in relation to any other financial advisory service;
 
-(j) the fees to be paid in respect of any matter or thing required for the purposes of this Act, and the refund and remission, whether in whole or in part, of such fees;
+“supervision”, in relation to a regulatory authority, means the taking of any action for or in connection with the supervision of a subject matter in the foreign country of the regulatory authority, being a subject matter relating to any financial advisory service.
 
-(k) the collection, from any licensed financial adviser or exempt financial adviser, by or on behalf of the Authority at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to investment products as may be prescribed, and for the collection and use of such information for any purpose, whether or not connected with the prescribed investment products;
+[77
 
-(l) the control of any take-over of a licensed financial adviser;
-
-(m) (Deleted by Act 15 of 2003)
-
-(n) all matters and things which are required or permitted to be prescribed by this Act, or which may be necessary or expedient to be prescribed to give effect to this Act.
-
-[15/2003]
-
-(3) No use shall be made of any information obtained by or on behalf of the Authority by virtue only of subsection (2) (k) except in a form which does not disclose the affairs of any particular person.
-
-(4) Except as otherwise expressly provided in this Act, regulations made under this Act —
-
-(a) may be of general or specific application;
-
-(b) may provide that a contravention of any specified provision thereof shall be an offence; and
-
-(c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
-
-[15/2003]
+[4/2017]

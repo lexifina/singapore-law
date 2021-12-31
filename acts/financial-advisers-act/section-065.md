@@ -1,14 +1,64 @@
-# 65. Appointment of assistants
-Part: PART V POWERS OF AUTHORITY
+# 65. Control of take-over of licensed financial adviser
+Part: PART 5 POWERS OF AUTHORITY
 
-(1) Subject to subsection (1A), the Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
+(1) This section applies to all individuals whether resident in Singapore or not and whether citizens of Singapore or not, and to all bodies corporate or unincorporate, whether incorporated or carrying on business in Singapore or not.
 
-[15/2003]
+[1/2009]
 
-(1A) The Authority may, by notification published in the Gazette, appoint one or more of its officers to exercise the power to grant an exemption to any person (not being an exemption granted to a class of persons) under a provision of this Act specified in the Third Schedule, or to revoke any such exemption.
+(2) A person must not enter into any arrangement in relation to shares in a licensed financial adviser that is a company by virtue of which the person would, if the arrangement is carried out, obtain effective control of the licensed financial adviser, unless the person has obtained the prior approval of the Authority to the person’s entering into the arrangement.
 
-[15/2003]
+[1/2009]
 
-(2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+(3) An application for the Authority’s approval under subsection (2) must be made in writing, and the Authority may approve the application if the Authority is satisfied that —
 
-[SF Bill, Clause 320]
+(a) the applicant is a fit and proper person to have effective control of the licensed financial adviser;
+
+(b) having regard to the applicant’s likely influence, the licensed financial adviser is likely to continue to conduct its business prudently and comply with the provisions of this Act and directions made thereunder; and
+
+(c) the applicant satisfies such other criteria as may be prescribed or as may be specified in written directions by the Authority.
+
+[1/2009]
+
+(4) Any approval under subsection (3) may be granted to the applicant subject to such conditions as the Authority may determine, including any condition —
+
+(a) restricting the applicant’s disposal or further acquisition of shares or voting power in the licensed financial adviser; or
+
+(b) restricting the applicant’s exercise of voting power in the licensed financial adviser, and the applicant must comply with such conditions.
+
+[1/2009]
+
+(5) Any condition imposed under subsection (4) has effect despite any provision of the Companies Act 1967 or anything contained in the memorandum or articles of association of the licensed financial adviser.
+
+[1/2009]
+
+(6) For the purposes of this section and section 66 —
+
+(a) a reference to a person entering into an arrangement in relation to shares includes —
+
+(i) entering into an agreement or any formal or informal scheme, arrangement or understanding, to acquire those shares;
+
+(ii) making or publishing a statement, however expressed, that expressly or impliedly invites the holder of those shares to offer to dispose of the holder’s shares to the first person;
+
+(iii) the first person obtaining a right to acquire shares under an option, or to have shares transferred to the first person or to the first person’s order, whether the right is exercisable presently or in the future and whether on fulfilment of a condition or not; and
+
+(iv) becoming a trustee of a trust in respect of those shares;
+
+(b) a person is regarded as obtaining effective control of a licensed financial adviser by virtue of an arrangement if the person alone or acting together with any connected person would, if the arrangement is carried out —
+
+(i) acquire or hold, directly or indirectly, 20% or more of the issued share capital of the licensed financial adviser; or
+
+(ii) control, directly or indirectly, 20% or more of the voting power in the licensed financial adviser; and
+
+(c) a reference to the voting power in the licensed financial adviser is a reference to the total number of votes that may be cast in a general meeting of the licensed financial adviser.
+
+[1/2009]
+
+(7) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[1/2009]
+
+(8) Any person who contravenes subsection (4) shall be guilty of an offence.
+
+[57A
+
+[1/2009]

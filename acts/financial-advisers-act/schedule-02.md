@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 2 (1)
+Sections 2(1) and 5(1)
 
 TYPES OF FINANCIAL ADVISORY SERVICE
 
@@ -8,12 +8,10 @@ TYPES OF FINANCIAL ADVISORY SERVICE
 
 (a) in the manner set out in paragraph 2; or
 
-(b) advising on corporate finance within the meaning of the Securities and Futures Act (Cap. 289).
+(b) advising on corporate finance within the meaning of the Securities and Futures Act 2001.
 
 2. Advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product.
 
-3. Marketing of any collective investment scheme.
+3. Arranging of any contract of insurance in respect of life policies, other than a contract of reinsurance.
 
-4. Arranging of any contract of insurance in respect of life policies, other than a contract of reinsurance.
-
-[15/2003; 2/2005]
+[S 658/2018]

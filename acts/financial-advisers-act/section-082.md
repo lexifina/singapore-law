@@ -1,14 +1,13 @@
-# 82. Immunity from criminal or civil liability
-Part: PART VII ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
+# 82. Application of this Division
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 2A — Inspection Powers of Foreign Regulatory Authority
 
-(1) No civil or criminal proceedings, other than proceedings for an offence under section 81, shall lie against any person for —
+This Division does not apply to an inspection by a foreign regulatory authority of the books of a specified financial adviser in Singapore if —
 
-(a) furnishing to the Authority or transmitting any material or copy thereof to the Authority or a regulatory authority of a foreign country if he had furnished or transmitted that material or copy in good faith in compliance with an order made under section 80 (1) (b) or (c);
+(a) the foreign regulatory authority is an AML/CFT authority as defined in section 152 of the Monetary Authority of Singapore Act 1970 and exercises consolidated supervision authority as defined in that section over that specified financial adviser; and
 
-(b) making a statement to the Authority in good faith and in compliance with an order made under section 80 (1) (d); or
+(b) the inspection is solely for the purposes of such consolidated supervision.
 
-(c) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with such an order.
+[70B
 
-(2) Any person who complies with an order referred to in subsection (1) (a) or (b) shall not be treated as being in breach of any restriction upon the disclosure of information or thing imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
-
-[SF Bill, Clause 174]
+[18/2015; 31/2017]

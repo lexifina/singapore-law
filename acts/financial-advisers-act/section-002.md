@@ -1,128 +1,152 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘advocate and solicitor’’ means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 2(1) of the Legal Profession Act 1966;
 
-‘‘approved holding company’’ has the same meaning as in section 2 (1) of the Securities and Futures Act (Cap. 289);
+“appointed representative”, in respect of a type of financial advisory service, has the meaning given to that expression by section 23, and “appointed representative” means an appointed representative in respect of any type of financial advisory service;
 
-Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+“approved exchange” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-Aust. Corporations 2001 : Australia, Corporations Act 2001 (No. 50, 2001) as amended by the Australian Financial Services Reform Bill 2001 ASIC 2001 : Australia, Australian Securities and Investment Commission Act 2001 HK SF Bill : Hong Kong, Securities and Futures Bill (Gazette published on 24 November 2000, Legal Supplement No. 3) UK FSMA 2000 : United Kingdom, Financial Services and Markets Act 2000 (Chapter c. 8) BA : Singapore, Banking Act (Chapter 19, 1999 Revised Edition) FTA : Singapore, Futures Trading Act (Chapter 116, 1996 Revised Edition — repealed) Insurance Intermediaries : Singapore, Insurance Intermediaries Act (Chapter 142A, 2000 Revised Edition — repealed) SF Bill : Singapore, Securities and Futures Bill (Bill 33/2001) SIA : Singapore, Securities Industry Act (Chapter 289, 1985 Revised Edition — repealed) SIR : Singapore, Securities Industry Regulations (Cap. 289, Rg. 1)
+“approved holding company” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘auditor’’ means a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2);
+“auditor” means a public accountant who is registered or deemed to be registered under the Accountants Act 2004;
 
-‘‘Authority’’ means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act 1970;
 
-‘‘book’’ includes any record, register, document or other record of information and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or by electronic process or otherwise;
+“book” includes any record, register, document or other record of information and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or by electronic process or otherwise;
 
-‘‘collective investment scheme’’ has the same meaning as in section 2 (1) of the Securities and Futures Act (Cap. 289);
+“capital markets products” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘company’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“collective investment scheme” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘connected person’’, in relation to —
+“commodity” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
+
+“company” has the meaning given by section 4(1) of the Companies Act 1967;
+
+“connected person”, in relation to —
 
 (a) an individual, means —
 
-(i) the individual’s spouse, son, adopted son, step- son, daughter, adopted daughter, step-daughter, father, step-father, mother, step-mother, brother, step-brother, sister or step-sister; and
+(i) the individual’s spouse, son, adopted son, stepson, daughter, adopted daughter, stepdaughter, father, stepfather, mother, stepmother, brother, stepbrother, sister or stepsister; and
 
-(ii) a firm, a limited liability partnership or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm, limited liability partnership or corporation, whether such control is exercised individually or jointly; or
+(ii) a firm, a limited liability partnership or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of at least 20% of the voting power in the firm, limited liability partnership or corporation, whether such control is exercised individually or jointly; or
 
-(b) a firm, a limited liability partnership or a corporation, means another firm, limited liability partnership or corporation in which the first-mentioned firm, limited liability partnership or corporation has control of not less than 20% of the voting power in that other firm, limited liability partnership or corporation, and a reference in this Act to a person connected to another person shall be construed accordingly;
+(b) a firm, a limited liability partnership or a corporation, means another firm, limited liability partnership or corporation in which the firstmentioned firm, limited liability partnership or corporation has control of at least 20% of the voting power in that other firm, limited liability partnership or corporation, and a reference in this Act to a person connected to another person is to be construed accordingly;
 
-‘‘corporation’’ has the same meaning as in section 4 (1) of the Companies Act;
+“corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘dealing in securities’’ has the same meaning as in section 2 (1) of the Securities and Futures Act (Cap. 289);
+“dealing in capital markets products” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘director’’ has the same meaning as in section 4 (1) of the Companies Act;
+“director” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘exempt financial adviser’’ means a financial adviser who is exempt under section 23 (1) from holding a financial adviser’s licence;
+“exempt financial adviser” means a financial adviser who is exempt under section 20(1) from holding a financial adviser’s licence;
 
-‘‘financial adviser’’ means a person who carries on a business of providing any financial advisory service, but does not include any person specified in the First Schedule;
+“financial adviser” means a person who carries on a business of providing any financial advisory service, but does not include any person specified in the First Schedule;
 
-‘‘financial adviser’s licence’’ means a licence granted or renewed under section 13 in respect of a financial adviser, and ‘‘licensed financial adviser’’ shall be construed accordingly;
+“financial adviser’s licence” means a licence granted under section 10 in respect of a financial adviser, and “licensed financial adviser” is to be construed accordingly;
 
-‘‘financial advisory service’’ means all or any of the services specified in the Second Schedule;
+“financial advisory service” means all or any of the services specified in the Second Schedule;
 
-‘‘financial year’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“financial journalist” means a person who contributes advice concerning specified products, or prepares analyses or reports concerning specified products, for publication in a newspaper, but does not include such person or a person belonging to such class of persons as may be prescribed;
 
-‘‘firm’’ has the same meaning as in section 2 (1) of the Business Registration Act (Cap. 32);
+“financial year” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘futures contract’’ means —
+“firm” has the meaning given by section 2(1) of the Business Names Registration Act 2014;
 
-(a) a contract the effect of which is that —
+“futures contract” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-(i) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to the terms and conditions set out in the business rules or practices of a futures market; or
+“independent sales audit unit”, in relation to a licensed financial adviser, means a unit of the licensed financial adviser which —
 
-(ii) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of a futures market at which the contract is made, and includes a futures option transaction within the meaning of section 2 (1) of the Securities and Futures Act (Cap. 289); or
+(a) audits the quality of the provision of financial advisory services by representatives of the licensed financial adviser; and
 
-(b) such other contract or class of contracts as the Authority may prescribe;
+(b) is independent from all units of the licensed financial adviser which provide financial advisory services;
 
-‘‘futures exchange’’ has the same meaning as in section 2 (1) of the Securities and Futures Act;
+“investment product” means —
 
-‘‘investment product’’ means —
+(a) any capital markets products;
 
-(a) any capital markets product as defined in section 2 (1) of the Securities and Futures Act;
+(b) spot foreign exchange contracts other than for the purposes of leveraged foreign exchange trading;
 
-(b) any life policy; or
+(c) any life policy; or
 
-(c) any other product as may be prescribed;
+(d) any other product as may be prescribed;
 
-‘‘leveraged foreign exchange trading’’ has the same meaning as in section 2 (1) of the Securities and Futures Act;
+“leveraged foreign exchange trading” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘licence’’ means a financial adviser’s licence or representative’s licence, and ‘‘licensee’’ shall be construed accordingly;
+“licensed insurer” means an insurer who is for the time being licensed under section 11 of the Insurance Act 1966;
 
-‘‘life policy’’ has the same meaning as in the First Schedule to the Insurance Act (Cap. 142), but does not include any contract of reinsurance;
+“life policy” has the meaning given by the First Schedule to the Insurance Act 1966, but does not include any contract of reinsurance;
 
-‘‘limited liability partnership’’ has the same meaning as in section 2 (1) of the Limited Liability Partnerships Act (Cap. 163A);
+“limited liability partnership” has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005;
 
-‘‘manager’’ and ‘‘partner’’, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2 (1) of the Limited Liability Partnerships Act;
+“manager” and “partner”, in relation to a limited liability partnership, have the respective meanings given by section 2(1) of the Limited Liability Partnerships Act 2005;
 
-‘‘newspaper’’ has the same meaning as in section 2 (1) of the Newspaper and Printing Presses Act (Cap. 206);
+“newspaper” has the meaning given by section 2(1) of the Newspaper and Printing Presses Act 1974;
 
-‘‘officer’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“officer” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘prescribed written law’’ means this Act, or any of the following written laws and any subsidiary legislation made thereunder:
+“organised market” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-(a) Banking Act (Cap. 19);
+“prescribed written law” means this Act, or any of the following written laws and any subsidiary legislation made thereunder:
 
-(b) Finance Companies Act (Cap. 108);
+(a) Banking Act 1970;
 
-(c) Insurance Act (Cap. 142);
+(b) Finance Companies Act 1967;
 
-(d) Monetary Authority of Singapore Act (Cap. 186);
+(c) Insurance Act 1966;
 
-(e) Money-changing and Remittance Businesses Act (Cap. 187);
+(d) Monetary Authority of Singapore Act 1970;
 
-(f) Securities and Futures Act (Cap. 289); or
+(e) Payment Services Act 2019;
+
+(f) Securities and Futures Act 2001; or
 
 (g) such other written law as the Authority may prescribe;
 
-‘‘recognised market operator’’ has the same meaning as in section 2 (1) of the Securities and Futures Act;
+“principal”, in relation to a representative, means a person whom the representative is in the direct employment of, is acting for or is acting by arrangement with, and on behalf of whom the representative provides or will provide any financial advisory service;
 
-‘‘registered insurer’’ means an insurer who is for the time being registered under section 8 of the Insurance Act;
+“provisional representative”, in respect of a type of financial advisory service, has the meaning given to that expression by section 24, and “provisional representative” means a provisional representative in respect of any type of financial advisory service;
 
-‘‘related corporation’’ has the same meaning as in section 4 (1) of the Companies Act (Cap. 50);
+“public register of representatives” means the register of that name under section 73(3);
 
-‘‘representative’’ means a person, in the direct employment of or acting for or by arrangement with a financial adviser, who performs for the financial adviser any of the functions of a financial adviser (other than work ordinarily performed by accountants, clerks or cashiers), whether his remuneration (if any) is by way of salary, wages, commission or otherwise, and includes an officer of the financial adviser who performs for the financial adviser any of those functions, whether or not his remuneration is as aforesaid;
+“recognised market operator” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘representative’s licence’’ means a licence granted or renewed under section 13 in respect of a representative, and ‘‘licensed representative’’ shall be construed accordingly;
+“record” means information that is inscribed, stored or otherwise fixed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;
 
-‘‘securities’’ has the same meaning as in section 2 (1) of the Securities and Futures Act;
+“related corporation” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘securities exchange’’ has the same meaning as in section 2 (1) of the Securities and Futures Act;
+“representative” means a person, by whatever name called, in the direct employment of, or acting for, or by arrangement with, a financial adviser, who performs on behalf of the financial adviser any financial advisory service, whether or not the person is remunerated, and whether the person’s remuneration (if any) is by way of salary, wages, commission or otherwise, and includes any officer of the financial adviser who performs for the financial adviser any financial advisory service whether or not the officer is remunerated, and whether the officer’s remuneration (if any) is by way of salary, wages, commission or otherwise;
 
-‘‘share’’ has the same meaning as in section 4 (1) of the Companies Act;
+“securities” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘substantial shareholder’’ has the same meaning as in Division 4 of Part IV of the Companies Act;
+“securities-based derivatives contract” has the meaning given by section 2(1) of the Securities and Futures Act 2001;
 
-‘‘trading in futures contracts’’ has the same meaning as in section 2 (1) of the Securities and Futures Act;
+“share” has the meaning given by section 4(1) of the Companies Act 1967;
 
-‘‘voting share’’ has the same meaning as in section 4 (1) of the Companies Act;
+“specified products” means securities, specified securities-based derivatives contracts or units in a collective investment scheme;
 
-‘‘written direction’’ means a written direction issued under section 58.
+“specified securities-based derivatives contract” and “spot foreign exchange contract” have the meanings given by section 2(1) of the Securities and Futures Act 2001;
 
-[15/2003; 2/2005; 5/2005]
+“substantial shareholder” has the meaning given by section 2(6) of the Securities and Futures Act 2001;
 
-(2) The definitions in the First Schedule to the Insurance Act (Cap. 142) shall have effect for the construction of references to life policies in this Act.
+“supervisor”, in relation to a financial adviser, means any person (by whatever name described) who —
+
+(a) is in the direct employment of, is acting for, or has an arrangement with the financial adviser; and
+
+(b) is responsible, whether directly or indirectly, for the supervision or management of the conduct and performance of any representative of the financial adviser or another supervisor;
+
+“unit” means a group of individuals carrying out a common activity of a licensed financial adviser, each of whom is directly employed by, is acting for, or has an arrangement with the licensed financial adviser;
+
+“unit in a collective investment scheme” or “units in a collective investment scheme” has the meaning given by “unit” in section 2(1) of the Securities and Futures Act 2001;
+
+“voting share” has the meaning given by section 4(1) of the Companies Act 1967;
+
+“written direction” means a written direction issued under section 67.
+
+[35/2007; 1/2009; 35/2012; 11/2013; 29/2014; 18/2015;
+
+4/2017; 2/2019]
+
+(2) The definitions in the First Schedule to the Insurance Act 1966 have effect for the construction of references to life policies in this Act.

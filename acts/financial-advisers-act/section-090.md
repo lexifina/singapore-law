@@ -1,4 +1,18 @@
-# 90. Territorial scope of Act
-Part: PART VIII OFFENCES
+# 90. Requirements made of examinee
+Part: PART 6 SUPERVISION AND INVESTIGATION Division 1 — General
+Division: Division 3 — Investigative Powers of Authority Subdivision (1) — General
+Subdivision: Subdivision (2) — Examination of persons
 
-Where a person does an act partly in and partly outside Singapore which, if done wholly in Singapore, would constitute an offence under this Act, that person shall be guilty of that offence as if the act were carried out by that person wholly in Singapore, and may be dealt with as if the offence were committed wholly in Singapore.
+(1) The investigator may examine the examinee on oath or affirmation and may, for that purpose, administer an oath or affirmation to the examinee.
+
+[35/2012]
+
+(2) The oath or affirmation to be taken or made by the examinee for the purposes of the examination is an oath or affirmation that the statements that the examinee will make are true.
+
+[35/2012]
+
+(3) The investigator may require the examinee to answer a question that is put to the examinee at the examination and is relevant to a matter that the Authority is investigating, or is to investigate, under this Division.
+
+[71D
+
+[35/2012]

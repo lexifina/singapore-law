@@ -1,14 +1,25 @@
-# 29. Obligation to furnish information to Authority
-Part: PART III CONDUCT OF BUSINESS Division 1 — General
+# 29. Additional financial advisory service
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
+Division: Division 2 — Representatives
 
-(1) The Authority may, in writing, require —
+(1) The principal of an appointed representative may at any time lodge a notice with the Authority of its intention to appoint the representative as an appointed representative in respect of a type of financial advisory service in addition to that indicated against the representative’s name in the public register of representatives.
 
-(a) any licensed financial adviser to furnish it with information about any matter related to its business whether carried on in Singapore or elsewhere; or
+[1/2009]
 
-(b) any licensed representative to furnish it with information about any matter related to the business of the financial adviser of which he is a representative, whether carried on in Singapore or elsewhere, if, in the opinion of the Authority, it requires the information for the discharge of its functions under this Act.
+(2) The notification must be lodged in such form and manner as may be prescribed and must be accompanied by a certificate by the principal that the representative is a fit and proper person to be a representative in respect of the additional type of financial advisory service.
 
-(2) A licensed financial adviser which, or a licensed representative who, has been required to furnish information to the Authority under subsection (1) shall comply with such requirement.
+[1/2009]
 
-(3) Any person who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+(3) Subject to section 30, the Authority must, upon receipt of the notification, enter in the public register of representatives the additional type of financial advisory service as one which the representative may provide as a representative.
 
-[Insurance Intermediaries, s. 10]
+[1/2009]
+
+(4) The Authority may, before entering in the public register of representatives the matter set out in subsection (3), require the principal or representative to provide it with such information or documents as the Authority considers necessary.
+
+[1/2009]
+
+(5) A notification under subsection (1) must be accompanied by a non-refundable prescribed fee which must be paid in the manner specified by the Authority.
+
+[23I
+
+[1/2009]

@@ -1,16 +1,14 @@
-# 7. Need for representative’s licence
-Part: PART II LICENSING OF FINANCIAL ADVISERS AND THEIR REPRESENTATIVES
+# 7. Application for grant of financial adviser’s licence
+Part: PART 2 FINANCIAL ADVISERS AND REPRESENTATIVES Division 1 — Financial Advisers
 
-(1) No person shall act as or hold himself out to be a represen- tative of a financial adviser unless the following conditions are satisfied:
+(1) An application for the grant of a financial adviser’s licence must be —
 
-(a) that person is an individual;
+(a) made to the Authority in such form and manner as may be prescribed; and
 
-(b) where the financial adviser is a licensed financial adviser, that person holds a representative’s licence that is related to that financial adviser; and
+(b) accompanied by a non-refundable application fee of a prescribed amount, which must be paid in the manner specified by the Authority.
 
-(c) where the financial adviser is an exempt financial adviser, that person is a representative of that financial adviser.
+[1/2009]
 
-[2/2005]
+(2) The Authority may require an applicant to provide it with such information or documents as it considers necessary in relation to the application.
 
-(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
-
-[SIA, s. 27]
+[8
