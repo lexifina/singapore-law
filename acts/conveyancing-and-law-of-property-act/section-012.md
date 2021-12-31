@@ -1,0 +1,6 @@
+# 12. Apportionment of conditions on severance, etc.
+Part: PART 3 LEASES
+
+(1) Notwithstanding the severance by conveyance, surrender or otherwise of the reversionary estate in any land comprised in a lease, and notwithstanding the avoidance or cesser in any other manner of the term granted by a lease as to part only of the land comprised therein, every condition or right of re-entry, and every other condition contained in the lease, shall be apportioned, and shall remain annexed to the several parts of the reversionary estate as severed, as shall be in force with respect to the term whereon each severed part is reversionary, or the term in any land which has not been surrendered, or as to which the term has not been avoided or has not otherwise ceased, in like manner as if the land comprised in each severed part, or the land as to which the term remains subsisting, as the case may be, had alone been originally comprised in the lease.
+
+(2) This section shall apply to leases made before, on or after 1 August 1886.

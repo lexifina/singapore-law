@@ -1,0 +1,6 @@
+# 16. Restricted operation of partial licence
+Part: PART 3 LEASES
+
+(1) Where in a lease there is a power or condition of re-entry on assigning or under-letting or doing any other specified act without licence, and a licence at any time on or after 1 August 1886 is given to one of several lessees or co-owners to assign or under-let his share or interest or to do any other act prohibited to be done without licence, or is given to any lessee or owner or any one of several lessees or owners to assign or under-let part only of the property or to do any other such act as aforesaid in respect of part only of the property, the licence shall not operate to destroy or extinguish the right of re-entry in case of any breach of the covenant or condition by the co-lessee or co-lessees or owner or owners of the other shares or interests in the property, or by the lessee or owner of the rest of the property, as the case may be, over or in respect of those shares or interests or remaining property, but the right of re-entry shall remain in full force over or in respect of the shares or interests or property not the subject of the licence.
+
+(2) This section shall apply to leases made before, on or after 1 August 1886.

@@ -1,0 +1,14 @@
+# 59. Effect of advance on joint account
+Part: PART 11 CONSTRUCTION AND EFFECT OF DEEDS AND OTHER INSTRUMENTS
+
+(1) Where —
+
+(a) in a mortgage, or an obligation for payment of money, or a transfer of a mortgage or of such an obligation, the sum, or any part of the sum, advanced or owing is expressed to be advanced by or owing to more persons than one out of money, or as money, belonging to them on a joint account;
+
+or
+
+(b) a mortgage, or such an obligation, or such a transfer is made to more persons than one, jointly, and not in shares, the mortgage money, or other money or money’s worth, for the time being due to those persons on the mortgage or obligation, shall, as between them and the mortgagor or obligor, be deemed to be and remain money or money’s worth belonging to those persons on a joint account; and the receipt in writing of the survivors or last survivor of them, or of the personal representatives of the last survivor, shall be a complete discharge for all money or money’s worth for the time being due, notwithstanding any notice to the payer of a severance of the joint account.
+
+(2) This section shall apply only if and so far as a contrary intention is not expressed in the mortgage, or obligation, or transfer, and has effect subject to the terms of the mortgage, or obligation, or transfer, and to the provisions therein contained.
+
+(3) This section shall apply only to a mortgage or obligation or transfer made on or after 1 August 1886.
