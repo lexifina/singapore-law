@@ -1,5 +1,5 @@
 # 228. Address on sentence, mitigation and sentence
-Part: PART XI GENERAL PROVISIONS RELATING TO PRE-TRIAL AND PLEAD GUILTY PROCEDURES IN ALL COURTS Division 1 — General pre-trial procedures
+Part: PART 10 PRE-TRIAL PROCEDURES IN GENERAL DIVISION OF HIGH COURT Division 1 — General matters
 Division: Division 3 — Plead guilty procedures
 
 (1) On the conviction of the accused, the prosecution may where it thinks fit address the court on sentence.
@@ -24,4 +24,4 @@ Division: Division 3 — Plead guilty procedures
 
 (6) The court must then pass sentence according to law immediately or on such day as it thinks fit.
 
-(7) In this section, ‘‘victim impact statement’’ means any statement relating to any harm suffered by any person as a direct result of an offence, which includes physical bodily harm or psychological or psychiatric harm.
+(7) In this section, “victim impact statement” means any statement relating to any harm suffered by any person as a direct result of an offence, which includes physical bodily harm or psychological or psychiatric harm.

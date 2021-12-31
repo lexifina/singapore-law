@@ -1,9 +1,9 @@
 # 64. When arrest may be made without warrant
-Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
+Part: PART 6 ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
 
 (1) Any police officer may, without a warrant, arrest any person who —
 
-(a) has been concerned in an arrestable offence or is reasonably suspected of having been involved in one, or against whom a reasonable complaint has been made or credible information has been received of his having been so concerned or involved;
+(a) has been concerned in an arrestable offence or is reasonably suspected of having been involved in one, or against whom a reasonable complaint has been made or credible information has been received of the person having been so concerned or involved;
 
 (b) possesses a housebreaking tool without being able to provide a lawful excuse for having it;
 
@@ -11,13 +11,13 @@ Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — 
 
 (d) possesses anything that may reasonably be suspected to be stolen or fraudulently obtained property, and who may reasonably be suspected of having committed an offence in acquiring it;
 
-(e) obstructs a police officer while the police officer is doing his duty, or has escaped or tries to escape from lawful custody;
+(e) obstructs a police officer while the police officer is doing his or her duty, or has escaped or tries to escape from lawful custody;
 
-(f) is reasonably suspected of being a deserter from any force referred to in section 140B of the Penal Code (Cap. 224) or to which Chapter VII of that Code may be extended;
+(f) is reasonably suspected of being a deserter from any force mentioned in section 140B of the Penal Code 1871 or to which Chapter 7 of that Code may be extended;
 
-(g) is trying to conceal his presence in circumstances that suggest he is doing so with a view to committing an arrestable offence;
+(g) is trying to conceal his or her presence in circumstances that suggest he or she is doing so with a view to committing an arrestable offence;
 
-(h) has no apparent means of subsistence or who cannot give a satisfactory account of himself;
+(h) has no apparent means of subsistence or who cannot give a satisfactory account of himself or herself;
 
 (i) is known to be a habitual robber, housebreaker or thief, or a habitual receiver of stolen property knowing it to be stolen, or who is known to habitually commit extortion or to habitually put or attempt to put persons in fear of injury in order to commit extortion;
 

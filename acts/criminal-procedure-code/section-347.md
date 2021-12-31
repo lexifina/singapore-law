@@ -1,7 +1,7 @@
 # 347. Obligations of offender subject to community service order
-Part: PART XVII COMMUNITY SENTENCES
+Part: PART 17 COMMUNITY SENTENCES
 
-An offender in respect of whom a community service order is in force shall —
+An offender in respect of whom a community service order is in force must —
 
 (a) perform, for the number of hours specified in the order, such community service and on such day and at such time and place as the community service officer may require;
 

@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Criminal Procedure Code and is generally referred to in this Act as this Code.
+This Act is the Criminal Procedure Code 2010 and is generally referred to in this Act as this Code.

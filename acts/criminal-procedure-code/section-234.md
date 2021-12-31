@@ -1,4 +1,6 @@
-# 234. Trial before a single judge
-Part: PART XII PROCEDURE AT TRIAL IN ALL COURTS
+# 234. Trial before single judge
+Part: PART 12 PROCEDURE AT TRIAL IN ALL COURTS
 
-Every trial before the High Court shall be heard and disposed of before a single judge of the High Court.
+Every trial in the General Division of the High Court is to be heard and disposed of before a single Judge.
+
+[40/2019]

@@ -1,8 +1,8 @@
 # 86. Public assistance in arrests
-Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
+Part: PART 6 ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
 Division: Division 3 — General provisions for arrests with or without warrant
 
-Every person is bound to help a police officer or any other person authorised to make an arrest reasonably demanding his aid —
+Every person is bound to help a police officer or any other person authorised to make an arrest reasonably demanding the person’s aid —
 
 (a) in arresting a person whom the police officer or other person is authorised to arrest;
 

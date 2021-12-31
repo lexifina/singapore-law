@@ -1,10 +1,10 @@
 # 327. Time of executing sentence of caning
-Part: PART XVI SENTENCES Division 1 — Sentences in general
+Part: PART 16 SENTENCES Division 1 — Sentences in general
 Division: Division 2 — Sentence of caning
 
 (1) Where an accused is sentenced to caning in addition to imprisonment, the caning must not be inflicted —
 
-(a) until after the expiration of the time within which notice of appeal may be given under this Code, or any extension of time which may be permitted under this Code; or
+(a) until after the expiry of the time within which notice of appeal may be given under this Code, or any extension of time which may be permitted under this Code; or
 
 (b) if notice is so given, until after the determination of the appeal.
 

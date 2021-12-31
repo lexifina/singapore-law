@@ -1,5 +1,5 @@
 # 90. Application for release of attached property
-Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
+Part: PART 6 ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
 Division: Division 4 — Proclamation and attachment
 
 (1) Any person, including the person proclaimed, may apply to the court for the release of the property attached under section 89 or for the net proceeds of sale if sold.
@@ -12,4 +12,4 @@ Division: Division 4 — Proclamation and attachment
 
 (5) Any hearing conducted under this section must follow as closely as practicable the procedure prescribed in this Code for conducting trials.
 
-(6) Any order for costs to be awarded to an applicant whose property was wrongfully attached shall be paid out of the Consolidated Fund.
+(6) Any order for costs to be awarded to an applicant whose property was wrongfully attached is to be paid out of the Consolidated Fund.

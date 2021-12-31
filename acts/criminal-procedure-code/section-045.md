@@ -1,7 +1,7 @@
 # 45. Security for good behaviour from habitual offenders
-Part: PART V PREVENTION OF OFFENCES Division 1 — Security for keeping peace and for good behaviour
+Part: PART 5 PREVENTION OF OFFENCES Division 1 — Security for keeping peace and for good behaviour
 
-A court may require a person to show cause why he should not be ordered to execute a bond for his good behaviour for a period not exceeding 2 years, if it appears to the court that —
+A court may require a person to show cause why the person should not be ordered to execute a bond for his or her good behaviour for a period not exceeding 2 years, if it appears to the court that —
 
 (a) the person habitually commits offences;
 

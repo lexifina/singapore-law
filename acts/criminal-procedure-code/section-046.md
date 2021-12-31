@@ -1,5 +1,5 @@
 # 46. Order to show cause
-Part: PART V PREVENTION OF OFFENCES Division 1 — Security for keeping peace and for good behaviour
+Part: PART 5 PREVENTION OF OFFENCES Division 1 — Security for keeping peace and for good behaviour
 
 Where a court acting under section 43, 44 or 45 considers it necessary to require any person to show cause under the section, it must make an order in writing setting out —
 
@@ -9,4 +9,4 @@ Where a court acting under section 43, 44 or 45 considers it necessary to requir
 
 (c) how long the bond will be in force; and
 
-(d) the number of sureties, if any, required.
+(d) the number of sureties (if any) required.

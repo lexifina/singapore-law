@@ -1,30 +1,90 @@
 # 23. Cautioned statements
-Part: PART IV INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — Duties of police officer on receiving information about offences
+Part: PART 4 INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — Duties of police officer on receiving information about offences
 
-(1) If, during an investigation, a person (referred to in this section as the accused) is charged with an offence or informed by a police officer or any other person charged with the duty of investigating offences or charging offenders that he may be prosecuted for an offence, he must be served with and have read to him a notice in writing as follows:
+(1) If, during an investigation, a person (called in this section the accused) is charged with an offence or informed by a police officer or any other person charged with the duty of investigating offences or charging offenders that the accused may be prosecuted for an offence, the accused must be served with and have read to the accused a written notice as follows:
 
-‘‘You have been charged with [or informed that you may be prosecuted for] —
+. “You have been charged with [or informed that you may be prosecuted for] —
 
 (set out the charge).
 
-Do you want to say anything about the charge that was just read to you? If you keep quiet now about any fact or matter in your defence and you reveal this fact or matter in your defence only at your trial, the judge may be less likely to believe you. This may have a bad effect on your case in court. Therefore it may be better for you to mention such fact or matter now. If you wish to do so, what you say will be written down, read back to you for any mistakes to be corrected and then signed by you.’’.
+Do you want to say anything about the charge that was just read to you? If you keep quiet now about any fact or matter in your defence and you reveal this fact or matter in your defence only at your trial, the judge may be less likely to believe you.
 
-(2) If an accused, after the notice under subsection (1) is read to him —
+This may have a bad effect on your case in court. Therefore it may be better for you to mention such fact or matter now. If you wish to do so, what you say will be written down, read back to you for any mistakes to be corrected and then signed by you.”.
+
+(2) If an accused, after the notice under subsection (1) is read to him or her —
 
 (a) remains silent; or
 
-(b) says or does anything which intimates his refusal to give a statement, the fact of his remaining silent or his refusal to give a statement or his other action must be recorded.
+(b) says or does anything which intimates the accused’s refusal to give a statement, the fact of his or her remaining silent or his or her refusal to give a statement or his or her other action must be recorded.
 
-(3) A statement made by an accused after the notice under subsection (1) is read to him must —
+(3) Subject to subsection (3B), a statement made by an accused in answer to a notice read to the accused under subsection (1) must be recorded —
 
-(a) be in writing;
+(a) in writing; or
 
-(b) be read over to him;
+(b) in the form of an audiovisual recording.
 
-(c) if he does not understand English, be interpreted for him in a language that he understands; and
+[19/2018]
 
-(d) be signed by him.
+(3A) Where a statement made by an accused in answer to a notice read to the accused under subsection (1) is recorded in writing, the statement must —
 
-(4) No statement made by an accused in answer to a notice read to him under subsection (1) shall be construed as a statement caused by any threat, inducement or promise as is described in section 258(3), if it is otherwise voluntary.
+(a) be read over to the accused;
 
-(5) A copy of a statement recorded under this section must be given to the accused at the end of the recording of such statement.
+(b) if the accused does not understand English, be interpreted for the accused in a language that the accused understands;
+
+and
+
+(c) be signed by the accused.
+
+[19/2018]
+
+(3B) Where, before an accused makes a statement in answer to a notice read to the accused under subsection (1), the accused is charged with or informed that the accused may be prosecuted for an offence specified in the Third Schedule, the statement made by the accused must be recorded in the form of an audiovisual recording, unless any of the following applies:
+
+(a) due to an operational exigency, it is not feasible to record the statement in the form of an audiovisual recording;
+
+(b) the equipment designated for recording the statement in the form of an audiovisual recording —
+
+(i) does not work; and
+
+(ii) cannot be repaired or replaced within a reasonable time;
+
+(c) the accused requests that the statement be recorded in writing instead of in the form of an audiovisual recording, and the police officer or person to whom the accused intends to make the statement reasonably believes that the granting of the request will facilitate the investigation.
+
+[19/2018]
+
+(3C) Despite subsection (3B) —
+
+(a) a mere failure to comply with subsection (3B) does not render a statement made by an accused in answer to a notice read to the accused under subsection (1) inadmissible, if the statement is otherwise admissible; and
+
+(b) no inference is to be drawn by the court from a mere failure to comply with subsection (3B).
+
+[19/2018]
+
+(3D) Except as provided in subsection (3B), the police officer or person to whom an accused intends to make a statement, in answer to a notice read to the accused under subsection (1), may decide whether the statement is to be recorded —
+
+(a) in writing; or
+
+(b) in the form of an audiovisual recording.
+
+[19/2018]
+
+(3E) To avoid doubt, nothing in subsection (3) or (3B) prevents or prohibits a police officer or person to whom an accused intends to make a statement in answer to a notice read to the accused under subsection (1) from arranging for the statement to be recorded both —
+
+(a) in writing; and
+
+(b) in the form of an audiovisual recording.
+
+[19/2018]
+
+(4) No statement made by an accused in answer to a notice read to the accused under subsection (1) is to be construed as a statement caused by any threat, inducement or promise as is described in section 258(3), if it is otherwise voluntary.
+
+(5) Where a statement made by an accused, in answer to a notice read to the accused under subsection (1), is recorded in writing, a copy of the statement must be given to the accused at the end of the recording.
+
+[19/2018]
+
+(6) Where a statement made by an accused, in answer to a notice read to the accused under subsection (1), is recorded in the form of an audiovisual recording —
+
+(a) if requested by the defence, arrangements must be made for the accused and the accused’s advocate (if any) to view the audiovisual recording of the statement, as soon as practicable after the audiovisual recording is made, at a police station or at any other prescribed place; and
+
+(b) if a transcript of the audiovisual recording is made, a copy of the transcript must be given to the accused as soon as practicable after the transcript is made.
+
+[19/2018]

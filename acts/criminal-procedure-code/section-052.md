@@ -1,8 +1,8 @@
 # 52. Contents of bond
-Part: PART V PREVENTION OF OFFENCES Division 1 — Security for keeping peace and for good behaviour
+Part: PART 5 PREVENTION OF OFFENCES Division 1 — Security for keeping peace and for good behaviour
 Division: Division 2 — Proceedings following order to provide security
 
-(1) The bond to be executed by any person subject to an order under section 41 or 50 shall, as the case may be, bind him —
+(1) The bond to be executed by any person subject to an order under section 41 or 50 (as the case may be) binds the person —
 
 (a) to keep the peace; or
 

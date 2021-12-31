@@ -1,32 +1,58 @@
 # 428. Minister to make regulations
-Part: PART XXII MISCELLANEOUS
+Part: PART 22 MISCELLANEOUS
 
 (1) The Minister may make regulations for anything that is required, permitted or necessary for carrying out the purposes and provisions of this Code.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
-(a) the rates or scales of payment of the expenses and compensation to be ordered under section 363 and concerning the payment of them;
+(a) the treatment, training and detention of persons sentenced to reformative training, corrective training or preventive detention, including any matter relating to the supervision of such persons when they are released from their places of detention;
 
-(b) the treatment, training and detention of persons sentenced to reformative training, corrective training or preventive detention, including any matter relating to the supervision of such persons when they are released from their places of detention;
+(b) the recording of statements in the form of audiovisual recordings, and the prevention of the following:
 
-(c) any form which is to be used by any person in relation to any matter under this Code;
+(i) the making of any unauthorised copy of any such audiovisual recording;
 
-(d) for carrying into effect the purposes of Division 2 of Part X;
+(ii) the unauthorised possession of any recording device during the recording of any such statement or the viewing of any such audiovisual recording;
 
-(da) in relation to documents being filed with, served on, delivered or otherwise conveyed to any court or any party to any criminal matter —
+(iii) the unauthorised use or distribution of any such audiovisual recording;
 
-(i) the establishment of any electronic filing service and any other matter which relates to the use or operation of the electronic filing service;
+(c) the prescribing of any additional method mentioned in section 3(1)(j) for serving any notice, order or document (other than a summons or a notice to attend court issued under this Code) required or permitted to be served on a person under this Code, including —
 
-(ii) the manner and form of any such filing, service, delivery or conveyance;
+(i) prescribing different additional methods of service for different types of notices, orders or documents;
 
-(iii) the modification of such provisions of the Evidence Act (Cap. 97) as may be necessary for the purpose of facilitating the use in court of documents filed, served, delivered or conveyed using the electronic filing service;
+(ii) restricting the application of a particular additional method of service to a particular type of notice, order or document; and
 
-(iv) the burden of proof and rebuttable presumptions in relation to the identity and authority of the person filing, serving, delivering or conveying the documents by the use of the electronic filing service;
+(iii) prescribing the conditions for the application of any particular additional method of service, whether generally or to any particular type of notice, order or document;
 
-(v) the authentication of documents filed, served, delivered or conveyed by the use of the electronic filing service; and
+(d) the prescribing of any matters relating to section 20(1), (1A), (3) and (3A), including prescribing —
 
-(vi) the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings which involve the use or operation of the electronic filing service;
+(i) the persons who must set up a system for receiving and responding automatically to a written order under section 20(1)(b), (1A), (3)(b) or (3A) and the operational details of the system;
 
-(e) the prescribing of anything that is required or permitted to be prescribed under this Code.
+(ii) any matters concerning the service of a written order under section 20(1), (1A), (3) or (3A);
 
-[2/2012]
+(iii) the form and manner in which a person must produce, give access to or deliver a copy of a document or thing for the purposes of section 20(1)(a)(iii) or (b)(i) or (ii) or (3)(b);
+
+(iv) the manner in which a person must authenticate data, or a copy of data, for the purposes of section 20(1A)(a)(i) or (b)(i) or (3A)(a)(i) or (b)(i);
+
+and
+
+(v) the form and manner in which a person must produce data, or a copy of data, for the purposes of section 20(1A)(a)(ii) or (b)(ii) or (3A)(a)(ii) or (b)(ii);
+
+(e) the electronic monitoring of the whereabouts of an accused who is granted bail or released on personal bond, for the purposes of section 94;
+
+(f) the prescribing of anything that is required or permitted by this Code to be prescribed.
+
+[19/2018]
+
+(3) The regulations made for or with respect to the matters in subsection (2)(b) —
+
+(a) may provide that a contravention of any specified provision of those regulations is an offence;
+
+(b) may provide for penalties not exceeding a fine of $2,000 or imprisonment for a term not exceeding 2 years or both for each offence; and
+
+(c) may provide for any offence under those regulations to be an arrestable offence.
+
+[19/2018]
+
+(4) The powers conferred by this section do not extend to any matter for which Criminal Procedure Rules may be made under section 428A.
+
+[19/2018]

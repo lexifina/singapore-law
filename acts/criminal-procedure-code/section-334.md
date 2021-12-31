@@ -1,5 +1,5 @@
 # 334. Power to commute punishment
-Part: PART XVI SENTENCES Division 1 — Sentences in general
+Part: PART 16 SENTENCES Division 1 — Sentences in general
 Division: Division 3 — Suspensions, remissions and commutations of sentences
 
 The President may —

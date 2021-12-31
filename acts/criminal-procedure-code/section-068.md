@@ -1,6 +1,8 @@
 # 68. Person arrested not to be detained more than 48 hours
-Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
+Part: PART 6 ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
 
-(1) No police officer shall detain in custody a person who has been arrested without a warrant for a longer period than under all the circumstances of the case is reasonable.
+(1) Unless the court orders otherwise under section 92(3)(a) or 93(3B)(a), no police officer may detain in custody a person who has been arrested without a warrant for a longer period than under all the circumstances of the case is reasonable.
 
-(2) Such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+[19/2018]
+
+(2) The period must not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.

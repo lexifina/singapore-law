@@ -1,7 +1,7 @@
 # 345. Obligations of offender subject to community work order
-Part: PART XVII COMMUNITY SENTENCES
+Part: PART 17 COMMUNITY SENTENCES
 
-An offender in respect of whom a community work order is in force shall —
+An offender in respect of whom a community work order is in force must —
 
 (a) perform, for the number of hours specified in the order, such work and on such day and at such time and place as the community work officer may require;
 

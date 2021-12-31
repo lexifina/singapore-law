@@ -1,5 +1,5 @@
 # 299. Procedure after judgment of appellate court
-Part: PART XV JUDGMENT
+Part: PART 15 JUDGMENT
 
 (1) After hearing the appeal and delivering its judgment, the appellate court must certify its judgment, sentence or order to the trial court which recorded or passed the judgment, sentence or order appealed against.
 

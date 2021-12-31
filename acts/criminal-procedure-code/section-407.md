@@ -1,5 +1,5 @@
 # 407. Form and issue of notice of motion
-Part: PART XX APPEALS, POINTS RESERVED, REVISIONS AND CRIMINAL MOTIONS Division 1 — Appeals
+Part: PART 20 APPEALS, POINTS RESERVED, REVISIONS AND CRIMINAL MOTIONS Division 1 — Appeals
 Division: Division 5 — Criminal motions
 
 (1) The notice of a criminal motion must be in the prescribed form.

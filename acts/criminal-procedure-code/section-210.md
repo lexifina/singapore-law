@@ -1,17 +1,19 @@
-# 210. Transmission of case to High Court
-Part: PART X PRE-TRIAL PROCEDURES IN HIGH COURT Division 1 — General matters
+# 210. Transmission of case to General Division of High Court
+Part: PART 10 PRE-TRIAL PROCEDURES IN GENERAL DIVISION OF HIGH COURT Division 1 — General matters
 Division: Division 5 — Transmission proceedings
 
-(1) Whenever the Public Prosecutor is of the opinion that there is sufficient evidence to afford a foundation for a full and proper trial, he shall, by fiat in writing signed by himself, designate the High Court to try —
+(1) Where the Public Prosecutor is of the opinion that an offence must or ought to be tried in the General Division of the High Court, the Public Prosecutor must, by fiat in writing signed by the Public Prosecutor, designate the General Division of the High Court to try the offence.
 
-(a) an offence specified in the Third Schedule; or
+[19/2018; 40/2019]
 
-(b) the offences referred to in section 175(4) for which an accused may be tried at the same trial in the High Court.
+(2) Upon receipt of the fiat mentioned in subsection (1) together with the charge, the Magistrate’s Court must cause the charge to be read and explained to the accused and thereafter —
 
-(2) Upon receipt of the fiat referred to in subsection (1) together with the charge, the Magistrate’s Court shall cause the charge to be read and explained to the accused and thereafter —
+(a) transmit the case to the General Division of the High Court for the purpose of trial; and
 
-(a) transmit the case to the High Court for the purpose of trial;
+(b) order that the accused be remanded in custody until and during the trial, unless the accused is released on bail.
 
-and
+[40/2019]
 
-(b) order that the accused shall be remanded in custody until and during the trial, unless he is released on bail.
+(3) To avoid doubt, a Magistrate’s Court can continue to exercise powers under Division 5 of Part 6 in relation to a case that has been transmitted under subsection (2) to the General Division of the High Court for the purpose of trial.
+
+[19/2018; 40/2019]

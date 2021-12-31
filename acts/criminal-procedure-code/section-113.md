@@ -1,10 +1,12 @@
 # 113. Return of travel document
-Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
+Part: PART 6 ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
 Division: Division 7 — Surrender of travel document and requirement to remain in Singapore
 
-(1) A person who has surrendered his travel document under section 112 may apply to the authorised officer, or the head or director of the law enforcement agency or a person of similar rank, or the head or director of the prescribed law enforcement agency or a person of a similar rank, as the case may be, for the return of the travel document.
+(1) A person who has surrendered his or her travel document under section 112 may apply to the authorised officer, or the head or an authorised director of the law enforcement agency or a person of similar rank, or the head or an authorised director of the prescribed law enforcement agency or a person of a similar rank (as the case may be) for the return of the travel document.
 
-(2) Where an application under subsection (1) has been refused, the person may apply to a District Judge for the return of his travel document, stating the reasons for the application.
+[19/2018]
+
+(2) Where an application under subsection (1) has been refused, the person may apply to a District Judge for the return of his or her travel document, stating the reasons for the application.
 
 (3) The District Judge may —
 

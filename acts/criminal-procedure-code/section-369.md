@@ -1,5 +1,5 @@
 # 369. Restoration of possession of immovable property
-Part: PART XIX DISPOSAL OF PROPERTY
+Part: PART 19 DISPOSAL OF PROPERTY
 
 (1) Where a person is convicted of an offence involving criminal force and it appears to the court that by that force another person has been dispossessed of any immovable property, the court may order the possession of it to be restored to that other person.
 

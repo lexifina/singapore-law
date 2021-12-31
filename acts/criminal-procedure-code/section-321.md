@@ -1,4 +1,4 @@
 # 321. Who may issue warrant
-Part: PART XVI SENTENCES Division 1 — Sentences in general
+Part: PART 16 SENTENCES Division 1 — Sentences in general
 
-A warrant for the execution of any sentence, including an order of attachment of property, may be issued either by the Judge, District Judge or Magistrate who passed the sentence or by his successor or other Judge, District Judge or Magistrate acting in his place.
+Awarrant for the execution of any sentence, including an order of attachment of property, may be issued either by the Judge, District Judge or Magistrate who passed the sentence or by his or her successor or other Judge, District Judge or Magistrate acting in his or her place.

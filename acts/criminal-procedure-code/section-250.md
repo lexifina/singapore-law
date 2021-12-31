@@ -1,5 +1,5 @@
 # 250. Resumption of proceedings
-Part: PART XIII GENERAL PROVISIONS RELATING TO PROCEEDINGS IN COURTS Division 1 — General provisions
+Part: PART 13 GENERAL PROVISIONS RELATING TO PROCEEDINGS IN COURTS Division 1 — General provisions
 Division: Division 5 — Proceedings relating to persons of unsound mind
 
 (1) When an inquiry or a trial or other proceeding is —

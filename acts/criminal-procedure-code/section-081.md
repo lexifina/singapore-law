@@ -1,5 +1,5 @@
 # 81. Detention and search of persons in place searched
-Part: PART VI ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
+Part: PART 6 ARREST AND BAIL AND PROCESSES TO COMPEL APPEARANCE Division 1 — Arrest without warrant
 Division: Division 3 — General provisions for arrests with or without warrant
 
 (1) Where a search for anything is lawfully made in any place in respect of any offence, every person found there may be lawfully detained until the search is completed.

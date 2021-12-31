@@ -1,5 +1,5 @@
-# 14. Information about offences received by police
-Part: PART IV INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — Duties of police officer on receiving information about offences
+# 14. Information about offences received by police 1
+Part: PART 4 INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — Duties of police officer on receiving information about offences
 
 (1) When information is first received at a police station about an offence, the recording officer must proceed in accordance with this section.
 
@@ -9,9 +9,9 @@ Part: PART IV INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — D
 
 (b) if the information appears to be signed by the informant, file it as a report.
 
-(3) If the information is given orally and the recording officer considers it practicable to reduce it to writing immediately, he must ensure that all of the following are recorded in a report:
+(3) If the information is given orally and the recording officer considers it practicable to reduce it to writing immediately, the recording officer must ensure that all of the following are recorded in a report:
 
-(a) the date and time of his receipt of the information;
+(a) the date and time of the recording officer’s receipt of the information;
 
 (b) the name and address of the informant;
 
@@ -19,9 +19,9 @@ Part: PART IV INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — D
 
 (d) such other particulars as the nature of the case may require.
 
-(4) The informant, the recording officer and the interpreter (if any) must, where practicable, sign the report referred to in subsection (3).
+(4) The informant, the recording officer and the interpreter (if any) must, where practicable, sign the report mentioned in subsection (3).
 
-(5) If the information is given orally and it is impracticable for the recording officer to write it down immediately, he must —
+(5) If the information is given orally and it is impracticable for the recording officer to write it down immediately, he or she must —
 
 (a) make a note of the first information; and
 
@@ -31,4 +31,4 @@ Part: PART IV INFORMATION TO POLICE AND POWERS OF INVESTIGATION Division 1 — D
 
 (7) The Minister charged with the responsibility for home affairs may prescribe the mode by which information about an offence may be received or given under this section and section 15.
 
-(8) In this section, ‘‘recording officer’’ means the officer in charge of a police station or any police officer whose duty includes receiving reports relating to the commission of any offence.
+(8) In this section, “recording officer” means the officer in charge of a police station or any police officer whose duty includes receiving reports relating to the commission of any offence.

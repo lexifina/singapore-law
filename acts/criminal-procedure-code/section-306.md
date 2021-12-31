@@ -1,7 +1,7 @@
 # 306. Sentence in case of conviction for several offences at one trial
-Part: PART XVI SENTENCES Division 1 — Sentences in general
+Part: PART 16 SENTENCES Division 1 — Sentences in general
 
-(1) Where a person is convicted at one trial of any 2 or more distinct offences, the court must sentence him for those offences to the punishments that it is competent to impose.
+(1) Where a person is convicted at one trial of any 2 or more distinct offences, the court must sentence the person for those offences to the punishments that it is competent to impose.
 
 (2) Subject to section 307 and subsection (4), where these punishments consist of imprisonment, they are to run consecutively in the order that the court directs, or they may run concurrently if the court so directs.
 

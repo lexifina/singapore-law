@@ -1,10 +1,10 @@
 # 281. Evidence through video or television links
-Part: PART XIV EVIDENCE AND WITNESSES Division 1 — Preliminary
-Division: Division 4 — Special provisions relating to recording of evidence
+Part: PART 14 EVIDENCE AND WITNESSES Division 1 — Preliminary
+Division: Division 4 — Special provisions relating to recording or giving of evidence
 
-(1) Notwithstanding any provision of this Code or of any other written law, but subject to the provisions of this section, the court may allow the evidence of a person in Singapore (except the accused) to be given through a live video or live television link in any trial, inquiry, appeal or other proceedings if —
+(1) Despite any provision of this Code or of any other written law, but subject to the provisions of this section, the court may allow the evidence of a person in Singapore (except the accused) to be given through a live video or live television link in any trial, inquiry, appeal or other proceedings if —
 
-(a) the witness is below the age of 16 years;
+(a) the witness is below 18 years of age;
 
 (b) the offence charged is an offence specified in subsection (2);
 
@@ -12,31 +12,49 @@ Division: Division 4 — Special provisions relating to recording of evidence
 
 (d) the Minister certifies that it is in the public interest to do so.
 
+[30/2019]
+
 (2) The offences for the purposes of subsection (1)(b) are —
 
-(a) an offence that involves an assault on or injury or a threat of injury to persons, including an offence under sections 319 to 338 of the Penal Code (Cap. 224);
+(a) an offence that involves an assault on or injury or a threat of injury to persons, including an offence under sections 319 to 338 of the Penal Code 1871;
 
-(b) an offence under Part II of the Children and Young Persons Act (Cap. 38) (relating to protection of children and young persons);
+(aa) an offence under section 356, 357 or 358 of the Penal Code 1871;
 
-(c) an offence under sections 354 to 358 and sections 375 to 377B of the Penal Code;
+(b) a child abuse offence;
 
-(d) an offence under Part XI of the Women’s Charter (Cap. 353) (relating to offences against women and girls); and
+(c) an offence under section 28(2) of the Children and Young Persons Act 1993;
+
+(ca) an offence punishable under the Organised Crime Act 2015;
+
+(d) a sexual offence;
+
+(da) an offence under section 169(3) of the Women’s Charter 1961; and
 
 (e) any other offence that the Minister may, after consulting the Chief Justice, prescribe.
 
-(3) Notwithstanding any provision of this Code or of any other written law, the court may order an accused to appear before it through a live video or live television link while in remand in Singapore in proceedings for any of the following matters:
+[26/2015; 19/2018; 15/2019]
 
-(a) an application for bail or release on personal bond at any time after an accused is first produced before a Magistrate pursuant to Article 9(4) of the Constitution;
+(2A) Where a psychiatrist or psychologist has prepared a report on how a witness may be affected if the witness is required to give evidence in the presence of the accused, and that report is placed before the court, the court must consider that report before deciding whether to allow under subsection (1) the evidence of the witness to be given through a live video or live television link.
 
-(b) an extension of the remand of an accused under section 238;
+[19/2018]
 
-and
+(3) Despite any provision of this Code or of any other written law, unless the court directs otherwise, while an accused is in remand in Singapore, the accused is to appear before the court through a live video or live television link in any of the following proceedings:
 
-(c) any other matters that the Minister may, after consulting the Chief Justice, prescribe.
+(a) proceedings for an application for bail or release on personal bond at any time after the accused is first produced before a Magistrate pursuant to Article 9(4) of the Constitution;
 
-(4) Notwithstanding any provision of this Code or of any other written law but subject to subsection (5), an accused who is not a juvenile may appear before the court through a live video or live television link while in remand in Singapore in proceedings for an application for remand or for bail or for release on personal bond when he is first produced before a Magistrate pursuant to Article 9(4) of the Constitution.
+(b) proceedings for an extension of the remand of the accused under section 238;
 
-(5) A court may, if it considers it necessary, either on its own motion or on the application of an accused, require an accused to be produced in person before it in proceedings referred to in subsection (4).
+(c) proceedings for a State Court to record a plea of guilty from the accused, and to convict the accused;
+
+(d) proceedings in a State Court for the sentencing of the accused, after the conviction of the accused in earlier proceedings;
+
+(e) any other proceedings that the Minister may prescribe by regulations under this section, after consulting the Chief Justice.
+
+[19/2018]
+
+(4) Despite any provision of this Code or of any other written law but subject to subsection (5), an accused who is not a juvenile may appear before the court through a live video or live television link while in remand in Singapore in proceedings for an application for remand or for bail or for release on personal bond when the accused is first produced before a Magistrate pursuant to Article 9(4) of the Constitution.
+
+(5) A court may, if it considers it necessary, either on its own motion or on the application of an accused, require an accused to be produced in person before it in proceedings mentioned in subsection (4).
 
 (6) In exercising its powers under subsection (1), (3) or (4), the court may make an order on all or any of the following matters:
 
@@ -52,7 +70,7 @@ and
 
 (f) the stages in the proceedings during which a specified part of the order is to apply;
 
-(g) the method of operation of the live video or live television link system including compliance with such minimum technical standards as may be determined by the Chief Justice;
+(g) the method of operation of the live video or live television link system including compliance with such minimum technical standards as the Chief Justice may determine;
 
 (h) any other order that the court considers necessary in the interests of justice.
 
@@ -70,12 +88,16 @@ and
 
 (8) The court must not make an order under this section, or include a particular provision in such an order, if to do so would be inconsistent with its duty to ensure that the proceedings are conducted fairly to all parties.
 
-(9) An order made under this section does not cease to apply merely because the person in respect of whom it was made reaches the age of 16 years before the proceedings in which it was made are finally concluded.
+(9) An order made under this section does not cease to apply merely because the person in respect of whom it was made reaches 18 years of age before the proceedings in which it was made are finally concluded.
 
-(10) When a witness gives evidence in proceedings through a live video or live television link, the evidence is to be regarded for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code as having been given in those proceedings.
+[30/2019]
 
-(11) If a witness gives evidence in accordance with this section, for the purposes of this Code and the Evidence Act (Cap. 97), he is regarded as giving evidence in the presence of the court and the accused, as the case may be.
+(10) When a witness gives evidence in proceedings through a live video or live television link, the evidence is to be regarded for the purposes of sections 193, 194, 195, 196 and 205 of the Penal Code 1871 as having been given in those proceedings.
 
-(12) In subsections (6), (10) and (11), a reference to ‘‘witness’’ includes a reference to an accused who appears before a court through a live video or live television link under subsection (3) or (4).
+[15/2019]
 
-(13) The Chief Justice may make such rules as appear to him to be necessary or expedient to give effect to this section and for prescribing anything that may be prescribed under this section.
+(11) If a witness gives evidence in accordance with this section, for the purposes of this Code and the Evidence Act 1893, the witness is regarded as giving evidence in the presence of the court and the accused, as the case may be.
+
+(12) In subsections (6), (10) and (11), a reference to “witness” includes a reference to an accused who appears before a court through a live video or live television link under subsection (3) or (4).
+
+(13) The Chief Justice may make such rules as appear to the Chief Justice to be necessary or expedient to give effect to this section and for prescribing anything that may be prescribed under this section.

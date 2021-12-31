@@ -1,5 +1,5 @@
 # 351. Variation and revocation of community orders on grounds other than breach thereof
-Part: PART XVII COMMUNITY SENTENCES
+Part: PART 17 COMMUNITY SENTENCES
 
 (1) Where a mandatory treatment order, day reporting order, community work order or community service order is in force in respect of an offender, a court may, on the application of the appointed psychiatrist, day reporting officer, community work officer or community service officer, respectively —
 
@@ -7,13 +7,13 @@ Part: PART XVII COMMUNITY SENTENCES
 
 (b) taking into account the extent to which the offender has complied with the order, revoke the order and impose such sentence which is provided for the offence or offences in respect of which the order has been made.
 
-(2) Where a court varies a mandatory treatment order under subsection (1)(a) by extending the period the offender has to undergo psychiatric treatment under the order, the period so extended shall not exceed 24 months from the date the order is first in force.
+(2) Where a court varies a mandatory treatment order under subsection (1)(a) by extending the period the offender has to undergo psychiatric treatment under the order, the period so extended must not exceed 24 months from the date the order is first in force.
 
-(3) Where a court varies a day reporting order under subsection (1)(a) by extending the period the offender has to report to a day reporting officer under the order, the period so extended shall not exceed 12 months from the date the order is first in force.
+(3) Where a court varies a day reporting order under subsection (1)(a) by extending the period the offender has to report to a day reporting officer under the order, the period so extended must not exceed 12 months from the date the order is first in force.
 
-(4) Where a court varies a community work order under subsection (1)(a) by extending the number of hours the offender has to perform community work under the order, the number of hours so extended shall not exceed the prescribed maximum hours of community work which the offender may be required to work under that order.
+(4) Where a court varies a community work order under subsection (1)(a) by extending the number of hours the offender has to perform community work under the order, the number of hours so extended must not exceed the prescribed maximum hours of community work which the offender may be required to work under that order.
 
-(5) Where a court varies a community service order under subsection (1)(a) by extending the period the offender is required to perform community service under the order, the period so extended shall not exceed the prescribed maximum hours of community service which the offender may be required to perform under that order.
+(5) Where a court varies a community service order under subsection (1)(a) by extending the period the offender is required to perform community service under the order, the period so extended must not exceed the prescribed maximum hours of community service which the offender may be required to perform under that order.
 
 (6) Where any application is made under subsection (1), the court may fix a hearing date to determine whether or not to vary or revoke the community order referred to in that subsection and may at any time —
 

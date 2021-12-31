@@ -1,5 +1,5 @@
 # 423. When irregularities do not make proceedings invalid
-Part: PART XXII MISCELLANEOUS
+Part: PART 22 MISCELLANEOUS
 
 Subject to this Code, any judgment, sentence or order passed or made by a court of competent jurisdiction may not be reversed or altered on account of —
 
