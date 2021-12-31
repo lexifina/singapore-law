@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Military Manoeuvres Act.
+This Act is the Military Manoeuvres Act 1905.

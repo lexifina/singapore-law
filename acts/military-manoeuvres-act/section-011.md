@@ -4,11 +4,11 @@
 
 (a) exclude all persons not engaged in the military or air force exercises from the whole or any part of the firing ground;
 
-(b) regulate the conduct of any persons permitted to be within the firing ground while the exercises are being carried on; and
+(b) regulate the conduct of any persons permitted to be within the firing ground while the exercises are being carried on;
+
+and
 
 (c) prescribe a penalty not exceeding $2,000 or 6 months’ imprisonment or both for any contravention of any rule.
-
-[8/83]
 
 (2) All such rules shall be published in the Gazette, and copies of the rules in Malay, Chinese, Tamil and English shall be posted in at least 3 conspicuous places within or near the firing ground.
 
@@ -18,8 +18,4 @@
 
 (5) Where an area to which rules made under this section apply consists of any sea or tidal water, or the shore thereof, and the boundaries of the area cannot, in the opinion of the Armed Forces Council, be conveniently marked by permanent marks, those boundaries shall be deemed to be sufficiently marked for the purposes of this Act if sufficient means are taken to warn the public from entering the area.
 
-[8/83]
-
 (6) Any officer, warrant officer, non-commissioned officer or military policeman of the Singapore Armed Forces or any police officer may arrest without warrant any person found in any firing ground in contravention of the rules made under this section and may remove him and any animal or vehicle under his charge.
-
-[8/83]

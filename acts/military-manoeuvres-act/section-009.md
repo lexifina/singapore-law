@@ -6,14 +6,10 @@
 
 (b) it may exercise with respect to the performance of manoeuvres within the manoeuvring ground all the powers for the purpose of military manoeuvres as set out in section 3.
 
-[8/83]
-
 (2) All the provisions in this Act with regard to —
 
 (a) the powers exercisable for the purpose of military manoeuvres;
 
-(b) compensation for damage and assessment of compensation;
-
-and
+(b) compensation for damage and assessment of compensation; and
 
 (c) offences, shall be applicable to all manoeuvres carried on, in and over the manoeuvring ground.

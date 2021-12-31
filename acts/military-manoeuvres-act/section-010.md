@@ -6,14 +6,10 @@
 
 (b) it may cause to be removed all or any buildings within the firing ground or any trees or other things which may hinder or interfere with the full exercise of the rights given by this Act and may prohibit the erection of any new building within the firing ground.
 
-[8/83]
-
 (2) All the provisions in this Act with regard to —
 
 (a) the powers exercisable with regard to military manoeuvres;
 
-(b) compensation for damage and assessment of compensation;
-
-and
+(b) compensation for damage and assessment of compensation; and
 
 (c) offences, shall be applicable to any military or air force exercises carried on, in and over the firing ground.

@@ -6,4 +6,4 @@
 
 (b) supply themselves with water from any sources of water, public or private, and for that purpose dam up any running water, provided that such damming under paragraph (b) does not interfere with any trade or industry and that nothing in this Act shall authorise the taking of water from any source of supply belonging to a private owner or public authority except subject to the supply shown to be required by those entitled to use the water supply.
 
-(2) Nothing in this Act shall authorise entry on or interference with any dwelling-house, place of worship, school, factory, store or premises used for the carrying on of any business or manufacture or any ground attached to any place of worship or school or any premises enclosed within the curtilage of or attached to any dwelling-house.
+(2) Nothing in this Act shall authorise entry on or interference with any dwelling house, place of worship, school, factory, store or premises used for the carrying on of any business or manufacture or any ground attached to any place of worship or school or any premises enclosed within the curtilage of or attached to any dwelling house.
