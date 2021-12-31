@@ -1,4 +1,4 @@
 # 78. Prohibition of disclosure of vote
-Part: PART V APPLICATIONS FOR AVOIDANCE OF ELECTION
+Part: PART 5 APPLICATIONS FOR AVOIDANCE OF ELECTION
 
-No elector who has voted at any election shall, in any proceeding to question the election, be required to state for whom he has voted.
+An elector who has voted at any election must not, in any proceeding to question the election, be required to state for whom the elector has voted.

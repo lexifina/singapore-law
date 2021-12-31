@@ -1,14 +1,19 @@
-# 8A. Immunity of Presidential Elections Committee
-Part: PART II ELECTIONS
+# 8A. Consideration of application
+Part: PART 2 ELECTIONS Division 1 — Issuance of writ, etc.
+Division: Division 2 — Presidential Elections Committee and Certificate of Eligibility
 
-(1) The Presidential Elections Committee shall not, in the absence of malice on its part, be liable to any action at the suit of any person in respect of —
+(1) Subject to subsection (2), the Presidential Elections Committee must issue a certificate of eligibility in the prescribed form to an applicant if the Committee is satisfied that —
 
-(a) any statement which the Committee makes in the discharge of any of its functions under this Act, whether the statement is made orally or in writing; or
+(a) the applicant is a person of integrity, good character and reputation for the purposes of Article 19(2)(e) of the Constitution; and
 
-(b) the publication of any document prepared by the Committee in the course of performing its functions under this Act.
+(b) the applicant has met the service requirements in Article 19(2)(g) of the Constitution.
 
-[11/99]
+[6/2017]
 
-(2) Subsection (1) does not limit or affect any other right, privilege or immunity that the Presidential Elections Committee has, apart from this section, as a defendant in any action.
+(2) The Presidential Elections Committee —
 
-[11/99]
+(a) may, subject to paragraph (b), reject an application if it is not made according to this Act; and
+
+(b) must reject an application if the applicant did not submit a community declaration in accordance with Division 3.
+
+[6/2017]

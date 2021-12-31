@@ -1,8 +1,8 @@
 # 39. Treating
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
-Chapter: Chapter 2 — Corrupt Practices
+Part: PART 3 OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Division 1 — Offences
+Division: Division 2 — Corrupt Practices
 
-(1) A person shall be guilty of treating if he corruptly, by himself or by any other person, either before, during or after an election, directly or indirectly, gives or provides, or pays wholly or in part the expense of giving, any food, drink, refreshment, cigarette, entertainment or other provision or thing or any money or ticket or other means or device to enable the procuring of any such food, drink, refreshment, cigarette, entertainment or other provision or thing, to or for any person —
+(1) A person shall be guilty of treating if the person corruptly, by himself or herself or by any other person, either before, during or after an election, directly or indirectly, gives or provides, or pays wholly or in part the expense of giving, any food, drink, refreshment, cigarette, entertainment or other provision or thing or any money or ticket or other means or device to enable the procuring of any such food, drink, refreshment, cigarette, entertainment or other provision or thing, to or for any person —
 
 (a) for the purpose of corruptly influencing that person or any other person to vote or refrain from voting;
 
@@ -12,4 +12,4 @@ Chapter: Chapter 2 — Corrupt Practices
 
 (d) on account of any such person having attended an election meeting.
 
-(2) A person shall also be guilty of treating if he corruptly accepts or takes any such food, drink, refreshment, cigarette, entertainment or other provision or thing or any such money or ticket or who adopts any other means or device to enable the procuring of such food, drink, refreshment, cigarette, entertainment or other provision or thing.
+(2) A person shall also be guilty of treating if the person corruptly accepts or takes any such food, drink, refreshment, cigarette, entertainment or other provision or thing or any such money or ticket or who adopts any other means or device to enable the procuring of such food, drink, refreshment, cigarette, entertainment or other provision or thing.

@@ -1,27 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-PRESIDENTIAL ELECTIONS ACT
-(CHAPTER 240A)
-Act
-27 of 1991
-1992 Ed. Cap. 240A 1999 Ed. Cap. 240A 2007 Ed. Cap. 240A
-Amended by Amended by Amended by
-12 of 1993 20 of 2000 14 of 2008
-18 of 1994 19 of 2001 11 of 2010
-42 of 1996 19 of 2005 15 of 2010
-8 of 1998 42 of 2005
-11 of 1999
-18 of 1999
-REVISED EDITION 2011
-(15th July 2011)
+PRESIDENTIAL ELECTIONS ACT 1991
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2011
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to make provision for the election of the President.
 
-[2nd November 1992]
+[2 November 1992]

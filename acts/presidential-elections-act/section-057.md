@@ -1,10 +1,10 @@
 # 57. Publication of receipt of return, etc.
-Part: PART III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Chapter 1 — Offences
-Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
+Part: PART 3 OFFENCES AND CORRUPT AND ILLEGAL PRACTICES Division 1 — Offences
+Division: Division 3 — Election Agent, Election Expenses and Illegal Practices
 
-(1) When any return respecting election expenses and the statements made in respect thereof have been received by the Returning Officer, he shall, as soon as possible, cause a notice of the date on which the return and statements in question were received by him and of the time and place at which they can be inspected to be fixed in some conspicuous place in his office and published in the Gazette.
+(1) When the Returning Officer receives any return respecting election expenses and the statements made in respect thereof, the Returning Officer must, as soon as possible, cause a notice of the date on which the return and statements in question were received by him or her and of the time and place at which they can be inspected to be fixed in some conspicuous place in his or her office and published in the Gazette.
 
-(2) The Returning Officer shall —
+(2) The Returning Officer must —
 
 (a) preserve all such returns and statements with the bills and vouchers relating thereto;
 
@@ -12,4 +12,4 @@ Chapter: Chapter 3 — Election Agent, Election Expenses and Illegal Practices
 
 (c) on payment of another prescribed fee, supply a copy or copies of any part thereof.
 
-(3) After the expiration of that period of 6 months, those documents may be destroyed or returned to the candidate if application for their return is made by the candidate before they are destroyed.
+(3) After the end of that period of 6 months, those documents may be destroyed or returned to the candidate if application for their return is made by the candidate before they are destroyed.
