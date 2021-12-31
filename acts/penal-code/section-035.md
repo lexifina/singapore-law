@@ -1,6 +1,4 @@
 # 35. When such an act is criminal by reason of its being done with a criminal knowledge or intention
-Chapter: CHAPTER II GENERAL EXPLANATIONS
+Chapter: CHAPTER 2 GENERAL EXPLANATIONS
 
 Whenever an act, which is criminal only by reason of its being done with a criminal knowledge or intention, is done by several persons, each of such persons who joins in the act with such knowledge or intention, is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention.
-
-[Indian PC 1860, s. 35]

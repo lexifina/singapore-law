@@ -1,5 +1,5 @@
 # 464. Making a false document or false electronic record
-Chapter: CHAPTER XVIII OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES
+Chapter: CHAPTER 18 OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY AND BANK NOTES
 
 (1) A person is said to make a false document or false electronic record —
 
@@ -19,11 +19,7 @@ with the intention of causing it to be believed that such document or electronic
 
 (c) who dishonestly or fraudulently causes any person to sign, seal, execute or alter a document or an electronic record or to affix his electronic signature on an electronic record, knowing that such person by reason of unsoundness of mind or intoxication cannot, or that by reason of deception practised upon him he does not, know the contents of the document or electronic record or the nature of the alteration.
 
-[51/2007]
-
-(2) In this section, ‘‘electronic signature’’ has the same meaning as in the Electronic Transactions Act (Cap. 88).
-
-[51/2007]
+(2) In this section, “electronic signature” has the same meaning as in the Electronic Transactions Act 2010.
 
 Illustrations
 
@@ -37,11 +33,9 @@ Illustrations
 
 (e) A draws a bill of exchange on himself in the name of B without B’s authority, intending to discount it as a genuine bill with a banker, and intending to take up the bill on its maturity. Here, as A draws the bill with intent to deceive the banker by leading him to suppose that he had the security of B, and thereby to discount the bill, A is guilty of forgery.
 
-(f) Z’s will contains these words: ‘‘I direct that all my remaining property be equally divided between A, B and C’’. A dishonestly scratches out B’s name, intending that it may be believed that the whole was left to himself and C. A has committed forgery.
+(f) Z’s will contains these words: “I direct that all my remaining property be equally divided between A, B and C”. A dishonestly scratches out B’s name, intending that it may be believed that the whole was left to himself and C. A has committed forgery.
 
-(g) A endorses a promissory note and makes it payable to Z, or his order, by writing on the bill the words ‘‘Pay to Z or his order’’, and signing the endorsement.
-
-B dishonestly erases the words ‘‘Pay to Z, or his order’’, and thereby converts the special endorsement into a blank endorsement. B commits forgery.
+(g) A endorses a promissory note and makes it payable to Z, or his order, by writing on the bill the words “Pay to Z or his order”, and signing the endorsement. B dishonestly erases the words “Pay to Z, or his order”, and thereby converts the special endorsement into a blank endorsement. B commits forgery.
 
 (h) A sells and conveys an estate to Z. A afterwards, in order to defraud Z of his estate, executes a conveyance of the same estate to B, dated 6 months earlier than the date of the conveyance to Z, intending it to be believed that he had conveyed the estate to B before he conveyed it to Z. A has committed forgery.
 
@@ -57,7 +51,7 @@ Illustrations
 
 (a) A signs his own name to a bill of exchange, intending that it may be believed that the bill was drawn by another person of the same name. A has committed forgery.
 
-(b) A writes the word ‘‘accepted’’ on a piece of paper and signs it with Z’s name, in order that B may afterwards write on the paper a bill of exchange drawn by B upon Z, and negotiate the bill as though it had been accepted by Z. A is guilty of forgery; and if B knowing the fact draws the bill upon the paper pursuant to A’s intention, B is also guilty of forgery.
+(b) A writes the word “accepted” on a piece of paper and signs it with Z’s name, in order that B may afterwards write on the paper a bill of exchange drawn by B upon Z, and negotiate the bill as though it had been accepted by Z. A is guilty of forgery; and if B knowing the fact draws the bill upon the paper pursuant to A’s intention, B is also guilty of forgery.
 
 (c) A picks up a bill of exchange payable to the order of a different person of the same name. A endorses the bill in his own name, intending to cause it to be believed that it was endorsed by the person to whose order it was payable: here A has committed forgery.
 
@@ -70,5 +64,3 @@ Explanation 2.—The making of a false document in the name of a fictitious pers
 Illustration
 
 A draws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in the name of such fictitious person with intent to negotiate it. A commits forgery.
-
-[Indian PC 1860, s. 464]

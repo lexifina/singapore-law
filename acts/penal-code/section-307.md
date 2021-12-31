@@ -1,11 +1,13 @@
 # 307. Attempt to murder
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
-(1) Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of murder, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine;
+(1) Whoever does any act with the intention of causing death and under such circumstances that if he by that act caused death he would be guilty of murder, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine;
 
-and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to imprisonment for a term which may extend to 20 years, and shall also be liable to caning or fine or both.
+and if hurt is caused to any person by such act, the offender shall be punished with —
 
-[62/73; 51/2007]
+(a) imprisonment for life and shall also be liable to caning; or
+
+(b) imprisonment for a term which may extend to 20 years, and shall also be liable to fine, or to caning or to both.
 
 Illustrations
 
@@ -17,10 +19,8 @@ Illustrations
 
 (d) A, intending to murder Z by poison, purchases poison and mixes the same with food which remains in A’s keeping; A has not yet committed the offence defined in this section. A places the food on Z’s table or delivers it to Z’s servants to place it on Z’s table. A has committed the offence defined in this section.
 
-[51/2007]
+[15/2019]
 
 Other offences by convicts
 
 (2) When any person offending under this section is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death.
-
-[Indian PC 1860, s. 307]

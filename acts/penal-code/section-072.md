@@ -1,6 +1,4 @@
 # 72. Punishment of a person found guilty of one of several offences, the judgment stating that it is doubtful of which
-Chapter: CHAPTER III PUNISHMENTS
+Chapter: CHAPTER 3 PUNISHMENTS
 
 In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided, if the same punishment is not provided for all.
-
-[Indian PC 1860, s. 72]

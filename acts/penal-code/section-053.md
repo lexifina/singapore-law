@@ -1,5 +1,5 @@
 # 53. Punishments
-Chapter: CHAPTER III PUNISHMENTS
+Chapter: CHAPTER 3 PUNISHMENTS
 
 The punishments to which offenders are liable under the provisions of this Code are —
 
@@ -14,5 +14,3 @@ The punishments to which offenders are liable under the provisions of this Code 
 (e) caning.
 
 Explanation.—Caning shall be with a rattan.
-
-[Indian PC 1860, s. 53]

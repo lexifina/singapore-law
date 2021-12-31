@@ -1,5 +1,5 @@
 # 191. Giving false evidence
-Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+Chapter: CHAPTER 11 FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
 
 Whoever, being legally bound by an oath, or by any express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false, or does not believe to be true, is said to give false evidence.
 
@@ -17,10 +17,6 @@ Illustrations
 
 Here A’s statement is merely as to his belief, and is true as to his belief, and therefore, although the signature may not be the handwriting of Z, A has not given false evidence.
 
-(d) A, being bound by an oath to state the truth, states that he knows that Z was at a particular place on a particular day, not knowing anything upon the subject.
-
-A gives false evidence as to whether Z was at that place on the day named, or not.
+(d) A, being bound by an oath to state the truth, states that he knows that Z was at a particular place on a particular day, not knowing anything upon the subject. A gives false evidence as to whether Z was at that place on the day named, or not.
 
 (e) A, an interpreter or a translator, gives or certifies as a true interpretation or translation of a statement or document which he is bound by oath to interpret or translate truly, that which is not and which he does not believe to be a true interpretation or translation. A has given false evidence.
-
-[Indian PC 1860, s. 191]

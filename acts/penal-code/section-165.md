@@ -1,5 +1,5 @@
 # 165. Public servant obtaining any valuable thing, without consideration, from person concerned in any proceeding or business transacted by such public servant
-Chapter: CHAPTER IX OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+Chapter: CHAPTER 9 OFFENCES BY OR RELATING TO PUBLIC SERVANTS
 
 Whoever, being a public servant, accepts or obtains, or agrees to accept or attempts to obtain, for himself or for any other person, any valuable thing, without consideration, or for a consideration which he knows to be inadequate, from any person whom he knows to have been, or to be, or to be likely to be concerned in any proceedings or business transacted, or about to be transacted, by such public servant, or having any connection with the official functions of himself or of any public servant to whom he is subordinate, or from any person whom he knows to be interested in or related to the person so concerned, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 

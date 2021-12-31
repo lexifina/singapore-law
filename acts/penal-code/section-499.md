@@ -1,5 +1,5 @@
 # 499. Defamation
-Chapter: CHAPTER XXI DEFAMATION
+Chapter: CHAPTER 21 DEFAMATION
 
 Whoever, by words either spoken or intended to be read, or by signs, or by visible representations, makes or publishes any imputation concerning any person, intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.
 
@@ -11,27 +11,27 @@ Explanation 3.—An imputation in the form of an alternative, or expressed ironi
 
 Explanation 4.—No imputation is said to harm a person’s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful.
 
-[51/2007]
-
 Explanation 5.—An imputation may be made or published in written, electronic or other media.
-
-[51/2007]
-
-*There is no section 497.
 
 Illustrations
 
-(a) A says, ‘‘Z is an honest man; he never stole B’s watch’’, intending to cause it to be believed that Z did steal B’s watch. This is defamation, unless it falls within one of the exceptions.
+(a) A says, “Z is an honest man; he never stole B’s watch”, intending to cause it to be believed that Z did steal B’s watch. This is defamation, unless it falls within one of the exceptions.
 
 (b) A is asked who stole B’s watch. A points to Z, intending to cause it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions.
 
 (c) A draws a picture of Z running away with B’s watch, intending it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions.
 
-Imputation of any truth which the public good requires to be made or published First Exception.—It is not defamation to impute anything which is true concerning any person, if it is for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
+Imputation of any truth which the public good requires to be made or published
 
-Public conduct of public servants Second Exception.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
+First Exception.—It is not defamation to impute anything which is true concerning any person, if it is for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact.
 
-Conduct of any person touching any public question Third Exception.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
+Public conduct of public servants
+
+Second Exception.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further.
+
+Conduct of any person touching any public question
+
+Third Exception.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further.
 
 Illustration
 
@@ -43,15 +43,19 @@ Fourth Exception.—It is not defamation to publish a substantially true report 
 
 Explanation.—A Magistrate or other officer holding an inquiry in open court preliminary to a trial in a court of justice, is a court within the meaning of the above section.
 
-Merits of case decided in a court of justice; or conduct of witnesses and others concerned therein Fifth Exception.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a court of justice, or respecting the conduct of any person as a party, a witness or an agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
+Merits of case decided in a court of justice; or conduct of witnesses and others concerned therein
+
+Fifth Exception.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a court of justice, or respecting the conduct of any person as a party, a witness or an agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further.
 
 Illustrations
 
-(a) A says, ‘‘I think Z’s evidence on that trial is so contradictory that he must be stupid or dishonest’’. A is within this exception if he says this in good faith, inasmuch as the opinion which he expresses respects Z’s character as it appears in Z’s conduct as a witness, and no further.
+(a) A says, “I think Z’s evidence on that trial is so contradictory that he must be stupid or dishonest”. A is within this exception if he says this in good faith, inasmuch as the opinion which he expresses respects Z’s character as it appears in Z’s conduct as a witness, and no further.
 
-(b) But if A says, ‘‘I do not believe what Z asserted at that trial, because I know him to be a man without veracity’’, A is not within this exception, inasmuch as the opinion which he expresses of Z’s character is an opinion not founded on Z’s conduct as a witness.
+(b) But if A says, “I do not believe what Z asserted at that trial, because I know him to be a man without veracity”, A is not within this exception, inasmuch as the opinion which he expresses of Z’s character is an opinion not founded on Z’s conduct as a witness.
 
-Merits of a public performance Sixth Exception.—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further.
+Merits of a public performance
+
+Sixth Exception.—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further.
 
 Explanation.—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public.
 
@@ -63,34 +67,40 @@ Illustrations
 
 (c) An actor or a singer who appears on a public stage, submits his acting or singing to the judgment of the public.
 
-(d) A says of a book published by Z, ‘‘Z’s book is foolish, Z must be a weak man. Z’s book is indecent, Z must be a man of impure mind’’. A is within this exception, if he says this in good faith, inasmuch as the opinion which he expresses of Z respects Z’s character only so far as it appears in Z’s book, and no further.
+(d) A says of a book published by Z, “Z’s book is foolish, Z must be a weak man. Z’s book is indecent, Z must be a man of impure mind”. A is within this exception, if he says this in good faith, inasmuch as the opinion which he expresses of Z respects Z’s character only so far as it appears in Z’s book, and no further.
 
-(e) But if A says, ‘‘I am not surprised that Z’s book is foolish and indecent, for he is a weak man and a libertine’’, A is not within this exception, inasmuch as the opinion which he expresses of Z’s character is an opinion not founded on Z’s book.
+(e) But if A says, “I am not surprised that Z’s book is foolish and indecent, for he is a weak man and a libertine”, A is not within this exception, inasmuch as the opinion which he expresses of Z’s character is an opinion not founded on Z’s book.
 
-Censure passed in good faith by a person having lawful authority over another Seventh Exception.—It is not defamation in a person having over another any authority, either conferred by law, or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates.
+Censure passed in good faith by a person having lawful authority over another
+
+Seventh Exception.—It is not defamation in a person having over another any authority, either conferred by law, or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates.
 
 Illustration
 
-A judge censuring in good faith the conduct of a witness or of an officer of the court; a head of a department censuring in good faith those who are under his orders; a parent censuring in good faith a child in the presence of other children;
+A judge censuring in good faith the conduct of a witness or of an officer of the court; a head of a department censuring in good faith those who are under his orders; a parent censuring in good faith a child in the presence of other children; a schoolmaster, whose authority is derived from a parent, censuring in good faith a pupil in the presence of other pupils; a master censuring a servant in good faith for remissness in service; a banker censuring in good faith the cashier of his bank for his conduct as such cashier — are within this exception.
 
-a schoolmaster, whose authority is derived from a parent, censuring in good faith a pupil in the presence of other pupils; a master censuring a servant in good faith for remissness in service; a banker censuring in good faith the cashier of his bank for his conduct as such cashier — are within this exception.
+Accusation preferred in good faith to a duly authorised person
 
-Accusation preferred in good faith to a duly authorised person Eight Exception.—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject-matter of the accusation.
+Eighth Exception.—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject matter of the accusation.
 
 Illustration
 
 If A in good faith accuses Z before a Magistrate; if A in good faith complains of the conduct of Z, a servant, to Z’s master; if A in good faith complains of the conduct of Z, a child, to Z’s father — A is within this exception.
 
-Imputation made in good faith by a person for the protection of his interests Ninth Exception.—It is not defamation to make an imputation on the character of another, provided that the imputation is made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.
+Imputation made in good faith by a person for the protection of his interests
+
+Ninth Exception.—It is not defamation to make an imputation on the character of another, provided that the imputation is made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good.
 
 Illustrations
 
-(a) A, a shopkeeper, says to B, who manages his business, ‘‘Sell nothing to Z unless he pays you ready money, for I have no opinion of his honesty’’. A is within the exception, if he has made this imputation on Z in good faith for the protection of his own interests.
+(a) A, a shopkeeper, says to B, who manages his business, “Sell nothing to Z unless he pays you ready money, for I have no opinion of his honesty”. A is within the exception, if he has made this imputation on Z in good faith for the protection of his own interests.
 
 (b) A, a Magistrate, in making a report to his superior officer, casts an imputation on the character of Z. Here, if the imputation is made in good faith and for the public good, A is within the exception.
 
-Caution intended for the good of the person to whom it is conveyed or for the public good Tenth Exception.—It is not defamation to convey a caution, in good faith, to one person against another, provided that the caution is intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good.
+Caution intended for the good of the person to whom it is conveyed or for the public good
 
-Explanation to Exceptions In proving the existence of circumstances as a defence under the Second, Third, Fifth, Sixth, Seventh, Eighth, Ninth or Tenth exception, good faith shall be presumed unless the contrary appears.
+Tenth Exception.—It is not defamation to convey a caution, in good faith, to one person against another, provided that the caution is intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good.
 
-[Indian PC 1860, s. 499]
+Explanation to Exceptions
+
+In proving the existence of circumstances as a defence under the Second, Third, Fifth, Sixth, Seventh, Eighth, Ninth or Tenth exception, good faith shall be presumed unless the contrary appears.

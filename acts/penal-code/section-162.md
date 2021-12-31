@@ -1,4 +1,4 @@
 # 162. Taking a gratification in order, by corrupt or illegal means, to influence a public servant
-Chapter: CHAPTER IX OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+Chapter: CHAPTER 9 OFFENCES BY OR RELATING TO PUBLIC SERVANTS
 
 Whoever accepts or obtains, or agrees to accept or attempts to obtain, from any person, for himself or for any other person, any gratification whatever, as a motive or reward for inducing, by corrupt or illegal means, any public servant to do or to forbear to do any official act, or in the exercise of the official functions of such public servant to show favour or disfavour to any person, or to render or attempt to render any service or disservice to any person, with the Government, or with any Member of Parliament or the Cabinet, or with any public servant, as such, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.

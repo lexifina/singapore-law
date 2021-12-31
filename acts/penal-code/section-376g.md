@@ -1,28 +1,38 @@
 # 376G. Incest
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
-(1) Any man of or above the age of 16 years (A) who —
+(1) Any person (A) of or above 16 years of age who —
 
-(a) sexually penetrates the vagina or anus of a woman (B) with a part of A’s body (other than A’s penis) or anything else; or
+(a) penetrates, with A’s penis, the vagina, anus or mouth, as the case may be, of a person of or above 16 years of age who is a close family relative (B);
 
-(b) penetrates the vagina, anus or mouth of a woman (B) with his penis, with or without B’s consent where B is to A’s knowledge A’s grand- daughter, daughter, sister, half-sister, mother or grandmother (whether such relationship is or is not traced through lawful wedlock), shall be guilty of an offence.
+(b) sexually penetrates, with a part of A’s body (other than A’s penis, if A is a man) or anything else, the vagina or anus, as the case may be, of a person of or above 16 years of age who is a close family relative (B);
 
-[51/2007]
+(c) causes or permits a man of or above 16 years of age who is a close family relative (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of A; or
 
-(2) Any woman of or above the age of 16 years who, with consent, permits her grandfather, father, brother, half-brother, son or grandson (whether such relationship is or is not traced through lawful wedlock) to penetrate her in the manner described in subsection (1)(a) or (b), knowing him to be her grandfather, father, brother, half-brother, son or grandson, as the case may be, shall be guilty of an offence.
+(d) causes or permits a person of or above 16 years of age who is a close family relative (B) to sexually penetrate, with a part of B’s body (other than B’s penis, if B is a man) or anything else, the vagina or anus, as the case may be, of A, knowing that B is a close family relative, shall be guilty of an offence.
 
-[51/2007]
+[15/2019]
 
-(3) Subject to subsection (4), a man who is guilty of an offence under subsection (1) shall be punished with imprisonment for a term which may extend to 5 years.
+(2) For the purposes of subsection (1), B is a close family relative of A if B is A’s grandchild, child, sibling, half-sibling, parent or grandparent (whether such relationship is or is not traced through lawful wedlock).
 
-[51/2007]
+[15/2019]
 
-(4) If a man commits an offence under subsection (1) against a woman under 14 years of age, he shall be punished with imprisonment for a term which may extend to 14 years.
+(3) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 5 years.
 
-[51/2007]
+[15/2019]
 
-(5) A woman who is guilty of an offence under subsection (2) shall be punished with imprisonment for a term which may extend to 5 years.
+(4) This section does not apply to an act of penetration mentioned in subsection (1) which would constitute an offence under section 375(1)(a), 375(1A)(a), 376(1)(a) or (2) or 376AA(1).
 
-[51/2007]
+[15/2019]
 
-[UK SOA 2003, s. 64; SPC 1985 Ed., ss. 376A, 376B, 376C (repealed)]
+(5) To avoid doubt —
+
+(a) it is not necessary for the prosecution to prove that B did consent to the act of penetration mentioned in subsection (1); and
+
+(b) it is not a defence that B did consent to that act.
+
+[15/2019]
+
+(6) A person below 18 years of age who is a victim of an offence under section 376AA is not guilty of an offence under this section in respect of the same acts constituting the offence under that section.
+
+[15/2019]

@@ -1,12 +1,6 @@
-# 448. Punishment for house-trespass
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+# 448. Punishment for house-breaking
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
-Whoever commits house-trespass shall be punished with
+Whoever commits house-breaking shall be guilty of an offence and shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-imprisonment for a term which may extend to one year, or with fine
-
-which may extend to $3,000, or with both.
-
-[51/2007]
-
-[Indian PC 1860, s. 448]
+[15/2019]

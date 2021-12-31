@@ -1,5 +1,5 @@
 # 300. Murder
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
 Except in the cases hereinafter excepted culpable homicide is murder —
 
@@ -21,19 +21,21 @@ Illustrations
 
 (d) A, without any excuse, fires a loaded cannon into a crowd of persons and kills one of them. A is guilty of murder, although he may not have had a premeditated design to kill any particular individual.
 
-[51/2007]
+When culpable homicide is not murder
 
-When culpable homicide is not murder Exception 1.—Culpable homicide is not murder if the offender whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation, or causes the death of any other person by mistake or accident.
+Exception 1.—Culpable homicide is not murder if the offender whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation, or causes the death of any other person by mistake or accident.
 
 The above exception is subject to the following provisos:
 
 (a) that the provocation is not sought or voluntarily provoked by the offender as an excuse for killing or doing harm to any person;
 
-(b) that the provocation is not given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant;
+(b) that the offender did not know and had no reason to believe that the provocation was given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant;
 
 (c) that the provocation is not given by anything done in the lawful exercise of the right of private defence.
 
-Explanation.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.
+Explanation 1.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact, having regard to whether an ordinary person of the same gender and age as the offender, sharing such characteristics as would affect the gravity of the provocation and placed in the same situation as the offender, would be deprived of self-control by the provocation.
+
+Explanation 2.—Grave and sudden provocation may be in the form of words, gestures or conduct or any combination of words, gestures or conduct.
 
 Illustrations
 
@@ -49,28 +51,56 @@ Illustrations
 
 (f) Z strikes B. B is by this provocation excited to violent rage. A, a bystander, intending to take advantage of B’s rage, and to cause him to kill Z, puts a knife into B’s hand for that purpose. B kills Z with the knife. Here B may have committed only culpable homicide, but A is guilty of murder.
 
-[51/2007]
+(g) A and Z are married to each other. A loses self-control on Z’s provocation and intentionally kills Z soon after the provocation was given. Although the provocation, when viewed in isolation, would not amount to grave and sudden provocation, it was the last of a series of prolonged physical and mental abuse of A by Z. An ordinary person in A’s position would have lost self-control and have done what A did. A has committed only culpable homicide and not murder.
 
-Exception 2.—Culpable homicide is not murder if the offender, in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.
+Exception 2.—Culpable homicide is not murder if the offender, in the exercise of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.
 
-Illustration
+Explanation.—The word “premeditation” means the offender’s intention, which was formed prior to the circumstances which gave rise to the act of private defence —
 
-[Deleted by Act 51 of 2007]
+(a) to cause death in section 300(a) or to cause such bodily injury as is mentioned in section 300(b) or (c); or
 
-Exception 3.—Culpable homicide is not murder if the offender, being a public servant, or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant, and without ill-will towards the person whose death is caused.
+(b) to do an act knowing that the act is so imminently dangerous in the way mentioned in section 300(d).
+
+Exception 3.—Culpable homicide is not murder if the offender, being a public servant, or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant, and without ill will towards the person whose death is caused.
 
 Exception 4.—Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel, and without the offender having taken undue advantage or acted in a cruel or unusual manner.
 
-Explanation.—It is immaterial in such cases which party offers the provocation or commits the first assault.
+The above exception is subject to the proviso that the offender did not know and had no reason to believe that the person whose death was caused was acting in obedience to the law, or was a public servant acting in the lawful exercise of the powers of such public servant.
 
-Exception 5.—Culpable homicide is not murder when the person whose death is caused, being above the age of 18 years, suffers death or takes the risk of death with his own consent.
+Explanation 1.—It is immaterial in such cases which party offers the provocation or commits the first assault.
+
+Explanation 2.—The word “fight” includes the exchange of blows even if the blows do not land on their target and includes a single blow or punch.
+
+Explanation 3.—The word “premeditation” means the offender’s intention, which was formed prior to the circumstances constituting the sudden fight —
+
+(a) to cause death in section 300(a) or to cause such bodily injury as is mentioned in section 300(b) or (c); or
+
+(b) to do an act knowing that the act is so imminently dangerous in the way mentioned in section 300(d).
+
+Explanation 4.—A “quarrel” does not require a verbal exchange of words.
+
+Illustrations
+
+(a) A and Z, who are rival gang members, are in a coffee shop seated at different tables. They mutually stare at each other fiercely without exchanging any words. Z disengages from A by turning away and starts to leave the coffee shop. A sees a cutlery knife on his table which A had earlier used for A’s meal. A picks up the cutlery knife and stabs Z’s throat in the heat of passion. Z falls and dies almost immediately. Although there was a “sudden quarrel” without any exchange of words, Exception 4 does not apply because there was no “fight”, there being no exchange of blows or assault between A and Z.
+
+(b) A had a consensual sexual relationship with Z until Z terminated the relationship. A came to Z’s house and asked Z if Z would have sex with A. Z refused. A became angry and said A would use force, if necessary. A grappled with Z who resisted A’s advances and struck A’s face. Enraged by Z’s resistance, A slams Z into a wall, and Z slumps to the ground. While Z is motionless on the ground, A kicks Z’s head repeatedly and kills Z. Exception 4 does not apply because A had taken undue advantage of Z while Z was lying motionless on the ground.
+
+Exception 5.—Culpable homicide is not murder when the person whose death is caused, being above 18 years of age, suffers death or takes the risk of death with his own consent.
 
 Illustration
 
-A, by instigation, voluntarily causes Z, a person under 18 years of age, to commit suicide. Here, on account of Z’s youth, he was incapable of giving consent to his own death. A has therefore abetted murder.
+A and Z, both being persons above 18 years of age, decide to commit suicide together by drinking poison. With Z’s consent, A pours a lethal poison down Z’s throat but after watching Z die, A cannot summon the courage to drink the same poison. A has committed culpable homicide and not murder.
 
-Exception 6.—Culpable homicide is not murder if the offender being a woman voluntarily causes the death of her child being a child under the age of 12 months, and at the time of the offence the balance of her mind was disturbed by reason of her not having fully recovered from the effect of giving birth to the child or by reason of the effect of lactation consequent upon the birth of the child.
+Exception 6.—Culpable homicide is not murder if the offender being a woman voluntarily causes the death of her child being a child below 12 months of age, and at the time of the offence the balance of her mind was disturbed by reason of her not having fully recovered from the effect of giving birth to the child or by reason of the effect of lactation consequent upon the birth of the child.
 
-Exception 7.—Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in causing the death or being a party to causing the death.
+Exception 7.—Culpable homicide is not murder if at the time of the acts or omissions causing the death concerned, the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development or any inherent causes or induced by disease or injury) as substantially —
 
-[Indian PC 1860, s. 300]
+(a) impaired the offender’s capacity —
+
+(i) to know the nature of the acts or omissions in causing the death or in being a party to causing the death; or
+
+(ii) to know whether such acts or omissions are wrong (whether wrong by the ordinary standards of reasonable and honest persons or wrong as contrary to law); or
+
+(b) impaired the offender’s power to control his acts or omissions in causing the death or being a party to causing the death.
+
+[15/2019]

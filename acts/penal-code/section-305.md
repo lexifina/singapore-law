@@ -1,6 +1,20 @@
-# 305. Abetment of suicide of child or insane person
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+# 305. Abetment of suicide or attempted suicide of minor or person who lacks mental capacity
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
-If any person under 18 years of age, any insane person, any delirious person, any idiot, or any person in a state of intoxication, commits suicide, whoever abets the commission of such suicide shall be punished with death or imprisonment for life, or with imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
+(1) If any minor or other person who lacks capacity —
 
-[Indian PC 1860, s. 305]
+(a) commits suicide, whoever abets the commission of the suicide and who knew or ought reasonably to have known that the person who committed suicide was a minor or a person who lacks capacity, shall be punished with death or imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall, if he is not sentenced to death or imprisonment for life, also be liable to fine;
+
+(b) attempts suicide, whoever abets the attempted suicide and who knew or ought reasonably to have known that the person who attempted suicide was a minor or a person who lacks capacity, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine; or
+
+(c) attempts suicide and hurt is caused to any person in the course of the attempted suicide, whoever abets the attempted suicide and who knew or ought reasonably to have known that the person who attempted suicide was a minor or a person who lacks capacity, shall be punished with imprisonment for life or with imprisonment for a term which may extend to 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
+
+[15/2019]
+
+(2) In subsection (1) —
+
+“minor” means a person below 18 years of age;
+
+“person who lacks capacity” means a person who lacks capacity to understand the consequences of attempting or committing suicide, as the case may be, from unsoundness of mind, mental incapacity, intoxication, or the influence of any drug or other substance.
+
+[15/2019]

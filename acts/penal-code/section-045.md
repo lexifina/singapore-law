@@ -1,6 +1,4 @@
-# 45. ‘‘Life’’
-Chapter: CHAPTER II GENERAL EXPLANATIONS
+# 45. “Life”
+Chapter: CHAPTER 2 GENERAL EXPLANATIONS
 
-The word ‘‘life’’ denotes the life of a human being, unless the contrary appears from the context.
-
-[Indian PC 1860, s. 45]
+The word “life” denotes the life of a human being, unless the contrary appears from the context.

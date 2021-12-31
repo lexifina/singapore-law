@@ -1,5 +1,5 @@
 # 204B. Bribery of witnesses
-Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+Chapter: CHAPTER 11 FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
 
 (1) Whoever —
 
@@ -11,8 +11,4 @@ Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
 
 (d) asks, receives, or obtains, or agrees or attempts to receive or obtain, any property or benefit of any kind for himself, or any other person, upon any agreement or understanding that any person will as a witness in any judicial proceeding give false testimony or withhold true testimony or abstain from giving evidence, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
 
-[51/2007]
-
-(2) In this section, ‘‘judicial proceeding’’ means any proceeding in the course of which evidence is or may be legally taken.
-
-[51/2007]
+(2) In this section, “judicial proceeding” means any proceeding in the course of which evidence is or may be legally taken.

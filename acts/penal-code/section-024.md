@@ -1,6 +1,10 @@
-# 24. ‘‘Dishonestly’’
-Chapter: CHAPTER II GENERAL EXPLANATIONS
+# 24. “Dishonestly”
+Chapter: CHAPTER 2 GENERAL EXPLANATIONS
 
-Whoever does anything with the intention of causing wrongful gain to one person, or wrongful loss to another person, is said to do that thing dishonestly.
+A person (A) is said to do an act dishonestly if —
 
-[Indian PC 1860, s. 24]
+(a) A does that act with the intention of causing wrongful gain to A or another person, or wrongful loss to another person, regardless of whether such gain or loss is temporary or permanent; or
+
+(b) that act done by A is dishonest by the ordinary standards of reasonable and honest persons and A knows that that act is dishonest by such standards.
+
+[15/2019]

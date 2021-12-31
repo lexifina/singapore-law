@@ -1,14 +1,8 @@
-# 103. When the right of private defence of property extends to causing death
-Chapter: CHAPTER IV GENERAL EXCEPTIONS
+# 103. When such right extends to causing any harm other than death Right of private defence of property
+Chapter: CHAPTER 4A RIGHT OF PRIVATE DEFENCE General
 
-The right of private defence of property extends, under the restrictions mentioned in section 99, to the voluntary causing of death or of any other harm to the wrongdoer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, is an offence of any of the following descriptions:
+If the offence is not of any of the descriptions mentioned in section 102, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions mentioned in sections 98 and 106A, to the voluntary causing to the assailant of any harm other than death.
 
-(a) robbery;
+[15/2019]
 
-(b) house-breaking by night;
-
-(c) mischief by fire committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;
-
-(d) theft, mischief or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.
-
-[Indian PC 1860, s. 103]
+Right of private defence of property

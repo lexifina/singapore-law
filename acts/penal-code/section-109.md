@@ -1,5 +1,5 @@
 # 109. Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment
-Chapter: CHAPTER V ABETMENT
+Chapter: CHAPTER 5 ABETMENT
 
 Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence.
 
@@ -12,5 +12,3 @@ Illustrations
 (b) A instigates B to give false evidence. B, in consequence of the instigation, commits that offence. A is guilty of abetting that offence, and is liable to the same punishment as B.
 
 (c) A and B conspire to poison Z. A, in pursuance of the conspiracy, procures the poison and delivers it to B, in order that he may administer it to Z. B, in pursuance of the conspiracy, administers the poison to Z, in A’s absence and thereby causes Z’s death. Here B is guilty of murder. A is guilty of abetting that offence by conspiracy, and is liable to the punishment for murder.
-
-[Indian PC 1860, s. 109]

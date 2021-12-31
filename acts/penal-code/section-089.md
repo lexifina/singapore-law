@@ -1,7 +1,7 @@
 # 89. Act done in good faith for the benefit of a child or person of unsound mind, by or by consent of guardian
-Chapter: CHAPTER IV GENERAL EXCEPTIONS
+Chapter: CHAPTER 4 GENERAL EXCEPTIONS
 
-Nothing, which is done in good faith for the benefit of a person under 12 years of age, or of unsound mind, by or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, or be known by the doer to be likely to cause, to that person:
+Nothing, which is done in good faith for the benefit of a person below 12 years of age, or of unsound mind, by or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, or be known by the doer to be likely to cause, to that person:
 
 Provided that this exception shall not extend to —
 
@@ -15,6 +15,4 @@ Provided that this exception shall not extend to —
 
 Illustration
 
-A, in good faith, for the benefit of his child, being under 12 years of age, without his child’s consent, has his child cut for the stone by a surgeon, knowing it to be likely that the operation will cause the child’s death, but not intending to cause the child’s death. A is within the exception, inasmuch as his object was the cure of the child.
-
-[Indian PC 1860, s. 89]
+A, in good faith, for the benefit of his child, being below 12 years of age, without his child’s consent, has his child cut for the stone by a surgeon, knowing it to be likely that the operation will cause the child’s death, but not intending to cause the child’s death. A is within the exception, inasmuch as his object was the cure of the child.

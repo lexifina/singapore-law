@@ -1,6 +1,4 @@
-# 264. Fraudulent use of false instrument for weighing
-Chapter: CHAPTER XIII OFFENCES RELATING TO WEIGHTS AND MEASURES
+# 264. [Repealed]
+Chapter: CHAPTER 13
 
-Whoever fraudulently uses any instrument for weighing which he knows to be false, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 264]
+[Repealed by Act 15 of 2019]

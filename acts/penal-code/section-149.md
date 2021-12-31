@@ -1,6 +1,4 @@
 # 149. Every member of an unlawful assembly to be deemed guilty of any offence committed in prosecution of common object
-Chapter: CHAPTER VIII OFFENCES RELATING TO UNLAWFUL ASSEMBLY
+Chapter: CHAPTER 8 OFFENCES RELATING TO UNLAWFUL ASSEMBLY
 
 If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly is guilty of that offence.
-
-[Indian PC 1860, s. 149]

@@ -1,6 +1,6 @@
-# 12. ‘‘Public’’
-Chapter: CHAPTER II GENERAL EXPLANATIONS
+# 12. “Public”
+Chapter: CHAPTER 2 GENERAL EXPLANATIONS
 
-The word ‘‘public’’ includes any class of the public or any community.
+The word “public” includes any class of the public or any community.
 
-[Indian PC 1860, s. 12]
+[There are no sections 13 to 16.]

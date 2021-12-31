@@ -1,5 +1,5 @@
 # 350. Criminal force
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
 Whoever intentionally uses force to any person, without that person’s consent, in order to cause the committing of any offence, or intending by the use of such force illegally to cause, or knowing it to be likely that by the use of such force he will illegally cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other.
 
@@ -13,9 +13,7 @@ Illustrations
 
 (d) A intentionally pushes against Z in the street. Here A has by his own bodily power moved his own person so as to bring it into contact with Z. He has therefore intentionally used force to Z, and if he has done so without Z’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z, he has used criminal force to Z.
 
-(e) A throws a stone, intending or knowing it to be likely that the stone will be thus brought into contact with Z, or with Z’s clothes, or with something carried by Z, or that it will strike water and dash up the water against Z’s clothes, or something carried by Z. Here if the throwing of the stone produces the effect of causing any substance to come into contact with Z, or Z’s clothes, A has used force to Z; and
-
-if he has done so without Z’s consent, intending thereby to injure, frighten or annoy Z, he has used criminal force to Z.
+(e) A throws a stone, intending or knowing it to be likely that the stone will be thus brought into contact with Z, or with Z’s clothes, or with something carried by Z, or that it will strike water and dash up the water against Z’s clothes, or something carried by Z. Here if the throwing of the stone produces the effect of causing any substance to come into contact with Z, or Z’s clothes, A has used force to Z; and if he has done so without Z’s consent, intending thereby to injure, frighten or annoy Z, he has used criminal force to Z.
 
 (f) A intentionally pulls up a woman’s veil. Here A intentionally uses force to her; and if he does so without her consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy her, he has used criminal force to her.
 
@@ -24,9 +22,3 @@ if he has done so without Z’s consent, intending thereby to injure, frighten o
 Here A intentionally by his own bodily power causes such motion in the boiling water as brings that water into contact with Z, or with other water so situated that such contact must affect Z’s sense of feeling; A has therefore intentionally used force to Z; and if he has done this without Z’s consent, intending or knowing it to be likely that he may thereby cause injury, fear or annoyance to Z, A has used criminal force to Z.
 
 (h) A incites a dog to spring upon Z, without Z’s consent. Here, if A intends to cause injury, fear or annoyance to Z, he uses criminal force to Z.
-
-(i) [Deleted by Act 51 of 2007]
-
-[51/2007]
-
-[Indian PC 1860, s. 350]

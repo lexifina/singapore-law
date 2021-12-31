@@ -1,8 +1,6 @@
-# 286. Negligent conduct with respect to any explosive substance
-Chapter: CHAPTER XIV OFFENCES AFFECTING THE PUBLIC TRANQUILITY, PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
+# 286. Presumption of cause of fire
+Chapter: CHAPTER 14 OFFENCES AFFECTING THE PUBLIC TRANQUILLITY, PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
 
-Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from such substance, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+In any proceedings for an offence under section 285, where any person deposits, drops, places or throws a cigarette or part thereof, cigar, match stick, charcoal, incense, any form of embers or any thing that is likely to cause fire in any place, and a fire occurs at that place or in the vicinity of that place within 60 minutes from the time of that act, that person is, until the contrary is proved, presumed to have substantially contributed to the risk of causing that fire.
 
-[51/2007]
-
-[Indian PC 1860, s. 286]
+[15/2019]

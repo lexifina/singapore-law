@@ -1,6 +1,4 @@
-# 52. ‘‘Good faith’’
-Chapter: CHAPTER II GENERAL EXPLANATIONS
+# 52. [Repealed]
+Chapter: CHAPTER 2 GENERAL EXPLANATIONS
 
-Nothing is said to be done or believed in good faith which is done or believed without due care and attention.
-
-[Indian PC 1860, s. 52]
+[Repealed by Act 15 of 2019]

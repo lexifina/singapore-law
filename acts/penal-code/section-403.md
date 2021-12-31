@@ -1,5 +1,5 @@
 # 403. Dishonest misappropriation of property
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
 Whoever dishonestly misappropriates or converts to his own use movable property, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
@@ -11,7 +11,7 @@ Illustrations
 
 (c) A and B being joint owners of a horse, A takes the horse out of B’s possession, intending to use it. Here, as A has a right to use the horse, he does not dishonestly misappropriate it. But if A sells the horse and appropriates the whole proceeds to his own use, he is guilty of an offence under this section.
 
-Explanation 1.—A dishonest misappropriation for a time only is a misappro- priation within the meaning of this section.
+Explanation 1.—A dishonest misappropriation for a time only is a misappropriation within the meaning of this section.
 
 Illustration
 
@@ -39,4 +39,6 @@ A picks up the dollar. Here A has not committed the offence defined in this sect
 
 (f) A finds a valuable ring, not knowing to whom it belongs. A sells it immediately without attempting to discover the owner. A is guilty of an offence under this section.
 
-[Indian PC 1860, s. 403]
+(g) A receives money transferred to his bank account from Z’s bank account. A discovers that Z did not intend to transfer the money to him. A retains the money and appropriates it to his own use. A is guilty of an offence under this section.
+
+[15/2019]

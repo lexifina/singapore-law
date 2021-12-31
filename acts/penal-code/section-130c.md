@@ -1,5 +1,5 @@
 # 130C. Piratical acts
-Chapter: CHAPTER VIA PIRACY
+Chapter: CHAPTER 6A PIRACY
 
 Whoever, while in or out of Singapore —
 
@@ -12,5 +12,3 @@ Whoever, while in or out of Singapore —
 or
 
 (d) counsels or procures a person to do anything mentioned in paragraph (a), (b) or (c), shall be punished with imprisonment for a term not exceeding 15 years and shall be liable to caning.
-
-[35/93; 51/2007]

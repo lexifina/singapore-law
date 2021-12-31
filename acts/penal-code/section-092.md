@@ -1,5 +1,5 @@
 # 92. Act done in good faith for the benefit of a person without consent
-Chapter: CHAPTER IV GENERAL EXCEPTIONS
+Chapter: CHAPTER 4 GENERAL EXCEPTIONS
 
 Nothing is an offence by reason of any harm which it may cause to a person for whose benefit it is done in good faith, even without that person’s consent, if the circumstances are such that it is impossible for that person to signify consent, or if that person is incapable of giving consent, and has no guardian or other person in lawful charge of him from whom it is possible to obtain consent in time for the thing to be done with benefit:
 
@@ -19,10 +19,8 @@ Illustrations
 
 (b) [Deleted by Act 51 of 2007]
 
-(c) A, a surgeon, sees a child suffer an accident which is likely to prove fatal unless an operation is immediately performed. There is not time to apply to the child’s guardian. A performs the operation in spite of the entreaties of the child, intending, in good faith, the child’s benefit. A has committed no offence.
+(c) A, a surgeon, sees a child suffer an accident which is likely to prove fatal unless an operation is immediately performed. There is no time to apply to the child’s guardian. A performs the operation in spite of the entreaties of the child, intending, in good faith, the child’s benefit. A has committed no offence.
 
 (d) A is in a house which is on fire, with Z, a child. People below hold out a blanket. A drops the child from the house-top, knowing it to be likely that the fall may kill the child, but not intending to kill the child, and intending in good faith, the child’s benefit. Here, even if the child is killed by the fall, A has committed no offence.
 
 Explanation.—Mere pecuniary benefit is not benefit within the meaning of sections 88, 89 and 92.
-
-[Indian PC 1860, s. 92]

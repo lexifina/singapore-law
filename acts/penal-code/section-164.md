@@ -1,5 +1,5 @@
 # 164. Punishment for abetment by public servant of the offences above defined
-Chapter: CHAPTER IX OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+Chapter: CHAPTER 9 OFFENCES BY OR RELATING TO PUBLIC SERVANTS
 
 Whoever, being a public servant, in respect of whom either of the offences defined in sections 162 and 163 is committed, abets the offence, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 

@@ -1,5 +1,5 @@
 # 111. Liability of abettor when one act is abetted and a different act is done
-Chapter: CHAPTER V ABETMENT
+Chapter: CHAPTER 5 ABETMENT
 
 When an act is abetted and a different act is done, the abettor is liable for the act done, in the same manner, and to the same extent, as if he had directly abetted it:
 
@@ -12,5 +12,3 @@ Illustrations
 (b) A instigates B to burn Z’s house. B sets fire to the house, and at the same time commits theft of property there. A, though guilty of abetting the burning of the house, is not guilty of abetting the theft; for the theft was a distinct act, and not a probable consequence of the burning.
 
 (c) A instigates B and C to break into an inhabited house at midnight for the purpose of robbery, and provides them with arms for that purpose. B and C break into the house, and being resisted by Z, one of the inmates, murder Z. Here, if that murder was the probable consequence of the abetment, A is liable to the punishment provided for murder.
-
-[Indian PC 1860, s. 111]

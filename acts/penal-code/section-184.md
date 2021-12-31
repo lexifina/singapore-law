@@ -1,8 +1,10 @@
-# 184. Obstructing sale of property offered for sale by authority of a public servant
-Chapter: CHAPTER X CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+# 184. Obstructing sale of property offered for sale by authority of public servant
+Chapter: CHAPTER 10 CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
 
-Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant as such, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both.
+A person who intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant as such, shall —
 
-[51/2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
 
-[Indian PC 1860, s. 184]
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[15/2019]

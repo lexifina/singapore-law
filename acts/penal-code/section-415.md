@@ -1,9 +1,7 @@
 # 415. Cheating
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
-Whoever, by deceiving any person, whether or not such deception was the sole or main inducement, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit to do if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to any person in body, mind, reputation or property, is said to ‘‘cheat’’.
-
-[51/2007]
+Whoever, by deceiving any person, whether or not such deception was the sole or main inducement, fraudulently or dishonestly induces the person so deceived to deliver or cause the delivery of any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit to do if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to any person in body, mind, reputation or property, is said to “cheat”.
 
 Explanation 1.—A dishonest concealment of facts is a deception within the meaning of this section.
 
@@ -11,7 +9,9 @@ Explanation 2.—Mere breach of contract is not of itself proof of an original f
 
 Explanation 3.—Whoever makes a representation through any agent is to be treated as having made the representation himself.
 
-[51/2007]
+Explanation 4.—A person that is a company or association or body of persons, whether incorporated or not, can be deceived for the purposes of this section, even though none of its individual officers, employees or agents is personally deceived.
+
+Explanation 5.—A person that is a company or association or body of persons, whether incorporated or not, can be induced to act in a manner mentioned in this section even though none of its individual officers, employees or agents is personally induced to act in such manner.
 
 Illustrations
 
@@ -27,9 +27,7 @@ Illustrations
 
 (f) A intentionally deceives Z into a belief that A means to repay any money that Z may lend to him, and thereby dishonestly induces Z to lend him money, A not intending to repay it. A cheats.
 
-(g) A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of pepper which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery. A cheats;
-
-but if A, at the time of obtaining the money, intends to deliver the pepper, and afterwards breaks his contract and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract.
+(g) A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of pepper which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery. A cheats; but if A, at the time of obtaining the money, intends to deliver the pepper, and afterwards breaks his contract and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract.
 
 (h) A intentionally deceives Z into a belief that A has performed A’s part of a contract made with Z, which he has not performed, and thereby dishonestly induces Z to pay money. A cheats.
 
@@ -37,4 +35,6 @@ but if A, at the time of obtaining the money, intends to deliver the pepper, and
 
 (j) A, playing with false dice, or marked cards, wins money from B. A cheats.
 
-[Indian PC 1860, s. 415]
+(k) A places an order for concert tickets in the automated concert ticketing system of a company, Z, using stolen credit card details, and thereby causes Z’s ticketing system to electronically deliver the electronic concert tickets to A. Z has been deceived and induced into delivering the tickets to A even though no human officer, employee or agent of Z has been personally deceived or induced.
+
+[15/2019]

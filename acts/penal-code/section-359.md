@@ -1,6 +1,4 @@
 # 359. Kidnapping
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
-Kidnapping is of two kinds: kidnapping from Singapore, and kidnapping from lawful guardianship.
-
-[Indian PC 1860, s. 359]
+Kidnapping is of 2 kinds: kidnapping from Singapore, and kidnapping from lawful guardianship.

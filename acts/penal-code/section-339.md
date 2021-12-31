@@ -1,5 +1,5 @@
 # 339. Wrongful restraint
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
 Whoever voluntarily obstructs any person, so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person.
 
@@ -8,5 +8,3 @@ Exception.—The obstruction of a private way over land or water which a person 
 Illustration
 
 A obstructs a path along which Z has a right to pass, A not believing in good faith that he has a right to stop the path. Z is thereby prevented from passing. A wrongfully restrains Z.
-
-[Indian PC 1860, s. 339]

@@ -1,6 +1,4 @@
 # 261. Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause loss to Government
-Chapter: CHAPTER XII OFFENCES RELATING TO COIN AND GOVERNMENT STAMPS
+Chapter: CHAPTER 12 OFFENCES RELATING TO GOVERNMENT STAMPS
 
 Whoever, fraudulently or with intent to cause loss to the Government, removes or effaces from any substance bearing any stamp issued by the Government for the purpose of revenue, any writing or document for which such stamp has been used, or removes from any writing or document a stamp which has been used for such writing or document, in order that such stamp may be used for a different writing or document, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
-
-[Indian PC 1860, s. 261]

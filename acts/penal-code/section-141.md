@@ -1,7 +1,7 @@
 # 141. Unlawful assembly
-Chapter: CHAPTER VIII OFFENCES RELATING TO UNLAWFUL ASSEMBLY
+Chapter: CHAPTER 8 OFFENCES RELATING TO UNLAWFUL ASSEMBLY
 
-An assembly of 5 or more persons is designated an ‘‘unlawful assembly’’, if the common object of the persons composing that assembly is —
+An assembly of 5 or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is —
 
 (a) to overawe by criminal force, or show of criminal force, the Legislative or Executive Government, or any public servant in the exercise of the lawful power of such public servant;
 
@@ -13,8 +13,4 @@ An assembly of 5 or more persons is designated an ‘‘unlawful assembly’’,
 
 (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do.
 
-[51/2007]
-
-Explanation.—An assembly which was not unlawful when it assembled may subsequently become an unlawful assembly.
-
-[Indian PC 1860, s. 141]
+Explanation.— An assembly which was not unlawful when it assembled may subsequently become an unlawful assembly.

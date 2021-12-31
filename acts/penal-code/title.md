@@ -1,45 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-PENAL CODE
-(CHAPTER 224)
-Ordinance
-4 of 1871
-Amended by
-6 of 1920 1936 Ed. Cap. 20 1955 Ed. Cap. 119 1970 Ed. Cap. 103
-26 of 1921
-Amended by Amended by Amended by
-32 of 1922
-13 of 1936 27 of 1955 21 of 1973
-25 of 1923
-8 of 1937 5 of 1958 62 of 1973
-32 of 1926
-12 of 1938 38 of 1959 32 of 1980
-35 of 1933
-18 of 1938 55 of 1959 23 of 1984
-4 of 1934
-11 of 1939 34 of 1960
-36 of 1934 1985 Ed. Cap. 224
-12 of 1941 16 of 1961
-2 of 1935 Amended by
-16 of 1949 14 of 1969
-16 of 1935 35 of 1993
-38 of 1950 25 of 1969
-63 of 1935 18 of 1998
-13 of 1952 S(NS) 67/59
-37 of 1952 S(NS) 178/59 51 of 2007
-20 of 1954 S(NS) 179/59
-S 223/59
-LN 375/64
-REVISED EDITION 2008
-(30th November 2008)
+PENAL CODE 1871
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2008
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to consolidate the law relating to criminal offences.
 
-[16th September 1872]
+[16 September 1872]

@@ -1,5 +1,5 @@
 # 292. Sale of obscene books, etc.
-Chapter: CHAPTER XIV OFFENCES AFFECTING THE PUBLIC TRANQUILITY, PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
+Chapter: CHAPTER 14 OFFENCES AFFECTING THE PUBLIC TRANQUILLITY, PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS
 
 (1) Whoever —
 
@@ -13,16 +13,12 @@ Chapter: CHAPTER XIV OFFENCES AFFECTING THE PUBLIC TRANQUILITY, PUBLIC HEALTH, S
 
 (e) offers or attempts to do any act which is an offence under this section, shall be punished with imprisonment for a term which may extend to 3 months, or with fine, or with both.
 
-[51/2007]
+(1A) A person who is guilty of an offence under subsection (1) in the case where the obscene object mentioned in that subsection depicts an image of a person who is or who appears to a reasonable observer to be or is implied to be below 16 years of age shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-(2) For the purposes of this section, ‘‘object’’ includes data stored in a computer disc, or by other electronic means, that is capable of conversion to images, writing or any other form of representation.
+[15/2019]
 
-[51/2007]
+(2) For the purposes of this section, “object” includes data stored in a computer disc, or by other electronic means, that is capable of conversion to images, writing or any other form of representation.
 
 (3) For the purposes of this section and section 293, an object shall be deemed not to be obscene if the sale, letting to hire, distribution, exhibition, circulation, import, export or conveyance of, or any other dealing in, the object is authorised by or under any written law.
 
-[51/2007]
-
-Exception.—This section does not extend to any book, pamphlet, writing, drawing or painting kept or used bona fide for religious purposes, or any representation sculptured, engraved, painted or otherwise represented on or in any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.
-
-[Indian PC 1860, s. 292]
+Exception.— This section does not extend to any book, pamphlet, writing, drawing or painting kept or used bona fide for religious purposes, or any representation sculptured, engraved, painted or otherwise represented on or in any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.

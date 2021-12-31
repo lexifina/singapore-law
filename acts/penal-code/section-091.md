@@ -1,12 +1,8 @@
 # 91. Acts which are offences independently of harm caused to the person consenting, are not within the exceptions in sections 87, 88 and 89
-Chapter: CHAPTER IV GENERAL EXCEPTIONS
+Chapter: CHAPTER 4 GENERAL EXCEPTIONS
 
 The exceptions in sections 87, 88 and 89 do not extend to acts which are offences independently of any harm which they may cause, or be intended to cause, or be known to be likely to cause, to the person giving the consent, or on whose behalf the consent is given.
 
-[32/80]
-
 Illustration
 
-Causing miscarriage, unless it is authorised under the Termination of Pregnancy Act (Cap. 324) is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore it is not an offence ‘‘by reason of such harm’’; and the consent of the woman, or of her guardian, to the causing of such miscarriage does not justify the act.
-
-[Indian PC 1860, s. 91]
+Causing miscarriage, unless it is authorised under the Termination of Pregnancy Act 1974 is an offence independently of any harm which it may cause or be intended to cause to the woman. Therefore it is not an offence “by reason of such harm”; and the consent of the woman, or of her guardian, to the causing of such miscarriage does not justify the act.

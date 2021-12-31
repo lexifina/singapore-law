@@ -1,5 +1,5 @@
 # 130D. Genocide
-Chapter: CHAPTER VIB GENOCIDE
+Chapter: CHAPTER 6B GENOCIDE
 
 A person commits genocide who, with intent to destroy, in whole or in part, a national, an ethnical, a racial or a religious group, commits any of the following acts:
 
@@ -12,5 +12,3 @@ A person commits genocide who, with intent to destroy, in whole or in part, a na
 (d) imposing measures intended to prevent births within the group; or
 
 (e) forcibly transferring children of the group to another group.
-
-[51/2007]

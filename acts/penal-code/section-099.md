@@ -1,18 +1,12 @@
-# 99. Acts against which there is no right of private defence
-Chapter: CHAPTER IV GENERAL EXCEPTIONS
+# 99. Right of private defence against act of person of unsound mind, etc.
+Chapter: CHAPTER 4A RIGHT OF PRIVATE DEFENCE General
 
-(1) There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act may not be strictly justifiable by law.
+When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind, or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
 
-(2) There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by the direction of a public servant acting in good faith under colour of his office, though that direction may not be strictly justifiable by law.
+Illustrations
 
-(3) There is no right of private defence in cases in which there is time to have recourse to the protection of the public authorities.
+(a) Z, under the influence of madness, attempts to kill A. Z is guilty of no offence. But A has the same right of private defence which he would have if Z were sane.
 
-Extent to which the right may be exercised
+(b) A enters, by night, a house which he is legally entitled to enter. Z, in good faith, taking A for a housebreaker, attacks A. Here Z, by attacking A under this misconception, commits no offence. But A has the same right of private defence against Z, which he would have if Z were not acting under that misconception.
 
-(4) The right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence.
-
-Explanation 1.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows, or has reason to believe, that the person doing the act is such public servant.
-
-Explanation 2.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unless he knows, or has reason to believe, that the person doing the act is acting by such direction; or unless such person states the authority under which he acts, or, if he has authority in writing, unless he produces such authority, if demanded.
-
-[Indian PC 1860, s. 99]
+[15/2019]

@@ -1,15 +1,15 @@
 # 390. Robbery
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
 (1) In all robbery there is either theft or extortion.
 
 When theft is robbery
 
-(2) Theft is ‘‘robbery’’ if, in order to commit theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death, or hurt, or wrongful restraint, or fear of instant death, or of instant hurt, or of instant wrongful restraint.
+(2) Theft is “robbery” if, in order to commit theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death, or hurt, or wrongful restraint, or fear of instant death, or of instant hurt, or of instant wrongful restraint.
 
 When extortion is robbery
 
-(3) Extortion is ‘‘robbery’’ if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.
+(3) Extortion is “robbery” if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.
 
 Explanation.—The offender is said to be present if he is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.
 
@@ -21,6 +21,4 @@ Illustrations
 
 (c) A meets Z and Z’s child on the high road. A takes the child, and threatens to fling it down a precipice, unless Z delivers his purse. Z, in consequence, delivers his purse. Here A has extorted the purse from Z, by causing Z to be in fear of instant hurt to the child, Z being present. A has therefore committed robbery on Z.
 
-(d) A obtains property from Z by saying, ‘‘Your child is in the hands of my gang, and will be put to death unless you send us $1,000.’’ This is extortion, and punishable as such; but it is not robbery, unless Z is put in fear of the instant death of his child.
-
-[Indian PC 1860, s. 390]
+(d) A obtains property from Z by saying, “Your child is in the hands of my gang, and will be put to death unless you send us $1,000.” This is extortion, and punishable as such; but it is not robbery, unless Z is put in fear of the instant death of his child.

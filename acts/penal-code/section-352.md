@@ -1,9 +1,7 @@
 # 352. Punishment for using criminal force otherwise than on grave and sudden provocation
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
 Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
-
-[51/2007]
 
 Explanation.—Grave and sudden provocation will not mitigate the punishment for an offence under this section, if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or
 
@@ -12,5 +10,3 @@ if the provocation is given by anything done in obedience to the law or by a pub
 if the provocation is given by anything done in the lawful exercise of the right of private defence.
 
 Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.
-
-[Indian PC 1860, s. 352]

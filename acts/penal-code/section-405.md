@@ -1,7 +1,7 @@
 # 405. Criminal breach of trust
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
-Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person to do so, commits ‘‘criminal breach of trust’’.
+Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or intentionally suffers any other person to do so, commits “criminal breach of trust”.
 
 Illustrations
 
@@ -17,6 +17,4 @@ Illustrations
 
 (f) A, a carrier, is entrusted by Z with property to be carried by land or by water. A dishonestly misappropriates the property. A has committed criminal breach of trust.
 
-[51/2007]
-
-[Indian PC 1860, s. 405]
+[15/2019]

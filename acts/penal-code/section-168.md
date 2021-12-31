@@ -1,6 +1,4 @@
 # 168. Public servant unlawfully engaging in trade
-Chapter: CHAPTER IX OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+Chapter: CHAPTER 9 OFFENCES BY OR RELATING TO PUBLIC SERVANTS
 
 Whoever, being a public servant, and being legally bound as such public servant not to engage in trade, engages in trade, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 168]

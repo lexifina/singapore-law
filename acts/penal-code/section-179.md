@@ -1,8 +1,10 @@
-# 179. Refusing to answer a public servant authorised to question
-Chapter: CHAPTER X CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
+# 179. Refusing to answer public servant authorised to question
+Chapter: CHAPTER 10 CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC SERVANTS
 
-Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant, in the exercise of the legal powers of such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+A person who, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of the person touching that subject by that public servant, in the exercise of the legal powers of such public servant, shall —
 
-[51/2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
 
-[Indian PC 1860, s. 179]
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[15/2019]

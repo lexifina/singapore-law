@@ -1,4 +1,4 @@
 # 1. Short title
-Chapter: CHAPTER I PRELIMINARY
+Chapter: CHAPTER 1 PRELIMINARY
 
-This Act shall be called the Penal Code.
+This Act is the Penal Code 1871.

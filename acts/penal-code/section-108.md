@@ -1,5 +1,5 @@
 # 108. Abettor
-Chapter: CHAPTER V ABETMENT
+Chapter: CHAPTER 5 ABETMENT
 
 A person abets an offence who abets either the commission of an offence, or the commission of an act which would be an offence, if committed by a person capable by law of committing an offence with the same intention or knowledge as that of the abettor.
 
@@ -19,13 +19,11 @@ Illustrations
 
 (a) A, with a guilty intention, abets a child or a person of unsound mind to commit an act which would be an offence if committed by a person capable by law of committing an offence, and having the same intention as A. Here A, whether the act is committed or not, is guilty of abetting an offence.
 
-(b) A, with the intention of murdering Z, instigates B, a child under 7 years of age, to do an act which causes Z’s death. B, in consequence of the abetment, does the act, and thereby causes Z’s death. Here, though B was not capable by law of committing an offence, A is liable to be punished in the same manner as if B had been capable by law of committing an offence and had committed murder, and he is therefore subject to the punishment of death.
+(b) A, with the intention of murdering Z, instigates B, a child below 7 years of age, to do an act which causes Z’s death. B, in consequence of the abetment, does the act, and thereby causes Z’s death. Here, though B was not capable by law of committing an offence, A is liable to be punished in the same manner as if B had been capable by law of committing an offence and had committed murder, and he is therefore subject to the punishment of death.
 
-(c) A instigates B to set fire to a dwelling-house. B, in consequence of the unsoundness of his mind, being incapable of knowing the nature of the act, or that he is doing what is wrong or contrary to law, sets fire to the house in consequence of A’s instigation. B has committed no offence, but A is guilty of abetting the offence of setting fire to a dwelling-house, and is liable to the punishment provided for that offence.
+(c) A instigates B to set fire to a dwelling house. B, in consequence of the unsoundness of his mind, being incapable of knowing the nature of the act, or that he is doing what is wrong or contrary to law, sets fire to the house in consequence of A’s instigation. B has committed no offence, but A is guilty of abetting the offence of setting fire to a dwelling house, and is liable to the punishment provided for that offence.
 
 (d) A, intending to cause a theft to be committed, instigates B to take property belonging to Z out of Z’s possession. A induces B to believe that the property belongs to A. B takes the property out of Z’s possession, in good faith believing it to be A’s property. B, acting under this misconception, does not take dishonestly, and therefore does not commit theft. But A is guilty of abetting theft, and is liable to the same punishment as if B had committed theft.
-
-[51/2007]
 
 Explanation 4.—The abetment of an offence being an offence, the abetment of such an abetment is also an offence.
 
@@ -38,5 +36,3 @@ Explanation 5.—It is not necessary to the commission of the offence of abetmen
 Illustration
 
 A concerts with B a plan for poisoning Z. It is agreed that A shall administer the poison. B then explains the plan to C, mentioning that a third person is to administer the poison, but without mentioning A’s name. C agrees to procure the poison, and procures and delivers it to B for the purpose of its being used in the manner explained. A administers the poison; Z dies in consequence. Here, though A and C have not conspired together, yet C has been engaged in the conspiracy in pursuance of which Z has been murdered. C has therefore committed the offence defined in this section, and is liable to the punishment for murder.
-
-[Indian PC 1860, s. 108]

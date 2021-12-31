@@ -1,5 +1,5 @@
 # 193. Punishment for false evidence
-Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+Chapter: CHAPTER 11 FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
 
 Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and whoever intentionally gives or fabricates false evidence in any other case, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
 
@@ -16,5 +16,3 @@ Explanation 3.—An investigation directed by a court of justice according to la
 Illustration
 
 A, in an inquiry before an officer deputed by a court of justice to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this inquiry is a stage of a judicial proceeding, A has given false evidence.
-
-[Indian PC 1860, s. 193]

@@ -1,12 +1,14 @@
-# 76. Act done by a person bound, or by mistake of fact believing himself bound by law
-Chapter: CHAPTER IV GENERAL EXCEPTIONS
+# 76. Act done by person bound, or justified by law
+Chapter: CHAPTER 4 GENERAL EXCEPTIONS
 
-Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
+Nothing is an offence which is done by a person who is bound by law to do it or justified by law in doing it.
+
+.
 
 Illustrations
 
 (a) A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law. A has committed no offence.
 
-(b) A, an officer of a court of justice, being ordered by that court to arrest Y, and, after due enquiry, believing Z to be Y, arrest Z. A has committed no offence.
+(b) A sees Z repeatedly stabbing Y with a knife on a public road. Y dies. A, in the exercise of the power which the law gives to all persons apprehending murderers in the act, forcefully seizes Z, in order to detain Z so that Z can be arrested by the police officers when they arrive. A has committed no offence.
 
-[Indian PC 1860, s. 76]
+[15/2019]

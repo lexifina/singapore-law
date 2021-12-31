@@ -1,14 +1,10 @@
-# 407. Criminal breach of trust by carrier, etc.
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+# 407. Criminal breach of trust of property entrusted for purposes of transportation or storage
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
-Whoever, being entrusted with property as a carrier, wharfinger
+Whoever, being entrusted with property for the purpose of transportation for hire or storage for rent or charge, commits criminal breach of trust in respect of such property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
 
-or warehouse-keeper, commits criminal breach of trust in respect of
+Illustration
 
-such property, shall be punished with imprisonment for a term which
+A carrier is an example of a person who is entrusted with property for the purpose of transportation for hire and a warehouse owner or warehouse operator is an example of a person who is entrusted with property for the purpose of storage for rent or charge.
 
-may extend to 15 years, and shall also be liable to fine.
-
-[51/2007]
-
-[Indian PC 1860, s. 407]
+[15/2019]

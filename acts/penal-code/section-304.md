@@ -1,14 +1,14 @@
 # 304. Punishment for culpable homicide not amounting to murder
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
-Whoever commits culpable homicide not amounting to murder shall be punished —
+Whoever commits culpable homicide not amounting to murder shall —
 
-(a) with imprisonment for life, or imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning, if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or
+(a) if the act by which death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death, be punished with —
 
-(b) with imprisonment for a term which may extend to 10 years, or with fine, or with caning, or with any combination of such punishments, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.
+(i) imprisonment for life, and shall also be liable to caning; or
 
-[62/73; 51/2007]
+(ii) imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning; or
 
-[Indian PC 1860, s. 304]
+(b) if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death, be punished with imprisonment for a term which may extend to 15 years, or with fine, or with caning, or with any combination of such punishments.
 
-*There is no section 303.
+[32/2012; 15/2019]

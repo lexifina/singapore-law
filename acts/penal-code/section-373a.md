@@ -1,5 +1,5 @@
 # 373A. Importing woman for purposes of prostitution, etc.
-Chapter: CHAPTER XVI OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
+Chapter: CHAPTER 16 OFFENCES AFFECTING THE HUMAN BODY Offences affecting life
 
 Whoever —
 

@@ -1,5 +1,5 @@
 # 378. Theft
-Chapter: CHAPTER XVII OFFENCES AGAINST PROPERTY Theft
+Chapter: CHAPTER 17 OFFENCES AGAINST PROPERTY Theft
 
 Whoever, intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit theft.
 
@@ -12,6 +12,8 @@ Explanation 3.—A person is said to cause a thing to move by removing an obstac
 Explanation 4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which in consequence of the motion so caused is moved by that animal.
 
 Explanation 5.—The consent mentioned in the definition may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.
+
+Explanation 6.—A person may move property which is intangible or incorporeal by transferring the property from one account to another account or transferring the interests in the property from one person to another person or by extinguishing the property.
 
 Illustrations
 
@@ -27,13 +29,9 @@ Here, if A’s intention be dishonestly to take the dog out of Z’s possession 
 
 (e) Z, going on a journey, entrusts his plate to A, the keeper of a warehouse, till Z shall return. A carries the plate to a goldsmith and sells it. Here the plate was not in Z’s possession. It could not, therefore, be taken out of Z’s possession, and A has not committed theft, though he may have committed criminal breach of trust.
 
-(f) A finds a ring belonging to Z on a table in the house which Z occupies.
+(f) A finds a ring belonging to Z on a table in the house which Z occupies. Here the ring is in Z’s possession, and if A dishonestly removes it, A commits theft.
 
-Here the ring is in Z’s possession, and if A dishonestly removes it, A commits theft.
-
-(g) A finds a ring lying on the high road, not in the possession of any person.
-
-A by taking it commits no theft, though he may commit criminal misappropriation of property.
+(g) A finds a ring lying on the high road, not in the possession of any person. A by taking it commits no theft, though he may commit criminal misappropriation of property.
 
 (h) A sees a ring belonging to Z lying on a table in Z’s house. Not venturing to misappropriate the ring immediately for fear of search and detection, A hides the ring in a place where it is highly improbable that it will ever be found by Z, with the intention of taking the ring from the hiding place and selling it when the loss is forgotten. Here A, at the time of first moving the ring, commits theft.
 
@@ -55,6 +53,6 @@ A, not owing to the jeweller any debt for which the jeweller might lawfully deta
 
 (p) A in good faith, believing property belonging to Z to be A’s own property, takes that property out of B’s possession. Here, as A does not take dishonestly, he does not commit theft.
 
-[51/2007]
+(q) A gains access to Z’s bank account and dishonestly transfers money from Z’s account to A’s own account without Z’s knowledge or consent. A commits theft.
 
-[Indian PC 1860, s. 378]
+[15/2019]

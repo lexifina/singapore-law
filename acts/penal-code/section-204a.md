@@ -1,10 +1,14 @@
 # 204A. Obstructing, preventing, perverting or defeating course of justice
-Chapter: CHAPTER XI FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+Chapter: CHAPTER 11 FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
 
-Whoever intentionally obstructs, prevents, perverts or defeats the course of justice shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+Whoever does an act that has a tendency to obstruct, prevent, pervert or defeat the course of justice —
 
-[51/2007]
+(a) knowing that the act is likely to obstruct, prevent, pervert or defeat the course of justice; or
 
-Explanation.—A mere warning to a witness that he may be prosecuted for perjury if he gives false evidence is insufficient to constitute an offence.
+(b) intending to obstruct, prevent, pervert or defeat the course of justice, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
 
-[51/2007]
+Explanation 1.—A mere warning to a witness that he may be prosecuted for perjury if he gives false evidence is insufficient to constitute an offence.
+
+Explanation 2.—A person sentenced to imprisonment who leaves or attempts to leave Singapore unlawfully to avoid serving that person’s sentence has done an act which has a tendency to obstruct and defeat the course of justice.
+
+[15/2019]
