@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Bretton Woods Agreements Act.
+This Act is the Bretton Woods Agreements Act 1966.

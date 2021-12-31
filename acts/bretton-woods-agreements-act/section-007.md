@@ -6,6 +6,4 @@
 
 (3) Except with the approval signified by resolution of Parliament, the subscription of Singapore shall not be increased so that it (including any increases) exceeds the sum of US$40 million.
 
-(4) The Minister for Finance with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the International Bank for Reconstruction and Development such non- interest-bearing and non-negotiable notes or other obligations as the Bank may, under section 12 of Article V of the Bank Agreement, determine to accept in place of the currency of Singapore.
-
-[11/91]
+(4) The Minister for Finance with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the International Bank for Reconstruction and Development such non-interest-bearing and non-negotiable notes or other obligations as the Bank may, under section 12 of Article Vof the Bank Agreement, determine to accept in place of the currency of Singapore.

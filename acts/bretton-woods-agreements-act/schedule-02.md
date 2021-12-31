@@ -14,8 +14,6 @@ Now, Therefore, the Board of Governors hereby RESOLVES:
 
 That the terms and conditions upon which Singapore shall be admitted to membership in the Bank shall be as follows:
 
-SECOND SCHEDULE — continued
-
 1. Definitions: As used in this Resolution —
 
 (a) “Bank” means International Bank for Reconstruction and Development;
@@ -28,11 +26,15 @@ SECOND SCHEDULE — continued
 
 (e) “member” means member of the Bank.
 
+SECOND SCHEDULE — continued
+
 2. Subscription: By accepting membership in the Bank, Singapore shall subscribe to 320 shares of the capital stock of the Bank at the par value of $100,000 per share.
 
 3. Membership in the Fund: Before accepting membership in the Bank, Singapore shall accept membership in and become a member of the International Monetary Fund.
 
-4. Payment of Subscription: (a) Before accepting membership in the Bank, Singapore shall pay to the Bank on account of the subscription price of one-half of such shares —
+4. Payment of Subscription:
+
+(a) Before accepting membership in the Bank, Singapore shall pay to the Bank on account of the subscription price of one-half of such shares —
 
 (i) gold or United States dollars equal to 2% thereof; and
 
@@ -48,11 +50,11 @@ SECOND SCHEDULE — continued
 
 (b) made the payments called for by paragraph 4 of this Resolution;
 
-SECOND SCHEDULE — continued
-
 (c) furnished the representation, and such information as may have been requested, pursuant to paragraph 5 of this Resolution;
 
 (d) deposited with the Government of the United States of America an instrument stating that it has accepted in accordance with its law the Articles and all the terms and conditions prescribed in this Resolution, and that it has taken all steps necessary to enable it to carry out all its obligations under the Articles and this Resolution;
+
+SECOND SCHEDULE — continued
 
 (e) signed the original copy of the Articles held in the Archives of the Government of the United States of America.
 

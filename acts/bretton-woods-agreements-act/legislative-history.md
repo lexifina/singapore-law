@@ -1,5 +1,17 @@
-# LEGISLATIVE HISTORY BRETTON WOODS AGREEMENTS ACT (CHAPTER 27)
+# LEGISLATIVE HISTORY BRETTON WOODS AGREEMENTS ACT 1966
 
-This Legislative History is provided for the convenience of users of the Bretton Woods Agreements Act. It is not part of the Act.
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 17 of 1966 — Bretton Woods Agreements Act 1966 Date of First, Second and Third : 22 June 1966 Readings Date of commencement : 4 July 1966 2. 1985 Revised Edition — Bretton Woods Agreements Act (Chapter 27) Date of operation : 30 March 1987
+1. M. Ordinance 75 of 1957 — Bretton Woods Agreements Ordinance, 1957 Commencement : 30 December 1957 Application : 3 December 1964 Note: This Ordinance was extended to Singapore with modifications by the Modification of Laws (Bretton Woods Agreements and Peace Treaties Orders) (Extension) Order, 1964 (L.N. 419/1964 (G.N. Sp.
+
+No. S 213/1964)) on 3 December 1964.
+
+2. L.N. 419/1964 (G.N. Sp. No. S 213/1964) — Modification of Laws (Bretton Woods Agreements and Peace Treaties Orders) (Extension) Order, 1964 Commencement : 3 December 1964 Note: This Order extended the Federation of Malaya Bretton Woods Agreements Ordinance, 1957 (M. Ordinance 75 of 1957) and the Bretton Woods Agreements Proclamation, 1945 (British Military Administration No. 29 of 1945) of the Malay Peninsula to Singapore.
+
+3. Act 17 of 1966 — Bretton Woods Agreements Act, 1966 Bill : Information not available First, Second and Third : 22 June 1966 Readings Commencement : 4 July 1966 4. Act 48 of 1970 — Statute Law Revision Act, 1970 Bill : 36/1970 First Reading : 2 September 1970 Second Reading : 4 November 1970 Notice of Amendments : 4 November 1970 Third Reading : 4 November 1970 Commencement : 11 December 1970 Note: This Act repealed the Federation of Malaya Bretton Woods Agreements Ordinance, 1957 (M. Ordinance 75 of 1957) and the Bretton Woods Agreements Proclamation, 1945 (British Military Administration No. 29 of 1945) of the Malay Peninsula.
+
+5. 1970 Revised Edition — Bretton Woods Agreements Act (Chapter 61) Operation : 1 April 1971 6. Act 4 of 1980 — Bretton Woods Agreements (Amendment) Act, 1980 Bill : 39/1979 First Reading : 11 December 1979 Second and Third Readings : 26 February 1980 Commencement : 3 April 1980 7. Act 13 of 1981 — Bretton Woods Agreements (Amendment) Act, 1981 Bill : 12/1981 First Reading : 15 June 1981 Second and Third Readings : 21 July 1981 Commencement : 7 August 1981 8. 1985 Revised Edition — Bretton Woods Agreements Act (Chapter 27) Operation : 30 March 1987 9. Act 11 of 1991 — Statutes (Miscellaneous Amendments) Act 1991 (Amendments made by section 2 read with item (4) of the Schedule to the above Act) Bill : 4/1991 First Reading : 3 January 1991 Second Reading : 14 January 1991 Notice of Amendments : 14 January 1991 Third Reading : 14 January 1991 Commencement : 30 November 1991 (section 2 read with item (4) of the Schedule) 10. 2012 Revised Edition — Bretton Woods Agreements Act (Chapter 27) Operation : 31 March 2012 11. Act 18 of 2016 — Bretton Woods Agreements (Amendment) Act 2016 Bill : 18/2016 First Reading : 9 May 2016 Second and Third Readings : 11 July 2016 Commencement : 7 October 2016
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
