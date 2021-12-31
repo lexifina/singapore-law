@@ -1,10 +1,14 @@
-# 56. Proceedings before Board of Review and Supreme Court
-Part: PART VIII BOARD OF REVIEW
+# 56. Proceedings before Board
+Part: PART 8 BOARD OF REVIEW
 
-(1) Subject to subsections (2) and (3), all proceedings before the Board and in appeals to, or in cases stated for the opinion of, the High Court and in appeals from decisions of the High Court under section 54 shall be heard in camera.
+(1) Subject to subsections (2) and (3), all proceedings before the Board must be heard in camera.
 
-(2) Where the Comptroller or the appellant at the hearing before the Board (referred to in this section as the appellant) applies to the Board, the High Court or the Court of Appeal, as the case may be, that the proceedings be heard by way of a hearing open to the public, the Board or the Court may direct that the proceedings be so heard, notwithstanding any objection from the other party to the proceedings.
+[33/2019]
 
-(3) Where in the opinion of the Board, the High Court or the Court of Appeal any proceedings heard in camera ought to be reported, the Board, the High Court or the Court of Appeal may publish or authorise the publication of the facts of the case, the arguments and the decision relating to these proceedings without disclosing the identity of the appellant concerned.
+(2) Where the Comptroller or the appellant at the hearing before the Board (called in this section the appellant) applies to the Board that the proceedings be heard by way of a hearing open to the public, the Board may direct that the proceedings be so heard, despite any objection from the other party to the proceedings.
 
-[Income Tax 1992 Ed., s. 83]
+[33/2019]
+
+(3) Where in the opinion of the Board any proceedings heard in camera ought to be reported, the Board may publish or authorise the publication of the facts of the case, the arguments and the decision relating to these proceedings without disclosing the name of the appellant concerned.
+
+[33/2019]

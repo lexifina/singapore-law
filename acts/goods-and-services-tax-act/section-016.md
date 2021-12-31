@@ -1,12 +1,16 @@
 # 16. Rate of tax
-Part: PART III IMPOSITION AND EXTENT OF TAX
+Part: PART 3 IMPOSITION AND EXTENT OF TAX
 
-Tax shall be charged at the rate of 4% for the year 2003 and 5% for the year 2004 and subsequent years, and shall be charged on —
+Tax is charged at the rate of —
 
-(a) the supply of goods or services, by reference to the value of the supply as determined under this Act; and
+(a) 4% for the period from 1 January 2003 to 31 December 2003 (both dates inclusive);
 
-(b) the importation of goods, by reference to the value of the goods as determined under this Act.
+(b) 5% for the period from 1 January 2004 to 30 June 2007 (both dates inclusive); and
 
-[UK VAT Act 1983, s. 9 (1)]
+(c) 7% from and including 1 July 2007, and is charged on —
 
-[43/2002]
+(d) the supply of goods or services, by reference to the value of the supply as determined under this Act; and
+
+(e) the importation of goods, by reference to the value of the goods as determined under this Act.
+
+[28/2007]

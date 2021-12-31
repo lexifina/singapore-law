@@ -1,10 +1,22 @@
-# 29. Insurance indemnity payments
-Part: PART VI SPECIAL CASES
+# 29. Input tax deemed incurred in relation to insurance cash payments
+Part: PART 6 SPECIAL CASES
 
-The Minister may by regulations provide —
+(1) The Minister may by regulations provide —
 
-(a) that where a taxable person receives any indemnity payment pursuant to a contract of insurance, that payment shall, to the extent that it relates to a loss incurred in the course of making a taxable supply, be treated as consideration received for a supply of services performed on the day of receipt of that indemnity payment by that taxable person in the course or furtherance of that person’s business; and
+(a) that where the premium payable to an insurer under any contract of insurance is subject to tax at a rate specified under section 16, the insurer is deemed to have incurred input tax on any cash payment made by the insurer upon the occurrence of an insured event and which is obligatory under that contract of insurance (called in this section deemed input tax), except in such situation as the Minister may decide otherwise for the protection of revenue;
 
-(b) for the calculation of the deduction of an amount equal to the prescribed fraction of any payment made by a taxable person to indemnify another person pursuant to any contract of insurance from any output tax that is due from the taxable person and the manner in which such deductions is to be allowed.
+(b) that any regulations made under paragraph (a) apply only where the contract of insurance is taken out by such person as may be prescribed;
 
-[NZ GST Act 1985, ss. 5 (13) and 20 (3) (d)]
+(c) for the determination of the amount of deemed input tax referred to in paragraph (a) and the period in which the deemed input tax is deemed to have been incurred;
+
+(d) for the adjustment of the amount of deemed input tax referred to in paragraph (a) where, after any cash payment referred to in that paragraph has been made, the insurer recovers such payment or any part thereof from any person (other than the insurer’s re-insurer under a re-insurance contract);
+
+(e) for the determination of the amount of the adjustment referred to in paragraph (d), and the period in which such adjustment is to be made; and
+
+(f) for such incidental and supplementary matters as appear to the Minister necessary or expedient.
+
+[28/2007]
+
+(2) Where input tax is deemed to have been incurred under any regulations made under subsection (1), such deemed input tax is, for the purposes of this Act, treated as input tax within the meaning of section 19.
+
+[28/2007]

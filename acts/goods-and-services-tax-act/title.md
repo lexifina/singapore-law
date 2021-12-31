@@ -1,29 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-GOODS AND SERVICES TAX ACT
-(CHAPTER 117A)
-Act
-31 of 1993
-1994 Ed. Cap. 117A 1997 Ed. Cap. 117A 2001 Ed. Cap. 117A
-Amended by Amended by Amended by
-7 of 1996 26 of 1999 43 of 2002
-25 of 1996 42 of 1999 4 of 2003
-S 107/94 31 of 2000 19 of 2003
-33 of 2000 16 of 2004
-S 204/2000 47 of 2004
-50 of 2004
-S 649/2002
-S 205/2003
-REVISED EDITION 2005
-(31st July 2005)
+GOODS AND SERVICES TAX ACT 1993
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2005
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the imposition and collection of goods and services tax and for matters connected therewith.
 
-[26th November 1993]
+[26 November 1993: Except paragraph (3) of the Fifth Schedule;
+
+1 April 1994: Paragraph (3) of the Fifth Schedule]

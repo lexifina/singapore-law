@@ -1,54 +1,104 @@
-# 37. Goods subject to a warehousing regime
-Part: PART VI SPECIAL CASES
+# 37. Goods under customs control
+Part: PART 6 SPECIAL CASES
 
-(1) Where imported goods subject to a duty (whether customs or excise duty or both customs duty and excise duty) or on which tax would apart from this section be chargeable are supplied while they are subject to a warehousing regime and before the duty point, then —
+(1) Subject to subsection (4), where goods from outside Singapore enter Singapore under customs control and one or more supplies of those goods involve —
 
-(a) if there is more than one such supply, any but the last such supply shall, except where the contrary intention appears, be disregarded for the purposes of this Act;
+(a) the goods being removed from a place under such customs control; or
 
-(b) the supply or, if more than one, the last such supply shall be treated for the purposes of this Act as taking place at the duty point and the value of the supply shall be treated as including the duty, if any; and
+(b) the goods being made available while under such customs control, then (except for the purposes of section 18(1)(b)) all such supplies of the goods are disregarded for the purposes of this Act.
 
-(c) the tax on the supply shall be payable at the duty point, together with the duty, if any, by the person who is required to pay the duty or, if no duty is payable, by the person by whom the goods are removed; except as otherwise provided by regulations under this section.
+[20/2010]
 
-(2) Where goods produced or manufactured in Singapore subject to excise duty or such goods mixed with imported goods subject to a duty (whether customs or excise duty or both customs duty and excise duty) are supplied while they are subject to a warehousing regime and before the duty point, then —
+(2) Subject to subsection (4), where —
 
-(a) if there is more than one such supply, any but the last such supply shall, except where the contrary intention appears, be disregarded for the purposes of this Act;
+(a) goods are produced or manufactured while under customs control in the customs territory in a place specified in a licence granted under section 63(1) of the Customs Act 1960 or such produced or manufactured goods are mixed, while under customs control in the customs territory, with imported goods; and
 
-(b) the supply or, if more than one, the last such supply shall be treated for the purposes of this Act as taking place at the duty point and the value of the supply shall be treated as including the duty; and
+(b) one or more supplies of the produced or manufactured goods, or those produced or manufactured goods mixed with imported goods, involve —
 
-(c) the tax on the supply shall be payable at the duty point, together with the duty, by the person who is required to pay the duty, except as otherwise provided by regulations made under this section.
+(i) the goods being removed from a place under such customs control; or
 
-(2A) Notwithstanding subsection (2), if the goods are permitted to be removed from a warehousing regime without payment of the duty, the supply (or last supply) shall be treated as taking place when the goods are so removed, the value of the supply shall not be treated as including the duty and the tax on the supply shall be payable by the person by whom the goods are removed.
+(ii) the goods being made available while under such customs control, then —
 
-(3) The Minister may by regulations make provision —
+(c) all such supplies other than the last supply are, except where the contrary intention appears, disregarded for the purposes of this Act; and
 
-(a) for enabling goods which are supplied as mentioned in subsection (1) or (2), and are so supplied to a taxable person for the purpose of a business carried on by him, to be removed from a warehousing regime without payment of the tax on the supply;
+(d) the following apply in relation to the last supply:
 
-(b) for that tax to be accounted for together with the tax chargeable on the supply of goods or services by him; and
+(i) the supply is treated for the purposes of this Act as taking place at the time the goods are removed from such customs control;
 
-(c) for the licensing of warehouses or other premises for the purposes of this section and such regulations may provide for the imposition of conditions thereon and the payment of any prescribed fee.
+(ii) the value of the supply is treated as including any customs duty or excise duty to which the goods are subject;
 
-(4) No person shall remove from a warehousing regime any goods subject to a duty (whether customs or excise duty or both customs duty and excise duty) or on which tax would apart from this section be chargeable except —
+(iii) the tax on the supply is payable at the duty point —
 
-(a) after payment of the duty or tax payable or chargeable thereon; or
+(A) if the goods are subject to customs duty or excise duty, by the person required to pay any such duty, unless otherwise prescribed; and
 
-(b) in accordance with such conditions as the Comptroller may impose.
+(B) if the goods are not subject to customs duty or excise duty, by the person by whom the goods are removed.
 
-(5) In the application of the Customs Act (Cap. 70), by virtue of section 26, to any goods which are not subject to either customs or excise duty, such goods shall be construed as being under ‘‘customs control’’ within the meaning of section 3 (2) of the Customs Act if they are subject to a warehousing regime under this section; and shall be construed as removed from customs control if they are removed from a warehousing regime.
+[20/2010]
 
-(6) In this section —
+(3) Subject to subsection (4), where —
 
-‘‘duty point’’, in relation to any goods, means —
+(a) imported goods that are under customs control (called in this section the firstmentioned goods) are used to produce or manufacture other goods in the customs territory in a place specified in a licence granted under section 63(1) of the Customs Act 1960; and
 
-(a) in the case of goods which are subject to customs or excise duty or both customs duty and excise duty, the time when the requirement to pay the customs or excise duty takes effect, whichever is the earlier; or
+(b) no supplies of the other goods involve —
 
-(b) in the case of goods which are not subject to either customs or excise duty, the time when the goods are removed from the warehousing regime;
+(i) the other goods being removed from a place under such customs control; or
 
-‘‘warehouse’’ means any warehouse or factory warehouse licensed under the Customs Act or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3) (c) where goods may be stored without payment of any one or more of the following:
+(ii) the other goods being made available while under such customs control, then, when the other goods are removed from customs control —
 
-(a) customs or excise duty;
+(c) the firstmentioned goods are treated as having been removed from customs control at the time the other goods are produced or manufactured; and
 
-(b) goods and services tax on the importation of the goods into Singapore.
+(d) the tax payable on the importation of the firstmentioned goods is payable at the duty point pertaining to the other goods —
 
-(7) A reference in this section to goods being subject to a warehousing regime shall be a reference to goods being kept in a warehouse or within the free trade zone or being transported between warehouses without the payment of any duty or tax; and a reference to the removal of goods from a warehousing regime shall be construed accordingly.
+(i) if the other goods are subject to customs duty or excise duty, by the person who is required to pay the duty; and
 
-[UK VAT Act 1983, s. 35]
+(ii) if the other goods are not subject to customs duty or excise duty, by the person by whom the other goods are removed, unless otherwise prescribed.
+
+[20/2010]
+
+(4) Despite subsections (1), (2) and (3), where —
+
+(a) the goods referred to in subsections (1), (2)(a) and (3)(a) are brought under customs control into the customs territory and are thereafter —
+
+(i) brought to any place from which they may not be removed except with the permission of the proper officer of customs (and by virtue of which the goods continue to remain under customs control); and
+
+(ii) brought to that place for the purpose of the repair of, maintenance of or performance of any other similar service on the goods, or for the purpose of an auction, an exhibition or any other similar event involving the display of goods;
+
+(b) one or more supplies of the goods are made while they are in that place; and
+
+(c) the goods supplied are then removed directly from that place so as to be removed from customs control, those supplies are not disregarded for the purpose of this Act and are chargeable to tax in accordance with the provisions of this Act (other than this section).
+
+[20/2010; 19/2012]
+
+(5) The Minister may by regulations —
+
+(a) provide that the goods referred to in subsection (1), (2)(a) or (3)(a) —
+
+(i) may be removed from customs control without payment of the tax in such circumstances as may be prescribed; and
+
+(ii) for such tax to be accounted for together with the tax chargeable on the supply of goods or services;
+
+(b) provide for the licensing of warehouses or other places for the purposes of this section and such regulations may provide for the imposition of conditions thereon and the payment of any prescribed fee; and
+
+(c) prescribe anything which may be prescribed under this section.
+
+[20/2010]
+
+(6) In the application of the Customs Act 1960, by virtue of section 26, to any goods which are not subject to either customs duty or excise duty, such goods are construed as being under “customs control” within the meaning of section 3(2) of the Customs Act 1960 —
+
+(a) as if they are dutiable goods; and
+
+(b) as if the reference to a licensed warehouse in section 3(2) of the Customs Act 1960 includes a warehouse or other place licensed under this section.
+
+[20/2010]
+
+(7) In this section —
+
+“customs territory” and “proper officer of customs” have the meanings given by section 3(1) of the Customs Act 1960;
+
+“duty point”, in relation to any goods, means —
+
+(a) in the case of goods which are subject to customs duty or excise duty or both customs duty and excise duty, the time when the customs duty or excise duty takes effect, whichever is the earlier; or
+
+(b) in the case of goods which are not subject to either customs duty or excise duty, the time when the goods are removed from customs control.
+
+[20/2010]

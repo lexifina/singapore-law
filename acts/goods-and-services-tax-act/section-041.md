@@ -1,17 +1,37 @@
-# 41. Accounting for and payment of tax
-Part: PART VII ACCOUNTING AND ASSESSMENTS
+# 41. Accounting for and payment of tax, etc.
+Part: PART 7 ACCOUNTING AND ASSESSMENTS
 
 (1) The Minister may —
 
-(a) make regulations to require the keeping of accounts, the making of returns and the payment of tax in such form and manner and within such time as may be specified in the regulations; and
+(a) make regulations to require the keeping of accounts, the making of returns and the payment of tax in such form and manner and within such time as may be specified in the regulations;
 
-(b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied.
+(b) require any taxable person supplying goods or services to any other person to provide the other person with an invoice (called in this section a tax invoice if it is required by the regulations to be provided to a taxable person) containing statements of such particulars as may be specified in the regulations, including but not limited to any of the following:
 
-(2) Regulations made under this section may, where they require a tax invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
+(i) the particulars of the supply;
+
+(ii) the tax chargeable on it;
+
+(iii) the person by whom the goods or services are supplied;
+
+(iv) the person to whom the goods or services are supplied;
+
+(c) provide for the circumstances in which a document by a taxable person purporting to be a tax invoice in respect of a supply of goods or services to the taxable person by another taxable person, is treated as a tax invoice required under paragraph (b) to be provided by the taxable person supplying the goods or services; and
+
+(d) require any taxable person making any exempt supply to another person to provide that other person, within such time as may be prescribed or such time as the Comptroller may allow, with an invoice containing such particulars as may be so specified, including but not limited to particulars of the supply and the persons by and to whom the supply is made.
+
+[20/2010; 19/2012; 37/2017]
+
+(1A) Without affecting paragraph (b) of subsection (1), regulations made under that paragraph may provide that the Comptroller may, for the protection of revenue, direct any taxable person in writing to include in any invoice (whether or not a tax invoice) provided by the taxable person, statements of particulars that are required by the Comptroller.
+
+[37/2017]
+
+(2) Regulations made under this section may, where they require an invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
+
+[37/2017]
 
 (3) Regulations made under this section may make special provision for such taxable supplies by retailers of any goods or of any description of goods or of services or any description of services as may be determined by or under the regulations and, in particular —
 
-(a) for permitting the value which is to be taken as the value of the supplies in any prescribed accounting period or part thereof to be determined, subject to any limitations or restrictions, by such method or one of such methods as may have been described in any notice in writing issued by the Comptroller in pursuance of the regulations and not withdrawn by a further notice in writing or as may be agreed with the Comptroller;
+(a) for permitting the value which is to be taken as the value of the supplies in any prescribed accounting period or part thereof to be determined, subject to any limitations or restrictions, by such method or one of such methods as may have been described in any written notice issued by the Comptroller pursuant to the regulations and not withdrawn by a further written notice or as may be agreed with the Comptroller;
 
 (b) for determining the proportion of the value of the supplies which is to be attributed to any description of supplies; and
 
@@ -19,15 +39,21 @@ Part: PART VII ACCOUNTING AND ASSESSMENTS
 
 (4) Regulations made under this section may make provision —
 
-(a) whereby, in such cases and subject to such conditions as may be determined by or under the regulations, tax in respect of a supply may be accounted for and paid by reference to the time when consideration for the supply is received; and
+(a) whereby, in such cases and subject to such conditions as may be determined by or under the regulations, tax in respect of a supply may be accounted for and paid by reference to the time when consideration for the supply is received; and any such regulations may make such modification of this Act (including in particular, but without limiting the power, the provisions as to the time when, and the circumstances in which, credit for input tax is to be allowed) as appear to the Minister necessary or expedient;
 
-any such regulations may make such modification of this Act (including in particular, but without prejudice to the generality of the power, the provisions as to the time when, and the circumstances in which, credit for input tax is to be allowed) as appear to the Minister necessary or expedient;
+(b) for the keeping of accounts in electronic form in a computer;
 
-(b) for the keeping of accounts in electronic form in a computer, and for —
+(ba) for the making and submission of returns through the electronic service, and for —
 
-(i) the making and submission of returns; and
+(i) requiring any prescribed class of persons to make and submit prescribed types of returns through the electronic service, except —
 
-(ii) the making of declarations to verify such returns, through the electronic service;
+(A) in such exceptional circumstances as the Comptroller may determine; or
+
+(B) in such other circumstances as may be prescribed; and
+
+(ii) any procedure relating to the making and submission of returns through the electronic service;
+
+(bb) for the making of declarations to verify returns through the electronic service;
 
 (c) for treating tax chargeable in one prescribed accounting period as chargeable in another such period;
 
@@ -41,12 +67,20 @@ and
 
 (g) for requiring taxable persons to display or indicate such information, sign or document relating to the price of goods or services, the registration of the taxable person or the tax as may be specified and in such manner as may be provided in the regulations.
 
-[50/2004]
+[38/2005]
 
 (5) Regulations made under this section may make different provisions for different circumstances and may provide for different dates as the commencement of prescribed accounting periods applicable to different persons.
 
 (6) The provisions made by regulations under this section for cases where goods are treated as supplied by a taxable person by virtue of paragraph 6 of the Second Schedule may require the tax chargeable on the supply to be accounted for and paid, and particulars thereof to be provided, by such other person and in such manner as may be specified by the regulations.
 
-(7) Where, at the end of a prescribed accounting period, the amount of tax due from any person or the amount due to any person under section 19 (5) would be less than $5 or such other amount as the Minister may by order prescribe, that amount shall be treated as nil.
+(7) At the end of a prescribed accounting period —
 
-[UK VAT Act 1983, Sch. 7 Para. 2]
+(a) the amount of tax due from any person that is the person’s output tax after deduction of input tax allowable under section 20; or
+
+(b) the amount due to any person under section 19(5), as the case may be, is zero if the amount is less than $5 or such other amount as the Minister may by order prescribe.
+
+[20/2010]
+
+(8) At the end of a prescribed accounting period, the amount of tax due from a person that is tax accounted for by the person pursuant to regulations made under section 27A is nil if it is less than $5 or such other amount as the Minister may by order prescribe.
+
+[20/2010]

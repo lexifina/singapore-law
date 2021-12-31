@@ -1,5 +1,5 @@
 # 57. Decision to be final and conclusive
-Part: PART VIII BOARD OF REVIEW
+Part: PART 8 BOARD OF REVIEW
 
 Except as expressly provided in this Act —
 
@@ -9,6 +9,4 @@ Except as expressly provided in this Act —
 
 (c) where an agreement (whether in writing or otherwise) has been reached on the decision made between the Comptroller and the person who lodged the notice and the Comptroller has in consequence varied the decision in writing; or
 
-(d) where the decision has been determined on appeal, the decision as made, varied in consequence of the agreement or determined on appeal shall be final and conclusive for the purposes of this Act.
-
-[Income Tax 1992 Ed., s. 84]
+(d) where the decision has been determined on appeal, the decision as made, varied in consequence of the agreement or determined on appeal is final and conclusive for the purposes of this Act.

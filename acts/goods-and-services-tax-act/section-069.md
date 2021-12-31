@@ -1,6 +1,6 @@
-# 69. Sanction for prosecution
-Part: PART X PROCEEDINGS
+# 69. Consent of Public Prosecutor
+Part: PART 10 PROCEEDINGS
 
-No prosecution shall be commenced in respect of an offence under section 6, 62, 63, 65 or 66 except at the instance, or with the sanction, of the Public Prosecutor.
+No prosecution may be commenced in respect of an offence under section 6, 62, 63, 65 or 66 except with the consent of the Public Prosecutor.
 
-[Income Tax 1992 Ed., s. 99]
+[15/2010]

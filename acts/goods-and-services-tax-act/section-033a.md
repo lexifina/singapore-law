@@ -1,11 +1,11 @@
 # 33A. Repayment of tax to persons in business overseas
-Part: PART VI SPECIAL CASES
+Part: PART 6 SPECIAL CASES
 
-(1) The Minister may by regulations provide for the repayment, to persons carrying on business in countries other than Singapore, of tax on the importation of goods by them which would be their input tax if they had been taxable persons in Singapore.
+(1) The Minister may by regulations provide for the repayment, to persons carrying on business in countries other than Singapore, not being any registered (Seventh Schedule — full) person, of tax on the importation of goods by them which would be their input tax if they had been taxable persons in Singapore.
 
-[25/96]
+[52/2018]
 
-(2) Repayment shall be made in such cases only, and subject to such conditions as the regulations may prescribe or as the Comptroller may impose (either generally or in particular cases).
+(2) Repayment must be made in such cases only, and subject to such conditions as the regulations may prescribe or as the Comptroller may impose (either generally or in particular cases).
 
 (3) Regulations made under this section may provide —
 
@@ -18,7 +18,3 @@ Part: PART VI SPECIAL CASES
 (ii) for treating claims as if they were returns under this Act and repayments as if they were repayments of input tax; and
 
 (c) for generally regulating the methods by which the amount of any repayment is to be determined and the repayment is to be made.
-
-[UK VAT Act 1994, s. 39]
-
-[25/96]

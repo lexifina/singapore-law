@@ -1,44 +1,38 @@
-# 87. Service of notices
-Part: PART XII GENERAL PROVISIONS
+# 87. Service of notices, etc.
+Part: PART 12 GENERAL PROVISIONS
 
-(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, every notice, direction, order or document required or authorised by this Act to be served on any person may be served —
+(1) Except where it is provided by this Act that service must be effected either personally or by registered post, every notice, direction, order, permit, receipt or other document required or authorised by this Act to be served on any person may be served —
 
-(a) by delivering it to the person or to some adult member or employee of his family at his last known place of residence;
+(a) by delivering it to the person or to some adult member or employee of the person’s family at the person’s last known place of residence;
 
-(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him;
+(b) by leaving it at the person’s usual or last known place of residence or business in an envelope addressed to the person;
 
-(c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business; or
+(c) by sending it by ordinary post addressed to the person at the person’s usual or last known place of residence or business; or
 
-(d) where the person has given his consent for it to be served on him through the electronic service, by transmitting an electronic record of it to his account with the electronic service.
+(d) through the electronic service in accordance with regulations made under section 42(13) and (13A), by transmitting an electronic record of it to the person’s account with the electronic service.
 
-[25/96; 50/2004]
+[37/2017]
 
-(2) Where a notice is served by ordinary or registered post, it shall be deemed to have been duly served at the time the notice would have been received in the ordinary course of post if the notice is addressed —
+(2) Where a notice is served by ordinary or registered post, it is deemed to have been duly served at the time the notice would have been received in the ordinary course of post if the notice is addressed —
 
 (a) in the case of a company incorporated in Singapore, to the registered office of the company;
 
-(b) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act (Cap. 50) at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated;
+(b) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act 1967 at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated; and
 
 (c) in the case of an individual, partnership or a body of persons, to the last known business or private address of such individual, partnership or body of persons.
 
-(3) Where any notice is served by registered post in accordance with subsection (2), in proving service of the notice, it shall be sufficient to prove that the envelope containing the notice was properly addressed, stamped and posted by registered post.
+(3) Where any notice is served by registered post in accordance with subsection (2), in proving service of the notice, it is sufficient to prove that the envelope containing the notice was properly addressed, stamped and posted by registered post.
 
-(3A) Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when an electronic record of the notice enters his account with the electronic service.
+(3A) Where any notice, direction, order, permit, receipt or other document is served on any person through the electronic service under subsection (1)(d), the notice, direction, order, permit, receipt or other document is taken to have been served at the time when an electronic record of it enters the person’s account with the electronic service.
 
-[50/2004]
+[37/2017]
 
-(4) Subject to subsection (7), every notice to be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf.
+(4) Subject to subsection (7), every notice to be given by the Comptroller under this Act must be signed by the Comptroller or by some person or persons from time to time authorised by the Comptroller in that behalf.
 
-[50/2004]
+(5) Every such notice is valid if the signature or an official facsimile thereof of the Comptroller or of such person or persons is duly printed or written thereon.
 
-(5) Every such notice shall be valid if the signature or an official facsimile thereof of the Comptroller or of such person or persons is duly printed or written thereon.
+(6) Subject to subsection (7), any notice under this Act requiring the attendance of any person or witness before the Comptroller must be signed by the Comptroller or by a person duly authorised by the Comptroller.
 
-(6) Subject to subsection (7), any notice under this Act requiring the attendance of any person or witness before the Comptroller shall be signed by the Comptroller or by a person duly authorised by him.
+(7) Where any notice mentioned in subsection (4) or (6) is served on any person through the electronic service under subsection (1)(d), the notice need not be signed if it is served on the person by transmitting an electronic record of the notice to the person’s account with the electronic service.
 
-[50/2004]
-
-(7) Where a person has given his consent for any notice referred to in subsection (4) or (6) to be served on him through the electronic service, the notice need not be signed if it is served on him by transmitting an electronic record of the notice to his account with the electronic service.
-
-[Income Tax 1992 Ed., s. 8]
-
-[50/2004]
+[37/2017]

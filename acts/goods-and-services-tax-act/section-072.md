@@ -1,5 +1,5 @@
 # 72. Evidence by certificate, etc.
-Part: PART X PROCEEDINGS
+Part: PART 10 PROCEEDINGS
 
 (1) A certificate purporting to be under the hand of the Comptroller —
 
@@ -11,8 +11,6 @@ Part: PART X PROCEEDINGS
 
 (d) that any tax shown as due in any return or assessment made under this Act has not been paid; or
 
-(e) that any penalty and the amount thereof shown as due from the person named therein, shall be sufficient evidence of that fact until the contrary is proved.
+(e) that any penalty and the amount thereof shown as due from the person named therein, is sufficient evidence of that fact until the contrary is proved.
 
-(2) Any document purporting to be a certificate under subsection (1) shall, until the contrary is proved, be deemed to be such a certificate.
-
-[UK VAT Act 1983, Sch. 7 Para. 11 (1) and (3)]
+(2) Any document purporting to be a certificate under subsection (1) is, until the contrary is proved, deemed to be such a certificate.
