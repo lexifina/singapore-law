@@ -1,10 +1,28 @@
-# 23. Power to borrow
-Part: PART V FINANCIAL PROVISIONS
+# 23. Borrowing power
+Part: PART 5 FINANCIAL PROVISIONS
 
-For the discharge of its functions or duties under this Act or any other written law, the Agency may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+(1) The Agency cannot raise loans for the performance of its functions under this Act or any other Act administered by the Agency except in accordance with this section.
 
-(a) mortgage, overdraft or otherwise;
+[7/2020]
+
+(2) Subject to subsection (3), the Agency may raise loans by —
+
+(a) mortgage, overdraft or other means, with or without security;
 
 (b) charge, whether legal or equitable, on any property vested in the Agency or on any other revenue receivable by the Agency under this Act or any other written law; or
 
-(c) the creation and issue of debentures or bonds.
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister for Finance may approve.
+
+[7/2020]
+
+(3) The Agency may raise loans —
+
+(a) from the Government; or
+
+(b) with the approval of the Minister for Finance, from another source, whether within or outside Singapore.
+
+[7/2020]
+
+(4) For the purposes of this section, the power to raise loans includes the power to make any financial agreement under which credit facilities are granted to the Agency for the purchase of goods, materials or things.
+
+[7/2020]

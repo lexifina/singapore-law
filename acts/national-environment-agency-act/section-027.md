@@ -1,8 +1,6 @@
-# 27. Investment
-Part: PART V FINANCIAL PROVISIONS
+# 27. Power of investment
+Part: PART 5 FINANCIAL PROVISIONS
 
-Moneys belonging to the Agency may, from time to time, with the approval of the Minister, be invested in —
+The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
 
-(a) the shares of any private or public company; or
-
-(b) any of the securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+[45/2004]

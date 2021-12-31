@@ -1,4 +1,4 @@
-# 18. Public servants
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 18. [Repealed]
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+[Repealed by Act 5 of 2018]

@@ -1,4 +1,6 @@
 # 21. All moneys recovered to be paid to Agency
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-All moneys recovered or charges or composition fines collected under this Act shall be paid into and form part of the moneys of the Agency.
+All moneys recovered or charges collected under this Act must be paid into and form part of the moneys of the Agency.
+
+[11/2019]

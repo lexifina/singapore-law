@@ -1,8 +1,4 @@
-# 28. Accounts
-Part: PART V FINANCIAL PROVISIONS
+# 28. [Repealed]
+Part: PART 5 FINANCIAL PROVISIONS
 
-The Agency shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
-
-(a) all payments out of its moneys are correctly made and properly authorised; and
-
-(b) adequate control is maintained over the assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.
+[Repealed by Act 5 of 2018]

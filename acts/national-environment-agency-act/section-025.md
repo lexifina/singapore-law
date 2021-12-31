@@ -1,6 +1,6 @@
 # 25. Bank accounts
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) The Agency shall open and maintain an account with such bank or banks as the Agency thinks fit.
+(1) The Agency must open and maintain an account with such bank or banks as the Agency thinks fit.
 
-(2) Every such account shall be operated by such person as may, from time to time, be authorised in that behalf by the Agency.
+(2) Every such account must be operated by such person authorised to do so by the Agency.
