@@ -1,4 +1,4 @@
-# 103. Saving for criminal proceedings ... ... ... ... ... ... ... 722
-Part: PART XX OFFENCES AND PENALTIES
+# 103. Saving for criminal proceedings
+Part: PART 20 OFFENCES AND PENALTIES
 
-The provisions of this Act shall not affect any criminal proceedings under any other written law.
+The provisions of this Act do not affect any criminal proceedings under any other written law.

@@ -1,4 +1,4 @@
-# 1. Short title ... ... ... ... ... ... ... ... ... ... ... 14
-Part: PART I PRELIMINARY Section Page
+# 1. Short title
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Income Tax Act.
+This Act is the Income Tax Act 1947.

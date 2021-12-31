@@ -1,23 +1,32 @@
-# 43Q. Concessionary rate of tax for financial sector incentive company 602
-Part: PART XI RATES OF TAX
-Heading: Section Pages
+# 43Q. Concessionary rate of tax for container investment manager
+Part: PART 11 RATES OF TAX
 
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5%, 10% or 12% shall be levied and paid for each year of assessment upon such income as the Minister may specify, derived on or after 1st January 2004 by a financial sector incentive company from such qualifying activities as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
+(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 10% is to be levied and paid for each year of assessment upon such income as the Minister may specify of an approved container investment manager derived by it on or after 1 April 2008 from —
 
-[21/2003; 29/2010]
+(a) managing an approved container investment enterprise; or
 
-(2) The concessionary rate of tax referred to in subsection (1) shall apply to a financial sector incentive company subject to such conditions as the Minister or such person as he may appoint may impose.
+(b) such other services or activities carried out for an approved container investment enterprise as may be prescribed.
 
-[21/2003]
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
-(2A) Regulations under subsection (1) may make transitional provisions to apply the rate of tax of 12% to —
+(3) The Minister or a person appointed by the Minister may, subject to such conditions as the Minister or person may impose, approve a container investment manager as an approved container investment manager for the purposes of this section.
 
-(a) a futures member of the Singapore Exchange referred to in section 43D; and
+[32/2019]
 
-(b) a member of the corporation known as the Singapore Commodity Exchange Ltd referred to in section 43K, which has given notice within a specified period to the Monetary Authority of Singapore for the purposes of the application of these transitional provisions, in respect of its income derived on or after 1st January 2011 but on or before 31st December 2013 from specified qualifying activities.
+(4) Approval of a container investment manager under this section may be granted between 1 April 2008 and 28 February 2011 (both dates inclusive).
 
-[29/2010]
+[37/2014]
 
-(3) In this section, “financial sector incentive company” means a company carrying on such qualifying activities as may be prescribed and is approved by the Minister or such person as he may appoint.
+(4A) Approval of a container investment manager under this section may be granted between 1 March 2011 and 31 December 2026 (both dates inclusive) for such period not exceeding 5 years as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
 
-[21/2003]
+[37/2014; 2/2016; 41/2020]
+
+(5) In this section —
+
+“approved” means approved by the Minister or such person as the Minister may appoint;
+
+“container investment enterprise” has the meaning given by section 43P;
+
+“container investment manager” means any company incorporated in Singapore.
+
+[43ZB

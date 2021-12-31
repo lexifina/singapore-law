@@ -1,53 +1,44 @@
-# 37M. Treatment of unabsorbed donations attributable to exempt income ... ... ... ... ... ... ... ... ... ... ... ... 537
-Part: PART IX ASCERTAINMENT OF ASSESSABLE INCOME
-Heading: Section Pages
+# 37M. Penalties for false information, etc., resulting in payment under section 37G or 37H
+Part: PART 9 ASCERTAINMENT OF ASSESSABLE INCOME
 
-(1) If —
+(1) Any person who gives to the Comptroller any information under section 37G(2) that is false in any material particular, or who omits any material particular from any information or document given under that provision, shall be guilty of an offence and shall on conviction be punished with a penalty that is equal to the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to the person or any other person as a result of the offence, or which would have been made to the person or any other person if the offence had not been detected.
 
-(a) any donation allowable under this Act for the year of assessment 2012 or any preceding year of assessment (referred to in this section as the attributed donation) is to be deducted from any income of a company under a provision of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in determining the amount of its income that is exempt from tax under that provision for that or any subsequent year of assessment; and
+(2) Any person who without reasonable excuse or through negligence gives to the Comptroller any information under section 37G(2) that is false in any material particular, or omits any material particular from any information or document given under that provision, shall be guilty of an offence and shall on conviction be punished with a penalty that is double the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to the person or any other person as a result of the offence, or which would have been made to the person or any other person if the offence had not been detected, and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(b) part or all of the attributed donation (referred to in this section as the balance) has yet to be fully deducted in determining the amount of income that is exempt from tax for the year of assessment 2012, then the following provisions shall apply to the balance:
+(3) Any person who wilfully with intent to obtain, or to assist another person to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both) which the person or that other person is not entitled to —
 
-(i) subject to paragraphs (iii) to (vii) and subsection (2), the balance shall be deducted from the statutory income of the company for the year of assessment 2013;
+(a) gives to the Comptroller any information under section 37G(2) that is false in any material particular or omits any material particular from any information or document given under that provision; or
 
-(ii) subject to paragraphs (iii) to (vii) and section 37B, where the deduction under paragraph (i) cannot be made or fully made, the balance shall be deducted from the statutory income of the company for the year of assessment 2014, and so on;
+(b) gives any false answer, whether verbally or in writing, to any question or request for information asked or made by the Comptroller, shall be guilty of an offence and shall on conviction be punished with a penalty that is treble the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to the person or that other person as a result of the offence, or which would have been made to the person or that other person if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(iii) any balance not deducted against the statutory income of the company for the fifth year of assessment after the year of assessment relating to the basis period in which the donation was made shall be disregarded;
+(4) Any person who wilfully with intent to obtain, or to assist another person to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both) which the person or that other person is not entitled to —
 
-(iv) for the purposes of paragraphs (i) and (ii), any donation made on an earlier date shall be deemed to have been deducted first;
+(a) prepares or maintains or authorises the preparation or maintenance of any false books of account or other records or falsifies or authorises the falsification of any books of account or records; or
 
-(v) where the part of the balance that may be deducted under paragraph (i) against any type of income in accordance with subsection (2) has been so deducted and a sum remains of that part of the balance after such deduction, a deduction under paragraph (ii) of the sum that so remains, or any sum that remains after one or more applications of this paragraph, shall be made in the following manner:
+(b) makes use of any fraud, art or contrivance or authorises the use of such fraud, art or contrivance, shall be guilty of an offence and shall on conviction be punished with a penalty that is 4 times the amount of cash payout or PIC bonus (or both, as the case may be) that has been made to the person or that other person as a result of the offence, or which would have been made to the person or that other person if the offence had not been detected, and shall also be liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-(A) the sum shall first be deducted against the same type of income;
+(4A) Where an individual has been convicted for —
 
-(B) any sum remaining after that deduction shall be deducted against any other type of income in accordance with section 37B;
+(a) 3 or more offences under subsection (3) or section 96;
 
-(vi) notwithstanding paragraphs (i) and (ii), the balance shall be disregarded if the Comptroller is not satisfied that the shareholders of the company on the last day of the year in which the donation was made, were substantially the same as the shareholders of the company on the first day of the year of assessment in which the balance would otherwise be deductible; and
+(b) 2 or more offences under subsection (4) or section 96A; or
 
-(vii) section 37(13) to (17) shall apply, with the necessary modifications, for the purposes of paragraph (vi).
+(c) one offence under either subsection (3) or section 96, and one offence under either subsection (4) or section 96A, the imprisonment the individual shall be liable to shall not be less than 6 months.
 
-[29/2012; 19/2013]
+(4B) Where in any proceedings under subsection (3) it is proved that any information that is false in a material particular is given to the Comptroller under section 37G(2) by or on behalf of any person, the person who gave the information is presumed, unless the contrary is proved, to have given it with intent to obtain, or to assist the person on whose behalf the information is given to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both), as the case may be.
 
-(2) The deduction under subsection (1)(i) shall be made in accordance with the following provisions:
+(4C) Where in any proceedings under subsection (4) it is proved that any false statement or entry is made in any books of account or other records maintained by or on behalf of any person, the person who made the statement or entry is presumed, unless the contrary is proved, to have made that false statement or entry with intent to obtain, or to assist the person on whose behalf the statement or entry is made to obtain, a cash payout or PIC bonus (or both) or a higher amount of cash payout or PIC bonus (or both), as the case may be.
 
-(a) section 37B shall not apply to the deduction;
+(5) The Comptroller may compound any offence under this section other than subsection (4).
 
-(b) if the company only derives normal income for that year of assessment, the balance shall be deducted against the normal income for that year of assessment;
+(5A) In this section, a reference to the amount of cash payout or PIC bonus that has been made to a person as a result of an offence, or which would have been made to the person if the offence had not been detected, excludes an amount of the cash payout or PIC bonus that the person is entitled to.
 
-(c) if the company only derives concessionary income for that year of assessment, the balance shall be deducted against the concessionary income for that year of assessment;
+[37/2014]
 
-(d) if the company derives both normal income and concessionary income, or concessionary income that is subject to tax at different concessionary rates of tax, for that year of assessment, the balance shall be deducted against each type of income in such proportion as appears reasonable to the Comptroller in the circumstances;
+(6) In this section —
 
-(e) if the company only derives income that is exempt from tax for that year of assessment, then section 37B(3) shall, with the necessary modifications, apply for the purpose of making a deduction of the balance under subsection (1)(ii) as if the balance were unabsorbed donation in respect of income of a company subject to tax at the rate of tax specified in section 43(1)(a).
+“cash payout” means a payment under section 37G;
 
-[29/2012]
+“PIC bonus” means a payment under section 37H.
 
-(3) In this section —
-
-“concessionary income” means income that is subject to tax at a concessionary rate of tax;
-
-“concessionary rate of tax” has the same meaning as in section 14C;
-
-“normal income” means income that is subject to tax at the rate of tax specified in section 43(1)(a).
-
-[29/2012]
+[37J

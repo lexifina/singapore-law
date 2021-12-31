@@ -1,5 +1,4 @@
 # 71A. [Repealed]
-Part: PART XVI RETURNS
-Heading: Section Pages
+Part: PART 16 RETURNS
 
 [Repealed by Act 49 of 2004]

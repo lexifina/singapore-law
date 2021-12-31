@@ -1,117 +1,58 @@
-# 14W. Deduction for expenditure on licensing intellectual property rights ... ... ... ... ... ... ... ... ... ... ... ... 290
-Part: PART V DEDUCTIONS AGAINST INCOME
-Heading: Section Pages
+# 14W. Deduction for expenditure incurred by individual in deriving passive rental income in Singapore
+Part: PART 5 DEDUCTIONS AGAINST INCOME
 
-(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2013, 2014 or 2015, there shall be allowed, in respect of all his trades and businesses and in addition to the deduction allowed under section 14 or 14D (as the case may be), a deduction for expenditure incurred during the basis period for the purposes of those trades and businesses on the licensing from another person of any qualifying intellectual property rights that is computed in accordance with the following formula:
+(1) This section applies for the purpose of ascertaining an individual’s income for the basis period for the year of assessment 2016 or a subsequent year of assessment from the letting of a residential property or a part of a residential property in Singapore (not being an excluded property for that basis period), that is chargeable to tax under section 10(1)(f) (called in this section rental income).
 
-A  300%;
+[2/2016]
 
-where A is —
+(2) Despite any other provisions in this Part, if there are any outgoings or expenses deductible against the rental income under any provision of this Part apart from section 14(1)(a), then there is to be deducted, in lieu of those outgoings or expenses, an amount of expenses computed in accordance with the formula
 
-(a) for the year of assessment 2013, the lower of the following:
+A  B;
 
-(i) such expenditure incurred during the basis period for that year of assessment;
+where A is 15% or such other percentage as may be prescribed under section 7; and
 
-(ii) $1,200,000;
+B is the gross amount of the rental income from the residential property derived in the basis period for that year of assessment.
 
-(b) for the year of assessment 2014, the lower of the following:
+[2/2016]
 
-(i) such expenditure incurred during the basis period for that year of assessment;
+(3) This section does not apply to —
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii);
+(a) an individual who has made an election under subsection (4) for this section not to apply to the individual’s rental income derived in the basis period for the year of assessment in question;
 
-and
+(b) any rental income derived by an individual through a partnership; and
 
-(c) for the year of assessment 2015, the lower of the following:
+(c) any rental income derived by an individual acting in the capacity of a trustee of a trust.
 
-(i) such expenditure incurred during the basis period for that year of assessment;
+[2/2016]
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
+(4) An individual may, in such form and manner and within such time as the Comptroller may determine, make an election to the Comptroller for this section not to apply to all of the individual’s rental income derived in the basis period for a particular year of assessment.
 
-[19/2013]
+[2/2016]
 
-(2) Notwithstanding anything in this section or section 19B, where a person has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred both expenditure on the licensing from another person of any qualifying intellectual property rights and expenditure on the acquisition of any intellectual property rights, the aggregate of the expenditure which may be given a deduction under subsection (1) and the expenditure which may be given an allowance under section 19B(1B) shall not exceed —
+(5) If an individual derives rental income, other than income referred to in subsection (3)(b) or (c), from more than one residential property (not being excluded properties for the basis period) in a basis period, the individual may not make an election under subsection (4) in respect of only one or some of those properties.
 
-(a) in the case of the year of assessment 2013, the lower of the following:
+[2/2016]
 
-(i) the aggregate of all such expenditure;
+(6) In this section —
 
-(ii) $1,200,000;
+“excluded property”, in relation to a basis period, means a residential property which, at any time during the period rental income is derived from the property by the individual in question, is permitted under the Planning Act 1998 to be used whether wholly or in part for any purpose that is not a residential purpose;
 
-(b) in the case of the year of assessment 2014, the lower of the following:
+“residential property” means —
 
-(i) the aggregate of all such expenditure;
+(a) any detached house, semi-detached house or terrace house; or
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii);
+(b) any part of a building (such as a flat or a condominium unit) constructed or adapted for human habitation, that has a single annual value ascribed to it in the Valuation List prepared under section 10 of the Property Tax Act 1960, and is permitted under the Planning Act 1998 to be used for a residential purpose, and includes such other premises as may be prescribed as residential property, but (to avoid doubt) excludes premises that are so permitted for use as a dormitory.
 
-and
+[2/2016]
 
-(c) in the case of the year of assessment 2015, the lower of the following:
+(7) In this section, a property or part of a property is permitted under the Planning Act 1998 to be used for a particular purpose if —
 
-(i) the aggregate of all such expenditure;
+(a) it is permitted by a written permission granted under section 14 of that Act to be used for that purpose;
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
+(b) it is authorised by a notification under section 21(6) of that Act to be used for that purpose; or
 
-[19/2013]
+(c) such use (being an existing use of the property or part and not being the subject of a written permission granted under section 14 of that Act or a notification under section 21(6) of that Act) was a use to which the building or part was put on 1 February 1960, and the building or part has not been put to any other use since that date.
 
-(3) In subsections (1) and (2) —
+[14Y
 
-(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the years of assessment 2013 and 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the other 2 years of assessment shall be substituted with “$800,000”;
-
-(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the years of assessment 2013 and 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the remaining year of assessment shall be substituted with “$400,000”; and
-
-(c) for the avoidance of doubt —
-
-(i) if the person does not carry on any trade or business during the basis period for the year of assessment 2013, no deduction shall be made from the substituted amount in subsection (1)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (1)(a)(i) and (ii), or from the substituted amount in subsection (2)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (2)(a)(i) and (ii); and
-
-(ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2014, no deduction shall be made from the substituted amount in subsection (1)(c)(ii) of the lower of the amounts specified in subsection (1)(b)(i) and (ii), or from the substituted amount in subsection (2)(c)(ii) of the lower of the amounts specified in subsection (2)(b)(i) and (ii).
-
-[19/2013]
-
-(4) For the purposes of subsection (1), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights in respect of such firms for the purposes of his trade or business, the deductions that may be allowed to him for that expenditure in respect of all his trades and businesses shall not exceed the amount computed in accordance with subsection (1) for that year of assessment.
-
-[19/2013]
-
-(5) For the purposes of subsections (1) and (2), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights and (if applicable) the acquisition of any intellectual property rights, for the purposes of its trade or business, the aggregate of the deductions and allowances that may be allowed to all the partners of the partnership for that expenditure in respect of all the trades and businesses of the partnership shall not exceed the amount computed in accordance with subsection (1) or (2) (as the case may be) for that year of assessment.
-
-[19/2013]
-
-(6) No deduction shall be allowed under this section in respect of —
-
-(a) any expenditure which is not allowed as a deduction under section 14 or 14D (as the case may be);
-
-(b) any expenditure incurred by a person on licensing from its related party carrying on any trade or business in Singapore, of any qualifying intellectual property rights, where such rights were acquired or developed (in whole or in part) by the related party during the basis period relating to the year of assessment 2011 or any subsequent year of assessment; or
-
-(c) any qualifying intellectual property rights for which a writing- down allowance has been previously made to that person under section 19B.
-
-[19/2013]
-
-(7) The Minister may by order exempt a person from subsection (6)(b) in respect of such transaction as may be specified in the order.
-
-[19/2013]
-
-(8) In this section —
-
-“intellectual property rights” has the same meaning as in section 19B(11);
-
-“qualifying intellectual property rights” means intellectual property rights but excludes the right to do or authorise the doing of anything which would, but for that right, be an infringement of —
-
-(a) any trade mark; or
-
-(b) any rights to the use of software;
-
-“related party” has the same meaning as in section 13(16).
-
-[19/2013]
-
-(9) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights or the acquisition of intellectual property rights excludes any such expenditure to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board.
-
-[19/2013]
-
-(10) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights means the licence fees and excludes —
-
-(a) expenditure for the transfer of ownership of any of those rights; and
-
-(b) legal fees and other costs related to the licensing of such rights.
-
-[19/2013]
+[2/2016]

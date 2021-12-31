@@ -1,91 +1,78 @@
-# 43N. Concessionary rate of tax for income derived from debt securities 597
-Part: PART XI RATES OF TAX
-Heading: Section Pages
+# 43N. Concessionary rate of tax for leasing of aircraft and aircraft engines
+Part: PART 11 RATES OF TAX
 
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon —
+(1) Despite section 43, tax at the following rate is to be levied, and paid, for each year of assessment upon the income of an approved aircraft leasing company accruing in or derived from Singapore in respect of the leasing of any aircraft or aircraft engine or such other activity as the Minister may by regulations prescribe:
 
-(a) interest derived by any company from any qualifying debt securities;
+(a) where the company is approved before 1 April 2017, 5% or 10%, as specified by the Minister or such person as the Minister may appoint;
 
-(aa) discount derived by any company from —
+(b) where the company is approved on or after 1 April 2017, 8%.
 
-(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+[39/2017]
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018;
+(1A) Despite subsection (1), where —
 
-(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018;
+(a) a company was approved as an approved aircraft leasing company on or before 31 March 2017;
 
-(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018;
+(b) the company is approved again as an approved aircraft leasing company at any time on or after 1 April 2017;
 
-(ad) such other income derived by any company that is directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations;
+(c) the period of approval in paragraph (b) (called in this subsection the current approval period) starts immediately upon the expiry of the period of the approval in paragraph (a) (called in this subsection the previous approval period); and
 
-(b) income derived by any financial institution from trading in any debt securities during the period from 28th February 1998 to 31st December 2003; and
+(d) the company elects to apply the concessionary rate of tax specified to it under subsection (1)(a) for the previous approval period, to the company’s income that accrues in or is derived from Singapore between the date of commencement of the current approval period and 31 December 2027 (both dates inclusive), in respect of an aircraft or aircraft engine to which this subsection applies, then that concessionary rate of tax applies to such income if the company remains an approved aircraft leasing company at the time the income accrues to or is derived by the company.
 
-(c) income derived by any financial institution during the period commencing from the first day of its basis period for the year of assessment 2001 to 31st December 2003 from —
+[45/2018]
 
-(i) providing services as an intermediary in connection with any transaction involving interest rate or currency swaps; and
+(1B) Subsection (1A) —
 
-(ii) trading in interest rate or currency swaps.
+(a) applies to an aircraft or aircraft engine that the company either owned (whether legally or beneficially) or of which it was a lessee under a finance lease treated as a sale under section 10C, as at the last day of the previous approval period; and
 
-[31/98; 24/2000; 21/2003; 49/2004; 34/2005; 7/2007;
+(b) does not apply to any aircraft or aircraft engine that —
 
-53/2007; 34/2008; 19/2013]
+(i) has been disposed of by the company after that day and then re-acquired by or leased back to the company; or
 
-(2) Subsection (1)(a), (aa), (ab), (ac) or (ad), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
+(ii) has not been delivered to the company as of that day.
 
-(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018;
+[45/2018]
 
-(b) any discount from —
+(1C) The election under subsection (1A) must be made by written notice to the Comptroller at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the approval in subsection (1A)(b) is given or within such extended time as the Comptroller may allow.
 
-(i) any qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+[45/2018]
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018;
+(2) The Minister or a person appointed by the Minister may, subject to such conditions as the Minister or person may impose, approve an aircraft leasing company as an approved aircraft leasing company for the purposes of this section.
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018;
+[32/2019]
 
-(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018; and
+(3) Tax at the concessionary rate of the income of an approved aircraft leasing company under subsection (1) is for a period not exceeding 5 years, except that the Minister or such person as he may appoint may extend that period for a further period or periods, each of which must not exceed 5 years.
 
-(e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations, where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such income is derived by —
+(4) Approval may be granted under this section between 1 March 2007 and 31 December 2022 (both dates inclusive).
 
-(A) any company which is a related party of the issuer of those securities; or
+[37/2014; 39/2017]
 
-(B) any company where the funds used by such company to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+(5) In determining the income of an approved aircraft leasing company from the leasing of any aircraft or aircraft engine —
 
-[49/2004; 34/2005; 7/2007; 53/2007; 34/2008; 19/2013]
+(a) the allowances under section 19, 19A, 20, 21, 22 or 23 must be taken into account even if no claim for such allowances has been made;
 
-(2A) Subsection (1) shall not apply to income from qualifying debt securities derived by a financial sector incentive (standard tier) company.
+(b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of finance leasing in any year of assessment must be deducted against the income from such leasing for that year of assessment, and any balance of the allowances is not, subject to paragraph (c), available as a deduction against any other income or available for transfer under section 37B;
 
-[29/2010]
+(c) where the approved aircraft leasing company ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction against the income from such leasing is available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
 
-(3) Regulations made under subsection (1) may provide for exemption from tax of —
+(d) the Comptroller must determine the manner and extent to which —
 
-(a) income derived before 1st January 2004 by any financial institution from arranging, underwriting or distributing any qualifying debt securities; and
+(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
 
-(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 31st December 2018, and for deduction of losses otherwise than in accordance with section 37(3).
+(ii) any loss may be deducted under section 37.
 
-[32/99; 21/2003; 34/2008; 19/2013]
+(6) Subsection (5) applies, with the necessary modifications, in determining the income of an approved aircraft leasing company from any activity prescribed by regulations made under subsection (1) as if such income were income from operating leasing.
 
-(4) In this section —
+(7) In this section —
 
-“break cost”, “financial institution”, “prepayment fee”, “qualifying debt securities”, “redemption premium” and “related party” have the same meanings as in section 13(16);
+“aircraft leasing company” means a company incorporated and resident in Singapore or a registered business trust, carrying on a business of leasing aircraft or aircraft engines;
 
-“debt securities” means bonds, notes, commercial papers, treasury bills and certificates of deposits;
+“finance leasing”, in relation to any aircraft or aircraft engine, means a lease of the aircraft or aircraft engine (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such aircraft or aircraft engine to the lessee;
 
-“financial sector incentive (standard tier) company” means a financial sector incentive company within the meaning of section 43Q(3), being one that has been approved by the Minister or such person as he may appoint as a financial sector incentive (standard tier) company;
+“leasing of any aircraft or aircraft engine” means the leasing of any aircraft or aircraft engine, other than one which has been treated as though it had been sold pursuant to regulations made under section 10C(1);
 
-“Islamic debt securities” means debt securities and trust certificates —
+“operating leasing”, in relation to any aircraft or aircraft engine, means the leasing of the aircraft or aircraft engine, other than finance leasing.
 
-(a) which are endorsed by any Shari’ah council or body, or by any committee formed for the purpose of providing guidance on compliance with Shari’ah law; and
+[43Y
 
-(b) the amounts payable from such securities and trust certificates are periodic and supported by a regular stream of receipts from underlying assets;
-
-“primary dealer” means any financial institution specified in the First Schedule to the Government Securities Regulations (Cap. 121A, Rg 1);
-
-“Singapore Government securities” means debt securities issued under the Government Securities Act (Cap. 121A), the Local Treasury Bills Act (Cap. 167) or any other written law, and shall be deemed to include any issue of bills and notes by the Monetary Authority of Singapore that are approved by the Minister for the purposes of this Act;
-
-“trust certificates” means certificates evidencing beneficial ownership in underlying assets.
-
-[31/98; 32/99; 34/2005; 53/2007; 29/2010; 22/2011]
-
-(5) Subsections (1)(a), (aa), (ab), (ac) and (ad) and (2) and regulations made thereunder shall apply to a body of persons for the year of assessment 2010 and subsequent years of assessment.
-
-[27/2009]
+[32/2019]

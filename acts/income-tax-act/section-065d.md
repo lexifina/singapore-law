@@ -1,32 +1,36 @@
-# 65D. Section 65B notice applies notwithstanding duty of secrecy under Banking Act or Trust Companies Act ... ... ... ... 674
-Part: PART XVI RETURNS
+# 65D. Section 65B notice applies despite duty of secrecy under Banking Act 1970 or Trust Companies Act 2005
+Part: PART 16 RETURNS
 
 (1) This section applies where —
 
 (a) the Comptroller requires any information for the administration of this Act, other than for an investigation or a prosecution for an offence alleged or suspected to have been committed under this Act;
 
-(b) the information is protected from unauthorised disclosure under either of the following laws (referred to in this section as the relevant laws):
+(b) the information is protected from unauthorised disclosure under either of the following laws (called in this section the relevant laws):
 
-(i) section 47 of the Banking Act (Cap. 19) including any regulations made for the purposes of subsection (10) of that section;
+(i) section 47 of the Banking Act 1970 including that section as applied by section 55ZI(1) of that Act;
 
-(ii) section 49 of the Trust Companies Act (Cap. 336); and
+(ii) section 49 of the Trust Companies Act 2005; and
 
-(c) the Comptroller issues a notice under section 65B to a person to provide that information.
+(c) a person is given a notice, or is required, under section 65B to provide the information or to produce a document containing the information.
 
-[19/2013]
+[34/2016; 1/2020]
 
-(2) Notwithstanding anything in section 65B(2)(a), a person issued with a notice referred to in subsection (1)(c) is not excused from providing the information by reason only that the person is under a statutory obligation to observe secrecy under a relevant law, and that notice shall have effect notwithstanding the relevant law.
+(2) Despite anything in section 65B(2)(a), a person issued with a notice or requirement mentioned in subsection (1)(c) is not excused from providing the information or document by reason only that the person is under a statutory obligation to observe secrecy under a relevant law, and that notice has effect despite the relevant law.
 
-[19/2013]
+[34/2016]
 
-(3) A person who in good faith complies with a notice referred to in subsection (1)(c) shall not be treated as being in breach of the relevant law.
+(3) A person who in good faith complies with a notice or requirement mentioned in subsection (1)(c) is not treated as being in breach of the relevant law.
 
-[19/2013]
+[34/2016]
 
-(4) No action for a breach of the relevant law shall lie against the person referred to in subsection (3) —
+(4) No action for a breach of the relevant law shall lie against the person mentioned in subsection (3) —
 
-(a) for producing any document or providing any information if he had done so in good faith in compliance with a notice referred to in subsection (1)(c); or
+(a) for producing any document or providing any information if the person had done so in good faith in compliance with a notice or requirement mentioned in subsection (1)(c); or
 
-(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with such a notice.
+(b) for doing or omitting to do any act if the person had done or omitted to do the act in good faith and as a result of complying with such a notice or requirement.
 
-[19/2013]
+[34/2016]
+
+(5) In this section, a notice under section 65B to provide information includes a demand for information as defined in section 65C(10).
+
+[34/2016]

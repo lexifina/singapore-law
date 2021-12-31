@@ -1,64 +1,56 @@
-# 43I. Concessionary rate of tax for offshore leasing of machinery and plant ... ... ... ... ... ... ... ... ... ... ... ... 593
-Part: PART XI RATES OF TAX
+# 43I. Concessionary rate of tax for global trading company and qualifying company
+Part: PART 11 RATES OF TAX
 
-(1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by regulations prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant or such other activity as may be prescribed by regulations.
+(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 5% or 10% is to be levied and paid for each year of assessment upon —
 
-[20/91; 31/98]
+(a) such income as the Minister may specify of an approved global trading company —
 
-(2) In determining the income of a leasing company from offshore leasing —
+(i) that is derived by it from such prescribed qualifying transactions in such prescribed commodities as the Minister or a person appointed by him may specify to the company;
 
-(a) the allowances under section 19, 19A, 20, 21, 22 or 23 shall be taken into account notwithstanding that no claim for such allowances has been made;
+(ii) that is derived by it in the basis period for the year of assessment 2012 or a subsequent year of assessment, from prescribed qualifying transactions in any derivative instrument; or
 
-(b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore finance leasing in any year of assessment after deduction against the income from such leasing shall be available as a deduction against any income from onshore finance leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (c), be available as a deduction against any other income or be available for transfer under section 37C;
+(iii) that is derived by it on or after 19 February 2020 from the carrying on of such prescribed qualifying structured commodity financing activities, prescribed treasury activities or prescribed advisory services in relation to mergers and acquisitions, as the Minister or a person appointed by the Minister may specify to the company; and
 
-(c) where the leasing company ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances in respect of finance leasing after the deduction in paragraph (b) shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23; and
+(b) such income as the Minister may specify of an approved qualifying company that is derived on or after 21 May 2010 from the carrying on of such prescribed qualifying structured commodity financing activities, prescribed treasury activities or prescribed advisory services in relation to mergers and acquisitions, as the Minister or a person appointed by the Minister may specify to the company, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
-(d) the Comptroller shall determine the manner and extent to which —
+[34/2016; 41/2020]
 
-(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
+(1AA) Subject to the regulations under subsection (1), the income of an approved global trading company or approved qualifying company mentioned in that subsection —
 
-(ii) any loss may be deducted under section 37.
+(a) is chargeable with tax at the rate of 5% if the company has been approved for that rate; or
 
-[1/98; 37/2002; 53/2007]
+(b) is chargeable with tax at the rate of 10% if the company has been approved for that rate.
 
-(3) Subsection (2) shall apply, with the necessary modifications, in determining the income of a leasing company from any activity prescribed by regulations made under subsection (1) as if such income were income from offshore operating leasing.
+[32/2019]
 
-[31/98]
+(1AB) For the purposes of this section, the Minister or a person appointed by the Minister may, subject to such conditions as the Minister or person may impose, approve —
 
-(4) [Deleted by Act 53 of 2007]
+(a) a global trading company as an approved global trading company; or
 
-(5) [Deleted by Act 53 of 2007]
+(b) a qualifying company as an approved qualifying company.
 
-(6) Notwithstanding subsection (1), a leasing company may, at any time, elect that the whole of its income accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant shall be taxed at the rate prescribed by section 43(1)(a).
+[32/2019]
 
-[11/94]
+(1A) No approval may be granted under this section to a global trading company after 31 December 2026.
 
-(7) An election under subsection (6) shall be made by a leasing company by notice in writing to the Comptroller and shall be irrevocable.
+[41/2020]
 
-[11/94]
+(1B) No approval may be granted under this section to a qualifying company after 31 March 2021, and any approval granted to a qualifying company must be for a period that commences on or before that date.
 
-(8) Where a leasing company has made an election under subsection (6) —
+[41/2020]
 
-(a) subsections (1), (2) and (3) shall not apply to the income of the leasing company for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment; and
+(2) [Deleted by Act 32 of 2019]
 
-(b) any allowance or the balance thereof in respect of finance leasing which was not deducted against the income of the leasing company for any year of assessment during which the concessionary rate prescribed by subsection (1) applies shall be available as a deduction against the income from finance leasing for the first year of assessment to which paragraph (a) applies and for any subsequent year of assessment.
+(3) In this section —
 
-[11/94; 1/98; 53/2007]
+“global trading company” means a company that carries on the business of international trading of commodities or commodities derivatives, or of brokering international trades in commodities, or both;
 
-(9) In this section —
+“qualifying company” means —
 
-“finance lease”, “finance leasing” and “onshore finance leasing” have the same meanings as in section 10D(3);
+(a) an approved company that carries on the business of international trading of commodities or commodities derivatives; or
 
-“leasing company” means any company carrying on a business of leasing machinery or plant;
+(b) a wholly-owned subsidiary of another company, where the other company carries on the business of international trading of commodities or commodities derivatives, that carries on any qualifying structured commodity financing activities, treasury activities, or advisory services in relation to mergers and acquisitions, prescribed under subsection (1).
 
-“offshore finance leasing” means the offshore leasing of any machinery or plant under any finance lease;
+[43P
 
-“offshore leasing” means the leasing of any machinery or plant, other than those which have been treated as though they had been sold pursuant to regulations made under section 10D(1), where such machinery or plant is used outside Singapore, and the payments under the lease —
-
-(a) are in currencies other than Singapore dollars; and
-
-(b) are not deductible against any income accruing in or derived from Singapore;
-
-“offshore operating leasing” means the offshore leasing of any machinery or plant, other than offshore finance leasing.
-
-[1/98; 53/2007]
+[34/2016; 39/2017; 32/2019]

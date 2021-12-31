@@ -1,8 +1,8 @@
 # EIGHTH SCHEDULE
 
-Sections 105D(2) and 106(3)
+Sections 105D(2) and 106(1) and (3)
 
-INFORMATION TO BE INCLUDED IN A REQUEST FOR INFORMATION UNDER PART XXA
+INFORMATION TO BE INCLUDED IN A REQUEST FOR INFORMATION UNDER PART 20A
 
 1. The purpose of the request.
 
@@ -16,7 +16,9 @@ INFORMATION TO BE INCLUDED IN A REQUEST FOR INFORMATION UNDER PART XXA
 
 6. To the extent known, the name and address of any person believed to have possession or control of the information requested for.
 
-7. A statement that the request is in conformity with the law and administrative practices of the country of the competent authority, and that the competent authority is authorised to obtain the information under the laws of that country or in the normal course of administrative practice.
+7. A statement that the request is in conformity with the law and administrative practices of the country of the competent authority, and that the competent EIGHTH SCHEDULE — continued
+
+authority is authorised to obtain the information under the laws of that country or in the normal course of administrative practice.
 
 8. A statement that the country has pursued all means available in its own territory to obtain the information except those that would give rise to disproportionate difficulties.
 
@@ -25,5 +27,3 @@ INFORMATION TO BE INCLUDED IN A REQUEST FOR INFORMATION UNDER PART XXA
 10. Any other information required to be included with the request under the prescribed arrangement.
 
 11. Any other information that may assist in giving effect to the request.
-
-[24/2009; S 595/2012]

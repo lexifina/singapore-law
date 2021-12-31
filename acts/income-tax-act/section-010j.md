@@ -1,77 +1,72 @@
-# 10J. Shares buyback ... ... ... ... ... ... ... ... ... ... 64
-Part: PART III IMPOSITION OF INCOME TAX
-Heading: Section Pages
+# 10J. Tax treatment for trading stock appropriated for non-trade or capital purpose
+Part: PART 3 IMPOSITION OF INCOME TAX
 
-(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), and such shares are deemed cancelled under section 76B of the Companies Act (Cap. 50), for the purposes of this section —
+(1) This section applies where, at any time on or after 16 November 2021, a person carrying on a trade or business appropriates any trading stock of that trade or business for a purpose other than for sale or disposal in the ordinary course of any of the person’s trades or businesses in circumstances that give rise to a reasonable inference that the appropriation is permanent.
 
-(a) the buyback constitutes a market purchase if the purchase of the shares is made on a stock exchange; and
+[27/2021]
 
-(b) the buyback constitutes an off-market purchase if the purchase of the shares is made otherwise than on a stock exchange.
+(2) Without limiting the generality of the expression, a person appropriates trading stock for a purpose other than for sale or disposal in the ordinary course of any of the person’s trades or businesses if the person —
 
-[32/99; 34/2005; 7/2007]
+(a) holds or uses the trading stock as a capital asset; or
 
-(2) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is made out of contributed capital of the company, not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account kept by the company under section 10I(5)(c)(i).
+(b) donates the trading stock.
 
-[32/99]
+[27/2021]
 
-(3) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+(3) The following is treated for the purposes of this Act as the person’s income for the firstmentioned trade or business in subsection (1) for the year of assessment relating to the basis period in which the date of appropriation of the trading stock falls:
 
-(a) a dividend paid by the company on the date of the payment, and the provisions relating to payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) shall apply, with the necessary modifications, to the dividend deemed to be paid;
+(a) where the appropriation is by way of a donation of the trading stock that qualifies for a deduction under section 37(3)(b), (e) or (f) for any year of assessment —
 
-(b) a dividend received by the shareholder (not being a transferee to whom section 10N applies) where the buyback is an off‑market purchase made in accordance with an equal access scheme authorised in advance by the company at a general meeting of the company.
+an amount equal to the person’s cost of acquiring, making or constructing the trading stock;
 
-[32/99; 37/2002]
+(b) in any other case — an amount equal to the open market value of the trading stock as at the date of the appropriation.
 
-(4) [Deleted by Act 19 of 2013]
+[27/2021]
 
-(5) [Deleted by Act 19 of 2013]
+(4) Section 14 applies for the purpose of ascertaining such part of the income mentioned in subsection (3) that is chargeable with tax under this Act, as if the trading stock were sold on the date of the appropriation.
 
-(6) [Deleted by Act 19 of 2013]
+[27/2021]
 
-(7) [Deleted by Act 19 of 2013]
+(5) Where this section applies, then the person must, at the time of lodgment of the person’s return of income for the year of assessment relating to the basis period in which the trading stock is appropriated, or such later time as the Comptroller may allow, give notice of the appropriation and specify the particulars of the appropriation in the form and manner specified by the Comptroller.
 
-(8) [Deleted by Act 19 of 2013]
+[27/2021]
 
-(9) [Deleted by Act 19 of 2013]
+(6) The Minister may by rules made under section 7, and subject to any condition specified in the rules —
 
-(10) Where a shareholder sells his shares to the company in an off‑market purchase referred to in subsection (3)(b) —
+(a) exempt any person or class of persons from subsection (5);
 
-(a) no deduction shall be allowed to him in respect of the costs he incurred to acquire the shares he sold to the company; and
+or
 
-(b) the cost of any remaining shares in the company held by the shareholder immediately after the sale shall be ascertained by the formula A ;
+(b) provide that subsection (5) does not apply in a particular case or class of cases.
 
-N
+[27/2021]
 
-where A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+(7) Rules made for the purposes of subsection (6) may be made to take effect from (and including) 16 November 2021.
 
-N is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
+[27/2021]
 
-[32/99]
+(8) Where subsection (3) applies to a person for a year of assessment and that person has not been assessed accordingly in that year of assessment, any income arising because of that subsection is treated as the person’s income for the year of assessment in which the Comptroller discovers sufficient facts on which the Comptroller may reasonably conclude that there has been such appropriation.
 
-(11) [Deleted by Act 19 of 2013]
+[27/2021]
 
-(12) For the purposes of this section —
+(9) In this section —
 
-(a) the contributed capital of a company has the same meaning as in section 10I(5)(b);
+“open market value”, in relation to any trading stock, means —
 
-(b) where a company undertakes a buyback to which subsection (2) applies and the buyback is effected before any reduction of its share capital to which section 10I applies or any redemption of shares to which section 10K applies or any purchase or acquisition of shares or stocks of a preferential nature to which section 10M applies, section 10I(5)(c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the buyback and any reference in that section to the first reduction shall be read as a reference to the buyback;
+(a) the amount that would be realised if the trading stock had been sold on the open market on the date of appropriation of the trading stock; or
 
-(c) “equal access scheme” means a scheme which satisfies all the following conditions:
+(b) where the Comptroller is satisfied by reason of the special nature of the trading stock that it is not practicable to determine the amount mentioned in paragraph (a), such other value as appears to the Comptroller to be reasonable in the circumstances;
 
-(i) the offers under the scheme are to be made to every person who holds shares to purchase or acquire the same percentage of their shares;
+“trading stock”, in relation to a trade or business —
 
-(ii) all the persons mentioned in sub‑paragraph (i) have a reasonable opportunity to accept the offers made to them; and
+(a) means property of any description (whether movable or immovable) —
 
-(iii) the terms of all the offers are the same except that there shall be disregarded —
+(i) that is sold in the ordinary course of trade or business; or
 
-(A) differences in consideration attributable to the fact that the offers relate to shares with different accrued dividend entitlements;
+(ii) that would be so sold if it were mature or if its manufacture, preparation or construction were complete; but
 
-(B) differences in consideration attributable to the fact that the offers relate to shares with different amounts remaining unpaid; and
+(b) does not include any material used in the manufacture, preparation or construction of any property mentioned in paragraph (a).
 
-(C) differences in the offers introduced solely to ensure that each shareholder is left with a whole number of shares;
+[10P
 
-(d) [Deleted by Act 19 of 2013]
-
-(e) “shares” includes stocks but does not include shares or stocks of a preferential nature.
-
-[32/99; 24/2000; 24/2001; 19/2013]
+[27/2021]

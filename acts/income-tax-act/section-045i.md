@@ -1,16 +1,15 @@
-# 45I. Sections 45 and 45A not applicable to certain payments ... ... 642
-Part: PART XII DEDUCTION OF TAX AT SOURCE
-Heading: Section Pages
+# 45I. Sections 45 and 45A not applicable to certain payments
+Part: PART 12 DEDUCTION OF TAX AT SOURCE
 
-(1) Sections 45(1) to (8) and 45A(1) shall not apply to any income referred to in section 12(6) which is liable to be paid by a person referred to in subsection (2), if the payment is liable to be made —
+(1) Sections 45(1) to (8) and 45A(1) do not apply to any income referred to in section 12(6) which is liable to be paid by a person mentioned in subsection (2), if the payment is liable to be made —
 
-(a) at any time during the period from 17th February 2012 to 31st March 2021 (both dates inclusive) (referred to in this section as the relevant period) under —
+(a) at any time during the period from 17 February 2012 to 31 December 2026 (both dates inclusive) (called in this section the relevant period) under —
 
-(i) a contract which took effect before 17th February 2012;
+(i) a contract which took effect before 17 February 2012;
 
-(ii) a contract which was extended or renewed, where the extension or renewal took effect before 17th February 2012; or
+(ii) a contract which was extended or renewed, where the extension or renewal took effect before 17 February 2012; or
 
-(iii) a debt security which was issued before 17th February 2012;
+(iii) a debt security which was issued before 17 February 2012;
 
 (b) under a contract which took effect on a date which falls within the relevant period;
 
@@ -22,56 +21,52 @@ Heading: Section Pages
 
 (d) under a debt security which was issued on a date which falls within the relevant period.
 
-[29/2012]
+[27/2021]
 
-(2) Subsection (1) shall apply to the following persons:
+(2) Subsection (1) applies to the following persons:
 
-(a) a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved under the Monetary Authority of Singapore Act (Cap. 186);
+(a) a bank or merchant bank licensed under the Banking Act 1970;
 
-(b) a finance company licensed under the Finance Companies Act (Cap. 108);
+(b) a finance company licensed under the Finance Companies Act 1967;
 
 (c) a person who —
 
-(i) holds a capital markets services licence under the Securities and Futures Act (Cap. 289) for dealing in securities and advising on corporate finance;
+(i) holds a capital markets services licence under the Securities and Futures Act 2001 for dealing in capital markets products and advising on corporate finance;
 
 (ii) is involved or will be involved in the underwriting of debt or equity issuances; and
 
-(iii) has been approved before 17th February 2012 for the purposes of the Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2012 (G.N. No. S 72/2012).
+(iii) has been approved before 17 February 2012 for the purposes of the Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2012.
 
-[29/2012]
+[4/2017; 1/2020]
 
-(3) Sections 45(1) to (8) and 45A(1) shall not apply to any income referred to in section 12(6) which is liable to be paid by a person who —
+(3) Sections 45(1) to (8) and 45A(1) do not apply to any income mentioned in section 12(6) which is liable to be paid by a person who —
 
-(a) holds a capital markets services licence under the Securities and Futures Act for dealing in securities and advising on corporate finance;
+(a) holds a capital markets services licence under the Securities and Futures Act 2001 for dealing in capital markets products and advising on corporate finance;
 
 (b) is involved or will be involved in the underwriting of debt or equity issuances; and
 
-(c) is approved for the purposes of this section, where the approval was given on a date (referred to in this subsection as the approval date) within the relevant period by the Minister or such person as he may appoint, if the payment is liable to be made —
+(c) is approved for the purposes of this section, where the approval was given on a date (called in this subsection the approval date) within the relevant period by the Minister or such person as he may appoint, if the payment is liable to be made —
 
-(i) at any time during the period from the approval date to 31st March 2021 (both dates inclusive) under —
+(d) at any time during the period from the approval date to 31 December 2026 (both dates inclusive) under —
 
-(A) a contract which took effect before the approval date;
+(i) a contract which took effect before the approval date;
 
-(B) a contract which was extended or renewed, where the extension or renewal took effect before the approval date; or
+(ii) a contract which was extended or renewed, where the extension or renewal took effect before the approval date; or
 
-(C) a debt security which was issued before the approval date;
+(iii) a debt security which was issued before the approval date;
 
-(ii) under a contract which took effect on a date which falls within the period from the approval date to 31st March 2021 (both dates inclusive);
+(e) under a contract which took effect on a date which falls within the period from the approval date to 31 December 2026 (both dates inclusive);
 
-(iii) under a contract which was extended or renewed where —
+(f) under a contract which was extended or renewed where —
 
-(A) the extension or renewal took effect on a date which falls within the period from the approval date to 31st March 2021 (both dates inclusive); and
+(i) the extension or renewal took effect on a date which falls within the period from the approval date to 31 December 2026 (both dates inclusive); and
 
-(B) the payment is made on or after the date on which such extension or renewal takes effect; or
+(ii) the payment is made on or after the date on which such extension or renewal takes effect; or
 
-(iv) under a debt security which is issued on a date which falls within the period from the approval date to 31st March 2021 (both dates inclusive).
+(g) under a debt security which is issued on a date which falls within the period from the approval date to 31 December 2026 (both dates inclusive).
 
-[29/2012]
+[4/2017; 27/2021]
 
-(4) The approval by the Minister or person appointed by him under subsection (3)(c) shall be subject to such conditions as the Minister or person may impose.
+(4) The approval by the Minister or person appointed by him under subsection (3)(c) is subject to such conditions as the Minister or person may impose.
 
-[29/2012]
-
-(5) This section shall not apply to any payment of income referred to in section 12(6) which the Comptroller is satisfied is made in connection with an arrangement the purpose or effect of which is one referred to in section 33(1).
-
-[29/2012]
+(5) This section does not apply to any payment of income referred to in section 12(6) which the Comptroller is satisfied is made in connection with an arrangement the purpose or effect of which is one referred to in section 33(1).

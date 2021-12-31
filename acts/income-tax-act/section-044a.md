@@ -1,5 +1,4 @@
 # 44A. [Repealed]
-Part: PART XII DEDUCTION OF TAX AT SOURCE
-Heading: Section Pages
+Part: PART 12 DEDUCTION OF TAX AT SOURCE
 
 [Repealed by Act 19 of 2013]

@@ -1,15 +1,15 @@
-# 2. Interpretation ... ... ... ... ... ... ... ... ... ... 14
-Part: PART I PRELIMINARY Section Page
+# 2. Interpretation
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the subject or context otherwise requires —
 
 “account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Comptroller to that person for the storage and retrieval of electronic records relating to that person;
 
-“accountant” means a public accountant within the meaning of the Accountants Act (Cap. 2);
+“accountant” means a public accountant within the meaning of the Accountants Act 2004;
 
-“advocate and solicitor” means an advocate and solicitor within the meaning of the Legal Profession Act (Cap. 161);
+“advocate and solicitor” means an advocate and solicitor within the meaning of the Legal Profession Act 1966;
 
-“annual value” has the same meaning as in section 2 of the Property Tax Act (Cap. 254) and shall be ascertained in the same manner as annual value is ascertained under that Act;
+“annual value” has the meaning given by section 2 of the Property Tax Act 1960, and is to be ascertained in the same manner as annual value is ascertained under that Act;
 
 “approved pension or provident fund or society” means a pension or provident fund or society approved by the Comptroller under section 5;
 
@@ -23,19 +23,19 @@ Part: PART I PRELIMINARY Section Page
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 37J(5), 67(1)(a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 34F(9), 37L(7), 37M(5), 67(1)(a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 “country” includes a territory;
 
 “crops” includes any form of vegetable produce;
 
-“earned income” means the statutory income of an individual reduced by any deduction made under section 37(3)(a) or 37E or claimed under section 37D (excluding any donation referred to in section 37D(8)(c)) or 37F from —
+“earned income” means the statutory income of an individual reduced by any deduction made under section 37(3)(a) or 37D or claimed under section 37C (excluding any donation referred to in section 37C(8)(c)) or 37E from —
 
 (a) gains or profits from any trade, business, profession, vocation or employment on which tax is payable under section 10(1), where the Comptroller is satisfied that such gains or profits are immediately derived from the carrying on or exercise by such individual of such trade, business, profession, vocation or employment; and
 
 (b) any pension on which tax is payable under section 10(1)(e) given to the individual in respect of the past services of such individual or any deceased individual;
 
-“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+“electronic record” has the meaning given by the Electronic Transactions Act 2010;
 
 “electronic service” means the electronic service provided by the Comptroller under section 8A(1);
 
@@ -43,45 +43,61 @@ Part: PART I PRELIMINARY Section Page
 
 (a) in relation to a company, includes a director of the company; and
 
-(b) in relation to a statutory board, includes the chairman and any member of the statutory board, and “employer” and other cognate expressions shall be construed accordingly;
+(b) in relation to a statutory board, includes the chairperson and any member of the statutory board, and “employer” and other cognate expressions are to be construed accordingly;
 
 “executor” means any executor, administrator or other person administering the estate of a deceased person;
 
-“Fund Manager” or “fund manager” means a company holding a capital markets services licence under the Securities and Futures Act (Cap. 289) for fund management or that is exempted under that Act from holding such a licence;
+“Fund Manager” or “fund manager” means a company holding a capital markets services licence under the Securities and Futures Act 2001 for fund management or that is exempted under that Act from holding such a licence;
 
 “goods” includes currency and specie;
 
 “harvesting” includes the collection of crops, however effected;
 
-“Hindu joint family” means what in any system of law prevailing in India is known as a Hindu joint family or a co‑parcenary;
+“Hindu joint family” means what in any system of law prevailing in India is known as a Hindu joint family or a co-parcenary;
 
-“incapacitated person” means any infant, lunatic, idiot or insane person;
+“incapacitated person” means an individual —
+
+(a) who is below 21 years of age; or
+
+(b) who lacks capacity to make a decision for himself or herself in relation to any matter at the material time because of an impairment of, or a disturbance in the functioning of, the mind or brain, whether such impairment or disturbance is permanent or temporary;
 
 “information subject to legal privilege” means —
 
-(a) communications between an advocate and solicitor and his client or any person representing his client made in connection with the giving of legal advice to the client;
-
-and
+(a) communications between an advocate and solicitor and his or her client or any person representing his or her client made in connection with the giving of legal advice to the client; and
 
 (b) communications between —
 
-(i) an advocate and solicitor and his client or any person representing his client; or
+(i) an advocate and solicitor and his or her client or any person representing his or her client; or
 
-(ii) an advocate and solicitor or his client or any such representative and any other person,
+(ii) an advocate and solicitor or his or her client or any such representative and any other person, made in connection with, or in contemplation of, judicial proceedings and for the purposes of such proceedings, when such communications are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications made with the intention of furthering a criminal purpose;
 
-(b) made in connection with, or in contemplation of, judicial proceedings and for the purposes of such proceedings, when such communications are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications made with the intention of furthering a criminal purpose;
-
-“institution of a public character” has the same meaning as in the Charities Act (Cap. 37);
+“institution of a public character” has the meaning given by the Charities Act 1994;
 
 “issued shares” excludes treasury shares;
 
-“life annuity” means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
+“life annuity” means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his or her life;
 
 “limited liability partnership” means any limited liability partnership incorporated or registered under any law in force in Singapore or elsewhere;
 
 “limited partnership” means a limited partnership registered or formed under any law in force in Singapore or elsewhere;
 
-“local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
+“offshore mineral” means mineral from the seabed or that is dissolved in sea water;
+
+“offshore renewable energy” means —
+
+(a) ocean thermal power;
+
+(b) offshore geothermal power;
+
+(c) offshore solar power;
+
+(d) offshore wind power;
+
+(e) osmotic power;
+
+(f) tidal power; or
+
+(g) wave power;
 
 “permanent establishment” means a fixed place where a business is wholly or partly carried on including —
 
@@ -101,19 +117,17 @@ and
 
 (h) a mine, oil well, quarry or other place of extraction of natural resources;
 
-(i) a building or work site or a construction, installation or assembly project, and without prejudice to the generality of the foregoing, a person shall be deemed to have a permanent establishment in Singapore if that person —
+(i) a building or work site or a construction, installation or assembly project, and without limiting the foregoing, a person is deemed to have a permanent establishment in Singapore if that person —
 
-(i) carries on supervisory activities in connection with a building or work site or a construction, installation or assembly project; or
+(j) carries on supervisory activities in connection with a building or work site or a construction, installation or assembly project; or
 
-(ii) has another person acting on that person’s behalf in Singapore who —
+(k) has another person acting on that person’s behalf in Singapore who —
 
-(A) has and habitually exercises an authority to conclude contracts;
+(i) has and habitually exercises an authority to conclude contracts;
 
-(B) maintains a stock of goods or merchandise for the purpose of delivery on behalf of that person;
+(ii) maintains a stock of goods or merchandise for the purpose of delivery on behalf of that person; or
 
-or
-
-(C) habitually secures orders wholly or almost wholly for that person or for such other enterprises as are controlled by that person;
+(iii) habitually secures orders wholly or almost wholly for that person or for such other enterprises as are controlled by that person;
 
 “person” includes a company, body of persons and a Hindu joint family;
 
@@ -121,9 +135,15 @@ or
 
 “prescribed” means prescribed by rules or regulations made under this Act;
 
-“prescribed minimum retirement age” has the same meaning as in the Retirement and Re-employment Act (Cap. 274A);
+“prescribed minimum retirement age” has the meaning given by the Retirement and Re-employment Act 1993;
 
-“professional visit pass” means a professional visit pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
+“private hire car” means a motor car —
+
+(a) that is used as a private hire car within the meaning of the Road Traffic Act 1961; and
+
+(b) in respect of which a licence is issued under Part 5 of that Act for such use;
+
+“professional visit pass” means a professional visit pass issued by the Controller of Immigration under the Immigration Regulations;
 
 “replanting” means the replacement of the crop of any product on any area of land by the planting on the same area —
 
@@ -143,11 +163,11 @@ or
 
 (e) market research or sales promotion;
 
-(f) routine modifications or changes to materials, devices, products, processes or production methods; or
+(f) routine modifications or changes to materials, devices, products, processes or production methods;
+
+or
 
 (g) cosmetic modifications or stylistic changes to materials, devices, products, processes or production methods;
-
-(h) [Deleted by Act 29 of 2012]
 
 “research and development organisation” means a body or an organisation which provides research and development services for any trade or business;
 
@@ -157,42 +177,48 @@ or
 
 (b) in relation to a company or body of persons, means a company or body of persons the control and management of whose business is exercised in Singapore;
 
+“specially authorised officer” means an officer authorised under section 4(5) to exercise the powers mentioned in that provision;
+
 “SRS account” means an account opened with an SRS operator by an SRS member;
 
-“SRS contribution cap”, in relation to an SRS member, means the maximum contribution prescribed under section 10L that may be made by the member to his SRS account in any year under the SRS;
+“SRS contribution cap”, in relation to an SRS member, means the maximum contribution prescribed under section 10G that may be made by the member to his or her SRS account in any year under the SRS;
 
 “SRS member” means a member of the Supplementary Retirement Scheme;
 
-“SRS operator” means any company approved by the Minister, or such person as he may appoint, for the purposes of the Supplementary Retirement Scheme;
+“SRS operator” means any company approved by the Minister, or such person as the Minister may appoint, for the purposes of the Supplementary Retirement Scheme;
 
-“Supplementary Retirement Scheme” or “SRS” means the Supplementary Retirement Scheme established by regulations made under section 10L;
+“Supplementary Retirement Scheme” or “SRS” means the Supplementary Retirement Scheme established by regulations made under section 10G;
 
 “tax” means the income tax imposed by this Act;
 
 “treasury share” —
 
-(a) in relation to a company incorporated under the Companies Act (Cap. 50) or any corresponding previous written law, means a treasury share as defined in section 4(1) of that Act; and
+(a) in relation to a company incorporated under the Companies Act 1967 or any corresponding previous written law, means a treasury share as defined in section 4(1) of that Act; and
 
 (b) in relation to a company incorporated under the law of a country other than Singapore, means a share issued by the company which is subsequently acquired and held by it;
 
-“work pass” means a work pass issued by the Controller of Work Passes under the Employment of Foreign Manpower Act (Cap. 91A);
+“VCC Act” means the Variable Capital Companies Act 2018;
 
-“year of assessment” means the period of 12 months commencing on 1st January 1948, and each subsequent period of 12 months.
+“work pass” means a work pass issued by the Controller of Work Passes under the Employment of Foreign Manpower Act 1990;
 
-[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94;
+“year of assessment” means the period of 12 months commencing on 1 January 1948, and each subsequent period of 12 months.
 
-32/95; 1/98; 31/98; 32/99; 24/2001; 42/2001; 37/2002;
+[2/2016; 34/2016; 39/2017; 45/2018; 28/2019; 32/2019;
 
-21/2003; 49/2004; 34/2005; 10/2007; 30/2007; 34/2008;
+41/2020]
 
-27/2009; 29/2010; 4/2011; 29/2012; 19/2013]
+(1A) The terms “non-umbrella VCC”, “share”, in relation to a VCC, “sub-fund”, “umbrella VCC”, and “VCC” have the meanings given to them in the VCC Act.
 
-(2) For the purposes of this Act, where an individual is present in Singapore for any part of a day, his presence on that day shall be counted as one day.
+[28/2019]
 
-[13/84]
+(2) For the purposes of this Act, where an individual is present in Singapore for any part of a day, his or her presence on that day is counted as one day.
 
-(3) [Deleted by Act 29 of 2012]
+(3) In this Act, a ship (as defined in section 2(1) of the Merchant Shipping Act 1995) is used for offshore oil or gas activity if it is used for the exploration or exploitation of offshore oil or gas, or to support any activity that is ancillary to such exploration or exploitation.
 
-(4) In this Act, for the avoidance of doubt, a reference to the spouse of a person means a spouse who is of the opposite sex to that person.
+[2/2016]
 
-[29/2010]
+(3A) In this Act, a ship (as defined in section 2(1) of the Merchant Shipping Act 1995) is used for offshore renewable energy activity or offshore mineral activity if it is used for the exploration or exploitation of offshore renewable energy or offshore mineral, or to support any activity that is ancillary to such exploration or exploitation.
+
+[34/2016]
+
+(4) In this Act, to avoid doubt, a reference to the spouse of a person means a spouse who is of the opposite sex to that person.

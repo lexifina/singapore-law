@@ -1,109 +1,146 @@
-# 14P. Deduction for treasury shares transferred under employee equity- based remuneration scheme... ... ... ... ... ... ... ... 255
-Part: PART V DEDUCTIONS AGAINST INCOME
-Heading: Section Pages
+# 14P. Deduction for qualifying design expenditure
+Part: PART 5 DEDUCTIONS AGAINST INCOME
 
-(1) Where a company transfers, in the basis period for the year of assessment 2007 or any subsequent year of assessment, treasury shares held by it to any person under a stock option scheme or a share award scheme by reason of any office or employment held in Singapore by that person, there shall be allowed a deduction to that company for that year of assessment.
+(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2011 or the year of assessment 2012, there are allowed, in respect of all of the person’s trades and businesses, the following deductions for qualifying design expenditure incurred for the purposes of those trades and businesses during each basis period:
 
-[7/2007]
+(a) where such expenditure is allowable as a deduction under section 14, a deduction of 300% of A, in addition to the deduction allowed under that section; and
 
-(2) Subject to subsection (8), the amount of deduction to be allowed to a company under subsection (1) shall be the cost to the company of acquiring the treasury shares transferred to the person less any amount payable by that person for the treasury shares.
+(b) where such expenditure is not allowable as a deduction under section 14, a deduction of 400% of A, where A is —
 
-[7/2007]
+(c) for the year of assessment 2011, the lower of the following:
 
-(3) For the purpose of subsection (2), the cost to the company of acquiring the treasury shares shall be determined by any of the methods referred to in subsection (4), being (if the company has previously been allowed a deduction under this section) the method consistently adopted by it when ascertaining its cost of acquiring shares under this section.
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-[22/2011]
+(ii) $800,000; and
 
-(4) The methods referred to in subsection (3) are as follows:
+(d) for the year of assessment 2012, the lower of the following:
 
-(a) on the basis that the treasury shares acquired by the company at an earlier point in time are deemed to be transferred first;
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-(b) on the basis of the formula A  C;
+(ii) the balance after deducting from $800,000 the lower of the amounts specified in paragraph (c)(i) and (ii).
 
-B
+(2) Subject to this section and section 37J, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2013, the year of assessment 2014 or the year of assessment 2015, there are allowed, in respect of all of the person’s trades and businesses, the following deductions for qualifying design expenditure incurred for the purposes of those trades and businesses during the basis period:
 
-where A is the number of the treasury shares transferred;
+(a) where such expenditure is allowable as a deduction under section 14, a deduction of 300% of A, in addition to the deduction allowed under that section; and
 
-B is the total number of treasury shares held by the company immediately before the transfer; and
+(b) where such expenditure is not allowable as a deduction under section 14, a deduction of 400% of A, where A is —
 
-C is the total cost to the company of acquiring the treasury shares held by it immediately before the transfer;
+(c) for the year of assessment 2013, the lower of the following:
 
-(c) on the basis of the aggregate cost of all treasury shares transferred under subsection (1) within every regular interval in the basis period during which the transfer in question occurred, where the cost of all treasury shares so transferred within a regular interval is ascertained by the formula D  ðG þ HÞ;
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-ðE þ FÞ
+(ii) $1,200,000;
 
-where D is the total number of treasury shares transferred under subsection (1) within that interval;
+(d) for the year of assessment 2014, the lower of the following:
 
-E is the total number of treasury shares held by the company at the end of the period equal in length to the regular interval immediately preceding that interval;
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-F is the total number of treasury shares acquired by the company within that interval;
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (c)(i) and (ii); and
 
-G is the total cost to the company of acquiring the treasury shares held by it at the end of the period equal in length to the regular interval immediately preceding that interval; and
+(e) for the year of assessment 2015, the lower of the following:
 
-H is the total cost to the company of acquiring treasury shares within that interval.
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-[22/2011]
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (c)(i) and (ii), and the lower of the amounts specified in paragraph (d)(i) and (ii).
 
-(5) Where any amount payable by a person for any treasury shares transferred to him exceeds the cost to the company of acquiring the treasury shares transferred as determined under subsection (3), the amount of the excess shall be credited to an account to be kept by the company for the purpose of this section.
+[37/2014]
 
-[7/2007]
+(2AA) Subject to this section and section 37J, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2016, 2017 or 2018, there are allowed, in respect of all of the person’s trades and businesses, the following deductions for qualifying design expenditure incurred for the purposes of those trades and businesses during the basis period:
 
-(6) Where there is any balance in the account kept by the company under subsection (5) and any treasury shares are subsequently transferred by the company to any person under subsection (1), the cost to the company of acquiring the treasury shares as determined under subsection (3) shall be reduced —
+(a) where such expenditure is allowable as a deduction under section 14, a deduction of 300% of A, in addition to the deduction allowed under that section; and
 
-(a) where the amount of the balance is equal to or exceeds the amount of the cost, to zero; or
+(b) where such expenditure is not allowable as a deduction under section 14, a deduction of 400% of A, where A is —
 
-(b) where the amount of the balance is less than the amount of the cost, by the amount of the balance, and the amount of the reduction shall be debited to the account.
+(c) for the year of assessment 2016, the lower of the following:
 
-[7/2007]
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-(7) For the purpose of this section, a company transfers treasury shares held by it to a person when the person acquires the legal and beneficial interest in the treasury shares.
+(ii) $1,200,000;
 
-[7/2007]
+(d) for the year of assessment 2017, the lower of the following:
 
-(8) Where a holding company transfers treasury shares held by it to any person employed at any time by a subsidiary company of the holding company under a stock option scheme or a share award scheme —
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-(a) no deduction shall be allowed to the holding company under subsection (1);
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (c)(i) and (ii); and
 
-(b) if any amount is paid or payable by the subsidiary company to the holding company for the transfer of the treasury shares, there shall be allowed to the subsidiary company for the year of assessment which relates to the basis period in which the shares are transferred or in which the payment to the holding company for the shares becomes due and payable (whichever is the later), a deduction under subsection (1) of the lower of —
+(e) for the year of assessment 2018, the lower of the following:
 
-(i) the amount, less any amount paid or payable by the person for the treasury shares, to the extent the amount so paid or payable has not been deducted from the first-mentioned amount; and
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-(ii) an amount equal to the cost to the holding company of acquiring the treasury shares transferred to that person as determined under subsection (8A) less any amount paid or payable by the person for the treasury shares;
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (c)(i) and (ii), and the lower of the amounts specified in paragraph (d)(i) and (ii).
 
-and
+[37/2014]
 
-(c) subsections (5) and (6) shall not apply to a company to which this subsection applies.
+(2A) In subsection (1), the amount under paragraph (c)(ii) is substituted with “$400,000” if the person does not carry on any trade or business during the basis period for the year of assessment 2012, and the balance under paragraph (d)(ii) is substituted with “$400,000” if the person does not carry on any trade or business during the basis period for the year of assessment 2011.
 
-[7/2007; 22/2011]
+(2B) In subsection (2) —
 
-(8A) For the purpose of subsection (8)(b), the amount equal to the cost to the holding company of acquiring the treasury shares transferred to a person shall be determined —
+(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the year of assessment 2013 and the year of assessment 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of that subsection applicable to the other 2 years of assessment are each substituted with “$800,000”;
 
-(a) in accordance with subsection (3); or
+(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the year of assessment 2013 and the year of assessment 2015 (both years inclusive), the reference to “$1,200,000” in the paragraph of that subsection applicable to the remaining year of assessment is substituted with “$400,000”; and
 
-(b) where the holding company is incorporated outside Singapore and the following conditions are satisfied, on the basis that the treasury shares acquired by the holding company at the latest point in time are deemed to be transferred first:
+(c) to avoid doubt, no deduction may be made from the substituted amount in subsection (2)(d)(ii) or (e)(ii) of the lower of the amounts specified in subsection (2)(c)(i) and
 
-(i) the basis is in accordance with the accounting policy of the group of companies of which the holding company is a member;
+(ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2013, and no deduction may be made from the substituted amount in subsection (2)(e)(ii) of the lower of the amounts specified in subsection (2)(d)(i) and (ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2014.
 
-(ii) if there are applicable accounting principles which are generally accepted in the country in which the holding company is incorporated, the basis is in accordance with those principles;
+(2C) In subsection (2AA) —
 
-(iii) the basis is consistently adopted by the holding company unless otherwise allowed by the Comptroller; and
+(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the years of assessment 2016 and 2018 (both years inclusive), the references to “$1,200,000” in the paragraphs of that subsection applicable to the other 2 years of assessment are each substituted with “$800,000”;
 
-(iv) the Comptroller is satisfied that the basis is not adopted for the purposes of deriving any tax benefit or obtaining any tax advantage.
+(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the years of assessment 2016 and 2018 (both years inclusive), the reference to “$1,200,000” in the paragraphs of that subsection applicable to the remaining year of assessment is substituted with “$400,000”; and
 
-[34/2008]
+(c) to avoid doubt, no deduction may be made from the substituted amount in subsection (2AA)(d)(ii) and (e)(ii) of the lower of the amounts specified in subsection (2AA)(c)(i) and (ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2016, and no deduction may be made from the substituted amount in subsection (2AA)(e)(ii) of the lower of the amounts specified in subsection (2AA)(d)(i) and (ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2017.
 
-(9) In this section —
+[37/2014]
 
-“holding company” and “subsidiary company” have the same meanings as in section 5 of the Companies Act (Cap. 50);
+(3) For the purposes of subsections (1), (2) and (2AA), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has incurred qualifying design expenditure during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2018 (both years inclusive) in respect of such firms for the purposes of his or her trade or business, the deduction that may be allowed to him or her for that expenditure in respect of all of his or her trades and businesses must not exceed the amount computed in accordance with subsection (1),
 
-“regular interval”, in relation to a basis period, means one of a number of equal periods within the basis period —
+(2) or (2AA) (as the case may be) for that year of assessment.
 
-(a) where the aggregate of all of those equal periods is equal to the basis period; and
+[37/2014]
 
-(b) where the duration of each equal period —
+(4) For the purposes of subsections (1), (2) and (2AA), where a partnership carrying on a trade or business has incurred qualifying design expenditure during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2018 (both years inclusive) for the purposes of its trade or business, the aggregate of the deductions that may be allowed to all the partners of the partnership for that expenditure in respect of all of the trades and businesses of the partnership must not exceed the amount computed in accordance with subsection (1), (2) or (2AA) (as the case may be) for that year of assessment.
 
-(i) in a case where the company has previously been allowed a deduction under this section, is the one previously adopted by the company for the purpose of this section; or
+[37/2014]
 
-(ii) in any other case, is any duration adopted by the company for the purpose of this section.
+(5) For the purpose of this section, any expenditure incurred by a person prior to the commencement of that person’s trade or business is deemed to have been incurred by that person on the first day on which that person carries on that trade or business but a deduction for this is subject to section 14X.
 
-[7/2007; 22/2011]
+[34/2016]
+
+(6) In this section —
+
+“approved design service provider” means any person who provides design consultancy services for any trade or business, and who is approved by the Minister or such person as the Minister may appoint;
+
+“industrial or product design” means the professional specifications of creating and developing concepts or specifications that improve or enhance the functions, value or appearance of physical products, taking into account users’ needs, marketability and production;
+
+“qualified designer” means an individual with a design-related tertiary academic qualification of at least a diploma that is approved by such person as the Minister may appoint;
+
+“qualifying design expenditure” means —
+
+(a) expenditure incurred by the person on the staff costs of in-house qualified designers which are attributable to an industrial or product design project approved under subsection (7) and undertaken primarily in Singapore and directly by that person; and
+
+(b) where an approved design service provider has been engaged by the person to undertake primarily in Singapore for the trade or business in question an industrial or product design project approved under subsection (7) —
+
+(i) where more than 60% of all payments made by the person to the approved design service provider for the project are staff costs, the actual amount of staff costs; or
+
+(ii) in all other cases, 60% of those payments, but does not include any expenditure or payment to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board;
+
+“staff costs” means any salary, wages and other benefits whether in the form of money or otherwise (but excluding directors’ fees), paid or granted in respect of the employment of any qualified designer which are attributable to the industrial or product design project.
+
+(7) The Minister or such person as the Minister may appoint may approve an industrial or product design project for the purposes of the definition of “qualifying design expenditure” under subsection (6), and may in granting the approval impose such conditions as the Minister or appointed person thinks fit.
+
+(7A) For the purpose of the definition of “qualifying design expenditure” in subsection (6), an industrial or product design project is undertaken primarily in Singapore if at least 3 of the following 5 design phases of the project are carried out wholly in Singapore:
+
+(a) design research;
+
+(b) idea generation;
+
+(c) concept development;
+
+(d) technical development;
+
+(e) communication.
+
+(8) Where a person fails to comply with any condition imposed under subsection (7), the aggregate of deductions allowed to the person under this section is deemed to be the person’s income for the year of assessment in which the Comptroller discovers such non-compliance.
+
+[14S

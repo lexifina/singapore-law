@@ -1,61 +1,106 @@
-# 13X. Exemption of income arising from funds managed by fund manager in Singapore ... ... ... ... ... ... ... ... ... 190
-Part: PART IV EXEMPTION FROM INCOME TAX
-Heading: Section Pages
+# 13X. Exemption of certain payments received in connection with COVID-19 events
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the person, master fund, feeder fund or master-feeder fund structure, there shall be exempt from tax such income as the Minister may by regulations prescribe of —
+(1) The following are exempt from tax:
 
-(a) an approved person arising from funds managed in Singapore by a fund manager; or
+(a) a cash payment made on behalf of the Government to a person under the public scheme known as the Self-Employed Person Income Relief Scheme (SIRS), that is part of the Budget Statements of the Government dated 26 March 2020 and 6 April 2020;
 
-(b) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is the approved master fund or an approved feeder fund of an approved master-feeder fund structure, arising from funds of the master fund or any feeder fund of that structure that are managed in Singapore by a fund manager.
+(b) a cash payment made on behalf of the Government to a person under the public scheme known as the Jobs Support Scheme (JSS);
 
-[27/2009; 29/2010; 22/2011]
+(c) a cash payment made by the Government to a person under any of the following public schemes:
 
-(2) Approval under subsection (1)(a) may be granted during the period from 1st April 2009 to 31st March 2014 (both dates inclusive).
+(i) Quarantine Order Allowance (QOA) Scheme;
 
-[27/2009; 29/2010]
+(ii) Leave-of-Absence (LOA) Programme;
 
-(2A) Approval under subsection (1)(b) may be granted during the period from 7th July 2010 to 31st March 2014 (both dates inclusive).
+(iii) the Stay-Home Notice (SHN) Support Programme;
 
-[29/2010]
+(d) a cash payment made on behalf of the Government to an individual under the public scheme known as the COVID-19 Support Grant (CSG), that is part of the Budget Statement of the Government dated 26 March 2020, and the ministerial statement of the Minister dated 17 August 2020;
 
-(3) Where the income of any approved person or company, trustee or partner referred to in subsection (1)(b) is not exempt from tax under this section, sections 13C, 13CA and 13R shall not apply to that income notwithstanding anything in those provisions.
+(e) a cash payment made by the Singapore Tourism Board between (and including) the months of April and July 2020 to the holder of a tourist guide licence as defined in section 20(1) of the Singapore Tourism Board Act 1963, to mitigate any loss of income from a COVID-19 event;
 
-[27/2009; 29/2010]
+(f) a cash payment made by the Maritime and Port Authority of Singapore under the public scheme known as the Seafarers Relief Package in the year 2020 to a seafarer as defined in section 2(1) of the Merchant Shipping (Maritime Labour Convention) Act 2014, that is funded by the Maritime and Port Authority of Singapore;
 
-(4) Regulations made under subsection (1) may —
+(g) a benefit received by a self-employed individual who drives a chauffeured private hire car or taxi, from —
 
-(a) provide for the determination of the amount of income of any approved person or company, trustee or partner referred to in subsection (1)(b) to be exempt from tax;
+(i) the Land Transport Authority of Singapore (called in this paragraph and paragraph (ga) LTA); or
 
-(b) provide for the deduction of expenses, allowances and losses of any approved person or company, trustee or partner referred to in subsection (1)(b) otherwise than in accordance with this Act;
+(ii) an entity in the Tenth Schedule, that is given in connection with an amount received by LTA or the entity out of a payment made by the Government to the Special Relief Fund under the public scheme known as the Point-to-Point Support Package;
 
-(c) where the approved person is a partner of an approved limited partnership, provide for the recovery of tax from him in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the limited partnership, including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non-compliance of the condition;
+(ga) a benefit received by an individual who drives a chauffeured private hire car or taxi, from —
 
-(ca) provide for the recovery of tax from a company or a trustee of a trust fund referred to in subsection (1)(b) in a case where the exemption ought not to have been allowed to the company or trustee due to non-compliance with any condition imposed on the approved master-feeder fund structure;
+(i) the LTA; or
 
-(cb) provide for the recovery of tax from a partner of a limited partnership referred to in subsection (1)(b) in a case where the exemption ought not to have been allowed to that partner due to non-compliance with any condition imposed on the approved master-feeder fund structure, including the deeming of a specified amount as income of the partner for the year of assessment in which the Comptroller discovers the non-compliance of the condition; and
+(ii) an entity in the Tenth Schedule, that is given on or after 1 January 2021 in connection with an amount received by the LTA or the entity out of a payment made by the Government from a fund established by the Government known as the COVID-19 Driver Relief Fund;
 
-(d) make provision generally for giving full effect to or for carrying out the purposes of this section.
+(h) any other prescribed benefit given in connection with a prescribed public scheme, up to such amount or value as may be prescribed.
 
-[27/2009; 29/2010; 29/2012]
+[41/2020; 27/2021]
 
-(5) In this section —
+(2) Where a public authority makes a payment under a public scheme on behalf of the Government to a person that is then paid to another person, the firstmentioned person does not, for the purposes of subsection (1), make the second-mentioned payment on behalf of the Government.
 
-“approved” means approved by the Minister or such person as he may appoint;
+Example
 
-“approved CPF unit trust” has the same meaning as in section 35(14);
+The Inland Revenue Authority of Singapore makes a cash payment under the Jobs Support Scheme on behalf of the Government to a central hirer of a central hiring arrangement of a group of related parties (as defined in section 14O(6)), which the central hirer disburses to the related parties. The central hirer does not make the disbursement on behalf of the Government under subsection (1)(b).
 
-“approved person” means any approved company, any partner of an approved limited partnership or any trustee of an approved trust fund;
+[41/2020]
 
-“designated unit trust” means any unit trust designated under section 35(14);
+(3) The following are also exempt from tax, but only if the Comptroller is satisfied that conditions prescribed for the exemption are satisfied:
 
-“feeder fund” means a company, trust fund or limited partnership that invests its funds substantially and directly through only one master fund;
+(a) the rent or value of any place of residence in Singapore (including any furniture or fittings in that place), or an allowance for accommodation in Singapore, for the use by an individual in the year 2020, that is provided to the individual in the year 2020 by the individual’s employer, up to the prescribed amount per day;
 
-“master-feeder fund structure” means one or more feeder funds and the master fund through which the funds of the feeder fund or funds are substantially and directly invested;
+(b) the value of any food, transport and other necessities (called in this paragraph basic necessities), or an allowance for basic necessities, for consumption or use by an individual in Singapore in the year 2020, that is provided to the individual in the year 2020 by the individual’s employer, up to the prescribed amount per day for all basic necessities.
 
-“master fund” means a company, trust fund or limited partnership that enables investors to invest funds in one or more underlying investments that are managed by a fund manager;
+[41/2020]
 
-“real estate investment trust” has the same meaning as in section 43(10);
+(4) An amount described in subsection (5) received or receivable in the year 2020 by a person who is a lessee or licensee of any immovable property in relation to which a remission of property tax is given by the Property Tax (Non-Residential Properties) (Remission) Order 2020, is exempt from tax.
 
-“trust fund” does not include any trust that is a pension or provident fund approved by the Comptroller under section 5, approved CPF unit trust, designated unit trust and real estate investment trust.
+[41/2020]
 
-[27/2009; 29/2010]
+(5) The amount mentioned in subsection (4) is any of the following, as applicable:
+
+(a) the amount in the form of monetary payments of any benefit (as defined in the COVID-19 (Temporary Measures) (Transfer of Benefit of Property Tax Remission) Regulations 2020) of the reduction in property tax as a result of the remission that the owner of the immovable property is required under section 29(2) of the COVID-19 (Temporary Measures) Act 2020 to pass on to the person in the year 2020;
+
+(b) the amount in the form of monetary payments that the owner of the immovable property has passed on or has agreed to pass on to the person in the year 2020, and by reason of which the owner is exempt from section 29(2) of the COVID-19 (Temporary Measures) Act 2020 under regulation 13(2) of the COVID-19 (Temporary Measures) (Transfer of Benefit of Property Tax Remission) Regulations 2020;
+
+(c) the amount of any other monetary payments received or receivable by the person from the person’s lessor or licensor in the year 2020, but only if the Comptroller is satisfied that the payments are intended by the lessor or licensor to provide relief to the person from any economic hardship arising from a COVID-19 event;
+
+(d) the total of the amounts in paragraphs (a), (b) and (c).
+
+[41/2020]
+
+(5A) The amount of any monetary payment received or receivable by a person who is a lessee or licensee of any prescribed property from the person’s lessor or licensor in the year 2021 is exempt from tax, if —
+
+(a) the payment is made pursuant to an undertaking given by the lessor or licensor to his, her or its lessor or licensor, to provide relief to the person from any economic hardship arising from a COVID-19 event; or
+
+(b) the Comptroller is satisfied that the monetary payment is intended by the lessor or licensor to provide relief to the person from any economic hardship arising from a COVID-19 event.
+
+[27/2021]
+
+(5B) Rules made for the purposes of subsection (5A) may be made to take effect from (and including) 16 November 2021.
+
+[27/2021]
+
+(6) In this section —
+
+“chauffeured private hire car” has the meaning given to that term by section 14ZA(8);
+
+“COVID-19” means the infectious disease known as Coronavirus Disease 2019;
+
+“COVID-19 event” means —
+
+(a) the COVID-19 epidemic or pandemic; or
+
+(b) the operation of or compliance with any law of Singapore, or an order or direction of the Government or any statutory body, being any law, order or direction that is made by reason of or in connection with COVID-19;
+
+“monetary payment” includes payment by e-money as defined in section 2(1) of the Payment Services Act 2019;
+
+“owner”, in relation to immovable property, has the meaning given by section 2(1) of the Property Tax Act 1960 and includes a person that is deemed to be an owner of the property under any provision of that Act;
+
+“prescribed” means prescribed by rules made under section 7;
+
+“prescribed property” means any non-residential property, or any property belonging to a class of non-residential properties, that is prescribed as a prescribed property for the purposes of subsection (5A), and includes any part of such property.
+
+[13ZA
+
+[41/2020; 27/2021]

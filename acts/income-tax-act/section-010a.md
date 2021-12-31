@@ -1,30 +1,30 @@
-# 10A. Profits of investment company ... ... ... ... ... ... ... 48
-Part: PART III IMPOSITION OF INCOME TAX
+# 10A. Profits of unit trusts
+Part: PART 3 IMPOSITION OF INCOME TAX
 
-(1) Notwithstanding any other provisions of this Act, the Minister may by regulations —
+(1) Despite any other provisions of this Act, the Minister may by regulations —
 
-(a) provide that tax on gains or profits derived from the disposal of securities (other than transferred securities to which section 10N applies) by an approved investment company shall be levied and paid for each year of assessment upon such amount as may be determined by reference to the period during which those securities have been held;
+(a) provide that tax on gains or profits derived on or after 1 July 1989 from the disposal of securities by an approved unit trust is to be levied and paid for each year of assessment by the trustees upon such percentage of the gains or profits and in such manner as may be prescribed;
 
-(b) provide for the deduction of such amount of allowances under section 19, 19A, 20, 21 or 23 to be granted in such manner as may be prescribed;
+(b) provide for the deduction of such percentage of the losses arising from the disposal of securities in such manner as may be prescribed;
 
-(c) provide for the deduction of such amount of losses arising from the disposal of securities (other than transferred securities to which section 10N applies) as may be determined by reference to the period during which those securities have been held;
+(c) provide for the deduction of expenses allowable under this Act to be granted in such manner as may be prescribed;
 
-(d) provide for the deduction of such amounts of expenses and donations allowable under this Act in such manner as may be prescribed.
+(d) provide for the deduction of tax by the trustees of the unit trust on any distribution received by a unit holder which is deemed to be income under section 10(19).
 
-[3/89; 37/2002]
+(1A) No unit trust may be approved as an approved unit trust under this section after 18 February 2019.
+
+[32/2019]
 
 (2) In this section —
 
-“approved” means approved by the Minister or such person as he may appoint;
+“approved” means approved by the Minister or such person as the Minister may appoint;
 
-“investment company” means any company whose business consists wholly or mainly in the making of investments and the principal part of whose income is derived therefrom;
+“securities” has the meaning given by section 10(23);
 
-“securities” means —
+“unit” means a right or an interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust;
 
-(a) debentures, stocks, shares, bonds or notes issued by a government or company;
+“unit trust” means any trust established for the purpose, or having the effect, of providing facilities for the participation by persons as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property.
 
-(b) any right or option in respect of any such debentures, stocks, shares, bonds or notes; or
+[10B
 
-(c) units in any unit trust within the meaning of section 10B.
-
-[23/90; 32/95]
+[32/2019]

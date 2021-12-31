@@ -1,27 +1,32 @@
-# 13T. Exemption of trust income to which beneficiary is entitled ... 181
-Part: PART IV EXEMPTION FROM INCOME TAX
-Heading: Section Pages
+# 13T. Exemption of relevant income of eligible family-owned investment holding company
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) Where any beneficiary of a trust who is resident in Singapore is entitled to any share of the statutory income of the trust, that share shall be exempt from tax in his hands if it would have been exempt from tax under any provision of this Part had it been derived or received directly by the beneficiary rather than the trustee.
+(1) There is exempt from tax all relevant income of an eligible family-owned investment holding company.
 
-[7/2007]
+(2) For the purposes of subsection (1), the Minister may make regulations to provide for the deduction of expenses, allowances and losses of an eligible family-owned investment holding company otherwise than in accordance with this Act.
 
-(2) This section shall not apply to —
+(3) In this section —
 
-(a) any income of a real estate investment trust within the meaning of section 43(10);
+“eligible family-owned investment holding company” means any company incorporated before 1 April 2013 —
 
-(b) any income of a unit trust designated under section 35(14);
+(a) whose shareholders are related to each other in the manner prescribed by regulations;
 
-(c) any income of an approved CPF unit trust within the meaning of section 35(14);
+(b) whose operation consists wholly or mainly of the holding or making of investments; and
 
-(d) any income of a trust fund prescribed under section 13C;
+(c) which satisfies such other conditions as may be prescribed by regulations;
 
-(e) any income of a foreign trust specified under section 13G;
+“relevant income” means —
 
-(f) any income of a locally administered trust prescribed under section 13Q;
+(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi), (zj), (zk) or
 
-(g) any income of a trust the trustee of which is a prescribed person under section 13CA; or
+(zl) accrued in or derived from Singapore on or after 1 April 2008; or
 
-(h) any income of an approved trust fund referred to in the definition of “approved person” under section 13X(5), or of a trust fund that is a feeder fund or master fund approved under section 13X.
+(b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 1 April 2008.
 
-[7/2007; 22/2011]
+(4) Where a company fails to satisfy the definition of “eligible family-owned investment holding company” in any basis period beginning on or after 1 April 2013, then this section does not apply to the company in any subsequent basis period, even if it satisfies the definition in that subsequent basis period.
+
+(5) Subsection (1) ceases to apply with effect from the year of assessment 2024.
+
+[13W
+
+[39/2017]

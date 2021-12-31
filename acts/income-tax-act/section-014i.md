@@ -1,87 +1,142 @@
-# 14I. Provisions by banks and qualifying finance companies for doubtful debts and diminution in value of investments ... ... 240
-Part: PART V DEDUCTIONS AGAINST INCOME
-Heading: Section Pages
+# 14I. Further or double deduction for salary expenditure for employees posted overseas
+Part: PART 5 DEDUCTIONS AGAINST INCOME
 
-(1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of a bank or qualifying finance company, there shall be allowed as a deduction an amount in respect of the provision for doubtful debts arising from its loans and the provision for diminution in the value of its investments in securities, made in that basis period.
+(1) Where the Comptroller is satisfied that —
 
-[2/92; 28/96]
+(a) an approved firm or company resident and carrying on business in Singapore has incurred, at any time between 1 July 2015 and 31 December 2025 (both dates inclusive), salary expenditure specified for it under subsection (7) for its employees posted to an overseas establishment of the firm or company; and
 
-(2) Where in the basis period for any year of assessment —
+(b) the firm or company has satisfied the conditions precedent imposed under subsection (6) for a deduction under this section, then there is to be allowed to the firm or company —
 
-(a) any amount of the provisions is written back, that amount shall be treated as having been allowed as a deduction under this section and shall be deemed to be a trading receipt of the bank or qualifying finance company for that basis period;
+(c) where such expenditure is allowable as a deduction under section 14, a further deduction of the amount of such expenditure in addition to the deduction allowed under that section; or
 
-(b) the bank or qualifying finance company permanently ceases to carry on business in Singapore, any provisions in the account of the bank or qualifying finance company as at the date of the cessation shall be deemed to be a trading receipt of the bank or qualifying finance company for that basis period.
+(d) where such expenditure is not allowable as a deduction under section 14, a deduction equal to twice the amount of such expenditure.
 
-[28/96]
+[2/2016; 41/2020]
 
-(3) The total amount deemed as trading receipts under subsection (2) shall not exceed the total amount of all deductions previously allowed under this section.
+(2) No deduction is to be allowed under subsection (1) for salary expenditure that is incurred more than 3 years after either of the following dates:
 
-(4) Where in a scheme of amalgamation involving 2 or more banks or finance companies whereby the whole or substantially the whole of the undertaking of any bank or finance company is transferred to another bank or finance company, the Minister may, if he thinks fit and on such conditions as he may impose, by order declare that any provisions in the account of the transferor bank or transferor finance company which have been transferred to the transferee bank or transferee finance company shall not be deemed under subsection (2)(b) to be a trading receipt of the transferor bank or transferor finance company; and the provisions so declared shall for the purposes of this section be treated as having been allowed to the transferee bank or transferee finance company as a deduction under this section.
+(a) the date the overseas establishment is incorporated, established or formed;
 
-[28/96]
+(b) if the overseas establishment (being a company) is an overseas establishment of the approved firm or company as a result of any shareholding of the approved firm or company in the establishment, but the firm or company did not hold any shares in the overseas establishment on the date of the establishment’s incorporation, the earliest date on which the firm or company acquires any shares in the overseas establishment.
 
-(5) Subject to subsection (6), the total amount of the provisions to be allowed as a deduction under this section for any year of assessment shall not exceed the lowest of —
+[2/2016]
 
-(a) 25% of the qualifying profits for the basis period for that year of assessment;
+(3) Subject to subsection (4), the amount of salary expenditure allowed as a deduction for a year of assessment under subsection (1) must not exceed the amount specified for the firm or company under subsection (8).
 
-1
+[2/2016]
 
-(b) /2% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment; and
+(4) The sum of —
 
-(c) 3% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2) and (3).
+(a) the amount of expenditure allowed as a deduction or a further deduction to a firm or company under subsection (1); and
 
-[32/95; 1/98; 32/99]
+(b) any amount of expenditure allowed as a deduction or a further deduction to the firm or company under section 14H(1), must not exceed $1 million for each year of assessment.
 
-(6) No deduction shall be allowed for any year of assessment —
+[2/2016]
 
-(a) where there are no qualifying profits in the basis period for that year of assessment; or
+(5) The Minister or such person as the Minister may appoint may approve a firm or company for the purposes of claiming a deduction under subsection (1).
 
-(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (3), is in excess of 3% of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
+[2/2016]
 
-[1/98; 32/99]
+(6) When approving a firm or company under subsection (5), the Minister or appointed person may impose conditions precedent and conditions subsequent for a deduction under this section.
 
-(7) In this section —
+[2/2016]
 
-“bank” means a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved by the Monetary Authority of Singapore;
+(7) When approving a firm or company under subsection (5), the Minister or appointed person must specify the salary expenditure for which the firm or company may be allowed the deduction by reference to —
 
-“capital funds” has the same meaning as in the Finance Companies Act (Cap. 108);
+(a) the employees for whom the expenditure is incurred;
 
-“loan” means any loan, advance or credit facility made or granted by a bank or qualifying finance company, including an overdraft except for —
+(b) the overseas establishment in which they work;
 
-(a) loans to and placements with financial institutions in Singapore or any other country;
+(c) the work which they carry out in the overseas establishment; and
 
-(b) loans to the Government of Singapore or the government of any other country;
+(d) the period in which the expenditure is incurred.
 
-(c) loans to and placements with the Monetary Authority of Singapore or the central bank or other monetary authority of any other country;
+[2/2016]
 
-(d) loans to statutory bodies or corporations guaranteed by the Government of Singapore or the government of any other country; and
+(8) When approving a firm or company under subsection (5), the Minister or appointed person may also specify the maximum amount of expenditure for which the deduction is allowed.
 
-(e) such other loans or advances as may be prescribed;
+[2/2016]
 
-“prescribed value of loans and investments in securities”, in relation to the basis period for any year of assessment, means the value (ascertained in such manner as the Comptroller may determine) of the loans and investments in securities (excluding any loan or investment in respect of which any deduction has been allowed under any other section of this Act) as at the last day of each month in that basis period added together and divided by the number of months in that basis period;
+(9) No approval may be granted under subsection (5) after 31 December 2025.
 
-“provisions” means the provision for doubtful debts arising from the loans of a bank or qualifying finance company and the provision for diminution in the value of its investments in securities;
+[2/2016; 41/2020]
 
-“qualifying finance company” means a company licensed under the Finance Companies Act to carry on financing business which has, in the basis period for any year of assessment for which the deduction under this section is first allowed, capital funds of not less than $50 million and a capital adequacy ratio of not less than 12% as determined under that Act;
+(10) No deduction may be allowed under subsection (1) in respect of —
 
-“qualifying profit” means the net profit (excluding any extraordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities;
+(a) any expenditure incurred during the basis period for a year of assessment by a firm or company if —
 
-“securities” means —
+(i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13E, 13P or 13S;
 
-(a) debentures, stocks, shares, bonds or notes excluding —
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43D, 43E, 43G, 43I, 43J, 43L, 43P, 43Q, 43R, 43U, 43Vor 43X, or the regulations made under any of those sections; or
 
-(i) those issued or guaranteed by the Government of Singapore or the government of any other country; and
+(iii) it is given tax relief under Part 2, 3 or 4 of the Economic Expansion Incentives (Relief from Income Tax) Act 1967 for that year of assessment, or is given an investment allowance under Part 8 of that Act for that year of assessment; or
 
-(ii) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of the total number of its issued shares are beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
+(b) any expenditure to the extent it is or is to be subsidised by a grant or subsidy from the Government or a statutory board.
 
-(b) any right or option in respect of any debentures, stocks, shares, bonds or notes referred to in paragraph (a);
+[2/2016; 45/2018]
 
-(c) units in any unit trust within the meaning of section 10B;
+(11) Despite subsection (10), the Minister or such person as the Minister may appoint may, in any particular case, subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenditure referred to in subsection (10)(a).
 
-(d) units in a registered business trust within the meaning of section 36B;
+[2/2016]
 
-(e) any right or option in respect of any unit in a registered business trust within the meaning of section 36B; or
+(12) A firm or company is not entitled to a deduction under subsection (1) for any salary expenditure if and to the extent that an overseas establishment of the firm or company has been allowed at any time a deduction for it under any law relating to income tax or tax of a similar character of a country outside Singapore.
 
-(f) units in a real estate investment trust within the meaning of section 43(10).
+[2/2016]
 
-[28/96; 34/2005; 29/2010]
+(13) Despite anything in this section, where it appears to the Comptroller that in any year of assessment any deduction which has been allowed under this section ought not to have been allowed, the Comptroller may, within the year of assessment or within 4 years after the expiry of that year of assessment, make such assessment or additional assessment upon the firm or company as may be necessary to make good any loss of tax.
+
+[2/2016]
+
+(14) If a condition subsequent imposed under subsection (6) is not complied with in respect of any deduction allowed to a firm or company under subsection (1) or part of such deduction, the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+
+[2/2016]
+
+(15) If a condition subsequent imposed under subsection (11) is not complied with, the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non-compliance.
+
+[2/2016]
+
+(16) Where a firm or company has been allowed a deduction under subsection (1) even though it is not entitled to it or a part of it by reason of subsection (12), the deduction or part of the deduction is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the facts by reason of which the firm or company is not entitled to the deduction or part of it.
+
+[2/2016]
+
+(17) If, at any time after a firm or company has been allowed a deduction under subsection (1) for any salary expenditure, the firm or company is reimbursed for any amount of the expenditure, the amount of the deduction that corresponds to the expenditure reimbursed is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the reimbursement.
+
+[2/2016]
+
+(18) In this section —
+
+“overseas establishment”, in relation to an approved firm or company, means any of the following:
+
+(a) a branch, representative office, or subsidiary of the firm or company that is established, formed or incorporated in a country outside Singapore;
+
+(b) a partnership of which the firm or company is a partner, that is established or formed in a country outside Singapore;
+
+(c) such other entity as the Minister or appointed person approves as an overseas establishment of the firm or company at the time of the approval of the firm or company under subsection (5);
+
+“salary expenditure”, in relation to an employee of a firm or company, means expenditure comprising wages and salary for the employee, but excludes any bonus, commission, gratuity, leave pay, perquisite, allowance, or any other payment (whether in cash or kind) prescribed under section 7.
+
+[2/2016]
+
+(19) In this section, a firm or company is treated as having incurred salary expenditure for its employees posted to an overseas establishment of the firm or company, if —
+
+(a) it directly incurs that amount of expenditure for which it is not reimbursed; or
+
+(b) the overseas establishment directly incurs that amount of expenditure and the firm or company is liable to reimburse the overseas establishment for it, and the incurring of the expenditure and of the liability both occur —
+
+(i) when the firm or company is an approved firm or company resident and carrying on business in Singapore; and
+
+(ii) in the period between 1 July 2015 and 31 December 2025 (both dates inclusive).
+
+[2/2016; 41/2020]
+
+(20) In a case referred to in subsection (19)(b), the date on which salary expenditure is treated as incurred for the purposes of subsection (2) is the later of the date it is incurred by the overseas establishment and the date the firm or company incurs the liability to reimburse the overseas establishment.
+
+[2/2016]
+
+(21) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and
+
+accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
+
+[14KA
+
+[2/2016]

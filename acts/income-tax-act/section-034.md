@@ -1,6 +1,6 @@
-# 34. Decision of Comptroller no bar to appeal ... ... ... ... ... 400
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
+# 34. Decision of Comptroller no bar to appeal
+Part: PART 7 ASCERTAINMENT OF CERTAIN INCOME
 
-Nothing in section 32 or 33 shall prevent the decision of the Comptroller in the exercise of any discretion given to him by any such section from being questioned in an appeal against an assessment in accordance with Part XVIII.
+Nothing in section 32 prevents the decision of the Comptroller in the exercise of any discretion given to him or her by that section from being questioned in an appeal against an assessment in accordance with Part 18.
 
-[19/2013]
+[41/2020]

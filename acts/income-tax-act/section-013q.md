@@ -1,35 +1,26 @@
-# 13Q. Exemption of relevant income of prescribed locally administered trust ... ... ... ... ... ... ... ... ... ... ... ... 169
-Part: PART IV EXEMPTION FROM INCOME TAX
-Heading: Section Pages
+# 13Q. Exemption of trust income to which beneficiary is entitled
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) There shall be exempt from tax all relevant income of —
+(1) Where any beneficiary of a trust who is resident in Singapore is entitled to any share of the statutory income of the trust, that share is exempt from tax in the beneficiary’s hands if it would have been exempt from tax under any provision of this Part had it been derived or received directly by the beneficiary rather than the trustee.
 
-(a) such locally administered trust as the Minister may by regulations prescribe; and
+(2) This section does not apply to —
 
-(b) a holding company established for the purposes of such trust, as the Minister may by regulations prescribe.
+(a) any income of a real estate investment trust within the meaning of section 43(10);
 
-[7/2007]
+(b) any income of a designated unit trust within the meaning of section 35(14);
 
-(2) Where any relevant income of a prescribed locally administered trust is exempt from tax under subsection (1) in any year of assessment, the share of such income to which any beneficiary of the locally administered trust is entitled to receive for that year of assessment shall also be exempt from tax.
+(c) [Deleted by Act 37 of 2014]
 
-[7/2007]
+(d) any income of a trust fund prescribed under section 13C;
 
-(3) In this section —
+(e) any income of a foreign trust specified under section 13F;
 
-“locally administered trust” means a trust administered by a trustee company in Singapore —
+(f) any income of a locally-administered trust prescribed under section 13N;
 
-(a) every settlor of which is an individual;
+(g) any income of a trust the trustee of which is a prescribed person under section 13D; or
 
-(b) every beneficiary of which is an individual or a charitable institution, trust or body of persons established for charitable purposes only; and
+(h) any income of an approved trust fund referred to in the definition of “approved person” under section 13U(5), or of a trust fund that is a feeder fund or master fund approved under section 13U.
 
-(c) at least one of the beneficiaries of which is not a settlor of the trust;
+[13T
 
-“relevant income” means —
-
-(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi), (zj), (zk) or (zl) accrued in or derived from Singapore on or after 17th February 2006; or
-
-(b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 17th February 2006 excluding, in respect of a prescribed locally administered trust, any dividend received by the trust from a prescribed holding company not resident in Singapore, if the dividend is paid out of income that is not the relevant income of the holding company;
-
-“trustee company” has the same meaning as in section 43J(2).
-
-[7/2007; 53/2007]
+[37/2014]

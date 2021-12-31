@@ -1,106 +1,102 @@
-# 13H. Exemption of income of venture company ... ... ... ... 141
-Part: PART IV EXEMPTION FROM INCOME TAX
+# 13H. Exemption of tax on gains or profits from equity remuneration incentive scheme (SMEs)
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) The Minister may by regulations prescribe that any income of an approved venture company derived by it from making approved investments —
+(1) Where a qualifying employee derives any gains or profits in any year of assessment, after the expiry of the minimum holding period, from any stock option granted during the period from 1 June 2000 to 31 December 2013 (both dates inclusive), or any right or benefit under any share acquisition scheme (other than a stock option scheme) granted during the period from 1 January 2002 to 31 December 2013 (both dates inclusive), to acquire shares in any qualifying company or in its holding company, there is, subject to this section, exempt from tax 50% of an amount of such gains or profits as determined under subsection (2).
 
-(a) shall be exempt from tax; or
+(2) The amount of gains or profits referred to in subsection (1) is —
 
-(b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as he may appoint, may specify for each year of assessment.
+(a) where the price to be paid for the shares under the right or benefit is equal to or exceeds the market value or, if it is not possible to determine such value, the net asset value of the shares at the time of the grant of the right or benefit, the amount as determined under section 10(6); or
 
-[31/98]
+(b) where the price to be paid for the shares under the right or benefit is at a discount to the market value or, if it is not possible to determine such value, the net asset value of the shares at the time of the grant of the right or benefit, the amount as determined under section 10(6) less the amount of the discount.
 
-(2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved venture company to be exempted or taxed at a concessionary rate and for the deduction of losses otherwise than in accordance with section 37.
+(3) The exemption under this section does not apply to any amount of gains or profits to which section 10(6) applies —
 
-[31/98]
+(a) to the extent that the amount, when aggregated with the amount of such gains or profits previously derived by the qualifying employee and which qualifies for exemption under this section, exceeds $10 million;
 
-(2A) The exemption from tax or tax at a concessionary rate of the income of an approved venture company under regulations made under subsection (1) —
+(b) which is derived by the qualifying employee on or after 1 January of the 10th year following the year in which he or she first derived such gains or profits which qualified for exemption under this section; or
 
-(a) shall be for such period, not exceeding 10 years, as the Minister, or such person as he may appoint, may specify; and
+(c) which is derived by the qualifying employee for the release of his or her right or benefit to acquire shares in any qualifying company or in its holding company by reason of his or her resignation or termination of his or her employment with the qualifying company due to his or her misconduct.
 
-(b) in any particular case after the period referred to in paragraph (a), shall be for such further period or periods, not exceeding 5 years at any one time for each period, as the Minister, or such person as he may appoint, may specify.
+(4) The exemption under this section applies to gains or profits derived by an employee from any right or benefit to acquire shares in a holding company of the company in which the employee is employed only if the following conditions are satisfied:
 
-[31/98]
+(a) both the company and the holding company are incorporated in Singapore;
 
-(2B) The total period under subsection (2A)(a) and the further period or periods under subsection (2A)(b) shall not in the aggregate exceed 15 years.
+(b) the holding company grants the right or benefit to acquire its shares to its employees or the employees of companies within its group of companies; and
 
-[31/98]
+(c) at the time of the grant by the holding company of the right or benefit to acquire its shares —
 
-(3) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21 or 22 and any expenses, losses and donations allowable under this Act which are attributable to the income referred to in subsection (1) are to be deducted.
+(i) both the company and the holding company are carrying on business in Singapore;
 
-(4) In determining the income of an approved venture company which is exempt from tax or taxed at a concessionary rate under regulations made under subsection (1) for any year of assessment, there shall be deducted therefrom —
+(ii) the market value of the gross assets of the company does not exceed $100 million;
 
-(a) in the case of income which is exempt from tax, expenses allowable under this Act for that year of assessment which are attributable to that income;
+(iii) the market value of the gross assets of the holding company and companies within its group of companies does not exceed in the aggregate $100 million; and
 
-(aa) in the case of income which is taxed at a concessionary rate, expenses and donations allowable under this Act for that year of assessment which are attributable to that income;
+(iv) the company in which the employee is employed has not granted any right or benefit to any of its employees to acquire its shares.
 
-(b) any loss for that year of assessment arising from the disposal of any approved investments in Singapore or elsewhere;
+(5) The Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
 
-(c) any allowances for that year of assessment under section 19, 19A, 20, 21 or 22 attributable to that income notwithstanding that no claim for those allowances has been made; and
+(6) For the purposes of this section and section 13I, where a company grants —
 
-(d) any balance of the expenses, losses and allowances referred to in paragraphs (a), (aa), (b) and (c) which have not been deducted in determining that income for any previous year of assessment.
+(a) any stock option during the period from 1 April 2001 to 31 December 2013 (both dates inclusive); or
 
-[31/98; 29/2012]
+(b) any right or benefit under any share acquisition scheme (other than a stock option scheme) during the period from 1 January 2002 to 31 December 2013 (both dates inclusive), to acquire shares under a tranche of the share acquisition scheme and any gains or profits derived by a qualifying employee from any right or benefit granted under that tranche qualifies for tax exemption under this section as well as section 13I, the company must opt for the tax exemption under this section or section 13I to apply in respect of the gains or profits relating to that tranche but not under both sections.
 
-(5) Any expenses, losses or allowances referred to in subsection (4) shall only be deducted against the income of an approved venture company exempt from tax under regulations made under subsection (1) and shall not be available as a deduction against any other income of the company, except that any balance of the expenses, losses or allowances remaining unabsorbed at the end of the tax exempt period of the company shall be available as a deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 23 or 37, as the case may be.
+(7) Where a company has opted under subsection (6) for tax exemption under this section to apply to the gains or profits in respect of a tranche of a share acquisition scheme, tax exemption under section 13I —
 
-[29/2012]
+(a) is, subject to paragraph (b), not available in respect of any right or benefit to acquire shares granted by the company under any tranche subsequent to that tranche under the share acquisition scheme; and
 
-(5A) Where the income of an approved venture company is taxed at a concessionary rate under regulations made under subsection (1) —
+(b) is available in respect of any right or benefit to acquire shares granted subsequent to the option by the company under any tranche under the share acquisition scheme only where the conditions for tax exemption under this section are not satisfied in respect of any such subsequent tranche granted.
 
-(a) any expenses, donations, losses or allowances referred to in subsection (4) shall only be deducted against such income, and any balance of the expenses, donations, losses or allowances for any year of assessment shall, subject to sections 23, 37 and 37B, be available as a deduction against any other income of the company for that year of assessment and for any subsequent year of assessment; and
+(8) Where a company has opted under subsection (6) for tax exemption under section 13I to apply to the gains or profits in respect of a tranche of a share acquisition scheme, tax exemption under this section is not available in respect of any right or benefit to acquire shares granted by the company under any tranche subsequent to that tranche under the share acquisition scheme.
 
-(b) notwithstanding subsection (5), where the income of the company was exempted from tax immediately before being taxed at a concessionary rate, the balance referred to in subsection (5) shall firstly be deducted against the income taxed at a concessionary rate and thereafter shall be available for deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases, and subsequent years of assessment, in accordance with section 23 or 37, as the case may be.
+(9) Any option by a company under subsection (6) is irrevocable.
 
-[31/98]
+(9A) Despite anything in this section, the exemption under this section does not apply to any gains or profits derived by a qualifying employee on or after 1 January 2024.
 
-(6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement (to be included in a notice of any assessment served on the approved venture company under section 76) showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(10) In this section, unless the context otherwise requires —
 
-[31/98; 34/2008; 19/2013]
+“holding company” has the meaning given by section 5 of the Companies Act 1967;
 
-(7) Where any statement issued to an approved venture company under subsection (6) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
+“minimum holding period” —
 
-[19/2013]
+(a) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any stock option scheme, means the period prescribed by the Singapore Exchange during which no option may be exercised under a stock option scheme implemented by any company listed on that Exchange, which would have been applicable to the stock option granted by the qualifying company or holding company (as the case may be) if it were a company listed on that Exchange; and
 
-(8) [Deleted by Act 19 of 2013]
+(b) in relation to a right or benefit to acquire shares in a qualifying company or holding company under any share acquisition scheme (other than a stock option scheme), means —
 
-(9) [Deleted by Act 19 of 2013]
+(i) a period of at least one year after the grant of the right or benefit, during which the shares so acquired may not be sold, if the price to be paid for the shares under the right or benefit is at a discount to the market value or, if it is not possible to determine such value, the net asset value of the shares at the time of the grant of the right or benefit; or
 
-(10) [Deleted by Act 19 of 2013]
+(ii) a period of at least 6 months after the grant of the right or benefit, during which the shares so acquired may not be sold, if the price to be paid for the shares under the right or benefit is equal to or exceeds the market value or, if it is not possible to determine such value, the net asset value of the shares at the time of the grant of the right or benefit;
 
-(11) [Deleted by Act 19 of 2013]
+“qualifying company” means a company incorporated in Singapore which at the time of the grant to its employees of any right or benefit to acquire its shares —
 
-(11A) [Deleted by Act 19 of 2013]
+(a) carries on business in Singapore; and
 
-(12) [Deleted by Act 19 of 2013]
+(b) has gross assets the market value of which does not exceed $100 million;
 
-(13) [Deleted by Act 19 of 2013]
+“qualifying employee” means an employee (other than any non-executive director) of a company who, at the time of the grant to him or her of any right or benefit to acquire the shares of the company or the shares of its holding company, as the case may be —
 
-(14) [Deleted by Act 19 of 2013]
+(a) is committed to work —
 
-(15) An approved venture company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+(i) where the time of the grant is before 1 January 2010 —
 
-(16) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1) ought not to have been so exempted or taxed for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the company as may appear to be necessary in order to make good any loss of tax.
+(A) at least 30 hours per week for the company; or
 
-[19/2013]
+(B) where the employee is committed to work less than that number of hours, at least 75% of his or her total working time per week for the company; and
 
-(17) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (16) were a notice of assessment.
+(ii) where the time of the grant is on or after 1 January 2010 —
 
-[19/2013]
+(A) at least the number of hours per week referred to in section 66A(1) of the Employment Act 1968 for the company;
 
-(18) In this section —
+or
 
-“approved” means approved by the Minister or such person as he may appoint;
+(B) where the employee is committed to work less than that number of hours, at least 75% of his or her total working time per week for the company; and
 
-“investments” means —
+(b) does not beneficially own, directly or indirectly, voting shares that confer the right to exercise or control the exercise of not less than 25% of the voting power in the company which grants the right or benefit to acquire its shares;
 
-(a) debentures, stocks, shares, bonds, notes or warrants issued by a government or company;
+“share acquisition scheme” means a scheme which imposes a minimum holding period requirement and allows an employee of a company to own or purchase shares in a qualifying company or that of its holding company, including stock options, share awards and other similar forms of employee share purchase plans but excluding phantom shares rights, share appreciation rights and any other similar rights;
 
-(b) any right or option in respect of any such debentures, stocks, shares, bonds, notes or warrants; or
+“shares” includes stocks but does not include redeemable or convertible shares or shares of a preferential nature;
 
-(c) units in any unit trust within the meaning of section 10B;
+“total working time”, in relation to a qualifying employee, means the total period of time spent by him or her as an employee for all his or her employers plus, if applicable, the total period of time, which is deemed to be 10 hours per week, spent by him or her on remunerative work as a self-employed person.
 
-“tax exempt period” means the period during which any income of an approved venture company is exempt from tax under regulations made under subsection (1);
-
-“venture company” means any company whose business consists wholly or mainly in the making of approved investments and the principal part of whose income is derived therefrom.
-
-[28/96; 31/98]
+[13J

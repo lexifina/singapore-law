@@ -1,16 +1,16 @@
 # SIXTH SCHEDULE
 
-Sections 19(2), (2A) and (2B), 19A(2FA) and (2G) and 106(3)
+Sections 19(2), (2AB), (2A), 19A(2FA) and (2G) and 106(1) and (3)
 
 NUMBER OF YEARS OF WORKING LIFE OF ASSET
 
-Item Number of years of working life of asset
+Item . Number of years of working life of asset
 
-1. Aircraft 5
+1. Aircraft . 5
 
 2. Bank vaults 16
 
-3. Building and construction equipment 6 (including assets such as rollers, mixers, piling and drilling plants, loaders, dumpers, excavators, bull-dozers and support structure)
+3. Building and construction equipment 6 (including assets such as rollers, mixers, piling and drilling plants, loaders, dumpers, excavators, bulldozers and support structure)
 
 4. Cable cars and equipment 12
 
@@ -20,7 +20,9 @@ Item Number of years of working life of asset
 
 7. Electric, gas, water and steam, utility plant 16 (including tanks and generators)
 
-8. Electrical equipment (including assets such 8 as electrical and industrial apparatus, domestic and commercial appliances, air- conditioning and ventilating equipment)
+8. Electrical equipment (including assets such as 8 electrical and industrial apparatus, domestic and commercial appliances, air-conditioning and ventilating equipment) SIXTH SCHEDULE — continued
+
+Item . Number of years of working life of asset
 
 9. Electronic equipment (including assets such 8 as electronic detection, guidance, control, radiation, computation, test and navigation equipment)
 
@@ -32,9 +34,7 @@ Item Number of years of working life of asset
 
 13. Floating and dry docks 16
 
-14. Gas cylinders 16 SIXTH SCHEDULE — continued
-
-Item Number of years of working life of asset
+14. Gas cylinders 16
 
 15. Manufacturing and industrial processing 6 plant and machinery
 
@@ -50,7 +50,9 @@ Item Number of years of working life of asset
 
 (b) data handling equipment (including 8 typewriters, calculators, adding and accounting machines, copiers and duplicating equipment)
 
-(c) telecommunication equipment 10
+(c) telecommunication equipment 10 SIXTH SCHEDULE — continued
+
+Item . Number of years of working life of asset
 
 20. Plant for recreation and amusement purposes 10 (including assets used in the provision of entertainment services on payment of a fee or admission charge, as in the operation of bowling alleys, billiard and pool establishments, theatres, cinemas, concert halls, amusement parks and miniature golf courses)
 
@@ -66,14 +68,10 @@ Item Number of years of working life of asset
 
 (d) trucks, lorries, trailers and vans 6
 
-(e) motor cycles and bicycles 8 SIXTH SCHEDULE — continued
-
-Item Number of years of working life of asset
+(e) motor cycles and bicycles 8
 
 23. Vessels, barges, tugs and similar water 16 transportation equipment
 
 24. Wholesale and retail trade service assets 8.
 
 (including assets used in such activities as the operation of restaurants and cafes)
-
-[28/80]

@@ -1,148 +1,74 @@
-# 13F. Exemption of international shipping profits ... ... ... ... 133
-Part: PART IV EXEMPTION FROM INCOME TAX
+# 13F. Exemption of income of foreign trust
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) Subject to subsections (1A) and (2), there shall be exempt from tax the income of an approved international shipping enterprise derived —
+(1) There is exempt from tax such income as the Minister may by regulations prescribe of such foreign trust or eligible holding company established for the purposes of such foreign trust as specified in those regulations and administered by a trustee company in Singapore.
 
-(a) on or after 1st April 1991 from —
+(2) Where any income of a foreign trust is exempt from tax under regulations made under subsection (1) in any year of assessment, the share of such income to which any beneficiary under the trust is entitled to receive for that year of assessment is also exempt from tax if the beneficiary —
 
-(i) the carriage of passengers, mail, livestock or goods from outside the limits of the port of Singapore by any foreign ship;
+(a) being an individual, is neither a citizen of Singapore nor resident in Singapore;
 
-(ii) the charter of any foreign ship to any person where such ship is used by the person for the carriage of passengers, mail, livestock or goods outside the limits of the port of Singapore; and
+(b) being a company, is neither incorporated nor resident in Singapore and where such a company —
 
-(iii) the carriage of passengers, mail, livestock or goods by any foreign ship to Singapore solely for the purpose of transhipment;
+(i) has not more than 50 shareholders, all of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore; or
 
-(b) for the year of assessment 2005 and subsequent years of assessment from —
+(ii) has more than 50 shareholders, not less than 95% of the total number of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore;
 
-(i) the operation outside the limits of the port of Singapore of any dredger, seismic ship or any vessel used for offshore oil or gas activity; and
+(c) being any other person, is neither resident in Singapore nor constituted or registered under any written law in Singapore; or
 
-(ii) the charter of any foreign dredger, foreign seismic ship, or any foreign vessel used for offshore oil or gas activity to any person where such dredger, seismic ship or vessel is used by the person for his operation outside the limits of the port of Singapore;
+(d) is a trustee of another foreign trust specified under subsection (1).
 
-(c) for the year of assessment 2003 and subsequent years of assessment from —
+(3) Where any income of a foreign trust is exempt from tax under regulations made under subsection (1) in any year of assessment, the share of such income that a foreign account of a philanthropic purpose trust is entitled to receive for that year of assessment is also exempt from tax.
 
-(i) towing or salvage operations carried out from outside the limits of the port of Singapore by any foreign ship;
+(4) Despite subsections (1) and (2), where it appears to the Comptroller that any income of a foreign trust or eligible holding company ought not to have been exempted under regulations made under subsection (1), the Comptroller may, subject to section 74, make such assessment or additional assessment upon the foreign trust or eligible holding company (as the case may be) as may appear to be necessary.
 
-and
+(5) In this section —
 
-(ii) the charter of any foreign ship to any person where such ship is used by the person for towage and salvage operations carried out outside the limits of the port of Singapore;
+“foreign account” and “philanthropic purpose trust” have the meanings given by section 13L;
 
-(d) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the operations described in paragraphs (a), (b) and (c);
+“trustee company” has the meaning given by section 43G(2).
 
-(e) on or after 22nd February 2010 from the provision of ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle, unless the conditions of its approval otherwise provides; and
+(6) This section does not apply to —
 
-(f) for the year of assessment 2012 and subsequent years of assessment, from the carriage by any foreign ship of passengers, mail, livestock or goods which are shipped in Singapore, except where such carriage is only within the limits of the port of Singapore;
+(a) a trust that is constituted on or after 1 January 2025;
 
-(g) on or after 1st June 2011 from —
+(b) a company that is incorporated on or after 1 January 2025;
 
-(i) the sale of a foreign ship, a foreign dredger, a foreign seismic ship or any foreign vessel used for offshore oil or gas activity;
+(c) a trust that —
 
-(ii) the assignment to another of all its rights as the buyer under a contract for the construction of a ship, dredger, seismic ship or vessel that, at the time of the assignment, is intended to be a foreign ship, a foreign dredger, a foreign seismic ship or any foreign vessel used for offshore oil or gas activity; or
+(i) is constituted before 1 January 2025; and
 
-(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved international shipping enterprise where, at the time of the sale of the shares, the special purpose company owns any ship, dredger, seismic ship or vessel used for offshore oil or gas activity, or is the buyer under a contract for the construction of any ship, dredger, seismic ship or vessel used for offshore oil or gas activity.
+(ii) in the basis period in which 31 December 2024 falls, is not a foreign trust specified in the regulations under subsection (1) (called in this subsection and subsection (8) a specified trust) that is administered by a trustee company in Singapore within the meaning of those regulations; or
 
-[37/2002; 49/2004; 34/2008; 29/2010; 22/2011; 29/2012]
+(d) a company that —
 
-(1A) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(e) does not apply to the provision by an approved international shipping enterprise of ship management services to a qualifying special purpose vehicle if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
+(i) is incorporated before 1 January 2025; and
 
-[22/2011; 29/2012]
+(ii) in the basis period in which 31 December 2024 falls —
 
-(1AA) Subsection (1)(g) shall not apply to —
+(A) is not an eligible holding company established for the purposes of a specified trust, and specified in the regulations under subsection (1); or
 
-(a) any income of an approved international shipping enterprise as a lessor of a ship, dredger, seismic ship or any vessel used for offshore oil or gas activity, under a finance lease that is treated as a sale under section 10D; or
+(B) is not administered by a trustee company in Singapore within the meaning of those regulations.
 
-(b) any income of an approved international shipping enterprise from carrying on a business of trading in ships, dredgers, seismic ships, or vessels used for offshore oil or gas activity, or of constructing ships, dredgers, seismic ships, or vessels used for offshore oil or gas activity for sale.
+[37/2014; 32/2019]
 
-[29/2012]
+(7) Where, in any basis period beginning on or after 1 January 2025 —
 
-(1B) An application may be made to the Minister or such person as he may appoint for a company —
+(a) a trust or company does not satisfy the requirements referred to in subsection (8); or
 
-(a) which is an international shipping enterprise; or
+(b) the trustee company which administers a foreign trust or an eligible holding company established for the purposes of a foreign trust fails to comply with any of the regulations under subsection (1), then this section does not apply to the trust or company in paragraph (a), or the foreign trust or eligible holding company in paragraph (b), for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirements are satisfied and the regulations are complied with in the basis period for that subsequent year of assessment.
 
-(b) which is not but intends to become an international shipping enterprise, to be approved as an approved international shipping enterprise, and the company is deemed upon approval to be an approved international shipping enterprise.
+[37/2014; 32/2019]
 
-[22/2011]
+(8) In subsection (7), the requirements are —
 
-(2) The exemption for each approved international shipping enterprise —
+(a) in the case of the trust, that it is a specified trust and is administered by a trustee company in Singapore within the meaning of those regulations; or
 
-(a) shall be for such period not exceeding 10 years from the date of its approval as the Minister or such person as he may appoint may specify, except that the Minister or such person as he may appoint may extend the period so specified for such further periods, not exceeding 10 years at a time, as he thinks fit; or
+(b) in the case of the company —
 
-(b) if, at the time of its approval, the company does not, in the opinion of the Minister or such person as he may appoint, satisfy such qualifying conditions as the Minister or person may determine for the purposes of paragraph (a), shall be for such period not exceeding 5 years from the date of its approval as the Minister or person may specify.
+(i) that it is an eligible holding company established for the purposes of a specified trust, and specified in those regulations; and
 
-[22/2011]
+(ii) that it is administered by a trustee company in Singapore within the meaning of those regulations.
 
-(2A) The approval of an approved international shipping enterprise for a period of exemption referred to in subsection (2)(b) may only be granted at any time between 1st June 2011 and 31st May 2016 (both dates inclusive).
+[13G
 
-[22/2011]
-
-(3) In determining the amount of the income of an approved international shipping enterprise which is exempted under this section, the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 and 23 —
-
-(a) shall be taken into account notwithstanding that no claim for those allowances has been made; and
-
-(b) shall only be deducted against the income referred to in subsection (1), and the balance of those allowances shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 23.
-
-[29/2010]
-
-(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f) of subsection (1), that loss —
-
-(a) shall be deducted in accordance with section 37; and
-
-(b) shall only be deducted against the income referred to in any of those paragraphs, and the balance of such loss shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 37.
-
-[29/2012]
-
-(4A) Where an approved international shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1)(g) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1)(g) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
-
-[29/2012]
-
-(5) Section 13A(2), (2A), (4), (5), (7), (8) and (9) shall apply to an approved international shipping enterprise, except that any reference to a shipping enterprise shall be read as a reference to an approved international shipping enterprise.
-
-[32/99; 37/2002; 19/2013]
-
-(6) In this section —
-
-“approved” means approved by the Minister, or such person as he may appoint, subject to such conditions as he may impose;
-
-“foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(16);
-
-“international shipping enterprise” means any company resident in Singapore owning or operating Singapore ships or foreign ships;
-
-“qualifying special purpose vehicle”, in relation to an approved international shipping enterprise, means —
-
-(a) an approved company —
-
-(i) which is incorporated and resident in Singapore;
-
-and
-
-(ii) at least 50% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by —
-
-(A) the approved international shipping enterprise; or
-
-(B) a company which beneficially owns (whether directly or indirectly) at least 50% of the total number of the issued ordinary shares of the approved international shipping enterprise;
-
-(b) an approved company —
-
-(i) which is incorporated outside Singapore; and
-
-(ii) at least 25% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by the approved international shipping enterprise;
-
-(c) an approved partnership —
-
-(i) which is registered or formed outside Singapore;
-
-and
-
-(ii) of which the approved international shipping enterprise is entitled, whether directly or indirectly, to at least 25% of its income;
-
-(d) an approved company —
-
-(i) which is incorporated and resident in Singapore, and at least 50% of the total number of the issued ordinary shares of which are beneficially owned directly by another approved company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B); or
-
-(ii) which is incorporated outside Singapore, and at least 25% of the total number of the issued ordinary shares of which are beneficially owned directly by another approved company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B); or
-
-(e) an approved partnership which is registered or formed outside Singapore and one of the partners of which is an approved company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B), and is entitled to at least 25% of its income;
-
-“ship management services” has the same meaning as in section 13A(16);
-
-“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is undertaking any operation referred to in subsection (1)(a), (b), (c) and (f), or any operation of a Singapore ship as defined in section 13A(16).
-
-[32/99; 24/2001; 37/2002; 29/2010; 22/2011; 29/2012]
+[37/2014]

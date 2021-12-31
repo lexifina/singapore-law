@@ -1,44 +1,34 @@
-# 10D. Income from finance or operating lease ... ... ... ... ... 54
-Part: PART III IMPOSITION OF INCOME TAX
+# 10D. Ascertainment of income from business of making investments
+Part: PART 3 IMPOSITION OF INCOME TAX
 
-(1) Notwithstanding any other provisions of this Act, the Minister may by regulations provide for the circumstances in which the Comptroller may direct that allowances under section 19, 19A, 20, 21, 22 or 23 in respect of any machinery or plant which is leased under a finance lease entered into on or after 1st April 1990 shall not be made to the lessor but to the lessee as though the machinery or plant had been sold by the lessor to the lessee.
+(1) Despite any other provisions of this Act, in determining the income of a company or trustee of a property trust derived from any business of the making of investments, the following provisions apply:
 
-[20/91]
+(a) any outgoings and expenses incurred by the company or trustee of a property trust in respect of investments of that business which do not produce any income are not allowed as a deduction under section 14 for that business or other income of the company or trustee of a property trust;
 
-(2) In determining the income of a lessor from the leasing of any machinery or plant, other than those which have been treated as though they had been sold pursuant to regulations made under subsection (1), the following provisions shall apply:
+(b) any outgoings and expenses incurred by the company or trustee of a property trust in respect of investments of that business which produce any income are only available as a deduction under section 14 against the income derived from such investments and any excess of such outgoings and expenses over such income in any year is disregarded;
 
-(a) the Comptroller shall determine the manner and extent to which —
+(c) the allowances under sections 19, 19A, 20 and 21 relating to that business are only available as a deduction against the income derived from investments of that business which produce any income and the balance of the allowances in any year is disregarded.
 
-(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted;
+(1A) Where subsection (1) would apply to the originator of any approved Islamic debt securities arrangement if that arrangement had not been entered into, that subsection continues to apply to the originator as if the arrangement had not been entered into.
 
-(ii) any loss may be deducted under section 37;
+(1B) Where the investment mentioned in subsection (1) is an immovable property, that subsection only applies if the company or trustee of the property trust —
 
-(b) where the lessor derives income from onshore leasing or offshore leasing or both and such income is subject to tax under section 42(1) or 43(1), the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of finance leasing shall only be available as a deduction against the income from finance leasing, and any balance of the allowances shall not, subject to paragraph (d), be available as a deduction against any other income or be available for transfer under section 37C, 37D or 37F;
+(a) is the legal owner of the investment; or
 
-(c) where the lessor is a leasing company which derives income from onshore leasing as well as from offshore leasing subject to the concessionary rate of tax under section 43I, any balance of the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of onshore finance leasing in any year of assessment after deduction against the income from such leasing shall be available as a deduction against any income from offshore finance leasing for that year of assessment, and any balance of the allowances shall not, subject to paragraph (d), be available as a deduction against any other income or be available for transfer under section 37C;
+(b) otherwise has a proprietary interest in the investment (including a lease or an easement) and would receive consideration if the proprietary interest is disposed of or transferred, whether in whole or in part.
 
-(d) where the lessor referred to in paragraph (b) or (c) ceases to derive income from finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) or (c) shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23;
+[41/2020]
 
-(e) where the lessor is a leasing company which derives income from onshore leasing as well as from offshore leasing subject to the concessionary rate of tax under section 43I —
+(2) In this section —
 
-(i) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of operating leasing shall firstly be available as a deduction against the income from such leasing, and any balance of the allowances shall be available as a deduction against any other income; and
+“approved Islamic debt securities arrangement” and “originator” have the meanings given by section 10(28);
 
-(ii) any losses incurred in respect of finance leasing or operating leasing shall be available as a deduction against any other income.
+“business of the making of investments” includes the business of letting immovable properties;
 
-[1/98; 37/2002; 49/2004; 34/2005; 53/2007]
+“immovable property-related assets” means debt securities and shares issued by property companies, mortgaged-backed securities, other property trust funds, and assets incidental to the ownership of immovable properties;
 
-(3) In this section —
+“investments” means securities, immovable properties and immovable property-related assets;
 
-“finance lease” means a lease of any machinery or plant (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such machinery or plant to the lessee;
+“property trust” means a trust which invests in immovable properties or immovable property-related assets.
 
-“finance leasing” means the leasing of any machinery or plant under any finance lease;
-
-“leasing company”, “offshore finance leasing” and “offshore leasing” have the same meanings as in section 43I(9);
-
-“onshore finance leasing” means the onshore leasing of any machinery or plant under any finance lease;
-
-“onshore leasing” means the leasing, other than offshore leasing, of any machinery or plant;
-
-“operating leasing” means the leasing of any machinery or plant, other than finance leasing.
-
-[1/98; 53/2007]
+[10E

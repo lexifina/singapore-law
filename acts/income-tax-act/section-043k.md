@@ -1,19 +1,18 @@
-# 43K. Concessionary rate of tax for members of Singapore Commodity Exchange Ltd, etc. ... ... ... ... ... ... ... ... ... 596
-Part: PART XI RATES OF TAX
-Heading: Section Pages
+# 43K. Concessionary rate of tax for provision of processing services to financial institutions
+Part: PART 11 RATES OF TAX
 
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a member of the Corporation known as the Singapore Commodity Exchange Ltd or any other prescribed exchange derived from transactions in specified commodity futures on any specified exchange or in any specified market with —
+(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 5% is to be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company derived by it on or after 27 February 2004 from the provision of prescribed processing services in Singapore to any financial institution or another approved company; and those regulations may provide for the deduction of losses of an approved company otherwise than in accordance with section 37(3).
 
-(a) an Asian Currency Unit of a financial institution;
+(2) The Minister or a person appointed by the Minister may, subject to such conditions as the Minister or appointed person may impose, approve a company as an approved company for the purposes of this section.
 
-(b) another member of the Singapore Commodity Exchange Ltd or the prescribed exchange;
+[32/2019]
 
-(c) a person who is neither a resident of nor a permanent establishment in Singapore; or
+(3) No approval under this section may be granted to any company on or after 27 February 2009.
 
-(d) a branch office outside Singapore of a company resident in Singapore, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
+(4) In this section, “financial institution” means —
 
-[28/92; 35/2007]
+(a) any institution in Singapore that is licensed or approved by the Monetary Authority of Singapore, or exempted from such licensing or approval, under any written law administered by the Monetary Authority of Singapore; or
 
-(2) This section shall not apply to any income derived on or after 1st January 2011.
+(b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, by its financial supervisory authority for the carrying on of financial activities.
 
-[29/2010]
+[43R

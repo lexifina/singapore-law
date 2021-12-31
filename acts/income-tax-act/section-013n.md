@@ -1,102 +1,68 @@
-# 13N. Exemption of tax on income derived by non-ordinarily resident individual ... ... ... ... ... ... ... ... ... ... ... 160
-Part: PART IV EXEMPTION FROM INCOME TAX
+# 13N. Exemption of relevant income of prescribed locally-administered trust
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) Where an NOR individual is resident in Singapore in any year of assessment within the period he is an NOR individual, he may, within such time in that year of assessment and in such manner as may be specified by the Comptroller, elect for all or any of his following income to be exempt from tax for that year of assessment:
+(1) There is exempt from tax all relevant income of —
 
-(a) any relevant employment income for the year preceding that year of assessment, if he —
+(a) such locally-administered trust as the Minister may by regulations prescribe; and
 
-(i) is not physically present in Singapore for at least 90 days in the year preceding that year of assessment by reason of the exercise of any employment in Singapore; and
+(b) a holding company established for the purposes of such trust, as the Minister may by regulations prescribe.
 
-(ii) derives gains or profits of at least $160,000 from the exercise of any employment in Singapore for the year preceding that year of assessment;
+(2) Where any relevant income of a prescribed locally-administered trust is exempt from tax under subsection (1) in any year of assessment, the share of such income to which any beneficiary of the locally-administered trust is entitled to receive for that year of assessment is also exempt from tax.
 
-(b) notwithstanding section 10C(11), any contribution up to the relevant amount made by his employer to any non-obligatory pension or provident fund constituted outside Singapore in the year preceding that year of assessment, if —
+(3) In this section —
 
-(i) he is neither a citizen nor a permanent resident of Singapore at the time such contribution is made;
+“locally-administered trust” means a trust administered by a trustee company in Singapore —
 
-(ii) he derives gains or profits of at least $160,000 from the exercise of any employment in Singapore for the year preceding that year of assessment; and
+(a) every settlor of which is an individual;
 
-(iii) a deduction with respect to such contribution has not been allowed to his employer under section 14(1)(e).
+(b) every beneficiary of which is an individual or a charitable institution, trust or body of persons established for charitable purposes only; and
 
-[37/2002; 34/2008]
+(c) at least one of the beneficiaries of which is not a settlor of the trust;
 
-(2) Where the notional tax payable on the apportioned employment income by an NOR individual who has elected for tax exemption under subsection (1) is less than 10% of the gains or profits from the exercise of any employment in Singapore by him —
+“relevant income” means —
 
-(a) the apportioned employment income shall be readjusted such that the notional tax payable on the readjusted apportioned employment income shall be 10% of the gains or profits from the exercise of any employment in Singapore by him; and
+(a) any income of the kinds referred to in section 13(1)(zd), (ze), (zf), (zh), (zi), (zj), (zk) or
 
-(b) the relevant employment income shall be reduced by the difference between the readjusted apportioned employment income and the apportioned employment income.
+(zl) accrued in or derived from Singapore on or after 17 February 2006; or
 
-[37/2002]
+(b) any income of the kinds referred to in section 13(7A) received in Singapore on or after 17 February 2006 excluding, in respect of a prescribed locally-administered trust, any dividend received by the trust from a prescribed holding company not resident in Singapore, if the dividend is paid out of income that is not the relevant income of the holding company;
 
-(3) Any individual who satisfies any of the following criteria may apply to the Comptroller in such manner as he may determine to be approved as an NOR individual for the specified period:
+“trustee company” has the meaning given by section 43G(2).
 
-(a) if he is not resident in Singapore for any year of assessment before 1st January 2003, but is resident in Singapore for every succeeding year of assessment up to and including year of assessment 2003, for a period of 5 consecutive years from the first year of assessment in which he is resident in Singapore;
+(4) This section does not apply to —
 
-(b) if he is resident in Singapore in year of assessment 2004, but is not resident in Singapore in year of assessment 2003, for a period of 5 consecutive years from year of assessment 2004;
+(a) a trust that is constituted on or after 1 January 2025;
 
-(c) if he is resident in Singapore in year of assessment 2005, but is not resident in Singapore in years of assessment 2003 and 2004, for a period of 5 consecutive years from year of assessment 2005; or
+(b) a company that is incorporated on or after 1 January 2025;
 
-(d) if he is resident in Singapore in any year of assessment on or after 1st January 2006, but is not resident in Singapore for all the 3 years of assessment immediately preceding that year of assessment, for a period of 5 consecutive years commencing from that year of assessment in which he is resident in Singapore.
+(c) a trust that —
 
-[37/2002]
+(i) is constituted before 1 January 2025; and
 
-(4) The Comptroller may, subject to such terms and conditions as he may impose, approve the application of an individual to be an NOR individual.
+(ii) in the basis period in which 31 December 2024 falls, is not a locally-administered trust prescribed under subsection (1) (called in this subsection and subsection (6) a prescribed trust); or
 
-[37/2002]
+(d) a company that —
 
-(5) Where an individual has been approved as an NOR individual, no approval shall be given under subsection (4) before the expiry of the period he is an NOR individual.
+(i) is incorporated before 1 January 2025; and
 
-[37/2002]
+(ii) in the basis period in which 31 December 2024 falls, is not a holding company established for the purposes of a prescribed trust, and prescribed under subsection (1).
 
-(5A) Where —
+[37/2014; 32/2019]
 
-(a) an individual has been approved as an NOR individual before the year of assessment 2009;
+(5) Where, in any basis period beginning on or after 1 January 2025, a trust or company does not satisfy the requirement referred to in subsection (6), then this section does not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirement is satisfied in the basis period for the subsequent year of assessment.
 
-(b) the period of his approval has not expired at the beginning of that year of assessment; and
+[37/2014; 32/2019]
 
-(c) he has had income exempted from tax under this section in force immediately before the date of commencement of section 14 of the Income Tax (Amendment) Act 2008 (Act 34 of 2008) for any year of assessment between the year of assessment 2005 and the year of assessment 2008 (both years inclusive), then the individual may, at any time at or before filing with the Comptroller a return of his income for the year of assessment 2009, elect to continue to be subject to subsections (1) and (7) in force immediately before the date of commencement of section 14 of the Income Tax (Amendment) Act 2008; and in that event subsections (1) and (7) in force immediately before that date shall continue to apply to him for so long as he remains an NOR individual.
+(6) In subsection (5), the requirement is —
 
-[34/2008]
+(a) in the case of the trust, that it is a prescribed trust; or
 
-(6) Any election under subsections (1) and (5A) and any approval under subsection (4) shall be irrevocable.
+(b) in the case of the company, that it is a holding company established for the purposes of a prescribed trust, and prescribed under subsection (1).
 
-[37/2002; 34/2008]
+[37/2014]
 
-(7) In this section —
+(7) Where, in any basis period beginning on or after 1 January 2025, the trustee company which administers a locally-administered trust fails to comply with any of the regulations made under subsection (1), then this section does not apply to the trust or the holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
 
-“apportioned employment income”, in relation to an NOR individual, means total gains or profits from the exercise of any employment in Singapore by the NOR individual after deducting relevant employment income;
+[13Q
 
-“NOR individual” means any individual who is for the time being approved as an NOR individual under subsection (4);
-
-“notional tax payable”, in relation to gains or profits from the exercise of any employment in Singapore by an individual, apportioned employment income or readjusted apportioned employment income, as the case may be, means the amount of tax computed in accordance with the rates specified in Part A of the Second Schedule in respect of gains or profits from the exercise of any employment in Singapore by the individual, apportioned employment income or readjusted apportioned employment income, as the case may be, before any deduction under sections 37 and 39;
-
-“obligatory” means required under any foreign written law;
-
-“relevant amount”, in relation to an NOR individual, means —
-
-(a) nil if A ≥ B; or
-
-(b) B - A if A < B,
-
-where A is the total amount of contributions made by the employer in respect of the NOR individual to any obligatory pension or provident fund constituted outside Singapore and for which the amount is not deemed as income accruing to the NOR individual under section 10C(11); and
-
-B is the amount of contribution which would have been required to be made by the employer under section 7 of the Central Provident Fund Act (Cap. 36) if the NOR individual were an employee and a citizen of Singapore;
-
-“relevant employment income”, in relation to an NOR individual, means —
-
-C  E;
-
-D
-
-where C is the number of days in the year preceding that year of assessment for which the NOR individual is not physically present in Singapore by reason of the exercise of any employment in Singapore;
-
-D is the number of days in the year preceding that year of assessment for which the NOR individual exercises any employment in Singapore; and
-
-E is the gains or profits from the exercise of any employment in Singapore by the NOR individual referred to in section 10(2)(a), (6) and (7), but excluding —
-
-(a) director’s fee; and
-
-(b) where any amount of tax of the NOR individual payable in Singapore is borne, directly or indirectly, by his employer, the amount of tax that is so borne.
-
-(c) [Deleted by Act 34 of 2008]
-
-[37/2002; 49/2004; 34/2008]
+[37/2014; 32/2019]

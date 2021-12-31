@@ -1,15 +1,60 @@
-# 34D. Transactions not at arm’s length ... ... ... ... ... ... ... 418
-Part: PART VII ASCERTAINMENT OF CERTAIN INCOME
-Heading: Section Pages
+# 34D. Transactions not at arm’s length
+Part: PART 7 ASCERTAINMENT OF CERTAIN INCOME
 
-(1) Where 2 persons are related parties and conditions are made or imposed between the 2 persons in their commercial or financial relations which differ from those which would be made if they were not related parties, then any profits which would, but for those conditions, have accrued to one of the persons, and, by reason of those conditions, have not so accrued, may be included in the profits of that person and taxed in accordance with the provisions of this Act.
+(1) Subsection (1A) applies where —
 
-[27/2009]
+(a) 2 persons are related parties;
 
-(2) Where a person carries on business through a permanent establishment, this section shall apply as if the person and the permanent establishment are 2 separate and distinct persons.
+(b) conditions are made or imposed between them in their commercial or financial relations (called in this section actual commercial or financial relations) which differ from conditions which would be made or imposed if they were not related parties and dealing independently with one another in comparable circumstances (called in this section arm’s length conditions); and
 
-[27/2009]
+(c) had the arm’s length conditions been made or imposed —
 
-(3) In this section, “related party” has the same meaning as in section 13(16).
+(i) the amount of the income of one of those persons for a year of assessment that accrued in or is derived from Singapore, or is received in Singapore from outside Singapore, would be greater;
 
-[27/2009]
+(ii) the amount of any deduction that may be allowed to one of those persons for a year of assessment would be less; or
+
+(iii) the amount of any loss of one of those persons for a year of assessment would be less.
+
+[39/2017]
+
+(1A) The Comptroller may make one or more of the following adjustments in that case, as appropriate:
+
+(a) increase the amount of the income of the person mentioned in subsection (1)(c)(i) for the year of assessment;
+
+(b) reduce the amount of the deduction that may be allowed to the person mentioned in subsection (1)(c)(ii) for the year of assessment;
+
+(c) reduce the amount of the loss of the person mentioned in subsection (1)(c)(iii) for the year of assessment.
+
+[39/2017]
+
+(1B) The identification of the arm’s length conditions in subsection (1)(b) must be carried out —
+
+(a) on the basis of the actual commercial or financial relations between the 2 persons; and
+
+(b) by taking into account both the form and substance of those relations, but disregarding the form of those relations to the extent it is inconsistent with their substance.
+
+[39/2017]
+
+(1C) Despite subsection (1B) —
+
+(a) if persons who were not related parties would in comparable circumstances enter into substantially different commercial or financial relations than the actual commercial or financial relations, then the identification of the arm’s length conditions must be carried out on the basis of the firstmentioned relations; and
+
+(b) if persons who were not related parties would in comparable circumstances not enter into commercial or financial relations, then the identification of the arm’s length conditions must be carried out on the basis of the absence of commercial or financial relations.
+
+[39/2017]
+
+(1D) The amount of income that is increased under subsection (1A)(a) is treated as accruing in or derived from Singapore or received in Singapore from outside Singapore, as the case may be.
+
+[39/2017]
+
+(1E) The amount of loss that is reduced under subsection (1A)(c) is treated as not having been incurred.
+
+[39/2017]
+
+(2) Where a person carries on business through a permanent establishment, this section applies as if the person and the permanent establishment are 2 separate and distinct persons.
+
+(2A) Nothing in this section prevents the applicability of subsection (1) to a case, or the Comptroller’s decision under subsection (1A) on a case, from being questioned in an appeal against an assessment in accordance with Part 18.
+
+[39/2017]
+
+(3) In this section, “related party” has the meaning given by section 13(16).

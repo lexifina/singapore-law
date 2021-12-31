@@ -1,5 +1,5 @@
-# 105A. Interpretation of this Part ... ... ... ... ... ... ... ... 723
-Part: PART XXA EXCHANGE OF INFORMATION UNDER AVOIDANCE OF DOUBLE TAXATION ARRANGEMENTS AND EXCHANGE OF INFORMATION ARRANGEMENTS
+# 105A. Interpretation of this Part
+Part: PART 20A EXCHANGE OF INFORMATION UNDER AVOIDANCE OF DOUBLE TAXATION ARRANGEMENTS AND EXCHANGE OF INFORMATION ARRANGEMENTS
 
 (1) In this Part —
 
@@ -23,30 +23,32 @@ Part: PART XXA EXCHANGE OF INFORMATION UNDER AVOIDANCE OF DOUBLE TAXATION ARRANG
 
 (i) of the country with whose government the avoidance of double taxation arrangement or EOI arrangement in question was made; and
 
-(ii) that is covered by the EOI provision of the avoidance of double taxation arrangement or by the EOI arrangement;
+(ii) that is covered by the EOI provision of the avoidance of double taxation arrangement or by the EOI arrangement; or
 
 (b) as regards —
 
-(i) past, present and future liability to pay any tax referred to in paragraph (a);
+(i) past, present and future liability to pay any tax mentioned in paragraph (a);
 
 (ii) penalties, interest and other amounts that have been paid, or are or may be payable, by or to the person in connection with any such tax; and
 
 (iii) claims, elections, applications and notices that have been or may be made or given in connection with any such tax.
 
-[24/2009; 22/2011; 19/2013]
-
 (2) A reference in this Part to the tax position of a person includes a reference to the tax position of —
 
-(a) a person (not being an individual) that has ceased to exist; and
+(a) a person (not being an individual) that has ceased to exist;
+
+and
 
 (b) an individual who has died.
 
-[24/2009; 22/2011]
+(3) A reference in this Part to the tax position of a person is a reference to the person’s tax position at any time or in relation to any period, unless otherwise stated in the prescribed arrangement in question.
 
-(3) A reference in this Part to the tax position of a person is a reference to his tax position at any time or in relation to any period, unless otherwise stated in the prescribed arrangement in question.
+(4) To avoid doubt, the reference to tax in the definition of “tax position” in subsection (1) is a reference to any type of tax that is covered by the EOI provision of the avoidance of double taxation arrangement in question or by the EOI arrangement in question, and is not limited to income tax or tax of a similar character.
 
-[24/2009; 22/2011]
+(5) In relation to an EOI arrangement which is a multilateral treaty referred to in section 105BA(1A) —
 
-(4) For the avoidance of doubt, the reference to tax in the definition of “tax position” in subsection (1) is a reference to any type of tax that is covered by the EOI provision of the avoidance of double taxation arrangement in question or by the EOI arrangement in question, and is not limited to income tax or tax of a similar character.
+(a) the reference in the definition of “competent authority” to a person or an authority authorised under the provisions of the EOI arrangement to make a request to the Comptroller for information is a reference to a person or an authority of a country that is a Party to the treaty authorised to make such a request; and
 
-[19/2013]
+(b) the reference in the definition of “tax position” to any tax of the country with whose government the EOI arrangement was made and that is covered by the arrangement, is a reference to any tax of a country that is a Party to the treaty and covered by the treaty.
+
+[37/2014]

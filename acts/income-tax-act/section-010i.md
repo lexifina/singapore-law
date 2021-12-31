@@ -1,57 +1,26 @@
-# 10I. Reduction of share capital ... ... ... ... ... ... ... ... 61
-Part: PART III IMPOSITION OF INCOME TAX
-Heading: Section Pages
+# 10I. Additional Tier 1 capital instruments 1
+Part: PART 3 IMPOSITION OF INCOME TAX
 
-(1) This section shall, subject to sections 10J, 10K and 10M, apply where a company resident in Singapore reduces its share capital and the reduction of share capital involves a payment to any shareholder of the company.
+(1) Any distribution that is liable to be made in respect of an AT1 instrument in the basis period for the year of assessment 2015 or a subsequent year of assessment is deemed for the purposes of this Act, and for that year of assessment, as interest derived from a debt security.
 
-[32/99; 24/2001]
+[37/2014]
 
-(2) Where the reduction of share capital is made out of the contributed capital of the company, and a payment is made to any shareholder of the company pursuant to such reduction, the payment to the shareholder shall not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account referred to in subsection (5)(c)(i).
+(2) In this section —
 
-[32/99]
+“AT1 instrument” means a security (not being shares) commonly known as Additional Tier 1 capital instrument which —
 
-(3) Where the reduction of share capital is not made out of the contributed capital of the company, and a payment is made to any shareholder of the company pursuant to such reduction, the payment to the shareholder shall be deemed to be a dividend paid by the company to the shareholder on the date of the payment, and the provisions relating to the payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) shall apply, with the necessary modifications, to the dividend deemed to be paid.
+(a) is issued in Singapore but not through a branch situated outside Singapore; and
 
-[32/99]
+(b) either —
 
-(4) [Deleted by Act 19 of 2013]
+(i) according to MAS Notice 637, may be used to satisfy the capital adequacy requirement of a bank incorporated in Singapore with a full banking licence, under section 10(2) of the Banking Act 1970; or
 
-(5) For the purposes of this section —
+(ii) according to a direction issued under section 28(3) of the Monetary Authority of Singapore Act 1970 and MAS Notice 637, may be used to satisfy the capital adequacy requirement of any other financial institution within the meaning of section 27A(6) of that Act;
 
-(a) the share capital of a company shall include any reserve which is treated as paid-up share capital of the company for the purpose of any reduction of share capital made by the company;
+“full banking licence” has the meaning given by the Banking (Fees) Notification;
 
-(b) the contributed capital of a company as at any date shall be the aggregate of the amounts received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued up to that date reduced by —
+“MAS Notice 637” means the notice commonly known as MAS Notice 637 that is issued by the Monetary Authority of Singapore pursuant to sections 10(2), 10A(1), 10B(1) and 65(2) of the Banking Act 1970, and includes any notice that replaces it.
 
-(i) the aggregate of the amounts of any payment made to any shareholder of the company pursuant to any reduction of share capital by the company up to that date which had not been treated as a payment of dividends for the purpose of this Act;
+[10O
 
-(ii) the aggregate of the amounts of any payment made to any shareholder of the company pursuant to any redemption of shares by the company up to that date which had not been treated as a payment of dividends for the purpose of this Act; and
-
-(iii) the aggregate of the amounts of any other payment made to any shareholder of the company pursuant to any return of share capital up to that date which had not been treated as a payment of dividends for the purpose of this Act;
-
-(c) in relation to the first reduction of its share capital made on or after 18th November 1998 by any company, the contributed capital of the company immediately before the first reduction —
-
-(i) shall be credited to an account (referred to in this section as the contributed capital account) to be kept by the company for the purposes of this section; and
-
-(ii) where the aggregate of the amounts of any payment referred to in paragraph (b)(i), (ii) and (iii) exceeds the aggregate of the amounts received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued before the first reduction, the amount to be credited to the contributed capital account shall be deemed to be zero;
-
-(d) where any share is issued by a company subsequent to the first reduction of its share capital referred to in paragraph (c), any amount received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued shall be credited to the contributed capital account;
-
-(e) where a company redeems any redeemable shares subsequent to the first reduction of its share capital referred to in paragraph (c) and section 10K does not apply to that redemption, any payment made to any shareholder for the purpose of that redemption shall be debited to the contributed capital account where the payment is not treated as a payment of dividends for the purpose of this Act;
-
-(f) where any reduction of share capital of a company was made before 18th November 1998 for the purposes of or in connection with a scheme for the reconstruction of any company or companies or the amalgamation of 2 or more companies and such scheme resulted in the transfer of assets of the first-mentioned company, whether directly by that company or indirectly through its shareholders, to another company in exchange for shares in the transferee company, the consideration equal to the value of the assets received by the transferee company for the shares issued shall, notwithstanding paragraph (b), not form part of the contributed capital of the transferee company where the payment made by the first-mentioned company pursuant to the reduction of its share capital was —
-
-(i) not treated as a payment of dividend to the shareholder of the first-mentioned company for the purpose of this Act; and
-
-(ii) more than the contributed capital of the first‑mentioned company immediately before the reduction of its share capital;
-
-(g) where paragraph (f) is applicable to the contributed capital of a transferee company, the contributed capital of the first‑mentioned company under that paragraph after the reduction of its share capital shall, notwithstanding paragraph (b), not be reduced by the payment made by the first‑mentioned company for the reduction of its share capital;
-
-and
-
-(h) any amount applied by a company in issuing shares of the company to its shareholders as bonus shares shall not be regarded as receipts by the company from the issue of shares.
-
-[32/99; 34/2005]
-
-(6) A company shall deliver to the Comptroller a copy of the contributed capital account made up to any date specified by the Comptroller whenever called upon to do so by notice in writing.
-
-[32/99]
+[37/2014; 5/2016; 41/2020]

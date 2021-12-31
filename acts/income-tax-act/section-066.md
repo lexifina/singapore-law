@@ -1,7 +1,6 @@
-# 66. Returns to be deemed to be furnished by due authority ... ... 676
-Part: PART XVI RETURNS
-Heading: Section Pages
+# 66. Returns to be deemed to be furnished by due authority
+Part: PART 16 RETURNS
 
-(1) A return, statement or form purporting to be furnished under this Act by or on behalf of any person shall for all purposes be deemed to have been furnished by that person or by his authority, as the case may be, unless the contrary is proved.
+(1) A return, statement or form purporting to be furnished under this Act by or on behalf of any person is for all purposes deemed to have been furnished by that person or by that person’s authority (as the case may be) unless the contrary is proved.
 
-(2) Any person signing any such return, statement or form shall be deemed to be cognizant of all matters therein.
+(2) Any person signing any such return, statement or form is deemed to be cognizant of all matters therein.

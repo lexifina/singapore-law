@@ -1,6 +1,4 @@
-# 105. Jurisdiction of court ... ... ... ... ... ... ... ... ... 723
-Part: PART XX OFFENCES AND PENALTIES
+# 105. Jurisdiction of court
+Part: PART 20 OFFENCES AND PENALTIES
 
-Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
-
-[4/75]
+Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court or a Magistrate’s Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.

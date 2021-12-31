@@ -1,5 +1,5 @@
-# 97. Penalties for offences by authorised and unauthorised persons 720
-Part: PART XX OFFENCES AND PENALTIES
+# 97. Penalties for offences by authorised and unauthorised persons
+Part: PART 20 OFFENCES AND PENALTIES
 
 Any person who —
 
@@ -7,10 +7,10 @@ Any person who —
 
 (i) demands from any person an amount in excess of the authorised assessment or tax;
 
-(ii) withholds for his own use or otherwise any portion of the amount of tax collected;
+(ii) withholds for the person’s own use or otherwise any portion of the amount of tax collected;
 
-(iii) renders a false return, whether verbal or in writing, of the amounts of tax collected or received by him; or
+(iii) renders a false return, whether verbal or in writing, of the amounts of tax collected or received by the person; or
 
-(iv) defrauds any person, embezzles any money or otherwise uses his position so as to deal wrongfully either with the Comptroller or any other individual; or
+(iv) defrauds any person, embezzles any money or otherwise uses the person’s position so as to deal wrongfully either with the Comptroller or any other individual; or
 
 (b) not being authorised under this Act to do so, collects or attempts to collect tax under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.

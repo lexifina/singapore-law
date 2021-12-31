@@ -1,6 +1,6 @@
-# 105J. Purpose of this Part ... ... ... ... ... ... ... ... ... 729
-Part: PART XXB INTERNATIONAL AGREEMENTS TO IMPROVE TAX COMPLIANCE
+# 105J. Purpose of this Part
+Part: PART 20B INTERNATIONAL AGREEMENTS TO IMPROVE TAX COMPLIANCE
 
-The purpose of this Part is to implement Singapore’s obligations under an international tax compliance agreement.
+The purpose of this Part is to implement Singapore’s obligations under an international tax compliance agreement, and to enable country-by-country reports to be filed with the Comptroller in accordance with the Action 13 Report.
 
-[19/2013]
+[34/2016]

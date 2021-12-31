@@ -1,13 +1,11 @@
-# 51. Income of wife ... ... ... ... ... ... ... ... ... ... 655 Trustees, agents and curators
-Part: PART XV PERSONS CHARGEABLE Husband and wife Section Pages
+# 51. Income of wife Trustees, agents and curators
+Part: PART 15 PERSONS CHARGEABLE Husband and wife
 
-(1) The income of a married woman shall for the purposes of this Act be charged in her own name.
-
-[49/2004]
+(1) The income of a married woman must for the purposes of this Act be charged in her own name.
 
 (2) [Deleted by Act 22 of 2011]
 
-(3) For the purposes of this Act, a married woman shall be treated as living with her husband unless —
+(3) For the purposes of this Act, a married woman is treated as living with her husband unless —
 
 (a) they are separated under an order of court of competent jurisdiction or by deed of separation;
 

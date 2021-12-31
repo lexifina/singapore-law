@@ -1,30 +1,9 @@
-# 14T. Deduction for expenditure on leasing of PIC automation equipment under qualifying lease ... ... ... ... ... ... 282
-Part: PART V DEDUCTIONS AGAINST INCOME
-Heading: Section Pages
+# 14T. Deduction for expenditure on licensing intellectual property rights
+Part: PART 5 DEDUCTIONS AGAINST INCOME
 
-(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2011 or the year of assessment 2012, there shall be allowed in respect of all his trades and businesses, in addition to the deduction under section 14, a deduction for the expenditure incurred for the purposes of those trades and businesses on the leasing of one or more PIC automation equipment under a qualifying lease or leases, computed in accordance with the following formula:
+(1) Subject to this section and section 37J, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2013, 2014 or 2015, there is allowed, in respect of all of the person’s trades and businesses and in addition to the deduction allowed under section 14 or 14C (as the case may be), a deduction for expenditure incurred during the basis period for the purposes of those trades and businesses on the licensing from another person of any qualifying intellectual property rights that is computed in accordance with the formula
 
-A  300%;
-
-where A is —
-
-(a) for the year of assessment 2011, the lower of the following:
-
-(i) such expenditure incurred during the basis period for that year of assessment;
-
-(ii) $800,000; and
-
-(b) for the year of assessment 2012, the lower of the following:
-
-(i) such expenditure incurred during the basis period for that year of assessment;
-
-(ii) the balance after deducting from $800,000 the lower of the amounts specified in paragraph (a)(i) and (ii).
-
-[22/2011]
-
-(2) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2013, the year of assessment 2014 or the year of assessment 2015, there shall be allowed in respect of all his trades and businesses, in addition to the deduction allowed under section 14, a deduction for the expenditure incurred for the purposes of those trades and businesses on the leasing of one or more PIC automation equipment under a qualifying lease or leases, computed in accordance with the following formula:
-
-A  300%;
+A  300%;
 
 where A is —
 
@@ -38,9 +17,7 @@ where A is —
 
 (i) such expenditure incurred during the basis period for that year of assessment;
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii);
-
-and
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii); and
 
 (c) for the year of assessment 2015, the lower of the following:
 
@@ -48,106 +25,138 @@ and
 
 (ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
 
-[22/2011]
+[37/2014]
 
-(3) No deduction shall be allowed to a person under this section in respect of —
+(2) Despite anything in this section or section 19B, where a person has, during the basis period for any year of assessment between the years of assessment 2013 and 2015 (both years inclusive), incurred both expenditure on the licensing from another person of any qualifying intellectual property rights and expenditure on the acquisition of any intellectual property rights, the aggregate of the expenditure which may be given a deduction under subsection (1) and the expenditure which may be given an allowance under section 19B(1B) must not exceed —
 
-(a) any expenditure which is not allowed as a deduction under section 14; or
-
-(b) any expenditure incurred during the basis period for a year of assessment on the leasing of any PIC automation equipment under a qualifying lease where —
-
-(i) the equipment is sub‑leased to another person during that basis period; or
-
-(ii) an allowance has been previously made to that person under section 19 or 19A in respect of the equipment.
-
-[22/2011]
-
-(4) Where a person has incurred expenditure on both the leasing under a qualifying lease and the provision of one or more PIC automation equipment during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2015 (both years inclusive), the aggregate of the deduction under subsection (1) or (2) and the allowance under section 19A(2A) or (2B) in respect of all such expenditure shall not exceed —
-
-(a) in the case of the year of assessment 2011, 300% of the lower of the following:
-
-(i) the aggregate of all such expenditure;
-
-(ii) $800,000;
-
-(b) in the case of the year of assessment 2012, 300% of the lower of the following:
-
-(i) the aggregate of all such expenditure;
-
-(ii) the balance after deducting from $800,000 the lower of the amounts specified in paragraph (a)(i) and (ii);
-
-(c) in the case of the year of assessment 2013, 300% of the lower of the following:
+(a) in the case of the year of assessment 2013, the lower of the following:
 
 (i) the aggregate of all such expenditure;
 
 (ii) $1,200,000;
 
-(d) in the case of the year of assessment 2014, 300% of the lower of the following:
+(b) in the case of the year of assessment 2014, the lower of the following:
 
 (i) the aggregate of all such expenditure;
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (c)(i) and (ii);
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii); and
 
-and
-
-(e) in the case of the year of assessment 2015, 300% of the lower of the following:
+(c) in the case of the year of assessment 2015, the lower of the following:
 
 (i) the aggregate of all such expenditure;
 
-(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (c)(i) and (ii), and the lower of the amounts specified in paragraph (d)(i) and (ii).
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
 
-[22/2011]
+(3) In subsections (1) and (2) —
 
-(5) In subsections (1) and (4), the amounts under subsections (1)(a)(ii) and (4)(a)(ii) shall be substituted with “$400,000” if the person does not carry on any trade or business during the basis period for the year of assessment 2012, and the balances under subsections (1)(b)(ii) and (4)(b)(ii) shall be substituted with “$400,000” if the person does not carry on any trade or business during the basis period for the year of assessment 2011.
+(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the years of assessment 2013 and 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the other 2 years of assessment are each substituted with “$800,000”;
 
-[22/2011]
+(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the years of assessment 2013 and 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the remaining year of assessment are each substituted with “$400,000”; and
 
-(6) In subsections (2) and (4) —
+(c) to avoid doubt —
 
-(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the year of assessment 2013 and the year of assessment 2015 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the other 2 years of assessment shall be substituted with “$800,000”;
+(i) if the person does not carry on any trade or business during the basis period for the year of assessment 2013, no deduction may be made from the substituted amount in subsection (1)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (1)(a)(i) and (ii), or from the substituted amount in subsection (2)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (2)(a)(i) and (ii); and
 
-(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the year of assessment 2013 and the year of assessment 2015 (both years inclusive), the reference to “$1,200,000” in the paragraphs of those subsections applicable to the remaining year of assessment shall be substituted with “$400,000”; and
+(ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2014, no deduction may be made from the substituted amount in subsection (1)(c)(ii) of the lower of the amounts specified in subsection (1)(b)(i) and (ii), or from the substituted amount in subsection (2)(c)(ii) of the lower of the amounts specified in subsection (2)(b)(i) and (ii).
 
-(c) for the avoidance of doubt —
+(4) Subject to this section and section 37J, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for the year of assessment 2016, 2017 or 2018, there is allowed in respect of all of the person’s trades and businesses, in addition to the deduction allowed under section 14 or 14C (as the case may be), a deduction for expenditure incurred during the basis period for the purposes of those trades and businesses on the licensing from another person of any qualifying intellectual property rights that is computed in accordance with the formula
 
-(i) if the person does not carry on any trade or business during the basis period for the year of assessment 2013, no deduction shall be made from the substituted amount in subsection (2)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (2)(a)(i) and (ii), or from the substituted amount in subsection (4)(d)(ii) or (e)(ii) of the lower of the amounts specified in subsection (4)(c)(i) and (ii); and
+A  300%;
 
-(ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2014, no deduction shall be made from the substituted amount in subsection (2)(c)(ii) of the lower of the amounts specified in subsection (2)(b)(i) and (ii), or from the substituted amount in subsection (4)(e)(ii) of the lower of the amounts specified in subsection (4)(d)(i) and (ii).
+where A is —
 
-[22/2011]
+(a) for the year of assessment 2016, the lower of the following:
 
-(6A) For the purposes of subsections (1), (2) and (4), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2015 (both years inclusive), incurred expenditure on the leasing of one or more PIC automation equipment under a qualifying lease or leases and (if applicable) the provision of one or more PIC automation equipment, in respect of such firms for the purposes of his trade or business, the deductions and allowances that may be allowed to him for that expenditure in respect of all his trades and businesses shall not exceed the amount computed in accordance with subsection (1), (2) or (4) (as the case may be) for that year of assessment.
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-[22/2011]
+(ii) $1,200,000;
 
-(6B) For the purposes of subsections (1), (2) and (4), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2015 (both years inclusive), incurred expenditure on the leasing of one or more PIC automation equipment under a qualifying lease or leases and (if applicable) the provision of one or more PIC automation equipment, for the purposes of its trade or business, the aggregate of the deductions and allowances that may be allowed to all the partners of the partnership for that expenditure in respect of all the trades and businesses of the partnership shall not exceed the amount computed in accordance with subsection (1), (2) or (4) (as the case may be) for that year of assessment.
+(b) for the year of assessment 2017, the lower of the following:
 
-[22/2011]
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-(6C) This section applies to expenditure incurred on procuring cloud computing services as it applies to expenditure incurred on the leasing of PIC automation equipment under a qualifying lease and, accordingly, a reference in this section (other than subsection (3)(b)) to the leasing of any PIC automation equipment under a qualifying lease includes a reference to procuring cloud computing services.
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii); and
 
-[22/2011]
+(c) for the year of assessment 2018, the lower of the following:
 
-(7) In this section —
+(i) such expenditure incurred during the basis period for that year of assessment;
 
-“cloud computing” means a model for delivering information technology services under which shared resources or software, or both, are provided to computers and other devices over a network such as the Internet;
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
 
-“cloud computing service” means any information technology service delivered by means of cloud computing;
+[37/2014]
 
-“finance lease” has the same meaning as in section 10D;
+(4A) Despite anything in this section or section 19B, where a person has, during the basis period for any year of assessment between the years of assessment 2016 and 2018 (both years inclusive), incurred both expenditure on the licensing from another person of any qualifying intellectual property rights and expenditure on the acquisition of any intellectual property rights, the aggregate of the expenditure which may be given a deduction under subsection (4) and the expenditure which may be given an allowance under section 19B(1BAA) must not exceed —
 
-“operating lease” means a lease of any machinery or plant, other than a finance lease;
+(a) in the case of the year of assessment 2016, the lower of the following:
 
-“PIC automation equipment” has the same meaning as in section 19A;
+(i) the aggregate of all such expenditure;
 
-“qualifying lease” means —
+(ii) $1,200,000;
 
-(a) any operating lease; or
+(b) in the case of the year of assessment 2017, the lower of the following:
 
-(b) any finance lease other than a lease of PIC automation equipment which has been treated as though it had been sold pursuant to regulations made under section 10D(1).
+(i) the aggregate of all such expenditure;
 
-[29/2010; 22/2011]
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii); and
 
-(8) In this section, a reference to expenditure incurred on the leasing of PIC automation equipment under a qualifying lease or the provision of PIC automation equipment excludes any such expenditure to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board.
+(c) in the case of the year of assessment 2018, the lower of the following:
 
-[29/2010; 22/2011; 29/2012]
+(i) the aggregate of all such expenditure;
+
+(ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
+
+[37/2014]
+
+(4B) In subsections (4) and (4A) —
+
+(a) if the person does not carry on any trade or business during the basis period for any one year of assessment between the years of assessment 2016 and 2018 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the other 2 years of assessment are each substituted with “$800,000”;
+
+(b) if the person does not carry on any trade or business during the basis periods for any 2 years of assessment between the years of assessment 2016 and 2018 (both years inclusive), the references to “$1,200,000” in the paragraphs of those subsections applicable to the remaining year of assessment are each substituted with “$400,000”; and
+
+(c) to avoid doubt —
+
+(i) if the person does not carry on any trade or business during the basis period for the year of assessment 2016, no deduction may be made from the substituted amount in subsection (4)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (4)(a)(i) and (ii), or from the substituted amount in subsection (4A)(b)(ii) or (c)(ii) of the lower of the amounts specified in subsection (4A)(a)(i) and (ii); and
+
+(ii) if the person does not carry on any trade or business during the basis period for the year of assessment 2017, no deduction may be made from the substituted amount in subsection (4)(c)(ii) of the lower of the amounts specified in subsection (4)(b)(i) and (ii), or from the substituted amount in subsection (4A)(c)(ii) of the lower of the amounts specified in subsection (4A)(b)(i) and (ii).
+
+[37/2014]
+
+(4C) For the purposes of subsections (1) and (4), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the years of assessment 2013 and 2018 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights in respect of such firms for the purposes of his or her trade or business, the deductions that may be allowed to him or her for that expenditure in respect of all of his or her trades and businesses must not exceed the amount computed in accordance with subsection (1) or (4) (as the case may be) for that year of assessment.
+
+[37/2014]
+
+(5) For the purposes of subsections (1), (2), (4) and (4A), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the years of assessment 2013 and 2018 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights and (if applicable) the acquisition of any intellectual property rights, for the purposes of its trade or business, the aggregate of the deductions and allowances that may be allowed to all the partners of the partnership for that expenditure in respect of all of the trades and businesses of the partnership must not exceed the amount computed in accordance with subsection (1), (2), (4) or (4A) (as the case may be) for that year of assessment.
+
+[37/2014]
+
+(6) No deduction is allowed under this section in respect of —
+
+(a) any expenditure which is not allowed as a deduction under section 14 or 14C, as the case may be;
+
+(b) any expenditure incurred by a person on licensing from its related party carrying on any trade or business in Singapore, of any qualifying intellectual property rights, where such rights were acquired or developed (in whole or in part) by the related party during the basis period relating to the year of assessment 2011 or any subsequent year of assessment; or
+
+(c) any qualifying intellectual property rights for which a writing-down allowance has been previously made to that person under section 19B.
+
+(7) The Minister may by order exempt a person from subsection (6)(b) in respect of such transaction as may be specified in the order.
+
+(8) In this section —
+
+“intellectual property rights” has the meaning given by section 19B(11);
+
+“qualifying intellectual property rights” means intellectual property rights but excludes the right to do or authorise the doing of anything which would, but for that right, be an infringement of —
+
+(a) any trade mark; or
+
+(b) any rights to the use of software;
+
+“related party” has the meaning given by section 13(16).
+
+(9) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights or the acquisition of intellectual property rights excludes any such expenditure to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board.
+
+(10) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights means the licence fees and excludes —
+
+(a) expenditure for the transfer of ownership of any of those rights; and
+
+(b) legal fees and other costs related to the licensing of such rights.
+
+[14W

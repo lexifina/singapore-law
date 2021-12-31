@@ -1,27 +1,28 @@
-# 14V. Deduction for amortisation of intangible asset created under public-private partnership arrangement ... ... ... ... ... 289
-Part: PART V DEDUCTIONS AGAINST INCOME
-Heading: Section Pages
+# 14V. Deduction for expenditure incurred to comply with statutory and regulatory requirements
+Part: PART 5 DEDUCTIONS AGAINST INCOME
 
-(1) Where —
+(1) For the purpose of ascertaining the income of any person for the basis period for the year of assessment 2014 or any subsequent year of assessment, the following expenditure, not being capital expenditure, incurred during the basis period by that person is allowed as a deduction for that year of assessment, if the Comptroller is satisfied that the expenditure is incurred for the purpose of the business that is carried on in the production of the income:
 
-(a) a person provides services under a public-private partnership arrangement —
+(a) expenditure incurred for the purpose of compliance by that person with any written law of Singapore or another country;
 
-(i) that is the subject of a contract entered into between the Government or any approved statutory body and any person; and
+(b) expenditure incurred for the purpose of compliance by that person with any code, standard, rule, requirement or other document issued by the Government, a public authority established by or under any public Act, or by the government or a public authority of another country, or by a securities exchange;
 
-(ii) to which INT FRS 112 applies;
+(c) expenditure incurred —
 
-(b) section 10F(1A) or (1C) applies to him in respect of those services;
+(i) to study the impact of any proposed law referred to in paragraph (a) or proposed document referred to in paragraph (b);
 
-(c) the person recognises in his financial statements, prepared in accordance with INT FRS 112, an intangible asset as having been created in the course of providing the services; and
+(ii) to prevent or to detect any non-compliance with any law referred to in paragraph (a) or document referred to in paragraph (b);
 
-(d) in accordance with FRS 38, amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment, then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38, shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
+(iii) to voluntarily comply with a requirement of any law referred to in paragraph (a) or document referred to in paragraph (b), even though the person does not need to comply with the requirement.
 
-[19/2013]
+[37/2014]
 
-(2) In this section —
+(2) No deduction is allowed under this section for —
 
-“FRS 38” means the financial reporting standard known as Financial Reporting Standard 38 (Intangible Assets) issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B);
+(a) any expenditure which is deductible under any other provision of this Act; or
 
-“INT FRS 112” has the same meaning as in section 10F.
+(b) any fine or penalty imposed or security deposit forfeited for a breach of a requirement of any law referred to in subsection (1)(a) or document referred to in subsection (1)(b), including any sum paid to compound any offence.
 
-[19/2013]
+[14X
+
+[37/2014]

@@ -1,153 +1,92 @@
-# 13S. Exemption of income of shipping investment enterprise ... ... 175
-Part: PART IV EXEMPTION FROM INCOME TAX
-Heading: Section Pages
+# 13S. Exemption of income derived by law practice from international arbitration held in Singapore
+Part: PART 4 EXEMPTION FROM INCOME TAX
 
-(1) Subject to subsections (1B) and (4), there shall be exempt from tax the income derived by an approved shipping investment enterprise —
+(1) Any law practice intending to provide legal services in connection with any international arbitration may, from 1 July 2007 to 30 June 2017 (both dates inclusive), apply to the Minister, or such person as the Minister may appoint, for approval as an approved law practice.
 
-(a) from the chartering or finance leasing of any sea-going ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to —
+(2) Where the Minister, or such person as the Minister may appoint, considers it expedient in the public interest to do so, the Minister or appointed person may approve the application and issue a letter to the law practice subject to such conditions as the Minister or appointed person thinks fit.
 
-(i) a person who is neither resident in Singapore nor a permanent establishment in Singapore; or
+(2A) No approval under this section may be granted to any law practice which is approved on or after 1 April 2010 as a development and expansion company under Part 4 of the Economic Expansion Incentives (Relief from Income Tax) Act 1967 in respect of international services that qualify for zero-rating under section 21(3) of the Goods and Services Tax Act 1993, and such approval remains in force.
 
-(ii) an approved international shipping enterprise,
+(3) Every letter issued under subsection (2) must specify a date as the commencement day from which the approved law practice is entitled to tax relief under this section.
 
-(a) for use outside the limits of the port of Singapore;
+(4) The tax relief period of an approved law practice commences on its commencement day and continues for such period, not exceeding 5 years, as is specified in the letter issued to it under subsection (2).
 
-(b) from the chartering or finance leasing of any sea-going Singapore ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to a shipping enterprise within the meaning of section 13A for use outside the limits of the port of Singapore;
+(5) The amount of the income of an approved law practice which will qualify for the relief for any year of assessment is the excess of the total amount of the qualifying income of the approved law practice for the basis period for that year of assessment over its base income.
 
-(c) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the activities referred to in paragraphs (a) and (b); and
+(6) Where an approved law practice has satisfied the conditions specified in the letter issued to it under subsection (2), one-half of the amount of the income of the approved law practice for any year of assessment for a basis period that falls within the tax relief period which qualifies for the relief as ascertained under subsection (5) does not form part of the statutory income of the approved law practice for that year of assessment and is exempt from tax.
 
-(d) on or after 1st June 2011 from —
+(6A) For the purpose of satisfying the Comptroller that its income qualifies for relief under this section, the approved law practice must provide, not later than 5 years after the end of its tax relief period, evidence of the place of hearing or intended place of hearing (as the case may be) of the international arbitration.
 
-(i) the sale of a sea-going ship;
+(7) Where an approved law practice is a law corporation, the exemption under section 43(6) or (6C) (as the case may be) does not apply to the balance of the qualifying income exceeding the base income of the approved law practice that is not exempt under subsection (6).
 
-(ii) the assignment to another of all its rights as the buyer under a contract for the construction of a sea-going ship; or
+[45/2018]
 
-(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved shipping investment enterprise where, at the time of the sale of the shares, the special purpose company owns any sea-going ship or is the buyer under a contract for the construction of any sea-going ship.
+(8) The base income mentioned in subsection (5) is —
 
-[34/2008; 29/2012]
+(a) where an approved law practice had in the period of 3 years immediately preceding the commencement day provided legal services in connection with any qualifying international arbitration —
 
-(1A) Subsection (1), in relation to income referred to in paragraph (a), (b) or (c) of that subsection, shall continue to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but which continues to derive such income in relation to a sea-going ship acquired before or during the period of the approval, provided that the enterprise has by the date of the expiry or before the withdrawal, fulfilled all the conditions referred to in subsection (3); and any reference in this section to an approved shipping investment enterprise shall be construed accordingly.
+(i) the amount ascertained by dividing the total income derived from providing those legal services in the period by the actual number of years in the period in which those legal services were provided; or
 
-[34/2008; 29/2012]
+(ii) if the amount ascertained under sub-paragraph (i) is less than zero, deemed to be zero; or
 
-(1AA) Subsection (1)(d) does not apply to —
+(b) such amount as the Minister may specify.
 
-(a) any income of an approved shipping investment enterprise as a lessor of a sea-going ship under a finance lease that is treated as a sale under section 10D; or
+(9) The Comptroller must determine the manner and extent to which allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and losses allowable under this Act which are attributable to the qualifying income of an approved law practice are to be deducted.
 
-(b) any income of an approved shipping investment enterprise from carrying on a business of trading in sea-going ships or of constructing sea-going ships for sale.
+(10) In determining the qualifying income of an approved law practice for the basis period for any year of assessment, there are to be deducted from the income —
 
-[29/2012]
+(a) expenses allowable under this Act for that year of assessment which are attributable to that income; and
 
-(1B) Subsections (1) and (1A) shall apply to income derived by an approved shipping investment enterprise in relation to a sea-going ship acquired before the period of its approval, if and only if the enterprise is approved on or after 1st April 2008.
+(b) any allowances for that year of assessment under section 19, 19A, 20, 21 or 22 attributable to that income even if no claim for those allowances has been made.
 
-[34/2008]
+(11) The Comptroller may require an auditor to certify the income derived by an approved law practice from legal services in connection with any qualifying international arbitration and any direct costs and expenses incurred therefor.
 
-(2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 31st May 2016, approve a shipping investment enterprise for the purposes of subsection (1).
-
-[7/2007; 29/2010; 22/2011]
-
-(3) The approval under subsection (2) shall be subject to such conditions as the Minister may specify, and shall —
-
-(a) where the approval is granted during the period between 1st March 2006 and 28th February 2011, be for such period not exceeding 10 years, as the Minister may specify; and
-
-(b) where the approval is granted during the period between 1st March 2011 and 31st May 2016, be for such period not exceeding 5 years, as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
-
-[29/2010; 22/2011]
-
-(4) The Minister or such person as he may appoint may, in respect of any sea-going ship or class of sea-going ships, specify the period during which the income of the sea-going ship or class of sea-going ships may be exempted from tax under subsection (1) not exceeding —
-
-(a) in the case of any ship used for the carriage of goods or passengers, towage or salvage, a period of 30 years; or
-
-(b) in the case of any dredger, seismic ship or any ship used for offshore oil or gas activity, a period of 40 years.
-
-[7/2007]
-
-(5) In determining the amount of the income of an approved shipping investment enterprise which is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
-
-(a) shall be taken into account notwithstanding that no claim for those allowances has been made; and
-
-(b) shall only be deducted against the income referred to in subsection (1), and the balance of those allowances shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period of the enterprise shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 23.
-
-[7/2007; 34/2008; 29/2010]
-
-(6) Where an approved shipping investment enterprise incurs a loss during the tax exempt period in respect of any activity referred to in paragraphs (a), (b) and (c) of subsection (1), that loss —
-
-(a) shall be deducted in accordance with section 37; and
-
-(b) shall only be deducted against the income referred to in any of those paragraphs, and the balance of such loss shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 37.
-
-[29/2012]
-
-(6A) Where an approved shipping investment enterprise incurs a loss on any sale or assignment referred to in subsection (1)(d) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1)(d) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
-
-[29/2012]
-
-(7) The Comptroller shall for each year of assessment for which the income of an approved shipping investment enterprise is exempt from tax under subsection (1) issue to the enterprise a statement (to be included in a notice of any assessment served on the enterprise under section 76) showing the amount of income exempt from tax under subsection (1); and Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
-
-[7/2007; 34/2008; 19/2013]
-
-(8) Where any statement issued to an approved shipping investment enterprise under subsection (7) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the enterprise for the year of assessment to which the statement relates and shall be exempt from tax.
-
-[7/2007; 19/2013]
-
-(9) [Deleted by Act 19 of 2013]
-
-(10) [Deleted by Act 19 of 2013]
-
-(11) [Deleted by Act 19 of 2013]
-
-(12) [Deleted by Act 19 of 2013]
+(12) Where an approved law practice has in any year of assessment during the tax relief period incurred any loss from providing legal services in connection with any qualifying international arbitration or any allowances attributable to the qualifying income remaining unabsorbed, 50% of the loss or allowances, in each case, is to be deducted as provided for in section 23 or 37 (as the case may be) and the balance is disregarded.
 
 (13) [Deleted by Act 19 of 2013]
 
 (14) [Deleted by Act 19 of 2013]
 
-(15) [Deleted by Act 19 of 2013]
+(15) In this section —
 
-(16) [Deleted by Act 19 of 2013]
+“arbitral tribunal”, “award”, “international arbitration” and “party” have the meanings given by the International Arbitration Act 1994;
 
-(17) An approved shipping investment enterprise shall deliver to the Comptroller a statement of the account made up to any date specified by him whenever called upon to do so by notice in writing.
+“client”, “foreign law practice”, “Formal Law Alliance”, “Joint Law Venture”, “law corporation” and “Singapore law practice” have the meanings given by the Legal Profession Act 1966;
 
-[7/2007]
+“hearing” means a hearing by the arbitral tribunal on the substance of the dispute;
 
-(18) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved shipping investment enterprise which has been exempted from tax under subsection (1) ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the enterprise as may appear to be necessary in order to make good any loss of tax.
+“law practice” means a Singapore law practice, foreign law practice, Formal Law Alliance or Joint Law Venture;
 
-[19/2013]
+“legal services in connection with any qualifying international arbitration” —
 
-(19) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (18) were a notice of assessment.
+(a) in relation to an approved law practice whose application for approval is made at any time between 1 July 2007 and 30 June 2012 (both dates inclusive), means any professional work of a legal nature provided for the purposes of an international arbitration during the eligible period by any lawyer of the law practice for its client who is a party to the arbitration the hearing of which is held in Singapore during its tax relief period or the period referred to in subsection (8)(a), as the case may be; or
 
-[19/2013]
+(b) in relation to an approved law practice whose application for approval is made at any time between 1 July 2012 and 30 June 2017 (both dates inclusive), means any professional work of a legal nature provided for the purposes of an international arbitration during the eligible period by any lawyer of the law practice for its client who is a party to the arbitration the hearing of which is held or would (if there had been a hearing) have been held in Singapore;
 
-(19A) In this section, a reference to the leasing of a sea-going ship by a shipping investment enterprise approved on or after 1st March 2011 excludes the leasing of a sea-going ship which has been treated as though it had been sold pursuant to regulations made under section 10D(1).
+“qualifying income” means the income derived by an approved law practice from the provision of legal services in connection with any qualifying international arbitration.
 
-[29/2010]
+[37/2014]
 
-(20) In this section —
+(16) For the purposes of the definition of “legal services in connection with any qualifying international arbitration” in subsection (15), “eligible period” means —
 
-“approved international shipping enterprise” means an international shipping enterprise approved by the Minister or such person as he may appoint, subject to such conditions as he may impose;
+(a) in relation to an approved law practice whose application for approval is made at any time between 1 July 2007 and 30 June 2012 (both dates inclusive), the period beginning on the initial date specified in sub-paragraph (i) or (ii), whichever is applicable, and ending on the terminal date specified in sub-paragraph (iii) or (iv), whichever is applicable:
 
-“finance leasing” means the leasing of any sea-going ship which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of the sea-going ship to the lessee;
+(i) where the client in question is the claimant serving the request for arbitration, the initial date is the date of issue of the request;
 
-“international shipping enterprise” has the same meaning as in section 13F(6);
+(ii) where the client in question is the respondent being served the request for arbitration, the initial date is the date of receipt of the request for arbitration by the client or law practice;
 
-“registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
+(iii) a terminal date which is the date on which the final award is made by the arbitral tribunal;
 
-“sea-going ship” includes any dredger, seismic ship or any vessel used for offshore oil or gas activity;
+(iv) a terminal date which is the date on which the arbitration proceeding has otherwise finally terminated; or
 
-“shipping investment enterprise” means —
+(b) in relation to an approved law practice whose application for approval is made at any time between 1 July 2012 and 30 June 2017 (both dates inclusive), the period beginning on the initial date specified in sub-paragraph (i) or (ii), whichever is applicable, and ending on the terminal date specified in sub-paragraph (iii) or (iv), whichever is applicable:
 
-(a) a company incorporated and resident in Singapore; or
+(i) where the client in question is the claimant serving the request for arbitration, the initial date is the date of issue of the request;
 
-(b) a registered business trust;
+(ii) where the client in question is the respondent being served the request for arbitration, the initial date is the date of receipt of the request for arbitration by the client or law practice;
 
-“Singapore ship” has the same meaning as in section 13A(16);
+(iii) a terminal date which is the date on which the final award is made by the arbitral tribunal;
 
-“special purpose company”, in relation to an approved shipping investment enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is the chartering or finance leasing of sea-going ships;
+(iv) a terminal date which is the date on which the arbitration proceeding has otherwise finally terminated, whether or not there was a hearing.
 
-“tax exempt period”, in relation to an approved shipping investment enterprise, means ––
-
-(a) in a case where the enterprise is approved on or after 1st April 2008 and has acquired a sea-going ship for use outside the limits of the port of Singapore before the date of its approval, the period from the date of its approval to the date where no income of any sea-going ship of the enterprise is eligible for exemption from tax under subsection (1); or
-
-(b) in any other case, the period from the date the enterprise first acquires, during the period of its approval, a sea‑going ship for use outside the limits of the port of Singapore to the date where no income of any sea‑going ship of the enterprise is eligible for exemption from tax under subsection (1).
-
-[7/2007; 34/2008; 29/2012]
+[13V

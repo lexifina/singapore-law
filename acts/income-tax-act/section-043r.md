@@ -1,23 +1,22 @@
-# 43R. Concessionary rate of tax for provision of processing services to financial institutions ... ... ... ... ... ... ... ... ... 603
-Part: PART XI RATES OF TAX
-Heading: Section Pages
+# 43R. Concessionary rate of tax for approved insurance brokers
+Part: PART 11 RATES OF TAX
 
-(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company derived by it on or after 27th February 2004 from the provision of prescribed processing services in Singapore to any financial institution or another approved company; and those regulations may provide for the deduction of losses of an approved company otherwise than in accordance with section 37(3).
+(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 10% is to be levied and paid for each year of assessment upon such income of an approved insurance broker as the Minister may specify that is derived by it on or after a prescribed date from the provision of such direct insurance broking, reinsurance broking or advisory services relating to the insurance sector as may be prescribed.
 
-[49/2004]
+[45/2018]
 
-(2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved company subject to such conditions as the Minister or such person as he may appoint may impose.
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
-[49/2004]
+(3) The Minister or a person appointed by the Minister may, subject to such conditions as the Minister or person may impose, approve a company that is a direct insurance broker, general reinsurance broker or life reinsurance broker, as an approved insurance broker for the purposes of this section.
 
-(3) No approval under this section shall be granted to any company on or after 27th February 2009.
+[32/2019]
 
-[49/2004]
+(4) Approval may be granted under this section between 1 April 2008 and 31 December 2023 (both dates inclusive).
 
-(4) In this section, “financial institution” means —
+[37/2014; 45/2018]
 
-(a) any institution in Singapore that is licensed or approved by the Monetary Authority of Singapore, or exempted from such licensing or approval, under any written law administered by the Monetary Authority of Singapore; or
+(5) In this section, “direct insurance broker”, “general reinsurance broker” and “life reinsurance broker” have the meanings given by section 2 of the Insurance Act 1966.
 
-(b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, by its financial supervisory authority for the carrying on of financial activities.
+[43ZC
 
-[49/2004]
+[32/2019]

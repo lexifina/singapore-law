@@ -1,10 +1,9 @@
-# 18B. Transitional provisions for capital expenditure incurred on industrial buildings or structures on or after 23rd February 2010 311
-Part: PART VI CAPITAL ALLOWANCES
-Heading: Section Pages
+# 18B. Transitional provisions for capital expenditure incurred on industrial buildings or structures on or after 23 February 2010
+Part: PART 6 CAPITAL ALLOWANCES
 
-(1) Notwithstanding section 16(15) but subject to subsection (11), where a person incurs on or after 23rd February 2010 capital expenditure on the construction of a building or structure which is to be an industrial building or structure upon the completion of the construction works, other than one referred to in subsection (2), and the person —
+(1) Despite section 16(15) but subject to subsection (11), where a person incurs on or after 23 February 2010 capital expenditure on the construction of a building or structure which is to be an industrial building or structure upon the completion of the construction works, other than one referred to in subsection (2), and the person —
 
-(a) on or before 22nd February 2010 —
+(a) on or before 22 February 2010 —
 
 (i) has been granted the option to purchase the land or has entered into a sale and purchase agreement for the land on which the industrial building or structure is to be constructed;
 
@@ -16,107 +15,79 @@ Heading: Section Pages
 
 (B) to lease therefrom the land on which the industrial building or structure is to be constructed; and
 
-(b) on or before 31st December 2010, has made an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act (Cap. 232) for the development of the land comprising the construction work, there shall be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
+(b) on or before 31 December 2010, has made an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act 1998 for the development of the land comprising the construction work, there are to be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
 
-[29/2010]
+(2) Despite section 16(15) but subject to subsection (11), where a person incurs on or after 23 February 2010 capital expenditure on the construction of a building or structure which is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon completion of the construction works, there are to be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
 
-(2) Notwithstanding section 16(15) but subject to subsection (11), where a person incurs on or after 23rd February 2010 capital expenditure on the construction of a building or structure which is to be an industrial building or structure by virtue of paragraph (f), (i) or
+(3) Despite section 16(15), where a person —
 
-(j) of section 18(1) upon completion of the construction works, there shall be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
-
-[29/2010]
-
-(3) Notwithstanding section 16(15), where a person —
-
-(a) on or before 22nd February 2010 —
+(a) on or before 22 February 2010 —
 
 (i) has been granted an option to purchase, or has entered into a sale and purchase agreement for, a new building or structure which is to be an industrial building or structure upon the purchase other than one referred to in subsection (4); or
 
 (ii) has been granted an option to acquire or has entered into an agreement to acquire the leasehold interest in such a building or structure; and
 
-(b) on or after 23rd February 2010, incurs capital expenditure on the purchase of the building or structure or of the leasehold interest therein, there shall be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
+(b) on or after 23 February 2010, incurs capital expenditure on the purchase of the building or structure or of the leasehold interest therein, there are to be made to that person an initial allowance and annual allowances in respect of that capital expenditure computed in accordance with section 16.
 
-[29/2010]
+(4) Despite section 16(15) but subject to subsection (12), where a person incurs on or after 23 February 2010 capital expenditure on the purchase of a new building or structure (including the purchase of a leasehold interest therein), and the building or structure is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the purchase or the completion of any renovation or refurbishment works carried out on the building or structure upon the purchase, there are to be made to that person an initial allowance and annual allowances in respect of the capital expenditure, as well as the capital expenditure incurred on such renovation or refurbishment works, both to be computed in accordance with section 16.
 
-(4) Notwithstanding section 16(15) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on the purchase of a new building or structure (including the purchase of a leasehold interest therein), and the building or structure is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the purchase or the completion of any renovation or refurbishment works carried out on the building or structure upon the purchase, there shall be made to that person an initial allowance and annual allowances in respect of the capital expenditure, as well as the capital expenditure incurred on such renovation or refurbishment works, both to be computed in accordance with section 16.
+(5) Despite section 16(15), where a person —
 
-[29/2010]
+(a) on or before 22 February 2010 —
 
-(5) Notwithstanding section 16(15), where a person —
-
-(a) on or before 22nd February 2010 —
-
-(i) has been granted an option to purchase, or has entered into a sale and purchase agreement for, a building or structure (not being a new building or structure) which is to be an industrial building or structure upon the purchase other than one referred to in subsection (6);
-
-or
+(i) has been granted an option to purchase, or has entered into a sale and purchase agreement for, a building or structure (not being a new building or structure) which is to be an industrial building or structure upon the purchase other than one referred to in subsection (6); or
 
 (ii) has been granted an option to acquire or has entered into an agreement to acquire the leasehold interest in such a building or structure; and
 
-(b) on or after 23rd February 2010, incurs capital expenditure on the purchase of the building or structure or of the leasehold interest therein, there shall be made to that person annual allowances in respect of that capital expenditure computed in accordance with section 16.
+(b) on or after 23 February 2010, incurs capital expenditure on the purchase of the building or structure or of the leasehold interest therein, there are to be made to that person annual allowances in respect of that capital expenditure computed in accordance with section 16.
 
-[29/2010]
+(6) Despite section 16(15) but subject to subsection (12), where a person incurs on or after 23 February 2010 capital expenditure on the purchase of a building or structure (not being a new building or structure), or of a leasehold interest therein, and the building or structure is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the purchase or the completion of any renovation or refurbishment works carried out on the building or structure upon the purchase, there are to be made to that person, in accordance with section 16 —
 
-(6) Notwithstanding section 16(15) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on the purchase of a building or structure (not being a new building or structure), or of a leasehold interest therein, and the building or structure is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the purchase or the completion of any renovation or refurbishment works carried out on the building or structure upon the purchase, there shall be made to that person, in accordance with section 16 —
+(a) annual allowances in respect of the capital expenditure;
 
-(a) annual allowances in respect of the capital expenditure; and
+and
 
 (b) an initial allowance and annual allowances in respect of capital expenditure incurred on such renovation or refurbishment works.
 
-[29/2010]
+(7) Despite section 16(15) and (16) but subject to subsection (11), where a person —
 
-(7) Notwithstanding section 16(15) and (16) but subject to subsection (11), where a person —
+(a) on or after 23 February 2010, incurs capital expenditure on extension works carried out on an existing building or structure that (together with the extension thereto) is to be an industrial building or structure, other than one referred to in subsection (8), upon the completion of the extension works;
 
-(a) on or after 23rd February 2010, incurs capital expenditure on extension works carried out on an existing building or structure that (together with the extension thereto) is to be an industrial building or structure, other than one referred to in subsection (8), upon the completion of the extension works;
+(b) on or before 22 February 2010, enters into a written agreement for a qualified person to carry out the extension works; and
 
-(b) on or before 22nd February 2010, enters into a written agreement for a qualified person to carry out the extension works; and
+(c) on or before 31 December 2010, makes an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act 1998 for the development of the land comprising the extension works, there are to be made to that person, computed in accordance with section 16 —
 
-(c) on or before 31st December 2010, makes an application for planning permission or conservation permission to the competent authority in accordance with the Planning Act for the development of the land comprising the extension works, there shall be made to that person, computed in accordance with section 16 —
+(d) an initial allowance and annual allowances in respect of the capital expenditure incurred on the extension works; and
 
-(i) an initial allowance and annual allowances in respect of the capital expenditure incurred on the extension works; and
+(e) where the existing building or structure is not an industrial building or structure on 22 February 2010, annual allowances in respect of any capital expenditure incurred before 23 February 2010 on the construction or purchase or the residue of that expenditure (as the case may be) of that building or structure.
 
-(ii) where the existing building or structure is not an industrial building or structure on 22nd February 2010, annual allowances in respect of any capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of that building or structure.
-
-[29/2010]
-
-(8) Notwithstanding section 16(15) and (16) but subject to subsection (11), where a person incurs on or after 23rd February 2010 capital expenditure on extension works to an existing building or structure, not being an industrial building or structure on or at any time before 22nd February 2010, that (together with the extension thereto) is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the completion of the extension works, there shall be made to that person, computed in accordance with section 16 —
+(8) Despite section 16(15) and (16) but subject to subsection (11), where a person incurs on or after 23 February 2010 capital expenditure on extension works to an existing building or structure, not being an industrial building or structure on or at any time before 22 February 2010, that (together with the extension thereto) is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the completion of the extension works, there are to be made to that person, computed in accordance with section 16 —
 
 (a) an initial allowance and annual allowances in respect of the capital expenditure; and
 
-(b) annual allowances in respect of any capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of the existing building or structure.
+(b) annual allowances in respect of any capital expenditure incurred before 23 February 2010 on the construction or purchase or the residue of that expenditure (as the case may be) of the existing building or structure.
 
-[29/2010]
-
-(9) Notwithstanding section 16(15) and (16) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on renovation or refurbishment works on an existing building or structure, and —
+(9) Despite section 16(15) and (16) but subject to subsection (12), where a person incurs on or after 23 February 2010 capital expenditure on renovation or refurbishment works on an existing building or structure, and —
 
 (a) the building or structure is to be an industrial building or structure, other than one referred to in subsection (10), upon the completion of the renovation or refurbishment works; and
 
-(b) such renovation or refurbishment works are carried out pursuant to a written agreement entered into with a renovation contractor on or before 22nd February 2010, there shall be made to that person, computed in accordance with section 16 —
+(b) such renovation or refurbishment works are carried out pursuant to a written agreement entered into with a renovation contractor on or before 22 February 2010, there are to be made to that person, computed in accordance with section 16 —
 
-(i) an initial allowance and annual allowances in respect of the capital expenditure incurred on the renovation or refurbishment works; and
+(c) an initial allowance and annual allowances in respect of the capital expenditure incurred on the renovation or refurbishment works; and
 
-(ii) where the existing building or structure is not an industrial building or structure on 22nd February 2010, annual allowances in respect of the capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of that building or structure.
+(d) where the existing building or structure is not an industrial building or structure on 22 February 2010, annual allowances in respect of the capital expenditure incurred before 23 February 2010 on the construction or purchase or the residue of that expenditure (as the case may be) of that building or structure.
 
-[29/2010]
-
-(10) Notwithstanding section 16(15) and (16) but subject to subsection (12), where a person incurs on or after 23rd February 2010 capital expenditure on renovation or refurbishment works on an existing building or structure, not being an industrial building or structure on or at any time before 22nd February 2010, that is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the completion of the renovation or refurbishment works, there shall be made to that person, computed in accordance with section 16 —
+(10) Despite section 16(15) and (16) but subject to subsection (12), where a person incurs on or after 23 February 2010 capital expenditure on renovation or refurbishment works on an existing building or structure, not being an industrial building or structure on or at any time before 22 February 2010, that is to be an industrial building or structure by virtue of paragraph (f), (i) or (j) of section 18(1) upon the completion of the renovation or refurbishment works, there are to be made to that person, computed in accordance with section 16 —
 
 (a) an initial allowance and annual allowances in respect of the capital expenditure; and
 
-(b) annual allowances in respect of any capital expenditure incurred before 23rd February 2010 on the construction or purchase or the residue of that expenditure, as the case may be, of the existing building or structure.
+(b) annual allowances in respect of any capital expenditure incurred before 23 February 2010 on the construction or purchase or the residue of that expenditure (as the case may be) of the existing building or structure.
 
-[29/2010]
+(11) For the purposes of subsections (1), (2), (7) and (8), no allowance may be made to a person in respect of any capital expenditure incurred on an industrial building or structure after the date of issuance of the temporary occupation permit for that building or structure or the end of the basis period for the year of assessment 2016, whichever is earlier.
 
-(11) For the purposes of subsections (1), (2), (7) and (8), no allowance shall be made to a person in respect of any capital expenditure incurred on an industrial building or structure after the date of issuance of the temporary occupation permit for that building or structure or the end of the basis period for the year of assessment 2016, whichever is earlier.
+(12) For the purposes of subsections (4), (6), (9) and (10), no allowance may be made to a person in respect of any capital expenditure incurred after the completion of the renovation or refurbishment works referred to in those subsections or the end of the basis period for the year of assessment 2016, whichever is the earlier.
 
-[29/2010]
-
-(12) For the purposes of subsections (4), (6), (9) and (10), no allowance shall be made to a person in respect of any capital expenditure incurred after the completion of the renovation or refurbishment works referred to in those subsections or the end of the basis period for the year of assessment 2016, whichever is the earlier.
-
-[29/2010]
-
-(13) No allowance shall be made under this section in respect of any capital expenditure incurred on the construction of a building or structure for which an allowance is made under section 18C.
-
-[29/2010]
+(13) No allowance may be made under this section in respect of any capital expenditure incurred on the construction of a building or structure for which an allowance is made under section 18C.
 
 (14) In this section —
 
@@ -132,8 +103,6 @@ or
 
 “qualified person” means —
 
-(a) any person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act; or
+(a) any person who is registered as an architect under the Architects Act 1991 and who has in force a practising certificate issued under that Act; or
 
-(b) any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
-
-[29/2010]
+(b) any person who is registered as a professional engineer under the Professional Engineers Act 1991 and who has in force a practising certificate issued under that Act.
