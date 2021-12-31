@@ -1,5 +1,3 @@
-# 12. Annual report
+# 12. [Repealed]
 
-The Secretary-Treasurer of the Board shall, as soon as practicable after the end of each financial year, submit to the Board a report of the activities of the Association during that financial year.
-
-[5/93]
+[Repealed by Act 5 of 2018]

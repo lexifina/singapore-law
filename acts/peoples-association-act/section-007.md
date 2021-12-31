@@ -1,9 +1,11 @@
 # 7. Disclosure of interest
 
-(1) If a member of the Association or of the Board is, directly or indirectly, interested in any contract, proposed contract or other matter and is present at a meeting of the Association or of the Board at which the contract, proposed contract or other matter is the subject of consideration, the member —
+(1) Division 1 of Part 4 of the Public Sector (Governance) Act 2018 applies as if —
 
-(a) shall, at the meeting and as soon as practicable after it commences, disclose the fact; and
+(a) a reference in that Division to a member of a public body includes a reference to a member of the Board; and
 
-(b) shall not thereafter be present during the consideration or discussion of, and shall not vote, on any question with respect to, that contract, proposed contract or other matter.
+(b) a reference in that Division to a meeting of a public body includes a reference to a meeting of the Board.
 
-(2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 9(b) when the member is present at a meeting of any committee.
+[5/2018]
+
+(2) Subsection (1) also applies to any member of a committee appointed in accordance with section 9(b) when the member is present at a meeting of any committee.

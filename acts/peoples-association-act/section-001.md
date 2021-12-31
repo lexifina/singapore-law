@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the People’s Association Act.
+This Act is the People’s Association Act 1960.
