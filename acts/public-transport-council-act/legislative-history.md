@@ -1,83 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PUBLIC TRANSPORT COUNCIL ACT 1987
 
-PUBLIC TRANSPORT COUNCIL ACT (CHAPTER 259B)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Public Transport Council Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 18 of 1987 — Public Transport Council Act 1987
+LEGISLATIVE HISTORY DETAILS PART 1 OMNIBUS SERVICES LICENSING AUTHORITY ORDINANCE, 1956 (ORDINANCE 13 OF 1956) 1. Ordinance 13 of 1956 — Omnibus Services Licensing Authority Ordinance, 1956 Bill : 46/1956 First Reading : 7 March 1956 Second Reading : 4 April 1956 Notice of Amendments : 4 April 1956 Third Reading : 4 April 1956 Commencement : 16 April 1956 2. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 3. G.N. No. S 223/1959 — Singapore Constitution (Modification of Laws) Order, 1959 Commencement : 3 June 1959 PART 2 BUS SERVICES LICENSING AUTHORITY ACT (CHAPTER 31, 1985 REVISED EDITION) 4. Act 5 of 1971 — Bus Services Licensing Authority Act, 1971 Bill : 60/1970 First Reading : 30 December 1970 Second and Third Readings : 11 January 1971 Commencement : 1 March 1971 5. Act 27 of 1973 — Bus Services Licensing Authority (Amendment) Act, 1973 Bill : 22/1973 First Reading : 11 July 1973 Second and Third Readings : 25 July 1973 Commencement : 1 September 1973 6. Act 21 of 1978 — Bus Services Licensing Authority (Amendment) Act, 1978 Bill : 13/1978 First Reading : 13 March 1978 Second and Third Readings : 7 April 1978 Commencement : 26 April 1978 7. 1985 Revised Edition — Bus Services Licensing Authority Act (Chapter 31) Operation : 30 March 1987 PART 3 PUBLIC TRANSPORT COUNCIL ACT 1987 (2020 REVISED EDITION) 8. Act 18 of 1987 — Public Transport Council Act 1987 Bill : 9/1987 First Reading : 20 May 1987 Second and Third Readings : 28 July 1987 Commencement : 14 August 1987 9. 1988 Revised Edition — Public Transport Council Act (Chapter 259B) Operation : 30 April 1988 10. G.N. No. S 432/1994 — Public Transport Council (Amendment of First Schedule) Order 1994 Commencement : 7 March 1994 11. Act 29 of 1995 — Rapid Transit Systems Act 1995 (Amendments made by section 45 read with paragraph 4 of the Schedule to the above Act) Bill : 25/1995 First Reading : 7 July 1995 Second and Third Readings : 7 August 1995 Commencement : 1 September 1995 (section 45 read with paragraph 4 of the Schedule) 12. G.N. No. S 59/1998 — Public Transport Council Act (Amendment of First Schedule) Order 1998 Commencement : 6 February 1998 13. Act 29 of 1999 — Public Transport Council (Amendment) Act 1999 Bill : 25/1999 First Reading : 6 July 1999 Second and Third Readings : 4 August 1999 Commencement : 28 August 1999 14. 2000 Revised Edition — Public Transport Council Act (Chapter 259B) Operation : 1 July 2000 15. Act 28 of 2001 — Road Traffic (Amendment) Act 2001 (Amendment made by section 20 of the above Act) Bill : 27/2001 First Reading : 11 July 2001 Second and Third Readings : 25 July 2001 Commencement : 10 September 2001 (section 20) 16. G.N. No. S 48/2003 — Public Transport Council Act (Amendment of First Schedule) Order 2003 Commencement : 1 February 2003 17. Act 37 of 2005 — Public Transport Council (Amendment) Act 2005 Bill : 25/2005 First Reading : 19 September 2005 Second and Third Readings : 17 October 2005 Commencement : 3 April 2006 (except section 14) 1 July 2008 (section 14) 18. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007 (Amendments made by section 13 of the above Act) Bill : 14/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 1 March 2007 (section 13) 19. G.N. No. S 386/2008 — Public Transport Council Act (Amendment of Third Schedule) Order 2008 Commencement : 31 July 2008 20. Act 17 of 2008 — Public Transport Council (Amendment) Act 2008 Bill : 14/2008 First Reading : 21 July 2008 Second and Third Readings : 25 August 2008 Commencement : 11 September 2008 21. 2012 Revised Edition — Public Transport Council Act (Chapter 259B) Operation : 31 March 2012 22. G.N. No. S 228/2014 — Revised Edition of the Laws (Public Transport Council Act) (Rectification) Order 2014 Operation : 31 March 2012 23. G.N. No. S 259/2014 — Public Transport Council Act (Amendment of Third Schedule) Order 2014 Commencement : 11 November 2013 24. G.N. No. S 456/2015 — Public Transport Council Act (Amendment of Third Schedule) Order 2015 Commencement : 12 November 2014 25. G.N. No. S 511/2015 — Public Transport Council Act (Amendment of Third Schedule) (No. 2) Order 2015 Commencement : 25 August 2015 26. Act 31 of 2015 — Public Transport Council (Amendment) Act 2015 Bill : 27/2015 First Reading : 13 July 2015 Second and Third Readings : 18 August 2015 Commencement : 8 January 2016 (sections 3(b), 4, 5, 6(b), 7, 8, 9, 10, 22 and 23) 22 January 2016 (except sections 3(b) and (f), 4, 5, 6(b), 7, 8, 9, 10, 11, 17, 18, 22, 23, 24 and 25(b)) 29 February 2016 (sections 17 and 18) 1 April 2016 (sections 3(f), 11, 24 and 25(b)) 27. Act 30 of 2015 — Bus Services Industry Act 2015 (Amendments made by section 53 of the above Act) Bill : 26/2015 First Reading : 13 July 2015 Second and Third Readings : 18 August 2015 Commencement : 22 January 2016 (section 53) 28. G.N. No. S 420/2016 — Public Transport Council Act (Amendment of Third Schedule) Order 2016 Commencement : 7 September 2016 29. G.N. No. S 473/2017 — Public Transport Council Act (Amendment of Third Schedule) Order 2017 Commencement : 28 August 2017 30. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 93 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 93) 31. G.N. No. S 509/2018 — Public Transport Council Act (Amendment of Third Schedule) Order 2018 Commencement : 30 August 2018 32. G.N. No. S 609/2019 — Public Transport Council Act (Amendment of Third Schedule) Order 2019 Commencement : 3 September 2019 33. G.N. No. S 743/2020 — Public Transport Council Act (Amendment of Third Schedule) Order 2020 Commencement : 3 September 2020 34. Act 20 of 2019 — Point-to-Point Passenger Transport Industry Act 2019 (Amendments made by sections 58, 59 and 60 of the above Act) Bill : 14/2019 First Reading : 8 July 2019 Second and Third Readings : 6 August 2019 Commencement : 30 October 2020 (sections 58, 59 and 60) 35. G.N. No. S 799/2021 — Public Transport Council Act (Amendment of Third Schedule) Order 2021 Commencement : 29 October 2021
 
-Date of First Reading : 20 May 1987 (Bill No. 9/87 published on 22 May 1987)
+Abbreviations
 
-Date of Second and Third Readings : 28 July 1987
-
-Date of commencement : 14 August 1987
-
-2. 1988 Revised Edition — Public Transport Council Act (Chapter 259B)
-
-Date of operation : 30 April 1988
-
-3. G.N. No. S 432/94 — Public Transport Council Act (Amendment of First Schedule) Order 1994
-
-Date of commencement : 7 March 1994
-
-4. Act 29 of 1995 — Rapid Transit Systems Act 1995 (Consequential amendments made to Act by)
-
-Date of First Reading : 7 July 1995 (Bill No. 25/95 published on 8 July 1995)
-
-Date of Second and Third Readings : 7 August 1995
-
-Date of commencement : 1 September 1995
-
-5. G.N. No. S 59/98 — Public Transport Council Act (Amendment of First Schedule) Order 1998
-
-Date of commencement : 6 February 1998
-
-6. Act 29 of 1999 — Public Transport Council (Amendment) Act 1999
-
-Date of First Reading : 6 July 1999 (Bill No. 25/99 published on 7 July 1999)
-
-Date of Second and Third Readings : 4 August 1999
-
-Date of commencement : 28 August 1999 7. 2000 Revised Edition — Public Transport Council Act (Chapter 259B)
-
-Date of operation : 1 July 2000
-
-8. Act 28 of 2001 — Road Traffic (Amendment) Act 2001 (Consequential amendment made to Act by)
-
-Date of First Reading : 11 July 2001 (Bill No. 27/2001 published on 12 July 2001)
-
-Date of Second and Third Readings : 25 July 2001
-
-Date of commencement : 10 September 2001
-
-9. G.N. No. S 48/2003 — Public Transport Council Act (Amendment of First Schedule) Order 2003
-
-Date of commencement : 1 February 2003
-
-10. Act 37 of 2005 — Public Transport Council (Amendment) Act 2005
-
-Date of First Reading : 19 September 2005 (Bill No. 25/2005 published on 20 September 2005)
-
-Date of Second and Third Readings : 17 October 2005
-
-Dates of commencement : 3 April 2006 (except section 14) 1 July 2008 (section 14)
-
-11. Act 2 of 2007 — Statutes (Miscellaneous Amendments) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 14/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 1 March 2007 (Section 13 – Amendment of Public Transport Council Act)
-
-12. G.N. No. S 386/2008 — Public Transport Council Act (Amendment of Third Schedule) Order 2008
-
-Date of commencement : 31 July 2008
-
-13. Act 17 of 2008 — Public Transport Council (Amendment) Act 2008
-
-Date of First Reading : 21 July 2008 (Bill No. 14/2008 published on 22 July 2008)
-
-Date of Second and Third Readings : 25 August 2008
-
-Date of commencement : 11 September 2008
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

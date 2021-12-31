@@ -1,6 +1,8 @@
-# 22. Council may provide ticket payment service
-Part: PART IVB LICENSING OF TICKET PAYMENT SERVICES
+# 22. Financial year
+Part: PART 4 PUBLIC TRANSPORT FUND
 
-If there is for any reason no person providing any ticket payment service for the land transport system in Singapore or any part thereof, the Council may provide or cause to be provided a ticket payment service having regard to the reasonable requirements of the system in Singapore or part thereof.
+The financial year of the Public Transport Fund begins on 1 April of each year and ends on 31 March of the succeeding year.
 
-[37/2005]
+[11E
+
+[31/2015]

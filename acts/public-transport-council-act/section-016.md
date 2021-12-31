@@ -1,18 +1,8 @@
-# 16. Bus service operator’s licences
-Part: PART IVA LICENSING OF BUS SERVICE OPERATORS
+# 16. Power of investment
+Part: PART 3 FINANCIAL PROVISIONS
 
-(1) No person shall operate 10 or more bus services without a bus service operator’s licence.
+The Council may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
 
-[37/2005]
+[10B
 
-(2) An application for the grant or renewal of a bus service operator’s licence shall be made to the Council in such form or manner as the Council may require and shall be accompanied by such particulars, information and documents as may be specified by the Council.
-
-[37/2005]
-
-(3) Subject to section 22C, upon receipt of an application under subsection (2), the Council may —
-
-(a) grant or renew the licence permitting the applicant to operate any bus service for such period and on such terms and conditions as the Council thinks fit; or
-
-(b) refuse to grant or renew the licence.
-
-[37/2005]
+[31/2015]

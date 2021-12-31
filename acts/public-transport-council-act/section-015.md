@@ -1,22 +1,12 @@
-# 15. Conditions of bus service licence 1
-Part: PART IV LICENSING OF BUS SERVICES
+# 15. Issue of shares, etc.
+Part: PART 3 FINANCIAL PROVISIONS
 
-Without prejudice to the generality of section 12(3), the Council may, in granting or renewing a bus service licence, impose conditions relating to —
+As a consequence of —
 
-(a) the timetable of the bus service and the number of buses to be provided;
+(a) the vesting of any property, rights or liabilities of the Government in the Council under this Act; or
 
-(b) the carrying and availability for inspection in vehicles used on the bus service of copies of the timetable and fare-table;
+(b) any capital injection or other investment by the Government in the Council in accordance with any written law, the Council must issue such shares or other securities to the Minister for Finance as that Minister may direct.
 
-(c) the taking up and setting down of passengers at specified points;
+[10A
 
-(d) the prevention of racing, cutting in and dangerous competition with other vehicles on the route;
-
-(e) the deposit of such security as may be determined by the Council for the due performance by the licensee of any obligations imposed upon him by the bus service licence or by this Act or any other written law;
-
-(f) the general level of services to be provided by the licensee to members of the public;
-
-(g) the use or installation of integrated ticketing and information systems; and
-
-(h) the provision of route information.
-
-[37/2005]
+[31/2015]

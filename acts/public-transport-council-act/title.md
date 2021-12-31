@@ -1,20 +1,18 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-PUBLIC TRANSPORT COUNCIL ACT
-(CHAPTER 259B)
-(Original Enactment: Act 18 of 1987)
-REVISED EDITION 2012
-(31st March 2012)
+PUBLIC TRANSPORT COUNCIL
+ACT 1987
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2012
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to provide for the establishment of the Public Transport Council to provide for the licensing of bus services, bus service operators and ticket payment services, to regulate bus, taxi and rapid transit system fares and for matters connected therewith.
+An Act to provide for the establishment of the Public Transport Council to provide for the licensing of ticket payment services, to regulate bus fares, street-hail fares, ride-hail fares and train fares and for matters connected therewith.
 
-[29/99; 37/2005]
+[31/2015; 20/2019]
 
-[14th August 1987]
+[14 August 1987]

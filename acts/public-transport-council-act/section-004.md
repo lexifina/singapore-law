@@ -1,16 +1,34 @@
-# 4. Functions of Council
-Part: PART II PUBLIC TRANSPORT COUNCIL
+# 4. Council is body corporate
+Part: PART 2 PUBLIC TRANSPORT COUNCIL
 
-The functions of the Council are —
+(1) The Public Transport Council is re-constituted as a body corporate with perpetual succession, capable of all of the following by that name:
 
-(a) to receive and consider applications for the grant of bus service licences, bus service operator’s licences and ticket payment service licences;
+(a) suing and being sued;
 
-(b) to receive and consider applications for the approval of bus, taxi and rapid transit system fares;
+(b) acquiring, holding and disposing of movable and immovable property;
 
-(c) to regulate bus services, bus service operators, ticket payment services and bus, taxi and rapid transit system fares;
+(c) doing and suffering all acts and things that a body corporate may by law do and suffer.
 
-(ca) to promote and facilitate the integration of bus and rapid transit system fares to ensure the provision of efficient public passenger transport services and facilities; and
+[31/2015]
 
-(d) to engage in such other activities and to perform such functions as the Minister may permit or assign to it by order published in the Gazette.
+(2) The Council must have an official seal, which may be broken, changed, altered or made anew as the Council thinks fit.
 
-[29/95; 37/2005; 17/2008]
+[31/2015]
+
+(3) All deeds and other documents requiring the seal of the Council must be sealed with the official seal of the Council.
+
+[31/2015]
+
+(4) Every instrument to which the official seal of the Council is affixed must be signed —
+
+(a) by any 2 members of the Council generally or specially authorised by the Council for the purpose; or
+
+(b) by one member of the Council and the Chief Executive.
+
+[31/2015]
+
+(5) All courts, judges and persons acting judicially must take judicial notice of the official seal of the Council affixed to any document and must presume that it was duly affixed.
+
+[3A
+
+[31/2015]

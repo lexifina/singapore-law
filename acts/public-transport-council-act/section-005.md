@@ -1,12 +1,34 @@
-# 5. Powers of Council
-Part: PART II PUBLIC TRANSPORT COUNCIL
+# 5. Functions of Council
+Part: PART 2 PUBLIC TRANSPORT COUNCIL
 
-The Council shall have power to do anything for the purpose of discharging its functions under this Act or which is incidental or conducive to the discharge of those functions and, in particular, may —
+(1) The functions of the Council are —
 
-(a) approve new bus services and adjust or cancel bus services;
+(a) to set or approve fares and fare pricing policies for bus services, train services, street-hail services and ride-hail services in Singapore;
 
-(aa) grant bus service operator’s licences and ticket payment service licences and supervise and enforce compliance with the provisions of such licences; and
+(b) to promote and facilitate the integration of bus fares and train fares to ensure the provision of efficient public passenger transport services and facilities;
 
-(b) appoint and employ from time to time and on such terms and conditions as the Council may determine such officers, employees and agents as the Council thinks fit for the effective performance of its functions.
+(c) to evaluate and recommend to the Government improvements to, or otherwise advise the Government in respect of, bus services, train services, street-hail services and ride-hail services in Singapore so that they —
 
-[29/99; 37/2005]
+(i) may satisfy all reasonable passenger demands in Singapore for bus services, train services, street-hail services and ride-hail services;
+
+(ii) may offer an attractive alternative to private motor vehicle transport, and the extent of such travel, in Singapore;
+
+(iii) are effectively and efficiently integrated so as to facilitate seamless travel for passengers within and between different modes of land transport and greater mobility within communities in Singapore;
+
+and
+
+(iv) provide viable public passenger transport services at a reasonable cost to the community and the Government;
+
+(d) to undertake surveys or other arrangements to obtain public feedback on any matter relating to the provision of bus services, train services, street-hail services and ride-hail services in Singapore;
+
+(e) to exercise licensing and regulatory functions in respect of the provision of ticket payment services in Singapore; and
+
+(f) to perform such functions as the Minister may, by order in the Gazette, assign.
+
+[31/2015; 20/2019]
+
+(2) Nothing in this section is to be construed as imposing on the Council, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+
+[4
+
+[31/2015]

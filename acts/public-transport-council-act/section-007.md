@@ -1,6 +1,8 @@
-# 7. Public servants
-Part: PART II PUBLIC TRANSPORT COUNCIL
+# 7. Directions by Minister
+Part: PART 2 PUBLIC TRANSPORT COUNCIL
 
-Every member, officer and employee of the Council and every public transport official shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+The Minister may give to the Council any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-[29/99; 37/2005]
+[5A
+
+[5/2018]

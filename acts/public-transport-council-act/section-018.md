@@ -1,54 +1,28 @@
-# 18. Conditions of bus service operator’s licence
-Part: PART IVA LICENSING OF BUS SERVICE OPERATORS
+# 18. Public Transport Fund
+Part: PART 4 PUBLIC TRANSPORT FUND
 
-(1) Without prejudice to the generality of section 16(3), the Council may, in granting or renewing a bus service operator’s licence, impose conditions —
+(1) A Government fund called the Public Transport Fund is established comprising —
 
-(a) requiring the payment to the Council of a fee on the grant or renewal of the licence or periodic fees for the duration of the licence, or both, of such amount as may be prescribed by the Council;
+(a) all moneys appropriated from the Consolidated Fund and authorised to be paid into the Public Transport Fund by any written law;
 
-(b) requiring the payment to the Council of a security deposit or performance bond on the grant of the licence, of such amount as may be determined by the Council;
+(b) all contributions made pursuant to the Council’s direction under section 50(1), and any other donations made by any person for the purposes of the Fund;
 
-(c) relating to the provision of integrated service information or ticketing systems;
+(c) all financial penalties imposed, on or after 1 April 2016, by the LTA —
 
-(d) requiring the licensee to do, or not to do, such things as are specified or described in the licence;
+(i) under the Bus Services Industry Act 2015 on a public bus operator for a breach of a condition in the bus service licence; or
 
-(e) relating to the extent, hours and general level of services to be provided by the licensee to members of the public;
+(ii) under the Rapid Transit Systems Act 1995 on a licensed rapid transit system operator for a breach of a condition in the rapid transit system operator’s licence; and
 
-(f) relating to the condition and use of the buses managed by the licensee in operating the bus service;
+(d) all investments out of moneys in the Public Transport Fund authorised to be made by this Act and the proceeds of any such investment, including the net income from such investments.
 
-(g) relating to the conduct of the employees, agents and contractors of the licensee;
+[31/2015]
 
-(h) relating to the forfeiture of security deposit or performance bond for any breach of licence conditions;
+(2) As from 1 April 2016, the Government must pay into the Public Transport Fund such sum as the Minister for Finance may determine out of moneys to be provided by Parliament for the Public Transport Fund.
 
-(i) if the licensee is a company, requiring the approval of the Council for the appointment, reappointment or removal of any person as the chairman of the board of directors of that company; and
+[31/2015]
 
-(j) requiring the licensee to submit such data and undergo and pass such audit as the Council may determine for compliance with —
+(3) For the purposes of subsection (1)(d), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Public Transport Fund, any profit derived or loss sustained (as the case may be) from the realisation of such investments.
 
-(i) the relevant provisions of this Act;
+[11A
 
-(ii) the terms and conditions of the licence;
-
-(iii) the codes of practice issued, approved or modified by the Council under section 22E; and
-
-(iv) any direction given by the Council under section 22F.
-
-[37/2005]
-
-(2) For the purpose of subsection (1)(j) —
-
-(a) the audit shall be conducted by —
-
-(i) officers of the Council who have been duly designated by the Council for the purpose; or
-
-(ii) a qualified independent audit team approved by the Council for the purpose;
-
-(b) the Council may require the licensee —
-
-(i) to submit to the Council or to the persons conducting the audit such information as the Council may specify which pertains to the operation of any bus service by the licensee; and
-
-(ii) to allow the persons conducting the audit to carry out on-site collection or verification of any information which pertains to the operation of any bus service by the licensee;
-
-(c) any sample size used by the persons conducting the audit shall be deemed to be reasonable; and
-
-(d) the costs of and incidental to the conduct of the audit shall be borne by the licensee.
-
-[37/2005]
+[31/2015]

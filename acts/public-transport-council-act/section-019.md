@@ -1,18 +1,18 @@
-# 19. Ticket payment service licences
-Part: PART IVB LICENSING OF TICKET PAYMENT SERVICES
+# 19. Purposes of Public Transport Fund
+Part: PART 4 PUBLIC TRANSPORT FUND
 
-(1) No person shall provide or cause to be provided any ticket payment service without a ticket payment service licence.
+(1) Subject to section 25, the moneys in the Public Transport Fund may be withdrawn only for the following purposes:
 
-[37/2005]
+(a) to provide (directly to individuals or through organisations) cash grants, rebates, reliefs and other financial assistance to passengers using bus services or train services;
 
-(2) An application for the grant or renewal of a ticket payment service licence shall be made to the Council in such form or manner as the Council may require and shall be accompanied by such particulars, information and documents as may be specified by the Council.
+(b) to invest subject to the limits in the Financial Procedure Act 1966 for investments of public moneys;
 
-[37/2005]
+(c) to meet expenses referred to in section 20 incidental to or arising from the administration, investment and management of moneys in the Public Transport Fund.
 
-(3) Subject to section 22C, upon receipt of an application under subsection (2), the Council may —
+[31/2015]
 
-(a) grant or renew the licence permitting the applicant to provide a ticket payment service for such period and on such terms and conditions as the Council thinks fit; or
+(2) For the purposes of subsection (1)(b), investing includes engaging in any financial activity, or participating in any financial arrangement, for the purpose of managing or hedging against any financial risk that arises or is likely to arise from any investment.
 
-(b) refuse to grant or renew the licence.
+[11B
 
-[37/2005]
+[31/2015]

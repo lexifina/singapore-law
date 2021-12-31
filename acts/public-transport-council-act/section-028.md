@@ -1,30 +1,14 @@
-# 28. Regulations
-Part: PART VI MISCELLANEOUS PROVISIONS
+# 28. Ticket payment service licences
+Part: PART 5 LICENSING OF TICKET PAYMENT SERVICES
 
-(1) The Council may, with the approval of the Minister, make regulations for, or in respect of, every purpose which is considered by the Council necessary or expedient for carrying out the provisions of this Act.
+(1) A person must not provide or cause to be provided any ticket payment service without a ticket payment service licence.
 
-[29/99]
+(2) An application for the grant or renewal of a ticket payment service licence must be made to the Council in such form or manner as the Council may require and must be accompanied by such particulars, information and documents as may be specified by the Council.
 
-(2) Without prejudice to the generality of subsection (1), the Council may make regulations for all or any of the following purposes:
+(3) Subject to section 34, upon receipt of an application under subsection (2), the Council may —
 
-(a) to prescribe the manner and form in which applications for bus service licences, bus service operator’s licences and ticket payment service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
+(a) grant or renew the licence permitting the applicant to provide a ticket payment service for such period and on such terms and conditions as the Council thinks fit; or
 
-(b) to prescribe a scale of fees for bus service licences, bus service operator’s licences and ticket payment service licences;
+(b) refuse to grant or renew the licence.
 
-(c) to prescribe the manner and form in which applications for the approval of bus, taxi and rapid transit system fares are to be made and the documents to be submitted in support of such applications;
-
-(d) to regulate the procedure of the Council;
-
-(e) to prescribe the powers and duties of the officers and employees of the Council;
-
-(f) to control and regulate the conduct of the officers and employees of the Council;
-
-(g) to prescribe the offences under this Act which may be compounded under section 26;
-
-(h) to prescribe anything that is required to be prescribed under this Act.
-
-[29/99; 37/2005]
-
-(3) The Council may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulation shall be an offence and may prescribe a fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $5,000.
-
-[29/99; 37/2005]
+[19

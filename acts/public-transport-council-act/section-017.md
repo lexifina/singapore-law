@@ -1,16 +1,8 @@
-# 17. Matters to be considered by Council in granting or renewing bus service operator’s licences
-Part: PART IVA LICENSING OF BUS SERVICE OPERATORS
+# 17. Financial year 1
+Part: PART 3 FINANCIAL PROVISIONS
 
-In exercising its discretion to grant, renew or refuse to grant or renew a bus service operator’s licence under section 16 and the terms and conditions to impose thereon, the Council shall have regard to —
+The financial year of the Council begins on 1 April of each year and ends on 31 March of the succeeding year.
 
-(a) the financial standing of the applicant;
+[11
 
-(b) the ability of the applicant to provide a satisfactory bus service to members of the public in relation to safety, continuity, hours of operation, frequency, reliability, passenger capacity, vehicle quality and general efficiency;
-
-(c) the existence of other bus services;
-
-(d) the demand for bus services; and
-
-(e) any other matter which the Council thinks relevant.
-
-[37/2005]
+[5/2018]

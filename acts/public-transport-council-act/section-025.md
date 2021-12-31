@@ -1,10 +1,8 @@
-# 25. Annual report
-Part: PART VI MISCELLANEOUS PROVISIONS
+# 25. Dissolution of Public Transport Fund
+Part: PART 4 PUBLIC TRANSPORT FUND
 
-(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
+Upon dissolution of the Public Transport Fund during any term of office of the Government (within the meaning of the Constitution), the balance then remaining in the Public Transport Fund must be transferred to the Consolidated Fund and added to the reserves of the Government not accumulated by it during that term of office.
 
-[29/99]
+[11H
 
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
-
-[29/99]
+[31/2015]
