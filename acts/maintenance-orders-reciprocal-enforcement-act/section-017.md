@@ -1,0 +1,6 @@
+# 17. Minister may designate country to be reciprocating country
+Part: PART 4 MISCELLANEOUS PROVISIONS
+
+(1) Where the Minister is satisfied that, in the event of the benefits conferred by this Act being applied to, or to particular classes of, maintenance orders made by the court of any country or territory outside Singapore, similar benefits will in that country or territory be applied to, or to those classes of, maintenance orders made by the courts of Singapore, the Minister may, by notification in the Gazette, designate that country or territory as a reciprocating country for the purposes of this Act, and subject to subsection (2), “reciprocating country” means a country or territory that is for the time being so designated.
+
+(2) A country or territory may be designated under subsection (1) as a reciprocating country either as regards maintenance orders generally, or as regards maintenance orders other than those of any specified class, or as regards maintenance orders of one or more specified classes only; and a country or territory which is for the time being so designated otherwise than as regards maintenance orders generally is, for the purposes of this Act, taken to be a reciprocating country only as regards maintenance orders of the class to which the designation extends.
