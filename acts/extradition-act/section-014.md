@@ -1,7 +1,7 @@
 # 14. Interpretation of this Part
-Part: PART III EXTRADITION FROM FOREIGN STATES
+Part: PART 3 EXTRADITION FROM FOREIGN STATES
 
-In this Part, ‘‘extraditable crime’’ means an offence (wherever committed) against the law in force in Singapore, being an offence that —
+In this Part, “extraditable crime” means an offence (wherever committed) against the law in force in Singapore, being an offence that —
 
 (a) is described in the First Schedule; or
 

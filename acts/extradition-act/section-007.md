@@ -1,5 +1,5 @@
 # 7. Restrictions on surrender of persons to foreign States
-Part: PART II EXTRADITION TO FOREIGN STATES
+Part: PART 2 EXTRADITION TO FOREIGN STATES
 
 (1) A person shall not be liable to be surrendered to a foreign State if the offence to which the requisition for his surrender relates is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, an offence of a political character.
 

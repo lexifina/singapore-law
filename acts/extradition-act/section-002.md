@@ -1,11 +1,11 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘declared Commonwealth country’’ means a country declared to be a Commonwealth country in relation to which Part IV applies;
+“declared Commonwealth country” means a country declared to be a Commonwealth country in relation to which Part 4 applies;
 
-‘‘extradition crime’’, in relation to a declared Commonwealth country, means an offence against the law of, or of a part of, a declared Commonwealth country —
+“extradition crime”, in relation to a declared Commonwealth country, means an offence against the law of, or of a part of, a declared Commonwealth country —
 
 (a) the maximum penalty for which is death or imprisonment for not less than 12 months; and
 
@@ -15,29 +15,27 @@ Part: PART I PRELIMINARY
 
 (ii) would be so described if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence;
 
-‘‘extradition crime’’, in relation to a foreign State, means an offence against the law of, or of a part of, a foreign State and the act or omission constituting the offence or the equivalent act or omission would, if it took place in or within the jurisdiction of Singapore, constitute an offence against the law in force in Singapore that —
+“extradition crime”, in relation to a foreign State, means an offence against the law of, or of a part of, a foreign State and the act or omission constituting the offence or the equivalent act or omission would, if it took place in or within the jurisdiction of Singapore, constitute an offence against the law in force in Singapore that —
 
 (a) is described in the First Schedule; or
 
 (b) would be so described if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence;
 
-‘‘extradition treaty’’ means a treaty or agreement made by Singapore with a foreign State relating to the extradition of fugitives, and includes any treaty or agreement relating to the extradition of fugitives made before 9th August 1965 which extends to, and is binding on, Singapore;
+“extradition treaty” means a treaty or agreement made by Singapore with a foreign State relating to the extradition of fugitives, and includes any treaty or agreement relating to the extradition of fugitives made before 9 August 1965 which extends to, and is binding on, Singapore;
 
-‘‘foreign State’’ means —
+“foreign State” means —
 
 (a) any foreign State; or
 
 (b) any of the territories specified in the Third Schedule, between which and Singapore an extradition treaty is in force;
 
-‘‘foreign warrant’’ means a judicial or other document issued under the law of, or of a part of, a foreign State and authorising the apprehension of a person;
+“foreign warrant” means a judicial or other document issued under the law of, or of a part of, a foreign State and authorising the apprehension of a person;
 
-‘‘fugitive’’ means a person who is accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed at a place within the jurisdiction of a foreign State or a declared Commonwealth country or of a part of such State or country and is, or is suspected to be, in Singapore;
+“fugitive” means a person who is accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed at a place within the jurisdiction of a foreign State or a declared Commonwealth country or of a part of such State or country and is, or is suspected to be, in Singapore;
 
-‘‘overseas warrant’’ means a judicial or other document issued under the law of, or of a part of, a declared Commonwealth country and authorising the apprehension of a person;
+“overseas warrant” means a judicial or other document issued under the law of, or of a part of, a declared Commonwealth country and authorising the apprehension of a person;
 
-‘‘prison’’ includes a jail, lock-up or other place of detention.
-
-[16/98]
+“prison” includes a jail, lockup or other place of detention.
 
 (2) A reference in this Act to a fugitive from a foreign State or declared Commonwealth country shall be read as a reference to a fugitive accused of an extradition crime that is alleged to have been committed, or convicted of an extradition crime that was committed, at a place in that State or country or within the jurisdiction of, or of a part of, that State or country.
 
@@ -55,4 +53,10 @@ Part: PART I PRELIMINARY
 
 (6) For the purposes of this Act, a person convicted of an offence in his absence shall be treated as a person accused of that offence.
 
-(7) Without prejudice to any powers or jurisdiction conferred upon a District Judge by the Criminal Procedure Code (Cap. 68), a District Judge shall in the exercise of his jurisdiction have all the powers that are conferred upon and exercised by a Magistrate under this Act; and accordingly every reference to a Magistrate in this Act shall be read as including a reference to a District Judge.
+(7) Every District Judge and Magistrate shall have the jurisdiction to hear a case and commit a fugitive to prison to await his return under this Act.
+
+[15/2010]
+
+(8) Without prejudice to any powers or jurisdiction conferred upon a District Judge by the Criminal Procedure Code 2010, a District Judge shall in the exercise of his jurisdiction have all the powers that are conferred upon and exercised by a Magistrate under this Act; and
+
+accordingly every reference to a Magistrate in this Act shall be read as including a reference to a District Judge.

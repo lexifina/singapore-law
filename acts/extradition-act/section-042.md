@@ -1,5 +1,5 @@
 # 42. Overseas documents may be admitted in evidence if duly authenticated
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) In any proceedings under this Act —
 
@@ -17,7 +17,7 @@ Part: PART VI MISCELLANEOUS
 
 (b) in the case of a document that purports to have been received in evidence, or to be a copy of a document that has been received in evidence, in a proceeding in a foreign State or declared Commonwealth country — the document purports to be certified by a Judge, Magistrate or officer in or of that State or country to have been, or to be a true copy of a document that has been, so received in evidence;
 
-(c) in the case of a document that certifies that a person has been convicted in a foreign State or declared Common- wealth country of an offence — the document purports to be certified by a Judge, Magistrate or officer in or of that State or country; or
+(c) in the case of a document that certifies that a person has been convicted in a foreign State or declared Commonwealth country of an offence — the document purports to be certified by a Judge, Magistrate or officer in or of that State or country; or
 
 (d) in the case of a document that purports to be an overseas warrant or a foreign warrant — the documents purports to be signed by a Judge, Magistrate or officer in or of the State or country in which the document was issued, and the document purports to be authenticated by the oath of a witness or to be sealed with the official seal of a Minister in or of that country.
 

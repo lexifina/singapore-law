@@ -1,5 +1,5 @@
 # 35. Proceedings after apprehension of person
-Part: PART V EXTRADITION TO AND FROM MALAYSIA
+Part: PART 5 EXTRADITION TO AND FROM MALAYSIA
 
 (1) A person who is apprehended under a warrant referred to in section 33 or under a warrant issued under section 34 shall be brought as soon as practicable before a Magistrate.
 
@@ -7,7 +7,7 @@ Part: PART V EXTRADITION TO AND FROM MALAYSIA
 
 (3) Where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
 
-(4) In the application of subsections (5) to (11) in relation to a person who has been apprehended under a warrant referred to in section 33 or under a warrant issued under section 34, ‘‘Magistrate’’ means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
+(4) In the application of subsections (5) to (11) in relation to a person who has been apprehended under a warrant referred to in section 33 or under a warrant issued under section 34, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
 
 (5) Where the person was apprehended under a warrant issued under section 34 and the warrant referred to in section 33 authorising the apprehension of the person has not been endorsed, the Magistrate may, and shall if a reasonable time has elapsed for the endorsement of the warrant —
 

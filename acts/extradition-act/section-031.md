@@ -1,5 +1,5 @@
 # 31. Person surrendered by Commonwealth country in respect of an offence not to be prosecuted or detained for other offences
-Part: PART IV EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
+Part: PART 4 EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 
 Where a person accused or convicted of an extraditable crime is surrendered by a declared Commonwealth country, the person shall not, unless he has been returned, or has had an opportunity of returning, to that country —
 

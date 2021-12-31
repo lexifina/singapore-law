@@ -1,8 +1,12 @@
 # FIRST SCHEDULE
 
-Sections 2 (1), 14 and 18
+Sections 2(1), 14, 18 and 43
 
-DESCRIPTION OF RETURNABLE OFFENCES PART I 1. Murder of any degree.
+DESCRIPTION OF RETURNABLE OFFENCES
+
+PART 1
+
+1. Murder of any degree.
 
 2. Manslaughter or culpable homicide.
 
@@ -38,9 +42,9 @@ DESCRIPTION OF RETURNABLE OFFENCES PART I 1. Murder of any degree.
 
 18. Stealing, embezzlement, fraudulent conversion, fraudulent false accounting, obtaining property or credit by false pretences, receiving stolen property or any other offence in respect of property involving fraud.
 
-19. Burglary, house-breaking or any similar offence.
+19. Burglary, housebreaking or any similar offence.
 
-FIRST SCHEDULE — continued 20. Robbery.
+20. Robbery.
 
 21. Blackmail or extortion by means of threats or by abuse of authority.
 
@@ -49,6 +53,8 @@ FIRST SCHEDULE — continued 20. Robbery.
 23. Malicious or wilful damage to property.
 
 24. Acts done with the intention of endangering vehicles, vessels or aircraft.
+
+FIRST SCHEDULE — continued
 
 25. An offence against the law relating to psychotropic substances, dangerous drugs or narcotics.
 
@@ -62,6 +68,34 @@ FIRST SCHEDULE — continued 20. Robbery.
 
 30. Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
 
-PART II Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
+31. The recruitment, transport, transfer, harbouring or receipt, for the purpose of exploitation —
 
-[32/96; 20/98; 25/99]
+(a) of any individual below the age of 18 years; or
+
+(b) of any other individual, by means of the threat or use of force (or any other form of coercion), abduction, fraud, deception, the abuse of power, the abuse of the position of vulnerability of the individual, or the giving or receipt of money or other benefits to secure the consent of a person having control over that individual.
+
+32. An offence against the law giving effect to the International Convention for the Suppression of Acts of Nuclear Terrorism done in New York on 13 April 2005.
+
+33. An offence against the law relating to the securing of computer material against unauthorised access or modification.
+
+34. An offence of absconding while on bail or personal bond.
+
+PART 2
+
+Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part 1.
+
+PART 3
+
+1. Abetment of a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
+
+FIRST SCHEDULE — continued
+
+2. Criminal conspiracy to commit a serious crime, where the serious crime is transnational in nature and involves an organised criminal group.
+
+Note:
+
+The expressions “serious crime”, “organised criminal group” and “transnational” have the meanings given to those expressions in the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000.
+
+[S 476/2007; S 612/2015; S 488/2017; S 48/2018;
+
+S 18/2019]

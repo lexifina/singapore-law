@@ -1,5 +1,5 @@
 # 25. Proceedings after apprehension of person
-Part: PART IV EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
+Part: PART 4 EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 
 (1) A person who is apprehended under a warrant issued under section 24 shall, unless he is sooner released, be brought as soon as practicable before a Magistrate.
 
@@ -7,9 +7,9 @@ Part: PART IV EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 
 (3) Where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
 
-(4) In the application of subsections (5) to (10) in relation to a person who has been apprehended under a warrant issued under section 24, ‘‘Magistrate’’ means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
+(4) In the application of subsections (5) to (10) in relation to a person who has been apprehended under a warrant issued under section 24, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
 
-(5) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 23 (1) (a), the Magistrate shall remand the person in accordance with subsections (2) and (3) until the Magistrate receives a notice under section 23 (1) (b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a declared Commonwealth country.
+(5) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 23(1)(a), the Magistrate shall remand the person in accordance with subsections (2) and (3) until the Magistrate receives a notice under section 23(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a declared Commonwealth country.
 
 (6) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
 
@@ -17,7 +17,7 @@ Part: PART IV EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 
 (b) if he has been admitted to bail, make an order discharging the recognizances upon which he was admitted to bail.
 
-(7) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 23 (1) (a) or the Magistrate receives a notice by the Minister under section 23 (1) (b) and —
+(7) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 23(1)(a) or the Magistrate receives a notice by the Minister under section 23(1)(b) and —
 
 (a) there is produced to the Magistrate a duly authenticated overseas warrant in respect of the person issued in the declared Commonwealth country that made the requisition for the surrender of the person;
 
@@ -34,5 +34,3 @@ Part: PART IV EXTRADITION TO AND FROM DECLARED COMMONWEALTH COUNTRIES
 (9) In the case referred to in subsection (8), the warrant shall be in accordance with Form 5 in the Second Schedule with such variations as are necessary to meet the circumstances of the case.
 
 (10) Where, under this section, a Magistrate commits a person to prison or otherwise orders that he be held in custody, he shall forthwith send to the Minister a certificate to that effect and such report (if any) relating to the proceedings as he thinks fit.
-
-[24

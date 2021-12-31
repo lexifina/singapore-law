@@ -1,5 +1,5 @@
 # 9. Notice by Minister
-Part: PART II EXTRADITION TO FOREIGN STATES
+Part: PART 2 EXTRADITION TO FOREIGN STATES
 
 (1) Subject to subsection (2), where a requisition for the surrender of a fugitive who is, or is suspected of being, in Singapore is made to the Minister by a foreign State, the Minister may, in his discretion —
 

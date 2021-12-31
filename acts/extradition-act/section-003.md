@@ -1,7 +1,7 @@
 # 3. Application of this Part in relation to foreign States to which Extradition Acts 1870 to 1935 applied
-Part: PART II EXTRADITION TO FOREIGN STATES
+Part: PART 2 EXTRADITION TO FOREIGN STATES
 
-(1) Where, immediately before 1st August 1968 —
+(1) Where, immediately before 1 August 1968 —
 
 (a) under an Order in Council in force under the Imperial Acts known as the Extradition Acts 1870 to 1935, those Acts applied in the case of a foreign State specified in the Order;
 

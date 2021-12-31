@@ -1,5 +1,5 @@
 # 17. Person surrendered by foreign State in respect of an offence not to be prosecuted or detained for other offences
-Part: PART III EXTRADITION FROM FOREIGN STATES
+Part: PART 3 EXTRADITION FROM FOREIGN STATES
 
 Where a person accused or convicted of an extraditable crime is surrendered by a foreign State, the person shall not, unless he has been returned, or has had an opportunity of returning, to that foreign State —
 

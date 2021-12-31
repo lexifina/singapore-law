@@ -1,5 +1,5 @@
 # 44. Power to make rules
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) The Minister may make rules to carry out the purposes of this Act.
 
@@ -9,7 +9,7 @@ Part: PART VI MISCELLANEOUS
 
 (b) the seizure and disposition of any property which is the subject of, or required for proof of, any alleged offence to which this Act applies;
 
-(c) the form and manner in which or the channel through which a Magistrate may be required to make his report to the Minister under this Act; and
+(c) the form and manner in which or the channel through which a Magistrate may be required to make his report to the Minister under this Act;
 
 (d) any other matter which has to be, or may be, prescribed.
 

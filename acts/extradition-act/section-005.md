@@ -1,5 +1,5 @@
 # 5. Effect of applying this Part in relation to foreign State by Gazette notification
-Part: PART II EXTRADITION TO FOREIGN STATES
+Part: PART 2 EXTRADITION TO FOREIGN STATES
 
 (1) Subject to subsection (2) where the notification for the time being in force provides that this Part applies in relation to a foreign State, this Part applies in relation to that State.
 

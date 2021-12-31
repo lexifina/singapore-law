@@ -1,7 +1,7 @@
 # 4. Part may be applied in relation to foreign State by Gazette notification
-Part: PART II EXTRADITION TO FOREIGN STATES
+Part: PART 2 EXTRADITION TO FOREIGN STATES
 
-(1) Where, after 1st August 1968, an extradition treaty (including an extradition treaty that affects or amends an earlier extradition treaty) comes into force between Singapore and a foreign State —
+(1) Where, after 1 August 1968, an extradition treaty (including an extradition treaty that affects or amends an earlier extradition treaty) comes into force between Singapore and a foreign State —
 
 (a) if this Part applies in relation to the foreign State at the time of the coming into force of that treaty — the Minister may by notification in the Gazette direct that this Part applies in relation to that State after that time subject to such limitations, conditions, exceptions or qualifications as are necessary or desirable to give effect to that treaty and are specified in the notification; or
 

@@ -1,5 +1,5 @@
 # 11. Proceedings after apprehension of person
-Part: PART II EXTRADITION TO FOREIGN STATES
+Part: PART 2 EXTRADITION TO FOREIGN STATES
 
 (1) A person who is apprehended under a warrant issued under section 10 shall, unless he is sooner released, be brought as soon as practicable before a Magistrate.
 
@@ -7,9 +7,9 @@ Part: PART II EXTRADITION TO FOREIGN STATES
 
 (3) Where a Magistrate remands a person for such a period, the person may, at the expiration of the period, be brought before the Magistrate or before any other Magistrate.
 
-(4) In the application of subsections (5) to (10) in relation to a person who has been apprehended under a warrant issued under section 10, ‘‘Magistrate’’ means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
+(4) In the application of subsections (5) to (10) in relation to a person who has been apprehended under a warrant issued under section 10, “Magistrate” means the Magistrate before whom the person is brought after he was apprehended or at the expiration of a period for which he has been remanded under this section, as the case may be.
 
-(5) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 9 (1) (a), the Magistrate shall remand the person in accordance with subsections (2) and (3) until the Magistrate receives a notice under section 9 (1) (b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a foreign State.
+(5) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 9(1)(a), the Magistrate shall remand the person in accordance with subsections (2) and (3) until the Magistrate receives a notice under section 9(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a foreign State.
 
 (6) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
 
@@ -17,7 +17,7 @@ Part: PART II EXTRADITION TO FOREIGN STATES
 
 (b) if he has been admitted to bail, make an order discharging the recognizances upon which he was admitted to bail.
 
-(7) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 9 (1) (a) or the Magistrate receives a notice from the Minister under section 9 (1) (b) and —
+(7) If the person was apprehended under a warrant issued in pursuance of an authority by the Minister in a notice under section 9(1)(a) or the Magistrate receives a notice from the Minister under section 9(1)(b) and —
 
 (a) there is produced to the Magistrate a duly authenticated foreign warrant in respect of the person issued in the foreign State that made the requisition for the surrender of the person;
 
