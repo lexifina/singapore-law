@@ -12,7 +12,7 @@
 
 (ii) a concise statement of the charges, the defences and countercharges in support of which evidence has been given;
 
-(iii) submissions on any point of law arising in the course of the proceedings and the decision of the court on the submissions; and
+(iii) submissions on any point of law arising in the course of the proceedings and the decision of the court on the submissions;
 
 (iv) the decision of the court and any observations made by the court in giving that decision.
 
