@@ -1,11 +1,11 @@
 # 29. Rules
-Part: PART IV MISCELLANEOUS
+Part: PART 4 MISCELLANEOUS
 
 (1) The Minister may make rules —
 
-(a) providing for the issue of permits for the importation, exportation, re-exportation and introduction from the sea of scheduled species;
+(a) providing for the issue of permits for the import, export, re-export and introduction from the sea of scheduled species;
 
-(b) prescribing the form, duration, terms, conditions and restrictions of any permit and the fees payable therefor, and providing for the cancellation and suspension thereof;
+(b) prescribing the form, duration, terms, conditions and restrictions of any permit and the fees payable for the permit, and providing for the cancellation and suspension thereof;
 
 (c) providing for the imposition of a levy on the import, export or re-export of any scheduled species;
 
@@ -22,5 +22,3 @@ Part: PART IV MISCELLANEOUS
 (a) may provide that a contravention of any provision of the rules shall be an offence;
 
 (b) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 2 years or both for each offence.
-
-22 CAP. 92A (Import and Export) 2008 Ed.

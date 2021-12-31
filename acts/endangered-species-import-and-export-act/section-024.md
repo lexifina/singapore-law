@@ -1,8 +1,8 @@
 # 24. Jurisdiction of court, etc.
-Part: PART IV MISCELLANEOUS
+Part: PART 4 MISCELLANEOUS
 
-(1) Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+(1) Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.
 
-2008 Ed. (Import and Export) CAP. 92A 19
+(2) For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the written complaint signed by the Director-General or an authorised officer, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010.
 
-(2) For the purpose of section 133 of the Criminal Procedure Code (Cap. 68) and notwithstanding subsections (1) and (2) thereof, a Magistrate may take cognizance of an offence under this Act upon receiving a complaint in writing and signed by the Director-General or an authorised officer.
+[15/2010]

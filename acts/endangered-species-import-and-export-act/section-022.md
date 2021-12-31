@@ -1,4 +1,6 @@
-# 22. Fees, etc., payable to Authority
-Part: PART IV MISCELLANEOUS
+# 22. Fees, etc., payable to Board
+Part: PART 4 MISCELLANEOUS
 
-All fees, charges, sums collected for the composition of offences and any other moneys collected under this Act shall be paid to the Authority.
+All fees, charges and moneys collected under this Act or any rules made under this Act (except composition sums) must be paid to the Board.
+
+[10/2019]

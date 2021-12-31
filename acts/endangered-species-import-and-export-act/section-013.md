@@ -1,15 +1,13 @@
 # 13. Power to require scheduled species to be marked, etc.
-Part: PART III ENFORCEMENT POWERS AND PROCEEDINGS
+Part: PART 3 ENFORCEMENT POWERS AND PROCEEDINGS
 
-(1) The Director-General may require any owner, importer, exporter or re-exporter of scheduled species to brand, label or otherwise mark such scheduled species to the satisfaction of the Director-General.
+(1) The Director-General may require any owner, importer, exporter or re-exporter of scheduled species to brand, label or otherwise mark the scheduled species to the satisfaction of the Director-General.
 
-(2) Notwithstanding subsection (1), the Director-General may brand, label or mark any such scheduled species.
+(2) Despite subsection (1), the Director-General may brand, label or mark any such scheduled species.
 
-(3) Any person who contravenes any requirement of the Director- General under subsection (1) shall be guilty of an offence.
+(3) Any person who contravenes any requirement of the Director-General under subsection (1) shall be guilty of an offence.
 
 (4) Any person who alters, counterfeits, defaces, destroys, erases or removes any brand, label or mark referred to in subsection (1) or (2) without the prior approval of the Director-General shall be guilty of an offence.
-
-2008 Ed. (Import and Export) CAP. 92A 13
 
 (5) In this section, a reference to the labelling or marking of scheduled species includes a reference to the following:
 

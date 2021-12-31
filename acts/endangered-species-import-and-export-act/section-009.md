@@ -1,5 +1,5 @@
 # 9. Power of inspection
-Part: PART III ENFORCEMENT POWERS AND PROCEEDINGS
+Part: PART 3 ENFORCEMENT POWERS AND PROCEEDINGS
 
 An authorised officer may, for the purpose of ensuring compliance with this Act, do all or any of the following:
 

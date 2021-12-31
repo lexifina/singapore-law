@@ -1,5 +1,4 @@
 # 18. General penalty
-Part: PART III ENFORCEMENT POWERS AND PROCEEDINGS
-Heading: 2 CAP. 92A (Import and Export) 2008 Ed.
+Part: PART 3 ENFORCEMENT POWERS AND PROCEEDINGS
 
 Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
