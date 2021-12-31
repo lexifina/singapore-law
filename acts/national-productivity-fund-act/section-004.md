@@ -1,5 +1,5 @@
 # 4. Purposes of Fund
-Part: PART II NATIONAL PRODUCTIVITY FUND
+Part: PART 2 NATIONAL PRODUCTIVITY FUND
 
 (1) The moneys in the Fund may be withdrawn and applied for all or any of the following purposes only:
 
@@ -9,4 +9,4 @@ Part: PART II NATIONAL PRODUCTIVITY FUND
 
 (c) the payment of all expenses incidental to or arising from the administration, investment and management of moneys in the Fund.
 
-(2) Except as otherwise provided by this section, no payment shall be made out of the Fund unless the payment is authorised by the Board.
+(2) Except as otherwise provided by this section, a payment must not be made out of the Fund unless the payment is authorised by the Board.

@@ -1,11 +1,11 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
 “Board” means the Productivity Fund Administration Board established under section 7;
 
-“Chairman” means the Chairman of the Board;
+“Chairperson” means the Chairperson of the Board;
 
 “Executive Secretary” means any Executive Secretary of the Board appointed under section 14(1) and includes any person acting in that capacity;
 

@@ -1,4 +1,4 @@
 # 16. Public servants
-Part: PART IV STAFF AND FINANCIAL PROVISIONS
+Part: PART 4 STAFF AND FINANCIAL PROVISIONS
 
-All members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+All members, officers and employees of the Board are deemed to be public servants for the purposes of the Penal Code 1871.

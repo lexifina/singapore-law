@@ -1,10 +1,10 @@
 # 9. Constitution of Board
-Part: PART III ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
+Part: PART 3 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
 
-(1) The Board shall consist of the following members:
+(1) The Board consists of the following members:
 
-(a) a Chairman; and
+(a) a Chairperson; and
 
-(b) such other members, not being less than 3 or more than 6, as the Minister may from time to time determine.
+(b) not less than 3 but not more than 6 other members as the Minister may determine.
 
-(2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
+(2) The First Schedule has effect with respect to the Board, its members and proceedings.

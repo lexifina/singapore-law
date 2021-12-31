@@ -1,6 +1,6 @@
 # 18. Bank accounts
-Part: PART IV STAFF AND FINANCIAL PROVISIONS
+Part: PART 4 STAFF AND FINANCIAL PROVISIONS
 
-(1) The Board shall open and maintain one or more accounts with such bank or banks as the Board thinks fit.
+(1) The Board must open and maintain one or more accounts with any bank or banks that the Board thinks fit.
 
-(2) Every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Board.
+(2) Every such account must be operated by such person or persons authorised to do so by the Board.
