@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Holidays Act.
+This Act is the Holidays Act 1998.

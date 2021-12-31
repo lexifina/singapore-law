@@ -1,14 +1,15 @@
-HOLIDAYS ACT
-(CHAPTER 126)
-Act
-8 of 1998
-REVISED EDITION 1999
-(30th December 1999)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-1999
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+HOLIDAYS ACT 1998
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to the observance of public holidays in Singapore.
 
-[10th April 1998]
+[10 April 1998]
