@@ -1,9 +1,7 @@
 # 18. Establishment of ElderCare Fund
-Part: PART II MEDIFUND SCHEME Division 1 — Medifund
-Division: Division 3 — Medifund Committees
-Heading: 2 CAP. 173A Endowment Schemes 2001 Ed. PART III ELDERCARE SCHEME Division 1 — Establishment of ElderCare Fund
+Part: PART 3 ELDERCARE SCHEME Division 1 — Establishment of ElderCare Fund
 
-(1) There shall be established a fund to be called the ElderCare Fund into which shall be paid —
+(1) A fund called the ElderCare Fund is established, into which must be paid —
 
 (a) all capital moneys as are appropriated from time to time from the Consolidated Fund and authorised to be paid into the ElderCare Fund by this Act or any other written law;
 
@@ -11,4 +9,4 @@ Heading: 2 CAP. 173A Endowment Schemes 2001 Ed. PART III ELDERCARE SCHEME Divisi
 
 (c) the net income from investments of capital moneys in the ElderCare Fund.
 
-(2) The ElderCare Fund shall be regarded as a Government fund and as comprising public moneys for the purposes of any other written law.
+(2) The ElderCare Fund must be regarded as a Government fund and as comprising public moneys for the purposes of any other written law.

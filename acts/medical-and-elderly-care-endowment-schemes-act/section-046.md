@@ -1,8 +1,7 @@
 # 46. Regulations
-Part: PART IV GENERAL FINANCIAL PROVISIONS
-Heading: 2001 Ed. Endowment Schemes CAP. 173A 3 PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Act and, in particular, such regulations may —
+The Minister may make any regulations that are necessary or expedient for the purpose of carrying out the provisions of this Act and, in particular, the regulations may —
 
 (a) prescribe the procedure for payments out of the Medifund Account and the criteria for approval of applications by eligible patients;
 

@@ -1,4 +1,4 @@
 # 36. Mode of payment out of Funds
-Part: PART IV GENERAL FINANCIAL PROVISIONS
+Part: PART 4 GENERAL FINANCIAL PROVISIONS
 
-No payment shall be made out of the Medifund or the ElderCare Fund unless such payment is authorised by the Minister.
+A payment must not be made out of the Medifund or the ElderCare Fund unless the payment is authorised by the Minister.

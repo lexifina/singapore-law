@@ -1,8 +1,8 @@
 # 6. Advisory Council
-Part: PART II MEDIFUND SCHEME Division 1 — Medifund
+Part: PART 2 MEDIFUND SCHEME Division 1 — Medifund
 
-(1) For the purpose of advising the Minister as to the application of the income of the Medifund, there shall be established an Advisory Council comprising such members to be appointed by the Minister.
+(1) For the purpose of advising the Minister as to the application of the income of the Medifund, an Advisory Council is established, comprising members appointed by the Minister.
 
-(2) The Minister shall appoint one of the members as chairman.
+(2) The Minister must appoint one of the members as chairperson.
 
-(3) The Schedule shall have effect with respect to the Council.
+(3) The Schedule has effect with respect to the Council.
