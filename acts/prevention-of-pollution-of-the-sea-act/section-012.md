@@ -1,5 +1,5 @@
 # 12. Regulations requiring the keeping of oil record books
-Part: PART IV PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
+Part: PART 4 PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
 
 (1) The Authority may, with the approval of the Minister, make regulations requiring oil record books to be carried in all Singapore ships and in all ships in Singapore waters and requiring the master of any such ship to record in the oil record book carried by it —
 
@@ -31,21 +31,15 @@ Part: PART IV PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
 
 (xiii) the disposal of residues;
 
-(b) any event of such discharge of oil or oily mixture as is referred to in section 7 (2) or any regulations made under section 7 (4); and
+(b) any event of such discharge of oil or oily mixture as is mentioned in section 7(2) or any regulations made under section 7(4); and
 
-(c) in the event of accidental or other exceptional discharge of oil or oily mixture which is not referred to in section 7 (2).
-
-[7/96]
+(c) in the event of accidental or other exceptional discharge of oil or oily mixture which is not mentioned in section 7(2).
 
 (2) The Authority may, with the approval of the Minister, make regulations requiring the keeping of records relating to the transfer of oil to and from ships while they are in Singapore waters.
 
-[7/96]
+(3) The requirements of any regulations made under subsection (2) are in addition to the requirements of any regulations made under subsection (1).
 
-(3) The requirements of any regulations made under subsection
-
-(2) shall be in addition to the requirements of any regulations made under subsection (1).
-
-(4) Any records required to be kept by any regulations made under subsection (2) shall, unless the ship is a barge, be kept by the master of the ship and shall, if the ship is a barge, be kept, in so far as they relate to the transfer of oil to the barge, by the person supplying the oil and, in so far as they relate to the transfer of oil from the barge, by the person to whom the oil is delivered.
+(4) Any records required to be kept by any regulations made under subsection (2) must, unless the ship is a barge, be kept by the master of the ship and must, if the ship is a barge, be kept, insofar as they relate to the transfer of oil to the barge, by the person supplying the oil and, insofar as they relate to the transfer of oil from the barge, by the person to whom the oil is delivered.
 
 (5) Regulations made under this section requiring the carrying of oil record books or the keeping of records may —
 

@@ -1,4 +1,4 @@
 # 35. Application to Government
-Part: PART VI MISCELLANEOUS PROVISIONS
+Part: PART 6 MISCELLANEOUS PROVISIONS
 
-This Act shall bind the Government.
+This Act binds the Government.

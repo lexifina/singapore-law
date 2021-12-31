@@ -1,7 +1,7 @@
 # 17. Recovery of costs for removing refuse, garbage, wastes, plastics, effluents and dangerous pollutants discharged from ships
-Part: PART V RECOVERY OF COSTS
+Part: PART 5 RECOVERY OF COSTS
 
-(1) If any refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from any ship into Singapore waters or into any part of the sea or waters outside Singapore waters and the refuse, garbage, waste matter, plastics, marine pollutant or trade effluent subsequently drifts or flows into Singapore waters, the owner of the ship shall be liable to pay for the costs of any measure reasonably taken by the appointed authority after the discharge for the purpose of removing it and for preventing or reducing any damage caused in Singapore by contam- ination resulting from the discharge.
+(1) If any refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from any ship into Singapore waters or into any part of the sea or waters outside Singapore waters and the refuse, garbage, waste matter, plastics, marine pollutant or trade effluent subsequently drifts or flows into Singapore waters, the owner of the ship shall be liable to pay for the costs of any measure reasonably taken by the appointed authority after the discharge for the purpose of removing it and for preventing or reducing any damage caused in Singapore by contamination resulting from the discharge.
 
 (2) Where the refuse, garbage, waste matter, plastics, marine pollutant in packaged form or trade effluent is discharged from 2 or more ships —
 

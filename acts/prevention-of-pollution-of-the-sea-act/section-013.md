@@ -1,9 +1,9 @@
 # 13. Regulations requiring the keeping of cargo record books
-Part: PART IV PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
+Part: PART 4 PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
 
 (1) The Authority may, with the approval of the Minister, make regulations requiring cargo record books to be carried in all Singapore ships and in all ships in Singapore waters, being ships which carry noxious liquid substances in bulk, and requiring the master of any such ship to record in the cargo record book carried by it —
 
-(a) the carrying out, on board or in connection with the ship, of such of the following operations with respect to a noxious liquid substance as may be prescribed:
+(a) the carrying out, on board or in connection with the ship, of those of the following operations with respect to a noxious liquid substance as may be prescribed:
 
 (i) the loading of cargo;
 
@@ -21,21 +21,15 @@ Part: PART IV PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA
 
 (viii) the discharge into the sea or removal by ventilation of residues in accordance with any regulations made under this Act;
 
-(b) in the event of any such discharge of any noxious liquid substance or a mixture containing such substance as is referred to in section 10 (2) or in any regulations made under section 10 (4); and
+(b) in the event of any such discharge of any noxious liquid substance or a mixture containing such substance as is mentioned in section 10(2) or in any regulations made under section 10(4); and
 
 (c) any occasion on which the noxious liquid substance or a mixture containing such substance is discharged, whether intentionally or accidentally.
 
-[7/96]
-
 (2) The Authority may, with the approval of the Minister, make regulations requiring the keeping of records relating to the transfer of noxious liquid substances to and from ships while they are in Singapore waters.
 
-[7/96]
+(3) The requirements of any regulations made under subsection (2) are in addition to the requirements of any regulations made under subsection (1).
 
-(3) The requirements of any regulations made under subsection
-
-(2) shall be in addition to the requirements of any regulations made under subsection (1).
-
-(4) Any records required to be kept by any regulations made under subsection (2) shall be kept by the master of the ship.
+(4) Any records required to be kept by any regulations made under subsection (2) must be kept by the master of the ship.
 
 (5) Regulations made under this section requiring the carrying of cargo record books or the keeping of records may —
 
