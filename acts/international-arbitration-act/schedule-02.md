@@ -1,6 +1,6 @@
 # SECOND SCHEDULE
 
-Section 27 (1)
+Section 27(1)
 
 CONVENTION ON THE RECOGNITION AND ENFORCEMENT OF FOREIGN ARBITRAL AWARDS CONCLUDED AT NEW YORK ON 10TH JUNE 1958
 
@@ -8,7 +8,7 @@ ARTICLE I
 
 1. This Convention shall apply to the recognition and enforcement of arbitral awards made in the territory of a State other than the State where the recognition and enforcement of such awards are sought, and arising out of differences between persons, whether physical or legal. It shall also apply to arbitral awards not considered as domestic awards in the State where their recognition and enforcement are sought.
 
-2. The term ‘‘arbitral awards’’ shall include not only awards made by arbitrators appointed for each case but also those made by permanent arbitral bodies to which the parties have submitted.
+2. The term “arbitral awards” shall include not only awards made by arbitrators appointed for each case but also those made by permanent arbitral bodies to which the parties have submitted.
 
 3. When signing, ratifying or acceding to this Convention, or notifying extension under Article X hereof, any State may on the basis of reciprocity declare that it will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State. It may also declare that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the State making such declaration.
 
@@ -16,9 +16,9 @@ ARTICLE II
 
 1. Each Contracting State shall recognise an agreement in writing under which the parties undertake to submit to arbitration all or any differences which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not, concerning a subject-matter capable of settlement by arbitration.
 
-2. The term ‘‘agreement in writing’’ shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
+2. The term “agreement in writing” shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
 
-3. The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this Article, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.
+3. The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this Article, shall, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.
 
 SECOND SCHEDULE — continued
 
@@ -44,9 +44,9 @@ ARTICLE V
 
 (b) the party against whom the award is invoked was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present his case; or
 
-(c) the award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced; or
+(c) the award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which SECOND SCHEDULE — continued
 
-SECOND SCHEDULE — continued
+contains decisions on matters submitted to arbitration may be recognised and enforced; or
 
 (d) the composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or, failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
 
@@ -68,11 +68,11 @@ ARTICLE VII
 
 2. The Geneva Protocol on Arbitration Clauses of 1923 and the Geneva Convention on the Execution of Foreign Arbitral Awards of 1927 shall cease to have effect between Contracting States on their becoming bound and to the extent that they become bound, by this Convention.
 
+SECOND SCHEDULE — continued
+
 ARTICLE VIII
 
-1. This Convention shall be open until 31st December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialised agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International SECOND SCHEDULE — continued
-
-Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
+1. This Convention shall be open until 31st December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialised agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
 
 2. This Convention shall be ratified and the instrument of ratification shall be deposited with the Secretary-General of the United Nations.
 
@@ -96,9 +96,9 @@ In the case of a federal or non-unitary State, the following provisions shall ap
 
 (a) with respect to those Articles of this Convention that come within the legislative jurisdiction of the federal authority, the obligations of the federal Government shall to this extent be the same as those of Contracting States which are not federal States;
 
-(b) with respect to those Articles of this Convention that come within the legislative jurisdiction of constituent States or provinces which are not, under the constitutional system of the federation, bound to take legislative action, the federal Government shall bring such articles with SECOND SCHEDULE — continued
+SECOND SCHEDULE — continued
 
-a favourable recommendation to the notice of the appropriate authorities of constituent States or provinces at the earliest possible moment;
+(b) with respect to those Articles of this Convention that come within the legislative jurisdiction of constituent States or provinces which are not, under the constitutional system of the federation, bound to take legislative action, the federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of constituent States or provinces at the earliest possible moment;
 
 (c) a federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the federation and its constituent units in regard to any particular provision of this Convention, showing the extent to which effect has been given to that provision by legislative or other action.
 
@@ -110,9 +110,9 @@ ARTICLE XII
 
 ARTICLE XIII
 
-1. Any Contracting State may denounce this Convention by a written notifi- cation to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
+1. Any Contracting State may denounce this Convention by a written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
 
-2. Any State which has made a declaration or notification under Article X may, at any time thereafter, by notification to the Secretary-General of the United Nations, declare that this Convention shall cease to extend to the territory concerned one year after the date of the receipt of the notification by the Secretary- General.
+2. Any State which has made a declaration or notification under Article X may, at any time thereafter, by notification to the Secretary-General of the United Nations, declare that this Convention shall cease to extend to the territory concerned one year after the date of the receipt of the notification by the Secretary-General.
 
 3. This Convention shall continue to be applicable to arbitral awards in respect of which recognition or enforcement proceedings have been instituted before the denunciation takes effect.
 
@@ -120,13 +120,13 @@ ARTICLE XIV
 
 A Contracting State shall not be entitled to avail itself of the present Convention against other Contracting States except to the extent that it is itself bound to apply the Convention.
 
+SECOND SCHEDULE — continued
+
 ARTICLE XV
 
-The Secretary-General of the United Nations shall notify the States contem- plated in Article VIII of the following:
+The Secretary-General of the United Nations shall notify the States contemplated in Article VIII of the following:
 
 (a) signatures and ratifications in accordance with Article VIII;
-
-SECOND SCHEDULE — continued
 
 (b) accessions in accordance with Article IX;
 
@@ -141,3 +141,5 @@ ARTICLE XVI
 1. This Convention, of which the Chinese, English, French, Russian and Spanish texts shall be equally authentic, shall be deposited in the archives of the United Nations.
 
 2. The Secretary-General of the United Nations shall transmit a certified copy of this Convention to the States contemplated in Article VIII.
+
+[26/2009]

@@ -1,5 +1,5 @@
 # 25. Liability of arbitrator
-Part: PART II INTERNATIONAL COMMERCIAL ARBITRATION
+Part: PART 2 INTERNATIONAL COMMERCIAL ARBITRATION
 
 An arbitrator shall not be liable for —
 

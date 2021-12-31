@@ -1,4 +1,4 @@
-# 34. Act to bind Government
-Part: PART IV GENERAL
+# 34. Act binds Government
+Part: PART 4 GENERAL
 
-This Act shall bind the Government.
+This Act binds the Government.

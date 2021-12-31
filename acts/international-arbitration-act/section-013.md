@@ -1,18 +1,18 @@
 # 13. Witnesses may be summoned by subpoena
-Part: PART II INTERNATIONAL COMMERCIAL ARBITRATION
+Part: PART 2 INTERNATIONAL COMMERCIAL ARBITRATION
 
-(1) Any party to an arbitration agreement may take out a writ of subpoena ad testificandum (writ to compel witness to attend and give evidence) or a writ of subpoena duces tecum (writ to compel witness to attend and give evidence and produce specified documents).
+(1) Any party to an arbitration agreement may take out a subpoena to testify or a subpoena to produce documents.
 
-[38/2001]
+[42/2005]
 
-(2) The court may order that a writ of subpoena ad testificandum or a writ of subpoena duces tecum shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
+(2) The General Division of the High Court may order that a subpoena to testify or a subpoena to produce documents be issued to compel the attendance before an arbitral tribunal of a witness wherever the witness may be within Singapore.
 
-[38/2001]
+[42/2005; 12/2012; 40/2019]
 
-(3) The court may also issue an order under section 38 of the Prisons Act (Cap. 247) to bring up a prisoner for examination before an arbitral tribunal.
+(3) The General Division of the High Court may also issue an order under section 38 of the Prisons Act 1933 to bring up a prisoner for examination before an arbitral tribunal.
 
-[38/2001]
+[12/2012; 40/2019]
 
-(4) No person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
+(4) A person must not be compelled under any such subpoena to produce any document which the person could not be compelled to produce on the trial of an action.
 
-[38/2001]
+[42/2005]

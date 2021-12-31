@@ -1,15 +1,15 @@
 # 15A. Application of rules of arbitration
-Part: PART II INTERNATIONAL COMMERCIAL ARBITRATION
+Part: PART 2 INTERNATIONAL COMMERCIAL ARBITRATION
 
-(1) It is hereby declared for the avoidance of doubt that a provision of rules of arbitration agreed to or adopted by the parties, whether before or after the commencement of the arbitration, shall apply and be given effect to the extent that such provision is not inconsistent with a provision of the Model Law or this Part from which the parties cannot derogate.
-
-[28/2002]
-
-(2) Without prejudice to subsection (1), subsections (3) to (6) shall apply for the purposes of determining whether a provision of rules of arbitration is inconsistent with the Model Law or this Part.
+(1) To avoid doubt, it is declared that a provision of rules of arbitration agreed to or adopted by the parties, whether before or after the commencement of the arbitration, applies and is given effect to the extent that the provision is not inconsistent with a provision of the Model Law or this Part from which the parties cannot derogate.
 
 [28/2002]
 
-(3) A provision of rules of arbitration is not inconsistent with the Model Law or this Part merely because it provides for a matter on which the Model law and this Part is silent.
+(2) Without prejudice to subsection (1), subsections (3) to (6) apply for the purposes of determining whether a provision of rules of arbitration is inconsistent with the Model Law or this Part.
+
+[28/2002]
+
+(3) A provision of rules of arbitration is not inconsistent with the Model Law or this Part merely because it provides for a matter on which the Model Law and this Part is silent.
 
 [28/2002]
 
@@ -25,6 +25,6 @@ Part: PART II INTERNATIONAL COMMERCIAL ARBITRATION
 
 [28/2002]
 
-(7) In this section and section 15, ‘‘rules of arbitration’’ means the rules of arbitration agreed to or adopted by the parties including the rules of arbitration of an institution or organisation.
+(7) In this section and section 15, “rules of arbitration” means the rules of arbitration agreed to or adopted by the parties including the rules of arbitration of an institution or organisation.
 
 [28/2002]
