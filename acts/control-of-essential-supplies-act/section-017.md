@@ -1,7 +1,7 @@
-# 17. Retailers to display licence and list of controlled articles and rationed articles
-Part: PART III OFFENCES AND PENALTIES
+# 17. Retailers to display licence and list of controlled articles and rationed articles 1
+Part: PART 3 OFFENCES AND PENALTIES
 
-(1) Any person carrying on retail business in any premises or at any place in respect of which a licence has been issued in accordance with section 7 shall display in a conspicuous position —
+(1) Any person carrying on retail business in any premises or at any place in respect of which a licence has been issued in accordance with section 7 must display in a conspicuous position —
 
 (a) the original of the licence; and
 

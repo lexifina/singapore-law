@@ -1,4 +1,4 @@
 # 14. Prohibition against selling greater quantity of controlled articles than required for ordinary use
-Part: PART III OFFENCES AND PENALTIES
+Part: PART 3 OFFENCES AND PENALTIES
 
 Any person who sells any controlled article to any other person in excess of the quantity which may be lawfully acquired by such other person in accordance with any regulations made under section 6 shall be guilty of an offence under this Act.
