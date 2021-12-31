@@ -8,13 +8,11 @@
 
 (c) a public transportation system; or
 
-(d) an infrastructure facility, with intent to cause death or serious bodily injury, or extensive destruction of such place, facility or system that results in or is likely 4 CAP. 324A (Suppression of Bombings) 2008 Ed.
+(d) an infrastructure facility, with intent to cause death or serious bodily injury, or extensive destruction of such place, facility or system that results in or is likely to result in major economic loss, shall be guilty of an offence and shall on conviction —
 
-to result in major economic loss, shall be guilty of an offence and shall on conviction —
+(e) if he or she had intended to cause death or serious bodily injury and death is caused, be punished with death; or
 
-(i) if he had intended to cause death or serious bodily injury and death is caused, be punished with death; or
-
-(ii) in any other case, be punished with life imprisonment.
+(f) in any other case, be punished with life imprisonment.
 
 (2) Subsection (1) does not apply to —
 

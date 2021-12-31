@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Terrorism (Suppression of Bombings) Act.
+This Act is the Terrorism (Suppression of Bombings) Act 2007.
