@@ -1,34 +1,32 @@
-# 17. Prohibition on discharge of dangerous trade effluent
-Part: PART III SEWERAGE
+# 17. Order to stop discharge of dangerous or hazardous substance or trade effluent containing dangerous or hazardous substance
+Part: PART 3 SEWERAGE
 
-(1) Where the Board reports to the Minister that any trade effluent which is being discharged from any premises into the public sewerage system is dangerous to health or safety or will cause damage to the public sewerage system, the Minister may by order direct the occupier of the premises —
+(1) Where it appears to the Board that any dangerous or hazardous substance or any trade effluent containing any dangerous or hazardous substance is being or has been discharged into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, the Board may, by order, direct the occupier of any premises from which the substance or trade effluent is being or has been discharged or any other person who, in the opinion of the Board, has caused or permitted the discharge —
 
-(a) to cease immediately the discharge of such trade effluent into the public sewerage system;
+(a) to immediately cease the discharge of the substance or trade effluent into the public sewerage system or the drain-line or sewer communicating with a public sewerage system;
 
-(b) to take such steps as may be specified in the order to treat the trade effluent which is complained of; and
+(b) to take such steps as may be specified in the order to treat the substance or trade effluent which is complained of; and
 
-(c) to cease immediately the carrying on of any process or work which produces the trade effluent either indefinitely or until such steps as are specified in the order have been taken to treat the trade effluent before it is discharged into the public sewerage system.
+(c) to immediately cease the carrying on of any process or work which produces the substance or trade effluent, either indefinitely or until such steps as are specified in the order have been taken to treat the substance or trade effluent before it is discharged into the public sewerage system or the drain-line or sewer communicating with a public sewerage system.
 
-[8/2001]
+[10/2012]
 
-(2) Any person who is aggrieved by an order made by the Minister under subsection (1) may, within 28 days from the date of the order, appeal to the High Court which may rescind or vary the order.
+(2) Any person who is aggrieved by an order made by the Board under subsection (1) may, within 14 days from the date of service of the order, appeal in writing to the Minister, who may confirm, vary or rescind the order.
 
-(3) Notwithstanding that an appeal has been made under subsection (2), an aggrieved person shall comply with the order pending the outcome of the appeal to the High Court and the Board may exercise the powers conferred under subsection (5).
+[10/2012]
 
-[8/2001]
+(3) Even though an appeal has been made under subsection (2), an aggrieved person must comply with the order pending the outcome of the appeal to the Minister and the Board may exercise the powers conferred under subsection (5).
 
-(4) The occupier of any premises who fails to comply with an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day or part thereof during which the offence continues after conviction.
+[10/2012]
 
-(5) Where the occupier of any premises fails to comply with an order made under subsection (1) within 48 hours of the service of the order, any authorised officer may, at all reasonable times, enter upon the premises and take such measures and execute such work as may be necessary to comply with the order without prejudice to any proceedings that may be taken against the occupier of the premises under subsection (4).
+(4) If any person to whom an order under subsection (1) is directed fails to comply with the order (called in this section the person in default), that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine of $1,000 for every day or part of a day during which the offence continues after conviction.
 
-[8/2001]
+[10/2012]
 
-(6) Any expenses reasonably incurred by the Board under subsection (5) may be recovered from the person in default and section 48 and, if that person is the owner of the premises, section 50 shall apply in respect of those expenses.
+(5) Where the person in default fails to comply with the order made under subsection (1), an authorised officer may, at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises to which the order relates, enter the premises and take such measures and execute such work as may be necessary to secure compliance with the order but without affecting any proceedings that may be taken against the person in default under subsection (4).
 
-[8/2001]
+[10/2012]
 
-(7) Nothing in this section shall be deemed to prohibit the Board from carrying out any works specified in any such order at the request of a person who has been served with the order upon an undertaking by that person to pay the costs and expenses in executing the works.
+(6) Any expenses reasonably incurred by the Board under subsection (5) may be recovered from the person in default and section 48 and, if that person is the owner of the premises, section 50 applies in respect of those expenses.
 
-[18
-
-[8/2001]
+(7) Nothing in this section is deemed to prohibit the Board from carrying out any works specified in any such order at the request of a person who has been served with the order upon an undertaking by that person to pay the costs and expenses in executing the works.

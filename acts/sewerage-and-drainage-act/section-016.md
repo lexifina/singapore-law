@@ -1,22 +1,36 @@
-# 16. Trade effluent not to be discharged into public sewers without Board’s approval
-Part: PART III SEWERAGE
+# 16. Trade effluent not to be discharged into public sewerage system without Board’s approval 1
+Part: PART 3 SEWERAGE
 
-(1) Any person who discharges or causes or permits to be discharged any trade effluent into any public sewer or any drain-line or sewer communicating with a public sewer without the written approval of the Board shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+(1) A person must not discharge, or cause or permit to be discharged, any trade effluent into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, except —
 
-[8/2001]
+(a) with the prior written approval of the Board; and
 
-(2) Where any trade effluent had been discharged from any premises into any public sewer or any drain-line or sewer communicating with a public sewer, it shall be presumed, until the contrary is proved, that the occupier of the premises has discharged or causes or permits to be discharged the trade effluent in contravention of subsection (1).
+(b) in accordance with the conditions of that approval (if any) and any regulations under this Act providing for the control of such discharge.
 
-(3) The presumption under subsection (2) shall not be rebutted unless the occupier of the premises proves that he had exercised due diligence to prevent the commission of the offence under subsection (1).
+[10/2012]
 
-(4) Subsection (1) shall not apply to any discharge of trade effluent which may be lawfully made into any public sewer under any regulations made under this Act.
+(2) Subsection (1) does not apply to the discharge of any dangerous or hazardous substance or any trade effluent containing any dangerous or hazardous substance under section 16A.
 
-(5) A person shall not be guilty of an offence under this section if he proves that —
+[10/2012]
+
+(3) Where any trade effluent has been discharged from any premises into any public sewerage system or any drain-line or sewer communicating with a public sewerage system, it is presumed, until the contrary is proved, that the occupier of the premises has discharged, or caused or permitted to be discharged, the trade effluent in contravention of subsection (1).
+
+[10/2012]
+
+(4) The presumption under subsection (3) is not rebutted unless the occupier of the premises proves that the occupier had taken all reasonable precautions and exercised due diligence to prevent the contravention of subsection (1).
+
+[10/2012]
+
+(5) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.
+
+[10/2012]
+
+(6) A person shall not be guilty of an offence under this section if the person proves that —
 
 (a) the discharge of trade effluent was made in an emergency to avoid danger to life or property; and
 
-(b) he informed the Board of the discharge in writing as soon as was reasonably practicable.
+(b) the person informed the Board of the discharge in writing as soon as was reasonably practicable.
 
-[17
+(7) The court may order any person who is convicted of an offence under this section to pay the cost incurred by the Board, or by the owner or occupier of any premises, in carrying out any work to restore the public sewerage system to its original condition, or to clear the public sewerage system of the trade effluent so discharged.
 
-[8/2001]
+[10/2012]

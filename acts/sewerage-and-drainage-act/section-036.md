@@ -1,24 +1,40 @@
-# 36. Register of plumbers
-Part: PART VI REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
+# 36. Directions to qualified persons
+Part: PART 6 REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
-(1) The Board may maintain a register of plumbers who satisfy the Board that they have the necessary qualifications and skills to carry out works for the construction and alteration of sanitary facilities.
+(1) Where the Board is of the opinion that a qualified person has contravened, or is likely to have contravened, any requirement imposed by or under this Act, the Board may give a direction, verbally or in writing, to any person specified in subsection (2), and the person must comply with the direction.
 
-[8/2001]
+[11/2018]
 
-(2) A plumber shall pay such registration and annual fees as may be prescribed for his name to be entered and kept in the register of plumbers.
+(2) The persons specified for the purposes of subsection (1) are —
 
-(3) For the purposes of subsection (1), the Board may conduct such examinations or tests as it thinks fit.
+(a) the qualified person;
 
-[8/2001]
+(b) if the Board is of the opinion that the qualified person is incapable of carrying out any requirement specified in the Board’s direction, another qualified person;
 
-(4) The Board may suspend or remove from the register of plumbers, the name of a plumber for a breach or contravention of any provision of this Act or any code of practice issued by the Board from time to time.
+(c) where the contravention or likely contravention relates to any sewerage system or sanitary facilities, the owner or occupier of any premises to which the sewerage system or sanitary facilities belong or for the use of which they are maintained; or
 
-[8/2001]
+(d) any person authorised to construct, alter or demolish the sewerage system or sanitary facilities.
 
-(5) Any person who is aggrieved by any decision of the Board under this section may, within 14 days of being notified in writing of the decision, appeal to the Minister whose decision shall be final.
+[11/2018]
 
-[8/2001]
+(3) A direction given under subsection (1) —
 
-(6) Any person whose name has been removed from the register of plumbers under subsection (4) shall, if his appeal to the Minister is allowed, have his name reinstated as soon as possible.
+(a) may require the person specified in subsection (2) to do, or to refrain from doing, such things as are specified in the direction or are of a description as specified in the direction;
 
-[37
+(b) is to take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
+
+(c) may be revoked at any time by the Board.
+
+[11/2018]
+
+(4) The Board is not liable for any cost or expense incurred by any person specified in subsection (2) in complying with any direction given by the Board under this section.
+
+[11/2018]
+
+(5) Where a qualified person receives a direction from the Board under this section, the qualified person must notify the owner or occupier specified in subsection (2)(c) of the direction.
+
+[11/2018]
+
+(6) Any person to whom a direction is given under this section who fails to comply with the direction shall be guilty of an offence.
+
+[11/2018]

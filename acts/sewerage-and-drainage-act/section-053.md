@@ -1,12 +1,8 @@
 # 53. Attachment
-Part: PART VIII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
+Part: PART 8 COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
-(1) The attachment referred to in section 52 (1) (a) may be made by a person appointed for the purpose by the Board who shall give public notice of the attachment in the prescribed manner and shall take an inventory of the property attached.
+(1) The attachment referred to in section 52(1)(a) may be made by a person appointed for the purpose by the Board who must give public notice of the attachment in the prescribed manner and must take an inventory of the property attached.
 
-[8/2001]
+(2) A person appointed under subsection (1) is deemed to be a public servant within the meaning of the Penal Code 1871.
 
-(2) A person appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
-
-(3) Such a person may break open in the day time any house or building for the purpose of effecting the attachment.
-
-[54
+(3) Such a person may break open in the daytime any house or building for the purpose of effecting the attachment.

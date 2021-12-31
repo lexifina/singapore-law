@@ -1,16 +1,20 @@
 # 10. Sewerage systems to be kept in proper order at cost of owners
-Part: PART III SEWERAGE
+Part: PART 3 SEWERAGE
 
-(1) Every sewerage system shall be altered, repaired and kept in proper order at the cost and expense of the owner of the premises to which the sewerage system belongs or for the use of which it is maintained.
+(1) Every sewerage system must be altered, repaired and kept in proper order at the cost and expense of the owner of the premises to which the sewerage system belongs or for the use of which it is maintained.
 
-(2) The Board may, by notice in writing, require the owner of any premises referred to in subsection (1) to alter, repair or put the sewerage system in good order in the manner required by the Board.
+(2) The Board may, by written notice, require the owner of any premises mentioned in subsection (1) to do one or both of the following at the owner’s own cost and expense:
 
-[8/2001]
+(a) to have the sewerage system inspected and tested in such manner and at such intervals as the Board may require, to ensure that the sewerage system is kept in good order;
 
-(3) Where the Board is satisfied that it is immediately necessary to alter, repair or put in good order and condition any sewer, drain-line, privy, cesspool, septic or other tank, toilet, urinal, water-closet, sink, bath or lavatory or any appurtenance thereof, any authorised officer may enter upon any premises and carry out or cause to be carried out such alterations, repairs, works, acts or things as are necessary for any of those purposes.
+(b) to alter, repair or put in good order the sewerage system in such manner as the Board may require.
 
-[8/2001]
+[10/2012]
+
+(3) Where the Board is satisfied that it is immediately necessary to alter, repair or put in good order and condition any sewer, drain-line, privy, cesspool, septic or other tank, toilet, urinal, water closet, sink, bath or lavatory or any appurtenance thereof, any authorised officer may enter upon any premises and carry out or cause to be carried out any alterations, repairs, works, acts or things that are necessary for any of those purposes.
 
 (4) Any expenses reasonably and necessarily incurred in carrying out the works referred to in subsection (3) may be recovered from the owner of the premises when the work is completed.
 
-[11
+(5) If the owner of any premises to which a sewerage system belongs or for the use of which it is maintained, fails to keep the sewerage system in proper order in contravention of subsection (1), the owner shall be guilty of an offence.
+
+[10/2012]

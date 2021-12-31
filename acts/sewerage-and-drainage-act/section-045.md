@@ -1,5 +1,5 @@
 # 45. Power to enter on land adjacent to works
-Part: PART VII ENFORCEMENT
+Part: PART 7 ENFORCEMENT
 
 (1) Any authorised officer may, with such assistants and workmen as are necessary, enter upon any land, adjoining or being within 100 metres of any works authorised to be executed by this Act —
 
@@ -7,18 +7,18 @@ Part: PART VII ENFORCEMENT
 
 (b) for any other purposes connected with the formation of those works, without making any previous payment, tender or deposit and doing as little damage as may be in the exercise of the powers under this subsection.
 
-[8/2001]
+(2) However, an authorised officer must not enter any land for the purposes specified in subsection (1) unless the Board has given at least 7 days’ written notice of intention to enter to every owner and occupier of the land.
 
-(2) The Board shall make compensation —
+[12/2015]
 
-(a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as any such temporary occupation is taken or any such temporary damage done; and
+(3) A notice mentioned in subsection (2) must —
 
-(b) to the owner for the permanent injury, if any, to the land.
+(a) state the estimated period (if any) during which the Board intends to temporarily occupy or take possession of the land;
 
-[8/2001]
+(b) give a brief description of the works (if any) which are to be carried out in or on the land;
 
-(3) Before the Board makes any use of any land under subsection (1), it shall give 7 days’ notice of its intention to the owner and the occupier of the land.
+(c) describe the area or extent of the land and the subterranean space needed for the carrying out of the works mentioned in paragraph (b); and
 
-[46
+(d) state that the owner or occupier of the land may serve on the Board a claim of compensation for the items of loss, damage or cost set out in the first column of the Schedule to the extent of the loss, damage or cost suffered or incurred by the owner or occupier of the land.
 
-[8/2001]
+[12/2015]

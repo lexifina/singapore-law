@@ -1,17 +1,19 @@
 # 42. Appeal against notice
-Part: PART VII ENFORCEMENT
+Part: PART 7 ENFORCEMENT
 
-(1) Where a person is aggrieved by a notice referred to in section 41 (1) served on him —
+(1) Where a person is aggrieved by a notice mentioned in section 26(4)(a) or 41(1) served on the person —
 
-(a) he may, within 14 days from the date of service of the notice and in the prescribed form and manner, appeal to the Minister; and
+(a) the person may, within 14 days from the date of service of the notice and in the prescribed form and manner, appeal to the Minister; and
 
 (b) until after the determination or abandonment of the appeal —
 
-(i) no liability to a fine under section 41 (1) (a) shall arise except as provided for in this section; or
+(i) no liability to a fine under section 26(5) or 41(1)(a) (as the case may be) shall arise except as provided for in this section; or
 
-(ii) no proceedings shall be taken or work done under the notice.
+(ii) no proceedings may be taken or work done under the notice.
 
-(2) Where an appeal is brought under this section, the Minister may dismiss or allow the appeal unconditionally or subject to such conditions as he considers fit, and any decision made by the Minister on the appeal shall be final.
+[10/2012]
+
+(2) Where an appeal is brought under this section, the Minister may dismiss or allow the appeal unconditionally or subject to any conditions that he or she considers fit, and any decision made by the Minister on the appeal is final.
 
 (3) Where an appeal has been brought under this section, and the Minister is of the opinion that —
 
@@ -19,14 +21,6 @@ Part: PART VII ENFORCEMENT
 
 (b) the immediate execution of the notice will not cause any injury to the person against whom the notice was made which cannot be compensated by damages, the Minister may authorise the Board immediately to execute the work.
 
-[8/2001]
+(4) The Board must, if it carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
 
-(4) The Board shall, if it carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
-
-[8/2001]
-
-(5) The Board may, if it carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 48 and, if the appellant is the owner of the premises in respect of which the notice was made, section 50 shall apply to any sum recoverable from him hereunder.
-
-[43
-
-[8/2001]
+(5) The Board may, if it carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant, and section 48 and, if the appellant is the owner of the premises in respect of which the notice was made, section 50 apply to any sum recoverable from the appellant under this section.
