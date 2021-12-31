@@ -1,0 +1,4 @@
+# 33. Enforcement of fines
+Part: PART 6 PROCEDURAL MATTERS
+
+Payment of a fine for contempt of court imposed by any court may be enforced upon the order of the court in like manner as a fine imposed by a court in criminal proceedings under the Criminal Procedure Code 2010.
