@@ -1,6 +1,6 @@
-# 25. Existing contracts
-Part: PART VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
+# 25. Misconduct or neglect of duty by employee before transfer
+Part: PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
-(1) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Government is a party and relating to the Registry of Companies and Businesses or to any person transferred to the service of the Authority under section 23 (1) (a) shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
+The Authority may reprimand, reduce in rank, retire, dismiss or punish in some other manner an individual who had, while he or she was in the service of the Government or the Public Accountants Board (as the case may be), been guilty of any misconduct or neglect of duty which would have rendered him or her liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he or she had continued to be in the service of the Government or the Public Accountants Board (as the case may be) and if this Act had not been enacted.
 
-(2) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Public Accountants Board is a party shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Public Accountants Board.
+[28

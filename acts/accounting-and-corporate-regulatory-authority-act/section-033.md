@@ -1,24 +1,36 @@
-# 33. Proceedings conducted by officers of Authority
-Part: PART VII MISCELLANEOUS
+# 33. Appeal to Minister
+Part: PART 6A ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED INDIVIDUALS
 
-(1) Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
+(1) Where the Chief Executive has —
 
-(2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
+(a) refused to register an applicant as a registered filing agent, or to renew the registered filing agent’s registration, under section 31; or
 
-(a) appear in any civil proceedings involving the Authority or any Registrar in the performance of his functions or duties under any written law specified in the Second Schedule; and
+(b) refused to register an applicant as a registered qualified individual, or to renew his or her registration, under section 32, the Chief Executive must give the applicant written notice of the decision and the applicant may, within 30 days after being notified of the Chief Executive’s decision to refuse to register or to renew the registration, appeal to the Minister against that decision.
 
-(b) make and do all acts and applications in respect of such proceedings on behalf of the Authority or any Registrar.
+[18/2014]
 
-(3) In this section, ‘‘Registrar’’ means —
+(2) Where the Chief Executive has decided to take any action with respect to a registered filing agent under section 31(10), (13) or (14), or with respect to a registered qualified individual under section 32(10), (12), (13) or (14), the Chief Executive must give the registered filing agent or the registered qualified individual (as the case may be) written notice of the decision.
 
-(a) the Registrar of Public Accountants and any Deputy or Assistant Registrar of Public Accountants appointed under the Accountants Act (Cap. 2);
+[18/2014]
 
-(b) the Registrar of Businesses and any Deputy or Assistant Registrar of Businesses appointed under the Business Registration Act (Cap. 32);
+(3) Any —
 
-(c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50); and
+(a) registered filing agent who is aggrieved by any action taken by the Chief Executive under section 31(10), (13) or (14); or
 
-(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability 20 CAP. 2A Regulatory Authority 2005 Ed.
+(b) registered qualified individual who is aggrieved by any action taken by the Chief Executive under section 32(10), (12), (13) or (14), may, within 30 days after being notified of the decision under subsection (2), appeal to the Minister against the Chief Executive’s decision.
 
-Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
+[18/2014]
 
-[5/2005]
+(4) The Minister may determine an appeal under this section by confirming, varying or reversing the decision of the Chief Executive, and may impose any conditions for the variation or reversal of the Chief Executive’s decision that the Minister thinks fit.
+
+[18/2014]
+
+(5) The decision of the Minister in any appeal under this section is final.
+
+[18/2014]
+
+(6) For the purposes of this section and section 34, a reference to the Minister includes a reference to any Minister of State for his or her Ministry that is designated by the Minister to hear an appeal under this section in place of the Minister.
+
+[28H
+
+[18/2014]

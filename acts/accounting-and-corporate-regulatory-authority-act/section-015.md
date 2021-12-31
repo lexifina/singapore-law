@@ -1,7 +1,6 @@
-# 15. Bank accounts
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 2A Regulatory Authority 2005 Ed. PART V FINANCIAL PROVISIONS
+# 15. Annual estimates
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) The Authority shall open and maintain one or more accounts with such bank or banks as the Authority thinks fit.
+A summary of the annual estimates and supplementary estimates adopted by the Authority must be published in the Gazette.
 
-(2) Every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Authority.
+[16

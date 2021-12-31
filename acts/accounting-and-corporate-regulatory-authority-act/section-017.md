@@ -1,7 +1,6 @@
-# 17. Power of investment
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 2A Regulatory Authority 2005 Ed. PART V FINANCIAL PROVISIONS
+# 17. Grants-in-aids
+Part: PART 5 FINANCIAL PROVISIONS
 
-The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may make grants-in-aids to the Authority of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
 
-[45/2004]
+[18

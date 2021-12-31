@@ -1,6 +1,12 @@
-# 36. Composition of offences
-Part: PART VII MISCELLANEOUS
+# 36. Symbol or representation of Authority
+Part: PART 7 MISCELLANEOUS
 
-(1) The Chief Executive or any officer of the Authority who is authorised by the Chief Executive may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+(1) The Authority has the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+[18/2014]
+
+(2) Any person who uses a symbol or representation identical with that of the Authority, or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.
+
+[30
+
+[18/2014]

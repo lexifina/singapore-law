@@ -1,5 +1,12 @@
-# 18. Grants-in-aids
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 2A Regulatory Authority 2005 Ed. PART V FINANCIAL PROVISIONS
+# 18. Power to borrow
+Part: PART 5 FINANCIAL PROVISIONS
 
-For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may, from time to time, make grants-in-aids to the Authority of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
+For the discharge of its functions under this Act or any other written law, the Authority may raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+
+(a) mortgage, overdraft or otherwise;
+
+(b) charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or
+
+(c) the creation and issue of debentures or bonds.
+
+[19

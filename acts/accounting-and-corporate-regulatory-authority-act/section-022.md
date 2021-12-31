@@ -1,12 +1,16 @@
-# 22. Transfer to Authority of property, assets and liabilities
-Part: PART VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
+# 22. Transfer of employees
+Part: PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
-(1) As from 1st April 2004 —
+(1) As from 1 April 2004 —
 
-(a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Registry of Companies and Businesses and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Registry of Companies and Businesses; and
+(a) such individuals or categories of individuals as the Minister may determine who, immediately before that date, were employed by the Government in the Registry of Companies and Businesses; and
 
-(b) such movable and immovable property vested in the Public Accountants Board and all assets, interests, rights, privileges, liabilities and obligations of the Public Accountants Board, shall, without further assurance, act or deed, be transferred to and shall vest in the Authority.
+(b) every individual employed immediately before that date by the Public Accountants Board, are transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
-(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
+(2) If any question arises as to whether any individual or any category of individuals has been transferred to the service of the Authority under subsection (1), a certificate under the hand of the Minister is conclusive evidence that the individual or category of individuals was or was not so transferred.
 
-(3) Any immovable property to be transferred to and vested in the Authority under subsection (1) shall be held by the Authority upon such tenure and subject to such terms and conditions as the President may determine.
+(3) Until such time that terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government or in the Public Accountants Board (as the case may be) continue to apply to every individual transferred to the service of the Authority under subsection (1) as if he or she were still in the service of the Government or the Public Accountants Board, as the case may be.
+
+(4) Despite the provisions of the Pensions Act 1956, an individual who is transferred to the service of the Authority under this section is not entitled to claim any benefit under that Act on the ground that he or she has been retired from the public service on account of abolition or reorganisation of office in consequence of the establishment of the Authority.
+
+[23

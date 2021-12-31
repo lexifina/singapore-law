@@ -1,16 +1,14 @@
-# 23. Transfer of employees
-Part: PART VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
+# 23. Service rights, etc., of transferred employees to be preserved
+Part: PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
-(1) As from 1st April 2004 —
+(1) The terms and conditions to be drawn up by the Authority must take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the individual transferred to the service of the Authority under section 22 while in the employment of the Government or the Public Accountants Board, as the case may be.
 
-(a) such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Registry of Companies and Businesses; and
+(2) Any term or condition relating to the length of service with the Authority must recognise the length of service of the individual so transferred while in the employment of the Government or the Public Accountants Board (as the case may be) to be service with the Authority.
 
-(b) every person employed immediately before that date by the Public Accountants Board, 14 CAP. 2A Regulatory Authority 2005 Ed.
+(3) The terms and conditions of service to be drawn up by the Authority must not adversely affect the conditions that would have been applicable to individuals transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act 1956.
 
-shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+(4) Where an individual has been transferred to the service of the Authority under section 22, the Government is liable to pay to the Authority the portion of any pension, gratuity or allowance payable to the individual on his or her retirement as the same bears to the proportion which the aggregate amount of his or her pensionable emoluments during his or her service with the Government bears to the aggregate amount of his or her pensionable emoluments during his or her service under both the Government and the Authority.
 
-(2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Authority under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
+(5) Where any individual in the service of the Authority, whose case does not fall within the scope of any pension or other scheme established under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or her or to any other individual wholly or partly dependent on him or her, that the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
-(3) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government or in the Public Accountants Board, as the case may be, shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the service of the Government or the Public Accountants Board, as the case may be.
-
-(4) Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under this section shall be entitled to claim any benefit under that Act on the ground that he has been retired from the public service on account of abolition or reorganisation of office in consequence of the establishment of the Authority.
+[24

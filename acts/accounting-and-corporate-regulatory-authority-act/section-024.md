@@ -1,14 +1,8 @@
-# 24. Service rights, etc., of transferred employees to be preserved
-Part: PART VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
+# 24. Existing contracts
+Part: PART 6 TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
-(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 23 while in the employment of the Government or the Public Accountants Board, as the case may be.
+(1) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1 April 2004 to which the Government is a party and relating to the Registry of Companies and Businesses or to any individual transferred to the service of the Authority under section 22(1)(a) continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named in them or had been a party to them instead of the Government.
 
-(2) Any term or condition relating to the length of service with the Authority shall recognise the length of service of the persons so transferred while in the employment of the Government or the Public Accountants Board, as the case may be, to be service with the Authority.
+(2) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1 April 2004 to which the Public Accountants Board is a party continue in force on and after that date and are enforceable by or against the Authority as if the Authority had been named in them or had been a party to them instead of the Public Accountants Board.
 
-(3) Nothing in the terms and conditions of service to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority 2005 Ed. Regulatory Authority CAP. 2A 15
-
-as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
-
-(4) Where a person has been transferred to the service of the Authority under section 23, the Government shall be liable to pay to the Authority such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
-
-(5) Where any person in the service of the Authority, whose case does not fall within the scope of any pension or other scheme established under this section, retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
+[25

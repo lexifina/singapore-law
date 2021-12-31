@@ -1,10 +1,10 @@
 # 3. Establishment and incorporation of Accounting and Corporate Regulatory Authority
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-There is hereby established a body to be known as the Accounting and Corporate Regulatory Authority which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+A body called the Accounting and Corporate Regulatory Authority is established, which is a body corporate with perpetual succession and is by that name capable of —
 
 (a) suing and being sued;
 
 (b) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and
 
-(c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
+(c) doing and suffering any other acts or things that bodies corporate may lawfully do and suffer.

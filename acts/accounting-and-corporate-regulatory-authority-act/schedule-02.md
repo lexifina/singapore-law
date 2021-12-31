@@ -1,17 +1,17 @@
 # SECOND SCHEDULE
 
-Sections 6 (1), 31 (1), 33 (1) and (2), 34 (1) and (5) and 37
+Sections 2(2), 6(1), 12(2), 26, 39(1), 41(1) and (2), 42(1) and (5) and 45
 
-WRITTEN LAWS ADMINISTERED AND ENFORCED BY AUTHORITY
+WRITTEN LAWS ADMINISTERED AND ENFORCED BY AUTHORITY 1. Accountants Act 2004.
 
-1. Accountants Act (Cap. 2).
+2. Business Names Registration Act 2014.
 
-2. Business Registration Act (Cap. 32).
+3. Companies Act 1967.
 
-3. Companies Act (Cap. 50).
+4. Limited Liability Partnerships Act 2005.
 
-4. Trust Companies Act (Cap. 336).
+5. Limited Partnerships Act 2008.
 
-5. Limited Liability Partnerships Act (Act 5 of 2005).
+6. All Parts of the Variable Capital Companies Act 2018, other than Part 7.
 
-[5/2005]
+[29/2014; 40/2018; 44/2018; S 253/2009]

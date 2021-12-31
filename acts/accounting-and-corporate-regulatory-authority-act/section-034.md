@@ -1,30 +1,38 @@
-# 34. Preservation of secrecy
-Part: PART VII MISCELLANEOUS
+# 34. Interest for non-payment and recovery of financial penalty
+Part: PART 6A ELECTRONIC TRANSACTION SYSTEM, REGISTERED FILING AGENTS AND REGISTERED QUALIFIED INDIVIDUALS
 
-(1) No person who is or has been —
+(1) A registered filing agent or a registered qualified individual who fails to pay any amount of a financial penalty imposed by the Chief Executive under section 31 or 32 (as the case may be), or by the Minister on an appeal under section 33 —
 
-(a) a member, an officer, an employee or an agent of the Authority; or
+(a) in the case of a registered filing agent —
 
-(b) a member of a committee of the Authority, shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions unless such disclosure is made —
+(i) within the period specified for payment by the Chief Executive under section 31(13)(d); or
 
-(i) with the permission of the person from whom the information was obtained or, where the information is the confidential information of a third person, with the permission of that third person;
+(ii) where there is an appeal to the Minister under section 33, within the time specified for payment by the Minister; and
 
-(ii) for the purpose of the administration or enforcement of this Act or any written law specified in the Second Schedule;
+(b) in the case of a registered qualified individual —
 
-(iii) in compliance with the requirement of any court or the provisions of any written law; or
+(i) within the period specified for payment by the Chief Executive under section 32(12)(d); or
 
-(iv) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law.
+(ii) where there is an appeal to the Minister under section 33, within the time specified for payment by the Minister, is liable to pay interest at the same rate as for a judgment debt on the unpaid amount.
 
-(2) No person who is or has been —
+[18/2014]
 
-(a) a member, an officer, an employee or an agent of the Authority; or
+(2) The liability of a registered filing agent or a registered qualified individual to pay a financial penalty and any interest on the financial penalty under this Part is not affected by the registered filing agent or registered qualified individual (as the case may be) ceasing to be registered as such.
 
-(b) a member of a committee of the Authority, shall, for his own personal benefit or for the personal benefit of any other person, make use of any information, whether directly or indirectly, which has been obtained by him in the performance of his duties or the exercise of his functions.
+[18/2014]
 
-(3) For the purpose of this section, the reference to a person disclosing or making use of any information includes his permitting any other person to have any access to any record, document or other thing which is in his possession or under his control by virtue of his being or having been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority.
+(3) In any proceeding for the recovery of any financial penalty under this Part —
 
-2005 Ed. Regulatory Authority CAP. 2A 21
+(a) a certificate purporting to be under the hand of the Chief Executive certifying the amount of the financial penalty that is imposed, and the period specified for payment, by the Chief Executive under section 31(13)(d) or 32(12)(d);
 
-(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+and
 
-(5) The provisions of this section are in addition to, and not in derogation of, any provision in any written law specified in the Second Schedule that regulates or restricts the disclosure of information by any member, officer, employee, agent or member of a committee of the Authority.
+(b) where there is an appeal to the Minister under section 33, a certificate purporting to be under the hand of the Minister certifying the amount of financial penalty that is imposed, and the period specified for payment, by the Minister on an appeal under section 33(4), is prima facie evidence of the facts stated in the certificate.
+
+[18/2014]
+
+(4) The Minister, or an officer authorised by the Minister in that behalf, may waive, remit or refund in whole or in part any financial penalty imposed or interest on the penalty.
+
+[28I
+
+[18/2014]

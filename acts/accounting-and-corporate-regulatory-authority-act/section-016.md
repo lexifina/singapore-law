@@ -1,13 +1,6 @@
-# 16. Annual estimates
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 2A Regulatory Authority 2005 Ed. PART V FINANCIAL PROVISIONS
+# 16. Power of investment
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) The Authority shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Authority for the ensuing financial year.
+The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
 
-(2) Supplementary estimates may be adopted by the Authority at any of its meetings.
-
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Authority, be sent as soon as possible to the Minister.
-
-(4) A summary of the annual estimates and supplementary estimates adopted by the Authority shall be published in the Gazette.
-
-12 CAP. 2A Regulatory Authority 2005 Ed.
+[17

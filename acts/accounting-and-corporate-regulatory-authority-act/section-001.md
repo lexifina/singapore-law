@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Accounting and Corporate Regulatory Authority Act.
+This Act is the Accounting and Corporate Regulatory Authority Act 2004.

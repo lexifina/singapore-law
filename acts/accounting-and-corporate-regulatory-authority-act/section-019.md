@@ -1,11 +1,6 @@
-# 19. Power to borrow
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 2A Regulatory Authority 2005 Ed. PART V FINANCIAL PROVISIONS
+# 19. Issue of shares, etc.
+Part: PART 5 FINANCIAL PROVISIONS
 
-For the discharge of its functions under this Act or any other written law, the Authority may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority must issue such shares or other securities to the Minister for Finance as that Minister may direct.
 
-(a) mortgage, overdraft or otherwise;
-
-(b) charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or
-
-(c) the creation and issue of debentures or bonds.
+[20

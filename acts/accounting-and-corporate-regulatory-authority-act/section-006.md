@@ -1,9 +1,7 @@
 # 6. Functions of Authority
-Part: PART III FUNCTIONS AND POWERS OF AUTHORITY
+Part: PART 3 FUNCTIONS AND POWERS OF AUTHORITY
 
-(1) Subject to the provisions of this Act, the functions of the Authority shall be —
-
-6 CAP. 2A Regulatory Authority 2005 Ed.
+(1) Subject to the provisions of this Act, the functions of the Authority are —
 
 (a) to administer the written laws specified in the Second Schedule;
 
@@ -17,10 +15,12 @@ Part: PART III FUNCTIONS AND POWERS OF AUTHORITY
 
 (f) to provide a responsive and forward-looking regulatory environment for business entities and public accountants conducive to enterprise in Singapore; and
 
-(g) to carry out such other functions as may be conferred on the Authority by this Act or any other written law.
+(g) to carry out any other functions conferred on the Authority by this Act or any other written law.
 
-(2) The Authority may undertake such other functions as the Minister may from time to time, by notification in the Gazette, assign to the Authority and in so doing, the Authority shall be deemed to be fulfilling the purposes of this Act, and the provisions of this Act shall apply to the Authority in respect of such functions.
+(2) The Authority may undertake any other functions that the Minister may, by notification in the Gazette, assign to the Authority and in so doing, the Authority is deemed to be fulfilling the purposes of this Act, and the provisions of this Act apply to the Authority in respect of such functions.
 
-(3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
+(3) Nothing in this section is to be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
 
-(4) In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations.
+(4) In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations providing public accountancy services.
+
+[5/2013]
