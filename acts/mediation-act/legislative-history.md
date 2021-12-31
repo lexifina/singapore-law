@@ -1,0 +1,9 @@
+# LEGISLATIVE HISTORY MEDIATION ACT 2017
+
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
+
+1. Act 1 of 2017 — Mediation Act 2017 Bill : 37/2016 First Reading : 7 November 2016 Second and Third Readings : 10 January 2017 Commencement : 1 November 2017 (except section 16) 2. Act 4 of 2020 — Singapore Convention on Mediation Act 2020 (Amendments made by section 12 of the above Act) Bill : 5/2020 First Reading : 6 January 2020 Second Reading : 3 February 2020 Third Reading : 4 February 2020 Commencement : 12 September 2020 (section 12) 3. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 95 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 95 of the Schedule) 4. Act 4 of 2021 — Statute Law Reform Act 2021 (Amendments made by section 16(4) of the above Act) Bill : 45/2020 First Reading : 3 November 2020 Second and Third Readings : 5 January 2021 Commencement : 1 March 2021 (section 16(4))
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
