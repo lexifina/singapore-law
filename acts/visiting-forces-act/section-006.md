@@ -13,7 +13,7 @@ Part: PART 2 VISITING FORCES
 
 (3) Where any sentence has, whether within or outside Singapore, been passed by a service court of a country to which this section applies upon a person who immediately before the sentence was passed was subject to the jurisdiction of that court in accordance with this section, then for the purposes of any proceedings in a court of Singapore that service court shall be deemed to have been properly constituted, and the sentence shall be deemed to be within the jurisdiction of that court and in accordance with the law of that country, and if executed according to the tenor of the sentence shall be deemed to have been lawfully executed.
 
-(4) Notwithstanding anything in subsections (1) to (3), a sentence of death passed by a service court of a country to which this section applies shall not be carried out in Singapore unless under the law of Singapore a sentence of death could have been passed in a similar case.
+(4) Notwithstanding anything in subsections (1), (2) and (3), a sentence of death passed by a service court of a country to which this section applies shall not be carried out in Singapore unless under the law of Singapore a sentence of death could have been passed in a similar case.
 
 (5) Any person who —
 

@@ -7,11 +7,7 @@ Part: PART 1 PRELIMINARY
 
 (b) that the passport contains an uncancelled entry made by or on behalf of the appropriate authority of the sending country stating that he is a member of a civilian component of a visiting force of that country;
 
-(c) that the passport contains a note of recognition of that entry by or on behalf of the Minister for the time being charged with
-
-1 See L.N. 202 of 1960 and L.N. 231 of 1963.
-
-responsibility for immigration which has not been cancelled and as respects which no notification in writing has been given by or on behalf of that Minister to the appropriate authority of the sending country stating that the recognition is withdrawn.
+(c) that the passport contains a note of recognition of that entry by or on behalf of the Minister for the time being charged with responsibility for immigration which has not been cancelled and as respects which no notification in writing has been given by or on behalf of that Minister to the appropriate authority of the sending country stating that the recognition is withdrawn.
 
 (2) The reference in subsection (1)(c) to a note of recognition of an entry in a passport is a reference to any mark or indication made in the passport by or on behalf of the Minister for the time being charged with responsibility for immigration signifying that the entry has been noted and approved.
 

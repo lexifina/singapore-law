@@ -1,4 +1,4 @@
 # 1. Short title
 Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Visiting Forces Act.
+This Act is the Visiting Forces Act 1960.

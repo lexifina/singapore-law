@@ -17,7 +17,7 @@ Part: PART 2 VISITING FORCES
 
 (b) an entry in a passport containing such a statement as is mentioned in section 4(1)(b) and purporting to be made by or on behalf of the appropriate authority of the sending country shall, unless the contrary is proved, be deemed to have been so made;
 
-(c) a mark or indication in a passport purporting to be made by or on behalf of the Minister shall, unless the contrary is proved be deemed to have been so made.
+(c) a mark or indication in a passport purporting to be made by or on behalf of the Minister shall, unless the contrary is proved, be deemed to have been so made.
 
 (4) For the purposes of this Part, the production of an uncancelled entry made by or on behalf of the appropriate authority of the sending country in a document purporting to be a passport issued by a government (other than Singapore) stating that the person mentioned in such document (not being a citizen of Singapore or ordinarily resident in Singapore) is a dependant of a member of a visiting force of that country or of a civilian component of that force shall in any proceedings in any court of Singapore be sufficient evidence of the fact so stated unless the contrary is proved.
 
