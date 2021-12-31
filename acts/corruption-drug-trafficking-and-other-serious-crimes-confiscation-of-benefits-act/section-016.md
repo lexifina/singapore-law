@@ -1,49 +1,30 @@
-# 16. Restraint orders
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 16. Protection of rights of third party 1
+Part: PART 2 CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT
 
-(1) The High Court may make a restraint order to prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.
+(1) Where an application is made for a confiscation order under section 6 or 7, a person who asserts an interest in the property may apply to the court, before the confiscation order is made, for an order under subsection (2).
 
-(2) A restraint order may apply —
+(2) If a person applies to the court for an order under this subsection in respect of the person’s interest in property and the court is satisfied —
 
-(a) to all realisable property held by a specified person, whether the property is described in the order or not; and
+(a) that the person was not in any way involved in the defendant’s drug dealing or criminal conduct, as the case may be; and
 
-(b) to all realisable property held by a specified person, being property transferred to him after the making of the order.
+(b) that the person acquired the interest —
 
-(3) This section shall not have effect in relation to any property for the time being subject to a charge under section 17.
+(i) for sufficient consideration; and
 
-(4) A restraint order —
+(ii) without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time the person acquired it, property that was involved in or derived from drug dealing or criminal conduct, as the case may be, the court is to make an order declaring the nature, extent and value (as at the time the order is made) of the person’s interest.
 
-(a) may be made only on an application by the Public Prosecutor;
+[21/2014]
 
-(b) may be made on an ex parte application to a Judge in chambers; and
+(3) Subject to subsection (4), where a confiscation order has already been made, a person who asserts an interest in the property may apply under this subsection to the court for an order under subsection (2).
 
-(c) shall provide for notice to be given to persons affected by the order.
+(4) A person who —
 
-(5) A restraint order —
+(a) had knowledge of the application under section 6 or 7 for the confiscation order before the order was made; or
 
-(a) may be discharged or varied in relation to any property; and
+(b) appeared at the hearing of that application, must not be permitted to make an application under subsection (3) except with the leave of the court.
 
-(b) shall be discharged when proceedings for the drug trafficking offence or serious offence, as the case may be, are concluded.
+(5) A person who makes an application under subsection (1) or (3) must give at least 7 days’ written notice of the making of the application to the Public Prosecutor who must be a party to any proceedings on the application.
 
-[25/99]
+[13
 
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 25
-
-(6) Where the High Court has made a restraint order, the Court may at any time appoint the Public Trustee or any person as receiver —
-
-(a) to take possession of any realisable property; and
-
-(b) in accordance with the directions of the Court, to manage or otherwise deal with any property in respect of which he is appointed, subject to such exceptions and conditions as may be specified by the Court; and may require any person having possession of property in respect of which the receiver is appointed under this section to give possession of it to the Public Trustee or such receiver.
-
-(7) For the purposes of this section, dealing with property held by any person includes (without prejudice to the generality of the expression) —
-
-(a) where a debt is owed to that person, making a payment to any person in reduction of the amount of the debt; and
-
-(b) removing the property from Singapore.
-
-(8) Where the High Court has made a restraint order, an authorised officer may, for the purpose of preventing any realisable property being removed from Singapore, seize the property.
-
-(9) Property seized under subsection (8) shall be dealt with in accordance with the directions of the High Court.
-
-[12
+[15/2010]

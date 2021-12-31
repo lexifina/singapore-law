@@ -1,39 +1,46 @@
-# 35. Supplementary provisions to sections 30, 32 and 34
-Part: PART V INFORMATION GATHERING POWERS Division 1 — Production orders
-Division: Division 2 — Search powers
+# 35. Modified application of Parts 2, 3 and 4
+Part: PART 4A CONFISCATION OF PROPERTY OF CORRESPONDING VALUE TO INSTRUMENTALITIES
 
-(1) An authorised officer may photograph or make copies of any material —
+(1) The provisions of Parts 2, 3 and 4 apply in relation to, and for the purpose of enabling the satisfaction of, a substitute property confiscation order as they apply in relation to, and for the purpose of enabling the satisfaction of, a confiscation order, subject to —
 
-(a) produced or to which access is given under section 30; or
+(a) the following modifications:
 
-(b) seized under section 34.
+(i) a reference in section 6(2) or 7(2) to a court being satisfied that a defendant has derived benefits from drug dealing or from criminal conduct is to be read as a reference to a court being satisfied that the defendant had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
 
-(2) In sections 30, 32 and 34 —
+(ii) a reference in section 6(2) or 7(2) to a determination in accordance with section 13 of the amount to be recovered by virtue of section 6 or 7 is to be read as a reference to a determination in accordance with sections 13 and 34(3) and (4) of the amount to be recovered by virtue of section 34;
 
-‘‘court’’ means the High Court and the District Court;
+(iii) the reference in section 12(1) to a determination of whether benefits have been derived by a defendant from drug dealing or from criminal conduct is to be read as a reference to a determination of whether the defendant had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
 
-‘‘items subject to legal privilege’’ means —
+(iv) a reference in section 12(1) or 13(3) or (7) to an assessment of the value of benefits derived by a defendant from drug dealing or from criminal conduct is to be read as a reference to an assessment of the value of the instrumentality in accordance with section 34(3) and (4);
 
-(a) communications between an advocate and solicitor and his client or any person representing his client made in connection with the giving of legal advice to the client;
+(v) the reference in section 12(6) to an acceptance by a defendant that benefits have been derived by the defendant from drug dealing or from criminal conduct is to be read as a reference to an acceptance by the defendant that the defendant had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
 
-(b) communications between an advocate and solicitor and his client or any person representing his client or between such an advocate and solicitor or his client or any such representative and any other person made in connection with or in contemplation of legal proceedings and for the purposes of such proceedings;
+(vi) each reference in section 17 to an order to pay an amount under section 6 or 7 is to be read as a reference to an order to pay an amount under a substitute property confiscation order;
 
-and
+(vii) a reference in section 18(1) or (2) to the General Division of the High Court being satisfied that there is reasonable cause to believe that benefits have been derived by a person from drug dealing or from criminal conduct is to be read as a reference to the General Division of the High Court being satisfied that there is reasonable cause to believe that the person had used or intended to use any property for the commission of the drug dealing offence or serious offence in question;
 
-(c) items enclosed with or referred to in such communi- cations and made —
+(viii) the reference in section 20(1)(a) to a confiscation order is to be read as a reference to a substitute property confiscation order; and
 
-(i) in connection with the giving of legal advice; or
+(b) such other modifications as may be prescribed for the purposes of this subsection.
 
-(ii) in connection with or in contemplation of legal proceedings and for the purposes of such proceedings, when they are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communi- cations or item held with the intention of furthering a criminal purpose;
+[21/2014; 40/2019]
 
-‘‘premises’’ includes any place and, in particular, includes —
+(2) Where both a confiscation order and a substitute property confiscation order are made against a defendant in relation to the same drug dealing offence or serious offence, then —
 
-(a) any vehicle, vessel, aircraft, hovercraft or offshore structure; and
+(a) a reference in section 20(1)(b) or 23(2) to the amount payable under a confiscation order is to be read as a reference to the total amount payable under both orders;
 
-(b) any tent or movable structure.
+(b) a reference in section 23(1) or 24(2) or (6) to the satisfaction of a confiscation order is to be read as a reference to the satisfaction of both orders; and
 
-[23
+(c) each reference in section 25 to the amount to be recovered under a confiscation order is to be read as a reference to the amount to be recovered under either order or both orders, as the case may be.
 
-[12/2000]
+[21/2014]
 
-and Other Serious Crimes 46 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(3) In this section, a reference to Parts 2, 3 and 4 —
+
+(a) includes a reference to section 2, insofar as that section applies to the interpretation of the provisions of those Parts; but
+
+(b) excludes any reference to sections 6(1), (6), (7), (8) and (10), 7(1), (6), (7) and (8), 10, 11, 13(1), 16 and 31(4), (5), (6), (7) and (9), and all other provisions that are rendered inapplicable by regulations made for the purpose of subsection (1)(b).
+
+[29C
+
+[21/2014]

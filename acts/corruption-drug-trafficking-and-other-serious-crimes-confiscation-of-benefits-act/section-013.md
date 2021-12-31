@@ -1,34 +1,26 @@
-# 13. Protection of rights of third party
-Part: PART II CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT
+# 13. Amount to be recovered under confiscation order
+Part: PART 2 CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT
 
-(1) Where an application is made for a confiscation order under section 4 or 5, a person who asserts an interest in the property may apply to the court, before the confiscation order is made, for an order under subsection (2).
+(1) Subject to subsection (3), the amount to be recovered from the defendant under the confiscation order is the amount the court assesses to be the value of the benefits derived by the defendant from drug dealing or from criminal conduct, as the case may be.
 
-[25/99]
+[21/2014]
 
-(2) If a person applies to the court for an order under this subsection in respect of his interest in property and the court is satisfied —
+(2) If the court is satisfied as to any matter relevant for determining the amount that might be realised at the time the confiscation order is made (whether by an acceptance under section 12 or otherwise), the court may issue a certificate giving its opinion as to the matters concerned and is to do so if satisfied as mentioned in subsection (3).
 
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 21
+(3) If the court is satisfied that the amount that might be realised at the time the confiscation order is made is less than the amount the court assesses to be the value of the benefits derived by the defendant from drug dealing or from criminal conduct (as the case may be) the amount to be recovered from the defendant under the confiscation order is the amount appearing to the court to be the amount that might be so realised.
 
-(a) that he was not in any way involved in the defendant’s drug trafficking or criminal conduct, as the case may be; and
+[21/2014]
 
-(b) that he acquired the interest —
+(4) If, on an application made in accordance with subsection (5), the court is satisfied that the amount that might be realised in the case of the person in question is greater than the amount taken into account in making the confiscation order (whether it was greater than was thought when the order was made or has subsequently increased), the court is to issue a certificate to that effect, giving its reasons.
 
-(i) for sufficient consideration; and
+(5) An application under subsection (4) may be made either by the Public Prosecutor or by a receiver appointed under section 19 or 22 in relation to the realisable property of the person in question.
 
-(ii) without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time he acquired it, property that was involved in or derived from drug trafficking or criminal conduct, as the case may be, the court shall make an order declaring the nature, extent and value (as at the time the order is made) of his interest.
+(6) Where a certificate has been issued under subsection (4), the Public Prosecutor may apply to the court for an increase in the amount to be recovered under the confiscation order.
 
-[25/99]
+(7) On an application mentioned in subsection (6), the court may —
 
-(3) Subject to subsection (4), where a confiscation order has already been made, a person who asserts an interest in the property may apply under this subsection to the court for an order under subsection (2).
+(a) substitute for that amount such amount (not exceeding the amount assessed as the value mentioned in subsection (1)) as appears to the court to be appropriate having regard to the amount now shown to be realisable; and
 
-(4) A person who —
+(b) increase the term of imprisonment fixed in respect of the confiscation order under section 17(1) if the effect of the substitution is to increase the maximum period applicable in relation to the order under section 17(1).
 
-(a) had knowledge of the application under section 4 or 5 for the confiscation order before the order was made; or
-
-(b) appeared at the hearing of that application, shall not be permitted to make an application under subsection (3) except with the leave of the court.
-
-[25/99]
-
-(5) A person who makes an application under subsection (1) or (3) shall give not less than 7 days’ written notice of the making of the application to the Attorney-General who shall be a party to any proceedings on the application.
-
-[9
+[10

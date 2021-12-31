@@ -1,40 +1,33 @@
-# 47. Concealing or transferring benefits of criminal conduct
-Part: PART VI OFFENCES
+# 47. Information and identity of informers not to be disclosed
+Part: PART 5 INFORMATION GATHERING POWERS Division 1 — Production orders
+Division: Division 3 — Record-keeping and suspicious transaction reports
 
-(1) Any person who —
+(1) Except as provided in subsection (3) —
 
-(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, his benefits from criminal conduct; or
+(a) information disclosed by an informer must not be admitted in evidence in any civil or criminal proceedings; and
 
-and Other Serious Crimes 60 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(b) no witness in any civil or criminal proceedings is obliged —
 
-(b) converts or transfers that property or removes it from the jurisdiction, shall be guilty of an offence.
+(i) to disclose the name and address of any informer; or
 
-[25/99]
+(ii) to answer any question if the answer thereto would lead, or would tend to lead, to the discovery of the name or address of the informer.
 
-(2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
+[44/2007]
 
-(a) conceals or disguises that property; or
+(2) If any book, document or paper which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to the informer’s discovery, the court is to cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
 
-(b) converts or transfers that property or removes it from the jurisdiction, for the purpose of assisting any person to avoid prosecution for a serious offence or a foreign serious offence or the making or enforce- ment of a confiscation order shall be guilty of an offence.
+[44/2007]
 
-[25/99]
+(3) If a court —
 
-(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property for no or inadequate consideration, shall be guilty of an offence.
+(a) in any proceedings before it for an offence under any written law, after full inquiry into the case, is satisfied that an informer wilfully made a material statement which the informer knew or believed to be false or did not believe to be true; or
 
-[25/99]
+(b) in any other proceedings, is of the opinion that justice cannot be fully done between the parties to the proceedings without the disclosure of the name of an informer, the court may permit inquiry and require full disclosure concerning the informer.
 
-(4) In subsections (1) (a) and (2) (a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
+[44/2007]
 
-[25/99]
+(4) In this section, “informer” means a person who makes a disclosure pursuant to a requirement under section 5(3) or pursuant to section 45(1).
 
-(5) For the purposes of subsection (3), consideration given for any property is inadequate if its value is significantly less than the market value of that property, and there shall not be treated as consideration the provision for any person of services or goods which are of assistance to him in criminal conduct.
+[40A
 
-[25/99]
-
-(6) Any person who commits an offence under this section shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 7 years or to both.
-
-[43A
-
-[25/99]
-
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 61
+[44/2007; 21/2014]

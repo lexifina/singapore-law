@@ -1,7 +1,8 @@
-# 64. Regulations
-Part: PART VII MISCELLANEOUS
-Heading: 4 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 64. Confiscation orders for offences under section 60 or 62
+Part: PART 6A CROSS BORDER MOVEMENTS OF PHYSICAL CURRENCY AND BEARER NEGOTIABLE INSTRUMENTS
 
-The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and generally for carrying out the purposes and provisions of this Act.
+Where a defendant is convicted of an offence under section 60(2) or 62(2), the court may, on the application of the Public Prosecutor, make a confiscation order against the defendant in respect of any part of the cash, in relation to which the offence was committed, that exceeds the prescribed amount (or its equivalent in a foreign currency).
 
-[59
+[48FA
+
+[51/2018]

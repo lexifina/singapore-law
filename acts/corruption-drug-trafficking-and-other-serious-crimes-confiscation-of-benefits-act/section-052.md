@@ -1,24 +1,52 @@
-# 52. Conduct by directors, employees or agents
-Part: PART VII MISCELLANEOUS
+# 52. Restriction on revealing disclosure under sections 50 and 51
+Part: PART 6 OFFENCES
 
-(1) Where it is necessary, for the purposes of this Act, to establish the state of mind of a body corporate in respect of conduct engaged in, or deemed by subsection (2) to have been engaged in, by the body corporate, it shall be sufficient to show that a director, employee or agent of the body corporate, being a director, employee or agent by whom the conduct was engaged in within the scope of his actual or apparent authority, had that state of mind.
+(1) Subject to subsection (2), no witness in any civil or criminal proceedings is obliged —
 
-(2) Any conduct engaged in or on behalf of a body corporate —
+(a) to reveal that a disclosure was made under section 50(3) or 51(3);
 
-(a) by a director, employee or agent of the body corporate within the scope of his actual or apparent authority; or
+(b) to reveal the identity of any person as the person making the disclosure; or
 
-(b) by any other person at the direction or with the consent or agreement (whether express or implied) of a director, employee or agent of the body corporate, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the director, employee or agent, shall be deemed, for the purposes of this Act, to have been engaged in by the body corporate.
+(c) to answer any question if the answer would lead, or would tend to lead, to the revealing of any fact or matter referred to in paragraph (a) or (b).
 
-(3) Where it is necessary, for the purposes of this Act, to establish the state of mind of a person in relation to conduct deemed by subsection (4) to have been engaged in by the person, it shall be sufficient to show that an employee or agent of the person, being an employee or agent by whom the conduct was engaged in within the scope of his actual or apparent authority, had that state of mind.
+(2) Subsection (1) does not apply in any proceedings —
 
-(4) Conduct engaged in or on behalf of a person other than a body corporate —
+(a) for an offence under section 50 or 51 or this section; or
 
-(a) by an employee or agent of the person within the scope of his actual or apparent authority; or
+(b) where the court is of the opinion that justice cannot fully be done between the parties without revealing the disclosure or the identity of any person as the person making the disclosure.
 
-(b) by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent, shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person.
+(3) Subject to subsections (4), (5) and (6), a person must not publish or broadcast any information so as to reveal or suggest —
 
-and Other Serious Crimes 66 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(a) that a disclosure was made under section 50(3) or 51(3); or
 
-(5) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the person’s intention, opinion, belief or purpose.
+(b) the identity of any person as the person making the disclosure.
 
-[47
+(4) In subsection (3), “information” —
+
+(a) includes a report of any civil or criminal proceedings; and
+
+(b) does not include information published for statistical purposes by, or under the authority of, the Government.
+
+(5) Subsection (3) does not apply in respect of proceedings —
+
+(a) against the person making the disclosure for an offence under section 50 or 51; or
+
+(b) for an offence under this section.
+
+(6) The court may, if satisfied that it is in the interests of justice to do so, by order dispense with the requirements of subsection (3) to such extent as may be specified in the order.
+
+(7) If information is published or broadcast in contravention of subsection (3), each of the following persons:
+
+(a) in the case of publication as part of a newspaper or periodical publication — any proprietor, editor, publisher and distributor thereof;
+
+(b) in the case of a publication otherwise than as part of a newspaper or periodical publication — any person who publishes it and any person who distributes it;
+
+(c) in the case of a broadcast — any person who broadcasts the information and, if the information is contained in a programme, any person who transmits or provides the programme and any person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(8) In this section —
+
+“broadcast” includes broadcast by radio, film, videotape or television;
+
+“publish” means publish in writing.
+
+[45

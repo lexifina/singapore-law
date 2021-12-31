@@ -1,40 +1,27 @@
-# 41. Communication of information to foreign authority
-Part: PART V INFORMATION GATHERING POWERS Division 1 — Production orders
-Division: Division 3 — Obligations of financial institutions
-Heading: 2000 Ed. (Confiscation of Benefits) CAP. 65A 3
+# 41. Supplementary provisions to sections 36, 38 and 40
+Part: PART 5 INFORMATION GATHERING POWERS Division 1 — Production orders
+Division: Division 2 — Search powers
 
-(1) Notwithstanding section 56 or any other written law or rule of law, a Suspicious Transaction Reporting Officer may commu- nicate any thing disclosed to him or any authorised officer under section 39 (1) to a corresponding authority of a foreign country if the conditions specified in subsection (2) are satisfied.
+(1) An authorised officer may photograph or make copies of any material —
 
-[12/2000]
+(a) produced or to which access is given under section 36; or
 
-(2) The conditions referred to in subsection (1) are as follows:
+(b) seized under section 40.
 
-(a) there exists an arrangement under which the corresponding authority of the foreign country has agreed to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to and Other Serious Crimes 50 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(2) In sections 36, 38 and 40 —
 
-any thing required to be disclosed to an authorised officer under section 39 (1);
+“court” means the General Division of the High Court and the District Court;
 
-(b) the Suspicious Transaction Reporting Officer is satisfied that the corresponding authority has given appropriate under- takings —
+“premises” includes any place and, in particular, includes —
 
-(i) for protecting the confidentiality of any thing com- municated to it; and
+(a) any vehicle, vessel, aircraft, hovercraft or offshore structure; and
 
-(ii) for controlling the use that will be made of it, including an undertaking that it will not be used as evidence in any proceedings; and
+(b) any tent or movable structure.
 
-(c) such other conditions as the Minister may prescribe.
+[35
 
-[12/2000]
+[21/2014; 40/2019]
 
-(3) In this section —
+Division 3 — Record-keeping and suspicious transaction reports
 
-‘‘corresponding authority’’, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 39 (1);
-
-‘‘Suspicious Transaction Reporting Officer’’ means an authorised officer —
-
-(a) who has been appointed by the Minister as a Suspicious Transaction Reporting Officer for the purposes of this section; and
-
-(b) who had his appointment as a Suspicious Transaction Reporting Officer published in the Gazette.
-
-[39A
-
-[12/2000]
-
-Division 4 — Disclosure of information held by public bodies
+[44/2007]

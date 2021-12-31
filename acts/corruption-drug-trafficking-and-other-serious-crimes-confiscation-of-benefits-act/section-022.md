@@ -1,23 +1,54 @@
-# 22. Variation of confiscation orders
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 22. Realisation of property
+Part: PART 3 ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
-(1) If, on an application by the defendant in respect of a confiscation order, the High Court is satisfied that the realisable property is inadequate for the payment of any amount remaining to be recovered under the order, the Court shall issue a certificate to that effect, giving its reasons.
+(1) Where —
 
-(2) For the purposes of subsection (1) —
+(a) a confiscation order is made in proceedings instituted for a drug dealing offence or a serious offence, as the case may be;
 
-(a) in the case of realisable property held by a person who has been adjudged bankrupt or whose estate has been sequestrated, the High Court shall take into account the extent to which any property held by him may be distributed among creditors; and
+(b) the order is not subject to appeal; and
 
-(b) the High Court may disregard any inadequacy in the realisable property which appears to the Court to be attributable, wholly or partly, to anything done by the defendant for the purpose of preserving any property held by a person to whom the defendant had, directly or indirectly, made a gift caught by this Act from any risk of realisation under this Act.
+(c) the proceedings have not been concluded, the General Division of the High Court may, on an application of the Public Prosecutor, exercise the powers conferred by subsections (3) to (7).
 
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 31
+[21/2014; 40/2019]
 
-(3) Where a certificate has been issued under subsection (1), the defendant may apply to the High Court which made the confiscation order for the amount to be recovered under the order to be reduced.
+(2) The General Division of the High Court may, on the application of the Public Prosecutor, also exercise the powers conferred by subsections (3) to (7) where —
 
-(4) The High Court which made the confiscation order shall, on an application under subsection (3) —
+(a) a confiscation order is made against a person who is, by reason of section 29, taken to be convicted of a drug dealing offence or a serious offence, as the case may be;
 
-(a) substitute for the amount to be recovered under the order such lesser amount as the High Court thinks just in all the circumstances of the case; and
+(b) the order is not subject to appeal; and
 
-(b) substitute for the term of imprisonment fixed under section 224 of the Criminal Procedure Code (Cap. 68) in respect of the amount to be recovered under the order a shorter term determined in accordance with that section (as it has effect by virtue of section 14) in respect of the lesser amount.
+(c) the order has not been satisfied, whether by payment of the amount due under the order or by the defendant serving imprisonment by default.
 
-[18
+[21/2014; 40/2019]
+
+(3) The General Division of the High Court may appoint the Public Trustee or any person as receiver in respect of realisable property.
+
+[40/2019]
+
+(4) The General Division of the High Court may empower the Public Trustee or any receiver appointed under subsection (3) or section 19 or pursuant to a charging order —
+
+(a) to enforce any charge imposed under section 20 on realisable property or on interest or dividends payable in respect of such property; and
+
+(b) in relation to any realisable property other than property for the time being subject to a charge under section 20, to take possession of the property subject to such conditions or exceptions as may be specified by the General Division of the High Court.
+
+[40/2019]
+
+(5) The General Division of the High Court may order any person having possession of realisable property to give possession of it to the Public Trustee or any receiver.
+
+[40/2019]
+
+(6) The General Division of the High Court may empower the Public Trustee or any receiver to realise any realisable property in such manner as the General Division of the High Court may direct.
+
+[40/2019]
+
+(7) The General Division of the High Court may order any person holding an interest in realisable property to make such payment to the Public Trustee or any receiver in respect of any beneficial interest held by the defendant or (as the case may be) the recipient of a gift caught by this Act as the General Division of the High Court may direct and the General Division of the High Court may, on the payment being made, by order transfer, grant or extinguish any interest in the property.
+
+[40/2019]
+
+(8) Subsections (5) to (7) do not apply to property for the time being subject to a charge under section 20.
+
+(9) The General Division of the High Court is not to, in respect of any property, exercise the powers conferred by subsection (4)(a), (6) or (7) unless a reasonable opportunity has been given for persons holding any interest in the property to make representations to the General Division of the High Court.
+
+[19
+
+[40/2019]

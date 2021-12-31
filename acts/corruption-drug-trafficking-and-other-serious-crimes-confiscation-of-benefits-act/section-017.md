@@ -1,57 +1,38 @@
-# 17. Charging orders in respect of land, securities, etc.
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 17. Application of procedure for enforcing fines
+Part: PART 3 ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
-(1) The High Court may make a charging order on realisable property for securing the payment to the Government —
+(1) Subject to subsection (4), where a court orders the defendant to pay any amount under section 6 or 7, section 319 of the Criminal Procedure Code 2010 has effect as if —
 
-(a) where a confiscation order has not been made, of an amount equal to the value from time to time of the property charged;
+(a) that amount were a fine imposed on the defendant by the court; and
 
-and
+(b) the term for which the court directs the defendant to be imprisoned in default of payment of any amount under section 6 or 7 is as follows:
 
-(b) in any other case, of an amount not exceeding the amount payable under the confiscation order.
+(i) if the amount does not exceed $20,000 —
 
-(2) For the purposes of this Act, a charging order is an order made under this section imposing on any such realisable property as may be specified in the order a charge for securing the payment of money to the Government.
+imprisonment for a term not exceeding 2 years;
 
-and Other Serious Crimes 26 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(ii) if the amount exceeds $20,000 but does not exceed $50,000 — imprisonment for a term not exceeding 5 years;
 
-(3) A charging order may be made —
+(iii) if the amount exceeds $50,000 but does not exceed $100,000 — imprisonment for a term not exceeding 7 years;
 
-(a) only on an application by the Public Prosecutor; and
+(iv) if the amount exceeds $100,000 — imprisonment for a term not exceeding 10 years.
 
-(b) on an ex parte application to a Judge in chambers.
+[15/2010]
 
-(4) Subject to subsection (6), a charge may be imposed by a charging order only on —
+(2) Where —
 
-(a) any interest in realisable property, being an interest held beneficially by the defendant or by a person to whom the defendant has, directly or indirectly, made a gift caught by this Act —
+(a) a warrant to commit the defendant to prison is issued for a default in payment of an amount ordered to be paid under section 6 or 7 in respect of an offence or offences; and
 
-(i) in any asset of a kind mentioned in subsection (5); or
+(b) at the time the warrant is issued, the defendant is liable to serve any term of imprisonment in respect of the offence or offences, the term of imprisonment to be served in default of payment of the amount must not begin to run until after the term mentioned in paragraph (b).
 
-(ii) under any trust; or
+(3) A District Court may, despite any other written law, impose the maximum term of imprisonment on the defendant in default of the payment of any amount ordered to be paid under section 6 or 7.
 
-(b) any interest in realisable property held by a person as trustee of a trust if the interest is in such an asset or is an interest under another trust and a charge may, by virtue of paragraph (a), be imposed by a charging order on the whole beneficial interest under the first-mentioned trust.
+(4) Where a defendant is convicted of a drug dealing offence or a serious offence (as the case may be) and sentenced to death, any amount which the court orders the defendant to pay under section 6 or 7 may, on an application by the Public Prosecutor to the General Division of the High Court, be realised by the General Division of the High Court exercising the powers conferred by section 22(3) to (7).
 
-(5) The assets referred to in subsection (4) are —
+[21/2014; 40/2019]
 
-(a) immovable property in Singapore; or
+(5) Where a defendant is convicted of a drug dealing offence or a serious offence (as the case may be), any amount which the court orders the defendant to pay under section 6 or 7 and which, in the case of realisable property comprising wholly or partly cash, may be realised by the General Division of the High Court making a garnishee order subject to Rules of Court.
 
-(b) securities of any of the following kinds:
+[14
 
-(i) securities of the Government or of any public authority;
-
-(ii) stock of any body incorporated in Singapore;
-
-(iii) stock of any body incorporated outside Singapore or of any country or territory outside Singapore, being stock registered in a register kept at any place within Singapore; and
-
-(iv) units of any unit trust in respect of which a register of the unit holders is kept at any place within Singapore.
-
-(6) In any case where a charge is imposed by a charging order on any interest in an asset of a kind mentioned in subsection (5) (b), the High Court may provide for the charge to extend to any interest or dividend payable in respect of the asset.
-
-(7) Where the High Court has made a charging order, the Court may give such directions to the Public Trustee or any person as the Court thinks fit to safeguard the assets under the charging order.
-
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 27
-
-(8) The High Court may make an order discharging or varying the charging order and shall make an order discharging the charging order if the proceedings for the drug trafficking offence or serious offence, as the case may be, are concluded or the amount, payment of which is secured by the charge, is paid into Court.
-
-[13
-
-[25/99]
+[21/2014; 40/2019]

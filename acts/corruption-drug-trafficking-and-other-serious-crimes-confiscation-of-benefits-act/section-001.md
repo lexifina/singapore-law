@@ -1,8 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Corruption, Drug Trafficking and
-
-Other Serious Crimes (Confiscation of Benefits) Act.
-
-[25/99]
+This Act is the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992.

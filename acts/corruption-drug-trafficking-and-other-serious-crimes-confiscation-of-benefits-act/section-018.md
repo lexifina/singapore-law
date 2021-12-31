@@ -1,13 +1,40 @@
-# 18. Charging orders: supplementary provisions
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 18. Cases in which restraint orders and charging orders may be made
+Part: PART 3 ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
-(1) A charging order may be made either absolutely or subject to conditions as to notifying any person holding any interest in the property to which the order relates or as to the time when the charge is to become enforceable, or as to other matters.
+(1) The powers conferred on the General Division of the High Court by section 19(1) to make a restraint order and by section 20(1) to make a charging order are exercisable where —
 
-(2) A caveat may be lodged under the Land Titles Act (Cap. 157) or an entry may be made under the Registration of Deeds Act (Cap. 269), as the case may be, in respect of a charging order made under section 17.
+(a) proceedings have been instituted against the defendant for a drug dealing offence or a serious offence, as the case may be;
 
-(3) Subject to any provision made under section 19 or by Rules of Court, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustees by writing under their hand.
+(b) the proceedings have not been concluded; and
 
-(4) Where a charging order has been protected by a caveat lodged under the Land Titles Act or by an entry registered under the Registration of Deeds Act, an order under section 17 (8) discharging the charging order may direct that the caveat be removed or the entry be cancelled.
+(c) the General Division of the High Court is satisfied that there is reasonable cause to believe that benefits have been derived by the defendant from drug dealing or from criminal conduct, as the case may be.
 
-[14
+[21/2014; 40/2019]
+
+(2) Those powers are also exercisable where the General Division of the High Court is satisfied —
+
+(a) that a person has been informed under section 23(1) of the Criminal Procedure Code 2010 that the person may be prosecuted for a drug dealing offence or a serious offence, as the case may be; or
+
+(b) that investigation for a drug dealing offence or a serious offence (as the case may be) having been commenced against a person, the person dies or cannot be found or is outside the jurisdiction, and that there is reasonable cause to believe that benefits have been derived by that person from drug dealing or from criminal conduct, as the case may be.
+
+[15/2010; 21/2014; 40/2019]
+
+(3) The General Division of the High Court may exercise the powers conferred by section 19(1) despite any other written law prohibiting any dealing with any realisable property.
+
+[2/2012; 40/2019]
+
+(4) For the purposes of sections 19 and 20, at any time when those powers are exercisable before proceedings have been instituted —
+
+(a) references in this Act to the defendant are to be construed as references to the person mentioned in subsection (2);
+
+and
+
+(b) references in this Act to realisable property are to be construed as if, immediately before that time, proceedings had been instituted against the person mentioned in subsection (2) for a drug dealing offence or a serious offence, as the case may be.
+
+[21/2014]
+
+(5) Where the General Division of the High Court has made an order under section 19(1) or 20(1) by virtue of subsection (2), the General Division of the High Court is not to discharge the order if the proposed proceedings are not instituted within such time as the General Division of the High Court considers reasonable and which must not in any event exceed a period of 3 months.
+
+[15
+
+[40/2019]

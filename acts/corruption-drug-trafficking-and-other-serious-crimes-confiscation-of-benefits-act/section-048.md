@@ -1,46 +1,63 @@
-# 48. Tipping-off
-Part: PART VI OFFENCES
+# 48. Communication of information to foreign authority
+Part: PART 5 INFORMATION GATHERING POWERS Division 1 — Production orders
+Division: Division 3 — Record-keeping and suspicious transaction reports
 
-(1) Any person who —
+(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may communicate any thing —
 
-(a) knows or has reasonable grounds to suspect that an authorised officer is acting, or is proposing to act, in connection with an investigation which is being, or is about to be, conducted under or for the purposes of this Act or any subsidiary legislation made thereunder; and
+(a) disclosed to the Suspicious Transaction Reporting Officer pursuant to a requirement under section 5(3) or pursuant to section 45(1);
 
-(b) discloses to any other person information or any other matter which is likely to prejudice that investigation or proposed investigation, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
+(b) given to the Suspicious Transaction Reporting Officer under section 60(4) or 62(4);
 
-[25/99]
+(c) forwarded to the Suspicious Transaction Reporting Officer under section 61;
 
-(2) Any person who —
+(d) submitted to the Suspicious Transaction Reporting Officer under section 68(1);
 
-(a) knows or has reasonable grounds to suspect that a disclosure has been made to an authorised officer under this Act (referred to in this section as the disclosure); and
+(e) filed with the Suspicious Transaction Reporting Officer under any regulations made under section 200 of the Casino Control Act 2006;
 
-(b) discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
+(f) submitted to a Suspicious Transaction Reporting Officer under section 17 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019; or
 
-[25/99]
+(g) submitted to a Suspicious Transaction Reporting Officer under section 74A of the Pawnbrokers Act 2015, to a corresponding authority of a foreign country if —
 
-(3) Nothing in subsection (1) or (2) makes it an offence for an advocate and solicitor or his employee to disclose any information or other matter —
+(h) that thing may be relevant to an investigation by that authority into a foreign drug dealing offence or a foreign serious offence; and
 
-(a) to, or to a representative of, a client of his in connection with the giving of advice to the client in the course of and for the purpose of the professional employment, of the advocate and solicitor; or
+(i) the conditions in subsection (2) are satisfied.
 
-(b) to any person —
+[44/2007; 21/2014; 7/2019]
 
-(i) in contemplation of, or in connection with, legal proceedings; and
+(2) The conditions mentioned in subsection (1) are as follows:
 
-(ii) for the purpose of those proceedings.
+(a) there exists an arrangement, or an international arrangement, under which the corresponding authority of the foreign country has agreed, or the corresponding authority of the foreign country has given an undertaking, to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed, given, forwarded or submitted to, or filed with, a Suspicious Transaction Reporting Officer pursuant to a requirement under section 5(3) or under section 45(1) or any of the provisions mentioned in subsection (1)(b) to (g), or required to be given to an immigration officer under section 60(4);
 
-[25/99]
+(b) the Suspicious Transaction Reporting Officer is satisfied —
 
-and Other Serious Crimes 62 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(i) in any case where there exists an international arrangement mentioned in paragraph (a), that the corresponding authority has given appropriate undertakings under or in accordance with the international arrangement —
 
-(4) Subsection (3) does not apply in relation to any information or other matter which is disclosed with a view to furthering any illegal purpose.
+(A) for protecting the confidentiality of any thing communicated to the corresponding authority;
 
-[25/99]
+and
 
-(5) In proceedings against a person for an offence under subsection (1) or (2), it is a defence to prove that he did not know and had no reasonable ground to suspect that the disclosure was likely to be prejudicial in the way mentioned in subsection (1) or (2).
+(B) for controlling the use that will be made of that thing, including an undertaking that the thing will not be used as evidence in any proceedings; or
 
-[25/99]
+(ii) in any other case, that the corresponding authority has given appropriate undertakings —
 
-(6) No authorised officer or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other written law relating to drug trafficking or a serious offence.
+(A) for protecting the confidentiality of any thing communicated to the corresponding authority;
 
-[43B
+and
 
-[25/99]
+(B) for controlling the use that will be made of that thing, including an undertaking that the thing will not be used as evidence in any proceedings;
+
+(c) such other conditions as the Minister may prescribe.
+
+[44/2007; 21/2014; 51/2018; 7/2019]
+
+(3) In this section —
+
+“corresponding authority”, in relation to a foreign country, means the authority of that foreign country responsible for receiving information that corresponds to any thing required to be disclosed to an authorised officer under section 45(1);
+
+“international arrangement” means an arrangement for cooperation in accordance with the rules or by-laws of, or any principles or guidelines issued by, any prescribed international organisation, and to which the Suspicious Transaction Reporting Office mentioned in section 5 and the corresponding authority of a foreign country are parties.
+
+[41
+
+[44/2007; 51/2018; 7/2019]
+
+Division 4 — Disclosure of information held by public bodies

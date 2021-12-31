@@ -1,46 +1,62 @@
-# 50. Compensation
-Part: PART VII MISCELLANEOUS
+# 50. Assisting another to retain benefits of drug dealing
+Part: PART 6 OFFENCES
 
-(1) If an investigation is begun against a person for a drug trafficking offence or a serious offence, as the case may be, or offences and any of the following circumstances occur, namely:
+(1) Subject to subsection (3), a person who enters into, or is otherwise concerned in an arrangement, knowing or having reasonable grounds to believe that by the arrangement —
 
-(a) no proceedings are instituted against that person;
+(a) the retention or control by or on behalf of another (called in this section that other person) of that other person’s benefits of drug dealing is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise); or
 
-(b) proceedings are instituted against that person but do not result in his conviction for any drug trafficking offence or serious offence, as the case may be; or
+(b) that other person’s benefits of drug dealing —
 
-(c) proceedings are instituted against that person and he is convicted of one or more drug trafficking offences or serious offences, as the case may be, but —
+(i) are used to secure funds that are placed at that other person’s disposal, directly or indirectly; or
 
-(i) the conviction or convictions concerned are quashed; or
+(ii) are used for that other person’s benefit to acquire property by way of investment or otherwise, and knowing or having reasonable grounds to believe that that other person is a person who carries on or has carried on drug dealing or has benefited from drug dealing, shall be guilty of an offence.
 
-(ii) he is granted a pardon in respect of the conviction or convictions concerned, the High Court may, on application by a person who held property which was realisable property, order compensation to be paid by the Government to the applicant if, having regard to all the circum- stances, the Court considers it appropriate to make such an order.
+[21/2014]
 
-[25/99]
+(2) In this section, references to any person’s benefits of drug dealing include a reference to any property which, in whole or in part, directly or indirectly, represented in the person’s hands the person’s benefits of drug dealing.
 
-(2) The High Court shall not order compensation to be paid under subsection (1) unless it is satisfied that —
+[21/2014]
 
-(a) there has been some serious default on the part of any person concerned in the investigation or prosecution of the offence or offences concerned; and
+(3) Where a person discloses to an authorised officer a suspicion or belief that any property, funds or investments are derived from or used in connection with drug dealing or any matter on which such a suspicion or belief is based —
 
-(b) the applicant has suffered loss in consequence of anything done in relation to the property by, or in pursuance of an order of, the High Court under section 16, 17 or 19.
+(a) if the person does any act in contravention of subsection (1) and the disclosure relates to the arrangement concerned, the person shall not be guilty of an offence under this section if the disclosure is made in accordance with this paragraph, that is —
 
-(3) The High Court shall not order compensation to be paid under subsection (1) in any case where it appears to the Court that the investigation would have been continued, or the proceedings would have been instituted or continued, as the case may be, if the serious default had not occurred.
+(i) it is made before the person does the act concerned, being an act done with the consent of the authorised officer; or
 
-(4) Without prejudice to subsection (1), where —
+(ii) it is made after the person does the act, but is made on the person’s initiative and as soon as it is reasonable for the person to make it;
 
-(a) a disclosure is made by any person in accordance with section 43 (3) in relation to any property;
+(b) the disclosure is not to be treated as a breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct; and
 
-and Other Serious Crimes 64 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(c) the person shall not be liable in damages for any loss arising out of —
 
-(b) in consequence of the disclosure and for the purposes of an investigation or prosecution in respect of a drug trafficking offence or a serious offence or offences any act is done or omitted to be done in relation to that property; and
+(i) the disclosure; or
 
-(c) no proceedings are instituted against any person in respect of that offence or offences or no order is made by the High Court under section 16 or 17 in relation to that property, the High Court may, on application by a person who held the property, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, the Court considers it appropriate to make such an order.
+(ii) any act done or omitted to be done in relation to the property, funds or investments in consequence of the disclosure.
 
-[25/99]
+[21/2014]
 
-(5) The High Court shall not order compensation to be paid under subsection (4) unless it is satisfied that —
+(4) In any proceedings against a person for an offence under this section, it is a defence to prove —
 
-(a) there has been some serious default on the part of any person concerned in the investigation or prosecution of the offence or offences concerned and that, but for that default, the act or omission referred to in subsection (4) (b) would not have occurred; and
+(a) that the person did not know and had no reasonable ground to believe that the arrangement related to any person’s proceeds of drug dealing;
 
-(b) the applicant has, in consequence of the act or omission referred to in subsection (4) (b), suffered loss in relation to the property.
+(b) that the person did not know and had no reasonable ground to believe that, by the arrangement, the retention or control by or on behalf of the relevant person of any property was facilitated or (as the case may be) that, by the arrangement, any property was used as mentioned in subsection (1);
 
-(6) The amount of compensation to be paid under this section shall be such as the High Court thinks just in all the circumstances of the case.
+(c) that —
 
-[45
+(i) the person intended to disclose to an authorised officer such suspicion, belief or matter as is mentioned in subsection (3) in relation to the arrangement; and
+
+(ii) there is reasonable excuse for the person’s failure to make disclosure in accordance with subsection (3)(a); or
+
+(d) that, in the case of a person who was in employment at the time in question and the person enters or is otherwise concerned in the arrangement in the course of his or her employment, the person disclosed the suspicion, belief or matter as is mentioned in subsection (3) to the appropriate person in accordance with the procedure established by his or her employer for the making of such disclosures.
+
+[21/2014]
+
+(5) Any person who commits an offence under this section shall be liable on conviction —
+
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
+
+(b) if the person is not an individual, to a fine not exceeding $1 million or twice the value of the benefits of drug dealing in respect of which the offence was committed, whichever is higher.
+
+[43
+
+[44/2007; 21/2014; 51/2018]

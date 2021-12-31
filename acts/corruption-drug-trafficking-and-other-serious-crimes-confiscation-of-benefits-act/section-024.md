@@ -1,33 +1,18 @@
-# 24. Winding up of company holding realisable property
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 24. Exercise of powers by General Division of High Court or receiver
+Part: PART 3 ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
-(1) Where realisable property is held by a company and an order for the winding up of the company has been made or a resolution has been passed by the company for the voluntary winding up, the functions of the liquidator (or any provisional liquidator) shall not be exercisable in relation to —
+(1) This section applies to the powers conferred on the General Division of the High Court by sections 19 to 23 or on the Public Trustee or any receiver under section 19 or 22 or pursuant to a charging order.
 
-(a) property for the time being subject to a restraint order made before the relevant time; and
+[40/2019]
 
-(b) any proceeds of property realised by virtue of section 16 (6) or 19 (6) or (7) for the time being in the hands of the Public Trustee or a receiver under section 16 or 19, but there shall be payable out of such property any expenses (including the remuneration of the liquidator or provisional and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 33 liquidator) properly incurred in the winding up in respect of the property.
+(2) Subject to subsections (3) to (6), the powers must be exercised with a view to making available for satisfying the confiscation order or (as the case may be) any confiscation order that may be made in the defendant’s case the value for the time being of realisable property held by any person by the realisation of such property.
 
-(2) Where, in the case of a company, such an order has been made or such a resolution has been passed, the powers conferred on the High Court by sections 16 to 20 or on a receiver so appointed shall not be exercised in relation to any realisable property held by the company in relation to which the functions of the liquidator are exercisable —
+(3) In the case of realisable property held by a person to whom the defendant has, directly or indirectly, made a gift caught by this Act, the powers must be exercised with a view to realising no more than the value for the time being of the gift.
 
-(a) so as to inhibit him from exercising those functions for the purpose of distributing any property held by the company to the company’s creditors; or
+(4) The powers must be exercised with a view to allowing any person other than the defendant or the recipient of any such gift to retain or recover the value of any property held by that person.
 
-(b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property.
+(5) An order may be made or other action taken in respect of a debt owed by the Government.
 
-(3) Nothing in the Companies Act (Cap. 50) shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in subsection (2).
+(6) In exercising those powers, no account is to be taken of any obligations of the defendant or of the recipient of any such gift which conflict with the obligation to satisfy the confiscation order.
 
-(4) Subsection (2) shall not affect the enforcement of a charging order made before the relevant time or on property which was subject to a restraint order at the relevant time.
-
-(5) In this section —
-
-‘‘company’’ means any company which may be wound up under the Companies Act;
-
-‘‘the relevant time’’ means —
-
-(a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
-
-(b) where such an order has been made and, before the presentation of the petition for the winding up of the company by the High Court, such a resolution had been passed by the company, the time of the passing of the resolution; and
-
-(c) in any other case where such an order has been made, the time of the making of the order.
-
-[20 and Other Serious Crimes 34 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+[21

@@ -1,49 +1,56 @@
-# 19. Realisation of property
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 19. Restraint orders
+Part: PART 3 ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
-(1) Where —
+(1) The General Division of the High Court may make a restraint order to prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.
 
-(a) in proceedings instituted for a drug trafficking offence or a serious offence, as the case may be, a confiscation order is made;
+[40/2019]
 
-(b) the order is not subject to appeal; and
+(2) A restraint order may apply —
 
-(c) the proceedings have not been concluded, the High Court may, on an application of the Public Prosecutor, exercise the powers conferred by subsections (3) to (7).
+(a) to all realisable property held by a specified person, whether the property is described in the order or not; and
 
-[25/99]
+(b) to all realisable property held by a specified person, being property transferred to the specified person after the making of the order.
 
-and Other Serious Crimes 28 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(3) This section does not have effect in relation to any property for the time being subject to a charge under section 20.
 
-(2) The High Court may, on the application of the Public Prosecutor, also exercise the powers conferred by subsections (3) to
+(4) A restraint order —
 
-(7) where —
+(a) may be made only on an application by the Public Prosecutor;
 
-(a) a confiscation order is made against a person who is, by reason of section 26, taken to be convicted of a drug trafficking offence or a serious offence, as the case may be;
+(b) may be made on an ex parte application to a Judge in chambers; and
 
-(b) the order is not subject to appeal; and
+(c) must provide for notice to be given to persons affected by the order.
 
-(c) the order has not been satisfied, whether by payment of the amount due under the order or by the defendant serving imprisonment by default.
+(5) A restraint order —
 
-[25/99]
+(a) may be discharged or varied in relation to any property;
 
-(3) The High Court may appoint the Public Trustee or any person as receiver in respect of realisable property.
+and
 
-(4) The High Court may empower the Public Trustee or any receiver appointed under subsection (3) or section 16 or in pursuance of a charging order —
+(b) is discharged when proceedings for the drug dealing offence or serious offence (as the case may be) are concluded.
 
-(a) to enforce any charge imposed under section 17 on realisable property or on interest or dividends payable in respect of such property; and
+[21/2014]
 
-(b) in relation to any realisable property other than property for the time being subject to a charge under section 17, to take possession of the property subject to such conditions or exceptions as may be specified by the Court.
+(6) Where the General Division of the High Court has made a restraint order, the General Division of the High Court may at any time appoint the Public Trustee or any person as receiver —
 
-(5) The High Court may order any person having possession of realisable property to give possession of it to the Public Trustee or any receiver.
+(a) to take possession of any realisable property; and
 
-(6) The High Court may empower the Public Trustee or any receiver to realise any realisable property in such manner as the Court may direct.
+(b) in accordance with the directions of the General Division of the High Court, to manage or otherwise deal with any property in respect of which the Public Trustee or that person is appointed, subject to such conditions and exceptions as may be specified by the General Division of the High Court; and may require any person having possession of property in respect of which the receiver is appointed under this section to give possession of it to the Public Trustee or such receiver.
 
-(7) The High Court may order any person holding an interest in realisable property to make such payment to the Public Trustee or any receiver in respect of any beneficial interest held by the defendant or, as the case may be, the recipient of a gift caught by this Act as the Court may direct and the Court may, on the payment being made, by order transfer, grant or extinguish any interest in the property.
+[40/2019]
 
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 29
+(7) For the purposes of this section, dealing with property held by any person includes (without limiting the expression) —
 
-(8) Subsections (5) to (7) shall not apply to property for the time being subject to a charge under section 17.
+(a) where a debt is owed to that person, making a payment to any person in reduction of the amount of the debt; and
 
-(9) The High Court shall not in respect of any property exercise the powers conferred by subsection (4) (a), (6) or (7) unless a reasonable opportunity has been given for persons holding any interest in the property to make representations to the Court.
+(b) removing the property from Singapore.
 
-[15
+(8) Where the General Division of the High Court has made a restraint order, an authorised officer may, for the purpose of preventing any realisable property being removed from Singapore, seize the property.
+
+[40/2019]
+
+(9) Property seized under subsection (8) must be dealt with in accordance with the directions of the General Division of the High Court.
+
+[16
+
+[40/2019]

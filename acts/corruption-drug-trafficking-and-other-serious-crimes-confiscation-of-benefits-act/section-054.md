@@ -1,36 +1,36 @@
-# 54. Proof of convictions and acquittals
-Part: PART VII MISCELLANEOUS
+# 54. Acquiring, possessing, using, concealing or transferring benefits from criminal conduct
+Part: PART 6 OFFENCES
 
-(1) For the purposes of any proceedings under this Act or any subsidiary legislation made thereunder, the fact that a person has been convicted or acquitted of an offence by or before any court in Singapore or by a foreign court, shall be admissible in evidence for the purpose of proving, where relevant to any issue in the proceedings, that he committed (or, as the case may be, did not commit) that offence, whether or not he is a party to the proceedings;
+(1) Any person who —
 
-and where he was convicted whether he was so convicted upon a plea of guilt or otherwise.
+(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, the person’s benefits from criminal conduct;
 
-[25/99]
+(b) converts or transfers that property or removes it from the jurisdiction; or
 
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 67
+(c) acquires, possesses or uses that property, shall be guilty of an offence.
 
-(2) The court shall accept the conviction referred to in subsection
+[44/2007; 51/2018]
 
-(1) as conclusive unless —
+(2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct —
 
-(a) it is subject to review or appeal that has not yet been determined;
+(a) conceals or disguises that property; or
 
-(b) it has been quashed or set aside; or
+(b) converts or transfers that property or removes it from the jurisdiction, shall be guilty of an offence.
 
-(c) the court is of the view that it is contrary to the interests of justice or the public interest to accept the conviction as conclusive.
+[4/2010]
 
-[25/99]
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits from criminal conduct, acquires that property, or has possession of or uses such property, shall be guilty of an offence.
 
-(3) A person proved to have been convicted of an offence under this section shall be taken to have committed the acts and to have possessed the state of mind, if any, which at law constitute that offence.
+[44/2007; 4/2010]
 
-[25/99]
+(4) In subsections (1)(a) and (2)(a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
 
-(4) Any conviction or acquittal admissible under this section may be proved —
+(5) Any person who commits an offence under this section shall be liable on conviction —
 
-(a) in the case of a conviction or acquittal before a court in Singapore, by a certificate of conviction or acquittal, signed by the Registrar; or
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
-(b) in the case of a conviction or acquittal before a foreign court, by a certificate or certified official record of proceedings issued by that foreign court and duly authenticated by the official seal of a Minister of the country of the foreign court, giving the substance and effect of the charge and of the conviction or acquittal.
+(b) if the person is not an individual, to a fine not exceeding $1 million or twice the value of the property in respect of which the offence was committed, whichever is higher.
 
-[50A
+[47
 
-[25/99]
+[44/2007; 21/2014; 51/2018]

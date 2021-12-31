@@ -1,48 +1,50 @@
-# 31. Production orders against financial institution to produce material relating to drug trafficking or criminal conduct
-Part: PART V INFORMATION GATHERING POWERS Division 1 — Production orders
+# 31. Effect of death on proceedings
+Part: PART 4 APPLICATION TO ABSCONDED PERSONS
 
-(1) The Attorney-General or any person duly authorised by him in writing may, for the purpose of an investigation into a drug trafficking offence or a serious offence, as the case may be, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
+(1) Proceedings under this Act are to be instituted or continued against the personal representatives of a deceased defendant or, if there are no personal representatives, such beneficiary or beneficiaries of the estate of the deceased defendant as may be specified by the court upon the application of the Public Prosecutor.
 
-[25/99]
+(2) Where the power conferred by this Act to make a confiscation order is to be exercised in relation to a deceased defendant, the order is to be made against the estate of the deceased defendant.
 
-(2) The High Court may, if on such an application it is satisfied that the conditions referred to in subsection (3) are fulfilled, make an order that the financial institution which appears to the Court to be in possession of the material to which the application relates shall —
+(3) Nothing in this Act subjects any personal representative of the estate of the deceased defendant, or any beneficiary thereof, to any imprisonment under section 17 if the property of the estate is inadequate for the payment of any amount to be recovered under the confiscation order.
 
-(a) produce the material to the Attorney-General or the person duly authorised by him for the Attorney-General or such person to take away; or
+(4) Sections 6(6), 7(6) and (7), 10 and 11 do not apply to any deceased defendant.
 
-(b) give the Attorney-General or the person duly authorised by him access to the material, within a reasonable period, but not less than 7 days, as the order may specify.
+(5) For the purposes of Part 2, the following provisions apply in determining whether a deceased defendant had derived benefits from drug dealing or in determining those benefits or the value of those benefits:
 
-[25/99]
+(a) a deceased defendant is, until the contrary is proved, presumed to have derived benefits from drug dealing if he or she had, at any time (whether before or after 30 November 1993) since the beginning of the period of 6 years ending at the date of his or her death, held any property or interest in any property disproportionate to his or her known sources of income, the holding of which cannot be explained to the satisfaction of the court;
 
-(3) The conditions referred to in subsection (2) are —
+(b) the benefits derived by a deceased defendant from drug dealing are any property or interest in any property held by him or her during the period mentioned in paragraph (a), being property or interest in property disproportionate to his or her known sources of income, and the holding of which cannot be explained to the satisfaction of the court;
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking or criminal conduct, as the case may be;
+(c) the value of the benefits derived by a deceased defendant from drug dealing is the aggregate of the values of those properties and interests in those properties less the value of any such benefits that are shown to have been taken into account by any court in determining the amount to be recovered under any confiscation order under this Act or Part 9 of the Organised Crime Act 2015 previously made against the deceased defendant.
 
-and Other Serious Crimes 42 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+[21/2014; 26/2015]
 
-(b) that there are reasonable grounds for believing that the material to which the application relates —
+(6) For the purposes of Part 2, the following provisions apply in determining whether a deceased defendant had derived benefits from criminal conduct or in determining those benefits or the value of those benefits:
 
-(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
+(a) a deceased defendant is, until the contrary is proved, presumed to have derived benefits from criminal conduct, if he or she had, at any time (whether before or after 13 September 1999) since the beginning of the period of 6 years ending at the date of his or her death, held any property or interest in any property disproportionate to his or her known sources of income, and the holding of which cannot be explained to the satisfaction of the court;
 
-(ii) does not consist of or include items subject to legal privilege; and
+(b) the benefits derived by a deceased defendant from criminal conduct are any property or interest in any property held by him or her during the period mentioned in paragraph (a), being property or interest in property disproportionate to his or her known sources of income, and the holding of which cannot be explained to the satisfaction of the court;
 
-(c) that there are reasonable grounds for believing that it is in the public interest to produce the material to which the application relates.
+(c) the value of the benefits derived by a deceased defendant from criminal conduct is the aggregate of the values of those properties and interests in those properties mentioned in paragraphs (a) and (b) less the value of any such benefits that are shown to have been taken into account by any court in determining the amount to be recovered under any confiscation order under this Act or Part 9 of the Organised Crime Act 2015 or any order made under section 13 of the Prevention of Corruption Act 1960 previously made against the deceased defendant.
 
-[25/99]
+[26/2015]
 
-(4) A financial institution which complies with an order made under subsection (2) shall not be treated as being in breach of any restriction upon the disclosure of information or material imposed by law, contract or rules of professional conduct.
+(7) The presumption mentioned in —
 
-[25/99]
+(a) subsection (5) is not rebutted merely by adducing proof to the effect that the property or interest in the property was derived from criminal conduct;
 
-(5) No action shall lie against a financial institution which in good faith produces materials or gives access to materials relating to the account of its customer by reason of that financial institution having produced or given access to the materials in compliance with an order made against it under subsection (2) or any act done or omitted to be done in relation to any funds, investment or property in the account of that customer in consequence of the production of or access to those materials.
+(b) subsection (6) is not rebutted merely by adducing proof to the effect that the property or interest in the property was derived from drug dealing.
 
-[25/99]
+[21/2014]
 
-(6) The proceedings for an application for a production order under this section shall be heard in camera.
+(8) In this section, “deceased defendant” means a person who dies —
 
-[25/99]
+(a) after investigations for a drug dealing offence or a serious offence (as the case may be) have been commenced against him or her; and
 
-(7) In this section, ‘‘items subject to legal privilege’’ has the same meaning as in section 35 (2).
+(b) before proceedings in respect of the offence have been instituted or if such proceedings have been instituted, before he or she is convicted of the offence.
 
-[26A
+[21/2014]
 
-[25/99]
+(9) In this section, a reference to property or interest in property includes a reference to income accruing from such property or interest.
+
+[28

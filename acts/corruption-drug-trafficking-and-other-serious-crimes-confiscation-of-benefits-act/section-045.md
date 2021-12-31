@@ -1,62 +1,53 @@
-# 45. Restriction on revealing disclosure under sections 43 and 44
-Part: PART VI OFFENCES
+# 45. Duty to disclose knowledge or suspicion
+Part: PART 5 INFORMATION GATHERING POWERS Division 1 — Production orders
+Division: Division 3 — Record-keeping and suspicious transaction reports
 
-(1) Subject to subsection (2), no witness in any civil or criminal proceedings shall be obliged —
+(1) Where a person knows or has reasonable grounds to suspect that any property —
 
-(a) to reveal that a disclosure was made under section 43 (3) or 44 (3);
+(a) in whole or in part, directly or indirectly, represents the proceeds of;
 
-(b) to reveal the identity of any person as the person making the disclosure; or
+(b) was used in connection with; or
 
-(c) to answer any question if the answer would lead, or would tend to lead, to the revealing of any fact or matter referred to in paragraph (a) or (b).
+(c) is intended to be used in connection with, any act which may constitute drug dealing or criminal conduct (as the case may be) and the information or matter on which the knowledge or suspicion is based came to the person’s attention in the course of the person’s trade, profession, business or employment, the person must disclose the knowledge or suspicion or the information or other matter on which that knowledge or suspicion is based to a Suspicious Transaction Reporting Officer as soon as is reasonably practicable after it comes to the person’s attention.
 
-[25/99]
+[44/2007; 21/2014]
 
-(2) Subsection (1) shall not apply in any proceedings —
+(2) To avoid doubt, where the property mentioned in subsection (1) is the subject of a transaction, the person mentioned in that subsection must make the disclosure mentioned in that subsection regardless of whether the transaction was completed.
 
-(a) for an offence under section 43 or 44 or this section; or
+[2/2012]
 
-(b) where the court is of the opinion that justice cannot fully be done between the parties without revealing the disclosure or the identity of any person as the person making the disclosure.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-[25/99]
+(a) if the person is an individual, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both; or
 
-(3) Subject to subsections (4), (5) and (6), no person shall publish or broadcast any information so as to reveal or suggest —
+(b) if the person is not an individual, to a fine not exceeding $500,000.
 
-(a) that a disclosure was made under section 43 (3) or 44 (3); or
+[51/2018]
 
-(b) the identity of any person as the person making the disclosure.
+(4) The Minister may, by regulations, prescribe requirements for any person or class of persons in relation to the circumstances, manner and means of disclosure required under subsection (1).
 
-[25/99]
+(5) Nothing in subsection (1) or (3) makes it an offence —
 
-(4) In subsection (3), ‘‘information’’ —
+(a) for an advocate and solicitor, or an interpreter or other person who works under the supervision of an advocate and solicitor, to fail to disclose any information or other matter which is an item subject to legal privilege;
 
-(a) includes a report of any civil or criminal proceedings; and
+(b) for a legal counsel acting as such for his or her employer, or an interpreter or other person who works under the supervision of the legal counsel, to fail to disclose any information or other matter concerning the employer which is an item subject to legal privilege; or
 
-(b) does not include information published for statistical purposes by, or under the authority of, the Government.
+(c) for an arbitrator to fail to disclose any information or other matter which came to the arbitrator’s attention in the course of any arbitral proceedings in which the arbitrator acted as an arbitrator.
 
-(5) Subsection (3) shall not apply in respect of proceedings —
+[21/2014]
 
-(a) against the person making the disclosure for an offence under section 43 or 44; or
+(6) It is a defence to a charge of committing an offence under this section that the person charged had a reasonable excuse for not disclosing the information or other matter in question.
 
-(b) for an offence under this section.
+(7) Where a person discloses in good faith to a Suspicious Transaction Reporting Officer —
 
-[25/99]
+(a) the person’s knowledge or suspicion of the matters referred to in subsection (1)(a), (b) or (c); or
 
-and Other Serious Crimes 58 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(b) any information or other matter on which that knowledge or suspicion is based, the disclosure is not to be treated as a breach of any restriction upon the disclosure imposed by law, contract or rules of professional conduct and the person shall not be liable for any loss arising out of the disclosure or any act or omission in consequence of the disclosure.
 
-(6) The court may, if satisfied that it is in the interests of justice to do so, by order dispense with the requirements of subsection (3) to such extent as may be specified in the order.
+[44/2007]
 
-(7) If information is published or broadcast in contravention of subsection (3), each of the following persons:
+(8) Without affecting subsection (6) or (7), in the case of a person who was in employment at the time in question, it is a defence to a charge of committing an offence under this section that the person disclosed the information or other matter in question to the appropriate person in accordance with the procedure established by the person’s employer for the making of such disclosures.
 
-(a) in the case of publication as part of a newspaper or periodical publication, any proprietor, editor, publisher and distributor thereof;
+(9) A disclosure to which subsection (8) applies is not to be treated as a breach of any restriction imposed by law, contract or rules of professional conduct.
 
-(b) in the case of a publication otherwise than as part of a newspaper or periodical publication, any person who publishes it and any person who distributes it;
-
-(c) in the case of a broadcast, any person who broadcasts the information and, if the information is contained in a programme, any person who transmits or provides the programme and any person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-(8) In this section —
-
-‘‘broadcast’’ includes broadcast by radio, film, videotape or television;
-
-‘‘publish’’ means publish in writing.
-
-[42
+[39

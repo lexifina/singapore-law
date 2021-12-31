@@ -1,36 +1,46 @@
-# 5. Confiscation orders for benefits derived from criminal conduct
-Part: PART II CONFISCATION OF BENEFITS OF DRUG TRAFFICKING OR CRIMINAL CONDUCT
+# 5. Suspicious Transaction Reporting Office
+Part: PART 1 PRELIMINARY
 
-(1) Subject to section 27, where a defendant is convicted of one or more serious offences, the court shall, on the application of the Public Prosecutor, make a confiscation order against the defendant in respect of benefits derived by him from criminal conduct if the court is satisfied that such benefits have been so derived.
+(1) There is to be an office of the Government called the Suspicious Transaction Reporting Office which is responsible for —
 
-[25/99]
+(a) the receipt and analysis of —
 
-(2) If the court is satisfied that benefits have been derived by the defendant from criminal conduct, the court shall, at any time after sentencing or otherwise dealing with him in respect of the offence or, as the case may be, any of the offences concerned, determine in accordance with section 10 the amount to be recovered in his case by virtue of this section.
+(i) any thing disclosed to a Suspicious Transaction Reporting Officer pursuant to a requirement under subsection (3) or pursuant to section 45(1);
 
-[25/99]
+(ii) any report under section 60 given to a Suspicious Transaction Reporting Officer under section 60(4) or forwarded to a Suspicious Transaction Reporting Officer under section 61;
 
-(3) The court shall not take into account any application or proposed application for a confiscation order in determining the appropriate sentence or other manner of dealing with the defendant in respect of the serious offences concerned.
+(iii) any report under section 62 given to a Suspicious Transaction Reporting Officer under section 62(4);
 
-[25/99]
+(iv) any cash transaction report submitted to a Suspicious Transaction Reporting Officer under section 68(1);
 
-(4) Where the court which convicted the defendant is for any reason unable to determine the amount to be recovered under and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 13 subsection (2), the determination and confiscation order, if any, may be made by the Registrar.
+(v) any cash transaction report filed with a Suspicious Transaction Reporting Officer under any regulations made under section 200 of the Casino Control Act 2006;
 
-[25/99]
+(vi) any cash transaction report submitted to a Suspicious Transaction Reporting Officer under section 17 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019; and
 
-(5) Any relevant evidence admitted in the proceedings against the defendant for the serious offence concerned shall, if the court or the Registrar thinks fit, be taken into account in determining the amount to be recovered under subsection (2) or (4).
+(vii) any cash transaction report submitted to a Suspicious Transaction Reporting Officer under section 74A of the Pawnbrokers Act 2015; and
 
-[25/99]
+(b) the dissemination of the results of any such analysis.
 
-(6) Without prejudice to section 28, for the purposes of this Act, a person who holds or has at any time (whether before or after 13th September 1999) held any property or any interest therein (including income accruing from such property or interest) disproportionate to his known sources of income, the holding of which cannot be explained to the satisfaction of the court, shall, until the contrary is proved, be presumed to have derived benefits from criminal conduct.
+[21/2014; 7/2019]
 
-[25/99]
+(2) There is to be attached to the Suspicious Transaction Reporting Office such number of Suspicious Transaction Reporting Officers as appear to the Minister to be necessary for the performance of the responsibilities of the Suspicious Transaction Reporting Office.
 
-(7) For the purposes of subsection (6), any expenditure by a person referred to in that subsection (whether incurred before or after 13th September 1999) shall, until the contrary is proved, be presumed to have been met out of his benefits derived from criminal conduct.
+[21/2014]
 
-[25/99]
+(3) A Suspicious Transaction Reporting Officer who is attached to the Suspicious Transaction Reporting Office may require any person to disclose any document or information for the purposes of an analysis mentioned in subsection (1).
 
-(8) The presumption referred to in subsection (6) shall not be rebutted merely by adducing proof to the effect that the property or interest therein (including income accruing from such property or interest) was derived from drug trafficking.
+[21/2014]
 
-[4A
+(4) Where a person discloses any document or information to a Suspicious Transaction Reporting Officer pursuant to a requirement under subsection (3) —
 
-[25/99]
+(a) the disclosure is not to be treated as a breach of any restriction against the disclosure imposed by law, contract or rules of professional conduct; and
+
+(b) the person shall not be liable for any loss arising out of the disclosure or any act or omission in consequence of the disclosure.
+
+[3A
+
+[21/2014]
+
+PART 2 CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT
+
+[21/2014]

@@ -1,43 +1,22 @@
-# 23. Bankruptcy of defendant, etc.
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
-Heading: 2 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+# 23. Application of proceeds of realisation and other sums
+Part: PART 3 ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
-(1) Where a person who holds realisable property is adjudged bankrupt —
+(1) Subject to subsection (2), the following sums in the hands of the Public Trustee or any receiver under section 19 or 22 or pursuant to a charging order, that is —
 
-(a) property for the time being subject to a restraint order made before the order adjudging him bankrupt; and
+(a) the proceeds of the enforcement of any charge imposed under section 20;
 
-(b) any proceeds of property realised by virtue of section 16 (6) or 19 (6) or (7) for the time being in the hands of the Public Trustee or a receiver under section 16 or 19, shall be excluded from the bankrupt’s estate for the purposes of the Bankruptcy Act (Cap. 20).
+(b) the proceeds of the realisation, other than by the enforcement of such a charge, of any property under section 19 or 22; and
 
-(2) Where a person has been adjudged bankrupt, the powers conferred on the High Court by sections 16 to 20 or on the Public Trustee or a receiver shall not be exercised in relation to —
+(c) any other sums, being property held by the defendant, must, after such payments (if any) as the General Division of the High Court may direct have been made out of those sums, be applied on the defendant’s behalf towards the satisfaction of the confiscation order.
 
-(a) property for the time being comprised in the bankrupt’s estate for the purposes of the Bankruptcy Act;
+[40/2019]
 
-(b) property which is not comprised in the bankrupt’s estate by virtue of section 78 (2) of that Act; and
+(2) If, after the amount payable under the confiscation order has been fully paid, any such sums remain in the hands of the Public Trustee or receiver, the Public Trustee or receiver must distribute those sums —
 
-(c) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 124 (3) (c) of that Act.
+(a) among such of those who held property which has been realised under this Act; and
 
-[15/95]
+(b) in such proportions, as the General Division of the High Court may direct after giving a reasonable opportunity for such persons to make representations to the General Division of the High Court.
 
-and Other Serious Crimes 32 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+[20
 
-(3) Nothing in the Bankruptcy Act (Cap. 20) shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in subsection (2).
-
-(4) Subsection (2) shall not affect the enforcement of a charging order —
-
-(a) made before the order adjudging the person bankrupt; or
-
-(b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
-
-(5) Where, in the case of a debtor, an interim receiver stands appointed under section 73 of the Bankruptcy Act and any property of the debtor is subject to a restraint order —
-
-(a) the powers conferred on the receiver by virtue of the Bankruptcy Act shall not apply to property for the time being subject to the restraint order; and
-
-(b) any such property in the hands of the receiver shall, subject to a lien for any expenses (including his remuneration) properly incurred in respect of the property, be dealt with in such manner as the High Court may direct.
-
-[15/95]
-
-(6) For the purposes of section 127 (2) of the Bankruptcy Act, amounts payable under confiscation orders shall constitute debts due to the Government.
-
-[19
-
-[15/95]
+[40/2019]

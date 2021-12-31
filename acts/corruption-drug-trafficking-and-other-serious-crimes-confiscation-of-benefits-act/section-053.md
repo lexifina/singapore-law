@@ -1,22 +1,36 @@
-# 53. Evidence of corresponding law or foreign law
-Part: PART VII MISCELLANEOUS
+# 53. Acquiring, possessing, using, concealing or transferring benefits of drug dealing
+Part: PART 6 OFFENCES
 
-(1) A document purporting to be issued by or on behalf of the government of a foreign country and purporting to state the terms of —
+(1) Any person who —
 
-(a) a corresponding law in force in that country; or
+(a) conceals or disguises any property which is, or in whole or in part, directly or indirectly, represents, the person’s benefits of drug dealing;
 
-(b) a law in relation to a foreign serious offence in force in that country, shall be admissible in evidence for the purpose of proving the matters referred to in subsection (2), in any proceedings under this Act or any subsidiary legislation made thereunder, on its production by the Attorney-General or by any person duly authorised by him in writing.
+(b) converts or transfers that property or removes it from the jurisdiction; or
 
-[25/99]
+(c) acquires, possesses or uses that property, shall be guilty of an offence.
 
-(2) Such document shall be sufficient evidence —
+[44/2007; 21/2014]
 
-(a) that it is issued by or on behalf of the government of the foreign country stated in the document;
+(2) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug dealing —
 
-(b) that the terms of the corresponding law or the law of the foreign country are as stated in the document; and
+(a) conceals or disguises that property; or
 
-(c) that any fact stated in the document as constituting an offence under that law does constitute such offence.
+(b) converts or transfers that property or removes it from the jurisdiction, shall be guilty of an offence.
 
-[50
+[4/2010; 21/2014]
 
-[25/99]
+(3) Any person who, knowing or having reasonable grounds to believe that any property is, or in whole or in part, directly or indirectly, represents, another person’s benefits of drug dealing, acquires that property or has possession of or uses such property, shall be guilty of an offence.
+
+[44/2007; 4/2010; 21/2014]
+
+(4) In subsections (1)(a) and (2)(a), references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
+
+(5) Any person who commits an offence under this section shall be liable on conviction —
+
+(a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
+
+(b) if the person is not an individual, to a fine not exceeding $1 million or twice the value of the property in respect of which the offence was committed, whichever is higher.
+
+[46
+
+[44/2007; 21/2014; 51/2018]

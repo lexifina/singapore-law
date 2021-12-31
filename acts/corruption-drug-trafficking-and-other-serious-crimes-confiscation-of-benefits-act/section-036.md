@@ -1,39 +1,84 @@
-# 36. Interpretation of this Division
-Part: PART V INFORMATION GATHERING POWERS Division 1 — Production orders
-Division: Division 3 — Obligations of financial institutions
+# 36. Production orders
+Part: PART 5 INFORMATION GATHERING POWERS Division 1 — Production orders
 
-(1) In this Division —
+(1) An authorised officer may, for the purpose of an investigation into drug dealing or criminal conduct (as the case may be), apply to a court for an order under subsection (3) in relation to particular material or material of a particular description.
 
-‘‘financial transaction document’’, in relation to a financial institution, means any document that relates to a financial transaction carried out by the institution in its capacity as a financial institution, and includes but is not limited to a document that relates to —
+[21/2014]
 
-(a) the opening or closing by a person of an account with the institution;
+(2) This section does not apply to any material in the possession of a financial institution.
 
-(b) the operation by a person of an account with the institution;
+(3) Subject to section 49(14), the court may, if on such an application it is satisfied that the conditions to subsection (5) are fulfilled, make an order that the person who appears to the court to be in possession of the material to which the application relates must —
 
-(c) the opening or use by a person of a deposit box held by the institution;
+(a) produce the material to an authorised officer for him or her to take away; or
 
-(d) the telegraphic or electronic transfer of funds by the institution on behalf of a person to another person;
+(b) give an authorised officer access to it, within such period as the order may specify.
 
-(e) the transmission of funds between Singapore and a foreign country or between foreign countries on behalf of a person;
+(4) The period to be specified in an order under subsection (3) is 7 days unless it appears to the court that a longer or shorter period would be appropriate in the particular circumstances of the application.
 
-(f) an application by a person for a loan from the institution (where a loan is made to the person pursuant to the application); or
+(5) The conditions mentioned in subsection (3) are —
 
-(g) records of customer identification;
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug dealing or from criminal conduct, as the case may be;
 
-‘‘minimum retention period’’, in relation to a financial transaction document of a financial institution, means —
+(b) that there are reasonable grounds for believing that the material to which the application relates —
 
-(a) if the document relates to the opening of an account with the institution, the period of 6 years after the day on which the account is closed;
+(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
 
-(b) if the document relates to the opening by a person of a deposit box held by the institution, the period of 6 years after the day on which the deposit box ceases to be used by the person; or
+(ii) does not consist of or include items subject to legal privilege; and
 
-(c) in any other case, the period of 6 years after the day on which the transaction takes place.
+(c) that there are reasonable grounds for believing that it is in the public interest, having regard —
 
-[25/99]
+(i) to the benefit likely to accrue to the investigation if the material is obtained; and
 
-and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 47
+(ii) to the circumstances under which the person in possession of the material holds it, that the material should be produced or that access to it should be given.
 
-(2) In sections 37 and 38, a reference to a copy includes a copy retained in the form of microfilm, microfiche, electronic records in accordance with section 9 (1) of the Electronic Transactions Act (Cap. 88) or such other form as the Monetary Authority of Singapore may approve.
+[21/2014]
 
-[35
+(6) Where a court makes an order under subsection (3)(b) in relation to material on any premises, it may, on the same or a subsequent application of an authorised officer, order any person who appears to the authorised officer to be entitled to grant entry to the premises to allow an authorised officer to enter the premises to obtain access to the material.
 
-[25/99]
+(7) Rules of Court may provide for —
+
+(a) the discharge and variation of orders under this section;
+
+and
+
+(b) proceedings relating to such orders.
+
+(8) Where the material, to which an application under this section relates, consists of information contained in or accessible by means of any data equipment —
+
+(a) an order under subsection (3)(a) has effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible; and
+
+(b) an order under subsection (3)(b) has effect as an order to give access to the material in a form in which it is visible and legible.
+
+(9) In subsection (8), “data equipment” means any equipment which —
+
+(a) automatically processes information;
+
+(b) automatically records or stores information;
+
+(c) can be used to cause information to be automatically recorded, stored or otherwise processed on other equipment (wherever situated); or
+
+(d) can be used to retrieve information whether the information is recorded or stored in the equipment itself or in other equipment (wherever situated).
+
+(10) An order under subsection (3) —
+
+(a) does not confer any right to production of, or access to, items subject to legal privilege;
+
+(b) has effect despite any obligation as to secrecy or other restriction upon the disclosure of information imposed by statute or otherwise; and
+
+(c) may be made in relation to material in the possession of a public body as defined in section 49(15).
+
+(11) A person is not excused from producing or making available any material when required to do so by an order under this section on the ground that —
+
+(a) the production or making available of the material might tend to incriminate the person or make the person liable to a penalty; or
+
+(b) the production or making available of the material would be in breach of an obligation (whether imposed by law or otherwise) of the person not to disclose the existence or contents of the material.
+
+(12) Where a person produces or makes available any material pursuant to an order under this section, the production or making available of the material, or any information or thing obtained as a direct or indirect consequence of the production or making available of the material is not admissible against the person in any criminal proceedings except a proceeding for an offence against section 39(1).
+
+(13) For the purposes of subsection (1), proceedings on an application for a restraint order or a confiscation order are not criminal proceedings.
+
+(14) An authorised officer may exercise the powers conferred on him or her by this section despite any other written law relating to the production of, or the giving of any access to, any particular material or material of a particular description.
+
+[30
+
+[2/2012]

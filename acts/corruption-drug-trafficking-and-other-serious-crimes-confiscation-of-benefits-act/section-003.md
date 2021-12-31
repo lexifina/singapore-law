@@ -1,20 +1,42 @@
-# 3. Application
-Part: PART I PRELIMINARY
+# 3. Meaning of “item subject to legal privilege”
+Part: PART 1 PRELIMINARY
 
-(1) This Act shall apply to any drug trafficking offence or foreign drug trafficking offence whether committed before or after 30th November 1993.
+(1) For the purposes of this Act, an item is subject to legal privilege if —
 
-[25/99]
+(a) it is a communication made between a lawyer and a client, or a legal counsel acting as such and his or her employer, in connection with the lawyer giving legal advice to the client or the legal counsel giving legal advice to the employer, as the case may be;
 
-(2) Nothing in this Act shall impose any duty or confer any power on any court in or in connection with any proceedings under this Act against a person for a drug trafficking offence in respect of which he has been convicted by a court before 30th November 1993.
+(b) it is a communication made between 2 or more lawyers acting for a client, or 2 or more legal counsel acting as such for their employer, in connection with one or more of the lawyers giving legal advice to the client or one or more of the legal counsel giving legal advice to the employer, as the case may be;
 
-[25/99; 12/2000]
+(c) it is a communication made —
 
-(3) This Act shall apply to any serious offence or foreign serious offence whether committed before or after 13th September 1999.
+(i) between a client, or an employer of a legal counsel, and another person;
 
-[25/99]
+(ii) between a lawyer acting for a client and either the client or another person; or
 
-(4) Nothing in this Act shall impose any duty or confer any power on any court in connection with any proceedings under this Act and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 11 against a person for a serious offence in respect of which he has been convicted by a court before 13th September 1999.
+(iii) between a legal counsel acting as such for his or her employer and either the employer or another person, in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or employer (as the case may be) is or may be, or was or might have been, a party;
 
-[25/99; 12/2000]
+(d) it is an item, or a document (including its contents), that is enclosed with or referred to in any communication in paragraph (a) or (b) and that is made or prepared by any person in connection with a lawyer or legal counsel, or one or more of the lawyers or legal counsel, in either paragraph giving legal advice to the client or the employer of the legal counsel, as the case may be; or
 
-(5) This Act shall apply to any property, whether it is situated in Singapore or elsewhere.
+(e) it is an item, or a document (including its contents), that is enclosed with or referred to in any communication in paragraph (c) and that is made or prepared by any person in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or the employer of the legal counsel (as the case may be) is or may be, or was or might have been, a party, but it is not any such communication, item or document that is made, prepared or held with the intention of furthering a criminal purpose.
+
+[21/2014]
+
+(2) In this section —
+
+“client”, in relation to a lawyer, includes an agent of or other person representing a client and, if a client has died, a personal representative of the client;
+
+“employer”, in relation to a legal counsel, includes —
+
+(a) if the employer is one of a number of corporations that are related to each other under section 6 of the Companies Act 1967 — every corporation so related as if the legal counsel is also employed by each of the related corporations;
+
+(b) if the employer is a public agency within the meaning of section 128A(6) of the Evidence Act 1893 and the legal counsel is required as part of his or her duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to any other public agency or agencies — the other public agency or agencies as if the legal counsel is also employed by the other public agency or each of the other public agencies; and
+
+(c) an employee or officer of the employer;
+
+“lawyer” means an advocate and solicitor, and includes an interpreter or other person who works under the supervision of an advocate and solicitor;
+
+“legal counsel” means a legal counsel as defined in section 3(7) of the Evidence Act 1893, and includes an interpreter or other person who works under the supervision of a legal counsel.
+
+[2A
+
+[21/2014]

@@ -1,6 +1,8 @@
-# 58. Sanction of Public Prosecutor
-Part: PART VII MISCELLANEOUS
+# 58. Object of this Part
+Part: PART 6A CROSS BORDER MOVEMENTS OF PHYSICAL CURRENCY AND BEARER NEGOTIABLE INSTRUMENTS
 
-No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+The object of this Part is to impose measures for the disclosure of information regarding movements of physical currency and bearer negotiable instruments into and out of Singapore for the purpose of detecting, investigating and prosecuting drug dealing offences and serious offences, and to allow the confiscation of any physical currency or bearer negotiable instrument moved, attempted to be moved, or received, in contravention of the requirements under this Part.
 
-[55 and Other Serious Crimes 2000 Ed. (Confiscation of Benefits) CAP. 65A 69
+[48A
+
+[44/2007; 21/2014; 51/2018]

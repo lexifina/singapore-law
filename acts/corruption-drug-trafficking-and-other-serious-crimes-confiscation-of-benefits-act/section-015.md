@@ -1,36 +1,74 @@
-# 15. Cases in which restraint orders and charging orders may be made and Other Serious Crimes
-Part: PART III ENFORCEMENT, ETC., OF CONFISCATION ORDERS
+# 15. Definition of principal terms used
+Part: PART 2 CONFISCATION OF BENEFITS OF DRUG DEALING OR CRIMINAL CONDUCT
 
-(1) The powers conferred on the High Court by section 16 (1) to make a restraint order and by section 17 (1) to make a charging order are exercisable where —
+(1) For the purposes of sections 12 and 13, the amount that might be realised at the time a confiscation order is made against the defendant is —
 
-(a) proceedings have been instituted against the defendant for a drug trafficking offence or a serious offence, as the case may be;
+(a) the total of the values at that time of all the realisable property held by the defendant; less
 
-(b) the proceedings have not been concluded; and
+(b) where there are obligations having priority at that time —
 
-(c) the Court is satisfied that there is reasonable cause to believe that benefits have been derived by the defendant from drug trafficking or from criminal conduct, as the case may be.
+the total amounts payable pursuant to those obligations, together with the total of the values at that time of all gifts caught by this Act.
 
-[25/99]
+(2) Subject to subsections (3) to (9), for the purposes of this Act, the value of property (other than cash) in relation to any person holding the property —
 
-(2) Those powers are also exercisable where the High Court is satisfied —
+(a) where any other person holds an interest in the property, is —
 
-(a) that a person has been officially informed under section 122
+(i) the market value of the firstmentioned person’s beneficial interest in the property; less
 
-(6) of the Criminal Procedure Code (Cap. 68) that he may be prosecuted for a drug trafficking offence or a serious offence, as the case may be; or
+(ii) the amount required to discharge any incumbrance (other than a charging order) on that interest; and
 
-(b) that investigation for a drug trafficking offence or a serious offence, as the case may be, having been commenced against a person, he dies or cannot be found or is outside the jurisdiction, and that there is reasonable cause to believe that benefits have been derived by that person from drug trafficking or from criminal conduct, as the case may be.
+(b) in any other case, is its market value.
 
-[25/99]
+(3) Subject to subsection (9), references in this Act to the value at any time (called in subsection (4) the material time) of a gift caught by this Act are references to —
 
-(3) For the purposes of sections 16 and 17, at any time when those powers are exercisable before proceedings have been instituted —
+(a) the value of the gift to the recipient when the recipient received it adjusted to take account of subsequent changes in the value of money; or
 
-(a) references in this Act to the defendant shall be construed as references to the person referred to in subsection (2); and
+(b) where subsection (4) applies, the value mentioned therein, whichever is the greater.
 
-and Other Serious Crimes 24 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+(4) Subject to subsection (9), if at the material time the recipient holds —
 
-(b) references in this Act to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (2) for a drug trafficking offence or a serious offence, as the case may be.
+(a) the property which the recipient received (not being cash);
 
-[25/99]
+or
 
-(4) Where the High Court has made an order under section 16 (1) or 17 (1) by virtue of subsection (2), the Court shall discharge the order if the proposed proceedings are not instituted within such time as the Court considers reasonable and which shall not in any event exceed a period of 3 months.
+(b) property which, in whole or in part, directly or indirectly, represents in the recipient’s hands the property which the recipient received, the value mentioned in subsection (3)(b) is the value to the recipient at the material time of the property mentioned in paragraph (a) or paragraph (b) (as the case may be) so far as it so represents the property which the recipient received, but disregarding in either case any charging order.
 
-[11
+(5) For the purposes of subsection (1), an obligation has priority at any time if it is an obligation of the defendant to —
+
+(a) pay an amount due in respect of a fine, or other order of a court, imposed or made on conviction of an offence, where the fine was imposed or order made before the confiscation order; or
+
+(b) pay any sum which would be included among the preferential debts in the defendant’s bankruptcy commencing on the date of the confiscation order or winding up under an order of the court made on that date.
+
+(6) In subsection (5)(b), “preferential debts” —
+
+(a) in relation to bankruptcy, means the debts to be paid in priority under section 352 of the Insolvency, Restructuring and Dissolution Act 2018 (assuming the date of the confiscation order to be the date of the bankruptcy order);
+
+and
+
+(b) in relation to winding up, means the debts to be paid in priority in accordance with section 203 of the Insolvency, Restructuring and Dissolution Act 2018 (assuming the date of the confiscation order to be the commencement date of the winding up).
+
+[40/2018]
+
+(7) A gift (including a gift made before 30 November 1993) is caught by this Act if —
+
+(a) it was made by the defendant at any time since the beginning of the period of 6 years ending when the proceedings for a drug dealing offence were instituted against the defendant or, where no such proceedings have been instituted, when an application under section 6 for a confiscation order is made against the defendant; or
+
+(b) it was made by the defendant at any time and was a gift of property which is or is part of the benefits derived by the defendant from drug dealing.
+
+[21/2014]
+
+(8) A gift (including a gift made before 13 September 1999) is caught by this Act if —
+
+(a) it was made by the defendant at any time since the beginning of the period of 6 years ending when the proceedings for a serious offence were instituted against the defendant or, where no such proceedings have been instituted, when an application under section 7 for a confiscation order is made against the defendant; or
+
+(b) it was made by the defendant at any time and was a gift of property which is or is part of the benefits derived by the defendant from criminal conduct.
+
+(9) For the purposes of this Act —
+
+(a) the circumstances in which the defendant is to be treated as making a gift include those where the defendant transfers property to another person, directly or indirectly, for a consideration the value of which is significantly less than the value of the consideration provided by the defendant;
+
+and
+
+(b) in those circumstances, this section applies as if the defendant had made a gift of such share in the property as bears to the whole property the same proportion as the difference between the values mentioned in paragraph (a) bears to the value of the consideration provided by the defendant.
+
+[12

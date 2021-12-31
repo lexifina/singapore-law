@@ -1,14 +1,16 @@
-# 55. Powers of arrest and investigations
-Part: PART VII MISCELLANEOUS
+# 55. Possessing or using property reasonably suspected to be benefits from drug dealing, etc.
+Part: PART 6 OFFENCES
 
-(1) An authorised officer or a customs officer may arrest without warrant any person whom he reasonably believes has committed an offence under this Act or the regulations made thereunder.
+(1) Any person who possesses or uses any property that may be reasonably suspected of being, or of in whole or in part, directly or indirectly, representing, any benefits of drug dealing or benefits from criminal conduct shall, if the person fails to account satisfactorily how the person came by the property, be guilty of an offence.
 
-(2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a and Other Serious Crimes 68 CAP. 65A (Confiscation of Benefits) 2000 Ed.
+[51/2018]
 
-seizable offence is disclosed under any written law in the course of an investigation under this Act.
+(2) Any person who commits an offence under subsection (1) shall be liable on conviction —
 
-(3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non-seizable offence is disclosed under any written law in the course of investi- gations under this Act.
+(a) if the person is an individual, to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both; or
 
-(4) In this section, ‘‘seizable offence’’ and ‘‘non-seizable offence’’ have the same meanings as in section 2 of the Criminal Procedure Code.
+(b) if the person is not an individual, to a fine not exceeding $300,000.
 
-[51
+[47AA
+
+[51/2018]

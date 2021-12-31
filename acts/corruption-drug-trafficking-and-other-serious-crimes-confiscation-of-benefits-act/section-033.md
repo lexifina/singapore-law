@@ -1,16 +1,12 @@
-# 33. Failure to comply with production order
-Part: PART V INFORMATION GATHERING POWERS Division 1 — Production orders
+# 33. Application of Part
+Part: PART 4A CONFISCATION OF PROPERTY OF CORRESPONDING VALUE TO INSTRUMENTALITIES
 
-(1) Where a person is required by a production order to produce any material to an authorised officer or make any material available to an authorised officer for inspection, the person shall be guilty of an offence under this section if the person —
+(1) This Part applies in relation to any drug dealing offence or serious offence, whether committed before, on or after 1 September 2014.
 
-(a) contravenes the order without reasonable excuse; or
+[21/2014]
 
-(b) in purported compliance with the order produces or makes available any material known to the person to be false or misleading in a material particular without —
+(2) However, nothing in this Part imposes any duty or confers any power on a court in connection with any proceedings against a person for a drug dealing offence or a serious offence for which the person has been convicted by a court before 1 September 2014.
 
-(i) indicating to the authorised officer to whom the material is produced or made available that the material is false or misleading and the respect in which the material is false or misleading; and
+[29A
 
-(ii) providing correct information to the authorised officer if the person is in possession of, or can reasonably acquire, the correct information.
-
-(2) A person guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[28
+[21/2014]
