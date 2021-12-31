@@ -1,0 +1,3 @@
+# 44. Continuing offence
+
+Every default under this Act constituting an offence, if continued, shall constitute a new offence in every week during which the default continues.
