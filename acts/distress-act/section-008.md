@@ -13,5 +13,3 @@ Property seizable under a writ of distress shall not include —
 (e) goods belonging to guests at an inn; and
 
 (f) goods in the custody of the law.
-
-[26/95]

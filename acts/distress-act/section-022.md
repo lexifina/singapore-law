@@ -1,5 +1,5 @@
 # 22. Where goods removed sold to bona fide purchaser
 
-(1) If any property so removed has been sold for fair value, whether before or after removal, to a bona fide purchaser not knowing or having the means of knowing that it was liable to distress for non‑payment of rent or was removed in order to hinder or prevent the distraint thereof, it shall not be seized, or, if seized, shall be restored to the purchaser.
+(1) If any property so removed has been sold for fair value, whether before or after removal, to a bona fide purchaser not knowing or having the means of knowing that it was liable to distress for non-payment of rent or was removed in order to hinder or prevent the distraint thereof, it shall not be seized, or, if seized, shall be restored to the purchaser.
 
 (2) Any person claiming to be a bona fide purchaser for fair value of any property seized under section 21 may, within 4 days of such seizure, or such further time as a judge may allow, apply for an order that the property so seized may be restored to him, and a judge may make such order accordingly.

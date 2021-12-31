@@ -2,7 +2,7 @@
 
 Section 10 shall not apply to —
 
-(a) goods belonging to the husband or wife of the tenant whose rent is in arrear, or to goods comprised in any bill of sale, hire‑purchase agreement, or settlement made by such tenant, or to goods in the possession, order or disposition of such tenant by the consent and permission of the true owner under such circumstances that such tenant is the reputed owner thereof;
+(a) goods belonging to the husband or wife of the tenant whose rent is in arrear, or to goods comprised in any bill of sale, hire-purchase agreement, or settlement made by such tenant, or to goods in the possession, order or disposition of such tenant by the consent and permission of the true owner under such circumstances that such tenant is the reputed owner thereof;
 
 (b) goods of a partner of the immediate tenant;
 
