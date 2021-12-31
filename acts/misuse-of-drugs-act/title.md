@@ -1,38 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-MISUSE OF DRUGS ACT
-(CHAPTER 185)
-Act
-5 of 1973
-Amended by
-49 of 1975
-12 of 1977
-S 46/74
-S 59/75
-Reprint 1985 Ed. Cap. 185 1997 Ed. Cap. 185 2001 Ed. Cap. 185
-2 of 1978
-Amended by Amended by Amended by
-Amended by 38 of 1989 20 of 1998 3 of 2005
-28 of 1979 40 of 1993 S 469/97 2 of 2006
-S 14/78 S 31/86 22 of 2007
-1998 Ed. Cap. 185
-S 88/79 S 50/90 S 493/2001
-S 237/83 S 564/91 Amended by S 30/2004
-S 238/83 S 66/92 8 of 2000 S 507/2005
-S 229/84 S 262/95 4 of 2001 S 491/2006
-S 272/84 S 223/96 S 391/99 S 560/2006
-S 31/86 S 232/2000 S 402/2007
-S 404/2000
-REVISED EDITION 2008
-(31st March 2008)
+MISUSE OF DRUGS ACT 1973
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2008
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act for the control of dangerous or otherwise harmful drugs and substances and for purposes connected therewith.
 
-[7th July 1973]
+[7 July 1973]

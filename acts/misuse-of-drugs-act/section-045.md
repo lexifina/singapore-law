@@ -1,10 +1,6 @@
 # 45. Refusal to give evidence
-Part: PART VI COMMITTEE OF INQUIRY
+Part: PART 6 COMMITTEE OF INQUIRY
 
-(1) A person who appears before a committee of inquiry shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce any document or material, or to answer any question, which he is lawfully required to produce or answer.
-
-[8/2000]
+(1) A person who appears before a committee of inquiry must not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce any document or material, or to answer any question, which he or she is lawfully required to produce or answer.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[8/2000]

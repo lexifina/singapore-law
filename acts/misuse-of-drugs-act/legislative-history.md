@@ -1,117 +1,17 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY MISUSE OF DRUGS ACT 1973
 
-MISUSE OF DRUGS ACT (CHAPTER 185)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Misuse of Drugs Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 5 of 1973 — Misuse of Drugs Act 1973
+LEGISLATIVE HISTORY DETAILS PART 1 DELETERIOUS DRUGS ORDINANCE (CHAPTER 190, 1936 REVISED EDITION) 1. Ordinance VII of 1896 — The Morphine Ordinance 1896 Bill : G.N. No. 246/1896 First Reading : 30 April 1896 Second Reading : 7 May 1896 Third Reading : 4 June 1896 Commencement : 4 June 1896 2. Ordinance XV of 1903 — The Morphine Ordinance 1903 Bill : G.N. No. 707/1903 First Reading : 19 June 1903 Second Reading : 26 June 1903 Notice of Amendments : 17 July 1903 Third Reading : 17 July 1903 Commencement : 1 January 1904 3. Ordinance XIV of 1904 — The Morphine Ordinance 1904 Bill : G.N. No. 1023/1904 First Reading : 16 September 1904 Second Reading : 23 September 1904 Select Committee Report : Council Paper No. 32 of 1904 Notice of Amendments : 7 October 1904 Third Reading : 7 October 1904 Commencement : 7 October 1904 4. Ordinance XIV of 1907 — The Deleterious Drugs Ordinance 1907 Bill : G.N. No. 613/1907 First Reading : 14 June 1907 Second Reading : 21 June 1907 Third Reading : 12 July 1907 Commencement : 12 July 1907 5. Ordinance XXVII of 1910 — The Deleterious Drugs Ordinance 1910 Bill : G.N. No. 1019/1910 First Reading : 2 September 1910 Second Reading : 9 September 1910 Amendments to Bill : 7 October 1910 Third Reading : 7 October 1910 Commencement : 12 October 1910 6. Ordinance XI of 1912 — The Public Authorities Protection Ordinance 1912 (Amendments made by section 3 read with the Schedule to the above Ordinance) Bill : G.N. No. 947/1912 First Reading : 30 August 1912 Second Reading : 20 September 1912 Third Reading : 4 October 1912 Commencement : 13 November 1912 (section 3 read with the Schedule) 7. Ordinance XIV of 1913 — The Deleterious Drugs Ordinance 1910 Amendment Ordinance 1913 Bill : G.N. No. 1031/1913 First Reading : 22 August 1913 Second Reading : 5 September 1913 Third Reading : 31 October 1913 Commencement : 18 November 1913 8. 1920 Revised Edition — Ordinance No. 124 (Deleterious Drugs) Operation : 28 November 1921 9. Ordinance 26 of 1921 — Statute Laws (Revised Edition) Operation Ordinance, 1921 (Amendments made by section 3(a) read with Schedule B to the above Ordinance) Bill : G.N. No. 1854/1921 First and Second Readings : 22 November 1921 Notice of Amendments : 22 November 1921 Third Reading : 22 November 1921 Commencement : 28 November 1921 (section 3(a) read with Schedule B) 10. Ordinance 6 of 1925 — Deleterious Drugs Amendment Ordinance, 1925 Bill : G.N. No. 1145/1924 First Reading : 30 June 1924 Second Reading : 15 September 1924 Select Committee Report : Information not available Third Reading : 16 March 1925 Commencement : 11 April 1925 11. 1926 Revised Edition — Ordinance No. 124 (Deleterious Drugs) Operation : 1 August 1926 12. Ordinance 7 of 1927 — Deleterious Drugs Ordinance, 1927 Bill : G.N. No. 186/1927 First Reading : 7 February 1927 Second Reading : 21 March 1927 Notice of Amendments : 21 March 1927 Commencement : 2 June 1927 13. Ordinance 14 of 1928 — Deleterious Drugs (Amendment) Ordinance, 1928 Bill : G.N. No. 547/1928 First Reading : 26 March 1928 Second Reading : 7 May 1928 Notice of Amendments : 7 May 1928 Third Reading : 2 July 1928 Commencement : 21 July 1928 14. Ordinance 58 of 1935 — Deleterious Drugs (Amendment) Ordinance, 1935 Bill : G.N. No. 2953/1935 First Reading : 20 November 1935 Second Reading : 9 December 1935 Notice of Amendments : 9 December 1935 Third Reading : 9 December 1935 Commencement : 1 April 1936 15. 1936 Revised Edition — Deleterious Drugs Ordinance (Chapter 190) Operation : 1 September 1936
 
-Date of First Reading : 22 November 1972 (Bill No. 46/72 published on 25 November 1972)
+PART 2 DANGEROUS DRUGS ACT (CHAPTER 151, 1970 REVISED EDITION) 16. Ordinance 7 of 1951 — Dangerous Drugs Ordinance, 1951 Bill : G.N. No. S 473/1950 First Reading : 21 November 1950 Second Reading : 19 December 1950 Notice of Amendments : 19 December 1950 Third Reading : 19 December 1950 Commencement : 1 March 1951 Note: This Ordinance repealed the Deleterious Drugs Ordinance (Chapter 190, 1936 Revised Edition) and the Opium and Chandu Proclamation (Proclamation No. 43) (British Military Administration G.N. No. 201/1946).
 
-Date of Second and Third Readings : 16 February 1973
+17. Ordinance 29 of 1954 — Dangerous Drugs (Temporary Provisions) Ordinance, 1954 Bill : G.N. No. S 340/1954 First Reading : 12 October 1954 Second Reading : 2 November 1954 Third Reading : 16 November 1954 Commencement : 8 February 1955 18. Ordinance 36 of 1955 — Dangerous Drugs (Temporary Provisions) (Amendment) Ordinance, 1955 Bill : 25/1955 First Reading : 12 October 1955 Second and Third Readings : 7 November 1955 Commencement : 25 November 1955 19. 1955 Revised Edition — Dangerous Drugs Ordinance (Chapter 137) Operation : 1 July 1956 20. 1955 Revised Edition — Dangerous Drugs (Temporary Provisions) Ordinance (Chapter 138) Operation : 1 July 1956 21. Ordinance 29 of 1956 — Dangerous Drugs (Temporary Provisions) Ordinance, 1956 Bill : 65/1956 First Reading : 5 September 1956 Second and Third Readings : 3 October 1956 Commencement : 19 October 1956 22. Ordinance 30 of 1956 — Dangerous Drugs (Amendment) Ordinance, 1956 Bill : 66/1956 First Reading : 5 September 1956 Second Reading : 3 October 1956 Notice of Amendments : 3 October 1956 Third Reading : 3 October 1956 Commencement : 19 October 1956 23. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 24. Ordinance 23 of 1959 — Dangerous Drugs (Amendment) Ordinance, 1959 Bill : 203/1959 First Reading : 11 February 1959 Second Reading : 3 March 1959 Notice of Amendments : 3 March 1959 Third Reading : 3 March 1959 Commencement : 20 March 1959 25. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 26. 1970 Revised Edition — Dangerous Drugs Act (Chapter 151) Operation : 31 May 1971 27. Act 21 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act, 1973 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 16/1973 First Reading : 7 March 1973 Second and Third Readings : 20 March 1973 Commencement : 6 April 1973 (section 2 read with the Schedule) PART 3 DRUGS (PREVENTION OF MISUSE) ACT (CHAPTER 154, 1970 REVISED EDITION) 28. Act 7 of 1969 — Drugs (Prevention of Misuse) Act, 1969 Bill : 7/1969 First Reading : 8 April 1969 Second and Third Readings : 12 June 1969 Commencement : 1 August 1969 29. G.N. No. S 315/1970 — Drugs (Prevention of Misuse) Order, 1970 Commencement : 20 November 1970 30. 1970 Revised Edition — Drugs (Prevention of Misuse) Act (Chapter 154) Operation : 31 May 1971 31. Act 21 of 1973 — Statutes of the Republic of Singapore (Miscellaneous Amendments) Act, 1973 (Amendments made by section 2 read with the Schedule to the above Act) Bill : 16/1973 First Reading : 7 March 1973 Second and Third Readings : 20 March 1973 Commencement : 6 April 1973 (section 2 read with the Schedule)
 
-Date of commencement : 7 July 1973
+PART 4 MISUSE OF DRUGS ACT 1973 (2020 REVISED EDITION) 32. Act 5 of 1973 — Misuse of Drugs Act, 1973 Bill : 46/1972 First Reading : 22 November 1972 Second Reading : 16 February 1973 Notice of Amendments : 16 February 1973 Third Reading : 16 February 1973 Commencement : 7 July 1973 33. G.N. No. S 46/1974 — Misuse of Drugs (Amendment to First Schedule) Order, 1974 Commencement : 15 February 1974 34. G.N. No. S 59/1975 — Misuse of Drugs (Amendment to First Schedule) Order, 1975 Commencement : 27 March 1975 35. Act 49 of 1975 — Misuse of Drugs (Amendment) Act, 1975 Bill : 55/1975 First Reading : 11 November 1975 Second Reading : 20 November 1975 Notice of Amendments : 20 November 1975 Third Reading : 20 November 1975 Commencement : 12 December 1975 36. Act 12 of 1977 — Misuse of Drugs (Amendment) Act, 1977 Bill : 14/1977 First Reading : 2 September 1977 Second Reading : 9 November 1977 Notice of Amendments : 9 November 1977 Third Reading : 9 November 1977 Commencement : 1 January 1978 37. G.N. No. S 14/1978 — Misuse of Drugs (Amendment to First Schedule) Order, 1978 Commencement : 27 January 1978 38. 1978 Reprint — Misuse of Drugs Act, 1973 Reprint : 15 December 1978 39. G.N. No. S 88/1979 — Misuse of Drugs (Amendment of First Schedule) Order, 1979 Commencement : 20 April 1979 40. Act 28 of 1979 — Misuse of Drugs (Amendment) Act, 1979 Bill : 27/1979 First Reading : 7 September 1979 Second and Third Readings : 21 September 1979 Commencement : 1 October 1979 41. G.N. No. S 237/1983 — Misuse of Drugs (Amendment) Regulations 1893 Commencement : 4 October 1983 42. G.N. No. S 238/1983 — Misuse of Drugs (Amendment to First Schedule) Order 1983 Commencement : 4 October 1983 43. G.N. No. S 229/1984 — Misuse of Drugs (Amendment of First Schedule) Order 1984 Commencement : 31 August 1984 44. G.N. No. S 272/1984 — Misuse of Drugs (Amendment of First Schedule) (No. 2) Order 1984 Commencement : 2 November 1984 45. G.N. No. S 31/1986 — Misuse of Drugs Act (Amendment of First Schedule) Order 1986 Commencement : 7 February 1986 46. 1985 Revised Edition — Misuse of Drugs Act (Chapter 185) Operation : 30 March 1987 47. G.N. No. S 50/1990 — Misuse of Drugs Act (Amendment of First Schedule) Order 1990 Commencement : 15 February 1990 48. Act 38 of 1989 — Misuse of Drugs (Amendment) Act 1989 Bill : 39/1989 First Reading : 6 October 1989 Second and Third Readings : 30 November 1989 Commencement : 15 February 1990 49. G.N. No. S 564/1991 — Misuse of Drugs Act (Amendment of First Schedule) Order 1991 Commencement : 2 January 1992 50. G.N. No. S 66/1992 — Misuse of Drugs Act (Amendment of First Schedule) Order 1992 Commencement : 1 March 1992 51. Act 40 of 1993 — Misuse of Drugs (Amendment) Act 1993 Bill : 33/1993 First Reading : 12 October 1993 Second and Third Readings : 10 November 1993 Commencement : 10 December 1993 52. G.N. No. S 262/1995 — Misuse of Drugs Act (Amendment of First Schedule) Order 1995 Commencement : 16 June 1995 53. G.N. No. S 223/1996 — Misuse of Drugs Act (Amendment of First Schedule) Order 1996 Commencement : 17 May 1996 54. 1997 Revised Edition — Misuse of Drugs Act (Chapter 185) Operation : 30 May 1997 55. G.N. No. S 469/1997 — Misuse of Drugs Act (Amendment of First Schedule) Order 1997 Commencement : 17 October 1997 56. Act 20 of 1998 — Misuse of Drugs (Amendment) Act 1998 Bill : 17/1998 First Reading : 20 April 1998 Second and Third Readings : 1 June 1998 Commencement : 20 July 1998 57. 1998 Revised Edition — Misuse of Drugs Act (Chapter 185) Operation : 15 December 1998 58. G.N. No. S 391/1999 — Misuse of Drugs Act (Amendment of First Schedule) Order 1999 Commencement : 9 September 1999 59. Act 8 of 2000 — Prisons (Amendment) Act 2000 (Amendments made by section 26 of the above Act) Bill : 5/2000 First Reading : 17 January 2000 Second and Third Readings : 21 February 2000 Commencement : 17 April 2000 (section 26) 60. G.N. No. S 232/2000 — Misuse of Drugs Act (Amendment of First Schedule) Order 2000 Commencement : 15 May 2000 61. G.N. No. S 404/2000 — Misuse of Drugs Act (Amendment of Third Schedule) Order 2000 Commencement : 11 September 2000 62. Act 4 of 2001 — Health Sciences Authority Act 2001 (Amendments made by section 42 read with item (8) of the Second Schedule to the above Act) Bill : 3/2001 First Reading : 12 January 2001 Second and Third Readings : 22 February 2001 Commencement : 1 April 2001 (section 42 read with item (8) of the Second Schedule) 63. 2001 Revised Edition — Misuse of Drugs Act (Chapter 185) Operation : 31 July 2001 64. G.N. No. S 493/2001 — Misuse of Drugs Act (Amendment of First Schedule) Order 2001 Commencement : 8 October 2001 65. G.N. No. S 30/2004 — Misuse of Drugs Act (Amendment of First and Fourth Schedules) Order 2004 Commencement : 30 January 2004 66. Act 3 of 2005 — CISCO (Dissolution) Act 2005 (Amendments made by section 16 read with item (6) of the Schedule to the above Act) Bill : 52/2004 First Reading : 19 October 2004 Second and Third Readings : 25 January 2005 Commencement : 10 June 2005 (section 16 read with item (6) of the Schedule) 67. G.N. No. S 507/2005 — Misuse of Drugs Act (Amendment of First Schedule) Order 2005 Commencement : 1 August 2005 68. Act 2 of 2006 — Misuse of Drugs (Amendment) Act 2006 Bill : 40/2005 First Reading : 21 November 2005 Second and Third Readings : 16 January 2006 Commencement : 1 March 2006 69. G.N. No. S 491/2006 — Misuse of Drugs Act (Amendment of First Schedule) Order 2006 Commencement : 14 August 2006 70. G.N. No. S 560/2006 — Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2006 Commencement : 1 October 2006 71. G.N. No. S 402/2007 — Misuse of Drugs Act (Amendment of Fourth Schedule) Order 2007 Commencement : 1 August 2007 72. Act 22 of 2007 — Dentists (Amendment) Act 2007 (Amendments made by section 39 read with item (7) of the Schedule to the above Act) Bill : 9/2007 First Reading : 27 February 2007 Second and Third Readings : 12 April 2007 Commencement : 1 January 2008 (section 39 read with item (7) of the Schedule) 73. 2008 Revised Edition — Misuse of Drugs Act (Chapter 185) Operation : 31 March 2008 74. G.N. No. S 685/2010 — Misuse of Drugs Act (Amendment of First Schedule) Order 2010 Commencement : 15 November 2010 75. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 63 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Second and Third Readings : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 63 of the Sixth Schedule) 76. Act 30 of 2012 — Misuse of Drugs (Amendment) Act 2012 Bill : 27/2012 First Reading : 15 October 2012 Second and Third Readings : 14 November 2012 Commencement : 1 January 2013 (sections 2(c), (d) and (e), 3, 6, 14, 25(a), 27 and 28) 1 May 2013 (sections 4, 5, 7 to 13, 15(a) and (d), 23, 24, 25(b) and (c) and 26) 28 April 2014 (sections 2(a) and (b), 15(b), (c) and (e) and 16 to 22) 77. G.N. No. S 272/2013 — Misuse of Drugs Act (Amendment of First and Third Schedules) Order 2013 Commencement : 1 May 2013 78. G.N. No. S 273/2013 — Misuse of Drugs Act (Amendment of Fifth Schedule) Order 2013 Commencement : 2 May 2013 79. G.N. No. S 323/2014 — Misuse of Drugs Act (Amendment of First, Fourth and Fifth Schedules) Order 2014 Commencement : 1 May 2014 80. G.N. No. S 440/2014 — Misuse of Drugs Act (Amendment of Third Schedule) Order 2014 Commencement : 1 July 2014 81. Act 1 of 2014 — Prisons (Amendment) Act 2014 (Amendments made by section 22 read with item 5 of the Schedule to the above Act) Bill : 22/2013 First Reading : 11 November 2013 Second Reading : 21 January 2014 Notice of Amendments : 21 January 2014 Third Reading : 21 January 2014 Commencement : 1 July 2014 (section 22 read with item 5 of the Schedule) 82. G.N. No. S 572/2014 — Misuse of Drugs Act (Amendment of First, Third and Fifth Schedules) Order 2014 Commencement : 1 September 2014 83. G.N. No. S 254/2015 — Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2015 Commencement : 1 May 2015 84. G.N. No. S 614/2015 — Misuse of Drugs Act (Amendment of Fifth Schedule) Order 2015 Commencement : 1 November 2015 85. G.N. No. S 200/2016 — Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2016 Commencement : 1 May 2016 86. G.N. No. S 194/2017 — Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2017 Commencement : 1 May 2017 87. G.N. No. S 625/2017 — Misuse of Drugs Act (Amendment of Third and Fifth Schedules) Order 2017 Commencement : 1 November 2017 88. G.N. No. S 233/2018 — Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2018 Commencement : 1 May 2018 89. G.N. No. S 587/2018 — Misuse of Drugs Act (Amendment of First Schedule) Order 2018 Commencement : 1 October 2018 90. G.N. No. S 150/2019 — Misuse of Drugs Act (Amendment of First Schedule) Order 2019 Commencement : 25 March 2019 91. Act 1 of 2019 — Misuse of Drugs (Amendment) Act 2019 Bill : 51/2018 First Reading : 19 November 2018 Second and Third Readings : 15 January 2019 Commencement : 1 April 2019 (sections 2, 5 to 8, 10 to 17, 20(c), 21(a), (c) and (d) and 22(1)) 1 August 2019 (sections 3, 4, 9, 18, 19, 20(a) and (b), 21(b) and 22(2) and (3)) 92. G.N. No. S 354/2019 — Misuse of Drugs Act (Amendment of First, Third and Fifth Schedules) Order 2019 Commencement : 1 May 2019 93. G.N. No. S 792/2019 — Misuse of Drugs Act (Amendment of First, Fourth and Fifth Schedules) Order 2019 Commencement : 1 December 2019 94. G.N. No. S 349/2020 — Misuse of Drugs Act (Amendment of First, Third and Fifth Schedules) Order 2020 Commencement : 1 May 2020 95. G.N. No. S 751/2020 — Misuse of Drugs Act (Amendment of First Schedule) Order 2020 Commencement : 4 September 2020 96. G.N. No. S 284/2021 — Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2021 Commencement : 1 May 2021
 
-2. Act 49 of 1975 — Misuse of Drugs (Amendment) Act 1975
+Abbreviations
 
-Date of First Reading : 11 November 1975 (Bill No. 55/75 published on 11 November 1975)
-
-Date of Second and Third Readings : 20 November 1975
-
-Date of commencement : 12 December 1975
-
-3. Act 12 of 1977 — Misuse of Drugs (Amendment) Act 1977
-
-Date of First Reading : 2 September 1977 (Bill No. 14/77 published on 7 September 1977)
-
-Date of Second and Third Readings : 9 November 1977
-
-Date of commencement : 1 January 1978
-
-4. Reprint 2 of 1978 — Misuse of Drugs Act 1973
-
-Date of operation : 15 December 1978
-
-5. Act 28 of 1979 — Misuse of Drugs (Amendment) Act 1979
-
-Date of First Reading : 7 September 1979 (Bill No. 27/79 published on 11 September 1979)
-
-Date of Second and Third Readings : 21 September 1979
-
-Date of commencement : 1 October 1979 6. 1985 Revised Edition — Misuse of Drugs Act (Chapter 185)
-
-Date of operation : 30 March 1987
-
-7. Act 38 of 1989 — Misuse of Drugs (Amendment) Act 1989
-
-Date of First Reading : 6 October 1989 (Bill No. 39/89 published on 7 October 1989)
-
-Date of Second and Third Readings : 30 November 1989
-
-Date of commencement : 15 February 1990
-
-8. Act 40 of 1993 — Misuse of Drugs (Amendment) Act 1993
-
-Date of First Reading : 12 October 1993 (Bill No. 33/93 published on 13 October 1993)
-
-Date of Second and Third Readings : 10 November 1993
-
-Date of commencement : 10 December 1993
-
-9. 1997 Revised Edition — Misuse of Drugs Act (Chapter 185)
-
-Date of operation : 30 May 1997
-
-10. Act 20 of 1998 — Misuse of Drugs (Amendment) Act 1998
-
-Date of First Reading : 20 April 1998 (Bill No. 17/98 published on 21 April 1998)
-
-Date of Second and Third Readings : 1 June 1998
-
-Date of commencement : 20 July 1998
-
-11. 1998 Revised Edition — Misuse of Drugs Act (Chapter 185)
-
-Date of operation : 15 December 1998
-
-12. Act 8 of 2000 — Prisons (Amendment) Act 2000 (Consequential amendments made to Act by)
-
-Date of First Reading : 17 January 2000 (Bill No. 5/2000 published on 18 January 2000)
-
-Date of Second and Third Readings : 21 February 2000
-
-Date of commencement : 17 April 2000 13. Act 4 of 2001 — Health Sciences Authority Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 12 January 2001 (Bill No. 3/2001 published on 13 January 2001)
-
-Date of Second and Third Readings : 22 February 2001
-
-Date of commencement : 1 April 2001
-
-14. 2001 Revised Edition — Misuse of Drugs Act (Chapter 185)
-
-Date of operation : 31 July 2001
-
-15. Act 3 of 2005 — CISCO (Dissolution) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 19 October 2004 (Bill No. 52/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 25 January 2005
-
-Date of commencement : 10 June 2005
-
-16. Act 2 of 2006 — Misuse of Drugs (Amendment) Act 2006
-
-Date of First Reading : 21 November 2005 (Bill No. 40/2005 published on 22 November 2005)
-
-Date of Second and Third Readings : 16 January 2006
-
-Date of commencement : 1 March 2006
-
-17. Act 22 of 2007 — Dentists (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 27 February 2007 (Bill No. 9/2007 published on 27 February 2007)
-
-Date of Second and Third Readings : 12 April 2007
-
-Date of commencement : 1 January 2008
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

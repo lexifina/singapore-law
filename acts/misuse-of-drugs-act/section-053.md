@@ -1,6 +1,4 @@
-# 53. Jurisdiction of court
-Part: PART VII GENERAL
+# 53. Jurisdiction of courts
+Part: PART 7 GENERAL
 
-A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have power to impose the full penalty or punishment in respect of any offence provided by this Act except the punishment of death.
-
-[49/75]
+A District Court or a Magistrate’s Court has jurisdiction to hear and determine all proceedings under this Act and, despite anything to the contrary in the Criminal Procedure Code 2010, a District Court has power to impose the full penalty or punishment in respect of any offence provided by this Act except the punishment of death.

@@ -1,7 +1,7 @@
 # 40B. Taking of photographs, finger impressions, particulars and body samples from person subject to supervision or in approved institutions
-Part: PART V TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES
+Part: PART 5 TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES
 
-(1) Any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may exercise all or any of the following powers in respect of any person referred to in subsection (2):
+(1) Any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may exercise all or any of the following powers in respect of any person mentioned in subsection (2):
 
 (a) take or cause to be taken photographs and finger impressions of such person;
 
@@ -11,9 +11,7 @@ Part: PART V TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAM
 
 (d) send any photograph, finger impression, record of particulars or body sample so taken or made to the Commissioner of Police for identification and report.
 
-[2/2006]
-
-(2) The powers referred to in subsection (1) may be exercised in respect of a person who on or after 1st March 2006 —
+(2) The powers mentioned in subsection (1) may be exercised in respect of a person who on or after 1 March 2006 —
 
 (a) is subject to supervision pursuant to a supervision order made at any time (whether before, on or after that date) under section 34(2)(a);
 
@@ -21,30 +19,22 @@ Part: PART V TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAM
 
 (c) is subject to a supervision order made at any time (whether before, on or after that date) under any regulations providing for the supervision and aftercare of persons.
 
-[2/2006]
+(3) Every person mentioned in subsection (2) must —
 
-(3) Every person mentioned in subsection (2) shall —
-
-(a) submit to the taking of his photographs and finger impressions under subsection (1);
+(a) submit to the taking of his or her photographs and finger impressions under subsection (1);
 
 (b) provide such particulars as may be required under subsection (1); and
 
-(c) subject to subsection (5), submit to the taking of his body samples by a person authorised under section 40C(1).
+(c) subject to subsection (5), submit to the taking of his or her body samples by a person authorised under section 40C(1).
 
-[2/2006]
-
-(4) Where any person mentioned in subsection (2) fails, without reasonable excuse, to comply with subsection (3) —
+(4) Where any person mentioned in subsection (2), without reasonable excuse, fails to comply with subsection (3) —
 
 (a) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and
 
 (b) any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may use such force as is reasonably necessary to take or cause to be taken the photographs, finger impressions and body samples of that person.
 
-[2/2006]
-
 (5) No —
 
 (a) sample of blood; or
 
-(b) intimate sample prescribed under section 40A(2), shall be taken from any person unless the appropriate consent is given for the taking of the sample.
-
-[2/2006]
+(b) intimate sample prescribed under section 40A(2), is to be taken from any person unless the appropriate consent is given for the taking of the sample.

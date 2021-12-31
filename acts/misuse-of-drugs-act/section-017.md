@@ -1,7 +1,7 @@
 # 17. Presumption concerning trafficking
-Part: PART III EVIDENCE, ENFORCEMENT AND PUNISHMENT
+Part: PART 3 EVIDENCE, ENFORCEMENT AND PUNISHMENT
 
-Any person who is proved to have had in his possession more than —
+Any person who is proved to have had in his or her possession more than —
 
 (a) 100 grammes of opium;
 
@@ -23,10 +23,8 @@ Any person who is proved to have had in his possession more than —
 
 (i) 10 grammes of any or any combination of the following:
 
-(i) N, α-dimethyl-3,4-(methylenedioxy)phenethylamine;
+(i) N, α-dimethyl-3,4-(methylenedioxy) phenethylamine;
 
-(ii) α-methyl-3,4-(methylenedioxy)phenethylamine; or
+(ii) α-methyl-3,4-(methylenedioxy)phenethylamine;
 
-(iii) N-ethyl-α-methyl-3,4-(methylenedioxy)phenethyla- mine, whether or not contained in any substance, extract, preparation or mixture, shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
-
-[38/89; 40/93; 20/98; 2/2006]
+(iii) N-ethyl-α-methyl-3,4-(methylenedioxy) phenethylamine, whether or not contained in any substance, extract, preparation or mixture, is presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his or her possession of that drug was not for that purpose.
