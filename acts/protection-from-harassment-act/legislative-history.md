@@ -1,5 +1,9 @@
-# LEGISLATIVE HISTORY PROTECTION FROM HARASSMENT ACT (CHAPTER 256A)
+# LEGISLATIVE HISTORY PROTECTION FROM HARASSMENT ACT 2014
 
-This Legislative History is provided for the convenience of users of the Protection from Harassment Act. It is not part of the Act.
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 17 of 2014 — Protection from Harassment Act 2014 Date of First Reading : 3 March 2014 (Bill No. 12/2014) Date of Second and Third Readings : 13 March 2014 Date of commencement : 15 November 2014
+1. Act 17 of 2014 — Protection from Harassment Act 2014 Bill : 12/2014 First Reading : 3 March 2014 Second and Third Readings : 13 March 2014 Commencement : 15 November 2014 2. 2015 Revised Edition — Protection from Harassment Act (Chapter 256A) Operation : 31 May 2015 3. Act 27 of 2018 — Vulnerable Adults Act 2018 (Amendments made by section 41 of the above Act) Bill : 20/2018 First Reading : 20 March 2018 Second and Third Readings : 18 May 2018 Commencement : 19 December 2018 (section 41) 4. Act 17 of 2019 — Protection from Harassment (Amendment) Act 2019 Bill : 11/2019 First Reading : 1 April 2019 Second and Third Readings : 7 May 2019 Commencement : 1 January 2020 (except sections 2, 3(1)(e) and (2), 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30 and 31) 1 April 2020 (sections 3(1)(e) and (2)(a) to (d) and (g), 14, 20(1) to (7), 24(b) to (g), 26, 27 and 28(1)) 1 June 2021 (sections 2, 3(2)(e) and (f), 13, 15 to 19, 20(8), 22, 23, 24(a) and (h), 28(2), 29 and 30) 5. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 29(13) of the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 1 June 2021 (section 29(13))
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

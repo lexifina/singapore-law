@@ -1,26 +1,57 @@
-# 15. False statements of fact
-Part: PART 3 REMEDIES
+# 15. General provisions applicable to orders under sections 15A to
+Part: PART 3 CIVIL ACTIONS AND ORDERS Division 1 — Actions and orders relating to contraventions of Part 2
+Division: Division 2 — Orders relating to false statements
 
-(1) Where any statement of fact about any person (referred to in this section as the subject) which is false in any particular about the subject has been published by any means, the subject may apply to the District Court for an order under subsection (2) in respect of the statement complained of.
+(1) This section applies to the following orders:
 
-(2) Subject to section 21(1), the District Court may, upon the application of the subject under subsection (1), order that no person shall publish or continue to publish the statement complained of unless that person publishes such notification as the District Court thinks necessary to bring attention to the falsehood and the true facts.
+(a) a stop publication order;
 
-(3) The District Court shall not make an order under subsection (2) unless the District Court is satisfied on the balance of probabilities that —
+(b) a correction order;
 
-(a) the statement of fact complained of is false in any particular about the subject; and
+(c) a disabling order;
 
-(b) it is just and equitable to do so.
+(d) a targeted correction order;
 
-(4) An order under subsection (2) may be made subject to such exceptions or conditions as may be specified in the order.
+(e) a general correction order.
 
-(5) An order under subsection (2) shall take effect in respect of the person to whom such order applies —
+[17/2019]
 
-(a) from the date when such order is served on him in such manner as may be prescribed;
+(2) An order mentioned in subsection (1) takes effect in respect of a relevant party —
 
-(b) where the District Court dispenses with the service of such order, from the date when the service on him of such order is dispensed with by the District Court; or
+(a) when the order is served on the relevant party in such manner as may be prescribed;
 
-(c) such later date as the District Court may specify.
+(b) where a court dispenses with the service of the order, when the service of the order on the relevant party is dispensed with by a court; or
 
-(6) The District Court may, on the application of the subject, the author, or any person to whom the order applies, vary, suspend or cancel the order.
+(c) at such later time as a court may specify.
 
-(7) In this section, “author” means the originator of the statement complained of.
+[17/2019]
+
+(3) An order mentioned in subsection (1) may be made in respect of a false statement of fact even if the false statement has been amended or has ceased to be published.
+
+[17/2019]
+
+(4) An order mentioned in subsection (1) may —
+
+(a) be made against a relevant party whether or not the relevant party is in or outside Singapore, is incorporated or established in or outside Singapore, or has its management or control in or outside Singapore; and
+
+(b) require a relevant party to do or refrain from doing an act in or outside Singapore.
+
+[17/2019]
+
+(5) A court may vary, suspend or cancel an order mentioned in subsection (1), on the application of —
+
+(a) the subject or the author of the false statement;
+
+(b) the relevant party; or
+
+(c) an individual or entity that published the relevant statement to which the order relates.
+
+[17/2019]
+
+(6) An order mentioned in subsection (1) ceases to have effect —
+
+(a) during any period when the order is suspended under subsection (5); and
+
+(b) when the order expires, or is cancelled under subsection (5).
+
+[17/2019]

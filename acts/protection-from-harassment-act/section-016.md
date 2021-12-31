@@ -1,10 +1,60 @@
-# 16. Knowledge of certain orders presumed
-Part: PART 3 REMEDIES
+# 16. General provisions applicable to interim orders
+Part: PART 3 CIVIL ACTIONS AND ORDERS Division 1 — Actions and orders relating to contraventions of Part 2
+Division: Division 2 — Orders relating to false statements
+Heading: 15E
 
-For the purposes of proceedings in relation to section 10 or 15, it shall be presumed, until the contrary is proved, that a person has knowledge of the terms of a protection order under section 12(2), an expedited protection order under section 13(1) or an order under section 15(2), as the case may be —
+(1) Where an application by the subject of an alleged false statement of fact (called in this section and sections 16A, 16AA, 16B and 16BA a relevant statement) for an order mentioned in paragraph (a), (b), (c) or (d) is pending against a respondent in relation to that application, the subject may also apply for the interim order mentioned in that paragraph to be made against that respondent:
 
-(a) from the date when such order is served on him in such manner as may be prescribed;
+(a) a stop publication order — an interim stop publication order or an interim notification order;
 
-(b) where a court dispenses with the service of such order, from the date when the service on him of such order is dispensed with by the court; or
+(b) a correction order — an interim notification order;
 
-(c) such later date as the court may specify.
+(c) a disabling order — an interim disabling order;
+
+(d) a targeted correction order — a targeted interim notification order.
+
+[17/2019]
+
+(2) Sections 16A and 16B apply despite any of the following:
+
+(a) that notice of the application has not been served on the respondent;
+
+(b) that notice of the application has not been served, within a reasonable time before the hearing of the application, on the respondent.
+
+[17/2019]
+
+(3) An interim order takes effect in respect of the respondent —
+
+(a) when the order is served on the respondent in such manner as may be prescribed;
+
+(b) where the court dispenses with the service of the order, when the service of the order on the respondent is dispensed with by the court; or
+
+(c) at such later time as the court may specify.
+
+[17/2019]
+
+(4) An interim order under this section may be made in respect of a relevant statement even if the statement has been amended or has ceased to be published in Singapore.
+
+[17/2019]
+
+(5) There is no appeal against a decision of the court in relation to an interim order under this section.
+
+[17/2019]
+
+(6) The court may vary, suspend or cancel an interim order under this section, on the application of —
+
+(a) the subject or author of the relevant statement;
+
+(b) the respondent; or
+
+(c) an individual or entity that published the relevant statement.
+
+[17/2019]
+
+(7) An interim order made under this section remains in effect until it expires, or is cancelled under subsection (6).
+
+[17/2019]
+
+(8) An interim order under this section may be made subject to such exceptions or conditions as may be specified in the order.
+
+[17/2019]
