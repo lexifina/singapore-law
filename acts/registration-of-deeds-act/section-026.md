@@ -1,0 +1,3 @@
+# 26. Penalty for wilful misconduct by Registrar
+
+The Registrar or any person employed by or under the Registrar for the purposes of this Act, who wilfully neglects his or her duty in the execution of his or her office according to the rules and directions in this Act mentioned, or wilfully commits or suffers to be committed any undue or fraudulent practice in the execution of that office, intending thereby to cause or knowing it to be likely that he or she may thereby cause injury as defined in the Penal Code 1871 to any person, shall be guilty of an offence and shall be punished on conviction with a fine or with imprisonment for a term not exceeding 7 years or with both.
