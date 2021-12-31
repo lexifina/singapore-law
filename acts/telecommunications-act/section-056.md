@@ -1,4 +1,6 @@
-# 56. Contribution by Government
-Part: PART VII INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
+# 56. Exemption from sections 53, 54 and 55
+Part: PART 6 OFFENCES AND PENALTIES
 
-Where the Government considers it necessary that any telecom- munication service of an exceptional nature should be provided, and where a public telecommunication licensee considers it uneconomic to provide the service without contribution from the Government, the Government may make such contribution towards the capital outlay necessary to provide any such service as may be estimated by the licensee and agreed to by the Government.
+Subject to such conditions as the Authority may impose, sections 53, 54 and 55 do not apply to any person who has been issued with a licence for the installation or working of any telecommunication equipment under the provisions of any written law in force in any country which is a party to a treaty or any other arrangement to which Singapore is a party pursuant to which licences issued under the written laws in force in each country for the installation or working of any telecommunication equipment are recognised as having force in the other country.
+
+[36

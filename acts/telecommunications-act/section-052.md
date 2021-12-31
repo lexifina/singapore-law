@@ -1,14 +1,20 @@
-# 52. Failure to disconnect equipment not approved under section 9
-Part: PART VI OFFENCES AND PENALTIES
+# 52. Operator of dispute resolution scheme
+Part: PART 5C ALTERNATIVE DISPUTE RESOLUTION SCHEME
 
-Where —
+The Authority may, with the approval of the Minister, make regulations under section 97 to provide for matters relating to the operations of an operator of a dispute resolution scheme, including —
 
-(a) any person has under his control a telecommunication system or equipment connected to the telecommunication system or equipment of a telecommunication system licensee which is of a type not approved by the Authority under section 9;
+(a) the standards or requirements of the services provided under the dispute resolution scheme;
 
-(b) the Authority has given to the person a written notice stating that —
+(b) the fees that the operator may charge for the services provided under the dispute resolution scheme;
 
-(i) the telecommunication system or equipment under his control is of a type that has not been approved by the Authority under section 9; and
+(c) the records that the operator must keep and the period of retention of such records;
 
-(ii) the person must disconnect the telecommunication system or equipment from the telecommunication system or equipment of the telecommunication system licensee within such period as specified in the notice; and
+(d) the reports that the operator must submit to the Authority, and the manner and time for such submission;
 
-(c) the person has failed to comply with any written notice under paragraph (b), then the person shall be guilty of an offence.
+(e) matters relating to the administration of the dispute resolution scheme; and
+
+(f) generally to give effect to or for carrying out the purposes of this Part.
+
+[32O
+
+[30/2016]

@@ -1,4 +1,6 @@
-# 67. Jurisdiction of Courts
-Part: PART VIII ENFORCEMENT POWERS AND PROCEDURES
+# 67. Prohibition of false notice relating to public telecommunication licensees’ installation or plant
+Part: PART 6 OFFENCES AND PENALTIES
 
-A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine all offences under this Act and, notwith- standing anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+Any person who, without the permission of a public telecommunication licensee, places or maintains in or on any house or place, belonging to or under the control of the person, any word, letter or mark which signifies or implies or may reasonably lead the public to believe that the house or place is part of a public telecommunication licensee’s installation or plant shall be guilty of an offence.
+
+[48

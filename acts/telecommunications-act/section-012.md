@@ -1,8 +1,12 @@
-# 12. Power to enter on and examine land other than State land
-Part: PART III ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
+# 12. Residual power of Authority to provide telecommunication services
+Part: PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF TELECOMMUNICATION SYSTEMS
 
-(1) Whenever it appears to a public telecommunication licensee that it shall or probably shall be necessary to exercise the powers conferred by this Act upon a public telecommunication licensee in respect of any land other than State land for the provision of any telecommunication service, that licensee or any person authorised by that licensee in that behalf may, after giving not less than 3 hours’ previous notice to the occupier thereof, if any, enter upon the land and may survey and take levels and do all other necessary acts preparatory to the provision of the service, so far as the same may be possible without causing any damage or disturbance.
+(1) The Authority may provide any telecommunication service even though it has granted a licence to any person under section 5, in any of the following circumstances:
 
-(2) In the event of any damage or disturbance being caused by reason of the entry, the public telecommunication licensee shall pay compensation to the owner or occupier thereof.
+(a) if the Authority is of the opinion that a person licensed under section 5 has failed to discharge or is not discharging to the Authority’s satisfaction the obligations imposed by the Authority on the person in the licence granted to the person;
 
-(3) Nothing in this section shall be deemed to authorise any employee or agent of a public telecommunication licensee to cut down or clear away any vegetation or any fence or other erection or to enter any building or upon any enclosure attached to any building.
+(b) to give effect to any direction of the Minister under section 77.
+
+(2) Where the Authority undertakes the provision of telecommunication services under subsection (1), sections 2, 11, 15 to 28, 29(1), 36, 59 to 63, 65 to 76 and 93 apply, with the necessary modifications, to the Authority in respect of the provision of such services and the references to public telecommunication licensee in those sections are to be read as references to the Authority.
+
+[10

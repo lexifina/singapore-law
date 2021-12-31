@@ -1,20 +1,58 @@
-# 47. Protection of installation or plant used for telecommunications
-Part: PART VI OFFENCES AND PENALTIES
+# 47. Power to make special administration order, etc.
+Part: PART 5B SPECIAL ADMINISTRATION ORDER
 
-(1) No person shall, without the written approval of the Authority —
+(1) If, on an application made to the Minister by the Authority in relation to any specified telecommunication licensee, the Minister is satisfied that any one or more of the grounds specified in subsection (2) are satisfied in relation to that licensee, the Minister may make any one or more of the following orders:
 
-(a) lay or carry any mains, pipes, conduits, circuits or wires in, along, through, across, over or under any street or place in a manner which is likely to interfere with or cause damage to any installation or plant used for telecommunications; or
+(a) a special administration order in relation to that licensee;
 
-(b) affix any placard, advertisement, notice or other thing in or on, or paint, tar or in any way disfigure any installation or plant used for telecommunications.
+(b) an order requiring the licensee immediately to take any action or to do or not to do any act or thing in relation to its business as the Minister may consider necessary;
 
-(2) Any approval under subsection (1) may be refused by the Authority or granted by the Authority on such terms and conditions as it may determine.
+(c) an order appointing a person to advise that licensee in the proper conduct of its business.
 
-(3) Where the commission by any person of an offence under subsection (1) is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
+[19/2011]
 
-(4) In any proceedings for an offence under subsection (1), it shall, subject to subsection (5), be a defence for the person charged to prove that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+(2) The grounds mentioned in subsection (1) are that —
 
-(5) Where the defence provided by subsection (4) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in his possession.
+(a) there has been, is or is likely to be a contravention by the specified telecommunication licensee of the conditions of its licence or of this Act which is serious enough to make it inappropriate for the licensee to continue to hold the licence;
 
-(6) Any person who contravenes or fails to comply with subsection
+(b) the specified telecommunication licensee is or is likely to be unable to pay its debts;
 
-(1) shall be guilty of an offence and shall, in addition to the forfeiture of any equipment seized, be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+(c) the Minister considers it in the interest of the security and reliability of the supply of telecommunication services in Singapore; and
+
+(d) the Minister considers it to be in the public interest.
+
+[19/2011]
+
+(3) The Minister may make a special administration order in relation to a specified telecommunication licensee despite the commencement of —
+
+(a) any proceedings relating to the making of an order under section 210 of the Companies Act 1967 or section 71 of the Insolvency, Restructuring and Dissolution Act 2018 in relation to the specified telecommunication licensee;
+
+(b) any proceedings relating to the making of a judicial management order under the Insolvency, Restructuring and Dissolution Act 2018 in relation to the specified telecommunication licensee;
+
+(c) any meeting convened under section 94(7) of the Insolvency, Restructuring and Dissolution Act 2018 in relation to the specified telecommunication licensee; or
+
+(d) any proceedings under the Insolvency, Restructuring and Dissolution Act 2018 relating to the winding up of the affairs of the specified telecommunication licensee.
+
+[19/2011; 15/2017; 40/2018]
+
+(4) Notice of any application under subsection (1) must be given immediately by the Authority to such persons and in such manner as may be determined by the Authority.
+
+[19/2011]
+
+(5) Any decision of the Minister under subsection (1) is final.
+
+[19/2011]
+
+(6) For the purposes of this section, a specified telecommunication licensee, being a company, is unable to pay its debts if it is deemed to be unable to pay its debts under section 125(2) of the Insolvency, Restructuring and Dissolution Act 2018.
+
+[19/2011; 40/2018]
+
+(7) The Minister may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a specified telecommunication licensee to any person appointed by the Minister under subsection (1)(c) to advise the licensee in the proper conduct of its business.
+
+[19/2011]
+
+(8) Where the Minister issues an order to a specified telecommunication licensee under subsection (1) and the licensee fails to comply with that order, the licensee shall be guilty of an offence.
+
+[32J
+
+[19/2011]

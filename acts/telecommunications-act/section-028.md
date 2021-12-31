@@ -1,20 +1,6 @@
-# 28. Advisory guidelines
-Part: PART IV CODES OF PRACTICE AND DIRECTIONS
+# 28. Precautions in execution of work
+Part: PART 3 ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
-(1) The Authority may make written advisory guidelines about any aspect of telecommunications.
+The execution of any work by a public telecommunication licensee under this Act which may affect any street, railway, river, canal, or other waterway or any system of irrigation, drainage or water supply or any telecommunications, harbour works or any other public or private works, and the erection of any installation or plant used for telecommunications whether over, on or under the ground must be carried out in a lawful manner having regard to the safety of any person or property.
 
-(2) Advisory guidelines, for example, may be made about —
-
-(a) any matter in respect of which codes of practice and standards of performance may be made under section 26;
-
-(b) the use, construction, design or performance of anything;
-
-(c) interference with radio-communications; or
-
-(d) frequency allocation and co-ordination.
-
-(3) The Authority must —
-
-(a) give a copy of each advisory guideline it makes to the Minister; and
-
-(b) publish each advisory guideline in the way it thinks fit.
+[24

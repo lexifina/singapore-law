@@ -1,20 +1,16 @@
-# 71. Service of documents
-Part: PART IX GENERAL PROVISIONS
+# 71. Failure to disconnect equipment not approved under section 11
+Part: PART 6 OFFENCES AND PENALTIES
 
-(1) Unless otherwise expressly provided in this Act, any notice, order or document required or authorised by this Act or any regulations made thereunder to be given or served on any person, and any summons issued by a court in connection with any offence under this Act or any regulations made thereunder may be served on the person concerned —
+Where —
 
-(a) by delivering it to the person or to some adult member or employee of his family at his last known place of residence;
+(a) any person has under the person’s control a telecommunication system or equipment connected to the telecommunication system or equipment of a telecommunication system licensee which is of a type not approved by the Authority under section 11;
 
-(b) by leaving it at his usual or last known place of residence or place of business in a cover addressed to him;
+(b) the Authority has given to the person a written notice stating that —
 
-(c) by affixing it to some conspicuous part of his last known place of residence;
+(i) the telecommunication system or equipment under the person’s control is of a type that has not been approved by the Authority under section 11; and
 
-(d) by sending it by registered post addressed to the person at his usual or last known place of residence or place of business; or
+(ii) the person must disconnect the telecommunication system or equipment from the telecommunication system or equipment of the telecommunication system licensee within such period as specified in the notice; and
 
-(e) where the person is a body corporate —
+(c) the person has failed to comply with any written notice under paragraph (b), then the person shall be guilty of an offence.
 
-(i) by delivering it to the secretary or other like officer of the body corporate at its registered or principal office; or
-
-(ii) by sending it by registered post addressed to the body corporate at its registered or principal office.
-
-(2) Any notice, order, document or summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would, in the ordinary course of post, be delivered and in proving service of the same, it shall be sufficient to prove that the envelope containing the notice, order, document or summons was properly addressed, stamped and posted by registered post.
+[52

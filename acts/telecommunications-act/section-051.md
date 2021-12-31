@@ -1,6 +1,16 @@
-# 51. Penalty for removing any mark denoting used device for telephony purposes
-Part: PART VI OFFENCES AND PENALTIES
+# 51. Power of Authority in relation to dispute resolution scheme
+Part: PART 5C ALTERNATIVE DISPUTE RESOLUTION SCHEME
 
-(1) Any person who, with fraudulent intent, erases or removes from any device, any mark put or impressed upon the device denoting that the same has been used, or sells or uses any such device shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(1) The Authority may establish or approve one or more dispute resolution schemes for the resolution of disputes between subscribers and declared telecommunication licensees, arising from or relating to the provision of telecommunication services by the declared telecommunication licensees to the subscribers.
 
-(2) For the purpose of this section, ‘‘device’’ means any device provided for use by a public telecommunication licensee for accessing any telecommunication equipment of the licensee to enable the telecommunication service of the licensee to be used.
+[30/2016]
+
+(2) Every declared telecommunication licensee must participate in a dispute resolution scheme and must comply with such terms and conditions of participation in the scheme as may be prescribed.
+
+[30/2016]
+
+(3) To avoid doubt, this Part does not affect the operation of the Consumer Protection (Fair Trading) Act 2003.
+
+[32N
+
+[30/2016]

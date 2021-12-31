@@ -1,6 +1,12 @@
-# 54. Government’s overriding international rights
-Part: PART VII INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
+# 54. Prohibitions in respect of telecommunication and radio-communication equipment
+Part: PART 6 OFFENCES AND PENALTIES
 
-(1) Nothing in section 53 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation.
+(1) A person must not —
 
-(2) A public telecommunication licensee shall so discharge its responsibilities and conduct its business as to comply with and fulfil all international agreements, conventions or undertakings relating to telecommunication to which Singapore is a party.
+(a) offer for sale, sell or possess for sale any telecommunication equipment; or
+
+(b) possess any radio-communication equipment, except and in accordance with a licence granted under section 5 or any regulations made under this Act.
+
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence.
+
+[34

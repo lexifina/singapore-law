@@ -1,10 +1,22 @@
-# 34. Prohibitions in respect of telecommunication and radio-communication equipment
-Part: PART VI OFFENCES AND PENALTIES
+# 34. Powers of Authority in relation to telecommunication cable detection work
+Part: PART 5 TELECOMMUNICATION CABLE DETECTION WORK
 
-(1) No person shall —
+The Authority may —
 
-(a) offer for sale, sell or possess for sale any telecommunication equipment; or
+(a) grant a telecommunication cable detection work licence permitting a person to perform such telecommunication cable detection work as is specified in the licence and may suspend, cancel, alter, extend, renew or replace any such licence;
 
-(b) possess any radio-communication equipment, except and in accordance with a licence granted under section 5 or any regulations made under this Act.
+(b) classify any telecommunication cable detection work licence in such manner as it determines;
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence.
+(c) specify the nature of the telecommunication cable detection work in respect of which a telecommunication cable detection work licence is granted and restrict such work to any type or class of telecommunication cable detection work;
+
+(d) specify the circumstances or manner in which licensed cable detection workers may perform or carry out telecommunication cable detection work;
+
+(e) impose any terms, conditions or restrictions on any telecommunication cable detection work licence;
+
+(f) require any public telecommunication licensee to conduct approved courses of training, including refresher courses, and provide for examinations for telecommunication cable detection workers;
+
+(g) keep a register of licensed telecommunication cable detection workers; and
+
+(h) do any act or thing which is necessary or convenient to carrying out the objects of this Part or is incidental thereto.
+
+[30

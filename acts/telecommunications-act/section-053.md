@@ -1,10 +1,20 @@
-# 53. Right to conduct international business dealings
-Part: PART VII INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
+# 53. Unlawful operation of telecommunication system or service
+Part: PART 6 OFFENCES AND PENALTIES
 
-For the purposes of the conduct of any international telecom- munication service by a public telecommunication licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted telecom- munication authority of any country or with any duly authorised international agency or organisation concerned with telecom- munication matters —
+(1) Subject to this section and section 4, any person who establishes, installs, maintains, provides or operates a telecommunication system or service within Singapore without a licence granted under section 5, or during the suspension of the person’s licence under section 10 or otherwise infringes the privilege conferred upon the Authority by section 3 shall be guilty of an offence.
 
-(a) for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting;
+[30/2016]
 
-(b) for operational, engineering or administrative purposes; or
+(2) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
 
-(c) for any other purpose necessary for the proper fulfilment of its functions.
+(3) In the case of an offence in relation to a telecommunication system or service not extending beyond Singapore, the person or every person operating the system or service (or, if different people run different parts of the system or service, each of them) shall be guilty of an offence and shall be similarly liable.
+
+(4) In the case of an offence in relation to a telecommunication system or service extending beyond Singapore, the person or every person operating that portion of such system or service within Singapore (or, if different people operate different parts of the system or service, each of them) shall be guilty of an offence and shall be similarly liable.
+
+(5) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the firstmentioned person.
+
+(6) In any proceedings for an offence under this section, it is, subject to subsection (7), a defence for the person charged to prove that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(7) Where the defence provided by subsection (6) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged is not, without leave of the court, entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, the person charged has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in the possession of the person charged.
+
+[33

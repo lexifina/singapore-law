@@ -1,4 +1,22 @@
-# 32. Duty to enquire before excavation
-Part: PART V TELECOMMUNICATION CABLE DETECTION WORK
+# 32. Advisory guidelines
+Part: PART 4 CODES OF PRACTICE, STANDARDS OF PERFORMANCE, DIRECTIONS AND ADVISORY GUIDELINES ON TELECOMMUNICATIONS
 
-Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive or allows his employee or agent to do so without first ascertaining the location of any telecommunication cable belonging to or under the management or control of any telecommunication system licensee that may be interfered with shall be guilty of an offence.
+(1) The Authority may make written advisory guidelines about any aspect of telecommunications.
+
+(2) Advisory guidelines, for example, may be made about —
+
+(a) any matter in respect of which codes of practice and standards of performance may be made under section 30;
+
+(b) the use, construction, design or performance of anything;
+
+(c) interference with radio-communications; or
+
+(d) frequency allocation and coordination.
+
+(3) The Authority must —
+
+(a) give a copy of each advisory guideline it makes to the Minister; and
+
+(b) publish each advisory guideline in the way it thinks fit.
+
+[28

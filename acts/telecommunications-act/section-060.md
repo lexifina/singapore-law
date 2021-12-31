@@ -1,12 +1,12 @@
-# 60. Powers of arrest and search in respect of seizable offences
-Part: PART VIII ENFORCEMENT POWERS AND PROCEDURES
+# 60. Obstruction of public telecommunication licensees
+Part: PART 6 OFFENCES AND PENALTIES
 
-(1) The Chief Executive or any employee of the Authority deputed by him to act under this section or any police officer may arrest without warrant —
+(1) Any person who —
 
-(a) any person found committing or attempting to commit or employing or aiding any person to commit a seizable offence under this Act; or
+(a) while in any premises used for the purposes of the business of a public telecommunication licensee, intentionally obstructs the course of business of the licensee concerned; or
 
-(b) any person against whom a reasonable suspicion exists that he has been guilty of a seizable offence under this Act, and may search any person so arrested, except that no female shall be searched except by a female.
+(b) assaults or intentionally obstructs or incites anyone to obstruct or impede an officer or employee of a public telecommunication licensee in the performance of his or her duties, shall be guilty of an offence.
 
-(2) Every person so arrested shall, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.
+(2) A public telecommunication licensee may require any person guilty of an offence under subsection (1) to leave the premises used for the purposes of its business and, if any such offender who is so required refuses or fails to comply with the requirement, he or she may be removed by an employee of the licensee.
 
-(3) For the purposes of this section, offences punishable under sections 33, 41, 42, 43, 44, 45, 46, 49 and 52 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
+[40

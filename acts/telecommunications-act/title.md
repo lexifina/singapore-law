@@ -1,19 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-TELECOMMUNICATIONS ACT
-(CHAPTER 323)
-Act
-43 of 1999
-REVISED EDITION 2000
-(30th December 2000)
+TELECOMMUNICATIONS ACT 1999
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to provide for the operation and provision of telecom- munication systems and services in Singapore, and for matters connected therewith.
+An Act to provide for the operation and provision of telecommunication systems and services in Singapore, and for matters connected therewith.
 
-[1st December 1999]
+[1 December 1999]

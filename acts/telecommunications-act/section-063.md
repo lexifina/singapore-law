@@ -1,4 +1,8 @@
-# 63. No costs or damages or other relief arising from seizure to be recoverable unless seizure without reasonable or probable cause
-Part: PART VIII ENFORCEMENT POWERS AND PROCEDURES
+# 63. Fraudulent use of telecommunication service
+Part: PART 6 OFFENCES AND PENALTIES
 
-No person shall, in any proceedings before any court in respect of any equipment, article, book or document seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of the equipment, article, book or document or the payment of their value unless the seizure was made without reasonable or probable cause.
+Any person who dishonestly uses or permits another person to use any telecommunication service provided by a telecommunication licensee with intent to avoid payment of any charge applicable to the provision of that service shall be guilty of an offence.
+
+[43
+
+[10/2005]

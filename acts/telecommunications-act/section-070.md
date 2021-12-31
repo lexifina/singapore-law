@@ -1,12 +1,10 @@
-# 70. Exclusion of liability of public telecommunication licensees
-Part: PART IX GENERAL PROVISIONS
+# 70. Penalty for removing any mark denoting used device for telephony purposes
+Part: PART 6 OFFENCES AND PENALTIES
 
-A public telecommunication licensee shall not be liable in respect of any injury, loss or damage suffered by any person by reason of —
+(1) Any person who, with fraudulent intent, erases or removes from any device, any mark put or impressed upon the device denoting that the same has been used, or sells or uses any such device shall be guilty of an offence.
 
-(a) any failure to provide or delay in providing any telecom- munication services or any equipment associated therewith or service ancillary thereto;
+[10/2005]
 
-(b) any failure, interruption, suspension or restriction of any telecommunication service or service ancillary thereto or delay of, or fault in, any communication by means of telecommunications;
+(2) In this section, “device” means any device provided for use by a public telecommunication licensee for accessing any telecommunication equipment of the licensee to enable the telecommunication service of the licensee to be used.
 
-(c) any error in, or omission of, any information transmitted through telecommunications; or
-
-(d) any loss of secrecy in communication arising from the use of any telecommunication service, which is due to the act or default of another person, or an accident or some other cause beyond the public telecommunication licensee’s control.
+[51

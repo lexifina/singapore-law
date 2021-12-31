@@ -1,4 +1,8 @@
-# 36. Exemption from sections 33, 34 and 35
-Part: PART VI OFFENCES AND PENALTIES
+# 36. Duty to enquire before excavation
+Part: PART 5 TELECOMMUNICATION CABLE DETECTION WORK
 
-Subject to such conditions as the Authority may impose, sections 33, 34 and 35 shall not apply to any person who has been issued with a licence for the installation or working of any telecom- munication equipment under the provisions of any written law in force in any country which is a party to a treaty or any other arrangement to which Singapore is a party pursuant to which licences issued under the written laws in force in each country for the installation or working of any telecommunication equipment are recognised as having force in the other country.
+Any person who digs, bores, trenches, grades, excavates or breaks any ground with any mechanical equipment or explosive or allows employee or agent of the person to do so without first ascertaining the location of any telecommunication cable belonging to or under the management or control of any telecommunication system licensee that may be interfered with shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[32
+
+[10/2005]

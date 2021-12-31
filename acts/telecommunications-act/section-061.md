@@ -1,10 +1,14 @@
-# 61. Powers of search and arrest in respect of offences under section 33 or 44
-Part: PART VIII ENFORCEMENT POWERS AND PROCEDURES
+# 61. Intentional damage to installation or plant used for telecommunications
+Part: PART 6 OFFENCES AND PENALTIES
 
-(1) Whenever it appears to any police officer or the Chief Executive or any employee of the Authority authorised to act for him under this section that an offence under section 33 or 44 is being committed or is about to be committed or attempted, or that any article is concealed or deposited or contained in or on any vessel, aircraft, vehicle or premises in contravention of either of those sections, the police officer or the Chief Executive or the employee of the Authority may, if he has reasonable grounds for believing that by reason of the delay in obtaining a search warrant the article is likely to be removed —
+Any person who intending —
 
-(a) stop and examine the vessel, aircraft or vehicle or enter the premises and there search for and take possession of any article and of any book or document which is reasonably believed to have a bearing on the case; and
+(a) to prevent or obstruct the transmission or delivery of any message;
 
-(b) arrest any person being in the vessel, aircraft, vehicle or premises in whose possession the article may be found or whom the police officer or the Chief Executive or the employee of the Authority may reasonably suspect to have concealed or deposited the article and may search any person so arrested, except that no female shall be searched except by a female.
+(b) to intercept or to acquaint himself or herself with the contents of any message; or
 
-(2) Every person so arrested shall, together with any such article, be taken to a police station.
+(c) to commit mischief, damages, removes, tampers with or touches any installation or plant (or any part of it) used for telecommunications belonging to a public telecommunication licensee or interferes with the radio-communication service or system of a public telecommunication licensee shall be guilty of an offence.
+
+[41
+
+[10/2005]

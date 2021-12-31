@@ -1,4 +1,12 @@
-# 65. General penalties
-Part: PART VIII ENFORCEMENT POWERS AND PROCEDURES
+# 65. Fraudulent retention of messages
+Part: PART 6 OFFENCES AND PENALTIES
 
-Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $10,000 or to imprison- ment for a term not exceeding 3 years or to both.
+Any person who —
+
+(a) fraudulently retains or wilfully divulges, makes away with or detains a message or record of a message which ought to have been delivered to some other person; or
+
+(b) being required by a public telecommunication licensee to deliver up any such message or record of such message neglects or refuses to do so, shall be guilty of an offence.
+
+[46
+
+[10/2005]

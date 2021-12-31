@@ -1,32 +1,24 @@
-# 44. Possession or supply of any thing for fraudulent purpose in connection with use of telecommunication service
-Part: PART VI OFFENCES AND PENALTIES
+# 44. Interpretation of this Part
+Part: PART 5B SPECIAL ADMINISTRATION ORDER
 
-(1) Subsection (2) shall apply if a person has in his custody or under his control any thing which may be used for the purpose of obtaining, or for a purpose connected with the obtaining of, a service to which section 43 applies.
+In this Part —
 
-(2) If the person intends —
+“critical support infrastructure” means any infrastructure that belongs to, or is under the control of, a telecommunication licensee, and that satisfies all of the following criteria:
 
-(a) to use the thing referred to in subsection (1) —
+(a) the infrastructure is required by other telecommunication licensees to provide a telecommunication service;
 
-(i) to obtain such a service dishonestly; or
+(b) the infrastructure cannot be replicated within the foreseeable future, or obtained from a third party, by an efficient new entrant to the market for telecommunication services in Singapore, in either case, at a cost that would reasonably allow market entry;
 
-(ii) for a purpose connected with the dishonest obtaining of such a service;
+(c) the failure or refusal by the firstmentioned telecommunication licensee to allow other telecommunication licensees to use the infrastructure would unreasonably restrict competition in any market for telecommunication services in Singapore;
 
-(b) dishonestly to allow the thing to be used to obtain such a service; or
+“prescribed transferee” means —
 
-(c) to allow the thing to be used for a purpose connected with the dishonest obtaining of such a service, he shall be guilty of an offence.
+(a) the Authority; or
 
-(3) Subsection (4) shall apply if a person supplies or offers to supply any thing which may be used for the purpose of obtaining, or for a purpose connected with the obtaining of, a service to which section 43 applies.
+(b) a person nominated by the Authority;
 
-(4) If the person supplying or offering to supply the thing referred to in subsection (3) knows or believes that the person to whom it is supplied or offered intends or intends if it is supplied to him —
+“specified telecommunication licensee” means a telecommunication licensee which the Minister has declared under section 45 to be a specified telecommunication licensee for the purposes of this Part.
 
-(a) to use the thing —
+[32G
 
-(i) to obtain such a service dishonestly; or
-
-(ii) for a purpose connected with the dishonest obtaining of such a service;
-
-(b) dishonestly to allow the thing to be used for a purpose connected with the dishonest obtaining of such a service; or
-
-(c) to allow the thing to be used for a purpose connected with the dishonest obtaining of such a service, he shall be guilty of an offence.
-
-(5) A person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+[19/2011]

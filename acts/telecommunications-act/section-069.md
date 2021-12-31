@@ -1,16 +1,10 @@
-# 69. Appeal to Minister
-Part: PART IX GENERAL PROVISIONS
+# 69. Compensation for damage caused to public telecommunication licensees’ installation or plant
+Part: PART 6 OFFENCES AND PENALTIES
 
-(1) Any telecommunication licensee aggrieved by —
+(1) Any person who removes, destroys or damages, whether wilfully, negligently, accidentally or otherwise, the installation or plant used for telecommunications is, in addition to any penalty for which the person is liable for an offence under this Act, liable to pay compensation for the damage the person has done and the compensation is recoverable by civil action or suit before any court of competent jurisdiction.
 
-(a) any decision of the Authority in the exercise of any discretion vested in it by or under this Act; or
+(2) Subject to subsection (1), any court before which a person is charged with an offence under this Act may assess the compensation payable under this section and may make an order for the payment of the same.
 
-(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 27,
+(3) Any order under subsection (2) may be enforced as if it were a judgment in a civil action or suit.
 
-may appeal to the Minister in the prescribed manner.
-
-(2) Unless otherwise provided, where an appeal is lodged under this section, the decision, direction or other thing appealed against shall be complied with until the determination of the appeal.
-
-(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or standard of performance.
-
-(4) The decision of the Minister in any appeal shall be final.
+[50

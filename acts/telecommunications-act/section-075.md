@@ -1,6 +1,6 @@
-# 75. Savings and transitional provisions
-Part: PART IX GENERAL PROVISIONS
+# 75. Contribution by Government
+Part: PART 7 INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
-(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the TAS in relation to telecommunication matters under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
+Where the Government considers it necessary that any telecommunication service of an exceptional nature should be provided, and where a public telecommunication licensee considers it uneconomic to provide the service without contribution from the Government, the Government may make such contribution towards the capital outlay necessary to provide any such service as may be estimated by the licensee and agreed to by the Government.
 
-(2) Any subsidiary legislation made under the repealed Act or any other written law relating to telecommunication matters and in force immediately before 1st December 1999 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+[56

@@ -1,14 +1,20 @@
-# 13. Power to enter on State land for purposes of installation or plant
-Part: PART III ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
+# 13. Charges and other terms for services provided by Authority
+Part: PART 2 EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF TELECOMMUNICATION SYSTEMS
 
-(1) For the purpose of providing any telecommunication service, a public telecommunication licensee or any person authorised by the Authority in that behalf may at any reasonable time —
+(1) The Authority may make, in relation to any service provided by the Authority under this Act, a scheme or schemes for determining either or both of the following:
 
-(a) enter upon any State land;
+(a) the charges which, except insofar as they are the subject of an agreement between the Authority and a person making use of the service, are to be made by the Authority;
 
-(b) subject to the approval of the Authority and the Collector of Land Revenue, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the telecommunication service; and
+(b) the other terms and conditions which, except as provided, are to be applicable to the service.
 
-(c) carry out all necessary works in connection therewith, and may, in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose.
+(2) A scheme made under this section may make different provision for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.
 
-(2) Where any such work interferes with improvements, buildings, growing trees or crops, the licensee shall pay compensation for any damage or disturbance.
+(3) A charge exigible by virtue of this section may be recovered by the Authority in any court of competent jurisdiction as if it were a simple contract debt.
 
-(3) Where the land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
+(4) A scheme or any amendment of the scheme made under this section comes into operation on such date as may be determined by the Authority.
+
+(5) This section does not prohibit the Authority from levying any charge or collecting any dues for anything done or any service rendered by reason only of not being incorporated in a scheme, and the rates, charges and fees payable to the Authority for any service rendered must be in accordance with such rates, charges and fees as may be determined by the Authority.
+
+(6) The rates, charges and fees applied by the TAS immediately before 1 December 1999 continue to be valid as though determined by the Authority under this section until rescinded, varied or otherwise determined by the Authority.
+
+[11
