@@ -1,5 +1,5 @@
 # 10. Duty to report for enlistment
-Part: PART III NATIONAL SERVICE
+Part: PART 3 NATIONAL SERVICE
 
 (1) Subject to the provisions of this Act, the proper authority may by notice require a person subject to this Act not below the age of 18 years to report for enlistment for national service.
 

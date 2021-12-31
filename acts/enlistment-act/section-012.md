@@ -1,7 +1,7 @@
 # 12. Liability to render full-time service
-Part: PART III NATIONAL SERVICE
+Part: PART 3 NATIONAL SERVICE
 
-(1) Every person subject to this Act who is fit for national service and enlisted on or after 1st January 1971 shall be liable to render full-time service for a period not exceeding 2 years except that where a person —
+(1) Every person subject to this Act who is fit for national service and enlisted on or after 1 January 1971 shall be liable to render full-time service for a period not exceeding 2 years except that where a person —
 
 (a) is, during the period of service, promoted to a rank above the rank of Lance-Corporal in the Singapore Armed Forces or, where such service is in any of the other armed forces or in a force, body or organisation which is designated by the Minister for the purposes of national service, to such rank as may be regarded by the proper authority as equal to a rank above the rank of Lance-Corporal in the Singapore Armed Forces;
 
@@ -11,8 +11,4 @@ Part: PART III NATIONAL SERVICE
 
 (d) having been so selected as referred to in paragraph (c), is currently undergoing such officer training or other training or attending the course, such person shall be liable to serve for a period not exceeding 2 years and 6 months.
 
-[18/78]
-
 (2) A reduction or reversion in rank or the loss of a position or status referred to in subsection (1) shall not affect the liability of a person incurred under that subsection.
-
-[18/78]

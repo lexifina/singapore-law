@@ -1,5 +1,5 @@
 # 8. Medical examination
-Part: PART II REGISTRATION
+Part: PART 2 REGISTRATION
 
 (1) The proper authority shall appoint medical boards for the purpose of determining the medical fitness of persons required to report for a fitness examination.
 

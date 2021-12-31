@@ -1,5 +1,5 @@
 # 14. Operationally ready national service liability
-Part: PART III NATIONAL SERVICE
+Part: PART 3 NATIONAL SERVICE
 
 (1) Every person who is liable for operationally ready national service shall —
 
@@ -11,8 +11,4 @@ Part: PART III NATIONAL SERVICE
 
 (ii) for periods not exceeding in the aggregate 40 days annually.
 
-[25/89; 19/94]
-
-(2) Nothing in subsection (1) shall preclude any person who is liable for operationally ready national service from serving for a period or periods longer than the period or periods specified in subsection (1) (b) (i) or (ii) if authorised by the proper authority.
-
-[25/89; 19/94]
+(2) Nothing in subsection (1) shall preclude any person who is liable for operationally ready national service from serving for a period or periods longer than the period or periods specified in subsection (1)(b)(i) or (ii) if authorised by the proper authority.

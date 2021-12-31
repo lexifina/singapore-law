@@ -1,31 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-ENLISTMENT ACT
-(CHAPTER 93)
-Act
-25 of 1970
-1970 Ed. Cap. 229 1985 Ed. Cap. 93
-Amended by Amended by
-54 of 1970 1 of 1987
-7 of 1972 25 of 1989
-34 of 1973
-1992 Ed. Cap. 93
-21 of 1974
-21 of 1975 Amended by
-18 of 1978 19 of 1994
-1995 Ed. Cap. 93
-Amended by
-16 of 2001
-REVISED EDITION 2001
-(31st December 2001)
+ENLISTMENT ACT 1970
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2001
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to provide for enlistment of persons in the armed forces of Singapore.
+An Act to provide for the enlistment of persons in the armed forces of Singapore.
 
-[1st August 1970]
+[1 August 1970]

@@ -1,5 +1,5 @@
 # 3. Persons required to register
-Part: PART II REGISTRATION
+Part: PART 2 REGISTRATION
 
 (1) The proper authority may from time to time by notice require a person subject to this Act to report for registration and for fitness examination for the purposes of service under this Act.
 

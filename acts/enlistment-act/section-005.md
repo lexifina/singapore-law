@@ -1,5 +1,5 @@
 # 5. Fitness examination
-Part: PART II REGISTRATION
+Part: PART 2 REGISTRATION
 
 A person required to report for a fitness examination shall —
 

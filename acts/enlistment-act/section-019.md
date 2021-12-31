@@ -1,9 +1,7 @@
 # 19. Regular service
-Part: PART V REGULAR SERVICE
+Part: PART 5 REGULAR SERVICE
 
 (1) Any person may apply to the proper authority to be enlisted for regular service in the Singapore Armed Forces.
-
-[7/72]
 
 (2) Where a person applies to be enlisted for such regular service, the proper authority may require him to report for registration and fitness examination.
 
