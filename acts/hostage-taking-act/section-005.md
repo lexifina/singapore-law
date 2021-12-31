@@ -1,6 +1,6 @@
 # 5. Information relating to hostage-taking offence
 
-(1) Every person in Singapore who has information which he knows or believes may be of material assistance —
+(1) Every person in Singapore who has information which he or she knows or believes may be of material assistance —
 
 (a) in preventing the commission by another person of a hostage-taking offence; or
 
@@ -8,6 +8,4 @@
 
 (2) No criminal or civil proceedings shall lie against a person for any disclosure made in good faith under this section.
 
-(3) A person who makes a disclosure in good faith under this section shall not be treated as being in breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct.
-
-[T(SOB)A, s.4]
+(3) A person who makes a disclosure in good faith under this section is not to be treated as being in breach of any restriction upon the disclosure of information imposed by law, contract or rules of professional conduct.

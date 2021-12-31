@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Hostage-Taking Act.
+This Act is the Hostage-Taking Act 2010.
