@@ -2,73 +2,65 @@
 
 Place of nomination (Nomination centre) Electoral Division
 
-(Set out address or addresses of (Set out Electoral Division or Divisions) nomination centre or centres)
+(Set out address or addresses of (Set out Electoral Division or nomination centre or centres) Divisions)
+
+FORM 2
+
+[Deleted by S 231/2019]
 
 FIRST SCHEDULE — continued
 
-FORM 2 Section 9(1)
+FORM 3
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 11(2)
 
-Electoral Division of ....................................
-
-BOUNDARIES OF POLLING DISTRICTS
-
-TAKE NOTICE that the Polling Districts and distinguishing letters thereof are as follows:
-
-POLLING DISTRICT Name and Distinguishing Letters of Distinguishing Electoral Division Boundaries Letters and Numbers
-
-..............................................................
-
-Registration Officer.
-
-Date ....................................................
-
-FIRST SCHEDULE — continued
-
-FORM 3 Section 11(2)
-
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+PARLIAMENTARY ELECTIONS ACT 1954 ______________
 
 FORM OF CLAIM BY PERSON WHOSE NAME HAS BEEN OMITTED OR EXPUNGED FROM THE REGISTER
 
-To: THE REGISTRATION OFFICER Electoral Division of Elections Department ...................................................
+To: THE REGISTRATION OFFICER Electoral Division of For Official Use Elections Department Registration No.
 
-I PARTICULARS OF CLAIMANT AS SHOWN IN IDENTITY CARD Telephone For Official Use (Home) Registration No.
+...........................
 
-NRIC No. Sex Date of Birth Telephone (Office)
+I PARTICULARS OF CLAIMANT AS SHOWN IN IDENTITY CARD Telephone (Home/Work) NRIC No. Sex Date of Birth Telephone (Mobile) Date Citizenship Acquired (if applicable)* Name (in block letters and underline surname) Date of Report on Change of Address (if applicable)**
 
-Name (in block letters and underline surname)
+Address Postal Code
 
-Address Postal Code Date of Report on Change of Address
+I, the abovenamed person, certify that to the best of my knowledge and belief the above information given by me is true and I am applying to have my name inserted/retained in the Register of Electors on the following grounds:
 
-I, the abovenamed person, hereby certify that to the best of my knowledge and belief the above information given by me is true and I hereby apply to have my name inserted/retained in the Register of Electors on the following grounds:
+..................... .....................................................................
 
-....................................... .......................................................................
+Date (Signature or thumb mark of Claimant) * Applicable to a person who makes this application on the ground that he or she has recently acquired Singapore citizenship.
 
-Date (Signature or thumb mark of Claimant)
+** Applicable to a person who makes this application on the ground that his or her address has changed.
+
+FIRST SCHEDULE — continued
 
 II ACTION BY INSPECTION CENTRE CLERK:
 
 The ground of claim is (please tick below) Name omitted from Register of Electors Change of address Change of name Other ground
 
-........................................... ......................................................... ...........................................
+..................... ................................. ...........................
 
 Date Name (in block letters) Signature
 
-III ACTION BY ELECTIONS DEPARTMENT TYPE OF ARO’S DECISION ARO’S COMMENTS DECISIONS INITIAL DATE Change of Address Change of Name Particulars Sex Restored Voter New Voter No Action Disallowed REMARKS
+III ACTION BY ELECTIONS DEPARTMENT
+
+ARO’S TYPE OF DECISIONS ARO’S DECISION COMMENTS INITIAL DATE Change of Address Change of Name Particulars Sex Restored Voter New Voter No Action Disallowed REMARKS
 
 FIRST SCHEDULE — continued
 
-FORM 4 Section 11(5)
+FORM 4
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 11(5)
+
+PARLIAMENTARY ELECTIONS ACT 1954 ______________
 
 FORM OF OBJECTION
 
-To: THE REGISTRATION OFFICER Electoral Division of Elections Department .................................................................................
+To: THE REGISTRATION OFFICER Electoral Division of Elections Department .................................................................
 
-.................................................................................
+.................................................................
 
 PARTICULARS OF PERSON MAKING OBJECTION Name (in block letters) NRIC No.
 
@@ -76,35 +68,43 @@ Address (as shown in NRIC) Polling District
 
 Serial No.
 
-I, the abovenamed person, hereby declare that my name appears in the Register of Electors and that I wish to object to the name of the person mentioned and described below being included in the Register of Electors for the abovementioned Electoral Division. The grounds of my objection are specified below.
+I, the abovenamed person, declare that my name appears in the Register of Electors and that I wish to object to the name of the person mentioned and described below being included in the Register of Electors for the abovementioned Electoral Division. The grounds of my objection are specified below.
 
-PARTICULARS AS APPEAR IN THE REGISTER OF Grounds of ELECTORS OF PERSON OBJECTED TO Objection Polling Name Address District
+PARTICULARS AS APPEAR IN THE REGISTER OF ELECTORS OF PERSON Grounds of Objection OBJECTED TO Polling District Name Address
 
 Serial No.
 
-Dated this .............. day of ................................. .........
+Dated this ............... day of ................................. .........
 
-....................................................................................
+. .
+
+.......................................................
 
 Signature or thumb mark of Objector.
 
 Signed or marked by the abovenamed objector in my presence,
 
-...................................................... ...................................................... ......................................................
+. . . . .
+
+............................ ................................ ..........................
 
 Signature of Witness. Name of Witness. Address of Witness.
 
 FIRST SCHEDULE — continued
 
-FORM 5 Section 11(6)
+FORM 5
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 11(6)
+
+PARLIAMENTARY ELECTIONS ACT 1954
+
+______________
 
 FORM OF OBJECTION AGAINST CLAIMANT
 
-To: THE REGISTRATION OFFICER Electoral Division of Elections Department .................................................................................
+To: THE REGISTRATION OFFICER Electoral Division of Elections Department ..................................................................
 
-.................................................................................
+..................................................................
 
 PARTICULARS OF PERSON MAKING OBJECTION Name (in block letters) NRIC No.
 
@@ -112,45 +112,55 @@ Address (as shown in NRIC) Polling District
 
 Serial No.
 
-I, the abovenamed person, hereby declare that my name appears in the Register of Electors and that I wish to object to the name of the claimant mentioned and described below being entered/ retained in the Register of Electors for the abovementioned Electoral Division. The grounds of my objection are specified below.
+I, the abovenamed person, declare that my name appears in the Register of Electors and that I wish to object to the name of the claimant mentioned and described below being entered/retained in the Register of Electors for the abovementioned Electoral Division. The grounds of my objection are specified below.
 
-PARTICULARS AS APPEAR IN THE CLAIMANTS Grounds of LIST OF PERSON OBJECTED TO Objection Name of Claimant Address Objected to
+PARTICULARS AS APPEAR IN THE CLAIMANTS LIST OF PERSON Grounds of Objection OBJECTED TO Name of Claimant Objected to Address
 
-Dated this .............. day of ................................. .........
+FIRST SCHEDULE — continued
 
-....................................................................................
+Dated this .............. day of .................................. .........
+
+. .
+
+.......................................................
 
 Signature or thumb mark of Objector.
 
 Signed or marked by the abovenamed objector in my presence,
 
-...................................................... ...................................................... ......................................................
+. . . . .
+
+............................ ................................ ..........................
 
 Signature of Witness. Name of Witness. Address of Witness.
 
 FIRST SCHEDULE — continued
 
-FORM 6 Section 11(8A)
+FORM 6
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 11(8A)
+
+PARLIAMENTARY ELECTIONS ACT 1954
+
+______________
 
 NOTICE TO PERSONS OBJECTED TO
 
-TAKE NOTICE that I have received objections to the inclusion of your name and address in the proposed list of electors for Polling District No. ........................
+TAKE NOTICE that I have received objections to the inclusion of your name and address in the proposed list of electors for Polling District No. ................. of the Electoral Division of ....................... and that a public inquiry will take place on the ............... day of ................................ .......... between the hours of ...............
 
-of the Electoral Division of ................................................ and that a public inquiry will take place on the ............... day of .................................................................. ........
-
-between the hours of ............... and ...............
+and ...............
 
 AND FURTHER TAKE NOTICE that unless you appear before me and show cause why your name (should not be deleted from) (should be included in) the list of electors, your name (may be deleted therefrom) (may not be included therein).
 
-The grounds of objections are .............................................................
+The grounds of objections are ......................................................
 
-................................................
+. .
+
+.......................................
 
 Registration Officer.
 
-Date ......................................
+Date ...........................
 
 (Reverse side of Form)
 
@@ -158,63 +168,75 @@ Date ......................................
 
 TO BE SENT TO ALL PERSONS OBJECTED TO
 
-..................................................................................................
+...............................................................
 
-..................................................................................................
+...............................................................
 
 (Name and address) FIRST SCHEDULE — continued
 
-FORM 7 Sections 13(1) and 20A(2)
+FORM 7
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Sections 13(1) and 20A(2)
+
+PARLIAMENTARY ELECTIONS ACT 1954
+
+______________
 
 CERTIFICATE OF REGISTRATION OFFICER
 
-I, ............................................................., Registration Officer, certify that this is the Register of Electors for the Electoral Division of ................................................
+I, ....................................................., Registration Officer, certify that this is the Register of Electors for the Electoral Division of ........................ ............................
 
-................................................................................................
+..................................
 
-Dated this ................ day of .................................................... ........
+. .
 
-................................................
+Dated this ................. day of ........................................... ............
+
+. .
+
+...................................
 
 Registration Officer.
 
 FIRST SCHEDULE — continued
 
-FORM 8 Section 25
+FORM 8
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+Section 25
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 NOTICE OF ELECTION FOR *THE ELECTORAL DIVISION OF __________________ *ALL ELECTORAL DIVISIONS
 
-TAKE NOTICE that the President having issued his Writ *for the election of *a Member/*Members of Parliament for the Electoral Division of ________________/ *for the general election of Members of Parliament for all Electoral Divisions, the Returning Officer will be holding the election as follows.
+TAKE NOTICE that the President having issued the Writ *for the election of *a Member/*Members of Parliament for the Electoral Division of ___________/ *for the general election of Members of Parliament for all Electoral Divisions, the Returning Officer will be holding the election as follows.
 
 Nomination papers of persons seeking election must be delivered to the Returning Officer on (specify date), between 11 a.m. and 12 noon (both times inclusive) at the place of nomination specified in the Schedule to the Writ against the Electoral Division concerned.
 
-Every nomination paper must be signed by at least 6 electors qualified to vote in the Electoral Division in which the nominee or group of nominees, as the case may be, is seeking election.
+Every nomination paper must be signed by at least 6 electors qualified to vote in the Electoral Division in which the nominee or group of nominees (as the case may be) is seeking election.
 
 A nomination paper will not be valid or acted upon by the Returning Officer unless it is accompanied by the following:
 
 (a) the written consent of the nominee or nominees, as the case may be;
 
-(b) for each nominee, an election deposit of $_________ in cash or in the form of a bank draft or a certified cheque for the amount;
+(b) for each nominee, an election deposit of $_________;
 
-(c) a statutory declaration by each nominee to the effect that he is qualified to be elected;
+(c) a statutory declaration by each nominee to the effect that he or she is qualified to be elected;
 
-(d) a political donation certificate issued to the nominee from the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236); and
+(d) a political donation certificate issued to the nominee from the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
 
-(e) if the Electoral Division is a Group Representation Constituency, the certificate required to be delivered by a nominee in the group under section 27B(3)(c) of the Parliamentary Elections Act.
+(e) if the Electoral Division is a Group Representation Constituency, the certificate required to be delivered by a nominee in the group under section 27B(3)(c) of the Parliamentary Elections Act 1954.
 
-Forms of nomination papers may be obtained after the date of this Notice from the office of the Returning Officer between _________ and _________ daily (except Sunday and public holidays), and between _________ and _________ on Saturdays.
+Forms of nomination papers may be obtained after the date of this Notice from the office of the Returning Officer between _________ and _________ daily (except Sunday and public holidays), and between _________ and _________ on Saturdays. The office of the Returning Officer is situated at _______________.
 
-The office of the Returning Officer is situated at __________________.
+FIRST SCHEDULE — continued
 
-If the election in an Electoral Division is not contested, the Returning Officer will immediately declare the sole nominated candidate or group of candidates for the Electoral Division to be elected as the Member or Members of Parliament, as the case may be, for that Electoral Division.
+If the election in an Electoral Division is not contested, the Returning Officer will immediately declare the sole nominated candidate or group of candidates for the Electoral Division to be elected as the Member or Members of Parliament (as the case may be) for that Electoral Division.
 
 If, however, the election in an Electoral Division is contested, a poll will be held.
 
 Dated this day of .
+
+. .
 
 Returning Officer, Singapore.
 
@@ -222,53 +244,57 @@ Returning Officer, Singapore.
 
 FIRST SCHEDULE — continued
 
-FORM 9 Section 27(2)
+FORM 9
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+Section 27(2)
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 NOMINATION PAPER
 
-SECTION A: TO BE COMPLETED BY PERSONS NOMINATING DETAILS OF NOMINEE NAME (in block letters) NRIC NO. SEX OCCUPATION (Please circle)
+SECTION A: TO BE COMPLETED BY PERSONS NOMINATING DETAILS OF NOMINEE NAME (in block NRIC NO. SEX (Please OCCUPATION letters) circle) M F DETAILS OF PERSONS NOMINATING We, the persons specified below, being registered in the register of electors for the Electoral Division of ...................., hereby nominate the above person as candidate for election as a Member of Parliament for the said Electoral Division:
 
-M F DETAILS OF PERSONS NOMINATING We, the persons specified below, being registered in the register of electors for the Electoral Division of ............................................, hereby nominate the above person as candidate for election as a Member of Parliament for the said Electoral Division:
+NAME NRIC NO. SIGNATURE PROPOSER SECONDER ASSENTOR 1 ASSENTOR 2 ASSENTOR 3 ASSENTOR 4 ASSENTOR 5 ASSENTOR 6 ASSENTOR 7 ASSENTOR 8
 
-NAME NRIC NO. SIGNATURE PROPOSER SECONDER ASSENTOR 1 ASSENTOR 2 ASSENTOR 3 ASSENTOR 4 ASSENTOR 5 ASSENTOR 6 ASSENTOR 7 ASSENTOR 8 SECTION B: DECLARATION TO BE COMPLETED BY NOMINEE I, the person nominated in Section A, do solemnly and sincerely declare that —
+FIRST SCHEDULE — continued
 
-(a) I am duly qualified to be elected as a Member of Parliament for the Electoral Division of .......................................................;
+SECTION B: DECLARATION TO BE COMPLETED BY NOMINEE I, the person nominated in Section A, do solemnly and sincerely declare that —
+
+(a) I am duly qualified to be elected as a Member of Parliament for the Electoral Division of ..................;
 
 (b) I consent to this nomination as candidate for election as a Member of Parliament for the said Electoral Division; and
 
-*(c) I am a member of and am standing for (state name of political party) .............................................................................................
+*(c) I am a member of and am standing for (state name of political party) .............................................
 
-*(c) I am an independent candidate. *Delete whichever is inapplicable And I make this solemn declaration by virtue of the Oaths and Declarations Act (Cap. 211), and subject to the penalties provided by that Act for the making of false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.
+*(c) I am an independent candidate.
 
-................................................................................
+*Delete whichever is inapplicable And I make this solemn declaration by virtue of the Oaths and Declarations Act 2000, and subject to the penalties provided by that Act for the making of false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.
+
+.................................................................................
 
 Signature of Nominee
 
 Dated this ............ day of ............................................................ 20......
 
-Before Me
+Before Me ............................................................... ..................................................................
 
-................................................................................................................ ........................................................................................................
+Name of Commissioner for Oaths/Justice of the Signature of Commissioner for Oaths/Justice of the Peace Peace (in block letters)
 
-Name of Commissioner for Oaths/Justice of the Peace Signature of Commissioner for Oaths/Justice of the Peace (in block letters)
+I, the nominee, can be contacted at Address:
 
-I, the nominee, can be Address:
-
-contacted at Telephone Number:
+Telephone Number:
 
 FIRST SCHEDULE — continued
 
-FORM 9A Section 27B(2)
+FORM 9A
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+Section 27B(2)
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 NOMINATION PAPER
 
-SECTION A: TO BE COMPLETED BY PERSONS NOMINATING DETAILS OF NOMINEES NAME (in block letters) NRIC NO. SEX OCCUPATION (Please circle)
-
-1 M F 2 M F 3 M F 4 M F 5 M F 6 M F DETAILS OF PERSONS NOMINATING We, the persons specified below, being registered in the register of electors for the Electoral Division of ............................................, hereby nominate the above group of persons as candidates for election as Members of Parliament for the said Electoral Division:
+SECTION A: TO BE COMPLETED BY PERSONS NOMINATING DETAILS OF NOMINEES NAME (in block NRIC NO. SEX OCCUPATION letters) (Please circle) 1 M F 2 M F 3 M F 4 M F 5 M F 6 M F DETAILS OF PERSONS NOMINATING We, the persons specified below, being registered in the register of electors for the Electoral Division of ...................., hereby nominate the above group of persons as candidates for election as Members of Parliament for the said Electoral Division:
 
 NAME NRIC NO. SIGNATURE PROPOSER SECONDER ASSENTOR 1 ASSENTOR 2 ASSENTOR 3 ASSENTOR 4 ASSENTOR 5 ASSENTOR 6 ASSENTOR 7 ASSENTOR 8
 
@@ -276,51 +302,53 @@ FIRST SCHEDULE — continued
 
 SECTION B: DECLARATION TO BE COMPLETED BY NOMINEES We, the persons nominated in Section A, do each solemnly and sincerely declare that —
 
-(a) We are each duly qualified to be elected as a Member of Parliament for the Electoral Division of .........................................;
+(a) We are each duly qualified to be elected as a Member of Parliament for the Electoral Division of .............;
 
-(b) We each consent to this nomination as candidate for election as a Member of Parliament for the said Electoral Division;
+(b) We each consent to this nomination as candidate for election as a Member of Parliament for the said Electoral Division; and
 
-and *(c) We are each a member of and are standing for (state name of political party) ..............................................................................
+*(c) We are each a member of and are standing for (state name of political party) .....................................
 
-*(c) We are standing as a group of independent candidates. *Delete whichever is inapplicable And We each make this solemn declaration by virtue of the Oaths and Declarations Act (Cap. 211), and subject to the penalties provided by that Act for the making of false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.
+*(c) We are standing as a group of independent candidates.
 
-................................................................................
+*Delete whichever is inapplicable And We each make this solemn declaration by virtue of the Oaths and Declarations Act 2000, and subject to the penalties provided by that Act for the making of false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.
+
+.................................................................................
 
 Signature of Nominee 1
 
-................................................................................
+.................................................................................
 
 Signature of Nominee 2
 
-................................................................................
+.................................................................................
 
 Signature of Nominee 3
 
-................................................................................
+.................................................................................
 
 Signature of Nominee 4
 
-................................................................................
+.................................................................................
 
 Signature of Nominee 5
 
-................................................................................
+.................................................................................
 
 Signature of Nominee 6
+
+FIRST SCHEDULE — continued
 
 Dated this ............ day of ............................................................ 20......
 
 Before Me
 
-.................................................................................................................. ........................................................................................................
+.................................................................. ...................................................................
 
 Name of Commissioner for Oaths/Justice of the Peace Signature of Commissioner for Oaths/Justice of the Peace (in block letters)
 
-We, the nominees, can be Address:
+We, the nominees, can be contacted at Address:
 
-contacted at Telephone Number:
-
-FIRST SCHEDULE — continued
+Telephone Number:
 
 FORM 10
 
@@ -328,23 +356,31 @@ FORM 10
 
 FIRST SCHEDULE — continued
 
-FORM 11 Sections 34(6) and 34A(6)
+FORM 11
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+Sections 34(6) and 34A(6)
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 NOTICE OF CONTESTED ELECTION FOR THE ELECTORAL DIVISION OF __________________
 
-NOTICE is hereby given to the electors of the above Electoral Division that a Poll will be held for the Electoral Division as follows:
+NOTICE is given to the electors of the above Electoral Division that a Poll will be held for the Electoral Division as follows:
 
-POLL IN SINGAPORE The Poll in Singapore will be held on (specify date). The Poll will open at 8 a.m.
+POLL IN SINGAPORE
+
+The Poll in Singapore will be held on (specify date). The Poll will open at 8 a.m.
 
 and close at 8 p.m. at the Polling Stations in the Electoral Division below:
 
 Polling Stations Polling Districts
 
-OVERSEAS POLL The Poll at the following overseas polling stations will be held on the date and at the times specified below opposite the overseas polling station:
+OVERSEAS POLL
+
+The Poll at the following overseas polling stations will be held on the date and at the times specified below opposite the overseas polling station:
 
 Overseas Polling Station Date Time
+
+FIRST SCHEDULE — continued
 
 The candidates for election in the above Electoral Division and their symbols, and their respective proposers and seconders are as follows:
 
@@ -352,131 +388,129 @@ Candidate Symbol Proposer Seconder
 
 Dated this day of .
 
+. .
+
 Returning Officer, Singapore.
-
-FIRST SCHEDULE — continued FIRST SCHEDULE — continued
-
-FORM 13 Section 44(1)
-
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
-
-DECLARATION
-
-PARTICULARS OF DECLARANT Name (in block letters) NRIC No.
-
-Address (as shown in NRIC) Distinguishing Letters and Serial Number of Elector shown in the Register of Electors Letters Serial No.
-
-I, the abovenamed person, hereby declare that I am the same person whose
-
-name appears as .......................................................................................................................
-
-in the Register of Electors now in force for the Electoral Division of .........................
-
-......................................................................................................................................................
-
-..............................................................................
-
-Signature or thumb mark of Voter.
-
-Declared before me, this ................ day of ................................................ ...........
-
-........................................................................ ........................................................................
-
-Signature of Presiding Officer. Name and No. of Polling Place.
 
 FIRST SCHEDULE — continued
 
-FORM 14 Section 44(1)
+FORM 12
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 40(3A)
+
+FACE OF BALLOT PAPER FIRST SCHEDULE — continued
+
+FORM 12
+
+Section 40(3A)
+
+FACE OF BALLOT PAPER FOR GROUP REPRESENTATION CONSTITUENCY
+
+FORM 13
+
+[Deleted by S 231/2019]
+
+FORM 14
+
+[Deleted by S 231/2019]
+
+FIRST SCHEDULE — continued
+
+FORM 15
+
+Section 44(1)
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 DECLARATION BY VOTER
 
-PARTICULARS OF DECLARANT Name (in block letters) NRIC No.
+PARTICULARS OF VOTER Name (in block letters) NRIC No.
 
-Address (as shown in NRIC) Distinguishing Letters and Serial Number of Elector shown in the Register of Electors Letters Serial No.
+Address (as shown in NRIC) Polling District and Serial Number of Voter shown in the Register of Electors Polling District Voter Serial No.
 
-I, the abovenamed person, hereby declare that I have not already voted
+I, the abovenamed person, declare that I am the same person whose name appears as .................................................................. in the Register of Electors in force for the Electoral Division of ................................................................ and that I have not already voted either here or elsewhere at this election.
 
-either here or elsewhere at this election.
+.............................................
 
-..............................................................................
+Signature or thumb mark of Voter
 
-Signature or thumb mark of Voter.
+Declared before me on .................................
 
-Declared before me, this ................ day of ................................................ ...........
+............................................. ....................................................
 
-........................................................................ ........................................................................
-
-Signature of Presiding Officer. Name and No. of Polling Place.
+Name of Presiding Officer Signature of Presiding Officer
 
 FIRST SCHEDULE — continued
 
-FORM 15 Section 44(1)
+FORM 16
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 46(1)
 
-DECLARATION BY VOTER (When the election is a General Election)
-
-PARTICULARS OF DECLARANT Name (in block letters) NRIC No.
-
-Address (as shown in NRIC) Distinguishing Letters and Serial Number of Elector shown in the Register of Electors Letters Serial No.
-
-I, the abovenamed person, hereby declare that I am the same person whose
-
-name appears as .......................................................................................................................
-
-in the Register of Electors now in force for the Electoral Division of
-
-.........................................................................................................................................
-
-and that I have not already voted either here or elsewhere at this election.
-
-..............................................................................
-
-Signature or thumb mark of Voter.
-
-Declared before me, this ................ day of ................................................ ...........
-
-........................................................................ ........................................................................
-
-Signature of Presiding Officer. Name and No. of Polling Place.
-
-FIRST SCHEDULE — continued
-
-FORM 16 Section 46(1)
-
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+PARLIAMENTARY ELECTIONS ACT 1954
 
 OATH OF IDENTITY
 
-PARTICULARS OF DECLARANT Name (in block letters) NRIC No.
+PARTICULARS OF VOTER Name (in block letters) NRIC No.
 
-Address (as shown in NRIC) Distinguishing Letters and Serial Number of Elector shown in the Register of Electors Letters Serial No.
+Address (as shown in NRIC) Polling District and Serial Number of Voter shown in the Register of Electors Polling District Voter Serial No.
 
-I, the abovenamed person, swear that I am the same person whose name
+I, the abovenamed person, *swear/affirm that I am the same person whose name appears as .................................................................. in the Register of Electors in force for the Electoral Division of ................................................................ and that I have not already voted either here or elsewhere at this election.
 
-appears as ............................................................................................................................
+...........................................................
 
-in the Register of Electors now in force for the Electoral Division of ....................
+Signature or thumb mark of Voter
 
-................................................................................................................................................
+*Sworn/Affirmed before me on .................................
 
-..............................................................................
+........................................................ ...................................................
 
-Signature or thumb mark of Voter.
+Name of Presiding Officer Signature of Presiding Officer
 
-Sworn before me, this ................ day of .................................................... ...........
-
-........................................................................ ........................................................................
-
-Signature of Presiding Officer. Name and No. of Polling Place.
+*Delete whichever is inapplicable.
 
 FIRST SCHEDULE — continued
 
-FORM 17 Section 51
+FORM 16A
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+Section 49(7A)(b)
+
+PARLIAMENTARY ELECTIONS ACT 1954
+
+RECORD OF COUNTING
+
+Electoral Division :
+
+GARO Centre :
+
+Counting Centre :
+
+Counting Place No. :
+
+For counting of votes cast at the following Polling Station(s):
+
+Number of Ballot Papers Issued for the Poll at the above Polling Station(s) Number of Ballot Papers cast for Name(s) of Candidate/ Symbol Count Recount Candidates in Group (if applicable)
+
+Total Number of Ballot Papers cast for the above Candidates Number of Rejected Ballot Papers Total Number of Ballot Papers found in the ballot boxes from the above Polling Station(s) Total Number of Electors in the Register of Electors used at the Poll at the above Polling Station(s) Date and time of announcement of results to candidate(s)/counting agent(s) in attendance:
+
+Count Recount (if applicable) Date: ................... Time: ........... Date: ................... Time: ...........
+
+I certify that the above record of counting of votes is I certify that the above record of recounting of votes is correct. correct.
+
+................................................................. .................................................................
+
+Name of Assistant Returning Officer Name of Assistant Returning Officer
+
+................................................................. ..................................................................
+
+Signature of Assistant Returning Officer Signature of Assistant Returning Officer Date: ................... Date: ...................
+
+FIRST SCHEDULE — continued
+
+FORM 17
+
+Section 51
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 STATEMENT OF THE POLL AFTER COUNTING THE BALLOTS
 
@@ -500,693 +534,335 @@ Number of †Spoilt Ballot Papers
 
 ‡TOTAL
 
-*A Rejected Ballot Paper means a ballot paper which has been handed by the presiding officer to an elector to cast his vote but which, at the close of the poll, has been found in the ballot box unmarked or so improperly marked it cannot be counted.
+*A Rejected Ballot Paper means a ballot paper which has been handed by the presiding officer to an elector to cast his or her vote but which, at the close of the poll, has been found in the ballot box unmarked or so improperly marked that it cannot be counted.
 
-†A Spoilt Ballot Paper means a ballot paper which, on polling day, has not been deposited in the ballot box, but has been found by the presiding officer to be spoilt or improperly printed or which has been handed by the presiding officer to an elector to cast his vote, and (a) has been spoilt in marking by the elector, and (b) has been handed back to the presiding officer and exchanged for another.
+†A Spoilt Ballot Paper means a ballot paper which, on polling day, has not been deposited in the ballot box, but has been found by the presiding officer to be spoilt or improperly printed or which has been handed by the presiding officer to an elector to cast his or her vote, and (a) has been spoilt in marking by the elector, and
+
+(b) has been handed back to the presiding officer and exchanged for another.
 
 ‡The numbers in this statement account for the votes cast in all local and overseas polling stations for the electoral division.
 
-Total Number of Electors in the Register of Electors used at the Poll
+FIRST SCHEDULE — continued
 
-I hereby certify that the above statement is correct.
+Total Number of Electors in the Register of Electors used at the .
+
+Poll
+
+I certify that the above statement is correct.
 
 Dated this day of .
+
+. .
 
 Returning Officer, Singapore.
 
 FIRST SCHEDULE — continued
 
-FORM 18 Section 56(1)
+FORM 18
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 56(1)
+
+PARLIAMENTARY ELECTIONS ACT 1954
+
+______________
 
 FORM OF OATH OF SECRECY
 
-RETURNING OFFICER Electoral Division of Elections Department .....................................................................
+RETURNING OFFICER Electoral Division of Elections Department ..........................................
 
-.....................................................................
+..........................................
 
-PARTICULARS OF PERSON TAKING THE OATH Name (in block letters) NRIC No.
+PARTICULARS OF PERSON TAKING THE OATH
+
+Name (in block letters) NRIC No.
 
 Address (as shown in NRIC)
 
-I, the abovenamed person, swear that I will not at this election in the abovementioned Electoral Division do anything forbidden by section 56 of the Parliamentary Elections Act which has been read to me.
+I, the abovenamed person, swear that I will not at this election in the abovementioned Electoral Division do anything forbidden by section 56 of the Parliamentary Elections Act 1954 which has been read to me.
 
-.................................................................................
+. .
+
+...............................................
 
 Signature of Person taking the Oath.
 
-Sworn before me, this ................ day of .................................................... ...........
+Sworn before me, this ................ day of ............................... ..........
 
-........................................................................ ........................................................................
+. .
+
+.................................................... ...................................................
 
 Signature of Justice of the Peace/ Name (in block letters).
 
 Commissioner for Oaths.
 
-Note: Section 56 of the Parliamentary Elections Act (printed overleaf) must be read to the person taking the Oath. No stamp fee is required.
+Note: Section 56 of the Parliamentary Elections Act 1954 (printed overleaf) must be read to the person taking the Oath. No stamp fee is required.
+
+56.—(1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, must, before so attending, make an oath of secrecy, substantially in Form 18 in the First Schedule.
+
+(2) The Returning Officer has power to administer any oaths required to be taken under subsection (1).
 
 FIRST SCHEDULE — continued
 
-56.—(1) Every officer, clerk, interpreter, candidate and agent authorised to attend at a polling station, or at the counting of the votes, shall, before so attending, make an oath of secrecy, substantially in Form 18 in the First Schedule.
+(3) Subject to subsection (3A), every officer, clerk, interpreter, candidate and agent in attendance at a polling station must maintain, and aid in maintaining, the secrecy of the voting in the station, and must not communicate, except for some purpose authorised by law, before the poll is closed, to any person any information as to the name or number on the register of electors of any elector who has or has not applied for a ballot paper or voted at that station, or as to the official mark.
 
-(2) The Returning Officer shall have power to administer any oaths required to be taken under subsection (1).
+(3A) The total number of voters who have voted at any station at any time before the poll is closed may, in the discretion of the presiding officer, be divulged to the candidate or the candidate’s agent authorised to attend at the polling station.
 
-(3) Subject to subsection (3A), every officer, clerk, interpreter, candidate and agent in attendance at a polling station shall maintain, and aid in maintaining, the secrecy of the voting in the station, and shall not communicate, except for some purpose authorised by law, before the poll is closed, to any person any information as to the name or number on the register of electors of any elector who has or has not applied for a ballot paper or voted at that station, or as to the official mark.
-
-(3A) The total number of voters who have voted at any station at any time before the poll is closed may, in the discretion of the presiding officer, be divulged to the candidate or his agent authorised to attend at the polling station.
-
-(4) No such officer, clerk, interpreter, candidate or agent, and no person shall —
+(4) Every officer, clerk, interpreter, candidate or agent, and every person must not —
 
 (a) attempt to obtain in the polling station information as to the candidate or group of candidates, for whom any voter in the station is about to vote or has voted; or
 
 (b) communicate at any time to any person any information obtained in a polling station as to the candidate or group of candidates, for whom any voter in the station is about to vote or has voted, or as to the number on the back of the ballot paper given to any voter at the station.
 
-(5) Every officer, clerk, interpreter, candidate and agent in attendance at the counting of the votes shall maintain, and aid in maintaining, the secrecy of the voting, and shall not —
+(5) Every officer, clerk, interpreter, candidate and agent in attendance at the counting of the votes must maintain, and aid in maintaining, the secrecy of the voting, and must not —
 
 (a) attempt to ascertain at the counting the number on the back of any ballot paper; or
 
 (b) communicate any information obtained at the counting as to the candidate or group of candidates, for whom any vote is given by any particular ballot paper.
 
-(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before he has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to mark or record his vote and before he marks or records his vote at the machine, as the case may be.
+(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, is to communicate or attempt to communicate with any voter after the voter has received a ballot paper and before the voter has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to mark or record his or her vote and before the voter marks or records his or her vote at the machine, as the case may be.
 
 (7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
 FIRST SCHEDULE — continued
 
-FORM 19 Section 74(1) and (2)
+FORM 19
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+Section 74(1) and (2)
 
-RETURN OF ELECTION EXPENSES
+PARLIAMENTARY ELECTIONS ACT 1954
 
-ELECTORAL DIVISION
+RETURN RESPECTING ELECTION EXPENSES AND DECLARATIONS BY CANDIDATE AND ELECTION AGENT
 
-NAME (in block letters) NRIC NO. ADDRESS (as shown in NRIC)
+ELECTORAL DIVISION .
+
+NAME (in block letters) NRIC NO.
 
 CANDIDATE
 
 ELECTION AGENT
 
-*I, the above duly appointed election agent of the above candidate for election in the above Electoral Division, make this Return respecting Election Expenses of the said candidate at that election.
+*I, the above duly appointed election agent of the above candidate for election in the above Electoral Division, make this return respecting election expenses of the candidate at that election.
 
-*I, the above candidate for election in the above Electoral Division and acting as my own election agent, make this Return respecting Election Expenses at that election.
+*I, the above candidate for election in the above Electoral Division and acting as my own election agent, make this return respecting my election expenses at that election.
 
-This Return respecting Election Expenses shows —
+This return respecting election expenses shows —
 
-(a) all expenses and payments incurred and paid by the election agent on account or in respect of the management of that election;
+(a) all payments made by the election agent;
 
 (b) the amount of personal expenses, if any, paid by the candidate;
 
 (c) the disputed claims so far as the election agent is aware of;
 
-(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or a Judge of the High Court; and
+(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or a Judge sitting in the General Division of the High Court; and
 
-(e) all donations accepted by the election agent or candidate for the purpose of expenses incurred or to be incurred on account or in respect of the management of that election.
+(e) all donations accepted by the election agent or the candidate for the purpose of expenses incurred or to be incurred on account of or in respect of the management of that election.
 
-I declare to the best of my knowledge and belief that this is a complete and correct Return as required by law, and that except for the expenses set out in this Return, no other expenses of any nature have been incurred in, or for the purpose of, the above candidate’s candidature at the said election.
+FIRST SCHEDULE — continued
 
-Date: ________________ Signature of Election Agent: ________________________
+I declare to the best of my knowledge and belief that this is a complete and correct return as required by law and that, except for the expenses set out in this return, no other expenses of any nature have been incurred in, or for the purpose of, the candidate’s candidature at that election.
+
+___________________________ . _________________ Signature of Election Agent Date
+
+I, the above candidate for election in the above Electoral Division, have examined this return respecting election expenses prepared by my election agent in respect of my candidature at that election. I declare to the best of my knowledge and belief that this return is complete and correct as required by law and that, except for the expenses set out in this return, no other expenses of any nature have been incurred in, or for the purpose of, my candidature at that election.
+
+___________________________ _________________ Signature of Candidate Date
 
 *Delete whichever is inapplicable.
 
 FIRST SCHEDULE — continued
 
-FORM 19 — continued
+SECTION A: EXPENSES
 
-SECTION A: EXPENSES AND PAYMENTS (Fill in below the total amount of expenditure and payments for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar. Write NIL if you have no expenses to declare. Include only election expenses. If there is insufficient space in any section, attach a separate sheet with the details. Every payment should be vouched for by a bill stating the particulars and by a receipt or payment voucher except as provided by section 66 of the Parliamentary Elections Act. All payment vouchers must be duly dated/approved and signed by the recipients. Where payment is made by cheque, the cheque number and the amount paid by cheque should be indicated under the appropriate item of expenditure.)
+(Fill in the total amount of expenses for each category, in Singapore dollars, rounded up to the nearest dollar. Write NIL if there is no expense to declare.)
 
-(1) PERSONAL EXPENSES OF CANDIDATE
+. .
 
 Description $
 
-Total
+(a) Election advertising expenses:
 
-(2) EXPENSES BY ELECTION AGENT IN RESPECT OF THE CONDUCT OR MANAGEMENT OF ELECTION Description Receipt/Payment $ Voucher/Cheque No.
+(i) For print election advertising
 
-(a) Remuneration of election agent, polling agents, counting agents, etc.
+(ii) For Internet election advertising
 
-Sub-Total
+(iii) For other non-print election advertising
 
-(b) Advertising and printing of promotional materials
+(b) Election meeting expenses:
 
-Sub-Total
+(i) For rallies
 
-(c) Transport
+(ii) For assembly centres
 
-Sub-Total
+(c) Transport expenses
+
+(d) Office rental and office supplies expenses
+
+(e) Allowances for election agent, polling agent(s) and counting agent(s)
+
+(f) Other expenses
+
+(g) Personal expenses of candidate
+
+TOTAL FIRST SCHEDULE — continued
+
+SECTION B: DISPUTED AND UNPAID CLAIMS
+
+(Fill in the total amount of claims for each category, in Singapore dollars, rounded up to the nearest dollar. Write NIL if there is no claim to declare. If there is insufficient space in any section, attach a separate sheet containing the details.)
+
+. .
+
+(1) DISPUTED CLAIMS Name and description Subject matter of claim $ of claimant
+
+TOTAL
+
+(2) UNPAID CLAIMS (in respect of which application has been made or is about to be made to an Election Judge or a Judge sitting in the General Division of the High Court) Name and description Subject matter of claim $ of claimant
+
+TOTAL FIRST SCHEDULE — continued
+
+1
+
+SECTION C: NON-RECORDABLE DONATIONS
+
+(Provide details of non-recordable donations accepted and particulars of their donors, in chronological order according to the date each donation is received.
+
+Write NIL if there is no donation to declare. Include only donations given, spent, lent or provided (whether before or after the candidate became a candidate) for the purposes of the candidate’s election. If there is insufficient space in any section, attach a separate sheet containing the details and particulars.)
+
+. .
+
+2
+
+Donor’s name Donor’s Date of receipt Value of Description of
+
+4 5 5 5
+
+and unique address of donation donation donation identification and recipient’s (in Singapore
+
+3
+
+number name dollars, (e.g. 28/08/00 by rounded up (name)) to the nearest dollar)
+
+TOTAL
+
+1
+
+Donations that need not be recorded in a donation report under the Political Donations Act 2000.
+
+2
+
+Donor’s name means (a) where the donor is an individual, the donor’s name as specified in the donor’s NRIC; or (b) where the donor is a company, the donor’s registered name under the Companies Act 1967.
+
+3
+
+Donor’s unique identification number means (a) where the donor is an individual, the donor’s NRIC number; or (b) where the donor is a company, the company’s registration number under the Companies Act 1967.
+
+4
+
+Donor’s address means (a) where the donor is an individual, the donor’s address as specified in the donor’s NRIC; or (b) where the donor is a company, the address of the donor’s registered office in Singapore.
+
+5
+
+The expressions “donation” and “value of donation” have the meanings given by sections 3, 4 and 5 of the Political Donations Act 2000. For a donation-in-kind, the value of the donation is the value of the item at the date of receipt of the item.
 
 FIRST SCHEDULE — continued
 
-FORM 19 — continued
+SECTION D: RECORDABLE DONATIONS
 
-Description Receipt/Payment $ Voucher/Cheque No.
+(Provide details of single and multiple recordable donations accepted and particulars of their donors, in chronological order according to the date each donation is received. Write NIL if there is no donation to declare. Include only donations given, spent, lent or provided (whether before or after the candidate became a candidate) for the purposes of the candidate’s election. If there is insufficient space in any section, attach a separate sheet containing the details and particulars.)
 
-(d) Stationery, office supplies and postage
+. .
 
-Sub-Total
+(1) SINGLE RECORDABLE DONATIONS (Recordable donation means a donation required to be recorded in a donation report under the Political Donations Act 2000. A single recordable donation means a single donation of $10,000 or more.)
 
-(e) Fax machines, telephone and other means of communication
+Donor’s Donor’s Date of Value of Description of
 
-Sub-Total
+1 3 4 4
 
-(f) Furniture and equipment rental e.g. public address system, etc.
+name address receipt donation donation
 
-Sub-Total
+4
 
-(g) Office rental and utilities for election meeting, committee room, etc. (Please state address)
+and unique of donation (in Singapore identification and recipient’s dollars,
 
-Sub-Total
+2
+
+number name rounded up (e.g. 28/08/00 by to the nearest (name)) dollar)
+
+TOTAL
+
+1
+
+Donor’s name means (a) where the donor is an individual, the donor’s name as specified in the donor’s NRIC; or (b) where the donor is a company, the donor’s registered name under the Companies Act 1967.
+
+2
+
+Donor’s unique identification number means (a) where the donor is an individual, the donor’s NRIC number; or (b) where the donor is a company, the company’s registration number under the Companies Act 1967.
+
+3
+
+Donor’s address means (a) where the donor is an individual, the donor’s address as specified in the donor’s NRIC; or (b) where the donor is a company, the address of the donor’s registered office in Singapore.
+
+4
+
+The expressions “donation” and “value of donation” have the meanings given by sections 3, 4 and 5 of the Political Donations Act 2000. For a donation-in-kind, the value of the donation is the value of the item at the date of receipt of the item.
 
 FIRST SCHEDULE — continued
 
-FORM 19 — continued
+. .
 
-Description Receipt/Payment $ Voucher/Cheque No.
+(2) MULTIPLE RECORDABLE DONATIONS (Recordable donation means a donation required to be recorded in a donation report under the Political Donations Act 2000. A multiple recordable donation means a donation which, when added to any other donation made by the same donor during the same reporting period under the Political Donations Act 2000, amounts to an aggregate of $10,000 or more.)
 
-(h) Food, refreshments and accommodation
+Donor’s Donor’s Date of Value of Description of
 
-Sub-Total
+1 3 4 4
 
-(i) Miscellaneous expenses (Please provide details)
+name address receipt donation donation
 
-Sub-Total TOTAL
+4
 
-SECTION B: DISPUTED AND UNPAID CLAIMS (Fill in below the total amount of claims for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar. Write NIL if you have no claims to declare. Include only claims for election expenses. If there is insufficient space in any section, attach a separate sheet with the details.)
+and unique of donation (in Singapore identification and recipient’s dollars,
 
-I am aware of the following disputed and unpaid claims:
+2
 
-(1) DISPUTED CLAIMS
+number name rounded up (e.g. 28/08/00 by to the nearest (name)) dollar)
 
-Name and description of Claimant Set out the goods, work or $ other matter on the ground of which the claim is based
+Sub-total
 
-Total
-
-FIRST SCHEDULE — continued
-
-FORM 19 — continued
-
-(2) UNPAID CLAIMS in respect of which application has been made or is about to be made to an Election Judge or a Judge of the High Court.
-
-Name and description of Claimant Set out the goods, work or $ other matter on the ground of which the claim is based
-
-Total
-
-SECTION C: NON-RECORDABLE DONATIONS* (Show below details of the donations and particulars of donors of non-recordable donations accepted in chronological order according to the date the donation is received. Write NIL if you have no donations to declare. Include only donations given, spent, lent or provided (whether before or after the candidate became a candidate) for the purposes of the candidate’s election. If there is insufficient space in any section, attach a separate sheet with the details.)
-
-Name Address of donor Date of Value of Description of
-
-1
-
-(as in NRIC) and (as in NRIC receipt of donation donation NRIC number/ or registered address, donation and (in Singapore (e.g. provision of registered company if company) recipient’s dollars, to tentage, loans name and RCB name the nearest at discounted interest registration number (e.g. 28/08/00 dollar) rates, cash, cheque, of donor by (name)) labour costs) 1 2 3 4 5 6 7 8 TOTAL
-
-*Donations that need not be declared in a donation report under the Political Donations Act (Cap. 236).
-
-1
-
-‘‘donation’’ and the ‘‘value of donation’’ are as defined under sections 3, 4 and 5 of the Political Donations Act. For donations-in-kind, the value of the donation should be the value of the item at the date of receipt of the item.
-
-FIRST SCHEDULE — continued
-
-FORM 19 — continued
-
-SECTION D: RECORDABLE DONATIONS (Show below details of the donations and particulars of permissible donors of single and multiple recordable donations accepted in chronological order according to the date the donation is received.
-
-Write NIL if you have no donations to declare. Include only donations given, spent, lent or provided (whether before or after the candidate became a candidate) for the purposes of the candidate’s election. If there is insufficient space in any section, attach a separate sheet with the details.)
-
-1. SINGLE RECORDABLE DONATIONS
-
-A Single Recordable Donation means a single donation of $10,000 or more.
-
-Name (as in NRIC) Address of donor Date of Value of Description of
-
-1
-
-and NRIC number/ (as in NRIC receipt of donation donation registered company or registered address, donation and (in Singapore (e.g. provision of name and RCB if company) recipient’s dollars, to tentage, loans registration number name the nearest at discounted interest of donor (e.g. 28/08/00 dollar) rates, cash, cheque, by (name)) labour costs)
-
-1 2 3 4 5 6 7 8 9 10 TOTAL
-
-1
-
-‘‘donation’’ and the ‘‘value of donation’’ are as defined under sections 3, 4 and 5 of the Political Donations Act (Cap. 236). For donations-in-kind, the value of the donation should be the value of the item at the date of receipt of the item.
-
-FIRST SCHEDULE — continued
-
-FORM 19 — continued
-
-2. MULTIPLE RECORDABLE DONATIONS
-
-A Multiple Recordable Donation means a donation from a donor, which when added to any other donation made by that same donor during the reporting period, the aggregate amount of the donations is $10,000 or more.
-
-Name (as in NRIC) Address of donor Date of Value of Description of
-
-1
-
-and NRIC number/ (as in NRIC receipt of donation donation registered company or registered address, donation and (in Singapore (e.g. provision of name and RCB if company) recipient’s dollars, to tentage, loans registration number name the nearest at discounted interest of donor (e.g. 28/08/00 dollar) rates, cash, cheque, by (name)) labour costs)
-
-1
-
-Sub-total 2
-
-Sub-total 3
-
-Sub-total 4
+Sub-total
 
 Sub-total TOTAL
 
+FIRST SCHEDULE — continued
+
 1
 
-‘‘donation’’ and the ‘‘value of donation’’ are as defined under sections 3, 4 and 5 of the Political Donations Act (Cap. 236). For donations-in-kind, the value of the donation should be the value of the item at the date of receipt of the item.
+. Donor’s name means (a) where the donor is an individual, the donor’s name as specified .
 
-FIRST SCHEDULE — continued
+in the donor’s NRIC; or (b) where the donor is a company, the donor’s registered name under the Companies Act 1967.
+
+2
+
+Donor’s unique identification number means (a) where the donor is an individual, the donor’s NRIC number; or (b) where the donor is a company, the company’s registration number under the Companies Act 1967.
+
+3
+
+Donor’s address means (a) where the donor is an individual, the donor’s address as specified in the donor’s NRIC; or (b) where the donor is a company, the address of the donor’s registered office in Singapore.
+
+4
+
+The expressions “donation” and “value of donation” have the meanings given by sections 3, 4 and 5 of the Political Donations Act 2000. For a donation-in-kind, the value of the donation is the value of the item at the date of receipt of the item.
 
 FORM 19A
 
-Section 74(1A) and (2A)
+[Deleted by S 443/2020]
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+FORM 20
 
-CONSOLIDATED RETURN OF ELECTION EXPENSES INCURRED BY SUB-AGENTS OF ELECTION AGENTS
-
-ELECTORAL DIVISION
-
-Name NRIC No.
-
-PRINCIPAL ELECTION AGENT
-
-CANDIDATE Name
-
-ELECTION AGENT Name
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-CANDIDATE Name
-
-ELECTION AGENT Name
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-FIRST SCHEDULE — continued
-
-FORM 19A — continued
-
-CANDIDATE Name
-
-ELECTION AGENT Name
-
-SUB-AGENTS Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-CANDIDATE Name
-
-ELECTION AGENT Name
-
-SUB-AGENTS Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-CANDIDATE Name
-
-ELECTION AGENT Name
-
-SUB-AGENTS Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-FIRST SCHEDULE — continued
-
-FORM 19A — continued
-
-CANDIDATE Name
-
-ELECTION AGENT Name
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-I, the duly appointed principal election agent of the above group of candidates standing for election in the abovementioned Electoral Division, make this consolidated Return respecting Election Expenses of the said candidates at that election.
-
-This consolidated Return respecting Election Expenses shows —
-
-(a) all expenses and payments incurred and paid by the sub-agent(s) authorised under section 62(6) of the Parliamentary Elections Act on account or in respect of the management of that election for the said group of candidates;
-
-(b) the disputed claims so far as the sub-agent(s) is(are) aware of;
-
-(c) all unpaid claims, if any, of which the sub-agent(s) is(are) aware in respect of which an application has been made or is about to be made to an Election Judge or a Judge of the High Court; and
-
-(d) the amount of those expenses and payments, disputed and unpaid claims, apportioned to each candidate.
-
-I declare to the best of my knowledge and belief that this is a complete and correct Return as required by law, and that except the expenses set out in this Return, no other expenses of any nature have been incurred by any sub-agent in, or for the purpose of, the above candidates’ candidature at the said election.
-
-Date: _________ Signature of Principal Election Agent: ___________________ FORM 19A — continued
-
-SECTION A: EXPENSES AND PAYMENTS 1. Fill in below the total amount of expenditure and payments for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar.
-
-Include only election expenses. All payments should be vouched for by a bill stating the particulars and by a receipt referred to in section 66(1) of the Parliamentary Elections Act. Where payment is made by cheque, the cheque number and the amount paid by cheque should be indicated under the appropriate item of expenditure.
-
-2. Please indicate clearly the amount apportioned to each candidate for every item of expenditure reported and attach supporting evidence showing how the amount of expenditure was apportioned.
-
-3. Attach a separate sheet if there is not enough room on the page to list all items of spending.
-
-Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
-
-(a) Remuneration of election agents, polling agents and counting agents, etc.
-
-Item 1:
-
-Item 2:
-
-Item 3:
-
-(b) Advertising and printing of promotional materials Item 1:
-
-Item 2:
-
-Item 3:
-
-FORM 19A — continued
-
-Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
-
-(c) Transport Item 1:
-
-Item 2:
-
-Item 3:
-
-(d) Stationery, office supplies and postage Item 1:
-
-Item 2:
-
-Item 3:
-
-(e) Fax machines, telephone and other means of communication Item 1:
-
-Item 2:
-
-Item 3:
-
-FORM 19A — continued
-
-Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
-
-(f) Furniture and equipment rental e.g. public address system, etc.
-
-Item 1:
-
-Item 2:
-
-Item 3:
-
-(g) Office rental and utilities for election meeting, committee room, etc.
-
-Item 1:
-
-Item 2:
-
-Item 3:
-
-(h) Food, refreshments and accommodation Item 1:
-
-Item 2:
-
-Item 3:
-
-FORM 19A — continued
-
-Name of Candidate and Apportioned Amount ($) Receipt/Payment Incurred by Amount Expenditure Voucher/Cheque No. (Name of sub-agent) ($) 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate
-
-(i) Miscellaneous expenses Item 1:
-
-Item 2:
-
-Item 3:
-
-Total Amount Apportioned to Candidate ($)
-
-FORM 19A — continued
-
-SECTION B: DISPUTED AND UNPAID CLAIMS 1. Fill in below the total amount of claims for each category, in Singapore dollars and inclusive of GST (if any), rounded to the nearest dollar. Include only claims for election expenses. Please indicate clearly the amount of disputed and unpaid claims apportioned to each candidate.
-
-2. If there is insufficient space in any section, attach a separate sheet with the details.
-
-(1) DISPUTED CLAIMS
-
-Set out the goods, Name of Candidate and Apportioned Amount ($) work or other matter Name and description Committed by Amount on the ground of of Claimant (Name of sub-agent) ($) which the claim 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate is based
-
-1.
-
-2.
-
-3.
-
-Total Amount Apportioned to Candidate ($)
-
-FORM 19A — continued
-
-(2) UNPAID CLAIMS in respect of which an application has been made or is about to be made to an Election Judge or a Judge of the High Court.
-
-Set out the goods, Name of Candidate and Apportioned Amount ($) work or other matter Name and description Committed by Amount on the ground of of Claimant (Name of sub-agent) ($) which the claim 1. Candidate 2. Candidate 3. Candidate 4. Candidate 5. Candidate 6. Candidate is based
-
-1.
-
-2.
-
-3.
-
-Total Amount Apportioned to Candidate ($)
-
-FIRST SCHEDULE — continued
-
-FORM 20 Section 74(2)
-
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
-
-DECLARATION BY CANDIDATE
-
-ELECTORAL DIVISION
-
-PARTICULARS OF CANDIDATE
-
-Name (in block letters) NRIC No.
-
-Address (as shown in NRIC) Contact Telephone/ Pager/Fax No.
-
-I was the abovenamed candidate for election in the above Electoral Division.
-
-I have examined the accompanying Return respecting Election Expenses in respect of my candidature that is about to be delivered to the Returning Officer by the person who is my election agent and declare, to the best of my knowledge and belief that —
-
-(a) it is a complete and correct Return as required by law; and
-
-(b) except for the expenses set out in the Return, no other expenses of any nature have been incurred in, or for the purpose of, my candidature at the said election.
-
-_____________________________________ __________________________ Signature of Candidate. Date.
-
-FIRST SCHEDULE — continued
+[Deleted by S 443/2020]
 
 FORM 20A
 
-Section 74(2A)
-
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
-
-DECLARATION BY PRINCIPAL ELECTION AGENT AND SUB-AGENTS
-
-ELECTORAL DIVISION
-
-Name NRIC No.
-
-PRINCIPAL ELECTION AGENT
-
-Name NRIC No.
-
-ELECTION AGENT
-
-SUB-AGENTS Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-Name NRIC No.
-
-ELECTION AGENT
-
-SUB-AGENTS Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-FIRST SCHEDULE — continued
-
-FORM 20A — continued
-
-Name NRIC No.
-
-ELECTION AGENT
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-Name NRIC No.
-
-ELECTION AGENT
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-Name NRIC No.
-
-ELECTION AGENT
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-FIRST SCHEDULE — continued
-
-FORM 20A — continued
-
-Name NRIC No.
-
-ELECTION AGENT
-
-SUB-AGENTS
-
-Name NRIC No.
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-We were the election agents for the abovenamed candidates for election in the above Electoral Division.
-
-We have examined the accompanying consolidated Return respecting Election Expenses that is about to be delivered to the Returning Officer and declare, to the best of our knowledge and belief that —
-
-(a) it is a complete and correct Return as required by law; and
-
-(b) except for the expenses set out in the Return, no other expenses of any nature have been incurred by us at the said election.
-
-Dated this _________ day of __________________ 20 ___
-
-_____________________ _____________________ _____________________ Signature of Signature of Signature of Principal Election Agent Sub-Agent 1 Sub-Agent 2
-
-_____________________ _____________________ _____________________ Signature of Signature of Signature of Sub-Agent 3 Sub-Agent 4 Sub-Agent 5
-
-_____________________ Signature of Sub-Agent 6
-
-FIRST SCHEDULE — continued
+[Deleted by S 443/2020]
 
 FORM 21
 
@@ -1194,84 +870,108 @@ FORM 21
 
 FIRST SCHEDULE — continued
 
-FORM 22 Section 83(2)
+FORM 22
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+Section 83(2)
+
+PARLIAMENTARY ELECTIONS ACT 1954
 
 AUTHORITY TO CONDUCT ELECTION ACTIVITY
 
 To: From:
 
-RETURNING OFFICER ....................................................................................
+RETURNING OFFICER .............................................
 
-(Name of Candidate)
+Elections Department (Name of Candidate) ..................................................
 
-Elections Department
+(Contesting Electoral Division)
 
-....................................................................................
+........................................
 
-(Contesting Electoral Division) ....................................................................................
+..................................................
 
-....................................................................................
-
-(Address) ....................................................................................
+(Address) ..................................................
 
 (Political Party)
 
-I, the abovenamed candidate for election in the Electoral Division of
+I, the abovenamed candidate for election in the Electoral Division of ..................
 
-....................................................................., do hereby authorise the undermentioned person to conduct election activities on my behalf.
+............, authorise the undermentioned person to conduct election activities on my behalf.
 
-2. To the best of my knowledge and belief the undermentioned person is not prohibited under section 83 of the Parliamentary Elections Act to conduct any election activity.
+2. To the best of my knowledge and belief, the undermentioned person is not prohibited under section 83 of the Parliamentary Elections Act 1954 to conduct any election activity.
 
 Name (in block letters) NRIC No.
 
 Address (as shown in NRIC)
 
-................................................ ........................................................................
+............................. ........................................
 
 Date. Signature of Candidate.
 
 FIRST SCHEDULE — continued
 
-FORM 23 Section 83(2)
+3. This authorisation extends to publishing online, during the campaign period of the election, any election advertising, but only in accordance with the following conditions:
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218) _______________
+(a) before the election advertising is so published, the particulars of every platform on which the election advertising is to be published by the undermentioned person during the campaign period must be given in writing to myself or my election agent;
+
+(b) the period that the election advertising will start appearing or appear online must be specified in writing to myself or my election agent by the undermentioned person, and updated by that person if the period is changed;
+
+(c) the undermentioned person must declare, under his or her hand, to myself or my election agent —
+
+(i) whether any money or money’s worth (including sponsorship) is received or paid or to be received or paid (directly or indirectly) for publishing the election advertising, from or by another person except myself or my election agent; and
+
+(ii) the name and other sufficient particulars to identify that other person in sub-paragraph (i) if money or money’s worth is received or paid or to be received or paid, and the amount paid or to be paid by the undermentioned person for publishing the election advertising.
+
+FIRST SCHEDULE — continued
+
+FORM 23
+
+Section 83(2)
+
+PARLIAMENTARY ELECTIONS ACT 1954 ______________
 
 AUTHORITY TO CONDUCT ELECTION ACTIVITY
 
 To: From:
 
-RETURNING OFFICER ....................................................................................
+RETURNING OFFICER ..............................................
 
-(Name of Election Agent)
+Elections Department (Name of Election Agent) ..................................................
 
-Elections Department
+(Contesting Electoral Division)
 
-....................................................................................
+........................................
 
-(Contesting Electoral Division) ....................................................................................
+..................................................
 
-....................................................................................
-
-(Address) ....................................................................................
+(Address) ..................................................
 
 (Political Party)
 
-I, being the election agent of ..................................................................................,
+I, being the election agent of ......................................................, (Name of Candidate) a candidate for election in the abovementioned Electoral Division, authorise the undermentioned person to conduct election activities on behalf of the said candidate.
 
-(Name of Candidate)
-
-a candidate for election in the abovementioned Electoral Division, hereby authorise the undermentioned person to conduct election activities on behalf of the said candidate.
-
-2. To the best of my knowledge and belief the undermentioned person is not prohibited under section 83 of the Parliamentary Elections Act to conduct any election activity.
+2. To the best of my knowledge and belief the undermentioned person is not prohibited under section 83 of the Parliamentary Elections Act 1954 to conduct any election activity.
 
 Name (in block letters) NRIC No.
 
 Address (as shown in NRIC)
 
-................................................ ........................................................................
+............................. ........................................
 
 Date. Signature of Election Agent.
 
-[18/2005; S 528/96; S 522/2001; S 389/2005; S 232/2006; S 141/2011]
+FIRST SCHEDULE — continued
+
+3. This authorisation extends to publishing online, during the campaign period of the election, any election advertising, but only in accordance with the following conditions:
+
+(a) before the election advertising is so published, the particulars of every platform on which the election advertising is to be published by the undermentioned person during the campaign period must be given in writing to myself or the candidate;
+
+(b) the period that the election advertising will start appearing or appear online must be specified in writing to myself or the candidate by the undermentioned person, and updated by that person if the period is changed;
+
+(c) the undermentioned person must declare, under his or her hand, to myself or the candidate —
+
+(i) whether any money or money’s worth (including sponsorship) is received or paid or to be received or paid (directly or indirectly) for publishing the election advertising, from or by another person except myself or the candidate; and
+
+(ii) the name and other sufficient particulars to identify that other person in sub-paragraph (i) if money or money’s worth is received or paid or to be received or paid, and the amount paid or to be paid by the undermentioned person for publishing the election advertising.
+
+[18/2005; 40/2019; S 3/2019; S 231/2019; S 443/2020]

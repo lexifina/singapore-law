@@ -1,66 +1,72 @@
 # 13A. Registration as overseas elector
-Part: PART II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
+Part: PART 2 REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
-(1) Any person not resident in Singapore but whose name is entered in the register of electors for an electoral division and who is entitled to have his name so entered or retained in that register of electors may, at any time before a writ of election is issued for any election in that electoral division, apply to the Registration Officer to be registered as an overseas elector for that electoral division at —
+(1) Any person who is not resident in Singapore but whose name is entered in the register of electors for an electoral division and who is entitled to have his or her name so entered or retained in that register of electors may, at any time and in such form or manner as may be prescribed, apply to the Registration Officer to be registered as an overseas elector for that electoral division.
 
-(a) any overseas registration centre; or
+[6/2017]
 
-(b) any place in or near the electoral division for which the person seeks to be registered as an overseas elector.
+(2) An application under subsection (1) by any person to be registered as an overseas elector must contain or be accompanied by —
 
-[14/2008]
+(a) satisfactory proof of his or her identity;
 
-(2) An application under subsection (1) by any person to be registered as an overseas elector shall be accompanied by —
+(b) particulars of his or her current mailing address outside Singapore;
 
-(a) satisfactory proof of his identity;
+(c) a declaration that he or she is a citizen of Singapore and is not less than 21 years of age;
 
-(b) particulars of the date he left Singapore and his current mailing address outside Singapore;
-
-(c) a declaration that he is a citizen of Singapore and is not less than 21 years of age;
-
-(ca) a declaration that he —
+(ca) a declaration that he or she —
 
 (i) has not acquired or applied to acquire by registration, naturalisation or other voluntary and formal act (other than marriage) the citizenship of any country outside Singapore;
 
-(ii) has not voluntarily claimed and exercised any rights (other than any rights in connection with the use of a passport) available to him under the law of any country outside Singapore being rights accorded exclusively to the citizens or nationals of that country;
+(ii) has not voluntarily claimed and exercised any rights (other than any rights in connection with the use of a passport) available to him or her under the law of any country outside Singapore being rights accorded exclusively to the citizens or nationals of that country;
 
 (iii) has not taken any oath or made any declaration or acknowledgment of allegiance, obedience or adherence to any foreign power or state; and
 
 (iv) has not applied to the authorities of a place outside Singapore for the issue or renewal of a passport or used a passport issued by such authorities as a travel document;
 
-(d) a statement specifying the overseas polling station he desires to vote at in an election; and
+(d) a statement specifying the overseas polling station he or she desires to vote at in an election; and
 
-(e) any other information as the Registration Officer considers necessary to determine the person’s entitlement to have his name entered in a register or the electoral division in or in respect of which he may vote.
+(e) any other information as the Registration Officer considers necessary to determine the person’s entitlement to have his or her name entered or retained in a register or the electoral division in or in respect of which the person may vote.
 
-[19/2001; 14/2008]
+[6/2017]
 
-(3) Notwithstanding anything to the contrary in section 13, the Registration Officer may, on receipt of any application under subsection (1) to be registered as an overseas elector for an electoral division, at any time except between the issue of a writ of election under section 24 and the nomination day appointed for an election in that electoral division or, if a poll is to be taken, the polling day appointed for that election —
+(3) An overseas elector may, at any time and in such form or manner as may be prescribed, apply to the Registration Officer —
 
-(a) register the applicant as an overseas elector in the register of electors; and
+(a) to change the overseas polling station allotted to him or her under subsection (3A)(a); or
 
-(b) allot the applicant to vote at the overseas polling station specified in his statement under subsection (2)(d) or any other overseas polling station.
+(b) to cancel his or her registration.
 
-[19/2001; 14/2008]
+[6/2017]
 
-(3A) Any person who is registered under this section as an overseas elector in the register of electors for an electoral division may, at any time, apply to the Registration Officer in the manner prescribed —
+(3A) Despite section 13, the Registration Officer may —
 
-(a) to cancel his registration as an overseas elector; or
+(a) in the case of an application made under subsection (1), register the applicant as an overseas elector and allot to the applicant an overseas polling station;
 
-(b) to change the overseas polling station allotted to him under subsection (3)(b) to another overseas polling station, and the Registration Officer may, at any time before the issue of a writ of election under section 24 for an election in that electoral division, cancel the person’s registration as an overseas elector or allot the person another overseas polling station to vote at, as the case may be.
+(b) in the case of an application made under subsection (3)(a), allot to the applicant another overseas polling station;
 
-[14/2008]
+(c) in the case of an application made under subsection (3)(b), cancel the applicant’s registration as an overseas elector; or
+
+(d) reject any application made under subsection (1) or (3).
+
+[6/2017]
+
+(3AA) If the Registration Officer receives an application under subsection (1) or (3) during the specified period of an election, the Registration Officer is not required to take any action on the application under subsection (3A) until after that specified period.
+
+[6/2017]
 
 (3B) Only one overseas polling station may be allotted to a person who is registered as an overseas elector.
 
-[14/2008]
-
-(4) The registration of any person under this section as an overseas elector in any register of electors shall continue in operation until superseded by the coming into operation of the next certified register relating to any area within that electoral division following any preparation of registers under section 10 or any revision of registers under section 14.
-
-[19/2001]
+(4) The registration of any person under this section as an overseas elector in any register of electors continues in operation until superseded by the coming into operation of the next certified register relating to any area within that electoral division following any preparation of registers under section 10 or any revision of registers under section 14.
 
 (5) For the purposes of subsection (2)(ca)(ii), the exercise of a vote in —
 
 (a) any national, state or provincial election; or
 
-(b) any election for the local government of any metropolitan or urban area, in a country outside Singapore (but not an election under this Act or a presidential election) shall be deemed to be the voluntary claim and exercise of a right available under the law of that country.
+(b) any election for the local government of any metropolitan or urban area, in a country outside Singapore (but not an election under this Act or a presidential election) is deemed to be the voluntary claim and exercise of a right available under the law of that country.
 
-[14/2008]
+(6) In this section, “specified period” means —
+
+(a) in the case of an election for an electoral division under this Act — the period starting on the third day (including a Sunday or public holiday) after the issue of the writ of election under section 24 for that election and ending on the nomination day for that election or, if a poll is to be taken, the polling day (or if there is more than one polling day, the last polling day) for that election; and
+
+(b) in the case of an election under the Presidential Elections Act 1991 — the period starting on the third day (including a Sunday or public holiday) after the issue of the writ of election under section 6 of that Act and ending on the nomination day or, if a poll is to be taken, the polling day (or if there is more than one polling day, the last polling day) under that Act for that election.
+
+[6/2017]

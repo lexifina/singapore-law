@@ -2,22 +2,22 @@
 
 Section 42(7)
 
-PARLIAMENTARY ELECTIONS ACT (CHAPTER 218)
+PARLIAMENTARY ELECTIONS ACT 1954
 
-DIRECTIONS FOR GUIDANCE OF VOTERS IN VOTING
+DIRECTIONS FOR GUIDANCE OF VOTERS
 
-1. The voter may vote for one candidate or, if the electoral division is a group representation constituency, one group of candidates.
+1. When you are given a ballot paper, go to a polling booth.
 
-2. The voter has one vote.
+2. Mark on your ballot paper an “X” in the empty box for the candidate, or the group of candidates (in the case of a group representation constituency), you are voting for.
 
-3. The voter will go into the place reserved for the marking of ballot papers and mark a cross in the space provided for the purpose on the right hand side of the ballot paper opposite the name of the candidate or, if the electoral division is a group representation constituency, the names of the group of candidates, for which he votes, thus, X.
+(a) Do not make any other mark on your ballot paper, or your vote may not be counted.
 
-4. The voter will then fold up the ballot paper so as to show the official mark on the back, and without showing the front of the paper to any person, show the official mark on the back to the presiding officer, put the paper into the ballot box and immediately leave the polling station.
+(b) If you make a mistake when marking your ballot paper, return it to the presiding officer and ask for another ballot paper.
 
-5. If the voter inadvertently spoils a ballot paper, he can return it to the presiding officer who will, if satisfied of such inadvertence, give him another paper.
+3. After marking your ballot paper, fold it in half and drop it into the ballot box.
 
-6. If the voter votes for more than one candidate or, if the electoral division is a group representation constituency, more than one group of candidates, on any ballot paper, his ballot paper will be void and will not be counted.
+Do not let anyone see your vote.
 
-7. If the voter places any mark on the ballot paper by which he may afterwards be identified, his ballot paper will be void and will not be counted.
+4. Leave the polling station immediately after dropping your ballot paper into the ballot box.
 
-[10/88]
+[S 232/2019]

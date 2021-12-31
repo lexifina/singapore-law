@@ -1,16 +1,14 @@
 # 50A. Approval of DRE voting systems
-Part: PART III ELECTIONS
+Part: PART 3 ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) No DRE voting system shall be used at any poll in any electoral division unless the DRE voting system is approved before the date of the writ of the election under section 24 by —
+(1) A DRE voting system must not be used at any poll in any electoral division unless the DRE voting system is approved before the date of the writ of the election under section 24 by —
 
 (a) the Auditor-General; or
 
 (b) any person appointed by the Minister in consultation with the Auditor-General.
 
-[19/2001]
-
-(2) The Auditor-General or person appointed under subsection (1) shall not approve any DRE voting system for use at any election in any electoral division unless, after conducting such tests as he considers necessary in the presence of the Returning Officer and such representatives of any political party as are present, he is satisfied that the DRE voting system —
+(2) The Auditor-General or person appointed under subsection (1) must not approve any DRE voting system for use at any election in any electoral division unless, after conducting such tests as he or she considers necessary in the presence of the Returning Officer and such representatives of any political party as are present, he or she is satisfied that the DRE voting system —
 
 (a) permits voting in secrecy;
 
@@ -24,16 +22,10 @@ Heading: CONTESTED ELECTIONS
 
 (f) is safe from fraudulent or unauthorised manipulation or operation;
 
-(g) ensures that all voting data stored in the DRE voting machines used shall be maintained regardless of electrical power surges or outages; and
+(g) ensures that all voting data stored in the DRE voting machines used is maintained regardless of electrical power surges or outages; and
 
-(h) is capable of providing records from which the operation of the DRE voting system may be audited and for verification of the accuracy of the recording and counting of votes, but that shall not allow for identification of any voter.
+(h) is capable of providing records from which the operation of the DRE voting system may be audited and for verification of the accuracy of the recording and counting of votes, but that does not allow for identification of any voter.
 
-[19/2001]
-
-(3) Subject to subsection (1), no DRE voting system shall be used at a poll in any electoral division unless the Returning Officer specifies, by notice under section 34(6) or (as the case may be) 34A(6), that a DRE voting system will be used at the poll in that electoral division.
-
-[19/2001]
+(3) Subject to subsection (1), a DRE voting system must not be used at a poll in any electoral division unless the Returning Officer specifies, by notice under section 34(6) or (as the case may be) 34A(6), that a DRE voting system will be used at the poll in that electoral division.
 
 (4) Where a DRE voting system is to be used at any forthcoming poll in any electoral division in accordance with this section, the Returning Officer may, for the purpose of instructing electors, provide one or more demonstrations as to the use of the DRE voting system in one or more public places within that electoral division.
-
-[19/2001]

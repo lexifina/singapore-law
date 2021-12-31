@@ -1,5 +1,5 @@
 # 61. Punishment and incapacities for corrupt practice
-Part: PART III ELECTIONS
+Part: PART 3 ELECTIONS
 Heading: CORRUPT PRACTICES
 
 (1) Every person who —
@@ -10,9 +10,9 @@ Heading: CORRUPT PRACTICES
 
 (c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending with the start of polling day at that election which —
 
-(i) in the case of election advertising that is, or is contained in, a printed document, does not bear on its face or, if there is more than one side of printed matter, on the first or last page of the document, the names and addresses of its printer, its publisher and the person for whom or at whose direction the election advertising is published; or
+(i) in the case of election advertising that is, or is contained in, a printed document, does not bear on its face or, if there is more than one side of printed matter, on the first or last page of the document, the names of its printer, its publisher and the person for whom or at whose direction the election advertising is published; or
 
-(ii) in the case of any other election advertising, does not bear in the form and manner prescribed under section 78A the names and addresses of its publisher and the person for whom or at whose direction the election advertising is published;
+(ii) in the case of any other election advertising, does not bear in the form and manner prescribed under section 78A the names of its publisher and the person for whom or at whose direction the election advertising is published;
 
 (d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 
@@ -20,35 +20,27 @@ Heading: CORRUPT PRACTICES
 
 (f) being a candidate or an election agent, knowingly makes the declaration as to election expenses required by section 74 falsely, shall be guilty of a corrupt practice and shall on conviction by a District Court be liable —
 
-(i) in the case referred to in paragraph (a), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
+(g) in the case mentioned in paragraph (a) — to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-(ii) in the case referred to in paragraph (b), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
+(h) in the case mentioned in paragraph (b) — to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both;
 
-(iii) in the case referred to in paragraph (c), to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both;
+(i) in the case mentioned in paragraph (c) — to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both;
 
-(iv) in the case referred to in paragraph (d) or (e), to a fine or to imprisonment for a term not exceeding 12 months or to both; or
+(j) in the case mentioned in paragraph (d) or (e) — to a fine or to imprisonment for a term not exceeding 12 months or to both; or
 
-(v) in the case referred to in paragraph (f), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(k) in the case mentioned in paragraph (f) — to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[31/2001; 10/2010]
+[41/2018]
 
-(2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member, and if at that date he has been elected a Member, his election shall be vacated from the date of the conviction.
+(2) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his or her conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member, and if at that date he or she has been elected a Member, his or her election shall be vacated from the date of the conviction.
 
-[21/91]
+(3) A prosecution for a corrupt practice (except any corrupt practice as defined in subsection (1)(d) and (e)) must not be instituted without the consent of the Public Prosecutor.
 
-(3) A prosecution for a corrupt practice except any corrupt practice as defined in subsection (1)(d) and (e) shall not be instituted without the consent of the Public Prosecutor.
+(4) Without affecting section 57, every offence of undue influence or bribery under section 59 or 60 (as the case may be) and every other corrupt practice under subsection (1)(c), (d) or (e) is an arrestable offence within the meaning of the Criminal Procedure Code 2010.
 
-[15/2010]
+(5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher of the election advertising.
 
-(4) Without prejudice to section 57, every offence of undue influence or bribery under section 59 or 60, as the case may be, and every other corrupt practice under subsection (1)(c), (d) or (e) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
-
-[10/2010]
-
-(5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
-
-[31/2001]
-
-(6) Subsection (1)(c) shall not apply in respect of —
+(6) Subsection (1)(c) does not apply in respect of —
 
 (a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
 
@@ -56,12 +48,10 @@ Heading: CORRUPT PRACTICES
 
 (c) the publication of any news relating to an election —
 
-(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act (Cap. 206); or
+(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act 1974; or
 
-(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
+(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act 1994;
 
-(d) the telephonic or electronic transmission by an individual to another individual of the first-mentioned individual’s own political views, on a non-commercial basis; or
+(d) the telephonic or electronic transmission by an individual to another individual of the firstmentioned individual’s own political views, on a non-commercial basis; or
 
-(e) such other circumstances or activities as may be prescribed by the Minister by order in the Gazette.
-
-[31/2001; 10/2010]
+(e) such other circumstances or activities as the Minister may, by order in the Gazette, prescribe.

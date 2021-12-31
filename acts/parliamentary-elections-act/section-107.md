@@ -1,4 +1,4 @@
 # 107. Forms
-Part: PART V GENERAL
+Part: PART 5 GENERAL
 
-The forms in the First Schedule or forms substantially to the like effect, shall be sufficient in law, and may be varied, or other forms prescribed, by the Minister as circumstances require.
+The forms in the First Schedule or forms substantially to the like effect, are sufficient in law, and may be varied, or other forms prescribed, by the Minister as circumstances require.

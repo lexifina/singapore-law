@@ -1,5 +1,5 @@
 # 93. Who may make application under section 90
-Part: PART IV APPLICATIONS FOR AVOIDANCE OF ELECTION
+Part: PART 4 APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 An application under section 90 may be made to the Supreme Court by any one or more of the following persons:
 
@@ -7,6 +7,4 @@ An application under section 90 may be made to the Supreme Court by any one or m
 
 (b) some person claiming to have had a right to be returned or elected at the election;
 
-(c) some person alleging himself to have been a candidate at the election.
-
-[42/2005]
+(c) some person alleging himself or herself to have been a candidate at the election.

@@ -1,37 +1,63 @@
 # 49A. Counting of votes by overseas electors
-Part: PART III ELECTIONS
+Part: PART 3 ELECTIONS
 Heading: CONTESTED ELECTIONS
 
-(1) All the sealed ballot boxes containing the votes cast at any overseas polling station must arrive at the office of the Returning Officer in Singapore not later than 10 days after polling day at an election in order for those votes to be counted.
+(1) Subject to section 56DB, every sealed ballot box containing votes cast at an overseas polling station at an election in an electoral division (called in this section the affected electoral division) must, in order for those votes to be counted in the election, reach the custody of the Returning Officer in Singapore —
 
-[19/2001]
+(a) within 10 days after polling day in Singapore for the election; or
 
-(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 48A(2).
+(b) where the Returning Officer extends time under subsection (2), within the extended time.
 
-[19/2001]
+[41/2018]
 
-(3) Subject to subsection (1), such arrangements shall provide for the counting of votes cast by overseas electors in the presence of the candidates and their counting agents as attend as soon as practicable after all the sealed ballot boxes used at overseas polling stations during the poll have been received by the Returning Officer in Singapore.
+(2) The Returning Officer may extend time by another 7 days if the Returning Officer —
 
-[19/2001]
+(a) has made a declaration under section 49(7)(b) or (7E)(b) in the election; and
 
-(4) Sections 49, 49B and 50 shall apply to the counting (including recounting, if any) of the votes cast by overseas electors.
+(b) is satisfied, for any reason, that any sealed ballot box containing votes cast at an overseas polling station in the election is not likely to reach the custody of the Returning Officer in Singapore within the time specified in subsection (1)(a).
 
-[19/2001]
+[41/2018]
 
-(5) Where the Returning Officer has made a declaration under section 49(7)(b) or (7E)(b), the number of votes given by overseas electors to each candidate or group of candidates shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer shall immediately declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes is given to be elected.
+(2A) If the Returning Officer extends time under subsection (2) —
 
-[19/2001]
+(a) the counting of the votes cast at the overseas polling stations for the affected electoral division, and for every related electoral division specified in subsection (2B), stands postponed to the date specified by the Returning Officer under paragraph (b)(ii); and
 
-(6) After the Returning Officer has made any declaration under subsection (5), he shall ensure that the following procedures are complied with:
+(b) the Returning Officer must, as soon as practicable, publish a notice in the Gazette —
 
-(a) all ballot papers and all other documents relating to the election at every place where the votes of overseas electors are counted shall be sealed up in separate packets and placed in any ballot box or boxes;
+(i) stating that the Returning Officer has extended the time; and
 
-(b) the ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+(ii) specifying the date on, the time at and the counting place in Singapore at which the votes cast at the overseas polling stations will be counted.
 
-(c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
+[41/2018]
 
-(d) subject to section 49(10), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+(2B) For the purposes of subsection (2A)(a), a related electoral division is —
 
-(e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
+(a) in the case of a general election, an electoral division (other than the affected electoral division) in the general election;
 
-[19/2001]
+or
+
+(b) in the case of a by-election, an electoral division for which a by-election is held at the same time as the by-election for the affected electoral division.
+
+[41/2018]
+
+(3) Subject to subsection (1), the Returning Officer must arrange for the counting of votes cast by overseas electors in the presence of the candidates and their counting agents as attend as soon as practicable after all the sealed ballot boxes used at overseas polling stations during the poll have been received by the Returning Officer in Singapore.
+
+[41/2018]
+
+(4) Section 49 applies to the counting of votes cast by overseas electors, with the necessary modifications.
+
+[41/2018]
+
+(5) Where the Returning Officer has made a declaration under section 49(7)(b) or (7E)(b), the number of votes given by overseas electors to each candidate or group of candidates must be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer must immediately declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes is given to be elected.
+
+(6) After the Returning Officer has made any declaration under subsection (5), the Returning Officer must ensure that the following procedures are complied with:
+
+(a) all ballot papers and all other documents relating to the election at every place where the votes of overseas electors are counted must be sealed up in separate packets and placed in any ballot box or boxes;
+
+(b) the ballot box or boxes must then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+
+(c) the sealed ballot box or boxes must be despatched and delivered in safe custody to the Returning Officer;
+
+(d) subject to section 49(10), the ballot papers and other documents in the sealed ballot box or boxes must be retained in safe custody for a period of 6 months;
+
+(e) the ballot papers and other documents must be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.

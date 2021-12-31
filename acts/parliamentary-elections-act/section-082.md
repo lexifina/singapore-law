@@ -1,8 +1,8 @@
 # 82. Undue influence at or near polling station
-Part: PART III ELECTIONS
+Part: PART 3 ELECTIONS
 Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
-(1) No person shall —
+(1) A person must not —
 
 (a) endeavour to establish the identity of any person entering a polling station;
 
@@ -10,18 +10,14 @@ Heading: ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (c) anywhere place any desk or table or establish any office or booth for the purpose of recording particulars of voters;
 
-(d) wait outside any polling station on polling day, except for the purpose of gaining entry to the polling station to cast his vote;
+(d) wait outside any polling station on polling day, except for the purpose of gaining entry to the polling station to cast his or her vote;
 
 (e) loiter in any street or public place within a radius of 200 metres of any polling station on polling day; or
 
 (f) open or maintain, for the purpose of any activity directed towards promoting or procuring the election of a candidate at any election, any office in any room, building or any place whatsoever, whether open or enclosed, on polling day.
 
-(1A) Notwithstanding subsection (1), every candidate or his election agent may open or maintain in his electoral division one office for each polling district, which shall not be within a radius of 200 metres of any polling station, and the address of every such office shall be registered by the candidate or his election agent with the Returning Officer before polling day.
+(1A) Despite subsection (1), every candidate or his or her election agent may open or maintain in his or her electoral division one office for each polling district, which must not be within a radius of 200 metres of any polling station, and the address of every such office must be registered by the candidate or his or her election agent with the Returning Officer before polling day.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[10/2010]
-
-(3) The offence under subsection (2) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
-
-[10/2010]
+(3) The offence under subsection (2) is an arrestable offence within the meaning of the Criminal Procedure Code 2010.
