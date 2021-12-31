@@ -1,5 +1,5 @@
 # 68. Payment for honour supra protest Lost instruments
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill has been protested for non-payment, any person may intervene and pay it supra protest for the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
 

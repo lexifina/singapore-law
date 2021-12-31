@@ -1,5 +1,5 @@
 # 44. Duties as to qualified acceptances
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) The holder of a bill may refuse to take a qualified acceptance, and if he does not obtain an unqualified acceptance, may treat the bill as dishonoured by non-acceptance.
 

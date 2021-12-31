@@ -1,5 +1,5 @@
 # 72. Rules where laws conflict
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 Where a bill drawn in one country is negotiated, accepted or payable in another, the rights, duties and liabilities of the parties thereto are determined as follows:
 

@@ -1,5 +1,5 @@
 # 10. Bill payable on demand
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill is payable on demand —
 

@@ -1,5 +1,5 @@
 # 49. Rules as to notice of dishonour
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 Notice of dishonour, in order to be valid and effectual, must be given in accordance with the following rules:
 
@@ -11,11 +11,11 @@ Notice of dishonour, in order to be valid and effectual, must be given in accord
 
 (d) where notice is given by or on behalf of an indorser entitled to give notice as hereinbefore provided, it enures for the benefit of the holder and all indorsers subsequent to the party to whom notice is given;
 
-(e) the notice may be given in writing or by personal communi- cation, and may be given in any terms which sufficiently identify the bill, and intimate that the bill has been dishonoured by non-acceptance or non-payment;
+(e) the notice may be given in writing or by personal communication, and may be given in any terms which sufficiently identify the bill, and intimate that the bill has been dishonoured by non-acceptance or non-payment;
 
 (f) the return of a dishonoured bill to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
-(g) where a cheque has been presented in accordance with section 89, the presentment of an image return document, as defined under section 90 (6), to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
+(g) where a cheque has been presented in accordance with section 89, the presentment of an image return document, as defined under section 90(6), to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
 (h) a written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication; a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby;
 
@@ -38,5 +38,3 @@ Notice of dishonour, in order to be valid and effectual, must be given in accord
 (o) where a party to a bill receives due notice of dishonour he has, after the receipt of such notice, the same period of time for giving notice to antecedent parties that the holder has after the dishonour;
 
 (p) where a notice of dishonour is duly addressed and posted, the sender is deemed to have given due notice of dishonour notwithstanding any miscarriage by the post office.
-
-[22/2002]

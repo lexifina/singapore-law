@@ -1,5 +1,5 @@
 # 16. Optional stipulations by drawer or indorser
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 The drawer of a bill, and any indorser, may insert therein an express stipulation —
 

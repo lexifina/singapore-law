@@ -1,5 +1,5 @@
 # 74. Presentment of cheque for payment
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 Subject to the provisions of this Act —
 

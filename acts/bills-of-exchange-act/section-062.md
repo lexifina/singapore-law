@@ -1,5 +1,5 @@
 # 62. Express waiver or renunciation
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) When the holder of a bill at or after its maturity absolutely and unconditionally renounces his rights against the acceptor, the bill is discharged.
 

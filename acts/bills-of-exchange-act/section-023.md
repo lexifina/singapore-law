@@ -1,5 +1,5 @@
 # 23. Signature essential to liability
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Subject to this section, no person is liable as drawer, indorser, or acceptor of a bill who has not signed it as such.
 

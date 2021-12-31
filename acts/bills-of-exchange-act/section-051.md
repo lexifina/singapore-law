@@ -1,5 +1,5 @@
 # 51. Noting or protest of bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where an inland bill has been dishonoured it may, if the holder thinks fit, be noted for non-acceptance or non-payment, as the case may be; but it shall not be necessary to note or protest any such bill in order to preserve the recourse against the drawer or indorser.
 

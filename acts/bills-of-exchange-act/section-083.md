@@ -1,5 +1,5 @@
 # 83. Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 (1) Where a banker in good faith and in the ordinary course of business pays a cheque drawn on him which is not indorsed or is irregularly indorsed, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and he is deemed to have paid it in due course.
 
@@ -8,7 +8,3 @@ Part: PART III CHEQUES DRAWN ON BANKER
 (a) a document issued by a customer of his which, though not a bill of exchange, is intended to enable a person to obtain payment from him of the sum mentioned in the document;
 
 (b) a draft payable on demand drawn by him upon himself, whether payable at the head office or some other office of his bank, he does not, in doing so, incur any liability by reason only of the absence of, or irregularity in, indorsement, and the payment discharges the instrument.
-
-[82
-
-[Cf. UK Cheques Act, 1957 s. 1]

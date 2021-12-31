@@ -1,5 +1,5 @@
 # 36. Negotiation of overdue or dishonoured bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill is negotiable in its origin it continues to be negotiable until it has been —
 
@@ -7,7 +7,7 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 (b) discharged by payment or otherwise.
 
-(2) Where an overdue bill is negotiated, it can only be negotiated subject to any defect of title affecting it at its maturity, and thence- forward no person who takes it can acquire or give a better title than that which the person from whom he took it had.
+(2) Where an overdue bill is negotiated, it can only be negotiated subject to any defect of title affecting it at its maturity, and thenceforward no person who takes it can acquire or give a better title than that which the person from whom he took it had.
 
 (3) A bill payable on demand is deemed to be overdue within the meaning and for the purposes of this section, when it appears on the face of it to have been in circulation for an unreasonable length of time.
 

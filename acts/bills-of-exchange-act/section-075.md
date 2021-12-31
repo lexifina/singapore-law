@@ -1,5 +1,5 @@
 # 75. Revocation of banker’s authority Crossed cheques
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 The duty and authority of a banker to pay a cheque drawn on him by his customer are determined by —
 

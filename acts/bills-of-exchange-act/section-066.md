@@ -1,5 +1,5 @@
 # 66. Liability of acceptor for honour
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) The acceptor for honour of a bill by accepting it engages that he will, on due presentment, pay the bill according to the tenor of his acceptance, if it is not paid by the drawee, provided it has been duly presented for payment, and protested for non-payment, and that he receives notice of these facts.
 

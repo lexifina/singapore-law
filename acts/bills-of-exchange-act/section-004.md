@@ -1,5 +1,5 @@
 # 4. Inland and foreign bills
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) An inland bill is a bill which is, or on the face of it purports to be —
 

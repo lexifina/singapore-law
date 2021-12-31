@@ -1,5 +1,5 @@
 # 6. Address to drawee
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) The drawee must be named or otherwise indicated in a bill with reasonable certainty.
 

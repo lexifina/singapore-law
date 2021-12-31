@@ -1,5 +1,5 @@
 # 71. Rules as to sets Conflict of laws
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill is drawn in a set, each part of the set being numbered, and containing a reference to the other parts, the whole of the parts constitute one bill.
 

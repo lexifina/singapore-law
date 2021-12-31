@@ -1,5 +1,5 @@
 # 73. Cheque defined
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 (1) A cheque is a bill of exchange drawn on a banker payable on demand.
 

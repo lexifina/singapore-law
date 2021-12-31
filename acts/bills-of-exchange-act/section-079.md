@@ -1,5 +1,5 @@
 # 79. Duties of banker as to crossed cheques
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 (1) Where a cheque is crossed specially to more than one banker, except when crossed to an agent for collection being a banker, the banker on whom it is drawn shall refuse payment thereof.
 

@@ -1,5 +1,5 @@
 # 96. Presentment of note for payment
-Part: PART IV PROMISSORY NOTES
+Part: PART 4 PROMISSORY NOTES
 
 (1) Where a promissory note is in the body of it made payable at a particular place, it must be presented for payment at that place in order to render the maker liable.
 
@@ -8,7 +8,3 @@ Part: PART IV PROMISSORY NOTES
 (3) Presentment for payment is necessary in order to render the indorser of a note liable.
 
 (4) Where a note is in the body of it made payable at a particular place, presentment at that place is necessary in order to render an indorser liable; but when a place of payment is indicated by way of memorandum only, presentment at that place is sufficient to render the indorser liable, but a presentment to the maker elsewhere, if sufficient in other respects, shall also suffice.
-
-[92
-
-[Cf. UK BEA, 1882 s. 87]

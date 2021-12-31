@@ -1,5 +1,5 @@
 # 55. Liability of drawer or indorser
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) The drawer of a bill, by drawing it —
 

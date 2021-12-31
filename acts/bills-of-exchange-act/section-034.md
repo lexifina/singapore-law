@@ -1,5 +1,5 @@
 # 34. Indorsement in blank and special indorsement
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) An indorsement in blank specifies no indorsee, and a bill so indorsed becomes payable to bearer.
 

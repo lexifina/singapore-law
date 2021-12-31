@@ -1,7 +1,7 @@
 # 35. Restrictive indorsement
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
-(1) An indorsement is restrictive which prohibits the further negotiation of the bill or which expresses that it is a mere authority to deal with the bill as thereby directed and not a transfer of the ownership thereof, as, for example, if a bill be indorsed ‘‘Pay D only’’, or ‘‘Pay D for the account of X’’, or ‘‘Pay D or order for collection’’.
+(1) An indorsement is restrictive which prohibits the further negotiation of the bill or which expresses that it is a mere authority to deal with the bill as thereby directed and not a transfer of the ownership thereof, as, for example, if a bill be indorsed “Pay D only”, or “Pay D for the account of X”, or “Pay D or order for collection”.
 
 (2) A restrictive indorsement gives the indorsee the right to receive payment of the bill and to sue any party thereto that his indorser could have sued, but gives him no power to transfer his rights as indorsee unless it expressly authorises him to do so.
 

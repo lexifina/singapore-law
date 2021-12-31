@@ -1,5 +1,5 @@
 # 86. Protection of bankers collecting payment of cheques, or certain other instruments
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 (1) Where a banker, in good faith and without negligence —
 
@@ -11,14 +11,8 @@ Part: PART III CHEQUES DRAWN ON BANKER
 
 (a) cheques (including cheques which under section 82 or otherwise are not transferable);
 
-(b) any document issued by a customer of a banker which, though not a bill of exchange, is intended to enable a person to obtain payment from that banker of the sum mentioned in the document; and
+(b) any document issued by a customer of a banker which, though not a bill of exchange, is intended to enable a person to obtain payment from that banker of the sum mentioned in the document;
 
 (c) any draft payable on demand drawn by a banker upon himself, whether payable at the head office or some other office of his bank.
 
-[34/92]
-
 (3) A banker is not to be treated for the purposes of this section as having been negligent by reason only of his failure to concern himself with absence of, or irregularity in, indorsement of an instrument.
-
-[85
-
-[Cf. UK Cheques Act, 1957 s. 4]

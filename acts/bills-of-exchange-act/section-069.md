@@ -1,5 +1,5 @@
 # 69. Holder’s right to duplicate of lost bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill has been lost before it is overdue, the person who was the holder of it may apply to the drawer to give him another bill of the same tenor, giving security to the drawer if required to indemnify him against all persons whatever in case the bill alleged to have been lost shall be found again.
 

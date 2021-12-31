@@ -1,5 +1,5 @@
 # 77. Crossing by drawer or after issue
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 (1) A cheque may be crossed generally or specially by the drawer.
 
@@ -7,7 +7,7 @@ Part: PART III CHEQUES DRAWN ON BANKER
 
 (3) Where a cheque is crossed generally, the holder may cross it specially.
 
-(4) Where a cheque is crossed generally or specially, the holder may add the words ‘‘not negotiable’’.
+(4) Where a cheque is crossed generally or specially, the holder may add the words “not negotiable”.
 
 (5) Where a cheque is crossed specially, the banker to whom it is crossed may again cross it specially to another banker for collection.
 

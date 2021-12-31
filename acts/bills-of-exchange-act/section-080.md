@@ -1,6 +1,4 @@
 # 80. Protection to banker and drawer where cheque is crossed
-Part: PART III CHEQUES DRAWN ON BANKER
+Part: PART 3 CHEQUES DRAWN ON BANKER
 
 Where the banker, on whom a crossed cheque (including a cheque which under section 82 or otherwise is not transferable) is drawn, in good faith and without negligence pays it, if crossed generally, to a banker, and if crossed specially, to the banker to whom it is crossed, or his agent for collection, being a banker, the banker paying the cheque, and, if the cheque has come into the hands of the payee, the drawer, shall respectively be entitled to the same rights and be placed in the same position as if payment of the cheque had been made to the true owner thereof.
-
-[34/92]

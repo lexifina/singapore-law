@@ -1,5 +1,5 @@
 # 31. Negotiation of bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill is negotiated when it is transferred from one person to another in such a manner as to constitute the transferee the holder of the bill.
 

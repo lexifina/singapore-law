@@ -1,5 +1,5 @@
 # 41. Rules as to presentment for acceptance and excuses for non-presentment
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill is duly presented for acceptance which is presented in accordance with the following rules:
 

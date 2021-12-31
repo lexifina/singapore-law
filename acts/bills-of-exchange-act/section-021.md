@@ -1,5 +1,5 @@
 # 21. Delivery Capacity and authority of parties
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Every contract on a bill, whether it be the drawer’s, the acceptor’s, or an indorser’s, is incomplete and revocable, until delivery of the instrument in order to give effect thereto.
 

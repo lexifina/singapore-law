@@ -1,5 +1,5 @@
 # 27. Value and holder for value
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Valuable consideration for a bill may be constituted by —
 

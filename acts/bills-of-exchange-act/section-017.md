@@ -1,5 +1,5 @@
 # 17. Definition and requisites of acceptance
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) The acceptance of a bill is the signification by the drawee of his assent to the order of the drawer.
 

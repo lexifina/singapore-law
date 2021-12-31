@@ -1,5 +1,5 @@
 # 29. Holder in due course
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A holder in due course is a holder who has taken a bill, complete and regular on the face of it, under the following conditions:
 

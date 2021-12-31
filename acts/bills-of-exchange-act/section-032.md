@@ -1,9 +1,9 @@
 # 32. Requisites of a valid indorsement
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 An indorsement in order to operate as a negotiation must comply with the following conditions:
 
-(a) it must be written on the bill itself and be signed by the indorser; the simple signature of the indorser on the bill, without additional words, is sufficient; an indorsement written on an allonge, or on a ‘‘copy’’ of a bill issued or negotiated in a country where ‘‘copies’’ are recognised, is deemed to be written on the bill itself;
+(a) it must be written on the bill itself and be signed by the indorser; the simple signature of the indorser on the bill, without additional words, is sufficient; an indorsement written on an allonge, or on a “copy” of a bill issued or negotiated in a country where “copies” are recognised, is deemed to be written on the bill itself;
 
 (b) it must be an indorsement of the entire bill; a partial indorsement, that is to say, an indorsement which purports to transfer to the indorsee a part only of the amount payable, or which purports to transfer the bill to 2 or more indorsees severally, does not operate as a negotiation of the bill;
 

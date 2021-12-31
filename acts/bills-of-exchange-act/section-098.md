@@ -1,5 +1,5 @@
-# 98. Application of Part II to notes
-Part: PART IV PROMISSORY NOTES
+# 98. Application of Part 2 to notes
+Part: PART 4 PROMISSORY NOTES
 
 (1) Subject to the provisions in this Part, and except as by this section provided, the provisions of this Act relating to bills of exchange apply, with the necessary modifications, to promissory notes.
 
@@ -16,7 +16,3 @@ Part: PART IV PROMISSORY NOTES
 (d) bills in a set.
 
 (4) Where a foreign note is dishonoured, protest thereof is unnecessary.
-
-[94
-
-[Cf. UK BEA, 1882 s. 89]

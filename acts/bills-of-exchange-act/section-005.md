@@ -1,5 +1,5 @@
 # 5. Effect where different parties to bill are the same person
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill may be drawn payable to, or to the order of, the drawer; or it may be drawn payable to, or to the order of, the drawee.
 

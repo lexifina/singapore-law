@@ -1,5 +1,5 @@
 # 45. Rules as to presentment for payment
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Subject to the provisions of this Act, a bill must be duly presented for payment.
 

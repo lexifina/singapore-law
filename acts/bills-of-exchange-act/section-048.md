@@ -1,5 +1,5 @@
 # 48. Notice of dishonour and effect of non-notice
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Subject to the provisions of this Act, when a bill has been dishonoured by non-acceptance or by non-payment, notice of dishonour must be given to the drawer and each indorser, and any drawer or indorser to whom such notice is not given is discharged.
 

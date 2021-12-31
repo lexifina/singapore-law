@@ -1,5 +1,5 @@
 # 39. When presentment for acceptance is necessary
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill is payable after sight, presentment for acceptance is necessary in order to fix the maturity of the instrument.
 

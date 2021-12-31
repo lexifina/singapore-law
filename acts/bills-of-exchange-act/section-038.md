@@ -1,5 +1,5 @@
 # 38. Rights of holder General duties of holder
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) The rights and powers of the holder of a bill are as follows:
 

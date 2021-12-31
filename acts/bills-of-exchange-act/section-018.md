@@ -1,5 +1,5 @@
 # 18. Time for acceptance
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill may be accepted —
 
@@ -9,4 +9,4 @@ Part: PART II BILLS OF EXCHANGE Form and interpretation
 
 Date of acceptance after previous dishonour
 
-(2) When a bill payable after sight is dishonoured by non- acceptance, and the drawee subsequently accepts it, the holder, in the absence of any different agreement, is entitled to have the bill accepted as of the date of first presentment to the drawee for acceptance.
+(2) When a bill payable after sight is dishonoured by non-acceptance, and the drawee subsequently accepts it, the holder, in the absence of any different agreement, is entitled to have the bill accepted as of the date of first presentment to the drawee for acceptance.

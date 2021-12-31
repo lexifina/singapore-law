@@ -1,5 +1,5 @@
 # 92. Promissory note defined
-Part: PART IV PROMISSORY NOTES
+Part: PART 4 PROMISSORY NOTES
 
 (1) A promissory note is an unconditional promise in writing made by one person to another signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money, to, or to the order of, a specified person or to bearer.
 
@@ -8,7 +8,3 @@ Part: PART IV PROMISSORY NOTES
 (3) A note is not invalid by reason only that it contains also a pledge of collateral security with authority to sell or dispose thereof.
 
 (4) A note which is, or on the face of it purports to be, both made and payable within Singapore is an inland note. Any other note is a foreign note.
-
-[88
-
-[Cf. UK BEA, 1882 s. 83]

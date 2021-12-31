@@ -1,5 +1,5 @@
 # 57. Measure of damages against parties to dishonoured bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 Where a bill is dishonoured, the measure of damages, which shall be deemed to be a liquidated amount, shall be as follows:
 

@@ -1,5 +1,5 @@
 # 30. Presumption of value and good faith Negotiation of bills
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Every party whose signature appears on a bill is prima facie deemed to have become a party thereto for value.
 

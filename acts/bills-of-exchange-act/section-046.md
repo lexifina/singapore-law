@@ -1,5 +1,5 @@
 # 46. Excuses for delay or non-presentment for payment
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Delay in making presentment for payment is excused when the delay is caused by circumstances beyond the control of the holder, and not imputable to his default, misconduct, or negligence.
 

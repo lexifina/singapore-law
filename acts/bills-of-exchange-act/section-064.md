@@ -1,5 +1,5 @@
 # 64. Alteration of bill Acceptance and payment for honour
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill or acceptance is materially altered without the assent of all parties liable on the bill, the bill is avoided except as against a party who has himself made, authorised or assented to the alteration, and subsequent indorsers.
 

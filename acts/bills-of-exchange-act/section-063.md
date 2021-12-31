@@ -1,5 +1,5 @@
 # 63. Cancellation
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill is intentionally cancelled by the holder or his agent, and the cancellation is apparent thereon, the bill is discharged.
 

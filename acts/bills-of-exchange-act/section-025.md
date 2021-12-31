@@ -1,4 +1,4 @@
 # 25. Procuration signatures
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 A signature by procuration operates as notice that the agent has but a limited authority to sign, and the principal is only bound by such signature if the agent in so signing was acting within the actual limits of his authority.

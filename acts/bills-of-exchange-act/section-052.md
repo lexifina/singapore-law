@@ -1,5 +1,5 @@
 # 52. Duties of holder as regards drawee or acceptor Liabilities of parties
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) When a bill is accepted generally, presentment for payment is not necessary in order to render the acceptor liable.
 

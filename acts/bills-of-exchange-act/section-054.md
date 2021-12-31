@@ -1,5 +1,5 @@
 # 54. Liability of acceptor
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 The acceptor of a bill, by accepting it —
 

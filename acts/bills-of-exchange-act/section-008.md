@@ -1,5 +1,5 @@
 # 8. What bills are negotiable
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) When a bill contains words prohibiting transfer, or indicating an intention that it should not be transferable, it is valid as between the parties thereto, but is not negotiable.
 

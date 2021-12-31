@@ -1,5 +1,5 @@
 # 11. Bill payable at future time
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill is payable at a determinable future time within the meaning of this Act which is expressed to be payable —
 

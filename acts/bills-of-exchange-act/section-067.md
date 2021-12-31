@@ -1,5 +1,5 @@
 # 67. Presentment to acceptor for honour
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a dishonoured bill has been accepted for honour supra protest, or contains a reference in case of need, it must be protested for non-payment before it is presented for payment to the acceptor for honour, or referee in case of need.
 

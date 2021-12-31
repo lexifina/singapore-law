@@ -1,5 +1,5 @@
 # 28. Accommodation party to bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) An accommodation party to a bill is a person who has signed a bill as drawer, acceptor, or indorser, without receiving value therefor, and for the purpose of lending his name to some other person.
 

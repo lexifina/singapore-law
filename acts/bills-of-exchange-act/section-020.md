@@ -1,5 +1,5 @@
 # 20. Inchoate instruments
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a simple signature on a blank stamped paper is delivered by the signer in order that it may be converted into a bill, it operates as prima facie authority to fill it up as a complete bill for any amount the stamp will cover, using the signature for that of the drawer, or the acceptor, or an indorser; and, in like manner, when a bill is wanting in any material particular, the person in possession of it has a prima facie authority to fill up the omission in any way he thinks fit.
 

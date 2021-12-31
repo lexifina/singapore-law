@@ -1,7 +1,7 @@
 # 58. Transferor by delivery and transferee Discharge of bill
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
-(1) Where the holder of a bill payable to bearer negotiates it by delivery without indorsing it, he is called a ‘‘transferor by delivery’’.
+(1) Where the holder of a bill payable to bearer negotiates it by delivery without indorsing it, he is called a “transferor by delivery”.
 
 (2) A transferor by delivery is not liable on the instrument.
 

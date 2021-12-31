@@ -1,5 +1,5 @@
 # 19. General and qualified acceptances
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) An acceptance is either general or qualified.
 

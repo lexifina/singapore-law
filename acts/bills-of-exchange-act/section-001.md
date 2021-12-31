@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Bills of Exchange Act.
+This Act is the Bills of Exchange Act 1949.

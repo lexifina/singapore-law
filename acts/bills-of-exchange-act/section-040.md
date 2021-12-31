@@ -1,5 +1,5 @@
 # 40. Time for presenting bill payable after sight
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Subject to the provisions of this Act, when a bill payable after sight is negotiated, the holder must either present it for acceptance or negotiate it within a reasonable time.
 

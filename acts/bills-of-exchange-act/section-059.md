@@ -1,9 +1,9 @@
 # 59. Payment in due course
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) A bill is discharged by payment in due course by or on behalf of the drawee or acceptor.
 
-(2) In subsection (1), ‘‘payment in due course’’ means payment made at or after the maturity of the bill to the holder thereof in good faith and without notice that his title to the bill is defective.
+(2) In subsection (1), “payment in due course” means payment made at or after the maturity of the bill to the holder thereof in good faith and without notice that his title to the bill is defective.
 
 (3) Subject to the provisions of this Act, when a bill is paid by the drawer or an indorser it is not discharged.
 

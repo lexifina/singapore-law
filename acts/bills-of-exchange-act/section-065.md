@@ -1,5 +1,5 @@
 # 65. Acceptance for honour supra protest
-Part: PART II BILLS OF EXCHANGE Form and interpretation
+Part: PART 2 BILLS OF EXCHANGE Form and interpretation
 
 (1) Where a bill of exchange has been protested for dishonour by non-acceptance, or protested for better security, and is not overdue, any person, not being a party already liable thereon, may, with the consent of the holder, intervene and accept the bill supra protest, for the honour of any party liable thereon, or for the honour of the person for whose account the bill is drawn.
 
