@@ -1,8 +1,6 @@
-# 26. Sanction of Public Prosecutor
-Part: PART IV MISCELLANEOUS
+# 26. Consent of Public Prosecutor
+Part: PART 4 MISCELLANEOUS
 
-No prosecution for any offence under this Act shall be instituted without the sanction of the Public Prosecutor.
+No prosecution for any offence under this Act may be instituted without the consent of the Public Prosecutor.
 
-[33
-
-[47/98]
+[15/2010]

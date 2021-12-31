@@ -1,16 +1,14 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 In this Act, unless the context otherwise requires —
 
-‘‘Authority’’ means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act 1970;
 
-‘‘currency’’ means currency notes and coins which are legal tender in Singapore;
+“currency” means currency notes and coins which are legal tender in Singapore;
 
-‘‘foreign’’ means pertaining to a country other than Singapore;
+“intelligent banknote neutralisation system” or “IBNS” means a security system which is designed to deter unauthorised access to currency notes by mutilating, destroying or permanently damaging the currency notes, such as by the application of a staining or degradation agent to the currency notes or otherwise;
 
-‘‘foreign exchange’’ means foreign currencies and claims in and to foreign currencies;
+“issue” includes reissue.
 
-‘‘issue’’ includes reissue.
-
-[11/82; 25/2002]
+[31/2017; 6/2019]

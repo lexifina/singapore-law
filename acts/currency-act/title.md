@@ -1,36 +1,19 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-CURRENCY ACT
-(CHAPTER 69)
-Act
-5 of 1967
-Amended by
-35 of 1967
-3 of 1968
-2 of 1969
-1970 Ed. Cap. 64 1992 Ed. Cap. 69
-Amended by Amended by
-35 of 1973 33 of 1995
-11 of 1982
-1998 Ed. Cap. 69
-1985 Ed. Cap. 69
-Amended by
-Amended by 47 of 1998
-3 of 1991
-1999 Ed. Cap. 69
-11 of 1991
-Amended by
-25 of 2002
-REVISED EDITION 2002
-(31st December 2002)
+CURRENCY ACT 1967
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to establish the national currency of Singapore, and to provide for matters connected therewith.
 
-[7th April 1967]
+[7 April 1967: Parts I and II; sections 19 and 22;
+
+Part IV; and section 32;
+
+12 June 1967: Sections 11 to 18, 20, 21, 23 to 27 and 33 to 35]

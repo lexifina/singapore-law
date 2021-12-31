@@ -1,28 +1,10 @@
-# 22. External assets of Currency Fund
-Part: PART III CURRENCY
+# 22. Authority’s assets must not be less than currency in circulation
+Part: PART 3 CURRENCY
 
-The external assets of the Currency Fund shall consist of all or any of the following and shall at all times be not less than 100% of the face value of the currency issued by the Authority:
+(1) The gross assets of the Authority must at all times be not less than 100% of the face value of the Authority’s currency in circulation.
 
-(a) gold and silver in any form;
+[31/2017]
 
-(b) foreign exchange in the form of —
+(2) If, at any time, the face value of the Authority’s currency in circulation exceeds the gross assets of the Authority, the amount of the deficiency is to be charged on and paid out of the Consolidated Fund.
 
-(i) demand or time deposits;
-
-(ii) bank balances and money at call;
-
-(iii) Treasury Bills;
-
-(iv) notes or coins;
-
-(c) securities of or guaranteed by foreign governments or international financial institutions;
-
-(d) equities;
-
-(e) corporate bonds;
-
-(f) currency and financial futures;
-
-(g) any other asset which the Authority, with the approval of the President, considers suitable for inclusion.
-
-[11/82; 3/91; 47/98; 25/2002]
+[31/2017]

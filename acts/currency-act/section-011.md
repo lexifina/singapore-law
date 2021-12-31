@@ -1,8 +1,6 @@
 # 11. Currency of Singapore
-Part: PART III CURRENCY
+Part: PART 3 CURRENCY
 
-(1) The unit of currency of Singapore shall be the Singapore dollar, which shall be divided into 100 cents.
+(1) The unit of currency of Singapore is the Singapore dollar, which is divided into 100 cents.
 
-(2) The abbreviated form of the Singapore dollar shall be ‘‘S$’’ or ‘‘SGD’’.
-
-[47/98]
+(2) The abbreviated form of the Singapore dollar is “S$” or “SGD”.
