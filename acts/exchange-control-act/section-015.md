@@ -1,7 +1,7 @@
 # 15. Duties of persons keeping registers
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
-Except with the permission of the Authority no person concerned with the keeping of any register in Singapore shall —
+Except with the permission of the Authority, no person concerned with the keeping of any register in Singapore shall —
 
 (a) enter in the register the name of any person in relation to any security unless there has been produced to him the prescribed evidence that the entry does not form part of a transaction which involves the doing of anything prohibited by this Act;
 

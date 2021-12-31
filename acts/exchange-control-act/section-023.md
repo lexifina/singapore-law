@@ -1,5 +1,5 @@
 # 23. Restrictions on import
-Part: PART V IMPORT AND EXPORT
+Part: PART 5 IMPORT AND EXPORT
 
 (1) Except with the permission of the Authority, no person shall import into Singapore —
 
@@ -9,4 +9,4 @@ Part: PART V IMPORT AND EXPORT
 
 (c) any certificate of title to any security, including any such certificate which has been cancelled, and any document certifying the destruction, loss or cancellation of any certificate of title to a security.
 
-(2) In this section and section 24, ‘‘note’’ includes part of a note, ‘‘security’’ includes a secondary security and ‘‘coupon’’ shall be construed in accordance with the meaning of ‘‘security’’.
+(2) In this section and section 24, “note” includes part of a note, “security” includes a secondary security and “coupon” shall be construed in accordance with the meaning of “security”.

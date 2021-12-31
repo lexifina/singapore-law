@@ -1,5 +1,5 @@
 # 5. Bailees of gold and foreign currency
-Part: PART II GOLD AND FOREIGN CURRENCY
+Part: PART 2 GOLD AND FOREIGN CURRENCY
 
 (1) Every person in Singapore by whom or to whose order (whether directly or indirectly) any gold or any specified currency in the form of notes is held in Singapore but who is not entitled to sell it or procure its sale shall notify the Authority in writing that he so holds that gold or currency.
 

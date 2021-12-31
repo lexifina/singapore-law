@@ -1,10 +1,10 @@
 # FIFTH SCHEDULE
 
-Section 36 (1)
+Section 36(1)
 
 ENFORCEMENT
 
-PART I
+PART 1
 
 General provisions as to evidence and information
 
@@ -20,13 +20,15 @@ General provisions as to evidence and information
 
 (4) Where a person is convicted of failing to give information or produce documents when required to do so under this paragraph, the court may make an order requiring the offender, within such period as may be specified in the order, to comply with the requirement to give the information or produce the documents.
 
-FIFTH SCHEDULE — continued
-
 2.—(1) If a Magistrate is satisfied by information on oath given by a person authorised by the Authority to act for the purposes of this paragraph either —
+
+FIFTH SCHEDULE — continued
 
 (a) that there is reasonable ground for suspecting that an offence under this Act has been or is being committed and that evidence of the commission of the offence is to be found at any premises specified in the information, or in any vehicle, vessel or aircraft so specified; or
 
-(b) that any documents which ought to have been produced under paragraph 1 and have not been produced are to be found at any such premises or in any such vehicle, vessel or aircraft, he may grant a search warrant authorising any police officer, together with any other persons named in the warrant and any other police officers, to enter the premises specified in the information or, as the case may be, any premises upon which the vehicle, vessel or aircraft so specified may be, at any time within one month from the date of the warrant, and to search the premises, or, as the case may be, the vehicle, vessel or aircraft.
+(b) that any documents which ought to have been produced under paragraph 1 and have not been produced are to be found at any such premises or in any such vehicle, vessel or aircraft,
+
+he may grant a search warrant authorising any police officer, together with any other persons named in the warrant and any other police officers, to enter the premises specified in the information or, as the case may be, any premises upon which the vehicle, vessel or aircraft so specified may be, at any time within one month from the date of the warrant, and to search the premises, or, as the case may be, the vehicle, vessel or aircraft.
 
 (2) A person authorised by any such warrant as aforesaid to search any premises or any vehicle, vessel or aircraft, may search every person who is found in, or whom he has reasonable ground to believe to have recently left or to be about to enter, those premises or that vehicle, vessel or aircraft, as the case may be, and may seize any article found in the premises or in the vehicle, vessel or aircraft which he has reasonable ground for believing to be evidence of the commission of any offence under this Act or any documents which he has reasonable ground for believing ought to have been produced under paragraph 1.
 
@@ -38,9 +40,9 @@ FIFTH SCHEDULE — continued
 
 (2) For the purposes of this paragraph, any person to whom any powers of the Authority are delegated or on whom any functions are conferred by or by virtue of this Act, including any police officer, shall be deemed to be an executive authority.
 
-(3) For the purposes of this paragraph, any proceedings shall be deemed not to have been finally determined so long as there is pending any appeal in the matter of the proceedings, and an appeal in that matter shall be deemed to be pending FIFTH SCHEDULE — continued
+FIFTH SCHEDULE — continued
 
-during the ordinary time within which such an appeal may be lodged, and, if such an appeal is duly lodged, the appeal shall be deemed to be pending until it is decided or withdrawn.
+(3) For the purposes of this paragraph, any proceedings shall be deemed not to have been finally determined so long as there is pending any appeal in the matter of the proceedings, and an appeal in that matter shall be deemed to be pending during the ordinary time within which such an appeal may be lodged, and, if such an appeal is duly lodged, the appeal shall be deemed to be pending until it is decided or withdrawn.
 
 (4) The powers conferred by this paragraph in relation to any article shall be in addition to, and not in derogation of, any powers otherwise exercisable in relation thereto.
 
@@ -62,31 +64,31 @@ during the ordinary time within which such an appeal may be lodged, and, if such
 
 (3) Any financial institution to whom a requirement has been made under sub-paragraph (2) shall comply therewith within such time as may be specified in the requirement or if no time is specified without unnecessary delay.
 
-PART II
+FIFTH SCHEDULE — continued
+
+PART 2
 
 General provisions as to offences
 
-1.—(1) Any person in or resident in Singapore who contravenes or fails to comply with any restriction or requirement imposed under this Act or any rules, orders or regulations made thereunder and any such person who conspires or FIFTH SCHEDULE — continued
+1.—(1) Any person in or resident in Singapore who contravenes or fails to comply with any restriction or requirement imposed under this Act or any rules, orders or regulations made thereunder and any such person who conspires or attempts, or aids, abets, counsels or procures any other person, to contravene or fail to comply with any such restriction or requirement, shall be guilty of an offence punishable under this Part.
 
-attempts, or aids, abets, counsels or procures any other person, to contravene or fail to comply with any such restriction or requirement, shall be guilty of an offence punishable under this Part.
-
-(2) An offence punishable by virtue of Part III of this Schedule shall not be punishable under this Part.
+(2) An offence punishable by virtue of Part 3 of this Schedule shall not be punishable under this Part.
 
 (3) Any person who commits an offence punishable under this Part shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both, and where the offence is concerned with any currency, any security, any gold, any goods or any other property, the court may, if it thinks fit to do so, order the currency, security, gold, goods or property to be forfeited.
 
-(4) Notwithstanding anything in the Criminal Procedure Code (Cap. 68), a District Court shall have power to award the full penalties prescribed for any offence or any abetment of or attempt or conspiracy to commit an offence punishable under this Part.
+(4) Notwithstanding anything in the Criminal Procedure Code 2010, a District Court shall have power to award the full penalties prescribed for any offence or any abetment of or attempt or conspiracy to commit an offence punishable under this Part.
 
-(5) Notwithstanding sub-paragraph (3), where any person is convicted of an offence in relation to any currency, any security, any payment, any gold, any goods or any other property, and that offence does not consist only of a failure to give information or produce books, accounts or other documents with respect thereto when required to do so under Part I of this Schedule the maximum fine which may be imposed shall be such fine as is authorised by sub-paragraph (3) or a fine equal to 3 times the value of the currency, security, payment, gold, goods or property.
+(5) Notwithstanding sub-paragraph (3), where any person is convicted of an offence in relation to any currency, any security, any payment, any gold, any goods or any other property, and that offence does not consist only of a failure to give information or produce books, accounts or other documents with respect thereto when required to do so under Part 1 of this Schedule, the maximum fine which may be imposed shall be such fine as is authorised by sub-paragraph (3) or a fine equal to 3 times the value of the currency, security, payment, gold, goods or property.
 
 2.—(1) When any article has been seized under the provisions of this Act, the Authority shall, within a period of one month from the date of the seizure, unless a prosecution has before the expiry of that period been commenced and is pending against any person for an offence in respect of the article so seized, report the fact of the seizure to a District Court which may, if satisfied that an offence has been committed in respect of the article, order it to be forfeited.
 
 (2) No order shall be made under this paragraph to the prejudice of any person claiming to be the owner of, or to have an interest in, the article, unless that person has had an opportunity of being heard, either personally or by an advocate, by the Court, to show cause why an order should not be made.
 
-3.—(1) The Authority or any person authorised by it in writing in that behalf may compound any offence punishable under this Part or by virtue of Part III of this Schedule by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+FIFTH SCHEDULE — continued
+
+3.—(1) The Authority or any person authorised by it in writing in that behalf may compound any offence punishable under this Part or by virtue of Part 3 of this Schedule by accepting from the person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
 
 (2) On payment of that money the person reasonably suspected of having committed an offence shall, if in custody, be discharged; any currency, security, gold, goods or other property seized shall be released and no further proceedings shall be taken against that person or property.
-
-FIFTH SCHEDULE — continued
 
 4. For the purposes of any prosecution or of compounding any offence under this Act —
 
@@ -96,47 +98,47 @@ FIFTH SCHEDULE — continued
 
 5.—(1) No proceedings for an offence punishable under this Part shall be instituted, except with the consent of the Attorney-General or the Authority.
 
-(2) In any case to which paragraph 4 (a) applies, no proceedings shall be instituted against any principal or employer or person who at the time of the act or omission by an employee or agent was in charge of the business in respect of which the act or omission occurred, except with the consent of the Attorney-General.
+(2) In any case to which paragraph 4(a) applies, no proceedings shall be instituted against any principal or employer or person who at the time of the act or omission by an employee or agent was in charge of the business in respect of which the act or omission occurred, except with the consent of the Attorney-General.
 
 (3) This paragraph shall not prevent the issue or execution of a warrant for the arrest of any person in respect of such an offence, or the remanding in custody or on bail of any person charged with such an offence.
 
-PART III
+FIFTH SCHEDULE — continued
+
+PART 3
 
 Import and export
 
 1.—(1) Any person who, on any occasion, is about to leave any part of Singapore for any place outside Singapore or arrives in any part of Singapore from a place outside Singapore (which person is referred to in this paragraph as the traveller) shall, if on that occasion he is required to do so by an authorised officer —
 
-(a) declare whether or not he has with him anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority; and
-
-FIFTH SCHEDULE — continued
+(a) declare whether or not he has with him anything prohibited to be imported or exported by any of the provisions of Part 5 of this Act except with the permission of the Authority; and
 
 (b) produce any such thing which he has with him.
 
-(2) The authorised officer may examine or search any article which the traveller has with him for the purpose of ascertaining whether he is conveying or has in his possession any such thing, and, if the officer has reasonable grounds for suspecting that the traveller has about his person any such thing, search him, and may seize anything produced or found upon such examination or search as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority.
+(2) The authorised officer may examine or search any article which the traveller has with him for the purpose of ascertaining whether he is conveying or has in his possession any such thing, and, if the officer has reasonable grounds for suspecting that the traveller has about his person any such thing, search him, and may seize anything produced or found upon such examination or search as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part 5 of this Act, except with the permission of the Authority.
 
 (3) No woman shall be searched in pursuance of this paragraph except by a woman.
 
-2. Where any person arrives in any part of Singapore from any place outside Singapore or is about to leave any part of Singapore for any place outside Singapore in any vehicle, vessel or aircraft an authorised officer accompanied by any person working under his direction may —
+2. Where any person arrives in any part of Singapore from any place outside Singapore or is about to leave any part of Singapore for any place outside Singapore in any vehicle, vessel or aircraft, an authorised officer accompanied by any person working under his direction may —
 
 (a) board the vehicle, vessel or aircraft for the purpose of exercising the powers conferred on him by paragraph 1;
 
-(b) examine or search the vehicle, vessel or aircraft for the purpose of ascertaining whether there is on board the vehicle, vessel or aircraft anything prohibited to be imported or exported by any of the provisions of Part V of this Act, except with the permission of the Authority; and
+(b) examine or search the vehicle, vessel or aircraft for the purpose of ascertaining whether there is on board the vehicle, vessel or aircraft anything prohibited to be imported or exported by any of the provisions of Part 5 of this Act, except with the permission of the Authority; and
 
-(c) seize anything found upon such examination or search as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part V of this Act, except with the permission of the Authority.
-
-3.—(1) As respects any goods consigned from any part of Singapore to any place outside Singapore or to any part of Singapore from any place outside Singapore an authorised officer and any person working under his directions may —
-
-(a) examine or search the goods for the purpose of ascertaining whether the goods contain anything prohibited to be imported or exported by any of the provisions of Part V of this Act, except with the permission of the Authority; and
-
-(b) seize anything found upon such examination or search as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part V of this Act, except with the permission of the Authority.
-
-(2) An authorised officer and any person acting under his directions may go on board any vehicle, vessel or aircraft for the purpose of exercising the powers conferred on them by sub-paragraph (1) in relation to any goods on board the vehicle, vessel or aircraft.
+(c) seize anything found upon such examination or search as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part 5 of this Act, except with the permission of the Authority.
 
 FIFTH SCHEDULE — continued
 
-4.—(1) Where, at any place in Singapore, any person is on any occasion found in circumstances in which it is reasonable to suppose that on that occasion he has communicated, or intends to communicate, at that place with a person embarking thereat on a vehicle, vessel or aircraft for the purpose of leaving any part of Singapore for any place outside Singapore, or landing thereat from a vehicle, vessel or aircraft on coming to any part of Singapore from any place outside Singapore he shall if requested to do so by an authorised officer —
+3.—(1) As respects any goods consigned from any part of Singapore to any place outside Singapore or to any part of Singapore from any place outside Singapore, an authorised officer and any person working under his directions may —
 
-(a) declare whether he has with him anything prohibited to be imported or exported by any of the provisions of Part V of this Act; and
+(a) examine or search the goods for the purpose of ascertaining whether the goods contain anything prohibited to be imported or exported by any of the provisions of Part 5 of this Act, except with the permission of the Authority; and
+
+(b) seize anything found upon such examination or search as to which the officer has reasonable ground for suspecting that it is prohibited to be imported or exported by any of the provisions of Part 5 of this Act, except with the permission of the Authority.
+
+(2) An authorised officer and any person acting under his directions may go on board any vehicle, vessel or aircraft for the purpose of exercising the powers conferred on them by sub-paragraph (1) in relation to any goods on board the vehicle, vessel or aircraft.
+
+4.—(1) Where, at any place in Singapore, any person is on any occasion found in circumstances in which it is reasonable to suppose that on that occasion he has communicated, or intends to communicate, at that place with a person embarking thereat on a vehicle, vessel or aircraft for the purpose of leaving any part of Singapore for any place outside Singapore, or landing thereat from a vehicle, vessel or aircraft on coming to any part of Singapore from any place outside Singapore, he shall if requested to do so by an authorised officer —
+
+(a) declare whether he has with him anything prohibited to be imported or exported by any of the provisions of Part 5 of this Act; and
 
 (b) if so, produce it for inspection and answer truthfully all questions which may be put to him in connection therewith.
 
@@ -144,20 +146,18 @@ FIFTH SCHEDULE — continued
 
 (3) An authorised officer may, in order to prevent the possibility of an offence being committed under this Act, detain anything so prohibited to be imported or exported which is in the possession of any such person, and, if he detains any such thing, shall give a receipt therefor to the person and shall return the thing to the person when he is satisfied that such possibility no longer exists.
 
-5.—(1) The Regulation of Imports and Exports Act (Cap. 272A), the Regulation of Imports and Exports Regulations (Cap. 272A, Rg 1), or any regulations in substitution therefor made under that Act, shall, subject to such modifications (if any) as may be prescribed to adapt that Act to this Act, apply in relation to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority as that Act applies in relation to goods prohibited to be imported or exported by or under that Act.
+5.—(1) The Regulation of Imports and Exports Act 1995, the Regulation of Imports and Exports Regulations, or any regulations in substitution therefor made under that Act, shall, subject to such modifications (if any) as may be prescribed to adapt that Act to this Act, apply in relation to anything prohibited to be imported FIFTH SCHEDULE — continued
 
-(2) Any reference in the Regulation of Imports and Exports Act to goods shall be construed as including a reference to anything prohibited to be imported or exported by any of the provisions of Part V of this Act except with the permission of the Authority.
+or exported by any of the provisions of Part 5 of this Act except with the permission of the Authority as that Act applies in relation to goods prohibited to be imported or exported by or under that Act.
 
-6. Any declaration required to be made or given under Part V of this Act shall, for the purposes of the Regulation of Imports and Exports Act, be deemed to be a declaration required to be made by virtue of that Act.
+(2) Any reference in the Regulation of Imports and Exports Act 1995 to goods shall be construed as including a reference to anything prohibited to be imported or exported by any of the provisions of Part 5 of this Act except with the permission of the Authority.
 
-7. If anything prohibited to be exported by any provision of Part V of this Act is exported in contravention thereof, or is brought to a quay, airport or other place, or water or air-borne, for the purpose of being so exported, the exporter or his agent shall be liable to the same penalty as that to which a person is liable for an offence to which the Regulation of Imports and Exports Regulations or any regulations in substitution therefor made under the Regulation of Imports and Exports Act, applies.
+6. Any declaration required to be made or given under Part 5 of this Act shall, for the purposes of the Regulation of Imports and Exports Act 1995, be deemed to be a declaration required to be made by virtue of that Act.
 
-FIFTH SCHEDULE — continued
+7. If anything prohibited to be exported by any provision of Part 5 of this Act is exported in contravention thereof, or is brought to a quay, airport or other place, or water or air borne, for the purpose of being so exported, the exporter or his agent shall be liable to the same penalty as that to which a person is liable for an offence to which the Regulation of Imports and Exports Regulations, or any regulations in substitution therefor made under the Regulation of Imports and Exports Act 1995, apply.
 
-8. An authorised officer may examine any postal article within the meaning of the Postal Services Act 1999 (Act 42 of 1999), addressed to any person in or outside Singapore for the purpose of securing compliance with or detecting evasion of this Act.
+8. An authorised officer may examine any postal article within the meaning of the Postal Services Act 1999, addressed to any person in or outside Singapore for the purpose of securing compliance with or detecting evasion of this Act.
 
-9. Paragraphs 3, 4 and 5 of Part II shall apply also to offences punishable by virtue of this Part.
+9. Paragraphs 3, 4 and 5 of Part 2 shall apply also to offences punishable by virtue of this Part.
 
-10. In this Part, ‘‘authorised officer’’ means any officer of customs as defined in the Customs Act (Cap. 70), any police officer as defined in the Police Force Act (Cap. 235), and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.
-
-[24/95; 42/99]
+10. In this Part, “authorised officer” means any officer of customs as defined in the Customs Act 1960, any police officer as defined in the Police Force Act 2004, and any officer or person authorised by the Authority to exercise the powers and perform the duties of an authorised officer under this Part.

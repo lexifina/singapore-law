@@ -1,5 +1,5 @@
 # 14. Payment of capital moneys outside Singapore
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 Except with the permission of the Authority —
 

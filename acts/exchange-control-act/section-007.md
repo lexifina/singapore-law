@@ -1,5 +1,5 @@
 # 7. Payments in Singapore
-Part: PART III PAYMENTS
+Part: PART 3 PAYMENTS
 
 (1) Except with the permission of the Authority, no person shall do any of the following things in Singapore:
 
@@ -9,4 +9,4 @@ Part: PART III PAYMENTS
 
 (c) place any sum to the credit of any person resident outside the scheduled territories.
 
-(2) Where a person resident outside the scheduled territories has paid a sum in or towards the satisfaction of a debt due from him, subsection (1) (c) shall not prohibit the acknowledgement or recording of the payment.
+(2) Where a person resident outside the scheduled territories has paid a sum in or towards the satisfaction of a debt due from him, subsection (1)(c) shall not prohibit the acknowledgement or recording of the payment.

@@ -1,5 +1,5 @@
 # 17. Deposit of certificates of title
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 (1) This section and section 18 shall apply to any security except —
 
@@ -33,8 +33,8 @@ Part: PART IV SECURITIES
 
 (11) In this section and section 18 —
 
-‘‘certificate of title’’ means a certificate of title to a security;
+“certificate of title” means a certificate of title to a security;
 
-‘‘coupon’’ means a coupon representing dividends or interest on a security;
+“coupon” means a coupon representing dividends or interest on a security;
 
-‘‘security’’ means a security to which those sections apply.
+“security” means a security to which those sections apply.

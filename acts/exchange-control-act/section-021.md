@@ -1,5 +1,5 @@
 # 21. Application of this Part to secondary securities
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 (1) This Part shall apply, with such modifications, if any, as may be prescribed, in relation to any such document as is mentioned in subsection (2), as if the document created, and were the certificate of title to, a security (referred to in this Act as a secondary security).
 

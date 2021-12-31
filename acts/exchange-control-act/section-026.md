@@ -1,5 +1,5 @@
 # 26. Duty to collect certain debts
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) Except with the permission of the Authority, no person resident in Singapore who has a right (whether present or future and whether vested or contingent) to receive any specified currency, or to receive from a person resident outside the scheduled territories a payment in sterling or local currency, shall in Singapore do, or refrain from doing, any act with intent to secure or shall do any act which involves, is in association with or is preparatory to any transaction securing —
 

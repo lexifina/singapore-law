@@ -1,27 +1,15 @@
-EXCHANGE CONTROL ACT
-(CHAPTER 99)
-M Ordinance
-57 of 1953
-Reprint
-7 of 1966
-1970 Ed. Cap. 245
-Amended by
-S 20/72
-S 69/72
-S 177/72
-S 114/76
-1985 Ed. Cap. 99
-15 of 1995
-24 of 1995
-7 of 1997
-42 of 1999
-REVISED EDITION 2000
-(1st July 2000)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE STATUTES OF THE REPUBLIC OF SINGAPORE
+EXCHANGE CONTROL ACT 1953
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
+Prepared and Published by
+THE LAW REVISION COMMISSION
+UNDER THE AUTHORITY OF
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to confer powers, and impose duties and restrictions, in relation to gold, currency, payments, securities, debts, and the import, export, transfer and settlement of property, and for purposes connected with those matters.
 
-[6th August 1964]
+[6 August 1964]

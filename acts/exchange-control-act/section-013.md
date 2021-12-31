@@ -1,5 +1,5 @@
 # 13. Substitution of securities and certificates outside Singapore
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 Except with the permission of the Authority —
 
@@ -13,4 +13,4 @@ Except with the permission of the Authority —
 
 (ii) that a certificate of title to any other security, is issued outside Singapore in substitution for or in addition to a certificate of title thereto which is in, or is or has been lost or destroyed in, Singapore; and
 
-(b) no person resident in the scheduled territories shall in Singapore do any act which involves, is in association with or is preparatory to any such transaction outside Singapore as is referred to in paragraph (a) (i) or (ii).
+(b) no person resident in the scheduled territories shall in Singapore do any act which involves, is in association with or is preparatory to any such transaction outside Singapore as is referred to in paragraph (a)(i) or (ii).

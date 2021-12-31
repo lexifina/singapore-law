@@ -1,5 +1,5 @@
 # 16. Additional provisions as to nominee holdings
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 (1) Where —
 
@@ -9,9 +9,7 @@ Part: PART IV SECURITIES
 
 (2) Except with the permission of the Authority, a person resident in Singapore for whom the holder of a security is a nominee shall not do any act whereby —
 
-(a) the holder, being a person resident outside the scheduled territories, holds the security otherwise than as his nominee;
-
-or
+(a) the holder, being a person resident outside the scheduled territories, holds the security otherwise than as his nominee; or
 
 (b) the holder, not being a person resident outside the scheduled territories, holds the security as nominee for a person resident outside the scheduled territories.
 

@@ -1,5 +1,5 @@
 # 3. Dealings in gold and foreign currency
-Part: PART II GOLD AND FOREIGN CURRENCY
+Part: PART 2 GOLD AND FOREIGN CURRENCY
 
 (1) Except with the permission of the Authority, no person, other than an authorised dealer, shall in Singapore buy or borrow any gold or foreign currency from, or sell or lend any gold or foreign currency to, any person other than an authorised dealer.
 

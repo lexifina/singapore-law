@@ -1,5 +1,5 @@
 # 12. Issue of bearer certificates and coupons
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 (1) Except with the permission of the Authority, no person shall in Singapore, issue any bearer certificate or coupon or so alter any document that it becomes a bearer certificate or coupon.
 

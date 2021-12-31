@@ -1,5 +1,5 @@
 # 32. Companies
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) Where there is served on any person in Singapore a notice in writing that the Authority wishes any such requirements as are hereinafter mentioned to be complied with by any such body corporate as is specified in the Second Schedule (referred to in this subsection as a foreign company), and that person can, by doing or refraining from doing any act —
 
@@ -35,4 +35,4 @@ Part: PART VI MISCELLANEOUS
 
 (9) For the purposes of this section and of the Second Schedule, persons resident in or outside the scheduled territories shall be deemed to control a body corporate notwithstanding that other persons are associated with them in the control thereof if they can together override those other persons.
 
-(10) In this section, ‘‘security’’ includes a secondary security.
+(10) In this section, “security” includes a secondary security.

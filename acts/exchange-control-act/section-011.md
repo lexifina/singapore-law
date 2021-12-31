@@ -1,5 +1,5 @@
 # 11. Transfer of securities and coupons
-Part: PART IV SECURITIES
+Part: PART 4 SECURITIES
 
 (1) Except with the permission of the Authority, a security registered in Singapore shall not be transferred, and a security not so registered shall not be transferred in Singapore, unless, in either case, the following requirements are fulfilled:
 
@@ -9,15 +9,13 @@ Part: PART IV SECURITIES
 
 (c) neither the transferee nor the person, if any, for whom he is to be a nominee is resident outside the scheduled territories;
 
-and
-
 (d) except where the security is registered in Singapore otherwise than in a subsidiary register, the Authority is satisfied that the requirements of paragraph (c) are fulfilled.
 
 (2) Notwithstanding subsection (1) —
 
-(a) neither the transferee nor his agent shall be deemed to have committed an offence by reason only that the requirements of subsection (1) (a) were not fulfilled unless the transferee or, as the case may be, his agent, knew or had reason to believe that those requirements were not fulfilled; and
+(a) neither the transferee nor his agent shall be deemed to have committed an offence by reason only that the requirements of subsection (1)(a) were not fulfilled unless the transferee or, as the case may be, his agent, knew or had reason to believe that those requirements were not fulfilled; and
 
-(b) neither the transferor nor his agent shall be deemed to have committed an offence by reason only that any of the requirements of subsection (1) (c) and (d) have not been fulfilled unless, in the case of a non-fulfilment of the requirements of subsection (1) (c), the transferor or, as the case may be, his agent, knew or had reason to believe that those requirements were not fulfilled.
+(b) neither the transferor nor his agent shall be deemed to have committed an offence by reason only that any of the requirements of subsection (1)(c) and (d) have not been fulfilled unless, in the case of a non-fulfilment of the requirements of subsection (1)(c), the transferor or, as the case may be, his agent, knew or had reason to believe that those requirements were not fulfilled.
 
 (3) Except with the permission of the Authority, a security not registered in Singapore shall not be transferred outside Singapore if either the transferor or the transferee, or the person, if any, for whom the transferor or transferee is or is to be a nominee, is resident in Singapore.
 

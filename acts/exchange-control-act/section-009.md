@@ -1,7 +1,7 @@
 # 9. Compensation deals
-Part: PART III PAYMENTS
+Part: PART 3 PAYMENTS
 
-(1) Except with the permission of the Authority no person shall in Singapore make any payment to or for the credit of a person resident in the scheduled territories, or do any act which involves, is in association with or is preparatory to the making of any such payment outside Singapore, as consideration for or in association with —
+(1) Except with the permission of the Authority, no person shall in Singapore make any payment to or for the credit of a person resident in the scheduled territories, or do any act which involves, is in association with or is preparatory to the making of any such payment outside Singapore, as consideration for or in association with —
 
 (a) the receipt by any person of a payment made outside the scheduled territories, or the acquisition by any person of property which is outside the scheduled territories; or
 

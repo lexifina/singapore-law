@@ -1,5 +1,5 @@
 # 29. Provisions supplemental to preceding provisions of this Part
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
 (1) Where under this Part the Authority has power to give directions that any right to receive any currency or payment in sterling or local currency or to enforce any security for the receipt thereof, any goods, or any other property shall be assigned to the Authority, the Authority shall also have power to direct that the right, goods or property shall vest in the Authority and it or they shall vest in the Authority accordingly free from any mortgage, pledge or charge, and the Authority may deal with it or them as the Authority thinks fit.
 

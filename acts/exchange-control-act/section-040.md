@@ -1,5 +1,5 @@
 # 40. Branches
-Part: PART VII SUPPLEMENTAL
+Part: PART 7 SUPPLEMENTAL
 
 (1) The Authority may by order or direction provide that, for such of the purposes of this Act as may be specified in the order or direction —
 
@@ -9,7 +9,7 @@ Part: PART VII SUPPLEMENTAL
 
 (c) any property held by or on behalf of the person carrying on the business shall be deemed to be held by such of the branches of the business as may be determined in accordance with the order or direction.
 
-(2) Any order or direction under subsection (1) (c) which makes, for any of the purposes of Part IV, such provision as is mentioned in subsection (1) (c) may contain provisions declaring the circumstances in which a branch is to be treated as nominee for any other branch.
+(2) Any order or direction under subsection (1)(c) which makes, for any of the purposes of Part 4, such provision as is mentioned in subsection (1)(c) may contain provisions declaring the circumstances in which a branch is to be treated as nominee for any other branch.
 
 (3) Any reference in subsection (1) or (unless the contrary intention appears) in any order or direction made thereunder to a branch of a business shall be deemed to include a reference to the head office of that business.
 

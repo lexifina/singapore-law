@@ -1,5 +1,5 @@
 # 4. Surrender of gold and foreign currency
-Part: PART II GOLD AND FOREIGN CURRENCY
+Part: PART 2 GOLD AND FOREIGN CURRENCY
 
 (1) Every person in Singapore who is entitled to sell, or to procure the sale of, any gold, or any foreign currency to which this section applies, and is not an authorised dealer, shall offer it, or cause it to be offered, for sale to an authorised dealer, unless the Authority consents to his retention and use thereof or he disposes thereof to any other person with the permission of the Authority.
 
@@ -9,7 +9,9 @@ Part: PART II GOLD AND FOREIGN CURRENCY
 
 (4) A person who acquires any gold or specified currency from an authorised dealer shall be treated for the purposes of this section as if —
 
-(a) the Authority had consented to the retention and use by him of that gold or currency (subject, however, to any conditions notified to him in accordance with section 3 (3)); and
+(a) the Authority had consented to the retention and use by him of that gold or currency (subject, however, to any conditions notified to him in accordance with section 3(3));
+
+and
 
 (b) any statement made by him in an application for that gold or currency as to the purpose for which he requires it had been made by him in an application for the Authority’s consent to his retention and use thereof.
 

@@ -1,5 +1,5 @@
 # 45. Regulations
-Part: PART VII SUPPLEMENTAL
+Part: PART 7 SUPPLEMENTAL
 
 (1) The Authority may make such regulations as may be necessary for the better carrying out or giving effect to the provisions of this Act.
 

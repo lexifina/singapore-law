@@ -1,5 +1,5 @@
 # 24. General restrictions on export
-Part: PART V IMPORT AND EXPORT
+Part: PART 5 IMPORT AND EXPORT
 
 Except with the permission of the Authority, no person shall export from Singapore —
 
