@@ -1,0 +1,3 @@
+# 3. Short title
+
+This Act may be cited as the Mercantile Law Amendment Act 1856.
