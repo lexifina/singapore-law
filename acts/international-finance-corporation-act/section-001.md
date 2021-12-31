@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the International Finance Corporation Act.
+This Act is the International Finance Corporation Act 1968.

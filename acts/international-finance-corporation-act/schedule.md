@@ -30,11 +30,11 @@ Section 5. Immunity of Archives
 
 The archives of the Corporation shall be inviolable.
 
+THE SCHEDULE — continued
+
 Section 6. Freedom of Assets from Restrictions
 
 To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of Article III, section 5, and the other provisions of this Agreement, all property and assets of the Corporation shall be free from restrictions, regulations, controls and moratoria of any nature.
-
-THE SCHEDULE — continued
 
 Section 7. Privilege for Communications
 
@@ -58,11 +58,11 @@ Section 9. Immunities from Taxation
 
 (c) No taxation of any kind shall be levied on any obligation or security issued by the Corporation (including any dividend or interest thereon) by whomsoever held —
 
+THE SCHEDULE — continued
+
 (i) which discriminates against such obligation or security solely because it is issued by the Corporation; or
 
 (ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Corporation.
-
-THE SCHEDULE — continued
 
 (d) No taxation of any kind shall be levied on any obligation or security guaranteed by the Corporation (including any dividend or interest thereon) by whomsoever held —
 
