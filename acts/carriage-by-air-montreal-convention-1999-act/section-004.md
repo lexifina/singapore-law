@@ -1,3 +1,5 @@
 # 4. State Parties to Convention
 
-For the purposes of this Act, a State Party to the Convention refers to any country that has ratified, accepted, approved or acceded to the Convention in accordance with Article 53 thereof, except that this Act shall apply to any such State Party to the Convention only in respect of such of its territorial units as it has, by a declaration made under Article 56 of the Convention, declared to be a territorial unit to which the Convention is to apply.
+(1) For the purposes of this Act, a State Party to the Convention refers to any country that has ratified, accepted, approved or acceded to the Convention in accordance with Article 53 of the Convention.
+
+(2) This Act applies to any such State Party to the Convention only in respect of such of its territorial units as it has, by a declaration made under Article 56 of the Convention, declared to be a territorial unit to which the Convention is to apply.
