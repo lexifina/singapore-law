@@ -1,11 +1,8 @@
 # 32. Evidence in relation to proceedings and orders in prescribed foreign country
-Part: PART III REQUESTS TO SINGAPORE Division 1 — Preliminary Provisions
-Division: Division 5 — Enforcement of Foreign Confiscation Order, etc.
-Heading: 2001 Ed. Criminal Matters CAP. 190A 3
+Part: PART 3 REQUESTS TO SINGAPORE Division 1 — Preliminary provisions
+Division: Division 5 — Enforcement of foreign confiscation order, etc.
 
-(1) For the purposes of sections 29 and 30 and the Schedule, a certificate purporting to be issued by or on behalf of the appropriate authority of a prescribed foreign country stating that —
-
-2001 Ed. Criminal Matters CAP. 190A 31
+(1) For the purposes of sections 29 and 30 and the Third Schedule, a certificate purporting to be issued by or on behalf of the appropriate authority of a prescribed foreign country stating that —
 
 (a) judicial proceedings have been instituted and have not been concluded, or that judicial proceedings are to be instituted, in that country;
 
@@ -19,16 +16,20 @@ Heading: 2001 Ed. Criminal Matters CAP. 190A 3
 
 (i) recovering, forfeiting or confiscating —
 
-(A) payments or other rewards received in connection with an offence against the law of that country that is a foreign offence, or the value of the payments or rewards; or
+(A) any payment or other reward received in connection with an offence against the law of that country, or the value of any such payment or reward; or
 
-(B) property derived or realised, directly or indirectly, from payments or other rewards received in connection with such an offence or the value of such property; or
+(B) any property derived or realised, directly or indirectly, from any payment or other reward mentioned in sub-paragraph (A), or the value of any such property; or
 
-(ii) forfeiting or destroying, or forfeiting or otherwise disposing of, any drug or other substance in respect of which an offence against the corresponding drug law of that country has been committed, or which was used in connection with the commission of such an offence, shall, in any proceedings in a court, be admissible as evidence of the facts so stated.
+(ii) forfeiting, and destroying or otherwise disposing of —
 
-(2) In any such proceedings, a statement contained in a duly authenticated document, which purports to have been received in evidence or to be a copy of a document so received, or to set out or summarise evidence given in proceedings in a court in a prescribed foreign country, shall be admissible as evidence of any fact stated therein.
+(A) any drug or other substance in respect of which an offence against the corresponding drug law of that country has been committed; or
 
-(3) A document is duly authenticated for the purposes of subsection (2) if it purports to be certified by any person in his 32 CAP. 190A Criminal Matters 2001 Ed.
+(B) any property which was used in connection with the commission of any offence against the law of that country, is, in any proceedings in a court, admissible as evidence of the facts so stated.
 
-capacity as a judge, magistrate or officer of the court in the prescribed foreign country, or by or on behalf of an appropriate authority of that country.
+[23/2014]
 
-(4) Nothing in this section shall prejudice the admissibility of any evidence, whether contained in any document or otherwise, which is admissible apart from this section.
+(2) In any such proceedings, a statement contained in a duly authenticated document, which purports to have been received in evidence or to be a copy of a document so received, or to set out or summarise evidence given in proceedings in a court in a prescribed foreign country, is admissible as evidence of any fact stated therein.
+
+(3) A document is duly authenticated for the purposes of subsection (2) if it purports to be certified by any person in his or her capacity as a judge, magistrate or officer of the court in the prescribed foreign country, or by or on behalf of an appropriate authority of that country.
+
+(4) Nothing in this section prejudices the admissibility of any evidence, whether contained in any document or otherwise, which is admissible apart from this section.

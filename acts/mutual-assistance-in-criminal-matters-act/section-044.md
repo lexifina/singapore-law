@@ -1,9 +1,9 @@
 # 44. Regulations
-Part: PART IV MISCELLANEOUS PROVISIONS
+Part: PART 4 MISCELLANEOUS PROVISIONS
 
-(1) The Minister may make such regulations as are necessary or expedient to give full effect to or for carrying out the provisions of this Act.
+(1) The Minister may make any regulations that are necessary or expedient to give full effect to or for carrying out the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made —
+(2) Without limiting subsection (1), regulations may be made —
 
 (a) to prescribe anything that is required or permitted to be prescribed under this Act; and
 

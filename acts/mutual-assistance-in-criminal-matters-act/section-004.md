@@ -1,5 +1,5 @@
 # 4. Act not to limit cooperation with international organisations, etc.
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) This Act does not prevent the provision or obtaining of international assistance in criminal matters to or from the International Criminal Police (Interpol) or any other international organisation.
 

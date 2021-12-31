@@ -1,6 +1,6 @@
-# 47. Amendment of Schedule
-Part: PART IV MISCELLANEOUS PROVISIONS
+# 47. Amendment of Schedules
+Part: PART 4 MISCELLANEOUS PROVISIONS
 
-The Minister may, by notification in the Gazette, amend the Schedule.
+The Minister may, by notification in the Gazette, amend all or any of the First, Second and Third Schedules.
 
-[46
+[23/2014]

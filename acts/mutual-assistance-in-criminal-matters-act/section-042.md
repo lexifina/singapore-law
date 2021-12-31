@@ -1,5 +1,5 @@
 # 42. Authentication of documents
-Part: PART IV MISCELLANEOUS PROVISIONS
+Part: PART 4 MISCELLANEOUS PROVISIONS
 
 (1) Subject to sections 13, 31 and 32 and the rules of law relating to the admissibility of evidence, any document that is obtained, provided, or produced pursuant to a request made under this Act and that is duly authenticated is admissible in evidence in any criminal proceedings.
 

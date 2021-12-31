@@ -1,5 +1,5 @@
 # 3. Object of Act
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 The object of this Act is to facilitate the provision and obtaining, by Singapore, of international assistance in criminal matters, including —
 
@@ -13,6 +13,8 @@ The object of this Act is to facilitate the provision and obtaining, by Singapor
 
 (e) the execution of requests for search and seizure;
 
-(f) the location and identification of witnesses and suspects; and
+(f) the location and identification of witnesses and suspects;
+
+and
 
 (g) the service of documents.
