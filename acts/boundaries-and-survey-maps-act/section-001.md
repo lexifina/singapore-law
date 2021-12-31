@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Boundaries and Survey Maps Act.
+This Act is the Boundaries and Survey Maps Act 1998.

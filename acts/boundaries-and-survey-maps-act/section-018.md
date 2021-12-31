@@ -1,8 +1,8 @@
-# 18. Fees to be paid to Authority
-Part: PART IV MISCELLANEOUS
+# 18. Map to be conclusive evidence
+Part: PART 4 SURVEY MAP
 
-All prescribed fees collected for the purposes of this Act shall
+(1) Every map published under the repealed Act is, until it has been declared to be superseded under section 7(f), conclusive evidence in all courts of the boundaries of the land comprised in every land shown in the map, subject only to any order made under section 17 for their modification, correction or alteration.
 
-be paid into the funds of the Authority.
+(2) Upon a declaration under section 7(f), every map generated from the coordinated cadastre is conclusive evidence in all courts of the boundaries of the land comprised in every land shown in the map, subject only to any order made under section 17 for their modification, correction or alteration.
 
-[17/2001]
+[13

@@ -1,40 +1,22 @@
-# 12. Correction of map
-Part: PART III SURVEY MAP
+# 12. Powers of entry for survey purposes
+Part: PART 3 CONDUCT OF CADASTRAL SURVEYS
 
-(1) All maps published under the repealed Act shall continue to be valid until they have been declared to be superseded under section 7 (f).
+(1) For the purposes of conducting any cadastral survey or installing any boundary mark or survey control mark under this Act or any other written law, the Chief Surveyor may authorise, either generally or specially and subject to any conditions that the Chief Surveyor may impose, any registered surveyor who has in force a practising certificate or any assistant employed by the registered surveyor —
 
-[37/2004]
+(a) to enter and re-enter any land, seabed, foreshore or building at any reasonable time during the hours of daylight, with such workmen, aircraft, boats, vehicles, appliances, machinery and equipment as may be reasonably necessary to conduct the survey or to install the boundary mark or survey control mark;
 
-(2) No map whether published under the repealed Act or generated from the co-ordinated cadastre shall be corrected, altered or added to in respect of any boundary of any land therein laid down, except in the following cases:
+(b) to emplace any boundary mark or survey control mark in or upon such lands and premises, and to dig up any ground for the purpose of emplacing the boundary mark or survey control mark; and
 
-(a) where it is found that a map does not correctly represent the boundaries of any land, the Chief Surveyor shall inquire into the reason for the difference and, if it is found to be due to inaccuracy in the survey caused by error in measuring the angles or the sides of the land or in plotting the survey or in the process of conversion and adjustment under section 7, he shall give notice to the owners of the land affected, or their agents if they are known and are in Singapore, of the error and require them to forward to the Chief Surveyor within one month their objections (if any) to its correction;
+(c) to cut down and remove any tree or other growth which may obstruct any survey line or any boundary.
 
-(b) where it appears that wrong boundary marks have been joined up in the survey and delineation of a boundary shown on a map, or where it appears that there has been a change in the position of a boundary from that which it held at the time of the survey or at the time when it was delineated on the map under paragraph (c), the Chief Surveyor shall, after one month’s notice to the owners of the land affected, or their agents if they are known and are in Singapore, of his intention, proceed to hold an inquiry, which may be held in part upon the land;
+(2) Before exercising any of the powers conferred by subsection (1) in respect of any land that is not a road, the person doing so must, where practicable, give reasonable notice to the occupier of the land of the intention to exercise those powers.
 
-(c) where in the case of the assignment or demise of any land comprised wholly or partly in any State title in parcels or otherwise than the entirety thereof, the parcels have been properly demarcated and surveyed to the satisfaction of the Chief Surveyor and the fees payable in respect of the demarcation and survey have been duly paid, the boundaries of the parcels or any subdivision thereof shall be delineated upon the representation of the land or parcel of the land on the map;
+(3) Any person exercising any power under subsection (1) must produce evidence of the person’s identity and authority to exercise those powers —
 
-(d) where any owners whose boundaries are conterminous agree to an alteration in their boundaries, the map may be altered by the order of the Chief Surveyor upon a deed or instrument being presented at the Registry of Deeds or the Land Titles Registry, as the case may be, of the Authority effectuating the alteration agreed to;
+(a) if practicable, on first entering the land or premises; and
 
-(e) where in any suit an order of the High Court has been made which affects the position of the boundaries of any land, the map may be altered upon an office copy of the order being served on the Chief Surveyor; and
+(b) whenever subsequently reasonably requested to do so.
 
-(f) where any land delineated on the map has been subdivided into parcels and the parcels have not been surveyed to the satisfaction of the Chief Surveyor, the Chief Surveyor may proceed to make a cadastral survey of them and shall proceed to fix and demarcate the boundary in the position which he considers to be the true position and shall make an order for the delineation upon the map of the boundary so fixed.
+(4) Nothing in this section exempts any registered surveyor or the registered surveyor’s assistant or workman from liability for any damage caused in the exercise of the powers conferred by subsection (1).
 
-[17/2001; 37/2004]
-
-(3) If no objection is lodged with the Chief Surveyor under subsection (2) (a) within one month from the service of the notice, the Chief Surveyor shall make an order for the correction to be made.
-
-(4) If any objection is lodged with the Chief Surveyor under subsection (2) (a), the Chief Surveyor shall hold an inquiry and make such order as he thinks fit.
-
-(5) If, after taking into consideration the evidence of the owners or their agents appearing at the inquiry under subsection (2) (b) and of such other persons who have knowledge of the subject, the Chief Surveyor is satisfied that the boundary as it appears from the then existing occupation of the land is the true boundary, the Chief Surveyor shall make an order for the correction of the map.
-
-(6) Where it is found that the boundaries of a Mukim or Town Sub-division shown on any map published under the repealed Act or generated from the co-ordinated cadastre should be altered by reason of —
-
-(a) any correction, addition or alteration of the boundaries of any land made in accordance with this section;
-
-(b) the change in, alteration or deviation of, any boundary mark of the Mukim or Town Sub-division boundaries; or
-
-(c) any reclamation of the foreshore or seabed, the Chief Surveyor may, after the publication of a notice in the Gazette describing the alteration of the boundaries of the Mukim or Town Sub-division, make an order for the delineation or alteration of the boundaries on the map.
-
-[37/2004]
-
-[BSMA 1985 Ed., s. 35]
+[11A

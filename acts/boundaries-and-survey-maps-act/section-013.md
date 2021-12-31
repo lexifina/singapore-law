@@ -1,12 +1,14 @@
-# 13. Map to be conclusive evidence
-Part: PART III SURVEY MAP
+# 13. Inspection of Authority’s survey maps, plans or survey records
+Part: PART 3 CONDUCT OF CADASTRAL SURVEYS
 
-(1) Every map published under the repealed Act shall, until it has been declared to be superseded under section 7 (f), be conclusive evidence in all courts of the boundaries of the land comprised in every land shown therein, subject only to any order made under section 12 for their modification, correction or alteration.
+(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation, partnership or limited liability partnership may, on payment to the Authority of the prescribed fee, at all reasonable times be permitted —
 
-[37/2004]
+(a) to inspect the relevant maps, plans or survey records lodged with the Authority; and
 
-(2) Upon a declaration under section 7 (f), every map generated from the co-ordinated cadastre shall be conclusive evidence in all courts of the boundaries of the land comprised in every land shown therein, subject only to any order made under section 12 for their modification, correction or alteration.
+(b) to take copies of such information from the maps, plans or survey records as he or she may require.
 
-[37/2004]
+[2/2007]
 
-[BSMA 1985 Ed., s. 38]
+(2) Any person referred to in subsection (1) must not remove any such maps, plans or survey records and shall be liable for any damage which the person may cause to them while they are under his or her control.
+
+[11B
