@@ -1,0 +1,4 @@
+# 33. [Spent]
+Part: PART 6 TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES
+
+[Omitted as spent]
