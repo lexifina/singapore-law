@@ -1,0 +1,12 @@
+# 9. Alteration of pipes, wires and drains
+Part: PART 2 CONSTRUCTION AND WORKS
+
+A railway administration may, for the purpose of exercising the powers conferred upon it by this Act, alter the position of any pipe for the supply of gas, water or compressed air, or the position of any electric wire or of any drain not being a main drain:
+
+Provided that —
+
+(a) when the railway administration desires to alter the position of any such pipe, wire or drain it shall give reasonable notice of its intention to do so and of the time at which it will begin to do so to the public authority or company having control over the pipe, wire or drain; or
+
+when the pipe, wire or drain is not under the control of a public authority or company to the person under whose control the pipe, wire or drain is;
+
+(b) a public authority, company or person receiving notice under paragraph (a) may send a person to superintend the work, and the railway administration shall execute the work to the reasonable satisfaction of the person so sent and shall make arrangements for continuing during the execution of the work the supply of gas, water, compressed air or electricity or the maintenance of the drainage, as the case may be.

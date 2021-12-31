@@ -1,0 +1,6 @@
+# 72. Remedy for non-payment of sum due for the carriage of goods
+Part: PART 9 MANAGEMENT
+
+(1) If any person fails to pay on demand any sum due to or recoverable by a railway administration in respect of any goods, whether the sum is due for conveyance, handling, storage, demurrage, wharfage and other port charges, or in repayment of any sum disbursed by a railway administration, or otherwise, the manager may detain all or any part of such goods, or if the goods have been removed from the premises appertaining to the railway, any other goods of that person which are then on the railway or thereafter come into the possession of the railway administration, and also after reasonable notice to that person may sell by public auction a sufficient quantity of the goods to realise the sum payable as aforesaid and all charges and expenses of such detention and sale; and out of the proceeds of the sale may retain the sum so payable together with the charges and expenses aforesaid rendering the surplus, if any, of the money arising by the sale and such of the goods as remain unsold to the person entitled thereto; or the manager may recover any such sum by action at law.
+
+(2) The goods of passengers may also be detained and sold and the proceeds disposed of as above provided for non-payment of the fare due by them.

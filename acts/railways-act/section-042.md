@@ -1,0 +1,4 @@
+# 42. Liability in respect of contracts to carry by river or sea and not by railway
+Part: PART 7 RESPONSIBILITY OF RAILWAY ADMINISTRATION AS CARRIERS
+
+When the railway administration contracts to carry by river or sea but not by railway any merchandise, machinery, bales, boxes, casks, crates or any other article or thing whatsoever for transhipment from a ship or boat to another ship or boat or to the shore or from the shore to any ship or boat, the railway administration shall not be liable for loss of or damage to any article or thing which in pursuance of such contract is in or upon any ship, boat, lighter or other vessel of or employed by the railway administration, whether the same is in motion or not, unless the loss or damage arises from or is caused by the wilful default of the railway administration or its employees.
