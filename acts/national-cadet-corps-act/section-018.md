@@ -2,7 +2,7 @@
 
 (1) The Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to carry out the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Council may make regulations relating to —
+(2) Without limiting subsection (1), the Council may make regulations relating to —
 
 (a) the organisation, control, administration and discipline of the Corps;
 
@@ -16,8 +16,6 @@
 
 (f) the award of decorations;
 
-(g) the award of compensation in respect of death or personal injury arising out of or in the execution of duty and which is solely due to and attributable to the discharge of such duty;
-
-and
+(g) the award of compensation in respect of death or personal injury arising out of or in the execution of duty and which is solely due to and attributable to the discharge of such duty; and
 
 (h) dress.

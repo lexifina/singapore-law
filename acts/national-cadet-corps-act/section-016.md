@@ -2,28 +2,30 @@
 
 (1) For the purposes of this section, “member” includes an honorary officer and an honorary instructor appointed under section 9.
 
-(2) Nothing done or omitted to be done by a member of the Corps while on duty as such shall subject either him or the Government to liability in tort for causing the death of another person, or for causing personal injury to another person, in so far as the death or personal injury is due to anything suffered by that other person while he is a member of the Corps if —
+(2) Nothing done or omitted to be done by a member of the Corps while on duty as such shall subject either the member or the Government to liability in tort for causing the death of another person, or for causing personal injury to another person, insofar as the death or personal injury is due to anything suffered by that other person while that other person is a member of the Corps if —
 
-(a) at the time when the thing is suffered by that other person, he is —
+(a) at the time when the thing is suffered by that other person, that other person is —
 
-(i) on duty as a member of the Corps: or
+(i) on duty as a member of the Corps; or
 
 (ii) though not on duty as a member of the Corps, on any land, premises, ship, aircraft or vehicle for the time being used for the purposes of the Corps; and
 
-(b) the Minister certifies that his suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to compensation under section 15, except that this subsection shall not exempt a member of the Corps from liability in tort in any case in which the court is satisfied that the act or omission was not connected with the execution of his duties as a member of the Corps.
+(b) the Minister certifies that that other person’s suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to compensation under section 15, except that this subsection does not exempt a member of the Corps from liability in tort in any case in which the court is satisfied that the act or omission was not connected with the execution of his or her duties as a member of the Corps.
 
 (3) No proceedings in tort shall lie against the Government for death or personal injury due to anything suffered by a member of the Corps if —
 
-(a) that thing is suffered by him in consequence of the nature or condition of any such land, premises, ship, aircraft or vehicle as is mentioned in subsection (2), or in consequence of the nature or condition of any equipment or supplies used for the purposes of the Corps; and
+(a) that thing is suffered by the member in consequence of the nature or condition of any such land, premises, ship, aircraft or vehicle as is mentioned in subsection (2)(a)(ii), or in consequence of the nature or condition of any equipment or supplies used for the purposes of the Corps;
 
-(b) the Minister certifies that his suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to compensation under section 15, nor shall any act or omission of an officer of the Government subject him to liability in tort for death or personal injury, in so far as the death or personal injury is due to anything suffered by a member of the Corps if —
+and
 
-(i) at the time when that thing is suffered by that other person, he is either on duty as a member of the Corps or is, though not on duty as such, on any land, premises, ship, aircraft or vehicle for the time being used for the purposes of the Corps; and
+(b) the Minister certifies that the member’s suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to compensation under section 15, nor shall any act or omission of an officer of the Government subject the officer to liability in tort for death or personal injury, insofar as the death or personal injury is due to anything suffered by a member of the Corps if —
 
-(ii) the Minister certifies that his suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to compensation under section 15.
+(c) at the time when that thing is suffered by that other person, that other person is either on duty as a member of the Corps or is, though not on duty as such, on any land, premises, ship, aircraft or vehicle for the time being used for the purposes of the Corps; and
+
+(d) the Minister certifies that that other person’s suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to compensation under section 15.
 
 (4) The Minister may, if satisfied that it is a fact —
 
 (a) that a person was or was not on any particular occasion on duty as a member of the Corps; or
 
-(b) that at any particular time any land, premises, ship, aircraft, vehicle, equipment or supplies was or was not, or were or were not, used for the purposes of the Corps, issue a certificate certifying that to be the fact; and any such certificate shall, for the purposes of this section, be conclusive as to the fact which it certifies.
+(b) that at any particular time any land, premises, ship, aircraft, vehicle, equipment or supplies was or was not, or were or were not, used for the purposes of the Corps, issue a certificate certifying that to be the fact; and any such certificate is, for the purposes of this section, conclusive as to the fact which it certifies.

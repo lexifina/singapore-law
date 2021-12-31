@@ -1,5 +1,13 @@
-# LEGISLATIVE HISTORY NATIONAL CADET CORPS ACT (CHAPTER 194)
+# LEGISLATIVE HISTORY NATIONAL CADET CORPS ACT 1972
 
-This Legislative History is provided for the convenience of users of the National Cadet Corps Act. It is not part of the Act.
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-1. Act 35 of 1972 — National Cadet Corps Act 1972 Date of First Reading : 2 June 1972 (Bill No. 24/72 published on 7 June 1972) Date of Second and Third Readings : 22 November 1972 Date of commencement : 1 April 1973 2. 1985 Revised Edition — National Cadet Corps Act (Chapter 194) Date of operation : 30 March 1987
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
+
+LEGISLATIVE HISTORY DETAILS PART 1 MALAYAN AIR TRAINING CORPS ACT (CHAPTER 231, 1970 REVISED EDITION) 1. Ordinance 24 of 1949 — Malayan Air Training Corps Ordinance, 1949 Bill : G.N. No. S 152/1949 First Reading : 12 April 1949 Second Reading : 17 May 1949 Notice of Amendments : 17 May 1949 Third Reading : 17 May 1949 Commencement : 14 July 1949 2. Ordinance 35 of 1950 — Malayan Air Training Corps (Amendment) Ordinance, 1950 Bill : G.N. No. S 339/1950 First Reading : 15 August 1950 Second and Third Readings : 19 September 1950 Commencement : 9 October 1950 3. 1955 Revised Edition — Malayan Air Training Corps Ordinance (Chapter 76) Operation : 1 July 1956 4. G.N. No. S 223/1959 — Singapore Constitution (Modification of Laws) Order, 1959 Commencement : 3 June 1959 5. 1970 Revised Edition — Malayan Air Training Corps Act (Chapter 231) Operation : 31 July 1971
+
+PART 2 SINGAPORE SEA CADET CORPS ACT (CHAPTER 236, 1970 REVISED EDITION) 6. Ordinance 3 of 1955 — Singapore Sea Cadet Corps Ordinance, 1955 Bill : G.N. No. S 17/1955 First, Second and Third : 28 January 1955 Readings Commencement : 4 February 1955 7. 1955 Revised Edition — Singapore Sea Cadet Corps Ordinance (Chapter 90) Operation : 1 July 1956 8. G.N. No. S (N.S.) 177/1959 — Singapore Constitution (Modification of Laws) (No. 3) Order, 1959 Commencement : 20 November 1959 9. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 10. 1970 Revised Edition — Singapore Sea Cadet Corps Act (Chapter 236) Operation : 31 July 1971 PART 3 NATIONAL CADET CORPS ACT 1972 (2020 REVISED EDITION) 11. Act 35 of 1972 — National Cadet Corps Act, 1972 Bill : 24/1972 First Reading : 2 June 1972 Second and Third Readings : 22 November 1972 Commencement : 1 April 1973 12. 1985 Revised Edition — National Cadet Corps Act (Chapter 194) Operation : 30 March 1987 13. 2014 Revised Edition — National Cadet Corps Act (Chapter 194) Operation : 28 February 2014
+
+Abbreviations
+
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

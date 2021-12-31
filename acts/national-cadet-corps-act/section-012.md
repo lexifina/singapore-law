@@ -2,6 +2,6 @@
 
 Any cadet who —
 
-(a) in such manner as to show wilful defiance of authority, disobeys any lawful command given to him or conveyed to him personally; or
+(a) in such manner as to show wilful defiance of authority, disobeys any lawful command given to the cadet or conveyed to the cadet personally; or
 
-(b) contravenes any order or regulation made under this Act, being an order or a regulation known to him or which he might reasonably be expected to know, shall be dealt with summarily by his commanding officer in the manner prescribed by regulations made under this Act.
+(b) contravenes any order or regulation made under this Act, being an order or a regulation known to the cadet or which the cadet might reasonably be expected to know, must be dealt with summarily by the cadet’s commanding officer in the manner prescribed by regulations made under this Act.
