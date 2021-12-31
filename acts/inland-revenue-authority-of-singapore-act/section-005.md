@@ -1,12 +1,10 @@
 # 5. Constitution of Authority
-Part: PART II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
+Part: PART 2 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-(1) The Authority shall consist of —
+(1) The Authority consists of —
 
-(a) a Chairman; and
+(a) a Chairperson; and
 
-(b) not less than 5 and not more than 10 other members as the Minister may, from time to time, determine.
+(b) not less than 5 and not more than 10 other members as the Minister may determine.
 
-[27/2004]
-
-(2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
+(2) The First Schedule has effect with respect to the Authority, its members and proceedings.

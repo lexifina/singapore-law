@@ -1,7 +1,7 @@
 # 13. Power to borrow
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) For the discharge of its functions or duties under this Act or any other written law, the Authority may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
+(1) For the discharge of its functions or duties under this Act or any other written law, the Authority may raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
 
 (a) mortgage, overdraft or other means, with or without security;
 
@@ -9,8 +9,4 @@ Part: PART V FINANCIAL PROVISIONS
 
 (c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
 
-[16/2005]
-
-(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services.
-
-[16/2005]
+(2) For the purposes of this section, the power to raise loans includes the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services.

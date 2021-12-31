@@ -1,16 +1,18 @@
-# 9. Appointment of chief executive officer and other employees
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 9. Chief executive officer, officers and employees, etc.
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-(1) The Authority shall, after consultation with the Public Service Commission, appoint a chief executive officer on such terms and conditions as the Authority may determine.
+(1) There must be a chief executive officer of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The chief executive officer shall —
+[5/2018]
 
-(a) be known as the Commissioner of Inland Revenue;
+(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(b) be responsible to the Authority for the proper administration and management of the functions and affairs of the Authority in accordance with the policy laid down by the Authority; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Authority to act in the place of the chief executive officer during any such period of absence from duty.
+[5/2018]
 
-(4) The Authority may from time to time appoint such other employees, consultants and agents as it thinks fit for the effective performance of its functions on such terms and conditions as the Authority may determine.
+(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[5/2018]

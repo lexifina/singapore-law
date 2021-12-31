@@ -1,7 +1,7 @@
 # 12. Funds of Authority
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds of the Authority shall consist of —
+The funds of the Authority consist of —
 
 (a) all moneys received by the Authority for services rendered by the Authority to the Government as its agent or for services rendered by the Authority to any person;
 
