@@ -1,0 +1,4 @@
+# 13. Saving for common law powers of agent
+Heading: Preliminary
+
+The provisions of this Act shall be construed in amplification and not in derogation of the powers exercisable by an agent independently of this Act.

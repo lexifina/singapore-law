@@ -1,0 +1,4 @@
+# 11. Mode of transferring documents
+Heading: Preliminary
+
+For the purposes of this Act, the transfer of a document may be by endorsement, or, where the document is by custom or by its express terms transferable by delivery or makes the goods deliverable to the bearer, then by delivery.
