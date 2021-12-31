@@ -1,15 +1,11 @@
 # 4. Implied terms about quality or fitness
-Part: PART I Contracts for transfer of property in goods
+Part: PART 1 Contracts for transfer of property in goods
 
 (1) Except as provided by this section and section 5 and subject to the provisions of any other enactment, there is no implied condition or warranty about the quality or fitness for any particular purpose of goods supplied under a contract for the transfer of goods.
 
 (2) Where, under such a contract, the transferor transfers the property in goods in the course of a business, there is an implied condition that the goods supplied under the contract are of satisfactory quality.
 
-[44/96]
-
 (2A) For the purposes of this section and section 5, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the price (if relevant) and all the other relevant circumstances.
-
-[44/96]
 
 (3) The condition implied by subsection (2) does not extend to any matter making the quality of goods unsatisfactory —
 
@@ -18,8 +14,6 @@ Part: PART I Contracts for transfer of property in goods
 (b) where the transferee examines the goods before the contract is made, which that examination ought to reveal; or
 
 (c) where the property in the goods is transferred by reference to a sample, which would have been apparent on a reasonable examination of the sample.
-
-[44/96]
 
 (4) Subsection (5) applies where, under a contract for the transfer of goods, the transferor transfers the property in goods in the course of a business and the transferee, expressly or by implication, makes known —
 
@@ -34,5 +28,3 @@ Part: PART I Contracts for transfer of property in goods
 (7) An implied condition or warranty about quality or fitness for a particular purpose may be annexed by usage to a contract for the transfer of goods.
 
 (8) The preceding provisions of this section apply to a transfer by a person who in the course of a business is acting as agent for another as they apply to a transfer by a principal in the course of a business, except where that other is not transferring in the course of a business and either the transferee knows that fact or reasonable steps are taken to bring it to the transferee’s notice before the contract concerned is made.
-
-(9) (Deleted by Act 44/96)

@@ -1,7 +1,7 @@
-# 1. The contracts concerned
-Part: PART I Contracts for transfer of property in goods
+# 1. Contracts concerned
+Part: PART 1 Contracts for transfer of property in goods
 
-(1) In this Act, ‘‘contract for the transfer of goods’’ means a contract under which one person transfers or agrees to transfer to another the property in goods, other than an excepted contract.
+(1) In this Act, “contract for the transfer of goods” means a contract under which one person transfers or agrees to transfer to another the property in goods, other than an excepted contract.
 
 (2) For the purposes of this section, an excepted contract means any of the following:
 
@@ -9,7 +9,7 @@ Part: PART I Contracts for transfer of property in goods
 
 (b) a hire-purchase agreement;
 
-(c) a transfer or agreement to transfer which is made by deed and for which there is no consideration other than the presumed consideration imported by the deed; or
+(c) a transfer or agreement to transfer which is made by deed and for which there is no consideration other than the presumed consideration imported by the deed;
 
 (d) a contract intended to operate by way of mortgage, pledge, charge or other security.
 

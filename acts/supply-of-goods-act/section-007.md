@@ -1,5 +1,5 @@
 # 7. Implied terms about right to transfer possession, etc.
-Part: PART I Contracts for transfer of property in goods
+Part: PART 1 Contracts for transfer of property in goods
 
 (1) In a contract for the hire of goods, there is an implied condition on the part of the bailor that in the case of a bailment he has a right to transfer possession of the goods by way of hire for the period of the bailment and in the case of an agreement to bail he will have such a right at the time of the bailment.
 

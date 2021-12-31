@@ -1,9 +1,7 @@
 # 2. Implied terms about title, etc.
-Part: PART I Contracts for transfer of property in goods
+Part: PART 1 Contracts for transfer of property in goods
 
 (1) In a contract for the transfer of goods, other than one to which subsection (3) applies, there is an implied condition on the part of the transferor that in the case of a transfer of the property in the goods he has a right to transfer the property and in the case of an agreement to transfer the property in the goods he will have such a right at the time when the property is to be transferred.
-
-*Date when this Act was made applicable by the Application of English Law Act (Cap. 7A).
 
 (2) In a contract for the transfer of goods, other than one to which subsection (3) applies, there is also an implied warranty that —
 
@@ -15,7 +13,7 @@ Part: PART I Contracts for transfer of property in goods
 
 (4) In a contract to which subsection (3) applies, there is an implied warranty that all charges or encumbrances known to the transferor and not known to the transferee have been disclosed to the transferee before the contract is made.
 
-(5) In a contract to which subsection (3) applies, there is also an implied warranty that none of the following will disturb the transferee’s quiet possession of the goods, namely —
+(5) In a contract to which subsection (3) applies, there is also an implied warranty that none of the following will disturb the transferee’s quiet possession of the goods, namely:
 
 (a) the transferor;
 

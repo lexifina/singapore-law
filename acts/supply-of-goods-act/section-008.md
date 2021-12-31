@@ -1,5 +1,5 @@
 # 8. Implied terms where hire is by description
-Part: PART I Contracts for transfer of property in goods
+Part: PART 1 Contracts for transfer of property in goods
 
 (1) This section applies where, under a contract for the hire of goods, the bailor bails or agrees to bail the goods by description.
 
