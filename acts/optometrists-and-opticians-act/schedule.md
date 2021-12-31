@@ -2,23 +2,25 @@
 
 Sections 2 and 36
 
-PART I ACTS OR ACTIVITIES CONSTITUTING ‘‘OPTICIANRY’’ OR ‘‘THE PRACTICE OF OPTICIANRY’’
+PART 1
+
+ACTS OR ACTIVITIES CONSTITUTING “OPTICIANRY” OR “THE PRACTICE OF OPTICIANRY”
 
 1. Refraction for persons of 8 years of age or older.
 
 2. Interpreting prescriptions of medical practitioners and optometrists.
 
-3. Supplying, preparing and dispensing of all optical appliances, except for contact lenses.
+3. Supplying, preparing and dispensing of all optical appliances, except for contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).
 
-4. Fitting, adjusting and adapting of all optical appliances, except for contact lenses, to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+4. Fitting, adjusting and adapting of all optical appliances, except for contact lenses (whether or not they fall within the definition of “optical appliances” in section 2), to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
 
-THE SCHEDULE — continued
+PART 2
 
-PART II ACTS OR ACTIVITIES CONSTITUTING ‘‘OPTOMETRY’’ OR ‘‘THE PRACTICE OF OPTOMETRY’’
+ACTS OR ACTIVITIES CONSTITUTING “OPTOMETRY” OR “THE PRACTICE OF OPTOMETRY”
 
 1. Refraction.
 
-2. Prescribing of optical appliances.
+2. Prescribing of optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).
 
 3. Detecting abnormalities of the eye using the following methods:
 
@@ -30,14 +32,16 @@ PART II ACTS OR ACTIVITIES CONSTITUTING ‘‘OPTOMETRY’’ OR ‘‘THE PRACT
 
 (d) slit-lamp examination;
 
-(e) tonometry; and
+(e) tonometry;
 
 (f) visual field testing.
 
 4. Interpreting prescriptions of medical practitioners and optometrists.
 
-5. Supplying, preparing and dispensing of all optical appliances.
+THE SCHEDULE — continued
 
-6. Fitting, adjusting and adapting of all optical appliances to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+5. Supplying, preparing and dispensing of all optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).
 
-[G.N. No. S 92/2008]
+6. Fitting, adjusting and adapting of all optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2) to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.
+
+[S 249/2009]

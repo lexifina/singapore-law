@@ -1,4 +1,4 @@
 # 36. Amendment of Schedule
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-The Minister may, after consultation with the Board, by order published in the Gazette, amend the Schedule.
+The Minister may, after consulting the Board, by order in the Gazette, amend the Schedule.

@@ -1,15 +1,15 @@
 # 37. Regulations
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-(1) Subject to the provisions of this Act, the Minister may, after consulting the Board, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+(1) Subject to the provisions of this Act, the Minister may, after consulting the Board, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration of this Act.
 
-(2) Without prejudice to the generality of subsection (1), regulations may be made to —
+(2) Without limiting subsection (1), regulations may be made to —
 
-(a) provide for the duties of the Registrar;
+(a) provide for the Registrar’s duties;
 
 (b) regulate the registration of optometrists and opticians;
 
-(c) provide for the form of the Register of Optometrists and the Register of Opticians, the particulars to be entered therein and the mode in which each Register shall be kept;
+(c) provide for the form of the Register of Optometrists and the Register of Opticians, the particulars to be entered in the Register of Optometrists and the Register of Opticians and the mode in which each Register must be kept;
 
 (d) regulate the issue and renewal of practising certificates;
 
@@ -17,7 +17,7 @@ Part: PART V MISCELLANEOUS
 
 (f) regulate the procedure of any committee appointed by the Board and the conduct of any proceedings of the committee;
 
-(g) provide for payment of fees to any member or any committee appointed by the Board;
+(g) provide for the payment of fees to any member or any committee appointed by the Board;
 
 (h) provide for the duties and functions of, and payment of remuneration to, the assessor appointed under section 32;
 
@@ -37,7 +37,7 @@ Part: PART V MISCELLANEOUS
 
 (p) provide that any person who contravenes any regulation made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both;
 
-(q) prescribe the offences which may be compounded;
+(q) prescribe the offences that may be compounded;
 
 (r) prescribe such other matters as are necessary or authorised to be prescribed under this Act; and
 

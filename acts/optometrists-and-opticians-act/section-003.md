@@ -1,4 +1,4 @@
 # 3. Application
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act shall not apply to any ophthalmologist in relation to his practice of optometry or opticianry.
+This Act does not apply to any ophthalmologist in relation to his or her practice of optometry or opticianry.

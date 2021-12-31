@@ -1,5 +1,5 @@
 # 5. Functions of Board
-Part: PART II OPTOMETRISTS AND OPTICIANS BOARD
+Part: PART 2 OPTOMETRISTS AND OPTICIANS BOARD
 
 The functions of the Board are —
 

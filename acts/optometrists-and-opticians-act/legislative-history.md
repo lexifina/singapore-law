@@ -1,13 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY OPTOMETRISTS AND OPTICIANS ACT 2007
 
-OPTOMETRISTS AND OPTICIANS ACT (CHAPTER 213A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Optometrists and Opticians Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-Act 36 of 2007 — Optometrists and Opticians Act 2007
+LEGISLATIVE HISTORY DETAILS PART 1 CONTACT LENS PRACTITIONERS ACT (CHAPTER 53A, 2002 REVISED EDITION) 1. Act 25 of 1995 — Contact Lens Practitioners Act 1995 Bill : 21/1995 First Reading : 25 May 1995 Second and Third Readings : 7 July 1995 Commencement : 1 February 1996 2. 1996 Revised Edition — Contact Lens Practitioners Act (Chapter 53A) Operation : 30 April 1996 3. Act 4 of 2001 — Health Sciences Authority Act 2001 (Amendments made by section 42 read with item (1) of the Second Schedule to the above Act) Bill : 3/2001 First Reading : 12 January 2001 Second and Third Readings : 22 February 2001 Commencement : 1 April 2001 (section 42 read with item (1) of the Second Schedule) 4. 2002 Revised Edition — Contact Lens Practitioners Act (Chapter 53A) Operation : 31 December 2002 PART 2 OPTOMETRISTS AND OPTICIANS ACT 2007 (2020 REVISED EDITION) 5. Act 36 of 2007 — Optometrists and Opticians Act 2007 Bill : 24/2007 First Reading : 21 May 2007 Second and Third Readings : 17 July 2007 Commencement : 22 February 2008 6. G.N. No. S 92/2008 — Optometrists and Opticians Act (Amendment of Schedule) Order 2008 Commencement : 22 February 2008 7. 2008 Revised Edition — Optometrists and Opticians Act (Chapter 213A) Operation : 31 December 2008 8. G.N. No. S 249/2009 — Optometrists and Opticians Act (Amendment of Schedule) Order 2009 Commencement : 1 June 2009 9. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 107 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 107 of the Schedule)
 
-Date of First Reading : 21 May 2007 (Bill No. 24/2007 published on 22 May 2007)
+Abbreviations
 
-Date of Second and Third Readings : 17 July 2007
-
-Date of commencement : 22 February 2008
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
