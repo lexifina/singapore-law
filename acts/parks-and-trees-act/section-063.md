@@ -1,9 +1,9 @@
 # 63. Regulations
-Part: PART IX GENERAL
+Part: PART 9 GENERAL
 
 (1) The Board may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Board may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
 
 (a) in relation to the management and control of national parks, nature reserves and public parks —
 
@@ -23,18 +23,16 @@ Part: PART IX GENERAL
 
 (viii) prescribing for the forfeiture, sale or disposal of any vehicle, boat or thing removed under section 42 and the recovery of any expenses connected therewith;
 
-(b) the applications for approval under section 12, 20 or 32, including the form, manner and mode of such applications, the documents to be submitted and other matters related to those sections;
+(b) the applications for approval under this Act, including the manner of such applications and the documents to be submitted;
 
 (c) the management of heritage road green buffers, including the prohibition and regulation of any particular act within the heritage road green buffers and the conservation and protection of trees and plants growing on heritage road green buffers;
 
-(d) prescribing that any act or omission in contravention of any regulations shall be an offence and prescribing penalties for such offences, which penalties shall not exceed a fine of $10,000;
+(d) prescribing that any act or omission in contravention of any regulations shall be an offence and prescribing penalties for such offences, which penalties must not exceed a fine of $10,000;
 
-(e) regulating and prescribing standards for the planting, aeration and maintenance of trees and plants within any planting areas, green verges and open spaces to be used as public parks;
+(e) prescribing the manner for measuring the dimensions of a planting area, and regulating and prescribing standards for the planting, aeration and maintenance of trees and plants within any planting areas, green verges and open spaces to be used as public parks;
 
-(f) the prescribing of forms necessary for the administration of this Act;
+(f) the prescribing of fees and charges for the purposes of this Act; and
 
-(g) the prescribing of fees and charges for the purposes of this Act; and
+(g) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
-(h) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
-
-[Parks and Trees 1996 Ed., s. 28]
+[9/2017]

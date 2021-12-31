@@ -1,6 +1,6 @@
 # 57. Payment to Board of fees, charges, etc.
-Part: PART IX GENERAL
+Part: PART 9 GENERAL
 
-All fees, charges, composition amounts and any other moneys collected under this Act shall be paid to the Board.
+Except as provided for in section 51(4), all fees, charges and any other moneys collected under this Act must be paid to the Board.
 
-[Parks and Trees 1996 Ed., s. 26]
+[9/2017]

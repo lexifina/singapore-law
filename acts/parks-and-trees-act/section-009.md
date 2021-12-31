@@ -1,7 +1,7 @@
 # 9. Restricted activities in respect of animals, etc., in national parks and nature reserves
-Part: PART III NATIONAL PARKS AND NATURE RESERVES
+Part: PART 3 NATIONAL PARKS AND NATURE RESERVES
 
-(1) No person shall, except with the approval of the Commis- sioner granted under section 12 and in accordance with the terms and conditions of such approval, carry out any of the following activities within any national park or nature reserve:
+(1) A person must not, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval, carry out any of the following activities within any national park or nature reserve:
 
 (a) capture, displace or feed any animal;
 
@@ -13,22 +13,24 @@ Part: PART III NATIONAL PARKS AND NATURE RESERVES
 
 (e) carry or have in the person’s possession any explosive, net, trap or hunting device.
 
-(2) No person shall carry out any activity within any national park or nature reserve which he knows or ought reasonably to know causes or may cause injury to, or the death of, any animal or any other organism within the national park or nature reserve.
+(2) A person must not carry out any activity within any national park or nature reserve which the person knows or ought reasonably to know causes or may cause injury to, or the death of, any animal or any other organism within the national park or nature reserve.
 
-(3) No person shall, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval —
+(3) A person must not, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval —
 
-(a) bring or release or cause any animal to be brought or released into a nature reserve; or
+(a) bring or release into, or abandon any animal in, or cause any animal to be brought or released into, or abandoned in a nature reserve;
 
-(b) permit any domestic animal to stray into a nature reserve.
+(b) release or abandon or cause any animal to be released or abandoned into any river, stream, canal or watercourse outside a nature reserve that the person knows, or ought reasonably to know, flows into or through the nature reserve; or
 
-(4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine of $500 for every day or part thereof during which the offence continues after conviction.
+(c) permit any animal belonging to or under the charge of the person to stray into a nature reserve.
 
-(5) Subsections (1), (2) and (3) shall not apply to —
+[9/2017]
 
-(a) the Commissioner, an authorised officer or a park ranger acting in the performance of his duty under this Act;
+(4) A person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine of $500 for every day or part of a day during which the offence continues after conviction.
 
-(b) any other officer or employee of the Board acting in the performance of his duty under this Act or any other written law; and
+(5) Subsections (1), (2) and (3) do not apply to —
 
-(c) any police officer or workman assisting a person referred to in paragraph (a) or (b) to carry out his duty.
+(a) the Commissioner, an authorised officer or a park ranger acting in the performance of his or her duty under this Act;
 
-[National Parks 1997 Ed., s. 24]
+(b) any other officer or employee of the Board acting in the performance of his or her duty under this Act or any other written law; and
+
+(c) any police officer or workman assisting a person referred to in paragraph (a) or (b) to carry out his or her duty.

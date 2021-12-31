@@ -1,71 +1,19 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY PARKS AND TREES ACT 2005
 
-PARKS AND TREES ACT (CHAPTER 216)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Parks and Trees Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 14 of 1975 — Parks and Trees Act 1975
+LEGISLATIVE HISTORY DETAILS PART 1 BOTANIC GARDENS ACT (CHAPTER 300, 1970 REVISED EDITION) 1. Ordinance 32 of 1957 — Botanic Gardens Ordinance, 1957 Bill : 113/1957 First Reading : 21 August 1957 Second Reading : 11 September 1957 Notice of Amendments : 11 September 1957 Third Reading : 11 September 1957 Commencement : 15 August 1958 Note: This Ordinance repealed the Raffles Societies Ordinance (Chapter 312, 1955 Revised Edition) so far as it relates to the Botanical Gardens.
 
-Date of First Reading : 17 March 1975 (Bill No. 18/75 published on 18 March 1975)
+2. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 3. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 4. 1970 Revised Edition — Botanic Gardens Act (Chapter 300) Operation : 31 August 1971
 
-Date of Second and Third Readings : 27 March 1975
+PART 2 TREES AND PLANTS (PRESERVATION AND IMPROVEMENT OF AMENITIES) ACT, 1970 (ACT 59 OF 1970) 5. Act 59 of 1970 — Trees and Plants (Preservation and Improvement of Amenities) Act, 1970 Bill : 48/1970 First Reading : 4 November 1970 Second and Third Readings : 30 December 1970 Commencement : 12 February 1971
 
-Date of commencement : 15 May 1975
+PART 3 PARKS AND TREES ACT (CHAPTER 216, 1996 REVISED EDITION) 6. Act 14 of 1975 — Parks and Trees Act, 1975 Bill : 18/1975 First Reading : 17 March 1975 Second and Third Readings : 27 March 1975 Commencement : 15 May 1975 7. Act 27 of 1982 — Parks and Trees (Amendment) Act, 1982 Bill : 18/1982 First Reading : 27 July 1982 Second and Third Readings : 31 August 1982 Commencement : 5 November 1982 8. 1985 Revised Edition — Parks and Trees Act (Chapter 216) Operation : 30 March 1987 9. Act 12 of 1987 — Parks and Trees (Amendment) Act 1987 Bill : 3/1987 First Reading : 4 March 1987 Second and Third Readings : 26 March 1987 Commencement : 1 May 1987 10. Act 10 of 1990 — National Parks Act 1990 (Amendments made by section 42(2) of the above Act) Bill : 12/1990 First Reading : 13 March 1990 Second and Third Readings : 29 March 1990 Commencement : 6 June 1990 (section 42(2)) 11. 1991 Revised Edition — Parks and Trees Act (Chapter 216) Operation : 1 March 1991 12. Act 25 of 1994 — Parks and Trees (Amendment) Act 1994 Bill : 32/1994 First Reading : 31 October 1994 Second and Third Readings : 5 December 1994 Commencement : 29 January 1995 13. Act 22 of 1996 — National Parks Act 1996 (Amendments made by section 42 read with the Sixth Schedule to the above Act) Bill : 13/1996 First Reading : 2 May 1996 Second and Third Readings : 21 May 1996 Commencement : 1 July 1996 (section 42 read with the Sixth Schedule) 14. 1996 Revised Edition — Parks and Trees Act (Chapter 216) Operation : 27 December 1996
 
-Note: The Parks and Trees Act 1975 repealed the Botanic Gardens Act (Chapter 300, 1970 Revised Edition), the Trees and Plants (Preservation and Improvement of Amenities) Act 1970 (No. 59 of 1970) and section 79 and Part V of the Local Government Integration Act (Chapter 210, 1970 Revised Edition).
+PART 4 PARKS AND TREES ACT 2005 (2020 REVISED EDITION) 15. Act 4 of 2005 — Parks and Trees Act 2005 Bill : 55/2004 First Reading : 19 October 2004 Second and Third Readings : 25 January 2005 Commencement : 1 August 2005 16. 2006 Revised Edition — Parks and Trees Act (Chapter 216) Operation : 31 July 2006 17. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 70 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 70 of the Sixth Schedule) 18. Act 9 of 2017 — Parks and Trees (Amendment) Act 2017 Bill : 4/2017 First Reading : 9 January 2017 Second and Third Readings : 7 February 2017 Commencement : 20 November 2017 19. Act 10 of 2019 — National Parks Board (Amendments) Act 2019 (Amendments made by section 14 of the above Act) Bill : 4/2019 First Reading : 15 January 2019 Second and Third Readings : 12 February 2019 Commencement : 1 April 2019 (section 14) 20. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 109 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 109 of the Schedule)
 
-2. Act 27 of 1982 — Parks and Trees (Amendment) Act 1982
+Abbreviations
 
-Date of First Reading : 27 July 1982 (Bill No. 18/82 published on 4 August 1982)
-
-Date of Second and Third Readings : 31 August 1982
-
-Date of commencement : 5 November 1982
-
-3. Act 12 of 1987 — Parks and Trees (Amendment) Act 1987
-
-Date of First Reading : 4 March 1987 (Bill No. 3/87 published on 6 March 1987)
-
-Date of Second and Third Readings : 26 March 1987
-
-Date of commencement : 1 May 1987
-
-4. 1985 Revised Edition — Parks and Trees Act (Chapter 216)
-
-Date of operation : 30 March 1987 5. Act 10 of 1990 — National Parks Act 1990 (Consequential amendments made to Act by)
-
-Date of First Reading : 13 March 1990 (Bill No. 12/90 published on 14 March 1990)
-
-Date of Second and Third Readings : 29 March 1990
-
-Date of commencement : 6 June 1990
-
-6. Act 25 of 1994 — Parks and Trees (Amendment) Act 1994
-
-Date of First Reading : 31 October 1994 (Bill No. 32/94 published on 1 November 1994)
-
-Date of Second and Third Readings : 5 December 1994
-
-Date of commencement : 29 January 1995
-
-7. Act 22 of 1996 — National Parks Act 1996 (Consequential amendments made to Act by)
-
-Date of First Reading : 2 May 1996 (Bill No. 13/96 published on 3 May 1996)
-
-Date of Second and Third Readings : 21 May 1996
-
-Date of commencement : 1 July 1996
-
-8. 1996 Revised Edition — Parks and Trees Act (Chapter 216)
-
-Date of operation : 27 December 1996
-
-9. Act 4 of 2005 — Parks and Trees Act 2005
-
-Date of First Reading : 19 October 2004 (Bill No. 55/2004 published on 20 October 2004)
-
-Date of Second and Third Readings : 25 January 2005
-
-Date of commencement : 1 August 2005
-
-Note: The Parks and Trees Act 2005 repealed the Parks and Trees Act (Chapter 216, 1996 Revised Edition).
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

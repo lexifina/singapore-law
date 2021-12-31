@@ -1,5 +1,5 @@
 # 40. Power of entry and to demand particulars of identity
-Part: PART VII POWERS OF ENFORCEMENT
+Part: PART 7 POWERS OF ENFORCEMENT
 
 (1) The Commissioner or any authorised officer may, with such assistants and workmen as are necessary, at any reasonable time, enter upon any land for the purpose of —
 
@@ -9,18 +9,18 @@ Part: PART VII POWERS OF ENFORCEMENT
 
 (c) taking any action or carrying out any works, authorised or required by this Act.
 
-(2) The Commissioner or any authorised officer may take or cause to be taken any photograph of the premises and any property or material found thereon and such other steps as he may consider necessary without involving any search or seizure of any premises, thing or person.
+(2) The Commissioner or any authorised officer may take or cause to be taken any photograph of the premises and any property or material found thereon and such other steps as he or she may consider necessary without involving any search or seizure of any premises, thing or person.
 
-(3) The occupier of any premises shall, if required by the Commis- sioner or any authorised officer, as the case may be —
+(3) The occupier of any premises must, if required by the Commissioner or any authorised officer, as the case may be —
 
-(a) give his name and address;
+(a) give his or her name and address;
 
-(b) provide proof of his identity; and
+(b) provide proof of his or her identity; and
 
 (c) give the name and address of the owner of the premises, if known.
 
 (4) Any person who —
 
-(a) wilfully obstructs the Commissioner or any authorised officer in the performance of any matter or thing which he is authorised to do by this section; or
+(a) wilfully obstructs the Commissioner or any authorised officer in the performance of any matter or thing which the Commissioner or authorised officer is authorised to do by this section; or
 
-(b) upon being required by the Commissioner or any authorised officer to give his name and address or to furnish any particulars under subsection (3), refuses to do so or wilfully mis-states his name or address or furnishes false particulars, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(b) upon being required by the Commissioner or any authorised officer to give his or her name and address or to provide any particulars under subsection (3), refuses to do so or wilfully misstates his or her name or address or provides false particulars, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
