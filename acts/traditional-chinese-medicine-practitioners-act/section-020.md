@@ -1,11 +1,28 @@
 # 20. Costs
-Part: PART III REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
-Heading: 2 CAP. 333A Medicine Practitioners 2001 Ed.
+Part: PART 3 REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
-(1) Where the Board cancels the registration of a registered person under section 19 (1) or takes any action against him under section 19 (2), the Board may order him to pay such sums as it thinks fit in respect of the costs and expenses of or incidental to any inquiry or investigation conducted or taking of action against him.
+(1) The Board may order a registered person to pay the sums that the Board thinks fit in respect of the costs and expenses of or incidental to any inquiry or investigation conducted or action taken against the registered person where the Board —
 
-(2) The High Court shall have jurisdiction to tax the sums ordered to be paid under subsection (1).
+(a) cancels the registration of the registered person under section 19(1);
 
-(3) Such sums shall be recoverable as a debt due to the Board.
+(b) takes any action against the registered person under section 19(2) or (3); or
 
-2001 Ed. Medicine Practitioners CAP. 333A 15
+(c) confirms an interim order made against the registered person under section 26H(8)(a).
+
+[8/2019]
+
+(2) The General Division of the High Court has jurisdiction to tax the sums ordered to be paid under subsection (1).
+
+[40/2019]
+
+(3) Such sums are recoverable as a debt due to the Board.
+
+(4) The costs and expenses mentioned in subsection (1) include —
+
+(a) the costs and expenses of any assessor or advocate and solicitor appointed by the Board for any proceedings before an Inquiry Committee;
+
+(b) any reasonable expenses that the Board may pay to witnesses; and
+
+(c) any other reasonable expenses that are necessary for the conduct of the proceedings before the Inquiry Committee.
+
+[8/2019]

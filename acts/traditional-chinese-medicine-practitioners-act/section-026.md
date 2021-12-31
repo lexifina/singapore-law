@@ -1,5 +1,5 @@
 # 26. Fraudulent registration, etc.
-Part: PART IV OFFENCES
+Part: PART 4 OFFENCES
 
 Any person who —
 
@@ -9,6 +9,6 @@ Any person who —
 
 (c) forges or alters a certificate of registration or practising certificate;
 
-(d) fraudulently or dishonestly uses as genuine a certificate of registration or practising certificate which he knows or has reason to believe is forged or altered; or
+(d) fraudulently or dishonestly uses as genuine a certificate of registration or practising certificate which he or she knows or has reason to believe is forged or altered; or
 
 (e) buys, sells or fraudulently obtains a certificate of registration or practising certificate, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.

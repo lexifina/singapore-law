@@ -1,4 +1,4 @@
 # 37. Amendment of Schedule
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-The Minister may, by order published in the Gazette, add to or amend the Schedule.
+The Minister may, by order in the Gazette, add to or amend the Schedule.

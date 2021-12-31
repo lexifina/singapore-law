@@ -1,11 +1,11 @@
 # 13. Alteration of Register
-Part: PART III REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
+Part: PART 3 REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
-The Registrar shall —
+The Registrar must —
 
-(a) insert in the Register any alteration to the name, address or other particulars of any registered person which may come to his knowledge;
+(a) insert in the Register any alteration to the name, address or other particulars of any registered person which may come to the Registrar’s knowledge;
 
-(b) correct any error in any entry in the Register which may come to his knowledge;
+(b) correct any error in any entry in the Register which may come to the Registrar’s knowledge;
 
 (c) remove from the Register the name of any person —
 

@@ -1,7 +1,6 @@
-# 18. Publication of list of registered traditional Chinese medicine practitioners
-Part: PART III REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
-Heading: 2 CAP. 333A Medicine Practitioners 2001 Ed.
+# 18. List of registered traditional Chinese medicine practitioners with practising certificates
+Part: PART 3 REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
-(1) The Registrar shall, from time to time, prepare and publish in the Gazette a list of the names, addresses, qualifications and dates of qualifications of all registered persons.
+The Registrar must publish, in the manner that the Board considers will secure adequate publicity to members of the public, a list of the names, practice addresses, qualifications, classes of registration and dates of qualifications and registration of all registered persons who have in force a practising certificate.
 
-(2) The Board may, if it thinks fit, direct the Registrar to prepare and publish for sale, at such intervals as the Board may direct, publications of the names, addresses, qualifications and dates of qualifications of all registered persons or such classes of registered persons as the Board may determine.
+[8/2019]

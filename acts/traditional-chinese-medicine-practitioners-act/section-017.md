@@ -1,18 +1,36 @@
-# 17. Practising certificate
-Part: PART III REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
+# 17. Practising certificate 1
+Part: PART 3 REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
-(1) A registered person who desires to obtain a practising certificate for the prescribed practice of traditional Chinese medicine for which he is registered shall make an application to the Board in such form and manner as the Board may prescribe.
+(1) A registered person who desires to obtain a practising certificate for the prescribed practice of traditional Chinese medicine for which he or she is registered must apply to the Board in the form and manner that the Board may prescribe.
 
-(2) The application shall be accompanied by the prescribed fee.
+(2) The application must be accompanied by the prescribed fee.
 
-12 CAP. 333A Medicine Practitioners 2001 Ed.
+(3) A practising certificate is valid for the period that the Board may determine.
 
-(3) A practising certificate shall be valid for such period as the Board may determine.
+(4) An application for the renewal of a practising certificate must be made no later than 30 days before the expiry of the practising certificate and must be made in the form and manner that the Board may prescribe.
 
-(4) An application for the renewal of a practising certificate shall be made no later than 30 days before the expiration of the practising certificate and shall be made in such form and manner as the Board may prescribe.
+(5) A registered person who applies for a practising certificate later than 30 days before the expiry of the practising certificate is liable to pay to the Board the late application fee that the Board may prescribe.
 
-(5) A registered person who applies for a practising certificate later than 30 days before the expiration of the practising certificate shall be liable to pay to the Board such late application fee as the Board may prescribe.
+(6) The Board may refuse to grant or renew a practising certificate to a registered person if the registered person fails to comply with any prescribed requirements relating to —
 
-(6) Where a person has had his registration in respect of a prescribed practice of traditional Chinese medicine cancelled or suspended under section 19, any practising certificate issued to him in respect of that prescribed practice of traditional Chinese medicine shall be deemed to be cancelled and he shall surrender such practising certificate to the Board within 14 days of such cancellation or suspension.
+(a) continuing professional education for the practice of traditional Chinese medicine; or
 
-(7) Any person who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(b) any other aspect of the practice of traditional Chinese medicine.
+
+[8/2019]
+
+(7) A practising certificate issued to a registered person is deemed to be cancelled when —
+
+(a) the registration of the registered person is cancelled or suspended under section 19 or 26A; or
+
+(b) an interim order against the registered person is confirmed by the Board under section 26H(8)(a).
+
+[8/2019]
+
+(8) A person whose practising certificate is deemed to be cancelled under subsection (7) must surrender the practising certificate to the Board no later than the 14th day after the cancellation of the practising certificate.
+
+[8/2019]
+
+(9) Any person who fails to comply with subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[8/2019]

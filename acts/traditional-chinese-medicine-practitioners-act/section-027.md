@@ -1,13 +1,9 @@
 # 27. Examinations Committee
-Part: PART V MISCELLANEOUS
+Part: PART 5 MISCELLANEOUS
 
-(1) The Board may appoint a committee, to be known as the Examinations Committee, which shall consist of such number of members as the Board may determine.
+(1) The Board may appoint a committee, called the Examinations Committee, which consists of any number of members that the Board may determine.
 
 (2) The functions of the Examinations Committee are —
-
-*Section 25 is not in operation.
-
-18 CAP. 333A Medicine Practitioners 2001 Ed.
 
 (a) to determine the standard and content of qualifying examinations for the purpose of registration under section 14;
 
