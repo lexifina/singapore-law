@@ -1,5 +1,5 @@
 # 2. Damages for personal injuries
-Part: PART I PROVISIONS AS TO COLLISIONS, & C.
+Part: PART 1 PROVISIONS AS TO COLLISIONS, ETC.
 
 (1) Where loss of life or personal injuries are suffered by any person on board a ship owing to the fault of that ship and of any other ship or ships, the liability of the owners of the ships shall be joint and several.
 

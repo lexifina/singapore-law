@@ -1,8 +1,4 @@
-# 4. Abolition of statutory presumptions of fault
-Part: PART I PROVISIONS AS TO COLLISIONS, & C.
+# 4. [Omitted]
+Part: PART 1 PROVISIONS AS TO COLLISIONS, ETC.
 
-(1) (Not applicable)
-
-2
-
-(2) (Not applicable)
+[Omitted in 2004 Revised Edition]
