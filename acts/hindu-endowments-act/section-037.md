@@ -1,0 +1,7 @@
+# 37. Transfer and vesting of property vested in Muslim and Hindu Endowments Board
+
+(1) On 1 May 1969, all property, movable and immovable, belonging to Hindu endowments, that was, immediately before that date, vested in the Muslim and Hindu Endowments Board incorporated under the Muslim and Hindu Endowments Ordinance (Cap. 271, 1955 Revised Edition) shall be transferred to and vest in the Board without further assurance upon the same tenure and subject to the same trusts and conditions as those upon which it was previously held by the Muslim and Hindu Endowments Board; and
+
+all rights relating to Hindu endowments vested in that Board immediately before that date and all liabilities relating to Hindu endowments to which that Board was subject immediately before that date in respect of that property shall be transferred to and vest in the Board.
+
+(2) Any reference in any written law, order of court, deed, contract, instrument or other documents whatsoever to the Muslim and Hindu Endowments Board incorporated under the Muslim and Hindu Endowments Ordinance (Cap. 271, 1955 Revised Edition) in its capacity as trustee of Hindu endowments shall be construed as a reference to the Board and all rights, powers, obligations and duties conferred, imposed on, undertaken or incurred by the Muslim and Hindu Endowments Board in that capacity under that written law, order of court, deed, contract, instrument or other documents shall be deemed to be conferred or imposed on or undertaken or incurred by the Board.
