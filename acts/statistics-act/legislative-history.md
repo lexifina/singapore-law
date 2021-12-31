@@ -1,117 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY STATISTICS ACT 1973
 
-STATISTICS ACT (CHAPTER 317)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Statistics Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 46 of 1973 — Statistics Act 1973
+LEGISLATIVE HISTORY DETAILS PART 1 STATISTICS ACT (CHAPTER 299, 1970 REVISED EDITION) 1. Ordinance 28 of 1921 — Statistics Ordinance, 1921 Bill : G.N. No. 1533/1921 First Reading : 3 October 1921 Second Reading : 22 November 1921 Notice of Amendments : 22 November 1921 Third Reading : 22 November 1921 Commencement : 30 November 1921 2. 1926 Revised Edition — Ordinance No. 183 (Statistics) Operation : 1 August 1926 3. 1936 Revised Edition — Statistics Ordinance (Chapter 40) Operation : 1 September 1936 4. Ordinance 37 of 1952 — Law Revision (Penalties Amendment) Ordinance, 1952 (Amendments made by section 2 read with item 11 of the Schedule to the above Ordinance) Bill : 32/1952 First Reading : 16 September 1952 Second and Third Readings : 14 October 1952 Commencement : 30 April 1955 (section 2 read with item 11 of the Schedule) 5. 1955 Revised Edition — Statistics Ordinance (Chapter 262) Operation : 1 July 1956 6. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 7. Ordinance 71 of 1959 — Transfer of Powers Ordinance, 1959 (Amendments made by section 4 read with the First Schedule to the above Ordinance) Bill : 30/1959 First Reading : 22 September 1959 Second and Third Readings : 11 November 1959 Commencement : 20 November 1959 (section 4 read with the First Schedule) 8. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance, 1959 (Amendments made by section 2 read with the First Schedule to the above Ordinance) Bill : 31/1959 First Reading : 22 September 1959 Second Reading : 11 November 1959 Notice of Amendments : 11 November 1959 Third Reading : 11 November 1959 Commencement : 20 November 1959 (section 2 read with the First Schedule) 9. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 10. 1970 Revised Edition — Statistics Act (Chapter 299) Operation : 31 August 1971
 
-Date of First Reading : 11 July 1973 (Bill No. 39/73 published on 14 July 1973)
+PART 2 STATISTICS ACT 1973 (2020 REVISED EDITION) 11. Act 46 of 1973 — Statistics Act, 1973 Bill : 39/1973 First Reading : 11 July 1973 Second and Third Readings : 26 July 1973 Commencement : 7 September 1973 12. Act 19 of 1986 — Statistics (Amendment) Act 1986 Bill : 12/1986 First Reading : 5 May 1986 Second and Third Readings : 29 July 1986 Commencement : 29 August 1986 13. 1985 Revised Edition — Statistics Act (Chapter 317) Operation : 30 March 1987 14. Act 9 of 1990 — Statistics (Amendment) Act 1990 Bill : 9/1990 First Reading : 2 March 1990 Second and Third Readings : 28 March 1990 Commencement : 6 April 1990 15. 1991 Revised Edition — Statistics Act (Chapter 317) Operation : 1 March 1991 16. Act 24 of 1995 — Regulation of Imports and Exports Act 1995 (Amendments made by section 47 read with item 6 of the Schedule to the above Act) Bill : 19/1995 First Reading : 25 May 1995 Second and Third Readings : 7 July 1995 Commencement : 1 December 1995 (section 47 read with item 6 of the Schedule) 17. G.N. No. S 365/1998 — Statistics Act (Amendment of Second Schedule) Notification 1998 Commencement : 3 July 1998 18. G.N. No. S 192/1999 — Statistics Act (Amendment of Second Schedule) Notification 1999 Commencement : 16 April 1999 19. 1999 Revised Edition — Statistics Act (Chapter 317) Operation : 30 December 1999 20. G.N. No. S 501/2000 — Statistics Act (Amendment of First Schedule) Notification 2000 Commencement : 1 November 2000 21. G.N. No. S 502/2000 — Statistics Act (Amendment of Second Schedule) Notification 2000 Commencement : 1 November 2000 22. G.N. No. S 536/2002 — Statistics Act (Amendment of Second and Third Schedules) Notification 2002 Commencement : 4 October 2002 23. Act 6 of 2003 — International Enterprise Singapore Board (Amendment) Act 2003 (Amendments made by section 3 read with item (2) of the Schedule to the above Act) Bill : 5/2003 First Reading : 10 March 2003 Second and Third Readings : 21 March 2003 Commencement : 1 April 2003 (section 3 read with item (2) of the Schedule) 24. Act 16 of 2004 — Statistics (Amendment) Act 2004 Bill : 15/2004 First Reading : 19 April 2004 Second and Third Readings : 19 May 2004 Commencement : 1 July 2004 25. G.N. No. S 393/2006 — Statistics Act (Amendment of Second Schedule) Notification 2006 Commencement : 30 June 2006 26. G.N. No. S 451/2007 — Statistics Act (Amendment of Second Schedule) Notification 2007 Commencement : 28 August 2007 27. Act 3 of 2010 — Statistics (Amendment) Act 2010 Bill : 24/2009 First Reading : 23 November 2009 Second and Third Readings : 11 January 2010 Commencement : 12 February 2010 28. G.N. No. S 151/2010 — Statistics Act (Amendment of First and Second Schedules) Order 2010 Commencement : 12 March 2010 29. G.N. No. S 40/2011 — Statistics Act (Amendment of Second Schedule) Order 2011 Commencement : 3 August 2010 30. G.N. No. S 474/2011 — Statistics Act (Amendment of First and Second Schedules) Order 2011 Commencement : 19 August 2011 31. 2012 Revised Edition — Statistics Act (Chapter 317) Operation : 31 July 2012 32. G.N. No. S 89/2013 — Statistics Act (Amendment of Second Schedule) Order 2013 Commencement : 15 February 2013 33. G.N. No. S 153/2015 — Statistics Act (Amendment of Second Schedule) Order 2015 Commencement : 1 April 2015 34. G.N. No. S 550/2015 — Statistics Act (Amendment of First Schedule) Order 2015 Commencement : 8 September 2015 35. G.N. No. S 454/2016 — Statistics Act (Amendment of Second Schedule) Order 2016 Commencement : 1 October 2016 36. Act 22 of 2016 — Info-communications Media Development Authority Act 2016 (Amendments made by section 102(5) of the above Act) Bill : 21/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 1 October 2016 (section 102(5)) 37. G.N. No. S 80/2017 — Statistics Act (Amendment of Second Schedule) Order 2017 Commencement : 15 March 2017 38. G.N. No. S 203/2018 — Statistics Act (Amendment of Second Schedule) Order 2018 Commencement : 1 April 2018 39. G.N. No. S 669/2019 — Statistics Act (Amendment of Second Schedule) Order 2019 Commencement : 1 October 2019 40. G.N. No. S 280/2021 — Statistics Act (Amendment of Third Schedule) Order 2021 Commencement : 28 April 2021 41. G.N. No. S 374/2021 — Statistics Act (Amendment of Second Schedule) Order 2021 Commencement : 17 June 2021 42. G.N. No. S 705/2021 — Statistics Act (Amendment of Second Schedule) (No. 2) Order 2021 Commencement : 21 September 2021
 
-Date of Second and Third Readings : 26 July 1973
+Abbreviations
 
-Date of commencement : 7 September 1973
-
-2. 1985 Revised Edition — Statistics Act (Chapter 317)
-
-Date of operation : 30 March 1987
-
-3. Act 19 of 1986 — Statistics (Amendment) Act 1986
-
-Date of First Reading : 5 May 1986 (Bill No. 12/86 published on 6 May 1986)
-
-Date of Second and Third Readings : 29 July 1986
-
-Date of commencement : 29 August 1986
-
-4. Act 9 of 1990 — Statistics (Amendment) Act 1990
-
-Date of First Reading : 2 March 1990 (Bill No. 9/90 published on 3 March 1990)
-
-Date of Second and Third Readings : 28 March 1990
-
-Date of commencement : 6 April 1990
-
-5. 1991 Revised Edition — Statistics Act (Chapter 317)
-
-Date of operation : 1 March 1991
-
-6. Act 24 of 1995 — Regulation of Imports and Exports Act 1995 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 May 1995 (Bill No. 19/95 published on 26 May 1995)
-
-Date of Second and Third Readings : 7 July 1995 Date of commencement : 1 December 1995
-
-7. G.N. No. S 365/98 — Statistics Act (Amendment of Second Schedule) Notification 1998
-
-Date of commencement : 3 July 1998
-
-8. Act 4 of 1999 — Building and Construction Authority Act 1999 (Consequential amendments made to Act by)
-
-Date of First Reading : 23 November 1998 (Bill No. 51/98 published on 24 November 1998)
-
-Date of Second and Third Readings : 20 January 1999
-
-Date of commencement : 1 April 1999
-
-9. G.N. No. S 192/99 — Statistics Act (Amendment of Second Schedule) Notification 1999
-
-Date of commencement : 16 April 1999
-
-10. 1999 Revised Edition — Statistics Act (Chapter 317)
-
-Date of operation : 30 December 1999
-
-11. G.N. No. S 501/2000 — Statistics Act (Amendment of First Schedule) Notification 2000
-
-Date of commencement : 1 November 2000
-
-12. G.N. No. S 502/2000 — Statistics Act (Amendment of Second Schedule) Notification 2000
-
-Date of commencement : 1 November 2000
-
-13. G.N. No. S 536/2002 — Statistics Act (Amendment of Second and Third Schedules) Notification 2002
-
-Date of commencement : 4 October 2002
-
-14. Act 6 of 2003 — International Enterprise Singapore Board (Amendment) Act 2003 (Consequential amendments made to Act by)
-
-Date of First Reading : 10 March 2003 (Bill No. 5/2003 published on 11 March 2003)
-
-Date of Second and Third Readings : 21 March 2003
-
-Date of commencement : 1 April 2003 15. Act 16 of 2004 — Statistics (Amendment) Act 2004
-
-Date of First Reading : 19 April 2004 (Bill No. 15/2004 published on 20 April 2004)
-
-Date of Second and Third Readings : 19 May 2004
-
-Date of commencement : 1 July 2004
-
-16. G.N. No. S 393/2006 — Statistics Act (Amendment of Second Schedule) Notification 2006
-
-Date of commencement : 30 June 2006
-
-17. G.N. No. S 451/2007 — Statistics Act (Amendment of Second Schedule) Notification 2007
-
-Date of commencement : 28 August 2007
-
-18. Act 3 of 2010 — Statistics (Amendment) Act 2010
-
-Date of First Reading : 23 November 2009 (Bill No. 24/2009 published on 24 November 2009)
-
-Date of Second and Third Readings : 11 January 2010
-
-Date of commencement : 12 February 2010
-
-19. G.N. No. S 151/2010 — Statistics Act (Amendment of First and Second Schedules) Order 2010
-
-Date of commencement : 12 March 2010
-
-20. G.N. No. S 40/2011 — Statistics Act (Amendment of Second Schedule) Order 2011
-
-Date of commencement : 3 August 2010
-
-21. G.N. No. S 474/2011 — Statistics Act (Amendment of First and Second Schedules) Order 2011
-
-Date of commencement : 19 August 2011
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

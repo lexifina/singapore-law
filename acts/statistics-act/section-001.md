@@ -1,3 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Statistics Act.
+This Act is the Statistics Act 1973.
+
+1

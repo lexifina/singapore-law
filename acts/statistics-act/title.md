@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-STATISTICS ACT
-(CHAPTER 317)
-(Original Enactment: Act 46 of 1973)
-REVISED EDITION 2012
-(31st July 2012)
+STATISTICS ACT 1973
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2012
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to statistics.
 
-[7th September 1973]
+[7 September 1973]
