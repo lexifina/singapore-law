@@ -1,47 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY EDUCATION ENDOWMENT AND SAVINGS SCHEMES ACT 1992
 
-EDUCATION ENDOWMENT AND SAVINGS SCHEMES ACT (CHAPTER 87A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Education Endowment and Savings Schemes Act. It is not part of the Act.
+1. Act 33 of 1992 — Education Endowment Scheme Act 1992 Bill : 34/1992 First Reading : 31 July 1992 Second and Third Readings : 14 September 1992 Commencement : 1 January 1993 2. 1993 Revised Edition — Education Endowment Scheme Act (Chapter 87A) Commencement : 15 March 1993 3. Act 13 of 2001 — Children Development Co-Savings Act 2001 (Amendments made by section 22 of the above Act) Bill : 13/2001 First Reading : 22 February 2001 Second and Third Readings : 16 March 2001 Commencement : 1 April 2001 (section 22) 4. Act 32 of 2005 — Education Endowment Scheme (Amendment) Act 2005 Bill : 23/2005 First Reading : 15 August 2005 Second and Third Readings : 19 September 2005 Commencement : 17 August 2005 5. Act 6 of 2007 — Education Endowment Scheme (Amendment) Act 2007 Bill : 18/2006 First Reading : 8 November 2006 Second and Third Readings : 22 January 2007 Commencement : 22 May 2007 6. Act 52 of 2007 — Education Endowment Scheme (Amendment No. 2) Act 2007 Bill : 40/2007 First Reading : 17 September 2007 Second and Third Readings : 23 October 2007 Commencement : 1 January 2008 Note: The Education Endowment Scheme Act was renamed as the Education Endowment and Savings Schemes Act by this Act.
 
-1. Act 33 of 1992 — Education Endowment Scheme Act 1992
+7. 2009 Revised Edition — Education Endowment and Savings Schemes Act (Chapter 87A) Operation : 31 July 2009 8. Act 13 of 2011 — Children Development Co-Savings (Amendment) Act 2011 (Amendments made by section 7 of the above Act) Bill : 8/2011 First Reading : 28 February 2011 Second and Third Readings : 10 March 2011 Commencement : 1 May 2011 (section 7) 9. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012 (Amendments made by section 22 of the above Act) Bill : 22/2011 First Reading : 21 November 2011 Second Reading : 18 January 2012 Notice of Amendments : 18 January 2012 Third Reading : 18 January 2012 Commencement : 1 March 2012 (section 22) 10. Act 33 of 2014 — Education Endowment and Savings Schemes (Amendment) Act 2014 Bill : 30/2014 First Reading : 8 September 2014 Second and Third Readings : 8 October 2014 Commencement : 10 November 2014 11. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 471 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 471)
 
-Date of First Reading : 31 July 1992 (Bill No. 34/92 published on 1 August 1992)
+Abbreviations
 
-Date of Second and Third Readings : 14 September 1992
-
-Date of commencement : 1 January 1993
-
-2. 1993 Revised Edition — Education Endowment Scheme Act (Chapter 87A)
-
-Date of commencement : 15 March 1993
-
-3. Act 13 of 2001 — Children Development Co-Savings Act 2001 (Consequential amendments made to Act by)
-
-Date of First Reading : 22 February 2001 (Bill No. 13/2001 published on 23 February 2001)
-
-Date of Second and Third Readings : 16 March 2001
-
-Date of commencement : 1 April 2001
-
-4. Act 32 of 2005 — Education Endowment Scheme (Amendment) Act 2005
-
-Date of First Reading : 15 August 2005 (Bill No. 23/2005 published on 16 August 2005)
-
-Date of Second and Third Readings : 19 September 2005
-
-Date of commencement : 17 August 2005
-
-5. Act 6 of 2007 — Education Endowment Scheme (Amendment) Act 2007
-
-Date of First Reading : 8 November 2006 (Bill No. 18/2006 published on 9 November 2006)
-
-Date of Second and Third Readings : 22 January 2007
-
-Date of commencement : 22 May 2007 6. Act 52 of 2007 — Education Endowment Scheme (Amendment No. 2) Act 2007
-
-Date of First Reading : 17 September 2007 (Bill No. 40/2007 published on 18 September 2007)
-
-Date of Second and Third Readings : 23 October 2007
-
-Date of commencement : 1 January 2008
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

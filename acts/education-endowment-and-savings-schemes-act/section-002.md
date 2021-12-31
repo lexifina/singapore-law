@@ -1,42 +1,56 @@
 # 2. Interpretation
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘Board’’ means the Central Provident Fund Board established under the Central Provident Fund Act (Cap. 36);
+“Council” means the Advisory Council established under section 11;
 
-‘‘Council’’ means the Advisory Council established under section 10;
+“Edusave account” means an Edusave account maintained under section 7(3);
 
-‘‘Edusave account’’ means an Edusave account maintained under section 7(3);
+“Edusave Pupils Fund” means the Edusave Pupils Fund established under section 7(1);
 
-‘‘Edusave Pupils Fund’’ means the Edusave Pupils Fund established under section 7(1);
+“Edusave Qualifying Ages” means the range of ages prescribed by regulations to be the Edusave Qualifying Ages;
 
-‘‘Endowment Fund’’ means the Edusave Endowment Fund established under section 3(1);
+“Edusave Scheme Administrator” means the public officer appointed under section 7(2) by the Minister to administer the Edusave Pupils Fund on the Minister’s behalf;
 
-‘‘parent’’ includes a legal guardian;
+“Endowment Fund” means the Edusave Endowment Fund established under section 3(1);
 
-‘‘PSE account’’ means a PSE account maintained under section 16A(3);
+“junior college”, in relation to a member of the Edusave Pupils Fund, means any of the following which is not a prescribed school:
 
-‘‘PSE Fund’’ means the Post-Secondary Education Fund established under section 16A(1);
+(a) a junior college that is organised and conducted directly by the Government to provide full-time pre-university education;
 
-‘‘PSE Scheme Administrator’’ means the public officer appointed by the Minister to administer the PSE Fund on behalf of the Minister;
+(b) a junior college that is established by a person other than the Government and is conducted by a committee of management in receipt of a grant-in-aid from the Government to defray the costs and expenses of conducting the junior college to provide full-time pre-university education;
 
-‘‘school age’’ means such age as may be prescribed;
+(c) a centralised institute that provides full-time pre-university education;
 
-4 CAP. 87A Savings Schemes 2009 Ed.
+(d) any other educational institution providing full-time pre-university education that may be prescribed as a junior college;
 
-‘‘sibling’’, in relation to a member of the PSE Fund, means the natural sibling, step-sibling or adopted sibling of the member.
+“parent” includes a legal guardian;
 
-[52/2007]
+“prescribed school”, in relation to a member of the Edusave Pupils Fund, means —
 
-(2) For the purposes of sections 12, 13 and 14, ‘‘school’’ means such educational institution as the Minister may approve from time to time under subsection (3).
+(a) an institution for providing full-time primary or secondary education, being —
 
-[52/2007]
+(i) a school organised and conducted directly by the Government;
 
-(3) The Minister may —
+(ii) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act 1990; or
 
-(a) approve any educational institution as a school for the purposes of any provision of sections 12, 13 and 14; and
+(iii) a school that is established by a person other than the Government and is conducted by a committee of management in receipt of a grant-in-aid from the Government to defray the costs and expenses of conducting the school; or
 
-(b) approve different educational institutions for the purposes of different provisions of sections 12, 13 and 14 and for different classes of members of the Edusave Pupils Fund.
+(b) any other educational institution that may be prescribed as a prescribed school;
 
-[52/2007]
+“PSE account” means a PSE account maintained under section 19(3);
+
+“PSE Fund” means the Post-Secondary Education Fund established under section 19(1);
+
+“PSE Scheme Administrator” means the public officer appointed by the Minister to administer the PSE Fund on behalf of the Minister;
+
+“schooling” means enrolled as a full-time student of a prescribed school or a junior college;
+
+“sibling”, in relation to a member of the PSE Fund, means the natural sibling, stepsibling or adopted sibling of the member.
+
+[33/2014]
+
+(2) For the purposes of this Act, the time at which an individual attains a particular age expressed in years is the relevant anniversary of the date of that individual’s birth, except that where an individual was born on 29 February in any year, then, in any subsequent year that is not a leap year, the anniversary of the birth of the individual is deemed to occur on 1 March of that subsequent year.
+
+[33/2014]

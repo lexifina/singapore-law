@@ -1,4 +1,4 @@
 # 5. Mode of payment out of Endowment Fund
-Part: PART II EDUCATION ENDOWMENT SCHEME
+Part: PART 2 EDUCATION ENDOWMENT SCHEME
 
-No payment shall be made out of the Endowment Fund unless such payment is authorised by the Minister.
+A payment must not be made out of the Endowment Fund unless the payment is authorised by the Minister.

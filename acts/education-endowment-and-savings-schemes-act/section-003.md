@@ -1,18 +1,18 @@
 # 3. Establishment of Edusave Endowment Fund
-Part: PART II EDUCATION ENDOWMENT SCHEME
+Part: PART 2 EDUCATION ENDOWMENT SCHEME
 
-(1) For the purposes of this Act, there shall be established a fund to be called the Edusave Endowment Fund into which shall be paid —
+(1) For the purposes of this Act, a fund called the Edusave Endowment Fund is established, into which must be paid —
 
-(a) all capital money provided by Parliament pursuant to this Act;
+(a) all capital moneys provided by Parliament pursuant to this Act;
 
-(b) all income of that Fund; and
+(b) all the income of that Fund;
 
-(c) any moneys which the Minister has authorised under section 7(5) to be transferred from the Edusave Pupils Fund, and out of which shall be met all payments authorised to be paid under this Act.
+(c) any moneys which the Minister has authorised under section 7(5) to be transferred from the Edusave Pupils Fund; and
 
-[52/2007]
+(d) all donations to that Fund made under section 15, and out of which must be met all payments authorised to be made under this Act.
 
-(2) The Minister shall be responsible for the administration of the Endowment Fund and all moneys belonging to that Fund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act (Cap. 109).
+[33/2014]
 
-(3) The Endowment Fund shall be deemed to be a Government fund for the purposes of any written law.
+(2) The Minister is responsible for the administration of the Endowment Fund, and all moneys belonging to that Fund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act 1966.
 
-2009 Ed. Savings Schemes CAP. 87A 5
+(3) The Endowment Fund is deemed to be a Government fund for the purposes of any written law.

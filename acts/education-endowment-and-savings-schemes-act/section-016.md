@@ -1,16 +1,16 @@
-# 16. Moneys payable on death of member of Edusave Pupils Fund
-Part: PART III WITHDRAWAL FROM EDUSAVE PUPILS FUND
+# 16. Applications for withdrawal from Edusave Pupils Fund
+Part: PART 3 WITHDRAWAL FROM EDUSAVE PUPILS FUND
 
-(1) On the death of a member of the Edusave Pupils Fund, the total amount standing to his credit in his Edusave account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
+(1) Upon an application to withdraw any sum of money standing to the credit of a member of the Edusave Pupils Fund in the member’s Edusave account for the purposes in section 13(2), the Edusave Scheme Administrator may authorise the payment of any sum that may, under this Act, be withdrawn from the member’s Edusave account —
 
-[52/2007]
+(a) in the case of a withdrawal for the purposes in section 13(2)(a), to the prescribed school or junior college at which the member is schooling; and
 
-(2) The receipt of the Public Trustee shall be a good discharge to the Board for such portions of the moneys payable out of the Edusave account on the death of a member of the Edusave Pupils Fund as are payable to the Public Trustee under subsection (1).
+(b) in the case of a withdrawal for the purposes in section 13(2)(b), to a person, an educational institution or any other entity that may be determined by the Edusave Scheme Administrator.
 
-[52/2007]
+[33/2014]
 
-2009 Ed. Savings Schemes CAP. 87A 11
+(2) All applications for withdrawal must be supported by such evidence as may be prescribed and by any further evidence that the Edusave Scheme Administrator may reasonably require.
 
-(3) All moneys paid out of the Edusave account on the death of any member of the Edusave Pupils Fund shall be deemed to be impressed with a trust in favour of the person or persons determined by the Public Trustee in accordance with subsection (1) to be entitled thereto but shall, without prejudice to the Estate Duty Act (Cap. 96), be deemed not to form part of the deceased member’s estate or to be subject to his debts.
+[14
 
-[52/2007]
+[33/2014]

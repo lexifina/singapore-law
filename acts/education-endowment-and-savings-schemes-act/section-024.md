@@ -1,36 +1,28 @@
-# 24. Regulations
-Part: PART IV MISCELLANEOUS
+# 24. Transfer of member’s moneys in PSE Fund
+Part: PART 3B WITHDRAWAL FROM PSE FUND
 
-(1) The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Act.
+(1) Subject to any regulations made under section 35, the PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained 21 years of age, permit the member to transfer the whole sum standing to the member’s credit in his or her PSE account to his or her ordinary account (if any) maintained under section 13 of the Central Provident Fund Act 1953, and upon the transfer, the member’s PSE account is to be closed and the member ceases to be a member of the PSE Fund.
 
-[52/2007]
+[33/2014]
 
-2009 Ed. Savings Schemes CAP. 87A 21
+(2) Subject to any regulations made under section 35, the PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained the relevant age, permit the member to transfer —
 
-(2) Without prejudice to the generality of subsection (1), such regulations may —
+(a) the whole or any part of the sum standing to the member’s credit in his or her PSE account to his or her sibling’s PSE account, if any; and
 
-(a) provide for the establishment of scholarships and other awards out of the income of the Endowment Fund and for all matters connected therewith, including the persons eligible to apply for each type of scholarship or award, and the amount of each type of scholarship or award;
+(b) any remainder of that sum to his or her ordinary account (if any) maintained under section 13 of the Central Provident Fund Act 1953, and upon the transfer, the member’s PSE account is to be closed and the member ceases to be a member of the PSE Fund.
 
-(b) prescribe the amount which may be withdrawn, and the manner in which withdrawals may be made, by members of the Edusave Pupils Fund or their parents;
+[33/2014]
 
-(c) provide for such information, evidence and documents as the Board may require from members of the Edusave Pupils Fund or their parents who have applied for or utilised such withdrawals;
+(3) The PSE Scheme Administrator may, upon an application by a member of the PSE Fund who has attained or is about to attain the relevant age, permit the member to remain as a member of that Fund, and to continue to maintain in his or her PSE account the sum standing to his or her credit in that account, until such time after attaining the relevant age as the PSE Scheme Administrator may determine.
 
-(d) provide for the circumstances in which a refund of any sum withdrawn from the Edusave Pupils Fund shall be made or may be required by the Board to be made, and for the person by whom and the manner in which the refund is to be made;
+(4) Subject to subsection (3), where any member of the PSE Fund has attained the relevant age, and no application has been made, within such period (not exceeding 12 months) after the member has attained the relevant age as the PSE Scheme Administrator may specify, for the sum standing to the member’s credit in his or her PSE account to be withdrawn under section 22(3) or transferred under subsection (1) or (2), the PSE Scheme Administrator must transfer the sum standing to the member’s credit in his or her PSE account to his or her ordinary account (if any) maintained under section 13 of the Central Provident Fund Act 1953, and upon the transfer, the member’s PSE account is to be closed and the member ceases to be a member of the PSE Fund.
 
-(e) provide for the disposal of amounts in the Edusave Pupils Fund which are unclaimed or unpaid, or which otherwise remain in that Fund;
+[33/2014]
 
-(f) prescribe the procedure of the Council;
+(5) In this section, “relevant age” means the age prescribed for the purposes of this section.
 
-(g) prescribe the amount which may be withdrawn, and the manner in which withdrawals may be made, by members of the PSE Fund or their parents;
+(6) An individual who is a member of the PSE Fund and who resumes being a member of the Edusave Pupils Fund by virtue of section 8(3), or, if the individual is below 21 years of age, any parent of the individual, may apply to the PSE Scheme Administrator to transfer moneys standing to the credit of the individual in his or her PSE account to his or her Edusave account.
 
-(h) provide for such information, evidence and documents as the PSE Scheme Administrator may require from members of the PSE Fund or their parents who have applied for or utilised such withdrawals;
+[16E
 
-(i) provide for the circumstances in which a refund of any sum withdrawn from the PSE Fund shall be made or may be required by the PSE Scheme Administrator to be made, and for the person by whom and the manner in which the refund is to be made;
-
-(j) provide for the disposal of amounts in the PSE Fund which are unclaimed or unpaid, or which otherwise remain in that Fund; and
-
-22 CAP. 87A Savings Schemes 2009 Ed.
-
-(k) prescribe anything which may be prescribed.
-
-[52/2007]
+[33/2014]

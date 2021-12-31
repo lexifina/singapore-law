@@ -1,10 +1,8 @@
-# 17. Expenses
-Part: PART IV MISCELLANEOUS
+# 17. Protection of benefits of member of Edusave Pupils Fund
+Part: PART 3 WITHDRAWAL FROM EDUSAVE PUPILS FUND
 
-(1) All expenses incurred in connection with the administration of the Endowment Fund and Edusave Pupils Fund, including the cost of auditing the accounts of the Funds under section 20(1), shall be defrayed out of the income of the Endowment Fund.
+No withdrawals authorised by the Edusave Scheme Administrator made from the Edusave Pupils Fund under section 13, 14 or 15 nor the rights of any member of that Fund acquired under any of those sections are assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
-[52/2007]
+[15
 
-(2) All expenses incurred in connection with the administration of the PSE Fund, including the cost of auditing the accounts of that Fund under section 20(1), shall be paid out of the Consolidated Fund.
-
-[52/2007]
+[33/2014]

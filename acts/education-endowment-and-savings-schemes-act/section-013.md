@@ -1,16 +1,16 @@
-# 13. Donation and transfer of member’s moneys in Edusave Pupils Fund
-Part: PART III WITHDRAWAL FROM EDUSAVE PUPILS FUND
+# 13. Conditions for withdrawal from Edusave Pupils Fund
+Part: PART 3 WITHDRAWAL FROM EDUSAVE PUPILS FUND
 
-(1) The Board may, subject to such terms and conditions as it may impose, permit the parent of a member of the Edusave Pupils Fund below the age of 21 years, or a member of that Fund who has attained the age of 21 years, to donate to the school of the member such portion of the sum standing to the credit of the member in his Edusave account as the parent of the member, or the member, as the case may be, may determine.
+(1) Any money standing to the credit of any member of the Edusave Pupils Fund in his or her Edusave account may be withdrawn from that Fund with the authority of the Edusave Scheme Administrator in accordance with this section and section 14.
 
-[52/2007]
+[33/2014]
 
-(2) Subject to subsection (3) and any regulations made under section 24, where a member of the Edusave Pupils Fund has attained the age of 16 years or has ceased to be a full-time pupil at any school, whichever is the later, the Board shall, as soon as practicable, transfer the sum standing to his credit in his Edusave account to his PSE account, and thereupon he shall cease to be a member of that Fund.
+(2) Subject to this section, the parent of a member of the Edusave Pupils Fund below 21 years of age, or a member of that Fund who has attained 21 years of age, is entitled to withdraw at any time the sum standing to the member’s credit in his or her Edusave account for the following purposes:
 
-[52/2007]
+(a) where the member is schooling, to defray the whole or part of the member’s expenses as may be necessary to enable the member to take part in any enrichment programme approved by the prescribed school or junior college at which the member is schooling;
 
-10 CAP. 87A Savings Schemes 2009 Ed.
+(b) for any other prescribed purpose.
 
-(3) Subject to any regulations made under section 24, where a member of the Edusave Pupils Fund below the age of 16 years satisfies such requirements as may be prescribed, the Board may, upon application by the parent of the member, transfer the sum standing to the credit of the member in his Edusave account to his PSE account, and thereupon he shall cease to be a member of that Fund.
+[12
 
-[52/2007]
+[33/2014]

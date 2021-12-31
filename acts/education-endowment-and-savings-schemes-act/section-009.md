@@ -1,48 +1,46 @@
 # 9. Contributions and interest to be paid to members of Edusave Pupils Fund
-Part: PART II EDUCATION ENDOWMENT SCHEME
+Part: PART 2 EDUCATION ENDOWMENT SCHEME
 
-(1) There shall be paid to every member of the Edusave Pupils Fund in each year out of the income of the Endowment Fund the prescribed amount of contribution for that year if on 1st January of that year he is of school age and at any time during that year he is a full-time pupil at a prescribed school.
+(1) It is lawful for the Edusave Scheme Administrator to pay out of the income of the Endowment Fund to any member of the Edusave Pupils Fund, in each year, a single contribution of an amount prescribed for that year if, at any time during that year, the member —
 
-[52/2007]
+(a) is a full-time student of a prescribed school and receiving primary or secondary education; or
 
-(2) The Board shall cause to be credited —
+(b) is between the Edusave Qualifying Ages, if the member is not schooling at any time during that year.
 
-(a) to any eligible member of the Edusave Pupils Fund the prescribed amount of contribution payable to him under subsection (1); and
+[33/2014]
 
-(b) to every member of the Edusave Pupils Fund interest at the rate referred to in subsection (4) at such intervals and on the amount standing to his credit in his Edusave account to be paid out of the income of that Fund at such time as the Board may determine.
+(2) The Edusave Scheme Administrator must also cause to be paid out of the income of the Edusave Pupils Fund to the Edusave account of each member of that Fund, at intervals determined by the Edusave Scheme Administrator, interest at the rate referred to in subsection (6) on the amount standing to the member’s credit in the member’s Edusave account.
 
-[52/2007]
+[33/2014]
 
-(3) The Board shall, as far as practicable, credit the prescribed amount of contribution payable to an eligible member of the Edusave Pupils Fund under subsection (1) to the Edusave account of that member on or before 31st January of each year, commencing from the year 1993.
+(3) The amount of contribution that a member of the Edusave Pupils Fund is eligible to receive under subsection (1) in a year is as follows:
 
-[52/2007]
+(a) for an individual who becomes such a member for the first time under section 8(1), the amount prescribed for the member (or the class to which the member belongs) on the date the individual first becomes a member;
 
-(4) Interest shall be payable on the amount standing to the credit of every member of the Edusave Pupils Fund in his Edusave account at such rate per annum as the Minister may from time to time determine.
+(b) for any other member, the amount prescribed for the member (or the class to which the member belongs) on the qualifying date in the year prescribed for that member (or the class to which that member belongs).
 
-[52/2007]
+[33/2014]
 
-(5) For the purposes of this section, the ‘‘prescribed amount of contribution’’ in respect of the year 1993 and every subsequent year is such amount as the Minister may, by order published in the Gazette, from time to time prescribe.
+(4) Unless the member dies, the amount of contribution that a member of the Edusave Pupils Fund is eligible to receive under subsection (1) in a year must be paid —
 
-8 CAP. 87A Savings Schemes 2009 Ed.
+(a) not later than 31 January in that year in the case of a member mentioned in subsection (1)(a);
 
-(6) In this section —
+(b) not later than 30 April in that year in the case of a member mentioned in subsection (1)(b); or
 
-‘‘eligible member of the Edusave Pupils Fund’’ means any member of that Fund who is eligible for the payment of the prescribed amount of contribution under subsection (1);
+(c) despite paragraphs (a) and (b), as soon as practicable after the date the individual first becomes a member of the Edusave Pupils Fund in the case of a member mentioned in subsection (3)(a).
 
-‘‘prescribed school’’ means —
+[33/2014]
 
-(a) an institution for providing full-time primary or secondary education, being —
+(5) Where a member of the Edusave Pupils Fund belongs to 2 or more classes on the qualifying date prescribed for any year, the Edusave Scheme Administrator may, for the purposes of this section, determine that the member belongs for that year to the class the Edusave Scheme Administrator considers appropriate; and the Edusave Scheme Administrator’s decision is final.
 
-(i) a school organised and conducted directly by the Government;
+[33/2014]
 
-(ii) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act (Cap. 284A); or
+(6) Interest is payable on the amount standing to the credit of every member of the Edusave Pupils Fund in his or her Edusave account at such rate per annum as the Minister may from time to time determine.
 
-(iii) a school which —
+(7) The Minister may, by order in the Gazette, prescribe for each year —
 
-(A) is established by any person other than the Government; and
+(a) different amounts of contributions for different members or different classes of members of the Edusave Pupils Fund; and
 
-(B) is conducted by a committee of management which is in receipt of a grant-in-aid from the Government for the defraying of the expenses incurred for conducting the school; or
+(b) different qualifying dates in the year for different members or different classes of members of the Edusave Pupils Fund for the purposes of subsection (3)(b).
 
-(b) such other educational institution as may be prescribed.
-
-[52/2007]
+[33/2014]
