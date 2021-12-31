@@ -1,11 +1,19 @@
-# 10. Jurisdiction and procedure
+# 10. Procedure
 
-(1) The court having jurisdiction to make adoption orders under this Act shall be the High Court including the Registrar thereof or, at the option of the applicant but subject to any rules made under this section, a District Court.
+(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —
 
-[9/72]
+(a) to prescribe any matter which may be prescribed under this Act;
 
-(2) Rules in regard to any matter to be prescribed under this Act and directing the manner in which applications to the court are to be made and dealing generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act into effect shall be made under section 80 of the Supreme Court of Judicature Act (Cap. 322); and such rules may provide that all applications made under this Act be heard and determined otherwise than in open court.
+(b) to provide for the manner in which any application to the court is to be made, heard and determined; and
 
-(3) For the purpose of any application under this Act and subject to any rules made under this section, the court shall appoint some person or body to act as a guardian in adoption of the infant upon the hearing of the application with the duty of safeguarding the interests of the infant before the court.
+(c) to provide for all matters of procedure and incidental matters under this Act.
 
-[42/2005]
+[27/2014]
+
+(2) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+[27/2014]
+
+(3) For the purpose of any application under this Act and subject to the Family Justice Rules, the court shall appoint some person or body to act as a guardian in adoption of the infant upon the hearing of the application with the duty of safeguarding the interests of the infant before the court.
+
+[27/2014]

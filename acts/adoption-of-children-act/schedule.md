@@ -6,15 +6,15 @@ ADOPTION OF CHILDREN
 
 Full name before adoption Full name conferred by Adoption Order
 
-Sex Date of birth Day Month Year Place of birth Birth Register No./ Entry No. of Previous Adoption
+Sex Date of Day Month Year Place of birth Birth Register No./ birth Entry No. of Previous Adoption
 
-Name of Father Citizenship of Father Singapore NRIC. No.
+Name of Father Citizenship of Father Singapore at the time of the child’s NRIC. No.
 
-at the time of the child's birth
+birth
 
-Name of Mother Citizenship of Mother Singapore NRIC. No.
+Name of Mother Citizenship of Mother Singapore at the time of the child’s NRIC. No.
 
-at the time of the child's birth
+birth
 
 Name and Surname Date of birth Country of birth
 
@@ -30,4 +30,6 @@ Occupation Address
 
 Date of Adoption Order
 
-Description of Court by which made In the case of adoption by a single adopter, whether adopter wishes his or her name to appear as adoptive father or adoptive mother on the child's new birth certificate
+Description of Court by which made
+
+In the case of adoption by a single adopter, whether adopter wishes his or her name to appear as adoptive father or adoptive mother on the child’s new birth certificate

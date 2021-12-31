@@ -24,15 +24,11 @@
 
 (4) For the purposes of this section, “disposition” means an assurance of any interest in property by any instrument whether inter vivos or by will including codicil.
 
-(5) For the purposes of section 11 or 11A of the Civil Law Act (Cap. 43), a person shall be deemed to be the parent or child of the person deceased notwithstanding that he was only related to him in consequence of adoption; and accordingly in deducing any relationship which under the provisions of that section is included within the meaning of the expressions “parent” and “child” an adopted child shall be treated as being, or as having been, the legitimate offspring of his adopter.
-
-[11/87]
+(5) For the purposes of section 20 or 21 of the Civil Law Act 1909, a person shall be deemed to be the parent or child of the person deceased notwithstanding that he was only related to him in consequence of adoption; and accordingly in deducing any relationship which under the provisions of that section is included within the meaning of the expressions “parent” and “child” an adopted child shall be treated as being, or as having been, the legitimate offspring of his adopter.
 
 (6) Notwithstanding anything in this section, trustees or personal representatives —
 
-(a) may convey or distribute any movable or immovable property to or among the persons entitled thereto without having ascertained that no adoption order has been made by virtue of which any person is or may be entitled to any interest therein;
-
-and
+(a) may convey or distribute any movable or immovable property to or among the persons entitled thereto without having ascertained that no adoption order has been made by virtue of which any person is or may be entitled to any interest therein; and
 
 (b) shall not be liable to any such person of whose claim they have not had notice at the time of the conveyance or distribution, but nothing in this subsection shall prejudice the right of any such person to follow the property, or any property representing it, into the hands of any person, other than a purchaser, who may have received it.
 
@@ -41,5 +37,3 @@ and
 (8) For the purpose of the law relating to marriage, an adopter and the person whom he has been authorised to adopt under an adoption order and all children and adopted children of the adopter shall be deemed to be within the prohibited degrees of consanguinity; and this subsection shall continue to have effect notwithstanding that some person other than the adopter is authorised by a subsequent order to adopt the same infant.
 
 (9) An adoption order shall not by itself affect the citizenship of the adopted child.
-
-[9/72]

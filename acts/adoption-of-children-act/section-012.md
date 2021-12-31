@@ -24,9 +24,7 @@
 
 (k) the date of the adoption order and a description of the court by which it was made;
 
-(l) such other particulars as may be required by the Registrar- General.
-
-[9/72]
+(l) such other particulars as may be required by the Registrar-General.
 
 (2) Where —
 
@@ -42,18 +40,12 @@
 
 (6) No person shall be permitted to inspect any such original or former entry, or to take a copy of such original or former entry unless that person has certified, and the Registrar-General is satisfied, that the particulars recorded in the original or former entry are material for the purpose for which the inspection is required.
 
-(7) Where on 15th May 1972 an adoption order has already been made in respect of an infant, the Registrar-General shall upon application being made by either of the adopting parents, or in the event of both adopting parents being dead, by the adopted child register particulars as to the birth of the child in accordance with subsection (3) and upon registration, subsection (5) shall apply to any copy of an entry as to the birth of the adopted child.
-
-[9/72]
+(7) Where on 15 May 1972 an adoption order has already been made in respect of an infant, the Registrar-General shall upon application being made by either of the adopting parents, or in the event of both adopting parents being dead, by the adopted child register particulars as to the birth of the child in accordance with subsection (3) and upon registration, subsection (5) shall apply to any copy of an entry as to the birth of the adopted child.
 
 (8) The copy of the entry as to the birth of the child supplied by the Registrar-General under subsection (5) shall have the same effect in law as a copy of any entry as to the birth of a child who is not adopted.
 
-(9) Rules made by the Minister under the Registration of Births and Deaths Act (Cap. 267) may make provision as to the duties to be performed by Registrars, Supervising Deputy Registrars and Deputy Registrars in the administration of this Act.
+(9) Rules made by the Minister under the Registration of Births and Deaths Act 1937 may make provision as to the duties to be performed by Registrars, Supervising Deputy Registrars and Deputy Registrars in the administration of this Act.
 
-(10) The Adopted Children Register maintained under section 11 repealed by the Adoption of Children (Amendment) Act 1972 (Act 9 of 1972) shall cease to be maintained and no extracts therefrom shall be issued except by an order of court.
-
-[9/72]
+(10) The Adopted Children Register maintained under section 11 repealed by the Adoption of Children (Amendment) Act 1972 shall cease to be maintained and no extracts therefrom shall be issued except by an order of court.
 
 (11) The Registrar-General shall keep such other registers and books, and make such entries therein as may be necessary to record and make traceable the connection between any entry in the Adopted Children Register previously maintained under section 11 repealed by the Adoption of Children (Amendment) Act 1972 and any entry in the registers of births made pursuant to this section, but the registers and books kept under this subsection shall not be, nor shall any index thereof be, open to public inspection or search nor except under an order of court shall the Registrar furnish any person with any information contained in or with any copy or extract from any such registers or books.
-
-[9/72]

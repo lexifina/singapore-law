@@ -2,7 +2,7 @@
 
 In this Act, unless the context otherwise requires —
 
-“court” includes a judge;
+“court” means the General Division of the High Court or a Family Court;
 
 “father”, in relation to an illegitimate infant, means the natural father;
 
@@ -12,4 +12,4 @@ In this Act, unless the context otherwise requires —
 
 “Registrar”, in relation to any court, means the Registrar of that court.
 
-[9/72]
+[27/2014; 40/2019]

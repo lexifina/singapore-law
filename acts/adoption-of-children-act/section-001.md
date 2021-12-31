@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Adoption of Children Act.
+This Act is the Adoption of Children Act 1939.
