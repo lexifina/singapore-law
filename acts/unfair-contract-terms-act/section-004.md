@@ -1,0 +1,12 @@
+# 4. Unreasonable indemnity clauses Liability arising from sale or supply of goods
+Part: PART 1 Introductory
+
+(1) A person dealing as consumer cannot by reference to any contract term be made to indemnify another person (whether a party to the contract or not) in respect of liability that may be incurred by the other for negligence or breach of contract, except in so far as the contract term satisfies the requirement of reasonableness.
+
+(2) This section applies whether the liability in question —
+
+(a) is directly that of the person to be indemnified or is incurred by him vicariously;
+
+(b) is to the person dealing as consumer or to someone else.
+
+Liability arising from sale or supply of goods

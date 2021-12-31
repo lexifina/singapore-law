@@ -1,0 +1,12 @@
+# 13. Varieties of exemption clause
+Part: PART 1 Introductory
+
+(1) To the extent that this Part prevents the exclusion or restriction of any liability it also prevents —
+
+(a) making the liability or its enforcement subject to restrictive or onerous conditions;
+
+(b) excluding or restricting any right or remedy in respect of the liability, or subjecting a person to any prejudice in consequence of his pursuing any such right or remedy;
+
+(c) excluding or restricting rules of evidence or procedure, and (to that extent) sections 2 and 5 to 7 also prevent excluding or restricting liability by reference to terms and notices which exclude or restrict the relevant obligation or duty.
+
+(2) But an agreement in writing to submit present or future differences to arbitration is not to be treated under this Part as excluding or restricting any liability.
