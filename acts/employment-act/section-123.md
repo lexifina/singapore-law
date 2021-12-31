@@ -1,4 +1,6 @@
-# 123. [Repealed]
-Part: PART XV CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
+# 123. No division of claims
+Part: PART 15 CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
 
-[Repealed by Act 32 of 2008]
+No claim is to be divided and pursued in separate proceedings before the Commissioner for the sole purpose of bringing the sum claimed in each of such proceedings within the jurisdiction of this Act.
+
+[26/2013]

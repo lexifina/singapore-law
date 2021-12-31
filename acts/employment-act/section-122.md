@@ -1,4 +1,4 @@
 # 122. Jurisdiction of courts not affected
-Part: PART XV CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
+Part: PART 15 CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
 
-Nothing in this Part shall limit or affect the jurisdiction of any court.
+Nothing in this Part limits or affects the jurisdiction of any court.

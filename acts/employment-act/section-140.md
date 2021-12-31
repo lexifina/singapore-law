@@ -1,8 +1,10 @@
-# 140. Power to amend First and Second Schedules
-Part: PART XVI PROCEDURE AND REGULATIONS
+# 140. Amendment of Schedules
+Part: PART 16 PROCEDURE AND REGULATIONS
 
-The Minister may, from time to time by notification in
+(1) The Minister may, by order in the Gazette, amend any of the Schedules.
 
-the Gazette, add to or amend the First or Second Schedule.
+[55/2018]
 
-[36/95]
+(2) The Minister may, in an order under subsection (1), make such provisions of a saving or transitional nature consequent to the enactment of that order as the Minister may consider necessary or expedient.
+
+[55/2018]

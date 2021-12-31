@@ -1,34 +1,68 @@
-# 14. Misconduct of employee
-Part: PART II CONTRACTS OF SERVICE
+# 14. Dismissal
+Part: PART 2 CONTRACTS OF SERVICE
 
-(1) An employer may after due inquiry dismiss without notice an employee employed by him on the grounds of misconduct inconsistent with the fulfilment of the express or implied conditions of his service except that instead of dismissing an employee an employer may —
+(1) An employer may after due inquiry dismiss without notice an employee employed by the employer on the grounds of misconduct inconsistent with the fulfilment of the express or implied conditions of the employee’s service, except that instead of dismissing an employee an employer may —
 
 (a) instantly down-grade the employee; or
 
-(b) instantly suspend him from work without payment of salary for a period not exceeding one week.
+(b) instantly suspend the employee from work without payment of salary for a period not exceeding one week.
 
-(2) Notwithstanding subsection (1), where an employee considers that he has been dismissed without just cause or excuse by his employer, he may, within one month of the dismissal, make represen- tations in writing to the Minister to be reinstated in his former employment.
+[26/2013]
 
-(3) The Minister may, before making a decision on any such representations, by writing under his hand request the Commissioner to inquire into the dismissal and report whether in his opinion the dismissal is without just cause or excuse.
+(2) Despite subsection (1), but subject to section 3 of the Employment Claims Act 2016, where a relevant employee considers that he or she has been dismissed without just cause or excuse by his or her employer, the employee may lodge a claim, under section 13 of that Act, for either of the following remedies:
 
-(4) If, after considering the report made by the Commissioner under subsection (3), the Minister is satisfied that the employee has been dismissed without just cause or excuse, he may, notwithstanding any rule of law or agreement to the contrary —
+(a) reinstatement in the employee’s former employment;
 
-(a) direct the employer to reinstate the employee in his former employment and to pay the employee an amount that is equivalent to the wages that the employee would have earned had he not been dismissed by the employer; or
+(b) compensation.
 
-(b) direct the employer to pay such amount of wages as compensation as may be determined by the Minister, and the employer shall comply with the direction of the Minister.
+[55/2018]
 
-(5) The decision of the Minister on any representation made under this section shall be final and conclusive and shall not be challenged in any court.
+(2A) For the purposes of subsection (2), a relevant employee means —
 
-(6) Any direction of the Minister under subsection (4) shall operate as a bar to any action for damages by the employee in any court in respect of the wrongful dismissal.
+(a) an employee employed in a managerial or an executive position —
 
-(7) An employer who fails to comply with the direction of the Minister under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(i) who is dismissed with notice; or
 
-[32/2008]
+(ii) who is dismissed without notice but receives payment of any salary in lieu of notice, after having served that employer for at least 6 months in any position (whether or not a managerial or an executive position);
 
-(7A) Where any amount to be paid by an employer under subsection (4) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (7), the amount or so much thereof as remains unpaid shall be recoverable by the court as if it were a fine and the amount so recoverable shall be paid to the employee entitled to payment under the direction of the Minister.
+(b) an employee employed in a managerial or an executive position who is dismissed without notice and without salary in lieu of such notice; or
 
-[36/95]
+(c) an employee not employed in a managerial or an executive position.
 
-(8) For the purpose of an inquiry under subsection (1), the employer may suspend the employee from work for a period not exceeding one week but shall pay him not less than half his salary for such period.
+[26/2013; 55/2018]
 
-(9) If the inquiry does not disclose any misconduct on the part of the employee, the employer shall immediately restore to the employee the full amount of the salary so withheld.
+(3) If a Tribunal hearing the claim is satisfied that the employee has been dismissed without just cause or excuse, the Tribunal may, despite any rule of law or agreement to the contrary —
+
+(a) in a claim for reinstatement of the employee in his or her former employment, direct the employer —
+
+(i) to reinstate the employee in the employee’s former employment; and
+
+(ii) to pay the employee an amount equivalent to the wages that the employee would have earned, if the employee had not been dismissed; or
+
+(b) in a claim for compensation, direct the employer to pay, as compensation to the employee, an amount of wages determined by the Tribunal.
+
+[55/2018]
+
+(4) [Deleted by Act 55 of 2018]
+
+(5) [Deleted by Act 55 of 2018]
+
+(6) [Deleted by Act 55 of 2018]
+
+(7) [Deleted by Act 55 of 2018]
+
+(7A) [Deleted by Act 55 of 2018]
+
+(8) For the purposes of an inquiry under subsection (1), the employer —
+
+(a) may suspend the employee from work for —
+
+(i) a period not exceeding one week; or
+
+(ii) such longer period as the Commissioner may determine on an application by the employer; but
+
+(b) must pay the employee at least half the employee’s salary during the period the employee is suspended from work.
+
+[55/2018]
+
+(9) If the inquiry does not disclose any misconduct on the employee’s part, the employer must immediately restore to the employee the full amount of the salary so withheld.

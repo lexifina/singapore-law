@@ -1,12 +1,30 @@
-# 96. Record of workmen
-Part: PART XII REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
+# 96. Employers’ obligation in relation to pay slips
+Part: PART 12 REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
-Every employer of workmen shall keep at the place of employment so that it shall be readily accessible to the workmen there employed, a check-roll pay slip, working board, or other form of record on which, in respect of each salary period, in a form intelligible to the workmen, shall be shown —
+(1) Subject to subsection (2), an employer must give —
 
-(a) the basic rate of pay and allowances, whether by day, hour, piece task or otherwise of each workman;
+(a) to every employee of the employer a pay slip, within the time prescribed for giving pay slips, for all salary paid by the employer for the salary period or salary periods to which the pay slip relates; and
 
-(b) the amount earned, including overtime earnings by each workman; and
+(b) to every employee a pay slip for every sum paid by the employer under section 22 or 23.
 
-(c) the amount of any deductions made from the earnings of each workman.
+[27/2015]
 
-[36/95]
+(2) A pay slip given by an employer to an employee must be in the form prescribed (if prescribed) and must contain all the information prescribed.
+
+[27/2015]
+
+(3) The requirement to give a pay slip to an employee under this section is satisfied if an electronic record containing the prescribed information of a pay slip is provided in a manner that enables the information contained in the electronic record to be accessible and useable by the employee for subsequent reference.
+
+[27/2015]
+
+(4) An employer is taken to have failed to comply with subsection (1) if the pay slip given to an employee is incomplete or inaccurate, whether or not the employer knew that the pay slip is incomplete or inaccurate.
+
+[27/2015]
+
+(5) The Minister may, by order in the Gazette and subject to such conditions as are specified in the order, exempt from any provision in this section —
+
+(a) any class of employers specified in the order, in respect of all employees; or
+
+(b) all employers or any class of employers, in respect of any class of employees, specified in the order.
+
+[27/2015]

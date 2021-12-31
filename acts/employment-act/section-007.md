@@ -1,4 +1,4 @@
 # 7. [Repealed]
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
 [Repealed by Act 32 of 2008]

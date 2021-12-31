@@ -1,7 +1,7 @@
 # 72. Approved employment
-Part: PART VIII EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
+Part: PART 8 EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
-(1) Sections 68 and 69 shall not apply —
+(1) Sections 68 and 69 do not apply —
 
 (a) to the employment of children and young persons —
 
@@ -11,8 +11,4 @@ Part: PART VIII EMPLOYMENT OF CHILDREN AND YOUNG PERSONS
 
 (b) to the employment of young persons under any apprenticeship programme approved and supervised by the Institute of Technical Education, Singapore.
 
-[36/95]
-
-(2) For the purposes of this section, the Institute of Technical Education, Singapore means the Institute of Technical Education, Singapore established under the Institute of Technical Education Act (Cap. 141A).
-
-[36/95]
+(2) For the purposes of this section, the Institute of Technical Education, Singapore means the Institute of Technical Education, Singapore established under the Institute of Technical Education Act 1992.

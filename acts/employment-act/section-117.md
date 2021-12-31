@@ -1,6 +1,10 @@
 # 117. Right of appeal
-Part: PART XV CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
+Part: PART 15 CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
 
-Where any person interested is dissatisfied with the decision or order of the Commissioner, he may, within 14 days after the decision or order, file a memorandum of appeal therefrom in the High Court;
+(1) Where any person interested is dissatisfied with the decision or order of the Commissioner, the person may, within 14 days after the decision or order, appeal to the General Division of the High Court from the decision or order.
 
-for the purposes of any such appeal, the decision or order of the Commissioner shall be deemed to be a decision of a District Court.
+[2/2012; 40/2019]
+
+(2) The procedure governing any such appeal to the General Division of the High Court is as provided for in the Rules of Court.
+
+[2/2012; 40/2019]

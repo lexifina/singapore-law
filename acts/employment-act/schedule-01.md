@@ -18,4 +18,4 @@ WORKMEN
 
 (7) Train and bus inspectors.
 
-(8) All workmen employed on piece rates in the premises of the employer.
+(8) All workmen employed on piece rates in the employer’s premises.

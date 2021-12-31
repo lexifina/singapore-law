@@ -1,6 +1,56 @@
-# 113A. Offence by body corporate
-Part: PART XIV GENERAL
+# 113A. Offences by bodies corporate, etc.
+Part: PART 14 GENERAL
 
-Where an offence under this Act is committed by a body corporate, and it is proved to have been committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(1) Where an offence under this Act committed by a body corporate is proved —
 
-[36/95]
+(a) to have been committed with the consent or connivance of an officer of the body corporate; or
+
+(b) to be attributable to any neglect on the officer’s part, the officer as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[26/2013]
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his or her functions of management as if he or she were a director of the body corporate.
+
+[26/2013]
+
+(3) Where an offence under this Act committed by a partnership is proved —
+
+(a) to have been committed with the consent or connivance of a partner; or
+
+(b) to be attributable to any neglect on the partner’s part, the partner as well as the partnership shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[26/2013]
+
+(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved —
+
+(a) to have been committed with the consent or connivance of an officer of the unincorporated association or a member of its governing body; or
+
+(b) to be attributable to any neglect on the part of such an officer or member, the officer or member as well as the unincorporated association shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+[26/2013]
+
+(5) For the purposes of this section, where an offence under this Act has been committed by a body corporate, an unincorporated association (other than a partnership) or a partnership, it is presumed, until the contrary is proved, that the offence is attributable to the neglect of an officer or a member of the body corporate or unincorporated association or a partner of the partnership (as the case may be) who —
+
+(a) is primarily responsible for the act or omission which constitutes the offence; and
+
+(b) has failed to exercise reasonable supervision or oversight as such officer, member or partner.
+
+[26/2013]
+
+(6) In this section —
+
+“body corporate” includes a limited liability partnership registered under the Limited Liability Partnerships Act 2005;
+
+“officer” —
+
+(a) in relation to a body corporate, means any director, partner, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate and includes any person purporting to act in any such capacity; or
+
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, or any person holding a position analogous to that of president, secretary or member of such a committee and includes any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner.
+
+[26/2013]
+
+(7) The Minister may make regulations to provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to any body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+
+[26/2013]

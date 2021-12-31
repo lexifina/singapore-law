@@ -1,44 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-EMPLOYMENT ACT
-(CHAPTER 91)
-Act
-17 of 1968
-1970 Ed. Cap. 122
-Reprint 1981
-Amended by
-19 of 1971 1996 Ed.
-28 of 1972
-Amended by
-41 of 1973
-41 of 2004
-46 of 1975
-22 of 2007
-33 of 1980
-30 of 2007
-21 of 1984
-5 of 2008
-28 of 2008
-1985 Ed.
-32 of 2008
-Amended by
-7 of 2009
-21 of 1988
-S 324/80
-15 of 1995
-S 475/90
-36 of 1995
-S 669/2008
-REVISED EDITION 2009
-(31st July 2009)
+EMPLOYMENT ACT 1968
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2009
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act relating to employment.
 
-[15th August 1968]
+[15 August 1968]

@@ -1,147 +1,21 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY EMPLOYMENT ACT 1968
 
-EMPLOYMENT ACT (CHAPTER 91)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Employment Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 17 of 1968 — Employment Act 1968
+LEGISLATIVE HISTORY DETAILS PART 1 LABOUR ORDINANCE (CHAPTER 69, 1936 REVISED EDITION) 1. Ordinance I of 1882 — Labour Contracts Ordinance, 1882 Bill : G.N. No. 196/1881 First Reading : 18 October 1881 Second Reading : 22 November 1881 Notice of Amendments : 29 November 1881 Third Reading : 28 February 1882 Date of publication : 28 February 1882 Note: This Ordinance ceased the application of Indian Act XIII of 1859 and repealed section 429 of the Penal Code.
 
-Date of First Reading : 15 May 1968 (Bill No. 21/68 published on 18 May 1968)
+2. Ordinance III of 1883 — The Labour Contracts Amendment Ordinance, 1883 Bill : G.N. No. 161/1883 First Reading : 4 April 1883 Second and Third Readings : 17 April 1883 Commencement : 17 April 1883 3. Ordinance XXI of 1889 — The Labour Contracts Ordinance Amendment Ordinance 1889 Bill : G.N. No. 476/1889 First Reading : 31 October 1889 Second Reading : 12 December 1889 Notice of Amendments : 12 December 1889 Third Reading : 13 December 1889 Commencement : 13 December 1889 4. Ordinance VIII of 1891 — The Chinese Agricultural Labourers Protection Ordinance 1891 Bill : G.N. No. 514/1891 First Reading : 15 October 1891 Second Reading : 29 October 1891 Notice of Amendments : 30 October 1891 Third Reading : 5 November 1891 Commencement : 1 January 1893 5. Ordinance XVI of 1914 — The Labour Contracts Ordinance 1914 Bill : G.N. No. 485/1913 First Reading : 27 June 1913 Second Reading : 22 August 1913 Notice of Amendments : 13 March 1914 Third Reading : 27 March 1914 Commencement : 4 April 1914 6. Ordinance 19 of 1920 — Labour Ordinance, 1920 Bill : G.N. No. 392/1920 First Reading : 12 April 1920 Second Reading : 31 May 1920 Select Committee Report : Council Paper No. 23 of 1920 Third Reading : 3 September 1920 Commencement : 1 April 1921 7. Ordinance 14 of 1923 — Labour Ordinance, 1923 Bill : G.N. 819/1923 First Reading : 28 May 1923 Second Reading : 25 June 1923 Select Committee Report : Information not available Notice of Amendments : 30 July 1923 Third Reading : 30 July 1923 Commencement : 1 October 1923 8. 1926 Revised Edition — Ordinance No. 197 (Labour) Operation : 1 August 1926 9. Ordinance 34 of 1926 — The Labour (Amendment) Ordinance, 1926 Bill : G.N. No. 1754/1926 First Reading : 11 October 1926 Second Reading : 1 November 1926 Notice of Amendments : 13 December 1926 Third Reading : 13 December 1926 Commencement : 16 December 1926 10. Ordinance 18 of 1928 — Labour (Amendment) Ordinance, 1928 Bill : G.N. 1239/1928 First Reading : 2 July 1928 Second Reading : 27 August 1928 Notice of Amendments : 27 August 1928 Third Reading : 8 October 1928 Commencement : 22 October 1928 11. Ordinance 6 of 1930 — Labour (Amendment) Ordinance, 1930 Bill : G.N. No. 894/1930 First Reading : 12 May 1930 Second and Third Readings : 7 July 1930 Commencement : 1 August 1930 12. Ordinance 15 of 1932 — Labour (Amendment) Ordinance, 1932 Bill : G.N. No. 1311/1932 First Reading : 8 August 1932 Second and Third Readings : 19 October 1932 Commencement : 10 November 1932 13. Ordinance 33 of 1933 — Labour (Amendment) Ordinance, 1933 Bill : G.N. No. 1996/1933 First Reading : 25 October 1933 Second Reading : 4 December 1933 Notice of Amendments : 4 December 1933 Third Reading : 4 December 1933 Commencement : 14 December 1933 14. Ordinance 50 of 1935 — The Labour (Amendment) Ordinance, 1935 Bill : G.N. No. 2606/1935 First Reading : 28 October 1935 Second and Third Readings : 20 November 1935 Commencement : 2 December 1935 15. 1936 Revised Edition — Labour Ordinance (Chapter 69) Operation : 1 September 1936 16. Ordinance 63 of 1940 — Labour (Amendment) Ordinance, 1940 Bill : G.N. No. 3363/1940 First Reading : 14 October 1940 Second and Third Readings : 6 November 1940 Commencement : 30 November 1940 17. Ordinance 61 of 1941 — Labour (Amendment) Ordinance, 1941 Bill : G.N. No. 2437/1941 First Reading : 13 October 1941 Second and Third Readings : 5 November 1941 Commencement : 1 January 1941 18. Ordinance 21 of 1941 — Labour (Amendment) Ordinance, 1941 Bill : G.N. No. 452/1941 First Reading : 28 April 1941 Second and Third Readings : 9 June 1941 Commencement : 25 June 1941 19. Ordinance 10 of 1947 — Labour (Amendment) Ordinance, 1947 Bill : G.N. No. S 24/1947 First Reading : Information not available Second Reading : Information not available Third Reading : 20 February 1947 Commencement : 26 March 1947 20. Ordinance 8 of 1953 — Labour (Amendment) Ordinance, 1953 Bill : 37/1952 First Reading : 14 October 1952 Second Reading : 18 November 1952 Select Committee Report : Council Paper No. 9 of 1953 Third Reading : 17 March 1953 Commencement : 22 March 1953 21. Ordinance 24 of 1953 — Seats for Shop Assistants Ordinance, 1953 Bill : 14/1953 First Reading : 16 June 1953 Second and Third Readings : 21 July 1953 Commencement : 1 March 1954 22. G.N. No. S 265/1955 — Singapore Colony Order in Council, 1955 (Consequential Provisions) (Miscellaneous) Order, 1955 Commencement : 17 September 1955 23. 1955 Revised Edition — Seats for Shop Assistants Ordinance (Chapter 272) Operation : 1 July 1956
 
-Dates of Second and Third Readings : 10 July 1968 to 12 July 1968, 15 July 1968 and 31 July 1968
+PART 3 WEEKLY HOLIDAYS ORDINANCE (CHAPTER 156, 1955 REVISED EDITION) 24. Ordinance 4 of 1949 — Weekly Holidays Ordinance, 1949 Bill : G.N. No. S 287/1948 First Reading : 14 September 1948 Second Reading : 19 October 1948 Select Committee Report : Council Paper No. 75 of 1948 Third Reading : 15 February 1949 Commencement : 1 July 1950 25. Ordinance 47 of 1950 — Weekly Holidays (Amendment) Ordinance, 1950 Bill : G.N. S 562/1950 First, Second and Third : 19 December 1950 Readings Commencement : 22 December 1950 26. 1955 Revised Edition — Weekly Holidays Ordinance (Chapter 156) Operation : 1 July 1956
 
-Date of commencement : 15 August 1968
+PART 4 CLERKS EMPLOYMENT ORDINANCE, 1957 (ORDINANCE 14 OF 1957) 27. Ordinance 14 of 1957 — Clerks Employment Ordinance, 1957 Bill : 62/1956 First Reading : 5 September 1956 Second Reading : 3 October 1956 Select Committee Report : Sessional Paper No. L.A. 2 of 1957 Third Reading : 30 April 1957 Commencement : 1 August 1957
 
-2. 1970 Revised Edition — Employment Act (Chapter 122)
+PART 5 LABOUR ORDINANCE, 1955 (ORDINANCE 40 OF 1955) 28. Ordinance 40 of 1955 — Labour Ordinance, 1955 Bill : 3/1955 First Reading : 26 April 1955 Second Reading : 29 June 1955 Select Committee Report : Sessional Paper No. L.A. 12 of 1955 Notice of Amendments : 22 November 1955 Third Reading : 22 November 1955 Commencement : 1 December 1955 29. Ordinance 33 of 1957 — Labour (Amendment) Ordinance, 1957 Bill : 114/1957 First Reading : 21 August 1957 Second and Third Readings : 12 September 1957 Commencement : 30 September 1957 30. G.N. No. S 36/1958 — “The Labour Ordinance, 1955” Commencement : 14 February 1958 31. Ordinance 23 of 1958 — Indian Immigration Fund (Winding Up) Ordinance, 1958 (Amendments made by section 5 of the above Ordinance) Bill : 156/1958 First Reading : 11 June 1958 Second and Third Readings : 16 July 1958 Commencement : 1 September 1958 (section 5) PART 6 SHOP ASSISTANTS EMPLOYMENT ORDINANCE, 1957 (ORDINANCE 13 OF 1957) 32. Ordinance 13 of 1957 — Shop Assistants Employment Ordinance, 1957 Bill : 63/1956 First Reading : 5 September 1956 Second Reading : 4 October 1956 Select Committee Report : Sessional Paper No. L.A. 3 of 1957 Notice of Amendments : 30 April 1957 Third Reading : 30 April 1957 Commencement : 1 August 1957
 
-Date of Operation : 30 April 1971
+PART 7 EMPLOYMENT ACT 1968 (2020 REVISED EDITION) 33. Act 17 of 1968 — Employment Act, 1968 Bill : 21/1968 First Reading : 15 May 1968 Second Reading : 10 July 1968 Notice of Amendments : 31 July 1968 Commencement : 15 August 1968 34. 1970 Revised Edition — Employment Act (Chapter 122) Operation : 30 April 1971 35. Act 19 of 1971 — Employment (Amendment) Act, 1971 Bill : 11/1971 First Reading : 19 October 1971 Second Reading : 2 December 1971 Notice of Amendments : 2 December 1971 Third Reading : 2 December 1971 Commencement : 3 December 1971 36. Act 28 of 1972 — Employment (Amendment) Act, 1972 Bill : 28/1972 First Reading : 17 October 1972 Second and Third Readings : 3 November 1972 Commencement : 1 July 1972 37. Act 41 of 1973 — Employment (Amendment) Act, 1973 Bill : 20/1973 First Reading : 11 July 1973 Second and Third Readings : 25 July 1973 Commencement : 1 September 1973 38. Act 46 of 1975 — Employment (Amendment) Act, 1975 Bill : 43/1975 First Reading : 19 August 1975 Second Reading : 20 November 1975 Notice of Amendments : 20 November 1975 Third Reading : 20 November 1975 Commencement : 26 December 1975 (section 2) 2 January 1976 (except section 2) 39. Act 33 of 1980 — Employment (Amendment) Act, 1980 Bill : 21/1980 First Reading : 31 October 1980 Second and Third Readings : 28 November 1980 Commencement : 1 July 1980 40. G.N. No. S 324/1980 — Employment Act (Substitution of Second Schedule) Notification, 1980 Commencement : 1 December 1980 41. 1981 Reprint — Employment Act (Chapter 122) Reprint : 28 February 1981 42. Act 21 of 1984 — Employment (Amendment) Act 1984 Bill : 22/1984 First Reading : 29 June 1984 Second and Third Readings : 26 July 1984 Commencement : 7 January 1985 43. 1985 Revised Edition — Employment Act (Chapter 91) Operation : 30 March 1987 44. Act 21 of 1988 — Employment (Amendment) Act 1988 Bill : 18/1988 First Reading : 29 July 1988 Second and Third Readings : 11 August 1988 Commencement : 26 August 1988 45. G.N. No. S 475/1990 — Employment Act (Amendment of Second Schedule) Notification 1990 Commencement : 1 January 1991 46. Act 15 of 1995 — Bankruptcy Act 1995 (Amendments made by section 167(4) read with item (6) of the Second Schedule to the above Act) Bill : 16/1994 First Reading : 25 July 1994 Second Reading : 25 August 1994 Select Committee Report : Parl. 1 of 1995 Third Reading : 23 March 1995 Commencement : 15 July 1995 (section 167(4) read with item (6) of the Second Schedule) 47. Act 36 of 1995 — Employment (Amendment) Act 1995 Bill : 35/1995 First Reading : 27 September 1995 Second and Third Readings : 1 November 1995 Commencement : 1 March 1996 48. 1996 Revised Edition — Employment Act (Chapter 91) Operation : 30 April 1996 49. Act 41 of 2004 — Employment (Amendment) Act 2004 Bill : 40/2004 First Reading : 1 September 2004 Second and Third Readings : 21 September 2004 Commencement : 1 October 2004 50. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 (Amendments made by section 28 read with item (1) of the Schedule to the above Act) Bill : 17/2007 First Reading : 9 April 2007 Second and Third Readings : 22 May 2007 Commencement : 1 July 2007 (section 28 read with item (1) of the Schedule) 51. Act 22 of 2007 — Dentists (Amendment) Act 2007 (Amendments made by section 39 read with item (4) of the Schedule to the above Act) Bill : 9/2007 First Reading : 27 February 2007 Second and Third Readings : 12 April 2007 Commencement : 1 January 2008 (section 39 read with item (4) of the Schedule) 52. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2008 (Amendments made by section 40 read with item (5) of the Schedule to the above Act) Bill : 50/2007 First Reading : 12 November 2007 Second and Third Readings : 22 January 2008 Commencement : 1 April 2008 (section 40 read with item (5) of the Schedule) 53. Act 28 of 2008 — Children Development Co-Savings (Amendment) Act 2008 (Amendments made by section 21 of the above Act) Bill : 26/2008 First Reading : 15 September 2008 Second and Third Readings : 21 October 2008 Commencement : 31 October 2008 (section 21) 54. Act 32 of 2008 — Employment (Amendment) Act 2008 Bill : 34/2008 First Reading : 20 October 2008 Second and Third Readings : 18 November 2008 Commencement : 1 January 2009 55. G.N. No. S 669/2008 — Employment Act (Amendment of First Schedule) Notification 2008 Commencement : 1 January 2009 56. Act 7 of 2009 — Civil Law (Amendment) Act 2009 (Amendments made by section 7 read with item (4) of the Schedule to the above Act) Bill : 38/2008 First Reading : 17 November 2008 Second and Third Readings : 19 January 2009 Commencement : 1 March 2009 (section 7 read with item (4) of the Schedule) 57. 2009 Revised Edition — Employment Act (Chapter 91) Operation : 31 July 2009 58. Act 4 of 2010 — Statutes (Miscellaneous Amendments) Act 2010 (Amendments made by section 14 of the above Act) Bill : 26/2009 First Reading : 23 November 2009 Second and Third Readings : 12 January 2010 Commencement : 5 February 2010 (section 14) 59. Act 36 of 2010 — Industrial Relations (Amendment) Act 2010 (Amendments made by section 6 of the above Act) Bill : 31/2010 First Reading : 18 October 2010 Second and Third Readings : 22 November 2010 Commencement : 1 February 2011 (section 6) 60. Act 2 of 2012 — Statutes (Miscellaneous Amendments) Act 2012 (Amendments made by section 2 of the above Act) Bill : 22/2011 First Reading : 21 November 2011 Second Reading : 18 January 2012 Notice of Amendments : 18 January 2012 Third Reading : 18 January 2012 Commencement : 1 March 2012 (section 2) 61. Act 12 of 2013 — Child Development Co-Savings (Amendment) Act 2013 (Amendments made by section 21 of the above Act) Bill : 10/2013 First Reading : 15 March 2013 Second Reading : 8 April 2013 Notice of Amendments : 8 April 2013 Third Reading : 8 April 2013 Commencement : 1 May 2013 (section 21) 62. Act 6 of 2014 — Merchant Shipping (Maritime Labour Convention) Act 2014 (Amendments made by section 83 of the above Act) Bill : 27/2013 First Reading : 11 November 2013 Second and Third Readings : 21 January 2014 Commencement : 1 April 2014 (section 83) 63. Act 26 of 2013 — Employment, Parental Leave and Other Measures Act 2013 (Amendments made by section 2 of the above Act) Bill : 21/2013 First Reading : 21 October 2013 Second and Third Readings : 12 November 2013 Commencement : 1 April 2014 (section 2 except section 2(14)(c) and (15)) 1 April 2015 (section 2(15)) 64. Act 27 of 2014 — Family Justice Act 2014 (Amendments made by section 56 of the above Act) Bill : 21/2014 First Reading : 8 July 2014 Second Reading : 4 August 2014 Notice of Amendments : 4 August 2014 Third Reading : 4 August 2014 Commencement : 1 October 2014 (section 56) 65. Act 5 of 2015 — Liquor Control (Supply and Consumption) Act 2015 (Amendments made by section 38(3) of the above Act) Bill : 1/2015 First Reading : 19 January 2015 Second and Third Readings : 30 January 2015 Commencement : 1 April 2015 (section 38(3)) 66. Act 27 of 2015 — Employment (Amendment) Act 2015 Bill : 23/2015 First Reading : 13 July 2015 Second and Third Readings : 17 August 2015 Commencement : 22 August 2015 (except sections 2(b), 9, 10, 11(a), 13, 14, 15(a) and 17) 1 April 2016 (sections 2(b), 9, 10, 11(a), 13, 14, 15(a) and 17) 67. Act 21 of 2016 — Employment Claims Act 2016 (Amendments made by section 38 of the above Act) Bill : 20/2016 First Reading : 11 July 2016 Second and Third Readings : 16 August 2016 Commencement : 1 April 2017 (section 38) 68. Act 55 of 2018 — Employment (Amendment) Act 2018 Bill : 47/2018 First Reading : 2 October 2018 Second Reading : 20 November 2018 Notice of Amendments : 20 November 2018 Third Reading : 20 November 2018 Commencement : 1 April 2019 69. Act 30 of 2019 — Children and Young Persons (Amendment) Act 2019 (Amendments made by section 63 of the above Act) Bill : 22/2019 First Reading : 5 August 2019 Second and Third Readings : 4 September 2019 Commencement : 1 July 2020 (section 63) 70. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 474 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 474) 71. Act 27 of 2019 — Work Injury Compensation Act 2019 (Amendments made by section 83(1) of the above Act) Bill : 21/2019 First Reading : 5 August 2019 Second and Third Readings : 3 September 2019 Commencement : 1 September 2020 (section 83(1)) 72. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 46 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 46 of the Schedule) 73. Act 19 of 2021 — Child Development Co-Savings (Amendment) Act 2021 (Amendments made by section 39 of the above Act) Bill : 15/2021 First Reading : 5 July 2021 Second and Third Readings : 2 August 2021 Commencement : 1 November 2021 (section 39(1) and (3))
 
-3. Act 19 of 1971 — Employment (Amendment) Act 1971
+Abbreviations
 
-Date of First Reading : 19 October 1971 (Bill No. 11/71 published on 22 October 1971)
-
-Date of Second and Third Readings : 2 December 1971
-
-Date of commencement : 3 December 1971
-
-4. Act 28 of 1972 — Employment (Amendment) Act 1972
-
-Date of First Reading : 17 October 1972 (Bill No. 28/72 published on 19 October 1972)
-
-Date of Second and Third Readings : 3 November 1972
-
-Date of commencement : 1 July 1972
-
-5. Act 41 of 1973 — Employment (Amendment) Act 1973
-
-Date of First Reading : 11 July 1973 (Bill No. 20/73 published on 13 July 1973)
-
-Date of Second and Third Readings : 25 July 1973
-
-Date of commencement : 1 September 1973 6. Act 46 of 1975 — Employment (Amendment) Act 1975
-
-Date of First Reading : 19 August 1975 (Bill No. 43/75 published on 22 August 1975)
-
-Date of Second and Third Readings : 20 November 1975
-
-Dates of commencement : 26 December 1975 (section 2) 2 January 1976 (except section 2)
-
-7. Act 33 of 1980 — Employment (Amendment) Act 1980
-
-Date of First Reading : 31 October 1980 (Bill No. 21/80 published on 7 November 1980)
-
-Date of Second and Third Readings : 28 November 1980
-
-Date of commencement : 1 July 1980
-
-8. 1981 Reprint Edition — Employment Act (Chapter 122)
-
-Date of Operation : 28 February 1981
-
-9. Act 21 of 1984 — Employment (Amendment) Act 1984
-
-Date of First Reading : 29 June 1984 (Bill No. 22/84 published on 9 July 1984)
-
-Date of Second and Third Readings : 26 July 1984
-
-Date of commencement : 7 January 1985
-
-10. 1985 Revised Edition — Employment Act (Chapter 91)
-
-Date of Operation : 30 March 1987
-
-11. Act 21 of 1988 — Employment (Amendment) Act 1988
-
-Date of First Reading : 29 July 1988 (Bill No. 18/88 published on 1 August 1988)
-
-Date of Second and Third Readings : 11 August 1988
-
-Date of commencement : 26 August 1988 12. Act 15 of 1995 — Bankruptcy Act 1995 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 July 1994 (Bill No. 16/94 published on 29 July 1994)
-
-Date of Second Reading : 25 August 1994
-
-Referred to Select Committee : Parl 1 of 1995 presented to Parliament on 7 March 1995
-
-Date of Third Reading : 23 March 1995
-
-Date of commencement : 15 July 1995
-
-13. Act 36 of 1995 — Employment (Amendment) Act 1995
-
-Date of First Reading : 27 September 1995 (Bill No. 35/95 published on 28 September 1995)
-
-Date of Second and Third Readings : 1 November 1995
-
-Date of commencement : 1 March 1996
-
-14. 1996 Revised Edition — Employment Act (Chapter 91)
-
-Date of Operation : 30 April 1996
-
-15. Act 41 of 2004 — Employment (Amendment) Act 2004
-
-Date of First Reading : 1 September 2004 (Bill No. 40/2004 published on 2 September 2004)
-
-Date of Second and Third Readings : 21 September 2004
-
-Date of commencement : 1 October 2004
-
-16. Act 22 of 2007 — Dentists (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 27 February 2007 (Bill No. 9/2007 published on 27 February 2007)
-
-Date of Second and Third Readings : 12 April 2007
-
-Date of commencement : 1 January 2008 17. Act 30 of 2007 — Employment of Foreign Workers (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 9 April 2007 (Bill No. 17/2007 published on 10 April 2007)
-
-Date of Second and Third Readings : 22 May 2007
-
-Date of commencement : 1 July 2007
-
-18. Act 5 of 2008 — Workmen’s Compensation (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 12 November 2007 (Bill No. 50/2007 published on 13 November 2007)
-
-Date of Second and Third Readings : 22 January 2008
-
-Date of commencement : 1 April 2008
-
-19. Act 28 of 2008 — Children Development Co-Savings (Amendment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 15 September 2008 (Bill No. 26/2008 published on 16 September 2008)
-
-Date of Second and Third Readings : 21 October 2008
-
-Date of commencement : 31 October 2008
-
-20. Act 32 of 2008 — Employment (Amendment) Act 2008
-
-Date of First Reading : 20 October 2008 (Bill No. 34/2008 published on 20 October 2008)
-
-Date of Second and Third Readings : 18 November 2008
-
-Date of commencement : 1 January 2009
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

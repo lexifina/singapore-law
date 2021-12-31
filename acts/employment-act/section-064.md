@@ -1,4 +1,4 @@
-# 64. Limitations on application of Part V
-Part: PART V TRUCK SYSTEM
+# 64. Limitations on application of this Part
+Part: PART 5 TRUCK SYSTEM
 
-Nothing in this Part shall be held to apply to any body of persons working on an agreement of co-operation.
+Nothing in this Part applies to any body of persons working on an agreement of cooperation.

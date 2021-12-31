@@ -1,4 +1,4 @@
 # 4. Rules and orders
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-The Minister may from time to time make rules and orders for the conduct of the duties of officers under this Act.
+The Minister may make rules and orders for the conduct of the duties of officers under this Act.
