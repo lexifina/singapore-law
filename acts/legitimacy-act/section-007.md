@@ -1,0 +1,3 @@
+# 7. Application to illegitimate person dying before marriage of parents
+
+Where an illegitimate person dies on or after 18 May 1934 and before the marriage of his parents leaving any spouse, children or remoter issue living at the date of the marriage, then if that person would, if living at the time of the marriage of his parents, have become a legitimated person, the provisions of this Act with respect to the taking of interests in property by, or in succession to, the spouse, children and remoter issue of a legitimated person shall apply as if that person had been a legitimated person and the date of the marriage of his parents had been the date of legitimation.
