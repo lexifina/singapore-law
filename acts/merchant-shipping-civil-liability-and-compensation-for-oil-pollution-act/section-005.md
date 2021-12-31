@@ -1,5 +1,5 @@
 # 5. Restriction of liability for oil pollution
-Part: PART II CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
+Part: PART 2 CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
 
 (1) Where, as a result of any occurrence —
 
@@ -7,29 +7,27 @@ Part: PART II CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
 
 (b) there arises a relevant threat of contamination, then, whether or not the owner of the ship in question incurs a liability under section 3 —
 
-(i) he shall not be liable otherwise than under that section for any damage or cost referred to in that section; and
+(c) the owner shall not be liable otherwise than under that section for any damage or cost mentioned in that section;
 
-(ii) no person to whom this paragraph applies shall be liable for any such damage or cost unless it resulted from anything done or omitted to be done by him either with intent to cause any such damage or cost or recklessly and in the knowledge that any such damage or cost would probably result.
+and
 
-(2) Subsection (1) (ii) shall apply to —
+(d) no person to whom this paragraph applies shall be liable for any such damage or cost unless it resulted from anything done or omitted to be done by the person either with intent to cause any such damage or cost or recklessly and in the knowledge that any such damage or cost would probably result.
+
+(2) Subsection (1)(d) applies to —
 
 (a) any servant or agent of the owner of the ship;
 
 (b) any person not falling within paragraph (a) but employed or engaged in any capacity on board the ship or to perform any service for the ship;
 
-8 CAP. 180 and Compensation for Oil Pollution) 1999 Ed.
-
 (c) any charterer of the ship (however described and including a bareboat charterer), and any manager or operator of the ship;
 
 (d) any person performing salvage operations with the consent of the owner of the ship or on the instructions of a competent public authority;
 
-(e) any person taking any of the measures referred to in section 3 (1) (b) or (2) (a); and
+(e) any person taking any of the measures mentioned in section 3(1)(b) or (2)(a); and
 
-(f) any servant or agent of a person falling within paragraph (c),
+(f) any servant or agent of a person falling within paragraph (c), (d) or (e).
 
-(d) or (e).
-
-(3) The liability of the owner of a ship under section 3 for any impairment of the environment shall be taken to be a liability only in respect of —
+(3) The liability of the owner of a ship under section 3 for any impairment of the environment is taken to be a liability only in respect of —
 
 (a) any resulting loss of profits; and
 

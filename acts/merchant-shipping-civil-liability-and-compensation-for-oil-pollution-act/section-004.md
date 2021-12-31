@@ -1,7 +1,7 @@
 # 4. Exceptions from liability under section 3
-Part: PART II CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
+Part: PART 2 CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
 
-No liability shall be incurred by the owner of a ship under section 3 by reason of any discharge or escape of oil from the ship, or by reason of any relevant threat of contamination, if he proves that the discharge or escape, or the relevant threat of contamination, as the case may be —
+No liability shall be incurred by the owner of a ship under section 3 by reason of any discharge or escape of oil from the ship, or by reason of any relevant threat of contamination, if the owner proves that the discharge or escape, or the relevant threat of contamination, as the case may be —
 
 (a) resulted from an act of war, hostilities, civil war, insurrection or an exceptional, inevitable and irresistible natural phenomenon;
 

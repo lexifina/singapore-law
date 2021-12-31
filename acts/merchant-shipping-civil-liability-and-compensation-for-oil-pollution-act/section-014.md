@@ -1,9 +1,9 @@
 # 14. Issue of certificates
-Part: PART II CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
+Part: PART 2 CIVIL LIABILITY FOR OIL POLLUTION Division 1 — Liability
 Division: Division 2 — Compulsory Insurance
 
-(1) Subject to subsection (2), if the Director is satisfied, on an application for a certificate referred to in section 13 in respect of a Singapore ship or a ship registered in any country which is not a Liability Convention country, that there will be in force in respect of the ship, throughout the period for which the certificate is to be issued, a contract of insurance or other security satisfying the requirements of Article VII of the Liability Convention, the Director may issue such a certificate to the owner.
+(1) Subject to subsection (2), if the Director is satisfied, on an application for a certificate mentioned in section 13 in respect of a Singapore ship or a ship registered in any country which is not a Liability Convention country, that there will be in force in respect of the ship, throughout the period for which the certificate is to be issued, a contract of insurance or other security satisfying the requirements of Article VII of the Liability Convention, the Director may issue such a certificate to the owner.
 
-(2) If the Director is of the opinion that there is a doubt whether the person providing the insurance or other security will be able to meet his obligations thereunder, or whether the insurance or other security will cover the owner’s liability under section 3 in all circum- stances, the Director may refuse to issue the certificate.
+(2) If the Director is of the opinion that there is a doubt whether the person providing the insurance or other security will be able to meet the person’s obligations thereunder, or whether the insurance or other security will cover the owner’s liability under section 3 in all circumstances, the Director may refuse to issue the certificate.
 
-(3) The Director shall maintain a record of any certificate issued by him under this section in respect of a Singapore ship which shall be available for public inspection.
+(3) The Director must maintain a record of any certificate issued under this section in respect of a Singapore ship which must be available for public inspection.

@@ -1,5 +1,5 @@
 # 24. Legal capacity of Fund
-Part: PART III INTERNATIONAL OIL POLLUTION COMPENSATION FUND
+Part: PART 3 INTERNATIONAL OIL POLLUTION COMPENSATION FUND
 
 (1) For the purposes of the rights and obligations of this Part, the Fund has the capacity, rights and obligations of an actual person and, in particular, may sue and be sued.
 

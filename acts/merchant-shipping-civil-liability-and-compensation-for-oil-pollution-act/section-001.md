@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act.
+This Act is the Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998.

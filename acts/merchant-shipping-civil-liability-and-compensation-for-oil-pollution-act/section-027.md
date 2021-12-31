@@ -1,5 +1,5 @@
 # 27. Liability of Fund
-Part: PART III INTERNATIONAL OIL POLLUTION COMPENSATION FUND
+Part: PART 3 INTERNATIONAL OIL POLLUTION COMPENSATION FUND
 
 (1) The Fund shall be liable for pollution damage in the territory of Singapore if the person suffering the damage has been unable to obtain full compensation under section 3 —
 
@@ -11,19 +11,19 @@ Part: PART III INTERNATIONAL OIL POLLUTION COMPENSATION FUND
 
 (iii) was due wholly to the negligence or wrongful act of a government or other authority in exercising its function of maintaining lights or other navigational aids for the maintenance of which it was responsible, (and because liability is accordingly wholly displaced by section 4);
 
-(b) because the owner or insurer liable for the damage cannot meet his obligations in full; or
+(b) because the owner or insurer liable for the damage cannot meet the owner’s or insurer’s obligations in full; or
 
-(c) because the damage exceeds the liability under section 3 as limited by section 6 or by section 136 of the Merchant Shipping Act (Cap. 179), as the case may be.
+(c) because the damage exceeds the liability under section 3 as limited by section 6 or by section 136 of the Merchant Shipping Act 1995, as the case may be.
 
-(2) Subsection (1) shall apply with the substitution for the words ‘‘Singapore’’ of the words ‘‘a Fund Convention country’’ where the incident has caused pollution damage in the territory of Singapore and of another Fund Convention country, and proceedings under the Liability Convention for compensation for the pollution damage have been brought in a country which is not a Fund Convention country or in Singapore.
+(2) Subsection (1) applies (but with the substitution of the words “a Fund Convention country” for the word “Singapore”) where the incident has caused pollution damage in the territory of Singapore and of another Fund Convention country, and proceedings under the Liability Convention for compensation for the pollution damage have been brought in a country which is not a Fund Convention country or in Singapore.
 
-(3) Where the incident has caused pollution damage in the territory of Singapore and of another country in respect of which the Liability Convention is in force, references in this section to the 1999 Ed. and Compensation for Oil Pollution) CAP. 180 25 provisions of Part II shall include references to the corresponding provisions of the law of any country giving effect to the Liability Convention.
+(3) Where the incident has caused pollution damage in the territory of Singapore and of another country in respect of which the Liability Convention is in force, references in this section to the provisions of Part 2 include references to the corresponding provisions of the law of any country giving effect to the Liability Convention.
 
-(4) For the purposes of this section, an owner or insurer is to be treated as incapable of meeting his obligations if the obligations have not been met after all reasonable steps to pursue the legal remedies available have been taken.
+(4) For the purposes of this section, an owner or insurer is to be treated as incapable of meeting the owner’s or insurer’s obligations if the obligations have not been met after all reasonable steps to pursue the legal remedies available have been taken.
 
-(5) Expenses reasonably incurred, and sacrifices reasonably made, by the owner voluntarily to prevent or minimise pollution damage shall be treated as pollution damage for the purposes of this section, and accordingly he shall be in the same position with respect to claims against the Fund under this section as if he had a claim in respect of liability under section 3.
+(5) Expenses reasonably incurred, and sacrifices reasonably made, by the owner voluntarily to prevent or minimise pollution damage are treated as pollution damage for the purposes of this section, and accordingly the owner shall be in the same position with respect to claims against the Fund under this section as if the owner had a claim in respect of liability under section 3.
 
-(6) The Fund shall incur no obligation under this section if —
+(6) The Fund incurs no obligation under this section if —
 
 (a) it proves that the pollution damage —
 
@@ -31,7 +31,7 @@ Part: PART III INTERNATIONAL OIL POLLUTION COMPENSATION FUND
 
 (ii) was caused by oil which has been discharged or escaped from a warship or other ship owned or operated by a State and used, at the time of the occurrence, only on government non-commercial service; or
 
-(b) the claimant cannot prove that the damage resulted from an occurrence involving a ship identified by him, or involving 2 or more ships one of which is identified by him.
+(b) the claimant cannot prove that the damage resulted from an occurrence involving a ship identified by the claimant, or involving 2 or more ships one of which is identified by the claimant.
 
 (7) If the Fund proves that the pollution damage resulted wholly or partly —
 
@@ -41,6 +41,4 @@ Part: PART III INTERNATIONAL OIL POLLUTION COMPENSATION FUND
 
 (8) Where the liability under section 3 in respect of the pollution damage is limited to any extent by subsection (8) of that section, the Fund shall, subject to subsection (9), be exonerated to the same extent.
 
-26 CAP. 180 and Compensation for Oil Pollution) 1999 Ed.
-
-(9) Subsections (7) and (8) shall not apply where the pollution damage consists of the costs of preventive measures or any damage caused by such measures.
+(9) Subsections (7) and (8) do not apply where the pollution damage consists of the costs of preventive measures or any damage caused by such measures.
