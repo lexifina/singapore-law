@@ -1,5 +1,5 @@
 # 51. Capacity of married women
-Part: PART VI RIGHTS AND DUTIES OF HUSBAND AND WIFE
+Part: PART 6 RIGHTS AND DUTIES OF HUSBAND AND WIFE
 
 Subject to the provisions of this Act, a married woman shall —
 
@@ -10,5 +10,3 @@ Subject to the provisions of this Act, a married woman shall —
 (c) be capable of suing and being sued in her own name either in tort or in contract or otherwise and shall be entitled to all remedies and redress for all purposes; and
 
 (d) be subject to the law relating to bankruptcy and to the enforcement of judgments and orders, in all respects as if she were a feme sole.
-
-[9/67]

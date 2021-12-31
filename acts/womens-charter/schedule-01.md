@@ -36,7 +36,7 @@ Wife’s son’s daughter. Husband’s son’s son.
 
 Wife’s daughter’s daughter. Husband’s daughter’s son.
 
-FIRST SCHEDULE — continued Son’s son’s wife. Son’s daughter’s husband.
+Son’s son’s wife. Son’s daughter’s husband.
 
 Daughter’s son’s wife. Daughter’s daughter’s husband.
 
@@ -47,5 +47,3 @@ Mother’s sister. Mother’s brother.
 Brother’s daughter. Brother’s son.
 
 Sister’s daughter. Sister’s son.
-
-[9/67]

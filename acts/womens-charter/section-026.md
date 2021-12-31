@@ -1,5 +1,5 @@
 # 26. Appointment of Registrar, Assistant Registrars and Deputy Registrars
-Part: PART IV REGISTRATION
+Part: PART 4 REGISTRATION
 
 (1) The Minister may appoint any public officer either by name or office to be the Registrar of Marriages or an Assistant Registrar of Marriages for the purposes of this Act.
 
@@ -7,4 +7,4 @@ Part: PART IV REGISTRATION
 
 (3) The Minister may appoint by name or office such other officers as may be necessary for carrying this Part into effect.
 
-(4) The Registrar and every Assistant Registrar and Deputy Registrar appointed under this section shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(4) The Registrar and every Assistant Registrar and Deputy Registrar appointed under this section are deemed to be public servants within the meaning of the Penal Code 1871.

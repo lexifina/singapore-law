@@ -1,6 +1,6 @@
-# 39. Unauthorised solemnization of marriage
-Part: PART V PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNIZATION AND REGISTRATION OF MARRIAGES
+# 39. Unauthorised solemnisation of marriage
+Part: PART 5 PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNISATION AND REGISTRATION OF MARRIAGES
 
-Any person who, not being authorised thereto under this Act, solemnizes or purports to solemnize any marriage shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000.
+Any person who, not being authorised to do so under this Act, solemnises or purports to solemnise any marriage shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000.
 
-[9/67]
+[7/2016]

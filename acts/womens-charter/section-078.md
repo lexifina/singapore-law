@@ -1,4 +1,4 @@
-# 78. Powers of High Court
-Part: PART VIII MAINTENANCE OF WIFE AND CHILDREN
+# 78. [Repealed]
+Part: PART 8 MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
 
-The High Court shall have the jurisdiction and powers which belong to and are exercisable by a District Court or a Magistrate’s Court under this Part.
+[Repealed by Act 27 of 2014]

@@ -1,4 +1,6 @@
-# 151. Demolition of structural contrivances for facilitating the running of a place of assignation or of a brothel
-Part: PART XI OFFENCES AGAINST WOMEN AND GIRLS
+# 151. Demolition of structural contrivances for facilitating running of place of assignation or of brothel
+Part: PART 11 OFFENCES AGAINST WOMEN AND GIRLS
 
-Whenever it appears to a court, upon the trial of any offence under section 147 or 148, that the place in or in respect of which the offence is alleged to have been committed is a place of assignation or a brothel, and that the same is fitted or provided with any means or contrivances such as staircases, doors and partitions, ladders, planks, platforms, posts, palings, fences, locks, bars, bolts or any other things which appear to it to have been specially erected or constructed for the purpose of facilitating the carrying on of a place of assignation or of a brothel at the place, the court shall order the demolition of such means or contrivances.
+Whenever it appears to a court, upon the trial of any offence under section 147(1) or (2) or 148(1), (2), (3) or (4), that the place in or in respect of which the offence is alleged to have been committed is a place of assignation or a brothel, and that the same is fitted or provided with any means or contrivances such as staircases, doors and partitions, ladders, planks, platforms, posts, palings, fences, locks, bars, bolts or any other things which appear to it to have been specially erected or constructed for the purpose of facilitating the carrying on of a place of assignation or of a brothel at the place, the court is to order the demolition of such means or contrivances.
+
+[36/2019]

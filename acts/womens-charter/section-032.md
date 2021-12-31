@@ -1,7 +1,7 @@
 # 32. Unlawful registers
-Part: PART IV REGISTRATION
+Part: PART 4 REGISTRATION
 
-No person other than the Registrar or a Deputy Registrar shall —
+No person other than the Registrar or a Deputy Registrar may —
 
 (a) keep any book being or purporting to be a register kept in accordance with the provisions of this Act; or
 

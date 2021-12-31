@@ -1,12 +1,18 @@
 # 43. Correction of errors
-Part: PART V PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNIZATION AND REGISTRATION OF MARRIAGES
+Part: PART 5 PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNISATION AND REGISTRATION OF MARRIAGES
 
-(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry relating to a marriage is erroneous in form or substance, he may, in the presence of the persons married, or, if they are absent, in the presence of 2 credible witnesses, correct the error by ruling through any entry in the certificate of marriage which is erroneous and making the correct entry therein.
+(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry in the State Marriage Register, or in any record or information contained in the State Marriage Register, is erroneous in form or substance, the Registrar may correct the error.
 
-[30/96]
+[7/2016]
 
-(2) The Registrar or the Deputy Registrar shall sign and date the correction made in the certificate of marriage.
+(2) If the Registrar is satisfied by statutory declaration or otherwise that any entry in a certificate of marriage is erroneous in form or substance, the Registrar may, in the presence of the persons married or, if those persons are absent, in the presence of 2 credible witnesses, correct the error by ruling through that entry and making the correct entry in the certificate of marriage.
 
-[30/96]
+[7/2016]
 
-(3) Every entry made under subsection (1) shall be attested by the witnesses in whose presence it was made.
+(3) Where subsection (2) applies —
+
+(a) the Registrar must sign and date the correction made in the certificate of marriage; and
+
+(b) the entry made under subsection (2) must be attested by the witnesses in whose presence it was made.
+
+[7/2016]

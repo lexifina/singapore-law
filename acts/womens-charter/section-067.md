@@ -1,14 +1,12 @@
 # 67. Supplementary provisions with respect to orders under sections 65 and 66
-Part: PART VII PROTECTION OF FAMILY
+Part: PART 7 PROTECTION OF FAMILY
 
-(1) The court shall, on an application made by the applicant or the person against whom a protection order or an expedited order is made, have power by order to vary, suspend or revoke such order.
+(1) The court, on an application made by the applicant or the person against whom a protection order or an expedited order is made, has power by order to vary, suspend or revoke such order.
 
-[30/96]
+(2) [Deleted by Act 27 of 2014]
 
-(2) Rules of Court may be made for the purpose of giving effect to sections 65 and 66 and any such Rules may, in particular, make provision for the hearing without delay of any application for an order under section 65(5)(a).
+(3) The expiry by virtue of section 66(2) of an expedited order does not prejudice the making of a further expedited order under that section.
 
-[30/96]
+PART 8 MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
 
-(3) The expiry by virtue of section 66(2) of an expedited order shall not prejudice the making of a further expedited order under that section.
-
-[30/96]
+[7/2016]

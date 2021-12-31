@@ -1,7 +1,7 @@
-# 29. Registration of marriage not solemnized by Registrar
-Part: PART IV REGISTRATION
+# 29. Registration of marriage not solemnised by Registrar
+Part: PART 4 REGISTRATION
 
-(1) The parties to a marriage which is not solemnized by the Registrar shall —
+(1) The parties to a marriage which is not solemnised by the Registrar must —
 
 (a) appear before a Deputy Registrar within one month of the marriage;
 
@@ -11,20 +11,12 @@ Part: PART IV REGISTRATION
 
 (d) apply in the prescribed form for the registration of the marriage to be effected.
 
-[9/67]
+(2) The Deputy Registrar may register a marriage by entering the particulars thereof in a certificate of marriage.
 
-(2) The Deputy Registrar shall register a marriage by entering the particulars thereof in a certificate of marriage.
-
-[30/96]
-
-(3) The entry of the marriage in the certificate of marriage shall —
+(3) The entry of the marriage in the certificate of marriage must —
 
 (a) be signed by the Deputy Registrar who made the entry and the parties to the marriage; and
 
-(b) be attested by 2 credible witnesses present at the solemnization of the marriage.
+(b) be attested by 2 credible witnesses present at the solemnisation of the marriage.
 
-[30/96]
-
-(4) The Deputy Registrar registering the marriage shall send the certificate of marriage within 3 days of the registration of the marriage to the Registrar.
-
-[14/69]
+(4) The Deputy Registrar registering the marriage must send the certificate of marriage within 3 days of the registration of the marriage to the Registrar.

@@ -1,4 +1,4 @@
 # 25. Registration of marriages
-Part: PART IV REGISTRATION
+Part: PART 4 REGISTRATION
 
-Every marriage solemnized in Singapore after 15th September 1961 shall be registered in accordance with the provisions of this Part.
+Every marriage solemnised in Singapore after 15 September 1961 must be registered in accordance with the provisions of this Part.

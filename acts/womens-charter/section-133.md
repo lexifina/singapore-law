@@ -1,9 +1,7 @@
 # 133. Procedure
-Part: PART X CHAPTER 1 — DIVORCE
+Part: PART 10 CHAPTER 1 — DIVORCE
 Chapter: CHAPTER 6 — GENERAL PROVISIONS
 
-Subject to the provisions of this Part, all proceedings under
+Subject to the provisions of this Part, all proceedings under this Part are regulated by the Family Justice Rules made under section 139.
 
-this Part shall be regulated by the Rules of Court.
-
-[42/2005]
+[27/2014]

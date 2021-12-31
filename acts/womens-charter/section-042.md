@@ -1,6 +1,6 @@
-# 42. Sanction for prosecution
-Part: PART V PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNIZATION AND REGISTRATION OF MARRIAGES
+# 42. Consent for prosecution
+Part: PART 5 PENALTIES AND MISCELLANEOUS PROVISIONS RELATING TO SOLEMNISATION AND REGISTRATION OF MARRIAGES
 
-No prosecution for any offence punishable under this Part shall be instituted except with the authority in writing of the Attorney- General or the Solicitor-General.
+No prosecution for any offence punishable under this Part may be instituted except with the consent of the Public Prosecutor.
 
-[9/67]
+[15/2010]
