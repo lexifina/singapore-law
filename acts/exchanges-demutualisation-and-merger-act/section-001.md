@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Exchanges (Demutualisation and Merger) Act.
+This Act is the Exchanges (Demutualisation and Merger) Act 1999.
