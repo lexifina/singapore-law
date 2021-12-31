@@ -1,7 +1,7 @@
 # 77. Variation of strata subdivision scheme consequent upon damage to or destruction of subdivided building
-Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
+Part: PART 5 VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
-(1) Where all of the land and buildings comprised in a strata title plan is the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152), or any building comprised in a strata title plan is damaged or destroyed —
+(1) Where all of the land and buildings comprised in a strata title plan is the subject of a declaration under section 5 of the Land Acquisition Act 1966, or any building comprised in a strata title plan is damaged or destroyed —
 
 (a) any subsidiary proprietor of a lot in the subdivided building;
 
@@ -9,9 +9,7 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (c) the management corporation, may make an application to the court for an order under subsection (4).
 
-[47/2004]
-
-(2) Notice of an application under subsection (1) shall be served, in accordance with the Rules of Court (Cap. 322, R 5), on —
+(2) Notice of an application under subsection (1) must be served, in accordance with the Rules of Court, on —
 
 (a) every person referred to in subsection (1), other than the applicant;
 
@@ -23,15 +21,13 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (e) such other persons as the court may direct.
 
-(3) The applicant and any person referred to in subsection (2) (whether or not he has been served with a notice of the application) shall be entitled to appear and be heard on the hearing of the application.
+(3) The applicant and any person referred to in subsection (2) (whether or not the person has been served with a notice of the application) are entitled to appear and be heard on the hearing of the application.
 
-(4) The court may, on an application made under subsection (1) (except in relation to land and buildings the subject of a declaration under section 5 of the Land Acquisition Act (Cap. 152)), make an order to settle a scheme for the reinstatement or continued use of the subdivided building in whole or in part.
+(4) The court may, on an application made under subsection (1) (except in relation to land and buildings that are the subject of a declaration under section 5 of the Land Acquisition Act 1966), make an order to settle a scheme for the reinstatement or continued use of the subdivided building in whole or in part.
 
-[47/2004]
+(5) An order made under subsection (4) takes effect on such day as may be specified in the order.
 
-(5) An order made under subsection (4) shall take effect on such day as may be specified in the order.
-
-(6) Without limiting the generality of subsection (4), an order made under that subsection may include directions for or with respect to any one or more of the following matters:
+(6) Without limiting subsection (4), an order made under that subsection may include directions for or with respect to any one or more of the following matters:
 
 (a) the substitution for the existing schedule of strata units of a new schedule of strata units;
 
@@ -41,20 +37,18 @@ Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
 (d) the application of any insurance moneys received by the management corporation in respect of the damage to or destruction of the subdivided building;
 
-(e) the payment of moneys to or by the management corporation or the subsidiary proprietors or any one or more of them; and
+(e) the payment of moneys to or by the management corporation or the subsidiary proprietors or any one or more of them;
 
 (f) any matter in respect of which it is, in the opinion of the court, just and equitable, in the circumstances of the case, to make provision in the order.
 
-(7) An order made under subsection (4) shall have effect according to its tenor.
+(7) An order made under subsection (4) has effect according to its tenor.
 
 (8) Where the court is of the opinion that an order should not be made under subsection (4), it may, upon application made by any person entitled to appear and be heard on the hearing of the application made under subsection (1) or of its own motion, direct that the application be treated as an application for an order under section 78.
 
 (9) Where the court makes a direction under subsection (8) —
 
-(a) the application, the subject of the direction, shall be deemed to be made under section 78 by a person entitled to make the application; and
+(a) the application that is the subject of the direction is deemed to be made under section 78 by a person entitled to make the application; and
 
 (b) the applicant under subsection (1), as well as any other person entitled to appear and be heard under section 78, is entitled to appear and be heard on the hearing of the application.
 
-(10) The court may, from time to time, vary any order made under subsection (4) on the application of any person entitled to appear and be heard on the hearing of the application for that order.
-
-[16/87]
+(10) The court may vary any order made under subsection (4) on the application of any person entitled to appear and be heard on the hearing of the application for that order.

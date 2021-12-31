@@ -1,6 +1,6 @@
 # 83. Qualifications of liquidator
-Part: PART V VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
+Part: PART 5 VARIATION OR TERMINATION OF STRATA SUBDIVISION SCHEME
 
-No person shall be appointed as a liquidator of a management corporation unless he is an approved liquidator under the Companies Act (Cap. 50).
+A person must not be appointed as a liquidator of a management corporation unless the person is a licensed insolvency practitioner under the Insolvency, Restructuring and Dissolution Act 2018.
 
-[16/87; 30/2008]
+[40/2018]

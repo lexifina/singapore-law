@@ -1,4 +1,4 @@
-# 120. (Repealed)
-Part: PART VII GENERAL
+# 120. [Repealed]
+Part: PART 7 GENERAL
 
-(Repealed by Act 47 of 2004)
+[Repealed by Act 47 of 2004]

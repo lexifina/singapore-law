@@ -1,6 +1,4 @@
-# 84G. Application of Building Maintenance and Strata Management Act
-Part: PART VA COLLECTIVE SALE OF PROPERTY
+# 84G. Application of Building Maintenance and Strata Management Act 2004
+Part: PART 5A COLLECTIVE SALE OF PROPERTY
 
-Part VI of the Building Maintenance and Strata Management Act (Cap. 30C) and any regulations made under that Act shall apply in respect of applications under this Part with the necessary modifications.
-
-[47/2004]
+Part 6 of the Building Maintenance and Strata Management Act 2004 and any regulations made under that Act apply in respect of applications under this Part with the necessary modifications.

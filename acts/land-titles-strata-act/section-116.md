@@ -1,4 +1,4 @@
-# 116. to 118. (Repealed)
-Part: PART VII GENERAL
+# 116. [Repealed]
+Part: PART 7 GENERAL
 
-to 118. (Repealed by Act 47 of 2004)
+[Repealed by Act 47 of 2004]

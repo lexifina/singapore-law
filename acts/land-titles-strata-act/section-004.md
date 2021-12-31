@@ -1,4 +1,4 @@
-# 4. Application of Land Titles Act
-Part: PART I PRELIMINARY
+# 4. Application of Land Titles Act 1993
+Part: PART 1 PRELIMINARY
 
-The Land Titles Act (Cap. 157) and any rules made thereunder, insofar as they are not inconsistent with the provisions of this Act or of any rules made thereunder, shall apply in all respects to land registered in any folio of the subsidiary strata land-register.
+The Land Titles Act 1993 and any rules made under that Act, insofar as they are not inconsistent with the provisions of this Act or of any rules made under this Act, apply in all respects to land registered in any folio of the subsidiary strata land-register.
