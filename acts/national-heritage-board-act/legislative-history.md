@@ -1,83 +1,11 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY NATIONAL HERITAGE BOARD ACT 1993
 
-NATIONAL HERITAGE BOARD ACT (CHAPTER 196A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the National Heritage Board Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Act 22 of 1967 — National Archives and Records Centre Act 1967
+LEGISLATIVE HISTORY DETAILS PART 1 NATIONAL ARCHIVES AND RECORDS CENTRE ACT (CHAPTER 193, 1985 REVISED EDITION) 1. Act 22 of 1967 — National Archives and Records Centre Act, 1967 Bill : 17/1967 First Reading : 29 June 1967 Second Reading : 8 September 1967 Notice of Amendments : 8 September 1967 Third Reading : 8 September 1967 Commencement : 7 February 1969 2. 1970 Revised Edition — National Archives and Records Centre Act (Chapter 310) Operation : 31 August 1971 3. 1985 Revised Edition — National Archives and Records Centre Act (Chapter 193) Operation : 30 March 1987 PART 2 NATIONAL HERITAGE BOARD ACT 1993 (2020 REVISED EDITION) 4. Act 13 of 1993 — National Heritage Board Act 1993 Bill : 5/1993 First Reading : 26 February 1993 Second and Third Readings : 13 April 1993 Commencement : 1 August 1993 5. 1994 Revised Edition — National Heritage Board Act (Chapter 196A) Operation : 15 March 1994 6. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (26) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (26) of the Schedule) 7. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Amendments made by section 25(4) read with item (33) of the Schedule to the above Act) Bill : 43/2004 First Reading : 21 September 2004 Second and Third Readings : 19 October 2004 Commencement : 15 December 2004 (section 25(4) read with item (33) of the Schedule) 8. Act 10 of 2007 — Charities (Amendment) Act 2007 (Amendments made by section 22 read with item (5) of the Schedule to the above Act) Bill : 22/2006 First Reading : 8 November 2006 Second and Third Readings : 23 January 2007 Commencement : 1 March 2007 (section 22 read with item (5) of the Schedule) 9. Act 16 of 2009 — Preservation of Monuments Act 2009 (Amendments made by section 37 of the above Act) Bill : 9/2009 First Reading : 23 March 2009 Second and Third Readings : 13 April 2009 Commencement : 1 July 2009 (section 37) 10. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(33) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(33) of the Second Schedule) 11. Act 25 of 2012 — Statutes (Miscellaneous Amendments) (No. 2) Act 2012 (Amendments made by section 7 of the above Act) Bill : 23/2012 First Reading : 10 September 2012 Second and Third Readings : 15 October 2012 Commencement : 28 March 2013 (section 7) 12. 2014 Revised Edition — National Heritage Board Act (Chapter 196A) Operation : 31 December 2014 13. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 83 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 83) 14. Act 36 of 2021 — Preservation of Monuments (Amendment) Act 2021 (Amendments made by section 12 of the above Act) Bill : 33/2021 First Reading : 4 October 2021 Second and Third Readings : 2 November 2021 Commencement : 30 November 2021 (section 12)
 
-Date of First Reading : 29 June 1967 (Bill No. 17/67)
+Abbreviations
 
-Date of Second and Third Readings : 8 September 1967
-
-Date of commencement : 7 February 1969
-
-2. 1970 Revised Edition — National Archives and Records Centre Act (Chapter 310)
-
-Date of operation : 31 August 1971
-
-3. 1985 Revised Edition — National Archives and Records Centre Act (Chapter 193)
-
-Date of operation : 30 March 1987
-
-4. Act 13 of 1993 — National Heritage Board Act 1993
-
-Date of First Reading : 26 February 1993 (Bill No. 5/93)
-
-Date of Second and Third Readings : 13 April 1993
-
-Date of commencement : 1 August 1993
-
-Note: The National Heritage Board Act 1993 repealed and re-enacted with amendments the National Archives and Records Centre Act (Chapter 193, 1985 Revised Edition).
-
-5. 1994 Revised Edition — National Heritage Board Act (Chapter 196A)
-
-Date of operation : 15 March 1994
-
-6. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Date of commencement : 15 July 2002 7. Act 45 of 2004 — Trustees (Amendment) Act 2004 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 September 2004 (Bill No. 43/2004)
-
-Date of Second and Third Readings : 19 October 2004
-
-Date of commencement : 15 December 2004
-
-8. Act 10 of 2007 — Charities (Amendment) Act 2007 (Consequential amendments made to Act by)
-
-Date of First Reading : 8 November 2006 (Bill No. 22/2006)
-
-Date of Second and Third Readings : 23 January 2007
-
-Date of commencement : 1 March 2007
-
-9. Act 16 of 2009 — Preservation of Monuments Act 2009 (Consequential amendments made to Act by)
-
-Date of First Reading : 23 March 2009 (Bill No. 9/2009)
-
-Date of Second and Third Readings : 13 April 2009
-
-Date of commencement : 1 July 2009
-
-10. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 July 2008 (Bill No. 11/2008)
-
-Date of Second and Third Readings : 15 September 2008
-
-Date of commencement : 1 March 2010 (item 1(33) of the Second Schedule — amendment of National Heritage Board Act)
-
-11. Act 25 of 2012 — Statutes (Miscellaneous Amendments) (No. 2) Act 2012
-
-Date of First Reading : 10 September 2012 (Bill No. 23/2012)
-
-Date of Second and Third Readings : 15 October 2012
-
-Date of commencement : 28 March 2013 (section 7 —
-
-amendment of National Heritage Board Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

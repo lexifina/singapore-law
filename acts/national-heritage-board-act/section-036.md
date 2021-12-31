@@ -1,4 +1,6 @@
-# 36. Financial provisions
+# 36. Financial year
 Part: PART 6 FUNDS AND PROPERTY OF BOARD
 
-The financial provisions set out in the Second Schedule shall apply to the Board.
+The financial year of the Board begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+[5/2018]

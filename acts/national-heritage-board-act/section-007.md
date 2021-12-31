@@ -1,9 +1,9 @@
 # 7. Powers of Board
 Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
-(1) The Board shall have power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+(1) The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-(2) Without prejudice to the generality of subsection (1), the powers of the Board shall include power —
+(2) Without limiting subsection (1), the powers of the Board include the following:
 
 (a) to develop and manage museums and other facilities related to its functions;
 
@@ -19,7 +19,7 @@ Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (g) to establish liaison with other museums, universities and other institutions to secure maximum collaboration of all activities relevant to its functions;
 
-(h) to arrange for or provide professional and technical services, on such terms and conditions as may be approved by the Board;
+(h) to arrange for or provide professional and technical services, on any terms and conditions that may be approved by the Board;
 
 (i) to raise funds by all lawful means and receive gifts and donations, whether on trust or otherwise;
 
@@ -29,8 +29,6 @@ Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (l) to enter into joint ventures with any person or organisation, or form or participate in the formation of a company;
 
-(m) to provide or undertake publicity in any form; and
+(m) to provide or undertake publicity in any form;
 
 (n) to charge fees, commissions or rent for any objects, services or facilities provided by the Board.
-
-[25/2012]

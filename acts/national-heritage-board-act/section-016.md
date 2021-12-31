@@ -5,14 +5,14 @@ Part: PART 3 NATIONAL MUSEUM OF SINGAPORE
 
 (2) In deciding whether or not to lend an object, and in determining the time for which and the conditions subject to which an object is to be lent, the Board —
 
-(a) shall give special consideration to a request for the loan of an object for public exhibition; and
+(a) must give special consideration to a request for the loan of an object for public exhibition; and
 
-(b) subject to paragraph (a), shall have regard to the interests of students and other persons visiting the Board’s collections, the suitability of the prospective borrower, the purpose of the loan, the physical condition and degree of rarity of the object and any risks to which it is likely to be exposed.
+(b) subject to paragraph (a), must have regard to the interests of students and other persons visiting the Board’s collections, the suitability of the prospective borrower, the purpose of the loan, the physical condition and degree of rarity of the object and any risks to which it is likely to be exposed.
 
 (3) Where the property in an object has become vested in the Board subject to a condition, the power conferred by subsection (1) is exercisable in a manner inconsistent with the condition if either —
 
 (a) 25 years have elapsed since the date on which the property became vested in the Board; or
 
-(b) the person who first imposed the condition or his personal representatives have consented in writing to the exercise of the power in that manner.
+(b) the person who first imposed the condition or his or her personal representatives have consented in writing to the exercise of the power in that manner.
 
 (4) The Board may accept loans of objects for the purpose, subject to the terms of the loan, of exhibiting them, or of study or research by the Board or by persons seeking to inspect them.

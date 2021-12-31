@@ -1,7 +1,7 @@
 # 3. Establishment of National Heritage Board
 Part: PART 2 ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
-There shall be established a body to be known as the National Heritage Board which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+A body called the National Heritage Board is established, which is a body corporate with perpetual succession and is by that name capable of —
 
 (a) suing and being sued;
 

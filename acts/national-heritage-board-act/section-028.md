@@ -1,14 +1,14 @@
-# 28. Chief executive officer of Board
+# 28. Chief executive officer
 Part: PART 5 PROVISIONS RELATING TO STAFF
 
-(1) The Board shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Board may determine.
+(1) There must be a chief executive officer of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The chief executive officer shall —
+[5/2018]
 
-(a) be known by such designation as the Board may determine;
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-and
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Board for the proper administration and management of the affairs of the Board in accordance with the policy laid down by the Board.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Board to act in the place of the chief executive officer during any such period of absence from duty.
+[5/2018]
