@@ -1,6 +1,6 @@
 # 35. Presumption
-Part: PART V SEARCH, SEIZURE AND ARREST
+Part: PART 5 SEARCH, SEIZURE AND ARREST
 
-Every person who is proved to have had in his possession or under his control anything whatever containing any guns, arms or explosives shall, until the contrary is proved, be deemed to have been in possession of those guns, arms or explosives.
+Every person who is proved to have had in the person’s possession or under the person’s control anything whatever containing any guns, arms, explosives or explosive precursors is, until the contrary is proved, deemed to have been in possession of those guns, arms, explosives or explosive precursors.
 
-[39
+[5/2007]

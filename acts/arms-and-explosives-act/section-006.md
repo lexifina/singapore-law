@@ -1,7 +1,7 @@
 # 6. Prohibition on possession and transfer of possession of unmarked plastic explosives
-Part: PART II MANUFACTURE, POSSESSION, TRANSFER, IMPORTATION AND EXPORTATION OF UNMARKED PLASTIC EXPLOSIVES, POISONOUS OR NOXIOUS GAS OR NOXIOUS SUBSTANCE, ETC.
+Part: PART 2 MANUFACTURE, POSSESSION, TRANSFER, IMPORTATION AND EXPORTATION OF UNMARKED PLASTIC EXPLOSIVES, POISONOUS OR NOXIOUS GAS OR NOXIOUS SUBSTANCE, ETC.
 
-(1) Subject to subsection (2), no person shall possess or transfer possession of any unmarked plastic explosive unless such unmarked plastic explosive —
+(1) Subject to subsection (2), a person must not possess or transfer possession of any unmarked plastic explosive unless such unmarked plastic explosive —
 
 (a) is possessed or transferred to another person in a quantity no greater than that necessary for the purpose of and is solely for use in —
 
@@ -13,30 +13,18 @@ Part: PART II MANUFACTURE, POSSESSION, TRANSFER, IMPORTATION AND EXPORTATION OF 
 
 or
 
-(b) has been incorporated as an integral part of an authorised military device and is possessed or transferred in the course of his duty by an authorised military or police personnel or a member of a visiting force lawfully present in Singapore.
+(b) has been incorporated as an integral part of an authorised military device and is possessed or transferred in the course of his or her duty by an authorised military or police personnel or a member of a visiting force lawfully present in Singapore.
 
-[30/2002]
+(2) Subsection (1) does not, for the relevant period, apply to any unmarked plastic explosive which is manufactured in or imported into Singapore before 21 March 2003 and which is possessed or transferred during the relevant period by —
 
-(2) Subsection (1) shall not, for the relevant period, apply to any unmarked plastic explosive which is manufactured in or imported into Singapore before 21st March 2003* and which is possessed or transferred during the relevant period by —
-
-(a) an authorised military or police personnel in the course of his duty; or
+(a) an authorised military or police personnel in the course of his or her duty; or
 
 (b) any other person authorised by the Minister and in accordance with this Act.
 
-[30/2002]
-
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to imprisonment for a term not exceeding 3 years.
 
-[30/2002]
+(4) In this section and section 7, “relevant period” means —
 
-(4) In this section and section 7, ‘‘relevant period’’ means —
+(a) a period of 15 years from 21 March 2003 in the case of an authorised military or police personnel; or
 
-(a) a period of 15 years from 21st March 2003 in the case of an authorised military or police personnel; or
-
-(b) a period of 3 years from 21st March 2003 in the case of any other person authorised under subsection (2) (b).
-
-[3B
-
-[30/2002]
-
-*Date of commencement of the Arms and Explosives (Amendment) Act 2002 (Act 30 of 2002).
+(b) a period of 3 years from 21 March 2003 in the case of any other person authorised under subsection (2)(b).

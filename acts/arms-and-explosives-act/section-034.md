@@ -1,6 +1,6 @@
-# 34. Power to stop and search for arms or explosives in street
-Part: PART V SEARCH, SEIZURE AND ARREST
+# 34. Power to stop and search for arms, explosives or explosive precursors in street
+Part: PART 5 SEARCH, SEIZURE AND ARREST
 
-It shall be lawful for any police officer to stop, and to search for arms or explosives, any person whom he may find in any street or other public place, at any hour of the day or night, who acts in a suspicious manner, or whom he may suspect of having any arms or explosives in his possession.
+It is lawful for any police officer to stop, and to search for arms, explosives or explosive precursors, any person whom the police officer may find in any street or other public place, at any hour of the day or night, who acts in a suspicious manner, or whom the police officer may suspect of having any arms, explosives or explosive precursors in the person’s possession.
 
-[38
+[5/2007]

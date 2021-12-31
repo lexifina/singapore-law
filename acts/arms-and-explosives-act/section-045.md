@@ -1,8 +1,6 @@
-# 45. Power to amend Schedule
-Part: PART VI MISCELLANEOUS PROVISIONS
+# 45. Power to amend Schedules
+Part: PART 6 MISCELLANEOUS PROVISIONS
 
-The Minster may, by order published in the Gazette, amend the Schedule.
+The Minster may, by order in the Gazette, amend the First or Second Schedule.
 
-[40A
-
-[30/2002]
+[5/2007]
