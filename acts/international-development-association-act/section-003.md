@@ -1,6 +1,6 @@
 # 3. Acceptance of Agreement
 
-The President is hereby authorised by instrument under his hand to empower such person as may be named in the instrument, on behalf of the Government —
+The President may by instrument under his or her hand empower a person named in the instrument, on behalf of the Government —
 
 (a) to sign the Agreement and such other instruments required for admission to membership of the Association; and
 

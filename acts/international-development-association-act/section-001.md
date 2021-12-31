@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the International Development Association Act.
+This Act is the International Development Association Act 2002.
