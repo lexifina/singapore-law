@@ -30,11 +30,11 @@ Article 1
 
 (b) when the rules of private international law lead to the application of the law of a Contracting State.
 
-(2) The fact that the parties have their places of business in different States is to be disregarded whenever this fact does not appear either from the contract or from any dealings between, or from information disclosed by, the parties at any time before or at the conclusion of the contract.
+(2) The fact that the parties have their places of business in different States is to be disregarded whenever this fact does not appear either from the contract or from THE SCHEDULE — continued
+
+any dealings between, or from information disclosed by, the parties at any time before or at the conclusion of the contract.
 
 (3) Neither the nationality of the parties nor the civil or commercial character of the parties or of the contract is to be taken into consideration in determining the application of this Convention.
-
-THE SCHEDULE — continued
 
 Article 2
 
@@ -66,6 +66,8 @@ This Convention governs only the formation of the contract of sale and the right
 
 (b) the effect which the contract may have on the property in the goods sold.
 
+THE SCHEDULE — continued
+
 Article 5
 
 This Convention does not apply to the liability of the seller for death or personal injury caused by the goods to any person.
@@ -73,8 +75,6 @@ This Convention does not apply to the liability of the seller for death or perso
 Article 6
 
 The parties may exclude the application of this Convention or, subject to article 12, derogate from or vary the effect of any of its provisions.
-
-THE SCHEDULE — continued
 
 CHAPTER II
 
@@ -98,15 +98,15 @@ Article 9
 
 (1) The parties are bound by any usage to which they have agreed and by any practices which they have established between themselves.
 
-(2) The parties are considered, unless otherwise agreed, to have impliedly made applicable to their contract or its formation a usage of which the parties knew or ought to have known and which in international trade is widely known to, and regularly observed by, parties to contracts of the type involved in the particular trade concerned.
+(2) The parties are considered, unless otherwise agreed, to have impliedly made applicable to their contract or its formation a usage of which the parties knew or ought to have known and which in international trade is widely known to, and THE SCHEDULE — continued
+
+regularly observed by, parties to contracts of the type involved in the particular trade concerned.
 
 Article 10
 
 For the purposes of this Convention:
 
 (a) if a party has more than one place of business, the place of business is that which has the closest relationship to the contract and its performance, having regard to the circumstances known to or contemplated by the parties at any time before or at the conclusion of the contract;
-
-THE SCHEDULE — continued
 
 (b) if a party does not have a place of business, reference is to be made to his habitual residence.
 
@@ -132,6 +132,8 @@ Article 14
 
 (2) A proposal other than one addressed to one or more specific persons is to be considered merely as an invitation to make offers, unless the contrary is clearly indicated by the person making the proposal.
 
+THE SCHEDULE — continued
+
 Article 15
 
 (1) An offer becomes effective when it reaches the offeree.
@@ -141,8 +143,6 @@ Article 15
 Article 16
 
 (1) Until a contract is concluded an offer may be revoked if the revocation reaches the offeree before he has dispatched an acceptance.
-
-THE SCHEDULE — continued
 
 (2) However, an offer cannot be revoked:
 
@@ -166,11 +166,11 @@ Article 19
 
 (1) A reply to an offer which purports to be an acceptance but contains additions, limitations or other modifications is a rejection of the offer and constitutes a counter-offer.
 
+THE SCHEDULE — continued
+
 (2) However, a reply to an offer which purports to be an acceptance but contains additional or different terms which do not materially alter the terms of the offer constitutes an acceptance, unless the offeror, without undue delay, objects orally to the discrepancy or dispatches a notice to that effect. If he does not so object, the terms of the contract are the terms of the offer with the modifications contained in the acceptance.
 
-(3) Additional or different terms relating, among other things, to the price, payment, quality and quantity of the goods, place and time of delivery, extent of THE SCHEDULE — continued
-
-one party’s liability to the other or the settlement of disputes are considered to alter the terms of the offer materially.
+(3) Additional or different terms relating, among other things, to the price, payment, quality and quantity of the goods, place and time of delivery, extent of one party’s liability to the other or the settlement of disputes are considered to alter the terms of the offer materially.
 
 Article 20
 
@@ -192,11 +192,11 @@ Article 23
 
 A contract is concluded at the moment when an acceptance of an offer becomes effective in accordance with the provisions of this Convention.
 
+THE SCHEDULE — continued
+
 Article 24
 
 For the purposes of this Part of the Convention, an offer, declaration of acceptance or any other indication of intention “reaches” the addressee when it is made orally to him or delivered by any other means to him personally, to his place of business or mailing address or, if he does not have a place of business or mailing address, to his habitual residence.
-
-THE SCHEDULE — continued
 
 PART III
 
@@ -226,9 +226,9 @@ Article 29
 
 (1) A contract may be modified or terminated by the mere agreement of the parties.
 
-(2) A contract in writing which contains a provision requiring any modification or termination by agreement to be in writing may not be otherwise modified or terminated by agreement. However, a party may be precluded by his conduct from asserting such a provision to the extent that the other party has relied on that conduct.
-
 THE SCHEDULE — continued
+
+(2) A contract in writing which contains a provision requiring any modification or termination by agreement to be in writing may not be otherwise modified or terminated by agreement. However, a party may be precluded by his conduct from asserting such a provision to the extent that the other party has relied on that conduct.
 
 CHAPTER II
 
@@ -246,7 +246,7 @@ If the seller is not bound to deliver the goods at any other particular place, h
 
 (a) if the contract of sale involves carriage of the goods — in handing the goods over to the first carrier for transmission to the buyer;
 
-(b) if, in cases not within the preceding sub‑paragraph, the contract relates to specific goods, or unidentified goods to be drawn from a specific stock or to be manufactured or produced, and at the time of the conclusion of the contract the parties knew that the goods were at, or were to be manufactured or produced at, a particular place — in placing the goods at the buyer’s disposal at that place;
+(b) if, in cases not within the preceding sub-paragraph, the contract relates to specific goods, or unidentified goods to be drawn from a specific stock or to be manufactured or produced, and at the time of the conclusion of the contract the parties knew that the goods were at, or were to be manufactured or produced at, a particular place — in placing the goods at the buyer’s disposal at that place;
 
 (c) in other cases — in placing the goods at the buyer’s disposal at the place where the seller had his place of business at the time of the conclusion of the contract.
 
@@ -256,9 +256,9 @@ Article 32
 
 (2) If the seller is bound to arrange for carriage of the goods, he must make such contracts as are necessary for carriage to the place fixed by means of transportation appropriate in the circumstances and according to the usual terms for such transportation.
 
-(3) If the seller is not bound to effect insurance in respect of the carriage of the goods, he must, at the buyer’s request, provide him with all available information necessary to enable him to effect such insurance.
-
 THE SCHEDULE — continued
+
+(3) If the seller is not bound to effect insurance in respect of the carriage of the goods, he must, at the buyer’s request, provide him with all available information necessary to enable him to effect such insurance.
 
 Article 33
 
@@ -288,11 +288,11 @@ Article 35
 
 (c) possess the qualities of goods which the seller has held out to the buyer as a sample or model;
 
+THE SCHEDULE — continued
+
 (d) are contained or packaged in the manner usual for such goods or, where there is no such manner, in a manner adequate to preserve and protect the goods.
 
-(3) The seller is not liable under sub‑paragraphs (a) to (d) of the preceding paragraph for any lack of conformity of the goods if, at the time of the conclusion THE SCHEDULE — continued
-
-of the contract, the buyer knew or could not have been unaware of such lack of conformity.
+(3) The seller is not liable under sub-paragraphs (a) to (d) of the preceding paragraph for any lack of conformity of the goods if, at the time of the conclusion of the contract, the buyer knew or could not have been unaware of such lack of conformity.
 
 Article 36
 
@@ -302,7 +302,7 @@ Article 36
 
 Article 37
 
-If the seller has delivered goods before the date for delivery, he may, up to that date, deliver any missing part or make up any deficiency in the quantity of the goods delivered, or deliver goods in replacement of any nonconforming goods delivered or remedy any lack of conformity in the goods delivered, provided that the exercise of this right does not cause the buyer unreasonable inconvenience or unreasonable expense. However, the buyer retains any right to claim damages as provided for in this Convention.
+If the seller has delivered goods before the date for delivery, he may, up to that date, deliver any missing part or make up any deficiency in the quantity of the goods delivered, or deliver goods in replacement of any non-conforming goods delivered or remedy any lack of conformity in the goods delivered, provided that the exercise of this right does not cause the buyer unreasonable inconvenience or unreasonable expense. However, the buyer retains any right to claim damages as provided for in this Convention.
 
 Article 38
 
@@ -312,13 +312,13 @@ Article 38
 
 (3) If the goods are redirected in transit or redispatched by the buyer without a reasonable opportunity for examination by him and at the time of the conclusion of the contract the seller knew or ought to have known of the possibility of such redirection or redispatch, examination may be deferred until after the goods have arrived at the new destination.
 
+THE SCHEDULE — continued
+
 Article 39
 
 (1) The buyer loses the right to rely on a lack of conformity of the goods if he does not give notice to the seller specifying the nature of the lack of conformity within a reasonable time after he has discovered it or ought to have discovered it.
 
 (2) In any event, the buyer loses the right to rely on a lack of conformity of the goods if he does not give the seller notice thereof at the latest within a period of two years from the date on which the goods were actually handed over to the buyer, unless this time-limit is inconsistent with a contractual period of guarantee.
-
-THE SCHEDULE — continued
 
 Article 40
 
@@ -334,9 +334,7 @@ Article 42
 
 (1) The seller must deliver goods which are free from any right or claim of a third party based on industrial property or other intellectual property, of which at the time of the conclusion of the contract the seller knew or could not have been unaware, provided that the right or claim is based on industrial property or other intellectual property:
 
-(a) under the law of the State where the goods will be resold or otherwise used, if it was contemplated by the parties at the time of the conclusion of the contract that the goods would be resold or otherwise used in that State;
-
-or
+(a) under the law of the State where the goods will be resold or otherwise used, if it was contemplated by the parties at the time of the conclusion of the contract that the goods would be resold or otherwise used in that State; or
 
 (b) in any other case, under the law of the State where the buyer has his place of business.
 
@@ -346,13 +344,13 @@ or
 
 (b) the right or claim results from the seller’s compliance with technical drawings, designs, formulae or other such specifications furnished by the buyer.
 
+THE SCHEDULE — continued
+
 Article 43
 
 (1) The buyer loses the right to rely on the provisions of article 41 or article 42 if he does not give notice to the seller specifying the nature of the right or claim of the third party within a reasonable time after he has become aware or ought to have become aware of the right or claim.
 
 (2) The seller is not entitled to rely on the provisions of the preceding paragraph if he knew of the right or claim of the third party and the nature of it.
-
-THE SCHEDULE — continued
 
 Article 44
 
@@ -380,13 +378,13 @@ Article 46
 
 (3) If the goods do not conform with the contract, the buyer may require the seller to remedy the lack of conformity by repair, unless this is unreasonable having regard to all the circumstances. A request for repair must be made either in conjunction with notice given under article 39 or within a reasonable time thereafter.
 
+THE SCHEDULE — continued
+
 Article 47
 
 (1) The buyer may fix an additional period of time of reasonable length for performance by the seller of his obligations.
 
 (2) Unless the buyer has received notice from the seller that he will not perform within the period so fixed, the buyer may not, during that period, resort to any remedy for breach of contract. However, the buyer is not deprived thereby of any right he may have to claim damages for delay in performance.
-
-THE SCHEDULE — continued
 
 Article 48
 
@@ -404,13 +402,13 @@ Article 49
 
 (1) The buyer may declare the contract avoided:
 
-(a) if the failure by the seller to perform any of his obligations under the contract or this Convention amounts to a fundamental breach of contract;
-
-or
+(a) if the failure by the seller to perform any of his obligations under the contract or this Convention amounts to a fundamental breach of contract; or
 
 (b) in case of non-delivery, if the seller does not deliver the goods within the additional period of time fixed by the buyer in accordance with paragraph (1) of article 47 or declares that he will not deliver within the period so fixed.
 
 (2) However, in cases where the seller has delivered the goods, the buyer loses the right to declare the contract avoided unless he does so:
+
+THE SCHEDULE — continued
 
 (a) in respect of late delivery, within a reasonable time after he has become aware that delivery has been made;
 
@@ -419,8 +417,6 @@ or
 (i) after he knew or ought to have known of the breach;
 
 (ii) after the expiration of any additional period of time fixed by the buyer in accordance with paragraph (1) of article 47, or after the seller has declared that he will not perform his obligations within such an additional period; or
-
-THE SCHEDULE — continued
 
 (iii) after the expiration of any additional period of time indicated by the seller in accordance with paragraph (2) of article 48, or after the buyer has declared that he will not accept performance.
 
@@ -440,6 +436,8 @@ Article 52
 
 (2) If the seller delivers a quantity of goods greater than that provided for in the contract, the buyer may take delivery or refuse to take delivery of the excess quantity. If the buyer takes delivery of all or part of the excess quantity, he must pay for it at the contract rate.
 
+THE SCHEDULE — continued
+
 CHAPTER III
 
 OBLIGATIONS OF THE BUYER
@@ -447,8 +445,6 @@ OBLIGATIONS OF THE BUYER
 Article 53
 
 The buyer must pay the price for the goods and take delivery of them as required by the contract and this Convention.
-
-THE SCHEDULE — continued
 
 Section I — Payment of the price
 
@@ -478,11 +474,11 @@ Article 58
 
 (1) If the buyer is not bound to pay the price at any other specific time, he must pay it when the seller places either the goods or documents controlling their disposition at the buyer’s disposal in accordance with the contract and this Convention. The seller may make such payment a condition for handing over the goods or documents.
 
+THE SCHEDULE — continued
+
 (2) If the contract involves carriage of the goods, the seller may dispatch the goods on terms whereby the goods, or documents controlling their disposition, will not be handed over to the buyer except against payment of the price.
 
 (3) The buyer is not bound to pay the price until he has had an opportunity to examine the goods, unless the procedures for delivery or payment agreed upon by the parties are inconsistent with his having such an opportunity.
-
-THE SCHEDULE — continued
 
 Article 59
 
@@ -516,21 +512,19 @@ Article 62
 
 The seller may require the buyer to pay the price, take delivery or perform his other obligations, unless the seller has resorted to a remedy which is inconsistent with this requirement.
 
+THE SCHEDULE — continued
+
 Article 63
 
 (1) The seller may fix an additional period of time of reasonable length for performance by the buyer of his obligations.
 
 (2) Unless the seller has received notice from the buyer that he will not perform within the period so fixed, the seller may not, during that period, resort to any remedy for breach of contract. However, the seller is not deprived thereby of any right he may have to claim damages for delay in performance.
 
-THE SCHEDULE — continued
-
 Article 64
 
 (1) The seller may declare the contract avoided:
 
-(a) if the failure by the buyer to perform any of his obligations under the contract or this Convention amounts to a fundamental breach of contract;
-
-or
+(a) if the failure by the buyer to perform any of his obligations under the contract or this Convention amounts to a fundamental breach of contract; or
 
 (b) if the buyer does not, within the additional period of time fixed by the seller in accordance with paragraph (1) of article 63, perform his obligation to pay the price or take delivery of the goods, or if he declares that he will not do so within the period so fixed.
 
@@ -548,9 +542,9 @@ Article 65
 
 (1) If under the contract the buyer is to specify the form, measurement or other features of the goods and he fails to make such specification either on the date agreed upon or within a reasonable time after receipt of a request from the seller, the seller may, without prejudice to any other rights he may have, make the specification himself in accordance with the requirements of the buyer that may be known to him.
 
-(2) If the seller makes the specification himself, he must inform the buyer of the details thereof and must fix a reasonable time within which the buyer may make a different specification. If, after receipt of such a communication, the buyer fails to do so within the time so fixed, the specification made by the seller is binding.
+(2) If the seller makes the specification himself, he must inform the buyer of the details thereof and must fix a reasonable time within which the buyer may make a THE SCHEDULE — continued
 
-THE SCHEDULE — continued
+different specification. If, after receipt of such a communication, the buyer fails to do so within the time so fixed, the specification made by the seller is binding.
 
 CHAPTER IV
 
@@ -576,9 +570,9 @@ Article 69
 
 (2) However, if the buyer is bound to take over the goods at a place other than a place of business of the seller, the risk passes when delivery is due and the buyer is aware of the fact that the goods are placed at his disposal at that place.
 
-(3) If the contract relates to goods not then identified, the goods are considered not to be placed at the disposal of the buyer until they are clearly identified to the contract.
-
 THE SCHEDULE — continued
+
+(3) If the contract relates to goods not then identified, the goods are considered not to be placed at the disposal of the buyer until they are clearly identified to the contract.
 
 Article 70
 
@@ -594,7 +588,9 @@ Article 71
 
 (1) A party may suspend the performance of his obligations if, after the conclusion of the contract, it becomes apparent that the other party will not perform a substantial part of his obligations as a result of:
 
-(a) a serious deficiency in his ability to perform or in his creditworthiness; or
+(a) a serious deficiency in his ability to perform or in his creditworthiness;
+
+or
 
 (b) his conduct in preparing to perform or in performing the contract.
 
@@ -610,11 +606,11 @@ Article 72
 
 (3) The requirements of the preceding paragraph do not apply if the other party has declared that he will not perform his obligations.
 
+THE SCHEDULE — continued
+
 Article 73
 
-(1) In the case of a contract for delivery of goods by instalments, if the failure of one party to perform any of his obligations in respect of any instalment constitutes THE SCHEDULE — continued
-
-a fundamental breach of contract with respect to that instalment, the other party may declare the contract avoided with respect to that instalment.
+(1) In the case of a contract for delivery of goods by instalments, if the failure of one party to perform any of his obligations in respect of any instalment constitutes a fundamental breach of contract with respect to that instalment, the other party may declare the contract avoided with respect to that instalment.
 
 (2) If one party’s failure to perform any of his obligations in respect of any instalment gives the other party good grounds to conclude that a fundamental breach of contract will occur with respect to future instalments, he may declare the contract avoided for the future, provided that he does so within a reasonable time.
 
@@ -636,9 +632,9 @@ Article 76
 
 (1) If the contract is avoided and there is a current price for the goods, the party claiming damages may, if he has not made a purchase or resale under article 75, recover the difference between the price fixed by the contract and the current price at the time of avoidance as well as any further damages recoverable under article 74. If, however, the party claiming damages has avoided the contract after taking over the goods, the current price at the time of such taking over shall be applied instead of the current price at the time of avoidance.
 
-(2) For the purposes of the preceding paragraph, the current price is the price prevailing at the place where delivery of the goods should have been made or, if there is no current price at that place, the price at such other place as serves as a THE SCHEDULE — continued
+THE SCHEDULE — continued
 
-reasonable substitute, making due allowance for differences in the cost of transporting the goods.
+(2) For the purposes of the preceding paragraph, the current price is the price prevailing at the place where delivery of the goods should have been made or, if there is no current price at that place, the price at such other place as serves as a reasonable substitute, making due allowance for differences in the cost of transporting the goods.
 
 Article 77
 
@@ -654,7 +650,7 @@ Section IV — Exemptions
 
 Article 79
 
-(1) A party is not liable for a failure to perform any of his obligations if he proved that the failure was due to an impediment beyond his control and that he could not reasonably be expected to have taken the impediment into account at the time of the conclusion of the contract or to have avoided or overcome it, or its consequences.
+(1) A party is not liable for a failure to perform any of his obligations if he proves that the failure was due to an impediment beyond his control and that he could not reasonably be expected to have taken the impediment into account at the time of the conclusion of the contract or to have avoided or overcome it, or its consequences.
 
 (2) If the party’s failure is due to the failure by a third person whom he has engaged to perform the whole or a part of the contract, that party is exempt from liability only if:
 
@@ -664,11 +660,11 @@ Article 79
 
 (3) The exemption provided by this article has effect for the period during which the impediment exists.
 
-(4) The party who fails to perform must give notice to the other party of the impediment and its effect on his ability to perform. If the notice is not received by the other party within a reasonable time after the party who fails to perform knew or ought to have known of the impediment, he is liable for damages resulting from such non-receipt.
+(4) The party who fails to perform must give notice to the other party of the impediment and its effect on his ability to perform. If the notice is not received by the other party within a reasonable time after the party who fails to perform knew THE SCHEDULE — continued
+
+or ought to have known of the impediment, he is liable for damages resulting from such non-receipt.
 
 (5) Nothing in this article prevents either party from exercising any right other than to claim damages under this Convention.
-
-THE SCHEDULE — continued
 
 Article 80
 
@@ -694,6 +690,8 @@ Article 82
 
 (c) if the goods or part of the goods have been sold in the normal course of business or have been consumed or transformed by the buyer in the course of normal use before he discovered or ought to have discovered the lack of conformity.
 
+THE SCHEDULE — continued
+
 Article 83
 
 A buyer who has lost the right to declare the contract avoided or to require the seller to deliver substitute goods in accordance with article 82 retains all other remedies under the contract and this Convention.
@@ -701,8 +699,6 @@ A buyer who has lost the right to declare the contract avoided or to require the
 Article 84
 
 (1) If the seller is bound to refund the price, he must also pay interest on it, from the date on which the price was paid.
-
-THE SCHEDULE — continued
 
 (2) The buyer must account to the seller for all benefits which he has derived from the goods or part of them:
 
@@ -722,15 +718,15 @@ Article 86
 
 (2) If goods dispatched to the buyer have been placed at his disposal at their destination and he exercises the right to reject them, he must take possession of them on behalf of the seller, provided that this can be done without payment of the price and without unreasonable inconvenience or unreasonable expense. This provision does not apply if the seller or a person authorized to take charge of the goods on his behalf is present at the destination. If the buyer takes possession of the goods under this paragraph, his rights and obligations are governed by the preceding paragraph.
 
+THE SCHEDULE — continued
+
 Article 87
 
 A party who is bound to take steps to preserve the goods may deposit them in a warehouse of a third person at the expense of the other party provided that the expense incurred is not unreasonable.
 
 Article 88
 
-(1) A party who is bound to preserve the goods in accordance with article 85 or 86 may sell them by any appropriate means if there has been an unreasonable delay by the other party in taking possession of the goods or in taking them back or in THE SCHEDULE — continued
-
-paying the price or the cost of preservation, provided that reasonable notice of the intention to sell has been given to the other party.
+(1) A party who is bound to preserve the goods in accordance with article 85 or 86 may sell them by any appropriate means if there has been an unreasonable delay by the other party in taking possession of the goods or in taking them back or in paying the price or the cost of preservation, provided that reasonable notice of the intention to sell has been given to the other party.
 
 (2) If the goods are subject to rapid deterioration or their preservation would involve unreasonable expense, a party who is bound to preserve the goods in accordance with article 85 or 86 must take reasonable measures to sell them. To the extent possible he must give notice to the other party of his intention to sell.
 
@@ -754,6 +750,8 @@ Article 91
 
 (2) This Convention is subject to ratification, acceptance or approval by the signatory States.
 
+THE SCHEDULE — continued
+
 (3) This Convention is open for accession by all States which are not signatory States as from the date it is open for signature.
 
 (4) Instruments of ratification, acceptance, approval and accession are to be deposited with the Secretary-General of the United Nations.
@@ -761,8 +759,6 @@ Article 91
 Article 92
 
 (1) A Contracting State may declare at the time of signature, ratification, acceptance, approval or accession that it will not be bound by Part II of this Convention or that it will not be bound by Part III of this Convention.
-
-THE SCHEDULE — continued
 
 (2) A Contracting State which makes a declaration in accordance with the preceding paragraph in respect of Part II or Part III of this Convention is not to be considered a Contracting State within paragraph (1) of article 1 of this Convention in respect of matters governed by the Part to which the declaration applies.
 
@@ -780,15 +776,15 @@ Article 94
 
 (1) Two or more Contracting States which have the same or closely related legal rules on matters governed by this Convention may at any time declare that the Convention is not to apply to contracts of sale or to their formation where the parties have their places of business in those States. Such declarations may be made jointly or by reciprocal unilateral declarations.
 
-(2) A Contracting State which has the same or closely related legal rules on matters governed by this Convention as one or more non-Contracting States may at any time declare that the Convention is not to apply to contracts of sale or to their formation where the parties have their places of business in those States.
+(2) A Contracting State which has the same or closely related legal rules on matters governed by this Convention as one or more non-Contracting States may THE SCHEDULE — continued
+
+at any time declare that the Convention is not to apply to contracts of sale or to their formation where the parties have their places of business in those States.
 
 (3) If a State which is the object of a declaration under the preceding paragraph subsequently becomes a Contracting State, the declaration made will, as from the date on which the Convention enters into force in respect of the new Contracting State, have the effect of a declaration made under paragraph (1), provided that the new Contracting State joins in such declaration or makes a reciprocal unilateral declaration.
 
-THE SCHEDULE — continued
-
 Article 95
 
-Any State may declare at the time of the deposit of its instrument of ratification, acceptance, approval or accession that it will not be bound by sub‑paragraph (1)(b) of article 1 of this Convention.
+Any State may declare at the time of the deposit of its instrument of ratification, acceptance, approval or accession that it will not be bound by sub-paragraph (1)(b) of article 1 of this Convention.
 
 Article 96
 
@@ -804,6 +800,8 @@ Article 97
 
 (4) Any State which makes a declaration under this Convention may withdraw it at any time by a formal notification in writing addressed to the depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of the receipt of the notification by the depositary.
 
+THE SCHEDULE — continued
+
 (5) A withdrawal of a declaration made under article 94 renders inoperative, as from the date on which the withdrawal takes effect, any reciprocal declaration made by another State under that article.
 
 Article 98
@@ -812,9 +810,7 @@ No reservations are permitted except those expressly authorized in this Conventi
 
 Article 99
 
-(1) This Convention enters into force, subject to the provisions of paragraph (6) of this article, on the first day of the month following the expiration of twelve THE SCHEDULE — continued
-
-months after the date of deposit of the tenth instrument of ratification, acceptance, approval or accession, including an instrument which contains a declaration made under article 92.
+(1) This Convention enters into force, subject to the provisions of paragraph (6) of this article, on the first day of the month following the expiration of twelve months after the date of deposit of the tenth instrument of ratification, acceptance, approval or accession, including an instrument which contains a declaration made under article 92.
 
 (2) When a State ratifies, accepts, approves or accedes to this Convention after the deposit of the tenth instrument of ratification, acceptance, approval or accession, this Convention, with the exception of the Part excluded, enters into force in respect of that State, subject to the provisions of paragraph (6) of this article, on the first day of the month following the expiration of twelve months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
 
@@ -824,15 +820,15 @@ months after the date of deposit of the tenth instrument of ratification, accept
 
 (5) A State party to the 1964 Hague Formation Convention which ratifies, accepts, approves or accedes to the present Convention and declares or has declared under article 92 that it will not be bound by Part III of this Convention shall at the time of ratification, acceptance, approval or accession denounce the 1964 Hague Formation Convention by notifying the Government of the Netherlands to that effect.
 
-(6) For the purpose of this article, ratifications, acceptances, approvals and accessions in respect of this Convention by States parties to the 1964 Hague Formation Convention or to the 1964 Hague Sales Convention shall not be effective until such denunciations as may be required on the part of those States in respect of the latter two Conventions have themselves become effective. The depositary of this Convention shall consult with the Government of the Netherlands, as the depositary of the 1964 Conventions, so as to ensure necessary co-ordination in this respect.
-
 THE SCHEDULE — continued
+
+(6) For the purpose of this article, ratifications, acceptances, approvals and accessions in respect of this Convention by States parties to the 1964 Hague Formation Convention or to the 1964 Hague Sales Convention shall not be effective until such denunciations as may be required on the part of those States in respect of the latter two Conventions have themselves become effective. The depositary of this Convention shall consult with the Government of the Netherlands, as the depositary of the 1964 Conventions, so as to ensure necessary co-ordination in this respect.
 
 Article 100
 
-(1) This Convention applies to the formation of a contract only when the proposal for concluding the contract is made on or after the date when the Convention enters into force in respect of the Contracting States referred to in sub‑paragraph (1)(a) or the Contracting State referred to in sub‑paragraph (1)(b) of article 1.
+(1) This Convention applies to the formation of a contract only when the proposal for concluding the contract is made on or after the date when the Convention enters into force in respect of the Contracting States referred to in sub-paragraph (1)(a) or the Contracting State referred to in sub-paragraph (1)(b) of article 1.
 
-(2) This Convention applies only to contracts concluded on or after the date when the Convention enters into force in respect of the Contracting States referred to in sub‑paragraph (1)(a) or the Contracting State referred to in sub‑paragraph (1)(b) of article 1.
+(2) This Convention applies only to contracts concluded on or after the date when the Convention enters into force in respect of the Contracting States referred to in sub-paragraph (1)(a) or the Contracting State referred to in sub-paragraph (1)(b) of article 1.
 
 Article 101
 

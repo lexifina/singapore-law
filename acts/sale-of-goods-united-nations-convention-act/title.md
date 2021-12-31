@@ -1,18 +1,17 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SALE OF GOODS (UNITED NATIONS CONVENTION) ACT
-(CHAPTER 283A)
-(Original Enactment: Act 14 of 1995)
-REVISED EDITION 2013
-(31st August 2013)
+SALE OF GOODS
+(UNITED NATIONS CONVENTION)
+ACT 1995
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act to give effect to the United Nations Convention on Contracts for the International Sale of Goods concluded at Vienna on 11th April 1980.
+An Act to give effect to the United Nations Convention on Contracts for the International Sale of Goods concluded at Vienna on 11 April 1980.
 
-[1st March 1996]
+[1 March 1996]

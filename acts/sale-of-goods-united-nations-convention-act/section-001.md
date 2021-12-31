@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Sale of Goods (United Nations Convention) Act.
+This Act is the Sale of Goods (United Nations Convention) Act 1995.
