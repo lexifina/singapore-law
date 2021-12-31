@@ -20,8 +20,6 @@
 
 (h) the conditions under which licences may be granted;
 
-(i) the exemption of premises or classes of premises from the provisions of this Act; and
+(i) the exemption of premises or classes of premises from the provisions of this Act;
 
 (j) prescribing that any act or omission in contravention of the provisions of any regulations made under this Act shall be an offence, and imposing penalties for such offences which penalties may extend to the cancellation or suspension of any certificate of registration and to the cancellation of any licence granted under the provisions of this Act, but shall not exceed a fine of $2,000.
-
-[13

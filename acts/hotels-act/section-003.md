@@ -8,9 +8,7 @@
 
 (4) If any vacancy occurs by death, resignation or otherwise, a new chairman or member, as the case may be, shall be appointed by the Minister in accordance with subsection (1).
 
-(5) Any person appointed to fill a casual vacancy under subsection
-
-(4) shall hold office so long only as the person in whose place he is appointed would have held office.
+(5) Any person appointed to fill a casual vacancy under subsection (4) shall hold office so long only as the person in whose place he is appointed would have held office.
 
 (6) The powers of the Board may be exercised notwithstanding any vacancy in their number.
 

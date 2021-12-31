@@ -10,13 +10,13 @@
 
 (b) such further conditions, if any, as may in each case be imposed by the Board.
 
-(4) Any condition imposed under subsection (3) (b) shall be set out in the licence.
+(4) Any condition imposed under subsection (3)(b) shall be set out in the licence.
 
 (5) Every licence shall be —
 
 (a) in the form prescribed; and
 
-(b) granted on or after 1st January in every year and shall expire on 31st December next following the date of grant.
+(b) granted on or after 1 January in every year and shall expire on 31 December next following the date of grant.
 
 (6) No licence shall be granted by the Board unless the person applying satisfies the Board that —
 

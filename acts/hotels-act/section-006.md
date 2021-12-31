@@ -1,6 +1,6 @@
 # 6. Conditions for grant of certificate of registration
 
-No certificate of registration shall be granted under section 5 (3) unless the Board is satisfied —
+No certificate of registration shall be granted under section 5(3) unless the Board is satisfied —
 
 (a) that the premises will not be conducted as a disorderly house;
 

@@ -15,5 +15,3 @@
 (7) Any person guilty of an offence shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent offence, to such fine or to imprisonment for a term not exceeding 6 months or to both.
 
 (8) In addition to any other penalty imposed, the court may cancel or suspend any certificate of registration and may cancel any licence granted under this Act.
-
-[17

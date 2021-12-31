@@ -5,5 +5,3 @@
 (2) Every person who appears to be employed in any hotel registered under this Act, shall, for the purposes of this section, be deemed to be a servant of the person licensed in respect thereof.
 
 (3) Nothing in this section shall be construed as relieving any such agent or servant from any penalty or forfeiture to which he would otherwise be liable.
-
-[14
