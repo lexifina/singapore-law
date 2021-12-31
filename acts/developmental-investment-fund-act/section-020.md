@@ -1,5 +1,5 @@
 # 20. Regulations
-Part: PART IV MISCELLANEOUS
+Part: PART 4 MISCELLANEOUS
 
 The Minister may make regulations for the sound and efficient management and investment of the Fund, including —
 
