@@ -1,0 +1,10 @@
+# 9. Probate of copy or draft, or of contents Where will destroyed, etc.
+Part: PART 3 GRANT OF PROBATE OR LETTERS OF ADMINISTRATION
+
+Where a will has been lost or mislaid after the death of the testator, or where a will cannot for any sufficient reason be produced —
+
+(a) if a copy or draft thereof is produced, and it appears that the copy or draft is identical in terms with the original, probate may be granted of that copy or draft, limited until the original is admitted to probate; or
+
+(b) if no such copy or draft is produced, probate may be granted of the contents of the will, if they can be sufficiently established, limited as above described.
+
+Where will destroyed, etc.

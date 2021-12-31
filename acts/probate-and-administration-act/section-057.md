@@ -1,0 +1,10 @@
+# 57. Administration of assets
+Part: PART 11 GENERAL
+
+(1) Where the estate of a deceased person is insolvent his estate shall be administered in accordance with the rules set out in the First Schedule.
+
+(2) The right of retainer of a personal representative and his right to prefer creditors may be exercised in respect of all assets of the deceased, but the right of retainer shall only apply to debts owing to the personal representative in his own right whether solely or jointly with another person.
+
+(3) Subject to subsection (2), nothing in this Act shall affect the right of retainer of a personal representative, or his right to prefer creditors.
+
+(4) Where the estate of a deceased person is solvent his estate shall, subject to the Rules of Court and section 58 as to charges on property of the deceased, and to the provisions, if any, contained in his will, be applicable towards the discharge of the funeral, testamentary and administration expenses, debts and liabilities payable thereout in the order mentioned in the Second Schedule.

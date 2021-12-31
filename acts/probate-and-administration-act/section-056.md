@@ -1,0 +1,6 @@
+# 56. Death of payee
+Part: PART 11 GENERAL
+
+(1) When funds in court are by an order directed to be paid, transferred or delivered to any person named or described in an order, or in a certificate of the registrar, except to a person therein expressed to be entitled to those funds as trustee, executor, or administrator, or otherwise than in his own right, or for his own use, the funds, or any portion thereof for the time being remaining unpaid, untransferred or undelivered, may, unless the order otherwise directs, on proof of the death of such person, whether on or after or, in the case of payment directed to be made to a creditor as such, before the date of the order, be paid, transferred, or delivered to the legal personal representatives of the deceased person, or to the survivors or survivor of them.
+
+(2) If no administration has been taken out to the estate of such deceased person who has died intestate, and whose assets do not exceed $500, including the amount of the funds directed to be so paid, transferred or delivered to him, the funds may be paid, transferred or delivered to the person who, being a widower, widow, child, father, mother, brother or sister of the deceased, would be entitled to take administration to his or her estate upon a declaration by that person in the prescribed form.
