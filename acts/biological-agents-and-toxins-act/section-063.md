@@ -1,9 +1,9 @@
 # 63. Regulations
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
 (1) The Minister may make regulations for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
 (a) the regulation of the possession, storage, use, import, transfer, transportation and disposal of scheduled biological agents, inactivated scheduled biological agents and Fifth Schedule toxins, including —
 
@@ -49,12 +49,12 @@ and
 
 (b) provide that a contravention of any provision of the regulations or an order referred to in paragraph (a) made under the regulations shall be an offence punishable —
 
-(i) in relation to or in connection with any First Schedule (Part I) biological agent, Third Schedule biological agent or Fourth Schedule biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+(i) in relation to or in connection with any First Schedule (Part 1) biological agent, Third Schedule biological agent or Fourth Schedule biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
 
-(ii) in relation to or in connection with any First Schedule (Part II) biological agent, Second Schedule biological agent or Fifth Schedule toxin, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
+(ii) in relation to or in connection with any First Schedule (Part 2) biological agent, Second Schedule biological agent or Fifth Schedule toxin, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
 
 (4) In this section —
 
-‘‘inactivated scheduled biological agent’’ means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent that has been inactivated;
+“inactivated scheduled biological agent” means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent that has been inactivated;
 
-‘‘scheduled biological agent’’ means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent.
+“scheduled biological agent” means a First Schedule biological agent, a Second Schedule biological agent, a Third Schedule biological agent or a Fourth Schedule biological agent.

@@ -1,7 +1,3 @@
 # FIFTH SCHEDULE
 
-Section 2
-
-FIFTH SCHEDULE TOXINS 1. Botulinum toxins (Types A, B, C, D, E, F and G) 2. Clostridium perfringens toxins 3. Staphylococcal Enterotoxin B 4. Shigatoxins 5. Verotoxins 6. T-2 toxin 7. Tetanus toxin.
-
-[S 589/2006]
+Sections 2, 31(1), (2), (3), (4) and (6), 32(1), (2), (3) and (4), 33(1) and (2), 34, 35, 36(1), (2) and (3), 37(1), 38, 44, 45(2), 46, 47(6), 62 and 63(2) and (3)

@@ -1,13 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY BIOLOGICAL AGENTS AND TOXINS ACT 2005
 
-BIOLOGICAL AGENTS AND TOXINS ACT (CHAPTER 24A)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Biological Agents and Toxins Act. It is not part of the Act.
+1. Act 36 of 2005 — Biological Agents and Toxins Act 2005 Bill : 26/2005 First Reading : 19 September 2005 Second and Third Readings : 18 October 2005 Commencement : 3 January 2006 2. G.N. No. S 589/2006 — Biological Agents and Toxins Act (Amendment of First and Fifth Schedules) Order 2006 Commencement : 1 November 2006 3. 2006 Revised Edition — Biological Agents and Toxins Act (Chapter 24A) Operation : 31 December 2006 4. Act 22 of 2007 — Dentists (Amendment) Act 2007 (Amendments made by section 39 read with item (1) of the Schedule to the above Act) Bill : 9/2007 First Reading : 27 February 2007 Second and Third Readings : 12 April 2007 Commencement : 1 January 2008 (section 39 read with item (1) of the Schedule) 5. G.N. No. S 676/2007 — Biological Agents and Toxins Act (Amendment of First Schedule) Order 2007 Commencement : 1 January 2008 6. Act 10 of 2008 — Infectious Diseases (Amendment) Act 2008 (Amendments made by section 35 of the above Act) Bill : 5/2008 First Reading : 28 February 2008 Second and Third Readings : 22 April 2008 Commencement : 10 June 2008 (section 35) 7. G.N. No. S 573/2009 — Biological Agents and Toxins Act (Amendment of First and Second Schedules) Order 2009 Commencement : 1 December 2009 8. G.N. No. S 541/2011 — Biological Agents and Toxins Act (Amendment of First and Fifth Schedules) Order 2011 Commencement : 1 October 2011 9. G.N. No. S 396/2015 — Biological Agents and Toxins Act (Amendment of First, Second, Fifth and Eighth Schedules) Order 2015 Commencement : 1 July 2015 10. G.N. No. S 652/2017 — Biological Agents and Toxins Act (Amendment of First Schedule) Order 2017 Commencement : 1 December 2017 11. Act 41 of 2017 — Infrastructure Protection Act 2017 (Amendments made by section 86(1) of the above Act) Bill : 32/2017 First Reading : 11 September 2017 Second and Third Readings : 2 October 2017 Commencement : 18 December 2018 (section 86(1)) 12. G.N. No. S 71/2020 — Biological Agents and Toxins Act (Amendment of First Schedule) Order 2020 Commencement : 30 January 2020 13. G.N. No. S 139/2020 — Biological Agents and Toxins Act (Amendment of First Schedule) (No. 2) Order 2020 Commencement : 28 February 2020 14. G.N. No. S 87/2021 — Biological Agents and Toxins Act (Amendment of First Schedule) Order 2021 Commencement : 16 February 2021
 
-Act 36 of 2005 — Biological Agents and Toxins Act 2005
+Abbreviations
 
-Date of First Reading : 19 September 2005 (Bill No. 26/2005 published on 20 September 2005)
-
-Date of Second and Third Readings : 18 October 2005
-
-Date of commencement : 3 January 2006
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

@@ -1,5 +1,5 @@
 # 52. Power of entry, inspection, search and seizure, etc.
-Part: PART VII ENFORCEMENT
+Part: PART 7 ENFORCEMENT
 
 (1) For the purpose of the administration and enforcement of this Act, the Director or any enforcement officer may —
 
@@ -37,7 +37,7 @@ Part: PART VII ENFORCEMENT
 
 (B) stop using, and to prevent any other person from using, the conveyance until the Director or enforcement officer is satisfied that the conveyance is safe for use;
 
-(c) require any person to furnish any information within his knowledge, including information relating to —
+(c) require any person to furnish any information within the person’s knowledge, including information relating to —
 
 (i) any activity that has been or is being carried out on any premises;
 
@@ -47,7 +47,7 @@ Part: PART VII ENFORCEMENT
 
 (iv) any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and
 
-(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance;
+(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance, and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;
 
 (d) require any person to produce in a form which is visible and legible and may be taken away, any information stored in any electronic form relating to —
 
@@ -59,9 +59,9 @@ Part: PART VII ENFORCEMENT
 
 (iv) any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and
 
-(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance;
+(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance, and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;
 
-(e) require any person to produce for inspection any book or document relating to —
+(e) require any person to produce any book or document relating to —
 
 (i) any activity that has been or is being carried out on any premises;
 
@@ -71,7 +71,7 @@ Part: PART VII ENFORCEMENT
 
 (iv) any apparatus, appliance, equipment or instrument that has been or is being used in carrying out any activity on any premises; and
 
-(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance, and retain, make or cause to be made copies of, or extracts from, any such book or document;
+(v) the source of any biological agent or toxin that has been or is being used in the carrying out of any activity on any premises, or which is found on any conveyance, for inspection, retention or the making of copies thereof by the Director or any enforcement officer, or to provide the Director or any enforcement officer with copies of such book or document; and may further require such person to attend at a specified time and place for the purposes of complying with this paragraph;
 
 (f) require any person who was or is present on any premises or on any conveyance and whom the Director or enforcement officer has reason to suspect has been exposed to any biological agent or toxin to undergo such medical examination and medical treatment at such place or hospital as the Director may specify; and
 
@@ -79,12 +79,14 @@ Part: PART VII ENFORCEMENT
 
 (i) the name and address of that person are unknown;
 
-(ii) that person refuses or declines to give his name or address when required; or
+(ii) that person refuses or declines to give his or her name or address when required; or
 
 (iii) the enforcement officer has reason to doubt the accuracy of any name or address given by that person.
 
+[10/2008]
+
 (2) Any person who —
 
-(a) refuses or fails, without reasonable excuse, to comply with any requirement of the Director or an enforcement officer under this section; or
+(a) without reasonable excuse, refuses or fails to comply with any requirement of the Director or an enforcement officer under this section; or
 
 (b) gives any false or misleading information when required to furnish any information to the Director or an enforcement officer under this section, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.

@@ -1,22 +1,22 @@
 # 6. Prohibition against possession of First Schedule biological agents without approval
-Part: PART III BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
-Division: Division 2 — First Schedule biological agents Subdivision (1) — possession and use
+Part: PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
+Division: Division 2 — First Schedule biological agents Subdivision (1) — Possession and use
 
-(1) No person shall possess any First Schedule biological agent unless his possession of the First Schedule biological agent is authorised by and is in accordance with the conditions of an approval granted by the Director.
+(1) A person must not possess any First Schedule biological agent unless the person’s possession of the First Schedule biological agent is authorised by and is in accordance with the conditions of an approval granted by the Director.
 
-(2) Subject to subsection (3), for the purpose of subsection (1), no approval to possess a First Schedule biological agent shall be granted to any person unless —
+(2) Subject to subsection (3), for the purpose of subsection (1), no approval to possess a First Schedule biological agent may be granted to any person unless —
 
-(a) he is the operator of a certified facility; and
+(a) the person is the operator of a certified facility; and
 
-(b) where the biological agent is a First Schedule (Part II) biological agent, the facility is a protected place.
+(b) where the biological agent is a First Schedule (Part 2) biological agent, the facility is a protected place.
 
-(3) Notwithstanding subsection (2) (a), the Director may grant an approval to possess a First Schedule biological agent to the operator of an uncertified facility if the Director is satisfied that any activity involving the use of the First Schedule biological agent will be carried out at such facility in a safe and proper manner.
+(3) Despite subsection (2)(a), the Director may grant an approval to possess a First Schedule biological agent to the operator of an uncertified facility if the Director is satisfied that any activity involving the use of the First Schedule biological agent will be carried out at such facility in a safe and proper manner.
 
-(4) A person who has been granted an approval to possess a First Schedule biological agent shall keep or use the First Schedule biological agent only at the following places:
+(4) A person who has been granted an approval to possess a First Schedule biological agent must keep or use the First Schedule biological agent only at the following places:
 
-(a) where he is the operator of a certified facility, at the certified facility specified in the approval to possess; and
+(a) where the person is the operator of a certified facility, at the certified facility specified in the approval to possess; and
 
-(b) where he is the operator of an uncertified facility, at such facility as may be specified in the approval to possess.
+(b) where the person is the operator of an uncertified facility, at such facility as may be specified in the approval to possess.
 
 (5) Any person who —
 
@@ -24,9 +24,9 @@ Division: Division 2 — First Schedule biological agents Subdivision (1) — po
 
 (b) keeps or uses such biological agent at any facility in contravention of subsection (4), shall be guilty of an offence and shall be liable on conviction to be punished as follows:
 
-(i) in the case of a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+(c) in the case of a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
 
-(ii) in the case of a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
+(d) in the case of a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
 
 (6) Where any person possesses any First Schedule biological agent in contravention of subsection (1) or keeps or uses such biological agent at any facility in contravention of subsection (4), the Director may order any one or more of the following:
 
@@ -46,18 +46,16 @@ Division: Division 2 — First Schedule biological agents Subdivision (1) — po
 
 (7) Any person who contravenes any order made by the Director under subsection (6) shall be guilty of an offence and shall be liable on conviction to be punished as follows:
 
-(a) where the order has been made in relation to or in connection with a First Schedule (Part I) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
+(a) where the order has been made in relation to or in connection with a First Schedule (Part 1) biological agent, with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both; and
 
-(b) where the order has been made in relation to or in connection with a First Schedule (Part II) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
+(b) where the order has been made in relation to or in connection with a First Schedule (Part 2) biological agent, with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 10 years or with both.
 
-(8) This section shall not apply to —
+(8) This section does not apply to —
 
-(a) any person who has been engaged to transport any First Schedule biological agent within Singapore and whose possession of the First Schedule biological agent is merely incidental to his transporting it in accordance with such engagement; or
+(a) any person who has been engaged to transport any First Schedule biological agent within Singapore and whose possession of the First Schedule biological agent is merely incidental to the person’s transporting it in accordance with such engagement; or
 
 (b) any person who has been engaged to store any First Schedule biological agent within Singapore pending —
 
-(i) the delivery of the First Schedule biological agent to the person who has procured its import into Singapore;
+(i) the delivery of the First Schedule biological agent to the person who has procured its import into Singapore; or
 
-or
-
-(ii) the exportation of the First Schedule biological agent from Singapore in the course of transhipment, and whose possession of the First Schedule biological agent is merely incidental to his storing it in accordance with such engagement.
+(ii) the export of the First Schedule biological agent from Singapore in the course of transhipment, and whose possession of the First Schedule biological agent is merely incidental to the person’s storing it in accordance with such engagement.

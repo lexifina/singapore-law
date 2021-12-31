@@ -1,12 +1,14 @@
 # 16. Prohibition against large-scale production of Second Schedule biological agents
-Part: PART III BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
+Part: PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
 Division: Division 3 — Second Schedule biological agents Subdivision (1) — Possession and use
 
-(1) No person shall carry out or procure any large-scale production of any Second Schedule biological agent.
+(1) A person must not carry out or procure any large-scale production of any Second Schedule biological agent.
 
 (2) Where any person produces any Second Schedule biological agent at any facility in contravention of subsection (1) —
 
-(a) he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and
+(a) the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both;
+
+and
 
 (b) the Director may order any one or more of the following:
 
@@ -24,4 +26,4 @@ Division: Division 3 — Second Schedule biological agents Subdivision (1) — P
 
 (B) be quarantined at such place and for such period as the Director may specify in the order.
 
-(3) Any person who contravenes any order made by the Director under subsection (2) (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term which may extend to life imprisonment or to both.
+(3) Any person who contravenes any order made by the Director under subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term which may extend to life imprisonment or to both.

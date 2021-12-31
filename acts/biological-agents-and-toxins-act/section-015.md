@@ -1,16 +1,16 @@
 # 15. Prohibition against possession of Second Schedule biological agents without approval
-Part: PART III BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
+Part: PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
 Division: Division 3 — Second Schedule biological agents Subdivision (1) — Possession and use
 
-(1) No person shall possess any Second Schedule biological agent unless his possession of the Second Schedule biological agent is authorised by and is in accordance with the conditions of an approval granted by the Director.
+(1) A person must not possess any Second Schedule biological agent unless the person’s possession of the Second Schedule biological agent is authorised by and is in accordance with the conditions of an approval granted by the Director.
 
-(2) For the purposes of subsection (1), no approval to possess a Second Schedule biological agent shall be granted to any person unless he —
+(2) For the purposes of subsection (1), an approval to possess a Second Schedule biological agent must not be granted to any person unless the person —
 
 (a) is the operator of a certified facility which is a protected place; and
 
 (b) has been granted a special approval to handle the Second Schedule biological agent as referred to in section 14.
 
-(3) A person who has been granted an approval to possess a Second Schedule biological agent shall keep or use the Second Schedule biological agent only at the certified facility specified in the approval to possess.
+(3) A person who has been granted an approval to possess a Second Schedule biological agent must keep or use the Second Schedule biological agent only at the certified facility specified in the approval to possess.
 
 (4) Any person who —
 
@@ -36,14 +36,12 @@ Division: Division 3 — Second Schedule biological agents Subdivision (1) — P
 
 (6) Any person who contravenes any order made by the Director under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(7) This section shall not apply to —
+(7) This section does not apply to —
 
-(a) any person who has been engaged to transport any Second Schedule biological agent within Singapore and whose possession of the Second Schedule biological agent is merely incidental to his transporting it in accordance with such engagement; or
+(a) any person who has been engaged to transport any Second Schedule biological agent within Singapore and whose possession of the Second Schedule biological agent is merely incidental to the person’s transporting it in accordance with such engagement; or
 
 (b) any person who has been engaged to store any Second Schedule biological agent within Singapore pending —
 
-(i) the delivery of the Second Schedule biological agent to the person who has procured its import into Singapore;
+(i) the delivery of the Second Schedule biological agent to the person who has procured its import into Singapore; or
 
-or
-
-(ii) the exportation of the Second Schedule biological agent from Singapore in the course of transhipment, and whose possession of the Second Schedule biological agent is merely incidental to his storing it in accordance with such engagement.
+(ii) the export of the Second Schedule biological agent from Singapore in the course of transhipment, and whose possession of the Second Schedule biological agent is merely incidental to the person’s storing it in accordance with such engagement.

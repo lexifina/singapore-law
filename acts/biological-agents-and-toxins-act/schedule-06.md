@@ -1,12 +1,12 @@
 # SIXTH SCHEDULE
 
-Section 39 (1)
+Sections 39(1) and 62
 
 BIOSAFETY COMMITTEE
 
-Every biosafety committee appointed by an operator in relation to its facility shall comprise the following persons:
+Every biosafety committee appointed by an operator in relation to its facility must comprise the following persons:
 
-(a) the biosafety co-ordinator referred to in section 39 (1);
+(a) the biosafety co-ordinator referred to in section 39(1);
 
 (b) a person having expertise in microbiology, and knowledge in the physical and biological sciences, and laboratory practices;
 

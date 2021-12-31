@@ -1,9 +1,3 @@
 # THIRD SCHEDULE
 
-Section 2
-
-THIRD SCHEDULE BIOLOGICAL AGENTS BACTERIA 1. Bordetella pertussis
-
-2. Legionella — all species and all Legionella-like organisms VIRUSES
-
-1. Hepatitis B virus.
+Sections 2, 23(1) and (2), 24(1), 38, 45(2), 46, 47(6), 62 and 63(3) and (4)

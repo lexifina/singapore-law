@@ -1,7 +1,7 @@
 # 41. Activities and staff
-Part: PART V DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS Division 1 — Duties and obligations of operators, biosafety committees, biosafety co-ordinators and staff of facilities
+Part: PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS Division 1 — Duties and obligations of operators, biosafety committees, biosafety co-ordinators and staff of facilities
 
-Every operator of a facility shall —
+Every operator of a facility must —
 
 (a) ensure that proper assessments of risk, management of risk, operational monitoring, supervision and review of the storage of or activities involving biological agents or toxins at the facility are carried out;
 

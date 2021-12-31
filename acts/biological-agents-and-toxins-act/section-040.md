@@ -1,7 +1,7 @@
 # 40. Maintaining facilities and equipment
-Part: PART V DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS Division 1 — Duties and obligations of operators, biosafety committees, biosafety co-ordinators and staff of facilities
+Part: PART 5 DUTIES AND OBLIGATIONS IN RELATION TO BIOLOGICAL AGENTS AND TOXINS Division 1 — Duties and obligations of operators, biosafety committees, biosafety co-ordinators and staff of facilities
 
-Every operator of a facility shall —
+Every operator of a facility must —
 
 (a) ensure that the facility is appropriate for its purpose and complies with such requirements as may be prescribed;
 

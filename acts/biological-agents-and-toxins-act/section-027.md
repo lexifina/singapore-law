@@ -1,18 +1,18 @@
 # 27. Prohibition against inactivation of biological agents
-Part: PART III BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
+Part: PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
 Division: Division 6 — Inactivated biological agents
 
-(1) No person shall inactivate or procure the inactivation of any First Schedule biological agent or Second Schedule biological agent unless —
+(1) A person must not inactivate or procure the inactivation of any First Schedule biological agent or Second Schedule biological agent unless —
 
-(a) he has been granted an approval to possess the First Schedule biological agent as referred to in section 6, or an approval to possess the Second Schedule biological agent as referred to in section 15 (as the case may be); and
+(a) the person has been granted an approval to possess the First Schedule biological agent as referred to in section 6, or an approval to possess the Second Schedule biological agent as referred to in section 15, as the case may be; and
 
 (b) the inactivation of the biological agent is carried out —
 
-(i) in accordance with such method as may be approved by his biosafety committee; and
+(i) in accordance with such method as may be approved by the person’s biosafety committee; and
 
-(ii) at the facility specified in his approval to possess the First Schedule biological agent or Second Schedule biological agent.
+(ii) at the facility specified in the person’s approval to possess the First Schedule biological agent or Second Schedule biological agent.
 
-(2) Subsection (1) shall not apply insofar as the inactivation relates to the decontamination of any First Schedule biological agent waste or Second Schedule biological agent waste.
+(2) Subsection (1) does not apply insofar as the inactivation relates to the decontamination of any First Schedule biological agent waste or Second Schedule biological agent waste.
 
 (3) Where any person has inactivated or attempted to inactivate any First Schedule biological agent or Second Schedule biological agent at any facility in contravention of subsection (1) (whether or not the inactivation is successful), the Director may order any one or more of the following:
 

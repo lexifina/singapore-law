@@ -1,4 +1,4 @@
 # 62. Amendment of Schedules
-Part: PART VIII MISCELLANEOUS
+Part: PART 8 MISCELLANEOUS
 
-The Minister may at any time, by order published in the Gazette, amend any Schedule.
+The Minister may at any time, by order in the Gazette, amend any Schedule.

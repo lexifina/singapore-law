@@ -1,10 +1,10 @@
 # 35. Prohibition against transfers of Fifth Schedule toxins except by certain persons
-Part: PART IV TOXINS Division 1 — General
+Part: PART 4 TOXINS Division 1 — General
 Division: Division 4 — Transfer
 
-(1) Subject to subsection (2), no person shall transfer any Fifth Schedule toxin unless —
+(1) Subject to subsection (2), a person must not transfer any Fifth Schedule toxin unless —
 
-(a) he has an approval to possess the Fifth Schedule toxin as referred to in section 31; and
+(a) the person has an approval to possess the Fifth Schedule toxin as referred to in section 31; and
 
 (b) the transferee —
 
@@ -12,7 +12,7 @@ Division: Division 4 — Transfer
 
 (ii) is outside Singapore.
 
-(2) No person to whom any Fifth Schedule toxin has been provided for any excluded purpose shall transfer the Fifth Schedule toxin to any other person for any purpose other than an excluded purpose unless the transferee —
+(2) A person to whom any Fifth Schedule toxin has been provided for any excluded purpose must not transfer the Fifth Schedule toxin to any other person for any purpose other than an excluded purpose unless the transferee —
 
 (a) has been granted an approval to possess the Fifth Schedule toxin as referred to in section 31; or
 

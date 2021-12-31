@@ -1,5 +1,5 @@
 # 53. Power to make orders for cessation of activity on facilities, etc.
-Part: PART VII ENFORCEMENT
+Part: PART 7 ENFORCEMENT
 
 (1) Where the Director has reason to suspect that any storage of or activity involving any biological agent, inactivated biological agent or toxin at or carried out on any facility —
 
@@ -11,23 +11,23 @@ Part: PART VII ENFORCEMENT
 
 (d) is contrary to the public interest, the Director may order any one or more of the following:
 
-(i) the immediate cessation of any activity involving any biological agent or toxin at the facility;
+(e) the immediate cessation of any activity involving any biological agent or toxin at the facility;
 
-(ii) the destruction of any biological agent or toxin at the facility;
+(f) the destruction of any biological agent or toxin at the facility;
 
-(iii) the decontamination of the facility;
+(g) the decontamination of the facility;
 
-(iv) the closure or cordoning off of the facility until such time as the Director is satisfied that the facility may safely resume operation;
+(h) the closure or cordoning off of the facility until such time as the Director is satisfied that the facility may safely resume operation;
 
-(v) that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any biological agent or toxin at the facility should —
+(i) that any person who is or was at the facility (whether as a member of the staff of the facility or otherwise) and who may be or may have been exposed to any biological agent or toxin at the facility should —
 
-(A) undergo such medical examination and medical treatment at such place or hospital as the Director may specify in the order; or
+(i) undergo such medical examination and medical treatment at such place or hospital as the Director may specify in the order; or
 
-(B) be quarantined at such place and for such period as the Director may specify in the order.
+(ii) be quarantined at such place and for such period as the Director may specify in the order.
 
 (2) Any person who contravenes any order made by the Director under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(3) Subsection (1) shall be in addition to, and not in derogation of, any other provision in this Act empowering the Director to make any similar order referred to in paragraphs (i) to (v) of that subsection.
+(3) Subsection (1) is in addition to, and not in derogation of, any other provision in this Act empowering the Director to make any similar order referred to in paragraphs (e) to (i) of that subsection.
 
 (4) Where an order is made under this Act by the Director —
 

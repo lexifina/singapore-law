@@ -1,8 +1,8 @@
 # 23. Prohibition against large-scale production of Third Schedule biological agents without approval
-Part: PART III BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
+Part: PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
 Division: Division 4 — Third Schedule biological agents
 
-(1) No person shall carry out or procure any large-scale production of any Third Schedule biological agent unless the large-scale production of the Third Schedule biological agent —
+(1) A person must not carry out or procure any large-scale production of any Third Schedule biological agent unless the large-scale production of the Third Schedule biological agent —
 
 (a) is authorised by an approval granted by the Director; and
 

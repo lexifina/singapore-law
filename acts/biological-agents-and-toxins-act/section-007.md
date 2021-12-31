@@ -1,8 +1,8 @@
 # 7. Prohibition against large-scale production of First Schedule biological agents without approval
-Part: PART III BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
-Division: Division 2 — First Schedule biological agents Subdivision (1) — possession and use
+Part: PART 3 BIOLOGICAL AGENTS AND INACTIVATED BIOLOGICAL AGENTS Division 1 — General
+Division: Division 2 — First Schedule biological agents Subdivision (1) — Possession and use
 
-(1) No person shall carry out or procure any large-scale production of any First Schedule biological agent unless the large-scale production of the First Schedule biological agent —
+(1) A person must not carry out or procure any large-scale production of any First Schedule biological agent unless the large-scale production of the First Schedule biological agent —
 
 (a) is authorised by an approval granted by the Director; and
 
@@ -12,11 +12,13 @@ Division: Division 2 — First Schedule biological agents Subdivision (1) — po
 
 (ii) in accordance with the conditions of the approval.
 
-(2) For the purposes of subsection (1), no approval to produce a First Schedule biological agent shall be granted to any person unless he has already been granted an approval to possess the First Schedule biological agent as referred to in section 6.
+(2) For the purposes of subsection (1), an approval to produce a First Schedule biological agent must not be granted to any person unless the person has already been granted an approval to possess the First Schedule biological agent as referred to in section 6.
 
 (3) Where any person produces any First Schedule biological agent at any facility in contravention of subsection (1) —
 
-(a) he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both; and
+(a) the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both;
+
+and
 
 (b) the Director may order any one or more of the following:
 
@@ -34,4 +36,4 @@ Division: Division 2 — First Schedule biological agents Subdivision (1) — po
 
 (B) be quarantined at such place and for such period as the Director may specify in the order.
 
-(4) Any person who contravenes any order made by the Director under subsection (3) (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+(4) Any person who contravenes any order made by the Director under subsection (3)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
