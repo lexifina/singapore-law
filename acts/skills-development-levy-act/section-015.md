@@ -1,26 +1,44 @@
-# 15. Power to obtain information and call for returns
-Part: PART IV MISCELLANEOUS
+# 15. Powers to verify information and call for returns
+Part: PART 4 MISCELLANEOUS
 
-(1) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf may by notice in writing require —
+(1) The powers under this section may be exercised only for the purpose of inquiring into or ascertaining —
 
-(a) any person to furnish, within the time specified in the notice, any information that may be required by the Agency or the officer, employee or agent of the Agency, as the case may be, for the purpose of inquiring into or ascertaining —
+(a) the liability of a person to pay the levy, or whether the levy has been duly paid;
 
-(i) the liability of such person or any other person to pay the levy, or whether the levy has been duly paid;
+(b) the truth or correctness of any statement made, or of any information given, by a person who applies or has applied for an incentive, a grant or a loan from the Agency out of moneys in the Fund; or
 
-(ii) the truth or correctness of any statement which has been made, or of any information which has been given, by a person who has applied to the Agency for a grant or loan from the Fund; or
+(c) whether any incentive, grant or loan from the Agency out of moneys in the Fund has been properly applied by the person to whom the incentive, grant or loan is given.
 
-(iii) whether any grant or loan from the Fund has been properly applied by the person to whom the grant or loan has been made; and
+[24/2016]
 
-(b) any employer, within the time specified in the notice, to complete and deliver to the Agency or the officer, employee or agent of the Agency, as the case may be, any return specified therein.
+(2) The Agency, or an employee or agent of the Agency duly authorised by the Agency for the purposes of this section, may, at any reasonable time, do any of the following, without involving any search of any property or person:
 
-[35/96; 14/2003]
+(a) enter any premises;
 
-(2) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf shall at all times have full and free access to all lands, buildings, places, books, documents and other papers for any of the purposes of this Act or any regulations made thereunder and may for any such purpose inspect, make copies of or extracts from such books, documents or papers or take possession of any such books, documents or papers if, in its or his opinion —
+(b) photograph or film, or make audio recordings or make sketches of, any part of the premises or anything at the premises;
 
-(a) the inspection or copying of or extraction from such books, documents or papers cannot reasonably be performed without taking possession thereof;
+(c) require any person in the premises to furnish or grant access to, without charge, any document or information reasonably required for any purpose in subsection (1);
 
-(b) the books, documents or papers may be interfered with or destroyed unless possession thereof is taken; or
+(d) inspect and make copies of or take extracts from any such document;
 
-(c) the books, documents or papers may be required as evidence in any proceeding instituted or commenced for any of the purposes of, or in connection with, this Act or any regulations made thereunder.
+(e) take possession of such a document if, in the opinion of the Agency or the Agency’s employee or agent —
 
-[35/96; 14/2003]
+(i) the inspection or copying of or extraction from the document cannot reasonably be performed without taking possession;
+
+(ii) the document may be interfered with or destroyed unless possession is taken; or
+
+(iii) the document may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, this Act;
+
+(f) require any person to furnish, within the time specified in the notice, any information that may be required, or to complete and deliver any return specified.
+
+[24/2016]
+
+(3) The power to require a person to furnish any document or information under subsection (2)(c) includes the power —
+
+(a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require the person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Agency in legible form.
+
+[24/2016]

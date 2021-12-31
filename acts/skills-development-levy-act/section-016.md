@@ -1,6 +1,4 @@
-# 16. Penalty for obstructing Agency in carrying out its duties
-Part: PART IV MISCELLANEOUS
+# 16. Penalty for obstructing Agency in carrying out its duties 1
+Part: PART 4 MISCELLANEOUS
 
-Any person who at any time hinders or obstructs the Agency or any officer, employee or agent of the Agency acting in the discharge of its or his duties under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[35/96; 14/2003]
+Any person who at any time hinders or obstructs the Agency or any officer, employee or agent of the Agency acting in the discharge of its or his or her duties under this Act or any regulations made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.

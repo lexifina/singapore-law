@@ -1,18 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SKILLS DEVELOPMENT LEVY ACT
-(CHAPTER 306)
-(Original Enactment: Act 30 of 1979)
-REVISED EDITION 2012
-(31st May 2012)
+SKILLS DEVELOPMENT LEVY
+ACT 1979
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2012
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to impose a skills development levy on employers and for the establishment of a Skills Development Fund and for purposes connected therewith.
 
-[1st October 1979]
+[1 October 1979]

@@ -1,6 +1,4 @@
 # 20. Financial provisions
-Part: PART IV MISCELLANEOUS
+Part: PART 4 MISCELLANEOUS
 
-The financial provisions set out in the First Schedule shall apply to the Agency in relation to its administration of the Fund.
-
-[35/96; 14/2003]
+The financial provisions set out in the First Schedule apply to the Agency in relation to its administration of the Fund.

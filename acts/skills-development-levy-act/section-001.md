@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Skills Development Levy Act.
+This Act is the Skills Development Levy Act 1979.
