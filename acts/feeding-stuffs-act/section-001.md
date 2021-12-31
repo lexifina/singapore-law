@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Feeding Stuffs Act.
+This Act is the Feeding Stuffs Act 1965.

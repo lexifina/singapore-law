@@ -1,7 +1,5 @@
-# 9. Fees, etc., to be paid to Authority
+# 9. Fees, etc., payable to Agency
 
-All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Agency.
 
-[8A
-
-[16/2000]
+[11/2019]

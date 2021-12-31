@@ -19,7 +19,3 @@
 (a) refuses to allow any authorised officer to take samples as he thinks fit; or
 
 (b) otherwise wilfully delays or obstructs any authorised officer in the execution of his duties under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[9
-
-[16/2000]

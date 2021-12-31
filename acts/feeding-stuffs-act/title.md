@@ -1,23 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-FEEDING STUFFS ACT
-(CHAPTER 105)
-Ordinance
-6 of 1965
-1970 Ed. Cap. 293
-1985 Ed. Cap. 105
-Amended by
-16 of 2000
-REVISED EDITION 2000
-(30th December 2000)
+FEEDING STUFFS ACT 1965
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2000
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to provide for the control of feeding stuffs for animals and birds.
 
-[1st January 1966]
+[1 January 1966]

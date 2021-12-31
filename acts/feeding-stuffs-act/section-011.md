@@ -26,8 +26,4 @@
 
 (4) The Minister may, in lieu of making any rules prescribing forms which by this Act are required to be or may be prescribed, authorise the Director-General to prescribe such forms as he thinks fit.
 
-[16/2000]
-
 (5) All such rules shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication.
-
-[10
