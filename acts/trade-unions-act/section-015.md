@@ -1,5 +1,5 @@
 # 15. Cancellation or withdrawal of registration
-Part: PART III REGISTRATION
+Part: PART 3 REGISTRATION
 
 (1) A certificate of registration of a trade union may be withdrawn or cancelled by the Registrar —
 
@@ -31,9 +31,7 @@ or
 
 (d) if he is of the opinion in the case of a trade union of workmen in a particular trade, occupation or industry and having regard to the existence of another trade union or other trade unions of workmen in the same trade, occupation or industry that it is necessary in the interests of the workmen in that particular trade, occupation or industry, to cancel or withdraw the certificate of registration of the trade union.
 
-[28/82]
-
-(2) Except in a case falling within subsection (1) (a), not less than 2 months previous notice in writing specifying the ground on which it is proposed to withdraw or to cancel its certificate of registration shall be given by the Registrar to a trade union before the certificate is withdrawn or cancelled.
+(2) Except in a case falling within subsection (1)(a), not less than 2 months previous notice in writing specifying the ground on which it is proposed to withdraw or to cancel its certificate of registration shall be given by the Registrar to a trade union before the certificate is withdrawn or cancelled.
 
 (3) A trade union served with a notice under subsection (2) may, at any time within a period of 2 months reckoned from the date of the notice, show cause in writing against the proposal to withdraw or to cancel its certificate of registration, as the case may be.
 

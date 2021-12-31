@@ -1,5 +1,5 @@
 # 65. Notification in Gazette
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 The Registrar shall notify in the Gazette the fact that —
 

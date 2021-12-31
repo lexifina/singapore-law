@@ -1,5 +1,5 @@
 # 35. Notice of change of name or amalgamation
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) Notice in writing shall be given to the Registrar of every change of name and every amalgamation, signed —
 
@@ -9,13 +9,7 @@ and
 
 (b) in the case of an amalgamation, by the secretary and 7 members of every registered trade union which is a party to the amalgamation.
 
-[11/2000]
-
-(2) Where the trade union referred to in subsection (1) (a) or
-
-(b) is a federation, the notice shall be signed by the secretary and 7 delegates representing one or more of the constituent trade unions of the federation.
-
-[11/2000]
+(2) Where the trade union referred to in subsection (1)(a) or (b) is a federation, the notice shall be signed by the secretary and 7 delegates representing one or more of the constituent trade unions of the federation.
 
 (3) If the proposed name is identical with that by which any other existing trade union has been registered or, in the opinion of the Registrar, so nearly resembles that name as to be likely to deceive the public or the members of either trade union, the Registrar shall refuse to register the change of name.
 

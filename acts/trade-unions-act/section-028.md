@@ -1,9 +1,7 @@
 # 28. Membership of minors and Government employees
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) A person above the age of 16 years may be a member of a registered trade union, unless provision is made in the rules thereof to the contrary, and may, subject to the rules of the trade union and subsection (2), enjoy all the rights of a member and execute all instruments and give all acquittances necessary to be executed or given under the rules.
-
-[3/77; 4/92]
 
 (2) A member of a registered trade union who is under the age of 21 years, but above the age of 18 years, shall not be a member of the executive or a trustee of the trade union unless he has obtained the written approval of the Minister therefor.
 

@@ -1,5 +1,5 @@
 # 36. Effect of change of name or amalgamation
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) A change in the name of a registered trade union shall not affect any rights or obligations of the trade union or render defective any legal proceeding by or against the trade union, and any legal proceeding which might have been continued or commenced by or against it under its former name may be continued or commenced by or against it under its new name.
 

@@ -1,4 +1,4 @@
 # 6. Protection of public servants
-Part: PART II APPOINTMENT OF REGISTRAR AND OTHER OFFICERS
+Part: PART 2 APPOINTMENT OF REGISTRAR AND OTHER OFFICERS
 
 No suit shall lie against any public servant for anything done or omitted to be done by him in good faith without negligence and in intended exercise of any power or performance of any duty provided or imposed by this Act.

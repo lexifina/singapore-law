@@ -1,5 +1,5 @@
 # 10. Registration
-Part: PART III REGISTRATION
+Part: PART 3 REGISTRATION
 
 (1) If the Registrar is satisfied —
 
@@ -11,8 +11,4 @@ Part: PART III REGISTRATION
 
 (d) that, where the trade union is an association or combination of workmen in a particular trade, occupation or industry, it is not likely to be used against the interests of the workmen in that particular trade, occupation or industry, the Registrar may register the trade union in the prescribed manner.
 
-[28/82]
-
 (2) Notwithstanding subsection (1), if any one of the objects of a trade union is unlawful, the registration of the trade union shall be void.
-
-[28/82]

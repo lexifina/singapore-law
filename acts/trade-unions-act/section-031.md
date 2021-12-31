@@ -1,9 +1,7 @@
 # 31. Employees of trade union
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) A registered trade union may, subject to subsections (2) and (4) and to the rules of the trade union, employ and pay such persons as may be necessary for the purposes of the trade union.
-
-[28/82]
 
 (2) A person shall not be employed by a registered trade union under subsection (1) if he has been convicted by a court of a criminal offence and has not received a free pardon in respect thereof, and such conviction in the opinion of the Minister renders him unfit to be employed by a trade union.
 

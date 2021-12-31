@@ -1,5 +1,5 @@
 # 40. Notification of change of officers, etc.
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) A registered trade union shall, prominently and in such place that it may be easily read, exhibit —
 

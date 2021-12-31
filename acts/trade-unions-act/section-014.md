@@ -1,5 +1,5 @@
 # 14. Refusal of registration
-Part: PART III REGISTRATION
+Part: PART 3 REGISTRATION
 
 The Registrar may refuse to register any trade union if he is —
 
@@ -14,5 +14,3 @@ The Registrar may refuse to register any trade union if he is —
 (e) of the opinion, where the trade union is an association or combination of workmen in a particular trade, occupation or industry, that the trade union is likely to be used against the interests of the workmen in that particular trade, occupation or industry; or
 
 (f) satisfied, where the trade union is an association or combination of workmen in a particular trade, occupation or industry, that there is an existing trade union registered in respect of that particular trade, occupation or industry.
-
-[28/82]

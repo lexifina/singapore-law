@@ -1,11 +1,11 @@
 # 19. Consequences of failure to register or of cancellation of registration
-Part: PART III REGISTRATION
+Part: PART 3 REGISTRATION
 
 If any trade union does not apply for registration in due time, or if the registration of any trade union is refused, withdrawn or cancelled, then —
 
 (a) the trade union shall be deemed to be an unlawful association and shall cease to enjoy any of the rights, immunities or privileges of a registered trade union, but without prejudice to any liabilities incurred or to be incurred by the trade union which may be enforced against the trade union and its assets;
 
-(b) the trade union shall not, nor shall any of its officers, members or agents on behalf of the trade union, take part in any trade dispute or promote, organise or finance any strike or lock-out, or provide pay or other benefits for its members during a strike or lock-out;
+(b) the trade union shall not, nor shall any of its officers, members or agents on behalf of the trade union, take part in any trade dispute or promote, organise or finance any strike or lockout, or provide pay or other benefits for its members during a strike or lockout;
 
 (c) the trade union shall be dissolved; and
 

@@ -1,9 +1,7 @@
 # 30. Officers of trade union
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) A person shall not act as an officer of a trade union or any branch thereof, and shall be disqualified for election as such officer if he is an undischarged bankrupt or has been convicted by any court of criminal breach of trust, extortion or criminal intimidation, or of any offence which, in the opinion of the Minister, renders him unfit to be an officer of a trade union.
-
-[28/82; 11/2000]
 
 (2) Subsection (1) shall not apply where the Minister is satisfied that the person so convicted has reformed and has become fit to be an officer of a trade union.
 

@@ -1,5 +1,5 @@
 # 29. Membership of employees of specified statutory board or body
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) No workman employed by such statutory board or body as the Minister may by order specify, shall be a member of or shall be accepted as a member by any trade union unless the membership of the trade union is confined exclusively to persons employed by that board or body.
 

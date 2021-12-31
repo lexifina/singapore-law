@@ -1,5 +1,5 @@
 # 23. Liability in tort
-Part: PART IV RIGHTS AND LIABILITIES OF TRADE UNIONS
+Part: PART 4 RIGHTS AND LIABILITIES OF TRADE UNIONS
 
 (1) A suit against a registered trade union or against any members or officers thereof on behalf of themselves and all other members of a trade union in respect of any tortious act alleged to have been committed by or on behalf of the trade union shall not be entertained by any court.
 

@@ -1,5 +1,5 @@
 # 62. Act not to affect certain agreements
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 This Act shall not affect —
 

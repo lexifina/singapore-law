@@ -1,6 +1,6 @@
 # THE SCHEDULE
 
-Sections 38 (1) and 39 (6)
+Sections 38(1) and 39(6)
 
 MATTERS FOR WHICH PROVISION MUST BE MADE IN THE RULES OF REGISTERED TRADE UNION
 
@@ -8,11 +8,11 @@ MATTERS FOR WHICH PROVISION MUST BE MADE IN THE RULES OF REGISTERED TRADE UNION
 
 2. The whole of the objects for which the trade union is to be established, the purposes for which the funds thereof shall be applicable, the conditions under which any member thereof may become entitled to any benefit assured thereby, and the fines and forfeitures to be imposed on any member thereof.
 
+THE SCHEDULE — continued
+
 3. The manner of making, altering, amending and rescinding rules.
 
 4. The appointment or election and removal of an executive and of trustees, secretaries, treasurers and other officers of the trade union.
-
-THE SCHEDULE — continued
 
 5. The custody and investment of the funds of the trade union, the designation of the officer or officers responsible therefor, and the annual or periodical audit of its accounts.
 

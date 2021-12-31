@@ -1,13 +1,11 @@
 # 39. Secret ballot
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 (1) The rules of a registered trade union relating to the taking of decisions by secret ballot shall ensure that every member or delegate, as the case may be, has an equal right, and a reasonable opportunity to record his vote freely, that the results of the voting are correctly ascertained and declared, and that the secrecy of the ballot is properly secured.
 
-[11/2000]
+(2) Notwithstanding subsection (1), where the majority of the membership of a registered trade union consists of non-executive employees, no rule of the trade union shall confer on any member who is an executive employee that is represented by the trade union under section 30A of the Industrial Relations Act 1960, the right to vote in any secret ballot taken for the purpose of obtaining the consent of its members to commence, organise, participate or otherwise act in furtherance of any strike or any form of industrial action under section 27(1).
 
-(2) Notwithstanding subsection (1), where the majority of the membership of a registered trade union consists of employees in non-managerial or non-executive positions, no rule of the trade union shall confer on any member who is employed in a managerial or an executive position the right to vote in any secret ballot taken for the purpose of obtaining the consent of its members to commence, organise, participate or otherwise act in furtherance of any strike or any form of industrial action under section 27 (1).
-
-[23/2002]
+[1/2015]
 
 (3) For the purpose of satisfying himself that a secret ballot taken by a registered trade union has been properly conducted, the Registrar may —
 

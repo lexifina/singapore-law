@@ -1,5 +1,5 @@
 # 8. Necessity for registration
-Part: PART III REGISTRATION
+Part: PART 3 REGISTRATION
 
 (1) Every trade union shall apply to be registered under this Act within a period of one month reckoned from the date on which it is so established.
 
@@ -13,4 +13,4 @@ Part: PART III REGISTRATION
 
 (b) the date on which any act is proved to have been done by that trade union in furtherance of any one or more of the objects specified in the definition of a trade union in section 2.
 
-(5) Where proof is available of both the dates referred to in subsection (4) (a) and (b), the earlier of such dates shall be deemed so to be the date of the establishment of that trade union.
+(5) Where proof is available of both the dates referred to in subsection (4)(a) and (b), the earlier of such dates shall be deemed so to be the date of the establishment of that trade union.

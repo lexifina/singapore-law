@@ -1,5 +1,5 @@
 # 26. Proceedings by and against trade union
-Part: PART IV RIGHTS AND LIABILITIES OF TRADE UNIONS
+Part: PART 4 RIGHTS AND LIABILITIES OF TRADE UNIONS
 
 (1) A registered trade union may sue and be sued and be prosecuted under its registered name.
 
@@ -9,6 +9,6 @@ Part: PART IV RIGHTS AND LIABILITIES OF TRADE UNIONS
 
 (4) Execution for any money recovered from a trade union in civil proceedings may issue against any property belonging to or held in trust for the trade union other than the benevolent fund of a registered trade union.
 
-(5) Any fine ordered to be paid by a trade union may be recovered by distress and sale of any movable property belonging to or held in trust for the trade union in accordance with the provisions of the Criminal Procedure Code (Cap. 68).
+(5) Any fine ordered to be paid by a trade union may be recovered by distress and sale of any movable property belonging to or held in trust for the trade union in accordance with the provisions of the Criminal Procedure Code 2010.
 
 (6) In any civil or criminal proceedings in which a registered trade union is a party such trade union may appear in such proceedings by any one of its officers or by an advocate and solicitor.

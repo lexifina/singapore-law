@@ -1,9 +1,7 @@
 # 52. Production of documents, etc., for examination
-Part: PART VII FUNDS AND ACCOUNTS
+Part: PART 7 FUNDS AND ACCOUNTS
 
 (1) For the purpose of carrying out the provisions of this Act, the Registrar may by notice in writing direct any officer or employee of a trade union to produce for his examination any books, accounts, records and documents and to answer such questions relating thereto as may be necessary.
-
-[28/82]
 
 (2) Any person who —
 

@@ -1,5 +1,5 @@
 # 66. Regulations
-Part: PART IX MISCELLANEOUS
+Part: PART 9 MISCELLANEOUS
 
 (1) The Minister may make regulations for the purpose of carrying out or giving effect to the principles and provisions of this Act.
 
@@ -21,14 +21,10 @@ Part: PART IX MISCELLANEOUS
 
 (h) the creation, administration, protection, control and disposal of the benevolent funds of registered trade unions and all matters connected therewith or incidental thereto;
 
-(i) the presentation, consideration and disposal of appeals referred to in sections 17 and 18; and
+(i) the presentation, consideration and disposal of appeals referred to in sections 17 and 18;
 
 (j) generally for all matters incidental to or connected with the matters or subjects specifically mentioned in this subsection.
-
-[11/2000]
 
 (3) The Minister may by regulations declare that any regulations made under paragraph (h) of subsection (2) shall apply to a specified trade union only or that any particular trade union or class of trade union shall be exempt from the operation of any regulations made under that paragraph.
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication.
-
-[55

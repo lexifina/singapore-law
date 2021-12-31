@@ -1,5 +1,5 @@
 # 32. Powers of Minister in relation to sections 30 and 31
-Part: PART V CONSTITUTION
+Part: PART 5 CONSTITUTION
 
 The Minister may by order —
 
