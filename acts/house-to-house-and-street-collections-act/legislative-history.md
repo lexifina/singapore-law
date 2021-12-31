@@ -1,53 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY HOUSE TO HOUSE AND STREET COLLECTIONS ACT 1947
 
-HOUSE TO HOUSE AND STREET COLLECTIONS ACT (CHAPTER 128)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the House to House and Street Collections Act. It is not part of the Act.
+1. Ordinance 19 of 1947 — House to House and Street Collections Ordinance, 1947 Bill : G.N. No. S 102/1947 First Reading : 17 April 1947 Second and Third Readings : 24 April 1947 Commencement : 9 May 1947 2. 1955 Revised Edition — House to House and Street Collections Ordinance (Chapter 220) Operation : 1 July 1956 3. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 4. Ordinance 71 of 1959 — Transfer of Powers Ordinance, 1959 (Amendments made by section 4 read with the First Schedule to the above Ordinance) Bill : 30/1959 First Reading : 22 September 1959 Second and Third Readings : 11 November 1959 Commencement : 20 November 1959 (section 4 read with the First Schedule) 5. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance, 1959 (Amendments made by section 2 read with the First Schedule to the above Ordinance) Bill : 31/1959 First Reading : 22 September 1959 Second Reading : 11 November 1959 Notice of Amendments : 11 November 1959 Third Reading : 11 November 1959 Commencement : 20 November 1959 (section 2 read with the First Schedule) 6. G.N. No. S (N.S.) 177/1959 — Singapore Constitution (Modification of Laws) (No. 3) Order, 1959 Commencement : 20 November 1959 7. 1970 Revised Edition — House to House and Street Collections Act (Chapter 249) Operation : 31 July 1971 8. 1985 Revised Edition — House to House and Street Collections Act (Chapter 128) Operation : 30 March 1987 9. 2014 Revised Edition — House to House and Street Collections Act (Chapter 128) Operation : 30 April 2014
 
-1. Ordinance 19 of 1947 — House to House and Street Collections Ordinance 1947
+Abbreviations
 
-Date of First, Second and Third : 27 March 1947 Readings (No Bill number given.
-
-Published on 1 April 1947)
-
-Date of commencement : 9 May 1947
-
-2. 1955 Revised Edition — House to House and Street Collections Ordinance (Chapter 220)
-
-Date of operation : 1 July 1956
-
-3. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958
-
-Date of First Reading : 16 July 1958 (Bill No. 158/58 published on 22 July 1958)
-
-Date of Second Reading : 13 August 1958
-
-Date of Third Reading : 10 September 1958
-
-Date of commencement : 25 September 1958
-
-4. Ordinance 71 of 1959 — Transfer of Powers Ordinance 1959
-
-Date of First Reading : 22 September 1959 (Bill No. 30/59 published on 30 September 1959)
-
-Date of Second and Third Readings : 11 November 1959
-
-Date of commencement : 20 November 1959
-
-5. Ordinance 72 or 1959 — Transfer of Powers (No. 2) Ordinance 1959
-
-Date of First Reading : 22 September 1959 (Bill No. 31/59 published on 30 September 1959)
-
-Date of Second and Third Readings : 11 November 1959
-
-Date of commencement : 20 November 1959 6. S (N.S.) 177/59 — The Singapore Constitution (Modification of Laws) (No. 3) Order 1959
-
-Date of commencement : 20 November 1959
-
-7. 1970 Revised Edition — House to House and Street Collections Act (Chapter 249)
-
-Date of operation : 31 July 1971
-
-8. 1985 Revised Edition — House to House and Street Collections Act (Chapter 128)
-
-Date of operation : 30 March 1987
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number

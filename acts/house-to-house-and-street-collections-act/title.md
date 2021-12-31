@@ -1,18 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-HOUSE TO HOUSE AND STREET COLLECTIONS ACT
-(CHAPTER 128)
-(Original Enactment: Ordinance 19 of 1947)
-REVISED EDITION 2014
-(30th April 2014)
+HOUSE TO HOUSE AND STREET
+COLLECTIONS ACT 1947
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2014
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to regulate house to house and street collections.
 
-[9th May 1947]
+[9 May 1947]

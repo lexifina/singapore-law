@@ -4,9 +4,9 @@
 
 “collection” means an appeal to the public or any class of the public, made by means of visits from house to house or of soliciting in streets or other public places, or by both such means, to give, whether for consideration or not, money or other property not being money or property due or about to fall due from the donors under or by virtue of any written law, contract or other legal obligation;
 
-1
-
 “collector”, in relation to a collection, means a person who makes such an appeal by either of those means;
+
+1
 
 “house” includes a place of business;
 
