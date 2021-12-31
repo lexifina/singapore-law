@@ -1,6 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Police Force Act.
-
-[Police Force 1985 Ed., s. 1]
+This Act is the Police Force Act 2004.

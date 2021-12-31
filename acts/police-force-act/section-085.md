@@ -1,10 +1,10 @@
 # 85. Special Constabulary Regulations
-Part: PART VIII SPECIAL CONSTABULARY Division 1 — Organisation and duties of Special Constabulary
+Part: PART 8 SPECIAL CONSTABULARY Division 1 — Organisation and duties of Special Constabulary
 Division: Division 4 — Special provisions for national servicemen
 
 (1) The Minister may make regulations necessary or expedient for the carrying out of the purposes of this Part.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to special police officers on all or any of the following matters:
+(2) Without limiting subsection (1), the Minister may make regulations for or with respect to special police officers on all or any of the following matters:
 
 (a) uniform and equipment;
 
@@ -26,20 +26,20 @@ Division: Division 4 — Special provisions for national servicemen
 
 (iv) the procedure to be observed in disciplinary proceedings before a disciplinary officer; and
 
-(v) empowering a disciplinary officer to amend a charge which is being heard by him;
+(v) empowering a disciplinary officer to amend a charge which is being heard by the disciplinary officer;
 
-(g) salaries and allowances;
+(g) the classification, treatment, employment, discipline and control of special police officers serving sentences of detention, including the temporary or other release from detention for good conduct while in detention, for compassionate grounds or otherwise;
 
-(h) awards in respect of death and personal injuries;
+(h) salaries and allowances;
 
-(i) duties and responsibilities of members called up for national service with the Special Constabulary;
+(i) awards in respect of death and personal injuries;
 
-(j) any other matter which by this Part is required or permitted to be prescribed.
+(j) duties and responsibilities of members called up for national service or other service with the Special Constabulary;
 
-(3) All Special Constabulary Regulations made under this section shall be presented to Parliament as soon as possible after publication in the Gazette.
+(k) any other matter which by this Part is required or permitted to be prescribed.
 
-[Police Force 1985 Ed., s. 70]
+[10/2015]
 
-PART IX
+(3) All Special Constabulary Regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette.
 
-AUXILIARY POLICE FORCES Division 1 — Creation and regulation of Auxiliary Police Forces
+PART 9 AUXILIARY POLICE FORCES Division 1 — Creation and regulation of Auxiliary Police Forces

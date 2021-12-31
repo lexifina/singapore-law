@@ -1,6 +1,4 @@
 # 8. Warrant card
-Part: PART II CONSTITUTION AND ADMINISTRATION OF POLICE FORCE
+Part: PART 2 CONSTITUTION AND ADMINISTRATION OF POLICE FORCE
 
-A warrant card shall be issued to every police officer and shall be evidence of his appointment under this Act.
-
-[Police Force 1985 Ed., s. 12]
+A warrant card must be issued to every police officer and is evidence of his or her appointment under this Act.

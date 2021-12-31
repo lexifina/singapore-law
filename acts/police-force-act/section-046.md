@@ -1,5 +1,5 @@
 # 46. Powers of committee of inquiry
-Part: PART IV COMMITTEES OF INQUIRY
+Part: PART 4 COMMITTEES OF INQUIRY
 
 A committee of inquiry may —
 

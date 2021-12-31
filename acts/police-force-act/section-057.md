@@ -1,5 +1,5 @@
 # 57. Police officers serving outside Singapore to remain subject to this Act
-Part: PART V SERVICE OUTSIDE SINGAPORE
+Part: PART 5 SERVICE OUTSIDE SINGAPORE
 
 Subject to section 59, a police officer or special police officer who is —
 
@@ -7,4 +7,4 @@ Subject to section 59, a police officer or special police officer who is —
 
 (b) a member of a United Nations force; or
 
-(c) a member of any overseas operation referred to in section 56 (1) (c), shall not cease to be subject to this Act by reason only of his being so temporarily attached, or being such a member or outside Singapore.
+(c) a member of any overseas operation mentioned in section 56(1)(c), does not cease to be subject to this Act by reason only of his or her being so temporarily attached, or being such a member or outside Singapore.

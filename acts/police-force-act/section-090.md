@@ -1,21 +1,21 @@
 # 90. Compliance with codes of practice and directives
-Part: PART IX AUXILIARY POLICE FORCES Division 1 — Creation and regulation of Auxiliary Police Forces
+Part: PART 9 AUXILIARY POLICE FORCES Division 1 — Creation and regulation of Auxiliary Police Forces
 
-(1) Every employer of an Auxiliary Police Force shall comply with every relevant code of practice and directive issued under section 89 (1) and (3), respectively.
+(1) Every employer of an Auxiliary Police Force must comply with every relevant code of practice and directive issued under section 89(1) and (3), respectively.
 
 (2) The Commissioner may conduct an investigation if there are reasonable grounds for suspecting that —
 
 (a) any provision of this Part;
 
-(b) any part of any code of practice issued under section 89 (1);
+(b) any part of any code of practice issued under section 89(1);
 
-(c) any directive issued under section 89 (3); or
+(c) any directive issued under section 89(3); or
 
-(d) any condition of authorisation imposed under section 86 (2) or (4), has been infringed, or is being or is likely to be infringed, by an employer of an Auxiliary Police Force.
+(d) any condition of authorisation imposed under section 86(2) or (4), has been infringed, or is being or is likely to be infringed, by an employer of an Auxiliary Police Force.
 
-(3) Subject to section 89 (5), where —
+(3) Subject to section 89(5), where —
 
-(a) following an investigation conducted under subsection (2), the Commissioner considers that an employer is infringing, likely to infringe or has infringed any provision of this Part or of any code of practice, any directive issued under section 89 (3) or any condition imposed under section 86 (2) or (4);
+(a) following an investigation conducted under subsection (2), the Commissioner considers that an employer of an Auxiliary Police Force is infringing, likely to infringe or has infringed any provision of this Part or of any code of practice issued under section 89(1), any directive issued under section 89(3) or any condition imposed under section 86(2) or (4);
 
 (b) the employer (other than the Government or a statutory body) has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;
 
@@ -23,7 +23,7 @@ Part: PART IX AUXILIARY POLICE FORCES Division 1 — Creation and regulation of 
 
 (d) the public interest or national security of Singapore so requires, the Commissioner may, in writing and without any liability for compensation, do all or any of the following:
 
-(i) direct that employer to comply with the provision of this Part or of any code of practice, any directive issued under section 89 (3) or any condition imposed under section 86 (2) or (4) or cease infringing that provision, code of practice, directive or condition, as the case may be;
+(i) direct that employer to comply with the provision of this Part or of any code of practice issued under section 89(1), any directive issued under section 89(3) or any condition imposed under section 86(2) or (4) or cease infringing that provision, code of practice, directive or condition, as the case may be;
 
 (ii) specify any procedure or action to be observed or taken by that employer;
 
@@ -33,40 +33,48 @@ Part: PART IX AUXILIARY POLICE FORCES Division 1 — Creation and regulation of 
 
 (v) suspend for a period not exceeding 6 months —
 
-(A) the authorisation for the creation of the Auxiliary Police Force under section 86 (1); or
+(A) the authorisation for the creation of the Auxiliary Police Force under section 86(1); or
 
-(B) any condition imposed under section 86 (2) for any security activity carried out by the Auxiliary Police Force;
+(B) any condition imposed under section 86(2) for any security activity carried out by the Auxiliary Police Force;
 
 (vi) revoke —
 
-(A) the authorisation for the creation of the Auxiliary Police Force under section 86 (1); or
+(A) the authorisation for the creation of the Auxiliary Police Force under section 86(1); or
 
-(B) any condition imposed under section 86 (2) for any security activity carried out by the Auxiliary Police Force;
+(B) any condition imposed under section 86(2) for any security activity carried out by the Auxiliary Police Force;
 
 (vii) impose on an employer (other than the Government) a financial penalty not exceeding —
 
-(A) $1 million for each act of infringement (whether continuing or not) of any provision of this Part or any code of practice; or
+(A) $1 million for each act of infringement (whether continuing or not) of any provision of this Part or any code of practice issued under section 89(1); or
 
-(B) $50,000 for each act of infringement (whether continuing or not) of any directive issued under section 89 (3) or any condition imposed under section 86 (2) or (4); or
+(B) $50,000 for each act of infringement (whether continuing or not) of any directive issued under section 89(3) or any condition imposed under section 86(2) or (4);
 
-(viii) impose such other direction or restriction as the Commis- sioner considers appropriate.
+(viii) impose such other direction or restriction as the Commissioner considers appropriate.
 
-(4) Any person who fails, without reasonable excuse, to comply with any direction given under subsection (3) shall be guilty of an offence.
+(4) A person who, without reasonable excuse, fails to comply with any direction given under subsection (3) shall be guilty of an offence.
 
-(5) Before the Commissioner does anything under subsection (3), the Commissioner shall —
+(5) Before the Commissioner does anything under subsection (3), the Commissioner must —
 
 (a) give written notice to the employer likely to be affected by such action by the Commissioner; and
 
 (b) give such employer an opportunity to make representations to the Commissioner.
 
-(6) If any dispute arises from one or more provisions of a code of practice, the dispute shall, where it is so provided in such provisions, be determined by the Commissioner on the application for that purpose by any aggrieved person to the Commissioner.
+(6) If any dispute arises from one or more provisions of a code of practice, the dispute is, where it is so provided in such provisions, to be determined by the Commissioner on the application for that purpose by any aggrieved person to the Commissioner.
 
-(7) Any person who is aggrieved by any act, direction or decision of the Commissioner under subsection (3) or (6) may, within 14 days of the date on which he is notified of the act, direction or decision, or such longer period as the Minister may allow, appeal to the Minister in the prescribed manner.
+(7) A person who is aggrieved by any act, direction or decision of the Commissioner under subsection (3) or (6) may, within 14 days of the date on which the person is notified of the act, direction or decision, or such longer period as the Minister may allow, appeal to the Minister in the prescribed manner.
 
-(8) Unless otherwise provided or allowed by the Minister, where an appeal is lodged under subsection (7), the act, direction or decision appealed against shall be complied with until the determination of the appeal.
+(8) Unless otherwise provided or allowed by the Minister, where an appeal is lodged under subsection (7), the act, direction or decision appealed against must be complied with until the determination of the appeal.
 
-(9) The Minister may confirm, vary or reverse the act, direction or decision of the Commissioner or give such directions on the matter as he thinks fit.
+(9) The Minister may confirm, vary or reverse the act, direction or decision of the Commissioner or give any directions on the matter that the Minister thinks fit.
 
-(10) The decision of the Minister in any appeal under subsection (7) shall be final.
+(10) The decision of the Minister in any appeal under subsection (7) is final.
 
-(11) Any financial penalty payable by any person under subsection (3) (vii) shall be recoverable by the Commissioner as a debt due to the Government from that person; and the person’s liability to pay shall not be affected by any authorisation under section 86 for his Auxiliary Police Force ceasing (for any reason) to be in force.
+(11) Any financial penalty payable by any person under subsection (3)(vii) is recoverable by the Commissioner as a debt due to the Government from that person; and the person’s liability to pay is not affected by any authorisation under section 86 for his or her Auxiliary Police Force ceasing (for any reason) to be in force.
+
+(12) The Minister may designate any of the following to hear and determine, in the Minister’s place, any appeals or a specific appeal under this section:
+
+(a) any Minister of State or Parliamentary Secretary for the Minister’s Ministry;
+
+(b) any public officer in that Ministry not subordinate to the decision-maker whose decision is appealed against, and any reference in this section to the Minister includes a reference to the Minister of State, Parliamentary Secretary or public officer so designated for that appeal.
+
+[10/2015]

@@ -1,9 +1,9 @@
 # 106. Police Fund
-Part: PART X POLICE FUND
+Part: PART 10 POLICE FUND
 
-(1) The Police Fund established under the repealed Act shall continue and be applied for the purposes specified in this Part.
+(1) The Police Fund established under the repealed Act continues and is applied for the purposes specified in this Part.
 
-(2) The Police Fund shall consist of —
+(2) The Police Fund consists of —
 
 (a) all sums forfeited by or fines inflicted on police officers under the powers conferred by this Act, and all sums recoverable from police officers under this Act and which are payable to the Police Fund;
 
@@ -23,8 +23,8 @@ Part: PART X POLICE FUND
 
 (i) the net income from investments of moneys in the Police Fund authorised to be made by this Act or any other written law.
 
-(3) The Police Fund shall be regarded as a Government fund and as comprising public moneys for the purposes of any other written law.
+(3) The Police Fund must be regarded as a Government fund and as comprising public moneys for the purposes of any other written law.
 
-(4) For the purposes of subsection (2) (i), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Fund any profit derived or loss sustained, as the case may be, from the realisation of such investments.
+(4) For the purposes of subsection (2)(i), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Police Fund any profit derived or loss sustained (as the case may be) from the realisation of such investments.
 
-(5) The Commissioner shall be responsible for the control, supervision and management of all moneys of the Police Fund in accordance with this Act and the Police Regulations.
+(5) The Commissioner is responsible for the control, supervision and management of all moneys of the Police Fund in accordance with this Act and the Police Regulations.

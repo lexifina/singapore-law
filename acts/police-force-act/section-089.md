@@ -1,5 +1,5 @@
 # 89. Codes of practice and directives
-Part: PART IX AUXILIARY POLICE FORCES Division 1 — Creation and regulation of Auxiliary Police Forces
+Part: PART 9 AUXILIARY POLICE FORCES Division 1 — Creation and regulation of Auxiliary Police Forces
 
 (1) The Commissioner may, by publication in the Gazette, issue one or more codes of practice for Auxiliary Police Forces for all or any of the following purposes:
 
@@ -23,7 +23,7 @@ Part: PART IX AUXILIARY POLICE FORCES Division 1 — Creation and regulation of 
 
 (d) generally for carrying out the purposes and provisions of this Part and for the due administration thereof.
 
-(4) The Commissioner may, from time to time —
+(4) The Commissioner may —
 
 (a) by publication in the Gazette, add to, vary or revoke any code of practice; or
 

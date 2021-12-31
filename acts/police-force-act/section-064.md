@@ -1,18 +1,18 @@
 # 64. Appointment of Commercial Affairs Officers
-Part: PART VII PUBLIC OFFICERS WITH POLICE POWERS
+Part: PART 7 PUBLIC OFFICERS WITH POLICE POWERS, FORENSIC SPECIALISTS AND CIVILIAN POLICE ASSISTANTS
 
-(1) The Minister may appoint such number of persons to be Commercial Affairs Officers as he may think fit.
+(1) The Minister may appoint such number of persons to be Commercial Affairs Officers as the Minister may think fit.
 
-(2) A Commercial Affairs Officer may investigate any suspected offence which appears to him to have been committed under any written law.
+(2) A Commercial Affairs Officer may investigate any suspected offence which appears to him or her to have been committed under any written law.
 
 (3) For the purposes of subsection (2) —
 
-(a) a Commercial Affairs Officer shall have all the powers of investigation conferred on police officers in relation to the investigation of offences under the Criminal Procedure Code (Cap. 68) or under such other written law as the Minister may, by notification in the Gazette, prescribe, and shall be deemed to be an officer not below the rank of inspector; and
+(a) a Commercial Affairs Officer has all the powers of investigation conferred on police officers in relation to the investigation of offences under the Criminal Procedure Code 2010 or under such other written law as the Minister may, by notification in the Gazette, prescribe, and is deemed to be an officer not below the rank of inspector;
 
-(b) section 25 shall apply to a Commercial Affairs Officer as if he were a police officer.
+and
 
-(4) The Commissioner may, in his discretion, confer on one or more Commercial Affairs Officers as he may determine the powers of an Assistant Superintendent of Police under such written law as the Minister may, by notification in the Gazette, prescribe.
+(b) section 25 applies to a Commercial Affairs Officer as if he or she were a police officer.
 
-(5) Apart from this section and section 25, this Act shall not apply to a Commercial Affairs Officer.
+(4) The Commissioner may confer on one or more Commercial Affairs Officers as the Commissioner may determine the powers of an Assistant Superintendent of Police under such written law as the Minister may, by notification in the Gazette, prescribe.
 
-[Police Force 1985 Ed., s. 58A]
+(5) Apart from this section and section 25, this Act does not apply to a Commercial Affairs Officer.

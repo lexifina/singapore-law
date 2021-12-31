@@ -1,14 +1,56 @@
-# 108. Disposal of property deposited at police stations
-Part: PART XI UNCLAIMED PROPERTY AND ESTATES OF INTESTATES
+# 108. Lost property
+Part: PART 11 UNCLAIMED PROPERTY AND ESTATES OF INTESTATES
 
-(1) Any lost or unclaimed property deposited at a police station in accordance with any written law shall, if claimed within one month after the date of such deposit by any person who establishes his claim to such property to the satisfaction of the Commissioner, be returned to him on payment of any expenses reasonably incurred by the Commissioner in storing the property.
+(1) Where any lost property is deposited with a police officer at a police station or otherwise, the lost property is to be disposed of as follows:
 
-(2) Notwithstanding subsection (1), if the lost or unclaimed property is of a perishable nature, it may be sold at once and the proceeds of sale forwarded to the Commissioner pending any claim to such property.
+(a) if the lost property is cash, it must, unless it is required to assist in the identification of its owner, be paid into a deposit account (within the meaning of the Financial Procedure Act 1966) specially established for this purpose, and the cash is deemed to be lost property in the custody of the Police Force;
 
-(3) If at the end of one month after any lost or unclaimed property is deposited at a police station in accordance with subsection (1), no person has established a claim to the property to the satisfaction of the Commissioner, or immediately (even if less than one month) after the owner has given the Commissioner notice in writing that he is not claiming the property, the Commissioner may —
+(b) if there is a person who appears, to the satisfaction of the Commissioner, to be the owner, the lost property in the custody of the Police Force must be returned to that person unless that person —
 
-(a) arrange for the property to be disposed of by public auction or otherwise; and
+(i) cannot be located after reasonable inquiry; or
 
-(b) apply the proceeds of the sale to meet the expenses incurred by the Commissioner in storing and disposing of the property, and pay the balance, if any, to the Consolidated Fund.
+(ii) does not exercise his or her right to recover the property;
 
-[Police Force 1985 Ed., s. 50]
+(c) if the lost property becomes unclaimed property, the Commissioner may cause the whole or any part of unclaimed property —
+
+(i) to be sold (by public auction or otherwise) and the proceeds of the sale to be paid into the Consolidated Fund;
+
+(ii) if cash, to be forfeited and paid into the Consolidated Fund; or
+
+(iii) to be destroyed or otherwise disposed of at such time and in such manner as the Commissioner thinks fit.
+
+[10/2015]
+
+(2) Where any lost property is deposited with a police officer under subsection (1), the lost property becomes unclaimed property if, at the end of 30 days after the day on which the property was so deposited —
+
+(a) there is no person who appears, to the satisfaction of the Commissioner, to be the owner of the lost property; or
+
+(b) there is such a person but that person has not been located after reasonable inquiry or that person has not exercised his or her right to recover the lost property by a claim.
+
+[10/2015]
+
+(3) The proceeds of a sale of unclaimed property under this section must be applied as follows:
+
+(a) firstly, in payment of the expenses occasioned by the sale;
+
+(b) secondly, in payment of storage or other expenses incurred by the Commissioner in relation to the property;
+
+(c) thirdly, by payment of the balance into the Consolidated Fund.
+
+[10/2015]
+
+(4) A person who buys movable property that is lost property sold by or on the authority of the Commissioner under this section obtains good title to that property.
+
+[10/2015]
+
+(5) Despite subsection (1), if a person who appears, to the satisfaction of the Commissioner, to be the owner of lost property claims, before the end of one year starting from the day on which the property was deposited with a police officer under subsection (1), that property after it has become unclaimed property, the Commissioner may do as follows:
+
+(a) if the property remains in the custody of the Police Force, the Commissioner may authorise the property to be returned to the person;
+
+(b) if the property (being cash) or the proceeds of the sale of the property were paid into the Consolidated Fund, the Commissioner may authorise the refund of the property or the proceeds of the sale to the person.
+
+[10/2015]
+
+(6) A finder of any lost property deposited under subsection (1) has no rights in relation to that property by reason of being the finder, and a police officer who comes into possession of any lost property in the course of his or her duties does not have the rights of a finder in relation to that property.
+
+[10/2015]

@@ -1,151 +1,29 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY POLICE FORCE ACT 2004
 
-POLICE FORCE ACT (CHAPTER 235)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Police Force Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Ordinance 32 of 1958 — Police Force Ordinance 1958
+LEGISLATIVE HISTORY DETAILS PART 1 LICENCES ORDINANCE (CHAPTER 222, 1955 REVISED EDITION) 1. Ordinance XVIII of 1901 — The Licences Ordinance 1901 Bill : G.N. No. 1122/1901 First Reading : 24 September 1901 Second Reading : 1 October 1901 Notice of Amendments : 8 October 1901 Third Reading : 29 October 1901 Commencement : 29 October 1901 2. 1920 Revised Edition — Ordinance No. 72 (Licences) Operation : 28 November 1921 3. Ordinance 26 of 1921 — Statute Laws (Revised Edition) Operation Ordinance, 1921 (Amendments made by section 3(a) read with Schedule B to the above Ordinance) Bill : G.N. No. 1854/1921 First and Second Readings : 22 November 1921 Notice of Amendments : 22 November 1921 Third Reading : 22 November 1921 Commencement : 28 November 1921 (section 3(a) read with Schedule B) 4. 1926 Revised Edition — Ordinance No. 72 (Licences) Operation : 1 August 1926 5. 1936 Revised Edition — Licences Ordinance (Chapter 201) Operation : 1 September 1936 6. 1955 Revised Edition — Licences Ordinance (Chapter 222) Operation : 1 July 1956 7. Ordinance 18 of 1957 — Licences (Amendment) Ordinance, 1957 Bill : 105/1957 First Reading : 22 May 1957 Second and Third Readings : 19 June 1957 Commencement : 5 July 1957 8. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance, 1959 (Amendments made by section 2 read with the First Schedule to the above Ordinance) Bill : 31/1959 First Reading : 22 September 1959 Second Reading : 11 November 1959 Notice of Amendments : 11 November 1959 Third Reading : 11 November 1959 Commencement : 20 November 1959 (section 2 read with the First Schedule) PART 2 POLICE FORCE ORDINANCE, 1941 (ORDINANCE 39 OF 1941) 9. Ordinance VI of 1871 — Police Force Ordinance, 1871 Bill : S.S.G.G. No. 31/1871 First Reading : 19 July 1871 Second Reading : 14 August 1871 Amendments to Bill : 17 October 1871 Third Reading : 17 October 1871 Commencement : 19 October 1871 Note: This Ordinance repealed the Police Amendment Ordinance, 1870 (Ordinance X of 1870) which was read as part of the Indian Acts XIII of 1856 and XLVIII of 1860, and repealed the Police Amendment Ordinance No. 2 of 1870 (Ordinance XVIII of 1870) which was read as part of the Indian Act XIII of 1856.
 
-Date of First Reading : 22 April 1958 (Bill No. 128/58 published on 6 May 1958)
+10. Ordinance I of 1872 — Police Force Ordinance, 1872 Bill : Information not available First Reading : 4 June 1872 Second Reading : 6 June 1872 Notice of Amendments : 27 June 1872 Third Reading : 4 July 1872 Commencement : 4 July 1872 11. Ordinance IX of 1881 — Police Force Engagement Ordinance, 1881 Bill : G.N. No. 341/1881 First Reading : 1 November 1881 Second Reading : 8 November 1881 Notice of Amendments : 8 November 1881 Third Reading : 22 November 1881 Commencement : 22 November 1881 12. Ordinance XI of 1885 — The Police Force Ordinance Amendment Ordinance, 1885 Bill : G.N. No. 316/1885 First Reading : 2 June 1885 Second and Third Readings : 9 June 1885 Commencement : 9 June 1885 13. Ordinance V of 1896 — The Police Force (Foreign Service) Ordinance 1896 Bill : G.N. No. 234/1896 First Reading : 23 April 1896 Second Reading : 30 April 1896 Notice of Amendments : 7 May 1896 Third Reading : 14 May 1896 Commencement : 14 May 1896 14. Ordinance X of 1899 — The Police Force Ordinance 1872 Amendment Ordinance 1899 Bill : G.N. No. 535/1899 First Reading : 11 July 1899 Second Reading : 25 July 1899 Notice of Amendments : 8 August 1899 Third Reading : 15 August 1899 Commencement : 15 August 1899 15. Ordinance VII of 1902 — The Indian Police Act 1856 Amendment Ordinance 1902 Bill : G.N. No. 115/1902 First Reading : 28 January 1902 Second Reading : 4 February 1902 Third Reading : 25 February 1902 Commencement : 25 February 1902 Note: This Ordinance was read and construed as one with Indian Act No. XIII of 1856.
 
-Date of Second Reading : 11 June 1958
+16. Ordinance XIII of 1906 — The Minor Offences Ordinance 1906 (Amendments made by section 42 read with the Schedule to the above Ordinance) Bill : G.N. No. 453/1906 First Reading : 4 May 1906 Second Reading : 11 May 1906 Notice of Amendments : 22 June 1906 Third Reading : 29 June 1906 Commencement : 29 June 1906 (section 42 read with the Schedule) Note: This Ordinance also repealed An Act for regulating the Police of the Settlements of Prince of Wales Island Singapore and Malacca (Indian Act XIII of 1856) and The Indian Police Act 1856 Amendment Ordinance 1902 (Ordinance VII of 1902).
 
-Date Committed to Select Committee : 11 June 1958
+17. Ordinance XXV of 1907 — The Police Force Ordinance 1872 Amendment Ordinance 1907 Bill : G.N. No. 1135/1907 First Reading : 15 November 1907 Second Reading : 22 November 1907 Notice of Amendments : 29 November 1907 Third Reading : 2 December 1907 Commencement : 2 December 1907 18. Ordinance XI of 1912 — The Public Authorities Protection Ordinance 1912 (Amendments made by section 3 read with the Schedule to the above Ordinance) Bill : G.N. No. 947/1912 First Reading : 30 August 1912 Second Reading : 20 September 1912 Notice of Amendments : 4 October 1912 Third Reading : 25 October 1912 Commencement : 13 November 1912 (section 3 read with the Schedule) 19. Ordinance I of 1914 — The Police Assistance Ordinance 1913 Bill : G.N. No. 1031/1913 First Reading : 22 August 1913 Second Reading : 5 September 1913 Third Reading : 30 January 1914 Commencement : 1 June 1914 20. Ordinance 10 of 1920 — Railway and Police Force (Amendment) Ordinance, 1920 (Amendments made by section 3 of the above Ordinance) Bill : G.N. No. 349/1920 First Reading : 8 March 1920 Second Reading : 12 April 1920 Third Reading : 3 May 1920 Commencement : 28 May 1920 (section 3) 21. Ordinance 20 of 1920 — Police Force Ordinance, 1920 Bill : G.N. No. 750/1920 First Reading : 3 May 1920 Second Reading : 31 May 1920 Notice of Amendments : 30 July 1920 Third Reading : 3 September 1920 Commencement : 6 October 1920 22. Ordinance 13 of 1921 — Police Force (Amendment) Ordinance, 1921 Bill : G.N. No. 458/1921 First Reading : 25 April 1921 Second Reading : 26 April 1921 Third Reading : 23 May 1921 Commencement : 7 June 1921 23. 1920 Revised Edition — Ordinance No. 16 (Police Force) Operation : 28 November 1921 Note: This Revised Edition consolidated the Police Force Ordinance, 1872 (Ordinance I of 1872), The Police Force (Foreign Service) Ordinance 1896 (Ordinance V of 1896) and The Police Assistance Ordinance 1913 (Ordinance I of 1914).
 
-Date of Presentation of Select : — (Sessional Paper No. L.A. 7 Committee Report of 1958)
+24. Ordinance 26 of 1921 — Statute Laws (Revised Edition) Operation Ordinance, 1921 Bill : G.N. No. 1854/1921 First and Second Readings : 22 November 1921 Notice of Amendments : 22 November 1921 Third Reading : 22 November 1921 Commencement : 28 November 1921 Note: This Ordinance repealed Ordinance No. 16 (Police Force).
 
-Date of Third Reading : 10 September 1958
+25. Ordinance 9 of 1925 — Police Force Ordinance, 1925 Bill : G.N. No. 149/1925 First Reading : 2 February 1925 Second Reading : 16 March 1925 Notice of Amendments : 16 March 1925 Third Reading : 4 May 1925 Commencement : 5 June 1925 26. 1926 Revised Edition — Ordinance No. 16 (Police Force) Operation : 1 August 1926 27. Ordinance 11 of 1933 — Police Force (Amendment) Ordinance, 1933 Bill : G.N. No. 381/1933 First Reading : 6 March 1933 Second and Third Readings : 1 May 1933 Commencement : 11 May 1933 28. Ordinance 36 of 1935 — Police Force (Amendment) Ordinance 1935 Bill : G.N. No. 1677/1935 First Reading : 26 August 1935 Second and Third Readings : 28 October 1935 Commencement : 9 November 1935 29. Ordinance 63 of 1935 — Statute Law Revision Ordinance, 1935 (Amendments made by section 2 read with item (c) of the First Schedule to the above Ordinance) Bill : G.N. No. 3043/1935 First Reading : 20 November 1935 Second Reading : 9 December 1935 Notice of Amendments : 9 December 1935 Third Reading : 9 December 1935 Commencement : 31 December 1935 (section 2 read with item (c) of the First Schedule) 30. 1936 Revised Edition — Police Force Ordinance (Chapter 177) Operation : 1 September 1936 31. Ordinance 41 of 1938 — Police Force (Amendment) Ordinance, 1938 Bill : G.N. No. 3181/1938 First Reading : 23 November 1938 Second and Third Readings : 12 December 1938 Commencement : 22 December 1938 32. Ordinance 39 of 1941 — Police Force Ordinance, 1941 Bill : G.N. No. 452/1941 First Reading : 28 April 1941 Second Reading : 9 June 1941 Notice of Amendments : 25 August 1941 Third Reading : 25 August 1941 Commencement : 1 November 1941 33. Ordinance 34 of 1947 — Police Force (Amendment) Ordinance, 1947 Bill : G.N. No. S 323/1947 First and Second Readings : Information not available Third Reading : 30 October 1947 Commencement : 13 November 1947 34. Ordinance 29 of 1949 — Singapore Police Force Ordinance, 1949 (Amendments made by Part II of, and the Second Schedule to, the above Ordinance) Bill : G.N. No. S 244/1949 First Reading : 21 June 1949 Second and Third Readings : 28 July 1949 Commencement : 11 August 1949 (Part II and the Second Schedule) 35. Ordinance 33 of 1950 — Police Force (Amendment) Ordinance, 1950 Bill : G.N. No. S 292/1950 First Reading : 18 July 1950 Second and Third Readings : 15 August 1950 Commencement : 23 August 1950 36. Ordinance 8 of 1951 — Police Force (Amendment) Ordinance, 1951 Bill : G.N. No. S 9/1951 First, Second and Third : 16 January 1951 Readings Commencement : 28 January 1951 37. Ordinance 18 of 1951 — Police Force (Amendment) (No. 2) Ordinance, 1951 Bill : G.N. No. S 124/1951 First, Second and Third : 24 April 1951 Readings Commencement : 17 May 1951 38. Ordinance 12 of 1952 — Police Force (Amendment) Ordinance, 1952 Bill : 12/1952 First Reading : 18 March 1952 Second and Third Readings : 17 April 1952 Commencement : 28 April 1952 39. Ordinance 24 of 1955 — Police Force (Amendment) Ordinance, 1955 Bill : 20/1955 First Reading : 21 September 1955 Second and Third Readings : 12 October 1955 Commencement : 21 October 1955
 
-Date of commencement : 29 May 1959
+PART 3 SINGAPORE POLICE FORCE ORDINANCE, 1949 (ORDINANCE 29 OF 1949) 40. Ordinance 29 of 1949 — Singapore Police Force Ordinance, 1949 Bill : G.N. No. S 244/1949 First Reading : 21 June 1949 Second and Third Readings : 28 July 1949 Commencement : 11 August 1949 Note: This Ordinance repealed the Civil Affairs (Malaya) Police Force Proclamation (Proclamation No. 16) (British Military Administration G.N. No. 18/1945), the Civil Affairs (Malaya) Police Force (Officers’ Powers and Amendment) Proclamation (Proclamation No. 30) (British Military Administration G.N. No. 97/1945) and the Special Constabulary (Volunteer Personnel) Proclamation (Proclamation No. 18) (British Military Administration G.N. No. 20/1945). It also amended the Police Force Ordinance, 1941 (Ordinance 39 of 1941).
 
-Note: The Police Force Ordinance 1958 repealed and re-enacted with amendments the Police Force Ordinance 1941 (Ord. 39 of 1941) and the Singapore Police Force Ordinance 1949 (Ord. 29 of 1949).
+PART 4 POLICE FORCE ACT (CHAPTER 235, 1985 REVISED EDITION) 41. Ordinance 32 of 1958 — Police Force Ordinance, 1958 Bill : 128/1958 First Reading : 22 April 1958 Second Reading : 11 June 1958 Select Committee Report : Sessional Paper No. L.A. 7 of 1958 Third Reading : 10 September 1958 Commencement : 29 May 1959 42. Ordinance 38 of 1959 — Laws of Singapore (Miscellaneous Amendments) Ordinance, 1959 (Amendments made by section 18 of the above Ordinance) Bill : 215/1959 First Reading : 3 March 1959 Second Reading : 18 March 1959 Notice of Amendments : 18 March 1959 Third Reading : 18 March 1959 Commencement : 3 June 1959 (section 18) 43. G.N. No. S 223/1959 — Singapore Constitution (Modification of Laws) Order, 1959 Commencement : 3 June 1959 44. Ordinance 71 of 1959 — Transfer of Powers Ordinance, 1959 (Amendments made by section 4 read with the First Schedule to the above Ordinance) Bill : 30/1959 First Reading : 22 September 1959 Second and Third Readings : 11 November 1959 Commencement : 20 November 1959 (section 4 read with the First Schedule) 45. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance, 1959 (Amendments made by section 2 read with the First Schedule to the above Ordinance) Bill : 31/1959 First Reading : 22 September 1959 Second Reading : 11 November 1959 Notice of Amendments : 11 November 1959 Third Reading : 11 November 1959 Commencement : 20 November 1959 (section 2 read with the First Schedule) 46. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 47. Ordinance 10 of 1961 — Police Force (Amendment) Ordinance, 1961 Bill : 133/1961 First Reading : 22 March 1961 Second Reading : 26 April 1961 Notice of Amendments : 26 April 1961 Third Reading : 26 April 1961 Commencement : 12 May 1961 48. Act 29 of 1967 — Police Force (Amendment) Act, 1967 Bill : 26/1967 First Reading : 7 September 1967 Second and Third Readings : 2 November 1967 Commencement : 17 November 1967 49. Act 25 of 1970 — Enlistment Act, 1970 (Amendments made by section 35(2) read with the Schedule to the above Act) Bill : 17/1970 First Reading : 7 May 1970 Second and Third Readings : 21 May 1970 Commencement : 1 August 1970 (section 35(2) read with the Schedule) 50. 1970 Revised Edition — Police Force Act (Chapter 78) Operation : 1 April 1971 Note: This Revised Edition incorporated the Licences Ordinance (Chapter 222, 1955 Revised Edition).
 
-2. Ordinance 38 of 1959 — Laws of Singapore (Miscellaneous Amendments) Ordinance 1959
+51. Act 18 of 1972 — Commercial and Industrial Security Corporation Act, 1972 (Amendments made by section 24 of the above Act) Bill : 17/1972 First Reading : 7 March 1972 Second and Third Readings : 23 March 1972 Commencement : 1 July 1972 (section 24) 52. Act 26 of 1974 — Police Force (Amendment) Act, 1974 Bill : 33/1974 First Reading : 23 October 1974 Second and Third Readings : 6 November 1974 Commencement : 13 December 1974 53. 1985 Revised Edition — Police Force Act (Chapter 235) Operation : 30 March 1987 54. Act 15 of 1995 — Bankruptcy Act 1995 (Amendments made by section 167(4) read with item (14) of the Second Schedule to the above Act) Bill : 16/1994 First Reading : 25 July 1994 Second Reading : 25 August 1994 Select Committee Report : Parl. 1 of 1995 Third Reading : 23 March 1995 Commencement : 15 July 1995 (section 167(4) read with item (14) of the Second Schedule) 55. Act 39 of 1999 — Police Force (Amendment) Act 1999 Bill : 32/1999 First Reading : 11 October 1999 Second and Third Readings : 23 November 1999 Commencement : 10 January 2000 56. Act 3 of 2002 — Police Force (Amendment) Act 2002 Bill : 1/2002 First Reading : 1 April 2002 Second and Third Readings : 24 May 2002 Commencement : 1 August 2002 57. Act 12 of 2003 — Police Force (Amendment) Act 2003 Bill : 12/2003 First Reading : 30 June 2003 Second and Third Readings : 14 August 2003 Commencement : 12 September 2003
 
-Date of First Reading : 3 March 1959 (Bill No. 215/59 published on 7 March 1959)
+PART 5 POLICE FORCE ACT 2004 (2020 REVISED EDITION) 58. Act 24 of 2004 — Police Force Act 2004 Bill : 22/2004 First Reading : 19 May 2004 Second and Third Readings : 15 June 2004 Commencement : 12 October 2004 59. Act 17 of 2005 — Statutes (Miscellaneous Amendments and Repeal) Act 2005 (Amendments made by section 9 of the above Act) Bill : 7/2005 First Reading : 18 April 2005 Second and Third Readings : 16 May 2005 Commencement : 15 July 2005 (section 9) 60. Act 21 of 2005 — Companies (Amendment) Act 2005 (Amendments made by section 58 read with item (10) of the Schedule to the above Act) Bill : 11/2005 First Reading : 18 April 2005 Second and Third Readings : 16 May 2005 Commencement : 30 January 2006 (section 58 read with item (10) of the Schedule) 61. 2006 Revised Edition — Police Force Act (Chapter 235) Operation : 31 January 2006 62. Act 15 of 2009 — Public Order Act 2009 (Amendments made by section 49(2) of the above Act) Bill : 8/2009 First Reading : 23 March 2009 Second and Third Readings : 13 April 2009 Commencement : 9 October 2009 (section 49(2)) 63. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(35) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(35) of the Second Schedule) 64. Act 15 of 2010 — Criminal Procedure Code 2010 (Amendments made by section 430 read with item 76 of the Sixth Schedule to the above Act) Bill : 11/2010 First Reading : 26 April 2010 Second Reading : 18 May 2010 Third Reading : 19 May 2010 Commencement : 2 January 2011 (section 430 read with item 76 of the Sixth Schedule) 65. Act 5 of 2014 — Subordinate Courts (Amendment) Act 2014 (Amendments made by section 11(5) of the above Act) Bill : 26/2013 First Reading : 11 November 2013 Second and Third Readings : 21 January 2014 Commencement : 7 March 2014 (section 11(5)) 66. Act 10 of 2015 — Police Force (Amendment) Act 2015 Bill : 5/2015 First Reading : 29 January 2015 Second and Third Readings : 13 March 2015 Commencement : 1 June 2015 67. Act 28 of 2017 — Public Entertainments and Meetings (Amendment) Act 2017 (Amendments made by section 24(7) of the above Act) Bill : 22/2017 First Reading : 3 April 2017 Second and Third Readings : 8 May 2017 Commencement : 1 August 2017 (section 24(7)) 68. Act 5 of 2018 — Public Sector (Governance) Act 2018 (Amendments made by section 90 of the above Act) Bill : 45/2017 First Reading : 6 November 2017 Second Reading : 8 January 2018 Notice of Amendments : 8 January 2018 Third Reading : 8 January 2018 Commencement : 1 April 2018 (section 90) 69. Act 26 of 2018 — Public Order and Safety (Special Powers) Act 2018 (Amendments made by section 56 of the above Act) Bill : 11/2018 First Reading : 27 February 2018 Second Reading : 21 March 2018 Notice of Amendments : 21 March 2018 Third Reading : 21 March 2018 Commencement : 16 May 2018 (section 56) 70. Act 32 of 2018 — Tokyo Convention (Amendment) Act 2018 (Amendments made by section 9 of the above Act) Bill : 22/2018 First Reading : 17 May 2018 Second and Third Readings : 9 July 2018 Commencement : 15 September 2018 (section 9) 71. Act 53 of 2018 — Civil Defence and Other Matters Act 2018 (Amendments made by Part 3 of the above Act) Bill : 44/2018 First Reading : 1 October 2018 Second and Third Readings : 20 November 2018 Commencement : 1 February 2019 (sections 27, 28 and 30) 13 May 2019 (section 29) 72. Act 15 of 2019 — Criminal Law Reform Act 2019 (Amendments made by section 183 of the above Act) Bill : 6/2019 First Reading : 11 February 2019 Second Reading : 6 May 2019 Notice of Amendments : 6 May 2019 Third Reading : 6 May 2019 Commencement : 1 January 2020 (section 183) 73. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 119 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 119 of the Schedule)
 
-Date of Second and Third Readings : 18 March 1959
+Abbreviations
 
-Date of commencement : 3 June 1959
-
-3. Ordinance 71 of 1959 — Transfer of Powers Ordinance 1959
-
-Date of First Reading : 22 September 1959 (Bill No. 30/59 published on 30 September 1959)
-
-Date of Second and Third Readings : 11 November 1959
-
-Date of commencement : 20 November 1959 4. Ordinance 72 of 1959 — Transfer of Powers (No. 2) Ordinance 1959
-
-Date of First Reading : 22 September 1959 (Bill No. 31/59 published on 30 September 1959)
-
-Date of Second and Third Readings : 11 November 1959
-
-Date of commencement : 20 November 1959
-
-5. Ordinance 10 of 1961 — Police Force (Amendment) Ordinance 1961
-
-Date of First Reading : 22 March 1961 (Bill No. 133/61 published on 30 March 1961)
-
-Date of Second and Third Readings : 26 April 1961
-
-Date of commencement : 12 May 1961
-
-6. Ordinance 29 of 1967 — Police Force (Amendment) Ordinance 1967
-
-Date of First Reading : 7 September 1967 (Bill No. 26/67 published on 12 September 1967)
-
-Date of Second and Third Readings : 2 November 1967
-
-Date of commencement : 17 November 1967
-
-7. Act 25 of 1970 — Enlistment Act 1970 (Consequential amendments made to Act by)
-
-Date of First Reading : 7 May 1970 (Bill No. 17/70 published on 11 May 1970)
-
-Date of Second and Third Readings : 21 May 1970
-
-Date of commencement : 1 August 1970
-
-8. 1970 Revised Edition — Police Force Act (Chapter 78)
-
-Date of operation : 15 April 1971 9. Act 18 of 1972 — Commercial and Industrial Security Corporation Act 1972 (Consequential amendments made to Act by)
-
-Date of First Reading : 7 March 1972 (Bill No. 17/72 published on 9 March 1972)
-
-Date of Second and Third Readings : 23 March 1972
-
-Date of commencement : 1 July 1972
-
-10. Act 26 of 1974 — Police Force (Amendment) Act 1974
-
-Date of First Reading : 23 October 1974 (Bill No. 33/74 published on 25 October 1974)
-
-Date of Second and Third Readings : 6 November 1974
-
-Date of commencement : 13 December 1974
-
-11. 1985 Revised Edition — Police Force Act (Chapter 235)
-
-Date of operation : 30 March 1987
-
-12. Act 15 of 1995 — Bankruptcy Act 1995 (Consequential amendments made to Act by)
-
-Date of First Reading : 25 July 1994 (Bill No. 16/94 published on 29 July 1994)
-
-Date of Second Reading : 25 August 1994
-
-Date Committed to Select Committee : 25 August 1994
-
-Date of Presentation of Select : 7 March 1995 (Parl. 1 of 1995) Committee Report
-
-Date of Third Reading : 23 March 1995
-
-Date of commencement : 15 July 1995
-
-13. Act 39 of 1999 — Police Force (Amendment) Act 1999
-
-Date of First Reading : 11 October 1999 (Bill No. 32/99 published on 12 October 1999)
-
-Date of Second and Third Readings : 23 November 1999
-
-Date of commencement : 10 January 2000 14. Act 3 of 2002 — Police Force (Amendment) Act 2002
-
-Date of First Reading : 1 April 2002 (Bill No. 1/2002 published on 2 April 2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Date of commencement : 1 August 2002
-
-15. Act 12 of 2003 — Police Force (Amendment) Act 2003
-
-Date of First Reading : 30 June 2003 (Bill No. 12/2003 published on 1 July 2003)
-
-Date of Second and Third Readings : 14 August 2003
-
-Date of commencement : 12 September 2003
-
-16. Act 24 of 2004 — Police Force Act 2004
-
-Date of First Reading : 19 May 2004 (Bill No. 22/2004 published on 20 May 2004)
-
-Date of Second and Third Readings : 15 June 2004
-
-Date of commencement : 12 October 2004
-
-Note: The Police Force Act 2004 repealed and re-enacted with amendments the Police Force Act (Chapter 235, 1985 Revised Edition).
-
-17. Act 17 of 2005 — Statutes (Miscellaneous Amendments and Repeal) Act 2005
-
-Date of First Reading : 18 April 2005 (Bill No. 7/2005 published on 19 April 2005)
-
-Date of Second and Third Readings : 16 May 2005
-
-Date of commencement : 15 July 2005
-
-18. Act 21 of 2005 — Companies (Amendment) Act 2005 (Consequential amendments made to Act by)
-
-Date of First Reading : 18 April 2005 (Bill No. 11/2005 published on 19 April 2005)
-
-Date of Second and Third Readings : 16 May 2005
-
-Date of commencement : 30 January 2006
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
