@@ -1,5 +1,5 @@
 # 1. Short title
 
-This Act may be cited as the Destitute Persons Act.
+This Act is the Destitute Persons Act 1989.
 
 1
