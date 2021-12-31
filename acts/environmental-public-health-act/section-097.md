@@ -1,12 +1,6 @@
 # 97. Exemption of agent who has no funds in hand
-Part: PART XII MISCELLANEOUS PROVISIONS
+Part: PART 12 MISCELLANEOUS PROVISIONS
 
-(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, that person gives notice to the Director-General within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
+(1) No person (A) receiving the rent of premises as receiver or agent for another person is liable to do anything by this Act required to be done by the owner of the premises if, after A or the actual owner has been required to do any work, A gives notice to the Director-General within 7 days after the requisition has been made, that A does not have sufficient funds of the person on whose behalf A is receiving the rents to pay for the work.
 
-[4/2002]
-
-(2) In such case, the Director-General may himself execute the work and the expenses incurred thereby shall be charged and recoverable as provided in section 92.
-
-[90
-
-[4/2002]
+(2) In that case, the Director-General may himself or herself execute the work and the expenses incurred thereby must be charged and recoverable as provided in section 92.

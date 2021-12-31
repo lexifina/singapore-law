@@ -1,31 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-ENVIRONMENTAL PUBLIC HEALTH ACT
-(CHAPTER 95)
-Act
-14 of 1987
-1988 Ed. Cap. 95
-Amended by
-37 of 1989
-32 of 1992
-2 of 1996
-9 of 1999
-22 of 1999
-S 77/98
-1999 Ed. Cap. 95
-Amended by
-4 of 2002
-7 of 2002
-REVISED EDITION 2002
-(31st December 2002)
+ENVIRONMENTAL PUBLIC HEALTH
+ACT 1987
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2002
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act to consolidate the law relating to environmental public health and to provide for matters connected therewith.
 
-[1st July 1987]
+[1 July 1987]

@@ -1,18 +1,16 @@
 # 62. Appointment of Environmental Control Officer in construction site
-Part: PART VI INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIREMENTS FOR BUILDINGS Insanitary Premises
+Part: PART 6 INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIREMENTS FOR BUILDINGS Insanitary premises
 
-(1) This section shall apply to such class or description of construction sites as the Agency may, with the approval of the Minister by order published in the Gazette, specify.
+(1) This section applies to any class or description of construction sites that the Agency may, with the approval of the Minister by order in the Gazette, specify.
 
-[22/99; 4/2002]
+(2) The occupier of any construction site to which this section applies must appoint a registered Environmental Control Officer for the construction site.
 
-(2) The occupier of any construction site to which this section applies shall employ a competent person to act as an Environmental Control Officer in the construction site.
+[33/2020]
 
-[22/99]
+(3) Despite subsection (2), where a construction site has more than one occupier, the Director-General may, by written notice, require the developer of that construction site to appoint a registered Environmental Control Officer for that construction site, and the developer must ensure that a registered Environmental Control Officer is appointed for the construction site until the completion of the works in that construction site.
 
-(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Pollution Control Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294), and any regulations made thereunder.
+[15/2014; 33/2020]
 
-[22/99]
+(4) A registered Environmental Control Officer appointed for a construction site under this section must be so appointed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act 1998, the Environmental Protection and Management Act 1999 and the Sewerage and Drainage Act 1999, and any regulations made under those Acts.
 
-(4) The Environmental Control Officer shall possess such qualifications or have received such training as the Agency may, with the approval of the Minister, from time to time, by notification in the Gazette, prescribe.
-
-[22/99; 4/2002]
+[26/2007; 33/2020]

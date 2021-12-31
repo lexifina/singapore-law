@@ -1,18 +1,18 @@
 # 111. Regulations
-Part: PART XII MISCELLANEOUS PROVISIONS
+Part: PART 12 MISCELLANEOUS PROVISIONS
 
-(1) The Agency may, with the approval of the Minister, make regulations for or in respect of every purpose which he considers necessary for carrying out the provisions of this Act, and in particular, without prejudice to the generality of the foregoing, for or in respect of all or any of the matters specified in the Third Schedule.
+(1) The Agency may, with the approval of the Minister, make regulations for or in respect of every purpose which the Minister considers necessary for carrying out the provisions of this Act, and in particular, without limiting the foregoing, for or in respect of all or any of the matters specified in the Third Schedule.
 
-[4/2002]
+(1A) Regulations made under this section may make different provision for different classes, descriptions or types of persons, facilities, systems, premises or works.
 
-(2) The Agency may, with the approval of the Minister, in making any regulations, prescribe the circumstances in which it shall be presumed that an offence under the provisions of any such regulations was committed.
+[33/2020]
 
-[4/2002]
+(2) The Agency may, with the approval of the Minister, in making any regulations, prescribe the circumstances in which it is presumed that an offence under the provisions of any such regulations was committed.
 
-(3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which the offence continues after conviction.
+(3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $20,000 and, in the case of a continuing offence, the sum of $1,000 for every day or part of a day during which the offence continues after conviction.
 
-[22/99; 4/2002]
+[15/2014]
 
-(4) All regulations made under this Act shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication.
+(4) All regulations made under this Act (except sections 42A and 80A) must be published in the Gazette and must be presented to Parliament as soon as possible after publication.
 
-[113
+[11/2019]

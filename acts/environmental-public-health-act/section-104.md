@@ -1,16 +1,18 @@
 # 104. Composition of offences
-Part: PART XII MISCELLANEOUS PROVISIONS
+Part: PART 12 MISCELLANEOUS PROVISIONS
 
-(1) The Director-General may, in his discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence —
+(1) The Director-General may compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) a sum of money not exceeding $500 in the case of an offence punishable on conviction with a fine not exceeding $5,000 (whether with or without imprisonment); or
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) a sum of money not exceeding $5,000 in the case of an offence punishable on conviction with a fine exceeding $5,000 (whether with or without imprisonment).
+(b) $5,000.
 
-[22/99; 4/2002]
+[15/2014]
 
-(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+(2) On payment of the sum of money, no further proceedings may be taken against that person in respect of the offence.
 
 (3) The Agency may, with the approval of the Minister, make rules to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
 
-[4/2002]
+(4) All sums collected under this section must be paid into the Consolidated Fund.
+
+[15/2014]

@@ -1,6 +1,6 @@
-# 35. Director-General may issue temporary permits
-Part: PART IV FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
+# 35. Director-General, Food Administration may issue temporary permits
+Part: PART 4 FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
-No person shall promote, organise or stage any temporary fair, stage show or other such function or activity without first obtaining a permit from the Director-General.
+A person must not promote, organise or stage any temporary fair or other such function or activity without first obtaining a permit from the Director-General, Food Administration.
 
-[4/2002]
+[11/2019]

@@ -1,14 +1,14 @@
 # 34. Licensing of itinerant hawkers
-Part: PART IV FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
+Part: PART 4 FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
-(1) No person shall act as an itinerant hawker without first obtaining a licence from the Director-General.
+(1) A person must not act as an itinerant hawker without first obtaining a licence from the Director-General, Food Administration.
 
-[4/2002]
+[11/2019]
 
-(2) The Director-General may, subject to such conditions as he may think fit, permit licensed itinerant hawkers to occupy stationary positions for such period as he may think fit on such site or sites as may from time to time be approved by him for this purpose.
+(2) The Director-General, Food Administration may, subject to any conditions that he or she may think fit, permit licensed itinerant hawkers to occupy stationary positions for any period that he or she may think fit on any site or sites that may from time to time be approved by him or her for this purpose.
 
-[4/2002]
+[11/2019]
 
-(3) The Director-General may prohibit itinerant hawkers from hawking in such place or places as he may think fit.
+(3) The Director-General, Food Administration may prohibit itinerant hawkers from hawking in any place or places that he or she may think fit.
 
-[4/2002]
+[11/2019]

@@ -1,6 +1,4 @@
 # 51. Public toilets
-Part: PART VI INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIREMENTS FOR BUILDINGS Insanitary Premises
+Part: PART 6 INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIREMENTS FOR BUILDINGS Insanitary premises
 
-The Director-General may provide and maintain in proper and convenient situations toilets for public use and may charge a fee for the use of any such toilets or may license such toilets for such periods and on payment of such fees as he may think fit.
-
-[4/2002]
+The Director-General may provide and maintain in proper and convenient locations toilets for public use and may charge a fee for the use of those toilets or may license those toilets for such periods and on payment of such fees as he or she may think fit.

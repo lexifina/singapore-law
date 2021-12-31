@@ -1,24 +1,28 @@
-# 60. Buildings to which public has access to be kept clean
-Part: PART VI INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIREMENTS FOR BUILDINGS Insanitary Premises
+# 60. Publicly accessible premises to be kept clean, etc.
+Part: PART 6 INSANITARY PREMISES, SANITARY CONVENIENCES, GENERAL HEALTH REQUIREMENTS FOR BUILDINGS Insanitary premises
 
-(1) The owner, occupier or lessee of any building or any part thereof to which the public has access shall —
+(1) The manager of any publicly accessible premises must —
 
-(a) regularly clean and keep clean and in good repair the building or part thereof; and
+(a) regularly clean, and keep clean and in good repair, the premises;
 
-(b) keep the building or part thereof free of such conditions as may endanger the lives or health of his employees, members of the public and other users thereof.
+(b) keep the premises free of conditions that may endanger the lives or health of the manager’s employees or other users of the premises; and
 
-(2) Where, in the opinion of the Director-General, the owner, occupier or lessee of any such building or part thereof fails to comply with subsection (1) (a) or (b), the Director-General may, by notice in writing, require the owner, occupier or lessee within such period as may be specified therein to take such steps as the Director-General may think fit.
+(c) where the premises are specified premises, comply with the additional requirements relating to specified premises under this Act.
 
-[4/2002]
+[33/2020]
 
-(3) In the case of an air-conditioned building or part thereof, the Director-General may, by notice in writing —
+(2) Where, in the opinion of the Director-General, the manager of any publicly accessible premises fails to comply with subsection (1)(a), (b) or (c), the Director-General may, by written notice, require the manager within such period as may be specified in the notice to take any steps that the Director-General may think fit.
 
-(a) prescribe temperature and humidity controls for such air-conditioned building or part thereof; and
+[33/2020]
 
-(b) require the owner, occupier or lessee of the building or part thereof —
+(3) In the case of any publicly accessible premises that are air-conditioned, the Director-General may, by written notice —
 
-(i) to install automatic devices for recording the temperature and humidity level in the building or part thereof; and
+(a) prescribe temperature and humidity controls for the air-conditioned premises; and
 
-(ii) to keep such records and charts of the temperature and humidity level in such building or part thereof as the Director-General may direct for the inspection of the Director-General.
+(b) require the manager of the premises —
 
-[4/2002]
+(i) to install automatic devices for recording the temperature and humidity level in the premises; and
+
+(ii) to keep such records and charts of the temperature and humidity level in such premises as the Director-General may direct for the inspection of the Director-General.
+
+[33/2020]

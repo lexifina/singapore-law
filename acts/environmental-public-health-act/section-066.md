@@ -1,4 +1,6 @@
-# 66. Application to Government swimming pools
-Part: PART VII SWIMMING POOLS
+# 66. Application to Government
+Part: PART 7 AQUATIC FACILITIES
 
-Section 64 shall also apply to swimming pools owned by the Government.
+This Part applies to any aquatic facility owned, managed or operated by the Government.
+
+[33/2020]

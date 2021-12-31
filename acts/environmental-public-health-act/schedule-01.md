@@ -1,6 +1,6 @@
 # FIRST SCHEDULE
 
-Section 32
+Sections 32 and 109
 
 DESCRIPTION OF PURPOSES FOR USE OF FOOD ESTABLISHMENTS TO WHICH SECTION 32 APPLIES
 
@@ -14,12 +14,18 @@ DESCRIPTION OF PURPOSES FOR USE OF FOOD ESTABLISHMENTS TO WHICH SECTION 32 APPLI
 
 (d) a market-produce shop (including any premises used for the sale of fish or crustacean, or meat or vegetable);
 
-(e) a barbecue meat shop, except a retail food establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act (Cap. 283).
+FIRST SCHEDULE — continued
+
+(e) a barbecue meat shop,
+
+except a retail food establishment that is part of a non-retail food business within the meaning of the Sale of Food Act 1973.
 
 2. As a catering establishment providing a catering service whereby —
 
-(a) food is prepared, packed and thereafter delivered to a consumer for his consumption or use; or
+(a) food is prepared, packed and thereafter delivered to a consumer for his or her consumption or use; or
 
-(b) food is prepared at premises appointed by a consumer for his consumption or use, except a catering establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act.
+(b) food is prepared at premises appointed by a consumer for his or her consumption or use,
 
-[7/2002]
+except a catering establishment that is part of a non-retail food business within the meaning of the Sale of Food Act 1973.
+
+[48/2017]

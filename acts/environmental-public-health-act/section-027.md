@@ -1,6 +1,4 @@
-# 27. Furnishing of information on industrial waste
-Part: PART III PUBLIC CLEANSING Cleaning of Streets
+# 27. [Repealed]
+Part: PART 3 PUBLIC CLEANSING Cleaning of streets, etc.
 
-The Director-General may, by notice in writing from time to time, require the owner or occupier of any work place to furnish him with any information on the amount, type and nature of any industrial waste produced in such place and such other particulars as may be specified in the notice.
-
-[4/2002]
+[Repealed by Act 15 of 2014]

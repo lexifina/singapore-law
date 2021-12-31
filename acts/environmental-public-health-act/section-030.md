@@ -1,7 +1,7 @@
-# 30. Excessive production of toxic industrial waste
-Part: PART III PUBLIC CLEANSING Cleaning of Streets
+# 30. Excessive production of toxic industrial waste General
+Part: PART 3 PUBLIC CLEANSING Cleaning of streets, etc.
 
-Where in the opinion of the Director-General the quantity of toxic industrial waste produced in any work place is or is likely to be excessive or unduly toxic, he may by notice require the occupier of the work place to —
+Where in the opinion of the Director-General the quantity of toxic industrial waste produced in any work place is or is likely to be excessive or unduly toxic, he or she may by notice require the occupier of the work place to —
 
 (a) alter the method of operation or process used in the work place;
 
@@ -9,6 +9,6 @@ Where in the opinion of the Director-General the quantity of toxic industrial wa
 
 (c) use other materials or substances other than those used in the work place; or
 
-(d) take such other steps as may be necessary to reduce the quantity or toxicity of such waste.
+(d) take any other steps that may be necessary to reduce the quantity or toxicity of such waste.
 
-[4/2002]
+General

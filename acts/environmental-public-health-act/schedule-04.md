@@ -1,45 +1,59 @@
 # FOURTH SCHEDULE
 
-Section 4 (2)
+Sections 4(2) and 109
 
-PRIVATE PERSONS WHO CAN BE AUTHORISED TO EXERCISE POWERS UNDER THE ACT OR REGULATIONS AND POWERS IN RESPECT OF WHICH PERSONS MAY ACT
+PRIVATE PERSONS WHO CAN BE AUTHORISED TO EXERCISE POWERS UNDER THIS ACT OR ITS REGULATIONS AND POWERS IN RESPECT OF WHICH PERSONS MAY ACT
 
-First column Second column Private persons who may be Powers under the Act authorised to exercise powers and regulations which under the Act and regulations the person may be made thereunder authorised to exercise
+First column . Second column
 
-(1) Any member or employee ) ) Powers of an authorised officer under —
+Private persons who may be Powers under this Act and its authorised to exercise powers under regulations which the person may be this Act and regulations made under authorised to exercise this Act
 
-of a Town Council ) established under the Town (a) section 21 of the Act; and
+(1) Any member or employee of a ) Powers of an authorised officer Town Council established ) under —
 
-) Councils Act (Cap. 329A) )
+under the Town Councils )
 
-(b) sections 86 and 88 of the Act in )
+(a) section 21; and
 
-(2) Any member of any relation to any offence under ) committee of a Town ) section 17 of the Act and Council ) regulation 15 (1) of the Environ- ) mental Public Health (Public
+Act 1988 ) ) (b) sections 86 and 88 in relation to any offence
 
-(3) Any employee of an agent ) Cleansing) Regulations (Rg 3).
+(2) Any member of any committee ) under section 17 and of a Town Council ) regulation 30 of the ) Environmental Public
 
-of a Town Council )
+(3) Any employee of an agent of a ) Health (Public Town Council ) Cleansing) Regulations for contravening
 
-(4) Any operator of a public Powers of an authorised officer under —
+(4) Any operator of a public ) regulation 15(1) of those service vehicle ) Regulations
 
-service vehicle
+(5) Any — ) Powers of an authorised officer under —
 
-(a) section 21 of the Act; and
-
-(b) sections 86 and 88 of the Act in relation to any offence under section 17 of the Act.
+(a) section 21; and
 
 FOURTH SCHEDULE — continued
 
-First column Second column Private persons who may be Powers under the Act authorised to exercise powers and regulations which under the Act and regulations the person may be made thereunder authorised to exercise
+First column . Second column
 
-(5) Any employee of PSA Powers of an authorised officer under —
+Private persons who may be Powers under this Act and its authorised to exercise powers under regulations which the person may be this Act and regulations made under authorised to exercise this Act
 
-Corporation Limited
+(a) member or employee of a ) (b) sections 86 and 88 in society registered under ) relation to any offence the Societies Act 1966; ) under section 17.
 
-(a) sections 21 and 42 of the Act;
+)
 
-(b) section 86 of the Act in relation to any offence under section 17, 18 or 19 of the Act, Part IV of the Act or to any offence under regulations 4, 8 (2), 9, 14, 15 (1) or (3), 25 and 26 (1) (a) and (b) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3); and
+(b) member, director or ) employee of a public ) company limited by ) guarantee registered ) under the Companies ) Act 1967; or )
 
-(c) section 88 of the Act in relation to any offence under regulations 4, 8 (2), 9, 14, 15 (1) or (3), 25 and 26 (1) (a) and (b) of the Environmental Public Health (Public Cleansing) Regulations.
+(c) member of a council ) established by the ) Ministry of Sustainability ) and the Environment, ) )
 
-[22/99]
+whose objects or activities ) relate to environmental public ) health, environmental ) protection, living environment ) improvement or matters ) connected therewith ) )
+
+(6) Any employee of PSA — Powers of an authorised officer Corporation Limited under —
+
+(a) sections 21 and 42;
+
+(b) section 86 in relation to any offence under section 17, 18 or 19, Part 4 or to any offence FOURTH SCHEDULE — continued
+
+First column . Second column
+
+Private persons who may be Powers under this Act and its authorised to exercise powers under regulations which the person may be this Act and regulations made under authorised to exercise this Act
+
+under regulation 30 of the Environmental Public Health (Public Cleansing) Regulations for contravening regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of those Regulations; and
+
+(c) section 88 in relation to any offence under regulation 30 of the Environmental Public Health (Public Cleansing) Regulations for contravening regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of those Regulations.
+
+[S 442/2013; S 747/2020]

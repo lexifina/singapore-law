@@ -1,6 +1,6 @@
 # 36. Licences for private markets
-Part: PART IV FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
+Part: PART 4 FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
-No person shall use any building, situation or place as a private market without first obtaining a licence from the Director-General.
+A person must not use any building, situation or place as a private market without first obtaining a licence from the Director-General, Food Administration.
 
-[4/2002]
+[11/2019]
