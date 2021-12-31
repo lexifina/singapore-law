@@ -1,0 +1,3 @@
+# 8. Validation of former grants
+
+Where any lease or grant was, before 25 January 1901, made by the Governor of any land being part of the foreshore or seabed within the territorial waters of Singapore, and before that date the land had been reclaimed or wharves, docks, landing stages or other works or buildings had been erected thereon, the lease or grant shall be deemed to be a valid conveyance and to have conveyed the foreshore or seabed, thereby expressed to be demised or granted, free and discharged from all public rights which had existed or been claimed over that foreshore or seabed before the making of the grant or lease.
