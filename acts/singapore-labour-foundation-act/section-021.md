@@ -1,4 +1,4 @@
-# 21. Auditors 1
-Part: PART III MISCELLANEOUS
+# 21. Auditors
+Part: PART 3 MISCELLANEOUS
 
-The auditors to be appointed by the Foundation at a general meeting shall be public accountants within the meaning of the Companies Act (Cap. 50).
+The auditors to be appointed by the Foundation at a general meeting must be public accountants within the meaning of the Companies Act 1967.

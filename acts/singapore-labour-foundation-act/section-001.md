@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Singapore Labour Foundation Act.
+This Act is the Singapore Labour Foundation Act 1977.

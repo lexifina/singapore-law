@@ -1,9 +1,9 @@
 # 12. Annual general meeting
-Part: PART II THE FOUNDATION AND THE BOARD
+Part: PART 2 THE FOUNDATION AND THE BOARD
 
-(1) The Foundation shall hold an annual general meeting as near as may be in the same month each year as determined by the Board.
+(1) The Foundation must hold an annual general meeting as near as may be in the same month each year as determined by the Board.
 
-(2) The business to be transacted at each annual general meeting shall, inter alia, be to —
+(2) The business to be transacted at each annual general meeting is, inter alia, to —
 
 (a) consider the annual statements of account and the report of the auditors;
 

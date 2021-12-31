@@ -1,7 +1,7 @@
 # 4. Objects
-Part: PART II THE FOUNDATION AND THE BOARD
+Part: PART 2 THE FOUNDATION AND THE BOARD
 
-The objects of the Foundation shall be to —
+The objects of the Foundation are to —
 
 (a) promote the welfare of the members of the trade union movement in Singapore and of the families of the members;
 
@@ -19,6 +19,6 @@ The objects of the Foundation shall be to —
 
 (e) establish and maintain industrial rehabilitation centres;
 
-(f) construct and maintain suitable premises for the use of trade unions and co‑operative societies managed by trade unions in Singapore; and
+(f) construct and maintain suitable premises for the use of trade unions and co-operative societies managed by trade unions in Singapore; and
 
-(g) assist by way of grants, donations or otherwise such charitable, educational or other work, object or endeavour in Singapore or elsewhere as the Board considers desirable in the interests of, or for the furtherance of, the trade union or co‑operative movement in Singapore or elsewhere.
+(g) assist by way of grants, donations or otherwise such charitable, educational or other work, object or endeavour in Singapore or elsewhere as the Board considers desirable in the interests of, or for the furtherance of, the trade union or co-operative movement in Singapore or elsewhere.

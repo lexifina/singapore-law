@@ -1,14 +1,14 @@
 # 3. Establishment and incorporation of Foundation
-Part: PART II THE FOUNDATION AND THE BOARD
+Part: PART 2 THE FOUNDATION AND THE BOARD
 
-There is hereby established a body corporate, to be known as the Singapore Labour Foundation, which —
+A body corporate called the Singapore Labour Foundation is established, which —
 
-(a) shall have perpetual succession;
+(a) has perpetual succession;
 
-(b) shall have a common seal;
+(b) has a common seal;
 
 (c) may sue and be sued in its corporate name;
 
-(d) may perform such other acts as bodies corporate may by law perform; and
+(d) may perform any other acts that bodies corporate may by law perform; and
 
-(e) may exercise such powers as are conferred by this Act.
+(e) may exercise any powers that are conferred by this Act.

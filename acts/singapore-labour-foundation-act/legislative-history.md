@@ -1,37 +1,9 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY SINGAPORE LABOUR FOUNDATION ACT 1977
 
-SINGAPORE LABOUR FOUNDATION ACT (CHAPTER 302)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Singapore Labour Foundation Act. It is not part of the Act.
+1. Act 9 of 1977 — Singapore Labour Foundation Act, 1977 Bill : 10/1977 First Reading : 29 June 1977 Second and Third Readings : 2 September 1977 Commencement : 12 December 1977 2. 1985 Revised Edition — Singapore Labour Foundation Act (Chapter 302) Operation : 30 March 1987 3. G.N. No. S 337/1987 — Revised Edition of the Laws (Rectification) Order 1987 Operation : 30 March 1987 4. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Amendments made by section 3 read with item (39) of the Schedule to the above Act) Bill : 7/2002 First Reading : 3 May 2002 Second and Third Readings : 24 May 2002 Commencement : 15 July 2002 (section 3 read with item (39) of the Schedule) 5. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Amendments made by section 33 read with item 1(46) of the Second Schedule to the above Act) Bill : 11/2008 First Reading : 21 July 2008 Second and Third Readings : 15 September 2008 Commencement : 1 March 2010 (section 33 read with item 1(46) of the Second Schedule) 6. 2014 Revised Edition — Singapore Labour Foundation Act (Chapter 302) Operation : 31 August 2014
 
-1. Act 9 of 1977 — Singapore Labour Foundation Act 1977
+Abbreviations
 
-Date of First Reading : 29 June 1977 (Bill No. 10/77)
-
-Date of Second and Third Readings : 2 September 1977
-
-Date of commencement : 12 December 1977
-
-2. 1985 Revised Edition — Singapore Labour Foundation Act (Chapter 302)
-
-Date of operation : 30 March 1987
-
-3. G.N. No. S 337/87 — Revised Edition of the Laws (Rectification) Order 1987
-
-Date of commencement : 30 March 1987
-
-4. Act 5 of 2002 — Statutory Corporations (Capital Contribution) Act 2002 (Consequential amendments made to Act by)
-
-Date of First Reading : 3 May 2002 (Bill No. 7/2002)
-
-Date of Second and Third Readings : 24 May 2002
-
-Date of commencement : 15 July 2002 (item (39) of the Schedule — amendment of Singapore Labour Foundation Act)
-
-5. Act 21 of 2008 — Mental Health (Care and Treatment) Act 2008 (Consequential amendments made to Act by)
-
-Date of First Reading : 21 July 2008 (Bill No. 11/2008)
-
-Date of Second and Third Readings : 16 September 2008
-
-Date of commencement : 1 March 2010 (item (46) of the Second Schedule — amendment of Singapore Labour Foundation Act)
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
