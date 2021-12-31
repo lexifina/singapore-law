@@ -1,7 +1,7 @@
 # 20. Funds of Authority
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds of the Authority shall consist of —
+The funds of the Authority consist of —
 
 (a) all moneys transferred to the Authority under section 30;
 
@@ -13,6 +13,6 @@ The funds of the Authority shall consist of —
 
 (e) all moneys borrowed by the Authority under this Act;
 
-(f) all moneys recovered or collected by the Authority or any officer or employee thereof (including sums collected for the composition of offences) under this Act or any other written law administered by the Authority; and
+(f) all moneys recovered or collected by the Authority or any officer or employee of the Authority (including sums collected for the composition of offences) under this Act or any other written law administered by the Authority; and
 
 (g) all other moneys lawfully received by the Authority for the purposes of the Authority.

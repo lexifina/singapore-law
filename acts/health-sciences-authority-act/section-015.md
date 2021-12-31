@@ -1,18 +1,18 @@
-# 15. Appointment of Chief Executive and other staff
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 15. Chief Executive, officers and employees, etc. 1
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-(1) The Authority shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Authority may determine.
+(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive —
+[5/2018]
 
-(a) shall be known by such designation as may be conferred on him by any written law or as the Authority may determine;
+(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) shall be responsible to the Authority for the proper administration and management of its functions and affairs in accordance with all policies laid down by the Authority;
+(a) is absent from duty or Singapore; or
 
-and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) shall not be removed from office without the consent of the Minister.
+[5/2018]
 
-(3) If the Chief Executive is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Authority to act in the place of the Chief Executive during any such period of absence from duty.
+(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(4) The Authority may, from time to time, appoint such other officers, employees, consultants or agents as it thinks fit for the effective performance of its functions.
+[5/2018]

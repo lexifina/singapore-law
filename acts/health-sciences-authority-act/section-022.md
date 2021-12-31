@@ -1,4 +1,4 @@
 # 22. Borrowing powers
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The Authority may, from time to time, for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
+The Authority may for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.

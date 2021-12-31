@@ -1,8 +1,6 @@
-# 25. Investment
-Part: PART V FINANCIAL PROVISIONS
+# 25. Power of investment
+Part: PART 5 FINANCIAL PROVISIONS
 
-The Authority may, with the approval of the Minister —
+The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
 
-(a) invest its funds in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+[45/2004]
