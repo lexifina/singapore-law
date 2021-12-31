@@ -1,0 +1,3 @@
+# 9. Offences committed by body corporate
+
+Where a body corporate is guilty of an offence under this Act and the rules made under this Act, any person who was at the time of the commission of the offence a director, manager, secretary or other similar officer of the body corporate, or was purporting to act in any such capacity, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly, unless the person proves that the offence was committed without his or her consent or connivance and that he or she exercised all such diligence to prevent the commission of the offence as he or she ought to have exercised, having regard to the nature of his or her functions in that capacity and to all the circumstances.
