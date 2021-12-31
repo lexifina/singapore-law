@@ -18,6 +18,8 @@ Article 45 Status of the Bank
 
 The Bank shall possess full juridical personality and, in particular, the full legal capacity:
 
+THE SCHEDULE — continued
+
 (i) to contract;
 
 (ii) to acquire, and dispose of, immovable and movable property;
@@ -34,8 +36,6 @@ Article 46 Immunity from Judicial Proceedings
 
 Members shall have recourse to such special procedures for the settlement of controversies between the Bank and its members as may be prescribed in this Agreement, in the by-laws and regulations of the Bank, or in the contracts entered into with the Bank.
 
-THE SCHEDULE — continued
-
 3. Property and assets of the Bank shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Bank.
 
 Article 47 Immunity of Assets and Archives
@@ -47,6 +47,8 @@ Article 47 Immunity of Assets and Archives
 Article 48 Freedom of Assets from Restrictions
 
 To the extent necessary to carry out the purpose and functions of the Bank effectively, and subject to the provisions of this Agreement, all property and assets of the Bank shall be free from restrictions, regulations, controls and moratoria of any nature.
+
+THE SCHEDULE — continued
 
 Article 49 Privilege for Communications
 
@@ -62,15 +64,15 @@ All Governors, Directors, Alternates, the President, Vice-Presidents and other o
 
 (iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
-THE SCHEDULE — continued
-
 Article 51 Exemption from Taxation
 
 1. The Bank, its assets, property, income and its operations and transactions pursuant to this Agreement, shall be exempt from all taxation and from all customs duties. The Bank shall also be exempt from any obligation for the payment, withholding or collection of any tax or duty.
 
-2. No tax of any kind shall be levied on or in respect of salaries, emoluments and expenses, as the case may be, paid by the Bank to Directors, Alternate Directors, the President, Vice‑Presidents and other officers or employees of the Bank, including experts and consultants performing missions or services for the Bank, except where a member deposits with its instrument of ratification, acceptance, or approval a declaration that such member retains for itself and its political subdivisions the right to tax salaries, and emoluments, as the case may be, paid by the Bank to citizens or nationals of such member.
+2. No tax of any kind shall be levied on or in respect of salaries, emoluments and expenses, as the case may be, paid by the Bank to Directors, Alternate Directors, the President, Vice-Presidents and other officers or employees of the Bank, including experts and consultants performing missions or services for the Bank, except where a member deposits with its instrument of ratification, acceptance, or approval a declaration that such member retains for itself and its political subdivisions the right to tax salaries, and emoluments, as the case may be, paid by the Bank to citizens or nationals of such member.
 
 3. No tax of any kind shall be levied on any obligation or security issued by the Bank, including any dividend or interest thereon, by whomsoever held:
+
+THE SCHEDULE — continued
 
 (i) which discriminates against such obligation or security solely because it is issued by the Bank; or
 
