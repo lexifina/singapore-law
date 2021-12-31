@@ -1,28 +1,50 @@
-# 3. Power to extend Part I to foreign countries giving reciprocal treatment
-Part: PART I REGISTRATION OF FOREIGN JUDGMENTS
+# 3. Extension of Part to judgments of recognised courts of foreign countries on basis of reciprocity
+Part: PART 1 REGISTRATION OF FOREIGN JUDGMENTS
 
-(1) The Minister, if he is satisfied that, in the event of the benefits conferred by this Part being extended to judgments given in the superior courts of any foreign country, substantial reciprocity of treatment will be assured as respects the enforcement in that foreign country of judgments given in the High Court of Singapore, may by order published in the Gazette direct —
+(1) If the Minister is satisfied that, in the event of the benefits conferred by this Part being extended to a particular description of judgments given in a particular court or description of courts of a foreign country, substantial reciprocity of treatment will be assured as respects the enforcement in that foreign country of similar judgments given in a similar court or similar courts of Singapore, the Minister may, by order in the Gazette, direct that —
 
-(a) that this Part shall extend to that foreign country; and
+(a) this Part applies to that foreign country;
 
-4 CAP. 265 Foreign Judgments 2001 Ed.
+(b) the court or courts of the foreign country specified in the order is a recognised court or are recognised courts of the foreign country for the purposes of this Part; and
 
-(b) that such courts of that foreign country as are specified in the order shall be deemed superior courts of that country for the purposes of this Part.
+(c) judgments specified in the order of any such recognised court or courts, if within subsection (2), are judgments to which this Part applies.
 
-(2) Any judgment of a superior court of a foreign country to which this Part extends, other than a judgment of such a court given on appeal from a court which is not a superior court, shall be a judgment to which this Part applies, if —
+[25/2019]
 
-(a) it is final and conclusive as between the parties thereto;
+(2) A judgment of a recognised court of a foreign country is within this subsection if —
 
-(b) there is payable thereunder a sum of money, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty; and
+(a) it is given after the coming into operation of the order; and
 
-(c) it is given after the coming into operation of the order directing that this Part shall extend to that foreign country.
+(b) it is final and conclusive as between the parties to it, unless it is an interlocutory judgment.
 
-[S 227/95]
+[25/2019]
 
-(3) For the purposes of this section, a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court.
+(3) A judgment —
 
-(4) An order directing that this Part shall extend to a foreign country may provide that the order shall come into operation before, on or after 25th February 1999.
+(a) specified in an order under subsection (1) of a recognised court of a foreign country specified in the order; and
 
-[2/99]
+(b) that is within subsection (2), is a judgment to which this Part applies.
 
-(5) The Minister may by a subsequent order published in the Gazette vary or revoke any order previously made under this section.
+[25/2019]
+
+(4) However, the following judgments of a recognised court of a foreign country are not judgments to which this Part applies:
+
+(a) a judgment given by that court on appeal from a court that is not a recognised court;
+
+(b) a judgment or other instrument that is regarded for the purposes of its enforcement as a judgment of that court but which was given or made in another foreign country;
+
+(c) a judgment given by that court in proceedings founded on a judgment of a court in another foreign country and having as their object the enforcement of the second-mentioned judgment.
+
+[25/2019]
+
+(5) For the purposes of this section, a judgment is taken to be final and conclusive even though —
+
+(a) an appeal may be pending against it; or
+
+(b) it may still be subject to appeal, in the courts of the country of the original court.
+
+[25/2019]
+
+(6) The Minister may by a subsequent order in the Gazette vary or revoke any order previously made under this section.
+
+[25/2019]

@@ -1,5 +1,5 @@
 # 5. Cases in which registered judgments must or may be set aside
-Part: PART I REGISTRATION OF FOREIGN JUDGMENTS
+Part: PART 1 REGISTRATION OF FOREIGN JUDGMENTS
 
 (1) On an application in that behalf duly made by any party against whom a registered judgment may be enforced, the registration of the judgment —
 
@@ -15,36 +15,52 @@ Part: PART I REGISTRATION OF FOREIGN JUDGMENTS
 
 (v) that the enforcement of the judgment would be contrary to public policy in the country of the registering court; or
 
-(vi) that the rights under the judgment are not vested in the person by whom the application for registration was made; or
+(vi) that the rights under the judgment are not vested in the person by whom the application for registration was made;
 
-(b) may be set aside if the registering court is satisfied that the matter in dispute in the proceedings in the original court had before the date of the judgment in the original court been the subject of a final and conclusive judgment by a court having jurisdiction in the matter.
+(b) may be set aside if the registering court is satisfied that the matter in dispute in the proceedings in the original court had before the date of the judgment in the original court been the subject of a final and conclusive judgment by a court having jurisdiction in the matter; or
 
-2001 Ed. Foreign Judgments CAP. 265 7
+(c) may be set aside if the registering court is satisfied that the notice of registration had not been served on the judgment debtor, or that the notice of registration was defective.
 
-(2) For the purposes of this section, the courts of the country of the original court shall, subject to subsection (3), be deemed to have had jurisdiction —
+[25/2019]
+
+(2) To avoid doubt, subsection (1)(c) does not prevent the subsequent registration of a judgment the registration of which has been previously set aside solely under that provision.
+
+[25/2019]
+
+(3) For the purposes of this section, the courts of the country of the original court shall, subject to subsection (4), be deemed to have had jurisdiction —
 
 (a) in the case of a judgment given in an action in personam —
 
-(i) if the judgment debtor, being a defendant in the proceedings in the original court, submitted to the jurisdiction of that court by voluntarily appearing in the proceedings otherwise than for the purpose of protecting, or obtaining the release of, property seized or threatened with seizure, in the proceedings or of contesting the jurisdiction of that court;
+(i) if the judgment debtor, being a defendant in the proceedings in the original court, submitted to the jurisdiction of that court by voluntarily appearing in the proceedings otherwise than for the purpose of —
+
+(A) protecting, or obtaining the release of, property seized or threatened with seizure in the proceedings;
+
+(B) contesting the jurisdiction of that court; or
+
+(C) inviting that court in its discretion not to exercise its jurisdiction in the proceedings;
 
 (ii) if the judgment debtor was a plaintiff, or counterclaimed, in the proceedings in the original court;
 
-(iii) if the judgment debtor, being a defendant in the proceedings in the original court, had before the commencement of the proceedings agreed, in respect of the subject-matter of the proceedings, to submit to the jurisdiction of that court or of the courts of the country of that court;
+(iii) if the judgment debtor, being a defendant in the proceedings in the original court, had before the commencement of the proceedings agreed, in respect of the subject matter of the proceedings, to submit to the jurisdiction of that court or of the courts of the country of that court;
 
 (iv) if the judgment debtor, being a defendant in the proceedings in the original court, was at the time when the proceedings were instituted resident, or being a body corporate had its principal place of business, in the country of that court; or
 
 (v) if the judgment debtor, being a defendant in the proceedings in the original court, had an office or place of business in the country of that court and the proceedings in that court were in respect of a transaction effected through or at that office or place;
 
-(b) in the case of a judgment given in an action of which the subject-matter was immovable property or in an action in rem of which the subject-matter was movable property, if the property in question was at the time of the proceedings in the original court situate in the country of that court; and
+(b) in the case of a judgment given in an action of which the subject matter was immovable property or in an action in rem of which the subject matter was movable property, if the property in question was at the time of the proceedings in the original court situate in the country of that court; and
 
 (c) in the case of a judgment given in an action other than any such action as is mentioned in paragraph (a) or (b), if the jurisdiction of the original court is recognised by the law of the registering court.
 
-8 CAP. 265 Foreign Judgments 2001 Ed.
+[25/2019]
 
-(3) Notwithstanding anything in subsection (2), the courts of the country of the original court shall not be deemed to have had jurisdiction —
+(4) Notwithstanding anything in subsection (3), the courts of the country of the original court shall not be deemed to have had jurisdiction —
 
-(a) if the subject-matter of the proceedings was immovable property outside the country of the original court;
+(a) if the subject matter of the proceedings was immovable property outside the country of the original court;
 
-(b) except in the cases mentioned in subsection (2) (a) (i), (ii) and (iii) and (c), if the bringing of the proceedings in the original court was contrary to an agreement under which the dispute in question was to be settled otherwise than by proceedings in the courts of the country of that court; or
+(b) except in the cases mentioned in subsection (3)(a)(i), (ii) and (iii) and (c), if the bringing of the proceedings in the original court was contrary to an agreement under which the dispute in question was to be settled otherwise than by proceedings in the courts of the country of that court; or
 
 (c) if the judgment debtor, being a defendant in the proceedings in the original court, was a person who under the rules of public international law was entitled to immunity from the jurisdiction of the courts of the country of the original court and did not submit to the jurisdiction of that court.
+
+(5) In this section, “notice of registration” means a notice of the registration of a judgment mentioned in section 8(1)(c) that is required to be served on a judgment debtor by the Rules of Court or Family Justice Rules, as the case may be.
+
+[25/2019]

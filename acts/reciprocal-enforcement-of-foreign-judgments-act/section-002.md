@@ -1,35 +1,53 @@
 # 2. Interpretation
-Part: PART I REGISTRATION OF FOREIGN JUDGMENTS
+Part: PART 1 REGISTRATION OF FOREIGN JUDGMENTS
 
 (1) In this Act, unless the context otherwise requires —
 
-‘‘appeal’’ includes any proceedings by way of discharging or setting aside a judgment or an application for a new trial or stay of execution;
+“appeal” includes any proceedings by way of discharging or setting aside a judgment or an application for a new trial or stay of execution;
 
-‘‘country’’ includes a territory;
+“country” includes a territory;
 
-‘‘country of the original court’’ means the country in which the original court is situated;
+“country of the original court” means the country in which the original court is situated;
 
-‘‘foreign country’’ means any country outside Singapore which is not part of the Commonwealth;
+“Family Justice Rules” means the Family Justice Rules made under section 46 of the Family Justice Act 2014;
 
-‘‘judgment’’ means a judgment or order given or made by a court in any civil proceedings, or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party;
+“foreign country” means any country outside Singapore;
 
-‘‘judgment creditor’’ means the person in whose favour the judgment was given, and includes any person in whom the rights under the judgment have become vested by succession or assignment or otherwise;
+“judgment” means an interlocutory or final judgment or order given or made by a court in any civil proceedings, or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party, and includes a consent judgment, a consent order and a judicial settlement;
 
-2001 Ed. Foreign Judgments CAP. 265 3
+“judgment creditor” means the person in whose favour the judgment was given (whether or not a sum of money is payable under the judgment), and includes any person in whom the rights under the judgment have become vested by succession or assignment or otherwise;
 
-‘‘judgment debtor’’ means the person against whom the judgment was given, and includes any person against whom the judgment is enforceable under the law of the original court;
+“judgment debtor” means the person against whom the judgment was given (whether or not a sum of money is payable under the judgment), and includes any person against whom the judgment is enforceable under the law of the original court;
 
-‘‘original court’’ , in relation to any judgment, means the court by which the judgment was given;
+“judicial settlement” —
 
-‘‘prescribed’’ means prescribed by Rules of Court;
+(a) means a contract approved by, or concluded before, a court in the course of proceedings, being a contract —
 
-‘‘registration’’ means registration under Part I and ‘‘register’’ and ‘‘registered’’ shall be construed accordingly;
+(i) between the parties to proceedings before that court;
 
-‘‘registering court’’ , in relation to any judgment, means the court to which an application to register the judgment is made.
+(ii) by which those parties end those proceedings;
 
-[2/99]
+and
 
-(2) For the purposes of this Act, ‘‘action in personam’’ shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters:
+(iii) that is recorded by that court in an official document; but
+
+(b) does not include a consent order or consent judgment;
+
+“money judgment” means a judgment under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a similar nature or in respect of a fine or other penalty;
+
+“non-money judgment” means a judgment that is not a money judgment, but does not include a judgment under which a sum of money is payable in respect of taxes or other charges of a similar nature or in respect of a fine or other penalty;
+
+“original court”, in relation to any judgment, means the court by which the judgment was given;
+
+“prescribed” means prescribed by Rules of Court or Family Justice Rules;
+
+“registration” means registration under Part 1 and “register” and “registered” shall be construed accordingly;
+
+“registering court”, in relation to any judgment, means the court to which an application to register the judgment is made.
+
+[16/2016; 25/2019]
+
+(2) For the purposes of this Act, “action in personam” shall not be deemed to include any matrimonial cause or any proceedings in connection with any of the following matters:
 
 (a) matrimonial matters;
 
@@ -37,10 +55,16 @@ Part: PART I REGISTRATION OF FOREIGN JUDGMENTS
 
 (c) bankruptcy;
 
-(d) winding-up of companies;
+(d) winding up of companies;
 
-(e) lunacy; or
+(e) lunacy;
 
 (f) guardianship of infants.
 
-(3) Subject to Rules of Court, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+(3) A reference to the making or giving of a judgment, in the case of a judgment that is a judicial settlement, is a reference to the making or concluding of the contract in paragraph (a) of the definition of “judicial settlement” in subsection (1).
+
+[25/2019]
+
+(4) Subject to Rules of Court and Family Justice Rules, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+
+[16/2016]
