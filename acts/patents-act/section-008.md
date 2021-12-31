@@ -1,5 +1,5 @@
 # 8. Powers of Registrar
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
 The Registrar may, for the purposes of this Act —
 
@@ -9,4 +9,4 @@ The Registrar may, for the purposes of this Act —
 
 (c) require the production of documents or articles; and
 
-(d) award costs against a party to proceedings before him.
+(d) award costs against a party to proceedings before the Registrar.

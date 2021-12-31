@@ -1,5 +1,5 @@
 # 13. Patentable inventions
-Part: PART III PATENTABILITY
+Part: PART 3 PATENTABILITY
 
 (1) Subject to subsection (2), a patentable invention is one that satisfies the following conditions:
 
@@ -9,10 +9,6 @@ Part: PART III PATENTABILITY
 
 (c) it is capable of industrial application.
 
-[40/95]
-
 (2) An invention the publication or exploitation of which would be generally expected to encourage offensive, immoral or anti-social behaviour is not a patentable invention.
 
-(3) For the purposes of subsection (2), behaviour shall not be regarded as offensive, immoral or anti-social only because it is prohibited by any law in force in Singapore.
-
-[UK Patents 1977, s. 1]
+(3) For the purposes of subsection (2), behaviour is not to be regarded as offensive, immoral or anti-social only because it is prohibited by any law in force in Singapore.

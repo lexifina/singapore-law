@@ -1,26 +1,30 @@
 # 31. General power to amend application before grant
-Part: PART VI PROCEDURE FOR GRANT OF PATENT
+Part: PART 6 PROCEDURE FOR GRANT OF PATENT
 
-(1) If it appears to an Examiner during the examination of an application that —
+(1) Subject to subsections (2), (3) and (4), the applicant may, of the applicant’s own volition or otherwise, amend the application or the specification thereof.
 
-(a) the conditions specified in sections 13 and 25 (4) and (5) have not been complied with; or
+[15/2012]
 
-(b) the application discloses —
+(2) The applicant is not entitled to amend the application or specification unless —
 
-(i) any additional matter referred to in section 84 (1); or
+(a) the applicant has made a request to do so to the Registrar —
 
-(ii) any matter extending beyond that disclosed in the application for the patent as filed, the Examiner shall give the applicant at least one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a notification and a copy of the written opinion.
+(i) in the prescribed manner; and
 
-[19/2004]
+(ii) within the prescribed period; and
 
-(2) The applicant shall, before the examination report is issued, have the right —
+(b) the request is accompanied by the prescribed documents.
 
-(a) to respond in the prescribed manner to the written opinion within any prescribed period; and
+[15/2012]
 
-(b) subject to section 84, to amend in the prescribed manner the specification of the application in accordance with the prescribed conditions.
+(3) The applicant may only amend the application or specification in accordance with the prescribed conditions and subject to section 84.
 
-[19/2004]
+[15/2012]
 
-(3) Notwithstanding subsection (1), during any period prescribed for the purposes of this subsection, the applicant may, in accordance with the prescribed conditions and subject to section 84, amend the application of his own volition.
+(4) If the applicant fails to comply with any requirement under subsection (2) or (3), the Registrar must —
 
-[19/2004]
+(a) refuse the applicant’s request to amend the application or specification; and
+
+(b) inform the applicant of the refusal.
+
+[15/2012]

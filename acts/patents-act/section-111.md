@@ -1,5 +1,5 @@
 # 111. Hours of business and excluded days
-Part: PART XX MISCELLANEOUS AND GENERAL
+Part: PART 20 MISCELLANEOUS AND GENERAL
 
 (1) The Registrar may issue practice directions to specify —
 
@@ -7,15 +7,11 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (b) the days which are to be treated as excluded days.
 
-[19/2004]
-
 (2) The Minister may prescribe the effect of doing any business under this Act —
 
 (a) on any day after the hours of business of the Registry; or
 
 (b) on any day which is an excluded day.
-
-[19/2004]
 
 (3) For the purposes of subsections (1) and (2) —
 
@@ -28,7 +24,3 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 (i) outside the hours of business of the Registry; or
 
 (ii) on an excluded day, may be prescribed for different classes of business.
-
-[UK Patents 1977, s. 120]
-
-[19/2004]

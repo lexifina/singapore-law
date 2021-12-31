@@ -1,11 +1,9 @@
 # 115. Rules
-Part: PART XX MISCELLANEOUS AND GENERAL
+Part: PART 20 MISCELLANEOUS AND GENERAL
 
-(1) The Minister may, after consulting with the Office, make such rules as he thinks expedient for regulating the business of the Registry in relation to patents and applications for patents (including international applications for patents) and for regulating all matters placed by this Act under the direction or control of the Registrar.
+(1) The Minister may, after consulting with the Office, make such rules as the Minister thinks expedient for regulating the business of the Registry in relation to patents and applications for patents (including international applications for patents) and for regulating all matters placed by this Act under the direction or control of the Registrar.
 
-[3/2001]
-
-(2) Without prejudice to the generality of subsection (1), the rules may make provision —
+(2) Without limiting subsection (1), the rules may make provision —
 
 (a) prescribing the contents of applications for patents and other documents which may be filed at the Registry and requiring copies to be furnished of any such documents;
 
@@ -17,7 +15,7 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (e) requiring the Registrar to publish any proposed amendment of patents and any other prescribed matters including any prescribed steps in any such proceeding;
 
-(f) providing for the appointment of scientific advisers to assist the court and the Registrar in any proceeding before it or him and for the remuneration of such advisers;
+(f) providing for the appointment of scientific advisers to assist the court and the Registrar in any proceeding before the court or the Registrar and for the remuneration of such advisers;
 
 (g) prescribing time limits for doing anything required to be done in connection with any such proceeding by this Act or the rules;
 
@@ -35,12 +33,10 @@ Part: PART XX MISCELLANEOUS AND GENERAL
 
 (n) prescribing anything that is required or permitted to be prescribed under this Act.
 
-[30/2001; 19/2004]
-
 (3) The rules may make different provisions for different cases.
 
-(4) The rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
+(4) The rules must provide for the publication by the Registrar of a journal (called in this Act the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents and foreign patent agents, and of other proceedings under this Act.
 
-(5) The rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
+[15/2012]
 
-[UK Patents 1977, s. 123]
+(5) The rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by the Registrar or by any court or body whether in Singapore or elsewhere.

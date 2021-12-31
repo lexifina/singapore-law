@@ -1,7 +1,7 @@
 # 12. Officers not to furnish information
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-(1) An officer or person employed in the Registry shall not, except when required or authorised by this Act, or under a direction in writing of the Registrar or by order of a court —
+(1) An officer or person employed in the Registry must not, except when required or authorised by this Act, or under a direction in writing of the Registrar or by order of a court —
 
 (a) furnish information on a matter which is being, or has been, dealt with under this Act;
 

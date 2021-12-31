@@ -1,5 +1,5 @@
 # 115A. Forms and directions of Registrar
-Part: PART XX MISCELLANEOUS AND GENERAL
+Part: PART 20 MISCELLANEOUS AND GENERAL
 
 The Minister may make rules for the publication by the Registrar of —
 
@@ -12,5 +12,3 @@ The Minister may make rules for the publication by the Registrar of —
 (iii) any other matter under this Act or the rules; and
 
 (b) the practice directions issued by the Registrar.
-
-[19/2004]

@@ -1,26 +1,24 @@
 # 46. Co-ownership of patents and applications for patents
-Part: PART VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATION
+Part: PART 8 PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATION
 
-(1) Where a patent is granted to 2 or more persons, each of them shall, subject to any agreement to the contrary, be entitled to an equal undivided share in the patent.
+(1) Where a patent is granted to 2 or more persons, each of them, subject to any agreement to the contrary, is entitled to an equal undivided share in the patent.
 
 (2) Where 2 or more persons are proprietors of a patent, then, subject to this section and subject to any agreement to the contrary —
 
-(a) each of them shall be entitled, by himself or his agents, to do in respect of the invention, for his own benefit and without the consent of or the need to account to the other or others, any act which would, apart from this subsection and section 56, amount to an infringement of the patent; and
+(a) each of them is entitled, by himself, herself or itself or his, her or its agents, to do in respect of the invention, for the person’s own benefit and without the consent of or the need to account to the other or others, any act which would, apart from this subsection and section 56, amount to an infringement of the patent; and
 
-(b) any such act shall not amount to an infringement of the patent.
+(b) any such act does not amount to an infringement of the patent.
 
-(3) Subject to sections 20 and 47 and to any agreement for the time being in force, where 2 or more persons are proprietors of a patent, one of them shall not without the consent of the other or others grant a licence under the patent or assign or mortgage a share in the patent.
+(3) Subject to sections 20 and 47 and to any agreement for the time being in force, where 2 or more persons are proprietors of a patent, one of them may not without the consent of the other or others grant a licence under the patent or assign or mortgage a share in the patent.
 
-(4) Subject to sections 20 and 47 where 2 or more persons are proprietors of a patent, anyone else may supply one of those persons with the means, relating to an essential element of the invention, for putting the invention into effect, and the supply of those means by virtue of this subsection shall not amount to an infringement of the patent.
+(4) Subject to sections 20 and 47 where 2 or more persons are proprietors of a patent, anyone else may supply one of those persons with the means, relating to an essential element of the invention, for putting the invention into effect, and the supply of those means by virtue of this subsection does not amount to an infringement of the patent.
 
-(5) Where a patented product is disposed of by any of 2 or more proprietors to any person, that person and any other person claiming through him shall be entitled to deal with the product in the same way as if it had been disposed of by a sole registered proprietor.
+(5) Where a patented product is disposed of by any of 2 or more proprietors to any person, that person and any other person claiming through that person are entitled to deal with the product in the same way as if it had been disposed of by a sole registered proprietor.
 
-(6) Nothing in subsection (1) or (2) shall affect the mutual rights or obligations of trustees or of the personal representatives of a deceased person, or their rights or obligations as such.
+(6) Nothing in subsection (1) or (2) affects the mutual rights or obligations of trustees or of the personal representatives of a deceased person, or their rights or obligations as such.
 
-(7) This section shall have effect in relation to an application for a patent which is filed as it has effect in relation to a patent and —
+(7) This section has effect in relation to an application for a patent which is filed as it has effect in relation to a patent and —
 
-(a) references to a patent and a patent being granted shall accordingly include references respectively to any such application and to the application being filed; and
+(a) references to a patent and a patent being granted accordingly include references respectively to any such application and to the application being filed; and
 
-(b) the reference in subsection (5) to a patented product shall be construed accordingly.
-
-[UK Patents 1977, s. 36]
+(b) the reference in subsection (5) to a patented product is to be construed accordingly.

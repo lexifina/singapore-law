@@ -1,4 +1,4 @@
 # 6. Registry of Patents
-Part: PART II ADMINISTRATION
+Part: PART 2 ADMINISTRATION
 
-For the purposes of this Act, there shall be an office which shall be known as the Registry of Patents.
+For the purposes of this Act, there is an office which is known as the Registry of Patents.

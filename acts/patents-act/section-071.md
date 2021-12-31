@@ -1,20 +1,18 @@
 # 71. Right to continue use begun before priority date
-Part: PART XIII INFRINGEMENT OF PATENTS
+Part: PART 13 INFRINGEMENT OF PATENTS
 
 (1) Where a patent is granted for an invention, a person who in Singapore before the priority date of the invention —
 
 (a) does in good faith an act which would constitute an infringement of the patent if it were in force; or
 
-(b) makes in good faith effective and serious preparations to do such an act, has the right to continue to do the act or, as the case may be, to do the act, notwithstanding the grant of the patent.
+(b) makes in good faith effective and serious preparations to do such an act, has the right to continue to do the act or, as the case may be, to do the act, despite the grant of the patent.
 
-(2) The right conferred by subsection (1) shall not extend to granting a licence to another person to do the act.
+(2) The right conferred by subsection (1) does not extend to granting a licence to another person to do the act.
 
 (3) If the act was done, or the preparations were made, in the course of a business, the person entitled to the right conferred by subsection (1) may —
 
-(a) authorise the doing of that act by any partner of his for the time being in that business; and
+(a) authorise the doing of that act by any partner of that person for the time being in that business; and
 
 (b) assign that right, or transmit it on death (or in the case of a body corporate on its dissolution) to any person who acquires that part of the business in the course of which the act was done or the preparations were made.
 
-(4) Where a product is disposed of to another in exercise of the rights conferred by subsection (1) or (3), that other and any person claiming through him may deal with the product in the same way as if it had been disposed of by the registered proprietor of the patent.
-
-[UK Patents 1977, s. 64]
+(4) Where a product is disposed of to another person in exercise of the rights conferred by subsection (1) or (3), that other person and any person claiming through that other person may deal with the product in the same way as if it had been disposed of by the registered proprietor of the patent.

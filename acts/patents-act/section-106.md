@@ -1,5 +1,5 @@
 # 106. Immunity of Office, its officers and Examiners
-Part: PART XX MISCELLANEOUS AND GENERAL
+Part: PART 20 MISCELLANEOUS AND GENERAL
 
 The Office, any officer of the Registry and any Examiner shall not —
 
@@ -7,8 +7,6 @@ The Office, any officer of the Registry and any Examiner shall not —
 
 (b) incur any liability by reason of or in connection with any examination or investigation required or authorised by this Act or any such treaty or any report or other proceedings consequent on any such examination or investigation; or
 
-(c) incur any liability by reason of an incorrect entry in the register of patent agents maintained under Part XIX.
+(c) incur any liability by reason of an incorrect entry in the register of patent agents or the register of foreign patent agents maintained under Part 19.
 
-[UK Patents 1977, s. 116]
-
-[3/2001]
+[15/2012]

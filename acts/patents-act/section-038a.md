@@ -1,98 +1,108 @@
-# 38A. Search and examination after grant
-Part: PART VII PROVISIONS AS TO PATENTS AFTER GRANT
+# 38A. Re-examination after grant
+Part: PART 7 PROVISIONS AS TO PATENTS AFTER GRANT
 
-(1) Subject to subsection (2), any person may request for a search and examination report in respect of any claim or claims in the specification of a patent on any of the following grounds:
+(1) Any person may, at any time after a patent is granted, file a request for the Registrar to conduct a re-examination of the specification of a patent for an invention on any of the following grounds:
 
-(a) where the patent was granted on the basis of any examination report or search and examination report referred to in section 29, any international preliminary report on patent- ability referred to in section 30 (2) (b) (vi) or any international preliminary examination report, that —
+(a) the invention is not a patentable invention;
 
-(i) at least one claim in the application for the patent at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid was not related to any claim in the application at the time the report was issued —
+(b) the specification does not disclose the invention clearly and completely for it to be performed by a person skilled in the art;
 
-(A) which has been examined; and
+(c) the matter disclosed in the specification extends beyond that disclosed —
 
-(B) which is referred to in the report; or
+(i) in the application for the patent, as filed; or
 
-(ii) the Examiner of the application did not consider all the relevant prior art before preparing the report;
+(ii) where the patent was granted on a new application filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (Cap. 221, 1995 Revised Edition), or in accordance with section 26(11), in —
 
-(b) where the patent was granted on the basis of any prescribed information relating to a corresponding application or corresponding international application referred to in section 29, that —
+(A) the earlier application made under this Act;
 
-(i) at the time the prescribed documents for the grant of the patent were filed and the prescribed fee for the grant of the patent was paid, at least one claim in the application for the patent did not relate to any claim —
+(B) the application made under the United Kingdom Patents Act 1977; or
 
-(A) which is set out in the prescribed information relating to the corresponding application or corresponding international application, as the case may be; and
+(C) the application under the European Patent Convention designating the United Kingdom filed at the European Patent Office, as the case may be, from which the filing date and the right of priority has been derived, as filed;
 
-(B) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility); or
+(d) an amendment has been made to the specification of the patent under section 38(1), 81 or 83 which —
 
-(ii) the Examiner of the corresponding application or corresponding international application, as the case may be, did not consider all the relevant prior art before preparing his report on the examination of the corresponding application or corresponding international application, as the case may be.
+(i) results in the specification disclosing any additional matter; or
 
-[19/2004]
+(ii) extends the protection conferred by the patent;
 
-(2) The Registrar shall not grant a request under subsection (1) unless —
+(e) an amendment has been made to the specification of the application for the patent under section 31 which results in the specification disclosing any matter extending beyond that disclosed in the application as filed;
 
-(a) the request is filed in the prescribed manner;
+(f) a correction has been made to the specification of the patent or of the application for the patent under section 107 which should not have been allowed;
 
-(b) the prescribed fee for the search and examination report has been paid; and
+(g) the patent is one of 2 or more patents for the same invention having the same priority date and filed by the same party or the party’s successor in title.
 
-(c) in a case to which subsections (3) and (4) apply, subsection (4) has been complied with.
+[23/2019]
 
-[19/2004]
+(2) Every request under subsection (1) must be —
 
-(3) Subject to subsection (4), any person who files a request under subsection (1) may, at the time he files the request, also file —
+(a) filed in the prescribed manner;
 
-(a) any observation which he wishes to make in relation to the patent; and
+(b) accompanied by the prescribed fee; and
 
-(b) any document which he considers to be relevant for the purposes of the examination.
+(c) accompanied, at the time the request is filed, by —
 
-(4) Where any document referred to in subsection (3) (b) is not in English, the person who files the request under subsection (1) shall also file an English translation of the document.
+(i) reasons to substantiate the ground specified in the request; and
 
-[19/2004]
+(ii) any document that the person considers to be relevant for the purposes of the re-examination.
 
-(5) The Registrar shall not grant a request under subsection (1) if he is of the view that the request is frivolous, vexatious or an abuse of the process.
+[23/2019]
 
-[19/2004]
+(3) The Registrar may reject any request that fails to comply with any requirement in subsection (2).
 
-(6) No request under subsection (1) shall be filed or granted where there are pending before the court or the Registrar proceedings in which the validity of the patent may be put in issue.
+[23/2019]
 
-[19/2004]
+(4) The Registrar must not grant a request under subsection (1) if the Registrar is of the view that the request is frivolous, vexatious or an abuse of the process.
 
-(7) Where the Registrar grants a request under subsection (1), the Registrar shall cause the claim or claims to be subjected to —
+[23/2019]
 
-(a) a search by an Examiner to discover the relevant prior art contained in —
+(5) No request under subsection (1) may be filed where there are pending before the court or the Registrar any proceedings in which the validity of the patent may be put in issue.
 
-(i) such documentation as may be prescribed; and
+[23/2019]
 
-(ii) any additional documentation that the Examiner is aware of and considers to be relevant; and
+(6) Where proceedings before the court or the Registrar, in which the validity of the patent may be put in issue, are filed after a request under subsection (1) is made, the Registrar may make such order or give such direction as the Registrar thinks fit concerning the request.
 
-(b) an examination by an Examiner to determine —
+[23/2019]
 
-(i) whether the conditions specified in sections 13 and 25 (4) and (5) have been complied with;
+(7) Where the Registrar grants a request under subsection (1), the Registrar must cause the specification of the patent to be re-examined by an Examiner so as to determine whether the ground specified in the request is made out.
 
-(ii) whether the specification of the patent discloses any additional matter referred to in section 84 (1); and
+[23/2019]
 
-(iii) whether the specification of the patent discloses any matter extending beyond that disclosed in the application for the patent as filed, taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search.
+(8) If it appears to the Examiner during the re-examination of the specification of the patent that —
 
-[19/2004]
+(a) the ground specified in the request; or
 
-(8) If it appears to the Examiner during the examination of the specification of the patent that —
+(b) based on any document submitted under subsection (2)(c)(ii), any other ground mentioned in subsection (1), is made out, the Examiner must give the proprietor of the patent a written opinion to that effect, and the Registrar must, upon receiving the written opinion, send the proprietor a copy of the written opinion.
 
-(a) the conditions specified in sections 13 and 25 (4) and (5) have not been complied with; or
+[23/2019]
 
-(b) the specification of the patent discloses —
+(9) The proprietor of the patent must respond to the written opinion in the prescribed manner and within the prescribed period.
 
-(i) any additional matter referred to in section 84 (1); or
+[23/2019]
 
-(ii) any matter extending beyond that disclosed in the application for the patent as filed, the Examiner shall give the proprietor of the patent a written opinion to that effect, and the proprietor of the patent shall, before the examination report is issued, have the right to respond in the prescribed manner to the written opinion within the prescribed period.
+(10) Upon receiving the re-examination report prepared by the Examiner, the Registrar must send to the proprietor of the patent a copy of the report.
 
-[19/2004]
+[23/2019]
 
-(9) Upon receiving the search and examination report prepared by the Examiner, the Registrar shall —
+(11) Where the re-examination report issued under this section contains one or more unresolved objections (being an objection mentioned in the written opinion), the Registrar must make an order revoking the patent.
 
-(a) send a copy of the report to the proprietor of the patent; and
+[23/2019]
 
-(b) where the request under subsection (1) is not filed by the proprietor of the patent, send a copy each of —
+(12) An order under subsection (11) may be —
 
-(i) the report;
+(a) an order for the unconditional revocation of the patent; or
 
-(ii) any written opinion given by the Examiner; and
+(b) where one of the grounds mentioned in subsection (1) has been established, but only so as to invalidate the patent to a limited extent, an order that the patent should be revoked unless within a specified time the specification is amended under section 83 to the satisfaction of the Registrar.
 
-(iii) any response given in the prescribed manner by the proprietor of the patent to any such written opinion, to the person who filed the request.
+[23/2019]
 
-[19/2004]
+(13) A decision of the Registrar or on appeal from the Registrar does not estop any party to any civil proceedings in which infringement of a patent is in issue from alleging invalidity of the patent on any of the grounds mentioned in subsection (1), whether or not any of the issues involved were decided in the decision.
+
+[23/2019]
+
+(14) A decision of the Registrar to revoke a patent under this section has effect from the date of the grant of the patent.
+
+[23/2019]
+
+(15) A person does not become a party to any proceedings under this Act before the Registrar by reason only that the person files a request under subsection (1), unless the person is the proprietor of the patent.
+
+[23/2019]
