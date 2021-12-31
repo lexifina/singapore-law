@@ -1,13 +1,14 @@
-# 9. Offences
+# 9. Licence conditions
+Part: PART 2 LICENSING OF ESTABLISHMENT FOR MASSAGE
 
-Any person who —
+(1) In granting a licence, the Licensing Officer may impose any conditions that the Licensing Officer considers requisite or expedient, not inconsistent with the provisions of this Act and any prescribed condition of the licence.
 
-(a) carries on an establishment for massage in respect of which he does not hold a valid licence;
+(2) Without affecting subsection (1), a licence to carry on the business of providing massage services in an establishment for massage may include conditions —
 
-(b) for the purpose of obtaining, whether for himself or any other person, the issue of any licence under the provisions of this Act makes any declaration or statement which is false in any material particular or knowingly alters, produces or makes use of any such declaration or statement or any document containing the same;
+(a) relating to the operation and operating hours of the establishment for massage;
 
-(c) refuses to permit the Licensing Officer or any officer authorised by him to enter or inspect any premises which the officer is authorised under this Act to enter and inspect or obstructs any such officer in the execution of his duty under the provisions of this Act or any rules made thereunder;
+(b) relating to the conduct of the employees of the licensee;
 
-(d) carries on an establishment for massage in contravention of the provisions of this Act or any rules made thereunder or any condition of a licence; or
+and
 
-(e) issues, publishes or displays or causes to be issued, published or displayed any advertisement relating to an establishment for massage which is not licensed in accordance with the provisions of this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for every day during which the offence continues after conviction.
+(c) requiring the licensee to notify the Licensing Officer if there is a change in any of the particulars in the licence.

@@ -1,3 +1,8 @@
 # 3. Appointment of officers
+Part: PART 1 PRELIMINARY
 
-The Minister may by notification in the Gazette appoint an officer to be the Licensing Officer for the purpose of this Act and may similarly appoint such number of Assistant Licensing Officers as may be necessary.
+The Minister may appoint —
+
+(a) a public officer to be the Licensing Officer for the purpose of this Act; and
+
+(b) any number of other public officers to be Assistant Licensing Officers as may be necessary.

@@ -1,11 +1,24 @@
-# 6. Security
+# 6. Application for licence
+Part: PART 2 LICENSING OF ESTABLISHMENT FOR MASSAGE
 
-(1) The Licensing Officer may, before issuing a licence, require the applicant to give security, either in the form of a cash deposit or by entering into a bond, that the provisions of this Act and of the conditions of the licence shall be duly observed.
+(1) An application for a licence must —
 
-(2) Where an applicant is required to enter into a bond, the Licensing Officer may require not more than 2 sureties to enter into the bond with the applicant.
+(a) be made to the Licensing Officer in the form and manner required by the Licensing Officer;
 
-(3) Any sum deposited or bond entered into under this section shall be liable to forfeiture in whole or in part at the discretion of the Licensing Officer on revocation of the licence.
+(b) be accompanied by a non-refundable application fee (if prescribed) paid in the manner required by the Licensing Officer; and
 
-(4) Any person aggrieved by a forfeiture under this section may require the Licensing Officer to furnish to him within 7 days the reason for the forfeiture.
+(c) be accompanied by any information that the Licensing Officer requires to determine the application.
 
-(5) Any person aggrieved by a forfeiture under this section may within 14 days of the furnishing to him of the reason for the forfeiture appeal by petition in writing to the Minister whose decision shall be final and shall not be called in question in any court.
+(2) If a person intends to carry on the business of providing massage services at more than one premises, a separate application must be made in respect of each of the premises.
+
+(3) The Licensing Officer may, in order to properly consider an application under subsection (1) —
+
+(a) carry out any inquiries and investigations in relation to the application as are necessary; and
+
+(b) request the applicant to provide, within a specified time, any additional information.
+
+(4) The Licensing Officer may refuse an application —
+
+(a) that is incomplete or otherwise not made in accordance with this section; or
+
+(b) if the applicant fails to provide the additional information requested under subsection (3)(b).

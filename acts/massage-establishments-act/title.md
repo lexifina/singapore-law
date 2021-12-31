@@ -1,18 +1,16 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-MASSAGE ESTABLISHMENTS ACT
-(CHAPTER 173)
-(Original Enactment: Ordinance 61 of 1959)
-REVISED EDITION 2013
-(31st October 2013)
+MASSAGE ESTABLISHMENTS
+ACT 2017
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
-An Act for the licensing and control of establishments for massage or special treatment.
+An Act to provide for the licensing and control of establishments for massage.
 
-[23rd September 1959]
+[1 March 2018]

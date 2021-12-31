@@ -1,3 +1,8 @@
-# 8. Power to enter and inspect premises
+# 8. Form and validity of licence
+Part: PART 2 LICENSING OF ESTABLISHMENT FOR MASSAGE
 
-The Licensing Officer or any officer duly authorised by him in writing in that behalf may enter and inspect any premises which are used or which the officer has reasonable cause to believe are to be used for the purposes of an establishment for massage and examine all books or other documents found in the premises and remove them for further examination.
+(1) Every licence must specify the premises at which the business of providing massage services may be carried on and must be in the form determined by the Licensing Officer.
+
+(2) Every licence continues in force for the period specified in the licence unless it is earlier revoked under section 12.
+
+(3) A licence is not renewable.

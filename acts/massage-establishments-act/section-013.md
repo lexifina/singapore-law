@@ -1,17 +1,14 @@
-# 13. Rules
+# 13. Restriction on employment of certain individuals
+Part: PART 3 EMPLOYMENT IN ESTABLISHMENT FOR MASSAGE
 
-(1) The Minister may make such rules as he may consider expedient for the purposes of this Act.
+(1) A licensee of an establishment for massage must not employ an individual to work in the establishment for massage except with the approval of the Licensing Officer.
 
-(2) Without prejudice to the generality of subsection (1), rules may be made for any of the purposes or with respect to any of the following matters:
+(2) A licensee of an establishment for massage must also not employ any individual in the establishment for massage —
 
-(a) the control and management of establishments for massage;
+(a) whom the licensee knows or has reason to believe is likely to engage in, or abet another person to engage in, the provision of sexual services;
 
-(b) the standards of hygiene to be observed in establishments for massage;
+(b) who is below 18 years of age; or
 
-(c) the fees to be charged in respect of licences;
+(c) who has not undergone and passed a medical health screening if required to do so by the Licensing Officer.
 
-(d) the conditions under which licences may be issued;
-
-(e) prescribing that any act or omission in contravention of any rule made under this Act shall be an offence and imposing penalties for such offences which penalties shall not exceed a fine of $1,000.
-
-(3) All rules made under this section shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+(3) Any licensee who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
