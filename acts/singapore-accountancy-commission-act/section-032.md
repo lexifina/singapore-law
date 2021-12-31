@@ -1,7 +1,7 @@
 # 32. Powers relating to revocation or suspension not affected by membership rules, etc.
-Part: PART VII CHARTERED ACCOUNTANTS OF SINGAPORE
+Part: PART 7 CHARTERED ACCOUNTANTS OF SINGAPORE
 
-The Commission and the Minister may exercise their powers, respectively, under this Part in respect of the revocation or suspension of the registration of a member of a designated entity as a chartered accountant notwithstanding —
+The Commission and the Minister may exercise their powers, respectively, under this Part in respect of the revocation or suspension of the registration of a member of a designated entity as a chartered accountant despite —
 
 (a) anything in the membership rules of the designated entity;
 

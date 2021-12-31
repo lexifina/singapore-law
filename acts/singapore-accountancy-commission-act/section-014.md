@@ -1,7 +1,7 @@
 # 14. Funds and property of Commission
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds and property of the Commission shall include —
+The funds and property of the Commission include —
 
 (a) all grants made to the Commission under section 17;
 
@@ -13,6 +13,8 @@ The funds and property of the Commission shall include —
 
 (e) all moneys, dividends, royalties, interest and income received from any transaction made pursuant to the powers conferred on the Commission by or under this Act or any other written law;
 
-(f) all moneys borrowed by the Commission under this Act; and
+(f) all moneys borrowed by the Commission under this Act;
+
+and
 
 (g) all accumulations of income derived from any such property or money.

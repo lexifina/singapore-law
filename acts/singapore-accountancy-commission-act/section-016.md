@@ -1,6 +1,6 @@
 # 16. Bank account
-Part: PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-(1) The Commission shall open and maintain one or more accounts with such bank or banks as the Commission thinks fit.
+(1) The Commission must open and maintain one or more accounts with such bank or banks as the Commission thinks fit.
 
-(2) Every such account shall be operated by such person or persons as may, from time to time, be authorised in that behalf by the Commission.
+(2) Every account must be operated by such person or persons as may be authorised in that behalf by the Commission.

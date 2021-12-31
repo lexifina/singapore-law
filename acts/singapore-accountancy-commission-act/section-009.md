@@ -1,15 +1,15 @@
 # 9. Appointment of committees and delegation
-Part: PART III FUNCTIONS AND POWERS OF COMMISSION
+Part: PART 3 FUNCTIONS AND POWERS OF COMMISSION
 
-(1) The Commission may appoint from among its own members or from among other persons such number of committees as it thinks fit for purposes which, in the opinion of the Commission, would be more expediently carried out or managed by means of such committees.
+(1) The Commission may appoint from among its own members or from among other persons any number of committees that it thinks fit for purposes which, in the opinion of the Commission, would be more expediently carried out or managed by means of those committees.
 
-(2) Where a committee is appointed under subsection (1), the Commission shall appoint a person to be the chairman of that committee.
+(2) Where a committee is appointed under subsection (1), the Commission must appoint a person to be the chairperson of that committee.
 
-(3) The Commission may, from time to time, alter or discharge any committee appointed under subsection (1), and define or vary the terms of reference of the committee.
+(3) The Commission may alter or discharge any committee appointed under subsection (1), and define or vary the terms of reference of the committee.
 
 (4) Subject to the provisions of this Act and to the control of the Commission, each committee appointed under subsection (1) may regulate its procedure in such manner as the committee thinks fit.
 
-(5) The Commission may, subject to such conditions or restrictions as it thinks fit, delegate —
+(5) The Commission may, subject to any conditions or restrictions that it thinks fit, delegate —
 
 (a) to any of its members;
 
@@ -21,4 +21,4 @@ Part: PART III FUNCTIONS AND POWERS OF COMMISSION
 
 (6) Any function or power delegated under subsection (5) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Commission.
 
-(7) No delegation under this section shall restrict or prevent the performance or exercise of any function or power by the Commission.
+(7) No delegation under this section restricts or prevents the performance or exercise of any function or power by the Commission.
