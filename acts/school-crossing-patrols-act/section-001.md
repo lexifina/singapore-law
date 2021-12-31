@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the School Crossing Patrols Act.
+This Act is the School Crossing Patrols Act 1955.

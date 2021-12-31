@@ -10,11 +10,9 @@ In this Act, unless the context otherwise requires —
 
 (a) any road within Pulau Bukom;
 
-(b) any road within the limits of any installation of the Singapore Armed Forces declared by the Minister by
-
 1
 
-notification in the Gazette to be an installation to which this Act applies; and
+(b) any road within the limits of any installation of the Singapore Armed Forces declared by the Minister by notification in the Gazette to be an installation to which this Act applies; and
 
 (c) any bridge over which a road passes;
 
@@ -23,5 +21,3 @@ notification in the Gazette to be an installation to which this Act applies; and
 “school crossing patrol” means a person appointed to patrol in accordance with arrangements under section 3;
 
 “vehicle” means any vehicle whether mechanically propelled or otherwise.
-
-[25/2012]

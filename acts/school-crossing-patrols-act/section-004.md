@@ -12,7 +12,7 @@
 
 (4) The power conferred on a school crossing patrol by subsection (1) shall be exercisable only if the patrol is wearing a uniform conforming to a type prescribed by the Minister.
 
-(5) The power conferred by section 42(1) of the Road Traffic Act (Cap. 276) on a court before which a person is convicted of any criminal offence in connection with the driving of a motor vehicle to order him to be disqualified from holding or obtaining a licence to drive a motor vehicle shall not be exercisable by virtue of the conviction of a person of an offence under subsection (3) if it is his first or second conviction of an offence thereunder.
+(5) The power conferred by section 42(1) of the Road Traffic Act 1961 on a court before which a person is convicted of any criminal offence in connection with the driving of a motor vehicle to order him to be disqualified from holding or obtaining a licence to drive a motor vehicle shall not be exercisable by virtue of the conviction of a person of an offence under subsection (3) if it is his first or second conviction of an offence thereunder.
 
 (6) For the purposes of this section —
 
