@@ -1,24 +1,30 @@
 # 17. Stay of proceedings upon making of application for legal aid
-Part: PART II LEGAL AID IN CIVIL ACTIONS
+Part: PART 2 LEGAL AID IN CIVIL ACTIONS
 
-(1) Where proceedings have been commenced and any party makes an application for legal aid, the Director shall, as soon as practicable after the application is made, notify the other party or each of the other parties, and file with the court in which the proceedings are pending, a notification in a prescribed form and no fee shall be payable in respect of the filing of the notification.
+(1) Where proceedings have been commenced and any party makes an application for legal aid, the Director must, as soon as practicable after the application is made, notify the other party or each of the other parties, and file with the court in which the proceedings are pending, a notification of the making of the application; and no fee is to be payable in respect of the filing of the notification.
 
-[6/2013]
+[6/2013; 50/2018]
 
-(2) Where any notification is so filed, then, unless otherwise ordered by the court before which the proceedings are pending, all steps in the proceedings shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by the court), time fixed by or under any Act or by or under any Rules of Court, regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run, except that —
+(2) Where a notification under subsection (1) is filed in respect of any proceedings, the following apply unless the court (before which those proceedings are pending) orders otherwise:
 
-(a) the filing of the notification shall not operate to prevent the making of —
+(a) all steps in those proceedings are stayed for a period of 14 days after the date on which the notification is filed;
 
-(i) an interlocutory order for an injunction or for the appointment of a receiver or manager or receiver and manager;
+(b) during that period, the time fixed by or under any written law, for doing any act or taking any step in those proceedings, does not run.
 
-(ii) an order to prevent the lapse of a caveat against dealings with land; or
+[50/2018]
 
-(iii) any other order which, in the opinion of the court before which proceedings are pending, is necessary to prevent an irremediable injustice; and
+(3) Despite subsection (2), the filing of the notification under subsection (1) does not prevent any of the following:
 
-(b) unless otherwise ordered by the court before which proceedings are pending, the filing of the notification shall not operate to prevent the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect any such order as is mentioned in paragraph (a) or a decree to the like effect.
+(a) the making of an interlocutory order for an injunction, or for the appointment of a receiver, a manager or a receiver and manager;
 
-[6/2013]
+(b) the making of an order to prevent the lapse of a caveat against dealings with land;
 
-(3) The time during which proceedings are stayed by virtue of this section may be reduced or extended by order of the court before which proceedings are pending.
+(c) the making of any other order which, in the opinion of the court, is necessary to prevent an irremediable injustice;
 
-[6/2013]
+(d) the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect an order mentioned in paragraph (a), (b) or (c), unless the court orders otherwise.
+
+[50/2018]
+
+(4) The period mentioned in subsection (2)(a) may be reduced or extended by an order of the court.
+
+[50/2018]

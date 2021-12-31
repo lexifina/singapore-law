@@ -1,27 +1,23 @@
 # 16. Costs
-Part: PART II LEGAL AID IN CIVIL ACTIONS
+Part: PART 2 LEGAL AID IN CIVIL ACTIONS
 
-(1) In proceedings to which an aided person is a party, the court shall make, in favour of the aided person, the like order for costs (except against another aided person) as the court would have made in favour of the aided person had he not been an aided person, and in proceedings in which costs follow the event an aided person shall (except against another aided person) be entitled to costs in the like manner as if he were not an aided person, notwithstanding that no amount is or will be payable by the aided person, or that the costs are in excess of the amount which is or will be payable by the aided person.
+(1) Where an aided person is entitled to costs in any proceedings to which the aided person is a party —
 
-(2) Where any moneys are recovered by an aided person (whether in proceedings or by virtue of a settlement or compromise), he shall be liable to pay to the Director so much of the moneys so recovered as is recovered in respect of costs.
+(a) the court must make, in favour of the aided person, such order for costs as the court would have made in favour of a person who is not an aided person; and
 
-(3) For the purposes of subsection (2), the moneys recovered in respect of costs shall be deemed to be so much of the total amount so recovered as exceeds the amount (if any) recoverable by the aided person otherwise than as costs.
+(b) where costs follow the event, the aided person is entitled to the same costs as a person who is not an aided person.
 
-(4) Where any moneys are recovered by a person to whom a Grant of Aid has been issued and who is not liable to make a contribution (whether in proceedings or by virtue of a settlement or compromise), he shall be liable to pay, out of moneys so recovered, to the Director the aggregate amount of the sums paid or payable by the Director on his account and, where such person has been represented in the proceedings by the Director, such sums as would in the opinion of the Director have been payable on his account had he been represented by a solicitor assigned to him.
+[50/2018]
 
-(5) Notwithstanding subsection (4) —
+(2) Subsection (1) does not apply to any costs against another aided person.
 
-(a) where the amount recovered does not exceed $500, no sum shall be payable by the aided person under subsection (4); and
+[50/2018]
 
-(b) where the amount recovered exceeds $500, the sum payable by the aided person under subsection (4) shall not exceed —
+(3) Where any moneys are recovered by an aided person (whether in proceedings or by virtue of a settlement or compromise), the aided person is liable to pay to the Director so much of the moneys so recovered as is recovered in respect of costs.
 
-(i) one-quarter of the amount recovered; or
+(4) For the purposes of subsection (3), the moneys recovered in respect of costs are deemed to be so much of the total amount so recovered as exceeds the amount (if any) recoverable by the aided person otherwise than as costs.
 
-(ii) the difference between the amount received and the amount of $500, whichever is the lower.
-
-[6/2013]
-
-(6) Without prejudice to the generality of subsections (1), (2), (3) and (4), “costs” includes —
+(5) Without limiting subsections (1), (2), (3) and (4), “costs” includes —
 
 (a) counsel’s fees, whether or not the same have been paid;
 
@@ -29,4 +25,6 @@ Part: PART II LEGAL AID IN CIVIL ACTIONS
 
 (c) any sums which, pursuant to section 13(3), are expended by the Director in meeting out-of-pocket expenses or are advanced by the Director for that purpose.
 
-(7) Where the costs recovered by the Director under this section include any of the fees, charges or sums referred to in subsection (6)(b) and (c), such costs shall be applied, in the first instance, in and towards satisfaction of such fees, charges or sums.
+[50/2018]
+
+(6) Where the costs recovered by the Director under this section include any of the fees, charges or sums referred to in subsection (5)(b) and (c), such costs must be applied, in the first instance, in and towards satisfaction of such fees, charges or sums.

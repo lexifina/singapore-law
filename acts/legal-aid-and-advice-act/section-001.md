@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Legal Aid and Advice Act.
+This Act is the Legal Aid and Advice Act 1995.

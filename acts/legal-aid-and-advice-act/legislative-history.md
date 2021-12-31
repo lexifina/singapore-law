@@ -1,117 +1,13 @@
-# LEGISLATIVE HISTORY
+# LEGISLATIVE HISTORY LEGAL AID AND ADVICE ACT 1995
 
-LEGAL AID AND ADVICE ACT (CHAPTER 160)
+This Legislative History is a service provided by the Law Revision Commission on a best-efforts basis. It is not part of the Act.
 
-This Legislative History is provided for the convenience of users of the Legal Aid and Advice Act. It is not part of the Act.
+PICTORIAL OVERVIEW OF PREDECESSOR ACTS
 
-1. Ordinance 19 of 1956 — Legal Aid and Advice Ordinance 1956
+LEGISLATIVE HISTORY DETAILS PART 1 LEGAL AID AND ADVICE ACT (CHAPTER 160, 1985 REVISED EDITION) 1. Ordinance 19 of 1956 — Legal Aid and Advice Ordinance, 1956 Bill : 50/1956 First Reading : 4 April 1956 Second Reading : 6 June 1956 Notice of Amendments : 6 June 1956 Third Reading : 6 June 1956 Commencement : 1 July 1957 (Part I) 1 July 1958 (Parts III and IV and Part V, except section 29(2)) 2. Ordinance 17 of 1958 — Legal Aid and Advice (Amendment) Ordinance, 1958 Bill : 135/1958 First Reading : 22 April 1958 Second Reading : 11 June 1958 Notice of Amendments : 11 June 1958 Third Reading : 11 June 1958 Commencement : 1 July 1958 3. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance, 1958 (Amendments made by section 2 read with the Schedule to the above Ordinance) Bill : 158/1958 First Reading : 16 July 1958 Second Reading : 13 August 1958 Notice of Amendments : 10 September 1958 Third Reading : 10 September 1958 Commencement : 25 September 1958 (section 2 read with the Schedule) 4. G.N. No. S 303/1958 — Legal Aid and Advice (No. 2) Regulations, 1958 Commencement : 5 December 1958 5. G.N. No. S (N.S.) 179/1959 — Singapore Constitution (Modification of Laws) (No. 5) Order, 1959 Commencement : 20 November 1959 6. G.N. Sp. No. S 181/1964 — Legal Aid and Advice Regulations, 1964 Commencement : 30 October 1964 7. L.N. 90/1965 (G.N. Sp. No. S 50/1965) — Modification of Laws (Legal Aid and Advice) (Singapore) Order, 1965 Commencement : 18 March 1965 8. 1966 Reprint — Legal Aid and Advice Ordinance, 1956 Reprint : 16 November 1966 9. 1970 Revised Edition — Legal Aid and Advice Act (Chapter 9) Operation : 1 March 1971 10. 1985 Revised Edition — Legal Aid and Advice Act (Chapter 160) Operation : 30 March 1987 11. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Amendments made by section 29(5) read with item (8) of the Schedule to the above Act) Bill : 12/1993 First Reading : 26 February 1993 Second and Third Readings : 12 April 1993 Notice of Amendments : 12 April 1993 Third Reading : 12 April 1993 Commencement : 1 July 1993 (section 29(5) read with item (8) of the Schedule)
 
-Date of First Reading : 4 April 1956 (Bill No. 50/56 published on 17 April 1956)
+PART 2 LEGAL AID AND ADVICE ACT 1995 (2020 REVISED EDITION) 12. Act 20 of 1995 — Legal Aid and Advice Act 1995 Bill : 15/1995 First Reading : 15 March 1995 Second Reading : 7 July 1995 Notice of Amendments : 7 July 1995 Third Reading : 7 July 1995 Commencement : 1 October 1995 13. 1996 Revised Edition — Legal Aid and Advice Act (Chapter 160) Operation : 30 April 1996 14. G.N. No. S 135/2001 — Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2001 Commencement : 1 April 2001 15. Act 6 of 2004 — Statutes (Miscellaneous Amendments) Act 2004 (Amendments made by section 6 of the above Act) Bill : 4/2004 First Reading : 5 January 2004 Second and Third Readings : 6 February 2004 Commencement : 8 March 2004 (section 6) 16. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Amendments made by section 5 read with item (19) of the First Schedule and section 7 read with item (12) of the Fifth Schedule to the above Act) Bill : 30/2005 First Reading : 17 October 2005 Second and Third Readings : 21 November 2005 Commencement : 1 January 2006 (section 5 read with item (19) of the First Schedule and section 7 read with item (12) of the Fifth Schedule) 17. G.N. No. S 310/2007 — Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2007 Commencement : 1 July 2007 18. Act 27 of 2010 — International Child Abduction Act 2010 (Amendments made by section 25 of the above Act) Bill : 22/2010 First Reading : 16 August 2010 Second and Third Readings : 16 September 2010 Commencement : 1 March 2011 (section 25) 19. Act 6 of 2013 — Legal Aid and Advice (Amendment) Act 2013 Bill : 2/2013 First Reading : 14 January 2013 Second and Third Readings : 4 February 2013 Commencement : 1 July 2013 20. 2014 Revised Edition — Legal Aid and Advice Act (Chapter 160) Operation : 30 April 2014 21. Act 27 of 2014 — Family Justice Act 2014 (Amendments made by section 61 of the above Act) Bill : 21/2014 First Reading : 8 July 2014 Second Reading : 4 August 2014 Notice of Amendments : 4 August 2014 Third Reading : 4 August 2014 Commencement : 1 October 2014 (section 61) 22. Act 16 of 2016 — Statutes (Miscellaneous Amendments) Act 2016 (Amendments made by section 15 of the above Act) Bill : 15/2016 First Reading : 14 April 2016 Second and Third Readings : 9 May 2016 Commencement : 10 June 2016 (section 15) 23. Act 50 of 2018 — Legal Aid and Advice (Amendment) Act 2018 Bill : 42/2018 First Reading : 1 October 2018 Second and Third Readings : 19 November 2018 Commencement : 31 May 2019 (except sections 2(b), 6(2), 7, 18(b), (c) and (d), 19, 21 and 22(1) to (5)) 16 October 2019 (sections 2(b), 6(2), 7, 18(b), (c) and (d), 19, 21 and 22(1), (2), (3), (4) and (5)) 24. Act 40 of 2018 — Insolvency, Restructuring and Dissolution Act 2018 (Amendments made by section 487 of the above Act) Bill : 32/2018 First Reading : 10 September 2018 Second and Third Readings : 1 October 2018 Commencement : 30 July 2020 (section 487) 25. Act 27 of 2019 — Work Injury Compensation Act 2019 (Amendments made by section 83(8)(f) of the above Act) Bill : 21/2019 First Reading : 5 August 2019 Second and Third Readings : 3 September 2019 Commencement : 1 September 2020 (section 83(8)(f)) 26. Act 40 of 2019 — Supreme Court of Judicature (Amendment) Act 2019 (Amendments made by section 28(1) read with item 86 of the Schedule to the above Act) Bill : 32/2019 First Reading : 7 October 2019 Second Reading : 5 November 2019 Notice of Amendments : 5 November 2019 Third Reading : 5 November 2019 Commencement : 2 January 2021 (section 28(1) read with item 86 of the Schedule)
 
-Date of Second and Third Readings : 6 June 1956
+Abbreviations
 
-Dates of commencement : 1 July 1957 (Part I) 1 July 1958 (Parts III, IV and V, except section 29(2))
-
-2. Ordinance 17 of 1958 — Legal Aid and Advice (Amendment) Ordinance 1958
-
-Date of First Reading : 22 April 1958 (Bill No. 135/58 published on 6 May 1958)
-
-Date of Second and Third Readings : 11 June 1958
-
-Date of commencement : 1 July 1958
-
-3. Ordinance 31 of 1958 — Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958
-
-Date of First Reading : 16 July 1958 (Bill No. 158/58 published on 22 July 1958)
-
-Date of Second Reading : 13 August 1958
-
-Date of Third Reading : 10 September 1958
-
-Date of commencement : 25 September 1958
-
-4. G.N. No. S 303/58 — Legal Aid and Advice (No. 2) Regulations 1958
-
-Date of commencement : 5 December 1958
-
-5. S (N.S.) 179/59 — The Singapore Constitution (Modification of Laws) (No. 5) Order 1959
-
-Date of commencement : 20 November 1959 6. Sp. No. S 181/64 — Legal Aid and Advice Regulation 1964
-
-Date of commencement : 30 October 1964
-
-7. L.N. 90/65 — Modification of Laws (Legal Aid and Advice) (Singapore) Order 1965
-
-Date of commencement : 18 March 1965
-
-8. 1966 Reprint — Legal Aid and Advice Ordinance 1959
-
-Date of operation : Date not available.
-
-9. 1970 Revised Edition — Legal Aid and Advice Act (Chapter 9)
-
-Date of operation : 1 March 1971
-
-10. 1985 Revised Edition — Legal Aid and Advice Act (Chapter 160)
-
-Date of operation : 30 March 1987
-
-11. Act 16 of 1993 — Supreme Court of Judicature (Amendment) Act 1993 (Consequential amendments made to Act by)
-
-Date of First Reading : 26 February 1993 (Bill No. 12/93 published on 27 February 1993)
-
-Date of Second and Third Readings : 12 April 1993
-
-Date of commencement : 1 July 1993
-
-12. Act 20 of 1995 — Legal Aid and Advice Act 1995
-
-Date of First Reading : 15 March 1995 (Bill No. 15/95 published on 16 March 1995)
-
-Date of Second and Third Readings : 7 July 1995
-
-Date of commencement : 1 October 1995
-
-Note: The Legal Aid and Advice Act 1995 repealed the Legal Aid and Advice Act (Chapter 160, 1985 Revised Edition).
-
-13. 1996 Revised Edition — Legal Aid and Advice Act (Chapter 160)
-
-Date of operation : 30 April 1996
-
-14. G.N. No. S 135/2001 — Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2001
-
-Date of commencement : 1 April 2001 15. Act 6 of 2004 — Statutes (Miscellaneous Amendments) Act 2004
-
-Date of First Reading : 5 January 2004 (Bill No. 4/2004 published on 6 January 2004)
-
-Date of Second and Third Readings : 6 February 2004
-
-Date of commencement : 8 March 2004
-
-16. Act 42 of 2005 — Statutes (Miscellaneous Amendments) (No. 2) Act 2005
-
-Date of First Reading : 17 October 2005 (Bill No. 30/2005 published on 18 October 2005)
-
-Date of Second and Third Readings : 21 November 2005
-
-Date of commencement : 1 January 2006 (item (12) of the Fifth Schedule — amendment of Legal Aid and Advice Act)
-
-17. G.N. No. S 310/2007 — Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2007
-
-Date of commencement : 1 July 2007
-
-18. Act 27 of 2010 — International Child Abduction Act 2010 (Consequential amendments made to Act by)
-
-Date of First Reading : 16 August 2010 (Bill No. 22/2010 published on 17 August 2010)
-
-Date of Second and Third Readings : 16 September 2010
-
-Date of commencement : 1 March 2011
-
-19. Act 6 of 2013 — Legal Aid and Advice (Amendment) Act 2013
-
-Date of First Reading : 14 January 2013 (Bill No. 2/2013 published on 14 January 2013)
-
-Date of Second and Third Readings : 4 February 2013
-
-Date of commencement : 1 July 2013
+C.P. Council Paper G.N. No. S (N.S.) Government Notification Number Singapore (New Series) G.N. No. Government Notification Number G.N. No. S Government Notification Number Singapore G.N. Sp. No. S Government Notification Special Number Singapore L.A. Legislative Assembly L.N. Legal Notification (Federal/Malaysian Subsidiary Legislation) M. Act Malayan Act/Malaysia Act M. Ordinance Malayan Ordinance Parl. Parliament S.S.G.G. (E) No. Straits Settlements Government Gazette (Extraordinary) Number S.S.G.G. No. Straits Settlements Government Gazette Number
