@@ -1,5 +1,5 @@
 # 32. Delivery to carrier
-Part: PART IV PERFORMANCE OF THE CONTRACT
+Part: PART 4 PERFORMANCE OF THE CONTRACT
 
 (1) Where, in pursuance of a contract of sale, the seller is authorised or required to send the goods to the buyer, delivery of the goods to a carrier (whether named by the buyer or not) for the purpose of transmission to the buyer is prima facie deemed to be a delivery of the goods to the buyer.
 

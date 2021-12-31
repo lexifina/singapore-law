@@ -1,4 +1,4 @@
 # 63. Short title
-Part: PART VII SUPPLEMENTARY
+Part: PART 7 SUPPLEMENTARY
 
-This Act may be cited as the Sale of Goods Act.
+This Act may be cited as the Sale of Goods Act 1979.

@@ -1,4 +1,6 @@
-# 40. (Not applicable) Unpaid Seller’s Lien
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+# 40. [Omitted] Unpaid seller’s lien
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
-(Not applicable) Unpaid Seller’s Lien
+[Omitted in 1994 Revised Edition]
+
+Unpaid seller’s lien

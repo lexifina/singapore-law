@@ -1,5 +1,5 @@
-# 20B. Deemed consent by co-owner to dealings in bulk goods Transfer of Title
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+# 20B. Deemed consent by co-owner to dealings in bulk goods Transfer of title
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
 (1) A person who has become an owner in common of a bulk by virtue of section 20A shall be deemed to have consented to —
 
@@ -7,11 +7,7 @@ Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller an
 
 (b) any dealing with or removal, delivery or disposal of goods in the bulk by any other person who is an owner in common of the bulk in so far as the goods fall within that co-owner’s undivided share in the bulk at the time of the dealing, removal, delivery or disposal.
 
-[43/96]
-
 (2) No cause of action shall accrue to anyone against a person by reason of that person having acted in accordance with paragraph (a) or (b) of subsection (1) in reliance on any consent deemed to have been given under that subsection.
-
-[43/96]
 
 (3) Nothing in this section or section 20A shall —
 
@@ -21,6 +17,4 @@ Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller an
 
 (c) affect the rights of any buyer under his contract.
 
-[43/96]
-
-Transfer of Title
+Transfer of title

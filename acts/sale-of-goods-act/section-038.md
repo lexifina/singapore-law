@@ -1,5 +1,5 @@
 # 38. Unpaid seller defined
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (1) The seller of goods is an unpaid seller within the meaning of this Act —
 
@@ -7,4 +7,4 @@ Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (b) when a bill of exchange or other negotiable instrument has been received as conditional payment, and the condition on which it was received has not been fulfilled by reason of the dishonour of the instrument or otherwise.
 
-(2) In this Part, ‘‘seller’’ includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been indorsed, or a consignor or agent who has himself paid (or is directly responsible for) the price.
+(2) In this Part, “seller” includes any person who is in the position of a seller, as, for instance, an agent of the seller to whom the bill of lading has been indorsed, or a consignor or agent who has himself paid (or is directly responsible for) the price.

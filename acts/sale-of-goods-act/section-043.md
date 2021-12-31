@@ -1,5 +1,5 @@
-# 43. Termination of lien Stoppage in Transit
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+# 43. Termination of lien Stoppage in transit
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (1) The unpaid seller of goods loses his lien or right of retention in respect of them —
 
@@ -11,4 +11,4 @@ Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (2) An unpaid seller of goods who has a lien or right of retention in respect of them does not lose his lien or right of retention by reason only that he has obtained judgment or decree for the price of the goods.
 
-Stoppage in Transit
+Stoppage in transit

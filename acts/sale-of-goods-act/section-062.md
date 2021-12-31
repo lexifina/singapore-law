@@ -1,5 +1,5 @@
 # 62. Savings: rules of law, etc.
-Part: PART VII SUPPLEMENTARY
+Part: PART 7 SUPPLEMENTARY
 
 (1) The rules in bankruptcy relating to contracts of sale apply to those contracts, notwithstanding anything in this Act.
 

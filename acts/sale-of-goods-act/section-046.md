@@ -1,5 +1,5 @@
-# 46. How stoppage in transit is effected Re-sale, etc., by Buyer
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+# 46. How stoppage in transit is effected Re-sale, etc., by buyer
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (1) The unpaid seller may exercise his right of stoppage in transit either by taking actual possession of the goods or by giving notice of his claim to the carrier or other bailee or custodier in whose possession the goods are.
 
@@ -11,4 +11,4 @@ Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 and the expenses of the re-delivery must be borne by the seller.
 
-Re-sale, etc., by Buyer
+Re-sale, etc., by buyer

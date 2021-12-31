@@ -1,4 +1,4 @@
 # 23. Sale under voidable title
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
 When the seller of goods has a voidable title to them, but his title has not been avoided at the time of the sale, the buyer acquires a good title to the goods, provided he buys them in good faith and without notice of the seller’s defect of title.

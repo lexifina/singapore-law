@@ -1,7 +1,7 @@
 # 26. Supplementary to sections 24 and 25
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
-In sections 24 and 25, ‘‘mercantile agent’’ means a mercantile agent having in the customary course of his business as such agent authority either —
+In sections 24 and 25, “mercantile agent” means a mercantile agent having in the customary course of his business as such agent authority either —
 
 (a) to sell goods;
 

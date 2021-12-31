@@ -1,4 +1,4 @@
 # 24. Seller in possession after sale
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
 Where a person having sold goods continues or is in possession of the goods, or of the documents of title to the goods, the delivery or transfer by that person, or by a mercantile agent acting for him, of the goods or documents of title under any sale, pledge, or other disposition thereof, to any person receiving the same in good faith and without notice of the previous sale, has the same effect as if the person making the delivery or transfer were expressly authorised by the owner of the goods to make the same.

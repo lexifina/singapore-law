@@ -1,5 +1,5 @@
 # 20. Risk prima facie passes with property
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
 (1) Unless otherwise agreed, the goods remain at the seller’s risk until the property in them is transferred to the buyer, but when the property in them is transferred to the buyer the goods are at the buyer’s risk whether delivery has been made or not.
 

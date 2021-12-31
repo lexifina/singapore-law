@@ -1,5 +1,5 @@
 # 19. Reservation of right of disposal
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
 (1) Where there is a contract for the sale of specific goods or where goods are subsequently appropriated to the contract, the seller may, by the terms of the contract or appropriation, reserve the right of disposal of the goods until certain conditions are fulfilled; and in such a case, notwithstanding the delivery of the goods to the buyer, or to a carrier or other bailee or custodier for the purpose of transmission to the buyer, the property in the goods does not pass to the buyer until the conditions imposed by the seller are fulfilled.
 

@@ -1,4 +1,4 @@
 # 44. Right of stoppage in transit
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 Subject to this Act, when the buyer of goods becomes insolvent, the unpaid seller who has parted with the possession of the goods has the right of stopping them in transit, that is to say, he may resume possession of the goods as long as they are in course of transit, and may retain them until payment or tender of the price.

@@ -1,5 +1,5 @@
 # 2. Contract of sale
-Part: PART II FORMATION OF THE CONTRACT Contract of Sale
+Part: PART 2 FORMATION OF THE CONTRACT Contract of sale
 
 (1) A contract of sale of goods is a contract by which the seller transfers or agrees to transfer the property in goods to the buyer for a money consideration, called the price.
 

@@ -1,5 +1,5 @@
 # 53. Remedy for breach of warranty Interest, etc.
-Part: PART VI ACTIONS FOR BREACH OF THE CONTRACT Seller’s Remedies
+Part: PART 6 ACTIONS FOR BREACH OF THE CONTRACT Seller’s remedies
 
 (1) Where there is a breach of warranty by the seller, or where the buyer elects (or is compelled) to treat any breach of a condition on the part of the seller as a breach of warranty, the buyer is not by reason only of such breach of warranty entitled to reject the goods; but he may —
 

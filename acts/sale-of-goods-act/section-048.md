@@ -1,5 +1,5 @@
 # 48. Rescission: and re-sale by seller
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (1) Subject to this section, a contract of sale is not rescinded by the mere exercise by an unpaid seller of his right of lien or retention or stoppage in transit.
 
@@ -9,8 +9,4 @@ Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (4) Where the seller expressly reserves the right of re-sale in case the buyer should make default, and on the buyer making default re-sells the goods, the original contract of sale is rescinded but without prejudice to any claim the seller may have for damages.
 
-PART VI
-
-ACTIONS FOR BREACH OF THE CONTRACT
-
-Seller’s Remedies
+PART 6 ACTIONS FOR BREACH OF THE CONTRACT Seller’s remedies

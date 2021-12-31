@@ -1,5 +1,5 @@
 # 8. Ascertainment of price
-Part: PART II FORMATION OF THE CONTRACT Contract of Sale
+Part: PART 2 FORMATION OF THE CONTRACT Contract of sale
 
 (1) The price in a contract of sale may be fixed by the contract, or may be left to be fixed in a manner agreed by the contract, or may be determined by the course of dealing between the parties.
 

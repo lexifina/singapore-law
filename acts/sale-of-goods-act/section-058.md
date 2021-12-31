@@ -1,4 +1,4 @@
-# 58. (Not applicable)
-Part: PART VII SUPPLEMENTARY
+# 58. [Omitted]
+Part: PART 7 SUPPLEMENTARY
 
-(Not Applicable)
+[Omitted in 1994 Revised Edition]

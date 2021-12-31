@@ -1,9 +1,11 @@
 # 57. Auction sales
-Part: PART VII SUPPLEMENTARY
+Part: PART 7 SUPPLEMENTARY
 
 (1) Where goods are put up for sale by auction in lots, each lot is prima facie deemed to be the subject of a separate contract of sale.
 
-(2) A sale by auction is complete when the auctioneer announces its completion by the fall of the hammer, or in other customary manner; and until the announcement is made any bidder may retract his bid.
+(2) A sale by auction is complete when the auctioneer announces its completion by the fall of the hammer, or in other customary manner;
+
+and until the announcement is made any bidder may retract his bid.
 
 (3) A sale by auction may be notified to be subject to a reserve or upset price, and a right to bid may also be reserved expressly by or on behalf of the seller.
 

@@ -1,5 +1,5 @@
 # 41. Seller’s lien
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (1) Subject to this Act, the unpaid seller of goods who is in possession of them is entitled to retain possession of them until payment or tender of the price in the following cases:
 
@@ -9,4 +9,4 @@ Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (c) where the buyer becomes insolvent.
 
-(2) The seller may exercise his lien or right of retention notwith- standing that he is in possession of the goods as agent or bailee or custodier for the buyer.
+(2) The seller may exercise his lien or right of retention notwithstanding that he is in possession of the goods as agent or bailee or custodier for the buyer.

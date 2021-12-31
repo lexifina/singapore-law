@@ -1,5 +1,5 @@
 # 13. Sale by description
-Part: PART II FORMATION OF THE CONTRACT Contract of Sale
+Part: PART 2 FORMATION OF THE CONTRACT Contract of sale
 
 (1) Where there is a contract for the sale of goods by description, there is an implied condition that the goods will correspond with the description.
 
@@ -7,4 +7,4 @@ Part: PART II FORMATION OF THE CONTRACT Contract of Sale
 
 (3) A sale of goods is not prevented from being a sale by description by reason only that, being exposed for sale or hire, they are selected by the buyer.
 
-(4) Paragraph 4 of the Schedule applies in relation to a contract made before 18th May 1973.
+(4) Paragraph 4 of the Schedule applies in relation to a contract made before 18 May 1973.

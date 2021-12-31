@@ -1,5 +1,5 @@
 # 45. Duration of transit
-Part: PART V RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
+Part: PART 5 RIGHTS OF UNPAID SELLER AGAINST THE GOODS Preliminary
 
 (1) Goods are deemed to be in course of transit from the time when they are delivered to a carrier or other bailee or custodier for the purpose of transmission to the buyer, until the buyer or his agent in that behalf takes delivery of them from the carrier or other bailee or custodier.
 

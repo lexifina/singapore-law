@@ -1,5 +1,5 @@
 # 29. Rules about delivery
-Part: PART IV PERFORMANCE OF THE CONTRACT
+Part: PART 4 PERFORMANCE OF THE CONTRACT
 
 (1) Whether it is for the buyer to take possession of the goods or for the seller to send them to the buyer is a question depending in each case on the contract, express or implied, between the parties.
 

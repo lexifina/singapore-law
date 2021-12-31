@@ -1,4 +1,4 @@
-# 22. (Not applicable)
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+# 22. [Not applicable]
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
-(Not Applicable)
+[Not applicable]

@@ -1,4 +1,4 @@
 # 36. Buyer not bound to return rejected goods
-Part: PART IV PERFORMANCE OF THE CONTRACT
+Part: PART 4 PERFORMANCE OF THE CONTRACT
 
 Unless otherwise agreed, where goods are delivered to the buyer, and he refuses to accept them, having the right to do so, he is not bound to return them to the seller, but it is sufficient if he intimates to the seller that he refuses to accept them.

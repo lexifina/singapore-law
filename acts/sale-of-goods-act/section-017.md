@@ -1,5 +1,5 @@
 # 17. Property passes when intended to pass
-Part: PART III EFFECTS OF THE CONTRACT Transfer of Property as Between Seller and Buyer
+Part: PART 3 EFFECTS OF THE CONTRACT Transfer of property as between seller and buyer
 
 (1) Where there is a contract for the sale of specific or ascertained goods, the property in them is transferred to the buyer at such time as the parties to the contract intend it to be transferred.
 

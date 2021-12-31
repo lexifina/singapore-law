@@ -1,5 +1,5 @@
 # 49. Action for price
-Part: PART VI ACTIONS FOR BREACH OF THE CONTRACT Seller’s Remedies
+Part: PART 6 ACTIONS FOR BREACH OF THE CONTRACT Seller’s remedies
 
 (1) Where, under a contract of sale, the property in the goods has passed to the buyer and he wrongfully neglects or refuses to pay for the goods according to the terms of the contract, the seller may maintain an action against him for the price of the goods.
 
