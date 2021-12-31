@@ -1,18 +1,15 @@
 THE STATUTES OF THE REPUBLIC OF SINGAPORE
-SERVICE LANDS ACT
-(CHAPTER 292)
-(Original Enactment: M Act 35 of 1963)
-REVISED EDITION 2013
-(31st August 2013)
+SERVICE LANDS ACT 1963
+2020 REVISED EDITION
+This revised edition incorporates all amendments up to and
+including 1 December 2021 and comes into operation on 31 December 2021.
 Prepared and Published by
 THE LAW REVISION COMMISSION
 UNDER THE AUTHORITY OF
-THE REVISED EDITION OF THE LAWS ACT (CHAPTER 275)
-PRINTED BY THE GOVERNMENT PRINTER, SINGAPORE
-2013
+THE REVISED EDITION OF THE LAWS ACT 1983
 
 
 
 An Act for the ejectment of persons unlawfully occupying any land used or to be used for the purposes of any Malaysian forces.
 
-[1st November 1963]
+[1 November 1963]

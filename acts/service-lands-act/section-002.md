@@ -4,8 +4,8 @@
 
 (2) A Magistrate’s Court, on the information of the Federal Lands Commissioner or a person authorised by him that any person is in unlawful occupation of any land to which this section applies, may issue a summons for the appearance before the Court of the person informed against; and on his appearing to the summons or (in default of his appearance thereto) on proof of service of the summons the Court may proceed in a summary way to hear and determine the information.
 
-(3) If on the hearing of the information the Court is satisfied of the truth thereof, the Court shall by warrant require any police officer specified in the warrant forthwith to dispossess and remove such person from the land, and on behalf of the Federal Lands Commissioner to take possession of the land together with all crops
+(3) If on the hearing of the information the Court is satisfied of the truth thereof, the Court shall by warrant require any police officer specified in the warrant forthwith to dispossess and remove such person from the land, and on behalf of the Federal Lands Commissioner to take possession of the land together with all
 
 1
 
-growing thereon and all buildings and other immovable property upon and affixed to the land; and the warrant may be executed by any police officer into whose hands the warrant may come, whether or not it is addressed to him.
+crops growing thereon and all buildings and other immovable property upon and affixed to the land; and the warrant may be executed by any police officer into whose hands the warrant may come, whether or not it is addressed to him.

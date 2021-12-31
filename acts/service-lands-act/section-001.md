@@ -1,3 +1,3 @@
 # 1. Short title
 
-This Act may be cited as the Service Lands Act.
+This Act is the Service Lands Act 1963.
