@@ -1,5 +1,6 @@
-# 18. Investments
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 75A Technology Agency 2001 Ed. PART V FINANCIAL PROVISIONS
+# 18. Power of investment
+Part: PART 5 FINANCIAL PROVISIONS
 
-The Agency may, from time to time, invest any of its funds in such manner or securities as trustees may by any written law be authorised to invest and, with the approval of the Minister, in any other securities or investments or in any other manner.
+The Agency may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965.
+
+[45/2004]

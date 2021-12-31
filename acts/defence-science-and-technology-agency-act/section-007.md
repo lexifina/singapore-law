@@ -1,13 +1,11 @@
 # 7. Powers of Agency
-Part: PART III MISSION, FUNCTIONS AND POWERS OF AGENCY
+Part: PART 3 MISSION, FUNCTIONS AND POWERS OF AGENCY
 
-(1) The Agency shall have power to do anything for the purpose of discharging its functions under this Act or under any other written law, or which it may consider advantageous, necessary or convenient to the discharge of those functions and, in particular, may —
+(1) The Agency has power to do anything for the purpose of discharging its functions under this Act or under any other written law, or which it may consider advantageous, necessary or convenient to the discharge of those functions and, in particular, may —
 
 (a) enter into contracts for itself or the Government for defence systems, facilities, technology, equipment, materials or services or for the execution of works or any other contract as may be necessary for the discharge of its duties and functions;
 
 (b) engage alone or in conjunction with other persons in the design and development of defence systems and the provision of systems design services;
-
-2001 Ed. Technology Agency CAP. 75A 7
 
 (c) form or participate in the formation of any company or enter into any joint venture or partnership for the purposes of this Act;
 
@@ -33,4 +31,4 @@ Part: PART III MISSION, FUNCTIONS AND POWERS OF AGENCY
 
 (2) The Agency may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may in writing authorise the Agency to exercise.
 
-(3) This section shall not be construed as limiting any power of the Agency conferred by or under any other written law.
+(3) This section is not to be construed as limiting any power of the Agency conferred by or under any other written law.

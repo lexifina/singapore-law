@@ -1,16 +1,14 @@
-# 10. Appointment of Chief Executive
-Part: PART IV PROVISIONS RELATING TO STAFF
+# 10. Chief Executive
+Part: PART 4 PROVISIONS RELATING TO STAFF
 
-(1) The Agency shall, with the approval of the Minister, appoint a Chief Executive of the Agency on such terms and conditions as the Agency may determine.
+(1) There must be a Chief Executive of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[5/2018]
 
-(a) be known by such designation as the Agency may determine;
+(2) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-2001 Ed. Technology Agency CAP. 75A 9
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Agency for the proper administration and management of the functions and affairs of the Agency in accordance with the policy laid down by the Agency; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
-
-(3) If the Chief Executive is unable to perform his duties for any period, by reason of absence from Singapore, illness or for any other reason, another person may be appointed by the Agency to act in the place of the Chief Executive during such period.
+[5/2018]

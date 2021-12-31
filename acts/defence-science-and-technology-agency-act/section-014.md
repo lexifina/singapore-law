@@ -1,12 +1,9 @@
 # 14. Funds and property of Agency
-Part: PART IV PROVISIONS RELATING TO STAFF
-Heading: 2 CAP. 75A Technology Agency 2001 Ed. PART V FINANCIAL PROVISIONS
+Part: PART 5 FINANCIAL PROVISIONS
 
-The funds and property of the Agency shall consist of —
+The funds and property of the Agency consist of —
 
 (a) all moneys paid to the Agency for the purposes of the Agency;
-
-2001 Ed. Technology Agency CAP. 75A 11
 
 (b) all moneys paid to the Agency by way of grants, subsidies, donations, gifts and contributions;
 

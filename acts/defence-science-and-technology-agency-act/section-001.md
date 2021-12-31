@@ -1,4 +1,4 @@
 # 1. Short title
-Part: PART I PRELIMINARY
+Part: PART 1 PRELIMINARY
 
-This Act may be cited as the Defence Science and Technology Agency Act.
+This Act is the Defence Science and Technology Agency Act 2000.
