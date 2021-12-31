@@ -1,14 +1,12 @@
-# 59. Exemption of approved foreign loan interest from tax
-Part: PART VIII FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
+# 59. Recovery of tax
+Part: PART 9 INTEGRATED INVESTMENT ALLOWANCE
 
-(1) Notwithstanding section 43 (1) (b) of the Income Tax Act (Cap. 134), the Minister may, subject to subsection (2), if he is satisfied that it is expedient in the public interest to do so, by an endorsement to that effect on the approved foreign loan certificate, exempt from tax or authorise that tax at such concessionary rate as specified in the certificate be levied and paid upon any interest on an approved foreign loan payable to a foreign lender.
+(1) Despite any other provision of this Part, the Comptroller may, subject to section 74 of the Income Tax Act 1947, make an assessment or additional assessment upon a company to recover any tax if it appears to the Comptroller that any amount of income of the company that has been exempted from tax ought not to have been so exempted by reason of the revocation under section 61 of the approval letter issued under section 51 to the company.
 
-[1/95]
+[11/2016]
 
-(2) Where a company has contravened section 58 or any conditions imposed by the Minister under section 57 (5), the amount which, but for subsection (1), would have been deductible by the company from the interest paid by it to the foreign lender under section 45 of the Income Tax Act shall be deemed to have been deducted from that interest and shall be a debt due from the company to the Government 2005 Ed. (Relief from Income Tax) CAP. 86 33
+(2) Parts 17 and 18 of the Income Tax Act 1947 (relating to assessments, objections and appeals) and any rules made under that Act apply, with the necessary modifications, to an assessment or additional assessment under subsection (1) as if it were a notice of assessment under those Parts.
 
-and be recoverable in the manner provided by section 89 of the Income Tax Act (Cap. 134).
+[97ZI
 
-[1/95]
-
-(3) No action shall be taken by the Comptroller to recover any debt under subsection (2) without the prior sanction of the Minister.
+[11/2016]

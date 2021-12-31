@@ -1,7 +1,18 @@
-# 18. Tax relief period of pioneer service company
-Part: PART III PIONEER SERVICE COMPANIES
-Heading: 2 CAP. 86 (Relief from Income Tax) 2005 Ed.
+# 18. Application of sections 6 to 15 to pioneer service company
+Part: PART 3 PIONEER SERVICE COMPANIES
 
-The tax relief period of a pioneer service company, in relation to any qualifying activity specified in any certificate issued to that company under section 17, shall commence on the commencement day and shall continue for a period of 5 years or such longer period, not exceeding 15 years, as the Minister may determine.
+Sections 6 to 15 apply to a pioneer service company under this Part and for the purposes of such application —
 
-[34/84; 48/2004]
+(a) any reference to a pioneer enterprise is a reference to a pioneer service company;
+
+(b) any reference to a pioneer product is a reference to a qualifying activity;
+
+(c) any reference to the production day of a pioneer product of a pioneer enterprise is a reference to the commencement day of a qualifying activity of a pioneer service company;
+
+and
+
+(d) any reference to a pioneer certificate is a reference to a certificate issued under section 17.
+
+[19
+
+[11/2016]

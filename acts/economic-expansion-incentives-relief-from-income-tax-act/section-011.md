@@ -1,4 +1,6 @@
-# 11. Application of Part XVI of Income Tax Act
-Part: PART II PIONEER INDUSTRIES
+# 11. Application of Part 16 of Income Tax Act 1947
+Part: PART 2 PIONEER INDUSTRIES
 
-Part XVI of the Income Tax Act (relating to returns of income) shall apply in all respects as if the income of a pioneer enterprise in respect of its old trade or business were chargeable to tax.
+Part 16 of the Income Tax Act 1947 (relating to returns of income) applies in all respects as if the income of a pioneer enterprise in respect of each of its old trades or businesses were chargeable to tax.
+
+[11/2016]

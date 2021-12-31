@@ -1,6 +1,6 @@
-# 65. Exemption from tax where investment made in approved enterprise
-Part: PART IX ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
+# 65. Saving
+Part: PART 10 MISCELLANEOUS PROVISIONS
 
-Where, in accordance with section 64, the tax payable on any approved royalties, fees or contributions is at a reduced rate, and it is proved to the satisfaction of the Comptroller that the royalties, fees or contributions, either wholly or in part, have been expended in the acquisition of ordinary share capital in the company from which those payments were received, the amount of income equal to that expenditure shall be exempt from tax.
+Despite the repeal of Parts IIIA, IV, XI and XIIIA by the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004, the repealed Parts IIIA, IV, XI and XIIIA continue to apply to and have effect on any approved company approved before and its qualifying activities conducted before 28 April 2004 as if that Act had not been enacted.
 
-[22/87]
+[103

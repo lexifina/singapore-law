@@ -1,4 +1,6 @@
-# 63. (Repealed)
-Part: PART IX ROYALTIES, FEES AND DEVELOPMENT CONTRIBUTIONS
+# 63. Action of officers no offence
+Part: PART 10 MISCELLANEOUS PROVISIONS
 
-(Repealed by Act 1/95)
+Nothing done by an officer of the Government in the course of the officer’s duties is deemed to be an offence under this Act.
+
+[101

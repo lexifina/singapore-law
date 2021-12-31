@@ -1,4 +1,0 @@
-# 93. to 97. (Repealed)
-Part: PART XIII INVESTMENTS IN NEW TECHNOLOGY COMPANIES
-
-to 97. (Repealed by Act 11/2004)

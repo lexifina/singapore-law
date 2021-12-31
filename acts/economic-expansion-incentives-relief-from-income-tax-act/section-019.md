@@ -1,15 +1,16 @@
-# 19. Application of sections 7 to 15 to pioneer service company
-Part: PART III PIONEER SERVICE COMPANIES
-Heading: 2 CAP. 86 (Relief from Income Tax) 2005 Ed.
+# 19. Exclusion of intellectual property income from sections 10 and 15
+Part: PART 3 PIONEER SERVICE COMPANIES
 
-Sections 7 to 15 shall apply to a pioneer service company under this Part and for the purposes of such application —
+(1) In ascertaining the income of a pioneer service company from a qualifying activity under section 10 (as applied by section 18), any intellectual property income produced by the activity, as well as any allowance for capital expenditure incurred for the purposes of that activity that is attributable to or apportioned by the Comptroller to any intellectual property income, must be excluded.
 
-(a) any reference to a pioneer enterprise shall be read as a reference to a pioneer service company;
+[8/2018]
 
-(b) any reference to a pioneer product shall be read as a reference to a qualifying activity;
+(2) For the purposes of the application of section 15 (as applied by section 18), a reference to income in section 15(1) excludes any intellectual property income.
 
-(c) any reference to the production day of a pioneer enterprise shall be read as a reference to the commencement day of a pioneer service company;
+[8/2018]
 
-(d) any reference to a pioneer certificate shall be read as a reference to a certificate issued under section 17.
+(3) To avoid doubt, intellectual property income excluded under subsection (1) remains chargeable to tax under the Income Tax Act 1947.
 
-[34/84]
+[19A
+
+[8/2018]

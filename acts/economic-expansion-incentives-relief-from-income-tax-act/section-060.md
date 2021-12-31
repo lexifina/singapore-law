@@ -1,8 +1,12 @@
-# 60. Exemption of additional interest on approved foreign loan from tax
-Part: PART VIII FOREIGN LOANS FOR PRODUCTIVE EQUIPMENT
+# 60. Prohibition of publication of application and certificate or letter
+Part: PART 10 MISCELLANEOUS PROVISIONS
 
-(1) Subject to subsection (3), section 59 shall apply to any additional interest payable on an approved foreign loan by reason of any arrangement whereby the period within which the loan must be repaid in full has been extended.
+(1) The contents of any application made by, or of any certificate or letter issued to, any company under any of the provisions of this Act must not, except at the instance of the company, be published.
 
-(2) The rate of interest payable in respect of any such extended period shall not, without the prior sanction of the Minister, be higher than the rate of interest specified in the certificate relating to the approved foreign loan.
+[11/2004]
 
-(3) Any company making any such arrangement shall give notice thereof in writing to the Minister within 30 days from the date on which the arrangement is made.
+(2) The Minister may cause to be published by notification in the Gazette the name of any company to which any such certificate or letter has been issued or whose certificate or letter has been revoked, and the industry and product or produce to which the certificate or letter relates.
+
+[98
+
+[11/2004]
