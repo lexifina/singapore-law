@@ -1,10 +1,42 @@
-# 22D. Air-conditioning unit installed in an unsafe manner
-Part: PART III INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS
+# 22D. Interpretation of this Part
+Part: PART 3A DISABILITY AND OTHER PERFORMANCE REQUIREMENTS FOR BUILDINGS
 
-(1) If the Commissioner of Building Control considers that any air-conditioning unit had been installed on any premises or building to which this Part applies in an unsafe manner, he shall notify the owner of the premises or building in writing.
+(1) In this Part, unless the context otherwise requires —
 
-(2) The owner of such premises or building shall, within such period as the Commissioner of Building Control may require, retrofit the air-conditioning unit in such manner and using such material as the Commissioner of Building Control may require.
+“building” does not include a temporary building;
 
-[21D
+“performance requirement” means a performance requirement in the building regulations that —
 
-[36/99]
+(a) is to facilitate the access to, and use of, a building and its facilities by persons with disabilities; or
+
+(b) is prescribed in the building regulations for the purposes of this Part;
+
+“person with disability” means an individual who has an impairment of hearing or sight, or an impairment which limits his ability to walk, or which restricts him or her to using a wheelchair;
+
+“physical feature”, in relation to a building, includes the following physical features (permanent or temporary):
+
+(a) any feature arising from the design or construction of the building;
+
+(b) any feature of any approach to, exit from or access to such a building;
+
+(c) any fixtures, fittings or facility in or on the premises of the building; or
+
+(d) any other physical element or quality of the land on which the building stands.
+
+[47/2007]
+
+(2) A physical feature of a building satisfies the relevant performance requirement for the purposes of this Part where the physical feature is constructed or installed in or in connection with the building in accordance with the performance requirement that —
+
+(a) is relevant in relation to that physical feature; and
+
+(b) is in effect at the following time:
+
+(i) the day upon which the works to construct or install the physical feature started; or
+
+(ii) in the case of a physical feature provided as part of building works to which Part 2 applies, the day a certificate of statutory completion is issued in respect of the building on the completion of those building works.
+
+[47/2007]
+
+(3) To avoid doubt, this Part applies to the physical features of any building, whether constructed before, on or after 15 February 2008.
+
+[47/2007]

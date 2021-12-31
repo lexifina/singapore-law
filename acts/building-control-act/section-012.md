@@ -1,24 +1,49 @@
-# 12. Tests of or in connection with building works
-Part: PART II CONTROL OF BUILDINGS WORKS
+# 12. Occupation of buildings 1
+Part: PART 2 CONTROL OF BUILDING WORKS Division 1 — Application
+Division: Division 5 — Building occupancy
 
-(1) Subject to subsection (3), the qualified person appointed under section 6 (3) in respect of the structural elements of any building works shall carry out or cause to be carried out such tests of or in connection with the building works as may be prescribed or required by the Commissioner of Building Control.
+(1) Except as otherwise provided in this Act, a person must not occupy, or permit or cause to be occupied, any building where any building works have been carried out unless the Commissioner of Building Control has issued a certificate of statutory completion in respect of that building.
 
-[18/95; 4/99]
+[47/2007; 22/2012]
 
-(2) Any tests that may be prescribed, or required to be carried out, under subsection (1) shall be carried out in such manner and at such places and times as may be prescribed in the building regulations.
+(1A) An application for a certificate of statutory completion in respect of any building must be made to the Commissioner of Building Control in the prescribed manner and accompanied by any certificates or written approvals required to be obtained in respect of the building that may be prescribed.
 
-(3) The Commissioner of Building Control may, on an application in relation to any particular building works, give a direction waiving the operation of subsection (1) in relation to those building works if he is satisfied that the operation of subsection (1) in relation to that particular case would be unreasonable.
+[22/2012]
 
-[4/99]
+(2) Nothing in subsection (1) prohibits —
 
-(4) An application under subsection (3) shall be accompanied by such particulars as may be prescribed.
+(a) the occupation by any person of any building for the sole purpose of preventing any damage to the building or any theft of any property therein; or
 
-(5) If a qualified person fails to comply with subsection (1), the Commissioner of Building Control may, by order in writing served on the qualified person, site supervisor and builder of the building works and the person for whom the building works are carried out, require the building works to cease until the order is withdrawn.
+(b) the occupation by any person of any building in respect of which a temporary occupation permit has been granted.
 
-[4/99]
+[47/2007; 22/2012]
 
-(6) Without prejudice to the right of the Commissioner of Building Control to exercise his power under subsection (5), any qualified person who fails to comply with any requirement under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(2A) An application for a temporary occupation permit in respect of any building must be made to the Commissioner of Building Control in the prescribed manner and accompanied by any certificates or written approvals required to be obtained in respect of the building that may be prescribed.
 
-[4/99]
+[22/2012]
 
-(7) If any person on whom an order made under sub- section (5) is served fails to comply with the order, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(3) The Commissioner of Building Control may, on an application in the prescribed manner in relation to any building, grant a temporary occupation permit in respect of the building subject to any written directions that the Commissioner of Building Control may specify and, in particular, those written directions may —
+
+(a) limit the period for which the temporary occupation permit is granted;
+
+(b) require any work or alteration to the building to be carried out that may be specified to the satisfaction of the Commissioner of Building Control; and
+
+(c) provide for the completion of the work or alteration before the expiration of a specified period.
+
+[47/2007]
+
+(4) A temporary occupation permit is only prima facie evidence that a building is suitable for occupation and is not to be taken to be evidence of compliance with the provisions of this Act, the building regulations or any other written law.
+
+[47/2007]
+
+(5) The Commissioner of Building Control may amend, suspend or, in the event of failure to comply with any written direction issued under subsection (3), revoke any temporary occupation permit.
+
+[47/2007]
+
+(6) Any person who contravenes subsection (1) or fails to comply with any written direction issued under subsection (3) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) in respect of a continuing contravention or failure to comply, to an additional fine not exceeding $1,000 for each day or part of a day the contravention or failure to comply continues, and if the contravention or failure to comply continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part of a day during which the contravention or failure to comply continues after conviction.
+
+[47/2007]

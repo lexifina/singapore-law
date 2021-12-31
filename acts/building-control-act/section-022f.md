@@ -1,8 +1,18 @@
-# 22F. Penalty
-Part: PART III INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS
+# 22F. Appeal against notice to reinstate
+Part: PART 3A DISABILITY AND OTHER PERFORMANCE REQUIREMENTS FOR BUILDINGS
 
-Any person who contravenes or fails to comply with section 22B (1), 22C, 22D (2) or 22E (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+(1) Any person on whom a notice to reinstate under section 22E(2) is served may, within 21 days after the date of receipt of the notice, appeal in writing to the Minister against the notice in the prescribed manner.
 
-[21F
+[47/2007]
 
-[36/99]
+(2) Even though an appeal is lodged under subsection (1), the notice appealed against takes effect and must be complied with unless otherwise ordered by the Minister.
+
+[47/2007]
+
+(3) The Minister may determine an appeal under this section by confirming, varying or cancelling the notice of the Commissioner of Building Control under section 22E(2).
+
+[47/2007]
+
+(4) The decision of the Minister in any appeal under this section is final.
+
+[47/2007]

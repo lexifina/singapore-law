@@ -1,18 +1,57 @@
-# 19. Building offences
-Part: PART II CONTROL OF BUILDINGS WORKS
+# 19. Demolition, etc., of unauthorised building works
+Part: PART 2 CONTROL OF BUILDING WORKS Division 1 — Application
+Division: Division 7 — Enforcement and administration
 
-(1) Any person who contravenes or fails to comply with any term or condition of an approval of plans of any building works, or any term or condition of a permit to carry out any building works, granted to him under this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+(1) Where, in the opinion of the Commissioner of Building Control, any building has been erected, or any building works are or have been carried out, in contravention of the provisions of this Act or the building regulations, the Commissioner of Building Control may by written order require —
 
-(2) Any person for whom any building works are carried out and any qualified person, site supervisor or builder directly concerned with the building works who, in carrying out the building works deviates, or permits or authorises the building works to deviate, in any material way from any plans of the building works approved by the Commissioner of Building Control under this Part shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) the cessation of the building works until the order is withdrawn;
 
-[4/99]
+(b) the demolition of the building; or
 
-(3) Any person who, being required by or by virtue of this Act or the building regulations to make or produce to the Commissioner of Building Control any plan, declaration, certificate, report, record, notice or other document, or who, for the purpose of obtaining any licence, permit, waiver or approval from the Commissioner of Building Control under this Act or the building regulations or for the purpose of establishing any fact relevant to the administration of this Act or the building regulations —
+(c) any work or alteration to the building or building works to be carried out that may be necessary to cause the same to comply with the provisions of this Act and the building regulations or otherwise to put an end to the contravention thereof.
 
-(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; or
+[47/2007]
 
-(b) produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular, or has not been made by the person by whom it purports to have been made, or has been in any way altered or tampered with, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) An order made under subsection (1) must specify all or any of the following:
 
-[18
+(a) the manner in which the demolition, work or alteration specified in the order is to be carried out;
 
-[4/99]
+(b) the time within which the demolition, work or alteration must commence;
+
+(c) the time within which the demolition, work or alteration must be completed;
+
+(d) that the demolition, work or alteration must be carried out with due diligence to the satisfaction of the Commissioner of Building Control.
+
+[47/2007]
+
+(3) An order made under subsection (1) must be served —
+
+(a) where a building has been erected — on the owner or occupier of the building; and
+
+(b) where building works are being carried out — on the developer of the building works or the builder carrying out the building works.
+
+[47/2007]
+
+(4) If an order made under subsection (1) is not complied with, the Commissioner of Building Control may —
+
+(a) demolish, remove or alter, or cause to be demolished, removed or altered, any building or building works or take any other steps that appear to the Commissioner of Building Control to be necessary, including ordering the closure of the building; and
+
+(b) recover all expenses reasonably incurred by the Commissioner of Building Control in the exercise of his or her powers under this section from the person in default.
+
+[47/2007]
+
+(5) Without affecting the right of the Commissioner of Building Control to exercise his or her powers under subsection (4), if any person on whom an order made under subsection (1) is served fails to comply with the order, that person shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) in respect of a continuing failure to comply, to an additional fine not exceeding $500 for each day or part of a day the failure to comply continues, and if the failure to comply continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $1,000 for every day or part of a day during which the failure to comply continues after conviction.
+
+[47/2007]
+
+(6) The Commissioner of Building Control may seize any materials resulting from the carrying out of any work under subsection (4).
+
+[47/2007]
+
+(7) This section applies to any building works, whether or not for or connected with any temporary building.
+
+[47/2007]

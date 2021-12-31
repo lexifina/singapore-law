@@ -1,36 +1,34 @@
 # 33. Power to enter premises
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-(1) The Commissioner of Building Control may enter any premises at all reasonable hours for the purpose of —
+(1) The Commissioner of Building Control or any person appointed by him for this purpose may enter any premises at all reasonable hours for the purpose of —
 
-(a) ascertaining whether there is, or has been, on or in connection with the premises, a contravention of this Act or the building regulations;
+(a) ascertaining whether there is, or has been, on or in connection with the premises, a contravention of this Act or any subsidiary legislation made under this Act;
 
-(b) ascertaining whether circumstances exist that would authorise the Commissioner of Building Control to take any action or execute any work under this Act or the building regulations;
+(b) ascertaining whether circumstances exist that would authorise the Commissioner of Building Control or any person appointed by him or her for this purpose to take any action or execute any work under this Act or any subsidiary legislation made under this Act;
 
-(c) taking any action or carrying out any work, authorised or required by this Act or the building regulations; or
+(c) taking any action or carrying out any work, authorised or required by this Act or any subsidiary legislation made under this Act; or
 
-(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9 (3) (d) or 11 (4) (c), respectively.
+(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(4) or 11(1)(c), respectively.
 
-(1A) For the purposes of subsection (1), the Commissioner of Building Control may take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
+[18/2003; 47/2007; 22/2012]
 
-[4/99]
+(1A) For the purposes of subsection (1), the Commissioner of Building Control or a person appointed under subsection (1) may take any steps that he or she may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
 
-(2) The results of any analysis of a sample of building materials taken under subsection (1A) shall not be admissible as evidence in any proceedings under this Act or the building regulations unless the samples were taken in the prescribed manner.
+[47/2007]
 
-(3) A certificate of the results of an analysis of a part of a sample taken under subsection (1A) shall be signed by the analyst but the analysis may be made by a person acting under the direction of the analyst.
+(2) The results of any analysis of a sample of building materials taken under subsection (1A) are not admissible as evidence in any proceedings under this Act or the building regulations unless the samples were taken in the prescribed manner.
 
-(4) For the purposes of any inspection under subsection (1) (d), the qualified person or builder concerned shall afford the Commis- sioner of Building Control access to and shall produce the documents, books or records and shall give such information and facilities as may be required by the Commissioner of Building Control.
+(3) A certificate of the results of an analysis of a part of a sample taken under subsection (1A) must be signed by the analyst but the analysis may be made by a person acting under the direction of the analyst.
 
-[4/99]
+(4) For the purposes of any inspection under subsection (1)(d), the qualified person or builder concerned must afford the Commissioner of Building Control or a person appointed under subsection (1) access to and must produce the documents, books or records and must give any information and facilities that may be required by the Commissioner of Building Control or a person appointed under subsection (1).
+
+[47/2007]
 
 (4A) Any qualified person or builder, as the case may be, who contravenes or fails to comply with subsection (4) shall be guilty of an offence.
 
-[4/99]
+(5) The documents, books or records mentioned in subsection (4) are not required to be produced at any time or at any place that would interfere with the proper execution of the building works.
 
-(5) The documents, books or records referred to in subsection (4) shall not be required to be produced at such times or at such places as would interfere with the proper execution of the building works.
+(6) Any person who wilfully obstructs the Commissioner of Building Control or a person appointed under subsection (1) in the performance of any matter or thing which he or she is authorised to do by this section shall be guilty of an offence.
 
-(6) Any person who wilfully obstructs the Commissioner of Building Control in the performance of any matter or thing which he is authorised to do by this section shall be guilty of an offence.
-
-[34
-
-[4/99]
+[47/2007]

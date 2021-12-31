@@ -1,18 +1,27 @@
-# 14. Modification or waiver of building regulations
-Part: PART II CONTROL OF BUILDINGS WORKS
+# 14. Register of accredited checkers, etc.
+Part: PART 2 CONTROL OF BUILDING WORKS Division 1 — Application
+Division: Division 6 — Accredited checkers
 
-(1) The Commissioner of Building Control may, on receipt of an application in relation to any particular building works, advertisements, signboards or skysigns, modify or waive, subject to such terms and conditions as he may impose, any of the requirements of the building regulations.
+(1) The Commissioner of Building Control must keep and maintain the following registers:
 
-[18/95; 4/99]
+(a) a register of accredited checkers registered under section 16;
 
-(2) Every application under subsection (1) shall —
+(b) a register of specialist accredited checkers registered under section 16; and
 
-(a) be made to the Commissioner of Building Control by or on behalf of the person for whom building works, advertise- ments, signboards or skysigns are being or are to be carried out;
+(c) a register of accredited checking organisations registered under section 16, in which must be entered the names and prescribed particulars of the persons and organisations so registered.
 
-(b) be in such form as may be required by the Commissioner of Building Control;
+[47/2007]
 
-(c) state the nature and extent of and the reasons for the proposed modification or waiver of those requirements; and
+(2) The absence of the name of any person or organisation from the registers kept under subsection (1) is prima facie evidence that —
 
-(d) be accompanied by such plans and other particulars as may be prescribed.
+(a) in the case of the register of accredited checkers, that the person is not so registered or that the person’s registration has been suspended or cancelled;
 
-[18/95; 4/99]
+(b) in the case of the register of specialist accredited checkers, that the person is not so registered or that the person’s registration has been suspended or cancelled; and
+
+(c) in the case of the register of accredited checking organisations, that the organisation is not so registered or that its registration has been suspended or cancelled.
+
+[47/2007]
+
+(3) The registers mentioned in subsection (1) must be kept and maintained at the office of the Commissioner of Building Control and must be available for inspection by any person without charge during office hours.
+
+[47/2007]

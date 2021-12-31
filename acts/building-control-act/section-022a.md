@@ -1,12 +1,20 @@
-# 22A. Application of this Part
-Part: PART III INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS
+# 22A. Application and interpretation of this Part
+Part: PART 3 RETROFITTING OF EXTERIOR FEATURES
 
-This Part shall apply to an air-conditioning unit that is to be installed or had been installed —
+(1) This Part applies to all exterior features on any building except —
 
-(a) on the exterior of any premises or building; or
+(a) exterior features on any detached house, semi-detached house, terrace house or linked house, none of which are comprised in any strata title plan; and
 
-(b) in such manner that any part of the air-conditioning unit projects outwards from any premises or building, except where the air-conditioning unit is to be installed or had been installed on any part of any bungalow, semi-detached house, terraced house or linked house.
+(b) exterior features located on the lowest level of any building.
 
-[21A
+[34/2004]
 
-[36/99]
+(2) In this Part, unless the context otherwise requires —
+
+“applicable date”, in relation to an exterior feature, means the date that is prescribed under section 22C to be the applicable date for that exterior feature;
+
+“grace period”, in relation to an exterior feature, means the period starting from the applicable date for the exterior feature and ending after the time that is prescribed under section 22C for that exterior feature;
+
+“prescribed age”, in relation to an exterior feature, means the age that is prescribed under section 22C to be the prescribed age for that exterior feature.
+
+[34/2004]

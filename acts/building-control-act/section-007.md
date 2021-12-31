@@ -1,42 +1,33 @@
-# 7. Permit to carry out building works
-Part: PART II CONTROL OF BUILDINGS WORKS
+# 7. Supervision of building works
+Part: PART 2 CONTROL OF BUILDING WORKS Division 1 — Application
+Division: Division 3 — Building works
 
-(1) An application for a permit to carry out building works shall be made by the person for whom the building works are to be commenced or carried out, the qualified person and the builder appointed in respect of the building works, and shall be accompanied by —
+(1) Except as otherwise provided in this Act or the building regulations —
 
-(a) a notification, signed by the person for whom the building works are to be commenced or carried out, of the date upon which the building works are to be commenced;
+(a) all building works must be carried out under the supervision of an appropriate qualified person;
 
-(b) a confirmation signed by the qualified person of his appoint- ment in respect of the building works under section 6 (3);
+(b) the structural elements of all such building works as are prescribed in the building regulations (called in this Act large building works) must be carried out under the full-time supervision of a site supervisor, or a team of site supervisors, working under an appropriate qualified person’s control and direction; and
 
-(c) where appropriate, a notification signed by the qualified person of the appointment of a site supervisor in respect of the building works and a confirmation of the appointment signed by the site supervisor;
+(c) concreting, piling, pre-stressing, tightening of high-friction grip bolts, the construction of earth retaining and stabilising structures, or other critical structural works of all such building works as are prescribed in the building regulations (called in this Act small-scale building works) must be carried out under the immediate supervision of —
 
-(d) an acceptance of his appointment in respect of the building works under section 11 and an undertaking of responsibility for strict compliance with the provisions of this Act and the building regulations, both of which shall be signed by the builder; and
+(i) an appropriate qualified person; or
 
-(e) such other documents as the Commissioner of Building Control may require.
+(ii) a site supervisor, or a team of site supervisors, working under an appropriate qualified person’s control and direction.
 
-[18/95; 4/99]
+[47/2007; 22/2012]
 
-(2) The Commissioner of Building Control may, on an application made under subsection (1), grant, subject to such terms and conditions as he may impose, a permit to carry out any building works.
+(2) Except as otherwise provided in this Act or the building regulations, a person must not commence or carry out the geotechnical aspects of any geotechnical building works except —
 
-[4/99]
+(a) under the supervision of the qualified person appointed under section 8(1)(d)(ii) or 11(1)(d)(ii) or (iii)(B); or
 
-(3) The Commissioner of Building Control may revoke a permit to carry out any building works if —
+(b) under the full-time supervision of a site supervisor or a team of site supervisors appointed under section 10 by the qualified person in paragraph (a) and working under his or her control and direction.
 
-(a) the building works, if commenced, are suspended for a continuous period of more than 3 months; or
+[47/2007; 22/2012]
 
-(b) the building works have been or are being carried out in such a manner as, in the opinion of the Commis- sioner of Building Control —
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
-(i) will cause, or will be likely to cause, a risk of injury to any person or damage to any property;
+(a) to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(ii) will cause, or will be likely to cause, a total or partial collapse of any adjoining or other building or street or natural, formed or man-made land; or
+(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part of a day the contravention continues, and if the contravention continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part of a day during which the contravention continues after conviction.
 
-(iii) will render, or will be likely to render, any adjoining or other building or street or natural, formed or man-made land so dangerous that it will collapse or be likely to collapse either totally or partially.
-
-[4/99]
-
-(4) Any permit granted under this section to any person to carry out any building works shall automatically lapse if the person, for any reason, ceases to be —
-
-(a) the person for whom the building works are to be commenced or carried out;
-
-(b) the qualified person appointed in respect of the building works; or
-
-(c) the builder of those building works.
+[47/2007]

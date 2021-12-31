@@ -1,6 +1,4 @@
 # 46. Jurisdiction of Courts
-Part: PART VI MISCELLANEOUS
+Part: PART 6 MISCELLANEOUS
 
-Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have power to impose the maximum penalties provided for an offence under this Act.
-
-[47
+Despite the provisions of the Criminal Procedure Code 2010, a District Court or a Magistrate’s Court has power to impose the maximum penalties provided for an offence under this Act.

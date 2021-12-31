@@ -1,32 +1,52 @@
-# 24. Emergency measures
-Part: PART IV DANGEROUS BUILDINGS
+# 24. Dangerous buildings
+Part: PART 4 DANGEROUS BUILDINGS AND OCCURRENCES
 
-(1) If it appears to the Commissioner of Building Control that —
+(1) If the Commissioner of Building Control is of the opinion that a building is in such a condition, or is used to carry such loads, as to be or likely to be dangerous, the Commissioner of Building Control may, for the purpose of obviating any danger, order the owner of the building to do all or any of the following:
 
-(a) a building is in such a state or situation, or is used to carry such loads, as to be dangerous; and
+(a) to appoint an appropriate qualified person to carry out (at the owner’s cost) any inspection of the building that the Commissioner of Building Control may specify;
 
-(b) immediate action should be taken to remove the danger,
+(b) to execute or cause to be executed (at the owner’s cost) any building works that the Commissioner of Building Control may specify (which may include retrofitting under Part 3);
 
-he may, if he considers it necessary, take such steps as may be necessary for that purpose, including ordering the closure of the building.
+(c) to demolish or cause to be demolished (at the owner’s cost) the building or any part thereof, and remove any rubbish resulting from the demolition;
 
-[4/99]
+(d) to cause (at the owner’s cost) the building to be shored up or otherwise secured and a proper hoarding or fence to be put up for the protection of the public from danger, or arranging for the building to be watched.
 
-(2) Before exercising his powers under this section, the Commis- sioner of Building Control shall, if it is reasonably practicable to do so, give notice of his intention to the owner and every occupier of the building.
+[47/2007; 22/2012]
 
-[4/99]
+(2) The Commissioner of Building Control may, in lieu of or in addition to any order under subsection (1), make —
 
-(3) Subject to this section, the Commissioner of Building Control may recover from the owner of the building all expenses reasonably incurred by him under this section.
+(a) an order (called in this Part an occupancy order) directing the owner or occupier of the building to not allow more than the number of people stated in the occupancy order to be in the building at any time or to otherwise restrict the use of the building, until the Commissioner of Building Control, being satisfied that any inspection or building works mentioned in subsection (1) are completed, withdraws the order; or
 
-[4/99]
+(b) an order (called in this Part a closure order) directing the closure of the building, and that every owner and occupier of the building must quit the building and must not allow anyone else to occupy the building except as permitted under this Part.
 
-(4) So far as expenses incurred by the Commissioner of Building Control under this section consist of expenses of fencing off the building, or arranging for it to be watched, the expenses shall not be recoverable in respect of any period —
+[47/2007]
 
-(a) after the danger has been removed by other steps under this section; or
+(3) Before exercising any of his or her powers under subsection (2), the Commissioner of Building Control must, if it is reasonably practicable to do so, give notice of his or her intention to make an occupancy order or a closure order, as the case may be.
 
-(b) after an order made under section 23 for the purpose of its removal has been complied with or has been executed as mentioned in section 23 (2).
+[47/2007]
 
-[4/99]
+(4) If the person to whom an order in subsection (1) is given fails to comply with the order within the time specified, the Commissioner of Building Control may ––
 
-(5) In any proceedings to recover expenses under this section, the court shall inquire whether the Commissioner of Building Control might reasonably have proceeded instead under section 23.
+(a) execute the order in any manner that he or she thinks fit;
 
-[4/99]
+and
+
+(b) recover in a court of competent jurisdiction as a debt due to him or her all expenses reasonably incurred by him or her in doing so from the person in default, except that so far as the expenses incurred under this section consist of expenses of fencing off the building, or arranging for it to be watched, the expenses are not recoverable in respect of any period after the danger has been removed by other steps under this section.
+
+[47/2007]
+
+(5) Without affecting the right of the Commissioner of Building Control to exercise his or her powers under subsection (4), any person who, without reasonable excuse, fails to comply with any order in subsection (1) that the person is given shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in respect of a continuing failure to comply, to an additional fine not exceeding $2,500 for each day or part of a day the person fails to comply with the order, and if the failure to comply continues after the conviction, the person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $5,000 for each day or part of a day the person fails to comply with the order after conviction.
+
+[47/2007]
+
+(6) Any person to whom any occupancy order or closure order under subsection (2) is given must, while the order is in force, display a copy of the order at every entrance to the building to which the order relates, and that copy must be displayed in a way that it can be easily read by people outside the building.
+
+[47/2007]
+
+(7) Any person who contravenes subsection (6) shall be guilty of an offence.
+
+[47/2007]

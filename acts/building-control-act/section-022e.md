@@ -1,12 +1,52 @@
-# 22E. Installation report
-Part: PART III INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS
+# 22E. Duty of building owner, etc., not to alter
+Part: PART 3A DISABILITY AND OTHER PERFORMANCE REQUIREMENTS FOR BUILDINGS
 
-(1) The person referred to in section 22B (1), or the owner referred to in section 22C or 22D shall, upon completion of the installation or retrofitting works carried out under section 22B (1), 22C or 22D (2), as the case may be, submit a report of the completed works to the Commissioner of Building Control.
+(1) Every owner or occupier of a building must not remove, alter or obstruct, or cause the removal, alteration or obstruction of, any physical feature of the building where —
 
-[21E
+(a) the physical feature satisfies the relevant performance requirement for the purposes of this Part; and
 
-[36/99]
+(b) the removal, alteration or obstruction will cause the physical feature to cease to satisfy the relevant performance requirement.
 
-(2) The report referred to in subsection (1) shall be in such form and manner as the Commissioner of Building Control may determine.
+[47/2007]
 
-[36/99]
+(2) Where, in the opinion of the Commissioner of Building Control, any physical feature of a building mentioned in subsection (1)(a) has been removed, altered or obstructed so as to cease to satisfy the relevant performance requirement, the Commissioner of Building Control may, by written notice, require such repairs, work or alteration to the physical feature or the building or other remedial action as he or she thinks fit to be carried out to reinstate the physical feature so as to satisfy the relevant performance requirement.
+
+[47/2007]
+
+(3) A notice to reinstate under subsection (2) must specify —
+
+(a) the manner in which the repairs, work, alteration or remedial action specified in the notice is to be carried out;
+
+(b) the time within which the repairs, work, alteration or remedial action must commence;
+
+(c) the time within which the repairs, work, alteration or remedial action must be completed; and
+
+(d) that the repairs, work, alteration or remedial action must be carried out with due diligence to the satisfaction of the Commissioner of Building Control.
+
+[47/2007]
+
+(4) A notice to reinstate under subsection (2) must be made in respect of any building or any physical feature thereof and must be served —
+
+(a) on the owner of the building;
+
+(b) where that owner is not known or cannot be found by reasonable inquiry, on the occupier of the building;
+
+(c) in the case of a physical feature comprised in any common property or limited common property of any subdivided building, on the owner thereof; or
+
+(d) in the case of a physical feature comprised in any common property of residential or commercial property in any housing estate of the Housing and Development Board —
+
+(i) on the Town Council receiving any rent or charge for the maintenance of that common property; or
+
+(ii) where there is no Town Council with the function and duty to maintain that common property, on the Housing and Development Board.
+
+[47/2007]
+
+(5) If any person on whom a notice under subsection (2) is served fails, without reasonable excuse, to comply with the requirements of that notice, that person shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both;
+
+(b) to a further fine not exceeding $250 for each day or part of a day the person fails, without reasonable excuse, to comply with the requirements of that notice; and
+
+(c) in the case of a continuing offence after conviction, to a further fine not exceeding $500 for every day or part of a day during which the failure to comply continues after conviction.
+
+[47/2007]
