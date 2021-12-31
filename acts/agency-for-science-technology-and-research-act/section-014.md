@@ -1,7 +1,5 @@
-# 14. Accounts
+# 14. Financial year
 
-The financial provisions set out in the Second Schedule shall apply to the Agency.
+The financial year of the Agency begins on 1 April of each year and ends on 31 March of the succeeding year.
 
-[12
-
-[26/2002]
+[5/2018]

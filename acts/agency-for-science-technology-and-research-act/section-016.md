@@ -1,27 +1,17 @@
-# 16. Appointment of chief executive officer and other employees
+# 16. Chief executive officer, other officers and employees, etc.
 
-(1) The Agency shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as it may determine.
+(1) There must be a chief executive officer of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-10 CAP. 5A Technology and Research 2002 Ed.
+[5/2018]
 
-(2) The chief executive officer shall —
+(2) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(a) be known by such designation as the Agency may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Agency for the proper administration and management of the functions and affairs of the Agency in accordance with the policy laid down by the Agency;
+(b) is, for any reason, unable to perform the duties of the office.
 
-and
+[5/2018]
 
-(c) not be removed from office without the consent of the Minister.
+(3) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-[26/2002]
-
-(3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Agency to act in the place of the chief executive officer during any such period of absence from duty.
-
-[26/2002]
-
-(4) The Agency may from time to time appoint such other officers, employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as it may determine.
-
-[14
-
-[26/2002]
+[5/2018]

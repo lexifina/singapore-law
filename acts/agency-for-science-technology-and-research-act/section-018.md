@@ -1,7 +1,3 @@
-# 18. Public servants
+# 18. [Repealed]
 
-All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
-
-[16
-
-[26/2002]
+[Repealed by Act 5 of 2018]
