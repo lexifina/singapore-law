@@ -1,0 +1,4 @@
+# 221. Saving and transitional provisions in relation to amendments to Trust Companies Act 2005
+Part: PART 14 SAVINGS AND TRANSITIONAL PROVISIONS
+
+For the purposes of section 10(2)(e) of the Trust Companies Act 2005, the exercise of any power by the Minister under Division 2, 3, 4 or 4A of Part 4B of the Monetary Authority of Singapore Act 1970 as in force immediately before the date of commencement of section 210 (called in this section the repeal date) in relation to a licensed trust company mentioned in section 10(2)(e) of the Trust Companies Act 2005 as in force before the repeal date, is on and after the repeal date treated as the exercise of the power of the Minister under the corresponding provision of Division 2, 4, 5 or 6 of Part 8 of this Act in relation to that licensed trust company.

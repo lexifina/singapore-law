@@ -1,0 +1,4 @@
+# 216. Saving and transitional provisions in relation to amendments to Finance Companies Act 1967
+Part: PART 14 SAVINGS AND TRANSITIONAL PROVISIONS
+
+For the purposes of section 15(1)(c)(ii) of the Finance Companies Act 1967, the exercise of any power by the Minister under Division 2, 3, 4 or 4A of Part 4B of the Monetary Authority of Singapore Act 1970 as in force immediately before the date of commencement of section 199 of this Act (called in this section the repeal date) in relation to a finance company mentioned in section 15(1)(c)(ii) of the Finance Companies Act 1967 as in force before the repeal date, is on and after the repeal date treated as the exercise of the power of the Minister under the corresponding provision of Division 2, 4, 5 or 6 of Part 8 of this Act in relation to that finance company.
