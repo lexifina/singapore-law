@@ -1,0 +1,4 @@
+# 66. Repeal of Homes for the Aged Act 1988
+Part: PART 13 REPEAL, CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS AND FINAL PROVISIONS
+
+Repeal the Homes for the Aged Act 1988.
