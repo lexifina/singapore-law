@@ -22,6 +22,14 @@ The Acts are in English, as SSO publishes them.
 
 There is no legal text here yet, and no `LICENSE`. SSO's Terms of Use (clause 13) allow Singapore legislation to be reproduced if the reproduction says that it is subject to copyright of the Singapore Government and reproduced with the permission of the Attorney-General's Chambers, and that readers may check [Singapore Statutes Online](https://sso.agc.gov.sg) for the latest version; the acts will carry that notice when they are added.
 
+## How it is checked
+
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
