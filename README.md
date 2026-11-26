@@ -8,7 +8,7 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is planned:** every Act on Singapore Statutes Online (SSO), current and repealed, with every version on its legislation timeline, each credited to what SSO pairs with it (an amending Act, a piece of subsidiary legislation or a revised edition); subsidiary legislation itself once every Act is in. An act is added only after it has been read whole and checked.
 
-**Why there is none yet.** SSO's Terms of Use (clause 13(d)) allow automated reading only between 3 and 7 a.m. Singapore time, and its robots.txt asks for 6 seconds between requests. On 10 November 2026 SSO answered each of the first three requests made inside that window with HTTP 403 ("Request blocked"), and reading has been stopped since.
+**Why there is none yet.** SSO's Terms of Use (clause 13(d)) allow automated reading only between 3 and 7 a.m. Singapore time, and its robots.txt asks for 6 seconds between requests. On 10 November 2026 SSO refused the first requests made inside that window (HTTP 403); requests on 26 November 2026 were answered, and reading resumes inside the permitted hours from that night. The layout is in [STRUCTURE.md](STRUCTURE.md).
 
 The Acts are in English, as SSO publishes them.
 
