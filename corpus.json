@@ -1,0 +1,11 @@
+{
+  "corpus": "sg/national/acts",
+  "name": "Singapore law: Acts from the Government Gazette",
+  "label": "Singapore",
+  "language": "en",
+  "root": "acts",
+  "roots": [
+    "acts",
+    "acts-as-passed"
+  ]
+}

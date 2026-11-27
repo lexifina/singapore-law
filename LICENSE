@@ -1,0 +1,24 @@
+Singapore legislation in this repository
+
+The Acts under acts/ and acts-as-passed/ are taken from the Republic of Singapore Government Gazette, Electronic
+Edition (https://www.egazette.gov.sg), owned and maintained by the Government of Singapore, represented by the
+Ministry of Digital Development and Information (MDDI). As clause 11 of the eGazette Terms of Use (last updated
+10 July 2026) requires:
+
+  The e-Gazettes reproduced in this repository are subject to copyright of the Singapore Government and are
+  reproduced here with the permission of the Singapore Government. Readers may check the eGazette website
+  (https://www.egazette.gov.sg) for the latest e-Gazettes.
+
+Lexifina, as the operator of this repository, is responsible for the accuracy of the e-Gazettes reproduced here.
+This repository is not associated or affiliated in any manner with the Government of Singapore or the eGazette
+website. The Gazette was read automatically one request at a time, about one second apart, without circumventing
+any security measure (clause 11). The Government may revoke or change this permission at any time. Section 48 of
+the Interpretation Act does not apply to anything copied from the website: these copies are not evidence of the law.
+
+Singapore Statutes Online (https://sso.agc.gov.sg, Attorney-General's Chambers) is not a source of any text here.
+
+Lexifina's work
+
+The history (commits, commit messages and trailers), the tables under data/, the documents and the tools are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
